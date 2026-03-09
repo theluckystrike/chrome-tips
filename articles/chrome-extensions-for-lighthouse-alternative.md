@@ -6,6 +6,7 @@ date: 2026-03-09
 categories: [web-development, tools]
 tags: [chrome-extensions, lighthouse, website-audit, performance, seo]
 author: theluckystrike
+canonical: true
 ---
 
 # Chrome Extensions for Lighthouse Alternative

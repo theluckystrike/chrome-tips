@@ -70,7 +70,7 @@ Another option is to use Chrome's enhanced safe browsing mode for more proactive
 
 While changing Chrome settings is a great start, adding privacy-focused extensions provides another layer of protection. These tools can block trackers, remove lingering cookies, and give you more visibility into what is happening in your browser.
 
-Tab Suspender Pro is one extension that includes privacy benefits alongside its main feature of suspending inactive tabs. It helps block common trackers and keeps your browsing more private while also saving memory by suspending tabs you are not using. This makes it a convenient choice if you want both better privacy and improved browser performance.
+Tab Suspender Pro is one extension worth pairing with your privacy tools. Its job is suspending inactive tabs to free up memory, which matters when you run multiple privacy extensions at once. Tracker blockers, cookie managers, and HTTPS enforcers all consume resources, and Tab Suspender Pro keeps Chrome responsive by ensuring idle tabs are not competing for the same memory your privacy extensions need.
 
 Other popular privacy extensions include uBlock Origin for blocking ads and trackers, Privacy Badger for automatically learning to block new trackers, and HTTPS Everywhere for ensuring you connect to websites securely whenever possible.
 

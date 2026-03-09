@@ -12,7 +12,7 @@ author: theluckystrike
 
 Finding the chrome best settings for college students can feel like searching for a needle in a haystack. Between researching for papers, attending online lectures, keeping up with group chats, and procrastinating on social media, your browser works harder than you do. The good news is that a few simple tweaks can transform Chrome from a memory-hogging distraction machine into a focused study tool that helps you get more done while using less battery and data.
 
-College students face unique browser challenges. You probably switch between dozens of tabs for different courses, rely on campus WiFi that might be spotgy in dorms, and need your laptop to last through long library sessions without an outlet nearby. Chrome comes with settings designed to address exactly these problems, but most people never touch them.
+College students face unique browser challenges. You probably switch between dozens of tabs for different courses, rely on campus WiFi that might be spotty in dorms, and need your laptop to last through long library sessions without an outlet nearby. Chrome comes with settings designed to address exactly these problems, but most people never touch them.
 
 ## Enable Memory Saver to Handle Multiple Courses
 

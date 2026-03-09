@@ -72,7 +72,7 @@ You might also consider temporarily disabling your antivirus protection to test 
 
 If you frequently run into download issues, using a download management extension can give you more control over how Chrome handles files. There are several extensions available that can bypass certain types of blocks and give you more flexibility.
 
-Tab Suspender Pro is one option that many users find helpful for managing browser resources and downloads more effectively. It offers features that help you control how Chrome handles downloads and can sometimes work around blocking issues. However, there are also other extensions available in the Chrome Web Store that serve similar purposes. Choose whichever works best for your needs.
+If Chrome feels sluggish while you troubleshoot download issues, having too many open tabs could be part of the problem. Tab Suspender Pro automatically suspends tabs you are not actively using, freeing up memory and CPU so Chrome can handle downloads more reliably. It does not manage downloads directly, but keeping your browser responsive makes the whole troubleshooting process smoother.
 
 ## When All Else Fails
 

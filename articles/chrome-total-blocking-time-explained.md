@@ -16,7 +16,7 @@ In simple terms, total blocking time is a measurement that tells you how long yo
 
 ## Why Does Total Blocking Time Happen
 
-Chrome measures this metric because modern web pages do far more than display text and images. They run complex scripts, load data from multiple sources, display animations, and constantly update content in the background. All of this activity requires your browser to use its processing power, and sometimes the工作量 becomes too much for your computer to handle smoothly.
+Chrome measures this metric because modern web pages do far more than display text and images. They run complex scripts, load data from multiple sources, display animations, and constantly update content in the background. All of this activity requires your browser to use its processing power, and sometimes the workload becomes too much for your computer to handle smoothly.
 
 The most common causes of high total blocking time include having too many tabs open at once, using websites with heavy scripts like social media platforms and streaming services, running multiple browser extensions that consume resources, and having outdated hardware or insufficient memory. When you open many tabs, each one continues running scripts even when you are not looking at it. This accumulates quickly and can cause your browser to struggle.
 

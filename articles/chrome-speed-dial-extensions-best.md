@@ -40,7 +40,7 @@ One standout feature of Speed Dial 2 is its ability to display useful informatio
 
 Neat Bookmarks combines speed dial functionality with bookmark management in a way that appeals to users who want organization features. The extension displays your bookmarks as visual tiles, making it easy to find and access sites you have saved over time. You can create folders and categories to keep everything organized, and the visual presentation makes it simple to locate what you need.
 
-The extension also offers quick search functionality, so if you have a lot of bookmarks, you can type in a few letters to filter down to the ones you want. This is particularly useful for users who have积累了大量的书签 over time and struggle to find specific ones using Chrome built-in bookmark manager.
+The extension also offers quick search functionality, so if you have a lot of bookmarks, you can type in a few letters to filter down to the ones you want. This is particularly useful for users who have accumulated a large number of bookmarks over time and struggle to find specific ones using Chrome built-in bookmark manager.
 
 ## Speed Dial for Chrome
 

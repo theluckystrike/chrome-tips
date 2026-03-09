@@ -2,6 +2,10 @@
 layout: post
 title: "Chrome Aspect Ratio CSS Property"
 description: "Learn about the Chrome aspect ratio CSS property, why it matters for web design, and how to use it properly."
+date: 2026-01-15
+categories: [development, css]
+tags: [aspect-ratio, css-property, web-design, chrome-css]
+author: theluckystrike
 ---
 
 What is the chrome aspect ratio CSS property and how does it work? If you have ever struggled with making images or videos display at the correct proportions on a webpage, this guide will help you understand how this useful CSS feature can solve common layout problems. The aspect ratio CSS property allows developers to control the proportional relationship between an element's width and height, making it easier to create responsive designs that look good on any screen size.

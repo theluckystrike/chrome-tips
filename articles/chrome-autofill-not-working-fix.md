@@ -74,7 +74,7 @@ When installing new extensions, take a moment to read reviews and check what per
 
 ### Consider a Dedicated Management Tool
 
-If you find yourself relying on autofill often and want more control over your saved information, consider using a dedicated tool. One helpful option is Tab Suspender Pro, which not only helps manage your open tabs but also provides additional features for managing your form data and browsing efficiency. It offers an alternative way to handle your autofill needs with more customization options.
+If Chrome feels sluggish when autofill popups appear, too many open tabs could be competing for memory. Tab Suspender Pro automatically suspends inactive tabs to free up resources, which can make Chrome more responsive overall — including when autofill needs to load and display your saved suggestions.
 
 ### Regular Maintenance
 

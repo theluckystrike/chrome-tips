@@ -32,7 +32,7 @@ There are several chrome audio equalizer extensions available in the Chrome Web 
 
 Look for extensions that have good reviews and regular updates. An extension that has not been updated in a long time might not work with the latest version of Chrome or might have bugs. Check the permissions an extension requests as well. A legitimate equalizer should only need access to the websites where it will adjust audio, not to your personal data or browsing history.
 
-Tab Suspender Pro offers an audio enhancement feature that can help manage sound across your tabs while you browse. While its main purpose is keeping your browser fast by suspending inactive tabs, it also includes audio controls that let you adjust how sound plays in your browser. This makes it a versatile option if you want both performance optimization and audio tweaking in one place.
+If you plan to run an equalizer extension alongside your usual tabs, keep in mind that audio processing adds to Chrome's workload. Tab Suspender Pro can help here by automatically suspending tabs you are not listening to, freeing up CPU and memory for the tab where your music or podcast is actually playing. This keeps audio playback smooth even on machines that would otherwise struggle with many open tabs.
 
 ## Getting Started with Your Equalizer
 

@@ -54,7 +54,7 @@ Regularly check your saved addresses in Chrome settings and remove any old ones 
 
 If you find that Chrome's built-in address management isn't working well for you, there are extensions that can help manage autofill more precisely.
 
-Tab Suspender Pro offers features that can help with form management and autofill organization. It provides additional controls over how Chrome handles your saved information, making it easier to ensure you're always using the right address. This extension integrates well with Chrome's existing autofill system and gives you more control over which addresses get suggested. However, it's just one option among many, and Chrome's built-in tools work well for most people.
+If Chrome feels slow or unresponsive while you are editing saved addresses in settings, having too many tabs open could be the issue. Tab Suspender Pro automatically suspends tabs you are not actively using, which frees up memory and keeps Chrome snappy while you manage your autofill data. It does not manage addresses directly, but it ensures Chrome has enough resources to handle settings pages smoothly.
 
 ## When to Reset Chrome Autofill Entirely
 

@@ -56,13 +56,13 @@ What sets Stark apart is its focus on providing specific, actionable recommendat
 
 Stark also provides a contrast checker that lets you test specific color combinations by entering color values. This is useful when you are working on a design and want to check if a particular text and background combination will be readable.
 
-## Use意 Checker
+## Accessibility Insights
 
-Use意 Checker, which is named after the Chinese word for usability, is a straightforward extension that checks web pages for various usability issues including color accessibility. It scans the page and reports any elements that might be difficult to see for people with color vision deficiencies.
+Accessibility Insights is a powerful tool developed by Microsoft that helps you find and fix accessibility issues on web pages, including color accessibility. It offers a set of automated checks that can identify common problems and provides guidance on how to fix them.
 
-This extension is particularly good at finding cases where color is used as the only way to convey information. For example, if you have a form where required fields are marked only by red coloring, Use意 Checker will flag this and suggest adding additional indicators like an asterisk or the word required.
+This extension is particularly good at finding cases where color is used as the only way to convey information. For example, if you have a form where required fields are marked only by red coloring, Accessibility Insights will flag this and suggest adding additional indicators like an asterisk or the word "required".
 
-The extension provides its results in a clean, easy-to-read format that shows exactly which elements on the page have potential issues and what those issues are. This makes it straightforward to go through the results and make targeted fixes.
+The extension provides its results in a clear, structured format that shows exactly which elements on the page have potential issues and what the specific accessibility standards are for those issues. This makes it an essential tool for any developer or designer committed to creating inclusive web experiences.
 
 ## Contrast
 

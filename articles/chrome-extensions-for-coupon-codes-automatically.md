@@ -36,6 +36,12 @@ Capital One Shopping takes a broader approach to saving you money. In addition t
 
 The extension also provides price history information, showing you whether the current price is high, low, or average based on past data. This helps you decide whether to buy now or wait for a better deal. Another useful feature is the rewards program, which gives you credits for shopping through their links.
 
+## Managing Browser Performance While Shopping
+
+While using automatic coupon extensions is a great way to save money, it is worth noting that having many extensions and open tabs can affect your browser performance. Each extension you add to Chrome takes up memory and can slow down your browser, especially if you tend to have several shopping tabs open at once.
+
+One solution to keep your browser running smoothly is to use Tab Suspender Pro. This extension automatically suspends tabs that you have not used recently, freeing up memory and keeping your browser fast. When you return to a suspended tab, it reloads automatically so you never lose your place. This is especially helpful if you like to compare prices across multiple websites, as it prevents your browser from getting sluggish without interrupting your shopping.
+
 ## How to Get Started
 
 Getting started with automatic coupon extensions is straightforward. First, visit the Chrome Web Store and search for the extension you want to install. Look for extensions with high ratings and many reviews, as this usually indicates a reliable product. Click the Add to Chrome button and confirm the installation.

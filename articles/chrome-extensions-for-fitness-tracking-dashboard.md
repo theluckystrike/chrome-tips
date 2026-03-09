@@ -10,7 +10,7 @@ author: theluckystrike
 
 # Chrome Extensions for Fitness Tracking Dashboard
 
-If you are searching for chrome extensions for fitness tracking dashboard solutions, you probably want a centralized way to see all your health data without jumping between multiple apps and websites. Many people find it frustrating to check their workout logs in one place, their calorie intake in another, and their sleep data somewhere else entirely. This scattered approach makes it hard to get a complete picture of your fitness progress.
+If you are searching for chrome extensions for fitness tracking dashboard, you probably want a centralized way to see all your health data without jumping between multiple apps and websites. Many people find it frustrating to check their workout logs in one place, their calorie intake in another, and their sleep data somewhere else entirely. This scattered approach makes it hard to get a complete picture of your fitness progress.
 
 ## The Problem with Fragmented Fitness Data
 

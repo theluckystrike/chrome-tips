@@ -36,6 +36,12 @@ If your Chrome has become slow, try clearing the cache. Go to Settings in Chrome
 
 This removes stored temporary files and can give Chrome a noticeable speed boost. You might need to log back into some websites afterward, but the improvement in speed is often worth it.
 
+## Manage Site-Specific Permissions
+
+Sometimes, it isn't the whole browser that's slow, but specific websites that are resource-heavy. In Chrome's settings, you can navigate to "Site Settings" to see which pages have permission to use your location, camera, or show intrusive notifications. Disabling unnecessary permissions for sites you rarely visit can reduce the background processing load on your device. 
+
+Additionally, you can clear data for individual sites rather than wiping your entire browsing history. This is particularly useful if a single web app is acting up or lagging, allowing you to "reset" that specific site without losing your login sessions elsewhere. Look for the "All Sites" option under Site Settings to find a list of every domain that has stored data on your phone and manage them one by one for maximum efficiency.
+
 ## Update Chrome
 
 Make sure you are running the latest version of Chrome. Open the Google Play Store, search for Chrome, and check if an update is available. Installing the latest version often resolves performance issues and can also improve security.
@@ -52,13 +58,21 @@ Chrome on Android supports extensions, and if you have several installed, they m
 
 Chrome has a built-in Data Saver mode that can actually help with speed as well. This feature compresses pages before loading them, which reduces data usage and can make pages load faster on slower connections. Find Data Saver in Chrome's Settings under Performance.
 
+## Use Chrome Flags for Experimental Speed
+
+For users who want to go beyond standard settings, Chrome Flags offer a hidden menu of experimental features that can significantly boost performance. One of the most effective flags for Android is "Parallel Downloading." By enabling this, Chrome can break down large files into smaller parts and download them simultaneously, which drastically reduces wait times on faster connections. 
+
+Another powerful flag is "Back-Forward Cache," which allows for near-instant page loading when navigating back and forth between sites you've already visited. To access these, type `chrome://flags` into your address bar, search for these specific terms, and set them to "Enabled." Always remember to relaunch Chrome after making these changes to see the effect. While these are experimental, they are widely used by power users to squeeze every bit of speed out of the mobile browser.
+
 ## Restart Your Phone
 
 When all else fails, a simple restart can work wonders. Closing Chrome completely and restarting your phone clears the memory and refreshes all background processes. This is one of the most reliable ways to get Chrome running smoothly again.
 
 ## Consider Using a Tab Management Tool
 
-If you find yourself frequently with too many tabs open, consider using a tool like Tab Suspender Pro. This extension helps manage your tabs automatically by suspending ones you are not using, which can significantly reduce memory usage and improve overall browser performance. Instead of manually deciding which tabs to close and which to keep, Tab Suspender Pro handles that decision for you by putting inactive tabs to sleep. When you tap on a suspended tab, it reloads right away, so you never lose access to your pages. It is a helpful solution for keeping Chrome running fast without you having to constantly think about tab management.
+If you find yourself frequently with too many tabs open, consider using a tool like Tab Suspender Pro. This extension helps manage your tabs automatically by suspending ones you are not using, which can significantly reduce memory usage and improve overall browser performance. Instead of manually deciding which tabs to close and which to keep, Tab Suspender Pro handles that decision for you by putting inactive tabs to sleep. 
+
+When you tap on a suspended tab, it reloads right away, so you never lose access to your pages. It is a helpful solution for keeping Chrome running fast without you having to constantly think about tab management. In 2026, where web apps are more demanding than ever, having an automated system like Tab Suspender Pro ensures that your phone's RAM is dedicated to what you are actually looking at, rather than being wasted on background pages you haven't touched in hours. It effectively turns a cluttered, slow browser into a streamlined productivity tool.
 
 ## Keep Your Android Updated
 

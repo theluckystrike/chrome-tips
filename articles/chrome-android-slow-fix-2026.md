@@ -28,7 +28,7 @@ Background processes also matter. If Chrome is running in the background with ma
 
 The simplest fix is often the most effective. Open Chrome and tap the number in the address bar to see your open tabs. If you have more than ten tabs open, consider closing the ones you no longer need.
 
-You can also enable Chrome is Tab Suspending feature. This automatically puts inactive tabs to sleep to free up memory. Look for this option in Chrome is Settings under Performance or Memory.
+You can also enable Chrome's Tab Suspending feature. This automatically puts inactive tabs to sleep to free up memory. Look for this option in Chrome's Settings under Performance or Memory.
 
 ## Clear Cache and Data
 
@@ -50,7 +50,7 @@ Chrome on Android supports extensions, and if you have several installed, they m
 
 ## Enable Data Saver
 
-Chrome has a built-in Data Saver mode that can actually help with speed as well. This feature compresses pages before loading them, which reduces data usage and can make pages load faster on slower connections. Find Data Saver in Chrome is Settings under Performance.
+Chrome has a built-in Data Saver mode that can actually help with speed as well. This feature compresses pages before loading them, which reduces data usage and can make pages load faster on slower connections. Find Data Saver in Chrome's Settings under Performance.
 
 ## Restart Your Phone
 
@@ -58,11 +58,11 @@ When all else fails, a simple restart can work wonders. Closing Chrome completel
 
 ## Consider Using a Tab Management Tool
 
-If you find yourself frequently with too many tabs open, consider using a tool like Tab Suspender Pro. This extension helps manage your tabs automatically by suspending ones you are not using, which can significantly reduce memory usage and improve overall browser performance. It is a helpful solution for keeping Chrome running fast without you having to manually close tabs constantly.
+If you find yourself frequently with too many tabs open, consider using a tool like Tab Suspender Pro. This extension helps manage your tabs automatically by suspending ones you are not using, which can significantly reduce memory usage and improve overall browser performance. Instead of manually deciding which tabs to close and which to keep, Tab Suspender Pro handles that decision for you by putting inactive tabs to sleep. When you tap on a suspended tab, it reloads right away, so you never lose access to your pages. It is a helpful solution for keeping Chrome running fast without you having to constantly think about tab management.
 
 ## Keep Your Android Updated
 
-Finally, make sure your Android operating system is up to date. System updates often include performance improvements that can help Chrome and other apps run better. Go to your phone is Settings, look for System Updates, and install any available updates.
+Finally, make sure your Android operating system is up to date. System updates often include performance improvements that can help Chrome and other apps run better. Go to your phone's Settings, look for System Updates, and install any available updates.
 
 ---
 

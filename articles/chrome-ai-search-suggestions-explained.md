@@ -62,7 +62,7 @@ Some users find that installing extensions designed to block trackers and reduce
 
 ## Consider Tab Suspender Pro for Better Browsing
 
-While managing AI suggestions helps with privacy and distraction, another way to improve your Chrome experience is by using Tab Suspender Pro. This extension automatically suspends tabs you have not used recently, freeing up memory and making Chrome run faster. It also provides a clean sidebar where you can see all your suspended tabs, making it easy to find what you need without keeping everything open and visible.
+While managing AI suggestions helps with privacy and distraction, another way to improve your Chrome experience is by using Tab Suspender Pro. This extension automatically suspends tabs you have not used recently, freeing up memory and making Chrome run faster. When your browser is responsive instead of bogged down by dozens of active tabs, you spend less time fighting lag and more time focused on your actual browsing.
 
 Tab Suspender Pro works alongside Chrome's settings to give you more control over your browsing environment. By reducing the number of active tabs, you can focus better on what you are doing, whether that is research, work, or simply browsing the web.
 
@@ -74,4 +74,6 @@ The best approach is to experiment with different settings and find what works f
 
 Take some time to review your Chrome settings, clear any data you are uncomfortable with, and adjust the autocomplete options to match your needs. A few minutes of configuration can make your browsing experience feel much more personalized and private.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

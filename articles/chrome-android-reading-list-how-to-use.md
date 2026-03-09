@@ -84,4 +84,4 @@ Give it a try with a few articles today. Once you get comfortable with how chrom
 
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

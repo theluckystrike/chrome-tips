@@ -70,7 +70,7 @@ If you create a theme you love and want to keep it safe, consider not deleting i
 
 ## Alternatives and Additional Options
 
-While Chrome AI theme generator is a powerful tool, you might also want to explore other customization options. Extensions like Tab Suspender Pro offer additional features beyond theme customization, helping you manage your tabs more efficiently while also providing some visual customization options. This extension is particularly useful if you often have many tabs open and want to keep your browser running smoothly.
+While Chrome AI theme generator is a powerful tool, you might also want to explore other customization options. If you tend to keep many tabs open while experimenting with themes, extensions like Tab Suspender Pro can help keep your browser running smoothly. It automatically suspends inactive tabs to free up memory, which means Chrome stays responsive even while you are generating and previewing multiple AI themes.
 
 Chrome also offers traditional theme options in the same Appearance settings area. These include preset themes from Google and the ability to choose solid colors for your browser frame. These options work well if you prefer something simple and do not want to use the AI generator.
 
@@ -78,4 +78,4 @@ For those interested in deeper customization, Chrome Web Store offers numerous t
 
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

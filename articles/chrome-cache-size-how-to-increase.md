@@ -61,3 +61,8 @@ After clearing, notice how websites load the first time. Then visit your most fr
 Increasing Chrome cache size is less about finding a single setting and more about understanding how Chrome manages stored data. By turning off the option to clear data when you quit, monitoring which sites use the most storage, and keeping your open tabs under control, you can help Chrome maintain a larger and more effective cache.
 
 Pairing these adjustments with good tab management habits creates a better overall browsing experience. Chrome will load your favorite sites faster, use less data, and run more smoothly throughout your day.
+
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+

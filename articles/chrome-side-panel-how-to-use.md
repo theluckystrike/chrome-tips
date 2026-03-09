@@ -76,6 +76,15 @@ On small screens (13-inch laptops), the Side Panel takes up valuable space. It's
 
 If you find yourself constantly opening and closing it, it might not fit your workflow. That's fine — it's a tool, not a requirement.
 
+## Side Panel and Browser Performance
+
+One thing to keep in mind when using the Side Panel and its associated extensions is that everything you do in Chrome consumes system resources. While the Side Panel itself is lightweight, keeping many tabs open while also using the Side Panel can eventually slow down your browser. This is where tools like Tab Suspender Pro become essential.
+
+Tab Suspender Pro is an extension that automatically manages your open tabs by suspending the ones you are not actively using. This frees up memory and CPU resources, ensuring that your main browsing experience and your Side Panel tools remain responsive and fast. When you use Tab Suspender Pro alongside the Chrome Side Panel, you create a more efficient workstation that handles complex multitasking without the typical browser lag.
+
+Whether you are using the Side Panel for research, shopping, or deep study, having a tool that manages your background resources ensures that you can focus on the task at hand rather than worrying about your computer's performance.
+
 ---
 
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+

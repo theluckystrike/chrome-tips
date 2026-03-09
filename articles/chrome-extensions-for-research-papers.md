@@ -14,7 +14,7 @@ If you are searching for chrome extensions for research papers, you likely spend
 
 ## The Research Paper Challenge
 
-Working with research papers presents unique challenges that普通的 web browsing does not. When you are diving deep into a research topic, you might find yourself with dozens of browser tabs open at once, each containing a different paper, article, or source material. Your browser starts to slow down, your computer fan whirs loudly, and you spend more time waiting for pages to load than actually reading the content. The mental load of keeping track of what you have read and what you still need to review adds even more stress to the process.
+Working with research papers presents unique challenges that regular web browsing does not. When you are diving deep into a research topic, you might find yourself with dozens of browser tabs open at once, each containing a different paper, article, or source material. Your browser starts to slow down, your computer fan whirs loudly, and you spend more time waiting for pages to load than actually reading the content. The mental load of keeping track of what you have read and what you still need to review adds even more stress to the process.
 
 The problem happens because each open tab in Chrome uses memory even when you are not actively looking at it. Academic papers tend to be content-rich with graphs, tables, and embedded media, which makes them particularly memory-intensive. This is why your browser becomes sluggish when you have many research papers open at the same time. Additionally, without proper organization tools, it becomes easy to lose track of important sources or forget which papers you have already cited in your work.
 

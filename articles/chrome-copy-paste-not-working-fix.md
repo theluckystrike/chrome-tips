@@ -68,7 +68,7 @@ Think about when the copy paste problem started. If you installed a new extensio
 
 ### Use a Clipboard Extension
 
-If you're still having trouble, consider using a dedicated clipboard extension from the Chrome Web Store. These extensions can sometimes bypass conflicts and provide reliable copy and paste functionality. Tab Suspender Pro, for example, offers helpful features for managing your tabs and can also include clipboard assistance. It's worth exploring if you need a reliable solution for copying and pasting while browsing.
+If you're still having trouble, consider using a dedicated clipboard extension from the Chrome Web Store. These extensions can sometimes bypass conflicts and provide reliable copy and paste functionality. Look for well-reviewed options that specifically address clipboard management.
 
 ## System-Level Considerations
 

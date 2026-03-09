@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chrome contact picker api explained"
+title: "Chrome Contact Picker API Explained"
 description: "Learn what Chrome Contact Picker API is, how websites use it, and how to manage contact access permissions in your browser for better privacy."
 date: 2026-03-09
 categories: [features, privacy]

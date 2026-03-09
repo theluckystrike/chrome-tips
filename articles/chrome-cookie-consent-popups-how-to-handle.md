@@ -48,8 +48,10 @@ When using consent management extensions, be aware that some websites might dete
 
 Rather than treating each cookie popup as a separate annoyance, consider developing a consistent approach. Decide in advance which options you typically prefer, such as rejecting non-essential cookies by default. This way, when you encounter a popup, you can quickly make your standard choice without deliberating each time.
 
-Another strategy is to be strategic about when you encounter these popups. If you are doing focused work and need to visit several new sites quickly, consider using a browser profile specifically for that task. You can also use Chrome is built-in reading list or bookmarking features to save articles for later reading rather than clicking through consent popups immediately.
+Another strategy is to be strategic about when you encounter these popups. If you are doing focused work and need to visit several new sites quickly, consider using a browser profile specifically for that task. You can also use Chrome's built-in reading list or bookmarking features to save articles for later reading rather than clicking through consent popups immediately.
 
 Keep in mind that cookie consent popups are unlikely to disappear anytime soon. Privacy regulations continue to expand globally, and websites must comply to operate legally. Rather than getting frustrated, building efficient habits around handling these popups will save you time and mental energy in the long run.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

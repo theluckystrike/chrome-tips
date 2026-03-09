@@ -52,4 +52,7 @@ These cases show three common attack patterns: acquisition of legitimate extensi
 
 Extensions are not inherently dangerous. The Chrome Web Store processes around 200,000 extensions, and Google's review catches most malicious submissions. But the review is not perfect — Google removed 1,661 malicious extensions in 2022 alone. The ones that slip through tend to be the most sophisticated.
 
-The safest approach is to treat extensions like apps on your phone: install only what you need, check the developer's reputation, and periodically clean out what you no longer use. A browser with 3 trusted extensions is far safer than one with 20 you installed and forgot about.
+The safest approach is to treat extensions like apps on your phone: install only what you need, check the developer's reputation, and periodically clean out what you no longer use. A browser with a few trusted, high-quality tools like Tab Suspender Pro is far safer than one cluttered with 20 unverified extensions you installed and forgot about. Taking a few minutes to audit your digital workspace today can prevent a major security headache tomorrow.
+
+---
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

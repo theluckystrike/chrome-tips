@@ -51,6 +51,21 @@ Settings > On startup > select "Open the New Tab page" or set a specific URL you
 
 If you want the fastest startup with zero distractions, `about:blank` is the best option. If you want quick access to frequently visited sites, the default new tab page is more practical.
 
----
+## about:blank's Role in Browser Security
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+One aspect of `about:blank` that is often overlooked is its role in security and privacy. When you use `about:blank` as your startup page, you're not just saving time; you're also reducing your initial "attack surface." Because this page contains no code, it's impossible for a malicious script to run within that tab until you navigate away to a different site.
+
+Additionally, many privacy-conscious users prefer `about:blank` because it prevents the browser from making background connections to Google's servers for things like search suggestions or new tab page images. Every time you open a standard "New Tab" page, Chrome is doing a bit of work to personalize it for you. With a blank page, your browser is truly waiting for your command before it does anything at all.
+
+## How Modern Extensions Use about:blank
+
+You might be surprised to learn that many of your favorite extensions actually rely on `about:blank` behind the scenes. For instance, tools like **Tab Suspender Pro** use a similar "minimal footprint" philosophy to save you memory. While a suspended tab might look like a screenshot of the original page, the underlying mechanism is designed to unload the complex scripts and assets that are hogging your RAM—much like how `about:blank` is the most resource-efficient state a browser tab can be in.
+
+When an extension needs to perform a quick task without loading a full website, it might briefly instantiate an `about:blank` frame to handle background processing. This is a common and highly efficient practice that ensures your browser remains fast and responsive.
+
+## Conclusion: Should You Use about:blank?
+
+Ultimately, `about:blank` is a tool for efficiency and minimalism. If you find the modern internet too noisy and want a calm place to start your browsing session, setting it as your homepage is a fantastic choice. It isn't a sign of a virus, and it isn't an error page—it's the browser in its purest, most basic form.
+
+---
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

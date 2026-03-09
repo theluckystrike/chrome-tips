@@ -82,24 +82,31 @@ Some family members might share access to streaming services, news subscriptions
 
 Don't save shared passwords in individual profiles — it creates confusion about who changed the password when.
 
-## Regular Maintenance
+## Manage Performance and Resource Usage
 
-Every few months, do a quick check:
-- Are all profiles being used? Remove any that aren't.
-- Are the kids' profiles still appropriately configured?
-- Is everyone using their own profile (not accidentally using someone else's)?
-- Are there any extensions in the kids' profiles that shouldn't be there?
+When multiple family members have their own profiles on a single computer, you might notice that Chrome starts to consume a lot of system resources. This is because each profile can run its own background processes, extensions, and open tabs. If Dad leaves his work profile open with 20 tabs while the kids are trying to play an educational game on their profile, the computer's performance can suffer.
 
-## The Simple Version
+To keep things running smoothly, it's a good idea to use a performance-boosting tool like **Tab Suspender Pro**. This extension is a lifesaver for shared family computers because it automatically "suspends" inactive tabs in any open profile. If someone forgets to close their profile before switching to another, Tab Suspender Pro will ensure that those background tabs aren't eating up precious RAM and CPU power. This keeps the computer responsive for everyone, regardless of how many profiles are currently active. It's a "set it and forget it" solution that helps maintain a high-quality browsing experience for the whole family.
 
-The minimum viable setup for a family computer:
-1. Create a profile for each person
-2. Set a computer login password
-3. Use Guest mode for visitors
-4. Set up Family Link for young kids
+## Regular Maintenance and Security Audits
 
-Everything else is optional but makes life easier.
+Every few months, it's a good practice to perform a quick "digital health check" on your family's Chrome setup. This ensures that everyone is staying safe and that the browser remains optimized.
 
----
+1. **Review Active Profiles**: Are all the created profiles still being used? If a relative visited months ago and you created a profile for them, it's time to remove it to declutter your login screen.
+2. **Check Kids' Extensions**: Sit down with your children and look at the extensions they've installed. Ensure they are all age-appropriate and serve a clear purpose. Look for helpful tools like **Tab Suspender Pro** that you've approved, and remove anything that looks suspicious or unnecessary.
+3. **Update Passwords**: Encourage the adults in the family to periodically update their Google account passwords and ensure that two-factor authentication (2FA) is enabled for an extra layer of security.
+4. **Clean Up Bookmarks**: Help the younger kids organize their bookmarks bar as their interests change. This makes it easier for them to find the educational sites they need for school without needing to search the open web.
 
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+## The Role of Guest Mode for Visitors
+
+When friends or extended family members visit and need to "just quickly check their email," don't let them use your personal profile or even one of the kids' profiles. Instead, use Chrome's built-in **Guest Mode**.
+
+Guest Mode provides a completely clean browsing session that doesn't have access to any of your saved passwords, history, or bookmarks. Once the Guest window is closed, all browsing activity from that session is permanently deleted from the computer. This is the safest way to let others use your device without risking your family's privacy or cluttering your own browsing data.
+
+## Conclusion: A Safer, More Organized Family Web
+
+Sharing a computer doesn't have to be a source of frustration or a security risk. By utilizing Chrome's profile system, setting up proper parental controls through Google Family Link, and using performance tools like **Tab Suspender Pro**, you can create a digital environment where everyone has their own space to explore and learn. 
+
+Remember that the most important part of family online safety is the conversation you have with your children. Technology provides the guardrails, but your guidance helps them become responsible digital citizens. With a little bit of setup and ongoing attention, your family can enjoy the best of the web while keeping everyone's data separate, secure, and running fast.
+
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

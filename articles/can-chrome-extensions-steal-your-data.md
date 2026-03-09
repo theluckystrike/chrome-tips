@@ -1,65 +1,55 @@
 ---
 layout: post
 title: "Can Chrome Extensions Steal Your Data"
-description: "Chrome extensions can access your data. Learn how they do it and what steps you can take to protect yourself."
+description: "Chrome extensions can access your data. Learn how they do it, real examples of data theft, and what steps you can take to protect yourself."
 ---
 
-Can Chrome extensions steal your data? This is a question more people are asking as we spend more time online and install more browser add-ons. The short answer is yes, they can. Chrome extensions have access to a lot of information in your browser, and while most developers are trustworthy, some extensions can indeed harvest your personal data. Understanding how this works and what you can do about it is important for staying safe online.
+Can Chrome extensions steal your data? Yes. In 2020, researchers at Awake Security discovered 111 malicious Chrome extensions that had been downloaded 32 million times. These extensions captured screenshots, harvested credentials, and logged keystrokes — all while posing as legitimate productivity tools. This was not an isolated case. Understanding how extension-based data theft works and what real incidents have looked like helps you make smarter decisions about what you install.
 
-## Why Extensions Have Access to Your Data
+## How Extensions Get Access to Your Data
 
-Chrome extensions are designed to enhance your browsing experience by adding features and functionality. To do this, they need permission to access certain parts of your browser. When you install an extension, Chrome asks you to approve the permissions it requests. These permissions can include access to all websites you visit, your browsing history, your cookies, and even information you type into forms.
+Every Chrome extension declares permissions in a file called `manifest.json`. When you install an extension, Chrome shows you what it is requesting. The most dangerous permission is `<all_urls>` or "Read and change all your data on all websites." As of Chrome's Manifest V3 migration (required for all new extensions since January 2023), Google tightened what extensions can do — but the permission model still gives broad access when granted.
 
-This access is necessary for many legitimate extensions to work. A password manager needs to see login pages to autofill your credentials. A shopping helper needs to read prices on different websites to find deals. A note-taking extension needs access to the content on your screen to save what you are reading.
+A password manager legitimately needs access to login forms. A coupon finder needs to read product pages. The problem is that a malicious keylogger needs the exact same permissions as a password manager. Chrome cannot tell the difference between "reading a form to autofill it" and "reading a form to steal credentials."
 
-The problem is that once an extension has these permissions, there is nothing stopping it from collecting and sending data back to its developers. Chrome does review extensions before they appear in the Web Store, but the review process is not perfect, and some malicious extensions slip through. Even extensions that start out legitimate can change their behavior later, either because the developers change their business model or because the extension is sold to a new owner with different intentions.
+## Real Incidents That Happened
 
-## How Data Theft Can Happen
+**The Great Suspender (2021):** This popular tab suspension extension with over 2 million users was acquired by an unknown entity in mid-2020. The new owner injected code that tracked browsing activity and executed remote scripts. Google eventually pulled it from the Chrome Web Store in February 2021 and force-disabled it in users' browsers.
 
-There are several ways an extension could steal your data without you realizing it.
+**DataSpii (2019):** Security researcher Sam Jadali found 8 browser extensions — including Hover Zoom, SpeakIt!, and FairShare Unlock — collecting browsing data from 4.1 million users. The data included tax returns, medical records, GPS locations, and cloud storage URLs. The extensions sold this data to a firm called Nacho Analytics, which resold it as real-time browsing intelligence.
 
-Some extensions record everything you type. This is often marketed as a feature for productivity or note-taking, but the same capability can be used to capture passwords, credit card numbers, and personal messages. The extension waits for you to type sensitive information and then sends it to a remote server.
+**Web of Trust (2016):** This privacy-rating extension with 140 million users was caught selling detailed browsing histories to third parties. German journalists at NDR traced supposedly anonymized data back to individual users, including a judge whose browsing history revealed a medical condition.
 
-Other extensions read the content of pages you visit. They can extract email addresses, phone numbers, shopping habits, and other personal information. This data is valuable to advertisers and can be sold to third parties without your knowledge or consent.
+**CopyFish OCR (2017):** Attackers gained access to the developer's Chrome Web Store account via a phishing email, then pushed a malicious update to all 30,000+ users. The hijacked extension injected ads and redirected users to spam sites.
 
-Extensions can also access your cookies, which contain session tokens that keep you logged into websites. If a malicious extension steals these cookies, someone else could log into your accounts without knowing your password.
-
-Another common tactic is redirecting your traffic. Some extensions inject ads into pages you visit, but more malicious versions can redirect you to fake websites designed to steal your login credentials or install malware on your computer.
+These cases show three common attack patterns: acquisition of legitimate extensions, data harvesting hidden behind useful functionality, and developer account takeovers.
 
 ## Warning Signs to Watch For
 
-There are some red flags that might indicate an extension is not trustworthy.
+**Excessive permissions for simple functionality.** A calculator asking for "Read and change all your data on all websites" is a red flag. Check the permissions before installing — click "Privacy practices" on the Chrome Web Store listing.
 
-Be suspicious of extensions that ask for more permissions than they need. A simple calculator extension has no reason to need access to all websites you visit. A new extension with few downloads and reviews that asks for broad permissions is worth avoiding.
+**Ownership changes.** If an extension you use suddenly updates with a new privacy policy or requests additional permissions, investigate. Chrome now shows a notification when an extension requests new permissions, but many users click "Accept" without reading.
 
-Watch for changes in your browser behavior. If you notice new pop-ups, unexpected redirects, or your search results being modified, an extension might be the cause.
+**Low-quality listings.** Watch for broken English in descriptions, stock photos, fake reviews (look for reviews posted on the same day), and developer names that are just random strings or Gmail addresses.
 
-Pay attention to your browser performance. Some data-stealing extensions run in the background constantly, which can slow down your computer and drain your battery faster than usual.
+**Unusual resource usage.** Open `chrome://extensions` and look at "Details" for each extension. If a simple note-taking tool is consuming significant memory or showing high CPU in Chrome Task Manager (Shift+Esc), it may be doing more than it claims.
 
-Check the developer information. Legitimate extensions usually come from identifiable companies or developers with a web presence. If you cannot find any information about who created the extension, think twice before installing it.
+## Steps to Protect Yourself
 
-## Steps You Can Take to Protect Yourself
+**Audit your extensions now.** Go to `chrome://extensions` and count what you have installed. The average Chrome user has 5-10 extensions. Each one is an attack surface. Remove anything you do not actively use.
 
-The good news is that you can significantly reduce the risk of data theft by following some practical steps.
+**Check permissions before installing.** On the Chrome Web Store listing, click "Privacy practices" to see what data the extension collects and what permissions it requires. Compare this to what the extension actually does.
 
-First, only install extensions from trusted sources. The Chrome Web Store has some protections in place, but you should still do your research before installing anything. Look at the number of reviews, the rating, and when the extension was last updated. Extensions that have not been updated in a long time might have security vulnerabilities.
+**Use Chrome's Safety Check.** Go to Settings > Privacy and Security > Safety Check. Chrome will flag extensions that have been taken down from the Web Store or that request unusual permissions.
 
-Second, review the permissions before installing any extension. Ask yourself if the permissions make sense for what the extension does. If something seems off, look for an alternative that asks for fewer permissions.
+**Separate sensitive browsing.** Use a dedicated Chrome profile with zero extensions for banking, healthcare, and other sensitive activities. Create a new profile from the profile icon in the top-right corner.
 
-Third, regularly audit the extensions you have installed. Go to chrome://extensions and remove any you no longer use. The fewer extensions you have, the smaller your attack surface.
+**Watch for post-install permission changes.** Chrome disables extensions that request new permissions until you approve them. Do not approve automatically — read what changed.
 
-Fourth, keep your extensions updated. Developers release updates to fix security problems, and an outdated extension is more vulnerable to being exploited.
-
-Fifth, read the privacy policy. This might seem tedious, but it tells you what data the extension collects and how it is used. If the policy is vague or says they can share your data with third parties, consider a different extension.
-
-Sixth, use separate browser profiles for different activities. If you do online banking or work with sensitive information, consider using a profile with minimal extensions for those tasks.
-
-Seventh, consider using an extension that helps you manage other extensions. Tab Suspender Pro is one option that lets you control which extensions can run on which websites. It also helps you identify extensions that are using too many resources, which can be a sign of suspicious activity. While it is not the only tool available, it adds an extra layer of control over what your extensions can access.
+**Limit to the Chrome Web Store.** Sideloaded extensions (installed from .crx files outside the store) bypass Google's review process entirely. Chrome blocks most sideloading on consumer builds for this reason.
 
 ## Making Smart Choices
 
-Being careful does not mean you have to stop using extensions entirely. They can genuinely improve your browsing experience and productivity. The key is to be intentional about which ones you install and to regularly clean up the ones you no longer need.
+Extensions are not inherently dangerous. The Chrome Web Store processes around 200,000 extensions, and Google's review catches most malicious submissions. But the review is not perfect — Google removed 1,661 malicious extensions in 2022 alone. The ones that slip through tend to be the most sophisticated.
 
-Think of your browser like your home. You would not give a stranger a key to your house, and you should not give unknown extensions free reign over your data. By staying aware of what you are installing and why, you can enjoy the benefits of extensions while keeping your personal information safe.
-
-Most extensions are created by honest developers who want to build useful tools. By being selective about what you install and keeping an eye on how your browser behaves, you can protect yourself from the few bad actors that try to take advantage of trusting users.
+The safest approach is to treat extensions like apps on your phone: install only what you need, check the developer's reputation, and periodically clean out what you no longer use. A browser with 3 trusted extensions is far safer than one with 20 you installed and forgot about.

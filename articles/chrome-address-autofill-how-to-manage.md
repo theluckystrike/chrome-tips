@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chrome Address Autofill How to Manage"
-description: "Learn how to manage Chrome address autofill, fix common issues, and keep your saved addresses organized and secure."
+description: "Learn how to manage Chrome address autofill: add, edit, delete saved addresses, fix common problems, and control sync across devices."
 date: 2025-03-09
 categories: [tips, privacy]
 tags: [chrome-address-autofill, chrome-autofill, address-management, chrome-tips]
@@ -10,70 +10,69 @@ author: theluckystrike
 
 # Chrome Address Autofill How to Manage
 
-Chrome address autofill how to manage is a question that comes up frequently for anyone who shops online, fills out forms, or enters their shipping information regularly. Chrome's address autofill feature is designed to save you time by automatically filling in your address information when you encounter form fields for shipping, billing, or contact details. Instead of typing your full address every single time, Chrome remembers what you've entered before and suggests it when you start typing in similar fields. This feature is incredibly convenient, but it can sometimes cause confusion or frustration when it doesn't work as expected, when you have multiple addresses saved, or when you want to update the information Chrome has stored.
+Chrome saves physical addresses you enter into web forms and offers to fill them in automatically on future sites. It stores name, company, street address, city, state, ZIP, country, phone number, and email — and syncs them across devices if you are signed into a Google account. Here is how to control all of it.
 
-Understanding how to manage your address autofill settings in Chrome gives you control over your browsing experience. Whether you need to add a new address, edit an existing one, delete old information, or troubleshoot when autofill isn't working properly, this guide will walk you through everything you need to know.
+## Where to Find Your Saved Addresses
 
-## Why Chrome Address Autofill Matters
+Go to **Settings > Autofill and passwords > Addresses and more** (or type `chrome://settings/addresses` in the address bar). This page lists every address Chrome has saved, with a preview showing the name and first line of each address.
 
-Chrome address autofill works by storing the address information you enter into web forms. When you first fill out an address field in your browser, Chrome asks if you want to save that information for future use. Over time, Chrome builds a collection of addresses that it can suggest whenever you encounter similar form fields on other websites. This works for billing addresses, shipping addresses, and even business addresses you might use regularly.
+If you are signed into Google, you will also see a link to **Google Account addresses** — these are stored server-side and may include addresses from Google Pay, Google Maps, and other Google services. Chrome's local addresses and Google Account addresses are separate stores that both feed into autofill suggestions.
 
-The feature relies on Chrome's built-in autofill system, which is connected to your Google Account if you're signed in. This means your saved addresses can sync across different devices where you're signed into the same Google Account. If you use Chrome on your laptop, phone, and tablet, your address information should be available on all of them.
+## Add a New Address
 
-There are several reasons why you might need to manage your address autofill. You might have moved to a new home and need to update your saved address. You might have accidentally saved an incorrect address. You might have multiple addresses saved, like a home address and a work address, and you want to organize them better. Or perhaps autofill is suggesting the wrong address and you want to fix that issue.
+Click the **Add** button on the addresses page. Fill in the fields:
+- Full name
+- Company (optional)
+- Street address (supports line 1 and line 2 for apartment/suite numbers)
+- City
+- State/Province
+- ZIP/Postal code
+- Country
+- Phone number
+- Email address
 
-## How to Access Your Saved Addresses
+Click **Save**. The address is now available for autofill on any site. If sync is enabled, it appears on your other devices within a few minutes.
 
-To manage your address autofill in Chrome, you'll need to access Chrome's autofill settings. Here's how to find them.
+**Tip:** Chrome does not support address labels (like "Home" or "Work") in the autofill UI. If you have multiple addresses, the only way to distinguish them is by the content itself. Put a distinctive company name or the city in a prominent field to tell them apart at a glance.
 
-First, open Chrome on your computer and click on the three dots in the upper right corner of the browser window. This opens the Chrome menu. From there, click on Settings. Scroll down until you see the section labeled Autofill and passwords, and click on it. You should see options for addresses and more.
+## Edit an Existing Address
 
-Click on Addresses and other info. This page shows all the addresses Chrome has saved. You can see each address listed with a label that might indicate whether it's your home, work, or another type of address. From this page, you can add new addresses, edit existing ones, or delete ones you no longer need.
+Click the three-dot menu (or pencil icon) next to the address you want to update. Edit any field and click **Save**. Common reasons to edit:
+- You moved and your street address changed
+- A ZIP code was entered incorrectly (autofill will suggest the wrong address for forms that match on ZIP)
+- Your phone number changed
 
-If you're signed into your Google Account, you might also see a link to manage your payment methods and addresses through your Google Account directly. This can be useful if you want to have a more comprehensive view of all the information Google has stored for you across its services.
+Edits sync across devices if you have sync enabled.
 
-## Adding a New Address
+## Delete an Address
 
-Adding a new address to Chrome's autofill is straightforward. On the addresses page in your Chrome settings, look for a button that says Add address or Add new. Click on it, and a form will appear where you can enter your address information.
+Click the three-dot menu next to the address and select **Remove**. The address is removed from Chrome immediately. If sync is enabled, it is also removed from your other devices.
 
-Fill in the fields as they appear. Chrome will typically ask for information like your full name, company name if applicable, street address, apartment or suite number, city, state or province, postal code, and phone number. You might also be able to add a label for the address, such as Home, Work, or Mom and Dad's House, to help you identify it more easily when autofill suggests multiple options.
+If you want to keep the address in your Google Account but remove it from Chrome locally, turn off address sync: **Settings > Sync and Google services > Manage what you sync > uncheck Addresses and more**.
 
-Once you've entered all the information, click Save or Done. The new address will now be available whenever you encounter an address field in Chrome. If you use Chrome across multiple devices, this new address should sync to your other devices as well, assuming you're signed into the same Google Account on all of them.
+## Fix "Autofill Not Working" Issues
 
-## Editing or Updating an Address
+**Autofill toggle is off.** Go to **Settings > Autofill and passwords > Addresses and more** and make sure "Save and fill addresses" is toggled on. This gets accidentally turned off by extensions and settings resets.
 
-Over time, you might need to update an address that has changed. Perhaps you've moved, or maybe you noticed an error in an address you saved previously. Editing an address in Chrome is similar to adding one.
+**The website uses non-standard form fields.** Chrome matches form fields by their HTML `name`, `id`, and `autocomplete` attributes. If a site uses custom JavaScript input fields or unconventional attribute names, Chrome cannot detect them as address fields. This is a website problem, not a Chrome problem — you will need to type manually on that site.
 
-On the addresses page in your Chrome settings, find the address you want to update. Click on it to open the details. Look for an edit button, which is typically represented by a pencil icon. Click on that, and you can make changes to any of the fields. Perhaps you've moved to a new apartment and only your apartment number changed, or maybe you moved to an entirely new city. Either way, you can update the specific fields that need to be changed.
+**An extension is interfering.** Password managers (1Password, Bitwarden, LastPass) and form-filling extensions often conflict with Chrome's built-in autofill. They intercept form fields before Chrome can. To test: open `chrome://extensions`, disable your password manager, reload the page, and try autofill again. If it works, you need to choose between Chrome autofill and your extension's autofill — running both causes unpredictable behavior.
 
-After making your edits, save the changes. The updated address will now be used whenever Chrome autofills your information. If you have multiple addresses saved and you're not sure which one is being used by default, you can set a preferred address by looking for an option to mark one address as your default or primary address.
+**Autofill suggests the wrong address.** Chrome picks the most recently used address by default. You cannot explicitly set a "default" address, but you can delete the wrong one so only the correct one remains as a suggestion.
 
-## Deleting an Address You No longer Need
+**Autofill fills fields incorrectly (e.g., puts city in the state field).** This happens when websites use ambiguous field names. Chrome does its best to match, but gets it wrong on roughly 5-10% of sites. No fix on your end — report the issue to the website.
 
-Sometimes you need to remove an address from Chrome's autofill. Maybe you have an old address for a place you no longer live, or perhaps you accidentally saved someone else's address. Whatever the reason, deleting an address is simple.
+## Security Considerations
 
-On the addresses page in your Chrome settings, find the address you want to remove. Hover over it or click on it to reveal the options. You should see a delete button, often represented by a trash can icon. Click on it, and Chrome will ask you to confirm that you want to delete the address. Once confirmed, the address will be removed from your saved list.
+Chrome stores autofill addresses **unencrypted** in your browser profile (in a SQLite database at `~/Library/Application Support/Google/Chrome/Default/Web Data` on macOS, or `%LOCALAPPDATA%\Google\Chrome\User Data\Default\Web Data` on Windows). Anyone with access to your computer can read your saved addresses.
 
-Keep in mind that deleting an address from Chrome means you won't be able to use autofill for that address anymore. If you think you might need it again in the future, consider editing it instead of deleting it completely, or make sure you have the address saved somewhere else if it's important information.
+Mitigations:
+- Use **separate Chrome profiles** if you share a computer — each profile has its own autofill data
+- Lock your computer when stepping away (Win+L on Windows, Ctrl+Cmd+Q on Mac)
+- If you are on a shared or public computer, **never save addresses** — use Incognito mode instead
 
-## Troubleshooting Address Autofill Issues
+Unlike passwords, Chrome does not require re-authentication to view saved addresses. There is no PIN or biometric prompt before displaying your address data in Settings.
 
-Sometimes address autofill doesn't work the way you'd expect. Perhaps Chrome isn't suggesting any addresses at all, or maybe it's suggesting the wrong address. These issues can usually be resolved with some troubleshooting.
-
-First, make sure autofill is actually turned on. Go back to your Chrome settings and check that Autofill is enabled. Sometimes a browser update or a settings change can accidentally turn this feature off. If it's turned off, toggle it on and try using autofill again.
-
-If Chrome is suggesting the wrong address as your default, you can change which address appears first by setting a different address as your primary. When you have multiple addresses saved, Chrome might default to the most recently used or the first one you added. Going into your address settings and explicitly setting your preferred address as the default can help.
-
-Another common issue is that a specific website isn't prompting Chrome to use autofill. Some websites use unusual form fields that Chrome doesn't recognize as address fields. In these cases, Chrome simply won't offer autofill suggestions. This isn't necessarily a problem you can fix in Chrome itself, as it's up to the website to use standard field names that Chrome can recognize.
-
-Browser extensions can sometimes interfere with autofill functionality. If you have extensions installed that manage forms or passwords, try disabling them temporarily to see if that resolves the issue. Extensions like password managers can sometimes conflict with Chrome's built-in autofill features.
-
-## Keeping Your Address Information Secure
-
-Since Chrome stores your address information locally and syncs it to your Google Account, it's worth thinking about the security implications. If you share your computer with others, they might be able to see your saved addresses if they have access to your Chrome profile. Using Chrome's profile system, where each person has their own separate profile with its own saved data, can help keep your addresses private.
-
-If you're concerned about the security of your address information, you can also choose not to save addresses in Chrome and instead enter them manually each time. This is less convenient, but it means your address information isn't stored in your browser. You can manage this in your Chrome settings by turning off the option to save address information.
-
-For those who want additional control over their browsing and want to keep their browser running efficiently, extensions like Tab Suspender Pro can help by managing open tabs and reducing browser resource usage. While Tab Suspender Pro doesn't directly manage address autofill, a well-organized browser with fewer open tabs tends to perform better and can make managing settings like autofill easier.
+---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

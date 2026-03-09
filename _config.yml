@@ -1,0 +1,8 @@
+title: "Chrome Tips by theluckystrike"
+description: "Practical Chrome browser tips for speed, memory, and productivity"
+url: "https://theluckystrike.github.io"
+baseurl: "/chrome-tips"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

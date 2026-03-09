@@ -69,3 +69,5 @@ Chrome offers built-in tools to help with tab management as well. You can create
 Another approach is to regularly review your open tabs and save anything important as bookmarks before closing them. This keeps your tab bar cleaner and ensures you can always find your saved sites later without scrolling through dozens of open tabs.
 
 Pinned tabs are one of Chrome's simplest but most useful features. They help you keep important websites accessible, reduce visual clutter, and prevent accidental closures. Whether you use them for work, school, or personal browsing, pinned tabs can make your time in Chrome more organized and efficient.
+
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

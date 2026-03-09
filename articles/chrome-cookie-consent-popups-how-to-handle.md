@@ -40,7 +40,7 @@ If you find cookie popups particularly bothersome, consider adjusting your appro
 
 Several Chrome extensions can automate handling of cookie consent popups. These extensions typically automatically dismiss popups or select privacy-friendly options on your behalf. When choosing an extension, look for ones with good reviews and a clear privacy policy, since these extensions will be interacting with websites on your behalf.
 
-One useful extension to consider is **Tab Suspender Pro**. While its main function is automatically suspending tabs you are not using to improve browser performance and reduce memory usage, many users find that it also helps create a more streamlined browsing experience. By keeping your browser running efficiently, Tab Suspender Pro makes it less annoying when you need to handle multiple cookie popups throughout your browsing session. It is a practical addition to your browser that addresses both productivity and helps with the overall management of your Chrome experience.
+If you browse many sites in a session and encounter dozens of cookie popups, you probably also have a lot of tabs open. Tab Suspender Pro helps here by automatically suspending tabs you are not actively viewing, which keeps Chrome fast even when you have accumulated many tabs throughout the day. It does not dismiss cookie popups for you, but it ensures your browser stays responsive while you deal with them.
 
 When using consent management extensions, be aware that some websites might detect automated tools and block you from accessing content. If this happens, you may need to disable the extension temporarily for that specific website. Most extensions let you whitelist sites where you want them to remain active.
 

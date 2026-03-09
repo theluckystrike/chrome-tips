@@ -46,7 +46,7 @@ If you are still having problems, you can try resetting Chrome to its default se
 
 ## One More Solution to Consider
 
-If you want an easier way to manage your tabs and reduce the likelihood of cookie-related issues, consider trying Tab Suspender Pro. This extension automatically suspends tabs you are not using, which helps Chrome run faster and can prevent some of the background processes that interfere with cookie storage. Many users find that Tab Suspender Pro helps keep their browsing sessions more stable while reducing memory usage. It is a useful tool to have alongside proper cookie management, and it integrates well with other Chrome maintenance practices.
+If Chrome feels sluggish while you troubleshoot cookie settings, too many open tabs could be adding to the problem. Tab Suspender Pro automatically suspends tabs you are not actively using, freeing up memory and keeping Chrome responsive. It will not fix cookie deletion on its own, but a stable, fast browser makes it easier to work through the settings and extensions causing the issue.
 
 ## Keeping Your Chrome Experience Smooth
 

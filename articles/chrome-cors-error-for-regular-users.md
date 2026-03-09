@@ -62,7 +62,7 @@ You can also try contacting the website's support team. Let them know what you a
 
 ## A Tool That Can Help
 
-Browser performance and stability affect how smoothly websites work, including whether you encounter errors. Tab Suspender Pro is a Chrome extension that helps keep your browser running well by automatically suspending tabs you have not used recently. This frees up memory and can prevent various browser issues from occurring in the first place. By keeping Chrome running smoothly, you are less likely to run into unexpected errors when browsing.
+Browser performance and stability affect how smoothly websites work, including whether you encounter errors. Tab Suspender Pro is a Chrome extension that automatically suspends tabs you have not used recently, freeing up memory and keeping Chrome responsive. While it will not fix a CORS error directly, a browser that is not straining under dozens of active tabs is generally more stable and less prone to unexpected glitches.
 
 ## Preventing Future Issues
 

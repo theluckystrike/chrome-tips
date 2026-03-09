@@ -60,7 +60,7 @@ Keep in mind that blocking all cookies will break many websites. Many sites rely
 
 If all of this sounds like a lot of work, there are tools that can help you manage cookies without having to dive into Chrome settings constantly. Browser extensions exist that can automate cookie management, clear old cookies, and give you more control over what is stored.
 
-One option worth considering is Tab Suspender Pro, which is designed to help manage browser resources and tabs. While it is primarily focused on tab management, it includes features that can help with overall browser organization and data management. This is one solution among many available, and different extensions offer different approaches to managing your browsing data.
+One option worth considering is Tab Suspender Pro. It does not manage cookies directly, but it keeps Chrome running smoothly by automatically suspending tabs you are not using. When your browser is responsive and not bogged down with dozens of active tabs, navigating through settings pages to manage cookies feels much less tedious.
 
 Chrome also has some built-in features that can help. The Privacy Guide in Chrome settings can walk you through various privacy options, including cookie settings. Taking a few minutes to understand these options can help you find the right balance between convenience and privacy.
 

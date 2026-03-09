@@ -16,7 +16,7 @@ If you have ever needed to measure something on your computer screen, you have p
 
 We have all been in situations where we need to know the exact size of something on our screen. Maybe you are designing a website and need to match the spacing of an existing page. Perhaps you are comparing product dimensions from different online stores. Or you might be creating graphics and need to ensure elements are properly sized. Without a dedicated tool, you would have to guess or use complicated methods to figure out measurements.
 
-Measurement extensions solve this problem by giving you virtual rulers that work directly in your browser. You can measure anything you see on a webpage, from images and buttons to text blocks and空白 spaces. This turns an estimate into an exact measurement, which matters a lot when precision is important.
+Measurement extensions solve this problem by giving you virtual rulers that work directly in your browser. You can measure anything you see on a webpage, from images and buttons to text blocks and blank spaces. This turns an estimate into an exact measurement, which matters a lot when precision is important.
 
 The convenience factor cannot be overstated. Instead of taking a screenshot and opening it in an image editor, or using a physical ruler held up to your screen (which is awkward and rarely accurate), you simply click and drag to measure. It takes seconds instead of minutes, and the results are far more reliable.
 

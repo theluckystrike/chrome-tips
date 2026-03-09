@@ -26,7 +26,7 @@ Most chrome extensions for time tracking work in the background without interrup
 
 At the end of the day or week, you can view detailed reports showing exactly where your time went. These reports often break down time by category, such as social media, email, productivity tools, or entertainment. Some extensions even allow you to set goals and receive alerts when you spend too much time on certain types of websites.
 
-The data these extensions收集 becomes invaluable for understanding your patterns. You might discover that you spend an hour each day on social media without realizing it, or that a particular project management tool is taking up more time than expected. This awareness is the first step toward making positive changes.
+The data these extensions collect becomes invaluable for understanding your patterns. You might discover that you spend an hour each day on social media without realizing it, or that a particular project management tool is taking up more time than expected. This awareness is the first step toward making positive changes.
 
 ## Toggl Track
 

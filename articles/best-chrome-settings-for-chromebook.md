@@ -92,4 +92,4 @@ The combination of Memory Saver, conservative preloading, minimal extensions, an
 
 ---
 
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

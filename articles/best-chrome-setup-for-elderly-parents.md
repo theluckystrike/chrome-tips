@@ -112,4 +112,4 @@ If Chrome updates change the interface, take a few minutes to walk them through 
 
 ---
 
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

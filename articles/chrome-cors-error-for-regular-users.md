@@ -1,6 +1,4 @@
 ---
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 layout: post
 title: "Chrome CORS Error for Regular Users"
 description: "Getting a CORS error in Chrome can be confusing. Learn what causes it, why it happens, and how to fix it without technical knowledge."
@@ -9,8 +7,6 @@ categories: [troubleshooting, tips]
 tags: [chrome-cors-error, cors, browser-error, chrome-fix, web-error]
 author: theluckystrike
 ---
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 # Chrome CORS Error for Regular Users
 

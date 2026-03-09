@@ -42,45 +42,32 @@ Sort by Memory Footprint and look for:
 
 ## Extension Audit
 
-After a Chrome update, go through your extensions:
+After a Chrome update, it's a good idea to go through your extensions and see if any of them are struggling to keep up with the changes. Some extensions that worked perfectly on an older version of Chrome might develop memory leaks or other performance issues after an update.
 
-1. Open `chrome://extensions`
-2. Check the "Details" of each extension for the last updated date
-3. Extensions that haven't been updated in over a year may not be optimized for the latest Chrome
-4. Disable suspect extensions one at a time, checking memory usage after each
+1. Open `chrome://extensions` and check each tool you have installed.
+2. Look for extensions that haven't been updated in a long time; these are the most likely candidates for causing issues.
+3. Try disabling your extensions one at a time and monitoring your RAM usage in the Chrome Task Manager (Shift + Escape).
 
-Some extensions that commonly cause memory issues after updates: screenshot tools, password managers with autofill, grammar checkers, and social media enhancement tools.
+While some extensions can be the cause of your memory woes, others can be part of the solution. If you find that the latest Chrome update has made the browser more resource-intensive, consider using a dedicated management tool like **Tab Suspender Pro**. This extension is designed specifically to tackle high memory usage by automatically suspending tabs you aren't currently using. By putting these inactive tabs into a "sleep" state, Tab Suspender Pro dramatically reduces the amount of RAM Chrome needs to function. This is particularly useful after an update that might have increased the baseline memory footprint of each open tab. Instead of manually closing and reopening tabs to save memory, you can let Tab Suspender Pro handle it for you, ensuring your browser stays fast and responsive.
+
+## Manage Your Tabs Wisely
+
+The most straightforward way to reduce Chrome's memory usage is to reduce the number of active tabs you have open. Each tab in Chrome runs as its own process, which is great for stability (if one tab crashes, it won't take down the whole browser) but can be very demanding on your system's RAM.
+
+If you're someone who naturally accumulates dozens of tabs throughout the day, you'll likely notice a performance hit after a major Chrome update. This is where a change in browsing habits—or a little help from technology—can make a big difference. Closing tabs you no longer need is the best first step. For the tabs you want to keep but aren't currently using, **Tab Suspender Pro** offers a more convenient alternative to closing them entirely. It preserves your open tabs while removing their memory-heavy processes from the background. When you click back onto a suspended tab, it reloads exactly where you left off.
 
 ## Check Chrome Flags
 
-Type `chrome://flags` and search for memory-related flags. Sometimes an update enables experimental features that affect memory:
+If you're an advanced user who likes to tinker with experimental features, a Chrome update can sometimes throw your customized settings for a loop. Type `chrome://flags` into your address bar and look for any settings you've previously changed. After an update, some experimental flags might become unstable or conflict with new core features.
 
-- Look for anything related to "memory" or "process"
-- If you see flags that have been changed from default (they'll be highlighted), consider resetting them
-- The "Reset all to default" button at the top is a safe option
+The safest bet is to click the "Reset all to default" button at the top of the flags page. This ensures that you're running Chrome in its most stable, intended state. You can then selectively re-enable the flags you really need, one by one, to see if any of them were contributing to the increased memory usage.
 
-## Reduce Chrome's Process Count
+## Update Your OS and Drivers
 
-Each tab and extension runs as a separate process. You can influence this:
+Sometimes, what looks like a Chrome memory issue is actually an interaction problem between the new browser version and your operating system or graphics drivers. Ensure that your computer's OS (Windows, macOS, or ChromeOS) is fully up to date. On Windows, also check for updates to your GPU drivers, as Chrome uses hardware acceleration for many of its rendering tasks. A fresh driver can sometimes resolve mysterious memory bloat that appears after a browser update.
 
-Close unnecessary tabs — this is always the most effective approach. Each tab you close frees up its entire process memory.
+## Conclusion
 
-Remove extensions you don't use. Each extension runs at least one background process even when you're not actively using it.
+Seeing your RAM usage spike after a Chrome update can be alarming, but it's usually something you can manage with a few strategic adjustments. By utilizing built-in features like Memory Saver and supplementary tools like **Tab Suspender Pro**, you can take back control of your system's resources. Remember to periodically audit your extensions and keep your tabs organized to ensure a smooth, fast browsing experience, no matter how many updates Google pushes out.
 
-If you use multiple Chrome windows, consolidate tabs into fewer windows. Each window has its own overhead.
-
-## Monitor Over Time
-
-Sometimes increased memory usage after an update is temporary. Chrome may be re-indexing data, rebuilding caches, or running migration tasks. Give it a day or two of normal use and check again.
-
-If memory usage is still high after a few days, the issue is likely permanent for that version, and you should apply the fixes above or wait for the next update.
-
-## Report It to Google
-
-If you've confirmed that the update caused a significant memory increase, report it. Go to the three-dot menu, Help, Report an Issue. Include your Chrome version, system specs, and approximate memory usage before and after the update.
-
-You can also check the Chrome bug tracker to see if others have reported the same issue and add your information to existing reports.
-
----
-
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

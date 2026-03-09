@@ -59,31 +59,28 @@ Like many Chrome features, translation can get stuck. Try:
 
 ## Check for Extension Conflicts
 
-Some extensions interfere with Chrome's built-in translation. Ad blockers, privacy extensions, and script blockers can sometimes prevent the translation service from working.
+Sometimes, the issue isn't with Chrome itself but with the extensions you have installed. Certain ad blockers, script blockers, or even privacy-focused extensions can inadvertently interfere with Chrome's built-in translation service. These extensions might block the scripts required for the translation bar to appear or prevent the browser from communicating with Google's translation servers.
 
-Try disabling your extensions temporarily and check if translation works. If it does, re-enable extensions one by one to identify the culprit.
+To troubleshoot this, try opening the problematic page in an Incognito window (Ctrl+Shift+N or Cmd+Shift+N). By default, extensions are disabled in Incognito mode. If translation works there, you know one of your extensions is the culprit. You can then go back to your main window, disable all extensions, and re-enable them one by one to identify which one is causing the conflict.
 
-## Chrome's Translation vs Google Translate
+While some extensions can cause issues, others are designed to help your browser run more efficiently. For instance, if you frequently have many tabs open while researching across different languages, your browser's performance might degrade, potentially affecting features like translation. Using a tool like **Tab Suspender Pro** can help. It automatically suspends inactive tabs, freeing up system resources and ensuring that your active tabs—including the ones you're trying to translate—have the memory and CPU power they need to function correctly. This can lead to a smoother, more reliable translation experience.
 
-Chrome's built-in translation uses Google Translate's engine. If you're having persistent issues with Chrome's built-in feature, you can use Google Translate directly as a workaround:
+## The Role of JavaScript
 
-Visit translate.google.com and paste the URL of the page you want translated. Google Translate will render the entire page in your language.
+Chrome's translation feature relies heavily on JavaScript. If you have disabled JavaScript for a specific site or globally in your Chrome settings, the translation feature will not work. To check this, go to Settings, then Privacy and Security, then Site Settings. Look under the "Content" section for JavaScript and ensure it is set to "Sites can use Javascript." Also, check the "Customized behaviors" section to see if the site you're trying to translate is on the "Not allowed to use Javascript" list.
 
-There's also a Google Translate extension available in the Chrome Web Store that adds translation capabilities with a different interface than the built-in feature.
+## Update Chrome to the Latest Version
 
-## When Translation Quality Is Poor
+Google frequently pushes updates to Chrome that include bug fixes for built-in features like translation. If you're running an outdated version of the browser, you might be experiencing a bug that has already been resolved in a newer release. To check for updates, click the three-dot menu in the top-right corner, go to Help, and select "About Google Chrome." Chrome will automatically check for and install any available updates. Restart the browser once the update is complete and see if the translation feature is back to normal.
 
-If translation is working but the quality is bad, it might be because:
-- The page uses unusual formatting that confuses the translation engine
-- The content uses specialized jargon or slang
-- The page has a mix of languages
+## Reset Chrome Settings
 
-For important content, consider using a professional translation service or the desktop version of Google Translate, which sometimes gives better results for complex text.
+If none of the above steps work, you might need to reset your Chrome settings to their original defaults. This can resolve deeper configuration issues that might be preventing translation from working. Note that this will reset your startup page, new tab page, search engine, and pinned tabs. It will also disable all extensions and clear temporary data like cookies. Your bookmarks, history, and saved passwords will not be deleted.
 
-## On Chromebooks
+To reset Chrome, go to Settings, then "Reset settings" in the left-hand sidebar, and click "Restore settings to their original defaults." Confirm the action and then check if the translation feature is working again.
 
-Chromebooks use the same Chrome translation feature. All the fixes above apply. Additionally, Chromebooks have a system-level translation feature in ChromeOS settings that can help if Chrome's translation isn't sufficient.
+## Conclusion
 
----
+Chrome's translation feature is incredibly useful for navigating the multilingual web. When it fails, it's usually due to a simple setting or a minor conflict. By systematically checking your language settings, site-specific permissions, and extension interactions, you can almost always get it working again quickly. Remember that keeping your browser optimized with tools like **Tab Suspender Pro** can also contribute to a more stable environment for all of Chrome's built-in features.
 
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

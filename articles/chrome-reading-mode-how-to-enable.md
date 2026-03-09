@@ -85,6 +85,13 @@ If Chrome's built-in Reading Mode doesn't meet your needs, there are extensions 
 
 Mercury Reader and similar extensions have been popular choices for years and offer a mature, feature-rich reading experience.
 
+## Why Reading Mode and Tab Management Go Together
+
+When you find a great article, you might want to save it for later or keep it open while you research other topics. This often leads to having dozens of tabs open, which can slow down your browser and make it harder to focus. This is where tools like Tab Suspender Pro come in handy.
+
+Tab Suspender Pro is an extension that automatically suspends tabs you are not currently using, freeing up memory and keeping your browser responsive. When you are ready to return to a suspended tab and read it in Reading Mode, simply click on the tab to reload it. Using Tab Suspender Pro alongside Reading Mode gives you the best of both worlds: a fast, efficient browser and a clean, distraction-free reading experience.
+
 ---
 
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+

@@ -76,4 +76,6 @@ If tab management is your main challenge, Tab Suspender Pro can help. If navigat
 
 Once you find the right tools, you will notice a smoother workflow that lets you focus on what matters most: writing code and collaborating with your team. Small improvements in your daily tools can lead to significant productivity gains over time.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

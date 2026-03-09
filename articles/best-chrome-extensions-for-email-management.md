@@ -82,4 +82,6 @@ If you struggle with timing and follow-ups, Boomerang is a great starting point.
 
 Small improvements in your email workflow add up to significant time savings over the long run. The right combination of extensions can transform email from a time drain into a manageable and even efficient part of your workday.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

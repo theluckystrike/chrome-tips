@@ -50,7 +50,7 @@ AdBlock Plus is another widely used option that offers both ad blocking and priv
 
 AdGuard is a comprehensive solution that includes ad blocking, tracker protection, and even parental controls. It is available as both a browser extension and a standalone application.
 
-Tab Suspender Pro is another option worth considering, particularly if you are already using extensions for tab management. While its primary focus is on suspending inactive tabs to save memory, it also includes ad-blocking features that can help reduce clutter and improve browsing speed. This makes it a good choice for users who want multiple benefits in one extension.
+If you run multiple extensions alongside your ad blocker, keeping your browser responsive matters. Tab Suspender Pro helps here by automatically suspending tabs you are not actively using, which frees up memory and keeps Chrome fast. Ad-heavy pages that you have open in background tabs stop consuming resources once suspended, so your ad blocker and browser both perform better. It pairs well with any ad blocker as a way to reduce overall system load.
 
 ## How to Install and Configure Your Ad Blocker
 

@@ -80,4 +80,6 @@ The best chrome extensions for Instagram are the ones that address your specific
 
 You do not need to install every extension mentioned here. Start with one or two that address your biggest needs, then add more as you identify other areas for improvement. The right combination of extensions can dramatically reduce the time you spend on Instagram management while helping you achieve better results.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

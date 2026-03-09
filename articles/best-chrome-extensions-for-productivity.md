@@ -62,7 +62,7 @@ This extension is especially useful for people who struggle with starting their 
 
 ## OneTab
 
-We mentioned OneTab earlier in the context of tab management, but it deserves a spot on any list of the best chrome extensions for productivity for another reason. When you have too many tabs open, it creates mental clutter that makes it hard to focus. OneTab gives you a quick way to clear this clutter and regain focus.
+OneTab is another extension worth knowing about. When you have too many tabs open, it creates mental clutter that makes it hard to focus. OneTab gives you a quick way to clear this clutter and regain focus.
 
 Click the OneTab icon and all your tabs transform into a simple list. This frees up memory and gives you a clean slate to work from. When you need to return to a specific page, you can restore it with a single click. This simple but effective approach helps you stay organized and avoid the overwhelming feeling of too many open tabs.
 
@@ -74,4 +74,6 @@ If distractions are your main problem, StayFocusd and Momentum are good starting
 
 Once you find the right combination of extensions, you will notice a significant improvement in your ability to focus, organize, and get things done. Small improvements in your daily workflow add up to big gains in productivity over time.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

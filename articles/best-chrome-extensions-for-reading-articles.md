@@ -72,4 +72,6 @@ You do not need to install every extension mentioned here. Start with one or two
 
 Once you have the right extensions in place, you will be surprised at how much more you can read and how much less tired your eyes feel. The internet is full of great articles, and with these tools, you can finally enjoy them without frustration.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

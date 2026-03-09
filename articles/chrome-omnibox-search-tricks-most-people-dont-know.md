@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Chrome Omnibox Search Tricks Most People Dont Know"
 description: "Discover hidden Chrome omnibox search tricks that can transform how you browse. Learn simple tips to search faster and work more efficiently."
 date: 2025-02-20

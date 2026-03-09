@@ -52,7 +52,7 @@ Using a blocker is powerful, but it works best as part of a broader focus strate
 
 First, close unnecessary tabs before you start working. Having fewer tabs open reduces the chances of clicking away from your task. Keep only what you need for current work.
 
-Second, use the番茄工作法, or Pomodoro Technique. Work in focused 25-minute blocks followed by short breaks. During work blocks, you rely on your blocker. During breaks, you can check social media freely. This creates a healthy rhythm.
+Second, use the Pomodoro Technique. Work in focused 25-minute blocks followed by short breaks. During work blocks, you rely on your blocker. During breaks, you can check social media freely. This creates a healthy rhythm.
 
 Third, put your phone away. The blocker works on your browser, but your phone is another major source of distraction. Keep it in a drawer or another room during work hours.
 

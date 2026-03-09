@@ -46,7 +46,7 @@ Clear your Chrome browser cache for the specific website. Click the lock icon ne
 
 If the error keeps appearing, you might need to adjust your network or security settings.
 
-Check your firewall and antivirus software. Look at their recent changes or temporarily disable them to see if that fixes the problem. If disabling the security软件 fixes the issue, you may need to adjust its settings to allow secure connections to go through. Make sure to re-enable the security software after testing.
+Check your firewall and antivirus software. Look at their recent changes or temporarily disable them to see if that fixes the problem. If disabling the security software fixes the issue, you may need to adjust its settings to allow secure connections to go through. Make sure to re-enable the security software after testing.
 
 If you are on a public or work network, try switching to a different network. Connect to your home internet or use mobile data to see if the website loads. If it works on another network, the problem is likely with the network you were using.
 

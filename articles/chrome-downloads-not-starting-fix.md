@@ -16,7 +16,7 @@ If you are searching for a chrome downloads not starting fix, you probably click
 
 There are several reasons why a download might not start in Chrome. Understanding the cause helps you apply the right fix. The most common reasons include settings that block downloads, corrupted browser data, interference from extensions, or issues with the website you are downloading from.
 
-Sometimes Chrome blocks certain downloads because it considers them potentially dangerous. This is a safety feature, but it can be overly cautious at times. Other times, the browser itself has a glitch or积累了太多临时数据 that causes problems. Extensions can also interfere with downloads, especially if they modify how Chrome handles files.
+Sometimes Chrome blocks certain downloads because it considers them potentially dangerous. This is a safety feature, but it can be overly cautious at times. Other times, the browser itself has a glitch or has accumulated too much temporary data that causes problems. Extensions can also interfere with downloads, especially if they modify how Chrome handles files.
 
 ## Check Your Download Settings
 

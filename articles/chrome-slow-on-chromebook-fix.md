@@ -76,9 +76,7 @@ Also, if you're using a custom wallpaper that's a very large image file, switchi
 
 ## Consider a Tab Suspender Extension
 
-This might sound contradictory after suggesting you remove extensions, but a tab suspender is one extension that can actually save resources. It automatically suspends tabs you haven't looked at in a while, freeing up the memory they were using.
-
-The key is to pick a lightweight one that doesn't itself become a resource hog. Look for one with minimal permissions and good reviews.
+This might sound contradictory after suggesting you remove extensions, but a tab suspender is one extension that can actually save resources. It automatically suspends tabs you haven't looked at in a while, freeing up the memory they were using. For Chromebook users, Tab Suspender Pro is an excellent choice because it is specifically optimized to work efficiently on lower-powered hardware. It helps you keep your research organized without the performance penalty of having dozens of active tabs.
 
 ## When Nothing Else Works: Powerwash
 
@@ -90,8 +88,9 @@ After the reset, be selective about what you install. Add extensions one at a ti
 
 ## The Bottom Line
 
-Chromebook slowness is almost always about resource management. These machines work beautifully within their limits — you just need to be a little more intentional about how many tabs and extensions you're running. Start with closing tabs and removing extensions, and you'll likely solve 80% of the problem without doing anything else.
+Chromebook slowness is almost always about resource management. These machines work beautifully within their limits — you just need to be a little more intentional about how many tabs and extensions you're running. Start with closing tabs, removing unnecessary extensions, and using tools like Tab Suspender Pro, and you'll likely solve 80% of the problem without doing anything else.
 
 ---
 
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+

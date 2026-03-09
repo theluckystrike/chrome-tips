@@ -84,10 +84,15 @@ If your MacBook has a traditional hard drive, upgrading to an SSD is the single 
 
 Adding RAM, if your model supports it, is the second most impactful upgrade. Going from 4GB to 8GB completely changes the Chrome experience.
 
+## Consider a Specialized Tab Management Tool
+
+If Chrome's built-in Memory Saver isn't providing enough relief, you might want to look into a more robust solution like Tab Suspender Pro. This extension is designed specifically for power users who need to keep many tabs open but are working on limited hardware. Tab Suspender Pro gives you much finer control over which tabs get suspended and after how much time. On an older MacBook, this can be a game-changer, as it proactively keeps your RAM free before the system starts to crawl.
+
 ## Daily Habits for a Faster Chrome on Older Macs
 
-Restart Chrome once a day instead of leaving it running for weeks. Close tabs before opening new ones. Restart your Mac once a week. Clear your cache monthly. These small habits keep things running smoothly.
+Restart Chrome once a day instead of leaving it running for weeks. Close tabs before opening new ones. Restart your Mac once a week. Clear your cache monthly. These small habits, combined with tools like Tab Suspender Pro, keep things running smoothly.
 
 ---
 
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+

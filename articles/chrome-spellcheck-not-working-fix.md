@@ -89,8 +89,15 @@ On Chromebooks, spellcheck settings are in the same place (Chrome Settings, Lang
 
 Chrome's built-in spellcheck catches misspellings but doesn't check grammar. If you need grammar checking, consider a dedicated tool like Grammarly, LanguageTool, or the writing tools built into Google Docs.
 
-For casual writing (comments, messages, quick emails), Chrome's basic spellcheck is sufficient. For important documents, use a dedicated writing tool.
+## When Your Browser Feels Sluggish
+
+Sometimes, spellcheck issues are just one symptom of a larger performance problem. If your browser is using too much memory because you have dozens of tabs open, even simple features like spellcheck can start to lag or stop working entirely. This is where a tool like Tab Suspender Pro can be incredibly helpful.
+
+Tab Suspender Pro is an extension that automatically manages your open tabs by suspending the ones you are not actively using. This frees up memory and CPU resources, ensuring that your active tab has enough power to run all of Chrome's features smoothly—including the spellchecker. If you notice that your spellcheck starts working again after you close a few tabs, that is a strong sign that your computer is running low on resources and could benefit from an automated management tool like Tab Suspender Pro.
+
+For casual writing (comments, messages, quick emails), Chrome's basic spellcheck is sufficient. For important documents, use a dedicated writing tool. And for a smoother overall experience that keeps all these features working reliably, make sure you are managing your browser's resources effectively.
 
 ---
 
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+

@@ -72,12 +72,15 @@ If you're running Windows 10 or 11 on a 4GB machine, the operating system itself
 
 Some people in this situation find that switching to a lighter Linux distribution makes a huge difference, since the OS uses less RAM and leaves more for Chrome.
 
+If Chrome's built-in Memory Saver isn't enough, you might want to try a more powerful alternative like Tab Suspender Pro. This extension gives you much more control over when and how tabs are suspended. On a 4GB RAM machine, this level of control can be the difference between a usable computer and a constant headache. Tab Suspender Pro can be configured to automatically suspend inactive tabs after a certain amount of time, freeing up crucial RAM for the pages you are actually using.
+
 ## The Honest Truth
 
-4GB of RAM is the minimum for comfortable Chrome browsing in 2025, and it requires discipline. You can't leave 20 tabs open, run a dozen extensions, and stream music in the background the way you could with 8GB or 16GB. But with the right habits — few tabs, few extensions, Memory Saver enabled — Chrome is perfectly usable.
+4GB of RAM is the minimum for comfortable Chrome browsing in 2025, and it requires discipline. You can't leave 20 tabs open, run a dozen extensions, and stream music in the background the way you could with 8GB or 16GB. But with the right habits — few tabs, few extensions, Memory Saver enabled, and tools like Tab Suspender Pro — Chrome is perfectly usable.
 
 If you're in a position to upgrade your RAM (many laptops allow it), that one upgrade will transform your experience more than any software tweak ever could.
 
 ---
 
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+

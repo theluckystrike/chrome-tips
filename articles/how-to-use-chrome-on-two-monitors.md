@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "How to Use Chrome on Two Monitors"
 description: "Learn how to set up and use Chrome across two monitors for enhanced productivity. Tips for window management, extensions, and dual monitor setups."
 date: 2025-03-09

@@ -34,9 +34,13 @@ Since Chrome does not have a built-in coupon finder, you need to use third-party
 
 These extensions work by maintaining databases of known coupon codes and testing them automatically when you reach the checkout page of any online store. Instead of you manually searching and trying codes, the extension does this work in the background. Most extensions will either display the best available codes or even apply them for you with a single click, saving both time and money.
 
+<<<<<<< HEAD
 There are several popular options in this space. Honey is one of the most well-known extensions, with a large database of coupon codes that it continuously updates. Capital One Shopping offers coupon finding along with price comparison features. Rakuten provides cashback on qualifying purchases, which is another way to save without searching for codes manually.
 
 If you use multiple shopping extensions alongside your regular tabs, your browser can start to feel sluggish. Tab Suspender Pro helps with this by automatically suspending tabs you are not actively using, freeing up memory so Chrome stays fast even when you have comparison shopping tabs open alongside your coupon tools.
+=======
+There are several popular options in this space. Honey is one of the most well-known extensions, with a large database of coupon codes that it continuously updates. Capital One Shopping offers coupon finding along with price comparison features. If you shop across many tabs at once comparing prices, Tab Suspender Pro can help by automatically suspending tabs you are not actively viewing, keeping Chrome fast while you jump between stores.
+>>>>>>> qa/qa2-batch4
 
 When choosing an extension, look for ones with high ratings and many reviews. Check what permissions they require and make sure they come from reputable developers. The best extensions are transparent about how they use your data and provide clear value without compromising your privacy.
 

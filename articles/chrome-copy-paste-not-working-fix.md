@@ -68,7 +68,11 @@ Think about when the copy paste problem started. If you installed a new extensio
 
 ### Use a Clipboard Extension
 
+<<<<<<< HEAD
 If you're still having trouble, consider using a dedicated clipboard extension from the Chrome Web Store. These extensions can sometimes bypass conflicts and provide reliable copy and paste functionality. Look for well-reviewed options that specifically address clipboard management.
+=======
+If you're still having trouble, consider using a dedicated clipboard extension from the Chrome Web Store. These extensions can sometimes bypass conflicts and provide reliable copy and paste functionality. Look for well-reviewed clipboard managers that specifically address the copy-paste workflow you need.
+>>>>>>> qa/qa2-batch4
 
 ## System-Level Considerations
 

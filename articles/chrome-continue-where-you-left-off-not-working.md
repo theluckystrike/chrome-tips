@@ -70,7 +70,11 @@ Chrome saves session data in a folder on your computer. If you know where to loo
 
 Once you have fixed the issue, take steps to prevent it from happening again. Avoid closing Chrome by force, and make sure you give it time to save your session before shutting down your computer. Regularly back up your bookmarks so that even if session restore fails, you do not lose your important sites.
 
+<<<<<<< HEAD
 Consider using a tab management extension to keep your browser organized. Tab Suspender Pro, for example, automatically suspends tabs you are not actively using, which reduces memory pressure and can help Chrome run more reliably overall. A browser that is not struggling under the weight of too many active tabs is less likely to crash or lose session data in the first place.
+=======
+Consider using a tab management extension to keep your tab count under control. Tab Suspender Pro automatically suspends tabs you have not used recently, which reduces Chrome's memory footprint and makes it less likely to crash during long sessions. Fewer crashes means fewer opportunities for session data to get corrupted in the first place.
+>>>>>>> qa/qa2-batch4
 
 You should also keep Chrome updated, but it is a good idea to check for issues after each update. If you notice problems after an update, you can roll back to a previous version or wait for a patch that fixes the issue.
 

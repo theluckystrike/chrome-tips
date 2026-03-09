@@ -1,10 +1,17 @@
 ---
 layout: post
 title: "Chrome Custom Properties CSS Variables"
+<<<<<<< HEAD
 description: "Learn how Chrome custom properties CSS variables work and how to use them to build more maintainable websites."
 date: 2026-01-15
 categories: [web-development, features]
 tags: [css-variables, custom-properties, web-development, chrome-devtools]
+=======
+description: "Learn how chrome custom properties CSS variables work and how to use them to build more maintainable websites."
+date: 2026-01-15
+categories: [development, css]
+tags: [css-variables, custom-properties, web-development, chrome-css]
+>>>>>>> qa/qa2-batch4
 author: theluckystrike
 ---
 

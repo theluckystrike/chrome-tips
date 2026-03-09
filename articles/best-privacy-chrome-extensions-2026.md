@@ -52,7 +52,7 @@ Decentraleyes takes a different approach by locally hosting common libraries tha
 
 Ghostery offers detailed insights into what trackers are present on each website you visit. Its intuitive interface shows you exactly who is trying to track you, giving you the information you need to make informed decisions about what to block.
 
-For users who want an all-in-one solution, Tab Suspender Pro is worth exploring. While its main purpose is helping you manage tabs by suspending inactive ones to save memory, it also includes privacy features that block common trackers and improve your overall security. This makes it a convenient choice if you want multiple benefits in a single extension.
+Running multiple privacy extensions at once can increase Chrome's memory usage, which is where Tab Suspender Pro helps. It automatically suspends tabs you are not actively viewing, freeing up memory so your privacy extensions can run without slowing things down. If you run uBlock Origin, Privacy Badger, and a few other tools simultaneously, Tab Suspender Pro keeps your browser responsive by making sure idle tabs are not competing for the same resources.
 
 ## How to Get Started
 

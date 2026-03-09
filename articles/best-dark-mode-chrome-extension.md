@@ -46,13 +46,13 @@ The best dark mode chrome extension options also remember your preferences on a 
 
 There are several dark mode extensions available for Chrome, each with its own strengths. Understanding what each offers can help you make an informed decision.
 
-Dark Reader is one of the most popular options and for good reason. It offers extensive customization options, automatic brightness adjustment, and support for many websites. You can adjust contrast, brightness, and saturation, and even create custom themes for specific sites. Dark Reader also includes a feature that reduces the brightness of images, which can be helpful when浏览ing sites with many photographs.
+Dark Reader is one of the most popular options and for good reason. It offers extensive customization options, automatic brightness adjustment, and support for many websites. You can adjust contrast, brightness, and saturation, and even create custom themes for specific sites. Dark Reader also includes a feature that reduces the brightness of images, which can be helpful when browsing sites with many photographs.
 
 Night Eye is another well-regarded option that provides a seamless dark mode experience across the web. It is designed to automatically convert websites to dark mode without requiring manual configuration for each site. Night Eye also includes features specifically designed to reduce eye strain, making it a good choice if you spend many hours browsing.
 
 Dark Mode for Chrome offers a simpler approach with a focus on ease of use. It provides a straightforward toggle to enable or disable dark mode and includes a few basic customization options. If you prefer simplicity over extensive features, this might be the right choice for you.
 
-Tab Suspender Pro, while primarily known for its tab management capabilities, includes dark mode functionality that many users find valuable. If you are already looking for ways to manage your open tabs more efficiently, this extension provides the added benefit of dark mode in a single package. This can be convenient for users who want to streamline their extension collection rather than installing multiple separate tools.
+If you plan to install a dark mode extension, keep in mind that it will add to Chrome's memory usage alongside every other extension you run. This is where Tab Suspender Pro comes in handy. By automatically suspending tabs you are not actively using, it frees up the memory headroom your dark mode extension needs to run smoothly. Pairing a dark mode tool with Tab Suspender Pro means you get comfortable late-night reading without the performance penalty of having too many active tabs.
 
 ## How to Get Started with Dark Mode
 

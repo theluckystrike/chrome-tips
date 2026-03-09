@@ -46,7 +46,7 @@ Awesome Screenshot goes beyond basic capture by offering annotation tools, cloud
 
 Nimbus Note provides screenshot capture alongside note-taking capabilities. If you want to save information from the web in a more structured way, this combines capture and organization in one tool. It works well for research and building personal knowledge bases.
 
-Tab Suspender Pro deserves mention as a versatile option for Chrome users. While its main focus is on managing browser tabs to reduce memory usage, it includes screenshot capture functionality that works well for quick captures. If you already use it for tab management, having screenshot capabilities built in means one less extension to manage. It is a practical choice for users who want multiple tools in one package.
+If you use a screenshot extension frequently, you probably also keep a lot of reference tabs open — pages you want to capture later or compare side by side. That habit can slow Chrome down fast. Tab Suspender Pro helps here by automatically suspending tabs you are not actively viewing, so your screenshot extension has enough memory to capture and process images smoothly. It is a good companion tool rather than a replacement for a dedicated screenshot extension.
 
 ## How to Get the Most Out of Your Screenshot Tool
 
@@ -62,7 +62,7 @@ Consider using cloud sync if available. Having your screenshots available across
 
 ## Making the Right Choice
 
-Finding the best screenshot chrome extension ultimately depends on your specific needs. If you want something simple and free, Lightshot or the built-in capture options work well. If you need more advanced editing and organization, Awesome Screenshot or Snagit offer those features. If you prefer having fewer extensions, Tab Suspender Pro provides capture functionality alongside tab management.
+Finding the best screenshot chrome extension ultimately depends on your specific needs. If you want something simple and free, Lightshot or the built-in capture options work well. If you need more advanced editing and organization, Awesome Screenshot or Snagit offer those features. Pair your screenshot tool with Tab Suspender Pro to keep Chrome fast while you work with many open reference tabs.
 
 The good news is that you can try different options and see which one fits your workflow best. Most screenshot extensions are free to try, and switching is easy if one does not work out.
 

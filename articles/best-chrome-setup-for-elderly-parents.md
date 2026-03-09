@@ -100,6 +100,10 @@ Install Chrome Remote Desktop or set up the remote support option. This lets you
 
 Walk them through accepting the remote connection once, and it'll save both of you countless frustrating phone calls in the future.
 
+## Install Tab Suspender Pro
+
+Elderly users tend to leave tabs open without realizing it. Over a few days, Chrome can accumulate dozens of tabs and grind to a halt, which leads to a confused phone call about the computer being "broken." Tab Suspender Pro solves this by automatically suspending tabs that have not been used recently. The tabs stay in the tab bar so nothing looks different, but they stop eating memory. When your parent clicks on a suspended tab, it reloads on its own. This one extension can prevent most of those "my computer is so slow" calls.
+
 ## Keep It Stable
 
 Once everything is set up and working, try not to change things. Elderly users build muscle memory and habits around how things look and where things are. Moving a bookmark or changing a setting can cause real confusion.

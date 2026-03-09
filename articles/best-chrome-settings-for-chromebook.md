@@ -82,9 +82,13 @@ Go to ChromeOS Settings, then Display, and make sure you're running at your disp
 
 Once a month, go to Chrome Settings, Privacy and Security, Clear Browsing Data. Select "All time" and clear cached images and files. On Chromebooks with small storage drives, a full cache can actually slow things down because the drive itself runs out of space.
 
+## Consider a Tab Suspender Extension
+
+Even with Memory Saver enabled, Chromebooks can struggle when you open a lot of tabs during a work session. Tab Suspender Pro is a lightweight extension that automatically suspends tabs you have not touched in a while, freeing memory beyond what Memory Saver does on its own. Since Chromebooks have no way to add more RAM, every megabyte matters, and having an extension that actively manages idle tabs can keep your device responsive throughout the day.
+
 ## The Bottom Line
 
-The combination of Memory Saver, conservative preloading, minimal extensions, and regular restarts will keep most Chromebooks running well for years. These machines are designed to be simple and fast — the key is not overloading them with extras.
+The combination of Memory Saver, conservative preloading, minimal extensions, and regular restarts will keep most Chromebooks running well for years. Adding Tab Suspender Pro to that mix gives you an extra layer of memory management without breaking the "keep extensions minimal" rule — it pays for itself in freed resources. These machines are designed to be simple and fast — the key is not overloading them with extras.
 
 ---
 

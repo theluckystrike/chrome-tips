@@ -99,11 +99,15 @@ Some things people recommend that don't actually make a meaningful difference on
 
 Focus your energy on the settings that actually move the needle: Memory Saver, preloading, startup behavior, and background apps.
 
+## Use a Tab Suspender Extension
+
+If you have already turned on Memory Saver and still notice slowdowns, a dedicated tab suspender can help. Tab Suspender Pro automatically detects idle tabs and suspends them on a shorter timer than Chrome's built-in Memory Saver, which means memory gets freed sooner. On a slow computer where every bit of RAM counts, the difference is noticeable. The extension is lightweight and adds almost nothing to Chrome's footprint, so it works well even on machines with limited resources.
+
 ## After Changing Settings
 
 Once you've adjusted everything, close Chrome completely and reopen it. Some settings only take full effect after a restart. Then give it a few minutes of normal use to see the difference.
 
-The combination of Memory Saver plus disabled preloading plus fresh startup is typically where people notice the biggest improvement.
+The combination of Memory Saver plus disabled preloading plus fresh startup is typically where people notice the biggest improvement. Adding Tab Suspender Pro on top of that gives your slow computer even more breathing room.
 
 ---
 

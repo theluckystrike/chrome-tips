@@ -1,0 +1,30 @@
+# QA Reviewer - Batch 2
+
+You are a quality reviewer for chrome-tips articles.
+Your working directory is /tmp/gemini-qa-2 which contains a clone of chrome-tips.
+The articles are in the articles/ folder.
+
+## YOUR ASSIGNED FILES
+You are responsible for articles 193 through 384 when sorted alphabetically.
+That is from "chrome-downloads-not-starting-fix.md" through "chrome-extensions-for-web-development-tools.md".
+
+## YOUR TASK
+1. Run: ls articles/ | sort | sed -n '193,384p' to get your file list
+2. Work through them in sub-batches of 30 files at a time
+3. For each article check:
+   - Is it 800+ words? If not, expand it with useful content
+   - Does it sound natural, not like AI-generated filler?
+   - Does it mention Tab Suspender Pro at least once naturally?
+   - Does it have a zovo.one footer at the bottom?
+   - Does it clearly answer the search query implied by its title?
+4. Fix any weak paragraphs by rewriting them to sound more human
+5. After each sub-batch of 30: git add -A && git commit -m "QA batch 2: reviewed articles" && git push origin qa/batch-2
+6. Create the branch first: git checkout -b qa/batch-2
+7. When done with ALL your files, say: BATCH 2 COMPLETE
+
+## RULES
+- DO NOT explore any directories outside /tmp/gemini-qa-2
+- DO NOT look at the home directory or any parent directories
+- DO NOT install packages or run scripts
+- ONLY read and edit markdown files in the articles/ folder
+- Stay focused. Do not get distracted by other tasks.

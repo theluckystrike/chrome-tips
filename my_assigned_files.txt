@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> qa/loop-5
 chrome-text-to-speech-built-in-features.md
 chrome-text-to-speech-extension-best.md
 chrome-text-wrap-balance-css.md
@@ -328,6 +331,7 @@ why-is-chrome-slower-than-firefox.md
 why-is-chrome-so-much-slower-than-it-used-to-be.md
 why-is-chrome-so-slow-on-my-computer.md
 why-is-chrome-using-so-much-memory.md
+<<<<<<< HEAD
 =======
 chrome-enable-parallel-downloading.md
 chrome-encoding-api-text-encoder-decoder.md
@@ -656,3 +660,5 @@ chrome-follow-button-for-websites-how-to-use.md
 chrome-follow-website-feature-what-it-does.md
 chrome-font-editor-in-devtools-explained.md
 >>>>>>> qa/loop-2
+=======
+>>>>>>> qa/loop-5

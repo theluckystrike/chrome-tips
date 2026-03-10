@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 title: "Chrome Flags for Speed Optimization"
-description: "Learn how to use Chrome flags for speed optimization. Boost browser performance with parallel downloading, QUIC protocol, GPU rasterization, and back-forward cache settings."
-date: 2026-01-20
+description: "Boost your Chrome browser performance with these powerful chrome flags for speed optimization. Learn about parallel downloading, QUIC protocol, GPU rasterization, and back-forward cache."
+date: 2026-01-15
 categories: [performance, browser]
 tags: [chrome-flags, speed-optimization, browser-performance, chrome-tips]
 author: theluckystrike
@@ -10,110 +10,128 @@ author: theluckystrike
 
 # Chrome Flags for Speed Optimization
 
-Chrome is the most popular web browser in the world, and for good reason. It is fast, reliable, and works across almost every device you can think of. But even the best browser can be made faster, and Chrome makes this possible through a collection of hidden experimental settings called flags. These flags allow users to access features that are still being developed or that Google has chosen not to enable by default for one reason or another.
+If you have ever felt like your Chrome browser is running slower than it should, you are not alone. Many users experience sluggish performance, especially when dealing with multiple tabs, media-heavy websites, or complex web applications. While Chrome is already a capable browser, there is a hidden layer of settings that can significantly improve its performance. These settings are called Chrome Flags, and they give you access to experimental features that can make your browsing experience noticeably faster.
 
-If you have ever wanted to squeeze more speed out of your Chrome browser, you are in the right place. This guide will walk you through the most effective Chrome flags for speed optimization. We will cover parallel downloading, QUIC protocol, GPU rasterization, and back-forward cache. Each of these flags can significantly improve your browsing experience, and when used together, they can make Chrome feel like a completely different browser.
+Chrome Flags are essentially hidden settings that Google includes in the Chrome browser for testing new features. While some of these flags are experimental and may not be stable, many of them are production-ready and can deliver real performance improvements. In this guide, we will explore some of the most effective Chrome flags for speed optimization, including parallel downloading, QUIC protocol support, GPU rasterization, and back-forward cache.
 
 ## Understanding Chrome Flags
 
-Before we dive into the specific flags, it is worth understanding what Chrome flags are and how they work. Chrome flags are experimental features that are available in the browser but have not yet been fully released to the public. Think of them as a behind-the-scenes look at features that might become standard in future versions of Chrome.
+Before diving into specific flags, it helps to understand what Chrome Flags are and how to access them. Chrome Flags are found by typing chrome://flags into your address bar and pressing Enter. This opens a page with dozens of experimental settings, each with a dropdown menu that lets you enable, disable, or set different options for each feature.
 
-You can access Chrome flags by typing chrome://flags into the address bar and pressing enter. This will take you to a page with hundreds of different settings, each with a dropdown menu that typically offers Default, Disabled, and Enabled options. Some flags also offer variations like Enabled (Experimental) or Enabled (Generic Experiments).
+It is important to approach Chrome Flags with some caution. Because these are experimental features, they may not always work perfectly with every website or may cause occasional glitches. However, the flags we will discuss in this article are generally stable and have been used by millions of users to improve their browser performance.
 
-It is important to note that these flags are experimental by nature. While the ones we will discuss in this guide are generally stable, there is always a chance that a particular flag might cause unexpected behavior with certain websites. The good news is that if anything goes wrong, you can simply return to chrome://flags and set any problematic flag back to Default.
+When changing Chrome Flags, always make sure to restart your browser for the changes to take effect. Some flags may require a complete restart of Chrome, while others may apply immediately. If you ever want to return to the default settings, the Chrome Flags page includes a button to reset all flags to their default values.
 
 ## Parallel Downloading: Speed Up Your Downloads
 
-One of the most impactful flags for everyday use is Parallel Downloading. This feature changes the way Chrome downloads files, and the difference can be quite dramatic.
+One of the most impactful Chrome flags for speed optimization is related to parallel downloading. By default, Chrome downloads files using a single connection to the server. However, many modern servers can handle multiple simultaneous connections, and enabling parallel downloading allows Chrome to split a file into multiple parts and download them simultaneously. This can dramatically reduce download times, especially for large files.
 
-When you download a file without parallel downloading enabled, Chrome fetches the file from the server in a single stream. This means it downloads piece by piece from beginning to end, one after another. While this works fine for most situations, it does not take full advantage of modern internet connections, which are often capable of handling multiple connections at once.
+To enable parallel downloading, go to chrome://flags in your address bar and search for "parallel downloading." You will find an option called "Enable parallel downloading." Set this to Enabled, and then restart your browser. Once enabled, Chrome will automatically use multiple connections for downloads, splitting files into chunks that are downloaded in parallel.
 
-When you enable Parallel Downloading, Chrome splits the file into multiple parts and downloads them simultaneously. Think of it like having several workers carrying boxes instead of one worker carrying them all one at a time. The parts are downloaded in parallel, and once all of them arrive, Chrome reassembles them into the complete file. The result is faster download speeds, particularly for larger files.
+The performance improvement from parallel downloading can be significant. For example, if you are downloading a large software installer or a high-resolution video, you might see download times reduced by 50% or more, depending on your connection speed and the server you are downloading from. This flag is particularly useful for users who frequently download large files, such as software updates, media files, or game installers.
 
-To enable Parallel Downloading, go to chrome://flags in your address bar and search for "Parallel Downloading" in the search box. When you find it, click on the dropdown and select Enabled. After that, you will need to relaunch Chrome for the change to take effect.
+It is worth noting that not all download sources benefit equally from parallel downloading. Some servers may limit the number of connections or may not handle parallel downloads efficiently. However, most popular download sources, including software repositories, file hosting services, and media sites, work well with this feature enabled.
 
-This flag is especially useful if you frequently download large files such as software installers, video files, or archive bundles. If you have a fast internet connection, you might see download speeds improve by thirty percent or more. Even on moderate connections, the improvement is noticeable.
+## QUIC Protocol: Faster Web Connections
 
-## QUIC Protocol: A Faster Way to Connect
+The QUIC protocol is another powerful Chrome flag that can improve your browsing speed. QUIC stands for Quick UDP Internet Connections, and it is a modern network protocol designed to reduce latency and improve connection speeds compared to the traditional TCP protocol used by most websites.
 
-The QUIC protocol is one of the most exciting developments in web technology, and enabling it through Chrome flags can make your browsing faster in ways you might not immediately see but will certainly feel.
+When you visit a website, your browser typically establishes a connection using TCP, which requires a handshake process before data can be exchanged. This handshake adds latency, especially on connections with higher latency, such as mobile networks or long-distance connections. QUIC combines the handshake with data transfer, allowing websites to start loading faster.
 
-QUIC stands for Quick UDP Internet Connections. It is a new protocol developed by Google that aims to replace the older HTTP protocol that has been the backbone of the web for decades. The key advantage of QUIC is that it reduces the time it takes to establish a connection between your browser and a website.
+To enable QUIC protocol support, go to chrome://flags and search for "QUIC." Look for the option labeled "Experimental QUIC protocol" and set it to Enabled. You should also ensure that the "Origin to force QUIC protocol on" option is set appropriately if you want to test QUIC with specific websites.
 
-With traditional HTTP connections, your browser and the server have to go through a process called a handshake every time you connect. This involves several back-and-forth communications to verify identities and set up encryption. While this process is necessary for security, it adds latency, which is the delay between requesting a page and seeing it load.
+Once enabled, Chrome will automatically use QUIC protocol when connecting to websites that support it. Many major websites, including Google services, Facebook, and many other popular sites, already support QUIC. The result is faster page load times, especially on slower or more distant connections.
 
-QUIC combines the connection and encryption handshakes into a single step, which means websites can start loading faster. Additionally, QUIC is designed to handle network changes gracefully. If you are on a mobile device and switch from WiFi to cellular data, QUIC can maintain your connection without interruption, whereas traditional HTTP connections would often drop or need to restart.
-
-To enable QUIC, search for "Experimental QUIC protocol" or simply "QUIC" in chrome://flags. Look for the flag related to HTTP/3 and QUIC protocol support, and set it to Enabled. Many modern websites already support QUIC, and as more websites adopt this protocol, the benefits will only increase.
-
-One thing to keep in mind is that QUIC works best with websites that support it. While more and more sites are enabling QUIC every day, some older websites still rely exclusively on traditional HTTP connections. Fortunately, Chrome is smart enough to fall back to the older protocol when QUIC is not available, so you do not need to worry about compatibility issues.
+One of the key benefits of QUIC is its ability to handle connection migrations. If your network connection changes, such as switching from WiFi to mobile data, QUIC can maintain the connection without interruption. This is particularly useful for mobile users who may switch between networks throughout the day.
 
 ## GPU Rasterization: Smoother Rendering
 
-GPU rasterization is a flag that can dramatically improve how Chrome renders web pages, especially when scrolling through content-heavy websites. Understanding this flag requires a brief explanation of how browsers display web pages.
+GPU rasterization is a Chrome flag that can significantly improve the way Chrome renders web pages, making scrolling and animations feel much smoother. Rasterization is the process of converting vector graphics and page elements into the pixels that you see on your screen. By default, Chrome uses the CPU for this process, which can be slow, especially for complex web pages with many graphics, animations, or dynamic content.
 
-When you visit a website, your browser has to take the code that makes up the page (HTML, CSS, and JavaScript) and turn it into the visual content you see on your screen. This process is called rendering. In traditional rendering, the browser does all of this work using the CPU, which is the central processor of your computer.
+When you enable GPU rasterization, Chrome uses your computer's graphics card (GPU) instead of the CPU to render page elements. GPUs are designed for parallel processing and are much faster at handling the types of calculations required for rendering web pages. The result is smoother scrolling, faster page rendering, and reduced strain on your CPU.
 
-GPU rasterization shifts much of this rendering work to your computer's graphics processing unit, or GPU. GPUs are designed to handle parallel processing tasks very efficiently, which makes them excellent for rendering visual content. By using the GPU for rasterization (the process of converting vectors into pixels), Chrome can render pages faster and more smoothly.
+To enable GPU rasterization, go to chrome://flags and search for "GPU rasterization." You will find several options related to GPU rasterization. The most important one is "GPU rasterization" itself, which you should set to Enabled. You may also want to enable "Zero-copy rasterizer" if available, as this can provide additional performance improvements.
 
-This is particularly noticeable when scrolling through pages with lots of images, videos, or complex layouts. With GPU rasterization enabled, scrolling tends to be buttery smooth, and animations play more fluidly. If you have ever experienced stuttering or lag when scrolling through a media-heavy website, GPU rasterization might be the solution.
+Once enabled, you should notice that scrolling through content-heavy websites feels much smoother. This is especially noticeable on websites with many images, embedded videos, or complex layouts. Users with dedicated graphics cards will see the most benefit, but even users with integrated graphics can experience improvements.
 
-To enable GPU rasterization, search for "GPU rasterization" in chrome://flags. Look for the option that says "GPU rasterization" and set it to Enabled. You may also want to check for related flags like "Zero-copy rasterizer" which can further improve performance on compatible hardware.
+It is worth mentioning that GPU rasterization may not work perfectly with all websites, particularly those that use older rendering techniques or have specific graphics requirements. If you notice any visual glitches or rendering issues on particular websites, you can always disable this flag for a smoother experience on those specific sites.
 
-It is worth noting that GPU rasterization may not make a noticeable difference on all computers. If you have a very powerful CPU but an older or integrated graphics card, the improvement might be minimal. Conversely, if you have a modern dedicated GPU, you might see a significant improvement in rendering speed and smoothness.
+## Back-Forward Cache: Instant Page Navigation
 
-## Back-Forward Cache: Instant Navigation
+The back-forward cache, often abbreviated as bfcache, is a Chrome flag that can make navigating between pages feel nearly instant. When you use the back or forward buttons in your browser, Chrome normally has to reload the entire page from scratch, which can take time, especially for complex web pages. The back-forward cache allows Chrome to save a complete snapshot of the page in memory, including all its state and data, so it can be restored instantly when you navigate back or forward.
 
-The back-forward cache, often abbreviated as bfcache, is a feature that can make navigating between pages feel almost instantaneous. If you frequently use the back and forward buttons in your browser, this flag can be a game-changer.
+To enable the back-forward cache, go to chrome://flags and search for "back-forward cache." Look for the option labeled "Back-forward cache" and ensure it is set to Enabled. This flag enables the full back-forward cache functionality in Chrome.
 
-Without bfcache enabled, when you click the back button to return to a previous page, Chrome has to reload that page completely. This involves fetching all the resources again, running any JavaScript, and reconstructing the entire page from scratch. Depending on how complex the page is, this can take anywhere from a fraction of a second to several seconds.
+The benefits of the back-forward cache are most noticeable when you frequently navigate back and forth between pages. For example, if you are reading an article and click a link to check a reference, then press the back button to return to the article, the page will appear instantly instead of reloading. This can save several seconds per navigation and makes browsing feel much more responsive.
 
-With bfcache enabled, Chrome keeps a complete snapshot of pages you have visited in memory. When you navigate back to a page, instead of reloading it, Chrome simply displays the cached version. This makes backward navigation nearly instantaneous because all the work has already been done.
+This feature is particularly useful for users who do a lot of research online, read long-form content, or frequently jump between pages on the same website. It can also reduce data usage since pages do not need to be re-downloaded from the server.
 
-To enable back-forward cache, search for "Back-forward cache" in chrome://flags. Look for the flag related to bfcache support and enable it. Keep in mind that not all websites work well with bfcache. Some websites use scripts or techniques that are incompatible with the cache, and in those cases, Chrome will automatically fall back to reloading the page normally.
+One thing to note is that some websites may not be fully compatible with the back-forward cache due to how they handle certain types of content or scripts. However, most modern websites work well with this feature enabled, and Chrome automatically handles cases where the cached version might not be appropriate.
 
-The back-forward cache is particularly useful for certain types of browsing. If you read articles and frequently go back to check earlier parts, if you browse through search results and return to previous pages, or if you navigate between pages in a web app, bfcache can save you a lot of waiting time.
+## Additional Performance Tips
 
-## Additional Flags Worth Exploring
+While the Chrome flags we have discussed can significantly improve your browsing speed, there are other steps you can take to keep Chrome running at its best. One of the simplest things you can do is to keep your browser updated. Google regularly releases updates that include performance improvements, security fixes, and bug fixes that can all contribute to a faster browsing experience.
 
-While the four flags we have covered so far are the most impactful for speed optimization, there are a few other flags that can further improve your Chrome experience.
+Another important practice is to manage your extensions wisely. While extensions can add useful functionality to Chrome, having too many extensions installed can slow down your browser. Each extension adds code that runs in the background and can affect performance. Take some time to review your installed extensions and remove any that you no longer use actively.
 
-The first is Smooth Scrolling. When enabled, this flag adds subtle animations to scrolling that make the experience feel more fluid. While this does not technically make pages load faster, it can make the browser feel more responsive, especially on devices with high refresh rate displays.
+For users who want even more control over their browser performance, there are specialized extensions designed to help manage resources more efficiently. For example, Tab Suspender Pro is a tool that automatically suspends tabs you are not actively using, which can free up memory and CPU resources for the tabs you are using. This can be especially helpful if you tend to keep many tabs open at once.
 
-Another useful flag is "Prediction API" or "Network Prediction." This flag enables Chrome's ability to prefetch DNS information and preconnect to servers it predicts you might visit. Essentially, Chrome analyzes your browsing patterns and starts making connections in the background before you even click a link. This can make clicking on links feel faster because some of the connection work has already been done.
-
-For users who keep many tabs open, the "Tab freezing" flag can help. This feature automatically suspends tabs that have been inactive for a while, stopping them from consuming system resources. While Chrome has a built-in version of this feature, the flag allows for more aggressive control.
-
-## Managing Tabs for Maximum Performance
-
-While enabling Chrome flags can significantly improve your browser speed, one of the biggest factors affecting performance is how you manage your tabs. Even with all the flags in the world enabled, having too many tabs open will slow down your browser because each tab uses memory and processing power.
-
-This is where tools like Tab Suspender Pro can be extremely helpful. Tab Suspender Pro is a browser extension that automatically suspends tabs you are not actively viewing. When a tab is suspended, it stops using your computer's resources, which can free up significant amounts of memory and CPU usage. When you return to a suspended tab, it quickly wakes up and reloads the page.
-
-Using an extension like Tab Suspender Pro in combination with the Chrome flags we have discussed can give you the best of both worlds. You can keep all your tabs organized and accessible without suffering the performance penalty that usually comes with having many tabs open. This is particularly useful if you are the type of person who keeps dozens of tabs open for reference or research.
-
-Tab Suspender Pro works silently in the background, detecting when you have not used a tab for a certain period of time and automatically suspending it. You can customize how long to wait before suspending tabs and which tabs should never be suspended. This level of control allows you to balance accessibility and performance according to your needs.
-
-## A Comprehensive Approach to Browser Speed
-
-Getting the most out of Chrome requires a comprehensive approach. Enabling the right flags is a great start, but it is not the only factor. Here are some additional tips to keep your browser running at its best.
-
-First, keep Chrome updated. Google regularly releases updates that include performance improvements, bug fixes, and new features. Running an outdated version of Chrome means you are missing out on optimizations that could make your browser faster.
-
-Second, manage your extensions carefully. While extensions can be incredibly useful, each one you install adds to Chrome's memory footprint and can slow down startup times. Periodically review your installed extensions and remove any that you are not actively using.
-
-Third, clear your cache and browsing data regularly. Over time, Chrome stores various types of data to speed up your browsing, but this cache can grow large and actually start to slow things down. Clearing it periodically can help maintain optimal performance.
-
-Fourth, consider your hardware. If your computer is several years old, you might see limited improvement from flags no matter which ones you enable. In such cases, keeping fewer tabs open and using lightweight extensions becomes even more important.
+Keeping your browser clean can also help. Over time, Chrome can accumulate cached data, cookies, and other files that may slow it down. Periodically clearing your browser cache and history can help maintain optimal performance. You can do this by going to Chrome's settings and selecting "Clear browsing data."
 
 ## Putting It All Together
 
-Now that you understand the key Chrome flags for speed optimization, you can start enabling them to improve your browsing experience. Begin with Parallel Downloading and QUIC protocol, as these will give you the most noticeable everyday improvements in download speeds and page loading times. Then add GPU rasterization for smoother scrolling and rendering, and finally enable back-forward cache for instant navigation between pages.
+Enabling these Chrome flags for speed optimization can transform your browsing experience from sluggish to snappy. The combination of parallel downloading, QUIC protocol support, GPU rasterization, and back-forward cache addresses multiple aspects of browser performance, from download speeds to page rendering to navigation responsiveness.
 
-Remember that these flags work best when combined with good browsing habits. Keep your tabs managed, either manually or with help from Tab Suspender Pro, and keep your browser updated. With these steps, you can transform Chrome into a faster, more efficient browser that handles everything you throw at it.
+To get the most out of these flags, consider enabling them gradually and testing your browser after each change. This way, you can identify which flags provide the most benefit for your specific usage patterns and hardware configuration. Remember that while these flags are generally stable, they are experimental features, so it is always a good idea to keep an eye out for any unexpected behavior.
 
-The beauty of Chrome flags is that they are free and easy to enable. You do not need any technical expertise to make these changes, and you can always revert them if something does not work out. So why not give them a try? You might be surprised at just how much faster your browser can feel.
+Once you have configured these flags to your liking, you should notice a significant improvement in how fast Chrome loads pages, how smoothly it renders content, and how quickly you can navigate between pages. Combined with good browsing habits and regular maintenance, these optimizations can help you get the most out of your Chrome browser.
+
+## Exploring Additional Speed Flags
+
+Beyond the main flags we have covered, there are several other Chrome flags that can contribute to a faster browsing experience. While they may not have as dramatic an impact as the ones we have discussed, they can still provide noticeable improvements in specific scenarios.
+
+Threaded scrolling is another useful flag that can improve how smoothly Chrome handles scrolling on web pages. By default, some websites may experience choppy scrolling when the page contains many elements or complex layouts. Enabling threaded scrolling allows Chrome to use multiple CPU cores for scrolling calculations, resulting in much smoother movement through long pages. To find this flag, search for "Threaded scrolling" in chrome://flags and enable it if it is not already on by default.
+
+Another flag worth mentioning is "Lazy load with scrollable div." This feature can improve initial page load times by deferring the loading of images and other content within scrollable containers until they come into view. If you frequently visit websites with long lists of images or content, enabling this flag can reduce both load times and data usage.
+
+For users who visit websites with a lot of JavaScript, enabling JavaScript compilation optimization can help. Chrome includes flags that control how aggressively JavaScript is compiled and optimized during runtime. While these flags are more technical, they can provide performance improvements for web applications that rely heavily on JavaScript.
+
+## Understanding the Performance Impact
+
+It is helpful to understand why these flags can make such a significant difference in your browsing experience. Chrome is a complex piece of software that handles many different types of content, from simple text pages to complex web applications with rich media and interactive features. The default settings in Chrome are designed to work well across a wide range of hardware and network conditions, but they are not optimized for every situation.
+
+When you enable flags like parallel downloading, you are taking advantage of capabilities that Chrome already has but keeps disabled by default for compatibility or policy reasons. Similarly, QUIC protocol support represents years of development work by Google and other organizations to improve web performance, but it requires explicit enabling in Chrome to use.
+
+GPU rasterization is particularly impactful because it shifts work from one component of your computer to another that is much better suited for the task. Just as you would not use a screwdriver to hammer a nail, using a GPU for rasterization is simply using the right tool for the job. The result is that both the rendering quality and the speed can improve simultaneously.
+
+The back-forward cache works by recognizing a common pattern in web browsing and optimizing for it. When you navigate back to a page, you typically expect to see it exactly as you left it, including any scroll position, form inputs, or dynamic content that was loaded. Without the bfcache, Chrome would have to reconstruct all of this from scratch, which takes time and resources.
+
+## Common Misconceptions About Chrome Flags
+
+There are some common misconceptions about Chrome Flags that are worth addressing. Some users believe that Chrome Flags are dangerous or can damage their browser, but this is not the case. Chrome Flags are simply experimental settings that control features that are not yet enabled by default for various reasons, such as needing more testing or not being compatible with all websites.
+
+Another misconception is that enabling more flags always results in better performance. While the flags we have discussed in this article are generally beneficial, not all flags are designed to improve performance, and some may even have negative effects depending on your hardware or usage patterns. It is always a good idea to research a flag before enabling it and to test your browser afterward to ensure the change is beneficial.
+
+Some users also worry that Chrome Flags will be reset when Chrome updates. While it is possible for flags to be reset or changed during major updates, this is relatively rare, and Google typically provides advance notice when significant changes to flags are expected. In most cases, your enabled flags will remain active through routine updates.
+
+## Monitoring Your Performance
+
+After enabling these Chrome flags for speed optimization, you may want to monitor your browser performance to see the impact of the changes. Chrome includes several built-in tools that can help with this. The Task Manager, which you can access by pressing Shift+Escape while Chrome is open, shows you how much memory and CPU each tab and extension is using. This can help you identify if any tabs or extensions are causing performance issues.
+
+Chrome also includes performance tracing tools that can provide detailed information about how Chrome is performing. You can access these by typing chrome://tracing in your address bar. While these tools are primarily designed for developers, they can also be useful for advanced users who want to understand exactly what is happening in their browser.
+
+For a simpler approach, you can simply pay attention to how your browser feels during everyday use. Notice how long pages take to load, how smoothly scrolling feels, and how quickly the back and forward buttons respond. These subjective observations can be just as valuable as technical measurements for understanding the impact of the changes you have made.
+
+## Maintaining Your Optimized Browser
+
+Once you have configured your Chrome flags for speed optimization, it is important to maintain your browser to ensure continued optimal performance. This includes keeping Chrome updated, as mentioned earlier, but also involves some ongoing maintenance tasks.
+
+Periodically reviewing your installed extensions is important because it is easy to accumulate extensions over time without realizing it. Each extension that you install adds code that runs in your browser, and even extensions that you do not actively use may still be running in the background. Going through your extensions once a month and removing any that you no longer need can help keep your browser running smoothly.
+
+Clearing your browser cache regularly can also help maintain performance. While caching can speed up repeated visits to websites by storing locally saved copies of files, an overly large cache can eventually slow down Chrome. You can adjust how Chrome handles caching in the settings, and you can also set up automatic clearing of cache data at regular intervals.
+
+Finally, keep an eye on your tabs. Having too many tabs open at once can consume significant amounts of memory and CPU, even with the optimizations we have discussed. Using a tool like Tab Suspender Pro can help automatically manage your tabs and ensure that you are not wasting resources on tabs that you are not currently viewing. This extension can automatically suspend inactive tabs, freeing up memory for the tabs you are actively using and helping your browser feel more responsive overall.
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+*Built by theluckystrike — More tips at zovo.one*

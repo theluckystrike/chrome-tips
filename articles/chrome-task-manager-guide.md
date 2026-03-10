@@ -77,3 +77,7 @@ Finally, consider establishing regular habits of monitoring your browser's resou
 ---
 
 Mastering Chrome Task Manager transforms you from a passive browser user into an active manager of your digital workspace. By understanding how to monitor memory per tab, track GPU processes, analyze network usage, and terminate unresponsive processes, you gain complete control over your browser's performance. Whether you choose to implement manual tab management, leverage tools like Tab Suspender Pro, or simply develop better browsing habits, the knowledge from this guide will serve you well in maintaining a fast, stable, and efficient Chrome experience.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

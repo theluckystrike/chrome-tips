@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome WebGPU vs WebGL Comparison"
 description: "Comprehensive comparison of WebGPU vs WebGL in Chrome. Learn about performance differences, API changes, use cases, and how to migrate your graphics applications."
 date: 2026-01-15

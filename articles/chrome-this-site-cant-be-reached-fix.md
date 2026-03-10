@@ -82,4 +82,10 @@ Keeping your internet equipment updated helps too. If your router is several yea
 
 If you have tried all these steps and still cannot reach certain websites, there might be a more serious issue with your network or computer. Contact your internet service provider for assistance if you suspect there is a problem with your connection. If the issue is specific to one website and no one else can reach it either, the problem is on their end, and you will need to wait for them to fix it.
 
+<<<<<<< HEAD
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+=======
+---
+
+Built by theluckystroller — More tips at [zovo.one](https://zovo.one)
+>>>>>>> qa/loop-5

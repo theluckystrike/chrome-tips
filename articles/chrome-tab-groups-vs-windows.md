@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Tab Groups vs Multiple Windows"
 description: "Compare Chrome tab groups vs multiple windows for better organization, memory management, and workflow. Learn when to use each approach for optimal browsing."
 date: 2026-01-15
@@ -140,4 +140,4 @@ Most users will find that a combination of both approaches provides the best res
 
 ---
 
-*Built by theluckystrike — More tips at https://zovo.one*
+*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

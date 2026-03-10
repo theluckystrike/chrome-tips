@@ -60,4 +60,4 @@ Finally, share what you learn with others if it helps. Discussing your findings 
 
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

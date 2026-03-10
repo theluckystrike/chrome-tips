@@ -66,4 +66,4 @@ The best chrome extension for taking notes while browsing is the one you actuall
 
 Over time, you will find that having a way to capture thoughts directly within your browser makes your online research and work much more efficient. No more switching between apps, no more lost ideas, and no more forgetting important details. Just smooth, integrated note-taking that fits seamlessly into your browsing experience.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

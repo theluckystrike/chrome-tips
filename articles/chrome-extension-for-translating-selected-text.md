@@ -70,4 +70,4 @@ Start by trying one of the extensions mentioned above. Most offer free versions 
 
 The best translation extension is the one that fits seamlessly into your workflow without adding friction. When translation becomes effortless, the language barrier fades away, and you can focus on the content itself.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

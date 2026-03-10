@@ -64,8 +64,8 @@ This can be interesting even if you are not a developer because it gives you ins
 
 ## Looking Ahead
 
-The Performance Observer API represents a shift toward more transparent and measurable web performance. As internet speeds have increased and users have higher expectations, website developers have needed better tools to understand and improve the user experience. This API provides exactly that.
+The **Performance Observer API** represents a shift toward more transparent and measurable web performance. As internet speeds have increased and users have higher expectations, website developers have needed better tools to understand and improve the user experience. This API provides exactly that.
 
-As more websites adopt these performance measurement practices, the overall quality of web browsing should continue to improve. You may not directly interact with the Performance Observer API, but it works behind the scenes to make the web a better place for everyone.
+As more websites adopt these performance measurement practices, the overall quality of web browsing should continue to improve. You may not directly interact with the **Performance Observer API**, but it works behind the scenes to make the web a better place for everyone.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

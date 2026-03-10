@@ -16,9 +16,9 @@ Google Chrome includes a powerful built-in PDF editor that many users overlook. 
 
 The first step to using Chrome's PDF editor is opening your PDF file in the browser. You have several options to do this, and understanding all of them helps you work more efficiently.
 
-The simplest method is to drag and drop your PDF directly onto a Chrome window. Chrome will automatically open the file in its built-in PDF viewer. This method works particularly well when you have the PDF file visible on your desktop or in a folder window. Simply click and hold the file, drag it over to your Chrome window, and release. Chrome immediately opens the document, ready for editing.
+The simplest method is to **drag and drop** your PDF directly onto a Chrome window. Chrome will automatically open the file in its built-in PDF viewer. This method works particularly well when you have the PDF file visible on your desktop or in a folder window. Simply click and hold the file, drag it over to your Chrome window, and release. Chrome immediately opens the document, ready for editing.
 
-Alternatively, you can press Ctrl+O (or Cmd+O on Mac) to open the file browser, then navigate to your PDF and select it. This approach is useful when you need to browse through multiple folders to find your document. The file browser works like any standard open dialog, so you can navigate using your keyboard or mouse.
+Alternatively, you can press **Ctrl+O** (or **Cmd+O** on Mac) to open the file browser, then navigate to your PDF and select it. This approach is useful when you need to browse through multiple folders to find your document. The file browser works like any standard open dialog, so you can navigate using your keyboard or mouse.
 
 You can also open PDFs directly from websites. Many websites link to PDF documents, and clicking these links will automatically open the file in Chrome's PDF viewer. This is common with downloadable forms, e-books, technical documentation, and online reports. When you click such a link, Chrome detects that the content is a PDF and displays it in the viewer rather than downloading it directly.
 

@@ -70,8 +70,6 @@ Another thing to check is whether you have a PDF reader application installed on
 
 Finally, make sure you are running the latest version of Chrome. Google regularly updates the browser, and newer versions sometimes change how files are handled. An update might have changed your PDF settings without you noticing, or an older version might have a bug that causes this behavior.
 
-To check for updates, open Chrome and look for the three dots menu in the top right corner. Click on it, then go to Help, and select About Google Chrome. Chrome will check for updates and install them if any are available. Restart the browser after updating to make sure the changes take effect.
+To check for updates, open Chrome and look for the three dots menu in the top right corner. Click on it, then go to **Help**, and select **About Google Chrome**. Chrome will check for updates and install them if any are available. Restart the browser after updating to make sure the changes take effect.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

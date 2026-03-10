@@ -54,8 +54,6 @@ Be careful when changing Chrome flags, as experimental settings can affect brows
 
 While fixing paint holding issues is important, you might also want to consider reducing the number of tabs you keep open. Having many tabs can make tab switching slower and increase the chances of experiencing visual glitches.
 
-Extensions like Tab Suspender Pro can help you manage open tabs more effectively. This extension allows you to automatically suspend tabs you are not using, which reduces the workload on your browser and can improve overall performance. When you need a suspended tab again, clicking on it will reload the page instantly.
+Extensions like **Tab Suspender Pro** can help you manage open tabs more effectively. This extension allows you to automatically suspend tabs you are not using, which reduces the workload on your browser and can improve overall performance. When you need a suspended tab again, clicking on it will reload the page instantly.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

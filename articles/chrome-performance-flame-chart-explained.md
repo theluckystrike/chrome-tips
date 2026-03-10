@@ -64,10 +64,10 @@ Tab management tools offer another solution. Tab Suspender Pro automatically pau
 
 ## Checking Your Browser Periodically
 
-Making flame chart recording a occasional habit helps you understand your browser behavior over time. Recording during your typical workflow reveals which activities consistently cause the most strain. This information guides decisions about which extensions to keep, how many tabs to maintain, and which websites might be worth avoiding.
+Making **flame chart** recording an occasional habit helps you understand your browser behavior over time. Recording during your typical workflow reveals which activities consistently cause the most strain. This information guides decisions about which extensions to keep, how many tabs to maintain, and which websites might be worth avoiding.
 
-Regular checks also help identify when extension updates or website changes start causing new performance issues. If Chrome suddenly feels slower after an update, recording a new flame chart comparison often reveals what changed.
+Regular checks also help identify when extension updates or website changes start causing new performance issues. If Chrome suddenly feels slower after an update, recording a new **flame chart comparison** often reveals what changed.
 
 The flame chart demystifies what happens inside your browser. Instead of guessing why things feel slow, you gain actual insight into where time goes. This knowledge empowers you to take targeted actions rather than trying random fixes that may not address the real problem.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -2,6 +2,10 @@
 layout: post
 title: "Chrome Open History Page Shortcut"
 description: "Learn how to quickly open Chrome history using keyboard shortcuts and simple methods to find past visited websites."
+date: 2026-01-18
+categories: [productivity, tips]
+tags: [chrome, history, shortcut, keyboard-shortcut]
+author: theluckystrike
 ---
 
 If you have been searching for chrome open history page shortcut, you probably want to find a quick way to access your browsing history without clicking through multiple menus. Whether you need to revisit a website you forgot to bookmark or find something you visited days ago, knowing the fastest way to open history in Chrome can save you time and frustration.
@@ -54,10 +58,8 @@ Some users prefer to use private or incognito mode when they do not want their b
 
 ## One More Tip for Managing Tabs
 
-If you find yourself frequently losing track of open tabs and needing to revisit them later, you might want to consider using a tab management extension. Tab Suspender Pro is one option that automatically suspends tabs you are not using, helping your browser run faster while keeping your tabs available for later. This can be especially helpful if you tend to keep many tabs open and want to improve your browser's performance without losing your place.
+If you find yourself frequently losing track of open tabs and needing to revisit them later, you might want to consider using a tab management extension. **Tab Suspender Pro** is one option that automatically suspends tabs you are not using, helping your browser run faster while keeping your tabs available for later. This can be especially helpful if you tend to keep many tabs open and want to improve your browser's performance without losing your place.
 
 The extension works automatically in the background, so you do not need to manually manage which tabs are active. When you return to a suspended tab, it reloads instantly so you can continue exactly where you left off. This is just one tool among many that can help improve your Chrome experience.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

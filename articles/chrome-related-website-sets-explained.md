@@ -32,7 +32,7 @@ When a website wants to use related website sets, its developers must submit a c
 
 For users, this means that when you visit one site in a related set, Chrome may allow certain data to be shared with other sites in that set. This could include login states, preferences, or other information that helps create a more seamless experience across the different websites you visit.
 
-It is important to note that related website sets are designed to be more privacy-friendly than traditional third-party tracking. The data sharing is limited to the specific domains declared in the set, and users are supposed to have more transparency about what is happening. However, the implementation has generated some debate among privacy advocates who worry about potential loopholes.
+Related website sets are designed to be more privacy-friendly than traditional third-party tracking. The data sharing is limited to the specific domains declared in the set, and users are supposed to have more transparency about what is happening. However, the implementation has generated some debate among privacy advocates who worry about potential loopholes.
 
 ## How to View and Manage Related Website Sets
 
@@ -64,4 +64,4 @@ Staying informed about browser features like related website sets helps you make
 
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

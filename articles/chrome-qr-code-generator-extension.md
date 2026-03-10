@@ -54,4 +54,4 @@ QR codes are a practical tool, and having a good Chrome extension makes them eve
 
 Take a moment to try a few different extensions. Pay attention to how quickly they generate codes, how easy the interface is, and whether they have any features that are particularly helpful for your needs. Once you find one that works well, you will wonder how you managed without it.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -86,4 +86,4 @@ Tab Suspender Pro helps by automatically suspending tabs you are not using. This
 
 ---
 
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

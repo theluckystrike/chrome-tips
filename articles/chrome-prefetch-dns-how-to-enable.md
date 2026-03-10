@@ -60,4 +60,4 @@ Enabling DNS prefetching in Chrome takes just a few minutes and does not require
 
 Try browsing the way you normally do after enabling this feature. You may find that the slight delay you used to notice before pages started loading has disappeared. Combined with other optimizations like managing your tabs and keeping Chrome updated, DNS prefetching can help make your browsing experience feel snappier and more responsive.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

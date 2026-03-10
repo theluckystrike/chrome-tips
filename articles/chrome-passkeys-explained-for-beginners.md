@@ -70,10 +70,10 @@ Extensions like Tab Suspender Pro can help by automatically suspending tabs you 
 
 ## Getting Started With Passkeys Today
 
-If you are ready to try passkeys, start with your most important accounts. Your Google account is a good first choice since Google was one of the early adopters of this technology. Set up a passkey there, and you will get a sense of how the whole process works.
+If you are ready to try passkeys, start with your most important accounts. Your Google account is a good first choice since Google was one of the early adopters of this technology. Set up a **passkey** there, and you will get a sense of how the whole process works.
 
 Remember that passkeys are optional, and you can always fall back to your password if you need to. Over time, as more websites add support and as you get more comfortable with the system, you might find yourself using passkeys more and more often.
 
 The shift to passkeys is still in its early stages, but it represents a significant step forward in making our online lives more secure while also more convenient. By understanding how passkeys work, you can make informed decisions about when and how to use them.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

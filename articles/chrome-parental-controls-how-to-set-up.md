@@ -98,9 +98,7 @@ Be responsive to access requests. If your child needs a site for homework and it
 
 Review and adjust settings as your child grows. What's appropriate for a 7-year-old is different from what's appropriate for a 12-year-old.
 
-While Family Link handles the safety and content filtering, you might also want to consider how your child manages their browsing habits. If you notice they tend to keep dozens of tabs open, which can slow down the computer and make it harder for them to focus on their schoolwork, an extension like Tab Suspender Pro can be helpful. This tool automatically suspends tabs they are not actively using, freeing up memory and helping the browser run more smoothly. It is a simple way to teach them about managing computer resources while keeping their research accessible.
+While **Family Link** handles the safety and content filtering, you might also want to consider how your child manages their browsing habits. If you notice they tend to keep dozens of tabs open, which can slow down the computer and make it harder for them to focus on their schoolwork, an extension like **Tab Suspender Pro** can be helpful. This tool automatically suspends tabs they are not actively using, freeing up memory and helping the browser run more smoothly. It is a simple way to teach them about managing computer resources while keeping their research accessible.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

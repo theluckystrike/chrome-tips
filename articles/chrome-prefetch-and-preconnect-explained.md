@@ -60,4 +60,4 @@ If you want to optimize your browsing experience further, consider keeping these
 
 You can also complement these built-in features with extensions that help manage tabs and system resources. Tools like Tab Suspender Pro can automatically put unused tabs to sleep, which reduces memory usage and lets your browser focus on prefetching the content you are most likely to visit next. This combination of built-in features and thoughtful extension use can make a noticeable difference in how fast and responsive your browsing feels.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

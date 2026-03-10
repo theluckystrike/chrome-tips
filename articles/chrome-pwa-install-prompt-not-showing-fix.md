@@ -66,4 +66,4 @@ If your Chrome PWA install prompt is not showing, go through the checklist above
 
 Remember that you have control over the prompt through the beforeinstallprompt event. Taking manual control of the install experience often provides a better user experience anyway. Your users will appreciate a clear, well-timed install button rather than a prompt that appears at unpredictable times.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

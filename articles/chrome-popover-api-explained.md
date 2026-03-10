@@ -42,4 +42,4 @@ If you encounter a popover that does not work well on a particular website, the 
 
 If you manage many tabs and notice performance improvements from more efficient popovers, you might also benefit from tools that help manage your open tabs. For instance, Tab Suspender Pro can automatically suspend tabs you are not using, which reduces memory usage and can make your browser feel faster overall.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

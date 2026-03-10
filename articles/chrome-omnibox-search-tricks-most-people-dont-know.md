@@ -66,11 +66,11 @@ You can add time constraints to your searches to find information that is curren
 
 ## Combine Multiple Search Operators
 
-You can combine multiple search operators to get very specific results. For example, "site:youtube.com tutorial beginners" will find beginner tutorial videos on YouTube. "define productivity -business" will give you definitions of productivity while excluding business-related results. Experiment with combining operators to find exactly what you are looking for.
+You can combine multiple search operators to get very specific results. For example, **"site:youtube.com tutorial beginners"** will find beginner tutorial videos on YouTube. **"define productivity -business"** will give you definitions of productivity while excluding business-related results. Experiment with combining operators to find exactly what you are looking for.
 
 ## Manage Tabs While Searching
 
-While these omnibox tricks help you search more efficiently, managing many open tabs is a separate challenge that can slow down your browser. If you find yourself with too many tabs open and Chrome is becoming sluggish, Tab Suspender Pro can help. This extension automatically suspends tabs that you have not used recently, freeing up memory and keeping Chrome running smoothly. It works alongside Chrome's built-in Memory Saver feature to give you more control over which tabs stay active and which get paused.
+While these omnibox tricks help you search more efficiently, managing many open tabs is a separate challenge that can slow down your browser. If you find yourself with too many tabs open and Chrome is becoming sluggish, **Tab Suspender Pro** can help. This extension automatically suspends tabs that you have not used recently, freeing up memory and keeping Chrome running smoothly. It works alongside Chrome's built-in Memory Saver feature to give you more control over which tabs stay active and which get paused.
 
 ## Final Thoughts
 
@@ -78,4 +78,4 @@ The Chrome omnibox is one of the most powerful tools in your browser, yet most p
 
 Once you start using these omnibox search tricks regularly, you will find yourself switching between tasks more quickly and getting things done in less time. The best part is that all of these features work immediately without any setup or installation. Give them a try and see how much easier Chrome can become.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

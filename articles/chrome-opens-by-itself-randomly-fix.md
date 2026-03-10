@@ -12,7 +12,7 @@ author: theluckystrike
 
 Have you ever been working on something important, only to have Chrome suddenly pop open on its own? If you are searching for a chrome opens by itself randomly fix, you are not imagining things and you are definitely not alone. This annoying issue happens to many people, and while it might seem like your computer has a mind of its own, there are actual causes behind this behavior and real steps you can take to stop it.
 
-Let me walk you through why this happens and what you can do about it.
+This guide will walk you through why this happens and what you can do about it.
 
 ## What Causes Chrome to Open Randomly
 
@@ -60,6 +60,4 @@ Keep your software updated. Chrome updates regularly include bug fixes and secur
 
 Review your startup programs and scheduled tasks every few months. Over time, you may install new applications that add themselves to these lists without you realizing it. A quick check now and then can catch any unwanted additions early.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -129,3 +129,5 @@ Chrome's autofill settings offer a comprehensive system for managing your person
 The key is to find the right balance for your needs. Some users will benefit from having multiple saved addresses and payment methods, while others may prefer minimal storage. Whatever your preference, taking the time to organize your autofill data makes your browsing experience more efficient.
 
 Remember to periodically review your saved information, keep Chrome updated, and use sync thoughtfully if you choose to enable it. Combined with tools like Tab Suspender Pro for tab management, you can create a Chrome setup that is both powerful and secure.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

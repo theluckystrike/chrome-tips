@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chrome notification api guide"
+title: "Chrome Notification API Guide"
 description: "Master the Chrome Notification API with this comprehensive guide covering push notifications, permission requests, notification actions, badges, and best practices for Chrome extensions."
 date: 2026-01-15
 categories: [extensions, development, api]

@@ -64,4 +64,4 @@ When you do use subgrid, make sure your HTML structure supports it. Subgrid requ
 
 If you are exploring Chrome features like subgrid or working on web design projects, you might find yourself opening many tabs in your browser. This can slow down your computer and make it harder to focus on what you are doing. Tools like Tab Suspender Pro can help by automatically suspending tabs you have not used recently, freeing up memory and keeping your browser running smoothly. This is one option to consider if you tend to have many tabs open while learning new CSS features or working on web projects.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

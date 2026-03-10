@@ -70,6 +70,4 @@ Be careful about installing too many extensions, as each one has the potential t
 
 Using a reputable antivirus program can also help by preventing malware that might inject unwanted code into your web sessions and cause image hash conflicts.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

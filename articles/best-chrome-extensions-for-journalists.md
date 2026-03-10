@@ -12,7 +12,7 @@ author: theluckystrike
 
 If you are searching for the best chrome extensions for journalists, you probably need tools that can help you work faster, stay organized, and handle the fast-paced nature of news gathering and reporting. Journalists juggle multiple stories, conduct research, interview sources, write drafts, and publish content, often under tight deadlines. The good news is that Chrome extensions can help streamline many of these tasks, giving you more time to focus on what matters most: telling stories.
 
-Let me walk you through the most useful extensions that can make a real difference in your daily work as a journalist.
+This guide covers the most useful extensions that can make a real difference in your daily work as a journalist.
 
 ## Why Journalists Need Browser Extensions
 

@@ -90,6 +90,4 @@ Even with Memory Saver enabled, Chromebooks can struggle when you open a lot of 
 
 The combination of Memory Saver, conservative preloading, minimal extensions, and regular restarts will keep most Chromebooks running well for years. Adding Tab Suspender Pro to that mix gives you an extra layer of memory management without breaking the "keep extensions minimal" rule — it pays for itself in freed resources. These machines are designed to be simple and fast — the key is not overloading them with extras.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

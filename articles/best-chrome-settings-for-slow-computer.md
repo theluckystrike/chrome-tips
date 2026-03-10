@@ -109,6 +109,4 @@ Once you've adjusted everything, close Chrome completely and reopen it. Some set
 
 The combination of Memory Saver plus disabled preloading plus fresh startup is typically where people notice the biggest improvement. Adding Tab Suspender Pro on top of that gives your slow computer even more breathing room.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -78,4 +78,4 @@ If you do not see the icon, try visiting a few different article websites. Not a
 
 Once you get comfortable with the basic reader mode, explore whether extensions or reading apps might give you the additional features you want. The goal is to make reading on your phone as comfortable and distraction-free as possible.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

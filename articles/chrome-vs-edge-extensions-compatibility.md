@@ -62,4 +62,4 @@ Chrome vs Edge extensions compatibility issues are usually solvable. While not e
 
 Remember to stay patient, keep your software updated, and think carefully about which extensions you really need. With a little effort, you can enjoy the best of both browsers without missing out on the tools that make your browsing experience better.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

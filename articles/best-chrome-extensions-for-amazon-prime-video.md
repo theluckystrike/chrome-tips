@@ -42,7 +42,7 @@ This extension overlays ratings on thumbnails and detail pages, so you can quick
 
 One common frustration with Prime Video is the limitation on offline viewing. While Amazon does allow downloads on mobile devices, many users want to download content to watch on their computers. The StreamFab Prime Video Downloader extension helps with this by providing a way to save Prime Video content for offline viewing.
 
-This extension is particularly useful for travelers or anyone who does not always have a reliable internet connection. You can download movies or episodes to watch later when you are offline. It is important to note that you should only download content that you have the legal right to download for personal use. The extension provides clear instructions on how to use this feature effectively.
+This extension is particularly useful for travelers or anyone who does not always have a reliable internet connection. You can download movies or episodes to watch later when you are offline. You should only download content that you have the legal right to download for personal use. The extension provides clear instructions on how to use this feature effectively.
 
 ## Tab Suspender Pro
 

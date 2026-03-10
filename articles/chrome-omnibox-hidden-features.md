@@ -224,3 +224,7 @@ Whether you're a casual browser or a power user, taking advantage of these Omnib
 For users who want to extend their Chrome productivity even further, consider exploring extensions like **Tab Suspender Pro** that complement these native Omnibox features. Together, they create a powerful browsing environment that helps you stay organized, focused, and efficient.
 
 Next time you open Chrome, remember to look beyond the simple address bar—you might be surprised at what the Omnibox can do for you.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

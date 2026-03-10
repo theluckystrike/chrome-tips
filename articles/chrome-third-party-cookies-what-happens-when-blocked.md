@@ -54,4 +54,4 @@ If you encounter a website that is not working, try the site-specific fix descri
 
 If you have many tabs open and want to improve your browser performance overall, consider using an extension like Tab Suspender Pro. It suspends tabs you are not using, which can make Chrome run faster and use less memory. It works alongside Chrome is privacy features to give you a smoother experience. You can find it in the Chrome Web Store if you are interested.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

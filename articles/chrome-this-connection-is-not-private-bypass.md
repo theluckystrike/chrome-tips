@@ -62,4 +62,4 @@ You should also keep your operating system updated, as certificate validation is
 
 If you manage a website yourself, make sure you keep your SSL certificate renewed and properly configured. Many hosting providers offer free SSL certificates through services like Let's Encrypt, which makes it easy to keep your site secure and avoid certificate errors for your visitors.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

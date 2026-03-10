@@ -1,218 +1,185 @@
 ---
 layout: default
 title: "Chrome Geolocation API Tips"
-description: "Master the Chrome Geolocation API with these essential tips covering high accuracy mode, watchPosition, error handling, privacy best practices, and performance optimization."
-date: 2026-01-15
-categories: [development, chrome, web-development]
-tags: [geolocation, chrome-api, javascript, web-development, privacy]
-author: theluckystrike
+description: "Master the Chrome Geolocation API with these essential tips covering high accuracy mode, watchPosition for real-time tracking, error handling best practices, and privacy considerations for location-based web applications."
 ---
 
-# Chrome Geolocation API Tips
+The Chrome Geolocation API is a powerful tool that enables web developers to create location-aware applications directly in the browser. Whether you are building a mapping application, a delivery tracking system, or a location-based social network, understanding how to properly implement and use the Geolocation API is essential for delivering a smooth user experience. In this comprehensive guide, we will explore the key aspects of working with Chrome's Geolocation API, including achieving high accuracy, leveraging watchPosition for continuous tracking, implementing robust error handling, and protecting user privacy throughout the process.
 
-The Chrome Geolocation API is a powerful web tool that enables websites to access a user's location information. Whether you are building a location-aware application, a delivery tracking system, or a service that provides personalized content based on geographic position, understanding how to properly implement and optimize the Geolocation API is essential. This comprehensive guide covers everything you need to know to get the most out of this browser API while ensuring a smooth user experience and respecting privacy concerns.
+## Understanding the Basics of Chrome Geolocation API
 
-## Understanding the Basics of Geolocation API
+The Geolocation API is a web standard that allows websites to access the user's geographic location with their permission. Chrome and other modern browsers implement this API, providing developers with a consistent way to build location-aware web applications. The API offers two primary methods for obtaining location data: getCurrentPosition for a one-time location request and watchPosition for continuous location updates.
 
-The Geolocation API is a browser-based API that allows web applications to access the user's geographical location. It is supported by all modern browsers, including Chrome, Firefox, Safari, and Edge. The API provides several methods for retrieving location data, each suited to different use cases and accuracy requirements.
+Before diving into the more advanced features, it is important to understand how the API works at a fundamental level. When a website requests location access, Chrome will display a permission prompt asking the user to allow or deny the request. This user consent mechanism is a critical privacy safeguard that cannot be bypassed by developers. The location data itself comes from various sources, including GPS (on devices that have it), Wi-Fi positioning, and IP address geolocation, depending on what is available and what accuracy level is requested.
 
-Before diving into the tips, it is important to understand the fundamental methods available in the Geolocation API. The primary methods include getCurrentPosition(), which retrieves the user's current location once, and watchPosition(), which continuously monitors the user's location and provides updates as they move. There is also clearWatch(), which stops the continuous monitoring started by watchPosition().
+The API returns position data that includes latitude, longitude, accuracy, altitude, heading, and speed when available. However, not all of these values are always present, and the accuracy can vary significantly depending on the device and available sensors. Understanding this variability is key to building robust applications that degrade gracefully when high-precision location data is not available.
 
-The API returns position data that includes latitude, longitude, accuracy, altitude, heading, and speed. Not all devices and browsers can provide all these parameters, so your code should handle cases where some values might be unavailable or undefined.
+## Achieving High Accuracy in Location Determinations
 
-## Tip 1: Use High Accuracy Mode Strategically
+One of the most important considerations when working with the Geolocation API is the accuracy of the location data. Chrome provides developers with the ability to request high-accuracy location by passing an options object to both getCurrentPosition and watchPosition methods. The key property to set is enableHighAccuracy, which when set to true, tells the browser to use the most accurate location methods available.
 
-One of the most important options when requesting location data is the enableHighAccuracy parameter. When set to true, this option tells the browser to use the most accurate location methods available, typically GPS on mobile devices. However, this comes with trade-offs that you should understand before enabling it by default.
+When you request high accuracy, Chrome will prioritize GPS location on devices that have GPS hardware available. This can provide location accuracy within a few meters, which is ideal for applications that need precise positioning. However, there are several important considerations to keep in mind when using high accuracy mode.
 
-The high accuracy mode consumes significantly more battery power because it requires the device's GPS receiver to be active, which is particularly problematic for mobile devices. Additionally, it may take longer to obtain a location fix, especially indoors or in areas with poor GPS signal. The response time can range from a few milliseconds with network-based location to several seconds or more with GPS.
+First, high accuracy mode consumes significantly more power than low accuracy mode. GPS receivers require substantial energy to operate, and enabling high accuracy can drain batteries much faster on mobile devices. For applications that do not require meter-level precision, it is often better to use the default accuracy or explicitly set enableHighAccuracy to false to preserve battery life.
 
-For most use cases, especially those that do not require precise location data, it is advisable to start with enableHighAccuracy set to false. This allows the browser to use network-based positioning, which is faster and more power-efficient. You can always request higher accuracy later if needed, or implement a progressive enhancement approach where you start with lower accuracy and upgrade if the initial results are insufficient.
+Second, high accuracy location determination takes longer than low accuracy. While a Wi-Fi or IP-based location can be obtained almost instantly, acquiring a GPS fix can take several seconds, especially when the device has not had a recent GPS lock. Your application should account for this delay and provide appropriate feedback to users while waiting for location data.
 
-```javascript
-// Start with low accuracy for faster results
-navigator.geolocation.getCurrentPosition(successCallback, errorCallback, {
-  enableHighAccuracy: false,
-  timeout: 10000,
-  maximumAge: 300000
-});
-```
+Third, high accuracy mode may not work indoors or in areas with poor GPS reception. Buildings can block or significantly degrade GPS signals, sometimes making it impossible to get a fix at all. Your application should have fallback logic that handles situations where high accuracy location is unavailable, perhaps by falling back to lower accuracy methods or gracefully degrading to a different user experience.
 
-For applications that genuinely require precise location data, such as navigation apps, fitness trackers, or location-based gaming, enabling high accuracy makes sense. In these cases, you should also implement proper timeout values and handle cases where GPS might not be available or take too long to acquire a signal.
-
-## Tip 2: Master the watchPosition Method
-
-The watchPosition() method is incredibly useful for applications that need to track user movement over time. Unlike getCurrentPosition(), which provides a one-time location reading, watchPosition() continuously monitors location and invokes your callback function whenever the position changes significantly.
-
-This method returns a watch ID number that you should store if you ever need to stop watching the location. This is crucial for preventing memory leaks and unnecessary battery drain. When the user navigates away from your page or you no longer need location updates, you must call clearWatch() with this ID to stop the location monitoring.
+Here is a basic example of how to request high accuracy location:
 
 ```javascript
-let watchId = navigator.geolocation.watchPosition(
-  (position) => {
-    console.log('Latitude:', position.coords.latitude);
-    console.log('Longitude:', position.coords.longitude);
-    updateMap(position.coords);
-  },
-  (error) => {
-    console.error('Location error:', error.message);
-  },
-  {
+function getHighAccuracyLocation() {
+  const options = {
     enableHighAccuracy: true,
-    timeout: 15000,
-    maximumAge: 10000
-  }
-);
-
-// To stop watching
-function stopTracking() {
-  navigator.geolocation.clearWatch(watchId);
+    timeout: 10000,
+    maximumAge: 0
+  };
+  
+  navigator.geolocation.getCurrentPosition(
+    successCallback,
+    errorCallback,
+    options
+  );
 }
 ```
 
-One common mistake developers make is not handling the frequency of location updates properly. The browser will attempt to provide updates at the maximum rate supported by the hardware, which can be excessive for many applications. You can throttle the updates in your callback function by only processing positions that have changed by a minimum distance threshold. This reduces processing overhead and battery consumption.
+The timeout property is also important here. It specifies how long the browser should wait for a location result before calling the error callback. Setting an appropriate timeout is crucial for providing a good user experience, as users should not be left waiting indefinitely for location data that may never arrive.
 
-Another important consideration is that watchPosition() can consume significant battery power, especially with high accuracy mode enabled. For applications that do not require real-time tracking, consider using getCurrentPosition() at intervals instead, or implement a hybrid approach where you use watchPosition() when the application is in the foreground and switch to periodic checks when in the background, depending on your use case and platform capabilities.
+## Continuous Tracking with watchPosition
 
-## Tip 3: Implement Robust Error Handling
+For applications that need to track a user's location over time, the watchPosition method is the appropriate tool. Unlike getCurrentPosition, which provides a single location reading, watchPosition continuously monitors the user's location and calls your success callback whenever the position changes. This is ideal for navigation applications, fitness trackers, location-based games, and any other use case where real-time tracking is required.
 
-Error handling is often overlooked but is critical for a reliable geolocation implementation. The Geolocation API can fail for numerous reasons, and your code must handle each scenario gracefully to maintain a positive user experience.
+The watchPosition method returns a watch ID that you can use to stop watching the location when it is no longer needed. It is critical to properly manage this watch ID and clear it when the user leaves the relevant page or no longer needs tracking. Failing to do so can lead to unnecessary battery drain and potential privacy concerns, as the location tracking will continue in the background.
 
-The API provides error objects with specific error codes that help you understand what went wrong. The main error types include PERMISSION_DENIED, which occurs when the user denies location permission or the browser blocks access; POSITION_UNAVAILABLE, which happens when the device cannot determine the location due to technical issues; and TIMEOUT, which occurs when the operation takes too long to complete.
+Here is a basic implementation of watchPosition:
 
-For permission denials, you should provide clear feedback to users explaining why you need their location and how their data will be used. Many users deny permission out of privacy concerns without realizing the benefits of sharing their location. A well-designed interface can help educate users and encourage them to grant permission if appropriate.
+```javascriptlet watchId = null;
+
+function startTracking() {
+  const options = {
+    enableHighAccuracy: false,
+    timeout: 5000,
+    maximumAge: 30000 // Accept cached locations up to 30 seconds old
+  };
+  
+  watchId = navigator.geolocation.watchPosition(
+    (position) => {
+      console.log('Location updated:', position.coords.latitude, position.coords.longitude);
+      updateMap(position.coords);
+    },
+    (error) => {
+      console.error('Location error:', error.message);
+    },
+    options
+  );
+}
+
+function stopTracking() {
+  if (watchId !== null) {
+    navigator.geolocation.clearWatch(watchId);
+    watchId = null;
+  }
+}
+```
+
+The maximumAge option is particularly useful for watchPosition. It tells the browser how long it can return a cached position rather than requesting a new one. This can significantly reduce battery consumption when you do not need real-time updates, as the browser can simply return a recent position instead of constantly requesting new location data.
+
+When using watchPosition, it is important to implement debouncing or throttling to avoid overwhelming your application with location updates. Position changes can occur very frequently, especially when the user is moving, and processing every single update can strain both the browser and your server if you are sending location data remotely. Consider implementing logic that only processes location updates when they meet certain thresholds, such as a minimum distance traveled or a minimum time interval.
+
+## Implementing Robust Error Handling
+
+Error handling is a critical aspect of working with the Geolocation API. Location requests can fail for numerous reasons, and your application must be prepared to handle these failures gracefully. The API provides an error callback that receives a PositionError object with information about what went wrong.
+
+There are three main error codes that you may encounter. The PERMISSION_DENIED error occurs when the user explicitly denies location permission or blocks it through browser settings. The POSITION_UNAVAILABLE error indicates that the location could not be determined for some reason, such as all position sources being unavailable. The TIMEOUT error occurs when the location request takes longer than the timeout value you specified.
+
+When handling the PERMISSION_DENIED error, it is important to respect the user's choice and not repeatedly prompt for permission. Repeatedly asking for permission after a denial is not only frustrating for users but can also cause browsers to automatically deny future requests. Instead, provide clear information about what features require location access and let the user choose to enable it through browser settings if they change their mind.
+
+For POSITION_UNAVAILABLE errors, consider implementing fallback behavior. This might include using a default location, allowing manual location entry, or providing alternative functionality that does not require location. The key is to ensure that your application remains usable even when location data is unavailable.
+
+Timeout errors can often be resolved by trying again, as they may be caused by temporary conditions. However, you should implement a reasonable retry limit to avoid creating a poor user experience with endless loading attempts. After several failed attempts, it is better to inform the user of the issue and offer manual alternatives.
+
+Here is a comprehensive error handling example:
 
 ```javascript
 function handleLocationError(error) {
-  switch(error.code) {
+  switch (error.code) {
     case error.PERMISSION_DENIED:
-      console.error('User denied the request for geolocation.');
-      showLocationPermissionPrompt();
+      showMessage('Location permission denied. Please enable location access in browser settings.');
       break;
     case error.POSITION_UNAVAILABLE:
-      console.error('Location information is unavailable.');
-      showFallbackMessage('Unable to determine your location. Please check your internet connection.');
+      showMessage('Location information unavailable. Using default location.');
+      useDefaultLocation();
       break;
     case error.TIMEOUT:
-      console.error('The request to get user location timed out.');
+      showMessage('Location request timed out. Retrying...');
       retryLocationRequest();
       break;
     default:
-      console.error('An unknown error occurred.');
-      showGenericError();
+      showMessage('An unknown error occurred.');
       break;
   }
 }
 ```
 
-When dealing with unavailable positions, it is helpful to have fallback options. You might offer manual location entry, use IP-based geolocation as a rough estimate, or provide default values appropriate for your application. The key is to never leave the user stuck without a way to proceed.
-
-For timeout errors, implementing automatic retry logic can improve reliability. However, you should limit the number of retries and provide feedback to users so they know something is happening. A good approach is to show a loading indicator while waiting and offer a manual retry button if it takes too long.
-
-## Tip 4: Prioritize Privacy and User Consent
-
-Privacy is paramount when dealing with location data. Location information is considered sensitive personal data in many jurisdictions, and mishandling it can lead to legal issues and loss of user trust. The Chrome browser and other modern browsers have implemented strict requirements for accessing location data, and you should design your implementation with privacy as a primary concern.
-
-The most fundamental privacy practice is to only request location when you genuinely need it. Never request location on page load or ask for it before the user has expressed interest in a feature that requires it. Users are more likely to grant permission when they understand why you need their location and how it benefits them.
-
-Always communicate clearly about what you are doing with the location data. If you store location information, explain how long you keep it and who has access to it. If you share data with third parties, disclose this prominently in your privacy policy and, where required by law, obtain explicit consent.
-
-Chrome and other browsers require users to explicitly grant permission before your site can access location data. The browser will display a permission prompt, and users can choose to allow or deny access. They can also change their decision later through browser settings, so your code should handle cases where permission is revoked.
+Beyond handling API errors, you should also account for situations where the Geolocation API is not supported at all. While all modern browsers support the API, older browsers may not, and users may have disabled JavaScript or be using browser extensions that interfere with the API. Always check for API availability before attempting to use it:
 
 ```javascript
-// Check if geolocation is supported
 if ('geolocation' in navigator) {
-  // Request permission explicitly
-  navigator.permissions.query({ name: 'geolocation' })
-    .then((permissionStatus) => {
-      if (permissionStatus.state === 'granted') {
-        // Already have permission, proceed
-        getLocation();
-      } else if (permissionStatus.state === 'prompt') {
-        // Will need to ask for permission
-        showLocationRequestUI();
-      } else {
-        // Permission denied
-        handlePermissionDenied();
-      }
-    });
+  // Geolocation is available
+  navigator.geolocation.getCurrentPosition(success, error);
+} else {
+  // Geolocation is not supported
+  showMessage('Geolocation is not supported by your browser.');
 }
 ```
 
-Another important privacy consideration is to minimize the accuracy and frequency of location data you collect. Do not request high accuracy if you only need a general area. Consider implementing location fuzzing, where you deliberately reduce precision to protect user privacy while still providing useful functionality. For example, instead of storing exact coordinates, you might round coordinates to the nearest kilometer or neighborhood.
+## Protecting User Privacy
 
-For Tab Suspender Pro users and others who value browser performance, it is worth noting that location tracking in background tabs can be particularly resource-intensive. If your application continues to track location even when the user is not actively interacting with it, this can significantly impact battery life and browser performance. Consider implementing idle detection to reduce location update frequency when the user is not actively using your application, and always stop location tracking when it is no longer needed.
+Privacy is perhaps the most important consideration when working with location data. The Geolocation API includes several built-in privacy protections, but developers must also implement best practices to ensure they handle user location data responsibly. Location data is extremely sensitive and can reveal detailed information about a user's habits, daily routines, and personal life.
 
-## Tip 5: Optimize for Performance and Battery Life
+Always request location permission only when it is genuinely needed for the user's benefit. Do not request location on page load or require it as a prerequisite for accessing your site. Instead, request location when the user explicitly takes an action that requires it, such as clicking a "Find nearby stores" button. This approach respects user autonomy and makes the reason for the request clear.
 
-Performance optimization is crucial for geolocation applications, especially on mobile devices where battery life is limited. Continuous location tracking can quickly drain the battery if not implemented efficiently. Understanding the factors that affect power consumption helps you design more efficient applications.
+Be transparent about how you will use the location data. If you are sending location data to a server, inform users about this and explain what you do with the data. Consider providing a way for users to review and delete their location history if you store it. The more transparent you are about data practices, the more trust users will have in your application.
 
-The primary power drain comes from the location acquisition method being used. GPS is the most accurate but also the most power-hungry. Network-based location using cell towers and WiFi access points uses significantly less power but provides lower accuracy. Your choice should balance the accuracy needs of your application with power consumption considerations.
+When storing location data on your servers, ensure it is properly secured. Location data should be encrypted both in transit and at rest. Implement appropriate access controls to limit who can view location data, and have procedures for securely deleting data when it is no longer needed. Consider implementing data minimization principles by only collecting the data you actually need.
 
-One effective optimization technique is to use the maximumAge option strategically. This option tells the browser to return a cached location if it is recent enough. By allowing the use of cached positions, you can reduce the number of times the device needs to actively acquire a new position, saving battery power.
+For applications that require continuous location tracking, provide clear visual indicators that tracking is active. Users should always know when their location is being monitored. When tracking is no longer needed, stop it immediately rather than leaving it running in the background. This is both a privacy best practice and important for battery life.
 
-```javascript
-navigator.geolocation.getCurrentPosition(success, error, {
-  enableHighAccuracy: false, // Use network location by default
-  timeout: 5000, // Don't wait too long
-  maximumAge: 60000 // Accept cached position up to 1 minute old
-});
-```
+Here are some additional privacy considerations to keep in mind:
 
-For applications using watchPosition(), consider implementing dynamic accuracy adjustment. Start with lower accuracy to get quick results, then gradually increase accuracy as needed. You can also implement distance-based filtering to only process updates when the user has moved a meaningful distance, reducing unnecessary processing.
+Consider implementing a feature that allows users to report their location with reduced precision. Instead of exact coordinates, you could round coordinates to a larger grid or only report the city or neighborhood level. This provides useful functionality while protecting precise location data.
 
-When implementing location tracking in Chrome extensions or web apps, be aware that Chrome's power consumption can increase significantly with intensive location use. Users who run many extensions or keep many tabs open may experience slower browser performance. Tools like Tab Suspender Pro that automatically suspend inactive tabs can help reduce overall Chrome resource usage, complementing efficient geolocation implementations by managing the broader browser resource landscape.
+If your application uses location data for analytics or personalization, consider providing users with options to control this. Some users may be comfortable with location-based recommendations but not want their precise movements tracked.
 
-## Tip 6: Handle Edge Cases and Browser Differences
+Be careful about sharing location data with third parties. Any sharing should be disclosed clearly in your privacy policy, and you should ensure that third parties have adequate data protection practices. Consider implementing technical measures to limit what third parties can access.
 
-Different browsers and devices handle the Geolocation API in slightly different ways. Your code should be robust enough to handle these variations and provide a consistent experience across platforms.
+## Managing Browser Resources Effectively
 
-Some older browsers might support the Geolocation API but not all its features. Always check for feature support before attempting to use it, and provide appropriate fallbacks for unsupported features. The standard pattern is to check for navigator.geolocation before attempting any location operations.
+As you work with geolocation features, particularly continuous tracking with watchPosition, it is important to be mindful of browser resource usage. Location tracking can have significant impacts on battery life, data usage, and overall browser performance. Responsible implementation ensures that your application is not unnecessarily draining user resources.
 
-```javascript
-function checkGeolocationSupport() {
-  if (!navigator.geolocation) {
-    return {
-      supported: false,
-      message: 'Geolocation is not supported by your browser.'
-    };
-  }
-  
-  // Check for specific method support
-  if (!navigator.geolocation.getCurrentPosition) {
-    return {
-      supported: false,
-      message: 'The getCurrentPosition method is not available.'
-    };
-  }
-  
-  return { supported: true };
-}
-```
+When implementing watchPosition, always balance the update frequency against battery consumption. More frequent updates provide real-time tracking but use more power. Consider offering users a choice between high-frequency tracking for active navigation and lower-frequency updates for background tracking.
 
-Different devices also report accuracy differently. The accuracy property in the coordinates represents the radius in meters within which the actual location is likely to fall. However, the meaning and calculation of this value can vary between devices and browsers. Always treat accuracy as an estimate and design your UI and functionality to handle varying levels of precision.
+If your application uses location in the background, be aware that some browsers may limit or suspend background location access to protect user privacy and battery life. Test your application thoroughly in background scenarios to ensure it handles these limitations gracefully.
 
-Some browsers and devices might provide altitude information while others do not. Always check if altitude data is available before using it, and provide alternatives if it is not. Similarly, heading and speed data are not available on all devices, particularly desktop computers that lack motion sensors.
+For developers working with multiple tabs or complex applications, consider how location requests interact with browser features like Chrome's tab suspension. Tools like Tab Suspender Pro can help manage browser performance, though it is important to ensure that location-dependent functionality is not disrupted when tabs are suspended.
 
-For Chrome specifically, be aware that the browser might block geolocation requests from insecure contexts. If your site is not served over HTTPS, Chrome will likely block geolocation access. This is an important consideration for development and deployment, as you need to ensure your site uses HTTPS to access the Geolocation API in production.
+## Testing Your Geolocation Implementation
 
-## Tip 7: Test Across Different Environments
+Proper testing is essential for ensuring that your geolocation implementation works correctly across different devices and scenarios. Chrome's developer tools include a Sensors panel that allows you to override geolocation for testing purposes, which we covered in detail in our article on chrome geolocation override how to test. This is invaluable for testing different location scenarios without physically moving.
 
-Testing geolocation applications can be challenging because location is inherently variable and dependent on the physical environment. However, thorough testing is essential to ensure your application works reliably for all users.
+Test your application with various accuracy settings to ensure it degrades gracefully. Try testing with GPS disabled, with Wi-Fi disabled, and in airplane mode to see how your application handles different connectivity scenarios. Pay particular attention to how your application behaves when transitioning between different accuracy levels or when location becomes unavailable after being available.
 
-Chrome DevTools includes powerful geolocation simulation features that allow you to test different location scenarios without physically moving. You can simulate specific coordinates, simulate movement along a path, and test various error conditions. This is invaluable for development and debugging.
+Test with various permission states: granted, denied, and prompt (when the user has not yet been asked). Your application should have appropriate UI and behavior for each state. Consider testing what happens when users change permission settings while your application is in use.
 
-```javascript
-// In Chrome DevTools Console, you can override geolocation
-// This is set through DevTools > More tools > Sensors > Location
-```
-
-In addition to browser-based testing, test your application on actual physical devices whenever possible. The behavior can differ significantly between emulators and real hardware, particularly regarding battery consumption and accuracy. Pay special attention to testing on older devices and devices with limited GPS capability, as these often have different performance characteristics.
-
-Test various network conditions as well, since location acquisition can behave differently on slow connections or when the device switches between WiFi and cellular networks. Consider testing with airplane mode enabled to see how your application handles situations where no network is available.
+Mobile testing is particularly important for location applications. Test on actual devices rather than just emulators, as real-world location behavior can differ significantly from simulated behavior. Pay attention to how your application handles device orientation changes, app switching, and other mobile-specific behaviors.
 
 ## Conclusion
 
-The Chrome Geolocation API provides powerful capabilities for building location-aware web applications, but it requires careful implementation to be effective. By following these tips, you can create applications that provide accurate location data while respecting user privacy and minimizing battery consumption.
+The Chrome Geolocation API provides powerful capabilities for building location-aware web applications, but it requires careful implementation to deliver good user experiences while protecting privacy. By following the tips in this guide, you can make the most of the API's capabilities while avoiding common pitfalls.
 
-Remember to use high accuracy mode only when necessary, implement robust error handling, prioritize user privacy, optimize for performance, handle browser differences, and test thoroughly. With these practices in place, your geolocation-enabled applications will provide excellent user experiences across all devices and platforms.
+Remember to request high accuracy only when needed, properly manage watchPosition instances, implement comprehensive error handling, and always prioritize user privacy. With these practices in place, you can create location-based features that users will find valuable and trustworthy.
+
+---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

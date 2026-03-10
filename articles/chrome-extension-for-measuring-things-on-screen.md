@@ -70,4 +70,4 @@ Remember that the most useful tool is one you actually use. An extension with ev
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

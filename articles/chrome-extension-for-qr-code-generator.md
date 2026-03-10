@@ -72,4 +72,4 @@ A Chrome extension for QR code generator can be a valuable tool whether you need
 
 When choosing an extension, focus on ease of use, reliability, and the specific features you need. Test your QR codes before distributing them, and keep customization reasonable to ensure scannability. With the right extension and a bit of attention to design, you can create QR codes that work well across all scanning devices.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

@@ -85,3 +85,5 @@ Finally, test your extension thoroughly across different scenarios. Load it on m
 ## Conclusion
 
 Chrome Developer Mode opens up a world of possibilities for developers, testers, and power users. By learning to enable Developer Mode, load unpacked extensions, inspect different views, update your extensions efficiently, and debug effectively, you gain complete control over your Chrome extension experience. Whether you are building the next great extension, customizing an existing one, or testing tools like Tab Suspender Pro before they hit the mainstream, the skills covered in this guide will serve you well. Remember to always be cautious about the extensions you install from unofficial sources, and happy extending!
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

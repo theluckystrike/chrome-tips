@@ -64,4 +64,4 @@ The chrome process per tab feature exists for good reasons, and you do not need 
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

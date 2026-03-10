@@ -2,13 +2,7 @@
 layout: post
 title: "Chrome About Pages List Explained"
 description: "The complete list of Chrome internal pages (chrome:// URLs) with explanations of what each one does and when to use it."
-date: 2026-03-10
-categories: [features, documentation]
-tags: [chrome-about-pages, browser-internals, chrome-tips, productivity]
-author: theluckystrike
 ---
-
-# Chrome About Pages List Explained
 
 Chrome is much more than a simple window to the web; it is a complex operating system for web applications. To manage this complexity, Google built in dozens of internal pages—accessible via `chrome://` URLs—that provide deep insights into how the browser is performing, what data it is storing, and how you can tweak its hidden engine.
 
@@ -76,5 +70,5 @@ When Chrome starts acting up, you can use these pages as a logical diagnostic fl
 
 By mastering these `chrome://` URLs, you transition from a passive user to an active administrator of your browsing environment. Whether you're just curious about the underlying technology or you're a developer needing precise data, these pages are the key to unlocking Chrome's full potential.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
+---
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

@@ -54,4 +54,4 @@ Give it a try today. Install an extension, save a few articles, and see how much
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

@@ -60,4 +60,4 @@ The Chrome privacy error about your connection being private is annoying but usu
 
 Keeping your browser updated, maintaining accurate system time, and being cautious about the networks you use will prevent many of these errors from occurring in the first place. With these practices in place, you can browse with greater confidence and fewer interruptions.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

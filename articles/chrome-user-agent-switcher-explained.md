@@ -72,4 +72,4 @@ A Chrome user agent switcher is a simple tool that changes the information your 
 
 Remember that changing your user agent is not a privacy solution and websites can often still figure out what device you are really using. If you are looking to improve your browsing experience, consider exploring extensions like Tab Suspender Pro that can help with everyday tasks like managing tabs and saving resources.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

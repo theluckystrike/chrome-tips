@@ -52,4 +52,4 @@ Start with the most common options if you are not sure what to choose. The defau
 
 Keep in mind that changing your user agent might affect how some websites function. You might see different content, different layouts, or lose access to features that are specific to your actual browser. Most of the time this is temporary and only affects the site you are testing, but it is worth being aware of.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

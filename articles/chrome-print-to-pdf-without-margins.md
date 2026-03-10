@@ -52,4 +52,4 @@ Some documents look better with a little breathing room around the edges. White 
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

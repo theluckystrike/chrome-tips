@@ -78,4 +78,4 @@ Chrome makes it straightforward to take control of your privacy. The built-in pr
 
 Take a few minutes today to run through your privacy checkup. Your future self will thank you for taking the time to protect your information now.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

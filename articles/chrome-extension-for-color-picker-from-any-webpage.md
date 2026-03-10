@@ -66,4 +66,4 @@ Now that you understand how color picker extensions work and what to look for, y
 
 Whether you are collecting colors for a design project, matching a brand color, or just exploring colors you come across, having a reliable color picker extension makes the task effortless. Give it a try and see how much easier it is to grab exactly the color you want, whenever you want it.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

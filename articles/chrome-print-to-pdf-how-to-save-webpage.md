@@ -86,4 +86,4 @@ Remember that PDFs keep your text searchable and selectable, making them more us
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

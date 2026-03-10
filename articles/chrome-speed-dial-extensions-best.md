@@ -60,4 +60,4 @@ The best speed dial extension depends on how you use Chrome and what features ma
 
 Most of these extensions offer free versions with basic features, so you can try a few to see which one feels most natural. The small amount of time spent finding the right tool pays off in saved clicks and easier browsing every single day.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

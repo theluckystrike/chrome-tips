@@ -78,4 +78,4 @@ Start with one extension and see how it affects your email quality and speed. Mo
 
 Writing better emails is a skill that improves with practice, and the right Chrome extension can accelerate that learning process while immediately improving the quality of your daily communication.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

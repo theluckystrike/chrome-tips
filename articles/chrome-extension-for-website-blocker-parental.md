@@ -82,4 +82,4 @@ The key is to find the right balance for your family. Some parents prefer strict
 
 Start with a simple setup and adjust as needed. You can always add more restrictions or change your approach as you learn what works best for your family. Taking the first step to implement website blocking shows that you are engaged in your children's online lives and committed to keeping them safe.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -1,6 +1,6 @@
 ---
 
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 layout: post
 title: "Chrome Translate Entire Page How To"
 description: "Learn how to translate entire web pages in Chrome with built-in tools and extensions for seamless multilingual browsing."
@@ -10,7 +10,7 @@ tags: [chrome, translation, browser-tips, language]
 author: theluckystrike
 ---
 
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 # Chrome Translate Entire Page How To
 
@@ -84,4 +84,4 @@ Start by using Chrome built-in translation for its simplicity and privacy. Explo
 
 ---
 
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

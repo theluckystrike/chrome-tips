@@ -1,10 +1,19 @@
 ---
+<<<<<<< HEAD
 layout: post
 title: "Chrome Reading List How to Use"
 description: "Learn how to use Chrome Reading List to save articles for later, read offline, and sync across devices. Complete guide with tips for managing your reading list effectively."
 date: 2026-01-20
 categories: [tutorials, productivity, chrome]
 tags: [chrome-reading-list, save-articles, offline-reading, browser-tips, productivity]
+=======
+layout: default
+title: "Chrome Reading List How to Use"
+description: "Learn how to use Chrome Reading List to save articles for later, enable offline reading, sync across devices, and manage your saved content efficiently."
+date: 2026-01-15
+categories: [browsers, tips]
+tags: [chrome, reading-list, offline, sync, tips]
+>>>>>>> consumer/a28-chrome-reading-list-how-to-use
 author: theluckystrike
 ---
 

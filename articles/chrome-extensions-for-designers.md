@@ -1,131 +1,135 @@
 ---
 layout: default
 title: "Best Chrome Extensions for Designers 2026"
-description: "Discover the best Chrome extensions for designers in 2026 including ColorZilla, WhatFont, VisBug, Muzli, CSS Peeper, and Tab Suspender Pro for enhanced productivity."
-date: 2026-01-20
-categories: [extensions, design, productivity]
-tags: [chrome-extensions, design-tools, color-picker, font-inspector, web-design]
+description: "Discover the best Chrome extensions for designers in 2026. Boost your workflow with ColorZilla, WhatFont, VisBug, Muzli, CSS Peeper, and more essential design tools."
+date: 2026-01-15
+categories: [extensions, design]
+tags: [chrome-extension, design-tools, color-picker, font-inspector, web-design, ui-ux]
 author: theluckystrike
 ---
 
 # Best Chrome Extensions for Designers 2026
 
-As a designer, having the right tools at your fingertips can dramatically improve your workflow and productivity. Whether you're working on web design, UI/UX projects, or creating digital assets, Chrome extensions can streamline many aspects of your daily work. In this comprehensive guide, we'll explore the best Chrome extensions for designers in 2026, covering essential tools that help with color sampling, font identification, design inspection, inspiration gathering, and browser performance optimization.
+If you are a designer working in 2026, your Chrome browser is likely one of your most important tools. Whether you are building websites, creating user interfaces, or working on digital branding projects, having the right extensions can dramatically improve your workflow and save you countless hours each week. This comprehensive guide explores the best Chrome extensions for designers that you should have in your toolkit this year.
 
-The Chrome Web Store offers thousands of extensions, but finding the ones that truly enhance a designer's workflow can be time-consuming. We've curated this list based on real-world usage, feature completeness, and the value each extension provides to creative professionals. These tools have earned their place in our recommended toolkit through consistent performance and meaningful features that address common design challenges.
+The design industry has evolved significantly, and so have the tools we use. What once required specialized software and complex setups can now be accomplished directly in your browser with just a few clicks. From color picking and font identification to inspecting CSS properties and discovering design inspiration, these extensions have become indispensable for modern designers.
 
-## ColorZilla: The Ultimate Color Picker for Designers
+## Why Chrome Extensions Matter for Designers
 
-ColorZilla has been a staple in the design community for years, and it continues to be one of the most essential Chrome extensions for designers in 2026. This powerful tool provides an advanced color picker, eyedropper, and gradient generator that makes working with colors intuitive and efficient.
+Before diving into the specific extensions, it is worth understanding why these tools have become so essential for designers in recent years. The web has become the primary platform for design work, whether you are creating landing pages, mobile apps, or complex web applications. Chrome, being the most popular browser, offers the best platform for design tools that integrate seamlessly with your daily workflow.
 
-The core functionality of ColorZilla revolves around its color picker tool, which allows you to sample any color from any webpage with a single click. Simply activate the eyedropper, hover over any element on the page, and click to capture the exact color value. The extension automatically provides you with multiple color format outputs including HEX, RGB, HSL, and HSV, saving you the trouble of manually converting between color models.
+Chrome extensions allow you to access powerful design capabilities without leaving your browser. You can inspect colors on any website, identify fonts, measure dimensions, access design inspiration, and much more. These tools work directly in the context of real websites, giving you practical insights that standalone design software cannot provide.
 
-What sets ColorZilla apart from basic color pickers is its comprehensive feature set. The extension includes a color history panel that remembers your recently used colors, making it easy to reference and reuse colors across different projects. This history feature is particularly valuable when you're working on multi-page designs or need to maintain consistency across an entire website.
+Additionally, many of these extensions are free or available at reasonable prices, making professional-grade design tools accessible to everyone regardless of their budget. The barrier to entry for quality design work has never been lower, and these extensions are a big reason why.
 
-The gradient generator in ColorZilla is another standout feature. Instead of manually writing CSS gradient code or using separate gradient tools, you can create beautiful linear and radial gradients directly within the extension. You can adjust colors, stops, angles, and preview the result in real-time. Once satisfied, copy the generated CSS code and paste it directly into your stylesheet.
+## ColorZilla: The Ultimate Color Tool
 
-For designers who frequently work with color palettes, ColorZilla's palette viewer provides a organized way to manage your color collections. You can create named palettes, organize colors into groups, and export your palettes in various formats including CSS, SCSS, and JSON. This makes it easy to maintain consistent color schemes across projects and share palettes with team members.
+ColorZilla is one of the most popular and widely used Chrome extensions among designers, and for good reason. This powerful tool provides a comprehensive set of color-related features that make working with colors on the web easier than ever.
 
-The extension also includes accessibility checking features, helping you ensure that your color choices meet WCAG contrast ratio requirements. This is increasingly important as web accessibility becomes a standard requirement in professional web design. ColorZilla will alert you if your foreground and background color combinations don't meet minimum contrast ratios for readable text.
+The core feature of ColorZilla is its advanced color picker, which allows you to pick colors from any webpage with pixel-perfect accuracy. Unlike basic color pickers that only work within their own interface, ColorZilla can sample colors from anywhere on your screen, even outside of Chrome. This is incredibly useful when you need to match colors from external sources like images, other applications, or even your desktop wallpaper.
 
-One of the reasons ColorZilla remains popular among designers is its zero-configuration approach. The extension works immediately after installation, with sensible defaults that work for most use cases. Advanced users can customize settings like default color format, eyedropper behavior, and keyboard shortcuts, but you don't need to configure anything to start being productive.
+Beyond the basic color picker, ColorZilla offers several other valuable features. The extension includes a color history feature that automatically saves the colors you have recently picked, making it easy to revisit colors you used earlier in your design process. This history can be invaluable when you are working on a project and need to maintain consistency across multiple elements.
 
-## WhatFont: Identify Fonts Instantly
+ColorZilla also provides a CSS gradient generator, which is a godsend for designers who work with modern web layouts. Creating complex gradients manually can be tedious and error-prone, but with ColorZilla's gradient generator, you can visually create and adjust gradients with an intuitive interface, then copy the generated CSS code directly to your project.
 
-Typography is a fundamental element of design, and being able to identify fonts you encounter on the web is an invaluable skill. WhatFont is the definitive tool for this purpose, allowing designers to quickly identify the fonts used on any webpage with a single click.
+Another standout feature is the page colors analyzer, which scans any webpage and provides a comprehensive breakdown of the color palette used on that page. This is particularly useful when you are doing competitive research or need to analyze the color scheme of a website you are redesigning.
 
-The extension works by adding a convenient bookmarklet-style tool to your browser. When you activate WhatFont and hover over any text on a webpage, it instantly reveals the font family, size, weight, color, and even the line height of that text element. This makes it incredibly easy to recreate specific typography styles or find similar fonts for your own projects.
+For designers who work with accessibility, ColorZilla includes a contrast checker that helps you ensure your color combinations meet WCAG accessibility standards. This feature can automatically check text against background colors and tell you whether your design meets the required contrast ratios for both AA and AAA compliance.
 
-WhatFont's detection capabilities have improved significantly over the years. In 2026, the extension can identify fonts served through various methods including web fonts, Typekit, Google Fonts, and local system fonts. It provides detailed information about each font including the exact font-family declaration, font-weight, font-size, line-height, and color in various formats.
+## WhatFont: Font Identification Made Simple
 
-One particularly useful feature is WhatFont's ability to track font sources. When you click on a detected font, the extension shows you information about where the font is hosted, whether it's from a web font service, self-hosted, or a system font. This makes it much easier to obtain the same font for your own projects.
+Identifying fonts on websites has traditionally been a challenge for designers. You might see a typeface on a website and wonder what font family it is, only to spend valuable time searching through font libraries trying to find a match. WhatFont solves this problem elegantly by letting you identify fonts on any webpage with a single click.
 
-The extension also includes a font bookmarking feature that lets you save fonts you want to reference later. You can organize your saved fonts into collections, add notes about each font, and export your collections for sharing or backup. This creates a personal typography library that grows with your design work.
+WhatFont works by overlaying information about each text element when you hover over it. Simply activate the extension and move your cursor over any text on a webpage, and WhatFont will display the font name, font family, size, weight, and color. This makes it incredibly easy to gather font information from competitor websites, design inspiration, or any site that catches your eye.
 
-For designers who frequently work with client websites or need to audit existing designs, WhatFont simplifies the process of creating typography specifications. Instead of manually inspecting element styles in developer tools, you can quickly identify all font usage across a page and document your findings.
+The extension supports a wide range of font services, including Google Fonts, Typekit, Fontshop, and many others. When a font is loaded from one of these services, WhatFont can provide direct links to where you can purchase or download the font, making it simple to acquire fonts you want to use in your own projects.
 
-WhatFont integrates well with other design tools and workflows. You can copy font information to clipboard in various formats, making it easy to paste into design documents, style guides, or communication with team members. The extension also supports keyboard shortcuts for common actions, allowing for rapid font identification without interrupting your workflow.
+WhatFont also has a useful feature that allows you to save font information for later reference. You can bookmark fonts you want to remember, creating a personal library of fonts you have discovered during your browsing. This feature is particularly valuable when you are conducting research for a new project and want to keep track of interesting typography you encounter.
 
-## VisBug: Interactive Design Inspection Made Easy
+The latest version of WhatFont also supports font preview functionality, allowing you to see how different fonts look on actual web pages before committing to them. This can help you make better typography decisions and visualize how fonts will appear in real-world contexts.
 
-VisBug is a relatively newer addition to the designer's toolkit, but it has quickly become an essential tool for web designers and front-end developers. This extension transforms how you inspect and interact with web pages, making design debugging and optimization more accessible and intuitive.
+## VisBug: Interactive Design Inspector
 
-The philosophy behind VisBug is to make design inspection as easy as using a design tool. Rather than requiring knowledge of browser developer tools, VisBug provides a visual interface for exploring and modifying page elements. You can think of it as having a lightweight design mode built directly into your browser.
+VisBug is a relatively newer addition to the designer's toolkit but has quickly become a favorite among web designers and front-end developers. This extension brings interactive design inspection capabilities that go far beyond what Chrome's built-in developer tools offer.
 
-When you activate VisBug, you gain access to a comprehensive set of inspection and editing tools. The extension provides visual overlays that show margins, padding, alignment, and other spacing properties directly on the page. This makes it incredibly easy to spot alignment issues, inconsistent spacing, or layout problems at a glance.
+Unlike traditional developer tools that require technical knowledge to use effectively, VisBug is designed with designers in mind. Its interface is visual and intuitive, allowing you to measure distances, inspect padding and margins, identify colors, find fonts, and much more through simple mouse interactions.
 
-One of VisBug's most powerful features is its ability to measure distances between elements. You can click on any two points on the page to see the exact pixel distance between them. This is invaluable for ensuring your designs match specifications or for auditing existing websites for consistency.
+One of VisBug's most powerful features is its ability to show you the spacing and layout of any element on a webpage. When you activate the spacing mode, VisBug displays visual overlays showing margins, padding, and the box model of any element you hover over. This makes it incredibly easy to understand how a website's layout is constructed and to identify design patterns you might want to emulate.
 
-The extension also includes accessibility inspection tools that help you identify and fix accessibility issues. VisBug can highlight heading levels, reveal ARIA labels, show tab order, and identify other accessibility attributes. This makes it easier to create inclusive designs that work for all users.
+VisBug also includes accessibility testing features that help you evaluate websites for accessibility compliance. You can check color contrast, verify heading hierarchy, inspect ARIA attributes, and identify other accessibility issues that might affect users with disabilities. This makes VisBug an valuable tool for designers who prioritize inclusive design.
 
-VisBug's color inspection features complement the capabilities of ColorZilla nicely. While ColorZilla excels at color sampling, VisBug shows you all the colors used on a page in an organized list. You can see at a glance what color palette a website uses, which is helpful for inspiration or when you need to match existing colors.
+The extension also offers design annotation features, which are great for collaboration. You can leave comments on specific elements, highlight issues, and share your observations with team members directly within the browser. This can streamline feedback processes and make design reviews more efficient.
 
-The edit mode in VisBug is particularly impressive. You can directly modify text content, styles, and even move elements around on the page to test different layouts. Changes are temporary and don't affect the actual website, but they help you visualize potential modifications before implementing them.
+VisBug's alignment tools are particularly useful for designers who care about precision. The extension can show you whether elements are properly aligned, display guides and grids, and help you achieve pixel-perfect layouts. This attention to detail can elevate the quality of your work and ensure consistent design execution.
 
-For designers working with CSS Grid and Flexbox, VisBug provides visual guides that show how elements are aligned within their containers. This makes debugging complex layouts much easier and helps you understand how different alignment properties affect element positioning.
+## Muzli: Design Inspiration Stream
 
-## Muzli: Your Daily Design Inspiration Stream
+Muzli is a design inspiration extension that curates a constant stream of high-quality design content from around the web. If you ever find yourself stuck for ideas or needing a dose of creative inspiration, Muzli delivers curated design content directly to your new tab.
 
-Designers need constant inspiration to create their best work, and Muzli is the ultimate tool for staying inspired. This extension delivers a curated stream of design inspiration directly to your browser, ensuring you always have fresh ideas and trending designs at your fingertips.
+The extension works by replacing your new tab page with a beautiful feed of design inspiration. This feed includes screenshots and images from popular design websites, showcasing the latest trends in web design, mobile apps, branding, typography, and more. The content is carefully curated to ensure you only see high-quality work that can spark your creativity.
 
-Muzli works by providing a new tab experience that shows you a continuously updating feed of designs from around the internet. The content is curated from various sources including Dribbble, Behance, Designspiration, and many other design communities. Each item in your feed is selected for its quality and relevance to your interests.
+What makes Muzli particularly valuable is its ability to tailor content to your interests. You can select the design categories you are most interested in, and Muzli will prioritize content in those areas. Whether you are into minimalist UI design, bold branding, or experimental typography, Muzli can deliver relevant inspiration.
 
-What makes Muzli particularly valuable is its personalization features. When you first install the extension, you can select your design interests and preferred categories. The algorithm then tailors your feed to show content that matches your preferences. Over time, the system learns from your interactions to refine recommendations further.
+The extension also includes a save feature that allows you to bookmark designs you want to return to later. This creates a personal collection of inspiration that you can access anytime, even offline. This can be invaluable when you are working on a specific project and need to reference design ideas you found earlier.
 
-The extension includes multiple view modes to suit different browsing preferences. You can view designs in a grid layout for quick scanning, a list view for more details, or a full-screen mode for focused viewing. Each design can be expanded to show additional information including the designer name, project description, and direct links to the original source.
+Muzli also provides curated weekly digests that summarize the best design content from the past week. This is perfect for designers who want to stay updated on industry trends but don't have time to browse design websites daily. The digest format delivers the most important content in a concise, easy-to-digest format.
 
-Muzli also functions as a bookmarking tool for designs you want to save. You can bookmark any design to collections that you create and organize. These collections serve as a personal inspiration library that you can access anytime, even offline. This feature is particularly useful when working on specific project types that require reference to similar designs.
+For designers who work in teams, Muzli's collaboration features allow you to share inspiration with colleagues and collaborate on mood boards. This can be particularly useful during the early stages of a project when you are gathering visual references and establishing design direction.
 
-The weekly digest feature sends you a summary of the best designs from the past week, ensuring you don't miss anything important even if you haven't been actively browsing. This digest helps you stay current with design trends without requiring constant attention.
+## CSS Peeper: Inspect CSS Effortlessly
 
-For design teams, Muzli provides shared collections functionality. Team members can contribute to shared boards, making it easy to collect and share inspiration across an organization. This fosters collaborative design thinking and helps teams maintain aligned aesthetic standards.
+CSS Peeper is a powerful extension for designers who want to inspect CSS properties without getting bogged down in developer tools. It provides a clean, visual interface for exploring the styling of any element on a webpage, making it easier to understand how designs are implemented.
 
-The extension also includes integration with popular design tools, allowing you to export designs or references directly to your preferred software. This seamless workflow means less friction between inspiration and creation.
+The extension adds a subtle button to your Chrome toolbar that, when clicked, activates inspection mode. You can then hover over any element on the page to see its styling information in a popover. This includes colors, fonts, spacing, sizing, and other CSS properties presented in a way that is easy to understand.
 
-## CSS Peeper: Inspect Stylesheets Effortlessly
+CSS Peeper organizes CSS properties into logical categories, making it simple to find specific information. Colors are grouped together, typography settings are separated, and spacing properties are clearly labeled. This organization makes it faster to find the information you need compared to Chrome's developer tools.
 
-CSS Peeper is a powerful tool for designers who want to understand how websites are built without needing deep technical knowledge. This extension provides a visual interface for exploring CSS styles, making it easy to extract design information from any website.
+One of CSS Peeper's standout features is its ability to export colors and assets from any website. You can quickly grab color codes, download images, and copy CSS snippets. This makes it incredibly easy to reverse-engineer design elements you want to learn from or incorporate into your own work.
 
-The primary function of CSS Peeper is to display all the CSS used on a webpage in an organized, easy-to-navigate panel. Instead of wrestling with the browser's developer tools, you get a clean,设计师-friendly interface that shows you exactly what styles are applied to each element.
+The extension also provides a overview of the entire page's CSS, showing you a summary of all the colors, fonts, and media queries used on a page. This gives you a quick understanding of a website's design system without having to inspect each element individually.
 
-When you click on any element on the page, CSS Peeper shows you its computed styles organized into logical groups. You can see typography styles, colors, spacing, dimensions, and effects all in one view. This makes it much easier to understand how different CSS properties work together to create specific visual results.
+CSS Peeper is particularly popular among UI designers who work closely with developers. The extension's clean presentation of CSS information helps bridge the gap between design and development, making it easier to communicate design requirements and understand technical constraints.
 
-One of CSS Peeper's most useful features is its asset extraction capability. The extension can scan a page and extract all images, fonts, and other assets used on the page. You can download these assets individually or bulk export them, which is incredibly helpful when you need to reference or repurpose design elements from existing websites.
+## Additional Essential Extensions for Designers
 
-The extension also provides a comprehensive overview of the entire page's design system. You can see all colors used on the page, all fonts, and all font sizes at a glance. This helps you understand the design's visual hierarchy and consistency. If you're auditing a website or recreating a design, this overview gives you all the information you need in one place.
+While the five extensions covered above are the main focus of this guide, there are several other Chrome extensions that designers should consider adding to their toolkit.
 
-CSS Peeper includes a search functionality that makes finding specific styles easy. You can search for specific properties, values, or selectors across the entire stylesheet. This is particularly useful when you're looking for specific styling patterns or trying to understand how certain effects are achieved.
+### Tab Suspender Pro
 
-For developers and designers working in teams, CSS Peeper provides export options that let you save extracted styles in various formats. You can export color palettes as CSS variables, typography settings as SCSS variables, or the entire stylesheet as a reference document. This makes it easy to incorporate discovered styles into your own projects.
+While not exclusively a design tool, Tab Suspender Pro is incredibly valuable for designers who work with many open tabs. Design work often involves research across numerous websites, which can lead to dozens of open tabs consuming system resources. Tab Suspender Pro automatically suspends tabs you are not actively using, freeing up memory and keeping your browser responsive.
 
-The extension also supports CSS variable inspection, showing you all custom properties defined on a page and where they're used. This is increasingly important as CSS custom properties become a standard part of modern web development.
+When you have ColorZilla, WhatFont, VisBug, Muzli, and CSS Peper all installed alongside other design tools, your browser can become resource-heavy. Tab Suspender Pro helps maintain performance by suspending inactive tabs while preserving your place so you can return to them instantly when needed. This means you can keep all your research tabs open without experiencing slowdowns.
 
-## Bonus: Tab Suspender Pro for Designer's Browser Performance
+The extension is particularly useful when you are conducting extensive research or comparing multiple design inspiration sites. You can have numerous tabs open from Muzli and other design resources without worrying about browser performance. Tab Suspender Pro runs quietly in the background, optimizing your system resources so you can focus on design work.
 
-While not strictly a design tool, Tab Suspender Pro is an essential extension for any designer who keeps multiple tabs open throughout the day. Browser performance directly impacts your productivity, and this extension helps you maintain a fast, responsive browsing experience.
+### Design Tools and Utilities
 
-Designers often work with many reference tabs open simultaneously, checking inspiration, comparing designs, and referencing documentation. Over time, these tabs can consume significant memory and slow down your browser. Tab Suspender Pro addresses this issue by automatically suspending inactive tabs to free up system resources.
+Beyond the main extensions discussed, there are several other categories of tools that designers benefit from having. Screen capture extensions allow you to capture full pages or specific elements for reference. Icon libraries provide quick access to commonly used icons. Responsive design testers help ensure your designs work across different screen sizes.
 
-The extension works intelligently, learning which tabs you frequently return to and prioritizing their availability. Tabs you actively use remain active, while background tabs are suspended after a configurable period of inactivity. This means you can keep dozens of reference tabs open without experiencing performance degradation.
+Password managers, while not design-specific, are essential for designers who manage numerous accounts across design platforms, font services, and collaboration tools. Keeping your credentials secure while maintaining easy access is important for professional workflow.
 
-The visual indicator that shows which tabs are suspended helps you quickly identify your open resources. You can also manually suspend or wake tabs with a single click, giving you complete control over your tab management.
+## How to Get the Most Out of These Extensions
 
-For designers working with resource-heavy web applications, Tab Suspender Pro can significantly improve your workflow. When you're not actively using a design tool or reference site, it can be suspended to free up memory for your current task. This makes switching between applications smoother and more responsive.
+Having the right extensions is only part of the equation. To truly benefit from these tools, you need to integrate them effectively into your workflow. Here are some tips for maximizing the value of these Chrome extensions for designers.
 
-The extension includes synchronization features that let your suspended tabs state persist across browser sessions. This means you don't have to worry about losing your research when you restart your browser or move between devices.
+First, take time to learn each extension's full capabilities. Many designers only use the basic features of their installed extensions, missing out on powerful functionality that could save them time. Spend an afternoon exploring each extension's settings and features to understand what it can do.
 
-Tab Suspender Pro also helps with battery life on laptops, which is important for designers who work on the go. By reducing the number of active tabs, your browser consumes less power, extending your productive work time between charges.
+Second, organize your extensions logically. Chrome allows you to arrange your extension icons, so put your most-used design tools in easy-to-reach positions. This reduces the friction of accessing them when you need them.
+
+Third, develop habits for using these tools consistently. Make it a routine to use ColorZilla when you encounter interesting colors, WhatFont when you see appealing typography, and CSS Peeper when you want to understand how something is built. Consistency helps these tools become natural parts of your design process.
+
+Fourth, combine these extensions with your existing design tools. These Chrome extensions work best as complements to your primary design software, not replacements. Use them for research, inspiration, and understanding the web, while using your professional design tools for creating new designs.
 
 ## Conclusion
 
-The right Chrome extensions can transform your design workflow, making you more productive and inspired. The extensions we've covered in this guide represent the best Chrome extensions for designers in 2026, each addressing specific needs in the design process.
+The Chrome extensions explored in this guide represent the best tools available for designers in 2026. ColorZilla provides comprehensive color functionality, WhatFont makes font identification effortless, VisBug brings powerful inspection capabilities, Muzli delivers constant design inspiration, and CSS Peeper helps you understand how designs are implemented.
 
-ColorZilla provides comprehensive color management capabilities, from sampling to gradient generation. WhatFont makes font identification effortless, helping you understand and replicate typography choices. VisBug brings intuitive design inspection to anyone, regardless of technical expertise. Muzli ensures you never run out of inspiration, delivering curated design content directly to your browser. CSS Peeper gives you deep insights into how websites are styled, making it easy to learn from existing designs. And Tab Suspender Pro keeps your browser running smoothly so you can focus on your creative work.
+These tools collectively cover the essential aspects of web design work: understanding existing designs, gathering inspiration, and implementing your own creations. By incorporating these extensions into your workflow, you can work more efficiently and produce better results.
 
-Together, these extensions form a powerful toolkit that addresses the full spectrum of a designer's browser-based needs. Whether you're a web designer, UI/UX professional, or digital artist, integrating these tools into your workflow will help you work more efficiently and produce better results.
+Remember to also consider performance optimization with Tab Suspender Pro, especially when running multiple design extensions and keeping numerous research tabs open. A fast, responsive browser is just as important as having the right tools.
 
-The best part about Chrome extensions is that they're constantly evolving. The developers behind these tools regularly release updates with new features and improvements. We recommend periodically checking for updates and exploring new extensions as they become available. The design tool landscape continues to evolve, and staying current with the best available tools will keep you at the top of your game.
+Explore these extensions, find what works best for your specific needs, and watch your design workflow transform. The best designers are those who leverage the right tools effectively, and these Chrome extensions are among the most valuable tools available in 2026.
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

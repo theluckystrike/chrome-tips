@@ -100,4 +100,8 @@ Remember that browser technology is constantly evolving, and flags that are expe
 
 With your newly optimized Chrome browser, you will spend less time waiting for pages to load and more time enjoying the content you want to see. Whether you are downloading large files, conducting research across multiple pages, or simply browsing for entertainment, these optimizations can make a real difference in your daily workflow.
 
+---
+
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

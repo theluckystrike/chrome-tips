@@ -1,164 +1,107 @@
 ---
-layout: post
+layout: default
 title: "Chrome Hardware Acceleration Guide"
-description: "Master Chrome hardware acceleration. Learn when to enable it, how GPU compositing works, troubleshooting tips, and optimize video playback performance."
+description: "Learn how to enable and optimize Chrome hardware acceleration for faster video playback, smoother scrolling, and improved GPU compositing performance."
 date: 2026-01-15
-categories: [performance, browser, chrome]
+categories: [performance, browser, tips]
 tags: [chrome, hardware-acceleration, gpu, performance, browser-optimization]
 author: theluckystrike
 ---
 
 # Chrome Hardware Acceleration Guide
 
-Chrome hardware acceleration is one of the most powerful yet often overlooked features that can dramatically improve your browsing experience. Whether you are watching high-definition videos, playing browser-based games, or working with complex web applications, understanding how hardware acceleration works and when to enable or disable it can make a significant difference in performance, battery life, and overall user experience.
+If you have ever experienced sluggish scrolling, choppy video playback, or delayed page rendering in Google Chrome, hardware acceleration might be the solution you need. This Chrome hardware acceleration guide will walk you through everything you need to know about enabling, configuring, and troubleshooting hardware acceleration in Chrome to get the best possible browsing experience.
 
-This comprehensive guide will walk you through everything you need to know about Chrome hardware acceleration, from the basic concepts of GPU compositing to advanced troubleshooting techniques. By the end of this article, you will have a thorough understanding of how to optimize Chrome for your specific needs and get the most out of your browser.
+Hardware acceleration is a feature that allows Chrome to offload resource-intensive tasks from your computer's CPU to the GPU (Graphics Processing Unit). Modern GPUs are designed specifically for handling multiple visual tasks simultaneously, making them much more efficient than CPUs for certain types of operations. By leveraging hardware acceleration, you can enjoy smoother animations, faster video processing, and more responsive browsing overall.
 
-## What Is Hardware Acceleration in Chrome?
+## Understanding Hardware Acceleration in Chrome
 
-Hardware acceleration is a technique that allows Chrome to offload certain tasks from the central processing unit (CPU) to the graphics processing unit (GPU). Instead of relying solely on the CPU to render web pages, process animations, and decode videos, hardware acceleration enables Chrome to use your computer's GPU, which is often much more efficient at handling these parallel tasks.
+To truly appreciate the benefits of hardware acceleration, it helps to understand how it works. When hardware acceleration is enabled, Chrome delegates graphical rendering tasks to your GPU instead of relying solely on the CPU. The CPU handles the general computations that make your browser function, while the GPU takes care of drawing web pages, playing videos, and rendering animations.
 
-When hardware acceleration is enabled, the GPU takes on the heavy lifting for several types of operations. Visual elements like animations, transitions, and scrolling effects render more smoothly. Video playback becomes more efficient, especially for high-resolution content. WebGL applications and games run with better frame rates. Overall, the browser feels more responsive and fluid.
+Without hardware acceleration, every visual element on a webpage must be processed by the CPU. This includes everything from simple text and images to complex CSS animations and embedded videos. While CPUs are versatile, they are not optimized for the parallel processing demands of graphical rendering. The result is often higher CPU usage, increased power consumption, and slower performance, especially when dealing with media-rich websites.
 
-The alternative, software rendering, forces the CPU to handle all these tasks. While this works adequately for basic web browsing, it can lead to sluggish performance when dealing with media-rich content or complex web applications. The CPU becomes bottlenecks, causing lag, dropped frames, and increased power consumption, particularly on laptops.
-
-## How GPU Compositing Works in Chrome
-
-To understand hardware acceleration fully, it helps to know how GPU compositing works within Chrome's rendering pipeline. When you visit a webpage, Chrome must parse HTML, CSS, and JavaScript, then construct a document object model (DOM) and render the visual representation of the page.
-
-The rendering process involves multiple stages, and compositing is one of the most important for visual performance. Compositing is the process of combining multiple visual layers into the final image you see on your screen. These layers might include background colors, images, text, videos, and various UI elements.
-
-With hardware acceleration enabled, Chrome creates separate layers for different page elements and assigns their compositing tasks to the GPU. The GPU can process these layers in parallel, combining them efficiently to produce the final frame. This parallel processing is what makes animations smooth and scrolling fluid.
-
-Chrome uses several GPU-related processes to manage this. The GPU process handles the actual compositing work, communicating with your graphics card drivers. The renderer processes handle the web content, and they send their layer information to the GPU process for compositing.
-
-One key benefit of this architecture is that if one tab crashes due to a GPU-related issue, it does not necessarily bring down the entire browser. Chrome isolates these processes for stability.
+When hardware acceleration is enabled, the GPU handles these visual tasks, freeing up your CPU for other important work. This separation of duties results in a more efficient system overall. Your browser feels more responsive, videos play more smoothly, and you may even notice improved battery life on laptops because the GPU is often more power-efficient for these specific tasks.
 
 ## When to Enable Hardware Acceleration
 
-For most users, hardware acceleration should be enabled by default in Chrome. However, there are specific scenarios where you will benefit significantly from having it turned on.
+Most users should have hardware acceleration enabled by default in Chrome. However, there are specific situations where enabling or verifying this setting becomes particularly important.
 
-If you frequently watch video content, especially in high definition or 4K, hardware acceleration is essential. The GPU can decode video frames much more efficiently than the CPU, resulting in smoother playback, lower CPU usage, and reduced power consumption. This is particularly important if you are watching videos on a laptop running on battery.
+If you frequently watch videos on streaming platforms like YouTube, Netflix, or Vimeo, hardware acceleration can significantly improve playback quality and reduce buffering. The GPU handles video decoding much more efficiently than the CPU, resulting in smoother playback, especially for high-definition content. This is particularly noticeable on computers with slower processors or limited RAM.
 
-Browser-based games and WebGL applications rely heavily on hardware acceleration. If you enjoy playing games in your browser or use web-based 3D modeling tools, enabling hardware acceleration can mean the difference between playable frame rates and a slideshow. The GPU is specifically designed to handle the parallel calculations required for 3D graphics.
+Gamers who play browser-based games or use web applications with intensive graphics should definitely ensure hardware acceleration is enabled. Games rely heavily on smooth rendering and quick frame rates, which the GPU provides much better than the CPU. Without hardware acceleration, browser games may stutter, lag, or become unplayable.
 
-Users with multiple monitors also benefit from hardware acceleration. Each additional display requires Chrome to render and composite more content simultaneously, and the GPU can handle this load much better than the CPU.
+Users with multiple monitors also benefit from hardware acceleration. Each display requires independent rendering, and the GPU can handle multiple outputs much more effectively than trying to manage them through CPU processing alone.
 
-If you use Chrome on a modern computer with a decent dedicated GPU or integrated graphics processor, hardware acceleration should remain enabled for the best experience. Most computers manufactured in the past several years have graphics chips capable of handling these tasks efficiently.
+On the other hand, some users might experience issues with hardware acceleration, particularly those with older or integrated graphics cards. If you notice visual artifacts, screen flickering, or browser crashes, you may need to disable hardware acceleration temporarily or update your graphics drivers. We will discuss troubleshooting in detail later in this guide.
 
-## When You Might Want to Disable Hardware Acceleration
+## GPU Compositing in Chrome
 
-Despite its benefits, there are situations where disabling hardware acceleration might be appropriate. Understanding these scenarios helps you make informed decisions about your browser settings.
+GPU compositing is a specific aspect of hardware acceleration that deserves special attention. Compositing is the process of combining multiple visual layers into a single image that appears on your screen. In web browsers, every webpage consists of numerous layers, including text, images, backgrounds, and positioned elements.
 
-Older computers with weak or outdated integrated graphics may struggle with hardware acceleration. In these cases, the overhead of GPU compositing can actually reduce performance rather than improve it. If you notice Chrome crashing frequently, experiencing visual glitches, or running slower than expected on older hardware, disabling hardware acceleration might help.
+When GPU compositing is enabled, Chrome uses the GPU to combine these layers rather than the CPU. This results in several benefits. First, page scrolling becomes noticeably smoother because the GPU can composite layers much faster than the CPU can. Animations, including CSS transitions and JavaScript-driven effects, play more fluidly. The overall responsiveness of the browser improves because the CPU is freed from compositing tasks.
 
-Some specific graphics drivers have compatibility issues with Chrome's GPU rendering. If you encounter strange visual artifacts, flickering, or browser crashes that seem related to graphics rendering, the issue might be driver-related. In such cases, disabling hardware acceleration or updating your graphics drivers can resolve the problems.
+Chrome uses a layer management system to determine which elements should be composited separately. Elements with certain CSS properties, such as transforms, opacity changes, or 3D perspectives, are often given their own layers. The GPU then handles compositing these layers efficiently.
 
-Certain enterprise or security environments may require software rendering for compliance or monitoring purposes. If your workplace has specific policies about browser rendering, follow those guidelines.
+You can actually observe Chrome's compositing in action. Open Chrome and navigate to any media-heavy website. Right-click and select Inspect to open Developer Tools. Click the three-dot menu in the top right, select More tools, and choose Rendering. Here you can enable options like "Show composited layer borders" to visualize how Chrome is using GPU compositing for different page elements.
 
-Users experiencing specific issues like videos not playing correctly, blank or garbled pages, or Chrome not starting properly might benefit from temporarily disabling hardware acceleration as a troubleshooting step.
+For most users, GPU compositing works seamlessly in the background. However, if you are experiencing visual issues or performance problems, understanding this process can help you troubleshoot more effectively.
 
-## Troubleshooting Hardware Acceleration Issues
+## Enabling and Configuring Hardware Acceleration
 
-When hardware acceleration causes problems, the symptoms can vary widely. Learning to diagnose and resolve these issues will help you maintain optimal browser performance.
+Enabling hardware acceleration in Chrome is straightforward. Start by typing `chrome://settings` in your address bar and pressing Enter. Scroll down to the Advanced section to reveal additional options. Look for the "Use hardware acceleration when available" toggle under the System heading. Make sure this toggle is turned on.
 
-One common issue is Chrome crashing or hanging when hardware acceleration is enabled. This often relates to GPU driver problems. To troubleshoot, start by checking your graphics drivers. Ensure you have the latest drivers from your GPU manufacturer (NVIDIA, AMD, Intel, or your computer's manufacturer for integrated graphics).
+After enabling this setting, Chrome may prompt you to restart the browser for the changes to take effect. Save any important work in other tabs before restarting to avoid losing any unsaved data.
 
-If updating drivers does not help, you can test whether hardware acceleration is causing the issue by disabling it temporarily. To do this, open Chrome settings, click on System in the left sidebar, and toggle off "Use hardware acceleration when available." Restart Chrome and see if the problem persists.
+For more advanced configuration options, you can access Chrome's internal flags. Type `chrome://flags` in the address bar to see experimental features. Here you will find options related to GPU processing, compositing, and rendering.
 
-Visual glitches are another indicator of hardware acceleration problems. These might include flickering, artifacts on the screen, pages not rendering correctly, or strange colors appearing in unexpected places. These issues often point to driver incompatibilities or resource limitations.
+Some useful flags to explore include "GPU rasterization," which determines whether the GPU is used for rasterizing web content, and "Zero-copy rasterizer," which can improve memory efficiency. However, exercise caution when modifying these settings. Experimental flags are not always stable and can cause unexpected behavior. Only change settings you understand, and be prepared to reset them if problems occur.
 
-To diagnose visual issues, you can access Chrome's internal GPU information. Type chrome://gpu in the address bar and press Enter. This page provides detailed information about your GPU, driver status, and which hardware acceleration features are enabled. Look for any warnings or errors listed here.
+## Hardware Acceleration and Video Playback
 
-Another useful diagnostic tool is chrome://media-internals, which provides detailed information about video playback and can help identify issues specific to video rendering.
+Video playback is one of the most demanding tasks for any web browser, and hardware acceleration plays a crucial role in delivering smooth viewing experiences. When you stream video content, the browser must decode the video data and render each frame in real-time. This process is computationally intensive, especially for high-resolution content.
 
-If you are experiencing performance issues rather than crashes or visual glitches, monitor your CPU and GPU usage while using Chrome. If the CPU is maxed out while the GPU sits idle, hardware acceleration might not be working correctly. Conversely, if the GPU is constantly at maximum utilization, you might be asking too much of your graphics hardware.
+Hardware acceleration allows the GPU to handle video decoding and rendering. The GPU contains specialized components designed specifically for this purpose, making it far more efficient than the CPU for these tasks. The result is lower CPU usage during video playback, which means you can have more tabs open or run other applications without experiencing slowdown.
 
-## Optimizing Video Playback with Hardware Acceleration
+Modern video codecs like H.264, VP9, and AV1 are all supported through hardware acceleration in Chrome. When you visit a video platform, Chrome automatically negotiates with the server to use hardware-accelerated decoding if both your browser and system support it. In most cases, this happens automatically without any user intervention.
 
-Video playback is one of the most common use cases where hardware acceleration makes a noticeable difference. Understanding how to optimize this aspect can greatly enhance your viewing experience.
+If you are experiencing issues with video playback, hardware acceleration might be the culprit. Common symptoms include videos that stutter or lag, audio that plays but video that does not keep up, excessive heating of your computer during video playback, and high CPU usage in Task Manager while watching videos.
 
-Chrome supports hardware acceleration for various video codecs, including H.264, VP8, VP9, and AV1. When you play a video in one of these formats, Chrome can offload the decoding process to your GPU, resulting in smoother playback and lower power consumption.
+To troubleshoot video-specific issues, start by checking the hardware acceleration setting as described earlier. Make sure your graphics drivers are up to date, as outdated drivers can prevent hardware acceleration from working correctly. You can update drivers through your operating system's update utility or by visiting the website of your GPU manufacturer.
 
-To verify that hardware-accelerated video decoding is working, visit a video-intensive website like YouTube and play a video. Then open chrome://media-internals in another tab and look at the current player information. If hardware decoding is active, you should see "Hardware" or "GPU" mentioned in the decoder information.
+Some users prefer to disable hardware acceleration for video playback specifically due to compatibility issues with certain codecs or hardware configurations. While this is possible using extensions or browser settings, it is generally not recommended because the performance impact is significant.
 
-If videos are not playing smoothly or you suspect video acceleration is not working, check a few settings. First, ensure hardware acceleration is enabled in Chrome settings. Second, verify your GPU drivers are up to date. Third, check if any extensions are interfering with video playback.
+## Troubleshooting Common Hardware Acceleration Issues
 
-Some users prefer to disable hardware video decoding due to specific issues like tearing or compatibility problems. You can do this by launching Chrome from the command line with the --disable-accelerated-video-decode flag, but this is generally not recommended unless you are troubleshooting a specific issue.
+Despite its benefits, hardware acceleration can sometimes cause problems. Knowing how to troubleshoot these issues will help you maintain optimal browser performance.
 
-For users with multiple monitors or very high resolution displays, video playback can sometimes be affected by bandwidth limitations. Ensuring your display cables and connections are proper can help maintain smooth playback.
+One common issue is visual artifacts or graphical glitches. These might appear as flickering, tearing, or strange colors on web pages. If you experience these problems, try disabling hardware acceleration temporarily to see if the issue resolves. If disabling fixes the problem, your graphics drivers might be outdated or incompatible. Updating your drivers often resolves these issues.
 
-## Advanced Chrome Flags for Hardware Acceleration
+Browser crashes can sometimes be attributed to hardware acceleration problems. If Chrome frequently crashes, particularly when visiting media-heavy websites or using web applications, try disabling hardware acceleration. Make sure to also check for updates to both Chrome and your graphics drivers.
 
-Chrome offers numerous internal flags that provide fine-grained control over hardware acceleration features. While most users should stick with default settings, these flags can be useful for troubleshooting or optimization.
+Another issue is high memory usage. While hardware acceleration typically reduces CPU usage, it can increase GPU memory consumption. If you have limited GPU memory, you might experience performance issues when browsing with many tabs open. In this case, managing your tabs becomes important.
 
-To access Chrome flags, type chrome://flags in the address bar. You will see a list of experimental features with dropdown menus to enable, disable, or set them to default.
+This is where tools like Tab Suspender Pro become valuable. Tab Suspender Pro automatically suspends tabs that you are not actively using, which stops them from consuming system resources. When combined with hardware acceleration, this can significantly improve overall browser performance. Suspended tabs do not use GPU resources for rendering, so you can keep many tabs open without experiencing slowdown. The extension wakes tabs instantly when you return to them, making it a seamless experience.
 
-The "Override software rendering" flag forces Chrome to use hardware acceleration even in situations where it might choose software rendering. This can be useful for testing whether hardware acceleration is working.
+If you are using hardware acceleration and experiencing performance issues, consider combining it with tab management tools. Tab Suspender Pro is particularly effective because it addresses the resource consumption of background tabs, complementing the performance benefits of hardware acceleration for active content.
 
-"GPU rasterization" controls whether the GPU handles the rasterization of content beyond just compositing. Enabling this can improve performance for certain types of content but may cause issues on some hardware.
+Screen tearing is another issue that can occur with hardware acceleration. This happens when the GPU and display refresh at different rates, causing visible lines across the screen. Enabling vsync in your graphics card settings can help resolve this issue.
 
-"Zero-copy video decoder" is a more advanced option that can reduce memory usage during video playback. However, it may not work correctly with all hardware configurations.
+## Optimizing Chrome Performance Beyond Hardware Acceleration
 
-"Hardware-accelerated video encode" controls whether the GPU can be used for encoding video, which is relevant if you use screen recording or video conferencing features in Chrome.
+While hardware acceleration is a powerful tool, optimizing Chrome performance involves more than just enabling one setting. There are several complementary practices that can enhance your browsing experience.
 
-Be cautious when modifying these flags. While they can provide performance improvements or resolve issues, changing the wrong settings can cause instability or unexpected behavior. Only modify flags if you understand what they do and why you need to change them.
+Keeping Chrome updated ensures you have the latest performance improvements and security patches. Chrome typically updates automatically, but you can check for updates by navigating to `chrome://settings/help`.
 
-## The Role of Tab Suspender Pro in Performance
+Managing extensions is crucial for performance. Each extension you install adds overhead to Chrome, and poorly designed extensions can significantly impact performance. Review your installed extensions periodically and remove any that you no longer use. If you need to keep many extensions installed, consider using extension suspenders that disable them when not in use.
 
-While hardware acceleration handles the heavy lifting of rendering and compositing, managing your open tabs is equally important for overall browser performance. This is where **Tab Suspender Pro** comes into play.
+Clearing cache and browsing data regularly can also improve performance. Over time, cached files accumulate and can slow down your browser. You can clear this data through Chrome's settings under Privacy and Security.
 
-Tab Suspender Pro is an extension that automatically suspends tabs you are not actively using. When a tab is suspended, Chrome stops allocating resources to it, including GPU resources for any hardware-accelerated content. This can significantly reduce memory usage and free up your GPU for the tabs you are actually using.
-
-By combining hardware acceleration with smart tab management, you get the best of both worlds. Your active tab gets full GPU acceleration for smooth performance, while suspended tabs do not consume any resources. This is particularly useful if you tend to keep many tabs open simultaneously.
-
-Tab Suspender Pro also provides visual indicators showing which tabs are suspended, making it easy to manage your browser's resource allocation. You can whitelist sites that should never be suspended, such as music players or ongoing downloads.
-
-For users with limited hardware resources, using Tab Suspender Pro alongside hardware acceleration can provide a balanced approach. Enable hardware acceleration for the best experience on your active tab while letting the extension handle background tab management.
-
-## Best Practices for Chrome Hardware Acceleration
-
-To get the most out of hardware acceleration while avoiding common pitfalls, follow these best practices.
-
-Keep your graphics drivers updated. This is the single most important thing you can do to ensure hardware acceleration works correctly. Check for updates regularly from your GPU manufacturer.
-
-Monitor your system resources. Use Task Manager or similar tools to watch CPU and GPU usage while browsing. If you notice consistent high usage, you might have too many demanding tabs open or hardware acceleration might not be working as intended.
-
-Close unnecessary tabs. Even with hardware acceleration, having dozens of tabs open can strain your system resources. Use Tab Suspender Pro or manual tab management to keep your active tab count reasonable.
-
-Restart Chrome periodically. Like any complex software, Chrome can develop memory leaks or temporary glitches over time. Restarting the browser clears these issues and ensures hardware acceleration continues working optimally.
-
-Test after major updates. Chrome updates sometimes change how hardware acceleration works. After updating Chrome, verify that your settings are still correct and hardware acceleration is functioning as expected.
+If you have a powerful GPU, you might benefit from Chrome features that push hardware acceleration even further. Features like "Override software rendering list" in chrome://flags can force hardware acceleration for content that Chrome would normally render with software. Use these features with caution, as they can cause instability on some systems.
 
 ## Conclusion
 
-Chrome hardware acceleration is a powerful feature that can significantly enhance your browsing experience when used correctly. By understanding how GPU compositing works, knowing when to enable or disable hardware acceleration, and following proper troubleshooting procedures, you can optimize Chrome for your specific needs.
+Hardware acceleration is an essential feature for getting the most out of Google Chrome. By understanding when to enable it, how GPU compositing works, and how to troubleshoot common issues, you can significantly improve your browsing experience. Whether you are watching videos, playing browser games, or simply browsing image-heavy websites, hardware acceleration ensures that your computer uses its GPU efficiently for the best possible performance.
 
-For most users, leaving hardware acceleration enabled provides the best experience, especially when combined with good tab management practices through extensions like Tab Suspender Pro. The GPU can handle video playback, animations, and web games far more efficiently than the CPU, resulting in smoother performance and better battery life on laptops.
-
-If you encounter issues, start with driver updates and basic troubleshooting before making more significant changes. The chrome://gpu and chrome://media-internals pages provide valuable diagnostic information that can help identify the root cause of any problems.
-
-By taking the time to understand and configure hardware acceleration properly, you will enjoy a faster, smoother, and more responsive Chrome browsing experience.
-
-<<<<<<< HEAD
-**Does hardware acceleration consume more power?** On laptops and mobile devices, hardware acceleration can actually reduce power consumption in certain scenarios. While the GPU does use energy, it's typically more efficient at visual processing than the CPU. For battery-powered devices, the improved efficiency often outweighs the additional GPU power draw, resulting in better overall battery life during video playback and visual tasks.
-
-**Can hardware acceleration cause screen tearing?** Screen tearing typically occurs when your display shows content from multiple frames simultaneously, creating a visible horizontal split in the image. While this issue is more commonly associated with gaming, it can occasionally occur with hardware-accelerated web content. Most modern browsers and graphics drivers include synchronization features to prevent this, but if you do experience tearing, disabling hardware acceleration for specific sites or adjusting your display settings can help.
-
-**Is hardware acceleration safe to use?** Yes, hardware acceleration is a standard, well-established technology used by web browsers, operating systems, and countless applications. It doesn't expose your system to additional security risks. The feature has been thoroughly tested and is considered safe for everyday use across virtually all modern computers.
-
-**Will hardware acceleration work on my older computer?** Most computers manufactured within the past decade support hardware acceleration, including those with integrated graphics. Even older systems with basic integrated graphics can benefit from this feature. The only systems that might not support hardware acceleration are very old computers or those with disabled or missing graphics hardware.
-
-**Do I need to restart Chrome after changing hardware acceleration settings?** Yes, you must restart Chrome for changes to the hardware acceleration setting to take effect. Close all Chrome windows completely and then reopen the browser to ensure the new settings are applied.
-
-**Can I use hardware acceleration with Chrome extensions?** Yes, hardware acceleration works alongside Chrome extensions in most cases. However, some extensions that modify how Chrome renders content might occasionally conflict with hardware acceleration. If you notice issues after installing new extensions, try disabling them individually to identify any conflicts.
-
-**Does hardware acceleration affect gaming in Chrome?** While Chrome isn't designed for gaming, many web-based games and interactive experiences benefit significantly from hardware acceleration. If you play browser-based games, enabling this feature typically results in smoother gameplay and better frame rates.
-
-**What's the difference between hardware acceleration in Chrome versus other browsers?** Most modern browsers support hardware acceleration, and the underlying technology is similar across platforms. However, the implementation details and default settings may vary. Chrome tends to have hardware acceleration enabled by default, while some browsers may require you to enable it manually.
-
-By understanding these common questions and answers, you can make more informed decisions about using hardware acceleration and troubleshoot issues more effectively. The feature is designed to work seamlessly in the background, improving your browsing experience without requiring constant attention or adjustment.
-
----
+Remember that while hardware acceleration provides substantial benefits, it works best as part of a holistic approach to browser optimization. Using tools like Tab Suspender Pro alongside hardware acceleration can help you maintain excellent performance even with many tabs open. Keep your system updated, manage your extensions wisely, and enjoy the smooth, responsive browsing experience that hardware acceleration provides.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

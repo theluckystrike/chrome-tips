@@ -90,4 +90,4 @@ Remember that security is an ongoing process. Stay vigilant, keep your browser u
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

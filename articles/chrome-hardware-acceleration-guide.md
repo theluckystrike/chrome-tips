@@ -99,3 +99,7 @@ Chrome hardware acceleration is a powerful feature that leverages your computer'
 For most users, keeping hardware acceleration enabled provides significant benefits without drawbacks. The exception is users with older hardware or specific driver issues that might require disabling it temporarily. Combined with good tab management practices like those supported by Tab Suspender Pro, hardware acceleration helps Chrome deliver the fast, smooth experience you expect from a modern browser.
 
 Take a moment to verify that hardware acceleration is enabled in your Chrome settings. The simple check can unlock better performance for all your web browsing activities, from watching videos to playing games to everyday navigation.
+
+---
+
+*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

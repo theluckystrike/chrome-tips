@@ -66,4 +66,4 @@ While we are on the topic of browser improvements, it is worth mentioning other 
 
 Both browser ad blockers and Pi-hole have their place in a privacy-conscious browsing setup. Browser ad blockers are perfect for quick, easy protection that works right out of the box. Pi-hole offers comprehensive network-wide protection for users willing to invest some time in setup. Consider your technical comfort level and specific needs to choose the option that works best for you.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

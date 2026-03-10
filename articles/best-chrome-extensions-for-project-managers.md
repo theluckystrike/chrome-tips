@@ -62,7 +62,7 @@ Microsoft OneNote is a powerful note-taking tool, and the Chrome extension makes
 
 The extension allows you to quickly save any webpage to your notebook, complete with a link back to the original source. This is particularly useful for gathering competitor research, saving industry articles, or collecting inspiration for upcoming projects. Your notes sync across all your devices, so you always have access to your research.
 
-## Todoist
+## Forest
 
 Staying focused is one of the biggest challenges for project managers. Forest is a unique extension that helps you concentrate by growing virtual trees when you stay on task. When you open a tab and start working, you plant a seed. As you continue working without getting distracted, your tree grows.
 

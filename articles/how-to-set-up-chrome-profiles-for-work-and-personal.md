@@ -10,7 +10,7 @@ author: theluckystrike
 
 # How to Set Up Chrome Profiles for Work and Personal
 
-If you have ever needed to switch between your work email and personal email in Chrome, or wanted to keep your work bookmarks separate from your personal ones, you are not alone. Many people use Chrome for both work and personal browsing, and mixing the two can create confusion, security concerns, and a cluttered browsing experience. The good news is that Chrome offers a built-in feature called profiles that makes it easy to keep everything separate. Let me walk you through how to set up Chrome profiles for work and personal use.
+If you have ever needed to switch between your work email and personal email in Chrome, or wanted to keep your work bookmarks separate from your personal ones, you are not alone. Many people use Chrome for both work and personal browsing, and mixing the two can create confusion, security concerns, and a cluttered browsing experience. The good news is that Chrome offers a built-in feature called profiles that makes it easy to keep everything separate. Let me walk you through how to set up chrome profiles for work and personal.
 
 ## Why Use Separate Chrome Profiles
 

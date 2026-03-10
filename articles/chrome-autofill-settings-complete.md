@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Autofill Settings Complete Guide"
 description: "Master Chrome autofill settings for addresses, payment methods, passwords, form detection, and sync. Complete guide to managing your autofill preferences."
 date: 2025-03-10

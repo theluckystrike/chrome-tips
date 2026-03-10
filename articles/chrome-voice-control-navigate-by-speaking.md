@@ -80,4 +80,4 @@ For now, learning to navigate Chrome by speaking is a valuable skill that makes 
 
 Once you master these tools, you will find that your hands are free for other tasks while still maintaining full control over your browser. This is especially useful in our increasingly multi-tasking world where being able to browse hands-free can save time and reduce frustration.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

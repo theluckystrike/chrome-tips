@@ -64,4 +64,4 @@ When you find a page full of images you want, click the extension icon to see wh
 
 Give each extension a try to see which one fits your style best. They all work a little differently, and the right choice depends on what kind of image downloading you do most often.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

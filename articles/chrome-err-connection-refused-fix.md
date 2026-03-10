@@ -22,7 +22,7 @@ Several things can cause this refusal. The website might be down temporarily. Yo
 
 ## Start With the Simple Fixes
 
-Before diving into more technical solutions, try these basic steps first because they often work.
+Try these basic steps first because they often work.
 
 First, check if the website is actually working. The simplest way is to try opening the same website on a different browser or on your phone using the same internet connection. If it loads on another device but not on Chrome, you know the problem is with your browser or settings rather than the website itself.
 
@@ -54,7 +54,7 @@ Similarly, make sure your operating system is up to date. Both Windows and Mac r
 
 ## Adjust Your Network Settings
 
-If simple fixes have not worked, it is time to dig into your network settings. These steps are straightforward but require a bit more attention.
+If simple fixes have not worked, you can adjust your network settings. These steps are straightforward but require a bit more attention.
 
 First, try changing your DNS servers. Your DNS server is like a phone book for the internet, translating website names into addresses your computer can understand. Sometimes the default DNS servers provided by your internet provider have issues. To change this in Chrome, type chrome://settings/ into the address bar, search for DNS, and look for the option to customize your DNS settings. You can try using Google is public DNS servers by entering 8.8.8.8 and 8.8.8.8 as your preferred DNS servers.
 

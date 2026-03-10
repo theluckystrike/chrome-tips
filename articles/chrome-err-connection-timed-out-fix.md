@@ -14,7 +14,7 @@ This timeout happens for several reasons, and understanding them can help you fi
 
 ## Check Your Internet Connection First
 
-Before diving into complicated solutions, start with the basics. Make sure your internet connection is actually working properly. Try opening a different website in Chrome or use another browser altogether to see if the problem is specific to Chrome or affects all your browsing.
+Start with the basics. Make sure your internet connection is actually working properly. Try opening a different website in Chrome or use another browser altogether to see if the problem is specific to Chrome or affects all your browsing.
 
 If other websites load fine, the issue might be with that particular site you were trying to visit. Websites go down occasionally, and if a server is overloaded or experiencing technical difficulties, you might get a timeout error. In this case, there is not much you can do except wait and try again later.
 

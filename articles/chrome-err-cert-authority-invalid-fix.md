@@ -12,7 +12,7 @@ When you see the ERR_CERT_AUTHORITY_INVALID error in Chrome, it means your brows
 
 Chrome is telling you that it does not recognize the organization that issued the certificate for that website. This could mean the certificate was issued by an unknown or untrusted authority, the certificate has been tampered with, or there is something suspicious about the certificate that Chrome's security systems do not like.
 
-It is important to understand that Chrome shows this error to protect you. In most cases, there is a good reason why the browser is concerned. However, sometimes this error appears for legitimate websites due to configuration issues on their end, and you might need to access the site for work or personal reasons.
+Chrome shows this error to protect you. In most cases, there is a good reason why the browser is concerned. However, sometimes this error appears for legitimate websites due to configuration issues on their end, and you might need to access the site for work or personal reasons.
 
 ## Why This Error Happens
 
@@ -67,5 +67,7 @@ Keep your Chrome browser updated. Chrome regularly updates its list of trusted c
 Be cautious about installing browser extensions that claim to fix certificate errors. Some malicious extensions actually create security problems rather than solve them. Stick with well-known extensions from the Chrome Web Store, and research any extension before installing it.
 
 If you work for an organization that uses network filtering, ask your IT department about any certificates you might need to install on your computer. They can provide guidance on how to access internal resources safely.
+
+---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

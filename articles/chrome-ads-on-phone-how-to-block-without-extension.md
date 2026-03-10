@@ -64,4 +64,6 @@ If you are looking for a tool that helps with both ad management and browser eff
 
 It is important to set realistic expectations. Even with all these methods in place, some ads may still get through. Ad blockers work by filtering out known ad-serving domains and formats, but new ad techniques are constantly emerging. That said, using a combination of the methods above will give you a much cleaner browsing experience compared to using Chrome with no ad protection at all.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+---
+
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

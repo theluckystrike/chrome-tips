@@ -58,4 +58,4 @@ Another useful habit is to close tabs that are not actively in use. If you have 
 
 Managing tab audio in Chrome does not have to be a daily frustration. With these methods, you can quickly mute annoying sounds and get back to what you were doing. Whether you prefer the built-in right-click option, the tab management view, or an extension like Tab Suspender Pro, there is a solution that fits your workflow. Take a moment to try a few of these approaches and find what works best for you.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

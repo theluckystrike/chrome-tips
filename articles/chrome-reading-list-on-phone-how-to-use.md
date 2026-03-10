@@ -70,4 +70,4 @@ The Chrome reading list is a simple but powerful tool for anyone who wants to sa
 
 Give it a try today and see how much easier it is to stay organized with your reading.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

@@ -84,4 +84,4 @@ Start with the option that matches your current browser. Try it for a week and s
 
 The goal is to make your reading comfortable and distraction-free without adding unnecessary complexity to your browsing routine.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

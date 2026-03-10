@@ -64,4 +64,6 @@ The best way to organize Chrome tabs is the system that works for you, and that 
 
 Start with the basics, see what fits your workflow, and build from there. You do not need to organize everything perfectly right away. Even small improvements, like grouping related tabs together or closing ones you no longer need, can make a big difference in how much easier your browsing feels.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

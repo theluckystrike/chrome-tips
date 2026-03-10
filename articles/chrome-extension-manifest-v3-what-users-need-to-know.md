@@ -54,4 +54,4 @@ The transition to Manifest V3 has been challenging for many users, but it is ult
 
 In the meantime, staying informed about what changes are happening and knowing how to adapt your setup will help you maintain a productive and enjoyable experience with Chrome.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

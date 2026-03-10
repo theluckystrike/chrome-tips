@@ -72,4 +72,4 @@ Avoid running Chrome in restricted modes or profiles that disable sync features,
 
 By understanding why sync pauses and knowing how to fix it, you can ensure your bookmarks, passwords, and settings stay synchronized across all your devices. Most of the time, one of the simple steps above will get everything working again.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

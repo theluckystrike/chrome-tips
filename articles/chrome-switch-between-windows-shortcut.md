@@ -58,4 +58,4 @@ Now that you know the Chrome switch between windows shortcut options, the best t
 
 Within a few days of practice, these shortcuts will become automatic. You will wonder how you ever managed to switch between windows any other way. The time you save might seem small on any individual switch, but over weeks and months, those seconds add up to a meaningful amount of time that you can redirect toward actually getting work done.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

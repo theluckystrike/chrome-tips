@@ -68,4 +68,6 @@ The good news is that you can try different options and see which one fits your 
 
 Remember that the best tool is the one you actually use. An extension with every feature imaginable will not help if it is too complicated to use. Start simple, and upgrade only if you find yourself needing more capabilities.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

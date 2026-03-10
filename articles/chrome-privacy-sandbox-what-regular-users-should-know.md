@@ -66,4 +66,4 @@ Take a few minutes to check your Chrome settings and decide what level of sharin
 
 Your privacy is worth the small amount of time it takes to understand these settings. The more you know about how your browser handles your data, the better decisions you can make about what you are willing to share.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

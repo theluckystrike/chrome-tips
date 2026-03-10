@@ -88,4 +88,5 @@ Address bar suggestions are a double-edged sword. They save seconds of typing bu
 
 Whether you are trying to hide a specific site or simply want to clean up a cluttered interface, these steps ensure that your address bar only shows you what you actually want to see.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+---
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

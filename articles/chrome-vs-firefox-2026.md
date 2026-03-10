@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome vs Firefox 2026 Comparison"
 description: "Comprehensive comparison of Chrome vs Firefox in 2026. Compare performance, privacy, extensions, customization, and sync features to choose the best browser for your needs."
 date: 2026-01-20
@@ -90,4 +90,3 @@ For users who want the best of both worlds, consider using both browsers for dif
 
 Remember that whatever browser you choose, tools like **Tab Suspender Pro** can help you optimize performance and maintain control over your tabs. A good browser is the foundation, but the right extensions transform it into a productivity powerhouse tailored to your specific needs.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

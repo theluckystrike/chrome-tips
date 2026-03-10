@@ -70,4 +70,6 @@ Another tip is to make sure Chrome is updated. Each update brings performance im
 
 These chrome address bar tips and tricks take just a few minutes to learn but can save you time every day. The address bar is one of the most powerful parts of Chrome, and using it effectively makes your entire browsing experience more enjoyable.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

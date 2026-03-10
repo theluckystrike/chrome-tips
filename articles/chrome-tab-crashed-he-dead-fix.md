@@ -64,4 +64,4 @@ If the simple fixes do not work and your tabs still crash, there are a few more 
 
 Chrome tab crashes do not have to be a regular occurrence. By keeping your browser updated, managing your extensions carefully, and not opening too many tabs at once, you can enjoy a much more stable browsing experience. If you frequently keep many tabs open for work or research, a tool like Tab Suspender Pro can make a big difference in preventing crashes while still letting you keep all your tabs handy.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

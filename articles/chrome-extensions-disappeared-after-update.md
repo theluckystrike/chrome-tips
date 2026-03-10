@@ -48,4 +48,4 @@ You can also try clearing your browser cache and cookies. Sometimes cached data 
 
 If all else fails, you may need to reset Chrome to its default settings. This removes all your extensions, settings, and data, so make sure to back up anything important first. After the reset, you can reinstall your extensions from the Chrome Web Store.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

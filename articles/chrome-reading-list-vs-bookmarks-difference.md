@@ -80,4 +80,4 @@ Try implementing both features in your daily routine. Save frequently visited si
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

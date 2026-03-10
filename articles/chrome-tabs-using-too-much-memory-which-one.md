@@ -54,6 +54,4 @@ Update Chrome regularly. Newer versions often include performance improvements a
 
 Avoid keeping tabs with auto-refreshing content open in the background. News sites, stock tickers, and social media feeds constantly refresh, which keeps them active and consuming memory. If you need to check something periodically, close the tab and reopen it when needed.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

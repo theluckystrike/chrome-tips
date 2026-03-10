@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome MediaRecorder API Guide"
 description: "Master Chrome MediaRecorder API for audio, video, and screen recording. Learn encoding options, browser support, and best practices for media capture in web applications."
 date: 2026-01-20

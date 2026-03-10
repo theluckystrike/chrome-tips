@@ -72,4 +72,4 @@ Understanding memory usage also helps you troubleshoot when your computer seems 
 
 By learning how to check chrome tab memory usage and taking steps to manage it effectively, you are setting yourself up for a smoother, more efficient browsing experience. Your computer will run better, your browser will respond faster, and you will have more control over your digital workspace.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

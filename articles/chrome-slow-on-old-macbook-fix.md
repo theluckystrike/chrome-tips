@@ -88,6 +88,10 @@ Adding RAM, if your model supports it, is the second most impactful upgrade. Goi
 
 Restart Chrome once a day instead of leaving it running for weeks. Close tabs before opening new ones. Restart your Mac once a week. Clear your cache monthly. These small habits keep things running smoothly.
 
----
+## Use Tab Suspender Pro for Better Memory Control
 
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+While Chrome's built-in **Memory Saver** is a good start, it often isn't enough for an **older MacBook**. If you need more granular control over your **system resources**, consider using **Tab Suspender Pro**. 
+
+This extension takes **tab management** much further by allowing you to set custom **idle timers** for when a tab should "hibernate." It also lets you see exactly how much **RAM** is being saved in real-time. For users on aging hardware, **Tab Suspender Pro** is an essential tool because it prevents background tabs from ever reaching the point where they force your Mac into using slow **disk swap**. By keeping your **memory usage** lean, you ensure that Chrome remains responsive even during heavy research sessions.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

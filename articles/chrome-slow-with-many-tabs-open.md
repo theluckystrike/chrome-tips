@@ -84,6 +84,4 @@ Consider whether your computer meets Chrome's recommended requirements. On compu
 
 You might also want to try lighter browsers for everyday tasks and reserve Chrome for when you need its specific features. Some browsers use less memory but lack some of Chrome's capabilities.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

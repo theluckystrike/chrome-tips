@@ -8,7 +8,7 @@ tags: [parental-controls, chrome-safety, family-link, kid-friendly-browsing]
 author: theluckystrike
 ---
 
-If you have been searching for chrome parental controls without extension, you might be frustrated that Chrome does not have a built-in parental control panel in the traditional sense. However, there are several effective ways to protect your family while browsing, and many of them do not require installing any extensions at all. Let me walk you through the best options that work right out of the box.
+If you have been searching for chrome parental controls without extension, you might be frustrated that Chrome does not have a built-in parental control panel in the traditional sense. However, there are several effective ways to protect your family while browsing, and many of them do not require installing any extensions at all. This guide will walk you through the best options that work right out of the box.
 
 ## Why Look for Extension-Free Solutions
 

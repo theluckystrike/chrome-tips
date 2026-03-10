@@ -46,4 +46,4 @@ Some people actually use both. You might keep Chrome for work tasks that need Go
 
 No matter which browser you choose, opening too many tabs can slow things down. If you often find yourself with dozens of tabs and notice your phone getting sluggish, there are ways to manage it. Tab Suspender Pro automatically pauses tabs you are not using, freeing up memory while keeping your place. It works with Chrome and other browsers, so you can browse more freely without worrying about performance.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

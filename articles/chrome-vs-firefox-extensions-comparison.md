@@ -64,4 +64,4 @@ Remember that you do not need dozens of extensions to have a good browsing exper
 
 Managing extensions wisely matters more than which browser you choose. Regularly review what you have installed and remove anything you no longer use. This keeps your browser clean and performs well.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

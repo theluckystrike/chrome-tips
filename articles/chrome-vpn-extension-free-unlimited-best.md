@@ -90,4 +90,4 @@ Remember that free VPN extensions typically will not match the performance and f
 
 The most important thing is to actually use a VPN when browsing on public networks. Even a basic free extension is better than nothing when it comes to protecting your personal information from prying eyes.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

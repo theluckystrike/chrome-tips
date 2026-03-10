@@ -70,4 +70,4 @@ The important thing is that you understand what is happening with your data. Bro
 
 ---
 
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -74,4 +74,4 @@ If you live in the Google ecosystem and use Gmail, Google Drive, and other Googl
 
 For most everyday use, the speed difference is small enough that other factors like extension availability, interface preferences, and ecosystem integration matter more. Try both browsers for a week and see which one feels better for your specific workflow.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

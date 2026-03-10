@@ -76,4 +76,4 @@ For people with reading difficulties or visual impairments, chrome text to speec
 
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -67,4 +67,4 @@ If the Chrome update changed its rendering approach, your current GPU drivers mi
 
 A slower browser after an update is frustrating, but it's rarely a permanent problem. By clearing your cache, managing your extensions, and utilizing helpful tools like **Tab Suspender Pro**, you can usually restore or even improve your browsing speed. Most "slowdown" issues are just temporary conflicts that can be resolved with a few minutes of troubleshooting.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -58,4 +58,6 @@ If you are building or maintaining a website and find yourself constantly tweaki
 
 For those who want to explore more ways to improve their browser experience and manage their web projects more effectively, there are tools available that can help. Tab Suspender Pro is one solution that can help you manage open tabs and reduce browser resource usage, making your browsing sessions smoother and more productive.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

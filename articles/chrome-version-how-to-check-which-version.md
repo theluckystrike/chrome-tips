@@ -78,4 +78,4 @@ If you find that Chrome feels slow or you have many tabs open, consider using to
 
 Understanding your browser and keeping it updated is a simple but effective way to have a better browsing experience. Take a moment to check your Chrome version today, and make sure you are running the latest version available.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

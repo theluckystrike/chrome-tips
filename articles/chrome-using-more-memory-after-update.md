@@ -70,4 +70,4 @@ Sometimes, what looks like a Chrome memory issue is actually an interaction prob
 
 Seeing your RAM usage spike after a Chrome update can be alarming, but it's usually something you can manage with a few strategic adjustments. By utilizing built-in features like Memory Saver and supplementary tools like **Tab Suspender Pro**, you can take back control of your system's resources. Remember to periodically audit your extensions and keep your tabs organized to ensure a smooth, fast browsing experience, no matter how many updates Google pushes out.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

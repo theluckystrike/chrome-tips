@@ -60,4 +60,4 @@ Setting up chrome two factor authentication is not as complicated as it might so
 
 Start with your most important accounts, like your Google account and your primary email, then gradually enable 2FA on other services. Over time, this simple habit will become second nature, and you will have much better protection against unauthorized access to your personal information.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

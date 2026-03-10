@@ -74,4 +74,4 @@ The "best" browser on Windows 11 really comes down to your personal workflow and
 
 Ultimately, because both are built on Chromium, you can't really make a "wrong" choice. Both will render websites perfectly, support all your favorite extensions, and provide a fast, modern browsing experience. If you find yourself struggling with performance on either, remember that tools like **Tab Suspender Pro** are available to help you keep your resource usage in check.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -90,4 +90,4 @@ Consider what matters most to you. If performance and ecosystem are paramount, t
 
 ---
 
-*Built by theluckystrike — More tips at https://zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

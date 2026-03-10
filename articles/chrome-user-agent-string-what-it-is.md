@@ -60,4 +60,4 @@ You can check if Chrome is up to date by clicking the three dots in the upper ri
 
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

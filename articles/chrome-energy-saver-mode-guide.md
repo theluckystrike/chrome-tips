@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Energy Saver Mode Guide"
 description: "A comprehensive guide to Chrome Energy Saver Mode covering battery optimization, background throttling, when it activates, and how to maximize your laptop battery life while browsing."
 date: 2026-01-15

@@ -203,3 +203,7 @@ By understanding the key concepts covered in this guide—voice input implementa
 For applications requiring optimal performance, consider how resource management tools like Tab Suspender Pro can complement your voice input features by keeping browser resources focused on what matters most. The combination of powerful voice recognition capabilities and intelligent resource management creates an environment where users can fully benefit from hands-free browsing.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Enhanced Safe Browsing Guide"
 description: "Learn about Chrome's Enhanced Safe Browsing feature, real-time protection, phishing detection, and download scanning to keep your browsing secure."
 date: 2026-01-15

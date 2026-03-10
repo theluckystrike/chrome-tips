@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Password Checkup Tool Guide"
 description: "A comprehensive guide to Chrome's Password Checkup tool covering compromised passwords detection, weak password identification, reuse detection, and automatic password changing features for enhanced online security."
 ---

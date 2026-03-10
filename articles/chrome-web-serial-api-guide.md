@@ -1,255 +1,214 @@
 ---
 layout: default
 title: "Chrome Web Serial API Guide"
-description: "Learn how to use the Chrome Web Serial API to connect your browser to Arduino, microcontrollers, and serial devices. Complete guide covering baudrate settings, port access, and practical examples."
-date: 2026-01-20
-categories: [chrome, web-serial-api, arduino, programming]
-tags: [chrome-web-serial, serial-port, arduino, microcontroller, baudrate, usb-serial]
+description: "Learn how to use the Chrome Web Serial API for serial port access, connecting Arduino, microcontrollers, and configuring baudrate settings for hardware communication in your browser."
+date: 2026-01-15
+categories: [developer, hardware, chrome-api]
+tags: [web-serial, serial-port, arduino, microcontroller, chrome-api, baudrate, hardware]
 author: theluckystrike
 ---
 
 # Chrome Web Serial API Guide
 
-The Chrome Web Serial API represents a groundbreaking advancement in web development, allowing web applications to communicate directly with serial devices connected via USB or Bluetooth. This capability opens up incredible possibilities for developers, hobbyists, and professionals who want to create browser-based interfaces for hardware projects. Whether you are working with Arduino boards, microcontrollers, or industrial equipment, the Web Serial API provides a standardized way to exchange data between your web application and physical devices.
+The Chrome Web Serial API represents a groundbreaking advancement in browser technology, enabling web applications to communicate directly with serial devices such as Arduino boards, microcontrollers, and other hardware through the USB or serial port connections. This capability opens up incredible possibilities for developers, hobbyists, and engineers who want to create web-based interfaces for hardware projects without requiring users to install native applications or drivers. In this comprehensive guide, we will explore everything you need to know about the Chrome Web Serial API, from basic concepts to advanced implementation techniques.
 
-In this comprehensive guide, we will explore everything you need to know about the Chrome Web Serial API, from basic concepts to advanced implementation techniques. You will learn how to establish serial connections, configure baudrate settings, handle data transmission, and build robust applications that can interact with hardware in real-time.
+## Understanding Serial Communication
 
-## Understanding the Web Serial API
+Serial communication has been a fundamental method for devices to exchange data for decades. Unlike parallel communication, which uses multiple wires to send data simultaneously, serial communication transmits data one bit at a time over a single communication channel. This approach, while seemingly slower, offers significant advantages including simpler wiring, the ability to transmit over longer distances, and reduced electromagnetic interference.
 
-The Web Serial API is a JavaScript API that enables web pages to read from and write to serial devices. It was developed by Google and is available in Chrome, Edge, and other Chromium-based browsers. This API fills a crucial gap in web capabilities, as previously, interacting with hardware required native applications or browser extensions.
+In the context of hardware devices, serial communication typically refers to UART (Universal Asynchronous Receiver/Transmitter) connections. These connections use specific voltage levels and timing protocols to ensure data integrity. The most common standard is RS-232, though modern devices often use USB-to-serial converters that present themselves as virtual COM ports to the operating system.
 
-The API works by providing a bridge between the web application and the operating system's serial communication layer. When a user grants permission, the browser can access serial ports much like a traditional desktop application would. This permission-based approach ensures user privacy and security while still providing powerful functionality.
+When working with microcontrollers like Arduino, serial communication serves as the primary method for exchanging data between the microcontroller and a computer. Developers traditionally used the Arduino IDE's Serial Monitor to view debug output and send commands. However, the Chrome Web Serial API now enables browsers to perform these same functions directly, opening the door to sophisticated web-based control panels, data visualization tools, and interactive hardware interfaces.
 
-Before the Web Serial API, developers had limited options for connecting web applications to hardware. They could use browser extensions that exposed serial ports, but these added complexity and required users to install additional software. The Web Serial API eliminates these barriers by bringing serial communication directly into the browser.
+## What is the Chrome Web Serial API?
 
-One of the most exciting aspects of this API is its versatility. It supports USB serial devices, which include most Arduino boards and popular microcontrollers, as well as Bluetooth devices that implement the Serial Port Profile. This broad compatibility makes it an excellent choice for a wide range of projects.
+The Chrome Web Serial API is a JavaScript API that allows web applications running in Google Chrome to access and communicate with serial devices connected to a computer. Part of the Web Serial API standard, this feature was first introduced in Chrome 89 and has since become a powerful tool for hardware developers and web programmers alike.
 
-## Checking Browser Compatibility
+Before this API existed, connecting web applications to hardware required either native applications, browser extensions, or workarounds like WebUSB. While WebUSB exists for direct USB communication, it cannot access devices that implement the CDC (Communications Device Class) or HID (Human Interface Device) protocols in certain ways. Serial communication remains the most accessible method for many popular development boards and microcontrollers.
 
-Before you begin implementing the Web Serial API, it is essential to verify that your target browsers support it. The API is available in Chrome version 89 and later, which means most modern Chrome installations should work. Edge, Opera, and other Chromium-based browsers also support the API.
+The API provides a way to request access to serial ports, read data from them, and write data to them using JavaScript. This means you can create web pages that interact with your Arduino projects in real-time, display sensor data from microcontrollers, or even program devices directly from a browser-based development environment.
 
-You can check for API availability using a simple feature detection check:
+## Browser Requirements and Enabling the API
 
-```javascript
-if ("serial" in navigator) {
-  console.log("Web Serial API is supported!");
-} else {
-  console.log("Web Serial API is not supported in this browser.");
-}
-```
+The Chrome Web Serial API is available in Google Chrome and other Chromium-based browsers including Microsoft Edge, Brave, and Opera. As of early 2026, the API has matured significantly and offers stable functionality for most serial communication use cases.
 
-This check ensures that your code gracefully handles browsers without serial support. For production applications, you should provide appropriate fallbacks or error messages to users who are using unsupported browsers.
+To use the API, you must be serving your web application over a secure context (HTTPS) or from localhost. This security requirement ensures that malicious websites cannot easily access serial devices without the user's knowledge. When developing locally, you can use HTTP, but for production deployments, HTTPS is mandatory.
 
-It is worth noting that the Web Serial API currently works only in secure contexts, which means your page must be served over HTTPS or from localhost. This security requirement protects users from potentially malicious websites attempting to access their hardware. If you are developing locally, localhost connections are considered secure, but you will need to set up HTTPS for production deployments.
+Chrome also requires explicit user permission before allowing a website to access any serial port. The browser will prompt the user to select which device to connect to from a list of available ports. This intentional friction prevents unauthorized access to hardware while still providing a straightforward user experience.
 
 ## Requesting Serial Port Access
 
-The first step in using the Web Serial API is to request access to a serial port. This process involves calling the `navigator.serial.requestPort()` method, which prompts the user to select a device from a list of available serial ports.
+The first step in using the Chrome Web Serial API is requesting access to a serial port. This is accomplished using the `navigator.serial.requestPort()` method, which returns a Promise that resolves to a SerialPort object representing the selected device.
 
-Here is a basic example of how to request port access:
+When you call this method, Chrome displays a UI dialog showing all available serial ports. Users can select the device they want to connect to, and the browser then creates a connection to that port. It's important to note that the API does not provide a way to list available ports without first requesting access—this design prevents fingerprinting of user's connected hardware.
 
 ```javascript
 async function connectToSerial() {
   try {
     const port = await navigator.serial.requestPort();
-    console.log("Port selected:", port);
+    await port.open({ baudRate: 9600 });
+    console.log('Serial port opened successfully');
+    return port;
   } catch (error) {
-    console.error("Error requesting port:", error);
+    console.error('Error opening serial port:', error);
   }
 }
 ```
 
-When this code executes, Chrome displays a dialog box showing all available serial devices. Users can select the device they want to connect to, and the browser then requests permission to access that specific port. This user-controlled selection process is intentional, as it prevents websites from secretly accessing hardware without the user's knowledge.
+This basic example demonstrates the core workflow: requesting a port, opening it with specific configuration, and handling potential errors. The `requestPort()` method can optionally accept filters to narrow down which devices appear in the selection dialog, which is useful for applications that only work with specific types of hardware.
 
-The `requestPort()` method accepts an optional configuration object that can filter the displayed devices. This filtering is useful when you know the vendor ID or product ID of the device you want to connect to:
+## Configuring Baud Rate and Other Settings
+
+When opening a serial port, you must specify communication parameters that match your device's configuration. The most critical of these is the baud rate, which determines how fast data is transmitted over the serial connection.
+
+Baud rate represents the number of signal changes per second and directly correlates to the data transmission speed. Common baud rates include 9600, 19200, 38400, 57600, and 115200. Your microcontroller code must use the same baud rate for communication to work correctly. The Arduino framework, for example, defaults to 9600 baud in the Serial Monitor, though this can be changed in your sketch.
 
 ```javascript
-const filters = [
-  { usbVendorId: 0x2341 },  // Arduino vendor ID
-  { usbVendorId: 0x0403 }   // FTDI vendor ID
-];
-
-const port = await navigator.serial.requestPort({ filters });
+await port.open({ 
+  baudRate: 9600,
+  dataBits: 8,
+  stopBits: 1,
+  parity: 'none',
+  flowControl: 'none'
+});
 ```
 
-By specifying filters, you can narrow down the options presented to users, making the connection process more streamlined for specific use cases.
+Beyond baud rate, the API allows configuration of other serial parameters including data bits (typically 7 or 8), stop bits (1 or 2), parity (none, even, or odd), and flow control (none or hardware). Most simple Arduino projects use 8 data bits, 1 stop bit, no parity, and no flow control, commonly abbreviated as "8N1."
 
-## Configuring Baudrate and Connection Parameters
+Choosing the right baud rate involves balancing communication speed against reliability. Higher baud rates mean faster data transfer but increase the chance of transmission errors, especially with longer cables or electrical interference. For most Arduino projects, 9600 or 115200 baud are the most common choices. The higher rate is useful when streaming large amounts of data, while 9600 is sufficient for simple command-response interactions.
 
-Once you have obtained a port, you need to configure the connection parameters before opening it. The most critical parameter is the baudrate, which determines the speed of serial communication. Different devices require different baudrates, and matching this setting is essential for successful communication.
+## Reading and Writing Data
 
-The baudrate must be configured in the `SerialOptions` object when opening the port:
+Once you have successfully opened a serial port, you can begin reading and writing data. The Chrome Web Serial API uses the Streams API, which provides a modern, efficient way to handle asynchronous data flow.
 
-```javascript
-async function openPort(port) {
-  const options = {
-    baudRate: 9600,    // Common default for Arduino
-    dataBits: 8,
-    stopBits: 1,
-    parity: "none",
-    flowControl: "none"
-  };
-
-  await port.open(options);
-  console.log("Port opened successfully");
-}
-```
-
-Understanding baudrate is crucial for working with serial devices. The baudrate represents the number of signal changes per second, and both your web application and the connected device must use the same value for communication to work correctly. Common baudrate values include 9600, 19200, 38400, 57600, and 115200, with 9600 being the most widely used default.
-
-For Arduino projects, the most common baudrate is 9600, which provides a good balance between speed and reliability for most educational and hobbyist projects. However, some applications require higher speeds. The Arduino Mega and other advanced boards can handle baudrates up to 115200 or higher. When working with a new device, always check its documentation to determine the appropriate baudrate.
-
-It is also important to understand that baudrate affects the maximum data throughput but is not directly equivalent to bytes per second. With 8N1 configuration (8 data bits, no parity, 1 stop bit), each transmitted byte actually requires 10 bits of channel capacity, so at 9600 baud, you can transmit approximately 960 bytes per second.
-
-## Reading Data from Serial Devices
-
-After establishing the connection, you can start reading data from the serial port. The Web Serial API provides two main approaches for reading: using the `read()` method directly or using the readable stream interface. The stream-based approach is generally more modern and easier to work with for asynchronous data.
-
-Here is how to set up reading using streams:
+Reading data involves getting a readable stream from the port and consuming its chunks:
 
 ```javascript
-async function readFromPort(port) {
+async function readFromSerial(port) {
   const decoder = new TextDecoderStream();
-  const readableStream = port.readable.pipeThrough(decoder);
-  const reader = readableStream.getReader();
-
+  const readableStream = port.readable;
+  const reader = readableStream.pipeThrough(decoder).getReader();
+  
   try {
     while (true) {
       const { value, done } = await reader.read();
-      if (done) {
-        break;
-      }
-      console.log("Received:", value);
+      if (done) break;
+      console.log('Received:', value);
     }
   } catch (error) {
-    console.error("Read error:", error);
-  } finally {
-    reader.releaseLock();
+    console.error('Read error:', error);
   }
 }
 ```
 
-This code sets up a continuous reading loop that processes incoming data. The `TextDecoderStream` converts the raw bytes from the serial port into human-readable text, which is particularly useful when working with Arduino devices that send text output.
-
-For Arduino projects, you might send data from your board using `Serial.println()` and then read it in your web application. This creates a simple but powerful communication channel that you can use for sensor readings, status updates, or debugging information.
-
-The stream-based approach handles backpressure automatically, ensuring that you do not miss data even when your processing is slower than the incoming data rate. This reliability makes it ideal for real-time applications where missing data could be problematic.
-
-## Writing Data to Serial Devices
-
-Writing data to a serial port follows a similar pattern to reading. You use the port's `writable` property to access a stream that you can write to. This capability allows you to send commands to Arduino boards, configure microcontroller settings, or control actuators and other output devices.
-
-Here is an example of writing data:
+Writing data follows a similar pattern using a writable stream:
 
 ```javascript
-async function writeToPort(port, message) {
+async function writeToSerial(port, message) {
   const encoder = new TextEncoderStream();
-  const writableStream = encoder.writable;
-  const writer = writableStream.getWriter();
-
-  try {
-    await writer.write(message);
-    console.log("Message sent:", message);
-  } catch (error) {
-    console.error("Write error:", error);
-  } finally {
-    writer.releaseLock();
-  }
+  const writableStream = port.writable;
+  const writer = writableStream.pipeThrough(encoder).getWriter();
+  
+  await writer.write(message);
+  await writer.close();
 }
 ```
 
-When sending commands to Arduino, you typically need to include a newline character to signal the end of a command:
+This approach allows for real-time communication where your web application can continuously receive data from a microcontroller while simultaneously sending commands. For example, you could create a web interface that displays temperature readings from an Arduino sensor in real-time while accepting threshold settings from the user to adjust device behavior.
 
-```javascript
-await writeToPort(port, "HELLO\n");
-```
+## Working with Arduino
 
-The Arduino can then read this command and respond accordingly. This request-response pattern forms the foundation of many web-to-hardware applications.
+Arduino boards represent the most popular use case for the Chrome Web Serial API among hobbyists and educators. Almost all Arduino boards support serial communication over USB, making them immediately compatible with the web API.
 
-For more complex applications, you might implement a protocol that includes command codes, data length, and checksums. This approach provides better reliability and allows for more sophisticated interactions between your web application and connected devices.
-
-## Working with Arduino and Microcontrollers
-
-Arduino boards are among the most popular devices for use with the Web Serial API. Their widespread adoption, affordable pricing, and beginner-friendly development environment make them perfect for learning serial communication. Most Arduino boards, including the Arduino Uno, Mega, and Nano, provide USB connectivity that appears as a serial port to the computer.
-
-To communicate with Arduino from your web application, you need to set up both the Arduino sketch and the JavaScript code. On the Arduino side, you initialize serial communication in the `setup()` function:
+To get started, you'll need your Arduino connected to your computer via USB and loaded with a sketch that uses Serial communication. A simple example that reads commands and responds accordingly:
 
 ```cpp
 void setup() {
-  Serial.begin(9600);  // Match this with your web app's baudRate
+  Serial.begin(9600);
+  pinMode(LED_BUILTIN, OUTPUT);
 }
 
 void loop() {
   if (Serial.available() > 0) {
-    String command = Serial.readStringUntil('\n');
-    // Process command and respond
-    Serial.println("Received: " + command);
+    char command = Serial.read();
+    if (command == '1') {
+      digitalWrite(LED_BUILTIN, HIGH);
+      Serial.println("LED ON");
+    } else if (command == '0') {
+      digitalWrite(LED_BUILTIN, LOW);
+      Serial.println("LED OFF");
+    }
   }
 }
 ```
 
-This simple sketch listens for incoming commands and echoes them back with a prefix. You can expand this pattern to control LEDs, motors, sensors, or any other hardware connected to your Arduino.
+This sketch listens for incoming serial commands and controls the built-in LED accordingly. Using the Chrome Web Serial API, you can create a web page with buttons that send '1' and '0' characters to turn the LED on and off.
 
-Microcontrollers beyond Arduino also work well with the Web Serial API. Devices like the ESP32, ESP8266, and various STM32 boards support serial communication and can be accessed in similar ways. The ESP32, for example, supports both traditional serial over USB and Bluetooth Serial, giving you additional flexibility in how you connect.
+The combination of Arduino's accessibility and the Chrome Web Serial API's reach has enabled countless web-controlled projects. From home automation dashboards to scientific data collection tools, developers are building innovative applications that bridge the physical and digital worlds.
 
-When working with microcontrollers, remember that they often reset when a serial connection is established. This behavior is normal and allows the board to prepare for communication, but it can cause issues if you need to maintain a continuous connection. Some boards provide options to disable this auto-reset behavior, which can be useful for specific applications.
+## Connecting Other Microcontrollers
 
-## Handling Connection Errors and Disconnections
+While Arduino is the most common starting point, the Chrome Web Serial API works with numerous other microcontrollers and development boards. Popular alternatives include ESP32, ESP8266, Raspberry Pi Pico, and various STM32 boards.
 
-Real-world applications must handle various error conditions gracefully. Users might disconnect devices unexpectedly, cables might become loose, or communication errors might occur. Your code should anticipate these situations and respond appropriately.
+The ESP32 and ESP8266 from Espressif are particularly powerful options that include Wi-Fi capabilities alongside their serial interfaces. These boards can operate as both serial devices and network-connected IoT nodes, enabling hybrid applications that combine local hardware control with cloud connectivity.
 
-The Web Serial API provides event listeners for tracking connection state:
+The Raspberry Pi Pico, with its RP2040 microcontroller, offers dual-core processing and flexible I/O options. Its USB interface can be configured to appear as a serial device, making it directly compatible with the Chrome Web Serial API.
 
-```javascript
-port.addEventListener("disconnect", (event) => {
-  console.log("Device disconnected");
-  // Handle disconnection - update UI, attempt reconnect, etc.
-});
-
-port.addEventListener("connect", (event) => {
-  console.log("Device connected");
-  // Handle new connection
-});
-```
-
-You should also implement error handling in your read and write operations. When errors occur, you can attempt to recover by closing and reopening the port, or you can notify the user and request manual intervention.
-
-For robust applications, consider implementing a heartbeat mechanism where the web application and device periodically exchange messages to verify the connection is still alive. If no heartbeat is received within a timeout period, you can trigger reconnection logic.
+When working with any microcontroller, the key requirements are simple: the board must present itself as a serial device over USB, and both the firmware and your web application must agree on communication parameters like baud rate and data format.
 
 ## Practical Applications and Use Cases
 
-The Web Serial API enables numerous practical applications across different domains. In education, it allows students to build web interfaces for their hardware projects without learning complex native development. In industry, it provides a way to access diagnostic information and control equipment from web-based management dashboards.
+The Chrome Web Serial API enables numerous practical applications across different domains. Educational tools allow students to learn programming and electronics through browser-based interfaces that communicate directly with hardware. Researchers can create custom data acquisition systems that display sensor readings in real-time charts and graphs.
 
-One popular use case is building custom dashboards for home automation projects. You can connect Arduino or ESP32-based sensors to measure temperature, humidity, light levels, and other environmental parameters, then display this data in a beautiful web interface. The real-time nature of serial communication ensures that your dashboard always shows current values.
+Industrial applications benefit from the ability to configure and monitor equipment through web interfaces. Rather than requiring specialized software installation, technicians can access device configuration pages directly in their browsers. This approach simplifies deployment and ensures compatibility across different operating systems.
 
-Another application is programmable CNC machines and 3D printers. Many of these devices use GRBL or similar firmware that communicates via serial. By implementing a web-based controller, you can send G-code commands directly from the browser, monitor printing progress, and even queue print jobs.
+ makers and hobbyists have embraced the technology for home automation projects, robotics control panels, and creative installations. The accessibility of the API means that sharing your project with others is as simple as sending them a URL—they can interact with your hardware without installing anything.
 
-For creative projects, artists and makers use the Web Serial API to create interactive installations. Whether controlling LED matrices, servos, or sound synthesizers, the ability to communicate from a web page opens up endless creative possibilities.
+If you're building applications that involve multiple browser tabs or extended use of serial connections, consider how background processes might impact performance. **Tab Suspender Pro** helps manage resource usage by automatically suspending tabs you're not actively using, which can be particularly useful when running hardware monitoring dashboards alongside other work. By reducing memory consumption in background tabs, it helps keep your browser responsive while maintaining serial connections in the tabs you need.
 
-## Optimizing Browser Performance
+## Error Handling and Best Practices
 
-When building applications that communicate with serial devices, you might notice effects on browser performance, especially if your application maintains multiple connections or processes high-frequency data. Each active serial connection consumes system resources, and processing incoming data can impact page responsiveness.
+Robust error handling is essential when working with serial connections, as hardware communication can fail in numerous ways. Users may disconnect devices, cables may become loose, and electrical interference can corrupt data transmissions.
 
-One way to manage this is by implementing efficient data handling strategies. Instead of processing every single byte as it arrives, consider buffering data and processing it in batches. This approach reduces the overhead of frequent function calls and can significantly improve performance.
+The Chrome Web Serial API provides error events through the port's readable and writable streams. Your application should listen for these events and respond appropriately, potentially attempting reconnection or alerting the user to the issue.
 
-For users who run multiple tabs or applications while working with serial devices, browser resource management becomes especially important. Extensions like Tab Suspender Pro can help by automatically suspending inactive tabs, freeing up memory and processing power for your serial communication tasks. This can be particularly useful during long-running hardware projects where you need to keep the serial connection open while working in other tabs.
+```javascript
+port.addEventListener('disconnect', (event) => {
+  console.log('Device disconnected');
+  // Handle disconnection gracefully
+});
+```
 
-Additionally, consider using web workers for heavy data processing. By moving computational tasks off the main thread, you keep your UI responsive even when processing large amounts of serial data. Web workers can handle parsing, filtering, and transforming data without blocking the user interface.
+When closing a port, always ensure that streams are properly terminated:
+
+```javascript
+async function closePort(port) {
+  if (port.readable) {
+    await port.readable.cancel();
+  }
+  if (port.writable) {
+    await port.writable.close();
+  }
+  await port.close();
+}
+```
+
+Best practices for production applications include implementing connection timeouts, providing clear user feedback during connection attempts, and designing graceful degradation when devices are unavailable.
 
 ## Security Considerations
 
-Security is paramount when working with hardware connections from web applications. The Web Serial API includes several protections, but developers must also follow best practices to ensure their applications are secure.
+Security remains a critical consideration when using the Chrome Web Serial API. The requirement for user gesture (click or keypress) before requesting port access prevents websites from silently scanning for and accessing devices without permission.
 
-Always verify the data you receive from serial devices before using it. Malicious devices could potentially send crafted data designed to exploit vulnerabilities in your application. Implement input validation and sanitization to protect against injection attacks.
+However, once granted access, a website can potentially interact with connected devices in powerful ways. This capability underscores the importance of only using trusted websites with serial devices. Malicious sites could theoretically send commands that cause hardware to behave unexpectedly or even damage certain devices.
 
-Be cautious about the permissions you request. Only ask for access to specific devices when needed, rather than requesting broad access. Users are more likely to trust applications that demonstrate respect for their privacy and security.
-
-When deploying applications to production, ensure they are served over HTTPS. This requirement is mandatory for the Web Serial API to function, but it also protects your users from man-in-the-middle attacks that could intercept sensitive data.
+For applications requiring additional security, consider implementing authentication mechanisms within your communication protocol. Include verification steps that ensure commands come from authorized users, especially for devices that control physical systems or access sensitive data.
 
 ## Conclusion
 
-The Chrome Web Serial API represents a significant leap forward in web capabilities, enabling direct communication between browsers and hardware devices. From simple Arduino projects to complex industrial applications, this API provides the foundation for innovative solutions that bridge the physical and digital worlds.
+The Chrome Web Serial API represents a significant milestone in bringing hardware connectivity to the web platform. By enabling direct serial communication through browsers, it removes barriers that previously required native software and opens hardware development to a broader audience.
 
-By understanding how to request port access, configure baudrate settings, and implement read/write operations, you can create powerful applications that interact with microcontrollers and other serial devices. The key to success lies in proper error handling, performance optimization, and security awareness.
+Whether you're building educational tools, industrial monitoring systems, or creative maker projects, the API provides a capable foundation for browser-to-hardware communication. Understanding serial port access, working with Arduino and other microcontrollers, and properly configuring baudrate settings are essential skills for anyone exploring this exciting intersection of web development and physical computing.
 
-As you build your projects, remember that the web platform continues to evolve, adding new capabilities that expand what is possible. The Web Serial API is just one example of how modern browsers can connect to the physical world, and the future holds even more exciting possibilities for web-based hardware interaction.
+As browser technologies continue to evolve, we can expect even more powerful capabilities for hardware interaction. The Chrome Web Serial API stands as a testament to what's possible when web platforms embrace the physical world.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

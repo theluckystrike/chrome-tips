@@ -103,3 +103,7 @@ The Chrome extensions we've explored in this guide represent some of the most va
 What makes these extensions particularly powerful is their ability to work together. You might use Wappalyzer to research a competitor's tech stack, use Lighthouse to audit their performance, use React DevTools to understand how they built certain features, and use daily.dev to stay current with the technologies they use. This integrated approach to browser-based development tools can significantly enhance your productivity and help you build better applications.
 
 Remember that the best developer tools are the ones that fit seamlessly into your workflow. We encourage you to try these extensions, customize their settings to match your preferences, and discover how they can transform your browsing experience into a more productive development environment. The Chrome extension ecosystem continues to evolve, and these tools represent the current state of the art for developers who want to work smarter, not harder.
+-e 
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

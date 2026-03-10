@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome vs Firefox 2026 Comparison"
 description: "Comprehensive Chrome vs Firefox 2026 comparison covering performance, privacy, extensions, customization, and sync features. Find the best browser for your needs."
 date: 2026-01-15

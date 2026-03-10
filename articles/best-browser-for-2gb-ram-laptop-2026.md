@@ -82,6 +82,4 @@ The best browser for 2GB RAM laptop 2026 is one that balances features with effi
 
 Remember that the browser is only part of the equation. Keeping your tabs organized, limiting extensions, and using tools like Tab Suspender Pro all work together to give you a smoother browsing experience. Try a few different browsers and see which one feels fastest on your specific laptop, because performance can vary depending on your hardware and what types of websites you visit most.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

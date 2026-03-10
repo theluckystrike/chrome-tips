@@ -76,6 +76,4 @@ Consider combining your ad blocker with other privacy tools. A VPN can add an ex
 
 Finally, remember that ad blockers support websites through acceptable ad programs. If you want to support your favorite sites while still reducing annoying ads, look for options that include acceptable ads features.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

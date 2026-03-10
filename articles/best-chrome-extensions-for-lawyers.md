@@ -70,6 +70,4 @@ You do not need to install every extension at once. Start with one or two that a
 
 Remember that the best extensions are the ones you actually use consistently. Rather than overwhelming yourself with too many tools at once, focus on building habits with a few key extensions that make a real difference in your daily workflow.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

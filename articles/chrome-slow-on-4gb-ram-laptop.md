@@ -72,15 +72,11 @@ If you're running Windows 10 or 11 on a 4GB machine, the operating system itself
 
 Some people in this situation find that switching to a lighter Linux distribution makes a huge difference, since the OS uses less RAM and leaves more for Chrome.
 
-If Chrome's built-in Memory Saver isn't enough, you might want to try a more powerful alternative like Tab Suspender Pro. This extension gives you much more control over when and how tabs are suspended. On a 4GB RAM machine, this level of control can be the difference between a usable computer and a constant headache. Tab Suspender Pro can be configured to automatically suspend inactive tabs after a certain amount of time, freeing up crucial RAM for the pages you are actually using.
+## Use Tab Suspender Pro for Better Memory Control
 
-## The Honest Truth
+While Chrome's built-in **Memory Saver** is a good start, it often isn't enough for a **4GB RAM laptop**. If you need more granular control over your **system resources**, consider using **Tab Suspender Pro**. 
 
-4GB of RAM is the minimum for comfortable Chrome browsing in 2025, and it requires discipline. You can't leave 20 tabs open, run a dozen extensions, and stream music in the background the way you could with 8GB or 16GB. But with the right habits — few tabs, few extensions, Memory Saver enabled, and tools like Tab Suspender Pro — Chrome is perfectly usable.
+This extension takes **tab management** much further by allowing you to set custom **idle timers** for when a tab should "hibernate." It also lets you see exactly how much **RAM** is being saved in real-time. For users on limited hardware, **Tab Suspender Pro** is an essential tool because it prevents background tabs from ever reaching the point where they force your computer into using slow **disk swap**. By keeping your **memory usage** lean, you ensure that Chrome remains responsive even during heavy research sessions.
 
-If you're in a position to upgrade your RAM (many laptops allow it), that one upgrade will transform your experience more than any software tweak ever could.
-
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

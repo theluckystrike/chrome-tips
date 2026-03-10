@@ -60,14 +60,9 @@ Second, be thoughtful about which websites you allow to access your camera or wh
 
 Third, consider using extensions or settings that limit how websites can track you. Tools that block certain types of tracking can add additional layers of privacy. Tab Suspender Pro, for example, can help you manage your browser tabs more effectively and reduce the overall attack surface of your browser by suspending inactive tabs that might be running scripts you are not aware of.
 
-Finally, keep your Chrome browser updated. Google regularly updates Chrome to improve privacy protections and fix potential security issues. Running the latest version ensures you have the most recent privacy features and security fixes.
+Finally, consider your overall browser performance. Running **Face Detection** algorithms is computationally expensive and can drain your **laptop battery** or slow down your computer if you have many other tabs open. 
 
-## Understanding the Balance Between Features and Privacy
+Using **Tab Suspender Pro** is an excellent way to handle this. It automatically "hibernates" background tabs, freeing up **RAM** and **CPU** resources so that your active **Shape Detection** tasks run smoothly and without lag. By keeping your browser lean, you ensure that high-performance **Web APIs** have the resources they need to function correctly.
 
-The Chrome Shape Detection API face detection feature represents a broader tension in modern web browsing between convenience and privacy. These powerful browser capabilities enable features that many users find genuinely useful, but they also provide new ways for websites to collect information.
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-Being informed about how these features work is the first step to making choices that align with your comfort level. You do not have to disable face detection entirely if you find it useful, but you should understand which websites are using it and what they are doing with that capability.
-
-Chrome provides the tools to manage these permissions, but it is up to each user to configure them according to their preferences. Regular privacy checkups and thoughtful browsing habits go a long way toward maintaining control over your personal information while still enjoying the benefits of modern web features.
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

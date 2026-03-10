@@ -70,6 +70,4 @@ If browser performance is your main problem, Tab Suspender Pro can help. If writ
 
 Once you find the right combination of extensions, you will notice a significant improvement in your ability to work efficiently and effectively. Small improvements in your daily workflow add up to big gains in productivity over time.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

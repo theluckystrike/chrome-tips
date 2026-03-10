@@ -76,6 +76,4 @@ If browser slowness slows you down, start with Tab Suspender Pro. If organizatio
 
 Once you find the right combination of extensions, you will notice improvements in both your browser performance and your overall productivity. Small enhancements to your daily workflow accumulate over time, helping you become a more effective and efficient data analyst.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

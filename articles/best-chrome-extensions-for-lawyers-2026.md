@@ -70,4 +70,4 @@ Avoid installing too many extensions at once. Each one adds to Chrome's resource
 
 Remember that your browser is central to your legal practice. Keeping it organized, fast, and secure directly impacts your ability to serve your clients effectively.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

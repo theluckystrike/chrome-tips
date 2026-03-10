@@ -70,4 +70,4 @@ You might also consider reviewing Chrome's privacy settings periodically. Chrome
 
 Remember that encrypted DNS is just one layer of online privacy. Using a reputable VPN service, being cautious about the websites you visit, and keeping your browser updated are all important practices that work together to keep you safer online.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

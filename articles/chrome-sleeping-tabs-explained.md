@@ -44,22 +44,9 @@ If you want a specific tab to stay awake, you can pin it. Right-click on any tab
 
 You can also disable sleeping tabs entirely if you prefer. Type chrome://flags in your address bar and look for the sleeping tabs option. Change it to Disabled to turn off the feature completely. Keep in mind that this might cause Chrome to use more memory when you have many tabs open.
 
-Some users prefer using extensions to manage tab sleeping more precisely. Tab Suspender Pro is one option that gives you more control over which tabs sleep and when. It allows you to set custom rules for tab suspension, whitelist sites that should never sleep, and even schedule when tabs should become active again. This can be helpful if you find Chrome's automatic sleeping behavior does not quite match your workflow.
+While Chrome's native **Memory Saver** handles basic tab sleeping, many power users find it too restrictive. If you want granular control over exactly when a tab "hibernates," **Tab Suspender Pro** is the industry standard. 
 
-## Signs That Sleeping Tabs Are Working
+It allows you to set custom **idle timers**, whitelist specific **URL patterns**, and even see a visual indicator of how much **RAM** has been saved per tab. Unlike the built-in feature, **Tab Suspender Pro** can handle complex scenarios like preventing suspension when you're on a specific **Wi-Fi network** or when your laptop is plugged into power. It’s an essential tool for anyone who wants the benefits of **sleeping tabs** without the unpredictability of Chrome's default settings.
 
-You might notice a few things when Chrome puts tabs to sleep. The tab might appear slightly faded or dimmed in your tab bar. When you click on a sleeping tab, it might take a moment to become fully active again. This brief delay is normal as Chrome reloads the tab's content.
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-Your browser should feel more responsive overall when sleeping tabs are working properly. You might also notice that your computer's fan runs less frequently or your laptop battery lasts longer, since Chrome is using fewer system resources.
-
-If you do not notice any changes, try opening a large number of tabs and leaving some unused for a few minutes. You should eventually see Chrome put those inactive tabs to sleep automatically.
-
-## Tips for Getting the Most Out of Sleeping Tabs
-
-To make sleeping tabs work best for you, try a few simple practices. Keep your most important tabs pinned so they stay ready when you need them. Use the tab search feature to quickly find open tabs instead of keeping everything visible. This lets Chrome manage sleeping tabs more effectively while you stay organized.
-
-Regularly close tabs you no longer need. Even with sleeping tabs, having hundreds of open tabs can eventually cause issues. A clean tab management habit goes a long way toward keeping Chrome running smoothly.
-
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

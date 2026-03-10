@@ -78,4 +78,4 @@ Enable it through Chrome Settings under the Performance section, and let it work
 
 Combined with good browsing habits like closing unused tabs and managing your extensions, Energy Saver helps you get the most out of your laptop battery while still enjoying everything Chrome has to offer.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -80,6 +80,4 @@ If you struggle with too many open tabs slowing down your browser, Tab Suspender
 
 Once you find the right combination of extensions, you will notice a significant improvement in your ability to research, organize, and create content. Small improvements in your daily workflow add up to big gains in productivity over time, giving you more freedom to focus on the creative work you love.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

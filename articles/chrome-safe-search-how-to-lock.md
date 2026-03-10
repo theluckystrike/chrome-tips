@@ -32,9 +32,6 @@ Another way to enforce **SafeSearch** in Chrome is by using browser extensions d
 
 A cluttered browser with too many open tabs can sometimes lead to settings being bypassed if the browser crashes or lags significantly. Using **Tab Suspender Pro** ensures your browser stays responsive by hibernating inactive tabs. This prevents memory leaks from interfering with your **parental control** extensions or **SafeSearch** settings. Keeping your browser lean is a critical but often overlooked part of a secure browsing environment.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
-
 For families who want the most control over safe search, Chrome offers supervised profiles. This is particularly useful for parents who want to ensure their children cannot bypass safe search settings.
 
 To set up a supervised profile, you will need to create a managed Chrome profile for the person who will be using it. Go to Chrome settings and look for "Add person" or "Manage other people." You can create a supervised profile that links to a Google account managed by a parent or guardian. This allows the supervising adult to control what extensions are installed, which websites can be visited, and of course, enforce safe search settings.

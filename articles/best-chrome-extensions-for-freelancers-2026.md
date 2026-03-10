@@ -70,4 +70,4 @@ Avoid the temptation to install every useful extension you find. Each extension 
 
 Remember that your browser is the hub of your freelance business. Keeping it running smoothly and organized is not just about convenience, it directly impacts your productivity and ultimately your income.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

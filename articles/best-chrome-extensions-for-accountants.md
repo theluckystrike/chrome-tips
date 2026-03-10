@@ -76,6 +76,4 @@ Consider the specific pain points in your daily work. Do you struggle with too m
 
 Remember that extensions are meant to support your work, not complicate it. Take time to configure each extension to your preferences and remove any that do not contribute value to your practice.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

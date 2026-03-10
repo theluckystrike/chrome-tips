@@ -80,4 +80,4 @@ Once you have fixed the error, there are some steps you can take to reduce the c
 
 Also, periodically clear your browser cache and cookies to prevent data buildup that can cause problems. Keeping your computer's date and time set correctly is also important for maintaining secure connections.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -70,4 +70,4 @@ The feature is free, built into Chrome, and easy to enable. Whether you are work
 
 Try turning it on and see how it works for you. You might be surprised at how much longer your battery lasts.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

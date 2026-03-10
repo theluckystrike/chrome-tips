@@ -86,4 +86,4 @@ Chrome enterprise features provide a solid foundation for managing browser secur
 
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

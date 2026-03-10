@@ -157,3 +157,5 @@ The competition between the two browsers ultimately benefits users. Chrome's fea
 For most Mac users, Safari provides the best overall experience, particularly when battery life, privacy, and ecosystem integration are priorities. Chrome remains the choice for power users who need extensive extension support, developers who rely on Chrome's developer tools, and users who work across multiple operating systems.
 
 Consider your own needs carefully, try both browsers in your daily workflow, and don't hesitate to use each for different purposes. The flexibility to choose the right tool for each task is one of the advantages of using modern web browsers.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

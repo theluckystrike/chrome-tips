@@ -1,198 +1,115 @@
 ---
-layout: default
+layout: post
 title: "Chrome vs Arc Browser 2026"
-description: "Compare Chrome vs Arc Browser 2026: Spaces, split view, sidebar, and productivity features. Find the best browser for your workflow."
+description: "Comparing Chrome and Arc Browser 2026: Spaces, split view, sidebar, and productivity features. Find which browser best suits your workflow."
 date: 2026-01-20
-categories: [browsers, productivity]
-tags: [chrome, arc-browser, browser-comparison, productivity, spaces, split-view]
+categories: [browsers, productivity, comparison]
+tags: [chrome, arc-browser, browser-comparison, spaces, split-view, productivity]
 author: theluckystrike
 ---
 
-# Chrome vs Arc Browser 2026: Which Browser Reigns Supreme?
+# Chrome vs Arc Browser 2026
 
-The browser landscape in 2026 has never been more competitive. While Google Chrome continues to dominate the market with its familiar interface and extensive extension ecosystem, a new challenger has captured the attention of productivity enthusiasts: Arc Browser. Developed by The Browser Company, Arc takes a radically different approach to web browsing, reimagining how we interact with tabs, windows, and online workspaces.
+The browser landscape continues to evolve in 2026, and two names stand out among power users and productivity enthusiasts: Google Chrome and Arc Browser. While Chrome remains the dominant force in web browsing with over 65% market share, Arc Browser has carved out a devoted following among users seeking a fundamentally different approach to managing their online life. This comprehensive comparison examines how these two browsers stack up against each other in 2026, with particular focus on their approaches to organizing work, multitasking, and enhancing productivity.
 
-If you're trying to decide between Chrome vs Arc Browser in 2026, this comprehensive comparison will help you understand the key differences, especially when it comes to Spaces, split view capabilities, sidebar functionality, and overall productivity features.
+## Understanding the Fundamental Differences
 
-## Understanding the Core Philosophies
+Before diving into specific features, it is essential to understand what makes Chrome and Arc Browser fundamentally different in their approach to web browsing. Chrome, at its core, is designed as a minimalist window into the internet. It prioritizes speed, simplicity, and seamless integration with Google's ecosystem. The browser has remained largely consistent in its philosophy since its launch, offering a clean interface where websites take center stage.
 
-Before diving into specific features, it's essential to understand what each browser is trying to achieve.
+Arc Browser, developed by The Browser Company, takes a radically different approach. Arc treats the browser not just as a tool for visiting websites, but as a comprehensive workspace for organizing your digital life. The browser incorporates concepts from operating system design, treating tabs, bookmarks, and windows as part of a unified system rather than separate entities. This philosophy manifests in features that would seem foreign to traditional Chrome users.
 
-**Chrome** remains the default choice for millions of users. It's built on the Chromium open-source project, offering reliability, cross-device synchronization, and seamless integration with Google's ecosystem. Chrome is designed to be invisible—it gets out of your way so you can focus on the web content itself.
+The choice between Chrome and Arc often comes down to how you think about browsing. Do you see it as a means to an end, a quick way to access information and move on? Then Chrome remains the familiar, reliable choice. Do you view your browser as a primary workspace where you spend hours managing projects, researching topics, and organizing digital resources? Then Arc's innovative approach might transform your workflow.
 
-**Arc Browser**, on the other hand, represents a bold attempt to rethink the browser from the ground up. It's not just a tool for viewing websites; it's positioned as a complete workspace for the web. Arc treats tabs differently, integrates natively with your operating system, and provides powerful organization tools that Chrome simply can't match without third-party extensions.
+## Spaces: Organization for Different Contexts
 
-## Spaces: Organizing Your Digital Life
+One of Arc Browser's most distinctive features is its implementation of Spaces, a system for organizing your browsing into separate contexts. Rather than having all your tabs jumbled together in a single window, Spaces allows you to create distinct environments for different aspects of your life or work.
 
-### Chrome's Approach to Organization
+Imagine you are working on a complex research project while also managing daily email and social media. In Chrome, these would all mix together in your tab bar, requiring you to mentally filter through dozens of open pages. In Arc, you can create a Space called "Research" with all your project-related tabs, and another Space called "Personal" for email and social media. Switching between Spaces instantly transforms your browsing environment, giving you focus on whatever task matters most.
 
-Chrome's tab management has remained relatively unchanged over the years. You can create multiple windows, but there's no native concept of "Spaces" or virtual desktops within the browser itself. To organize your work, you rely on:
+Chrome's response to this concept has been more incremental. The browser offers tab groups, which allow you to color-code and organize tabs within a single window. You can name groups, drag tabs between them, and collapse groups to reduce clutter. However, this feels like an afterthought compared to Arc's native Spaces implementation. Chrome's tab groups are hidden by default, requiring you to click a small expand arrow to see them, whereas Spaces in Arc are always visible and instantly accessible through the sidebar.
 
-- **Tab groups**: Introduced in 2020, tab groups allow you to color-code and label tabs. This is helpful for basic organization but feels like a band-aid solution rather than a fundamental rethinking of how tabs should work.
-- **Bookmarks**: Chrome's bookmark system is functional but dated. You can create folders and nested hierarchies, but it requires manual effort to maintain.
-- **Extensions**: To get robust workspace functionality in Chrome, you need third-party solutions. Popular options include **Tab Suspender Pro**, which helps manage memory by suspending inactive tabs, but this is an add-on rather than a core feature.
+For users who maintain multiple projects simultaneously or who need clear boundaries between work and personal browsing, Arc's Spaces provide a more elegant solution. The ability to have completely separate environments, each with its own set of tabs, favorites, and history, addresses a real pain point that Chrome has never fully solved.
 
-Chrome's approach assumes you'll figure out your own organization system. For many users, this means dozens of open tabs, cluttered bookmark bars, and the occasional "close all tabs" panic when things get too overwhelming.
+Chrome does have the advantage of profile management, which allows you to run separate instances of the browser with different settings, extensions, and saved data. This is useful for separating work and personal accounts, but it requires launching separate browser windows rather than seamlessly switching within a single interface. For many users, this feels clunky compared to Arc's integrated approach.
 
-### Arc's Revolutionary Spaces System
+## Split View: Multitasking Without Compromise
 
-Arc Browser completely reimagines tab organization through its **Spaces** feature. Spaces are essentially separate workspaces within the browser, each with its own set of tabs, favorites, and history. You might have a Space for Work, another for Personal browsing, and yet another for a specific project.
+Both browsers offer split view capabilities, but they approach this feature differently and with varying degrees of polish. Split view, for those unfamiliar, allows you to view two websites simultaneously within the same window, effectively dividing your screen real estate between two pages.
 
-Each Space functions like a mini-browser within Arc. You can customize the look and feel of each Space, set different favorites (essentially bookmarks that appear at the top of each Space), and switch between Spaces instantly using keyboard shortcuts or the command bar.
+Chrome implemented split view relatively recently, and it works by right-clicking on a tab and selecting "Split tab" or using keyboard shortcuts. You can then drag tabs to create side-by-side or top-bottom arrangements. The feature works reasonably well, but it lacks the sophistication of more specialized tools. Chrome's split view is essentially a layout manager for your tabs, nothing more.
 
-The beauty of Spaces is that they encourage a more intentional approach to browsing. Instead of having every tab mixed together in one chaotic window, you can cleanly separate your contexts. Need to switch from work research to personal browsing? Just switch Spaces, and your work tabs disappear, replaced by your personal favorites and recent history.
+Arc Browser takes split view to another level with its more integrated approach. The browser treats split view as a natural extension of its organization system rather than a separate feature. When you split a view in Arc, both pages remain active and accessible, and you can continue to interact with them normally. The split is seamless, and switching between different split arrangements is intuitive.
 
-This separation extends beyond just tabs. Each Space can have its own cookies and session data, meaning you can be logged into your work Google Account in your Work Space while simultaneously being logged into your personal account in your Personal Space. This eliminates the constant loggin
+What makes Arc's split view particularly powerful is its integration with other features. You can split a view and have one side display a Space dedicated to your current project while the other shows a reference Space. This creates a persistent multitasking environment that maintains context across your entire browsing session.
 
-g in and out that Chrome users endure.
+Chrome's split view, while functional, feels like a feature added to check a box rather than a thoughtfully designed workflow enhancement. Users who need serious multitasking capabilities often turn to browser extensions like Tile Tabs or Sideberry to achieve what Arc provides natively. This is not to say Chrome's split view is unusable, but it requires more effort to set up and manage effectively.
 
-### Winner: Arc Browser
-
-When it comes to organization, Arc's Spaces system is genuinely innovative. Chrome's tab groups feel like a compromise compared to Arc's fundamental restructuring of how browsing contexts should work.
-
-## Split View: Multitasking Made Efficient
-
-### Chrome's Multitasking Limitations
-
-Chrome offers split view functionality, but it's limited to the operating system level. On Windows, you can snap Chrome windows to either side of your screen. On macOS, you can use Mission Control or third-party window management tools. However, this isn't a browser feature—it's an OS feature that happens to work with Chrome.
-
-Within Chrome itself, there's no native split view for viewing two tabs side by side. To achieve this, you need to either:
-- Open a second window and position it manually
-- Use an extension like Sidewise or Tile Tabs
-- Accept that you'll be constantly switching between tabs
-
-This limitation becomes apparent when you're doing research that requires comparing two sources, following a tutorial while performing actions in another application, or any scenario where seeing two pages simultaneously would improve your workflow.
-
-### Arc's Native Split View
-
-Arc Browser includes **native split view** as a core feature. You can split any tab horizontally or vertically, creating a side-by-side or top-and-bottom view of two different websites. This is built directly into the browser—no extensions required.
-
-The implementation is elegant. You simply right-click a tab and choose "Split" or use a keyboard shortcut. You can then resize the split panes by dragging the divider, and Arc remembers your preferences for different splits.
-
-What makes Arc's split view particularly powerful is its integration with other features. You can have a split view within a specific Space, meaning your multitasking setup is preserved when you switch between Spaces. This creates a truly productive environment for complex workflows.
-
-For researchers, developers, writers, and anyone who regularly needs to reference multiple sources, Arc's split view alone might be worth switching browsers.
-
-### Winner: Arc Browser
-
-Arc's native split view functionality outperforms Chrome's limitations. The ability to view two websites side by side without external tools or OS-level workarounds is a significant productivity advantage.
+For users who frequently compare information across multiple sites, such as researchers, writers, or shoppers comparing prices, Arc's split view offers a more refined experience. The browser makes it easy to create, save, and return to split view configurations, treating them as first-class citizens in the browsing experience.
 
 ## Sidebar: Your Command Center
 
-### Chrome's Minimal Sidebar
+The sidebar represents another fundamental difference in how Chrome and Arc Browser approach the browsing interface. Chrome, following its minimalist philosophy, offers no permanent sidebar. Any additional functionality comes through extensions that can add sidebars, but these are not part of the core experience.
 
-Chrome's sidebar is essentially non-existent. The browser chrome (the UI surrounding the webpage) is minimal, consisting mainly of the address bar, back/forward buttons, and extension icons. There's no dedicated space for favorites, notes, or quick access tools.
+Arc Browser places significant emphasis on its sidebar, which serves as a central hub for navigation, organization, and quick access to features. The sidebar in Arc is not an afterthought; it is a fundamental part of the interface design, always visible and consistently accessible.
 
-Your bookmarks live in a menu that you have to click to access. Your reading list, if you use Chrome's built-in one, is hidden in the three-dot menu. Extensions that you want quick access to must be pinned to the toolbar, where they compete for limited space.
+Through Arc's sidebar, you can access your Spaces, view your favorites (called "Favorites" rather than bookmarks), see recent downloads, and even interact with built-in utilities like the screenshot tool or note-taking feature. The sidebar also provides quick access to Arc's "Boosts," which are custom modifications you can apply to specific websites to change their appearance or behavior.
 
-This minimalism is intentional—Chrome wants you to focus entirely on the webpage. But for power users who want quick access to their tools and favorites, this design choice can feel limiting.
+Arc's sidebar also integrates with the browser's "Little Arc" feature, which creates lightweight popup windows for quick tasks. You can open a Little Arc window from the sidebar to check email, look up a quick fact, or perform a brief task without leaving your current context. This creates a non-linear browsing experience where you can start tasks, set them aside, and return to them through the sidebar.
 
-### Arc's Feature-Rich Sidebar
+Chrome users who want a similar experience rely heavily on extensions. You can add a sidebar through extensions like Sidebar, but these solutions are never as integrated as Arc's native approach. The extension-based sidebar may conflict with certain websites, consume additional memory, and lack the deep integration that Arc provides.
 
-Arc Browser places a **prominent sidebar** at the left edge of the window, and this sidebar is the heart of the browsing experience. Here's what's included:
+For users who value having their most-used tools and sites accessible without leaving their current page, Arc's sidebar is a significant advantage. It reduces the cognitive load of remembering where you saved something or how to access a particular feature, making everything available through a consistent, predictable interface.
 
-**Favorites Bar**: Instead of a thin strip at the top, your favorite websites appear as icons in the sidebar. You can have unlimited favorites without cluttering your view.
+## Productivity Features: Beyond Basic Browsing
 
-**Command Bar**: Arc's command bar (accessible via keyboard shortcut) is like Spotlight for your browser. You can search your browsing history, switch tabs, navigate to URLs, and perform various actions—all without leaving your keyboard.
+Beyond Spaces, split view, and sidebar, both browsers offer additional productivity features that target different user needs. Chrome's productivity features tend to focus on integration with Google's ecosystem and the vast Chrome Web Store ecosystem of extensions.
 
-**Mini Apps**: Arc includes built-in mini apps for things like weather, screen recording, and notes. These appear in the sidebar and can be accessed instantly.
+Chrome's integration with Google Workspace is seamless. If you use Gmail, Google Docs, Google Drive, or other Google services, Chrome provides excellent synchronization and quick access. Your history, bookmarks, passwords, and settings sync across all your devices through your Google account. This ecosystem integration is something Chrome excels at and that competitors struggle to match.
 
-**Recently Closed**: A quick glance at the sidebar shows your recently closed tabs, making it easy to recover lost work.
+Chrome also benefits from its extension ecosystem. The Chrome Web Store offers thousands of extensions for virtually every productivity need imaginable. Whether you need advanced tab management, note-taking, task management, or specialized tools for specific industries, you can find an extension to fill that need. This extensibility means Chrome can be customized to match almost any workflow, though it requires more setup effort.
 
-**Downloads**: Your download history and active downloads are visible in the sidebar.
+Arc Browser takes a different approach to productivity. Rather than relying on extensions, Arc builds productivity features directly into the browser. The browser includes built-in screenshot tools, note-taking capabilities, and customizable keyboard shortcuts. Arc also emphasizes what it calls "Lollies," which are saved references to specific parts of websites that you can organize and access quickly.
 
-**Settings and Extensions**: Everything is accessible from the sidebar, keeping your browsing interface clean while maintaining quick access to everything.
+Arc's approach to bookmarks differs significantly from Chrome. Instead of the traditional bookmark system where you save URLs to folders, Arc uses a system called "Favorites" that integrates with its sidebar. You can pin frequently visited sites to your sidebar for instant access, and organize them in ways that make sense for your workflow.
 
-The sidebar also adapts to the context. When you're in a specific Space, the sidebar shows that Space's unique favorites and tools. When you switch Spaces, the sidebar updates accordingly.
+The browser also includes innovative features like "Dayview," which shows you a timeline of your browsing activity and can help you find recently visited pages or tabs. This is particularly useful for users who keep many tabs open and sometimes lose track of something they were looking at earlier.
 
-### Winner: Arc Browser
+## Performance and Resource Management
 
-Arc's sidebar transforms the browser from a passive viewing tool into an active command center. Chrome's minimal approach may appeal to some, but for productivity, Arc's sidebar is superior.
+Performance is often cited as Chrome's weakness, with the browser earning a reputation for consuming significant amounts of memory, especially when many tabs are open. Chrome has made improvements over the years, including the Memory Saver feature that suspends inactive tabs to free up RAM. However, Chrome still tends to use more resources than many competitors.
 
-## Productivity Features: The Complete Picture
+Chrome's Memory Saver works automatically in the background, detecting tabs you have not used recently and unloading their content from memory. When you return to those tabs, Chrome reloads them automatically. This feature has improved Chrome's reputation among users with limited RAM, though it requires some configuration to work optimally.
 
-### Chrome's Productivity Ecosystem
+Arc Browser, being a more modern browser, was built with performance considerations from the ground up. The browser tends to be more efficient with system resources, using less memory than Chrome for comparable workloads. This makes Arc particularly attractive for users who want a feature-rich browser without the performance penalty Chrome is known for.
 
-Chrome's productivity comes from its vast extension ecosystem. Want a note-taking app? There's Evernote or Notion. Want to manage tabs better? Try OneTab or Tab Suspender Pro. Want to block distractions? There's Freedom or StayFocusd.
+However, Chrome has advantages in areas where it has had years to optimize. Page rendering speed, JavaScript performance, and compatibility with web standards tend to be slightly ahead in Chrome, simply due to Google's vast resources and the browser's market dominance. Most users will not notice these differences in everyday browsing, but they can matter for users with specialized needs.
 
-The advantage here is choice. You can customize Chrome to match exactly how you want to work. The disadvantage is that you have to configure everything yourself, and many extensions can slow down your browser or cause conflicts.
+For users concerned about performance, both browsers offer solutions. Chrome's Memory Saver can be configured to be more aggressive, and extension management can help reduce resource consumption. Arc's efficient design requires less tweaking out of the box, but its smaller user base means fewer specialized tools and extensions are available.
 
-Chrome also integrates deeply with Google Workspace. If you use Gmail, Google Docs, Google Calendar, and other Google services, Chrome offers seamless authentication and quick access through its new tab page.
+## Extension Ecosystems: Power vs Simplicity
 
-Chrome's sync capabilities are excellent. Your bookmarks, history, passwords, and settings sync across all your devices signed into your Google account. This makes switching between work and personal computers effortless.
+The extension ecosystem represents a major differentiator between these two browsers. Chrome's Web Store is the largest browser extension marketplace, with solutions for virtually every use case. Whether you need powerful tab management, specialized productivity tools, accessibility features, or unique customizations, you can find an extension to meet your needs.
 
-For memory management, Chrome has improved significantly but still consumes more RAM than most competitors. **Tab Suspender Pro** and similar extensions can help by suspending tabs you're not actively viewing, freeing up memory for your active work.
+This extensibility is both Chrome's greatest strength and potential weakness. The ability to customize nearly everything means you can build a perfectly tailored browsing experience, but it also requires more setup time and ongoing maintenance. Extensions can conflict with each other, slow down the browser, or break after updates.
 
-### Arc's Native Productivity Tools
+Tab Suspender Pro is one example of a Chrome extension that addresses a common pain point. This extension automatically suspends tabs you are not actively viewing, freeing up memory and reducing CPU usage. It is particularly useful for users who keep many tabs open for reference while working on other tasks. The extension provides visual indicators showing which tabs are suspended, and you can configure which sites should never be suspended or which should always remain active.
 
-Arc builds productivity features directly into the browser, reducing the need for extensions:
+Arc Browser takes a more curated approach to functionality. Rather than relying on an extension ecosystem, Arc includes many features natively that Chrome users would need extensions for. This approach simplifies the user experience but means you may not find specific tools you need if Arc does not include them.
 
-**Arc Boost**: This feature lets you customize any website, changing colors, fonts, and layouts. While not strictly a productivity feature, it can reduce eye strain and make frequently visited sites more comfortable to use.
+Arc does support some extensions, primarily those designed for Chromium-based browsers, but the selection is much smaller than Chrome's. The browser company has focused on building core functionality rather than enabling a vast extension marketplace. This trade-off makes Arc easier to use but less flexible for users with specialized needs.
 
-**Live Folders**: Similar to iOS widgets, Live Folders in Arc display dynamic content from your favorite sites directly in the sidebar. You can see your calendar events, to-do items, or any other updated information without visiting the site.
+## Making Your Choice: Which Browser Fits Your Needs
 
-**Screen Recording**: Built-in screen recording lets you capture your browser window or the entire screen. This is incredibly useful for creating tutorials, documenting bugs, or explaining concepts to colleagues.
+Choosing between Chrome and Arc Browser in 2026 depends largely on your browsing habits, workflow requirements, and preferences for how you interact with technology. Both browsers are excellent choices, but they serve different use cases better.
 
-**Notes**: Arc includes a native notes feature that lets you jot down thoughts while browsing. Notes are associated with specific tabs or Spaces, keeping your thoughts organized by context.
+Choose Chrome if you are deeply invested in Google's ecosystem, need specific extensions for your work, prefer a traditional browsing experience, or require the maximum compatibility with web standards. Chrome remains the safe choice for users who want a browser that works everywhere and integrates with their existing tools without requiring them to change their habits.
 
-**Link Sharing**: Arc makes it easy to share links with notes or annotations, perfect for collaborative work.
+Choose Arc Browser if you value innovative organization systems, want built-in productivity features without relying on extensions, prefer a browser that challenges conventional design, or need better resource management. Arc is particularly well-suited for knowledge workers, researchers, and anyone who spends significant time managing multiple projects and sources of information simultaneously.
 
-**Picture-in-Picture**: While Chrome has PiP, Arc's implementation is smoother and more reliable.
+Both browsers can coexist on the same computer, and many power users find they use both depending on the task at hand. You might use Chrome for everyday browsing and quick tasks while reserving Arc for focused work sessions where its organizational features shine. This hybrid approach allows you to benefit from each browser's strengths without committing exclusively to one.
 
-**Focus Mode**: Arc includes a built-in focus mode that hides the sidebar and other distractions, letting you concentrate on your current task.
-
-### Winner: Tie
-
-This category depends heavily on your needs. If you want a fully customizable experience and are willing to install and configure extensions, Chrome offers more flexibility. If you prefer a batteries-included approach with thoughtful native features, Arc wins. Both can be highly productive; they just take different paths to get there.
-
-## Performance and Resource Usage
-
-### Chrome Performance
-
-Chrome is known for its speed on modern hardware, but it has a reputation for being memory-hungry. In 2026, Chrome has made significant improvements, but with thousands of extensions installed, it can still slow down your system.
-
-Chrome works best on computers with ample RAM. If you're using a resource-constrained machine, you might experience lag when many tabs are open. As mentioned, extensions like **Tab Suspender Pro** can help by suspending inactive tabs, but this is an additional step Chrome users must take.
-
-### Arc Performance
-
-Arc Browser is generally more lightweight than Chrome, partly because it lacks the extensive extension ecosystem (though it does support some extensions). The browser feels snappy even on older hardware, and its tab management system is more efficient than Chrome's.
-
-However, Arc is still relatively new and occasionally has compatibility issues with certain websites. Chrome's extensive testing and development mean it handles edge cases better.
-
-## Extension Ecosystem
-
-### Chrome: The Winner Here
-
-This isn't even close. Chrome's Web Store has tens of thousands of extensions covering every conceivable need. Need to integrate with every productivity tool? Chrome has you covered. Want obscure functionality? There's probably an extension for it.
-
-Arc, while growing, has a much smaller extension library. Many popular Chrome extensions aren't available on Arc. If you're heavily invested in a specific extension workflow, moving to Arc might require finding alternatives or going without.
-
-## The Verdict: Which Browser Should You Choose?
-
-### Choose Chrome If:
-- You rely heavily on specific Chrome extensions
-- You need seamless integration with Google Workspace
-- Cross-device sync is crucial for your workflow
-- You prefer a traditional browsing experience
-- Website compatibility is your top priority
-
-### Choose Arc Browser If:
-- You want built-in productivity features without extensions
-- Spaces and organization are important to you
-- Split view is a regular part of your workflow
-- You want a modern, innovative interface
-- You're willing to adapt your habits to a new way of browsing
-
-## The Future of Browsing
-
-Both Chrome and Arc represent different philosophies about what a browser should be. Chrome is an evolution of the traditional browser—familiar, reliable, and extensible. Arc is a revolution—a fundamental reimagining of how we interact with the web.
-
-In 2026, we're seeing the beginning of a shift in how people think about browsers. As remote work becomes more prevalent and digital organization becomes increasingly important, tools like Arc that prioritize productivity and workspace management are gaining ground.
-
-However, Chrome isn't going anywhere. Its market dominance, extension ecosystem, and Google's resources ensure it will remain the default choice for most users for the foreseeable future.
-
-The best browser for you depends on your specific needs, workflow, and willingness to embrace change. If you're curious about Arc, try using it alongside Chrome for a few weeks. You might find that its innovative features transform how you work online.
+The browser landscape continues to evolve, and both Chrome and Arc are likely to introduce new features in the coming years. Chrome will probably continue refining its tab management and ecosystem integration, while Arc will expand its feature set and improve compatibility. The best choice today may not be the best choice forever, so periodically reassessing your needs and the available options serves you well.
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

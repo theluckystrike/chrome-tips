@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Web Serial API Guide"
 description: "Learn how to use the Chrome Web Serial API to connect your browser to Arduino, microcontrollers, and serial devices. Complete guide covering port access, baudrate settings, and practical examples."
 date: 2026-01-15

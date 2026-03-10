@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Custom Search Engines Guide"
 description: "Master Chrome custom search engines - learn how to add search engines, create keyword shortcuts, enable site search, and set default search provider for faster browsing."
 date: 2026-01-15

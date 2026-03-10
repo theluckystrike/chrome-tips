@@ -94,4 +94,4 @@ The choice between Chrome and Safari on a Mac often comes down to a trade-off be
 
 By understanding the strengths of each browser and utilizing the right optimization tools, you can enjoy a fast, productive browsing experience on your Mac without constantly worrying about where the nearest power outlet is.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

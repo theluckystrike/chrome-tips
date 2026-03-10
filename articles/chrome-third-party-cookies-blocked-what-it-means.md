@@ -68,4 +68,6 @@ By blocking these cookies, Chrome is pushing the web toward a model that still a
 
 You do not need to do anything if you are comfortable with the changes. Chrome is designed to work well with cookies blocked. If a site you need is not working, the steps above should help you adjust things quickly.
 
+---
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

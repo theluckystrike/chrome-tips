@@ -70,4 +70,6 @@ Most of these extensions offer free versions or trials, so you can test them bef
 
 Text to speech technology has made it easier than ever to consume web content in a way that works for your lifestyle. Whether your eyes need a break, you are multitasking, or you simply prefer listening, the right extension can transform how you interact with online information.
 
+---
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

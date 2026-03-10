@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Web Bluetooth API Guide"
 description: "Learn how to use the Chrome Web Bluetooth API for device pairing, GATT services, characteristics, and secure communication with Bluetooth devices directly from your browser."
 date: 2026-01-15

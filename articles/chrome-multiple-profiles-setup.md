@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Multiple Profiles Setup"
 description: "Learn how to set up and use multiple profiles in Google Chrome for better work-life balance, improved organization, and optimized browsing. Master profile switching, sync settings, and more."
 date: 2026-01-20

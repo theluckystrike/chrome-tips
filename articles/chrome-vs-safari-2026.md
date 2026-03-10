@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome vs Safari 2026 Comparison"
 description: "Comprehensive comparison of Chrome vs Safari in 2026: macOS performance, battery life, privacy features, and ecosystem integration. Find the best browser for your Apple devices."
 date: 2026-01-20

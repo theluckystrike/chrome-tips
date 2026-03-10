@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Autofill Settings Complete Guide"
 description: "Master Chrome autofill settings for addresses, payment methods, passwords, and form detection. Complete guide to managing Chrome autofill, sync, and security."
 date: 2026-01-20
@@ -112,4 +112,4 @@ Remember to periodically review your autofill settings, keep your information up
 
 ---
 
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

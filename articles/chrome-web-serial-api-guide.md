@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Web Serial API Guide"
 description: "Learn how to use the Chrome Web Serial API to connect your browser to Arduino, microcontrollers, and serial devices. Complete guide covering port access, baudrate settings, and practical applications."
 date: 2026-01-20
@@ -83,7 +83,3 @@ Third, think carefully about the data protocol you will use between your web app
 The Chrome Web Serial API represents a transformative capability for web developers, opening the door to hardware interaction that was previously the exclusive domain of native applications. By understanding serial communication fundamentals, including baud rate settings and connection parameters, you can create powerful applications that connect browsers to Arduino boards, microcontrollers, and a wide range of serial devices. Whether you are building educational tools, maker projects, or industrial applications, this API provides the foundation you need to bring your hardware projects into the web browser.
 
 As you develop these applications, remember to consider browser resource management tools like Tab Suspender Pro and design your applications to handle the realities of modern browser environments. With proper planning and implementation, your web-based hardware applications can be as robust and reliable as traditional desktop software, while enjoying all the benefits that web deployment provides.
-
----
-
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

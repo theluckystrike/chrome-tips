@@ -172,4 +172,4 @@ Both browsers are excellent in 2026, and the gap between them has narrowed consi
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

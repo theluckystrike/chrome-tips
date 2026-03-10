@@ -22,7 +22,7 @@ Chrome has been actively supporting both APIs, but WebGPU is increasingly becomi
 
 The core difference between these technologies is their design philosophy. WebGL was built to bring desktop graphics capabilities to the web, while WebGPU was designed specifically for modern GPU architectures and modern computing needs.
 
-## Performance Comparison
+## API Differences and Developer Experience
 
 When it comes to raw performance, WebGPU generally outperforms WebGL, but the differences depend heavily on your specific use case and workload type.
 
@@ -106,7 +106,7 @@ WebGL continues to power countless applications including Google Maps, many brow
 
 If you have an existing WebGL application and are considering migrating to WebGPU, careful planning will make the transition smoother.
 
-### Assessment Phase
+The first step in any migration should be a thorough assessment of your current WebGL implementation's complexity. Simple applications with straightforward rendering logic may be quicker to rewrite from scratch than to adapt incrementally. More complex applications with well-organized code may benefit from a gradual migration approach where you introduce WebGPU alongside existing WebGL code, transitioning components one at a time.
 
 Before beginning migration, evaluate whether the benefits justify the effort. Consider your target audience and their browser usage. If a significant portion of your users is on older browsers or devices that do not support WebGPU, you may need to maintain both WebGL and WebGPU versions or accept reduced compatibility.
 

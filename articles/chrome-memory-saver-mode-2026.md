@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Memory Saver Mode 2026 Guide"
 description: "Complete guide to Chrome Memory Saver Mode in 2026. Learn how to enable memory saver, manage inactive tabs, set exceptions, and optimize browser performance."
 date: 2026-01-20
@@ -96,6 +96,8 @@ Chrome Memory Saver Mode in 2026 represents a powerful solution for anyone who w
 
 Whether you rely on the built-in functionality alone or combine it with extensions like Tab Suspender Pro for enhanced control, Memory Saver makes it possible to work with far more tabs than traditional browsing would allow. Give it a try and discover how much more productive you can be with a browser that works smarter, not harder.
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+

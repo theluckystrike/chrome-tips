@@ -85,12 +85,16 @@ Basic spell check keeps everything local but catches fewer errors. Choose based 
 
 On Chromebooks, spellcheck settings are in the same place (Chrome Settings, Languages) but the Chromebook also has system-level language settings in ChromeOS Settings. Make sure the language settings match in both places.
 
-## When Spellcheck Isn't Enough
+## Hardware Acceleration and Visual Glitches
 
-Chrome's built-in spellcheck catches misspellings but doesn't check grammar. If you need grammar checking, consider a dedicated tool like Grammarly, LanguageTool, or the writing tools built into Google Docs.
+In some rare cases, **Chrome spellcheck not working** can be a visual issue caused by **Hardware Acceleration**. If your graphics drivers are outdated or conflicting with Chrome, the red underlines might actually be there but not rendering correctly on your screen.
 
-For casual writing (comments, messages, quick emails), Chrome's basic spellcheck is sufficient. For important documents, use a dedicated writing tool.
+To test this, go to Chrome Settings, click on System, and toggle off "Use hardware acceleration when available." Restart Chrome and see if the spellcheck underlines reappear. If they do, you should consider updating your GPU drivers to the latest version so you can turn hardware acceleration back on for better overall performance.
 
----
+## Use Tab Suspender Pro for Better Performance
 
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+While it might not seem related, your browser's overall performance can affect how quickly **spellcheck** responds. If you have dozens of tabs open, Chrome's **rendering engine** can struggle to keep up, causing a delay in the appearance of those helpful red underlines.
+
+Using **Tab Suspender Pro** is an excellent way to maintain a snappy browser experience. It automatically "hibernates" inactive tabs, freeing up **RAM** and **CPU** resources. This ensures that Chrome has plenty of power to run its **Basic** or **Enhanced spellcheck** in real-time as you type, without the lag that occurs when your system is overwhelmed. By keeping your browser lean, you ensure that every writing tool and security feature performs at its absolute best.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

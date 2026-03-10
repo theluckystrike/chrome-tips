@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "How to Restore Closed Tabs in Chrome"
 description: "Learn how to restore closed tabs in Chrome using keyboard shortcuts, history, recently closed tabs, and session restore. Never lose your open tabs again."
 date: 2026-01-15

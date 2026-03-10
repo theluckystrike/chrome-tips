@@ -2,7 +2,13 @@
 layout: post
 title: "Chrome About Settings All Pages Explained"
 description: "A walkthrough of every section in Chrome's Settings page, what each option controls, and which defaults you should consider changing."
+date: 2026-03-10
+categories: [features, documentation]
+tags: [chrome-settings, browser-configuration, chrome-tips, accessibility]
+author: theluckystrike
 ---
+
+# Chrome About Settings All Pages Explained
 
 Chrome's Settings page (`chrome://settings`) has grown from a single page to a multi-section interface with over 100 individual options. This guide walks through every section, highlights the settings most users should check, and explains what the non-obvious options actually do.
 
@@ -107,8 +113,7 @@ Chrome can translate pages automatically. The **Offer to translate pages** toggl
 
 **Continue running background apps when Chrome is closed** — when enabled, Chrome processes (like extensions that check for notifications) keep running after you close the browser window. Disable this to fully quit Chrome when you close it.
 
-**Use hardware acceleration when available** — offloads rendering to your GPU. Leave this on unless you experience graphical glitches, in which case turning it off forces software rendering (slower but more compatible).
+**Use hardware acceleration when available** — off disposable rendering to your GPU. Leave this on unless you experience graphical glitches, in which case turning it off forces software rendering (slower but more compatible).
 
----
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

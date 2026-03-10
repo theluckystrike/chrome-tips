@@ -88,5 +88,4 @@ For developers and advanced users, Chrome has an Accessibility Inspector in DevT
 
 By taking advantage of these built-in features, you can tailor your browsing experience to your specific needs, making the internet a more accessible and comfortable place for everyone.
 
----
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -74,6 +74,4 @@ Adjusting settings is a great start, but making privacy a habit is even more eff
 
 Using private browsing mode for sensitive tasks, regularly clearing your data, and being thoughtful about extension permissions all contribute to a more private browsing experience. You do not need to become paranoid, but a few conscious choices help you maintain better control over your information.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

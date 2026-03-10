@@ -58,4 +58,4 @@ The best extension for tab management depends on your specific needs and how you
 
 Most of these extensions offer free versions with basic features, so you can try several to see which one fits your workflow best. Once you find the right tool, you will wonder how you ever managed without it.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

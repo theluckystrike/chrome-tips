@@ -68,4 +68,4 @@ When choosing free Chrome extensions, keep a few things in mind. First, check th
 
 The extensions listed above have proven themselves to be reliable, useful, and respectful of user privacy. They represent the best that the free Chrome extension ecosystem has to offer in 2026.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

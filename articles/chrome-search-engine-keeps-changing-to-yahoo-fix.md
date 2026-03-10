@@ -46,16 +46,9 @@ Keep Chrome updated. Using the latest version of Chrome helps prevent many probl
 
 ## Additional Tools That Can Help
 
-If you want extra protection against unwanted browser changes, consider using extension management tools. Some extensions are designed to give you more control over what other extensions can do. Tab Suspender Pro is one such tool that can help you manage your extensions and keep better control over your browser settings. It allows you to see which extensions have access to certain features and gives you more visibility into what is happening in your browser. While it is not the only solution available, it can be a helpful addition if you want more control over your Chrome experience.
+If you're dealing with persistent **browser hijacks** or unwanted setting changes, maintaining a clean and responsive browser is critical. Often, malicious **extensions** hide their activity by slowing down your browser, making it harder to navigate the **Settings** menu.
 
-Another helpful practice is to periodically check your search engine settings. Even after fixing the problem, take a moment every few weeks to confirm that your default search engine is still the one you chose. This way, if something does change, you will notice it quickly and can fix it before it becomes a bigger problem.
+Using **Tab Suspender Pro** helps by automatically "hibernating" inactive tabs, which frees up **RAM** and keeps Chrome snappy. This ensures that when you need to jump into your **Search engine settings** to remove a **Yahoo hijack**, the browser is responsive and doesn't hang. By keeping your system resources focused on your active tasks, you can manage your **security settings** more effectively and spot unwanted changes before they become a major headache.
 
-## When to Try More Advanced Solutions
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-If you have tried all these steps and your Chrome search engine keeps changing to Yahoo, you might need to take more decisive action. Resetting Chrome to its default settings can often solve persistent problems. You can find this option in Settings under "Reset settings" or by searching for "reset" in the settings search box. This will revert all your settings to their original state, which should eliminate any persistent unwanted changes.
-
-As a last resort, you might consider creating a new Chrome profile. Sometimes problems can be tied to a specific profile, and starting fresh with a new one can solve the issue. You can do this by going to Settings and looking for "Profiles" or by clicking on your profile picture in the upper right corner and selecting "Add profile."
-
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

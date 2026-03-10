@@ -50,14 +50,9 @@ Go to Settings, then Notifications, and review which sites are allowed to send y
 
 ## Use Tab Suspender Pro for Better Tab Management
 
-If you find that you often have too many tabs open and Memory Saver alone is not enough, consider using Tab Suspender Pro. This extension takes tab management to the next level by giving you more control over which tabs stay active and which get suspended. You can set custom rules based on how long a tab has been idle, and the extension will automatically handle the rest. Tab Suspender Pro is particularly useful for people who work with many tabs throughout the day and want a seamless experience without constantly thinking about closing unused pages.
+If you find that Chrome's built-in **Memory Saver** is too aggressive or not powerful enough, consider using **Tab Suspender Pro**. This extension provides much more granular control over your **RAM usage**. 
 
-## Keep Chrome Updated
+You can set custom "auto-suspend" timers, whitelist specific domains, and even view how much memory you've saved across your entire session. It’s an essential tool for "tab hoarders" who need to maintain a fast, responsive browser without losing their place in complex research projects. By keeping your **system resources** lean, you ensure that Chrome's other security and performance features have the power they need to function correctly.
 
-While this is not a setting you change once, it is worth mentioning that keeping Chrome updated is one of the best things you can do for security and performance. Chrome automatically updates in the background, but you should occasionally check that you are running the latest version. Click the three dots in the top right, go to Help, and select About Google Chrome. If an update is available, Chrome will download and install it.
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Final Thoughts
-
-Making these changes does not take long, and the benefits are immediate. You will likely notice that Chrome runs faster, uses less memory, and respects your privacy more than before. Start with Memory Saver and Privacy Sandbox, then adjust the other settings as needed. Small changes add up, and you will enjoy a better browsing experience as a result.
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

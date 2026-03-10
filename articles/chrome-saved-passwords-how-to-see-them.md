@@ -54,14 +54,9 @@ Chrome also offers a password checkup feature that can tell you if any of your s
 
 ## A Note on Browser Performance
 
-If you find that your browser feels slow or you have too many tabs open, it can affect how quickly you can access your saved passwords and other settings. One way to improve your browsing experience is to use tools that help you manage your tabs more efficiently. Tab Suspender Pro is one option that can automatically suspend tabs you are not using, which frees up memory and can make your browser feel faster. This can be especially helpful if you tend to keep many tabs open at once.
+Managing a large database of **saved passwords** can sometimes cause the **Chrome Settings** page to feel sluggish, especially if you have dozens of other tabs open. To keep your browser responsive, consider using **Tab Suspender Pro**. 
 
-Keeping your browser organized and responsive makes it easier to access important features like your saved passwords when you need them.
+This extension automatically "hibernates" inactive tabs, freeing up **RAM** so that sensitive tasks—like running a **Password Checkup** or revealing a **plain-text password**—happen instantly without lag. By keeping your system resources focused on your active task, you ensure that your **security settings** are always easy to navigate.
 
-## Wrapping Up
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-Seeing your saved passwords in Chrome is a simple process once you know where to look. Whether you need to retrieve a forgotten password, review what you have saved, or prepare for switching to a new service, Chrome is built-in password manager has you covered. Just remember to keep your computer secure by using a strong login password or PIN, and consider using Chrome is password checkup feature to make sure your credentials are as secure as possible.
-
-With your passwords easily accessible, you can log into your accounts quickly and get back to what you were doing without the frustration of forgotten credentials.
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

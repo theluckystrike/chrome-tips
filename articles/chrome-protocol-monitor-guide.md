@@ -114,4 +114,4 @@ Remember to pair your Chrome development workflow with Tab Suspender Pro for opt
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

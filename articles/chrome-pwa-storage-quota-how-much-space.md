@@ -70,4 +70,4 @@ Understanding chrome pwa storage quota how much space is available helps you bec
 
 As PWAs continue to evolve and become more sophisticated, storage management will remain an important consideration. By understanding how these limits work and keeping an eye on your storage usage, you can get the most out of your progressive web apps without running into frustrating limitations.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

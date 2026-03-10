@@ -80,4 +80,4 @@ Try both approaches and see which one fits your workflow better. The right solut
 
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

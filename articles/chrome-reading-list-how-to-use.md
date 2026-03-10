@@ -72,7 +72,7 @@ One of the most powerful features of Chrome Reading List is its ability to provi
 
 When you save a page to Reading List while connected to the internet, Chrome caches the content locally on your device. This means that even when you lose internet access or deliberately go offline, you can still open your Reading List and read the saved articles. The browser stores enough of the page content to display it properly, including text, images, and basic formatting.
 
-It's important to note that the offline functionality works best with static content like articles, blog posts, and news stories. Pages with dynamic content that loads continuously—such as social media feeds or live updating dashboards—may not display completely offline. However, for the typical use case of saving articles to read later, Chrome's offline capabilities are more than sufficient.
+The offline functionality works best with static content like articles, blog posts, and news stories. Pages with dynamic content that loads continuously—such as social media feeds or live updating dashboards—may not display completely offline. However, for the typical use case of saving articles to read later, Chrome's offline capabilities are more than sufficient.
 
 ### Optimizing for Offline Reading
 

@@ -1,9 +1,8 @@
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 layout: post
 title: "Chrome for Disney Plus Not Working Fix"
-description: "Disney Plus not loading in Chrome? Learn why this happens and follow simple steps to get Disney Plus working again in your browser."
+description: "Disney Plus not loading in Chrome? Learn simple fixes to get Disney Plus working in your browser again."
 date: 2026-01-15
 categories: [troubleshooting, streaming]
 tags: [chrome-disney-plus-not-working, disney-plus-fix, streaming-problems, browser-troubleshooting]

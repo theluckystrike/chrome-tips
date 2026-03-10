@@ -10,7 +10,7 @@ author: theluckystrike
 
 # Chrome for edX Web App Best Settings
 
-Finding the best Chrome settings for edX web app can make a huge difference in your online learning experience. Whether you are working through a professional certificate program, taking university courses, or picking up new skills, the right browser configuration helps you focus better, load content faster, and avoid those frustrating moments when video playback stutters right before an important explanation.
+Looking for chrome for edX web app best settings? Finding the right Chrome configuration can make a huge difference in your online learning experience. Whether you are working through a professional certificate program, taking university courses, or picking up new skills, the right browser configuration helps you focus better, load content faster, and avoid those frustrating moments when video playback stutters right before an important explanation.
 
 edX is a fantastic platform for online learning, but like many web-based course platforms, it can feel sluggish if your browser is not optimized. Having dozens of tabs open while working through a course is common. You might have your current lesson, reference materials, discussion forums, and maybe a few other courses running at once. This is where Chrome settings come in handy.
 

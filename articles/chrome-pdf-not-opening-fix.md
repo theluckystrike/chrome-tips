@@ -90,10 +90,8 @@ If you need to view a PDF while offline, try downloading it first instead of try
 
 If you frequently work with many browser tabs and find that PDFs and other content are not loading properly, the issue might be related to browser resource management. Having too many tabs open can slow down Chrome and cause issues with how it handles different types of content.
 
-Tab Suspender Pro is an extension that helps manage your tabs by automatically suspending inactive tabs to free up memory and resources. By keeping your browser running smoothly, it can help prevent issues with PDF viewing and other browser functions. The extension is designed to work quietly in the background and can be customized to suspend tabs only when you are not using them, so you do not lose your place in any important work.
+**Tab Suspender Pro** is an extension that helps manage your tabs by automatically suspending inactive tabs to free up memory and resources. By keeping your browser running smoothly, it can help prevent issues with **PDF viewing** and other browser functions. The extension is designed to work quietly in the background and can be customized to suspend tabs only when you are not using them, so you do not lose your place in any important work.
 
-You can find Tab Suspender Pro in the Chrome Web Store and set it up to help keep your browser running smoothly.
+You can find **Tab Suspender Pro** in the Chrome Web Store and set it up to help keep your browser running smoothly.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Speech Recognition API Guide"
 description: "Master Chrome Speech Recognition API for voice input, transcript accuracy, continuous recognition, and multi-language support in web applications."
 date: 2026-01-20

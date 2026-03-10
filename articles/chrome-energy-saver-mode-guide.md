@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Energy Saver Mode Guide"
 <<<<<<< HEAD
 <<<<<<< HEAD

@@ -78,4 +78,4 @@ Taking time to understand and adjust the chrome preload pages setting lets you c
 
 ---
 
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -108,7 +108,7 @@ Threaded compositing distributes compositing work across multiple CPU threads, w
 
 It's important to approach these advanced settings with caution. While they can provide performance benefits, they may also cause instability on certain systems. If you enable any of these features and experience issues, simply return to chrome://flags and reset the experimental features to default.
 
----
+## Conclusion
 
 Chrome hardware acceleration is a powerful feature that can transform your browsing experience when properly configured. By allowing your GPU to handle visual-intensive tasks, you get smoother video playback, faster page rendering, better gaming performance, and improved overall responsiveness.
 

@@ -38,7 +38,7 @@ For websites where the automatic detection does not work or for more precise con
 
 Finding the correct search URL for manual entry sometimes requires a bit of investigation. One effective technique is to perform a normal search on the target website, then examine the URL in your address bar. Look for how the website structures its search queries, typically indicated by parameters like "q=", "query=", or "search=". Replace your actual search term with %s to create the proper format. For example, if a search for "laptop" produces the URL "https://www.example.com/search?q=laptop", your custom search URL would be "https://www.example.com/search?q=%s".
 
-Next to each detected search engine, you'll find a three-dot menu icon. Click on it to reveal options including "Activate," "Make default," "Edit keyword," or "Delete." This is also where you can assign a keyword shortcut if one wasn't automatically assigned.
+## Creating and Using Keyword Shortcuts
 
 The true power of Chrome custom search engines becomes apparent when you start using keyword shortcuts to trigger searches quickly from the address bar. These shortcuts function as triggers that tell Chrome exactly which search engine to use for your query, transforming the address bar into a command center for all your browsing needs. Choosing memorable and logical shortcuts is essential for making the most of this feature, as they become an integral part of your daily browsing workflow.
 

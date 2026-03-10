@@ -56,6 +56,4 @@ In the meantime, explore the settings and features you might not have tried befo
 
 If you find that you genuinely cannot live with the current layout and the experimental flags do not help, you might consider trying a different browser temporarily or alongside Chrome. Some browsers offer more customization options for things like tab positioning, though switching browsers entirely is a bigger commitment.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -20,7 +20,7 @@ When you visit a website that uses periodic background sync, the site can ask Ch
 
 The next time you open that website, Chrome can display the updated content immediately without needing to download everything from scratch. This makes the experience feel faster and more responsive, and it can also save data because the browser only needs to fetch the changes rather than reloading the entire page.
 
-It is important to note that Chrome controls when these sync operations happen. The browser uses smart algorithms to determine the best times to check for updates, typically when your device is connected to power or when you have a Wi-Fi connection. This helps minimize battery usage and ensures the syncing does not interfere with your regular browsing.
+Chrome controls when these sync operations happen. The browser uses smart algorithms to determine the best times to check for updates, typically when your device is connected to power or when you have a Wi-Fi connection. This helps minimize battery usage and ensures the syncing does not interfere with your regular browsing.
 
 ## What Kinds of Sites Use This
 
@@ -62,4 +62,4 @@ Chrome periodic background sync explained simply is a way for websites and exten
 
 If you want to get more out of your browser and manage your tabs more efficiently, tools like Tab Suspender Pro leverage this technology to help you browse smarter. It is just one example of how periodic background sync is being used to improve the Chrome experience for everyone.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

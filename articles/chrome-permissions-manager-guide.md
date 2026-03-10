@@ -107,3 +107,5 @@ Managing Chrome permissions is a critical skill for maintaining your privacy and
 Remember to audit your permissions regularly, be selective about granting new permissions, and take advantage of Chrome's granular per-site controls. With these practices in place, you can enjoy the full power of modern web applications while keeping your sensitive information protected.
 
 Chrome's permissions manager puts you in the driver's seat. Take the time to configure it according to your comfort level, and your browsing experience will be both more powerful and more private.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

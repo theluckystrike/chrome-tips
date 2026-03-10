@@ -82,4 +82,4 @@ Chrome performance settings explained for 2026 boil down to a few key areas: ena
 
 Take a few minutes to explore the Performance section in Chrome settings and enable the features that make sense for your usage patterns. Small adjustments can lead to noticeable improvements in speed and responsiveness.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

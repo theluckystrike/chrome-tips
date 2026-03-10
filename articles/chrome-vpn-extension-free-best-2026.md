@@ -72,4 +72,4 @@ Remember that free VPN extensions are best for basic privacy protection and occa
 
 Give a few different extensions a try to see which one works best with your typical browsing habits. Most of these have been around for years and continue to improve, making 2026 a great time to explore free VPN options for Chrome.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

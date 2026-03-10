@@ -147,3 +147,7 @@ Chrome Reading List is a powerful, underutilized feature that can significantly 
 Whether you're a casual browser who occasionally saves interesting articles or a power user who constantly discovers new content to read, Reading List provides a clean, synchronized solution for managing your reading queue. Combined with extensions like Tab Suspender Pro for managing active tabs, you have a complete system for efficient web browsing and content consumption.
 
 Start using Reading List today, and you'll never have to worry about losing track of interesting articles or having too many tabs open again.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

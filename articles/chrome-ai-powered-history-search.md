@@ -66,4 +66,6 @@ In the meantime, the extensions and approaches described here give you powerful 
 
 The key is understanding that standard Chrome search has limits. By recognizing this problem and seeking solutions, you gain back time that would otherwise be lost to fruitless searching.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

@@ -74,4 +74,6 @@ The best approach is to experiment with different settings and find what works f
 
 Take some time to review your Chrome settings, clear any data you are uncomfortable with, and adjust the autocomplete options to match your needs. A few minutes of configuration can make your browsing experience feel much more personalized and private.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

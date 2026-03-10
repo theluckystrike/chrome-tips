@@ -54,4 +54,4 @@ For users who frequently have many tabs open, keeping track of everything can be
 
 Explore Chrome settings regularly to discover new features and customize your browsing experience. Voice search is just one of many tools Chrome provides to make your time online more productive and enjoyable.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

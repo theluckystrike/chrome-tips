@@ -66,4 +66,4 @@ If freezing continues despite trying these solutions, your computer might have a
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

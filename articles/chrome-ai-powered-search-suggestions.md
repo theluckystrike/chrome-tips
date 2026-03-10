@@ -62,4 +62,6 @@ The good news is that Chrome does not force you to accept AI suggestions. You ha
 
 Remember that you can always adjust these settings later as your needs or preferences change. What feels right today might not feel right next year, and Chrome's settings are designed to be flexible.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+---
+
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

@@ -68,4 +68,6 @@ Remember that AI summaries are a tool to enhance your reading, not replace it en
 
 As Chrome continues to develop its AI capabilities, expect to see more features like this appearing in your browser. The goal is to make your browsing experience more efficient and help you get to the information you need faster.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

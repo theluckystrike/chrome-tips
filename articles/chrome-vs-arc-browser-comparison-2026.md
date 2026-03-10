@@ -48,4 +48,4 @@ Many users find it helpful to try both browsers for a short period to see which 
 
 Regardless of which browser you choose, keeping track of many open tabs can become challenging. If you frequently find yourself with dozens of tabs open and notice your browser slowing down, consider using a tab management tool. Tab Suspender Pro helps by automatically suspending inactive tabs to free up memory while keeping your workflow organized. This allows you to keep more tabs open without sacrificing performance, whether you use Chrome or Arc.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

@@ -74,4 +74,4 @@ You do not need to organize everything perfectly right away. Even small improvem
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

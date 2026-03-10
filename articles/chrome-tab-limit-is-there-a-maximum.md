@@ -50,4 +50,4 @@ Try turning on Memory Saver if you have not already. Consider which tabs you act
 
 The bottom line is that while Chrome does not enforce a hard limit on tab count, your computer will let you know when you have pushed too far. By understanding how tabs use your resources and using the tools available to manage them, you can keep your browser running smoothly no matter how many things you are working on.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

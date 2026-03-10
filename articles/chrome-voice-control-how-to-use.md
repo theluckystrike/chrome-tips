@@ -56,4 +56,4 @@ If you find that voice control makes you more productive but you are also concer
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

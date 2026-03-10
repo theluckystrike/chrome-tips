@@ -70,4 +70,4 @@ One solution that many users find helpful is Tab Suspender Pro, which automatica
 
 This approach complements the work that developers do with tools like the User Timing API. Even the fastest website can feel sluggish if your browser is struggling with too many open tabs. By managing your tabs effectively, you ensure that every website you visit can perform at its best.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

@@ -50,7 +50,7 @@ Think about storage space as well. If your phone is running low on storage, addi
 
 Keeping your phone organized and running smoothly involves managing what you add to your home screen. If you find yourself with too many shortcuts, it is easy to remove them just like you would remove an app icon. Simply long-press the icon and choose the option to remove it.
 
-For those who browse extensively on desktop as well as mobile, consider using browser extensions that help you manage tabs and bookmarks across devices. Tools like Tab Suspender Pro can help you keep your browser organized by automatically managing tabs you are not using, which can improve performance and reduce clutter. Tab Suspender Pro and the Zovo extension suite at zovo.one offer helpful solutions for browser management.
+For those who browse extensively on desktop as well as mobile, consider using browser extensions that help you manage tabs and bookmarks across devices. Tools like Tab Suspender Pro can help you keep your browser organized by automatically managing tabs you are not using, which can improve performance and reduce clutter.
 
 When deciding whether to add a website to your home screen, take a moment to think about how often you really will use it. A shortcut that sits untouched on your home screen is taking up visual space and might be better off as a bookmark inside your browser instead.
 

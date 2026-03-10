@@ -52,7 +52,7 @@ Turning off Web and App Activity will prevent Google from saving your searches a
 
 If you want to browse without saving activity to your Google account, you can use Incognito mode. To open an Incognito window, click the three dots in Chrome and select New Incognito window, or press Ctrl+Shift+N on Windows or Command+Shift+N on Mac.
 
-When you browse in Incognito mode, Chrome does not save your browsing history, cookies, or form data to your profile. However, it is important to note that this only prevents local tracking. Websites you visit can still track you, and your internet service provider can see your activity. Incognito mode is useful for temporary private browsing but does not completely stop all tracking.
+When you browse in Incognito mode, Chrome does not save your browsing history, cookies, or form data to your profile. However, this only prevents local tracking. Websites you visit can still track you, and your internet service provider can see your activity. Incognito mode is useful for temporary private browsing but does not completely stop all tracking.
 
 ## Additional Privacy Tools and Extensions
 
@@ -68,7 +68,7 @@ Once you disable ad personalization, you will notice a difference in the types o
 
 You may also notice that some Google services feel less convenient. For example, search results might be less tailored to your interests, and recommendations on YouTube or other Google platforms may be more generic. This is the trade-off for increased privacy. Many users find this acceptable, preferring to sacrifice some personalization for greater control over their data.
 
-It is worth noting that turning off ad personalization with Google does not stop all advertising. You will still see ads, but they will be less relevant to your specific interests. Advertisers still want to reach audiences, and they will use other methods to target ads, but the data they can access will be much more limited.
+Turning off ad personalization with Google does not stop all advertising. You will still see ads, but they will be less relevant to your specific interests. Advertisers still want to reach audiences, and they will use other methods to target ads, but the data they can access will be much more limited.
 
 ## Checking Your Settings Regularly
 

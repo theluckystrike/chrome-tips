@@ -36,9 +36,9 @@ There is also a checkbox for Emulate position unavailable. Checking this tells t
 
 ## Changing Device Orientation
 
-If you are building something that responds to how the user is holding their device, the Orientation section of the Sensors panel is what you need. This is particularly relevant for mobile games, fitness tracking apps that count steps or track movement, or any site that changes its layout based on whether the phone is portrait or landscape.
+If you are building something that responds to how the user is holding their device, the Orientation section of the Sensors panel is what you need. This is particularly relevant for mobile games, fitness tracking apps that count steps or track movement, or any site that changes its layout based on whether the phone is portrait or horizontal.
 
-The Orientation dropdown gives you preset positions like Portrait, Landscape, Portrait Upside Down, and Landscape Left or Right. Choose one and then interact with your site the way you normally would. If the site listens for orientation changes, it will respond as if your device is in that position.
+The Orientation dropdown gives you preset positions like Portrait, Horizontal, Portrait Upside Down, and Horizontal Left or Right. Choose one and then interact with your site the way you normally would. If the site listens for orientation changes, it will respond as if your device is in that position.
 
 For more detailed testing, you can enter specific alpha, beta, and gamma values. These represent rotation around three axes, and they correspond to the way a phone or tablet reports its orientation to websites. Alpha is the compass direction, beta is how much the device is tilted forward or backward, and gamma is how much it is tilted left or right. If you are not familiar with these terms, the preset options are usually enough for most testing scenarios.
 
@@ -56,7 +56,7 @@ Now that you know how to use the tools, here are some real situations where sens
 
 If you are building a store locator, you can test it with locations across the country or around the world without traveling. Enter different cities and see if your results change, if the map centers correctly, and if distance calculations are accurate.
 
-If you have a mobile-first design that switches between portrait and landscape layouts, you can test both orientations quickly without rotating your actual screen or switching between devices.
+If you have a mobile-first design that switches between portrait and horizontal layouts, you can test both orientations quickly without rotating your actual screen or switching between devices.
 
 If your app shows different content based on whether location is available, you can test the unavailable scenario by checking that box and making sure your site does not crash or freeze.
 

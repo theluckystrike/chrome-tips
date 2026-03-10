@@ -128,4 +128,4 @@ Take some time to explore these features with a test PDF. Experiment with fillin
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

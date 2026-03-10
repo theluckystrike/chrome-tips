@@ -10,7 +10,7 @@ author: theluckystrike
 
 # Chrome for Microsoft Teams Web Optimization
 
-If you use Microsoft Teams through Chrome, you might have noticed it can feel sluggish, especially when you have other tabs open or your computer does not have a lot of memory. The good news is that Chrome has several built-in features and settings you can adjust to make Teams run more smoothly. This guide walks you through practical ways to optimize your browser for a better Teams experience.
+If you use chrome for microsoft teams web optimization, you might have noticed it can feel sluggish, especially when you have other tabs open or your computer does not have a lot of memory. The good news is that Chrome has several built-in features and settings you can adjust to make Teams run more smoothly. This guide walks you through practical ways to optimize your browser for a better Teams experience.
 
 ## Why Teams Feels Slow in Chrome
 

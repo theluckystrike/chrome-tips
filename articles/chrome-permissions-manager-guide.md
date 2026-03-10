@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Chrome Permissions Manager Guide"
 description: "Learn how to manage Chrome browser permissions for camera, microphone, location, and notifications. Complete guide to per-site controls and privacy settings."
 date: 2026-01-20
@@ -70,7 +70,7 @@ If you find yourself overwhelmed by notifications, consider using the "Block" op
 
 Chrome also allows you to enable "Quiet notifications" mode, which suppresses notification permission requests and mutes notifications from sites you haven't explicitly allowed. This can significantly reduce interruptions and prevent sites from repeatedly asking for notification access. You can find this setting in Chrome's Settings under "Privacy and security."
 
-## Understanding Per-Site Controls
+## Per-Site Permission Controls
 
 One of the most powerful features of Chrome's Permissions Manager is the ability to set permissions on a per-site basis. Rather than applying a blanket policy to all websites, you can customize access for each individual domain. This granular approach lets you balance functionality with security based on your trust level for each specific site.
 

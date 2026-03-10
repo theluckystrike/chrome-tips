@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "chrome for video downloading legal methods"
-description: "Learn legal ways to download videos using Chrome. Find safe browser extensions and tools that respect copyright while letting you save content for offline viewing."
+description: "Learn legal ways to download videos using Chrome. Find safe browser extensions and tools that respect copyright while letting you save content offline."
 date: 2026-01-15
 categories: [extensions, video, tutorials]
 tags: [video-downloading, chrome-extension, legal, tutorials]

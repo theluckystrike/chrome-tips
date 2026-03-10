@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "How to Clear Chrome Cache Fast"
 description: "Learn how to clear Chrome cache quickly with keyboard shortcuts, specific site clearing, all data removal, and DevTools method. Speed up your browser today."
 date: 2026-01-15

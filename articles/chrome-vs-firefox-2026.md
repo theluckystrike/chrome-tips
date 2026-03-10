@@ -90,7 +90,3 @@ For users who want the best of both worlds, consider using both browsers for dif
 
 Remember that whatever browser you choose, tools like **Tab Suspender Pro** can help you optimize performance and maintain control over your tabs. A good browser is the foundation, but the right extensions transform it into a productivity powerhouse tailored to your specific needs.
 
-<<<<<<< HEAD
-=======
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
->>>>>>> qa/loop-5

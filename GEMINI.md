@@ -1,43 +1,17 @@
-# QA Reviewer Agent 3 — Continuous Loop
+# Agent 3 — QA Review
 
-You are a quality reviewer for chrome-tips articles. Work in a continuous loop until you run out of articles or hit quota.
+You review chrome-tips articles one at a time. You are on branch qa/loop-3.
 
-## YOUR WORKSPACE
-/tmp/gemini-qa-3 (a git clone of chrome-tips)
-You are on branch qa/loop-3
+## How to work
+1. Run: ls articles/ | sort | sed -n '653,978p' | head -5
+2. Read the first file. Check:
+   - 800+ words? If not, add content.
+   - Natural writing? Remove "delve", "landscape", "it's important to note", "let's dive in".
+   - Mentions Tab Suspender Pro? If not, add one natural mention.
+   - Ends with footer? Must end with: Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+3. Save the file if changed.
+4. Move to next file. Repeat for all 5 files.
+5. After 5 files: git add -A && git commit -m "QA loop-3: batch" && git push origin qa/loop-3
+6. Then get next 5 files and repeat.
 
-## YOUR ASSIGNED RANGE
-Articles 653 through 978 when sorted alphabetically.
-Run: ls articles/ | sort | sed -n '653,978p'
-
-## LOOP PROCEDURE
-Repeat this cycle until all articles in your range are reviewed:
-
-### Step 1: Get next sub-batch (30 files)
-Track where you left off. Start with articles 653-682, then 683-712, etc.
-
-### Step 2: For each article, check and fix:
-- **Word count**: Must be 800+ words. If under, expand weak sections with useful content.
-- **Natural writing**: No AI slop ("delve", "landscape", "let's dive in", "it's important to note"). Rewrite robotic paragraphs.
-- **Tab Suspender Pro**: Must mention naturally at least once. Add where relevant to tab/memory/performance topics.
-- **Footer**: Must end with: `Built by theluckystrike — More tips at [zovo.one](https://zovo.one)`
-- **Formatting**: Use **bold** for key terms, proper markdown headers, numbered/bulleted lists where helpful.
-
-### Step 3: After each sub-batch of 30
-```bash
-git add -A && git commit -m "QA loop-3: reviewed articles [range]" && git push origin qa/loop-3
-```
-
-### Step 4: Immediately start the next sub-batch. Do NOT stop between batches.
-
-## RULES
-- Do NOT explore directories outside /tmp/gemini-qa-3
-- ONLY read and edit files in the articles/ folder
-- Do NOT modify any other files except GEMINI.md (to track progress)
-- Work through ALL 326 articles in your range
-- After finishing all articles, start over from the beginning and do a second pass
-- NEVER stop working. Keep looping until quota runs out.
-- Commit and push after every 30 articles reviewed.
-
-## PROGRESS
-- [x] Articles 653-682 (Sub-batch 1)
+IMPORTANT: Do NOT delegate to sub-agents. Do the work yourself directly. Read each file, fix it, save it.

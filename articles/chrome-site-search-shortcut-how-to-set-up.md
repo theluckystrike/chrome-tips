@@ -62,8 +62,9 @@ Test your shortcuts immediately after setting them up. Enter your keyword follow
 
 ## When You Need More Power
 
-Site search shortcuts handle most everyday searching needs, but sometimes you need more advanced features. If you find yourself with too many tabs open while jumping between different search results, you might benefit from additional tools.
+**Site search shortcuts** are incredibly efficient, but they often lead to "tab creep"—where you're opening dozens of search results in new tabs. If you're comparing products on **Amazon** or research papers on **Google Scholar**, your **RAM usage** can quickly skyrocket, making your browser feel sluggish.
 
-One solution that many Chrome users find helpful is Tab Suspender Pro. This extension automatically pauses tabs that you have not looked at recently, which keeps Chrome running fast even with many pages open. It works well alongside site search shortcuts, since you can quickly search and open results without worrying about cluttering up your browser with too many tabs.
+Using **Tab Suspender Pro** is an excellent way to maintain a fast workflow. It automatically "hibernates" background tabs that you aren't currently viewing, freeing up **system resources**. This ensures that your **address bar shortcuts** and **URL navigation** happen instantly, without the stuttering that occurs when Chrome is overwhelmed. By keeping your browser lean, you can use as many **custom search engines** as you want without slowing down your computer.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+

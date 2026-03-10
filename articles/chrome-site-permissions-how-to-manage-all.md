@@ -60,22 +60,9 @@ A common example is with video calling sites. If you blocked camera access, the 
 
 ## Keeping Your Browser Running Smoothly
 
-Managing permissions is part of keeping your browser healthy, but it is not the only thing that matters. If you have many tabs open, your browser can still slow down even if your permissions are carefully managed.
+Managing **site permissions** is a critical part of maintaining a healthy browser, but it's not the only factor that affects performance. If you have dozens of tabs open, your browser can become sluggish even if your **permissions** are perfectly configured.
 
-This is where extensions like Tab Suspender Pro can help. Tab Suspender Pro automatically pauses tabs you have not used recently, which saves memory and keeps Chrome running faster. It does not directly manage permissions, but it is a useful tool for people who like to keep many tabs open without worrying about their browser getting sluggish.
+This is where **Tab Suspender Pro** becomes an essential tool. It automatically "hibernates" inactive tabs, freeing up **RAM** and **CPU** resources. This ensures that when you need to jump into your **Chrome settings** to manage **location access** or **microphone permissions**, the browser is snappy and responsive. By keeping your system resources lean, you can audit your **security settings** without the frustration of lag or browser crashes.
 
-## A Simple Maintenance Routine
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-Getting into the habit of reviewing your permissions takes just a few minutes every few months. Set a reminder on your calendar if that helps. When you do your review, ask yourself a few simple questions for each site.
-
-Does this site still need access to my camera or microphone? Is this site one I visit regularly? Have I noticed any unwanted notifications recently? Does this site need to know my location?
-
-If the answer to any of these questions is no, remove the permission. It is that simple.
-
-## Taking Back Control
-
-You started this article wondering about chrome site permissions how to manage all, and now you have the complete picture. Chrome gives you all the tools you need to see every permission you have granted, change them individually or in groups, and set defaults for the future.
-
-You are in charge of your browser, not the other way around. A few minutes of cleanup now can give you peace of mind and a more private, secure browsing experience.
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

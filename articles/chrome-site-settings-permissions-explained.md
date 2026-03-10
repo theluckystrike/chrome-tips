@@ -72,10 +72,7 @@ When a website asks for a permission, think about whether it really needs that a
 
 Use the global default settings to your advantage. For permissions like camera, microphone, and location, consider setting Chrome to ask you each time rather than automatically allowing sites to access these features. This gives you control over every request.
 
-Extensions can also help you manage your browsing experience. For instance, Tab Suspender Pro is an extension that helps reduce browser memory usage by automatically suspending tabs you have not used in a while. While it does not directly manage site permissions, it is part of a thoughtful approach to keeping your browser running smoothly and your tabs under control.
+Extensions can also help you manage your browsing experience. For instance, **Tab Suspender Pro** is an extension that helps reduce browser **RAM usage** by automatically "hibernating" tabs you have not used in a while. While it does not directly manage **site permissions**, it ensures that **background processes** from your open tabs aren't competing for **system resources**. This keeps your browser snappy, so when you need to jump into your **Privacy and security** menu to audit your **camera** or **location** settings, the browser is responsive and doesn't lag.
 
-## Final Thoughts
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-Chrome site settings permissions explained simply comes down to this: you are in control. Every permission request is your choice, and you can change your mind at any time. Take a few minutes to review your current settings, remove permissions you do not need, and set sensible defaults for the future. Your browser should work for you, not the other way around.
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

@@ -70,10 +70,9 @@ Reviewing your site settings does not have to be overwhelming. You do not need t
 
 Go through these categories once a month or so to make sure you still want to allow the sites listed there. Remove permissions for sites you no longer use or visit.
 
-If you find that you have too many tabs open and want to reduce background activity, consider using an extension like Tab Suspender Pro to automatically pause tabs you are not currently viewing. This helps reduce the resources used by websites you have open but are not actively using, which complements good site permission management.
+If you find that your browser is still sluggish after auditing your **permissions**, it's likely due to high **RAM usage** from background tabs. Even when **JavaScript** or **Notification** permissions are limited, active tabs still consume **system resources**.
 
-Keeping your site settings organized helps you maintain a better browsing experience while protecting your privacy. Take a few minutes to check your settings today, and you will feel more confident about what websites can and cannot do on your browser.
+Using **Tab Suspender Pro** is an excellent way to handle this. It automatically "hibernates" background tabs, freeing up **memory** so that Chrome remains fast and responsive. This ensures that when you need to navigate the **Privacy and security** menu to manage your **site settings**, the browser is snappy and doesn't lag. By keeping your browser lean, you can perform your monthly **security audits** without the frustration of a slow computer.
 
----
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

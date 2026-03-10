@@ -52,30 +52,11 @@ The Side Panel remembers which tool you had open last. If you close it while vie
 
 You can switch between Side Panel tools using the dropdown at the top of the panel. Click the dropdown and select Bookmarks, Reading List, Search, or whatever else is available.
 
-## Side Panel Extensions
+## Side Panel Extensions and Performance
 
-Some extensions are specifically designed for the Side Panel:
+Many modern extensions are specifically designed to work within the **Side Panel**. Dictionary tools can show definitions alongside the page you're reading, and note-taking apps let you jot down ideas without switching tabs.
 
-Dictionary extensions can show definitions alongside the page you're reading. Note-taking extensions let you take notes while browsing. Translation extensions can show translations in the Side Panel.
+However, keeping the **Side Panel** active while browsing resource-heavy sites can strain your **RAM**. This is where **Tab Suspender Pro** becomes incredibly useful. It automatically "hibernates" background tabs that you aren't currently viewing, freeing up **system resources** so the **Side Panel** remains fast and responsive. Whether you're searching through your **bookmarks** or using a **translation extension**, keeping your browser lean ensures a lag-free multitasking experience.
 
-Look for extensions that mention "Side Panel support" in their descriptions on the Chrome Web Store.
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Tips for Getting the Most Out of It
-
-**Keyboard shortcut**: There isn't a universal keyboard shortcut for the Side Panel, but some tools within it have shortcuts. Ctrl + Shift + B toggles the bookmarks bar, and extensions may have their own shortcuts.
-
-**Width adjustment**: You can drag the edge of the Side Panel to make it wider or narrower. On smaller screens, keep it narrow. On larger monitors, give it more room.
-
-**Close when not needed**: The Side Panel uses screen space, so close it when you're not actively using it. It opens instantly when you need it again.
-
-**Pair with tab groups**: Use tab groups for organizing different projects and the Side Panel for quick access to tools and references within each project.
-
-## When Not to Use It
-
-On small screens (13-inch laptops), the Side Panel takes up valuable space. It's most useful on larger displays where you have room for both the panel and a full-width web page.
-
-If you find yourself constantly opening and closing it, it might not fit your workflow. That's fine — it's a tool, not a requirement.
-
----
-
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*

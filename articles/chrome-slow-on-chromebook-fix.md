@@ -76,22 +76,9 @@ Also, if you're using a custom wallpaper that's a very large image file, switchi
 
 ## Consider a Tab Suspender Extension
 
-This might sound contradictory after suggesting you remove extensions, but a tab suspender is one extension that can actually save resources. It automatically suspends tabs you haven't looked at in a while, freeing up the memory they were using.
+While it might sound contradictory after suggesting you remove extensions, a **tab suspender** is one tool that can actually save **system resources**. **Tab Suspender Pro** is an excellent choice for **Chromebooks** because it's lightweight and handles **RAM management** automatically.
 
-The key is to pick a lightweight one that doesn't itself become a resource hog. Look for one with minimal permissions and good reviews.
+It works by "hibernating" tabs you haven't looked at in a while, effectively freezing their **CPU** usage and freeing up memory. This is particularly helpful on **ChromeOS** devices with only **4GB or 8GB of RAM**, as it prevents background tabs from slowing down your active work. By keeping your browser lean, you ensure that your **Chromebook** remains snappy even during heavy multitasking.
 
-## When Nothing Else Works: Powerwash
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-If your Chromebook is still painfully slow after trying everything above, a Powerwash (factory reset) might be in order. This wipes everything and gives you a fresh start.
-
-Before doing this, make sure everything important is backed up to Google Drive. Then go to Settings, then Advanced, then Reset Settings, and choose Powerwash.
-
-After the reset, be selective about what you install. Add extensions one at a time and see how performance holds up.
-
-## The Bottom Line
-
-Chromebook slowness is almost always about resource management. These machines work beautifully within their limits — you just need to be a little more intentional about how many tabs and extensions you're running. Start with closing tabs and removing extensions, and you'll likely solve 80% of the problem without doing anything else.
-
----
-
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*

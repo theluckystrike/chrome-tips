@@ -64,28 +64,9 @@ Try opening Chrome in incognito mode, which disables all extensions by default. 
 
 To find which extension is causing the problem, go back to regular Chrome, click on the three dots, then More tools, then Extensions. Turn off all extensions one at a time, testing Chrome after each one, until you find which extension is causing the slowdown. You can then remove that extension or leave it disabled.
 
-A helpful tip here is to consider using a tab management extension like Tab Suspender Pro, which automatically pauses tabs you are not using. This can significantly reduce the strain on your browser, regardless of whether an update caused the problem. It is not the only solution, but it is one tool that many people find helpful for keeping Chrome running smoothly.
+A helpful tip here is to consider using **Tab Suspender Pro**, which automatically "hibernates" tabs you are not using. When a **Windows Update** causes system-wide lag, reducing Chrome's **RAM** footprint becomes even more critical. 
 
-## Reset Chrome Settings
+By using **Tab Suspender Pro**, you ensure that background tabs aren't competing for **CPU** cycles with the operating system's background update processes. It’s an essential tool for keeping Chrome snappy on **Windows 10** and **Windows 11**, especially immediately following a major system patch.
 
-If nothing else has worked, you can try resetting Chrome to its default settings. This removes your extensions, clears your cache, and resets your settings to how they were when you first installed Chrome.
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-To reset Chrome, go to Settings, then Advanced, then Reset and clean up. Click on Restore settings to their original defaults, then confirm. After the reset, Chrome should run much faster.
-
-Keep in mind that you will need to re-sign in to websites and reconfigure your settings, so this should be a last resort after trying the other steps.
-
-## Make Sure Chrome Is Updated
-
-Sometimes the simplest solution is to make sure you have the latest version of Chrome. Microsoft and Google both release updates around the same time, and there might be a newer version of Chrome that works better with the recent Windows update.
-
-In Chrome, click on the three dots, then Help, then About Google Chrome. Chrome will automatically check for updates and install them if any are available. After the update installs, restart your browser.
-
-## The Bottom Line
-
-Chrome running slow after a Windows update is annoying, but it is usually fixable. Start with updating your graphics drivers, then check your power settings, clear your cache, and try disabling hardware acceleration. These steps solve the problem for most people.
-
-Remember that keeping your browser and your system updated, managing your extensions carefully, and being mindful of how many tabs you have open will all help keep Chrome running smoothly in the long run.
-
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

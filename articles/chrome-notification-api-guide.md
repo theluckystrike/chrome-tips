@@ -2,22 +2,31 @@
 layout: default
 title: "Chrome Notification API Guide"
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> consumer/a63-chrome-notification-api-guide
 description: "Learn how to use Chrome Notification API for push notifications, permission requests, notification actions, and badges in your web applications and Chrome extensions."
 date: 2026-01-15
 categories: [chrome, api, notifications, web-development]
 tags: [chrome-notification-api, push-notifications, web-notifications, chrome-extensions, browser-api]
+<<<<<<< HEAD
 =======
 description: "Learn how to use Chrome Notification API for push notifications, permission requests, notification actions, and badges in your Chrome extensions."
 date: 2026-03-10
 categories: [extensions, development, api]
 tags: [chrome-notification-api, push-notifications, chrome-extensions, browser-api, badges]
 >>>>>>> consumer/a53-chrome-notification-api-guide
+=======
+>>>>>>> consumer/a63-chrome-notification-api-guide
 author: theluckystrike
 ---
 
 # Chrome Notification API Guide
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> consumer/a63-chrome-notification-api-guide
 The Chrome Notification API is a powerful tool that enables web developers and extension creators to engage users through timely, relevant notifications directly in their browser. Whether you are building a web application that needs to alert users about important events or developing a Chrome extension like Tab Suspender Pro that helps users manage their browser resources, understanding how to effectively implement notifications is essential for creating compelling user experiences.
 
 This comprehensive guide will walk you through everything you need to know about the Chrome Notification API, from requesting permissions to implementing advanced features like notification actions and badges. By the end of this article, you will have the knowledge and practical examples to build notification systems that are both effective and user-friendly.
@@ -60,6 +69,7 @@ async function requestNotificationPermission() {
   }
 }
 ```
+<<<<<<< HEAD
 =======
 The Chrome Notification API is a powerful tool that enables extension developers to engage users through timely, relevant messages even when the extension popup is not open. Whether you want to alert users about important updates, remind them of pending tasks, or notify them when background processes complete, understanding how to properly implement notifications is essential for building effective Chrome extensions. This comprehensive guide covers everything you need to know about push notifications, requesting permissions, implementing notification actions, and using badges to keep users informed.
 
@@ -76,9 +86,133 @@ One of the key advantages of the Chrome Notification API is its consistency acro
 Before your extension can display notifications, you must request and obtain permission from the user. This is a critical first step that follows Chrome's security-first approach to protecting user experience. Without proper permission, any attempt to create a notification will fail, so understanding how to request and handle permission states is crucial for any extension developer.
 
 The permission request process begins in your extension's manifest file. You need to declare the "notifications" permission in the permissions array of your manifest.json file. This tells Chrome that your extension intends to use the notification functionality, and Chrome will handle the rest when your extension is installed. The manifest entry looks like this: `"permissions": ["notifications"]`. It is important to note that this permission alone does not guarantee your extension can display notifications—the user must also grant permission when prompted.
+=======
+
+For Chrome extensions, the permission request works differently. You declare the "notifications" permission in your manifest file, and Chrome will automatically prompt the user to grant permission when they install or enable your extension. There is no need to request permission at runtime for extensions, as it is handled during the installation process.
+
+It is important to note that users can revoke notification permissions at any time through Chrome's settings. Your code should always check the current permission status before attempting to display notifications and handle the denied state gracefully. Additionally, you should only request permission when there is a clear user benefit, such as when they are signing up for alerts or enabling a feature that requires notifications.
+
+## Creating Basic Notifications
+
+Once you have permission, creating a basic notification is straightforward. For web applications, you use the Notification constructor, passing an options object that defines the notification's appearance and behavior. The most important properties are the title, icon, and body text.
+
+Here is how to create a basic notification:
+
+```javascript
+function showNotification(title, options) {
+  if (Notification.permission === 'granted') {
+    const notification = new Notification(title, {
+      body: options.body || '',
+      icon: options.icon || '/images/notification-icon.png',
+      badge: options.badge || '/images/badge-icon.png',
+      tag: options.tag || '',
+      requireInteraction: options.requireInteraction || false
+    });
+
+    notification.onclick = function() {
+      window.focus();
+      notification.close();
+    };
+  }
+}
+
+// Usage
+showNotification('New Message', {
+  body: 'You have received a new message from John',
+  icon: '/images/message-icon.png'
+});
+```
+
+For Chrome extensions, you use the chrome.notifications API, which provides more robust options. The create method allows you to specify notification type, priority, and event listeners directly:
+
+```javascript
+chrome.notifications.create(
+  'notification-id',
+  {
+    type: 'basic',
+    iconUrl: '/images/extension-icon.png',
+    title: 'Tab Suspender Pro',
+    message: 'Suspended 5 inactive tabs to save memory',
+    priority: 1
+  },
+  function(notificationId) {
+    console.log('Notification created:', notificationId);
+  }
+);
+```
+
+When designing notifications, keep in mind that users receive many notifications throughout their day. Your notifications should be informative but concise, clearly communicating what happened and why it matters. Use the icon property to make your notifications visually distinctive, and consider using tags to group related notifications so users can easily identify patterns.
+
+## Implementing Notification Actions
+
+Notification actions allow users to interact with notifications directly from the notification center without opening your website or extension. This powerful feature enables quick actions like replying to messages, marking items as read, or performing common tasks with a single click. For an extension like Tab Suspender Pro, actions could allow users to instantly restore suspended tabs or adjust suspension settings directly from the notification.
+
+To implement notification actions in Chrome extensions, you define the actions in your manifest file and handle the corresponding events in your background script. Here is how to set up notification actions:
+
+First, declare the actions in your manifest.json:
+
+```json
+{
+  "permissions": ["notifications"],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
+```
+
+Then create the notification with actions:
+
+```javascript
+chrome.notifications.create(
+  'tab-suspended-notification',
+  {
+    type: 'basic',
+    iconUrl: '/images/tab-suspender-icon.png',
+    title: 'Tab Suspended',
+    message: 'inactive-tabs.com has been suspended to save memory',
+    priority: 1,
+    actions: [
+      {
+        type: 'button',
+        text: 'Restore Tab'
+      },
+      {
+        type: 'button',
+        text: 'Keep Suspended'
+      }
+    ]
+  },
+  function(notificationId) {
+    // Notification created successfully
+  }
+);
+```
+
+Finally, handle the action clicks in your background script:
+
+```javascript
+chrome.notifications.onActionClicked.addListener(function(notificationId, action) {
+  if (notificationId === 'tab-suspended-notification') {
+    if (action.button === 'Restore Tab') {
+      // Restore the suspended tab
+      chrome.tabs.update({ pinned: true });
+      chrome.notifications.clear(notificationId);
+    } else if (action.button === 'Keep Suspended') {
+      // Simply close the notification
+      chrome.notifications.clear(notificationId);
+    }
+  }
+});
+```
+
+Web notifications also support actions, though with more limited capabilities. The Notification API allows you to specify action buttons through the actions option in the notification options object. When a user clicks an action, the notification's onactionclick event fires, allowing you to handle the user's choice appropriately.
+
+When implementing notification actions, it is important to provide actions that genuinely add value. The most useful actions are those that address the most common user responses to your notifications. For example, if your notification alerts users to a new message, including a "Reply" action can significantly improve the user experience by reducing the number of steps needed to respond.
+>>>>>>> consumer/a63-chrome-notification-api-guide
 
 When your extension first attempts to create a notification, Chrome automatically prompts the user to allow or deny notification access. However, it is considered best practice to request permission at a context that makes sense for your extension rather than waiting until you need to display something. You should explain to users why your extension needs to send notifications and what kind of information it will communicate. This transparency helps build trust and increases the likelihood that users will grant permission.
 
+<<<<<<< HEAD
 You can programmatically check the current permission status using the chrome.notifications.getPermissionLevel method. This returns either "granted" or "denied", allowing you to adapt your extension's behavior based on whether notifications are allowed. If permission has not yet been requested, it returns "default", indicating that you should prompt the user or provide a way for them to enable notifications manually.
 
 For extensions like Tab Suspender Pro, which helps users manage inactive tabs to conserve system resources, notifications can be used to inform users when tabs have been suspended or when memory savings have been achieved. By requesting notification permission early in the user onboarding process and explaining the value users will receive, you can ensure a smooth permission request experience.
@@ -312,6 +446,86 @@ self.addEventListener('push', function(event) {
     }
   };
 
+=======
+Badges provide a lightweight way to convey status information directly on your extension's icon in the Chrome toolbar. Unlike notifications, which are meant to be noticed and then dismissed, badges persist on the icon and serve as an ongoing indicator of state. This makes them perfect for showing unread counts, ongoing processes, or any information that users should always be able to see at a glance.
+
+For Chrome extensions, the chrome.action API (or the deprecated chrome.browserAction for older manifest versions) provides badge functionality. You can set badge text, background color, and even display a badge on specific tabs. Here is how to implement badge functionality:
+
+```javascript
+// Set badge text
+chrome.action.setBadgeText({ text: '5' });
+
+// Set badge background color
+chrome.action.setBadgeBackgroundColor({ color: '#FF0000' });
+
+// Set badge for a specific tab
+chrome.action.setBadgeText({
+  text: '3',
+  tabId: specificTabId
+});
+```
+
+Badges are particularly useful for extensions that monitor ongoing activities or maintain state that users need to track. For instance, an email extension might show the number of unread messages, a download manager would show active downloads, and Tab Suspender Pro could display the number of tabs currently suspended.
+
+For web applications, badges are more challenging to implement since websites do not have persistent icons in the browser interface. However, you can simulate badge-like functionality using the favicon or by creating a custom indicator within your web page's UI. Some developers also use the Web Share API or create Progressive Web App (PWA) installable apps that can display badges through the setAppBadge() method, though this is less standardized across browsers.
+
+When using badges, keep the text short and meaningful. A badge can display up to four characters, but it is best to keep it to a single digit or a simple indicator like "!" for important alerts. Also, remember to clear badges when they are no longer relevant, as a badge that remains visible for too long loses its meaning and can become an annoyance.
+
+## Push Notifications for Web Applications
+
+Push notifications allow you to send notifications to users even when your website is not open in a browser tab. This is achieved through the Push API, which combines service workers with a push service to deliver notifications from your server to users' browsers. Push notifications are particularly valuable for re-engaging users who have previously visited your site but may have navigated away.
+
+To implement push notifications, you need three components: a service worker to handle push events, a way to subscribe users to push notifications, and server-side code to send push messages. Here is an overview of how these pieces fit together:
+
+First, register a service worker in your web application:
+
+```javascript
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js')
+    .then(function(registration) {
+      console.log('Service Worker registered');
+      return registration;
+    });
+}
+```
+
+Then subscribe to push notifications:
+
+```javascript
+function subscribeToPush() {
+  navigator.serviceWorker.ready.then(function(registration) {
+    const subscribeOptions = {
+      userVisibleOnly: true,
+      applicationServerKey: urlBase64ToUint8Array(vapidPublicKey)
+    };
+
+    return registration.pushManager.subscribe(subscribeOptions);
+  })
+  .then(function(pushSubscription) {
+    console.log('Push subscription:', pushSubscription);
+    // Send subscription to your server
+    return sendSubscriptionToServer(pushSubscription);
+  });
+}
+```
+
+In your service worker, handle incoming push events:
+
+```javascript
+self.addEventListener('push', function(event) {
+  const data = event.data.json();
+  const options = {
+    body: data.body,
+    icon: data.icon,
+    badge: data.badge,
+    vibrate: [100, 50, 100],
+    data: {
+      dateOfArrival: Date.now(),
+      primaryKey: data.id
+    }
+  };
+
+>>>>>>> consumer/a63-chrome-notification-api-guide
   event.waitUntil(
     self.registration.showNotification(data.title, options)
   );
@@ -339,6 +553,7 @@ The Chrome Notification API provides a rich set of tools for engaging users thro
 Whether you are building a web application that keeps users updated on important events or developing a productivity extension like Tab Suspender Pro that helps users manage their browser resources, the techniques covered in this guide will help you implement notification systems that users appreciate. Remember to always prioritize user experience by requesting permissions thoughtfully, providing genuine value in your notifications, and giving users control over their notification preferences.
 
 As you implement these features in your projects, you will discover countless ways to use notifications to enhance your applications. The key is to start simple, gather user feedback, and iteratively improve your notification strategy based on how users actually interact with your notifications.
+<<<<<<< HEAD
 =======
 Notification actions extend the basic notification functionality by allowing users to interact with your notification directly from the notification center. Instead of simply reading a message and dismissing it, users can take meaningful actions that your extension responds to. This transforms notifications from one-way announcements into interactive communication channels.
 
@@ -388,6 +603,8 @@ The Chrome Notification API is an essential tool for building engaging and effec
 
 Extensions like Tab Suspender Pro demonstrate how notification features can enhance the user experience by providing meaningful updates about background activities. Whether you are building productivity tools, communication apps, or utility extensions, the techniques covered in this guide will help you create notifications that users appreciate and find useful.
 >>>>>>> consumer/a53-chrome-notification-api-guide
+=======
+>>>>>>> consumer/a63-chrome-notification-api-guide
 
 ---
 

@@ -64,4 +64,4 @@ The Chrome Topics API and Privacy Sandbox represent ongoing changes to how your 
 
 By understanding what the Chrome Topics API is and how it works, you are already ahead of most users. Take a few minutes to review your settings, decide what level of tracking you are comfortable with, and make the changes that work best for you. Your browsing privacy is worth the effort.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

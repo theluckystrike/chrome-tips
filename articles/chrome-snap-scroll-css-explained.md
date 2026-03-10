@@ -66,6 +66,4 @@ Using browser extensions that enhance your control over page behavior can also m
 
 Remember that your browsing experience should work for you, not against you. While scroll snapping may have been designed with good intentions, the reality is that it does not work well for everyone in every situation, and there are ways to work around it.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

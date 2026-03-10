@@ -80,4 +80,4 @@ Running a chrome speed comparison test is straightforward and provides valuable 
 
 If memory usage from too many tabs is slowing Chrome down, tools like Tab Suspender Pro can help you manage tabs automatically and keep your browser running smoothly. Regular testing helps you catch performance issues early and maintain the best possible browsing experience.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

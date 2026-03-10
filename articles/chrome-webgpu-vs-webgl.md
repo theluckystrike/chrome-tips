@@ -145,3 +145,5 @@ If you are ready to begin using WebGPU, the first step is ensuring you have a co
 By default, WebGPU is enabled in Chrome, so you do not need to fiddle with experimental flags in most cases. However, if you are developing WebGPU applications and encounter issues, you can navigate to chrome://flags/#enable-webgpu in your address bar to verify that WebGPU is enabled and check for any experimental features that might be relevant to your work.
 
 Chrome DevTools includes excellent support for debugging WebGPU applications. When you open DevTools with a WebGPU page, you will see a new "GPU" tab that provides insights into GPU activity, memory usage, and pipeline utilization. This information is invaluable for optimizing your WebGPU applications and understanding how efficiently your code uses the GPU.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

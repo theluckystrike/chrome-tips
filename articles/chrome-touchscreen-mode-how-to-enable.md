@@ -76,4 +76,4 @@ Getting Chrome to work well on a touchscreen device is definitely possible, you 
 
 Remember that everyone is searching for chrome touchscreen mode how to enable because touchscreen support in desktop browsers is still evolving. By following the steps in this guide, you can make Chrome much more comfortable to use with your fingers, whether you are tapping links, scrolling through articles, or managing multiple tabs.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "chrome reading list how to use"
+layout: default
+title: "Chrome Reading List How to Use"
 description: "Learn how to use Chrome Reading List to save articles for later, enable offline reading, sync across devices, and manage your saved content efficiently."
 date: 2026-01-15
 categories: [browsers, tips]

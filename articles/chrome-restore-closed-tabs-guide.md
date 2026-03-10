@@ -87,7 +87,7 @@ It's also worth noting that history entries can be cleared manually or automatic
 
 Chrome's session restore feature is the most comprehensive way to recover your tabs, and it's also your best defense against losing work. This feature automatically saves your open tabs and windows, allowing you to restore your entire browsing session exactly as you left it.
 
-This menu is dynamic and updates in real-time as you close more tabs. It's also a great way to check if Chrome has preserved tabs you thought were lost — sometimes tabs are accidentally closed without the user immediately noticing, and they remain in this list for a while.
+### Finding and Restoring Tabs from History
 
 Chrome automatically saves your session in the background. If Chrome crashes, closes unexpectedly, or you shut down your computer with tabs open, you'll typically be prompted to restore your tabs when you next open Chrome. This prompt appears as a bar at the top of the new tab page saying "Restore" with the number of tabs that were open.
 

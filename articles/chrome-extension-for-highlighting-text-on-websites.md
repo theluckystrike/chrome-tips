@@ -54,4 +54,4 @@ Consider what matters most for your workflow. If you do light research occasiona
 
 Whatever you choose, the ability to permanently highlight text on websites changes the way you interact with online content. You no longer have to choose between marking important information and losing it. Instead, you can build a personal archive of insights that grows with your curiosity and serves your work over time.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

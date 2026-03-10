@@ -1,10 +1,19 @@
 ---
+<<<<<<< HEAD
 layout: post
 title: "chrome speech recognition api guide"
 description: "Learn how to use Chrome Speech Recognition API for voice input, transcript accuracy, continuous recognition, and multilingual support in your web applications."
 date: 2026-01-15
 categories: [chrome, web-development, api]
 tags: [speech-recognition, voice-input, chrome-api, web-speech, accessibility]
+=======
+layout: default
+title: "Chrome Speech Recognition API Guide"
+description: "Learn how to use Chrome's Speech Recognition API for voice input, transcription accuracy, continuous recognition, and multi-language support in your web apps."
+date: 2026-01-20
+categories: [api, voice, browser]
+tags: [chrome-speech-recognition, voice-input, speech-to-text, web-api, voice-commands]
+>>>>>>> consumer/a38-chrome-speech-recognition-api
 author: theluckystrike
 ---
 

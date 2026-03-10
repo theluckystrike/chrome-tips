@@ -72,7 +72,11 @@ Organizing your Reading List is also straightforward. You can sort articles by d
 
 Regular maintenance is important to prevent your Reading List from becoming overwhelming. Going through your saved articles periodically and removing items you've read or no longer interest you keeps your list manageable. Chrome makes this easy by allowing you to remove individual items or bulk delete multiple selections. You can also mark articles as read manually, which provides a satisfying sense of progress through your collection.
 
+<<<<<<< HEAD
 For users who save articles frequently, consider creating a routine for managing your Reading List. Perhaps you review and clean up your list once a week, removing what you've read and organizing what remains. This habit ensures your Reading List stays focused on content you actually intend to read, rather than becoming a digital graveyard of forgotten links.
+=======
+The offline functionality works best with static content like articles, blog posts, and news stories. Pages with dynamic content that loads continuously—such as social media feeds or live updating dashboards—may not display completely offline. However, for the typical use case of saving articles to read later, Chrome's offline capabilities are more than sufficient.
+>>>>>>> qa/loop-4
 
 ## Advanced Tips and Tricks
 

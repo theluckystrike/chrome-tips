@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome vs Brave 2026 Comparison"
 description: "Comprehensive comparison of Chrome vs Brave browser in 2026. Compare ad blocking, privacy features, crypto wallet integration, extension compatibility, and performance to find your perfect browser."
 date: 2026-01-15

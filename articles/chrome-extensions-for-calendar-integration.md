@@ -78,4 +78,4 @@ Start by trying a few different extensions to see which ones feel comfortable. M
 
 With the right chrome extensions for calendar integration, you can spend less time managing your schedule and more time actually getting things done.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -76,4 +76,4 @@ If you struggle with capturing ideas quickly, try Sticky Notes or a web clipper.
 
 Remember that brainstorming is a skill, and like any skill, it improves with practice and the right tools. By incorporating these extensions into your workflow, you will find it easier to generate ideas, stay organized, and develop your thoughts into something meaningful.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

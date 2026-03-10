@@ -60,6 +60,6 @@ You can also edit saved usernames and passwords if you need to update them. Howe
 
 If you find that you are constantly needing to manage passwords across many devices, you might consider using a dedicated password manager. These tools can store and organize all your credentials securely, and many of them have features that make it easier to generate strong passwords and alert you if any of your accounts have been compromised in a data breach.
 
-For users who want additional convenience when browsing, there are also browser extensions available that can help with tab management and other productivity features. Tab Suspender Pro is one such extension that can help reduce memory usage by automatically suspending tabs you are not actively using, which can be particularly helpful on mobile devices where resources are more limited.
+For users who want additional convenience when browsing, there are also browser extensions available that can help with tab management and other productivity features. **Tab Suspender Pro** is one such extension that can help reduce memory usage by automatically suspending tabs you are not actively using, which can be particularly helpful on mobile devices where resources are more limited.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

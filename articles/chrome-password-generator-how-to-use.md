@@ -74,8 +74,8 @@ Some users also wonder if they can use generated passwords on their phone. Yes, 
 
 ## Getting Started Today
 
-Now that you understand Chrome password generator how to use, there's no reason to continue using weak or reused passwords. The next time you need to create or update a password, let Chrome do the heavy lifting for you. You'll have stronger passwords, better security, and less stress about remembering all those complex character combinations.
+Now that you understand **Chrome password generator how to use**, there's no reason to continue using weak or reused passwords. The next time you need to create or update a password, let Chrome do the heavy lifting for you. You'll have stronger passwords, better security, and less stress about remembering all those complex character combinations.
 
 Take a few minutes to explore Chrome's password settings and familiarize yourself with how the generator works. Once you've seen it in action, you'll wonder how you ever managed without it. Your online accounts will be safer, and you'll have peace of mind knowing that you're taking important steps to protect your digital life.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

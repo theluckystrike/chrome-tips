@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Live Captions Feature Guide"
 description: "Learn how to enable and use Chrome Live Captions for real-time captioning of audio and video content. Discover supported languages, accuracy features, and accessibility benefits."
 date: 2026-01-20

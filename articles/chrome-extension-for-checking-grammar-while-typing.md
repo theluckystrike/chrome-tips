@@ -70,4 +70,4 @@ Try not to fix every suggestion immediately if it breaks your flow. Instead, con
 
 Remember that these tools are helpers, not replacements for thinking about what you write. They catch mistakes but cannot understand your intent or nuance. Use them as a safety net, but always read your important writing yourself before sending or publishing.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

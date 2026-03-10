@@ -100,7 +100,7 @@ For publishers, this means diversifying revenue strategies and building stronger
 
 The Topics API provides one piece of the puzzle, but successful publishers will likely combine multiple approaches. Contextual advertising, which targets based on page content rather than user history, remains relevant and works well with topic-based targeting. Native advertising formats that provide value beyond simple promotion can engage users without relying on invasive tracking.
 
-As you navigate this changing landscape, remember that user trust is paramount. Technologies like the Topics API demonstrate that it is possible to deliver relevant advertising while respecting user privacy, and publishers who embrace these principles will be well-positioned for long-term success.
+As you navigate this changing environment, remember that user trust is paramount. Technologies like the Topics API demonstrate that it is possible to deliver relevant advertising while respecting user privacy, and publishers who embrace these principles will be well-positioned for long-term success.
 
 ---
 

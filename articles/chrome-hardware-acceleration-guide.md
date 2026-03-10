@@ -161,6 +161,4 @@ By understanding these common questions and answers, you can make more informed 
 
 ---
 
-=======
->>>>>>> consumer/a70-chrome-hardware-acceleration-guide
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

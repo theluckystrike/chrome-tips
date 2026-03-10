@@ -94,6 +94,4 @@ If you've tried all these solutions and Chrome still takes forever to load pages
 
 Chrome taking forever to load pages is frustrating, but it's usually fixable. Start with the simplest solutions like closing unused tabs and removing unnecessary extensions, then work through the other suggestions. In most cases, you'll be able to get your browsing speed back to where it should be.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

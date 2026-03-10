@@ -52,4 +52,4 @@ Making it a habit to check the Task Manager occasionally helps you catch problem
 
 The Shift+Esc shortcut puts this powerful tool at your fingertips whenever you need it. Once you start using it regularly, you will find it much easier to keep your browser running smoothly and to troubleshoot issues when they arise.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

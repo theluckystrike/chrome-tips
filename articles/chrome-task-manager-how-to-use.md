@@ -58,6 +58,4 @@ Close tabs you are not using. Every open tab uses memory, even if you are not lo
 
 Update Chrome regularly. Newer versions often include performance improvements and bug fixes that make Chrome run more efficiently. You can check for updates by going to Settings, clicking Help, and selecting About Google Chrome.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -66,6 +66,4 @@ Keeping your computer free of malware is also important for browser performance.
 
 Finally, consider resetting Chrome to its default settings if nothing else works. This will remove all extensions, saved data, and customizations, giving you a fresh start. You can find this option in Chrome settings under the advanced section. Just make sure to back up any important data or bookmarks before doing this.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

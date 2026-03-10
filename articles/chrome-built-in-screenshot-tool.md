@@ -131,3 +131,7 @@ The full page capture feature is perfect for documenting complete webpages, the 
 By mastering these built-in tools, you can significantly improve your productivity when working with web content. Combined with other productivity extensions like Tab Suspender Pro, which helps keep your browser running smoothly, you have a complete toolkit for efficiently capturing, managing, and working with web content.
 
 Next time you need to capture a screenshot in Chrome, skip the extension store and try the built-in tools first. You might be surprised at how powerful and convenient they are.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

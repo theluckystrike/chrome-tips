@@ -66,4 +66,4 @@ Remember that websites themselves can sometimes be the problem. If a server is o
 
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

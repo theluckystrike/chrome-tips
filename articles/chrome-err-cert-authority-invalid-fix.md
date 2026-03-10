@@ -68,4 +68,4 @@ Be cautious about installing browser extensions that claim to fix certificate er
 
 If you work for an organization that uses network filtering, ask your IT department about any certificates you might need to install on your computer. They can provide guidance on how to access internal resources safely.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

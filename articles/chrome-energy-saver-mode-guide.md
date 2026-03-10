@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Energy Saver Mode Guide"
 description: "Learn how Chrome Energy Saver Mode works, when it activates, battery optimization tips, and background throttling to extend your laptop battery life."
 date: 2026-01-15
@@ -98,4 +98,4 @@ The automatic background throttling, reduced visual effects, and intelligent net
 
 Remember that the best approach combines automatic features like Energy Saver Mode with conscious user habits. By understanding how your browser consumes power and taking appropriate measures, you can enjoy the full Chrome browsing experience while making the most of your device battery life.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)

@@ -89,3 +89,7 @@ Finally, remain vigilant against phishing attempts that try to trick you into re
 Chrome Password Checkup represents a significant advancement in making password security accessible to everyday users. By combining breach detection, weakness identification, and reuse monitoring in a single, easy-to-use dashboard, Chrome helps you maintain better password hygiene without requiring expertise in cybersecurity. The automatic password change feature further reduces the effort required to stay secure, making it easier than ever to protect your online accounts.
 
 Take a few minutes today to enable Password Checkup in your Chrome browser and review the status of your saved passwords. If you find compromised, weak, or reused passwords, tackle them one at a time, starting with your most sensitive accounts. Combined with good security habits and complementary tools, Chrome Password Checkup provides a solid foundation for protecting your digital identity in an increasingly connected world.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

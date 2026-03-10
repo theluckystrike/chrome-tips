@@ -201,3 +201,7 @@ In this guide, we covered the fundamentals of NFC reading, the structure and han
 As browser technology continues to evolve, we can expect to see more web APIs that bridge the gap between web and native applications. The Web NFC API is an excellent example of how the web platform is becoming increasingly capable, and learning to work with these APIs now will prepare you for the next generation of web development.
 
 Start experimenting with the Web NFC API in your projects today. The documentation and resources available from Google provide excellent starting points, and the community of developers working with web NFC is growing rapidly. With this knowledge, you are well-equipped to create innovative experiences that connect the physical and digital worlds in meaningful ways.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -29,9 +29,22 @@ For students, Grammarly is particularly valuable because it helps improve the qu
 The premium version of Grammarly offers additional features such as advanced genre-specific suggestions, plagiarism detection, and more sophisticated style recommendations. While the free version covers basic grammar and spelling, the premium features are worth considering for serious academic writing. Many universities and educational institutions now offer Grammarly Premium to students at discounted rates or for free, so it is worth checking if your school provides access.
 
 One of Grammarly's most useful features for students is its ability to explain corrections. When the extension flags an error, you can hover over the suggestion to learn why it was flagged and how to fix it. This educational approach helps students improve their writing skills over time, not just fix mistakes in the moment. The extension also learns from your writing style and preferences, providing increasingly personalized suggestions as you use it.
+<<<<<<< HEAD
 
 ## Todoist: Master Your Academic Tasks
+=======
+>>>>>>> consumer/a58-chrome-extensions-for-students
 
+Effective task management is crucial for academic success, and Todoist is one of the best Chrome extensions for staying organized. This powerful task manager allows you to create, organize, and prioritize assignments, projects, and deadlines across all your courses.
+
+<<<<<<< HEAD
+Todoist's strength lies in its flexibility and intuitive interface. You can create tasks with due dates, set recurring assignments for weekly readings or weekly assignments, add labels and filters to categorize work by course or priority, and break larger projects into smaller, manageable sub-tasks. The extension integrates seamlessly with the Todoist web and mobile apps, ensuring your tasks are always synchronized across devices.
+
+For students managing multiple courses, Todoist's project organization is invaluable. You can create separate projects for each class, color-code them for quick visual identification, and set up views that show you what needs to be done today, this week, or further ahead. The Today view is particularly useful for keeping track of daily assignments and upcoming deadlines.
+
+The extension also offers convenient features like the ability to add tasks directly from your browser's context menu, quick task entry via a keyboard shortcut, and the option to share projects with classmates for group work. Todoist's natural language input makes creating tasks fast—you can simply type "Math homework due Friday at 5pm" and the extension will automatically set the task name, due date, and time.
+
+=======
 Effective task management is crucial for academic success, and Todoist is one of the best Chrome extensions for staying organized. This powerful task manager allows you to create, organize, and prioritize assignments, projects, and deadlines across all your courses.
 
 Todoist's strength lies in its flexibility and intuitive interface. You can create tasks with due dates, set recurring assignments for weekly readings or weekly assignments, add labels and filters to categorize work by course or priority, and break larger projects into smaller, manageable sub-tasks. The extension integrates seamlessly with the Todoist web and mobile apps, ensuring your tasks are always synchronized across devices.
@@ -40,6 +53,7 @@ For students managing multiple courses, Todoist's project organization is invalu
 
 The extension also offers convenient features like the ability to add tasks directly from your browser's context menu, quick task entry via a keyboard shortcut, and the option to share projects with classmates for group work. Todoist's natural language input makes creating tasks fast—you can simply type "Math homework due Friday at 5pm" and the extension will automatically set the task name, due date, and time.
 
+>>>>>>> consumer/a58-chrome-extensions-for-students
 Combining Todoist with Tab Suspender Pro creates a powerful productivity workflow. When you have many tabs open for different courses and research projects, Tab Suspender Pro keeps your browser running smoothly so you can quickly switch between your Todoist task list and the resources you need to complete each task.
 
 ## Noisli: Create Your Perfect Study Environment

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title: "Chrome Password Checkup Tool Guide"
-description: "Learn how to use Chrome Password Checkup to detect compromised passwords, weak passwords, and reuse issues. Complete guide to securing your accounts."
+description: "Learn how to use Chrome Password Checkup to detect compromised passwords, weak passwords, and reuse issues. Complete guide to securing your accounts with auto-change feature."
 date: 2026-01-15
 categories: [security, passwords, chrome]
 tags: [chrome-password-checkup, password-security, compromised-passwords, weak-passwords, password-reuse]

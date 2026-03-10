@@ -72,4 +72,4 @@ Second, be cautious about suspicious emails and messages. Even with two-factor a
 
 Finally, review your security settings periodically. Many services show you a list of devices and locations where your account has been logged in. If you see anything unfamiliar, log it out and change your password right away.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

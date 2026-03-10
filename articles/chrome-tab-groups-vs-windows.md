@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Chrome Tab Groups vs Multiple Windows"
 description: "Compare Chrome tab groups vs multiple windows: organization strategies, memory impact, workflow comparison, and when to use each for better productivity."
 date: 2026-01-20

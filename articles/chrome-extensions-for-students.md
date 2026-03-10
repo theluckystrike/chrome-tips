@@ -74,7 +74,7 @@ Another useful feature is the ability to save articles for offline reading. If y
 
 The extension also includes text-to-speech functionality, allowing you to listen to articles rather than reading them. This can be helpful when you need to absorb information while doing other tasks, like walking to class or exercising. The speech quality is natural and easy to follow, making it a useful study tool for auditory learners.
 
-## Zotero: The Ultimate Research Companion
+Zotero functions as a personal research assistant, helping you track every source you encounter during your research process. With the Chrome extension installed, you can save web pages, academic articles, books, and other sources with a single click. The extension automatically extracts relevant metadata including title, author, publication date, and publisher, saving you hours of manual data entry.
 
 Academic research involves managing sources, and this is where Zotero shines. Zotero is a free, open-source reference management software that helps you collect, organize, cite, and share research materials. The Chrome extension integrates this powerful functionality directly into your browser, making it easier than ever to manage your sources while researching online.
 
@@ -88,7 +88,7 @@ For students working on collaborative research projects, Zotero offers group lib
 
 Zotero's synchronization feature ensures that your library is available on any computer where you install the software. Combined with its cloud storage, this means your research materials are always accessible, whether you are working in the library, at home, or on the go. The free version provides ample storage for most student needs, while paid accounts offer additional storage for heavy users.
 
-## Tab Suspender Pro: Keep Your Browser Running Smoothly
+The extension is highly configurable, allowing you to set which tabs should be suspended, which should remain active, and after how much inactivity tabs should be suspended. You can whitelist important sites like your learning management system or email to ensure they stay active when you need them.
 
 Modern students often have dozens of tabs open at once—research articles, course materials, email, calendar, and social media all compete for screen space and system resources. This can significantly slow down your browser and strain your computer's memory. Tab Suspender Pro is a Chrome extension that addresses this problem by automatically suspending inactive tabs to free up resources.
 

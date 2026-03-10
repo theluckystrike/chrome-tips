@@ -104,4 +104,4 @@ Remember that tools are meant to enhance your skills, not replace them. These ex
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

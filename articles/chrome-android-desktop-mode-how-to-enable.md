@@ -60,6 +60,4 @@ Now that you know how to enable desktop mode in Chrome for Android, you can star
 
 Give it a try on a few of your favorite websites and see what differences you notice. You might find that some sites work much better in desktop mode, while others are perfectly fine in their mobile version. Having the option to choose puts you in control of your browsing experience.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

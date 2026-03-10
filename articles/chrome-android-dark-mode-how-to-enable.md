@@ -78,6 +78,4 @@ Dark mode is becoming a standard feature in most apps and websites, so enabling 
 
 Give dark mode a try for a few days to see if it works for you. You can always switch back to light mode by following the same steps and selecting Light or System default from the theme settings.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

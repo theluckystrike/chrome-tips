@@ -72,6 +72,4 @@ You do not need to be technical to get more out of Chrome on Android. Start with
 
 If you have been feeling held back by Chrome on your Android phone, try these suggestions and see the difference for yourself. A faster, more capable browser means less waiting and more enjoying the web, whether you are checking email, reading news, or browsing social media.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

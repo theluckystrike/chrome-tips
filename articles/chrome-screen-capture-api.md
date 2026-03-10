@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Screen Capture API Guide"
 description: "Learn how to use the Chrome Screen Capture API for screen sharing, window capture, and tab capture. Complete guide with constraints, examples, and best practices."
 date: 2026-01-15

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Passkeys Guide 2026"
 description: "Learn how to create, use, and sync passkeys in Chrome. Complete guide to replacing passwords with passkeys in Google Chrome for 2026."
 ---

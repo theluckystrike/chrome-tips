@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Omnibox Hidden Features"
 description: "Discover powerful Chrome Omnibox hidden features including tab search, Drive search, calculator, timer, and unit conversions that will supercharge your browsing."
 date: 2026-03-11
@@ -95,7 +95,10 @@ While the built-in Omnibox features are impressive on their own, combining them 
 Remember that these Omnibox features are constantly evolving, as Google regularly updates Chrome with new capabilities. The best approach is to experiment with different commands and see what works for your specific workflow. You might discover combinations or features that aren't even listed in this guide simply by typing different queries into your address bar and seeing what happens.
 
 The Chrome Omnibox proves that sometimes the most powerful tools are the ones sitting right in front of us, hiding in plain sight. Take some time to explore these features, integrate them into your daily routine, and watch your browsing productivity soar to new heights.
+<<<<<<< HEAD
 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+=======
+>>>>>>> consumer/a57-chrome-omnibox-hidden-features

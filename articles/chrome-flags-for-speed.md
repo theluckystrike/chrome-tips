@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Flags for Speed Optimization"
 description: "Discover the best Chrome flags for speed optimization including parallel downloading, QUIC protocol, GPU rasterization, and back-forward cache settings to make your browser faster."
 date: 2026-03-10

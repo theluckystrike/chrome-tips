@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Best Chrome Extensions for Students 2026"
 description: "Discover the best Chrome extensions for students in 2026 to boost productivity, improve writing, manage tasks, and streamline research for academic success."
 date: 2026-01-15

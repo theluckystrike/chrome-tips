@@ -70,4 +70,4 @@ Running an online business means your browser does heavy lifting throughout your
 
 Start with one or two extensions that address your biggest pain points. As you become comfortable with those, gradually add more tools to further streamline your workflow. The goal is to build a setup that supports your specific selling model and makes your daily operations feel effortless.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

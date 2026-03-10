@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Chrome Cookie Settings 2026 Guide — Complete Privacy Controls"
+title: "Chrome Cookie Settings 2026 Guide"
 description: "Master Chrome cookie settings in 2026. Learn about third-party cookies, SameSite policies, Privacy Sandbox, and tracking protection to secure your browsing."
 date: 2026-01-15
 categories: [privacy, security, chrome-settings]
@@ -126,4 +126,4 @@ Take time to explore these settings, find the balance that works for you, and en
 
 ---
 
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -2,7 +2,13 @@
 layout: post
 title: "Chrome Address Bar Shortcuts You Didnt Know"
 description: "Hidden Chrome address bar shortcuts that can speed up your browsing. Learn lesser-known tricks that most users miss."
+date: 2026-03-10
+categories: [features, productivity]
+tags: [chrome-shortcuts, address-bar, productivity, chrome-tips]
+author: theluckystrike
 ---
+
+# Chrome Address Bar Shortcuts You Didnt Know
 
 Chrome address bar shortcuts you didnt know about can genuinely change how you use your browser every day. The address bar, officially called the omnibox, does far more than most people realize. Most Chrome users type URLs and search queries without realizing that a handful of hidden tricks can save seconds each time, and those seconds add up to minutes and hours over a week.
 
@@ -75,4 +81,4 @@ Start by picking one or two of these shortcuts that match what you already do. I
 
 It takes about a week of consistent use for a new shortcut to become automatic. After that, you will not need to think about it. The time saved per shortcut is small, but doing these actions dozens of times each day means the shortcuts pay for themselves quickly.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -86,5 +86,4 @@ If you are a developer and need the full URL for debugging, you don't always hav
 
 Understanding the structure of the URL—from the protocol to the query strings—is a foundational skill for web navigation. While Chrome's goal of simplification is noble, knowing how to get the full picture is essential for power users.
 
----
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

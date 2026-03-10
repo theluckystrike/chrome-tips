@@ -111,5 +111,4 @@ This eliminates any corrupted files, cached data, or rogue extension remnants. R
 
 While you are fixing the UI, it's worth remembering that you can often still *use* the address bar even if you can't *see* it. Pressing **Ctrl+L** (Windows) or **Cmd+L** (Mac) will still focus the "invisible" bar and allow you to type a URL. If you type a known address like `google.com` and hit Enter, and the browser navigates there, you know the address bar is still "there" but just not being rendered visually.
 
----
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

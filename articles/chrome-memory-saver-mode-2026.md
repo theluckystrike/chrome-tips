@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Memory Saver Mode 2026 Guide"
 description: "Learn how to enable Chrome Memory Saver Mode 2026, manage inactive tabs, set exceptions, and optimize browser performance. Complete guide with tips and tricks."
 date: 2026-01-20

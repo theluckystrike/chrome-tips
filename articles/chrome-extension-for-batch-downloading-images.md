@@ -60,4 +60,4 @@ Once installed, visit a website with images you want to save. Click the extensio
 
 Start with one extension to see if it fits your workflow, and try different ones if you find their approaches differ. The best extension for you depends on the types of websites you visit and how you prefer to organize your downloads.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

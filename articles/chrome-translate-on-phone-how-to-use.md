@@ -54,4 +54,4 @@ Chrome translate on phone how to use is straightforward once you know where to l
 
 Whether you are traveling abroad, researching international topics, or simply curious about content from around the world, Chrome translation empowers you to browse without language barriers. Combined with productivity tools like Tab Suspender Pro for managing your tabs effectively, you have everything you need for a smooth, multilingual browsing experience.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

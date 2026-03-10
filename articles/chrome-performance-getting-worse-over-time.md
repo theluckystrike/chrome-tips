@@ -76,8 +76,8 @@ Try closing Chrome completely at the end of your workday or whenever you notice 
 
 ## Summary
 
-Chrome performance getting worse over time is a common problem, but it is also a solvable one. Too many open tabs, outdated software, excessive cached data, and too many extensions can all contribute to slower performance. Enable built-in features like Memory Saver, clean up your extensions, clear cached data regularly, and restart Chrome periodically to keep it running smoothly.
+**Chrome performance getting worse over time** is a common problem, but it is also a solvable one. Too many open tabs, outdated software, excessive cached data, and too many extensions can all contribute to slower performance. Enable built-in features like **Memory Saver**, clean up your extensions, clear cached data regularly, and restart Chrome periodically to keep it running smoothly.
 
 By taking these steps, you can restore Chrome to its responsive best and enjoy a faster browsing experience. Small maintenance habits go a long way in preventing performance decline and keeping your browser working well for years to come.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

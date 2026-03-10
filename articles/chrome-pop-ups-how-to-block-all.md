@@ -70,4 +70,4 @@ Review your extensions occasionally to make sure you still need all of them. Som
 
 Teaching friends and family about pop up blocking is also helpful. Many people might not know how to protect themselves from malicious pop ups. Sharing what you have learned about how to block all pop ups in Chrome can help others browse more safely.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

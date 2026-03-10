@@ -195,4 +195,4 @@ The best browser for you depends on your specific needs, workflow, and willingne
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

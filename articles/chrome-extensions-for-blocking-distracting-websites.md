@@ -70,4 +70,4 @@ The key is to find the right balance for your situation. Some people do well wit
 
 Whatever approach you choose, the act of taking intentional control over your browsing habits is an important step toward better productivity and mental clarity. You have already taken the first step by looking for solutions. Now it is time to try one of these extensions and see how much more you can accomplish when you take control of your browsing habits.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

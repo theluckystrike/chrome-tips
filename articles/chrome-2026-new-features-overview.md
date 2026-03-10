@@ -78,6 +78,4 @@ If a feature is not appearing after updating:
 - Check if an extension is interfering by testing in a clean profile (Profile icon > Add > Continue without an account)
 - Some features roll out gradually via server-side flags, meaning your version may have the code but Google has not enabled it for your account yet. Check `chrome://version` for the "Variations" field to see your active experiment groups
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

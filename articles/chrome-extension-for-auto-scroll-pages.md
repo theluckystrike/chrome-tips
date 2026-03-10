@@ -66,4 +66,4 @@ Once installed, try using it while reading a long article or blog post. Notice h
 
 Auto scroll extensions represent a small but meaningful improvement to how we interact with web content. By letting the browser handle the scrolling, we can focus more on what actually matters, the information we are reading.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

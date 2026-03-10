@@ -64,4 +64,4 @@ Form filling does not have to be a tedious chore. With the right chrome extensio
 
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

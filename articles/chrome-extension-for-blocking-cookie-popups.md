@@ -52,4 +52,4 @@ Give yourself a few days to test how well the extension works with the websites 
 
 Remember that while these extensions make browsing more pleasant, they do not eliminate the underlying legal requirements that caused cookie popups to appear. Websites still need to ask for consent in certain ways, and your legal rights regarding data privacy remain the same. These extensions simply automate the process of responding to those requests, saving you time and frustration.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

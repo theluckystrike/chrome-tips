@@ -121,3 +121,7 @@ Chrome's built-in screenshot tool, accessible through DevTools, provides a compr
 The full page capture feature handles long webpages with ease, while area selection provides quick manual captures of specific regions. Node screenshots offer precision for developers and designers who need exact element captures, and the advanced DevTools techniques provide flexibility for specialized needs.
 
 By mastering these built-in tools, you gain a powerful skill that serves countless practical purposes without compromising browser performance or privacy. Combined with proper tab management through tools like Tab Suspender Pro, you have everything you need for efficient, high-quality screenshot capture directly within Chrome.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

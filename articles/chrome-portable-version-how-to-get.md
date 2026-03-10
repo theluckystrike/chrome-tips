@@ -50,4 +50,4 @@ When you use portable Chrome on computers with limited resources, you might noti
 
 One helpful solution for managing tabs is to use Tab Suspender Pro, which is a Chrome extension designed to automatically suspend tabs that you have not used in a while. This can significantly reduce memory usage and make your portable Chrome run much smoother, especially on older computers or machines with limited RAM. The extension works the same way in portable Chrome as it does in the installed version, so you get the same benefits whether you are at work, at a library, or using any other computer.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

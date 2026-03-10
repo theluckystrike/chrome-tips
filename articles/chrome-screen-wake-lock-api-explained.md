@@ -30,6 +30,18 @@ You might notice your screen staying on longer than usual when visiting these si
 
 If you find your screen staying on more often than you would like, you have a few options. Closing the tab that requested the wake lock will immediately release it. You can also check which sites are using this feature by looking at your browser settings or using extensions that show website activity. Managing which sites can keep your screen awake is a matter of being aware of which tabs you have open.
 
+## How to Identify Which Site Is Using Wake Lock
+
+If you find your screen staying on and you aren't sure why, there are a few ways to track down the culprit. The most direct way is to look at your open tabs and think about which ones might need to keep your screen active. Websites that show long-form video, workout routines, or interactive maps are the most likely candidates.
+
+You can also use **Chrome DevTools** to see if a site is actively requesting a wake lock. Press **F12** or right-click and select "Inspect." Go to the "Application" tab and look for "Wake Lock" in the left sidebar. This will show you if the current page has an active lock on your display. If you see an active entry there, you've found the reason your screen won't dim.
+
+## How to Manually Disable a Wake Lock
+
+While Chrome doesn't have a single toggle to disable the **Wake Lock API** for all sites, you can manage it on a site-by-site basis. The most effective method is simply to close the tab or switch to a different window. The API is designed to only function when the tab is the active, visible window on your screen. 
+
+If you want to keep the site open but want your screen to follow its normal sleep schedule, you can try minimizing the window. Once the window is minimized, Chrome should automatically release the wake lock. If that doesn't work, you can check your browser's **Permissions** settings for that specific site. Some sites allow you to toggle "Keep screen on" in their own internal settings menus, so look for a gear icon or a display setting within the website itself.
+
 ## Managing Wake Lock on Your Device
 
 If you want more control over which sites can keep your screen awake, you have several options. The simplest solution is to close tabs that are causing your screen to stay on when you no longer need them. This automatically releases the **wake lock** and lets your device return to its normal **sleep settings**.

@@ -66,4 +66,4 @@ To reset Chrome, go to Settings and click on "Reset settings" on the left side. 
 
 This is a more drastic step, so try the other solutions first. However, if you have tried everything else and still see the chrome too many redirects error fix, resetting Chrome can often provide a fresh start that resolves stubborn redirect issues.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

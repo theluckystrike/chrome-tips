@@ -76,6 +76,4 @@ Keep your extension updated. Developers frequently release updates that improve 
 
 If you use multiple browsers or devices, look for extensions that sync your settings across devices. This way, you can maintain a consistent dark mode experience whether you are working on your laptop, desktop, or mobile device.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

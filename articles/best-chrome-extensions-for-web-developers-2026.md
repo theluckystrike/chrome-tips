@@ -72,4 +72,4 @@ Testing responsive designs traditionally requires resizing your browser window r
 
 This extension is particularly useful during the development phase when you are making frequent adjustments to your responsive layouts. Instead of resizing your browser after each change, you see the results across all screen sizes in one view. This helps you catch layout issues earlier and ensures your designs work well for all users.
 
-## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -68,5 +68,4 @@ To protect your privacy:
 
 Unlike passwords, Chrome does not require a PIN or biometric scan to view or fill addresses. This makes them highly convenient but also slightly more exposed than your sensitive login credentials. By regularly auditing your saved addresses and following basic security hygiene, you can enjoy the benefits of autofill without unnecessary risk.
 
----
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

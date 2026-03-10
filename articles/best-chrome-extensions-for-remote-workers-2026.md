@@ -70,4 +70,4 @@ Tab Suspender Pro is an excellent foundation because it solves a universal probl
 
 Remember that more extensions are not always better. Each extension you add consumes some resources and requires attention to manage. Start with the essentials, master them, and only add more when you identify a genuine need. With the right extensions in place, your remote work setup can be just as productive, if not more so, than a traditional office.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

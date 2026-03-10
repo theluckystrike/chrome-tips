@@ -72,6 +72,4 @@ When possible, use HTTPS connections, which are more secure than HTTP. Many priv
 
 Finally, stay informed about privacy issues and new tools that can help. The digital landscape is always changing, and keeping up with developments will help you maintain better control over your personal information.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

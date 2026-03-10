@@ -68,6 +68,4 @@ It is also a good idea to occasionally clear your cache and cookies, even when y
 
 Finally, make sure your computer has adequate free storage space and your operating system is updated. Sometimes underlying system issues can manifest as browser problems.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

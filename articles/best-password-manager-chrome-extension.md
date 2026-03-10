@@ -94,6 +94,4 @@ Start small. Use your password manager for new accounts first, then gradually go
 
 Most password managers offer browser extensions that work intuitively. When you log into a website, you will see a prompt asking if you want to save the password. When you return to that site later, the extension will automatically fill your credentials. This takes almost no extra effort once it is set up.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

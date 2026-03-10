@@ -62,4 +62,4 @@ Many modern websites work well as home screen shortcuts, especially those that a
 
 By thinking about how you use different services on your phone, you can make smart decisions about which approach works best for each one. This helps you keep your phone organized, your storage manageable, and your mobile experience as smooth as possible.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

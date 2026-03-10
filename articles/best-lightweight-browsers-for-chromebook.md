@@ -70,6 +70,4 @@ The best lightweight browser for your Chromebook depends on your needs. If you w
 
 Try installing a few different browsers and see which one feels fastest on your specific Chromebook. Remember that browser performance can vary depending on what types of websites you visit most and how many tabs you typically keep open.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

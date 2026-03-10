@@ -84,4 +84,4 @@ Chrome extensions are not just nice-to-have tools; they can genuinely transform 
 
 Take time to explore these extensions and see which ones work best for your specific HR role. Whether you are focused on recruitment, employee relations, or benefits administration, there are tools designed to help you work more effectively. The key is to start with one or two extensions that address your biggest pain points and gradually add more as you see how they fit into your workflow.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

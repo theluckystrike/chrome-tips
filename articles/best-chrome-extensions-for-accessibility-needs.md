@@ -64,6 +64,4 @@ Remember that your needs may change over time. An extension that is not useful t
 
 Accessibility is not a one-size-fits-all solution. What works perfectly for one person might not work at all for another. The key is finding the right combination of tools that make your browsing experience comfortable and productive.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

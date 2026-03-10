@@ -76,6 +76,4 @@ The best laptops for Chrome browser 2026 are those that give you plenty of RAM, 
 
 Remember that even the best hardware benefits from good browsing habits. Keep your tabs organized, limit your extensions, and use tools like Tab Suspender Pro to get the most out of your machine. With the right laptop and a few simple practices, Chrome will feel snappy and responsive no matter how much you use it.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

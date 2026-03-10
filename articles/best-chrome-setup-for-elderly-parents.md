@@ -110,6 +110,4 @@ Once everything is set up and working, try not to change things. Elderly users b
 
 If Chrome updates change the interface, take a few minutes to walk them through what's different.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

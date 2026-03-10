@@ -62,4 +62,4 @@ The best Chrome extensions for photographers are the ones that address the speci
 
 Start by identifying the biggest frustrations in your current workflow, then try adding one or two extensions at a time to address them. You do not need to install everything at once. Over time, you will build a customized toolkit that makes your browser work as hard as you do.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

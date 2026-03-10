@@ -2,7 +2,13 @@
 layout: post
 title: "Chrome Address Bar Shortcuts You Should Know"
 description: "Keyboard shortcuts for Chrome's address bar that save real time: tab search, custom keywords, quick navigation, and lesser-known tricks."
+date: 2026-03-10
+categories: [features, productivity]
+tags: [chrome-shortcuts, address-bar, productivity, chrome-tips]
+author: theluckystrike
 ---
+
+# Chrome Address Bar Shortcuts You Should Know
 
 Chrome address bar shortcuts you should know — not a generic list of Ctrl+C and Ctrl+V, but the specific omnibox behaviors that save measurable time if you type URLs and search queries frequently.
 
@@ -62,7 +68,7 @@ The `%s` in the URL gets replaced with whatever you type after the keyword.
 
 Chrome 108 introduced built-in @ shortcuts:
 
-- **`@tabs`** + space + query — search your open tabs by title or URL. Results show "Switch to this tab" actions
+- **`@tabs`** + space + query — search your open tabs by title or URL. Results show "Switch to this tab" actions. Type `@tabs meeting` to find that Google Meet tab buried among 40 open tabs. If your browser feels sluggish with that many tabs open, using a tool like **Tab Suspender Pro** alongside `@tabs` can help by keeping your system fast while still allowing you to find and reactivate your work instantly.
 - **`@bookmarks`** + space + query — search bookmarks by title or URL
 - **`@history`** + space + query — search browsing history
 
@@ -96,6 +102,4 @@ The highest-impact shortcuts for most users are:
 
 Each one shaves seconds off tasks you perform many times a day. Over a week, that is minutes. Over a year, hours.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

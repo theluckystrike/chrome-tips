@@ -75,5 +75,4 @@ Occasionally, you might find that the **Shift+Delete** shortcut doesn't work. Th
 
 By understanding where these suggestions come from, you can tailor your Chrome experience to be as fast—or as private—as you need it to be.
 
----
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

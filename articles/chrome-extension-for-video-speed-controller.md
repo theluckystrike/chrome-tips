@@ -72,4 +72,4 @@ Pay attention to which websites you use most often for video content. If an exte
 
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

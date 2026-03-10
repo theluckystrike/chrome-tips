@@ -72,4 +72,4 @@ Finding the right chrome extension for YouTube ad blocker ultimately comes down 
 
 Remember that ad blockers are just one tool in a larger toolbox for managing your online experience. Combined with good browser habits and perhaps a helpful extension like Tab Suspender Pro, you can make YouTube and the rest of your web browsing much more enjoyable.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

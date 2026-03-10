@@ -66,6 +66,6 @@ Passkeys work best when you use them on all your important accounts. Start with 
 
 If you use multiple browsers, remember that passkeys created in Chrome will not automatically appear in other browsers. Each browser stores passkeys separately, so you would need to create passkeys in each browser where you want to use them.
 
-Extensions like Tab Suspender Pro can help you manage your browser tabs more efficiently while you explore passkeys and other Chrome features. This kind of extension helps keep your browser running smoothly so you can enjoy all the benefits of modern web features without slowdown.
+Extensions like **Tab Suspender Pro** can help you manage your browser tabs more efficiently while you explore passkeys and other Chrome features. This kind of extension helps keep your browser running smoothly so you can enjoy all the benefits of modern web features without slowdown.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

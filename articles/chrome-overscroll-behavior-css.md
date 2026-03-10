@@ -40,16 +40,14 @@ You can also control overscroll behavior separately for horizontal and vertical 
 
 If you are dealing with unwanted overscroll behavior on a website you visit frequently, your options are somewhat limited because you cannot change how websites are built. However, if you are a website owner or developer, you can implement these CSS solutions to improve the experience for your visitors.
 
-For a simple fix that disables all overscroll effects on a webpage, adding the appropriate CSS rule removes the bounce effect, the glow effect, and any pull-to-refresh gestures. The page will simply stop scrolling cleanly when it reaches the top or bottom.
+For a simple fix that disables all overscroll effects on a webpage, adding the appropriate CSS rule removes the bounce effect, the glow effect, and any **pull-to-refresh** gestures. The page will simply stop scrolling cleanly when it reaches the top or bottom.
 
-For a more targeted approach, consider containing overscroll within specific sections. If you have a chat application with a message area that should scroll independently from the rest of the page, applying the contain value to the message container creates a more polished experience. Users can scroll through messages without triggering the bounce effect on the entire page.
+For a more targeted approach, consider containing overscroll within specific sections. If you have a chat application with a message area that should scroll independently from the rest of the page, applying the **contain** value to the message container creates a more polished experience. Users can scroll through messages without triggering the bounce effect on the entire page.
 
-Some developers combine overscroll-behavior with JavaScript to create entirely custom scroll experiences, such as infinite scrolling or snap-to-position effects. This gives you even more control over how users interact with your content.
+Some developers combine **overscroll-behavior** with JavaScript to create entirely custom scroll experiences, such as infinite scrolling or snap-to-position effects. This gives you even more control over how users interact with your content.
 
 ## Extension Solutions for Better Control
 
-If you are looking for a solution that works across websites without needing to modify code, browser extensions can help. Tab Suspender Pro is one option that can help manage how tabs behave, including some aspects of scrolling performance. This extension is part of the Zovo extension suite designed to improve your browsing experience. While it may not directly control CSS overscroll behavior on every website, it can help with overall tab management and performance.
+If you are looking for a solution that works across websites without needing to modify code, browser extensions can help. **Tab Suspender Pro** is one option that can help manage how tabs behave, including some aspects of scrolling performance. This extension is part of the Zovo extension suite designed to improve your browsing experience. While it may not directly control CSS overscroll behavior on every website, it can help with overall tab management and performance.
 
-The team behind Tab Suspender Pro also creates the Zovo extension suite, which offers various tools to enhance your Chrome experience. You can learn more at zovo.one.
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

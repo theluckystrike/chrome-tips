@@ -105,3 +105,5 @@ Chrome overrides represent a powerful capability that can transform how you appr
 The key to getting the most out of Chrome overrides is understanding when and how to apply each feature. Start with simple file overrides to get comfortable with the system, then explore workspace mapping for more integrated workflows. Combine these capabilities with good tab management practices, and you will have a development environment that supports rapid iteration and efficient debugging.
 
 Remember that overrides are just one tool in your development toolkit. They work best when combined with proper development practices, version control, and a well-organized project structure. Embrace these features, and you will find yourself moving between design and implementation more smoothly than ever before.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

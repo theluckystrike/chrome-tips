@@ -66,10 +66,10 @@ If you have saved many bookmarks, you can search them directly from the omnibox.
 
 ## Try Incognito Mode from the Omnibox
 
-You can open an incognito window quickly by pressing Ctrl+Shift+N on Windows or Cmd+Shift+N on Mac. This is useful when you want to browse without saving history or cookies. You can also right-click a link and choose Open link in incognito window to open a specific page in private mode.
+You can open an incognito window quickly by pressing **Ctrl+Shift+N** on Windows or **Cmd+Shift+N** on Mac. This is useful when you want to browse without saving history or cookies. You can also right-click a link and choose **Open link in incognito window** to open a specific page in private mode.
 
 ## Final Thoughts
 
 The omnibox is one of the most powerful features in Chrome, yet most people only use it to type website addresses. These tricks can significantly speed up your browsing and make you more productive. Start with the ones that apply to your daily workflow and add more as you get comfortable. Once you start using these omnibox tricks regularly, you will wonder how you ever browsed without them.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

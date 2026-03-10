@@ -74,6 +74,6 @@ After uninstalling, download Chrome fresh from the official website and install 
 
 Once you have fixed the small window problem, there are a few things you can do to keep Chrome running smoothly. Keep your Chrome updated to the latest version, as updates often include bug fixes and performance improvements. Be careful about which extensions you install, and only keep ones you really use. Too many extensions can slow down Chrome and cause unexpected behavior.
 
-Using a tool like Tab Suspender Pro can actually help Chrome run better by automatically suspending tabs you have not used in a while. This saves memory and can prevent all kinds of issues. Just make sure any extension you use is configured the way you want it to be.
+Using a tool like **Tab Suspender Pro** can actually help Chrome run better by automatically suspending tabs you have not used in a while. This saves memory and can prevent all kinds of issues. Just make sure any extension you use is configured the way you want it to be.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

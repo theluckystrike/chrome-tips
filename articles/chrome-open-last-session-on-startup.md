@@ -74,8 +74,6 @@ If you want more control over your sessions, consider using a dedicated extensio
 
 ### Avoid Force-Quitting Chrome
 
-Whenever possible, let Chrome close normally. Force-quitting through Task Manager or Activity Monitor can leave session data in an incomplete state, which Chrome might not be able to recover from.
+Whenever possible, let Chrome close normally. Force-quitting through **Task Manager** or **Activity Monitor** can leave session data in an incomplete state, which Chrome might not be able to recover from.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -127,3 +127,5 @@ If you're building Chrome extensions or web applications that might run in resou
 The Chrome Payment Request API provides a powerful framework for building streamlined, secure payment experiences in web applications. By supporting digital wallets like Google Pay, collecting shipping information, and handling multiple payment methods, you can create checkout flows that rival the best e-commerce experiences in terms of convenience and security.
 
 As you implement this API in your projects, remember to test thoroughly across different browsers and devices, provide appropriate fallbacks for unsupported scenarios, and follow security best practices for handling payment data. With proper implementation, the Payment Request API can help reduce cart abandonment, improve customer satisfaction, and grow your online business.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

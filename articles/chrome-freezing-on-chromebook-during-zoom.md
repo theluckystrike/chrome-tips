@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Chrome Freezing on Chromebook During Zoom? Try These Fixes"
 description: "Is Chrome freezing on your Chromebook during Zoom calls? Here's why it happens and how to get your video meetings running smoothly again."
 date: 2025-02-16

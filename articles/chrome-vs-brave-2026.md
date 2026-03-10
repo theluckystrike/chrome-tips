@@ -100,6 +100,7 @@ Brave includes similar protection through its Shields system and also integrates
 
 <<<<<<< HEAD
 Both browsers will continue to evolve in 2026 and beyond. Chrome will likely continue adding features while maintaining its market dominance, while Brave will likely expand its privacy features and Web3 integration. By understanding the strengths and weaknesses of each, you can choose the browser that best aligns with your needs and values.
+<<<<<<< HEAD
 -e 
 =======
 Both browsers support hardware-accelerated sandboxing to isolate web pages from each other and from your operating system. This prevents malicious websites from accessing your personal files or other browser data.
@@ -188,4 +189,9 @@ Brave excels for users who prioritize privacy, want built-in ad blocking without
 Regardless of your choice, both browsers represent excellent options for everyday web browsing in 2026. The best way to determine which browser is right for you is to try both and see which aligns better with your personal priorities and workflow.
 
 >>>>>>> consumer/a60-chrome-vs-brave-2026
+=======
+
+---
+
+>>>>>>> consumer/a72-chrome-vs-brave-2026
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

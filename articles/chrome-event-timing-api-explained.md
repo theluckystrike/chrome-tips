@@ -64,4 +64,4 @@ One solution worth considering is Tab Suspender Pro, which automatically pauses 
 
 Keeping your tabs organized and managing how many you have open is a simple way to ensure a better browsing experience. Combined with the improvements that developers make using tools like the Event Timing API, you can enjoy a faster, more responsive web.
 
-## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

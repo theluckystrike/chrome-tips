@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome DNS Over HTTPS Setup Guide"
 description: "Learn how to set up DNS over HTTPS in Chrome for enhanced privacy and security. Complete guide covering secure DNS providers, custom DNS configuration, and privacy benefits."
 date: 2026-03-10

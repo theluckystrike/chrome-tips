@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Task Manager Guide"
 description: "Master Chrome Task Manager to monitor memory per tab, track GPU process usage, analyze network activity, and kill unresponsive processes. Complete guide for optimizing browser performance."
 date: 2026-01-15

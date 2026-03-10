@@ -56,10 +56,8 @@ Extensions are available in the Chrome Web Store and can add extra capabilities 
 
 Before saving a webpage as PDF, take a moment to prepare the page for conversion. Close any pop-up windows or advertisements that might otherwise appear in your PDF. If the webpage has a print-friendly version or a reader mode, using these can result in a much cleaner PDF. Many news sites and blogs offer these simplified views specifically for printing.
 
-Also consider the file size of your PDF. High-resolution images make for better-looking PDFs but also create larger files. If you need to share the PDF via email or upload it somewhere with file size limits, you might want to reduce the image quality in the settings or use a smaller paper size.
+Also consider the file size of your PDF. High-resolution images make for better-looking PDFs but also create larger files. If you need to share the PDF via email or upload it somewhere with file size limits, you might want to reduce the image quality in the settings or use a **smaller paper size**.
 
-Finally, always preview your PDF before finalizing the save. The print preview shows you exactly what will be included, allowing you to catch any issues before creating the file. Spending an extra minute on preview can save you from having to recreate the PDF later.
+Finally, always preview your PDF before finalizing the save. The **print preview** shows you exactly what will be included, allowing you to catch any issues before creating the file. Spending an extra minute on preview can save you from having to recreate the PDF later.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

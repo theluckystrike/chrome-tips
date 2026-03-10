@@ -80,10 +80,8 @@ To check for updates, click the three dots in Chrome, go to Help, and select Abo
 
 ## Additional Tips for Better Performance
 
-Beyond the main settings, a few additional habits can keep Chrome running smoothly. Disable animations and visual effects if your computer is older. You can find this in Chrome settings under Accessibility. Consider using Chrome's built-in Task Manager (press Shift+Esc) to identify which tabs or extensions are using the most memory and close them if needed.
+Beyond the main settings, a few additional habits can keep Chrome running smoothly. Disable animations and visual effects if your computer is older. You can find this in Chrome settings under **Accessibility**. Consider using Chrome's built-in **Task Manager** (press **Shift+Esc**) to identify which tabs or extensions are using the most memory and close them if needed.
 
 Avoid installing too many extensions. Review your installed extensions periodically and remove any that you no longer use. Each extension adds overhead, and even disabled extensions can sometimes run background processes.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

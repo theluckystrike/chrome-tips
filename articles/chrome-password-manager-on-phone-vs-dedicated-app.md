@@ -54,8 +54,8 @@ If you find that managing tabs and browser resources is also a concern, consider
 
 ## The Bottom Line
 
-Both Chrome's built-in password manager and dedicated apps have their place. Chrome works well for casual users who mainly browse the web and want a free, simple solution. Dedicated apps are better for people who need cross-app access, advanced features, or who simply want more control over their password security.
+Both **Chrome's built-in password manager** and dedicated apps have their place. Chrome works well for casual users who mainly browse the web and want a free, simple solution. Dedicated apps are better for people who need cross-app access, advanced features, or who simply want more control over their **password security**.
 
 The most important thing is that you are using some form of password management rather than reusing the same password across multiple accounts. Whether that solution is Chrome's built-in tool or a dedicated app, taking this step makes you much safer online.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

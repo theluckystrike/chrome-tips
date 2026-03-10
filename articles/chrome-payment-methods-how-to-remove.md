@@ -60,10 +60,8 @@ Also remember that if you have saved payment information on specific shopping we
 
 ## A Note on Browser Performance
 
-If you find Chrome running slowly while you navigate through settings pages to manage your saved data, having many open tabs could be the culprit. Tab Suspender Pro automatically suspends tabs you are not actively using, which frees up memory and keeps Chrome responsive while you work through settings cleanup tasks like removing old payment methods.
+If you find Chrome running slowly while you navigate through settings pages to manage your saved data, having many open tabs could be the culprit. **Tab Suspender Pro** automatically suspends tabs you are not actively using, which frees up memory and keeps Chrome responsive while you work through settings cleanup tasks like removing old payment methods.
 
 That said, Chrome's built-in settings are usually sufficient for most users who just need to remove saved payment methods. The native solution is straightforward and does not require any additional software.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

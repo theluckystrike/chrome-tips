@@ -68,6 +68,6 @@ You do not need to use the Performance panel every time you browse. It is more o
 
 Regular maintenance helps prevent performance problems from building up. Clear your browsing data occasionally to remove old cached files that might be slowing things down. Remove extensions you no longer use, as each one adds to the resources Chrome needs to run. Keep Chrome updated to benefit from the latest performance improvements from Google.
 
-Using tools like the Performance panel and Memory Saver, you do not need technical expertise to keep your browser running well. A few simple habits and the right tools can make a big difference in how fast and responsive Chrome feels day to day.
+Using tools like the **Performance panel** and **Memory Saver**, you do not need technical expertise to keep your browser running well. A few simple habits and the right tools can make a big difference in how fast and responsive Chrome feels day to day.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

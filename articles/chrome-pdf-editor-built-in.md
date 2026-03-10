@@ -16,9 +16,15 @@ Did you know that Google Chrome comes with a fully functional PDF editor built r
 
 Before you can edit a PDF in Chrome, you need to open it properly. There are several ways to do this. The easiest method is to simply drag and drop your PDF file onto an open Chrome window. Chrome will automatically open the PDF in its built-in viewer. Alternatively, you can press Ctrl+O (or Cmd+O on Mac) and navigate to your PDF file to open it. You can also click on any PDF link in your browser, and Chrome will open it in the built-in viewer.
 
+<<<<<<< HEAD
 Once the PDF is open, you'll notice a toolbar at the top of the document. This toolbar contains all the editing tools you need. If you don't see the toolbar immediately, click on the pencil icon in the top-right corner to switch to editing mode. This is where the magic happens.
 
 ## Filling Out Forms
+=======
+The simplest method is to **drag and drop** your PDF directly onto a Chrome window. Chrome will automatically open the file in its built-in PDF viewer. This method works particularly well when you have the PDF file visible on your desktop or in a folder window. Simply click and hold the file, drag it over to your Chrome window, and release. Chrome immediately opens the document, ready for editing.
+
+Alternatively, you can press **Ctrl+O** (or **Cmd+O** on Mac) to open the file browser, then navigate to your PDF and select it. This approach is useful when you need to browse through multiple folders to find your document. The file browser works like any standard open dialog, so you can navigate using your keyboard or mouse.
+>>>>>>> qa/loop-4
 
 One of the most common PDF tasks is filling out forms. Whether it's a tax document, an application form, or a survey, Chrome makes this process intuitive and straightforward.
 

@@ -139,3 +139,7 @@ The Chrome Web Serial API represents a significant leap forward in web developme
 This technology opens up new possibilities for home automation, scientific instrumentation, art installations, and countless other projects where web interfaces meet the physical world. As browser support continues to expand and more developers explore these capabilities, we can expect to see increasingly sophisticated web-based hardware interfaces that make physical computing more accessible than ever before.
 
 Whether you're a web developer looking to expand into hardware projects or an electronics enthusiast wanting to leverage web technologies for user interfaces, the Web Serial API provides the tools you need to create engaging, interactive experiences that span the digital and physical realms.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

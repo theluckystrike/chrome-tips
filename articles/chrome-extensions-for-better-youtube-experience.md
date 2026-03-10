@@ -68,4 +68,4 @@ The beauty of Chrome extensions is that you can mix and match different tools to
 
 Remember that fewer, well-chosen extensions will serve you better than installing dozens that you rarely use. Take some time to configure each extension to your preferences, and enjoy the transformed YouTube experience that awaits you.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

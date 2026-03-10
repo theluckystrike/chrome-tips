@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome WebAssembly Debugging Guide"
 description: "Master WebAssembly debugging in Chrome with DWARF info, source maps, memory inspector, and Emscripten. Practical tips for developers."
 date: 2026-01-20
@@ -99,3 +99,7 @@ Interoperability issues between JavaScript and WebAssembly can also be challengi
 Debugging WebAssembly in Chrome has come a long way from the dark days of console.log-only debugging. With DWARF debug information, source maps, the Memory Inspector, and proper Emscripten configuration, you have a powerful toolkit for identifying and fixing issues in your WebAssembly applications. Take time to set up your build pipeline correctly with debug symbols enabled during development, and you will save countless hours of frustration.
 
 Remember that effective debugging is an iterative process. Start with high-level observations about what is going wrong, narrow down the problem area through strategic use of breakpoints, and then dive deep with the Memory Inspector when you need to understand exactly what is happening at the byte level. With practice, these techniques will become second nature, and you will be able to debug WebAssembly applications as confidently as you debug JavaScript today.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -76,4 +76,4 @@ This cycle repeats every time you use the PWA, ensuring you always have the most
 
 For users who want more control, some PWA management options exist in Chrome settings. You can see which PWAs are installed and when they were last updated. While you can't force an instant update from here, you can see the state of each installed PWA.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

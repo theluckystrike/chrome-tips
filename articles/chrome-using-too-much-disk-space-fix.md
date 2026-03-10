@@ -70,4 +70,4 @@ Chrome using too much disk space is a common issue, but it is one you can solve 
 
 Give these approaches a try and see how much space you can reclaim. Your browser and your computer will thank you.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -1,10 +1,10 @@
 ---
 layout: default
 title: "Chrome Speech Recognition API Guide"
-description: "Learn how to use the Chrome Speech Recognition API for voice input, transcription accuracy, continuous recognition, and multilingual support in web applications."
+description: "Learn how to use the Chrome Speech Recognition API for voice input, transcription, continuous recognition, and multilingual support in your web apps."
 date: 2026-01-15
 categories: [development, web-apis, voice-recognition]
-tags: [chrome, speech-recognition, voice-input, web-api, javascript, voice-to-text]
+tags: [chrome, speech-recognition, voice-input, web-api, javascript]
 author: theluckystrike
 ---
 
@@ -305,7 +305,7 @@ recognition.onresult = function(event) {
 
 A well-designed voice interface provides clear feedback to users about what is happening. Display the microphone status, show interim results as users speak, and provide confirmation when final results are captured.
 
-If you manage multiple tabs and run voice recognition applications frequently, consider using an extension like **Tab Suspender Pro** to manage your browser tabs efficiently. This can help maintain browser performance when running resource-intensive voice applications across many tabs.
+If you manage multiple tabs and run voice recognition applications frequently, consider using an extension like Tab Suspender Pro to manage your browser tabs efficiently. This can help maintain browser performance when running resource-intensive voice applications across many tabs. Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ### Error Handling
 

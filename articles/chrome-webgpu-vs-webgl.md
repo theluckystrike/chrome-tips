@@ -36,6 +36,8 @@ When comparing performance between WebGPU and WebGL, the differences can be subs
 
 WebGPU's modern architecture translates to measurable performance improvements in many scenarios. The API's efficient command encoding reduces CPU overhead, allowing more draw calls per frame. In practical terms, this means you can render more objects in your scene without experiencing frame rate drops. Games with large numbers of objects, detailed particle systems, or complex UI overlays can benefit significantly from WebGPU's reduced CPU bottleneck.
 
+For users who want to maximize browser performance alongside WebGPU-powered applications, extensions like Tab Suspender Pro can help by managing background tabs and freeing up system resources. This complementary approach ensures that demanding graphics applications have adequate memory and CPU availability for smooth rendering.
+
 WebGPU also implements bind groups, which allow more efficient resource management compared to WebGL's uniform locations and texture units. This improvement becomes particularly noticeable when rendering scenes with many different materials or textures, as the GPU can more efficiently switch between resources.
 
 ### Compute Shaders

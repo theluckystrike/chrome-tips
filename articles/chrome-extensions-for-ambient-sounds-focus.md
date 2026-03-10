@@ -66,4 +66,4 @@ Take some time to experiment with different sounds and see what works for you. E
 
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

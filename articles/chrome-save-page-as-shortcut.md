@@ -66,16 +66,9 @@ For shortcuts that open but show an error, check that you are connected to the i
 
 ## A Helpful Browser Extension
 
-If you find yourself creating many shortcuts and want additional ways to manage your frequently visited sites, there are browser extensions that can help. Tab Suspender Pro is one option that can improve your browsing experience by managing tabs more efficiently. It can automatically suspend tabs you are not currently using, which helps Chrome run faster and uses less memory on your computer.
+If you find yourself creating many **desktop shortcuts** because you're overwhelmed by dozens of open tabs, there's a better way to manage your browser's performance. **Tab Suspender Pro** is an essential tool that complements your **shortcut strategy** by automatically "freezing" tabs you aren't using. 
 
-While this extension does not create desktop shortcuts, it complements the shortcut approach by keeping your browser running smoothly even when you have many pages open. Having a faster browser makes using your shortcuts more enjoyable.
+Instead of closing a site and relying on a **shortcut** to reopen it later, you can keep the tab open without it draining your **RAM**. This keeps your computer fast while ensuring your most important pages are always just a click away in your browser, rather than cluttering your **desktop icons**.
 
-## Quick Summary
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-Creating a Chrome save page as shortcut is a simple way to get fast access to your favorite websites. Just drag the favicon from the address bar to your desktop or taskbar. You can also use the menu option to save pages as files.
-
-Remember that shortcuts remember the exact page you were on when you created them, so navigate to the right location first. Keep your shortcuts organized in folders or the dock for easy access.
-
-This feature works on both Windows and Mac, making it a universal way to improve your productivity and streamline your web browsing experience.
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

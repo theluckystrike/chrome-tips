@@ -72,22 +72,9 @@ If other browsers display clearly, the issue is likely specific to Chrome and it
 
 ## Consider Browser Extensions That Help
 
-Browser extensions can sometimes assist with display issues, though they are not a replacement for fixing the underlying problem. Tab Suspender Pro is one extension that can help manage your tabs more efficiently, which may reduce some of the strain on your browser when using multiple displays. It works alongside other fixes to give you a smoother browsing experience.
+While display settings handle the visual clarity, maintaining high performance on a multi-monitor setup requires efficient resource management. When Chrome is struggling with **DPI scaling** or **hardware acceleration** on an external screen, having too many background processes can make the lag feel even worse.
 
-Extensions alone will not fix scaling issues, but once you have the display settings correct, using helpful extensions can improve your overall browsing experience on external monitors.
+Using **Tab Suspender Pro** helps by automatically "pausing" tabs you aren't actively viewing. This frees up **GPU** and **RAM** resources, which can sometimes resolve stuttering or slight blurring that occurs when your graphics card is overworked. By keeping your browser lean, you ensure that Chrome has the processing power needed to render crisp text on your **4K** or **Ultrawide** monitor.
 
-## Make Sure Your Cables Support Your Display
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-Sometimes the blurriness comes from a poor connection between your computer and external monitor. If you are using an older cable or one that does not support the full resolution of your monitor, the display may look blurry even when everything else is set up correctly.
-
-Check what kind of cable you are using. For external monitors, HDMI cables, DisplayPort cables, and USB-C cables are common. Make sure your cable matches the capabilities of your monitor. A cheap or old cable might not transmit the full signal, causing visual quality issues.
-
-If possible, try a different cable to see if that improves the clarity. This is a simple test that is easy to overlook but can make a big difference.
-
-## Final Thoughts
-
-Getting Chrome to look sharp on an external monitor usually takes a bit of experimentation. Start with the display scaling settings since that fixes the issue for most people. If that does not work, try updating your graphics drivers, adjusting Chrome's hardware acceleration, or tweaking the zoom level. The solution that works best depends on your specific setup, so try each method until you find what works for you.
-
-With some patience, you can get Chrome looking just as clear on your external monitor as it does on your primary display. Happy browsing.
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

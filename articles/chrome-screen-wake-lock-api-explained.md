@@ -32,16 +32,9 @@ If you find your screen staying on more often than you would like, you have a fe
 
 ## Managing Wake Lock on Your Device
 
-If you want more control over which sites can keep your screen awake, there are several approaches you can take. The simplest solution is to close tabs that are causing your screen to stay on when you no longer need them. This automatically releases the wake lock and lets your device return to its normal sleep behavior.
+If you want more control over which sites can keep your screen awake, you have several options. The simplest solution is to close tabs that are causing your screen to stay on when you no longer need them. This automatically releases the **wake lock** and lets your device return to its normal **sleep settings**.
 
-For users who want more comprehensive control, browser extensions can help. Tab Suspender Pro is one option that can manage tab behavior including wake lock functionality. It can automatically suspend tabs that are not in use, which also helps release any wake locks those tabs might be holding. This extension provides additional tab management features beyond just handling wake lock, giving you more control over how your browser manages your open pages and their impact on your device's power usage.
+For users who want more comprehensive control, **Tab Suspender Pro** is an excellent companion. While it primarily manages **RAM usage**, it can also "hibernate" background tabs that are holding active **Screen Wake Locks**. This ensures that a random tab you forgot about doesn't keep your laptop screen on all night, draining your **battery**. It’s a great way to balance the convenience of the **Wake Lock API** with the need for **power efficiency**.
 
-You can also adjust your operating system screen timeout settings as a fallback. If you find wake lock is causing issues frequently, setting a shorter default timeout in your system preferences ensures your screen will not stay on indefinitely even if a website requests it.
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## What This Means for Your Daily Browsing
-
-The screen wake lock API is a helpful feature designed to improve your web experience in specific situations. It allows websites to be more useful when you need your screen on without manual intervention. Most of the time, you will not even notice it working, which is exactly how it should be.
-
-Understanding this feature helps you recognize why your screen might stay on in certain situations. If you ever need your screen to behave differently, simply closing the relevant tab or using management tools gives you back control. The API was designed to be automatic and unobtrusive, serving users who need it while not bothering those who do not.
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

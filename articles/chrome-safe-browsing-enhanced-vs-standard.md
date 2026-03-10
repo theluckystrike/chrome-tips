@@ -56,10 +56,9 @@ Enhanced protection is particularly useful if you work with sensitive informatio
 
 ## Managing Tabs for Better Browser Performance
 
-Regardless of which Safe Browsing mode you choose, keeping your browser running smoothly is important for maintaining good security. When you have too many tabs open, Chrome can become slow and unresponsive, which might make it harder to notice security warnings or respond to threats quickly.
+Regardless of which **Safe Browsing** mode you choose, keeping your browser running smoothly is important for maintaining good security. When you have too many tabs open, Chrome can become slow and unresponsive, which might make it harder to notice security warnings or respond to threats quickly. 
 
-One helpful tool for managing browser performance is Tab Suspender Pro, which automatically suspends tabs you have not used recently to free up memory and keep Chrome running smoothly. This can help your browser respond faster when you need to pay attention to security warnings or navigate away from a dangerous website quickly.
+Heavy memory usage can also cause the browser to crash right when you're trying to navigate away from a suspicious site. Using **Tab Suspender Pro** helps mitigate this by automatically "pausing" background tabs that you aren't using. This frees up **RAM** for Chrome's security engine to scan files and URLs more effectively. By keeping your system resources lean, you ensure that **Enhanced Protection** can perform its real-time analysis without stuttering.
 
----
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

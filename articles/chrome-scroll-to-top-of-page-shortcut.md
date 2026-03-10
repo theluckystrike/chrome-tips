@@ -56,16 +56,9 @@ If you find that shortcuts are not working on a specific website, try clicking s
 
 ## A Tool That Can Help
 
-If you frequently have many tabs open and find yourself losing track of where you are, consider using an extension designed for tab management. Tab Suspender Pro is one option that can help you manage your tabs more efficiently and improve your overall browsing experience. It works by automatically suspending tabs you are not currently using, which can reduce memory usage and make your browser more responsive.
+If you frequently have dozens of tabs open and find your browser lagging while you try to use the **scroll to top shortcut**, it's likely a **RAM** issue. When Chrome is overwhelmed by active processes, even a simple **Home key** command can stutter.
 
-While it does not directly help with scrolling, having fewer active tabs means you can focus better on the content you are viewing and navigate more efficiently. It is part of the Zovo extension suite designed to enhance your Chrome experience.
+Using **Tab Suspender Pro** is an excellent way to keep your browser responsive. It automatically "hibernates" background tabs, freeing up resources so your active page stays smooth. This ensures that your **keyboard shortcuts** and **smooth scrolling** work instantly, providing a much more fluid browsing experience when navigating long articles.
 
-## Quick Summary
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-To quickly scroll to the top of any page in Chrome, the simplest method is to press the Home key on your keyboard. This works on most desktop keyboards and instantly jumps you to the top of the current webpage.
-
-If you do not have a Home key, try pressing Shift + Space to scroll up one screen at a time, or use Fn + Up Arrow on laptops and compact keyboards.
-
-These shortcuts work in Chrome on any website and will save you the time and effort of manually scrolling through long pages. Whether you need to get back to a menu, start a new search, or simply navigate more efficiently, these methods will help you get there in seconds.
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

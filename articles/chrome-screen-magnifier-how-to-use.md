@@ -46,24 +46,9 @@ This is a great solution for people who find that many websites use text that is
 
 ## Browser Extensions for Additional Features
 
-While Chrome's built-in tools are useful, sometimes you might want more features than the browser offers by default. There are browser extensions available that provide additional magnification options, including features like following your cursor automatically, highlighting text while reading, and smoother zoom transitions.
+While Chrome's built-in **zoom** and **accessibility features** are useful, running multiple high-resolution tabs can take a toll on your computer's performance. When you're using a **screen magnifier**, any lag or stuttering in the browser becomes much more noticeable and frustrating.
 
-One option worth considering is Tab Suspender Pro, which is an extension designed to help manage your browser tabs more efficiently. While its main purpose is to automatically suspend tabs you are not using to save memory and speed up your browser, it also includes features that can improve your overall browsing experience and make it easier to work with multiple tabs when you need to zoom or magnify content.
+To keep your browsing smooth, consider using **Tab Suspender Pro**. This extension automatically "hibernates" background tabs, freeing up **RAM** and **CPU** resources. This ensures that when you're **magnifying text** or scrolling through large, zoomed-in images, the browser remains perfectly responsive. It's an essential tool for anyone who needs to maintain a fast, accessible browsing environment without slowing down their system.
 
-Extensions like these work alongside Chrome's built-in features to give you more control over how content appears on your screen.
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Tips for Getting the Most Out of Magnification
-
-Now that you know how to turn on and use Chrome's magnification features, here are some tips to make them work better for you.
-
-First, start with small adjustments. If the default zoom makes everything too big, try increasing it gradually. A little bit of zoom often goes a long way toward making text readable.
-
-Second, remember that you can set different zoom levels for different websites. If you need one site to be Extra large but another is fine at the default, Chrome will remember both settings separately.
-
-Third, if you use the full screen magnifier, take some time to practice moving around the screen with it. It might feel awkward at first, but most people find it becomes second nature quickly.
-
-Finally, consider combining magnification with other Chrome accessibility features. High contrast mode can make text stand out more, and you can find these options in the same Accessibility settings area where you found the full screen magnifier.
-
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

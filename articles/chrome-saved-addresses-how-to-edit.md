@@ -70,8 +70,9 @@ Another issue could be related to your Google Account sync. If you are signed in
 
 ## Keeping Your Browser Running Smoothly
 
-Editing and managing your saved addresses is just one part of keeping Chrome running smoothly. A browser with too many open tabs can become slow and sluggish, making it harder to navigate settings and manage your information.
+Managing your **autofill settings** is just one part of maintaining a healthy browser. If you find that Chrome lags when opening the **Settings** menu or taking you to the **Addresses and more** page, it's likely due to high **memory usage**.
 
-Extensions like Tab Suspender Pro can help you keep your browser organized by automatically suspending tabs you are not using, which frees up memory and keeps Chrome responsive. While Tab Suspender Pro does not directly manage your saved addresses, a well-organized browser makes it much easier to find and use settings like the address autofill management page.
+Using **Tab Suspender Pro** helps by automatically "hibernating" background tabs that are eating up your **RAM**. This ensures that Chrome has the resources it needs to handle **syncing** and **autofill database** updates without stuttering. A lean browser makes it much easier to jump into your settings, fix a typo in your **saved address**, and get back to your shopping or research.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+

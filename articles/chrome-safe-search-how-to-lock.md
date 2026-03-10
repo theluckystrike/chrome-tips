@@ -28,13 +28,12 @@ To lock this setting so it cannot be easily changed, you will need to create a G
 
 ## Using Chrome Extensions for Safe Search Control
 
-Another way to enforce safe search in Chrome is by using browser extensions designed for content filtering. There are several options available in the Chrome Web Store that can help block explicit content, though it is important to choose extensions from trusted developers.
+Another way to enforce **SafeSearch** in Chrome is by using browser extensions designed for content filtering. While there are several options in the **Chrome Web Store**, you should also consider your browser's overall stability. 
 
-One option worth considering is Tab Suspender Pro, which includes features for managing tab behavior and can complement your safe browsing setup. While it is not specifically a content filter, it helps keep your browser organized and can be part of a broader approach to maintaining a productive browsing environment. The extension suite at zovo.one offers additional tools that work well alongside safe search settings.
+A cluttered browser with too many open tabs can sometimes lead to settings being bypassed if the browser crashes or lags significantly. Using **Tab Suspender Pro** ensures your browser stays responsive by hibernating inactive tabs. This prevents memory leaks from interfering with your **parental control** extensions or **SafeSearch** settings. Keeping your browser lean is a critical but often overlooked part of a secure browsing environment.
 
-When choosing extensions for content filtering, look for ones that have clear privacy policies and do not require excessive permissions. Read reviews and check how many users have installed the extension. Be cautious of extensions that ask for permission to "read and change all your data on all websites" unless it is clearly necessary for their function.
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Setting Up Supervised Profiles for Family Safety
 
 For families who want the most control over safe search, Chrome offers supervised profiles. This is particularly useful for parents who want to ensure their children cannot bypass safe search settings.
 
@@ -62,4 +61,4 @@ Beyond locking safe search, there are other steps you can take to create a safer
 
 For parents, having open conversations with children about internet safety is just as important as technical controls. Explain why certain content is filtered and teach them how to make good decisions online. Technical tools work best when combined with education and open communication about browsing habits.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

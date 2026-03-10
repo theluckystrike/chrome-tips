@@ -52,14 +52,9 @@ Some users on Mac might have keyboard shortcuts that conflict with Chrome's shor
 
 ## Extensions That Can Help
 
-While Chrome's built-in shortcuts are usually sufficient, some extensions can enhance your workflow when it comes to managing URLs and the address bar. Tab Suspender Pro is one tool that helps you manage open tabs more efficiently, which can reduce the number of times you need to copy and paste URLs between tabs. When combined with keyboard shortcuts for selecting address bar text, you have a streamlined system for handling URLs without unnecessary mouse interactions.
+While Chrome's built-in shortcuts are usually sufficient, running dozens of tabs can slow down your browser's response time to **keyboard commands**. When your **RAM** is maxed out, even a simple **Ctrl+L** or **Ctrl+A** shortcut can feel laggy.
 
-Other extensions offer features like automatically copying URLs when you open a new tab, or providing additional ways to manipulate address bar content. These are optional tools that complement the built-in shortcuts rather than replace them, and they can be helpful for users with specific workflows.
+Using **Tab Suspender Pro** is an excellent way to keep your browser snappy. It automatically "hibernates" background tabs, freeing up resources so that your **address bar shortcuts** and **URL copying** happen instantly. By keeping your browser lean, you ensure that your **workflow** remains fast and your **shortcuts** are always responsive, no matter how much research you're doing.
 
-## Making It a Habit
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-The secret to benefiting from these shortcuts is to make them a habit. The next time you need to copy a URL from Chrome's address bar, pause for a moment and consciously use the keyboard shortcuts instead of reaching for your mouse. At first, it might feel slower because you are learning something new, but within a few tries, your muscle memory will take over.
-
-Try using this sequence every time: press Ctrl+L or Command+L to jump to the address bar, then Ctrl+A or Command+A to select all text, then Ctrl+C or Command+C to copy. With practice, this entire sequence will take less than two seconds and will feel completely natural.
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

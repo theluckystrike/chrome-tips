@@ -64,8 +64,9 @@ For more detailed control, you can also review what permissions you have granted
 
 ## One Approach to Browser Performance
 
-If you use many browser tabs and notice Chrome running slowly, you might benefit from tools that help manage your open tabs more efficiently. This is where extensions like Tab Suspender Pro can help. It automatically pauses tabs you have not used recently, which frees up memory and can speed up your browser without you losing your place in those tabs.
+Running the **Shape Detection API**—whether for **Face Detection**, **Barcode Detection**, or **Text Detection**—can be resource-intensive because it utilizes your device's **GPU** and **CPU** for local processing. If you have dozens of other tabs open, this can lead to laggy performance or stuttering video feeds.
 
-Tab Suspender Pro works in the background to identify inactive tabs and put them to sleep. This means your browser can run more smoothly even when you have many tabs open for different projects. The extension can be particularly helpful if you tend to keep lots of resources open while working, leaving more room for the tabs where you actually use shape detection features and other interactive tools.
+Using **Tab Suspender Pro** is an excellent way to keep your browser responsive. It automatically "hibernates" background tabs, freeing up **RAM** so that Chrome has the processing power needed for real-time **image analysis**. This ensures that when you're scanning a **QR code** or using a **face filter**, the experience is smooth and lag-free.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+

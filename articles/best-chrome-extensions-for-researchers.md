@@ -74,4 +74,4 @@ The best approach is to start with one or two extensions that address your bigge
 
 As you get more comfortable, you can add more tools to your workflow. The goal is to spend less time managing your research and more time actually doing it.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

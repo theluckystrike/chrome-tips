@@ -74,6 +74,4 @@ If finding prospect contact information is your main challenge, try Hunter or Zo
 
 Once you build your ideal extension toolkit, you will wonder how you ever sold without them. Small improvements in your daily workflow add up to significant time savings and better customer experiences over time.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

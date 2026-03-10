@@ -58,4 +58,4 @@ If the issue persists across multiple websites and you have tried everything els
 
 Most of the time, the ERR_NAME_NOT_RESOLVED error is nothing serious. It is usually just a simple typo, a temporary DNS issue, or a minor configuration problem that you can resolve in a few minutes. Now that you know what causes it and how to fix it, you can get back to browsing the web without frustration.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

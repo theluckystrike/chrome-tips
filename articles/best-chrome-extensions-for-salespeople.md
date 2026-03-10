@@ -80,4 +80,4 @@ The best chrome extensions for salespeople are the ones that fit naturally into 
 
 Remember that these extensions are meant to help you spend more time selling and less time managing tools. The right combination of extensions can make your browser work for you instead of against you, ultimately helping you close more deals and build stronger relationships with your prospects.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

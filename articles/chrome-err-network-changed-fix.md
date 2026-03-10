@@ -80,4 +80,4 @@ The chrome err network changed error is annoying but usually fixable. Start by c
 
 With these steps, you should be able to resolve ERR_NETWORK_CHANGED and get back to browsing without interruption. If the error persists despite trying these solutions, your internet service provider might be experiencing issues, or there could be a hardware problem with your network equipment.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -103,3 +103,5 @@ Chrome startup pages configuration is a powerful but often underutilized feature
 Take some time to evaluate how you typically begin your browsing sessions and experiment with different startup configurations. The optimal setting might change over time as your needs evolve, and Chrome makes it easy to adjust your preferences at any point. By investing a few minutes in configuring your startup behavior, you can save time and mental energy every time you open your browser.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

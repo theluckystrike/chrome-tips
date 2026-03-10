@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Built-In PDF Editor Guide"
 description: "Master Chrome's built-in PDF editor to fill forms, sign documents, add text, and save edits directly in your browser without additional software."
 date: 2026-01-15
@@ -96,4 +96,4 @@ Give these tools a try with your next PDF task. You might find that Chrome's int
 
 ---
 
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)

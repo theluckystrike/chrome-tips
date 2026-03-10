@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Proxy Settings Guide"
 description: "Learn how to configure proxy settings in Google Chrome including system proxy, PAC files, SOCKS5, and extension-based proxies for enhanced privacy and performance."
 date: 2026-01-15

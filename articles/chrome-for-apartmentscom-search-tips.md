@@ -29,3 +29,5 @@ Finally, remember to clear your browser cache and cookies every now and then dur
 Finding the right apartment takes time, but using Chrome smartly can make the process much less stressful. From organizing tabs and bookmarks to using extensions like Tab Suspender Pro to keep your browser fast, there are plenty of ways to work with your browser instead of against it. Give these tips a try on your next apartment hunt and see how much easier it feels to stay organized and focused on finding the right place for you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

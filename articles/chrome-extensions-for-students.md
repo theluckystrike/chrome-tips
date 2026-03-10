@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "best chrome extensions for students 2026"
-description: "Discover the best chrome extensions for students in 2026. Boost productivity with Grammarly, Todoist, Noisli, Mercury Reader, Zotero, and Tab Suspender Pro."
+layout: default
+title: "Best Chrome Extensions for Students 2026"
+description: "Discover the best Chrome extensions for students in 2026. Boost academic productivity with Grammarly, Todoist, Noisli, Mercury Reader, Zotero, and Tab Suspender Pro."
 date: 2026-01-15
 categories: [extensions, productivity, students]
 tags: [chrome-extensions, student-productivity, study-tools, browser]

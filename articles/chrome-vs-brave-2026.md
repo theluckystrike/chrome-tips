@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "chrome vs brave 2026 comparison"
-description: "A comprehensive comparison of Chrome vs Brave in 2026: ad blocking capabilities, privacy features, crypto integration, browser compatibility, and performance analysis."
+layout: default
+title: "Chrome vs Brave 2026 Comparison"
+description: "A comprehensive comparison of Chrome vs Brave in 2026: ad blocking capabilities, privacy features, crypto integration, browser compatibility, and performance analysis. Find which browser is best for your needs."
 date: 2026-01-20
 categories: [browsers, privacy, comparison]
 tags: [chrome, brave, browser-comparison, ad-blocking, privacy, crypto, 2026]

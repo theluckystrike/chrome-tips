@@ -106,3 +106,7 @@ The Chrome Omnibox is far more than a simple address bar. Its hidden features—
 
 Take some time to explore these capabilities and incorporate them into your daily browsing habits. Whether you're a power user managing dozens of tabs or someone who occasionally needs quick calculations, the Omnibox has something to offer. Combined with thoughtful use of extensions like Tab Suspender Pro for tab management, you can create a highly efficient browsing environment tailored to your needs.
 
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+

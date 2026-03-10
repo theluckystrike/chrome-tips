@@ -24,12 +24,9 @@ One of the most practical aspects of using Chrome's PDF tools is that your chang
 
 Before you can edit a PDF, you need to open it correctly in Chrome. There are several ways to do this, and understanding all of them will help you work more efficiently.
 
-<<<<<<< HEAD
-The simplest method is to drag and drop your PDF file directly onto an open Chrome window. Chrome will automatically recognize the file type and open it in the built-in PDF viewer. Alternatively, you can click the three-dot menu in the top-right corner of Chrome, select "Open File," and navigate to your PDF.
-
-You can also open PDFs directly from web pages. Many websites that offer PDF downloads will launch the document in Chrome's PDF viewer automatically. When you click such a link, Chrome will display the PDF within the browser window rather than downloading it, allowing you to view and edit it immediately.
-=======
 The simplest method is to **drag and drop** your PDF directly onto a Chrome window. Chrome will automatically open the file in its built-in PDF viewer. This method works particularly well when you have the PDF file visible on your desktop or in a folder window. Simply click and hold the file, drag it over to your Chrome window, and release. Chrome immediately opens the document, ready for editing.
+
+Alternatively, you can press **Ctrl+O** (or **Cmd+O** on Mac) to open the file browser, then navigate to your PDF and select it. This approach is useful when you need to browse through multiple folders to find your document. The file browser works like any standard open dialog, so you can navigate using your keyboard or mouse.
 
 Alternatively, you can press **Ctrl+O** (or **Cmd+O** on Mac) to open the file browser, then navigate to your PDF and select it. This approach is useful when you need to browse through multiple folders to find your document. The file browser works like any standard open dialog, so you can navigate using your keyboard or mouse.
 >>>>>>> qa/loop-4

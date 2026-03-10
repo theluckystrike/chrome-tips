@@ -128,6 +128,5 @@ Remember to regularly review your permissions, be selective about what you allow
 ---
 =======
 Chrome's permissions manager puts you in the driver's seat. Take the time to configure it according to your comfort level, and your browsing experience will be both more powerful and more private.
->>>>>>> qa/loop-4
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

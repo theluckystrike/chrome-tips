@@ -88,19 +88,6 @@ Go to **Settings**, then **Accessibility**, and look for the option to move the 
 
 Alternatively, go to `chrome://flags` and search for **"Chrome Duet"** or **"Bottom toolbar"** for additional bottom-bar options.
 
-<<<<<<< HEAD
-## Manage Resources with Tab Suspender Pro
-
-While Chrome on Android handles memory management differently than the desktop version, many users also browse on their laptops. If you find your desktop Chrome slowing down with too many open tabs, **Tab Suspender Pro** is an essential extension. It automatically suspends inactive tabs, freeing up RAM and keeping your browser fast. You can sync your browsing habits across devices to ensure a smooth experience everywhere.
-
-## Translate Pages Instantly
-
-When you visit a page in a foreign language, Chrome automatically offers to translate it. Tap the **translate bar** at the bottom of the screen. You can set Chrome to always translate specific languages automatically in **Settings**, **Languages**.
-
-## Quick Incognito
-
-Long-press the Chrome icon on your home screen. A shortcut to **"New Incognito tab"** appears. Tap it to jump directly into private browsing without opening Chrome first.
-=======
 ## Sync Tabs and Manage Resources
 
 For users who switch between their Android phone and a desktop computer, Chrome's sync feature is a lifesaver. Your open tabs, history, and bookmarks are available on all your devices. However, having many tabs open on your desktop can slow it down. This is where an extension like **Tab Suspender Pro** becomes invaluable. It automatically suspends inactive tabs on your desktop, freeing up memory. A faster desktop Chrome experience often leads to a snappier synced experience on your Android device as well.
@@ -112,6 +99,5 @@ When you visit a page in a foreign language, Chrome automatically offers to tran
 ## Quick Incognito
 
 Long-press the Chrome icon on your home screen. A shortcut to **"New Incognito tab"** appears. Tap it to jump directly into private browsing without opening Chrome first. This is the fastest way to start a private session.
->>>>>>> qa/loop-4
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

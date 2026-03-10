@@ -108,4 +108,4 @@ For additional tips on optimizing your Chrome experience and maximizing browser 
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

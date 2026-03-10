@@ -2,22 +2,31 @@
 layout: default
 title: "Chrome Memory Leak Detection Guide"
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> consumer/a50-chrome-memory-leak-detection
 description: "Learn how to detect and fix memory leaks in Chrome using heap snapshots, allocation timeline, detached DOM analysis, and performance monitor. Complete guide for developers and power users."
 date: 2026-01-20
 categories: [performance, development, chrome]
 tags: [chrome-memory-leak, heap-snapshots, performance, debugging, chrome-devtools]
+<<<<<<< HEAD
 =======
 description: "Master Chrome memory leak detection using DevTools heap snapshots, allocation timeline, detached DOM analysis, and performance monitor to optimize browser performance."
 date: 2026-03-10
 categories: [performance, troubleshooting]
 tags: [chrome-memory-leak, chrome-devtools, heap-snapshot, performance-monitor, memory-optimization]
 >>>>>>> consumer/a5-chrome-memory-leak-detection
+=======
+>>>>>>> consumer/a50-chrome-memory-leak-detection
 author: theluckystrike
 ---
 
 # Chrome Memory Leak Detection Guide
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> consumer/a50-chrome-memory-leak-detection
 Memory leaks are one of the most frustrating issues that can affect your browsing experience and web applications. They creep in slowly, gradually consuming more and more of your available RAM until your browser starts to feel sluggish, tabs begin to crash, or your entire system slows to a crawl. Understanding how to detect and diagnose memory leaks in Chrome is an essential skill whether you are a web developer building complex applications or a power user who keeps dozens of tabs open throughout the day.
 
 Chrome provides a powerful set of built-in developer tools that make memory leak detection significantly more manageable. These tools allow you to take a deep dive into how your browser is using memory, identify which parts of a page are holding onto memory they should have released, and track down the exact cause of the problem. In this comprehensive guide, we will explore the four most important memory analysis features in Chrome DevTools: Heap Snapshots, Allocation Timeline, Detached DOM analysis, and Performance Monitor.

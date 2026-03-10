@@ -167,3 +167,7 @@ The Chrome Geolocation API provides powerful capabilities for building location-
 Remember to always request location only when necessary, handle errors gracefully, provide fallback options, and be transparent about how you use location data. Following these best practices will result in better user experiences and more successful location-based applications.
 
 For developers building Chrome extensions or resource-conscious applications, also consider how browser features like tab suspension can affect geolocation functionality, and design your applications to handle these edge cases appropriately.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

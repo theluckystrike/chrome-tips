@@ -62,4 +62,4 @@ If you find that managing your browser settings and extensions feels overwhelmin
 
 Using a tool like this, combined with regular attention to your browser settings, can give you a smoother and more controlled browsing experience.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -64,4 +64,4 @@ Learning how to turn off chrome predictive loading is a useful skill that gives 
 
 If you are looking for additional ways to manage Chrome tabs and improve browser performance, consider trying extensions like Tab Suspender Pro that offer more detailed control over how tabs consume resources.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

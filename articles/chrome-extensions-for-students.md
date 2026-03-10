@@ -88,7 +88,7 @@ Organizing research is effortless with Zotero's collections and tags system. You
 
 Collaboration is another strength of Zotero. You can share your library with research partners, making it easy to build a shared collection of sources for group projects. This eliminates the need to exchange citation lists manually and ensures everyone has access to the same materials.
 
-Zotero also includes a note-taking feature that allows you to annotate sources and write research notes directly within the application. These notes can be tagged, organized, and searched, making it easier to synthesize information from multiple sources. For students working on large research projects, this feature helps maintain clarity and organization throughout the research process.
+## Tab Suspender Pro: Keep Your Browser Running Smoothly
 
 With so many extensions and tabs open, Chrome can become resource-intensive, especially when you are working on research-heavy projects or have multiple references open simultaneously. Tab Suspender Pro helps manage this by automatically suspending tabs that you are not actively using, freeing up memory and keeping your browser responsive.
 

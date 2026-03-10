@@ -52,6 +52,24 @@ The Side Panel remembers which tool you had open last. If you close it while vie
 
 You can switch between Side Panel tools using the dropdown at the top of the panel. Click the dropdown and select Bookmarks, Reading List, Search, or whatever else is available.
 
+## Keyboard Shortcuts for the Side Panel
+
+For power users who prefer the keyboard over the mouse, Chrome offers a quick way to toggle the Side Panel. On Windows, Linux, and ChromeOS, you can press **Ctrl + Shift + L**. On a Mac, the shortcut is **Cmd + Shift + L**. 
+
+Pressing this combination will instantly slide the panel open or closed. This is particularly useful when you're in the middle of typing and need to quickly check a bookmark or a saved article without moving your hands to your mouse. Once the panel is open, you can use the **Tab** key to navigate through the different tools and options within it.
+
+## Managing Side Panel Notifications and Alerts
+
+Some extensions that live in the **Side Panel** might send you notifications or alerts. You can manage these directly from the panel's settings. Look for a gear icon or a "more options" button within the specific tool you're using.
+
+If you find that a particular extension is being too noisy, you can mute its notifications without closing the Side Panel entirely. This allows you to keep your tools visible while maintaining a focused, distraction-free environment. For example, a task manager in the Side Panel might notify you when a due date is approaching, but you can choose to only see a visual indicator rather than hearing an alert sound.
+
+## Customizing the Side Panel Layout
+
+While the **Side Panel** always opens on the right side by default, some users prefer it on the left. You can change this in Chrome's **Appearance** settings. Go to the three-dot menu, select Settings, and then click on Appearance. Look for the "Side panel" section, where you can choose whether the panel appears on the right or left.
+
+Having the panel on the left can feel more natural for some users, especially if they are used to the sidebar layouts in other productivity tools or operating systems. Experiment with both positions to see which one works best for your specific workflow and monitor setup.
+
 ## Side Panel Extensions and Performance
 
 Many modern extensions are specifically designed to work within the **Side Panel**. Dictionary tools can show definitions alongside the page you're reading, and note-taking apps let you jot down ideas without switching tabs.

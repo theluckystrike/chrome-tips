@@ -36,6 +36,18 @@ Task management becomes much easier with Todoist in the side panel. You can view
 
 The extension shows your projects and due dates in a compact view that fits nicely in the side panel. You can prioritize tasks, set labels, and filter by project, all from this small window. For people who struggle with keeping track of what needs to be done, having Todoist readily available in the side panel can significantly improve productivity.
 
+## Grammarly
+
+For anyone who writes in their browser, Grammarly is one of the **chrome side panel extensions best ones**. While the main extension highlights errors directly in text fields, the side panel view provides a more comprehensive look at your writing. You can see your overall "score," tone suggestions, and detailed explanations for any grammatical errors.
+
+This is particularly useful when you're writing long emails, blog posts, or reports. Instead of scrolling through a long document to find red underlines, you can see all your suggestions at a glance in the side panel. It allows you to refine your writing without losing your place on the page, making the editing process much faster and more efficient.
+
+## Pocket
+
+If you find yourself constantly bookmarking articles to read later, Pocket in the side panel is a must-have. Instead of opening a new tab to see your saved content, you can view your reading list directly in the side panel. This makes it easy to refer back to research articles or catch up on reading during short breaks.
+
+The Pocket side panel shows your saved items in a clean, readable list. You can archive articles, add tags, and even search your library without leaving your current page. For researchers and avid readers, this integration turns the side panel into a dedicated reading space that stays out of the way until you need it.
+
 ## Tab Suspender Pro
 
 While **Tab Suspender Pro** is primarily an optimization tool, it integrates beautifully with the **Chrome side panel**. When you're managing dozens of open tabs, your browser's **RAM usage** can skyrocket, leading to crashes and lag.

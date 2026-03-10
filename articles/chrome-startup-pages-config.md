@@ -65,3 +65,7 @@ If you have a consistent daily routine that involves the same websites every day
 If you prefer a clean slate for each browsing session, if you like the flexibility to decide what to open based on your current needs, or if you simply prefer the minimal aesthetic of the new tab page, this option might be ideal for you. You can enhance the new tab page with extensions to add useful features while maintaining its clean appearance.
 
 Many users find that the best approach is to experiment with different configurations over time, adjusting as their needs change. Chrome makes it easy to change your startup settings, so do not hesitate to try different options until you find the one that works best for you. With the right startup configuration, Chrome can become an even more powerful tool for productivity and browsing enjoyment.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

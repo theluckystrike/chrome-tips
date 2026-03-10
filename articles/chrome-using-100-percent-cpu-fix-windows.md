@@ -68,4 +68,4 @@ After you have fixed the immediate problem, a few ongoing habits can help you av
 
 By understanding what causes Chrome to use excessive CPU and taking these steps, you can enjoy a faster, more responsive browsing experience on Windows without constantly battling high resource usage.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -48,7 +48,7 @@ Chrome auto-detects screen readers on startup and enables accessibility mode aut
 
 - **Headings and landmarks not detected:** Press **H** to jump between headings and **D** to jump between landmarks. If these do not work, the website likely has improper heading structure. You can verify by pressing **NVDA+F7** to open the Elements List, which shows all headings, links, and landmarks NVDA detected on the page.
 
-- **Slow performance with many tabs:** NVDA scans each tab's accessibility tree. With 30+ tabs, this can consume significant CPU. Suspending inactive tabs (Settings > Performance > Memory Saver) reduces the load since suspended tabs do not maintain accessibility trees.
+- **Slow performance with many tabs:** NVDA scans each tab's accessibility tree. With 30+ tabs, this can consume significant CPU. Suspending inactive tabs with a tool like **Tab Suspender Pro** or Chrome's native Memory Saver reduces the load since suspended tabs do not maintain accessibility trees.
 
 ## VoiceOver (macOS)
 
@@ -97,6 +97,4 @@ After configuring your screen reader, test on these sites to verify functionalit
 
 If these sites read correctly, your setup is working. Issues on other sites are most likely caused by poor website accessibility rather than your configuration.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

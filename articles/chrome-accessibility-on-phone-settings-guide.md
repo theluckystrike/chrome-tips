@@ -80,6 +80,4 @@ While Chrome built-in accessibility features cover most common needs, some situa
 
 For users with significant visual impairments, dedicated screen reader apps and magnification tools available through your phone operating system can provide additional support beyond what Chrome offers.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

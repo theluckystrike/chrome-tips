@@ -30,7 +30,7 @@ One popular extension that helps with this is Tab Suspender Pro. It is designed 
 
 Chrome also allows you to set a custom URL for your new tab page through enterprise policies or certain extensions. This means you can use a web-based dashboard service as your new tab, giving you even more flexibility in what you display. Some people use services like Notion, Todoist, or custom-built web pages as their new tab, pulling in information from various sources into a single view.
 
-Chrome's built-in features like the address bar shortcuts can be configured to perform quick searches across your favorite tools. For example, you can set up shortcuts to search your Gmail, Google Calendar, or any other web app directly from the address bar. This saves a few clicks here and there, though it does not give you the full dashboard experience.
+There are several approaches to creating a productivity dashboard in Chrome, and the right one for you depends on your needs and technical comfort level. The simplest method is to use Chrome itself. You can customize your new tab page by installing extensions that specialize in turning it into a dashboard, or you can use the built-in features that Chrome provides.
 
 The best productivity dashboard is one that you actually use. It should contain the information and tools that match your daily workflow, without being so cluttered that it becomes distracting. Here are some elements worth considering.
 

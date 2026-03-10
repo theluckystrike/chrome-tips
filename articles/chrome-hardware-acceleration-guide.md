@@ -88,15 +88,17 @@ Screen tearing is another issue that can occur with hardware acceleration. This 
 
 ## Optimizing Chrome Performance Beyond Hardware Acceleration
 
-While hardware acceleration is a powerful tool, optimizing Chrome performance involves more than just enabling one setting. There are several complementary practices that can enhance your browsing experience.
+While hardware acceleration is a powerful tool, optimizing Chrome performance involves more than just enabling one setting. There are several complementary practices that can enhance your browsing experience significantly.
 
-Keeping Chrome updated ensures you have the latest performance improvements and security patches. Chrome typically updates automatically, but you can check for updates by navigating to `chrome://settings/help`.
+Keeping Chrome updated ensures you have the latest performance improvements and security patches. Chrome typically updates automatically, but you can check for updates by navigating to `chrome://settings/help`. Newer versions of Chrome often include optimizations for hardware acceleration and better GPU utilization. Staying current with Chrome updates is one of the simplest ways to maintain optimal performance.
 
-Managing extensions is crucial for performance. Each extension you install adds overhead to Chrome, and poorly designed extensions can significantly impact performance. Review your installed extensions periodically and remove any that you no longer use. If you need to keep many extensions installed, consider using extension suspenders that disable them when not in use.
+Managing extensions is crucial for performance. Each extension you install adds overhead to Chrome, and poorly designed extensions can significantly impact performance. Review your installed extensions periodically and remove any that you no longer use. If you need to keep many extensions installed, consider using extension suspenders that disable them when not in use. Some extensions run background scripts continuously, which can interfere with hardware acceleration and cause unexpected resource consumption.
 
-Clearing cache and browsing data regularly can also improve performance. Over time, cached files accumulate and can slow down your browser. You can clear this data through Chrome's settings under Privacy and Security.
+Clearing cache and browsing data regularly can also improve performance. Over time, cached files accumulate and can slow down your browser. You can clear this data through Chrome's settings under Privacy and Security. In addition to freeing up disk space, clearing the cache can resolve various rendering issues that might be related to cached corrupt data.
 
 If you have a powerful GPU, you might benefit from Chrome features that push hardware acceleration even further. Features like "Override software rendering list" in chrome://flags can force hardware acceleration for content that Chrome would normally render with software. Use these features with caution, as they can cause instability on some systems.
+
+Another important aspect of optimization is monitoring system resource usage. Chrome includes a built-in task manager that you can access by pressing Shift+Escape. This shows you exactly how much CPU, memory, and network resources each tab and extension is using. If you notice that a particular tab is consuming excessive resources despite hardware acceleration being enabled, you can investigate further or close that tab to restore performance.
 
 ## Conclusion
 

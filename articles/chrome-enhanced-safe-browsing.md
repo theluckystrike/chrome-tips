@@ -56,7 +56,11 @@ This proactive approach means you are protected against emerging threats rather 
 
 Chrome Enhanced Safe Browsing includes sophisticated phishing detection capabilities designed to identify these deceptive sites before you become a victim. The system uses multiple signals to determine whether a site is likely to be a phishing attempt.
 
+<<<<<<< HEAD
 One of the primary signals is visual similarity. Phishing sites often copy the look and feel of legitimate websites to fool users. Chrome's detection system analyzes the visual elements of pages you visit and compares them against known legitimate sites. If a page is attempting to imitate a banking site, social media platform, or other trusted service in a way that suggests deception, Chrome will flag it.
+=======
+While Enhanced Safe Browsing provides excellent protection, you should still exercise caution when downloading files. Even with this protection, it is wise to only download files from trusted sources and to keep your operating system and other software up to date with the latest security patches.
+>>>>>>> qa/loop-2
 
 Another important signal is the domain itself. Attackers frequently use domain names that are similar to legitimate services but contain subtle differences, such as typos or additional characters. Chrome maintains a database of known phishing domains and can also detect patterns that suggest a domain is trying to impersonate a trusted brand.
 

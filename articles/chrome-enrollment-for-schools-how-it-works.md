@@ -80,4 +80,6 @@ The initial setup requires some planning and configuration, but the long-term be
 
 Whether you are managing fifty devices or five thousand, chrome enrollment provides the controls and flexibility that educational institutions need to support modern learning.
 
+---
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

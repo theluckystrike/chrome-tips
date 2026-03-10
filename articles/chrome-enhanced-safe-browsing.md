@@ -111,3 +111,7 @@ Chrome Enhanced Safe Browsing represents a significant advancement in browser-ba
 The combination of real-time URL checking, sophisticated phishing detection, comprehensive download scanning, and extension safety verification provides a multi-layered defense system that works continuously to keep you safe. While no security measure is foolproof, Enhanced Safe Browsing adds a powerful layer of protection that makes it much more difficult for attackers to succeed.
 
 Remember that security is an ongoing process, not a one-time configuration. Stay informed about new threats, keep your software updated, and maintain good browsing habits. With Chrome Enhanced Safe Browsing as part of your security strategy, you can browse the web with greater confidence and peace of mind.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

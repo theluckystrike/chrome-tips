@@ -92,6 +92,10 @@ For users who enable custom DNS providers, double-check that the URL is correct 
 
 While DNS over HTTPS is an excellent security enhancement, it is just one part of a comprehensive privacy strategy. Taking additional steps to protect your browsing privacy will provide more complete protection against tracking and surveillance.
 
+For users who want to further enhance their privacy and improve browser performance, consider using extensions like Tab Suspender Pro. This extension automatically suspends inactive tabs to reduce memory usage and prevent websites from running background processes that could track your activity. By combining DNS over HTTPS with thoughtful tab management, you create multiple layers of protection for your browsing sessions.
+
+The combination of encrypted DNS and tab suspension creates a more private and efficient browsing experience. When tabs are suspended, they cannot execute JavaScript or make network requests, which means trackers embedded in those pages cannot operate while you are not actively viewing them. This complements the privacy protection provided by DNS over HTTPS by addressing both the network-level and browser-level aspects of online tracking.
+
 Consider enabling Chrome's other security features alongside DNS over HTTPS. The browser includes Safe Browsing, which warns you about potentially dangerous websites before you visit them. Enhanced protection in Chrome's security settings provides even more sophisticated protection by analyzing URLs in real-time against Google's database of threats. HTTPS-First mode, another useful feature, ensures that Chrome always attempts to connect to websites using secure HTTPS connections whenever possible.
 
 Using a privacy-focused search engine can complement the privacy benefits of DNS over HTTPS. While your DNS queries are now encrypted, using a search engine that logs your searches can still reveal significant information about your interests and activities. Search engines like DuckDuckGo, Startpage, or Brave Search offer alternatives that do not track your search history.

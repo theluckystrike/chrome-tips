@@ -24,7 +24,7 @@ The fastest way to access your recently closed tabs is by using a keyboard short
 
 What makes this shortcut particularly useful is that you can keep pressing it to cycle through multiple closed tabs. If you closed several tabs at once, you can press the shortcut repeatedly to reopen them in the order they were closed, from most recent to oldest. This is especially helpful when you have been working with many tabs and need to recover several pages.
 
-Chrome remembers your recently closed tabs only for the current browsing session. If you close and restart Chrome completely, the history of recently closed tabs will be cleared. For this reason, it is best to use the shortcut relatively soon after closing a tab if you want to recover it.
+It is important to note that Chrome remembers your recently closed tabs only for the current browsing session. If you close and restart Chrome completely, the history of recently closed tabs will be cleared. For this reason, it is best to use the shortcut relatively soon after closing a tab if you want to recover it.
 
 ## Using the Tab Strip Menu
 
@@ -66,4 +66,4 @@ For users who frequently need to recover closed tabs, consider enabling Chrome's
 
 The chrome recently closed tabs shortcut is a simple but powerful tool that every Chrome user should know. Whether you prefer using Ctrl+Shift+T on Windows or Cmd+Shift+T on Mac, or you prefer using the right click menu or history, there are multiple ways to access your recently closed tabs. By understanding these methods and incorporating good tab management habits into your browsing routine, you can work more efficiently and avoid the stress of losing important pages.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

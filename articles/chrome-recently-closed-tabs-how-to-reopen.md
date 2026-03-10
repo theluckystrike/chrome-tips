@@ -24,7 +24,7 @@ The fastest way to reopen a recently closed tab in Chrome is by using a keyboard
 
 You can keep pressing this shortcut to reopen multiple closed tabs in the order they were closed. This is particularly useful if you have closed several tabs at once or if Chrome has restarted unexpectedly. The keyboard shortcut works immediately and does not require you to navigate through any menus, making it the quickest solution for most situations.
 
-Chrome remembers your closed tabs for the current browsing session. If you restart Chrome or close the browser completely, the history of recently closed tabs may be cleared, so it is best to use this method relatively soon after closing a tab.
+It is important to note that Chrome remembers your closed tabs for the current browsing session. If you restart Chrome or close the browser completely, the history of recently closed tabs may be cleared, so it is best to use this method relatively soon after closing a tab.
 
 ## Reopening Tabs Through the History Menu
 
@@ -60,4 +60,4 @@ For users who frequently need to recover closed tabs, consider using extensions 
 
 Learning how to reopen recently closed tabs in Chrome is a valuable skill that can save you time and prevent frustration. Whether you prefer using the quick keyboard shortcut, browsing through your history, or using an extension like Tab Suspender Pro, there are multiple ways to recover a closed tab. By understanding these methods and incorporating good tab management habits into your browsing routine, you can work more efficiently and avoid the stress of losing important pages. With a little practice, reopening closed tabs will become second nature, and you will be able to navigate Chrome with confidence.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

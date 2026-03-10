@@ -60,4 +60,4 @@ Both browsers are free to download and use, so you can try both and see which on
 
 If you find that Chrome uses too many tabs and slows down your computer, you might also consider using a tab management extension like Tab Suspender Pro. This tool automatically puts inactive tabs to sleep to free up memory and keep your browser running smoothly. It works well with Chrome and can help you get more done without your browser getting sluggish.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

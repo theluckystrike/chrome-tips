@@ -72,4 +72,4 @@ Finally, keep your Chrome browser updated. Updates often include performance imp
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

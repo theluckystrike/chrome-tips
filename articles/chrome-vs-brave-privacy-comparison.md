@@ -64,4 +64,4 @@ The most important thing is to understand what each browser does with your data.
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

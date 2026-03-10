@@ -54,4 +54,4 @@ Learning the chrome tab search shortcut is just the beginning. Developing good h
 
 With the chrome tab search shortcut and a few organizational strategies, you can quickly find any tab in your browser no matter how many you have open. Whether you rely on the built-in tools or supplement them with an extension like Tab Suspender Pro, taking a few moments to manage your tabs effectively will make your browsing experience much more efficient and less stressful.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

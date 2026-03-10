@@ -70,4 +70,4 @@ Try using Reading Mode whenever you plan to read through an article carefully. I
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

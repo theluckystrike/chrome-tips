@@ -64,4 +64,4 @@ Keep Chrome updated, as updates often include security fixes that prevent malici
 
 One helpful tool for managing your browser and avoiding unwanted redirects is Tab Suspender Pro. This extension helps you manage your open tabs efficiently, reducing clutter and making it easier to spot when something is not right with your browser. While it is not specifically designed to remove viruses, it helps you maintain better control over your browsing environment and can make it easier to notice when your browser is behaving strangely.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

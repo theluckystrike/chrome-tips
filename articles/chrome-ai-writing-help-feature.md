@@ -70,4 +70,6 @@ Start with small tasks and gradually expand how you use the tools. For example, 
 
 Remember that these tools are designed to support you, not to do all the work for you. Your unique voice and perspective are what make your writing special. AI can help you express yourself more clearly and efficiently, but the final output should always reflect your own thoughts and ideas.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

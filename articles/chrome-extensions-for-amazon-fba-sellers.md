@@ -56,4 +56,4 @@ Most extensions mentioned here are available through the Chrome Web Store and ca
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

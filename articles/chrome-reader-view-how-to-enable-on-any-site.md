@@ -60,4 +60,4 @@ Remember that Tab Suspender Pro can help keep your browser running smoothly, whi
 
 The next time you encounter a cluttered website that makes reading difficult, try one of these solutions. You might be surprised at how much more you can read and how much less tired your eyes feel when the distractions are removed.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

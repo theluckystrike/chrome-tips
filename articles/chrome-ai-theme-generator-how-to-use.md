@@ -76,4 +76,6 @@ Chrome also offers traditional theme options in the same Appearance settings are
 
 For those interested in deeper customization, Chrome Web Store offers numerous theme extensions with various designs. These can complement the AI-generated themes or serve as alternatives if you prefer not to use the AI feature for any reason.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

@@ -76,4 +76,4 @@ Be cautious when installing other software on your computer. Some free programs 
 
 Consider using an extension that helps manage your tabs and browser behavior. Tab Suspender Pro is one option that can help you maintain better control over your browsing environment by letting you organize and manage your tabs more efficiently. This makes it easier to notice when something is not working as expected.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

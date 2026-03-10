@@ -64,4 +64,6 @@ Learning how to use tab stacking in Chrome is about finding a system that fits y
 
 The most important thing is to actually use the tools consistently rather than letting your tabs spiral out of control. Even small improvements, like grouping related tabs together or closing ones you no longer need, can make a big difference in how much easier your browsing feels. Give these approaches a try and see which combination works best for you.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+---
+
+*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

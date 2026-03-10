@@ -72,4 +72,4 @@ Running repeated recordings or keeping many tabs open while testing can sometime
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

@@ -64,4 +64,4 @@ Now that you know how Chrome Tab to Search works, try it next time you are looki
 
 The beauty of Tab to Search is that it fits naturally into how you already use Chrome. You already use the address bar for searching and navigating. Now that same action can help you find your existing tabs, closing the gap between looking something up and finding something you already had open.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one

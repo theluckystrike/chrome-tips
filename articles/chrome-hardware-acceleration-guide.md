@@ -125,3 +125,7 @@ Take some time to experiment with hardware acceleration settings on your system.
 **What's the difference between hardware acceleration in Chrome versus other browsers?** Most modern browsers support hardware acceleration, and the underlying technology is similar across platforms. However, the implementation details and default settings may vary. Chrome tends to have hardware acceleration enabled by default, while some browsers may require you to enable it manually.
 
 By understanding these common questions and answers, you can make more informed decisions about using hardware acceleration and troubleshoot issues more effectively. The feature is designed to work seamlessly in the background, improving your browsing experience without requiring constant attention or adjustment.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

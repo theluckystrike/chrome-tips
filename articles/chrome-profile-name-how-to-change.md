@@ -68,4 +68,4 @@ You can change your profile name as often as you like. There is no limit on how 
 
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

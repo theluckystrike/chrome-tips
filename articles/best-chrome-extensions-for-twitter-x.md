@@ -82,6 +82,4 @@ The best chrome extensions for Twitter X are the ones that address your specific
 
 You do not need to install every extension mentioned here. Start with one or two that address your biggest pain points, then add more as you identify other areas for improvement. The right combination of extensions can dramatically improve your Twitter X experience while helping you achieve your goals more efficiently.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -18,7 +18,7 @@ Modern web development involves juggling multiple responsibilities that can quic
 
 One common frustration is managing numerous tabs while developing. You might have your code editor open alongside documentation, API endpoints, design mockups, and testing environments. This tab overload can slow down your browser and make it difficult to switch quickly between resources. Additionally, repetitive tasks like formatting JSON responses or taking screenshots of your work can eat up valuable time that could be spent on actual development.
 
-Another challenge is staying productive across different projects. Each project may have its own set of requirements, testing environments, and documentation that you need to access frequently. Without the right tools, you might find yourself重复 performing the same manual steps over and over, which is not only tedious but also prone to errors.
+Another challenge is staying productive across different projects. Each project may have its own set of requirements, testing environments, and documentation that you need to access frequently. Without the right tools, you might find yourself repeatedly performing the same manual steps over and over, which is not only tedious but also prone to errors.
 
 ## How Development Extensions Help
 

@@ -1,117 +1,129 @@
 ---
 layout: post
 title: "Best Chrome Extensions for Students 2026"
-description: "Discover the best Chrome extensions for students in 2026. Boost productivity, improve writing, manage tasks, and streamline research with Grammarly, Todoist, Noisli, Mercury Reader, and Zotero."
+description: "Discover the best Chrome extensions for students in 2026 to boost productivity, improve writing, manage tasks, and streamline research for academic success."
 date: 2026-01-15
-categories: [education, productivity]
-tags: [chrome-extensions, students, productivity, education-tech, study-tools]
+categories: [extensions, productivity, students]
+tags: [chrome-extension, student-productivity, academic-tools, browser]
 author: theluckystrike
 ---
 
 # Best Chrome Extensions for Students 2026
 
-The life of a student has never been more digital. Between managing coursework, conducting research, writing essays, and trying to maintain some semblance of a social life, the right tools can make the difference between thriving and merely surviving. Chrome extensions have become essential companions for students, offering powerful capabilities that can transform your browser into a productivity powerhouse.
+Student life has never been more demanding. Between managing multiple courses, writing research papers, keeping track of assignments, and finding the focus to study effectively, modern students need every advantage they can get. Fortunately, Chrome extensions can transform your browser from a simple navigation tool into a powerful productivity hub designed specifically for academic success. This comprehensive guide explores the best Chrome extensions for students in 2026, covering tools that will help you write better, stay organized, focus better, read more efficiently, and manage your research like a professional.
 
-In this comprehensive guide, we will explore the best Chrome extensions for students in 2026. Whether you are struggling with writing assignments, need help staying organized, want to improve your focus during study sessions, or need to manage research materials effectively, there is an extension here that can help. We will dive deep into five essential tools: Grammarly, Todoist, Noisli, Mercury Reader, and Zotero, while also touching on how Tab Suspender Pro can keep your browser running smoothly.
+Whether you are a freshman just starting your university journey or a graduate student working on your thesis, these extensions can make a significant difference in your daily workflow. Many of these tools are free, while others offer premium features that are well worth the investment. Let us dive into the essential extensions that every student should have installed in their browser.
 
-## Grammarly: Your Personal Writing Assistant
+## Grammarly: Your Writing Companion
 
-Let us start with what is arguably the most important extension for any student: Grammarly. If you have ever submitted an essay only to realize afterward that it was riddled with typos and awkward sentences, you know how valuable a good writing assistant can be.
+If there is one extension that every student absolutely needs, it is Grammarly. Writing is a fundamental part of academic life, from discussion posts and email communications to research papers and thesis documents. Grammarly acts as your personal writing assistant, helping you catch grammar mistakes, improve your sentence structure, and refine your overall writing style.
 
-Grammarly goes far beyond simple spell-checking. This extension uses advanced artificial intelligence to analyze your writing in real-time, catching not just spelling errors but also grammatical issues, punctuation problems, and even stylistic suggestions. Whether you are drafting a quick email to a professor or writing a 20-page research paper, Grammarly helps you communicate more clearly and professionally.
+What makes Grammarly particularly valuable for students is its ability to adapt to different types of writing. When you are drafting an informal discussion post, the tool provides different feedback than when you are writing a formal research paper. You can customize the goals for each piece of writing, specifying whether you want to aim for an informative, persuasive, or creative tone.
 
-One of the most valuable features for students is the contextual understanding that Grammarly provides. It does not just flag errors; it explains why something might be wrong and offers suggestions for improvement. This educational approach helps you become a better writer over time, not just by fixing your mistakes but by teaching you why certain constructions work better than others.
+The extension works seamlessly across the web, catching errors in emails, social media posts, and online forms. However, where it truly shines is in document creation. Whether you are using Google Docs, Microsoft Word online, or any other web-based writing platform, Grammarly integrates smoothly to provide real-time suggestions.
 
-The free version of Grammarly is remarkably comprehensive, covering basic grammar, spelling, and punctuation checks. For students who need more advanced features, the premium version offers additional capabilities like plagiarism detection, which can be invaluable when you want to ensure your work is original before submitting it. It also provides more sophisticated style and tone suggestions, which can help you adapt your writing for different audiences, whether you are writing a formal academic paper or a more casual discussion post.
+Beyond basic grammar checking, Grammarly helps with several other aspects of writing that students often struggle with. The plagiarism checker, available in the premium version, is invaluable for ensuring that your work is original before submission. This feature compares your text against billions of web pages and academic papers, helping you identify unintentional plagiarism and fix it before it becomes a problem.
 
-Grammarly integrates seamlessly with most text fields on the web, including Google Docs, email clients, and social media platforms. This means you get writing assistance everywhere you type, not just in dedicated word processors. For students who spend大量 time writing emails, discussion posts, and assignments in various web-based platforms, this universal coverage is incredibly valuable.
+Vocabulary enhancement is another feature that can elevate your writing. Grammarly suggests more precise and sophisticated word choices that can make your academic writing more compelling. Rather than using the same basic words repeatedly, you can expand your vocabulary and express your ideas more effectively.
 
-Another often overlooked feature is the readability score that Grammarly provides. This metric tells you how easy your writing is to read, which can be particularly helpful when you are trying to strike the right balance between academic rigor and accessibility. Sometimes, simpler is better, and Grammarly helps you find that balance.
+The readability score is particularly useful for students. It analyzes your text and provides insights into how easy it is to read, which is crucial for academic writing where clarity is essential. If your readability level does not match your target audience, Grammarly will suggest ways to simplify your language without sacrificing meaning.
+
+Grammarly offers a free version that covers basic grammar and spelling checks, making it accessible to students on any budget. The premium version unlocks advanced features like style improvements, tone detection, and plagiarism checking. For students serious about improving their writing, the premium version is a worthwhile investment that can pay dividends throughout your academic career and beyond.
 
 ## Todoist: Master Your Tasks and Deadlines
 
-Every student needs a reliable way to manage their tasks and deadlines. With multiple courses, assignments, extracurricular activities, and social obligations, keeping everything straight in your head is a recipe for missed deadlines and unnecessary stress. Todoist is a Chrome extension that helps you take control of your academic life.
+Every student juggles multiple courses, each with its own assignments, projects, and exams. Keeping track of everything can feel overwhelming, which is why a task management extension like Todoist is essential. Todoist has long been one of the most popular productivity apps, and its Chrome extension brings powerful task management directly to your browser.
 
-Todoist works as both a web app and a Chrome extension, giving you access to your tasks from anywhere. The extension itself sits in your browser toolbar, allowing you to quickly add tasks without interrupting your workflow. You can add a task in seconds, assigning it a due date, priority level, and project categorization.
+The beauty of Todoist lies in its simplicity yet powerful features. You can quickly add tasks without leaving your current tab, whether you are reading an assignment description on Canvas or receiving an email about a deadline. The natural language input makes adding tasks incredibly fast — simply type "Math homework due Friday at 5pm" and Todoist automatically parses the date and time, creating a properly scheduled task.
 
-One of Todoist's greatest strengths is its flexibility. You can use it for simple to-do lists or create complex project structures with sub-tasks, labels, and filters. For students, this means you can organize your tasks in a way that makes sense for your academic life. Create a project for each course, break down major assignments into smaller tasks, and set recurring deadlines for weekly assignments or study sessions.
+Projects and subprojects allow you to organize tasks by course, semester, or any system that works for you. You can create projects for each of your classes, then add tasks for assignments, readings, and exams within each project. The color coding helps you visually distinguish between different courses at a glance.
 
-The natural language input feature is particularly useful for students who are always on the go. Simply type "Math homework due Friday at 5pm" and Todoist will automatically parse this into a proper task with the appropriate due date and time. This means you can quickly capture tasks without taking your hands off the keyboard or interrupting your flow.
+The priority system in Todoist helps you focus on what matters most. You can mark tasks with priority levels from p1 (highest priority) to p4 (lowest priority), ensuring that urgent assignments always stand out. This is particularly helpful during busy periods when you have multiple deadlines approaching simultaneously.
 
-Todoist also offers robust collaboration features, which are perfect for group projects. You can share projects with classmates, assign tasks to group members, and track progress together. This makes it easy to coordinate on group work without relying on scattered email threads or messaging apps.
+One of Todoist's most valuable features for students is its recurring tasks functionality. Many academic responsibilities repeat on a schedule — weekly discussion posts, monthly reading summaries, or quarterly exam reviews. Set these up as recurring tasks once, and Todoist will automatically create new instances as each deadline approaches.
 
-The extension also provides helpful integrations with other tools you might already be using. You can connect Todoist with Google Calendar, Slack, and dozens of other applications to create a seamless productivity ecosystem. For students who live in their browsers, these integrations mean you can manage your tasks without switching between applications constantly.
+Collaboration features make Todoist useful for group projects. You can share projects with classmates, assign tasks to group members, and track progress together. This is invaluable for keeping everyone accountable and ensuring that group work runs smoothly.
 
-One often underutilized feature is the ability to set reminders. Todoist can send you notifications when a deadline is approaching, helping you stay on track without constantly checking your task list. You can customize these reminders to suit your preferences, whether you want a heads-up an hour before or a day before a deadline.
+The Karma system adds a gamification element that can help with motivation. As you complete tasks, you earn Karma points and maintain streaks. While this might seem like a simple feature, many students find that the accountability of keeping streaks motivates them to stay on top of their work.
+
+Todoist integrates with many other apps and services, allowing you to create tasks from emails, save interesting articles for later reading, and connect with calendar apps. The Chrome extension also includes a Pro version unlocks additional features like reminders, activity views, and unlimited projects, but the free version is robust enough for most student needs.
 
 ## Noisli: Create Your Perfect Study Environment
 
-Focus is one of the most challenging things to maintain as a student. Between notifications, social media, and the constant hum of modern life, finding the concentration needed for serious studying can feel impossible. Noisli is a Chrome extension that helps you create the perfect auditory environment for studying and productivity.
+Every student knows that focus is essential for effective studying, but achieving and maintaining that focus can be incredibly difficult. Environmental distractions — noisy dorms, busy咖啡厅s, or the silence that feels somehow distracting — can all impact your ability to concentrate. Noisli addresses this problem by providing a customizable ambient sound experience that helps you create the perfect study environment.
 
-Noisli provides a collection of ambient sounds that you can mix and match to create your ideal study soundtrack. Unlike music with lyrics, which can be distracting when you are trying to process complex information, these ambient sounds are designed to enhance focus without competing for your attention.
+Noisli offers a variety of sounds that you can mix and match to create your ideal auditory environment. The library includes white noise, rain sounds, forest ambience, coffee shop chatter, fireplace crackles, and many more options. You can adjust the volume of each sound independently, allowing you to create a unique mix that works for you.
 
-The extension offers a variety of sound options, including rain, thunder, wind, forest sounds, white noise, and more. You can adjust the volume of each sound independently, allowing you to create a custom mix that works for you. Some students find that the sound of rain helps them focus, while others prefer the steady hum of white noise. With Noisli, you can experiment to find what works best for your brain.
+The science behind Noisli is grounded in the concept of sound masking. Background noise can help mask sudden interruptions that break your focus, while certain sounds like rain or white noise can create a consistent auditory environment that promotes concentration. Different sounds work better for different tasks, and Noisli makes it easy to experiment and find what works best for you.
 
-One particularly useful feature is the ability to save your favorite sound combinations as presets. Once you find the perfect mix, you can save it and instantly recall it later. This means you do not have to fiddle with settings every time you sit down to study; you can just click and start focusing.
+For students who study in varied environments, Noisli is particularly valuable. When you are in a noisy library, you might use white noise or nature sounds to block out distracting conversations. When you are studying in a silent dorm room, the same sounds can prevent that oppressive quiet from becoming distracting itself. The ability to quickly adjust your sound environment means you can maintain focus regardless of your surroundings.
 
-Noisli also includes a timer feature, which can be helpful for implementing study techniques like the Pomodoro method. You can set intervals for focused work followed by short breaks, all while maintaining your ambient soundscape. This structured approach to studying can help you maintain concentration over longer periods and prevent burnout.
+The timer feature in Noisli supports the Pomodoro technique or any other time management approach you prefer. Set a study session for 25 minutes, take a 5-minute break, and repeat. The built-in timer with customizable intervals helps you structure your study sessions effectively.
 
-The extension also offers a productivity section with suggestions for maintaining focus and avoiding distractions. While the sound features are the main draw, these additional tips can help you develop better study habits overall.
+Noisli also includes a simple text editor that syncs with the web app, allowing you to take notes or draft short documents while listening to your chosen sounds. While this is not a replacement for a full-featured word processor, it is useful for quick notes or brainstorming sessions.
 
-For students who study in varying environments, Noisli can help create consistency in your focus conditions. Whether you are in a noisy dorm room, a quiet library, or a busy coffee shop, you can use Noisli to create a consistent auditory environment that signals to your brain that it is time to focus.
+The premium version of Noisli offers additional features like unlimited sound mixing, access to more sound options, and enhanced timer functionality. However, the free version provides enough functionality for most students to benefit significantly from the extension.
 
-## Mercury Reader: Distraction-Free Reading
+Many students find that establishing a consistent sound environment helps trigger a focused state of mind. Over time, the sounds you associate with studying become cues that help you get into the right mental space. By consistently using Noisli during study sessions, you can train your brain to focus more easily whenever those sounds are present.
 
-The internet is full of distractions, and reading long articles or research papers online can feel like an exercise in frustration. Advertisements pop up, sidebars compete for your attention, and the endless scroll makes it easy to lose your place. Mercury Reader is a Chrome extension that solves these problems by stripping away all the clutter and leaving you with clean, focused content.
+## Mercury Reader: Distraction-Free Reading for Research
 
-When you encounter a webpage that you want to read without distractions, simply click the Mercury Reader icon in your browser toolbar. The extension reformats the page, removing ads, navigation elements, and other visual clutter. What you get is a clean, easy-to-read version of the content that lets you focus on what matters: the text.
+Research is a cornerstone of academic life, but the modern web is filled with distractions that can derail your reading sessions. Advertisements, pop-ups, navigation menus, and unrelated content can make it difficult to focus on the actual article or research paper you need to read. Mercury Reader solves this problem by stripping away all the clutter and presenting content in a clean, readable format.
 
-For students who need to read large amounts of material for their courses, this can be a game-changer. Academic articles often appear on websites that are cluttered with advertisements, related articles, and various widgets. Mercury Reader cuts through all of that, leaving you with just the content you need to process.
+When you encounter an article or webpage cluttered with ads and distractions, Mercury Reader gives you one-click access to a simplified version. The extension extracts the main content from the page, removing everything except the text and essential images. What you get is a clean, formatted document that is easy to read and focus on.
 
-The extension also offers customizable reading options. You can adjust the font size, font family, and line spacing to suit your preferences. Some readers prefer a serif font for long-form reading, while others find sans-serif fonts easier to process. With Mercury Reader, you can set up the reading experience that works best for you.
+Readability is crucial when you are reading lengthy research papers or extensive articles. Mercury Reader optimizes text for readability by offering adjustable font sizes, font choices, and line spacing. You can customize these settings to match your preferences, reducing eye strain during long reading sessions.
 
-Another valuable feature is the dark mode option. Many students do much of their reading and studying in the evening or late at night, and reading bright white pages in a dark room can strain your eyes. Mercury Reader's dark mode inverts the colors, providing a more comfortable reading experience in low-light conditions.
+The dark mode option is particularly valuable for students who study late at night. Reading bright white pages in a dark room can cause eye strain and interfere with sleep patterns. Dark mode inverts the color scheme, providing a comfortable reading experience regardless of the time of day.
 
-The ability to save articles for offline reading is also valuable for students. If you find an article you want to read later or keep for reference, you can save it through Mercury Reader. This means you can access important readings even when you do not have an internet connection, which can be helpful during study sessions in places with spotty Wi-Fi.
+Mercury Reader also includes text-to-speech functionality, allowing you to listen to articles while doing other things. This is useful for reviewing material during commutes, workouts, or other activities when you cannot read but can listen. The speech quality is natural and easy to understand, making it a valuable tool for auditory learners.
 
-For research purposes, Mercury Reader can help you process large volumes of information more efficiently. By removing distractions, you can read faster and retain more, which is essential when you are trying to get through extensive reading lists.
+For research purposes, Mercury Reader makes it easy to save articles for later reading. You can bookmark articles to your Mercury account, allowing you to access them from any device. This is perfect for building a reading list of important research materials that you can access whenever you have time to study.
 
-## Zotero: The Research Companion
+The extension also works well with academic papers and research articles. Many academic journals have cluttered websites with multiple navigation elements and subscription prompts. Mercury Reader extracts the actual paper content, making it easier to read and understand the material without distraction.
 
-Research is at the heart of academic life, and managing all the sources, citations, and bibliographies can be overwhelming. Zotero is a free, open-source reference management software that helps you collect, organize, cite, and share research materials. The Chrome extension makes it even more powerful by allowing you to capture sources directly from your web browser.
+If you do a lot of online research for assignments, Mercury Reader can significantly improve your efficiency. By removing distractions and presenting content in a readable format, you can process more information in less time and with less fatigue.
 
-When you find a source you want to use for your research, Zotero can often automatically detect and save the bibliographic information. Simply click the Zotero icon in your browser toolbar, and the extension will grab the citation data from the webpage. This works for academic papers, books, news articles, and many other types of sources.
+## Zotero: Research Paper Management Made Easy
 
-For students who conduct extensive research, this automation is invaluable. Instead of manually typing out citations or hunting for bibliographic information, Zotero does the heavy lifting for you. This means you can collect sources more efficiently and with fewer errors.
+For students engaged in serious academic research, Zotero is an indispensable tool. This reference management software helps you collect, organize, cite, and share research materials. The Chrome extension integrates seamlessly with your browser, making it incredibly easy to capture sources as you discover them while browsing the web.
 
-Once you have collected your sources, Zotero helps you organize them into collections and sub-collections. You can create separate libraries for different courses or research projects, making it easy to keep your materials organized. The search and filter features make it simple to find specific sources when you need them.
+The most powerful feature of Zotero is its ability to automatically detect and save bibliographic information from web pages. When you find an article, book, or other source, the Zotero button in your browser captures all the relevant metadata with a single click. This includes the title, author, publication date, publisher, and URL. You never again have to manually type citation information or worry about losing track of sources.
 
-One of Zotero's most powerful features is its citation and bibliography generation. When you are writing a paper, you can insert citations directly from Zotero into your document. The extension supports a wide variety of citation styles, including APA, MLA, Chicago, and many others used in different academic fields. When you are done writing, Zotero can automatically generate a perfectly formatted bibliography from your citations.
+Organizing research materials in Zotero is intuitive and flexible. You can create collections and subcollections to organize sources by topic, course, or any system that works for you. Tags allow for cross-referencing and flexible categorization. The powerful search functionality lets you find any source instantly, even in large libraries.
 
-Zotero also offers collaboration features that are useful for group research projects. You can share your libraries with collaborators, making it easy to build a shared pool of sources. This can streamline the research process for group papers and projects.
+Citation generation is where Zotero truly shines for students. The extension integrates with word processors to insert properly formatted citations as you write. Whether you need APA, MLA, Chicago, or any other citation style, Zotero handles the formatting automatically. This saves enormous amounts of time and ensures that your citations are accurate and consistent.
 
-The cloud synchronization feature ensures that your library is available wherever you are. Your sources sync across all your devices, so you can start researching on your laptop in the library and continue on your desktop at home without missing a beat.
+The bibliography generator creates complete reference lists in seconds. Select the sources you used, choose your citation style, and Zotero generates a properly formatted bibliography ready for insertion into your paper. This eliminates the tedious manual formatting that makes citations such a challenge for many students.
 
-For students working on theses or dissertations, Zotero's ability to handle large libraries becomes particularly valuable. As you accumulate sources over years of study, Zotero scales to meet your needs without sacrificing performance.
+Collaboration features make Zotero useful for group research projects. You can share libraries with classmates, allowing everyone in a group to access and contribute to a shared collection of sources. This is invaluable for collaborative research and ensures that everyone in the group has access to the same materials.
 
-## Bonus: Tab Suspender Pro for Browser Performance
+Zotero also supports PDF management. You can attach PDFs to your sources, and Zotero will attempt to automatically extract metadata from the PDF itself. The built-in PDF reader allows you to annotate and highlight documents directly within Zotero, keeping all your research materials in one place.
 
-While not one of the primary five extensions we have discussed, Tab Suspender Pro deserves a mention for any student who uses Chrome heavily. If you are like most students, you probably have dozens of tabs open at any given time: your email, course materials, research articles, a music player, and various web apps. All these tabs can slow down your browser and consume valuable system resources.
+For students writing research papers, Zotero is a game-changer. The time saved on citation formatting alone makes it worth using, and the organization and research management features provide value that extends far beyond simple citation generation.
 
-Tab Suspender Pro automatically suspends tabs that you have not used for a while, which frees up memory and keeps your browser running smoothly. When you need a suspended tab again, just click on it and it will reload instantly. This is especially useful during long study sessions when you want your browser to stay responsive without constantly closing and reopening tabs.
+## Bonus: Tab Suspender Pro for Student Productivity
 
-The extension is highly customizable, allowing you to decide which tabs to suspend, how long to wait before suspending, and which tabs should never be suspended. You can whitelist important pages like your email or calendar so they are always available.
+While not specifically designed for students, Tab Suspender Pro is an extension that every student with multiple browser tabs open should consider. As a student, you likely have numerous tabs open at once — course materials, research articles, assignment descriptions, email, and more. Each open tab consumes memory and processing power, which can slow down your browser and computer.
 
-For students on laptops or Chromebooks, this can also help extend battery life. By reducing the number of active processes running in your browser, Tab Suspender Pro can help your device run longer between charges, which is particularly valuable during long days on campus.
+Tab Suspender Pro automatically suspends tabs that you are not actively using, freeing up system resources. When you return to a suspended tab, it automatically reloads. This means you can keep all your reference materials and course resources open without experiencing the performance degradation that typically comes with many open tabs.
 
-## Bringing It All Together
+For students who like to have many sources open simultaneously while working on research papers, this extension is particularly valuable. You can have dozens of articles, PDFs, and reference materials available without sacrificing browser performance. When you need to switch between sources, the tabs reload instantly.
 
-The beauty of these Chrome extensions is how well they work together. You can use Todoist to manage your deadlines, Noisli to help you focus, Grammarly to polish your writing, Mercury Reader to process your reading materials efficiently, and Zotero to handle your research sources. Each extension addresses a different challenge that students face, and together they create a comprehensive productivity ecosystem.
+The extension is highly customizable. You can choose which tabs to suspend, set preferences for specific websites, and control when tabs should be automatically suspended. You can also whitelist sites that should never be suspended, ensuring that critical resources like live lecture streams or collaborative documents remain active.
 
-Start by installing a few of these extensions and getting comfortable with their features. You do not need to adopt all of them at once; find the ones that address your biggest pain points first. As you become more comfortable with these tools, you can add more to your workflow.
+By reducing memory usage, Tab Suspender Pro can extend your laptop battery life and reduce heat generation. This is particularly useful for students who study in libraries or coffee shops where power outlets may be limited.
 
-Remember that the goal is not to use every feature of every extension but to find the combination that works best for your particular study style and needs. Every student is different, and what works perfectly for one person might not be ideal for another. Experiment, adjust, and build your own personalized toolkit for academic success.
+Combining Tab Suspender Pro with the other extensions on this list creates a powerful productivity ecosystem. Use Grammarly for writing, Todoist for task management, Noisli for focus, Mercury Reader for reading, Zotero for research, and Tab Suspender Pro to keep everything running smoothly. Together, these tools form a comprehensive student productivity suite that can transform your academic experience.
 
-With the right extensions, your Chrome browser can become a powerful ally in your academic journey. These tools can help you write better, stay organized, focus more effectively, process information more efficiently, and manage your research with ease. Here is to a more productive and successful academic year!
+## Putting It All Together
+
+The best student productivity system combines multiple tools that work together seamlessly. Start by installing the extensions that address your biggest challenges. If writing is a struggle, begin with Grammarly. If you often miss deadlines, Todoist will make an immediate difference. If focus is your challenge, try Noisli. For research-heavy courses, Zotero is essential.
+
+As you become comfortable with each tool, add more extensions to your toolkit. Most of these extensions work well together, and the combination of all of them can significantly enhance your academic performance. The time you invest in setting up and learning these tools will pay off quickly in improved efficiency and reduced stress.
+
+Remember that technology should serve your learning goals, not distract from them. Take time to customize each extension to your preferences, and establish habits that incorporate these tools into your regular study routine. With the right extensions installed and properly configured, you will be well-equipped to handle the demands of academic life in 2026 and beyond.
+
+The modern student has access to tools that previous generations could only dream of. By leveraging these Chrome extensions effectively, you can work smarter, not harder, and achieve your academic goals with greater ease and less stress.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Reading List How to Use"
 <<<<<<< HEAD
 <<<<<<< HEAD

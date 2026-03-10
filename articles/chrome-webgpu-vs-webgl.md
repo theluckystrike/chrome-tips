@@ -115,3 +115,7 @@ The migration path from WebGL to WebGPU will become smoother as more resources b
 For new projects, WebGPU is increasingly the default choice for graphics-intensive applications. The performance benefits and modern API design make it the better option for applications that will be maintained over time. WebGL should be reserved for cases where compatibility is more important than performance.
 
 Chrome continues to lead in web graphics innovation, and WebGPU represents the current state of the art. By understanding the differences between these APIs and their respective strengths, you can make informed decisions that deliver the best experience for your users.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

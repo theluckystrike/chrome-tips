@@ -121,3 +121,5 @@ For most users, "Continue where you left off" offers the best balance of conveni
 If you prefer structure and predictability, configuring specific startup pages ensures your most important websites are always ready. This approach works especially well for professionals who follow consistent routines each day.
 
 Whatever option you choose, take a moment to verify your settings are configured correctly. A few minutes spent customizing Chrome's startup behavior can save time and frustration throughout your workday. Your browser is your gateway to the internet—make sure it opens to exactly what you need, every single time.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

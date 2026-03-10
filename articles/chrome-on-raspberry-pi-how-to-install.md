@@ -46,10 +46,10 @@ If you find that your browsing needs are fairly simple, you might discover that 
 
 ## Making the Choice That Works for You
 
-At the end of the day, whether you need to install Chrome on your Raspberry Pi depends on what you plan to do with it. For basic web browsing, checking email, watching YouTube, and working with documents online, the built-in Chromium browser is more than sufficient. It is designed to work well with the Pi's hardware and will serve you well for everyday tasks.
+At the end of the day, whether you need to install Chrome on your Raspberry Pi depends on what you plan to do with it. For basic web browsing, checking email, watching YouTube, and working with documents online, the built-in **Chromium** browser is more than sufficient. It is designed to work well with the Pi's hardware and will serve you well for everyday tasks.
 
 If you find that you are missing specific Chrome features that are important to your workflow, you might try some of the installation methods available online, but go in with realistic expectations. They may require some troubleshooting, and they may not work perfectly.
 
-For most people, the best approach is to start with what is already there, optimize it with good habits and helpful extensions like Tab Suspender Pro, and only look for alternatives if you truly need something that is not available. The Raspberry Pi is a fantastic little machine, and with a few thoughtful adjustments, you can have a very pleasant browsing experience without the hassle of trying to force an unsupported browser onto your system.
+For most people, the best approach is to start with what is already there, optimize it with good habits and helpful extensions like **Tab Suspender Pro**, and only look for alternatives if you truly need something that is not available. The Raspberry Pi is a fantastic little machine, and with a few thoughtful adjustments, you can have a very pleasant browsing experience without the hassle of trying to force an unsupported browser onto your system.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

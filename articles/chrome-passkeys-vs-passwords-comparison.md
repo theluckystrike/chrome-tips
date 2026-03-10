@@ -60,10 +60,10 @@ Extensions like Tab Suspender Pro can help by automatically suspending tabs you 
 
 ## Which Should You Choose
 
-Passkeys represent a significant improvement over passwords in both security and convenience. They are harder to steal, impossible to phish, and eliminate the need to remember or type complex strings of characters.
+**Passkeys** represent a significant improvement over passwords in both security and convenience. They are harder to steal, impossible to phish, and eliminate the need to remember or type complex strings of characters.
 
-However, passwords are not going away overnight. Many websites still do not support passkeys, and you may need to use both for some time. The good news is that you do not have to make a dramatic switch. You can gradually adopt passkeys where they are available while maintaining passwords elsewhere.
+However, passwords are not going away overnight. Many websites still do not support passkeys, and you may need to use both for some time. The good news is that you do not have to make a dramatic switch. You can gradually adopt **passkeys** where they are available while maintaining passwords elsewhere.
 
 As more websites add passkey support and as you become more comfortable with the technology, you may find yourself using passwords less and less. The transition is happening gradually, and there is no pressure to switch everything at once. The important thing is to understand the benefits and start using passkeys where you can.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

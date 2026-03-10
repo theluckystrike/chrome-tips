@@ -78,13 +78,11 @@ The key is to understand your own workflow and decide what works best for you. Y
 
 To summarize, here are the main steps to stop Chrome from opening old tabs on startup:
 
-- Go to Settings, then "On startup," and select "Open a new tab page."
-- Disable the option to continue running background apps when Chrome is closed.
-- Fully quit Chrome rather than just closing the window.
-- Clear browsing data if old session data persists.
+- Go to **Settings**, then **On startup**, and select **"Open a new tab page"**.
+- Disable the option to **continue running background apps** when Chrome is closed.
+- Fully **quit Chrome** rather than just closing the window.
+- **Clear browsing data** if old session data persists.
 
 By adjusting these settings, you can enjoy a fresh start every time you open Chrome. Whether you want a clean slate each morning or need more control over your browsing experience, these options give you the flexibility to customize how Chrome behaves when you launch it.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

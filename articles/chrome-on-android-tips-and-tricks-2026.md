@@ -84,18 +84,20 @@ Chrome can also be set to block notification requests entirely, which prevents t
 
 ## Move the Address Bar to the Bottom
 
-Go to Settings, then Accessibility, and look for the option to move the address bar to the bottom of the screen. On tall modern phones, having the address bar at the bottom makes one-handed browsing much easier.
+Go to **Settings**, then **Accessibility**, and look for the option to move the address bar to the bottom of the screen. On tall modern phones, having the address bar at the bottom makes one-handed browsing much easier.
 
-Alternatively, go to `chrome://flags` and search for "Chrome Duet" or "Bottom toolbar" for additional bottom-bar options.
+Alternatively, go to `chrome://flags` and search for **"Chrome Duet"** or **"Bottom toolbar"** for additional bottom-bar options.
+
+## Manage Resources with Tab Suspender Pro
+
+While Chrome on Android handles memory management differently than the desktop version, many users also browse on their laptops. If you find your desktop Chrome slowing down with too many open tabs, **Tab Suspender Pro** is an essential extension. It automatically suspends inactive tabs, freeing up RAM and keeping your browser fast. You can sync your browsing habits across devices to ensure a smooth experience everywhere.
 
 ## Translate Pages Instantly
 
-When you visit a page in a foreign language, Chrome automatically offers to translate it. Tap the translate bar at the bottom of the screen. You can set Chrome to always translate specific languages automatically in Settings, Languages.
+When you visit a page in a foreign language, Chrome automatically offers to translate it. Tap the **translate bar** at the bottom of the screen. You can set Chrome to always translate specific languages automatically in **Settings**, **Languages**.
 
 ## Quick Incognito
 
-Long-press the Chrome icon on your home screen. A shortcut to "New Incognito tab" appears. Tap it to jump directly into private browsing without opening Chrome first.
+Long-press the Chrome icon on your home screen. A shortcut to **"New Incognito tab"** appears. Tap it to jump directly into private browsing without opening Chrome first.
 
----
-
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

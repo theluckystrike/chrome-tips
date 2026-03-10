@@ -72,8 +72,8 @@ Having fewer active tabs means Chrome runs faster overall, which makes navigatin
 
 ## Quick Summary
 
-To open Chrome settings quickly, remember these methods. Type chrome://settings directly in the address bar for instant access. On Windows, try Ctrl + Shift + , for a keyboard shortcut approach. Use the three dots menu if you prefer clicking.
+To open Chrome settings quickly, remember these methods. Type **chrome://settings** directly in the address bar for instant access. On Windows, try **Ctrl + Shift + ,** for a keyboard shortcut approach. Use the **three dots menu** if you prefer clicking.
 
-Once in settings, you can customize nearly every aspect of your Chrome browsing experience. From privacy controls to appearance preferences, the settings page puts you in control. The chrome://settings shortcut is the fastest way to get there whenever you need to make changes.
+Once in settings, you can customize nearly every aspect of your Chrome browsing experience. From privacy controls to appearance preferences, the settings page puts you in control. The **chrome://settings** shortcut is the fastest way to get there whenever you need to make changes.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

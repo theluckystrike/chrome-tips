@@ -70,8 +70,8 @@ If you find that managing many tabs helps you stay productive, consider using to
 
 ## Keeping Your Accounts Safe
 
-Chrome Password Checkup is a valuable free tool that helps you find password problems before criminals can exploit them. By turning it on and responding to warnings when they appear, you significantly reduce the risk of your accounts being hacked.
+**Chrome Password Checkup** is a valuable free tool that helps you find password problems before criminals can exploit them. By turning it on and responding to warnings when they appear, you significantly reduce the risk of your accounts being hacked.
 
 Make it a habit to check periodically or respond right away when Chrome alerts you. Your online safety is worth those few minutes of effort.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

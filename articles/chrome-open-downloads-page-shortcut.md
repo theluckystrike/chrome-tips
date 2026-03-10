@@ -70,10 +70,10 @@ When Chrome runs better, your downloads also tend to work more smoothly. Having 
 
 ## Quick Summary
 
-To open your downloads page quickly in Chrome, remember the keyboard shortcut. Press Ctrl + J on Windows or Command + J on Mac. This opens the downloads page instantly and shows you all your recent downloads.
+To open your downloads page quickly in Chrome, remember the keyboard shortcut. Press **Ctrl + J** on Windows or **Command + J** on Mac. This opens the downloads page instantly and shows you all your recent downloads.
 
-You can also type chrome://downloads in the address bar or click the downloads option in the Chrome menu. From the downloads page, you can open files, find them in your folder, search for specific downloads, and manage your download settings.
+You can also type **chrome://downloads** in the address bar or click the **Downloads** option in the Chrome menu. From the downloads page, you can open files, find them in your folder, search for specific downloads, and manage your download settings.
 
 Once you start using the keyboard shortcut, you will wonder how you ever managed without it. It is one of those small time-savers that makes using Chrome much more convenient.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

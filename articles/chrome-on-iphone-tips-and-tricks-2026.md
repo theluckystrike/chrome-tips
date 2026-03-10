@@ -94,14 +94,16 @@ Chrome on iPhone can require Face ID or Touch ID to access your Incognito tabs. 
 
 ## Manage Your Data
 
-Go to Settings, Privacy and Security, Clear Browsing Data to manage what Chrome stores on your phone. You can clear history, cookies, and cached files for specific time ranges.
+Go to **Settings**, **Privacy and Security**, **Clear Browsing Data** to manage what Chrome stores on your phone. You can clear history, cookies, and cached files for specific time ranges.
 
 For an iPhone that's running low on storage, clearing Chrome's cached data can free up a surprising amount of space.
+
+## Desktop Sync and Tab Suspender Pro
+
+If you use Chrome on your iPhone to sync with your Mac or PC, you likely keep many tabs open on your desktop. To prevent your computer from slowing down, consider using **Tab Suspender Pro**. This extension automatically pauses tabs you're not using, saving memory and keeping your desktop browsing as smooth as your mobile experience. It’s the perfect companion for anyone who relies on Chrome's cross-device ecosystem.
 
 ## Chrome vs Safari on iPhone
 
 Since both use the same WebKit engine, browsing speed is identical. Choose Chrome for Google ecosystem sync and choose Safari for Apple ecosystem integration. Many people use both — Chrome for work (syncing with their work computer) and Safari for personal browsing (syncing with their Mac and iPad).
 
----
-
-*Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

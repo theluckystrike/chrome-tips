@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "best chrome extensions for developers 2026"
+title: "Best Chrome Extensions for Developers 2026"
 description: "Discover the best chrome extensions for developers in 2026 including React DevTools, Lighthouse, JSON viewer, Wappalyzer, and daily.dev. Boost your productivity with these essential developer tools."
 date: 2026-01-15
 categories: [extensions, development, productivity]

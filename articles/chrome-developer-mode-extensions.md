@@ -97,3 +97,7 @@ Service workers sometimes fail to start or crash repeatedly. Use the service wor
 Chrome Developer Mode transforms your browser into a powerful development and testing platform for extensions. By learning to load unpacked extensions, inspect their various views, update them efficiently, and debug them effectively, you gain complete control over how extensions work and behave. Whether you are building your own extensions, customizing existing ones, or simply exploring how the extensions you use every day function internally, the skills covered in this guide provide a solid foundation.
 
 Remember to leverage tools like Tab Suspender Pro to keep your browser running smoothly during development, and always follow best practices for extension security and performance. With practice, working with Chrome extensions in Developer Mode becomes second nature, opening up a world of possibilities for customizing and extending your browsing experience.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

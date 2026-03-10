@@ -50,4 +50,4 @@ If you have ever struggled with a crowded horizontal tab bar, enabling Chrome ve
 
 Take a few minutes to enable vertical tabs today and see the difference for yourself. It might just change the way you use Chrome.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

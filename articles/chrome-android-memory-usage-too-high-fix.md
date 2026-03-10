@@ -78,6 +78,4 @@ To enable Lite Mode, go to Settings, then Performance, and turn on Lite Mode. Th
 
 High memory usage on Chrome for Android is a common problem, but it is one you can solve. By closing unused tabs, enabling Memory Saver, managing extensions, clearing cache, and keeping Chrome updated, you can significantly reduce memory usage and enjoy a faster, more responsive browsing experience on your Android device.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

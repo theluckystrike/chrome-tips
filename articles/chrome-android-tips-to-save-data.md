@@ -74,6 +74,4 @@ Finally, keep an eye on how much data Chrome is actually using. Your Android pho
 
 Chrome also shows data saved through Data Saver in the settings menu. Checking this occasionally helps you understand the impact of the changes you have made and motivates you to keep up the good habits.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

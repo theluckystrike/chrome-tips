@@ -82,6 +82,4 @@ The Chrome Android Reading List is a powerful but underused feature that can sig
 
 Give it a try with a few articles today. Once you get comfortable with how chrome android reading list how to use works, you will wonder how you ever browsed without it.
 
----
-
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

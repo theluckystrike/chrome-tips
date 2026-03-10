@@ -145,3 +145,5 @@ Choose Brave if privacy is your top concern, you want built-in ad blocking witho
 For many users, the decision may not be absolute. Some users choose to use both browsers, relying on Brave for privacy-sensitive activities and Chrome for situations where they need specific extensions or Google integration. Others start with one browser and switch over time as their needs evolve.
 
 Both browsers will continue to evolve in 2026 and beyond. Chrome will likely continue adding features while maintaining its market dominance, while Brave will likely expand its privacy features and Web3 integration. By understanding the strengths and weaknesses of each, you can choose the browser that best aligns with your needs and values.
+-e 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

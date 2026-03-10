@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Geolocation API Tips"
 description: "Master the Chrome Geolocation API with tips on high accuracy, watchPosition, error handling, and privacy best practices for web developers."
 date: 2026-01-15

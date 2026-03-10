@@ -16,11 +16,15 @@ Chrome open last session on startup is a feature that many users rely on to pick
 
 There are several reasons why Chrome might fail to restore your last session when you start the browser. Understanding what's causing the problem is the first step toward fixing it.
 
-Chrome has a built-in setting that controls whether it resumes your previous session or starts fresh. This setting can get accidentally changed during an update or when you're tweaking your browser settings. Sometimes Chrome crashes in a way that corrupts the session data it was trying to save, which means there's nothing to restore when you next open the browser.
+One of the most common reasons is that the startup setting has been changed. Chrome has a built-in setting that controls whether it resumes your previous session or starts fresh. This setting can get accidentally changed during an update or when you're tweaking your browser settings. If it's set to "Open the New Tab page" or "Open a specific page or set of pages," Chrome will not restore your last session.
 
-Another common cause is using incognito mode or a guest profile, which are designed to not remember your browsing activity. If you've been using these modes, Chrome won't have any session data to restore. Extensions can also interfere with session restoration if they conflict with Chrome's built-in restore functionality.
+Another possibility is a browser crash. Sometimes Chrome crashes in a way that corrupts the session data it was trying to save. When this happens, there's nothing for Chrome to restore when you next open the browser. The browser might not have had a chance to save the session state properly before it closed unexpectedly.
 
-Finally, if you've recently cleared your browsing data or reset Chrome to its default settings, you may have wiped the session information that Chrome uses to restore your tabs.
+Using incognito mode or a guest profile is another common cause. These modes are designed for privacy and do not remember your browsing activity. If you've been using these modes, Chrome won't have any session data to restore. This is by design, so if you want to resume your session, make sure you are in a regular browsing window.
+
+Browser extensions can also interfere with session restoration. Some extensions, especially those that manage tabs or sessions, might conflict with Chrome's built-in restore functionality. An extension could be preventing Chrome from saving the session data correctly, or it might be trying to manage the session itself and failing.
+
+Finally, if you've recently cleared your browsing data or reset Chrome to its default settings, you may have wiped the session information that Chrome uses to restore your tabs. When you clear your browsing data, you have the option to clear "Cookies and other site data", which can include the session information.
 
 ## How to Enable Chrome to Open Last Session on Startup
 

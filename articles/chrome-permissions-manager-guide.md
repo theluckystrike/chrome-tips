@@ -124,6 +124,10 @@ Chrome's Permissions Manager is a powerful tool that puts you in control of your
 
 Remember to regularly review your permissions, be selective about what you allow, and take advantage of both the central Permissions Manager and per-site controls. With these practices, you can enjoy all the features the web has to offer while keeping your personal information protected.
 
+<<<<<<< HEAD
 ---
+=======
+Chrome's permissions manager puts you in the driver's seat. Take the time to configure it according to your comfort level, and your browsing experience will be both more powerful and more private.
+>>>>>>> qa/loop-4
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

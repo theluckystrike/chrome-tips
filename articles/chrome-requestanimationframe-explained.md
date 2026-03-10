@@ -78,4 +78,4 @@ requestAnimationFrame represents how modern browsers have evolved to provide bet
 
 Understanding these underlying technologies helps you become a more informed internet user. Whether you are just curious about how your browser works or you are troubleshooting performance issues, knowing about requestAnimationFrame gives you insight into the complex systems that make the web work.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -72,7 +72,7 @@ Quad9 is a security-focused DNS provider that blocks domains known to be associa
 
 For users with specific filtering requirements, NextDNS provides customizable DNS services with various filtering options. You can create a free account to configure which categories of content to block, such as ads, trackers, or specific types of websites. NextDNS also provides analytics showing what domains your devices are resolving, giving you insight into your network activity.
 
-Launch Google Chrome on your computer and click on the three-dot menu icon in the upper-right corner of the browser window. From the dropdown menu, select "Settings" to open the Chrome settings page.
+## Setting Up Custom DNS Providers
 
 For advanced users who want even more control over their DNS configuration, Chrome supports custom DNS Over HTTPS providers. This feature allows you to specify the exact DoH server URLs that Chrome should use, enabling the use of specialized or self-hosted DNS services.
 

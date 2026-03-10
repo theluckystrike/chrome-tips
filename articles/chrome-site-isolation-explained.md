@@ -14,7 +14,7 @@ If you use Google Chrome as your primary web browser, you have likely benefited 
 
 Chrome Site Isolation represents one of the most significant architectural changes to browser security in recent years. It fundamentally changes how Chrome manages web pages, separating them into distinct processes to prevent malicious websites from accessing sensitive data from other sites. This approach provides robust protection against a class of attacks that previously seemed almost impossible to defend against. However, this enhanced security comes with trade-offs that every Chrome user should understand, particularly regarding memory usage and browser performance.
 
-## What Exactly Is Site Isolation?
+## What Is Chrome Site Isolation?
 
 Chrome Site Isolation is a security feature that ensures each website you visit runs in its own isolated process within Chrome. When this feature is enabled, Chrome creates a separate operating system process for every website you open, rather than grouping multiple websites together in shared processes. This process-level separation means that even if a malicious website manages to exploit a vulnerability and access memory it should not access, it can only access the memory within its own process, not the memory belonging to other websites or Chrome's internal components.
 
@@ -36,7 +36,7 @@ Chrome Site Isolation addresses this threat by ensuring that each site runs in c
 
 Google implemented Site Isolation specifically as a defense against Spectre and similar speculative execution attacks. The feature was enabled by default for all Chrome users shortly after the vulnerability was disclosed, and it has remained enabled ever since. This proactive approach demonstrated Google's commitment to user security, even when the protection came with noticeable trade-offs in system resource usage.
 
-The Site Isolation feature can be observed in Chrome's Task Manager. If you open Chrome Task Manager (Shift + Esc), you'll see multiple Chrome processes listed, often labeled with the name of the site they're handling. This visual evidence helps users understand that their tabs are truly running in separate processes.
+## The Memory Trade-Off: Why Site Isolation Uses More RAM
 
 One of the most noticeable consequences of Chrome Site Isolation is increased memory usage. Running separate processes for each website consumes more RAM than grouping multiple sites together, and this trade-off is something every Chrome user should understand. The security benefits are substantial, but they come at a cost that can be particularly noticeable on systems with limited memory.
 

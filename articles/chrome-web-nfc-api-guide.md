@@ -110,10 +110,8 @@ Looking ahead, we can expect to see more sophisticated use cases emerge as devel
 
 ## Getting Started Today
 
-If you are ready to start building with the Chrome Web NFC API, the best approach is to begin with a simple project. Create a basic web page that can read NFC tags and display the information they contain. Once you have that working, experiment with writing to tags and handling different types of NDEF records. From there, you can progressively add more features and complexity.
+Start experimenting with the Web NFC API in your projects today. The documentation and resources available from Google provide excellent starting points, and the community of developers working with web NFC is growing rapidly. With this knowledge, you are well-equipped to create innovative experiences that connect the physical and digital worlds in meaningful ways.
 
-Remember to test on actual Android devices with Chrome, as NFC functionality cannot be fully tested in desktop browsers or on other platforms. Keep your development environment simple, and do not hesitate to consult the official Chrome developer documentation for detailed API reference and examples.
-
-The Chrome Web NFC API represents an exciting opportunity to create web applications that interact seamlessly with the physical world. Whether you are building practical business tools, engaging consumer experiences, or innovative experiments, this API provides the foundation you need to bring your ideas to life. Start exploring today and discover what you can create when your web apps can communicate with the world around them.
+---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

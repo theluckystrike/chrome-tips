@@ -165,3 +165,7 @@ The Chrome Web Bluetooth API transforms what is possible in web applications, en
 As web standards continue to evolve and browser support expands, we can expect to see even more innovative applications of this technology. Whether you are building health dashboards, IoT controllers, or creative extensions, the Web Bluetooth API provides the foundation for connecting your web application to the growing ecosystem of Bluetooth-enabled devices.
 
 Start experimenting with the API today, and you will quickly discover how accessible Bluetooth integration has become. The combination of standardized protocols, clear JavaScript APIs, and browser-level security makes this an exciting time for web developers interested in physical computing.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

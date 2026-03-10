@@ -1,5 +1,8 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> consumer/a57-chrome-coverage-tool-guide
 layout: default
 title: "Chrome Coverage Tool Guide"
 description: "Master Chrome DevTools Coverage tool to identify unused CSS and JavaScript, optimize code splitting, and reduce bundle sizes for faster websites."
@@ -92,6 +95,7 @@ Second, think carefully about what user interactions to record. A simple page lo
 Third, use incognito mode or clear your cache between coverage recordings. Chrome caches resources aggressively, and cached resources might not show accurate coverage data because the browser does not need to load them again. Starting with a clean cache ensures you are seeing the true cost of loading and executing your code.
 
 Finally, combine coverage analysis with other performance tools in Chrome DevTools for a complete picture of your application performance. The Performance panel can show you how code execution affects frame rates and responsiveness. The Network panel can reveal how long it takes to download your bundles. The Lighthouse audit tool provides a comprehensive performance report with specific recommendations. Together, these tools give you everything you need to build fast, efficient web applications.
+<<<<<<< HEAD
 =======
 layout: post
 title: "Chrome Coverage Tool Guide"
@@ -190,6 +194,8 @@ Consider analyzing coverage across different browser contexts. Some code may exe
 
 Finally, remember that perfect coverage is not always the goal. Some code must load even if it is rarely used, such as error handling logic or administrative functions. The Coverage tool helps you make informed decisions about trade-offs between code size and functionality. Focus on eliminating clearly unused code while maintaining the features your users need.
 >>>>>>> consumer/a55-chrome-coverage-tool-guide
+=======
+>>>>>>> consumer/a57-chrome-coverage-tool-guide
 
 ---
 

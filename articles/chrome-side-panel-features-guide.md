@@ -1,129 +1,141 @@
 ---
-layout: default
+layout: post
 title: "Chrome Side Panel Features Guide"
-description: "Discover Chrome side panel features including reading list, bookmarks panel, search companion, and extensions. Master the side panel for enhanced productivity."
-date: 2026-01-20
-categories: [chrome, productivity, browser-tips]
-tags: [chrome-side-panel, reading-list, bookmarks, chrome-extensions, browser-productivity]
+description: "Master Chrome side panel features including reading list, bookmarks panel, search companion, and extensions. Learn how to use side panel effectively for improved productivity."
+date: 2026-01-15
+categories: [chrome, productivity, tips]
+tags: [chrome-side-panel, browser-tips, productivity, bookmarks, reading-list]
 author: theluckystrike
 ---
 
 # Chrome Side Panel Features Guide
 
-Google Chrome's side panel is one of the most underutilized yet powerful features available to browser users. Introduced to enhance productivity and streamline workflows, the side panel provides quick access to essential tools without requiring you to switch between tabs or disrupt your browsing flow. Whether you're a researcher gathering information, a professional managing multiple projects, or an everyday user looking to organize your web experience, the side panel offers capabilities that can significantly improve how you interact with the web.
-
-This comprehensive guide explores the various features of Chrome's side panel, from built-in tools like the reading list and bookmarks panel to the search companion and extensions that can transform your browsing experience. We'll also look at how tools like Tab Suspender Pro integrate with the side panel to deliver even more value.
+Chrome's side panel is one of the most underutilized features in the world's most popular web browser. While many users are aware that it exists, few understand the full range of capabilities it offers. This comprehensive guide will walk you through everything you need to know about Chrome's side panel features, from the reading list and bookmarks panel to the search companion and extensions integration. By the end of this article, you'll have a complete understanding of how to leverage these tools to dramatically improve your browsing productivity.
 
 ## Understanding the Chrome Side Panel
 
-The Chrome side panel appears as a narrow vertical strip on the right side of your browser window. It provides a collapsible interface that houses various tools and features, allowing you to access them while continuing to view your main content. To open the side panel, you can click the side panel icon in Chrome's toolbar or use the keyboard shortcut (Alt+Shift+S on Windows or Linux, and Option+Shift+S on macOS).
+The Chrome side panel is a vertical strip that appears on the right side of your browser window, providing quick access to various browser features without requiring you to switch tabs or open new windows. Introduced to enhance user productivity, the side panel allows you to bookmark pages, access your reading list, use Google's search companion, and run compatible extensions all while continuing to browse in your main tab.
 
-What makes the side panel particularly powerful is its ability to keep context while you access additional information. Instead of opening a new tab and losing your place, you can quickly reference your bookmarks, check your reading list, or use productivity extensions without interrupting your workflow. This seamless integration has made the side panel an essential feature for power users and those who value efficiency in their daily browser activities.
+To access the side panel, simply click the side panel icon in the top-right corner of your Chrome browser, or use the keyboard shortcut Alt+Shift+S on Windows or Option+Shift+S on Mac. You can also right-click on any icon in the side panel to pin your favorites for quick access. The side panel can be resized by dragging its left edge, allowing you to customize the width to suit your preferences and screen size.
 
-The side panel can be resized by dragging its inner edge, allowing you to customize the width to suit your preferences and screen real estate. You can also pin it to keep it permanently visible or unpin it to show only when you need it. Understanding these basic controls sets the foundation for exploring the full potential of what the side panel offers.
+What makes the side panel particularly powerful is its ability to keep context while you work. Instead of navigating away from your current page to check a bookmark or look up information, you can do everything within the side panel while maintaining your place in the main content. This seamless integration significantly reduces the friction between different tasks and helps maintain your workflow momentum.
 
-## The Reading List: Your Personal Collection for Later
+## The Reading List: Your Personal Content Curator
 
-One of the most valuable built-in features accessible through the side panel is the Reading List. This feature serves as a digital bookmarking system designed specifically for saving articles and web pages you want to read later. Unlike traditional bookmarks, which simply remember where a page is located, the Reading List is optimized for content consumption.
+One of the most valuable features within Chrome's side panel is the Reading List. This functionality allows you to save web pages, articles, and other content for later reading without cluttering your bookmarks or losing track of them in your browsing history. The Reading List is particularly useful for users who frequently encounter interesting content but don't have time to read it immediately.
 
-### How to Access and Use the Reading List
+### How to Use the Reading List
 
-To access your Reading List through the side panel, click the side panel icon and select "Reading List" from the available options. Alternatively, you can bookmark any page directly to your Reading List by clicking the star icon in Chrome's address bar and selecting "Reading List" as the destination instead of a specific bookmarks folder.
+Using the Reading List is straightforward. When you find a page you want to save for later, you can add it by clicking the bookmark star icon in Chrome's address bar and selecting "Reading list" from the dropdown menu, or by right-clicking anywhere on the page and selecting "Add page to Reading List." You can also use the keyboard shortcut Ctrl+Shift+D on Windows or Cmd+Shift+D on Mac to quickly add the current page.
 
-The Reading List displays each saved item with its title and a small preview image when available. You can click any item to open it in your current tab, or right-click to access additional options like opening in a new tab or removing the item from your list. Each entry also shows whether you've already read the item, helping you keep track of your pending reading.
+Once you've added pages to your Reading List, you can access them at any time by opening the side panel and clicking the Reading List icon. The list displays each saved page with its title, a small preview image if available, and the date you saved it. You can organize your reading list by date added or by site, and you can search through your saved pages using the search function at the top of the panel.
 
-### Organizing Your Reading List
+One particularly useful feature is the ability to mark articles as read. When you open a page from your Reading List, Chrome automatically marks it as read after you've scrolled through a significant portion of the content. This helps you keep track of what you've already consumed and what still needs attention. You can also manually mark items as unread if you want to revisit them later.
 
-While the Reading List functions as a simple queue, you can organize it effectively by developing habits that work for your reading patterns. One approach is to regularly clear out items you've decided not to read, keeping your list focused on content that genuinely interests you. Another strategy is to add items with brief notes about why you saved them, which can help you prioritize when you have limited time for reading.
+### Best Practices for Managing Your Reading List
 
-The Reading List syncs across your devices through your Google Account, meaning you can save an article on your desktop computer and read it later on your phone or tablet. This cross-device synchronization makes it incredibly convenient for building a reading habit that fits into your lifestyle, whether you're commuting, taking breaks during the day, or winding down in the evening.
+To get the most out of the Reading List, consider establishing a regular routine for reviewing and curating your saved content. Set aside time each week to go through your Reading List, reading the articles you've saved and removing those that are no longer relevant. This prevents the list from becoming overwhelming and ensures you actually engage with the content you've saved.
 
-### Benefits for Content Consumers
+Another helpful tip is to add notes or tags to your saved pages if you want to remember why you saved them. While Chrome's basic Reading List doesn't have a built-in tagging system, you can use the page title or a bookmark folder to categorize content. Some users find it helpful to create separate reading lists for different topics or projects, which they can manage through bookmark folders while still accessing the content easily.
 
-For researchers, journalists, students, and anyone who frequently consumes long-form content, the Reading List solves a common problem: finding time to read everything that interests you. Rather than keeping dozens of tabs open or losing track of interesting articles you've discovered, you can save them all to your Reading List and address them when the time is right.
+The Reading List also syncs across your devices if you're signed in to Chrome with your Google account. This means you can save an article on your desktop computer and read it later on your phone or tablet. This cross-device synchronization makes it incredibly convenient to build a personal reading queue that follows you wherever you go.
 
-The feature also works well with Chrome's built-in reader mode, which formats articles for easier reading by removing clutter and optimizing typography. When you open a saved item from your Reading List, you can activate reader mode to enjoy a cleaner, more focused reading experience that reduces eye strain and helps you concentrate on the content.
+## The Bookmarks Panel: Organize Your Digital Life
 
-## The Bookmarks Panel: Quick Access to Saved Sites
+The bookmarks panel in Chrome's side panel provides quick access to your saved bookmarks, allowing you to organize, access, and manage your favorite websites without leaving your current page. This feature is essential for users who maintain extensive bookmark collections or need quick access to frequently visited sites.
 
-The Bookmarks Panel, accessible through Chrome's side panel, provides instant access to your saved bookmarks without requiring you to open the bookmarks manager in a separate view. This feature is particularly useful for users who maintain organized bookmark collections and need frequent access to specific sites.
+### Accessing and Managing Bookmarks
 
-### Navigating Your Bookmarks
+To use the bookmarks panel, open the side panel and click the bookmarks icon. You'll see your bookmark bar folders and any top-level bookmarks displayed in a clean, organized view. You can expand folders by clicking on them, and you can navigate through your entire bookmark hierarchy without any hassle.
 
-When you open the Bookmarks Panel through the side panel, you'll see your bookmark folders displayed in a tree structure that mirrors your main bookmarks bar and folders. You can expand and collapse folders, click to open bookmarks in your current tab, or right-click to access options for editing, moving, or deleting bookmarks.
+One of the most useful aspects of the bookmarks panel is the ability to create new bookmarks directly from your current page. Simply click the "Add bookmark" button at the top of the panel, and Chrome will automatically populate the name and URL fields with your current page information. You can then choose which folder to save the bookmark in, making it easy to maintain an organized structure.
 
-The side panel bookmarks view is especially valuable because it remains visible while you browse, allowing you to quickly switch between bookmarked sites as needed. This is particularly helpful when you need to reference multiple resources frequently, such as switching between documentation sites, project management tools, and communication platforms during work sessions.
+The bookmarks panel also supports drag-and-drop organization. You can rearrange bookmarks by dragging them to new positions, create new folders by right-clicking and selecting "Add folder," and even move bookmarks between folders by dragging them to the appropriate location. This intuitive interface makes it simple to keep your bookmarks well-organized, even as your collection grows.
 
-### Creating and Managing Bookmarks
+### Bookmarking Tips for Productivity
 
-You can create new bookmarks directly from the side panel by clicking the three-dot menu and selecting "Add new bookmark." This opens a simple form where you can enter the bookmark's name, URL, and choose a folder location. For existing bookmarks, you can right-click to edit details, move them to different folders, or delete them when they're no longer needed.
+For maximum productivity, consider organizing your bookmarks into a logical hierarchy that reflects your workflow. Create folders for different projects, topics, or categories that matter to you, and place relevant bookmarks in each folder. The bookmarks panel makes it easy to access any folder with just a click, saving you time compared to navigating through Chrome's traditional bookmark manager.
 
-The Bookmarks Panel also supports drag-and-drop organization. You can reorganize your bookmarks by dragging them between folders, creating new folders, or reordering items within a folder. This intuitive interface makes it easy to maintain a well-organized bookmark system that reflects your workflow and priorities.
+Another productivity tip is to take advantage of Chrome's bookmark sync feature. When you're signed in to Chrome with your Google account, your bookmarks automatically sync across all your devices. This means you can access your carefully organized bookmark collection whether you're using your work computer, personal laptop, or mobile device. The side panel makes this synchronized data immediately accessible without any extra steps.
 
-### Syncing and Cross-Device Access
+You can also use bookmarks as a quick-launch mechanism for your most frequently visited sites. Pin your daily essentials—your email, calendar, project management tools, and news sources—to the top of your bookmarks panel for one-click access. This eliminates the need to type URLs or search for these sites, saving precious seconds throughout your workday.
 
-Like the Reading List, your bookmarks sync automatically across all devices where you're signed in to Chrome. This means your carefully organized bookmark collection is available whether you're working on your laptop, tablet, or phone. The side panel provides this same synchronized access, ensuring you can reach your important sites regardless of which device you're using.
+## Search Companion: Your Intelligent Research Assistant
 
-For users who maintain extensive bookmark collections, the side panel offers a more efficient alternative to the full bookmarks manager. Its compact view and persistent presence make it the go-to choice for everyday bookmark access, while the full manager remains available for more complex organization tasks.
+The search companion is a relatively newer addition to Chrome's side panel that brings Google's powerful search capabilities directly into your browsing experience. This feature is designed to help you research topics, find related information, and explore concepts without losing your place in the content you're currently viewing.
 
-## The Search Companion: Enhanced Search Integration
+### How the Search Companion Works
 
-The Search Companion is a relatively newer addition to Chrome's side panel that integrates search functionality directly into your browsing experience. This feature allows you to perform searches, view results, and access search-powered features without leaving your current page.
+When you open the search companion in the side panel, you can type your search queries just as you would in Chrome's main address bar. However, the search companion provides a more integrated experience by showing search results alongside your current page. This is particularly useful when you're reading an article and want to look up a term, verify a fact, or explore a related topic without navigating away from what you're reading.
 
-### Using the Search Companion
+The search companion displays results in a clean, scannable format that includes website titles, brief descriptions, and thumbnail images when available. You can click any result to open it in a new tab, or you can right-click and choose "Open in current tab" if you want to replace your current page with that result. This flexibility allows you to choose the workflow that best suits your needs.
 
-When you open the Search Companion through the side panel, you'll find a search input field at the top. Typing a query and pressing Enter displays results in the side panel, where you can click to open any result in your current tab or a new tab. This keeps your workflow uninterrupted while still giving you immediate access to search results.
+One of the most powerful aspects of the search companion is its ability to maintain context. Because you're still looking at your original page in the main browser window while searching in the side panel, you can easily refer back to your original content. This is invaluable for research tasks, fact-checking, or when you need to cross-reference information from multiple sources.
 
-The Search Companion also provides quick access to other Google features, depending on your search query. For example, if you search for a specific product, you might see shopping results directly in the panel. If you search for a calculation or conversion, you might see immediate results without needing to visit a separate website.
+### Using Search Companion Effectively
 
-### Advantages Over Traditional Search
+To get the most out of the search companion, try incorporating it into your research workflow. When you encounter a claim or concept you want to verify, instead of opening a new tab or losing your place, simply open the search companion and type your query. You can quickly check facts, find supporting sources, or explore related topics without interrupting your reading flow.
 
-The primary advantage of the Search Companion is context preservation. When you use traditional search by typing in Chrome's address bar, you leave your current page to view results. With the Search Companion, your original content remains visible while you search for additional information. This is particularly valuable when you need to verify facts, find supporting information, or cross-reference data without losing your place in an article or document.
+The search companion also works well for language translation and definition lookups. If you encounter an unfamiliar word while browsing, you can search for its definition directly in the side panel. Similarly, if you're reading content in a foreign language and need a quick translation, the search companion can help you find translation resources without leaving the page.
 
-The feature also reduces tab clutter. Instead of opening multiple search result tabs that you need to manage and close later, you can perform quick searches in the side panel and continue working in your main tab. This streamlined approach to search helps maintain a cleaner, more manageable browsing session.
+For students and researchers, the search companion is an invaluable tool for academic work. It allows you to quickly find citations, verify quotes, and explore related research without losing your place in longer documents. The ability to maintain your reading context while searching for additional information makes the research process much more efficient and less fragmented.
 
-## Extensions in the Side Panel
+## Extensions in the Side Panel: Expanding Functionality
 
-Perhaps the most powerful aspect of Chrome's side panel is its ability to host extensions. Many popular Chrome extensions have been updated to offer side panel versions, providing quick access to their features without occupying valuable tab real estate.
+One of the most exciting aspects of Chrome's side panel is its support for extensions. Many popular Chrome extensions have been updated to work within the side panel, allowing you to use their functionality without switching contexts. This opens up a world of possibilities for productivity, organization, and customization.
 
-### Finding Side Panel-Compatible Extensions
+### Popular Extensions That Work in the Side Panel
 
-Not all Chrome extensions support the side panel, but the number of compatible extensions continues to grow as developers recognize the feature's popularity. To find extensions that work with the side panel, you can search for "side panel" in the Chrome Web Store or look for extensions that specifically advertise side panel support.
+A wide variety of extensions now support side panel functionality. Task management tools like Todoist and Trello allow you to manage tasks and projects while browsing. Note-taking applications such as Notion and Evernote let you capture ideas and organize notes without opening separate windows. Password managers like 1Password and LastPass provide quick access to your credentials when you need to log in to websites.
 
-Popular categories of side panel extensions include note-taking tools, task managers, password managers, communication apps, and productivity utilities. Many of these extensions offer full functionality within the side panel, allowing you to use their features without switching away from your main content.
+For developers, extensions like GitHub and GitLab provide quick access to pull requests, issues, and notifications. Design tools like Figma and Canva can be accessed through the side panel for quick collaborations. The list of compatible extensions continues to grow as developers recognize the value of side panel integration.
 
-### Tab Suspender Pro: An Essential Extension for Side Panel
+One particularly useful extension category for side panel use is web clipping and content saving. Extensions like Pocket, Instapaper, and Raindrop.io allow you to save articles, images, and other content directly to your accounts without navigating away from your current page. This seamless integration makes it incredibly easy to build your personal knowledge base while browsing.
 
-One particularly useful extension that integrates well with the side panel philosophy is Tab Suspender Pro. This extension helps manage Chrome's notorious tab clutter by automatically suspending inactive tabs to free up memory and reduce CPU usage. While Tab Suspender Pro doesn't currently operate within the side panel itself, it embodies the same productivity-focused approach that makes the side panel valuable.
+### Tab Suspender Pro: A Perfect Side Panel Companion
 
-Tab Suspender Pro works in the background to detect tabs you haven't used for a configurable period, then suspends them to save system resources. Suspended tabs display a placeholder showing the page title and a button to reload when you need them. This approach is especially valuable for users who frequently keep many tabs open, as it prevents the browser slowdown that typically accompanies heavy tab usage.
+Among the extensions that work beautifully in Chrome's side panel, Tab Suspender Pro stands out as an essential tool for browser productivity and resource management. This extension helps you manage your open tabs by automatically suspending inactive tabs to free up memory and reduce CPU usage, which is particularly valuable when you have many tabs open simultaneously.
 
-The extension includes various configuration options, allowing you to set different suspension delays for different tabs, whitelist sites that should never be suspended, and choose how suspended tabs appear. Some users configure Tab Suspender Pro to suspend tabs after just a few minutes of inactivity, while others prefer longer delays for tabs they reference regularly.
+What makes Tab Suspender Pro particularly useful in the context of the side panel is its visual tab management interface. You can view all your open tabs, see which ones are suspended and which are active, and manually control suspension settings—all from the convenient side panel view. This gives you a complete overview of your browser's tab ecosystem without having to switch to Chrome's traditional tab management view.
 
-When combined with side panel usage, Tab Suspender Pro helps create a more efficient browsing environment. You can keep your essential tools and references accessible through the side panel while letting Tab Suspender Pro manage your background tabs automatically. This combination reduces the need to manually organize or close tabs, allowing you to focus on your actual work rather than browser management.
+The extension also provides valuable insights into your browsing habits, showing you how much memory you're saving by suspending inactive tabs. For users who frequently keep many tabs open—as many power users do—Tab Suspender Pro can significantly improve browser performance and responsiveness. The side panel integration makes this functionality immediately accessible, allowing you to quickly check your tab status or restore suspended tabs with a single click.
 
-### Other Notable Side Panel Extensions
+By combining Tab Suspender Pro with other side panel features like bookmarks and the reading list, you can create a highly efficient browsing environment that minimizes distractions and maximizes productivity. The side panel becomes your command center, giving you quick access to all the tools you need while keeping your main browsing area focused on the content that matters.
 
-Beyond Tab Suspender Pro, numerous extensions offer side panel functionality that can enhance your browsing experience. Note-taking apps like Evernote and Notion provide side panel versions for quick capture of ideas and research. Password managers like LastPass and Bitwarden offer side panel access for retrieving credentials without leaving your current page. Communication tools like Slack and Discord have side panel options for staying connected while working in other tabs.
+### Enabling and Managing Side Panel Extensions
 
-Project management extensions, coding utilities, translation tools, and email clients also frequently offer side panel versions. The variety of available extensions means you can customize your side panel to support your specific workflow, whether you're a developer needing quick access to documentation, a writer researching topics, or a professional managing multiple communication channels.
+To use an extension in the side panel, you first need to enable side panel support for that extension. Chrome makes this straightforward: right-click on any extension icon in your toolbar and select "Pin to side panel" from the context menu. The extension will now appear in your side panel whenever you click the side panel icon.
 
-## Maximizing Your Side Panel Experience
+Once an extension is pinned to the side panel, you can customize how it behaves by right-clicking on its icon in the side panel and selecting options. You can choose to have the extension always visible in the side panel, show only when clicking its icon, or appear in a dropdown from the side panel toolbar. This flexibility allows you to tailor the side panel experience to your preferences.
 
-To get the most out of Chrome's side panel, consider developing workflows that leverage its capabilities strategically. Here are some tips for maximizing your side panel productivity:
+Managing your side panel extensions is also easy. You can rearrange the order of extensions by dragging them in the side panel, and you can remove an extension from the side panel by right-clicking and selecting the appropriate option. Chrome remembers your preferences, so your side panel setup remains consistent across browsing sessions.
 
-First, customize your side panel width to balance visibility with available screen space. The ideal width allows you to read content comfortably without sacrificing too much of your main viewing area. You can adjust this by hovering over the inner edge of the side panel and dragging to resize.
+## Maximizing Your Side Panel Productivity
 
-Second, take advantage of keyboard shortcuts for side panel operations. Memorizing the shortcut to toggle the side panel (Alt+Shift+S or Option+Shift+S) makes it much more convenient to access, encouraging regular use rather than leaving it closed by default.
+Now that you understand all the features available in Chrome's side panel, let's discuss some strategies for maximizing your productivity with these tools. The key is to customize your side panel setup to match your workflow and make it a seamless part of your daily browsing routine.
 
-Third, explore different extension options to find tools that fit your specific needs. The side panel ecosystem continues to evolve, with new extensions and updates regularly adding functionality. Periodically checking for new options can reveal tools that significantly improve your workflow.
+### Customizing Your Setup
 
-Fourth, consider combining the side panel with other Chrome features for enhanced productivity. Using the side panel alongside tab groups, the reading list, and extensions like Tab Suspender Pro creates a comprehensive system for managing your web activities efficiently.
+Start by identifying which features you use most frequently. For most users, this will be a combination of bookmarks, the reading list, and one or two favorite extensions. Pin these essentials to your side panel for quick access, and remove or hide features you don't use regularly. A personalized side panel is far more useful than the default configuration.
+
+Take time to organize your bookmarks in a way that makes sense for your work. Create folders for different projects, clients, or topics, and place your most frequently visited sites at the top for easy access. The few minutes you spend organizing will pay dividends in time saved throughout your workday.
+
+Similarly, develop a system for your reading list. Consider creating a habit of reviewing your reading list at specific times—perhaps first thing in the morning or during your lunch break. This helps prevent the list from growing unmanageably large and ensures you actually engage with the content you've saved.
+
+### Building Sustainable Habits
+
+The true power of Chrome's side panel comes from regular use. Make a conscious effort to incorporate these features into your daily workflow. Start by choosing one or two features to focus on—perhaps the bookmarks panel and the search companion—and use them consistently for a week before adding more to your routine.
+
+Pay attention to moments when you find yourself switching between tabs or opening new windows unnecessarily. These are perfect opportunities to leverage side panel features instead. Over time, using the side panel will become second nature, and you'll wonder how you ever browsed without it.
+
+Remember that the side panel is designed to reduce context switching and keep you in your flow state. By keeping your most important tools accessible without leaving your current page, you maintain momentum and focus. This subtle but significant improvement in your browsing experience can lead to substantial productivity gains over time.
 
 ## Conclusion
 
-Chrome's side panel represents a significant advancement in browser productivity, offering a centralized hub for accessing essential tools without disrupting your main workflow. From the practical Reading List and Bookmarks Panel to the integrated Search Companion and extensive extension ecosystem, the side panel provides capabilities that cater to diverse user needs.
+Chrome's side panel is a powerful but often overlooked feature that can significantly enhance your browsing productivity. From saving articles for later reading in the Reading List to organizing your favorite sites with bookmarks, from researching topics with the search companion to extending functionality with compatible extensions like Tab Suspender Pro, the side panel offers a comprehensive toolkit for modern web browsing.
 
-Whether you're saving articles for later reading, accessing your bookmarked sites, performing quick searches, or using productivity extensions, the side panel delivers a seamless experience that keeps you in control of your browsing session. Combined with tools like Tab Suspender Pro that manage background tabs intelligently, the side panel becomes part of a comprehensive productivity system that transforms how you work and browse the web.
+The key to getting the most out of these features is to personalize your setup, develop consistent habits, and make the side panel an integral part of your workflow. Start with the features that seem most useful to you, and gradually expand as they become natural parts of your browsing routine. Your productivity will thank you.
 
-As Chrome continues to develop and expand its features, the side panel will likely become even more central to the browsing experience. By familiarizing yourself with its current capabilities and incorporating it into your daily workflow, you're setting yourself up for a more organized, efficient, and productive web browsing experience.
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -114,4 +114,4 @@ Remember to check your Chrome settings to ensure Energy Saver Mode is enabled, a
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

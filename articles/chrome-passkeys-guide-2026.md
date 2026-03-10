@@ -87,3 +87,7 @@ The environmental benefits of passkeys should not be overlooked either. By elimi
 Making the switch to passkeys is one of the most significant steps you can take to improve your online security in 2026. It eliminates the risks associated with weak passwords, reused passwords, and password breaches while making your daily login experience faster and more convenient. Start by creating passkeys for your most important accounts, and gradually expand from there. Within a year or two, you may find that you rarely need to type a password at all.
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Notification API Guide"
 description: "Learn how to use Chrome Notification API for push notifications, permission requests, notification actions, and badges. Complete developer guide with code examples."
 date: 2026-01-20
@@ -240,4 +240,4 @@ Start implementing notifications in your projects today, and remember to follow 
 
 ---
 
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

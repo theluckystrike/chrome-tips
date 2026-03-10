@@ -46,6 +46,22 @@ On Mac, graphics drivers are included in system updates. Click the Apple menu in
 
 After updating your drivers, restart your computer and open Chrome again. The flickering should be much better or completely gone.
 
+## Check Your Browser Extensions
+
+Sometimes the issue isn't with Chrome itself, but with an extension you've installed. Some extensions that modify the visual appearance of websites or inject code into pages can cause conflicts that lead to flickering.
+
+To test this, try opening an **Incognito Window** (Ctrl + Shift + N or Cmd + Shift + N). By default, extensions are disabled in Incognito mode. If the flickering stops while you are browsing privately, you know an extension is to blame. 
+
+Go to your extensions page by typing **chrome://extensions** into the address bar. Turn off your extensions one by one and test the browser after each. When the flickering stops, you've found the culprit. You can then choose to remove that extension or look for an alternative that doesn't cause display issues.
+
+## Clear Your Browser Cache and Data
+
+Corrupted temporary files can also lead to strange visual behavior in Chrome. If your browser cache has become "scrambled," it might cause the screen to flash as Chrome struggles to load older versions of a page or its assets.
+
+To clear your cache, press **Ctrl + Shift + Delete** (or Cmd + Shift + Delete on Mac). A window will pop up asking what you want to clear. Select "Cached images and files" and "Cookies and other site data." Set the time range to "All time" for the best results. 
+
+Click "Clear data" and then restart Chrome. This gives your browser a fresh start and can often resolve persistent flickering that wasn't fixed by other methods. It's a simple maintenance step that keeps everything running smoothly.
+
 ## Manage Your Open Tabs
 
 Having too many tabs open can strain your **GPU** and cause **screen flickering**. This happens because Chrome's **rendering engine** is forced to compete for resources across dozens of active processes.

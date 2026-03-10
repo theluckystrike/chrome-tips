@@ -144,6 +144,10 @@ Managing Chrome permissions is an essential skill for anyone concerned about the
 
 Chrome's Permissions Manager provides all the tools you need to maintain control. Take advantage of per-site settings to customize access for different websites, review your permissions periodically to remove unnecessary access, and stay informed about what permissions you're granting and why.
 
+<<<<<<< HEAD
 Remember that permissions are not set-and-forget settings. As your browsing habits change and websites evolve, your permission settings should evolve with them. By staying vigilant and proactive, you can ensure that your browser works for you—not for anyone trying to access your data without your consent.
+=======
+Chrome's permissions manager puts you in the driver's seat. Take the time to configure it according to your comfort level, and your browsing experience will be both more powerful and more private.
+>>>>>>> qa/loop-4
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

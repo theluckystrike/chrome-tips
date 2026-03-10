@@ -14,7 +14,7 @@ If you are searching for the best chrome extensions for photographers, you proba
 
 The challenge is that photographers often juggle many browser tabs at once. You might have reference images open, your online gallery platform, a tutorial you are following, and your email all running simultaneously. This can slow down your browser, make it harder to find what you need, and even affect your computer's performance. The solution is not to struggle through this but to use extensions that help you organize, protect, and speed up your browsing experience.
 
-Let us look at some of the best Chrome extensions that photographers should consider adding to their browser.
+Here are some of the best Chrome extensions that photographers should consider adding to their browser.
 
 ## Tab Management Extensions
 

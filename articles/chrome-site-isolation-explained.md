@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Site Isolation Explained"
 description: "Learn how Chrome's Site Isolation feature protects against Spectre vulnerabilities by running each site in its own process, and understand the memory trade-offs involved."
 date: 2026-01-15

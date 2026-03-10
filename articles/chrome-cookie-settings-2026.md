@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Cookie Settings 2026 Guide"
 description: "Master Chrome cookie settings in 2026: Learn about third-party cookies, SameSite policies, Privacy Sandbox, and tracking protection for enhanced browser privacy."
 date: 2026-01-15

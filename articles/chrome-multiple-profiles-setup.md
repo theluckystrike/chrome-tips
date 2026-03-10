@@ -129,3 +129,7 @@ Chrome multiple profiles setup is one of the most underutilized features in the 
 The key is to invest a little time upfront to set things up correctly. Choose clear names for your profiles, configure sync settings appropriately, and install only the extensions you need in each profile. Once established, maintaining multiple profiles requires minimal effort while providing ongoing benefits.
 
 Remember to leverage tools like Tab Suspender Pro to help manage memory across your profiles, keeping Chrome running smoothly even with many tabs open. With the right setup and habits, Chrome multiple profiles can transform how you work and browse online.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

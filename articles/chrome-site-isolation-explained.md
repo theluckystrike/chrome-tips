@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Site Isolation Explained"
 description: "Learn how Chrome Site Isolation works, its role in Spectre protection, the memory trade-offs, and how it impacts your browsing experience."
 date: 2026-01-20

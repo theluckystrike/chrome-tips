@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Permissions Manager Guide"
 description: "Learn how to manage Chrome browser permissions for camera, microphone, location, and notifications. Complete guide to per-site controls and privacy settings."
 date: 2026-01-20

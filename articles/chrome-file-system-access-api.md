@@ -1,55 +1,58 @@
 ---
 layout: post
 title: "Chrome File System Access API Guide"
-description: "Learn how to use Chrome File System Access API to open, save, and manage files directly from your web applications. Comprehensive guide covering file handling, directory access, and drag-and-drop functionality."
+description: "Learn how to use the Chrome File System Access API to open files, save files, access directories, and implement drag and drop functionality in your web applications."
 date: 2026-01-15
-categories: [chrome, development, api, web-development]
-tags: [chrome-file-system-access-api, file-api, web-development, browser-api, chrome-extensions]
+categories: [extensions, development, api]
+tags: [chrome-api, file-system, web-development, javascript]
 author: theluckystrike
 ---
 
 # Chrome File System Access API Guide
 
-The **Chrome File System Access API** is one of the most powerful features introduced in modern browsers, enabling web applications to read, write, and organize files on a user's local device with a level of control that was previously impossible outside of native software. This API transforms the browser from a simple document viewer into a genuine productivity platform, allowing developers to build applications that feel just as responsive and capable as traditional desktop software. Whether you are building a code editor, a graphic design tool, a document management system, or any application that works with files, understanding how to leverage this API will dramatically expand what your web application can accomplish.
+The Chrome File System Access API represents one of the most significant advancements in web development for handling local files directly from the browser. This powerful API enables web applications to read, write, and manage files and directories on a user's local system without requiring them to upload anything to a server. For developers building productivity tools, code editors, image editors, or any application that benefits from deep file system integration, understanding this API opens up tremendous possibilities.
 
-The File System Access API represents a significant step forward in bridging the gap between web and native applications. Before its introduction, web developers had to rely on workarounds like the `<input type="file">` element or the File Reader API, which provided limited functionality and poor user experience. Users had to manually select files through cumbersome dialog boxes, and applications could not maintain persistent access to files or preserve the user's preferred directory structure. The new API changes all of this by providing a smooth, secure mechanism for reading and writing files while giving users full control over which files their web applications can access.
+## What Is the File System Access API?
 
-## How the Chrome File System Access API Works
+The File System Access API is a web API that allows websites to interact with the local file system in a secure and user-controlled manner. Unlike traditional file input elements that require users to select files through a system dialog and then upload them to a server, the File System Access API lets users grant websites direct read and write access to specific files and folders on their device.
 
-At its core, the **Chrome File System Access API** builds upon the foundation established by earlier web APIs but adds crucial capabilities that make it practical for real-world applications. The API provides three main functions: opening files, saving files, and accessing directory contents. Each of these operations is designed with user privacy and security in mind, requiring explicit user action before any file access occurs.
+This capability bridges the gap between web applications and native desktop applications. Previously, web developers were limited to the relatively cumbersome process of using file input elements, reading file contents into memory, processing them, and then requiring users to download the results. With the File System Access API, you can create true local-first applications that feel as responsive and capable as their desktop counterparts.
 
-When a web application wants to access a file, it must call the `showOpenFilePicker()` method, which displays Chrome's native file picker dialog to the user. This dialog looks and behaves like the file picker users are accustomed to from desktop applications, making the experience familiar and intuitive. The user can then select one or multiple files and confirm their choice. Importantly, the API does not grant the application automatic access to the file system. Instead, the user must actively choose to share a file with the application, and they can revoke this access at any time through Chrome's site settings.
+The API is currently supported in Chrome, Edge, and other Chromium-based browsers, making it a viable choice for many real-world applications. It provides three main capabilities: opening files for reading, saving files (either by creating new files or modifying existing ones), and accessing directory contents for batch operations.
 
-The `showSaveFilePicker()` method works similarly but is used when an application needs to save a file rather than open one. This method also presents a native dialog where users can choose where to save their file and what name to give it. The key advantage here is that applications can suggest a default filename and location, but the user always has the final say. This prevents applications from secretly saving files to unexpected locations and ensures users maintain complete control over their file system.
+## Opening Files with the API
 
-For applications that need to work with entire folders rather than individual files, the `showDirectoryPicker()` method provides a way to request access to a directory. Once granted, the application can list the contents of that directory, create new files and subdirectories, and perform various file operations. This capability opens up possibilities for building complete file management interfaces, development environments, media organization tools, and more directly in the browser.
+The most fundamental operation in the File System Access API is opening a file. This allows users to select a file from their local system and grant your web application access to read its contents. The primary method for this is the `showOpenFilePicker()` function, which displays a native file picker dialog and returns a handle to the selected file.
 
-## Opening Files with the File System Access API
-
-Opening files using the **Chrome File System Access API** begins with calling `showOpenFilePicker()`, which returns an array of file system file handles after the user makes their selection. These handles serve as persistent references to the selected files, allowing the application to read from and write to them repeatedly without requiring the user to reselect them each time. This persistent access is one of the most valuable aspects of the API, as it enables workflows that feel natural and efficient.
-
-Here is a basic example of how to open a file:
+To open a file, you call `showOpenFilePicker()` with configuration options that specify what types of files your application can handle. The method returns an array of file system file handles, even though most use cases involve selecting a single file. Each handle provides access to the file's data and metadata.
 
 ```javascript
 async function openFile() {
-  const [fileHandle] = await window.showOpenFilePicker();
+  const [fileHandle] = await window.showOpenFilePicker({
+    types: [{
+      description: 'Text Files',
+      accept: {
+        'text/plain': ['.txt', '.md', '.json'],
+      },
+    }],
+    multiple: false,
+  });
+  
   const file = await fileHandle.getFile();
   const contents = await file.text();
   return contents;
 }
 ```
 
-This code demonstrates the fundamental pattern. The `showOpenFilePicker()` method returns an array because users can choose to share multiple files with your application if you configure the picker to allow multiple selections. The handle returned is not the file data itself but a reference that your application can use to access the file on demand. This lazy loading approach is important because reading file contents immediately could be slow for large files and would consume memory unnecessarily.
+This example demonstrates opening a text file. The `types` option defines what file types appear in the picker, filtered by description and MIME type. Users can still select other file types if they choose to, but the filtered types will be prioritized in the dialog.
 
-You can configure the file picker to filter for specific file types, making it easier for users to find the right files. For example, a text editor might want to show only text files, while an image editor would want to display image formats. You can specify these preferences using the `types` option when calling `showOpenFilePicker()`. This filtering helps users quickly locate the files they need while preventing accidental selection of incompatible file types.
+The returned handle is not the file contents itself but rather a reference to the file on disk. This is important because it means you can read the file contents multiple times without keeping everything in memory. When you need the actual content, you call `getFile()` to get a File object, then use standard File API methods like `text()`, `arrayBuffer()`, or `stream()` to read the contents.
 
-The API also supports options for allowing directory selection, controlling whether multiple files can be selected, and specifying whether the selected files should be opened for reading or for reading and writing. These options give developers fine-grained control over the file picking experience while maintaining the security guarantees that make this API safe for users.
+One of the key benefits of this approach is that the file handle persists. You can store it (for example, in IndexedDB or using the File System Access Handle Storage API) and request access again later without requiring the user to reselect the file. This enables features like "recent files" lists that remember which documents the user was working on.
 
-## Saving Files and Writing Data
+## Saving Files Using the API
 
-Saving files is equally straightforward with the **Chrome File System Access API**. The `showSaveFilePicker()` method works much like its open counterpart, presenting a dialog where users can choose where to save their file. The key difference is that the method returns a file system writable file handle that you can use to write data to the selected location.
-
-Writing data to a file typically involves creating a writable stream and then writing your content to that stream:
+Saving files is where the File System Access API truly shines for building productivity applications. The `showSaveFilePicker()` function allows users to choose where to save a file, either creating a new file or overwriting an existing one. This is essential for applications that generate documents, images, or any other type of output that users want to keep.
 
 ```javascript
 async function saveFile(content) {
@@ -57,7 +60,9 @@ async function saveFile(content) {
     suggestedName: 'document.txt',
     types: [{
       description: 'Text Files',
-      accept: {'text/plain': ['.txt']},
+      accept: {
+        'text/plain': ['.txt'],
+      },
     }],
   });
   
@@ -67,60 +72,203 @@ async function saveFile(content) {
 }
 ```
 
-This example shows how to save a text file, but the same pattern works for any type of data. You can write binary data, JSON, images, or any other content by first converting it to the appropriate format and then writing it to the writable stream. The `createWritable()` method returns a stream that you can write to incrementally, which is particularly useful for large files that you do not want to hold entirely in memory.
+This example shows how to save content to a new file. The `suggestedName` parameter provides a default filename that the user can change. The `createWritable()` method returns a writable stream that you can use to write data to the file. After writing, you must close the writable stream to ensure all data is flushed to disk.
 
-One particularly powerful feature is the ability to save changes back to the same file without prompting the user again. Once you have a file handle from either opening or saving a file, you can create a writable stream and write to it whenever needed. This enables auto-save functionality and collaborative editing workflows where multiple users might be working on the same document.
+What makes this particularly powerful is the ability to modify existing files. If the user selects an existing file through the save dialog (or if you programmatically pass an existing file handle), the API will ask for permission to modify that file. Users maintain full control over which files can be modified, and Chrome displays clear indicators in the address bar when a site has write access to a file.
 
-## Directory Access and File Management
+The write operation supports various data types, including strings, Blob objects, and ArrayBuffer instances. For large files, streaming writes are supported, which prevents memory issues when dealing with substantial amounts of data.
 
-The **Chrome File System Access API** truly shines when it comes to working with directories. By calling `showDirectoryPicker()`, you can request access to an entire directory and then perform operations like listing files, creating new files, and organizing content. This capability transforms the browser into a fully functional file management tool.
+A common pattern in applications is to check if you already have permission to write to a file handle before prompting the user again. You can verify permission status using the `queryPermission()` method:
 
-When you obtain a directory handle, you can use the `values()` method to iterate through all entries in that directory. Each entry represents either a file or another directory, and you can check the `kind` property to determine which type you are dealing with. This allows you to build custom file browsers that match your application's specific needs, displaying files in any format you choose.
+```javascript
+async function writeToExistingFile(fileHandle, content) {
+  const options = { mode: 'readwrite' };
+  
+  if ((await fileHandle.queryPermission(options)) === 'granted') {
+    const writable = await fileHandle.createWritable();
+    await writable.write(content);
+    await writable.close();
+  } else if ((await fileHandle.requestPermission(options)) === 'granted') {
+    const writable = await fileHandle.createWritable();
+    await writable.write(content);
+    await writable.close();
+  }
+}
+```
 
-Creating new files within an accessed directory is straightforward. You simply call `dirHandle.getFileHandle()` with the desired filename to create a new file handle, then use that handle to write content just as you would when saving a new file. Similarly, you can create subdirectories using `dirHandle.getDirectoryHandle()`. This programmatic file creation means your application can generate reports, export data, or organize files according to any logic you define.
+This code first checks if the file already has write permission. If not, it requests permission from the user. This creates a smoother user experience by avoiding unnecessary permission prompts.
 
-Deleting files is also supported through the directory handle, though you should implement appropriate confirmation dialogs in your user interface before actually deleting anything. The API provides a `remove()` method for files and `removeEntry()` for directories, but these operations are permanent and cannot be easily undone. Always give users clear warnings and, when possible, implement a soft-delete or trash system that allows for recovery.
+## Directory Access and Batch Operations
 
-## Drag and Drop Integration
+Beyond working with individual files, the File System Access API provides powerful capabilities for accessing entire directories. This is incredibly valuable for applications that need to process multiple files at once, such as photo organizers, code utilities, or backup tools.
 
-The **Chrome File System Access API** integrates seamlessly with the HTML5 drag and drop API, enabling powerful interfaces where users can drag files from their desktop directly into your web application. This interaction pattern is particularly intuitive for applications that process files, such as image editors, document converters, or data import tools.
+The `showDirectoryPicker()` function opens a directory picker and returns a handle to the selected directory. From this handle, you can enumerate all files and subdirectories within:
 
-To implement drag and drop, you first need to add event listeners for the dragover and drop events on your drop zone element. The dragover event should call `preventDefault()` to indicate that the drop zone accepts files, and the drop event handler can then access the transferred data through the event's `dataTransfer` property.
+```javascript
+async function handleDirectory() {
+  const dirHandle = await window.showDirectoryPicker();
+  
+  for await (const entry of dirHandle.values()) {
+    if (entry.kind === 'file') {
+      const file = await entry.getFile();
+      console.log(`File: ${file.name} (${file.size} bytes)`);
+    } else if (entry.kind === 'directory') {
+      console.log(`Directory: ${entry.name}`);
+    }
+  }
+}
+```
 
-When files are dropped onto your application, you receive an array of File objects just as you would from a traditional file input. However, the File objects returned from drag and drop operations can be more powerful when combined with the File System Access API. You can call `window.resolveFileHandle()` on dropped files that were originally from the local file system to obtain a proper file system handle, giving you persistent access to those files without requiring the user to explicitly select them again.
+The `values()` method returns an async iterator that yields each entry in the directory. Each entry has a `kind` property indicating whether it is a file or directory, and a `name` property with its filename. For files, you can call `getFile()` to obtain the File object with metadata like size, modification date, and the ability to read contents.
 
-This combination of drag and drop with the File System Access API creates a fluid workflow where users can quickly drag files into your application and immediately begin working with them. The application receives file handles that provide full read and write capabilities, making the dropped files just as accessible as those selected through the file picker. This is particularly valuable for applications that expect users to work with multiple files simultaneously, as dragging multiple files at once is often faster than selecting them individually.
+You can also access nested directories recursively to build complete file trees or process entire directory structures. When working with subdirectories, you need to request appropriate permissions for each directory you want to access:
 
-## Permissions and Security Considerations
+```javascript
+async function processDirectory(dirHandle, depth = 0) {
+  for await (const entry of dirHandle.values()) {
+    console.log('  '.repeat(depth) + entry.name);
+    
+    if (entry.kind === 'directory') {
+      // Request permission for the subdirectory
+      await entry.requestPermission({ mode: 'readwrite' });
+      await processDirectory(entry, depth + 1);
+    }
+  }
+}
+```
 
-Security is paramount when working with the **Chrome File System Access API**, and the API is designed with multiple layers of protection to ensure users remain in control of their files. Every file or directory access must be explicitly granted by the user through a visible dialog, and the browser maintains a clear record of which origins have access to which files.
+This recursive function processes all contents of a directory and its subdirectories. Note that you must explicitly request permission for each directory you want to access beyond the initially selected folder.
 
-When your application receives a file handle, it does not automatically gain permanent access to that file. The user must explicitly choose to open or save the file, and Chrome stores this permission association. However, you should be aware that permissions can be revoked by the user at any time through Chrome's site settings. Your application should handle the case where a previously accessible file becomes inaccessible, displaying appropriate error messages and guiding the user to re-grant access if needed.
+Directory handles also support creating new files and directories within the selected folder:
 
-For directory access, Chrome automatically requests the necessary permissions when the user selects a directory. The permission is typically granted for the origin and persists across sessions, meaning users do not need to re-select the same directory every time they use your application. This convenience must be balanced against security considerations, so Chrome provides clear indicators in the address bar when a site has access to files or directories.
+```javascript
+async function createNewFile(dirHandle, filename, content) {
+  const fileHandle = await dirHandle.getFileHandle(filename, { create: true });
+  const writable = await fileHandle.createWritable();
+  await writable.write(content);
+  await writable.close();
+}
 
-You should also implement proper error handling in your file operations. The API can throw various errors when operations fail, such as when the user denies permission, when the file has been moved or deleted, or when there are conflicts with other applications accessing the same file. Catching and handling these errors gracefully ensures your application remains stable and provides helpful feedback to users when issues occur.
+async function createNewDirectory(dirHandle, dirname) {
+  await dirHandle.getDirectoryHandle(dirname, { create: true });
+}
+```
 
-## Performance Optimization Tips
+These methods enable applications to act as full-featured file managers, allowing users to organize their files directly through your web application.
 
-Working with files through the **Chrome File System Access API** requires attention to performance, particularly when dealing with large files or performing multiple operations. The API is designed to handle large files efficiently, but developers need to use the right techniques to ensure smooth user experiences.
+## Implementing Drag and Drop Functionality
 
-For reading large files, avoid loading the entire contents into memory at once. Instead, use the File System Access API's support for streams to read data in chunks. This approach is particularly important for applications that need to process large media files, log files, or datasets that would be impractical to hold entirely in memory. The streaming approach keeps your application responsive even when working with files that are gigabytes in size.
+The File System Access API integrates seamlessly with the HTML5 Drag and Drop API to create intuitive interfaces where users can drag files from their desktop directly into your application. This is particularly useful for web-based image editors, document processors, and data import tools.
 
-Writing operations can similarly benefit from streaming. When saving large amounts of data, create a writable stream and write to it incrementally rather than accumulating everything in memory first. This approach uses memory efficiently and allows users to see progress as their data is written to disk.
+When files are dropped onto a drop zone in your application, you receive a DataTransferItemList containing entries that may be file system handles or regular File objects. When using the File System Access API with drag and drop, you can request that the dropped items provide file system handles rather than just file data:
 
-Caching file handles appropriately can also improve performance significantly. Since obtaining a file handle requires user interaction, you should store handles in localStorage or IndexedDB when appropriate to avoid prompting the user repeatedly for the same files. However, be thoughtful about what you cache and implement proper validation to ensure cached handles are still valid before attempting to use them.
+```javascript
+const dropZone = document.getElementById('dropZone');
 
-## Practical Example: Building a Simple File Editor
+dropZone.addEventListener('drop', async (event) => {
+  event.preventDefault();
+  
+  for (const item of event.dataTransfer.items) {
+    if (item.kind === 'file') {
+      const entry = item.webkitGetAsEntry();
+      
+      if (entry) {
+        // Handle as file system entry
+        if (entry.isFile) {
+          const fileHandle = await entry.getAsFileSystemHandle();
+          console.log('Dropped file:', fileHandle.name);
+        } else if (entry.isDirectory) {
+          console.log('Dropped directory:', entry.name);
+        }
+      } else {
+        // Fallback for regular file objects
+        const file = item.getAsFile();
+        console.log('Dropped file (legacy):', file.name);
+      }
+    }
+  }
+});
 
-To tie everything together, consider how you might build a simple text editor using the **Chrome File System Access API**. The application would start with buttons to open and save files. When the user clicks open, you call `showOpenFilePicker()` configured for text files, get the file handle, read its contents, and display them in a textarea. When the user clicks save, you call `showSaveFilePicker()` if this is a new file, or write directly to the existing handle if the file was already opened.
+dropZone.addEventListener('dragover', (event) => {
+  event.preventDefault();
+});
+```
 
-You can enhance this basic editor with auto-save functionality by periodically writing the current contents to the file handle without prompting the user. You might add a status indicator showing whether the document has unsaved changes, and you could implement keyboard shortcuts for common operations like saving with Ctrl+S.
+This code sets up a drop zone that accepts files and directories. The `webkitGetAsEntry()` method returns a FileSystemFileEntry or FileSystemDirectoryEntry for items that are part of the file system, allowing you to work with them using the File System Access API patterns described earlier.
 
-The same principles apply regardless of what type of application you are building. Whether you are creating a spreadsheet, an image editor, a development environment, or any other file-based application, the core patterns remain consistent: obtain handles through user interaction, use those handles to read and write data, and handle errors gracefully throughout.
+The integration between drag and drop and the File System Access API means you can build applications that accept files through traditional file pickers, drag and drop, or both. Users can choose whichever workflow feels most natural for their situation.
 
-## Enhancing Productivity with Related Tools
+For applications that need to read file contents immediately upon drop, you can combine drag and drop with the file reading capabilities:
 
-While the **Chrome File System Access API** provides powerful capabilities for building file-handling applications, users often benefit from combining these applications with browser extensions that enhance their overall productivity. For instance, if you find yourself working with many files and tabs simultaneously, you might consider using **Tab Suspender Pro**, a Chrome extension that automatically suspends inactive tabs to free up memory and improve browser performance. This can be particularly valuable when using file management applications that require multiple tabs to be open simultaneously, as it helps keep your browser running smoothly even during intensive file operations.
+```javascript
+async function handleDroppedFile(item) {
+  const entry = item.webkitGetAsEntry();
+  
+  if (entry && entry.isFile) {
+    const fileHandle = await entry.getAsFileSystemHandle();
+    const file = await fileHandle.getFile();
+    const content = await file.text();
+    return content;
+  }
+  
+  return null;
+}
+```
+
+This pattern is particularly useful for text editors that want to open dropped files, image editors that need to process dropped images, or any application where opening files is the primary workflow.
+
+## Security Considerations and Best Practices
+
+The File System Access API is designed with security and user privacy as core principles. Unlike older approaches that gave websites broad access to the file system, this API requires explicit user action and permission for every access attempt.
+
+When a site attempts to open or save a file, the browser displays a system dialog that clearly shows which file or directory the site wants to access. Users can grant or deny permission at any time, and they can revoke previously granted permissions through browser settings.
+
+Chrome indicates in the address bar when a site has access to file handles, providing ongoing visibility into which sites can read or modify local files. This visual indicator helps users stay informed about their security status.
+
+For developers, there are several best practices to follow. Always request the minimum permissions necessary for your application's functionality. If you only need to read files, don't request write access. If you only need access to one file, don't request an entire directory.
+
+Handle permission denials gracefully. Users may deny permission for various reasons, and your application should continue to function (perhaps by falling back to traditional file input methods) rather than crashing or displaying confusing errors.
+
+Store file handles securely if your application needs to remember them between sessions. IndexedDB is the recommended storage mechanism, as localStorage has size limits that would quickly become problematic for file handles. When storing handles, be aware that users may move or delete files, so always verify that a handle is still valid before attempting to use it.
+
+Consider implementing auto-save functionality that periodically writes changes to the file system. This protects users from losing work if their browser crashes or if they accidentally close the tab. The File System Access API supports streaming writes that are efficient enough for frequent auto-saves.
+
+## Practical Applications and Use Cases
+
+The File System Access API enables a wide range of powerful applications. Code editors like VS Code for Web can now offer a genuine local development experience where users can open folders directly from their filesystem and edit files in place.
+
+Image editing applications can load images from the local disk, apply edits, and save back to the original file or create new versions. The ability to work with existing files eliminates the friction of exporting and importing between different applications.
+
+Documentation tools can read from and write to local Markdown files, maintaining direct synchronization between the source files and the web application. This creates a seamless workflow for technical writers and documentation maintainers.
+
+Data analysis tools can import large datasets directly from local CSV or JSON files, process them in the browser, and export results to local files without any server round-trips.
+
+For extension developers, the File System Access API opens up possibilities for building more sophisticated tools. If you're developing something like **Tab Suspender Pro**, which helps users manage their browser tabs and improve performance, you could use this API to import and export configuration settings, save tab session data locally, or integrate with local backup systems.
+
+## Browser Support and Fallbacks
+
+While the File System Access API provides powerful capabilities, it is not universally supported across all browsers. Firefox and Safari have not yet implemented the full API, though Firefox has indicated interest and may add support in the future.
+
+For applications that need to work across all browsers, you'll need to implement fallback strategies. The traditional `<input type="file">` element and the File API remain the standard fallback approach. Your application can detect API support using feature detection:
+
+```javascript
+if ('showOpenFilePicker' in window) {
+  // Use File System Access API
+} else {
+  // Use traditional file input
+}
+```
+
+When using fallbacks, try to maintain a consistent user experience as much as possible. The File System Access API offers a more seamless experience, but the core functionality of reading and writing files remains available through traditional methods.
+
+For progressive enhancement, you can use the File System Access API where available while still supporting users on other browsers. This approach lets users with modern browsers enjoy the full experience while ensuring everyone can still use your application.
+
+## Conclusion
+
+The Chrome File System Access API represents a transformative capability for web development. By enabling direct, user-controlled access to local files and directories, it closes the gap between web and native applications in ways that were previously impossible.
+
+The API's three core functions—opening files, saving files, and directory access—provide the foundation for building sophisticated local-first applications. Combined with drag and drop support, you can create intuitive interfaces that feel natural and powerful.
+
+Remember to always prioritize user security by requesting only necessary permissions, handling denials gracefully, and providing clear feedback about what's happening with their files. With these considerations in mind, the File System Access API becomes an incredibly valuable tool for creating web applications that users can genuinely rely on for their daily work.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

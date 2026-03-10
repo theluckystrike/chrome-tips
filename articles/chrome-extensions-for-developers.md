@@ -1,141 +1,123 @@
 ---
 layout: post
 title: "Best Chrome Extensions for Developers 2026"
-description: "Discover the best Chrome extensions for developers in 2026 to supercharge your coding workflow, improve productivity, and streamline debugging. Includes React DevTools, Lighthouse, JSON viewer, Wappalyzer, and daily.dev."
+description: "Discover the best Chrome extensions for developers in 2026. Boost your coding productivity with React DevTools, Lighthouse, JSON Viewer, Wappalyzer, daily.dev, and more."
 date: 2026-03-10
-categories: [productivity, developer-tools]
-tags: [chrome-extensions, developer-tools, programming, web-development]
+categories: [productivity, developers, tips]
+tags: [chrome-extensions, developer-tools, programming, browser-tools]
 author: theluckystrike
 ---
 
 # Best Chrome Extensions for Developers 2026
 
-If you are a developer looking to enhance your productivity and streamline your workflow, Chrome extensions can be game-changing. The right set of tools transform your browser from a simple navigation application into a powerful development environment. In this comprehensive guide, we explore the best Chrome extensions for developers in 2026, covering essential tools that will help you code faster, debug more effectively, and stay current with industry trends.
+If you are a developer looking to supercharge your workflow in 2026, the right Chrome extensions can make a tremendous difference in your daily productivity. Whether you are building web applications, debugging code, analyzing performance, or simply keeping up with industry trends, there are extensions designed specifically to address the challenges you face every day. In this comprehensive guide, we will explore the best Chrome extensions for developers that can help you work smarter, not harder.
 
-## Why Developers Need the Right Chrome Extensions
+The Chrome Web Store offers thousands of extensions, but finding the ones that truly deliver value can be overwhelming. We have curated this list based on real-world usage, developer feedback, and the ability of these tools to solve common problems faced by software engineers. These extensions have stood the test of time and continue to be updated with new features that keep pace with the evolving web development landscape.
 
-Modern web development has become increasingly complex. Whether you are building front-end interfaces with React, back-end services with Node.js, or full-stack applications, you likely juggle multiple responsibilities throughout your workday. You switch between documentation and code, debug across different environments, manage API integrations, and constantly learn new technologies. Chrome, while powerful by default, does not provide all the specialized tools developers need.
+## Why Developers Need Specialized Extensions
 
-The beauty of Chrome extensions is that they add targeted functionality without requiring you to install separate software or configure complex development environments. They integrate directly into your workflow, providing instant access to powerful features right from your browser toolbar. The key is selecting extensions that address your specific pain points without cluttering your browser with tools you rarely use.
+Modern web development involves juggling multiple technologies, frameworks, and tools simultaneously. You might be working on a React frontend while managing a backend API, all while keeping an eye on performance metrics and security vulnerabilities. The default Chrome browser provides a solid foundation, but it lacks the specialized features that developers need to work efficiently.
 
-When evaluating extensions, consider their reliability, update frequency, and how well they integrate with your existing tools. The best extensions for developers in 2026 are those that have stood the test of time, are regularly maintained, and provide genuine value to your daily work.
+One of the biggest challenges developers face is tab clutter. When you are working on a complex project, you might have dozens of tabs open containing documentation, API references, debugging tools, and code repositories. This can significantly slow down your browser and consume valuable system resources. Additionally, switching between tabs constantly breaks your focus and reduces productivity.
+
+The solution lies in leveraging Chrome extensions that are specifically designed for developers. These tools can automate repetitive tasks, provide quick access to important information, and help you identify and fix issues faster. The key is to choose extensions that integrate well with your existing workflow and address your specific pain points.
+
+## Tab Suspender Pro
+
+Before diving into the development-specific extensions, it is worth mentioning a tool that benefits every developer: Tab Suspender Pro. If you are like most developers, you probably keep dozens of tabs open at any given time. You might have documentation pages, Stack Overflow threads, GitHub repositories, and debugging tools all running simultaneously. While this habit helps you stay organized, it can also slow down your browser significantly.
+
+Tab Suspender Pro automatically suspends tabs that you have not used recently, freeing up memory and CPU resources. When you return to a suspended tab, it instantly resumes, so you never lose your place. This is particularly useful for developers who work with resource-intensive applications or who keep many reference materials open while coding. By reducing browser resource consumption, Tab Suspender Pro helps your development environment run smoother, especially when you are working on lower-powered machines or running multiple demanding applications simultaneously.
+
+The extension allows you to customize which tabs should be suspended and which should remain active. You can whitelist tabs that should never be suspended, such as your code editor's local server or active debugging sessions. This level of control ensures that your critical development tools remain responsive while less frequently used tabs are automatically suspended to conserve resources.
 
 ## React DevTools
 
-React has become one of the most popular JavaScript frameworks, and if you work with React applications, React DevTools is an essential extension. This official Chrome extension provides a powerful set of inspection and debugging tools specifically designed for React applications.
+For developers working with React, React DevTools is an indispensable extension that provides a suite of debugging and profiling capabilities. This extension allows you to inspect the React component hierarchy, examine props and state values, and identify performance bottlenecks in your application. Since React is one of the most popular frontend frameworks, having this tool in your arsenal is essential for any web developer.
 
-With React DevTools, you can inspect the component hierarchy, view props and state for any component, and understand how data flows through your application. The component tree visualization makes it easy to navigate complex UIs and identify exactly where certain elements originate. You can also modify state and props on the fly to test different scenarios without changing your code.
+React DevTools provides two main views: the Components tree and the Profiler. The Components tree view lets you navigate through your application's component hierarchy visually. You can select any component and see its props, state, and context in real-time. This makes debugging much easier because you can quickly identify where data is coming from and how it flows through your application. You can also edit props and state directly to test different scenarios without modifying your code.
 
-The profiler feature is particularly valuable for performance optimization. It allows you to record performance snapshots and identify components that re-render unnecessarily. This helps you optimize your applications for better user experience and faster load times. Understanding why certain components re-render and causing unnecessary work is crucial for building efficient React applications.
+The Profiler view is particularly valuable for identifying performance issues. It records all renders and their causes, showing you exactly which components are re-rendering and how long each render takes. This information is crucial for optimizing your application's performance, as you can identify unnecessary renders and implement memoization strategies effectively. The Profiler also highlights components that take too long to render, helping you prioritize your optimization efforts.
 
-For developers working with React in 2026, this extension remains indispensable. It integrates seamlessly with Chrome's developer tools, appearing as a dedicated tab alongside Elements, Console, and Network. Whether you are debugging unexpected behavior, optimizing performance, or simply exploring a new codebase, React DevTools provides the visibility you need.
+What makes React DevTools particularly powerful is its ability to debug both production and development builds. While some debugging tools only work in development mode, React DevTools can connect to React applications running in production environments, allowing you to diagnose issues that users encounter in real-world scenarios.
 
-## Google Lighthouse
+## Lighthouse
 
-Google Lighthouse is an open-source automated auditing tool that helps you improve the quality of web pages. The Chrome extension version provides instant access to comprehensive performance audits without requiring any command-line knowledge. Running Lighthouse directly from your browser gives you detailed insights into your page's performance, accessibility, SEO, and adherence to best practices.
+Lighthouse is an open-source tool from Google that helps you improve the quality of your web pages. Available as a Chrome extension, Lighthouse performs audits across performance, accessibility, progressive web app compliance, SEO, and more. This comprehensive tool is essential for developers who want to ensure their applications meet best practices and provide excellent user experiences.
 
-The performance audit measures various metrics including First Contentful Paint, Largest Contentful Paint, Total Blocking Time, and Cumulative Layout Shift. These Core Web Vitals are crucial for user experience and SEO rankings. Lighthouse provides specific recommendations with actionable guidance on how to improve each metric.
+Running Lighthouse is straightforward. Simply navigate to any webpage, open the extension, and click the analyze page button. Within seconds, Lighthouse generates a detailed report with scores across multiple categories and specific recommendations for improvement. The report includes actionable suggestions with links to documentation that explains each issue in detail.
 
-Accessibility auditing is equally important for developers who want to create inclusive web experiences. Lighthouse checks for common accessibility issues such as missing alt text, improper heading hierarchy, low color contrast, and missing form labels. The detailed reports explain each issue and provide links to relevant documentation.
+Performance auditing is where Lighthouse shines brightest. It measures various metrics including First Contentful Paint, Time to Interactive, Speed Index, and Total Blocking Time. These metrics help you understand how quickly your page loads and becomes usable for visitors. Lighthouse also identifies assets that are slowing down your page, such as large images, unoptimized JavaScript files, or blocking CSS.
 
-For SEO optimization, Lighthouse verifies that your pages have proper meta descriptions, viewport configuration, and crawlability. These factors directly impact how your site performs in search engine results. The extension also checks for adherence to web development best practices, including secure contexts, HTTPS usage, and proper API usage.
+Accessibility audits are equally important. Lighthouse checks for proper HTML semantics, ARIA labels, color contrast ratios, and keyboard navigation support. These checks help ensure that your applications are usable by people with disabilities, which is not only ethically important but also often required by law and beneficial for SEO.
 
-Running Lighthouse regularly during development helps you catch performance issues early before they become entrenched in your codebase. The ability to audit any webpage instantly makes it easy to compare your application against competitors or benchmark against industry standards.
+For developers building Progressive Web Apps, Lighthouse provides specific audits that verify PWA requirements such as service worker registration, manifest file validity, and offline functionality. This makes it easier to create installable web applications that provide an app-like experience.
 
 ## JSON Viewer
 
-Working with APIs that return JSON data is a daily reality for most developers. However, viewing raw JSON in Chrome's default viewer is not ideal. The JSON Viewer extension transforms raw JSON responses into beautifully formatted, syntax-highlighted, and collapsible views that are much easier to read and navigate.
+Working with APIs is a daily reality for most developers, and JSON Viewer makes handling JSON data much more manageable. This extension automatically formats JSON responses in the browser, transforming raw, minified JSON into a readable, syntax-highlighted structure. Instead of squinting at a wall of text, you can navigate through nested objects and arrays with ease.
 
-This extension automatically detects JSON content and applies formatting when you open API responses. You can expand and collapse nested objects and arrays, search within JSON data, and copy specific values or entire sections. The syntax highlighting uses distinct colors for different data types, making it easy to distinguish between strings, numbers, booleans, and null values.
+JSON Viewer provides several useful features for developers. The tree view allows you to collapse and expand different sections of the JSON data, making it easier to focus on the parts you care about. You can search for specific keys or values within the JSON, which is incredibly helpful when working with large responses. The extension also supports JSON path queries, allowing you to extract specific data programmatically.
 
-For developers who work with complex API responses, the ability to collapse sections is invaluable. You can focus on the parts of the response you need while hiding the rest. The search functionality allows you to find specific keys or values quickly, which is especially helpful when dealing with large responses.
+Another valuable feature is the ability to view JSON responses in different formats. You can toggle between the tree view, raw view, and preview view depending on your needs. JSON Viewer also provides statistics about the JSON data, such as the number of keys, array lengths, and data types, which can be useful for understanding the structure quickly.
 
-JSON Viewer also provides features like JSON validation, which alerts you to syntax errors in the data. It can display the data as a table for array responses, making it easy to compare multiple items. The extension supports various themes so you can customize the appearance to your preference.
-
-Whether you are debugging API integrations, testing webhooks, or exploring new APIs, JSON Viewer significantly improves your productivity. The time saved from not having to manually format or copy JSON into external tools adds up quickly over the course of a development day.
+For developers who work with APIs frequently, JSON Viewer integrates seamlessly with network inspection tools. When you examine network requests in Chrome DevTools, formatted JSON is displayed automatically, making API debugging much more efficient. You can also configure the extension to handle specific MIME types and customize the color scheme to match your preferences.
 
 ## Wappalyzer
 
-Wappalyzer is a powerful technology profiler that identifies the technologies used on any website. It can detect content management systems, JavaScript frameworks, front-end libraries, back-end technologies, analytics tools, and hundreds of other categories. This makes it incredibly useful for developers who want to research competitor websites, learn from other implementations, or understand what tools power popular sites.
+Wappalyzer is a technology profiler that identifies the technologies used on any website. With a single click, this extension reveals the content management systems, frameworks, libraries, JavaScript plugins, analytics tools, and other technologies powering a website. This information is invaluable for developers who want to understand how other websites are built or who need to investigate technology stacks for competitive analysis.
 
-When you visit any webpage, Wappalyzer displays an icon in your address bar showing the technologies detected. Clicking the icon reveals a detailed breakdown including the JavaScript framework, CSS framework, server software, analytics platforms, and more. This information provides valuable insights into how different websites are built.
+For developers working on client projects or maintaining legacy systems, Wappalyzer helps you understand what technologies are in use without having to dig through source code. This can be particularly useful when you inherit a project and need to quickly understand its architecture. You can identify the frontend framework, backend language, database, hosting provider, and numerous other components that make up the system.
 
-For developers, Wappalyzer serves multiple purposes. You can investigate how other developers solved specific problems, discover new tools and technologies, and benchmark your own implementations against industry standards. When you encounter a website with impressive functionality, Wappalyzer quickly reveals what made it possible.
+Wappalyzer also serves as an excellent learning tool. By exploring what technologies popular websites use, you can stay informed about industry trends and discover new tools that might benefit your own projects. The extension maintains a database of thousands of technologies across various categories, making it a comprehensive resource for technology identification.
 
-The extension also helps with lead generation and sales research if you work in agencies or consult with clients. Understanding a prospect's current technology stack helps you propose appropriate solutions and understand their technical environment. You can identify opportunities for improvement or integration based on what technologies they already use.
-
-Wappalyzer maintains an extensive database of technology signatures and regularly updates its detection capabilities. This ensures accurate identification even for newer technologies or custom-built solutions. The extension is particularly valuable when you need quick information without navigating through source code or network requests.
+The extension provides detailed information about each detected technology, including version numbers when available. This helps you understand whether a website is using outdated technologies that might have security vulnerabilities or whether it is using the latest and greatest tools. For security researchers and developers conducting audits, this information is particularly valuable.
 
 ## daily.dev
 
-Staying current with the fast-paced world of software development is challenging but essential. daily.dev is a developer news aggregator that brings the latest articles, tutorials, and news from hundreds of sources directly to your browser. It provides a personalized feed of content tailored to your interests and programming languages.
+Staying up to date with the latest developments in software engineering is crucial, and daily.dev makes this effortless. This extension brings curated tech news directly to your new tab page, providing a personalized feed of articles, tutorials, and industry insights from across the developer community. Instead of manually checking multiple news sources, you can start your day with a quick glance at what is happening in the tech world.
 
-The extension replaces your new tab page with a curated feed of developer content. This means every time you open a new tab, you encounter relevant articles and tutorials rather than an empty page. The content covers topics from various programming languages, frameworks, best practices, and industry news.
+daily.dev offers a highly customizable experience. You can choose your areas of interest, such as JavaScript, Python, DevOps, AI, or web development, and the feed adjusts accordingly. The platform uses sophisticated algorithms to curate content from hundreds of sources, ensuring that you see high-quality articles that are relevant to your expertise and interests.
 
-What makes daily.dev particularly valuable is its content curation. The platform uses algorithms and community recommendations to surface high-quality content. You can customize your feed based on specific topics, tags, or programming languages that interest you. This ensures you see content relevant to your work rather than generic tech news.
+One of the standout features of daily.dev is its integration with developer communities. You can see trending discussions from Reddit, Hacker News, and Dev.to directly in your feed. This helps you stay connected with the broader developer community and participate in conversations about important topics. The extension also allows you to bookmark articles for later reading, which is perfect for saving content that you want to explore when you have more time.
 
-The bookmarking feature allows you to save articles for later reading. This is useful when you encounter interesting content but don't have time to read it immediately. You can build a reading list and access it from any device since your bookmarks sync across installations.
+For developers who want to expand their knowledge, daily.dev provides a learning path feature that helps you build expertise in specific areas. Whether you want to learn a new programming language, framework, or methodology, daily.dev can guide you through curated resources that accelerate your learning journey.
 
-For developers who want to continuously learn and stay updated, daily.dev provides an efficient way to consume content without actively searching for it. The passive discovery model means you encounter new tools, techniques, and best practices naturally while browsing. This helps you stay competitive in a constantly evolving field.
+## Additional Essential Extensions for Developers
 
-## Bonus: Tab Suspender Pro
+Beyond the main extensions covered above, there are several other tools that developers should consider adding to their browser. These supplementary extensions address common development needs and can significantly enhance your productivity when used alongside the primary tools.
 
-While not strictly a development tool, Tab Suspender Pro is worth mentioning for developers who work with many open tabs. Complex projects often require having documentation, API references, code examples, your application, and various other resources open simultaneously. This can strain system resources and slow down your browser noticeably.
+### GitHub Repository Size
 
-Tab Suspender Pro automatically suspends inactive tabs to free up memory. You can configure which tabs to suspend, set idle time thresholds, and create exceptions for sites that should never be suspended. This extension is particularly useful when working on memory-constrained machines or when you simply want to maintain better performance while working.
+When working with GitHub repositories, understanding the size of projects can help you make informed decisions about cloning and dependencies. GitHub Repository Size displays repository sizes directly in the GitHub interface, eliminating the need to clone projects just to check their size.
 
-When you return to a suspended tab, it reloads automatically. This seamless experience means you get the benefits of having many tabs open without the performance penalty. For developers who frequently switch between projects or contexts, this can significantly improve overall browser responsiveness.
+### Enhanced GitHub
 
-The extension also helps with organization by providing visual indicators for suspended tabs. You can easily see which tabs are active and which are suspended, making tab management more intuitive. This is particularly useful when you are working on multiple projects simultaneously.
+This extension adds numerous quality-of-life improvements to GitHub, including file size display in repositories, direct download links for individual files, and collapsible file trees. These features make navigating large codebases much more manageable.
 
-## Putting It All Together
+### Refined GitHub
 
-The best developer workflow combines the right tools with efficient habits. While installing extensions is the first step, using them consistently is what delivers real productivity gains. Consider which extensions address your most frequent pain points and focus on mastering those first before adding more to your setup.
+Refined GitHub cleans up the GitHub interface and adds useful keyboard shortcuts. It removes distracting elements and provides quick navigation between files in pull requests, making code reviews more efficient.
 
-The extensions discussed in this guide represent the core tools that most developers benefit from having. React DevTools provides essential debugging for React applications, Lighthouse helps optimize performance and accessibility, JSON Viewer makes working with APIs more efficient, Wappalyzer provides valuable competitive insights, and daily.dev keeps you updated with industry developments. Together, they form a comprehensive toolkit for modern web development.
+### JSONPlaceholder
 
-Remember that your needs may differ based on your specific technology stack and work style. Take time to evaluate each extension and determine how much value it provides to your workflow. The goal is not to have the most extensions but to have the right tools that make you more productive.
+For developers who need sample JSON data for testing, JSONPlaceholder provides quick access to fake data through a simple browser extension. This is perfect for prototyping and testing your application's data handling capabilities.
 
-## Managing Your Extension Collection
+### WhatFont
 
-As you add more extensions to your browser, managing them becomes increasingly important. Too many extensions can slow down Chrome's startup time, consume memory, and create confusion when you cannot find the tool you need. Establishing good practices for extension management helps maintain optimal browser performance while keeping your essential tools accessible.
+Identifying fonts used on websites is easy with WhatFont. Simply hover over any text to see the font family, size, weight, and color. This is invaluable for frontend developers who need to match existing designs or who are inspired by typography choices they encounter.
 
-First, organize your extensions strategically. Place the extensions you use most frequently in the toolbar for one-click access. Less frequently used extensions can remain in the overflow menu. Chrome allows you to pin your favorite extensions and rearrange them in whatever order works best for your workflow. Taking a few minutes to organize your toolbar saves time throughout your workday.
+## Optimizing Your Development Environment
 
-Second, review your installed extensions periodically. Extensions that were once essential may become obsolete as your work evolves or as Chrome introduces built-in features. Removing unused extensions frees up memory and reduces potential security vulnerabilities. A clean extension list is easier to manage and less likely to cause conflicts.
+Having the right extensions is only part of the equation. To get the most out of these tools, consider how they fit into your overall development workflow. Take time to configure each extension to match your preferences and workflow requirements. Most extensions offer settings that allow you to customize their behavior, and taking advantage of these options can significantly improve your experience.
 
-Third, be mindful of extension permissions. When installing new extensions, review the permissions they request and consider whether those permissions are necessary for the extension's functionality. Some extensions require extensive permissions that could potentially access your browsing data. Stick to well-known, reputable extensions and avoid granting unnecessary permissions whenever possible.
+It is also important to regularly review and update your extensions. Developers frequently release new features and bug fixes, and keeping your extensions up to date ensures you have access to the latest improvements. Additionally, periodically auditing your installed extensions can help you identify tools you no longer use, keeping your browser lean and fast.
 
-## Security Considerations for Developer Extensions
+Remember that extensions consume browser resources, so finding the right balance is essential. While each individual extension might use only a small amount of memory, having too many extensions installed can impact browser performance. Focus on installing only the extensions that provide clear value to your workflow and remove those that you rarely use.
 
-Security should be a primary concern when selecting and using Chrome extensions, especially for developers who often work with sensitive code and credentials. Understanding the potential risks and how to mitigate them helps protect your projects and personal information.
+## Conclusion
 
-Malicious extensions occasionally appear in the Chrome Web Store, despite Google's screening processes. These extensions may steal data, inject advertisements, or compromise your browsing sessions. Before installing any extension, research the developer, read user reviews, and check how long the extension has been available. Established extensions with large user bases are generally safer than newer, less-known alternatives.
+The best Chrome extensions for developers in 2026 are tools that address real-world challenges and integrate seamlessly into your existing workflow. React DevTools provides essential debugging capabilities for React developers. Lighthouse helps you build performant, accessible, and SEO-friendly applications. JSON Viewer makes working with API data much more manageable. Wappalyzer reveals the technologies powering any website. daily.dev keeps you informed about industry trends. And Tab Suspender Pro helps you manage browser resources effectively.
 
-Keeping extensions updated is crucial for security. Developers of legitimate extensions regularly release updates that patch security vulnerabilities. Chrome typically updates extensions automatically, but you should verify this setting is enabled. Outdated extensions may have known vulnerabilities that attackers can exploit.
-
-For developers working with sensitive projects, consider using separate Chrome profiles for different types of work. You might have one profile for personal browsing with minimal extensions and another profile for development work with your essential tools. This isolation limits the potential impact if a compromised extension affects one of your profiles.
-
-## Additional Extensions Worth Considering
-
-While the five main extensions covered in this guide form an excellent foundation, several other extensions can enhance your development workflow depending on your specific needs and preferences.
-
-GitHub-related extensions can improve your experience when working with code repositories. Extensions that add syntax highlighting to GitHub, display repository statistics, or provide quick access to pull requests can save time when you spend significant time on the platform. If you use GitHub regularly, exploring these extensions can streamline your workflow.
-
-Code snippet managers help you store and organize code snippets for quick reuse. Rather than searching through files or previous projects for code you have written before, a snippet manager provides instant access to commonly used patterns. This is particularly useful for boilerplate code, utility functions, and frequently used algorithms.
-
-API testing extensions complement JSON Viewer by providing more advanced capabilities for working with web services. While JSON Viewer helps you read API responses, API testing tools let you construct and send requests, set headers, authenticate with various methods, and save request collections. These features are essential if you spend significant time working with REST APIs or GraphQL endpoints.
-
-Password managers are essential for developers who need to manage numerous credentials for various services and environments. A good password manager integrates with Chrome and helps you generate strong passwords, store them securely, and fill them in automatically. This is particularly important when working with multiple deployment environments, cloud services, and development platforms.
-
-## Final Thoughts
-
-The Chrome extensions you choose significantly impact your daily productivity as a developer. The right tools can transform how you work, making you more efficient at debugging, testing, and building web applications. The five extensions highlighted in this guide represent the most impactful categories of developer tools, but they are just the beginning of what is possible.
-
-As you continue developing, pay attention to repetitive tasks that could benefit from automation or tooling. The Chrome extension ecosystem is vast, and solutions likely exist for many common challenges. Take time to explore new extensions occasionally, but remain focused on building a reliable toolkit that you actually use rather than collecting tools that look useful but rarely get opened.
-
-Building an effective extension collection is an ongoing process. Your needs will evolve as you work on different projects, learn new technologies, and take on new responsibilities. Periodically reassess your tools and be willing to replace underutilized extensions with better alternatives. The goal is continuous improvement in your development environment.
-
-With the right extensions in place, Chrome becomes more than just a web browser. It becomes a powerful platform for development, debugging, and learning. Invest the time to set up your ideal configuration, and you will reap the productivity benefits throughout your career as a developer.
+By incorporating these extensions into your development toolkit, you can work more efficiently, produce better quality code, and stay current with industry developments. The key is to start with the extensions that address your most pressing needs and gradually add more tools as you discover new ways they can improve your workflow. With the right combination of extensions, you will find that your development experience becomes more productive and enjoyable.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

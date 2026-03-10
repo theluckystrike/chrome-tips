@@ -123,3 +123,7 @@ Enabling DNS Over HTTPS in Google Chrome is one of the simplest and most effecti
 The setup process takes only a few minutes, and the benefits to your privacy are significant. Whether you choose Cloudflare's privacy-focused 1.1.1.1 service, Google's fast and reliable DNS, or another provider, your DNS queries will be encrypted and protected from prying eyes.
 
 Remember that DoH is just one component of a comprehensive privacy strategy. Using extensions like Tab Suspender Pro, keeping your software updated, and being mindful of the permissions you grant to browser extensions all contribute to a more private and secure browsing experience. Take the time to configure these settings today, and enjoy the peace of mind that comes with knowing your browsing activity is more private and secure than it was before.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

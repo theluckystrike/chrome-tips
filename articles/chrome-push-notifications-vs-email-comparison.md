@@ -66,4 +66,4 @@ Pay attention to how you currently use both channels. If you are constantly inte
 
 ---
 
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

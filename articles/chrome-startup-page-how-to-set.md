@@ -50,4 +50,4 @@ It is worth noting that startup pages and your homepage are two different things
 
 If you find that you have too many tabs opening at startup or that Chrome feels sluggish when launching, consider using an extension designed to help manage tabs more efficiently. Tab Suspender Pro, for example, can automatically suspend tabs you are not actively using, which can speed up your browser and reduce memory usage. By keeping only the tabs you need at any given moment active, you can maintain a cleaner startup experience and a faster overall browsing session.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

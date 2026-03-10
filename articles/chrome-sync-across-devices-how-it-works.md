@@ -68,6 +68,4 @@ If you find that managing many open tabs becomes overwhelming even with sync wor
 
 The key to smooth sync is using the same Google account on every device, keeping sync turned on, and making sure Chrome stays updated. With those basics in place, your browsing data will follow you anywhere you go.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

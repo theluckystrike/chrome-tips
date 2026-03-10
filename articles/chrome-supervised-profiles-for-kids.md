@@ -114,4 +114,4 @@ For children ages 9 to 12, the mature sites filter is usually a good fit. They n
 
 For teenagers, the conversation becomes more important than the technical controls. Have open discussions about online safety, the reasons behind your rules, and trust them to make good decisions while maintaining oversight.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

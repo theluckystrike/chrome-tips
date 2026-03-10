@@ -266,3 +266,7 @@ Finally, test your application thoroughly with actual hardware. While you can de
 The Chrome Web Serial API represents a significant step forward in bringing hardware communication to the web platform. By enabling direct serial port access from browser-based applications, it opens up new possibilities for interactive projects, industrial applications, and educational tools. Whether you are controlling an Arduino, monitoring industrial equipment, or building the next generation of web-connected devices, the Web Serial API provides the foundation you need.
 
 As you continue to explore this technology, remember to start with simple projects to build your understanding before moving to more complex applications. The Arduino examples in this guide provide an excellent starting point, and from there, you can expand to control motors, sensors, displays, and virtually any hardware that communicates via serial protocol. The web platform continues to evolve, and APIs like this one are making it increasingly powerful for creating applications that bridge the digital and physical worlds.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

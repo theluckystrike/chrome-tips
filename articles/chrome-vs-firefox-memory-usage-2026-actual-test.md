@@ -74,4 +74,4 @@ The best browser is the one that fits your workflow. If you are constantly runni
 
 ---
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

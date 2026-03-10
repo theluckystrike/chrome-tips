@@ -89,4 +89,4 @@ The decision between Chrome and Firefox for an old laptop isn't always clear-cut
 
 No matter which path you take, remember that your browser is only part of the equation. Keeping your operating system lean, closing background applications, and using performance-boosting tools like **Tab Suspender Pro** will go a long way in extending the life of your old laptop and making your time online much more enjoyable.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

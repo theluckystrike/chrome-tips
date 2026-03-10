@@ -56,7 +56,7 @@ The download scanning feature covers a wide range of file types. Executable file
 
 For users who want even more control, Chrome allows you to configure how downloads are handled. You can choose to have Chrome always scan downloaded files, or you can opt for a more lightweight approach that only warns you about potentially dangerous downloads. You can also set up Chrome to ask you whether you want to proceed with a download that may be risky.
 
-It is worth noting that while Enhanced Safe Browsing provides excellent protection, you should still exercise caution when downloading files. Even with this protection, it is wise to only download files from trusted sources and to keep your operating system and other software up to date with the latest security patches.
+While Enhanced Safe Browsing provides excellent protection, you should still exercise caution when downloading files. Even with this protection, it is wise to only download files from trusted sources and to keep your operating system and other software up to date with the latest security patches.
 
 ## Enabling and Configuring Enhanced Safe Browsing
 

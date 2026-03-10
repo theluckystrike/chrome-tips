@@ -66,4 +66,4 @@ A 404 error in Chrome is rarely serious. It is simply the server telling you tha
 
 By checking the URL, refreshing the page, clearing caches, and trying a search, you can usually find what you are looking for or confirm that the page is simply no longer available. Keep your browser updated and your extensions in check, and you will see fewer of these errors overall.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

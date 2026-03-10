@@ -64,4 +64,4 @@ Server errors like the 500 status code are a normal part of the web. They happen
 
 Most 500 errors resolve themselves within minutes or hours as website administrators fix the underlying issues. If you encounter one, try the simple steps outlined above, and remember that the problem is almost never on your end. With a little patience, you will usually be able to access the site you need without any lasting issues.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -84,4 +84,4 @@ In these cases, you can try contacting the website's support team if you believe
 
 Running into errors like this is never fun, but understanding what's happening helps you respond appropriately. Most of the time, clearing your cache, checking your extensions, or trying a different network will get you past a 403 Forbidden error. If nothing works, the issue is likely on the website's side, and your best bet is to wait and try again later or reach out to the site administrators.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

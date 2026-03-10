@@ -56,4 +56,4 @@ You might also find that having multiple tabs open at startup leads to more tabs
 
 Setting multiple startup pages is one of those simple tweaks that makes your daily browsing routine just a little bit smoother. Once you have your essential sites loading automatically, you will wonder how you ever managed without it.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

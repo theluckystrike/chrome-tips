@@ -40,6 +40,26 @@ Create a new tab group by right-clicking any tab and selecting "Add to new group
 
 This method works well if you already organize your tabs into groups for different projects or topics. You can have a group for work, another for personal research, and another for shopping. When you finish with one project, bookmark the group and clear those tabs.
 
+## Keyboard Shortcuts for Power Users
+
+If you prefer using your keyboard over your mouse, Chrome offers a quick way to bookmark all tabs without touching your trackpad. On Windows or Linux, press **Ctrl + Shift + D**. On a Mac, the shortcut is **Cmd + Shift + D**. 
+
+When you press this combination, the same "Bookmark all tabs" dialog box will appear. You can quickly type a folder name and hit Enter to save everything. This is significantly faster than right-clicking, especially when you are in the middle of deep research and don't want to break your flow.
+
+## How to Restore Your Bookmarked Tabs
+
+Once you have saved your tabs into a folder, you might wonder how to get them all back onto your screen later. Chrome makes this just as easy as saving them.
+
+Open the **Bookmark Manager** or find your folder in the **Bookmarks Bar**. Right-click the folder itself rather than an individual bookmark. You will see several options: "Open all," "Open all in new window," and "Open all in Incognito window." 
+
+Choosing "Open all" will launch every saved URL into its own tab in your current window. If you want to keep your current workspace separate, "Open all in new window" is the better choice. This allows you to pick up exactly where you left off without cluttering your existing session.
+
+## Managing Your Saved Tab Folders
+
+Over time, you might accumulate dozens of folders named "Research" or "To Read Later." It's a good idea to spend a few minutes each week cleaning these up. Open the Bookmark Manager (**Ctrl + Shift + O**) and look through your folders. 
+
+If a project is finished, you can delete the entire folder. If you find individual pages that are no longer relevant, you can remove them one by one. Keeping your bookmarks organized ensures that when you actually need to find something, it doesn't get buried under mountains of digital clutter.
+
 ## Try Tab Suspender Pro for Automation
 
 If you want a more automated approach to **saving open tabs**, consider using **Tab Suspender Pro**. While Chrome's built-in bookmarking is great for permanent storage, **Tab Suspender Pro** handles the immediate resource management by automatically "hibernating" tabs you aren't using. 

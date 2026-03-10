@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Web Vitals Optimization Guide"
 description: "Master Core Web Vitals optimization for better SEO, user experience, and conversion rates. Learn how to improve LCP, FID, and CLS scores."
 date: 2026-03-10

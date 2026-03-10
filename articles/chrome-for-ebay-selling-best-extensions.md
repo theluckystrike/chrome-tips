@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome for eBay Selling: Best Extensions"
+title: "Chrome for eBay Selling Best Extensions"
 description: "Find the best Chrome extensions to streamline your eBay business and boost sales."
 ---
 

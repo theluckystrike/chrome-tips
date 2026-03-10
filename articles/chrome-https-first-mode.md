@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome HTTPS First Mode Guide"
 description: "Learn how to enable and use Chrome HTTPS First Mode for enhanced security. Discover the security benefits, potential compatibility issues, and best practices for browsing safely with HTTPS-first mode in Google Chrome."
 date: 2026-01-20

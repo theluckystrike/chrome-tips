@@ -68,4 +68,4 @@ The best chrome extensions for nurses are ones that address your specific challe
 
 Remember that the goal is to make your digital work easier, not to add more things to manage. The right extensions should feel like helpful tools that support your patient care, not additional tasks that require constant attention.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

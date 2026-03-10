@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Built-In PDF Editor Guide"
 description: "Learn how to use Chrome's built-in PDF editor to fill forms, sign documents, add text, and save edits directly in your browser without additional software."
 date: 2026-01-15

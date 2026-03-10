@@ -54,10 +54,9 @@ You can also enable verification for online payments in Chrome. Some websites su
 
 ## Making the Most of Payment Autofill
 
-Chrome payment autofill how to manage cards is really about making your online shopping experience as smooth as possible. By keeping your saved cards organized, removing ones you no longer use, and ensuring your information is up to date, you can take full advantage of this time-saving feature.
+**Chrome payment autofill how to manage cards** is really about making your online shopping experience as smooth as possible. By keeping your saved cards organized, removing ones you no longer use, and ensuring your information is up to date, you can take full advantage of this time-saving feature.
 
 The next time you shop online, notice how much faster checkout goes when Chrome automatically fills in your card details. With a little bit of regular maintenance, your payment information will stay organized and ready to use whenever you need it.
 
----
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*

@@ -60,10 +60,10 @@ If you find that Chrome is running slowly when you try to complete a payment, th
 
 ## A Simple Way to Keep Chrome Running Smoothly
 
-Tab Suspender Pro is an extension that helps manage your browser tabs by automatically pausing ones you have not used recently. This frees up memory and keeps Chrome responsive when you need it most, like during checkout. When you want to return to a paused tab, just click on it and it reloads instantly.
+**Tab Suspender Pro** is an extension that helps manage your browser tabs by automatically pausing ones you have not used recently. This frees up memory and keeps Chrome responsive when you need it most, like during checkout. When you want to return to a paused tab, just click on it and it reloads instantly.
 
 This extension is particularly useful when you are shopping online because it keeps your browser fast without forcing you to close tabs you might need later. You can keep your research, price comparisons, and shopping carts open without worrying about Chrome slowing down at checkout. It works quietly in the background to identify inactive tabs and put them to sleep.
 
-By keeping your browser running smoothly, Tab Suspender Pro helps ensure that payment requests and other interactive elements respond quickly. This makes the checkout process less frustrating and helps you complete purchases without delays.
+By keeping your browser running smoothly, **Tab Suspender Pro** helps ensure that payment requests and other interactive elements respond quickly. This makes the checkout process less frustrating and helps you complete purchases without delays.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

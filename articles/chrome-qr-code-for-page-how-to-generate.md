@@ -62,4 +62,4 @@ Generating QR codes for webpages in Chrome is a useful skill that can save you t
 
 Take a moment to try out a QR code generator extension. Once you have it installed, you will find that creating QR codes for pages becomes second nature, and you will wonder how you managed without it.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

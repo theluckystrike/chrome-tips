@@ -62,4 +62,4 @@ The main takeaway is that JavaScript powers the web but also requires resources 
 
 If you notice Chrome running slowly, checking how many tabs you have open is often the first step to improvement. Many performance issues stem from having more JavaScript running than your computer can handle comfortably. By being mindful of this, you can enjoy the full capabilities of the modern web without sacrificing performance.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

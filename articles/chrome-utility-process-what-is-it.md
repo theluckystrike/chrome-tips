@@ -58,4 +58,4 @@ Chrome utility processes are a normal part of how Chrome works. They handle impo
 
 If you find that Chrome is using more resources than you would like, consider using tools like Tab Suspender Pro to manage your tabs more efficiently. Combined with good extension management and periodic browser restarts, you can keep Chrome running quickly without sacrificing the features you need.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

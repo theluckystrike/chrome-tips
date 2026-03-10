@@ -11,9 +11,22 @@ author: theluckystrike
 # Chrome Speech Recognition API Guide
 
 The Chrome Speech Recognition API represents one of the most powerful yet underutilized features available in modern web browsers. This comprehensive guide will walk you through everything you need to know about implementing voice recognition capabilities in your web applications, from basic setup to advanced features like continuous recognition and multilingual support.
+<<<<<<< HEAD
 
 The Chrome Speech Recognition API, part of the Web Speech API specification, enables web browsers to convert spoken words into written text in real-time. This technology has evolved significantly over the years, and modern Chrome implementations provide remarkable accuracy and flexibility for developers building voice-enabled applications.
+=======
+>>>>>>> consumer/a68-chrome-speech-recognition-api
 
+The Web Speech API is a browser-native technology that enables developers to add speech recognition and speech synthesis capabilities to their web applications without requiring external libraries or services. Unlike traditional voice input solutions that rely on server-side processing, the Web Speech API processes voice data directly in the browser, offering lower latency and improved privacy.
+
+<<<<<<< HEAD
+Chrome was one of the first major browsers to implement the Web Speech API, and it remains the most feature-complete implementation available. The API consists of two main components: the SpeechRecognition interface for converting spoken words into text, and the SpeechSynthesis interface for converting text into spoken words. This guide focuses primarily on the speech recognition portion, which opens up incredible possibilities for voice-controlled interfaces, accessibility features, and hands-free data entry.
+
+The API uses the SpeechRecognition interface, which is accessed through the window object as window.SpeechRecognition or window.webkitSpeechRecognition (for browser compatibility). This dual naming convention exists because the API was initially implemented with vendor prefixes before being standardized, and Chrome continues to support both versions for backward compatibility.
+
+## Setting Up Your First Voice Input System
+
+=======
 The Web Speech API is a browser-native technology that enables developers to add speech recognition and speech synthesis capabilities to their web applications without requiring external libraries or services. Unlike traditional voice input solutions that rely on server-side processing, the Web Speech API processes voice data directly in the browser, offering lower latency and improved privacy.
 
 Chrome was one of the first major browsers to implement the Web Speech API, and it remains the most feature-complete implementation available. The API consists of two main components: the SpeechRecognition interface for converting spoken words into text, and the SpeechSynthesis interface for converting text into spoken words. This guide focuses primarily on the speech recognition portion, which opens up incredible possibilities for voice-controlled interfaces, accessibility features, and hands-free data entry.
@@ -22,6 +35,7 @@ The API uses the SpeechRecognition interface, which is accessed through the wind
 
 ## Setting Up Your First Voice Input System
 
+>>>>>>> consumer/a68-chrome-speech-recognition-api
 Implementing basic voice input in your web application requires only a few lines of JavaScript code. The first step is to create a SpeechRecognition instance and configure its basic properties. You will need to check for browser support first, as the API is currently supported primarily in Chrome, Edge, and Safari, with varying levels of support across different versions.
 
 ```javascript
@@ -92,8 +106,11 @@ recognition.onresult = (event) => {
 ```
 
 The confidence score provided by the API can be valuable for determining whether to accept a transcription or prompt the user to repeat themselves. In general, confidence scores above 0.8 indicate high reliability, while scores below 0.5 suggest you should request clarification.
+<<<<<<< HEAD
 
 For applications requiring high accuracy, consider implementing post-processing logic that validates or corrects transcriptions based on context. The API excels at recognizing common words and phrases but may struggle with domain-specific terminology, proper nouns, or specialized vocabulary. Maintaining custom dictionaries or using additional Natural Language Processing tools can improve results for specialized applications.
+=======
+>>>>>>> consumer/a68-chrome-speech-recognition-api
 
 ## Implementing Continuous Recognition
 

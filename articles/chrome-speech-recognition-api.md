@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Speech Recognition API Guide"
 description: "Master Chrome Speech Recognition API with this comprehensive guide. Learn voice input implementation, improve transcript accuracy, enable continuous recognition, and leverage multi-language support."
 date: 2026-01-20
@@ -197,12 +197,8 @@ The Chrome Speech Recognition API provides a powerful, accessible way to add voi
 
 Remember that successful speech recognition implementation requires attention to user experience details: clear feedback about listening state, graceful error handling, and thoughtful handling of edge cases. With these considerations in place, voice input can become a natural and valuable part of your application's interaction model.
 
-<<<<<<< HEAD
-As web technologies continue to evolve, speech recognition will become an increasingly important part of how users interact with their browsers and web applications. By implementing these features today, you are preparing your applications for a future where voice control is ubiquitous. Start experimenting with the API in your projects, gather feedback from real users, and continue refining your implementation for the best possible experience.
+The possibilities for voice-enabled web applications continue to expand as browsers improve their recognition engines and as users become more comfortable with voice interaction. Start experimenting with the API today, and you'll discover creative ways to make your applications more accessible and easier to use.
 
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
-=======
-The possibilities for voice-enabled web applications continue to expand as browsers improve their recognition engines and as users become more comfortable with voice interaction. Start experimenting with the API today, and you'll discover creative ways to make your applications more accessible and easier to use.
->>>>>>> consumer/a68-chrome-speech-recognition-api

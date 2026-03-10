@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Chrome DNS Over HTTPS Setup Guide"
 description: "Learn how to set up DNS Over HTTPS (DoH) in Chrome for enhanced privacy and security. Complete guide covering secure DNS providers, custom DNS configuration, and privacy benefits."
 date: 2026-03-10
@@ -12,27 +12,27 @@ author: theluckystrike
 
 In an era where online privacy is increasingly under threat, understanding and implementing DNS Over HTTPS (DoH) has become essential for anyone who wants to browse the web more securely. Chrome, as the world's most popular web browser, offers built-in support for DoH, allowing you to encrypt your DNS queries and protect your browsing activity from prying eyes. This comprehensive guide will walk you through everything you need to know about setting up DNS Over HTTPS in Chrome, from understanding what it is and why it matters to selecting the right provider and configuring custom DNS settings.
 
-## What is DNS Over HTTPS and Why Should You Care?
+## Understanding DNS and Its Privacy Implications
 
-Before we dive into the setup process, it's crucial to understand what DNS Over HTTPS is and why it represents a significant improvement in online privacy and security. DNS, which stands for Domain Name System, is essentially the internet's phone book. When you type a website address like "google.com" into your browser, DNS servers translate that human-readable name into an IP address that computers can understand. This translation process is fundamental to how the internet works, but it has historically been performed in plain text, meaning anyone who can intercept your network traffic can see which websites you're visiting.
+To appreciate the value of DNS Over HTTPS, it helps to understand what DNS does and why traditional DNS queries are problematic from a privacy standpoint.
 
-DNS Over HTTPS, commonly abbreviated as DoH, is a protocol that encrypts your DNS queries using the same HTTPS protocol that secures your web connections. This means that when you visit a website, your browser sends the DNS request as an encrypted HTTPS request rather than a plain text one. This encryption prevents your Internet Service Provider (ISP), network administrators, hackers, and other third parties from seeing which domains you're attempting to access. It also protects against man-in-the-middle attacks where someone might try to redirect your traffic to malicious servers.
+Every time you type a website address into your browser, such as example.com, your computer needs to translate that human-readable name into a numerical IP address that servers can use to locate the website. This translation process is handled by the Domain Name System, or DNS. Your computer contacts a DNS server, asks "What is the IP address for example.com?", and receives an answer that allows your browser to connect to the correct server.
 
-The benefits of using DoH extend beyond mere privacy. By encrypting your DNS queries, you're also protecting yourself from DNS spoofing attacks, where an attacker could try to redirect you to fake websites designed to steal your personal information. Additionally, some DNS providers that offer DoH services also provide additional security features like malware blocking and phishing protection, adding another layer of defense to your browsing experience.
+The problem with traditional DNS is that these queries are sent in plain text. This means anyone who can intercept your network traffic, such as your Internet Service Provider (ISP), network administrators, or potentially malicious actors on the same network, can see which websites you are attempting to visit. They cannot necessarily see what you do on those websites, but they can build a comprehensive profile of your browsing habits simply by watching your DNS queries.
 
-## Understanding the Difference Between DNS and DoH
+DNS queries can also be logged, stored, and analyzed by your ISP or other entities. In many jurisdictions, ISPs are required or encouraged to retain this data, creating a detailed record of your online activity that can be subpoenaed, sold to third parties, or exploited in data breaches. This represents a significant privacy concern for anyone who wants to keep their browsing history confidential.
 
 To fully appreciate the value of DNS Over HTTPS, it helps to understand how traditional DNS works what problems DoH solves. In a traditional DNS query, your computer sends a request to your ISP's DNS server (or whichever DNS server you've configured) using UDP or TCP port 53. This request is sent in plain text, meaning anyone along the network path can read it. Your ISP can see every domain you visit, and so can anyone else who might be monitoring your network traffic.
 
 This lack of privacy has significant implications. Your ISP knows exactly which websites you visit, which can be used to build profiles of your browsing habits for advertising purposes or, in some jurisdictions, to comply with government data retention laws. Network administrators at work or school can see which sites you're accessing, and hackers on public WiFi networks can potentially intercept your DNS queries to learn about your browsing behavior.
 
-DoH addresses these privacy concerns by wrapping your DNS queries in HTTPS encryption. When you use DoH, your DNS request looks just like any other HTTPS traffic to a web server. It goes to port 443 (the standard HTTPS port) and is encrypted using TLS. This means that not only is the content of your DNS query hidden, but even the fact that you're making a DNS query is hidden among all your other HTTPS traffic. Your ISP and anyone else monitoring your network will see encrypted HTTPS traffic but won't be able to determine that it's actually a DNS query.
+DNS Over HTTPS represents a fundamental improvement over traditional DNS by encrypting your DNS queries and sending them over the secure HTTPS protocol. Instead of sending plain text queries to a DNS server, your browser encapsulates the query within an encrypted HTTPS connection, making it essentially impossible for anyone on your network or between you and the DNS server to observe which websites you are requesting.
 
-## How to Enable DNS Over HTTPS in Chrome
+When you enable DNS Over HTTPS in Chrome, the browser performs DNS resolution differently than it would otherwise. Rather than relying on your operating system's default DNS settings, Chrome directly contacts a DoH-compatible DNS server using HTTPS. This server processes your request and returns the encrypted response, all within the protected HTTPS tunnel.
 
-Enabling DNS Over HTTPS in Chrome is a straightforward process that takes only a few minutes. Here's a step-by-step guide to help you through it.
+The encryption provided by DoH solves both of the main problems with traditional DNS. First, it prevents eavesdroppers from seeing which domains you are resolving, protecting your privacy. Second, because the entire query and response are protected by HTTPS encryption and authentication, it becomes extremely difficult for attackers to intercept and tamper with your DNS queries.
 
-First, open Chrome on your computer and click the three-dot menu icon in the top-right corner of the window. From the dropdown menu, select "Settings" to open Chrome's settings page. Alternatively, you can type "chrome://settings" in the address bar and press Enter to go directly to the settings.
+It is worth noting that DNS Over HTTPS is distinct from DNSSEC, which adds cryptographic signatures to DNS responses to verify their authenticity but does not encrypt them. DoH provides both authentication and encryption, making it a more comprehensive solution for privacy and security.
 
 Once you're in the Settings page, you'll need to find the security settings. The easiest way to do this is to use the search box at the top of the Settings page. Type "DNS" or "Secure DNS" into the search box, and Chrome will show you relevant settings. You can also navigate manually by clicking on "Privacy and security" in the left sidebar, then clicking on "Security."
 

@@ -70,4 +70,4 @@ If you are comfortable with seeing ads that are somewhat relevant to your intere
 
 The most important thing is to understand what is happening in your browser. Now that you know more about the Protected Audience API, you can make informed decisions about whether to keep it enabled or turn it off.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

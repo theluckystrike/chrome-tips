@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Omnibox Hidden Features"
 description: "Discover powerful Chrome Omnibox hidden features including tab search, Google Drive search, built-in calculator, timer, and unit conversions. Master your browser's address bar."
 date: 2026-01-20

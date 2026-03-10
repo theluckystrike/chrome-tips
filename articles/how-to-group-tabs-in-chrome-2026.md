@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "how to group tabs in chrome 2026"
-description: "Learn how to group tabs in Chrome 2026 with this comprehensive guide. Master tab group creation, color coding, collapsing groups, saving groups, and sharing tabs with colleagues."
+layout: default
+title: "How to Group Tabs in Chrome 2026"
+description: "Learn how to group tabs in Chrome 2026 with this comprehensive guide. Master tab group creation, color coding, collapsing groups, saving groups, and sharing tabs with colleagues. Boost your browser productivity today."
 date: 2026-01-15
 categories: [tabs, productivity, chrome-features]
 tags: [chrome-tabs, tab-groups, browser-productivity, chrome-2026]

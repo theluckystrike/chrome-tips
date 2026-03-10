@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Permissions Manager Guide"
 description: "Master Chrome permissions manager. Learn to control camera, microphone, location, notifications, and per-site access for enhanced privacy and security."
 date: 2026-01-15

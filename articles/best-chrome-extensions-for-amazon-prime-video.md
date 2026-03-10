@@ -18,7 +18,7 @@ Amazon Prime Video has become one of the most popular streaming services availab
 
 For instance, you might want better control over subtitles, or you might find that keeping multiple streaming tabs open causes your browser to slow down significantly. Perhaps you want to watch with friends who are far away, or you need a way to keep track of what you have been watching. These are all common frustrations that many Amazon Prime Video users experience, and they are exactly the kinds of issues that Chrome extensions can help solve.
 
-The Chrome Web Store has a growing selection of extensions designed specifically for Prime Video users. These tools can enhance your viewing experience in ways that the standard Amazon interface does not support. Let us explore some of the best chrome extensions for amazon prime video that you can start using today.
+The Chrome Web Store has a growing selection of extensions designed specifically for Prime Video users. These tools can enhance your viewing experience in ways that the standard Amazon interface does not support.
 
 ## Prime Video Picture-in-Picture
 

@@ -111,3 +111,7 @@ Start by installing one or two of these extensions and spending a week getting u
 Remember that more extensions are not always better. Each additional extension adds some overhead and complexity. Focus on quality over quantity, and regularly evaluate whether each extension is genuinely adding value to your writing process. Sometimes the best optimization is removing a tool that you never use.
 
 The right combination of extensions can transform your browser from a distracting time sink into a powerful writing workstation. By addressing the fundamental challenges of writing—quality, focus, time management, and performance—you set yourself up for sustained productivity and continuous improvement as a writer. Give these tools a try in 2026, and experience the difference that purpose-built writing extensions can make in your creative work.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -102,6 +102,8 @@ Use separate Chrome profiles for development and everyday browsing. This prevent
 
 Keep backups of working extension configurations. When you find a setup that works well, document it or create a backup. This is especially important for complex development environments where multiple extensions work together.
 
+If you want to explore useful extensions that can enhance your browsing experience, consider tools like Tab Suspender Pro, which helps manage tab memory by automatically suspending inactive tabs. Many power users load such productivity-focused extensions through developer mode to access features not yet available in the Web Store or to try beta versions with additional functionality.
+
 ## Conclusion
 
 Chrome developer mode is an invaluable tool for anyone who needs to use or develop extensions outside the Chrome Web Store. By understanding how to load unpacked extensions, inspect views, update your extensions efficiently, and debug issues effectively, you can make the most of this powerful feature.

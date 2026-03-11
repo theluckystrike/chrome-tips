@@ -79,3 +79,5 @@ Changing your Chrome downloads folder is a simple but powerful way to organize y
 Remember that you can always combine this with Chrome's "Ask where to save" feature for even more flexibility. And for a complete browser optimization, consider pairing your new download organization with Tab Suspender Pro to keep your Chrome running smoothly even with many tabs open.
 
 Take a few minutes to set up your ideal download location today, and you'll thank yourself every time you need to find a file you've downloaded.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

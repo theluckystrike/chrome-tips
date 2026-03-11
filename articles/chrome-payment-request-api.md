@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Payment Request API Guide"
 description: "Learn how to use the Chrome Payment Request API for digital wallets, Google Pay integration, shipping options, and payment methods. Complete developer and user guide for web payments."
 date: 2026-03-11

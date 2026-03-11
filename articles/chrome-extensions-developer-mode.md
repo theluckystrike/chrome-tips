@@ -1,10 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions Developer Mode: A Complete Beginner's Guide"
-description: "Learn how to enable Chrome extensions developer mode, load unpacked extensions, and customize your browser for development. Step-by-step guide with tips and troubleshooting."
-date: 2026-01-15
-categories: [browsers, development, extensions]
-tags: [chrome-extensions, developer-mode, chrome-settings, browser-development, extensions]
+title: 'Chrome Extensions Developer Mode: A Complete Beginner''s Guide'
+description: Learn how to enable Chrome extensions developer mode, load unpacked extensions,
+  and customize your browser for development. Step-by-step guide with tips and troubleshooting.
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: /chrome-extensions-developer-mode/
+categories:
+- browsers
+- development
+- extensions
+tags:
+- chrome-extensions
+- developer-mode
+- chrome-settings
+- browser-development
+- extensions
 author: theluckystrike
 ---
 

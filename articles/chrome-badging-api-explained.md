@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Chrome Badging API Explained"
-description: "Learn what the Chrome Badging API is, how it works, and how it improves your browser experience."
-date: 2026-01-15
-categories: [development, features]
-tags: [badging-api, web-api, chrome-features, notifications]
+title: Chrome Badging API Explained
+description: Learn what the Chrome Badging API is, how it works, and how it improves
+  your browser experience.
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: /chrome-badging-api-explained/
+categories:
+- development
+- features
+tags:
+- badging-api
+- web-api
+- chrome-features
+- notifications
 author: theluckystrike
 ---
 

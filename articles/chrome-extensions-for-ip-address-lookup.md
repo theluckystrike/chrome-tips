@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Chrome Extensions for IP Address Lookup"
-description: "Looking for chrome extensions for ip address lookup? Find the best tools to check and track IP addresses directly in your browser."
-date: 2026-03-09
-categories: [productivity, tools]
-tags: [chrome-extensions, ip-address, lookup, browser-tools]
+title: Chrome Extensions for IP Address Lookup
+description: Looking for chrome extensions for ip address lookup? Find the best tools
+  to check and track IP addresses directly in your browser.
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: /chrome-extensions-for-ip-address-lookup/
+categories:
+- productivity
+- tools
+tags:
+- chrome-extensions
+- ip-address
+- lookup
+- browser-tools
 author: theluckystrike
 ---
 

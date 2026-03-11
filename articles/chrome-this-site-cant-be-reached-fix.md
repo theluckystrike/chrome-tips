@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Chrome This Site Cant Be Reached Fix"
-description: "Getting 'This site can't be reached' in Chrome? Learn what causes this error and how to fix it with simple solutions anyone can try."
-date: 2026-01-15
-categories: [troubleshooting, browser-errors]
-tags: [chrome-error, site-cant-be-reached, browser-fix, connection-error]
+title: Chrome This Site Cant Be Reached Fix
+description: Getting 'This site can't be reached' in Chrome? Learn what causes this
+  error and how to fix it with simple solutions anyone can try.
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: /chrome-this-site-cant-be-reached-fix/
+categories:
+- troubleshooting
+- browser-errors
+tags:
+- chrome-error
+- site-cant-be-reached
+- browser-fix
+- connection-error
 author: theluckystrike
 ---
 

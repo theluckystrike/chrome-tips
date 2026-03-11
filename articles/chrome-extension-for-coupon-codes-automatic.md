@@ -1,10 +1,20 @@
 ---
 layout: post
-title: "Chrome Extension for Coupon Codes Automatic"
-description: "Learn how to find and use chrome extension for coupon codes automatic features to save money while shopping online effortlessly."
-date: 2026-03-09
-categories: [shopping, tips]
-tags: [chrome, coupons, shopping, savings, extensions]
+title: Chrome Extension for Coupon Codes Automatic
+description: Learn how to find and use chrome extension for coupon codes automatic
+  features to save money while shopping online effortlessly.
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: /chrome-extension-for-coupon-codes-automatic/
+categories:
+- shopping
+- tips
+tags:
+- chrome
+- coupons
+- shopping
+- savings
+- extensions
 author: theluckystrike
 ---
 

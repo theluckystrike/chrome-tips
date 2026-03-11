@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Web Bluetooth API Guide"
 description: "A comprehensive guide to the Chrome Web Bluetooth API covering device pairing, GATT services, characteristics, and security best practices for web developers."
 date: 2026-03-11
@@ -84,4 +84,4 @@ As Bluetooth-enabled devices continue to proliferate across health, home, and in
 
 ---
 
-*Tips from the team behind Tab Suspender Pro and the Zovo extension suite at [zovo.one](https://zovo.one)*
+Built by theluckystrike u2014 More tips at [zovo.one](https://zovo.one)

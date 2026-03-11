@@ -1,149 +1,158 @@
 ---
 layout: post
 title: "Chrome Web USB API Guide"
-description: "Learn how to use the Web USB API in Chrome to connect and communicate with USB devices directly from your browser. Complete guide covering device access, permissions, transfer types, and compatible devices."
-date: 2026-01-15
-categories: [chrome, web-development, usb, hardware]
-tags: [chrome-web-usb, webusb, browser-api, hardware, javascript]
+description: "Learn how to use the Chrome Web USB API for direct browser-to-device communication. Covers device access, permissions, transfer types, and compatible devices."
+date: 2026-01-20
+categories: [chrome, development, web-usb, api]
+tags: [chrome-web-usb, web-usb-api, browser-api, hardware, usb, chrome-extensions]
 author: theluckystrike
 ---
 
 # Chrome Web USB API Guide
 
-The **Chrome Web USB API** represents a significant leap forward in web development, enabling web applications to communicate directly with USB devices connected to a user's computer. This capability, once limited to native applications, now allows developers to build powerful web-based tools that can interact with hardware ranging from microcontrollers to professional audio equipment. This comprehensive guide will walk you through everything you need to know about the Web USB API in Chrome, from basic concepts to advanced implementation techniques.
+The Chrome Web USB API represents a significant advancement in web development, enabling web applications to communicate directly with USB devices connected to a user's computer. This capability opens up tremendous possibilities for web developers and users alike, transforming the browser from a simple document viewer into a powerful platform for interacting with hardware. Whether you're building tools to control scientific instruments, interact with gaming peripherals, or develop custom hardware solutions, understanding the Web USB API is essential for modern web development.
 
-## What is the Web USB API?
+This comprehensive guide walks you through everything you need to know about the Chrome Web USB API, from basic concepts to practical implementation details. By the end, you'll have a solid foundation for building web applications that can interface with USB hardware.
 
-The **Web USB API** is a JavaScript API that provides a way for websites to access and communicate with USB devices connected to a user's device. Before this API existed, interacting with USB hardware required users to install native applications or browser extensions, which added friction and security concerns. With Web USB, Chrome browsers can now detect, pair with, and exchange data with USB devices directly through the browser.
+## Understanding Web USB API Fundamentals
 
-This technology opens up remarkable possibilities for web developers. Imagine a web-based Arduino programming environment, a digital audio workstation interface, or a fitness equipment sync tool that runs entirely in the browser without requiring any software installation. The Web USB API makes all of this possible by establishing a secure bridge between web pages and physical hardware.
+The Web USB API is a JavaScript API that allows websites to access and communicate with USB devices connected to a user's computer. Before its introduction, interacting with USB hardware required native applications or browser plugins, which created barriers for both developers and users. Native applications needed to be installed, updated, and were often platform-specific, while browser plugins presented security concerns and were eventually phased out by modern browsers.
 
-## How Device Access Works
+The Web USB API solves these problems by providing a standardized, secure way for web applications to access USB devices. It was designed with security as a primary concern, implementing multiple layers of protection to ensure that users maintain control over their devices and data. The API works exclusively over HTTPS, ensuring that communications between the web application and the device are encrypted.
 
-Understanding how the Web USB API handles device access is crucial for building reliable applications. The entire process begins with device enumeration, which is the systematic discovery of USB devices connected to the computer.
+Chrome was the first browser to implement the Web USB API, and it remains the primary browser supporting this technology. Other Chromium-based browsers like Edge and Opera also support the API, though Firefox and Safari have not yet implemented full support. If you're developing a web application that uses Web USB, you should consider these browser limitations when planning your target audience.
 
-When your web application wants to communicate with a USB device, it must first request access to that device. This is accomplished using the `navigator.usb.requestDevice()` method. This method triggers a browser-native user interface that displays all available USB devices, allowing the user to select which device they want to grant your website access to. This user-mediated selection is a fundamental security feature that ensures users have explicit control over which hardware their websites can access.
+## Device Discovery and Enumeration
 
-Once a user selects a device and grants permission, Chrome stores this authorization for future sessions. However, websites must still call `requestDevice()` each time they need to communicate with a device, as the browser will always present the permission dialog to confirm the user's intent. This approach balances convenience with security, preventing websites from silently accessing hardware without the user's knowledge.
+The first step in working with the Web USB API is discovering and enumerating available USB devices. This process allows your web application to identify which devices are connected and accessible. The API provides the `navigator.usb` object as the entry point for all USB operations.
 
-After obtaining a device reference, your application must open a connection before any data transfer can occur. This is done by calling the `device.open()` method, which initializes the USB interface and prepares the device for communication. If the device is already open by another application or interface, this call may fail, and your code should handle this scenario gracefully.
+To begin device discovery, you use the `requestDevice()` method, which prompts the user to select a USB device from a list of available devices. This method displays a browser-native picker dialog that shows only devices your application is specifically interested in. The method takes an optional configuration object where you can specify filters to narrow down which devices appear in the picker.
 
-### Enumerating Connected Devices
+Filters are defined using vendor IDs, product IDs, and optionally interface or class specifications. For example, if you're building an application that works with a specific Arduino board, you would filter for that board's vendor and product IDs. If you're building something more general, like a tool for working with HID (Human Interface Devices), you might filter by the HID class code.
 
-Beyond requesting new device access, the Web USB API also allows you to list devices that have previously been authorized. The `navigator.usb.getDevices()` method returns an array of `USBDevice` objects representing all USB devices that the current origin has been granted permission to access. This is particularly useful for applications that need to reconnect to previously paired devices without prompting the user each time.
-
-Device enumeration also provides important information about each connected device, including the vendor ID, product ID, device name, and serial number. This metadata is essential for identifying specific devices and implementing device-specific logic in your application. You can use this information to filter devices, display meaningful device lists to users, or implement features that only work with particular hardware.
-
-## Understanding Permissions and Security
-
-The permission system built into the Web USB API is designed with user privacy and security as top priorities. Unlike traditional native applications that often have broad system access, web pages using the Web USB API must operate within strict boundaries that users control.
-
-When a website attempts to access a USB device, Chrome presents a clear and understandable permission dialog. This dialog shows the user which website is requesting access, what device it wants to connect to, and explains what the website plans to do with the device. Users can choose to allow or deny the request, and they can also choose to remember their decision for future visits to that same website.
-
-The permission model is origin-based, meaning that permissions granted to one website do not automatically transfer to other websites. If a user has previously allowed `example.com` to access their Arduino board, `another-site.com` would still need to request its own permission to access the same device. This isolation prevents unauthorized access and ensures that users maintain control over which websites can interact with their hardware.
-
-It's worth noting that certain USB devices are considered particularly sensitive or security-critical. For these devices, Chrome may enforce additional restrictions or require more explicit user confirmation before granting access. This includes devices that provide system-level functionality or those that might be used for authentication purposes.
-
-### Secure Context Requirements
-
-The Web USB API is only available in **secure contexts**, which means your website must be served over HTTPS (or from localhost during development). This requirement ensures that communication between your web application and USB devices cannot be intercepted or tampered with by malicious actors. If you're developing locally, Chrome allows access from `http://localhost` addresses, but any production deployment must use HTTPS.
-
-This secure context requirement extends to all resources loaded by your page, including scripts, stylesheets, and iframes. If any resource is loaded over an insecure connection, the Web USB API will be unavailable, even if your main page is served over HTTPS. This comprehensive approach ensures end-to-end security for USB communications initiated from your website.
-
-## Transfer Types Explained
-
-USB communication involves different types of data transfers, each optimized for specific use cases. Understanding these transfer types is essential for implementing efficient and reliable device communication in your web applications.
-
-### Control Transfers
-
-**Control transfers** are the most fundamental type of USB communication. They are used for device configuration, status queries, and command execution. Control transfers always follow a specific structure consisting of a setup stage, a data stage (optional), and a status stage. These transfers are typically used during device initialization, when your application needs to configure device parameters, or when sending command messages that require a guaranteed response.
-
-The Web USB API provides the `controlTransferIn()` and `controlTransferOut()` methods for performing control transfers. These methods handle the complex setup stage automatically, allowing developers to focus on the actual data being sent or received. Control transfers are reliable and guaranteed to complete, making them ideal for critical operations like setting device modes or querying firmware versions.
-
-### Bulk Transfers
-
-**Bulk transfers** are designed for reliable data transmission between the host and device. They are commonly used for data that must be transferred completely and accurately, such as file transfers, printer communication, or data logging operations. Bulk transfers guarantee data integrity through error detection and correction mechanisms built into the USB protocol.
-
-The Web USB API supports bulk transfers through the `transferIn()` and `transferOut()` methods. These transfers are particularly useful when working with devices that transfer large amounts of data without strict timing requirements. For example, if you're building an application that downloads data from a measurement instrument or uploads firmware to a device, bulk transfers provide the reliability you need.
-
-Bulk transfers have a maximum packet size that depends on the device configuration, and your application must handle data in appropriately sized chunks. The API handles much of this complexity, but understanding the concept of transfer sizes helps when debugging communication issues or optimizing throughput.
-
-### Interrupt Transfers
-
-**Interrupt transfers** are used for small amounts of data that must be delivered within a specific time frame. Unlike bulk transfers, which prioritize data integrity over timing, interrupt transfers guarantee that data will be delivered within a bounded latency period. This makes them perfect for keyboard input, mouse movements, and other scenarios where timely delivery matters more than absolute throughput.
-
-The Web USB API implements interrupt transfers using the same `transferIn()` and `transferOut()` methods as bulk transfers, with the transfer type specified when configuring the endpoint. When reading from an interrupt endpoint, your application specifies a timeout, and the browser will wait up to that duration for data to arrive. This is ideal for monitoring button presses, sensor readings, or status changes on the device.
-
-### Isochronous Transfers
-
-**Isochronous transfers** are designed for time-sensitive data where some data loss is acceptable in exchange for guaranteed bandwidth. These transfers are commonly used for audio and video streaming, where maintaining a consistent data flow is more important than perfect accuracy. If a packet is corrupted or lost, it is simply skipped, and the stream continues.
-
-The Web USB API supports isochronous transfers, though they are less commonly used in typical web applications. If you're building a real-time audio application or video capture tool that runs in the browser, isochronous transfers enable the consistent performance these applications require. The API provides `isochronousTransferIn()` and `isochronousTransferOut()` methods specifically for this transfer type.
-
-## Compatible Devices and Use Cases
-
-The Web USB API works with a wide variety of USB devices, though some categories are more commonly used than others. Understanding which devices are compatible helps you identify opportunities to leverage this technology in your projects.
-
-### Microcontrollers and Development Boards
-
-One of the most popular use cases for the Web USB API is programming and communicating with **microcontrollers** like Arduino, BBC micro:bit, and ESP32 devices. These development boards often include USB interfaces for programming and serial communication, making them perfect candidates for web-based development environments. Developers can now write code in the browser, upload it directly to their board, and communicate with the device through a web-based serial monitor—all without installing any software.
-
-The Arduino company has embraced this technology, providing web-based Arduino Create that uses Web USB to program boards directly from the browser. This approach dramatically lowers the barrier to entry for beginners who want to explore physical computing without navigating complex software installation processes.
-
-### Professional Audio Equipment
-
-**Audio interfaces**, MIDI controllers, and other professional audio equipment frequently support USB connectivity, and many of these devices can now interact with web-based audio applications through the Web USB API. This enables musicians and audio engineers to use their existing hardware with web-based digital audio workstations, virtual instrument plugins, and streaming applications without requiring additional drivers or software.
-
-The combination of Web USB with the Web Audio API creates powerful possibilities for web-based audio production. Musicians can connect their professional audio interfaces, use their MIDI controllers, and achieve low-latency audio performance entirely within the browser.
-
-### Fitness and Health Devices
-
-Many modern fitness trackers, heart rate monitors, and health monitoring devices use USB for charging and data synchronization. The Web USB API enables web applications to download workout data, sync settings, and update firmware on these devices. This is particularly valuable for fitness applications that want to integrate with users' existing hardware without requiring platform-specific mobile applications.
-
-### Industrial and Scientific Instruments
-
-Laboratory equipment, measurement instruments, and industrial controllers often communicate over USB. Researchers and technicians can now build web-based interfaces for these devices, enabling data collection, device control, and automation directly from the browser. This is especially valuable in educational and research settings where installing specialized software may be impractical.
-
-### Human Interface Devices
-
-Keyboards, mice, game controllers, and other **human interface devices** (HIDs) can be accessed through the Web USB API. This enables innovative web applications that provide custom configurations for gaming peripherals, create custom controller mappings, or build accessibility tools that enhance the user experience for individuals with specific needs.
-
-## Performance Considerations and Best Practices
-
-Building reliable USB-enabled web applications requires attention to performance and best practices that ensure smooth user experiences.
-
-Connection management is critical for stable applications. Always properly close USB connections when they are no longer needed by calling `device.close()`. This releases system resources and allows other applications to access the device if necessary. Consider implementing automatic reconnection logic that handles unexpected disconnections, such as when a user unplugs and replugs a device.
-
-Error handling is another crucial aspect. USB communications can fail for various reasons, including device disconnection, transfer timeouts, and protocol errors. Your application should implement comprehensive error handling that provides meaningful feedback to users while gracefully recovering from common failure scenarios.
-
-When developing applications that interact with multiple devices or transfer significant amounts of data, consider implementing progress indicators and non-blocking operations. The Web USB API is Promise-based, allowing you to use modern asynchronous JavaScript patterns that keep your interface responsive during extended operations.
-
-## Browser Extensions and the Web USB API
-
-While the Web USB API provides powerful capabilities directly within Chrome, browser extensions can sometimes offer additional functionality or access to devices that the standard API cannot reach. Extensions have more latitude in terms of system access and can implement features that may not be possible through the public web API.
-
-For developers building comprehensive browser enhancement tools, understanding both the Web USB API and extension capabilities is valuable. Extensions can serve as a bridge to devices that require elevated permissions or provide background services that complement web-based USB functionality.
-
-Interestingly, many of the same considerations around device management and resource usage that apply to the Web USB API also apply to browser extensions more broadly. If you're developing tools that work with USB hardware and want to ensure optimal browser performance, consider how your application interacts with Chrome's tab and resource management.
-
-For example, if your USB-enabled web application runs continuously in the background while users work on other tabs, you might want to explore how tab suspension behavior affects your device connections. Tools like **Tab Suspender Pro** can help manage tab resources effectively, ensuring that your browser remains responsive even with multiple active connections to USB devices or resource-intensive applications running.
-
-## Getting Started with Implementation
-
-To begin using the Web USB API in your projects, you'll need to ensure your development environment meets the basic requirements. You need Chrome version 61 or later (the API was introduced in Chrome 61), a secure context (HTTPS or localhost), and appropriate USB devices for testing.
-
-Start by checking for API availability using feature detection:
+Here's a basic example of requesting a USB device:
 
 ```javascript
-if ('usb' in navigator) {
-  // Web USB API is available
-} else {
-  // Web USB API is not supported
+async function connectToDevice() {
+  const device = await navigator.usb.requestDevice({
+    filters: [{
+      vendorId: 0x1234,
+      productId: 0x5678
+    }]
+  });
+  return device;
 }
 ```
 
-From there, the basic pattern involves requesting a device, opening it, performing transfers, and closing the connection. Most implementations will follow this sequence, though the specifics will vary based on your device's protocol and requirements.
+Once a device is selected by the user, the `requestDevice()` promise resolves with a `USBDevice` object representing the selected hardware. This object contains important information about the device, including its vendor ID, product ID, manufacturer name, and product name. You'll use this object for all subsequent communication with the device.
 
-The Web USB API is well-documented in the official W3C specification and MDN web docs, providing detailed reference material for each method and property. Combined with the examples in this guide, you have everything you need to start building powerful web applications that communicate with USB hardware.
+For discovering devices that have already been granted permission in previous sessions, you can use the `getDevices()` method, which returns an array of all USB devices the origin has been granted access to. This is useful for reconnecting to known devices without prompting the user again.
+
+## Permissions and Security Model
+
+Security is paramount in the Web USB API design, and the permission system reflects this priority. The API implements a multi-layered security model that gives users explicit control over which websites can access their USB devices.
+
+When your web application calls `requestDevice()`, the browser displays a prompt asking the user to select a device to share with your site. The user can choose any connected device, and importantly, they can deny the request entirely. This user-mediated permission grant ensures that no website can silently access USB hardware without the user's knowledge and consent.
+
+The permission granted by the user is persistent, meaning the website can reconnect to the same device in future sessions without prompting again. However, this permission is origin-specific, meaning your.com website cannot access devices that example.com was granted permission to. Additionally, users can revoke these permissions at any time through Chrome's settings interface, providing an additional layer of control.
+
+It's worth noting that the Web USB API requires a secure context, meaning your page must be served over HTTPS (or be on localhost for development). This requirement prevents man-in-the-middle attacks where a malicious actor could intercept communications between your application and the connected device. When deploying your application, ensure you have proper SSL certificates configured.
+
+Some USB devices may require additional permission grants from the operating system itself. For example, accessing certain USB devices on Windows may require administrator privileges or specific driver installations. The Web USB API cannot bypass these OS-level security measures, so you should document any such requirements for your users.
+
+## Understanding USB Transfer Types
+
+USB communication involves several different transfer types, each designed for specific use cases. Understanding these transfer types is crucial for effectively working with USB devices, as different devices use different transfer methods.
+
+**Control transfers** are the most fundamental type of USB communication. They are used for device configuration, status queries, and other critical operations. Control transfers always follow a specific protocol with setup, data, and status stages. Every USB device supports control transfers, making them the go-to method for initial device communication and configuration. In the Web USB API, you perform control transfers using the `controlTransferIn()` and `controlTransferOut()` methods.
+
+**Bulk transfers** are designed for reliable, high-throughput communication where data integrity is more important than timing. Bulk transfers guarantee data delivery but do not provide any timing guarantees, making them ideal for file transfers, printer communications, and similar applications where occasional delays are acceptable. The Web USB API provides `bulkTransferIn()` and `bulkTransferOut()` methods for this transfer type.
+
+**Interrupt transfers** are used for small amounts of data that need to be delivered promptly. Unlike bulk transfers, interrupt transfers guarantee a maximum latency, making them suitable for keyboard input, mouse movements, and other interactive data. The API supports interrupt transfers through `interruptTransferIn()` and `interruptTransferOut()` methods.
+
+**Isochronous transfers** provide real-time data delivery with guaranteed bandwidth but without error correction. These transfers are typically used for audio and video streaming where occasional data loss is preferable to latency. The Web USB API supports isochronous transfers, though they are less commonly used in typical web applications.
+
+When working with a specific USB device, you'll need to consult the device's documentation to understand which transfer types it supports and which endpoints (connection points within the device) use each transfer type. This information is essential for correctly configuring your application.
+
+## Working with Device Interfaces and Endpoints
+
+USB devices are organized into configurations, interfaces, and endpoints. Understanding this hierarchy is essential for properly communicating with devices through the Web USB API.
+
+A USB device can have one or more configurations, though most devices have only one. Each configuration defines the power requirements and functional characteristics of the device. Within each configuration, there are interfaces, which represent different functional aspects of the device. For example, a USB webcam might have one interface for video streaming and another for audio.
+
+Each interface contains one or more endpoints, which are the actual communication channels used for data transfer. Endpoints are typed according to their transfer method (control, bulk, interrupt, or isochronous) and direction (IN for data coming into the host computer, OUT for data going out to the device).
+
+In the Web USB API, you must explicitly claim an interface before you can communicate through its endpoints. This is done using the `claimInterface()` method, which tells the operating system that your web application will be using that interface exclusively. When you're done communicating, you should release the interface using `releaseInterface()` to allow other applications or the operating system to access it.
+
+Here's a typical sequence for setting up communication with a USB device:
+
+```javascript
+async function setupDevice(device) {
+  await device.open();
+  
+  if (device.configuration === null) {
+    await device.selectConfiguration(1);
+  }
+  
+  await device.claimInterface(0);
+  
+  // Now you can communicate with the device endpoints
+}
+
+async function cleanupDevice(device) {
+  await device.releaseInterface(0);
+  await device.close();
+}
+```
+
+## Compatible Devices and Use Cases
+
+The Web USB API opens up a wide range of possibilities for web applications to interact with hardware. Understanding which devices are compatible and what use cases are practical helps you plan your development efforts effectively.
+
+**Development boards and microcontrollers** are among the most common devices used with the Web USB API. Arduino boards, especially those with USB-capable variants, work well with web applications. Similarly, BBC micro:bit, Raspberry Pi Pico, and various STM32 development boards can be programmed to communicate over USB and interface with web applications. These boards often appear as serial ports, but the Web USB API allows for more direct communication.
+
+**Human interface devices** like keyboards, mice, and game controllers can be accessed through the Web USB API. This capability enables web-based configuration tools, custom macro programs, and even entire games that respond to specialized gaming peripherals. Note that the browser handles standard HID devices automatically, so you would primarily use the Web USB API for custom or specialized HID devices.
+
+**Medical devices and scientific instruments** represent an important use case for Web USB. Glucose monitors, pulse oximeters, oscilloscopes, and laboratory equipment often communicate over USB. Web-based applications can now interface directly with these devices, enabling telemedicine applications, remote laboratory experiments, and data collection systems that run entirely in the browser.
+
+**Storage devices** like USB flash drives and external hard drives can be accessed through the Web USB API, though File System Access API is typically more appropriate for file operations. However, for low-level operations or specialized storage devices, Web USB provides the necessary control.
+
+**Custom electronics** built with USB-capable microcontrollers can communicate with web applications using proprietary protocols. This makes the Web USB API ideal for hobbyist projects, educational tools, and custom hardware solutions. If you can program a microcontroller to respond to USB commands, a web application can control it.
+
+One thing to note is that many modern devices are designed with the assumption of native software control. Devices that require driver installations or come with Windows-only or macOS-only software may present challenges when using with Web USB. When selecting devices for web-based projects, look for those that expose standard USB classes or clearly document their communication protocols.
+
+## Practical Implementation Tips
+
+When implementing the Web USB API in your projects, several practical considerations will help you create more robust and user-friendly applications.
+
+First, always handle errors gracefully. USB operations can fail for numerous reasons: the device might be disconnected, the user might revoke permission, or communication might encounter errors. Wrap your USB operations in try-catch blocks and provide meaningful error messages to users. The Web USB API provides specific error types that can help you identify what went wrong.
+
+Second, implement proper connection state management. USB devices can be connected and disconnected at any time, and your application should respond appropriately. Listen for the `onconnect` and `ondisconnect` events on `navigator.usb` to track device availability. When a device disconnects unexpectedly, clean up any resources and inform the user.
+
+Third, consider the user experience of device selection. Rather than asking users to identify their device by vendor and product IDs, show them the device name and let them choose from a list. You can pre-populate your filters with known device IDs and display friendly names in the picker.
+
+Fourth, keep your application's power consumption in mind. Active USB communication can prevent the system from entering power-saving states. When your application is not actively communicating with a device, consider closing the connection to allow the system to manage power more efficiently.
+
+This is particularly relevant for browser extensions that interact with USB devices. For instance, **Tab Suspender Pro**, a Chrome extension designed to manage tab resources efficiently, demonstrates how browser extensions can optimize system resources. While Tab Suspender Pro focuses on tab management rather than USB communication, the principle of resource optimization applies broadly to any extension or web application that interacts with system hardware.
+
+Finally, test thoroughly across different devices and scenarios. USB behavior can vary between operating systems, and devices may behave differently than their documentation suggests. Test with multiple devices, various USB ports (USB 2.0 vs USB 3.0), and different connection scenarios (direct connection vs hubs).
+
+## Browser Support and Future Considerations
+
+As of this writing, the Web USB API has broad support in Chromium-based browsers but limited support elsewhere. Chrome, Edge, Opera, and other Chromium browsers fully support the API. Firefox has shown interest but has not yet implemented the API, and Safari's support is minimal or nonexistent.
+
+This browser landscape has practical implications for your application design. If you need to support users on all browsers, you may need to provide fallback functionality or clearly communicate browser requirements to your users. For internal tools or controlled environments, you can specify Chromium-based browsers as requirements.
+
+The Web USB API continues to evolve, with ongoing work on additional features and improvements. The W3C Web USB Working Group maintains the specification, and new capabilities may be added in the future. Staying current with the specification and browser implementations will help you take advantage of new features as they become available.
+
+For projects requiring broader device support, consider combining Web USB with other technologies. WebSerial API provides similar functionality for serial port devices, WebBluetooth API handles Bluetooth Low Energy devices, and the File System Access API works with storage devices. Each technology addresses different hardware communication needs.
+
+## Conclusion
+
+The Chrome Web USB API represents a transformative capability for web developers, enabling direct communication between web applications and USB hardware. By understanding device discovery, permissions, transfer types, and implementation best practices, you can build powerful web applications that interact with the physical world.
+
+From development boards to medical devices, the possibilities are vast. As browser support continues to expand and the web platform matures, Web USB will likely become an increasingly important tool in every web developer's toolkit. Start experimenting with the API today, and discover what you can build.
+
+---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

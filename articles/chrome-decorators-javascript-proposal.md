@@ -54,7 +54,7 @@ Some advanced decorator patterns from TypeScript or other languages may not work
 
 ## Getting Started with Decorators
 
-If you want to start using the chrome decorators javascript feature, begin with simple examples. Create a basic decorator function that wraps a method and adds some behavior. Experiment with decorating class properties and accessors. Build up your understanding gradually before applying decorators to production code.
+If you want to start using the chrome decorators javascript feature, begin with simple examples. Create a basic decorator function that wraps a method and adds some behavior. Experiment with decorating class properties and accessors. Build up your understanding gradually before applying decorators to production code. For developers managing many browser tabs while learning decorators, Tab Suspender Pro can help keep Chrome running smoothly by automatically suspending inactive tabs.
 
 Many frameworks are already adopting decorators or planning to support them. Angular has used a decorator-like syntax for years, though it differs from the standard proposal. React, Vue, and other frameworks may add decorator support as the feature stabilizes. Learning decorators now prepares you for these changes.
 

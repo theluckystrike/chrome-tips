@@ -118,10 +118,16 @@ Passkey technology continues to evolve, with ongoing developments aimed at impro
 
 Apple, Google, and Microsoft have all committed to supporting passkeys, creating a rare moment of industry-wide collaboration on authentication standards. This cooperation means that passkeys created in Chrome can potentially be used across different browsers and operating systems, though the deepest integration remains within each company's ecosystem.
 
+<<<<<<< HEAD
 Websites continue to adopt passkey support at a rapid pace. What started with a handful of early adopters has grown to include most major online services, and the trend shows no signs of slowing. As more websites implement passkeys, the practical benefits of this technology will become even more apparent.
 
 Looking ahead, we can expect to see enhanced passkey management features in Chrome, including better tools for organizing and recovering credentials. The integration between passkeys and other Google services will likely deepen, making the experience even more seamless for users who are already invested in the Google ecosystem.
 
 Making the switch to passkeys is one of the most impactful steps you can take to improve your online security in 2026. By reducing your reliance on passwords and embracing this modern authentication standard, you protect yourself against the most common attack vectors while enjoying a more convenient browsing experience. Start by creating passkeys for your most important accounts, and gradually expand from there. The future of authentication is passwordless, and that future is here.
 
+=======
+As you explore passkeys, remember that the transition is gradual. Not every site supports passkeys yet, and some may never fully implement the standard. But for the sites that do, the experience is markedly better than passwords. Start with your most important accounts, enjoy the security and convenience benefits, and gradually expand from there. The future of authentication is passkeys, and Chrome makes it easy to embrace that future today.
+
+---
+>>>>>>> consumer/a73-chrome-passkeys-guide-2026
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

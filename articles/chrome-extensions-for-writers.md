@@ -1,123 +1,117 @@
 ---
 layout: post
-title: "best chrome extensions for writers 2026"
-description: "Discover the best chrome extensions for writers in 2026 to improve your writing productivity, grammar, focus, and workflow. Expert picks for authors, bloggers, and content creators."
-date: 2026-01-15
-categories: [extensions, productivity, writing]
-tags: [chrome-extension, writing, productivity, grammar, focus]
+title: "Best Chrome Extensions for Writers 2026"
+description: "Discover the best Chrome extensions for writers in 2026. Boost your writing productivity with ProWritingAid, Hemingway, Focus Mode, Marinara Timer, and more essential writing tools."
+date: 2026-03-11
+categories: [productivity, writing]
+tags: [chrome-extensions, writers, writing-tools, productivity, writing-software, 2026]
 author: theluckystrike
 ---
 
-# Best Chrome Extensions for Writers 2026
+If you are a writer in 2026, your browser is probably your most important workspace. Whether you are drafting blog posts, crafting emails, writing novels, or creating marketing copy, Chrome extensions can transform your writing process from frustrating to flowing. The right tools help you write faster, edit smarter, stay focused, and ultimately produce better content.
 
-Writing is both an art and a craft, and every writer knows that the right tools can make a tremendous difference in productivity and quality. Whether you are drafting blog posts, working on your novel, creating marketing copy, or writing emails, having the right browser extensions at your disposal can transform your writing experience. In this comprehensive guide, we explore the best Chrome extensions for writers in 2026, with detailed insights into how each tool can elevate your writing to new heights.
+Many writers struggle with common challenges: finding the right words, maintaining focus for extended periods, catching grammar mistakes before publishing, and managing their time effectively. The best Chrome extensions for writers address these pain points directly, becoming indispensable parts of your daily writing workflow.
 
-The modern writer faces unique challenges in the digital age. Distractions are everywhere, deadlines loom, and the expectation for high-quality content has never been greater. Fortunately, Chrome extensions have evolved to address these challenges with sophisticated features that were once available only in expensive desktop software. From grammar checking to focused writing environments, from time management to tab organization, there is an extension for nearly every writing need.
+Here are the best Chrome extensions for writers in 2026.
 
-In this article, we will examine five essential Chrome extensions that every writer should consider: ProWritingAid, Hemingway Editor, Focus Mode, Marinara Timer, and Tab Suspender Pro. Each of these tools brings something unique to the table, and together they form a powerful toolkit for writers who want to work smarter, not harder.
+## ProWritingAid
 
-## Why Writers Need Specialized Tools
+ProWritingAid is perhaps the most comprehensive writing assistant available as a Chrome extension. Unlike basic grammar checkers that only catch obvious errors, ProWritingAid provides deep analysis of your writing style, structure, and readability. It combines the functionality of multiple tools into one powerful package.
 
-Before diving into the specific extensions, it is worth understanding why specialized writing tools matter in the first place. The average writer spends hours each day in front of a screen, toggling between research, writing, editing, and publishing. Without the right tools, this workflow can become fragmented and inefficient.
+The extension offers detailed reports on over 20 different writing aspects, including sentence length variation, passive voice usage, adverb overuse, repeated words, and transition issues. When you run an analysis, you get a comprehensive view of your document's strengths and weaknesses. This makes it particularly valuable for writers who want to continuously improve their craft rather than just fixing surface-level errors.
 
-One of the biggest challenges writers face is maintaining focus. The internet is designed to capture attention, with notifications, social media, and endless content competing for your focus. Writing requires sustained concentration, and even a brief interruption can break your flow and make it difficult to return to your work.
+One of ProWritingAid's strongest features is its contextual thesaurus. When you double-click any word, you get a pop-up showing synonyms and related terms that fit the context of your sentence. This helps you avoid repetitive language and find the perfect word without leaving your document.
 
-Another challenge is the editing process. Good writing is rewriting, but many writers struggle to identify weaknesses in their own work. A fresh set of eyes can spot awkward sentences, repetitive words, and grammatical errors, but waiting for feedback slows down the writing process. Specialized writing tools can provide instant feedback, helping you catch issues before they become problems.
+The extension integrates with a wide range of platforms, including Google Docs, WordPress, Medium, and most email clients. This means you can get writing feedback whether you are drafting a blog post, writing an email to a client, or working on your novel in a web-based word processor.
 
-Finally, time management is critical for writers, especially those who work remotely or juggle multiple projects. Deadlines do not care how organized you are, and learning to manage your time effectively can make the difference between meeting your goals and falling behind.
+For fiction writers, ProWritingAid offers specific features that help with storytelling. It can identify dialogue tags that feel forced, flag inconsistent POV shifts, and highlight instances where you might be telling rather than showing. These insights help you create more immersive narratives that engage readers.
 
-With these challenges in mind, let us explore the extensions that can help you overcome them.
+The pricing model offers a free version with limited daily uses, while the premium version gives you unlimited access to all features. Many professional writers find the investment worthwhile given how much the extension improves their final output.
 
-## ProWritingAid: Your All-in-One Writing Assistant
+## Hemingway Editor
 
-ProWritingAid is one of the most comprehensive writing tools available, and its Chrome extension brings powerful editing capabilities directly to your browser. Unlike basic grammar checkers that focus solely on spelling and punctuation, ProWritingAid analyzes your writing for style, structure, readability, and repetition, providing detailed feedback that helps you become a better writer.
+Hemingway Editor takes its name from Ernest Hemingway's famous writing style—clear, concise, and powerful. This Chrome extension helps you achieve the same effect in your own writing by highlighting complex sentences, adverb overuse, passive voice, and other issues that dilute your message.
 
-The extension works across a wide range of websites, including Google Docs, WordPress, Medium, and most text input fields. This means you can get real-time feedback whether you are drafting an article, writing an email, or composing a social media post. The tool integrates seamlessly with your workflow, offering suggestions without interrupting your writing process.
+The extension works directly in your browser, analyzing text as you type. Color-coded highlights make it easy to spot problems at a glance. Yellow highlights indicate sentences that are hard to read, while red highlights mark sentences that are very difficult to read. Purple highlights suggest simpler alternatives to complex phrases, and adverb highlights remind you when you are relying too heavily on these word modifiers.
 
-One of ProWritingAid's standout features is its ability to identify overused words and repetitive phrases. Writers often develop habits, using certain words or phrases repeatedly without realizing it. ProWritingAid highlights these patterns, showing you exactly where you have repeated yourself and offering suggestions for more varied language. This feature is invaluable for writers who want to polish their prose and keep readers engaged.
+What makes Hemingway Editor particularly valuable is its emphasis on readability. The extension gives your content a readability grade level, helping you ensure your writing reaches your intended audience. Marketing writers often target a grade level of 6-8 for general audiences, while academic or technical writers might aim for higher levels depending on their readers.
 
-The style analysis in ProWritingAid is equally impressive. The tool checks for passive voice, adverbs, readibility scores, and sentence length variation. It provides a detailed report on your writing, breaking down your strengths and weaknesses across multiple dimensions. This holistic approach to editing helps writers not just fix immediate problems but develop better writing habits over time.
+Beyond the browser extension, Hemingway offers a desktop app with additional features like a distraction-free writing mode and document organization. However, the Chrome extension provides enough functionality for most writers to significantly improve their work.
 
-For fiction writers, ProWritingAid offers specialized features like dialogue tag analysis and point of view checking. These tools help ensure consistency in your narrative and catch common mistakes that can distract readers. The extension also includes a thesaurus integration, making it easy to find alternative words when you need them.
+The real power of Hemingway lies in teaching you to recognize patterns in your own writing. Over time, you internalize the lessons and start writing cleaner sentences without needing the constant feedback. This makes it an excellent tool for writers who want to develop their skills rather than just fix individual documents.
 
-The free version of ProWritingAid offers substantial functionality, with limits on the number of reports you can generate. For writers who need unlimited access, the premium version unlocks all features and allows for longer documents. Either way, ProWritingAid represents an excellent investment in your writing quality.
+For content marketers and bloggers, Hemingway's instant feedback loop is invaluable. You can write a draft, immediately see which sentences need work, and make corrections before moving on. This iterative process often produces better results than saving all editing for a separate revision pass.
 
-## Hemingway Editor: Clarity and Impact
+## Focus Mode
 
-Hemingway Editor takes a different approach to writing improvement, focusing specifically on clarity and impact. Named after the legendary author known for his spare, powerful prose, this extension helps writers craft content that is easy to read and difficult to misunderstand. The philosophy behind Hemingway Editor is that strong writing is clear writing, and the tool helps you achieve that goal.
+Focus Mode is a Chrome extension designed to eliminate distractions and help writers maintain concentration during writing sessions. It creates a clean, minimal writing environment by hiding everything except your text, leaving you free to focus entirely on your words.
 
-The Chrome extension version of Hemingway Editor works as a web editor, allowing you to paste your text and receive instant feedback. The interface is clean and distraction-free, with a minimalist design that puts your words front and center. Unlike ProWritingAid, which offers extensive analysis, Hemingway Editor focuses on a core set of recommendations that have the biggest impact on readability.
+The extension works by overlaying a simplified interface on top of your current tab. You can continue writing in Google Docs, WordPress, or any other web-based writing tool, but the surrounding interface disappears. No sidebars, no notifications, no browser tabs tempting you to switch context—just you and your writing.
 
-One of the primary features is the highlighting of complex sentences. The tool identifies sentences that are hard to read, either because of their length or their structure. These sentences are highlighted in yellow or red, depending on their difficulty level. The goal is to break up long sentences and simplify complex ones, making your writing more accessible to your audience.
+One of Focus Mode's most useful features is customizable sessions. You can set a timer for your writing session, choose ambient sounds to block out background noise, and track your writing goals. Some writers find that knowing exactly how long they plan to work helps them stay on task, while others prefer the freedom to write without time constraints.
 
-Adverbs are another focus of Hemingway Editor. The tool highlights adverbs that can weaken your writing, encouraging you to find stronger verbs instead. This aligns with the famous writing advice to use adverbs sparingly, helping you develop more precise and impactful prose.
+The extension also offers ambient sound options that can help create a conducive writing environment. Options include rain sounds, café ambiance, white noise, and nature sounds. These can be particularly helpful if you work in a noisy environment or find complete silence distracting.
 
-Passive voice is also flagged by Hemingway Editor. While passive voice has its place, over-reliance on it can make writing feel impersonal and flat. The extension highlights passive constructions, prompting you to consider whether active voice would be more effective.
+For writers who struggle with procrastination, Focus Mode includes website blocking capabilities. You can create a list of sites that automatically block when you start a session, preventing the temptation to check social media or browse news sites while you should be writing.
 
-Beyond these specific recommendations, Hemingway Editor provides an overall readability score for your text. This score helps you understand how easy your content is to read, with lower scores indicating more accessible writing. For writers creating content for a broad audience, this metric is invaluable.
+The beauty of Focus Mode is that it adapts to your workflow rather than forcing you to change how you work. You can use it with whatever writing tool you prefer, whether that is a sophisticated web-based editor or a simple text input field.
 
-The simplicity of Hemingway Editor is part of its appeal. Rather than overwhelming you with dozens of suggestions, it focuses on the changes that make the biggest difference. This makes it an excellent tool for writers who want quick, actionable feedback without spending hours on editing.
+## Marinara Timer
 
-## Focus Mode: Distraction-Free Writing Environment
+The Marinara Timer is a Chrome extension based on the Pomodoro Technique, a time management method that breaks work into focused intervals separated by short breaks. For writers, this approach can be particularly effective in overcoming the intimidation of large writing projects and maintaining energy throughout extended sessions.
 
-Focus Mode is a Chrome extension designed to solve one of the biggest problems facing writers: distraction. The extension creates a clean, minimal writing environment that removes visual clutter and helps you concentrate on your words. When you activate Focus Mode, everything else disappears, leaving only your text and the tools you need.
+The extension gets its name from the tomato-shaped kitchen timer that Francesco Cirillo originally used when developing the Pomodoro Technique in the late 1980s. The name "Marinara" is likely a playful reference to the Italian origins of the technique.
 
-The concept behind Focus Mode is simple but powerful. Writers often struggle with the overwhelming nature of a full browser window, with its tabs, bookmarks, and extensions all competing for attention. Focus Mode strips away these distractions, leaving you with a blank canvas for your writing. This minimalist approach mimics the experience of using a dedicated writing app, but within your browser.
+Using the Marinara Timer is simple. You start a timer for your desired work duration—typically 25 minutes for a single "pomodoro"—and the extension alerts you when time is up. After completing several focused work periods, you take a longer break to rest and recharge.
 
-Customization is a key feature of Focus Mode. You can adjust the background color, text color, and font to create a writing environment that feels comfortable to you. Some writers prefer a dark mode with light text, while others prefer the classic white background with dark text. With Focus Mode, you can choose what works best for your eyes and your workflow.
+What makes the Marinara Timer particularly useful for writers is its customization options. You can adjust the length of work periods and breaks to match your natural rhythm. Some writers work best in 25-minute bursts, while others prefer longer 45 or 60-minute sessions. The extension lets you configure these settings to find what works best for you.
 
-The extension also includes options for focus timers and word count goals. These features help you track your progress and maintain motivation during writing sessions. If you have ever struggled to start writing because the task seemed overwhelming, setting a small word count goal can help you get started, knowing exactly what you need to accomplish.
+The extension also offers detailed statistics on your writing sessions. You can track how many pomodoros you complete each day, which helps you understand your productivity patterns and set realistic goals. Over time, this data can help you identify your most productive times of day and optimize your writing schedule accordingly.
 
-Focus Mode integrates well with other writing tools. You can use it alongside ProWritingAid or Hemingway Editor, activating the focus environment when you are ready to write and switching to editing mode when you are ready to revise. This workflow allows you to separate the creative and editing phases, which many writers find more effective.
+For writers working on deadline, the Marinara Timer provides a structured framework that can prevent procrastination. Knowing you only need to focus for 25 minutes at a time makes starting much easier than facing a looming deadline with no intermediate milestones.
 
-One of the most appreciated features is the ability to work offline. Once you have installed Focus Mode, you can write without an internet connection, eliminating another potential distraction. Your work is saved locally, and you can export it when you are ready to publish or share.
+## Tab Suspender Pro
 
-For writers who struggle with procrastination, Focus Mode can be a game-changer. By removing the temptation to check other websites or get lost in browser tabs, it helps you stay present with your writing. The extension is particularly useful for those who do their writing in the browser, whether because they prefer web-based tools or because they need to reference online sources while they work.
+While not specifically a writing tool, Tab Suspender Pro deserves mention for any writer who uses Chrome extensively. This extension automatically suspends tabs you are not actively using, freeing up memory and keeping your browser running smoothly. For writers who often have dozens of research tabs, reference documents, and writing tools open simultaneously, this can significantly improve performance.
 
-## Marinara Timer: The Pomodoro Technique Made Easy
+When you have numerous tabs open while writing, Chrome can become sluggish, causing frustrating delays when switching between your document and reference materials. Tab Suspender Pro solves this by putting inactive tabs to sleep. They consume minimal resources until you click on them, at which point they reload instantly.
 
-Time management is a critical skill for writers, and Marinara Timer brings the proven Pomodoro Technique to your Chrome browser. Named after the popular time management method that uses intervals to improve focus and productivity, this extension makes it easy to structure your writing sessions for maximum efficiency.
+The extension is particularly valuable when conducting research for articles, blog posts, or books. You can open dozens of relevant pages without worrying about slowing down your browser. When you need to check a source, simply click the tab and it will be ready immediately.
 
-The Pomodoro Technique involves working in focused bursts, typically 25 minutes long, followed by short breaks. After completing several work sessions, you take a longer break to rest and recharge. This cycle helps prevent burnout, maintain concentration, and create a sense of momentum as you complete each session.
+For writers who use web-based writing tools like Google Docs or online word processors, Tab Suspender Pro helps ensure these applications remain responsive even when you have many other tabs open. There is nothing worse than experiencing lag while you are in the middle of writing flow.
 
-Marinara Timer automates this process for you. You start a timer from the extension, and it notifies you when each work period or break is complete. The notifications appear as browser notifications, so you will see them even if you are looking at a different tab. This hands-off approach means you can focus on writing without constantly checking the clock.
+## Additional Essential Extensions for Writers
 
-The extension offers customizable timer lengths. While the standard Pomodoro uses 25-minute work sessions and 5-minute breaks, you can adjust these intervals to match your preferences and energy levels. Some writers find that shorter sessions work better for creative work, while others prefer longer periods of focused writing. With Marinara Timer, you can experiment to find what works for you.
+Beyond the main tools covered above, several other extensions can enhance your writing workflow in 2026.
 
-Statistics tracking is another valuable feature. The extension records your completed work sessions, allowing you to see how much time you have spent writing over days and weeks. This data can help you identify patterns in your productivity and set realistic goals for future writing sessions. Many writers are surprised to discover how much they can accomplish when they track their time.
+**Grammarly** remains a popular choice for real-time grammar and spelling checks. While ProWritingAid offers more comprehensive analysis, Grammarly's instant feedback is valuable for catching errors as you type. The free version handles basic checks, while premium unlocks advanced suggestions and vocabulary enhancements. Many writers use both tools together, relying on Grammarly for quick corrections and ProWritingAid for deep structural analysis during editing passes.
 
-Marinara Timer also includes audio notifications, which you can enable or disable based on your preferences. The sound alerts are pleasant and not jarring, making them suitable for environments where you need to be mindful of noise. You can also set the extension to display a visual countdown in your browser toolbar, giving you a constant reminder of how much time remains in your current session.
+**OneLook Thesaurus** provides quick access to synonyms and related words. Unlike ProWritingAid's contextual thesaurus, OneLook is a standalone tool that gives you instant access to extensive word lists without needing to run a full analysis. The interface is clean and fast, making it perfect for those moments when you know there is a better word but cannot quite grasp it. The extension also includes reverse dictionary lookups, where you can describe a concept and find words that match your description.
 
-For writers who struggle with procrastination or difficulty starting, Marinara Timer provides a helpful framework. Knowing that you only need to write for 25 minutes before taking a break can make the task feel more manageable. Often, once you start writing, you will find it easier to continue beyond the initial session, but the timer gives you permission to stop if you need to.
+**Google Dictionary** lets you double-click any word to see its definition in a small pop-up. This is invaluable when reading research materials or encountering unfamiliar terminology that you want to understand before incorporating into your writing. The extension supports multiple languages and can pronounce words aloud, helping you learn correct pronunciation. For writers working in technical fields or covering specialized topics, this feature alone can save hours of context-switching.
 
-Combining Marinara Timer with Focus Mode creates a powerful writing environment. Focus Mode removes visual distractions, while Marinara Timer manages your time. Together, they help you build sustainable writing habits that maximize your productivity without sacrificing quality.
+**StayFocusd** limits the amount of time you can spend on distracting websites. You set a daily limit, and once you reach it, the extension blocks access for the rest of the day. This can be an effective way to break the habit of constantly checking social media or news sites while writing. The extension offers different blocking modes, including completely blocking sites, allowing only certain amounts of time, or restricting access during specific hours. Many writers find that simply knowing the limit exists helps them stay focused without needing to actively manage their time.
 
-## Tab Suspender Pro: Manage Your Browser Resources
+**Loom** allows you to quickly record screen and voice explanations, which can be helpful for writers who need to create video content, explain concepts to clients, or document their writing process. The free tier offers generous recording limits, making it accessible for freelancers and independent writers who might need to create video tutorials or walkthroughs as part of their services.
 
-While not a writing tool in the traditional sense, Tab Suspender Pro is an extension that every writer with multiple projects should consider. Writers often have dozens of tabs open at once, with research materials, reference articles, email, and writing apps all competing for browser resources. Tab Suspender Pro helps manage this chaos by automatically suspending tabs that are not actively in use.
+**Evernote Web Clipper** is essential for writers who do extensive research online. You can save articles, images, and entire web pages to your Evernote account with a single click. The extension automatically cleans up clutter from web pages, saving only the main content. This creates a organized research database that you can access from any device, making it easy to gather source material for articles, books, or research papers.
 
-When a tab is suspended, it is essentially paused, releasing the memory and processing power it was using. This keeps your browser running smoothly, even with hundreds of tabs open. For writers who work on complex projects involving extensive research, this feature can be a lifesaver. You can keep all your reference materials accessible without experiencing the slowdowns that typically come with having too many tabs open.
+**Notion Web Clipper** serves a similar purpose for writers who prefer Notion as their organization tool. You can clip web pages directly to your Notion workspace, where you can organize them with tags, databases, and links to other projects. The integration with Notion's powerful workspace makes it particularly useful for writers who want to connect their research directly to their project management system.
 
-The extension is highly configurable. You can choose which tabs to suspend automatically, which to exclude from suspension, and how long to wait before suspending inactive tabs. You can also set exceptions for websites where you do not want tabs suspended, such as music players or live documentation.
+## Building Your Writing Extension Toolkit
 
-One of the most useful features for writers is the ability to preview suspended tabs. When you hover over a suspended tab, you see a snapshot of the page, allowing you to decide whether to restore it. This makes it easy to find the information you need without manually managing your tabs.
+The key to getting the most value from Chrome extensions is to start with a small, focused set and add more only when you identify specific needs. Most writers will find that three to five extensions cover their core requirements. Adding too many tools at once can actually decrease productivity as you spend more time managing your extensions than actually writing.
 
-Tab Suspender Pro also saves energy and extends battery life on laptops. Suspended tabs consume virtually no resources, which can make a noticeable difference if you write on the go. This environmental benefit is an added bonus for writers who care about sustainability.
+If you are new to writing extensions, begin with one tool for grammar checking, one for focus, and one for time management. As you develop your workflow, you will naturally discover gaps that additional extensions can fill. For example, you might start with Hemingway for simplicity, then add ProWritingAid when you want deeper analysis. Or you might begin with the Marinara Timer, then add Focus Mode when you need a more comprehensive solution.
 
-The extension integrates well with the other tools in this list. When you are writing with Focus Mode active, you likely have several research tabs open in the background. Tab Suspender Pro keeps those tabs available but suspended, so they do not slow down your writing environment. When you need to reference something, restoring the tab takes just a click.
+Be cautious about installing too many extensions at once. Each one adds to Chrome's memory usage and can create conflicts with others. A well-chosen set of five to seven extensions will serve you better than dozens of rarely-used tools. Periodically review your installed extensions and remove any that have become habits rather than helpful tools.
 
-For writers who work on multiple projects simultaneously, Tab Suspender Pro helps keep everything organized. You can have research for three different articles open in separate windows, with the extension managing resources so your browser stays responsive. This flexibility is invaluable for freelance writers or content creators who juggle multiple deadlines.
+Remember that extensions are meant to support your writing, not replace the fundamental skills of crafting clear, engaging prose. Tools like Hemingway and ProWritingAid can help you identify weaknesses, but developing your own voice and style ultimately comes from practice and reading widely. The best extensions teach you to become a better writer, not just fix your current draft.
 
-## Putting It All Together
+The best writers in 2026 are not those who rely most heavily on technology, but those who use technology strategically to remove friction from their creative process. With the right Chrome extensions, you can spend less time fighting your tools and more time doing what you do best—writing.
 
-The best Chrome extensions for writers are those that work together to create a seamless workflow. ProWritingAid and Hemingway Editor provide the feedback you need to improve your writing. Focus Mode creates the distraction-free environment you need to concentrate. Marinara Timer manages your time and helps build sustainable habits. Tab Suspender Pro keeps your browser running smoothly so you can focus on writing, not troubleshooting.
+Many professional writers report that their extension toolkit has evolved significantly over time. What works for one writer might not work for another, so be willing to experiment and adjust your setup as your needs change. The goal is to create a writing environment that supports your creative process rather than constraining it.
 
-Each of these extensions addresses a specific challenge that writers face, and together they form a comprehensive toolkit. You do not need to install all of them at once; start with the ones that address your biggest struggles, and add more as you develop your workflow.
-
-Remember that tools are meant to support your writing, not replace it. The best extension in the world will not help you if you do not put in the work to develop your craft. However, by removing friction and creating the right conditions for focused writing, these tools can help you write more, write better, and enjoy the process more.
-
-As you explore these extensions, pay attention to how they fit into your existing workflow. Everyone writes differently, and what works for one person may not work for another. The beauty of Chrome extensions is that they are easy to install and uninstall, so you can experiment until you find the perfect combination for your needs.
-
-Writing is a journey, and the right tools can make that journey smoother and more enjoyable. We hope this guide helps you find the extensions that will support your writing goals in 2026 and beyond.
+Consider your primary writing context when selecting extensions. If you primarily write blog posts, focus on tools that help with SEO and readability. If you write fiction, look for extensions that help with story structure and character consistency. If you write emails and documents for work, prioritize tools that improve clarity and professionalism. The most effective extension setup is one that aligns with your specific writing goals and workflow.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

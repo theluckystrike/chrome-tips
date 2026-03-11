@@ -1,214 +1,207 @@
 ---
-layout: default
+layout: post
 title: "Chrome Web NFC API Guide"
-description: "Learn how to use the Chrome Web NFC API for reading and writing NFC tags directly from your browser. Complete guide covering NDEF messages, tag writing, and mobile support."
-date: 2026-01-20
-categories: [chrome, web-api, nfc, programming]
-tags: [web-nfc, chrome-nfc, ndef, nfc-tags, mobile-web]
+description: "Learn how to use the Chrome Web NFC API for reading and writing NFC tags, NDEF messages, and enabling mobile web NFC functionality in your applications."
+date: 2026-01-15
+categories: [development, web-apis, chrome]
+tags: [chrome-web-nfc, nfc-api, ndef, web-development, mobile]
 author: theluckystrike
 ---
 
 # Chrome Web NFC API Guide
 
-The **Chrome Web NFC API** is a powerful feature that brings Near Field Communication (NFC) capabilities directly to web browsers. This technology enables web applications to read and write NFC tags, opening up exciting possibilities for mobile web experiences, contactless payments, product authentication, and interactive physical-digital experiences. If you have ever used **Tab Suspender Pro** to manage your Chrome tabs efficiently, you will appreciate how web APIs can enhance browser functionality—and the Web NFC API is another excellent example of extending what Chrome can do.
+The Web NFC API is one of the most exciting recent additions to the Chrome browser's capabilities. It enables web applications to read and write NFC tags directly from a web page, opening up new possibilities for contactless interactions, inventory management, identity verification, and interactive experiences. If you have ever wanted to build a web app that can communicate with physical NFC tags or NFC-enabled devices, the Web NFC API provides the tools you need to make it happen.
 
-## What Is the Web NFC API?
+In this comprehensive guide, I will walk you through everything you need to know about the Chrome Web NFC API. We will cover how NFC reading works, the structure of NDEF messages, how to write data to NFC tags, and the important considerations for mobile support. By the end of this article, you will have a solid understanding of how to integrate NFC functionality into your web applications.
 
-The Web NFC API is a JavaScript API that allows web pages to interact with NFC tags and devices. NFC is a short-range wireless technology that enables communication between devices when they are placed close together, typically within 4 centimeters. While NFC has been available in mobile apps for years, the Web NFC API brings this capability to the browser, meaning users can interact with NFC tags without needing to install a dedicated mobile application.
+## Understanding Web NFC and Its Capabilities
 
-Chrome was one of the first browsers to implement the Web NFC API, making it available on Android devices starting with Chrome 89. This API enables two primary operations: reading NFC tags (specifically NDEF-formatted tags) and writing data to NFC tags. Understanding these capabilities is essential for developers who want to create innovative web experiences that bridge the physical and digital worlds.
+Web NFC refers to the ability for web browsers to interact with Near Field Communication technology built into devices. NFC is a short-range wireless technology that allows two devices to communicate when they are brought close together, typically within 4 centimeters or less. This technology is commonly used for contactless payments, transit cards, and sharing small amounts of data between devices.
 
-The Web NFC API operates on the NDEF (NFC Data Exchange Format) standard, which is the common format used by most NFC tags. NDEF is a lightweight binary message format that organizes data into records, each containing specific information such as text, URLs, or custom data types. This standardization ensures compatibility across different NFC tags and devices.
+The Chrome Web NFC API, officially known as the NFC Reader API, was developed to give web developers access to NFC functionality without requiring native applications. Initially available only on Android devices running Chrome, this API has been gradually expanded to support more use cases and devices. The API allows web pages to scan NFC tags and read the data stored on them, as well as write new data to compatible NFC tags.
 
-## Browser and Platform Requirements
+It is important to note that Web NFC support in Chrome is currently limited to NFC Forum Tag Types 1 through 5 that support NDEF (NFC Data Exchange Format). These cover the vast majority of common NFC tags available commercially, including stickers, cards, and key fobs. The API does not currently support peer-to-peer communication between two devices or secure element operations used in payment applications.
 
-Before diving into implementation, it is crucial to understand where the Web NFC API is available. As of now, the Web NFC API is supported primarily on Chrome for Android. Other Chromium-based browsers on Android, such as Edge and Opera, also support this API. However, the API is not available on desktop Chrome, iOS Safari, or Firefox, which limits its practical use to Android mobile web contexts.
+## Prerequisites and Browser Support
 
-To use the Web NFC API, users must meet several requirements. First, they must be using a compatible browser on an Android device with NFC hardware. Second, the website must be served over HTTPS (or from localhost for development purposes). Third, the user must explicitly grant permission for the website to access NFC functionality through a permission prompt.
+Before you begin implementing Web NFC functionality, it is essential to understand the current state of browser support and the requirements for using the API. The Chrome Web NFC API is available in Chrome on Android starting from version 89. This means that your users must be using Chrome on an Android device with NFC hardware to take advantage of these features.
 
-The API also requires an explicit user gesture to initiate scanning, which means NFC operations cannot be triggered silently in the background. This security measure prevents malicious websites from scanning NFC tags without the user's knowledge or consent.
+Additionally, the API requires a secure context to function, which means your website must be served over HTTPS. This is a security requirement that ensures user data remains protected during NFC operations. Local development can use localhost or 127.0.0.1, but any production deployment must use HTTPS.
 
-## Checking NFC Availability
+The API also requires explicit user permission before it can scan or write NFC tags. This is implemented through the Permissions API, and users must grant permission through a prompt similar to those used for camera or location access. This design ensures that users have control over when their device's NFC capabilities are used by web applications.
 
-Before attempting to use the Web NFC API, your code should check whether the API is available and NFC is supported on the current device. This check ensures that your application gracefully handles situations where NFC is not available. Here is how you can perform this check:
+## Reading NFC Tags with the Web NFC API
+
+Reading NFC tags is the most common use case for the Web NFC API. The process involves scanning for nearby NFC tags, retrieving the data stored on them, and processing that data in your web application. Let me walk you through how to implement NFC reading in your code.
+
+The first step is to check whether the Web NFC API is available in the user's browser. You can do this by checking for the presence of the NDEFReader object:
 
 ```javascript
 if ('NDEFReader' in window) {
-  const ndef = new NDEFReader();
-  console.log('NFC is available on this device');
+  console.log('Web NFC is supported!');
 } else {
-  console.log('Web NFC API is not supported on this browser');
+  console.log('Web NFC is not supported in this browser.');
 }
 ```
 
-The NDEFReader object is the primary interface for interacting with NFC tags. When you create an instance of NDEFReader, you can then use its methods to scan for tags, read data from tags, and write data to tags. It is important to note that creating the NDEFReader object does not immediately trigger any NFC functionality—it merely prepares the API for subsequent operations.
-
-## Reading NFC Tags
-
-Reading NFC tags is one of the most common use cases for the Web NFC API. Whether you are creating a product authentication system, a museum guide, or a smart inventory management tool, reading tag data is often the first step in your application workflow.
-
-To scan for NFC tags, you use the scan() method of the NDEFReader object. This method accepts an optional configuration object and returns a promise that resolves when scanning starts successfully. The scan() method does not return the scanned data directly; instead, it sets up an event listener that fires whenever an NFC tag comes into range.
-
-Here is a practical example of how to read NFC tags:
+Once you have confirmed that Web NFC is available, you can create an NDEFReader instance and use it to scan for NFC tags. The scanning process is asynchronous and uses event listeners to handle tag discoveries:
 
 ```javascript
 const ndef = new NDEFReader();
 
-await ndef.scan();
-ndef.ononfound = (event) => {
-  const message = event.message;
+async function startScanning() {
+  try {
+    await ndef.scan();
+    console.log('Scan started successfully.');
+    
+    ndef.onreading = (event) => {
+      console.log('NFC tag detected!');
+      const message = event.message;
+      // Process the NDEF message here
+    };
+    
+    ndef.onreadingerror = (error) => {
+      console.log('Error reading NFC tag:', error);
+    };
+  } catch (error) {
+    console.error('Failed to start scanning:', error);
+  }
+}
+```
+
+When a tag is detected, the `onreading` callback receives an event containing the NDEF message from the tag. The message property contains an array of records, each representing a piece of data stored on the tag. You can iterate through these records to extract the information you need.
+
+## Understanding NDEF Messages
+
+NDEF (NFC Data Exchange Format) is the standard format used to store data on NFC tags. Understanding how NDEF messages are structured is crucial for effectively working with the Web NFC API. An NDEF message consists of one or more NDEF records, each containing a specific type of data.
+
+Each NDEF record has several important properties. The TNF (Type Name Format) field indicates the type of the record, such as text, URL, MIME media, or external type. The type field specifies the exact type of data being stored. The payload contains the actual data, which could be text, a URL string, binary data, or any other format depending on the record type.
+
+The most common record types you will encounter are text records, URL records, and MIME media records. Text records use a specific encoding format that includes a language code and the text content. URL records store web addresses or other URI types. MIME media records can store any type of data, such as contact information (vCard), images, or application-specific data.
+
+When reading an NDEF message, you should handle each record type appropriately. Here is an example of how to parse different record types:
+
+```javascript
+function handleNDEFMessage(message) {
   for (const record of message.records) {
-    console.log('Record type:', record.recordType);
-    console.log('Record data:', record.data);
+    switch (record.recordType) {
+      case 'text':
+        const textDecoder = new TextDecoder(record.encoding);
+        const text = textDecoder.decode(record.payload);
+        console.log('Text record:', text);
+        break;
+      case 'url':
+        const url = new TextDecoder().decode(record.payload);
+        console.log('URL record:', url);
+        break;
+      case 'mime':
+        console.log('MIME type:', record.mediaType);
+        // Handle binary data appropriately
+        break;
+      default:
+        console.log('Unknown record type:', record.recordType);
+    }
   }
-};
-```
-
-When an NFC tag is detected, the ononfound event fires with an event object containing the NDEF message from the tag. The message property contains an array of NDEF records, each representing a piece of data stored on the tag. You can iterate through these records to extract the information you need.
-
-NDEF records can contain different types of data. The most common types are text records, URL records, and custom MIME type records. When reading records, you should check the recordType property to determine how to parse the data. For text records, you can decode the data using the TextDecoder API, while URL records contain properly formatted web addresses.
-
-## Understanding NDEF Messages and Records
-
-NDEF (NFC Data Exchange Format) is the standardized format used for storing and exchanging data on NFC tags. Understanding how NDEF messages are structured is essential for effectively working with the Web NFC API.
-
-An NDEF message consists of one or more NDEF records. Each record contains a payload with the actual data and metadata that describes the data type. The recordType field indicates what kind of data the record contains, such as "text" for plain text, "url" for URLs, or a custom MIME type for application-specific data.
-
-Text records follow a specific encoding pattern where the first byte indicates the language code length, followed by the language code, and then the actual text content. When parsing text records, you need to account for this structure:
-
-```javascript
-function decodeTextRecord(bytes) {
-  const decoder = new TextDecoder('utf-8');
-  const languageCodeLength = bytes[0] & 0x3f;
-  const languageCode = decoder.decode(bytes.slice(1, 1 + languageCodeLength));
-  const text = decoder.decode(bytes.slice(1 + languageCodeLength));
-  return { languageCode, text };
 }
 ```
 
-URL records store web addresses in a compact format where certain prefixes are encoded as single bytes to save space on the tag. For example, "https://" might be represented by a special prefix byte rather than being stored as full text.
+## Writing Data to NFC Tags
 
-For more complex applications, you can store custom data in NFC tags using MIME type records. These records specify a content type (like "application/json" or "application/vnd.example+data") that your application can interpret. This approach is particularly useful when building applications that need to exchange structured data between physical tags and your web application.
+Writing data to NFC tags is similar to reading, but requires additional permission and handling. The Web NFC API allows you to write NDEF messages to compatible NFC tags, enabling scenarios such as programming custom tags, updating information on rewritable tags, and creating interactive physical-digital experiences.
 
-## Writing to NFC Tags
-
-Writing data to NFC tags is equally important as reading them. Whether you are programming tags for product labeling, creating interactive exhibits, or setting up smart home controls, the ability to write information to tags expands the possibilities of what you can build.
-
-To write to an NFC tag, you use the write() method of the NDEFReader object. This method accepts an NDEF message (an array of records) that will be written to the tag when it is brought close to the device. Here is how you can write a simple text record to a tag:
+To write data, you use the write method on the NDEFReader instance. The method takes an NDEFMessage object that defines the records you want to write to the tag. Here is a basic example of writing a text record to an NFC tag:
 
 ```javascript
-const ndef = new NDEFReader();
-
-await ndef.write({
-  records: [
-    {
-      recordType: 'text',
-      data: 'Hello, NFC World!'
-    }
-  ]
-});
-```
-
-When the write() method is called, Chrome will prompt the user to tap an NFC tag to write to. This user interaction is required for security reasons—websites cannot silently write to tags without the user's knowledge. The user must physically tap their Android device against an NFC tag to complete the write operation.
-
-You can write multiple records in a single write operation, which is useful for storing different types of information on the same tag. For example, you might write both a URL record (for quick web access) and a text record (for human-readable information):
-
-```javascript
-await ndef.write({
-  records: [
-    {
-      recordType: 'url',
-      data: 'https://zovo.one'
-    },
-    {
-      recordType: 'text',
-      data: 'Visit Zovo for more Chrome tips!'
-    }
-  ]
-});
-```
-
-It is important to note that not all NFC tags are writable. Some tags come pre-programmed and read-only, while others can be written only a limited number of times. Additionally, different tag types have different storage capacities, so you should plan your data storage accordingly.
-
-## Mobile Support and Practical Considerations
-
-The Web NFC API is designed primarily for mobile web use, which brings both opportunities and challenges. Understanding the mobile context is crucial for building successful NFC-enabled web applications.
-
-Mobile support for Web NFC is currently limited to Android devices running Chrome 89 or later. This limitation significantly impacts the potential audience for your NFC-enabled web applications. However, Android has a large market share globally, so this still represents a substantial user base. Users on iOS devices cannot use the Web NFC API directly in Safari, though they might use dedicated applications for NFC interactions.
-
-When designing NFC interactions for mobile web, you should consider the physical user experience. Holding a phone against an NFC tag requires a specific gesture and proximity that differs from typical touch interactions. The tags should be placed in accessible locations, and the web application should provide clear visual and haptic feedback when a tag is detected or written successfully.
-
-Battery consumption is another consideration for NFC-enabled mobile web applications. NFC operations consume power, though relatively little compared to other wireless technologies. However, if your application requires frequent NFC scanning, you should be mindful of the impact on battery life.
-
-## Error Handling and Permissions
-
-Robust error handling is essential when working with the Web NFC API. Various things can go wrong during NFC operations, including hardware issues, permission denials, and tag format incompatibilities. Your application should handle these gracefully to provide a good user experience.
-
-Permission handling is particularly important. When you first attempt to scan or write to NFC tags, Chrome will display a permission prompt asking the user to allow or deny NFC access for your website. Users may deny this permission, and your application should handle this scenario gracefully. Additionally, users can revoke NFC permissions at any time through Chrome's site settings.
-
-Here is an example of how to handle permissions and errors:
-
-```javascript
-try {
+async function writeToTag() {
   const ndef = new NDEFReader();
-  await ndef.scan();
-} catch (error) {
-  if (error.name === 'NotAllowedError') {
-    console.log('NFC permission was denied by the user');
-  } else if (error.name === 'NotSupportedError') {
-    console.log('NFC is not supported on this device');
-  } else {
-    console.log('NFC scan failed:', error.message);
+  
+  try {
+    await ndef.write({
+      records: [
+        {
+          recordType: 'text',
+          encoding: 'utf-8',
+          payload: 'Hello from Web NFC!'
+        }
+      ]
+    });
+    console.log('Data written successfully!');
+  } catch (error) {
+    console.error('Write failed:', error);
   }
 }
 ```
 
-You should also handle errors that occur during tag detection. For example, if a tag is removed too quickly during a write operation, the write may fail. Similarly, if a tag is incompatible with the NDEF format, reading or writing may not work as expected.
+You can write multiple records in a single write operation, which is useful for storing different types of information or creating tags that open specific URLs with additional data. For example, you might write a URL record followed by a text record containing a description.
 
-## Real-World Applications and Use Cases
+It is important to note that not all NFC tags are writable. Some tags are read-only, typically those that come pre-programmed with specific data. Additionally, some tags have limited write cycles, so you should design your application to handle write failures gracefully. Always inform users when a write operation fails and provide guidance on using a different tag if necessary.
 
-The Web NFC API enables numerous practical applications across various industries. Understanding these use cases can inspire your own implementations and help you design effective NFC-enabled experiences.
+When writing URLs, you can use the 'url' record type for a more efficient encoding:
 
-In retail and product management, NFC tags can store product information, pricing data, or links to detailed product pages. A customer could tap a product tag with their phone to see reviews, compare prices, or access promotional content. This technology bridges the gap between physical products and digital information.
+```javascript
+async function writeURL(url) {
+  const ndef = new NDEFReader();
+  
+  try {
+    await ndef.write({
+      records: [
+        {
+          recordType: 'url',
+          payload: url
+        }
+      ]
+    });
+    console.log('URL written successfully!');
+  } catch (error) {
+    console.error('Failed to write URL:', error);
+  }
+}
+```
 
-In museums and exhibitions, NFC tags can provide additional context about exhibits. Visitors can tap tags next to artwork or artifacts to access audio guides, detailed descriptions, or related multimedia content. This approach enhances the visitor experience without requiring them to download a dedicated application.
+## Mobile Support and Platform Considerations
 
-For personal organization, NFC tags can automate routine tasks. You could program tags to trigger specific actions when scanned, such as connecting to WiFi networks, setting alarm times, or opening frequently used applications. Imagine placing an NFC tag by your bed that, when tapped in the morning, automatically opens your preferred news app and starts your daily playlist.
+Mobile support is a critical consideration when implementing Web NFC functionality. The Chrome Web NFC API is primarily designed for mobile devices, as these are the primary platforms that have NFC hardware built in. Understanding the mobile landscape will help you design better experiences for your users.
 
-In healthcare and accessibility contexts, NFC tags can provide important information for people with visual impairments. Tags on medication bottles, for example, could be scanned to announce dosage instructions or warnings through the phone's text-to-speech functionality.
+As mentioned earlier, the API works on Chrome for Android devices. However, not all Android devices have NFC hardware, and the availability of NFC can vary significantly across different device models and manufacturers. Your application should implement feature detection and provide appropriate feedback to users whose devices do not support NFC.
 
-## Performance Optimization and Best Practices
+On iOS devices, the situation is more complex. Apple's Safari browser does not currently support the Web NFC API, and there is no official word on when or if it will be added. This means that iOS users cannot access NFC functionality through web applications at this time. If you need to support iOS users, you will need to consider alternative approaches, such as using native applications or waiting for future browser updates.
 
-When implementing the Web NFC API, following best practices ensures optimal performance and user experience. These considerations become especially important if you are building applications that handle high volumes of NFC interactions or operate in demanding environments.
+For the best user experience on mobile devices, consider the following best practices. First, provide clear instructions to users on how to position their device near an NFC tag, as the optimal position can vary by device. Second, implement visual or audio feedback when a tag is successfully read or written to, since users may not be looking at the screen during the interaction. Third, handle errors gracefully and provide actionable guidance when NFC operations fail.
 
-One key practice is to minimize the amount of data you write to NFC tags. Smaller payloads write faster and are more reliable across different tag types. If you need to store large amounts of data, consider using a URL on the tag that points to the full data online rather than storing everything directly on the tag.
+## Security and Privacy Considerations
 
-You should also implement proper state management in your application. NFC scanning can be resource-intensive, and you should ensure that scanning is stopped when it is no longer needed. Use the abort() method to cancel ongoing operations when users navigate away from the NFC functionality of your application.
+Security and privacy are paramount when working with any technology that interacts with physical objects or transmits data. The Web NFC API includes several security measures to protect users, but developers must also follow best practices to ensure safe implementations.
 
-For applications that combine NFC with other Chrome features, consider how they interact. For instance, if you are building an application that uses **Tab Suspender Pro** concepts for managing browser tabs, you might think about how NFC interactions could complement tab management—perhaps scanning a tag could restore a specific set of tabs or trigger a particular workflow.
+The permission model requires explicit user consent before any NFC operation can occur. Users must grant permission through a prompt, and they can revoke this permission at any time through browser settings. This ensures that websites cannot silently scan for or interact with NFC tags without the user's knowledge.
 
-Testing is crucial for NFC applications because NFC behavior can vary across different Android devices and tag types. Test your implementation with various tag brands and formats to ensure broad compatibility. Pay special attention to the user experience during scanning and writing, as these are the moments when users most directly interact with your NFC functionality.
+From a developer perspective, you should only request NFC permission when it is actually needed for your application's functionality. Avoid requesting permission on page load or as part of a generic initialization process. Instead, request permission in response to a user action, such as clicking a button to start scanning or writing.
 
-## Security Considerations
+Additionally, be thoughtful about the data you store on NFC tags. Avoid writing sensitive personal information to tags that might be easily accessible to others. Remember that NFC tags are physical objects that can be read by any compatible device, not just your application.
 
-Security is an important aspect of any NFC implementation. While NFC has limited range, which provides some inherent security, you should still follow best practices to protect user data and prevent malicious use.
+## A Practical Tip for Browser Performance
 
-Always serve your NFC-enabled web application over HTTPS. This ensures that communication between the browser and your server is encrypted and that users can trust that they are interacting with your legitimate application. The Web NFC API will not function on HTTP sites except for localhost development.
+When building web applications that interact with hardware features like NFC, it is important to consider overall browser performance. NFC operations are just one part of what your application might be doing, and you want to ensure that your app remains responsive and efficient.
 
-Be cautious about the data you write to NFC tags, especially if those tags might be accessible to the public. Avoid storing sensitive information such as personal identifiers, authentication tokens, or private customer data on NFC tags that could be scanned by anyone.
+If you find that your Chrome browser is running slowly or consuming excessive memory while developing NFC-enabled applications, consider using tools that help manage browser resource usage. **Tab Suspender Pro** is a Chrome extension that can automatically suspend tabs you are not actively using, freeing up memory and CPU resources. This can be particularly helpful when you have multiple development tabs open or are testing NFC functionality alongside other browser activities.
 
-When reading data from NFC tags, validate and sanitize the data before using it in your application. NFC tags could potentially be programmed with malicious content, and your application should treat all tag data as untrusted input. This is particularly important if your application uses tag data to construct URLs or execute other potentially dangerous operations.
+Using tab management tools like **Tab Suspender Pro** can help you maintain a smoother development experience, especially when working with APIs that interact with device hardware. It allows you to focus on testing your NFC functionality without worrying about other tabs consuming resources in the background.
 
-## Conclusion
+## Real-World Use Cases for Web NFC
 
-The Chrome Web NFC API represents a significant advancement in web capabilities, bringing the power of NFC technology to mobile web browsers. Through this API, developers can create innovative experiences that connect physical objects with digital content, enabling applications for retail, education, personal organization, and many other domains.
+The Chrome Web NFC API enables a wide range of practical applications across different industries. Understanding these use cases can help you brainstorm how to apply this technology in your own projects.
 
-Understanding NDEF messages and records is fundamental to working effectively with NFC tags. Whether you are reading existing tags or programming new ones, the structure of your data directly impacts compatibility and user experience. The API's permission model ensures that users remain in control of their NFC interactions, which is essential for building trust in NFC-enabled web applications.
+One of the most common use cases is inventory management and asset tracking. Businesses can label items with NFC tags and use web applications to quickly scan and update inventory information. This is particularly useful for small businesses that want a low-cost solution without investing in specialized scanning equipment.
 
-While mobile support is currently limited to Android devices running Chrome and Chromium-based browsers, this represents a substantial and growing market. As web standards evolve and more browsers adopt the Web NFC API, the potential audience for NFC-enabled web applications will continue to expand.
+Another popular application is interactive marketing and customer engagement. Companies can place NFC tags on products, posters, or retail displays that customers can tap to access additional content, special offers, or product information. This creates a seamless bridge between physical and digital experiences.
 
-By following the best practices outlined in this guide—proper error handling, performance optimization, security considerations, and thorough testing—you can build robust and reliable NFC-enabled web experiences. Whether you are creating a simple product information system or a complex interactive installation, the Web NFC API provides the tools you need to bridge the physical and digital worlds directly from the browser.
+Educational institutions can use Web NFC for attendance tracking, library management, and interactive learning experiences. Healthcare providers can implement patient identification and equipment tracking systems. The possibilities are extensive and continue to expand as developers discover new applications.
 
----
+## Getting Started with Your First Project
+
+Now that you have a comprehensive understanding of the Chrome Web NFC API, you are ready to start building your first NFC-enabled web application. Begin with a simple project that focuses on reading NFC tags, then gradually add more advanced features like writing data and handling different record types.
+
+Make sure you have a Chrome browser on an Android device for testing, as this is currently the only supported platform. Gather some NFC tags to experiment with, which you can purchase online or at electronics stores relatively inexpensively. Start by building a basic tag reader that displays information from scanned tags, then expand from there.
+
+Remember to test thoroughly on actual devices, as the Web NFC API behavior can vary between different Android devices and Chrome versions. Pay attention to user experience considerations like feedback during scanning and error handling. With practice, you will be able to create sophisticated NFC-enabled web applications that deliver unique value to your users.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

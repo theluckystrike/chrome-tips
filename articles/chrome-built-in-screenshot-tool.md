@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Built-In Screenshot Tool"
 description: "Master Chrome's built-in screenshot capabilities including full page capture, area selection, node screenshots via DevTools, and advanced capture techniques. Learn how to take screenshots without extensions."
 date: 2026-03-11
@@ -135,3 +135,7 @@ Whether you're a developer documenting code, a designer gathering inspiration, a
 By mastering these built-in capabilities, you streamline your work and reduce dependency on additional software. Combined with thoughtful browser management using extensions like Tab Suspender Pro for optimal performance, you create a more efficient browsing experience tailored to your needs.
 
 Explore these features, experiment with different capture methods, and discover how Chrome's native screenshot tools can enhance your productivity and simplify your web content capture workflow.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

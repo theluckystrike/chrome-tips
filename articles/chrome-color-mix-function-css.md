@@ -53,3 +53,5 @@ If you find yourself opening many tabs while working on web design projects, whe
 Extensions like Tab Suspender Pro can help by automatically suspending tabs you are not currently using, freeing up memory and keeping your browser running smoothly. This is particularly useful when you have research tabs open alongside your development environment. The extension suite from Zovo offers similar tools designed to help you work more efficiently across multiple projects.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

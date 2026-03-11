@@ -204,3 +204,7 @@ The desktop capture API requires specific permissions in your extension manifest
 The Chrome Screen Capture API provides a powerful foundation for building screen capture applications that work directly in the browser without additional software. By understanding the fundamentals of `getDisplayMedia()`, the different capture modes, constraints, and best practices outlined in this guide, you can create professional-grade applications for video conferencing, screencasting, remote support, and countless other use cases.
 
 Remember to prioritize user privacy and transparency, handle all edge cases gracefully, and test thoroughly across different configurations. With these principles in mind, you're well-equipped to implement robust screen capture functionality that serves your users effectively.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -130,7 +130,7 @@ This function demonstrates the basic pattern for writing to NFC tags. The URL re
 
 When implementing write functionality, always provide clear user guidance throughout the process. Users need to understand when to hold their device near the tag and when the operation is complete. Visual feedback, such as progress indicators or success messages, significantly improves the user experience and reduces frustration when working with NFC technology.
 
-## Working with NDEF Messages
+Here is how you can check for Web NFC support in your JavaScript code:
 
 NDEF messages form the foundation of all NFC data exchange, and understanding their structure is essential for effective Web NFC implementation. An NDEF message can contain multiple records, each serving a specific purpose and containing different types of data. This modular structure allows NFC tags to store diverse information in a standardized format that any compatible reader can interpret.
 
@@ -188,7 +188,7 @@ Battery optimization settings can sometimes interfere with NFC functionality on 
 
 Screen orientation and device position affect NFC scanning success. NFC antennas are typically located near the rear camera or center of the device, and users need to position this area near the NFC tag for reliable scanning. Providing visual guides in your application helps users understand the correct positioning, reducing failed scan attempts and improving overall satisfaction with your NFC features.
 
-## Practical Applications and Use Cases
+## Writing to NFC Tags
 
 The Web NFC API enables numerous practical applications across various industries and use cases. Retail and inventory management represents one of the most compelling applications, where NFC tags can store product information, prices, or inventory status. Workers can scan tags to quickly access product details or update inventory counts without manual data entry, dramatically improving operational efficiency.
 
@@ -218,6 +218,6 @@ Implementing Web NFC successfully requires understanding the technical requireme
 
 The future of Web NFC looks promising, with ongoing standardization efforts and expanding browser support. While current limitations exist, particularly regarding iOS support, the technology provides compelling functionality for Android users today. By building NFC-enabled experiences now, you're positioning your applications at the forefront of web technology innovation, ready to serve users as the ecosystem matures and expands.
 
----
+When implementing Web NFC in your applications, there are several best practices you should follow to ensure a smooth user experience. First, always request permission before scanning for tags. While Chrome does not require explicit permission for scanning, it is good practice to inform users that your site uses NFC and to only start scanning when the user explicitly chooses to do so.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

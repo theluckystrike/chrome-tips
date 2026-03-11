@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Startup Pages Configuration"
 description: "Learn how to configure Chrome startup pages for enhanced productivity. Master the 'Continue where you left off' option, set specific pages, and customize your new tab experience."
 date: 2026-01-20

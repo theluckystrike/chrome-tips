@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Built-In Screenshot Tool"
 description: "Discover Chrome's hidden built-in screenshot capabilities including full page capture, area selection, node screenshots, and DevTools capture methods."
 date: 2026-01-15

@@ -159,3 +159,5 @@ Choosing between Chrome and Edge depends on your specific needs and priorities.
 The good news is that both browsers are excellent in 2026. Either choice provides a solid browsing experience, and you can always switch if your needs change. Many users find success using both browsers for different purposes—Chrome for development or specific extensions, Edge for daily browsing and productivity.
 
 The browser war may never have a definitive winner, but in 2026, users are the real beneficiaries of the competition between these two capable platforms.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

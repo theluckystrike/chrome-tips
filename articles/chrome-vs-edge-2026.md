@@ -142,3 +142,7 @@ For Chrome users concerned about memory usage with many tabs, combining Chrome w
 ---
 
 The best browser is ultimately the one that fits your workflow and helps you be more productive. With the comprehensive features, AI integration, and performance improvements in both Chrome and Edge in 2026, you can't go wrong with either choice.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

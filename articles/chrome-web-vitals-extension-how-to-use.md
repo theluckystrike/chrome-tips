@@ -62,4 +62,6 @@ Use this information to build a mental map of which websites respect your time a
 
 Remember that you have options when a site performs poorly. You can look for alternatives, try to work around the issues, or simply accept that some sites are slow and plan accordingly. The web vitals extension gives you the information you need to make these choices with confidence.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

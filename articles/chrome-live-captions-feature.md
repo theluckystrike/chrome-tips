@@ -121,3 +121,7 @@ Google continues to invest in improving Live Captions, with updates bringing new
 As machine learning models advance, we can expect Live Captions to become increasingly accurate and responsive. Integration with other Google services may provide additional features like automatic translation of captions, allowing users to watch content in languages they don't speak.
 
 For now, Chrome Live Captions provides an invaluable accessibility tool that makes the web more inclusive. By understanding how to enable and customize this feature, you can ensure better access to content regardless of your hearing ability or viewing environment. Whether you're using it for accessibility needs, language learning, or simply convenience, Live Captions represents Chrome's commitment to making the internet accessible to everyone.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

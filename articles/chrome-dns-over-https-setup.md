@@ -1,152 +1,107 @@
 ---
 layout: default
 title: "Chrome DNS Over HTTPS Setup Guide"
-description: "Learn how to enable and configure DNS Over HTTPS (DoH) in Google Chrome for enhanced privacy, security, and faster browsing. Complete setup guide with provider recommendations."
-date: 2025-01-15
-categories: [privacy, security, chrome]
-tags: [dns-over-https, doh, chrome-security, privacy-protection, secure-dns, dns-privacy]
+description: "Learn how to set up DNS Over HTTPS (DoH) in Chrome for enhanced privacy and security. Discover secure DNS providers, custom DNS configuration, and the privacy benefits of encrypted DNS queries."
+date: 2026-01-20
+categories: [security, privacy, chrome]
+tags: [dns-over-https, chrome-dns, privacy, security, encrypted-dns]
 author: theluckystrike
 ---
 
 # Chrome DNS Over HTTPS Setup Guide
 
-In an era where online privacy concerns continue to grow, understanding and implementing DNS Over HTTPS (DoH) has become essential for anyone who wants to browse the web more securely. This comprehensive guide will walk you through everything you need to know about setting up DNS Over HTTPS in Google Chrome, from understanding what it is to configuring custom providers that best suit your needs.
+Every time you type a website address into your browser, your computer needs to translate that human-readable name into a numerical IP address. This process is called DNS (Domain Name System) resolution, and it happens behind the scenes every time you visit a website. By default, these DNS queries are sent in plain text, meaning anyone can see which websites you are trying to visit. This is where DNS Over HTTPS (DoH) comes in, offering a more secure and private way to handle your web browsing. In this guide, I will walk you through everything you need to know about setting up DNS Over HTTPS in Chrome, from understanding what it does to choosing the right provider for your needs.
 
-## What is DNS Over HTTPS and Why Should You Care
+## Understanding DNS and Why It Matters
 
-Every time you visit a website, your browser needs to translate the human-readable domain name (like example.com) into a numerical IP address that computers can understand. This process is called DNS lookup, and traditionally it has been performed in plain text over an unsecured connection. This means that anyone monitoring your internet traffic—including your Internet Service Provider (ISP), network administrators, or potentially malicious actors—can see which websites you are attempting to visit.
+To appreciate the benefits of DNS Over HTTPS, it helps to understand how traditional DNS works. When you type "example.com" into your browser, your computer does not inherently know where "example.com" is located. It sends a query to a DNS server, typically provided by your internet service provider (ISP), asking for the IP address associated with that domain name. The DNS server responds with the appropriate IP address, and your browser uses that address to connect to the website.
 
-DNS Over HTTPS represents a significant advancement in online privacy and security. Instead of sending DNS queries in plain text, DoH encrypts these requests using the same HTTPS protocol that secures websites. This means that when you enable DNS Over HTTPS in Chrome, your DNS queries become indistinguishable from regular web traffic, providing both privacy benefits and protection against certain types of cyber attacks.
+The problem with this traditional approach is that these DNS queries are sent in plain text. This means that anyone monitoring your network traffic can see which domains you are attempting to access. Your ISP can see this information, as can any other party on your network path. This is particularly concerning from a privacy standpoint because it reveals your entire browsing history, even if the actual content of your visits is encrypted through HTTPS.
 
-The benefits of using DNS Over HTTPS extend beyond just privacy. Because DoH uses the HTTPS protocol, it benefits from the same reliability and performance optimizations that websites use, including HTTP/2 and HTTP/3 support. Many DNS providers that offer DoH also operate faster DNS servers than traditional ISPs, which can result in noticeably faster page load times.
+Beyond privacy concerns, traditional DNS is also vulnerable to man-in-the-middle attacks, where an attacker could redirect your traffic to malicious websites by providing fake DNS responses. This is known as DNS spoofing or DNS hijacking, and it can be used for phishing attacks, malware distribution, or censorship.
 
-Another compelling reason to enable DNS Over HTTPS is protection against man-in-the-middle attacks. In a traditional DNS setup, an attacker who can intercept your network traffic could redirect you to malicious websites by providing false DNS responses. With DoH, the encrypted connection makes it virtually impossible for attackers to tamper with your DNS queries without being detected.
+DNS Over HTTPS addresses these problems by encrypting your DNS queries using the same HTTPS protocol that secures your web traffic. This means that instead of sending plain text DNS requests to your ISP's server, your browser sends encrypted requests to a DoH-compatible DNS resolver. The encryption prevents anyone from intercepting and reading your DNS queries, while the use of HTTPS ensures that the queries look like regular web traffic.
 
-## Understanding the Security Benefits
+## The Privacy Benefits of Encrypted DNS
 
-When you enable DNS Over HTTPS in Chrome, you are essentially creating a secure tunnel for all your DNS queries. This tunnel encrypts your requests so that only your browser and the DNS server can understand what website you are trying to access. No one else—not even your ISP—can see which domains you are resolving.
+The primary reason most users enable DNS Over HTTPS is the significant privacy improvement it provides. When you use traditional DNS, your ISP has a complete log of every domain you visit. This information can be used for various purposes, including building marketing profiles, throttling certain types of traffic, or in some jurisdictions, being shared with government agencies.
 
-This security improvement is particularly important when using public Wi-Fi networks at coffee shops, airports, hotels, or any other location where you do not control the network infrastructure. On public networks, malicious actors could potentially intercept your unencrypted DNS queries and redirect you to phishing websites that mimic legitimate services. DNS Over HTTPS protects you from this specific threat vector by ensuring that all your DNS queries are encrypted end-to-end.
+By encrypting your DNS queries with DoH, you effectively hide your browsing history from your ISP. Since the queries are sent over HTTPS, they are indistinguishable from regular web traffic. Your ISP can see that you are connecting to a DoH provider's server, but they cannot see which domains you are actually querying. This creates a substantial barrier between your browsing activity and your ISP's visibility.
 
-From a privacy perspective, DNS Over HTTPS prevents your ISP from building a complete log of your browsing history. While your ISP can still see that you are connecting to certain IP addresses when you visit HTTPS websites, they lose the ability to easily correlate those connections with specific domain names. This adds a meaningful layer of privacy to your overall browsing experience.
+The privacy benefits extend beyond just hiding your activity from your ISP. On public WiFi networks, such as those in coffee shops, airports, or hotels, traditional DNS queries can be intercepted by anyone else on the same network. This is particularly dangerous because it could allow an attacker to see which websites you are visiting and potentially inject malicious content into unencrypted connections. With DoH, your DNS queries are encrypted end-to-end, making it impossible for other users on the same network to monitor your DNS activity.
 
-For users who are concerned about government surveillance or living in countries with restrictive internet policies, DNS Over HTTPS can provide additional protection against network-level filtering and monitoring. By encrypting DNS queries, you make it significantly more difficult for anyone to monitor which websites you are attempting to access.
+Another privacy advantage of DNS Over HTTPS is that it can help prevent DNS-based tracking. Some advertising networks and data brokers use DNS queries to build profiles of users' browsing habits. By using encrypted DNS, you make it much more difficult for these entities to track your activity through DNS logging.
 
-## Selecting the Right DNS Provider
+It is important to note that while DoH significantly improves your privacy, it does not make you completely anonymous. The DNS resolver you choose will still know which domains you are querying, and if you are logged into services associated with those domains (such as Google or Facebook), your activity can still be linked to your identity. However, for most users, the privacy improvements provided by DoH are substantial and worthwhile.
 
-One of the most important decisions you will make when configuring DNS Over HTTPS is choosing which provider to use. Each DNS provider offers different features, policies, and performance characteristics. Understanding these differences will help you make an informed choice that aligns with your priorities.
+## Choosing a DNS Provider
 
-### Cloudflare
+One of the most important decisions you will make when setting up DNS Over HTTPS is choosing which DNS provider to use. Your DNS provider will receive your encrypted DNS queries and return the corresponding IP addresses. Different providers have different policies regarding data retention, logging, and additional features.
 
-Cloudflare is one of the most popular DNS Over HTTPS providers, and for good reason. Their 1.1.1.1 DNS service is known for being extremely fast, often outperforming ISP-provided DNS servers. Cloudflare has a strong commitment to privacy and was one of the first major companies to offer DNS Over HTTPS to the public.
+Google DNS is one of the most popular DoH providers, and for good reason. Google's DNS service is incredibly fast and reliable, with servers located around the world. Google has committed to not using DNS query data for advertising or tracking purposes, and they do not correlate DNS data with other Google services. However, some privacy-conscious users may be uncomfortable with Google handling their DNS queries due to the company's extensive data collection practices in other areas.
 
-Their privacy policy explicitly states that they do not sell user data and that they do not log IP addresses for more than 24 hours. Cloudflare also offers a separate 1.1.1.1 for Families service that includes malware blocking and content filtering options, which is great for parents who want to add an extra layer of protection for their home network.
+Cloudflare is another excellent choice for DNS Over HTTPS. Cloudflare 1.1.1.1 is known for its strong commitment to privacy. They have a strict policy of not logging IP addresses and have implemented measures to ensure that DNS query data is periodically deleted. Cloudflare also offers 1.1.1.1 for Families, which includes optional malware blocking and adult content filtering. For users who prioritize privacy, Cloudflare is often the recommended choice.
 
-### Google
+Quad9 is a security-focused DNS provider that blocks domains known to be associated with malware and phishing. While Quad9 does not offer the same level of speed as Google or Cloudflare in all locations, it provides an additional layer of security by preventing your computer from connecting to known malicious domains. Quad9 is also a non-profit organization, which may appeal to users who prefer not to support commercial DNS providers.
 
-Google Public DNS is another excellent option for DNS Over HTTPS. As one of the largest companies on the internet, Google operates DNS servers that are optimized for speed and reliability. If you are already using other Google services, their DNS service integrates seamlessly and offers consistent performance.
+For users who want maximum privacy, there are smaller DNS providers that operate with a stronger focus on anonymity. These providers typically log less information and may offer features like onion routing orTor integration. However, these services may not be as fast or reliable as the larger providers, and they may have fewer server locations.
 
-Google's DNS service is known for its reliability and global coverage. Their servers are distributed worldwide, which typically results in low latency regardless of your geographic location. However, some privacy-conscious users may prefer providers with more stringent privacy policies, as Google's primary business model involves data collection.
+When choosing a DNS provider, consider what matters most to you. If speed is your top priority, Google or Cloudflare are excellent choices. If privacy is your main concern, look for providers with clear no-logging policies. If you want additional security features, consider Quad9 or providers that offer filtering options.
 
-### Quad9
+## Setting Up DNS Over HTTPS in Chrome
 
-Quad9 is a security-focused DNS provider that prioritizes blocking malicious domains. Founded by the Swiss-based Quad9 Foundation, this service automatically blocks connections to known malicious websites, phishing domains, and other threats. This makes it an excellent choice for users who want an additional layer of security when browsing.
+Chrome has built-in support for DNS Over HTTPS, making it relatively straightforward to enable. The exact steps may vary slightly depending on your operating system and the version of Chrome you are using, but the general process is the same.
 
-Quad9 does not log personal IP addresses and is operated as a non-profit organization, which means there is no commercial motive for collecting or monetizing user data. If security is your primary concern, Quad9 offers a compelling combination of privacy and protection.
+First, open Chrome and click on the three-dot menu in the top-right corner of the browser window. From the dropdown menu, select "Settings." This will open a new tab with Chrome's settings interface. On the left side of the settings page, you will see a navigation menu. Click on "Privacy and security" to expand that section.
 
-### NextDNS
+Within the "Privacy and security" section, look for an option labeled "Security" or "Advanced." The exact wording depends on your Chrome version. In the security settings, you should find a toggle or checkbox labeled "Use Secure DNS" or "Enable DNS Over HTTPS." The wording may vary slightly between versions.
 
-NextDNS provides a unique approach by offering customizable DNS filtering. Users can create their own blocking lists, choose from pre-made blocklists for different categories (like ads, trackers, or adult content), and even set up custom allowlists for specific domains. This level of control is particularly appealing to users who want fine-grained control over their DNS filtering.
+When you enable DNS Over HTTPS, Chrome will typically offer you a choice between using the default provider (which is often the system DNS) or selecting a specific DoH provider. For the best experience and privacy, it is generally recommended to choose a specific provider rather than relying on the default. Chrome includes built-in support for several popular providers, including Google and Cloudflare, making it easy to select one without manually entering server addresses.
 
-NextDNS offers both free and paid tiers. The free tier provides reasonable usage limits, while the paid tier offers higher limits and additional features. Their analytics dashboard shows you exactly what is being blocked and where your DNS queries are going, giving you unprecedented visibility into your browsing activity.
+If you want to use a provider that is not listed by default, or if you want to use your own custom DNS server, look for an option to enter custom DNS servers. This is typically found in the "Advanced" section of the security settings. You will need to enter the DoH server addresses for your chosen provider, which can usually be found on the provider's website.
 
-### OpenDNS
+After enabling DoH and selecting your preferred provider, Chrome will immediately start using encrypted DNS queries. You can verify that DoH is working by visiting a website like "dns.google.com" or "1.1.1.1/help" which will display information about your DNS configuration. These sites can confirm that your DNS queries are being handled securely.
 
-OpenDNS, owned by Cisco, has been providing DNS services for over a decade. Their service includes optional content filtering that can block adult content, phishing sites, and other categories of potentially dangerous domains. OpenDNS offers both family-oriented and business-focused solutions.
+## Custom DNS Configuration for Advanced Users
 
-For home users, OpenDNS FamilyShield provides pre-configured DNS servers that automatically block adult content and other inappropriate material. This can be an easy way for parents to add an extra layer of protection without needing to configure individual devices.
+For users who want more control over their DNS configuration, Chrome also supports custom DNS settings through command-line flags or enterprise policies. This can be useful for testing different providers, using internal DNS servers, or implementing organization-specific configurations.
 
-## How to Enable DNS Over HTTPS in Chrome
+One way to configure custom DNS in Chrome is by using the "DnsOverHttpsMode" and "DnsOverHttpsTemplates" flags. To access these flags, type "chrome://flags" in your address bar and press Enter. In the search box, type "DNS" to filter the available flags. You will see options to configure the DoH mode (whether to use it always, automatically, or disabled) and to specify custom DoH server templates.
 
-Enabling DNS Over HTTPS in Google Chrome is a straightforward process that takes only a few minutes. Follow these steps to configure your browser:
+The "DnsOverHttpsTemplates" flag allows you to enter a custom DoH server URL. This is useful if you have your own DNS server that supports DoH, or if you want to use a provider that is not included in Chrome's default list. The URL should be in the format "https://your-dns-server.com/dns-query" or similar, depending on your provider's implementation.
 
-1. Open Google Chrome on your computer
-2. Click the three-dot menu icon in the top-right corner of the browser window
-3. Select "Settings" from the dropdown menu
-4. In the left sidebar, click on "Privacy and security"
-5. Scroll down and click on "Security"
-6. Look for the "Use secure DNS" section
-7. Select "With Custom" from the dropdown menu
-8. Choose your preferred DNS provider from the list or enter a custom provider URL
+For organizations that need to manage DNS settings across multiple computers, Chrome supports DNS configuration through enterprise policies. This allows administrators to set mandatory DoH configurations, specify which providers should be used, and prevent users from changing these settings. If you are configuring Chrome in an enterprise environment, check the Chrome Enterprise documentation for details on setting up DNS policies.
 
-Chrome provides several built-in options including Cloudflare, Google, and Quad9. If you want to use a different provider, you can select "Custom" and enter the DNS Over HTTPS URL for your preferred provider.
-
-For advanced users who want to use providers not listed in Chrome's settings, you can enter the DoH URI directly. Most DNS providers publish their DoH endpoints on their websites, typically in a format like `https://dns.example.com/dns-query`.
-
-## Configuring Custom DNS Providers
-
-If the built-in options do not meet your needs, you can configure Chrome to use custom DNS Over HTTPS providers. This gives you the flexibility to use any DNS provider that supports the DoH protocol.
-
-To add a custom provider, select "Custom" in the secure DNS settings and enter the provider's DoH URI. Make sure you enter the complete URL, including the HTTPS prefix. Some providers offer multiple endpoints optimized for different geographic regions, so you may want to test a few to find the one that offers the best performance for your location.
-
-When selecting a custom provider, ensure that they support the DoH protocol and that you trust their privacy policy. Not all DNS providers offer encrypted DNS services, so you will need to verify that your chosen provider supports DoH before configuring Chrome.
-
-It is worth noting that some corporate networks and organizations may block certain DNS providers or DoH connections. If you encounter issues after enabling DNS Over HTTPS, it may be due to network restrictions. In such cases, you may need to disable DNS Over HTTPS or use a provider that is not blocked by your network administrator.
-
-## Performance Considerations
-
-One common concern about DNS Over HTTPS is whether it adds latency to your browsing experience. While it is true that encrypting DNS queries introduces some overhead, modern DNS providers have optimized their systems to minimize this impact. In many cases, the performance of DoH is comparable to or even better than traditional DNS.
-
-The key to maintaining good performance is choosing a DNS provider with servers geographically close to you. Most major DNS providers have servers distributed across multiple regions, and Chrome may automatically select the fastest server. If you notice slower performance after enabling DoH, try switching to a different provider or selecting a provider with servers closer to your location.
-
-Another performance consideration is the initial connection time. When you first enable DNS Over HTTPS, Chrome needs to establish a secure connection to your chosen DNS provider. This happens quickly, but you may notice a brief delay when loading your first website after a browser restart. Subsequent DNS queries benefit from connection reuse, which makes the process much faster.
-
-For users who are particularly concerned about performance, there are tools available that can help you benchmark different DNS providers. Websites like dnsperf.com provide comparative data on DNS provider performance, allowing you to make an informed decision based on actual speed measurements.
+It is worth noting that while custom DNS configuration provides more flexibility, it also requires a better understanding of DNS and HTTPS. If you are not familiar with DNS concepts or are unsure about the configuration, it is safer to stick with the built-in DoH options in Chrome's settings.
 
 ## Troubleshooting Common Issues
 
-After enabling DNS Over HTTPS, you may encounter occasional issues. Understanding how to troubleshoot these problems will help you maintain a smooth browsing experience.
+While setting up DNS Over HTTPS is generally straightforward, you may encounter some issues. Understanding common problems and their solutions can help ensure a smooth experience.
 
-If websites are not loading correctly, first verify that DNS Over HTTPS is properly enabled in Chrome settings. Sometimes browser updates or extension conflicts can reset settings, so it is worth checking occasionally.
+One common issue is that some websites may not load properly when DoH is enabled. This can happen if the DNS resolver returns different results than your ISP's DNS, which might occur if the resolver has outdated information or if there are geographic restrictions. If you encounter this problem, try switching to a different DoH provider or temporarily disabling DoH to see if the issue resolves.
 
-If you are having trouble with a specific website, try temporarily disabling DNS Over HTTPS to see if the issue resolves. Some websites may have configurations that conflict with certain DNS providers. If the website works with traditional DNS but fails with DoH, you may need to use a different DNS provider or report the issue to the website operator.
+Another potential issue is reduced internet speed or increased latency. While DoH generally does not significantly impact performance, some DNS providers may be slower than others or may have servers that are far from your location. If you notice slower browsing speeds after enabling DoH, try a different provider or use the "Automatic" mode in Chrome, which will use DoH only when it is faster than the default DNS.
 
-Connection errors can also occur if your DNS provider's servers are experiencing problems. Most major providers have status pages that can help you determine if there is a known outage. If you suspect provider issues, switching to an alternative provider is usually the quickest solution.
+Some networks, particularly corporate or school networks, may block access to certain DoH providers or may require all DNS traffic to go through their own servers. If you are on such a network and cannot use DoH, you may need to disable it or use a provider that is allowed by your network administrator. Some organizations also implement "DNS over HTTPS" detection and may block or throttle DoH traffic.
 
-Browser extensions that modify network settings can sometimes interfere with DNS Over HTTPS. If you are experiencing issues after installing new extensions, try disabling them temporarily to see if that resolves the problem. Extensions related to ad blocking, VPN services, or network utilities are particularly likely to cause conflicts.
+If you experience persistent issues with DoH, make sure that your Chrome browser is up to date. Google regularly updates Chrome with improvements to DNS handling and security features. You can check for updates by clicking on the three-dot menu, selecting "Help," and then choosing "About Google Chrome."
 
-## Additional Privacy Measures
+## Enhancing Your Browser with Tab Suspender Pro
 
-While DNS Over HTTPS significantly improves your privacy and security, it is just one piece of a comprehensive privacy strategy. For maximum protection, consider combining DoH with other privacy-enhancing measures.
+While DNS Over HTTPS helps secure your connection at the network level, managing your browser's resource usage is another important aspect of maintaining a secure and efficient browsing experience. **Tab Suspender Pro** is a Chrome extension that can help you do just that.
 
-Using a VPN service can add an additional layer of privacy by encrypting all your internet traffic, not just DNS queries. When you use a VPN, your ISP cannot see which websites you visit or what you do online. However, it is important to choose a reputable VPN provider with a strong no-logging policy.
+**Tab Suspender Pro** automatically suspends tabs that you are not actively using, reducing memory usage and improving browser performance. This is particularly useful if you tend to keep many tabs open simultaneously, as each suspended tab consumes minimal resources until you click to restore it. By managing your tabs more efficiently, you can keep your browser running smoothly and reduce the risk of performance-related security issues.
 
-Browser extensions like uBlock Origin can block trackers and advertisements, reducing the amount of data collected about your browsing habits. Privacy-focused extensions like Privacy Badger can automatically identify and block tracking scripts.
+In addition to memory management, **Tab Suspender Pro** provides visibility into which tabs and extensions are active in your browser. This transparency can help you maintain better control over your browser environment and identify any extensions or tabs that may be using more resources than expected. Combined with the network-level security provided by DNS Over HTTPS, using tools like **Tab Suspender Pro** creates a more secure and efficient browsing experience.
 
-For users who want complete control over their browsing privacy, consider using browsers specifically designed for privacy, such as Firefox with Enhanced Tracking Protection or the Tor Browser. These browsers include additional features that protect against fingerprinting, block tracking scripts, and route your traffic through multiple relays.
+## Final Thoughts
 
-It is also worth mentioning browser extensions and productivity tools that help manage your tabs efficiently. Tools like Tab Suspender Pro can automatically suspend inactive tabs, reducing memory usage and improving browser performance. While Tab Suspender Pro is primarily designed for memory management, it also contributes to privacy by ensuring that tabs you are not actively viewing are not making unnecessary network requests.
+Enabling DNS Over HTTPS in Chrome is one of the most effective steps you can take to improve your online privacy and security. By encrypting your DNS queries, you prevent ISPs and other parties from monitoring your browsing activity, protect yourself from DNS-based attacks, and reduce the footprint of tracking in your web browsing.
 
-## Maintaining Your Security Settings
+The process of setting up DoH is straightforward, and Chrome makes it easy to get started with just a few clicks. Whether you choose Google for speed, Cloudflare for privacy, or another provider that fits your needs, you will immediately benefit from more secure DNS resolution.
 
-Enabling DNS Over HTTPS is not a set-it-and-forget-it configuration. Regular maintenance helps ensure that your security settings remain optimal as threats evolve and new features become available.
+Remember that while DoH is an important layer of protection, it is not a complete solution for online privacy. For comprehensive protection, combine DNS Over HTTPS with other privacy practices such as using a VPN, enabling two-factor authentication on important accounts, and being mindful of the information you share online.
 
-Keep Chrome updated to the latest version. Google regularly releases updates that include security improvements, bug fixes, and new features. Newer versions of Chrome may include additional DNS providers or improved security options.
-
-Periodically review your DNS provider's privacy policy and terms of service. Providers may update their policies, and you want to ensure that they still align with your privacy expectations. If a provider makes changes that you are uncomfortable with, switching to an alternative provider is straightforward.
-
-Consider testing different DNS providers periodically to ensure you are still getting the best performance. Internet infrastructure changes over time, and the provider that was fastest last year may not be the fastest today.
-
-Monitor your browser's security warnings. Chrome will warn you about potentially dangerous websites, compromised passwords, and other security issues. Pay attention to these warnings and take appropriate action to protect yourself.
-
-## Conclusion
-
-Enabling DNS Over HTTPS in Google Chrome is one of the simplest yet most effective steps you can take to improve your online privacy and security. By encrypting your DNS queries, you protect yourself from surveillance, man-in-the-middle attacks, and other threats that target the Domain Name System.
-
-The process takes only a few minutes, and the benefits are immediate. Whether you choose Cloudflare for speed, Quad9 for security, or a customizable provider like NextDNS for control, you are making a meaningful improvement to your digital security posture.
-
-Remember that DNS Over HTTPS is just one layer of a comprehensive privacy strategy. Combine it with other best practices like using strong, unique passwords, keeping your software updated, and being cautious about the information you share online. With these measures in place, you can browse the web with greater confidence and peace of mind.
-
-Take a few minutes today to enable DNS Over HTTPS in Chrome. Your future self will thank you for the added protection.
+By taking the time to configure DNS Over HTTPS and following the tips in this guide, you are making a meaningful investment in your digital privacy and security. Start today and enjoy a more private, secure browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

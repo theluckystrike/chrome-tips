@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Notification API Guide"
 description: "A comprehensive guide to the Chrome Notification API covering push notifications, permission requests, notification actions, badges, and implementation best practices."
 date: 2026-03-11

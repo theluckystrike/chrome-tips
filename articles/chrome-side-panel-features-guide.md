@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Side Panel Features Guide"
 description: "Master Chrome side panel features including reading list, bookmarks panel, search companion, and extensions. Learn how to maximize productivity with Chrome's built-in side panel tools."
 date: 2026-01-20

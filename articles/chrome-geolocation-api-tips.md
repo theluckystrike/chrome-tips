@@ -326,4 +326,4 @@ navigator.permissions.query({ name: 'geolocation' })
 
 This approach allows you to adapt your UI based on the current permission state without triggering the permission prompt. You can show or hide location-based features accordingly, providing a smoother user experience.
 
-For more Chrome tips and web development guidance, visit [zovo.one](https://zovo.one).
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

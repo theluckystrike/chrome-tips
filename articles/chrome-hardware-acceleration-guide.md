@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Hardware Acceleration Guide"
 description: "Learn how to enable and optimize Chrome hardware acceleration for better GPU performance, smoother video playback, and reduced CPU usage. Complete troubleshooting guide."
 date: 2026-01-15

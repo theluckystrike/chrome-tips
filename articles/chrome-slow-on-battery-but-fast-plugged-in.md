@@ -77,3 +77,7 @@ A failing battery can also cause your laptop to throttle performance more aggres
 Experiencing slow Chrome performance on battery but fast performance when plugged in is a common issue caused by power saving features that throttle your CPU and GPU. While you cannot completely disable these restrictions without sacrificing battery life, you can optimize Chrome and your system to minimize the performance impact.
 
 Start by adjusting your power profile to a balanced setting, disabling unnecessary Chrome features, and reducing the number of open tabs. These steps should help Chrome run more smoothly on battery power while still maintaining reasonable battery life. If you need maximum performance on the go, consider keeping your laptop plugged in when possible or using a more lightweight browser for basic browsing tasks.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

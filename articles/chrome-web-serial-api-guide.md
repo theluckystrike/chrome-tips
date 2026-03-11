@@ -198,6 +198,8 @@ State management is particularly important for serial applications. Your applica
 
 For applications that need to remember user preferences, you can use the storage API to persist information about preferred ports and settings. This allows your application to automatically connect to frequently used devices, improving the user experience for returning users.
 
+If you're building web applications that communicate with serial devices, you might also be interested in extensions like Tab Suspender Pro that help manage browser resources and improve performance when working with multiple tabs and hardware connections.
+
 Consider implementing feature detection to check whether the Web Serial API is available before attempting to use it. This allows you to show helpful messages to users on unsupported browsers rather than having the code fail silently or throw confusing errors.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -62,7 +62,7 @@ This can be useful for research purposes or if you want to find the source of ce
 
 If a webpage is not working correctly, viewing page source is often the first step in troubleshooting. You can check whether all resources loaded correctly, verify that links are correct, and see if there are any obvious code errors. Browser developer tools offer even more advanced debugging capabilities, but page source provides a quick overview that can help identify issues.
 
-## A Note on Tab Suspender Pro
+## A Tip for Managing Tabs
 
 Managing many open tabs can slow down your browser significantly. Tools like **Tab Suspender Pro** can help by automatically suspending tabs you are not currently using, freeing up memory and keeping your browser running smoothly. This is especially useful when you are browsing pages with complex source code or heavy JavaScript, as these tend to consume more resources even when sitting in the background.
 

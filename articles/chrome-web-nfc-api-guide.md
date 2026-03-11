@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Web NFC API Guide"
 description: "Learn how to use the Web NFC API in Chrome to read and write NFC tags, NDEF messages, and enable powerful mobile web experiences with near-field communication."
 date: 2026-01-15

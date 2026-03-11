@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Developer Mode Extensions Guide"
 description: "Learn how to enable Chrome developer mode, load unpacked extensions, inspect background pages, debug extensions, and manage your Chrome extensions like a pro."
 date: 2026-01-15

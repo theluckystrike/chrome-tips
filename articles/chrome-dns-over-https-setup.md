@@ -130,3 +130,5 @@ Implementing DNS over HTTPS is just one component of a comprehensive privacy str
 
 As internet surveillance and data collection continue to evolve, taking proactive steps to protect your privacy becomes increasingly important. Configuring DNS over HTTPS in Chrome is a simple yet powerful action that puts you in control of your DNS queries and, by extension, a significant portion of your online privacy.
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+

@@ -164,3 +164,5 @@ For developers building hardware-enabled web applications, the Web USB API provi
 If you're working with Chrome extensions or building web applications that interact with hardware, consider how Web USB could enhance your projects. The ability to communicate with USB devices directly from the browser opens doors to experiences that were previously impossible without native software. As browser technology continues to evolve, web-based hardware interaction will only become more capable and widespread.
 
 When building web applications that interact with multiple browser APIs and potentially many open tabs, consider using extensions like Tab Suspender Pro to manage browser resource usage. These tools help maintain browser performance when running complex web applications that communicate with hardware devices, ensuring smooth operation across all your web-based projects.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

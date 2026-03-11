@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Hardware Acceleration Guide"
 description: "Master Chrome hardware acceleration settings to improve video playback, graphics performance, and browser speed. Learn when to enable GPU compositing and troubleshoot common hardware acceleration issues."
 date: 2026-03-11

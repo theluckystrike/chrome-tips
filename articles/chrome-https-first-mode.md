@@ -1,119 +1,135 @@
 ---
-layout: post
+layout: default
 title: "Chrome HTTPS First Mode Guide"
-description: "Learn how to enable and use Chrome HTTPS First Mode for enhanced security, privacy protection, and safer browsing on Chrome desktop."
-date: 2026-01-20
-categories: [security, chrome, privacy]
-tags: [chrome-https-first, browser-security, https, privacy, chrome-settings]
+description: "Learn how to enable and use Chrome HTTPS First Mode for maximum security. Complete guide covering setup, benefits, compatibility issues, and troubleshooting tips for safer browsing."
+date: 2026-03-11
+categories: [privacy, security, chrome-settings]
+tags: [https-first, chrome-security, secure-browsing, browser-encryption, https-mode]
 author: theluckystrike
 ---
 
 # Chrome HTTPS First Mode Guide
 
-In an era where online privacy and security have become paramount concerns for every internet user, Chrome offers a powerful feature that can significantly enhance your browsing safety: HTTPS First Mode. This comprehensive guide will walk you through everything you need to know about enabling and using this feature, the security benefits it provides, and potential compatibility considerations you should be aware of.
+In an era where cyber threats are constantly evolving and data breaches make headlines almost daily, taking proactive steps to protect your online privacy has become more important than ever. One of the most effective yet underutilized features in Google Chrome is HTTPS First Mode, a security setting that prioritizes encrypted connections and helps safeguard your browsing activity from prying eyes. This comprehensive guide will walk you through everything you need to know about enabling and using Chrome's HTTPS First Mode, explain the significant security benefits it provides, and address the compatibility issues you might encounter along the way.
 
-## What Is HTTPS First Mode?
+## Understanding HTTPS First Mode
 
-**HTTPS First Mode** is a Chrome setting that makes your browser automatically request the secure HTTPS version of websites whenever possible. When enabled, Chrome will attempt to connect to websites using HTTPS (Hypertext Transfer Protocol Secure) instead of HTTP. If a website does not support HTTPS, Chrome will display a warning message before connecting, giving you the choice to proceed at your own risk or abandon the connection altogether.
+HTTPS First Mode is a security feature in Google Chrome that automatically attempts to connect to websites using HTTPS instead of HTTP whenever possible. When this mode is enabled, Chrome will upgrade all web requests from HTTP to HTTPS before sending them, ensuring that your connection to websites is encrypted from the moment it leaves your browser until it reaches the destination server.
 
-This represents a fundamental shift in how Chrome handles website connections. Traditionally, browsers would try HTTP first and only upgrade to HTTPS when explicitly requested or when a website automatically redirected to the secure version. With HTTPS First Mode, Chrome takes a proactive stance: it assumes you want the most secure connection available and will only fall back to insecure connections when absolutely necessary.
+The difference between HTTP and HTTPS is fundamental to understanding why this matters. HTTP, which stands for Hypertext Transfer Protocol, transmits data in plain text. This means anyone who intercepts your connection—whether it's a hacker on the same WiFi network, your internet service provider, or government surveillance programs—can read everything you send and receive. HTTPS, on the other hand, uses encryption protocols to scramble your data so that only you and the website you're visiting can understand it.
 
-The distinction between HTTP and HTTPS is not merely technical—it has profound implications for your privacy and security. HTTP connections transmit data in plain text, meaning anyone between you and the server can potentially read what you are sending and receiving. HTTPS, on the other hand, encrypts the connection, making it virtually impossible for eavesdroppers to intercept and understand your data.
+Chrome's HTTPS First Mode goes beyond simply showing you a security indicator when you visit an encrypted site. It actively forces the browser to prefer secure connections, falling back to HTTP only when HTTPS is genuinely not available. This proactive approach means you don't have to think about security every time you browse—you're protected by default.
+
+The feature became more prominent in Chrome as Google has pushed for a more secure web. Initially, Chrome simply showed a padlock icon to indicate secure connections, but as encryption became more widespread, the browser evolved to actively encourage secure browsing. HTTPS First Mode represents the next step in this evolution: not just responding to secure sites, but demanding them.
 
 ## How to Enable HTTPS First Mode in Chrome
 
-Enabling HTTPS First Mode in Chrome is a straightforward process that takes only a few moments. Follow these steps to activate this security feature on your desktop browser.
+Enabling HTTPS First Mode in Chrome is a straightforward process that takes only a few moments. The exact steps might vary slightly depending on your operating system and the version of Chrome you're using, but the general process remains consistent.
 
-First, open Chrome and click on the three-dot menu icon located in the upper-right corner of the browser window. This will open the main Chrome menu.
+First, open Google Chrome on your computer and click the three-dot menu icon in the upper right corner of the browser window. From the dropdown menu, select "Settings." This will open a new tab with all of Chrome's configuration options.
 
-From the dropdown menu, select "Settings." This will open a new tab displaying Chrome's settings interface.
+In the Settings page, you'll see a search box at the top. Type "HTTPS" into this search box to quickly filter the settings. You should see a result labeled "Always use secure connections" or "HTTPS First Mode" depending on your Chrome version. Click on this option to access the security settings.
 
-In the left sidebar of the Settings page, click on "Privacy and security." This category contains various options related to your browsing privacy and security settings.
+Once you're in the appropriate section, you'll find a toggle switch that enables HTTPS First Mode. When you turn this on, Chrome will automatically upgrade all connections to HTTPS. You might see a brief notification explaining what the setting does—read through it to understand the implications, then confirm your choice.
 
-Scroll down until you find the "Security" section. Within this section, you will see several options related to how Chrome handles website connections.
+For users who prefer to access Chrome's experimental features, there's also a flag-based method to enable HTTPS First Mode. Type "chrome://flags" in your address bar and press Enter. In the search box that appears, type "HTTPS First Mode" or "HTTPS-First Mode Setting." You should see an option to enable this feature at the browser level. Select "Enabled" from the dropdown menu and restart Chrome for the changes to take effect.
 
-Look for the option labeled "Always use secure connections" and toggle it to the ON position. This is the setting that enables **HTTPS First Mode** in Chrome.
-
-Once enabled, Chrome will automatically upgrade all possible connections to HTTPS. You may notice that the URL bar now shows a lock icon more frequently, indicating that your connection to the website is secure.
-
-For users who want even more control, Chrome also offers additional security settings within this same section. You can choose between three levels of protection: "Standard protection," "Enhanced protection," and "No protection." Enhanced protection offers the most comprehensive security features, including proactive warnings about potentially dangerous websites and extensions.
+On mobile devices, the process is similar but accessed through the app settings. Open Chrome on your iOS or Android device, tap the three-dot menu, and look for Settings. Navigate to Privacy and Security, where you should find the option to enable secure connections. The exact location might vary slightly between iOS and Android versions.
 
 ## The Security Benefits of HTTPS First Mode
 
-The primary benefit of enabling **HTTPS First Mode** is dramatically improved security for your browsing activities. When all your connections use HTTPS, the data you transmit and receive is encrypted, protecting it from various threats that plague insecure HTTP connections.
+The primary benefit of enabling HTTPS First Mode is the encryption of your web traffic. Every time you visit a website, your browser exchanges various types of data with the server—login credentials, personal information, search queries, and more. Without encryption, this data travels in plain text and can be intercepted by anyone with the right tools and motivation.
 
-One of the most significant threats HTTPS protects against is man-in-the-middle attacks. In this type of attack, a malicious actor positions themselves between your device and the website you are visiting, intercepting the communication. Without encryption, they can see everything—your login credentials, personal messages, financial information, and any other data you transmit. With HTTPS encryption, even if an attacker intercepts the connection, they cannot decipher the encrypted data.
+When HTTPS First Mode is active, Chrome establishes an encrypted tunnel before any data is transmitted. This encryption uses TLS (Transport Layer Security) protocols, which are among the most robust encryption standards available. Even if someone manages to intercept your connection, they'll only see scrambled, unreadable data.
 
-HTTPS also provides authentication, verifying that you are indeed connecting to the legitimate website and not an imposter site designed to look like the real one. This protection is crucial for preventing phishing attacks where criminals create fake versions of banking sites, shopping platforms, or other services to steal your credentials.
+Beyond encryption, HTTPS provides authentication. When you connect to a website through HTTPS, the server presents a digital certificate that verifies its identity. This prevents man-in-the-middle attacks, where a malicious actor pretends to be a legitimate website to steal your information. With HTTPS First Mode enabled, Chrome validates these certificates for every connection, alerting you if something seems wrong.
 
-Beyond external threats, HTTPS First Mode also protects your browsing habits from being monitored by your Internet Service Provider or network administrators. Whether you are browsing from home, work, or a public WiFi hotspot, encrypted connections ensure that your ISP or anyone else on the network cannot easily see which specific pages you visit or what content you are consuming.
+Another significant benefit is data integrity. HTTPS ensures that the data you send and receive cannot be modified without detection. In an unprotected HTTP connection, an attacker could inject malicious code into the web pages you view or alter the data you submit. HTTPS First Mode protects against these tampering attempts by verifying that the data hasn't been changed in transit.
 
-For users who frequently access sensitive information online—banking, healthcare portals, work intranets, or email accounts—HTTPS First Mode provides peace of mind knowing that these connections are secure by default. You no longer need to manually check whether each site offers HTTPS or remember to look for the padlock icon; Chrome handles this automatically.
+For users who browse frequently on public WiFi networks—coffee shops, airports, hotels, or libraries—HTTPS First Mode is particularly valuable. These networks are often unsecured, meaning anyone else connected to the same network can potentially monitor your activity. With HTTPS encryption, even if someone is watching the network traffic, they won't be able to make sense of your data.
 
-The security benefits extend to form submissions as well. Whenever you enter information into a web form—passwords, credit card numbers, personal details, or any other sensitive data—HTTPS ensures this information is transmitted securely. Without HTTPS, this data could be intercepted in plain text, potentially leading to identity theft or financial fraud.
+The security benefits extend to search privacy as well. When you search the web, your search queries can reveal incredibly personal information about you—your health concerns, financial questions, political views, and more. Without HTTPS, your internet service provider and others can log and analyze these searches. HTTPS First Mode ensures that your searches travel through an encrypted connection.
 
-## Privacy Advantages of Secure Browsing
+## Enhanced Protection for Sensitive Activities
 
-In addition to security, **HTTPS First Mode** offers significant privacy benefits that are increasingly important in today's digital landscape. Your browsing activity can reveal a tremendous amount about you—your interests, health concerns, financial situations, political views, and personal relationships. Protecting this information from prying eyes is essential for maintaining your privacy.
+If you frequently engage in sensitive online activities, HTTPS First Mode provides crucial protection. Online banking, shopping with credit cards, accessing medical records, or managing investment portfolios all require exchanging highly sensitive information. While reputable websites in these industries typically use HTTPS anyway, enabling HTTPS First Mode adds an extra layer of assurance.
 
-When you browse over HTTPS, your network traffic is encrypted, preventing anyone on your network from seeing the specific websites you visit or the content you access. This is particularly important when using public WiFi networks at coffee shops, airports, hotels, or other public locations where malicious actors might be attempting to intercept traffic.
+When managing your finances online, the last thing you want is for someone to intercept your login credentials or transaction details. HTTPS encryption makes it exponentially more difficult for attackers to steal this information. Even if you're using a compromised network, the encrypted connection means your financial data remains protected.
 
-Your ISP cannot monitor your encrypted browsing activity when HTTPS First Mode is enabled. While ISPs in many countries are legally required to comply with privacy regulations, the default encryption provided by HTTPS eliminates this concern entirely. Your browsing history remains private between you and the websites you choose to visit.
+Similarly, when shopping online or entering payment information, HTTPS First Mode ensures that your credit card details, billing address, and other payment information are transmitted securely. This is particularly important when shopping on smaller e-commerce sites that might not have implemented HTTPS as robustly as major retailers.
 
-HTTPS also prevents the subtle privacy invasion known as "referrer tracking." When you click a link on an HTTPS site to visit another website, the destination site traditionally receives information about where you came from. While this might seem minor, it allows websites to build profiles of your browsing behavior across the web. HTTPS First Mode helps limit this type of tracking.
+Healthcare information is among the most sensitive data you can share online. Whether you're accessing patient portals, communicating with doctors through telehealth services, or researching health conditions, HTTPS First Mode helps keep this information private. Medical records can be used for identity theft and other fraud, making their protection absolutely critical.
 
-For users concerned about government surveillance or mass data collection, HTTPS First Mode adds an important layer of protection. While it does not make you anonymous online, it significantly increases the difficulty of monitoring your browsing activity by making your traffic content invisible to passive observers.
+## Understanding Compatibility Issues
 
-The combination of security and privacy makes HTTPS First Mode one of the most impactful settings you can enable in Chrome. It requires minimal effort to activate but provides continuous protection for all your browsing activities.
+While HTTPS First Mode provides substantial security benefits, it's important to understand that this feature can occasionally cause compatibility issues with certain websites or network configurations. Being aware of these potential problems will help you troubleshoot effectively if they arise.
 
-## Compatibility Considerations and Potential Issues
+The most common issue occurs with older websites that haven't implemented HTTPS properly. Some legacy websites might have HTTPS available but with invalid or expired security certificates. When Chrome's HTTPS First Mode encounters these sites, it may block access entirely rather than falling back to an insecure connection. You'll see a "Your connection is not private" or similar error message.
 
-While **HTTPS First Mode** offers substantial benefits, it is important to understand potential compatibility issues you might encounter. Some websites have not yet migrated to HTTPS, and others may have incomplete HTTPS implementations that could cause problems.
+If you encounter this issue with a site you trust, you can click "Advanced" on the error page and then select "Proceed to [website] (unsafe)" to continue. However, exercise extreme caution when doing this—bypassing the security warning means you're accepting the risks of an unsecured connection.
 
-The most common issue you may encounter is with older websites that only support HTTP. When Chrome attempts to connect to such a site with HTTPS First Mode enabled, it will display a warning message informing you that the site does not support secure connections. You will have the option to proceed anyway or abandon the connection.
+Some corporate networks, particularly those in older enterprise environments, might have infrastructure that interferes with HTTPS connections. This can happen when companies use transparent proxy servers or content filtering systems that inspect HTTPS traffic. When HTTPS First Mode is enabled, Chrome might have trouble connecting to certain internal resources.
 
-Some websites have HTTPS support but may have expired security certificates or configuration errors. In these cases, Chrome will display a detailed warning page explaining the specific problem. You should be cautious when proceeding past these warnings, as they may indicate a legitimate security concern or could signal a malicious site impersonating the real one.
+If you manage or administer a corporate network, you might need to work with your IT department to resolve these issues. They may need to update network equipment, adjust firewall rules, or implement proper certificate management to support HTTPS First Mode for all users.
 
-Certain web applications that rely on specific HTTP features may not function correctly with HTTPS First Mode enabled. This is particularly true for older internal business applications, some IoT device interfaces, or legacy systems that were designed before HTTPS became widespread. If you encounter a website that does not work properly, you may need to temporarily disable HTTPS First Mode or contact the website administrator to request HTTPS support.
+Certain browser extensions that manipulate web traffic might also cause issues when HTTPS First Mode is enabled. Extensions that add features to websites, modify headers, or manage cookies might interfere with the secure connection process. If you notice problems after enabling HTTPS First Mode, try disabling your extensions temporarily to see if that resolves the issue.
 
-Another consideration involves corporate networks and content filtering systems. Some organizations use transparent proxy servers or SSL inspection for security monitoring purposes. These systems may interfere with HTTPS First Mode, causing certificate warnings or connection failures. If you encounter issues accessing internal work resources, check with your IT department about supported browser configurations.
+Websites that require HTTP for specific functionality can also cause problems. While rare, some websites might use HTTP for certain resources like images, videos, or scripts while serving the main page over HTTPS. With strict HTTPS First Mode, Chrome might block these mixed content requests, potentially breaking some page functionality.
 
-Browser extensions that modify network requests may also behave differently with HTTPS First Mode enabled. Extensions that were designed to work with HTTP connections might need updates to function properly with secure connections. If you notice unusual behavior from extensions after enabling HTTPS First Mode, check for updates or consider whether the extension is still necessary.
+## Troubleshooting Common Problems
 
-Some websites may intentionally avoid implementing HTTPS due to the computational overhead of encryption or the cost of maintaining certificates. While this is increasingly rare, you may occasionally encounter sites that remain HTTP-only. These sites are clearly not prioritizing user security, and you should think carefully about whether to share any personal information with them.
+When HTTPS First Mode causes issues, there are several troubleshooting steps you can take. First, try reloading the page by pressing Ctrl+F5 (or Cmd+Shift+R on Mac) to ensure you're getting a fresh connection. Sometimes, cached information can cause problems that a simple reload resolves.
 
-## Tips for a Smooth HTTPS First Experience
+If the problem persists, try clearing your browser's cache and cookies for that specific website. Go to Chrome's settings, find the privacy section, and look for "Clear browsing data." Select "Cookies and site data" and "Cached images and files," then choose to clear data for just the problematic site.
 
-To get the most out of **HTTPS First Mode** while minimizing disruption, consider these practical tips that will help you maintain both security and usability.
+For network-related issues, try restarting your router or switching to a different network. Sometimes, the problem isn't with HTTPS First Mode itself but with your current network connection. If the site works on a different network, the issue is likely with your local network configuration.
 
-First, take time to review Chrome's security warnings carefully. When Chrome warns you about a website, there is usually a good reason. Do not simply click through warnings without understanding what they mean. If a site you trust shows a certificate error, it could indicate a temporary issue with their configuration, but it could also signal a more serious problem.
+When dealing with certificate errors, verify the date and time on your computer. If your system clock is significantly off, it can cause certificate validation to fail because the browser thinks the security certificate is either not yet valid or has expired. Correcting your system time usually resolves this.
 
-Second, keep your browser and operating system updated. Chrome regularly improves its HTTPS handling and security features through updates. Running the latest version ensures you have the most current protection against emerging threats.
+If you find that certain internal business applications don't work with HTTPS First Mode, you might need to create exceptions for those specific domains. In Chrome's settings, look for ways to manage exceptions or excluded domains. Add the internal sites to this list while keeping HTTPS First Mode enabled for everything else.
 
-Third, consider using a password manager that integrates with Chrome. Password managers encourage the use of unique, secure passwords for each site, and they work seamlessly with HTTPS to protect your credentials. This combination provides defense in depth for your online accounts.
+## Performance Considerations
 
-Fourth, if you encounter issues with specific websites, try clearing your browser cache and cookies for that site. Sometimes cached redirect information or conflicting cookies can cause unexpected behavior when transitioning from HTTP to HTTPS.
+One concern that sometimes arises with HTTPS is potential performance impact. The encryption and decryption process does require some additional processing power, and establishing secure connections can take slightly longer than unsecured ones. However, for most modern computers and internet connections, this difference is negligible.
 
-Fifth, remember that HTTPS First Mode protects the connection but does not make you invincible. Continue to practice good security habits: use strong, unique passwords; be cautious about the information you share online; verify website URLs before entering sensitive information; and keep your software updated.
+The initial connection to an HTTPS site requires a "handshake" process where the browser and server exchange encryption keys and verify certificates. This can add a few milliseconds to the connection time. However, once the connection is established, subsequent page loads are often faster because HTTPS enables better caching in some scenarios.
 
-## Enhancing Your Setup with Related Tools
+Many websites have optimized their HTTPS implementations to minimize any performance impact. Content delivery networks (CDNs), which many major websites use, are specifically designed to serve content quickly and securely. For most users, the security benefits far outweigh any minimal performance considerations.
 
-While **HTTPS First Mode** significantly improves your browsing security, combining it with other tools and practices creates an even more robust security posture. Consider exploring additional Chrome settings and extensions that complement the protection provided by HTTPS.
+Interestingly, some studies have shown that HTTPS can actually improve performance in certain situations. Because HTTPS connections are less likely to be intercepted or modified, intermediate servers and proxies can cache content more aggressively. Additionally, HTTP/2 and HTTP/3 protocols, which offer significant performance improvements over HTTP/1.1, require HTTPS to function.
 
-For example, if you want to extend security benefits beyond HTTPS connections, you might consider using a reputable VPN service. VPNs encrypt all your internet traffic, providing protection even for connections that cannot use HTTPS. This is particularly useful when accessing the internet through untrusted networks.
+## Combining HTTPS First Mode with Other Security Features
 
-Browser extensions can also enhance your security. Extensions like uBlock Origin block malicious advertisements and tracking scripts, reducing your exposure to potential threats. Password managers like Bitwarden or 1Password create and store strong passwords, ensuring each of your accounts has unique, hack-resistant credentials.
+For maximum online security, consider enabling HTTPS First Mode alongside other Chrome security features. Safe Browsing, which warns you about potentially dangerous websites, works well with HTTPS First Mode to provide comprehensive protection. You can find this in Chrome's privacy settings.
 
-For users who want more control over tab management and resource usage, **Tab Suspender Pro** offers an elegant solution. This extension automatically suspends tabs you are not actively using, which reduces memory usage and can significantly improve browser performance. When combined with HTTPS First Mode, you get both enhanced security and better resource management. Tab Suspender Pro is particularly useful for power users who keep many tabs open, as it helps maintain browser responsiveness while ensuring all your connections benefit from HTTPS encryption.
+Enhanced Safe Browsing offers even more protection by proactively checking URLs and downloads against Google's threat databases. When combined with HTTPS First Mode, you get defense in depth—protection against both insecure connections and malicious websites.
 
-The key is to build layers of protection. No single feature makes you completely secure online, but the combination of HTTPS First Mode, strong passwords, updated software, and thoughtful browsing habits creates a formidable defense against most common threats.
+Chrome's password manager also integrates well with HTTPS. When you're entering passwords on secure HTTPS sites, Chrome can protect your credentials and warn you if you've reused passwords across different sites. The combination of secure connections and password management significantly reduces your risk of account compromise.
 
-## Final Thoughts
+If you're concerned about tracking, consider using Chrome's privacy features in conjunction with HTTPS First Mode. You can adjust cookies settings to block third-party cookies, enable "Do Not Track" signaling, and use Chrome's tracking prevention features. These work alongside HTTPS to provide more comprehensive privacy.
 
-**Chrome HTTPS First Mode** represents a significant step forward in browser security, making encrypted connections the default rather than the exception. By enabling this feature, you protect your sensitive data from interception, maintain better privacy from network observers, and reduce your vulnerability to man-in-the-middle attacks and other threats.
+For users who want to take their security even further, consider pairing HTTPS First Mode with a reputable VPN service. While HTTPS encrypts the connection between your browser and websites, a VPN encrypts all your internet traffic and masks your IP address. Together, these provide layered protection for your online activities.
 
-The setup process takes only moments, and the ongoing protection is automatic and comprehensive. While you may occasionally encounter websites that do not support HTTPS, these instances are becoming increasingly rare as more organizations recognize the importance of secure connections.
+## Managing Browser Extensions with HTTPS First Mode
 
-Take a few minutes today to enable HTTPS First Mode in your Chrome browser. Your future self will thank you for the added layer of protection every time you browse, bank, shop, or communicate online. In an era of increasing cyber threats, this simple setting is one of the most impactful changes you can make to protect your digital life.
+When using HTTPS First Mode, it's worth reconsidering your browser extensions. Extensions have deep access to your browsing activity, and some might conflict with secure connections or undermine the protection HTTPS provides.
+
+Review the extensions you have installed and consider whether you truly need each one. Extensions that require broad permissions—"Read and change all your data on all websites"—could potentially intercept or modify your HTTPS connections. While reputable extensions won't do this, it's worth being selective about which extensions you trust.
+
+If you're looking for extensions that complement HTTPS First Mode, consider ones that enhance security without interfering with encrypted connections. Password managers, for example, work well alongside HTTPS First Mode to provide comprehensive protection for your accounts.
+
+For users who manage many open tabs, extensions like Tab Suspender Pro can help maintain browser performance while you're exploring the web securely. This extension automatically suspends inactive tabs, freeing up system resources. When combined with HTTPS First Mode, you get both security and efficiency—a better browsing experience without sacrificing protection.
+
+Tab Suspender Pro and similar tab management tools are particularly useful because they don't interfere with HTTPS connections. They simply manage which tabs are actively running, leaving the security of each connection intact. This makes them ideal companions to HTTPS First Mode.
+
+## The Future of Secure Browsing
+
+Google has made it clear that HTTPS is the future of web browsing. The company has progressively pushed for universal HTTPS adoption, and HTTPS First Mode represents another step in this direction. As more websites adopt HTTPS and as old HTTP sites are phased out, this feature will become increasingly seamless.
+
+The benefits of HTTPS First Mode will continue to grow as encryption becomes the standard for web connections. Newer protocols like HTTP/3 offer improved performance and security features that require HTTPS. By enabling HTTPS First Mode now, you're not just protecting yourself today—you're preparing for a more secure web tomorrow.
+
+Browser manufacturers and web standards organizations are working together to make HTTPS the default. Chrome's HTTPS First Mode is part of this broader movement. As these efforts continue, we can expect even more robust security features and better performance from encrypted connections.
+
+---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

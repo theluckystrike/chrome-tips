@@ -113,3 +113,5 @@ Looking ahead, we can expect even more websites to adopt passkeys, driven by bot
 In addition to website authentication, passkeys are also being adapted for other use cases, such as secure document sharing, encrypted messaging, and even physical access control. The underlying technology is versatile and scalable, making it suitable for a wide range of applications beyond traditional web login.
 
 As a Chrome user, now is the perfect time to embrace passkeys. Start by converting your most important accounts, and you will quickly see the benefits in both security and convenience. With passkeys, you can enjoy a safer, simpler online experience that eliminates the headaches of traditional passwords.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

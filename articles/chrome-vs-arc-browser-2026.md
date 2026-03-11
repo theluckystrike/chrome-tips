@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome vs Arc Browser 2026"
 description: "Compare Chrome vs Arc Browser 2026: discover differences in Spaces, split view, sidebar, and productivity features to choose the best browser for your workflow."
 date: 2026-01-15

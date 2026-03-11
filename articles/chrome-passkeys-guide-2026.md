@@ -157,3 +157,6 @@ Passkey adoption has accelerated dramatically throughout 2025 and into 2026. Wha
 Chrome's implementation has matured significantly. Synchronization works smoothly across platforms, authentication is fast, and the integration with operating system security features makes passkeys feel like a natural part of the device rather than an add-on. The vision of passwordless authentication that began as a distant promise has become everyday reality.
 
 As you explore passkeys, remember that the transition is gradual. Not every site supports passkeys yet, and some may never fully implement the standard. But for the sites that do, the experience is markedly better than passwords. Start with your most important accounts, enjoy the security and convenience benefits, and gradually expand from there. The future of authentication is passkeys, and Chrome makes it easy to embrace that future today.
+
+---
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

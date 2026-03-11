@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome vs Edge 2026 Comparison"
 description: "A comprehensive comparison of Chrome vs Edge in 2026. Compare features, performance, AI integration, and memory usage to find your best browser."
 date: 2026-01-20

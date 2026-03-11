@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Energy Saver Mode Guide"
 description: "Learn how Chrome Energy Saver Mode works to optimize battery life, reduce background throttling, and extend your laptop's battery. Complete guide with tips and Tab Suspender Pro recommendation."
 date: 2026-01-15
@@ -97,6 +97,10 @@ Can I use Energy Saver Mode with Chrome's Memory Saver feature? Absolutely, and 
 ## Conclusion
 
 Chrome Energy Saver Mode is a valuable but often overlooked feature that can significantly extend your device's battery life. By understanding how it works—through background throttling, reduced refresh rates, and optimized visual effects—you can make informed decisions about when to rely on it and how to configure it for your needs.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 The feature activates automatically when you're on battery power, requiring minimal intervention from you while still providing substantial power savings. Combined with thoughtful tab management and extensions like Tab Suspender Pro, you can create a browsing experience that remains productive while being much easier on your battery.
 

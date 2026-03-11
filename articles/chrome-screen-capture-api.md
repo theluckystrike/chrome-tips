@@ -1,210 +1,160 @@
 ---
 layout: default
 title: "Chrome Screen Capture API Guide"
-description: "Master Chrome's Screen Capture API for screen sharing, window capture, and tab capture. Learn constraints, implementation best practices, and how to build powerful screen capture features."
-date: 2026-01-20
-categories: [chrome, api, extensions, screen-capture]
-tags: [chrome-screen-capture, screen-sharing, tab-capture, window-capture, getdisplaymedia, chrome-api]
+description: "Learn how to use Chrome's Screen Capture API for screen sharing, window capture, and tab capture. Complete guide covering constraints, permissions, and implementation for Chrome extensions and web apps."
+date: 2026-01-15
+categories: [extensions, productivity, api]
+tags: [screen-capture, chrome-api, screen-sharing, tab-capture, browser-extension]
 author: theluckystrike
 ---
 
 # Chrome Screen Capture API Guide
 
-The Chrome Screen Capture API represents one of the most powerful browser-based technologies for capturing visual content directly from a user's screen, individual windows, or browser tabs. Whether you're building a video conferencing application, a screencasting tool, a remote desktop solution, or a productivity extension like **Tab Suspender Pro**, understanding this API is essential for creating robust and user-friendly screen capture functionality.
+The Chrome Screen Capture API is a powerful feature that enables developers to capture screen content, individual windows, or browser tabs directly within the Chrome browser. This capability opens up numerous possibilities for creating screen recording tools, collaboration applications, video conferencing extensions, and productivity utilities. In this comprehensive guide, we will explore everything you need to know about implementing screen capture in Chrome, from basic concepts to advanced implementation techniques.
 
-This comprehensive guide walks you through everything you need to know about implementing screen capture in Chrome, from basic concepts to advanced techniques, constraints, and best practices that will help you build professional-grade applications.
+## Understanding the Screen Capture API
 
-## Understanding the Screen Capture API Fundamentals
+Chrome's Screen Capture functionality is built on top of the Media Capture and Streams API, which is part of the broader WebRTC specification. This API allows websites and extensions to request access to media devices, including cameras, microphones, and screen capture streams. The API has evolved significantly over the years, with Chrome adding support for various capture modes and constraints that give developers fine-grained control over what gets captured.
 
-Chrome's Screen Capture API is built on top of the MediaStream API and uses the `getDisplayMedia()` method to initiate screen capture sessions. This method prompts the user to select what they want to share—either their entire screen, a specific application window, or a browser tab—and returns a MediaStream that can be recorded, streamed, or processed in various ways.
+The core of screen capture in Chrome revolves around the `getDisplayMedia()` method, which prompts the user to select what they want to share. Unlike traditional media capture that automatically accesses a default device, screen capture requires explicit user consent every time. This is an intentional security measure designed to protect user privacy and prevent malicious websites from secretly recording screen content without permission.
 
-The API is part of the broader WebRTC (Web Real-Time Communication) ecosystem and provides a standardized way to capture screen content without requiring users to install additional software or grant overly broad permissions. When a user invokes screen capture, Chrome displays a native picker UI that shows available sources, allowing them to choose exactly what to share.
+When a user invokes screen capture, Chrome displays a picker interface that shows available sources: the entire screen, specific application windows, or browser tabs. The user maintains full control over what they share, and they can stop sharing at any time by clicking the browser's built-in stop sharing button or through the extension's UI. This user-centric design ensures that screen capture remains a consensual activity.
 
-The core method you'll work with is `navigator.mediaDevices.getDisplayMedia()`, which returns a Promise that resolves to a MediaStream. This stream can then be used with other APIs like the MediaRecorder API to save recordings, WebRTC to transmit to other participants, or the Canvas API for real-time processing and analysis.
+## Screen Sharing Fundamentals
 
-## Implementing Basic Screen Capture
+Screen sharing is the most comprehensive capture mode available in Chrome. When a user selects their entire screen, the captured stream includes everything visible on the display, including other applications, the desktop background, and any open windows. This mode is particularly useful for presentations, remote support scenarios, and applications that need to capture multiple windows simultaneously.
 
-Getting started with screen capture in Chrome is straightforward. The basic implementation requires just a few lines of code to prompt the user and obtain a media stream. Here's a simple example that captures whatever the user selects:
+Implementing screen sharing in your extension or web application starts with calling the `getDisplayMedia()` method. This method returns a Promise that resolves to a MediaStream object containing the captured video tracks. The basic implementation looks like this:
 
 ```javascript
-async function startCapture() {
+async function startScreenCapture() {
   try {
     const stream = await navigator.mediaDevices.getDisplayMedia({
       video: true,
       audio: true
     });
     return stream;
-  } catch (err) {
-    console.error("Error capturing screen:", err);
+  } catch (error) {
+    console.error("Error capturing screen:", error);
   }
 }
 ```
 
-When this function is called, Chrome displays its built-in screen picker showing all available sources. The user can select their entire screen, a specific window, or a tab. The resulting stream contains video tracks representing the captured content, and optionally audio tracks if the user chooses to share system audio.
+The `getDisplayMedia()` method accepts an optional constraints object that specifies what types of media to capture. By default, requesting video capture will prompt for screen, window, or tab selection. Including audio in the constraints allows system audio to be captured along with the video, though this feature requires additional permissions and may not be available on all platforms.
 
-The `getDisplayMedia()` method accepts a constraints object that lets you specify what types of media you want to capture. The most commonly used constraints include the `video` property to define video capture parameters and the `audio` property to request audio capture. By default, both are set to `true`, meaning Chrome will try to capture both if available.
+One important consideration for screen sharing is handling the stream after the user stops sharing. When a user clicks the browser's stop sharing button, the MediaStream track ends, triggering an event that developers should listen for to clean up resources and update the UI accordingly. Failing to handle this can lead to memory leaks and confusing user interfaces that show capture as active when it has actually stopped.
 
-## Screen Sharing vs Window Capture vs Tab Capture
+## Window Capture Implementation
 
-Understanding the three primary capture modes is crucial for building effective applications. Each mode has distinct characteristics, use cases, and implementation considerations that affect how your application behaves and what users experience.
+Window capture provides more granular control by allowing users to select a specific application window rather than their entire screen. This mode is ideal for applications that need to capture only a particular program, such as screen recorders that want to avoid capturing sensitive information visible on other parts of the screen.
 
-### Screen Sharing (Display Surface)
+Chrome's implementation of window capture is particularly sophisticated. The browser presents users with a visual picker showing all available windows, including their titles and preview thumbnails. Users can choose exactly which window they want to share, giving them confidence that unrelated content won't be captured.
 
-Screen sharing captures the user's entire display, including all visible windows, the desktop background, and any content on the screen. This mode is ideal for scenarios where you need to show everything on the screen, such as technical support sessions, full-screen presentations, or demonstrations of multi-window workflows.
+When implementing window capture, developers can use constraints to prefer window capture over full screen capture. However, it's important to note that Chrome does not provide a way to programmatically force window-only capture; the user always has the final say in what gets shared. The display surface picker presented by Chrome will show all options, and the user's choice determines the actual capture source.
 
-When a user selects "Entire Screen" in the Chrome picker, they get the full display surface. This includes everything visible on their monitor, which can be overwhelming if you only need to capture specific content. From a privacy perspective, users should be cautious when sharing their entire screen, as it may reveal sensitive information in background windows they forgot were open.
+Window capture offers several advantages over full screen sharing. First, it's more privacy-friendly since users can avoid sharing sensitive information visible on their desktop. Second, it reduces the amount of data being captured, which can improve performance for applications that process the stream in real-time. Third, window capture typically produces more consistent results since the captured content doesn't change when users switch to different applications.
 
-The display surface captures at the native resolution of the selected display, which can be quite large on high-DPI monitors. This means video streams from screen sharing can consume significant bandwidth when transmitted over networks, so compression becomes important for real-time applications.
+For extensions that need to identify which window was captured, Chrome provides the `getSurfaceId()` method in the chrome.desktopCapture API. This unique identifier can be used to track which window is being captured, though it has limitations and shouldn't be relied upon for security-critical decisions.
 
-### Window Capture
+## Tab Capture Deep Dive
 
-Window capture focuses on a single application window, providing a more targeted approach than full-screen sharing. When users choose a specific window in the picker, only that window's content is captured—even if other windows overlap it or if the user navigates to different content within that window.
+Tab capture is specifically designed for scenarios where you need to capture browser tab content. This mode is particularly popular among extension developers creating screen recording tools, presentation applications, and collaboration platforms. Tab capture offers unique capabilities that distinguish it from other capture modes, including the ability to capture audio from the tab and support for high-efficiency video encoding.
 
-This mode is particularly useful for presentations, tutorials, and demonstrations where you want to show a specific application without including unrelated content. It's also more privacy-preserving than full-screen sharing since users can exclude personal files, messages, or other sensitive applications visible on their desktop.
+When capturing a tab, Chrome provides several advantages. The browser optimizes the capture pipeline for tab content, resulting in better performance and quality compared to capturing the same content through window capture. Tab capture also supports audio capture from the tab, including page audio and media, which is not available when capturing other window types.
 
-Window capture maintains a consistent aspect ratio based on the window's dimensions, and the capture updates in real-time as the window is resized or its content changes. One important consideration is that some applications implement copy protection or prevent their windows from being captured, which will result in a black frame or error when attempting to capture them.
+To implement tab capture, developers typically use the `chrome.tabCapture` API available to Chrome extensions. This API provides methods for capturing tab content and managing the captured stream:
 
-### Tab Capture
+```javascript
+chrome.tabCapture.capture(options, callback);
+```
 
-Tab capture is specifically designed for browser tab content and offers several advantages over other capture modes. When users select a specific Chrome tab, only that tab's rendered content is captured—excluding the browser chrome, address bar, and other UI elements. This produces cleaner, more focused recordings that are easier for viewers to follow.
+The capture options allow developers to specify various parameters, including video resolution, frame rate, and audio configuration. The callback receives a MediaStream object that can be used like any other media stream in web applications.
 
-For applications like screencast tools, educational platforms, or documentation generators, tab capture provides the most professional results. Viewers see exactly the web content you want them to see, without browser interface clutter. The captured content updates smoothly as you navigate within the tab or interact with page elements.
+Tab capture is especially useful for creating productivity tools. For example, if you're building an extension like Tab Suspender Pro that helps users manage their open tabs, you might want to include a feature that allows users to share or present specific tabs without sharing their entire screen. Tab capture makes this possible while maintaining good performance.
 
-Tab capture also integrates well with Chrome extensions, making it possible to build sophisticated recording workflows. Extensions like **Tab Suspender Pro** work alongside tab capture functionality to help manage tab resources during recording sessions, ensuring that performance remains stable even when capturing tabs with complex content like animated graphics or embedded videos.
+One notable feature of tab capture is the ability to capture at different quality levels. For presentations where visual fidelity is important, you can request high-resolution capture. For scenarios where bandwidth or processing power is limited, lower resolution options provide a practical alternative. Understanding these options helps you optimize your application for different use cases.
 
-Chrome provides the `chrome.desktopCapture` API specifically for extensions that need to capture tab content, offering more control and customization options than the standard web API.
+## Understanding Constraints
 
-## Working with Media Constraints
+Constraints are a fundamental part of the Screen Capture API, allowing developers to specify exactly what they need from the captured stream. The constraints object passed to `getDisplayMedia()` controls various aspects of the capture, including resolution, frame rate, and audio inclusion. Understanding how to use constraints effectively is essential for building robust screen capture applications.
 
-The constraints object passed to `getDisplayMedia()` gives you fine-grained control over how screen capture behaves. Understanding these constraints helps you optimize for different use cases, balance quality against performance, and provide the best user experience.
+For video capture, you can specify mandatory and optional constraints. Mandatory constraints must be satisfied for capture to proceed, while optional constraints are treated as preferences that Chrome tries to meet if possible. Common video constraints include:
 
-The most important constraint properties include `width`, `height`, `frameRate`, and `displaySurface`. Here's a more detailed example showing advanced constraints:
+- `width` and `height`: Specify the desired resolution
+- `frameRate`: Controls how many frames per second are captured
+- `displaySurface`: Indicates whether the user should be prompted for screen, window, or tab (though users can override this)
 
 ```javascript
 const constraints = {
   video: {
     width: { ideal: 1920 },
     height: { ideal: 1080 },
-    frameRate: { ideal: 30, max: 60 },
-    displaySurface: "browser"  // prefer tab capture
+    frameRate: { ideal: 30 },
+    displaySurface: "browser"
   },
   audio: {
     echoCancellation: true,
-    noiseSuppression: true,
-    sampleRate: 44100
+    noiseSuppression: true
   }
 };
-
-const stream = await navigator.mediaDevices.getDisplayMedia(constraints);
 ```
 
-The `displaySurface` constraint is particularly useful because it lets you hint to Chrome which type of source the user should select. Possible values include `"monitor"` for screen sharing, `"window"` for window capture, and `"browser"` for tab capture. Note that this is a preference, not a强制—the user can still choose any source they want.
+Audio constraints work similarly, with options for echo cancellation, noise suppression, and other audio processing features. These constraints help ensure that captured audio meets quality standards suitable for communication or recording applications.
 
-The `frameRate` constraint affects how smoothly the captured video appears. Higher frame rates produce smoother recordings but also increase processing overhead and bandwidth consumption. For most use cases, 30 frames per second provides a good balance between quality and performance. You might increase to 60 fps for gaming demonstrations or high-motion content.
+Chrome's implementation of constraints is quite flexible. If the exact specifications cannot be met, Chrome will choose the closest available option and the capture will proceed. Developers should implement error handling to deal with cases where constraints cannot be satisfied at all, such as when the requested display surface type is not available on the user's system.
 
-Width and height constraints let you request specific resolutions, though Chrome may adjust these based on the selected source's actual dimensions. Using `{ ideal: value }` lets Chrome optimize for your preferred resolution while remaining flexible.
+## Permissions and Security Considerations
 
-## Audio Capture Considerations
+Screen capture involves sensitive data, and Chrome implements multiple layers of security to protect users. Understanding these security measures is crucial for building extensions and applications that respect user privacy while providing necessary functionality.
 
-Capturing audio alongside video adds significant value to screen capture applications but introduces additional complexity. Chrome supports capturing system audio (everything playing through the computer's speakers), microphone audio, or both simultaneously.
+The most fundamental security measure is that users must explicitly grant permission for each screen capture session. Unlike camera or microphone access, which can be granted once and remembered, screen capture requires a fresh prompt every time. This prevents websites from secretly recording screen content and ensures users are always aware when capture is active.
 
-System audio capture is particularly useful for recording webinars, online courses, or any content where the audio playing on the computer is important. However, users must explicitly grant permission to share audio, and some systems may have limitations on audio capture depending on operating system restrictions and content protection measures.
+For Chrome extensions, the desktopCapture permission must be declared in the manifest. This permission enables the extension to access the capture APIs but doesn't automatically grant access to any specific source. When the extension calls the capture API, Chrome presents the standard picker interface, giving users full control over what gets shared.
 
-Microphone capture is more straightforward and typically works without issues. For video conferencing applications, you'll likely want both system audio and microphone audio to create a complete recording that includes both the presenter's voice and any audio content being shared.
+Extensions should clearly communicate to users when capture is active and provide an easy way to stop sharing. Visual indicators in the extension popup or the captured content itself help users understand the current state. Extensions that fail to provide clear status information may receive negative reviews and reduced user trust.
 
-The audio constraints support standard MediaStream properties like `echoCancellation`, `noiseSuppression`, and `autoGainControl` to improve audio quality. These processing features are applied by Chrome's audio pipeline and can significantly improve the listenability of captured audio.
+Another important security consideration is handling the captured stream responsibly. Applications should not transmit captured content to unauthorized servers, and they should clearly disclose how captured data is used and stored. For extensions distributed through the Chrome Web Store, violating privacy policies can result in removal from the store.
 
-## Handling Stream Events and State Changes
+## Practical Implementation Tips
 
-Screen capture streams have several important events you need to handle to create robust applications. The most critical is the `ended` event, which fires when the user stops sharing through Chrome's built-in controls.
+Building a reliable screen capture extension requires attention to various implementation details that aren't always obvious from the API documentation. Here are practical tips that can help you create a better user experience.
 
-```javascript
-const stream = await navigator.mediaDevices.getDisplayMedia(constraints);
+First, always handle the case where users deny permission or cancel the capture operation. The Promise returned by `getDisplayMedia()` will be rejected with a NotAllowedError, and your code should handle this gracefully without showing confusing error messages to users.
 
-stream.getVideoTracks()[0].addEventListener("ended", () => {
-  console.log("User stopped sharing");
-  // Clean up resources, update UI, etc.
-});
-```
+Second, implement proper cleanup when capture ends. Remove event listeners, stop all tracks in the stream, and release any resources allocated during capture. This is particularly important for extensions that may remain open for extended periods.
 
-Users can stop sharing by clicking the browser's built-in "Stop Sharing" button, by navigating away from the page (if configured), or through the Chrome taskbar overlay. Your application should handle all these scenarios gracefully.
+Third, consider the user experience around audio capture. System audio capture is not available on all platforms, and even when available, users may not want their system sounds captured. Provide clear options and communicate what audio will be captured.
 
-The `onremovetrack` event fires when tracks are removed from the stream, which can happen if the user switches to a different source during an active session. While less common, your application should be prepared to handle this situation.
+Fourth, test your implementation across different scenarios: full screen capture, individual window capture, tab capture with and without audio, and various resolution and frame rate combinations. Each mode has unique characteristics that may affect your application's behavior.
 
-Chrome also fires a `surfaceTypeChanged` event on video tracks that indicates when the user switches between screen, window, and tab capture. This can be useful for applications that want to adapt their UI or recording settings based on what type of content is being captured.
+Finally, provide feedback to users during the capture setup process. Loading indicators and progress messages help users understand that something is happening while they interact with Chrome's picker interface.
 
-## Recording Captured Content
+## Building Extensions with Tab Suspender Pro
 
-Once you have a MediaStream from `getDisplayMedia()`, you can use the MediaRecorder API to create recordings. This is essential for applications that need to save screen captures for later playback, such as screencast tools, tutorial generators, or documentation systems.
+When developing Chrome extensions that involve tab management, understanding screen capture can enhance your extension's capabilities. For instance, if you're working on a productivity extension similar to Tab Suspender Pro, which helps users manage their open tabs efficiently, adding screen capture features can provide additional value.
 
-```javascript
-const stream = await navigator.mediaDevices.getDisplayMedia(constraints);
-const recorder = new MediaRecorder(stream, {
-  mimeType: "video/webm;codecs=vp9"
-});
+Imagine a scenario where Tab Suspender Pro includes a presentation mode that allows users to quickly share a specific tab without having to navigate through Chrome's screen picker. By leveraging the tab capture API, you can create a streamlined workflow where users can share their current tab with a single click, making it perfect for quick demonstrations or collaborative sessions.
 
-const chunks = [];
-recorder.ondataavailable = (event) => {
-  if (event.data.size > 0) {
-    chunks.push(event.data);
-  }
-};
+This integration demonstrates how screen capture capabilities can complement tab management features. Users who already rely on tab suspension to reduce memory usage can benefit from additional productivity features that leverage Chrome's capture APIs. The combination of efficient tab management and easy screen sharing creates a powerful productivity toolkit.
 
-recorder.onstop = () => {
-  const blob = new Blob(chunks, { type: "video/webm" });
-  const url = URL.createObjectURL(blob);
-  // Download or process the recording
-};
+## Advanced Features and Future Directions
 
-recorder.start(); // Start recording
-// ... later ...
-recorder.stop(); // Stop recording
-```
+Chrome continues to evolve its screen capture capabilities, with new features and improvements being added regularly. Staying informed about these developments helps you build more capable applications and take advantage of the latest improvements.
 
-The MediaRecorder supports various MIME types and codecs, with `video/webm;codecs=vp9` providing excellent quality and compression for most use cases. Chrome supports several codec options, and you can check what's available using `MediaRecorder.isTypeSupported()`.
+Recent additions to Chrome's screen capture include improved audio capture options, better support for high-resolution displays, and enhanced performance optimizations for specific capture scenarios. The browser's capture pipeline is constantly being refined to reduce latency and improve quality.
 
-For more control over recording, you can specify a `timeslice` parameter to the `start()` method, which controls how often the `ondataavailable` event fires. Smaller timeslices provide more frequent data updates but increase overhead.
+One area of ongoing development is multi-stream capture, which would allow capturing multiple sources simultaneously. This feature could enable applications to create more complex presentations that combine multiple views, though it's not yet widely available.
 
-## Security and User Privacy Considerations
-
-Screen capture inherently involves significant privacy implications, and Chrome has implemented several safeguards to protect users. The most fundamental protection is that users must explicitly initiate screen capture—they cannot be captured without their knowledge and consent.
-
-When `getDisplayMedia()` is called, Chrome always shows the source picker, giving users full control over what to share. There's no way for websites to bypass this picker or capture content without explicit user action. Additionally, Chrome displays a visual indicator (the red dot in the tab) whenever screen capture is active, so users always know when they're being recorded.
-
-Applications should be transparent about how they use captured content. If you're recording for later playback, inform users clearly. If you're transmitting to other participants, make that obvious. Building trust with users through transparent practices helps ensure continued permission to use screen capture features.
-
-From a security standpoint, captured content should be handled carefully. Avoid storing recordings unnecessarily, use secure transmission protocols (HTTPS, WSS) for real-time streaming, and implement appropriate access controls. If your application processes sensitive information through screen capture, consider additional encryption and access logging.
-
-## Advanced Techniques and Best Practices
-
-Building production-quality screen capture applications requires attention to several advanced considerations. These best practices help you create more reliable, performant, and user-friendly experiences.
-
-First, always handle errors gracefully. The `getDisplayMedia()` Promise can reject for various reasons, including user cancellation, permission denied, or technical errors. Provide clear, helpful error messages to users when issues occur.
-
-Second, manage stream resources carefully. When capture ends, release tracks and other resources promptly. Failing to do so can cause memory leaks and performance degradation over time.
-
-Third, optimize for your specific use case. If you're streaming, prioritize low latency. If you're recording for later download, prioritize quality. If you're processing frames in real-time, consider Web Workers to avoid blocking the main thread.
-
-Fourth, test across different scenarios and configurations. Users may have multiple monitors, high-DPI displays, various window sizes, and different browser configurations. Your application should handle all these cases gracefully.
-
-Finally, consider accessibility. Ensure your screen capture features can be used with keyboard navigation and screen readers where appropriate. Provide alternative ways to achieve common tasks for users with different abilities.
-
-## Chrome Extension Integration
-
-For more advanced screen capture capabilities, Chrome extensions can use the `chrome.desktopCapture` API. This provides additional features beyond what's available to regular web pages, including the ability to capture specific tabs programmatically and access audio-only capture modes.
-
-Extensions can also combine screen capture with other Chrome APIs to create powerful workflows. For example, an extension could automatically start recording when a user visits a specific type of page, capture at specific intervals for documentation purposes, or integrate with tab management features.
-
-**Tab Suspender Pro** exemplifies how screen capture functionality can integrate with Chrome's broader extension ecosystem. By understanding when tabs are active versus suspended, extensions can optimize resource usage during screen capture sessions, ensuring smooth performance even with complex web content.
-
-The desktop capture API requires specific permissions in your extension manifest, including `"desktopCapture"` and potentially `"tabCapture"` depending on your needs. Review Chrome's extension documentation to understand the permission requirements for your specific use case.
+Another area of active development is improved integration with virtual camera applications. Chrome's screen capture can now be routed through virtual camera drivers, allowing captured content to be used in applications that don't directly support the Media Capture API.
 
 ## Conclusion
 
-The Chrome Screen Capture API provides a powerful foundation for building screen capture applications that work directly in the browser without additional software. By understanding the fundamentals of `getDisplayMedia()`, the different capture modes, constraints, and best practices outlined in this guide, you can create professional-grade applications for video conferencing, screencasting, remote support, and countless other use cases.
+The Chrome Screen Capture API provides a robust foundation for building screen recording, sharing, and collaboration applications. Whether you need to capture entire screens, specific windows, or individual browser tabs, Chrome's implementation offers the flexibility and control needed for most use cases.
 
-Remember to prioritize user privacy and transparency, handle all edge cases gracefully, and test thoroughly across different configurations. With these principles in mind, you're well-equipped to implement robust screen capture functionality that serves your users effectively.
+Understanding the fundamentals of screen sharing, window capture, and tab capture enables you to choose the right approach for your application. Proper implementation of constraints ensures optimal quality and performance, while attention to security and permissions protects users and builds trust.
 
----
+As Chrome continues to improve its screen capture capabilities, developers have access to increasingly powerful tools for creating innovative applications. By following the best practices outlined in this guide and staying current with API developments, you can build screen capture solutions that provide excellent user experiences.
+
+For those building tab management extensions or productivity tools, combining these capabilities with features like those found in Tab Suspender Pro can create powerful, feature-rich extensions that enhance Chrome's functionality while helping users be more productive.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

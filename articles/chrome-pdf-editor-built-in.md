@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: default
 title: "Chrome Built-In PDF Editor Guide"
-description: "Learn how to use Chrome's built-in PDF editor to fill forms, sign documents, add text, and save edits directly in your browser without additional software."
+description: "Master Chrome's built-in PDF editor with our comprehensive guide. Learn to fill forms, sign documents electronically, add text annotations, and save edits directly in Chrome browser. Free PDF editing tips, keyboard shortcuts, and productivity tricks for 2026."
 date: 2026-01-15
 categories: [tips, productivity]
-tags: [pdf, chrome, editing, documents]
+tags: [chrome-pdf-editor, pdf-editing, chrome-built-in, fill-pdf-forms, sign-pdf, annotate-pdf, edit-pdf-browser, chrome-tips, browser-pdf-tools, free-pdf-editor]
 author: theluckystrike
 ---
 

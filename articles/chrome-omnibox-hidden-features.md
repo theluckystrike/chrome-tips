@@ -102,6 +102,7 @@ Tab Suspender Pro is an extension that automatically suspends tabs you have not 
 
 The combination of Omnibox search capabilities and Tab Suspender Pro creates a powerful workflow. You can keep all your research tabs, reference materials, and working documents open without worrying about memory usage. When you need to find something, use the Omnibox tab search to locate it instantly. When you need to focus on other tasks, Tab Suspender Pro quietly manages your tab resources in the background.
 
+<<<<<<< HEAD
 This synergy between built-in Chrome features and thoughtful extensions exemplifies how you can build a highly efficient browsing environment. The Omnibox gives you instant access to your tabs, files, calculations, and conversions, while Tab Suspender Pro ensures your browser stays fast even with many tabs open.
 
 ## Putting It All Together
@@ -113,5 +114,10 @@ Start with the features you will use most often. If you frequently work with num
 The Chrome Omnibox continues to evolve, with Google adding new features and capabilities over time. Keeping an eye on what is new in Chrome can help you discover additional hidden features as they are released. But the features we have covered here represent the core of what makes the Omnibox such a powerful tool for productivity.
 
 Take a moment to try each of these features now. Type a calculation in the Omnibox, set a quick timer, convert a unit, and search your Drive files. Once you experience how fast and convenient these features are, you will wonder how you ever browsed without them.
+=======
+The Chrome Omnibox proves that sometimes the most powerful tools are the ones sitting right in front of us, hiding in plain sight. Take some time to explore these features, integrate them into your daily routine, and watch your browsing productivity soar to new heights.
+
+---
+>>>>>>> consumer/a59-chrome-omnibox-hidden-features
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

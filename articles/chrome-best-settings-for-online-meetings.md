@@ -1,11 +1,20 @@
 ---
 layout: default
-title: "Chrome Best Settings for Online Meetings"
-description: "Optimize Chrome for smooth video calls. Fix lag, improve audio quality, and reduce bandwidth for better online meetings."
+title: Chrome Best Settings for Online Meetings
+description: Optimize Chrome for smooth video calls. Fix lag, improve audio quality,
+  and reduce bandwidth for better online meetings.
 date: 2025-02-20
-categories: [performance, video-calls]
-tags: [online-meetings, video-calls, chrome-settings, bandwidth]
+categories:
+- performance
+- video-calls
+tags:
+- online-meetings
+- video-calls
+- chrome-settings
+- bandwidth
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: /chrome-best-settings-for-online-meetings/
 ---
 
 # Chrome Best Settings for Online Meetings

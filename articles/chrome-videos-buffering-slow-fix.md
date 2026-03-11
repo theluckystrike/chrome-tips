@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "chrome videos buffering slow fix"
-description: "Fix Chrome video buffering with these proven solutions. Learn why videos stutter and get smooth playback again."
+title: chrome videos buffering slow fix
+description: Fix Chrome video buffering with these proven solutions. Learn why videos
+  stutter and get smooth playback again.
 date: 2026-03-09
-categories: [performance, troubleshooting]
-tags: [chrome-slow, chrome-video, video-buffering, streaming]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-slow
+- chrome-video
+- video-buffering
+- streaming
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: /chrome-videos-buffering-slow-fix/
 ---
 
 # Chrome Videos Buffering Slow Fix

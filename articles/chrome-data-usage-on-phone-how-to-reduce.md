@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "chrome data usage on phone how to reduce"
-description: "Learn how to reduce Chrome data usage on your phone. Simple settings and tips to save mobile data while browsing."
+title: chrome data usage on phone how to reduce
+description: Learn how to reduce Chrome data usage on your phone. Simple settings
+  and tips to save mobile data while browsing.
 date: 2025-03-16
-categories: [mobile, tips, data-saving]
-tags: [chrome-mobile, data-usage, phone, reduce-data, mobile-tips]
+categories:
+- mobile
+- tips
+- data-saving
+tags:
+- chrome-mobile
+- data-usage
+- phone
+- reduce-data
+- mobile-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: /chrome-data-usage-on-phone-how-to-reduce/
 ---
 
 # Chrome Data Usage on Phone: How to Reduce

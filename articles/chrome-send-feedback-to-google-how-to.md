@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Send Feedback to Google How to"
-description: "Learn how to send feedback to Google about Chrome browser issues, bugs, or feature suggestions. Simple steps to help improve Chrome."
+title: Chrome Send Feedback to Google How to
+description: Learn how to send feedback to Google about Chrome browser issues, bugs,
+  or feature suggestions. Simple steps to help improve Chrome.
 date: 2025-02-19
-categories: [browser-tips, troubleshooting]
-tags: [feedback, google, chrome, report, bug]
+categories:
+- browser-tips
+- troubleshooting
+tags:
+- feedback
+- google
+- chrome
+- report
+- bug
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: /chrome-send-feedback-to-google-how-to/
 ---
 
 # Chrome Send Feedback to Google How to

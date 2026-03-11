@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Chrome Downloads Folder How to Change Location"
-description: "Learn how to change where Chrome saves your downloaded files. Simple steps for Windows, Mac, and Linux users."
+title: Chrome Downloads Folder How to Change Location
+description: Learn how to change where Chrome saves your downloaded files. Simple
+  steps for Windows, Mac, and Linux users.
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: /chrome-downloads-folder-how-to-change-location/
 ---
 
 Chrome downloads folder how to change location is something many people need to do at some point. Whether your Downloads folder is getting cluttered, you want to keep work and personal files separate, or you simply prefer a different organization system, Chrome makes it easy to choose where your files go. This guide walks you through the process on any computer.

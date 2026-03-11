@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "chrome for podcast web players best setup"
-description: "Learn how to set up Chrome for podcast web players for the best listening experience. Save memory, improve performance, and enjoy seamless playback."
+title: chrome for podcast web players best setup
+description: Learn how to set up Chrome for podcast web players for the best listening
+  experience. Save memory, improve performance, and enjoy seamless playback.
 date: 2026-01-15
-categories: [productivity, podcast, browser]
-tags: [chrome, podcast, web-player, browser-setup, productivity]
+categories:
+- productivity
+- podcast
+- browser
+tags:
+- chrome
+- podcast
+- web-player
+- browser-setup
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: /chrome-for-podcast-web-players-best-setup/
 ---
 
 # Chrome for Podcast Web Players Best Setup

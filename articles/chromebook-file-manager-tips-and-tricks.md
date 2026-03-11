@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "chromebook file manager tips and tricks"
-description: "Master your chromebook file manager with these simple tips and tricks that make organizing, finding, and managing files effortless."
+title: chromebook file manager tips and tricks
+description: Master your chromebook file manager with these simple tips and tricks
+  that make organizing, finding, and managing files effortless.
 date: 2026-01-15
-categories: [chromebook, productivity]
-tags: [chromebook, file-manager, tips, productivity]
+categories:
+- chromebook
+- productivity
+tags:
+- chromebook
+- file-manager
+- tips
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: /chromebook-file-manager-tips-and-tricks/
 ---
 
 # Chromebook File Manager Tips and Tricks

@@ -1,95 +1,165 @@
 ---
 layout: post
 title: "Chrome Reading List How to Use"
-description: "Learn how to use Chrome Reading List to save articles for later, enable offline reading, sync across devices, and manage your reading list effectively."
-date: 2026-01-16
-categories: [productivity, tips, chrome]
-tags: [chrome-reading-list, save-articles, offline-reading, browser-tips, productivity]
+description: "Learn how to use Chrome Reading List to save articles for later, read offline, and sync across all your devices. Master the Chrome reading list feature today."
+date: 2026-01-15
+categories: [tips, features]
+tags: [chrome-reading-list, offline-reading, browser-tips, sync]
 author: theluckystrike
 ---
 
 # Chrome Reading List How to Use
 
-Chrome Reading List is a powerful but often overlooked feature that can transform how you consume web content. Whether you are researching a topic, keeping track of news articles, or simply saving interesting reads for later, the Reading List provides a clean, organized way to store web pages directly in your browser. This guide will walk you through everything you need to know about using Chrome Reading List effectively, from saving your first article to managing a large collection of saved content.
+The Chrome Reading List is one of the most underutilized features in Google's popular web browser. If you have ever found an interesting article but did not have time to read it immediately, the Reading List provides a simple and effective way to save that content for later. Unlike bookmarks, which are designed for long-term storage of websites you want to revisit frequently, the Reading List is specifically optimized for saving articles and content you intend to read at a more convenient time. This makes it an invaluable tool for anyone who browses the web regularly and wants to organize their reading habits efficiently.
 
-## What Is Chrome Reading List?
+In this comprehensive guide, we will explore everything you need to know about Chrome Reading List, including how to save articles, how to access and read saved content offline, how to sync your reading list across multiple devices, and how to effectively manage your growing collection of saved articles. Whether you are a casual browser or someone who constantly discovers interesting content online, mastering the Reading List will significantly improve your web browsing experience.
 
-Chrome Reading List is a built-in browser feature that allows you to save web pages for later reading. Unlike bookmarks, which are designed for long-term storage of URLs you want to revisit, Reading List is optimized for content you plan to read soon. Each entry in your Reading List shows a preview of the page, including the title, a brief description, and a thumbnail image when available. This makes it easy to scan through your saved articles and pick what to read next.
+## What is Chrome Reading List?
 
-The Reading List is integrated directly into Chrome, which means you do not need to install any extensions or create additional accounts to use it. It works seamlessly with your Google account, allowing your saved articles to sync across all your devices. This makes it an excellent tool for anyone who reads content on multiple devices or wants to save articles on their desktop computer and read them later on a mobile device.
+Chrome Reading List is a built-in feature in the Chrome browser that allows you to save web pages, articles, and other content for later reading. Think of it as a digital bookmarking system specifically designed for long-form content rather than quick website references. When you save a page to your Reading List, Chrome stores the page information including the title and URL, making it easy to find and open later.
 
-One of the key advantages of using Chrome Reading List is its simplicity. There are no complicated settings to configure, no premium features to pay for, and no learning curve to overcome. You can start saving articles immediately, and the feature works exactly as you would expect. This simplicity makes it accessible to users of all skill levels, from casual browsers to power users who need an efficient way to manage large amounts of web content.
+The Reading List was introduced to address a common problem that many web users face: discovering interesting content while browsing but not having sufficient time to read it immediately. Rather than leaving multiple tabs open in hopes of returning to them later, or relying on third-party services to save articles, Chrome provides a native solution that integrates seamlessly with the browser.
+
+One of the key advantages of using the Reading List is its simplicity. There are no accounts to create, no extensions to install, and no complex settings to configure. The feature is built directly into Chrome and available to all users at no additional cost. This makes it an accessible option for anyone using the browser, regardless of their technical expertise.
 
 ## How to Save Articles to Your Reading List
 
-Saving an article to your Reading List is straightforward and can be done in several ways depending on your preference and situation. The most common method is to use the bookmark icon in Chrome's address bar. When you visit a page you want to save, look for the star icon on the right side of the address bar. Clicking this icon opens a dropdown menu where you can choose to save the page as a bookmark or add it to your Reading List. Simply select the Reading List option, and the page will be saved instantly.
+Saving articles to your Chrome Reading List is straightforward and can be accomplished in several different ways. Understanding all these methods will help you choose the most convenient option for your browsing habits.
 
-Another way to add content to your Reading List is through the right-click context menu. When you right-click on any link on a web page, you will see an option to "Save link to Reading List" in the menu that appears. This is particularly useful when you want to save an article linked from another page without having to navigate to it first. You can also use keyboard shortcuts to speed up this process. Pressing Ctrl+Shift+D (or Cmd+Shift+D on Mac) will add the current page to your Reading List without needing to interact with any menus.
+### Method 1: Using the Star Icon
 
-Chrome also makes it easy to save multiple articles quickly. If you are browsing a news site or blog and want to save several articles at once, you can open them all in separate tabs and then use the Reading List feature on each one. For users who prefer keyboard navigation, this approach can be much faster than clicking through menus for each individual article. Some users find it helpful to set aside dedicated time for collecting articles, such as during their morning coffee or while commuting, and then use the Reading List to organize everything in one place.
+The most common way to save a page to your Reading List is through the star icon located in Chrome's address bar. When you visit a webpage, look for the star icon on the right side of the omnibox. Clicking this icon traditionally opens a bookmark dialog, but if you click it while holding a specific key or access it through the proper menu, you can choose to add it to your Reading List instead.
 
-## Enabling Offline Reading
+To add a page to your Reading List using the star icon, click on the star once to open the bookmark dialog. In the dialog that appears, look for an option that allows you to change where the bookmark is saved. By selecting the Reading List folder, you can save the page to your Reading List rather than your bookmarks. This method works quickly once you become familiar with it and provides a seamless way to save content as you browse.
 
-One of the most useful features of Chrome Reading List is the ability to read saved articles offline. This is particularly valuable when you know you will be without internet access, such as during a flight, in an area with poor connectivity, or when you simply want to conserve mobile data. Offline reading ensures that your saved content is always available regardless of your connection status.
+### Method 2: Right-Click Context Menu
 
-To enable offline reading for a saved article, you need to make sure the page has been cached by Chrome. When you save a page to your Reading List, Chrome typically saves a version of the page locally on your device. However, this cached version may not always include all the content, such as images or complex formatting. To ensure the best offline experience, open each article while you have an internet connection and let it fully load. Chrome will then save a more complete version for offline access.
+Another convenient method involves using the right-click context menu. Simply right-click anywhere on the webpage you want to save, and look for the option labeled "Save page to Reading List" in the context menu that appears. This method is particularly useful when you want to save a page without interacting with the address bar or dealing with bookmark dialogs.
 
-The process of reading offline works automatically once you have saved the article. When you are offline and open your Reading List, Chrome will indicate which articles are available for offline reading. You can then click on any of these articles to read them without any internet connection. The text, images, and formatting will all be preserved, giving you a reading experience similar to what you would have online. This makes Chrome Reading List an excellent tool for travelers, commuters, or anyone who wants to build a personal library of articles to read during downtime.
+The right-click method is especially handy when you are reading an article and decide midway through that you want to save it for later reference. Instead of scrolling back up to find the star icon, you can simply right-click and save the page in seconds.
 
-It is worth noting that offline content does take up storage space on your device. If you save many articles with lots of images, you may notice a gradual increase in the amount of storage Chrome uses. You can manage this by periodically removing articles you have already read or no longer need. This keeps your Reading List manageable and frees up storage space for other purposes.
+### Method 3: Keyboard Shortcut
 
-## Syncing Across Devices
+For users who prefer keyboard navigation, Chrome offers a keyboard shortcut to quickly save pages to your Reading List. Pressing Control+D (or Command+D on Mac) opens the bookmark dialog, where you can then navigate to save the page to your Reading List. While this is not quite as fast as a dedicated shortcut, it is still a efficient way to save pages without leaving the keyboard.
 
-One of the most powerful aspects of Chrome Reading List is its integration with your Google account, which enables automatic syncing across all your devices. This means that when you save an article on your desktop computer, it will automatically appear on your laptop, tablet, and phone. Similarly, any articles you save on your mobile device will be available on your desktop. This seamless synchronization makes it incredibly easy to build a reading list on one device and then read from another.
+### Method 4: Bookmarks Manager
 
-To enable syncing, you need to sign in to Chrome with your Google account on each device you want to use. When you sign in, Chrome will automatically sync your Reading List along with your bookmarks, browsing history, and other settings. You can check if syncing is working by opening the Reading List on different devices and confirming that the same articles appear on all of them. Any changes you make, such as adding new articles or removing old ones, will be reflected across all your devices within moments.
+You can also access your Reading List through Chrome's Bookmarks Manager. To open the Bookmarks Manager, press Control+Shift+O (or Command+Shift+O on Mac) or navigate to the Chrome menu, select Bookmarks, and then click on Bookmark Manager. In the Bookmarks Manager, you will see your Reading List listed alongside your bookmark folders. From here, you can add new items to your Reading List or organize existing ones.
 
-Syncing also works in the background, so you do not need to manually trigger any updates. When you add an article to your Reading List on your work computer, it will be waiting for you when you get home and open Chrome on your personal computer. This makes it easy to build a reading list throughout the day and then enjoy your saved articles in the evening without having to worry about transferring content between devices.
+## Accessing Your Reading List
 
-For users who share their Google account across multiple devices, this synchronization is automatic and transparent. However, if you use different Google accounts on different devices, each account will have its own separate Reading List. This can be useful if you want to keep personal and work reading lists separate, or if you share a device with someone else who has their own Google account.
+Once you have saved articles to your Reading List, you need to know how to access and view them. Chrome provides multiple ways to access your saved content, ensuring you can always find your articles regardless of your current browsing context.
+
+### Accessing Through the Address Bar
+
+The quickest way to access your Reading List is through Chrome's address bar. Type "Reading List" or "readlist" in the omnibox, and Chrome will display an option to show your Reading List at the top of the dropdown suggestions. Clicking this option will open your Reading List in a new tab, displaying all your saved articles organized by the date they were added.
+
+This method is incredibly fast and works well when you want to quickly check what you have saved without navigating through multiple menus. The address bar search also works with specific article titles, so if you remember part of the name of an article you saved, you can search for it directly.
+
+### Accessing Through Bookmarks Menu
+
+You can also access your Reading List through the traditional bookmarks menu. Click on the Chrome menu icon (three dots in the upper right corner), hover over Bookmarks, and you will see "Reading List" listed in the menu. Clicking on it will open your Reading List in a new tab.
+
+This method is useful when you prefer navigating through familiar menu structures or when the address bar method is not immediately convenient. The bookmarks menu also shows you the total number of unread items in your Reading List, giving you a quick overview of how much saved content you have waiting.
+
+### The Reading List Interface
+
+When you open your Reading List, you will see a clean, organized view of all your saved articles. Each entry displays the page title, the website it was saved from, and the date it was added. Articles that you have not yet opened are marked as unread, while articles you have viewed are marked as read. This visual distinction helps you quickly identify which articles are new and which you have already explored.
+
+The Reading List interface also provides options to search through your saved articles, making it easy to find specific content even if you have accumulated a large collection. You can sort your articles by date added or by the website they came from, helping you organize your reading in whatever way makes the most sense for your needs.
+
+## Offline Reading with Chrome Reading List
+
+One of the most valuable features of Chrome Reading List is the ability to read saved articles even when you do not have an active internet connection. This offline reading capability is particularly useful for commuters, travelers, or anyone who finds themselves in situations where internet access is limited or unavailable.
+
+### How Offline Reading Works
+
+When you save a page to your Reading List while connected to the internet, Chrome automatically stores a cached version of the page. This cached version includes the main text content, images, and formatting of the original article. When you later open that article while offline, Chrome serves the cached version, allowing you to read the content without requiring an active connection.
+
+It is important to note that the offline version may not always be a perfect replica of the original webpage. Dynamic content such as embedded videos, social media feeds, or live comment sections may not be available offline. However, for most articles and blog posts, the cached version provides a fully readable experience that captures the essential content.
+
+### Enabling Offline Reading
+
+The offline reading feature works automatically in most cases, but there are some factors that can affect its reliability. For the best offline experience, ensure that you are signed in to your Google account in Chrome and that sync is enabled. This allows Chrome to store your Reading List data in the cloud and access cached versions of pages when needed.
+
+Additionally, when you save a page to your Reading List, it is a good practice to open it at least once while connected to the internet. This ensures that Chrome has captured and stored the cached version of the page. Pages that you have never opened while online may not have a cached version available for offline reading.
+
+### Tips for Offline Reading
+
+To get the most out of offline reading, consider saving articles before you know you will be offline. For example, before boarding a flight or heading into a remote area, take a few minutes to open your Reading List and access the articles you want to read. Chrome will download the necessary cached versions, making them available when you go offline.
+
+You can also save multiple articles in batch before your offline period. Simply open several articles from your Reading List while connected to the internet, and Chrome will cache each one. This preparation ensures you have a substantial reading queue available regardless of your connectivity situation.
+
+## Syncing Reading List Across Devices
+
+One of the most powerful aspects of Chrome Reading List is its ability to sync across all your devices. If you use Chrome on multiple computers, smartphones, or tablets, your Reading List travels with you, ensuring you can access your saved articles regardless of which device you are using.
+
+### How Sync Works
+
+Chrome sync is the technology that enables your Reading List to be available across all your devices. When you are signed in to Chrome with your Google account and sync is enabled, any changes to your Reading List are automatically uploaded to Google's servers. These changes are then pushed to all other devices where you are signed in with the same account.
+
+This means that if you save an article on your desktop computer at work, it will be available on your personal laptop when you get home, and also on your phone during your commute. The synchronization happens quickly, usually within seconds, ensuring that your Reading List is consistently up to date across all your devices.
+
+### Enabling Sync
+
+To enable sync and access your Reading List across devices, you need to sign in to Chrome with your Google account. Click on the profile icon in the upper right corner of the Chrome window, then click "Turn on sync" or "Sign in to Chrome." Follow the prompts to sign in with your Google account credentials.
+
+Once signed in, ensure that sync is turned on and that Reading List is selected among the data types to sync. You can manage these settings by clicking on the Sync and Google services option in Chrome settings. Here you will find a list of data types, including Reading List, that can be synced. Make sure the toggle next to Reading List is enabled.
+
+### Cross-Device Reading Experience
+
+The cross-device sync capability fundamentally changes how you can consume saved content. Imagine discovering an interesting article on your phone during your morning commute but not having enough time to read it fully. You can simply save it to your Reading List, and when you arrive at work and open Chrome on your desktop computer, the article will be there waiting for you.
+
+Similarly, you can save articles on your desktop browser while researching a topic, then read them later on your tablet while relaxing on the couch. This flexibility makes the Reading List an incredibly versatile tool for modern web users who move between multiple devices throughout their day.
 
 ## Managing Your Reading List
 
-As your Reading List grows, effective management becomes increasingly important. Chrome provides several tools to help you organize, search, and maintain your saved articles. Understanding these features will help you keep your Reading List manageable and ensure you can always find the content you need.
+As you continue to use Chrome Reading List, you will likely accumulate a growing collection of saved articles. Without proper management, this collection can become overwhelming and difficult to navigate. Fortunately, Chrome provides several features to help you organize and maintain your Reading List effectively.
 
-The first step in managing your Reading List is understanding how to view and navigate it. You can access your Reading List by clicking the bookmarks icon in Chrome's toolbar and selecting the Reading List tab, or by typing chrome://read-lists in the address bar. The Reading List view shows all your saved articles in a clean, card-based layout that makes it easy to scan through your collection. Each card displays the article title, a brief description, and the source website, helping you quickly identify what each article is about.
+### Marking Articles as Read
 
-Searching your Reading List is straightforward and efficient. There is a search bar at the top of the Reading List view that allows you to filter your saved articles by keyword. This is particularly useful when you have a large collection and need to find a specific article quickly. The search function looks through article titles, descriptions, and the text of the pages themselves, making it effective at locating relevant content even when you only remember a partial detail.
+One of the simplest but most important management habits is marking articles as read. When you open an article from your Reading List and finish reading it (or decide you are not interested), you should remove it from your list or mark it as read. This keeps your Reading List focused on content you actually want to read rather than becoming a cluttered archive of everything you have ever saved.
 
-Removing articles from your Reading List is just as easy as adding them. When you hover over any article in your Reading List, you will see a small X button appear in the corner. Clicking this button removes the article from your list. You can also remove articles by opening them and using the option in the dropdown menu that appears. For users who want to clear their Reading List entirely, there is an option to remove all items at once, though this should be used with caution since the action cannot be undone.
+To mark an article as read, simply open it from your Reading List. Chrome automatically marks opened articles as read. Alternatively, you can manually remove articles from your list by clicking the three-dot menu next to each entry and selecting "Remove from Reading List."
 
-Keeping your Reading List organized also means regularly reviewing and curating your saved content. It is easy to let articles pile up, especially if you save content frequently. Setting a routine, such as reviewing your Reading List once a week, can help you stay on top of your collection. During these reviews, you can remove articles you are no longer interested in, archive ones you have already read, and prioritize content you want to read soon. This habit ensures your Reading List remains a useful resource rather than a cluttered mess of forgotten links.
+### Organizing with Search
 
-## Tips for Getting the Most Out of Your Reading List
+Chrome's Reading List includes a search function that makes it easy to find specific articles even in a large collection. If you remember the title of an article or even just a keyword from it, you can type it in the search bar at the top of your Reading List to filter your saved items.
 
-To maximize the usefulness of Chrome Reading List, consider incorporating some best practices into your browsing habits. One effective approach is to use descriptive titles when saving articles. While Chrome typically pulls the title from the web page, you can edit this title after saving if you want to add more context or make it easier to find later. This is especially helpful for articles with vague or generic titles that might be difficult to identify later.
+This search functionality is particularly valuable for researchers or professionals who save numerous articles on specific topics. Instead of scrolling through dozens of saved items, you can quickly locate the exact article you need.
 
-Another helpful tip is to save articles strategically rather than indiscriminately. Before adding a page to your Reading List, ask yourself whether you are likely to actually read it. This simple habit prevents your list from becoming overwhelmed with content you will never get to, making it easier to focus on the articles that matter most. Some users find it helpful to set a limit on how many unread articles they allow in their Reading List at any given time, creating a natural incentive to read and remove content regularly.
+### Periodic Cleanup
 
-Combining Chrome Reading List with other productivity tools can also enhance your reading experience. For example, you might use your Reading List for articles you want to read on your computer while using a separate app on your phone for longer-form content. Alternatively, you could use the Reading List as a temporary holding area for articles you are researching, then transfer the most relevant ones to a more permanent organization system once you have finished your research.
+Like any organizational system, your Reading List benefits from periodic cleanup. Set aside some time every week or two to review your saved articles and remove those that are no longer relevant. Articles that seemed interesting when you saved them may no longer be relevant after a few weeks, and removing them keeps your list manageable.
 
-## Enhancing Your Reading Experience with Related Tools
+Consider creating a routine where you go through your Reading List and either read the articles or remove them. This prevents the accumulation of stale content and ensures your Reading List remains a useful tool rather than a digital graveyard of forgotten links.
 
-While Chrome Reading List is excellent for saving and organizing web content, combining it with other tools can further enhance your browsing experience. For users who find themselves with many open tabs, a tab management extension can help reduce clutter and improve performance. **Tab Suspender Pro** is a popular choice that automatically suspends tabs you are not actively using, freeing up memory and making your browser run faster. This can be particularly helpful when you have a large Reading List and tend to open several articles at once to read later.
+## Chrome Reading List vs. Other Solutions
 
-Using **Tab Suspender Pro** alongside your Reading List creates a powerful combination. Your Reading List serves as a central repository for articles you want to read, while Tab Suspender Pro helps you manage the tabs you are currently viewing. This separation keeps your active browsing session clean and efficient while ensuring your saved articles are safely stored in the Reading List for future access. The two tools complement each other perfectly, with the Reading List handling long-term storage and organization while Tab Suspender Pro optimizes your immediate browsing experience.
+While Chrome Reading List is an excellent built-in option, it is worth understanding how it compares to other reading list solutions available. Third-party services like Pocket, Instapaper, and Microsoft Edge's reading list offer additional features such as enhanced formatting, text-to-speech, and more sophisticated organization tools.
 
-Many users also find it helpful to integrate their Reading List with other note-taking or knowledge management tools. For example, you might read an article in your Reading List and then save key takeaways to a note-taking app for later reference. This workflow allows you to not only consume content but also retain and organize the most valuable information from what you read.
+However, Chrome Reading List has several advantages that make it worth considering. It requires no additional accounts or subscriptions, integrates natively with the browser, and automatically syncs across all your Chrome instances. For many users, these benefits outweigh the advanced features offered by third-party alternatives.
 
-## Common Questions About Chrome Reading List
+If you find that Chrome Reading List meets most of your needs but you require additional features, you might consider using it alongside other tools. For example, you could use Chrome Reading List for quick saves while using a more feature-rich service for articles that require extensive highlighting or annotation.
 
-Users often have questions about specific aspects of Chrome Reading List functionality. One common question is whether saved articles expire or are automatically removed. The answer is that articles remain in your Reading List indefinitely until you manually remove them. There is no automatic expiration, so you can save articles knowing they will be available whenever you are ready to read them.
+## Enhancing Your Reading Experience with Tab Suspender Pro
 
-Another frequent question concerns the difference between Reading List and bookmarks. While both features allow you to save web pages, they serve different purposes. Bookmarks are best for URLs you want to access regularly or keep as permanent references, such as frequently visited websites or important resources. Reading List, on the other hand, is designed for content you plan to read but do not need to access regularly. The card-based interface and offline capabilities make Reading List the better choice for articles, blog posts, and other read-once content.
+While Chrome Reading List helps you save and organize articles for later reading, another tool that can significantly enhance your overall Chrome experience is **Tab Suspender Pro**. This extension automatically suspends tabs that you are not actively using, which reduces memory usage and can make your browser feel noticeably faster, especially when you have many tabs open.
 
-Users also sometimes ask about privacy concerns related to syncing their Reading List across devices. It is important to understand that when you enable sync, your Reading List data is stored on Google's servers and synchronized across your devices. This data is linked to your Google account, which means Google has access to this information. For most users, this is not a significant concern, but if you have specific privacy requirements, you may want to review your sync settings or use local-only storage for sensitive content.
+**Tab Suspender Pro** works particularly well in conjunction with the Reading List. Rather than keeping multiple articles open in separate tabs while you intend to read them, you can save them to your Reading List and close the tabs. This approach keeps your browser environment clean and efficient while ensuring your articles are safely stored in your Reading List for later access.
 
-## Conclusion
+When you are ready to read an article from your Reading List, simply click on it, and **Tab Suspender Pro** will manage your tabs intelligently, suspending inactive ones to free up system resources. This combination of effective content saving and efficient tab management creates a streamlined browsing experience that maximizes both productivity and performance.
 
-Chrome Reading List is a versatile and powerful feature that can significantly improve how you consume web content. By learning how to save articles effectively, enable offline reading, sync across devices, and manage your list, you can transform your browsing experience and ensure you never miss content you want to read. The simplicity of the Reading List, combined with its deep integration into Chrome, makes it an accessible tool for users of all experience levels.
+Using **Tab Suspender Pro** alongside Chrome Reading List represents a thoughtful approach to browser management. You get the best of both worlds: an organized system for saving and accessing articles when you need them, plus a tool that keeps your browser running smoothly even with a large collection of saved content.
 
-Whether you are a casual reader who occasionally saves interesting articles or a power user who maintains an extensive collection of research materials, Chrome Reading List has the features you need to stay organized and productive. By combining it with complementary tools like **Tab Suspender Pro** and following the best practices outlined in this guide, you can build an efficient reading workflow that fits your lifestyle and helps you get the most out of the content you discover online.
+## Final Thoughts
 
-Start exploring Chrome Reading List today, and discover how easy it can be to save, organize, and enjoy the articles that matter to you.
+Chrome Reading List is a powerful yet often overlooked feature that can significantly improve how you consume web content. By learning how to save articles efficiently, access them offline, sync across your devices, and manage your collection effectively, you can transform your web browsing habits and ensure that interesting content never slips away due to lack of time.
+
+The beauty of Chrome Reading List lies in its simplicity and integration. There is nothing additional to install, no accounts to manage, and no learning curve to overcome. It works quietly in the background, ready to help you capture and revisit the content that matters most to you.
+
+Combined with tools like **Tab Suspender Pro** that help maintain browser performance, Chrome Reading List becomes part of a comprehensive system for managing your web consumption. Whether you are a researcher collecting articles for a project, a student gathering study materials, or simply someone who enjoys reading online content at their own pace, the Reading List provides the foundation you need to stay organized and make the most of the web's vast information resources.
+
+Start using Chrome Reading List today, and discover how easy it can be to build your personal library of articles, always available whenever you are ready to read.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

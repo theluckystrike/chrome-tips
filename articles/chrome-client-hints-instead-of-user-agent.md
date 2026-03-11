@@ -56,7 +56,7 @@ For extension developers, this change is particularly important. Browser extensi
 
 ## Performance Benefits Worth Mentioning
 
-Beyond privacy improvements, Chrome Client Hints offer some performance advantages. Because the information is now structured and requested on demand, browsers can avoid sending unnecessary data with every single request. This can slightly reduce bandwidth usage and improve page load times, especially on mobile connections.
+Beyond privacy improvements, Chrome Client Hints offer some performance advantages. Because the information is now structured and requested on demand, browsers can avoid sending unnecessary data with every single request. This can slightly reduce bandwidth usage and improve page load times, especially on mobile connections. Users looking to maximize their browser efficiency might also consider using extensions like Tab Suspender Pro, which automatically suspends inactive tabs to free up memory and resources.
 
 Additionally, the reduced User-Agent string means less data being transmitted with each request. While the difference might seem small individually, it adds up across the billions of requests that Chrome handles every day.
 

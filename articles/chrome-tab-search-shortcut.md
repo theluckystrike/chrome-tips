@@ -72,4 +72,4 @@ The key is to make a conscious effort to use the shortcut instead of manually sc
 
 Remember, efficient tab management is not just about finding things quickly; it is also about maintaining your focus and productivity. When you can instantly locate the information you need, you stay in the flow of your work rather than getting distracted by the mechanics of browsing.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

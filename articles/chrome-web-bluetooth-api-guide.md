@@ -1,11 +1,15 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
 layout: post
 title: "Chrome Web Bluetooth API Guide"
 description: "Master the Chrome Web Bluetooth API for web development. Learn device pairing, GATT services, characteristics, and security best practices for building Bluetooth-enabled web apps."
 date: 2026-01-15
 categories: [development, web-bluetooth, chrome-api]
 tags: [web-bluetooth, chrome, ble, Gatt, device-pairing, javascript-api]
+<<<<<<< HEAD
 =======
 layout: default
 title: "Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser"
@@ -14,12 +18,17 @@ date: 2026-03-11
 categories: [development, bluetooth, web-api]
 tags: [chrome-web-bluetooth-api, web-bluetooth, bluetooth-gatt, device-pairing, web-development]
 >>>>>>> consumer/a49-chrome-web-bluetooth-api-guide
+=======
+>>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
 author: theluckystrike
 ---
 
 # Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
 The Chrome Web Bluetooth API represents one of the most exciting additions to browser capabilities in recent years. It enables web developers to create applications that can communicate directly with Bluetooth Low Energy (BLE) devices directly from the browser, eliminating the need for native applications or plugins. This comprehensive guide will walk you through everything you need to know to build robust Bluetooth-enabled web applications using Chrome.
 
 ## Understanding Web Bluetooth Fundamentals
@@ -33,6 +42,7 @@ One of the most powerful aspects of the Web Bluetooth API is its security-first 
 ## Device Pairing and Discovery
 
 The first step in working with Web Bluetooth is discovering and connecting to devices. Chrome provides the `navigator.bluetooth.requestDevice()` method as the entry point for device discovery. This method triggers a browser-native dialog that shows the user all nearby discoverable BLE devices, allowing them to select which device to connect to.
+<<<<<<< HEAD
 =======
 The Chrome Web Bluetooth API opens up exciting possibilities for web developers and users alike. This powerful API enables websites to communicate directly with Bluetooth devices, eliminating the need for native applications or browser extensions. Whether you're building a web app to interact with fitness trackers, smart home devices, medical equipment, or industrial sensors, the Web Bluetooth API provides a standardized way to connect and exchange data.
 
@@ -60,11 +70,14 @@ The first step in working with Bluetooth devices is discovering what's available
 
 Here's a basic example of how to request a device:
 >>>>>>> consumer/a49-chrome-web-bluetooth-api-guide
+=======
+>>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
 
 ```javascript
 async function discoverDevice() {
   try {
     const device = await navigator.bluetooth.requestDevice({
+<<<<<<< HEAD
 <<<<<<< HEAD
       filters: [{ services: ['battery_service'] }],
       optionalServices: ['device_information']
@@ -88,11 +101,24 @@ async function discoverDevice() {
   } catch (error) {
     console.error('Error requesting device:', error);
 >>>>>>> consumer/a49-chrome-web-bluetooth-api-guide
+=======
+      filters: [{ services: ['battery_service'] }],
+      optionalServices: ['device_information']
+    });
+    
+    console.log('Selected device:', device.name);
+    return device;
+  } catch (error) {
+    console.error('Device selection failed:', error);
+>>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
   }
 }
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
 The `requestDevice()` method accepts an options object where you can specify which services your application needs. Using the `filters` property restricts the displayed devices to those advertising the specified services, making it easier for users to find the right device. The `optionalServices` property lists services you would like to access but don't require for the connection to succeed.
 
 When designing your device discovery experience, consider providing clear instructions to users about what type of device they should look for. The browser's device selection dialog shows the device's advertised name, which might not always be intuitive. You can improve user experience by providing guidance in your application's UI about what device to select.
@@ -193,6 +219,7 @@ async function subscribeToHeartRate(characteristic) {
     const value = event.target.value;
     const heartRate = value.getUint8(1); // First byte is flags
     console.log('Heart rate:', heartRate);
+<<<<<<< HEAD
 =======
 The `filters` option is crucial — it tells Chrome which types of devices to show in the selection dialog. You can filter by the services a device provides, by device name using the `namePrefix` filter, or by manufacturer data. Using specific filters improves the user experience by showing only relevant devices rather than every BLE device in range.
 
@@ -320,11 +347,16 @@ function handleDisconnection(device) {
       reconnectToDevice(device);
     }
 >>>>>>> consumer/a49-chrome-web-bluetooth-api-guide
+=======
+>>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
   });
 }
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
 The notification event contains the new characteristic value, which you parse just like a read value. It's important to note that notifications can arrive rapidly depending on the device and what it's measuring. Your event handler should be efficient to avoid blocking the main thread.
 
 When you no longer need notifications, always stop them to conserve resources:
@@ -357,6 +389,7 @@ async function safeDeviceRequest() {
       console.log('Connection blocked due to security policy');
     } else if (error.name === 'AbortError') {
       console.log('User cancelled the request');
+<<<<<<< HEAD
 =======
 You can also check the connection state at any time using the `gatt.connected` property. This is useful for UI updates or before attempting operations that require an active connection.
 
@@ -400,12 +433,17 @@ async function safeBluetoothOperation() {
     } else {
       console.error('Bluetooth error:', error.message);
 >>>>>>> consumer/a49-chrome-web-bluetooth-api-guide
+=======
+>>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
     }
   }
 }
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
 Be mindful of the permissions you request. Only ask for the services and characteristics your application actually needs. Requesting unnecessary permissions can make users suspicious and may be flagged by security auditors. Chrome also enforces policies that limit which origins can use the Web Bluetooth API, so check your browser's enterprise policies if you encounter issues.
 
 Handle device disconnection gracefully and consider implementing reconnection logic for applications that depend on continuous communication. However, avoid aggressive reconnection attempts that could drain the device's battery or cause user frustration.
@@ -441,6 +479,13 @@ Be aware that the Web Bluetooth API has certain limitations compared to native B
 ## Conclusion
 
 The Chrome Web Bluetooth API opens up tremendous possibilities for web developers to create innovative applications that interact with the physical world. From health monitoring apps communicating with fitness devices to industrial IoT dashboards connecting to sensors, the ability to access Bluetooth devices from the browser transforms what's possible on the web.
+<<<<<<< HEAD
+=======
+
+Understanding device pairing, GATT services, characteristics, and security best practices gives you the foundation to build robust Bluetooth-enabled applications. Remember to always prioritize user security, handle errors gracefully, and provide clear feedback throughout the device interaction flow.
+
+As browser support continues to expand and more devices become Bluetooth-enabled, now is the perfect time to explore what Web Bluetooth can do for your projects. Start with simple read operations, then progressively implement more complex features as you become comfortable with the API.
+>>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
 
 Understanding device pairing, GATT services, characteristics, and security best practices gives you the foundation to build robust Bluetooth-enabled applications. Remember to always prioritize user security, handle errors gracefully, and provide clear feedback throughout the device interaction flow.
 

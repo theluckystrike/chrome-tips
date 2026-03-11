@@ -100,7 +100,15 @@ Fourth, **try resetting Chrome to default settings**. If you have made extensive
 
 Chrome Energy Saver mode is a powerful tool for anyone who wants to extend their device's battery life while continuing to use one of the world's most capable web browsers. By understanding how its battery optimization features work, when it activates, and how to combine it with tools like Tab Suspender Pro, you can create a highly efficient browsing environment that maximizes your productivity without draining your battery.
 
+<<<<<<< HEAD
 The key to getting the most out of Energy Saver mode is understanding its capabilities and limitations. It provides excellent automatic optimizations for background activity, visual effects, and network requests, but it works best when complemented by good browsing habits and, if needed, additional tools like Tab Suspender Pro for more granular control.
+=======
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+The feature activates automatically when you're on battery power, requiring minimal intervention from you while still providing substantial power savings. Combined with thoughtful tab management and extensions like Tab Suspender Pro, you can create a browsing experience that remains productive while being much easier on your battery.
+>>>>>>> consumer/a5-chrome-energy-saver-mode-guide
 
 Whether you are a mobile professional, a student, or anyone who values extended battery life, taking advantage of Chrome's Energy Saver mode can significantly improve your computing experience. Start using these features today, and enjoy longer battery life for all your browsing needs.
 

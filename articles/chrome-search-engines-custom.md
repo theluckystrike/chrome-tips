@@ -161,3 +161,5 @@ The system is remarkably flexible, allowing you to create search engines for pub
 Remember to periodically review and update your custom search engine list as your needs change. The initial investment of time required to set up these shortcuts pays dividends every day as you browse more efficiently. With practice, using keyword shortcuts will become second nature, and you will find yourself wondering how you ever managed without them.
 
 For additional ways to enhance your Chrome experience and maintain peak browser performance, consider exploring extensions like Tab Suspender Pro that help manage your open tabs and system resources. A well-organized browser with efficient search capabilities, complemented by smart tab management, creates an environment where productivity thrives.
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

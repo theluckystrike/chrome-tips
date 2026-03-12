@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Fix Chrome Spell Check Using the Wrong Language
-description: Is Chrome checking your spelling in the wrong language? Learn how to fix language settings, manage dictionaries, and use extensions for better spell checking.
+description: "Is Chrome checking your spelling in the wrong language? Learn how to fix language settings, manage dictionaries, and use extensions for better spell checking."
 date: '2025-03-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-spell-check-wrong-language-fix
@@ -9,6 +9,7 @@ categories: null
 tags: null
 author: theluckystrike
 ---
+
 # Chrome Spell Check Wrong Language Fix
 
 You are typing an email or filling out a form in Chrome and the red squiggly lines are showing up under words that are actually spelled correctly. Or maybe you are writing in English but Chrome keeps suggesting words from Spanish or German. This happens more often than you would think and it can be really frustrating when Chrome spell check wrong language is the problem you are dealing with.
@@ -75,9 +76,9 @@ Once you have everything set up correctly, you should see accurate red squiggly 
 
 If you continue to have issues after trying these steps, you might want to consider using a dedicated spell check extension or reaching out to Chrome support for more specific help with your situation.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
-
 ## Related Articles
-* [Chrome Multiple Users on Same Computer Setup](/articles/chrome-multiple-users-on-same-computer-setup/)
-* [Chrome Extensions for iMacros Alternative](/articles/chrome-extensions-for-imacros-alternative/)
-* [Chrome WebAssembly Debugging Guide](/articles/chrome-wasm-debugging-guide/)
+- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

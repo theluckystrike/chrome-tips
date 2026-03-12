@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How to Fix Chrome Spellcheck Not Working: A Quick Guide'
-description: Troubleshoot Chrome spellcheck issues with our easy guide. Learn how to check language settings, resolve extension conflicts, and clear your custom dictionary.
+description: "Troubleshoot Chrome spellcheck issues with our easy guide. Learn how to check language settings, resolve extension conflicts, and clear your custom dictionary."
 date: '2025-03-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-spellcheck-not-working-fix
@@ -9,6 +9,7 @@ categories: null
 tags: null
 author: theluckystrike
 ---
+
 # Chrome Spellcheck Not Working? Here's How to Fix It
 
 You're typing in a text field and Chrome isn't catching your misspellings anymore. The familiar red squiggly underlines have disappeared. This is surprisingly common and usually easy to fix.
@@ -98,11 +99,9 @@ Tab Suspender Pro is an extension that automatically manages your open tabs by s
 
 For casual writing (comments, messages, quick emails), Chrome's basic spellcheck is sufficient. For important documents, use a dedicated writing tool. And for a smoother overall experience that keeps all these features working reliably, make sure you are managing your browser's resources effectively.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
-
 ## Related Articles
-* [Chrome for Facebook Ads Manager Tips](/articles/chrome-for-facebook-ads-manager-tips/)
-* [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/articles/chrome-extensions-folder-location-files/)
-* [Chrome View Transitions API Explained](/articles/chrome-view-transitions-api-explained/)
+- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

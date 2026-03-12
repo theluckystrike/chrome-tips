@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Use Chrome Shape Detection API for Face Detection
-description: Learn how the Chrome Shape Detection API enables face detection directly in your browser. Discover how it works, privacy implications, and how to manage permissions.
+description: "Learn how the Chrome Shape Detection API enables face detection directly in your browser. Discover how it works, privacy implications, and how to manage perm..."
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-shape-detection-api-face-detection
@@ -9,6 +9,7 @@ categories: null
 tags: null
 author: theluckystrike
 ---
+
 # Chrome Shape Detection API Face Detection
 
 If you have ever wondered how some websites can automatically detect faces in your photos or enable face unlock features directly in Chrome, the answer lies in something called the Shape Detection API. This built-in Chrome feature allows websites to detect faces, barcodes, and text within images using the Shape Detection API face detection capability. Understanding what this API does, how it works, and what it means for your privacy can help you make informed decisions about your browsing experience.
@@ -66,8 +67,8 @@ Finally, consider your overall browser performance. Running **Face Detection** a
 Using **Tab Suspender Pro** is an excellent way to handle this. It automatically "hibernates" background tabs, freeing up **RAM** and **CPU** resources so that your active **Shape Detection** tasks run smoothly and without lag. By keeping your browser lean, you ensure that high-performance **Web APIs** have the resources they need to function correctly.
 
 ## Related Articles
-- [Chrome Video Playback Stuttering Fix](/chrome-tips/chrome-video-playback-stuttering-fix)
-- [Chrome Extensions Using Too Much Memory](/chrome-tips/chrome-extensions-using-too-much-memory)
-- [Chrome Site Settings Explained](/chrome-tips/chrome-site-settings-explained-complete-guide)
+- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -12,8 +12,8 @@ tags:
 - tab-organization
 - chrome-features
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /chrome-vertical-tabs-how-to-enable/
+last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+permalink: chrome-vertical-tabs-how-to-enable
 ---
 
 # Chrome Vertical Tabs How to Enable

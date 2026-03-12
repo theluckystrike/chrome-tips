@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "How to Reduce Chrome Startup Time"
-description: "Is Chrome taking forever to open? Learn practical ways to reduce Chrome startup time and get browsing faster."
+title: How to Reduce Chrome Startup Time
+description: Is Chrome taking forever to open? Learn practical ways to reduce Chrome
+  startup time and get browsing faster.
 date: 2026-01-15
-categories: [performance, startup]
-tags: [chrome-startup, speed, browser-performance]
+categories:
+- performance
+- startup
+tags:
+- chrome-startup
+- speed
+- browser-performance
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: how-to-reduce-chrome-startup-time
 ---
 
 # How to Reduce Chrome Startup Time

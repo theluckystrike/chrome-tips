@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "how to turn on chrome dark mode on any website"
-description: "Discover easy ways to enable dark mode in Chrome for any website and browse comfortably in low light without eye strain."
+title: how to turn on chrome dark mode on any website
+description: Discover easy ways to enable dark mode in Chrome for any website and
+  browse comfortably in low light without eye strain.
 date: 2026-01-15
-categories: [tips, accessibility]
-tags: [dark-mode, chrome, browser, eye-strain]
+categories:
+- tips
+- accessibility
+tags:
+- dark-mode
+- chrome
+- browser
+- eye-strain
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: how-to-turn-on-chrome-dark-mode-on-any-website
 ---
 
 # How to Turn on Chrome Dark Mode on Any Website

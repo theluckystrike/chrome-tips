@@ -3,7 +3,7 @@ layout: post
 title: Chrome Virtual Keyboard API Explained
 description: Learn what the Chrome virtual keyboard API is, how it works, and how
   it improves your web experience on tablets and mobile devices.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-virtual-keyboard-api-explained
 ---
 

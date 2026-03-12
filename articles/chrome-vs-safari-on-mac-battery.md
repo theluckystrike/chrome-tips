@@ -1,11 +1,20 @@
 ---
 layout: default
-title: "Chrome vs Safari on Mac — Which Uses Less Battery?"
-description: "Detailed comparison of Chrome and Safari battery usage on Mac. Real-world battery impact, energy usage, and when to use each browser."
+title: Chrome vs Safari on Mac — Which Uses Less Battery?
+description: Detailed comparison of Chrome and Safari battery usage on Mac. Real-world
+  battery impact, energy usage, and when to use each browser.
 date: 2025-02-23
-categories: [comparison, mac]
-tags: [chrome-vs-safari, mac-battery, battery-life, browser-comparison]
+categories:
+- comparison
+- mac
+tags:
+- chrome-vs-safari
+- mac-battery
+- battery-life
+- browser-comparison
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-vs-safari-on-mac-battery
 ---
 
 # Chrome vs Safari on Mac — Which Uses Less Battery?

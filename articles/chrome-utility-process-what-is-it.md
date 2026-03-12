@@ -4,7 +4,7 @@ title: Chrome Utility Process What Is It
 description: Learn what Chrome utility processes are, why they appear in Task Manager,
   and how to manage them effectively to improve browser performance.
 date: '2026-03-09'
-last_modified_at: "%Y->- (origin/fix/lastmod-batch-1)"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-utility-process-what-is-it
 ---
 

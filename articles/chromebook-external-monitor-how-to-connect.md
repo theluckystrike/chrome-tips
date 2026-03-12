@@ -3,7 +3,7 @@ layout: post
 title: Chromebook External Monitor How to Connect
 description: Learn how to connect an external monitor to your Chromebook with step-by-step
   instructions for cable types, settings, and troubleshooting.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chromebook-external-monitor-how-to-connect
 ---
 

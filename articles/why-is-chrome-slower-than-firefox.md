@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Why Is Chrome Slower Than Firefox?"
-description: "Chrome feels slower than Firefox for many users. Here's why this happens and what you can do about it."
+title: Why Is Chrome Slower Than Firefox?
+description: Chrome feels slower than Firefox for many users. Here's why this happens
+  and what you can do about it.
 date: 2025-02-21
-categories: [comparison, performance]
-tags: [chrome-vs-firefox, browser-speed, performance, memory-usage]
+categories:
+- comparison
+- performance
+tags:
+- chrome-vs-firefox
+- browser-speed
+- performance
+- memory-usage
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: why-is-chrome-slower-than-firefox
 ---
 
 Why is chrome slower than firefox? If you've ever asked yourself this question while waiting for pages to load, you're definitely not alone. Many people notice that Firefox feels snappier, especially on computers that aren't brand new. Let me explain what's actually happening and what you can do about it.

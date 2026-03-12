@@ -3,7 +3,7 @@ layout: post
 title: How to Turn Off Chrome Notifications on Android
 description: Learn how to stop unwanted Chrome notifications on your Android phone
   with simple steps.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-turn-off-chrome-notifications-android
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Chrome vs Samsung Internet on Android
 description: A practical comparison of Chrome and Samsung Internet browsers on Android
   to help you choose the best one for your needs.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-vs-samsung-internet-on-android
 ---
 

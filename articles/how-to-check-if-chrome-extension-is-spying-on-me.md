@@ -3,7 +3,7 @@ layout: post
 title: How to Check If Chrome Extension Is Spying on Me
 description: Worried about Chrome extensions tracking you? Learn how to detect spying
   extensions and protect your privacy with simple steps.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-check-if-chrome-extension-is-spying-on-me
 ---
 

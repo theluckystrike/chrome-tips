@@ -13,8 +13,8 @@ tags:
 - video-buffering
 - streaming
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /chrome-videos-buffering-slow-fix/
+last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+permalink: chrome-videos-buffering-slow-fix
 ---
 
 # Chrome Videos Buffering Slow Fix

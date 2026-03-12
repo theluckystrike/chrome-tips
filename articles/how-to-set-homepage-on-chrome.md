@@ -3,7 +3,7 @@ layout: post
 title: How to Set Homepage on Chrome
 description: Learn how to set your homepage on Chrome in a few simple steps. Customize
   your browser to open the sites you want every time you launch Chrome.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-set-homepage-on-chrome
 ---
 

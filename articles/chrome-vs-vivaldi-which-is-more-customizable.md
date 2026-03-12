@@ -3,7 +3,7 @@ layout: post
 title: 'Chrome vs Vivaldi: Which Is More Customizable'
 description: A practical comparison of Chrome and Vivaldi customization options to
   help you choose the browser that fits your needs.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-vs-vivaldi-which-is-more-customizable
 ---
 

@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Chromebook Storage Full How to Free Space"
-description: "Running out of room on your Chromebook? This guide shows simple ways to free up storage space and get your device running smoothly again."
+title: Chromebook Storage Full How to Free Space
+description: Running out of room on your Chromebook? This guide shows simple ways
+  to free up storage space and get your device running smoothly again.
 date: 2025-02-20
-categories: [chromebook, troubleshooting]
-tags: [chromebook-storage, chromebook-free-space, chrome-os]
+categories:
+- chromebook
+- troubleshooting
+tags:
+- chromebook-storage
+- chromebook-free-space
+- chrome-os
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chromebook-storage-full-how-to-free-space
 ---
 
 # Chromebook Storage Full How to Free Space

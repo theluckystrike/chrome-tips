@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome VPN Extension Free Best 2026"
-description: "Find the best free Chrome VPN extension in 2026 to protect your privacy, access geo-restricted content, and browse securely without spending money."
+title: Chrome VPN Extension Free Best 2026
+description: Find the best free Chrome VPN extension in 2026 to protect your privacy,
+  access geo-restricted content, and browse securely without spending money.
 date: 2026-03-09
-categories: [privacy, security, tips]
-tags: [chrome-vpn, vpn-extension, free-vpn, privacy, browser-security]
+categories:
+- privacy
+- security
+- tips
+tags:
+- chrome-vpn
+- vpn-extension
+- free-vpn
+- privacy
+- browser-security
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-vpn-extension-free-best-2026
 ---
 
 # Chrome VPN Extension Free Best 2026

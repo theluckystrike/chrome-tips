@@ -3,7 +3,7 @@ layout: post
 title: How to Organize Chrome Bookmarks Into Folders
 description: Learn how to organize Chrome bookmarks into folders to find your favorite
   sites faster and keep your browser tidy.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-organize-chrome-bookmarks-into-folders
 ---
 

@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chromebook vs iPad for Students"
-description: "Compare Chromebooks and iPads for students. Find which device best fits your study needs, budget, and learning style."
+title: Chromebook vs iPad for Students
+description: Compare Chromebooks and iPads for students. Find which device best fits
+  your study needs, budget, and learning style.
 date: 2025-02-20
-categories: [laptops, tablets, students]
-tags: [chromebook-vs-ipad-students, student-device, ipad-for-school]
+categories:
+- laptops
+- tablets
+- students
+tags:
+- chromebook-vs-ipad-students
+- student-device
+- ipad-for-school
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chromebook-vs-ipad-for-students-comparison
 ---
 
 # Chromebook vs iPad for Students

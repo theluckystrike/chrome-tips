@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "How to Uninstall Chrome Completely and Reinstall"
-description: "Step-by-step guide to fully remove Chrome from your computer and reinstall a fresh copy. Fix persistent browser issues."
+title: How to Uninstall Chrome Completely and Reinstall
+description: Step-by-step guide to fully remove Chrome from your computer and reinstall
+  a fresh copy. Fix persistent browser issues.
 date: 2025-02-19
-categories: [troubleshooting]
-tags: [chrome-uninstall, browser-reset, reinstall-chrome]
+categories:
+- troubleshooting
+tags:
+- chrome-uninstall
+- browser-reset
+- reinstall-chrome
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: how-to-uninstall-chrome-completely-and-reinstall
 ---
 
 # How to Uninstall Chrome Completely and Reinstall

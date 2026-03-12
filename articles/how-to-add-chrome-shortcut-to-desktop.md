@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "How to Add Chrome Shortcut to Desktop"
-description: "Learn how to add a Chrome shortcut to your desktop in simple steps for quick access to your browser."
+title: How to Add Chrome Shortcut to Desktop
+description: Learn how to add a Chrome shortcut to your desktop in simple steps for
+  quick access to your browser.
 date: 2026-01-20
-categories: [tips, chrome]
-tags: [chrome, shortcuts, desktop, browser]
+categories:
+- tips
+- chrome
+tags:
+- chrome
+- shortcuts
+- desktop
+- browser
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: how-to-add-chrome-shortcut-to-desktop
 ---
 
 # How to Add Chrome Shortcut to Desktop

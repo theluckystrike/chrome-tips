@@ -13,8 +13,8 @@ tags:
 - tips
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /chromebook-file-manager-tips-and-tricks/
+last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+permalink: chromebook-file-manager-tips-and-tricks
 ---
 
 # Chromebook File Manager Tips and Tricks

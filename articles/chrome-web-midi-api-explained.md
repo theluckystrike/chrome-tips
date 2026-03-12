@@ -3,7 +3,7 @@ layout: post
 title: Chrome Web MIDI API Explained
 description: What is the Chrome Web MIDI API, why it matters, and how to fix common
   MIDI connection issues in Chrome browser.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-web-midi-api-explained
 ---
 

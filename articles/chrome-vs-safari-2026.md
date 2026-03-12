@@ -1,11 +1,24 @@
 ---
 layout: default
-title: "Chrome vs Safari 2026 Comparison"
-description: "Comprehensive Chrome vs Safari 2026 comparison covering macOS performance, battery life, privacy features, and ecosystem integration. Find the best browser for your Mac."
+title: Chrome vs Safari 2026 Comparison
+description: Comprehensive Chrome vs Safari 2026 comparison covering macOS performance,
+  battery life, privacy features, and ecosystem integration. Find the best browser
+  for your Mac.
 date: 2026-01-20
-categories: [browsers, comparison, macos]
-tags: [chrome, safari, browser-comparison, macos, privacy, battery]
+categories:
+- browsers
+- comparison
+- macos
+tags:
+- chrome
+- safari
+- browser-comparison
+- macos
+- privacy
+- battery
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-vs-safari-2026
 ---
 
 # Chrome vs Safari 2026 Comparison

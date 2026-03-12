@@ -3,7 +3,7 @@ layout: post
 title: Chrome Web Store Reviews How to Spot Fake
 description: Learn how to identify fake reviews in the Chrome Web Store and choose
   genuinely reliable extensions.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-web-store-reviews-how-to-spot-fake
 ---
 

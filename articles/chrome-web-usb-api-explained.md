@@ -3,7 +3,7 @@ layout: post
 title: Chrome Web USB API Explained
 description: Learn what Chrome Web USB API is, how it works, and what it means for
   your browser security and device connectivity.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-web-usb-api-explained
 ---
 

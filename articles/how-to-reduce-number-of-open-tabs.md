@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "How to Reduce Number of Open Tabs"
-description: "Struggling with too many Chrome tabs? Learn practical ways to reduce open tabs, organize your browser, and boost productivity."
+title: How to Reduce Number of Open Tabs
+description: Struggling with too many Chrome tabs? Learn practical ways to reduce
+  open tabs, organize your browser, and boost productivity.
 date: 2025-03-09
-categories: [productivity, tabs]
-tags: [tab-management, reduce-tabs, chrome-tips, browser-tips]
+categories:
+- productivity
+- tabs
+tags:
+- tab-management
+- reduce-tabs
+- chrome-tips
+- browser-tips
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: how-to-reduce-number-of-open-tabs
 ---
 
 # How to Reduce Number of Open Tabs

@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome WebGL Not Supported Fix"
-description: "Chrome WebGL not supported fix - learn why Chrome shows this error and how to get WebGL working again with simple solutions."
+title: Chrome WebGL Not Supported Fix
+description: Chrome WebGL not supported fix - learn why Chrome shows this error and
+  how to get WebGL working again with simple solutions.
 date: 2025-03-09
-categories: [troubleshooting, tips]
-tags: [chrome-webgl, webgl-not-supported, chrome-fix, browser-tips, webgl-fix]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-webgl
+- webgl-not-supported
+- chrome-fix
+- browser-tips
+- webgl-fix
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-webgl-not-supported-fix
 ---
 
 # Chrome WebGL Not Supported Fix

@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Top 10 Chrome Extensions Everyone Should Have"
-description: "Must-have Chrome extensions for everyone. Boost security, speed, and productivity with these essential browser tools."
+title: Top 10 Chrome Extensions Everyone Should Have
+description: Must-have Chrome extensions for everyone. Boost security, speed, and
+  productivity with these essential browser tools.
 date: 2026-03-10
-categories: [browsers, tips]
-tags: [chrome-extensions, browser-tools, essential-extensions]
+categories:
+- browsers
+- tips
+tags:
+- chrome-extensions
+- browser-tools
+- essential-extensions
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: top-10-chrome-extensions-everyone-should-have
 ---
 
 # Top 10 Chrome Extensions Everyone Should Have

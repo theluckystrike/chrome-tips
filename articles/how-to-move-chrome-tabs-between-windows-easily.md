@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "How to Move Chrome Tabs Between Windows Easily"
-description: "Learn simple methods to move Chrome tabs between windows using drag-and-drop, keyboard shortcuts, and helpful extensions."
+title: How to Move Chrome Tabs Between Windows Easily
+description: Learn simple methods to move Chrome tabs between windows using drag-and-drop,
+  keyboard shortcuts, and helpful extensions.
 date: 2025-03-09
-categories: [productivity, tabs]
-tags: [tab-management, chrome-tips, chrome-windows]
+categories:
+- productivity
+- tabs
+tags:
+- tab-management
+- chrome-tips
+- chrome-windows
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: how-to-move-chrome-tabs-between-windows-easily
 ---
 
 # How to Move Chrome Tabs Between Windows Easily

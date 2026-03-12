@@ -3,7 +3,7 @@ layout: post
 title: chrome upcoming features roadmap 2026
 description: Discover Chrome upcoming features roadmap 2026 including AI integration,
   performance improvements, and new browsing capabilities.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3)"
 permalink: chrome-upcoming-features-roadmap-2026
 ---
 

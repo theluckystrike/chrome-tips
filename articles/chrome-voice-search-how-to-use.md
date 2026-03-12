@@ -13,8 +13,8 @@ tags:
 - accessibility
 - hands-free
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: /chrome-voice-search-how-to-use/
+last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+permalink: chrome-voice-search-how-to-use
 ---
 
 # Chrome Voice Search How to Use

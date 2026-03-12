@@ -3,7 +3,7 @@ layout: post
 title: Chrome vs Opera Features Comparison
 description: We compare Chrome and Opera features to help you decide which browser
   best fits your needs for speed, privacy, and productivity.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-vs-opera-features-comparison
 ---
 

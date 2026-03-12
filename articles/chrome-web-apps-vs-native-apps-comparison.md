@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Web Apps vs Native Apps Comparison"
-description: "Chrome web apps and native apps each have strengths. Learn the key differences and which option works better for your needs."
+title: Chrome Web Apps vs Native Apps Comparison
+description: Chrome web apps and native apps each have strengths. Learn the key differences
+  and which option works better for your needs.
 date: 2026-01-20
-categories: [comparison, apps]
-tags: [chrome-web-apps, native-apps, web-apps, app-comparison]
+categories:
+- comparison
+- apps
+tags:
+- chrome-web-apps
+- native-apps
+- web-apps
+- app-comparison
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-web-apps-vs-native-apps-comparison
 ---
 
 # Chrome Web Apps vs Native Apps Comparison

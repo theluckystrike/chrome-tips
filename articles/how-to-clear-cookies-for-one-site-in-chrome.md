@@ -4,7 +4,7 @@ title: How to Clear Cookies for One Site in Chrome
 description: Learn how to remove cookies for just one website in Chrome without clearing
   your entire browser. Simple steps to fix site issues.
 date: '2025-02-19'
-last_modified_at: "%Y->- (origin/fix/lastmod-batch-1)"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-clear-cookies-for-one-site-in-chrome
 categories:
 - privacy

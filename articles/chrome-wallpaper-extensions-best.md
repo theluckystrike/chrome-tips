@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "chrome wallpaper extensions best"
-description: "Discover the best chrome wallpaper extensions to personalize your browser with stunning backgrounds, themes, and custom images."
+title: chrome wallpaper extensions best
+description: Discover the best chrome wallpaper extensions to personalize your browser
+  with stunning backgrounds, themes, and custom images.
 date: 2026-01-15
-categories: [extensions, customization]
-tags: [wallpaper, chrome-extension, themes, personalization]
+categories:
+- extensions
+- customization
+tags:
+- wallpaper
+- chrome-extension
+- themes
+- personalization
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-wallpaper-extensions-best
 ---
 
 # Best Chrome Wallpaper Extensions

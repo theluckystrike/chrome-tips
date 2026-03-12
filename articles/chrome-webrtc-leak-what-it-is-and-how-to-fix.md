@@ -14,8 +14,8 @@ tags:
 - ip-address
 - chrome-fix
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: /chrome-webrtc-leak-what-it-is-and-how-to-fix/
+last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+permalink: chrome-webrtc-leak-what-it-is-and-how-to-fix
 ---
 
 # Chrome WebRTC Leak What It Is and How to Fix

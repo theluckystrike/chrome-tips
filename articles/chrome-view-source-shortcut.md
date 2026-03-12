@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome View Source Shortcut"
-description: "Learn the keyboard shortcut to view page source in Chrome and discover easier ways to see how websites are built."
+title: Chrome View Source Shortcut
+description: Learn the keyboard shortcut to view page source in Chrome and discover
+  easier ways to see how websites are built.
 date: 2025-02-19
-categories: [browser-tips, web-development]
-tags: [view-source, keyboard-shortcuts, productivity, debugging]
+categories:
+- browser-tips
+- web-development
+tags:
+- view-source
+- keyboard-shortcuts
+- productivity
+- debugging
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-view-source-shortcut
 ---
 
 # Chrome View Source Shortcut

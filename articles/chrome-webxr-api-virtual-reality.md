@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome WebXR API Virtual Reality"
-description: "Chrome WebXR API not working can prevent VR experiences. Learn why it happens and how to fix it with simple steps."
+title: Chrome WebXR API Virtual Reality
+description: Chrome WebXR API not working can prevent VR experiences. Learn why it
+  happens and how to fix it with simple steps.
 date: 2025-03-09
-categories: [troubleshooting, tips]
-tags: [chrome-webxr, virtual-reality, chrome-vr, webxr-api, browser-tips]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-webxr
+- virtual-reality
+- chrome-vr
+- webxr-api
+- browser-tips
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-webxr-api-virtual-reality
 ---
 
 # Chrome WebXR API Virtual Reality

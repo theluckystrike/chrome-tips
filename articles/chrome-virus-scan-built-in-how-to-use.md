@@ -3,7 +3,7 @@ layout: post
 title: Chrome Virus Scan Built in How to Use
 description: Learn how to use Chrome built-in virus scanning. Simple steps to check
   downloads and keep your browser safe from malware.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-virus-scan-built-in-how-to-use
 ---
 

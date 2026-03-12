@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome WebGL Crashing Fix"
-description: "Chrome WebGL crashing can ruin your browsing experience. Learn why it happens and how to fix it with simple, actionable steps."
+title: Chrome WebGL Crashing Fix
+description: Chrome WebGL crashing can ruin your browsing experience. Learn why it
+  happens and how to fix it with simple, actionable steps.
 date: 2026-01-15
-categories: [troubleshooting, browser-fix]
-tags: [chrome-webgl, webgl-crashing, chrome-crash, browser-fix, chrome-fix]
+categories:
+- troubleshooting
+- browser-fix
+tags:
+- chrome-webgl
+- webgl-crashing
+- chrome-crash
+- browser-fix
+- chrome-fix
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-webgl-crashing-fix
 ---
 
 # Chrome WebGL Crashing Fix

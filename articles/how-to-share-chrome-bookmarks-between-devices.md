@@ -3,7 +3,7 @@ layout: post
 title: How to Share Chrome Bookmarks Between Devices
 description: Learn how to share Chrome bookmarks between devices with these simple
   methods. Keep your favorite sites synced across all your computers and phones.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-share-chrome-bookmarks-between-devices
 ---
 

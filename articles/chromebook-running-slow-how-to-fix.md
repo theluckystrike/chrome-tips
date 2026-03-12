@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chromebook Running Slow How to Fix"
-description: "Is your Chromebook running slow? Here are practical solutions to speed up your device and get it performing like new again."
+title: Chromebook Running Slow How to Fix
+description: Is your Chromebook running slow? Here are practical solutions to speed
+  up your device and get it performing like new again.
 date: 2025-02-16
-categories: [chromebook, performance]
-tags: [chromebook, slow, speed, performance, fix]
+categories:
+- chromebook
+- performance
+tags:
+- chromebook
+- slow
+- speed
+- performance
+- fix
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chromebook-running-slow-how-to-fix
 ---
 
 # Chromebook Running Slow How to Fix

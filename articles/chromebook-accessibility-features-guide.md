@@ -3,7 +3,7 @@ layout: post
 title: Chromebook Accessibility Features Guide
 description: Learn about chromebook accessibility features guide including screen
   reader, magnifier, high contrast, and voice control options.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chromebook-accessibility-features-guide
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: how to delete chrome browsing data automatically
 description: Learn how to delete chrome browsing data automatically to free up space
   and protect your privacy without manual cleanup.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-delete-chrome-browsing-data-automatically
 ---
 

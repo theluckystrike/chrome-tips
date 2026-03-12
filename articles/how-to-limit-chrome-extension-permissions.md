@@ -3,7 +3,7 @@ layout: post
 title: How to Limit Chrome Extension Permissions
 description: Learn how to control and limit Chrome extension permissions to protect
   your privacy and secure your browser.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-limit-chrome-extension-permissions
 ---
 

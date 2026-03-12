@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Chromebook Developer Mode: Should I Enable It?"
-description: "A clear guide to help you decide whether enabling developer mode on your Chromebook is right for you and your needs."
+title: 'Chromebook Developer Mode: Should I Enable It?'
+description: A clear guide to help you decide whether enabling developer mode on your
+  Chromebook is right for you and your needs.
 date: 2025-02-16
-categories: [chromebook, tips]
-tags: [chromebook, developer-mode, chrome-os]
+categories:
+- chromebook
+- tips
+tags:
+- chromebook
+- developer-mode
+- chrome-os
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chromebook-developer-mode-should-i-enable
 ---
 
 # Chromebook Developer Mode: Should I Enable It?

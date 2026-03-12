@@ -1,11 +1,23 @@
 ---
 layout: post
-title: "Chrome vs Edge 2026 Comparison"
-description: "Comprehensive Chrome vs Edge 2026 comparison covering features, performance, AI integration, and memory usage. Find the best browser for your needs in 2026."
+title: Chrome vs Edge 2026 Comparison
+description: Comprehensive Chrome vs Edge 2026 comparison covering features, performance,
+  AI integration, and memory usage. Find the best browser for your needs in 2026.
 date: 2026-01-15
-categories: [browsers, comparison, technology]
-tags: [chrome, edge, browser, microsoft, google, comparison]
+categories:
+- browsers
+- comparison
+- technology
+tags:
+- chrome
+- edge
+- browser
+- microsoft
+- google
+- comparison
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-vs-edge-2026
 ---
 
 # Chrome vs Edge 2026 Comparison

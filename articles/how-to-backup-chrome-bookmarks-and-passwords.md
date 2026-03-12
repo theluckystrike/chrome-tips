@@ -3,7 +3,7 @@ layout: post
 title: How to Backup Chrome Bookmarks and Passwords
 description: Learn how to backup Chrome bookmarks and passwords to keep your data
   safe. Simple step-by-step guide for Windows and Mac users.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-backup-chrome-bookmarks-and-passwords
 ---
 

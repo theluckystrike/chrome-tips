@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome WebGL Not Working Fix"
-description: "Chrome WebGL not working can break games and 3D graphics. Learn why it happens and how to fix it with simple steps."
+title: Chrome WebGL Not Working Fix
+description: Chrome WebGL not working can break games and 3D graphics. Learn why it
+  happens and how to fix it with simple steps.
 date: 2025-03-09
-categories: [troubleshooting, tips]
-tags: [chrome-webgl, webgl-not-working, chrome-fix, browser-tips, webgl-fix]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-webgl
+- webgl-not-working
+- chrome-fix
+- browser-tips
+- webgl-fix
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-webgl-not-working-fix
 ---
 
 # Chrome WebGL Not Working Fix

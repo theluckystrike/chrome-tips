@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "How to Export Bookmarks from Chrome"
-description: "Learn how to export bookmarks from Chrome to back them up or transfer them to another browser. Simple steps included."
+title: How to Export Bookmarks from Chrome
+description: Learn how to export bookmarks from Chrome to back them up or transfer
+  them to another browser. Simple steps included.
 date: 2026-01-15
-categories: [tips, bookmarks]
-tags: [chrome, bookmarks, backup, browser]
+categories:
+- tips
+- bookmarks
+tags:
+- chrome
+- bookmarks
+- backup
+- browser
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: how-to-export-bookmarks-from-chrome
 ---
 
 # How to Export Bookmarks from Chrome

@@ -3,7 +3,7 @@ layout: post
 title: How to Reset Chrome to Default Settings
 description: Learn how to reset Chrome to default settings to fix browser issues,
   remove unwanted changes, and start fresh.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-reset-chrome-to-default-settings
 ---
 

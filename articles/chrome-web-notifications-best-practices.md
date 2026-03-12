@@ -4,7 +4,7 @@ title: Chrome Web Notifications Best Practices
 description: Master Chrome web notifications with these practical tips to reduce interruptions
   and improve your browsing experience.
 date: '2026-03-09'
-last_modified_at: "%Y->- (origin/fix/lastmod-batch-1)"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-web-notifications-best-practices
 ---
 

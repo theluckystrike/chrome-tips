@@ -3,7 +3,7 @@ layout: post
 title: How to Recover Deleted Bookmarks Chrome
 description: Lost your Chrome bookmarks? Learn simple methods to recover deleted bookmarks
   in Chrome using built-in features and backup options.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-recover-deleted-bookmarks-chrome
 ---
 

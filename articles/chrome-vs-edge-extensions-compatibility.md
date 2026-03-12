@@ -3,7 +3,7 @@ layout: post
 title: Chrome vs Edge Extensions Compatibility
 description: Not all Chrome extensions work on Microsoft Edge. Learn why and how to
   make them compatible.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-vs-edge-extensions-compatibility
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Chrome Using Swap Memory Fix
 description: Is Chrome eating up your swap memory? Learn why this happens and how
   to fix it with simple steps.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-using-swap-memory-fix
 ---
 

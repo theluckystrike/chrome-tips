@@ -3,7 +3,7 @@ layout: post
 title: Chrome Web MIDI API for Musicians
 description: Having trouble using your MIDI controller in Chrome? Learn why browsers
   block MIDI devices and how to get your instruments working again.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-web-midi-api-for-musicians
 ---
 

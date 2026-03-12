@@ -1,11 +1,23 @@
 ---
 layout: post
-title: "Chrome WebRTC Leak Prevention Guide"
-description: "Learn how to prevent WebRTC IP leaks in Chrome, protect your browser fingerprint, use privacy extensions, and ensure VPN compatibility for maximum online privacy."
+title: Chrome WebRTC Leak Prevention Guide
+description: Learn how to prevent WebRTC IP leaks in Chrome, protect your browser
+  fingerprint, use privacy extensions, and ensure VPN compatibility for maximum online
+  privacy.
 date: 2026-01-15
-categories: [privacy, security, chrome]
-tags: [webrtc, ip-leak, browser-fingerprinting, vpn, privacy]
+categories:
+- privacy
+- security
+- chrome
+tags:
+- webrtc
+- ip-leak
+- browser-fingerprinting
+- vpn
+- privacy
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-webrtc-leak-prevention-guide
 ---
 
 # Chrome WebRTC Leak Prevention Guide

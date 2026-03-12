@@ -3,7 +3,7 @@ layout: post
 title: Chrome Web Vitals Extension How to Use
 description: Learn how to use Chrome web vitals extensions to monitor website performance
   and improve your browsing experience.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-web-vitals-extension-how-to-use
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Chrome Zoom Level How to Set Default
 description: Learn how to set a default zoom level in Chrome for all websites. Simple
   methods to make Chrome remember your preferred zoom setting.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-zoom-level-how-to-set-default
 ---
 

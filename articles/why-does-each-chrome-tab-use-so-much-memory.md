@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Why Does Each Chrome Tab Use So Much Memory"
-description: "Chrome tabs consume excessive memory due to how the browser isolates each tab. Learn why this happens and what you can do about it."
+title: Why Does Each Chrome Tab Use So Much Memory
+description: Chrome tabs consume excessive memory due to how the browser isolates
+  each tab. Learn why this happens and what you can do about it.
 date: 2025-03-09
-categories: [performance, memory]
-tags: [chrome-memory, browser-performance, tab-management]
+categories:
+- performance
+- memory
+tags:
+- chrome-memory
+- browser-performance
+- tab-management
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: why-does-each-chrome-tab-use-so-much-memory
 ---
 
 # Why Does Each Chrome Tab Use So Much Memory

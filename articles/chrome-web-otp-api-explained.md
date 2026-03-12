@@ -3,7 +3,7 @@ layout: post
 title: Chrome Web OTP API Explained
 description: Learn how Chrome Web OTP API works, why it makes verifying your phone
   number easier, and what it means for your browsing.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-web-otp-api-explained
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Is Chrome Safe for Online Banking
 description: Learn whether Chrome is secure enough for banking, what risks exist,
   and how to protect your accounts.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: is-chrome-safe-for-online-banking
 ---
 

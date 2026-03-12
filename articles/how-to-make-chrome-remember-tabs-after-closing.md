@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "How to Make Chrome Remember Tabs After Closing"
-description: "Learn how to make Chrome remember tabs after closing using built-in settings and extensions like Tab Suspender Pro."
+title: How to Make Chrome Remember Tabs After Closing
+description: Learn how to make Chrome remember tabs after closing using built-in settings
+  and extensions like Tab Suspender Pro.
 date: 2025-03-10
-categories: [tabs, productivity]
-tags: [tab-memory, session-restore, chrome-tabs, chrome-settings]
+categories:
+- tabs
+- productivity
+tags:
+- tab-memory
+- session-restore
+- chrome-tabs
+- chrome-settings
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: how-to-make-chrome-remember-tabs-after-closing
 ---
 
 # How to Make Chrome Remember Tabs After Closing

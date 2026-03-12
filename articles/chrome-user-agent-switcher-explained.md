@@ -3,7 +3,7 @@ layout: post
 title: Chrome User Agent Switcher Explained
 description: Learn what a Chrome user agent switcher is, why websites care about your
   user agent, and how to change it.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3)"
 permalink: chrome-user-agent-switcher-explained
 ---
 

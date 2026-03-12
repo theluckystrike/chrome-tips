@@ -3,7 +3,7 @@ layout: post
 title: How to Report Dangerous Chrome Extension
 description: Learn how to identify and report dangerous Chrome extensions to protect
   yourself and others from malicious browser extensions.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-report-dangerous-chrome-extension
 ---
 

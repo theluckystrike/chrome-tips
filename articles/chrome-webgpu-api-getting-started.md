@@ -17,8 +17,8 @@ tags:
 - compute-shader
 - web-development
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /chrome-webgpu-api-getting-started/
+last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+permalink: chrome-webgpu-api-getting-started
 ---
 
 # Chrome WebGPU API Getting Started Guide

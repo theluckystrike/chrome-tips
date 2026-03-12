@@ -4,7 +4,7 @@ title: Do Chrome Extensions Slow Down Your Browser
 description: Yes, Chrome extensions can slow down your browser. Learn why this happens
   and what you can do to speed things up again.
 date: '2026-03-09'
-last_modified_at: "%Y->- (origin/fix/lastmod-batch-1)"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: do-chrome-extensions-slow-down-your-browser
 ---
 

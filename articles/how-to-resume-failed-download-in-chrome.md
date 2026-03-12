@@ -3,7 +3,7 @@ layout: post
 title: How to Resume Failed Download in Chrome
 description: Downloads failing in Chrome can be frustrating. Learn why it happens
   and practical ways to get your files back without starting over.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-resume-failed-download-in-chrome
 ---
 

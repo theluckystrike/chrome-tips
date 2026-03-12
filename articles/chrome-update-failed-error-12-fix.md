@@ -12,8 +12,8 @@ tags:
 - chrome-error
 - browser-fix
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /chrome-update-failed-error-12-fix/
+last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+permalink: chrome-update-failed-error-12-fix
 ---
 
 When you see the chrome update failed error 12 message, it can be frustrating because your browser simply will not update to the latest version. This error typically means there is a problem with the update process that prevents Chrome from downloading or installing new versions. The good news is that this is usually fixable with some simple steps.

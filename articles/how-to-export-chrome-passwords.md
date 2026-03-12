@@ -3,7 +3,7 @@ layout: post
 title: How to Export Chrome Passwords
 description: Learn how to export Chrome passwords to a file for backup or use in other
   password managers. Simple step-by-step guide.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-export-chrome-passwords
 ---
 

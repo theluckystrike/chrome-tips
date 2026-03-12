@@ -1,11 +1,20 @@
 ---
 layout: default
-title: "How to Stop Chrome from Eating Your RAM"
-description: "Chrome using too much memory? Learn practical tips to reduce Chrome's RAM usage and make your computer feel faster and more responsive."
+title: How to Stop Chrome from Eating Your RAM
+description: Chrome using too much memory? Learn practical tips to reduce Chrome's
+  RAM usage and make your computer feel faster and more responsive.
 date: 2026-01-15
-categories: [performance, memory]
-tags: [chrome-ram, chrome-memory, ram-usage, computer-slow]
+categories:
+- performance
+- memory
+tags:
+- chrome-ram
+- chrome-memory
+- ram-usage
+- computer-slow
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: how-to-stop-chrome-from-eating-ram
 ---
 
 # How to Stop Chrome from Eating Your RAM

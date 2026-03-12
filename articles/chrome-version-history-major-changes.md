@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Chrome Version History: Major Changes You Should Know About"
-description: "A guide to Chrome version history and major changes that affect your browsing. Learn what changed and how to adapt."
+title: 'Chrome Version History: Major Changes You Should Know About'
+description: A guide to Chrome version history and major changes that affect your
+  browsing. Learn what changed and how to adapt.
 date: 2025-02-17
-categories: [chrome, browser-guides]
-tags: [chrome-version, chrome-update, browser-history]
+categories:
+- chrome
+- browser-guides
+tags:
+- chrome-version
+- chrome-update
+- browser-history
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-version-history-major-changes
 ---
 
 # Chrome Version History: Major Changes You Should Know About

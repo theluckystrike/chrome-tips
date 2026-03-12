@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "How to Stop Chrome from Tracking Me"
-description: "Worried about Chrome tracking your activity? Learn practical steps to limit Chrome's data collection and protect your privacy online."
+title: How to Stop Chrome from Tracking Me
+description: Worried about Chrome tracking your activity? Learn practical steps to
+  limit Chrome's data collection and protect your privacy online.
 date: 2026-01-15
-categories: [privacy, security]
-tags: [chrome-privacy, tracking-prevention, browser-privacy, online-privacy]
+categories:
+- privacy
+- security
+tags:
+- chrome-privacy
+- tracking-prevention
+- browser-privacy
+- online-privacy
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: how-to-stop-chrome-from-tracking-me
 ---
 
 If you have ever searched for something online, only to see ads for that exact product appear on other websites moments later, you have experienced Chrome tracking in action. Many people ask themselves how to stop Chrome from tracking me, and the answer is simpler than you might think.

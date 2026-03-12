@@ -3,7 +3,7 @@ layout: post
 title: Chrome Web Animation API Explained
 description: Discover what the Chrome Web Animation API is, how it works, and why
   it makes websites feel smoother and more responsive.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-web-animation-api-explained
 ---
 

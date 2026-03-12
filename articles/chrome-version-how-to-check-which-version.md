@@ -3,7 +3,7 @@ layout: post
 title: Chrome Version How to Check Which Version
 description: Learn how to find your Chrome browser version quickly. Simple steps for
   Windows, Mac, and mobile devices.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-version-how-to-check-which-version
 ---
 

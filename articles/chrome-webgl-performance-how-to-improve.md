@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "How to Improve Chrome WebGL Performance"
-description: "Learn practical ways to improve Chrome WebGL performance. This guide covers simple settings and extensions that help your browser run graphics smoother."
+title: How to Improve Chrome WebGL Performance
+description: Learn practical ways to improve Chrome WebGL performance. This guide
+  covers simple settings and extensions that help your browser run graphics smoother.
 date: 2026-01-15
-categories: [performance, graphics]
-tags: [chrome-webgl, webgl-performance, chrome-graphics, browser-performance]
+categories:
+- performance
+- graphics
+tags:
+- chrome-webgl
+- webgl-performance
+- chrome-graphics
+- browser-performance
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-webgl-performance-how-to-improve
 ---
 
 # How to Improve Chrome WebGL Performance

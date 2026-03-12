@@ -1,11 +1,20 @@
 ---
 layout: default
-title: "Great Suspender Removed From Chrome Store: Replacement Options"
-description: "The Great Suspender extension was removed from the Chrome Web Store. Learn what happened and find a replacement to manage your tabs."
+title: 'Great Suspender Removed From Chrome Store: Replacement Options'
+description: The Great Suspender extension was removed from the Chrome Web Store.
+  Learn what happened and find a replacement to manage your tabs.
 date: 2026-01-15
-categories: [extensions, troubleshooting]
-tags: [great-suspender, chrome-extension, tab-suspender, chrome-fix]
+categories:
+- extensions
+- troubleshooting
+tags:
+- great-suspender
+- chrome-extension
+- tab-suspender
+- chrome-fix
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: great-suspender-removed-from-chrome-store-replacement
 ---
 
 # Great Suspender Removed From Chrome Store: Replacement Options

@@ -3,7 +3,7 @@ layout: post
 title: Chrome YouTube Keyboard Shortcuts
 description: Master chrome youtube keyboard shortcuts to navigate videos faster. Learn
   essential shortcuts and how to use them effectively.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-youtube-keyboard-shortcuts
 ---
 

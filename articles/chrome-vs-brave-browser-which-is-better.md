@@ -4,7 +4,7 @@ title: Chrome vs Brave Browser Which Is Better
 description: A helpful guide comparing Chrome and Brave browser to help you decide
   which is better for your needs.
 date: '2026-03-10'
-last_modified_at: "%Y->- (origin/fix/lastmod-batch-1)"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-vs-brave-browser-which-is-better
 ---
 

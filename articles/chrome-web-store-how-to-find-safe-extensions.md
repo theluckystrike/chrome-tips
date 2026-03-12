@@ -3,7 +3,7 @@ layout: post
 title: Chrome Web Store How to Find Safe Extensions
 description: Learn how to identify safe Chrome extensions in the Web Store and avoid
   malicious ones.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-web-store-how-to-find-safe-extensions
 ---
 

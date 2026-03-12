@@ -3,7 +3,7 @@ layout: post
 title: Chrome vs Vivaldi for Power Users
 description: A comprehensive comparison of Chrome and Vivaldi for power users, exploring
   customization, features, and performance.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-vs-vivaldi-for-power-users
 ---
 

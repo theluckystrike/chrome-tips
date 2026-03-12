@@ -3,7 +3,7 @@ layout: post
 title: How to Allow Pop Ups for One Site in Chrome
 description: Step by step guide to letting specific websites open popups in Chrome
   without turning off your popup blocker.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-allow-pop-ups-for-one-site-in-chrome
 ---
 

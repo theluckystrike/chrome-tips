@@ -3,7 +3,7 @@ layout: post
 title: Chrome Workbox Library for Service Workers
 description: Learn how Chrome Workbox simplifies service worker creation for faster,
   offline-capable websites and extensions.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-workbox-library-for-service-workers
 ---
 

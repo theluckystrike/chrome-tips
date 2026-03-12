@@ -1,11 +1,23 @@
 ---
 layout: post
-title: "Chrome WebAuthn Debugging Guide"
-description: "Master Chrome WebAuthn debugging with Virtual Authenticator, FIDO2, passkeys, and credential management. Comprehensive guide for developers."
+title: Chrome WebAuthn Debugging Guide
+description: Master Chrome WebAuthn debugging with Virtual Authenticator, FIDO2, passkeys,
+  and credential management. Comprehensive guide for developers.
 date: 2026-01-15
-categories: [development, security, webauthn]
-tags: [webauthn, fido2, passkeys, debugging, chrome-devtools, authentication]
+categories:
+- development
+- security
+- webauthn
+tags:
+- webauthn
+- fido2
+- passkeys
+- debugging
+- chrome-devtools
+- authentication
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-webauthn-debugging
 ---
 
 # Chrome WebAuthn Debugging Guide

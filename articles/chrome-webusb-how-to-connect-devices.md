@@ -4,7 +4,7 @@ title: Chrome WebUSB How to Connect Devices
 description: Learn how to connect USB devices to Chrome using WebUSB, fix common connection
   issues, and manage device permissions.
 date: '2026-03-09'
-last_modified_at: "%Y->- (origin/fix/lastmod-batch-1)"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-webusb-how-to-connect-devices
 ---
 

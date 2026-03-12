@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chromebook touchscreen not working fix"
-description: "Your Chromebook touchscreen stopped working? Try these simple fixes to get it working again. From restarting to recalibrating, we cover the solutions."
+title: chromebook touchscreen not working fix
+description: Your Chromebook touchscreen stopped working? Try these simple fixes to
+  get it working again. From restarting to recalibrating, we cover the solutions.
 date: 2026-03-10
-categories: [troubleshooting, chromebook]
-tags: [chromebook, touchscreen, fix, troubleshooting, hardware]
+categories:
+- troubleshooting
+- chromebook
+tags:
+- chromebook
+- touchscreen
+- fix
+- troubleshooting
+- hardware
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chromebook-touchscreen-not-working-fix
 ---
 
 # Chromebook Touchscreen Not Working Fix

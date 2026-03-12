@@ -3,7 +3,7 @@ layout: post
 title: How to View Saved Passwords in Chrome 2026
 description: Learn how to view your saved passwords in Chrome with simple steps. Access
   and manage your stored credentials securely.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-view-saved-passwords-in-chrome-2026
 ---
 

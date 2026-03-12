@@ -4,7 +4,7 @@ title: Chromebook Print From Chrome How To
 description: Learn how to print from Chrome on your Chromebook. Simple steps to print
   webpages, documents, and save as PDF.
 date: '2026-03-10'
-last_modified_at: "%Y->- (origin/fix/lastmod-batch-1)"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chromebook-print-from-chrome-how-to
 ---
 

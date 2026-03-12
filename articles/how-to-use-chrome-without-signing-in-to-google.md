@@ -15,8 +15,8 @@ tags:
 - browser
 - account
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /how-to-use-chrome-without-signing-in-to-google/
+last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+permalink: how-to-use-chrome-without-signing-in-to-google
 ---
 
 # How to Use Chrome Without Signing In to Google

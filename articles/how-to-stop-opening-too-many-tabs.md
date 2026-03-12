@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "How to Stop Opening Too Many Tabs"
-description: "Feeling overwhelmed by too many tabs? Learn practical steps to break the habit of opening too many tabs and browse more focused."
+title: How to Stop Opening Too Many Tabs
+description: Feeling overwhelmed by too many tabs? Learn practical steps to break
+  the habit of opening too many tabs and browse more focused.
 date: 2025-03-13
-categories: [productivity, tips]
-tags: [tabs, tab-overload, productivity, chrome-tips]
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- tab-overload
+- productivity
+- chrome-tips
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: how-to-stop-opening-too-many-tabs
 ---
 
 # How to Stop Opening Too Many Tabs

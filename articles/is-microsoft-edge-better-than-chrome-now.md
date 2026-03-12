@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Is Microsoft Edge Better Than Chrome Now"
-description: "A practical comparison of Microsoft Edge vs Chrome in 2026. Find out if Edge has caught up or surpassed Chrome and which browser is right for you."
+title: Is Microsoft Edge Better Than Chrome Now
+description: A practical comparison of Microsoft Edge vs Chrome in 2026. Find out
+  if Edge has caught up or surpassed Chrome and which browser is right for you.
 date: 2026-01-20
-categories: [comparison, browser]
-tags: [microsoft-edge, chrome-browser, browser-comparison, edge-vs-chrome]
+categories:
+- comparison
+- browser
+tags:
+- microsoft-edge
+- chrome-browser
+- browser-comparison
+- edge-vs-chrome
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: is-microsoft-edge-better-than-chrome-now
 ---
 
 # Is Microsoft Edge Better Than Chrome Now

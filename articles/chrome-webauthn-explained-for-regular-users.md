@@ -4,7 +4,7 @@ title: Chrome WebAuthn Explained for Regular Users
 description: What is WebAuthn in Chrome and how does it work? A simple guide to understanding
   WebAuthn for everyday users.
 date: '2026-03-10'
-last_modified_at: "%Y->- (origin/fix/lastmod-batch-1)"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-webauthn-explained-for-regular-users
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Chrome Web Storage Limits Explained
 description: Understand Chrome web storage limits, how they work, and what you can
   do when you hit them. Simple guide for everyday users.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-web-storage-limits-explained
 ---
 

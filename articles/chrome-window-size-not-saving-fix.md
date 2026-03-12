@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Window Size Not Saving Fix"
-description: "Is Chrome forgetting your window size every time you reopen it? Learn why this happens and how to fix it with simple solutions."
+title: Chrome Window Size Not Saving Fix
+description: Is Chrome forgetting your window size every time you reopen it? Learn
+  why this happens and how to fix it with simple solutions.
 date: 2026-01-15
-categories: [troubleshooting, interface]
-tags: [chrome-window, window-size, browser-settings, resize-problem]
+categories:
+- troubleshooting
+- interface
+tags:
+- chrome-window
+- window-size
+- browser-settings
+- resize-problem
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-window-size-not-saving-fix
 ---
 
 # Chrome Window Size Not Saving Fix

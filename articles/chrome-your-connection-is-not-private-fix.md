@@ -3,7 +3,7 @@ layout: post
 title: Chrome Your Connection Is Not Private Fix
 description: Seeing the Your Connection Is Not Private error in Chrome? Learn why
   it happens and how to fix it with simple steps.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-your-connection-is-not-private-fix
 ---
 

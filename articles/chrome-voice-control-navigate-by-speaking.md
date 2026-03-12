@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "chrome voice control navigate by speaking"
-description: "Learn how to navigate Chrome using your voice. This guide covers built-in voice features and extensions for hands-free browsing."
+title: chrome voice control navigate by speaking
+description: Learn how to navigate Chrome using your voice. This guide covers built-in
+  voice features and extensions for hands-free browsing.
 date: 2026-03-09
-categories: [features, accessibility]
-tags: [voice-control, chrome-settings, accessibility, hands-free]
+categories:
+- features
+- accessibility
+tags:
+- voice-control
+- chrome-settings
+- accessibility
+- hands-free
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-voice-control-navigate-by-speaking
 ---
 
 # Chrome Voice Control Navigate by Speaking

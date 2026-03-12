@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "How to Save Webpage Offline Chrome Android"
-description: "Learn how to save webpages offline on Chrome for Android. Simple methods to read articles without internet later."
+title: How to Save Webpage Offline Chrome Android
+description: Learn how to save webpages offline on Chrome for Android. Simple methods
+  to read articles without internet later.
 date: 2025-03-09
-categories: [mobile, chrome-android, offline]
-tags: [chrome-android, save-page, offline-reading, mobile-tips]
+categories:
+- mobile
+- chrome-android
+- offline
+tags:
+- chrome-android
+- save-page
+- offline-reading
+- mobile-tips
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: how-to-save-webpage-offline-chrome-android
 ---
 
 # How to Save Webpage Offline Chrome Android

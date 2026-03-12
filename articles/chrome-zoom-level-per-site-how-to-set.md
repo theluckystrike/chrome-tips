@@ -3,7 +3,7 @@ layout: post
 title: Chrome Zoom Level Per Site How to Set
 description: Learn how to set custom zoom levels for specific websites in Chrome so
   each site opens at your preferred magnification automatically.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-zoom-level-per-site-how-to-set
 ---
 

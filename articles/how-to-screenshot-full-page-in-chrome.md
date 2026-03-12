@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "how to screenshot full page in chrome"
-description: "Learn how to screenshot full page in chrome using built-in tools and extensions. Step-by-step guide for capturing entire web pages."
+title: how to screenshot full page in chrome
+description: Learn how to screenshot full page in chrome using built-in tools and
+  extensions. Step-by-step guide for capturing entire web pages.
 date: 2026-01-20
-categories: [browser-tips, how-to]
-tags: [screenshot, chrome, capture, full-page]
+categories:
+- browser-tips
+- how-to
+tags:
+- screenshot
+- chrome
+- capture
+- full-page
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: how-to-screenshot-full-page-in-chrome
 ---
 
 # How to Screenshot Full Page in Chrome

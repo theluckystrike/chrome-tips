@@ -13,8 +13,8 @@ tags:
 - browser-settings
 - permissions
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /how-to-enable-cookies-in-chrome/
+last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+permalink: how-to-enable-cookies-in-chrome
 ---
 
 # How to Enable Cookies in Chrome

@@ -14,8 +14,8 @@ tags:
 - browser-update
 - mobile-chrome
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /how-to-update-chrome-on-android/
+last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+permalink: how-to-update-chrome-on-android
 ---
 
 # How to Update Chrome on Android

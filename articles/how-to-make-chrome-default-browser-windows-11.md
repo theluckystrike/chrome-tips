@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "how to make chrome default browser windows 11"
-description: "Learn how to make Chrome your default browser on Windows 11 with simple steps. Fix settings and enjoy seamless browsing."
+title: how to make chrome default browser windows 11
+description: Learn how to make Chrome your default browser on Windows 11 with simple
+  steps. Fix settings and enjoy seamless browsing.
 date: 2025-01-15
-categories: [browsers, windows, chrome]
-tags: [chrome, default-browser, windows-11, browser-settings]
+categories:
+- browsers
+- windows
+- chrome
+tags:
+- chrome
+- default-browser
+- windows-11
+- browser-settings
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: how-to-make-chrome-default-browser-windows-11
 ---
 
 # How to Make Chrome Default Browser Windows 11

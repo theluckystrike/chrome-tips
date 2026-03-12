@@ -3,7 +3,7 @@ layout: post
 title: How to Use Chrome Flags Safely
 description: Learn how to use Chrome flags safely. A beginner-friendly guide to experimental
   features without breaking your browser.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-use-chrome-flags-safely
 ---
 

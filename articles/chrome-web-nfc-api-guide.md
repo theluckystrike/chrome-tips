@@ -5,7 +5,7 @@ description: Learn how to use the Chrome Web NFC API for reading and writing NFC
   directly from your browser. Complete guide covering NDEF messages, tag operations,
   and mobile support.
 date: '2026-01-15'
-last_modified_at: "%Y->- (origin/fix/lastmod-batch-1)"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-web-nfc-api-guide
 categories:
 - web-development

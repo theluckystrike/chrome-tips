@@ -3,7 +3,7 @@ layout: post
 title: How Many Chrome Extensions Is Too Many
 description: Wondering how many Chrome extensions is too many? Here is a practical
   guide to finding the right balance for your browser.
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-many-chrome-extensions-is-too-many
 ---
 

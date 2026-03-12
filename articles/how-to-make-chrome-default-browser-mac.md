@@ -1,8 +1,9 @@
 ---
 layout: post
-title: how to make chrome default browser mac
+title: How To Make Chrome Default Browser Mac
 description: Learn how to make Chrome your default browser on Mac with simple steps.
-  Fix the issue of links opening in Safari instead.
+  Fix the issue of links opening in Safari instead. Learn how to optimize your browser
+  ...
 date: 2026-03-10
 categories:
 - settings
@@ -13,10 +14,9 @@ tags:
 - chrome-setup
 - browser-configuration
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /how-to-make-chrome-default-browser-mac/
+last_modified_at: '2026-03-11'
+permalink: how-to-make-chrome-default-browser-mac
 ---
-
 # How to Make Chrome Default Browser Mac
 
 If you are searching for how to make chrome default browser mac, you probably installed Chrome on your Mac but noticed that links still open in Safari. This is a common issue that frustrates many Mac users who prefer Chrome over Safari. The good news is that setting Chrome as your default browser on Mac takes just a few moments once you know where to find the setting.

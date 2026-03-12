@@ -1,13 +1,24 @@
 ---
 layout: post
-title: "Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers"
-description: "Is Google Docs running slow in Chrome? Learn practical fixes for computers with limited RAM to speed up your documents."
+title: 'Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers'
+description: Is Google Docs running slow in Chrome? Learn practical fixes for computers
+  with limited RAM to speed up your documents. Learn how to optimize your browser
+  to...
 date: 2026-01-15
-categories: [performance, troubleshooting, google-docs]
-tags: [google-docs, chrome-slow, performance, low-ram, browser-tips]
+categories:
+- performance
+- troubleshooting
+- google-docs
+tags:
+- google-docs
+- chrome-slow
+- performance
+- low-ram
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: google-docs-slow-in-chrome-fix
 ---
-
 # Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers
 
 If you have ever sat waiting for Google Docs to load while your computer fans spin loudly, you are not alone. Many users with older or budget computers experience sluggish performance when using Google Docs in Chrome. The good news is that there are practical steps you can take to make Google Docs run faster without upgrading your hardware.

@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "chrome performance monitor fps counter"
-description: "Learn how to use Chrome Performance Monitor and FPS counter to track browser performance. Discover built-in tools and extensions for measuring frame rates and optimizing Chrome."
-date: 2026-01-15
-categories: [features, performance]
-tags: [performance, fps, browser-speed, chrome-devtools]
+title: chrome performance monitor fps counter
+description: Learn how to use Chrome Performance Monitor and FPS counter to track browser performance. Discover built-in tools and extensions for measuring frame rates an...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-performance-monitor-fps-counter
+categories:
+- features
+- performance
+tags:
+- performance
+- fps
+- browser-speed
+- chrome-devtools
 author: theluckystrike
 ---
-
 # How to Use Chrome Performance Monitor and FPS Counter
 
 If you have ever wondered how smoothly Chrome is rendering the web pages you visit, you will be glad to know that Google Chrome includes powerful built-in tools for tracking performance metrics. The Chrome performance monitor and FPS counter features allow you to see exactly how your browser is performing in real time, helping you identify issues that might be causing lag, stuttering, or excessive resource usage.

@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Permissions Policy Header Explained"
-description: "Learn how the Permissions-Policy HTTP header works in Chrome and how to control browser features on your website."
-date: 2026-01-20
-categories: [security, web-development, headers]
-tags: [chrome, permissions-policy, http-headers, security, web-development]
+title: Chrome Permissions Policy Header Explained
+description: Learn how the Permissions-Policy HTTP header works in Chrome and how to control browser features on your website. Learn effective tips and tricks to optimize...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-permissions-policy-header-explained
+categories:
+- security
+- web-development
+- headers
+tags:
+- chrome
+- permissions-policy
+- http-headers
+- security
+- web-development
 author: theluckystrike
 ---
-
 # Chrome Permissions Policy Header Explained
 
 If you manage a website or build web applications, you have probably heard about the Permissions-Policy HTTP header. This powerful tool gives you fine-grained control over which browser features and APIs your website can use. In this article, we will break down what the Permissions-Policy header does, why it matters, and how you can use it effectively in Chrome and other modern browsers.

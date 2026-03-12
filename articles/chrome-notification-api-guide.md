@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Notification API Guide"
-description: "Learn how to use the Chrome Notification API for web and extension development. Master push notifications, permission requests, notification actions, and badges."
-date: 2026-01-20
-categories: [development, extensions, api]
-tags: [chrome-notifications, push-api, web-development, chrome-extensions, browser-api]
+title: Chrome Notification API Guide
+description: Learn how to use the Chrome Notification API for web and extension development. Master push notifications, permission requests, notification actions, and bad...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-notification-api-guide
+categories:
+- development
+- extensions
+- api
+tags:
+- chrome-notifications
+- push-api
+- web-development
+- chrome-extensions
+- browser-api
 author: theluckystrike
 ---
-
 # Chrome Notification API Guide
 
 The Chrome Notification API is a powerful tool that enables developers to engage users even when they are not actively using your website or extension. Whether you need to deliver real-time updates, remind users about important events, or simply enhance user engagement, understanding how to properly implement notifications in Chrome is essential for modern web and extension development.

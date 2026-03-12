@@ -1,13 +1,20 @@
 ---
 layout: default
-title: "Chrome Parental Controls — How to Set Up for Your Kids"
-description: "Step-by-step guide to setting up parental controls in Chrome using Google Family Link. Website filtering, screen time limits, and activity monitoring."
-date: 2025-03-08
-categories: [family, safety]
-tags: [parental-controls, family-link, child-safety, chrome-for-kids]
+title: "Chrome Parental Controls \u2014 How to Set Up for Your Kids"
+description: Step-by-step guide to setting up parental controls in Chrome using Google Family Link. Website filtering, screen time limits, and activity monitoring.
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-parental-controls-how-to-set-up
+categories:
+- family
+- safety
+tags:
+- parental-controls
+- family-link
+- child-safety
+- chrome-for-kids
 author: theluckystrike
 ---
-
 # Chrome Parental Controls — How to Set Up for Your Kids
 
 Setting up parental controls on Chrome doesn't have to be complicated. Google provides a free tool called Family Link that gives you solid control over what your kids can access and how much time they spend browsing. Here's how to set everything up.

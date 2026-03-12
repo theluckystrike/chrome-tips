@@ -2,7 +2,7 @@
 title: "Chrome Closed Captions on Any Video"
 description: "Learn how to enable closed captions on any video in Chrome. Simple methods to add subtitles to videos that do not have them built in. Read our full guide to mas"
 date: "2025-03-12"
-last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+last_modified_at: '2026-03-12'
 permalink: "chrome-closed-captions-on-any-video"
 layout: post
 categories: ['features', 'accessibility']
@@ -72,3 +72,9 @@ By exploring Chrome built-in features and available extensions, you can find the
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [Should I Use Chrome or Edge in 2026?](/should-i-use-chrome-or-edge-2026)
+* [Chrome IndexedDB vs LocalStorage Comparison](/chrome-indexeddb-vs-localstorage-comparison)
+* [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)

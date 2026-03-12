@@ -2,13 +2,13 @@
 title: "Chrome Coupon Finder Built In Feature"
 description: "Discover whether Chrome has a built-in coupon finder and learn about the best ways to automatically find and apply coupon codes while shopping online."
 date: "2026-03-09"
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: "chrome-coupon-finder-built-in-feature"
 layout: post
 categories: ['shopping', 'tips']
 tags: ['chrome', 'coupons', 'shopping', 'savings', 'extensions']
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-coupon-finder-built-in-feature
 ---
 # Chrome Coupon Finder Built In Feature
@@ -68,3 +68,9 @@ Finally, keep your extensions updated. Developers regularly release updates that
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+* [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
+* [Best Chrome Extensions for Nurses](/best-chrome-extensions-for-nurses)
+* [Chrome Slow on School Laptop? Here's How to Fix It](/chrome-slow-on-school-laptop-how-to-fix)

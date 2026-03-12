@@ -2,13 +2,13 @@
 title: "Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed"
 description: "Learn how to use Chrome DevTools Coverage tool to find unused CSS and JavaScript. Step-by-step guide to identify and eliminate code bloat for faster page loads."
 date: "2026-01-15"
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: "chrome-coverage-tool-find-unused-css"
 layout: default
 categories: ['development', 'performance', 'chrome-devtools']
 tags: ['chrome-coverage-tool', 'unused-css', 'find-unused-css', 'code-optimization', 'web-performance']
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-coverage-tool-find-unused-css
 ---
 # Chrome Coverage Tool: Find Unused CSS and Supercharge Your Website Performance
@@ -70,3 +70,9 @@ For additional performance improvements, consider using extensions like Tab Susp
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+
+* [Chrome Origin Trials What They Are](/chrome-origin-trials-what-they-are)
+* [Chrome Flags Best Performance Settings](/chrome-flags-best-performance-settings)
+* [Chrome Passkeys Explained for Beginners](/chrome-passkeys-explained-for-beginners)

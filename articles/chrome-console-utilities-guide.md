@@ -2,13 +2,13 @@
 title: "Chrome Console Utilities Reference"
 description: "Master Chrome DevTools console utilities including dollar sign selectors, monitor, copy, debug, keys, and values. Boost productivity with these essential con..."
 date: "2026-01-20"
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: "chrome-console-utilities-guide"
 layout: default
 categories: ['developer-tools', 'chrome-devtools', 'productivity']
 tags: ['chrome-console', 'devtools', 'debugging', 'javascript', 'web-development']
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-console-utilities-guide
 ---
 # Chrome Console Utilities Reference
@@ -106,3 +106,9 @@ Chrome DevTools console utilities are indispensable for any web developer or QA 
 These tools require no setup, work across any website, and can be used immediately in the console. Take time to experiment with each utility in your next debugging session, and you will find yourself reaching for them increasingly often. The Chrome console is not just for logging messages; it is a comprehensive development environment that can streamline your workflow and make complex debugging tasks manageable.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome for Reducing Eye Strain Extensions](/chrome-for-reducing-eye-strain-extensions)
+* [Chrome for Skyscanner Web App Tips](/chrome-for-skyscanner-web-app-tips)
+* [Why Chrome Is Slow on Battery But Fast When Plugged In](/chrome-slow-on-battery-but-fast-plugged-in)

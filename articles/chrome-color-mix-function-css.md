@@ -2,13 +2,13 @@
 title: "chrome color mix function css"
 description: "Learn how to use the CSS color-mix function in Chrome to blend colors directly in your stylesheets. Simple guide for beginners. Read our full guide to master yo"
 date: "2026-01-15"
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: "chrome-color-mix-function-css"
 layout: post
 categories: ['web-development', 'css', 'design']
 tags: ['css', 'color-mix', 'chrome', 'web-design', 'styling']
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-color-mix-function-css
 ---
 # How to Use the Chrome Color Mix Function in CSS
@@ -58,3 +58,9 @@ Extensions like Tab Suspender Pro can help by automatically suspending tabs you 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Location Access for One Site How to Allow](/chrome-location-access-for-one-site-how-to-allow)
+* [chrome for site search from address bar](/chrome-for-site-search-from-address-bar)
+* [Chrome Data Usage On Phone How To Reduce](//chrome-data-usage-on-phone-how-to-reduce/)

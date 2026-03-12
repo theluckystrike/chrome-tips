@@ -99,4 +99,9 @@ Remember that accessibility matters—don't struggle with tiny text when Chrome 
 
 ---
 
+## Related Articles
+* [Chrome Text Size on Phone How to Change](/articles/chrome-text-size-on-phone-how-to-change/)
+* [Chrome Extension for Managing Multiple Email Accounts](/articles/chrome-extension-for-managing-multiple-email-accounts/)
+* [Best Chrome Extensions for Small Business Owners](/articles/best-chrome-extensions-for-small-business-owners/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

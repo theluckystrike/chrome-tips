@@ -73,3 +73,9 @@ Remember that you always have the final say. If a website asks for your location
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Best Chrome Settings for a Slow Computer](/articles/best-chrome-settings-for-slow-computer/)
+* [Chrome Tab Color Coding How to Use](/articles/chrome-tab-color-coding-how-to-use/)
+* [Chrome for SEO Analysis Extensions](/articles/chrome-for-seo-analysis-extensions/)
+

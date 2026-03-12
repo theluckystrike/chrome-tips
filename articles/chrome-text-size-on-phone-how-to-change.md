@@ -85,3 +85,9 @@ Start with Chrome built-in settings to see if they meet your needs. If not, try 
 Remember that you can combine methods. Using system text size as a baseline and then adjusting specific sites gives you the most control. It might take a little time to find your perfect setup, but once you do, reading on your phone becomes much more enjoyable.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Language Learning Extensions](/articles/chrome-for-language-learning-extensions/)
+* [Chrome Incognito Mode: Actually Private or Just a False Sense of Security?](/articles/chrome-incognito-mode-actually-private-or-not/)
+* [chrome source maps debug minified code](/articles/chrome-source-maps-debug-minified-code/)
+

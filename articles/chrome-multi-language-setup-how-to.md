@@ -102,3 +102,9 @@ Take some time to explore all the language settings in Chrome. The browser is mo
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome for PeerTube Web Setup](/articles/chrome-for-peertube-web-setup/)
+* [Chrome Camera Not Working Fix](/articles/chrome-camera-not-working-fix/)
+* [chrome coupons in address bar feature](/articles/chrome-coupons-in-address-bar-feature/)
+

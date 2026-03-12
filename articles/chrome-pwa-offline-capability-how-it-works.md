@@ -74,4 +74,9 @@ Whether you are using a PWA for work, entertainment, or productivity, understand
 
 ---
 
+## Related Articles
+* [chrome eye dropper api pick color anywhere](/articles/chrome-eye-dropper-api-pick-color-anywhere/)
+* [chrome topics api explained simply](/articles/chrome-topics-api-explained-simply/)
+* [Chrome Address Bar Autocomplete How to Clear](/articles/chrome-address-bar-autocomplete-how-to-clear/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

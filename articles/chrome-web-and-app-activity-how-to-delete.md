@@ -66,3 +66,9 @@ Deleting your activity is not a one-time fix but rather something you might want
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Keeps Opening New Tabs By Itself Virus](/articles/chrome-keeps-opening-new-tabs-by-itself-virus/)
+* [Chrome for ChatGPT Web App Best Extensions](/articles/chrome-for-chatgpt-web-app-best-extensions/)
+* [Chrome Tab Discard What It Means](/articles/chrome-tab-discard-what-it-means/)
+

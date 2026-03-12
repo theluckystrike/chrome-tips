@@ -118,4 +118,9 @@ Start with the simplest fixes first, such as closing unnecessary tabs and cleari
 
 ---
 
+## Related Articles
+* [Chrome Address Bar Focus Shortcut](/articles/chrome-address-bar-focus-shortcut/)
+* [Chrome vs Safari 2026 Comparison](/articles/chrome-vs-safari-2026/)
+* [Chrome Text Wrap Balance CSS](/articles/chrome-text-wrap-balance-css/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

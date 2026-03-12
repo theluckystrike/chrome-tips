@@ -75,3 +75,9 @@ Remember that LinkedIn itself regularly updates its interface, so some extension
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Meditation and Focus Extensions](/articles/chrome-for-meditation-and-focus-extensions/)
+* [chrome site isolation what it does](/articles/chrome-site-isolation-what-it-does/)
+* [Chrome for Jira Best Extensions](/articles/chrome-for-jira-best-extensions/)
+

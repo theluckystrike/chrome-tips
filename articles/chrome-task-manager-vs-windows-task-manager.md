@@ -127,4 +127,9 @@ Both tools have their place in your troubleshooting arsenal. Chrome Task Manager
 
 By understanding when to use each tool, you can quickly identify and resolve performance issues—whether they're confined to your browser or affecting your entire system.
 
+## Related Articles
+* [Chrome Proxy Settings Guide](/articles/chrome-proxy-settings-guide/)
+* [Chrome Popover API Explained](/articles/chrome-popover-api-explained/)
+* [Chrome Permissions on Startup How to Configure](/articles/chrome-permissions-on-startup-how-to-configure/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -97,4 +97,9 @@ Chrome crashing on low memory computer is a frustrating problem, but it is one y
 
 Remember that your computer's limited RAM does not mean you cannot have a good browsing experience. With the right settings and a few adjustments, Chrome can run reliably even on older hardware. Try these solutions one at a time to see which ones make the biggest difference for you.
 
+## Related Articles
+* [Best Chrome Extensions for Twitch Streamers](/articles/best-chrome-extensions-for-twitch-streamers/)
+* [chrome high contrast mode](/articles/chrome-high-contrast-mode/)
+* [chrome for shopping price comparison tools](/articles/chrome-for-shopping-price-comparison-tools/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

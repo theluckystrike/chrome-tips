@@ -157,4 +157,9 @@ Finally, keep your application updated as the Web NFC API evolves. The specifica
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Musicians](/articles/chrome-extensions-for-musicians/)
+* [Chrome Biometric Authentication for the Web](/articles/chrome-biometric-authentication-web/)
+* [Chrome Passkeys vs Passwords Comparison](/articles/chrome-passkeys-vs-passwords-comparison/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

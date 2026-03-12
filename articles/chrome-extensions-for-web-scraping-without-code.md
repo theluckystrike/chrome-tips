@@ -77,3 +77,9 @@ Consider the format you need. CSV files work with almost any spreadsheet applica
 Finally, remember that these tools are meant to help with reasonable data collection needs. If you find yourself needing to extract massive amounts of data regularly, look into more robust solutions designed for large-scale operations. For occasional personal or business research, the extensions discussed here work wonderfully.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Tab Organization Workflow](/articles/chrome-for-tab-organization-workflow/)
+* [Chrome Extensions for Research Papers](/articles/chrome-extensions-for-research-papers/)
+* [Chrome QR Code for Page How to Generate](/articles/chrome-qr-code-for-page-how-to-generate/)
+

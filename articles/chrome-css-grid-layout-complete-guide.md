@@ -80,3 +80,9 @@ Remember that learning CSS Grid is a journey. You do not need to memorize every 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Amazon Seller Central Tips](/articles/chrome-for-amazon-seller-central-tips/)
+* [Chrome for Duolingo Web App Optimization](/articles/chrome-for-duolingo-web-app-optimization/)
+* [Chrome Layers Panel Guide](/articles/chrome-layers-panel-guide/)
+

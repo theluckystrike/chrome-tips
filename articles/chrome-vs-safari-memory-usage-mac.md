@@ -73,4 +73,9 @@ Many Mac users find that using both browsers strategically works best. Use Safar
 
 ---
 
+## Related Articles
+* [Chrome for Website Monitoring Extensions](/articles/chrome-for-website-monitoring-extensions/)
+* [Chrome Built-In Screenshot Tool](/articles/chrome-built-in-screenshot-tool/)
+* [Chrome Extensions For Fitness Tracking Dashboard](/articles//articles/chrome-extensions-for-fitness-tracking-dashboard//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

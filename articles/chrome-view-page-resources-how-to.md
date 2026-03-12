@@ -59,4 +59,9 @@ Tab Suspender Pro is one option that automatically suspends inactive tabs, meani
 
 ---
 
+## Related Articles
+* [Chrome Extension Manifest V3 What Users Need to Know](/articles/chrome-extension-manifest-v3-what-users-need-to-know/)
+* [How to Change Your Chrome New Tab Background to a Custom Image](/articles/chrome-new-tab-background-change-custom-image/)
+* [Best Dark Mode Chrome Extension](/articles/best-dark-mode-chrome-extension/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

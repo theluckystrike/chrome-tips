@@ -54,3 +54,9 @@ If you often have more than nine tabs open and struggle to find specific ones, c
 Chrome is designed to handle many tabs, and these shortcuts are built right in to help you manage them effectively. By taking advantage of these features, you can turn an overwhelming tab bar into a well-organized workspace that works for you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Slow on Windows 10 Old Laptop Fix](/articles/chrome-slow-on-windows-10-old-laptop-fix/)
+* [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location/)
+* [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup/)
+

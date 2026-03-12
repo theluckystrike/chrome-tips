@@ -67,4 +67,9 @@ Take some time to experiment with different sounds and see what works for you. E
 
 ---
 
+## Related Articles
+* [Chrome Network Process Using Too Much Memory](/articles/chrome-network-process-using-too-much-memory/)
+* [Chrome Extensions Disabled by Administrator Fix](/articles/chrome-extensions-disabled-by-administrator-fix/)
+* [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

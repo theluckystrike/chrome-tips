@@ -81,4 +81,9 @@ If your extension is rejected, read the rejection reason carefully. The review t
 
 If you run multiple extensions or need to manage browser resources efficiently, consider using Tab Suspender Pro to automatically suspend tabs you are not actively using. This helps keep Chrome running smoothly and can improve the performance of any extension you develop. It frees up memory and CPU resources, which can be particularly helpful during extension development and testing.
 
+## Related Articles
+* [How to Clear Chrome Cache Fast](/articles/how-to-clear-chrome-cache-fast/)
+* [Chrome Extensions for Regex Tester](/articles/chrome-extensions-for-regex-tester/)
+* [Chrome Custom Search Engines Guide](/articles/chrome-search-engines-custom/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

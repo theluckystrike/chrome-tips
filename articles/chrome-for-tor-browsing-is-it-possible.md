@@ -69,3 +69,9 @@ For more tips on optimizing your browser for both performance and security, the 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Best Chrome Extensions for Language Learning](/articles/best-chrome-extensions-for-language-learning/)
+* [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained/)
+* [chrome proxy settings how to configure](/articles/chrome-proxy-settings-how-to-configure/)
+

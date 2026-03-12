@@ -51,3 +51,9 @@ Optimizing Chrome for Coursera does not require technical expertise. By keeping 
 Remember that small adjustments add up. You do not need to implement everything at once. Start with the simplest changes, like closing unused tabs, and gradually explore other options if needed. Over time, you will find the setup that works best for your learning style and computer setup.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome extensions for screen recording free](/articles/chrome-extensions-for-screen-recording-free/)
+* [Chrome Cookie Settings 2026 Guide](/articles/chrome-cookie-settings-2026/)
+* [Chrome Microphone Access on Phone How to Control](/articles/chrome-microphone-access-on-phone-how-to-control/)
+

@@ -79,4 +79,9 @@ To get the most out of your screenshot extension, consider these practical tips.
 
 **Organize regularly**: If you take many screenshots, set aside time periodically to organize and clean up your collection. Delete what you no longer need and properly archive important captures.
 
+## Related Articles
+* [Chrome Side Panel Features Guide](/articles/chrome-side-panel-features-guide/)
+* [Chrome Open Link in New Tab Shortcut](/articles/chrome-open-link-in-new-tab-shortcut/)
+* [Chrome Extensions For Cookie Editor Manager](/articles//articles/chrome-extensions-for-cookie-editor-manager//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

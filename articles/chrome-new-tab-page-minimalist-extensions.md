@@ -83,3 +83,9 @@ Whether you choose a simple clock, a productivity-focused extension, or a combin
 Take some time to explore your options and find what feels right. Once you settle on a setup that works for you, you may wonder how you ever browsed any other way.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Password Manager on Phone vs Dedicated App](/articles/chrome-password-manager-on-phone-vs-dedicated-app/)
+* [How to Route Chrome Tab Audio to Separate Speakers](/articles/chrome-tab-audio-routing-separate-speakers/)
+* [chrome trusted types dom xss prevent](/articles/chrome-trusted-types-dom-xss-prevent/)
+

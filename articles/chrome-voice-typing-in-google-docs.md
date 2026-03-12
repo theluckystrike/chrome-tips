@@ -87,4 +87,9 @@ Open Chrome, go to Google Docs, and give voice typing a try. With a little pract
 
 ---
 
+## Related Articles
+* [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips/)
+* [Chrome Client Hints Instead of User Agent: What Changed](/articles/chrome-client-hints-instead-of-user-agent/)
+* [Chrome Default Download Location How to Set](/articles//chrome-default-download-location-how-to-set//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

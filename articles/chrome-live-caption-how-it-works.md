@@ -68,3 +68,9 @@ The technology behind live caption continues to improve as Google refines its sp
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Clearing Browsing Data Automatically](/articles/chrome-for-clearing-browsing-data-automatically/)
+* [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix/)
+* [Chrome Page Source How to View Explained](/articles/chrome-page-source-how-to-view-explained/)
+

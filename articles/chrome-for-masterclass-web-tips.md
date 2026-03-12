@@ -68,3 +68,9 @@ The Chrome task manager is a useful tool for identifying what might be distracti
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome WebGL Crashing Fix](/articles/chrome-webgl-crashing-fix/)
+* [Does Having Many Chrome Extensions Slow Down Browser](/articles/does-having-many-chrome-extensions-slow-down-browser/)
+* [Chrome Extensions for YouTube Thumbnail Preview](/articles/chrome-extensions-for-youtube-thumbnail-preview/)
+

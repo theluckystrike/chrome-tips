@@ -74,4 +74,9 @@ Finally, make sure you are running the latest version of Chrome. Google regularl
 
 To check for updates, open Chrome and look for the three dots menu in the top right corner. Click on it, then go to **Help**, and select **About Google Chrome**. Chrome will check for updates and install them if any are available. Restart the browser after updating to make sure the changes take effect.
 
+## Related Articles
+* [Chrome Background Fetch for PWAs Explained](/articles/chrome-background-fetch-for-pwas-explained/)
+* [Chrome Navigation API for Single Page Apps: A Complete Guide](/articles/chrome-navigation-api-single-page-apps/)
+* [chrome coupons in address bar feature](/articles/chrome-coupons-in-address-bar-feature/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

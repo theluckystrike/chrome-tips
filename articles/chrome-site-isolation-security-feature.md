@@ -77,4 +77,9 @@ Understanding these underlying security features helps you become a more informe
 
 ---
 
+## Related Articles
+* [Chrome Slow After Windows Update Fix](/articles/chrome-slow-after-windows-update-fix/)
+* [Chrome Opens by Itself Randomly Fix](/articles/chrome-opens-by-itself-randomly-fix/)
+* [Chrome Custom Search Engines Guide](/articles/chrome-search-engines-custom/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -64,4 +64,9 @@ If you find that you are constantly needing to manage passwords across many devi
 
 For users who want additional convenience when browsing, there are also browser extensions available that can help with tab management and other productivity features. **Tab Suspender Pro** is one such extension that can help reduce memory usage by automatically suspending tabs you are not actively using, which can be particularly helpful on mobile devices where resources are more limited.
 
+## Related Articles
+* [How to Turn Off Chrome Notifications Permanently](/articles/how-to-turn-off-chrome-notifications-permanently/)
+* [Chrome Extensions For College Professors](/articles//articles/chrome-extensions-for-college-professors//)
+* [Chrome Send Feedback to Google How to](/articles/chrome-send-feedback-to-google-how-to/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

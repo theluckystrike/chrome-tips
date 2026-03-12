@@ -92,3 +92,9 @@ Chrome tab sync is incredibly useful when it works, and most of the time it does
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Video Playback Speed Control](/articles/chrome-extensions-for-video-playback-speed-control/)
+* [Chrome AI Summarize Feature How to Use](/articles/chrome-ai-summarize-feature-how-to-use/)
+* [chromebook file manager tips and tricks](/articles/chromebook-file-manager-tips-and-tricks/)
+

@@ -85,3 +85,9 @@ Consider using a combination of the methods described above. For example, you mi
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Live Captions How to Turn On](/articles/chrome-live-captions-how-to-turn-on/)
+* [Chrome View Page Resources How to](/articles/chrome-view-page-resources-how-to/)
+* [Chrome What Technology Is Website Using](/articles/chrome-what-technology-is-website-using/)
+

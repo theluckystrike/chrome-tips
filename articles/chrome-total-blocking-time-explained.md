@@ -49,4 +49,9 @@ If you find that your browser still struggles despite these efforts, give Tab Su
 
 ---
 
+## Related Articles
+* [How to Set Up Parental Controls on Your Chromebook](/articles/chromebook-parental-controls-setup/)
+* [Chrome Storage Inspector How to Use](/articles/chrome-storage-inspector-how-to-use/)
+* [Chrome Iterator Helpers Explained](/articles/chrome-iterator-helpers-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

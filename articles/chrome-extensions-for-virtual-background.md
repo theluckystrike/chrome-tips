@@ -82,3 +82,9 @@ Take some time to experiment with a few different options. Many extensions are f
 The right virtual background tools give you confidence in your appearance on camera and help you focus on what really matters, which is the conversation you are having rather than what is behind you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Background Fetch for PWAs Explained](/articles/chrome-background-fetch-for-pwas-explained/)
+* [chrome print page shortcut](/articles/chrome-print-page-shortcut/)
+* [Chrome Slows Down After Sleep Mode Fix](/articles/chrome-slows-down-after-sleep-mode-fix/)
+

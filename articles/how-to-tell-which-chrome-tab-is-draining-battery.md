@@ -66,3 +66,9 @@ Review your extensions regularly to remove any you no longer need. Each extensio
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Offscreen Canvas Performance: A Complete Guide](/articles/chrome-offscreen-canvas-performance/)
+* [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs/)
+* [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to/)
+

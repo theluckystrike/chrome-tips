@@ -83,4 +83,9 @@ The Chrome Coverage Tool is an essential part of any web performance optimizatio
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Dark Mode How To Enable](/articles//chrome-dark-mode-how-to-enable//)
+* [Best Chrome Extensions for Reading Articles](/articles/best-chrome-extensions-for-reading-articles/)
+* [Chrome Flags on Android Best to Enable](/articles/chrome-flags-on-android-best-to-enable/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

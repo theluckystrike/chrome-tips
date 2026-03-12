@@ -84,3 +84,9 @@ Regular maintenance like closing unused tabs, keeping your extensions minimal, a
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Grammar Check Free Alternative](/articles/chrome-extensions-for-grammar-check-free-alternative/)
+* [chrome web apps how to install](/articles/chrome-web-apps-how-to-install/)
+* [Chrome Default Download Location How to Change](/articles//chrome-default-download-location-how-to-change//)
+

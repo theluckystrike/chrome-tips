@@ -90,4 +90,9 @@ The decision between Chrome and Firefox for an old laptop isn't always clear-cut
 
 No matter which path you take, remember that your browser is only part of the equation. Keeping your operating system lean, closing background applications, and using performance-boosting tools like **Tab Suspender Pro** will go a long way in extending the life of your old laptop and making your time online much more enjoyable.
 
+## Related Articles
+* [Chrome for Cloud Gaming Best Settings](/articles/chrome-for-cloud-gaming-best-settings/)
+* [Chrome Idle Detection API Explained: What It Means for Your Browser](/articles/chrome-idle-detection-api-explained/)
+* [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

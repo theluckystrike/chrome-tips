@@ -60,3 +60,9 @@ Never enter your private keys or seed phrases into a browser extension. Legitima
 Regularly review which extensions have access to your wallet addresses and revoke access for any extensions you no longer use. This is good security practice that minimizes your exposure in case an extension is ever compromised.
 
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extension Permissions Best Practices](/articles/chrome-extension-permissions-best-practices/)
+* [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer/)
+* [Chrome Tabs Keep Reloading When I Switch Back](/articles/chrome-tabs-keep-reloading-when-i-switch-back/)
+

@@ -76,3 +76,9 @@ Optimizing Chrome for Rumble web player settings does not have to be complicated
 Remember that every computer is different, so you may need to experiment with a few settings to find what works best for your setup. Start with the basics like hardware acceleration and extension management, then move on to more advanced tweaks if needed.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Reset Chrome to Default Settings](/articles/how-to-reset-chrome-to-default-settings/)
+* [How to Change Chrome Font Size Permanently](/articles/chrome-font-size-permanently-change/)
+* [Chrome Flags Best Performance Settings](/articles/chrome-flags-best-performance-settings/)
+

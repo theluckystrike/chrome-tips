@@ -108,4 +108,9 @@ Chrome Developer Mode is an essential tool for anyone developing or testing Chro
 
 Remember to follow best practices like keeping your manifest valid, requesting only necessary permissions, handling errors gracefully, and using appropriate development tools. With these skills and practices in place, you will be well-equipped to create, test, and refine Chrome extensions that provide real value to users.
 
+## Related Articles
+* [Chrome for Medium Best Reading Extensions](/articles/chrome-for-medium-best-reading-extensions/)
+* [chrome shared array buffer usage](/articles/chrome-shared-array-buffer-usage/)
+* [Chrome Scope CSS Explained](/articles/chrome-scope-css-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

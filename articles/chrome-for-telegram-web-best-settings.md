@@ -82,3 +82,9 @@ If you find that Telegram Web is still using more resources than you would like 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Nature Sounds While Studying](/articles/chrome-for-nature-sounds-while-studying/)
+* [Chrome Extensions for Markdown Editor Preview](/articles/chrome-extensions-for-markdown-editor-preview/)
+* [Chrome Canva Slow Loading Fix](/articles/chrome-canva-slow-loading-fix/)
+

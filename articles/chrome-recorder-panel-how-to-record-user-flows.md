@@ -81,4 +81,9 @@ Running repeated recordings or keeping many tabs open while testing can sometime
 
 ---
 
+## Related Articles
+* [Why Is Chrome Using So Much Memory](/articles/why-is-chrome-using-so-much-memory/)
+* [Chrome Sharing Screen in Video Calls](/articles/chrome-sharing-screen-in-video-calls/)
+* [Chrome vs Edge RAM Usage Comparison 2026](/articles/chrome-vs-edge-ram-usage-comparison-2026/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

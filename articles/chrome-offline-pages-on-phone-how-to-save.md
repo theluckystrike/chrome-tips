@@ -88,3 +88,9 @@ Finally, check how much storage space you have available on your phone before sa
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome shortcuts on desktop how to create](/articles/chrome-shortcuts-on-desktop-how-to-create/)
+* [Chrome Multiple Windows vs Tabs Which Is Better](/articles/chrome-multiple-windows-vs-tabs-which-is-better/)
+* [Chrome Extensions for Research Papers](/articles/chrome-extensions-for-research-papers/)
+

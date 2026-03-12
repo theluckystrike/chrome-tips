@@ -81,4 +81,9 @@ The Chrome reading list is a simple but powerful tool for anyone who wants to sa
 
 Give it a try today and see how much easier it is to stay organized with your reading.
 
+## Related Articles
+* [Chrome for LinkedIn Best Extensions](/articles/chrome-for-linkedin-best-extensions/)
+* [How to Enable Chrome Parallel Downloading](/articles/how-to-enable-chrome-parallel-downloading/)
+* [chrome high memory usage after sleep fix](/articles/chrome-high-memory-usage-after-sleep-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

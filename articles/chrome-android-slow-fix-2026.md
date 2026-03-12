@@ -88,4 +88,9 @@ When you tap on a suspended tab, it reloads right away, so you never lose access
 
 Finally, make sure your Android operating system is up to date. System updates often include performance improvements that can help Chrome and other apps run better. Go to your phone's Settings, look for System Updates, and install any available updates.
 
+## Related Articles
+* [Chrome for Pomodoro Timer Extensions](/articles/chrome-for-pomodoro-timer-extensions/)
+* [Chrome Headless Mode What It Is](/articles/chrome-headless-mode-what-it-is/)
+* [Chrome Keeps Freezing Every Few Minutes: Causes and Fixes](/articles/chrome-keeps-freezing-every-few-minutes/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

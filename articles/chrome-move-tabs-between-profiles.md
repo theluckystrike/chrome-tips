@@ -70,4 +70,9 @@ The bookmark method is the most reliable fallback if you ever encounter issues w
 
 Moving tabs between Chrome profiles takes a bit of extra effort since Chrome does not natively support this feature. But with these methods, you can transfer tabs quickly and continue your work without losing important pages.
 
+## Related Articles
+* [chrome shared array buffer usage](/articles/chrome-shared-array-buffer-usage/)
+* [Chrome User Data Directory: What Each File Does](/articles/chrome-user-data-directory-what-each-file-does/)
+* [Chrome Clock Behind Error Fix](/articles/chrome-clock-behind-error-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

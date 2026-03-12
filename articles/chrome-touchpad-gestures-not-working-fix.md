@@ -77,4 +77,9 @@ Start with the simple fixes like restarting Chrome and clearing cache, then move
 
 If nothing seems to work, remember that you can always reach out to Chrome support or your computer manufacturer for additional help. Most touchpad gesture issues can be resolved with some patience and systematic troubleshooting.
 
+## Related Articles
+* [Chrome CSS Grid Debugging Guide](/articles//chrome-css-grid-debugging//)
+* [Chrome Developer Tools Shortcut](/articles//chrome-developer-tools-shortcut//)
+* [Chrome Extensions for Reddit](/articles/chrome-extensions-for-reddit/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -87,3 +87,9 @@ The bookmark bar is one of Chrome's most convenient features, but it requires so
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Extensions for Auto Refresh Page](/articles/chrome-extensions-for-auto-refresh-page/)
+* [Chrome vs Vivaldi for Power Users](/articles/chrome-vs-vivaldi-for-power-users/)
+* [Chrome Offscreen Canvas Performance: A Complete Guide](/articles/chrome-offscreen-canvas-performance/)
+

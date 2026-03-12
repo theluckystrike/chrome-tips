@@ -76,3 +76,9 @@ Also, remember that CORS errors are usually not your fault. They typically happe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Instant Apps on Android Explained](/articles/chrome-instant-apps-on-android-explained/)
+* [Chrome DOMContentLoaded vs Load Event](/articles/chrome-dom-content-loaded-vs-load-event/)
+* [Chrome for Zoom Classes Optimization](/articles/chrome-for-zoom-classes-optimization/)
+

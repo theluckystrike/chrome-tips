@@ -70,3 +70,9 @@ Remember, the goal is not to eliminate all browsing but to create boundaries tha
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Tab Search Shortcut: Find Any Open Tab Instantly](/articles/chrome-tab-search-shortcut/)
+* [Is Microsoft Edge Better Than Chrome Now](/articles/is-microsoft-edge-better-than-chrome-now/)
+* [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix/)
+

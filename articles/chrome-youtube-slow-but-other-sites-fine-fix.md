@@ -79,3 +79,9 @@ Clear your cache regularly. You do not need to do this every day, but doing it o
 Stay updated. Keep Chrome updated, and make sure your operating system is current as well. Updates often include performance improvements and bug fixes that can help with video playback.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Compute Pressure: How Thermal and CPU Throttling Affect Your Browser](/articles/chrome-compute-pressure-thermal-cpu/)
+* [Best Chrome Extensions for Amazon Prime Video](/articles/best-chrome-extensions-for-amazon-prime-video/)
+* [Chrome Page Source How to View Explained](/articles/chrome-page-source-how-to-view-explained/)
+

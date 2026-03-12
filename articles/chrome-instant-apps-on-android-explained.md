@@ -66,3 +66,9 @@ For desktop users, extensions like Tab Suspender Pro offer useful solutions for 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Binaural Beats](/articles/chrome-extensions-for-binaural-beats/)
+* [chrome for github best extensions](/articles/chrome-for-github-best-extensions/)
+* [How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)](/articles/how-to-downgrade-chrome-to-older-version/)
+

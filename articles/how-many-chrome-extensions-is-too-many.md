@@ -67,3 +67,9 @@ Remember that fewer, well-chosen extensions will serve you better than dozens of
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome User Data Directory: What Each File Does](/articles/chrome-user-data-directory-what-each-file-does/)
+* [Chrome Client Hints Instead of User Agent: What Changed](/articles/chrome-client-hints-instead-of-user-agent/)
+* [chrome for google translate extension tips](/articles/chrome-for-google-translate-extension-tips/)
+

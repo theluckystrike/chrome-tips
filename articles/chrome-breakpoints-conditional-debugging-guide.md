@@ -71,4 +71,9 @@ The key to effective debugging with breakpoints is practice and experimentation.
 
 ---
 
+## Related Articles
+* [Chrome Tabs on Top vs Bottom: How to Change](/articles/chrome-tabs-on-top-vs-bottom-how-to-change/)
+* [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix/)
+* [chromebook file manager tips and tricks](/articles/chromebook-file-manager-tips-and-tricks/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

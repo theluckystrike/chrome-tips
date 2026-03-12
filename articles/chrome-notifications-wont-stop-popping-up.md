@@ -152,4 +152,9 @@ If Chrome notifications won't stop popping up, you have several options to regai
 
 Remember: you don't have to put up with constant interruptions. With a few simple adjustments, you can enjoy a quieter, more focused browsing experience.
 
+## Related Articles
+* [chrome extensions for screen dimmer](/articles/chrome-extensions-for-screen-dimmer/)
+* [Chrome Extensions for Tree Style Tabs](/articles/chrome-extensions-for-tree-style-tabs/)
+* [Chrome for Google Analytics in Browser](/articles/chrome-for-google-analytics-in-browser/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

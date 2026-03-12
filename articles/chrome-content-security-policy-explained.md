@@ -85,4 +85,9 @@ Whether you're a developer implementing CSP on your own websites or a user curio
 
 ---
 
+## Related Articles
+* [Chrome Open Link in New Tab Shortcut](/articles/chrome-open-link-in-new-tab-shortcut/)
+* [Chrome for Quick Commands Feature](/articles/chrome-for-quick-commands-feature/)
+* [How to Use Chrome Flags Safely](/articles/how-to-use-chrome-flags-safely/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

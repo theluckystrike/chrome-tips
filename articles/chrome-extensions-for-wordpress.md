@@ -70,3 +70,9 @@ Remember that less is often more when it comes to browser extensions. Having too
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome for google ads management tips](/articles/chrome-for-google-ads-management-tips/)
+* [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/articles/chrome-makes-my-old-laptop-unusable/)
+* [Chrome Energy Saver Mode Guide](/articles/chrome-energy-saver-mode-guide/)
+

@@ -54,3 +54,9 @@ When working with clients, consider using placeholder text that gives them a bet
 Taking a moment to organize your extension collection and ensure your browser is running efficiently will pay dividends over time. A fast, organized browser helps you stay focused on your creative work rather than fighting with your tools.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Canvas Fingerprint Blocker](/articles//articles/chrome-extensions-for-canvas-fingerprint-blocker//)
+* [Chrome for Touchscreen Optimization Tips](/articles/chrome-for-touchscreen-optimization-tips/)
+* [Chrome Remote Debugging for Beginners](/articles/chrome-remote-debugging-for-beginners/)
+

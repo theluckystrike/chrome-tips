@@ -62,3 +62,9 @@ For even better performance, consider pairing regular cache clearing with Tab Su
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.*
+
+## Related Articles
+* [chrome stale while revalidate strategy explained](/articles/chrome-stale-while-revalidate-strategy-explained/)
+* [Chrome Opens Old Tabs on Startup How to Stop](/articles/chrome-opens-old-tabs-on-startup-how-to-stop/)
+* [Chrome YouTube Keyboard Shortcuts](/articles/chrome-youtube-keyboard-shortcuts/)
+

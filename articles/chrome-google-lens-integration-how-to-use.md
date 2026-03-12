@@ -72,3 +72,9 @@ For example, if you are doing product research and opening multiple Lens results
 Keeping your browser configured for your specific needs makes all the built-in features work better. Chrome offers many settings and extensions that can be customized to fit how you browse.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Text to Speech Built In Feature](/articles/chrome-text-to-speech-built-in-feature/)
+* [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization/)
+* [Chrome OS vs Windows for Everyday Use](/articles/chrome-os-vs-windows-for-everyday-use/)
+

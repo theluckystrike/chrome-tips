@@ -89,3 +89,9 @@ Give these extensions a try with just a page or two, see how they work for your 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Tab Audio How to Mute](/articles/chrome-tab-audio-how-to-mute/)
+* [Chrome Extensions Keep Disabling Themselves Fix](/articles/chrome-extensions-keep-disabling-themselves-fix/)
+* [Chrome Anchor Positioning API Explained](/articles/chrome-anchor-positioning-api-explained/)
+

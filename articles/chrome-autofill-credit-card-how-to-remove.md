@@ -74,3 +74,9 @@ That said, Chrome's built-in settings are usually sufficient for most users who 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Font Identification Extensions](/articles/chrome-for-font-identification-extensions/)
+* [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage/)
+* [Chrome Microsoft Teams Web Slow Fix](/articles/chrome-microsoft-teams-web-slow-fix/)
+

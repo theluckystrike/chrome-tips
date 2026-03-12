@@ -79,4 +79,9 @@ Voice interaction represents the next frontier of browser usability. Whether you
 
 ---
 
+## Related Articles
+* [chrome pwa vs electron app comparison](/articles/chrome-pwa-vs-electron-app-comparison/)
+* [Chrome Text Size on Phone How to Change](/articles/chrome-text-size-on-phone-how-to-change/)
+* [chrome for tiktok web best settings](/articles/chrome-for-tiktok-web-best-settings/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -91,4 +91,9 @@ A Chrome tab using 1GB of memory is not unusual for modern websites, but it does
 
 The key is to be proactive. Check Chrome Task Manager regularly, close unused tabs, and keep your extensions lean. With these practices, even computers with limited RAM can enjoy a smooth browsing experience without constant slowdowns.
 
+## Related Articles
+* [Chrome Back Button Not Working Fix](/articles/chrome-back-button-not-working-fix/)
+* [chrome tab memory usage how to check](/articles/chrome-tab-memory-usage-how-to-check/)
+* [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/articles/chrome-your-computer-is-infected-popup-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

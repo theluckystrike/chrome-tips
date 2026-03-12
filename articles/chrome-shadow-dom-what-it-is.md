@@ -33,3 +33,9 @@ Understanding Shadow DOM can help you appreciate the complexity behind the simpl
 In conclusion, Shadow DOM is a powerful web technology that creates protected boundaries around parts of a webpage. It keeps styles and scripts isolated so they do not interfere with each other. While this can sometimes limit what you can customize with extensions or userstyles, it also makes the web more reliable and consistent. Next time you see a beautifully designed web element, you will know that Shadow DOM likely helped make it possible.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Amazon Fresh Web Ordering](/articles/chrome-for-amazon-fresh-web-ordering/)
+* [Chrome Extension for Email Tracking Notification](/articles/chrome-extension-for-email-tracking-notification/)
+* [Chrome CDP Protocol Explained Simply](/articles/chrome-cdp-protocol-explained-simply/)
+

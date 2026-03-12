@@ -94,4 +94,9 @@ Take time to explore the toolbar options and keyboard shortcuts to find what wor
 
 For power users managing multiple PDF documents, consider incorporating tab management tools to maintain performance while keeping reference materials accessible. The combination of Chrome's native capabilities and thoughtful browser extensions creates a productive PDF workflow that serves both casual and professional needs.
 
+## Related Articles
+* [Chrome Recorder Panel Guide](/articles/chrome-recorder-panel-guide/)
+* [Chrome Extensions for Tab Grouping Automatically](/articles/chrome-extensions-for-tab-grouping-automatically/)
+* [Chrome for Canva Web App Optimization](/articles/chrome-for-canva-web-app-optimization/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

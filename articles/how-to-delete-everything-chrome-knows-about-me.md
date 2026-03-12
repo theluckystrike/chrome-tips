@@ -76,3 +76,9 @@ For ongoing privacy, consider making a habit of clearing your data regularly or 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.*
+
+## Related Articles
+* [How to Update Chrome on iPhone](/articles/how-to-update-chrome-on-iphone/)
+* [Chrome for Instagram Web Tips](/articles/chrome-for-instagram-web-tips/)
+* [Chrome Vertical Tabs How to Enable](/articles/chrome-vertical-tabs-how-to-enable/)
+

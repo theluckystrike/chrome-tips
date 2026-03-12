@@ -76,3 +76,9 @@ You do not need to install every extension mentioned here. Experiment with one o
 The right combination of extensions turns Chrome into a powerful companion for your Raindrop IO work. You will spend less time on friction and more time actually using your saved content to learn, research, and organize the web resources that matter to you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for eBay Selling Best Extensions](/articles/chrome-for-ebay-selling-best-extensions/)
+* [Chrome for Custom Cursor Extensions](/articles/chrome-for-custom-cursor-extensions/)
+* [chrome how to allow popups for one site](/articles/chrome-how-to-allow-popups-for-one-site/)
+

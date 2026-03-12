@@ -93,3 +93,9 @@ Getting the dns probe finished nxdomain error does not mean your browsing experi
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Device Emulation Advanced Guide](/articles//chrome-device-emulation-advanced//)
+* [Chrome WebAuthn Explained for Regular Users](/articles/chrome-webauthn-explained-for-regular-users/)
+* [chrome shortcuts in pwa how to define](/articles/chrome-shortcuts-in-pwa-how-to-define/)
+

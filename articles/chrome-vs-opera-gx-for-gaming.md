@@ -93,4 +93,9 @@ By following the optimization tips in this guide and choosing the browser that f
 
 ---
 
+## Related Articles
+* [Best Chrome Setup For Graphic Designers](/articles/best-chrome-setup-for-graphic-designers/)
+* [Chrome for Adobe Creative Cloud Web Tips](/articles/chrome-for-adobe-creative-cloud-web-tips/)
+* [chrome extensions for twitch streamers](/articles/chrome-extensions-for-twitch-streamers/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

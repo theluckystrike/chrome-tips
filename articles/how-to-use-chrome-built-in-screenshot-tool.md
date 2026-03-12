@@ -54,3 +54,9 @@ For more advanced features like annotation tools or easier access, exploring ext
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Keyboard Navigation Tips](/articles/chrome-keyboard-navigation-tips/)
+* [Chrome Performance Settings Best Configuration](/articles/chrome-performance-settings-best-configuration/)
+* [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api-explained/)
+

@@ -82,4 +82,9 @@ Chrome Offscreen Canvas performance represents a significant advancement in web 
 
 The key is to understand when and how to use this feature effectively. Not every project needs Offscreen Canvas, but for graphics-intensive applications, it can be transformative. Start with a simple implementation, measure the performance gains, and scale up as needed.
 
+## Related Articles
+* [How to Sync Everything Between Your Phone and Laptop with Chrome](/articles/chrome-sync-everything-between-phone-and-laptop/)
+* [Chrome WebGL Not Working Fix](/articles/chrome-webgl-not-working-fix/)
+* [Chrome for Tab Organization Workflow](/articles/chrome-for-tab-organization-workflow/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

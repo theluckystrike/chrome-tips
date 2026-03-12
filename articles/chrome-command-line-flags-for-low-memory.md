@@ -163,4 +163,9 @@ Chrome command line flags offer real solutions for users with limited RAM. The r
 
 Start with the renderer process limit flag, test it, and gradually add more flags as needed. Every system is different, so find the combination that works best for your specific setup.
 
+## Related Articles
+* [chrome themes how to change and customize](/articles/chrome-themes-how-to-change-and-customize/)
+* [Chrome Google Drive Integration Save to Drive](/articles/chrome-google-drive-integration-save-to-drive/)
+* [Chrome Encrypted DNS Explained for Beginners](/articles/chrome-encrypted-dns-explained-for-beginners/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

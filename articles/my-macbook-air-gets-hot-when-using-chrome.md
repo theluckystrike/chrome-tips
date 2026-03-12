@@ -117,4 +117,9 @@ However, for most users, the steps outlined above will significantly reduce heat
 
 Remember that your MacBook Air was designed to handle everyday browsing tasks. With some adjustments to how you use Chrome, you can enjoy a cooler, quieter, and more responsive computing experience without upgrading your hardware.
 
+## Related Articles
+* [Chrome for Salesforce Web App Optimization](/articles/chrome-for-salesforce-web-app-optimization/)
+* [How to Fix Chrome Mixed Content Warning](/articles/chrome-mixed-content-warning-fix/)
+* [Chrome Bookmark Bar Tips And Tricks](/articles/chrome-bookmark-bar-tips-and-tricks/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

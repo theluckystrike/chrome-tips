@@ -89,4 +89,9 @@ Whether you are managing a complex research project, juggling multiple work stre
 
 Start using the chrome tab search shortcut today, and you will wonder how you ever managed without it.
 
+## Related Articles
+* [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage//)
+* [chrome extensions for whatfont alternative](/articles/chrome-extensions-for-whatfont-alternative/)
+* [Chrome for Grammar Checking Extensions](/articles/chrome-for-grammar-checking-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

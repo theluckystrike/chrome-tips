@@ -58,3 +58,9 @@ You should notice a difference fairly quickly. Your browser should feel more res
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Restore Closed Tabs in Chrome](/articles/chrome-restore-closed-tabs-guide/)
+* [Chrome DevTools Console Errors Meaning: A Practical Guide](/articles//chrome-devtools-console-errors-meaning-guide//)
+* [Chrome Extension for Blocking Social Media During Work](/articles/chrome-extension-for-blocking-social-media-during-work/)
+

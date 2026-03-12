@@ -80,3 +80,9 @@ Your digital workspace should support your goals, and adding the right music ext
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extension Conflict: Identifying and Fixing Crashes](/articles/chrome-extension-conflict-causing-crashes/)
+* [Chrome Forced Extensions by Admin What It Means](/articles/chrome-forced-extensions-by-admin-what-it-means/)
+* [chrome for protonmail in chrome setup](/articles/chrome-for-protonmail-in-chrome-setup/)
+

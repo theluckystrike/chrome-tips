@@ -52,3 +52,9 @@ In the future, consider building a habit of bookmarking important pages or using
 Losing tabs after an update is annoying, but with the right habits and tools, you can minimize the risk and recover more easily when it happens.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Tracing for Performance Issues](/articles/chrome-tracing-for-performance-issues/)
+* [Chrome Reading Mode AI Summary Feature](/articles/chrome-reading-mode-ai-summary-feature/)
+* [Chrome Network Speed in Developer Tools](/articles/chrome-network-speed-in-developer-tools/)
+

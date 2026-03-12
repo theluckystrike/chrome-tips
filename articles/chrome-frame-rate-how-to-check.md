@@ -60,3 +60,9 @@ Watch the number of extensions you install. Each extension adds some overhead to
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Address Bar Not Showing Full URL Fix](/articles/chrome-address-bar-not-showing-full-url-fix/)
+* [Chrome Extensions for URL Shortener](/articles/chrome-extensions-for-url-shortener/)
+* [Chrome Extensions for Whois Lookup](/articles/chrome-extensions-for-whois-lookup/)
+

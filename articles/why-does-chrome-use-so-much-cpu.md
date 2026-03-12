@@ -68,3 +68,9 @@ The fixes are straightforward. Close unused tabs, manage your extensions, and co
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Web GPU API Explained for Beginners](/articles/chrome-web-gpu-api-explained-for-beginners/)
+* [chrome clipboard permission explained](/articles/chrome-clipboard-permission-explained/)
+* [Chrome JetStream Score What Is Good](/articles/chrome-jetstream-score-what-is-good/)
+

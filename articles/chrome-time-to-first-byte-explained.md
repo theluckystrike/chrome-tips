@@ -79,4 +79,9 @@ When websites are slow, it helps to know whether the problem is on your end or t
 ---
 
 >>>>>>> qa/loop-5
+## Related Articles
+* [Chrome vs Edge 2026 Comparison](/articles/chrome-vs-edge-2026/)
+* [Chrome View Transitions API: Smooth Browsing Experience Guide](/articles/chrome-view-transitions-api-smooth/)
+* [chrome google tasks integration tips](/articles/chrome-google-tasks-integration-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

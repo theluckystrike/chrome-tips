@@ -57,4 +57,9 @@ Taking these steps does not require technical expertise. By installing a reliabl
 
 ---
 
+## Related Articles
+* [How to Safely Work with Chromebook School Restrictions](/articles/chromebook-school-restrictions-bypass-safely/)
+* [chrome privacy sandbox explained for users](/articles/chrome-privacy-sandbox-explained-for-users/)
+* [chrome shortcuts in pwa how to define](/articles/chrome-shortcuts-in-pwa-how-to-define/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

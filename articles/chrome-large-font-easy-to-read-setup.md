@@ -79,3 +79,9 @@ Making Chrome display large, easy-to-read text is straightforward once you know 
 Remember that everyone has different needs when it comes to text size and readability. Do not be afraid to experiment with the settings until you find what works best for you. Your eyes will thank you for taking the time to set things up correctly.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Two Factor Authentication Setup](/articles/chrome-two-factor-authentication-setup/)
+* [Chrome Extensions For Canva Companion](/articles//articles/chrome-extensions-for-canva-companion//)
+* [Best Chrome Extensions for Web Developers 2026](/articles/best-chrome-extensions-for-web-developers-2026/)
+

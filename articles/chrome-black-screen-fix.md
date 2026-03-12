@@ -93,3 +93,9 @@ If you continue having issues after trying all these steps, it might be worth ch
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [How to Remove Unwanted Toolbars in Chrome: Complete Guide](/articles/chrome-unwanted-toolbar-remove-guide/)
+* [Chrome Extension for Spotify Lyrics](/articles/chrome-extension-for-spotify-lyrics/)
+* [Chrome for Travel Itinerary Extensions](/articles/chrome-for-travel-itinerary-extensions/)
+

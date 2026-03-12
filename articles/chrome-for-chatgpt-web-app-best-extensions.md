@@ -72,3 +72,9 @@ From there, think about what would save you the most time. Do you need to export
 Remember that the goal is to make your ChatGPT experience better, not more complicated. The best extensions feel natural and disappear into the background, helping you without getting in your way.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Shape Detection API Explained](/articles/chrome-shape-detection-api-explained/)
+* [Chrome for edX Web App Best Settings](/articles/chrome-for-edx-web-app-best-settings/)
+* [How to Use Chrome Read Later: Save Articles for Offline Reading](/articles/chrome-read-later-save-articles-offline/)
+

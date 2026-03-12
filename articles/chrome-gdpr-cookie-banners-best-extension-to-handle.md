@@ -56,3 +56,9 @@ Browser updates often include new privacy features, so keep Chrome updated to ta
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Productivity Students](/articles/chrome-extensions-for-productivity-students/)
+* [Chrome Homepage Keeps Changing to Yahoo Fix](/articles/chrome-homepage-keeps-changing-to-yahoo-fix/)
+* [Chrome This Site Cant Be Reached Fix](/articles/chrome-this-site-cant-be-reached-fix/)
+

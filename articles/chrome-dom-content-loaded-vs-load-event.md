@@ -63,3 +63,9 @@ Understanding these two events gives you a better mental model for how Chrome ha
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Subresource Integrity Explained](/articles/chrome-subresource-integrity-explained/)
+* [Chrome Extensions for Ambient Sounds Focus](/articles/chrome-extensions-for-ambient-sounds-focus/)
+* [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management/)
+

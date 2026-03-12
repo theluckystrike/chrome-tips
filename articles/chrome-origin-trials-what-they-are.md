@@ -78,4 +78,9 @@ Chrome origin trials are an important part of how web browsers evolve. They crea
 
 Whether you are a regular user who wants to try new features early or a web developer building the next generation of websites, origin trials offer a way to explore what is coming next in Chrome. While you are experimenting with these advanced features, you might also find that managing your browser performance becomes more important. Tools like **Tab Suspender Pro** can help by automatically suspending tabs you are not using, which frees up resources and keeps your browser running smoothly even when you are testing experimental features that might be more demanding than standard ones. The next time someone asks you what chrome origin trials are, you can confidently explain that they are your ticket to the future of web browsing.
 
+## Related Articles
+* [Chrome Accessibility Shortcuts For Screen Reader](/articles/chrome-accessibility-shortcuts-for-screen-reader/)
+* [Chrome Local Font Access API Explained](/articles/chrome-local-font-access-api-explained/)
+* [chrome color mix function css](/articles/chrome-color-mix-function-css/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

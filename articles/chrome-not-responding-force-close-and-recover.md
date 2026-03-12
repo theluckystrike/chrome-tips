@@ -69,3 +69,9 @@ In Chrome Task Manager, you can see how much memory and CPU each tab and extensi
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome DevTools Issues Panel Explained](/articles/chrome-devtools-issues-panel-explained/)
+* [Chrome Live Caption How It Works](/articles/chrome-live-caption-how-it-works/)
+* [Chrome Notifications for One Site How to Manage](/articles/chrome-notifications-for-one-site-how-to-manage/)
+

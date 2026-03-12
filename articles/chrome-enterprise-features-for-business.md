@@ -87,4 +87,9 @@ Chrome enterprise features provide a solid foundation for managing browser secur
 
 ---
 
+## Related Articles
+* [Chrome for StayFocusd Extension Guide](/articles/chrome-for-stayfocusd-extension-guide/)
+* [Chrome Camera Microphone Permission Manage: Complete Guide](/articles/chrome-camera-microphone-permission-manage/)
+* [chrome offline mode how to browse without internet](/articles/chrome-offline-mode-how-to-browse-without-internet/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

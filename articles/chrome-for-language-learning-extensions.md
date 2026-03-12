@@ -68,3 +68,9 @@ By integrating these tools into your daily browsing routine, you can turn every 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Freezes When Opening New Tab Fix](/articles/chrome-freezes-when-opening-new-tab-fix/)
+* [Chrome Developer Tools for Non Developers](/articles//chrome-developer-tools-for-non-developers//)
+* [Chrome Web NFC API Guide](/articles/chrome-web-nfc-api-guide/)
+

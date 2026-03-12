@@ -69,4 +69,9 @@ The key to getting the most out of chrome extensions for Asana is to start with 
 
 You do not need to install every extension available. In fact, having too many can create new complications and slow down your browser in different ways. Start with the basics, see what makes a real difference in your daily workflow, and add more only when you identify a clear need. With the right chrome extensions for Asana, you can build a system that helps you manage projects more effectively and spend less time struggling with your tools.
 
+## Related Articles
+* [Chrome Canvas Fingerprinting How to Block](/articles/chrome-canvas-fingerprinting-how-to-block/)
+* [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out/)
+* [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

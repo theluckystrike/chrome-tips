@@ -74,3 +74,9 @@ If you find that Chrome becomes slow or resource-heavy with all the Family Link 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Copy Paste Not Working Fix](/articles/chrome-copy-paste-not-working-fix/)
+* [Chrome Saved Payment Methods How to Edit](/articles/chrome-saved-payment-methods-how-to-edit/)
+* [Chrome Text Size How to Increase Permanently](/articles/chrome-text-size-how-to-increase-permanently/)
+

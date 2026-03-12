@@ -105,4 +105,9 @@ Chrome Recorder and DevTools make test automation accessible to everyone, from d
 
 Whether you are testing a simple contact form or a complex checkout flow, these tools can dramatically reduce manual testing effort and give you confidence in your application's functionality. Start small, record a few key user journeys, and gradually build out your test suite. The time you invest now will pay off with every automated test run.
 
+## Related Articles
+* [Chrome Periodic Background Sync Explained](/articles/chrome-periodic-background-sync-explained/)
+* [Chrome Extensions For Duplicate Tab Finder](/articles//articles/chrome-extensions-for-duplicate-tab-finder//)
+* [Chromebook vs Windows Laptop for Browsing](/articles/chromebook-vs-windows-laptop-for-browsing/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

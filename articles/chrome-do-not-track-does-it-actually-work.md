@@ -63,3 +63,9 @@ Explore the privacy settings Chrome offers, install effective blocking tools, an
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How Often Should I Clear Chrome Cache](/articles/how-often-should-i-clear-chrome-cache/)
+* [Chrome for Fitness Tracking Web Apps](/articles/chrome-for-fitness-tracking-web-apps/)
+* [chrome extensions for image reverse search](/articles/chrome-extensions-for-image-reverse-search/)
+

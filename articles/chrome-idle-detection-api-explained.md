@@ -86,3 +86,9 @@ For users who want additional control over tab management and resource usage, ex
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Forced Extensions by Admin What It Means](/articles/chrome-forced-extensions-by-admin-what-it-means/)
+* [Best Chrome Extensions for Google Drive](/articles/best-chrome-extensions-for-google-drive/)
+* [Chrome for Travel Planning: Best Extensions](/articles/chrome-for-travel-planning-best-extensions/)
+

@@ -70,3 +70,9 @@ When you reach your limit, you have to close something before you can open anyth
 Breaking the habit of opening too many tabs takes some effort, but it is absolutely achievable. Start with one or two of these strategies, practice them consistently, and add more as they become automatic. Your browser will run faster, your mind will feel clearer, and you will be able to focus on what actually matters.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Blocking Distracting Websites](/articles//articles/chrome-extensions-for-blocking-distracting-websites//)
+* [Chrome Super Cookies: What Are They](/articles/chrome-super-cookies-what-are-they/)
+* [Chrome Process Per Tab Why and How to Change](/articles/chrome-process-per-tab-why-and-how-to-change/)
+

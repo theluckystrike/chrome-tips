@@ -52,3 +52,9 @@ Remember that some CPU usage from Chrome is completely normal, especially when y
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/articles/chrome-autofill-wrong-address-keeps-appearing/)
+* [Chrome Update Made It Slower? Here's How to Fix It](/articles/chrome-update-made-it-slower-fix/)
+* [Chrome for Travel Itinerary Extensions](/articles/chrome-for-travel-itinerary-extensions/)
+

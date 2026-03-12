@@ -49,3 +49,9 @@ However, if you prefer a more automated approach and want to prevent many common
 Regardless of which approach you choose, knowing that these tools exist gives you more control over your browsing experience. The next time a website refuses to load or your browser feels sluggish, you have options beyond simply closing and reopening Chrome.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Google Sheets](/articles/chrome-extensions-for-google-sheets/)
+* [Chrome Site Permissions How to Manage](/articles/chrome-site-permissions-how-to-manage/)
+* [Chrome Devtools Webauthn Debugger](/articles/chrome-devtools-webauthn-debugger/)
+

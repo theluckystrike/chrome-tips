@@ -86,3 +86,9 @@ The combination of developer mode for extension testing and Tab Suspender Pro fo
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome for tiktok web best settings](/articles/chrome-for-tiktok-web-best-settings/)
+* [Chrome Rendering Panel Guide](/articles/chrome-rendering-panel-guide/)
+* [Chrome Reading List How to Use](/articles/chrome-reading-list-how-to-use/)
+

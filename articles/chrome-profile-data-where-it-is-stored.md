@@ -70,4 +70,9 @@ If Chrome is not starting properly, you can try creating a new profile to see if
 
 For serious issues, you might need to reset Chrome completely. This process removes your profile and creates a fresh one, essentially giving you a brand new browser while keeping your installed extensions. Just remember that resetting Chrome means losing your bookmarks, history, and saved passwords unless you have synced them to your Google account or backed them up separately.
 
+## Related Articles
+* [Chrome Devtools Snippets How to Use](/articles/chrome-devtools-snippets-how-to-use/)
+* [Chrome Ask Before Closing Multiple Tabs Setting](/articles/chrome-ask-before-closing-multiple-tabs-setting/)
+* [How to Dictate Text in Chrome](/articles/how-to-dictate-text-in-chrome/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

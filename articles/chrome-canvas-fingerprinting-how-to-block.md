@@ -70,3 +70,9 @@ Your online privacy is worth protecting, and you do not need to be a tech expert
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome for Private Browsing Tips Beyond Incognito](/articles/chrome-for-private-browsing-tips-beyond-incognito/)
+* [Chrome Extensions for Binaural Beats](/articles/chrome-extensions-for-binaural-beats/)
+* [Chrome Extensions for Productivity Students](/articles/chrome-extensions-for-productivity-students/)
+

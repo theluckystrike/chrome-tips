@@ -108,4 +108,9 @@ Next time you need to do quick math while browsing, skip the calculator app—ju
 
 ---
 
+## Related Articles
+* [Chrome How to Disable GPU Acceleration](/articles/chrome-how-to-disable-gpu-acceleration/)
+* [Chrome Extensions for SEO Analysis Free](/articles/chrome-extensions-for-seo-analysis-free/)
+* [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

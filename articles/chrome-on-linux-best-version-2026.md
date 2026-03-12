@@ -81,4 +81,9 @@ Remember that browser performance is not just about the browser itself. Your ove
 
 If you continue to experience persistent issues despite trying these recommendations, consider exploring alternative browsers that are specifically optimized for Linux, such as **Firefox** or **Brave**, which may offer better performance on your particular system. However, for most Linux users, Chrome with the right settings and practices provides an excellent browsing experience that meets everyday needs.
 
+## Related Articles
+* [Chrome Largest Contentful Paint Improve Tips](/articles/chrome-largest-contentful-paint-improve-tips/)
+* [Chrome Web Store Extensions Not Installing: Fixes That Actually Work](/articles/chrome-web-store-extensions-not-installing/)
+* [chrome network throttling test slow connection](/articles/chrome-network-throttling-test-slow-connection/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

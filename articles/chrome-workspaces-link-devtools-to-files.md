@@ -73,4 +73,9 @@ This combination becomes especially valuable when working on larger applications
 
 ---
 
+## Related Articles
+* [Best Chrome Extensions for Marketing Professionals](/articles/best-chrome-extensions-for-marketing-professionals/)
+* [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use/)
+* [Chrome Touchpad Gestures Not Working Fix](/articles/chrome-touchpad-gestures-not-working-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

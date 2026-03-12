@@ -108,4 +108,9 @@ Chrome's Media Session API transforms your browser into a capable media control 
 
 ---
 
+## Related Articles
+* [Chrome Extensions For Eye Strain Protection](/articles//articles/chrome-extensions-for-eye-strain-protection//)
+* [Chrome Topics API Guide](/articles/chrome-topics-api-guide/)
+* [Chrome vs Opera Features Comparison](/articles/chrome-vs-opera-features-comparison/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

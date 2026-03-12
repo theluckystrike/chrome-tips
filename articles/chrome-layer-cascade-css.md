@@ -73,4 +73,9 @@ For older browsers that do not support cascade layers, the browser will simply i
 
 Chrome layer cascade CSS gives you precise control over how styles interact, making it easier to build maintainable stylesheets. By understanding and applying these concepts, you can write cleaner CSS that is easier to maintain and less prone to unexpected overrides.
 
+## Related Articles
+* [How to Check If Chrome Extension Is Safe](/articles/how-to-check-if-chrome-extension-is-safe/)
+* [Chrome Blink Engine Explained For Beginners](/articles/chrome-blink-engine-explained-for-beginners/)
+* [Chrome vs Vivaldi for Power Users](/articles/chrome-vs-vivaldi-for-power-users/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -54,3 +54,9 @@ Regularly reviewing which extensions you actually use is also a good practice. O
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome tab groups auto create how to set up](/articles/chrome-tab-groups-auto-create-how-to-set-up/)
+* [Chrome Slow on MacBook Pro M1? Here's How to Fix It](/articles/chrome-slow-on-macbook-pro-m1/)
+* [Chrome Scrolling is Choppy and Laggy](/articles/chrome-scrolling-is-choppy-and-laggy/)
+

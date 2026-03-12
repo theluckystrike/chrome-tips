@@ -62,3 +62,9 @@ Optimization is about finding the right balance for your workflow. Some develope
 The tips in this guide are meant to be practical and easy to implement. You do not need to change everything at once. Start with the simplest changes, like closing unused tabs, and see how it affects your experience. You might find that small adjustments make a big difference, leaving you free to focus on what matters most: writing great code.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Text Size on Phone How to Change](/articles/chrome-text-size-on-phone-how-to-change/)
+* [Chrome Open Settings Shortcut](/articles/chrome-open-settings-shortcut/)
+* [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/articles/chrome-grammarly-extension-slowing-browser/)
+

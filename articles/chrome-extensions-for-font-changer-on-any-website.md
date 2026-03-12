@@ -56,3 +56,9 @@ The ability to change fonts on any website is one of those features that you mig
 Take some time to explore the different options available, try a few extensions to see which interface you prefer, and enjoy a more comfortable browsing experience. Your eyes will thank you for it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome New Tab Page Slow to Load: Complete Fix Guide](/articles/chrome-new-tab-page-slow-to-load/)
+* [How to Block Ads on Chrome Android](/articles/how-to-block-ads-on-chrome-android/)
+* [Ungoogled Chromium What It Is and How to Install](/articles/ungoogled-chromium-what-it-is-and-how-to-install/)
+

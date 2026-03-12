@@ -73,3 +73,9 @@ Encountering a certificate error in Chrome does not have to be frustrating. With
 Remember that Chrome shows these warnings to protect you. By understanding the issue and following these steps, you can make informed decisions about when it is safe to proceed and when you should look for an alternative website.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Web GPU API Explained for Beginners](/articles/chrome-web-gpu-api-explained-for-beginners/)
+* [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to/)
+* [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension/)
+

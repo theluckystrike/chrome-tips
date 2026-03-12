@@ -65,4 +65,9 @@ Now that you know how to change your Chrome profile picture, you might want to e
 
 Having a well-organized set of profiles can really improve your browsing experience. You might keep your work-related bookmarks in one profile and personal favorites in another. This separation helps keep things organized and makes it easier to find what you need without wading through mixed results. Your profile picture is just the start of making Chrome feel truly yours.
 
+## Related Articles
+* [Chrome Element Inspector Tips and Tricks](/articles/chrome-element-inspector-tips-and-tricks/)
+* [Chrome Netflix Not Working Fix](/articles/chrome-netflix-not-working-fix/)
+* [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -59,4 +59,9 @@ Organizing your downloads folder also helps. When Chrome saves multiple files to
 
 ---
 
+## Related Articles
+* [Chrome Update Failed Error 12 Fix](/articles/chrome-update-failed-error-12-fix/)
+* [Chrome Allow Popups for One Site How To](/articles/chrome-allow-popups-for-one-site-how-to/)
+* [Chrome for Gesture Navigation Desktop](/articles/chrome-for-gesture-navigation-desktop/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

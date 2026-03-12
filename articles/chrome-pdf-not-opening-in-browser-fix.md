@@ -115,4 +115,9 @@ In these cases, try downloading the PDF first (right-click and "Save link as") a
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Keyword Research Free](/articles/chrome-extensions-for-keyword-research-free/)
+* [Chrome Extensions For Eye Strain Protection](/articles//articles/chrome-extensions-for-eye-strain-protection//)
+* [Chrome for Zoom Classes Optimization](/articles/chrome-for-zoom-classes-optimization/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

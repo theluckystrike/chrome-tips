@@ -62,3 +62,9 @@ Having Chrome just a double-click away on your desktop is one of those small con
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing/)
+* [Chrome Webstore Best Hidden Gems 2026](/articles/chrome-webstore-best-hidden-gems-2026/)
+* [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow/)
+

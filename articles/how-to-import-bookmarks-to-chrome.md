@@ -70,3 +70,9 @@ Now that you know how to import bookmarks to Chrome, it is a good idea to period
 Having a recent backup means that if you ever need to switch browsers again or reinstall Chrome, you will be able to import your bookmarks quickly without having to hunt down all your favorite sites again.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome performance api for measuring speed](/articles/chrome-performance-api-for-measuring-speed/)
+* [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing/)
+* [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
+

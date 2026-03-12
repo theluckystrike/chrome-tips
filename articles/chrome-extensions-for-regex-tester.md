@@ -70,3 +70,9 @@ Remember that becoming comfortable with regex takes practice, and having the rig
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Open Settings Shortcut](/articles/chrome-open-settings-shortcut/)
+* [Chrome Font Editor in DevTools Explained](/articles/chrome-font-editor-in-devtools-explained/)
+* [Chrome for LeechBlock Setup and Tips](/articles/chrome-for-leechblock-setup-and-tips/)
+

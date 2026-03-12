@@ -61,3 +61,9 @@ By verifying website URLs, enabling two-factor authentication, being careful wit
 Remember that no browser is completely immune to threats, but by staying vigilant and following these best practices, you can enjoy the convenience of online banking while minimizing your risk.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome extensions for website distraction blocker](/articles/chrome-extensions-for-website-distraction-blocker/)
+* [Chrome Slow on MacBook Pro M1? Here's How to Fix It](/articles/chrome-slow-on-macbook-pro-m1/)
+* [Chrome Extensions For Faster Browsing](/articles//articles/chrome-extensions-for-faster-browsing//)
+

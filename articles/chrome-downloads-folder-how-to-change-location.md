@@ -69,3 +69,9 @@ If you find yourself with too many tabs open while managing downloads, consider 
 The key is finding a system that works for you and sticking with it. Whether you change your Chrome downloads folder location or simply organize the default folder more carefully, a little attention to this area saves time and frustration down the road.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Reader Mode vs Safari Reader Comparison](/articles/chrome-reader-mode-vs-safari-reader-comparison/)
+* [How to Dictate Text in Chrome](/articles/how-to-dictate-text-in-chrome/)
+* [How to Save Chrome Tabs for Later](/articles/how-to-save-chrome-tabs-for-later/)
+

@@ -155,4 +155,9 @@ Most users see significant improvements after just a few of these changes. The M
 
 ---
 
+## Related Articles
+* [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/articles/how-to-limit-chrome-ram-usage-mac/)
+* [Chrome Takes Long Time to Open First Time](/articles/chrome-takes-long-time-to-open-first-time/)
+* [Why Is Chrome So Slow on My Computer?](/articles/why-is-chrome-so-slow-on-my-computer/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

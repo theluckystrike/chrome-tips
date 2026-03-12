@@ -77,4 +77,9 @@ For people with reading difficulties or visual impairments, chrome text to speec
 
 ---
 
+## Related Articles
+* [chrome for github copilot web setup](/articles/chrome-for-github-copilot-web-setup/)
+* [Chrome Service Workers List How to View](/articles/chrome-service-workers-list-how-to-view/)
+* [Chrome Extension for Reading Speed Tracker](/articles/chrome-extension-for-reading-speed-tracker/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

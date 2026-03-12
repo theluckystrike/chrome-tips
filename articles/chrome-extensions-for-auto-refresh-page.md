@@ -51,4 +51,9 @@ Browser settings themselves may offer limited refresh capabilities in certain co
 
 ---
 
+## Related Articles
+* [Chrome Extensions For Flight Price Alerts](/articles//articles/chrome-extensions-for-flight-price-alerts//)
+* [chrome trusted types dom xss prevent](/articles/chrome-trusted-types-dom-xss-prevent/)
+* [chrome extensions for twitch streamers](/articles/chrome-extensions-for-twitch-streamers/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

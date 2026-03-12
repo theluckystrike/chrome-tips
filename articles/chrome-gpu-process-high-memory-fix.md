@@ -73,3 +73,9 @@ Fixing high GPU process memory usage in Chrome usually requires a combination of
 Remember that some level of GPU memory usage is normal and expected, especially when viewing rich media content. The goal is not to eliminate GPU memory usage entirely but to bring it down to reasonable levels so your browser remains responsive and your computer does not slow down.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization/)
+* [Chrome Custom Tabs on Android What They Are](/articles//chrome-custom-tabs-on-android-what-they-are//)
+* [How to Limit Chrome Memory Usage on Windows](/articles/how-to-limit-chrome-memory-usage-windows/)
+

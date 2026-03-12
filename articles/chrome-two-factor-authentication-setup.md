@@ -62,4 +62,9 @@ Setting up chrome two factor authentication is not as complicated as it might so
 
 Start with your most important accounts, like your Google account and your primary email, then gradually enable 2FA on other services. Over time, this simple habit will become second nature, and you will have much better protection against unauthorized access to your personal information.
 
+## Related Articles
+* [Chrome for StayFocusd Extension Guide](/articles/chrome-for-stayfocusd-extension-guide/)
+* [Chrome Guest Mode What Gets Saved](/articles/chrome-guest-mode-what-gets-saved/)
+* [chrome manifest v3 controversy ad blockers](/articles/chrome-manifest-v3-controversy-ad-blockers/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -77,3 +77,9 @@ Finally, remember to periodically check that your offline settings remain enable
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix/)
+* [chrome extensions for journalists](/articles/chrome-extensions-for-journalists/)
+* [Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM](/articles/chrome-slow-on-work-computer-vpn/)
+

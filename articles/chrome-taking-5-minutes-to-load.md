@@ -93,4 +93,9 @@ Consider trying browsers designed for low-resource computers. They offer similar
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools/)
+* [Chrome Password Manager on Phone vs Dedicated App](/articles/chrome-password-manager-on-phone-vs-dedicated-app/)
+* [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

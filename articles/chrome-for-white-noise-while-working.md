@@ -66,3 +66,9 @@ The key is to experiment and find what works for you. Everyone has different pre
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Website Archiving](/articles/chrome-extensions-for-website-archiving/)
+* [Best Chrome Extensions For Teachers Online](/articles/best-chrome-extensions-for-teachers-online/)
+* [Chrome Extension for Taking Notes While Browsing](/articles/chrome-extension-for-taking-notes-while-browsing/)
+

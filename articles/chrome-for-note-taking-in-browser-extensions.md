@@ -60,3 +60,9 @@ Give a note-taking extension a try if you have not already. You might find that 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/articles/chrome-smooth-scrolling-enable/)
+* [chrome webgpu gaming in browser future](/articles/chrome-webgpu-gaming-in-browser-future/)
+* [Chrome Update Made It Slower? Here's How to Fix It](/articles/chrome-update-made-it-slower-fix/)
+

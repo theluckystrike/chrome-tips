@@ -66,3 +66,9 @@ If you find that managing tab clutter is taking up too much of your time and you
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Enable Chrome Tab Hover Previews](/articles/how-to-enable-chrome-tab-hover-previews/)
+* [Chrome Bitwarden vs Chrome Password Manager: Which Should You Use?](/articles/chrome-bitwarden-vs-chrome-password-manager/)
+* [Chrome LastPass Extension Slow Fix](/articles/chrome-lastpass-extension-slow-fix/)
+

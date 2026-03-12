@@ -70,3 +70,9 @@ Pay attention to how different extensions affect your browser performance. If yo
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Tab Sleeping Automatically](/articles/chrome-extensions-for-tab-sleeping-automatically/)
+* [Chrome Bookmarks Not Syncing Fix](/articles/chrome-bookmarks-not-syncing-fix/)
+* [Chrome Safe Browsing on Phone How to Check](/articles/chrome-safe-browsing-on-phone-how-to-check/)
+

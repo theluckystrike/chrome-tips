@@ -68,3 +68,9 @@ Do not feel pressured to install every extension you come across. More extension
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome for vimeo web upload tips](/articles/chrome-for-vimeo-web-upload-tips/)
+* [Chrome Keeps Freezing Every Few Minutes: Causes and Fixes](/articles/chrome-keeps-freezing-every-few-minutes/)
+* [Chrome for White Noise While Working](/articles/chrome-for-white-noise-while-working/)
+

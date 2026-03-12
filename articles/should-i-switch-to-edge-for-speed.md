@@ -95,4 +95,9 @@ If you have 8GB or more of RAM, the difference between Chrome and Edge may be le
 
 Try both browsers for a week and see which one feels faster on your specific computer. Pay attention to how many tabs you can have open before your computer starts to slow down. The best browser is the one that lets you do what you need without frustration.
 
+## Related Articles
+* [How to Backup Chrome Bookmarks and Passwords](/articles/how-to-backup-chrome-bookmarks-and-passwords/)
+* [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension/)
+* [Chrome vs Edge for Battery Life Laptop](/articles/chrome-vs-edge-for-battery-life-laptop/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

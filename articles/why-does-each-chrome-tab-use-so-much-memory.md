@@ -54,3 +54,9 @@ Small adjustments to how you use Chrome can make a big difference in how your co
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extension Manifest V3 What Users Need to Know](/articles/chrome-extension-manifest-v3-what-users-need-to-know/)
+* [Best Chrome Extensions for Podcasters](/articles/best-chrome-extensions-for-podcasters/)
+* [Why Does Opening Chrome Slow Down Everything](/articles/why-does-opening-chrome-slow-down-everything/)
+

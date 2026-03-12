@@ -80,3 +80,9 @@ You do not need to understand every detail of web development to use Inspect Ele
 The more you use it, the more comfortable you will become. Before long, Inspect Element will feel like a natural part of your browsing toolkit.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extension Monetization Strategies That Actually Work](/articles/chrome-extension-monetization-strategies/)
+* [chrome for walmart grocery web tips](/articles/chrome-for-walmart-grocery-web-tips/)
+* [Chrome Cross-Origin Isolation Explained](/articles/chrome-cross-origin-isolation-explained/)
+

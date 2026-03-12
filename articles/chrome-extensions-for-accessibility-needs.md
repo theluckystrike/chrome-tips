@@ -87,4 +87,9 @@ Your needs may change over time. An extension that seems unnecessary today might
 
 Remember: accessibility isn't about finding a single solution—it's about building a personal toolkit that makes the web work for you.
 
+## Related Articles
+* [How to Find Chrome Extensions That Slow Down Browser](/articles/how-to-find-chrome-extensions-that-slow-down-browser/)
+* [Chrome Extensions for Gantt Chart](/articles/chrome-extensions-for-gantt-chart/)
+* [chrome color mix function css](/articles/chrome-color-mix-function-css/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

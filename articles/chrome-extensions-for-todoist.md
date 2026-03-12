@@ -63,3 +63,9 @@ If you are ready to try Chrome extensions for Todoist, start by visiting the Chr
 The goal is not to overwhelm yourself with tools but to find the ones that genuinely make your workflow easier. With the right extensions, Todoist becomes even more powerful, and you spend less time managing tasks and more time actually getting things done.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Allow Pop Ups on One Site Chrome](/articles/how-to-allow-pop-ups-on-one-site-chrome/)
+* [chrome for anki web flashcards setup](/articles/chrome-for-anki-web-flashcards-setup/)
+* [Chrome IP Protection: How to Hide Your IP Address in Chrome](/articles/chrome-ip-protection-hide-ip-address/)
+

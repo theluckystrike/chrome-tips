@@ -74,3 +74,9 @@ Not every extension will be useful for everyone. Start by identifying one or two
 The hidden chrome extensions you should install are the ones that solve real problems in your workflow. Whether it is faster performance, better organization, or smoother communication, there is likely an extension that can help. Take some time to explore beyond the obvious choices, and you might find tools that change how you use Chrome.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extension for Highlighting Text on Websites](/articles/chrome-extension-for-highlighting-text-on-websites/)
+* [Chrome Lite Mode Data Saver Replacement](/articles/chrome-lite-mode-data-saver-replacement/)
+* [Best Chromebook Extensions for Students](/articles/best-chromebook-extensions-for-students/)
+

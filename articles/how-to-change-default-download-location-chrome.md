@@ -79,3 +79,9 @@ Remember, you can always change the location again later if your needs change. C
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Babbel Web App Tips](/articles/chrome-for-babbel-web-app-tips/)
+* [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained/)
+* [Chrome Audit Page Seo How To](/articles/chrome-audit-page-seo-how-to/)
+

@@ -91,3 +91,9 @@ Like any tool, DevTools Snippets become more useful the more you practice with t
 There are many resources online where people share their favorite snippets. You can find ready-made snippets for common tasks and modify them to fit your needs. Once you get the hang of it, you will wonder how you ever managed without them.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Best Chrome Extensions for Content Creators](/articles/best-chrome-extensions-for-content-creators/)
+* [Chrome for Zotero Web Connector Setup](/articles/chrome-for-zotero-web-connector-setup/)
+* [chrome restricted mode youtube how to enable](/articles/chrome-restricted-mode-youtube-how-to-enable/)
+

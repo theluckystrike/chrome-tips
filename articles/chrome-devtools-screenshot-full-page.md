@@ -63,3 +63,9 @@ For the best of both worlds, consider using a combination of methods. Take a scr
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Split Screen Browsing](/articles/chrome-extensions-for-split-screen-browsing/)
+* [chrome right to left language support](/articles/chrome-right-to-left-language-support/)
+* [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms/)
+

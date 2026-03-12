@@ -84,3 +84,9 @@ Getting a bookmarks sidebar in Chrome requires a small setup step, but the conve
 Give a bookmark sidebar extension a try for a week and see how it changes your browsing workflow. You might find that it becomes one of your most-used browser features.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extension for Taking Notes While Browsing](/articles/chrome-extension-for-taking-notes-while-browsing/)
+* [How to Make Chrome Open Links in a New Tab](/articles/how-to-make-chrome-open-links-in-new-tab/)
+* [Chrome Extensions for Pinterest](/articles/chrome-extensions-for-pinterest/)
+

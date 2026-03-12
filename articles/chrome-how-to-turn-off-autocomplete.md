@@ -72,3 +72,9 @@ If you decide later that you want to turn autocomplete back on, the process is e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Route Chrome Tab Audio to Separate Speakers](/articles/chrome-tab-audio-routing-separate-speakers/)
+* [Chrome vs Vivaldi: Which Is More Customizable](/articles/chrome-vs-vivaldi-which-is-more-customizable/)
+* [Chrome Permissions Manager Guide](/articles/chrome-permissions-manager-guide/)
+

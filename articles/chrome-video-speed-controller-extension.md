@@ -71,4 +71,9 @@ A chrome video speed controller extension gives you freedom to watch videos at y
 
 The best extension for you depends on your specific needs, but having some form of speed control available across all websites is invaluable. Take a few minutes to find one that works well with your most-visited sites, and you will quickly wonder how you ever managed without it.
 
+## Related Articles
+* [Chrome Autofill Wrong Address How to Fix](/articles/chrome-autofill-wrong-address-how-to-fix/)
+* [chrome enrollment for schools how it works](/articles/chrome-enrollment-for-schools-how-it-works/)
+* [Chrome Window Size Not Saving Fix](/articles/chrome-window-size-not-saving-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

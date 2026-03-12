@@ -69,4 +69,9 @@ With the right chrome extensions for ambient noise, you can transform any enviro
 
 ---
 
+## Related Articles
+* [chrome web serial api for beginners](/articles/chrome-web-serial-api-for-beginners/)
+* [chrome extensions for website distraction blocker](/articles/chrome-extensions-for-website-distraction-blocker/)
+* [Chrome Extension for Viewing Page Load Time](/articles/chrome-extension-for-viewing-page-load-time/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

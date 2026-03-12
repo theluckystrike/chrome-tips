@@ -55,3 +55,9 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension/)
+* [Chrome Freezing on Chromebook During Zoom? Try These Fixes](/articles/chrome-freezing-on-chromebook-during-zoom/)
+* [Chrome Custom Elements Explained](/articles//chrome-custom-elements-explained//)
+

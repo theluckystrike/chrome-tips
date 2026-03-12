@@ -199,4 +199,9 @@ For long-term improvement, **Tab Suspender Pro** remains one of the best investm
 
 With these fixes, you should notice a significant improvement in Notion's responsiveness—especially on computers with limited resources.
 
+## Related Articles
+* [chrome web share api how it works](/articles/chrome-web-share-api-how-it-works/)
+* [Chrome Default Apps Settings: A Complete Guide](/articles//chrome-default-apps-settings//)
+* [Chrome Status Bar Where Did It Go](/articles/chrome-status-bar-where-did-it-go/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

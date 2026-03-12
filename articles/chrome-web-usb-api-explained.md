@@ -59,3 +59,9 @@ While the Web USB API is a powerful feature, managing all the ways websites can 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Clear Chrome Cache Properly](/articles/how-to-clear-chrome-cache-properly/)
+* [Chrome Slow on Surface Pro Fix](/articles/chrome-slow-on-surface-pro-fix/)
+* [chrome price drop alerts how to enable](/articles/chrome-price-drop-alerts-how-to-enable/)
+

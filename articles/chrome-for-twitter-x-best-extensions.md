@@ -71,3 +71,9 @@ The best approach is to start with a few extensions that address your biggest pa
 You do not need to install every extension you find. Too many extensions can actually slow down your browser, which defeats the purpose. Take time to evaluate each extension and keep only the ones that genuinely improve your experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Trust Tokens Explained](/articles/chrome-trust-tokens-guide/)
+* [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord//)
+* [chrome how to enable cookies](/articles/chrome-how-to-enable-cookies/)
+

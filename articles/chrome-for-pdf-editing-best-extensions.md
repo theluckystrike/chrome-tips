@@ -82,3 +82,9 @@ Try a few different extensions to see which interface and workflow feel most nat
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Google Scholar Best Extensions](/articles/chrome-for-google-scholar-best-extensions/)
+* [How to Delete Everything Chrome Knows About Me](/articles/how-to-delete-everything-chrome-knows-about-me/)
+* [Chrome Extensions For Elderly Users Simple Tools](/articles//articles/chrome-extensions-for-elderly-users-simple-tools//)
+

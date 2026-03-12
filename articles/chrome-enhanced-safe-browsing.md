@@ -131,4 +131,9 @@ For users who want to optimize their browser performance alongside security, too
 
 ---
 
+## Related Articles
+* [Chrome Toolbar Missing Fix](/articles/chrome-toolbar-missing-fix/)
+* [Chrome Extensions for Text Comparison Diff Tool](/articles/chrome-extensions-for-text-comparison-diff-tool/)
+* [Chrome Profile Data Where It Is Stored](/articles/chrome-profile-data-where-it-is-stored/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

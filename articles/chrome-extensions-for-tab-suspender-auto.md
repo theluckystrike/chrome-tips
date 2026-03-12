@@ -66,3 +66,9 @@ You might also want to periodically review your open tabs and close any that you
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Secure DNS: What It Is and How to Enable](/articles/chrome-secure-dns-what-it-is-and-how-to-enable/)
+* [chrome for banking online security tips](/articles/chrome-for-banking-online-security-tips/)
+* [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/articles/chrome-autofill-wrong-address-keeps-appearing/)
+

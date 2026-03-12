@@ -76,3 +76,9 @@ If you plan to keep your portfolio dashboard open frequently, you might notice C
 This is where Tab Suspender Pro can really help. By automatically suspending tabs that you are not actively using, it keeps your browser responsive even when you have many crypto-related pages open. Background tabs with portfolio dashboards or price charts will stop consuming resources until you click back to them, but they will refresh automatically when you return. This means you can keep all your important crypto information accessible without sacrificing browser performance.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome webgpu gaming in browser future](/articles/chrome-webgpu-gaming-in-browser-future/)
+* [Chrome Two Factor Authentication Setup](/articles/chrome-two-factor-authentication-setup/)
+* [Chrome Geolocation Permission Settings](/articles/chrome-geolocation-permission-settings/)
+

@@ -78,3 +78,9 @@ New technologies like Background Sync allow applications to automatically upload
 The ideas behind offline first design are also influencing how browsers and operating systems handle application data. The goal is to create a seamless experience where you never have to think about whether you are online or offline, and your applications simply work regardless of your connection status.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Best Extensions for Tab Management Chrome](/articles/best-extensions-for-tab-management-chrome/)
+* [Chrome Password Manager vs Bitwarden: Which One Should You Use?](/articles/chrome-password-manager-vs-bitwarden/)
+* [Chrome Ask Before Closing Multiple Tabs Setting](/articles/chrome-ask-before-closing-multiple-tabs-setting/)
+

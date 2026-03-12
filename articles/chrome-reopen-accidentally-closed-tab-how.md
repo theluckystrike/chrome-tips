@@ -71,4 +71,9 @@ As a last resort, you can try searching for the page directly using Google. If y
 
 ---
 
+## Related Articles
+* [Chrome Making Your Laptop Fan Loud? Here's How to Fix It](/articles/chrome-making-laptop-fan-loud/)
+* [chrome material you design on desktop](/articles/chrome-material-you-design-on-desktop/)
+* [Chrome Beacon API for Analytics](/articles/chrome-beacon-api-for-analytics/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

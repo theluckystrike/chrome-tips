@@ -73,3 +73,9 @@ Chrome navigation timing api explained really comes down to understanding how yo
 Whether you are troubleshooting a slow website or just curious about how browsers work, the Navigation Timing API offers fascinating insights into the complex process of loading webpages. By understanding where time is spent, you can make informed decisions about browser settings, extensions, and habits that affect your daily browsing speed.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Best Settings for Online Meetings](/articles/chrome-best-settings-for-online-meetings/)
+* [Chrome AI Writing Help Feature](/articles/chrome-ai-writing-help-feature/)
+* [Chrome Extensions For Citation Generator](/articles//articles/chrome-extensions-for-citation-generator//)
+

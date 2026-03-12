@@ -77,4 +77,9 @@ Managing multiple email accounts in Chrome doesn't have to be frustrating. Built
 
 Give these methods a try and see which ones work best for how you use email. With the right tools and habits, managing multiple accounts becomes much easier.
 
+## Related Articles
+* [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing/)
+* [Chrome Bookmarks Bar Disappeared Fix](/articles/chrome-bookmarks-bar-disappeared-fix/)
+* [chrome enrollment for schools how it works](/articles/chrome-enrollment-for-schools-how-it-works/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

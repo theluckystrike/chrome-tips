@@ -57,3 +57,9 @@ It takes about a week of consistent use for a new shortcut to become muscle memo
 For those who work with many tabs throughout the day, extensions like Tab Suspender Pro can help manage tab memory by automatically putting inactive tabs to sleep, complementing your keyboard navigation skills nicely. Combined with these shortcuts, you will have a much smoother and faster Chrome experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does/)
+* [Chrome for Managing Site Notifications](/articles/chrome-for-managing-site-notifications/)
+* [Chrome Net Internals Sockets View: Monitor and Manage Active Connections](/articles/chrome-net-internals-sockets-view-connections/)
+

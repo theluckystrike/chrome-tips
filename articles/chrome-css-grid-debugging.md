@@ -105,4 +105,9 @@ Remember that effective debugging is not just about finding problems but also un
 
 ---
 
+## Related Articles
+* [chrome browser process vs tab process explained](/articles/chrome-browser-process-vs-tab-process-explained/)
+* [chrome how to block specific website notifications](/articles/chrome-how-to-block-specific-website-notifications/)
+* [Chrome for Touchscreen Optimization Tips](/articles/chrome-for-touchscreen-optimization-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

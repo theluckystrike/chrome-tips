@@ -62,3 +62,9 @@ Protecting yourself from fingerprinting is an ongoing process. New tracking tech
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Voice Control How to Use](/articles/chrome-voice-control-how-to-use/)
+* [Chrome DevTools Issues Panel Explained](/articles/chrome-devtools-issues-panel-explained/)
+* [Chrome Toolbar Customization Tips](/articles/chrome-toolbar-customization-tips/)
+

@@ -84,3 +84,9 @@ NVIDIA also updates GeForce Now periodically, and these updates can sometimes ch
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [How to Improve Chrome WebGL Performance](/articles/chrome-webgl-performance-how-to-improve/)
+* [Chrome Extensions for Speed Dial Bookmarks](/articles/chrome-extensions-for-speed-dial-bookmarks/)
+* [Chrome Two Factor Authentication Setup Guide](/articles/chrome-two-factor-authentication-setup-guide/)
+

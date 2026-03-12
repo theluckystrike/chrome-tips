@@ -66,3 +66,9 @@ Chrome split screen without extension is entirely possible using the methods des
 Try different arrangements to find what works best for your workflow. Some users prefer always having two windows open side by side, while others open a second window only when needed. The beauty of these built-in methods is that they are flexible enough to adapt to whatever task you are working on, whether that is comparing products, researching topics, or multitasking between different projects.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs/)
+* [Chrome Cycle Through Tabs Shortcut](/articles//chrome-cycle-through-tabs-shortcut//)
+* [Chrome Clear Data for One Site Without Clearing All](/articles/chrome-clear-data-for-one-site-without-clearing-all/)
+

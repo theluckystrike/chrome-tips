@@ -70,3 +70,9 @@ Blocking ads on Chrome Android is entirely possible with the right combination o
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome custom theme how to make your own](/articles//chrome-custom-theme-how-to-make-your-own//)
+* [Chrome Attribution Reporting API Explained](/articles/chrome-attribution-reporting-api-explained/)
+* [Chrome for Meditation and Focus Extensions](/articles/chrome-for-meditation-and-focus-extensions/)
+

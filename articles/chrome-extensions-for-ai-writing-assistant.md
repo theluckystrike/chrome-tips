@@ -77,4 +77,9 @@ Most of these extensions offer free versions or trials, so you can test them bef
 
 Remember that these tools are meant to assist you, not replace your own voice and ideas. Use them to overcome blocks, improve your writing, and save time, but always review the final output to make sure it truly represents what you want to say.
 
+## Related Articles
+* [Chrome for Custom Search Engines Setup](/articles/chrome-for-custom-search-engines-setup/)
+* [Chrome Text Wrap Balance CSS](/articles/chrome-text-wrap-balance-css/)
+* [Chrome Taking 5 Minutes to Load: Fixes for Slow Computers](/articles/chrome-taking-5-minutes-to-load/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

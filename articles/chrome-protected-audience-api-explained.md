@@ -81,4 +81,9 @@ If you are comfortable with seeing ads that are somewhat relevant to your intere
 
 The most important thing is to understand what is happening in your browser. Now that you know more about the Protected Audience API, you can make informed decisions about whether to keep it enabled or turn it off.
 
+## Related Articles
+* [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out/)
+* [Chrome Octane Score Explained](/articles/chrome-octane-score-explained/)
+* [Chrome Extensions for Web Scraping Without Code](/articles/chrome-extensions-for-web-scraping-without-code/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

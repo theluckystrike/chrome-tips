@@ -51,3 +51,9 @@ Chrome has been gradually rolling out support for this and other modern web feat
 This kind of improvement is part of a larger trend in web development where websites are becoming more adaptive and responsive to user needs. Whether you are browsing on a large desktop monitor, a laptop screen, or anything in between, these advances help ensure that you have a good experience regardless of how you prefer to arrange your windows.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Err Connection Timed Out Fix](/articles/chrome-err-connection-timed-out-fix/)
+* [Chrome Extensions for Google Meet](/articles/chrome-extensions-for-google-meet/)
+* [chrome desktop shortcuts how to create](/articles//chrome-desktop-shortcuts-how-to-create//)
+

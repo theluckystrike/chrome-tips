@@ -109,4 +109,9 @@ Both Chrome and Edge are capable browsers that have made significant improvement
 
 Enable memory-saving features, keep your extensions in check, and consider tools like Tab Suspender Pro to manage your tabs effectively. Whatever browser you choose, these habits will help you get the best possible performance from your system.
 
+## Related Articles
+* [chrome mobile translate page automatically](/articles/chrome-mobile-translate-page-automatically/)
+* [Chrome WebRTC Leak Test and Fix Guide](/articles/chrome-webrtc-leak-test-and-fix-guide/)
+* [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

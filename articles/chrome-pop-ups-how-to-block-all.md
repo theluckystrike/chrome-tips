@@ -79,4 +79,9 @@ Review your extensions occasionally to make sure you still need all of them. Som
 
 Teaching friends and family about pop up blocking is also helpful. Many people might not know how to protect themselves from malicious pop ups. Sharing what you have learned about how to block all pop ups in Chrome can help others browse more safely.
 
+## Related Articles
+* [Why Is Chrome Still the Most Popular Browser in 2026?](/articles/why-is-chrome-still-most-popular-browser/)
+* [Chrome Switch Between Windows Shortcut](/articles/chrome-switch-between-windows-shortcut/)
+* [Chromebook Keyboard Shortcuts Complete List](/articles/chromebook-keyboard-shortcuts-complete-list/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -60,4 +60,9 @@ Give it a try with your own machines first. Set up remote access between your de
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Form Auto Filler](/articles/chrome-extensions-for-form-auto-filler/)
+* [chrome manifest v3 controversy ad blockers](/articles/chrome-manifest-v3-controversy-ad-blockers/)
+* [chrome for twitch buffering fix](/articles/chrome-for-twitch-buffering-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

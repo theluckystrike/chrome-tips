@@ -121,3 +121,9 @@ The beauty of Chromebook keyboard shortcuts is that they build on each other. On
 With practice, these shortcuts will become second nature, and you will wonder how you ever used your Chromebook without them.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Best Chrome Extensions for Real Estate Agents](/articles/best-chrome-extensions-for-real-estate-agents/)
+* [Chrome Network Waterfall How to Read](/articles/chrome-network-waterfall-how-to-read/)
+* [How to Use Chrome Device Emulation to Test Your Mobile Website](/articles//chrome-device-emulation-test-mobile-website//)
+

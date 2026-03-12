@@ -63,3 +63,9 @@ Remember that DNS settings are just one piece of the privacy puzzle. Your intern
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Turn Off Chrome Notifications on Android](/articles/how-to-turn-off-chrome-notifications-android/)
+* [Chrome Two Factor Authentication Setup Guide](/articles/chrome-two-factor-authentication-setup-guide/)
+* [Chrome Dashlane vs 1Password Comparison](/articles//chrome-dashlane-vs-onepassword-comparison//)
+

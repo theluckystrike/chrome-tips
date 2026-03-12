@@ -80,3 +80,9 @@ Start with the basics, SafeSearch and supervised profiles, and then add more too
 Remember that no filter is perfect. Even the best content filtering tools can occasionally miss something or block something that is actually harmless. Stay involved in your children's online lives, keep the lines of communication open, and trust your instincts as a parent. With the right combination of tools and conversation, you can create a browsing environment where your family can explore and learn safely.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome for rumble web player settings](/articles/chrome-for-rumble-web-player-settings/)
+* [Chrome Memory Inspector How to Use](/articles/chrome-memory-inspector-how-to-use/)
+* [Chrome Navigate Back With Gesture How to](/articles/chrome-navigate-back-with-gesture-how-to/)
+

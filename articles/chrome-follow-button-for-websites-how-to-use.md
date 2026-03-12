@@ -59,3 +59,9 @@ The best approach to following websites in Chrome depends on how you consume con
 Whatever method you choose, the key is consistency. Check your chosen system regularly so you do not miss content you want to see. Browser tools are most helpful when they fit into your existing habits and workflow.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome vs Vivaldi: Which Is More Customizable](/articles/chrome-vs-vivaldi-which-is-more-customizable/)
+* [Chrome Freezes When Opening New Tab Fix](/articles/chrome-freezes-when-opening-new-tab-fix/)
+* [Chrome Audit Page Seo How To](/articles/chrome-audit-page-seo-how-to/)
+

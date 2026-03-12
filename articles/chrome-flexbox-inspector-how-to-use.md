@@ -84,3 +84,9 @@ If you are building a website and find yourself constantly fixing flexbox issues
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Use Chrome DevTools for Beginners](/articles/how-to-use-chrome-devtools-for-beginners/)
+* [chrome web share api how it works](/articles/chrome-web-share-api-how-it-works/)
+* [Chrome Uses All CPU When Idle Fix](/articles/chrome-uses-all-cpu-when-idle-fix/)
+

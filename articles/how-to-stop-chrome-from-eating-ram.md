@@ -114,3 +114,9 @@ If the memory stays stable in incognito mode, one of your extensions is likely c
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Android Tips To Save Data](/articles/chrome-android-tips-to-save-data/)
+* [Chrome Extensions for uBlock Origin Setup Guide](/articles/chrome-extensions-for-ublock-origin-setup-guide/)
+* [Chrome Permissions API for Camera and Microphone](/articles/chrome-permissions-api-camera-microphone/)
+

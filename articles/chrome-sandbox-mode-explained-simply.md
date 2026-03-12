@@ -78,3 +78,9 @@ Tab Suspender Pro is one option that can automatically pause tabs you are not us
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Extension Review Process: How Long Does It Take](/articles/chrome-extension-review-process-how-long/)
+* [Chrome Extensions For Faster Browsing](/articles//articles/chrome-extensions-for-faster-browsing//)
+* [Chrome Compute Pressure API Explained: What It Means for Your Browser](/articles/chrome-compute-pressure-api-explained/)
+

@@ -70,3 +70,9 @@ Finding the right chrome extensions for youtube productivity is about understand
 Remember that extensions are tools, and like any tools, they work best when used consistently. Take some time to learn the features of each extension you install, and customize the settings to match your preferences. With the right combination of extensions, YouTube can become a much more productive platform that supports your goals instead of undermining them.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Stop Chrome from Running in Background](/articles/how-to-stop-chrome-from-running-in-background/)
+* [Chrome Command Line Flags for Low Memory: A Practical Guide](/articles/chrome-command-line-flags-for-low-memory/)
+* [Chrome Font Size How to Change Permanently](/articles/chrome-font-size-how-to-change-permanently/)
+

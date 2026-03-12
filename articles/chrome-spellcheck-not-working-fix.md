@@ -108,3 +108,8 @@ For casual writing (comments, messages, quick emails), Chrome's basic spellcheck
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
+## Related Articles
+* [Chrome for Facebook Ads Manager Tips](/articles/chrome-for-facebook-ads-manager-tips/)
+* [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/articles/chrome-extensions-folder-location-files/)
+* [Chrome View Transitions API Explained](/articles/chrome-view-transitions-api-explained/)
+

@@ -99,4 +99,9 @@ Tab Suspender Pro is one tool that can automatically suspend tabs you are not cu
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Google Drive](/articles/chrome-extensions-for-google-drive/)
+* [Chrome Microphone Access on Phone How to Control](/articles/chrome-microphone-access-on-phone-how-to-control/)
+* [Chrome Related Website Sets Explained](/articles/chrome-related-website-sets-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

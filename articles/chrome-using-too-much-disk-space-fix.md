@@ -72,4 +72,9 @@ Chrome using too much disk space is a common issue, but it is one you can solve 
 
 Give these approaches a try and see how much space you can reclaim. Your browser and your computer will thank you.
 
+## Related Articles
+* [Chrome Downloads Not Starting Fix](/articles/chrome-downloads-not-starting-fix/)
+* [Chrome for iPad Tips and Tricks](/articles/chrome-for-ipad-tips-and-tricks/)
+* [Chrome for Claude AI Web Tips](/articles/chrome-for-claude-ai-web-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

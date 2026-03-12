@@ -66,3 +66,9 @@ Split screen browsing might feel unfamiliar at first, but most users find that t
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome scrollbar styling css](/articles/chrome-scrollbar-styling-css/)
+* [Chrome Extension for Taking Notes While Browsing](/articles/chrome-extension-for-taking-notes-while-browsing/)
+* [Should I Switch to Firefox for Less RAM? A Practical Guide](/articles/should-i-switch-to-firefox-for-less-ram/)
+

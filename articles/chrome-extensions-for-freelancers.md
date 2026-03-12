@@ -70,3 +70,9 @@ As you find systems that work for you, gradually add more tools to address other
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Color Palette Picker](/articles//articles/chrome-extensions-for-color-palette-picker//)
+* [Chrome Sync Across Devices How It Works](/articles/chrome-sync-across-devices-how-it-works/)
+* [chrome for soundcloud web player extensions](/articles/chrome-for-soundcloud-web-player-extensions/)
+

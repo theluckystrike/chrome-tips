@@ -95,3 +95,9 @@ Remember that tools designed to manage browser resources can help if you frequen
 By following these tips and maintaining good browser hygiene, you can enjoy your favorite playlists with fewer interruptions and better overall performance.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome extensions for web clipping](/articles/chrome-extensions-for-web-clipping/)
+* [Chrome Notifications for One Site How to Manage](/articles/chrome-notifications-for-one-site-how-to-manage/)
+* [Chrome Shared Storage API Explained](/articles/chrome-shared-storage-api-explained/)
+

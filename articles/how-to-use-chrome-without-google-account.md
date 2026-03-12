@@ -62,3 +62,9 @@ The important thing is that you have the choice. Chrome does not force you to si
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Mouse Cursor Disappears Fix](/articles/chrome-mouse-cursor-disappears-fix/)
+* [Chrome Extensions for Password Sharing Securely](/articles/chrome-extensions-for-password-sharing-securely/)
+* [chrome network throttling test slow connection](/articles/chrome-network-throttling-test-slow-connection/)
+

@@ -60,3 +60,9 @@ Chrome browser cloud management explained simply is about understanding what dat
 A thoughtful approach to cloud management helps you enjoy the convenience of synced data while maintaining the privacy and control that works best for your situation.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome View Transitions API Explained](/articles/chrome-view-transitions-api-explained/)
+* [Chrome Extensions For Eye Dropper Tool](/articles//articles/chrome-extensions-for-eye-dropper-tool//)
+* [How to Migrate Chrome Data to a New Computer](/articles/how-to-migrate-chrome-data-to-new-computer/)
+

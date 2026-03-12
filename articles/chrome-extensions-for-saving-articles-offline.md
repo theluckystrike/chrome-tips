@@ -78,3 +78,9 @@ Try a few different extensions to see which one fits your workflow. Most of them
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Managing Site Notifications](/articles/chrome-for-managing-site-notifications/)
+* [Chrome GPU Acceleration Causing Problems Fix](/articles/chrome-gpu-acceleration-causing-problems-fix/)
+* [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage//)
+

@@ -61,3 +61,9 @@ If you find yourself with too many open tabs, consider installing an extension l
 Give these suggestions a try and see how much difference they can make. A faster browser means less waiting and more doing, whether you are working on important projects or just browsing for fun.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Screen Sharing in Browser How To](/articles/chrome-screen-sharing-in-browser-how-to/)
+* [chrome for rumble web player settings](/articles/chrome-for-rumble-web-player-settings/)
+* [Chrome Blink Engine Explained For Beginners](/articles/chrome-blink-engine-explained-for-beginners/)
+

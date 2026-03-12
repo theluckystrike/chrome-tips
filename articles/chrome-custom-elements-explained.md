@@ -56,3 +56,9 @@ Understanding chrome custom elements explained in practical terms means recogniz
 The next time you use a website that feels incredibly responsive and polished, there is a good chance custom elements are hard at work behind the scenes making that happen. Chrome's support for this technology ensures you get the best possible experience when browsing the modern web.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Autocomplete Wrong Suggestions How to Fix](/articles/chrome-autocomplete-wrong-suggestions-how-to-fix/)
+* [Chrome Source Maps Configuration Guide](/articles/chrome-source-maps-guide/)
+* [Chrome Blob And File Api Explained](/articles/chrome-blob-and-file-api-explained/)
+

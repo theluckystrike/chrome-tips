@@ -63,3 +63,9 @@ Give both methods a try and see which one fits your workflow. You might be surpr
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome DevTools Changes Panel to Track Edits](/articles//chrome-devtools-changes-panel-track-edits//)
+* [Chrome for Touchscreen Optimization Tips](/articles/chrome-for-touchscreen-optimization-tips/)
+* [Chrome Precaching vs Runtime Caching](/articles/chrome-precaching-vs-runtime-caching/)
+

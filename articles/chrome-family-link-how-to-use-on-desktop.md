@@ -94,3 +94,9 @@ Finally, lead by example. Show your children how you use technology responsibly 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome vs Opera GX for Gaming](/articles/chrome-vs-opera-gx-for-gaming/)
+* [How to Limit Screen Time in Chrome with Extensions](/articles/chrome-limit-screen-time-with-extension/)
+* [Chrome DNS Over HTTPS How to Enable](/articles/chrome-dns-over-https-how-to-enable/)
+

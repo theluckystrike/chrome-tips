@@ -60,3 +60,9 @@ Consider enabling two-factor authentication on your Uber account for an extra la
 Setting up Chrome for Uber web apps does not require technical expertise or complicated configurations. A few simple adjustments, like creating a dedicated profile, managing your tabs effectively, and enabling hardware acceleration, can make a noticeable difference in how smoothly Uber web applications run. By keeping your browser organized and optimized, you can focus on what matters most, whether that is providing great rides, managing deliveries, or getting where you need to go.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Speed Dial Bookmarks](/articles/chrome-extensions-for-speed-dial-bookmarks/)
+* [Chrome for Keyboard Shortcut Customization](/articles/chrome-for-keyboard-shortcut-customization/)
+* [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/articles/chrome-extensions-developer-mode/)
+

@@ -83,4 +83,9 @@ Finally, remember to stop the auto refresh when you no longer need it. Leaving e
 
 ---
 
+## Related Articles
+* [Chrome Element Internals and Custom Elements: A Complete Guide](/articles/chrome-element-internals-custom-elements/)
+* [Chrome DNS Probe Finished Nxdomain Fix](/articles/chrome-dns-probe-finished-nxdomain-fix/)
+* [Chrome WebGL Not Working Fix](/articles/chrome-webgl-not-working-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

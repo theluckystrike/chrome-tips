@@ -91,4 +91,9 @@ Remember that free VPN extensions typically will not match the performance and f
 
 The most important thing is to actually use a VPN when browsing on public networks. Even a basic free extension is better than nothing when it comes to protecting your personal information from prying eyes.
 
+## Related Articles
+* [Chrome Password Autofill Stopped Working: Fix It Now](/articles/chrome-password-autofill-stopped-working/)
+* [Chrome Download Manager Best Extension](/articles/chrome-download-manager-best-extension/)
+* [Chrome Homepage Changed by Itself Fix](/articles/chrome-homepage-changed-by-itself-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

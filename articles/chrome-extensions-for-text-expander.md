@@ -72,3 +72,9 @@ The beauty of these extensions is that they work quietly in the background, read
 Give yourself the gift of more time and less repetitive typing. Your fingers will thank you, and you will be able to focus on work that actually matters.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Web Speech API Voice Commands: A Complete Guide](/articles/chrome-web-speech-api-voice-commands/)
+* [chrome default browser how to set windows mac](/articles//chrome-default-browser-how-to-set-windows-mac//)
+* [Chrome High CPU Usage Nothing Open](/articles/chrome-high-cpu-usage-nothing-open/)
+

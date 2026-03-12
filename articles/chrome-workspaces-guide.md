@@ -93,4 +93,9 @@ The combination of efficient tab management with powerful workspace editing crea
 
 ---
 
+## Related Articles
+* [Chromebook External Monitor How to Connect](/articles/chromebook-external-monitor-how-to-connect/)
+* [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
+* [Chrome for Text to Speech on Any Page](/articles/chrome-for-text-to-speech-on-any-page/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -84,3 +84,9 @@ Getting the best quality from Amazon Prime Video in Chrome is a combination of c
 Everyone's setup is different, so you might need to experiment with a few of these recommendations to find what works best for your situation. The good news is that with a little attention to these details, you can significantly improve your Prime Video streaming experience in Chrome.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Why Does Each Chrome Tab Use So Much Memory](/articles/why-does-each-chrome-tab-use-so-much-memory/)
+* [Hidden Chrome Extensions You Should Install](/articles/hidden-chrome-extensions-you-should-install/)
+* [Chrome Web GPU API Explained](/articles/chrome-web-gpu-api-explained/)
+

@@ -94,4 +94,9 @@ The clarity and reliability that Temporal provides make it especially valuable f
 
 For managing browser resources while working with date-intensive applications, consider using **Tab Suspender Pro** to automatically suspend inactive tabs. When you are testing complex date-handling features or running multiple development instances, Tab Suspender Pro helps maintain browser performance by freeing up memory from tabs you are not actively using.
 
+## Related Articles
+* [chrome for apple music web player tips](/articles/chrome-for-apple-music-web-player-tips/)
+* [Chrome Extensions for Highlighting Text on Web](/articles/chrome-extensions-for-highlighting-text-on-web/)
+* [Chrome Slow on Android Fix](/articles/chrome-slow-on-android-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

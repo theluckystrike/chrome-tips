@@ -90,3 +90,9 @@ The good news is that you can try different extensions and see which one fits yo
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Extensions Conflict With Each Other Fix](/articles/chrome-extensions-conflict-with-each-other-fix/)
+* [Chrome DOMContentLoaded vs Load Event](/articles/chrome-dom-content-loaded-vs-load-event/)
+* [Chrome Extensions For Fitness Tracking Dashboard](/articles//articles/chrome-extensions-for-fitness-tracking-dashboard//)
+

@@ -66,3 +66,9 @@ Take some time to explore the settings and customization options available. Conf
 Remember that screen dimming is just one part of maintaining eye comfort while using your computer. Taking regular breaks, adjusting your screen position, and ensuring adequate room lighting can all contribute to a more comfortable browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome About Pages List Explained](/articles/chrome-about-pages-list-explained/)
+* [Chrome Proxy Settings Guide](/articles/chrome-proxy-settings-guide/)
+* [Chrome Multiple Profiles How to Switch Fast](/articles/chrome-multiple-profiles-how-to-switch-fast/)
+

@@ -63,4 +63,9 @@ Finally, keep Chrome updated. Google continuously refines color management, and 
 
 ---
 
+## Related Articles
+* [Chrome Homepage Keeps Resetting Fix](/articles/chrome-homepage-keeps-resetting-fix/)
+* [Chrome Spectre Attack Protection in Browser](/articles/chrome-spectre-attack-protection-in-browser/)
+* [Chrome Devtools Security Panel Explained](/articles/chrome-devtools-security-panel-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -75,3 +75,9 @@ Remember that fewer, well-chosen extensions will serve you better than dozens of
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use/)
+* [Chrome Extensions for SSL Certificate Checker](/articles/chrome-extensions-for-ssl-certificate-checker/)
+* [Chrome Passkeys How to Set Up and Use](/articles/chrome-passkeys-how-to-set-up-and-use/)
+

@@ -87,3 +87,9 @@ Start with one or two extensions that address your most common needs, and gradua
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Open Last Session on Startup](/articles/chrome-open-last-session-on-startup/)
+* [chrome webrtc leak what it is and how to fix](/articles/chrome-webrtc-leak-what-it-is-and-how-to-fix/)
+* [chrome search by image right click how to](/articles/chrome-search-by-image-right-click-how-to/)
+

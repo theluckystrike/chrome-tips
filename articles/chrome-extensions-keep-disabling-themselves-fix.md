@@ -80,3 +80,9 @@ You can also reach out to the extension developer for support. They may be aware
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix/)
+* [chrome site search shortcut how to set up](/articles/chrome-site-search-shortcut-how-to-set-up/)
+* [Chrome for Touchscreen Optimization Tips](/articles/chrome-for-touchscreen-optimization-tips/)
+

@@ -77,3 +77,9 @@ Chrome for site search from address bar is one of those features that is easy to
 Give it a try with a site you visit often. Set up the bookmark or keyword, run a test search, and see how it feels. You might find that a small change in how you browse makes a big difference in your daily workflow.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Tab Search Feature How to Use](/articles/chrome-tab-search-feature-how-to-use/)
+* [Chrome Speech Recognition API Explained](/articles/chrome-speech-recognition-api-explained/)
+* [Is 4GB RAM Enough for Chrome in 2026?](/articles/is-4gb-ram-enough-for-chrome-in-2026/)
+

@@ -90,3 +90,9 @@ Once the message is gone, you can enjoy using Chrome with full control over your
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Live Captions How to Enable](/articles/chrome-live-captions-how-to-enable/)
+* [Chrome Downloads Not Starting Fix](/articles/chrome-downloads-not-starting-fix/)
+* [Chrome Extensions for Table Data Extractor](/articles/chrome-extensions-for-table-data-extractor/)
+

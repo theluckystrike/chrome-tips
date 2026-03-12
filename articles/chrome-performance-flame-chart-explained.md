@@ -78,4 +78,9 @@ Regular checks also help identify when extension updates or website changes star
 
 The flame chart demystifies what happens inside your browser. Instead of guessing why things feel slow, you gain actual insight into where time goes. This knowledge empowers you to take targeted actions rather than trying random fixes that may not address the real problem.
 
+## Related Articles
+* [chrome offline first app design explained](/articles/chrome-offline-first-app-design-explained/)
+* [How to Use Chrome DevTools Device Orientation Emulator](/articles//chrome-devtools-device-orientation-emulator//)
+* [Chrome Payment Request API Explained](/articles/chrome-payment-request-api-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

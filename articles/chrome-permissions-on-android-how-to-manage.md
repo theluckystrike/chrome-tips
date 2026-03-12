@@ -87,4 +87,9 @@ If you believe a website is misusing a permission you granted, consider clearing
 
 Keeping your Android operating system and Chrome app updated is also important, as updates often include security patches and improved privacy controls.
 
+## Related Articles
+* [chrome right to left language support](/articles/chrome-right-to-left-language-support/)
+* [Chrome vs Edge Extensions Compatibility](/articles/chrome-vs-edge-extensions-compatibility/)
+* [chrome file system access api explained](/articles/chrome-file-system-access-api-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

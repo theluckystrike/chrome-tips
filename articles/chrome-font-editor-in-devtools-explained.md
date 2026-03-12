@@ -73,3 +73,9 @@ The more you use the Font Editor, the more comfortable you will become with DevT
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app/)
+* [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing/)
+* [Chrome Sandbox Mode Explained Simply](/articles/chrome-sandbox-mode-explained-simply/)
+

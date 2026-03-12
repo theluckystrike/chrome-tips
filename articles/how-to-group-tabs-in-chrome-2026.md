@@ -193,4 +193,9 @@ Remember that effective tab organization is a personal process, and what works b
 For additional ways to enhance your Chrome experience and maintain optimal browser performance, consider exploring extensions like Tab Suspender Pro that complement Chrome's built-in features. Together, these tools create a powerful environment for managing your web activities efficiently and effectively.
 >>>>>>> consumer/a33-how-to-group-tabs-in-chrome-2026
 
+## Related Articles
+* [chrome tab memory usage keeps growing](/articles/chrome-tab-memory-usage-keeps-growing/)
+* [Chrome Web NFC API Guide](/articles/chrome-web-nfc-api-guide/)
+* [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/articles/chrome-site-isolation-security-feature/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

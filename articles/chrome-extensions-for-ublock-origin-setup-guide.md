@@ -69,3 +69,9 @@ Setting up uBlock Origin is one of the simplest ways to improve your daily brows
 Whether you are looking for better tab management with something like Tab Suspender Pro, a password manager, or tools to reduce eye strain, the Chrome Web Store has options for nearly every need. Take some time to explore what works best for you, and enjoy a cleaner, faster, and more organized browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Fix Chrome High CPU Usage When Gaming](/articles/how-to-fix-chrome-high-cpu-usage-gaming/)
+* [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix/)
+* [Chrome Extensions for HTTP Header Viewer](/articles/chrome-extensions-for-http-header-viewer/)
+

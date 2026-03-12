@@ -67,4 +67,9 @@ To explore this feature, try visiting browser-based design tools that support lo
 
 As web design continues evolving, Chrome's Local Font Access API empowers you to work more efficiently and creatively. Embrace these capabilities to streamline your design process and deliver better results for your projects.
 
+## Related Articles
+* [Chrome for Google Scholar Best Extensions](/articles/chrome-for-google-scholar-best-extensions/)
+* [Chrome Tech Support Scam Popup Fix](/articles/chrome-tech-support-scam-popup-fix/)
+* [Chrome Autofill Wrong Address How to Fix](/articles/chrome-autofill-wrong-address-how-to-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

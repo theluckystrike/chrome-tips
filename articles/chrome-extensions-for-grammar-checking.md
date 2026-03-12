@@ -80,3 +80,9 @@ If you want comprehensive checking and are willing to pay for premium features, 
 Remember that these extensions are meant to help, not replace careful reading. They are excellent tools, but they are not perfect. Always review your important writing yourself before hitting send or publish.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Turn Off Autocomplete in Chrome](/articles/chrome-how-to-turn-off-autocomplete/)
+* [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change/)
+* [Chrome Android Gestures You Didnt Know About](/articles/chrome-android-gestures-you-didnt-know-about/)
+

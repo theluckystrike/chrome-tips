@@ -210,4 +210,9 @@ Each of these extensions addresses specific challenges that writers face, and to
 The best approach is to start with one or two extensions that address your most pressing needs, then gradually add more tools as you develop routines that incorporate them effectively. With the right combination of extensions, your Chrome browser can become a writing environment that supports and enhances your creative efforts.
 >>>>>>> consumer/a62-chrome-extensions-for-writers
 
+## Related Articles
+* [Chrome Default Download Location How to Set](/articles//chrome-default-download-location-how-to-set//)
+* [Chrome for Roam Research Web Tips](/articles/chrome-for-roam-research-web-tips/)
+* [Chrome Slow on School Laptop? Here's How to Fix It](/articles/chrome-slow-on-school-laptop-how-to-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

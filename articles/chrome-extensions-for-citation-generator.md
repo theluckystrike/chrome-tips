@@ -57,4 +57,9 @@ Finding the right chrome extensions for citation generator depends on your speci
 
 Remember that citation generators are helpful tools, but it is still important to review the citations they produce. No tool is perfect, and you should always check that your citations are accurate and complete before submitting your work. With the right extensions on your side, you can spend less time formatting references and more time on the actual research and writing that matters.
 
+## Related Articles
+* [Chrome Clear Browsing Data Shortcut](/articles/chrome-clear-browsing-data-shortcut/)
+* [Chrome IndexedDB Storage Explained](/articles/chrome-indexeddb-storage-explained/)
+* [Chrome vs Vivaldi Customization Comparison: Which Browser Gives You More Control?](/articles/chrome-vs-vivaldi-customization-comparison/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

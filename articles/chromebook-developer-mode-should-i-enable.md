@@ -94,3 +94,9 @@ Whatever you decide, your Chromebook will still be a capable machine. The choice
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Devtools Color Picker How to Use](/articles//chrome-devtools-color-picker-how-to-use//)
+* [Chrome for Blue Light Filter Extensions](/articles/chrome-for-blue-light-filter-extensions/)
+* [Chrome Tab From Other Device Not Showing Fix](/articles/chrome-tab-from-other-device-not-showing-fix/)
+

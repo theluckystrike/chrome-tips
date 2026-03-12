@@ -82,3 +82,9 @@ Use it for what it's good at — local privacy and fresh browser sessions — an
 ---
 
 *Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+
+## Related Articles
+* [chrome web bluetooth how to use](/articles/chrome-web-bluetooth-how-to-use/)
+* [Chrome for NFT Browsing Extensions](/articles/chrome-for-nft-browsing-extensions/)
+* [Chrome Android Reading List How to Use](/articles/chrome-android-reading-list-how-to-use/)
+

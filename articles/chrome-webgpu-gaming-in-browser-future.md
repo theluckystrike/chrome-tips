@@ -63,4 +63,9 @@ Chrome WebGPU represents a pivotal moment in browser technology. What was once a
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Animation Performance Guide](/articles/chrome-animation-performance/)
+* [Best Chrome Extensions for Marketing Professionals](/articles/best-chrome-extensions-for-marketing-professionals/)
+* [How to Stop Chrome from Redirecting to HTTPS](/articles/how-to-stop-chrome-from-redirecting-to-https/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

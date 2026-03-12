@@ -56,3 +56,9 @@ Finding and removing duplicate tabs is one of the simplest ways to improve your 
 Extensions like Tab Suspender Pro and others in the Chrome Web Store make this process easy and even automatic. Taking a few minutes to clean up your tabs can make your browsing feel fresher and more productive. Give it a try and see how much easier it is to navigate your browser when you do not have to scroll through duplicates.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Waze Web Tips](/articles/chrome-for-waze-web-tips/)
+* [Chrome for Todoist Web App Best Settings](/articles/chrome-for-todoist-web-app-best-settings/)
+* [Chrome Too Many Redirects Error Fix](/articles/chrome-too-many-redirects-error-fix/)
+

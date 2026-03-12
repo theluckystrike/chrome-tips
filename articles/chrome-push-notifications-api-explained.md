@@ -83,4 +83,9 @@ If you find that Chrome is running slowly and you have many notification permiss
 
 ---
 
+## Related Articles
+* [Chrome Multiple Profiles How to Switch Fast](/articles/chrome-multiple-profiles-how-to-switch-fast/)
+* [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization/)
+* [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

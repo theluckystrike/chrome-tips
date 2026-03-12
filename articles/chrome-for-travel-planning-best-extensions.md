@@ -66,3 +66,9 @@ Remember that not every extension will be useful for every trip. A quick weekend
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Speed Dial Extensions Best](/articles/chrome-speed-dial-extensions-best/)
+* [chrome default browser how to set windows mac](/articles//chrome-default-browser-how-to-set-windows-mac//)
+* [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android/)
+

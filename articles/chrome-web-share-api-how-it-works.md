@@ -60,3 +60,9 @@ Chrome continues to lead in implementing web APIs that make browsing more capabl
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Tracking Prevention Explained Simply](/articles/chrome-tracking-prevention-explained-simply/)
+* [Chrome Extensions for Lorem Ipsum Generator](/articles/chrome-extensions-for-lorem-ipsum-generator/)
+* [Chrome for Academic Paper Reading Extensions](/articles/chrome-for-academic-paper-reading-extensions/)
+

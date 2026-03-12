@@ -72,3 +72,9 @@ As an Android user, you encounter this feature dozens of times per day without e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking//)
+* [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs/)
+* [Chrome Reset All Settings: What Gets Deleted](/articles/chrome-reset-all-settings-what-gets-deleted/)
+

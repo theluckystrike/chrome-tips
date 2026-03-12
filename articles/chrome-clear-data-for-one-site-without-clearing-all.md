@@ -69,3 +69,9 @@ If a particular website continues to cause issues even after clearing its data, 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/articles/chrome-save-webpage-as-mhtml-offline/)
+* [Chrome Side Panel Extensions Best Ones](/articles/chrome-side-panel-extensions-best-ones/)
+* [Chrome Background Sync Explained: How It Works and Why It Matters](/articles/chrome-background-sync-explained/)
+

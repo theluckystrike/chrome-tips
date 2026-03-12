@@ -68,3 +68,9 @@ You can stay informed about new Chrome features by checking the official Chrome 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome PWA Install Prompt Not Showing Fix](/articles/chrome-pwa-install-prompt-not-showing-fix/)
+* [Chrome Source Maps Explained Simply](/articles/chrome-source-maps-explained-simply/)
+* [Chrome for Blue Light Filter Extensions](/articles/chrome-for-blue-light-filter-extensions/)
+

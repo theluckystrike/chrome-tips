@@ -71,4 +71,9 @@ If you find that Chrome is running slowly and you suspect storage might be the i
 
 ---
 
+## Related Articles
+* [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop/)
+* [Chrome Password Manager on Phone vs Dedicated App](/articles/chrome-password-manager-on-phone-vs-dedicated-app/)
+* [Chrome Guest Browsing for Shared Computers](/articles/chrome-guest-browsing-for-shared-computers/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

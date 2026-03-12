@@ -63,3 +63,9 @@ Enabling smooth scrolling in Chrome is a simple change that can make your daily 
 Give it a try for a few days. You might find that those gentle glides make reading longer articles and navigating busy websites a much more enjoyable experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Device Emulation Advanced Guide](/articles//chrome-device-emulation-advanced//)
+* [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/articles/should-i-switch-to-edge-for-speed/)
+* [chrome high contrast mode](/articles/chrome-high-contrast-mode/)
+

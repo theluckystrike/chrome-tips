@@ -86,3 +86,9 @@ Buffering is one of the most frustrating things about watching streams online, b
 Most people find that one or two of these changes make a big difference. Good luck, and enjoy your streams without the interruptions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Mobile Tabs Too Many How to Manage](/articles/chrome-mobile-tabs-too-many-how-to-manage/)
+* [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api/)
+* [Chrome Mobile View on Desktop How to](/articles/chrome-mobile-view-on-desktop-how-to/)
+

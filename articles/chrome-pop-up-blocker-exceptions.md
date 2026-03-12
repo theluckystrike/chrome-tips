@@ -77,4 +77,9 @@ Managing your browser effectively involves more than just handling pop ups. If y
 
 Having many extensions and permitted sites can sometimes slow down your browser over time. Regularly reviewing what you have allowed and removing anything you no longer need will help maintain optimal performance.
 
+## Related Articles
+* [Chrome Extensions For Flight Price Alerts](/articles//articles/chrome-extensions-for-flight-price-alerts//)
+* [How to Cast Chrome Tab to TV](/articles/how-to-cast-chrome-tab-to-tv/)
+* [Chrome Super Cookies: What Are They](/articles/chrome-super-cookies-what-are-they/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

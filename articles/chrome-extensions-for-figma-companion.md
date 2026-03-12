@@ -60,3 +60,9 @@ Regularly review your open tabs and close anything you no longer need. It is eas
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions Causing Lag: Which One Is Slowing You Down?](/articles/chrome-extensions-causing-lag-which-one/)
+* [Chrome for Grammar Checking Extensions](/articles/chrome-for-grammar-checking-extensions/)
+* [Chrome Journeys Feature in History Explained](/articles/chrome-journeys-feature-in-history-explained/)
+

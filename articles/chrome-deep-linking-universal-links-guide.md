@@ -78,3 +78,9 @@ By following this **chrome deep linking universal links guide**, you can leverag
 ---
 
 Built by theluckystrike — More tips at https://zovo.one
+
+## Related Articles
+* [Chrome Android Gestures You Didnt Know About](/articles/chrome-android-gestures-you-didnt-know-about/)
+* [chrome fingerprint protection 2026](/articles/chrome-fingerprint-protection-2026/)
+* [best chrome extensions for writers 2026](/articles/chrome-extensions-for-writers/)
+

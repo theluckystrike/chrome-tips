@@ -81,4 +81,9 @@ For now, learning to navigate Chrome by speaking is a valuable skill that makes 
 
 Once you master these tools, you will find that your hands are free for other tasks while still maintaining full control over your browser. This is especially useful in our increasingly multi-tasking world where being able to browse hands-free can save time and reduce frustration.
 
+## Related Articles
+* [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking//)
+* [How to Use Chrome DevTools for Beginners](/articles/how-to-use-chrome-devtools-for-beginners/)
+* [Chrome for Bibliography Management Extensions](/articles/chrome-for-bibliography-management-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

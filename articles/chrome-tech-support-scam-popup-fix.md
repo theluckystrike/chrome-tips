@@ -117,4 +117,9 @@ Tech support scam popups in Chrome are frightening but preventable. The key step
 
 Stay vigilant, and remember: if something looks like a panic-inducing popup demanding immediate action, it is almost certainly a scam.
 
+## Related Articles
+* [Chrome Incognito Mode: Actually Private or Just a False Sense of Security?](/articles/chrome-incognito-mode-actually-private-or-not/)
+* [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop/)
+* [Chrome Extensions for Website Monitoring Changes](/articles/chrome-extensions-for-website-monitoring-changes/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

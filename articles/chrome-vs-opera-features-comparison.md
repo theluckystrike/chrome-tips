@@ -74,4 +74,9 @@ Either way, remember that you can improve your experience by managing your tabs 
 
 ---
 
+## Related Articles
+* [chrome data saver mode is it still available](/articles//chrome-data-saver-mode-is-it-still-available//)
+* [chrome google photos integration save images](/articles/chrome-google-photos-integration-save-images/)
+* [Chrome for Resume Building Web Tools](/articles/chrome-for-resume-building-web-tools/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

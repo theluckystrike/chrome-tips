@@ -79,3 +79,9 @@ Chrome for stock screener web tools gives individual investors powerful capabili
 Remember that no single tool does everything perfectly. Many investors use a combination of platforms and extensions to get the information they need. Take time to explore what works best for your investment style and workflow.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Export Bookmarks from Chrome](/articles/how-to-export-bookmarks-from-chrome/)
+* [Chrome Using 8GB RAM Fix](/articles/chrome-using-8gb-ram-fix/)
+* [Chrome Enable Cookies for One Site How to](/articles/chrome-enable-cookies-for-one-site-how-to/)
+

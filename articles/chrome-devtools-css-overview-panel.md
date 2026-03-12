@@ -74,3 +74,9 @@ The CSS Overview panel in Chrome DevTools is an invaluable tool for anyone who w
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking//)
+* [Chrome Flexbox Debugging Guide](/articles/chrome-flexbox-debugging/)
+* [How to Search Open Chrome Tabs](/articles/how-to-search-open-chrome-tabs/)
+

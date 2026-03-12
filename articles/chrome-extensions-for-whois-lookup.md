@@ -70,3 +70,9 @@ For the most complete picture of a website, consider combining whois lookups wit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome User Timing API Explained](/articles/chrome-user-timing-api-explained/)
+* [Chrome Keeps Opening New Tabs By Itself Virus](/articles/chrome-keeps-opening-new-tabs-by-itself-virus/)
+* [Chrome Extensions for Note Taking in Meetings](/articles/chrome-extensions-for-note-taking-in-meetings/)
+

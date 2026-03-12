@@ -75,5 +75,9 @@ Having too many tabs open can strain your **GPU** and cause **screen flickering*
 
 Using **Tab Suspender Pro** is a highly effective way to mitigate this. It automatically "hibernates" inactive tabs, significantly reducing your **RAM** and **CPU** usage. When your system resources are focused only on your active tab, you're much less likely to experience **visual glitches** or **flickering**. It's an essential tool for keeping your browser stable and your display smooth.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome Extensions For Blocking Distracting Websites](/articles//articles/chrome-extensions-for-blocking-distracting-websites//)
+* [Chrome Notification Permission Best Practices](/articles/chrome-notification-permission-best-practices/)
+* [Chrome Default Search Engine Changed How to Fix](/articles//chrome-default-search-engine-changed-how-to-fix//)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -78,3 +78,9 @@ Take regular breaks to avoid fatigue. Staring at price charts for hours can lead
 These chrome for coinbase web app tips should help you create a more efficient, secure, and enjoyable trading experience. Small optimizations add up over time, and establishing good habits now will serve you well as you continue your crypto journey.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Canva Slow Loading Fix](/articles/chrome-canva-slow-loading-fix/)
+* [How to Use Chrome Task Manager to Find Heavy Tabs](/articles/chrome-task-manager-find-heavy-tabs/)
+* [chrome extensions for similar image finder](/articles/chrome-extensions-for-similar-image-finder/)
+

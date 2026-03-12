@@ -93,4 +93,9 @@ By combining these Chrome flags with smart tab management using tools like Tab S
 
 ---
 
+## Related Articles
+* [Chrome Overscroll Behavior CSS](/articles/chrome-overscroll-behavior-css/)
+* [Is Chrome Still the Best Browser in 2026?](/articles/is-chrome-still-the-best-browser-2026/)
+* [Chrome Back Forward Cache How to Test](/articles/chrome-back-forward-cache-how-to-test/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

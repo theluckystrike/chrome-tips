@@ -90,3 +90,9 @@ Consider setting up automatic cleanup using your operating system or a utility p
 Taking a few minutes to set up your download location and organize your files can save you hours of frustration trying to find important documents later.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome for mouse gestures extensions](/articles/chrome-for-mouse-gestures-extensions/)
+* [Chrome Guest Mode Explained](/articles/chrome-guest-mode-explained/)
+* [Chrome Extensions Update Frequency Explained](/articles/chrome-extensions-update-frequency-explained/)
+

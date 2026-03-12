@@ -87,4 +87,9 @@ Now that you understand **Chrome password generator how to use**, there's no rea
 
 Take a few minutes to explore Chrome's password settings and familiarize yourself with how the generator works. Once you've seen it in action, you'll wonder how you ever managed without it. Your online accounts will be safer, and you'll have peace of mind knowing that you're taking important steps to protect your digital life.
 
+## Related Articles
+* [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/articles/chrome-save-webpage-as-mhtml-offline/)
+* [Chrome Freezing Every Few Minutes? Here's What to Do](/articles/chrome-freezing-every-few-minutes/)
+* [Chrome Screenshot Full Page Without Extension](/articles/chrome-screenshot-full-page-without-extension/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

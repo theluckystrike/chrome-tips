@@ -65,3 +65,9 @@ Learning how to manage chrome notifications for one site is one of those small s
 Taking a few minutes to review your notification permissions now can save you from distraction and annoyance later. It is one of the simplest ways to make your browsing experience feel more under your control, and it is a habit that pays off every day.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Productivity Students](/articles/chrome-extensions-for-productivity-students/)
+* [Chrome Freezing Every Few Minutes? Here's What to Do](/articles/chrome-freezing-every-few-minutes/)
+* [Chrome Mobile Dark Mode Force on All Sites](/articles/chrome-mobile-dark-mode-force-on-all-sites/)
+

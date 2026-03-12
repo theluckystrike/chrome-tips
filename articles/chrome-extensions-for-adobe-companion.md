@@ -73,4 +73,9 @@ Remember that not every extension will be useful for every workflow. Start with 
 
 ---
 
+## Related Articles
+* [Chrome Payment Request API Explained](/articles/chrome-payment-request-api-explained/)
+* [Chrome Payment Request API Guide](/articles/chrome-payment-request-api/)
+* [Chrome Block Inappropriate Content for Kids](/articles/chrome-block-inappropriate-content-for-kids/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

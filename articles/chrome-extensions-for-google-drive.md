@@ -69,3 +69,9 @@ Chrome extensions for Google Drive can genuinely improve your experience with cl
 Remember to keep your extension list lean, only adding what you will actually use, and you will find that these small tools make a big difference in your daily productivity.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps](/articles/chrome-slow-on-4gb-ram-laptop/)
+* [Chrome Popover API Explained](/articles/chrome-popover-api-explained/)
+* [Chrome Flags for Speed Optimization](/articles/chrome-flags-for-speed-optimization/)
+

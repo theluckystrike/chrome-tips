@@ -91,4 +91,9 @@ Most chrome update problems are fixable with the steps in this guide. Start with
 
 ---
 
+## Related Articles
+* [chrome for obs browser source tips](/articles/chrome-for-obs-browser-source-tips/)
+* [Chrome Extensions That Save You Time](/articles/chrome-extensions-that-save-you-time/)
+* [Chrome for Streamlabs Web Dashboard](/articles/chrome-for-streamlabs-web-dashboard/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

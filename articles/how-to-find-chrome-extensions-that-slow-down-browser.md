@@ -68,3 +68,9 @@ If you have tried these steps and your browser still feels slow, consider whethe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Add to Home Screen vs Install App](/articles/chrome-add-to-home-screen-vs-install-app/)
+* [how to enable chrome enhanced safe browsing](/articles/how-to-enable-chrome-enhanced-safe-browsing/)
+* [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension/)
+

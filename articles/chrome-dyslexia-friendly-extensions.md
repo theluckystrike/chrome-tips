@@ -53,3 +53,9 @@ Finding the right chrome dyslexia friendly extensions is a personal journey. Wha
 Remember that these tools are meant to help, not to replace good browsing habits. Taking regular breaks, ensuring good lighting when you read, and using tools that reduce eye strain all contribute to a better experience. With the right extensions and a few simple adjustments, the web can become a much more accessible place for reading.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome User Data Folder Where Is It](/articles/chrome-user-data-folder-where-is-it/)
+* [Chrome Extensions for Image Downloader Bulk](/articles/chrome-extensions-for-image-downloader-bulk/)
+* [Chrome Extensions for Website Blocker](/articles/chrome-extensions-for-website-blocker/)
+

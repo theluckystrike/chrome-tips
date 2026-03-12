@@ -105,4 +105,9 @@ Remember to reinstall your essential extensions one at a time after resetting, s
 
 ---
 
+## Related Articles
+* [Chrome Flags That Actually Make It Faster: A Practical Guide for Slow Computers](/articles/chrome-flags-that-actually-make-it-faster/)
+* [Chrome Extensions for Pocket Alternative](/articles/chrome-extensions-for-pocket-alternative/)
+* [Chrome Screen Sharing in Browser How To](/articles/chrome-screen-sharing-in-browser-how-to/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

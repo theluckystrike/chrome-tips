@@ -76,3 +76,9 @@ The key is finding an extension that matches your workflow. Most of these tools 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Workspaces: Link DevTools to Files for Seamless Development](/articles/chrome-workspaces-link-devtools-to-files/)
+* [What Happens When Chrome Extension Is Removed From Store](/articles/what-happens-when-chrome-extension-is-removed-from-store/)
+* [Chrome Local Storage How to Clear for One Site](/articles/chrome-local-storage-how-to-clear-for-one-site/)
+

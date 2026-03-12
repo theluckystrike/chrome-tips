@@ -162,4 +162,9 @@ When using applications that rely heavily on SharedArrayBuffer and web workers, 
 
 SharedArrayBuffer is a powerful feature that brings true multithreading capabilities to web applications in Chrome. By understanding the security requirements, proper implementation patterns, and atomic operations, developers can build high-performance applications that leverage parallel processing. Whether you are building data-intensive applications, games, or scientific simulations, SharedArrayBuffer provides the foundation for responsive and efficient web experiences.
 
+## Related Articles
+* [chrome material you design on desktop](/articles/chrome-material-you-design-on-desktop/)
+* [Chrome Extensions for Freelancers](/articles/chrome-extensions-for-freelancers/)
+* [Chrome Extensions for Whois Lookup](/articles/chrome-extensions-for-whois-lookup/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

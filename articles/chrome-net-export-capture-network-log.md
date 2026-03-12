@@ -90,4 +90,9 @@ Chrome's Net Export feature is a powerful tool for anyone who needs to capture a
 
 For ongoing browser optimization, remember that managing your tabs efficiently can significantly impact your browsing experience. **Tab Suspender Pro** helps you keep your browser responsive while maintaining access to all your important resources.
 
+## Related Articles
+* [Chrome Extensions for WebRTC Leak Prevention](/articles/chrome-extensions-for-webrtc-leak-prevention/)
+* [Chrome Permissions Policy Header Explained](/articles/chrome-permissions-policy-header-explained/)
+* [Chrome Flags Best Performance Settings](/articles/chrome-flags-best-performance-settings/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

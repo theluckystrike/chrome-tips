@@ -73,4 +73,9 @@ Try turning it on and see how it works for you. You might be surprised at how mu
 
 ---
 
+## Related Articles
+* [Chrome User Agent String: What It Is and How It Works](/articles/chrome-user-agent-string-what-it-is/)
+* [Chrome Shared Storage API Explained](/articles/chrome-shared-storage-api-explained/)
+* [Chrome Game Streaming Optimization Tips](/articles/chrome-game-streaming-optimization-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

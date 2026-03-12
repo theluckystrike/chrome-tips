@@ -82,4 +82,9 @@ Remember that LCP is just one piece of page speed. Other metrics like First Inpu
 
 By focusing on Chrome largest contentful paint optimize strategies, you create faster, more responsive web experiences. Whether you own a website or simply browse the web, these optimizations make a noticeable difference in daily browsing.
 
+## Related Articles
+* [Chrome Session Restore Not Working Fix](/articles/chrome-session-restore-not-working-fix/)
+* [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users/)
+* [Chrome MotionMark Graphics Benchmark](/articles/chrome-motionmark-graphics-benchmark/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

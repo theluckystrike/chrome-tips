@@ -61,4 +61,9 @@ Finally, share what you learn with others if it helps. Discussing your findings 
 
 ---
 
+## Related Articles
+* [Chrome for YouTube 4K Playback Settings](/articles/chrome-for-youtube-4k-playback-settings/)
+* [How to Use Chrome Profiles Properly — The Complete Guide](/articles/how-to-use-chrome-profiles-properly/)
+* [Chrome Extensions for Site Permissions Manager](/articles/chrome-extensions-for-site-permissions-manager/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

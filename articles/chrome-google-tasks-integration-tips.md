@@ -70,3 +70,9 @@ Finally, take a few minutes each day to review and update your task list. Integr
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Limit Chrome Memory Usage on Windows](/articles/how-to-limit-chrome-memory-usage-windows/)
+* [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api/)
+* [Chrome Energy Saver Mode Explained](/articles/chrome-energy-saver-mode-explained/)
+

@@ -73,3 +73,9 @@ If you install many Chrome extensions, you might eventually run into shortcut co
 Extensions like Tab Suspender Pro can help you manage many open tabs by automatically suspending tabs you have not used recently. This keeps your browser running smoothly and can actually make your keyboard shortcuts more responsive by reducing the overall load on Chrome. A well-organized browser with fewer active extensions typically provides a smoother experience when using keyboard shortcuts.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Trello](/articles/chrome-extensions-for-trello/)
+* [Chrome Lighthouse Treemap Explained](/articles/chrome-lighthouse-treemap-explained/)
+* [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners/)
+

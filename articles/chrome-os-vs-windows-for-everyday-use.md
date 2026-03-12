@@ -96,4 +96,9 @@ A student writing papers and browsing research online might love a Chromebook. A
 
 List the things you need your computer to do. Check whether the programs you need run on each platform. Think about where you will use it and how. Then choose the operating system that checks the most boxes for you.
 
+## Related Articles
+* [Chrome for Dropshipping: Best Extensions](/articles/chrome-for-dropshipping-best-extensions/)
+* [How to Use Chrome for Multiple Work Accounts](/articles/how-to-use-chrome-for-multiple-work-accounts/)
+* [chrome videos buffering slow fix](/articles/chrome-videos-buffering-slow-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

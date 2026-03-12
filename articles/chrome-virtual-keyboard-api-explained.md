@@ -58,4 +58,9 @@ While Tab Suspender Pro does not directly control virtual keyboard behavior, it 
 
 Using tools like this, along with keeping your browser updated, can help you get the most out of the improvements that features like the virtual keyboard API bring to your web browsing on tablets and other touchscreen devices.
 
+## Related Articles
+* [Chrome Closed Captions on Any Video](/articles/chrome-closed-captions-on-any-video/)
+* [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out/)
+* [Chrome Eating All My RAM? Reddit Users Share Their Solutions](/articles/chrome-eating-all-my-ram-reddit-solutions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

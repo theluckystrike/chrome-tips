@@ -71,3 +71,9 @@ While Tab Suspender Pro does not directly control badge functionality, it does h
 Using tools like this, along with understanding how features like the Badging API work, can help you get more out of your time spent browsing the web.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization/)
+* [Chrome CSS Grid Layout Complete Guide](/articles//chrome-css-grid-layout-complete-guide//)
+* [Chrome Encrypted DNS Explained for Beginners](/articles/chrome-encrypted-dns-explained-for-beginners/)
+

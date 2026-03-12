@@ -86,3 +86,9 @@ With the right extension and a consistent approach, you will be well on your way
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome for Loom Screen Recording Tips](/articles/chrome-for-loom-screen-recording-tips/)
+* [Chrome Using More Memory After an Update? Here's What to Do](/articles/chrome-using-more-memory-after-update/)
+* [Chrome Breakpoints and Conditional Debugging Guide](/articles/chrome-breakpoints-conditional-debugging-guide/)
+

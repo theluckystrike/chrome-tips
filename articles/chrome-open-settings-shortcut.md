@@ -89,4 +89,9 @@ To open Chrome settings quickly, remember these methods. Type **chrome://setting
 
 Once in settings, you can customize nearly every aspect of your Chrome browsing experience. From privacy controls to appearance preferences, the settings page puts you in control. The **chrome://settings** shortcut is the fastest way to get there whenever you need to make changes.
 
+## Related Articles
+* [chrome prefetch and preconnect explained](/articles/chrome-prefetch-and-preconnect-explained/)
+* [Chrome Side Panel — How to Use It Effectively](/articles/chrome-side-panel-how-to-use/)
+* [chrome themes how to change and customize](/articles/chrome-themes-how-to-change-and-customize/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

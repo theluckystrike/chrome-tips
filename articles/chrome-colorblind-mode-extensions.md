@@ -78,3 +78,9 @@ Remember that your needs may change over time. An extension that works perfectly
 Accessibility is personal, and what works wonderfully for one person may not work at all for another. The important thing is to keep trying different tools until you find the combination that makes web browsing comfortable and enjoyable for you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Online Exams Best Settings](/articles/chrome-for-online-exams-best-settings/)
+* [chrome browser process vs tab process explained](/articles/chrome-browser-process-vs-tab-process-explained/)
+* [Chrome Download Files on Phone Where to Find](/articles/chrome-download-files-on-phone-where-to-find/)
+

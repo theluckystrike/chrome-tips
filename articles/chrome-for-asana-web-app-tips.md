@@ -78,3 +78,9 @@ Other helpful extensions include note-taking tools that integrate with your work
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Passkeys Explained for Beginners](/articles/chrome-passkeys-explained-for-beginners/)
+* [Chrome on Android — Tips and Tricks for 2026](/articles/chrome-on-android-tips-and-tricks-2026/)
+* [Chrome Custom Tabs on Android What They Are](/articles//chrome-custom-tabs-on-android-what-they-are//)
+

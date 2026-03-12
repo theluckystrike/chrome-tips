@@ -98,3 +98,9 @@ Remember that no blocker is perfect. Some ads will always find ways through, and
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Layers Panel Guide](/articles/chrome-layers-panel-guide/)
+* [How to Limit Chrome Extension Permissions](/articles/how-to-limit-chrome-extension-permissions/)
+* [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs/)
+

@@ -72,3 +72,9 @@ In rare cases, the problem might be with your computer's hardware rather than Ch
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Sandbox Mode Explained Simply](/articles/chrome-sandbox-mode-explained-simply/)
+* [Chrome Extension for QR Code Generator](/articles/chrome-extension-for-qr-code-generator/)
+* [chrome for vpn extensions comparison](/articles/chrome-for-vpn-extensions-comparison/)
+

@@ -83,3 +83,9 @@ Every few months, take a moment to do some basic browser maintenance. Clear your
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips/)
+* [Chrome Slower After macOS Update Fix](/articles/chrome-slower-after-macos-update-fix/)
+* [Chrome Opens in Small Window Fix](/articles/chrome-opens-in-small-window-fix/)
+

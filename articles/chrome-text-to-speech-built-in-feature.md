@@ -68,3 +68,9 @@ For people with reading difficulties or visual impairments, chrome text to speec
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [how to make chrome look aesthetic](/articles/how-to-make-chrome-look-aesthetic/)
+* [Chrome Element Inspector Tips and Tricks](/articles/chrome-element-inspector-tips-and-tricks/)
+* [chrome touchscreen mode how to enable](/articles/chrome-touchscreen-mode-how-to-enable/)
+

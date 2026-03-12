@@ -133,4 +133,9 @@ Browser manufacturers and web standards organizations are working together to ma
 
 ---
 
+## Related Articles
+* [How to Reduce Chrome Startup Time](/articles/how-to-reduce-chrome-startup-time/)
+* [How to Clear Chrome Cache Properly](/articles/how-to-clear-chrome-cache-properly/)
+* [Chrome Back Forward Cache Explained](/articles/chrome-back-forward-cache-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

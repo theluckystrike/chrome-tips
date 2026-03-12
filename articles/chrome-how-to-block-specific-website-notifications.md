@@ -59,3 +59,9 @@ When a website asks for notification permission, take a quick moment to decide w
 By following these steps and checking in on your settings regularly, you can enjoy the useful notifications while keeping the annoying ones at bay. Your browser should work for you, not against you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Safe Search How to Lock](/articles/chrome-safe-search-how-to-lock/)
+* [Chrome Gap Property CSS Flexbox Grid](/articles/chrome-gap-property-css-flexbox-grid/)
+* [Chrome Sandbox Mode Explained Simply](/articles/chrome-sandbox-mode-explained-simply/)
+

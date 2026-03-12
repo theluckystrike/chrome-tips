@@ -279,4 +279,9 @@ The combination of built-in Chrome features and thoughtful extension use, partic
 
 ---
 
+## Related Articles
+* [Chrome Extensions For Duplicate Tab Finder](/articles//articles/chrome-extensions-for-duplicate-tab-finder//)
+* [Chrome Remote Desktop Slow Fix](/articles/chrome-remote-desktop-slow-fix/)
+* [Chrome GPU Process High CPU Fix](/articles/chrome-gpu-process-high-cpu-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -73,3 +73,9 @@ Remember that the Windows method involves pressing Windows and period, while Mac
 With these tools at your disposal, adding personality and expression to your online communication is only a few keystrokes away.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Biometric Login How To Set Up](/articles/chrome-biometric-login-how-to-set-up/)
+* [Chrome Tab Stacking How to Use](/articles/chrome-tab-stacking-how-to-use/)
+* [How to Fix Chrome High CPU Usage When Gaming](/articles/how-to-fix-chrome-high-cpu-usage-gaming/)
+

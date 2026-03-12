@@ -64,3 +64,9 @@ Installing extensions from the official Chrome WebStore remains the safest appro
 Most extension installation problems are temporary and fixable. With patience and the right troubleshooting steps, you can get back to customizing your browser with the tools you need.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Limit Screen Time in Chrome with Extensions](/articles/chrome-limit-screen-time-with-extension/)
+* [Chrome Extensions for Musicians](/articles/chrome-extensions-for-musicians/)
+* [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/articles/chrome-coverage-tool-find-unused-css/)
+

@@ -105,4 +105,9 @@ Whether you are a web developer, a digital advertiser, or just someone intereste
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Shape Detection API Explained](/articles/chrome-shape-detection-api-explained/)
+* [chrome extensions for pdf editing free](/articles/chrome-extensions-for-pdf-editing-free/)
+* [Chrome for Resume Building Web Tools](/articles/chrome-for-resume-building-web-tools/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

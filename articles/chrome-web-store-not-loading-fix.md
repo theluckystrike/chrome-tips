@@ -77,4 +77,9 @@ Sometimes Google experiences temporary outages that affect the Chrome Web Store.
 
 Remember that most Chrome Web Store loading issues can be resolved with the troubleshooting steps outlined in this guide. Start with the simplest solutions and work your way up to more dramatic measures like resetting Chrome. With patience and systematic testing, you can get back to installing and using the extensions you need.
 
+## Related Articles
+* [Chrome Extensions for News Aggregator](/articles/chrome-extensions-for-news-aggregator/)
+* [Chrome Extensions for Google Drive](/articles/chrome-extensions-for-google-drive/)
+* [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

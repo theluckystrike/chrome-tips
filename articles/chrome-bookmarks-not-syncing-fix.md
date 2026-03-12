@@ -103,4 +103,9 @@ Third, periodically check that you are still signed into the same Google account
 
 With these steps, your Chrome bookmarks should stay synchronized across all your devices, making it easy to access your saved links whether you are using your computer, phone, or tablet.
 
+## Related Articles
+* [Chrome Password Checkup Tool Guide](/articles/chrome-password-checkup-tool/)
+* [How to Change Chrome Font Size Permanently](/articles/chrome-font-size-permanently-change/)
+* [Chrome Lite Mode Replacement 2026](/articles/chrome-lite-mode-replacement-2026/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

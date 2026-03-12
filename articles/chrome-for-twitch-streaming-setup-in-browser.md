@@ -76,3 +76,9 @@ During your stream, keep an eye on Chrome's performance. If you notice lag or fr
 After your stream, take note of what worked well and what could be improved. Streaming from a browser is a skill that improves with practice, and each broadcast gives you valuable experience to refine your setup.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Tab Sleeping Automatically](/articles/chrome-extensions-for-tab-sleeping-automatically/)
+* [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/articles/chrome-your-computer-is-infected-popup-fix/)
+* [How to Reset Chrome to Default Settings](/articles/how-to-reset-chrome-to-default-settings/)
+

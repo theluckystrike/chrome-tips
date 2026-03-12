@@ -58,3 +58,9 @@ Give yourself a little time to get used to the new feature. At first, you might 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Extensions for IP Address Lookup](/articles/chrome-extensions-for-ip-address-lookup/)
+* [Chrome Auto Dark Mode for Web Contents](/articles/chrome-auto-dark-mode-for-web-contents/)
+* [Chrome Best Note Taking Extension 2026](/articles/chrome-best-note-taking-extension-2026/)
+

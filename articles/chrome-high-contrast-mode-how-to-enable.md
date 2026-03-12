@@ -80,3 +80,9 @@ High contrast mode makes browsing much easier for users with vision challenges o
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Full Screen Mode How to Exit Stuck](/articles/chrome-full-screen-mode-how-to-exit-stuck/)
+* [Chrome Screen Sharing in Browser How To](/articles/chrome-screen-sharing-in-browser-how-to/)
+* [Chrome Extensions for Website Dark Mode Forced](/articles/chrome-extensions-for-website-dark-mode-forced/)
+

@@ -68,4 +68,9 @@ The best chrome extension for taking notes while browsing is the one you actuall
 
 Over time, you will find that having a way to capture thoughts directly within your browser makes your online research and work much more efficient. No more switching between apps, no more lost ideas, and no more forgetting important details. Just smooth, integrated note-taking that fits seamlessly into your browsing experience.
 
+## Related Articles
+* [Chrome Net Internals How to Use](/articles/chrome-net-internals-how-to-use/)
+* [Chrome Not Responding How to Force Close Safely](/articles/chrome-not-responding-how-to-force-close-safely/)
+* [chrome extensions for privacy badger alternative](/articles/chrome-extensions-for-privacy-badger-alternative/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

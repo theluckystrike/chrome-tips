@@ -96,4 +96,9 @@ Running Chrome's security checkup is one of the simplest ways to maintain good b
 
 Make it a point to run the security checkup regularly and address any issues it finds promptly. A few minutes of attention now can prevent much bigger problems down the road.
 
+## Related Articles
+* [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs/)
+* [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained/)
+* [Chrome Tab Management Shortcuts Cheat Sheet](/articles/chrome-tab-management-shortcuts-cheat-sheet/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

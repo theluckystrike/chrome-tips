@@ -62,3 +62,9 @@ To get the best experience with voice recognition in Chrome, make sure your micr
 Chrome Speech Recognition API explained is really about understanding how your browser enables voice interaction with websites. This technology has made the web more accessible and convenient, allowing people to type, search, and navigate using just their voice. Whether you are using it for accessibility reasons or just for convenience, knowing how it works helps you troubleshoot issues and make informed decisions about browser settings and extensions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Save Page as Shortcut](/articles/chrome-save-page-as-shortcut/)
+* [Chrome Tab Discarding What It Means](/articles/chrome-tab-discarding-what-it-means/)
+* [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained/)
+

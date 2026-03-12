@@ -61,3 +61,9 @@ MIDI connectivity issues in Chrome can be frustrating, especially when you just 
 With a few simple adjustments, your MIDI keyboard, controller, or other hardware should connect reliably to your favorite web-based music tools, letting you focus on what matters most: creating music.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Performance Panel for Regular Users](/articles/chrome-performance-panel-for-regular-users/)
+* [Chrome Extensions for Web Scraping Without Code](/articles/chrome-extensions-for-web-scraping-without-code/)
+* [Chrome Intersection Observer API Explained](/articles/chrome-intersection-observer-api-explained/)
+

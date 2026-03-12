@@ -62,4 +62,9 @@ Enabling DNS prefetching in Chrome takes just a few minutes and does not require
 
 Try browsing the way you normally do after enabling this feature. You may find that the slight delay you used to notice before pages started loading has disappeared. Combined with other optimizations like managing your tabs and keeping Chrome updated, DNS prefetching can help make your browsing experience feel snappier and more responsive.
 
+## Related Articles
+* [Chrome Shape Detection API – Barcode, Face & Text Recognition Directly in Your Browser](/articles/chrome-shape-detection-barcode-face-text/)
+* [Chrome for Binance Web Trading Tips](/articles/chrome-for-binance-web-trading-tips/)
+* [Chrome Extensions For Email Finder](/articles//articles/chrome-extensions-for-email-finder//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

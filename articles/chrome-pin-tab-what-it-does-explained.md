@@ -128,4 +128,9 @@ Now you have a complete understanding of what chrome pin tab what it does and ho
 
 Give it a try with one or two websites you access multiple times daily. You might find that this small change makes a big difference in how efficiently you work in your browser.
 
+## Related Articles
+* [Chrome vs Edge Battery Life Laptop Comparison](/articles/chrome-vs-edge-battery-life-laptop-comparison/)
+* [Chrome vs Vivaldi: Which Is More Customizable](/articles/chrome-vs-vivaldi-which-is-more-customizable/)
+* [chrome vs firefox extensions comparison](/articles/chrome-vs-firefox-extensions-comparison/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

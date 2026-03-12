@@ -73,3 +73,9 @@ Tablet optimization is not a one-time fix. Every few weeks, take a moment to clo
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead/)
+* [Chrome Startup Pages Configuration](/articles/chrome-startup-pages-config/)
+* [Chrome Extensions for WebRTC Leak Prevention](/articles/chrome-extensions-for-webrtc-leak-prevention/)
+

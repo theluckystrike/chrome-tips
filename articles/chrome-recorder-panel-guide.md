@@ -117,4 +117,9 @@ Remember to explore all the features we covered in this guide, experiment with d
 
 ---
 
+## Related Articles
+* [Best Chrome Extensions for Recruiters](/articles/best-chrome-extensions-for-recruiters/)
+* [Chrome Element Internals and Custom Elements: A Complete Guide](/articles/chrome-element-internals-custom-elements/)
+* [Chrome Too Many Redirects Error Fix](/articles/chrome-too-many-redirects-error-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

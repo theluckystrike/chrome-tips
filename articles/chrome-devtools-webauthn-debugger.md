@@ -81,3 +81,9 @@ For users who want a smoother experience, extensions like Tab Suspender Pro can 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Make Chrome Open Links in a New Tab](/articles/how-to-make-chrome-open-links-in-new-tab/)
+* [Chrome DevTools Override Files Locally](/articles/chrome-devtools-override-files-locally/)
+* [Chrome DNS Probe Finished Nxdomain Fix](/articles/chrome-dns-probe-finished-nxdomain-fix/)
+

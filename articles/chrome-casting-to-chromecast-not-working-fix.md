@@ -82,3 +82,9 @@ Casting from Chrome to Chromecast is incredibly useful when it works, and most o
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome NordVPN Extension vs ExpressVPN Extension](/articles/chrome-nordvpn-extension-vs-expressvpn-extension/)
+* [Chrome QR Code for Page How to Generate](/articles/chrome-qr-code-for-page-how-to-generate/)
+* [Chrome Task Manager vs Windows Task Manager: What's the Difference?](/articles/chrome-task-manager-vs-windows-task-manager/)
+

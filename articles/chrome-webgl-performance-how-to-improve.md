@@ -62,3 +62,9 @@ If you use WebGL frequently and your computer struggles, consider upgrading your
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Best Chrome Extensions for Writers 2026](/articles/best-chrome-extensions-for-writers-2026/)
+* [Chrome vs Edge Memory Usage Comparison](/articles/chrome-vs-edge-memory-usage-comparison/)
+* [Chrome Web Share API Explained](/articles/chrome-web-share-api-explained/)
+

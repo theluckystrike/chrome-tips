@@ -119,4 +119,9 @@ Chrome lagging on a 4GB RAM computer is frustrating, but it does not mean you ha
 
 Start with Memory Saver and Tab Suspender Pro, as these two changes typically have the biggest impact. Combined with keeping your tab count reasonable, you should see a noticeable improvement in how smoothly Chrome runs on your computer.
 
+## Related Articles
+* [Chrome Extensions Conflict With Each Other Fix](/articles/chrome-extensions-conflict-with-each-other-fix/)
+* [Chrome Back Button Not Working Fix](/articles/chrome-back-button-not-working-fix/)
+* [Chrome Service Worker Debugging Guide](/articles/chrome-service-worker-debugging/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

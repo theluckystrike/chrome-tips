@@ -67,3 +67,9 @@ You do not need to be a technical expert to protect yourself. Simple changes lik
 Your online identity belongs to you, and you have the right to control who can access information about you. Take the time to review your current setup and make the changes that feel right for your situation. Every step you take toward better privacy makes it harder for trackers to build a complete picture of who you are.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Target Web App Best Extensions](/articles/chrome-for-target-web-app-best-extensions/)
+* [Chrome Web Vitals Optimization Guide](/articles/chrome-web-vitals-optimization/)
+* [Chrome Recorder and DevTools: A Guide to Test Automation](/articles/chrome-recorder-devtools-test-automation/)
+

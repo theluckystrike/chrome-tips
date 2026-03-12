@@ -81,3 +81,9 @@ Finding safe extensions in the Chrome Web Store does not require technical knowl
 Start by checking the reviews and update history before installing anything. Make sure the permissions make sense for what the extension claims to do. Keep only the extensions you really need, and stay aware of how they are behaving. These small steps add up to a much safer browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Google Workspace Integration Tips](/articles/chrome-google-workspace-integration-tips/)
+* [Chrome Shared Storage and Cross-Site Data Explained](/articles/chrome-shared-storage-cross-site-data/)
+* [Chrome Tab Limit: Is There a Maximum?](/articles/chrome-tab-limit-is-there-a-maximum/)
+

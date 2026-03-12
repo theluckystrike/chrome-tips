@@ -73,3 +73,9 @@ Many extensions offer free versions with limited features, letting you try befor
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Runway ML Web App](/articles/chrome-for-runway-ml-web-app/)
+* [chrome privacy sandbox explained simply](/articles/chrome-privacy-sandbox-explained-simply/)
+* [How to Find Which Extension is Slowing Chrome](/articles/how-to-find-which-extension-is-slowing-chrome/)
+

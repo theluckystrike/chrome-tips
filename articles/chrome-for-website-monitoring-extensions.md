@@ -88,3 +88,9 @@ Give these extensions a try with just a page or two, see how they work for your 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Extensions for Auto Tab Closer](/articles/chrome-extensions-for-auto-tab-closer/)
+* [How to Remove Unwanted Toolbars in Chrome: Complete Guide](/articles/chrome-unwanted-toolbar-remove-guide/)
+* [chrome for vpn extensions comparison](/articles/chrome-for-vpn-extensions-comparison/)
+

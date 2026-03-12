@@ -65,4 +65,9 @@ Chrome airplay support how to use is a common question because the answer is not
 
 If AirPlay is essential for your daily workflow, using Safari on a Mac or investing in a Chromecast might save you time and frustration. However, with a little setup, you can make Chrome work well enough for most streaming needs.
 
+## Related Articles
+* [Chrome Bookmarks Disappeared After Update: Complete Recovery Guide](/articles/chrome-bookmarks-disappeared-after-update/)
+* [How to Move Chrome Tabs Between Windows Easily](/articles/how-to-move-chrome-tabs-between-windows-easily/)
+* [Chrome Preloading Pages Should I Enable It](/articles/chrome-preloading-pages-should-i-enable-it/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

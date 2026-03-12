@@ -68,3 +68,9 @@ The chrome developer tools shortcut is one of those small changes that can make 
 Try using the F12 or Ctrl+Shift+I shortcut today. It takes only a moment to learn, and you will find yourself reaching for it naturally every time you need to open developer tools. The more you practice, the faster it becomes, and the more efficient your browser workflow will be.
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Geolocation Permission Settings](/articles/chrome-geolocation-permission-settings/)
+* [Chrome Helper Renderer High CPU Mac Fix](/articles/chrome-helper-renderer-high-cpu-mac-fix/)
+* [Chrome for Dropshipping: Best Extensions](/articles/chrome-for-dropshipping-best-extensions/)
+

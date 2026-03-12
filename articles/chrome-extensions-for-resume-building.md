@@ -82,3 +82,9 @@ Start by trying a few extensions, see what works for your workflow, and build fr
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Best Chrome Extensions for Recruiters](/articles/best-chrome-extensions-for-recruiters/)
+* [Chrome Cache API Tutorial for Beginners](/articles/chrome-cache-api-tutorial-for-beginners/)
+* [chrome for odysee web player tips](/articles/chrome-for-odysee-web-player-tips/)
+

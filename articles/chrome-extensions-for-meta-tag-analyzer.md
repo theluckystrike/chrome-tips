@@ -70,3 +70,9 @@ Once you have the right chrome extensions for meta tag analyzer in your toolkit,
 Remember that meta tags are not a one-time setup. As you add new content to your website, make it a habit to check that each new page has appropriate metadata. With the right extensions, this takes just a few seconds and helps ensure that your pages are always presenting their best face to the world.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension/)
+* [Chrome Animation Performance Guide](/articles/chrome-animation-performance/)
+* [Chrome Extensions Disabled by Administrator Fix](/articles/chrome-extensions-disabled-by-administrator-fix/)
+

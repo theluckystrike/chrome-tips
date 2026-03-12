@@ -69,4 +69,9 @@ Set a reminder to clean up your tabs at the end of each day or week. Close tabs 
 
 With the chrome tab search shortcut and a few organizational strategies, you can quickly find any tab in your browser no matter how many you have open. Whether you rely on the built-in tools or supplement them with an extension like Tab Suspender Pro, taking a few moments to manage your tabs effectively will make your browsing experience much more efficient and less stressful.
 
+## Related Articles
+* [chrome safe browsing enhanced vs standard](/articles/chrome-safe-browsing-enhanced-vs-standard/)
+* [Chrome for Cloud Gaming Best Settings](/articles/chrome-for-cloud-gaming-best-settings/)
+* [Chrome for Custom Search Engines Setup](/articles/chrome-for-custom-search-engines-setup/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

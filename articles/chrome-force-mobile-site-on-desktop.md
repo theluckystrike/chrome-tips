@@ -58,3 +58,9 @@ If you are using extensions, keep them updated to ensure they work with the late
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Restore Tabs Not Working After Update: Practical Fixes](/articles/chrome-restore-tabs-not-working-after-update/)
+* [Chrome for WordPress Best Extensions](/articles/chrome-for-wordpress-best-extensions/)
+* [Chrome Address Bar Focus Shortcut](/articles/chrome-address-bar-focus-shortcut/)
+

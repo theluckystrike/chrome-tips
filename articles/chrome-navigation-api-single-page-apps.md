@@ -88,4 +88,9 @@ The web platform is constantly evolving, and the Navigation API is part of this 
 
 Whether you are building a new single page app or improving an existing one, the Chrome Navigation API provides the foundation for reliable, performant navigation that users expect from modern web applications.
 
+## Related Articles
+* [Chrome Google Maps Keyboard Shortcuts](/articles/chrome-google-maps-keyboard-shortcuts/)
+* [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix/)
+* [chrome network throttling test slow connection](/articles/chrome-network-throttling-test-slow-connection/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

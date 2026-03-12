@@ -73,4 +73,9 @@ Celebrate your progress. When you complete a focused work session, acknowledge i
 
 ---
 
+## Related Articles
+* [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings/)
+* [Chrome CSS Grid Layout Complete Guide](/articles//chrome-css-grid-layout-complete-guide//)
+* [chrome extension rejected common reasons fix](/articles/chrome-extension-rejected-common-reasons-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

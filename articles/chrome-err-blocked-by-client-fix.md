@@ -93,4 +93,9 @@ Remember that some blocking is there to protect you. Only disable blockers on si
 
 ---
 
+## Related Articles
+* [Chrome Address Bar Commands You Didnt Know](/articles/chrome-address-bar-commands-you-didnt-know/)
+* [Chrome Extensions For Calendar Integration](/articles//articles/chrome-extensions-for-calendar-integration//)
+* [Best Chrome Extensions for Researchers](/articles/best-chrome-extensions-for-researchers/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -95,3 +95,9 @@ Chrome sync between devices is incredibly useful when it works, and most of the 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome taking too long to open fix](/articles/chrome-taking-too-long-to-open-fix/)
+* [chrome for rumble web player settings](/articles/chrome-for-rumble-web-player-settings/)
+* [Chrome vs Edge Extensions Compatibility](/articles/chrome-vs-edge-extensions-compatibility/)
+

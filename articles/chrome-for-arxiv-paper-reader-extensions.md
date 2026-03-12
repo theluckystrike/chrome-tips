@@ -54,3 +54,9 @@ Everyone reads and processes information differently, so the best combination of
 The key is to start with one or two extensions that address your biggest frustration with reading Arxiv papers, see how they work for you, and then add more tools only if needed. This approach prevents overwhelm and helps you build a setup that truly enhances your research reading experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Energy Saver Mode Explained](/articles/chrome-energy-saver-mode-explained/)
+* [Chrome Version History: Major Milestones That Shaped the Browser](/articles/chrome-version-history-major-milestones/)
+* [Chrome Extensions for Auto Refresh Page](/articles/chrome-extensions-for-auto-refresh-page/)
+

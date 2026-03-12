@@ -70,4 +70,9 @@ Using a combination of Chrome built-in tools and a thoughtful approach to tab ma
 
 Chrome AI tab organization feature is a useful addition to the browser that addresses a real problem many people face. It is not a complete solution on its own, but it does make it easier to manage a large number of tabs without as much manual effort. Try using the feature when you have several tabs open and see if it helps you stay organized. Combined with good habits like closing unused tabs and using bookmarks, you might find that tab clutter becomes a thing of the past.
 
+## Related Articles
+* [Chrome Passwords on Phone How to View](/articles/chrome-passwords-on-phone-how-to-view/)
+* [How to Close All Chrome Tabs at Once](/articles/how-to-close-all-chrome-tabs-at-once/)
+* [Chrome for MDN Web Docs Extension](/articles/chrome-for-mdn-web-docs-extension/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

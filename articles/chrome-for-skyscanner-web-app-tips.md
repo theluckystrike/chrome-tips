@@ -69,3 +69,9 @@ Instead of just opening Skyscanner in a regular tab, you can install it as a web
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord//)
+* [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android/)
+* [Chrome vs Edge Memory Usage Comparison](/articles/chrome-vs-edge-memory-usage-comparison/)
+

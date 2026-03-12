@@ -80,3 +80,9 @@ As web applications continue to evolve, features like file handling are making t
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [How to Change Your Chrome New Tab Background to a Custom Image](/articles/chrome-new-tab-background-change-custom-image/)
+* [chrome prefetch dns how to enable](/articles/chrome-prefetch-dns-how-to-enable/)
+* [Chrome Memory Leak Fix for 2026](/articles/chrome-memory-leak-fix-2026/)
+

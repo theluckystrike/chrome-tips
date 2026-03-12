@@ -86,4 +86,9 @@ For now, the AI summary feature in Chrome's Reading Mode is a valuable tool that
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Rain Sounds](/articles/chrome-extensions-for-rain-sounds/)
+* [Chrome Freezes When Opening New Tab Fix](/articles/chrome-freezes-when-opening-new-tab-fix/)
+* [Chrome Screen Wake Lock API Explained](/articles/chrome-screen-wake-lock-api-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

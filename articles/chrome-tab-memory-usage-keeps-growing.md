@@ -94,4 +94,9 @@ Upgrading your computer's RAM, if possible, provides the most direct solution. E
 
 For users who must use Chrome, combining multiple solutions typically works best. Enable Memory Saver, use Tab Suspender Pro, keep extensions to a minimum, and develop good tab management habits. This multi-layered approach addresses the various factors that cause chrome tab memory usage keeps growing.
 
+## Related Articles
+* [Chrome Not Secure Warning What to Do](/articles/chrome-not-secure-warning-what-to-do/)
+* [Chrome Preloading Pages Should I Enable It](/articles/chrome-preloading-pages-should-i-enable-it/)
+* [Chromebook Guest Mode What It Does](/articles/chromebook-guest-mode-what-it-does/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

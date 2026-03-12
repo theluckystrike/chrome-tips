@@ -105,4 +105,9 @@ Removing unwanted toolbars from Chrome is usually straightforward once you know 
 
 Remember: the best defense is prevention. Be mindful of what you install, and your Chrome browser will stay clean and fast.
 
+## Related Articles
+* [Chrome Extensions for Grammar Check Free Alternative](/articles/chrome-extensions-for-grammar-check-free-alternative/)
+* [Chrome Permission Denied How to Fix](/articles/chrome-permission-denied-how-to-fix/)
+* [Chrome for Mendeley Web Importer Tips](/articles/chrome-for-mendeley-web-importer-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

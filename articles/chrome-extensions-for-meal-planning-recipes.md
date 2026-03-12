@@ -68,3 +68,9 @@ Give yourself time to build the habit. Plan to spend 15 or 20 minutes on a weeke
 The best approach is to keep it simple at first. You do not need every feature immediately. Start with saving your favorite recipes and making a shopping list, then add calendar planning or discovery features once those habits are solid. Meal planning should make your life easier, not more complicated, and the right extensions will do exactly that.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Customize Chrome Toolbar](/articles/how-to-customize-chrome-toolbar/)
+* [Chrome Devtools Application Panel Explained](/articles//chrome-devtools-application-panel-explained//)
+* [Chrome for Streamlabs Web Dashboard](/articles/chrome-for-streamlabs-web-dashboard/)
+

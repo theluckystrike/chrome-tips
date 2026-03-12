@@ -85,4 +85,9 @@ Many users find that a balanced approach works best. They enable one or two feat
 
 ---
 
+## Related Articles
+* [chrome reopen accidentally closed tab how](/articles/chrome-reopen-accidentally-closed-tab-how/)
+* [Chrome Web App vs Native App Battery Comparison](/articles/chrome-web-app-vs-native-app-battery-comparison/)
+* [Chrome Bookmarks File Location and Backup Guide](/articles/chrome-bookmarks-file-location-backup/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

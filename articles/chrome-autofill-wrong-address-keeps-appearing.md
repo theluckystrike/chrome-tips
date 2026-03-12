@@ -111,4 +111,9 @@ While you're optimizing Chrome's settings, consider installing **Tab Suspender P
 
 ---
 
+## Related Articles
+* [Chrome Touchpad Gestures Not Working Fix](/articles/chrome-touchpad-gestures-not-working-fix/)
+* [Chrome Audio Fingerprinting What It Is](/articles/chrome-audio-fingerprinting-what-it-is/)
+* [Chrome Status Bar Where Did It Go](/articles/chrome-status-bar-where-did-it-go/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -119,4 +119,9 @@ The goal is to free up as much memory as possible for Google Docs to use. With f
 
 Give these fixes a try. Your patience (and your computer) will thank you.
 
+## Related Articles
+* [Chrome Layer CSS Cascade Layers Explained](/articles/chrome-layer-css-cascade-layers-explained/)
+* [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix/)
+* [Chrome for Autofill Credit Card Safety](/articles/chrome-for-autofill-credit-card-safety/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

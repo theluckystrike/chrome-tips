@@ -60,4 +60,9 @@ If you find that managing your browser and dealing with permission issues feels 
 
 Using tools like this, combined with regular attention to your browser settings, can give you a smoother and more controlled browsing experience.
 
+## Related Articles
+* [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained/)
+* [Chrome Web Notifications Best Practices](/articles/chrome-web-notifications-best-practices/)
+* [Chrome Microsoft Teams Web Slow Fix](/articles/chrome-microsoft-teams-web-slow-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

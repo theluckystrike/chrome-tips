@@ -63,3 +63,9 @@ Chrome for calendar management extensions can significantly improve how you orga
 Remember that the goal is not to spend more time managing your calendar but to spend less time worrying about what you might have forgotten. With the right tools in place, you can focus on your work knowing that your schedule is under control.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Downloads Not Starting Fix](/articles/chrome-downloads-not-starting-fix/)
+* [Chrome Location Access on Phone How to Control](/articles/chrome-location-access-on-phone-how-to-control/)
+* [Chrome Timeline Recording Explained](/articles/chrome-timeline-recording-explained/)
+

@@ -72,4 +72,9 @@ As Chrome continues to evolve, taking a moment to learn about new features helps
 
 ---
 
+## Related Articles
+* [Chrome Performance Getting Worse Over Time](/articles/chrome-performance-getting-worse-over-time/)
+* [Chrome Live Captions How to Turn On](/articles/chrome-live-captions-how-to-turn-on/)
+* [Chrome Upcoming Features Preview 2026](/articles/chrome-upcoming-features-preview-2026/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

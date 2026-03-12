@@ -88,3 +88,9 @@ Give the Web Serial API a try with your compatible devices. You might find that 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Flags on Android Best to Enable](/articles/chrome-flags-on-android-best-to-enable/)
+* [Chrome Extensions for Musicians](/articles/chrome-extensions-for-musicians/)
+* [Chrome Bookmark Bar Disappeared How to Get Back](/articles/chrome-bookmark-bar-disappeared-how-to-get-back/)
+

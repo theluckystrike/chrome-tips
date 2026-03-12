@@ -81,3 +81,9 @@ Regular maintenance helps too. Periodically check which PWAs you have installed 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions Update Frequency Explained](/articles/chrome-extensions-update-frequency-explained/)
+* [Chrome Pinned Tabs Explained](/articles/chrome-pinned-tabs-explained/)
+* [Chrome Extension for Managing Multiple Email Accounts](/articles/chrome-extension-for-managing-multiple-email-accounts/)
+

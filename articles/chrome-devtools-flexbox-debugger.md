@@ -67,3 +67,9 @@ The flexbox debugger in Chrome DevTools is one of those tools that becomes indis
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Spectre Attack Protection in Browser](/articles/chrome-spectre-attack-protection-in-browser/)
+* [Chrome iPhone Widgets How to Set Up](/articles/chrome-iphone-widgets-how-to-set-up/)
+* [Chrome Extensions for Tab Sleeping Automatically](/articles/chrome-extensions-for-tab-sleeping-automatically/)
+

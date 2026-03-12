@@ -89,3 +89,9 @@ Every few weeks, take five minutes to sit down with your child and look at their
 Making Chrome kid-friendly is a journey, not a destination. As your child grows and their needs change, you'll want to adjust these settings and tools accordingly. By combining robust built-in features like Google Family Link with smart performance tools like **Tab Suspender Pro** and ongoing parental involvement, you can create a digital environment that is as safe as it is educational. The web is a vast and wonderful resource; with the right setup, your child can explore it with confidence and security.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Fix Chrome Search Bar Not Working](/articles/chrome-search-bar-not-working-fix/)
+* [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained/)
+* [Chrome Accessibility Shortcuts For Screen Reader](/articles/chrome-accessibility-shortcuts-for-screen-reader/)
+

@@ -85,3 +85,9 @@ Remember that DNS over HTTPS is just one piece of the privacy puzzle. Your inter
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Cookie Consent Popups How to Auto Accept](/articles/chrome-cookie-consent-popups-how-to-auto-accept/)
+* [Chrome High Disk Usage Fix Windows](/articles/chrome-high-disk-usage-fix-windows/)
+* [Chrome Audio Fingerprinting What It Is](/articles/chrome-audio-fingerprinting-what-it-is/)
+

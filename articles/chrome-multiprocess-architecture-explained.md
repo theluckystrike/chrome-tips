@@ -76,4 +76,9 @@ Understanding how this architecture works helps you make informed decisions abou
 
 ---
 
+## Related Articles
+* [Chrome Extensions for YouTube Productivity](/articles/chrome-extensions-for-youtube-productivity/)
+* [How to Use Chrome for Multiple Work Accounts](/articles/how-to-use-chrome-for-multiple-work-accounts/)
+* [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

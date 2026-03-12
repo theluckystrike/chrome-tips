@@ -88,3 +88,9 @@ Custom search engines are one of those Chrome features that many people do not k
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Toolbar Missing Fix](/articles/chrome-toolbar-missing-fix/)
+* [Chrome Extensions for Microsoft Teams](/articles/chrome-extensions-for-microsoft-teams/)
+* [chrome sandbox mode explained](/articles/chrome-sandbox-mode-explained/)
+

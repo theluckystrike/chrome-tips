@@ -66,3 +66,9 @@ Remember that user agent switching is not a complete privacy solution. Websites 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Best Chrome Extensions for Researchers](/articles/best-chrome-extensions-for-researchers/)
+* [chrome file handling api explained](/articles/chrome-file-handling-api-explained/)
+* [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/articles/chrome-coverage-tool-find-unused-css/)
+

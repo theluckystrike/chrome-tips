@@ -94,4 +94,9 @@ Start with the option that matches your current browser. Try it for a week and s
 
 The goal is to make your reading comfortable and distraction-free without adding unnecessary complexity to your browsing routine.
 
+## Related Articles
+* [Chrome Startup Pages How to Set Multiple](/articles/chrome-startup-pages-how-to-set-multiple/)
+* [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup/)
+* [Chrome Slow on Chromebook? Here's How to Fix It](/articles/chrome-slow-on-chromebook-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

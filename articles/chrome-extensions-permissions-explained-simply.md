@@ -95,3 +95,9 @@ Understanding chrome extensions permissions explained simply puts you in control
 The next time you see a permission popup, do not just click through automatically. Read what it says, think about whether it makes sense, and only proceed if you feel comfortable. Your data and your privacy are worth those few extra seconds of attention.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Search Open Chrome Tabs](/articles/how-to-search-open-chrome-tabs/)
+* [Chrome Accessibility Features You Didn't Know About](/articles/chrome-accessibility-features-you-didnt-know-about/)
+* [chrome vs firefox memory usage 2026 actual test](/articles/chrome-vs-firefox-memory-usage-2026-actual-test/)
+

@@ -75,4 +75,9 @@ The time you invest in setting up a good bibliography system will pay dividends 
 
 ---
 
+## Related Articles
+* [Chrome DevTools Protocol Monitor](/articles/chrome-protocol-monitor-guide/)
+* [How to Use Chrome DevTools Device Orientation Emulator](/articles//chrome-devtools-device-orientation-emulator//)
+* [Chrome Using Too Much Disk Space Fix](/articles/chrome-using-too-much-disk-space-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

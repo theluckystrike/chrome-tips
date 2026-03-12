@@ -74,3 +74,9 @@ Learning chrome gmail keyboard shortcuts is one of the simplest ways to improve 
 Browser performance matters too. If your Chrome browser feels sluggish with all your tabs open, consider using Tab Suspender Pro to keep things running smoothly. A responsive browser makes your shortcuts feel instantaneous and keeps your focus where it belongs, on your work.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Address Bar Shortcuts You Didn't Know](/articles/chrome-address-bar-shortcuts-you-didnt-know/)
+* [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix/)
+* [Chrome Custom Properties CSS Variables](/articles//chrome-custom-properties-css-variables//)
+

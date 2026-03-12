@@ -52,3 +52,9 @@ Regardless of which extension you choose, keeping too many saved pages and activ
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for URL Shortener](/articles/chrome-extensions-for-url-shortener/)
+* [Chrome Gap Property CSS Flexbox Grid](/articles/chrome-gap-property-css-flexbox-grid/)
+* [Chrome Hardware Acceleration Gaming: Complete Optimization Guide](/articles/chrome-hardware-acceleration-gaming/)
+

@@ -104,3 +104,9 @@ Finally, avoid keeping too many tabs open at once. Having dozens of open tabs ca
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome DevTools Workspaces Guide](/articles/chrome-workspaces-guide/)
+* [Chrome for Google Docs Offline Setup](/articles/chrome-for-google-docs-offline-setup/)
+* [Chrome Idle Detection API Explained: What It Means for Your Browser](/articles/chrome-idle-detection-api-explained/)
+

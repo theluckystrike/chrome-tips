@@ -80,3 +80,9 @@ Start with the method that matches your technical comfort level and specific nee
 Take some time to set up your preferred method, and enjoy a more productive and controlled browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Malware Removal Without Antivirus](/articles/chrome-malware-removal-without-antivirus/)
+* [Chrome for CodePen in Browser Tips](/articles/chrome-for-codepen-in-browser-tips/)
+* [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management/)
+

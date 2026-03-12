@@ -74,3 +74,9 @@ Taking control of JavaScript on a per-site basis gives you a more private, faste
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Payment Methods How to Remove](/articles/chrome-payment-methods-how-to-remove/)
+* [Why Is Chrome So Much Slower Than It Used to Be](/articles/why-is-chrome-so-much-slower-than-it-used-to-be/)
+* [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained/)
+

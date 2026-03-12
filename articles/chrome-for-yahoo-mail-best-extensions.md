@@ -68,3 +68,9 @@ Experiment with different combinations to find what works best for you. Most ext
 With the right extensions, Yahoo Mail in Chrome can become a more powerful and efficient tool. Take time to explore your options and build a setup that supports your unique email habits.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome DevTools Changes Panel to Track Edits](/articles//chrome-devtools-changes-panel-track-edits//)
+* [Chrome Google Sheets Keyboard Shortcuts](/articles/chrome-google-sheets-keyboard-shortcuts/)
+* [chrome extensions for graphic designers](/articles/chrome-extensions-for-graphic-designers/)
+

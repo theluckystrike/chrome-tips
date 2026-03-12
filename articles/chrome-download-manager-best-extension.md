@@ -71,3 +71,9 @@ If you frequently download large files, consider scheduling downloads during off
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Reader View on Any Website](/articles/chrome-for-reader-view-on-any-website/)
+* [chrome vs firefox memory usage 2026 actual test](/articles/chrome-vs-firefox-memory-usage-2026-actual-test/)
+* [Can Chrome Extensions Steal Your Data](/articles/can-chrome-extensions-steal-your-data/)
+

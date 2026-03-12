@@ -80,3 +80,9 @@ These small changes can make a big difference in how your Mac performs. Chrome i
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome/)
+* [Chrome for Google Maps Best Extensions](/articles/chrome-for-google-maps-best-extensions/)
+* [Chrome Extension Alternative to Grammarly Free](/articles/chrome-extension-alternative-to-grammarly-free/)
+

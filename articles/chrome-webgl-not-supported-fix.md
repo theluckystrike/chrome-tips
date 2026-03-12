@@ -82,3 +82,9 @@ If you find yourself relying on WebGL-enabled websites frequently and want addit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Android Tips To Save Data](/articles/chrome-android-tips-to-save-data/)
+* [chrome high contrast mode enable guide](/articles//chrome-high-contrast-mode-enable-guide//)
+* [Chrome Send Feedback to Google How to](/articles/chrome-send-feedback-to-google-how-to/)
+

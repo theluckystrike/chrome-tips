@@ -78,3 +78,9 @@ Consider keeping a few sample JSON files bookmarked for testing. This way, you c
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Persistent Storage Permission Explained](/articles/chrome-persistent-storage-permission-explained/)
+* [Chrome Extensions For Elderly Users Simple Tools](/articles//articles/chrome-extensions-for-elderly-users-simple-tools//)
+* [Chrome Extensions for Image Downloader Bulk](/articles/chrome-extensions-for-image-downloader-bulk/)
+

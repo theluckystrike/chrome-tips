@@ -77,3 +77,9 @@ Finally, test your recordings a few times to make sure they work consistently. W
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Zoom Level Per Site How to Set](/articles/chrome-zoom-level-per-site-how-to-set/)
+* [Chrome vs Samsung Internet on Android](/articles/chrome-vs-samsung-internet-on-android/)
+* [Chrome Periodic Background Sync Explained](/articles/chrome-periodic-background-sync-explained/)
+

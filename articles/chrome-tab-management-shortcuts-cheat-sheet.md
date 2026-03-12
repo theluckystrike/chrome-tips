@@ -73,4 +73,9 @@ While these built-in shortcuts cover most everyday needs, Chrome users who want 
 
 The extension handles everything in the background, so you do not need to manually manage which tabs should be active. You can customize how long to wait before suspending tabs and which sites should never be suspended. This automation takes the burden off remembering to close unused tabs while still keeping them available for quick access.
 
+## Related Articles
+* [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does/)
+* [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/articles/chrome-save-webpage-as-mhtml-offline/)
+* [chrome for google ads management tips](/articles/chrome-for-google-ads-management-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

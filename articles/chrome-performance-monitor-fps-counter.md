@@ -75,4 +75,9 @@ You might also want to monitor performance when visiting media-heavy sites like 
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Website Archiving](/articles/chrome-extensions-for-website-archiving/)
+* [Chrome Fullscreen Mode Shortcut](/articles/chrome-fullscreen-mode-shortcut/)
+* [Chrome Dyslexia Friendly Extensions](/articles/chrome-dyslexia-friendly-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

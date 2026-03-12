@@ -88,3 +88,9 @@ Start with the settings that will make the biggest impact for your JSFiddle work
 Once you have these basics in place, you will likely find that JSFiddle loads faster, your code runs more smoothly, and you can keep more fiddles open without everything grinding to a halt. These optimizations work together to create a more pleasant coding environment, letting you focus on writing great code rather than waiting for your browser to catch up.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Best Chrome Extensions for UX Designers](/articles/best-chrome-extensions-for-ux-designers/)
+* [Chrome for Research Workflow Best Setup](/articles/chrome-for-research-workflow-best-setup/)
+* [Best Chrome Extensions for Nurses](/articles/best-chrome-extensions-for-nurses/)
+

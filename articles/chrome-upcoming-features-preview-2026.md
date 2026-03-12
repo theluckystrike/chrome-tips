@@ -59,4 +59,9 @@ The address bar, also called the omnibox, is getting smarter too. It will better
 
 ---
 
+## Related Articles
+* [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure/)
+* [How to Check Which Chrome Tab Is Using Most Memory](/articles/how-to-check-which-chrome-tab-is-using-most-memory/)
+* [Chrome Attribution Reporting API Explained](/articles/chrome-attribution-reporting-api-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

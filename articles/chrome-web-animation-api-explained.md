@@ -51,3 +51,9 @@ The Web Animation API continues to evolve, with new features being added regular
 Modern web design increasingly relies on animation to guide users through interfaces, provide feedback, and create memorable experiences. The Web Animation API is the foundation that makes this possible, and it works quietly in the background every time you browse the web. Understanding what it does and how it benefits you helps you appreciate the attention to detail that goes into creating the websites you visit daily.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Application Panel Guide](/articles/chrome-application-panel-guide/)
+* [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow/)
+* [Best Chrome Extensions for Researchers](/articles/best-chrome-extensions-for-researchers/)
+

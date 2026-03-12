@@ -83,5 +83,9 @@ Many modern extensions are specifically designed to work within the **Side Panel
 
 However, keeping the **Side Panel** active while browsing resource-heavy sites can strain your **RAM**. This is where **Tab Suspender Pro** becomes incredibly useful. It automatically "hibernates" background tabs that you aren't currently viewing, freeing up **system resources** so the **Side Panel** remains fast and responsive. Whether you're searching through your **bookmarks** or using a **translation extension**, keeping your browser lean ensures a lag-free multitasking experience.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [How to Disable Chrome Notifications Permanently](/articles/how-to-disable-chrome-notifications-permanently/)
+* [Chrome Extensions on Android Is It Possible](/articles/chrome-extensions-on-android-is-it-possible/)
+* [Chrome Overscroll Behavior CSS](/articles/chrome-overscroll-behavior-css/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

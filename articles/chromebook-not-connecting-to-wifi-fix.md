@@ -88,3 +88,9 @@ While you are troubleshooting your WiFi issues, it is worth noting that Chrome e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome User Agent Switcher Explained](/articles/chrome-user-agent-switcher-explained/)
+* [Chrome Site Permissions How to Manage](/articles/chrome-site-permissions-how-to-manage/)
+* [chrome extensions for similar image finder](/articles/chrome-extensions-for-similar-image-finder/)
+

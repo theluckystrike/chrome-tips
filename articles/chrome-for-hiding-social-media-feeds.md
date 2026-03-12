@@ -60,3 +60,9 @@ Remember that the goal is not perfection but progress. Some days you will be mor
 With the right tools and strategies, you can enjoy social media on your own terms without letting it control your time and attention. Chrome provides plenty of options to help you achieve this balance, and a small investment in setting up your browser can pay off significantly in improved productivity and mental clarity.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Do Chrome Extensions Slow Down Your Browser](/articles/do-chrome-extensions-slow-down-your-browser/)
+* [Chrome V8 Engine What It Means for Users](/articles/chrome-v8-engine-what-it-means-for-users/)
+* [chrome web bluetooth how to use](/articles/chrome-web-bluetooth-how-to-use/)
+

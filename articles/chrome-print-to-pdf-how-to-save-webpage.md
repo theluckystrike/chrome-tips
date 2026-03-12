@@ -96,4 +96,9 @@ Remember that PDFs keep your text searchable and selectable, making them more us
 
 ---
 
+## Related Articles
+* [Chrome for Travel Planning: Best Extensions](/articles/chrome-for-travel-planning-best-extensions/)
+* [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization/)
+* [Chrome Background Tabs Slowing Down Computer Fix](/articles/chrome-background-tabs-slowing-down-computer-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

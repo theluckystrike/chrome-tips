@@ -102,5 +102,9 @@ Tab Suspender Pro is an extension that automatically suspends tabs you are not c
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [How to Group Tabs in Chrome 2026](/articles/how-to-group-tabs-in-chrome-2026/)
+* [Chrome Extension for Blocking Cookie Popups](/articles/chrome-extension-for-blocking-cookie-popups/)
+* [Chrome Animation Performance Guide](/articles/chrome-animation-performance/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

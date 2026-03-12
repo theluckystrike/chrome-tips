@@ -77,4 +77,9 @@ Take your time browsing through the options. The Chrome Web Store has many free 
 
 ---
 
+## Related Articles
+* [Chrome Mixed Content Warning What It Means](/articles/chrome-mixed-content-warning-what-it-means/)
+* [Chrome Extensions for Research Papers](/articles/chrome-extensions-for-research-papers/)
+* [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

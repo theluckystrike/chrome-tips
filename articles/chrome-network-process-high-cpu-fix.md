@@ -88,3 +88,9 @@ Monitor your extensions and remove any that you no longer use. Each extension ad
 Finally, pay attention to how your browser behaves. If you notice new slowdowns after installing an extension or visiting a particular website, take action immediately. Catching problems early prevents them from becoming persistent issues that are harder to fix.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome User Agent Switcher Explained](/articles/chrome-user-agent-switcher-explained/)
+* [chrome videos buffering slow fix](/articles/chrome-videos-buffering-slow-fix/)
+* [chrome webgpu gaming in browser future](/articles/chrome-webgpu-gaming-in-browser-future/)
+

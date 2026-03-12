@@ -67,3 +67,9 @@ Make it a habit to close tabs you don't need and update Chrome regularly. These 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Enterprise Features for Business: A Complete Guide](/articles/chrome-enterprise-features-for-business/)
+* [How to Inspect and Debug WebSocket Connections in Chrome](/articles/chrome-websocket-inspect-debug/)
+* [chrome classroom extension for teachers](/articles/chrome-classroom-extension-for-teachers/)
+

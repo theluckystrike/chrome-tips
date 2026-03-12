@@ -82,3 +82,9 @@ If you encounter a website where the dark mode does not look quite right, most e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Etsy Sellers](/articles//articles/chrome-extensions-for-etsy-sellers//)
+* [chrome report broken website how to](/articles/chrome-report-broken-website-how-to/)
+* [Chrome Restore Tabs Not Working After Update: Practical Fixes](/articles/chrome-restore-tabs-not-working-after-update/)
+

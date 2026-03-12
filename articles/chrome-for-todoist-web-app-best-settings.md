@@ -84,3 +84,9 @@ Go to Settings and click Sync and Google services. Make sure "Sync" is turned on
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension/)
+* [Chrome Offline Google Calendar](/articles/chrome-offline-google-calendar/)
+* [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users/)
+

@@ -91,3 +91,9 @@ Remember that security keys are optional, and you can always keep your other ver
 The shift toward stronger authentication is happening across the internet, and security keys are leading the way. By learning how to use one now, you are taking an important step toward a more secure online life.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Skillshare Web App Setup](/articles/chrome-for-skillshare-web-app-setup/)
+* [chrome shared storage api privacy impact](/articles/chrome-shared-storage-api-privacy-impact/)
+* [Chrome Settings You Should Change Right Now](/articles/chrome-settings-you-should-change-right-now/)
+

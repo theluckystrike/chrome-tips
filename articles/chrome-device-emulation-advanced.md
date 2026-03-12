@@ -97,4 +97,9 @@ Finally, remember that device emulation is just one tool in your testing arsenal
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
+## Related Articles
+* [Chrome Startup Pages Configuration](/articles/chrome-startup-pages-config/)
+* [Chrome Extensions for Text Comparison Diff Tool](/articles/chrome-extensions-for-text-comparison-diff-tool/)
+* [Chrome CSS Custom Properties Explained](/articles//chrome-css-custom-properties-explained//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

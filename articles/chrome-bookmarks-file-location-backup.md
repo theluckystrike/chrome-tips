@@ -57,3 +57,9 @@ Your bookmarks represent a collection of websites that matter to you, whether th
 Remember to check your backup occasionally, especially if you add many new bookmarks frequently. A backup from six months ago is better than nothing, but a current one is even better. With these simple steps, you can rest easy knowing your saved websites are protected.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Why Is Chrome So Slow on My Computer?](/articles/why-is-chrome-so-slow-on-my-computer/)
+* [Chrome for Google Maps Best Extensions](/articles/chrome-for-google-maps-best-extensions/)
+* [Best Password Manager Chrome Extension](/articles/best-password-manager-chrome-extension/)
+

@@ -93,4 +93,9 @@ Laptop freezing when opening Chrome is frustrating, but it is a solvable problem
 
 These steps work together to reduce the strain on your computer when Chrome launches. You may not need to try all of them; many users find that enabling Memory Saver and closing excess tabs solves the problem entirely. Be patient and try one solution at a time so you can see which ones make the biggest difference on your specific machine.
 
+## Related Articles
+* [chrome portable version run from usb](/articles/chrome-portable-version-run-from-usb/)
+* [How to Uninstall Chrome Completely and Reinstall](/articles/how-to-uninstall-chrome-completely-and-reinstall/)
+* [Chrome Site Isolation Explained for Users](/articles/chrome-site-isolation-explained-for-users/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

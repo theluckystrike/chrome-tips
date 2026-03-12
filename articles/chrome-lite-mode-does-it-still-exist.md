@@ -129,4 +129,9 @@ While "chrome lite mode does it still exist" is a question with a disappointing 
 
 Try implementing these changes one at a time to see what works best for your specific situation. If your computer still feels slow after trying these tips, consider upgrading your RAM or switching to a lighter browser designed for older hardware.
 
+## Related Articles
+* [Chrome QR Code Generator Extension](/articles/chrome-qr-code-generator-extension/)
+* [Chrome for FreeCodeCamp Best Extensions](/articles/chrome-for-freecodecamp-best-extensions/)
+* [chrome extensions for wireframe design](/articles/chrome-extensions-for-wireframe-design/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

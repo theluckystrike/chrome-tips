@@ -77,3 +77,9 @@ Chrome has a built-in dark mode that can be easier on the eyes during extended v
 Remember that a smooth streaming experience is about finding the right balance between browser performance and your own comfort. Take the time to set up Chrome in a way that works best for your specific situation, whether you are watching occasional streams or spending hours following your favorite broadcasters.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Zoom Classes Optimization](/articles/chrome-for-zoom-classes-optimization/)
+* [Chrome Two Factor Authentication Setup](/articles/chrome-two-factor-authentication-setup/)
+* [Chrome Extensions For Fitness Tracking Dashboard](/articles//articles/chrome-extensions-for-fitness-tracking-dashboard//)
+

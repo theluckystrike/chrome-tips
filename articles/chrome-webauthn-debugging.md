@@ -165,4 +165,9 @@ As passkeys continue to replace passwords across the web, these debugging skills
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome 64 bit vs 32 bit How to Check](/articles/chrome-64-bit-vs-32-bit-how-to-check/)
+* [How to Make Chrome Kid-Friendly](/articles/how-to-make-chrome-kid-friendly/)
+* [chrome search by image right click how to](/articles/chrome-search-by-image-right-click-how-to/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

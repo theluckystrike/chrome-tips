@@ -56,3 +56,9 @@ Chrome Journeys represents a broader trend in browser development toward using a
 As Chrome continues to develop this feature, we can expect journeys to become more accurate and helpful. The integration of AI into everyday browsing tools is changing how we interact with the web, making it easier to manage the massive amount of information we encounter daily.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Opens in Small Window Fix](/articles/chrome-opens-in-small-window-fix/)
+* [Chrome Tab Limit: Is There a Maximum?](/articles/chrome-tab-limit-is-there-a-maximum/)
+* [Chrome for LeechBlock Setup and Tips](/articles/chrome-for-leechblock-setup-and-tips/)
+

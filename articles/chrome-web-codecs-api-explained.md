@@ -62,3 +62,9 @@ You can also check the Chrome version you are using and compare it with the mini
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Snap Scroll CSS Explained](/articles/chrome-snap-scroll-css-explained/)
+* [Chrome Extensions Causing Lag: Which One Is Slowing You Down?](/articles/chrome-extensions-causing-lag-which-one/)
+* [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/articles/chrome-tab-hibernate-save-memory/)
+

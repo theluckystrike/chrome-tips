@@ -73,3 +73,9 @@ The right chrome for news aggregator extensions setup transforms how you consume
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Select All Tabs Shortcut](/articles/chrome-select-all-tabs-shortcut/)
+* [Chrome Back Button Not Working Fix](/articles/chrome-back-button-not-working-fix/)
+* [Chrome Experiments Page Best Flags to Enable: Complete Guide](/articles/chrome-experiments-page-best-flags-enable/)
+

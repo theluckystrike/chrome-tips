@@ -74,3 +74,9 @@ If voice search seems slow or inaccurate, try closing unnecessary tabs and exten
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome for Website Blocking During Work](/articles/chrome-for-website-blocking-during-work/)
+* [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows/)
+* [chrome for banking online security tips](/articles/chrome-for-banking-online-security-tips/)
+

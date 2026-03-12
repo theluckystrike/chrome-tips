@@ -71,3 +71,9 @@ You could also try creating a new user profile in Chrome. Sometimes a corrupted 
 As a last resort, you might want to check if there are any background processes or malware on your computer that could be affecting performance. Sometimes other programs running in the background can compete with Chrome for resources, especially after your computer wakes from hibernation.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Habitica In Browser Tips](/articles/chrome-for-habitica-in-browser-tips/)
+* [Chrome Low Latency Mode for Gaming](/articles/chrome-low-latency-mode-for-gaming/)
+* [chrome mobile translate page automatically](/articles/chrome-mobile-translate-page-automatically/)
+

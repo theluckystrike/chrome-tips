@@ -72,3 +72,9 @@ Another simple trick is to disable unnecessary extensions while using WhatsApp W
 These chrome for WhatsApp Web tips and tricks can transform how you use the messaging platform. From keyboard shortcuts to browser settings, small changes can make a big difference in your daily workflow. Try implementing a few of these suggestions at a time and see which ones work best for your situation.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Use the Chrome Inert Attribute to Disable Interaction](/articles/chrome-inert-attribute-disable-interaction/)
+* [How to Sign Out of Google in Chrome Without Losing Your Data](/articles/chrome-sign-out-of-google-without-losing-data/)
+* [Chrome Attribution Reporting Guide](/articles/chrome-attribution-reporting/)
+

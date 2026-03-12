@@ -76,4 +76,9 @@ If you often have many tabs open and worry about performance or accidental camer
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Animation Performance Guide](/articles/chrome-animation-performance/)
+* [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization/)
+* [Chrome Accessibility Features You Didn't Know About](/articles/chrome-accessibility-features-you-didnt-know-about/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

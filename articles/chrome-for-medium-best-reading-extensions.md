@@ -70,3 +70,9 @@ Remember that the goal is to enjoy reading more, not to spend time managing your
 Medium has a wealth of great articles waiting to be read. With the right Chrome extensions, you can create a reading experience that is comfortable, distraction-free, and tailored exactly to your preferences.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions Causing Lag: Which One Is Slowing You Down?](/articles/chrome-extensions-causing-lag-which-one/)
+* [How to Route Chrome Tab Audio to Separate Speakers](/articles/chrome-tab-audio-routing-separate-speakers/)
+* [Why Does Chrome Get Slower With More Tabs? A Practical Guide](/articles/why-does-chrome-get-slower-with-more-tabs/)
+

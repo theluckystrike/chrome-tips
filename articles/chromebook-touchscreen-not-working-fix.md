@@ -80,3 +80,9 @@ Remember that touchscreen issues are common and often fixable. Do not give up ho
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chromebook Parental Controls How to Set Up](/articles/chromebook-parental-controls-how-to-set-up/)
+* [Chrome Restore Tabs Not Working After Update: Practical Fixes](/articles/chrome-restore-tabs-not-working-after-update/)
+* [Chrome Android App Running Slow Fix: Practical Solutions That Actually Work](/articles/chrome-android-app-running-slow-fix/)
+

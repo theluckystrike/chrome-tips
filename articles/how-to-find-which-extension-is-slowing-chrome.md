@@ -101,4 +101,9 @@ Learning how to find which extension is slowing Chrome is a valuable skill that 
 
 Take a few minutes to review your extensions today. Remove the ones you do not need, keep the ones you use, and consider tools like Tab Suspender Pro to help manage memory automatically. Your computer will thank you.
 
+## Related Articles
+* [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained/)
+* [Chromebook vs Windows Laptop for Browsing](/articles/chromebook-vs-windows-laptop-for-browsing/)
+* [Chrome Extensions for HTTP Header Viewer](/articles/chrome-extensions-for-http-header-viewer/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -118,4 +118,9 @@ The key insight is that Chrome makes your old laptop unusable primarily because 
 
 Give these solutions a try. Start with the easiest ones first, and you should notice a significant improvement in your laptop's responsiveness. Your older machine still has life in it you just need to give Chrome a helping hand in managing its resources wisely.
 
+## Related Articles
+* [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow/)
+* [Chrome Tab Crashed He Dead Fix](/articles/chrome-tab-crashed-he-dead-fix/)
+* [chrome for twitter x best extensions](/articles/chrome-for-twitter-x-best-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

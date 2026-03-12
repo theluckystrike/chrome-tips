@@ -77,3 +77,9 @@ Make it a routine to review your extensions, stay informed about what permission
 By taking these steps, you can enjoy the benefits that extensions provide while keeping your browsing private and secure.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Cookie Auto Delete](/articles//articles/chrome-extensions-for-cookie-auto-delete//)
+* [Chrome Memory Saver Feature Explained](/articles/chrome-memory-saver-feature-explained/)
+* [Chrome Performance Settings Explained 2026](/articles/chrome-performance-settings-explained-2026/)
+

@@ -84,3 +84,9 @@ Getting the most out of Loom in Chrome comes down to preparation and understandi
 Remember that a smooth recording experience starts with a well-managed browser. Tools like Tab Suspender Pro can help keep Chrome running efficiently while you focus on creating great content.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Bulk Image Downloading](/articles//articles/chrome-extensions-for-bulk-image-downloading//)
+* [How to Resume Failed Download in Chrome](/articles/how-to-resume-failed-download-in-chrome/)
+* [Chrome Lagging on 4GB RAM Computer](/articles/chrome-lagging-on-4gb-ram-computer/)
+

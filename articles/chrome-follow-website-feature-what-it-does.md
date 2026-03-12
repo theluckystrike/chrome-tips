@@ -57,3 +57,9 @@ The best approach to following websites in Chrome depends on how you like to con
 Think about how you actually browse and what will fit into your routine. The most sophisticated system will not help if you forget to use it. Choose the method that matches your habits and sticking with it will be much easier.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Speed Up Chrome on 2GB RAM Laptop](/articles/how-to-speed-up-chrome-on-2gb-ram-laptop/)
+* [Chrome Extensions for Website Testing](/articles/chrome-extensions-for-website-testing/)
+* [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained/)
+

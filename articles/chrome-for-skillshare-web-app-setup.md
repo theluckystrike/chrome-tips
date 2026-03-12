@@ -103,3 +103,9 @@ Remember that tools designed to manage browser resources can help if you frequen
 By following these tips, you can enjoy your Skillshare classes with fewer interruptions and better overall performance.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Utility Process Explained](/articles/chrome-utility-process-explained/)
+* [Chrome Notification Permission Block All: Complete Guide](/articles/chrome-notification-permission-block-all/)
+* [Chrome WebGPU vs WebGL Comparison: Which Graphics API Should You Use?](/articles/chrome-webgpu-vs-webgl-comparison/)
+

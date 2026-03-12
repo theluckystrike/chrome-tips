@@ -78,3 +78,9 @@ The investment of time to set these tools up pays off quickly, especially if you
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome for price drop alert extensions](/articles/chrome-for-price-drop-alert-extensions/)
+* [Chrome for iPad Tips and Tricks](/articles/chrome-for-ipad-tips-and-tricks/)
+* [Chrome Low Latency Mode for Gaming](/articles/chrome-low-latency-mode-for-gaming/)
+

@@ -132,4 +132,9 @@ If you've tried everything and images still won't load, consider creating a new 
 
 Remember: keeping Chrome updated and your system running smoothly goes a long way toward preventing these issues in the first place.
 
+## Related Articles
+* [How to Change Chrome Font Size Permanently](/articles/chrome-font-size-permanently-change/)
+* [Chrome Extension for Writing Better Emails](/articles/chrome-extension-for-writing-better-emails/)
+* [Chrome Extensions for Vertical Tabs Sidebar](/articles/chrome-extensions-for-vertical-tabs-sidebar/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

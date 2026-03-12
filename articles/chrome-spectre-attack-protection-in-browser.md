@@ -70,3 +70,9 @@ By keeping Chrome updated, understanding the protections that are already in pla
 Your browser is your gateway to the internet, and taking a few simple steps to protect it goes a long way toward keeping your personal information safe.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Best Chrome Extensions for Accountants](/articles/best-chrome-extensions-for-accountants/)
+* [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
+* [Chrome for CodePen in Browser Tips](/articles/chrome-for-codepen-in-browser-tips/)
+

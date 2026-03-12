@@ -56,4 +56,9 @@ It is also a good idea to occasionally check that your extensions are still work
 
 Finally, remember that your needs might change over time. What works for you now might not fit your workflow a year from now. Be willing to adjust how you have organized your profiles and extensions as your situation changes.
 
+## Related Articles
+* [Chrome Sync Phone and Computer How to Set Up](/articles/chrome-sync-phone-and-computer-how-to-set-up/)
+* [chrome for odysee web player tips](/articles/chrome-for-odysee-web-player-tips/)
+* [Chrome Extensions For Etsy Sellers](/articles//articles/chrome-extensions-for-etsy-sellers//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -95,4 +95,9 @@ Start with the features that address your biggest frustrations with Chrome. If y
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Zoom Meetings](/articles/chrome-extensions-for-zoom-meetings/)
+* [Chrome Extensions for Invoice Creation](/articles/chrome-extensions-for-invoice-creation/)
+* [Chrome for Language Translation Extensions Comparison](/articles/chrome-for-language-translation-extensions-comparison/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

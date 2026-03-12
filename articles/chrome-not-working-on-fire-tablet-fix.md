@@ -73,3 +73,9 @@ Dealing with Chrome not working on your Fire tablet can be annoying, but most is
 Remember that Fire tablets have different hardware limitations compared to smartphones, so some patience and experimentation may be needed to get the best browsing experience. With these fixes, you should be able to get Chrome working smoothly on your Fire tablet again.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Cookies Keep Getting Deleted Fix](/articles/chrome-cookies-keep-getting-deleted-fix/)
+* [Chrome Site Isolation What It Means](/articles/chrome-site-isolation-what-it-means/)
+* [Chrome Permissions Policy Header Explained](/articles/chrome-permissions-policy-header-explained/)
+

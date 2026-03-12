@@ -71,4 +71,9 @@ Be selective about how many extensions you install. Each extension adds to Chrom
 
 Remember that your browser is your primary workspace as a social media manager. Keeping it organized, fast, and equipped with the right tools directly impacts your ability to deliver great results for your clients or brand.
 
+## Related Articles
+* [Chrome Taskbar Icon Missing Fix Windows](/articles/chrome-taskbar-icon-missing-fix-windows/)
+* [Chrome Time to First Byte Explained](/articles/chrome-time-to-first-byte-explained/)
+* [Chrome Opens Old Tabs on Startup How to Stop](/articles/chrome-opens-old-tabs-on-startup-how-to-stop/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -70,3 +70,9 @@ The best approach is to start with one or two extensions and build from there. N
 Remember that extensions are helpers, not replacements for good work habits. Stay organized with your messages, keep your files properly named and stored, and develop routines that work for your specific workflow. The right chrome extensions for microsoft teams simply make it easier to do these things well.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Address Autofill How to Manage](/articles/chrome-address-autofill-how-to-manage/)
+* [Chrome Guest Browsing for Shared Computers](/articles/chrome-guest-browsing-for-shared-computers/)
+* [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension/)
+

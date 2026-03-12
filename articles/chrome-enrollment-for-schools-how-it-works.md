@@ -83,4 +83,9 @@ Whether you are managing fifty devices or five thousand, chrome enrollment provi
 
 ---
 
+## Related Articles
+* [Chrome Extensions Keep Disabling Themselves Fix](/articles/chrome-extensions-keep-disabling-themselves-fix/)
+* [How to Export Bookmarks from Chrome](/articles/how-to-export-bookmarks-from-chrome/)
+* [Best Chrome Extensions for Musicians](/articles/best-chrome-extensions-for-musicians/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

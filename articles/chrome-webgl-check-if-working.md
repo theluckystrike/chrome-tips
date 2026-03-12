@@ -105,4 +105,9 @@ Learning how to chrome webgl check if working is essential for anyone who relies
 
 With WebGL properly configured, you will enjoy smooth graphics rendering, faster performance, and full access to the innovative web applications that rely on this powerful technology.
 
+## Related Articles
+* [Chrome Extension for Spotify Lyrics](/articles/chrome-extension-for-spotify-lyrics/)
+* [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs/)
+* [Chrome Bookmark Bar Disappeared How to Get Back](/articles/chrome-bookmark-bar-disappeared-how-to-get-back/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

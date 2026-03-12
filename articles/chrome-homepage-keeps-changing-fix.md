@@ -61,3 +61,9 @@ Having your Chrome homepage keep changing is frustrating, but it is usually fixa
 Remember to be cautious when installing new software and only add extensions from developers you trust. Taking these preventive measures will help keep your browser working the way you want it to.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Citation Manager Extensions](/articles/chrome-for-citation-manager-extensions/)
+* [Chrome vs Arc Browser 2026](/articles/chrome-vs-arc-browser-2026/)
+* [chrome network inspector for beginners](/articles/chrome-network-inspector-for-beginners/)
+

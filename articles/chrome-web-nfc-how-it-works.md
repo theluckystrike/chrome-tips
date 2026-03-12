@@ -64,3 +64,9 @@ Give Web NFC a try with compatible tags and see how quickly you can access infor
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Extensions For Bookmark Manager](/articles//articles/chrome-extensions-for-bookmark-manager//)
+* [chrome file system access api explained](/articles/chrome-file-system-access-api-explained/)
+* [Chrome Best Settings For Slow Internet](/articles/chrome-best-settings-for-slow-internet/)
+

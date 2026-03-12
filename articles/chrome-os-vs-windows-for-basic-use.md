@@ -66,4 +66,9 @@ For **Chrome OS vs Windows for basic use**, the right choice depends on your spe
 
 Neither option is universally better. A college student who mainly writes papers and browses the web might thrive with a Chromebook. A small business owner who needs specific accounting software will find Windows essential. Take inventory of what you actually need from your computer, then choose the platform that best matches those requirements.
 
+## Related Articles
+* [Chrome Toggle Fullscreen Shortcut](/articles/chrome-toggle-fullscreen-shortcut/)
+* [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does/)
+* [Chrome Web Speech API Voice Commands: A Complete Guide](/articles/chrome-web-speech-api-voice-commands/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

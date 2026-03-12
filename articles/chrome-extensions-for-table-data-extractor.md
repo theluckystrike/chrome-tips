@@ -65,3 +65,9 @@ Keep track of which extensions work well for which types of websites. Over time,
 Remember that combining a good data extraction extension with a solid tab management solution like Tab Suspender Pro creates a more comfortable experience overall. Your browser stays responsive, your extracted data is clean and usable, and you can focus on analyzing the information rather than struggling to collect it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Sleeping Tabs Explained: What They Are and How to Use Them](/articles/chrome-sleeping-tabs-explained/)
+* [Chrome Page Source How to View Explained](/articles/chrome-page-source-how-to-view-explained/)
+* [Chrome Credential Management API: Complete Guide for Developers](/articles/chrome-credential-management-api/)
+

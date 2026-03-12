@@ -117,4 +117,9 @@ The key to getting the most out of Chrome overrides is understanding when and ho
 
 Remember that overrides are just one tool in your development toolkit. They work best when combined with proper development practices, version control, and a well-organized project structure. Embrace these features, and you will find yourself moving between design and implementation more smoothly than ever before.
 
+## Related Articles
+* [Chrome Geolocation Override How to Test](/articles/chrome-geolocation-override-how-to-test/)
+* [Best Chrome Extensions for Researchers](/articles/best-chrome-extensions-for-researchers/)
+* [Chrome Extensions for Tree Style Tabs](/articles/chrome-extensions-for-tree-style-tabs/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

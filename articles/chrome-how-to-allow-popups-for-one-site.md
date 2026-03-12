@@ -76,3 +76,9 @@ Chrome popup settings are designed to give you control while still protecting yo
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Making Your Laptop Fan Loud? Here's How to Fix It](/articles/chrome-making-laptop-fan-loud/)
+* [chrome for telegram web best settings](/articles/chrome-for-telegram-web-best-settings/)
+* [How to Organize Chrome Bookmarks Into Folders](/articles/how-to-organize-chrome-bookmarks-into-folders/)
+

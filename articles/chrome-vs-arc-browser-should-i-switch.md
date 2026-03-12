@@ -79,4 +79,9 @@ The debate between Chrome vs Arc Browser is not about which one is objectively b
 
 Try Arc as your secondary browser first. Use it for a specific workflow — maybe your research or your side projects — and see how it feels. Over time, you will discover whether its approach makes your browsing more productive or whether you prefer Chrome familiar reliability.
 
+## Related Articles
+* [Chrome Extensions for Saving Articles Offline](/articles/chrome-extensions-for-saving-articles-offline/)
+* [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser/)
+* [How to Share Chrome with Family Safely](/articles/how-to-share-chrome-with-family-safely/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

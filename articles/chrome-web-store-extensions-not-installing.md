@@ -103,4 +103,9 @@ When Chrome Web Store extensions not installing becomes a problem, the issue is 
 
 If you've tried all these steps and still can't install extensions, the issue might be on Google's end (temporary outages happen) or related to your network's configuration. In those cases, waiting a few hours and trying again often resolves the problem.
 
+## Related Articles
+* [Chrome vs Vivaldi: Which Is More Customizable](/articles/chrome-vs-vivaldi-which-is-more-customizable/)
+* [Chrome Slow After Hibernation Fix](/articles/chrome-slow-after-hibernation-fix/)
+* [chrome tab groups auto create how to set up](/articles/chrome-tab-groups-auto-create-how-to-set-up/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

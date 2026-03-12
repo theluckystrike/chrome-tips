@@ -83,3 +83,9 @@ Start with the simplest steps first, like clearing your cache and closing unnece
 Video streaming should be enjoyable, and with a little optimization, Chrome can deliver a much better Dailymotion experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Best Settings For Slow Internet](/articles/chrome-best-settings-for-slow-internet/)
+* [How to Simulate Slow Connection in Chrome for Testing](/articles/chrome-simulate-slow-connection-for-testing/)
+* [Chrome Window Too Small Cant Resize Fix](/articles/chrome-window-too-small-cant-resize-fix/)
+

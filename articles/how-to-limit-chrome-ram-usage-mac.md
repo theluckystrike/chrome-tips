@@ -112,4 +112,9 @@ Remember: the goal isn't to stop using Chrome—it's to use it smarter. With the
 
 ---
 
+## Related Articles
+* [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-explained/)
+* [Chrome Extensions for Hotel Deal Finder](/articles/chrome-extensions-for-hotel-deal-finder/)
+* [chrome shared storage api privacy ads](/articles/chrome-shared-storage-api-privacy-ads/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

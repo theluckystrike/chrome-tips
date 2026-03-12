@@ -67,3 +67,9 @@ Using Chrome effectively for fitness tracking means finding the right balance be
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Why Is Chrome So Slow on My Computer?](/articles/why-is-chrome-so-slow-on-my-computer/)
+* [YouTube Buffering on Chrome But Not Firefox: Why and How to Fix It](/articles/youtube-buffering-on-chrome-but-not-firefox/)
+* [chrome for github copilot web setup](/articles/chrome-for-github-copilot-web-setup/)
+

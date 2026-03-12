@@ -76,4 +76,9 @@ Pay attention to how you currently use both channels. If you are constantly inte
 
 ---
 
+## Related Articles
+* [Why Does Chrome Get Slower With More Tabs? A Practical Guide](/articles/why-does-chrome-get-slower-with-more-tabs/)
+* [How to Set Homepage on Chrome](/articles/how-to-set-homepage-on-chrome/)
+* [Best Chrome Extensions for Language Learning](/articles/best-chrome-extensions-for-language-learning/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

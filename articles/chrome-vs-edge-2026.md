@@ -105,4 +105,9 @@ For users concerned about memory usage, the choice may come down to whether you 
 
 Regardless of which browser you choose, both Chrome and Edge will serve you well in 2026. The competition between these browsers has driven innovation that benefits all users, resulting in faster, more feature-rich, and more secure web browsing experiences. Take the time to try both browsers with your typical workflow, and you will quickly discover which one feels more natural for your needs.
 
+## Related Articles
+* [Chrome Opens in Small Window Fix](/articles/chrome-opens-in-small-window-fix/)
+* [Why Is Chrome So Much Slower Than It Used to Be](/articles/why-is-chrome-so-much-slower-than-it-used-to-be/)
+* [chrome for odysee web player tips](/articles/chrome-for-odysee-web-player-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

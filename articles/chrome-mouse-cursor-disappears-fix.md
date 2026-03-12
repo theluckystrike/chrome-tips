@@ -89,3 +89,9 @@ Restart Chrome regularly, especially if you leave it open for many hours. Closin
 If your browser feels sluggish or you often have many tabs open, consider using a tab management tool like Tab Suspender Pro to automatically suspend tabs you are not currently using. This reduces memory usage and can help Chrome run more smoothly, which may prevent cursor visibility issues and other odd behaviors.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Quick Notes Sidebar](/articles/chrome-extensions-for-quick-notes-sidebar/)
+* [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature/)
+* [Chrome Tab Search Feature How to Use](/articles/chrome-tab-search-feature-how-to-use/)
+

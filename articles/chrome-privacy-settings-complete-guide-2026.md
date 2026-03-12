@@ -84,4 +84,9 @@ Remember that no browser settings can make you completely invisible online, but 
 
 ---
 
+## Related Articles
+* [Chrome Notification Permission Block All: Complete Guide](/articles/chrome-notification-permission-block-all/)
+* [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/articles/best-chrome-settings-for-chromebook/)
+* [Best Chrome Extensions for Social Media](/articles/best-chrome-extensions-for-social-media/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

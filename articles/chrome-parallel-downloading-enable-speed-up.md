@@ -127,4 +127,9 @@ Remember that the actual speed improvement depends on various factors, including
 
 Give it a try on your next large download and see the difference for yourself!
 
+## Related Articles
+* [Chrome Screen Share in Google Meet Tips](/articles/chrome-screen-share-in-google-meet-tips/)
+* [Chrome for W3Schools Quick Reference Extension](/articles/chrome-for-w3schools-quick-reference-extension/)
+* [How to Safely Work with Chromebook School Restrictions](/articles/chromebook-school-restrictions-bypass-safely/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

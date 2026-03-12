@@ -79,4 +79,9 @@ Learning to open links in new tabs is a fundamental skill that makes Chrome brow
 
 Combined with good tab management habits, these shortcuts help you navigate the web more smoothly and keep your research or browsing organized. Give these methods a try and see which ones work best for your workflow.
 
+## Related Articles
+* [Chrome Extensions for Spotify](/articles/chrome-extensions-for-spotify/)
+* [Chrome Google Maps Keyboard Shortcuts](/articles/chrome-google-maps-keyboard-shortcuts/)
+* [How to Use Chrome Device Emulation to Test Your Mobile Website](/articles//chrome-device-emulation-test-mobile-website//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

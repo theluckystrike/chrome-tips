@@ -68,3 +68,9 @@ Enabling voice search in Chrome is one of those simple features that can genuine
 Give it a try for simple queries at first, like checking the weather, finding a recipe, or looking up a quick fact. Once you get comfortable, you will likely find yourself using it for more complex searches too. Voice search is one of those tools that feels like a small convenience at first but quickly becomes something you miss when it is not available.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome tab memory usage keeps growing](/articles/chrome-tab-memory-usage-keeps-growing/)
+* [How to Cast Chrome Tab to TV](/articles/how-to-cast-chrome-tab-to-tv/)
+* [Chrome Web App vs Native App Battery Comparison](/articles/chrome-web-app-vs-native-app-battery-comparison/)
+

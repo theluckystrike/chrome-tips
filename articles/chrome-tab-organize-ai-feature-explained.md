@@ -74,3 +74,9 @@ If you frequently find yourself overwhelmed by too many open tabs, it is worth t
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Font Palette CSS Explained](/articles/chrome-font-palette-css-explained/)
+* [chrome reading list vs bookmarks](/articles/chrome-reading-list-vs-bookmarks/)
+* [Chrome for Google Classroom Tips](/articles/chrome-for-google-classroom-tips/)
+

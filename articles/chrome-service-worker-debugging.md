@@ -148,4 +148,9 @@ Testing across multiple devices and browser contexts is important for comprehens
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management/)
+* [Best Chrome Extensions for Writers 2026](/articles/chrome-extensions-for-writers-2026/)
+* [Chrome Tab Search Shortcut Explained](/articles/chrome-tab-search-shortcut-explained/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

@@ -138,4 +138,9 @@ This removes all extensions, clears custom settings, and gives you a fresh, clea
 
 ---
 
+## Related Articles
+* [Chrome Command Line Flags for Low Memory: A Practical Guide](/articles/chrome-command-line-flags-for-low-memory/)
+* [Chrome Tab Color Coding How to Use](/articles/chrome-tab-color-coding-how-to-use/)
+* [Chrome Extensions for Invoice Creation](/articles/chrome-extensions-for-invoice-creation/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -80,3 +80,9 @@ If you switch internet service providers or change your network setup, remember 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Back Button Not Working Fix](/articles/chrome-back-button-not-working-fix/)
+* [Chrome Shape Detection API Explained](/articles/chrome-shape-detection-api-explained/)
+* [Chrome Takes Forever to Load Pages](/articles/chrome-takes-forever-to-load-pages/)
+

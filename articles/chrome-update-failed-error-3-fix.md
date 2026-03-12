@@ -64,4 +64,9 @@ You could also try reaching out to Google support. They have resources and guide
 
 ---
 
+## Related Articles
+* [Chrome Decorators JavaScript Proposal: What You Need to Know](/articles//chrome-decorators-javascript-proposal//)
+* [How to Enable Chrome Tab Preview on Hover](/articles/chrome-tab-preview-hover-how-to-enable/)
+* [Chrome Shape Detection API Face Detection](/articles/chrome-shape-detection-api-face-detection/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

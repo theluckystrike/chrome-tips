@@ -64,3 +64,9 @@ For now, if you have not tried using media keys with your favorite web music pla
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome iPhone Widgets How to Set Up](/articles/chrome-iphone-widgets-how-to-set-up/)
+* [Chrome Dark Mode How To Enable](/articles//chrome-dark-mode-how-to-enable//)
+* [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage/)
+

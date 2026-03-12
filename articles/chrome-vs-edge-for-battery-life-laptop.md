@@ -79,4 +79,9 @@ Testing is the best way to know the real impact on your specific laptop. Try usi
 
 ---
 
+## Related Articles
+* [Chrome How to Clear DNS Cache](/articles/chrome-how-to-clear-dns-cache/)
+* [Chrome for Waze Web Tips](/articles/chrome-for-waze-web-tips/)
+* [Chrome for Etsy Seller Best Extensions](/articles/chrome-for-etsy-seller-best-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

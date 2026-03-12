@@ -79,4 +79,9 @@ As web standards mature and more applications adopt WebAuthn, users can expect b
 
 Whether you are a user looking for a more convenient way to log in or a developer building the next generation of web applications, understanding and leveraging Chrome's biometric authentication capabilities will serve you well in the years ahead.
 
+## Related Articles
+* [Chrome Tab Search Feature How to Use](/articles/chrome-tab-search-feature-how-to-use/)
+* [chrome reader mode how to turn on 2026](/articles/chrome-reader-mode-how-to-turn-on-2026/)
+* [Chrome Keep Crashing Fix 2026](/articles/chrome-keep-crashing-fix-2026/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

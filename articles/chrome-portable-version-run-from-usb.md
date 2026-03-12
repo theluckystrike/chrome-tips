@@ -123,4 +123,9 @@ For most users, the benefits far outweigh the drawbacks. The ability to carry yo
 
 ---
 
+## Related Articles
+* [chrome for color picker extensions](/articles/chrome-for-color-picker-extensions/)
+* [Chrome for Ambient Sound Extensions](/articles/chrome-for-ambient-sound-extensions/)
+* [Chrome Extensions for Keyword Research](/articles/chrome-extensions-for-keyword-research/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

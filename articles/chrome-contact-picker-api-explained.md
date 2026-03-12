@@ -76,3 +76,9 @@ The Chrome Contact Picker API is a useful feature that lets websites access spec
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [how to screenshot full page in chrome](/articles/how-to-screenshot-full-page-in-chrome/)
+* [Chrome Startup Too Slow Diagnosis Guide](/articles/chrome-startup-too-slow-diagnosis-guide/)
+* [Chrome Console Commands: Useful Tricks Every User Should Know](/articles/chrome-console-commands-useful-tricks/)
+

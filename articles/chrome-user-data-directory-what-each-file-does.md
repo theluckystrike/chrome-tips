@@ -107,4 +107,9 @@ The Chrome User Data Directory is the backbone of your browsing experience. Each
 
 Whether you're recovering from a crash, clearing out accumulated cache, or just curious about how Chrome works, knowing your way around this directory is a valuable skill for any Chrome user.
 
+## Related Articles
+* [Chrome Content Filtering for Families](/articles/chrome-content-filtering-for-families/)
+* [Best Chrome Extensions For Teachers Online](/articles/best-chrome-extensions-for-teachers-online/)
+* [Chrome Snap Scroll CSS Explained](/articles/chrome-snap-scroll-css-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -90,3 +90,9 @@ Remember that your browser is a tool to support your learning goals. The perfect
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [How to Stop Chrome from Suspending My Tabs](/articles/how-to-stop-chrome-from-suspending-my-tabs/)
+* [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained/)
+* [Chrome Critical Rendering Path Explained](/articles/chrome-critical-rendering-path-explained/)
+

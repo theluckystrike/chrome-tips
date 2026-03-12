@@ -98,4 +98,9 @@ Remember, the key is to reduce the memory burden on your computer before the mee
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Mouse Gestures Navigation](/articles/chrome-extensions-for-mouse-gestures-navigation/)
+* [Chrome Extensions For Color Palette Generator](/articles//articles/chrome-extensions-for-color-palette-generator//)
+* [Chrome Strict Site Isolation: Should I Enable](/articles/chrome-strict-site-isolation-should-i-enable/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

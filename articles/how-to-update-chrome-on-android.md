@@ -76,3 +76,9 @@ Updating Chrome on your Android phone or tablet is a quick and easy process that
 Make it a habit to check for updates regularly, or let your phone handle it automatically. Either way, your browsing experience will be better for it. A well-updated Chrome browser means faster page loads, better security, and access to all the newest features Google has to offer.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Hardware Acceleration Should I Turn On or Off](/articles/chrome-hardware-acceleration-should-i-turn-on-or-off/)
+* [Chrome Homepage Changed by Itself Fix](/articles/chrome-homepage-changed-by-itself-fix/)
+* [Chrome for Habitica In Browser Tips](/articles/chrome-for-habitica-in-browser-tips/)
+

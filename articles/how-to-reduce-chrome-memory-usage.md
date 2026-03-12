@@ -68,3 +68,9 @@ Chrome memory usage can be frustrating, but there are many practical steps you c
 By implementing these strategies, you can reduce Chrome memory usage and enjoy a faster, more responsive browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension/)
+* [Chrome Devtools Screenshot Full Page](/articles/chrome-devtools-screenshot-full-page/)
+* [Chrome Inspect Element for Beginners](/articles/chrome-inspect-element-for-beginners/)
+

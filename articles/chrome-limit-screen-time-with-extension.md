@@ -99,4 +99,9 @@ Think about why you want to limit your screen time. Is it to be more productive 
 
 Remember that setbacks are normal. If you have a day where you spend too much time online, do not give up. Review what happened, adjust your settings if needed, and try again tomorrow.
 
+## Related Articles
+* [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use/)
+* [Chrome Incognito Mode: Actually Private or Just a False Sense of Security?](/articles/chrome-incognito-mode-actually-private-or-not/)
+* [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/articles/chrome-makes-my-old-laptop-unusable/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

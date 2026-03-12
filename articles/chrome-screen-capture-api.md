@@ -471,4 +471,9 @@ Remember to consider how your screen capture features interact with other browse
 
 With this knowledge, you're well-equipped to implement screen capture functionality that meets your users' needs while maintaining the security and privacy standards that Chrome users expect.
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome vs Edge Battery Life Laptop Comparison](/articles/chrome-vs-edge-battery-life-laptop-comparison/)
+* [chrome prefetch dns how to enable](/articles/chrome-prefetch-dns-how-to-enable/)
+* [Chrome Android Reading List How to Use](/articles/chrome-android-reading-list-how-to-use/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

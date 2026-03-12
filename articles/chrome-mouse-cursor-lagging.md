@@ -140,3 +140,9 @@ But for most users, the solutions above will restore smooth cursor movement with
 ---
 
 **Built by theluckystrike** — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+* [Chrome Enhanced Safe Browsing Guide](/articles/chrome-enhanced-safe-browsing/)
+* [Chrome Scaling Blurry on External Monitor Fix](/articles/chrome-scaling-blurry-on-external-monitor-fix/)
+* [chrome for asana web app tips](/articles/chrome-for-asana-web-app-tips/)
+

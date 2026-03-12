@@ -80,3 +80,9 @@ If you have tried everything and Chrome still keeps logging you out, the problem
 You might also consider whether your Chrome profile itself has become corrupted over time. Creating a brand new Chrome profile takes some work since you will need to set up your bookmarks and extensions again, but it often resolves persistent issues that cannot be fixed through regular troubleshooting.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Site Keeps Asking for Notifications? Here's How to Stop It](/articles/chrome-site-keeps-asking-for-notifications-stop/)
+* [Chrome Open History Page Shortcut](/articles/chrome-open-history-page-shortcut/)
+* [How to Stop Opening Too Many Tabs](/articles/how-to-stop-opening-too-many-tabs/)
+

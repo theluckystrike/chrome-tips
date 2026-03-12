@@ -67,3 +67,9 @@ If you are searching on a laptop, try moving closer to your router, or consider 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Mobile Tabs Too Many How to Manage](/articles/chrome-mobile-tabs-too-many-how-to-manage/)
+* [Chrome for Canvas LMS Best Extensions](/articles/chrome-for-canvas-lms-best-extensions/)
+* [Chrome for SEO Analysis Extensions](/articles/chrome-for-seo-analysis-extensions/)
+

@@ -72,3 +72,9 @@ By exploring Chrome built-in features and available extensions, you can find the
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Google Maps Keyboard Shortcuts](/articles/chrome-google-maps-keyboard-shortcuts/)
+* [Chrome WebGPU vs WebGL Comparison](/articles/chrome-webgpu-vs-webgl/)
+* [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix/)
+

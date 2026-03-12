@@ -64,5 +64,9 @@ If you find that managing **Service Workers** manually through the **Application
 
 Using **Tab Suspender Pro** is a highly effective way to handle this. It automatically "hibernates" inactive tabs, ensuring that background processes—including **Service Workers** and **heavy scripts**—aren't draining your **system resources** while you're working. By keeping your browser lean, you ensure that your active tabs remain fast and responsive, without having to manually unregister every single background worker.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [chrome webrtc video call quality improvement](/articles/chrome-webrtc-video-call-quality-improvement/)
+* [Chrome Address Bar Commands You Didnt Know](/articles/chrome-address-bar-commands-you-didnt-know/)
+* [Chrome Extensions for Spotify Web Player Enhancement](/articles/chrome-extensions-for-spotify-web-player-enhancement/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

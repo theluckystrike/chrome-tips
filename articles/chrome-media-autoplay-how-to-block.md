@@ -66,3 +66,9 @@ The web should work for you, not against you. Autoplay exists because it benefit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Emulate Print Media How To](/articles/chrome-emulate-print-media-how-to/)
+* [Chrome Lost All My Tabs After Update Fix](/articles/chrome-lost-all-my-tabs-update-fix/)
+* [Chrome for Google Scholar Best Extensions](/articles/chrome-for-google-scholar-best-extensions/)
+

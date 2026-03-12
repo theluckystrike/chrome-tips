@@ -51,3 +51,9 @@ Finally, keep in mind that finding no results does not necessarily mean the imag
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Share Chrome Bookmarks Between Devices](/articles/how-to-share-chrome-bookmarks-between-devices/)
+* [Chrome Screen Wake Lock API Explained](/articles/chrome-screen-wake-lock-api-explained/)
+* [Chrome Extensions For Color Accessibility Checker](/articles//articles/chrome-extensions-for-color-accessibility-checker//)
+

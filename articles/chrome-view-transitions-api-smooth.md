@@ -54,4 +54,9 @@ Developers are exploring increasingly sophisticated uses of the View Transitions
 
 ---
 
+## Related Articles
+* [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained/)
+* [Chrome Best New Tab Extension 2026](/articles/chrome-best-new-tab-extension-2026/)
+* [Chrome Startup Too Slow Diagnosis Guide](/articles/chrome-startup-too-slow-diagnosis-guide/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

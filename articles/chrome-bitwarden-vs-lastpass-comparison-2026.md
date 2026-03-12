@@ -71,3 +71,9 @@ One more tip that helps with browser extensions overall: keeping too many tabs o
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Capture Network Logs in Chrome Using Net Export](/articles/chrome-net-export-capture-network-log/)
+* [Chrome Cross Device Tab Sync Not Working Fix](/articles/chrome-cross-device-tab-sync-not-working-fix/)
+* [How to Increase Chrome Cache Size](/articles/chrome-cache-size-how-to-increase/)
+

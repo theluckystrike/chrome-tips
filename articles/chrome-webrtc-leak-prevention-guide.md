@@ -129,4 +129,9 @@ By staying informed and proactive about your privacy, you can enjoy the benefits
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [chrome themes best dark themes 2026](/articles/chrome-themes-best-dark-themes-2026/)
+* [Chrome for Productivity Dashboard New Tab](/articles/chrome-for-productivity-dashboard-new-tab/)
+* [chrome file system access api explained](/articles/chrome-file-system-access-api-explained/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

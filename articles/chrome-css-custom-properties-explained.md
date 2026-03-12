@@ -82,3 +82,9 @@ Chrome css custom properties explained is really about helping you work smarter,
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Extensions for Reading List Manager](/articles/chrome-extensions-for-reading-list-manager/)
+* [chrome webrtc video call quality improvement](/articles/chrome-webrtc-video-call-quality-improvement/)
+* [Best Password Manager Chrome Extension](/articles/best-password-manager-chrome-extension/)
+

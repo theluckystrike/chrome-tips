@@ -71,4 +71,9 @@ Start by trying one of the extensions mentioned above. Most offer free versions 
 
 The best translation extension is the one that fits seamlessly into your workflow without adding friction. When translation becomes effortless, the language barrier fades away, and you can focus on the content itself.
 
+## Related Articles
+* [chrome profile picture how to change](/articles/chrome-profile-picture-how-to-change/)
+* [What Happens When Chrome Extension Is Removed From Store](/articles/what-happens-when-chrome-extension-is-removed-from-store/)
+* [Chrome How to Clear DNS Cache](/articles/chrome-how-to-clear-dns-cache/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -69,3 +69,9 @@ Managing chrome site permissions is not a one-time thing. It is an ongoing pract
 Make it a habit to check your permissions every few months. Remove access for sites you no longer use. Be thoughtful about granting new permissions when websites ask for them. And remember that you can always change your mind later. Chrome puts you in the driver's seat, and it is up to you to decide who gets access to what.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Font Size How to Change Permanently](/articles/chrome-font-size-how-to-change-permanently/)
+* [What Is Chrome Paint Holding and How It Speeds Up Page Load](/articles/chrome-paint-holding-page-load/)
+* [Chrome Media Keys Not Working Fix](/articles/chrome-media-keys-not-working-fix/)
+

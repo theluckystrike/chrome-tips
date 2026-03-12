@@ -86,3 +86,9 @@ You do not need to be technical to do any of this. Everything mentioned can be d
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.*
+
+## Related Articles
+* [chrome report broken website how to](/articles/chrome-report-broken-website-how-to/)
+* [Chrome Live Captions Languages: Complete Setup Guide](/articles/chrome-live-captions-languages/)
+* [Chrome Security Panel How to Check SSL](/articles/chrome-security-panel-how-to-check-ssl/)
+

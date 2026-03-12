@@ -163,4 +163,9 @@ The extensions listed above are all genuinely useful and worth your time. They e
 
 ---
 
+## Related Articles
+* [Chrome Extensions For Dns Lookup](/articles//articles/chrome-extensions-for-dns-lookup//)
+* [Chrome Google Translate Built in Feature Tips](/articles/chrome-google-translate-built-in-feature-tips/)
+* [How to Use Chrome Device Emulation to Test Your Mobile Website](/articles//chrome-device-emulation-test-mobile-website//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

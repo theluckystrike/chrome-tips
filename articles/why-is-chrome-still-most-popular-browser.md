@@ -59,4 +59,9 @@ That said, Chrome isn't the right choice for everyone. If you prioritize privacy
 
 The next time someone asks "why is Chrome still the most popular browser?"—the answer is simple: because it works well enough that most users don't see a reason to switch.
 
+## Related Articles
+* [Chrome Session Storage vs Local Storage: What's the Difference?](/articles/chrome-session-storage-vs-local-storage/)
+* [Chrome for Quick Commands Feature](/articles/chrome-for-quick-commands-feature/)
+* [Why Does Chrome Use So Much CPU](/articles/why-does-chrome-use-so-much-cpu/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

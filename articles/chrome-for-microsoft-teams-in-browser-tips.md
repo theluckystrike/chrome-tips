@@ -93,3 +93,9 @@ Try restarting Chrome at the start of your workday or after lunch. This simple h
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Omnibox Search Tricks](/articles/chrome-for-omnibox-search-tricks/)
+* [Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering](/articles/chrome-paint-holding-feature-explained/)
+* [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-guide/)
+

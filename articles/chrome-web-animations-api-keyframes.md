@@ -85,4 +85,9 @@ Whether you are building simple hover effects or complex interactive interfaces,
 
 ---
 
+## Related Articles
+* [How to Find Chrome Extensions That Slow Down Browser](/articles/how-to-find-chrome-extensions-that-slow-down-browser/)
+* [Chrome for Kindle Cloud Reader Setup - A Complete Guide](/articles/chrome-for-kindle-cloud-reader-setup/)
+* [Chrome Block Inappropriate Content for Kids](/articles/chrome-block-inappropriate-content-for-kids/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

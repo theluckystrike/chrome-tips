@@ -76,4 +76,9 @@ The **Performance Observer API** represents a shift toward more transparent and 
 
 As more websites adopt these performance measurement practices, the overall quality of web browsing should continue to improve. You may not directly interact with the **Performance Observer API**, but it works behind the scenes to make the web a better place for everyone.
 
+## Related Articles
+* [Chrome Google Chat Integration in Browser](/articles/chrome-google-chat-integration-in-browser/)
+* [chrome devtools dark theme how to enable](/articles//chrome-devtools-dark-theme-how-to-enable//)
+* [Chrome Extensions for Social Media Scheduler](/articles/chrome-extensions-for-social-media-scheduler/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

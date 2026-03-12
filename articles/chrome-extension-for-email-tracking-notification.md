@@ -60,4 +60,9 @@ Some extensions are designed to help with this. For example, Tab Suspender Pro c
 
 A chrome extension for email tracking notification offers a practical way to gain visibility into your email communications. It can help you know exactly when your messages have been opened, so you can stop guessing and follow up at the right time. By choosing a reliable extension, using it strategically, and maintaining good email habits, you can add a valuable layer of insight to your communication without creating unnecessary complications.
 
+## Related Articles
+* [Chrome Extensions for Saving Articles Offline](/articles/chrome-extensions-for-saving-articles-offline/)
+* [chromebook touchscreen not working fix](/articles/chromebook-touchscreen-not-working-fix/)
+* [Chrome Autofill Not Working Fix](/articles/chrome-autofill-not-working-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

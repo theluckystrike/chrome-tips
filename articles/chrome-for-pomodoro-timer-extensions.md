@@ -78,3 +78,9 @@ Start with one extension and give it a fair trial before trying others. Building
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Best Chrome Setup for Elderly Parents](/articles/best-chrome-setup-for-elderly-parents/)
+* [How to Reduce Number of Open Tabs](/articles/how-to-reduce-number-of-open-tabs/)
+* [Chrome Vibration API: A Complete Guide for Mobile Web Developers](/articles/chrome-vibration-api-mobile-web/)
+

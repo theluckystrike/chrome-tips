@@ -80,3 +80,9 @@ If you find yourself relying on WebGL-enabled websites frequently and want addit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/articles/chrome-extensions-developer-mode/)
+* [Chrome Font Fingerprinting Explained and Fix](/articles/chrome-font-fingerprinting-explained-and-fix/)
+* [Chrome Aspect Ratio CSS Property](/articles/chrome-aspect-ratio-css-property/)
+

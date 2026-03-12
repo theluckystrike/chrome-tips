@@ -59,4 +59,9 @@ Third, do not forget about cashback programs. Many credit cards and apps offer c
 
 ---
 
+## Related Articles
+* [Chrome How to Print Without Headers Footers](/articles/chrome-how-to-print-without-headers-footers/)
+* [Chrome Web USB API Explained](/articles/chrome-web-usb-api-explained/)
+* [How to Tell Which Chrome Tab Is Draining Battery](/articles/how-to-tell-which-chrome-tab-is-draining-battery/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

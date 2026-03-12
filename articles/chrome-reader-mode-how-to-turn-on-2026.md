@@ -81,4 +81,9 @@ Finally, keep your Chrome browser updated. Updates often include performance imp
 
 ---
 
+## Related Articles
+* [Chrome Media Keys Not Working Fix](/articles/chrome-media-keys-not-working-fix/)
+* [Chrome DevTools CSS Overview Panel](/articles//chrome-devtools-css-overview-panel//)
+* [Chrome Mailto Link Not Working Fix](/articles/chrome-mailto-link-not-working-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -80,3 +80,9 @@ Try these methods next time you see an interesting image and want to learn more.
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Best Chrome Extensions for Accessibility Needs](/articles/best-chrome-extensions-for-accessibility-needs/)
+* [Best Chrome Extensions For Lawyers](/articles/best-chrome-extensions-for-lawyers/)
+* [chrome touchscreen mode how to enable](/articles/chrome-touchscreen-mode-how-to-enable/)
+

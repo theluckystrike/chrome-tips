@@ -117,4 +117,9 @@ The key is to find the right balance for your needs. Whether you prefer maximum 
 
 ---
 
+## Related Articles
+* [Chrome for Omnibox Search Tricks](/articles/chrome-for-omnibox-search-tricks/)
+* [chrome themes best dark themes 2026](/articles/chrome-themes-best-dark-themes-2026/)
+* [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/articles/chrome-vs-edge-on-windows-11/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

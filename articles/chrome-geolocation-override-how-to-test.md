@@ -79,3 +79,9 @@ Remember to refresh your pages after changing the override, verify that the webs
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Permissions API for Camera and Microphone](/articles/chrome-permissions-api-camera-microphone/)
+* [Chrome for Font Identification Extensions](/articles/chrome-for-font-identification-extensions/)
+* [chrome webgpu gaming in browser future](/articles/chrome-webgpu-gaming-in-browser-future/)
+

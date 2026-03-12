@@ -76,3 +76,9 @@ Finally, keep an eye on how many programs you have running in the background. Ot
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/articles/chrome-devtools-sensors-tab-geolocation/)
+* [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix/)
+* [Chrome Web Vitals Optimization Guide](/articles/chrome-web-vitals-optimization/)
+

@@ -75,4 +75,9 @@ Remember that managing tabs is about more than just performance. It is also abou
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Gantt Chart](/articles/chrome-extensions-for-gantt-chart/)
+* [chrome trusted types dom xss prevent](/articles/chrome-trusted-types-dom-xss-prevent/)
+* [Chrome for Google Analytics in Browser](/articles/chrome-for-google-analytics-in-browser/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

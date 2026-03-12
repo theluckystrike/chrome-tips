@@ -67,4 +67,9 @@ The best choice depends on what matters most to you. If you want something that 
 
 Remember that these extensions are meant to help, not replace careful reading. They are excellent tools, but they are not perfect. Always review your important writing yourself before hitting send or publish.
 
+## Related Articles
+* [chrome how to add trusted sites](/articles/chrome-how-to-add-trusted-sites/)
+* [Chrome Extensions For Calendar Integration](/articles//articles/chrome-extensions-for-calendar-integration//)
+* [Chrome Wappalyzer Alternative Built In](/articles/chrome-wappalyzer-alternative-built-in/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

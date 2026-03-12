@@ -87,4 +87,9 @@ The Chrome omnibox is one of the most powerful tools in your browser, yet most p
 
 Once you start using these omnibox search tricks regularly, you will find yourself switching between tasks more quickly and getting things done in less time. The best part is that all of these features work immediately without any setup or installation. Give them a try and see how much easier Chrome can become.
 
+## Related Articles
+* [Chrome Extensions For Code Snippet Manager](/articles//articles/chrome-extensions-for-code-snippet-manager//)
+* [Chrome Homepage Keeps Resetting Fix](/articles/chrome-homepage-keeps-resetting-fix/)
+* [Chrome Was Fast, Now It's Slow - What Happened?](/articles/chrome-was-fast-now-its-slow-what-happened/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

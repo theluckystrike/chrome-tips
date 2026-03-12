@@ -61,3 +61,9 @@ WebAuthn represents an important step forward in how we log into websites. It ma
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Making Your Laptop Fan Loud? Here's How to Fix It](/articles/chrome-making-laptop-fan-loud/)
+* [Chrome for Social Media Management Extensions](/articles/chrome-for-social-media-management-extensions/)
+* [chrome file handling api explained](/articles/chrome-file-handling-api-explained/)
+

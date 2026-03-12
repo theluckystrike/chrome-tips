@@ -64,3 +64,9 @@ Finding hidden gems is partly about experimentation and partly about knowing wha
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Stable Diffusion Web UI Tips](/articles/chrome-for-stable-diffusion-web-ui-tips/)
+* [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/articles/i-have-100-tabs-open-chrome-is-dying/)
+* [Chrome Block Inappropriate Content for Kids](/articles/chrome-block-inappropriate-content-for-kids/)
+

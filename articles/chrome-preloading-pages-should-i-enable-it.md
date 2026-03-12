@@ -75,4 +75,9 @@ Remember that you can always change your mind. Chrome settings are not permanent
 
 ---
 
+## Related Articles
+* [Chrome Live Captions How to Turn On](/articles/chrome-live-captions-how-to-turn-on/)
+* [Chrome for Cloud Gaming Best Settings](/articles/chrome-for-cloud-gaming-best-settings/)
+* [Chrome Web Vitals What They Mean](/articles/chrome-web-vitals-what-they-mean/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

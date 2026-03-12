@@ -78,3 +78,9 @@ Using chrome for mendeley web importer tips effectively is about more than just 
 Set aside a few minutes each week to review what you have saved, add relevant tags, and move papers into appropriate folders. This regular maintenance prevents your library from becoming overwhelming and ensures that you can always find the sources you need. Over time, you will build a valuable resource that supports all your research projects and academic work.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome voice control navigate by speaking](/articles/chrome-voice-control-navigate-by-speaking/)
+* [Chrome Element Internals and Custom Elements: A Complete Guide](/articles/chrome-element-internals-custom-elements/)
+* [Chrome Content Encoding Error Fix](/articles/chrome-content-encoding-error-fix/)
+

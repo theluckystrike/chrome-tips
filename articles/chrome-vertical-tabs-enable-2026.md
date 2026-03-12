@@ -69,4 +69,9 @@ Enabling Chrome vertical tabs in 2026 is a simple process that can make a huge d
 
 Take a few minutes to enable vertical tabs using either the Settings method or the Flags method, customize the sidebar width to your liking, and consider adding Tab Suspender Pro for optimal performance. Once you experience the difference, you will wonder how you ever managed without it.
 
+## Related Articles
+* [Chrome Shopping List Feature How to Use](/articles/chrome-shopping-list-feature-how-to-use/)
+* [Chrome How to Print Selection Only](/articles/chrome-how-to-print-selection-only/)
+* [Chrome Coverage Tool Guide](/articles/chrome-coverage-tool-guide/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

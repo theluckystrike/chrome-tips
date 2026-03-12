@@ -77,3 +77,9 @@ Finally, remember that the lowest price is not always the best value. Consider f
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/articles/should-i-switch-to-edge-for-speed/)
+* [Chrome for Job Searching Best Extensions](/articles/chrome-for-job-searching-best-extensions/)
+* [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs/)
+

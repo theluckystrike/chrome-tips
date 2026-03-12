@@ -76,3 +76,9 @@ The exact number of processes you see depends on how many tabs you have open, wh
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Auto Sign In to Websites How to Control](/articles/chrome-auto-sign-in-to-websites-how-to-control/)
+* [Chrome How to Clear Individual Site Data](/articles/chrome-how-to-clear-individual-site-data/)
+* [Chrome Scaling Blurry on External Monitor Fix](/articles/chrome-scaling-blurry-on-external-monitor-fix/)
+

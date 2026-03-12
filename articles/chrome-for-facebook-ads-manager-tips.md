@@ -90,3 +90,9 @@ Small improvements in how you use your browser add up over time. The less energy
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Trello](/articles/chrome-extensions-for-trello/)
+* [Chrome Guest Browsing for Shared Computers](/articles/chrome-guest-browsing-for-shared-computers/)
+* [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/articles/chrome-extension-using-too-much-memory-find/)
+

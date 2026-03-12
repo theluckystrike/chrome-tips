@@ -92,3 +92,9 @@ Every few months, take a moment to review and update your saved autofill informa
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extension for QR Code Generator](/articles/chrome-extension-for-qr-code-generator/)
+* [Chrome Version History: Major Changes You Should Know About](/articles/chrome-version-history-major-changes/)
+* [Chrome Smooth Scrolling How to Enable](/articles/chrome-smooth-scrolling-how-to-enable/)
+

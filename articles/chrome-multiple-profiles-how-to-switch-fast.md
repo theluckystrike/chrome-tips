@@ -63,3 +63,9 @@ The best method for switching between chrome multiple profiles quickly depends o
 Try a few different approaches and see which one fits your routine. The goal is to make switching profiles feel effortless so you can focus on what you are doing instead of fighting with your browser.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Best Screenshot Chrome Extension](/articles/best-screenshot-chrome-extension/)
+* [Chrome ERR_QUIC_PROTOCOL_ERROR Fix](/articles/chrome-err-quic-protocol-error-fix/)
+* [How to Import Bookmarks from Firefox to Chrome](/articles/how-to-import-bookmarks-from-firefox-to-chrome/)
+

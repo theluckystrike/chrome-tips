@@ -51,3 +51,9 @@ Remember that your needs may change over time. Revisit your new tab page setup e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Bookmark Current Page Shortcut](/articles/chrome-bookmark-current-page-shortcut/)
+* [Chrome Scroll-Driven Animations: Complete Guide for 2026](/articles/chrome-scroll-driven-animations/)
+* [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension/)
+

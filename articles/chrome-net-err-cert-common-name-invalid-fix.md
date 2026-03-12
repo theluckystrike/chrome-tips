@@ -101,3 +101,9 @@ Be cautious about the websites you visit and the links you click. Stick to well-
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix/)
+* [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix/)
+* [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions/)
+

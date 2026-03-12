@@ -66,3 +66,9 @@ The best extension is one that fits seamlessly into your workflow without adding
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome vs Opera GX for Gaming](/articles/chrome-vs-opera-gx-for-gaming/)
+* [Chrome Extensions For Calendar Integration](/articles//articles/chrome-extensions-for-calendar-integration//)
+* [Chrome Reading Mode How to Activate](/articles/chrome-reading-mode-how-to-activate/)
+

@@ -78,3 +78,9 @@ Making Chrome work better with Microsoft Office online does not require technica
 These small optimizations can make a big difference in your daily workflow, especially if you spend significant time working on documents online.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Facebook Ads Manager Tips](/articles/chrome-for-facebook-ads-manager-tips/)
+* [Chrome Send to Device Feature How to Use](/articles/chrome-send-to-device-feature-how-to-use/)
+* [Chrome MediaRecorder API Guide](/articles/chrome-mediarecorder-api-guide/)
+

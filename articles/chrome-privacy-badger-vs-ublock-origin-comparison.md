@@ -96,4 +96,9 @@ Tab Suspender Pro helps by automatically suspending tabs you are not using. This
 
 ---
 
+## Related Articles
+* [Chrome Slow With Many Tabs Open? Here's How to Fix It](/articles/chrome-slow-with-many-tabs-open/)
+* [chrome for google finance tips](/articles/chrome-for-google-finance-tips/)
+* [Chrome Freezes My Whole Computer](/articles/chrome-freezes-my-whole-computer/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

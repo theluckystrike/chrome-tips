@@ -60,3 +60,9 @@ If you find that your browser is still running slowly despite keeping a reasonab
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Scope CSS Explained](/articles/chrome-scope-css-explained/)
+* [Chrome Startup Pages How to Set Multiple](/articles/chrome-startup-pages-how-to-set-multiple/)
+* [Chrome for iPad Tips and Tricks](/articles/chrome-for-ipad-tips-and-tricks/)
+

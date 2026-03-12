@@ -69,3 +69,9 @@ After accounts are set up, students and teachers can start using their new Chrom
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Lazy Loading Images Explained](/articles/chrome-lazy-loading-images-explained/)
+* [Chrome WebXR API Virtual Reality](/articles/chrome-webxr-api-virtual-reality/)
+* [Chrome Bookmark Bar Tips And Tricks](/articles/chrome-bookmark-bar-tips-and-tricks/)
+

@@ -73,4 +73,9 @@ Finally, remember that pinned tabs are not the only tool available for managing 
 
 ---
 
+## Related Articles
+* [Chrome for Notion Web Clipper Setup](/articles/chrome-for-notion-web-clipper-setup/)
+* [Chrome Frame Rate How to Check](/articles/chrome-frame-rate-how-to-check/)
+* [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

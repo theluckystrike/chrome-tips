@@ -81,3 +81,9 @@ When a website asks for notification permission, take a quick moment to decide w
 By following these practices and checking in on your settings regularly, you can enjoy the useful notifications while keeping the annoying ones at bay. Your browser should work for you, not against you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Web Store Best Free Games](/articles/chrome-web-store-best-free-games/)
+* [Chrome Extension for Viewing Page Load Time](/articles/chrome-extension-for-viewing-page-load-time/)
+* [How Often Should I Clear Chrome Cache](/articles/how-often-should-i-clear-chrome-cache/)
+

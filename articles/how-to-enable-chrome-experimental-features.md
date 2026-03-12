@@ -82,3 +82,9 @@ Many users find a middle ground. They enable one or two features that appeal to 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Permissions API for Camera and Microphone](/articles/chrome-permissions-api-camera-microphone/)
+* [Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering](/articles/chrome-paint-holding-feature-explained/)
+* [Chrome Spellcheck Not Working? Here's How to Fix It](/articles/chrome-spellcheck-not-working-fix/)
+

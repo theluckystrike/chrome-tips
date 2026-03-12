@@ -65,4 +65,9 @@ Understanding how your browser handles your data is the first step toward taking
 
 ---
 
+## Related Articles
+* [Chrome DevTools Shadow DOM Inspector](/articles/chrome-devtools-shadow-dom-inspector/)
+* [Best Extensions for Tab Management Chrome](/articles/best-extensions-for-tab-management-chrome/)
+* [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

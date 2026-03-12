@@ -78,4 +78,9 @@ Be cautious when installing other software on your computer. Some free programs 
 
 Consider using an extension that helps manage your tabs and browser behavior. Tab Suspender Pro is one option that can help you maintain better control over your browsing environment by letting you organize and manage your tabs more efficiently. This makes it easier to notice when something is not working as expected.
 
+## Related Articles
+* [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location/)
+* [Chrome Casting to TV How to Setup](/articles/chrome-casting-to-tv-how-to-setup/)
+* [Best Chrome Extensions for Twitch Streamers](/articles/best-chrome-extensions-for-twitch-streamers/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

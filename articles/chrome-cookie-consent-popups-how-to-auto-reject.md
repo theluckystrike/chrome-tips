@@ -66,3 +66,9 @@ The key is finding an extension or combination of methods that works for your sp
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Audio Equalizer Extension](/articles/chrome-audio-equalizer-extension/)
+* [Best Chrome Extensions for Accountants](/articles/best-chrome-extensions-for-accountants/)
+* [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change/)
+

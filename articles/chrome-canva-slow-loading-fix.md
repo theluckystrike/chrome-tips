@@ -85,4 +85,9 @@ Slow loading times in Canva can be frustrating, but with a systematic approach, 
 
 By keeping your browser optimized, your extensions in check, and your system resources managed, you can create a faster, more responsive environment for designing in Canva. The time you invest in these optimizations will pay off with a smoother, more productive design workflow.
 
+## Related Articles
+* [chromebook file manager tips and tricks](/articles/chromebook-file-manager-tips-and-tricks/)
+* [Chrome for Grammar Checking Extensions](/articles/chrome-for-grammar-checking-extensions/)
+* [Chrome V8 Engine What It Means for Users](/articles/chrome-v8-engine-what-it-means-for-users/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

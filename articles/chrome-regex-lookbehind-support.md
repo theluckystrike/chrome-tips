@@ -111,4 +111,9 @@ Whether you are extracting data from text, validating input, or transforming str
 
 Start experimenting with lookbehind assertions in Chrome today, and you will likely find many opportunities to simplify your text processing code.
 
+## Related Articles
+* [chrome google photos integration tips](/articles/chrome-google-photos-integration-tips/)
+* [chrome for education classroom management](/articles/chrome-for-education-classroom-management/)
+* [Chrome Certificate Transparency Explained Simply](/articles/chrome-certificate-transparency-explained-simply/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

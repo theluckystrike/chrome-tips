@@ -52,3 +52,9 @@ The Material You design also creates a more unified experience if you use multip
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Best Chrome Setup for Elderly Parents](/articles/best-chrome-setup-for-elderly-parents/)
+* [Chrome Extensions for Video Conferencing](/articles/chrome-extensions-for-video-conferencing/)
+* [Chrome Slow on Surface Pro Fix](/articles/chrome-slow-on-surface-pro-fix/)
+

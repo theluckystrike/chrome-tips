@@ -173,4 +173,9 @@ Extensions like Tab Suspender Pro demonstrate how side panels can deliver signif
 
 Start experimenting with your own side panel extension today, and remember to test thoroughly before publishing to the Chrome Web Store.
 
+## Related Articles
+* [Chrome Navigation Timing API Explained](/articles/chrome-navigation-timing-api-explained/)
+* [How to Change Your Chrome New Tab Background to a Custom Image](/articles/chrome-new-tab-background-change-custom-image/)
+* [chrome default browser how to set on windows](/articles//chrome-default-browser-how-to-set-on-windows//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

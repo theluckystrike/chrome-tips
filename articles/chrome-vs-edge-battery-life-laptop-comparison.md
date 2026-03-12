@@ -83,4 +83,9 @@ Being mindful of your tab habits and using tools to manage them can make any bro
 
 ---
 
+## Related Articles
+* [chrome privacy sandbox explained simply](/articles/chrome-privacy-sandbox-explained-simply/)
+* [Chrome Reader View How to Enable on Any Site](/articles/chrome-reader-view-how-to-enable-on-any-site/)
+* [Chrome Version History: Major Milestones That Shaped the Browser](/articles/chrome-version-history-major-milestones/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

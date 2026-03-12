@@ -65,3 +65,9 @@ Chrome extensions update frequency explained comes down to this: updates are nec
 By keeping your extension list lean, choosing well-maintained extensions, and using helpful tools to reduce browser load, you can enjoy the benefits of extensions without the headaches. Extensions like Tab Suspender Pro can help keep your browser running smoothly, making those frequent updates much easier to handle.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Removing YouTube Recommendations](/articles/chrome-for-removing-youtube-recommendations/)
+* [Chrome for Etsy Seller Best Extensions](/articles/chrome-for-etsy-seller-best-extensions/)
+* [chrome print page shortcut](/articles/chrome-print-page-shortcut/)
+

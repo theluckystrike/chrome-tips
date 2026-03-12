@@ -65,4 +65,9 @@ It also helps when Chrome has been gradually getting slower over time. By record
 
 ---
 
+## Related Articles
+* [Chrome Navigate Back With Gesture How to](/articles/chrome-navigate-back-with-gesture-how-to/)
+* [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix/)
+* [Chrome Extensions for Link Checker Broken Links](/articles/chrome-extensions-for-link-checker-broken-links/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

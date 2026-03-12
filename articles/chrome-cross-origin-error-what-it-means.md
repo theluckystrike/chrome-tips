@@ -66,3 +66,9 @@ The next time you see one of these error messages, remember that Chrome is doing
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [How to Find a Specific Tab in Chrome](/articles/how-to-find-a-specific-tab-in-chrome/)
+* [Chrome Extensions for Note Taking in Meetings](/articles/chrome-extensions-for-note-taking-in-meetings/)
+* [chrome reduce data usage tips](/articles/chrome-reduce-data-usage-tips/)
+

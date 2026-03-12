@@ -85,3 +85,9 @@ Turn it off if you experience video playback problems, visual glitches on websit
 The best approach is to try both and see what works better for your specific setup. Every computer is different, and the right choice is whatever gives you the most reliable, enjoyable browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome CSS Grid Layout Complete Guide](/articles//chrome-css-grid-layout-complete-guide//)
+* [Chrome Uses All CPU When Idle Fix](/articles/chrome-uses-all-cpu-when-idle-fix/)
+* [chrome source maps debug minified code](/articles/chrome-source-maps-debug-minified-code/)
+

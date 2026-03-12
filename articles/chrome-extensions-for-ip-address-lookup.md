@@ -60,3 +60,9 @@ Remember that using a VPN will change your visible IP address to one associated 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Slow on MacBook Pro M1? Here's How to Fix It](/articles/chrome-slow-on-macbook-pro-m1/)
+* [Chrome Font Editor in DevTools Explained](/articles/chrome-font-editor-in-devtools-explained/)
+* [Chrome Extensions for Session Buddy](/articles/chrome-extensions-for-session-buddy/)
+

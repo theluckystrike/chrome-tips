@@ -69,3 +69,9 @@ Mirroring your Chrome browser to your TV opens up a lot of possibilities for wor
 If you run into any issues, the troubleshooting tips above should help you get back on track. With a little bit of setup, you can enjoy everything Chrome has to offer on a much larger display, making everything from movie nights to work presentations more comfortable and enjoyable.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Canva Web App Optimization](/articles/chrome-for-canva-web-app-optimization/)
+* [Chrome Site Isolation What It Means](/articles/chrome-site-isolation-what-it-means/)
+* [Chrome for Google Scholar Best Extensions](/articles/chrome-for-google-scholar-best-extensions/)
+

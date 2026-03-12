@@ -68,3 +68,9 @@ Everyone works differently, and the best tab organization workflow is the one yo
 Start small by trying one or two of these suggestions. See how they feel, and adjust as needed. Over time, you will develop a workflow that fits your style and keeps your browser running smoothly.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Remove Chrome Malware](/articles/how-to-remove-chrome-malware/)
+* [Chrome Web USB API Explained](/articles/chrome-web-usb-api-explained/)
+* [Chrome for Bear Notes Web Clipper](/articles/chrome-for-bear-notes-web-clipper/)
+

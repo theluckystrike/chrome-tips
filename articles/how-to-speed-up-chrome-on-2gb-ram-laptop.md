@@ -90,3 +90,9 @@ The key is to reduce the amount of content Chrome needs to load and process. Ext
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Clipboard Manager](/articles//articles/chrome-extensions-for-clipboard-manager//)
+* [Chrome Canvas Fingerprinting How to Block](/articles/chrome-canvas-fingerprinting-how-to-block/)
+* [Chrome Window Management API Explained](/articles/chrome-window-management-api-explained/)
+

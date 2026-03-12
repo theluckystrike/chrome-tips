@@ -80,3 +80,9 @@ You can also temporarily disable LeechBlock if you need to access a blocked site
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Timeline Recording Explained](/articles/chrome-timeline-recording-explained/)
+* [How to Set Up Chrome Pop Up Blocker Exceptions](/articles/chrome-pop-up-blocker-exceptions/)
+* [Chrome VPN Extension Free Best 2026](/articles/chrome-vpn-extension-free-best-2026/)
+

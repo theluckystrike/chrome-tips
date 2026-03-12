@@ -94,3 +94,9 @@ By using Chrome's built-in tools effectively, testing on real browsers for criti
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Cookies Explained for Beginners](/articles/chrome-cookies-explained-for-beginners/)
+* [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix/)
+* [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained/)
+

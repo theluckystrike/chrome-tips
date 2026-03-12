@@ -75,3 +75,9 @@ Once you have the right color picker extension installed, you will wonder how yo
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Location Access for One Site How to Allow](/articles/chrome-location-access-for-one-site-how-to-allow/)
+* [Chrome Extensions for Social Media Scheduling](/articles/chrome-extensions-for-social-media-scheduling/)
+* [Chrome Lite Mode Replacement 2026](/articles/chrome-lite-mode-replacement-2026/)
+

@@ -71,4 +71,9 @@ Start with the quick fixes, enable the built-in performance features, and consid
 
 ---
 
+## Related Articles
+* [Chrome Shared Storage API Explained](/articles/chrome-shared-storage-api-explained/)
+* [Chrome Extensions Causing Lag: Which One Is Slowing You Down?](/articles/chrome-extensions-causing-lag-which-one/)
+* [Chrome Has Selector Explained](/articles/chrome-has-selector-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

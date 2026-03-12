@@ -80,3 +80,9 @@ Start with just one or two extensions that address your biggest homework challen
 With the right extensions, you can transform Chrome from a simple browser into a powerful homework assistant. These tools help you work smarter, not harder, giving you more time to actually learn the material and less time struggling with the mechanics of research and writing.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for JSFiddle Best Settings](/articles/chrome-for-jsfiddle-best-settings/)
+* [Chrome for Photo Editing in Browser](/articles/chrome-for-photo-editing-in-browser/)
+* [Chrome Extensions For Eye Dropper Tool](/articles//articles/chrome-extensions-for-eye-dropper-tool//)
+

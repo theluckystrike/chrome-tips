@@ -74,3 +74,9 @@ Remember that you do not have to accept Chrome's default behavior. With a few tw
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes/)
+* [Chrome Redirect Virus How to Remove](/articles/chrome-redirect-virus-how-to-remove/)
+* [Chrome Google Workspace Integration Tips](/articles/chrome-google-workspace-integration-tips/)
+

@@ -76,3 +76,9 @@ The best chrome extensions for ebay sniping are the ones that fit seamlessly int
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome for mouse gestures extensions](/articles/chrome-for-mouse-gestures-extensions/)
+* [Chrome for Bear Notes Web Clipper](/articles/chrome-for-bear-notes-web-clipper/)
+* [Chrome Extensions for Pinterest](/articles/chrome-extensions-for-pinterest/)
+

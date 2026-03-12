@@ -88,4 +88,9 @@ Enabling chrome high contrast mode is a straightforward process that can transfo
 
 Remember that you have multiple options for enabling high contrast—through Chrome's direct settings or through your operating system's accessibility features. Both methods work effectively, so choose the approach that best suits your preferences and workflow.
 
+## Related Articles
+* [Chrome Workbox Library for Service Workers](/articles/chrome-workbox-library-for-service-workers/)
+* [chrome javascript disable for one site how to](/articles/chrome-javascript-disable-for-one-site-how-to/)
+* [Chrome for Babbel Web App Tips](/articles/chrome-for-babbel-web-app-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

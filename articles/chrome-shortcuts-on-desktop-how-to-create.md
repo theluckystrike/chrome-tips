@@ -53,5 +53,9 @@ While **desktop shortcuts** help you launch sites faster, they don't help with t
 
 Using **Tab Suspender Pro** is the perfect companion to a **shortcut-heavy workflow**. It automatically "hibernates" background tabs that you opened via your **desktop icons**, freeing up **system resources**. This ensures that your computer remains fast and responsive, even if you have twenty different **web app shortcuts** active at once. By keeping your **memory usage** low, you make the transition between your **desktop** and your **browser** seamless and lag-free.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome Extensions For Figma Companion](/articles//articles/chrome-extensions-for-figma-companion//)
+* [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer/)
+* [chrome enhanced tracking protection setup](/articles/chrome-enhanced-tracking-protection-setup/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

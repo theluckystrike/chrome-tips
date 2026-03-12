@@ -70,3 +70,9 @@ If you run into persistent problems with many open tabs slowing down your browse
 Chrome DevTools is one of those features that becomes indispensable once you know how to use it. Whether you are a website owner testing changes, a student learning web development, or just someone curious about how websites work, the ability to edit HTML live opens up a world of possibilities. The best way to learn is to try it out on a webpage you do not mind experimenting with. Open DevTools, click around, and see what you can create or fix.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Website Testing](/articles/chrome-extensions-for-website-testing/)
+* [Chrome Extensions for Meditation](/articles/chrome-extensions-for-meditation/)
+* [Chrome Right Click Not Working Fix](/articles/chrome-right-click-not-working-fix/)
+

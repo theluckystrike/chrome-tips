@@ -80,3 +80,9 @@ It is also a good idea to periodically check that your proxy is actually working
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Media Keys Not Working Fix](/articles/chrome-media-keys-not-working-fix/)
+* [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/articles/i-have-100-tabs-open-chrome-is-dying/)
+* [Chrome WebAuthn Debugging Guide](/articles/chrome-webauthn-debugging/)
+

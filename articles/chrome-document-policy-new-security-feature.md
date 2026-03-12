@@ -56,4 +56,9 @@ Whether you are building a simple blog or a complex enterprise application, taki
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Markdown Editor Preview](/articles/chrome-extensions-for-markdown-editor-preview/)
+* [Chrome Slow on Your Old MacBook? Here's How to Fix It](/articles/chrome-slow-on-old-macbook-fix/)
+* [Chrome Redirect Virus How to Remove](/articles/chrome-redirect-virus-how-to-remove/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

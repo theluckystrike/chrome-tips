@@ -115,4 +115,9 @@ Fixing Chrome when your computer is slow does not require technical expertise or
 
 By following these steps, you can significantly improve Chrome's performance on your computer without having to search for "my computer is so slow how to fix Chrome" again. A few simple adjustments can make your browsing experience much smoother, even on a computer with limited resources.
 
+## Related Articles
+* [chrome default browser how to set on windows](/articles//chrome-default-browser-how-to-set-on-windows//)
+* [Chrome Frame Rate How to Check](/articles/chrome-frame-rate-how-to-check/)
+* [chrome extension for screenshot and annotate](/articles/chrome-extension-for-screenshot-and-annotate/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

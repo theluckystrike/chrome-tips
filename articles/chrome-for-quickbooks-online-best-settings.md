@@ -76,3 +76,9 @@ To create a new profile, click your profile icon in the top right of Chrome and 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Breakpoints and Conditional Debugging Guide](/articles/chrome-breakpoints-conditional-debugging-guide/)
+* [Chrome Android Tabs Too Many How to Manage](/articles/chrome-android-tabs-too-many-how-to-manage/)
+* [chrome extensions for json viewer](/articles/chrome-extensions-for-json-viewer/)
+

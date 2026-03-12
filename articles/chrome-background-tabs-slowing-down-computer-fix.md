@@ -88,3 +88,9 @@ You might also want to try lighter browsers for everyday tasks and reserve Chrom
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome for site search from address bar](/articles/chrome-for-site-search-from-address-bar/)
+* [Chrome Web Speech API Voice Commands: A Complete Guide](/articles/chrome-web-speech-api-voice-commands/)
+* [Chrome Cookie Settings 2026 Guide](/articles/chrome-cookie-settings-2026/)
+

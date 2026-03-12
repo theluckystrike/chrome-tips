@@ -64,4 +64,9 @@ Consider trying each browser for a week to see which one feels more natural for 
 
 ---
 
+## Related Articles
+* [chrome extensions for image reverse search](/articles/chrome-extensions-for-image-reverse-search/)
+* [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply/)
+* [Chrome for Cashback Extensions Comparison](/articles/chrome-for-cashback-extensions-comparison/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

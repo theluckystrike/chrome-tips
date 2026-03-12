@@ -93,4 +93,9 @@ For most users, these changes provide a significant improvement in video playbac
 
 If you have tried all these solutions and still experience issues, your computer may simply lack the processing power for high-definition video streaming. In that case, lowering video quality or using a dedicated video player for local files may be your best options.
 
+## Related Articles
+* [Chrome Slow on Android Fix](/articles/chrome-slow-on-android-fix/)
+* [Chrome Extension for Reading Speed Tracker](/articles/chrome-extension-for-reading-speed-tracker/)
+* [Chrome Deep Linking and Universal Links Guide](/articles/chrome-deep-linking-universal-links-guide/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

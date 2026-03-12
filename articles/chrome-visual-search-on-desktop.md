@@ -81,4 +81,9 @@ If an extension is causing problems, try disabling it temporarily. Some extensio
 
 ---
 
+## Related Articles
+* [Chrome Jump to Specific Tab Number Shortcut](/articles/chrome-jump-to-specific-tab-number-shortcut/)
+* [chrome scrollbar styling css](/articles/chrome-scrollbar-styling-css/)
+* [Chrome Block Specific Websites Guide](/articles/chrome-block-specific-websites-guide/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

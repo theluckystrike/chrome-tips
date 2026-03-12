@@ -86,4 +86,9 @@ Chrome site isolation what it does is protect you by keeping websites separate i
 
 By understanding how site isolation works, you can better appreciate the protections built into your browser and make informed decisions about your browsing habits. Keeping your browser updated ensures you continue to benefit from the latest security improvements, including refinements to site isolation that address new threats as they emerge.
 
+## Related Articles
+* [Chrome Tracking Prevention Explained Simply](/articles/chrome-tracking-prevention-explained-simply/)
+* [Chrome Layers Panel 3D View Explained](/articles/chrome-layers-panel-3d-view-explained/)
+* [Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab](/articles/chrome-duplicate-tab-shortcut-trick/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

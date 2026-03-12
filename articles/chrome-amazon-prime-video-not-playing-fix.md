@@ -139,4 +139,9 @@ Playback issues with Amazon Prime Video in Chrome are frustrating, but they're u
 
 By keeping your browser and system updated and being mindful of how extensions and settings affect playback, you can enjoy seamless streaming without interruptions.
 
+## Related Articles
+* [Chrome Default Apps Settings: A Complete Guide](/articles//chrome-default-apps-settings//)
+* [Chrome Extensions for Site Permissions Manager](/articles/chrome-extensions-for-site-permissions-manager/)
+* [Why Does Chrome Get Slower With More Tabs? A Practical Guide](/articles/why-does-chrome-get-slower-with-more-tabs/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

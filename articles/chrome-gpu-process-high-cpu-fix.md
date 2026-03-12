@@ -61,4 +61,9 @@ The chrome gpu process high cpu fix requires patience and systematic troubleshoo
 
 ---
 
+## Related Articles
+* [Chrome for Calendar Management Extensions](/articles/chrome-for-calendar-management-extensions/)
+* [Chrome Local Storage How to Clear for One Site](/articles/chrome-local-storage-how-to-clear-for-one-site/)
+* [How to Take Screenshot in Chrome Without Extension](/articles/how-to-take-screenshot-in-chrome-without-extension/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

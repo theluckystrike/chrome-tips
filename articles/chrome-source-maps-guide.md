@@ -123,4 +123,9 @@ Chrome source maps are an indispensable tool for modern web development, providi
 
 Whether you are working with webpack, debugging minified code, or setting up error tracking for production applications, source maps provide the visibility you need to understand and fix problems quickly. Take the time to configure them correctly in your projects, and you will find that debugging complex web applications becomes far more manageable.
 
+## Related Articles
+* [Chrome Multiple Profiles How to Switch Quickly](/articles/chrome-multiple-profiles-how-to-switch-quickly/)
+* [chrome extension for measuring things on screen](/articles/chrome-extension-for-measuring-things-on-screen/)
+* [Chrome Mobile Dark Mode Force on All Sites](/articles/chrome-mobile-dark-mode-force-on-all-sites/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

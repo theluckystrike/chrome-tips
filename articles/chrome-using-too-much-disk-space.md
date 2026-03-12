@@ -70,4 +70,9 @@ Chrome using too much disk space does not have to be a permanent problem. By und
 
 Start with the simplest solutions like clearing your cache and removing unused extensions, then build more comprehensive habits over time. Your computer's storage capacity will thank you.
 
+## Related Articles
+* [Chrome Forced Extensions by Admin What It Means](/articles/chrome-forced-extensions-by-admin-what-it-means/)
+* [Chrome Android Memory Usage Too High Fix](/articles/chrome-android-memory-usage-too-high-fix/)
+* [Chrome History Search Tips and Tricks](/articles/chrome-history-search-tips-and-tricks/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

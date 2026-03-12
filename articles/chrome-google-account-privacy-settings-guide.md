@@ -69,4 +69,9 @@ By regularly reviewing and adjusting these settings, you can enjoy Chrome's powe
 
 ---
 
+## Related Articles
+* [Chrome Side Panel Features Guide](/articles/chrome-side-panel-features-guide/)
+* [chrome network throttling test slow connection](/articles/chrome-network-throttling-test-slow-connection/)
+* [Chrome Web Serial API Guide](/articles/chrome-web-serial-api-guide/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

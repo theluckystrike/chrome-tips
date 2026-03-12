@@ -74,3 +74,9 @@ If you find yourself frequently adjusting settings for different websites or wan
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome for Page Load Speed Testing](/articles/chrome-for-page-load-speed-testing/)
+* [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix/)
+* [Chrome vs Edge RAM Usage Comparison 2026](/articles/chrome-vs-edge-ram-usage-comparison-2026/)
+

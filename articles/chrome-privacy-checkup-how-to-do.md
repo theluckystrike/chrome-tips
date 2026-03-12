@@ -87,4 +87,9 @@ Chrome makes it straightforward to take control of your privacy. The built-in pr
 
 Take a few minutes today to run through your privacy checkup. Your future self will thank you for taking the time to protect your information now.
 
+## Related Articles
+* [How to Change Your Chrome Downloads Folder](/articles/chrome-downloads-folder-change/)
+* [Chrome Energy Saver Mode What Does It Do](/articles/chrome-energy-saver-mode-what-does-it-do/)
+* [Chrome Safe Browsing Protection Levels Explained](/articles/chrome-safe-browsing-protection-levels-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

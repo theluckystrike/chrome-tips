@@ -69,4 +69,9 @@ If you find yourself frequently losing track of open tabs and needing to revisit
 
 The extension works automatically in the background, so you do not need to manually manage which tabs are active. When you return to a suspended tab, it reloads instantly so you can continue exactly where you left off. This is just one tool among many that can help improve your Chrome experience.
 
+## Related Articles
+* [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained/)
+* [Chrome Performance Getting Worse Over Time](/articles/chrome-performance-getting-worse-over-time/)
+* [Chrome Err Connection Timed Out Fix](/articles/chrome-err-connection-timed-out-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

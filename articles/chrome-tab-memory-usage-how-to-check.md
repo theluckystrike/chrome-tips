@@ -80,4 +80,9 @@ Understanding memory usage also helps you troubleshoot when your computer seems 
 
 By learning how to check chrome tab memory usage and taking steps to manage it effectively, you are setting yourself up for a smoother, more efficient browsing experience. Your computer will run better, your browser will respond faster, and you will have more control over your digital workspace.
 
+## Related Articles
+* [chrome gamepad api how to use](/articles/chrome-gamepad-api-how-to-use/)
+* [chrome offline first app design explained](/articles/chrome-offline-first-app-design-explained/)
+* [Chrome for Costco Web Shopping Tips](/articles/chrome-for-costco-web-shopping-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -91,4 +91,9 @@ Consider whether your computer meets Chrome's recommended requirements. On compu
 
 You might also want to try lighter browsers for everyday tasks and reserve Chrome for when you need its specific features. Some browsers use less memory but lack some of Chrome's capabilities.
 
+## Related Articles
+* [Chromebook Storage Full How to Free Space](/articles/chromebook-storage-full-how-to-free-space/)
+* [What Happens When Chrome Extension Is Removed From Store](/articles/what-happens-when-chrome-extension-is-removed-from-store/)
+* [Chrome DevTools Rendering Tab Explained](/articles/chrome-devtools-rendering-tab-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

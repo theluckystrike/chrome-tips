@@ -74,3 +74,9 @@ Your phone is supposed to make your life easier, not add another thing to worry 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Forced Extensions by Admin What It Means](/articles/chrome-forced-extensions-by-admin-what-it-means/)
+* [Chrome for Discord Web App Optimization](/articles/chrome-for-discord-web-app-optimization/)
+* [Chrome Extensions for Amazon Price History](/articles/chrome-extensions-for-amazon-price-history/)
+

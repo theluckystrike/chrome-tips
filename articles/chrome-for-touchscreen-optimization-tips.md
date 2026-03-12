@@ -86,3 +86,9 @@ Give these tips a try and see which ones work best for your specific device and 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome for online learning best setup](/articles/chrome-for-online-learning-best-setup/)
+* [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage/)
+* [Chromebook Storage Full How to Free Space](/articles/chromebook-storage-full-how-to-free-space/)
+

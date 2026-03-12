@@ -70,4 +70,9 @@ Whether to keep Chrome Startup Boost enabled is a personal decision that depends
 
 The most important thing is that you understand what the feature does and how it affects your system. Now that you know what Chrome Startup Boost actually does, you can make an informed choice that works best for your situation.
 
+## Related Articles
+* [chrome for gmail productivity extensions](/articles/chrome-for-gmail-productivity-extensions/)
+* [Chrome Extensions for Website Monitoring Changes](/articles/chrome-extensions-for-website-monitoring-changes/)
+* [Chrome Built-In Screenshot Tool](/articles/chrome-built-in-screenshot-tool/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -78,3 +78,9 @@ Other helpful extensions include design tools that integrate with your email wor
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome google photos integration tips](/articles/chrome-google-photos-integration-tips/)
+* [Chrome for Google Classroom Tips](/articles/chrome-for-google-classroom-tips/)
+* [Best Chrome Extensions for Lawyers 2026](/articles/best-chrome-extensions-for-lawyers-2026/)
+

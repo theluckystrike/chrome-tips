@@ -65,4 +65,9 @@ Understanding the root cause of your chrome extensions disabled by administrator
 
 ---
 
+## Related Articles
+* [Chrome Tabs Using Too Much Memory Which One](/articles/chrome-tabs-using-too-much-memory-which-one/)
+* [Chrome Google Chat Integration in Browser](/articles/chrome-google-chat-integration-in-browser/)
+* [Chrome Text to Speech Built In Feature](/articles/chrome-text-to-speech-built-in-feature/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

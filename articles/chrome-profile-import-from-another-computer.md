@@ -64,4 +64,9 @@ Getting your Chrome profile import from another computer does not require techni
 
 The key is to decide which method matches your situation. Sync works seamlessly when you have internet access and use a Google account. Manual import helps when you need to work offline or want to be more deliberate about what you transfer. Either path gets you back to browsing comfortably in no time.
 
+## Related Articles
+* [Chrome Redirect Virus How to Remove](/articles/chrome-redirect-virus-how-to-remove/)
+* [Chrome Reduce Memory Usage Android - Complete Guide](/articles/chrome-reduce-memory-usage-android/)
+* [Chrome Add to Home Screen vs Install App](/articles/chrome-add-to-home-screen-vs-install-app/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

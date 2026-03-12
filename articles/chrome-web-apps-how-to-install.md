@@ -80,3 +80,9 @@ Web apps may also sometimes lose their connection or stop working if the website
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom/)
+* [Chrome for Accessibility Testing Extensions](/articles/chrome-for-accessibility-testing-extensions/)
+* [chrome extensions for image reverse search](/articles/chrome-extensions-for-image-reverse-search/)
+

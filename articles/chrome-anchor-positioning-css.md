@@ -95,3 +95,9 @@ As browser support continues to expand, learning to work with chrome anchor posi
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [How to Set Chrome as Default Browser Windows 11](/articles/how-to-set-chrome-as-default-browser-windows-11/)
+* [How Often Should I Clear Chrome Cache](/articles/how-often-should-i-clear-chrome-cache/)
+* [Chrome Web Animation API Explained](/articles/chrome-web-animation-api-explained/)
+

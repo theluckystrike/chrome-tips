@@ -119,4 +119,9 @@ Remember, Chrome's tab suspension is trying to help you, but it doesn't always k
 
 ---
 
+## Related Articles
+* [chrome privacy sandbox explained simply](/articles/chrome-privacy-sandbox-explained-simply/)
+* [Chrome Large Font Easy to Read Setup](/articles/chrome-large-font-easy-to-read-setup/)
+* [Chrome Extension for Tracking Time Spent on Websites](/articles/chrome-extension-for-tracking-time-spent-on-websites/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

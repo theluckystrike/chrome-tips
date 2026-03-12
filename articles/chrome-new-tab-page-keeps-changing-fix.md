@@ -81,3 +81,9 @@ Keep your Chrome browser updated to the latest version, as updates often include
 Having your Chrome new tab page keeps changing can be annoying, but it is a problem you can solve. By checking your settings, removing problematic extensions, resetting Chrome if needed, and being mindful about what you install, you can regain control of your browsing experience. Whether you prefer a simple blank page, your favorite website, or a custom new tab setup, you deserve to have Chrome behave the way you want it to.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Link Checker Broken Links](/articles/chrome-extensions-for-link-checker-broken-links/)
+* [Chrome Saved Payment Methods How to Edit](/articles/chrome-saved-payment-methods-how-to-edit/)
+* [chrome shared storage api privacy ads](/articles/chrome-shared-storage-api-privacy-ads/)
+

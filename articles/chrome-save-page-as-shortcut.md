@@ -72,5 +72,9 @@ If you find yourself creating many **desktop shortcuts** because you're overwhel
 
 Instead of closing a site and relying on a **shortcut** to reopen it later, you can keep the tab open without it draining your **RAM**. This keeps your computer fast while ensuring your most important pages are always just a click away in your browser, rather than cluttering your **desktop icons**.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome Web Storage Limits Explained](/articles/chrome-web-storage-limits-explained/)
+* [Chrome 64 bit vs 32 bit How to Check](/articles/chrome-64-bit-vs-32-bit-how-to-check/)
+* [Chrome Forced Extensions by Admin What It Means](/articles/chrome-forced-extensions-by-admin-what-it-means/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

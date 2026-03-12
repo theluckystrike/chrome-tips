@@ -75,4 +75,9 @@ Take a few minutes to check your Chrome settings and decide what level of sharin
 
 Your privacy is worth the small amount of time it takes to understand these settings. The more you know about how your browser handles your data, the better decisions you can make about what you are willing to share.
 
+## Related Articles
+* [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix/)
+* [Chrome Aspect Ratio CSS Property](/articles/chrome-aspect-ratio-css-property/)
+* [chrome gamepad api how to use](/articles/chrome-gamepad-api-how-to-use/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

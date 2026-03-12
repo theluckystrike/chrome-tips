@@ -62,3 +62,9 @@ Some users find it helpful to set a personal rule, such as closing all tabs at t
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Developer Tools Shortcut](/articles//chrome-developer-tools-shortcut//)
+* [Chrome Toolbar Customization Tips](/articles/chrome-toolbar-customization-tips/)
+* [Chrome Enterprise Features for Business: A Complete Guide](/articles/chrome-enterprise-features-for-business/)
+

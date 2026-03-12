@@ -66,4 +66,9 @@ The most important thing is to understand what each browser does with your data.
 
 ---
 
+## Related Articles
+* [chrome offline mode how to browse without internet](/articles/chrome-offline-mode-how-to-browse-without-internet/)
+* [Chrome Android Dark Mode How to Enable](/articles/chrome-android-dark-mode-how-to-enable/)
+* [Chrome Version History: Major Milestones That Shaped the Browser](/articles/chrome-version-history-major-milestones/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -66,3 +66,9 @@ Chrome continues to add features that make the web feel more connected to your d
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering](/articles/chrome-paint-holding-feature-explained/)
+* [Chrome Lazy Loading Images How It Works](/articles/chrome-lazy-loading-images-how-it-works/)
+* [Chrome Extensions for iMacros Alternative](/articles/chrome-extensions-for-imacros-alternative/)
+

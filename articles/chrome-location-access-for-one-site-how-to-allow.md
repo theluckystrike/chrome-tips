@@ -70,3 +70,9 @@ Now you know exactly how to allow location access for one site in Chrome. Whethe
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [How to Restore Closed Tabs in Chrome](/articles/chrome-restore-closed-tabs-guide/)
+* [Chrome Devtools Application Panel Explained](/articles//chrome-devtools-application-panel-explained//)
+* [Chrome MediaRecorder API Guide](/articles/chrome-mediarecorder-api-guide/)
+

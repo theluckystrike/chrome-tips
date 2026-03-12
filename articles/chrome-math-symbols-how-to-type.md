@@ -69,3 +69,9 @@ Third, practice makes perfect. The more you use these methods, the faster they w
 Typing math symbols in Chrome does not have to be a headache. Whether you prefer using Unicode codes, keyboard shortcuts, copy and paste, or extensions, there is a method that will work for your situation. Explore these options and find the approach that fits your workflow best.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Fix Chrome Search Bar Not Working](/articles/chrome-search-bar-not-working-fix/)
+* [Chrome Tab Stacking How to Use](/articles/chrome-tab-stacking-how-to-use/)
+* [How to Make Chrome Open Links in a New Tab](/articles/how-to-make-chrome-open-links-in-new-tab/)
+

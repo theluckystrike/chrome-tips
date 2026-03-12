@@ -74,3 +74,9 @@ Remember that the purpose of web clipping is to actually read and use what you s
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Installer Failed to Start Fix](/articles/chrome-installer-failed-to-start-fix/)
+* [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome/)
+* [Chrome Video Playback Stuttering Fix: A Practical Guide for Slow Computers](/articles/chrome-video-playback-stuttering-fix/)
+

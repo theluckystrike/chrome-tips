@@ -58,3 +58,9 @@ Remember that extensions work best when they complement rather than complicate y
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Block Inappropriate Content for Kids](/articles/chrome-block-inappropriate-content-for-kids/)
+* [Chrome for Redfin Web App Tips](/articles/chrome-for-redfin-web-app-tips/)
+* [Chrome Zoom Level How to Set Default](/articles/chrome-zoom-level-how-to-set-default/)
+

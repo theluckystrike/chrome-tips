@@ -83,3 +83,9 @@ Finally, keep important files and documents saved locally on your computer rathe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome for github best extensions](/articles/chrome-for-github-best-extensions/)
+* [Chrome Notification API Guide](/articles/chrome-notification-api-guide/)
+* [Chrome Update Made It Slower? Here's How to Fix It](/articles/chrome-update-made-it-slower-fix/)
+

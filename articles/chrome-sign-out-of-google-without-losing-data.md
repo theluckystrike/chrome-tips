@@ -104,4 +104,9 @@ For most users, the simplest method (Method 1) is perfectly safe and keeps all y
 
 Whatever method you choose, you can now sign out of your Google account confidently, knowing that your bookmarks, passwords, and browsing data are protected.
 
+## Related Articles
+* [How to Set Homepage on Chrome](/articles/how-to-set-homepage-on-chrome/)
+* [Chrome Eyedropper API Explained](/articles/chrome-eyedropper-api-explained/)
+* [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

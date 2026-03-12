@@ -83,4 +83,9 @@ The key is understanding that you need to be more intentional about how you use 
 
 For users who need to run Chrome alongside other memory-intensive applications, consider upgrading your RAM if possible. Even adding 4GB more to bring your total to 8GB makes a dramatic difference. However, if upgrading is not an option, the strategies in this article will help you get the most out of your current setup.
 
+## Related Articles
+* [Chrome This Site Cant Provide a Secure Connection Fix](/articles/chrome-this-site-cant-provide-a-secure-connection-fix/)
+* [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut/)
+* [Chrome: The Most Used Browser in the World — Why?](/articles/chrome-most-used-browser-in-the-world-why/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

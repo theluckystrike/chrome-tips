@@ -69,4 +69,9 @@ Managing your tabs and being mindful of how many you keep open at once can make 
 
 ---
 
+## Related Articles
+* [Chrome for DoorDash Web Ordering Tips](/articles/chrome-for-doordash-web-ordering-tips/)
+* [Chrome Time to First Byte Explained](/articles/chrome-time-to-first-byte-explained/)
+* [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/articles/google-docs-slow-in-chrome-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

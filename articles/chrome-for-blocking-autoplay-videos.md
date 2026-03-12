@@ -69,3 +69,9 @@ Finally, remember that you have the power to close tabs and windows that are cau
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Throttle Network Speed in Chrome](/articles/chrome-throttle-network-speed-how-to/)
+* [Chrome Extensions for Form Auto Filler](/articles/chrome-extensions-for-form-auto-filler/)
+* [Chrome Session Restore Not Working Fix](/articles/chrome-session-restore-not-working-fix/)
+

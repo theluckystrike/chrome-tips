@@ -67,3 +67,9 @@ The beauty of having chrome for text to speech on any page is that it transforms
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Starting Style CSS Explained](/articles/chrome-starting-style-css-explained/)
+* [chrome enrollment for schools how it works](/articles/chrome-enrollment-for-schools-how-it-works/)
+* [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching/)
+

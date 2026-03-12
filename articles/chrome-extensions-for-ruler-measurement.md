@@ -72,3 +72,9 @@ Remember that the most important thing is having a tool you actually use. An ext
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome for Travel Planning: Best Extensions](/articles/chrome-for-travel-planning-best-extensions/)
+* [Chrome for Focus Music Playlists Extensions](/articles/chrome-for-focus-music-playlists-extensions/)
+* [Chrome for Amazon Seller Central Tips](/articles/chrome-for-amazon-seller-central-tips/)
+

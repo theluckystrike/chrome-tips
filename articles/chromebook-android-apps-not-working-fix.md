@@ -88,3 +88,9 @@ You can also contact Chromebook support directly if your device is still under w
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Runway ML Web App](/articles/chrome-for-runway-ml-web-app/)
+* [Chrome Critical Rendering Path Explained](/articles/chrome-critical-rendering-path-explained/)
+* [Chrome Version How to Check Which Version](/articles/chrome-version-how-to-check-which-version/)
+

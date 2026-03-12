@@ -47,3 +47,9 @@ Also, make sure you have enough physical RAM in your computer. If you are workin
 The combination of Workona for organization and a tab suspension extension for performance gives you the best of both worlds. You can keep your projects organized and accessible while maintaining a fast, responsive browser.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Bookmark Current Page Shortcut](/articles/chrome-bookmark-current-page-shortcut/)
+* [Chrome for Cold Turkey Blocker Setup](/articles/chrome-for-cold-turkey-blocker-setup/)
+* [Chrome Password Manager vs Bitwarden: Which One Should You Use?](/articles/chrome-password-manager-vs-bitwarden/)
+

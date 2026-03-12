@@ -62,3 +62,9 @@ Remember that the person using Guest Mode will have a different experience than 
 Finally, if you share a computer with someone daily, consider whether a separate Chrome profile would serve your needs better. Profiles are designed for recurring use, while Guest Mode is best for occasional, temporary visitors.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Notion](/articles/chrome-extensions-for-notion/)
+* [Chrome Nesting CSS Native Support](/articles/chrome-nesting-css-native-support/)
+* [how to enable cookies in chrome](/articles/how-to-enable-cookies-in-chrome/)
+

@@ -71,4 +71,9 @@ Remember that the most useful tool is one you actually use. An extension with ev
 
 ---
 
+## Related Articles
+* [How to Remove Chrome Malware](/articles/how-to-remove-chrome-malware/)
+* [Chrome Voice Control How to Use](/articles/chrome-voice-control-how-to-use/)
+* [Chrome Extensions For Email Productivity](/articles//articles/chrome-extensions-for-email-productivity//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

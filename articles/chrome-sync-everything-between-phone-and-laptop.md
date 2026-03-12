@@ -125,4 +125,9 @@ Take a moment to enable sync on all your devices today—you'll wonder how you e
 
 ---
 
+## Related Articles
+* [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord//)
+* [Chrome Extensions Disabled by Administrator Fix](/articles/chrome-extensions-disabled-by-administrator-fix/)
+* [Chrome Google Keep Integration Tips](/articles/chrome-google-keep-integration-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -83,4 +83,9 @@ While no single security measure can guarantee complete protection, Site Isolati
 
 Don't wait until after a security incident to take action. Enable Chrome Site Isolation today and enjoy the peace of mind that comes with knowing your browsing activity is better protected.
 
+## Related Articles
+* [Chrome Extension GDPR Compliance Guide](/articles/chrome-extension-gdpr-compliance-guide/)
+* [Chrome vs Safari for iPhone Which is Better](/articles/chrome-vs-safari-for-iphone-which-is-better/)
+* [Chrome for Stable Diffusion Web UI Tips](/articles/chrome-for-stable-diffusion-web-ui-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

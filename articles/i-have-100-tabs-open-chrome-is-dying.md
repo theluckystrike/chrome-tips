@@ -120,4 +120,9 @@ Combine that with disabling unused extensions, limiting background processes, an
 
 Your browser should work for you, not against you. Try these steps today, and you might be surprised at how snappy Chrome can feel—even with 100 tabs.
 
+## Related Articles
+* [Chrome Opens on Startup Windows: How to Stop](/articles/chrome-opens-on-startup-windows-how-to-stop/)
+* [Chrome Android Dark Mode How to Enable](/articles/chrome-android-dark-mode-how-to-enable/)
+* [Chrome Permission Denied How to Fix](/articles/chrome-permission-denied-how-to-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

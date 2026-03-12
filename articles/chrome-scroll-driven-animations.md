@@ -84,4 +84,9 @@ Remember that scroll-driven animations should enhance usability, not replace it.
 
 ---
 
+## Related Articles
+* [Chrome for Blocking Autoplay Videos](/articles/chrome-for-blocking-autoplay-videos/)
+* [Best Chrome Extensions for Photographers](/articles/best-chrome-extensions-for-photographers/)
+* [Chrome for Coupon Finding Best Extensions](/articles/chrome-for-coupon-finding-best-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

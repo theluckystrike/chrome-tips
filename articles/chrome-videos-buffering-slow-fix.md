@@ -101,4 +101,9 @@ Finally, consider trying a different browser to see if the problem is specific t
 
 ---
 
+## Related Articles
+* [chrome for distraction free reading mode](/articles/chrome-for-distraction-free-reading-mode/)
+* [Chrome Translate Entire Page How To](/articles/chrome-translate-entire-page-how-to/)
+* [Chrome Autocomplete Wrong Suggestions How to Fix](/articles/chrome-autocomplete-wrong-suggestions-how-to-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

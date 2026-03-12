@@ -81,3 +81,9 @@ Start by checking which sites have permission to notify you. Remove the ones you
 Remember that you can always adjust these settings later if your needs change. The key is to take back control of your phone so that notifications only come from the sources that actually matter to you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Bookmark Manager](/articles//articles/chrome-extensions-for-bookmark-manager//)
+* [chrome circle to search on desktop](/articles/chrome-circle-to-search-on-desktop/)
+* [Chrome Taking 5 Minutes to Load: Fixes for Slow Computers](/articles/chrome-taking-5-minutes-to-load/)
+

@@ -137,4 +137,9 @@ The effort you put into Core Web Vitals optimization will pay off in better sear
 
 ---
 
+## Related Articles
+* [Chrome YouTube Keyboard Shortcuts](/articles/chrome-youtube-keyboard-shortcuts/)
+* [Chrome for Todoist Web App Best Settings](/articles/chrome-for-todoist-web-app-best-settings/)
+* [Chrome Too Many Processes Task Manager](/articles/chrome-too-many-processes-task-manager/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

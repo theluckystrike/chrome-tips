@@ -83,3 +83,9 @@ Chrome devtools responsive mode how to use is a skill worth developing whether y
 By taking the time to test your site in responsive mode, you can ensure that all your visitors have a good experience regardless of how they access your content. Small screens should not mean a compromised experience, and with regular testing using tools like this, you can build sites that work beautifully everywhere.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained/)
+* [Chrome Extensions For Focus And Productivity](/articles//articles/chrome-extensions-for-focus-and-productivity//)
+* [Chrome Scroll Not Smooth Fix](/articles/chrome-scroll-not-smooth-fix/)
+

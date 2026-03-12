@@ -86,3 +86,9 @@ Using Chrome effectively with Roam Research is all about finding the right combi
 Remember to keep your tab count manageable, use bookmarks as a backup organizational system, and take advantage of Chrome's built-in features for performance management. With these chrome for roam research web tips, you will be able to conduct more efficient research and spend less time struggling with your browser and more time focusing on your actual work.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Capture Full Page Screenshots in Chrome Using DevTools](/articles/chrome-screenshot-capture-devtools-full-page/)
+* [Chrome Virtual Keyboard API for Mobile - Complete Guide](/articles/chrome-virtual-keyboard-api-mobile/)
+* [Chrome Extensions For Citation Generator](/articles//articles/chrome-extensions-for-citation-generator//)
+

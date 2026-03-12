@@ -74,4 +74,9 @@ Many users find the best approach is using both platforms together, taking advan
 
 ---
 
+## Related Articles
+* [Chrome for Obsidian Web Clipper Setup](/articles/chrome-for-obsidian-web-clipper-setup/)
+* [Chrome Extensions for Web Scraping Without Code](/articles/chrome-extensions-for-web-scraping-without-code/)
+* [chrome extensions for wireframe design](/articles/chrome-extensions-for-wireframe-design/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

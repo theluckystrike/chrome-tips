@@ -70,3 +70,9 @@ Setting Chrome as your default browser is a small change that can significantly 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Site Settings Permissions Explained](/articles/chrome-site-settings-permissions-explained/)
+* [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure/)
+* [Chrome Extension for Spotify Lyrics](/articles/chrome-extension-for-spotify-lyrics/)
+

@@ -62,3 +62,9 @@ The most effective approach is to start simple. Use Diigo with its official exte
 With the right Chrome extensions supporting your Diigo habit, you can transform how you collect and organize information from the web. Instead of losing valuable resources in a sea of forgotten bookmarks, you will have a well-organized knowledge base that you can actually use.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply/)
+* [Chrome Extension for Saving Passwords Securely](/articles/chrome-extension-for-saving-passwords-securely/)
+* [How to Add Chrome Shortcut to Desktop](/articles/how-to-add-chrome-shortcut-to-desktop/)
+

@@ -65,3 +65,9 @@ The Streams API represents a shift in how browsers handle data-intensive tasks. 
 The next time you download a large file, upload a big folder to the cloud, or watch a video online, remember that the Streams API is working behind the scenes to make that experience as smooth as possible. It is one of those technologies that you do not notice directly, but it makes a real difference in how Chrome performs when the files get big.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Omnibox Search Tricks Most People Dont Know](/articles/chrome-omnibox-search-tricks-most-people-dont-know/)
+* [Chrome Web MIDI API Explained](/articles/chrome-web-midi-api-explained/)
+* [chrome how to enable cookies](/articles/chrome-how-to-enable-cookies/)
+

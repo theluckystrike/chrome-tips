@@ -68,3 +68,9 @@ While Chrome Lite Mode is no longer available, you have multiple options for ach
 The key is to find the combination of tools and habits that works best for your specific situation. Start with one or two of these solutions and see how they work for you. You may find that you do not need to replace Lite Mode at all once you explore what is already available in Chrome.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Focus Music Playlists Extensions](/articles/chrome-for-focus-music-playlists-extensions/)
+* [Chrome Google Meet Integration in Browser](/articles/chrome-google-meet-integration-in-browser/)
+* [Chrome Reader View How to Enable on Any Site](/articles/chrome-reader-view-how-to-enable-on-any-site/)
+

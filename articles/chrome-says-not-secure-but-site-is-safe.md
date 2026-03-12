@@ -59,5 +59,9 @@ If you own a website and want to fix the **"Not Secure" warning**, the solution 
 
 For developers and site owners who manage multiple projects, keeping dozens of tabs open for various **backend dashboards** can slow down your computer. Using **Tab Suspender Pro** is a great way to manage this. It automatically "hibernates" inactive tabs, freeing up **RAM** so you can focus on your security audits without your browser crashing. This keeps your workflow fast while you ensure all your domains are properly **encrypted**.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome Super Cookies: What Are They](/articles/chrome-super-cookies-what-are-they/)
+* [Chrome Tab Groups vs Multiple Windows](/articles/chrome-tab-groups-vs-windows/)
+* [Chrome Fullscreen Mode Shortcut](/articles/chrome-fullscreen-mode-shortcut/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

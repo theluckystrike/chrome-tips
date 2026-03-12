@@ -81,4 +81,9 @@ To summarize, if you are experiencing Chrome slow on work computer VPN, start by
 
 ---
 
+## Related Articles
+* [Chrome Location Access on Phone How to Control](/articles/chrome-location-access-on-phone-how-to-control/)
+* [Chrome for Instapaper Web Clipper](/articles/chrome-for-instapaper-web-clipper/)
+* [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

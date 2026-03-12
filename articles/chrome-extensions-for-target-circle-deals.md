@@ -68,3 +68,9 @@ Finally, do not forget about the deals that come from the Target Circle app itse
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome WebAssembly Debugging Guide](/articles/chrome-wasm-debugging-guide/)
+* [Chrome Fullscreen Not Working Fix](/articles/chrome-fullscreen-not-working-fix/)
+* [chrome shortcuts on desktop how to create](/articles/chrome-shortcuts-on-desktop-how-to-create/)
+

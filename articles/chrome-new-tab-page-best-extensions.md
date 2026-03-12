@@ -91,3 +91,9 @@ You do not need to commit to one extension forever. Try a few different ones and
 Once you find the right extension for your needs, you will be surprised how such a small change can improve your daily productivity and make browsing more enjoyable.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome fledge api what advertisers know about you](/articles/chrome-fledge-api-what-advertisers-know-about-you/)
+* [Chrome Devtools Webauthn Debugger](/articles/chrome-devtools-webauthn-debugger/)
+* [Chrome Passkeys Guide 2026](/articles/chrome-passkeys-guide-2026/)
+

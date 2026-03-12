@@ -124,4 +124,9 @@ The goal is not to use Chrome less but to use it smarter. With these steps, you 
 
 ---
 
+## Related Articles
+* [Best Chrome Extensions for GitHub](/articles/best-chrome-extensions-for-github/)
+* [chrome enhanced tracking protection setup](/articles/chrome-enhanced-tracking-protection-setup/)
+* [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

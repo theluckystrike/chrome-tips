@@ -67,4 +67,9 @@ The key is to find the right balance for your situation. Some people do well wit
 
 Whatever approach you choose, the act of taking intentional control over your browsing habits is an important step toward better productivity and mental clarity. You have already taken the first step by looking for solutions. Now it is time to try one of these extensions and see how much more you can accomplish when you take control of your browsing habits.
 
+## Related Articles
+* [Chrome Extensions for URL Shortener](/articles/chrome-extensions-for-url-shortener/)
+* [Chrome Slow on School Laptop? Here's How to Fix It](/articles/chrome-slow-on-school-laptop-how-to-fix/)
+* [Chrome Extensions for Zoom Meetings](/articles/chrome-extensions-for-zoom-meetings/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

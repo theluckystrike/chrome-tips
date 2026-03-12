@@ -107,4 +107,9 @@ Chrome's built-in DevTools provide a powerful, free way to capture full-page scr
 
 For users with slower computers or limited RAM, consider using **Tab Suspender Pro** to manage your open tabs more efficiently. Not only will your browser run faster, but you'll also have a smoother experience when capturing screenshots of long webpages.
 
+## Related Articles
+* [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes/)
+* [chrome for any.do web app setup](/articles/chrome-for-anydo-web-app-setup/)
+* [Chrome Font Editor in DevTools Explained](/articles/chrome-font-editor-in-devtools-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -79,4 +79,9 @@ As web standards continue to evolve, partitioned cookies will likely become an e
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Page Zoom Per Site](/articles/chrome-extensions-for-page-zoom-per-site/)
+* [chrome for price drop alert extensions](/articles/chrome-for-price-drop-alert-extensions/)
+* [Chrome Android Tabs Too Many How to Manage](/articles/chrome-android-tabs-too-many-how-to-manage/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

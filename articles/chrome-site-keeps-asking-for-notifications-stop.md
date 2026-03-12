@@ -119,4 +119,9 @@ Try the solution that fits your situation, and enjoy a less interrupted browsing
 
 ---
 
+## Related Articles
+* [Chrome for MDN Web Docs Extension](/articles/chrome-for-mdn-web-docs-extension/)
+* [Chrome Live Captions How to Turn On](/articles/chrome-live-captions-how-to-turn-on/)
+* [How to Cast Chrome Tab to TV](/articles/how-to-cast-chrome-tab-to-tv/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

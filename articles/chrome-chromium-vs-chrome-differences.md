@@ -109,4 +109,9 @@ For most users in 2026, Google Chrome remains the default recommendation for its
 
 ---
 
+## Related Articles
+* [Chrome Text to Speech Built In Features](/articles/chrome-text-to-speech-built-in-features/)
+* [Chrome Status Invalid Image Hash Fix](/articles/chrome-status-invalid-image-hash-fix/)
+* [Chrome for PeerTube Web Setup](/articles/chrome-for-peertube-web-setup/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

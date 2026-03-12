@@ -70,3 +70,9 @@ A well-performing website should load most of its content within a few seconds. 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Android Desktop Mode How to Enable](/articles/chrome-android-desktop-mode-how-to-enable/)
+* [Chrome Scope CSS Explained](/articles/chrome-scope-css-explained/)
+* [Chrome DevTools Workspaces Guide](/articles/chrome-workspaces-guide/)
+

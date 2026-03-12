@@ -117,4 +117,9 @@ Remember that extensions do have an impact on browser performance, so it is wort
 
 Finally, keep an eye on new extensions that continue to be developed. The Chrome extension ecosystem is constantly evolving, and new tools are being released that may serve your needs better than existing options. Stay curious and keep experimenting with new tools while maintaining the core extensions that have proven invaluable to your work.
 
+## Related Articles
+* [Chrome Zero Trust Security Model Explained](/articles/chrome-zero-trust-security-model-explained/)
+* [Chrome Extensions for Meditation](/articles/chrome-extensions-for-meditation/)
+* [Chrome AI Search Suggestions Explained](/articles/chrome-ai-search-suggestions-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -78,3 +78,9 @@ Restarting Chrome regularly also helps maintain good performance. Over time, bro
 By implementing these practices, you can create a more efficient Chrome setup that makes Canva run faster and more reliably. Small adjustments add up to a noticeably better design experience, allowing you to focus on creating without fighting your browser.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Energy Saver Mode What Does It Do](/articles/chrome-energy-saver-mode-what-does-it-do/)
+* [Chrome Private State Tokens Explained: What They Are and How They Work](/articles/chrome-private-state-tokens-explained/)
+* [Chrome for NFT Browsing Extensions](/articles/chrome-for-nft-browsing-extensions/)
+

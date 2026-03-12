@@ -64,3 +64,9 @@ Finally, think about which other extensions might help your specific workflow. W
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Mobile vs Desktop Features Difference: What You Need to Know](/articles/chrome-mobile-vs-desktop-features-difference/)
+* [Chrome JetStream Score What Is Good](/articles/chrome-jetstream-score-what-is-good/)
+* [Chrome User Data Folder Where Is It](/articles/chrome-user-data-folder-where-is-it/)
+

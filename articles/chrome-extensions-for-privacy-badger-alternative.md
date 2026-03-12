@@ -78,3 +78,9 @@ Stay informed about privacy issues and new tools. The digital landscape changes 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome vs Firefox Memory Usage Comparison 2024](/articles/chrome-vs-firefox-memory-usage-comparison-2024/)
+* [Chrome Extensions for Study Timer](/articles/chrome-extensions-for-study-timer/)
+* [Chrome Download Files on Phone Where to Find](/articles/chrome-download-files-on-phone-where-to-find/)
+

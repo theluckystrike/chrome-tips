@@ -76,3 +76,9 @@ Remember that service workers are generally beneficial for web performance. The 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Instagram Web Tips](/articles/chrome-for-instagram-web-tips/)
+* [Chrome Flexbox Debugging Guide](/articles/chrome-flexbox-debugging/)
+* [Chrome Extension for Website Blocker Parental](/articles/chrome-extension-for-website-blocker-parental/)
+

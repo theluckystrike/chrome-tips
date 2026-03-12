@@ -485,4 +485,9 @@ For additional privacy features in your extension workflow, consider exploring t
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Extensions for Therapists and Counselors](/articles/chrome-extensions-for-therapists-and-counselors/)
+* [Chrome Notifications Permission Per Site](/articles/chrome-notifications-permission-per-site/)
+* [chrome reopen closed tab shortcut](/articles/chrome-reopen-closed-tab-shortcut/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

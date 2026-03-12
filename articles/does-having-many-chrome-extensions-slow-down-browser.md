@@ -69,3 +69,9 @@ Remember that fewer, well-chosen extensions will serve you better than dozens of
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extension for Saving Articles Offline](/articles/chrome-extension-for-saving-articles-offline/)
+* [Chrome Netflix Not Working Fix](/articles/chrome-netflix-not-working-fix/)
+* [Chrome Extensions for Habit Tracker](/articles/chrome-extensions-for-habit-tracker/)
+

@@ -103,4 +103,9 @@ What makes CDP particularly valuable is that it is not some obscure internal tec
 
 As web applications become more complex and the demand for automated testing grows, understanding CDP becomes increasingly valuable for web developers. It demystifies how browser automation tools work and gives you the knowledge to build more robust, reliable, and automated workflows.
 
+## Related Articles
+* [Chrome Nesting CSS Native Support](/articles/chrome-nesting-css-native-support/)
+* [chrome proxy extension free best 2026](/articles/chrome-proxy-extension-free-best-2026/)
+* [How to Enable Chrome Tab Hover Previews](/articles/how-to-enable-chrome-tab-hover-previews/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

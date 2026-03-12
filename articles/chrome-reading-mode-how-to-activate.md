@@ -78,4 +78,9 @@ Try using Reading Mode whenever you plan to read through an article carefully. I
 
 ---
 
+## Related Articles
+* [Chrome Reader Mode on Phone: How to Enable](/articles/chrome-reader-mode-on-phone-how-to-enable/)
+* [chrome extensions for json viewer](/articles/chrome-extensions-for-json-viewer/)
+* [Chrome Extensions for Website Blocker](/articles/chrome-extensions-for-website-blocker/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

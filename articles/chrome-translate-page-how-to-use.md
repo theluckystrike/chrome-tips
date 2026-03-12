@@ -77,4 +77,9 @@ Some extensions might interfere with translation. If translation suddenly stops 
 
 ---
 
+## Related Articles
+* [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use/)
+* [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/articles/chrome-whatsapp-web-not-connecting-fix/)
+* [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/articles/chrome-smooth-scrolling-enable/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

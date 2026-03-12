@@ -98,3 +98,9 @@ If you frequently have many tabs open and notice performance issues, consider us
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Hardware Acceleration Guide](/articles/chrome-hardware-acceleration-guide/)
+* [Chrome Regex Lookbehind Support: What You Need to Know](/articles/chrome-regex-lookbehind-support/)
+* [Chrome Extensions for Grammarly Alternative Free](/articles/chrome-extensions-for-grammarly-alternative-free/)
+

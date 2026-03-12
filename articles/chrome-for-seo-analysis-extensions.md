@@ -83,3 +83,9 @@ Chrome extensions for SEO analysis have made it easier than ever to understand h
 Remember that while these extensions are helpful, they are just one part of a complete SEO strategy. Quality content, good user experience, and ethical link-building practices remain essential for long-term search success.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained/)
+* [Chrome Service Worker High CPU Fix](/articles/chrome-service-worker-high-cpu-fix/)
+* [Chrome for Canva Web App Optimization](/articles/chrome-for-canva-web-app-optimization/)
+

@@ -97,3 +97,9 @@ Newer versions of Chrome include performance improvements and security fixes tha
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome GPU Acceleration Gaming Settings](/articles/chrome-gpu-acceleration-gaming-settings/)
+* [Chrome Mobile Tips Save Data Usage](/articles/chrome-mobile-tips-save-data-usage/)
+* [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web/)
+

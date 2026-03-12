@@ -76,3 +76,9 @@ Finally, pay attention to how your computer behaves. If you notice slowdowns, wa
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome shared array buffer usage](/articles/chrome-shared-array-buffer-usage/)
+* [Chrome Extensions for Note Taking in Meetings](/articles/chrome-extensions-for-note-taking-in-meetings/)
+* [chrome file handling api explained](/articles/chrome-file-handling-api-explained/)
+

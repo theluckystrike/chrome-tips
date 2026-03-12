@@ -57,5 +57,9 @@ If you're dealing with persistent **browser hijacks** or unwanted setting change
 
 Using **Tab Suspender Pro** helps by automatically "hibernating" inactive tabs, which frees up **RAM** and keeps Chrome snappy. This ensures that when you need to jump into your **Search engine settings** to remove a **Yahoo hijack**, the browser is responsive and doesn't hang. By keeping your system resources focused on your active tasks, you can manage your **security settings** more effectively and spot unwanted changes before they become a major headache.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome PWA Update Mechanism How It Works](/articles/chrome-pwa-update-mechanism-how-it-works/)
+* [Chrome Web Serial API Guide](/articles/chrome-web-serial-api-guide/)
+* [Chrome Continue Where You Left Off Not Working](/articles/chrome-continue-where-you-left-off-not-working/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

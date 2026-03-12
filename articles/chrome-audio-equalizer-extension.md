@@ -66,3 +66,9 @@ A chrome audio equalizer extension is one of the easiest ways to dramatically im
 Give it a try. Install an extension, play your favorite content, and start adjusting. You might be surprised at how much better your favorite songs, movies, and podcasts can sound with just a few simple tweaks.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Edit Any Webpage Text Using Inspect Element](/articles/chrome-edit-webpage-text-inspect-element/)
+* [Chrome Blink Engine Explained For Beginners](/articles/chrome-blink-engine-explained-for-beginners/)
+* [Chrome Print to PDF Without Margins](/articles/chrome-print-to-pdf-without-margins/)
+

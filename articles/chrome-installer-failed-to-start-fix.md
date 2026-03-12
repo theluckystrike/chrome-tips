@@ -84,3 +84,9 @@ If you have tried everything and the Chrome installer still will not start, ther
 You can also try the Chrome offline installer, which is a different version of the installer designed to work in situations where the normal installer fails. Search for "Chrome offline installer" to find this alternative version.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Slow on iPad Why: Causes and Solutions](/articles/chrome-slow-on-ipad-why/)
+* [Chrome Extensions for Split Tabs](/articles/chrome-extensions-for-split-tabs/)
+* [Chrome Virtual Keyboard API for Mobile - Complete Guide](/articles/chrome-virtual-keyboard-api-mobile/)
+

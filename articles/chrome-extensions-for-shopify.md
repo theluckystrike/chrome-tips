@@ -68,3 +68,9 @@ Remember that the goal of using extensions is to free up your time for the work 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Auto Dark Mode for Web Contents](/articles/chrome-auto-dark-mode-for-web-contents/)
+* [How Many Chrome Extensions Is Too Many](/articles/how-many-chrome-extensions-is-too-many/)
+* [Chrome for HBO Max Streaming Issues](/articles/chrome-for-hbo-max-streaming-issues/)
+

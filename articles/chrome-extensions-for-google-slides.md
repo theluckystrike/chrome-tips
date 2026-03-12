@@ -53,3 +53,9 @@ The right combination of extensions can genuinely improve your Google Slides exp
 Take some time to think about where you are spending the most effort. Is it finding the right tab? Waiting for your browser to respond? Manually formatting each slide? Identifying your biggest frustration will help you choose the extension that will make the most difference.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome ERR_CONNECTION_REFUSED Fix](/articles/chrome-err-connection-refused-fix/)
+* [How to Restore Closed Tabs in Chrome](/articles/chrome-restore-closed-tabs-guide/)
+* [Chrome Media Autoplay How to Block](/articles/chrome-media-autoplay-how-to-block/)
+

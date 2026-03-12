@@ -81,3 +81,9 @@ To install any Chrome extension, visit the Chrome Web Store and search for the n
 Try installing one or two extensions at a time so you can learn how each one works before adding more. This approach helps you get comfortable with each tool and decide whether it is actually useful for your workflow.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Memory Saver Feature Explained](/articles/chrome-memory-saver-feature-explained/)
+* [Chrome Screen Sharing in Browser How To](/articles/chrome-screen-sharing-in-browser-how-to/)
+* [Chrome Extensions For Fitness Tracking Dashboard](/articles//articles/chrome-extensions-for-fitness-tracking-dashboard//)
+

@@ -49,4 +49,9 @@ You can also try clearing your browser cache and cookies. Sometimes cached data 
 
 If all else fails, you may need to reset Chrome to its default settings. This removes all your extensions, settings, and data, so make sure to back up anything important first. After the reset, you can reinstall your extensions from the Chrome Web Store.
 
+## Related Articles
+* [chrome for telegram web best settings](/articles/chrome-for-telegram-web-best-settings/)
+* [Chrome PDF Viewer Settings: Complete Customization Guide](/articles/chrome-pdf-viewer-settings/)
+* [Chrome Local Font Access for Web Design](/articles/chrome-local-font-access-web-design/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

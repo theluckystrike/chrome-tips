@@ -61,3 +61,9 @@ Chrome credential manager autofill explained simply is a convenient way to manag
 Give it a try on your next login and see how much time it saves you. With a little bit of setup, you will wonder how you ever browsed without it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Zillow Best Extensions](/articles/chrome-for-zillow-best-extensions/)
+* [chrome translate on phone how to use](/articles/chrome-translate-on-phone-how-to-use/)
+* [Why Does Chrome Get Slower With More Tabs? A Practical Guide](/articles/why-does-chrome-get-slower-with-more-tabs/)
+

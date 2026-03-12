@@ -154,4 +154,9 @@ Chrome not loading pages while your internet works is frustrating, but it's usua
 
 For most users, clearing the cache and disabling problematic extensions does the trick. If you keep many tabs open and notice Chrome getting sluggish, **Tab Suspender Pro** can help by managing your tabs more efficiently and freeing up system resources.
 
+## Related Articles
+* [Chrome Media Session API for Music Players](/articles/chrome-media-session-api-for-music-players/)
+* [chrome web store not loading fix](/articles/chrome-web-store-not-loading-fix/)
+* [chrome reduce data usage on mobile](/articles/chrome-reduce-data-usage-on-mobile/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

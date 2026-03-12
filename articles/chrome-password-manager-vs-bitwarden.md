@@ -86,3 +86,9 @@ If you find your browser feeling sluggish, consider using a tab management exten
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Password Generator How to Use](/articles/chrome-password-generator-how-to-use/)
+* [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api/)
+* [Chrome for Time Management Extensions](/articles/chrome-for-time-management-extensions/)
+

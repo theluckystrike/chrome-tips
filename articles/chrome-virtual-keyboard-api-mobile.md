@@ -109,4 +109,9 @@ For Chrome extension developers, similar principles apply when handling keyboard
 
 ---
 
+## Related Articles
+* [chrome force dark mode on all websites](/articles/chrome-force-dark-mode-on-all-websites/)
+* [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
+* [chrome safe browsing should i turn on](/articles/chrome-safe-browsing-should-i-turn-on/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

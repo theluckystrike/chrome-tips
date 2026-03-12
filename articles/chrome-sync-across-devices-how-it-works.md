@@ -75,4 +75,9 @@ If you find that managing many open tabs becomes overwhelming even with sync wor
 
 The key to smooth sync is using the same Google account on every device, keeping sync turned on, and making sure Chrome stays updated. With those basics in place, your browsing data will follow you anywhere you go.
 
+## Related Articles
+* [How to Find Chrome Extensions That Slow Down Browser](/articles/how-to-find-chrome-extensions-that-slow-down-browser/)
+* [Chrome Preload Pages Setting Explained](/articles/chrome-preload-pages-setting-explained/)
+* [Chrome Vibration API: A Complete Guide for Mobile Web Developers](/articles/chrome-vibration-api-mobile-web/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

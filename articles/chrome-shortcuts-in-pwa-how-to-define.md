@@ -70,3 +70,9 @@ Chrome shortcuts in PWAs represent one of those features that not many people kn
 The next time you install a new PWA, pay attention to what shortcuts are available. You might discover quick paths to features you use all the time but never realized were just a right-click away. And if you are involved in building PWAs yourself, consider adding well-thought-out shortcuts to improve the user experience for everyone who installs your app.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Web App vs Native App Battery Comparison](/articles/chrome-web-app-vs-native-app-battery-comparison/)
+* [Chrome for Stripe Dashboard Tips](/articles/chrome-for-stripe-dashboard-tips/)
+* [Chrome Text to Speech Built In Feature](/articles/chrome-text-to-speech-built-in-feature/)
+

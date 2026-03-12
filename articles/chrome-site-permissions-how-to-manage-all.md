@@ -66,5 +66,9 @@ Managing **site permissions** is a critical part of maintaining a healthy browse
 
 This is where **Tab Suspender Pro** becomes an essential tool. It automatically "hibernates" inactive tabs, freeing up **RAM** and **CPU** resources. This ensures that when you need to jump into your **Chrome settings** to manage **location access** or **microphone permissions**, the browser is snappy and responsive. By keeping your system resources lean, you can audit your **security settings** without the frustration of lag or browser crashes.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [How to Change Default Download Location Chrome](/articles/how-to-change-default-download-location-chrome/)
+* [Chrome Extension for Viewing Page Load Time](/articles/chrome-extension-for-viewing-page-load-time/)
+* [Chrome Extension for Highlighting Text on Websites](/articles/chrome-extension-for-highlighting-text-on-websites/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

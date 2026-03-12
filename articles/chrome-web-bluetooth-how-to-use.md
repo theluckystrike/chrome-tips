@@ -84,3 +84,9 @@ Give Web Bluetooth a try with your compatible devices. You might find that it si
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome vs Arc Browser: Should I Switch?](/articles/chrome-vs-arc-browser-should-i-switch/)
+* [Chrome Multiple Profiles How to Switch Quickly](/articles/chrome-multiple-profiles-how-to-switch-quickly/)
+* [Chrome Site Isolation Explained for Users](/articles/chrome-site-isolation-explained-for-users/)
+

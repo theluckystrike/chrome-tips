@@ -84,3 +84,9 @@ Organize your bookmarks into folders based on their purpose. For example, you mi
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Shopify](/articles/chrome-extensions-for-shopify/)
+* [chrome offline mode how to browse without internet](/articles/chrome-offline-mode-how-to-browse-without-internet/)
+* [Chrome vs Samsung Internet on Android](/articles/chrome-vs-samsung-internet-on-android/)
+

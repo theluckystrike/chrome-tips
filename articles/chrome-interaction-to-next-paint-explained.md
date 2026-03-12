@@ -56,4 +56,9 @@ In these situations, you have limited options. You can try using a different bro
 
 Chrome interaction to next paint explained ultimately comes down to this: it measures how quickly websites respond to you, and while you can optimize your browser settings, the real improvement comes from website developers optimizing their code. By understanding this metric, you can better diagnose browsing issues and make informed decisions about how you use Chrome.
 
+## Related Articles
+* [Chrome Journeys Feature in History Explained](/articles/chrome-journeys-feature-in-history-explained/)
+* [chrome extension for measuring things on screen](/articles/chrome-extension-for-measuring-things-on-screen/)
+* [chrome extensions for pdf editing free](/articles/chrome-extensions-for-pdf-editing-free/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -77,3 +77,9 @@ Make a habit of restarting Chrome periodically, especially if you have been usin
 Finally, keep your system clean by running regular disk cleanup and making sure you have enough free storage space. A full hard drive can slow down all applications, including Chrome.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome classroom extension for teachers](/articles/chrome-classroom-extension-for-teachers/)
+* [Chrome Extension for Highlighting Text on Websites](/articles/chrome-extension-for-highlighting-text-on-websites/)
+* [chrome for distraction blocking extensions](/articles/chrome-for-distraction-blocking-extensions/)
+

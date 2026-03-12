@@ -82,3 +82,9 @@ Finally, be patient with yourself. Building new habits takes time, and setbacks 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Best Settings for Streaming Video](/articles/chrome-best-settings-for-streaming-video/)
+* [Chrome Developer Tools for Non Developers](/articles//chrome-developer-tools-for-non-developers//)
+* [Chrome Guest Browsing for Shared Computers](/articles/chrome-guest-browsing-for-shared-computers/)
+

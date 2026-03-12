@@ -96,4 +96,9 @@ Remember, you always have the option to allow notifications from specific sites 
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Extensions for Virtual Whiteboard](/articles/chrome-extensions-for-virtual-whiteboard/)
+* [Is Microsoft Edge Better Than Chrome Now](/articles/is-microsoft-edge-better-than-chrome-now/)
+* [Chrome Blink Engine Explained For Beginners](/articles/chrome-blink-engine-explained-for-beginners/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

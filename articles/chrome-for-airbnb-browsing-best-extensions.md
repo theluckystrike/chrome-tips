@@ -72,3 +72,9 @@ These extensions work together nicely and can transform how you search for vacat
 Give these extensions a try and see how they improve your Airbnb experience. Small improvements in your search process can lead to better accommodations, lower prices, and more enjoyable trips. The right combination of tools can make all the difference between a stressful search and a smooth planning process.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Android Tablet Optimization](/articles/chrome-for-android-tablet-optimization/)
+* [chrome for banking online security tips](/articles/chrome-for-banking-online-security-tips/)
+* [Chrome Print to PDF Without Margins](/articles/chrome-print-to-pdf-without-margins/)
+

@@ -76,3 +76,9 @@ Creating website shortcuts is one of the simplest ways to customize your phone e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for edX Web App Best Settings](/articles/chrome-for-edx-web-app-best-settings/)
+* [How to Set Up Parental Controls on Your Chromebook](/articles/chromebook-parental-controls-setup/)
+* [Chrome PDF Not Opening Fix](/articles/chrome-pdf-not-opening-fix/)
+

@@ -77,4 +77,9 @@ So, how long does the **Chrome extension review process** take? For most extensi
 
 Understanding the process and preparing accordingly will make your experience smoother and help your extension succeed in the Chrome Web Store.
 
+## Related Articles
+* [Chrome Extension for Batch Downloading Images](/articles/chrome-extension-for-batch-downloading-images/)
+* [Chrome Android Tabs Too Many How to Manage](/articles/chrome-android-tabs-too-many-how-to-manage/)
+* [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

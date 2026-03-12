@@ -96,3 +96,9 @@ As a last resort, completely uninstall Chrome and reinstall it. This ensures you
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Web Share API Explained](/articles/chrome-web-share-api-explained/)
+* [How to Cast Chrome Tab to TV](/articles/how-to-cast-chrome-tab-to-tv/)
+* [Chrome Shape Detection API Explained](/articles/chrome-shape-detection-api-explained/)
+

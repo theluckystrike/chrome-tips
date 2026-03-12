@@ -77,4 +77,9 @@ When you use voice search, Google processes your audio to understand what you're
 
 Voice search is a powerful, underutilized tool that can change how you interact with the web. By following these steps, you can save time and enjoy a more modern, hands-free browsing experience.
 
+## Related Articles
+* [Chrome Address Bar Not Working Fix](/articles/chrome-address-bar-not-working-fix/)
+* [Chrome Extension for YouTube Ad Blocker](/articles/chrome-extension-for-youtube-ad-blocker/)
+* [chrome for distraction blocking extensions](/articles/chrome-for-distraction-blocking-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -83,4 +83,9 @@ Remember that your needs may change over time. If you get a new monitor or notic
 
 The beauty of Chrome is that these settings travel with your profile. Once you configure your ideal zoom default, it transfers across sessions and, if you use sync, across your devices.
 
+## Related Articles
+* [Chrome Extension for Changing User Agent](/articles/chrome-extension-for-changing-user-agent/)
+* [chrome save all open tabs as bookmarks](/articles/chrome-save-all-open-tabs-as-bookmarks/)
+* [Chrome Extensions For Canva Companion](/articles//articles/chrome-extensions-for-canva-companion//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

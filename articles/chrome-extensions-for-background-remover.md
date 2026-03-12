@@ -61,4 +61,9 @@ Tab Suspender Pro is another useful Chrome extension that helps manage your brow
 
 ---
 
+## Related Articles
+* [chrome pi hole vs browser ad blocker comparison](/articles/chrome-pi-hole-vs-browser-ad-blocker-comparison/)
+* [How to Check If Chrome Extension Is Safe](/articles/how-to-check-if-chrome-extension-is-safe/)
+* [chrome web serial api explained](/articles/chrome-web-serial-api-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

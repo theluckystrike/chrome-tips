@@ -82,3 +82,9 @@ Pocket also removes ads and distractions from saved articles so you can focus on
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [how to delete chrome browsing data automatically](/articles/how-to-delete-chrome-browsing-data-automatically/)
+* [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows/)
+* [Chrome Cleanup Tool Removed: What to Use Instead](/articles/chrome-cleanup-tool-removed-what-to-use-instead/)
+

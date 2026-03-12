@@ -75,5 +75,9 @@ A helpful tip here is to consider using **Tab Suspender Pro**, which automatical
 
 By using **Tab Suspender Pro**, you ensure that background tabs aren't competing for **CPU** cycles with the operating system's background update processes. It’s an essential tool for keeping Chrome snappy on **Windows 10** and **Windows 11**, especially immediately following a major system patch.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [chrome for vimeo web upload tips](/articles/chrome-for-vimeo-web-upload-tips/)
+* [Best Chrome Setup For Graphic Designers](/articles/best-chrome-setup-for-graphic-designers/)
+* [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

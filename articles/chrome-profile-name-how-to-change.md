@@ -76,4 +76,9 @@ You can change your profile name as often as you like. There is no limit on how 
 
 ---
 
+## Related Articles
+* [Chrome for Replit in Browser Tips](/articles/chrome-for-replit-in-browser-tips/)
+* [Chrome for Netflix Best Quality Settings](/articles/chrome-for-netflix-best-quality-settings/)
+* [How to Fix Slow Slack Web App in Chrome](/articles/chrome-slack-web-app-slow-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

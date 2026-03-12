@@ -143,4 +143,9 @@ Remember that optimization is a process. Start with the fundamentals, measure yo
 
 ---
 
+## Related Articles
+* [Chrome User Data Directory: What Each File Does](/articles/chrome-user-data-directory-what-each-file-does/)
+* [Chrome Extensions for Meeting Notes](/articles/chrome-extensions-for-meeting-notes/)
+* [chrome for crypto portfolio tracking web](/articles/chrome-for-crypto-portfolio-tracking-web/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

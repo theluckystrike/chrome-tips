@@ -56,3 +56,9 @@ Browser defaults are one of those small but persistent frustrations that many pe
 The most important thing is to use the browser that works best for you and your workflow. Whether that is Chrome, another browser, or a combination of several, understanding how your default browser setting works gives you control over your computing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Vertical Tab Bar](/articles/chrome-extensions-for-vertical-tab-bar/)
+* [Chrome Enhanced Safe Browsing Guide](/articles/chrome-enhanced-safe-browsing/)
+* [Chrome Education Account What It Includes](/articles/chrome-education-account-what-it-includes/)
+

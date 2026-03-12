@@ -96,3 +96,9 @@ You can also use Chrome's history and Recently Closed feature to recover tabs if
 Combine these methods for the best results. Enable Chrome's built-in restore, install Tab Suspender Pro for automatic saving, and bookmark your most important pages. With these tools working together, you'll never have to worry about losing tabs again.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome AI Summarize Feature How to Use](/articles/chrome-ai-summarize-feature-how-to-use/)
+* [Chrome Bookmark Bar Disappeared How to Fix](/articles/chrome-bookmark-bar-disappeared-how-to-fix/)
+* [Chrome Decorators JavaScript Proposal: What You Need to Know](/articles//chrome-decorators-javascript-proposal//)
+

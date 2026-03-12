@@ -63,4 +63,9 @@ The best chrome extensions for online research share a common goal: reducing fri
 
 The key is to start with one or two extensions that match your biggest challenge and add more as needed. Research should be about discovering and synthesizing information, not fighting with your browser.
 
+## Related Articles
+* [chrome how to enable cookies](/articles/chrome-how-to-enable-cookies/)
+* [Chrome Version How to Check Which Version](/articles/chrome-version-how-to-check-which-version/)
+* [Chrome for Website Blocking During Work](/articles/chrome-for-website-blocking-during-work/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

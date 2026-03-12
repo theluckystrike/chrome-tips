@@ -81,5 +81,9 @@ Managing your **autofill settings** is just one part of maintaining a healthy br
 
 Using **Tab Suspender Pro** helps by automatically "hibernating" background tabs that are eating up your **RAM**. This ensures that Chrome has the resources it needs to handle **syncing** and **autofill database** updates without stuttering. A lean browser makes it much easier to jump into your settings, fix a typo in your **saved address**, and get back to your shopping or research.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome for Managing Saved Addresses](/articles/chrome-for-managing-saved-addresses/)
+* [How to Block Ads on Chrome Without Extension](/articles/how-to-block-ads-on-chrome-without-extension/)
+* [Chrome Wappalyzer Alternative Built In](/articles/chrome-wappalyzer-alternative-built-in/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

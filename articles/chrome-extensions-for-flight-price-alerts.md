@@ -54,3 +54,9 @@ Finally, consider combining these extensions with other travel tools. Some exten
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners/)
+* [Chrome vs Chromium: What's the Difference and Which Should You Use?](/articles/chrome-chromium-vs-chrome-differences/)
+* [Chrome Best Settings for College Students](/articles/chrome-best-settings-for-college-students/)
+

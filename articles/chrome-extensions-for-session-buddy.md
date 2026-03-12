@@ -50,3 +50,9 @@ It is also a good habit to save your sessions regularly, especially before closi
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Stop Chrome from Suspending My Tabs](/articles/how-to-stop-chrome-from-suspending-my-tabs/)
+* [Chrome Permission Denied How to Fix](/articles/chrome-permission-denied-how-to-fix/)
+* [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users/)
+

@@ -120,4 +120,9 @@ Chrome video playback stuttering fix does not have to be complicated. By followi
 
 Remember that tools like Tab Suspender Pro can significantly reduce memory usage, giving your videos more breathing room to play smoothly. Combine good browser habits with the right settings, and you will be able to watch videos without frustrating stuttering, even on older hardware.
 
+## Related Articles
+* [Chrome Dashlane vs 1Password Comparison](/articles//chrome-dashlane-vs-onepassword-comparison//)
+* [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/articles/chrome-autofill-wrong-address-keeps-appearing/)
+* [Chrome Font Too Small on Certain Websites Fix](/articles/chrome-font-too-small-on-certain-websites-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

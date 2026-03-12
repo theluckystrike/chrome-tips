@@ -104,4 +104,9 @@ Monitor your system resources using Task Manager periodically. If you notice Chr
 
 Consider making Chrome performance settings part of your routine after any Windows update. Unfortunately, Windows updates can reset browser settings, so checking these after each update can prevent performance degradation.
 
+## Related Articles
+* [Chrome Custom Fonts How to Change](/articles//chrome-custom-fonts-how-to-change//)
+* [Best Chrome Extensions for Email Management](/articles/best-chrome-extensions-for-email-management/)
+* [Chrome Android Dark Mode How to Enable](/articles/chrome-android-dark-mode-how-to-enable/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

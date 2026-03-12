@@ -162,4 +162,9 @@ If you've tried everything and ChatGPT is still slow, the issue might be on Open
 
 ---
 
+## Related Articles
+* [chrome webrtc video call quality improvement](/articles/chrome-webrtc-video-call-quality-improvement/)
+* [chrome for shopping price comparison tools](/articles/chrome-for-shopping-price-comparison-tools/)
+* [Chrome Google Translate Built in Feature Tips](/articles/chrome-google-translate-built-in-feature-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

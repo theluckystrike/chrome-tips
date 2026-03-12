@@ -69,4 +69,9 @@ For additional performance improvements, consider using extensions like Tab Susp
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome IndexedDB Storage Explained](/articles/chrome-indexeddb-storage-explained/)
+* [Chrome Family Link How to Use on Desktop](/articles/chrome-family-link-how-to-use-on-desktop/)
+* [Chrome Sandboxing How It Protects You](/articles/chrome-sandboxing-how-it-protects-you/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

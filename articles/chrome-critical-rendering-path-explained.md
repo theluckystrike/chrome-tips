@@ -60,3 +60,9 @@ Consider trying Tab Suspender Pro if you frequently keep many tabs open. This ex
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome for vpn extensions comparison](/articles/chrome-for-vpn-extensions-comparison/)
+* [chrome google docs keyboard shortcuts](/articles/chrome-google-docs-keyboard-shortcuts/)
+* [Chrome Tech Support Scam Popup Fix](/articles/chrome-tech-support-scam-popup-fix/)
+

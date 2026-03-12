@@ -70,3 +70,9 @@ If you want even more control over how Chrome manages your tabs, try Tab Suspend
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.*
+
+## Related Articles
+* [Chrome Audit Page Seo How To](/articles/chrome-audit-page-seo-how-to/)
+* [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained/)
+* [chromebook bluetooth not working fix](/articles/chromebook-bluetooth-not-working-fix/)
+

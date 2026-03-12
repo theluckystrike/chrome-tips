@@ -76,4 +76,9 @@ Whatever browser you choose, remember that you can improve your experience by ma
 
 Chrome's position as the most used browser in the world reflects its ability to deliver a solid, all-around experience. Whether you are a casual user or a power user, Chrome has the features and flexibility to meet your needs. Try it out and see if it works for you.
 
+## Related Articles
+* [Chrome Extensions For Fitness Tracking Dashboard](/articles//articles/chrome-extensions-for-fitness-tracking-dashboard//)
+* [Chrome Default Search Engine Changed How to Fix](/articles//chrome-default-search-engine-changed-how-to-fix//)
+* [How to Auto Delete Chrome History After Time: Complete Guide](/articles/chrome-history-auto-delete-after-time/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

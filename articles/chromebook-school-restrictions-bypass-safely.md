@@ -110,4 +110,9 @@ Stay productive, stay focused, and make the most of the resources available to y
 
 ---
 
+## Related Articles
+* [chrome for soundcloud web player extensions](/articles/chrome-for-soundcloud-web-player-extensions/)
+* [chrome material you design on desktop](/articles/chrome-material-you-design-on-desktop/)
+* [Chrome File System Access API: A Complete Guide](/articles/chrome-file-system-access-api/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

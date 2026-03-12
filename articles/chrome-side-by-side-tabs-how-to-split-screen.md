@@ -68,3 +68,9 @@ Experiment with the different methods described here to find what works best for
 Split screen is one of those features that seems small but makes a big difference in your daily browsing experience. Give it a try and see how much easier it makes your online tasks.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Structured Clone and Deep Copy: A Complete Guide](/articles/chrome-structured-clone-deep-copy/)
+* [Chrome for Accessibility Testing Extensions](/articles/chrome-for-accessibility-testing-extensions/)
+* [Chrome Vertical Tabs How to Enable](/articles/chrome-vertical-tabs-how-to-enable/)
+

@@ -68,3 +68,9 @@ The good news is that you can experiment with both and see which one feels bette
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Audio Fingerprinting What It Is](/articles/chrome-audio-fingerprinting-what-it-is/)
+* [chrome not playing youtube videos fix](/articles/chrome-not-playing-youtube-videos-fix/)
+* [Chrome Startup Page How to Set](/articles/chrome-startup-page-how-to-set/)
+

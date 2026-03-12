@@ -79,3 +79,9 @@ Your browsing sessions become shorter and more purposeful. Rather than losing th
 Many people also report feeling less overwhelmed after eliminating news feeds from their browsing experience. The constant stream of news and updates can create a sense of information overload, and removing that stream brings a welcome sense of calm to your online activities.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Invoice Creation](/articles/chrome-extensions-for-invoice-creation/)
+* [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy/)
+* [Chrome WebGPU API Getting Started Guide](/articles/chrome-webgpu-api-getting-started/)
+

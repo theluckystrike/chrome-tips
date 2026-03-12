@@ -66,3 +66,9 @@ Keep your saved palettes organized so you can find them later. Most extensions l
 If you find yourself with too many tabs open while working on color selection, consider using Tab Suspender Pro to manage your browser resources efficiently. It automatically suspends inactive tabs to free up memory while keeping your workflow smooth. This is especially helpful when you are comparing multiple color palettes across different tabs and want to maintain browser performance without losing your place.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for SSL Certificate Checker](/articles/chrome-extensions-for-ssl-certificate-checker/)
+* [Chrome Developer Tools Shortcut](/articles//chrome-developer-tools-shortcut//)
+* [Chrome for Forest Focus Timer Extension](/articles/chrome-for-forest-focus-timer-extension/)
+

@@ -66,3 +66,9 @@ Taking a minute to export your bookmarks now can save you a lot of frustration l
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Background Tabs Slowing Down Computer Fix](/articles/chrome-background-tabs-slowing-down-computer-fix/)
+* [chrome for yahoo mail best extensions](/articles/chrome-for-yahoo-mail-best-extensions/)
+* [How to Inspect and Debug WebSocket Connections in Chrome](/articles/chrome-websocket-inspect-debug/)
+

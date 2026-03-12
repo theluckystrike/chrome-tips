@@ -96,4 +96,9 @@ If you frequently work with many browser tabs and find that PDFs and other conte
 
 You can find **Tab Suspender Pro** in the Chrome Web Store and set it up to help keep your browser running smoothly.
 
+## Related Articles
+* [Chrome Developer Tools for Non Developers](/articles//chrome-developer-tools-for-non-developers//)
+* [Chrome ERR_CONNECTION_REFUSED Fix](/articles/chrome-err-connection-refused-fix/)
+* [chrome for monday.com best extensions](/articles/chrome-for-mondaycom-best-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -68,3 +68,9 @@ Take some time to learn the features of each extension you install. Most offer t
 The right combination of extensions can transform your prospecting workflow from overwhelming to efficient. You will spend less time on research and more time actually selling, which is exactly what every sales professional needs.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Parental Controls Without Extension](/articles/chrome-parental-controls-without-extension/)
+* [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users/)
+* [Chrome Extension for Saving Passwords Securely](/articles/chrome-extension-for-saving-passwords-securely/)
+

@@ -69,4 +69,9 @@ If you manage a website yourself, make sure you keep your SSL certificate renewe
 ---
 
 >>>>>>> qa/loop-5
+## Related Articles
+* [Chrome Extensions Using Too Much Memory](/articles/chrome-extensions-using-too-much-memory/)
+* [Chrome Extensions for Saving Articles Offline](/articles/chrome-extensions-for-saving-articles-offline/)
+* [Chrome Tab Color Coding How to Use](/articles/chrome-tab-color-coding-how-to-use/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

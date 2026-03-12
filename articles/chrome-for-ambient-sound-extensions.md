@@ -84,3 +84,9 @@ Take some time to experiment with different sounds and find what works for you. 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply/)
+* [Chrome Speed Comparison Test How to Run](/articles/chrome-speed-comparison-test-how-to-run/)
+* [Chrome for Translation On Hover Extensions](/articles/chrome-for-translation-on-hover-extensions/)
+

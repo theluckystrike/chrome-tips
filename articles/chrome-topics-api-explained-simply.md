@@ -71,4 +71,9 @@ The important thing is that you understand what is happening with your data. Bro
 
 ---
 
+## Related Articles
+* [Chrome Copy Paste Not Working Fix](/articles/chrome-copy-paste-not-working-fix/)
+* [Chromebook for Seniors Setup Guide](/articles/chromebook-for-seniors-setup-guide/)
+* [Chrome Best Extensions for Parental Control](/articles/chrome-best-extensions-for-parental-control/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

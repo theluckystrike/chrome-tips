@@ -72,4 +72,9 @@ Whether you are a developer building performance-conscious applications or a use
 
 ---
 
+## Related Articles
+* [Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser](/articles/chrome-sanitizer-api-html-safe/)
+* [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track/)
+* [Chrome for Blue Light Filter Extensions](/articles/chrome-for-blue-light-filter-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

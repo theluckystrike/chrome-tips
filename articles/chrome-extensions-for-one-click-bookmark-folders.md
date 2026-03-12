@@ -58,3 +58,9 @@ If you switch between computers or use Chrome on multiple devices, make sure you
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Grammar Checking Extensions](/articles/chrome-for-grammar-checking-extensions/)
+* [Chrome Live Captions How to Turn On](/articles/chrome-live-captions-how-to-turn-on/)
+* [Chrome Startup Pages Configuration](/articles/chrome-startup-pages-config/)
+

@@ -56,3 +56,9 @@ An outdated version of Chrome may have performance issues that contribute to inp
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does/)
+* [Chrome Too Many Redirects Error Fix](/articles/chrome-too-many-redirects-error-fix/)
+* [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension/)
+

@@ -69,3 +69,9 @@ For persistent issues on a site you use frequently, consider reaching out to the
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup/)
+* [Chrome Extensions for Hotel Deal Finder](/articles/chrome-extensions-for-hotel-deal-finder/)
+* [chrome color picker extension best](/articles/chrome-color-picker-extension-best/)
+

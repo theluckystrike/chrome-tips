@@ -76,3 +76,9 @@ You can see your current version by clicking the three dots in the top right cor
 A smoother Codecademy experience is within reach. Close unnecessary tabs, trim down your extensions, enable Memory Saver, and consider using Tab Suspender Pro for extra control. These small changes add up to faster loading times and a more responsive coding environment, letting you focus on learning instead of waiting for your browser to catch up.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Page Source How to View Explained](/articles/chrome-page-source-how-to-view-explained/)
+* [Chrome Status Code 502 Bad Gateway Fix](/articles/chrome-status-code-502-bad-gateway-fix/)
+* [Chrome Multiple Users Same Computer Setup](/articles/chrome-multiple-users-same-computer-setup/)
+

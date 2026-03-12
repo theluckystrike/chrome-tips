@@ -112,3 +112,9 @@ Remember that sometimes a simple restart of your computer or router can fix stre
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [How to Route Chrome Tab Audio to Separate Speakers](/articles/chrome-tab-audio-routing-separate-speakers/)
+* [Chrome Flags That Actually Make It Faster: A Practical Guide for Slow Computers](/articles/chrome-flags-that-actually-make-it-faster/)
+* [Chrome Bookmarks Disappeared: How to Recover Them](/articles/chrome-bookmarks-disappeared-how-to-recover/)
+

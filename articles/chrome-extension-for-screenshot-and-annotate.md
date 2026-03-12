@@ -83,4 +83,9 @@ As you use your chosen extension, you will discover which annotation features yo
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Notion](/articles/chrome-extensions-for-notion/)
+* [Why Does Each Chrome Tab Use So Much Memory](/articles/why-does-each-chrome-tab-use-so-much-memory/)
+* [Chrome Extensions Permissions Explained Simply](/articles/chrome-extensions-permissions-explained-simply/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -64,3 +64,9 @@ Experiment with different extensions to see what fits your workflow best. The go
 With the right extensions handling the technical details, you can devote more mental energy to what truly matters: engaging with the research itself and producing quality academic work.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome 64 bit vs 32 bit How to Check](/articles/chrome-64-bit-vs-32-bit-how-to-check/)
+* [chrome sandbox mode explained](/articles/chrome-sandbox-mode-explained/)
+* [chrome home screen shortcut how to add on phone](/articles/chrome-home-screen-shortcut-how-to-add-on-phone/)
+

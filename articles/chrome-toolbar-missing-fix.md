@@ -63,4 +63,9 @@ If you find yourself frequently dealing with browser issues or want to improve y
 
 ---
 
+## Related Articles
+* [Chrome Profile Backup How to Save](/articles/chrome-profile-backup-how-to-save/)
+* [How to Group Tabs by Color in Chrome: A Complete Guide](/articles/chrome-group-tabs-by-color-organize/)
+* [Chrome DevTools Command Menu Shortcuts](/articles//chrome-devtools-command-menu-shortcuts//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

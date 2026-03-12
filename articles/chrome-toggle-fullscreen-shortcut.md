@@ -77,4 +77,9 @@ Now that you know the chrome toggle fullscreen shortcut, go ahead and give it a 
 
 ---
 
+## Related Articles
+* [Chrome Reading Mode AI Summary Feature](/articles/chrome-reading-mode-ai-summary-feature/)
+* [How to Stop Chrome from Running in Background](/articles/how-to-stop-chrome-from-running-in-background/)
+* [Chrome for WordPress Best Extensions](/articles/chrome-for-wordpress-best-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

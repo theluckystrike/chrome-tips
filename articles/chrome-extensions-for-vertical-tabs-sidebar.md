@@ -71,3 +71,9 @@ Most people find that after a short adjustment period, they prefer the vertical 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Increase Chrome Cache Size](/articles/chrome-cache-size-how-to-increase/)
+* [Chrome Extensions for Online Shopping Deals](/articles/chrome-extensions-for-online-shopping-deals/)
+* [Chrome Proxy Settings Guide](/articles/chrome-proxy-settings-guide/)
+

@@ -76,3 +76,9 @@ Signing in with Google on websites is a useful feature that makes online life mo
 You now have the knowledge to decide whether this feature is right for you and how to adjust it to match your comfort level. Whether you use it everywhere or prefer to create separate accounts the traditional way, the choice is yours.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome WebUSB How to Connect Devices](/articles/chrome-webusb-how-to-connect-devices/)
+* [chrome for instacart web app best settings](/articles/chrome-for-instacart-web-app-best-settings/)
+* [chrome profile picture how to change](/articles/chrome-profile-picture-how-to-change/)
+

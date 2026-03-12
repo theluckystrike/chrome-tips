@@ -62,3 +62,9 @@ If you find that you still have too many tabs open, consider making Instapaper y
 Many users find that using these tools together transforms their browsing habits. Instead of feeling overwhelmed by open tabs, they feel in control of their reading list. The time you save by not managing dozens of open tabs can be spent actually reading the articles you care about.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Layer CSS Cascade Layers Explained](/articles/chrome-layer-css-cascade-layers-explained/)
+* [Chrome Accessibility Features You Didn't Know About](/articles/chrome-accessibility-features-you-didnt-know-about/)
+* [Chrome for Target Web App Best Extensions](/articles/chrome-for-target-web-app-best-extensions/)
+

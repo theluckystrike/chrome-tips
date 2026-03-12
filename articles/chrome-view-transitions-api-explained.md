@@ -56,4 +56,9 @@ Looking ahead, expect to see even more sophisticated uses of this API. Developer
 
 ---
 
+## Related Articles
+* [Chrome Extension Conflict: Identifying and Fixing Crashes](/articles/chrome-extension-conflict-causing-crashes/)
+* [chrome for uber web app setup](/articles/chrome-for-uber-web-app-setup/)
+* [Chrome Browser vs App Which Uses More Data](/articles/chrome-browser-vs-app-which-uses-more-data/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

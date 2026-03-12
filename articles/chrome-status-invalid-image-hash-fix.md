@@ -77,4 +77,9 @@ Be careful about installing too many extensions, as each one has the potential t
 
 Using a reputable antivirus program can also help by preventing malware that might inject unwanted code into your web sessions and cause image hash conflicts.
 
+## Related Articles
+* [Laptop Freezing When Opening Chrome: Practical Solutions That Actually Work](/articles/laptop-freezing-when-opening-chrome/)
+* [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained/)
+* [Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps](/articles/chrome-slow-on-4gb-ram-laptop/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

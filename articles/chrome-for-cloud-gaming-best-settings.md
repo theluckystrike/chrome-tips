@@ -66,3 +66,9 @@ Chrome's Memory Saver mode, found in the Performance section of settings, can he
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Shadow DOM What It Is](/articles/chrome-shadow-dom-what-it-is/)
+* [Chrome Release Schedule: When Is the Next Update?](/articles/chrome-release-schedule-when-next-update/)
+* [Chrome Tab Stacking How to Use](/articles/chrome-tab-stacking-how-to-use/)
+

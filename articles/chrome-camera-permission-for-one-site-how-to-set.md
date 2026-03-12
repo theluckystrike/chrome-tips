@@ -72,3 +72,9 @@ If you use many tabs in Chrome and want to keep your browser running smoothly wh
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Extensions for Instapaper](/articles/chrome-extensions-for-instapaper/)
+* [Chrome Family Link Integration Explained](/articles/chrome-family-link-integration-explained/)
+* [Chrome Accessibility Features You Didn't Know About](/articles/chrome-accessibility-features-you-didnt-know-about/)
+

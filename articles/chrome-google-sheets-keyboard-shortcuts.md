@@ -93,3 +93,9 @@ Chrome Google Sheets keyboard shortcuts are some of the most accessible tools fo
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Instagram Web Tips](/articles/chrome-for-instagram-web-tips/)
+* [Chrome Extensions for Spotify](/articles/chrome-extensions-for-spotify/)
+* [Chrome Flags to Enable for Speed](/articles/chrome-flags-to-enable-for-speed/)
+

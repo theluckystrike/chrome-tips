@@ -80,4 +80,9 @@ Whether you are a student researching for a project, a professional reading indu
 
 Take a moment to enable it and try it out on your favorite articles. You might find that it becomes one of those features you wonder how you ever lived without.
 
+## Related Articles
+* [Chrome for Forest Focus Timer Extension](/articles/chrome-for-forest-focus-timer-extension/)
+* [How to Use Chrome Without a Google Account](/articles/how-to-use-chrome-without-google-account/)
+* [Chrome Side Panel Extensions Worth Using](/articles/chrome-side-panel-extensions-worth-using/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

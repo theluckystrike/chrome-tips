@@ -56,4 +56,9 @@ Some people prefer strict blocking that prevents any access to distracting sites
 
 With the right chrome extension for focus mode block distractions, you can take control of your attention and accomplish more each day. Give it a try and see how much more you can achieve when distractions are out of the way.
 
+## Related Articles
+* [Chrome Extensions for URL Shortener](/articles/chrome-extensions-for-url-shortener/)
+* [Chrome vs DuckDuckGo Browser Privacy](/articles/chrome-vs-duckduckgo-browser-privacy/)
+* [Chrome Developer Tools for Non Developers](/articles//chrome-developer-tools-for-non-developers//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -69,3 +69,9 @@ Now you have a clear understanding of how to control Chrome location access on y
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome site notifications stop all](/articles/chrome-site-notifications-stop-all/)
+* [Chrome Address Bar Not Showing Fix](/articles/chrome-address-bar-not-showing-fix/)
+* [chrome custom theme how to make your own](/articles//chrome-custom-theme-how-to-make-your-own//)
+

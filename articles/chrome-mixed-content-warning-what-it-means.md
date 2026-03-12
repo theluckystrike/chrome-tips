@@ -71,3 +71,9 @@ Understanding what the Chrome mixed content warning means helps you make better 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Site Settings Permissions Explained](/articles/chrome-site-settings-permissions-explained/)
+* [Chrome Accessibility Tree Guide](/articles/chrome-accessibility-tree-guide/)
+* [Chrome Slow on School Laptop? Here's How to Fix It](/articles/chrome-slow-on-school-laptop-how-to-fix/)
+

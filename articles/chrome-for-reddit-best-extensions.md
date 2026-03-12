@@ -77,3 +77,9 @@ With so many options available, it can be hard to know where to start. The best 
 Take some time to explore what each extension offers. Most of them are free, so you can experiment without any cost. Just remember to periodically review your installed extensions and remove any that you no longer use. Keeping your browser lean helps maintain performance and reduces potential privacy concerns.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Web Codecs API Explained](/articles/chrome-web-codecs-api-explained/)
+* [Chrome Energy Saver Mode Guide](/articles/chrome-energy-saver-mode-guide/)
+* [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users/)
+

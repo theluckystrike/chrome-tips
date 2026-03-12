@@ -74,3 +74,9 @@ If you struggle with getting started, try combining text expansion tools with re
 Small improvements in your cover letter workflow add up to significant time savings across dozens of applications. The right combination of extensions can make cover letter writing much less painful and help you submit stronger applications.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Pocket Alternative](/articles/chrome-extensions-for-pocket-alternative/)
+* [How to Drag and Drop Tabs Between Windows in Chrome: A Complete Guide](/articles/chrome-drag-drop-tabs-between-windows/)
+* [Chrome Wont Install on Windows 11 Fix](/articles/chrome-wont-install-on-windows-11-fix/)
+

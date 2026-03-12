@@ -72,4 +72,9 @@ A large cache is one of the most common causes of Chrome slowdowns, and addressi
 
 If you're looking to further optimize your browser experience, especially on computers with limited resources, consider adding Tab Suspender Pro to automatically manage inactive tabs and reduce memory usage. Combined with proper cache management, you'll enjoy a noticeably faster Chrome experience.
 
+## Related Articles
+* [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply/)
+* [chrome recently closed tabs how to reopen](/articles/chrome-recently-closed-tabs-how-to-reopen/)
+* [Chrome Nesting CSS Explained](/articles/chrome-nesting-css-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

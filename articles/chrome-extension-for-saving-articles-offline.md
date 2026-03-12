@@ -56,4 +56,9 @@ Give it a try today. Install an extension, save a few articles, and see how much
 
 ---
 
+## Related Articles
+* [Chrome Extension for Color Picker from Any Webpage](/articles/chrome-extension-for-color-picker-from-any-webpage/)
+* [Chrome Custom Search Engines Guide](/articles/chrome-search-engines-custom/)
+* [Chrome Biometric Login How To Set Up](/articles/chrome-biometric-login-how-to-set-up/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

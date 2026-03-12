@@ -82,3 +82,9 @@ The keyboard shortcut (Ctrl-click or Command-click) is the fastest once you reme
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Split Screen Two Tabs Side by Side](/articles/chrome-split-screen-two-tabs-side-by-side/)
+* [chrome for online learning best setup](/articles/chrome-for-online-learning-best-setup/)
+* [Chrome CORS Error Explained in Simple Terms](/articles/chrome-cors-error-explained-simple-terms/)
+

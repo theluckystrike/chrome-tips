@@ -58,3 +58,9 @@ Chrome background sync represents an important step forward in making the web mo
 The internet will never be perfect, and connection drops will happen. But with the right tools and habits, you do not have to lose your work when they do. Take some time to explore the features available to you, and you will find that handling offline forms becomes much less stressful.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Limit Chrome Memory Usage on Windows](/articles/how-to-limit-chrome-memory-usage-windows/)
+* [Chrome History Search Tips and Tricks](/articles/chrome-history-search-tips-and-tricks/)
+* [Chrome How to Inspect Element Beginners](/articles/chrome-how-to-inspect-element-beginners/)
+

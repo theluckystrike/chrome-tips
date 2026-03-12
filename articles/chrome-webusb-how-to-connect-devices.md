@@ -73,3 +73,9 @@ While learning how to connect USB devices in Chrome is useful, managing your bro
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Mobile Tips Save Data Usage](/articles/chrome-mobile-tips-save-data-usage/)
+* [Chrome Camera Not Working Fix](/articles/chrome-camera-not-working-fix/)
+* [Chrome Tracking Prevention Explained Simply](/articles/chrome-tracking-prevention-explained-simply/)
+

@@ -63,3 +63,9 @@ Now that you know how to use chrome floating video window, you can start enjoyin
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Cast Chrome Tab to TV](/articles/how-to-cast-chrome-tab-to-tv/)
+* [Chrome Casting to TV How to Setup](/articles/chrome-casting-to-tv-how-to-setup/)
+* [Chrome Clipboard API: Copy and Paste in Modern Web Apps](/articles/chrome-clipboard-api-copy-paste/)
+

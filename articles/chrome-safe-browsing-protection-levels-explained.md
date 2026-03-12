@@ -92,3 +92,9 @@ Take a moment to check your Chrome settings today. Making sure Safe Browsing is 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Desktop Mode on Phone How to Use](/articles//chrome-desktop-mode-on-phone-how-to-use//)
+* [chrome payment methods remove](/articles/chrome-payment-methods-remove/)
+* [chrome for google translate extension tips](/articles/chrome-for-google-translate-extension-tips/)
+

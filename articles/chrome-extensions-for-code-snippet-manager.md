@@ -66,3 +66,9 @@ The beauty of these extensions is that they work quietly in the background, read
 Give yourself the gift of organized code and faster development. Your future self will thank you when you can instantly find that useful function you wrote months ago instead of starting from scratch.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome security check how to run](/articles/chrome-security-check-how-to-run/)
+* [Chrome Memory Leak Fix for 2026](/articles/chrome-memory-leak-fix-2026/)
+* [chrome privacy sandbox explained simply](/articles/chrome-privacy-sandbox-explained-simply/)
+

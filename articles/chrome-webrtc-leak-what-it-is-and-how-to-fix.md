@@ -74,3 +74,9 @@ If you use multiple browsers, remember that WebRTC settings are specific to each
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Browser Management for IT Admins](/articles/chrome-browser-management-for-it-admins/)
+* [Chrome Auto Dark Mode for Web Contents](/articles/chrome-auto-dark-mode-for-web-contents/)
+* [Chrome Extensions for Page Zoom Per Site](/articles/chrome-extensions-for-page-zoom-per-site/)
+

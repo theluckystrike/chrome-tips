@@ -93,3 +93,9 @@ If you want to get even more out of Chrome, consider installing extensions that 
 Setting your default browser is one of those small changes that makes a big difference in your daily computer use. It takes just a few minutes to set up, and the time savings add up every single day.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Incognito on Phone How to Open](/articles/chrome-incognito-on-phone-how-to-open/)
+* [Chrome Not Responding? Force Close It This Way](/articles/chrome-not-responding-force-close-how/)
+* [Chrome Do Not Track: Does It Actually Work](/articles/chrome-do-not-track-does-it-actually-work/)
+

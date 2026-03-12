@@ -57,4 +57,9 @@ Most extensions mentioned here are available through the Chrome Web Store and ca
 
 ---
 
+## Related Articles
+* [Chrome Lite Mode Does It Still Exist](/articles/chrome-lite-mode-does-it-still-exist/)
+* [Chrome Password Checkup Tool Guide](/articles/chrome-password-checkup-tool/)
+* [Chrome Hidden Games Easter Eggs List](/articles/chrome-hidden-games-easter-eggs-list/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

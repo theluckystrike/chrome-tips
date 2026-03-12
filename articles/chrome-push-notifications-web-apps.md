@@ -68,4 +68,9 @@ Make sure your notifications include relevant information and actionable content
 
 Finally, always respect user preferences. Make it easy for users to manage their notification settings directly from your website, and honor any opt-out requests immediately. Providing a clear and accessible unsubscribe option in every notification is not just good etiquette—it is often required by law in many jurisdictions.
 
+## Related Articles
+* [Chrome for LinkedIn Best Extensions](/articles/chrome-for-linkedin-best-extensions/)
+* [Chrome Experiments Page Best Flags to Enable: Complete Guide](/articles/chrome-experiments-page-best-flags-enable/)
+* [Chrome Idle Detection API Explained: What It Means for Your Browser](/articles/chrome-idle-detection-api-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

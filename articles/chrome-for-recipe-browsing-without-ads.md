@@ -80,3 +80,9 @@ The goal is to spend less time fighting with advertisements and more time actual
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome New Tab Extensions Aesthetic 2026](/articles/chrome-new-tab-extensions-aesthetic-2026/)
+* [Chrome Task Manager How to Use](/articles/chrome-task-manager-how-to-use/)
+* [chrome for twitch streaming setup in browser](/articles/chrome-for-twitch-streaming-setup-in-browser/)
+

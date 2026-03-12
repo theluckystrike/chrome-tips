@@ -110,4 +110,9 @@ Try enabling sync if you have not already, as it provides the most seamless expe
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Tab Organize AI Feature Explained](/articles/chrome-tab-organize-ai-feature-explained/)
+* [Chrome for Substack Reading Tips](/articles/chrome-for-substack-reading-tips/)
+* [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/articles/should-i-switch-to-edge-for-speed/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

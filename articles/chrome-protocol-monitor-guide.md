@@ -124,4 +124,9 @@ Remember to pair your Chrome development workflow with Tab Suspender Pro for opt
 
 ---
 
+## Related Articles
+* [Best Chrome Extensions for Podcasters](/articles/best-chrome-extensions-for-podcasters/)
+* [Chrome Extensions for Mockup Creator](/articles/chrome-extensions-for-mockup-creator/)
+* [Chrome Dinosaur Game Hidden Features](/articles/chrome-dinosaur-game-hidden-features/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

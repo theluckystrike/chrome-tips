@@ -71,3 +71,9 @@ Getting rid of unwanted Chrome notifications is a straightforward process once y
 Remember that you can always adjust these settings later if your needs change. The key is to check them regularly and make sure only the sites you actually want to hear from have permission to send you notifications.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Rendering Panel Guide](/articles/chrome-rendering-panel-guide/)
+* [Chrome Zero Trust Security Model Explained](/articles/chrome-zero-trust-security-model-explained/)
+* [Chrome Extensions for Saving Articles Offline](/articles/chrome-extensions-for-saving-articles-offline/)
+

@@ -80,3 +80,9 @@ Many users find that after making the switch, they rarely miss the paid features
 The bottom line is that you have options. Before signing up for another monthly subscription, spend a few minutes exploring what free Chrome extensions can do. You might be surprised by how much you can accomplish without paying anything at all.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Font Palette CSS Explained](/articles/chrome-font-palette-css-explained/)
+* [Chrome Extensions For Color Palette Generator](/articles//articles/chrome-extensions-for-color-palette-generator//)
+* [Chrome Forced Extensions by Admin What It Means](/articles/chrome-forced-extensions-by-admin-what-it-means/)
+

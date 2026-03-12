@@ -121,3 +121,9 @@ If you've tried all these steps and Chrome still freezes regularly, consider:
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-explained/)
+* [How to Limit Chrome RAM Usage on Windows](/articles/how-to-limit-chrome-ram-usage-windows/)
+* [Chrome Payment Autofill How to Manage Cards](/articles/chrome-payment-autofill-how-to-manage-cards/)
+

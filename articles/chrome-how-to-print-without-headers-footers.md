@@ -56,3 +56,9 @@ In office environments, headers and footers can also serve as a form of document
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Best Chrome Extensions for Data Analysts](/articles/best-chrome-extensions-for-data-analysts/)
+* [chrome google photos integration tips](/articles/chrome-google-photos-integration-tips/)
+* [Chrome Mobile Reading List How to Use](/articles/chrome-mobile-reading-list-how-to-use/)
+

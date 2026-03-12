@@ -80,3 +80,9 @@ Now that chrome lighthouse performance score explained simply is clear to you, y
 Improving a performance score does not always require expensive tools or expert help. Many improvements are simple changes that make a big difference. Start with the biggest problems first, test your changes, and celebrate each improvement along the way.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Cycle Through Tabs Shortcut](/articles//chrome-cycle-through-tabs-shortcut//)
+* [Chrome Biometric Authentication for the Web](/articles/chrome-biometric-authentication-web/)
+* [chrome for github copilot web setup](/articles/chrome-for-github-copilot-web-setup/)
+

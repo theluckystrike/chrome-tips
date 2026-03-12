@@ -75,3 +75,9 @@ Take a moment to think about which website you visit most often when you open yo
 Remember, you can always change your homepage later if your needs change. Chrome makes it easy to update your settings, so do not be afraid to experiment until you find what works best for you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Tab Previewer Hover](/articles/chrome-extensions-for-tab-previewer-hover/)
+* [How to Make Chrome Use Less Battery on MacBook](/articles/how-to-make-chrome-use-less-battery-macbook/)
+* [chrome manifest v3 controversy ad blockers](/articles/chrome-manifest-v3-controversy-ad-blockers/)
+

@@ -99,4 +99,9 @@ With the knowledge from this guide, you are well-equipped to start using the Lay
 
 ---
 
+## Related Articles
+* [Chrome Anchor Positioning API Explained](/articles/chrome-anchor-positioning-api-explained/)
+* [Chrome Slow on School Laptop? Here's How to Fix It](/articles/chrome-slow-on-school-laptop-how-to-fix/)
+* [Chrome Google Drive Integration Tips](/articles/chrome-google-drive-integration-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

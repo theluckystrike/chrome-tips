@@ -109,4 +109,9 @@ Restart Chrome regularly, especially if you notice it slowing down. A fresh brow
 
 Consider using a lighter weight browser if Chrome continues to cause problems on your limited RAM computer. However, Chrome with proper tab management through Tab Suspender Pro and Memory Saver often works well even on older machines.
 
+## Related Articles
+* [Chrome Extensions for Managing Multiple Social Accounts](/articles/chrome-extensions-for-managing-multiple-social-accounts/)
+* [chrome for coinbase web app tips](/articles/chrome-for-coinbase-web-app-tips/)
+* [Chrome for Email Marketing Best Extensions](/articles/chrome-for-email-marketing-best-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -88,3 +88,9 @@ Consider using a tab management tool to keep your browser running smoothly. One 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Background Fetch for PWAs Explained](/articles/chrome-background-fetch-for-pwas-explained/)
+* [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management/)
+* [chrome for shopify store management tips](/articles/chrome-for-shopify-store-management-tips/)
+

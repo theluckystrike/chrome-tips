@@ -81,4 +81,9 @@ Take a moment to practice the shortcut a few times. Within a day or two, it will
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Beta Channel How to Join and Leave](/articles/chrome-beta-channel-how-to-join-and-leave/)
+* [How to Update Chrome on iPhone](/articles/how-to-update-chrome-on-iphone/)
+* [Chrome Status Code 403 Forbidden Explained](/articles/chrome-status-code-403-forbidden-explained/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

@@ -112,3 +112,9 @@ Remember that technology can be unpredictable, and sometimes a simple restart of
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome for Medium Best Reading Extensions](/articles/chrome-for-medium-best-reading-extensions/)
+* [Chrome Web NFC API Guide](/articles/chrome-web-nfc-api-guide/)
+* [Chrome Extensions for uBlock Origin Setup Guide](/articles/chrome-extensions-for-ublock-origin-setup-guide/)
+

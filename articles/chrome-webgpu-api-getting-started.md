@@ -130,3 +130,9 @@ Remember that the key to success with WebGPU is practice. Start with simple proj
 ---
 
 *Built by theluckystrike — More tips at https://zovo.one*
+
+## Related Articles
+* [Chrome Status Code 403 Forbidden Explained](/articles/chrome-status-code-403-forbidden-explained/)
+* [Chrome Preferences File What It Contains](/articles/chrome-preferences-file-what-it-contains/)
+* [chrome devtools dark theme how to enable](/articles//chrome-devtools-dark-theme-how-to-enable//)
+

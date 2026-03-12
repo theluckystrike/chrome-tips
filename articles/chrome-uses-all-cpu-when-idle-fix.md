@@ -65,4 +65,9 @@ Finally, if the problem persists despite trying these steps, try creating a new 
 
 ---
 
+## Related Articles
+* [Chrome Blurry Text Fix Windows](/articles/chrome-blurry-text-fix-windows/)
+* [Chrome requestanimationframe Explained: What It Means for Your Browser](/articles/chrome-requestanimationframe-explained/)
+* [Chrome View Source Shortcut](/articles/chrome-view-source-shortcut/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

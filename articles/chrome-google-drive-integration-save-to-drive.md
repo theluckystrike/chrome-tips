@@ -70,3 +70,9 @@ The best approach is the one that fits naturally into how you already use Chrome
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Reading Mode AI Summary Feature](/articles/chrome-reading-mode-ai-summary-feature/)
+* [Chrome Web Speech API Voice Commands: A Complete Guide](/articles/chrome-web-speech-api-voice-commands/)
+* [Chrome Guest Mode vs Incognito Mode: What's the Difference?](/articles/chrome-guest-mode-vs-incognito-difference/)
+

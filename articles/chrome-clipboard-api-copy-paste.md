@@ -138,4 +138,9 @@ Remember to handle errors gracefully, provide clear user feedback, and always re
 
 ---
 
+## Related Articles
+* [Chrome Mouse Cursor Lagging Fix](/articles/chrome-mouse-cursor-lagging/)
+* [Chrome User Data Directory: What Each File Does](/articles/chrome-user-data-directory-what-each-file-does/)
+* [Chrome PDF Settings Print to PDF How to](/articles/chrome-pdf-settings-print-to-pdf-how-to/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -71,3 +71,9 @@ Finding a chrome streaming video buffering fix does not have to be complicated. 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Your Connection Is Not Private Fix](/articles/chrome-your-connection-is-not-private-fix/)
+* [Chrome vs Edge Memory Usage Comparison](/articles/chrome-vs-edge-memory-usage-comparison/)
+* [Chrome About Pages List Explained](/articles/chrome-about-pages-list-explained/)
+

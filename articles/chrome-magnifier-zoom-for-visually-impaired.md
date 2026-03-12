@@ -63,3 +63,9 @@ Remember that you do not have to use every feature at once. Start with the zoom 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Set Chrome as Default Browser Windows 11](/articles/how-to-set-chrome-as-default-browser-windows-11/)
+* [Chrome Network Process Using Too Much Memory](/articles/chrome-network-process-using-too-much-memory/)
+* [chrome for xbox cloud gaming optimization](/articles/chrome-for-xbox-cloud-gaming-optimization/)
+

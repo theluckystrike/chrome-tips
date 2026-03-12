@@ -92,4 +92,9 @@ The choice between Chrome vs Vivaldi customization ultimately depends on your pr
 
 Both browsers have their strengths, and neither is objectively better. The right choice depends on how you work and what you need from your browser. Try both and see which one fits your workflow better—you might find that one simply feels right.
 
+## Related Articles
+* [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching/)
+* [Chrome Status Code 502 Bad Gateway Fix](/articles/chrome-status-code-502-bad-gateway-fix/)
+* [Chrome Ask Before Closing Multiple Tabs Setting](/articles/chrome-ask-before-closing-multiple-tabs-setting/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

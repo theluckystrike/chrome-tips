@@ -123,4 +123,9 @@ Remember: your browser is your gateway to the internet, and keeping it secure me
 
 ---
 
+## Related Articles
+* [Chrome Profile Backup How to Save](/articles/chrome-profile-backup-how-to-save/)
+* [How to Stop Chrome from Eating Your RAM](/articles/how-to-stop-chrome-from-eating-ram/)
+* [chrome fledge api what advertisers know about you](/articles/chrome-fledge-api-what-advertisers-know-about-you/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

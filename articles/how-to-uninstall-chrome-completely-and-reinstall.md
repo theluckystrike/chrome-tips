@@ -66,3 +66,9 @@ Finally, make sure your important data is backed up regularly. Chrome is built t
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Offline Google Calendar](/articles/chrome-offline-google-calendar/)
+* [chrome dark reader extension worth it](/articles//chrome-dark-reader-extension-worth-it//)
+* [Chrome Layers Panel 3D View Explained](/articles/chrome-layers-panel-3d-view-explained/)
+

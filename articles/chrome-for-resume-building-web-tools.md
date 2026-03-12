@@ -78,3 +78,9 @@ Finally, always double-check your exported PDF before submitting. Open it in Chr
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Smooth Scrolling How to Enable](/articles/chrome-smooth-scrolling-how-to-enable/)
+* [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users/)
+* [Chrome Tab to Search Feature How to Use](/articles/chrome-tab-to-search-feature-how-to-use/)
+

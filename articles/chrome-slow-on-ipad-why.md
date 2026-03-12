@@ -160,4 +160,9 @@ Understanding **why Chrome is slow on your iPad** helps you take the right steps
 
 Tools like Tab Suspender Pro can also help by automatically managing tab resources, giving you one less thing to worry about while browsing on your iPad.
 
+## Related Articles
+* [Chrome Extensions for Link Checker Broken Links](/articles/chrome-extensions-for-link-checker-broken-links/)
+* [How to Make Chrome Remember Tabs After Closing](/articles/how-to-make-chrome-remember-tabs-after-closing/)
+* [chrome fledge api what advertisers know about you](/articles/chrome-fledge-api-what-advertisers-know-about-you/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

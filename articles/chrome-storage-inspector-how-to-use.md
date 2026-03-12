@@ -77,4 +77,9 @@ While the Storage Inspector is great for viewing and clearing storage, some brow
 
 The Storage Inspector is a powerful but underused tool that every Chrome user should know about. Whether you are troubleshooting problems, protecting your privacy, or just curious about what websites are saving, it provides valuable insights into your browser's activity. Now you have the knowledge to use it effectively.
 
+## Related Articles
+* [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/articles/chrome-err-cert-authority-invalid-fix/)
+* [Chrome Magnifier Zoom for Visually Impaired](/articles/chrome-magnifier-zoom-for-visually-impaired/)
+* [Chrome Extensions for Website Monitoring Changes](/articles/chrome-extensions-for-website-monitoring-changes/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

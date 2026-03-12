@@ -72,3 +72,9 @@ Once you have adjusted these settings to your liking, you can always change them
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Performance Settings Best Configuration](/articles/chrome-performance-settings-best-configuration/)
+* [chrome reduce data usage mobile](/articles/chrome-reduce-data-usage-mobile/)
+* [Chrome Best Settings for Streaming Video](/articles/chrome-best-settings-for-streaming-video/)
+

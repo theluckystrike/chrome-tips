@@ -67,3 +67,9 @@ Both IndexedDB and LocalStorage serve important purposes in making web applicati
 The next time you check your browser storage or troubleshoot a website issue, you will have a better idea of what is happening behind the scenes and how to address it effectively.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Scroll Not Smooth Fix](/articles/chrome-scroll-not-smooth-fix/)
+* [Chrome Redirecting to Wrong Pages Fix](/articles/chrome-redirecting-to-wrong-pages-fix/)
+* [Chrome for Zoom in Browser Best Settings](/articles/chrome-for-zoom-in-browser-best-settings/)
+

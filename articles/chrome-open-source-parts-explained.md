@@ -74,4 +74,9 @@ Chrome's open-source foundation represents a remarkable achievement in collabora
 
 ---
 
+## Related Articles
+* [CHIPS: Cookies Having Independent Partitioned State in Chrome](/articles/chrome-chips-cookies-having-independent-state/)
+* [Chrome Keyboard Shortcuts for Power Users](/articles/chrome-keyboard-shortcuts-for-power-users/)
+* [Best Chrome Extensions for Twitter X](/articles/best-chrome-extensions-for-twitter-x/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

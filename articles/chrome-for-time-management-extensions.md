@@ -63,3 +63,9 @@ The best approach to chrome for time management extensions is to start with one 
 As you become comfortable with your initial tools, you can gradually add more extensions to create a comprehensive system. The goal is not to use every available feature but to build a workflow that supports your specific needs and helps you accomplish your work more effectively.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Stop Chrome from Redirecting to HTTPS](/articles/how-to-stop-chrome-from-redirecting-to-https/)
+* [chrome classroom integration tips for teachers](/articles/chrome-classroom-integration-tips-for-teachers/)
+* [Chrome Enable Cookies for One Site How to](/articles/chrome-enable-cookies-for-one-site-how-to/)
+

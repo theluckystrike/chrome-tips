@@ -91,4 +91,9 @@ This chrome remote debugging setup guide covered everything you need to start de
 
 Remote debugging transforms how you approach cross-device development. Instead of relying on assumptions and indirect feedback, you can see problems happen in real time and experiment with solutions directly. This capability leads to better websites that work well for all users, regardless of which device they use.
 
+## Related Articles
+* [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained/)
+* [chrome for shopify store management tips](/articles/chrome-for-shopify-store-management-tips/)
+* [Chrome Black Screen Fix](/articles/chrome-black-screen-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

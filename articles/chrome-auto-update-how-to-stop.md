@@ -70,3 +70,9 @@ Some users find a middle ground works best. Instead of completely disabling upda
 One common reason people want to stop Chrome updates is that new browser versions sometimes break their favorite extensions. If this is your situation, consider using extensions that are actively maintained and compatible with the latest Chrome versions. Tab Suspender Pro, for example, is designed to work smoothly with current Chrome versions and can help you manage your tabs more efficiently while you browse.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Clear Cookies for One Site in Chrome](/articles/how-to-clear-cookies-for-one-site-in-chrome/)
+* [how to enable chrome enhanced safe browsing](/articles/how-to-enable-chrome-enhanced-safe-browsing/)
+* [Top 10 Chrome Extensions Everyone Should Have](/articles/top-10-chrome-extensions-everyone-should-have/)
+

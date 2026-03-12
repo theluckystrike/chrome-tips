@@ -82,3 +82,9 @@ Now that you know the chrome fullscreen mode shortcut, go ahead and try it. Pres
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Notification API Guide](/articles/chrome-notification-api-guide/)
+* [Chrome Send Feedback to Google How to](/articles/chrome-send-feedback-to-google-how-to/)
+* [chrome right to left language support](/articles/chrome-right-to-left-language-support/)
+

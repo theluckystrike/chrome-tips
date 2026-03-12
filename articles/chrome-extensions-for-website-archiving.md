@@ -76,3 +76,9 @@ Start with your most important sources. Archive the web pages you reference most
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Best Settings for Streaming Video](/articles/chrome-best-settings-for-streaming-video/)
+* [chrome high contrast mode how to enable](/articles/chrome-high-contrast-mode-how-to-enable/)
+* [Chrome vs Brave 2026 Comparison](/articles/chrome-vs-brave-2026/)
+

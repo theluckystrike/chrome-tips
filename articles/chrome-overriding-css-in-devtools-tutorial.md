@@ -187,4 +187,9 @@ Chrome DevTools is an incredibly powerful CSS editing environment. The ability t
 
 Start with simple changes—modify a color or adjust a margin—and gradually explore more advanced features. Before long, you'll wonder how you ever worked without these tools.
 
+## Related Articles
+* [Chrome Developer Tools Shortcut](/articles//chrome-developer-tools-shortcut//)
+* [Chrome Multiple Users Same Computer Setup](/articles/chrome-multiple-users-same-computer-setup/)
+* [How to Backup Chrome Bookmarks and Passwords](/articles/how-to-backup-chrome-bookmarks-and-passwords/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

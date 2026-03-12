@@ -55,3 +55,9 @@ If you find yourself with dozens of tabs open and your computer slowing down, co
 The next time your browser feels sluggish, remember that there are powerful technologies working to make your experience better, even when you cannot see them in action.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Developer Mode Extensions Guide](/articles//chrome-developer-mode-extensions//)
+* [Chrome Android Dark Mode How to Enable](/articles/chrome-android-dark-mode-how-to-enable/)
+* [Chrome Extensions for User Agent Randomizer](/articles/chrome-extensions-for-user-agent-randomizer/)
+

@@ -69,4 +69,9 @@ Start by trying one extension and learning how to read its price charts. Once yo
 
 ---
 
+## Related Articles
+* [Chrome Energy Saver Mode Explained](/articles/chrome-energy-saver-mode-explained/)
+* [Chrome Keeps Asking to Be Default Browser Stop](/articles/chrome-keeps-asking-to-be-default-browser-stop/)
+* [How to Sync Chrome Bookmarks Between Phone and Computer](/articles/chrome-bookmark-sync-between-phone-and-computer/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

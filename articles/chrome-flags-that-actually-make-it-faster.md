@@ -113,4 +113,9 @@ Your old computer doesn't have to feel slow anymore. A few simple changes can gi
 
 ---
 
+## Related Articles
+* [Chrome Update Failed Error 12 Fix](/articles/chrome-update-failed-error-12-fix/)
+* [Chrome Extensions Disappeared After Update](/articles/chrome-extensions-disappeared-after-update/)
+* [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

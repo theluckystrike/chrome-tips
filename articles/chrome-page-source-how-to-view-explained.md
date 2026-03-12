@@ -73,4 +73,9 @@ Viewing page source in Chrome is a straightforward process that anyone can do. W
 
 The next time you wonder what is going on behind the scenes of a webpage, remember these simple methods and take a look for yourself. You might be surprised at how much you can learn just by spending a few minutes exploring the code.
 
+## Related Articles
+* [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/articles/should-i-switch-to-edge-for-speed/)
+* [Chrome Lost All My Tabs After Update Fix](/articles/chrome-lost-all-my-tabs-update-fix/)
+* [Chrome iPhone vs Safari Which is Better](/articles/chrome-iphone-vs-safari-which-is-better/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

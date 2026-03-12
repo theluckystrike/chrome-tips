@@ -61,3 +61,9 @@ While Chrome does not have a simple one-key shortcut for switching profiles, you
 Finding the right approach depends on how often you switch profiles and what works best for your workflow. Try a few methods and stick with the one that saves you the most time.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Using Too Much Disk Space Fix](/articles/chrome-using-too-much-disk-space-fix/)
+* [chrome not playing youtube videos fix](/articles/chrome-not-playing-youtube-videos-fix/)
+* [Chrome Memory Inspector How to Use](/articles/chrome-memory-inspector-how-to-use/)
+

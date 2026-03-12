@@ -61,5 +61,9 @@ If you find that Chrome's built-in **Memory Saver** is too aggressive or not pow
 
 You can set custom "auto-suspend" timers, whitelist specific domains, and even view how much memory you've saved across your entire session. It’s an essential tool for "tab hoarders" who need to maintain a fast, responsive browser without losing their place in complex research projects. By keeping your **system resources** lean, you ensure that Chrome's other security and performance features have the power they need to function correctly.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows/)
+* [Chrome Reading Mode How to Activate](/articles/chrome-reading-mode-how-to-activate/)
+* [Why Does Opening Chrome Slow Down Everything](/articles/why-does-opening-chrome-slow-down-everything/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

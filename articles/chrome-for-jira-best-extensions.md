@@ -81,3 +81,9 @@ Take time to explore each extension settings and customization options. Most ext
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Facebook Best Extensions](/articles/chrome-for-facebook-best-extensions/)
+* [Chrome Safe Browsing Data What Google Sees](/articles/chrome-safe-browsing-data-what-google-sees/)
+* [chrome fingerprinting protection explained](/articles/chrome-fingerprinting-protection-explained/)
+

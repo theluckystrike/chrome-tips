@@ -86,4 +86,9 @@ requestAnimationFrame represents how modern browsers have evolved to provide bet
 
 Understanding these underlying technologies helps you become a more informed internet user. Whether you are just curious about how your browser works or you are troubleshooting performance issues, knowing about requestAnimationFrame gives you insight into the complex systems that make the web work.
 
+## Related Articles
+* [How to Turn Off Chrome Notifications on Android](/articles/how-to-turn-off-chrome-notifications-android/)
+* [Chrome Status Bar Where Did It Go](/articles/chrome-status-bar-where-did-it-go/)
+* [How to Use Chrome for Multiple Work Accounts](/articles/how-to-use-chrome-for-multiple-work-accounts/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

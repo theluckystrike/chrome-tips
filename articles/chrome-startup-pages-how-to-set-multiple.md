@@ -58,4 +58,9 @@ You might also find that having multiple tabs open at startup leads to more tabs
 
 Setting multiple startup pages is one of those simple tweaks that makes your daily browsing routine just a little bit smoother. Once you have your essential sites loading automatically, you will wonder how you ever managed without it.
 
+## Related Articles
+* [Chrome Freezes My Whole Computer](/articles/chrome-freezes-my-whole-computer/)
+* [Chrome Devtools Screenshot Full Page](/articles/chrome-devtools-screenshot-full-page/)
+* [Chrome Media Autoplay How to Block](/articles/chrome-media-autoplay-how-to-block/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

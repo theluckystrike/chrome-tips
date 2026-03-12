@@ -68,3 +68,9 @@ It is also worth periodically reviewing your installed extensions and removing o
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Meta Tag Analyzer](/articles/chrome-extensions-for-meta-tag-analyzer/)
+* [Chrome DevTools Command Menu Shortcuts](/articles//chrome-devtools-command-menu-shortcuts//)
+* [How to Speed Up Chrome on 2GB RAM Laptop](/articles/how-to-speed-up-chrome-on-2gb-ram-laptop/)
+

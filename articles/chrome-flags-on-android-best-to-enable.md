@@ -78,3 +78,9 @@ If you have been feeling limited by Chrome on your Android phone, try these sugg
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Reading Mode Hidden Feature](/articles/chrome-reading-mode-hidden-feature/)
+* [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage/)
+* [Chrome for NFT Browsing Extensions](/articles/chrome-for-nft-browsing-extensions/)
+

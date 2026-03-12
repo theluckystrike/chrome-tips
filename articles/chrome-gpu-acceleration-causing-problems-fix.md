@@ -60,3 +60,9 @@ When you find chrome gpu acceleration causing problems, start by disabling hardw
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Screencastify Extension Guide](/articles/chrome-for-screencastify-extension-guide/)
+* [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/articles/chrome-vs-edge-on-windows-11/)
+* [Chrome for MDN Web Docs Extension](/articles/chrome-for-mdn-web-docs-extension/)
+

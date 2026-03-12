@@ -80,3 +80,9 @@ Optimizing Chrome for Binance web trading does not require technical expertise. 
 Give these tips a try and see which ones work best for your trading style. Every little improvement can add up to a better overall experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome extension for screenshot and annotate](/articles/chrome-extension-for-screenshot-and-annotate/)
+* [Chrome for Snapchat Web Tips](/articles/chrome-for-snapchat-web-tips/)
+* [Chrome Navigation API for Single Page Apps: A Complete Guide](/articles/chrome-navigation-api-single-page-apps/)
+

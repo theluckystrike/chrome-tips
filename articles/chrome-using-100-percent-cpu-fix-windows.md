@@ -69,4 +69,9 @@ After you have fixed the immediate problem, a few ongoing habits can help you av
 
 By understanding what causes Chrome to use excessive CPU and taking these steps, you can enjoy a faster, more responsive browsing experience on Windows without constantly battling high resource usage.
 
+## Related Articles
+* [Chrome Canvas Rendering Slow Fix: Practical Solutions for Limited RAM](/articles/chrome-canvas-rendering-slow-fix/)
+* [Chrome ERR_CONNECTION_REFUSED Fix](/articles/chrome-err-connection-refused-fix/)
+* [Chrome Hardware Acceleration Should I Turn It Off](/articles/chrome-hardware-acceleration-should-i-turn-it-off/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

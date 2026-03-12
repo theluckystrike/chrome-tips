@@ -76,3 +76,9 @@ Transitioning to a multi-profile workflow takes about five minutes to set up, bu
 ---
 
 *Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+
+## Related Articles
+* [Chrome Extensions for Musicians and Producers](/articles/chrome-extensions-for-musicians-and-producers/)
+* [Chrome Not Enough Memory Error](/articles/chrome-not-enough-memory-error/)
+* [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools/)
+

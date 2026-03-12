@@ -60,3 +60,9 @@ Think about which websites you visit most often and make sure your dark mode sol
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Vertical Tabs Enable 2026](/articles/chrome-vertical-tabs-enable-2026/)
+* [Chrome Best Settings for Online Meetings](/articles/chrome-best-settings-for-online-meetings/)
+* [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained/)
+

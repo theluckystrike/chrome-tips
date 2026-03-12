@@ -57,4 +57,9 @@ Extensions like Tab Suspender Pro can help by automatically suspending tabs you 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
+## Related Articles
+* [chrome for google translate extension tips](/articles/chrome-for-google-translate-extension-tips/)
+* [chrome for onenote web clipper setup](/articles/chrome-for-onenote-web-clipper-setup/)
+* [Chrome Instant Apps on Android Explained](/articles/chrome-instant-apps-on-android-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

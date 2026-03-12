@@ -58,3 +58,9 @@ Once you install your chosen extension, spend a few minutes adding your most-vis
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure/)
+* [How to Make Chrome Faster on an Old Computer](/articles/how-to-make-chrome-faster-on-old-computer/)
+* [Chrome Extension Manifest V3 What Users Need to Know](/articles/chrome-extension-manifest-v3-what-users-need-to-know/)
+

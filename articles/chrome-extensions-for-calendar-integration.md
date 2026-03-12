@@ -75,4 +75,9 @@ Start by trying a few different extensions to see which ones feel comfortable. M
 
 With the right chrome extensions for calendar integration, you can spend less time managing your schedule and more time actually getting things done.
 
+## Related Articles
+* [chrome payment methods remove](/articles/chrome-payment-methods-remove/)
+* [Chrome Full Screen Mode How to Exit Stuck](/articles/chrome-full-screen-mode-how-to-exit-stuck/)
+* [Chrome for Zotero Web Connector Setup](/articles/chrome-for-zotero-web-connector-setup/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

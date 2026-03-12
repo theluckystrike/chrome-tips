@@ -110,4 +110,9 @@ The key advantages are clear: no additional software installation required, seam
 
 Next time you need to fill out a form, sign a contract, or add notes to a PDF, try Chrome's built-in editor first. You might find it handles everything you need without ever needing to reach for additional tools. Combined with smart tab management practices, Chrome can serve as your go-to solution for efficient PDF handling.
 
+## Related Articles
+* [How to Check If Chrome Is Up to Date](/articles/how-to-check-if-chrome-is-up-to-date/)
+* [How to Find Chrome Extensions That Slow Down Browser](/articles/how-to-find-chrome-extensions-that-slow-down-browser/)
+* [Chrome Extension for YouTube Ad Blocker](/articles/chrome-extension-for-youtube-ad-blocker/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

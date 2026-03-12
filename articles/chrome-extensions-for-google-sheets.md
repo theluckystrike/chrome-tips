@@ -51,3 +51,9 @@ The right combination of extensions can genuinely improve your Google Sheets exp
 Take some time to think about where you are spending the most effort. Is it finding the right tab? Waiting for your browser to respond? Manually moving data between sheets? Identifying your biggest frustration will help you choose the extension that will make the most difference.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug/)
+* [How to Safely Work with Chromebook School Restrictions](/articles/chromebook-school-restrictions-bypass-safely/)
+* [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/articles/chrome-smooth-scrolling-enable/)
+

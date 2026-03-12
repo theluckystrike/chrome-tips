@@ -78,3 +78,9 @@ Check that the VPN is actually connected before doing sensitive activities. Some
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome for site search from address bar](/articles/chrome-for-site-search-from-address-bar/)
+* [Chrome Helper Renderer Using Too Much CPU](/articles/chrome-helper-renderer-using-too-much-cpu/)
+* [Why Does Chrome Open So Many Processes](/articles/why-does-chrome-open-so-many-processes/)
+

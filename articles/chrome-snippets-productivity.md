@@ -299,4 +299,9 @@ Remember that snippets are persistent, portable, and powerful. Your collection o
 
 ---
 
+## Related Articles
+* [chrome payment request api what users see](/articles/chrome-payment-request-api-what-users-see/)
+* [Chrome Password Checkup What It Does](/articles/chrome-password-checkup-what-it-does/)
+* [Chrome Extension Review Process: How Long Does It Take](/articles/chrome-extension-review-process-how-long/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

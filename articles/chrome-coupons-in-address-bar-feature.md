@@ -76,3 +76,9 @@ Additionally, coupon codes found through browser extensions may not always be th
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome vs Safari on Mac — Which Uses Less Battery?](/articles/chrome-vs-safari-on-mac-battery/)
+* [chrome kiosk mode how to set up](/articles/chrome-kiosk-mode-how-to-set-up/)
+* [Chrome Saved Passwords How to See Them](/articles/chrome-saved-passwords-how-to-see-them/)
+

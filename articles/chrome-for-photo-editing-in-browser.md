@@ -76,3 +76,9 @@ For occasional users, however, the convenience of browser-based tools usually ou
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome playwright vs puppeteer comparison](/articles/chrome-playwright-vs-puppeteer-comparison/)
+* [Chrome for Microsoft Teams in Browser Tips](/articles/chrome-for-microsoft-teams-in-browser-tips/)
+* [Chromium Browser Is It Safe to Use](/articles/chromium-browser-is-it-safe-to-use/)
+

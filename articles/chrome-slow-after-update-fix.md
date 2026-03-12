@@ -139,3 +139,9 @@ By following this guide, you should be able to resolve most Chrome performance i
 Ready to supercharge your browsing? Try **[Tab Suspender Pro](https://zovo.one/tab-suspender-pro)** — the smart way to manage tabs and boost Chrome performance.
 
 **[zovo.one](https://zovo.one)**
+
+## Related Articles
+* [How to Change Your Chrome Downloads Folder](/articles/chrome-downloads-folder-change/)
+* [Best Chrome Extensions For Lawyers](/articles/best-chrome-extensions-for-lawyers/)
+* [Chrome Slow After Windows Update Fix](/articles/chrome-slow-after-windows-update-fix/)
+

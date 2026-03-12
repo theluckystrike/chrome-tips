@@ -77,3 +77,9 @@ Consider creating a bookmark folder in Chrome specifically for Substack. Save li
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Color Palette Picker](/articles//articles/chrome-extensions-for-color-palette-picker//)
+* [Chrome Slow on Chromebook? Here's How to Fix It](/articles/chrome-slow-on-chromebook-fix/)
+* [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy/)
+

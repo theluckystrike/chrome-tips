@@ -89,4 +89,9 @@ Try both approaches and see which one fits your workflow better. The right solut
 
 ---
 
+## Related Articles
+* [Chrome for MasterClass Web Tips](/articles/chrome-for-masterclass-web-tips/)
+* [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs/)
+* [Best Chrome Settings for a Slow Computer](/articles/best-chrome-settings-for-slow-computer/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

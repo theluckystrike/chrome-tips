@@ -77,3 +77,9 @@ Finding the right Chrome extensions for your FreeCodeCamp journey is about under
 The key is to keep your browser organized so you can focus on what matters most: learning to code and building projects. With the right extensions in place, Chrome becomes a powerful learning environment that supports rather than hinders your progress.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome extensions for image reverse search](/articles/chrome-extensions-for-image-reverse-search/)
+* [Chrome Using Swap Memory Fix](/articles/chrome-using-swap-memory-fix/)
+* [Chrome Lighthouse Treemap Explained](/articles/chrome-lighthouse-treemap-explained/)
+

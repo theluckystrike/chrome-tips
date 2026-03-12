@@ -65,3 +65,9 @@ Another common issue involves pages that use dynamic content or single-page appl
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Gmail Keyboard Shortcuts](/articles/chrome-gmail-keyboard-shortcuts/)
+* [Chrome for Language Translation Extensions Comparison](/articles/chrome-for-language-translation-extensions-comparison/)
+* [Chrome Extension for QR Code Generator](/articles/chrome-extension-for-qr-code-generator/)
+

@@ -71,3 +71,9 @@ With these steps completed, you can proceed with your clean install confidently,
 A clean install gives you a fresh, fast browser. And with proper backup, you get to keep everything that makes Chrome feel like home.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Education Account What It Includes](/articles/chrome-education-account-what-it-includes/)
+* [Chrome Extensions for JSON Viewer Formatter](/articles/chrome-extensions-for-json-viewer-formatter/)
+* [Chrome PDF Viewer Settings: Complete Customization Guide](/articles/chrome-pdf-viewer-settings/)
+

@@ -85,4 +85,9 @@ Managing your tabs well goes hand in hand with sync, because fewer tabs mean les
 
 ---
 
+## Related Articles
+* [chrome safe browsing should i turn on](/articles/chrome-safe-browsing-should-i-turn-on/)
+* [Chrome Web Share API Explained](/articles/chrome-web-share-api-explained/)
+* [How to Update Chrome on Android](/articles/how-to-update-chrome-on-android/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

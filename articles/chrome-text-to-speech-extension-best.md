@@ -73,4 +73,9 @@ Text to speech technology has made it easier than ever to consume web content in
 
 ---
 
+## Related Articles
+* [Chrome Extension for Taking Notes While Browsing](/articles/chrome-extension-for-taking-notes-while-browsing/)
+* [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/articles/should-i-switch-to-edge-for-speed/)
+* [Chrome for Deepl Translator Extension](/articles/chrome-for-deepl-translator-extension/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

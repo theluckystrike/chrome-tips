@@ -61,3 +61,9 @@ The good news is that Chrome keeps improving this feature, and the performance i
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Target Web App Best Extensions](/articles/chrome-for-target-web-app-best-extensions/)
+* [Chrome Overrides for Local Development](/articles/chrome-overrides-local-development/)
+* [chrome print page shortcut](/articles/chrome-print-page-shortcut/)
+

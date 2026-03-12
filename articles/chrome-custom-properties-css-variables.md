@@ -101,3 +101,9 @@ Take some time to identify the values you repeat most often in your CSS and star
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Google Sheets Keyboard Shortcuts](/articles/chrome-google-sheets-keyboard-shortcuts/)
+* [Chrome Microphone Access on Phone How to Control](/articles/chrome-microphone-access-on-phone-how-to-control/)
+* [Chrome Media Keys Not Working Fix](/articles/chrome-media-keys-not-working-fix/)
+

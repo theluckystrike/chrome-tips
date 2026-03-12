@@ -62,4 +62,9 @@ For those who want to explore more ways to improve their browser experience and 
 
 ---
 
+## Related Articles
+* [chrome for tiktok web best settings](/articles/chrome-for-tiktok-web-best-settings/)
+* [chrome webgpu gaming in browser future](/articles/chrome-webgpu-gaming-in-browser-future/)
+* [Chrome Developer Tools Shortcut](/articles//chrome-developer-tools-shortcut//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

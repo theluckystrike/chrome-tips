@@ -113,4 +113,9 @@ In 2026, passkey support has reached the point where most users can realisticall
 
 ---
 
+## Related Articles
+* [Chrome Google Chat Integration in Browser](/articles/chrome-google-chat-integration-in-browser/)
+* [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management/)
+* [chrome eye dropper api pick color anywhere](/articles/chrome-eye-dropper-api-pick-color-anywhere/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

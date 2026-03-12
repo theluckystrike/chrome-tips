@@ -58,3 +58,9 @@ Keep in mind that cookie consent popups are unlikely to disappear anytime soon. 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Netflix Not Working Fix](/articles/chrome-netflix-not-working-fix/)
+* [Chrome Dictation How to Enable](/articles/chrome-dictation-how-to-enable/)
+* [chrome profile name how to change](/articles/chrome-profile-name-how-to-change/)
+

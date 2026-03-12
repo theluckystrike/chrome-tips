@@ -80,4 +80,9 @@ For website owners who manage multiple tabs and browsers, consider using tools l
 
 Remember that Core Web Vitals are just one part of overall website performance. A site that loads quickly but has poor content will not retain visitors either. Focus on providing value, and make sure your site loads fast enough to deliver that value without delays.
 
+## Related Articles
+* [Chrome Extensions for Spotify](/articles/chrome-extensions-for-spotify/)
+* [Chrome Web Store Extensions Not Installing: Fixes That Actually Work](/articles/chrome-web-store-extensions-not-installing/)
+* [Chrome Biometric Authentication for the Web](/articles/chrome-biometric-authentication-web/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

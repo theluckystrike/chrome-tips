@@ -78,4 +78,9 @@ If you use many extensions, tracing can reveal which ones are consuming resource
 
 ---
 
+## Related Articles
+* [Chrome Restore Previous Session After Crash](/articles/chrome-restore-previous-session-after-crash/)
+* [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does/)
+* [Do Chrome Extensions Slow Down Your Browser](/articles/do-chrome-extensions-slow-down-your-browser/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

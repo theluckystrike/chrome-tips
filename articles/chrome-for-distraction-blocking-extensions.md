@@ -60,3 +60,9 @@ Remember that extensions are helpers, not magic solutions. They reduce the frict
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extension Permissions Best Practices](/articles/chrome-extension-permissions-best-practices/)
+* [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer/)
+* [Chrome Reset All Settings: What Gets Deleted](/articles/chrome-reset-all-settings-what-gets-deleted/)
+

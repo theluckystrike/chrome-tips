@@ -59,3 +59,9 @@ The game has become a cultural phenomenon, with online communities dedicated to 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome for booking.com best extensions](/articles/chrome-for-bookingcom-best-extensions/)
+* [Chrome for Stripe Dashboard Tips](/articles/chrome-for-stripe-dashboard-tips/)
+* [chrome topics api explained simply](/articles/chrome-topics-api-explained-simply/)
+

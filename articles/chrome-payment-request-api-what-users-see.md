@@ -84,4 +84,9 @@ If you find yourself juggling many browser tabs while shopping online, you might
 
 Using a tab management extension like **Tab Suspender Pro** complements the **Payment Request API** nicely. Your checkout process stays fast and responsive because Chrome has more resources available when you are ready to complete your purchase. It is a simple way to improve your overall Chrome experience while shopping online.
 
+## Related Articles
+* [How to Make Chrome Use Less Battery on MacBook](/articles/how-to-make-chrome-use-less-battery-macbook/)
+* [Chrome for Todoist Web App Best Settings](/articles/chrome-for-todoist-web-app-best-settings/)
+* [chrome zoom default change](/articles/chrome-zoom-default-change/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

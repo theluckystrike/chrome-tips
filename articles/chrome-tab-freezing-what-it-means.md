@@ -73,4 +73,9 @@ If freezing continues despite trying these solutions, your computer might have a
 
 ---
 
+## Related Articles
+* [Best Chrome Extensions for Marketing Professionals](/articles/best-chrome-extensions-for-marketing-professionals/)
+* [chrome for any.do web app setup](/articles/chrome-for-anydo-web-app-setup/)
+* [Chrome Not Working on Android Fix](/articles/chrome-not-working-on-android-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

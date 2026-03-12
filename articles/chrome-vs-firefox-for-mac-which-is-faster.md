@@ -67,4 +67,9 @@ Try both browsers for a few days and pay attention to how they feel in your dail
 
 ---
 
+## Related Articles
+* [Chrome How to Disable GPU Acceleration](/articles/chrome-how-to-disable-gpu-acceleration/)
+* [Chrome Google Sheets Keyboard Shortcuts](/articles/chrome-google-sheets-keyboard-shortcuts/)
+* [Chrome Using 8GB RAM Fix](/articles/chrome-using-8gb-ram-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

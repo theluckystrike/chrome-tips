@@ -78,4 +78,9 @@ Consider creating a system for naming your bookmark folders. You might include t
 
 Finally, take time periodically to clean up old bookmark folders. Go through your saved tabs and remove bookmarks for pages that no longer exist or are no longer relevant. A tidy bookmarks library is more valuable than a cluttered one, and regular maintenance prevents your bookmarks from becoming an unmanageable mess.
 
+## Related Articles
+* [Chrome Extensions for Keyword Research Free](/articles/chrome-extensions-for-keyword-research-free/)
+* [Chrome Tab From Other Device Not Showing Fix](/articles/chrome-tab-from-other-device-not-showing-fix/)
+* [Chrome Payment Autofill How to Manage Cards](/articles/chrome-payment-autofill-how-to-manage-cards/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

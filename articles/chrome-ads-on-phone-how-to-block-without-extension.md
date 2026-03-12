@@ -76,3 +76,9 @@ It is important to set realistic expectations. Even with all these methods in pl
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-guide/)
+* [Chrome Extensions For Font Changing](/articles//articles/chrome-extensions-for-font-changing//)
+* [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users/)
+

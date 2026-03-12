@@ -68,3 +68,9 @@ Finally, keep your extensions updated. Developers regularly release updates that
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Tab Management Shortcuts Cheat Sheet](/articles/chrome-tab-management-shortcuts-cheat-sheet/)
+* [chrome for codesandbox optimization](/articles/chrome-for-codesandbox-optimization/)
+* [Chrome Font Too Small on Certain Websites Fix](/articles/chrome-font-too-small-on-certain-websites-fix/)
+

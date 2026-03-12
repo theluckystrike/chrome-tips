@@ -88,4 +88,9 @@ Start by adjusting your power profile to a balanced setting, disabling unnecessa
 
 ---
 
+## Related Articles
+* [Chrome Extensions for iMacros Alternative](/articles/chrome-extensions-for-imacros-alternative/)
+* [How to Do a Reverse Image Search in Chrome Without an Extension](/articles/chrome-reverse-image-search-without-extension/)
+* [chrome for rumble web player settings](/articles/chrome-for-rumble-web-player-settings/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

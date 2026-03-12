@@ -134,4 +134,9 @@ If you've exhausted these options and Slack still feels sluggish, the desktop ap
 
 Try these solutions in order, and you should notice a significant improvement in Slack's responsiveness within minutes.
 
+## Related Articles
+* [Chrome Autofill Not Working Fix](/articles/chrome-autofill-not-working-fix/)
+* [Chrome Freezes When Opening New Tab Fix](/articles/chrome-freezes-when-opening-new-tab-fix/)
+* [Chrome Google Meet Integration in Browser](/articles/chrome-google-meet-integration-in-browser/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

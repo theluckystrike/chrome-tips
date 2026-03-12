@@ -74,3 +74,9 @@ Happy shopping, and enjoy the satisfaction of knowing you got a great price.
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Best Chrome Extensions for Nurses](/articles/best-chrome-extensions-for-nurses/)
+* [How to Delete Everything Chrome Knows About Me](/articles/how-to-delete-everything-chrome-knows-about-me/)
+* [Chrome Source Maps Explained Simply](/articles/chrome-source-maps-explained-simply/)
+

@@ -66,4 +66,9 @@ Remember that you have options when a site performs poorly. You can look for alt
 
 ---
 
+## Related Articles
+* [chrome shared array buffer usage](/articles/chrome-shared-array-buffer-usage/)
+* [Chrome Dark Mode on Phone How to Enable](/articles//chrome-dark-mode-on-phone-how-to-enable//)
+* [Chrome Extensions for uBlock Origin Setup Guide](/articles/chrome-extensions-for-ublock-origin-setup-guide/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

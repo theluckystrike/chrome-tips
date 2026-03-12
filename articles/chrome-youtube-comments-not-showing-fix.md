@@ -114,4 +114,9 @@ If you've tried all these steps and comments still won't load, consider trying a
 
 With these troubleshooting steps, you should be able to get back to reading and participating in discussions under your favorite YouTube videos.
 
+## Related Articles
+* [Chrome for News Reading Best Setup](/articles/chrome-for-news-reading-best-setup/)
+* [Chrome Bounce Tracking Protection Explained: What It Is and How to Enable It](/articles/chrome-bounce-tracking-protection-explained/)
+* [Chrome Live Captions How to Turn On](/articles/chrome-live-captions-how-to-turn-on/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

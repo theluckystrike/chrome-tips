@@ -93,4 +93,9 @@ Start by adding a color picker button to your application and wiring it up to th
 
 The web platform continues to evolve rapidly, and APIs like the Eye Dropper demonstrate how browser capabilities are expanding to meet the needs of designers and developers. Embrace these new tools to create better web experiences for your users.
 
+## Related Articles
+* [Chrome Live Captions Feature Guide](/articles/chrome-live-captions-feature/)
+* [Why Is Chrome Still the Most Popular Browser in 2026?](/articles/why-is-chrome-still-most-popular-browser/)
+* [Chrome for Codecademy: In-Browser Optimization](/articles/chrome-for-codecademy-in-browser-optimization/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

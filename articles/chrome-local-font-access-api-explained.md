@@ -57,3 +57,9 @@ Remember that you can always change your mind later. If you grant access and lat
 As web capabilities continue to expand, staying informed about what permissions mean helps you get the most out of your browser while maintaining the level of privacy and security you are comfortable with. The Chrome Local Font Access API is just one example of how browsers are evolving to support more powerful web applications while giving users meaningful control over their data.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Speed Comparison Test How to Run](/articles/chrome-speed-comparison-test-how-to-run/)
+* [Chrome Reset Flags to Default How To](/articles/chrome-reset-flags-to-default-how-to/)
+* [Chrome GDPR Cookie Banners Best Extension to Handle](/articles/chrome-gdpr-cookie-banners-best-extension-to-handle/)
+

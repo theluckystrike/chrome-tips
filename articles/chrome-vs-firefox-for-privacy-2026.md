@@ -73,4 +73,9 @@ The good news is that both browsers have improved their privacy features, and wh
 
 ---
 
+## Related Articles
+* [Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab](/articles/chrome-duplicate-tab-shortcut-trick/)
+* [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization/)
+* [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

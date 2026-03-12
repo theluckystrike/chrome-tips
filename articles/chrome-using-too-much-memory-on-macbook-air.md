@@ -73,4 +73,9 @@ These small changes can make a big difference in how your MacBook Air performs. 
 
 ---
 
+## Related Articles
+* [chrome default browser how to set on windows](/articles//chrome-default-browser-how-to-set-on-windows//)
+* [Chrome WebStore Extensions Not Installing Fix](/articles/chrome-webstore-extensions-not-installing-fix/)
+* [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

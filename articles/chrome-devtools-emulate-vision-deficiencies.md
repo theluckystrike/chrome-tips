@@ -61,3 +61,9 @@ It is also worth remembering that accessibility benefits everyone, not just peop
 While you are working on improving accessibility, you might also find that managing many open tabs helps you focus on the task at hand. If you often have dozens of tabs open while testing different aspects of your website, consider using a tool that helps organize them. Tab Suspender Pro is an extension that can automatically suspend tabs you are not currently using, which frees up memory and can make your browser feel faster and more responsive. It is a small change that can make a big difference in your workflow.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Color Palette Generator](/articles//articles/chrome-extensions-for-color-palette-generator//)
+* [Chrome Developer Tools Making Page Slow: What You Need to Know](/articles//chrome-developer-tools-making-page-slow//)
+* [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom/)
+

@@ -109,4 +109,9 @@ The manual scrolling method works well as a backup when other methods fail or wh
 
 ---
 
+## Related Articles
+* [chrome network inspector for beginners](/articles/chrome-network-inspector-for-beginners/)
+* [Chrome Extensions for Website Archiving](/articles/chrome-extensions-for-website-archiving/)
+* [Chrome Connection Not Private Bypass Safely](/articles/chrome-connection-not-private-bypass-safely/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

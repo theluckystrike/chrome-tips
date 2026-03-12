@@ -71,3 +71,9 @@ Finding chrome download files on phone where to find does not have to be confusi
 Remember to check the Downloads folder in your file manager, use Chrome's built-in downloads list, and take a moment to organize files after downloading. With these simple steps, you will always know where to find your downloaded files.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Netflix Best Quality Settings](/articles/chrome-for-netflix-best-quality-settings/)
+* [Chrome Helper Renderer Using Too Much CPU](/articles/chrome-helper-renderer-using-too-much-cpu/)
+* [Chrome Reset All Settings: What Gets Deleted](/articles/chrome-reset-all-settings-what-gets-deleted/)
+

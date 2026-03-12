@@ -79,4 +79,9 @@ Start with one extension and see how it affects your email quality and speed. Mo
 
 Writing better emails is a skill that improves with practice, and the right Chrome extension can accelerate that learning process while immediately improving the quality of your daily communication.
 
+## Related Articles
+* [chrome google photos integration save images](/articles/chrome-google-photos-integration-save-images/)
+* [chrome site notifications stop all](/articles/chrome-site-notifications-stop-all/)
+* [Chrome Extensions for Reading List Manager](/articles/chrome-extensions-for-reading-list-manager/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

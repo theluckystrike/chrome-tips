@@ -56,3 +56,9 @@ It is worth noting that too many extensions can sometimes have the opposite effe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Push Notifications API Explained](/articles/chrome-push-notifications-api-explained/)
+* [chrome topics api explained simply](/articles/chrome-topics-api-explained-simply/)
+* [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change/)
+

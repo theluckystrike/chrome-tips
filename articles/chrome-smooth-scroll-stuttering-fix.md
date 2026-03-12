@@ -53,3 +53,9 @@ Finally, if you visit a particular website often and notice it scrolls poorly, y
 Chrome smooth scroll stuttering is annoying, but it is usually fixable with a few simple adjustments. By managing your extensions, keeping your tabs under control, and keeping your browser and drivers updated, you can get back to smooth, effortless scrolling in no time.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Window Size Not Saving Fix](/articles/chrome-window-size-not-saving-fix/)
+* [Chrome Coupon Finder Built In Feature](/articles/chrome-coupon-finder-built-in-feature/)
+* [How to Find a Tab by Name in Chrome: Complete Guide](/articles/chrome-find-tab-by-name-search/)
+

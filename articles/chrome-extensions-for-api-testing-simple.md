@@ -59,4 +59,9 @@ Finally, remember that browser extensions are powerful tools but they have limit
 
 ---
 
+## Related Articles
+* [Chrome Extension Review Process: How Long Does It Take](/articles/chrome-extension-review-process-how-long/)
+* [Chrome Octane Score Explained](/articles/chrome-octane-score-explained/)
+* [Chrome Allow Popups for One Site How To](/articles/chrome-allow-popups-for-one-site-how-to/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

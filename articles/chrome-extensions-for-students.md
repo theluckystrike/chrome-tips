@@ -105,4 +105,9 @@ The right Chrome extensions can transform your academic experience, helping you 
 
 Experiment with these extensions, find the combination that works best for your specific needs, and watch as your productivity and academic performance improve. With the right tools at your disposal, you will be better equipped to handle the demands of modern education.
 
+## Related Articles
+* [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app/)
+* [How to Fix Chrome Mixed Content Warning](/articles/chrome-mixed-content-warning-fix/)
+* [Chrome Passwords on Phone How to View](/articles/chrome-passwords-on-phone-how-to-view/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

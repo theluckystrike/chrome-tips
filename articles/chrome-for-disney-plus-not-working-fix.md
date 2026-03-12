@@ -120,3 +120,9 @@ Remember that sometimes a simple restart of your computer or router can fix stre
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How Often Should I Clear Chrome Cache](/articles/how-often-should-i-clear-chrome-cache/)
+* [Chrome Devtools Application Panel Explained](/articles//chrome-devtools-application-panel-explained//)
+* [Chrome Reduce Memory Usage Android - Complete Guide](/articles/chrome-reduce-memory-usage-android/)
+

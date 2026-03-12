@@ -53,3 +53,9 @@ Finally, if you visit a particular website often and notice it scrolls poorly, y
 Chrome scroll not smooth issues are annoying, but they are usually fixable with a few simple adjustments. By managing your extensions, keeping your tabs under control, and keeping your browser and drivers updated, you can get back to smooth, effortless scrolling in no time.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Content Filtering for Families](/articles/chrome-content-filtering-for-families/)
+* [My Computer Is So Slow How to Fix Chrome](/articles/my-computer-is-so-slow-how-to-fix-chrome/)
+* [chrome install as app pwa how to](/articles/chrome-install-as-app-pwa-how-to/)
+

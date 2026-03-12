@@ -90,3 +90,9 @@ Making these adjustments to Chrome can significantly improve your experience whe
 Every computer is different, so you might need to experiment with a few settings to find what works best for your specific setup. Start with the changes listed here and adjust as needed based on how your design work feels.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Aspect Ratio CSS Property](/articles/chrome-aspect-ratio-css-property/)
+* [Chrome Session Storage vs Local Storage: What's the Difference?](/articles/chrome-session-storage-vs-local-storage/)
+* [How to Enable Chrome Site Isolation for Extra Security](/articles/chrome-site-isolation-enable-extra-security/)
+

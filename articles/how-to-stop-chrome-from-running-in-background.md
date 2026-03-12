@@ -72,3 +72,9 @@ Most users don't need Chrome's background features, so turning them off is a sim
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Extension Popup Page Tutorial](/articles/chrome-extension-popup-page-tutorial/)
+* [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained/)
+* [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings/)
+

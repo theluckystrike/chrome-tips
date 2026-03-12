@@ -79,3 +79,9 @@ If you frequently keep many tabs open and notice performance issues, consider us
 With these tips, you can make the most of Waze web in Chrome and navigate with confidence.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for AI Writing Assistant](/articles/chrome-extensions-for-ai-writing-assistant/)
+* [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs/)
+* [How to Limit Chrome Memory Usage on Windows](/articles/how-to-limit-chrome-memory-usage-windows/)
+

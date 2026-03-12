@@ -125,4 +125,9 @@ If you're looking to optimize Chrome further, give Tab Suspender Pro a try. It's
 
 ---
 
+## Related Articles
+* [Chrome Canva Slow Loading Fix](/articles/chrome-canva-slow-loading-fix/)
+* [Chrome vs Chromium: What's the Difference and Which Should You Use?](/articles/chrome-chromium-vs-chrome-differences/)
+* [Chrome for Cryptocurrency Tracking Extensions](/articles/chrome-for-cryptocurrency-tracking-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

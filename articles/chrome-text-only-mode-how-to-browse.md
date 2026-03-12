@@ -77,4 +77,9 @@ Learning chrome text only mode how to browse is about finding what works best fo
 
 Try different methods to see which fits your lifestyle. Whether you want to save data, speed up your browser, or simply enjoy a cleaner reading experience, there is a solution that can help. Text only browsing might just change how you use the web.
 
+## Related Articles
+* [Chrome 2026 New Features Overview](/articles/chrome-2026-new-features-overview/)
+* [Chrome Persistent Storage Permission Explained](/articles/chrome-persistent-storage-permission-explained/)
+* [How to Share Chrome Tabs in Video Calls](/articles/how-to-share-chrome-tabs-in-video-calls/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

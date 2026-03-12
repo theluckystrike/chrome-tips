@@ -92,3 +92,9 @@ Once your bookmarks bar is working again, take a moment to make sure your import
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Network Throttling Guide](/articles/chrome-network-throttling-guide/)
+* [chrome privacy sandbox what regular users should know](/articles/chrome-privacy-sandbox-what-regular-users-should-know/)
+* [How to Disable Chrome Auto Update on Windows](/articles/chrome-auto-update-disable-windows-guide/)
+

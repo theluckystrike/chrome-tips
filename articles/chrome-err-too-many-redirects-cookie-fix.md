@@ -77,4 +77,9 @@ Most of the time, one of these methods will get you back to browsing normally. I
 
 ---
 
+## Related Articles
+* [Chrome Extensions for TikTok Downloader](/articles/chrome-extensions-for-tiktok-downloader/)
+* [Chrome Status Code 502 Bad Gateway Fix](/articles/chrome-status-code-502-bad-gateway-fix/)
+* [Chrome Extensions for Auto Refresh Page](/articles/chrome-extensions-for-auto-refresh-page/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -51,3 +51,9 @@ Consider using Chrome profiles for different purposes. If you have separate prof
 If you are looking for a straightforward way to manage zoom along with other browsing improvements, Tab Suspender Pro is one option that can help. While its main focus is on managing open tabs to reduce memory usage, many users find that having better control over their browsing environment, including consistent zoom levels, makes their overall experience more comfortable. The extension is part of the Zovo extension suite, which aims to make browsing more efficient and personalized.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Font Too Small on Certain Websites Fix](/articles/chrome-font-too-small-on-certain-websites-fix/)
+* [Chrome Extension Settings Sync Across Devices](/articles/chrome-extension-settings-sync-across-devices/)
+* [Chrome High CPU Usage Nothing Open](/articles/chrome-high-cpu-usage-nothing-open/)
+

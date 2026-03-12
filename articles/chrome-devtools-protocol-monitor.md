@@ -63,3 +63,9 @@ As you become more familiar with the tool, you will find it easier to spot patte
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Eye Dropper Tool](/articles//articles/chrome-extensions-for-eye-dropper-tool//)
+* [Chrome Energy Saver Mode Explained](/articles/chrome-energy-saver-mode-explained/)
+* [Chrome Tab Search Shortcut: Find Any Open Tab Instantly](/articles/chrome-tab-search-shortcut/)
+

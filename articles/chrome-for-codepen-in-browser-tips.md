@@ -76,3 +76,9 @@ Using CodePen in Chrome effectively is about combining the right tools, settings
 With these tips, you can focus more on building and less on dealing with browser issues. Whether you are a beginner experimenting with CSS or an experienced developer building complex JavaScript applications, Chrome provides everything you need to make the most of your CodePen sessions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome DevTools Snippets for Productivity](/articles/chrome-snippets-productivity/)
+* [Chrome Gap Property CSS Flexbox Grid](/articles/chrome-gap-property-css-flexbox-grid/)
+* [How to Make Chrome Use Less Battery on MacBook](/articles/how-to-make-chrome-use-less-battery-macbook/)
+

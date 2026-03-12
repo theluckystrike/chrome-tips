@@ -60,3 +60,9 @@ If you are new to Markdown, take some time to learn the basic syntax. Start with
 Experiment with different extensions to find the combination that works best for your workflow. Everyone has different preferences when it comes to writing tools, and the right extension for someone else might not be the best choice for you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab](/articles/chrome-duplicate-tab-shortcut-trick/)
+* [Chrome for Cold Turkey Blocker Setup](/articles/chrome-for-cold-turkey-blocker-setup/)
+* [chrome deceptive site ahead warning fix](/articles//chrome-deceptive-site-ahead-warning-fix//)
+

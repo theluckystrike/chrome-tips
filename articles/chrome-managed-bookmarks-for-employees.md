@@ -76,3 +76,9 @@ This separation is actually one of the strengths of the managed bookmarks approa
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Auto Sign In to Websites How to Control](/articles/chrome-auto-sign-in-to-websites-how-to-control/)
+* [How to Search Open Chrome Tabs](/articles/how-to-search-open-chrome-tabs/)
+* [Chrome Extension for Changing User Agent](/articles/chrome-extension-for-changing-user-agent/)
+

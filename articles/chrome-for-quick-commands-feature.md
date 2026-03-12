@@ -83,3 +83,9 @@ The chrome for quick commands feature is one of those things that is easy to ove
 Give it a try for a few days. Pick one or two commands that match what you actually do in your browser, practice them until they feel natural, and then expand from there. You might find that these small shortcuts make Chrome feel like a completely different browser, one that responds to what you want almost before you finish typing.
 
 ---
+
+## Related Articles
+* [How Often Should I Clear Chrome Cache](/articles/how-often-should-i-clear-chrome-cache/)
+* [Chrome Extensions for Resume Building](/articles/chrome-extensions-for-resume-building/)
+* [Chrome Status Invalid Image Hash Fix](/articles/chrome-status-invalid-image-hash-fix/)
+

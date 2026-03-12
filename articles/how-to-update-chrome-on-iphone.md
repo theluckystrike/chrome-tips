@@ -62,3 +62,9 @@ Keeping Chrome updated takes just a few minutes but provides important benefits.
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Safe Browsing Data What Google Sees](/articles/chrome-safe-browsing-data-what-google-sees/)
+* [Chrome Credential Management API: Complete Guide for Developers](/articles/chrome-credential-management-api/)
+* [Chrome Background Sync API Explained](/articles/chrome-background-sync-api-explained/)
+

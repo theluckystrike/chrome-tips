@@ -142,4 +142,9 @@ You can also try using a different browser temporarily (Firefox, Edge, or Brave)
 
 ---
 
+## Related Articles
+* [How to Limit Chrome Extension Permissions](/articles/how-to-limit-chrome-extension-permissions/)
+* [Chrome Extensions For Canvas Fingerprint Blocker](/articles//articles/chrome-extensions-for-canvas-fingerprint-blocker//)
+* [chrome reduce data usage mobile](/articles/chrome-reduce-data-usage-mobile/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

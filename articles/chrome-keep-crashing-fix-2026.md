@@ -86,3 +86,9 @@ Chrome keep crashing issues can be frustrating, but they are usually fixable. St
 Remember that keeping Chrome updated, using fewer extensions, and not opening too many tabs at once can prevent many crashing issues from happening in the first place. With these steps, you should be able to get Chrome running smoothly again.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Why Does Each Chrome Tab Use So Much Memory](/articles/why-does-each-chrome-tab-use-so-much-memory/)
+* [Chrome for Adobe Creative Cloud Web Tips](/articles/chrome-for-adobe-creative-cloud-web-tips/)
+* [chrome tab memory usage keeps growing](/articles/chrome-tab-memory-usage-keeps-growing/)
+

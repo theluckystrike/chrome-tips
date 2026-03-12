@@ -81,3 +81,9 @@ Chrome network speed in developer tools is a powerful feature that anyone can us
 You do not need to be a technical expert to benefit from this information. A basic understanding of what the columns mean and what to look for can go a long way. And remember, tools like Tab Suspender Pro exist to help you manage your browser more effectively, so you have options when performance becomes an issue.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Command Line Flags for Low Memory: A Practical Guide](/articles/chrome-command-line-flags-for-low-memory/)
+* [Chrome Android Reading List How to Use](/articles/chrome-android-reading-list-how-to-use/)
+* [Chrome Version How to Check Which Version](/articles/chrome-version-how-to-check-which-version/)
+

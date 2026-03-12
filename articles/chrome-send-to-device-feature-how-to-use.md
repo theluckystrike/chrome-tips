@@ -79,3 +79,9 @@ If you find yourself frequently sending tabs between devices, you might also ben
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome PDF Not Opening in Browser Fix](/articles/chrome-pdf-not-opening-in-browser-fix/)
+* [Chrome Extensions for Note Taking in Meetings](/articles/chrome-extensions-for-note-taking-in-meetings/)
+* [Chrome for Reducing Eye Strain Extensions](/articles/chrome-for-reducing-eye-strain-extensions/)
+

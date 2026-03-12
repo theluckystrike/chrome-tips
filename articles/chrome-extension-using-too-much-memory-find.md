@@ -65,4 +65,9 @@ Finally, make a habit of checking the Chrome Task Manager occasionally, especial
 
 Finding which chrome extension is using too much memory does not require technical expertise. With Chrome is built-in tools, you can identify problematic extensions in just a few clicks. Once you know which ones are causing issues, you can either remove them, adjust their settings, or use tools like Tab Suspender Pro to keep your browser running smoothly.
 
+## Related Articles
+* [Chrome Speed Dial Extensions Best](/articles/chrome-speed-dial-extensions-best/)
+* [Chrome MotionMark Graphics Benchmark](/articles/chrome-motionmark-graphics-benchmark/)
+* [Chrome Saved Passwords How to View](/articles/chrome-saved-passwords-how-to-view/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

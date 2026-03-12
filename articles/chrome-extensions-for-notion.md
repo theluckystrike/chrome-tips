@@ -70,3 +70,9 @@ You do not need to install every extension mentioned here. Experiment with one o
 The right combination of extensions turns Chrome into a powerful companion for your Notion work. You will spend less time on friction and more time actually using your notes, databases, and projects to get things done.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome vs Firefox 2026 Comparison](/articles/chrome-vs-firefox-2026/)
+* [Chrome Pop Ups How to Block All](/articles/chrome-pop-ups-how-to-block-all/)
+* [Chrome High CPU Usage Nothing Open](/articles/chrome-high-cpu-usage-nothing-open/)
+

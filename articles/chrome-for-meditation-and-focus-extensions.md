@@ -83,3 +83,9 @@ Pay attention to how the extension makes you feel when you use it. A quality med
 Consider trying a few different options before settling on your final setup. Many meditation and focus extensions are free, so you can experiment without any cost. Take advantage of this to find the tools that truly support your wellness goals.
 
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [how to enable chrome enhanced safe browsing](/articles/how-to-enable-chrome-enhanced-safe-browsing/)
+* [Chrome Snap Scroll CSS Explained](/articles/chrome-snap-scroll-css-explained/)
+* [chrome extensions for ruler measurement](/articles/chrome-extensions-for-ruler-measurement/)
+

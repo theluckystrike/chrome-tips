@@ -68,4 +68,9 @@ Remember that Tab Suspender Pro can help keep your browser running smoothly, whi
 
 The next time you encounter a cluttered website that makes reading difficult, try one of these solutions. You might be surprised at how much more you can read and how much less tired your eyes feel when the distractions are removed.
 
+## Related Articles
+* [Chrome Custom Elements Explained](/articles//chrome-custom-elements-explained//)
+* [Chrome Installer Failed to Start Fix](/articles/chrome-installer-failed-to-start-fix/)
+* [Chrome Extensions for Weather Forecast](/articles/chrome-extensions-for-weather-forecast/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -74,3 +74,9 @@ With the right set of extensions, Chrome can become a powerful command center fo
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Navigate Back With Gesture How to](/articles/chrome-navigate-back-with-gesture-how-to/)
+* [Best Chrome Extensions for Product Managers](/articles/best-chrome-extensions-for-product-managers/)
+* [Chrome Parental Controls Without Extension](/articles/chrome-parental-controls-without-extension/)
+

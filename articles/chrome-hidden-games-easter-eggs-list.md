@@ -53,3 +53,9 @@ While hidden games are fun, keeping your browser running smoothly is important f
 Combining the fun of discovering hidden easter eggs with good browser maintenance habits will give you the best of both worlds entertainment and performance.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Bookmarks Not Syncing Fix](/articles/chrome-bookmarks-not-syncing-fix/)
+* [Chrome Minimum Font Size Setting Where to Find It](/articles//chrome-minimum-font-size-setting-where//)
+* [Chrome Largest Contentful Paint Explained](/articles/chrome-largest-contentful-paint-explained/)
+

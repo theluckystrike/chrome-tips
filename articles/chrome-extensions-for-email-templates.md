@@ -86,3 +86,9 @@ Email does not have to be a time drain. With the right templates in place, you c
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome youtube comments not showing fix](/articles/chrome-youtube-comments-not-showing-fix/)
+* [chrome for kayak price alerts extension](/articles/chrome-for-kayak-price-alerts-extension/)
+* [Chrome Bookmark Current Page Shortcut](/articles/chrome-bookmark-current-page-shortcut/)
+

@@ -70,3 +70,9 @@ The key is finding an extension that fits your workflow. Try a few different opt
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Security Panel How to Check SSL](/articles/chrome-security-panel-how-to-check-ssl/)
+* [Chrome Text to Speech Built In Features](/articles/chrome-text-to-speech-built-in-features/)
+* [Chromebook Print From Chrome How To](/articles/chromebook-print-from-chrome-how-to/)
+

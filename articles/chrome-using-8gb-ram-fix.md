@@ -91,4 +91,9 @@ If your computer consistently runs out of memory with Chrome open, you might wan
 
 ---
 
+## Related Articles
+* [How to Turn Off Chrome Notifications Permanently](/articles/how-to-turn-off-chrome-notifications-permanently/)
+* [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization/)
+* [Chrome for Adobe Creative Cloud Web Tips](/articles/chrome-for-adobe-creative-cloud-web-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

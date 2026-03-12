@@ -79,4 +79,9 @@ Start by checking your startup tabs, disabling unnecessary extensions, and enabl
 
 With these steps, you can enjoy a faster browsing experience and stop wondering why opening Chrome slows down everything.
 
+## Related Articles
+* [Chrome Force Mobile Site on Desktop](/articles/chrome-force-mobile-site-on-desktop/)
+* [Chrome Extensions for Hotel Deal Finder](/articles/chrome-extensions-for-hotel-deal-finder/)
+* [Chrome How to Disable GPU Acceleration](/articles/chrome-how-to-disable-gpu-acceleration/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

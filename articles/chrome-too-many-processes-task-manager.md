@@ -65,4 +65,9 @@ Some users also find that switching to a lighter-weight browser helps, particula
 
 ---
 
+## Related Articles
+* [Chrome Custom Fonts How to Change](/articles//chrome-custom-fonts-how-to-change//)
+* [Chrome for MDN Web Docs Extension](/articles/chrome-for-mdn-web-docs-extension/)
+* [Chrome Devtools Recorder Panel How To Use](/articles/chrome-devtools-recorder-panel-how-to-use/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -69,4 +69,9 @@ By understanding the basics of copyright law and following the practical tips ou
 
 ---
 
+## Related Articles
+* [How to Block Ads on Chrome Without Extension](/articles/how-to-block-ads-on-chrome-without-extension/)
+* [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/articles/google-docs-slow-in-chrome-fix/)
+* [How to Improve Chrome WebGL Performance](/articles/chrome-webgl-performance-how-to-improve/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

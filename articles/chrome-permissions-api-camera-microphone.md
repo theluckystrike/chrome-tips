@@ -196,4 +196,9 @@ For developers building media-heavy applications, consider implementing your own
 
 ---
 
+## Related Articles
+* [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead/)
+* [Chrome for Travel Itinerary Extensions](/articles/chrome-for-travel-itinerary-extensions/)
+* [Chrome Web Store How to Leave Review](/articles/chrome-web-store-how-to-leave-review/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

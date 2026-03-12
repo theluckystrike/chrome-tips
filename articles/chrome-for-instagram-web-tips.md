@@ -73,3 +73,9 @@ To create a new profile, click on the profile icon in the upper right corner of 
 Having a dedicated profile means you can keep your work-related tabs and extensions separate from your social media browsing, which can help with organization and performance.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Password Manager on Phone vs Dedicated App](/articles/chrome-password-manager-on-phone-vs-dedicated-app/)
+* [Chrome Memory Saver Mode How to Use](/articles/chrome-memory-saver-mode-how-to-use/)
+* [Chrome for Deepl Translator Extension](/articles/chrome-for-deepl-translator-extension/)
+

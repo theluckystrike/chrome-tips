@@ -71,3 +71,9 @@ Remember that most websites require JavaScript to function properly. While disab
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Reader Mode on Phone: How to Enable](/articles/chrome-reader-mode-on-phone-how-to-enable/)
+* [How to Fix Chrome Hijacked Homepage (Complete Guide)](/articles/chrome-hijacked-homepage-fix-guide/)
+* [Chrome Critical Rendering Path Explained](/articles/chrome-critical-rendering-path-explained/)
+

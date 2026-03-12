@@ -84,3 +84,9 @@ Some families choose to remove supervision entirely once children reach high sch
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [What Is Chrome Paint Holding and How It Speeds Up Page Load](/articles/chrome-paint-holding-page-load/)
+* [Chrome Contact Picker API Explained](/articles/chrome-contact-picker-api-explained/)
+* [chrome color picker extension best](/articles/chrome-color-picker-extension-best/)
+

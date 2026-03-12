@@ -83,3 +83,9 @@ Chrome and Google Sheets together offer a powerful combination for getting work 
 Remember to keep your browser and sheets organized, use tools like Tab Suspender Pro when needed, and take advantage of Chrome's built-in features. With these chrome for google sheets tips and tricks, you will be able to handle your spreadsheets with confidence and ease.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Amazon Fresh Web Ordering](/articles/chrome-for-amazon-fresh-web-ordering/)
+* [chrome reduce data usage on mobile](/articles/chrome-reduce-data-usage-on-mobile/)
+* [Chrome Passkeys vs Passwords Comparison](/articles/chrome-passkeys-vs-passwords-comparison/)
+

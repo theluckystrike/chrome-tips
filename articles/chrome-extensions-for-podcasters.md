@@ -72,3 +72,9 @@ Once you find the right set of tools, you will notice significant improvements i
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome for recipe browsing without ads](/articles/chrome-for-recipe-browsing-without-ads/)
+* [chrome reduce data usage tips](/articles/chrome-reduce-data-usage-tips/)
+* [Chrome Live Captions Languages: Complete Setup Guide](/articles/chrome-live-captions-languages/)
+

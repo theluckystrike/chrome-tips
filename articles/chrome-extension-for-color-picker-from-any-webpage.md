@@ -68,4 +68,9 @@ Now that you understand how color picker extensions work and what to look for, y
 
 Whether you are collecting colors for a design project, matching a brand color, or just exploring colors you come across, having a reliable color picker extension makes the task effortless. Give it a try and see how much easier it is to grab exactly the color you want, whenever you want it.
 
+## Related Articles
+* [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/articles/chrome-coverage-tool-find-unused-css/)
+* [Chrome for Stripe Dashboard Tips](/articles/chrome-for-stripe-dashboard-tips/)
+* [Chrome for Zoom Classes Optimization](/articles/chrome-for-zoom-classes-optimization/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

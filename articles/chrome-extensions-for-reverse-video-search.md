@@ -60,3 +60,9 @@ Free versions of these extensions typically offer basic functionality, while pre
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Stable Diffusion Web UI Tips](/articles/chrome-for-stable-diffusion-web-ui-tips/)
+* [Chrome Keeps Opening New Tabs By Itself Virus](/articles/chrome-keeps-opening-new-tabs-by-itself-virus/)
+* [Chrome Zoom Too Big How to Fix](/articles/chrome-zoom-too-big-how-to-fix/)
+

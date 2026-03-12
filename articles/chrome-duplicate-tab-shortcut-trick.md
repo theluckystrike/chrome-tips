@@ -81,4 +81,9 @@ Once it becomes muscle memory, you'll wonder how you ever lived without it. And 
 
 ---
 
+## Related Articles
+* [How to Fix Chrome Notion Slow and Laggy Issues](/articles/chrome-notion-slow-and-laggy-fix/)
+* [Chrome Site Permissions How to Manage](/articles/chrome-site-permissions-how-to-manage/)
+* [Chrome Anti Fingerprinting Extensions Best](/articles/chrome-anti-fingerprinting-extensions-best/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

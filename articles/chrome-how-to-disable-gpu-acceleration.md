@@ -68,3 +68,9 @@ Some users find that disabling GPU acceleration is all they need to do to get Ch
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions For Cookie Auto Delete](/articles//articles/chrome-extensions-for-cookie-auto-delete//)
+* [YouTube Buffering on Chrome But Not Firefox: Why and How to Fix It](/articles/youtube-buffering-on-chrome-but-not-firefox/)
+* [Chrome Microphone Access on Phone How to Control](/articles/chrome-microphone-access-on-phone-how-to-control/)
+

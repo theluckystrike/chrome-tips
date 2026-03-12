@@ -73,4 +73,9 @@ Pay attention to which websites you use most often for video content. If an exte
 
 ---
 
+## Related Articles
+* [Best Chrome Android Flags to Enable](/articles/best-chrome-android-flags-to-enable/)
+* [How to Safely Work with Chromebook School Restrictions](/articles/chromebook-school-restrictions-bypass-safely/)
+* [Chrome Coverage Tool: Find Unused JavaScript](/articles/chrome-coverage-tool-find-unused-javascript/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

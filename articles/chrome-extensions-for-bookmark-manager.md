@@ -59,4 +59,9 @@ The best Chrome extension for bookmark manager needs depends on how you use book
 
 Most of these extensions offer free versions with core features, so you can try a few to see which fits your workflow. The goal is to build a system where you can actually find the bookmarks you save, when you need them.
 
+## Related Articles
+* [chrome search by image right click how to](/articles/chrome-search-by-image-right-click-how-to/)
+* [Chrome Redirecting to Wrong Pages Fix](/articles/chrome-redirecting-to-wrong-pages-fix/)
+* [How to Change Default Download Location Chrome](/articles/how-to-change-default-download-location-chrome/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -76,3 +76,9 @@ The tools are there, they are easy to use, and the information they provide is v
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome tab memory usage keeps growing](/articles/chrome-tab-memory-usage-keeps-growing/)
+* [Chrome Layer Cascade CSS: A Complete Guide to Modern Style Management](/articles/chrome-layer-cascade-css/)
+* [Chrome Interaction to Next Paint Explained: What It Means for You](/articles/chrome-interaction-to-next-paint-explained/)
+

@@ -74,3 +74,9 @@ Remember that more extensions is not always better. Each extension adds some ove
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome extensions for json viewer](/articles/chrome-extensions-for-json-viewer/)
+* [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead/)
+* [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix/)
+

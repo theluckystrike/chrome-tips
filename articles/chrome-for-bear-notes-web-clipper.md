@@ -76,3 +76,9 @@ Chrome for Bear Notes web clipper may not be a single click away, but with a lit
 By taking the time to set up a method that works for you and following the tips above, you can build a powerful system for capturing and organizing inspiration from across the web.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for FreeCodeCamp Best Extensions](/articles/chrome-for-freecodecamp-best-extensions/)
+* [How to Use the Chrome Inert Attribute to Disable Interaction](/articles/chrome-inert-attribute-disable-interaction/)
+* [Chrome Web Serial API Guide](/articles/chrome-web-serial-api-guide/)
+

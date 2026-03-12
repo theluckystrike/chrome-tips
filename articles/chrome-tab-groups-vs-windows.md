@@ -128,4 +128,9 @@ Your choice between these approaches should depend on your specific workflow and
 
 Experiment with both methods to find what works best for you. With the right organization strategy, you can take control of your tabs and make Chrome work more effectively for your needs.
 
+## Related Articles
+* [Chrome Emulate Print Media How To](/articles/chrome-emulate-print-media-how-to/)
+* [Chrome Ads on Phone How to Block Without Extension](/articles/chrome-ads-on-phone-how-to-block-without-extension/)
+* [Chrome Extensions For Color Palette Generator](/articles//articles/chrome-extensions-for-color-palette-generator//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -70,3 +70,9 @@ By leveraging Chrome's built-in features and the right set of extensions, you ca
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Speed Up Chrome in 5 Minutes](/articles/how-to-speed-up-chrome-in-5-minutes/)
+* [Chrome MotionMark Graphics Benchmark](/articles/chrome-motionmark-graphics-benchmark/)
+* [Chrome Sensors Emulation How to Use](/articles/chrome-sensors-emulation-how-to-use/)
+

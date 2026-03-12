@@ -78,3 +78,9 @@ For users who have many tabs open and want to manage their browser resources bet
 The chrome file system access api explained feature is a powerful tool that makes web applications more useful, but it is just one part of a complete browser strategy. Using the right combination of browser features and extensions can help you get the most out of your browsing experience while keeping your computer running smoothly.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Downloads Not Starting Fix](/articles/chrome-downloads-not-starting-fix/)
+* [Chrome Navigate to Next Search Result Shortcut](/articles/chrome-navigate-to-next-search-result-shortcut/)
+* [Chrome Password Not Autofilling Fix](/articles/chrome-password-not-autofilling-fix/)
+

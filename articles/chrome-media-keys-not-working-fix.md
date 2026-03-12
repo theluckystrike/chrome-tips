@@ -66,3 +66,9 @@ Some users also find success by resetting Chrome to its default settings. Go to 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Invoice Creation](/articles/chrome-extensions-for-invoice-creation/)
+* [chrome for color picker extensions](/articles/chrome-for-color-picker-extensions/)
+* [Best Chrome Extensions for Accountants](/articles/best-chrome-extensions-for-accountants/)
+

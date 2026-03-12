@@ -63,5 +63,9 @@ However, if you prefer to stick with Chrome, managing your **system resources** 
 
 Using **Tab Suspender Pro** is an excellent way to balance this. It automatically "hibernates" inactive tabs, freeing up **RAM** so that your **tracking protection** and **ad-blockers** can run smoothly without lagging your active window. By keeping your browser lean, you ensure that your **privacy settings** are always performing at their best without sacrificing speed.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome for WhatsApp Web Tips and Tricks](/articles/chrome-for-whatsapp-web-tips-and-tricks/)
+* [Best Chrome Extensions for Reading Articles](/articles/best-chrome-extensions-for-reading-articles/)
+* [Chrome Extensions for Tree Style Tabs](/articles/chrome-extensions-for-tree-style-tabs/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -57,4 +57,9 @@ The most important thing is to understand what each browser does with your data 
 
 ---
 
+## Related Articles
+* [Chrome vs Firefox Memory Usage Comparison 2024](/articles/chrome-vs-firefox-memory-usage-comparison-2024/)
+* [Chrome Flags Best Performance Settings](/articles/chrome-flags-best-performance-settings/)
+* [Chrome for Zen Mode Extensions](/articles/chrome-for-zen-mode-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

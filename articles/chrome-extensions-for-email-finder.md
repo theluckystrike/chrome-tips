@@ -72,3 +72,9 @@ If you notice your browser slowing down, consider using a tab management extensi
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Google Drive](/articles/chrome-extensions-for-google-drive/)
+* [Chrome Utility Process Explained](/articles/chrome-utility-process-explained/)
+* [chrome for rumble web player settings](/articles/chrome-for-rumble-web-player-settings/)
+

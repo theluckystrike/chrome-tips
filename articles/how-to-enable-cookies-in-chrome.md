@@ -66,3 +66,9 @@ For those who want a smoother browsing experience with less manual management, b
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Geolocation Permission Settings](/articles/chrome-geolocation-permission-settings/)
+* [Chrome Open Settings Shortcut](/articles/chrome-open-settings-shortcut/)
+* [Chrome WebXR API Virtual Reality](/articles/chrome-webxr-api-virtual-reality/)
+

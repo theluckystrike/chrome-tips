@@ -74,4 +74,9 @@ The chrome minimum font size setting is a valuable but often overlooked feature 
 
 Give it a try—you might be surprised at how much more enjoyable browsing becomes when all the text is consistently readable. Once you've found your ideal setting, you'll wonder how you ever browsed without it.
 
+## Related Articles
+* [Chrome WebGPU vs WebGL Comparison: Which Graphics API Should You Use?](/articles/chrome-webgpu-vs-webgl-comparison/)
+* [Chrome for Substack Reading Tips](/articles/chrome-for-substack-reading-tips/)
+* [Chrome Spell Check Wrong Language Fix](/articles/chrome-spell-check-wrong-language-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

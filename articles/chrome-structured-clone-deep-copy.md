@@ -147,4 +147,9 @@ For developers looking to optimize their Chrome extension performance, understan
 
 ---
 
+## Related Articles
+* [Chrome for Language Learning Extensions](/articles/chrome-for-language-learning-extensions/)
+* [Chrome Sync Across Devices How It Works](/articles/chrome-sync-across-devices-how-it-works/)
+* [chrome coupons in address bar feature](/articles/chrome-coupons-in-address-bar-feature/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

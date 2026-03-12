@@ -60,3 +60,9 @@ If you find that you often have many tabs open and Chrome is getting slow, consi
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome portable version how to get](/articles/chrome-portable-version-how-to-get/)
+* [Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser](/articles/chrome-sanitizer-api-html-safe/)
+* [Chrome Extensions for Zoom Meetings](/articles/chrome-extensions-for-zoom-meetings/)
+

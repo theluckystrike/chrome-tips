@@ -85,3 +85,9 @@ Using Chrome effectively with Stable Diffusion Web UI is all about creating the 
 A few small adjustments to how you use Chrome can make a noticeable difference in your workflow. Give these tips a try and see which ones work best for your setup.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome for apartments.com search tips](/articles/chrome-for-apartmentscom-search-tips/)
+* [Chrome Extensions For Flight Price Alerts](/articles//articles/chrome-extensions-for-flight-price-alerts//)
+* [Chrome Taskbar Icon Missing Fix Windows](/articles/chrome-taskbar-icon-missing-fix-windows/)
+

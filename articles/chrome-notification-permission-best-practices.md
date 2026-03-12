@@ -81,3 +81,9 @@ A well-managed notification system keeps you informed without cluttering your sc
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Array Groupby New Method](/articles/chrome-array-groupby-new-method/)
+* [Chrome iPhone Widgets How to Set Up](/articles/chrome-iphone-widgets-how-to-set-up/)
+* [Chrome Credential Management API: Complete Guide for Developers](/articles/chrome-credential-management-api/)
+

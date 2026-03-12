@@ -250,4 +250,9 @@ The examples above are starting points you can adapt to your specific needs. As 
 
 ---
 
+## Related Articles
+* [Chrome Site Isolation What It Means](/articles/chrome-site-isolation-what-it-means/)
+* [How to Change Chrome Language Settings](/articles/how-to-change-chrome-language-settings/)
+* [Chrome Education Account What It Includes](/articles/chrome-education-account-what-it-includes/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

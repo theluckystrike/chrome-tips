@@ -166,4 +166,9 @@ The Vibration API offers a simple yet effective way to add haptic feedback to yo
 
 Start experimenting with the Vibration API today, and discover how tactile feedback can transform your mobile web applications.
 
+## Related Articles
+* [How to Reset Chrome to Default Settings](/articles/how-to-reset-chrome-to-default-settings/)
+* [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching/)
+* [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/articles/best-chrome-settings-for-chromebook/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

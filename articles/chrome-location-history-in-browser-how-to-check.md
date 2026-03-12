@@ -62,3 +62,9 @@ Keeping your browser organized goes hand in hand with protecting your privacy. W
 Extensions designed for tab management can help you maintain this organization without much effort. They can automatically suspend tabs you have not used recently, making your browser faster and helping you keep a clearer picture of what is running in your browser.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Aspect Ratio CSS Property](/articles/chrome-aspect-ratio-css-property/)
+* [Chrome WebGPU API Getting Started Guide](/articles/chrome-webgpu-api-getting-started/)
+* [Chrome Cookie Consent Popups How to Auto Reject](/articles/chrome-cookie-consent-popups-how-to-auto-reject/)
+

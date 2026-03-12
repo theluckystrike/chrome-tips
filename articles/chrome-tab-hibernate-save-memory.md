@@ -72,4 +72,9 @@ Chrome tab hibernate functionality provides an effective solution for managing b
 
 By understanding how these features work and incorporating them into your daily workflow, you can enjoy the best of both worlds: all your tabs available when you need them, with the performance you deserve when you are working on other tasks. Give tab hibernate a try and discover how much smoother your browsing can be.
 
+## Related Articles
+* [Chrome Layers Panel 3D View Explained](/articles/chrome-layers-panel-3d-view-explained/)
+* [Chrome Extensions for Mouse Gestures Navigation](/articles/chrome-extensions-for-mouse-gestures-navigation/)
+* [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

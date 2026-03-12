@@ -89,4 +89,9 @@ If you do not see the icon, try visiting a few different article websites. Not a
 
 Once you get comfortable with the basic reader mode, explore whether extensions or reading apps might give you the additional features you want. The goal is to make reading on your phone as comfortable and distraction-free as possible.
 
+## Related Articles
+* [Chrome Zoom Level How to Set Default](/articles/chrome-zoom-level-how-to-set-default/)
+* [Chrome Slower After macOS Update Fix](/articles/chrome-slower-after-macos-update-fix/)
+* [Chrome Live Captions How to Turn On](/articles/chrome-live-captions-how-to-turn-on/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

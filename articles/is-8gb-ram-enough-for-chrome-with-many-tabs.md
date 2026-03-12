@@ -83,4 +83,9 @@ So, is 8gb ram enough for chrome with many tabs? Yes, it can be, but only if you
 
 Start with enabling Memory Saver, install Tab Suspender Pro for automatic tab management, and clean up your extensions. These three steps alone can transform your browsing experience. Remember that fewer, well-managed tabs are always better than dozens of unmanaged ones. Your computer will thank you.
 
+## Related Articles
+* [Chrome Switch Between Windows Shortcut](/articles/chrome-switch-between-windows-shortcut/)
+* [Chrome History Search Tips and Tricks](/articles/chrome-history-search-tips-and-tricks/)
+* [Chrome Blurry Text Fix Windows](/articles/chrome-blurry-text-fix-windows/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

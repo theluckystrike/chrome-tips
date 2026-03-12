@@ -78,3 +78,9 @@ Over time, you will develop a sense of what works and what does not. Do not be a
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Memory Leak Detection Guide](/articles/chrome-memory-leak-detection/)
+* [Does Having Many Chrome Extensions Slow Down Browser](/articles/does-having-many-chrome-extensions-slow-down-browser/)
+* [Chrome Extensions for Notion](/articles/chrome-extensions-for-notion/)
+

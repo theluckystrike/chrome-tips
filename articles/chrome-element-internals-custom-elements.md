@@ -56,4 +56,9 @@ Whether you are building your own custom elements or simply using websites that 
 
 ---
 
+## Related Articles
+* [Chrome for Quick Commands Feature](/articles/chrome-for-quick-commands-feature/)
+* [Chrome Hardware Acceleration Should I Turn It Off](/articles/chrome-hardware-acceleration-should-i-turn-it-off/)
+* [Chrome Scroll-Driven Animations: Complete Guide for 2026](/articles/chrome-scroll-driven-animations/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

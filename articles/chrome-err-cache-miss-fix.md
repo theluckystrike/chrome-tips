@@ -85,4 +85,9 @@ Consider using extensions that help manage your tabs and browser performance. So
 
 ---
 
+## Related Articles
+* [Chrome Notification Sound How to Change](/articles/chrome-notification-sound-how-to-change/)
+* [How to Migrate Chrome Data to a New Computer](/articles/how-to-migrate-chrome-data-to-new-computer/)
+* [Chrome Media Autoplay How to Block](/articles/chrome-media-autoplay-how-to-block/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -177,4 +177,9 @@ Don't let a Chrome update derail your workflow. With these practical solutions, 
 
 ---
 
+## Related Articles
+* [Chrome Site Permissions How to Manage All](/articles/chrome-site-permissions-how-to-manage-all/)
+* [chrome for xbox cloud gaming optimization](/articles/chrome-for-xbox-cloud-gaming-optimization/)
+* [Chrome Parental Controls Without Extension](/articles/chrome-parental-controls-without-extension/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

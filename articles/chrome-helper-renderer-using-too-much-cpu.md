@@ -66,3 +66,9 @@ Remember that a little CPU usage from Chrome is normal and expected. The goal is
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Block Websites on Chrome](/articles/how-to-block-websites-on-chrome/)
+* [Chrome Best Settings for College Students](/articles/chrome-best-settings-for-college-students/)
+* [Best Chrome Extensions For Lawyers](/articles/best-chrome-extensions-for-lawyers/)
+

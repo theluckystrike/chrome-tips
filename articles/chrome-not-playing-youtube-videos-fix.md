@@ -103,3 +103,9 @@ To reset Chrome, go to Settings, then Advanced, then Reset and clean up, and sel
 Remember that most YouTube playback problems have simple solutions. Start with the easiest fixes like updating Chrome and clearing your cache, then work through the other steps if needed. In most cases, you will have your videos playing again without needing technical support.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix/)
+* [How to Make Chrome Open Links in a New Tab](/articles/how-to-make-chrome-open-links-in-new-tab/)
+* [How Many Chrome Tabs Can I Have Open](/articles/how-many-chrome-tabs-can-i-have-open/)
+

@@ -65,4 +65,9 @@ If you've been relying on console.log for debugging, give Logpoints a try. The l
 
 Open Chrome DevTools, find a file you're working on, and add your first Logpoint. You'll quickly discover why many developers consider Logpoints an essential part of their debugging toolkit. Once you experience the freedom of non-invasive logging, you'll wonder how you ever managed without it.
 
+## Related Articles
+* [Chrome Flags to Enable for Speed](/articles/chrome-flags-to-enable-for-speed/)
+* [chrome pi hole vs browser ad blocker comparison](/articles/chrome-pi-hole-vs-browser-ad-blocker-comparison/)
+* [Chrome WebGL Crashing Fix](/articles/chrome-webgl-crashing-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -76,3 +76,9 @@ Chrome extensions for translation real time have come a long way in recent years
 The best approach is to try a few different extensions and see which one fits your workflow. Everyone has different language needs and preferences, so what works perfectly for one person might not be the right choice for another. With the right extension installed, those foreign language barriers will become a thing of the past.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Grammar Check Free Alternative](/articles/chrome-extensions-for-grammar-check-free-alternative/)
+* [Chrome Task Manager vs Windows Task Manager: What's the Difference?](/articles/chrome-task-manager-vs-windows-task-manager/)
+* [Chrome for Time Management Extensions](/articles/chrome-for-time-management-extensions/)
+

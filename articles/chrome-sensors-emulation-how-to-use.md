@@ -76,5 +76,9 @@ If you find yourself needing to manage many open tabs while testing **location-b
 
 Using **Tab Suspender Pro** is an excellent way to keep your environment snappy. It automatically "hibernates" background tabs, freeing up **RAM** so that your **emulation** and **debugging** tools remain perfectly responsive. This ensures that when you're switching between **NYC** and **Tokyo** coordinates, the browser doesn't hang or crash. A lean browser is essential for accurate technical testing.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome Extensions for Musicians and Producers](/articles/chrome-extensions-for-musicians-and-producers/)
+* [How to Use Chrome for Multiple Work Accounts](/articles/how-to-use-chrome-for-multiple-work-accounts/)
+* [chrome source maps debug minified code](/articles/chrome-source-maps-debug-minified-code/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

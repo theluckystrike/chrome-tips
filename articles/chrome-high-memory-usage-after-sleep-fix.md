@@ -70,3 +70,9 @@ If you continue to experience severe memory issues despite trying these solution
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Crashing on Samsung Galaxy Phone](/articles/chrome-crashing-on-samsung-galaxy-phone/)
+* [Chrome for Fitness Tracking Web Apps](/articles/chrome-for-fitness-tracking-web-apps/)
+* [How to Limit Chrome RAM Usage on Windows](/articles/how-to-limit-chrome-ram-usage-windows/)
+

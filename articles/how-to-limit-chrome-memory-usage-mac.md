@@ -82,3 +82,9 @@ Learning how to limit Chrome memory usage Mac does not have to be complicated. B
 Start with the built-in Memory Saver feature, which requires no additional installation, and see how much of a difference it makes. From there, you can explore other tips and tools to find the combination that works best for your needs.
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Slow on Surface Pro Fix](/articles/chrome-slow-on-surface-pro-fix/)
+* [Chrome Saved Addresses How to Edit](/articles/chrome-saved-addresses-how-to-edit/)
+* [Chrome Nesting CSS Native Support](/articles/chrome-nesting-css-native-support/)
+

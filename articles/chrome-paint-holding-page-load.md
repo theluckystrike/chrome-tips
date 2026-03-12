@@ -79,4 +79,9 @@ These extensions work by suspending tabs that you have not used recently, freein
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Status Invalid Image Hash Fix](/articles/chrome-status-invalid-image-hash-fix/)
+* [Chrome Font Palette Customization: Complete Guide for 2026](/articles/chrome-font-palette-customization/)
+* [Chrome Managed Bookmarks for Employees](/articles/chrome-managed-bookmarks-for-employees/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

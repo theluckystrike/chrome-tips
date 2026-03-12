@@ -143,4 +143,9 @@ ERR_CONNECTION_REFUSED on localhost is usually a simple fix. In most cases, it's
 
 Remember: always double-check that your development server is running and note the correct port from the terminal output. Most of the time, that's all it takes to get past this error.
 
+## Related Articles
+* [Chrome Screen Flickering Fix](/articles/chrome-screen-flickering-fix/)
+* [How to Safely Work with Chromebook School Restrictions](/articles/chromebook-school-restrictions-bypass-safely/)
+* [How to Reduce Chrome Startup Time](/articles/how-to-reduce-chrome-startup-time/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

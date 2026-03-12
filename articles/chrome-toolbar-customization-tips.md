@@ -63,4 +63,9 @@ Start with small changes, like moving your most-used extension to a more accessi
 
 ---
 
+## Related Articles
+* [chrome sync what it saves](/articles/chrome-sync-what-it-saves/)
+* [Chrome CORS Error Explained in Simple Terms](/articles/chrome-cors-error-explained-simple-terms/)
+* [Chrome Incognito Mode: Actually Private or Just a False Sense of Security?](/articles/chrome-incognito-mode-actually-private-or-not/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

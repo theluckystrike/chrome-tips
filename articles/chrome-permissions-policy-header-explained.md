@@ -141,4 +141,9 @@ If you are concerned about browser resource usage and want to optimize your Chro
 
 The Permissions-Policy header is a valuable tool for web developers and site owners who want to take control of their site's capabilities. By explicitly defining which features your website can use, you enhance security, protect user privacy, and demonstrate best practices in web development. Take some time to review the features your site actually needs, and disable everything else. Your users will thank you for it.
 
+## Related Articles
+* [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web/)
+* [How to Use Chrome for Multiple Work Accounts](/articles/how-to-use-chrome-for-multiple-work-accounts/)
+* [How to Disable Chrome Auto Update on Windows](/articles/chrome-auto-update-disable-windows-guide/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

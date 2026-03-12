@@ -118,4 +118,9 @@ Alternatively, you can uninstall and reinstall Chrome completely. Go to Settings
 
 Chrome running slow on Windows 11 after an update is frustrating, but it is usually fixable. Start with the simple solutions like restarting your computer and checking your power settings. If those do not work, try updating your graphics drivers, clearing the cache, and disabling hardware acceleration. For computers with limited RAM, using tools like **Tab Suspender Pro** can make a significant difference in performance.
 
+## Related Articles
+* [Chrome for Google Docs Offline Setup](/articles/chrome-for-google-docs-offline-setup/)
+* [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained/)
+* [Chrome Cross Origin Error: What It Means and How to Fix It](/articles/chrome-cross-origin-error-what-it-means/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

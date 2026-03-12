@@ -72,3 +72,9 @@ The best approach is to start with one or two extensions and add more as you nee
 Remember that extensions are helpers, not replacements for good study habits. Stay organized, start assignments early, and communicate with your teachers when you need help. The right chrome extensions for google classroom simply make it easier to do these things well.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome PWA Install Prompt Not Showing Fix](/articles/chrome-pwa-install-prompt-not-showing-fix/)
+* [Chrome Privacy Error Your Connection Is Not Private Fix](/articles/chrome-privacy-error-your-connection-is-not-private-fix/)
+* [Chrome Core Web Vitals Check My Website](/articles/chrome-core-web-vitals-check-my-website/)
+

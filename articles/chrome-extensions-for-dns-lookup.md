@@ -48,3 +48,9 @@ One option that many users find helpful is Tab Suspender Pro. While primarily de
 Tab Suspender Pro is part of the Zovo extension suite, which focuses on keeping your browser running smoothly while adding useful features. Many users appreciate having a single extension that handles multiple tasks rather than installing several different ones.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app/)
+* [Chrome Freezes When Opening New Tab Fix](/articles/chrome-freezes-when-opening-new-tab-fix/)
+* [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord//)
+

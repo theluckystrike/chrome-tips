@@ -80,3 +80,9 @@ Remember that small things add up. That extension you forgot was running in the 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Extensions For Blocking Distracting Websites](/articles//articles/chrome-extensions-for-blocking-distracting-websites//)
+* [Chrome Regex Lookbehind Support: What You Need to Know](/articles/chrome-regex-lookbehind-support/)
+* [Chrome Android Dark Mode How to Enable](/articles/chrome-android-dark-mode-how-to-enable/)
+

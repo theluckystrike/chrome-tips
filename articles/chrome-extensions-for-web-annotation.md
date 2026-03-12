@@ -82,3 +82,9 @@ Think about how you will use the extension most often. Do you need collaboration
 Once you find a tool that clicks, you will wonder how you ever managed to do research without it. Being able to mark up web pages and keep track of your thoughts makes online reading far more productive and enjoyable.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
+* [How to Stop Chrome from Eating Your RAM](/articles/how-to-stop-chrome-from-eating-ram/)
+* [Chrome Extensions for Trello](/articles/chrome-extensions-for-trello/)
+

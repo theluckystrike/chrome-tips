@@ -95,4 +95,9 @@ Whether you're building offline-capable PWAs, managing complex client-side state
 
 ---
 
+## Related Articles
+* [Chrome for Text to Speech on Any Page](/articles/chrome-for-text-to-speech-on-any-page/)
+* [Chrome for Snapchat Web Tips](/articles/chrome-for-snapchat-web-tips/)
+* [Chrome Extension Alternative to Grammarly Free](/articles/chrome-extension-alternative-to-grammarly-free/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -104,3 +104,9 @@ Keeping Chrome updated and managing your open tabs can prevent most issues from 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Hardware Acceleration Should I Turn It Off](/articles/chrome-hardware-acceleration-should-i-turn-it-off/)
+* [Chrome for Academic Paper Reading Extensions](/articles/chrome-for-academic-paper-reading-extensions/)
+* [How to Clear Chrome Cache Properly](/articles/how-to-clear-chrome-cache-properly/)
+

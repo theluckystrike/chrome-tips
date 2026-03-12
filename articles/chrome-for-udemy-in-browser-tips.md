@@ -70,3 +70,9 @@ Chrome also allows you to control autoplay behavior. If you find videos automati
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome: The Most Used Browser in the World — Why?](/articles/chrome-most-used-browser-in-the-world-why/)
+* [chrome videos buffering slow fix](/articles/chrome-videos-buffering-slow-fix/)
+* [Chrome Extension for Writing Better Emails](/articles/chrome-extension-for-writing-better-emails/)
+

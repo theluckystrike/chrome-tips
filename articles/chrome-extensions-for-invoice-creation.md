@@ -56,3 +56,9 @@ The best system is one you actually use. Set a weekly reminder to create invoice
 Chrome extensions for invoice creation make this process painless enough that you will actually do it. The few seconds it takes to send an invoice right after finishing a project can mean the difference between getting paid in a week versus a month.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Push Notifications vs Email Comparison](/articles/chrome-push-notifications-vs-email-comparison/)
+* [Chrome Extensions For Code Snippet Manager](/articles//articles/chrome-extensions-for-code-snippet-manager//)
+* [Chrome Connection Not Private Bypass Safely](/articles/chrome-connection-not-private-bypass-safely/)
+

@@ -61,3 +61,9 @@ As you become more comfortable with gesture navigation, you will likely find you
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome text scaling for low vision users](/articles/chrome-text-scaling-for-low-vision-users/)
+* [Chrome Scroll Not Smooth Fix](/articles/chrome-scroll-not-smooth-fix/)
+* [Chrome WebAssembly Debugging Guide](/articles/chrome-wasm-debugging-guide/)
+

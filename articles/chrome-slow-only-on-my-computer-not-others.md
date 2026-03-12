@@ -155,4 +155,9 @@ Consider:
 
 Chrome slow only on your computer not others is frustrating, but it's almost always fixable. Start with Memory Saver and reducing your open tabs, and you'll likely see immediate improvements. The tips above work whether you have 4GB, 8GB, or even 16GB of RAM — it's about using what you have wisely.
 
+## Related Articles
+* [Chrome Status Code 403 Forbidden Explained](/articles/chrome-status-code-403-forbidden-explained/)
+* [Chrome High Memory Usage Windows 11](/articles/chrome-high-memory-usage-windows-11/)
+* [Best Chrome Extensions for Recruiters](/articles/best-chrome-extensions-for-recruiters/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

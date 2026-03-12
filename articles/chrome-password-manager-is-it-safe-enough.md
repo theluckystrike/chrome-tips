@@ -62,4 +62,9 @@ However, if you want stronger protection, more features, or peace of mind, explo
 
 The most important thing is to be aware of the trade-offs and take basic precautions. By understanding how Chrome's password manager works and what its limitations are, you can make informed decisions that keep your accounts reasonably secure while still enjoying the convenience of automated password filling.
 
+## Related Articles
+* [How to Simulate Slow Connection in Chrome for Testing](/articles/chrome-simulate-slow-connection-for-testing/)
+* [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/articles/chrome-slows-down-after-opening-20-tabs/)
+* [Chrome Android Gestures You Didnt Know About](/articles/chrome-android-gestures-you-didnt-know-about/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -97,4 +97,9 @@ Finally, combine coverage analysis with other performance tools in Chrome DevToo
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [chrome taking too long to open fix](/articles/chrome-taking-too-long-to-open-fix/)
+* [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained/)
+* [Chromebook External Monitor How to Connect](/articles/chromebook-external-monitor-how-to-connect/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

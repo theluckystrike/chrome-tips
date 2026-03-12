@@ -89,4 +89,9 @@ You can also type **chrome://downloads** in the address bar or click the **Downl
 
 Once you start using the keyboard shortcut, you will wonder how you ever managed without it. It is one of those small time-savers that makes using Chrome much more convenient.
 
+## Related Articles
+* [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api/)
+* [Chrome Taking 5 Minutes to Load: Fixes for Slow Computers](/articles/chrome-taking-5-minutes-to-load/)
+* [chrome voice search how to use](/articles/chrome-voice-search-how-to-use/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

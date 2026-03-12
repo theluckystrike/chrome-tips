@@ -138,4 +138,9 @@ For additional Chrome optimization, consider pairing your font customization wit
 
 ---
 
+## Related Articles
+* [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable/)
+* [Chrome Hardware Acceleration Should I Turn On or Off](/articles/chrome-hardware-acceleration-should-i-turn-on-or-off/)
+* [Chrome Notifications for One Site How to Manage](/articles/chrome-notifications-for-one-site-how-to-manage/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

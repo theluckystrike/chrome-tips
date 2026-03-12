@@ -69,4 +69,9 @@ Finally, if you use multiple Google accounts, consider creating a separate profi
 
 ---
 
+## Related Articles
+* [Chrome Find on Page Shortcut Tips](/articles/chrome-find-on-page-shortcut-tips/)
+* [Chrome View Transitions API: Smooth Browsing Experience Guide](/articles/chrome-view-transitions-api-smooth/)
+* [How to Use Chrome for Multiple Work Accounts](/articles/how-to-use-chrome-for-multiple-work-accounts/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

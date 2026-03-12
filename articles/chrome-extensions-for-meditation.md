@@ -58,3 +58,9 @@ Practice single-tasking whenever possible. Instead of keeping dozens of tabs ope
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Switch Between Windows Shortcut](/articles/chrome-switch-between-windows-shortcut/)
+* [Chrome for Deepl Translator Extension](/articles/chrome-for-deepl-translator-extension/)
+* [Chrome What Technology Is Website Using](/articles/chrome-what-technology-is-website-using/)
+

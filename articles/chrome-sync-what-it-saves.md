@@ -101,4 +101,9 @@ Now that you know what chrome sync saves, you can optimize your experience. Take
 
 Remember that Chrome Sync is designed to make your life easier by ensuring your browsing data is always available. Understanding exactly what chrome sync saves helps you use this feature confidently and securely.
 
+## Related Articles
+* [Chrome Password Manager on Phone vs Dedicated App](/articles/chrome-password-manager-on-phone-vs-dedicated-app/)
+* [Chrome Extensions for Video Conferencing Enhancement](/articles/chrome-extensions-for-video-conferencing-enhancement/)
+* [Chrome Extensions for Keyword Research Free](/articles/chrome-extensions-for-keyword-research-free/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -86,3 +86,9 @@ The key is to remember that any changes you make in DevTools are temporary. This
 DevTools opens up a world of understanding about how the web works. Even basic familiarity with these tools can help you troubleshoot problems, satisfy your curiosity, and become a more informed browser user.
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome for google flights tips and tricks](/articles/chrome-for-google-flights-tips-and-tricks/)
+* [Chrome Extensions for Grammarly Alternative Free](/articles/chrome-extensions-for-grammarly-alternative-free/)
+* [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings/)
+

@@ -59,4 +59,9 @@ You do not need to install multiple extensions unless you want to. Often, one we
 
 The internet contains countless valuable articles and resources, but the clutter that surrounds them has made reading online a chore for many people. With the right extension in place, you can reclaim your reading time and actually enjoy the content you find online without fighting for your attention.
 
+## Related Articles
+* [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix/)
+* [Chrome Best Settings for Streaming Video](/articles/chrome-best-settings-for-streaming-video/)
+* [chrome playwright vs puppeteer comparison](/articles/chrome-playwright-vs-puppeteer-comparison/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

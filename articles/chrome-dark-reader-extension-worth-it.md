@@ -127,4 +127,9 @@ Give it a two-week trial period. If you find certain sites problematic, use the 
 
 ---
 
+## Related Articles
+* [Chrome Netflix Not Working Fix](/articles/chrome-netflix-not-working-fix/)
+* [Chrome Attribution Reporting API Explained](/articles/chrome-attribution-reporting-api-explained/)
+* [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

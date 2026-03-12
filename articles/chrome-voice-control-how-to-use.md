@@ -57,4 +57,9 @@ If you find that voice control makes you more productive but you are also concer
 
 ---
 
+## Related Articles
+* [Chrome PWA Install Prompt Not Showing Fix](/articles/chrome-pwa-install-prompt-not-showing-fix/)
+* [How Many Chrome Tabs Can I Have Open](/articles/how-many-chrome-tabs-can-i-have-open/)
+* [chrome colorblind mode extensions](/articles/chrome-colorblind-mode-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

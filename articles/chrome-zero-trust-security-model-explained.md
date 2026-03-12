@@ -68,3 +68,9 @@ Chrome's zero trust security model explained simply is about never taking anythi
 By staying informed about how these protections work and doing your part to maintain good security habits, you can browse with confidence knowing that Chrome is working hard to keep you safe.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chromebook External Monitor How to Connect](/articles/chromebook-external-monitor-how-to-connect/)
+* [chrome privacy sandbox explained for users](/articles/chrome-privacy-sandbox-explained-for-users/)
+* [Chrome Bookmarks Bar Show Hide Shortcut](/articles/chrome-bookmarks-bar-show-hide-shortcut/)
+

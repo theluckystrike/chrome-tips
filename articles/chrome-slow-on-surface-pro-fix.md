@@ -68,3 +68,9 @@ Dealing with chrome slow on surface pro issues does not have to be frustrating. 
 Remember that small changes can add up to big improvements. Try one or two of these solutions at a time to see what works best for your specific situation, and enjoy a faster, more responsive browsing experience on your Surface Pro.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Ai Theme Generator How To Use](/articles/chrome-ai-theme-generator-how-to-use/)
+* [Chrome Guest Mode vs Incognito Mode: What's the Difference?](/articles/chrome-guest-mode-vs-incognito-difference/)
+* [Chrome for Reducing Eye Strain Extensions](/articles/chrome-for-reducing-eye-strain-extensions/)
+

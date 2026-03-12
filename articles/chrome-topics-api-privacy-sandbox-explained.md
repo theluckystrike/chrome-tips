@@ -65,4 +65,9 @@ The Chrome Topics API and Privacy Sandbox represent ongoing changes to how your 
 
 By understanding what the Chrome Topics API is and how it works, you are already ahead of most users. Take a few minutes to review your settings, decide what level of tracking you are comfortable with, and make the changes that work best for you. Your browsing privacy is worth the effort.
 
+## Related Articles
+* [Chrome Prerender Pages Faster Browsing: Complete Guide](/articles/chrome-prerender-pages-faster-browsing/)
+* [Chrome Extensions for Reading List Manager](/articles/chrome-extensions-for-reading-list-manager/)
+* [Chrome for PeerTube Web Setup](/articles/chrome-for-peertube-web-setup/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

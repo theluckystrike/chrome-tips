@@ -72,3 +72,9 @@ You might find that the simple addition of quick access to bookmarks and your re
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Removing YouTube Recommendations](/articles/chrome-for-removing-youtube-recommendations/)
+* [Chrome Flexbox Debugging Guide](/articles/chrome-flexbox-debugging/)
+* [Chrome Flexbox Layout Complete Guide](/articles/chrome-flexbox-layout-complete-guide/)
+

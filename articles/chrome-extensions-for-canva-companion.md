@@ -67,4 +67,9 @@ Remember that not every extension will be useful for every workflow. Start with 
 
 ---
 
+## Related Articles
+* [Chrome Offscreen Canvas Performance: A Complete Guide](/articles/chrome-offscreen-canvas-performance/)
+* [Chrome for BitChute Web Player](/articles/chrome-for-bitchute-web-player/)
+* [Chrome Extensions for Amazon FBA Sellers](/articles/chrome-extensions-for-amazon-fba-sellers/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

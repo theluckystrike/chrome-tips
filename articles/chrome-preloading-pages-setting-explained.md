@@ -83,4 +83,9 @@ By taking the time to understand and adjust the chrome preloading pages setting,
 
 ---
 
+## Related Articles
+* [chrome price drop alerts how to enable](/articles/chrome-price-drop-alerts-how-to-enable/)
+* [Chrome Supervised Profiles for Kids](/articles/chrome-supervised-user-profile-for-kids/)
+* [Chrome OS vs Windows for Basic Use](/articles/chrome-os-vs-windows-for-basic-use/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -63,3 +63,9 @@ Small changes, such as reducing extensions, managing tabs more carefully, and ke
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Local Font Access API Explained](/articles/chrome-local-font-access-api-explained/)
+* [How to Force Dark Mode on All Websites in Chrome](/articles//chrome-dark-mode-force-all-websites//)
+* [Chrome for Managing Site Notifications](/articles/chrome-for-managing-site-notifications/)
+

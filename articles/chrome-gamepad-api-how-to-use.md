@@ -68,3 +68,9 @@ Using the Gamepad API in Chrome is a great way to enjoy web games with a control
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply/)
+* [Chrome for Photo Editing in Browser](/articles/chrome-for-photo-editing-in-browser/)
+* [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings/)
+

@@ -86,3 +86,9 @@ These small changes can make a big difference in how responsive your Chromebook 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Remove Chrome Malware](/articles/how-to-remove-chrome-malware/)
+* [Chrome Web NFC API Guide](/articles/chrome-web-nfc-api-guide/)
+* [Best Way to Organize Chrome Tabs](/articles/best-way-to-organize-chrome-tabs/)
+

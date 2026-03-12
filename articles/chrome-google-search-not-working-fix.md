@@ -90,3 +90,9 @@ Most of the time, one of the solutions above will get your search working again.
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Autofill Credit Card Safety](/articles/chrome-for-autofill-credit-card-safety/)
+* [chrome global privacy control what it does](/articles/chrome-global-privacy-control-what-it-does/)
+* [Chrome Speed Comparison Test How to Run](/articles/chrome-speed-comparison-test-how-to-run/)
+

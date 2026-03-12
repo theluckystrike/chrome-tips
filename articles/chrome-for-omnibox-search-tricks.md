@@ -84,3 +84,9 @@ Tab Suspender Pro automatically pauses tabs you are not using, which saves memor
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Coupon Finder Built In Feature](/articles/chrome-coupon-finder-built-in-feature/)
+* [chrome file handling api explained](/articles/chrome-file-handling-api-explained/)
+* [Chrome Extension for Taking Notes While Browsing](/articles/chrome-extension-for-taking-notes-while-browsing/)
+

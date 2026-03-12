@@ -62,3 +62,9 @@ Finding the right chrome for pinterest web clipper really comes down to how you 
 The key is to start simple and add complexity only as you need it. Most people find that one or two well-chosen extensions handle everything they need for collecting and organizing Pinterest content.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Best Lightweight Browsers for Chromebook](/articles/best-lightweight-browsers-for-chromebook/)
+* [chrome reduce data usage tips](/articles/chrome-reduce-data-usage-tips/)
+* [Chrome DevTools Changes Panel to Track Edits](/articles//chrome-devtools-changes-panel-track-edits//)
+

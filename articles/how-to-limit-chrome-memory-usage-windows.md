@@ -72,3 +72,9 @@ The key is to start with the simple settings first, then build better habits aro
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome extensions for image reverse search](/articles/chrome-extensions-for-image-reverse-search/)
+* [Chrome Follow Website Feature What It Does](/articles/chrome-follow-website-feature-what-it-does/)
+* [chrome mobile translate page automatically](/articles/chrome-mobile-translate-page-automatically/)
+

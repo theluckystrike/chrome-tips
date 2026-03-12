@@ -86,3 +86,9 @@ Monitor memory usage using Chrome Task Manager. Press Shift+Escape to open it an
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome for distraction blocking extensions](/articles/chrome-for-distraction-blocking-extensions/)
+* [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer/)
+* [chrome for video downloading legal methods](/articles/chrome-for-video-downloading-legal-methods/)
+

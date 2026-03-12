@@ -54,3 +54,9 @@ For those who want even more control over their browser experience, there are ex
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome for telegram web best settings](/articles/chrome-for-telegram-web-best-settings/)
+* [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable/)
+* [Chrome Vibration API: A Complete Guide for Mobile Web Developers](/articles/chrome-vibration-api-mobile-web/)
+

@@ -67,4 +67,9 @@ If you frequently find yourself overwhelmed by too many open tabs, it is worth t
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Large Font Easy to Read Setup](/articles/chrome-large-font-easy-to-read-setup/)
+* [Chrome Extensions For Color Palette Picker](/articles//articles/chrome-extensions-for-color-palette-picker//)
+* [chrome kiosk mode how to set up](/articles/chrome-kiosk-mode-how-to-set-up/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

@@ -86,3 +86,9 @@ Remember that extensions are just one part of your overall toolkit. They work be
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Screencastify Extension Guide](/articles/chrome-for-screencastify-extension-guide/)
+* [chrome browser fingerprint how to check yours](/articles/chrome-browser-fingerprint-how-to-check-yours/)
+* [Chrome for Jira Best Extensions](/articles/chrome-for-jira-best-extensions/)
+

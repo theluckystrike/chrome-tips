@@ -124,4 +124,9 @@ The reason YouTube buffers on Chrome but not Firefox usually comes down to memor
 
 Start with enabling Chrome's Memory Saver, then reduce your extensions, and try disabling hardware acceleration if needed. For the best results on computers with limited RAM, Tab Suspender Pro can automatically manage your tabs and free up memory for smooth YouTube playback. If all else fails, Firefox offers better performance for video playback on resource-constrained systems.
 
+## Related Articles
+* [Chrome Slow on Windows 11 After Update: Practical Fixes](/articles/chrome-slow-on-windows-11-after-update/)
+* [Chrome Screen Flickering Fix](/articles/chrome-screen-flickering-fix/)
+* [Chrome Devtools Snippets How to Use](/articles/chrome-devtools-snippets-how-to-use/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

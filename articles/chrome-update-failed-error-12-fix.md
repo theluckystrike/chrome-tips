@@ -79,4 +79,9 @@ The key is to manage your tabs well and keep your browser updated properly. By f
 
 ---
 
+## Related Articles
+* [Chrome for Language Translation Extensions Comparison](/articles/chrome-for-language-translation-extensions-comparison/)
+* [Chrome Extensions for Habit Tracker](/articles/chrome-extensions-for-habit-tracker/)
+* [How to Enable Chrome Tab Hover Previews](/articles/how-to-enable-chrome-tab-hover-previews/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -57,4 +57,9 @@ The goal is not to rush through everything as fast as possible. The goal is to b
 
 ---
 
+## Related Articles
+* [Chrome High CPU Usage Nothing Open](/articles/chrome-high-cpu-usage-nothing-open/)
+* [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained/)
+* [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

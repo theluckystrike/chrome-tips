@@ -72,3 +72,9 @@ Consider using a quality antivirus program. Some malware can interfere with brow
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Cache Folder Size and Location: Complete Guide](/articles/chrome-cache-folder-size-and-location/)
+* [Chrome Clean Install: What to Backup First](/articles/chrome-clean-install-what-to-backup-first/)
+* [Chrome Uses All CPU When Idle Fix](/articles/chrome-uses-all-cpu-when-idle-fix/)
+

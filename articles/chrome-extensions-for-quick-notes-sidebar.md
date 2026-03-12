@@ -74,3 +74,9 @@ It also helps to organize your notes regularly. Set aside a few minutes at the e
 Finally, consider how your notes fit into your broader productivity system. If you use a task manager or note-taking app, look for ways to transfer important information from your browser sidebar to those tools. This ensures that your ideas and research do not get lost in the flow of daily browsing.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome privacy sandbox what regular users should know](/articles/chrome-privacy-sandbox-what-regular-users-should-know/)
+* [Chrome GPU Process High Memory Fix](/articles/chrome-gpu-process-high-memory-fix/)
+* [Chrome Extensions Causing Lag: Which One Is Slowing You Down?](/articles/chrome-extensions-causing-lag-which-one/)
+

@@ -58,3 +58,9 @@ Check your extensions periodically to make sure you only have ones you actually 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings/)
+* [Chrome for Zen Mode Extensions](/articles/chrome-for-zen-mode-extensions/)
+* [Chrome Extensions For Canvas Fingerprint Blocker](/articles//articles/chrome-extensions-for-canvas-fingerprint-blocker//)
+

@@ -73,3 +73,9 @@ Start with one or two of these tips and practice them until they become automati
 The goal is not to memorize every shortcut, but to find the ones that match how you use Chrome. Once they become muscle memory, you will wonder how you ever browsed without them.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Set Up Chrome Profiles for Work and Personal](/articles/how-to-set-up-chrome-profiles-for-work-and-personal/)
+* [chrome how to block specific website notifications](/articles/chrome-how-to-block-specific-website-notifications/)
+* [chrome for apple notes in browser workaround](/articles/chrome-for-apple-notes-in-browser-workaround/)
+

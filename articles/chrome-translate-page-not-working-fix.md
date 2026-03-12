@@ -121,4 +121,9 @@ Most "chrome translate page not working" issues come down to a few common causes
 
 Start by checking your translation settings, then refresh the page and clear the cache. If that doesn't work, check for extension conflicts and make sure Chrome is up to date. With these steps, you'll get Chrome's translation feature working again and be able to understand foreign language pages without hassle.
 
+## Related Articles
+* [How to Fix Chrome Not Loading Images on Webpages](/articles/chrome-webpage-not-loading-images-fix/)
+* [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/articles/chrome-coverage-tool-find-unused-css/)
+* [Chrome Settings You Should Change Right Now](/articles/chrome-settings-you-should-change-right-now/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

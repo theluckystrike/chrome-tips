@@ -68,3 +68,9 @@ Bookmarks are another useful tool. Instead of keeping a tab open indefinitely, b
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome for DoorDash Web Ordering Tips](/articles/chrome-for-doordash-web-ordering-tips/)
+* [How to Stop Chrome from Running in Background](/articles/how-to-stop-chrome-from-running-in-background/)
+* [Chrome Microphone Not Working Fix](/articles/chrome-microphone-not-working-fix/)
+

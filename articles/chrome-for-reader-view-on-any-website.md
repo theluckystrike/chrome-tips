@@ -68,3 +68,9 @@ Take a moment to explore the options in the Chrome Web Store, install a reader v
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Tab Discard What It Means](/articles/chrome-tab-discard-what-it-means/)
+* [Chrome Interaction to Next Paint Explained: What It Means for You](/articles/chrome-interaction-to-next-paint-explained/)
+* [Chrome Extensions For Fitness Tracking](/articles//articles/chrome-extensions-for-fitness-tracking//)
+

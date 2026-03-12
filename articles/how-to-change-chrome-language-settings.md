@@ -62,3 +62,9 @@ On an iPhone or iPad, open Chrome and tap the three dots, then tap Settings. Loo
 Changing Chrome language settings is a matter of knowing where to look and making a few simple choices. Whether you want the browser interface in your native language or need to set preferences for multilingual web content, the Settings menu gives you control. Take a moment to explore these options and customize Chrome to work best for your needs.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Custom Fonts How to Change](/articles//chrome-custom-fonts-how-to-change//)
+* [Chrome for Saving Articles to Read Later](/articles/chrome-for-saving-articles-to-read-later/)
+* [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead/)
+

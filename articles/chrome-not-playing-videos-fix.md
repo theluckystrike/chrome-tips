@@ -110,3 +110,9 @@ To reset Chrome, go to Settings, then Advanced, then Reset and clean up, and sel
 Remember that most video playback problems have simple solutions. Start with the easiest fixes like updating Chrome and clearing your cache, then work through the other steps if needed. In most cases, you will have your videos playing again without needing technical support.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Status Code 404 Not Found Explained](/articles/chrome-status-code-404-not-found-explained/)
+* [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup/)
+* [Chrome Uses All CPU When Idle Fix](/articles/chrome-uses-all-cpu-when-idle-fix/)
+

@@ -121,4 +121,9 @@ For children ages 9 to 12, the mature sites filter is usually a good fit. They n
 
 For teenagers, the conversation becomes more important than the technical controls. Have open discussions about online safety, the reasons behind your rules, and trust them to make good decisions while maintaining oversight.
 
+## Related Articles
+* [How to Move Chrome Tabs Between Windows Easily](/articles/how-to-move-chrome-tabs-between-windows-easily/)
+* [Chrome ERR_INTERNET_DISCONNECTED But Internet Works Fix](/articles/chrome-err-internet-disconnected-but-internet-works-fix/)
+* [Chromium Browser Is It Safe to Use](/articles/chromium-browser-is-it-safe-to-use/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

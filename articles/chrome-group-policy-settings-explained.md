@@ -62,3 +62,9 @@ Knowing how to view these policies and understand what they do puts you in a bet
 If you have any questions about specific policies you are seeing, your best resource is the IT department or system administrator for your organization. They can explain why certain settings are in place and whether any adjustments are possible for your specific role or needs.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Web Apps vs Native Apps Comparison](/articles/chrome-web-apps-vs-native-apps-comparison/)
+* [Chrome Service Worker What It Does Explained](/articles/chrome-service-worker-what-it-does-explained/)
+* [chrome extensions for teachers 2026](/articles/chrome-extensions-for-teachers-2026/)
+

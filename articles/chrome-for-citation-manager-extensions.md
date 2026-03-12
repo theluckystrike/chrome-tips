@@ -68,3 +68,9 @@ Remember that citation management is about more than just creating bibliographie
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Screen Sharing in Browser How To](/articles/chrome-screen-sharing-in-browser-how-to/)
+* [Chrome 2026 New Features Overview](/articles/chrome-2026-new-features-overview/)
+* [chrome site isolation what it does](/articles/chrome-site-isolation-what-it-does/)
+

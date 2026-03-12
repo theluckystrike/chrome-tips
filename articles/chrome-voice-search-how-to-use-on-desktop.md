@@ -73,4 +73,9 @@ If you ever need help with Chrome or want to learn more about other useful featu
 
 ---
 
+## Related Articles
+* [Chrome Download Manager Best Extension](/articles/chrome-download-manager-best-extension/)
+* [Chrome Extensions for Split Tabs](/articles/chrome-extensions-for-split-tabs/)
+* [chrome google photos integration save images](/articles/chrome-google-photos-integration-save-images/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

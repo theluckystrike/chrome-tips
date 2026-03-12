@@ -85,4 +85,9 @@ Mastering **chrome extension permissions best practices** doesn't require techni
 
 The key is to be mindful rather than paranoid. Most extensions are created by legitimate developers who want to provide useful tools. By following these practices, you can distinguish between trustworthy extensions and those that warrant suspicion, ultimately creating a safer browsing experience.
 
+## Related Articles
+* [Chrome Keeps Asking to Be Default Browser Stop](/articles/chrome-keeps-asking-to-be-default-browser-stop/)
+* [Chrome Extension for Video Speed Controller](/articles/chrome-extension-for-video-speed-controller/)
+* [Chrome for Travel Itinerary Extensions](/articles/chrome-for-travel-itinerary-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

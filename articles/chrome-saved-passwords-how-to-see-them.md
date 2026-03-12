@@ -60,5 +60,9 @@ Managing a large database of **saved passwords** can sometimes cause the **Chrom
 
 This extension automatically "hibernates" inactive tabs, freeing up **RAM** so that sensitive tasks—like running a **Password Checkup** or revealing a **plain-text password**—happen instantly without lag. By keeping your system resources focused on your active task, you ensure that your **security settings** are always easy to navigate.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome Block Specific Websites Guide](/articles/chrome-block-specific-websites-guide/)
+* [Chrome for StackOverflow Best Extensions](/articles/chrome-for-stackoverflow-best-extensions/)
+* [Chrome Topics API Guide](/articles/chrome-topics-api-guide/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

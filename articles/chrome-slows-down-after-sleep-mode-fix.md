@@ -71,3 +71,9 @@ You could also try creating a new user profile in Chrome. Sometimes a corrupted 
 As a last resort, you might want to check if there are any background processes or malware on your computer that could be affecting performance. Sometimes other programs running in the background can compete with Chrome for resources, especially after your computer wakes from sleep.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Loom Screen Recording Tips](/articles/chrome-for-loom-screen-recording-tips/)
+* [How to Auto Create and Organize Chrome Tab Groups](/articles/chrome-tab-groups-auto-create-organize/)
+* [chrome how to add trusted sites](/articles/chrome-how-to-add-trusted-sites/)
+

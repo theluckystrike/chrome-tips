@@ -75,5 +75,9 @@ Running the **Shape Detection API**—whether for **Face Detection**, **Barcode 
 
 Using **Tab Suspender Pro** is an excellent way to keep your browser responsive. It automatically "hibernates" background tabs, freeing up **RAM** so that Chrome has the processing power needed for real-time **image analysis**. This ensures that when you're scanning a **QR code** or using a **face filter**, the experience is smooth and lag-free.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome Extensions For Font Changer On Any Website](/articles//articles/chrome-extensions-for-font-changer-on-any-website//)
+* [Top 10 Chrome Extensions for Productivity 2026](/articles/top-10-chrome-extensions-for-productivity-2026/)
+* [Chrome Dock Icon Missing Fix Mac](/articles/chrome-dock-icon-missing-fix-mac/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

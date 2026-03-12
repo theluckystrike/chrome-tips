@@ -74,3 +74,9 @@ Developing good habits around tab management can also help. Try organizing tabs 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome extensions for auto page refresh](/articles/chrome-extensions-for-auto-page-refresh/)
+* [chrome safe search how to force enable](/articles/chrome-safe-search-how-to-force-enable/)
+* [Chrome Mobile Dark Mode Force on All Sites](/articles/chrome-mobile-dark-mode-force-on-all-sites/)
+

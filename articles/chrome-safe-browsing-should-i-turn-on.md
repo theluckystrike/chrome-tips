@@ -67,3 +67,9 @@ If you find that you have many tabs open and want to manage them better, conside
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Add Chrome Shortcut to Desktop](/articles/how-to-add-chrome-shortcut-to-desktop/)
+* [Chrome Extensions for IP Address Lookup](/articles/chrome-extensions-for-ip-address-lookup/)
+* [Chrome vs Edge Memory Usage Comparison](/articles/chrome-vs-edge-memory-usage-comparison/)
+

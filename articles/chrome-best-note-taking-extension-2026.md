@@ -89,4 +89,9 @@ The combination of effective note-taking and smart tab management creates a brow
 
 ---
 
+## Related Articles
+* [Chrome New Tab Page Keeps Changing Fix](/articles/chrome-new-tab-page-keeps-changing-fix/)
+* [Chrome Scrolling is Choppy and Laggy](/articles/chrome-scrolling-is-choppy-and-laggy/)
+* [chrome for podcast web players best setup](/articles/chrome-for-podcast-web-players-best-setup/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

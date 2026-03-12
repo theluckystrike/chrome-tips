@@ -63,3 +63,9 @@ Whether you are managing a handful of tabs or dozens at a time, Chrome's built-i
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome for mouse gestures extensions](/articles/chrome-for-mouse-gestures-extensions/)
+* [Chrome for BitChute Web Player](/articles/chrome-for-bitchute-web-player/)
+* [Chrome for Reader View on Any Website](/articles/chrome-for-reader-view-on-any-website/)
+

@@ -66,3 +66,9 @@ Subresource integrity represents how modern browsers work to protect you from in
 The next time you see a subresource integrity error, remember that Chrome is actually protecting you. While the error might be inconvenient, it means your browser caught something that did not match expectations. Most of the time, the website owner will fix the issue quickly, and you can continue browsing safely.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Move Chrome Tabs Between Windows Easily](/articles/how-to-move-chrome-tabs-between-windows-easily/)
+* [Chrome for MasterClass Web Tips](/articles/chrome-for-masterclass-web-tips/)
+* [Chrome vs Safari on Mac — Which Uses Less Battery?](/articles/chrome-vs-safari-on-mac-battery/)
+

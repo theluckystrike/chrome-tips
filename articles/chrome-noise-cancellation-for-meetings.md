@@ -134,4 +134,9 @@ Chrome noise cancellation for meetings has never been more accessible. Whether y
 
 Take a few minutes to configure your noise cancellation settings today. Your colleagues will notice the difference, and you will wonder how you ever managed without it.
 
+## Related Articles
+* [Chrome Jump to Specific Tab Number Shortcut](/articles/chrome-jump-to-specific-tab-number-shortcut/)
+* [Why Are People Switching from Chrome to Firefox](/articles/why-are-people-switching-from-chrome-to-firefox/)
+* [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

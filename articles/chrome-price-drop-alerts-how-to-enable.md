@@ -71,4 +71,9 @@ You should also pay attention to whether an extension continues to work properly
 
 ---
 
+## Related Articles
+* [Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab](/articles/chrome-duplicate-tab-shortcut-trick/)
+* [Chrome Badging API Explained](/articles/chrome-badging-api-explained/)
+* [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

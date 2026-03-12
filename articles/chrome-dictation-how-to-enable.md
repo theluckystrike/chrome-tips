@@ -77,3 +77,9 @@ Give it a try on your next email or document. You might find that speaking your 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome voice search enable](/articles/chrome-voice-search-enable/)
+* [Chrome Extensions for Social Media Scheduling](/articles/chrome-extensions-for-social-media-scheduling/)
+* [Chrome Extensions for Google Meet](/articles/chrome-extensions-for-google-meet/)
+

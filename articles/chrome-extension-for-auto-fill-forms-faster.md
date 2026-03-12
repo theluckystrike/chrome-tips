@@ -65,4 +65,9 @@ Form filling does not have to be a tedious chore. With the right chrome extensio
 
 ---
 
+## Related Articles
+* [chrome profile picture how to change](/articles/chrome-profile-picture-how-to-change/)
+* [Chrome Extension for Spotify Lyrics](/articles/chrome-extension-for-spotify-lyrics/)
+* [Chrome WebGL Not Supported Fix](/articles/chrome-webgl-not-supported-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

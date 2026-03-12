@@ -68,3 +68,9 @@ Consider what matters most to you. Do you need granular control over individual 
 Remember that you do not have to choose just one solution. Many users find that combining different extensions provides the best protection. For example, you might use uBlock Origin for ad and tracker blocking while also using Tab Suspender Pro to manage tab resources and improve performance.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Tab Crashed He Dead Fix](/articles/chrome-tab-crashed-he-dead-fix/)
+* [Chrome Address Bar Not Showing Full URL Fix](/articles/chrome-address-bar-not-showing-full-url-fix/)
+* [Chrome Opens by Itself Randomly Fix](/articles/chrome-opens-by-itself-randomly-fix/)
+

@@ -54,3 +54,9 @@ If you find yourself frequently dealing with browser performance issues, you mig
 Regularly clearing your browser cache, keeping Chrome updated, and managing your open tabs are all good practices that work together to keep your browsing experience pleasant and trouble-free.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome extension for screenshot and annotate](/articles/chrome-extension-for-screenshot-and-annotate/)
+* [Chrome Casting to TV How to Setup](/articles/chrome-casting-to-tv-how-to-setup/)
+* [Chrome Release Schedule: How Often Does It Update](/articles/chrome-release-schedule-how-often-does-it-update/)
+

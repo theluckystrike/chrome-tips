@@ -66,3 +66,9 @@ Finally, remember that extensions are tools, not magic solutions. They work best
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Offline Google Calendar](/articles/chrome-offline-google-calendar/)
+* [Chrome File System Access API: A Complete Guide](/articles/chrome-file-system-access-api/)
+* [Chrome for Coupon Finding Best Extensions](/articles/chrome-for-coupon-finding-best-extensions/)
+

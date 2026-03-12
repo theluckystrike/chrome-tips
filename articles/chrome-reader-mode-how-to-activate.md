@@ -96,4 +96,9 @@ Activating chrome reader mode is easier than many users expect. Whether you use 
 
 Take a few minutes to install a reader mode extension from the Chrome Web Store. Once it is set up, you will wonder how you ever managed without it. Distraction-free reading is just a click away, and your eyes will thank you for it.
 
+## Related Articles
+* [Chrome Background Sync for Offline Forms](/articles/chrome-background-sync-for-offline-forms/)
+* [How to Fix Chrome Not Loading Images on Webpages](/articles/chrome-webpage-not-loading-images-fix/)
+* [Chrome Bitwarden vs Chrome Password Manager: Which Should You Use?](/articles/chrome-bitwarden-vs-chrome-password-manager/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

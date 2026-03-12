@@ -78,3 +78,9 @@ Finally, communicate with parents about your device management practices. Let th
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Screen Share in Google Meet Tips](/articles/chrome-screen-share-in-google-meet-tips/)
+* [Chrome New Tab Page Best Extensions](/articles/chrome-new-tab-page-best-extensions/)
+* [Chrome Game Streaming Optimization Tips](/articles/chrome-game-streaming-optimization-tips/)
+

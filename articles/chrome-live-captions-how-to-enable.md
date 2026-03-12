@@ -72,3 +72,9 @@ Keep the feature enabled. Once you turn Live Captions on, there is no harm in le
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome web serial api explained](/articles/chrome-web-serial-api-explained/)
+* [Best Chromebook Extensions for Students](/articles/best-chromebook-extensions-for-students/)
+* [chrome shared storage api privacy impact](/articles/chrome-shared-storage-api-privacy-impact/)
+

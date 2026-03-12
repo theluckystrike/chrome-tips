@@ -97,3 +97,9 @@ The next time you see a font that catches your eye, try one of these extensions.
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome extensions for image reverse search](/articles/chrome-extensions-for-image-reverse-search/)
+* [chrome for soundcloud web player extensions](/articles/chrome-for-soundcloud-web-player-extensions/)
+* [Chromebook Print From Chrome How To](/articles/chromebook-print-from-chrome-how-to/)
+

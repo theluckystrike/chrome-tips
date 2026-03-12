@@ -74,3 +74,9 @@ Remember that extensions can slow down your browser if you install too many, so 
 With the right extensions, your browser becomes a powerful study tool that helps you work smarter, not harder. Give these a try and see how they transform your academic experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Enable Chrome Reading List](/articles/how-to-enable-chrome-reading-list/)
+* [Chrome View Page Source: What It Tells You](/articles/chrome-view-page-source-what-it-tells-you/)
+* [Chrome Mobile Tips Save Data Usage](/articles/chrome-mobile-tips-save-data-usage/)
+

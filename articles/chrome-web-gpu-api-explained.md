@@ -66,3 +66,9 @@ The combination of powerful new web technologies like Web GPU and smart resource
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Customize Chrome Toolbar](/articles/how-to-customize-chrome-toolbar/)
+* [Chrome MediaRecorder API Guide](/articles/chrome-mediarecorder-api-guide/)
+* [Chrome Multiple Windows vs Tabs Which Is Better](/articles/chrome-multiple-windows-vs-tabs-which-is-better/)
+

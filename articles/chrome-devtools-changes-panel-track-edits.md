@@ -73,3 +73,9 @@ The Chrome DevTools Changes panel is a simple but powerful feature that every we
 Next time you find yourself making changes in DevTools, give the Changes panel a try. It might just become one of your favorite tools for keeping your development process smooth and efficient.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer/)
+* [Chrome Using 100 Percent CPU Fix Windows](/articles/chrome-using-100-percent-cpu-fix-windows/)
+* [Best Chrome Extensions for Online Research](/articles/chrome-extensions-for-online-research/)
+

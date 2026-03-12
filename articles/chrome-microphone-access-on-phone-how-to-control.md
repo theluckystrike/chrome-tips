@@ -67,3 +67,9 @@ It also helps to close tabs that are not in use, especially if they are sites wi
 Finally, remember that revoking microphone permission is always reversible. If you change your mind later, you can go back to the Site Settings and allow access again. Your privacy is in your hands, and Chrome makes it straightforward to adjust these settings as your needs change.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Managing Site Notifications](/articles/chrome-for-managing-site-notifications/)
+* [Chrome Device Emulation Advanced Guide](/articles//chrome-device-emulation-advanced//)
+* [Chrome for Codecademy: In-Browser Optimization](/articles/chrome-for-codecademy-in-browser-optimization/)
+

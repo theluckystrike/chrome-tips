@@ -87,4 +87,9 @@ It is also important to prioritize based on your specific goals. If you are prim
 
 ---
 
+## Related Articles
+* [Chrome Live Captions Feature Guide](/articles/chrome-live-captions-feature/)
+* [Chrome Slow After Hibernation Fix](/articles/chrome-slow-after-hibernation-fix/)
+* [Chrome Memory Saver Mode How to Use](/articles/chrome-memory-saver-mode-how-to-use/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

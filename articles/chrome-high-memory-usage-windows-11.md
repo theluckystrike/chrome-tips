@@ -68,3 +68,9 @@ For most users, the steps above will significantly reduce Chrome's memory usage 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for API Testing Simple](/articles/chrome-extensions-for-api-testing-simple/)
+* [chrome extensions for web clipping](/articles/chrome-extensions-for-web-clipping/)
+* [Chrome Browser Games Performance Tips](/articles/chrome-browser-games-performance-tips/)
+

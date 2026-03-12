@@ -102,4 +102,9 @@ Picture in Picture is one of those Chrome features that becomes indispensable on
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Organizing Research](/articles/chrome-extensions-for-organizing-research/)
+* [How to Close All Chrome Tabs at Once](/articles/how-to-close-all-chrome-tabs-at-once/)
+* [Chrome Extensions for Weather Forecast New Tab](/articles/chrome-extensions-for-weather-forecast-new-tab/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

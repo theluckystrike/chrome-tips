@@ -56,3 +56,9 @@ Once you install an extension, make a habit of adding a note whenever you open a
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Background Sync Explained: How It Works and Why It Matters](/articles/chrome-background-sync-explained/)
+* [How to Block Ads on Chrome Android](/articles/how-to-block-ads-on-chrome-android/)
+* [How to Change Your Chrome Downloads Folder](/articles/chrome-downloads-folder-change/)
+

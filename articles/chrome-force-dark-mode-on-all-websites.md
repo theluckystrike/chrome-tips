@@ -78,3 +78,9 @@ Start by trying the Chrome Flags method first, since it requires no installation
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Temporal API Date Time: A Complete Guide to Modern Date Handling](/articles/chrome-temporal-api-date-time/)
+* [Chrome Eating All My RAM? Reddit Users Share Their Solutions](/articles/chrome-eating-all-my-ram-reddit-solutions/)
+* [chrome sandbox mode explained](/articles/chrome-sandbox-mode-explained/)
+

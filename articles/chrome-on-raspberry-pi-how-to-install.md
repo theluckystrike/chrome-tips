@@ -65,4 +65,9 @@ If you find that you are missing specific Chrome features that are important to 
 
 For most people, the best approach is to start with what is already there, optimize it with good habits and helpful extensions like **Tab Suspender Pro**, and only look for alternatives if you truly need something that is not available. The Raspberry Pi is a fantastic little machine, and with a few thoughtful adjustments, you can have a very pleasant browsing experience without the hassle of trying to force an unsupported browser onto your system.
 
+## Related Articles
+* [Chrome Extension Settings Sync Across Devices](/articles/chrome-extension-settings-sync-across-devices/)
+* [Chrome Eyedropper API Explained](/articles/chrome-eyedropper-api-explained/)
+* [chrome for mailchimp web app tips](/articles/chrome-for-mailchimp-web-app-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

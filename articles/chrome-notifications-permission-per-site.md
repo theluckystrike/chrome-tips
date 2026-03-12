@@ -79,3 +79,9 @@ Managing chrome notifications permission per site is not complicated once you kn
 The most important thing is to regularly check who has permission to notify you. Over time, these permissions accumulate, and a periodic review keeps your browser working the way you want it to. Take a few minutes to review your settings today, and enjoy a more peaceful browsing experience without unwanted interruptions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users/)
+* [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix/)
+* [Chrome for Proxy Settings How to Configure](/articles/chrome-for-proxy-settings-how-to-configure/)
+

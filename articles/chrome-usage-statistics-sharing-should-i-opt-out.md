@@ -79,4 +79,9 @@ Either choice is valid, and you can always change your mind later if your circum
 
 ---
 
+## Related Articles
+* [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained/)
+* [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/articles/chrome-extensions-folder-location-files/)
+* [Chrome Save Page as Shortcut](/articles/chrome-save-page-as-shortcut/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -65,3 +65,9 @@ Make sure Wi-Fi is turned on in your phone settings so you automatically connect
 Saving data on Chrome mobile does not have to mean giving up the websites you enjoy. With a few simple changes to your settings and habits, you can extend your data allowance significantly. Start with Data Saver, turn off background loading, and be mindful of videos and images. These small adjustments can add up to big savings over time.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Save Chrome Tabs for Later](/articles/how-to-save-chrome-tabs-for-later/)
+* [Chrome Toolbar Customization Tips](/articles/chrome-toolbar-customization-tips/)
+* [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs/)
+

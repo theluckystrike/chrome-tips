@@ -62,3 +62,9 @@ The key is finding a balance that works for you. Stock tracking extensions are m
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Side Panel Extensions Worth Using](/articles/chrome-side-panel-extensions-worth-using/)
+* [Chrome DevTools Snippets for Productivity](/articles/chrome-snippets-productivity/)
+* [Chrome Overscroll Behavior CSS](/articles/chrome-overscroll-behavior-css/)
+

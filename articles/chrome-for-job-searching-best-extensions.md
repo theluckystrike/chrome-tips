@@ -76,3 +76,9 @@ Remember that extensions are meant to support your efforts, not replace them. Th
 Give a few of these extensions a try and see which ones work best for your unique job search style. With the right combination, you might find that your job hunt becomes not only more efficient but also more enjoyable.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Private Aggregation API Explained](/articles/chrome-private-aggregation-api-explained/)
+* [Chrome Coverage Tool Guide](/articles/chrome-coverage-tool-guide/)
+* [Chrome Extensions for Social Media Scheduler](/articles/chrome-extensions-for-social-media-scheduler/)
+

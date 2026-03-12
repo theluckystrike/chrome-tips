@@ -77,3 +77,9 @@ Keep your cables organized and consider getting a monitor stand if desk space is
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Scaling Blurry on External Monitor Fix](/articles/chrome-scaling-blurry-on-external-monitor-fix/)
+* [Chrome for Calendar Management Extensions](/articles/chrome-for-calendar-management-extensions/)
+* [Chrome NET ERR CERT DATE INVALID Fix](/articles/chrome-net-err-cert-date-invalid-fix/)
+

@@ -82,4 +82,9 @@ Checking these stats occasionally helps you understand the impact of the changes
 
 ---
 
+## Related Articles
+* [Best Chrome Extensions for Reading Articles](/articles/best-chrome-extensions-for-reading-articles/)
+* [How to Stop Chrome from Tracking Me](/articles/how-to-stop-chrome-from-tracking-me/)
+* [Chrome Slows Down After Sleep Mode Fix](/articles/chrome-slows-down-after-sleep-mode-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -88,3 +88,9 @@ The combination of these settings can help you get the most out of your monthly 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Extensions for Virtual Background](/articles/chrome-extensions-for-virtual-background/)
+* [chrome performance api for measuring speed](/articles/chrome-performance-api-for-measuring-speed/)
+* [Chrome Extensions For Eye Strain Protection](/articles//articles/chrome-extensions-for-eye-strain-protection//)
+

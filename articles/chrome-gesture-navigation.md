@@ -60,3 +60,9 @@ For power users who manage many tabs, chrome gesture navigation combined with ta
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Shopping List Feature How to Use](/articles/chrome-shopping-list-feature-how-to-use/)
+* [Chrome Extensions for Instapaper](/articles/chrome-extensions-for-instapaper/)
+* [Chrome Extensions for Amazon Price History](/articles/chrome-extensions-for-amazon-price-history/)
+

@@ -82,3 +82,9 @@ To reset Chrome, go to Settings, click on "Reset settings" on the left side, and
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching/)
+* [chrome for booking.com best extensions](/articles/chrome-for-bookingcom-best-extensions/)
+* [Chrome for Roam Research Web Tips](/articles/chrome-for-roam-research-web-tips/)
+

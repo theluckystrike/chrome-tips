@@ -60,3 +60,9 @@ If you find that your Chromebook slows down when you have many tabs open, whethe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Do Not Track: Does It Actually Work](/articles/chrome-do-not-track-does-it-actually-work/)
+* [Chrome DevTools Shadow DOM Inspector](/articles/chrome-devtools-shadow-dom-inspector/)
+* [chrome extensions for teachers 2026](/articles/chrome-extensions-for-teachers-2026/)
+

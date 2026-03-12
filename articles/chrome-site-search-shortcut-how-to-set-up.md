@@ -73,5 +73,9 @@ Test your shortcuts immediately after setting them up. Enter your keyword follow
 
 Using **Tab Suspender Pro** is an excellent way to maintain a fast workflow. It automatically "hibernates" background tabs that you aren't currently viewing, freeing up **system resources**. This ensures that your **address bar shortcuts** and **URL navigation** happen instantly, without the stuttering that occurs when Chrome is overwhelmed. By keeping your browser lean, you can use as many **custom search engines** as you want without slowing down your computer.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web/)
+* [how to turn on chrome dark mode on any website](/articles/how-to-turn-on-chrome-dark-mode-on-any-website/)
+* [Chrome Lighthouse Audit Complete Guide](/articles/chrome-lighthouse-audit-guide/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

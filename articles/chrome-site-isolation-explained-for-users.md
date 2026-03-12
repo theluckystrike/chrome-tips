@@ -61,3 +61,9 @@ By keeping your browser updated, using extensions like Tab Suspender Pro to mana
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Built-In Screenshot Tool](/articles/chrome-built-in-screenshot-tool/)
+* [Chrome Password Manager vs Bitwarden: Which One Should You Use?](/articles/chrome-password-manager-vs-bitwarden/)
+* [Chrome View Transitions API Explained](/articles/chrome-view-transitions-api-explained/)
+

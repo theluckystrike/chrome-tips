@@ -80,3 +80,9 @@ Try starting with one extension and getting comfortable with how it works before
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Badging API Explained](/articles/chrome-badging-api-explained/)
+* [Chrome for Work vs Personal — How to Use Separate Profiles](/articles/chrome-for-work-vs-personal-separate-profiles/)
+* [Why Is My Chrome Tab Using 1GB of Memory? Here's Why and How to Fix It](/articles/chrome-tab-using-1gb-memory-why/)
+

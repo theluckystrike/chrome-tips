@@ -69,3 +69,9 @@ Chrome can feel fast again. It just needs a little attention now and then to sta
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome fingerprinting protection explained](/articles/chrome-fingerprinting-protection-explained/)
+* [chrome pi hole vs browser ad blocker comparison](/articles/chrome-pi-hole-vs-browser-ad-blocker-comparison/)
+* [chrome multiprocess architecture explained](/articles/chrome-multiprocess-architecture-explained/)
+

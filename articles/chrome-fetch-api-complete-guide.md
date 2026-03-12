@@ -78,3 +78,9 @@ The Fetch API is a cornerstone of modern web development. It enables the dynamic
 As web technologies continue to evolve, the Fetch API remains a reliable tool for building responsive applications. Understanding how it works gives you insight into the complex processes that happen every time you browse the web. The next time you see content load instantly on a website, you will know the Fetch API is doing its job efficiently.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome web nfc how it works](/articles/chrome-web-nfc-how-it-works/)
+* [Chrome Extensions for IP Address Lookup](/articles/chrome-extensions-for-ip-address-lookup/)
+* [Chrome for Trello Power Ups in Browser](/articles/chrome-for-trello-power-ups-in-browser/)
+

@@ -60,3 +60,9 @@ Extensions like Tab Suspender Pro can help manage tabs more efficiently across a
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Weather Forecast](/articles/chrome-extensions-for-weather-forecast/)
+* [Chrome Credential Management API: Complete Guide for Developers](/articles/chrome-credential-management-api/)
+* [Chrome Extensions for Text Expander](/articles/chrome-extensions-for-text-expander/)
+

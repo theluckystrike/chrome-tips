@@ -70,3 +70,9 @@ Remember that these extensions are just tools to help you enjoy TikTok content o
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Why Does Chrome Use So Much CPU](/articles/why-does-chrome-use-so-much-cpu/)
+* [chrome manifest v3 controversy ad blockers](/articles/chrome-manifest-v3-controversy-ad-blockers/)
+* [How to Use Chrome Read Later: Save Articles for Offline Reading](/articles/chrome-read-later-save-articles-offline/)
+

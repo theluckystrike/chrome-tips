@@ -88,3 +88,9 @@ Chrome continue where you left off not working is frustrating, but it is usually
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Speech Recognition API Explained](/articles/chrome-speech-recognition-api-explained/)
+* [How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)](/articles/how-to-downgrade-chrome-to-older-version/)
+* [Chrome Reader Mode on Phone: How to Enable](/articles/chrome-reader-mode-on-phone-how-to-enable/)
+

@@ -93,3 +93,9 @@ Remember that tools designed to manage browser resources can help if you frequen
 By following these tips and maintaining good browser hygiene, you can enjoy your favorite videos with fewer interruptions and better overall performance.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [how to enable cookies in chrome](/articles/how-to-enable-cookies-in-chrome/)
+* [How to Speed Up Chrome in 5 Minutes](/articles/how-to-speed-up-chrome-in-5-minutes/)
+* [Chrome Homepage Keeps Resetting Fix](/articles/chrome-homepage-keeps-resetting-fix/)
+

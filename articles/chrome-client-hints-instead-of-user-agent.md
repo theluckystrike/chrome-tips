@@ -71,4 +71,9 @@ If you have not yet updated your websites to support Client Hints, now is the ti
 
 ---
 
+## Related Articles
+* [Chrome Overriding CSS in DevTools: A Practical Tutorial](/articles/chrome-overriding-css-in-devtools-tutorial/)
+* [Chrome Extensions For Coupon Finder Automatic](/articles//articles/chrome-extensions-for-coupon-finder-automatic//)
+* [Why Is Chrome So Slow on My Computer?](/articles/why-is-chrome-so-slow-on-my-computer/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

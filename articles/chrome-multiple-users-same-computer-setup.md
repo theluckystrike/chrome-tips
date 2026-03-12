@@ -73,3 +73,9 @@ The process only takes a few minutes to set up, and the benefits last as long as
 Give it a try if you have not already. Once everyone has their own profile, you will wonder how you ever managed without it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome vs Samsung Internet on Android](/articles/chrome-vs-samsung-internet-on-android/)
+* [Chrome Extensions for Productivity Students](/articles/chrome-extensions-for-productivity-students/)
+* [Chrome Copy Paste Not Working Fix](/articles/chrome-copy-paste-not-working-fix/)
+

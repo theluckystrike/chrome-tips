@@ -73,3 +73,9 @@ Remember that these shortcuts work specifically within Google Maps when it is op
 With a little practice, you will find that using keyboard shortcuts makes your Google Maps experience faster, more efficient, and more enjoyable. Whether you are planning a quick errand or an elaborate vacation, these tools are here to help you get where you are going with minimal hassle.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Reader Mode How to Activate](/articles/chrome-reader-mode-how-to-activate/)
+* [chrome sync what it saves](/articles/chrome-sync-what-it-saves/)
+* [Chrome DevTools Memory Panel Explained](/articles/chrome-devtools-memory-panel-explained/)
+

@@ -74,3 +74,9 @@ Try using web app versions first for tasks where they work well. Many popular se
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Site Keeps Asking for Notifications? Here's How to Stop It](/articles/chrome-site-keeps-asking-for-notifications-stop/)
+* [Chrome Performance Panel for Regular Users](/articles/chrome-performance-panel-for-regular-users/)
+* [How to Stop Chrome from Tracking Me](/articles/how-to-stop-chrome-from-tracking-me/)
+

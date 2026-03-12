@@ -70,3 +70,9 @@ The beauty of these extensions is that they are easy to install and remove if th
 Once you start using these extensions, you will wonder how you ever searched for homes on Zillow without them. Whether it is better comparisons, easier calculations, or a faster browser, there is an extension that can help. Take some time to explore these options and customize your Zillow experience to suit your preferences.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Customize Chrome Toolbar](/articles/how-to-customize-chrome-toolbar/)
+* [Chrome Site Isolation Explained](/articles/chrome-site-isolation-explained/)
+* [Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover Placement](/articles/chrome-anchor-positioning-css/)
+

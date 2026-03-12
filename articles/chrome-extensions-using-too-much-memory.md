@@ -56,3 +56,9 @@ For users who need many extensions and want to minimize memory usage, trying a d
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Task Manager How to Use](/articles/chrome-task-manager-how-to-use/)
+* [How to Remove Chrome Malware](/articles/how-to-remove-chrome-malware/)
+* [How to Turn Off Chrome Notifications Permanently](/articles/how-to-turn-off-chrome-notifications-permanently/)
+

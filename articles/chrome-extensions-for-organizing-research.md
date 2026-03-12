@@ -82,3 +82,9 @@ Small improvements in how you organize research add up to significant time savin
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome web apps how to install](/articles/chrome-web-apps-how-to-install/)
+* [chrome extensions for similar image finder](/articles/chrome-extensions-for-similar-image-finder/)
+* [Chrome Task Manager How to Use](/articles/chrome-task-manager-how-to-use/)
+

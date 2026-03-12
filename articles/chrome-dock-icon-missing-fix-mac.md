@@ -71,3 +71,9 @@ You can also check if there is a system-wide issue by seeing if other apps are h
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Most Visited Sites How to Remove](/articles/chrome-most-visited-sites-how-to-remove/)
+* [how to make chrome look aesthetic](/articles/how-to-make-chrome-look-aesthetic/)
+* [Chrome Opens by Itself Randomly Fix](/articles/chrome-opens-by-itself-randomly-fix/)
+

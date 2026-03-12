@@ -65,3 +65,9 @@ To create a new profile, click the person icon in the upper right corner of Chro
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome WebGPU vs WebGL Comparison: Which Graphics API Should You Use?](/articles/chrome-webgpu-vs-webgl-comparison/)
+* [Chrome DevTools Rendering Tab Explained](/articles/chrome-devtools-rendering-tab-explained/)
+* [Chrome Lazy Loading Images Explained](/articles/chrome-lazy-loading-images-explained/)
+

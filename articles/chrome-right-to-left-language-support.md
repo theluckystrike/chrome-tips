@@ -90,5 +90,9 @@ Finally, provide feedback to Google about persistent issues. While individual re
 
 With these steps, you should be able to read and write in Arabic, Hebrew, Persian, and other right-to-left languages without problems. Give these solutions a try and enjoy a smoother browsing experience in your preferred language.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome Extensions for AI Writing Assistant](/articles/chrome-extensions-for-ai-writing-assistant/)
+* [How to Auto Create and Organize Chrome Tab Groups](/articles/chrome-tab-groups-auto-create-organize/)
+* [Chrome Cleanup Tool: Where Did It Go?](/articles/chrome-cleanup-tool-where-did-it-go/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

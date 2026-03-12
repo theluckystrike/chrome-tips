@@ -80,4 +80,9 @@ We can expect to see more websites adopt early hints as CDN support improves and
 
 ---
 
+## Related Articles
+* [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use/)
+* [Chrome Hardware Acceleration Gaming: Complete Optimization Guide](/articles/chrome-hardware-acceleration-gaming/)
+* [Chrome Source Maps Configuration Guide](/articles/chrome-source-maps-guide/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

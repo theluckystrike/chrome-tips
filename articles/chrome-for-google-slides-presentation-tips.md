@@ -65,3 +65,9 @@ The combination of good browser habits, the right extensions, and a few smart se
 Whether you are putting together a quick update for your team or preparing a major presentation, a faster browser means you can focus on your content rather than fighting with slow loading times and sluggish responses.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Cookie Settings for Best Privacy](/articles/chrome-cookie-settings-best-privacy/)
+* [How to Inspect and Debug WebSocket Connections in Chrome](/articles/chrome-websocket-inspect-debug/)
+* [chrome safe browsing enhanced vs standard](/articles/chrome-safe-browsing-enhanced-vs-standard/)
+

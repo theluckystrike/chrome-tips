@@ -90,4 +90,9 @@ Chrome default apps settings provide powerful customization options that can enh
 
 Remember that these settings are not static. As your needs change and new applications become part of your workflow, revisiting Chrome default apps settings ensures your browser continues to work exactly the way you want it to. With the right configuration, Chrome becomes an even more capable tool for your daily internet activities.
 
+## Related Articles
+* [Chrome Extensions for Form Auto Filler](/articles/chrome-extensions-for-form-auto-filler/)
+* [Chrome Remote Desktop Setup Guide](/articles/chrome-remote-desktop-setup-guide/)
+* [Chrome Web Store How to Find Safe Extensions](/articles/chrome-web-store-how-to-find-safe-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -88,3 +88,9 @@ Even if you do not plan to become a developer, learning to use this tool gives y
 The Network Inspector is one of those features that seems technical at first but becomes simple once you try it a few times. The next time a website is acting up, open it up and take a look. You might be surprised at what you discover.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Font Editor in DevTools Explained](/articles/chrome-font-editor-in-devtools-explained/)
+* [Chrome Using More Memory After an Update? Here's What to Do](/articles/chrome-using-more-memory-after-update/)
+* [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling/)
+

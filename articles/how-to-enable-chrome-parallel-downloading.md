@@ -58,3 +58,9 @@ If you frequently download very large files, you might eventually want to look i
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome DNS Over HTTPS How to Enable](/articles/chrome-dns-over-https-how-to-enable/)
+* [How to Safely Work with Chromebook School Restrictions](/articles/chromebook-school-restrictions-bypass-safely/)
+* [Chrome Omnibox Search Tricks Most People Dont Know](/articles/chrome-omnibox-search-tricks-most-people-dont-know/)
+

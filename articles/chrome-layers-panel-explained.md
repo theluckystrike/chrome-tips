@@ -56,3 +56,9 @@ If you have never used the Layers panel before, try opening it on a few differen
 The Chrome Layers panel is one of those tools that seems complex at first but becomes incredibly valuable once you understand what it is showing you. It bridges the gap between the code you write and the actual experience your users have, and it gives you the information you need to create faster, smoother web experiences.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Google Slides](/articles/chrome-extensions-for-google-slides/)
+* [Chrome Live Captions How to Turn On](/articles/chrome-live-captions-how-to-turn-on/)
+* [Best Chrome Extensions For Journalists](/articles/best-chrome-extensions-for-journalists/)
+

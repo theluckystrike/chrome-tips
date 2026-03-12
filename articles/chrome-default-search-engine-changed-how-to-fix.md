@@ -69,3 +69,9 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Iterator Helpers Explained](/articles/chrome-iterator-helpers-explained/)
+* [Chrome Custom Properties CSS Variables](/articles//chrome-custom-properties-css-variables//)
+* [Chrome Web NFC API Guide](/articles/chrome-web-nfc-api-guide/)
+

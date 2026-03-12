@@ -84,3 +84,9 @@ Give Restricted Mode a try and adjust your settings as needed to find the right 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows/)
+* [Chrome Text to Speech Extension Best](/articles/chrome-text-to-speech-extension-best/)
+* [How to Use Chrome Flags Safely](/articles/how-to-use-chrome-flags-safely/)
+

@@ -100,4 +100,9 @@ Controlling Chrome auto-update on Windows is straightforward with these multiple
 
 ---
 
+## Related Articles
+* [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization/)
+* [The Chrome Omnibox Calculator Trick: Quick Math Without Leaving Your Browser](/articles/chrome-omnibox-calculator-trick/)
+* [Chrome Inspect Element Tutorial for Beginners](/articles/chrome-inspect-element-tutorial-for-beginners/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

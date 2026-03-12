@@ -74,3 +74,9 @@ The extension is lightweight and fast, which means it does not slow down your br
 While having the right tools for color accessibility is important, it is also worth being mindful of how many extensions you have installed. Too many extensions can slow down your browser and make it harder to focus on the task at hand. If you find that managing multiple extensions feels overwhelming, consider using a tool like Tab Suspender Pro to automatically manage your open tabs and keep your browser running smoothly. This can free up mental space so you can focus on making your designs accessible rather than managing your browser.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Accessibility on Phone Settings Guide](/articles/chrome-accessibility-on-phone-settings-guide/)
+* [how to make chrome default browser mac](/articles/how-to-make-chrome-default-browser-mac/)
+* [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to/)
+

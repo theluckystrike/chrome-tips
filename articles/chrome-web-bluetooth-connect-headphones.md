@@ -66,3 +66,9 @@ If you run into a website that does not support Web Bluetooth, do not worry. Thi
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does/)
+* [Chrome Tab Groups vs Multiple Windows](/articles/chrome-tab-groups-vs-windows/)
+* [Chrome Extensions For Eye Strain Protection](/articles//articles/chrome-extensions-for-eye-strain-protection//)
+

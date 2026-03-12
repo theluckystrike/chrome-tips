@@ -71,3 +71,9 @@ Remember that Chrome for budgeting is a journey, not a destination. As you becom
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Binance Web Trading Tips](/articles/chrome-for-binance-web-trading-tips/)
+* [How Often Should I Clear Chrome Cache](/articles/how-often-should-i-clear-chrome-cache/)
+* [Chrome for Gaming: How to Reduce Input Lag](/articles/chrome-for-gaming-reduce-input-lag/)
+

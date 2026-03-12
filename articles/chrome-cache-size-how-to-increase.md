@@ -67,3 +67,8 @@ Pairing these adjustments with good tab management habits creates a better overa
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
+## Related Articles
+* [Computer Fan Goes Crazy When Chrome Opens - Fix It Fast](/articles/computer-fan-goes-crazy-when-chrome-opens/)
+* [Chrome Extensions for Hotel Deal Finder](/articles/chrome-extensions-for-hotel-deal-finder/)
+* [Chrome Extensions For Coupon Finder Automatic](/articles//articles/chrome-extensions-for-coupon-finder-automatic//)
+

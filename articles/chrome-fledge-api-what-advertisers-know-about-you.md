@@ -71,3 +71,9 @@ Take some time to review your Chrome settings and decide what level of tracking 
 Your browsing privacy matters, and taking a few minutes to understand and adjust these settings can make a significant difference in how much information advertisers can access about you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for Website Speed Test](/articles/chrome-extensions-for-website-speed-test/)
+* [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage//)
+* [Should I Switch to Firefox for Less RAM? A Practical Guide](/articles/should-i-switch-to-firefox-for-less-ram/)
+

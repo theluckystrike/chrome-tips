@@ -78,3 +78,9 @@ Whether you choose Honey, Capital One Shopping, Rakuten, Giveaway, or another ex
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Fullscreen Mode Shortcut](/articles/chrome-fullscreen-mode-shortcut/)
+* [Chrome Web USB API Explained](/articles/chrome-web-usb-api-explained/)
+* [Chrome Extensions for Pinterest](/articles/chrome-extensions-for-pinterest/)
+

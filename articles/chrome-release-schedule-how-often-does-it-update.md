@@ -84,4 +84,9 @@ For users who want additional control over their browsing environment, tools lik
 
 ---
 
+## Related Articles
+* [How to Increase Chrome Cache Size](/articles/chrome-cache-size-how-to-increase/)
+* [Chrome for Udemy in Browser Tips](/articles/chrome-for-udemy-in-browser-tips/)
+* [How to Recover Accidentally Closed Chrome Tabs](/articles/accidentally-closed-all-chrome-tabs-recovery/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -74,3 +74,9 @@ Look for a settings gear icon on whatever platform you are using and experiment 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [how to use chrome password checkup feature](/articles/how-to-use-chrome-password-checkup-feature/)
+* [Chrome Performance Getting Worse Over Time](/articles/chrome-performance-getting-worse-over-time/)
+* [Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM](/articles/chrome-slow-on-work-computer-vpn/)
+

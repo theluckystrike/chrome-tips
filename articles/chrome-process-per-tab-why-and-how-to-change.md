@@ -73,4 +73,9 @@ The chrome process per tab feature exists for good reasons, and you do not need 
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Study Timer](/articles/chrome-extensions-for-study-timer/)
+* [chrome for youtube music web tips](/articles/chrome-for-youtube-music-web-tips/)
+* [Chrome Desktop Mode on Phone How to Use](/articles//chrome-desktop-mode-on-phone-how-to-use//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

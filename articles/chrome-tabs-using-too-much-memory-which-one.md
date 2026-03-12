@@ -55,4 +55,9 @@ Update Chrome regularly. Newer versions often include performance improvements a
 
 Avoid keeping tabs with auto-refreshing content open in the background. News sites, stock tickers, and social media feeds constantly refresh, which keeps them active and consuming memory. If you need to check something periodically, close the tab and reopen it when needed.
 
+## Related Articles
+* [How to Use Chrome DevTools for Beginners](/articles/how-to-use-chrome-devtools-for-beginners/)
+* [Best Chrome Extensions for Productivity](/articles/best-chrome-extensions-for-productivity/)
+* [Chrome Hardware Acceleration Should I Turn On or Off](/articles/chrome-hardware-acceleration-should-i-turn-on-or-off/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

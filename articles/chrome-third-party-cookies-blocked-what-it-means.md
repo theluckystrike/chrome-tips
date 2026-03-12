@@ -72,4 +72,9 @@ You do not need to do anything if you are comfortable with the changes. Chrome i
 
 ---
 
+## Related Articles
+* [Chrome for Android Tablet Optimization](/articles/chrome-for-android-tablet-optimization/)
+* [Chrome Notification API Guide](/articles/chrome-notification-api-guide/)
+* [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/articles/chrome-devtools-sensors-tab-geolocation/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

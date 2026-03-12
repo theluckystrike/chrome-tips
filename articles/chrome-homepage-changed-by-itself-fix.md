@@ -54,3 +54,9 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use/)
+* [Chrome for Bear Notes Web Clipper](/articles/chrome-for-bear-notes-web-clipper/)
+* [Chrome Media Autoplay How to Block](/articles/chrome-media-autoplay-how-to-block/)
+

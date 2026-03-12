@@ -83,5 +83,9 @@ While display settings handle the visual clarity, maintaining high performance o
 
 Using **Tab Suspender Pro** helps by automatically "pausing" tabs you aren't actively viewing. This frees up **GPU** and **RAM** resources, which can sometimes resolve stuttering or slight blurring that occurs when your graphics card is overworked. By keeping your browser lean, you ensure that Chrome has the processing power needed to render crisp text on your **4K** or **Ultrawide** monitor.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+* [Chrome Tab Groups on Phone How to Use](/articles/chrome-tab-groups-on-phone-how-to-use/)
+* [Chrome Extensions for Tab Sleeping Automatically](/articles/chrome-extensions-for-tab-sleeping-automatically/)
+* [Chrome Low Latency Mode for Gaming](/articles/chrome-low-latency-mode-for-gaming/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

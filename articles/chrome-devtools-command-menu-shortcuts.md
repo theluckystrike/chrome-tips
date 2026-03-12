@@ -80,3 +80,9 @@ The command menu in Chrome DevTools is a gateway to becoming a more productive d
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Dark Mode How To Enable](/articles//chrome-dark-mode-how-to-enable//)
+* [Chrome for Goodreads Best Extensions](/articles/chrome-for-goodreads-best-extensions/)
+* [Chrome IndexedDB Storage Explained](/articles/chrome-indexeddb-storage-explained/)
+

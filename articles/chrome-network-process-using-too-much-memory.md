@@ -71,3 +71,9 @@ High memory usage from the Chrome Network process is annoying, but it is usually
 Give these tips a try and see how much of a difference they make. Your computer will thank you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does/)
+* [chrome report broken website how to](/articles/chrome-report-broken-website-how-to/)
+* [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix/)
+

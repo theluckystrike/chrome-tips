@@ -91,4 +91,9 @@ Printing from Chrome does not have to be frustrating. With these shortcuts and t
 
 ---
 
+## Related Articles
+* [chrome kiosk mode how to set up](/articles/chrome-kiosk-mode-how-to-set-up/)
+* [Chrome for Focus Music Playlists Extensions](/articles/chrome-for-focus-music-playlists-extensions/)
+* [Chrome Telemetry What Data Google Collects](/articles/chrome-telemetry-what-data-google-collects/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

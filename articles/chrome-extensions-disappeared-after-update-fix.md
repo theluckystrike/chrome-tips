@@ -51,4 +51,9 @@ Clearing your browser cache and cookies can also help. Sometimes cached data int
 
 If all else fails, you may need to reset Chrome to its default settings. This removes all your extensions, settings, and data, so make sure to back up anything important first, such as your bookmarks and saved passwords. After the reset, you can reinstall your extensions from the Chrome Web Store fresh.
 
+## Related Articles
+* [Chrome Energy Saver Mode Guide](/articles/chrome-energy-saver-mode-guide/)
+* [Chrome Navigate to Next Search Result Shortcut](/articles/chrome-navigate-to-next-search-result-shortcut/)
+* [Best Chrome Settings for a Slow Computer](/articles/best-chrome-settings-for-slow-computer/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

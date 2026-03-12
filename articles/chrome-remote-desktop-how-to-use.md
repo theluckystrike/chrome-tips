@@ -79,4 +79,9 @@ Keeping your browser organized and efficient is especially important when you ar
 
 ---
 
+## Related Articles
+* [Chrome Slow on Surface Pro Fix](/articles/chrome-slow-on-surface-pro-fix/)
+* [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead/)
+* [How to Fix Chrome Search Bar Not Working](/articles/chrome-search-bar-not-working-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

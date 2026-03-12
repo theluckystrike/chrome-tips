@@ -74,3 +74,9 @@ Remember that the goal is to make reading online as pleasant as reading a physic
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome save all open tabs as bookmarks](/articles/chrome-save-all-open-tabs-as-bookmarks/)
+* [Chrome Clear Browsing Data Shortcut](/articles/chrome-clear-browsing-data-shortcut/)
+* [Best Chrome Extensions for Twitter X](/articles/best-chrome-extensions-for-twitter-x/)
+

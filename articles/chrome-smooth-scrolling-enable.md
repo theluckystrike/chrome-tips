@@ -83,4 +83,9 @@ Enabling chrome smooth scrolling is a simple change that can make a significant 
 
 Give smooth scrolling a try and see how it works for you. Once you experience the difference, you may wonder how you ever browsed without it.
 
+## Related Articles
+* [Chrome DevTools Protocol Monitor](/articles/chrome-devtools-protocol-monitor/)
+* [Chrome Sleeping Tabs Explained: What They Are and How to Use Them](/articles/chrome-sleeping-tabs-explained/)
+* [Chrome Extensions For Clipboard Manager](/articles//articles/chrome-extensions-for-clipboard-manager//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

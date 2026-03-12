@@ -64,3 +64,9 @@ Understanding how gap works will save you a lot of frustration when working with
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Zen Mode Extensions](/articles/chrome-for-zen-mode-extensions/)
+* [Chrome vs Edge Battery Life Laptop Comparison](/articles/chrome-vs-edge-battery-life-laptop-comparison/)
+* [Chrome for Grammar Checking Extensions](/articles/chrome-for-grammar-checking-extensions/)
+

@@ -125,4 +125,9 @@ The Chrome Rendering Panel is an incredibly powerful tool that provides unpreced
 
 Remember that smooth, responsive web experiences depend on efficient rendering practices. The tools described in this guide help identify problems, but solving them often requires attention to code quality, resource management, and thoughtful use of browser features like tab suspension. By combining the insights from the Rendering Panel with good browser habits and appropriate tools, you can significantly improve your Chrome browsing experience.
 
+## Related Articles
+* [How to View Saved Passwords in Chrome 2026](/articles/how-to-view-saved-passwords-in-chrome-2026/)
+* [Chrome HSTS What It Means for Security](/articles/chrome-hsts-what-it-means-for-security/)
+* [Chrome Extensions for Text Expander](/articles/chrome-extensions-for-text-expander/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

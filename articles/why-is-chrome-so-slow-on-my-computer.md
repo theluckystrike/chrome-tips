@@ -153,3 +153,9 @@ If you've tried everything and Chrome is still slow, consider:
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Tech Support Scam Popup Fix](/articles/chrome-tech-support-scam-popup-fix/)
+* [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup/)
+* [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord//)
+

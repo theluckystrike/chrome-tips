@@ -60,3 +60,9 @@ Remember that extensions are developed by third parties, so they may occasionall
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [How to Use Chrome Net Internals to Clear DNS Cache](/articles/chrome-net-internals-dns-clear-cache/)
+* [chrome for distraction blocking extensions](/articles/chrome-for-distraction-blocking-extensions/)
+* [How to Update Chrome on Android](/articles/how-to-update-chrome-on-android/)
+

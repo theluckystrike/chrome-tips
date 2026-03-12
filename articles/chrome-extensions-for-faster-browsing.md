@@ -56,3 +56,9 @@ Remember that extensions are tools, and the right combination depends on how you
 With the right extensions installed, Chrome can feel like a brand new browser again. Give these tools a try and enjoy the faster, smoother browsing experience you deserve.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Cast Tab to TV Not Working Fix](/articles/chrome-cast-tab-to-tv-not-working-fix/)
+* [chrome shared array buffer usage](/articles/chrome-shared-array-buffer-usage/)
+* [Chrome Extensions for Trello](/articles/chrome-extensions-for-trello/)
+

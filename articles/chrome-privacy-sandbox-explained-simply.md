@@ -79,4 +79,9 @@ Take a few minutes to check your Chrome settings and decide what level of sharin
 
 Your privacy is worth the small amount of time it takes to understand these settings. The more you know about how your browser handles your data, the better decisions you can make about what you are willing to share.
 
+## Related Articles
+* [Chrome Extensions for SEO Analysis Free](/articles/chrome-extensions-for-seo-analysis-free/)
+* [Chrome Local Font Access API Explained](/articles/chrome-local-font-access-api-explained/)
+* [Chrome WebXR API Virtual Reality](/articles/chrome-webxr-api-virtual-reality/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

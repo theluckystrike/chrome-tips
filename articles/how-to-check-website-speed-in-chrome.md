@@ -68,3 +68,9 @@ Finally, consider your internet connection. If you are on a slow connection, web
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Live Caption How It Works](/articles/chrome-live-caption-how-it-works/)
+* [Chrome Safety Check What It Does](/articles/chrome-safety-check-what-it-does/)
+* [Chrome ERR_CACHE_MISS Fix](/articles/chrome-err-cache-miss-fix/)
+

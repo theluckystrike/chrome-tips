@@ -75,3 +75,9 @@ Remember that translation is a tool, not a replacement for learning a language. 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome for Stripe Dashboard Tips](/articles/chrome-for-stripe-dashboard-tips/)
+* [Chrome for Speed Reading Extensions](/articles/chrome-for-speed-reading-extensions/)
+* [Chrome for Skillshare Web App Setup](/articles/chrome-for-skillshare-web-app-setup/)
+

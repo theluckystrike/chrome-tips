@@ -67,3 +67,9 @@ While it is true that chrome data saver mode is it still available is no longer 
 Remember that keeping your browser organized and closing unused tabs makes a big difference in how much data you use. Whether you use built-in settings, extensions, or simply change your browsing habits, there are plenty of ways to keep your data usage under control in Chrome today.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome vs Samsung Internet for Android](/articles/chrome-vs-samsung-internet-for-android/)
+* [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners/)
+* [Chrome View Transitions API Explained](/articles/chrome-view-transitions-api-explained/)
+

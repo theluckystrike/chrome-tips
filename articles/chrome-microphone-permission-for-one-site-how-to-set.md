@@ -80,3 +80,9 @@ If you use many tabs in Chrome and want to keep your browser running smoothly wh
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome DevTools Layers Panel 3D View](/articles/chrome-devtools-layers-panel-3d-view/)
+* [Chrome Extension for Auto Fill Forms Faster](/articles/chrome-extension-for-auto-fill-forms-faster/)
+* [Chrome for Web3 Browsing Extensions](/articles/chrome-for-web3-browsing-extensions/)
+

@@ -137,4 +137,9 @@ The key is knowing which method to use for each situation. For entire webpages, 
 
 Next time you need to capture something from a webpage, try Chrome's built-in tools first—you might find they handle everything you need without ever needing to install another extension.
 
+## Related Articles
+* [Chrome for Zotero Web Connector Setup](/articles/chrome-for-zotero-web-connector-setup/)
+* [How to Set Chrome as Default Browser Windows 11](/articles/how-to-set-chrome-as-default-browser-windows-11/)
+* [Chrome for LinkedIn Best Extensions](/articles/chrome-for-linkedin-best-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

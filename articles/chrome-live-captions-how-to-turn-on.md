@@ -76,3 +76,9 @@ If you are watching content in a foreign language, keep in mind that Live Captio
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Sensors Emulation How to Use](/articles/chrome-sensors-emulation-how-to-use/)
+* [Chrome History Search Tips and Tricks](/articles/chrome-history-search-tips-and-tricks/)
+* [chrome for recipe browsing without ads](/articles/chrome-for-recipe-browsing-without-ads/)
+

@@ -78,3 +78,9 @@ Tab Suspender Pro is one tool that can help manage this issue. It automatically 
 Finding chrome extensions for pdf editing free does not have to be frustrating. The options above cover most basic needs, from filling out forms to adding signatures and annotations. Start with one that matches your primary use case, and you will likely find that free tools handle everything you need.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions for YouTube Thumbnail Preview](/articles/chrome-extensions-for-youtube-thumbnail-preview/)
+* [Chrome Security Key How to Use With Chrome](/articles/chrome-security-key-how-to-use-with-chrome/)
+* [Chrome vs Opera Features Comparison](/articles/chrome-vs-opera-features-comparison/)
+

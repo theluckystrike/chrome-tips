@@ -65,3 +65,9 @@ Regularly restarting your computer can also help clear memory and refresh system
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Minimum Font Size Setting Where to Find It](/articles//chrome-minimum-font-size-setting-where//)
+* [Chrome 64 bit vs 32 bit How to Check](/articles/chrome-64-bit-vs-32-bit-how-to-check/)
+* [chrome extensions for privacy badger alternative](/articles/chrome-extensions-for-privacy-badger-alternative/)
+

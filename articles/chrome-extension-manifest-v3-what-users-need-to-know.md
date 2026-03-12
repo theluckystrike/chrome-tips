@@ -56,4 +56,9 @@ The transition to Manifest V3 has been challenging for many users, but it is ult
 
 In the meantime, staying informed about what changes are happening and knowing how to adapt your setup will help you maintain a productive and enjoyable experience with Chrome.
 
+## Related Articles
+* [Chrome for Target Web App Best Extensions](/articles/chrome-for-target-web-app-best-extensions/)
+* [Chrome for Facebook Best Extensions](/articles/chrome-for-facebook-best-extensions/)
+* [Best Chrome Extensions for Product Managers](/articles/best-chrome-extensions-for-product-managers/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

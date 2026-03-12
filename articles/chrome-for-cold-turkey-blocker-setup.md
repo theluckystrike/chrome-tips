@@ -67,3 +67,9 @@ Finally, be patient with yourself. Changing browsing habits takes time, and ther
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Extensions Using Too Much Memory](/articles/chrome-extensions-using-too-much-memory/)
+* [Why Does Chrome Use So Much CPU](/articles/why-does-chrome-use-so-much-cpu/)
+* [Chrome Extensions Disappeared After Update](/articles/chrome-extensions-disappeared-after-update/)
+

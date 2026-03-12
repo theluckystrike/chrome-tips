@@ -65,4 +65,9 @@ While fixing paint holding issues is important, you might also want to consider 
 
 Extensions like **Tab Suspender Pro** can help you manage open tabs more effectively. This extension allows you to automatically suspend tabs you are not using, which reduces the workload on your browser and can improve overall performance. When you need a suspended tab again, clicking on it will reload the page instantly.
 
+## Related Articles
+* [Chrome Screen Sharing in Browser How To](/articles/chrome-screen-sharing-in-browser-how-to/)
+* [chrome high contrast mode](/articles/chrome-high-contrast-mode/)
+* [Chrome V8 Engine What It Means for Users](/articles/chrome-v8-engine-what-it-means-for-users/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

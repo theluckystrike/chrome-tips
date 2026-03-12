@@ -70,3 +70,9 @@ Chrome receives updates fairly often, and each update can bring improvements to 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Web Speech API Voice Commands: A Complete Guide](/articles/chrome-web-speech-api-voice-commands/)
+* [Chrome for Text to Speech on Any Page](/articles/chrome-for-text-to-speech-on-any-page/)
+* [Chrome Mute Tab Shortcut Explained](/articles/chrome-mute-tab-shortcut-explained/)
+

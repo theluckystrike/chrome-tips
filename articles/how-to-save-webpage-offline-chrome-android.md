@@ -86,3 +86,9 @@ The best method depends on your needs. For quick, one-time offline reads, Chrome
 Try a few of these methods and see which fits your lifestyle best. Once you have a reliable system for saving pages offline, you'll never be stuck without something good to read.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome security check how to run](/articles/chrome-security-check-how-to-run/)
+* [Chrome vs Brave Privacy Comparison](/articles/chrome-vs-brave-privacy-comparison/)
+* [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs/)
+

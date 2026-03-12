@@ -58,3 +58,9 @@ The difference between Google Chrome and Chromium comes down to open source vers
 If you want the simplest experience with automatic updates and Google sync, stick with Chrome. If you value privacy or want to explore different browser options, try one of the many Chromium-based browsers available today.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Wont Install on Mac Fix](/articles/chrome-wont-install-on-mac-fix/)
+* [Chrome Content Security Policy Explained: A Complete Guide](/articles/chrome-content-security-policy-explained/)
+* [Chrome Extensions for Speed Dial Bookmarks](/articles/chrome-extensions-for-speed-dial-bookmarks/)
+

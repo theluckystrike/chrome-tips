@@ -68,4 +68,9 @@ A 404 error in Chrome is rarely serious. It is simply the server telling you tha
 
 By checking the URL, refreshing the page, clearing caches, and trying a search, you can usually find what you are looking for or confirm that the page is simply no longer available. Keep your browser updated and your extensions in check, and you will see fewer of these errors overall.
 
+## Related Articles
+* [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow/)
+* [chrome reopen accidentally closed tab how](/articles/chrome-reopen-accidentally-closed-tab-how/)
+* [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

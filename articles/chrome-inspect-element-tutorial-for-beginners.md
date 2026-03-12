@@ -114,4 +114,9 @@ Once you're comfortable with the basics, you'll find Inspect Element is an inval
 
 ---
 
+## Related Articles
+* [Chrome Best Settings for Online Meetings](/articles/chrome-best-settings-for-online-meetings/)
+* [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization/)
+* [How to Stop Chrome from Suspending My Tabs](/articles/how-to-stop-chrome-from-suspending-my-tabs/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

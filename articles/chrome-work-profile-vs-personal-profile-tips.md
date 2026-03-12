@@ -82,3 +82,9 @@ Setting up separate Chrome profiles for work and personal use is one of the simp
 Start with two profiles, customize them with the right extensions and bookmarks, and notice how much easier it is to find what you need when you need it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome bookmarks organize best system](/articles/chrome-bookmarks-organize-best-system/)
+* [Chrome vs Firefox on an Old Laptop — Which Is Better?](/articles/chrome-vs-firefox-on-old-laptop/)
+* [Chrome for Tab Sleeping vs Tab Suspending Difference](/articles/chrome-for-tab-sleeping-vs-tab-suspending-difference/)
+

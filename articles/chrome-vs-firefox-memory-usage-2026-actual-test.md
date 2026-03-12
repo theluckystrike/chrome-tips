@@ -75,4 +75,9 @@ The best browser is the one that fits your workflow. If you are constantly runni
 
 ---
 
+## Related Articles
+* [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/articles/chrome-devtools-sensors-tab-geolocation/)
+* [Chrome for Tab Organization Workflow](/articles/chrome-for-tab-organization-workflow/)
+* [Chrome GPU Process High CPU Fix](/articles/chrome-gpu-process-high-cpu-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

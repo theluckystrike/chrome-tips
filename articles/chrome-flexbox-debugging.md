@@ -117,3 +117,9 @@ With practice, you will develop an intuition for recognizing and fixing flexbox 
 ---
 
 *Built by theluckystrike — More tips at https://zovo.one*
+
+## Related Articles
+* [how to use chrome password checkup feature](/articles/how-to-use-chrome-password-checkup-feature/)
+* [How to Stop Chrome from Eating Your RAM](/articles/how-to-stop-chrome-from-eating-ram/)
+* [Chrome OS vs Windows for Basic Use](/articles/chrome-os-vs-windows-for-basic-use/)
+

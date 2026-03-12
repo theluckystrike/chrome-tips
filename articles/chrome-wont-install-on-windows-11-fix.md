@@ -98,3 +98,9 @@ Remember that Chrome is just one option for browsing the web. If installation co
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Background Tabs Slowing Down Computer Fix](/articles/chrome-background-tabs-slowing-down-computer-fix/)
+* [Chrome Web MIDI API Explained](/articles/chrome-web-midi-api-explained/)
+* [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/articles/chrome-slows-down-after-opening-20-tabs/)
+

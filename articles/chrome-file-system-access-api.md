@@ -71,4 +71,9 @@ This shift has profound implications for how we think about software distributio
 
 ---
 
+## Related Articles
+* [How to Fix Chrome Cache Too Large and Slow Performance](/articles/chrome-cache-too-large-slow-fix/)
+* [Best Chrome Android Flags to Enable](/articles/best-chrome-android-flags-to-enable/)
+* [Chrome Toggle Fullscreen Shortcut](/articles/chrome-toggle-fullscreen-shortcut/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

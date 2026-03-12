@@ -70,4 +70,10 @@ Recent improvements have focused on improving performance for specific use cases
 
 Understanding the V8 JavaScript engine helps you appreciate the complex technology that makes modern web browsing possible. This knowledge can also help you make better decisions about how you use your browser and what steps you can take to maintain optimal performance.
 
+## Related Articles
+
+- [Chrome V8 Engine What It Means for Users](/chrome-tips/chrome-v8-engine-what-it-means-for-users/)
+- [Chrome WebAssembly Explained for Beginners: What It Is and How It Works](/chrome-tips/chrome-webassembly-explained-for-beginners/)
+- [Chrome Hardware Acceleration Guide](/chrome-tips/chrome-hardware-acceleration-guide/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

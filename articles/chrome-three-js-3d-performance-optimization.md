@@ -106,3 +106,9 @@ The Memory panel helps identify memory leaks that degrade performance over time.
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Babylon JS Web 3D Guide](chrome-babylon-js-web-3d-guide)
+- [How to Optimize Chrome Core Web Vitals for Next.js Applications](chrome-core-web-vitals-next-js-optimize)
+- [How to Find Unused CSS and JS Using Chrome Coverage Tab](chrome-coverage-tab-find-unused-css-js)

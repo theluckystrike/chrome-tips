@@ -73,3 +73,9 @@ As more content becomes available in HDR and display hardware continues to impro
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Amazon Prime Video](best-chrome-extensions-for-amazon-prime-video)
+- [Best Chrome Extensions for Video Editors](best-chrome-extensions-for-video-editors)
+- [Chrome Accessibility Screen Reader Support](chrome-accessibility-screen-reader-support)

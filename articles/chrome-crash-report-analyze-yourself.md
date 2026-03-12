@@ -68,3 +68,9 @@ Avoid opening an excessive number of tabs at once. If you frequently work with m
 Analyzing Chrome crash reports yourself puts you in control of your browser experience. By understanding what causes crashes and how to interpret the information Chrome provides, you can resolve most issues without external help. The troubleshooting process might take some time, but the stability you gain makes the effort worthwhile.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Attribution Reporting API Explained](chrome-attribution-reporting-api-explained)
+- [Chrome Attribution Reporting What It Means for Users](chrome-attribution-reporting-what-it-means-for-users)
+- [Chrome Attribution Reporting Guide](chrome-attribution-reporting)

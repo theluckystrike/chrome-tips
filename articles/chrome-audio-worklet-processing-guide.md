@@ -222,3 +222,9 @@ If you're building audio-heavy web applications, you might also benefit from bro
 Chrome audio worklet processing opens up a world of possibilities for web-based audio applications. From simple effects to complex audio analysis tools, the worklet system provides the performance and flexibility developers need. Start experimenting with the examples in this guide, and you'll be building sophisticated audio applications in no time.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Audio Equalizer Extension](chrome-audio-equalizer-extension)
+- [Chrome Audio Fingerprinting What It Is](chrome-audio-fingerprinting-what-it-is)
+- [Chrome Audio Not Working on Some Sites](chrome-audio-not-working-on-some-sites)

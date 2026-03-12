@@ -83,3 +83,9 @@ Chrome also remembers pages you have visited frequently, and these appear in you
 Finding bookmarks quickly becomes second nature once you understand these tools and techniques. Whether you prefer the speed of Omnibox searching, the thoroughness of the bookmarks manager, or simply keeping your most-used pages on the bookmarks bar, Chrome provides the functionality you need to stop wasting time looking for saved pages.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Researchers](best-chrome-extensions-for-researchers)
+- [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](chrome-ai-powered-history-search)
+- [Chrome AI Powered Search Suggestions](chrome-ai-powered-search-suggestions)

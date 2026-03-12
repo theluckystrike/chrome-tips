@@ -124,3 +124,9 @@ Chrome custom search engines are one of the most powerful yet underutilized feat
 The key is to start small: add search engines for just your top three or four most-used websites, and use them consistently for a week. Once you experience the time savings, you will be motivated to expand your setup and develop your own system for organizing and using custom search engines. Before long, you will wonder how you ever browsed without them.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Researchers](best-chrome-extensions-for-researchers)
+- [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](chrome-ai-powered-history-search)
+- [Chrome AI Powered Search Suggestions](chrome-ai-powered-search-suggestions)

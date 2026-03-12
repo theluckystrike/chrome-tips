@@ -83,3 +83,9 @@ If you find yourself frequently with too many open tabs, try using Tab Suspender
 Understanding your Chrome Octane score gives you a baseline for browser performance, but real-world experience matters more than any benchmark number. Focus on maintaining a well-optimized browser rather than chasing the highest possible score.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome About Blank Page What It Means](chrome-about-blank-page-what-it-means)
+- [Chrome Activity Controls What They Track](chrome-activity-controls-what-they-track)
+- [Chrome Attribution Reporting What It Means for Users](chrome-attribution-reporting-what-it-means-for-users)

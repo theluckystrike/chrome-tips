@@ -108,3 +108,9 @@ Checking Chrome codec support for MP4, WebM, and AV1 is straightforward once you
 For the best experience, keep Chrome updated, and don't hesitate to use the media-internals page when troubleshooting. With proper codec support, your video playback should be smooth and trouble-free.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome 64 bit vs 32 bit How to Check](chrome-64-bit-vs-32-bit-how-to-check)
+- [Chrome Accessibility Screen Reader Support](chrome-accessibility-screen-reader-support)
+- [Chrome AirPlay Support How to Use](chrome-airplay-support-how-to-use)

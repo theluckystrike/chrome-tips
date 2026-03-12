@@ -93,3 +93,9 @@ Virtual scrolling transforms applications from struggling with large datasets to
 Start with library solutions for fastest adoption, then customize as requirements demand. Focus on the core metrics that matter to your users: smooth scrolling, fast load times, and consistent performance regardless of list size.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Fix Chrome Cache Too Large and Slow Performance](chrome-cache-too-large-slow-fix)
+- [Chrome DOM Size Too Large Performance Impact – What You Need to Know](chrome-dom-size-too-large-performance-impact)
+- [Chrome Extensions for Virtual Background](chrome-extensions-for-virtual-background)

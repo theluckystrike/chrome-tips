@@ -65,3 +65,9 @@ The frame budget concept extends beyond just animation smoothness. It affects ho
 Smooth browser performance depends on Chrome consistently meeting its frame budget targets. By understanding what the 16ms frame budget means and how it affects your experience, you can better optimize your browsing environment for the smooth, responsive performance you expect.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome A-Frame WebXR Getting Started Guide](chrome-a-frame-webxr-getting-started)
+- [chrome extensions for wireframe design](chrome-extensions-for-wireframe-design)
+- [Chrome Fenced Frames Explained](chrome-fenced-frames-explained)

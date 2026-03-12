@@ -98,3 +98,9 @@ Finally, consider the privacy implications. The API reveals information about th
 The Chrome Media Capabilities API empowers developers to deliver optimal media experiences across the vast range of devices accessing the web. By intelligently detecting what each user's browser can actually handle, you can serve the right quality of video and audio, prevent playback failures, and create more responsive media applications. As web media continues to grow in importance, this API becomes an essential tool in every developer's toolkit.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Social Media](best-chrome-extensions-for-social-media)
+- [Chrome Ambient Light Sensor API – Complete Guide](chrome-ambient-light-sensor-api)
+- [Chrome Anchor Positioning API Explained](chrome-anchor-positioning-api-explained)

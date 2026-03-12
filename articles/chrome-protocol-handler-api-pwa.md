@@ -91,3 +91,9 @@ The Protocol Handler API represents a significant step forward in blurring the l
 Start by identifying scenarios where deep linking would improve your application's usability. Then implement protocol handler registration following the security best practices outlined above. With proper implementation, your PWA can respond to links from emails, documents, and other applications, providing a seamless experience that keeps users engaged across contexts.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Ambient Light Sensor API – Complete Guide](chrome-ambient-light-sensor-api)
+- [Chrome Anchor Positioning API Explained](chrome-anchor-positioning-api-explained)
+- [Chrome Attribution Reporting API Explained](chrome-attribution-reporting-api-explained)

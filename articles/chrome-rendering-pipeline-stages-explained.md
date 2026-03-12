@@ -69,3 +69,9 @@ Several strategies can help ensure smooth and fast rendering. First, minimize DO
 Lazy loading images and deferring non-critical JavaScript can also help by allowing the initial page render to complete faster. By understanding how each stage works, developers can make informed decisions about what to load first and how to structure their code for optimal performance.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Understanding the Chrome Blink Rendering Engine](chrome-blink-rendering-engine-overview)
+- [Chrome Canvas Rendering Slow Fix: Practical Solutions for Limited RAM](chrome-canvas-rendering-slow-fix)
+- [Chrome Critical Rendering Path Explained](chrome-critical-rendering-path-explained)

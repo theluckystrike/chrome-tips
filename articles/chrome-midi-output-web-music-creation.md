@@ -74,3 +74,9 @@ Chrome MIDI output represents just the beginning of what is possible for web-bas
 Whether you are a seasoned producer exploring new workflows or a curious beginner excited about making music, Chrome MIDI output provides a versatile platform for creative expression. Start experimenting with the concepts in this guide, and you will be well on your way to building sophisticated web-based music applications.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Web Developers 2026](best-chrome-extensions-for-web-developers-2026)
+- [Chrome A-Frame WebXR Getting Started Guide](chrome-a-frame-webxr-getting-started)
+- [Chrome AR Quick Look Web Augmented Reality](/chrome-tips/chrome-ar-quick-look-web-augmented-reality/)

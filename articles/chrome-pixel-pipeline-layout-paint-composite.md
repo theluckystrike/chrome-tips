@@ -63,3 +63,9 @@ For optimal web performance, developers should minimize layout and paint operati
 By understanding how Chrome transforms your code into pixels, you can make informed decisions that keep your web applications running smoothly across all devices.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome CSS Grid Layout Complete Guide](chrome-css-grid-layout-complete-guide)
+- [Chrome CSS Masonry Layout Proposal - What You Need to Know](chrome-css-masonry-layout-proposal)
+- [Chrome Flexbox Layout Complete Guide](chrome-flexbox-layout-complete-guide)

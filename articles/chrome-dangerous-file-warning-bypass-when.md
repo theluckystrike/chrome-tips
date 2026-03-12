@@ -93,3 +93,9 @@ Chrome's dangerous file warning system is a valuable security feature that prote
 The best approach is to understand why Chrome shows these warnings and to only download files from trusted sources. By following safe browsing practices and keeping your security software updated, you can minimize the need to deal with dangerous file warnings while keeping your computer protected.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Blob And File Api Explained](chrome-blob-and-file-api-explained)
+- [Chrome Bookmarks File Location and Backup Guide](chrome-bookmarks-file-location-backup)
+- [chrome deceptive site ahead warning fix](chrome-deceptive-site-ahead-warning-fix)

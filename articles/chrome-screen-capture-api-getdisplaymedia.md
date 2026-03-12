@@ -121,3 +121,9 @@ Always listen for the `track` event on your stream to detect when the user stops
 Remember that screen capture can be resource-intensive. Avoid capturing at unnecessarily high resolutions, and stop capture streams when you no longer need them to free up system resources.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Screenshot Chrome Extension](best-screenshot-chrome-extension)
+- [Chrome Accessibility Screen Reader Support](chrome-accessibility-screen-reader-support)
+- [Chrome Accessibility Shortcuts For Screen Reader](chrome-accessibility-shortcuts-for-screen-reader)

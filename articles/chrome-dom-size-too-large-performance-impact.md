@@ -74,3 +74,9 @@ Keeping your browser updated ensures you benefit from Chrome's latest performanc
 Finally, close tabs with particularly heavy pages when you no longer need them. Pages with massive DOM trees consume memory continuously as long as they remain open, even if you are not actively using them.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Android Memory Usage Too High Fix](chrome-android-memory-usage-too-high-fix)
+- [Chrome Android Tabs Too Many How to Manage](chrome-android-tabs-too-many-how-to-manage)
+- [Chrome Application Tab DevTools Guide](chrome-application-tab-devtools-guide)

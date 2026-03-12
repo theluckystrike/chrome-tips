@@ -83,3 +83,9 @@ Keep your stylesheets organized and modular. Large, monolithic stylesheets are h
 Finally, measure performance continuously. Use automated tools like Lighthouse in Chrome DevTools to track rendering performance over time. catching performance regressions early is much easier than fixing them after they have shipped.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Animation Performance Guide](chrome-animation-performance)
+- [Chrome Browser Games Performance Tips](chrome-browser-games-performance-tips)
+- [Chrome Canvas 2D Performance Optimization – Complete Guide](chrome-canvas-2d-performance-optimization)

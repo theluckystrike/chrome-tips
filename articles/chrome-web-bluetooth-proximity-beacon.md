@@ -67,3 +67,9 @@ Chrome's Web Bluetooth API continues to evolve, with new capabilities being adde
 Proximity beacon technology combined with Chrome's Web Bluetooth capabilities represents a practical approach to location-aware web experiences. Whether you are building retail applications, navigation systems, or interactive installations, understanding how to work with these beacons opens up creative possibilities for connecting physical spaces with digital experiences.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Web Developers 2026](best-chrome-extensions-for-web-developers-2026)
+- [Chrome A-Frame WebXR Getting Started Guide](chrome-a-frame-webxr-getting-started)
+- [Chrome AR Quick Look Web Augmented Reality](/chrome-tips/chrome-ar-quick-look-web-augmented-reality/)

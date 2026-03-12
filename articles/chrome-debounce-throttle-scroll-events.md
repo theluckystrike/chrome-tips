@@ -124,3 +124,9 @@ Scroll events can quickly overwhelm Chrome if left unoptimized. Debounce delays 
 Apply these patterns to lazy loading, animations, sticky headers, and any other scroll-based feature on your website. Test different delay values to find what works best for your users and your content. The result is a faster, more polished browsing experience that keeps visitors engaged.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Auto Scroll Pages](chrome-extension-for-auto-scroll-pages)
+- [Chrome Infinite Scroll Performance Optimization](chrome-infinite-scroll-performance-optimization)
+- [Chrome Mouse Scroll Not Working Fix](chrome-mouse-scroll-not-working-fix)

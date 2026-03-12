@@ -69,3 +69,8 @@ For users who prefer more control, you can adjust Chrome's process handling thro
 Understanding the relationship between Chrome's renderer process and browser process helps you appreciate the sophisticated engineering behind your daily browsing. Next time you see multiple Chrome processes in your task manager, you'll know exactly what each one is doing—and why that architecture keeps your browsing experience stable, secure, and responsive.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+
+- [Chrome 64 bit vs 32 bit How to Check](chrome-64-bit-vs-32-bit-how-to-check)
+- [Chrome Add to Home Screen vs Install App](chrome-add-to-home-screen-vs-install-app)
+- [Chrome Audio Worklet Processing Guide](chrome-audio-worklet-processing-guide)

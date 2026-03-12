@@ -73,3 +73,9 @@ This is particularly important for pages with infinite scroll, lazy loading imag
 Chrome passive event listeners improve scroll performance by removing unnecessary blocking code from the scroll path. This seemingly small optimization has a huge impact on how responsive webpages feel, especially on devices with limited resources. Whether you are a developer looking to optimize your site or a user wanting the best browsing experience, understanding passive event listeners helps you appreciate the invisible work that goes into making Chrome feel fast and smooth.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Debounce Throttle Scroll Events](chrome-debounce-throttle-scroll-events)
+- [Chrome DOMContentLoaded vs Load Event](chrome-dom-content-loaded-vs-load-event)
+- [Chrome Event Timing API Explained](chrome-event-timing-api-explained)

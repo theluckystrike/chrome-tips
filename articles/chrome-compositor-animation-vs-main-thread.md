@@ -65,3 +65,9 @@ For end users, knowing which properties affect performance helps set expectation
 The distinction between compositor and main thread animations ultimately comes down to resource allocation and user experience. Smooth, performant animations create delightful web experiences, while janky, stuttering animations frustrate users and diminish engagement. Whether you're building websites or simply browsing them, understanding these performance dynamics makes you a more informed participant in the web ecosystem.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome 64 bit vs 32 bit How to Check](chrome-64-bit-vs-32-bit-how-to-check)
+- [Chrome Add to Home Screen vs Install App](chrome-add-to-home-screen-vs-install-app)
+- [Chrome Animation Performance Guide](chrome-animation-performance)

@@ -77,3 +77,9 @@ For new projects, focus on building efficient applications that work well across
 Remember that browser APIs will continue to evolve, and staying informed about deprecations and alternatives helps you build better web applications. The web platform is constantly changing, and adapting to these changes is part of being an effective web developer.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Ambient Light Sensor API – Complete Guide](chrome-ambient-light-sensor-api)
+- [Chrome Anchor Positioning API Explained](chrome-anchor-positioning-api-explained)
+- [Chrome Attribution Reporting API Explained](chrome-attribution-reporting-api-explained)

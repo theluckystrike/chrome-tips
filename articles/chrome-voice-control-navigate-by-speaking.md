@@ -12,3 +12,8 @@ permalink: chrome-voice-control-navigate-by-speaking
 If you have ever wanted to use chrome voice control navigate by speaking, you are not alone. Many Chrome users are discovering the power of voice commands to control their browser without touching the keyboard or mouse. Whether your hands are busy, you have difficulty with traditional input methods, or you simply want a faster way to browse the web, learning how to navigate Chrome by speaking can transform your browsing experience.
 
 ...
+## Related Articles
+
+- [Chrome Activity Controls What They Track](chrome-activity-controls-what-they-track)
+- [Chrome Auto Sign In to Websites How to Control](chrome-auto-sign-in-to-websites-how-to-control)
+- [Chrome Best Extensions for Parental Control](chrome-best-extensions-for-parental-control)

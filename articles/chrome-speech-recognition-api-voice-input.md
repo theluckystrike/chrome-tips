@@ -115,3 +115,9 @@ The Chrome Speech Recognition API provides a straightforward way to add voice in
 Experiment with different recognition settings to find what works best for your specific use case. Test across various environments and microphone setups to ensure a consistent experience for all users. With proper implementation, voice input can significantly enhance how users interact with your web applications.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Ambient Light Sensor API – Complete Guide](chrome-ambient-light-sensor-api)
+- [Chrome Anchor Positioning API Explained](chrome-anchor-positioning-api-explained)
+- [Chrome Attribution Reporting API Explained](chrome-attribution-reporting-api-explained)

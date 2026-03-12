@@ -65,3 +65,9 @@ For Chrome users and developers alike, embracing WebAssembly opens up new possib
 The key takeaway is that PNaCl's deprecation is not an end but a transition. By moving to WebAssembly, the web development community is aligning on a technology that offers better compatibility, stronger standardization, and a clearer roadmap for the future of browser-based applications.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Battery Status API Deprecated Why](chrome-battery-status-api-deprecated-why)
+- [Chrome First Meaningful Paint Deprecated Why](chrome-first-meaningful-paint-deprecated-why)
+- [Chrome Lite Mode Data Saver Replacement](chrome-lite-mode-data-saver-replacement)

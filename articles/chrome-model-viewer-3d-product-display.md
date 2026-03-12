@@ -135,3 +135,9 @@ Chrome Model Viewer provides a powerful yet accessible way to add 3D product dis
 Remember to test thoroughly across devices, optimize your model files, and provide appropriate fallbacks. With proper implementation, 3D product displays become a distinctive advantage that sets your e-commerce experience apart.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Babylon JS Web 3D Guide](chrome-babylon-js-web-3d-guide)
+- [Chrome DevTools Layers Panel 3D View](chrome-devtools-layers-panel-3d-view)
+- [Chrome Extensions for HTTP Header Viewer](chrome-extensions-for-http-header-viewer)

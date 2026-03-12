@@ -70,3 +70,9 @@ For persistent issues, consider checking Chrome's crash reports or the website's
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome chrome.contextMenus right click](chrome-chrome.contextMenus-right-click)
+- [Chrome Lost All My Tabs After Update Fix](chrome-lost-all-my-tabs-update-fix)
+- [Chrome WebGL Check If Working: Complete Verification Guide](chrome-webgl-check-if-working)

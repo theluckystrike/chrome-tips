@@ -82,3 +82,9 @@ WebHID represents a broader trend in web development: bringing hardware capabili
 The ability to connect gamepads beyond standard controllers transforms what's possible in browser-based gaming and interactive applications. Whether you're building the next great web game, developing industrial training simulations, or creating accessibility tools, WebHID removes the hardware limitations that previously held back web development.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Ambient Light Sensor API – Complete Guide](chrome-ambient-light-sensor-api)
+- [Chrome Anchor Positioning API Explained](chrome-anchor-positioning-api-explained)
+- [Chrome Attribution Reporting API Explained](chrome-attribution-reporting-api-explained)

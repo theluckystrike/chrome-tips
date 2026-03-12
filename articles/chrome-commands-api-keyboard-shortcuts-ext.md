@@ -118,3 +118,9 @@ You can also use chrome.commands.getAll() to programmatically retrieve all regis
 The Chrome Commands API provides a powerful mechanism for adding keyboard shortcuts to your extension. By properly configuring your manifest, implementing event listeners, and following best practices, you create a more efficient and user-friendly experience. Keyboard shortcuts remain one of the most appreciated features by power users who want to navigate quickly without interrupting their workflow.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Address Bar Commands You Didnt Know](chrome-address-bar-commands-you-didnt-know)
+- [Chrome Ambient Light Sensor API – Complete Guide](chrome-ambient-light-sensor-api)
+- [Chrome Anchor Positioning API Explained](chrome-anchor-positioning-api-explained)

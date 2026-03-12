@@ -53,3 +53,9 @@ The feature requires no setup, no extensions, and no additional accounts. It's b
 Next time you need to share a webpage with someone nearby, skip the copy-paste dance. Open Chrome's share menu, generate a QR code, and let them scan their way to the content you want to share.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome About Blank Page What It Means](chrome-about-blank-page-what-it-means)
+- [Chrome About Memory Page Explained](chrome-about-memory-page-explained)
+- [Chrome About Pages List Explained](chrome-about-pages-list-explained)

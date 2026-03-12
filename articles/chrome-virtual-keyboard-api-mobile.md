@@ -12,3 +12,8 @@ permalink: chrome-virtual-keyboard-api-mobile
 If you've ever built a mobile web form or chat application, you've probably encountered the frustrating issue of the virtual keyboard covering important content. Users hate scrolling endlessly to find the send button or watching their input field disappear behind the keyboard. This is exactly the problem the Chrome Virtual Keyboard API solves, and it's transforming how developers create mobile-friendly web experiences.
 
 ...
+## Related Articles
+
+- [Chrome Ambient Light Sensor API – Complete Guide](chrome-ambient-light-sensor-api)
+- [Chrome Anchor Positioning API Explained](chrome-anchor-positioning-api-explained)
+- [Chrome Attribution Reporting API Explained](chrome-attribution-reporting-api-explained)

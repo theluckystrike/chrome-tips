@@ -160,3 +160,9 @@ Remember that optimization is iterative. Profile your application first to ident
 Chrome Canvas 2D performance optimization combines understanding browser internals with practical coding techniques. By minimizing state changes, using requestAnimationFrame correctly, implementing dirty rectangle rendering, leveraging offscreen canvases, and optimizing image handling, you can create smooth, responsive canvas applications that perform well across different devices and usage scenarios. Start with the optimizations that address your specific bottlenecks and refine iteratively for the best results.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Animation Performance Guide](chrome-animation-performance)
+- [Chrome Browser Games Performance Tips](chrome-browser-games-performance-tips)
+- [Chrome Canvas Fingerprinting How to Block](chrome-canvas-fingerprinting-how-to-block)

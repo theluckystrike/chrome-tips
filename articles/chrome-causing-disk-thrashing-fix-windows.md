@@ -113,3 +113,8 @@ Disk thrashing in Chrome on Windows is frustrating, but it's usually solvable th
 For users who commonly work with many open tabs, installing Tab Suspender Pro provides an automated way to keep disk activity under control while maintaining access to all your resources.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+
+- [Chrome Extension Conflict: Identifying and Fixing Crashes](chrome-extension-conflict-causing-crashes)
+- [Chrome Extensions Causing Lag: Which One Is Slowing You Down?](chrome-extensions-causing-lag-which-one)
+- [Chrome GPU Acceleration Causing Problems Fix](chrome-gpu-acceleration-causing-problems-fix)

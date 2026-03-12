@@ -13,3 +13,8 @@ last_modified_at: '2026-03-12'
 Web users have come to expect smooth, app-like experiences when browsing. One of the most exciting additions to Chrome in recent years is the View Transition API, which enables developers to create beautiful animated transitions between different states of a page—without requiring heavy external libraries or complex animations. Whether you're building a single-page application, a product gallery, or a dynamic dashboard, this API can transform the user experience with minimal code.
 
 ...
+## Related Articles
+
+- [Chrome 2026 New Features Overview](chrome-2026-new-features-overview)
+- [Chrome Accessibility Features Overview](chrome-accessibility-features-overview)
+- [How to Inspect CSS Animations and Transitions in Chrome DevTools](chrome-animations-panel-inspect-transitions)

@@ -149,3 +149,9 @@ Extensions that handle authentication benefit from additional features that impr
 The Chrome Identity API makes implementing OAuth authentication in your extension straightforward. By properly configuring your manifest, handling token lifecycle events, and following security best practices, you can add secure user login to your Chrome extension without building custom authentication infrastructure.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Ambient Light Sensor API – Complete Guide](chrome-ambient-light-sensor-api)
+- [Chrome Anchor Positioning API Explained](chrome-anchor-positioning-api-explained)
+- [Chrome Attribution Reporting API Explained](chrome-attribution-reporting-api-explained)

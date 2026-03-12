@@ -86,3 +86,9 @@ Progressive web apps (PWAs) are increasingly using haptic feedback to create app
 For developers, now is the time to experiment with the Vibration API and understand its capabilities and limitations. As web standards continue to evolve and browser vendors add more features, the possibilities for creating tactile web experiences will only expand.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Ambient Light Sensor API – Complete Guide](chrome-ambient-light-sensor-api)
+- [Chrome Anchor Positioning API Explained](chrome-anchor-positioning-api-explained)
+- [Chrome Attribution Reporting API Explained](chrome-attribution-reporting-api-explained)

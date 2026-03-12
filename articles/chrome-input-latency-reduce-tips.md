@@ -73,3 +73,9 @@ Changing your power plan to "High Performance" while using Chrome can provide mo
 Reducing input latency in Chrome requires a combination of browser settings adjustments, extension management, and system-level optimizations. By disabling hardware acceleration when necessary, managing your tabs effectively, limiting background processes, and keeping your browser updated, you can achieve a noticeably more responsive browsing experience. The effort you invest in optimizing Chrome pays off every time you type, click, or scroll through web pages without delay.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome data saver mode how to reduce data usage](chrome-data-saver-mode-how-to-reduce-data-usage)
+- [Chrome Data Usage On Phone How To Reduce](chrome-data-usage-on-phone-how-to-reduce)
+- [How to Measure Input Delay Using Chrome Event Timing API](chrome-event-timing-api-measure-input-delay)

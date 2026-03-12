@@ -78,3 +78,9 @@ Monitor frame rates during animation playback using Chrome's performance tools. 
 Optimizing Lottie animations in Chrome requires attention to file size, loading strategy, memory management, and rendering choices. By applying these performance tips systematically, you can create engaging animated experiences that do not compromise browser performance. Small optimizations accumulate, and the result is a smoother experience for users across all types of devices and system configurations.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Animation Performance Guide](chrome-animation-performance)
+- [How to Inspect CSS Animations and Transitions in Chrome DevTools](chrome-animations-panel-inspect-transitions)
+- [Chrome Browser Games Performance Tips](chrome-browser-games-performance-tips)

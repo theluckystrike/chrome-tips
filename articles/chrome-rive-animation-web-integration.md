@@ -109,3 +109,9 @@ Consider using Rive for extension icons that respond to user interaction. An ani
 Integrating Rive animations into your Chrome web projects opens creative possibilities for interactive experiences. The combination of Chrome's powerful rendering capabilities and Rive's flexible state machine system enables animations that respond intuitively to user actions. Start with simple implementations, then expand to more complex interactions as you become comfortable with the runtime API.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Google Drive](best-chrome-extensions-for-google-drive)
+- [Best Chrome Extensions for Web Developers 2026](best-chrome-extensions-for-web-developers-2026)
+- [Chrome A-Frame WebXR Getting Started Guide](chrome-a-frame-webxr-getting-started)

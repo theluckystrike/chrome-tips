@@ -58,3 +58,9 @@ As web developers become more aware of these capabilities, they can design their
 Understanding how Chrome off-main-thread painting works gives you insight into the complex engineering that makes your daily browsing experience possible. Next time you scroll smoothly through a content-rich website or switch between tabs without delay, you will know that this technology is working behind the scenes to keep everything running flawlessly.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Compositor Animation vs Main Thread: What You Need to Know](chrome-compositor-animation-vs-main-thread)
+- [Chrome Compositor Thread Explained - What It Means for Your Browser](chrome-compositor-thread-explained)
+- [How to Fix Chrome Raster Thread High CPU Usage](chrome-raster-thread-high-cpu-fix)

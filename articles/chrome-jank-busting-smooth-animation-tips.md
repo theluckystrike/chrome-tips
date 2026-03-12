@@ -63,3 +63,9 @@ Regular Chrome updates include performance improvements and bug fixes that addre
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Scroll Not Smooth Fix](chrome-scroll-not-smooth-fix)
+- [How to Fix Chrome Smooth Scroll Stuttering Issues](chrome-smooth-scroll-stuttering-fix)
+- [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](chrome-smooth-scrolling-enable)

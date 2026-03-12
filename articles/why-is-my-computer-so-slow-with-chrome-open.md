@@ -87,3 +87,9 @@ The question "why is my computer so slow with Chrome open" has multiple answers,
 Small changes in how you use Chrome can make a big difference in your computer's responsiveness. Take time to review your browsing habits and implement these tips—you'll likely notice a significant improvement in speed.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions For Journalists](best-chrome-extensions-for-journalists)
+- [Chrome About Pages List Explained](chrome-about-pages-list-explained)
+- [Chrome Address Bar Autocomplete Disable](chrome-address-bar-autocomplete-disable)

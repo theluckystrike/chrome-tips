@@ -49,3 +49,9 @@ You can also use Chrome's FPS meter, activated through the command menu, to get 
 Mastering Chrome GSAP animation library performance requires understanding how Chrome's rendering engine works and applying GSAP's features strategically. Focus on GPU-accelerated transforms, manage your timelines efficiently, clean up resources properly, and keep your browser lean with tools like Tab Suspender Pro. By following these practices, you'll create animations that delight users with smooth, responsive performance that works reliably across all Chrome environments.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Animation Performance Guide](chrome-animation-performance)
+- [How to Inspect CSS Animations and Transitions in Chrome DevTools](chrome-animations-panel-inspect-transitions)
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](chrome-blackbox-script-skip-library-code-debug)

@@ -84,3 +84,9 @@ Iterate based on real user data when possible. Performance characteristics vary 
 Implementing these chrome infinite scroll performance optimization techniques transforms what could be a memory-intensive feature into a smooth, responsive experience. Users benefit from seamless content consumption, while your infrastructure faces reduced load from more efficient code execution.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Animation Performance Guide](chrome-animation-performance)
+- [Chrome Browser Games Performance Tips](chrome-browser-games-performance-tips)
+- [Chrome Canvas 2D Performance Optimization – Complete Guide](chrome-canvas-2d-performance-optimization)

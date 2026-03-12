@@ -80,3 +80,9 @@ Finally, test thoroughly across different devices and browsers. While the Chrome
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Accessibility Screen Reader Support](chrome-accessibility-screen-reader-support)
+- [Chrome AirPlay Support How to Use](chrome-airplay-support-how-to-use)
+- [Chrome Ambient Light Sensor API – Complete Guide](chrome-ambient-light-sensor-api)

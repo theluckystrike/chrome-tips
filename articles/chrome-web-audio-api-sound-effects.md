@@ -71,3 +71,9 @@ Wave shaping applies a transfer function to audio samples, dramatically altering
 Granular synthesis breaks sounds into tiny grains and reassembles them in new ways. While computationally intensive, this technique creates evolving textures, time-stretched effects, and sounds that exist somewhere between synthesis and sampling. Chrome's processing power makes granular techniques viable for real-time applications.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Web Developers 2026](best-chrome-extensions-for-web-developers-2026)
+- [Chrome A-Frame WebXR Getting Started Guide](chrome-a-frame-webxr-getting-started)
+- [Chrome Ambient Light Sensor API – Complete Guide](chrome-ambient-light-sensor-api)

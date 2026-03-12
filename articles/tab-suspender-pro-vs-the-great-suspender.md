@@ -1,8 +1,3 @@
-[2026-03-12 17:28:46] [m15]   Title too long: 66 chars (max 60)
-[2026-03-12 17:28:55] [m15]   Title shortened: "Tab Suspender Pro vs Great Suspender: 2026 Comparison" (53 chars)
-[2026-03-12 17:28:55] [m15]   Description too short: 130 chars (target 150-160)
-[2026-03-12 17:29:17] [m15]   WARNING: Could not generate valid description (got 134 chars).
-[2026-03-12 17:29:17] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
 title: "Tab Suspender Pro vs Great Suspender: 2026 Comparison"
@@ -98,6 +93,22 @@ Tab Suspender Pro is the clear winner for 2026. Two reasons:
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
 
----
+competitive_data:
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

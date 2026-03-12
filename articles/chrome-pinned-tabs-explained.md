@@ -68,4 +68,11 @@ Finally, remember that pinned tabs are not the only tool available for managing 
 
 ---
 
+
+
+### Related Articles
+- [Chrome Sleeping Tabs Explained](/chrome-sleeping-tabs-explained)
+- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
+- [Best Way To Organize Chrome Tabs](/best-way-to-organize-chrome-tabs)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -110,4 +110,11 @@ Remember to explore all the features we covered in this guide, experiment with d
 
 ---
 
+
+
+### Related Articles
+- [Chrome Application Panel Guide](/chrome-application-panel-guide)
+- [Chrome Devtools Recorder Panel How To Use](/chrome-devtools-recorder-panel-how-to-use)
+- [Chrome Layers Panel Guide](/chrome-layers-panel-guide)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

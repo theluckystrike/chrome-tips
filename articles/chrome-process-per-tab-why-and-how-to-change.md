@@ -68,4 +68,11 @@ The chrome process per tab feature exists for good reasons, and you do not need 
 
 ---
 
+
+
+### Related Articles
+- [Chrome Process Per Tab Disable To Save Memory](/chrome-process-per-tab-disable-to-save-memory)
+- [Chrome Themes How To Change And Customize](/chrome-themes-how-to-change-and-customize)
+- [Chrome Beta Channel How To Join And Leave](/chrome-beta-channel-how-to-join-and-leave)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -104,4 +104,11 @@ The best approach combines several tools and features that work together to addr
 
 Remember that your needs may change over time, so periodically review your setup and make adjustments as necessary. Chrome continues to add new accessibility features, so staying informed about updates will help you take advantage of improvements to chrome screen reader support.
 
+
+
+### Related Articles
+- [Chrome Accessibility Screen Reader Support](/chrome-accessibility-screen-reader-support)
+- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
+- [Chrome Add To Home Screen Vs Install App](/chrome-add-to-home-screen-vs-install-app)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

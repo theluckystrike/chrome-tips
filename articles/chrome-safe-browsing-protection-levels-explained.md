@@ -87,3 +87,9 @@ Take a moment to check your Chrome settings today. Making sure Safe Browsing is 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Bounce Tracking Protection Explained](/chrome-bounce-tracking-protection-explained)
+- [Chrome Enhanced Safe Browsing](/chrome-enhanced-safe-browsing)
+- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)

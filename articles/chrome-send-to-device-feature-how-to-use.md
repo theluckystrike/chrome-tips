@@ -75,3 +75,9 @@ If you find yourself frequently sending tabs between devices, you might also ben
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
+- [Chrome Shopping List Feature How To Use](/chrome-shopping-list-feature-how-to-use)
+- [Chrome Tab Search Feature How To Use](/chrome-tab-search-feature-how-to-use)

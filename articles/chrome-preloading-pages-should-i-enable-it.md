@@ -70,4 +70,11 @@ Remember that you can always change your mind. Chrome settings are not permanent
 
 ---
 
+
+
+### Related Articles
+- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
+- [Chrome Strict Site Isolation Should I Enable](/chrome-strict-site-isolation-should-i-enable)
+- [Chrome Hardware Acceleration Should I Turn On Or Off](/chrome-hardware-acceleration-should-i-turn-on-or-off)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

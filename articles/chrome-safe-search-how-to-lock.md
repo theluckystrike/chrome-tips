@@ -62,4 +62,11 @@ Beyond locking safe search, there are other steps you can take to create a safer
 
 For parents, having open conversations with children about internet safety is just as important as technical controls. Explain why certain content is filtered and teach them how to make good decisions online. Technical tools work best when combined with education and open communication about browsing habits.
 
+
+
+### Related Articles
+- [Chrome Safe Search How To Force Enable](/chrome-safe-search-how-to-force-enable)
+- [Chrome Custom Search Engines How To Add](/chrome-custom-search-engines-how-to-add)
+- [Chrome Default Search Engine Changed How To Fix](/chrome-default-search-engine-changed-how-to-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

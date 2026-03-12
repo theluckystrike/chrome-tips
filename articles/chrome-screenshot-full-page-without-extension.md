@@ -107,4 +107,11 @@ The manual scrolling method works well as a backup when other methods fail or wh
 
 ---
 
+
+
+### Related Articles
+- [Chrome Devtools Screenshot Full Page](/chrome-devtools-screenshot-full-page)
+- [Chrome Extensions For Screenshot Full Page](/chrome-extensions-for-screenshot-full-page)
+- [Chrome Screenshot Capture Devtools Full Page](/chrome-screenshot-capture-devtools-full-page)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

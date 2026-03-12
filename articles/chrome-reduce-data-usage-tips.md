@@ -78,4 +78,11 @@ Checking these stats occasionally helps you understand the impact of the changes
 
 ---
 
+
+
+### Related Articles
+- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
+- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
+- [Chrome Mobile Tips Save Data Usage](/chrome-mobile-tips-save-data-usage)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

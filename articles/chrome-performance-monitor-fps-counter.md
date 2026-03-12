@@ -70,4 +70,11 @@ You might also want to monitor performance when visiting media-heavy sites like 
 
 ---
 
+
+
+### Related Articles
+- [Chrome Animation Performance](/chrome-animation-performance)
+- [Chrome Browser Games Performance Tips](/chrome-browser-games-performance-tips)
+- [Chrome Content Visibility Auto Performance](/chrome-content-visibility-auto-performance)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

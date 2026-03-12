@@ -74,4 +74,11 @@ Review your extensions occasionally to make sure you still need all of them. Som
 
 Teaching friends and family about pop up blocking is also helpful. Many people might not know how to protect themselves from malicious pop ups. Sharing what you have learned about how to block all pop ups in Chrome can help others browse more safely.
 
+
+
+### Related Articles
+- [Chrome Pop Ups On Phone How To Block](/chrome-pop-ups-on-phone-how-to-block)
+- [How To Allow Pop Ups For One Site In Chrome](/how-to-allow-pop-ups-for-one-site-in-chrome)
+- [How To Allow Pop Ups On One Site Chrome](/how-to-allow-pop-ups-on-one-site-chrome)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -73,3 +73,9 @@ Remember that service workers are generally beneficial for web performance. The 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Gpu Process High Cpu Fix](/chrome-gpu-process-high-cpu-fix)
+- [Chrome Helper Renderer High Cpu Mac Fix](/chrome-helper-renderer-high-cpu-mac-fix)
+- [Chrome Network Process High Cpu Fix](/chrome-network-process-high-cpu-fix)

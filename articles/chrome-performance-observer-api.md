@@ -75,4 +75,11 @@ Whether you are a developer building performance-conscious applications or a use
 
 ---
 
+
+
+### Related Articles
+- [Chrome Performance Observer Api Explained](/chrome-performance-observer-api-explained)
+- [Chrome Intersection Observer Api Explained](/chrome-intersection-observer-api-explained)
+- [Chrome Mutation Observer Api Explained](/chrome-mutation-observer-api-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

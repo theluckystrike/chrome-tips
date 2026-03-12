@@ -51,5 +51,12 @@ If you are working with a **Chrome extension** that lets you add **custom CSS** 
 
 Using **Tab Suspender Pro** is a smart way to balance your productivity. It automatically "parks" background tabs, freeing up **RAM** so that Chrome's **rendering engine** can handle complex **@scope** rules and **CSS selectors** without lagging. Keeping your browser lean ensures that your custom styles are applied quickly and accurately across all your active windows.
 
+
+
+### Related Articles
+- [Chrome Css Custom Properties Explained](/chrome-css-custom-properties-explained)
+- [Chrome Font Palette Css Explained](/chrome-font-palette-css-explained)
+- [Chrome Layer Css Cascade Layers Explained](/chrome-layer-css-cascade-layers-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

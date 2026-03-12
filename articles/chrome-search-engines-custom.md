@@ -117,4 +117,11 @@ Chrome custom search engines are one of the most powerful yet underutilized feat
 
 The key is to start small: add search engines for just your top three or four most-used websites, and use them consistently for a week. Once you experience the time savings, you will be motivated to expand your setup and develop your own system for organizing and using custom search engines. Before long, you will wonder how you ever browsed without them.
 
+
+
+### Related Articles
+- [Chrome Custom Search Engines How To Add](/chrome-custom-search-engines-how-to-add)
+- [Chrome For Custom Search Engines Setup](/chrome-for-custom-search-engines-setup)
+- [Chrome For Multiple Search Engines Switching](/chrome-for-multiple-search-engines-switching)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

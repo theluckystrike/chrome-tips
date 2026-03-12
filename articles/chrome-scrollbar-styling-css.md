@@ -56,5 +56,12 @@ Extensions like **Scrollbar Customizer** and similar tools let you select from p
 
 When you're running multiple extensions to tweak your UI, it's important to keep an eye on your **system resources**. **Tab Suspender Pro** is an excellent tool for this. It automatically "hibernates" background tabs, freeing up **RAM** so that your browser remains fast even with several **customization scripts** running. Keeping your **CPU usage** low ensures that your custom **CSS scrollbars** render smoothly without lag when you're scrolling through long pages.
 
+
+
+### Related Articles
+- [Chrome Anchor Positioning Css](/chrome-anchor-positioning-css)
+- [Chrome Aspect Ratio Css Property](/chrome-aspect-ratio-css-property)
+- [Chrome Color Mix Function Css](/chrome-color-mix-function-css)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

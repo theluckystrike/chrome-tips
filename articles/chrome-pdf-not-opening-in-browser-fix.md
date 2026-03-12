@@ -109,4 +109,11 @@ In these cases, try downloading the PDF first (right-click and "Save link as") a
 
 ---
 
+
+
+### Related Articles
+- [Chrome Pdf Not Downloading Just Opening Fix](/chrome-pdf-not-downloading-just-opening-fix)
+- [Chrome Pdf Not Opening Fix](/chrome-pdf-not-opening-fix)
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

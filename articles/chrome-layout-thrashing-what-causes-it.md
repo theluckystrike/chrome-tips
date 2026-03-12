@@ -98,3 +98,7 @@ Regularly updating Chrome ensures you have the latest performance optimizations 
 ## Final Thoughts
 
 Layout thrashing represents one of those technical issues that remains invisible until it causes noticeable problems. Understanding what causes it helps both developers write better code and users make informed choices about their browsing habits. By separating reads from writes, using CSS transforms, and keeping your browser updated, you can significantly reduce the impact of this performance bottleneck.
+
+---
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

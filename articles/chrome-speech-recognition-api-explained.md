@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Chrome Speech Recognition API Explained"
-description: "Learn what the Chrome Speech Recognition API is, how it works, and how................................................................................"
+description: "If you have ever searched for "chrome speech recognition api explained," you might have been curious about how Chrome can understand what you say or convert ..."
 date: "2025-03-12"
-last_modified_at: '2026-03-12'
+last_modified_at: "2026-03-12"
 permalink: "chrome-speech-recognition-api-explained"
 categories: 
 tags: 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "chrome site search shortcut how to set up"
-description: "Learn how to set up site search shortcuts in Chrome for faster browsing..............................................................................."
+title: "Chrome Site Search Shortcut How to Set Up"
+description: "Speed up your browsing by learning how to set up Chrome site search shortcuts that allow you to search any website directly from your address bar instantly now."
 date: "2026-03-09"
-last_modified_at: '2026-03-12'
+last_modified_at: "2026-03-12"
 permalink: "chrome-site-search-shortcut-how-to-set-up"
 categories: 
 tags: 

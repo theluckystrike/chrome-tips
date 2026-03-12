@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Chrome Shopping List Feature How to Use"
-description: "Learn how to use Chrome's built-in shopping list feature to save products............................................................................."
+description: "Discover how to use the Chrome shopping list feature to save products and track price drops across different websites without needing third-party extensions."
 date: "2025-03-18"
-last_modified_at: '2026-03-12'
+last_modified_at: "2026-03-12"
 permalink: "chrome-shopping-list-feature-how-to-use"
 categories: 
 tags: 

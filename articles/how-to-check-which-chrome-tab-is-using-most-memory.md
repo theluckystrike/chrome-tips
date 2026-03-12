@@ -61,3 +61,9 @@ Check your extensions periodically to make sure you only have ones you actually 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Which Tab Is Using Most Cpu How To Find](/chrome-which-tab-is-using-most-cpu-how-to-find)
+- [Chrome Tab Memory Usage How To Check](/chrome-tab-memory-usage-how-to-check)
+- [How To Tell Which Chrome Tab Is Draining Battery](/how-to-tell-which-chrome-tab-is-draining-battery)

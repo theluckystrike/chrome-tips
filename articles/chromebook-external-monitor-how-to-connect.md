@@ -80,3 +80,9 @@ Keep your cables organized and consider getting a monitor stand if desk space is
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Webusb How To Connect Devices](/chrome-webusb-how-to-connect-devices)
+- [Chromebook Linux Apps How To Install](/chromebook-linux-apps-how-to-install)
+- [Chromebook Parental Controls How To Set Up](/chromebook-parental-controls-how-to-set-up)

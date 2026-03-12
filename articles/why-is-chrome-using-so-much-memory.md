@@ -57,3 +57,9 @@ Understanding why Chrome uses so much memory is the first step to fixing it. Wit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Why Does Each Chrome Tab Use So Much Memory](/why-does-each-chrome-tab-use-so-much-memory)
+- [Why Is Chrome So Much Slower Than It Used To Be](/why-is-chrome-so-much-slower-than-it-used-to-be)
+- [Chrome Extension Using Too Much Memory Find](/chrome-extension-using-too-much-memory-find)

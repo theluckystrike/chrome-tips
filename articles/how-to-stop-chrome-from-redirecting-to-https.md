@@ -79,3 +79,9 @@ Remember that you can always type an HTTP address directly into the address bar 
 Taking a moment to understand these settings gives you more flexibility while keeping your everyday browsing secure. The web is moving toward HTTPS by default, and for good reason, but that does not mean you should be locked out of older content when you genuinely need access.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.
+
+
+### Related Articles
+- [How To Stop Chrome From Eating Ram](/how-to-stop-chrome-from-eating-ram)
+- [How To Stop Chrome From Opening On Startup](/how-to-stop-chrome-from-opening-on-startup)
+- [How To Stop Chrome From Running In Background](/how-to-stop-chrome-from-running-in-background)

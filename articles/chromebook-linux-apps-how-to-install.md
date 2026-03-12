@@ -103,3 +103,9 @@ Extensions like this work alongside your installed apps to make your Chromebook 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Web Apps How To Install](/chrome-web-apps-how-to-install)
+- [Chrome Install As App Pwa How To](/chrome-install-as-app-pwa-how-to)
+- [Chrome On Raspberry Pi How To Install](/chrome-on-raspberry-pi-how-to-install)

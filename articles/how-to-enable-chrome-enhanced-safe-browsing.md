@@ -95,3 +95,9 @@ You can verify that safe browsing is still enabled by going back to the Security
 By enabling enhanced safe browsing and following good security practices, you significantly reduce your risk of encountering malware, phishing attacks, and other online threats. This simple setting change provides powerful protection that works quietly in the background to keep you safe while you enjoy browsing the web.
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Safe Browsing On Phone How To Check](/chrome-safe-browsing-on-phone-how-to-check)
+- [Chrome Safe Search How To Force Enable](/chrome-safe-search-how-to-force-enable)
+- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)

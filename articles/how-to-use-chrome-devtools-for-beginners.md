@@ -89,3 +89,9 @@ The key is to remember that any changes you make in DevTools are temporary. This
 DevTools opens up a world of understanding about how the web works. Even basic familiarity with these tools can help you troubleshoot problems, satisfy your curiosity, and become a more informed browser user.
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Devtools Color Picker How To Use](/chrome-devtools-color-picker-how-to-use)
+- [Chrome Devtools Recorder Panel How To Use](/chrome-devtools-recorder-panel-how-to-use)
+- [Chrome Devtools Responsive Mode How To Use](/chrome-devtools-responsive-mode-how-to-use)

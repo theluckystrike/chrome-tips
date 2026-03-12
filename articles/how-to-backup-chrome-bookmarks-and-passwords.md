@@ -78,3 +78,9 @@ Backing up your Chrome bookmarks and passwords is a quick process that takes jus
 With your data backed up, you can browse with confidence knowing that your important information is protected, no matter what happens to your browser or computer.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Beta Channel How To Join And Leave](/chrome-beta-channel-how-to-join-and-leave)
+- [Chrome Bookmarks Disappeared How To Recover](/chrome-bookmarks-disappeared-how-to-recover)
+- [Chrome Passkeys How To Set Up And Use](/chrome-passkeys-how-to-set-up-and-use)

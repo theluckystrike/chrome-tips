@@ -61,3 +61,9 @@ Give tab groups a try if you have not already. Start small, perhaps with just tw
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Tab Groups On Phone How To Use](/chrome-tab-groups-on-phone-how-to-use)
+- [Chrome Network Tab How To Use Debug](/chrome-network-tab-how-to-use-debug)
+- [Chrome Tab Color Coding How To Use](/chrome-tab-color-coding-how-to-use)

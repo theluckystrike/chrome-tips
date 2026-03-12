@@ -77,3 +77,9 @@ Remember that your needs may change over time. Periodically review your toolbar 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome New Tab Page How To Customize](/chrome-new-tab-page-how-to-customize)
+- [Chrome Themes How To Change And Customize](/chrome-themes-how-to-change-and-customize)
+- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)

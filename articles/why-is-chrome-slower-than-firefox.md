@@ -65,3 +65,9 @@ The solution doesn't always have to be switching browsers. Often, managing your 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Why Is Chrome So Much Slower Than It Used To Be](/why-is-chrome-so-much-slower-than-it-used-to-be)
+- [Chrome Vs Firefox For Mac Which Is Faster](/chrome-vs-firefox-for-mac-which-is-faster)
+- [Is Microsoft Edge Better Than Chrome Now](/is-microsoft-edge-better-than-chrome-now)

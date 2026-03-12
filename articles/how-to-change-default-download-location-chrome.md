@@ -82,3 +82,9 @@ Remember, you can always change the location again later if your needs change. C
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Default Download Location How To Change](/chrome-default-download-location-how-to-change)
+- [Chrome Default Download Location How To Set](/chrome-default-download-location-how-to-set)
+- [Chrome Downloads Folder How To Change Location](/chrome-downloads-folder-how-to-change-location)

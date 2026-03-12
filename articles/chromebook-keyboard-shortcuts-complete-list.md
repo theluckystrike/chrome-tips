@@ -124,3 +124,9 @@ The beauty of Chromebook keyboard shortcuts is that they build on each other. On
 With practice, these shortcuts will become second nature, and you will wonder how you ever used your Chromebook without them.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Keyboard Shortcuts Complete List 2026](/chrome-keyboard-shortcuts-complete-list-2026)
+- [Chrome Easter Eggs Complete List 2026](/chrome-easter-eggs-complete-list-2026)
+- [Chrome Gmail Keyboard Shortcuts](/chrome-gmail-keyboard-shortcuts)

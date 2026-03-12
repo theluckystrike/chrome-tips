@@ -88,4 +88,11 @@ Setting up parental controls on a Chromebook does not have to be complicated. By
 
 Take the time to explore the Family Link app and customize the settings to match your family's values and needs. With the right controls in place, you can feel confident that your children are using their Chromebooks safely and productively.
 
+
+
+### Related Articles
+- [Chromebook Parental Controls How To Set Up](/chromebook-parental-controls-how-to-set-up)
+- [Chrome Parental Controls How To Set Up](/chrome-parental-controls-how-to-set-up)
+- [Chrome Parental Controls Without Extension](/chrome-parental-controls-without-extension)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

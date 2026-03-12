@@ -87,3 +87,9 @@ Celebrate small victories. Every new skill they master is an achievement worth a
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Extensions For Ublock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Best Chrome Settings For Chromebook](/best-chrome-settings-for-chromebook)
+- [Best Chrome Setup For Elderly Parents](/best-chrome-setup-for-elderly-parents)

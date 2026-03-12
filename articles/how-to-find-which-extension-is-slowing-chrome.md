@@ -104,4 +104,11 @@ Learning how to find which extension is slowing Chrome is a valuable skill that 
 
 Take a few minutes to review your extensions today. Remove the ones you do not need, keep the ones you use, and consider tools like Tab Suspender Pro to help manage memory automatically. Your computer will thank you.
 
+
+
+### Related Articles
+- [Chrome Which Tab Is Using Most Cpu How To Find](/chrome-which-tab-is-using-most-cpu-how-to-find)
+- [How To Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
+- [How To Check If Chrome Extension Is Spying On Me](/how-to-check-if-chrome-extension-is-spying-on-me)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

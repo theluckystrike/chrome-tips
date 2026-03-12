@@ -71,3 +71,9 @@ Finally, consider your internet connection. If you are on a slow connection, web
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Location History In Browser How To Check](/chrome-location-history-in-browser-how-to-check)
+- [How To Pin A Website In Chrome Taskbar](/how-to-pin-a-website-in-chrome-taskbar)
+- [How To Speed Up Chrome In 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)

@@ -85,3 +85,9 @@ Learning how to limit Chrome memory usage Mac does not have to be complicated. B
 Start with the built-in Memory Saver feature, which requires no additional installation, and see how much of a difference it makes. From there, you can explore other tips and tools to find the combination that works best for your needs.
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [How To Limit Chrome Memory Usage Windows](/how-to-limit-chrome-memory-usage-windows)
+- [How To Limit Chrome Ram Usage Mac](/how-to-limit-chrome-ram-usage-mac)
+- [Chrome Tab Memory Usage How To Check](/chrome-tab-memory-usage-how-to-check)

@@ -57,3 +57,9 @@ There is no single number that applies to everyone. The answer to how many Chrom
 Try turning on Memory Saver if you have not already. Review which tabs you actually need open right now and close the ones you are keeping open out of habit rather than necessity. And if you find yourself regularly reaching the point where Chrome starts to slow down, consider using an extension like Tab Suspender Pro to help manage your tabs more intelligently.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [I Have 100 Tabs Open Chrome Is Dying](/i-have-100-tabs-open-chrome-is-dying)
+- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
+- [Chrome Mobile Tabs Too Many How To Manage](/chrome-mobile-tabs-too-many-how-to-manage)

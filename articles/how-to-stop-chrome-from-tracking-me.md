@@ -71,3 +71,9 @@ Stopping Chrome from tracking you completely is nearly impossible in today's con
 Small changes add up over time. The more control you have over your data, the less vulnerable you are to invasive tracking and unwanted targeted advertising.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.
+
+
+### Related Articles
+- [How To Stop Chrome From Eating Ram](/how-to-stop-chrome-from-eating-ram)
+- [How To Stop Chrome From Opening On Startup](/how-to-stop-chrome-from-opening-on-startup)
+- [How To Stop Chrome From Redirecting To Https](/how-to-stop-chrome-from-redirecting-to-https)

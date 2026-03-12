@@ -78,3 +78,9 @@ If you are frustrated with Chrome, download Firefox and give it a try for one we
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Should I Switch To Edge For Speed](/should-i-switch-to-edge-for-speed)
+- [Should I Switch To Firefox For Less Ram](/should-i-switch-to-firefox-for-less-ram)
+- [Chrome Flags To Enable For Speed](/chrome-flags-to-enable-for-speed)

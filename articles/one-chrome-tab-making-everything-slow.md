@@ -85,4 +85,11 @@ When one Chrome tab makes everything slow, it's usually because that tab is usin
 
 The key is to be proactive rather than reactive. Check which tabs are using the most memory regularly, and develop habits that prevent memory overload before it happens. Your computer (and your sanity) will thank you.
 
+
+
+### Related Articles
+- [Chrome Developer Tools Making Page Slow](/chrome-developer-tools-making-page-slow)
+- [Chrome New Tab Page Slow To Load](/chrome-new-tab-page-slow-to-load)
+- [Why Does Opening Chrome Slow Down Everything](/why-does-opening-chrome-slow-down-everything)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

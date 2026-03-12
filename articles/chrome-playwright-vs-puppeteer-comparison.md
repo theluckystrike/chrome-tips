@@ -4,7 +4,7 @@ title: chrome playwright vs puppeteer comparison
 description: A comprehensive comparison of Playwright vs Puppeteer for Chrome automation.
   Learn which tool best fits your needs for browser testing and web scraping.
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-playwright-vs-puppeteer-comparison
 categories:
 - development

@@ -5,7 +5,7 @@ description: Looking for chrome extensions for web automation free? Discover the
   free tools to automate repetitive browser tasks without spending money. Read our
   com...
 date: 2026-03-09
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-web-automation-free
 categories:
 - productivity

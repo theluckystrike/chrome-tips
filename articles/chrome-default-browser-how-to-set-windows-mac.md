@@ -14,8 +14,8 @@ tags:
 - mac
 - tutorial
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-default-browser-how-to-set-windows-mac/
+last_modified_at: '2026-03-12'
+permalink: chrome-default-browser-how-to-set-windows-mac
 ---
 # Chrome Default Browser How to Set Windows Mac
 

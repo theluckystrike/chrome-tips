@@ -14,6 +14,7 @@ tags:
 - chrome-features
 author: theluckystrike
 permalink: chrome-file-system-access-explained
+last_modified_at: '2026-03-12'
 ---
 # Chrome File System Access Explained
 

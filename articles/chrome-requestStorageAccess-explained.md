@@ -17,6 +17,7 @@ tags:
 - api
 author: theluckystrike
 permalink: chrome-requestStorageAccess-explained
+last_modified_at: '2026-03-12'
 ---
 # Chrome requestStorageAccess Explained
 

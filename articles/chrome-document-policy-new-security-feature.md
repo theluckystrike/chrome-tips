@@ -5,7 +5,7 @@ description: Discover Chrome's Document Policy API—a powerful security feature
   gives websites fine-grained control over browser behavior and protects users from
   vari...
 date: 2026-01-24
-last_modified_at: 2026-03-11
+last_modified_at: '2026-03-12'
 permalink: chrome-document-policy-new-security-feature
 ---
 # Chrome Document Policy: The New Security Feature You Need to Know

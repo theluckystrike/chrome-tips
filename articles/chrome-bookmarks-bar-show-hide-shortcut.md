@@ -5,7 +5,7 @@ description: Learn the Chrome bookmarks bar show hide shortcut to quickly toggle
   bookmarks bar. Master this essential keyboard shortcut for faster browsing. Check
   out o
 date: '2026-01-20'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-bookmarks-bar-show-hide-shortcut
 categories:
 - tips

@@ -5,7 +5,7 @@ description: Learn how to set up Chrome Cast to TV with this beginner-friendly g
   Get your Chromecast working with your TV in just a few simple steps. Check out our
   expe
 date: '2026-01-15'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-cast-to-tv-how-to-set-up
 categories:
 - casting

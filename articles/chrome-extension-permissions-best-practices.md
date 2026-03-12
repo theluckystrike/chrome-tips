@@ -4,7 +4,7 @@ description: Learn how to manage Chrome extension permissions safely. Discover b
   practices for protecting your privacy while getting the most out of your browser
   exten...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-permissions-best-practices
 layout: post
 categories: '[security, extensions]'

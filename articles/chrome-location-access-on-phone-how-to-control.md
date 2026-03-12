@@ -5,7 +5,7 @@ description: Learn how to control location permissions in Chrome on your phone. 
   which sites can access your location easily. Check out our expert recommendations
   and
 date: '2026-01-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-location-access-on-phone-how-to-control
 categories:
 - privacy

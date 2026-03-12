@@ -14,8 +14,8 @@ tags:
 - web-development
 - troubleshooting
 author: theluckystrike
-last_modified_at: '%Y->- (origin/fix/lastmod-batch-4)'
-permalink: /chrome-devtools-edit-html-live/
+last_modified_at: '2026-03-12'
+permalink: chrome-devtools-edit-html-live
 ---
 # Chrome Devtools Edit HTML Live
 

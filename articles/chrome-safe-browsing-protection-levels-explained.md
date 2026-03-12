@@ -17,7 +17,7 @@ tags:
 - protection
 author: theluckystrike
 permalink: chrome-safe-browsing-protection-levels-explained
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Safe Browsing Protection Levels Explained
 

@@ -15,7 +15,7 @@ tags:
 - how-to
 author: theluckystrike
 permalink: chrome-side-by-side-tabs-how-to-split-screen
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Side by Side Tabs How to Split Screen
 

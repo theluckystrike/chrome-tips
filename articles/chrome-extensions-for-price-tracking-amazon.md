@@ -4,7 +4,7 @@ description: Discover Chrome extensions for price tracking Amazon to never overp
   again. These tools help you monitor prices and buy at the right time. Check out
   our...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-price-tracking-amazon
 layout: post
 categories: '[shopping, tips]'

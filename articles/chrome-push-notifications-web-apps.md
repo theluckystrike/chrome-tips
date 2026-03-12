@@ -5,7 +5,7 @@ description: Learn how chrome push notifications web apps work, how to enable th
   and best practices for managing notifications in your browser. Learn effective tips
   an...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-push-notifications-web-apps
 categories:
 - chrome

@@ -5,7 +5,7 @@ description: Optimize Chrome GPU acceleration settings for better gaming perform
   Learn how to enable hardware acceleration and improve browser game speed. Check
   out ou
 date: '2025-02-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-gpu-acceleration-gaming-settings
 categories:
 - performance

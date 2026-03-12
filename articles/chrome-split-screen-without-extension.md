@@ -15,7 +15,7 @@ tags:
 - no-extension
 author: theluckystrike
 permalink: chrome-split-screen-without-extension
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Split Screen Without Extension
 

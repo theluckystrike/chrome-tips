@@ -15,7 +15,7 @@ tags:
 - browser-optimization
 author: theluckystrike
 permalink: chrome-speculation-rules-prefetch
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Speculation Rules Prefetch: A Complete Guide
 

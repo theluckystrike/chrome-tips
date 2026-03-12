@@ -5,7 +5,7 @@ description: Learn how to manage camera access in Chrome on your phone. Simple s
   to control permissions and protect your privacy. Check out our expert guide for
   step-by-
 date: '2025-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-camera-access-on-phone-how-to-manage
 categories:
 - troubleshooting

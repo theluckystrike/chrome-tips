@@ -16,6 +16,7 @@ tags:
 - pwa
 author: theluckystrike
 permalink: chrome-payment-handler-api-guide
+last_modified_at: '2026-03-12'
 ---
 # Chrome Payment Handler API Guide
 

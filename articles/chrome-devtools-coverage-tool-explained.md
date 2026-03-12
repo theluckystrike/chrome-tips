@@ -13,8 +13,8 @@ tags:
 - browser-tools
 - chrome-tips
 author: theluckystrike
-last_modified_at: '%Y->- (origin/fix/lastmod-batch-4)'
-permalink: /chrome-devtools-coverage-tool-explained/
+last_modified_at: '2026-03-12'
+permalink: chrome-devtools-coverage-tool-explained
 ---
 # Chrome DevTools Coverage Tool Explained
 

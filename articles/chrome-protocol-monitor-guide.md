@@ -5,7 +5,7 @@ description: Master Chrome DevTools Protocol Monitor for debugging, automation, 
   performance analysis. Learn CDP commands, event logging, automation with Puppeteer,
   an...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-protocol-monitor-guide
 categories:
 - developer-tools

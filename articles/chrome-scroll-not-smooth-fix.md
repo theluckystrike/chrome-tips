@@ -6,7 +6,7 @@ description: Is your Chrome scroll feeling rough and jerky? Learn why Chrome scr
   to l
 permalink: chrome-scroll-not-smooth-fix
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 If your Chrome scroll not smooth issue is driving you crazy, you have come to the right place. Many Chrome users experience rough, stuttering, or jerky scrolling instead of that buttery-smooth glide they expect. This problem can make reading articles, browsing social media, and navigating websites feel like a chore. The good news is that there are clear reasons why this happens and plenty of ways to get your smooth scrolling back.
 

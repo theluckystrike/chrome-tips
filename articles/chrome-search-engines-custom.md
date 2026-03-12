@@ -5,7 +5,7 @@ description: Master Chrome custom search engines to boost productivity. Learn ho
   to add search engines, create keyword shortcuts, set up site-specific search, and
   change...
 date: '2025-12-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-search-engines-custom
 categories:
 - productivity

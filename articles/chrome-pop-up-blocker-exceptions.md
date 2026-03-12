@@ -5,7 +5,7 @@ description: Learn how to configure Chrome pop up blocker exceptions for specifi
   websites that need to display popups. Step-by-step guide for desktop and mobile.
   Learn e...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-pop-up-blocker-exceptions
 categories:
 - browsers

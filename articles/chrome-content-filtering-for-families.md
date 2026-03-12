@@ -4,7 +4,7 @@ description: Learn how to set up content filtering in Chrome to protect your fam
   from harmful websites and age-inappropriate content. Read our full guide to master
   your C
 date: '2025-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-content-filtering-for-families
 layout: post
 categories:

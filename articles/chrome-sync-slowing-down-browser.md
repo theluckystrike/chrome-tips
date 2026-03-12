@@ -66,3 +66,9 @@ You can always manually export your bookmarks and passwords occasionally as a ba
 For users with slower computers, finding the right balance between sync functionality and browser performance often requires experimentation. Start with the tips above, measure your results, and adjust as needed.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome for DoorDash Web Ordering Tips](/chrome-for-doordash-web-ordering-tips)
+* [Chrome Auto Sign In to Websites How to Control](/chrome-auto-sign-in-to-websites-how-to-control)
+* [Chrome Hijacked Homepage Fix](/chrome-hijacked-homepage-fix)

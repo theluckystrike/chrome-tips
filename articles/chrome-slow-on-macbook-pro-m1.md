@@ -17,7 +17,7 @@ tags:
 - browser-speed
 author: theluckystrike
 permalink: chrome-slow-on-macbook-pro-m1
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Slow on MacBook Pro M1? Here's How to Fix It
 

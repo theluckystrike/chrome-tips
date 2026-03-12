@@ -5,7 +5,7 @@ description: Learn how to set up Chrome for the Uber web app. Optimize your brow
   for smoother rides, deliveries, and driver partner experience. Check out our expert
   reco
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-uber-web-app-setup
 categories:
 - productivity

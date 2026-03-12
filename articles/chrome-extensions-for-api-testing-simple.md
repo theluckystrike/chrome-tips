@@ -3,7 +3,7 @@ title: Chrome Extensions for API Testing Simple
 description: Looking for simple chrome extensions for API testing? Find easy-to-use
   tools for testing APIs directly in your browser. Discover how these tools can signific...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-api-testing-simple
 layout: post
 categories: '[productivity, development-tools]'

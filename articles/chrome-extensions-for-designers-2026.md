@@ -4,8 +4,8 @@ description: Discover how Best Chrome Extensions For Designers 2026 can transfor
   your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
   setti...
 date: 2026-01-15
-last_modified_at: 2026-03-11
-permalink: /articles/chrome-extensions-for-designers-2026/
+last_modified_at: '2026-03-12'
+permalink: chrome-extensions-for-designers-2026
 ---
 # Best Chrome Extensions for Designers 2026
 

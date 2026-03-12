@@ -5,7 +5,7 @@ description: Find the best Chrome extensions for Twitter X to boost productivity
   improve your feed, and enhance your overall experience on the platform. Check out
   our expe
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-twitter-x-best-extensions
 categories:
 - twitter

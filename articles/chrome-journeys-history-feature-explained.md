@@ -14,9 +14,8 @@ tags:
 - productivity
 author: theluckystrike
 permalink: chrome-journeys-history-feature-explained
-last_modified_at: '2025-01-20'
+last_modified_at: '2026-03-12'
 ---
-
 # Chrome Journeys History Feature Explained
 
 If you have ever struggled to find a webpage you visited days or weeks ago, Chrome's Journeys feature is designed specifically for you. This relatively new addition to Chrome transforms how you interact with your browsing history, grouping related pages into organized timelines that make reacquiring lost information significantly easier.
@@ -62,3 +61,9 @@ Chrome Journeys represents a significant step forward in how browsers help users
 Whether you are planning a vacation, researching a major purchase, learning a new skill, or simply trying to find that article you read last week, Journeys makes the process much more intuitive. By understanding this feature and incorporating it into your browsing routine, you can save time and reduce the frustration of lost web pages.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Web Animations API Keyframes Guide](/chrome-web-animations-api-keyframes)
+* [Chrome Local Font Access for Web Design](/chrome-local-font-access-web-design)
+* [Chrome Safe Browsing: What It Does and How It Protects You](/chrome-safe-browsing-what-it-does)

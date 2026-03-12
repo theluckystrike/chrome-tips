@@ -5,7 +5,7 @@ description: Master Chrome keyboard navigation tips to browse faster, work smart
   and reduce mouse dependency with these practical shortcuts. Check out our expert
   recomme
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-keyboard-navigation-tips
 ---
 Chrome keyboard navigation tips are something every browser user should know, whether you are looking to speed up your workflow or simply reduce the amount of time spent reaching for your mouse. If you have ever wished you could move around Chrome more quickly and efficiently, learning a handful of keyboard shortcuts can transform your browsing experience in just a few days of practice.

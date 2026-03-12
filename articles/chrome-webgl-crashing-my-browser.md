@@ -5,7 +5,7 @@ description: Is Chrome WebGL crashing your browser? Learn practical fixes for sl
   computers with limited RAM. Step-by-step solutions to stabilize your browser. Read
   our ...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-webgl-crashing-my-browser
 categories: '[troubleshooting, browser-fix]'
 tags: '[chrome-webgl, webgl-crashing, chrome-crash, browser-fix, chrome-fix, low-ram]'

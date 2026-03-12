@@ -5,7 +5,7 @@ description: Learn how to use the Chrome Permissions API to check and request ca
   and microphone access programmatically. Complete guide with code examples and best
   pr...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-permissions-api-camera-microphone
 categories:
 - development

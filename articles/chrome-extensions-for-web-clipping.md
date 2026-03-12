@@ -5,7 +5,7 @@ description: Discover the best chrome extensions for web clipping to save articl
   annotate content, and build your personal knowledge library. Read our comprehensive
   gu...
 date: 2026-03-09
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-web-clipping
 categories:
 - extensions

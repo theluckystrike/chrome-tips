@@ -16,7 +16,7 @@ tags:
 - reduce-data
 author: theluckystrike
 permalink: chrome-reduce-data-usage-tips
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Reduce Data Usage Tips
 

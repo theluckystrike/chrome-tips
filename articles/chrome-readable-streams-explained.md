@@ -4,7 +4,7 @@ title: Chrome Readable Streams Explained
 description: Learn how Chrome Readable Streams work, their use cases, and how to implement
   them for efficient data handling in web applications. Learn effective tips and ...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-readable-streams-explained
 categories:
 - development

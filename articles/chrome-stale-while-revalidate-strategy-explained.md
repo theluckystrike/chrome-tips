@@ -17,7 +17,7 @@ tags:
 - browser
 author: theluckystrike
 permalink: chrome-stale-while-revalidate-strategy-explained
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Stale While Revalidate Strategy Explained
 

@@ -15,7 +15,7 @@ tags:
 - browser
 - api
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-shared-storage-cross-site-data
 ---
 # Chrome Shared Storage and Cross-Site Data Explained

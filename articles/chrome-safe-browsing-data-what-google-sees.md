@@ -15,7 +15,7 @@ tags:
 - privacy
 author: theluckystrike
 permalink: chrome-safe-browsing-data-what-google-sees
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Safe Browsing Data What Google Sees
 

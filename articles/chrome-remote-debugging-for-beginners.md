@@ -16,7 +16,7 @@ tags:
 - developer-tools
 author: theluckystrike
 permalink: chrome-remote-debugging-for-beginners
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Remote Debugging for Beginners
 

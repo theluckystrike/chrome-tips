@@ -16,7 +16,7 @@ tags:
 - chrome-slow
 author: theluckystrike
 permalink: chrome-slow-on-battery-but-fast-plugged-in
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Why Chrome Is Slow on Battery But Fast When Plugged In
 

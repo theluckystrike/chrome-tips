@@ -74,3 +74,9 @@ Building a solid testing routine involves combining manual exploration with auto
 Testing web pages effectively in Chrome combines understanding the browser's built-in tools with knowing when to supplement with extensions and automation. The techniques covered in this chrome web page test advanced guide provide a foundation for thorough testing that catches issues before they reach your users.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Browser Management for IT Admins](/chrome-browser-management-for-it-admins)
+* [Chrome for Hiding Social Media Feeds](/chrome-for-hiding-social-media-feeds)
+* [Chrome for Removing YouTube Recommendations](/chrome-for-removing-youtube-recommendations)

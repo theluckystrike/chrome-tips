@@ -15,7 +15,7 @@ tags:
 - chrome-features
 author: theluckystrike
 permalink: chrome-search-by-image-right-click-how-to
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Search by Image Right Click How to
 

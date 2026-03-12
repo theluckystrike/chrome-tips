@@ -15,7 +15,7 @@ tags:
 - productivity
 author: theluckystrike
 permalink: chrome-reopen-closed-tab-shortcut
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Reopen Closed Tab Shortcut
 

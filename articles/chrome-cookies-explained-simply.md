@@ -4,7 +4,7 @@ description: Learn what Chrome cookies are and how they work in plain language. 
   simple guide to understanding browser cookies. Read our full guide to master your
   Chrome br
 date: '2025-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-cookies-explained-simply
 layout: post
 categories:

@@ -124,3 +124,9 @@ By understanding how to measure input delay and taking steps to minimize it, you
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Geolocation Permission Settings](/chrome-geolocation-permission-settings)
+* [Chrome Lighthouse Treemap Explained](/chrome-lighthouse-treemap-explained)
+* [Chrome Extensions for Asana](/chrome-extensions-for-asana)

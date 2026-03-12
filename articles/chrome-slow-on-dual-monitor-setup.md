@@ -17,7 +17,7 @@ tags:
 - browser-tips
 author: theluckystrike
 permalink: chrome-slow-on-dual-monitor-setup
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Slow on Dual Monitor Setup
 

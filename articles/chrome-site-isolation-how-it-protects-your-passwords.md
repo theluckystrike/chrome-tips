@@ -15,7 +15,7 @@ tags:
 - security
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-site-isolation-how-it-protects-your-passwords
 ---
 # Chrome Site Isolation How It Protects Your Passwords

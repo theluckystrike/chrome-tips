@@ -16,7 +16,7 @@ tags:
 - development
 author: theluckystrike
 permalink: chrome-source-maps-debug-minified-code
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # How to Debug Minified Code Using Chrome Source Maps
 

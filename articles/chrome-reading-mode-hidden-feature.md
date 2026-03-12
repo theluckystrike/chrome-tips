@@ -4,7 +4,7 @@ title: Chrome Reading Mode Hidden Feature
 description: Discover Chrome's hidden reading mode feature that simplifies web pages
   for distraction-free reading. Learn effective tips and tricks to optimize your Chrome...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-reading-mode-hidden-feature
 categories:
 - productivity

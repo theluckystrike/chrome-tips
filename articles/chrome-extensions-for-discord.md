@@ -4,8 +4,8 @@ description: Discover how Chrome Extensions For Discord can transform your brows
   This comprehensive 2026 guide covers the best Chrome extensions and settings to
   boost...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: /articles/chrome-extensions-for-discord/
+last_modified_at: '2026-03-12'
+permalink: chrome-extensions-for-discord
 ---
 # Chrome Extensions for Discord
 

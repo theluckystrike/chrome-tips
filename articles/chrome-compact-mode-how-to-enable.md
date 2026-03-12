@@ -4,7 +4,7 @@ description: 'Learn how to enable compact mode in Chrome to reduce browser clutt
   and save screen space. Simple steps for a cleaner browsing experience. Read our
   full guide '
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-compact-mode-how-to-enable
 layout: post
 categories:

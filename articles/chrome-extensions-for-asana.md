@@ -4,7 +4,7 @@ description: Discover the best Chrome extensions for Asana that can help you man
   projects, track tasks, and boost your team productivity. Discover how these tools
   can ...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-asana
 layout: post
 categories: '[productivity, project-management, tips]'

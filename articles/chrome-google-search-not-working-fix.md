@@ -5,7 +5,7 @@ description: Is Chrome Google search not working? Try these simple solutions to 
   your search bar working again. Check out our expert recommendations and tips to
   enhance
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-google-search-not-working-fix
 categories:
 - troubleshooting

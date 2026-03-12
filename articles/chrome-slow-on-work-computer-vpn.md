@@ -16,7 +16,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 permalink: chrome-slow-on-work-computer-vpn
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM
 

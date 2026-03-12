@@ -5,7 +5,7 @@ description: Should you use Chrome push notifications or email for updates? A pr
   comparison to help you choose the best communication method. Learn effective tips
   ...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-push-notifications-vs-email-comparison
 categories:
 - comparison

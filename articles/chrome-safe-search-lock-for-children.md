@@ -15,7 +15,7 @@ tags:
 - kids-browser
 author: theluckystrike
 permalink: chrome-safe-search-lock-for-children
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # How to Lock Safe Search in Chrome for Children
 

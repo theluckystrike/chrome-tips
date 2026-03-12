@@ -15,7 +15,7 @@ tags:
 - web-animations
 author: theluckystrike
 permalink: chrome-requestanimationframe-explained
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome requestanimationframe Explained: What It Means for Your Browser
 

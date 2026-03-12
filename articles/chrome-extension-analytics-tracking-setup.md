@@ -16,6 +16,7 @@ tags:
 - development
 author: theluckystrike
 permalink: chrome-extension-analytics-tracking-setup
+last_modified_at: '2026-03-12'
 ---
 # Chrome Extension Analytics Tracking Setup
 

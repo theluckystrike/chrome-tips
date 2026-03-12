@@ -5,7 +5,7 @@ description: Learn how to set up and use Gemini AI in Chrome for smarter browsin
   and enhanced productivity. Check out our expert recommendations and tips to enhance
   your b
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-gemini-integration-how-to-use
 categories:
 - productivity

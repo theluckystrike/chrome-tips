@@ -70,3 +70,9 @@ As web applications become more complex and resource-intensive, features like pa
 Understanding these features helps you make informed decisions about your browsing habits and tool choices. While you don't need to become an expert in browser internals, knowing what paint holding does and why it matters can help you appreciate the engineering that goes into making Chrome work better for everyone.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [chrome lighthouse performance score explained simply](/chrome-lighthouse-performance-score-explained-simply)
+* [Chrome for Jira Best Extensions](/chrome-for-jira-best-extensions)
+* [Chrome Web Store Extensions Not Installing: Fixes That Actually Work](/chrome-web-store-extensions-not-installing)

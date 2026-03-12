@@ -15,7 +15,7 @@ tags:
 - setup-guide
 author: theluckystrike
 permalink: chrome-remote-desktop-setup-guide
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Remote Desktop Setup Guide
 

@@ -15,7 +15,7 @@ tags:
 - students
 author: theluckystrike
 permalink: chrome-slow-on-school-laptop-how-to-fix
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Slow on School Laptop? Here's How to Fix It
 

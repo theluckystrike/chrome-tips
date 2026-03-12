@@ -5,7 +5,7 @@ description: Learn how Chrome handles PWA updates, what happens behind the scene
   and how to ensure your progressive web app stays up to date. Learn effective tips
   and t...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-pwa-update-mechanism-how-it-works
 categories:
 - pwa

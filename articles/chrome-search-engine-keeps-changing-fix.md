@@ -71,3 +71,9 @@ Consider using an extension like Tab Suspender Pro for additional browser manage
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Extension Popup Page Tutorial](/chrome-extension-popup-page-tutorial)
+* [Chrome Sandboxing How It Protects You](/chrome-sandboxing-how-it-protects-you)
+* [Chrome CORS Error for Regular Users](/chrome-cors-error-for-regular-users)

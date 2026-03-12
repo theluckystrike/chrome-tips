@@ -4,7 +4,7 @@ description: Learn how Chrome extensions for mouse gestures navigation can speed
   your browsing and reduce keyboard reliance. Check out our expert recommendations
   and...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-mouse-gestures-navigation
 layout: post
 categories: '[browsing, tips]'

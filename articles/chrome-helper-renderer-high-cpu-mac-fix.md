@@ -5,7 +5,7 @@ description: Is Chrome making your Mac run hot and slow? Learn practical fixes t
   reduce Chrome Helper Renderer CPU usage on Mac. Check out our expert recommendations
   and t
 date: '2025-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-helper-renderer-high-cpu-mac-fix
 categories:
 - performance

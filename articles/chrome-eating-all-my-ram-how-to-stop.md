@@ -88,3 +88,9 @@ Chrome eating all your RAM does not mean you need to abandon the browser. With t
 Combining these strategies gives you the best results. Try each approach and see which combination works best for your workflow. Your computer will run smoother, and you will no longer have to ask how to stop Chrome from eating all your RAM.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Must Have Chrome Extensions for Students](/must-have-chrome-extensions-for-students)
+* [Chrome Client Hints Explained for Beginners](/chrome-client-hints-explained-for-beginners)
+* [chrome new tab page how to customize](/chrome-new-tab-page-how-to-customize)

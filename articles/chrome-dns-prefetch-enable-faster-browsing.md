@@ -70,3 +70,9 @@ Some specialized websites with unique server configurations may also see reduced
 However, for most users browsing typical websites, enabling DNS prefetch delivers noticeable improvements with no downside. The feature uses minimal additional resources while saving time on every page navigation.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [chrome topics api privacy sandbox explained](/chrome-topics-api-privacy-sandbox-explained)
+* [Chrome Extensions Keep Disabling Themselves Fix](/chrome-extensions-keep-disabling-themselves-fix)
+* [Chrome for Multiple Search Engines Switching](/chrome-for-multiple-search-engines-switching)

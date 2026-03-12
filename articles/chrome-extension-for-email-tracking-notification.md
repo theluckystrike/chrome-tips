@@ -4,7 +4,7 @@ description: Learn how chrome extension for email tracking notification works an
   how to get alerts when your emails are opened by recipients. Check out our expert
   recommend
 date: '2026-01-01'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-email-tracking-notification
 layout: post
 ---

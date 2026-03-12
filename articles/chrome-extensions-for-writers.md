@@ -4,7 +4,7 @@ description: Discover the best chrome extensions for writers in 2026 to improve 
   writing workflow, boost productivity, and create better content with tools like
   ProWr...
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-writers
 layout: post
 categories:

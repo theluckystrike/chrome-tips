@@ -16,7 +16,7 @@ tags:
 - security
 author: theluckystrike
 permalink: chrome-surfshark-extension-review-2026
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Surfshark Extension Review 2026
 

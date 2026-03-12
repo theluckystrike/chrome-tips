@@ -15,7 +15,7 @@ tags:
 - chrome-fix
 author: theluckystrike
 permalink: chrome-sync-between-devices-not-working-fix
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Sync Between Devices Not Working Fix
 

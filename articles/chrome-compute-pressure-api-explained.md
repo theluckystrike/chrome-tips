@@ -4,7 +4,7 @@ description: Learn what Chrome Compute Pressure API does, how it affects your br
   and what you can do about this feature. Read our full guide to master your Chrome
   bro
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-compute-pressure-api-explained
 layout: post
 categories:

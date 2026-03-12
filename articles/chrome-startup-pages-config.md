@@ -15,7 +15,7 @@ tags:
 - startup-pages
 author: theluckystrike
 permalink: chrome-startup-pages-config
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Startup Pages Configuration
 

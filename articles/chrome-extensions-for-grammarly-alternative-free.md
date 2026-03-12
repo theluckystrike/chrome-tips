@@ -3,7 +3,7 @@ title: Chrome Extensions for Grammarly Alternative Free
 description: Looking for chrome extensions for grammarly alternative free? Find the
   best free grammar checkers that catch mistakes without costing anything. Check out...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-grammarly-alternative-free
 layout: post
 categories: '[writing, tips]'

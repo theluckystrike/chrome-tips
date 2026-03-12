@@ -16,7 +16,7 @@ tags:
 - chrome-fix
 author: theluckystrike
 permalink: chrome-restore-previous-session-after-crash
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Restore Previous Session After Crash
 

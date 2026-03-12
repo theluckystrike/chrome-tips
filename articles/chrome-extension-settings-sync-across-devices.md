@@ -4,7 +4,7 @@ description: Learn why chrome extension settings sync across devices can fail an
   how to fix it with simple steps. Discover how these tools can significantly improve
   your...
 date: '2025-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-settings-sync-across-devices
 layout: post
 categories: '[troubleshooting, tips]'

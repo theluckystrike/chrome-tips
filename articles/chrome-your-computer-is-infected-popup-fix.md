@@ -5,7 +5,7 @@ description: That 'Your computer is infected' popup in Chrome is a scam. Learn h
   to identify fake alerts, remove malware, and protect your browser with practical
   step-b...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-your-computer-is-infected-popup-fix
 categories: '[chrome, security, malware, popup-fix]'
 tags: '[chrome-popup, fake-alert, malware-removal, browser-security, scam]'

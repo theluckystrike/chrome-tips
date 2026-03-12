@@ -5,7 +5,7 @@ description: Learn how to use Chrome for white noise while working to block dist
   and improve focus during your workday. Check out our expert recommendations and
   tip
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-white-noise-while-working
 categories:
 - productivity

@@ -108,3 +108,9 @@ If you're working on optimizing your Chrome experience while waiting for these n
 The CSS Masonry proposal shows promise in making web layouts more capable and performant. Stay tuned for updates as the specification evolves and browser support expands.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome High Memory Usage Windows 11](/chrome-high-memory-usage-windows-11)
+* [Chrome for Window Management Extensions](/chrome-for-window-management-extensions)
+* [Chrome ERR_NETWORK_CHANGED Fix](/chrome-err-network-changed-fix)

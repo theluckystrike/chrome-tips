@@ -4,7 +4,7 @@ title: Chrome Reader View How to Enable on Any Site
 description: Learn how to enable Chrome reader view on any website to remove distractions
   and read articles comfortably without ads or clutter. Learn effective tips and t...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-reader-view-how-to-enable-on-any-site
 categories:
 - reading

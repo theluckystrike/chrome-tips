@@ -16,7 +16,7 @@ tags:
 - performance
 author: theluckystrike
 permalink: chrome-startup-time-how-to-measure
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Startup Time How to Measure
 

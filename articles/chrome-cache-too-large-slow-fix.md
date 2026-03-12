@@ -18,7 +18,7 @@ tags:
 - chrome-settings
 author: theluckystrike
 permalink: chrome-cache-too-large-slow-fix
-last_modified_at: '2025-02-20'
+last_modified_at: '2026-03-12'
 ---
 # How to Fix Chrome Cache Too Large and Slow Performance
 

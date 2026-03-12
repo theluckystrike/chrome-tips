@@ -59,3 +59,9 @@ The deprecation of First Meaningful Paint reflects how web performance measureme
 For developers, this change means updating their performance testing tools and focusing on different optimization strategies. For regular users, it means that websites optimized for LCP should feel faster and more responsive when loaded in Chrome. Understanding these changes helps everyone make better decisions about how they build and use the web.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [How to Simulate Slow Connection in Chrome](/chrome-network-throttling-how-to-simulate-slow-connection)
+* [Chrome Password Not Autofilling Fix](/chrome-password-not-autofilling-fix)
+* [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)

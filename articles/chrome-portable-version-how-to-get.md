@@ -4,7 +4,7 @@ title: chrome portable version how to get
 description: Learn how to get a portable version of Chrome that runs without installation.
   Easy methods to use Chrome anywhere without admin rights. Learn effective tips ...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-portable-version-how-to-get
 categories:
 - features

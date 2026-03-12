@@ -4,7 +4,7 @@ description: Getting ERR_CACHE_MISS in Chrome? Learn why this error happens and 
   steps to fix it and get back to browsing. Check out our expert recommendations and
   ste
 date: '2025-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-err-cache-miss-fix
 layout: post
 categories: '[troubleshooting, tips]'

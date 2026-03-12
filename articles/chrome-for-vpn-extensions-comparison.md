@@ -5,7 +5,7 @@ description: A practical guide comparing Chrome VPN extensions to help you choos
   the right one for secure, private browsing. Check out our expert recommendations
   and tips
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-vpn-extensions-comparison
 categories:
 - extensions

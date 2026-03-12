@@ -4,7 +4,7 @@ description: 'Complete list of Chrome experimental features in 2026. Find the be
   hidden flags to enhance your browsing experience. Check out our expert recommendations
   and '
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-experimental-features-list-2026
 layout: post
 categories: '[features, customization]'

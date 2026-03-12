@@ -5,7 +5,7 @@ description: Discover the best Chrome performance settings configuration to spee
   up your browser, reduce memory usage, and improve overall responsiveness. Learn
   effectiv...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-performance-settings-best-configuration
 categories:
 - performance

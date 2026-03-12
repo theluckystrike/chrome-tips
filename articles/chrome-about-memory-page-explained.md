@@ -62,3 +62,9 @@ By understanding how Chrome manages memory through these internal pages and feat
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Network Speed in Developer Tools](/chrome-network-speed-in-developer-tools)
+* [Chrome Cookies Explained Simply](/chrome-cookies-explained-simply)
+* [Chrome for Amazon Fresh Web Ordering](/chrome-for-amazon-fresh-web-ordering)

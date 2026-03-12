@@ -15,7 +15,7 @@ tags:
 - chrome-privacy
 author: theluckystrike
 permalink: chrome-security-checkup-how-to-run
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Security Checkup How to Run
 

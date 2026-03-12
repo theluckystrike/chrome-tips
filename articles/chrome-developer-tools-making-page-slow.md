@@ -14,8 +14,8 @@ tags:
 - memory
 - troubleshooting
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-developer-tools-making-page-slow/
+last_modified_at: '2026-03-12'
+permalink: chrome-developer-tools-making-page-slow
 ---
 # Chrome Developer Tools Making Page Slow: What You Need to Know
 

@@ -5,7 +5,7 @@ description: Learn how to customize Chrome toolbar with extensions, themes, and 
   to improve your browsing experience. Read our comprehensive guide to learn more
   a...
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: how-to-customize-chrome-toolbar
 categories: '[customization, browser, tips]'
 tags: '[chrome-toolbar, chrome-customization, browser-tips, chrome-settings]'

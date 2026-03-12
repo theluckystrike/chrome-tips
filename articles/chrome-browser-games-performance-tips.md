@@ -4,7 +4,7 @@ title: Chrome Browser Games Performance Tips
 description: Improve your Chrome browser games performance with these practical tips.
   Get smoother gameplay and faster loading times. Check out our expert guide for step-by-
 date: '2025-02-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-browser-games-performance-tips
 categories:
 - performance

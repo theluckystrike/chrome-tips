@@ -5,7 +5,7 @@ description: Learn how to set up chrome web push notifications for your website.
   simple guide for beginners. Read our comprehensive guide to learn more and optimize
   you...
 date: '2026-01-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-web-push-notifications-setup-guide
 categories: '[tutorials, notifications]'
 tags: '[chrome, web-push, notifications, browser]'

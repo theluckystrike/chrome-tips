@@ -5,7 +5,7 @@ description: Learn how Chrome guest browsing keeps your data private when sharin
   a computer with family, friends, or coworkers. Check out our expert recommendations
   and ti
 date: '2025-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-guest-browsing-for-shared-computers
 categories:
 - privacy

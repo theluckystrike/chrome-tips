@@ -5,7 +5,7 @@ description: Learn how Chrome precaching and runtime caching work to speed up yo
   browsing, and how to manage them effectively. Learn effective tips and tricks to
   optimi...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-precaching-vs-runtime-caching
 categories:
 - tips

@@ -5,7 +5,7 @@ description: Discover the best Chrome extensions for Spotify that enhance your m
   experience, improve playlists, and boost productivity. Read our comprehensive guide
   t...
 date: 2026-03-09
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-spotify
 categories:
 - entertainment

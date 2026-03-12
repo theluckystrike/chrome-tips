@@ -5,7 +5,7 @@ description: Learn how to get started with Chrome WebGPU API for high-performanc
   Read our comprehensive guide to learn more and optimize your browser experience
   with the...
 date: '2026-01-20'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-webgpu-api-getting-started
 categories: ''
 tags: ''

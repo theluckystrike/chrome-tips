@@ -3,7 +3,7 @@ title: Chrome Extensions for Image Downloader Bulk
 description: Find the best Chrome extensions for image downloader bulk. Download multiple
   images at once with these powerful tools. Check out our expert recommendations...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-image-downloader-bulk
 layout: post
 categories: '[image-download, chrome-extensions, productivity, tips]'

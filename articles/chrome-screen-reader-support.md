@@ -15,7 +15,7 @@ tags:
 - chrome-features
 author: theluckystrike
 permalink: chrome-screen-reader-support
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Screen Reader Support: A Complete Guide
 

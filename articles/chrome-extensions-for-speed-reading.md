@@ -4,7 +4,7 @@ title: Chrome Extensions for Speed Reading
 description: Discover Chrome extensions for speed reading that can help you read faster
   online and process more content in less time. Read our comprehensive guide to lear...
 date: 2026-03-09
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-speed-reading
 categories:
 - reading

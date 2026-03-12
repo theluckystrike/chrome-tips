@@ -4,7 +4,7 @@ description: Discover Chrome extensions that show you how long pages take to loa
   Find out what slows down your browsing and how to fix it. Discover how these tools
   can ...
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-viewing-page-load-time
 layout: post
 categories: '[performance, extensions]'

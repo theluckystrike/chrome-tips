@@ -4,6 +4,7 @@ title: Chrome Startup Slow? Too Many Extensions Could Be the Problem
 description: Is Chrome taking forever to open? Learn how too many extensions can slow
   down your browser startup and what you can do about it.
 permalink: chrome-startup-slow-too-many-extensions
+last_modified_at: '2026-03-12'
 ---
 Chrome startup slow issues can turn your quick browser check into a frustrating wait. You double-click the Chrome icon, watch the clock tick, and finally, after what feels like an eternity, your homepage appears. While there are several factors that can affect how quickly Chrome launches, one of the most common culprits is having too many extensions installed.
 

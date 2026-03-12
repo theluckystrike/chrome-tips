@@ -5,7 +5,7 @@ description: Chrome not responding on Windows 11 laptop. Find solutions to fix C
   freezing, lagging, and not responding on your Windows 11 device. Learn effective
   tip...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-not-responding-on-windows-11-laptop
 categories:
 - troubleshooting

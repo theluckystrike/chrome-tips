@@ -107,3 +107,9 @@ Scroll-driven animations represent an exciting frontier in web design, offering 
 As web technologies continue to evolve, we can expect to see even more innovative uses of scroll-driven animations in the future. So the next time you scroll through a beautifully animated website, you'll have a better understanding of the technology making it all possible.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Safe Search How to Lock](/chrome-safe-search-how-to-lock)
+* [Chrome Coverage Tool: Find Unused JavaScript](/chrome-coverage-tool-find-unused-javascript)
+* [Chrome Canary vs Stable Difference Explained](/chrome-canary-vs-stable-difference-explained)

@@ -5,7 +5,7 @@ description: Discover the best Chrome extensions for automatically grouping tabs
   keep your browser organized and boost your productivity. Read our comprehensive
   guide ...
 date: 2026-03-10
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-tab-grouping-automatically
 categories:
 - browsing

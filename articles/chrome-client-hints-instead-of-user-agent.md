@@ -5,7 +5,7 @@ description: Chrome is replacing the User-Agent string with Client Hints. Learn 
   this means for web developers, privacy, and how to adapt your websites. Check out
   our ex
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-client-hints-instead-of-user-agent
 categories:
 - web-development

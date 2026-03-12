@@ -3,7 +3,7 @@ title: Chrome Extension Not Working After Update Fix
 description: Your chrome extension not working after update fix? Here's why it happens
   and simple solutions to get your extensions working again. Discover how these tools...
 date: '2025-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-not-working-after-update-fix
 layout: post
 categories: '[extensions, troubleshooting]'

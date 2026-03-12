@@ -5,7 +5,7 @@ description: Learn how to turn on Chrome reader mode in 2026 to enjoy distractio
   reading on any website. Simple steps inside. Learn effective tips and tricks to
   opt...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-reader-mode-how-to-turn-on-2026
 categories:
 - browsing

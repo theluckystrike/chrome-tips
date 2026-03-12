@@ -17,7 +17,7 @@ tags:
 - slack-slow
 author: theluckystrike
 permalink: chrome-slack-web-app-slow-fix
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # How to Fix Slow Slack Web App in Chrome
 

@@ -5,7 +5,7 @@ description: Need to pull data from tables on websites? Learn which Chrome exten
   help extract table data quickly and easily. Read our comprehensive guide to learn
   mo...
 date: 2026-03-10
-last_modified_at: 2026-03-09
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-table-data-extractor
 ---
 Chrome extensions for table data extractor tools can save you hours of tedious work. If you have ever found yourself manually copying information from tables on websites into spreadsheets, you know how frustrating and time-consuming it can be. Let me explain why this problem happens and what you can do about it.

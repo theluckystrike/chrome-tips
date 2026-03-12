@@ -5,7 +5,7 @@ description: Do web apps use more battery than native apps? A practical guide co
   Chrome web apps and native mobile applications. Read our comprehensive guide to
   le...
 date: '2026-02-01'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-web-app-vs-native-app-battery-comparison
 categories: '[comparison, performance, battery]'
 tags: '[chrome-web-app, native-app, battery-comparison, pwa]'

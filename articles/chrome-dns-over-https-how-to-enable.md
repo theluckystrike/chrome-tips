@@ -5,7 +5,7 @@ description: Learn how to enable DNS over HTTPS in Chrome to improve your privac
   and security while browsing. Simple steps anyone can follow. Explore our comprehensive
   ...
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: '2026-03-12'
 permalink: chrome-dns-over-https-how-to-enable
 ---
 # Chrome DNS Over HTTPS How to Enable

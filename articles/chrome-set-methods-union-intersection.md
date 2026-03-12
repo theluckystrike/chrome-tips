@@ -14,7 +14,7 @@ tags:
 - programming
 author: theluckystrike
 permalink: chrome-set-methods-union-intersection
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Set Methods: Union and Intersection Made Simple
 

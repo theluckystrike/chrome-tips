@@ -80,3 +80,9 @@ A fresh installation removes any corrupted files or settings that may be causing
 Slow Chrome performance doesn't have to be a permanent problem. By removing unnecessary extensions, managing open tabs, clearing cached data, and keeping your browser updated, you can significantly improve loading times. Regular maintenance and good browsing habits will keep Chrome running smoothly for the long term.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome for Mendeley Web Importer Tips](/chrome-for-mendeley-web-importer-tips)
+* [Chrome Side Panel Extensions Worth Using](/chrome-side-panel-extensions-worth-using)
+* [Chrome Extensions For Dns Lookup](//articles/chrome-extensions-for-dns-lookup/)

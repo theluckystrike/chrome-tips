@@ -5,7 +5,7 @@ description: Is Chrome opening in a tiny window every time? Learn why this happe
   and how to fix it with simple solutions. Learn effective tips and tricks to optimize
   yo...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-opens-in-small-window-fix
 categories:
 - troubleshooting

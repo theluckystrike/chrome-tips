@@ -16,7 +16,7 @@ tags:
 - browser-fix
 author: theluckystrike
 permalink: chrome-slow-on-ipad-why
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Slow on iPad Why: Causes and Solutions
 

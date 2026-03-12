@@ -4,7 +4,7 @@ description: Discover Chrome extensions that help you block distractions and sta
   focused. Simple tools to improve concentration and productivity. Check out our expert
   recom
 date: '2026-01-01'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-focus-mode-block-distractions
 layout: post
 ---

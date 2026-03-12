@@ -17,7 +17,7 @@ tags:
 - mobile-debugging
 author: theluckystrike
 permalink: chrome-remote-debugging-setup-guide
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Remote Debugging Setup Guide
 

@@ -4,7 +4,7 @@ description: 'Learn how to check your website''s Core Web Vitals in Chrome. Step
   guide to measure LCP, FID, and CLS using built-in tools and extensions. Read our
   full '
 date: '2026-01-01'
-last_modified_at: '%Y->-'
+last_modified_at: '2026-03-12'
 permalink: chrome-core-web-vitals-check-my-website
 layout: post
 ---

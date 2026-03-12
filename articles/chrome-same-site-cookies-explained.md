@@ -102,3 +102,9 @@ SameSite cookies are a fundamental part of modern web security. They protect use
 Whether you're debugging a website issue or simply curious about how your browser protects you, understanding SameSite=Lax, Strict, and None settings gives you insight into the complex ecosystem of web privacy and security.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Idle Detection API Explained: What It Means for Your Browser](/chrome-idle-detection-api-explained)
+* [chrome zoom default change](/chrome-zoom-default-change)
+* [Chrome Navigate to Next Search Result Shortcut](/chrome-navigate-to-next-search-result-shortcut)

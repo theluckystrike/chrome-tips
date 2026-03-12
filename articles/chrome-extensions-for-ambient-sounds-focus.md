@@ -4,7 +4,7 @@ description: Struggling to focus? Learn how ambient sound extensions can help bl
   distractions and improve concentration. Discover how these tools can significantly
   imp...
 date: '2026-01-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-ambient-sounds-focus
 layout: post
 categories: '[productivity, extensions]'

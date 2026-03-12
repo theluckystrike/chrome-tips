@@ -4,7 +4,7 @@ title: Chrome Gesture Navigation Complete Guide
 description: Master Chrome gesture navigation on desktop and mobile. Learn mouse gestures,
   touch controls, and hidden shortcuts to browse faster without keyboard shortcuts.
 date: '2026-01-20'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-gesture-navigation
 categories:
 - productivity

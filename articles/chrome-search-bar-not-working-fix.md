@@ -15,7 +15,7 @@ tags:
 - troubleshooting
 author: theluckystrike
 permalink: chrome-search-bar-not-working-fix
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # How to Fix Chrome Search Bar Not Working
 

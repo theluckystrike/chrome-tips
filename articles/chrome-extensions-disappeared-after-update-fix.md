@@ -4,7 +4,7 @@ description: Chrome extensions disappeared after update fix. Here's why extensio
   vanish after Chrome updates and how to get them back quickly. Discover how these
   tools ...
 date: '2025-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-disappeared-after-update-fix
 layout: post
 categories: '[extensions, troubleshooting]'

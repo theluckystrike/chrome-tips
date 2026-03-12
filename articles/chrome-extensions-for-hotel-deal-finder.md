@@ -3,7 +3,7 @@ title: Chrome Extensions for Hotel Deal Finder
 description: Find the best hotel deals easily with Chrome extensions. Learn how these
   tools compare prices, track rates, and help you save money on accommodations.
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-hotel-deal-finder
 layout: post
 categories: '[travel, tips]'

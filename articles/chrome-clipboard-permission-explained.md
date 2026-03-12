@@ -4,7 +4,7 @@ description: Learn why Chrome asks for clipboard permission and how to manage it
   safer browsing. Simple steps to control what apps can access. Read our full guide
   to mas
 date: '2026-01-15'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-clipboard-permission-explained
 layout: post
 categories:

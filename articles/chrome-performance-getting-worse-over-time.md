@@ -4,7 +4,7 @@ title: Chrome Performance Getting Worse Over Time
 description: Is your Chrome browser running slower than before? Learn why chrome performance
   getting worse over time happens and how to fix it. Learn effective tips and t...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-performance-getting-worse-over-time
 categories:
 - performance

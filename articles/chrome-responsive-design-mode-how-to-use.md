@@ -15,7 +15,7 @@ tags:
 - design-mode
 author: theluckystrike
 permalink: chrome-responsive-design-mode-how-to-use
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Responsive Design Mode: How to Use It Effectively
 

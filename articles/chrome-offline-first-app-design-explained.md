@@ -5,7 +5,7 @@ description: Learn what chrome offline first app design means, how it works, and
   it matters for your browsing experience. Learn effective tips and tricks to optimize
   ...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-offline-first-app-design-explained
 categories:
 - browser

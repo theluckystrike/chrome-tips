@@ -5,7 +5,7 @@ description: Want to view mobile versions of websites on your desktop? Learn sim
   ways to force mobile sites in Chrome without developer tools. Check out our expert
   recom
 date: '2026-01-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-force-mobile-site-on-desktop
 categories:
 - browsing

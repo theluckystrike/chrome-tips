@@ -16,7 +16,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 permalink: chrome-send-to-device-feature-how-to-use
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Send to Device Feature How to Use
 

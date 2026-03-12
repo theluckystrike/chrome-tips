@@ -52,3 +52,9 @@ Whether the Chrome Beta channel is worth using depends entirely on your situatio
 You can always try Beta temporarily and switch back to Stable if it does not work out. The transition is simple and your bookmarks, passwords, and settings will remain intact. Many users find it helpful to spend a week or two on Beta to see if the upcoming features appeal to them, then return to Stable until the next major release cycle.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [What Happens When Chrome Extension Is Removed From Store](/what-happens-when-chrome-extension-is-removed-from-store)
+* [Chrome for Canvas LMS Best Extensions](/chrome-for-canvas-lms-best-extensions)
+* [Chrome Dock Icon Missing Fix Mac](/chrome-dock-icon-missing-fix-mac)

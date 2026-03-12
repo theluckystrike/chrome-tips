@@ -16,7 +16,7 @@ tags:
 - memory
 author: theluckystrike
 permalink: chrome-tab-groups-vs-windows
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Tab Groups vs Multiple Windows
 

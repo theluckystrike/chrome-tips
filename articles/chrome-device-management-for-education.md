@@ -14,8 +14,8 @@ tags:
 - chromebooks
 - school-it
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-device-management-for-education/
+last_modified_at: '2026-03-12'
+permalink: chrome-device-management-for-education
 ---
 # Chrome Device Management for Education
 

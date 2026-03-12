@@ -5,7 +5,7 @@ description: Improve your Chrome game streaming with these simple optimization t
   Reduce lag and enjoy smoother gameplay. Check out our expert recommendations and
   tips t
 date: '2025-02-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-game-streaming-optimization-tips
 categories:
 - performance

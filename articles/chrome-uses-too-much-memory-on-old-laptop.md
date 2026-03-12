@@ -15,9 +15,8 @@ tags:
 - chrome-settings
 author: theluckystrike
 permalink: chrome-uses-too-much-memory-on-old-laptop
-last_modified_at: '2025-12-11'
+last_modified_at: '2026-03-12'
 ---
-
 # Chrome Uses Too Much Memory on Old Laptop
 
 If your old laptop crawls to a halt whenever you open Chrome, you are not alone. Many users with aging hardware experience this frustrating issue where Chrome seems to consume all available memory, making even simple tasks feel impossible. The good news is that there are effective ways to reduce Chrome memory usage on older laptops and restore reasonable performance.

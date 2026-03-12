@@ -15,7 +15,7 @@ tags:
 - mobile-browser
 author: theluckystrike
 permalink: chrome-slow-on-android-fix
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Slow on Android Fix
 

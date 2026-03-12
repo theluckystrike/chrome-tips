@@ -16,7 +16,7 @@ tags:
 - productivity
 author: theluckystrike
 permalink: chrome-side-panel-customization
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Side Panel Customization: Complete Guide for 2026
 

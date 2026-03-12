@@ -15,7 +15,7 @@ tags:
 - reduce-data
 author: theluckystrike
 permalink: chrome-reduce-data-usage-on-mobile
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Reduce Data Usage on Mobile
 

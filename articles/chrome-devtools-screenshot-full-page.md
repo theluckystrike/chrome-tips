@@ -5,7 +5,7 @@ description: Learn how to take full page screenshots using Chrome DevTools. Step
   guide for capturing entire web pages easily. Explore our comprehensive guide to
   ...
 date: 2025-02-19
-last_modified_at: 2026-03-09
+last_modified_at: '2026-03-12'
 permalink: chrome-devtools-screenshot-full-page
 ---
 # Chrome Devtools Screenshot Full Page

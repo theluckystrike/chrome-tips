@@ -4,7 +4,7 @@ title: 'Laptop Freezing When Opening Chrome: Practical Solutions That Actually W
 description: Is your laptop freezing when opening Chrome? Discover proven fixes for
   slow computers with limited RAM. Simple steps you can try right now. Read our comprehe...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: laptop-freezing-when-opening-chrome
 categories: '[performance, chrome, troubleshooting]'
 tags: '[chrome-freezing, laptop-freezing, slow-computer, chrome-performance, memory-issues]'

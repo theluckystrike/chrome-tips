@@ -5,7 +5,7 @@ description: Looking for chrome extensions for url shortener? Find the best tool
   to create short, clean links easily. Read our comprehensive guide to learn more
   and boos...
 date: 2026-03-09
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-url-shortener
 categories:
 - productivity

@@ -5,7 +5,7 @@ description: Is Chrome eating all your Mac's memory? Learn practical ways to red
   Chrome's RAM usage on Mac, from built-in settings to helpful extensions. Read our
   comp...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: how-to-limit-chrome-ram-usage-mac
 categories: '[performance, chrome, mac]'
 tags: '[chrome-ram, mac-performance, chrome-optimization, memory-management]'

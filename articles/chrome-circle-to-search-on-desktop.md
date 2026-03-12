@@ -5,7 +5,7 @@ description: Learn how to get Circle to Search functionality on your Chrome desk
   browser. Simple methods to search anything on screen without typing. Check out our
   expert
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-circle-to-search-on-desktop
 categories:
 - features

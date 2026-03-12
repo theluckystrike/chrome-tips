@@ -5,7 +5,7 @@ description: 'Chrome sandbox mode is a security feature that keeps you safe whil
   browsing. Learn what it does and why it matters. Read our comprehensive guide to
   learn more '
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-sandbox-mode-explained-simply
 categories:
 - security

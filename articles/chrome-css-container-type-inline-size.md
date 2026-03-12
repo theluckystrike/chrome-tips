@@ -16,6 +16,7 @@ tags:
 - web-development
 author: theluckystrike
 permalink: chrome-css-container-type-inline-size
+last_modified_at: '2026-03-12'
 ---
 # Chrome CSS Container Type Inline Size: A Complete Guide
 

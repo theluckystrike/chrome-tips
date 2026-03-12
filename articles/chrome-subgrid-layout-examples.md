@@ -6,7 +6,7 @@ description: Explore practical Chrome subgrid layout examples that demonstrate h
   CSS s...
 permalink: chrome-subgrid-layout-examples
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Subgrid Layout Examples
 

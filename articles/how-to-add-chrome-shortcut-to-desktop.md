@@ -5,7 +5,7 @@ description: Learn how to add a Chrome shortcut to your desktop in simple steps 
   quick access to your browser. Read our comprehensive guide to learn more and optimize
   ...
 date: '2026-01-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: how-to-add-chrome-shortcut-to-desktop
 categories: '[tips, chrome]'
 tags: '[chrome, shortcuts, desktop, browser]'

@@ -15,7 +15,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 permalink: chrome-sidebar-bookmarks-how-to-enable
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Sidebar Bookmarks How to Enable
 

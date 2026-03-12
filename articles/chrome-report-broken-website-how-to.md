@@ -15,7 +15,7 @@ tags:
 - browser-help
 author: theluckystrike
 permalink: chrome-report-broken-website-how-to
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Report Broken Website How To
 

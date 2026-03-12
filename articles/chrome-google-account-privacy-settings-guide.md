@@ -5,7 +5,7 @@ description: Learn how to manage your Google account privacy settings in Chrome 
   protect your data and control what information Google collects. Check out our expert
   reco
 date: '2026-01-20'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-google-account-privacy-settings-guide
 categories:
 - privacy

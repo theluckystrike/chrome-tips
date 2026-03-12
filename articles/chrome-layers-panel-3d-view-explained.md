@@ -5,7 +5,7 @@ description: A comprehensive guide to understanding and using Chrome DevTools La
   Panel 3D View for diagnosing rendering performance issues. Check out our expert
   recomme
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-layers-panel-3d-view-explained
 categories:
 - performance

@@ -3,7 +3,7 @@ layout: post
 title: Chrome Site Data How Much Storage Used
 description: Learn how to check and manage chrome site data storage to free up space and improve browser performance.
 date: 2025-01-15
-last_modified_at: '2025-03-12'
+last_modified_at: '2026-03-12'
 permalink: chrome-site-data-how-much-storage-used
 categories:
 - settings
@@ -17,7 +17,6 @@ tags:
 - performance
 author: theluckystrike
 ---
-
 # Chrome Site Data How Much Storage Used
 
 Chrome stores a surprising amount of information from the websites you visit. This data, known as site data, includes cookies, cached files, local storage, and other temporary files that help websites load faster and remember your preferences. Understanding how much storage Chrome is using can help you free up valuable disk space and potentially speed up your browser.
@@ -71,3 +70,9 @@ Consider using Chrome's built-in performance settings to manage resource usage. 
 For users with limited disk space, limiting the number of websites that can store data can be helpful. You can configure Chrome to block all site data and only allow exceptions for trusted websites. This approach provides additional privacy benefits but may reduce convenience for some users.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome vs Brave Privacy Comparison](/chrome-vs-brave-privacy-comparison)
+* [Chrome Running Slow on New Laptop? Here's Why and How to Fix It](/chrome-running-slow-on-new-laptop-why)
+* [Chrome for Etsy Seller Best Extensions](/chrome-for-etsy-seller-best-extensions)

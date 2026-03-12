@@ -17,7 +17,7 @@ tags:
 - progressive-web-apps
 author: theluckystrike
 permalink: chrome-shortcuts-in-pwa-how-to-define
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Shortcuts in PWA How to Define
 

@@ -150,3 +150,9 @@ To begin using chrome print to PDF from command line, start with the basic comma
 The learning curve is gentle, and the payoff comes quickly. Even a simple script that saves three or four important pages automatically each week can save significant time over months of manual work.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [How to Find Unused CSS and JS Using Chrome Coverage Tab](/chrome-coverage-tab-find-unused-css-js)
+* [Chrome How to Clear Individual Site Data](/chrome-how-to-clear-individual-site-data)
+* [Chrome Flags to Enable for Speed](/chrome-flags-to-enable-for-speed)

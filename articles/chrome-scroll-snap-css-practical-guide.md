@@ -135,3 +135,9 @@ Scroll snap is a powerful CSS feature that adds polish and professionalism to yo
 Start with simple implementations and gradually add complexity as you become more comfortable with the properties. The examples in this guide provide a solid foundation that you can adapt and expand for any project you encounter.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Homepage Changed by Itself Fix](/chrome-homepage-changed-by-itself-fix)
+* [Chrome Clean Install: What to Backup First](/chrome-clean-install-what-to-backup-first)
+* [Chrome Screen Capture API Guide](/chrome-screen-capture-api)

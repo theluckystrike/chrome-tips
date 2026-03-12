@@ -4,7 +4,7 @@ description: Master Chrome DevTools console utilities including dollar sign sele
   monitor, copy, debug, keys, and values. Boost productivity with these essential
   con...
 date: '2026-01-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-console-utilities-guide
 layout: default
 categories:

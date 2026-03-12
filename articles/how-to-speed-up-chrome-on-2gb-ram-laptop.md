@@ -5,7 +5,7 @@ description: Practical tips to make Chrome run faster on a laptop with only 2GB 
   Simple changes that can transform your browsing experience. Read our comprehensive
   gu...
 date: '2025-02-19'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: how-to-speed-up-chrome-on-2gb-ram-laptop
 categories: '[performance]'
 tags: '[chrome-speed, low-ram, laptop-optimization]'

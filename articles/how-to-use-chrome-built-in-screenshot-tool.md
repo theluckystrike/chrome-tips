@@ -5,7 +5,7 @@ description: Learn how to use Chrome's built-in screenshot feature to capture an
   save parts of web pages quickly and easily. Read our comprehensive guide to learn
   more a...
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: how-to-use-chrome-built-in-screenshot-tool
 categories: '[tutorials, chrome, productivity]'
 tags: '[chrome, screenshot, browser-tools, productivity]'

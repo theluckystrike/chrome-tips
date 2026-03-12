@@ -13,8 +13,8 @@ tags:
 - productivity
 - chrome-settings
 author: theluckystrike
-last_modified_at: '%Y->- (origin/fix/lastmod-batch-4)'
-permalink: /chrome-desktop-shortcuts-how-to-create/
+last_modified_at: '2026-03-12'
+permalink: chrome-desktop-shortcuts-how-to-create
 ---
 # Chrome Desktop Shortcuts How to Create
 

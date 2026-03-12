@@ -5,7 +5,7 @@ description: Learn how to use Chrome Performance Monitor and FPS counter to trac
   browser performance. Discover built-in tools and extensions for measuring frame
   rates an...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-performance-monitor-fps-counter
 categories:
 - features

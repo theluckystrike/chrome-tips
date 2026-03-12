@@ -4,7 +4,7 @@ description: Learn how Chrome extensions for Amazon price history help you see p
   price trends and buy at the best time. Discover tools that show historical pricing
   data.
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-amazon-price-history
 layout: post
 categories: '[shopping, tips]'

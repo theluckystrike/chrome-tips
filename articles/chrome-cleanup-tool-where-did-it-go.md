@@ -5,7 +5,7 @@ description: The Chrome Cleanup Tool was removed, but you still need browser cle
   options. Learn where it went and what alternatives work best for computers with
   limit...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-cleanup-tool-where-did-it-go
 categories:
 - performance

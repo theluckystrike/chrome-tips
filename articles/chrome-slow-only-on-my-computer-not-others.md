@@ -15,7 +15,7 @@ tags:
 - browser-performance
 author: theluckystrike
 permalink: chrome-slow-only-on-my-computer-not-others
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Slow Only on My Computer Not Others: Why and How to Fix It
 

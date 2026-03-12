@@ -14,7 +14,7 @@ tags:
 - remote-access
 author: theluckystrike
 permalink: chrome-remote-desktop-slow-fix
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Remote Desktop Slow Fix
 

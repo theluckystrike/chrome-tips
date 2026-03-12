@@ -5,7 +5,7 @@ description: Chrome cast tab to TV not working can be frustrating. Learn why it 
   and follow simple steps to get your casting working again. Check out our expert
   guide
 date: '2025-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-cast-tab-to-tv-not-working-fix
 categories:
 - troubleshooting

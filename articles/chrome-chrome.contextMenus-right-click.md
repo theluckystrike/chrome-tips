@@ -14,6 +14,7 @@ tags:
 - developer
 author: theluckystrike
 permalink: chrome-chrome.contextMenus-right-click
+last_modified_at: '2026-03-12'
 ---
 # How to Create Custom Right-Click Context Menus in Chrome Extensions
 

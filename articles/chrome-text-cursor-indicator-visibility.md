@@ -18,6 +18,7 @@ tags:
 - text-navigation
 author: theluckystrike
 permalink: chrome-text-cursor-indicator-visibility
+last_modified_at: '2026-03-12'
 ---
 # How to Show Text Cursor Indicator Visibility in Chrome
 

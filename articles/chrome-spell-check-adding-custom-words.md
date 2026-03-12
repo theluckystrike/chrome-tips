@@ -14,7 +14,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 permalink: chrome-spell-check-adding-custom-words
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Spell Check Adding Custom Words
 

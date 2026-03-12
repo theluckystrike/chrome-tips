@@ -5,7 +5,7 @@ description: Discover the best chrome extensions for Trello to boost your produc
   and manage projects more efficiently. Read our comprehensive guide to learn more
   an...
 date: 2026-03-09
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-trello
 categories:
 - productivity

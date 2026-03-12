@@ -4,7 +4,7 @@ title: Chrome vs Firefox Memory Usage Comparison 2024
 description: A practical comparison of Chrome and Firefox memory usage in 2024 to
   help you choose the right browser for your system.
 date: 2024-01-15
-last_modified_at: '2024-01-15'
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-firefox-memory-usage-comparison-2024
 categories:
 - browsers

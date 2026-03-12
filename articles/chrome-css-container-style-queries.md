@@ -16,6 +16,7 @@ tags:
 - web-development
 author: theluckystrike
 permalink: chrome-css-container-style-queries
+last_modified_at: '2026-03-12'
 ---
 # Chrome CSS Container Style Queries: The Next Evolution in Responsive Design
 

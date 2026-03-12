@@ -4,8 +4,8 @@ description: Discover how Chrome Extensions For Diigo can transform your browsin
   This comprehensive 2026 guide covers the best Chrome extensions and settings to
   boost p...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: /articles/chrome-extensions-for-diigo/
+last_modified_at: '2026-03-12'
+permalink: chrome-extensions-for-diigo
 ---
 # Chrome Extensions for Diigo
 

@@ -4,8 +4,8 @@ description: Discover how Chrome Extensions For Cover Letter Writing can transfo
   your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
   sett...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: /articles/chrome-extensions-for-cover-letter-writing/
+last_modified_at: '2026-03-12'
+permalink: chrome-extensions-for-cover-letter-writing
 ---
 # Chrome Extensions for Cover Letter Writing
 

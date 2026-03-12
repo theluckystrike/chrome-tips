@@ -4,7 +4,7 @@ description: Discover the best Chrome extensions for productivity students to ac
   their studies, manage time effectively, and accomplish more with less stress. Check
   out...
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-productivity-students
 layout: post
 categories: '[productivity, students, tips]'

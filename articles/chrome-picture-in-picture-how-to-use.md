@@ -5,7 +5,7 @@ description: Learn how to use Chrome's Picture in Picture feature to watch video
   in a floating window while browsing other tabs. Learn effective tips and tricks
   to optim...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-picture-in-picture-how-to-use
 categories:
 - features

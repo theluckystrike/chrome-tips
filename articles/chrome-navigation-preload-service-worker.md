@@ -54,3 +54,9 @@ As a regular Chrome user, you do not need to do anything special to benefit from
 The next time you click a link on a website that works offline or sends you notifications, remember that navigation preload is likely working to ensure that click leads to a fast, responsive page load, even while the service worker gets ready in the background.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Slow on Your Old MacBook? Here's How to Fix It](/chrome-slow-on-old-macbook-fix)
+* [chrome for kayak price alerts extension](/chrome-for-kayak-price-alerts-extension)
+* [Chrome Gesture Navigation Complete Guide](/chrome-gesture-navigation)

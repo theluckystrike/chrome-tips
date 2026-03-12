@@ -5,7 +5,7 @@ description: Learn how to enable and use Chrome reading list to save web pages f
   later. Simple steps for desktop and mobile. Read our comprehensive guide to learn
   more ...
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: how-to-enable-chrome-reading-list
 categories: '[chrome, tips]'
 tags: '[chrome-reading-list, browser-tips, save-pages]'

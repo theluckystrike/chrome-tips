@@ -3,7 +3,7 @@ title: chrome extension rejected common reasons fix
 description: Learn why Chrome extensions get rejected and discover the most common
   reasons for rejection along with practical fixes to get your extension approved.
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-rejected-common-reasons-fix
 layout: post
 categories: '[extensions, development]'

@@ -3,7 +3,7 @@ title: Chrome Extensions for Noscript Alternative
 description: Looking for chrome extensions for noscript alternative? Find the best
   tools to manage scripts and improve browser performance. Check out our expert...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-noscript-alternative
 layout: post
 categories: '[productivity, performance, privacy]'

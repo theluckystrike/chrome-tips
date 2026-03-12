@@ -4,8 +4,8 @@ description: Discover how Chrome Extensions For Calendar Integration can transfo
   your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
   sett...
 date: 2026-03-10
-last_modified_at: 2026-03-10
-permalink: /articles/chrome-extensions-for-calendar-integration/
+last_modified_at: '2026-03-12'
+permalink: chrome-extensions-for-calendar-integration
 ---
 # Chrome Extensions for Calendar Integration
 

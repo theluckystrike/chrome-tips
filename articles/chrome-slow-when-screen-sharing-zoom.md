@@ -16,7 +16,7 @@ tags:
 - browser-tips
 author: theluckystrike
 permalink: chrome-slow-when-screen-sharing-zoom
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM
 

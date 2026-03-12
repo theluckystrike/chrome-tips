@@ -5,7 +5,7 @@ description: Looking for chrome extensions for tab sleeping automatically? Disco
   how automatic tab sleeping can keep your browser fast. Read our comprehensive guide
   to...
 date: 2026-03-10
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-tab-sleeping-automatically
 categories:
 - productivity

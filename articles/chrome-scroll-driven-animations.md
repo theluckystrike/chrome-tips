@@ -15,7 +15,7 @@ tags:
 - browser-features
 author: theluckystrike
 permalink: chrome-scroll-driven-animations
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Scroll-Driven Animations: Complete Guide for 2026
 

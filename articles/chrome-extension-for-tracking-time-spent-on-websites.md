@@ -4,7 +4,7 @@ description: Learn how to use a chrome extension for tracking time spent on webs
   to understand your browsing habits and improve productivity. Discover how these
   tools...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-tracking-time-spent-on-websites
 layout: post
 categories: '[productivity, tips]'

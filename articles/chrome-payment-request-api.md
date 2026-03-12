@@ -5,7 +5,7 @@ description: Learn how Chrome Payment Request API enables seamless digital walle
   payments, Google Pay integration, shipping options, and secure payment methods in
   modern...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-payment-request-api
 categories:
 - chrome

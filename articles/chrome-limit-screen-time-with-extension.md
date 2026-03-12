@@ -5,7 +5,7 @@ description: Learn how to use Chrome extensions to limit screen time, block dist
   websites, and stay productive. Check out our expert recommendations and tips to
   enha
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-limit-screen-time-with-extension
 categories:
 - productivity

@@ -86,3 +86,9 @@ Once you've resolved the immediate problem, adopt practices that prevent it from
 By implementing these habits, you'll find that the ERR_INSUFFICIENT_RESOURCES error becomes a rare occurrence rather than a frequent frustration.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+* [Chrome PWA Install Prompt Not Showing Fix](/chrome-pwa-install-prompt-not-showing-fix)
+* [First Input Delay Chrome Optimize](/first-input-delay-chrome-optimize)

@@ -15,7 +15,7 @@ tags:
 - chrome-version
 author: theluckystrike
 permalink: chrome-release-schedule-when-next-update
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Release Schedule: When Is the Next Update?
 

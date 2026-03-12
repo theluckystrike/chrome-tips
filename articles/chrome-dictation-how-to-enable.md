@@ -4,7 +4,7 @@ title: Chrome Dictation How to Enable
 description: Learn how to enable Chrome dictation and use voice input to type hands-free.
   Simple steps for desktop and mobile. Explore our comprehensive guide to masteri...
 date: 2025-03-12
-last_modified_at: 2026-03-09
+last_modified_at: '2026-03-12'
 permalink: chrome-dictation-how-to-enable
 ---
 # Chrome Dictation How to Enable

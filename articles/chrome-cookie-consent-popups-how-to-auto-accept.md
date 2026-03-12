@@ -4,7 +4,7 @@ description: Tired of clicking cookie consent popups on every website? Learn how
   auto accept cookies in Chrome with simple solutions. Read our full guide to master
   your C
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-cookie-consent-popups-how-to-auto-accept
 layout: post
 categories:

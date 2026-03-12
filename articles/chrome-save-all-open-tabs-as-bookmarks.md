@@ -15,7 +15,7 @@ tags:
 - keyboard-shortcuts
 author: theluckystrike
 permalink: chrome-save-all-open-tabs-as-bookmarks
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Save All Open Tabs as Bookmarks
 

@@ -6,8 +6,9 @@ date: 2026-01-16
 categories: [chrome, web-development, view-transitions]
 tags: [chrome-view-transitions, web-api, css, animation, browser]
 author: theluckystrike
+permalink: chrome-cross-document-view-transitions
+last_modified_at: '2026-03-12'
 ---
-
 # Chrome Cross-Document View Transitions: A Complete Guide
 
 Chrome's cross-document view transitions represent one of the most exciting advancements in modern web development. This feature allows developers to create smooth, animated transitions between different pages of a website, something that was previously only possible with heavy JavaScript libraries or single-page application frameworks. If you have ever wanted your website to feel more like a native app with seamless page changes, view transitions might be exactly what you need.
@@ -69,3 +70,9 @@ Third, test on real devices, not just emulators. Animation performance can vary 
 While you are exploring Chrome's modern features, consider using extensions that can improve your browsing workflow. **Tab Suspender Pro** is a tool that automatically suspends tabs you are not using, reducing memory usage and keeping your browser running smoothly. It pairs well with modern Chrome features and helps you get the most out of your browser.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome First Meaningful Paint Deprecated Why](/chrome-first-meaningful-paint-deprecated-why)
+* [Chrome Download Manager Best Extension](/chrome-download-manager-best-extension)
+* [Chrome Recorder and DevTools: A Guide to Test Automation](/chrome-recorder-devtools-test-automation)

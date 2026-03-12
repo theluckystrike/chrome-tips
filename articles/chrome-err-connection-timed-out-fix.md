@@ -4,7 +4,7 @@ description: Learn how to fix the Chrome err connection timed out error with sim
   troubleshooting steps that anyone can follow. Check out our expert recommendations
   and st
 date: '2026-01-01'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-err-connection-timed-out-fix
 layout: post
 ---

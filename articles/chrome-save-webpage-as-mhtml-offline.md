@@ -17,7 +17,7 @@ tags:
 - browser-tips
 author: theluckystrike
 permalink: chrome-save-webpage-as-mhtml-offline
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # How to Save Webpages as MHTML Files in Chrome for Offline Viewing
 

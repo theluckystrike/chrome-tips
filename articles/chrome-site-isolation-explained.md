@@ -17,7 +17,7 @@ tags:
 - process-isolation
 author: theluckystrike
 permalink: chrome-site-isolation-explained
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Site Isolation Explained
 

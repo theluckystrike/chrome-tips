@@ -15,7 +15,7 @@ tags:
 - content-filter
 author: theluckystrike
 permalink: chrome-restricted-mode-youtube-how-to-enable
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Restricted Mode YouTube How to Enable
 

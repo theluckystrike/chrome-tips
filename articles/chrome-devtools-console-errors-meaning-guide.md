@@ -14,8 +14,8 @@ tags:
 - browser-debugging
 - web-development
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-devtools-console-errors-meaning-guide/
+last_modified_at: '2026-03-12'
+permalink: chrome-devtools-console-errors-meaning-guide
 ---
 # Chrome DevTools Console Errors Meaning: A Practical Guide
 

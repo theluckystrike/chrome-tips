@@ -15,7 +15,7 @@ tags:
 - browser-speed
 author: theluckystrike
 permalink: chrome-scrolling-lag-fix
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Scrolling Lag Fix
 

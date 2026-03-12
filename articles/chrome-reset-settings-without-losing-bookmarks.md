@@ -92,3 +92,9 @@ For users who frequently keep many tabs open, consider using extensions that man
 With your settings restored to defaults and your bookmarks safe, Chrome should feel like new again. Enjoy the improved performance and cleaner interface.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Window Size Not Saving Fix](/chrome-window-size-not-saving-fix)
+* [Chrome Extensions for Grammar Check Free Alternative](/chrome-extensions-for-grammar-check-free-alternative)
+* [Chrome Installer Failed to Start Fix](/chrome-installer-failed-to-start-fix)

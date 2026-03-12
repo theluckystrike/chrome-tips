@@ -95,3 +95,9 @@ Enabling Chrome Memory Saver mode is one of the simplest ways to improve your br
 Take a minute to enable this feature today and experience the difference firsthand. Your computer will thank you.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [How to Put Chrome Portable Version on a USB Drive](/chrome-portable-version-usb-drive-how)
+* [Chrome for Social Media Management Extensions](/chrome-for-social-media-management-extensions)
+* [Chrome Safe Browsing Data What Google Sees](/chrome-safe-browsing-data-what-google-sees)

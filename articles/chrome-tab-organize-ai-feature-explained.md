@@ -15,7 +15,7 @@ tags:
 - browser-tips
 author: theluckystrike
 permalink: chrome-tab-organize-ai-feature-explained
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Tab Organize AI Feature Explained
 

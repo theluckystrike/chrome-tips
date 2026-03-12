@@ -5,7 +5,7 @@ description: Learn how to reduce input lag and improve responsiveness in Chrome 
   a better gaming experience. Check out our expert recommendations and tips to enhance
   you
 date: '2025-02-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-low-latency-mode-for-gaming
 categories:
 - performance

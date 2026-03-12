@@ -80,3 +80,9 @@ Enabling parallel downloading in Chrome is a straightforward process that can de
 Give the feature a try with your next large download and see the difference for yourself. Combined with good browsing habits and proper tab management, parallel downloading helps make Chrome an even more efficient tool for getting things done online.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome vs Safari on Mac — Which Uses Less Battery?](/chrome-vs-safari-on-mac-battery)
+* [Chrome User Data Directory Explained](/chrome-user-data-directory-explained)
+* [Chrome for BitChute Web Player](/chrome-for-bitchute-web-player)

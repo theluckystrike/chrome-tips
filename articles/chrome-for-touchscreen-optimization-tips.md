@@ -5,7 +5,7 @@ description: Discover chrome for touchscreen optimization tips to make your brow
   smoother on tablets and touch devices. Practical settings and tricks inside. Check
   out
 date: '2025-03-16'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-touchscreen-optimization-tips
 categories:
 - mobile

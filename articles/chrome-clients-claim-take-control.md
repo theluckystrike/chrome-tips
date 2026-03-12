@@ -15,6 +15,7 @@ tags:
 - privacy
 author: theluckystrike
 permalink: chrome-clients-claim-take-control
+last_modified_at: '2026-03-12'
 ---
 # Chrome Clients Claim Take Control: What It Means for Your Browser
 

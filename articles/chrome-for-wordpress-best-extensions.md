@@ -5,7 +5,7 @@ description: Discover the best Chrome extensions for WordPress that can streamli
   your workflow and boost productivity. Check out our expert recommendations and tips
   to en
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-wordpress-best-extensions
 categories:
 - wordpress

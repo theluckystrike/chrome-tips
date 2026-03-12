@@ -15,7 +15,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 permalink: chrome-running-slow-on-new-laptop-why
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Running Slow on New Laptop? Here's Why and How to Fix It
 

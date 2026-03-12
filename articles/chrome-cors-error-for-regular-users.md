@@ -4,7 +4,7 @@ description: Getting a CORS error in Chrome can be confusing. Learn what causes 
   why it happens, and how to fix it without technical knowledge. Read our full guide
   to mas
 date: '2025-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-cors-error-for-regular-users
 layout: post
 categories:

@@ -14,6 +14,7 @@ tags:
 - browser
 author: theluckystrike
 permalink: chrome-raster-thread-high-cpu-fix
+last_modified_at: '2026-03-12'
 ---
 # How to Fix Chrome Raster Thread High CPU Usage
 

@@ -16,7 +16,7 @@ tags:
 - browser-performance
 author: theluckystrike
 permalink: chrome-streaming-video-buffering-fix
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Streaming Video Buffering Fix
 

@@ -5,7 +5,7 @@ description: Discover Chrome extensions and settings that transform Wikipedia in
   a cleaner, more focused reading experience. Check out our expert recommendations
   and tips
 date: '2025-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-wikipedia-enhanced-reading
 categories:
 - productivity

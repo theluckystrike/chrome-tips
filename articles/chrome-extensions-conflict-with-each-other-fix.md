@@ -4,7 +4,7 @@ description: Chrome extensions conflict with each other? Learn why it happens an
   how to fix conflicts between Chrome extensions in simple steps. Discover how these
   tools...
 date: '2025-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-conflict-with-each-other-fix
 layout: post
 categories: '[extensions, troubleshooting]'

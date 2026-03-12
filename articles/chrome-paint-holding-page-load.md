@@ -5,7 +5,7 @@ description: Learn how Chrome paint holding page load optimization works, why it
   for your browsing experience, and how it reduces perceived loading times. Learn
   e...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-paint-holding-page-load
 categories:
 - performance

@@ -3,7 +3,7 @@ title: Chrome Extensions for Page Zoom Per Site
 description: Discover Chrome extensions that let you set different zoom levels for
   Check out our expert recommendations and tips to enhance your browsing experience...
 date: '2026-03-10'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-page-zoom-per-site
 layout: post
 ---

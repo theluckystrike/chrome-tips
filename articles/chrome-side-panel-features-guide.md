@@ -17,7 +17,7 @@ tags:
 - chrome-extensions
 author: theluckystrike
 permalink: chrome-side-panel-features-guide
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Side Panel Features Guide
 

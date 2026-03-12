@@ -5,7 +5,7 @@ description: A practical comparison of Chrome and Edge browser memory usage in 2
   Find out which browser uses less RAM and learn tips to reduce memory usage. Read
   our ...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-edge-ram-usage-comparison-2026
 categories: '[performance, browsers]'
 tags: '[chrome, edge, ram-usage, browser-comparison, memory]'

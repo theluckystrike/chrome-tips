@@ -5,7 +5,7 @@ description: Learn how to configure proxy settings in Chrome. Step-by-step guide
   set up, change, or disable proxy for secure browsing. Learn effective tips and tricks
   ...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-proxy-settings-how-to-configure
 categories:
 - settings

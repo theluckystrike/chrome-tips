@@ -16,7 +16,7 @@ tags:
 - chrome-mobile-sync
 author: theluckystrike
 permalink: chrome-sync-phone-and-computer-how-to-set-up
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Sync Phone and Computer How to Set Up
 

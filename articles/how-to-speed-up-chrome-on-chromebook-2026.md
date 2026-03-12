@@ -5,7 +5,7 @@ description: Simple ways to make Chrome run faster on your Chromebook. Easy twea
   anyone can do. Read our comprehensive guide to learn more and optimize your browser
   exp...
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: how-to-speed-up-chrome-on-chromebook-2026
 categories: '[chromebook, performance]'
 tags: '[chromebook, chrome-speed, browser-optimization, chromebook-tips]'

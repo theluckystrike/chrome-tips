@@ -3,7 +3,7 @@ title: Chrome Extensions for Session Saver Restore
 description: Learn how to use Chrome extensions for session saver and restore to never
   lose your open tabs again. Check out our expert recommendations and tips to...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-session-saver-restore
 layout: post
 categories: '[tips]'

@@ -4,7 +4,7 @@ description: Learn which video downloading Chrome extensions are legal and how t
   stay within the law while saving videos. Discover how these tools can significantly
   impr...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-video-downloading-legal
 layout: post
 categories: '[legal, extensions]'

@@ -4,7 +4,7 @@ description: Learn how to use the CSS color-mix function in Chrome to blend colo
   directly in your stylesheets. Simple guide for beginners. Read our full guide to
   master yo
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-color-mix-function-css
 layout: post
 categories:

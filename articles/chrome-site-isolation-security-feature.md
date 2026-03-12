@@ -16,7 +16,7 @@ tags:
 - privacy
 author: theluckystrike
 permalink: chrome-site-isolation-security-feature
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Site Isolation: What It Is and Why It Matters for Your Security
 

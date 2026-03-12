@@ -15,7 +15,7 @@ tags:
 - productivity
 author: theluckystrike
 permalink: chrome-reopen-accidentally-closed-tab-how
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Reopen Accidentally Closed Tab How
 

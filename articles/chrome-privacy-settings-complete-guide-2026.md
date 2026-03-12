@@ -4,7 +4,7 @@ title: chrome privacy settings complete guide 2026
 description: A complete guide to Chrome privacy settings in 2026. Learn how to protect
   your data, block trackers, and secure your browsing. Learn effective tips and trick...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-privacy-settings-complete-guide-2026
 categories:
 - privacy

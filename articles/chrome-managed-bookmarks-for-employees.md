@@ -5,7 +5,7 @@ description: Learn how to set up Chrome managed bookmarks so your team can acces
   important work resources quickly and consistently. Check out our expert recommendations
   an
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-managed-bookmarks-for-employees
 categories:
 - bookmarks

@@ -5,7 +5,7 @@ description: Is Chrome not working on your Fire tablet? Try these simple fixes t
   get Chrome running smoothly again on your Amazon Fire device. Learn effective tips
   and t...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-not-working-on-fire-tablet-fix
 categories:
 - browsers

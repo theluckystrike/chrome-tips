@@ -100,3 +100,9 @@ Chrome preconnect and preload are simple but powerful tools for improving page l
 The key is to use these directives sparingly and only for resources that truly matter. Focus on critical third-party domains and essential page resources. When implemented properly, you will notice faster page loads and a smoother browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [chrome how to allow popups for one site](/chrome-how-to-allow-popups-for-one-site)
+* [Chrome for Website Monitoring Extensions](/chrome-for-website-monitoring-extensions)
+* [chrome high contrast mode how to enable](/chrome-high-contrast-mode-how-to-enable)

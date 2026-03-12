@@ -4,7 +4,7 @@ description: Learn what Chrome cookies are, how they work, and how to manage the
   A simple guide for everyday users. Read our full guide to master your Chrome browser
   exper
 date: '2025-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-cookies-explained-for-beginners
 layout: post
 categories:

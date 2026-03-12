@@ -5,7 +5,7 @@ description: Learn how Chrome Memory Saver works, why it matters for your comput
   performance, and how to use it effectively along withTab Suspender Pro. Check out
   our e
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-memory-saver-explained
 categories:
 - productivity

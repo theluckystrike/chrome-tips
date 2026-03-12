@@ -4,7 +4,7 @@ description: Learn how to use emoji in Chrome with keyboard shortcuts. Quick ste
   to insert emoji on desktop. Check out our expert recommendations and step-by-step
   instruct
 date: '2026-01-01'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-emoji-keyboard-shortcut-how-to-use
 layout: post
 ---

@@ -5,7 +5,7 @@ description: Learn how to use the Chrome Keyboard Lock API to capture keyboard i
   for immersive fullscreen web games. Step-by-step guide with code examples. Check
   out ou
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-keyboard-lock-api-fullscreen-games
 categories:
 - chrome

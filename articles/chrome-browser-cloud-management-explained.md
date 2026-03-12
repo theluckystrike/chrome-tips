@@ -5,7 +5,7 @@ description: Learn what Chrome browser cloud management means and how it helps y
   sync and control your browser settings across devices. Check out our expert guide
   for step
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-browser-cloud-management-explained
 categories:
 - browsers

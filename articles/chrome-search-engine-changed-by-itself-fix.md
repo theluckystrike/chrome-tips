@@ -14,7 +14,7 @@ tags:
 - search-engine-fix
 author: theluckystrike
 permalink: chrome-search-engine-changed-by-itself-fix
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Search Engine Changed by Itself Fix
 

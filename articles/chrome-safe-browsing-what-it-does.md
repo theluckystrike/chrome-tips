@@ -16,7 +16,7 @@ tags:
 - protection
 author: theluckystrike
 permalink: chrome-safe-browsing-what-it-does
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Safe Browsing: What It Does and How It Protects You
 

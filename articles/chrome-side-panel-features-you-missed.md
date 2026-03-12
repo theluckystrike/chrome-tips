@@ -15,7 +15,7 @@ tags:
 - side-panel
 author: theluckystrike
 permalink: chrome-side-panel-features-you-missed
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Side Panel Features You Missed
 

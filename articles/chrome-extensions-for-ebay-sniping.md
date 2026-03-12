@@ -4,8 +4,8 @@ description: Discover how Chrome Extensions For Ebay Sniping can transform your 
   This comprehensive 2026 guide covers the best Chrome extensions and settings to
   ...
 date: 2026-03-09
-last_modified_at: 2026-03-11
-permalink: /articles/chrome-extensions-for-ebay-sniping/
+last_modified_at: '2026-03-12'
+permalink: chrome-extensions-for-ebay-sniping
 ---
 # Chrome Extensions for eBay Sniping
 

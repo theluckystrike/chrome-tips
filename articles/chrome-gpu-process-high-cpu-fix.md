@@ -5,7 +5,7 @@ description: Discover effective solutions for chrome gpu process high cpu usage.
   why Chrome's GPU process consumes excessive resources and how to fix it. Check out
   ou
 date: '2025-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-gpu-process-high-cpu-fix
 categories:
 - troubleshooting

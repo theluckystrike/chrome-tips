@@ -4,7 +4,7 @@ description: Learn how to identify Chrome extension conflicts that cause crashes
   practical steps to fix them. Check out our expert recommendations and step-by-step
   instr
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-conflict-causing-crashes
 layout: post
 categories: '[troubleshooting, extensions]'

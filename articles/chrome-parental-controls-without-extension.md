@@ -5,7 +5,7 @@ description: Looking for chrome parental controls without extension? Discover bu
   Chrome features and tools like Google Family Link to keep kids safe online. Learn
   e...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-parental-controls-without-extension
 categories:
 - family

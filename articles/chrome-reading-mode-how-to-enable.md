@@ -5,7 +5,7 @@ description: Enable and customize Chrome's Reading Mode for distraction-free rea
   Remove ads, sidebars, and clutter from any article with one click. Learn effective
   t...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-reading-mode-how-to-enable
 categories:
 - features

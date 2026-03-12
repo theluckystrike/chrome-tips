@@ -16,7 +16,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 permalink: chrome-tab-groups-auto-create-organize
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # How to Auto Create and Organize Chrome Tab Groups
 

@@ -19,7 +19,7 @@ tags:
 - scrolling
 author: theluckystrike
 permalink: chrome-rendering-panel-guide
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Rendering Panel Guide
 

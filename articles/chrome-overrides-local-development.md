@@ -5,7 +5,7 @@ description: Learn how to use Chrome overrides for local development. Master wor
   mapping, persistent changes, CSS editing, and local file overrides to streamline
   yo...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-overrides-local-development
 categories:
 - development

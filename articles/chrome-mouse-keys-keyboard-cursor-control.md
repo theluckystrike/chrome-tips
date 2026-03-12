@@ -6,8 +6,9 @@ date: 2026-03-12
 categories: [accessibility, browser, productivity]
 tags: [chrome, mouse-keys, keyboard, accessibility, cursor, navigation]
 author: theluckystrike
+permalink: chrome-mouse-keys-keyboard-cursor-control
+last_modified_at: '2026-03-12'
 ---
-
 # Chrome Mouse Keys Keyboard Cursor Control
 
 Ever wished you could control your cursor without reaching for your mouse? Whether you're dealing with a broken mouse, looking to boost your productivity, or need better accessibility options, Chrome mouse keys offers a powerful solution. This feature lets you move your cursor, click, and interact with web pages using only your number pad. Let's explore how to enable and use this handy feature.
@@ -89,3 +90,9 @@ The feature is particularly valuable for users with repetitive strain injuries (
 Chrome's accessibility features extend beyond mouse keys. You can also enable screen reader support, high contrast mode, and focus highlighting to make web browsing more accessible. These features work together to create a more inclusive browsing experience.
 
 Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Print to PDF Without Margins](/chrome-print-to-pdf-without-margins)
+* [Chrome Fenced Frames Explained](/chrome-fenced-frames-guide)
+* [Chrome Screen Share Not Working Fix – Complete Troubleshooting Guide](/chrome-screen-share-not-working-fix)

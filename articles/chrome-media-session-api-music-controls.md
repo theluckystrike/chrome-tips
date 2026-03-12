@@ -5,7 +5,7 @@ description: Learn how Chrome's Media Session API lets you control music playbac
   directly from your browser. Full keyboard shortcuts, notification controls, and
   integrat...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-media-session-api-music-controls
 categories:
 - chrome

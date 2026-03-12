@@ -15,7 +15,7 @@ tags:
 - browser-protection
 author: theluckystrike
 permalink: chrome-spectre-attack-protection-in-browser
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Spectre Attack Protection in Browser
 

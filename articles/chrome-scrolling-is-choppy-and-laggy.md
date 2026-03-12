@@ -16,7 +16,7 @@ tags:
 - slow-computer
 author: theluckystrike
 permalink: chrome-scrolling-is-choppy-and-laggy
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Scrolling is Choppy and Laggy
 

@@ -15,8 +15,8 @@ tags:
 - chrome-extension
 - security
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-dashlane-vs-onepassword-comparison/
+last_modified_at: '2026-03-12'
+permalink: chrome-dashlane-vs-onepassword-comparison
 ---
 # Chrome Dashlane vs 1Password Comparison
 

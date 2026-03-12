@@ -18,7 +18,7 @@ tags:
 - productivity
 author: theluckystrike
 permalink: chrome-tab-audio-routing-separate-speakers
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # How to Route Chrome Tab Audio to Separate Speakers
 

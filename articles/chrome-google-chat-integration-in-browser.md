@@ -5,7 +5,7 @@ description: Learn how to integrate Google Chat into Chrome for smoother messagi
   better tab management, and improved productivity. Check out our expert recommendations
   a
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-google-chat-integration-in-browser
 categories:
 - productivity

@@ -3,8 +3,8 @@ title: Chrome Extensions For Bookmark Manager
 description: Discover how Chrome Extensions For Bookmark Manager can transform your
   browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings...
 date: 2026-03-09
-last_modified_at: 2026-03-10
-permalink: /articles/chrome-extensions-for-bookmark-manager/
+last_modified_at: '2026-03-12'
+permalink: chrome-extensions-for-bookmark-manager
 ---
 # Chrome Extensions for Bookmark Manager
 

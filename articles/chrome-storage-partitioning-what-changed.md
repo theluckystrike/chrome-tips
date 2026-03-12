@@ -16,7 +16,7 @@ tags:
 - tracking
 author: theluckystrike
 permalink: chrome-storage-partitioning-what-changed
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Storage Partitioning: What Changed and Why It Matters
 

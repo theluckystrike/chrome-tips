@@ -4,7 +4,7 @@ title: Chrome Clear Data for One Site Without Clearing All
 description: Learn how to clear browsing data for a single website in Chrome without
   deleting all your cookies, cache, and history. Check out our expert guide for step-by-st
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-clear-data-for-one-site-without-clearing-all
 ---
 If you are searching for chrome clear data for one site without clearing all, you probably want to fix a problem with a specific website without losing your saved logins and preferences on other sites. Maybe one website keeps crashing, shows outdated information, or logs you out repeatedly. You should not have to wipe your entire browser history and start fresh just to fix one troublesome page. Chrome offers ways to clear data for individual websites while keeping your other browsing information intact.

@@ -17,6 +17,7 @@ tags:
 - user-experience
 author: theluckystrike
 permalink: chrome-view-transition-same-document
+last_modified_at: '2026-03-12'
 ---
 # Chrome View Transition API: Smooth Animations Within a Single Page
 

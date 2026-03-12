@@ -4,7 +4,7 @@ description: Discover the best chrome extensions for better youtube experience t
   improve playback, reduce distractions, and customize your viewing. Discover how
   these to...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-better-youtube-experience
 layout: post
 categories: '[productivity, youtube, tips]'

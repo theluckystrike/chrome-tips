@@ -5,7 +5,7 @@ description: Learn how to detect and fix memory leaks in Chrome using heap snaps
   allocation timeline, detached DOM analysis, and performance monitor. Complete guide
   ...
 date: '2026-01-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-memory-leak-detection
 categories:
 - performance

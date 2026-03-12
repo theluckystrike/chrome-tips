@@ -3,7 +3,7 @@ title: Chrome Extensions for Auto Tab Closer
 description: Learn how chrome extensions for auto tab closer can help you manage browser
   tabs, save memory, and improve your computer performance. Discover how these tool...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-auto-tab-closer
 layout: post
 categories: '[productivity, tips]'

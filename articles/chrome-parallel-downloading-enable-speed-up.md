@@ -4,7 +4,7 @@ title: How to Enable Parallel Downloading in Chrome for Faster Downloads
 description: Learn how to enable parallel downloading in Chrome to speed up your downloads.
   Simple steps to configure Chrome for faster file downloads. Learn effective ti...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-parallel-downloading-enable-speed-up
 categories:
 - chrome

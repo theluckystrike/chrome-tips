@@ -4,7 +4,7 @@ description: Discover Chrome extensions that help you write clearer, more profes
   emails in less time with less effort. Discover how these tools can significantly
   im...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-writing-better-emails
 layout: post
 categories: '[email, tips]'

@@ -4,7 +4,7 @@ description: Getting ERR_INTERNET_DISCONNECTED in Chrome even when internet work
   Learn why this happens and how to fix it with simple steps. Check out our expert
   recommend
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-err-internet-disconnected-but-internet-works-fix
 layout: post
 categories: '[troubleshooting, connectivity]'

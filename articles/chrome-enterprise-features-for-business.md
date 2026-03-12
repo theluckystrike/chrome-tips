@@ -4,7 +4,7 @@ description: Discover Chrome enterprise features that help businesses manage sec
   control updates, and boost productivity across their team. Check out our expert
   recomm
 date: '2025-02-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-enterprise-features-for-business
 layout: post
 categories: '[business, security, enterprise]'

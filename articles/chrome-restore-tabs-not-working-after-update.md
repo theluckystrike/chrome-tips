@@ -16,7 +16,7 @@ tags:
 - slow-computer
 author: theluckystrike
 permalink: chrome-restore-tabs-not-working-after-update
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Restore Tabs Not Working After Update: Practical Fixes
 

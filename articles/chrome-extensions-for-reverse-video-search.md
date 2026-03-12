@@ -4,7 +4,7 @@ description: Looking for chrome extensions for reverse video search? Find the be
   tools to identify videos and find their sources online. Check out our expert...
   Learn more
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-reverse-video-search
 layout: post
 categories: '[productivity, tools]'

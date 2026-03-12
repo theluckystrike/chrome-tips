@@ -5,7 +5,7 @@ description: Master Chrome DevTools breakpoints and conditional debugging techni
   Learn how to set line breakpoints, conditional breakpoints, DOM breakpoints, XHR
   bre...
 date: '2025-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-breakpoints-conditional-debugging-guide
 categories:
 - web-development

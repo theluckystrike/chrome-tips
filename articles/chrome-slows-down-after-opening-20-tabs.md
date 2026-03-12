@@ -14,7 +14,7 @@ tags:
 - chrome-slow
 author: theluckystrike
 permalink: chrome-slows-down-after-opening-20-tabs
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Slows Down After Opening 20 Tabs: What You Can Do
 

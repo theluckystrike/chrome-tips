@@ -5,7 +5,7 @@ description: A practical speed comparison between Chrome and Edge in 2026. Find 
   which browser is faster and how to improve your browser speed. Read our comprehensive
   ...
 date: '2026-01-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-edge-speed-test-2026
 categories: '[comparison, performance]'
 tags: '[chrome-vs-edge, browser-speed, speed-test, browser-comparison]'

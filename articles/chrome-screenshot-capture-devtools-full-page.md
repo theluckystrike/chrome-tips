@@ -15,7 +15,7 @@ tags:
 - capture
 author: theluckystrike
 permalink: chrome-screenshot-capture-devtools-full-page
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # How to Capture Full Page Screenshots in Chrome Using DevTools
 

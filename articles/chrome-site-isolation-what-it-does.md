@@ -15,7 +15,7 @@ tags:
 - security-features
 author: theluckystrike
 permalink: chrome-site-isolation-what-it-does
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Site Isolation What It Does
 

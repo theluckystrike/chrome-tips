@@ -15,7 +15,7 @@ tags:
 - browser-tips
 author: theluckystrike
 permalink: chrome-right-click-not-working-on-some-sites-fix
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Right Click Not Working on Some Sites Fix
 

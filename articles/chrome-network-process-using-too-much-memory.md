@@ -5,7 +5,7 @@ description: Is Chrome network process using too much memory? Learn why this hap
   and what you can do to fix high memory usage in Chrome. Learn effective tips and
   tric...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-network-process-using-too-much-memory
 categories:
 - performance

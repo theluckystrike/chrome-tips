@@ -17,7 +17,7 @@ tags:
 - browser
 author: theluckystrike
 permalink: chrome-resource-timing-api-explained
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Resource Timing API Explained
 

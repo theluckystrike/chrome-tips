@@ -14,8 +14,8 @@ tags:
 - shortcuts
 - productivity
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-custom-search-engines-how-to-add/
+last_modified_at: '2026-03-12'
+permalink: chrome-custom-search-engines-how-to-add
 ---
 # Chrome Custom Search Engines How to Add
 

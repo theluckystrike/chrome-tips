@@ -14,7 +14,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 permalink: chrome-reset-vs-reinstall-which-is-better
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Reset vs Reinstall: Which Is Better?
 

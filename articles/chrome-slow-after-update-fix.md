@@ -15,7 +15,7 @@ tags:
 - chrome-fix
 author: theluckystrike
 permalink: chrome-slow-after-update-fix
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Slow After Update Fix: Complete Troubleshooting Guide
 

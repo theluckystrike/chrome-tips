@@ -4,7 +4,7 @@ description: Chrome cookies keep getting deleted? Learn why Chrome deletes cooki
   and how to fix it with simple solutions. Read our full guide to master your Chrome
   browser
 date: '2025-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-cookies-keep-getting-deleted-fix
 layout: post
 categories:

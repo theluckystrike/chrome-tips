@@ -97,3 +97,9 @@ Whether you need privacy on public computers, want to maintain your work setup a
 Start with a quality USB drive, download a trusted portable version, and within minutes you'll have your complete browser setup ready to go wherever you are.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Lighthouse Audit Complete Guide](/chrome-lighthouse-audit-guide)
+* [Chrome Multiple Users Same Computer Setup](/chrome-multiple-users-same-computer-setup)
+* [chrome print page shortcut](/chrome-print-page-shortcut)

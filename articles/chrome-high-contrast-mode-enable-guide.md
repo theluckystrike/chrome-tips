@@ -16,7 +16,7 @@ tags:
 - guide
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-high-contrast-mode-enable-guide/
+permalink: chrome-high-contrast-mode-enable-guide
 ---
 # Chrome High Contrast Mode Enable Guide: A Complete Tutorial
 

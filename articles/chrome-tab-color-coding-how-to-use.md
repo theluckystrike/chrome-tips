@@ -16,7 +16,7 @@ tags:
 - browser-tips
 author: theluckystrike
 permalink: chrome-tab-color-coding-how-to-use
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Tab Color Coding How to Use
 

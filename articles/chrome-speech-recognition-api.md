@@ -4,7 +4,7 @@ description: Master the Chrome Speech Recognition API for voice input, transcrip
   accuracy, continuous recognition, and language support. Build powerful voice-enabled
   web...
 date: 2026-01-15
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-speech-recognition-api
 layout: post
 categories:

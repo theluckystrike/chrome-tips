@@ -4,7 +4,7 @@ description: Discover free Chrome extensions for SEO analysis that help you audi
   websites, track rankings, and improve search visibility. Check out our expert...
   Learn more
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-seo-analysis-free
 layout: post
 categories: '[seo, tips]'

@@ -4,7 +4,7 @@ description: Is Chrome constantly crashing on your computer with limited RAM? Le
   practical solutions to fix Chrome crashes caused by low memory and get your browser
   wo...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-crashing-on-low-memory-computer
 layout: post
 categories:

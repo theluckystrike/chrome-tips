@@ -5,7 +5,7 @@ description: Compare Chrome vs Firefox battery life to find which browser uses l
   Read our comprehensive guide to learn more and optimize your browser experience
   with t...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-firefox-battery-life
 categories: ''
 tags: ''

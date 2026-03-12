@@ -5,7 +5,7 @@ description: Chrome keeps logging you out of websites? Here are practical fixes 
   stay signed in and stop the constant re-login frustration. Check out our expert
   recommend
 date: '2025-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-keeps-logging-me-out-of-websites-fix
 categories:
 - troubleshooting

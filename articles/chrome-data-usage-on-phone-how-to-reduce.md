@@ -16,8 +16,8 @@ tags:
 - reduce-data
 - mobile-tips
 author: theluckystrike
-last_modified_at: '%Y->- (origin/fix/lastmod-batch-4)'
-permalink: /chrome-data-usage-on-phone-how-to-reduce/
+last_modified_at: '2026-03-12'
+permalink: chrome-data-usage-on-phone-how-to-reduce
 ---
 # Chrome Data Usage on Phone: How to Reduce
 

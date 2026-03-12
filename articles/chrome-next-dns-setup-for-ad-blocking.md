@@ -5,7 +5,7 @@ description: Learn how to set up NextDNS in Chrome for ad blocking at the networ
   level. This guide walks you through the process step by step. Learn effective tips
   and t...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-next-dns-setup-for-ad-blocking
 categories:
 - privacy

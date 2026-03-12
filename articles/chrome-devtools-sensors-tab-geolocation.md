@@ -5,7 +5,7 @@ description: Learn how to use Chrome DevTools Sensors tab to test geolocation fe
   simulate locations, and debug location-based web apps. Explore our comprehensive
   ...
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: '2026-03-12'
 permalink: chrome-devtools-sensors-tab-geolocation
 ---
 If you have ever wondered how developers test location-based features without actually traveling around, you are looking at chrome devtools sensors tab geolocation. This powerful but often overlooked tool lives inside Chrome's developer tools and lets you simulate different locations right from your computer. Whether you are a developer testing location-aware websites or just curious about how these features work, let me walk you through everything you need to know about this handy feature.

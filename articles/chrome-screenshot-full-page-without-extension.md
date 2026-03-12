@@ -14,7 +14,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 permalink: chrome-screenshot-full-page-without-extension
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Screenshot Full Page Without Extension
 

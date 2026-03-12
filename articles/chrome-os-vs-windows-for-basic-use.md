@@ -5,7 +5,7 @@ description: A practical guide comparing Chrome OS and Windows for everyday task
   Learn which operating system fits your needs better. Learn effective tips and tricks
   to...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-os-vs-windows-for-basic-use
 categories:
 - comparison

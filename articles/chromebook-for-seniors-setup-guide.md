@@ -4,7 +4,7 @@ title: Chromebook for Seniors Setup Guide
 description: A friendly guide to setting up a Chromebook for seniors. Learn how to
   make browsing easy, safe, and enjoyable for older family members. Read our comprehensiv...
 date: '2025-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chromebook-for-seniors-setup-guide
 categories: '[chromebook, accessibility, family]'
 tags: '[chromebook, seniors, elderly, setup-guide, beginners]'

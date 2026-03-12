@@ -5,7 +5,7 @@ description: Learn about Chrome extensions for website testing that help you che
   performance, accessibility, and functionality across different scenarios. Read our
   comp...
 date: 2026-03-10
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-website-testing
 categories:
 - testing

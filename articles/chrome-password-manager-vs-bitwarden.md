@@ -5,7 +5,7 @@ description: Comparing Chrome's built-in password manager with Bitwarden. Learn 
   key differences in security, features, and usability to choose the right password
   mana...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-password-manager-vs-bitwarden
 categories:
 - security

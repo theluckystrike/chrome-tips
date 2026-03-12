@@ -5,7 +5,7 @@ description: Discover the best Chrome extensions for Zillow that help you find h
   track listings, and manage your property search efficiently. Check out our expert
   reco
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-zillow-best-extensions
 categories:
 - real-estate

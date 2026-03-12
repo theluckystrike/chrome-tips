@@ -3,7 +3,7 @@ title: Chrome Extensions for Networking
 description: Looking for chrome extensions for networking? Discover tools to manage
   network connections, speed up your browser, and improve your online experience.
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-networking
 layout: post
 categories: '[productivity, networking, performance]'

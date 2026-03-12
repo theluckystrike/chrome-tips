@@ -6,7 +6,7 @@ description: Learn how to reverse image search in Chrome without installing an e
   to
 permalink: chrome-reverse-image-search-without-extension
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 How do you do a reverse image search in Chrome without an extension? This is something many people wonder about when they want to find the source of an image, identify a product, or see where a photo has been used elsewhere on the web. You might have heard that extensions are the only way to do this, but that is not quite true.
 

@@ -4,7 +4,7 @@ title: How to Fix Chrome Hijacked Homepage (Complete Guide)
 description: Is your Chrome homepage hijacked? Learn step-by-step how to remove browser
   hijackers, restore your search engine, and protect your browser. Practical solutio...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-hijacked-homepage-fix-guide
 categories:
 - chrome

@@ -5,7 +5,7 @@ description: Learn where to find and configure the chrome minimum font size sett
   in your browser to improve readability.
 date: 2026-03-12
 last_modified_at: 2026-03-12
-permalink: /chrome-minimum-font-size-setting-where/
+permalink: chrome-minimum-font-size-setting-where
 categories:
 - settings
 - accessibility

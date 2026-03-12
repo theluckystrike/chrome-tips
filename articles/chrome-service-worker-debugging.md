@@ -18,7 +18,7 @@ tags:
 - offline
 author: theluckystrike
 permalink: chrome-service-worker-debugging
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Service Worker Debugging Guide
 

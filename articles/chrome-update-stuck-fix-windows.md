@@ -181,3 +181,9 @@ A stuck Chrome update is frustrating, but it's usually fixable. Start with the s
 Keeping Chrome updated ensures you have the latest security patches and features, so it's worth taking a few minutes to get the update process working again.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [How to Reduce Chrome Memory Usage](/how-to-reduce-chrome-memory-usage)
+* [Chrome requestStorageAccess Explained](/chrome-requestStorageAccess-explained)
+* [chrome extensions for screen dimmer](/chrome-extensions-for-screen-dimmer)

@@ -5,7 +5,7 @@ description: Discover how to use Chrome's address bar as a calculator. This hidd
   feature lets you perform calculations instantly without opening a separate app.
   Perfect...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-omnibox-calculator-trick
 categories:
 - chrome

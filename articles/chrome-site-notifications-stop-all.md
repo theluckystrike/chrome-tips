@@ -15,7 +15,7 @@ tags:
 - privacy
 author: theluckystrike
 permalink: chrome-site-notifications-stop-all
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # How to Chrome Site Notifications Stop All
 

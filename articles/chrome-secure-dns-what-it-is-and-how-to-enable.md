@@ -16,7 +16,7 @@ tags:
 - browser-settings
 author: theluckystrike
 permalink: chrome-secure-dns-what-it-is-and-how-to-enable
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Secure DNS: What It Is and How to Enable
 

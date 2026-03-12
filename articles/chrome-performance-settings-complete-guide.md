@@ -75,3 +75,9 @@ Optimizing Chrome's performance settings is not about finding a single magic swi
 Remember that the optimal configuration depends on how you use Chrome. If you typically keep dozens of tabs open, Memory Saver becomes essential. If you work on a laptop frequently, Energy Saver will extend your battery life. By understanding what each setting does and how it affects your browsing, you can create a Chrome experience that is fast, efficient, and perfectly suited to your workflow.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Custom Properties CSS Variables](//chrome-custom-properties-css-variables/)
+* [chrome for pocket extension setup](/chrome-for-pocket-extension-setup)
+* [Chrome Badging API Explained](/chrome-badging-api-explained)

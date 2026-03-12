@@ -17,7 +17,7 @@ tags:
 - 2026
 author: theluckystrike
 permalink: chrome-slow-on-ipad-fix-2026
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Slow on iPad Fix 2026
 

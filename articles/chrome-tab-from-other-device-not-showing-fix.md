@@ -15,7 +15,7 @@ tags:
 - troubleshooting
 author: theluckystrike
 permalink: chrome-tab-from-other-device-not-showing-fix
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Tab From Other Device Not Showing Fix
 

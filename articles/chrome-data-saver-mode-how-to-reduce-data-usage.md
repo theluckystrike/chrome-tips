@@ -14,8 +14,8 @@ tags:
 - data-saving
 - reduce-data-usage
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-data-saver-mode-how-to-reduce-data-usage/
+last_modified_at: '2026-03-12'
+permalink: chrome-data-saver-mode-how-to-reduce-data-usage
 ---
 # Chrome Data Saver Mode: How to Reduce Data Usage
 

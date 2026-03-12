@@ -5,7 +5,7 @@ description: Discover hidden Chrome Omnibox features including tab search, Googl
   Drive search, built-in calculator, timer, and unit conversions. Supercharge your
   browser...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-omnibox-hidden-features
 categories:
 - productivity

@@ -5,7 +5,7 @@ description: Learn how to disable Chrome's per-tab process feature to save memor
   on slow computers with limited RAM. Step-by-step solutions included. Learn effective
   tip...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-process-per-tab-disable-to-save-memory
 categories:
 - performance

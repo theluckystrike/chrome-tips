@@ -14,7 +14,7 @@ tags:
 - browser
 author: theluckystrike
 permalink: chrome-release-schedule-how-often-does-it-update
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Release Schedule and How Often It Updates
 

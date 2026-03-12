@@ -3,7 +3,7 @@ title: Chrome Extensions for Link Checker Broken Links
 description: Find and fix broken links on any website with these helpful Chrome extensions
   for link checking. Check out our expert recommendations and tips to enhance...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-link-checker-broken-links
 layout: post
 categories: '[extensions, tips]'

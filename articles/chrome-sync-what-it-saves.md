@@ -15,7 +15,7 @@ tags:
 - chrome-features
 author: theluckystrike
 permalink: chrome-sync-what-it-saves
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Sync What It Saves: A Complete Guide
 

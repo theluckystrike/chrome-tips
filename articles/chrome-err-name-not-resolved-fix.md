@@ -4,7 +4,7 @@ description: Struggling with the ERR_NAME_NOT_RESOLVED error in Chrome? Learn wh
   causes it and how to fix it with simple solutions. Check out our expert recommendations
   an
 date: '2026-01-01'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-err-name-not-resolved-fix
 layout: post
 ---

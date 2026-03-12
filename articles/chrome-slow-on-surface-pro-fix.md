@@ -15,7 +15,7 @@ tags:
 - slow-browser
 author: theluckystrike
 permalink: chrome-slow-on-surface-pro-fix
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Slow on Surface Pro Fix
 

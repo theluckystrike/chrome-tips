@@ -5,7 +5,7 @@ description: Learn how to find which tabs are slowing down Chrome using the buil
   Task Manager and what to do about them. Read our comprehensive guide to learn more
   an...
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: how-to-use-chrome-task-manager-to-find-slow-tabs
 categories: '[performance, troubleshooting]'
 tags: '[chrome-task-manager, slow-tabs, browser-performance]'

@@ -5,7 +5,7 @@ description: Learn how to temporarily modify any website text using Chrome's Ins
   Element tool. Perfect for taking screenshots, testing layouts, or just having fun
   wit...
 date: 2026-03-11
-last_modified_at: 2026-03-11
+last_modified_at: '2026-03-12'
 permalink: chrome-edit-webpage-text-inspect-element
 ---
 # How to Edit Any Webpage Text Using Inspect Element

@@ -5,7 +5,7 @@ description: Learn where Chrome stores its cache folder on different operating s
   how to check its size, and ways to manage it effectively. Simple instructions for
   ...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-cache-folder-size-and-location
 categories:
 - troubleshooting

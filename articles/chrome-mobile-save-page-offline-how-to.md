@@ -5,7 +5,7 @@ description: Learn how to save web pages on Chrome mobile for offline reading. S
   methods to view articles without internet on your phone. Learn effective tips and
   tr...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-mobile-save-page-offline-how-to
 categories:
 - browser

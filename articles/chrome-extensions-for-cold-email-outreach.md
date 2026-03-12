@@ -4,8 +4,8 @@ description: Discover how Chrome Extensions For Cold Email Outreach can transfor
   your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
   setti...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: /articles/chrome-extensions-for-cold-email-outreach/
+last_modified_at: '2026-03-12'
+permalink: chrome-extensions-for-cold-email-outreach
 ---
 # Chrome Extensions for Cold Email Outreach
 

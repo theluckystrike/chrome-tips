@@ -4,7 +4,7 @@ description: Learn how Chrome's built-in password manager works and how to use a
   to save time while keeping your login information secure. Read our full guide to
   mast
 date: '2026-01-01'
-last_modified_at: '%Y->-'
+last_modified_at: '2026-03-12'
 permalink: chrome-credential-manager-autofill-explained
 layout: post
 ---

@@ -4,7 +4,7 @@ description: Running Chrome on a slow computer with limited RAM? Learn the best 
   line flags to reduce memory usage and speed up your browser. Read our full guide
   to m
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-command-line-flags-for-low-memory
 layout: post
 categories:

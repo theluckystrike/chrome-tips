@@ -5,7 +5,7 @@ description: Tired of websites constantly asking for permission to send notifica
   our c
 permalink: chrome-site-keeps-asking-for-notifications-stop
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 layout: post
 ---
 Does this sound familiar? You're trying to read an article or shop online, and suddenly a popup appears asking if you want to allow notifications. You click "Block" or "No thanks," but the same site asks again a few minutes later. Or worse—different sites keep prompting you over and over.

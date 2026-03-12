@@ -18,7 +18,7 @@ tags:
 - web-security
 author: theluckystrike
 permalink: chrome-sanitizer-api-html-safe
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser
 

@@ -17,7 +17,7 @@ tags:
 - privacy
 author: theluckystrike
 permalink: chrome-site-isolation-enable-extra-security
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # How to Enable Chrome Site Isolation for Extra Security
 

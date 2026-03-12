@@ -4,7 +4,7 @@ title: chrome network throttling test slow connection
 description: Learn how to use Chrome network throttling to test slow connections and
   simulate real-world network conditions for better website development. Learn effectiv...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-network-throttling-test-slow-connection
 categories:
 - developer-tools

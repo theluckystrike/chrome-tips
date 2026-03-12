@@ -5,7 +5,7 @@ description: Learn exactly what data is saved and what is deleted when using Chr
   Guest Mode for browsing on shared computers. Check out our expert recommendations
   and ti
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-guest-browsing-what-data-is-saved
 categories:
 - privacy

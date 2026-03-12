@@ -15,8 +15,8 @@ tags:
 - browser-customization
 - eye-strain
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-dark-mode-force-all-websites/
+last_modified_at: '2026-03-12'
+permalink: chrome-dark-mode-force-all-websites
 ---
 # How to Force Dark Mode on All Websites in Chrome
 

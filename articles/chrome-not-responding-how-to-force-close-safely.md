@@ -5,7 +5,7 @@ description: Is Chrome not responding? Learn the safest ways to force close Chro
   without losing your tabs or damaging your data. Learn effective tips and tricks
   to opti...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-not-responding-how-to-force-close-safely
 categories:
 - troubleshooting

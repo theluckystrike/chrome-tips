@@ -15,7 +15,7 @@ tags:
 - browser-sync
 author: theluckystrike
 permalink: chrome-share-page-between-phone-and-laptop
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Share Page Between Phone and Laptop: Complete Guide
 

@@ -4,7 +4,7 @@ description: Learn how to save articles for offline reading with Chrome extensio
   Discover how these tools can significantly improve your daily productivity and online
   ...
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-saving-articles-offline
 layout: post
 ---

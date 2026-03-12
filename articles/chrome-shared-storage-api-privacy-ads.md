@@ -17,7 +17,7 @@ tags:
 - browser
 author: theluckystrike
 permalink: chrome-shared-storage-api-privacy-ads
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Shared Storage API: Privacy-First Advertising for the Modern Web
 

@@ -4,7 +4,7 @@ title: Chrome for Zen Mode Extensions
 description: Discover Chrome extensions that help create a calm, distraction-free
   browsing experience for focused work and relaxation. Check out our expert recommendations
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-zen-mode-extensions
 categories:
 - productivity

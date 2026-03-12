@@ -4,7 +4,7 @@ title: Chrome for Web3 Browsing Extensions
 description: Discover the best Chrome extensions for Web3 browsing. Enhance your crypto
   experience with tools for security, portfolio tracking, and seamless dApp interact...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-web3-browsing-extensions
 categories:
 - web3

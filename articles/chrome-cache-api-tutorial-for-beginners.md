@@ -5,7 +5,7 @@ description: Learn what the Chrome Cache API is, how to use it, and why it matte
   for faster web browsing. A simple guide for everyone. Check out our expert guide
   for step-
 date: '2025-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-cache-api-tutorial-for-beginners
 categories:
 - beginners

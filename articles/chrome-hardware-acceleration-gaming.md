@@ -5,7 +5,7 @@ description: Master chrome hardware acceleration gaming with our comprehensive g
   Learn to enable GPU acceleration, optimize Chrome flags, and reduce latency for
   smoo...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-hardware-acceleration-gaming
 categories:
 - performance

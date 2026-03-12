@@ -5,7 +5,7 @@ description: Learn how to set up chrome kiosk mode to lock your browser to a sin
   website. Perfect for public displays, kiosks, and dedicated workstations. Check
   out our
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-kiosk-mode-how-to-set-up
 categories:
 - browsers

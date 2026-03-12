@@ -4,7 +4,7 @@ description: Learn how chrome extension for website blocker parental tools help 
   protect children from harmful content and manage screen time. Discover how these
   t...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-website-blocker-parental
 layout: post
 categories: '[productivity]'

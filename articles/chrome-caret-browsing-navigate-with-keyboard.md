@@ -15,6 +15,7 @@ tags:
 - productivity
 author: theluckystrike
 permalink: chrome-caret-browsing-navigate-with-keyboard
+last_modified_at: '2026-03-12'
 ---
 # Chrome Caret Browsing: Navigate with Keyboard
 

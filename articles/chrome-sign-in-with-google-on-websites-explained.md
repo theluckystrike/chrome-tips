@@ -15,7 +15,7 @@ tags:
 - websites
 - authentication
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-sign-in-with-google-on-websites-explained
 ---
 # Chrome Sign in With Google on Websites Explained

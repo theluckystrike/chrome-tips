@@ -15,7 +15,7 @@ tags:
 - how-to
 author: theluckystrike
 permalink: chrome-screen-sharing-in-browser-how-to
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Screen Sharing in Browser How To
 

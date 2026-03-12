@@ -5,7 +5,7 @@ description: Discover the best chrome extensions for youtubers in 2026 to stream
   your workflow, grow your channel, and save time. Read our comprehensive guide to
   lear...
 date: 2026-01-15
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-youtubers-2026
 categories:
 - extensions

@@ -14,7 +14,7 @@ tags:
 - development
 author: theluckystrike
 last_modified_at: 2026-03-12
-permalink: /articles/chrome-chrome.alarms-scheduled-tasks/
+permalink: chrome-chrome.alarms-scheduled-tasks
 ---
 # Chrome chrome.alarms API for Scheduled Tasks
 

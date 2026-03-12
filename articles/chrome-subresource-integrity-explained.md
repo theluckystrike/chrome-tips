@@ -15,7 +15,7 @@ tags:
 - chrome-fix
 author: theluckystrike
 permalink: chrome-subresource-integrity-explained
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Subresource Integrity Explained
 

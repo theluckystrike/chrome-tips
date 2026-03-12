@@ -4,7 +4,7 @@ description: Learn how to quickly close all other tabs in Chrome with keyboard s
   and simple methods to focus on what matters. Read our full guide to master your
   Chro
 date: '2025-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-close-other-tabs-shortcut
 layout: post
 categories:

@@ -5,7 +5,7 @@ description: Looking for chrome for yahoo finance best extensions? Discover the 
   tools to enhance your finance tracking and maximize your trading workflow. Check
   out our
 date: '2026-03-10'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-yahoo-finance-best-extensions
 categories:
 - productivity

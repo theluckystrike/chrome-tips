@@ -4,7 +4,7 @@ description: Learn how to use a color picker Chrome extension to grab colors fro
   Check out our expert recommendations and step-by-step instructions to get the most
   out of y
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-color-picker-from-any-webpage
 layout: post
 ---

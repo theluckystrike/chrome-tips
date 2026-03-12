@@ -4,7 +4,7 @@ description: Learn how to capture entire web pages with Chrome extensions design
   for full page screenshots. Simple solutions for capturing complete content. Check
   out...
 date: '2026-01-15'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-screenshot-full-page
 layout: post
 categories: '[extensions, productivity]'

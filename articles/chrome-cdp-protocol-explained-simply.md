@@ -5,7 +5,7 @@ description: Learn what the Chrome DevTools Protocol (CDP) is, how it works, and
   it matters for browser automation, testing, and debugging. Check out our expert
   guide fo
 date: '2026-01-20'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-cdp-protocol-explained-simply
 categories:
 - development

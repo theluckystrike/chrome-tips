@@ -2,8 +2,9 @@
 layout: default
 title: "How to Use the Chrome Eye Dropper API for Color Picking"
 description: "Learn how to implement the Eye Dropper API in Chrome to let users pick colors from any pixel on their screen."
+permalink: chrome-eye-dropper-api-color-picker
+last_modified_at: '2026-03-12'
 ---
-
 # How to Use the Chrome Eye Dropper API for Color Picking
 
 The Chrome Eye Dropper API opens up powerful possibilities for web developers who want to give users the ability to sample colors directly from their screen. This browser-based color picker functionality allows you to implement a native color sampling tool without requiring users to install browser extensions or external applications.
@@ -112,3 +113,9 @@ The Chrome Eye Dropper API provides an elegant solution for adding screen-wide c
 As browser technologies continue to evolve, APIs like this one demonstrate how web platforms can match capabilities previously available only through native applications. Whether you're building design tools, productivity applications, or creative platforms, color picking functionality becomes simple to implement and seamless for users.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Cycle Through Tabs Shortcut](//chrome-cycle-through-tabs-shortcut/)
+* [Chrome Extensions For Email Tracking Read Receipts](//articles/chrome-extensions-for-email-tracking-read-receipts/)
+* [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/chrome-smooth-scrolling-enable)

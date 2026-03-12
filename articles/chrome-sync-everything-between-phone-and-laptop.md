@@ -15,7 +15,7 @@ tags:
 - productivity
 author: theluckystrike
 permalink: chrome-sync-everything-between-phone-and-laptop
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # How to Sync Everything Between Your Phone and Laptop with Chrome
 

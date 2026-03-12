@@ -5,7 +5,7 @@ description: Learn how to automatically delete your Chrome browsing history afte
   a set time period. Discover built-in settings and extensions for privacy-conscious
   users.
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-history-auto-delete-after-time
 categories:
 - chrome

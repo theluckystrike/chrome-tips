@@ -17,7 +17,7 @@ tags:
 - browser-tips
 author: theluckystrike
 permalink: chrome-tab-groups-keyboard-shortcuts
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Tab Groups Keyboard Shortcuts: Your Complete Guide to Faster Browser Navigation
 

@@ -4,7 +4,7 @@ description: Discover the best Chrome extensions for Amazon FBA sellers to strea
   product research, track prices, and manage your business more efficiently. Discover
   ...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-amazon-fba-sellers
 layout: post
 categories: '[amazon, tips]'

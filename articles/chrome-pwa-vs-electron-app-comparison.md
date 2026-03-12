@@ -5,7 +5,7 @@ description: A friendly guide comparing PWAs and Electron apps to help you under
   the differences and choose the right web-based application type. Learn effective
   tip...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-pwa-vs-electron-app-comparison
 categories:
 - technology

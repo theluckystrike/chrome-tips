@@ -95,3 +95,9 @@ Evaluate your current setup regularly. Each extension should justify its presenc
 Reducing Chrome extensions memory usage doesn't require technical expertise or expensive tools. By auditing your extensions, removing unnecessary ones, and leveraging smart suspension tools, you can significantly improve browser performance and free up system resources for other tasks.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [chrome on raspberry pi how to install](/chrome-on-raspberry-pi-how-to-install)
+* [How to Improve Your Chrome Lighthouse Performance Score](/chrome-lighthouse-performance-score-improve)
+* [Chrome Time to First Byte Explained](/chrome-time-to-first-byte-explained)

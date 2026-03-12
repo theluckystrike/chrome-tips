@@ -5,7 +5,7 @@ description: Learn about Chrome's preloading settings, why they might slow down 
   browser, and how to adjust them for better performance. Learn effective tips and
   tric...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-preloading-pages-setting-explained
 categories:
 - performance

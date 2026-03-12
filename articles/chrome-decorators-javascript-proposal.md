@@ -14,8 +14,8 @@ tags:
 - tc39-proposal
 - chrome-javascript
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-decorators-javascript-proposal/
+last_modified_at: '2026-03-12'
+permalink: chrome-decorators-javascript-proposal
 ---
 # Chrome Decorators JavaScript Proposal: What You Need to Know
 

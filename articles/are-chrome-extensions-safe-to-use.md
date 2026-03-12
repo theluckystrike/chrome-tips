@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Are Chrome Extensions Safe to Use"
-description: "Chrome extensions can pose security risks to your data. Learn what dangers exist, how to identify untrustworthy add-ons, and how to use extensions safely today."
+title: Are Chrome Extensions Safe to Use
+description: Chrome extensions can pose security risks to your data. Learn what dangers
+  exist, how to identify untrustworthy add-ons, and how to use extensions safely today.
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: '2026-03-12'
 permalink: are-chrome-extensions-safe-to-use
-categories: [security, extensions]
-tags: [chrome-extensions, security, privacy, browser]
+categories:
+- security
+- extensions
+tags:
+- chrome-extensions
+- security
+- privacy
+- browser
 author: theluckystrike
 ---
-
 # Are Chrome Extensions Safe to Use
 
 When you're browsing the web, you might wonder: **Are Chrome extensions safe to use?** While most add-ons are perfectly fine, some carry security risks that every user should understand. With a little awareness and a few simple habits, you can enjoy the benefits of extensions while keeping your data protected.

@@ -1,6 +1,11 @@
+[2026-03-12 22:07:57] [m15]   Title too long: 61 chars (max 60)
+[2026-03-12 22:08:02] [m15]   Title shortened: "Best Chrome Extensions Productivity Tabs" (40 chars)
+[2026-03-12 22:08:03] [m15]   Description too short: 148 chars (target 150-160)
+[2026-03-12 22:08:27] [m15]   WARNING: Could not generate valid description (got 133 chars).
+[2026-03-12 22:08:27] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "Best Chrome Extensions for Productivity: Tab Management Guide"
+title: "Best Chrome Extensions Productivity Tabs"
 description: "Discover 6 powerful alternatives to Chrome's Memory Saver for better tab management. Tab Suspender Pro leads our tested extensions for productivity."
 date: 2026-03-12
 last_modified_at: 2026-03-12

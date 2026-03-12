@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Chrome Shape Detection API Face Detection"
-description: "Learn how Chrome's Shape Detection API enables face detection in your................................................................................."
+description: "Learn how Chrome's Shape Detection API enables face detection and image recognition directly in your browser without compromising your privacy on websites."
 date: "2026-01-15"
-last_modified_at: '2026-03-12'
+last_modified_at: "2026-03-12"
 permalink: "chrome-shape-detection-api-face-detection"
 categories: 
 tags: 

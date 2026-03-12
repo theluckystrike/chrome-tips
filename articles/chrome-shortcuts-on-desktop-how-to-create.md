@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "chrome shortcuts on desktop how to create"
-description: "Learn how to create Chrome shortcuts on your desktop for quick website................................................................................"
+title: "Chrome Shortcuts on Desktop How to Create"
+description: "Find out how to create Chrome shortcuts on desktop for Windows and Mac to launch your favorite websites instantly without navigating through menus or tabs."
 date: "2026-03-09"
-last_modified_at: '2026-03-12'
+last_modified_at: "2026-03-12"
 permalink: "chrome-shortcuts-on-desktop-how-to-create"
 categories: 
 tags: 

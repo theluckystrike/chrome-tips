@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Chrome Sleeping Tabs Explained: What They Are and How to Use Them"
-description: "Learn what sleeping tabs in Chrome are, why they matter, and how to..................................................................................."
+title: "Chrome Sleeping Tabs Explained: Memory Saving Guide"
+description: "Stop Chrome from hogging RAM with sleeping tabs. Learn how this memory-saving feature works and how to use it to keep your computer running fast and smooth."
 date: "2026-03-09"
-last_modified_at: '2026-03-12'
+last_modified_at: "2026-03-12"
 permalink: "chrome-sleeping-tabs-explained"
 categories: 
 tags: 

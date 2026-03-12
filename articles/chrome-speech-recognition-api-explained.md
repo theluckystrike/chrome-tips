@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Chrome Speech Recognition API Explained"
-description: "Learn what the Chrome Speech Recognition API is, how it works, and how................................................................................"
+description: "Learn how the Chrome Speech Recognition API works to convert voice into text. Discover how this powerful tool enables voice search and dictation in your browser."
 date: "2025-03-12"
-last_modified_at: '2026-03-12'
+last_modified_at: "2026-03-12"
 permalink: "chrome-speech-recognition-api-explained"
 categories: 
 tags: 

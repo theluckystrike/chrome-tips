@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Chrome Side Panel — How to Use It Effectively"
-description: "Master Chrome's Side Panel feature. Bookmarks, reading list, search,.................................................................................."
+title: "Chrome Side Panel How to Use"
+description: "Unlock the full potential of the Chrome side panel to manage bookmarks, reading lists, and search results efficiently while you browse your favorite sites."
 date: "2025-03-13"
-last_modified_at: '2026-03-12'
+last_modified_at: "2026-03-12"
 permalink: "chrome-side-panel-how-to-use"
 categories: 
 tags: 

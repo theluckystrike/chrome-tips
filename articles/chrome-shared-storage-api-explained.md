@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Chrome Shared Storage API Explained"
-description: "Learn what Chrome''s Shared Storage API is, why it was created, and..................................................................................."
+description: "Discover how the Chrome Shared Storage API works to balance powerful web features with enhanced user privacy by allowing secure data storage across websites."
 date: "2026-01-15"
-last_modified_at: '2026-03-12'
+last_modified_at: "2026-03-12"
 permalink: "chrome-shared-storage-api-explained"
 categories: 
 tags: 

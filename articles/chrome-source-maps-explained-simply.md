@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Chrome Source Maps Explained Simply"
-description: "Learn what source maps are in Chrome, why websites use them, and how.................................................................................."
+description: "Understand Chrome source maps and how they help developers debug compressed code. Learn why these files are essential for making websites more reliable and fast."
 date: "2025-03-12"
-last_modified_at: '2026-03-12'
+last_modified_at: "2026-03-12"
 permalink: "chrome-source-maps-explained-simply"
 categories: 
 tags: 

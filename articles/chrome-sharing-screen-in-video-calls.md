@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Chrome Sharing Screen in Video Calls"
-description: "Having trouble with chrome sharing screen in video calls? Learn why it................................................................................"
+description: "Master Chrome sharing screen in video calls with our guide on fixing common issues, adjusting permissions, and optimizing performance for seamless meetings."
 date: "2025-03-09"
-last_modified_at: '2026-03-12'
+last_modified_at: "2026-03-12"
 permalink: "chrome-sharing-screen-in-video-calls"
 categories: 
 tags: 

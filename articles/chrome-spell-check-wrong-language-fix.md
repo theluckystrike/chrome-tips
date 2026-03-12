@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Chrome Spell Check Wrong Language Fix"
-description: "Is Chrome spell check using the wrong language? Here is how to fix it................................................................................."
+description: "Is Chrome spell check using the wrong language? Fix red squiggly lines and get accurate suggestions by adjusting your language settings with this simple guide."
 date: "2025-03-15"
-last_modified_at: '2026-03-12'
+last_modified_at: "2026-03-12"
 permalink: "chrome-spell-check-wrong-language-fix"
 categories: 
 tags: 

@@ -289,6 +289,12 @@ Remember that snippets are persistent, portable, and powerful. Your collection o
 
 ---
 
+## Related Articles
+- [Chrome for Productivity Dashboard New Tab](/chrome-for-productivity-dashboard-new-tab)
+- [Chrome For Gmail Productivity Extensions](/chrome-for-gmail-productivity-extensions)
+- [Chrome Extensions for Focus and Productivity](/chrome-extensions-for-focus-and-productivity)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 =======
 Chrome DevTools is already one of the most powerful browser-based development environments available, but many users never discover its true potential because they only scratch the surface of what it can do. Among the lesser-known features lies a powerful tool called Snippets, which can dramatically transform how you work with websites and web applications. If you have ever found yourself repeatedly executing the same JavaScript code or performing manual debugging steps over and over again, Chrome DevTools Snippets can eliminate that tedium and save you countless hours every week.

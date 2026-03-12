@@ -76,4 +76,10 @@ If you find that managing many open tabs becomes overwhelming even with sync wor
 
 The key to smooth sync is using the same Google account on every device, keeping sync turned on, and making sure Chrome stays updated. With those basics in place, your browsing data will follow you anywhere you go.
 
+## Related Articles
+- [Chrome Live Caption How It Works](/chrome-live-caption-how-it-works)
+- [Chrome Extension Settings Sync Across Devices](/chrome-extension-settings-sync-across-devices)
+- [Chrome Web Share Api How It Works](/chrome-web-share-api-how-it-works)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

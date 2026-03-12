@@ -66,4 +66,10 @@ Close tabs you are not using. Every open tab uses memory, even if you are not lo
 
 Update Chrome regularly. Newer versions often include performance improvements and bug fixes that make Chrome run more efficiently. You can check for updates by going to Settings, clicking Help, and selecting About Google Chrome.
 
+## Related Articles
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

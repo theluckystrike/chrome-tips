@@ -84,4 +84,10 @@ Learning chrome text only mode how to browse is about finding what works best fo
 
 Try different methods to see which fits your lifestyle. Whether you want to save data, speed up your browser, or simply enjoy a cleaner reading experience, there is a solution that can help. Text only browsing might just change how you use the web.
 
+## Related Articles
+- [Chrome Text Size on Phone How to Change](/chrome-text-size-on-phone-how-to-change)
+- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

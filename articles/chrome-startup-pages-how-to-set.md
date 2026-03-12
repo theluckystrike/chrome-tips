@@ -83,3 +83,8 @@ Whether you keep it simple with just your email and calendar, or you add a handf
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Cast to TV How to Set Up](/chrome-cast-to-tv-how-to-set-up)
+- [Chrome Startup Time How to Measure](/chrome-startup-time-how-to-measure)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)

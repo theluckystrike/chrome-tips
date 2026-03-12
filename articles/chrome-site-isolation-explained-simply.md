@@ -56,4 +56,10 @@ Using **Tab Suspender Pro** is an excellent way to balance **security** and **pe
 
 **Tab Suspender Pro** helps by automatically "hibernating" inactive tabs, killing their background processes while keeping the tab visible in your strip. This significantly reduces the memory pressure caused by **process-per-site** isolation, ensuring that your active, **sandboxed** tabs have plenty of resources to run their security checks smoothly. It’s the perfect companion for anyone who wants a secure browser that doesn't crawl to a halt.
 
+## Related Articles
+- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
+- [Chrome Certificate Transparency Explained Simply](/chrome-certificate-transparency-explained-simply)
+- [Chrome Source Maps Explained Simply](/chrome-source-maps-explained-simply)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

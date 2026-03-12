@@ -85,4 +85,10 @@ Now that you know the chrome toggle fullscreen shortcut, go ahead and give it a 
 
 ---
 
+## Related Articles
+- [Chrome Fullscreen Mode Shortcut](/chrome-fullscreen-mode-shortcut)
+- [Chrome Reopen Closed Tab Shortcut](/chrome-reopen-closed-tab-shortcut)
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

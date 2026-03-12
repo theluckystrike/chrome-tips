@@ -66,5 +66,11 @@ Finally, if you find that managing **Privacy Sandbox** settings and multiple **t
 
 Using **Tab Suspender Pro** is an excellent way to maintain performance. It automatically "hibernates" background tabs, freeing up **RAM** so that Chrome's **Privacy Sandbox** and **Shared Storage API** operations can run smoothly without lagging your active window. By keeping your browser lean, you ensure that new **privacy-preserving technologies** don't come at the cost of a snappy user experience.
 
+## Related Articles
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
+- [Chrome Screen Wake Lock API Explained](/chrome-screen-wake-lock-api-explained)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

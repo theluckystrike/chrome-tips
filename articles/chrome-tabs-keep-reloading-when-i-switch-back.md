@@ -111,4 +111,10 @@ To fix Chrome tabs reloading when you switch back, try these steps in order:
 
 Remember that some tab reloading is normal and actually helps your computer run more smoothly. The goal is to find the right balance so that tabs do not reload too often while still keeping your browser responsive.
 
+## Related Articles
+- [Chrome Mobile Tabs Too Many How to Manage](/chrome-mobile-tabs-too-many-how-to-manage)
+- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

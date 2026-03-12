@@ -66,3 +66,8 @@ Keeping your browser organized and managing your tabs effectively can make a not
 Chrome source maps explained simply is really about understanding how modern web development works behind the scenes. These files help developers do their jobs more effectively, which ultimately benefits anyone who uses the web. The next time you notice a website bug getting fixed quickly or an error message that actually makes sense, there is a good chance that source maps helped the developers identify and resolve the problem efficiently.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Open Source Parts Explained](/chrome-open-source-parts-explained)
+- [Chrome Source Maps Configuration Guide](/chrome-source-maps-guide)
+- [Chrome Sandbox Mode Explained Simply](/chrome-sandbox-mode-explained-simply)

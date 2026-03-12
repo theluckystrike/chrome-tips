@@ -98,3 +98,8 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 Built by theluckystroller — More tips at [zovo.one](https://zovo.one)
 >>>>>>> qa/loop-5
+
+## Related Articles
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)

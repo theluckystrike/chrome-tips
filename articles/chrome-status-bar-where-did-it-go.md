@@ -67,4 +67,10 @@ You can also try restarting your computer. While this might seem like an extreme
 
 Finally, make sure your Chrome is up to date. Click the three dots, go to Help, and click "About Google Chrome." Chrome will check for updates and install them if any are available. An outdated version of Chrome might have bugs or display issues that have been fixed in newer versions.
 
+## Related Articles
+- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
+- [Chrome Cleanup Tool: Where Did It Go?](/chrome-cleanup-tool-where-did-it-go)
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

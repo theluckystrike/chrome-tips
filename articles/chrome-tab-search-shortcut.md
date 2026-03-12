@@ -98,4 +98,10 @@ Whether you are managing a complex research project, juggling multiple work stre
 
 Start using the chrome tab search shortcut today, and you will wonder how you ever managed without it.
 
+## Related Articles
+- [Chrome Mute Tab Shortcut Explained](/chrome-mute-tab-shortcut-explained)
+- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
+- [Chrome Site Search Shortcut How To Set Up](/chrome-site-search-shortcut-how-to-set-up)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

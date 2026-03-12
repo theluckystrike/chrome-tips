@@ -71,3 +71,8 @@ Chrome shortcuts in PWAs represent one of those features that not many people kn
 The next time you install a new PWA, pay attention to what shortcuts are available. You might discover quick paths to features you use all the time but never realized were just a right-click away. And if you are involved in building PWAs yourself, consider adding well-thought-out shortcuts to improve the user experience for everyone who installs your app.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
+- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+- [Chrome Desktop Shortcuts How To Create](/chrome-desktop-shortcuts-how-to-create)

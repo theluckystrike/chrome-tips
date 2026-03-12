@@ -82,3 +82,8 @@ When websites are slow, it helps to know whether the problem is on your end or t
 
 >>>>>>> qa/loop-5
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Chrome Interaction to Next Paint Explained: What It Means for You](/chrome-interaction-to-next-paint-explained)
+- [How to Reduce Chrome Startup Time](/how-to-reduce-chrome-startup-time)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)

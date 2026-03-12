@@ -70,4 +70,10 @@ If you find yourself frequently dealing with browser issues or want to improve y
 
 ---
 
+## Related Articles
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
+- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -119,4 +119,10 @@ Tech support scam popups in Chrome are frightening but preventable. The key step
 
 Stay vigilant, and remember: if something looks like a panic-inducing popup demanding immediate action, it is almost certainly a scam.
 
+## Related Articles
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)
+- [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/chrome-your-computer-is-infected-popup-fix)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

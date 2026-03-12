@@ -83,4 +83,10 @@ To summarize, if you are experiencing Chrome slow on work computer VPN, start by
 
 ---
 
+## Related Articles
+- [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
+- [Why Is Chrome So Slow on My Computer?](/why-is-chrome-so-slow-on-my-computer)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

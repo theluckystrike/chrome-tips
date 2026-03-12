@@ -109,3 +109,7 @@ For casual writing (comments, messages, quick emails), Chrome's basic spellcheck
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
+## Related Articles
+- [Chrome Translate Not Working? Here's How to Fix It](/chrome-translate-not-working-fix)
+- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)

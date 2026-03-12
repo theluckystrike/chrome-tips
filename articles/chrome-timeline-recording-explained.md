@@ -73,4 +73,10 @@ It also helps when Chrome has been gradually getting slower over time. By record
 
 ---
 
+## Related Articles
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

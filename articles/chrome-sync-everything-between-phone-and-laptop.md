@@ -126,4 +126,10 @@ Take a moment to enable sync on all your devices today—you'll wonder how you e
 
 ---
 
+## Related Articles
+- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
+- [Chrome Sync Phone and Computer How to Set Up](/chrome-sync-phone-and-computer-how-to-set-up)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

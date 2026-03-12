@@ -72,3 +72,8 @@ Finding a chrome streaming video buffering fix does not have to be complicated. 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)
+- [Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide](/chrome-amazon-prime-video-not-playing-fix)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)

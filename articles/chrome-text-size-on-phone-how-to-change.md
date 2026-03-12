@@ -86,3 +86,8 @@ Start with Chrome built-in settings to see if they meet your needs. If not, try 
 Remember that you can combine methods. Using system text size as a baseline and then adjusting specific sites gives you the most control. It might take a little time to find your perfect setup, but once you do, reading on your phone becomes much more enjoyable.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Reader Mode on Phone: How to Enable](/chrome-reader-mode-on-phone-how-to-enable)
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)

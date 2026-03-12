@@ -72,3 +72,8 @@ By keeping Chrome updated, understanding the protections that are already in pla
 Your browser is your gateway to the internet, and taking a few simple steps to protect it goes a long way toward keeping your personal information safe.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/chrome-wasm-run-desktop-apps-in-browser)
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)

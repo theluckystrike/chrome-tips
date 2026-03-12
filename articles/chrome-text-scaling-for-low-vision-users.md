@@ -84,3 +84,8 @@ Making the web more readable is not just about convenience. It is about ensuring
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome WebAuthn Explained for Regular Users](/chrome-webauthn-explained-for-regular-users)
+- [Chrome Keyboard Shortcuts for Power Users](/chrome-keyboard-shortcuts-for-power-users)
+- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)

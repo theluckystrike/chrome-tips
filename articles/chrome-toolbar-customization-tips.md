@@ -72,4 +72,10 @@ Start with small changes, like moving your most-used extension to a more accessi
 
 ---
 
+## Related Articles
+- [Chrome Work Profile Vs Personal Profile Tips](/chrome-work-profile-vs-personal-profile-tips)
+- [Chrome For Stripe Dashboard Tips](/chrome-for-stripe-dashboard-tips)
+- [Chrome Toolbar Missing Fix](/chrome-toolbar-missing-fix)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

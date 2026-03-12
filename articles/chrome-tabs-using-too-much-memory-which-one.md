@@ -63,4 +63,10 @@ Update Chrome regularly. Newer versions often include performance improvements a
 
 Avoid keeping tabs with auto-refreshing content open in the background. News sites, stock tickers, and social media feeds constantly refresh, which keeps them active and consuming memory. If you need to check something periodically, close the tab and reopen it when needed.
 
+## Related Articles
+- [How to Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
+- [Chrome Network Process Using Too Much Memory](/chrome-network-process-using-too-much-memory)
+- [Chrome Helper Renderer Using Too Much CPU](/chrome-helper-renderer-using-too-much-cpu)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

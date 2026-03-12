@@ -65,4 +65,10 @@ If you find yourself frequently losing track of tabs across devices, developing 
 
 ---
 
+## Related Articles
+- [Chrome Mobile Tabs Too Many How to Manage](/chrome-mobile-tabs-too-many-how-to-manage)
+- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)
+- [How to Make Chrome Remember Tabs After Closing](/how-to-make-chrome-remember-tabs-after-closing)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

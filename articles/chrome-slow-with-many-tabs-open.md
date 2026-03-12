@@ -93,4 +93,10 @@ Consider whether your computer meets Chrome's recommended requirements. On compu
 
 You might also want to try lighter browsers for everyday tasks and reserve Chrome for when you need its specific features. Some browsers use less memory but lack some of Chrome's capabilities.
 
+## Related Articles
+- [How to Use Chrome Task Manager to Find Slow Tabs](/how-to-use-chrome-task-manager-to-find-slow-tabs)
+- [How to Search Open Chrome Tabs](/how-to-search-open-chrome-tabs)
+- [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/i-have-100-tabs-open-chrome-is-dying)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

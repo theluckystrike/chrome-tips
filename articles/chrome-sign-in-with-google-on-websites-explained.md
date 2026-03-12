@@ -77,3 +77,8 @@ Signing in with Google on websites is a useful feature that makes online life mo
 You now have the knowledge to decide whether this feature is right for you and how to adjust it to match your comfort level. Whether you use it everywhere or prefer to create separate accounts the traditional way, the choice is yours.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
+- [Chrome Google Chat Integration in Browser](/chrome-google-chat-integration-in-browser)

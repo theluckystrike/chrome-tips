@@ -236,6 +236,8 @@ Container style queries are handled efficiently by Chrome's rendering engine, si
 
 However, it's worth noting that overly complex combinations of style queries—especially when nested—can add to the CSS parsing and matching time. As with any CSS feature, use style queries judiciously and test performance on lower-end devices.
 
+If you're working with many tabs while developing CSS-heavy pages, extensions like **Tab Suspender Pro** can help manage memory and keep Chrome running smoothly while you perfect your container query implementations.
+
 ## Real-World Example: Adaptive Card System
 
 Here's a practical example that brings everything together:

@@ -77,3 +77,8 @@ Now that you know how to import bookmarks to Chrome, it is a good idea to period
 Having a recent backup means that if you ever need to switch browsers again or reinstall Chrome, you will be able to import your bookmarks quickly without having to hunt down all your favorite sites again.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Backup Chrome Bookmarks and Passwords](/how-to-backup-chrome-bookmarks-and-passwords)
+- [How to Recover Deleted Bookmarks Chrome](/how-to-recover-deleted-bookmarks-chrome)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)

@@ -79,3 +79,8 @@ So now you know how to reset Chrome to default settings. It is a straightforward
 With a little attention to what you install and how you use your browser, you can keep Chrome running smoothly and avoid needing to reset it again anytime soon.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
+- [Chrome Reset Flags to Default How To](/chrome-reset-flags-to-default-how-to)
+- [How To Make Chrome Default Browser Windows 11](/how-to-make-chrome-default-browser-windows-11)

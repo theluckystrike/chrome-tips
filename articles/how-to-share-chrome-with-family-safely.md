@@ -118,3 +118,8 @@ Sharing a computer doesn't have to be a source of frustration or a security risk
 Remember that the most important part of family online safety is the conversation you have with your children. Technology provides the guardrails, but your guidance helps them become responsible digital citizens. With a little bit of setup and ongoing attention, your family can enjoy the best of the web while keeping everyone's data separate, secure, and running fast.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Family Link How to Use on Desktop](/chrome-family-link-how-to-use-on-desktop)
+- [How to Share Chrome Tabs in Video Calls](/how-to-share-chrome-tabs-in-video-calls)

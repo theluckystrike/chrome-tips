@@ -73,3 +73,8 @@ The solution is to be mindful of how many tabs you keep open, manage your extens
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Why Does Each Chrome Tab Use So Much Memory](/why-does-each-chrome-tab-use-so-much-memory)
+- [Chrome Slow With Many Tabs Open? Here's How to Fix It](/chrome-slow-with-many-tabs-open)
+- [Does Having Many Chrome Extensions Slow Down Browser](/does-having-many-chrome-extensions-slow-down-browser)

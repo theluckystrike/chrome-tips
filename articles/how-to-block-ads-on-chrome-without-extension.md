@@ -84,3 +84,8 @@ If you find that these approaches are not enough, you might eventually want to e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Pop Ups on Phone How to Block](/chrome-pop-ups-on-phone-how-to-block)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+- [How to Take Screenshot in Chrome Without Extension](/how-to-take-screenshot-in-chrome-without-extension)

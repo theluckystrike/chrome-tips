@@ -72,3 +72,8 @@ Review your browser settings to disable any features you do not need. Things lik
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chromium Browser Is It Safe to Use](/chromium-browser-is-it-safe-to-use)
+- [Chrome Secure DNS: What It Is and How to Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)
+- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)

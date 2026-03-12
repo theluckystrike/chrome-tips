@@ -78,3 +78,8 @@ Keep your cables organized and consider getting a monitor stand if desk space is
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chromebook Linux Apps How To Install](/chromebook-linux-apps-how-to-install)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+- [Chromebook Parental Controls How to Set Up](/chromebook-parental-controls-how-to-set-up)

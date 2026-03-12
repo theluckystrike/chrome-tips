@@ -128,4 +128,10 @@ Remember, Chrome's tab suspension is trying to help you, but it doesn't always k
 
 ---
 
+## Related Articles
+- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)
+- [How to Stop Chrome from Eating Your RAM](/how-to-stop-chrome-from-eating-ram)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

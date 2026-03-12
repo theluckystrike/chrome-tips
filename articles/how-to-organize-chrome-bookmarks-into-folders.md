@@ -57,3 +57,8 @@ Organizing your Chrome bookmarks into folders does not take long to set up, and 
 Start by creating a few folders that match your browsing habits, move your existing bookmarks into those folders over time, and make a habit of saving new bookmarks in the right place. Within a few days, your bookmark bar will feel干净 and organized, and you will wonder why you did not organize them sooner.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Import Bookmarks from Firefox to Chrome](/how-to-import-bookmarks-from-firefox-to-chrome)
+- [How to Backup Chrome Bookmarks and Passwords](/how-to-backup-chrome-bookmarks-and-passwords)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)

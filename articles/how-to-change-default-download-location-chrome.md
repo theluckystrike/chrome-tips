@@ -80,3 +80,8 @@ Remember, you can always change the location again later if your needs change. C
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+- [How to Reset Chrome to Default Settings](/how-to-reset-chrome-to-default-settings)

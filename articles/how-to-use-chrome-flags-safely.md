@@ -74,3 +74,8 @@ Chrome flags are a powerful way to customize and enhance your browser, but they 
 Think of Chrome flags as a playground where you can try new things, but always know how to get back to solid ground. When you use them carefully, they can be a great way to get early access to useful features and customize your browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)

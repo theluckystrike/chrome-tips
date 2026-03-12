@@ -93,3 +93,8 @@ The key is to remember that any changes you make in DevTools are temporary. This
 DevTools opens up a world of understanding about how the web works. Even basic familiarity with these tools can help you troubleshoot problems, satisfy your curiosity, and become a more informed browser user.
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Devtools Responsive Mode How to Use](/chrome-devtools-responsive-mode-how-to-use)
+- [Chrome Devtools Snippets How to Use](/chrome-devtools-snippets-how-to-use)
+- [Chrome Follow Button for Websites How to Use](/chrome-follow-button-for-websites-how-to-use)

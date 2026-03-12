@@ -79,3 +79,8 @@ Make it a routine to review your extensions, stay informed about what permission
 By taking these steps, you can enjoy the benefits that extensions provide while keeping your browsing private and secure.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
+- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)

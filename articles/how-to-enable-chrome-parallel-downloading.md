@@ -66,3 +66,8 @@ If you frequently download very large files, you might eventually want to look i
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
+- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
+- [Chrome DNS Over HTTPS How to Enable](/chrome-dns-over-https-how-to-enable)

@@ -92,4 +92,10 @@ When one Chrome tab makes everything slow, it's usually because that tab is usin
 
 The key is to be proactive rather than reactive. Check which tabs are using the most memory regularly, and develop habits that prevent memory overload before it happens. Your computer (and your sanity) will thank you.
 
+## Related Articles
+- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)
+- [Chrome Developer Tools Making Page Slow: What You Need to Know](/chrome-developer-tools-making-page-slow)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

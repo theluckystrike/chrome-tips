@@ -97,3 +97,8 @@ While you are troubleshooting your WiFi issues, it is worth noting that Chrome e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [Chromebook Android Apps Not Working Fix](/chromebook-android-apps-not-working-fix)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)

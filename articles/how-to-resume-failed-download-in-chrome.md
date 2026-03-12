@@ -75,3 +75,8 @@ Keeping your browser and system updated also helps. Updates often include bug fi
 And finally, managing your tabs and extensions so that Chrome runs smoothly reduces the chance of browser-related interruptions. Tools that help you keep tabs under control can make your overall browsing experience more reliable, which indirectly helps with downloads too.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
+- [How to Change Default Download Location Chrome](/how-to-change-default-download-location-chrome)
+- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)

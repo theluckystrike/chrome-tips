@@ -67,3 +67,8 @@ Sharing Chrome tabs in video calls does not have to be complicated. By using the
 The next time you need to show something during a video call, remember that you do not need to share your entire screen. Just share the specific Chrome tab, and everyone on the call will see exactly what you want them to see.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)

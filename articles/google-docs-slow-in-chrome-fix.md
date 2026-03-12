@@ -129,4 +129,10 @@ The goal is to free up as much memory as possible for Google Docs to use. With f
 
 Give these fixes a try. Your patience (and your computer) will thank you.
 
+## Related Articles
+- [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
+- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
+- [Chrome Voice Typing In Google Docs](/chrome-voice-typing-in-google-docs)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

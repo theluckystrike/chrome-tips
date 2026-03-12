@@ -83,3 +83,8 @@ If you are frustrated with Chrome, download Firefox and give it a try for one we
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Safe Browsing Should I Turn On](/chrome-safe-browsing-should-i-turn-on)
+- [Chrome Flags to Enable for Speed](/chrome-flags-to-enable-for-speed)
+- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)

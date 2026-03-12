@@ -82,3 +82,8 @@ Remember that your needs may change over time. Periodically review your toolbar 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+- [Chrome Themes How To Change And Customize](/chrome-themes-how-to-change-and-customize)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)

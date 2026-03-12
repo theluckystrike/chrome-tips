@@ -65,3 +65,8 @@ Finally, if you ever need to share your screen during a video call, you can do s
 Getting started with multiple work profiles takes just a few minutes, and the payoff in reduced stress and improved organization is immediate. Give it a try and see how much smoother your workday becomes.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
+- [Chrome Follow Button for Websites How to Use](/chrome-follow-button-for-websites-how-to-use)
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)

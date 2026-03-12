@@ -66,3 +66,8 @@ Give yourself a little time to get used to the new feature. At first, you might 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Safe Search How To Force Enable](/chrome-safe-search-how-to-force-enable)
+- [How To Enable Chrome Experimental Features](/how-to-enable-chrome-experimental-features)
+- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)

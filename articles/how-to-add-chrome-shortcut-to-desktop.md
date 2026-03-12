@@ -70,3 +70,8 @@ Having Chrome just a double-click away on your desktop is one of those small con
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Site Search Shortcut How To Set Up](/chrome-site-search-shortcut-how-to-set-up)
+- [Chrome Desktop Mode on Phone How to Use](/chrome-desktop-mode-on-phone-how-to-use)
+- [Chrome Family Link How to Use on Desktop](/chrome-family-link-how-to-use-on-desktop)

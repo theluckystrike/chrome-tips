@@ -75,3 +75,8 @@ Chrome profiles are a powerful feature that can transform how you use your brows
 Give it a try and see how much easier your browsing becomes when everything has its proper place.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Tab Groups Auto Create How To Set Up](/chrome-tab-groups-auto-create-how-to-set-up)
+- [Chrome iPhone Widgets How to Set Up](/chrome-iphone-widgets-how-to-set-up)
+- [Chrome Cast to TV How to Set Up](/chrome-cast-to-tv-how-to-set-up)

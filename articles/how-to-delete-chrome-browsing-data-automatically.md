@@ -67,3 +67,8 @@ Taking control of your browsing data has benefits beyond just freeing up storage
 Many people do not realize how much data accumulates until they check. Going through the setup process once takes just a few minutes, and the peace of mind it provides is well worth the effort. Whether you rely on Chrome's built-in settings, an extension like Tab Suspender Pro, or a combination of both, having an automatic system in place means you no longer have to remember to clean up manually.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Migrate Chrome Data to a New Computer](/how-to-migrate-chrome-data-to-new-computer)
+- [Chrome How to Clear Individual Site Data](/chrome-how-to-clear-individual-site-data)
+- [How To Enable Chrome Enhanced Safe Browsing](/how-to-enable-chrome-enhanced-safe-browsing)

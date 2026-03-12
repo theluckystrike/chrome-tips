@@ -69,3 +69,8 @@ Some users find it helpful to set a personal rule, such as closing all tabs at t
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Save Chrome Tabs for Later](/how-to-save-chrome-tabs-for-later)
+- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
+- [Chrome Safe Search How To Force Enable](/chrome-safe-search-how-to-force-enable)

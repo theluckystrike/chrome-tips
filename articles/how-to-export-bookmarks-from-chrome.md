@@ -74,3 +74,8 @@ Taking a minute to export your bookmarks now can save you a lot of frustration l
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Sidebar Bookmarks How to Enable](/chrome-sidebar-bookmarks-how-to-enable)
+- [How to Backup Chrome Bookmarks and Passwords](/how-to-backup-chrome-bookmarks-and-passwords)
+- [How to Stop Chrome from Redirecting to HTTPS](/how-to-stop-chrome-from-redirecting-to-https)

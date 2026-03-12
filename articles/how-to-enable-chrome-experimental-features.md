@@ -89,3 +89,8 @@ Many users find a middle ground. They enable one or two features that appeal to 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Enable Chrome Reading List](/how-to-enable-chrome-reading-list)
+- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
+- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)

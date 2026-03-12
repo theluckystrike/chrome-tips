@@ -130,4 +130,10 @@ Combine that with disabling unused extensions, limiting background processes, an
 
 Your browser should work for you, not against you. Try these steps today, and you might be surprised at how snappy Chrome can feel—even with 100 tabs.
 
+## Related Articles
+- [Chrome Slow With Many Tabs Open? Here's How to Fix It](/chrome-slow-with-many-tabs-open)
+- [Chrome Save All Open Tabs As Bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+- [How to Search Open Chrome Tabs](/how-to-search-open-chrome-tabs)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

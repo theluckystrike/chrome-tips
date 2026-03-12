@@ -240,3 +240,8 @@ Migrating your Chrome data to a new computer doesn't have to be a headache. With
 The key is to make sure you're signed into the same Google account on both computers and that sync is enabled. Within minutes, your new computer will feel just like your old one—complete with all your bookmarks, passwords, and browsing history.
 
 Remember to keep a manual backup of your bookmarks even when using sync, and you'll never have to worry about losing your Chrome data again.
+
+## Related Articles
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
+- [Chrome How to Clear Individual Site Data](/chrome-how-to-clear-individual-site-data)

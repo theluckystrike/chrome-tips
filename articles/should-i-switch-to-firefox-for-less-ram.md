@@ -90,4 +90,10 @@ That said, if you need specific Chrome extensions for work or personal use, chec
 
 The bottom line is this: don't be afraid to try something new. Firefox can make a noticeable difference on computers with limited RAM, and the switch is easier than you might think. Give it a few weeks, and you might find that your computer feels faster and more responsive than it has in months.
 
+## Related Articles
+- [Should I Switch from Chrome to Firefox for Speed?](/should-i-switch-from-chrome-to-firefox-for-speed)
+- [Chrome vs Arc Browser: Should I Switch?](/chrome-vs-arc-browser-should-i-switch)
+- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

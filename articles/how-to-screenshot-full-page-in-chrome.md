@@ -82,3 +82,8 @@ Now that you know how to screenshot full page in chrome, you can start capturing
 Give it a try on your next webpage. You will be surprised at how easy it is to get that complete capture you have been missing. Whether you are saving articles for offline reading, capturing important information for work, or just want to keep a copy of something before it changes, full page screenshots in Chrome are now within easy reach.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
+- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)

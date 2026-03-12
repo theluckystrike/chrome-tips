@@ -97,3 +97,8 @@ Use Chrome's built-in tools to review and adjust permissions for your existing e
 Most extensions are safe and useful when you choose them carefully. By taking control of permissions, you get to enjoy the benefits of browser extensions while keeping your data and privacy secure.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Limit Chrome RAM Usage on Windows](/how-to-limit-chrome-ram-usage-windows)
+- [Chrome Permissions on Startup How to Configure](/chrome-permissions-on-startup-how-to-configure)
+- [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)

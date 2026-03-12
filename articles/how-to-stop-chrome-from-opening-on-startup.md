@@ -80,3 +80,8 @@ Stopping Chrome from opening on startup is entirely possible with the right sett
 If you find that Chrome opening at startup continues to be an issue despite making these changes, try restarting your computer after adjusting the settings. Sometimes the changes take effect immediately, but a restart can ensure everything is working as expected.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Stop Chrome from Redirecting to HTTPS](/how-to-stop-chrome-from-redirecting-to-https)
+- [Chrome Permissions on Startup How to Configure](/chrome-permissions-on-startup-how-to-configure)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)

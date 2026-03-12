@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Fullscreen Mode Shortcut"
-description: "Learn the keyboard shortcuts to enter and exit fullscreen mode in Chrome browser for an immersive browsing experience."
+description: "Learn the keyboard shortcuts to enter and exit fullscreen mode in Chrome browser for an immersive browsing experience. Check out our complete 2026 guide for ..."
 date: 2025-03-14
+last_modified_at: 2026-03-09
+permalink: chrome-fullscreen-mode-shortcut
 categories: [features, productivity]
 tags: [fullscreen, shortcuts, keyboard, chrome-features, browsing]
 author: theluckystrike
 ---
-
 # Chrome Fullscreen Mode Shortcut
 
 If you are looking for the chrome fullscreen mode shortcut, you are probably trying to get rid of the toolbars and borders around your browser so you can focus entirely on what is on your screen. Whether you are watching a video, following along with a tutorial, or just want more room to work, fullscreen mode is a handy feature that hides everything except the webpage itself.

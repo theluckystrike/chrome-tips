@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Gesture Navigation on Android"
-description: "Learn how to use and fix Chrome gesture navigation on Android for a smoother browsing experience."
+description: "Learn how to use and fix Chrome gesture navigation on Android for a smoother browsing experience. Check out our complete 2026 guide for more details and prof..."
 date: 2026-01-20
+last_modified_at: 2026-03-09
+permalink: chrome-gesture-navigation-on-android
 categories: [mobile, android, navigation]
 tags: [chrome-android, gesture-navigation, android-browser, mobile-browsing]
 author: theluckystrike
 ---
-
 # Chrome Gesture Navigation on Android
 
 If you are looking for chrome gesture navigation on Android, you have probably encountered some frustrating issues with Chrome not responding to your swipes and gestures properly. Many Android users have reported that Chrome gesture navigation on Android suddenly stops working or behaves unexpectedly. This guide will walk you through why this happens and how you can fix it.

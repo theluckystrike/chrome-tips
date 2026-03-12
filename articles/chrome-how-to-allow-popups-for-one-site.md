@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "chrome how to allow popups for one site"
-description: "Learn how to allow popups for one site in Chrome without disabling your popup blocker completely. Simple steps inside."
+description: "Learn how to allow popups for one site in Chrome without disabling your popup blocker completely. Simple steps inside. Check out our complete 2026 guide for ..."
 date: 2026-01-15
+last_modified_at: 2026-03-09
+permalink: chrome-how-to-allow-popups-for-one-site
 categories: [browser, settings]
 tags: [chrome, popups, browser-settings, permissions]
 author: theluckystrike
 ---
-
 # Chrome How to Allow Popups for One Site
 
 If you are searching for chrome how to allow popups for one site, you have probably run into a situation where a website you trust needs to open a new window, but Chrome keeps blocking it. This is a common problem that happens because Chrome's default popup blocker protects you from annoying ads and potentially harmful windows. However, there are legitimate reasons why certain websites need to open popups, and Chrome gives you the ability to allow them on a per-site basis. This guide will walk you through exactly how to do that.

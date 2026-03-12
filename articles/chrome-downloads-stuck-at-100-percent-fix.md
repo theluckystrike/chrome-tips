@@ -86,4 +86,9 @@ If you've tried all these solutions and downloads are still stuck, consider tryi
 
 Chrome downloads stuck at 100 percent are annoying, but they're usually fixable. Start with the simplest solutions and work your way through the more involved fixes. With these methods, you should be able to get your files downloaded and moving again.
 
+## Related Articles
+- [Chrome Using 100 Percent CPU Fix Windows](/chrome-tips/chrome-using-100-percent-cpu-fix-windows/)
+- [How to Fix Chrome Downloads Stuck at 100 Percent](/chrome-tips/chrome-downloads-stuck-at-100-percent/)
+- [Chrome Slow After Hibernation Fix](/chrome-tips/chrome-slow-after-hibernation-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

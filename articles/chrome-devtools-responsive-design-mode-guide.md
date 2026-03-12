@@ -110,4 +110,9 @@ You can also use the media queries inspector to see all media queries defined in
 
 Chrome DevTools Responsive Design Mode is an essential tool for any web developer. It streamlines cross-device testing, helps identify responsive issues early, and saves time by eliminating the need for constant device switching. By incorporating this tool into your regular development workflow, you'll deliver better experiences to visitors across all screen sizes and devices.
 
+## Related Articles
+- [Chrome Devtools Responsive Mode How to Use](/chrome-tips/chrome-devtools-responsive-mode-how-to-use/)
+- [Chrome DevTools Memory Profiling Guide](/chrome-tips/chrome-devtools-memory-profiling-guide/)
+- [Chrome DevTools Network Throttling Guide](/chrome-tips/chrome-devtools-network-throttling-guide/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

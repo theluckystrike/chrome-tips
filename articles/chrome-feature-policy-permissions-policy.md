@@ -100,4 +100,9 @@ If you want to optimize your Chrome experience and reduce browser resource consu
 
 Understanding the relationship between Feature-Policy and Permissions-Policy is important for modern web development. While Feature-Policy was the original name, Permissions-Policy is now the standard that you should use. By implementing these headers, you take control of which browser features your website can access, enhancing security and protecting user privacy. Take time to review what features your site actually needs, and disable everything else.
 
+## Related Articles
+- [Chrome Permissions Policy Header Explained](/chrome-tips/chrome-permissions-policy-header-explained/)
+- [Chrome Document Policy: The New Security Feature You Need to Know](/chrome-tips/chrome-document-policy-new-security-feature/)
+- [Chrome Content Security Policy Explained: A Complete Guide](/chrome-tips/chrome-content-security-policy-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

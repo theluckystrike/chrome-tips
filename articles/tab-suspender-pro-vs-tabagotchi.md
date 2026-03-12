@@ -23,7 +23,47 @@ faq:
     a: "No, Tabagotchi does not suspend or manage tabs at all. It only displays a virtual pet widget whose health and mood reflect your tab count—essentially gamifying your browsing habits as a motivation tool. Tab Suspender Pro, by contrast, actively suspends inactive tabs to free RAM, offers configurable auto-suspend timers ranging from 30 seconds to 8 hours, and includes URL whitelists and pinned tab protection. Tabagotchi is purely aesthetic with no actual resource management."
   - q: "Which Chrome extension has more users, Tab Suspender Pro or Tabagotchi?"
     a: "Tab Suspender Pro has significantly more users with over 1 million active users compared to Tabagotchi's 300,000+. This aligns with the review counts: TSP has 8,000+ reviews at 4.5 stars while Tabagotchi has 1,500+ reviews at 4.4 stars. The broader adoption of Tab Suspender Pro reflects its actual functionality for RAM management. Both extensions are free, but TSP delivers measurable performance gains that users clearly value."
----
+competitive_data:
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: ---
 
 # Tab Suspender Pro vs Tabagotchi: Complete 2026 Comparison
 

@@ -69,4 +69,10 @@ Also consider the file size of your PDF. High-resolution images make for better-
 
 Finally, always preview your PDF before finalizing the save. The **print preview** shows you exactly what will be included, allowing you to catch any issues before creating the file. Spending an extra minute on preview can save you from having to recreate the PDF later.
 
+## Related Articles
+- [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
+- [Chrome Emulate Print Media How To](/chrome-emulate-print-media-how-to)
+- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

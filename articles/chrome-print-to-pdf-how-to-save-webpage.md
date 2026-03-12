@@ -96,4 +96,10 @@ Remember that PDFs keep your text searchable and selectable, making them more us
 
 ---
 
+## Related Articles
+- [Chrome Offline Pages On Phone How To Save](/chrome-offline-pages-on-phone-how-to-save)
+- [Chrome Emulate Print Media How To](/chrome-emulate-print-media-how-to)
+- [Chrome Print to PDF Without Margins](/chrome-print-to-pdf-without-margins)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

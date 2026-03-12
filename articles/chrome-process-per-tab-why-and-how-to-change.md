@@ -73,4 +73,10 @@ The chrome process per tab feature exists for good reasons, and you do not need 
 
 ---
 
+## Related Articles
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+- [Chrome Notification Sound How to Change](/chrome-notification-sound-how-to-change)
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

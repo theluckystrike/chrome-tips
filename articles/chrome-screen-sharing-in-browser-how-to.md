@@ -70,3 +70,8 @@ Finally, let the other participants know when you are about to start sharing you
 ## Footer
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)

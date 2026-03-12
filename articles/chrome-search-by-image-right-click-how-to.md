@@ -84,3 +84,8 @@ Give it a try next time you come across an interesting image. With just a right 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Safe Search How to Lock](/chrome-safe-search-how-to-lock)
+- [Chrome Voice Search How To Use On Desktop](/chrome-voice-search-how-to-use-on-desktop)
+- [Chrome Side by Side Tabs How to Split Screen](/chrome-side-by-side-tabs-how-to-split-screen)

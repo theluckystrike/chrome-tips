@@ -109,4 +109,10 @@ The best approach combines several tools and features that work together to addr
 
 Remember that your needs may change over time, so periodically review your setup and make adjustments as necessary. Chrome continues to add new accessibility features, so staying informed about updates will help you take advantage of improvements to chrome screen reader support.
 
+## Related Articles
+- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

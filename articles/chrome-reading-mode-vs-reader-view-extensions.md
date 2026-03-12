@@ -89,4 +89,10 @@ Try both approaches and see which one fits your workflow better. The right solut
 
 ---
 
+## Related Articles
+- [Chrome for Reader View on Any Website](/chrome-for-reader-view-on-any-website)
+- [Chrome Developer Mode Extensions](/chrome-developer-mode-extensions)
+- [Chrome for Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

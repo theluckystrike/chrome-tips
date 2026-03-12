@@ -102,4 +102,10 @@ Finally, keep your browsers updated to ensure you have the latest security impro
 
 ---
 
+## Related Articles
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

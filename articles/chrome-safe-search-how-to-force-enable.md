@@ -71,3 +71,8 @@ Enabling Chrome Safe Search is one of the easiest ways to create a safer browsin
 Remember that no single solution is foolproof. Combining technical tools like Safe Search with open communication and supervision is the best approach to keeping everyone safe online.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
+- [How To Enable Chrome Enhanced Safe Browsing](/how-to-enable-chrome-enhanced-safe-browsing)
+- [Chrome Safe Search How to Lock](/chrome-safe-search-how-to-lock)

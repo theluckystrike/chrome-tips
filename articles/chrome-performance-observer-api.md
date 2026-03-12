@@ -73,4 +73,10 @@ Whether you are a developer building performance-conscious applications or a use
 
 ---
 
+## Related Articles
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Intersection Observer API Explained](/chrome-intersection-observer-api-explained)
+- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

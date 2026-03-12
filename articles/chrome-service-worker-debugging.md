@@ -151,3 +151,8 @@ Testing across multiple devices and browser contexts is important for comprehens
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+- [Chrome Remote Debugging for Beginners](/chrome-remote-debugging-for-beginners)
+- [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)
+- [Chrome Breakpoints and Conditional Debugging Guide](/chrome-breakpoints-conditional-debugging-guide)

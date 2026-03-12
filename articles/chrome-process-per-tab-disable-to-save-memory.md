@@ -99,4 +99,10 @@ Pay attention to how your computer performs and adjust accordingly. If you notic
 
 The goal is not to eliminate all memory usage, but rather to bring Chrome's resource consumption down to a level that allows your computer to run smoothly. With these practical steps, you can achieve that goal even on older hardware with limited RAM.
 
+## Related Articles
+- [Chrome Tab Memory Usage How To Check](/chrome-tab-memory-usage-how-to-check)
+- [Chrome Tab Memory Usage Keeps Growing](/chrome-tab-memory-usage-keeps-growing)
+- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

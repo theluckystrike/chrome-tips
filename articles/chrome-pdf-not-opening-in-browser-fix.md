@@ -115,4 +115,10 @@ In these cases, try downloading the PDF first (right-click and "Save link as") a
 
 ---
 
+## Related Articles
+- [Chrome PDF Not Opening Fix](/chrome-pdf-not-opening-fix)
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -86,3 +86,8 @@ Understanding what Chrome Safe Browsing sends to Google empowers you to make cho
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [How to Sign Out of Google in Chrome Without Losing Your Data](/chrome-sign-out-of-google-without-losing-data)
+- [Chrome Enhanced Safe Browsing Guide](/chrome-enhanced-safe-browsing)
+- [Chrome Safe Browsing Should I Turn On](/chrome-safe-browsing-should-i-turn-on)

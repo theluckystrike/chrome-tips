@@ -84,3 +84,8 @@ If you find yourself frequently managing many open tabs in Chrome alongside your
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Saved Passwords How to See Them](/chrome-saved-passwords-how-to-see-them)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)

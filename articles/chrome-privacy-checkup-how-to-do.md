@@ -87,4 +87,10 @@ Chrome makes it straightforward to take control of your privacy. The built-in pr
 
 Take a few minutes today to run through your privacy checkup. Your future self will thank you for taking the time to protect your information now.
 
+## Related Articles
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+- [How To Use Chrome Password Checkup Feature](/how-to-use-chrome-password-checkup-feature)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

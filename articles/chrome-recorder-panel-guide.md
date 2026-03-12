@@ -116,4 +116,10 @@ Remember to explore all the features we covered in this guide, experiment with d
 
 ---
 
+## Related Articles
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Recorder Panel How To Record User Flows](/chrome-recorder-panel-how-to-record-user-flows)
+- [Chrome Rendering Panel Guide](/chrome-rendering-panel-guide)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

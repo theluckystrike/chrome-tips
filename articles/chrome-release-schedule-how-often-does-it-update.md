@@ -86,4 +86,10 @@ For users who want additional control over their browsing environment, tools lik
 
 ---
 
+## Related Articles
+- [Chrome Web Nfc How It Works](/chrome-web-nfc-how-it-works)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

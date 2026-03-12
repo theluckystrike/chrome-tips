@@ -83,4 +83,10 @@ Chrome also offers Enhanced Safe Browsing, which provides additional protection 
 
 ---
 
+## Related Articles
+- [Chrome Badging API Explained](/chrome-badging-api-explained)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
+- [Chrome Sandbox Mode Explained](/chrome-sandbox-mode-explained)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

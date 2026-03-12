@@ -53,3 +53,8 @@ Chrome has been gradually rolling out support for this and other modern web feat
 This kind of improvement is part of a larger trend in web development where websites are becoming more adaptive and responsive to user needs. Whether you are browsing on a large desktop monitor, a laptop screen, or anything in between, these advances help ensure that you have a good experience regardless of how you prefer to arrange your windows.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Performance Observer API Explained](/chrome-performance-observer-api-explained)
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)

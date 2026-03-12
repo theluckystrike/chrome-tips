@@ -85,4 +85,10 @@ Remember that scroll-driven animations should enhance usability, not replace it.
 
 ---
 
+## Related Articles
+- [Chrome Scroll Not Smooth Fix](/chrome-scroll-not-smooth-fix)
+- [Chrome Extension for Auto Scroll Pages](/chrome-extension-for-auto-scroll-pages)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

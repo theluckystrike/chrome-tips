@@ -84,5 +84,11 @@ If you find yourself opening many tabs while performing security audits, you mig
 
 Using **Tab Suspender Pro** is a great way to keep your environment fast. It automatically "hibernates" inactive tabs, freeing up **RAM** so that **DevTools** remains responsive. This allows you to verify **HTTPS connections**, check for **mixed content**, and inspect **certificate authorities** without your browser hanging or crashing. A lean browser is essential for accurate technical analysis.
 
+## Related Articles
+- [How to Check If Chrome Extension Is Spying on Me](/how-to-check-if-chrome-extension-is-spying-on-me)
+- [Chrome Security Check How To Run](/chrome-security-check-how-to-run)
+- [Chrome Security Checkup How to Run](/chrome-security-checkup-how-to-run)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

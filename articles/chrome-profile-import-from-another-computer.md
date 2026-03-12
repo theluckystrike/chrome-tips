@@ -66,4 +66,10 @@ Getting your Chrome profile import from another computer does not require techni
 
 The key is to decide which method matches your situation. Sync works seamlessly when you have internet access and use a Google account. Manual import helps when you need to work offline or want to be more deliberate about what you transfer. Either path gets you back to browsing comfortably in no time.
 
+## Related Articles
+- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)
+- [Chrome Work Profile Vs Personal Profile Tips](/chrome-work-profile-vs-personal-profile-tips)
+- [How to Import Bookmarks from Firefox to Chrome](/how-to-import-bookmarks-from-firefox-to-chrome)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

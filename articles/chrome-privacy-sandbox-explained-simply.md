@@ -79,4 +79,10 @@ Take a few minutes to check your Chrome settings and decide what level of sharin
 
 Your privacy is worth the small amount of time it takes to understand these settings. The more you know about how your browser handles your data, the better decisions you can make about what you are willing to share.
 
+## Related Articles
+- [Chrome Privacy Sandbox What Regular Users Should Know](/chrome-privacy-sandbox-what-regular-users-should-know)
+- [Chrome Certificate Transparency Explained Simply](/chrome-certificate-transparency-explained-simply)
+- [Chrome Lighthouse Performance Score Explained Simply](/chrome-lighthouse-performance-score-explained-simply)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

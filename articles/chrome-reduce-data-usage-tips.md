@@ -84,4 +84,10 @@ Checking these stats occasionally helps you understand the impact of the changes
 
 ---
 
+## Related Articles
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
+- [Chrome Reduce Data Usage Mobile](/chrome-reduce-data-usage-mobile)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -76,4 +76,10 @@ You can change your profile name as often as you like. There is no limit on how 
 
 ---
 
+## Related Articles
+- [Chrome DNS Settings How to Change for Privacy](/chrome-dns-settings-how-to-change-for-privacy)
+- [Chrome Profile Specific Extensions How to Set](/chrome-profile-specific-extensions-how-to-set)
+- [Chrome Profile Picture How To Change](/chrome-profile-picture-how-to-change)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

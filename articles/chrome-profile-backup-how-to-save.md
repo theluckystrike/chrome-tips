@@ -89,4 +89,10 @@ If you used Chrome sync, simply sign in to your Google account on the new device
 
 A chrome profile backup is one of those things that seems unnecessary until you actually need it. Taking a few minutes to export your bookmarks and passwords, and perhaps enable Chrome sync, can save you countless hours of frustration down the road. Whether you prefer manual exports, automatic sync, or a combination of both, the important thing is to have a plan in place.
 
+## Related Articles
+- [Chrome Print to PDF How to Save Webpage](/chrome-print-to-pdf-how-to-save-webpage)
+- [Chrome Profile Specific Extensions How to Set](/chrome-profile-specific-extensions-how-to-set)
+- [How to Save Chrome Tabs for Later](/how-to-save-chrome-tabs-for-later)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -150,4 +150,10 @@ If you've tried all these fixes and Chrome still scrolls choppy, your computer m
 
 The "chrome scrolling is choppy and laggy" problem is usually fixable with the steps above. Start with closing tabs and enabling Memory Saver—you might be surprised how big a difference these simple changes make.
 
+## Related Articles
+- [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)
+- [Chrome Google Maps Slow and Laggy Fix](/chrome-google-maps-slow-and-laggy-fix)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

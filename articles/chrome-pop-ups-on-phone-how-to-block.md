@@ -78,4 +78,10 @@ Everyone has different needs when it comes to browsing on their phone. Some peop
 
 Start with the simplest option, which is making sure Chrome's pop-up blocker is turned on. If that is not enough, try DNS-level blocking or switch to a browser with better built-in tools. You do not need to implement every suggestion here. Just pick the ones that fit your lifestyle and your comfort level with technology.
 
+## Related Articles
+- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
+- [How to Block Websites on Chrome](/how-to-block-websites-on-chrome)
+- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -71,4 +71,10 @@ You should also pay attention to whether an extension continues to work properly
 
 ---
 
+## Related Articles
+- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
+- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
+- [Chrome DNS Over HTTPS How to Enable](/chrome-dns-over-https-how-to-enable)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

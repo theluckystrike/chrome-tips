@@ -95,4 +95,10 @@ As the web continues to evolve, APIs like this will play an increasingly importa
 
 Whether you're a developer looking to implement the API or a user curious about how your data is handled, the Private Aggregation API represents an important step toward a more privacy-conscious web.
 
+## Related Articles
+- [Chrome Navigation Timing API Explained](/chrome-navigation-timing-api-explained)
+- [Chrome Background Sync API Explained](/chrome-background-sync-api-explained)
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

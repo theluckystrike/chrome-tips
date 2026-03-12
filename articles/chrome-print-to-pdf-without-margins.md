@@ -61,4 +61,10 @@ Some documents look better with a little breathing room around the edges. White 
 
 ---
 
+## Related Articles
+- [How to Block Ads on Chrome Without Extension](/how-to-block-ads-on-chrome-without-extension)
+- [Chrome Ads on Phone How to Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+- [Chrome Offline Mode How To Browse Without Internet](/chrome-offline-mode-how-to-browse-without-internet)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

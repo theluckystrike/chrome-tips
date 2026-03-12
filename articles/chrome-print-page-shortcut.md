@@ -91,4 +91,10 @@ Printing from Chrome does not have to be frustrating. With these shortcuts and t
 
 ---
 
+## Related Articles
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+- [Chrome Bookmark Current Page Shortcut](/chrome-bookmark-current-page-shortcut)
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

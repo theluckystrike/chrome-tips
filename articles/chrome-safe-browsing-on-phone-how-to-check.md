@@ -73,3 +73,8 @@ Checking whether Chrome Safe Browsing is enabled on your phone takes just a minu
 Remember to check periodically that it has not been accidentally turned off, especially if you share your phone with others or have recently reset your device. With Safe Browsing enabled, you can browse with more confidence knowing that Chrome is watching out for potentially dangerous sites and downloads.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How To Enable Chrome Enhanced Safe Browsing](/how-to-enable-chrome-enhanced-safe-browsing)
+- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
+- [Chrome Microphone Access on Phone How to Control](/chrome-microphone-access-on-phone-how-to-control)

@@ -81,4 +81,10 @@ Running repeated recordings or keeping many tabs open while testing can sometime
 
 ---
 
+## Related Articles
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

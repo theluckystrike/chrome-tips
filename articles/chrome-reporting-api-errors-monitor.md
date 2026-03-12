@@ -82,4 +82,10 @@ Finally, remember that monitoring is only valuable if you act on the data you co
 
 ---
 
+## Related Articles
+- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+- [Chrome Attribution Reporting API Explained](/chrome-attribution-reporting-api-explained)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+
+
 Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)

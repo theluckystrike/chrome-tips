@@ -1,13 +1,23 @@
 ---
-layout: "default"
-title: "Chrome Service Worker Caching Explained"
-description: "Learn how Chrome service worker caching works, how to implement it in your web projects, and how it improves performance for Progressive Web Apps."
-date: "2026-03-12"
-last_modified_at: "2026-03-12"
-permalink: "chrome-service-worker-caching-explained"
-categories: [chrome, web-development, pwa, performance]
-tags: [service-worker, caching, pwa, web-performance, chrome-tips]
-author: "theluckystrike"
+layout: default
+title: Chrome Service Worker Caching Explained
+description: Learn how Chrome service worker caching works, how to implement it in
+  your web projects, and how it improves performance for Progressive Web Apps effectively.
+date: '2026-03-12'
+last_modified_at: '2026-03-12'
+permalink: chrome-service-worker-caching-explained
+categories:
+- chrome
+- web-development
+- pwa
+- performance
+tags:
+- service-worker
+- caching
+- pwa
+- web-performance
+- chrome-tips
+author: theluckystrike
 ---
 
 # Chrome Service Worker Caching Explained

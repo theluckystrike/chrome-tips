@@ -1,11 +1,20 @@
 ---
 layout: default
-title: "chrome tab hover preview cards enable"
-description: "Learn how to enable chrome tab hover preview cards to quickly preview tab content without clicking. This guide covers the built-in feature and extension alternatives."
+title: chrome tab hover preview cards enable
+description: Learn how to enable chrome tab hover preview cards to quickly preview
+  tab content without clicking. This guide covers built-in features and extension
+  alternatives.
 date: 2026-03-12
-categories: [productivity, tips]
-tags: [tabs, tab-preview, chrome-tips, productivity]
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- tab-preview
+- chrome-tips
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-12'
 ---
 
 # How to Enable Chrome Tab Hover Preview Cards

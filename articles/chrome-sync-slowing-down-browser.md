@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Sync Slowing Down Browser — Fix It Fast
-description: Is Chrome Sync making your browser slow? Discover why this happens and simple solutions to speed up Chrome when sync is active.
+description: Is Chrome Sync making your browser slow? Discover why this happens and
+  simple solutions to speed up Chrome when sync is active for better performance and
+  speed.
 date: 2026-03-12
 last_modified_at: '2026-03-12'
 permalink: chrome-sync-slowing-down-browser

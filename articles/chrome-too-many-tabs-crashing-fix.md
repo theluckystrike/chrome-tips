@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Too Many Tabs Crashing Fix
-description: Is Chrome crashing because you have too many tabs open? Discover practical solutions to prevent tab-related crashes and keep your browser running smoothly.
+description: Is Chrome crashing because you have too many tabs open? Discover practical
+  solutions to prevent tab-related crashes and keep your browser running smoothly
+  now.
 date: 2025-02-20
 categories:
 - performance
@@ -15,7 +17,7 @@ tags:
 - fix
 author: theluckystrike
 permalink: chrome-too-many-tabs-crashing-fix
-last_modified_at: '2025-02-20'
+last_modified_at: '2026-03-12'
 ---
 
 # Chrome Too Many Tabs Crashing Fix

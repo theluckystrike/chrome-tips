@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Sandbox Mode What It Does
-description: Discover what Chrome sandbox mode does and how it protects your browser from malicious websites and extensions. Learn why this security feature matters for everyday browsing.
+description: Discover what Chrome sandbox mode does and how it protects your browser
+  from malicious websites and extensions. Learn why this security feature matters
+  for you.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-sandbox-mode-what-it-does

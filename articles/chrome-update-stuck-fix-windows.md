@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Update Stuck? Here's How to Fix It on Windows
-description: Is your Chrome update stuck on Windows? Discover proven methods to get Chrome updating again, from simple restarts to advanced troubleshooting steps.
+description: Is your Chrome update stuck on Windows? Discover proven methods to get
+  Chrome updating again, from simple restarts to advanced troubleshooting steps effectively.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-update-stuck-fix-windows

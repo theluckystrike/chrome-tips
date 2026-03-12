@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Tab Management Tips for Productivity
-description: Struggling with too many open tabs? Discover practical chrome tab management tips for productivity that will help you work smarter, reduce clutter, and improve focus.
+description: Struggling with too many open tabs? Discover practical chrome tab management
+  tips for productivity that will help you work smarter and reduce your browser clutter.
+last_modified_at: '2026-03-12'
 ---
 
 # Chrome Tab Management Tips for Productivity

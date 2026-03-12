@@ -1,7 +1,9 @@
 ---
 layout: default
 title: How to Bypass Chrome SSL Certificate Error Safely
-description: Facing SSL certificate errors in Chrome? Learn safe methods to bypass certificate warnings, understand the risks involved, and discover when it's appropriate to proceed.
+description: Facing SSL certificate errors in Chrome? Learn safe methods to bypass
+  certificate warnings, understand the risks, and discover when it's appropriate to
+  proceed.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-ssl-certificate-error-bypass-safely

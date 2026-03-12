@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Site Isolation Memory Overhead
-description: Understand the memory overhead of Chrome Site Isolation, how it impacts RAM usage, and what you can do to optimize browser performance while maintaining security.
+description: Understand the memory overhead of Chrome Site Isolation, how it impacts
+  RAM usage, and how to optimize browser performance while maintaining high-level
+  security.
 date: 2026-01-20
 categories:
 - security
@@ -14,7 +16,7 @@ tags:
 - browser-performance
 - chrome-tips
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-site-isolation-memory-overhead
 ---
 # Chrome Site Isolation Memory Overhead

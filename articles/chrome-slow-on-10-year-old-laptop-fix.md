@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Slow on 10 Year Old Laptop Fix
-description: Is Chrome running slow on your 10-year-old laptop? Discover practical solutions to speed up your browser and extend the life of your older computer.
+description: Is Chrome running slow on your 10-year-old laptop? Discover practical
+  solutions to speed up your browser and extend the life of your older computer effectively.
 date: 2025-02-17
 categories:
 - performance
@@ -14,6 +15,7 @@ tags:
 - 10-year
 author: theluckystrike
 permalink: chrome-slow-on-10-year-old-laptop-fix
+last_modified_at: '2026-03-12'
 ---
 
 If your Chrome browser has become painfully slow on a 10-year-old laptop, you do not need to rush out and buy a new computer just yet. Older laptops can still provide excellent browsing experiences with the right tweaks and optimizations. This guide covers practical steps to fix Chrome when it runs slow on aging hardware.

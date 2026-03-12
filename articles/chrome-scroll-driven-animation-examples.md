@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Scroll-Driven Animation Examples You Need to See
-description: Discover how Chrome scroll-driven animations work and explore practical examples that can transform your web experience. Perfect for developers and curious users.
+description: Discover how Chrome scroll-driven animations work and explore practical
+  examples to transform your web experience. Perfect for developers and curious users.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-scroll-driven-animation-examples

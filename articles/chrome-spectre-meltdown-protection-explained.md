@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Chrome Spectre Meltdown Protection Explained — What You Need to Know
-description: Understand how Chrome protects you from Spectre and Meltdown vulnerabilities.
-  Learn about browser security features, site isolation, and practical steps to stay safe
-  while browsing.
+description: Understand how Chrome protects you from Spectre and Meltdown vulnerabilities
+  through site isolation and advanced security features to keep your data safe.
 date: 2026-03-12
 categories:
 - security

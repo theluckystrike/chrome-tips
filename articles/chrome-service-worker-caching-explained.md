@@ -66,4 +66,11 @@ For users who want to manage tab memory and improve browser performance, extensi
 
 Chrome service worker caching represents a fundamental shift in how web applications work, moving toward a model where websites can function like native applications with full offline capabilities. As more developers adopt this technology, users can expect increasingly fast and reliable web experiences regardless of their connection quality.
 
+## Related Articles
+
+- [Chrome Service Worker Debugging Guide](/chrome-tips/chrome-service-worker-debugging/)
+- [chrome stale while revalidate strategy explained](/chrome-tips/chrome-stale-while-revalidate-strategy-explained/)
+- [chrome pwa offline capability how it works](/chrome-tips/chrome-pwa-offline-capability-how-it-works/)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

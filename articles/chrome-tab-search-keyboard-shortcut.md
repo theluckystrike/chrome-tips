@@ -84,4 +84,11 @@ The Chrome tab search keyboard shortcut is one of those simple features that can
 
 Next time you feel overwhelmed by too many open tabs, remember: just press Ctrl+Shift+A (or Cmd+Shift+A on Mac), type a few characters, and let Chrome do the rest. Your productivity will thank you.
 
+## Related Articles
+
+- [How to Search Open Chrome Tabs](/chrome-tips/how-to-search-open-chrome-tabs/)
+- [Chrome Tab Search Feature How to Use](/chrome-tips/chrome-tab-search-feature-how-to-use/)
+- [Chrome Tab Management Shortcuts Cheat Sheet](/chrome-tips/chrome-tab-management-shortcuts-cheat-sheet/)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

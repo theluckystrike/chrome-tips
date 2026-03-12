@@ -1,19 +1,12 @@
 ---
 layout: post
-title: Chrome High Memory Usage Windows 11
-description: Chrome using too much RAM on Windows 11? Learn why it happens and practical
-  fixes to reduce memory usage. Check out our expert recommendations and tips to enha
-date: '2026-01-20'
-last_modified_at: '2026-03-09'
-permalink: chrome-high-memory-usage-windows-11
-categories:
-- performance
-- windows-11
-tags:
-- chrome-memory
-- windows-11
-- ram-usage
-- browser-performance
+title: "Chrome High Memory Usage Windows 11"
+description: "Chrome using too much RAM on Windows 11? Learn why it happens and practical..........................................................................."
+date: "2026-01-20"
+last_modified_at: '2026-03-12'
+permalink: "chrome-high-memory-usage-windows-11"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome High Memory Usage Windows 11
@@ -80,4 +73,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome Extensions for API Testing Simple](/articles/chrome-extensions-for-api-testing-simple/)
 * [chrome extensions for web clipping](/articles/chrome-extensions-for-web-clipping/)
 * [Chrome Browser Games Performance Tips](/articles/chrome-browser-games-performance-tips/)
-

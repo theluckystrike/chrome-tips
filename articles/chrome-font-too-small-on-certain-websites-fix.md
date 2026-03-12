@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Chrome Font Too Small on Certain Websites Fix
-description: Is text too small on some websites in Chrome? Learn why this happens
-  and easy fixes to make fonts readable on any site. Find out more tips on how to
-  optimize...
-date: '2026-03-09'
+title: "Chrome Font Too Small on Certain Websites Fix"
+description: "Is text too small on some websites in Chrome? Learn why this happens.................................................................................."
+date: "2026-03-09"
 last_modified_at: '2026-03-12'
-permalink: chrome-font-too-small-on-certain-websites-fix
+permalink: "chrome-font-too-small-on-certain-websites-fix"
 ---
 Chrome font too small on certain websites fix is something many Chrome users search for when they open a webpage and the text is barely readable. You visit one website and the text looks perfectly fine, then you click on another link and suddenly you are squinting at tiny letters that seem impossible to read. This frustrating experience happens to millions of people every day, and the good news is there are straightforward solutions. Let me walk you through why this happens and how you can fix it.
 
@@ -76,4 +74,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome Multiple Windows vs Tabs Which Is Better](/articles/chrome-multiple-windows-vs-tabs-which-is-better/)
 * [Chrome for Stable Diffusion Web UI Tips](/articles/chrome-for-stable-diffusion-web-ui-tips/)
 * [How to Sign Out of Google in Chrome Without Losing Your Data](/articles/chrome-sign-out-of-google-without-losing-data/)
-

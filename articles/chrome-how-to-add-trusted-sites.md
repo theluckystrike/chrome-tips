@@ -1,20 +1,12 @@
 ---
 layout: post
-title: chrome how to add trusted sites
-description: Learn how to add trusted sites in Chrome to control which websites can
-  access your location, downloads, and more. Check out our expert recommendations
-  and tips
-date: '2026-01-15'
-last_modified_at: '2026-03-09'
-permalink: chrome-how-to-add-trusted-sites
-categories:
-- browser
-- privacy
-tags:
-- chrome
-- trusted-sites
-- browser-settings
-- privacy
+title: "chrome how to add trusted sites"
+description: "Learn how to add trusted sites in Chrome to control which websites can................................................................................"
+date: "2026-01-15"
+last_modified_at: '2026-03-12'
+permalink: "chrome-how-to-add-trusted-sites"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome How to Add Trusted Sites
@@ -85,4 +77,3 @@ Managing your trusted sites in Chrome gives you better control over your privacy
 * [How to Use Chrome Without Signing In to Google](/articles/how-to-use-chrome-without-signing-in-to-google/)
 * [Chrome vs Vivaldi: Which Is More Customizable](/articles/chrome-vs-vivaldi-which-is-more-customizable/)
 * [chrome for github best extensions](/articles/chrome-for-github-best-extensions/)
-

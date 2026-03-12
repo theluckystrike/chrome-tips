@@ -1,19 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions for Website Blocker
-description: Discover the best Chrome extensions for website blocker tools to help
-  you focus, protect your family, and manage distractions. Read our comprehensive
-  guide t...
-date: 2026-03-09
-last_modified_at: '2026-03-09'
-permalink: chrome-extensions-for-website-blocker
-categories:
-- productivity
-tags:
-- website-blocking
-- chrome-extensions
-- focus
-- parental-controls
+title: "Chrome Extensions for Website Blocker"
+description: "Discover the best Chrome extensions for website blocker tools to help................................................................................."
+date: "2026-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-extensions-for-website-blocker"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Extensions for Website Blocker
@@ -106,4 +99,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/articles/chrome-slows-down-after-opening-20-tabs/)
 * [Chrome vs Safari on Mac — Which Uses Less Battery?](/articles/chrome-vs-safari-on-mac-battery/)
 * [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure/)
-

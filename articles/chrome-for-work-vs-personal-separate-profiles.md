@@ -1,20 +1,12 @@
 ---
-layout: default
-title: Chrome for Work vs Personal — How to Use Separate Profiles
-description: Keep your work and personal browsing separate in Chrome using profiles.
-  Setup guide, benefits, and tips for managing multiple Chrome identities. Check out
-  our
-date: '2025-03-02'
-last_modified_at: '2026-03-11'
-permalink: chrome-for-work-vs-personal-separate-profiles
-categories:
-- productivity
-- profiles
-tags:
-- chrome-profiles
-- work-personal
-- browser-profiles
-- productivity
+layout: post
+title: "Chrome for Work vs Personal — How to Use Separate Profiles"
+description: "Keep your work and personal browsing separate in Chrome using profiles................................................................................"
+date: "2025-03-02"
+last_modified_at: '2026-03-12'
+permalink: "chrome-for-work-vs-personal-separate-profiles"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome for Work vs Personal — How to Use Separate Profiles
@@ -89,4 +81,3 @@ Transitioning to a multi-profile workflow takes about five minutes to set up, bu
 * [Chrome Extensions for Musicians and Producers](/articles/chrome-extensions-for-musicians-and-producers/)
 * [Chrome Not Enough Memory Error](/articles/chrome-not-enough-memory-error/)
 * [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools/)
-

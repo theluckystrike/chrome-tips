@@ -1,19 +1,12 @@
 ---
 layout: post
-title: 'Chrome Idle Detection API Explained: What It Means for Your Browser'
-description: Learn what the Chrome Idle Detection API does, why websites use it, and
-  how it affects your browsing experience and privacy. Check out our expert recommendatio
-date: '2026-03-09'
-last_modified_at: '2026-03-09'
-permalink: chrome-idle-detection-api-explained
-categories:
-- privacy
-- features
-tags:
-- chrome-idle-detection
-- browser-privacy
-- chrome-api
-- user-tracking
+title: "Chrome Idle Detection API Explained: What It Means for Your Browser"
+description: "Learn what the Chrome Idle Detection API does, why websites use it, and..............................................................................."
+date: "2026-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-idle-detection-api-explained"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Idle Detection API Explained: What It Means for Your Browser
@@ -98,4 +91,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome Forced Extensions by Admin What It Means](/articles/chrome-forced-extensions-by-admin-what-it-means/)
 * [Best Chrome Extensions for Google Drive](/articles/best-chrome-extensions-for-google-drive/)
 * [Chrome for Travel Planning: Best Extensions](/articles/chrome-for-travel-planning-best-extensions/)
-

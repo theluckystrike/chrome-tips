@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Chrome Extensions That Save You Time
-description: Discover chrome extensions that save you time by streamlining workflows,
-  reducing distractions, and automating repetitive tasks in your browser. Read our
-  com...
-date: 2026-03-09
-last_modified_at: '2026-03-09'
-permalink: chrome-extensions-that-save-you-time
-categories:
-- productivity
-- tips
-tags:
-- chrome-extensions
-- productivity
-- time-saving
-- browser-tools
+title: "Chrome Extensions That Save You Time"
+description: "Discover chrome extensions that save you time by streamlining workflows,.............................................................................."
+date: "2026-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-extensions-that-save-you-time"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Extensions That Save You Time
@@ -83,4 +75,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome Opens on Startup Windows: How to Stop](/articles/chrome-opens-on-startup-windows-how-to-stop/)
 * [Chrome Color HD Gamut Display P3 - Complete Guide for 2026](/articles/chrome-color-hd-gamut-display-p3/)
 * [chrome extension for screenshot and annotate](/articles/chrome-extension-for-screenshot-and-annotate/)
-

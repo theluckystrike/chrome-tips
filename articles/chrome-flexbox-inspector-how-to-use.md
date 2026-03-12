@@ -1,21 +1,13 @@
 ---
 layout: post
-title: Chrome Flexbox Inspector How to Use
-description: Learn how to use Chrome flexbox inspector to visualize and fix layout
-  issues in your web designs quickly and easily. Find out more tips on how to optimize
-  yo...
-date: 2025-03-09
-categories:
-- productivity
-- tips
-tags:
-- devtools
-- chrome-tips
-- flexbox
-- layout
-author: theluckystrike
+title: "Chrome Flexbox Inspector How to Use"
+description: "Learn how to use Chrome flexbox inspector to visualize and fix layout................................................................................."
+date: "2025-03-09"
 last_modified_at: '2026-03-12'
-permalink: chrome-flexbox-inspector-how-to-use
+permalink: "chrome-flexbox-inspector-how-to-use"
+categories: 
+tags: 
+author: theluckystrike
 ---
 # Chrome Flexbox Inspector How to Use
 
@@ -91,4 +83,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [How to Use Chrome DevTools for Beginners](/articles/how-to-use-chrome-devtools-for-beginners/)
 * [chrome web share api how it works](/articles/chrome-web-share-api-how-it-works/)
 * [Chrome Uses All CPU When Idle Fix](/articles/chrome-uses-all-cpu-when-idle-fix/)
-

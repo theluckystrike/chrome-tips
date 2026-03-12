@@ -1,11 +1,10 @@
 ---
 layout: post
-title: chrome fingerprinting protection explained
-description: Learn what fingerprinting is, why it tracks you secretly, and how to
-  Check out these essential tools and tips to streamline your browsing workflow now.
-date: 2026-01-20
-last_modified_at: 2026-03-11
-permalink: chrome-fingerprinting-protection-explained
+title: "chrome fingerprinting protection explained"
+description: "Learn what fingerprinting is, why it tracks you secretly, and how to.................................................................................."
+date: "2026-01-20"
+last_modified_at: '2026-03-12'
+permalink: "chrome-fingerprinting-protection-explained"
 categories: null
 tags: null
 author: theluckystrike
@@ -68,4 +67,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome Voice Control How to Use](/articles/chrome-voice-control-how-to-use/)
 * [Chrome DevTools Issues Panel Explained](/articles/chrome-devtools-issues-panel-explained/)
 * [Chrome Toolbar Customization Tips](/articles/chrome-toolbar-customization-tips/)
-

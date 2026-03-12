@@ -1,21 +1,12 @@
 ---
 layout: post
-title: chrome not playing youtube videos fix
-description: Is Chrome not playing YouTube videos? This guide covers simple solutions
-  to get your YouTube videos working again in Chrome. Learn effective tips and tricks
-  ...
-date: '2026-03-09'
-last_modified_at: '2026-03-09'
-permalink: chrome-not-playing-youtube-videos-fix
-categories:
-- troubleshooting
-- youtube
-- media
-tags:
-- chrome-youtube
-- youtube-playback
-- youtube-fix
-- chrome-youtube-fix
+title: "chrome not playing youtube videos fix"
+description: "Is Chrome not playing YouTube videos? This guide covers simple solutions.............................................................................."
+date: "2026-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-not-playing-youtube-videos-fix"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Not Playing YouTube Videos Fix
@@ -108,4 +99,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix/)
 * [How to Make Chrome Open Links in a New Tab](/articles/how-to-make-chrome-open-links-in-new-tab/)
 * [How Many Chrome Tabs Can I Have Open](/articles/how-many-chrome-tabs-can-i-have-open/)
-

@@ -1,19 +1,12 @@
 ---
 layout: post
-title: chrome lighthouse audit how to run
-description: Learn how to run a Chrome Lighthouse audit to check your website performance,
-  accessibility, and SEO. Simple steps for beginners. Check out our expert recommen
-date: '2026-03-09'
-last_modified_at: '2026-03-11'
-permalink: chrome-lighthouse-audit-how-to-run
-categories:
-- tools
-- performance
-tags:
-- lighthouse
-- audit
-- performance
-- web-development
+title: "chrome lighthouse audit how to run"
+description: "Learn how to run a Chrome Lighthouse audit to check your website performance,........................................................................."
+date: "2026-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-lighthouse-audit-how-to-run"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Lighthouse Audit How to Run
@@ -88,4 +81,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome Extensions That Save You Time](/articles/chrome-extensions-that-save-you-time/)
 * [How to Turn Off Chrome Notifications Permanently](/articles/how-to-turn-off-chrome-notifications-permanently/)
 * [Chrome Extensions for Lighthouse Alternative](/articles/chrome-extensions-for-lighthouse-alternative/)
-

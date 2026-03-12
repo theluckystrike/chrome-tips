@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Chrome Most Visited Sites How to Remove
-description: Learn how to remove most visited sites in Chrome. Simple steps to clear,
-  hide, or customize the sites that appear on your new tab page. Learn effective tips
-  ...
-date: '2026-03-09'
-last_modified_at: '2026-03-09'
-permalink: chrome-most-visited-sites-how-to-remove
-categories:
-- browser-tips
-- customization
-tags:
-- new-tab
-- shortcuts
-- customization
-- most-visited
+title: "Chrome Most Visited Sites How to Remove"
+description: "Learn how to remove most visited sites in Chrome. Simple steps to clear,.............................................................................."
+date: "2026-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-most-visited-sites-how-to-remove"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Most Visited Sites How to Remove
@@ -79,4 +71,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes/)
 * [Chrome Redirect Virus How to Remove](/articles/chrome-redirect-virus-how-to-remove/)
 * [Chrome Google Workspace Integration Tips](/articles/chrome-google-workspace-integration-tips/)
-

@@ -1,21 +1,12 @@
 ---
 layout: post
-title: chrome gamepad api how to use
-description: Learn how to use the Chrome Gamepad API to connect game controllers to
-  your browser for playing web games with your favorite controller. Check out our
-  expert r
-date: '2026-03-09'
-last_modified_at: '2026-03-09'
-permalink: chrome-gamepad-api-how-to-use
-categories:
-- features
-- gaming
-tags:
-- gamepad
-- gaming
-- controllers
-- chrome-features
-- web-gaming
+title: "chrome gamepad api how to use"
+description: "Learn how to use the Chrome Gamepad API to connect game controllers to................................................................................"
+date: "2026-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-gamepad-api-how-to-use"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Gamepad API How to Use
@@ -82,4 +73,3 @@ Using the Gamepad API in Chrome is a great way to enjoy web games with a control
 * [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply/)
 * [Chrome for Photo Editing in Browser](/articles/chrome-for-photo-editing-in-browser/)
 * [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings/)
-

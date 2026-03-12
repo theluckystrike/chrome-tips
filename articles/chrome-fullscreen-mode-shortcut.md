@@ -1,21 +1,12 @@
 ---
 layout: post
-title: Chrome Fullscreen Mode Shortcut
-description: Learn the keyboard shortcuts to enter and exit fullscreen mode in Chrome
-  browser for an immersive browsing experience. Check out our expert recommendations
-  and
-date: '2025-03-14'
-last_modified_at: '2026-03-09'
-permalink: chrome-fullscreen-mode-shortcut
-categories:
-- features
-- productivity
-tags:
-- fullscreen
-- shortcuts
-- keyboard
-- chrome-features
-- browsing
+title: "Chrome Fullscreen Mode Shortcut"
+description: "Learn the keyboard shortcuts to enter and exit fullscreen mode in Chrome.............................................................................."
+date: "2025-03-14"
+last_modified_at: '2026-03-12'
+permalink: "chrome-fullscreen-mode-shortcut"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Fullscreen Mode Shortcut
@@ -96,4 +87,3 @@ Now that you know the chrome fullscreen mode shortcut, go ahead and try it. Pres
 * [Chrome Notification API Guide](/articles/chrome-notification-api-guide/)
 * [Chrome Send Feedback to Google How to](/articles/chrome-send-feedback-to-google-how-to/)
 * [chrome right to left language support](/articles/chrome-right-to-left-language-support/)
-

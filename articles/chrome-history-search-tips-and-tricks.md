@@ -1,19 +1,12 @@
 ---
 layout: post
-title: Chrome History Search Tips and Tricks
-description: Master Chrome's history search with these practical tips. Find any visited
-  page quickly using built-in features and smart search techniques. Check out our
-  expe
-date: '2025-03-09'
-last_modified_at: '2026-03-09'
-permalink: chrome-history-search-tips-and-tricks
-categories:
-- productivity
-- tips
-tags:
-- history
-- chrome-tips
-- browser-management
+title: "Chrome History Search Tips and Tricks"
+description: "Master Chrome's history search with these practical tips. Find any visited............................................................................"
+date: "2025-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-history-search-tips-and-tricks"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome History Search Tips and Tricks
@@ -74,4 +67,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [chrome privacy badger vs ublock origin comparison](/articles/chrome-privacy-badger-vs-ublock-origin-comparison/)
 * [Chrome Save Open Tabs as Bookmarks All at Once](/articles/chrome-save-open-tabs-as-bookmarks-all-at-once/)
 * [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to/)
-

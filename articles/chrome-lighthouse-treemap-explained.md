@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Chrome Lighthouse Treemap Explained
-description: Learn what the Chrome Lighthouse treemap shows, why it matters for your
-  website performance, and how to use it effectively. Check out our expert recommendation
-date: '2026-01-15'
-last_modified_at: '2026-03-09'
-permalink: chrome-lighthouse-treemap-explained
-categories:
-- performance
-- development
-- tools
-tags:
-- chrome-lighthouse
-- performance
-- web-development
-- browser-tools
+title: "Chrome Lighthouse Treemap Explained"
+description: "Learn what the Chrome Lighthouse treemap shows, why it matters for your..............................................................................."
+date: "2026-01-15"
+last_modified_at: '2026-03-12'
+permalink: "chrome-lighthouse-treemap-explained"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Lighthouse Treemap Explained
@@ -81,4 +73,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome vs Edge 2026 Comparison](/articles/chrome-vs-edge-2026/)
 * [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track/)
 * [Chrome Task Manager How to Use](/articles/chrome-task-manager-how-to-use/)
-

@@ -1,19 +1,12 @@
 ---
 layout: post
-title: Chrome Mailto Link Not Working Fix
-description: Chrome mailto link not working can be frustrating. Learn why it happens
-  and simple fixes to get email links working again. Check out our expert recommendations
-date: '2025-03-09'
-last_modified_at: '2026-03-09'
-permalink: chrome-mailto-link-not-working-fix
-categories:
-- troubleshooting
-- tips
-tags:
-- chrome-mailto
-- mailto-link-not-working
-- chrome-fix
-- browser-tips
+title: "Chrome Mailto Link Not Working Fix"
+description: "Chrome mailto link not working can be frustrating. Learn why it happens..............................................................................."
+date: "2025-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-mailto-link-not-working-fix"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Mailto Link Not Working Fix
@@ -70,4 +63,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome High CPU Usage When Watching Videos: Practical Fixes](/articles/chrome-high-cpu-usage-when-watching-videos/)
 * [Chrome Precaching vs Runtime Caching](/articles/chrome-precaching-vs-runtime-caching/)
 * [Chrome Gesture Navigation on Android](/articles/chrome-gesture-navigation-on-android/)
-

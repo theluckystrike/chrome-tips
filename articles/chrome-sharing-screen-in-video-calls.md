@@ -1,21 +1,13 @@
 ---
 layout: post
-title: Chrome Sharing Screen in Video Calls
-description: Having trouble with chrome sharing screen in video calls? Learn why it
-  happens and simple steps to fix screen sharing issues in Chrome. Read our comprehensive
-  g
-date: 2025-03-09
-categories:
-- troubleshooting
-- tips
-tags:
-- chrome-screen-sharing
-- video-calls
-- screen-share-problems
-- chrome-fix
+title: "Chrome Sharing Screen in Video Calls"
+description: "Having trouble with chrome sharing screen in video calls? Learn why it................................................................................"
+date: "2025-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-sharing-screen-in-video-calls"
+categories: 
+tags: 
 author: theluckystrike
-permalink: chrome-sharing-screen-in-video-calls
-last_modified_at: '2026-03-10'
 ---
 # Chrome Sharing Screen in Video Calls
 

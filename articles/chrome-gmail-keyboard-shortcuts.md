@@ -1,19 +1,12 @@
 ---
 layout: post
-title: Chrome Gmail Keyboard Shortcuts
-description: Learn essential Chrome Gmail keyboard shortcuts to speed up your email
-  workflow and save time every day. Check out our expert recommendations and tips
-  to enhan
-date: '2026-03-09'
-last_modified_at: '2026-03-09'
-permalink: chrome-gmail-keyboard-shortcuts
-categories:
-- tips
-- productivity
-tags:
-- gmail
-- keyboard-shortcuts
-- productivity
+title: "Chrome Gmail Keyboard Shortcuts"
+description: "Learn essential Chrome Gmail keyboard shortcuts to speed up your email................................................................................"
+date: "2026-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-gmail-keyboard-shortcuts"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Gmail Keyboard Shortcuts
@@ -86,4 +79,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome Address Bar Shortcuts You Didn't Know](/articles/chrome-address-bar-shortcuts-you-didnt-know/)
 * [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix/)
 * [Chrome Custom Properties CSS Variables](/articles//chrome-custom-properties-css-variables//)
-

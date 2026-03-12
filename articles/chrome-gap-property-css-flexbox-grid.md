@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Chrome Gap Property CSS Flexbox Grid
-description: Learn how the CSS gap property works in Chrome for flexbox and grid layouts,
-  plus fixes for common spacing issues. Check out our expert recommendations and tip
-date: '2026-03-09'
-last_modified_at: '2026-03-09'
-permalink: chrome-gap-property-css-flexbox-grid
-categories:
-- web-development
-- css
-- chrome
-tags:
-- css-gap
-- flexbox
-- grid-layout
-- chrome-tips
+title: "Chrome Gap Property CSS Flexbox Grid"
+description: "Learn how the CSS gap property works in Chrome for flexbox and grid layouts,.........................................................................."
+date: "2026-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-gap-property-css-flexbox-grid"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Gap Property CSS Flexbox Grid
@@ -77,4 +69,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome for Zen Mode Extensions](/articles/chrome-for-zen-mode-extensions/)
 * [Chrome vs Edge Battery Life Laptop Comparison](/articles/chrome-vs-edge-battery-life-laptop-comparison/)
 * [Chrome for Grammar Checking Extensions](/articles/chrome-for-grammar-checking-extensions/)
-

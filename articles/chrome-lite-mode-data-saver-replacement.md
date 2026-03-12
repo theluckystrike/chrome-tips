@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Chrome Lite Mode Data Saver Replacement
-description: Chrome Lite Mode is gone from desktop Chrome. Learn what happened and
-  find simple solutions to save data while browsing. Check out our expert recommendations
-  a
-date: '2026-01-15'
-last_modified_at: '2026-03-09'
-permalink: chrome-lite-mode-data-saver-replacement
-categories:
-- troubleshooting
-- data-saving
-tags:
-- chrome-lite-mode
-- data-saver
-- chrome-fix
-- browser-tips
+title: "Chrome Lite Mode Data Saver Replacement"
+description: "Chrome Lite Mode is gone from desktop Chrome. Learn what happened and................................................................................."
+date: "2026-01-15"
+last_modified_at: '2026-03-12'
+permalink: "chrome-lite-mode-data-saver-replacement"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Lite Mode Data Saver Replacement
@@ -81,4 +73,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome for Focus Music Playlists Extensions](/articles/chrome-for-focus-music-playlists-extensions/)
 * [Chrome Google Meet Integration in Browser](/articles/chrome-google-meet-integration-in-browser/)
 * [Chrome Reader View How to Enable on Any Site](/articles/chrome-reader-view-how-to-enable-on-any-site/)
-

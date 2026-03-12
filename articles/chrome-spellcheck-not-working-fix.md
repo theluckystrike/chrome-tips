@@ -1,7 +1,7 @@
 --- 
 layout: post
-title: Chrome Spellcheck Not Working? Here's How to Fix It
-description: Fix Chrome's spellcheck when it stops underlining misspelled words. Troubleshoot......................................................................
+title: 'How to Fix Chrome Spellcheck Not Working: A Quick Guide'
+description: "Troubleshoot Chrome spellcheck issues with our easy guide. Learn how to check language settings, resolve extension conflicts, and clear your custom dictionary."
 date: '2025-03-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-spellcheck-not-working-fix
@@ -99,11 +99,9 @@ Tab Suspender Pro is an extension that automatically manages your open tabs by s
 
 For casual writing (comments, messages, quick emails), Chrome's basic spellcheck is sufficient. For important documents, use a dedicated writing tool. And for a smoother overall experience that keeps all these features working reliably, make sure you are managing your browser's resources effectively.
 
----
-
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
-
 ## Related Articles
-* [Chrome Site Isolation Explained](/articles/chrome-site-isolation-explained/)
-* [Chrome Extensions for Link Checker Broken Links](/articles/chrome-extensions-for-link-checker-broken-links/)
-* [chrome save all open tabs as bookmarks](/articles/chrome-save-all-open-tabs-as-bookmarks/)
+- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

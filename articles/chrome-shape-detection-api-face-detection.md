@@ -1,7 +1,7 @@
 --- 
 layout: post
-title: Chrome Shape Detection API Face Detection
-description: Learn how Chrome's Shape Detection API enables face detection in your.................................................................................
+title: How to Use Chrome Shape Detection API for Face Detection
+description: "Learn how the Chrome Shape Detection API enables face detection directly in your browser. Discover how it works, privacy implications, and how to manage perm..."
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-shape-detection-api-face-detection
@@ -67,8 +67,8 @@ Finally, consider your overall browser performance. Running **Face Detection** a
 Using **Tab Suspender Pro** is an excellent way to handle this. It automatically "hibernates" background tabs, freeing up **RAM** and **CPU** resources so that your active **Shape Detection** tasks run smoothly and without lag. By keeping your browser lean, you ensure that high-performance **Web APIs** have the resources they need to function correctly.
 
 ## Related Articles
-* [Chrome Process Per Tab Why and How to Change](/articles/chrome-process-per-tab-why-and-how-to-change/)
-* [chrome mobile save page offline how to](/articles/chrome-mobile-save-page-offline-how-to/)
-* [chrome webgpu gaming in browser future](/articles/chrome-webgpu-gaming-in-browser-future/)
+- [Best Chrome Flags to Speed Up Browsing 2024](/chrome-tips/best-chrome-flags-to-speed-up-browsing-2024)
+- [Best Chrome Settings for a Slow Computer](/chrome-tips/best-chrome-settings-for-slow-computer)
+- [How to Speed Up Chrome in 5 Minutes](/chrome-tips/how-to-speed-up-chrome-in-5-minutes)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

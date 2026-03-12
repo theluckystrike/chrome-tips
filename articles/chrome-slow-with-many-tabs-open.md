@@ -85,9 +85,14 @@ Consider whether your computer meets Chrome's recommended requirements. On compu
 You might also want to try lighter browsers for everyday tasks and reserve Chrome for when you need its specific features. Some browsers use less memory but lack some of Chrome's capabilities.
 
 ## Related Articles
-- [Free Up Space on Your Chromebook](/chrome-tips/chromebook-storage-full-how-to-free-space)
-- [What Happens When Extensions Are Removed](/chrome-tips/what-happens-when-chrome-extension-is-removed-from-store)
-- [Chrome DevTools Rendering Tab Explained](/chrome-tips/chrome-devtools-rendering-tab-explained)
+* [How to Disable Chrome Auto Update on Windows](/articles/chrome-auto-update-disable-windows-guide/)
+* [How to Increase Chrome Cache Size](/articles/chrome-cache-size-how-to-increase/)
+* [Chrome Find on Page Shortcut Tips](/articles/chrome-find-on-page-shortcut-tips/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+## Related Articles
+
+- [Chrome WebGPU API Getting Started Guide](/articles/chrome-webgpu-api-getting-started)
+- [Chrome Reader View How to Enable on Any Site](/articles/chrome-reader-view-how-to-enable-on-any-site)
+- [Chrome Find on Page Shortcut Tips](/articles/chrome-find-on-page-shortcut-tips)

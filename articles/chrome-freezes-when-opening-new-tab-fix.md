@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Chrome Freezes When Opening New Tab Fix
-description: Is Chrome freezing when you open a new tab? Learn the common causes and...............................................................................
-date: '2026-01-15'
+title: "Chrome Freezes When Opening New Tab Fix"
+description: "You click the plus button to open a new tab in Chrome, and everything comes to a standstill. The browser freezes, the spinner spins endlessly, and you wait p..."
+date: "2026-01-15"
 last_modified_at: '2026-03-12'
 permalink: chrome-freezes-when-opening-new-tab-fix
 categories: null
@@ -85,6 +85,8 @@ To reset Chrome, go to Settings, click on "Reset settings" on the left side, and
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching/)
-* [chrome for booking.com best extensions](/articles/chrome-for-bookingcom-best-extensions/)
-* [Chrome for Roam Research Web Tips](/articles/chrome-for-roam-research-web-tips/)
+* [Chrome Net Internals Sockets View: Monitor and Manage Active Connections](/articles/chrome-net-internals-sockets-view-connections/)
+* [Chrome Extension Using Too Much Memory? Heres How to Find the Culprit](/articles/chrome-extension-using-too-much-memory-find/)
+* [Chrome Task Manager vs Windows Task Manager: Whats the Difference?](/articles/chrome-task-manager-vs-windows-task-manager/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

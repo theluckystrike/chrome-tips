@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Chrome Notifications Permission Per Site
-description: Learn how to manage Chrome notifications permission per site and control..............................................................................
-date: '2026-03-09'
+title: "Chrome Notifications Permission Per Site"
+description: "Chrome notifications permission per site is something many users want to understand better. When websites ask for permission to send you notifications, it ca..."
+date: "2026-03-09"
 last_modified_at: '2026-03-12'
-permalink: chrome-notifications-permission-per-site
+permalink: "chrome-notifications-permission-per-site"
+categories: 
+tags: 
+author: theluckystrike
 ---
 
 Chrome notifications permission per site is something many users want to understand better. When websites ask for permission to send you notifications, it can feel overwhelming if you have already allowed dozens of sites and now want to take back control. The good news is that Chrome makes it easy to manage notifications for each website individually, giving you precise control over which sites can send you alerts.
@@ -82,6 +85,8 @@ The most important thing is to regularly check who has permission to notify you.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users/)
-* [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix/)
-* [Chrome for Proxy Settings How to Configure](/articles/chrome-for-proxy-settings-how-to-configure/)
+* [Chrome Shared Storage API Explained](/articles/chrome-shared-storage-api-explained/)
+* [How to Speed Up Chrome on Chromebook in 2026](/articles/how-to-speed-up-chrome-on-chromebook-2026/)
+* [Chrome Tabs Flickering and Glitching Fix](/articles/chrome-tabs-flickering-and-glitching/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

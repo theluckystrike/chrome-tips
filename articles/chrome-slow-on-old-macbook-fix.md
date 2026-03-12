@@ -100,8 +100,15 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 ## Related Articles
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-- [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
+* [Chrome Extensions For Email Tracking Read Receipts](/articles/chrome-extensions-for-email-tracking-read-receipts/)
+* [Chrome Google Account Privacy Settings Guide](/articles/chrome-google-account-privacy-settings-guide/)
+* [Chrome for Screencastify Extension Guide](/articles/chrome-for-screencastify-extension-guide/)
 
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+>>>>>>> qa/loop-3
 
+## Related Articles
+
+- [How to Find a Tab by Name in Chrome: Complete Guide](/articles/chrome-find-tab-by-name-search)
+- [Chrome Navigate Back With Gesture How to](/articles/chrome-navigate-back-with-gesture-how-to)
+- [chrome surfshark extension review 2026](/articles/chrome-surfshark-extension-review-2026)

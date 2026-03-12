@@ -1,8 +1,8 @@
 ---
 layout: post
-title: chrome net err cert common name invalid fix
-description: Struggling with the chrome net err cert common name invalid error? Learn..............................................................................
-date: '2026-03-09'
+title: "chrome net err cert common name invalid fix"
+description: "If you have ever seen the error message "net err cert common name invalid" appear in your Chrome browser, you know how frustrating it can be. This SSL certif..."
+date: "2026-03-09"
 last_modified_at: '2026-03-12'
 permalink: chrome-net-err-cert-common-name-invalid-fix
 categories: null
@@ -95,6 +95,8 @@ Be cautious about the websites you visit and the links you click. Stick to well-
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix/)
-* [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix/)
-* [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions/)
+* [Should I Use Chrome or Edge in 2026?](/articles/should-i-use-chrome-or-edge-2026/)
+* [Best Chrome Extensions for Podcasters](/articles/best-chrome-extensions-for-podcasters/)
+* [How to Update Chrome on iPhone](/articles/how-to-update-chrome-on-iphone/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

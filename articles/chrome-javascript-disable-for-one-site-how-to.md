@@ -1,8 +1,8 @@
 ---
 layout: post
-title: chrome javascript disable for one site how to
-description: Learn how to disable JavaScript for one specific site in Chrome without...............................................................................
-date: '2026-01-15'
+title: "chrome javascript disable for one site how to"
+description: "If you are searching for chrome javascript disable for one site how to, you probably want to control which websites can run JavaScript in your browser. This ..."
+date: "2026-01-15"
 last_modified_at: '2026-03-12'
 permalink: chrome-javascript-disable-for-one-site-how-to
 categories: null
@@ -77,6 +77,8 @@ Taking control of JavaScript on a per-site basis gives you a more private, faste
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Payment Methods How to Remove](/articles/chrome-payment-methods-how-to-remove/)
-* [Why Is Chrome So Much Slower Than It Used to Be](/articles/why-is-chrome-so-much-slower-than-it-used-to-be/)
-* [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained/)
+* [Chrome Using Too Much Disk Space: A Complete Guide](/articles/chrome-using-too-much-disk-space/)
+* [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom/)
+* [How to Uninstall Chrome Completely and Reinstall](/articles/how-to-uninstall-chrome-completely-and-reinstall/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

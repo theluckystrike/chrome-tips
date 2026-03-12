@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Chrome New Tab Page Minimalist Extensions
-description: Discover minimalist Chrome new tab page extensions that keep things simple............................................................................
-date: '2026-03-09'
+title: "Chrome New Tab Page Minimalist Extensions"
+description: "If you are searching for chrome new tab page minimalist extensions, you probably want a cleaner, simpler browsing experience without the clutter that many ex..."
+date: "2026-03-09"
 last_modified_at: '2026-03-12'
 permalink: chrome-new-tab-page-minimalist-extensions
 categories: null
@@ -79,6 +79,8 @@ Take some time to explore your options and find what feels right. Once you settl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Password Manager on Phone vs Dedicated App](/articles/chrome-password-manager-on-phone-vs-dedicated-app/)
-* [How to Route Chrome Tab Audio to Separate Speakers](/articles/chrome-tab-audio-routing-separate-speakers/)
-* [chrome trusted types dom xss prevent](/articles/chrome-trusted-types-dom-xss-prevent/)
+* [Chrome Too Many Processes Task Manager](/articles/chrome-too-many-processes-task-manager/)
+* [First Input Delay Chrome Optimize](/articles/first-input-delay-chrome-optimize/)
+* [Best Chrome Extensions for Email Management](/articles/best-chrome-extensions-for-email-management/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

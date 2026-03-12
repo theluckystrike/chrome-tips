@@ -65,8 +65,8 @@ Finally, consider your overall browser performance. Running **Face Detection** a
 Using **Tab Suspender Pro** is an excellent way to handle this. It automatically "hibernates" background tabs, freeing up **RAM** and **CPU** resources so that your active **Shape Detection** tasks run smoothly and without lag. By keeping your browser lean, you ensure that high-performance **Web APIs** have the resources they need to function correctly.
 
 ## Related Articles
-- [Chrome Video Playback Stuttering Fix](/chrome-tips/chrome-video-playback-stuttering-fix)
-- [Chrome Extensions Using Too Much Memory](/chrome-tips/chrome-extensions-using-too-much-memory)
-- [Chrome Site Settings Explained](/chrome-tips/chrome-site-settings-explained-complete-guide)
+* [Chrome Process Per Tab Why and How to Change](/articles/chrome-process-per-tab-why-and-how-to-change/)
+* [chrome mobile save page offline how to](/articles/chrome-mobile-save-page-offline-how-to/)
+* [chrome webgpu gaming in browser future](/articles/chrome-webgpu-gaming-in-browser-future/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -63,8 +63,8 @@ Chrome's built-in **shopping list** is great for basic needs, but if you find yo
 Using **Tab Suspender Pro** is an excellent way to manage this. It automatically "hibernates" inactive shopping tabs, freeing up **system resources** so you can focus on your current purchase without your computer lagging. By keeping your browser lean, you ensure that your **Chrome shopping list** and **price tracking** tools remain perfectly responsive, even during heavy research sessions.
 
 ## Related Articles
-- [Best Chrome Extensions for Journalists](/chrome-tips/chrome-extensions-for-journalists)
-- [Chrome Extensions for Form Auto Filler](/chrome-tips/chrome-extensions-for-form-auto-filler)
-- [Best Chrome Bookmark Manager Extensions](/chrome-tips/chrome-extensions-for-bookmark-manager)
+* [Chrome Subresource Integrity Explained](/articles/chrome-subresource-integrity-explained/)
+* [Best Chrome Android Flags to Enable](/articles/best-chrome-android-flags-to-enable/)
+* [Chrome Storage Pressure How to Fix](/articles/chrome-storage-pressure-how-to-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

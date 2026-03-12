@@ -55,8 +55,8 @@ While **Tab Suspender Pro** is primarily an optimization tool, it integrates bea
 Using **Tab Suspender Pro** allows you to view a list of all active and "hibernated" tabs directly in the **side panel**. You can see exactly how much **memory** each tab is consuming and suspend them with a single click without leaving your current page. This real-time **resource management** ensures that your browser remains fast and responsive, even during heavy research sessions. It’s an essential utility for anyone who wants to keep their **tab bar** organized and their system running at peak performance.
 
 ## Related Articles
-- [Best Chrome Extensions for Cybersecurity](/chrome-tips/best-chrome-extensions-for-cybersecurity-professionals)
-- [Fix: Chrome Right Click Not Working](/chrome-tips/chrome-right-click-not-working-on-some-sites-fix)
-- [How to Limit Chrome Extension Permissions](/chrome-tips/how-to-limit-chrome-extension-permissions)
+* [How to Restore Closed Tabs in Chrome](/articles/chrome-restore-closed-tabs-guide/)
+* [Chrome Reader View How to Enable on Any Site](/articles/chrome-reader-view-how-to-enable-on-any-site/)
+* [Chrome Dinosaur Game Hidden Features](/articles/chrome-dinosaur-game-hidden-features/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

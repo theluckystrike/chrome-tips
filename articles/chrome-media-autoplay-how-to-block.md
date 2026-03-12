@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Chrome Media Autoplay How to Block
-description: Tired of videos playing automatically in Chrome? Learn simple ways to.................................................................................
-date: '2025-03-09'
+title: "Chrome Media Autoplay How to Block"
+description: "If you are looking for chrome media autoplay how to block, you have probably been annoyed by videos that start playing without your permission. You open a we..."
+date: "2025-03-09"
 last_modified_at: '2026-03-12'
 permalink: chrome-media-autoplay-how-to-block
 categories: null
@@ -69,6 +69,8 @@ The web should work for you, not against you. Autoplay exists because it benefit
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Emulate Print Media How To](/articles/chrome-emulate-print-media-how-to/)
-* [Chrome Lost All My Tabs After Update Fix](/articles/chrome-lost-all-my-tabs-update-fix/)
-* [Chrome for Google Scholar Best Extensions](/articles/chrome-for-google-scholar-best-extensions/)
+* [Chrome for Arxiv Paper Reader Extensions](/articles/chrome-for-arxiv-paper-reader-extensions/)
+* [Chrome Telemetry What Data Google Collects](/articles/chrome-telemetry-what-data-google-collects/)
+* [How to Improve Your Chrome Lighthouse Performance Score](/articles/chrome-lighthouse-performance-score-improve/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

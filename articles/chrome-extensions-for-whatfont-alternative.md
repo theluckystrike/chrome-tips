@@ -1,8 +1,8 @@
 ---
 layout: post
-title: chrome extensions for whatfont alternative
-description: Looking for chrome extensions for whatfont alternative? Discover tools................................................................................
-date: '2026-03-09'
+title: "chrome extensions for whatfont alternative"
+description: "If you have ever searched for chrome extensions for whatfont alternative, you probably know the frustration of finding a beautiful font on a website and want..."
+date: "2026-03-09"
 last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-whatfont-alternative
 categories: null
@@ -67,6 +67,8 @@ Take some time to try a few different extensions to find the one that works best
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser/)
-* [How to Allow Pop Ups on One Site Chrome](/articles/how-to-allow-pop-ups-on-one-site-chrome/)
-* [Best Chrome Extensions for Salespeople](/articles/best-chrome-extensions-for-salespeople/)
+* [Chrome Tab Search Feature How to Use](/articles/chrome-tab-search-feature-how-to-use/)
+* [Chrome Extensions for Web Scraping Without Code](/articles/chrome-extensions-for-web-scraping-without-code/)
+* [Chrome Opens Old Tabs on Startup How to Stop](/articles/chrome-opens-old-tabs-on-startup-how-to-stop/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

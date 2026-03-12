@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Chrome Google Maps Keyboard Shortcuts
-description: Discover keyboard shortcuts for Google Maps in Chrome. Navigate, zoom,................................................................................
-date: '2026-03-09'
+title: "Chrome Google Maps Keyboard Shortcuts"
+description: "Chrome google maps keyboard shortcuts are a fantastic way to navigate Google Maps much faster without constantly reaching for your mouse or trackpad. Whether..."
+date: "2026-03-09"
 last_modified_at: '2026-03-12'
-permalink: chrome-google-maps-keyboard-shortcuts
+permalink: "chrome-google-maps-keyboard-shortcuts"
+categories: 
+tags: 
+author: theluckystrike
 ---
 
 Chrome google maps keyboard shortcuts are a fantastic way to navigate Google Maps much faster without constantly reaching for your mouse or trackpad. Whether you are planning a road trip, finding a new restaurant, or exploring a city you are planning to visit, knowing these shortcuts can save you time and make your mapping experience much smoother.
@@ -76,6 +79,8 @@ With a little practice, you will find that using keyboard shortcuts makes your G
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Reader Mode How to Activate](/articles/chrome-reader-mode-how-to-activate/)
-* [chrome sync what it saves](/articles/chrome-sync-what-it-saves/)
-* [Chrome DevTools Memory Panel Explained](/articles/chrome-devtools-memory-panel-explained/)
+* [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app/)
+* [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/articles/chrome-coverage-tool-find-unused-css/)
+* [Chrome Making My Whole PC Lag Fix: Restore Your Systems Speed](/articles/chrome-making-my-whole-pc-lag-fix/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

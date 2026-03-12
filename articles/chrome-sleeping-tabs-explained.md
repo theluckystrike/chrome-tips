@@ -1,7 +1,7 @@
 --- 
 layout: post
-title: "Chrome Sleeping Tabs Explained: Memory Saving Guide"
-description: "Stop Chrome from hogging RAM with sleeping tabs. Learn how this memory-saving feature works and how to use it to keep your computer running fast and smooth."
+title: "Chrome Sleeping Tabs Explained: What They Are and How to Use Them"
+description: "If you have ever noticed Chrome running slower than usual, or seen a small message saying a tab was "inactive to save memory," you might have wondered why"
 date: "2026-03-09"
 last_modified_at: "2026-03-12"
 permalink: "chrome-sleeping-tabs-explained"

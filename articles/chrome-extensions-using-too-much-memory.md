@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Chrome Extensions Using Too Much Memory
-description: Chrome extensions using too much memory can slow your browser. Learn..................................................................................
-date: '2025-02-20'
+title: "Chrome Extensions Using Too Much Memory"
+description: "If you notice Chrome extensions using too much memory, you are not imagining it. This is one of the most common reasons Chrome feels sluggish, even on a dece..."
+date: "2025-02-20"
 last_modified_at: '2026-03-12'
 permalink: chrome-extensions-using-too-much-memory
 categories: null
@@ -57,6 +57,8 @@ For users who need many extensions and want to minimize memory usage, trying a d
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Task Manager How to Use](/articles/chrome-task-manager-how-to-use/)
-* [How to Remove Chrome Malware](/articles/how-to-remove-chrome-malware/)
-* [How to Turn Off Chrome Notifications Permanently](/articles/how-to-turn-off-chrome-notifications-permanently/)
+* [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/articles/chrome-smooth-scrolling-enable/)
+* [chrome web apps how to install](/articles/chrome-web-apps-how-to-install/)
+* [Chrome vs Edge Extensions Compatibility](/articles/chrome-vs-edge-extensions-compatibility/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

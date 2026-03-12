@@ -13,7 +13,7 @@ tags:
 - chatgpt
 - ai-tools
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-chatgpt-web-app-best-extensions
 ---
 # Chrome for ChatGPT Web App Best Extensions

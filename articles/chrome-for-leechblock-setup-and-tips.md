@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome for LeechBlock Setup and Tips"
-description: "Learn how to set up LeechBlock in Chrome to block distracting websites and improve your focus. Simple tips for getting started."
+title: Chrome for LeechBlock Setup and Tips
+description: Learn how to set up LeechBlock in Chrome to block distracting websites
+  and improve your focus. Simple tips for getting started. Learn how to optimize your
+  br...
 date: 2025-02-19
-categories: [productivity, extensions]
-tags: [leechblock, focus, website-blocking, productivity]
+categories:
+- productivity
+- extensions
+tags:
+- leechblock
+- focus
+- website-blocking
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-leechblock-setup-and-tips
 ---
-
 # Chrome for LeechBlock Setup and Tips
 
 If you have ever found yourself scrolling through social media when you should be working, chrome for leechblock setup and tips might be exactly what you need. LeechBlock is a free Chrome extension that helps you block distracting websites during work hours, and getting it set up takes just a few minutes. This guide walks you through everything you need to know.

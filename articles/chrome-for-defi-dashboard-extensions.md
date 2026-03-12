@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome for DeFi Dashboard Extensions"
-description: "Discover Chrome extensions for DeFi dashboards to manage your decentralized finance portfolio directly in your browser."
+title: Chrome for DeFi Dashboard Extensions
+description: Discover Chrome extensions for DeFi dashboards to manage your decentralized
+  finance portfolio directly in your browser. Learn how to optimize your browser to...
 date: 2026-03-10
-categories: [defi, tips]
-tags: [chrome-extensions, defi, dashboard, browser-tools]
+categories:
+- defi
+- tips
+tags:
+- chrome-extensions
+- defi
+- dashboard
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-defi-dashboard-extensions
 ---
-
 # Chrome for DeFi Dashboard Extensions
 
 If you are searching for chrome for defi dashboard extensions, you probably want a better way to keep track of your decentralized finance investments without juggling multiple websites and apps. Managing DeFi portfolios can quickly become overwhelming when you need to monitor liquidity pools, staking rewards, yield farming positions, and token balances across various protocols. The good news is that Chrome extensions can bring your entire DeFi dashboard directly into your browser, making it much easier to stay on top of your investments.

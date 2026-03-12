@@ -15,7 +15,7 @@ tags:
 - online-learning
 - academic-tools
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-canvas-lms-best-extensions
 ---
 # Chrome for Canvas LMS Best Extensions

@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "Chrome for Cold Turkey Blocker Setup"
-description: "Learn how to set up Chrome for Cold Turkey blocker to block distracting websites and boost your productivity."
+title: Chrome for Cold Turkey Blocker Setup
+description: Learn how to set up Chrome for Cold Turkey blocker to block distracting
+  websites and boost your productivity. Learn how to optimize your browser today for
+  be...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-cold-turkey-blocker-setup
 ---
-
 If you are searching for chrome for cold turkey blocker setup, you have already taken the first step toward reclaiming your focus and productivity. Setting up Chrome for Cold Turkey blocker is one of the most effective ways to take control of your browsing habits and stay focused on what matters. Whether you are trying to study for an exam, finish a work project, or simply want to reduce the time you spend scrolling through social media, having the right blocking tools in place can make a real difference.
 
 Cold Turkey is a well-known website blocker that works across different browsers, and getting it set up in Google Chrome is straightforward. In this guide, I will walk you through the entire process so you can start blocking distracting websites right away.

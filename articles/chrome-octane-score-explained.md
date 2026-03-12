@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Octane Score Explained"
-description: "Understand Chrome Octane score and how it affects browser performance. Learn what it means and how to improve your browser speed."
+description: "Understand Chrome Octane score and how it affects browser performance. Learn what it means and how to improve your browser speed. Check out our complete 2026..."
 date: 2026-01-15
+last_modified_at: 2026-03-09
+permalink: chrome-octane-score-explained
 categories: [performance, browser-speed]
 tags: [chrome-octane, browser-benchmark, chrome-performance]
 author: theluckystrike
 ---
-
 # Chrome Octane Score Explained
 
 If you have been searching for chrome octane score explained, you probably came across this term while looking into browser performance or maybe while troubleshooting Chrome being slow. This guide will walk you through what Octane is, why it matters, and what you can do about it.

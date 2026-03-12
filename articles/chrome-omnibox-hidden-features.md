@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Omnibox Hidden Features"
-description: "Discover hidden Chrome Omnibox features including tab search, Google Drive search, built-in calculator, timer, and unit conversions. Supercharge your browser productivity."
+description: "Discover hidden Chrome Omnibox features including tab search, Google Drive search, built-in calculator, timer, and unit conversions. Supercharge your browser..."
 date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: chrome-omnibox-hidden-features
 categories: [productivity, tips]
 tags: [chrome, omnibox, browser-tips, productivity, hidden-features]
 author: theluckystrike
 ---
-
 # Chrome Omnibox Hidden Features
 
 The Chrome Omnibox—the address bar at the top of your browser—is far more powerful than most users realize. While most people use it simply to type website URLs or search queries, Google's engineering team has packed it with dozens of hidden features that can dramatically boost your productivity. From searching your open tabs to performing mathematical calculations, the Omnibox can replace dozens of browser extensions and save you precious clicks. In this comprehensive guide, we'll explore the full range of Omnibox capabilities that most Chrome users have never discovered.

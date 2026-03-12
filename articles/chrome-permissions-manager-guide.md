@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Permissions Manager Guide"
-description: "Learn how to manage Chrome permissions for camera, microphone, location, notifications, and per-site controls to protect your privacy and security."
+description: "Learn how to manage Chrome permissions for camera, microphone, location, notifications, and per-site controls to protect your privacy and security. Check out..."
 date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: chrome-permissions-manager-guide
 categories: [privacy, security, browser]
 tags: [chrome-permissions, privacy, camera, microphone, location, notifications, browser-security]
 author: theluckystrike
 ---
-
 # Chrome Permissions Manager Guide
 
 Modern web browsers have become incredibly powerful platforms that can access your device's hardware and sensitive information. While this enables rich web experiences—from video calls to location-aware applications—it also raises important questions about privacy and security. Chrome's Permissions Manager is your central hub for controlling what websites can access, giving you granular control over your digital privacy.

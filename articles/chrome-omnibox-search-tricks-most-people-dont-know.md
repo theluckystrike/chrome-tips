@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Omnibox Search Tricks Most People Dont Know"
-description: "Discover hidden Chrome omnibox search tricks that can transform how you browse. Learn simple tips to search faster and work more efficiently."
+description: "Discover hidden Chrome omnibox search tricks that can transform how you browse. Learn simple tips to search faster and work more efficiently. Check out our c..."
 date: 2025-02-20
+last_modified_at: 2026-03-10
+permalink: chrome-omnibox-search-tricks-most-people-dont-know
 categories: [productivity, tips]
 tags: [chrome-omnibox, chrome-tips, browser-tips, productivity]
 author: theluckystrike
 ---
-
 # Chrome Omnibox Search Tricks Most People Dont Know
 
 If you have ever searched for chrome omnibox search tricks most people dont know, you might be wondering what hidden features Chrome has that could make your browsing experience much better. The truth is that the address bar at the top of your Chrome browser is far more powerful than most people realize. It can do calculations, conversions, definitions, and so much more without you ever needing to visit a separate website.

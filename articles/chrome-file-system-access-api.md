@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome File System Access API: A Complete Guide"
-description: "Learn how the Chrome File System Access API enables web apps to read, write, and manage local files directly from the browser."
+title: 'Chrome File System Access API: A Complete Guide'
+description: Learn how the Chrome File System Access API enables web apps to read,
+  write, and manage local files directly from the browser. Learn how to optimize your
+  bro...
 date: 2026-03-11
-categories: [web-development, tips]
-tags: [chrome-api, file-system, web-development, browser-features]
+categories:
+- web-development
+- tips
+tags:
+- chrome-api
+- file-system
+- web-development
+- browser-features
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-file-system-access-api
 ---
-
 # Chrome File System Access API: A Complete Guide
 
 The Chrome File System Access API represents one of the most significant advancements in web browser capabilities in recent years. This powerful API enables web applications to interact with local files on your computer in ways that were previously impossible without native software. If you have ever wondered how web apps can now open, edit, and save files directly to your hard drive, the answer lies in this innovative API.

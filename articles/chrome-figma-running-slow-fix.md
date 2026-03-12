@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Figma Running Slow Fix: A Practical Guide"
-description: "Is Chrome slow with Figma open? Learn step-by-step solutions to fix performance issues and get Figma running smoothly again."
+title: 'Chrome Figma Running Slow Fix: A Practical Guide'
+description: Is Chrome slow with Figma open? Learn step-by-step solutions to fix performance
+  issues and get Figma running smoothly again. Learn how to optimize your brows...
 date: 2026-01-20
-categories: [chrome, performance, figma]
-tags: [chrome-figma, browser-performance, figma-tips, chrome-slow]
+categories:
+- chrome
+- performance
+- figma
+tags:
+- chrome-figma
+- browser-performance
+- figma-tips
+- chrome-slow
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-figma-running-slow-fix
 ---
-
 # Chrome Figma Running Slow Fix
 
 If Chrome runs slow when Figma is open, you are not alone. Many designers and developers experience this frustrating performance issue. The good news is that there are several practical steps you can take to fix it. In this guide, I will walk you through the most effective solutions, from simple browser settings to extensions that can dramatically improve your workflow.

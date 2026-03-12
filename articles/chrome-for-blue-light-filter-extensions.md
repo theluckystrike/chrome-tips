@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "Chrome for Blue Light Filter Extensions"
-description: "Discover Chrome extensions for filtering blue light and protecting your eyes during nighttime browsing sessions."
+title: Chrome for Blue Light Filter Extensions
+description: Discover Chrome extensions for filtering blue light and protecting your
+  eyes during nighttime browsing sessions. Learn how to optimize your browser today
+  for...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-blue-light-filter-extensions
 ---
-
 If you are looking for chrome for blue light filter extensions, you have probably noticed how uncomfortable it can be to stare at a bright screen in a dark room. Whether you are working late, browsing social media before bed, or watching videos at night, the harsh blue light from your monitor can leave your eyes feeling tired and make it harder to fall asleep. The good news is that Chrome offers a variety of extensions specifically designed to filter out blue light and create a more comfortable viewing experience.
 
 ## Why Blue Light Matters for Your Eyes

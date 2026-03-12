@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Chrome Extension for Video Downloading: What is Legal"
-description: "Learn which video downloading Chrome extensions are legal and how to stay within the law while saving videos."
-date: 2026-03-09
-categories: [legal, extensions]
-tags: [chrome-extensions, video, downloading, legal, copyright]
-author: theluckystrike
+description: "Learn which video downloading Chrome extensions are legal and how to stay within the law while saving videos. Discover how these tools can significantly impr..."
+date: "2026-03-09"
+last_modified_at: "2026-03-10"
+permalink: "chrome-extension-for-video-downloading-legal"
+layout: "post"
+categories: "[legal, extensions]"
+tags: "[chrome-extensions, video, downloading, legal, copyright]"
+author: "theluckystrike"
 ---
 
 # Chrome Extension for Video Downloading: What is Legal

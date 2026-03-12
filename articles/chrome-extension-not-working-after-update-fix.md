@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Chrome Extension Not Working After Update Fix"
-description: "Your chrome extension not working after update fix? Here's why it happens and simple solutions to get your extensions working again."
-date: 2025-03-09
-categories: [extensions, troubleshooting]
-tags: [chrome-extension-not-working, chrome-update-fix, extension-troubleshooting, browser-fixes]
-author: theluckystrike
+description: "Your chrome extension not working after update fix? Here's why it happens and simple solutions to get your extensions working again. Discover how these tools..."
+date: "2025-03-09"
+last_modified_at: "2026-03-10"
+permalink: "chrome-extension-not-working-after-update-fix"
+layout: "post"
+categories: "[extensions, troubleshooting]"
+tags: "[chrome-extension-not-working, chrome-update-fix, extension-troubleshooting, browser-fixes]"
+author: "theluckystrike"
 ---
 
 Chrome extension not working after update fix is something many Chrome users face. You open your browser after Chrome updates itself, and suddenly your favorite extensions stop functioning. Buttons do not respond, menus do not open, or the extensions simply disappear from your toolbar. This happens more often than you might think, and the good news is that there are several ways to fix it.

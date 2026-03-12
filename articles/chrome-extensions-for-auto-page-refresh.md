@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "chrome extensions for auto page refresh"
-description: "Find the best chrome extensions for auto page refresh to keep your content up to date without manually refreshing your browser."
-date: 2026-01-15
-categories: [extensions, productivity]
-tags: [auto-refresh, chrome-extension, productivity, browser]
-author: theluckystrike
+description: "Find the best chrome extensions for auto page refresh to keep your content up to date without manually refreshing your browser. Discover how these tools can ..."
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "chrome-extensions-for-auto-page-refresh"
+layout: "post"
+categories: "[extensions, productivity]"
+tags: "[auto-refresh, chrome-extension, productivity, browser]"
+author: "theluckystrike"
 ---
 
 # Chrome Extensions for Auto Page Refresh

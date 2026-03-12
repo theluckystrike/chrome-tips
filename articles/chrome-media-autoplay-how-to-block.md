@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Media Autoplay How to Block"
-description: "Tired of videos playing automatically in Chrome? Learn simple ways to block media autoplay and take control of your browsing experience."
+description: "Tired of videos playing automatically in Chrome? Learn simple ways to block media autoplay and take control of your browsing experience. Check out our comple..."
 date: 2025-03-09
+last_modified_at: 2026-03-09
+permalink: chrome-media-autoplay-how-to-block
 categories: [tips, privacy]
 tags: [media, autoplay, chrome-tips, browser-settings]
 author: theluckystrike
 ---
-
 # Chrome Media Autoplay How to Block
 
 If you are looking for chrome media autoplay how to block, you have probably been annoyed by videos that start playing without your permission. You open a website to read an article, and suddenly a video starts blaring music or sound from somewhere on the page. This is called autoplay, and it is one of the most frustrating experiences when browsing the web. The good news is that you can stop this behavior and take back control of your Chrome browser.

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Media Session API for Music Players"
-description: "Learn how the Chrome Media Session API lets web music players show track info and respond to media keys."
+description: "Learn how the Chrome Media Session API lets web music players show track info and respond to media keys. Check out our complete 2026 guide for more details a..."
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-media-session-api-for-music-players
 categories: [features, music, api]
 tags: [chrome, media-session, music-players, browser]
 author: theluckystrike
 ---
-
 # Chrome Media Session API for Music Players
 
 If you use music players that run directly in your browser, you have probably noticed something convenient happening. When you play a song, the track name and artist appear in various places around Chrome, and you can sometimes control playback using buttons on your keyboard or headphones without switching to the browser window. This is made possible by a feature called the Media Session API, and it is changing how we interact with web-based music.

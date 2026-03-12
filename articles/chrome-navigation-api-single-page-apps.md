@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Chrome Navigation API for Single Page Apps: A Complete Guide"
-description: "Learn how Chrome Navigation API enables smooth single page app navigation, improves user experience, and handles URL changes without page reloads."
+description: "Learn how Chrome Navigation API enables smooth single page app navigation, improves user experience, and handles URL changes without page reloads. Check out ..."
+date: 2026-03-12
+last_modified_at: 2026-03-11
+permalink: chrome-navigation-api-single-page-apps
 ---
-
 Chrome navigation api for single page apps has transformed how developers build modern web applications. If you have used a website that feels like a native app, where clicking links does not cause a full page reload but the content changes instantly, you have experienced a single page app in action. The Chrome Navigation API makes this possible by giving developers precise control over how the browser handles URL changes and navigation history.
 
 ## What Makes Single Page Apps Different

@@ -14,7 +14,7 @@ tags:
 - browser-fixes
 - chrome-help
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-12
 permalink: chrome-blocked-download-how-to-unblock
 ---
 # Chrome Blocked Download How to Unblock
@@ -94,3 +94,8 @@ Finally, contact the website where the download is hosted. They might be aware o
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser](/chrome-sanitizer-api-html-safe/)
+- [Best Chrome Extensions for Lawyers 2026](/best-chrome-extensions-for-lawyers-2026/)
+- [Chrome Devtools Snippets How to Use](/chrome-devtools-snippets-how-to-use/)

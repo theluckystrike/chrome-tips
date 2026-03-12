@@ -16,7 +16,7 @@ tags:
 - security
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-biometric-authentication-web
 ---
 # Chrome Biometric Authentication for the Web
@@ -80,3 +80,8 @@ As web standards mature and more applications adopt WebAuthn, users can expect b
 Whether you are a user looking for a more convenient way to log in or a developer building the next generation of web applications, understanding and leveraging Chrome's biometric authentication capabilities will serve you well in the years ahead.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [how to enable chrome experimental features](/how-to-enable-chrome-experimental-features/)
+- [Chrome Readable Streams Explained](/chrome-readable-streams-explained/)
+- [chrome performance monitor fps counter](/chrome-performance-monitor-fps-counter/)

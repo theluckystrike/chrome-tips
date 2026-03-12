@@ -15,7 +15,7 @@ tags:
 - browser-performance
 - memory
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-back-forward-cache-explained
 ---
 # Chrome Back Forward Cache Explained
@@ -73,3 +73,8 @@ If you find that Chrome is using more memory than you would like, or if your bro
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Password Manager on Phone vs Dedicated App](/chrome-password-manager-on-phone-vs-dedicated-app/)
+- [Chrome for Salesforce Web App Optimization](/chrome-for-salesforce-web-app-optimization/)
+- [Chrome Slow After Hibernation Fix](/chrome-slow-after-hibernation-fix/)

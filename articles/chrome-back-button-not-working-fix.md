@@ -14,7 +14,7 @@ tags:
 - chrome-fix
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-12
 permalink: chrome-back-button-not-working-fix
 ---
 # Chrome Back Button Not Working Fix
@@ -94,3 +94,8 @@ Sometimes hardware issues can cause browser problems. If your computer is runnin
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/chrome-devtools-sensors-tab-geolocation/)
+- [Chrome Toolbar Missing Fix](/chrome-toolbar-missing-fix/)
+- [Chrome Extension Manifest V3 What Users Need to Know](/chrome-extension-manifest-v3-what-users-need-to-know/)

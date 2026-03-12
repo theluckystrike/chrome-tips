@@ -15,7 +15,7 @@ tags:
 - progressive-web-apps
 - chrome-background-tasks
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-background-fetch-for-pwas-explained
 ---
 # Chrome Background Fetch for PWAs Explained
@@ -81,3 +81,8 @@ Regular maintenance helps too. Periodically check which PWAs you have installed 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extension for Translating Selected Text](/chrome-extension-for-translating-selected-text/)
+- [How to Enable Chrome Reading List](/how-to-enable-chrome-reading-list/)
+- [Can Chrome Extensions Steal Your Data](/can-chrome-extensions-steal-your-data/)

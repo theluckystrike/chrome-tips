@@ -15,7 +15,7 @@ tags:
 - security
 - passwords
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-biometric-login-how-to-set-up
 ---
 # Chrome Biometric Login How to Set Up
@@ -87,3 +87,8 @@ While Chrome handles biometric login natively for many websites, you can enhance
 For users who want to ensure their biometric credentials are handled securely, browser extensions that manage WebAuthn credentials can be helpful. These tools let you view and manage which websites have access to your biometric data, giving you more control over your authentication methods.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Text Expander](/chrome-extensions-for-text-expander/)
+- [Chrome Memory Inspector How to Use](/chrome-memory-inspector-how-to-use/)
+- [Chrome Flags Best Settings 2026: The Ultimate Guide](/chrome-flags-best-settings-2026/)

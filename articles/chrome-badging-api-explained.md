@@ -13,7 +13,7 @@ tags:
 - chrome-features
 - notifications
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-badging-api-explained
 ---
 Chrome badging API explained is a topic that comes up when users notice small numbers or dots appearing on their browser toolbar icons. If you have ever seen a red badge showing how many unread messages you have, or a small dot indicating something new on a website, you have encountered what the Badging API enables.
@@ -71,3 +71,8 @@ While Tab Suspender Pro does not directly control badge functionality, it does h
 Using tools like this, along with understanding how features like the Badging API work, can help you get more out of your time spent browsing the web.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative/)
+- [Chrome Credential Manager Autofill Explained](/chrome-credential-manager-autofill-explained/)
+- [Chrome Tab Limit: Is There a Maximum?](/chrome-tab-limit-is-there-a-maximum/)

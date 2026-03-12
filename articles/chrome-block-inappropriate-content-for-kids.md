@@ -13,7 +13,7 @@ tags:
 - content-filtering
 - chrome-for-families
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-block-inappropriate-content-for-kids
 ---
 # Chrome Block Inappropriate Content for Kids
@@ -85,3 +85,8 @@ Remember that no filter is 100 percent effective. The best protection comes from
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome WebAssembly Debugging Guide](/chrome-wasm-debugging-guide/)
+- [Chrome Security Checkup How to Run](/chrome-security-checkup-how-to-run/)
+- [How to Customize Chrome Toolbar](/how-to-customize-chrome-toolbar/)

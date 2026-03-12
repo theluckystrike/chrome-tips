@@ -14,7 +14,7 @@ tags:
 - payment-methods
 - chrome-settings
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-autofill-credit-card-how-to-remove
 ---
 # Chrome Autofill Credit Card How to Remove
@@ -74,3 +74,8 @@ That said, Chrome's built-in settings are usually sufficient for most users who 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Layers Panel Explained](/chrome-layers-panel-explained/)
+- [Chrome Extension for Saving Passwords Securely](/chrome-extension-for-saving-passwords-securely/)
+- [Chrome CORS Error Explained in Simple Terms](/chrome-cors-error-explained-simple-terms/)

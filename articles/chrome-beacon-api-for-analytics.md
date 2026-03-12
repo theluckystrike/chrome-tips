@@ -13,7 +13,7 @@ tags:
 - web-analytics
 - browser-data
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-beacon-api-for-analytics
 ---
 # Chrome Beacon API for Analytics
@@ -63,3 +63,8 @@ For users who are concerned about privacy, there are steps you can take to limit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Accessibility Tree Guide](/chrome-accessibility-tree-guide/)
+- [How to Limit Chrome Memory Usage on Windows](/how-to-limit-chrome-memory-usage-windows/)
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on/)

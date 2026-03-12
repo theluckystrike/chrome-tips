@@ -12,7 +12,7 @@ tags:
 - chrome-settings
 - focus
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-block-specific-websites-guide
 ---
 # Chrome Block Specific Websites Guide
@@ -139,3 +139,8 @@ Start with the method that matches your technical comfort level. If you want som
 Take a few minutes to set up your preferred method, and enjoy the freedom of a more focused browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [How to Auto Create and Organize Chrome Tab Groups](/chrome-tab-groups-auto-create-organize/)
+- [Chrome Version How to Check Which Version](/chrome-version-how-to-check-which-version/)
+- [Chrome Console Utilities Reference](/chrome-console-utilities-guide/)

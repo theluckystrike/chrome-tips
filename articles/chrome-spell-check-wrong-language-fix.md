@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Spell Check Wrong Language Fix"
-description: "Is Chrome spell check using the wrong language? Here is how to fix it and get accurate spelling suggestions in your preferred language."
+description: "Is Chrome spell check using the wrong language? Here is how to fix it and get accurate spelling suggestions in your preferred language. Read more to optimize yo"
 date: 2025-03-15
+last_modified_at: 2026-03-10
+permalink: chrome-spell-check-wrong-language-fix
 categories: [troubleshooting, features]
 tags: [spellcheck, chrome-fix, language, spelling]
 author: theluckystrike
 ---
+
 
 # Chrome Spell Check Wrong Language Fix
 

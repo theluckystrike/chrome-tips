@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Share Chrome Tabs in Video Calls
-description: Learn the easy methods to share specific Chrome tabs during video calls
+description: "Learn the easy methods to share specific Chrome tabs during video calls..............................................................................."
   with colleagues, friends, or family. Read our comprehensive guide to learn more
   and o...
 date: '2026-01-01'

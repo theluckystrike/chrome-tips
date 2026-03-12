@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Search Open Chrome Tabs
-description: Too many Chrome tabs open? Learn simple ways to search and find exactly
+description: "Too many Chrome tabs open? Learn simple ways to search and find exactly..............................................................................."
   what you need without clicking through dozens of tabs. Read our comprehensive guide
   t...
 date: '2025-03-09'

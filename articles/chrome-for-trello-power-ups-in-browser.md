@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome for Trello Power Ups in Browser
-description: Learn how to use Chrome extensions as power ups for Trello directly in
+description: "Learn how to use Chrome extensions as power ups for Trello directly in................................................................................"
   your browser to enhance project management. Check out our expert recommendations
   and tip
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-trello-power-ups-in-browser
 categories:
 - productivity

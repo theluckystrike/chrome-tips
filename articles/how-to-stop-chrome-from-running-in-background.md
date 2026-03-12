@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Stop Chrome from Running in Background
-description: Chrome running in background using resources? Learn simple steps to disable
+description: "Chrome running in background using resources? Learn simple steps to disable..........................................................................."
   background processes and save battery and memory. Read our comprehensive guide to...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'

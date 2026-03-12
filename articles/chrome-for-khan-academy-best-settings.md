@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Khan Academy Best Settings
-description: Optimize Chrome for Khan Academy with these simple settings. Improve
+description: "Optimize Chrome for Khan Academy with these simple settings. Improve.................................................................................."
   performance, reduce distractions, and enhance your learning experience. Discover
   more ti
 date: '2026-03-12'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Report Dangerous Chrome Extension
-description: Learn how to identify and report dangerous Chrome extensions to protect
+description: "Learn how to identify and report dangerous Chrome extensions to protect..............................................................................."
   yourself and others from malicious browser extensions. Read our comprehensive guide
   t...
 date: '2026-01-01'

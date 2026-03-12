@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Figma Best Settings
-description: Optimize Chrome for smoother Figma design work. Learn settings that improve
+description: "Optimize Chrome for smoother Figma design work. Learn settings that improve..........................................................................."
   performance and reduce lag. Find out more tips on how to optimize your Chrome bro...
 date: 2025-02-20
 categories:

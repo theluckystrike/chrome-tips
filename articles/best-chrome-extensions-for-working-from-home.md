@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Chrome Extensions for Working From Home
-description: Discover the best Chrome extensions for working from home. Boost productivity,
+description: "Discover the best Chrome extensions for working from home. Boost productivity,........................................................................"
   stay organized, and work more efficiently with these essential tools. Learn ho...
 date: 2026-03-09
 categories:
@@ -14,7 +14,7 @@ tags:
 - productivity
 - work-from-home
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-working-from-home
 ---
 # Best Chrome Extensions for Working From Home

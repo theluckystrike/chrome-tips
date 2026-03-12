@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chrome Default Search Engine Changed How to Fix
-description: Your Chrome default search engine changed without permission? Heres how
+description: "Your Chrome default search engine changed without permission? Heres how..............................................................................."
   to fix it and stop unwanted search engine modifications in your browser. Learn more
 date: 2026-01-20
 categories:
@@ -13,7 +13,7 @@ tags:
 - search-engine-fix
 - chrome-default-search
 author: theluckystrike
-last_modified_at: '%Y->-'
+last_modified_at: '2026-03-12'
 permalink: /chrome-default-search-engine-changed-how-to-fix/
 ---
 # Chrome Default Search Engine Changed How to Fix

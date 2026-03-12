@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome DevTools Command Menu Shortcuts
-description: Learn how to use Chrome DevTools command menu shortcuts to work faster,
+description: "Learn how to use Chrome DevTools command menu shortcuts to work faster,..............................................................................."
   access hidden features, and navigate developer tools like a pro. Learn more about
   h
 date: 2025-03-09
@@ -14,7 +14,7 @@ tags:
 - developer-tools
 - shortcuts
 author: theluckystrike
-last_modified_at: '%Y->-'
+last_modified_at: '2026-03-12'
 permalink: /chrome-devtools-command-menu-shortcuts/
 ---
 # Chrome DevTools Command Menu Shortcuts

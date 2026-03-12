@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome css container type inline size
-description: Learn how to use CSS container queries with container-type inline-size
+description: "Learn how to use CSS container queries with container-type inline-size................................................................................"
   in Chrome. This guide explains how to create responsive components that adapt based
   on their container's width, not the viewport.
 date: 2026-01-15
@@ -16,6 +16,7 @@ tags:
 - web-development
 author: theluckystrike
 permalink: chrome-css-container-type-inline-size
+last_modified_at: '2026-03-12'
 ---
 # Chrome CSS Container Type Inline Size: A Complete Guide
 

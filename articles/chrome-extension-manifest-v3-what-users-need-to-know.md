@@ -1,9 +1,9 @@
 ---
 title: Chrome Extension Manifest V3 What Users Need to Know
-description: Chrome Manifest V3 changes how extensions work. Find out what this means
+description: "Chrome Manifest V3 changes how extensions work. Find out what this means.............................................................................."
   for your browser and how to adapt. Discover how these tools can significantly improv...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-manifest-v3-what-users-need-to-know
 layout: post
 ---

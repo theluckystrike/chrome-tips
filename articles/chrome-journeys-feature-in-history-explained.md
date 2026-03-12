@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Journeys Feature in History Explained
-description: Learn about Chrome Journeys, the AI-powered feature that groups your
+description: "Learn about Chrome Journeys, the AI-powered feature that groups your.................................................................................."
   browsing history into meaningful timelines. Find past pages easily. Check out our
   expert r
 date: '2025-03-10'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-journeys-feature-in-history-explained
 categories:
 - features

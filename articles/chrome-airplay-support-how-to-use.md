@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome AirPlay Support How to Use
-description: Want to use AirPlay with Chrome? Learn why it is not natively supported
+description: "Want to use AirPlay with Chrome? Learn why it is not natively supported..............................................................................."
   and what alternatives work. Learn how to optimize your browser today for better
   perfo...
 date: 2026-01-15
@@ -14,7 +14,7 @@ tags:
 - streaming
 - mac-tips
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-airplay-support-how-to-use
 ---
 # Chrome AirPlay Support How to Use

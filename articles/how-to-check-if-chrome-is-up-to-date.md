@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Check If Chrome Is Up to Date
-description: Learn simple ways to verify your Chrome browser is updated. Keep your
+description: "Learn simple ways to verify your Chrome browser is updated. Keep your................................................................................."
   browser secure and running smoothly with these easy steps. Read our comprehensive
   guide...
 date: '2025-03-09'

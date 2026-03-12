@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Blue Light Filter Extensions
-description: Discover Chrome extensions for filtering blue light and protecting your
+description: "Discover Chrome extensions for filtering blue light and protecting your..............................................................................."
   eyes during nighttime browsing sessions. Find out more tips on how to optimize your
   C...
 date: '2026-01-15'

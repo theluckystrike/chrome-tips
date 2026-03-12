@@ -1,10 +1,10 @@
 ---
 title: Chrome Contact Picker API Explained
-description: Learn what Chrome Contact Picker API is, how websites use it, and how
+description: "Learn what Chrome Contact Picker API is, how websites use it, and how................................................................................."
   to manage contact access permissions in your browser for better privacy. Read our
   full gui
 date: '2026-03-09'
-last_modified_at: '%Y->- (origin/fix/lastmod-batch-4)'
+last_modified_at: '2026-03-12'
 permalink: chrome-contact-picker-api-explained
 layout: post
 categories:

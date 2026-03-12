@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chrome vs Edge on Windows 11 — Which Is Actually Faster?
-description: Real-world comparison of Chrome and Edge on Windows 11. Speed tests,
+description: "Real-world comparison of Chrome and Edge on Windows 11. Speed tests,.................................................................................."
   memory usage, battery life, and which browser integrates better with your system.
 date: '2025-02-22'
 last_modified_at: '2026-03-12'

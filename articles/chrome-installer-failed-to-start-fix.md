@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Installer Failed to Start Fix
-description: Chrome installer failed to start fix - learn why this happens and simple
+description: "Chrome installer failed to start fix - learn why this happens and simple.............................................................................."
   solutions to get Chrome installed and running. Check out our expert recommendations
   an
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-installer-failed-to-start-fix
 categories:
 - troubleshooting

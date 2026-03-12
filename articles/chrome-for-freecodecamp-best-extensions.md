@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for FreeCodeCamp Best Extensions
-description: Discover the best Chrome extensions for FreeCodeCamp learners to boost
+description: "Discover the best Chrome extensions for FreeCodeCamp learners to boost................................................................................"
   productivity, manage tabs, and accelerate your coding journey. Find out more tips
   on h...
 date: 2026-03-10

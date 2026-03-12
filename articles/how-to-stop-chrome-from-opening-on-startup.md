@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Stop Chrome from Opening on Startup
-description: Chrome launching automatically when you start your computer? Learn simple
+description: "Chrome launching automatically when you start your computer? Learn simple............................................................................."
   ways to stop Chrome from opening on startup and take control of your system.
 date: '2025-03-09'
 last_modified_at: '2026-03-12'

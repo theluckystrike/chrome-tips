@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Streams API for Large Files
-description: Learn how Chrome Streams API handles large files efficiently, what it
+description: "Learn how Chrome Streams API handles large files efficiently, what it................................................................................."
   means for your browsing, and practical tips for everyday users. Read our comprehensive
   gui
 date: '2025-03-10'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-streams-api-for-large-files
 categories:
 - tips

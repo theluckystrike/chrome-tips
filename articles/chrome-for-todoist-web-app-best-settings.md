@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Todoist Web App Best Settings
-description: Optimize Chrome for the Todoist web app with these settings for better
+description: "Optimize Chrome for the Todoist web app with these settings for better................................................................................"
   speed, smoother task management, and improved productivity. Discover more tips and
   tri
 date: 2025-03-10

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Your Connection Is Not Private Fix
-description: Seeing the Your Connection Is Not Private error in Chrome? Learn why
+description: "Seeing the Your Connection Is Not Private error in Chrome? Learn why.................................................................................."
   it happens and how to fix it with simple steps. Read our comprehensive guide to
   learn mo...
 date: '2026-01-01'

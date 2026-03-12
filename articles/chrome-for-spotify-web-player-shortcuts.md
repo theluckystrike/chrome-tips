@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Spotify Web Player Shortcuts
-description: Discover keyboard shortcuts for Spotify in Chrome. Control playback,
+description: "Discover keyboard shortcuts for Spotify in Chrome. Control playback,.................................................................................."
   skip tracks, and manage playlists faster. Discover more tips and tricks to optimize
   your
 date: '2026-03-12'

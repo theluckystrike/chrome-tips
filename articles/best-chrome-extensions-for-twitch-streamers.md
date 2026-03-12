@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Chrome Extensions for Twitch Streamers
-description: Discover the best Chrome extensions for Twitch streamers to enhance your
+description: "Discover the best Chrome extensions for Twitch streamers to enhance your.............................................................................."
   broadcasts, engage viewers, and streamline your workflow. Learn how to optimize
   your...
 date: 2026-03-10
@@ -14,7 +14,7 @@ tags:
 - streamers
 - browser-tools
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-twitch-streamers
 ---
 # Best Chrome Extensions for Twitch Streamers

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Web Notifications Best Practices
-description: Master Chrome web notifications with these practical tips to reduce interruptions
+description: "Master Chrome web notifications with these practical tips to reduce interruptions....................................................................."
   Read our comprehensive guide to learn more and optimize your browser experi...
 date: '2026-03-09'
 last_modified_at: '2026-03-12'

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: how to enable cookies in chrome
-description: Learn how to enable cookies in Chrome to fix login issues, session problems,
+description: "Learn how to enable cookies in Chrome to fix login issues, session problems,.........................................................................."
   Read our comprehensive guide to learn more and optimize your browser experience
   ...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: how-to-enable-cookies-in-chrome
 categories: ''
 tags: ''

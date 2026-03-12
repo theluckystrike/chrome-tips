@@ -1,10 +1,10 @@
 ---
 title: Chrome Components Page Update Manually
-description: Learn how to manually update Chrome components using the components page.
+description: "Learn how to manually update Chrome components using the components page.............................................................................."
   Simple steps to keep your browser running smoothly. Read our full guide to master
   your
 date: '2026-01-15'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-components-page-update-manually
 layout: post
 categories:

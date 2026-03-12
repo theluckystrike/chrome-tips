@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Sync Not Working Fix
-description: Chrome sync not working can be frustrating. Learn why it happens and
+description: "Chrome sync not working can be frustrating. Learn why it happens and.................................................................................."
   simple steps to get your browsing data syncing again. Read our comprehensive guide
   to learn
 date: 2025-03-09

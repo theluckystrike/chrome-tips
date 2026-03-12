@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Origin Trials What They Are
-description: Learn what Chrome origin trials are, why they matter for web developers,
+description: "Learn what Chrome origin trials are, why they matter for web developers,.............................................................................."
   and how to enable them to test new browser features before everyone else. Learn
   effe...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-origin-trials-what-they-are
 categories:
 - chrome

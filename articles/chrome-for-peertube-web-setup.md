@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for PeerTube Web Setup
-description: Learn how to optimize Chrome for watching videos on PeerTube. Setup tips
+description: "Learn how to optimize Chrome for watching videos on PeerTube. Setup tips.............................................................................."
   for smooth video playback and better browsing. Discover more tips and tricks to
   opti
 date: 2025-02-19

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome Clients Claim Take Control: What It Means for Your Browser'
-description: Discover what Chrome clients claiming take control means and how it affects
+description: "Discover what Chrome clients claiming take control means and how it affects..........................................................................."
   your browsing experience, privacy, and browser settings.
 date: 2026-03-12
 categories:
@@ -15,6 +15,7 @@ tags:
 - privacy
 author: theluckystrike
 permalink: chrome-clients-claim-take-control
+last_modified_at: '2026-03-12'
 ---
 # Chrome Clients Claim Take Control: What It Means for Your Browser
 

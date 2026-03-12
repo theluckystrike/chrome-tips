@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for site search from address bar
-description: 'Learn how to search any website directly from Chrome''s address bar.
+description: "Learn how to search any website directly from Chrome''s address bar..................................................................................."
   This guide shows simple steps to enable site search and speed up your browsing.
   Discover '
 date: '2026-03-12'

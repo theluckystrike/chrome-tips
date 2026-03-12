@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome for Codecademy: In-Browser Optimization'
-description: Learn how to optimize Chrome for a smoother Codecademy experience. Reduce
+description: "Learn how to optimize Chrome for a smoother Codecademy experience. Reduce............................................................................."
   lag, save memory, and learn more efficiently. Find out more tips on how to optimize...
 date: 2025-03-10
 categories:

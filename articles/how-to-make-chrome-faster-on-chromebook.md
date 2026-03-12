@@ -16,7 +16,6 @@ tags:
 - browser performance
 author: theluckystrike
 ---
-
 # How to Make Chrome Faster on Chromebook
 
 Chromebooks are designed for speed and simplicity, but if you use Chrome extensively with multiple tabs and extensions, you may notice some slowdown over time. Whether you're working on multiple projects, browsing with numerous open tabs, or running web applications, optimizing Chrome on your Chromebook can significantly improve your experience. This guide provides practical methods to help you get the best performance from Chrome on your Chromebook.

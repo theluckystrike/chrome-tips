@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Fullscreen Not Working Fix
-description: Having trouble with Chrome fullscreen not working? Learn the common causes
+description: "Having trouble with Chrome fullscreen not working? Learn the common causes............................................................................"
   and simple fixes to get fullscreen mode working again. Check out our expert recommen
 date: '2025-03-14'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-fullscreen-not-working-fix
 categories:
 - troubleshooting

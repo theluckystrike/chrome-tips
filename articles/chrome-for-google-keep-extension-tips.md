@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Google Keep Extension Tips
-description: Get the most out of Google Keep in Chrome with these practical extension
+description: "Get the most out of Google Keep in Chrome with these practical extension.............................................................................."
   tips for better note-taking and productivity. Discover more tips and tricks to optim
 date: 2026-03-05
 categories:

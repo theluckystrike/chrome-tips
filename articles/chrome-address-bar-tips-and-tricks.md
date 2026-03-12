@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Address Bar Tips and Tricks
-description: Master the Chrome address bar with these practical tips and tricks that
+description: "Master the Chrome address bar with these practical tips and tricks that..............................................................................."
   can speed up your daily browsing. Learn how to optimize your browser today for better...
 date: 2026-01-15
 categories:
@@ -13,7 +13,7 @@ tags:
 - browser-tips
 - shortcuts
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-address-bar-tips-and-tricks
 ---
 # Chrome Address Bar Tips and Tricks

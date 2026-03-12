@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Block Ads on Chrome Android
-description: Tired of annoying ads on Chrome for Android? Learn simple methods to
+description: "Tired of annoying ads on Chrome for Android? Learn simple methods to.................................................................................."
   block ads on Chrome Android and enjoy a cleaner, faster browsing experience. Read
   our co...
 date: '2026-03-09'

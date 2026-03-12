@@ -1,11 +1,11 @@
 ---
 layout: post
 title: chrome privacy sandbox explained for users
-description: 'Understanding Chrome Privacy Sandbox: what it is, how it changes your
+description: "Understanding Chrome Privacy Sandbox: what it is, how it changes your................................................................................."
   browsing, and what it means for your privacy. Learn effective tips and tricks to
   optimi...'
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-privacy-sandbox-explained-for-users
 categories:
 - privacy

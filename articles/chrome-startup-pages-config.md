@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Startup Pages Configuration
-description: Learn how to configure Chrome startup pages to customize your browsing
+description: "Learn how to configure Chrome startup pages to customize your browsing................................................................................"
   experience. Set Chrome to continue where you left off, open specific pages, or display...
 date: 2026-01-15
 categories:
@@ -15,7 +15,7 @@ tags:
 - startup-pages
 author: theluckystrike
 permalink: chrome-startup-pages-config
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Startup Pages Configuration
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Using Too Much Disk Space Fix
-description: Is Chrome eating up your disk space? Learn simple fixes to free up storage
+description: "Is Chrome eating up your disk space? Learn simple fixes to free up storage............................................................................"
   and speed up your browser. Read our comprehensive guide to learn more and optimize...
 date: '2026-01-01'
 last_modified_at: '2026-03-12'

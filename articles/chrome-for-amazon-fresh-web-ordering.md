@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Amazon Fresh Web Ordering
-description: Learn how to optimize Chrome for Amazon Fresh web ordering. Get tips
+description: "Learn how to optimize Chrome for Amazon Fresh web ordering. Get tips.................................................................................."
   on faster checkout, managing delivery slots, and improving your grocery shopping
   experie...
 date: 2026-03-10

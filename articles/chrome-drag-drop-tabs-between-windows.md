@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'How to Drag and Drop Tabs Between Windows in Chrome: A Complete Guide'
-description: Learn how to efficiently drag and drop tabs between windows in Chrome
+description: "Learn how to efficiently drag and drop tabs between windows in Chrome................................................................................."
   to organize your workflow, manage multiple projects, and improve your browsing experience.
 date: 2026-03-11
-last_modified_at: 2026-03-11
+last_modified_at: '2026-03-12'
 permalink: chrome-drag-drop-tabs-between-windows
 ---
 # How to Drag and Drop Tabs Between Windows in Chrome: A Complete Guide

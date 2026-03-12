@@ -1,10 +1,10 @@
 ---
 title: Chrome Extensions for Meal Planning Recipes
-description: Find the best Chrome extensions for meal planning recipes to save time,
+description: "Find the best Chrome extensions for meal planning recipes to save time,..............................................................................."
   organize your cooking, and simplify weekly meal prep. Check out our expert... Learn
   more
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-meal-planning-recipes
 layout: post
 categories: '[productivity, lifestyle]'

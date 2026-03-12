@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Web Store Best Free Games
-description: Discover the best free games in the Chrome Web Store that you can play
+description: "Discover the best free games in the Chrome Web Store that you can play................................................................................"
   directly in your browser without downloading anything. Read our comprehensive guide
   to...
 date: '2026-03-09'

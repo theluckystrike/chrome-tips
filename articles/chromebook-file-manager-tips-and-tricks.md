@@ -1,11 +1,11 @@
 ---
 layout: post
 title: chromebook file manager tips and tricks
-description: Master your chromebook file manager with these simple tips and tricks
+description: "Master your chromebook file manager with these simple tips and tricks................................................................................."
   Read our comprehensive guide to learn more and optimize your browser experience
   with th...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chromebook-file-manager-tips-and-tricks
 categories: ''
 tags: ''

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome upcoming features roadmap 2026
-description: Discover Chrome upcoming features roadmap 2026 including AI integration,
+description: "Discover Chrome upcoming features roadmap 2026 including AI integration,.............................................................................."
   performance improvements, and new browsing capabilities. Read our comprehensive
   guid...
 date: '2026-01-01'

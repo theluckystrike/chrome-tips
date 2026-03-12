@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Clearing Browsing Data Automatically
-description: Learn how to set up Chrome for clearing browsing data automatically to
+description: "Learn how to set up Chrome for clearing browsing data automatically to................................................................................"
   protect your privacy and free up storage space. Find out more tips on how to optimize
   ...
 date: 2026-01-15

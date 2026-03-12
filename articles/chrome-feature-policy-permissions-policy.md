@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Chrome Feature Policy vs Permissions Policy Understanding the Difference
-description: Learn the key differences between Chrome Feature Policy and Permissions Policy. This guide explains how these security headers control browser features and how to implement them.
+description: "Learn the key differences between Chrome Feature Policy and Permissions Policy. This guide explains how these security headers control browser features and h..."
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-feature-policy-permissions-policy
 categories:
 - security
@@ -101,3 +101,9 @@ If you want to optimize your Chrome experience and reduce browser resource consu
 Understanding the relationship between Feature-Policy and Permissions-Policy is important for modern web development. While Feature-Policy was the original name, Permissions-Policy is now the standard that you should use. By implementing these headers, you take control of which browser features your website can access, enhancing security and protecting user privacy. Take time to review what features your site actually needs, and disable everything else.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Captured Surface Control Zoom](/chrome-captured-surface-control-zoom)
+* [Chrome Hardware Acceleration Guide](/chrome-hardware-acceleration-guide)
+* [Chrome Browser Fingerprint How To Check Yours](/chrome-browser-fingerprint-how-to-check-yours)

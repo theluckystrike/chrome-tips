@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chrome Flexbox Debugging Guide
-description: Master Chrome DevTools Flexbox debugging with flex overlay, alignment
+description: "Master Chrome DevTools Flexbox debugging with flex overlay, alignment................................................................................."
   inspection, shrink/grow analysis, and the flex inspector. Learn to fix layout issues
   fast.
 date: '2026-01-15'

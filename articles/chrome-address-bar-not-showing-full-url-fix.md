@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Address Bar Not Showing Full URL Fix
-description: Is Chrome hiding the full URL in the address bar? Learn why this happens
+description: "Is Chrome hiding the full URL in the address bar? Learn why this happens.............................................................................."
   and how to see the complete web address with simple solutions. Learn how to optimize...
 date: 2026-03-09
 categories:
@@ -13,7 +13,7 @@ tags:
 - chrome-fix
 - browser-settings
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-address-bar-not-showing-full-url-fix
 ---
 # Chrome Address Bar Not Showing Full URL Fix

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Two Factor Authentication Setup
-description: Learn how to set up two factor authentication in Chrome to protect your
+description: "Learn how to set up two factor authentication in Chrome to protect your..............................................................................."
   accounts from unauthorized access. Read our comprehensive guide to learn more and
   opt...
 date: '2026-01-01'

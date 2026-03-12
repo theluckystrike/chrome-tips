@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Loom Screen Recording Tips
-description: Get the best Chrome for Loom screen recording tips. Learn how to improve
+description: "Get the best Chrome for Loom screen recording tips. Learn how to improve.............................................................................."
   your Loom videos with these simple browser optimization tricks. Discover more tips
   a
 date: 2026-01-20

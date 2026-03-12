@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Captured Surface Control Zoom What It Is and How to Use
-description: Learn about Chrome captured surface control zoom feature that lets web apps
+description: "Learn about Chrome captured surface control zoom feature that lets web apps..........................................................................."
   control the zoom level of captured browser tabs and windows during screen sharing.
 date: '2026-03-12'
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-captured-surface-control-zoom
 ---
 Chrome captured surface control zoom is an exciting feature that brings new possibilities for web applications involving screen sharing, remote collaboration, and presentation tools. If you have ever used screen sharing in a video call or recording application, you might have noticed that the shared content sometimes appears at the wrong zoom level, making it difficult for viewers to see details clearly. The captured surface control zoom feature solves this problem by allowing websites to programmatically adjust the zoom level of whatever is being shared.

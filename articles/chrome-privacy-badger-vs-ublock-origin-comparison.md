@@ -1,11 +1,11 @@
 ---
 layout: post
 title: chrome privacy badger vs ublock origin comparison
-description: A friendly comparison of Privacy Badger and uBlock Origin to help you
+description: "A friendly comparison of Privacy Badger and uBlock Origin to help you................................................................................."
   choose the right Chrome privacy extension. Learn effective tips and tricks to optimize
   ...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-privacy-badger-vs-ublock-origin-comparison
 categories:
 - extensions

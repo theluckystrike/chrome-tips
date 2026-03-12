@@ -1,9 +1,9 @@
 ---
 title: Chrome Extensions for Reddit
-description: Discover the best Chrome extensions for Reddit to improve your browsing
+description: "Discover the best Chrome extensions for Reddit to improve your browsing..............................................................................."
   experience, save time, and boost productivity. Check out our expert recommendations...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-reddit
 layout: post
 categories: '[reddit, social-media, productivity, tips]'

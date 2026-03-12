@@ -1,11 +1,11 @@
 ---
 layout: article
 title: 'Chrome Web Speech API Voice Commands: A Complete Guide'
-description: 'Discover everything you need to know about Chrome Web Speech API Voice
+description: "Discover everything you need to know about Chrome Web Speech API Voice................................................................................"
   Commands: A Complete Guide. Our detailed guide provides expert insights and practical
   ...'
 date: '2025-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-web-speech-api-voice-commands
 ---
 # Chrome Web Speech API Voice Commands: A Complete Guide

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Inspect Element Tutorial for Beginners
-description: Learn how to use Chrome's Inspect Element tool to debug websites, customize
+description: "Learn how to use Chrome's Inspect Element tool to debug websites, customize..........................................................................."
   pages, and understand how web pages work. A practical step-by-step guide for begi...
 date: '2026-01-20'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-inspect-element-tutorial-for-beginners
 categories:
 - chrome

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome vs Samsung Internet on Android
-description: A practical comparison of Chrome and Samsung Internet browsers on Android
+description: "A practical comparison of Chrome and Samsung Internet browsers on Android............................................................................."
   to help you choose the best one for your needs. Read our comprehensive guide to
   lea...
 date: '2026-01-01'

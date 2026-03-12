@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Cast Chrome Tab to TV
-description: Learn how to cast Chrome tab to TV with this easy guide. Cast your browser
+description: "Learn how to cast Chrome tab to TV with this easy guide. Cast your browser............................................................................"
   window to any television and enjoy your favorite content on a bigger screen.
 date: '2026-01-15'
 last_modified_at: '2026-03-12'

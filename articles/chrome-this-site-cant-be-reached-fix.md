@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome This Site Cant Be Reached Fix
-description: Getting 'This site can't be reached' in Chrome? Learn what causes this
+description: "Getting 'This site can't be reached' in Chrome? Learn what causes this................................................................................"
   Read our comprehensive guide to learn more and optimize your browser experience
   with t...
 date: '2026-01-15'

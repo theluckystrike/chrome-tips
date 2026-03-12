@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Check If Chrome Extension Is Spying on Me
-description: Worried about Chrome extensions tracking you? Learn how to detect spying
+description: "Worried about Chrome extensions tracking you? Learn how to detect spying.............................................................................."
   extensions and protect your privacy with simple steps. Read our comprehensive guide
   ...
 date: '2026-01-01'

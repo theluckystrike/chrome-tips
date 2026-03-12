@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Background Sync API Explained
-description: Learn what Chrome Background Sync API does, why it matters for your browsing,
+description: "Learn what Chrome Background Sync API does, why it matters for your browsing,........................................................................."
   and how to manage it for better browser performance. Learn how to optimize your...
 date: 2026-01-15
 categories:
@@ -12,7 +12,7 @@ tags:
 - chrome-sync
 - browser-background-tasks
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-background-sync-api-explained
 ---
 # Chrome Background Sync API Explained

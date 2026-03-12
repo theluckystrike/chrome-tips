@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome for Tor Browsing Is It Possible
-description: Wondering if chrome for tor browsing is it possible? Here is what you
+description: "Wondering if chrome for tor browsing is it possible? Here is what you................................................................................."
   need to know about using Chrome with Tor and your privacy options. Check out our
   expert r
 date: '2026-01-20'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-tor-browsing-is-it-possible
 categories:
 - privacy

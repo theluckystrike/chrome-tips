@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Private Browsing Tips Beyond Incognito
-description: Looking for chrome for private browsing tips beyond incognito? Here are
+description: "Looking for chrome for private browsing tips beyond incognito? Here are..............................................................................."
   practical ways to browse more privately in Chrome. Discover more tips and tricks
   to o
 date: 2026-01-20

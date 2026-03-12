@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Coursera Web App Optimization
-description: Learn how to optimize Chrome for Coursera web app to improve performance,
+description: "Learn how to optimize Chrome for Coursera web app to improve performance,............................................................................."
   reduce memory usage, and enhance your online learning experience. Find out more
   tip...
 date: '2026-01-15'

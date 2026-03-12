@@ -1,10 +1,10 @@
 ---
 title: Chrome Extension for Blocking Cookie Popups
-description: Tired of cookie popups? Learn how a chrome extension for blocking cookie
+description: "Tired of cookie popups? Learn how a chrome extension for blocking cookie.............................................................................."
   popups can restore your browsing peace. Check out our expert recommendations and
   step-b
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-blocking-cookie-popups
 layout: post
 categories: '[privacy, security]'

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Lagging on 4GB RAM Computer
-description: Is Chrome running slow on your 4GB RAM computer? Discover practical solutions
+description: "Is Chrome running slow on your 4GB RAM computer? Discover practical solutions........................................................................."
   to reduce memory usage and make Chrome run faster. Check out our expert recommend
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-lagging-on-4gb-ram-computer
 categories:
 - performance

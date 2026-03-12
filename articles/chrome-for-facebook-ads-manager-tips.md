@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Facebook Ads Manager Tips
-description: Learn how to optimize Chrome for Facebook Ads Manager with these practical
+description: "Learn how to optimize Chrome for Facebook Ads Manager with these practical............................................................................"
   tips to improve performance and workflow. Find out more tips on how to optimize
   yo...
 date: 2026-03-10

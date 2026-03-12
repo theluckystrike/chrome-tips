@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome voice typing in google docs
-description: Learn how to use voice typing in Google Docs with Chrome. Step-by-step
+description: "Learn how to use voice typing in Google Docs with Chrome. Step-by-step................................................................................"
   guide to enable dictation and fix common voice typing issues. Read our comprehensive
   g...
 date: '2026-03-09'

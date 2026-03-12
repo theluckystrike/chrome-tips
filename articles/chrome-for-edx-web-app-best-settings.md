@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for edX Web App Best Settings
-description: Optimize Chrome for edX web app with the best settings for smooth learning.
+description: "Optimize Chrome for edX web app with the best settings for smooth learning............................................................................"
   Save memory, reduce distractions, and improve performance. Find out more tips on
   ...
 date: 2025-02-20

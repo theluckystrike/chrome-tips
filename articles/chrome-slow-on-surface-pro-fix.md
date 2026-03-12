@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Slow on Surface Pro Fix
-description: Is Chrome running slowly on your Surface Pro? Here are practical solutions
+description: "Is Chrome running slowly on your Surface Pro? Here are practical solutions............................................................................"
   to speed up your browser and improve performance. Read our comprehensive guide to
   lea
 date: 2026-03-10
@@ -15,7 +15,7 @@ tags:
 - slow-browser
 author: theluckystrike
 permalink: chrome-slow-on-surface-pro-fix
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Slow on Surface Pro Fix
 

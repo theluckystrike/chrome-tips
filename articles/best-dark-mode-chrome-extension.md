@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Dark Mode Chrome Extension
-description: Find the best dark mode chrome extension to reduce eye strain, save battery,
+description: "Find the best dark mode chrome extension to reduce eye strain, save battery,.........................................................................."
   and browse comfortably in low light. Learn what to look for and how to choose.
 date: 2026-01-15
 categories:
@@ -13,7 +13,7 @@ tags:
 - eye-strain
 - productivity
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-dark-mode-chrome-extension
 ---
 # Best Dark Mode Chrome Extension

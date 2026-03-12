@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Chrome Extensions for Writers 2026
-description: Find the best Chrome extensions for writers in 2026 to improve your writing
+description: "Find the best Chrome extensions for writers in 2026 to improve your writing..........................................................................."
   workflow, boost productivity, and create better content. Learn how to optimize yo...
 date: 2026-03-10
 categories:
@@ -14,7 +14,7 @@ tags:
 - writing-tools
 - browser-tools
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-writers-2026
 ---
 # Best Chrome Extensions for Writers 2026

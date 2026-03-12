@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Web Codecs API Explained
-description: What the Chrome Web Codecs API means for your browser and how it affects
+description: "What the Chrome Web Codecs API means for your browser and how it affects.............................................................................."
   video and audio playback. Read our comprehensive guide to learn more and optimize
   yo...
 date: '2026-01-15'

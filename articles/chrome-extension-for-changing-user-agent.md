@@ -1,10 +1,10 @@
 ---
 title: Chrome Extension for Changing User Agent
-description: Learn how to use a Chrome extension for changing user agent to fix websites
+description: "Learn how to use a Chrome extension for changing user agent to fix websites..........................................................................."
   that block or limit access based on your browser identity. Check out our expert
   reco
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-changing-user-agent
 layout: post
 categories: '[extensions, tips]'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome Version History: Major Changes You Should Know About'
-description: A guide to Chrome version history and major changes that affect your
+description: "A guide to Chrome version history and major changes that affect your.................................................................................."
   browsing. Learn what changed and how to adapt. Read our comprehensive guide to learn
   mor...
 date: '2025-02-17'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Tell Which Chrome Tab Is Draining Battery
-description: Find out which Chrome tab is draining your battery with built-in tools.
+description: "Find out which Chrome tab is draining your battery with built-in tools................................................................................"
   Easy steps to identify power-hungry tabs and fix the problem. Read our comprehensive
   ...
 date: '2025-03-09'

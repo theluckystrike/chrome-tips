@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome CSS :is() and :where() Pseudo-Class Explained
-description: Discover how the :is() and :where() pseudo-classes in CSS can simplify
+description: "Discover how the :is() and :where() pseudo-classes in CSS can simplify................................................................................"
   your selectors and improve your stylesheets in Chrome.
 date: 2026-01-15
 categories:
@@ -16,6 +16,7 @@ tags:
 - selectors
 author: theluckystrike
 permalink: chrome-css-is-where-pseudo-class
+last_modified_at: '2026-03-12'
 ---
 # Chrome CSS :is() and :where() Pseudo-Class Explained
 

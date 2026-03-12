@@ -1,10 +1,10 @@
 ---
 layout: post
 title: chrome pwa offline capability how it works
-description: Discover how Chrome PWA offline capability works. Learn what Progressive
+description: "Discover how Chrome PWA offline capability works. Learn what Progressive.............................................................................."
   Web Apps can do without internet and how to use them. Learn effective tips and trick...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-pwa-offline-capability-how-it-works
 categories:
 - browser

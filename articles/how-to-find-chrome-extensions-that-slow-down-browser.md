@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Find Chrome Extensions That Slow Down Browser
-description: Discover how to find Chrome extensions that slow down your browser and
+description: "Discover how to find Chrome extensions that slow down your browser and................................................................................"
   fix the issue with simple steps anyone can follow. Read our comprehensive guide
   to lea...
 date: '2025-02-20'

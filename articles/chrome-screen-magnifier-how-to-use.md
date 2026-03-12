@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Screen Magnifier How to Use
-description: Learn how to use Chrome screen magnifier to enlarge text and images.
+description: "Learn how to use Chrome screen magnifier to enlarge text and images..................................................................................."
   Simple steps for better visibility while browsing. Read our comprehensive guide
   to learn mo
 permalink: chrome-screen-magnifier-how-to-use

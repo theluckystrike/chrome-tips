@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Speed Up Chrome in 5 Minutes
-description: Fast ways to make Chrome run better right now. Simple tweaks that take
+description: "Fast ways to make Chrome run better right now. Simple tweaks that take................................................................................"
   minutes and immediately improve your browsing experience. Read our comprehensive
   guide...
 date: '2025-02-19'

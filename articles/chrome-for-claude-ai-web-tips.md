@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Claude AI Web Tips
-description: Learn how to optimize Chrome for the best Claude AI web experience with
+description: "Learn how to optimize Chrome for the best Claude AI web experience with..............................................................................."
   these practical tips for faster, smoother AI interactions. Find out more tips on
   how ...
 date: 2026-03-10

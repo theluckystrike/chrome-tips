@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Tabs Using Too Much Memory Which One
-description: Are chrome tabs using too much memory which one is the culprit? Learn
+description: "Are chrome tabs using too much memory which one is the culprit? Learn................................................................................."
   why this happens and how to fix it with practical steps. Read our comprehensive
   guide t...
 date: '2025-02-20'

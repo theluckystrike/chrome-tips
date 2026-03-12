@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Restore Closed Tabs in Chrome
-description: Learn multiple methods to restore closed tabs in Chrome including keyboard
+description: "Learn multiple methods to restore closed tabs in Chrome including keyboard............................................................................"
   shortcuts, browsing history, recently closed menu, and session restore. Recover
   lo...
 date: 2026-01-15
@@ -16,7 +16,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 permalink: chrome-restore-closed-tabs-guide
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # How to Restore Closed Tabs in Chrome
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Speed Reading Extensions
-description: Discover Chrome extensions that help you read faster. Learn about speed
+description: "Discover Chrome extensions that help you read faster. Learn about speed..............................................................................."
   reading tools, how they work, and which ones might work for you. Discover more tips
   a
 date: 2026-01-20

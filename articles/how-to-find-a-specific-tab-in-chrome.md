@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Find a Specific Tab in Chrome
-description: Lost in a sea of tabs? Learn practical ways to find that specific Chrome
+description: "Lost in a sea of tabs? Learn practical ways to find that specific Chrome.............................................................................."
   tab without clicking through dozens of them. Read our comprehensive guide to learn
   m...
 date: '2025-03-09'

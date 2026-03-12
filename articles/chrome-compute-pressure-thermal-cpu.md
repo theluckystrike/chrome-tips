@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome Compute Pressure: How Thermal and CPU Throttling Affect Your Browser'
-description: Learn how Chrome compute pressure works with thermal and CPU throttling,
+description: "Learn how Chrome compute pressure works with thermal and CPU throttling,.............................................................................."
   why your browser slows down, and what you can do to maintain performance.
 date: 2026-03-09
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chrome Screen Capture API Guide
-description: Master the Chrome Screen Capture API for web development. Learn screen
+description: "Master the Chrome Screen Capture API for web development. Learn screen................................................................................"
   sharing, window capture, tab capture, browser capture, display media constraints,
   and ...
 date: 2026-01-15
@@ -19,7 +19,7 @@ tags:
 - webRTC
 author: theluckystrike
 permalink: chrome-screen-capture-api
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Screen Capture API Guide
 

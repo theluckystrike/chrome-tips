@@ -1,10 +1,10 @@
 ---
 title: Chrome Extensions for Podcasters
-description: Essential Chrome extensions to boost your podcast production workflow
+description: "Essential Chrome extensions to boost your podcast production workflow................................................................................."
   and save time on research, writing, and promotion. Check out our expert... Learn
   more abou
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-podcasters
 layout: post
 categories: '[productivity, podcasting]'

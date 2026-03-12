@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Web MIDI API Explained
-description: What is the Chrome Web MIDI API, why it matters, and how to fix common
+description: "What is the Chrome Web MIDI API, why it matters, and how to fix common................................................................................"
   MIDI connection issues in Chrome browser. Read our comprehensive guide to learn
   more a...
 date: '2026-01-01'

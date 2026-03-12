@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Ad Blocker Chrome Extension 2026
-description: Discover the best ad blocker chrome extension in 2026 to block annoying
+description: "Discover the best ad blocker chrome extension in 2026 to block annoying..............................................................................."
   ads, protect your privacy, and significantly speed up your entire browsing experience.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
@@ -15,7 +15,7 @@ tags:
 - privacy
 - browser
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-ad-blocker-chrome-extension-2026
 ---
 # Best Ad Blocker Chrome Extension 2026

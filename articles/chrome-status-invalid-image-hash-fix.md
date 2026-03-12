@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Status Invalid Image Hash Fix
-description: Getting an invalid image hash error in Chrome? Learn what causes it and
+description: "Getting an invalid image hash error in Chrome? Learn what causes it and..............................................................................."
   how to fix it with simple steps anyone can follow. Read our comprehensive guide
   to learn
 date: 2026-01-15

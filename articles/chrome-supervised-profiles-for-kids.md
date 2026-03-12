@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Supervised Profiles for Kids
-description: Learn how to set up Chrome supervised profiles for kids to keep them
+description: "Learn how to set up Chrome supervised profiles for kids to keep them.................................................................................."
   safe online with content filtering and parental controls. Read our comprehensive
   guide to l
 date: 2026-03-09

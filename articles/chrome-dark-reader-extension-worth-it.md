@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome dark reader extension worth it
-description: Is the Dark Reader extension worth installing? A practical guide covering
+description: "Is the Dark Reader extension worth installing? A practical guide covering............................................................................."
   benefits, drawbacks, setup steps, and tips to decide if it's right for you. Learn
 date: 2025-01-15
 categories:
@@ -13,7 +13,7 @@ tags:
 - eye-strain
 - accessibility
 author: theluckystrike
-last_modified_at: '%Y->-'
+last_modified_at: '2026-03-12'
 permalink: /chrome-dark-reader-extension-worth-it/
 ---
 # Is the Chrome Dark Reader Extension Worth It?

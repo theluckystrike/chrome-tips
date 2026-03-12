@@ -1,10 +1,10 @@
 ---
 title: Chrome Extension for QR Code Generator
-description: Discover how to use Chrome extensions for QR code creation. Learn what
+description: "Discover how to use Chrome extensions for QR code creation. Learn what................................................................................"
   Check out our expert recommendations and step-by-step instructions to get the most
   out of
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-qr-code-generator
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Third Party Cookies What Happens When Blocked
-description: Discover what happens when Chrome blocks third-party cookies, why it
+description: "Discover what happens when Chrome blocks third-party cookies, why it.................................................................................."
   affects your browsing, and simple fixes. Read our comprehensive guide to learn more
   and ...
 date: '2026-01-01'

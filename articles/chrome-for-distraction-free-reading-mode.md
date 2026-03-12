@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for distraction free reading mode
-description: Learn how to use Chrome for distraction free reading mode with built-in
+description: "Learn how to use Chrome for distraction free reading mode with built-in..............................................................................."
   tools and extensions for a cleaner browsing experience. Find out more tips on how
   to ...
 date: 2026-01-15

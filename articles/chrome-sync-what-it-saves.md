@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome sync what it saves
-description: Learn exactly what chrome sync saves and how to manage your synced data.
+description: "Learn exactly what chrome sync saves and how to manage your synced data..............................................................................."
   Discover how Chrome Sync works and what gets stored across your devices. Read our
   compr
 date: 2026-01-15
@@ -15,7 +15,7 @@ tags:
 - chrome-features
 author: theluckystrike
 permalink: chrome-sync-what-it-saves
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Sync What It Saves: A Complete Guide
 

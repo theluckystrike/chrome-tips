@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for distraction blocking extensions
-description: Discover the best chrome for distraction blocking extensions to help
+description: "Discover the best chrome for distraction blocking extensions to help.................................................................................."
   you stay focused, reduce tab clutter, and improve your productivity while browsing.
 date: 2026-01-15
 categories:

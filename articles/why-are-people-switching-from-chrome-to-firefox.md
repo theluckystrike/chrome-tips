@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Are People Switching from Chrome to Firefox
-description: Many users are moving from Chrome to Firefox. Here's what's driving this
+description: "Many users are moving from Chrome to Firefox. Here's what's driving this.............................................................................."
   browser shift and what you can do about it. Read our comprehensive guide to learn
   mo...
 date: '2025-02-21'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Nature Sounds While Studying
-description: 'Learn how to use Chrome for nature sounds while studying to improve
+description: "Learn how to use Chrome for nature sounds while studying to improve..................................................................................."
   focus and concentration during study sessions. Discover more tips and tricks to
   optimize '
 date: 2026-03-10

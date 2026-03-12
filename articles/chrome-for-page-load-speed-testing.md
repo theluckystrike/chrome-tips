@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Page Load Speed Testing
-description: Learn how to use Chrome to test and measure website page load speed.
+description: "Learn how to use Chrome to test and measure website page load speed..................................................................................."
   Simple methods to check if your favorite sites are performing well. Discover more
   tips a
 date: 2026-01-15

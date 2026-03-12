@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Inspect CSS Animations and Transitions in Chrome DevTools
-description: Master the Chrome Animations panel to debug, inspect, and fine-tune CSS
+description: "Master the Chrome Animations panel to debug, inspect, and fine-tune CSS..............................................................................."
   animations and transitions. A complete guide for web developers. Learn how to optimiz...
 date: 2026-01-20
 categories:
@@ -16,7 +16,7 @@ tags:
 - web-development
 - frontend
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-animations-panel-inspect-transitions
 ---
 # How to Inspect CSS Animations and Transitions in Chrome DevTools

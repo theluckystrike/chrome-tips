@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Timeline Recording Explained
-description: Learn how to use Chrome's timeline recording feature to understand what
+description: "Learn how to use Chrome's timeline recording feature to understand what..............................................................................."
   happens when pages load and find performance issues. Read our comprehensive guide
   to ...
 date: '2026-03-09'

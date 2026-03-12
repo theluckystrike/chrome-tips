@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Set Homepage on Chrome
-description: Learn how to set your homepage on Chrome in a few simple steps. Customize
+description: "Learn how to set your homepage on Chrome in a few simple steps. Customize............................................................................."
   your browser to open the sites you want every time you launch Chrome. Read our comp...
 date: '2026-01-01'
 last_modified_at: '2026-03-12'

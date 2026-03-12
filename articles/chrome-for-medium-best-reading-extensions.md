@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Medium Best Reading Extensions
-description: Discover the best Chrome extensions for reading Medium articles comfortably,
+description: "Discover the best Chrome extensions for reading Medium articles comfortably,.........................................................................."
   reducing eye strain and improving your reading experience. Discover more tips an
 date: 2026-03-10
 categories:

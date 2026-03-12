@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Chrome Tabs Taking Forever to Load? Here's What to Do
-description: Chrome tabs taking forever to load? This practical guide helps users
+description: "Chrome tabs taking forever to load? This practical guide helps users.................................................................................."
   with slow computers and limited RAM get their tabs loading fast again. Read our
   comprehe...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-tabs-taking-forever-to-load
 categories: '[performance, troubleshooting]'
 tags: '[chrome-slow, chrome-tabs, tab-loading, browser-speed, chrome-fixes]'

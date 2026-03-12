@@ -1,10 +1,10 @@
 ---
 title: Chrome Extensions for Lawyers Legal Research
-description: Discover the best Chrome extensions for lawyers legal research that can
+description: "Discover the best Chrome extensions for lawyers legal research that can..............................................................................."
   help streamline your workflow and manage case information efficiently. Check out
   our...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-lawyers-legal-research
 layout: post
 categories: '[legal, tips]'

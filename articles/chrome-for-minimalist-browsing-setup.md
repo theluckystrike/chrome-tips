@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Minimalist Browsing Setup
-description: A clean Chrome setup focused on simplicity and speed. Practical tips
+description: "A clean Chrome setup focused on simplicity and speed. Practical tips.................................................................................."
   for a minimalist browsing experience. Discover more tips and tricks to optimize
   your bro
 date: '2025-12-01'

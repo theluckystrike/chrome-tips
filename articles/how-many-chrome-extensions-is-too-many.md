@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Many Chrome Extensions Is Too Many
-description: Wondering how many Chrome extensions is too many? Here is a practical
+description: "Wondering how many Chrome extensions is too many? Here is a practical................................................................................."
   guide to finding the right balance for your browser. Read our comprehensive guide
   to le...
 date: '2026-01-01'

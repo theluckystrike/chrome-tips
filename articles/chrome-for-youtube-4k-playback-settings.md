@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome for YouTube 4K Playback Settings
-description: Learn how to configure Chrome for smooth YouTube 4K playback. Optimize
+description: "Learn how to configure Chrome for smooth YouTube 4K playback. Optimize................................................................................"
   settings for the best video quality on your device. Check out our expert recommendations
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-youtube-4k-playback-settings
 categories:
 - chrome

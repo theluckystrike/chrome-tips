@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome vs Vivaldi: Which Is More Customizable'
-description: A practical comparison of Chrome and Vivaldi customization options to
+description: "A practical comparison of Chrome and Vivaldi customization options to................................................................................."
   help you choose the browser that fits your needs. Read our comprehensive guide to
   learn...
 date: '2026-01-01'

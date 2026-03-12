@@ -1,9 +1,9 @@
 ---
 title: Chrome Extensions for Google Sheets
-description: Struggling with too many Google Sheets tabs? Learn which Chrome extensions
+description: "Struggling with too many Google Sheets tabs? Learn which Chrome extensions............................................................................"
   can help you work smarter with spreadsheets. Check out our expert recommendations...
 date: '2026-01-01'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-google-sheets
 layout: post
 ---

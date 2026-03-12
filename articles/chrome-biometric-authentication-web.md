@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Biometric Authentication for the Web
-description: Learn how to implement and use biometric authentication in Chrome for
+description: "Learn how to implement and use biometric authentication in Chrome for................................................................................."
   secure web applications. Explore fingerprint, face unlock, and WebAuthn integration.
 date: 2026-01-15
 categories:
@@ -16,7 +16,7 @@ tags:
 - security
 - browser
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-biometric-authentication-web
 ---
 # Chrome Biometric Authentication for the Web

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Web Animation API Explained
-description: Discover what the Chrome Web Animation API is, how it works, and why
+description: "Discover what the Chrome Web Animation API is, how it works, and why.................................................................................."
   it makes websites feel smoother and more responsive. Read our comprehensive guide
   to lea...
 date: '2026-01-01'

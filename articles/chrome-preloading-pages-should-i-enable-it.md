@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Preloading Pages Should I Enable It
-description: Wondering if you should enable Chrome preloading pages? Learn the pros
+description: "Wondering if you should enable Chrome preloading pages? Learn the pros................................................................................"
   and cons and how to decide what's best for your browser. Learn effective tips and
   tric...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-preloading-pages-should-i-enable-it
 categories:
 - performance

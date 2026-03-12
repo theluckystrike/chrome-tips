@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Chrome Incognito Mode: Actually Private or Just a False Sense of Security?'
-description: Wondering if Chrome Incognito mode truly hides your activity? We break
+description: "Wondering if Chrome Incognito mode truly hides your activity? We break................................................................................"
   down what it actually does, what it doesn't do, and what still tracks you. Check
   out our
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-incognito-mode-actually-private-or-not
 categories:
 - chrome

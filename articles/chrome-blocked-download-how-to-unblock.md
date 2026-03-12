@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Blocked Download How to Unblock
-description: Chrome blocked your download? Learn why Chrome blocks downloads and easy
+description: "Chrome blocked your download? Learn why Chrome blocks downloads and easy.............................................................................."
   steps to unblock them and get your files. Learn how to optimize your browser today
   f...
 date: 2026-01-15
@@ -14,7 +14,7 @@ tags:
 - browser-fixes
 - chrome-help
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-blocked-download-how-to-unblock
 ---
 # Chrome Blocked Download How to Unblock

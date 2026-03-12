@@ -1,10 +1,10 @@
 ---
 title: chrome extension for screenshot and annotate
-description: Looking for a chrome extension for screenshot and annotate? Find the
+description: "Looking for a chrome extension for screenshot and annotate? Find the.................................................................................."
   right tool to capture and mark up your screens with ease. Discover how these tools
   can s...
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-screenshot-and-annotate
 layout: post
 categories: '[extensions, productivity]'

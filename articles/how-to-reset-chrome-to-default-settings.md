@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Reset Chrome to Default Settings
-description: Learn how to reset Chrome to default settings to fix browser issues,
+description: "Learn how to reset Chrome to default settings to fix browser issues,.................................................................................."
   remove unwanted changes, and start fresh. Read our comprehensive guide to learn
   more and...
 date: '2026-01-01'

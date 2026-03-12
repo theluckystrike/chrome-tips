@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Android Tabs Too Many How to Manage
-description: Feeling overwhelmed by too many open tabs on Chrome for Android? Here
+description: "Feeling overwhelmed by too many open tabs on Chrome for Android? Here................................................................................."
   are practical ways to regain control of your browsing experience. Learn how to optimize...
 date: 2026-01-15
 categories:
@@ -13,7 +13,7 @@ tags:
 - tab-management
 - mobile-browser
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-android-tabs-too-many-how-to-manage
 ---
 # Chrome Android Tabs Too Many How to Manage

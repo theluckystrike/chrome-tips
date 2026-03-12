@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome extension analytics tracking setup
-description: Learn how to set up analytics tracking for your Chrome extension to understand
+description: "Learn how to set up analytics tracking for your Chrome extension to understand........................................................................"
   user behavior, improve engagement, and make data-driven development decisions.
 date: 2025-01-15
 categories:
@@ -16,6 +16,7 @@ tags:
 - development
 author: theluckystrike
 permalink: chrome-extension-analytics-tracking-setup
+last_modified_at: '2026-03-12'
 ---
 # Chrome Extension Analytics Tracking Setup
 

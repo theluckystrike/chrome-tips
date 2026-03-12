@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Real Estate Browsing Extensions
-description: 'Discover the best Chrome extensions for real estate browsing to streamline
+description: "Discover the best Chrome extensions for real estate browsing to streamline............................................................................"
   property searches, manage listings, and work more efficiently. Discover more tips '
 date: 2026-03-10
 categories:

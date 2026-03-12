@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Developer Tools for Non Developers
-description: Learn how to use Chrome Developer Tools even if you are not a programmer.
+description: "Learn how to use Chrome Developer Tools even if you are not a programmer.............................................................................."
   Simple tricks to fix common web problems. Learn more about how to optimize your
   C
 date: 2025-02-19
@@ -13,7 +13,7 @@ tags:
 - troubleshooting
 - browser-tools
 author: theluckystrike
-last_modified_at: '%Y->-'
+last_modified_at: '2026-03-12'
 permalink: /chrome-developer-tools-for-non-developers/
 ---
 # Chrome Developer Tools for Non Developers

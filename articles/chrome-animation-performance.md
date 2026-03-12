@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chrome Animation Performance Guide
-description: Master Chrome animation performance with this comprehensive guide covering
+description: "Master Chrome animation performance with this comprehensive guide covering............................................................................"
   requestAnimationFrame, will-change, composite layers, and jank prevention techniques.
 date: 2026-01-20
 categories:
@@ -17,7 +17,7 @@ tags:
 - jank
 - browser-optimization
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-animation-performance
 ---
 # Chrome Animation Performance Guide

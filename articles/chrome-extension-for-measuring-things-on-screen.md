@@ -1,9 +1,9 @@
 ---
 title: chrome extension for measuring things on screen
-description: Learn how to measure anything on your screen using Chrome extensions.
+description: "Learn how to measure anything on your screen using Chrome extensions.................................................................................."
   Find the right tool for quick, accurate measurements. Check out our expert recommendations
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-measuring-things-on-screen
 layout: post
 categories: '[extensions, productivity]'

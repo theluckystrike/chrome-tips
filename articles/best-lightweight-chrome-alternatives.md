@@ -1,12 +1,13 @@
 ---
 layout: default
 title: "Best Lightweight Chrome Alternatives"
-description: "Discover the best lightweight Chrome alternatives that offer faster performance and lower memory usage without sacrificing essential features."
+description: "Discover the best lightweight Chrome alternatives that offer faster performance and lower memory usage without sacrificing essential features........."
 date: 2026-01-15
 categories: [browsers, performance]
 tags: [chrome-alternatives, lightweight-browsers, browser-comparison, fast-browsers]
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
+permalink: "best-lightweight-chrome-alternatives"
 ---
 # Best Lightweight Chrome Alternatives
 

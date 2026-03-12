@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Backup Chrome Bookmarks and Passwords
-description: Learn how to backup Chrome bookmarks and passwords to keep your data
+description: "Learn how to backup Chrome bookmarks and passwords to keep your data.................................................................................."
   safe. Simple step-by-step guide for Windows and Mac users. Read our comprehensive
   guide ...
 date: '2026-01-01'

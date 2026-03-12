@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Forest Focus Timer Extension
-description: Discover Chrome extensions like Forest that help you stay focused and
+description: "Discover Chrome extensions like Forest that help you stay focused and................................................................................."
   block distracting websites during work sessions. Find out more tips on how to optimize
   ...
 date: 2026-01-15

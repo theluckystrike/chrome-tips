@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for mailchimp web app tips
-description: Discover helpful chrome for mailchimp web app tips to streamline your
+description: "Discover helpful chrome for mailchimp web app tips to streamline your................................................................................."
   email marketing, manage campaigns efficiently, and boost productivity in your browser
 date: 2026-01-15
 categories:

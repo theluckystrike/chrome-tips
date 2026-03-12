@@ -1,11 +1,11 @@
 ---
 layout: post
 title: chrome pi hole vs browser ad blocker comparison
-description: A friendly guide comparing Pi-hole network-level blocking with browser
+description: "A friendly guide comparing Pi-hole network-level blocking with browser................................................................................"
   ad blockers to help you choose the best ad protection. Learn effective tips and
   tricks...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-pi-hole-vs-browser-ad-blocker-comparison
 categories:
 - extensions

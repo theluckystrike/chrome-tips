@@ -1,9 +1,9 @@
 ---
 title: Chrome Event Timing API Explained
-description: Learn what the Chrome Event Timing API is, how it works, and why it matters
+description: "Learn what the Chrome Event Timing API is, how it works, and why it matters..........................................................................."
   for measuring input responsiveness in web applications. Check out our expert recomme
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-event-timing-api-explained
 layout: post
 categories: '[performance, web-development]'

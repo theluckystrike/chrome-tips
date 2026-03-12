@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Version How to Check Which Version
-description: Learn how to find your Chrome browser version quickly. Simple steps for
+description: "Learn how to find your Chrome browser version quickly. Simple steps for..............................................................................."
   Windows, Mac, and mobile devices. Read our comprehensive guide to learn more and
   opti...
 date: '2026-01-01'

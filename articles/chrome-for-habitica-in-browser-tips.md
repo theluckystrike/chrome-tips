@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Habitica In Browser Tips
-description: Get the most out of Habitica with Chrome. Learn browser tips to improve
+description: "Get the most out of Habitica with Chrome. Learn browser tips to improve..............................................................................."
   your productivity and habit tracking experience. Discover more tips and tricks to
   opt
 date: 2026-01-15

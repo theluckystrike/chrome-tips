@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Cold Turkey Blocker Setup
-description: Learn how to set up Chrome for Cold Turkey blocker to block distracting
+description: "Learn how to set up Chrome for Cold Turkey blocker to block distracting..............................................................................."
   websites and boost your productivity. Find out more tips on how to optimize your
   Chro...
 date: '2026-01-15'

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Laptop Fan Loud When Using Chrome Fix
-description: Is your laptop fan spinning loudly while using Chrome? Learn practical solutions to reduce browser-related noise and keep your laptop cool and quiet.
+description: "Is your laptop fan spinning loudly while using Chrome? Learn practical solutions to reduce browser-related noise and keep your laptop cool and quiet.."
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: laptop-fan-loud-when-using-chrome-fix
@@ -9,7 +9,6 @@ categories: [performance, hardware, troubleshooting]
 tags: [laptop-fan, chrome-noise, fan-loud, laptop-cooling, chrome-performance]
 author: theluckystrike
 ---
-
 # Laptop Fan Loud When Using Chrome Fix
 
 If your laptop fan sounds like a small jet engine whenever you open Google Chrome, you are not alone. This is one of the most common complaints among laptop users, especially those with older machines or limited RAM. The good news is that there are several effective ways to reduce the noise and keep your laptop running cooler. This guide will walk you through practical solutions you can try right now.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Chrome Extensions for Accountants
-description: Discover the best Chrome extensions for accountants to streamline workflows,
+description: "Discover the best Chrome extensions for accountants to streamline workflows,.........................................................................."
   manage spreadsheets, and boost overall productivity in your professional practice.
 date: 2026-03-10
 last_modified_at: '2026-03-12'
@@ -15,7 +15,7 @@ tags:
 - productivity
 - browser
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-accountants
 ---
 # Best Chrome Extensions for Accountants

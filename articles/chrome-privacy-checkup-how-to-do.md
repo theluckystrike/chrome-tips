@@ -1,11 +1,11 @@
 ---
 layout: post
 title: chrome privacy checkup how to do
-description: Learn how to run Chrome privacy checkup to protect your data. Simple
+description: "Learn how to run Chrome privacy checkup to protect your data. Simple.................................................................................."
   steps to review and improve your privacy settings. Learn effective tips and tricks
   to op...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-privacy-checkup-how-to-do
 categories:
 - privacy

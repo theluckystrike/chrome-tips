@@ -1,10 +1,10 @@
 ---
 layout: post
 title: chrome for vimeo web upload tips
-description: Learn how to use Chrome for Vimeo web uploads with these practical tips
+description: "Learn how to use Chrome for Vimeo web uploads with these practical tips..............................................................................."
   to speed up your workflow and avoid common issues. Check out our expert recommendations
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-vimeo-web-upload-tips
 categories:
 - browsers

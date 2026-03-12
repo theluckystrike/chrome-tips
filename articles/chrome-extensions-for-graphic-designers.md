@@ -1,9 +1,9 @@
 ---
 title: chrome extensions for graphic designers
-description: Discover the best Chrome extensions for graphic designers to boost productivity,
+description: "Discover the best Chrome extensions for graphic designers to boost productivity,......................................................................"
   organize files, and streamline your design workflow. Check out our expert...
 date: '2026-01-01'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-graphic-designers
 layout: post
 ---

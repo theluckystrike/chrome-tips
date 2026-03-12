@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Chrome Deep Linking and Universal Links Guide
-description: A comprehensive guide to implementing deep linking and universal links
+description: "A comprehensive guide to implementing deep linking and universal links................................................................................"
   in Chrome for seamless app navigation and improved user experience.
 date: 2026-03-12
 categories: [chrome, tips, navigation]
 tags: [chrome-deep-linking, universal-links, app-links, deep-links, navigation]
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: "chrome-deep-linking-universal-links-guide"
 ---
-
 # Chrome Deep Linking and Universal Links: Complete Guide
 
 Have you ever clicked a link on a website and automatically been taken to a specific page within an app on your device? That seamless experience is made possible by deep linking and universal links. In this comprehensive guide, we'll explore everything you need to know about Chrome deep linking and universal links, how they work, and how you can implement them in your own projects.

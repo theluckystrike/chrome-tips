@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome YouTube Keyboard Shortcuts
-description: Master chrome youtube keyboard shortcuts to navigate videos faster. Learn
+description: "Master chrome youtube keyboard shortcuts to navigate videos faster. Learn............................................................................."
   essential shortcuts and how to use them effectively. Read our comprehensive guide
   t...
 date: '2026-01-01'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Uses All CPU When Idle Fix
-description: Is Chrome using all your CPU even when you are not doing anything? Learn
+description: "Is Chrome using all your CPU even when you are not doing anything? Learn.............................................................................."
   why Chrome uses resources when idle and how to fix it. Read our comprehensive guide
   ...
 date: '2025-12-14'

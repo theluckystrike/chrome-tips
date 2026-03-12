@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Password Manager Not Suggesting? Here's the Fix
-description: Is Chrome's password manager failing to suggest saved passwords? Discover
+description: "Is Chrome's password manager failing to suggest saved passwords? Discover............................................................................."
   the common causes and proven solutions to get Chrome's autofill working again.
 date: 2026-01-15
 categories:
@@ -15,6 +15,7 @@ tags:
 - security
 author: theluckystrike
 permalink: chrome-password-manager-not-suggesting-fix
+last_modified_at: '2026-03-12'
 ---
 # Chrome Password Manager Not Suggesting? Here's the Fix
 

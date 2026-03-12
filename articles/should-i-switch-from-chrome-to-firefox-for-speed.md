@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should I Switch from Chrome to Firefox for Speed?
-description: Is switching from Chrome to Firefox the speed boost you need? Here's
+description: "Is switching from Chrome to Firefox the speed boost you need? Here's.................................................................................."
   what really affects browser performance. Read our comprehensive guide to learn more
   and ...
 date: '2025-02-21'

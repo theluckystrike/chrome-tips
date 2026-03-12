@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome vs Brave Privacy Comparison
-description: A detailed privacy comparison between Chrome and Brave browsers, helping
+description: "A detailed privacy comparison between Chrome and Brave browsers, helping.............................................................................."
   you understand which protects your data better. Read our comprehensive guide to
   lear...
 date: '2026-01-01'

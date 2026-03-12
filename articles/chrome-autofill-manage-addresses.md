@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Manage Addresses in Chrome Autofill
-description: Learn how to add, edit, and delete saved addresses in Google Chrome autofill.
+description: "Learn how to add, edit, and delete saved addresses in Google Chrome autofill.........................................................................."
   Complete guide to managing your address book for faster form filling. Learn how...
 date: 2026-01-22
 categories:
@@ -14,7 +14,7 @@ tags:
 - chrome-settings
 - form-filling
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-autofill-manage-addresses
 ---
 # How to Manage Addresses in Chrome Autofill

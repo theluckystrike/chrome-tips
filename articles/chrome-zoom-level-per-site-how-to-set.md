@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Zoom Level Per Site How to Set
-description: Learn how to set custom zoom levels for specific websites in Chrome so
+description: "Learn how to set custom zoom levels for specific websites in Chrome so................................................................................"
   each site opens at your preferred magnification automatically. Read our comprehensive
   ...
 date: '2026-01-01'

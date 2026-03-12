@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Microsoft Teams in Browser Tips
-description: 'Get the most out of Microsoft Teams in Chrome with practical tips. Speed
+description: "Get the most out of Microsoft Teams in Chrome with practical tips. Speed.............................................................................."
   up performance, manage tabs better, and reduce memory usage. Discover more tips
   and '
 date: 2025-03-10

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Web OTP API Explained
-description: Learn how Chrome Web OTP API works, why it makes verifying your phone
+description: "Learn how Chrome Web OTP API works, why it makes verifying your phone................................................................................."
   number easier, and what it means for your browsing. Read our comprehensive guide
   to lea...
 date: '2026-01-01'

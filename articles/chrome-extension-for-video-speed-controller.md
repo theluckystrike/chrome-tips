@@ -1,10 +1,10 @@
 ---
 title: Chrome Extension for Video Speed Controller
-description: Looking for a chrome extension for video speed controller? This guide
+description: "Looking for a chrome extension for video speed controller? This guide................................................................................."
   shows how to control video playback speed in Chrome for faster viewing. Discover
   how th...
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-video-speed-controller
 layout: post
 categories: '[extensions, media, productivity]'

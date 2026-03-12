@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Open Link in New Tab Shortcut
-description: Learn how to quickly open links in new tabs using keyboard shortcuts
+description: "Learn how to quickly open links in new tabs using keyboard shortcuts.................................................................................."
   in Chrome. Simple methods for Windows and Mac users. Learn effective tips and tricks
   to ...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-open-link-in-new-tab-shortcut
 categories:
 - productivity

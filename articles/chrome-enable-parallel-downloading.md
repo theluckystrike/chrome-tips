@@ -1,10 +1,10 @@
 ---
 title: chrome enable parallel downloading
-description: Learn how to enable parallel downloading in Chrome to download multiple
+description: "Learn how to enable parallel downloading in Chrome to download multiple..............................................................................."
   files simultaneously and speed up your downloads. Check out our expert recommendations
   a
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-enable-parallel-downloading
 layout: post
 categories: '[features, performance]'

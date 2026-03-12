@@ -17,7 +17,6 @@ tags:
 - browser-tools
 author: theluckystrike
 ---
-
 # How to Measure Input Delay Using Chrome Event Timing API
 
 When users interact with your website, they expect instant feedback. Click a button, and it should respond immediately. Type in a search box, and characters should appear without lag. Unfortunately, many websites fail to deliver this smooth experience, leaving users frustrated. The Chrome Event Timing API provides a powerful way to measure exactly how much delay exists between user actions and browser responses.
@@ -124,3 +123,9 @@ By understanding how to measure input delay and taking steps to minimize it, you
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Tab Groups Advanced Tips](/chrome-tab-groups-advanced-tips)
+* [Chrome For Doordash Web Ordering Tips](/chrome-for-doordash-web-ordering-tips)
+* [Chrome Preloading Pages Should I Enable It](/chrome-preloading-pages-should-i-enable-it)

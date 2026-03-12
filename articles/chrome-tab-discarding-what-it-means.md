@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Tab Discarding What It Means
-description: What does chrome tab discarding mean? Learn why Chrome automatically
+description: "What does chrome tab discarding mean? Learn why Chrome automatically.................................................................................."
   suspends tabs, how it affects your browsing, and easy fixes. Read our comprehensive
   guide t
 date: 2026-01-15

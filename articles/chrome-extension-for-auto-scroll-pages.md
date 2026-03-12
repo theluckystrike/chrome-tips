@@ -1,9 +1,9 @@
 ---
 title: Chrome Extension for Auto Scroll Pages
-description: Discover how auto scroll Chrome extensions can improve your reading experience
+description: "Discover how auto scroll Chrome extensions can improve your reading experience........................................................................"
   and save you time when browsing long web pages. Check out our expert recommendati
 date: '2026-01-01'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-auto-scroll-pages
 layout: post
 ---

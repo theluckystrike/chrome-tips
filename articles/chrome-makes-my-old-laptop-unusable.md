@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work'
-description: Is Chrome making your old laptop unusable? Discover step-by-step solutions
+description: "Is Chrome making your old laptop unusable? Discover step-by-step solutions............................................................................"
   to reduce memory usage, speed up your browser, and get your computer running smoot...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-makes-my-old-laptop-unusable
 categories:
 - performance

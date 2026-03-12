@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Extensions for Vertical Tab Bar
-description: Looking for chrome extensions for vertical tab bar? Discover extensions
+description: "Looking for chrome extensions for vertical tab bar? Discover extensions..............................................................................."
   that move your tabs to the side for better organization and more screen space.
 date: 2026-03-09
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-vertical-tab-bar
 categories:
 - productivity

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for telegram web best settings
-description: Discover the best Chrome settings for Telegram Web to improve performance,
+description: "Discover the best Chrome settings for Telegram Web to improve performance,............................................................................"
   save memory, and enjoy a smoother messaging experience. Discover more tips and tri
 date: 2026-01-15
 categories:

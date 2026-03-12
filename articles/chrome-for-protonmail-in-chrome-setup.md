@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for protonmail in chrome setup
-description: Learn how to set up ProtonMail in Chrome for secure email. Get tips for
+description: "Learn how to set up ProtonMail in Chrome for secure email. Get tips for..............................................................................."
   managing your encrypted inbox and improving your workflow. Discover more tips and
   tri
 date: 2026-01-15

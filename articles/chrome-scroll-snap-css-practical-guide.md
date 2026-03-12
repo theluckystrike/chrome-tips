@@ -18,7 +18,6 @@ author: theluckystrike
 permalink: chrome-scroll-snap-css-practical-guide
 last_modified_at: '2026-03-12'
 ---
-
 # Chrome Scroll Snap CSS Practical Guide
 
 Scroll snap has become one of the most useful CSS features for creating engaging web experiences. If you have ever used a mobile app where swiping feels natural and stops at exactly the right place, you have experienced scroll snap in action. Now you can bring that same smooth feeling to your websites using only CSS.
@@ -135,3 +134,9 @@ Scroll snap is a powerful CSS feature that adds polish and professionalism to yo
 Start with simple implementations and gradually add complexity as you become more comfortable with the properties. The examples in this guide provide a solid foundation that you can adapt and expand for any project you encounter.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Devtools Rendering Tab Explained](/chrome-devtools-rendering-tab-explained)
+* [Chrome Tracing For Performance Issues](/chrome-tracing-for-performance-issues)
+* [Chrome Css Nesting Ampersand Syntax](/chrome-css-nesting-ampersand-syntax)

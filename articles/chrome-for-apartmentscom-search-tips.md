@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for apartments.com search tips
-description: Smart Chrome tips for finding your next apartment on Apartments.com faster
+description: "Smart Chrome tips for finding your next apartment on Apartments.com faster............................................................................"
   and more efficiently. Find out more tips on how to optimize your Chrome browser
   ex...
 date: '2026-01-15'

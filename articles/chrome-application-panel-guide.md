@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Application Panel Guide
-description: Master the Chrome Application Panel to debug storage, service workers,
+description: "Master the Chrome Application Panel to debug storage, service workers,................................................................................"
   manifest files, cache storage, and IndexedDB for PWA development. Learn how to optimiz...
 date: 2026-01-20
 categories:
@@ -17,7 +17,7 @@ tags:
 - pwa
 - web-development
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-application-panel-guide
 ---
 # Chrome Application Panel Guide

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'Chrome Local Storage View Edit: How to Inspect and Modify Website Data'
-description: Learn how to view and edit local storage in Chrome using Developer Tools.
+description: "Learn how to view and edit local storage in Chrome using Developer Tools.............................................................................."
   Inspect, add, modify, or delete local storage values for debugging and testing.
 date: '2025-02-19'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-local-storage-view-edit
 categories:
 - browser-tips

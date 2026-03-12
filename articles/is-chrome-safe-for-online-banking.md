@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Chrome Safe for Online Banking
-description: Learn whether Chrome is secure enough for banking, what risks exist,
+description: "Learn whether Chrome is secure enough for banking, what risks exist,.................................................................................."
   and how to protect your accounts. Read our comprehensive guide to learn more and
   optimiz...
 date: '2026-01-01'

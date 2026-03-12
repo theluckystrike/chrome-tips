@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Quick Commands Feature
-description: Learn how Chrome's quick commands feature can speed up your browsing
+description: "Learn how Chrome's quick commands feature can speed up your browsing.................................................................................."
   and help you access tools faster. Discover more tips and tricks to optimize your
   browser
 date: 2026-01-15

@@ -1,10 +1,10 @@
 ---
 title: Chrome Encoding API Text Encoder Decoder
-description: Learn about the Chrome Encoding API TextEncoder and TextDecoder tools
+description: "Learn about the Chrome Encoding API TextEncoder and TextDecoder tools................................................................................."
   for handling text in web apps. Simple explanations for everyday users. Check out
   our exper
 date: '2025-03-11'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-encoding-api-text-encoder-decoder
 layout: post
 categories: '[encoding, web-development]'

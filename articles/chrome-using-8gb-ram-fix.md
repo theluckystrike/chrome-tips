@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Using 8GB RAM Fix
-description: Chrome eating 8GB of RAM? Learn why this happens and practical steps
+description: "Chrome eating 8GB of RAM? Learn why this happens and practical steps.................................................................................."
   to reduce memory consumption on your computer. Read our comprehensive guide to learn
   mor...
 date: '2025-02-28'

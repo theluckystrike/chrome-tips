@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Time to First Byte Explained
-description: Learn what time to first byte means in Chrome, why it affects your browsing
+description: "Learn what time to first byte means in Chrome, why it affects your browsing..........................................................................."
   speed, and how to fix slow TTFB issues. Read our comprehensive guide to learn mor...
 date: '2026-01-01'
 last_modified_at: '2026-03-12'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Virus Scan Built in How to Use
-description: Learn how to use Chrome built-in virus scanning. Simple steps to check
+description: "Learn how to use Chrome built-in virus scanning. Simple steps to check................................................................................"
   downloads and keep your browser safe from malware. Read our comprehensive guide
   to lea...
 date: '2026-01-01'

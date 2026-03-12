@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Gesture Navigation Desktop
-description: Learn how to set up and use gesture navigation in Chrome on your desktop
+description: "Learn how to set up and use gesture navigation in Chrome on your desktop.............................................................................."
   computer for a smoother browsing experience. Discover more tips and tricks to optimi
 date: 2026-01-20
 categories:

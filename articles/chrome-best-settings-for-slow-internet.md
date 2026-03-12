@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Best Settings For Slow Internet
-description: Discover the best Chrome settings for slow internet to speed up your
+description: "Discover the best Chrome settings for slow internet to speed up your.................................................................................."
   browser and reduce buffering on any connection. Learn how to optimize your browser
   today...
 date: 2026-01-15
@@ -14,7 +14,7 @@ tags:
 - browser-settings
 - speed
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-best-settings-for-slow-internet
 ---
 # Chrome Best Settings for Slow Internet

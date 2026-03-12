@@ -1,10 +1,10 @@
 ---
 title: 'Chrome Console Commands: Useful Tricks Every User Should Know'
-description: Master Chrome console commands to debug, test, and automate your browsing.
+description: "Master Chrome console commands to debug, test, and automate your browsing............................................................................."
   Learn essential console tricks that can speed up your workflow. Read our full guide
   t
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-console-commands-useful-tricks
 layout: post
 categories:

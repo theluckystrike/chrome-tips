@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome YouTube Slow But Other Sites Fine Fix
-description: Having chrome youtube slow but other sites fine fix issues. Learn why
+description: "Having chrome youtube slow but other sites fine fix issues. Learn why................................................................................."
   YouTube runs slow in Chrome and how to fix it with simple solutions. Read our comprehen...
 date: '2026-01-01'
 last_modified_at: '2026-03-12'

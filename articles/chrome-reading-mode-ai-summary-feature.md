@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Reading Mode AI Summary Feature
-description: Discover Chrome's AI-powered Reading Mode that summarizes articles instantly.
+description: "Discover Chrome's AI-powered Reading Mode that summarizes articles instantly.........................................................................."
   Learn how to use this feature for faster, smarter web reading. Learn effective ...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-reading-mode-ai-summary-feature
 categories:
 - features

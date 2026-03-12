@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Notification Badge on PWA How to Enable
-description: Learn how to enable notification badges on PWAs in Chrome. Simple steps
+description: "Learn how to enable notification badges on PWAs in Chrome. Simple steps..............................................................................."
   to get badges working on your installed web apps. Learn effective tips and tricks
   to ...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-notification-badge-on-pwa-how-to-enable
 categories:
 - features

@@ -1,9 +1,9 @@
 ---
 title: Chrome Extensions for Pocket Alternative
-description: Looking for chrome extensions for pocket alternative? Discover the best
+description: "Looking for chrome extensions for pocket alternative? Discover the best..............................................................................."
   read-it-later tools to save articles for offline reading. Check out our expert...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-pocket-alternative
 layout: post
 categories: '[productivity, reading]'

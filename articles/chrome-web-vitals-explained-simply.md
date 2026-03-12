@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chrome Web Vitals Explained Simply"
-description: "Learn what Chrome Web Vitals are and why they matter for your website. This simple guide covers LCP, FID, and CLS with practical tips to improve your site performance."
+description: "Learn what Chrome Web Vitals are and why they matter for your website. This simple guide covers LCP, FID, and CLS with practical tips to improve your site pe..."
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-web-vitals-explained-simply
@@ -9,7 +9,6 @@ categories: [web-development, performance, seo]
 tags: [chrome-web-vitals, core-web-vitals, page-speed, website-performance, web-development]
 author: theluckystrike
 ---
-
 # Chrome Web Vitals Explained Simply
 
 If you've ever wondered why some websites feel lightning-fast while others drag like they're stuck in mud, the answer often lies in something called Web Vitals. Google created these metrics to measure how good the user experience is on the web, and understanding them can help you make better websites. This guide breaks down **chrome web vitals explained simply** so you can start improving your site today.

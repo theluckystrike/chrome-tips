@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Salesforce Web App Optimization
-description: Learn how to optimize Chrome for Salesforce web app performance. Simple
+description: "Learn how to optimize Chrome for Salesforce web app performance. Simple..............................................................................."
   tips to make your CRM run faster and smoother. Discover more tips and tricks to
   optim
 date: 2026-01-15

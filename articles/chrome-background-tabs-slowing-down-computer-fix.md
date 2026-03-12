@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Background Tabs Slowing Down Computer Fix
-description: Is Chrome slowing down your computer? Learn why background tabs consume
+description: "Is Chrome slowing down your computer? Learn why background tabs consume..............................................................................."
   resources and how to fix the problem with practical solutions. Learn how to optimize
   ...
 date: 2026-01-15
@@ -14,7 +14,7 @@ tags:
 - chrome-memory
 - browser-performance
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-background-tabs-slowing-down-computer-fix
 ---
 # Chrome Background Tabs Slowing Down Computer Fix

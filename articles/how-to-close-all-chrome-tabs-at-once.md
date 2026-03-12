@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Close All Chrome Tabs at Once
-description: Learn simple methods to close all your Chrome tabs at once and regain
+description: "Learn simple methods to close all your Chrome tabs at once and regain................................................................................."
   control of your browser when tab overload strikes. Read our comprehensive guide
   to lear...
 date: '2025-03-09'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Service Worker What It Does Explained
-description: 'A simple explanation of what Chrome service workers do, why they matter,
+description: "A simple explanation of what Chrome service workers do, why they matter,.............................................................................."
   and how to manage them for better browsing. Read our comprehensive guide to learn
   more '
 permalink: chrome-service-worker-what-it-does-explained

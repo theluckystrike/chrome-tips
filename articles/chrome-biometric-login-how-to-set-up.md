@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Biometric Login How To Set Up
-description: Learn how to set up biometric login in Chrome. Use fingerprint or face
+description: "Learn how to set up biometric login in Chrome. Use fingerprint or face................................................................................"
   recognition for secure, password-free authentication on websites. Learn how to optimiz...
 date: 2026-03-10
 categories:
@@ -15,7 +15,7 @@ tags:
 - security
 - passwords
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-biometric-login-how-to-set-up
 ---
 # Chrome Biometric Login How to Set Up

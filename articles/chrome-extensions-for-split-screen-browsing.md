@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Extensions for Split Screen Browsing
-description: Looking for chrome extensions for split screen browsing? Discover extensions
+description: "Looking for chrome extensions for split screen browsing? Discover extensions.........................................................................."
   Read our comprehensive guide to learn more and boost your productivity today.
 date: 2026-03-10
-last_modified_at: 2026-03-11
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-split-screen-browsing
 categories: null
 tags: null

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Why Did Chrome Get So Slow Recently? Causes and Fixes
-description: Chrome suddenly slow? Here's why it happens and how to fix it. Common
+description: "Chrome suddenly slow? Here's why it happens and how to fix it. Common................................................................................."
   causes of recent Chrome slowdowns and step-by-step solutions. Read our comprehensive
   gu...
 date: '2025-02-26'

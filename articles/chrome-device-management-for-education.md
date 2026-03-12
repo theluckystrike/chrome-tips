@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome device management for education
-description: Learn how Chrome device management helps schools manage Chromebooks efficiently
+description: "Learn how Chrome device management helps schools manage Chromebooks efficiently......................................................................."
   with easy setup and remote control. Learn more about how to optimize your C
 date: 2026-01-15
 categories:
@@ -14,7 +14,7 @@ tags:
 - chromebooks
 - school-it
 author: theluckystrike
-last_modified_at: '%Y->-'
+last_modified_at: '2026-03-12'
 permalink: /chrome-device-management-for-education/
 ---
 # Chrome Device Management for Education

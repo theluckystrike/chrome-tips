@@ -1,10 +1,10 @@
 ---
 title: 'Chrome Coverage Tool: Find Unused JavaScript'
-description: Learn how to use Chrome DevTools Coverage tool to discover and eliminate
+description: "Learn how to use Chrome DevTools Coverage tool to discover and eliminate.............................................................................."
   unused JavaScript code, reduce bundle sizes, and speed up your website. Read our
   full g
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-coverage-tool-find-unused-javascript
 layout: default
 categories:

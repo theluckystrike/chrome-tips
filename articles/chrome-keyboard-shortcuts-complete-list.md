@@ -13,8 +13,8 @@ tags:
 - browser
 author: theluckystrike
 permalink: chrome-keyboard-shortcuts-complete-list
+last_modified_at: '2026-03-12'
 ---
-
 # Chrome Keyboard Shortcuts Complete List
 
 Mastering Chrome keyboard shortcuts is one of the most effective ways to dramatically improve your browsing efficiency. Whether you are a power user managing dozens of tabs or someone who simply wants to navigate faster, these shortcuts can save you countless hours every week. This comprehensive guide covers all the essential shortcuts you need to know.
@@ -91,3 +91,9 @@ Here is a condensed version of the most essential shortcuts for quick reference:
 Learning the chrome keyboard shortcuts complete list takes some time, but the productivity gains are well worth the investment. Start with the shortcuts you use most frequently—new tab, close tab, switch tabs—and gradually add more to your workflow. Within a few weeks, these shortcuts will become second nature, and you will wonder how you ever browsed without them.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Font Palette Css Explained](/chrome-font-palette-css-explained)
+* [Chrome Iterator Helpers Explained](/chrome-iterator-helpers-explained)
+* [Chrome Gmail Keyboard Shortcuts](/chrome-gmail-keyboard-shortcuts)

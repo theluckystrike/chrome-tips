@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome vs Arc Browser 2026
-description: 'Compare Chrome vs Arc Browser in 2026: discover differences in Spaces,
+description: "Compare Chrome vs Arc Browser in 2026: discover differences in Spaces,................................................................................"
   split view, sidebar, and productivity features. Find which browser best suits your
   wor...'
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-arc-browser-2026
 categories: '[browser, productivity, comparison]'
 tags: '[chrome, arc-browser, browser-comparison, spaces, split-view, productivity]'

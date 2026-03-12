@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Scope CSS Explained
-description: 'Learn what Chrome scope CSS is, why your styles might conflict, and
+description: "Learn what Chrome scope CSS is, why your styles might conflict, and..................................................................................."
   how to fix styling issues in Chrome. Read our comprehensive guide to learn more
   and improve '
 permalink: chrome-scope-css-explained

@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "chrome ai theme generator how to use"
-description: "Learn how to use Chrome AI theme generator to create custom browser themes. Step-by-step guide for personalizing your Chrome appearance with AI-generated colors and styles."
+description: "Learn how to use Chrome AI theme generator to create custom browser themes. Step-by-step guide for personalizing your Chrome appearance with AI-generated col..."
 date: 2026-03-09
+last_modified_at: 2026-03-10
+permalink: chrome-ai-theme-generator-how-to-use
 categories: [features, customization]
 tags: [ai, theme-generator, chrome-settings, appearance, personalization]
 author: theluckystrike
 ---
+
 
 # Chrome AI Theme Generator How to Use
 

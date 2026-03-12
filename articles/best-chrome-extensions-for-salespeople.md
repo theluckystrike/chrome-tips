@@ -1,19 +1,15 @@
 ---
 layout: post
-title: Best Chrome Extensions for Salespeople
-description: Find the best chrome extensions for salespeople to boost productivity, manage leads, and close more deals from your browser. Find out more tips on how to optimi
-date: '2026-03-10'
-categories:
-- productivity
-- tips
-tags:
-- chrome-extensions
-- sales
-- business
+title: "Best Chrome Extensions for Salespeople"
+description: "Find the best chrome extensions for salespeople to boost productivity, manage leads, and close more deals from your browser. Find out more tips on how to optimi"
+date: 2026-03-10
+last_modified_at: 2026-03-12
+permalink: best-chrome-extensions-for-salespeople
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /articles/best-chrome-extensions-for-salespeople/
 ---
+
 
 # Best Chrome Extensions for Salespeople
 

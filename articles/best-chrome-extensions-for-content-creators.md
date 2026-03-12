@@ -1,19 +1,15 @@
 ---
 layout: post
-title: Best Chrome Extensions for Content Creators
-description: Discover the best Chrome extensions for content creators to streamline your workflow, boost productivity, and create better content faster. Find out more tips o
-date: '2026-03-10'
-categories:
-- productivity
-- content-creation
-tags:
-- chrome-extensions
-- content-creators
-- browser-tools
+title: "Best Chrome Extensions for Content Creators"
+description: "Discover the best Chrome extensions for content creators to streamline your workflow, boost productivity, and create better content faster. Find out more tips o"
+date: 2026-03-10
+last_modified_at: 2026-03-12
+permalink: best-chrome-extensions-for-content-creators
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: /articles/best-chrome-extensions-for-content-creators/
 ---
+
 
 # Best Chrome Extensions for Content Creators
 

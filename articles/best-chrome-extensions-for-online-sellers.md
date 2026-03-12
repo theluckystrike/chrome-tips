@@ -1,21 +1,15 @@
 ---
 layout: post
-title: Best Chrome Extensions for Online Sellers
-description: Discover the best Chrome extensions for online sellers to manage inventory, track prices, and boost sales across multiple platforms. Find out more tips on how t
-date: '2026-03-10'
-categories:
-- productivity
-- business
-tags:
-- chrome-extensions
-- online-sellers
-- e-commerce
-- productivity
-- business-tools
+title: "Best Chrome Extensions for Online Sellers"
+description: "Discover the best Chrome extensions for online sellers to manage inventory, track prices, and boost sales across multiple platforms. Find out more tips on how t"
+date: 2026-03-10
+last_modified_at: 2026-03-12
+permalink: best-chrome-extensions-for-online-sellers
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: /articles/best-chrome-extensions-for-online-sellers/
 ---
+
 
 # Best Chrome Extensions for Online Sellers
 

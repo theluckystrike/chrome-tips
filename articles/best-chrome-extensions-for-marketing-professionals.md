@@ -1,19 +1,15 @@
 ---
 layout: post
-title: Best Chrome Extensions for Marketing Professionals
-description: 'Discover the best Chrome extensions for marketing professionals to boost productivity and streamline your daily workflow. Find out more tips on how to optimize '
-date: '2026-03-10'
-categories:
-- marketing
-- productivity
-tags:
-- chrome-extensions
-- marketing-tools
-- browser-tools
+title: "Best Chrome Extensions for Marketing Professionals"
+description: "Discover the best Chrome extensions for marketing professionals to boost productivity and streamline your daily workflow. Find out more tips on how to optimize "
+date: 2026-03-10
+last_modified_at: 2026-03-12
+permalink: best-chrome-extensions-for-marketing-professionals
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: /articles/best-chrome-extensions-for-marketing-professionals/
 ---
+
 
 # Best Chrome Extensions for Marketing Professionals
 

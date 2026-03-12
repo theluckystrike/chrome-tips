@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Auto Sign In to Websites How to Control"
-description: "Learn how Chrome auto sign in to websites works and how to control it. Simple settings to manage your login preferences."
+description: "Learn how Chrome auto sign in to websites works and how to control it. Simple settings to manage your login preferences. Read more to optimize your experience."
 date: 2025-03-10
+last_modified_at: 2026-03-10
+permalink: chrome-auto-sign-in-to-websites-how-to-control
 categories: [tips, privacy]
 tags: [chrome-auto-sign-in, login-settings, chrome-sign-in, browser-tips]
 author: theluckystrike
 ---
+
 
 # Chrome Auto Sign In to Websites How to Control
 

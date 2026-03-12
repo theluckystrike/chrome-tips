@@ -1,19 +1,15 @@
 ---
 layout: post
-title: Best Chrome Extensions for Productivity
-description: Discover the best Chrome extensions for productivity that can transform how you work and help you accomplish more in less time. Find out more tips on how to opt
-date: '2026-03-09'
-categories:
-- productivity
-- tips
-tags:
-- chrome-extensions
-- productivity
-- browser-tools
+title: "Best Chrome Extensions for Productivity"
+description: "Discover the best Chrome extensions for productivity that can transform how you work and help you accomplish more in less time. Find out more tips on how to opt"
+date: 2026-03-09
+last_modified_at: 2026-03-12
+permalink: best-chrome-extensions-for-productivity
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /articles/best-chrome-extensions-for-productivity/
 ---
+
 
 # Best Chrome Extensions for Productivity
 

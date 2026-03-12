@@ -1,19 +1,15 @@
 ---
 layout: post
-title: Best Chrome Extensions for Researchers
-description: 'Discover the best Chrome extensions for researchers that help manage tabs, organize findings, and boost productivity while gathering information. Find out more '
-date: '2026-03-10'
-last_modified_at: '2026-03-11'
-permalink: /articles/best-chrome-extensions-for-researchers/
-categories:
-- research
-- tips
-tags:
-- chrome-extensions
-- researchers
-- productivity
+title: "Best Chrome Extensions for Researchers"
+description: "Discover the best Chrome extensions for researchers that help manage tabs, organize findings, and boost productivity while gathering information. Find out more "
+date: 2026-03-10
+last_modified_at: 2026-03-12
+permalink: best-chrome-extensions-for-researchers
+categories: 
+tags: 
 author: theluckystrike
 ---
+
 
 # Best Chrome Extensions for Researchers
 

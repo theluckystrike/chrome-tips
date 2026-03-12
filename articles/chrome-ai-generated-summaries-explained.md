@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome AI Generated Summaries Explained"
-description: "Learn what chrome AI generated summaries are, how they work in Chrome, and how to use them for faster browsing."
+description: "Learn what chrome AI generated summaries are, how they work in Chrome, and how to use them for faster browsing. Read more to optimize your experience."
 date: 2026-03-10
+last_modified_at: 2026-03-10
+permalink: chrome-ai-generated-summaries-explained
 categories: [browsing, tips]
 tags: [chrome, ai, summaries, productivity]
 author: theluckystrike
 ---
+
 
 # Chrome AI Generated Summaries Explained
 

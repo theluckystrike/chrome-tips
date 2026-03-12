@@ -1,21 +1,15 @@
 ---
 layout: post
-title: Best Browser for Old MacBook 2026
-description: Discover the best browser for old MacBook in 2026. We compare lightweight options and share tips to breathe new life into your aging Apple laptop. Find out more
-date: '2026-01-15'
-categories:
-- performance
-- browsers
-- macbook
-tags:
-- best-browser
-- old-macbook
-- macbook-performance
-- lightweight-browser
+title: "Best Browser for Old MacBook 2026"
+description: "Discover the best browser for old MacBook in 2026. We compare lightweight options and share tips to breathe new life into your aging Apple laptop. Find out more"
+date: 2026-01-15
+last_modified_at: 2026-03-12
+permalink: best-browser-for-old-macbook-2026
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: /articles/best-browser-for-old-macbook-2026/
 ---
+
 
 # Best Browser for Old MacBook 2026
 

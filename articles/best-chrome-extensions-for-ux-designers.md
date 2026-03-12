@@ -1,21 +1,15 @@
 ---
 layout: post
-title: Best Chrome Extensions for UX Designers
-description: Discover the best Chrome extensions for UX designers to boost productivity and streamline your design workflow. Find out more tips on how to optimize your Chrom
-date: '2026-01-15'
-categories:
-- productivity
-- extensions
-- design
-tags:
-- chrome-extensions
-- ux-design
-- productivity
-- browser-tools
+title: "Best Chrome Extensions for UX Designers"
+description: "Discover the best Chrome extensions for UX designers to boost productivity and streamline your design workflow. Find out more tips on how to optimize your Chrom"
+date: 2026-01-15
+last_modified_at: 2026-03-12
+permalink: best-chrome-extensions-for-ux-designers
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /articles/best-chrome-extensions-for-ux-designers/
 ---
+
 
 # Best Chrome Extensions for UX Designers
 

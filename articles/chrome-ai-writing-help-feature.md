@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome AI Writing Help Feature"
-description: "Learn how to use Chrome AI writing help feature to improve your writing. Simple steps to enhance your content from within your browser."
+description: "Learn how to use Chrome AI writing help feature to improve your writing. Simple steps to enhance your content from within your browser. Read more to optimize yo"
 date: 2026-03-09
+last_modified_at: 2026-03-10
+permalink: chrome-ai-writing-help-feature
 categories: [writing, tips]
 tags: [chrome, ai, writing, productivity]
 author: theluckystrike
 ---
+
 
 # Chrome AI Writing Help Feature
 

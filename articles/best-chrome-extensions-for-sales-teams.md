@@ -1,19 +1,15 @@
 ---
 layout: post
-title: Best Chrome Extensions for Sales Teams
-description: Discover the best Chrome extensions for sales teams to close more deals, manage leads, and boost productivity. Find out more tips on how to optimize your Chrome
-date: '2026-03-10'
-categories:
-- productivity
-- tips
-tags:
-- chrome-extensions
-- sales
-- business
+title: "Best Chrome Extensions for Sales Teams"
+description: "Discover the best Chrome extensions for sales teams to close more deals, manage leads, and boost productivity. Find out more tips on how to optimize your Chrome"
+date: 2026-03-10
+last_modified_at: 2026-03-12
+permalink: best-chrome-extensions-for-sales-teams
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /articles/best-chrome-extensions-for-sales-teams/
 ---
+
 
 # Best Chrome Extensions for Sales Teams
 

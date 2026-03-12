@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "chrome right to left language support"
-description: "Learn how to fix right-to-left language display issues in Chrome. Solutions for Arabic, Hebrew, Persian, and other RTL languages."
+title: Chrome Right To Left Language Support
+description: Learn how to fix right-to-left language display issues in Chrome. Solutions
+  for Arabic, Hebrew, Persian, and other RTL languages. Learn how to optimize your
+  ...
 date: 2026-03-09
-categories: [features, accessibility]
-tags: [language, rtl, accessibility, text-display, international]
+categories:
+- features
+- accessibility
+tags:
+- language
+- rtl
+- accessibility
+- text-display
+- international
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-right-to-left-language-support
 ---
-
 # Chrome Right to Left Language Support
 
 If you have ever searched for chrome right to left language support, you probably encountered text that appears backwards, mixed up, or simply hard to read when browsing in languages like Arabic, Hebrew, Persian, or Urdu. This is a common issue that affects millions of users who need to read and write in right-to-left languages. This guide explains why this happens and provides practical solutions you can try right away.

@@ -1,14 +1,16 @@
 --- 
 layout: post
-title: "Chrome Spellcheck Not Working Fix"
-description: "Is Chrome spellcheck not working? Fix missing red underlines and catch your misspellings again with these easy troubleshooting steps and language setting tips."
-date: "2025-03-15"
-last_modified_at: "2026-03-12"
-permalink: "chrome-spellcheck-not-working-fix"
-categories: 
-tags: 
+title: Chrome Spellcheck Not Working? Here's How to Fix It
+description: Fix Chrome's spellcheck when it stops underlining misspelled words. Troubleshoot......................................................................
+date: '2025-03-15'
+last_modified_at: '2026-03-12'
+permalink: chrome-spellcheck-not-working-fix
+categories: null
+tags: null
 author: theluckystrike
----# Chrome Spellcheck Not Working? Here's How to Fix It
+---
+
+# Chrome Spellcheck Not Working? Here's How to Fix It
 
 You're typing in a text field and Chrome isn't catching your misspellings anymore. The familiar red squiggly underlines have disappeared. This is surprisingly common and usually easy to fix.
 

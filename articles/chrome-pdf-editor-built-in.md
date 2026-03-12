@@ -1,20 +1,10 @@
 ---
 layout: post
-title: Chrome Built-In PDF Editor Guide
-description: Learn how to use Chrome's built-in PDF editor to fill forms, sign documents,
-  add text, and save edits directly in your browser. Learn effective tips and tric...
-date: '2026-03-11'
-last_modified_at: '2026-03-11'
-permalink: chrome-pdf-editor-built-in
-categories:
-- tutorials
-- pdf
-- chrome
-tags:
-- chrome-pdf-editor
-- pdf-tools
-- chrome-tips
-- browser
+title: "Chrome Built-In PDF Editor Guide"
+description: "Learn how to use Chrome's built-in PDF editor to fill forms, sign documents, add text, and save edits directly in your browser."
+date: 2026-01-20
+categories: [tutorials, pdf, chrome]
+tags: [chrome-pdf-editor, pdf-tools, chrome-tips, browser]
 author: theluckystrike
 ---
 # Chrome Built-In PDF Editor Guide
@@ -110,11 +100,6 @@ Chrome's built-in PDF editor is a surprisingly capable tool that can handle most
 The key advantages are clear: no additional software installation required, seamless integration with your browser, automatic saving of progress, and cross-platform compatibility. While it may not replace specialized PDF software for advanced tasks like complex form creation or precise document restructuring, it excels at the most common PDF workflows that users encounter daily.
 
 Next time you need to fill out a form, sign a contract, or add notes to a PDF, try Chrome's built-in editor first. You might find it handles everything you need without ever needing to reach for additional tools. Combined with smart tab management practices, Chrome can serve as your go-to solution for efficient PDF handling.
-
-## Related Articles
-* [How to Check If Chrome Is Up to Date](/articles/how-to-check-if-chrome-is-up-to-date/)
-* [How to Find Chrome Extensions That Slow Down Browser](/articles/how-to-find-chrome-extensions-that-slow-down-browser/)
-* [Chrome Extension for YouTube Ad Blocker](/articles/chrome-extension-for-youtube-ad-blocker/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

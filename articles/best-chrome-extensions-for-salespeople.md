@@ -99,6 +99,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome DevTools Protocol Monitor](/chrome-protocol-monitor-guide)
-* [Chrome Net Err Cert Common Name Invalid Fix](/chrome-net-err-cert-common-name-invalid-fix)
-* [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/chrome-your-computer-is-infected-popup-fix)
+- [Chrome Extensions for Email Productivity](/chrome-tips/chrome-extensions-for-email-productivity)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-tips/chrome-for-yahoo-finance-best-extensions)
+- [Chrome Resize Observer API Explained](/chrome-tips/chrome-resize-observer-api-explained)

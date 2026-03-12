@@ -91,6 +91,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Was Fast, Now It's Slow - What Happened?](/chrome-was-fast-now-its-slow-what-happened)
-* [Chrome Web USB API Explained](/chrome-web-usb-api-explained)
-* [Chrome For Obs Browser Source Tips](/chrome-for-obs-browser-source-tips)
+- [Chrome Extensions for Discord](/chrome-tips/chrome-extensions-for-discord)
+- [Chrome for White Noise While Working](/chrome-tips/chrome-for-white-noise-while-working)
+- [How to Report a Malware Website in Chrome](/chrome-tips/chrome-report-malware-website-how-to)

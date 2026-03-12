@@ -93,6 +93,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
-* [Chrome Extensions for SSL Certificate Checker](/chrome-extensions-for-ssl-certificate-checker)
-* [Why Is My Chrome Tab Using 1GB of Memory? Here's Why and How to Fix It](/chrome-tab-using-1gb-memory-why)
+- [Chrome Extensions For Elderly Users Simple Tools](/chrome-tips/chrome-extensions-for-elderly-users-simple-tools)
+- [Chrome For Xbox Cloud Gaming Optimization](/chrome-tips/chrome-for-xbox-cloud-gaming-optimization)
+- [Chrome Reset Flags to Default How To](/chrome-tips/chrome-reset-flags-to-default-how-to)

@@ -88,6 +88,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
-* [Chrome Super Cookies: What Are They](/chrome-super-cookies-what-are-they)
-* [Chrome Flags Best Performance Settings](/chrome-flags-best-performance-settings)
+- [Best Chrome Extensions for Designers 2026](/chrome-tips/chrome-extensions-for-designers)
+- [Chrome for Website Blocking During Work](/chrome-tips/chrome-for-website-blocking-during-work)
+- [Chrome Reopen Accidentally Closed Tab How](/chrome-tips/chrome-reopen-accidentally-closed-tab-how)

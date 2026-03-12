@@ -82,6 +82,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Save Page as Shortcut](/chrome-save-page-as-shortcut)
-* [Chrome Slower After Windows Update Fix](/chrome-slower-after-windows-update-fix)
-* [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
+- [Chrome Extensions for Cover Letter Writing](/chrome-tips/chrome-extensions-for-cover-letter-writing)
+- [Chrome for Weather Dashboard Extensions](/chrome-tips/chrome-for-weather-dashboard-extensions)
+- [Chrome Remote Desktop Slow Fix](/chrome-tips/chrome-remote-desktop-slow-fix)

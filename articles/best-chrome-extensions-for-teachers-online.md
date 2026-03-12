@@ -91,6 +91,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)
-* [Chrome for Tab Sleeping vs Tab Suspending Difference](/chrome-for-tab-sleeping-vs-tab-suspending-difference)
-* [Chrome WASM WebAssembly Getting Started: A Complete Beginner''s Guide](/chrome-wasm-webassembly-getting-started)
+- [Chrome Extensions for Etsy Sellers](/chrome-tips/chrome-extensions-for-etsy-sellers)
+- [Chrome for Zen Mode Extensions](/chrome-tips/chrome-for-zen-mode-extensions)
+- [Chrome Restore Previous Session After Crash](/chrome-tips/chrome-restore-previous-session-after-crash)

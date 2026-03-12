@@ -91,6 +91,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Can Chrome Extensions Steal Your Data](/can-chrome-extensions-steal-your-data)
-* [Chrome Extensions for Tab Notes](/chrome-extensions-for-tab-notes)
-* [Chrome Multiple Users on Same Computer Setup](/chrome-multiple-users-on-same-computer-setup)
+- [Chrome Extensions for DNS Lookup](/chrome-tips/chrome-extensions-for-dns-lookup)
+- [Chrome for Wikipedia Enhanced Reading](/chrome-tips/chrome-for-wikipedia-enhanced-reading)
+- ['Chrome Reporting API Errors Monitor: Complete Guide'](/chrome-tips/chrome-reporting-api-errors-monitor)

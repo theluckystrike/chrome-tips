@@ -104,6 +104,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Instapaper Web Clipper](/chrome-for-instapaper-web-clipper)
-* [Chrome for Ambient Sound Extensions](/chrome-for-ambient-sound-extensions)
-* [Chrome Hardware Acceleration Gaming: Complete Optimization Guide](/chrome-hardware-acceleration-gaming)
+- [Chrome Extensions for Code Snippet Manager](/chrome-tips/chrome-extensions-for-code-snippet-manager)
+- [Chrome for Two Factor Authentication Setup](/chrome-tips/chrome-for-two-factor-authentication-setup)
+- [Chrome Reduce Data Usage Tips](/chrome-tips/chrome-reduce-data-usage-tips)

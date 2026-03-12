@@ -98,6 +98,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Side Panel Features Guide](/chrome-side-panel-features-guide)
-* [Chrome DevTools Protocol Monitor](/chrome-protocol-monitor-guide)
-* [Chrome vs Firefox 2026 Comparison](/chrome-vs-firefox-2026)
+- [Chrome Extensions for Email Templates](/chrome-tips/chrome-extensions-for-email-templates)
+- [Chrome For Yahoo Mail Best Extensions](/chrome-tips/chrome-for-yahoo-mail-best-extensions)
+- [Chrome Resource Timing API Explained](/chrome-tips/chrome-resource-timing-api-explained)

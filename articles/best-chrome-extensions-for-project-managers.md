@@ -104,6 +104,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Hidden Games Easter Eggs List](/chrome-hidden-games-easter-eggs-list)
-* [Chrome Components Page Update Manually](/chrome-components-page-update-manually)
-* [Chrome Saved Addresses How to Edit](/chrome-saved-addresses-how-to-edit)
+- [Chrome Extensions for Diigo](/chrome-tips/chrome-extensions-for-diigo)
+- [Chrome for WhatsApp Web Tips and Tricks](/chrome-tips/chrome-for-whatsapp-web-tips-and-tricks)
+- [Chrome Report Broken Website How To](/chrome-tips/chrome-report-broken-website-how-to)

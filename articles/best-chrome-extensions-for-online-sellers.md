@@ -92,6 +92,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Backup Chrome Bookmarks and Passwords](/how-to-backup-chrome-bookmarks-and-passwords)
-* [Chrome for ChatGPT Web App Best Extensions](/chrome-for-chatgpt-web-app-best-extensions)
-* [Chrome For Color Picker Extensions](/chrome-for-color-picker-extensions)
+- [Chrome Extensions for Coupon Finder Automatic](/chrome-tips/chrome-extensions-for-coupon-finder-automatic)
+- [Chrome for Waze Web Tips](/chrome-tips/chrome-for-waze-web-tips)
+- [Chrome Remote Desktop Setup Guide](/chrome-tips/chrome-remote-desktop-setup-guide)

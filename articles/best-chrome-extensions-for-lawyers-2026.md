@@ -93,6 +93,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Coursera Web App Optimization](/chrome-for-coursera-web-app-optimization)
-* [Chrome Extension Marketing Tips to Grow Your User Base](/chrome-extension-marketing-tips-grow-users)
-* [Chrome Extensions for WordPress](/chrome-extensions-for-wordpress)
+- [Chrome Extensions for Color Palette Generator](/chrome-tips/chrome-extensions-for-color-palette-generator)
+- [Chrome For Vimeo Web Upload Tips](/chrome-tips/chrome-for-vimeo-web-upload-tips)
+- ['Chrome Release Schedule: How Often Does It Update'](/chrome-tips/chrome-release-schedule-how-often-does-it-update)

@@ -101,6 +101,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome GPU Process High Memory Fix](/chrome-gpu-process-high-memory-fix)
-* [Chrome Interaction to Next Paint Explained: What It Means for You](/chrome-interaction-to-next-paint-explained)
-* [Chrome Zoom Level How to Set Default](/chrome-zoom-level-how-to-set-default)
+- [Chrome Extensions for Background Remover](/chrome-tips/chrome-extensions-for-background-remover)
+- [Chrome for Text to Speech on Any Page](/chrome-tips/chrome-for-text-to-speech-on-any-page)
+- [Chrome Reading List Vs Bookmarks](/chrome-tips/chrome-reading-list-vs-bookmarks)

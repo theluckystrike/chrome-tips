@@ -109,6 +109,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Kindle Cloud Reader Setup - A Complete Guide](/chrome-for-kindle-cloud-reader-setup)
-* [Chrome Source Maps Debug Minified Code](/chrome-source-maps-debug-minified-code)
-* [Chrome vs Firefox Memory Usage Test 2026](/chrome-vs-firefox-memory-usage-test-2026)
+- [Chrome Extensions for Better YouTube Experience](/chrome-tips/chrome-extensions-for-better-youtube-experience)
+- [Chrome for TickTick in Browser Tips](/chrome-tips/chrome-for-ticktick-in-browser-tips)
+- [Chrome Reading Mode AI Summary Feature](/chrome-tips/chrome-reading-mode-ai-summary-feature)

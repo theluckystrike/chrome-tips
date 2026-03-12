@@ -97,6 +97,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome DevTools Override Files Locally](/chrome-devtools-override-files-locally)
-* [Chrome Extensions for IP Address Lookup](/chrome-extensions-for-ip-address-lookup)
-* [Chrome Tab Memory Usage How To Check](/chrome-tab-memory-usage-how-to-check)
+- [Chrome Extensions for Auto Refresh Page](/chrome-tips/chrome-extensions-for-auto-refresh-page)
+- [Chrome for Target Web App Best Extensions](/chrome-tips/chrome-for-target-web-app-best-extensions)
+- [Chrome Reading List on Phone How to Use](/chrome-tips/chrome-reading-list-on-phone-how-to-use)

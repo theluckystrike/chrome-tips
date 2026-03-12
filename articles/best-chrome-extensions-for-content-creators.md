@@ -100,6 +100,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions for WordPress](/chrome-extensions-for-wordpress)
-* [Chrome for Budgeting: Best Web Tools](/chrome-for-budgeting-best-web-tools)
-* [Chrome Homepage Keeps Changing Fix](/chrome-homepage-keeps-changing-fix)
+- [Chrome Extensions for Bookmark Manager](/chrome-tips/chrome-extensions-for-bookmark-manager)
+- [Chrome for Touchscreen Optimization Tips](/chrome-tips/chrome-for-touchscreen-optimization-tips)
+- [Chrome Recently Closed Tabs How To Reopen](/chrome-tips/chrome-recently-closed-tabs-how-to-reopen)

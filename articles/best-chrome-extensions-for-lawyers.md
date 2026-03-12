@@ -90,6 +90,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Camera Not Working Fix](/chrome-camera-not-working-fix)
-* [Chrome Tab Groups Auto Create How To Set Up](/chrome-tab-groups-auto-create-how-to-set-up)
-* [Chrome Extensions for Nurses Healthcare](/chrome-extensions-for-nurses-healthcare)
+- [Chrome Extensions for Color Palette Picker](/chrome-tips/chrome-extensions-for-color-palette-picker)
+- [Chrome for Voice Search How to Enable](/chrome-tips/chrome-for-voice-search-how-to-enable)
+- ['Chrome Release Schedule: When Is the Next Update?'](/chrome-tips/chrome-release-schedule-when-next-update)

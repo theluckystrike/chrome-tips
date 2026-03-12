@@ -93,6 +93,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Uses All CPU When Idle Fix](/chrome-uses-all-cpu-when-idle-fix)
-* [Chrome Extension for Checking Grammar While Typing](/chrome-extension-for-checking-grammar-while-typing)
-* [Chrome vs Arc Browser: Should I Switch?](/chrome-vs-arc-browser-should-i-switch)
+- [Best Chrome Extensions For Designers 2026](/chrome-tips/chrome-extensions-for-designers-2026)
+- [Chrome for Web3 Browsing Extensions](/chrome-tips/chrome-for-web3-browsing-extensions)
+- [Chrome Rendering Panel Guide](/chrome-tips/chrome-rendering-panel-guide)

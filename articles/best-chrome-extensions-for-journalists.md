@@ -91,6 +91,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions for Social Media Scheduler](/chrome-extensions-for-social-media-scheduler)
-* [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
-* [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
+- [Chrome Extensions for College Professors](/chrome-tips/chrome-extensions-for-college-professors)
+- [Chrome for Udemy in Browser Tips](/chrome-tips/chrome-for-udemy-in-browser-tips)
+- ['Chrome Regex Lookbehind Support: What You Need to Know'](/chrome-tips/chrome-regex-lookbehind-support)

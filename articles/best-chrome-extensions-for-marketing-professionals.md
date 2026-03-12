@@ -89,6 +89,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Use Chrome on Two Monitors](/how-to-use-chrome-on-two-monitors)
-* [How to Stop Chrome from Eating Your RAM](/how-to-stop-chrome-from-eating-ram)
-* [Chrome Side Panel — How to Use It Effectively](/chrome-side-panel-how-to-use)
+- [Chrome Extensions for Comparing Prices Across Stores](/chrome-tips/chrome-extensions-for-comparing-prices-across-stores)
+- [Chrome For Vpn Extensions Comparison](/chrome-tips/chrome-for-vpn-extensions-comparison)
+- [Chrome Remote Debugging for Beginners](/chrome-tips/chrome-remote-debugging-for-beginners)

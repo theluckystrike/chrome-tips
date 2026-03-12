@@ -104,6 +104,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Geolocation Permission Settings](/chrome-geolocation-permission-settings)
-* [Chrome Keeps Freezing Every Few Minutes: Causes and Fixes](/chrome-keeps-freezing-every-few-minutes)
-* [Chrome For Github Copilot Web Setup](/chrome-for-github-copilot-web-setup)
+- [Chrome Extensions for Citation Generator](/chrome-tips/chrome-extensions-for-citation-generator)
+- [Chrome For Twitch Streaming Setup In Browser](/chrome-tips/chrome-for-twitch-streaming-setup-in-browser)
+- [Chrome Reduce Data Usage Mobile](/chrome-tips/chrome-reduce-data-usage-mobile)

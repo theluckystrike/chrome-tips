@@ -103,6 +103,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Managing Saved Addresses](/chrome-for-managing-saved-addresses)
-* [Chrome vs Safari on Mac — Which Uses Less Battery?](/chrome-vs-safari-on-mac-battery)
-* [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Extensions for Calendar Integration](/chrome-tips/chrome-extensions-for-calendar-integration)
+- [Chrome for Travel Itinerary Extensions](/chrome-tips/chrome-for-travel-itinerary-extensions)
+- [Chrome Recorder Panel Guide](/chrome-tips/chrome-recorder-panel-guide)

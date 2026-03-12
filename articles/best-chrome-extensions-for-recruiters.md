@@ -93,6 +93,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Share Chrome with Family Safely](/how-to-share-chrome-with-family-safely)
-* [Chrome Benchmark Score What It Means](/chrome-benchmark-score-what-it-means)
-* [Chrome Accessibility on Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)
+- [Chrome Extensions for Dropbox](/chrome-tips/chrome-extensions-for-dropbox)
+- ["Chrome for Window Management Extensions"](/chrome-tips/chrome-for-window-management-extensions)
+- ['Chrome requestanimationframe Explained: What It Means for Your Browser'](/chrome-tips/chrome-requestanimationframe-explained)

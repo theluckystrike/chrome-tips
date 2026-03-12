@@ -119,6 +119,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Content Security Policy Explained: A Complete Guide](/chrome-content-security-policy-explained)
-* [How to Show Text Cursor Indicator Visibility in Chrome](/chrome-text-cursor-indicator-visibility)
-* [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Extensions for Faster Browsing](/chrome-tips/chrome-extensions-for-faster-browsing)
+- [Chrome for Zoom in Browser Best Settings](/chrome-tips/chrome-for-zoom-in-browser-best-settings)
+- [How to Do a Reverse Image Search in Chrome Without an Extension](/chrome-tips/chrome-reverse-image-search-without-extension)

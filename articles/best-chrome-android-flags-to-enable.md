@@ -94,6 +94,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Make Chrome Kid-Friendly](/how-to-make-chrome-kid-friendly)
-* [How to Set Up Chrome Pop Up Blocker Exceptions](/chrome-pop-up-blocker-exceptions)
-* [Chrome WebView Android App Explained: Everything You Need to Know](/chrome-webview-android-app-explained)
+- [Chrome Extensions for Bibliography Management](/chrome-tips/chrome-extensions-for-bibliography-management)
+- [Chrome For Tiktok Web Best Settings](/chrome-tips/chrome-for-tiktok-web-best-settings)
+- [Chrome Reading Mode Hidden Feature](/chrome-tips/chrome-reading-mode-hidden-feature)

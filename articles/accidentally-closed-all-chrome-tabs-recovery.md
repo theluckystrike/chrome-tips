@@ -110,6 +110,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Inspect and Debug WebSocket Connections in Chrome](/chrome-websocket-inspect-debug)
-* [Chrome vs Arc Browser: Should I Switch?](/chrome-vs-arc-browser-should-i-switch)
-* [Chrome For Twitter X Best Extensions](/chrome-for-twitter-x-best-extensions)
+- [Chrome Extensions for Asana](/chrome-tips/chrome-extensions-for-asana)
+- [Chrome for Tab Organization Workflow](/chrome-tips/chrome-for-tab-organization-workflow)
+- [Chrome Reader View How to Enable on Any Site](/chrome-tips/chrome-reader-view-how-to-enable-on-any-site)

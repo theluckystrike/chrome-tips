@@ -94,6 +94,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Portable Version How To Get](/chrome-portable-version-how-to-get)
-* [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/chrome-grammarly-extension-slowing-browser)
-* [Chrome Extensions Keep Disabling Themselves Fix](/chrome-extensions-keep-disabling-themselves-fix)
+- [Chrome Extensions For Canvas Fingerprint Blocker](/chrome-tips/chrome-extensions-for-canvas-fingerprint-blocker)
+- [Chrome for Trello Power Ups in Browser](/chrome-tips/chrome-for-trello-power-ups-in-browser)
+- [Chrome Redirect Virus How to Remove](/chrome-tips/chrome-redirect-virus-how-to-remove)

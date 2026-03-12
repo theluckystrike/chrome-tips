@@ -91,6 +91,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Travel Planning: Best Extensions](/chrome-for-travel-planning-best-extensions)
-* [Chrome High Memory Usage Mac Fix](/chrome-high-memory-usage-mac-fix)
-* [Chrome Strict Site Isolation: Should I Enable](/chrome-strict-site-isolation-should-i-enable)
+- [Chrome Extensions for eBay Sniping](/chrome-tips/chrome-extensions-for-ebay-sniping)
+- [Chrome for Work vs Personal — How to Use Separate Profiles](/chrome-tips/chrome-for-work-vs-personal-separate-profiles)
+- ['Chrome Reset All Settings: What Gets Deleted'](/chrome-tips/chrome-reset-all-settings-what-gets-deleted)

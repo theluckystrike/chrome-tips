@@ -94,6 +94,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Reader View on Any Website](/chrome-for-reader-view-on-any-website)
-* [Chrome Extensions for Duplicate Tab Finder](/chrome-extensions-for-duplicate-tab-finder)
-* [Chrome Bookmark Bar Disappeared How to Fix](/chrome-bookmark-bar-disappeared-how-to-fix)
+- [Chrome Extensions for Eye Dropper Tool](/chrome-tips/chrome-extensions-for-eye-dropper-tool)
+- [Chrome for Zillow Best Extensions](/chrome-tips/chrome-for-zillow-best-extensions)
+- ['Chrome Restore Tabs Not Working After Update: Practical Fixes'](/chrome-tips/chrome-restore-tabs-not-working-after-update)

@@ -96,6 +96,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Version History: Major Milestones That Shaped the Browser](/chrome-version-history-major-milestones)
-* [Chrome Extensions Using Too Much Memory](/chrome-extensions-using-too-much-memory)
-* [Chrome Parental Controls — How to Set Up for Your Kids](/chrome-parental-controls-how-to-set-up)
+- [Chrome Extensions for Bulk Image Downloading](/chrome-tips/chrome-extensions-for-bulk-image-downloading)
+- [Chrome for Translation On Hover Extensions](/chrome-tips/chrome-for-translation-on-hover-extensions)
+- ['Chrome Recorder and DevTools: A Guide to Test Automation'](/chrome-tips/chrome-recorder-devtools-test-automation)

@@ -87,6 +87,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome CSS text-wrap: balance - How It Works](/chrome-css-text-wrap-balance-how-it-works)
-* [Best Browser for 2GB RAM Laptop 2026](/best-browser-for-2gb-ram-laptop-2026)
-* [Chrome WebAssembly Debugging Guide](/chrome-wasm-debugging-guide)
+- [Chrome Extensions for Coupon Codes Automatically](/chrome-tips/chrome-extensions-for-coupon-codes-automatically)
+- [Chrome for Wave Accounting in Browser](/chrome-tips/chrome-for-wave-accounting-in-browser)
+- [Chrome Remote Desktop How to Use](/chrome-tips/chrome-remote-desktop-how-to-use)

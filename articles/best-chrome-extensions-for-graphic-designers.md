@@ -75,6 +75,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Instacart Web App Best Settings](/chrome-for-instacart-web-app-best-settings)
-* [How to Remove Unwanted Toolbars in Chrome: Complete Guide](/chrome-unwanted-toolbar-remove-guide)
-* [Chrome Extension for Highlighting Text on Websites](/chrome-extension-for-highlighting-text-on-websites)
+- [Chrome Extensions for Clipboard Manager](/chrome-tips/chrome-extensions-for-clipboard-manager)
+- [Chrome For Twitter X Best Extensions](/chrome-tips/chrome-for-twitter-x-best-extensions)
+- [Chrome Reduce Data Usage On Mobile](/chrome-tips/chrome-reduce-data-usage-on-mobile)

@@ -90,6 +90,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Check If Chrome Extension Is Spying on Me](/how-to-check-if-chrome-extension-is-spying-on-me)
-* [Google Chrome vs Chromium Difference Explained](/google-chrome-vs-chromium-difference-explained)
-* [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
+- [Chrome Extensions for Brainstorming](/chrome-tips/chrome-extensions-for-brainstorming)
+- [Chrome For Tradingview Best Extensions](/chrome-tips/chrome-for-tradingview-best-extensions)
+- [Chrome Recently Closed Tabs Shortcut](/chrome-tips/chrome-recently-closed-tabs-shortcut)

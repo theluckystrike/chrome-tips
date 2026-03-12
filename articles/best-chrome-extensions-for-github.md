@@ -98,6 +98,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extension Permissions Too Many Warning](/chrome-extension-permissions-too-many-warning)
-* [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
-* [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+- [Chrome Extensions for Cashback Shopping](/chrome-tips/chrome-extensions-for-cashback-shopping)
+- [Chrome For Twitch Buffering Fix](/chrome-tips/chrome-for-twitch-buffering-fix)
+- [Chrome Redirecting to Wrong Pages Fix](/chrome-tips/chrome-redirecting-to-wrong-pages-fix)

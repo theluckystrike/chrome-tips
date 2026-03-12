@@ -93,6 +93,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Devtools Edit HTML Live](/chrome-devtools-edit-html-live)
-* [Chrome Extensions for Keyword Research](/chrome-extensions-for-keyword-research)
-* [Chrome Extensions for Grammar Check Free Alternative](/chrome-extensions-for-grammar-check-free-alternative)
+- [Chrome Extensions for Email Finder](/chrome-tips/chrome-extensions-for-email-finder)
+- [Chrome for Xero Accounting Web Tips](/chrome-tips/chrome-for-xero-accounting-web-tips)
+- ['Chrome Reset vs Reinstall: Which Is Better?'](/chrome-tips/chrome-reset-vs-reinstall-which-is-better)

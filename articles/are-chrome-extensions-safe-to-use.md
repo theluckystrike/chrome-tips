@@ -95,6 +95,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Guest Browsing for Shared Computers](/chrome-guest-browsing-for-shared-computers)
-* [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)
-* [How to Fix Chrome High CPU Usage When Gaming](/how-to-fix-chrome-high-cpu-usage-gaming)
+- [Chrome Extensions For Auto Page Refresh](/chrome-tips/chrome-extensions-for-auto-page-refresh)
+- [Chrome for Tab Sleeping vs Tab Suspending Difference](/chrome-tips/chrome-for-tab-sleeping-vs-tab-suspending-difference)
+- [Chrome Reading List How to Use](/chrome-tips/chrome-reading-list-how-to-use)

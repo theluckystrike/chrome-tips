@@ -104,6 +104,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Share Chrome Tabs in Video Calls](/how-to-share-chrome-tabs-in-video-calls)
-* [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
-* [CHIPS: Cookies Having Independent Partitioned State in Chrome](/chrome-chips-cookies-having-independent-state)
+- [Chrome Extensions For Eye Strain Protection](/chrome-tips/chrome-extensions-for-eye-strain-protection)
+- [Chrome for Zoom Classes Optimization](/chrome-tips/chrome-for-zoom-classes-optimization)
+- [Chrome Restricted Mode Youtube How To Enable](/chrome-tips/chrome-restricted-mode-youtube-how-to-enable)

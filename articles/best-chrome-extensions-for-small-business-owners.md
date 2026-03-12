@@ -96,6 +96,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome vs Edge Speed Test 2026](/chrome-vs-edge-speed-test-2026)
-* [Chrome Mouse Cursor Extension Customize](/chrome-mouse-cursor-extension-customize)
-* [Chrome Extensions for WhatsApp Web](/chrome-extensions-for-whatsapp-web)
+- [Chrome Extensions for Email Tracking Read Receipts](/chrome-tips/chrome-extensions-for-email-tracking-read-receipts)
+- [Chrome for YouTube 4K Playback Settings](/chrome-tips/chrome-for-youtube-4k-playback-settings)
+- ['Chrome Responsive Design Mode: How to Use It Effectively'](/chrome-tips/chrome-responsive-design-mode-how-to-use)

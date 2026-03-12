@@ -99,6 +99,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Memory Saver Explained: How to Reduce Browser RAM Usage](/chrome-memory-saver-explained)
-* [How to Fix Chrome Search Bar Not Working](/chrome-search-bar-not-working-fix)
-* [Chrome Saved Addresses How to Edit](/chrome-saved-addresses-how-to-edit)
+- [Chrome Extensions for Canva Companion](/chrome-tips/chrome-extensions-for-canva-companion)
+- ['Chrome for Travel Planning: Best Extensions'](/chrome-tips/chrome-for-travel-planning-best-extensions)
+- [Chrome Recorder Panel How To Record User Flows](/chrome-tips/chrome-recorder-panel-how-to-record-user-flows)

@@ -92,4 +92,11 @@ Whether you are managing a complex research project, juggling multiple work stre
 
 Start using the chrome tab search shortcut today, and you will wonder how you ever managed without it.
 
+
+
+### Related Articles
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [Chrome Duplicate Tab Shortcut Trick](/chrome-duplicate-tab-shortcut-trick)
+- [Chrome Find Tab By Name Search](/chrome-find-tab-by-name-search)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

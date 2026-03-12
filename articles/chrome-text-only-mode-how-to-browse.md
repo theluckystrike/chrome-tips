@@ -80,4 +80,11 @@ Learning chrome text only mode how to browse is about finding what works best fo
 
 Try different methods to see which fits your lifestyle. Whether you want to save data, speed up your browser, or simply enjoy a cleaner reading experience, there is a solution that can help. Text only browsing might just change how you use the web.
 
+
+
+### Related Articles
+- [Chrome Https Only Mode How To Enable](/chrome-https-only-mode-how-to-enable)
+- [Chrome Offline Mode How To Browse Without Internet](/chrome-offline-mode-how-to-browse-without-internet)
+- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

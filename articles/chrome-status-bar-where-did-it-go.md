@@ -62,4 +62,11 @@ You can also try restarting your computer. While this might seem like an extreme
 
 Finally, make sure your Chrome is up to date. Click the three dots, go to Help, and click "About Google Chrome." Chrome will check for updates and install them if any are available. An outdated version of Chrome might have bugs or display issues that have been fixed in newer versions.
 
+
+
+### Related Articles
+- [Chrome Cleanup Tool Where Did It Go](/chrome-cleanup-tool-where-did-it-go)
+- [Chrome Default Folder Location Where Is It](/chrome-default-folder-location-where-is-it)
+- [Chrome Profile Data Where It Is Stored](/chrome-profile-data-where-it-is-stored)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

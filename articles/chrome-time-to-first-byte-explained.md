@@ -82,4 +82,11 @@ When websites are slow, it helps to know whether the problem is on your end or t
 ---
 
 >>>>>>> qa/loop-5
+
+
+### Related Articles
+- [Chrome Takes Long Time To Open First Time](/chrome-takes-long-time-to-open-first-time)
+- [Chrome Clean Install What To Backup First](/chrome-clean-install-what-to-backup-first)
+- [Chrome Interaction To Next Paint Explained](/chrome-interaction-to-next-paint-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

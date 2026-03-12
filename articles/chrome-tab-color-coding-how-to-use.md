@@ -61,3 +61,9 @@ This kind of organization becomes even more valuable as you accumulate more tabs
 Give it a try. Spend a few minutes setting up tab groups with colors that make sense to you. You might be surprised at how much easier it is to get things done when your browser is organized the way you want it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Devtools Color Picker How To Use](/chrome-devtools-color-picker-how-to-use)
+- [Chrome Network Tab How To Use Debug](/chrome-network-tab-how-to-use-debug)
+- [Chrome Tab Groups On Phone How To Use](/chrome-tab-groups-on-phone-how-to-use)

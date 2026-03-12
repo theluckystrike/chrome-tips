@@ -84,3 +84,9 @@ A slow Chrome startup is frustrating, but it is usually caused by a handful of r
 Every computer is different, so you might need to try a combination of these fixes before finding what works best for you. The good news is that Chrome is highly customizable, and with a little attention, you can make it start as fast as you need it to.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Best Chrome Settings For Slow Computer](/best-chrome-settings-for-slow-computer)
+- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
+- [Chrome Accessibility On Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)

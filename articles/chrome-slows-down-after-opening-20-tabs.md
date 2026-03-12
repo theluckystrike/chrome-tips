@@ -90,4 +90,11 @@ You do not need to be technically inclined to make these changes. Everything can
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*
+*
+
+### Related Articles
+- [Chrome Slows Down After Sleep Mode Fix](/chrome-slows-down-after-sleep-mode-fix)
+- [Chrome Background Tabs Slowing Down Computer Fix](/chrome-background-tabs-slowing-down-computer-fix)
+- [Chrome Keeps Opening New Tabs By Itself Virus](/chrome-keeps-opening-new-tabs-by-itself-virus)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*

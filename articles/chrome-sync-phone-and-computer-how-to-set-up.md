@@ -83,3 +83,9 @@ For those who manage many open tabs, keeping them synchronized across devices ca
 Remember that sync is automatic once enabled, so you do not need to think about it after the initial setup. As long as you are signed into the same Google account on all your devices, Chrome handles everything in the background. This seamless experience is what makes Chrome sync so valuable for anyone who uses multiple devices throughout their day.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Passkeys How To Set Up And Use](/chrome-passkeys-how-to-set-up-and-use)
+- [How To Set Up Chrome Profiles For Work And Personal](/how-to-set-up-chrome-profiles-for-work-and-personal)
+- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)

@@ -54,4 +54,11 @@ Try turning on Memory Saver if you have not already. Consider which tabs you act
 
 The bottom line is that while Chrome does not enforce a hard limit on tab count, your computer will let you know when you have pushed too far. By understanding how tabs use your resources and using the tools available to manage them, you can keep your browser running smoothly no matter how many things you are working on.
 
+
+
+### Related Articles
+- [Chrome Which Tab Is Using Most Cpu How To Find](/chrome-which-tab-is-using-most-cpu-how-to-find)
+- [How To Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
+- [How To Find A Specific Tab In Chrome](/how-to-find-a-specific-tab-in-chrome)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

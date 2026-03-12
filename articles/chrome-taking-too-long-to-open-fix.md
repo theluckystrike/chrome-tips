@@ -70,4 +70,11 @@ Keeping your computer free of malware is also important for browser performance.
 
 Finally, consider resetting Chrome to its default settings if nothing else works. This will remove all extensions, saved data, and customizations, giving you a fresh start. You can find this option in Chrome settings under the advanced section. Just make sure to back up any important data or bookmarks before doing this.
 
+
+
+### Related Articles
+- [Chrome Takes Long Time To Open First Time](/chrome-takes-long-time-to-open-first-time)
+- [Chrome Zoom Too Big How To Fix](/chrome-zoom-too-big-how-to-fix)
+- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

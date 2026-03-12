@@ -129,4 +129,11 @@ If you've exhausted these options and Slack still feels sluggish, the desktop ap
 
 Try these solutions in order, and you should notice a significant improvement in Slack's responsiveness within minutes.
 
+
+
+### Related Articles
+- [Chrome Android App Running Slow Fix](/chrome-android-app-running-slow-fix)
+- [Chrome For Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [Chrome Microsoft Teams Web Slow Fix](/chrome-microsoft-teams-web-slow-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

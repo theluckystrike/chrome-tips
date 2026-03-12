@@ -66,3 +66,9 @@ Enabling smooth scrolling in Chrome is a simple change that can make your daily 
 Give it a try for a few days. You might find that those gentle glides make reading longer articles and navigating busy websites a much more enjoyable experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [How To Enable Chrome Smooth Scrolling](/how-to-enable-chrome-smooth-scrolling)
+- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
+- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)

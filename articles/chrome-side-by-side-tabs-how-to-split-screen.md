@@ -65,3 +65,9 @@ Experiment with the different methods described here to find what works best for
 Split screen is one of those features that seems small but makes a big difference in your daily browsing experience. Give it a try and see how much easier it makes your online tasks.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Split Screen Two Tabs Side By Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
+- [Chrome Full Screen Mode How To Exit Stuck](/chrome-full-screen-mode-how-to-exit-stuck)

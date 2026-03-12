@@ -74,3 +74,9 @@ You could also try creating a new user profile in Chrome. Sometimes a corrupted 
 As a last resort, you might want to check if there are any background processes or malware on your computer that could be affecting performance. Sometimes other programs running in the background can compete with Chrome for resources, especially after your computer wakes from hibernation.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Slow After Update Fix](/chrome-slow-after-update-fix)
+- [Chrome Slow After Windows Update Fix](/chrome-slow-after-windows-update-fix)
+- [Chrome Android App Running Slow Fix](/chrome-android-app-running-slow-fix)

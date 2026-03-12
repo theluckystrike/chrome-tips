@@ -74,3 +74,9 @@ Remember that your browsing experience should work for you, not against you. Whi
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Css Custom Properties Explained](/chrome-css-custom-properties-explained)
+- [Chrome Font Palette Css Explained](/chrome-font-palette-css-explained)
+- [Chrome Layer Css Cascade Layers Explained](/chrome-layer-css-cascade-layers-explained)

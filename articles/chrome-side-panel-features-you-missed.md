@@ -69,3 +69,9 @@ You might find that the simple addition of quick access to bookmarks and your re
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Side Panel Features Guide](/chrome-side-panel-features-guide)
+- [Chrome Accessibility Features You Didnt Know About](/chrome-accessibility-features-you-didnt-know-about)
+- [Chrome Extension Side Panel Tutorial](/chrome-extension-side-panel-tutorial)

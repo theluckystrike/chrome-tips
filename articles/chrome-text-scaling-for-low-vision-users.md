@@ -77,3 +77,9 @@ Making the web more readable is not just about convenience. It is about ensuring
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Best Chrome Extensions For Reddit Users](/best-chrome-extensions-for-reddit-users)
+- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
+- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)

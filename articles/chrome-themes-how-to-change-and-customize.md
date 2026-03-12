@@ -80,4 +80,11 @@ Take your time browsing through the options. The Chrome Web Store has many free 
 
 ---
 
+
+
+### Related Articles
+- [Chrome Process Per Tab Why And How To Change](/chrome-process-per-tab-why-and-how-to-change)
+- [Chrome Beta Channel How To Join And Leave](/chrome-beta-channel-how-to-join-and-leave)
+- [Chrome Custom Fonts How To Change](/chrome-custom-fonts-how-to-change)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

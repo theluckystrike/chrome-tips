@@ -76,4 +76,11 @@ Understanding memory usage also helps you troubleshoot when your computer seems 
 
 By learning how to check chrome tab memory usage and taking steps to manage it effectively, you are setting yourself up for a smoother, more efficient browsing experience. Your computer will run better, your browser will respond faster, and you will have more control over your digital workspace.
 
+
+
+### Related Articles
+- [How To Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
+- [How To Limit Chrome Memory Usage Mac](/how-to-limit-chrome-memory-usage-mac)
+- [How To Limit Chrome Memory Usage Windows](/how-to-limit-chrome-memory-usage-windows)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

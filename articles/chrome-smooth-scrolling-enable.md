@@ -78,4 +78,11 @@ Enabling chrome smooth scrolling is a simple change that can make a significant 
 
 Give smooth scrolling a try and see how it works for you. Once you experience the difference, you may wonder how you ever browsed without it.
 
+
+
+### Related Articles
+- [Chrome Smooth Scrolling How To Enable](/chrome-smooth-scrolling-how-to-enable)
+- [How To Enable Chrome Smooth Scrolling](/how-to-enable-chrome-smooth-scrolling)
+- [Best Chrome Android Flags To Enable](/best-chrome-android-flags-to-enable)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

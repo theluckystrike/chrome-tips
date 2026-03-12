@@ -67,3 +67,9 @@ By keeping Chrome updated, understanding the protections that are already in pla
 Your browser is your gateway to the internet, and taking a few simple steps to protect it goes a long way toward keeping your personal information safe.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Apple Notes In Browser Workaround](/chrome-for-apple-notes-in-browser-workaround)
+- [Chrome For Codecademy In Browser Optimization](/chrome-for-codecademy-in-browser-optimization)
+- [Chrome For Codepen In Browser Tips](/chrome-for-codepen-in-browser-tips)

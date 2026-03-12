@@ -96,4 +96,11 @@ Consider trying browsers designed for low-resource computers. They offer similar
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*
+
+### Related Articles
+- [Chrome Tabs Taking Forever To Load](/chrome-tabs-taking-forever-to-load)
+- [How To Speed Up Chrome In 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
+- [Chrome New Tab Page Slow To Load](/chrome-new-tab-page-slow-to-load)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

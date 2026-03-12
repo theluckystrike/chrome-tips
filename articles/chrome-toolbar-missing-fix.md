@@ -66,4 +66,11 @@ If you find yourself frequently dealing with browser issues or want to improve y
 
 ---
 
+
+
+### Related Articles
+- [Chrome Dock Icon Missing Fix Mac](/chrome-dock-icon-missing-fix-mac)
+- [Chrome Taskbar Icon Missing Fix Windows](/chrome-taskbar-icon-missing-fix-windows)
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome for Gesture Navigation Desktop"
-description: "Learn how to set up and use gesture navigation in Chrome on your desktop computer for a smoother browsing experience."
+title: Chrome for Gesture Navigation Desktop
+description: Learn how to set up and use gesture navigation in Chrome on your desktop
+  computer for a smoother browsing experience. Discover more tips and tricks to optimi...
 date: 2026-01-20
-categories: [desktop, navigation, tips]
-tags: [chrome-desktop, gestures, navigation, mouse-gestures]
+categories:
+- desktop
+- navigation
+- tips
+tags:
+- chrome-desktop
+- gestures
+- navigation
+- mouse-gestures
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-gesture-navigation-desktop
 ---
-
 # Chrome for Gesture Navigation Desktop
 
 If you are searching for chrome for gesture navigation desktop, you might be wondering whether you can bring the smooth swipe-based navigation you enjoy on your phone over to your laptop or desktop computer. The good news is that Chrome offers several ways to navigate using gestures on desktop, and there are also extensions that can give you even more control. This guide will walk you through everything you need to know about setting up gesture navigation in Chrome on your desktop machine.

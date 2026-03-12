@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome for Hiding Social Media Feeds"
-description: "Learn how to hide social media feeds in Chrome using extensions and built-in features to reduce distractions and focus on what matters."
+title: Chrome for Hiding Social Media Feeds
+description: Learn how to hide social media feeds in Chrome using extensions and built-in
+  features to reduce distractions and focus on what matters. Discover more tips an...
 date: 2026-03-10
-categories: [productivity, tips]
-tags: [chrome-extensions, social-media, focus, distraction-blocking]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- social-media
+- focus
+- distraction-blocking
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-hiding-social-media-feeds
 ---
-
 # Chrome for Hiding Social Media Feeds
 
 If you are searching for chrome for hiding social media feeds, you probably know how easy it is to lose hours scrolling through Facebook, Instagram, Twitter, or TikTok. Those endless streams of content are designed to keep you engaged, but they can also derail your productivity and mental clarity. The good news is that Chrome offers several ways to take control of your browsing experience and minimize these distractions.

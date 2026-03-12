@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "Chrome for Phantom Wallet Extension"
-description: "Learn how to set up and use Phantom Wallet in Chrome with this simple extension guide for secure crypto management."
+title: Chrome for Phantom Wallet Extension
+description: Learn how to set up and use Phantom Wallet in Chrome with this simple
+  extension guide for secure crypto management. Discover more tips and tricks to optimize...
 date: 2026-01-15
-categories: [extensions, cryptocurrency, wallets]
-tags: [chrome-extensions, phantom-wallet, crypto, blockchain, wallet]
+categories:
+- extensions
+- cryptocurrency
+- wallets
+tags:
+- chrome-extensions
+- phantom-wallet
+- crypto
+- blockchain
+- wallet
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-phantom-wallet-extension
 ---
-
 # Chrome for Phantom Wallet Extension
 
 Using chrome for phantom wallet extension is one of the most common ways to manage your cryptocurrency directly from your browser. Phantom Wallet is a popular digital wallet that lets you store, send, and receive Solana-based tokens and NFTs, and running it as a Chrome extension gives you quick access whenever you need to check your balance or approve a transaction.

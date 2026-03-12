@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "Chrome for Managing Site Notifications"
-description: "Learn how to manage site notifications in Chrome to reduce distractions and improve your browsing experience."
+title: Chrome for Managing Site Notifications
+description: Learn how to manage site notifications in Chrome to reduce distractions
+  and improve your browsing experience. Discover more tips and tricks to optimize
+  your ...
 date: 2026-01-15
-categories: [chrome, notifications, browser]
-tags: [chrome, notifications, site-notifications, browser-tips]
+categories:
+- chrome
+- notifications
+- browser
+tags:
+- chrome
+- notifications
+- site-notifications
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-managing-site-notifications
 ---
-
 # Chrome for Managing Site Notifications
 
 Chrome for managing site notifications can feel like a constant battle. Websites ask for permission to send you notifications, and before you know it, your browser is flooded with popups, badges, and interruptions. Understanding how to take control of these notifications will make your browsing experience much calmer and more productive.

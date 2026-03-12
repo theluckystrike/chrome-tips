@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for DeFi Dashboard Extensions
-description: Discover Chrome extensions for DeFi dashboards to manage your decentralized finance portfolio directly in your browser. Find out more tips on how to optimize...
+description: Discover Chrome extensions for DeFi dashboards to manage your decentralized
+  finance portfolio directly in your browser. Find out more tips on how to optimize...
 date: 2026-03-10
 categories:
 - defi
@@ -62,7 +63,7 @@ Regularly review which extensions have access to your wallet addresses and revok
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extension Permissions Best Practices](/articles/chrome-extension-permissions-best-practices/)
+* [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer/)
+* [Chrome Tabs Keep Reloading When I Switch Back](/articles/chrome-tabs-keep-reloading-when-i-switch-back/)
 
-- [Chrome Tab Groups vs Bookmarks](/articles/chrome-tab-groups-vs-bookmarks)
-- [How to Pin a Website in Chrome Taskbar](/articles/how-to-pin-a-website-in-chrome-taskbar)
-- [Chrome for Cryptocurrency Tracking Extensions](/articles/chrome-for-cryptocurrency-tracking-extensions)

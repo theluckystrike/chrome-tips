@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Descript Web App Optimization
-description: Discover how to optimize Chrome for Descript web app. Practical tips to reduce lag and improve performance when editing videos and podcasts in your browser.
+description: Discover how to optimize Chrome for Descript web app. Practical tips
+  to reduce lag and improve performance when editing videos and podcasts in your browser.
 date: 2026-01-15
 categories:
 - performance
@@ -82,7 +83,7 @@ By implementing these practices, you can create a more efficient Chrome setup th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Status Code 403 Forbidden Explained](/articles/chrome-status-code-403-forbidden-explained/)
+* [chrome price drop alerts how to enable](/articles/chrome-price-drop-alerts-how-to-enable/)
+* [Chrome Best Settings for Online Meetings](/articles/chrome-best-settings-for-online-meetings/)
 
-- [Chrome Array Groupby New Method](/articles/chrome-array-groupby-new-method)
-- [Chrome vs Vivaldi: Which Is More Customizable](/articles/chrome-vs-vivaldi-which-is-more-customizable)
-- [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location)

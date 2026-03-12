@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Google Calendar Quick Add from Browser"
-description: "Learn how to quickly add events to Google Calendar directly from Chrome without switching tabs. Simple methods to save time. Check out our expert recommendatio"
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-google-calendar-quick-add-from-browser"
-categories: [productivity, calendar, tips]
-tags: [chrome, google-calendar, quick-add, browser-tips]
-author: "theluckystrike"
+layout: post
+title: Chrome Google Calendar Quick Add from Browser
+description: Learn how to quickly add events to Google Calendar directly from Chrome
+  without switching tabs. Simple methods to save time. Check out our expert recommendatio
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-google-calendar-quick-add-from-browser
+categories:
+- productivity
+- calendar
+- tips
+tags:
+- chrome
+- google-calendar
+- quick-add
+- browser-tips
+author: theluckystrike
 ---
 # Chrome Google Calendar Quick Add from Browser
 
@@ -60,7 +68,7 @@ For recurring events, you can type "every Monday" or "weekly" and Calendar will 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Trust Tokens Explained](/articles/chrome-trust-tokens-guide/)
+* [Chrome DNS Settings How to Change for Privacy](/articles/chrome-dns-settings-how-to-change-for-privacy/)
+* [Chrome Built-In PDF Editor Guide](/articles/chrome-pdf-editor-built-in/)
 
-- [Chrome Preloading Pages Should I Enable It](/articles/chrome-preloading-pages-should-i-enable-it)
-- [Chrome Extensions for Grammar Check Free Alternative](/articles/chrome-extensions-for-grammar-check-free-alternative)
-- [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out)

@@ -82,7 +82,7 @@ Consider limiting the number of open tabs. Each tab consumes memory, and having 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/articles/chrome-whatsapp-web-not-connecting-fix/)
+* [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/articles/chrome-grammarly-extension-slowing-browser/)
+* [Chrome Browser Games Performance Tips](/articles/chrome-browser-games-performance-tips/)
 
-- [Chrome PDF Not Opening Fix](/articles/chrome-pdf-not-opening-fix)
-- [Chrome Live Captions Feature Guide](/articles/chrome-live-captions-feature)
-- [Chrome for Focus Music Playlists Extensions](/articles/chrome-for-focus-music-playlists-extensions)

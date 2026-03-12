@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Push Notifications API Explained
-description: Learn what the Chrome Push Notifications API is, how websites use it, and how to manage notifications in your browser. Learn effective tips and tricks to opt...
+description: Learn what the Chrome Push Notifications API is, how websites use it,
+  and how to manage notifications in your browser. Learn effective tips and tricks
+  to opt...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-push-notifications-api-explained
@@ -14,8 +16,6 @@ tags:
 - browser-api
 - web-notifications
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-push-notifications-api-explained
 ---
 # Chrome Push Notifications API Explained
 
@@ -84,10 +84,9 @@ If you find that Chrome is running slowly and you have many notification permiss
 ---
 
 ## Related Articles
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Background Sync API Explained](/chrome-background-sync-api-explained)
-- [Chrome Screen Wake Lock API Explained](/chrome-screen-wake-lock-api-explained)
-
+* [Chrome Multiple Profiles How to Switch Fast](/articles/chrome-multiple-profiles-how-to-switch-fast/)
+* [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization/)
+* [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

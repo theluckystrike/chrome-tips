@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome Cast Tab to TV Not Working Fix"
-description: "Chrome cast tab to TV not working can be frustrating. Learn why it happens and follow simple steps to get your casting working again. Check out our expert guide"
-date: "2025-03-09"
-last_modified_at: '2026-03-12'
-permalink: "chrome-cast-tab-to-tv-not-working-fix"
-categories: [troubleshooting, tips]
-tags: [chrome-cast, cast-tab-to-tv, chrome-not-working, casting-fix, tv-streaming]
-author: "theluckystrike"
+layout: post
+title: Chrome Cast Tab to TV Not Working Fix
+description: Chrome cast tab to TV not working can be frustrating. Learn why it happens
+  and follow simple steps to get your casting working again. Check out our expert
+  guide
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-cast-tab-to-tv-not-working-fix
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-cast
+- cast-tab-to-tv
+- chrome-not-working
+- casting-fix
+- tv-streaming
+author: theluckystrike
 ---
 # Chrome Cast Tab to TV Not Working Fix
 
@@ -86,7 +95,7 @@ Casting from Chrome to your TV is incredibly useful when it works, and most of t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Media Autoplay How to Block](/articles/chrome-media-autoplay-how-to-block/)
+* [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions/)
+* [chromebook linux apps how to install](/articles/chromebook-linux-apps-how-to-install/)
 
-- [How to Take Screenshot in Chrome Without Extension](/articles/how-to-take-screenshot-in-chrome-without-extension)
-- [Chrome Extension for Video Speed Controller](/articles/chrome-extension-for-video-speed-controller)
-- [Chrome Location Access on Phone How to Control](/articles/chrome-location-access-on-phone-how-to-control)

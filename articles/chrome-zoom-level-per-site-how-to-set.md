@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "Chrome Zoom Level Per Site How to Set"
-description: "Learn how to set custom zoom levels for specific websites in Chrome so each site opens at your preferred magnification automatically. Read our comprehensive ..."
-date: "2026-01-01"
-last_modified_at: "2026-03-09"
-permalink: "chrome-zoom-level-per-site-how-to-set"
+layout: post
+title: Chrome Zoom Level Per Site How to Set
+description: Learn how to set custom zoom levels for specific websites in Chrome so
+  each site opens at your preferred magnification automatically. Read our comprehensive
+  ...
+date: '2026-01-01'
+last_modified_at: '2026-03-09'
+permalink: chrome-zoom-level-per-site-how-to-set
 ---
 Chrome zoom level per site how to set is a common question from people who want different websites to open at different magnification levels. Maybe you like your email at 100% but need your favorite news site zoomed in to 125% for easier reading. Or perhaps you work with data-heavy dashboards that are easier to read at 150%. The good news is that Chrome can remember your zoom preference for each individual website, and setting this up is simpler than you might think. Let me explain how it works and walk you through the steps.
 
@@ -61,7 +63,7 @@ The default zoom is useful if you generally prefer browsing at a higher or lower
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Ai Theme Generator How To Use](/articles/chrome-ai-theme-generator-how-to-use/)
+* [Chrome Notifications on Phone Too Many How to Stop](/articles/chrome-notifications-on-phone-too-many-how-to-stop/)
+* [Chrome Extensions for Translation Real Time](/articles/chrome-extensions-for-translation-real-time/)
 
-- [Chrome Tab Discard What It Means](/articles/chrome-tab-discard-what-it-means)
-- [chrome for github best extensions](/articles/chrome-for-github-best-extensions)
-- [Chrome Web Share API Explained](/articles/chrome-web-share-api-explained)

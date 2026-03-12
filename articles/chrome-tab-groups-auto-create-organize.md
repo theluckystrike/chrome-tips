@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Auto Create and Organize Chrome Tab Groups
-description: Learn how to automatically create and organize Chrome tab groups to keep your browser tidy. Step-by-step guide with built-in features and extensions. Read our c
+description: Learn how to automatically create and organize Chrome tab groups to keep
+  your browser tidy. Step-by-step guide with built-in features and extensions. Read
+  our c
 date: 2025-03-13
 categories:
 - productivity
@@ -136,10 +138,9 @@ The key is finding a system that works for your specific workflow and sticking w
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Multiple Users Same Computer Setup](/articles/chrome-multiple-users-same-computer-setup/)
+* [Chrome VPN Extension Free Unlimited Best](/articles/chrome-vpn-extension-free-unlimited-best/)
+* [Chrome Extensions For Code Snippet Manager](/articles//articles/chrome-extensions-for-code-snippet-manager//)
 
-## Related Articles
-
-- [Chrome Scope CSS Explained](/articles/chrome-scope-css-explained)
-- [chrome for distraction blocking extensions](/articles/chrome-for-distraction-blocking-extensions)
-- [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for site search from address bar
-description: 'Learn how to search any website directly from Chrome''s address bar. This guide shows simple steps to enable site search and speed up your browsing. Discover '
+description: 'Learn how to search any website directly from Chrome''s address bar.
+  This guide shows simple steps to enable site search and speed up your browsing.
+  Discover '
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-site-search-from-address-bar
@@ -79,7 +81,7 @@ Give it a try with a site you visit often. Set up the bookmark or keyword, run a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Tab Search Feature How to Use](/articles/chrome-tab-search-feature-how-to-use/)
+* [Chrome Speech Recognition API Explained](/articles/chrome-speech-recognition-api-explained/)
+* [Is 4GB RAM Enough for Chrome in 2026?](/articles/is-4gb-ram-enough-for-chrome-in-2026/)
 
-- [Chrome AI Tab Organization Feature](/articles/chrome-ai-tab-organization-feature)
-- [Chrome Download Manager Best Extension](/articles/chrome-download-manager-best-extension)
-- [Chrome OS vs Windows for Basic Use](/articles/chrome-os-vs-windows-for-basic-use)

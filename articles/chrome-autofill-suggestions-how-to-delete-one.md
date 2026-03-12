@@ -83,7 +83,7 @@ Regularly reviewing and cleaning up your autofill data helps ensure that Chrome 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Reset Chrome to Default Settings](/articles/how-to-reset-chrome-to-default-settings/)
+* [Chrome Address Bar Not Showing Full URL Fix](/articles/chrome-address-bar-not-showing-full-url-fix/)
+* [How to Remove Unwanted Toolbars in Chrome: Complete Guide](/articles/chrome-unwanted-toolbar-remove-guide/)
 
-- [Chrome Passkeys Setup Guide 2026](/articles/chrome-passkeys-setup-guide-2026)
-- [Chrome Extensions for Meeting Notes](/articles/chrome-extensions-for-meeting-notes)
-- [Chrome Lazy Loading Images Native: How It Works and Why You Should Use It](/articles/chrome-lazy-loading-images-native)

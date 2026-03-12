@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Reading List Manager"
-description: "Learn how Chrome extensions for reading list manager can help you organize saved articles and reduce tab clutter. Check out our expert recommendations and..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-reading-list-manager"
-layout: "post"
-categories: "[reading, tips]"
-tags: "[chrome-extensions, reading, browser-tools]"
-author: "theluckystrike"
+title: Chrome Extensions for Reading List Manager
+description: Learn how Chrome extensions for reading list manager can help you organize
+  saved articles and reduce tab clutter. Check out our expert recommendations and...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-reading-list-manager
+layout: post
+categories: '[reading, tips]'
+tags: '[chrome-extensions, reading, browser-tools]'
+author: theluckystrike
 ---
 # Chrome Extensions for Reading List Manager
 
@@ -76,7 +77,7 @@ If you also want to reduce the number of open tabs in your browser, consider try
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome vs Vivaldi Customization Comparison: Which Browser Gives You More Control?](/articles/chrome-vs-vivaldi-customization-comparison/)
+* [Chrome Net Internals How to Use](/articles/chrome-net-internals-how-to-use/)
+* [Chrome Extensions for AI Writing Assistant](/articles/chrome-extensions-for-ai-writing-assistant/)
 
-- [Chrome Flexbox Inspector How to Use](/articles/chrome-flexbox-inspector-how-to-use)
-- [Google Chrome vs Chromium Difference Explained](/articles/google-chrome-vs-chromium-difference-explained)
-- [Chrome Google Search Not Working Fix](/articles/chrome-google-search-not-working-fix)

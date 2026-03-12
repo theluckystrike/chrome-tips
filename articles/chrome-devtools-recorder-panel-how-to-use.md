@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Devtools Recorder Panel How To Use"
-description: "Learn how to use Chrome DevTools Recorder panel to record, replay, and export user flows for testing and automation. Explore our comprehensive guide to mast..."
+title: Chrome Devtools Recorder Panel How To Use
+description: Learn how to use Chrome DevTools Recorder panel to record, replay, and
+  export user flows for testing and automation. Explore our comprehensive guide to
+  mast...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-recorder-panel-how-to-use
@@ -79,7 +81,7 @@ Finally, test your recordings a few times to make sure they work consistently. W
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Zoom Level Per Site How to Set](/articles/chrome-zoom-level-per-site-how-to-set/)
+* [Chrome vs Samsung Internet on Android](/articles/chrome-vs-samsung-internet-on-android/)
+* [Chrome Periodic Background Sync Explained](/articles/chrome-periodic-background-sync-explained/)
 
-- [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management)
-- [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix)
-- [Chrome Layer Cascade CSS: A Complete Guide to Modern Style Management](/articles/chrome-layer-cascade-css)

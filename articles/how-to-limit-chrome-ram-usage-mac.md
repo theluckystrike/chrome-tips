@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers"
-description: "Is Chrome eating all your Mac's memory? Learn practical ways to reduce Chrome's RAM usage on Mac, from built-in settings to helpful extensions. Read our comp..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "how-to-limit-chrome-ram-usage-mac"
-categories: "[performance, chrome, mac]"
-tags: "[chrome-ram, mac-performance, chrome-optimization, memory-management]"
-author: "theluckystrike"
+layout: post
+title: 'How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers'
+description: Is Chrome eating all your Mac's memory? Learn practical ways to reduce
+  Chrome's RAM usage on Mac, from built-in settings to helpful extensions. Read our
+  comp...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: how-to-limit-chrome-ram-usage-mac
+categories: '[performance, chrome, mac]'
+tags: '[chrome-ram, mac-performance, chrome-optimization, memory-management]'
+author: theluckystrike
 ---
 # How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers
 
@@ -113,10 +115,9 @@ Remember: the goal isn't to stop using Chrome—it's to use it smarter. With the
 ---
 
 ## Related Articles
-- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
-- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
-- [How to Limit Chrome Memory Usage Mac](/how-to-limit-chrome-memory-usage-mac)
-
+* [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-explained/)
+* [Chrome Extensions for Hotel Deal Finder](/articles/chrome-extensions-for-hotel-deal-finder/)
+* [chrome shared storage api privacy ads](/articles/chrome-shared-storage-api-privacy-ads/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

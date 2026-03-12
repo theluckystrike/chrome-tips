@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Password Checkup Tool Guide
-description: Learn how to use Chrome's built-in Password Checkup tool to find compromised passwords, weak passwords, and detect password reuse across your accounts.
+description: Learn how to use Chrome's built-in Password Checkup tool to find compromised
+  passwords, weak passwords, and detect password reuse across your accounts.
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-password-checkup-tool
@@ -15,8 +16,6 @@ tags:
 - compromised-passwords
 - weak-passwords
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-password-checkup-tool
 ---
 # Chrome Password Checkup Tool Guide
 
@@ -167,10 +166,9 @@ If you're not seeing the auto-change option for a particular password, the websi
 ---
 
 ## Related Articles
-- [Chrome Password Checkup What It Does](/chrome-password-checkup-what-it-does)
-- [Chrome Privacy Checkup How To Do](/chrome-privacy-checkup-how-to-do)
-- [Chrome for Password Security Best Practices](/chrome-for-password-security-best-practices)
-
+* [Chrome Session Restore Not Working Fix](/articles/chrome-session-restore-not-working-fix/)
+* [Chrome Extensions for Spotify](/articles/chrome-extensions-for-spotify/)
+* [Chrome Extensions For Bulk Image Downloading](/articles//articles/chrome-extensions-for-bulk-image-downloading//)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "How to Reduce Chrome Memory Usage"
-description: "Is Chrome using too much memory? This guide shows you practical ways to reduce Chrome memory usage and make your browser run smoother. Read our comprehensive..."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "how-to-reduce-chrome-memory-usage"
-categories: "[performance, memory]"
-tags: "[chrome-memory, reduce-ram, browser-performance]"
-author: "theluckystrike"
+layout: post
+title: How to Reduce Chrome Memory Usage
+description: Is Chrome using too much memory? This guide shows you practical ways
+  to reduce Chrome memory usage and make your browser run smoother. Read our comprehensive...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: how-to-reduce-chrome-memory-usage
+categories: '[performance, memory]'
+tags: '[chrome-memory, reduce-ram, browser-performance]'
+author: theluckystrike
 ---
 # How to Reduce Chrome Memory Usage
 
@@ -70,7 +71,7 @@ By implementing these strategies, you can reduce Chrome memory usage and enjoy a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension/)
+* [Chrome Devtools Screenshot Full Page](/articles/chrome-devtools-screenshot-full-page/)
+* [Chrome Inspect Element for Beginners](/articles/chrome-inspect-element-for-beginners/)
 
-- [Chrome for Snapchat Web Tips](/articles/chrome-for-snapchat-web-tips)
-- [chrome for audible web player tips](/articles/chrome-for-audible-web-player-tips)
-- [Chrome Extensions for Text Expander](/articles/chrome-extensions-for-text-expander)

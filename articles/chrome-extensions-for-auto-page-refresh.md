@@ -1,13 +1,15 @@
 ---
-title: "chrome extensions for auto page refresh"
-description: "Find the best chrome extensions for auto page refresh to keep your content up to date without manually refreshing your browser. Discover how these tools can ..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-auto-page-refresh"
-layout: "post"
-categories: "[extensions, productivity]"
-tags: "[auto-refresh, chrome-extension, productivity, browser]"
-author: "theluckystrike"
+title: chrome extensions for auto page refresh
+description: Find the best chrome extensions for auto page refresh to keep your content
+  up to date without manually refreshing your browser. Discover how these tools can
+  ...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-auto-page-refresh
+layout: post
+categories: '[extensions, productivity]'
+tags: '[auto-refresh, chrome-extension, productivity, browser]'
+author: theluckystrike
 ---
 # Chrome Extensions for Auto Page Refresh
 
@@ -84,10 +86,9 @@ Finally, remember to stop the auto refresh when you no longer need it. Leaving e
 ---
 
 ## Related Articles
-- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)
-- [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
-- [Chrome Extensions for Cookie Auto Delete](/chrome-extensions-for-cookie-auto-delete)
-
+* [Chrome Element Internals and Custom Elements: A Complete Guide](/articles/chrome-element-internals-custom-elements/)
+* [Chrome DNS Probe Finished Nxdomain Fix](/articles/chrome-dns-probe-finished-nxdomain-fix/)
+* [Chrome WebGL Not Working Fix](/articles/chrome-webgl-not-working-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

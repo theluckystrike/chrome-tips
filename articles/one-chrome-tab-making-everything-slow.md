@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "One Chrome Tab Making Everything Slow: What to Do About It"
-description: "Is one Chrome tab making everything slow? Learn practical solutions to free up RAM and get your computer running smoothly again. Read our comprehensive guide..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "one-chrome-tab-making-everything-slow"
-categories: "[performance, chrome, troubleshooting]"
-tags: "[chrome-slow, one-tab-slow, ram-issues, chrome-performance, browser-troubleshooting]"
-author: "theluckystrike"
+layout: post
+title: 'One Chrome Tab Making Everything Slow: What to Do About It'
+description: Is one Chrome tab making everything slow? Learn practical solutions to
+  free up RAM and get your computer running smoothly again. Read our comprehensive
+  guide...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: one-chrome-tab-making-everything-slow
+categories: '[performance, chrome, troubleshooting]'
+tags: '[chrome-slow, one-tab-slow, ram-issues, chrome-performance, browser-troubleshooting]'
+author: theluckystrike
 ---
 # One Chrome Tab Making Everything Slow: What to Do About It
 
@@ -83,10 +85,9 @@ When one Chrome tab makes everything slow, it's usually because that tab is usin
 The key is to be proactive rather than reactive. Check which tabs are using the most memory regularly, and develop habits that prevent memory overload before it happens. Your computer (and your sanity) will thank you.
 
 ## Related Articles
-- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)
-- [Chrome Developer Tools Making Page Slow: What You Need to Know](/chrome-developer-tools-making-page-slow)
-- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
-
+* [Chrome Google Sheets Keyboard Shortcuts](/articles/chrome-google-sheets-keyboard-shortcuts/)
+* [Chrome Extension Publish to Web Store Guide](/articles/chrome-extension-publish-to-web-store-guide/)
+* [Chrome Screen Sharing in Browser How To](/articles/chrome-screen-sharing-in-browser-how-to/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

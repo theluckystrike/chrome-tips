@@ -69,7 +69,7 @@ Remember that keeping your browser organized and closing unused tabs makes a big
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome vs Samsung Internet for Android](/articles/chrome-vs-samsung-internet-for-android/)
+* [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners/)
+* [Chrome View Transitions API Explained](/articles/chrome-view-transitions-api-explained/)
 
-- [Chrome Storage Pressure How to Fix](/articles/chrome-storage-pressure-how-to-fix)
-- [Chrome for Arxiv Paper Reader Extensions](/articles/chrome-for-arxiv-paper-reader-extensions)
-- [Chrome Bookmarks Not Syncing Fix](/articles/chrome-bookmarks-not-syncing-fix)

@@ -80,7 +80,7 @@ Also take time occasionally to clean up old bookmarks. Go through your collectio
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome zoom meeting not working fix](/articles/chrome-zoom-meeting-not-working-fix/)
+* [chrome colorblind mode extensions](/articles/chrome-colorblind-mode-extensions/)
+* [Chrome Interaction to Next Paint Explained: What It Means for You](/articles/chrome-interaction-to-next-paint-explained/)
 
-- [Chrome Sync Across Devices How It Works](/articles/chrome-sync-across-devices-how-it-works)
-- [chrome extensions for ruler measurement](/articles/chrome-extensions-for-ruler-measurement)
-- [Chrome Process Per Tab: How to Disable It to Save Memory](/articles/chrome-process-per-tab-disable-to-save-memory)

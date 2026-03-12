@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "Chrome YouTube Keyboard Shortcuts"
-description: "Master chrome youtube keyboard shortcuts to navigate videos faster. Learn essential shortcuts and how to use them effectively. Read our comprehensive guide t..."
-date: "2026-01-01"
-last_modified_at: "2026-03-09"
-permalink: "chrome-youtube-keyboard-shortcuts"
+layout: post
+title: Chrome YouTube Keyboard Shortcuts
+description: Master chrome youtube keyboard shortcuts to navigate videos faster. Learn
+  essential shortcuts and how to use them effectively. Read our comprehensive guide
+  t...
+date: '2026-01-01'
+last_modified_at: '2026-03-09'
+permalink: chrome-youtube-keyboard-shortcuts
 ---
 If you are looking for chrome youtube keyboard shortcuts, you probably spend a lot of time watching videos on YouTube and wish there was a faster way to control playback, navigate between videos, and manage your watching experience. Using your mouse to click every button can slow you down, especially when you are watching multiple videos in a row or need to pause frequently. The good news is that Chrome and YouTube both offer handy keyboard shortcuts that can transform how you use the platform.
 
@@ -77,7 +79,7 @@ The best part is that you do not need to learn all of them at once. Start with t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome install as app pwa how to](/articles/chrome-install-as-app-pwa-how-to/)
+* [Chrome Best Settings For Slow Internet](/articles/chrome-best-settings-for-slow-internet/)
+* [Chrome Built in Password Checkup How to Use](/articles/chrome-built-in-password-checkup-how-to-use/)
 
-- [Best Chrome Extensions for Small Business Owners](/articles/best-chrome-extensions-for-small-business-owners)
-- [Chrome Extensions for Instapaper](/articles/chrome-extensions-for-instapaper)
-- [Chrome Passkeys Guide 2026](/articles/chrome-passkeys-guide-2026)

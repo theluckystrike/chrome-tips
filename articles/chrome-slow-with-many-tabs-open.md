@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Slow With Many Tabs Open? Here's How to Fix It
-description: Is Chrome slow with many tabs open? This guide explains why it happens and provides practical solutions to speed up your browser. Read our comprehensive guide t
+description: Is Chrome slow with many tabs open? This guide explains why it happens
+  and provides practical solutions to speed up your browser. Read our comprehensive
+  guide t
 date: 2026-01-15
 categories:
 - performance
@@ -92,10 +94,9 @@ Consider whether your computer meets Chrome's recommended requirements. On compu
 You might also want to try lighter browsers for everyday tasks and reserve Chrome for when you need its specific features. Some browsers use less memory but lack some of Chrome's capabilities.
 
 ## Related Articles
-- [How to Use Chrome Task Manager to Find Slow Tabs](/how-to-use-chrome-task-manager-to-find-slow-tabs)
-- [How to Search Open Chrome Tabs](/how-to-search-open-chrome-tabs)
-- [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/i-have-100-tabs-open-chrome-is-dying)
-
+* [Chromebook Storage Full How to Free Space](/articles/chromebook-storage-full-how-to-free-space/)
+* [What Happens When Chrome Extension Is Removed From Store](/articles/what-happens-when-chrome-extension-is-removed-from-store/)
+* [Chrome DevTools Rendering Tab Explained](/articles/chrome-devtools-rendering-tab-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

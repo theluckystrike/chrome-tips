@@ -1,13 +1,23 @@
 ---
-layout: "post"
-title: "Chrome for White Noise While Working"
-description: "Learn how to use Chrome for white noise while working to block distractions and improve focus during your workday. Check out our expert recommendations and tip"
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-white-noise-while-working"
-categories: [productivity, wellness]
-tags: [chrome, white-noise, focus, productivity, concentration, work]
-author: "theluckystrike"
+layout: post
+title: Chrome for White Noise While Working
+description: Learn how to use Chrome for white noise while working to block distractions
+  and improve focus during your workday. Check out our expert recommendations and
+  tip
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-white-noise-while-working
+categories:
+- productivity
+- wellness
+tags:
+- chrome
+- white-noise
+- focus
+- productivity
+- concentration
+- work
+author: theluckystrike
 ---
 # Chrome for White Noise While Working
 
@@ -68,7 +78,7 @@ The key is to experiment and find what works for you. Everyone has different pre
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Website Archiving](/articles/chrome-extensions-for-website-archiving/)
+* [Best Chrome Extensions For Teachers Online](/articles/best-chrome-extensions-for-teachers-online/)
+* [Chrome Extension for Taking Notes While Browsing](/articles/chrome-extension-for-taking-notes-while-browsing/)
 
-- [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup)
-- [Chrome Safe Browsing Protection Levels Explained](/articles/chrome-safe-browsing-protection-levels-explained)
-- [Chrome for Blocking Autoplay Videos](/articles/chrome-for-blocking-autoplay-videos)

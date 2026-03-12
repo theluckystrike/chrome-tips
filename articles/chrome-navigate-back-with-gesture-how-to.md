@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Navigate Back With Gesture How to
-description: Learn how to navigate back in Chrome using gesture controls on desktop and mobile. Easy steps to enable swipe navigation. Learn effective tips and tricks to ...
+description: Learn how to navigate back in Chrome using gesture controls on desktop
+  and mobile. Easy steps to enable swipe navigation. Learn effective tips and tricks
+  to ...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-navigate-back-with-gesture-how-to
@@ -59,7 +61,7 @@ Learning how to navigate back with gesture controls can save you time and make y
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Enable Chrome Smooth Scrolling](/articles/how-to-enable-chrome-smooth-scrolling/)
+* [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/articles/chrome-save-webpage-as-mhtml-offline/)
+* [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users/)
 
-- [Great Suspender Removed From Chrome Store: Replacement Options](/articles/great-suspender-removed-from-chrome-store-replacement)
-- [Chrome Safety Check What It Does](/articles/chrome-safety-check-what-it-does)
-- [Chrome Canary What Is It For](/articles/chrome-canary-what-is-it-for)

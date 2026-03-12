@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Slow on Windows 10 Old Laptop Fix
-description: Is Chrome running slow on your older Windows 10 laptop? Discover practical solutions to speed up your browser and get back to smooth browsing. Read our comprehe
+description: Is Chrome running slow on your older Windows 10 laptop? Discover practical
+  solutions to speed up your browser and get back to smooth browsing. Read our comprehe
 date: 2025-02-17
 categories:
 - performance
@@ -75,7 +76,7 @@ Remember that keeping fewer tabs open makes the biggest difference for most peop
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Bookmarks Bar Show Hide Shortcut](/articles/chrome-bookmarks-bar-show-hide-shortcut/)
+* [Chrome Scroll Not Smooth Fix](/articles/chrome-scroll-not-smooth-fix/)
+* [Chrome iPhone Widgets How to Set Up](/articles/chrome-iphone-widgets-how-to-set-up/)
 
-- [chrome high memory usage after sleep fix](/articles/chrome-high-memory-usage-after-sleep-fix)
-- [chrome web bluetooth connect headphones](/articles/chrome-web-bluetooth-connect-headphones)
-- [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change)

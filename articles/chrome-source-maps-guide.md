@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Source Maps Configuration Guide
-description: 'Master Chrome source maps configuration: learn about inline source maps, external source maps, webpack source maps setup, and how to debug minified JavaScrip...'
+description: 'Master Chrome source maps configuration: learn about inline source maps,
+  external source maps, webpack source maps setup, and how to debug minified JavaScrip...'
 date: 2025-03-12
 categories:
 - features
@@ -124,10 +125,9 @@ Chrome source maps are an indispensable tool for modern web development, providi
 Whether you are working with webpack, debugging minified code, or setting up error tracking for production applications, source maps provide the visibility you need to understand and fix problems quickly. Take the time to configure them correctly in your projects, and you will find that debugging complex web applications becomes far more manageable.
 
 ## Related Articles
-- [Chrome WebAssembly Debugging Guide](/chrome-wasm-debugging-guide)
-- [Chrome Open Source Parts Explained](/chrome-open-source-parts-explained)
-- [Chrome Source Maps Debug Minified Code](/chrome-source-maps-debug-minified-code)
-
+* [Chrome Multiple Profiles How to Switch Quickly](/articles/chrome-multiple-profiles-how-to-switch-quickly/)
+* [chrome extension for measuring things on screen](/articles/chrome-extension-for-measuring-things-on-screen/)
+* [Chrome Mobile Dark Mode Force on All Sites](/articles/chrome-mobile-dark-mode-force-on-all-sites/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

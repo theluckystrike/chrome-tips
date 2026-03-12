@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chromebook Parental Controls How to Set Up"
-description: "Learn how to set up parental controls on Chromebooks. A simple guide to screen time limits, content filtering, and keeping your kids safe online. Read our co..."
-date: "2025-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chromebook-parental-controls-how-to-set-up"
-categories: "[family, safety]"
-tags: "[chromebook, parental-controls, family-safety, kids]"
-author: "theluckystrike"
+layout: post
+title: Chromebook Parental Controls How to Set Up
+description: Learn how to set up parental controls on Chromebooks. A simple guide
+  to screen time limits, content filtering, and keeping your kids safe online. Read
+  our co...
+date: '2025-03-10'
+last_modified_at: '2026-03-10'
+permalink: chromebook-parental-controls-how-to-set-up
+categories: '[family, safety]'
+tags: '[chromebook, parental-controls, family-safety, kids]'
+author: theluckystrike
 ---
 # Chromebook Parental Controls How to Set Up
 
@@ -86,7 +88,7 @@ Some families choose to remove supervision entirely once children reach high sch
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [What Is Chrome Paint Holding and How It Speeds Up Page Load](/articles/chrome-paint-holding-page-load/)
+* [Chrome Contact Picker API Explained](/articles/chrome-contact-picker-api-explained/)
+* [chrome color picker extension best](/articles/chrome-color-picker-extension-best/)
 
-- [Best Chrome Extensions for Project Managers](/articles/best-chrome-extensions-for-project-managers)
-- [How to Find Chrome Extensions That Slow Down Browser](/articles/how-to-find-chrome-extensions-that-slow-down-browser)
-- [chrome shared storage api privacy ads](/articles/chrome-shared-storage-api-privacy-ads)

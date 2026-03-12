@@ -73,7 +73,7 @@ One more tip that helps with browser extensions overall: keeping too many tabs o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Capture Network Logs in Chrome Using Net Export](/articles/chrome-net-export-capture-network-log/)
+* [Chrome Cross Device Tab Sync Not Working Fix](/articles/chrome-cross-device-tab-sync-not-working-fix/)
+* [How to Increase Chrome Cache Size](/articles/chrome-cache-size-how-to-increase/)
 
-- [Chrome Shape Detection API – Barcode, Face & Text Recognition Directly in Your Browser](/articles/chrome-shape-detection-barcode-face-text)
-- [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop)
-- [Chrome Popover API Explained](/articles/chrome-popover-api-explained)

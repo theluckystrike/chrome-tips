@@ -1,13 +1,12 @@
 ---
-title: Chrome Speech Recognition Api
-description: ' Learn how to optimize your browser today for better performance...........................................................................................'
-date: '2026-03-12'
+title: Chrome Speech Recognition API Guide
+description: Master the Chrome Speech Recognition API for voice input, transcript
+  accuracy, continuous recognition, and language support. Build powerful voice-enabled
+  web...
+date: 2026-01-15
 last_modified_at: '2026-03-11'
 permalink: chrome-speech-recognition-api
 layout: post
-title: Chrome Speech Recognition API Guide
-description: Master the Chrome Speech Recognition API for voice input, transcript accuracy, continuous recognition, and language support. Build powerful voice-enabled web...
-date: 2026-01-15
 categories:
 - extensions
 - api
@@ -19,8 +18,6 @@ tags:
 - web-development
 - accessibility
 author: theluckystrike
-permalink: chrome-speech-recognition-api
-last_modified_at: '2026-03-11'
 ---
 # Chrome Speech Recognition API Guide
 
@@ -253,10 +250,9 @@ Key to success is understanding the API's capabilities and limitations. Optimize
 As voice technology continues to improve and become more prevalent, learning to effectively implement speech recognition will become an increasingly valuable skill. The Chrome Speech Recognition API provides an excellent starting point for adding voice capabilities to your projects, and with the best practices outlined in this guide, you are well-equipped to build sophisticated voice-enabled applications.
 
 ## Related Articles
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-
+* [Chrome Address Bar Commands You Didnt Know](/articles/chrome-address-bar-commands-you-didnt-know/)
+* [Chrome Sleeping Tabs Explained: What They Are and How to Use Them](/articles/chrome-sleeping-tabs-explained/)
+* [Best Privacy Chrome Extensions 2026](/articles/best-privacy-chrome-extensions-2026/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 <<<<<<< HEAD

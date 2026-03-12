@@ -78,7 +78,7 @@ Staying informed about the privacy features in your browser helps you make choic
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Making Your Laptop Fan Loud? Here's How to Fix It](/articles/chrome-making-laptop-fan-loud/)
+* [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change/)
+* [Chrome Startup Page How to Set](/articles/chrome-startup-page-how-to-set/)
 
-- [Chrome AI Summarize Feature How to Use](/articles/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Set Methods: Union and Intersection Made Simple](/articles/chrome-set-methods-union-intersection)
-- [chrome for odysee web player tips](/articles/chrome-for-odysee-web-player-tips)

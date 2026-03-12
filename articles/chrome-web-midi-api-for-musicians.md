@@ -1,10 +1,11 @@
 ---
-layout: "post"
-title: "Chrome Web MIDI API for Musicians"
-description: "Having trouble using your MIDI controller in Chrome? Learn why browsers block MIDI devices and how to get your instruments working again. Read our comprehens..."
-date: "2026-01-01"
-last_modified_at: "2026-03-09"
-permalink: "chrome-web-midi-api-for-musicians"
+layout: post
+title: Chrome Web MIDI API for Musicians
+description: Having trouble using your MIDI controller in Chrome? Learn why browsers
+  block MIDI devices and how to get your instruments working again. Read our comprehens...
+date: '2026-01-01'
+last_modified_at: '2026-03-09'
+permalink: chrome-web-midi-api-for-musicians
 ---
 Chrome Web MIDI API for musicians is becoming more important as more music production moves to web-based tools. If you have tried to use your MIDI keyboard, controller, or other musical hardware with a web app and found that it simply will not connect, you are not alone. This is a common frustration that many musicians face when they want to use their existing hardware with browser-based music software.
 
@@ -63,7 +64,7 @@ With a few simple adjustments, your MIDI keyboard, controller, or other hardware
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Performance Panel for Regular Users](/articles/chrome-performance-panel-for-regular-users/)
+* [Chrome Extensions for Web Scraping Without Code](/articles/chrome-extensions-for-web-scraping-without-code/)
+* [Chrome Intersection Observer API Explained](/articles/chrome-intersection-observer-api-explained/)
 
-- [Chrome Toolbar Customization Tips](/articles/chrome-toolbar-customization-tips)
-- [Chrome Extensions for Quick Notes Sidebar](/articles/chrome-extensions-for-quick-notes-sidebar)
-- [Chrome Mobile Tabs Too Many How to Manage](/articles/chrome-mobile-tabs-too-many-how-to-manage)

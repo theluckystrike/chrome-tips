@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Smooth Scrolling How to Enable
-description: Want to enable smooth scrolling in Chrome? Learn how to turn it on and make your web browsing feel more fluid and comfortable. Read our comprehensive guide to l
+description: Want to enable smooth scrolling in Chrome? Learn how to turn it on and
+  make your web browsing feel more fluid and comfortable. Read our comprehensive guide
+  to l
 permalink: chrome-smooth-scrolling-how-to-enable
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
@@ -65,7 +67,7 @@ Give it a try for a few days. You might find that those gentle glides make readi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Device Emulation Advanced Guide](/articles//chrome-device-emulation-advanced//)
+* [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/articles/should-i-switch-to-edge-for-speed/)
+* [chrome high contrast mode](/articles/chrome-high-contrast-mode/)
 
-- [Chrome CDP Protocol Explained Simply](/articles/chrome-cdp-protocol-explained-simply)
-- [chrome for apartments.com search tips](/articles/chrome-for-apartmentscom-search-tips)
-- [Chrome WebGL Not Supported Fix](/articles/chrome-webgl-not-supported-fix)

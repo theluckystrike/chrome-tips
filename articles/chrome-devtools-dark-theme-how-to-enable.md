@@ -75,7 +75,7 @@ Remember that keeping Chrome updated ensures you have access to all theme option
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome WebGL Crashing Fix](/articles/chrome-webgl-crashing-fix/)
+* [Why Are People Switching from Chrome to Firefox](/articles/why-are-people-switching-from-chrome-to-firefox/)
+* [Chrome Using Too Much Memory on MacBook Air](/articles/chrome-using-too-much-memory-on-macbook-air/)
 
-- [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead)
-- [Chrome Web GPU API Explained](/articles/chrome-web-gpu-api-explained)
-- [Chrome Extension Monetization Strategies That Actually Work](/articles/chrome-extension-monetization-strategies)

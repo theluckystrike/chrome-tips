@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Shape Detection API Face Detection
-description: Learn how Chrome's Shape Detection API enables face detection in your browser, what it means for your privacy, and how to manage it. Read our comprehensive guid
+description: Learn how Chrome's Shape Detection API enables face detection in your
+  browser, what it means for your privacy, and how to manage it. Read our comprehensive
+  guid
 date: 2026-01-15
 categories:
 - privacy
@@ -72,16 +74,8 @@ Finally, consider your overall browser performance. Running **Face Detection** a
 Using **Tab Suspender Pro** is an excellent way to handle this. It automatically "hibernates" background tabs, freeing up **RAM** and **CPU** resources so that your active **Shape Detection** tasks run smoothly and without lag. By keeping your browser lean, you ensure that high-performance **Web APIs** have the resources they need to function correctly.
 
 ## Related Articles
-- [Chrome Shape Detection API Explained](/chrome-shape-detection-api-explained)
-- [Chrome Contact Picker API Explained](/chrome-contact-picker-api-explained)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
-
+* [Chrome Video Playback Stuttering Fix: A Practical Guide for Slow Computers](/articles/chrome-video-playback-stuttering-fix/)
+* [Chrome Extensions Using Too Much Memory](/articles/chrome-extensions-using-too-much-memory/)
+* [Chrome Site Settings Explained Complete Guide](/articles/chrome-site-settings-explained-complete-guide/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
-
-## Related Articles
-
-- [Chrome Tabs Using Too Much Memory Which One](/articles/chrome-tabs-using-too-much-memory-which-one)
-- [chrome tab groups keyboard shortcuts](/articles/chrome-tab-groups-keyboard-shortcuts)
-- [Chrome for Arxiv Paper Reader Extensions](/articles/chrome-for-arxiv-paper-reader-extensions)

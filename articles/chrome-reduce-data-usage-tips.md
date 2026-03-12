@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome reduce data usage tips
-description: Practical chrome reduce data usage tips to cut down your browsing data. Easy settings and tricks to save data while browsing. Read our comprehensive guide to le
+description: Practical chrome reduce data usage tips to cut down your browsing data.
+  Easy settings and tricks to save data while browsing. Read our comprehensive guide
+  to le
 date: 2025-03-16
 categories:
 - tips
@@ -83,10 +85,9 @@ Checking these stats occasionally helps you understand the impact of the changes
 ---
 
 ## Related Articles
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
-- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
-- [Chrome Reduce Data Usage Mobile](/chrome-reduce-data-usage-mobile)
-
+* [Best Chrome Extensions for Reading Articles](/articles/best-chrome-extensions-for-reading-articles/)
+* [How to Stop Chrome from Tracking Me](/articles/how-to-stop-chrome-from-tracking-me/)
+* [Chrome Slows Down After Sleep Mode Fix](/articles/chrome-slows-down-after-sleep-mode-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

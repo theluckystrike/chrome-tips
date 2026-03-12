@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Mixed Content Warning What It Means
-description: See what a Chrome mixed content warning means, why it appears, and how to handle it for safer browsing. Learn effective tips and tricks to optimize your Chro...
+description: See what a Chrome mixed content warning means, why it appears, and how
+  to handle it for safer browsing. Learn effective tips and tricks to optimize your
+  Chro...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-mixed-content-warning-what-it-means
@@ -73,7 +75,7 @@ Understanding what the Chrome mixed content warning means helps you make better 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Site Settings Permissions Explained](/articles/chrome-site-settings-permissions-explained/)
+* [Chrome Accessibility Tree Guide](/articles/chrome-accessibility-tree-guide/)
+* [Chrome Slow on School Laptop? Here's How to Fix It](/articles/chrome-slow-on-school-laptop-how-to-fix/)
 
-- [Chrome Open Settings Shortcut](/articles/chrome-open-settings-shortcut)
-- [Chrome DevTools Protocol Monitor](/articles/chrome-devtools-protocol-monitor)
-- [Chrome Takes Forever to Load Pages](/articles/chrome-takes-forever-to-load-pages)

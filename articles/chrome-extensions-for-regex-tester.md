@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Regex Tester"
-description: "Find the best Chrome extensions for regex tester that help you create, test, and debug regular expressions easily in your browser. Check out our expert..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-regex-tester"
-layout: "post"
-categories: "[productivity, regex, tips]"
-tags: "[chrome-extensions, regex, browser-tools]"
-author: "theluckystrike"
+title: Chrome Extensions for Regex Tester
+description: Find the best Chrome extensions for regex tester that help you create,
+  test, and debug regular expressions easily in your browser. Check out our expert...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-regex-tester
+layout: post
+categories: '[productivity, regex, tips]'
+tags: '[chrome-extensions, regex, browser-tools]'
+author: theluckystrike
 ---
 # Chrome Extensions for Regex Tester
 
@@ -72,7 +73,7 @@ Remember that becoming comfortable with regex takes practice, and having the rig
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Open Settings Shortcut](/articles/chrome-open-settings-shortcut/)
+* [Chrome Font Editor in DevTools Explained](/articles/chrome-font-editor-in-devtools-explained/)
+* [Chrome for LeechBlock Setup and Tips](/articles/chrome-for-leechblock-setup-and-tips/)
 
-- [chrome experimental features worth trying 2026](/articles/chrome-experimental-features-worth-trying-2026)
-- [Chrome Keyboard Navigation Tips](/articles/chrome-keyboard-navigation-tips)
-- [Chrome Split Screen Without Extension](/articles/chrome-split-screen-without-extension)

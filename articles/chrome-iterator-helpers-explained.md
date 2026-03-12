@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome Iterator Helpers Explained"
-description: "Learn about Chrome's iterator helpers - powerful built-in methods that make working with arrays and iterables easier than ever. Check out our expert recommenda"
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "chrome-iterator-helpers-explained"
-categories: [chrome, javascript, extensions, development]
-tags: [chrome-extensions, javascript, iterators, programming]
-author: "theluckystrike"
+layout: post
+title: Chrome Iterator Helpers Explained
+description: Learn about Chrome's iterator helpers - powerful built-in methods that
+  make working with arrays and iterables easier than ever. Check out our expert recommenda
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-iterator-helpers-explained
+categories:
+- chrome
+- javascript
+- extensions
+- development
+tags:
+- chrome-extensions
+- javascript
+- iterators
+- programming
+author: theluckystrike
 ---
 # Chrome Iterator Helpers Explained
 
@@ -85,10 +94,9 @@ Chrome iterator helpers are a powerful addition to the JavaScript language that 
 Whether you are building a simple tab manager or a complex productivity suite, these methods will help you write cleaner, more efficient code. As you continue developing Chrome extensions, make these iterator helpers a part of your standard toolkit.
 
 ## Related Articles
-- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
-- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)
-- [Chrome Badging API Explained](/chrome-badging-api-explained)
-
+* [Chrome Extensions for Language Learning](/articles/chrome-extensions-for-language-learning/)
+* [Chrome for Waze Web Tips](/articles/chrome-for-waze-web-tips/)
+* [How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)](/articles/how-to-downgrade-chrome-to-older-version/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

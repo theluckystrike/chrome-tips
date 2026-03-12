@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome WebAuthn Debugging Guide"
-description: "Master Chrome WebAuthn debugging with Virtual Authenticator, FIDO2, passkeys, and credential management. Comprehensive guide for developers. Read our compreh..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-webauthn-debugging"
-categories: "[development, security, webauthn]"
-tags: "[webauthn, fido2, passkeys, debugging, chrome-devtools, authentication]"
-author: "theluckystrike"
+layout: post
+title: Chrome WebAuthn Debugging Guide
+description: Master Chrome WebAuthn debugging with Virtual Authenticator, FIDO2, passkeys,
+  and credential management. Comprehensive guide for developers. Read our compreh...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-webauthn-debugging
+categories: '[development, security, webauthn]'
+tags: '[webauthn, fido2, passkeys, debugging, chrome-devtools, authentication]'
+author: theluckystrike
 ---
 # Chrome WebAuthn Debugging Guide
 
@@ -165,10 +166,9 @@ As passkeys continue to replace passwords across the web, these debugging skills
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome 64 bit vs 32 bit How to Check](/articles/chrome-64-bit-vs-32-bit-how-to-check/)
+* [How to Make Chrome Kid-Friendly](/articles/how-to-make-chrome-kid-friendly/)
+* [chrome search by image right click how to](/articles/chrome-search-by-image-right-click-how-to/)
 
-## Related Articles
-
-- [Chrome Extensions Keep Disabling Themselves Fix](/articles/chrome-extensions-keep-disabling-themselves-fix)
-- [Chrome Opens on Startup Windows: How to Stop](/articles/chrome-opens-on-startup-windows-how-to-stop)
-- [Best Chrome Extensions For Lawyers](/articles/best-chrome-extensions-for-lawyers)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

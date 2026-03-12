@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Google Sheets Tips and Tricks
-description: Learn how to get more out of Google Sheets in Chrome with practical tips for faster workflows and better productivity. Discover more tips and tricks to optim
+description: Learn how to get more out of Google Sheets in Chrome with practical tips
+  for faster workflows and better productivity. Discover more tips and tricks to optim
 date: 2026-01-15
 categories:
 - google-sheets
@@ -85,7 +86,7 @@ Remember to keep your browser and sheets organized, use tools like Tab Suspender
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Amazon Fresh Web Ordering](/articles/chrome-for-amazon-fresh-web-ordering/)
+* [chrome reduce data usage on mobile](/articles/chrome-reduce-data-usage-on-mobile/)
+* [Chrome Passkeys vs Passwords Comparison](/articles/chrome-passkeys-vs-passwords-comparison/)
 
-- [Chrome chrome.alarms API for Scheduled Tasks](/articles//articles/chrome-chrome.alarms-scheduled-tasks/)
-- [how to make chrome default browser mac](/articles/how-to-make-chrome-default-browser-mac)
-- [Chrome Notifications How to Stop Them](/articles/chrome-notifications-how-to-stop-them)

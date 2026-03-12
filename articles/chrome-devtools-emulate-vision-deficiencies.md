@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome DevTools Emulate Vision Deficiencies"
-description: "Learn how to use Chrome DevTools to emulate vision deficiencies and test your website for accessibility. Explore our comprehensive guide to mastering Chrome..."
+title: Chrome DevTools Emulate Vision Deficiencies
+description: Learn how to use Chrome DevTools to emulate vision deficiencies and test
+  your website for accessibility. Explore our comprehensive guide to mastering Chrome...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-emulate-vision-deficiencies
@@ -63,7 +64,7 @@ While you are working on improving accessibility, you might also find that manag
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions For Color Palette Generator](/articles//articles/chrome-extensions-for-color-palette-generator//)
+* [Chrome Developer Tools Making Page Slow: What You Need to Know](/articles//chrome-developer-tools-making-page-slow//)
+* [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom/)
 
-- [Chrome for Weather Dashboard Extensions](/articles/chrome-for-weather-dashboard-extensions)
-- [Chrome Extensions For Calendar Integration](/articles//articles/chrome-extensions-for-calendar-integration/)
-- [Chrome Extensions for SEO Analysis Free](/articles/chrome-extensions-for-seo-analysis-free)

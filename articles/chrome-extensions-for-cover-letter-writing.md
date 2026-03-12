@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Cover Letter Writing"
-description: "Discover how Chrome Extensions For Cover Letter Writing can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and sett..."
+title: Chrome Extensions For Cover Letter Writing
+description: Discover how Chrome Extensions For Cover Letter Writing can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
+  sett...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: /articles/chrome-extensions-for-cover-letter-writing/
@@ -76,7 +78,7 @@ Small improvements in your cover letter workflow add up to significant time savi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Pocket Alternative](/articles/chrome-extensions-for-pocket-alternative/)
+* [How to Drag and Drop Tabs Between Windows in Chrome: A Complete Guide](/articles/chrome-drag-drop-tabs-between-windows/)
+* [Chrome Wont Install on Windows 11 Fix](/articles/chrome-wont-install-on-windows-11-fix/)
 
-- [Chrome Address Bar Tips and Tricks](/articles/chrome-address-bar-tips-and-tricks)
-- [Chrome Web MIDI API Explained](/articles/chrome-web-midi-api-explained)
-- [Chrome Performance Flame Chart Explained](/articles/chrome-performance-flame-chart-explained)

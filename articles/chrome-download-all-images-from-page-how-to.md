@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "How to Download All Images from a Web Page in Chrome"
-description: "Learn how to download every image from a webpage using Chrome. Simple methods to save multiple images at once. Explore our comprehensive guide to mastering ..."
+title: How to Download All Images from a Web Page in Chrome
+description: Learn how to download every image from a webpage using Chrome. Simple
+  methods to save multiple images at once. Explore our comprehensive guide to mastering
+  ...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-download-all-images-from-page-how-to
@@ -49,7 +51,7 @@ How to download all images from a web page in Chrome? The answer is that you nee
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Best Settings to Speed Up Chrome 2026](/articles/best-settings-to-speed-up-chrome-2026/)
+* [How to Reduce Chrome Startup Time](/articles/how-to-reduce-chrome-startup-time/)
+* [Why Is Chrome Slower Than Firefox?](/articles/why-is-chrome-slower-than-firefox/)
 
-- [Chrome Background Sync API Explained](/articles/chrome-background-sync-api-explained)
-- [chrome multi language setup how to](/articles/chrome-multi-language-setup-how-to)
-- [chrome google photos integration save images](/articles/chrome-google-photos-integration-save-images)

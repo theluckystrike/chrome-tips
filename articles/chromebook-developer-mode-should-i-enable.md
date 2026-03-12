@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chromebook Developer Mode: Should I Enable It?"
-description: "A clear guide to help you decide whether enabling developer mode on your Chromebook is right for you and your needs. Read our comprehensive guide to learn mo..."
-date: "2025-02-16"
-last_modified_at: "2026-03-10"
-permalink: "chromebook-developer-mode-should-i-enable"
-categories: "[chromebook, tips]"
-tags: "[chromebook, developer-mode, chrome-os]"
-author: "theluckystrike"
+layout: post
+title: 'Chromebook Developer Mode: Should I Enable It?'
+description: A clear guide to help you decide whether enabling developer mode on your
+  Chromebook is right for you and your needs. Read our comprehensive guide to learn
+  mo...
+date: '2025-02-16'
+last_modified_at: '2026-03-10'
+permalink: chromebook-developer-mode-should-i-enable
+categories: '[chromebook, tips]'
+tags: '[chromebook, developer-mode, chrome-os]'
+author: theluckystrike
 ---
 # Chromebook Developer Mode: Should I Enable It?
 
@@ -96,7 +98,7 @@ Whatever you decide, your Chromebook will still be a capable machine. The choice
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Devtools Color Picker How to Use](/articles//chrome-devtools-color-picker-how-to-use//)
+* [Chrome for Blue Light Filter Extensions](/articles/chrome-for-blue-light-filter-extensions/)
+* [Chrome Tab From Other Device Not Showing Fix](/articles/chrome-tab-from-other-device-not-showing-fix/)
 
-- [Chrome Permissions API for Camera and Microphone](/articles/chrome-permissions-api-camera-microphone)
-- [Chrome Web Notifications Best Practices](/articles/chrome-web-notifications-best-practices)
-- [Chrome Pop Ups on Phone How to Block](/articles/chrome-pop-ups-on-phone-how-to-block)

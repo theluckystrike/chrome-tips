@@ -1,6 +1,8 @@
 ---
 title: 'Chrome Font Palette Customization: Complete Guide for 2026'
-description: Learn how to customize fonts in Chrome with the built-in font palette feature, extensions, and DevTools for a personalized browsing experience. Find out more...
+description: Learn how to customize fonts in Chrome with the built-in font palette
+  feature, extensions, and DevTools for a personalized browsing experience. Find out
+  more...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-font-palette-customization
@@ -139,10 +141,9 @@ For additional Chrome optimization, consider pairing your font customization wit
 ---
 
 ## Related Articles
-- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
-- [How to Change Chrome Font Size Permanently](/chrome-font-size-permanently-change)
-- [Chrome for Font Identification Extensions](/chrome-for-font-identification-extensions)
-
+* [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable/)
+* [Chrome Hardware Acceleration Should I Turn On or Off](/articles/chrome-hardware-acceleration-should-i-turn-on-or-off/)
+* [Chrome Notifications for One Site How to Manage](/articles/chrome-notifications-for-one-site-how-to-manage/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

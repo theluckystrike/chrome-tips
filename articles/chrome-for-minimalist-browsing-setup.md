@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Minimalist Browsing Setup
-description: A clean Chrome setup focused on simplicity and speed. Practical tips for a minimalist browsing experience. Discover more tips and tricks to optimize your bro
+description: A clean Chrome setup focused on simplicity and speed. Practical tips
+  for a minimalist browsing experience. Discover more tips and tricks to optimize
+  your bro
 date: '2025-12-01'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-minimalist-browsing-setup
@@ -80,7 +82,7 @@ Over time, you will find that a lighter browser helps you focus better and work 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Audio Fingerprinting What It Is](/articles/chrome-audio-fingerprinting-what-it-is/)
+* [Chrome for Accessibility Testing Extensions](/articles/chrome-for-accessibility-testing-extensions/)
+* [Chrome Voice Control How to Use](/articles/chrome-voice-control-how-to-use/)
 
-- [Chrome for Custom Search Engines Setup](/articles/chrome-for-custom-search-engines-setup)
-- [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track)
-- [Chrome for Reddit Best Extensions](/articles/chrome-for-reddit-best-extensions)

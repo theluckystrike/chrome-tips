@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Substack Reading Tips
-description: Make the most of Substack in Chrome with these simple tips. Speed up your reading, reduce distractions, and organize your subscriptions easily. Discover more
+description: Make the most of Substack in Chrome with these simple tips. Speed up
+  your reading, reduce distractions, and organize your subscriptions easily. Discover
+  more
 date: 2025-03-10
 categories:
 - productivity
@@ -79,7 +81,7 @@ Consider creating a bookmark folder in Chrome specifically for Substack. Save li
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions For Color Palette Picker](/articles//articles/chrome-extensions-for-color-palette-picker//)
+* [Chrome Slow on Chromebook? Here's How to Fix It](/articles/chrome-slow-on-chromebook-fix/)
+* [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy/)
 
-- [Best Screenshot Chrome Extension](/articles/best-screenshot-chrome-extension)
-- [chrome taking too long to open fix](/articles/chrome-taking-too-long-to-open-fix)
-- [Chrome Developer Tools Shortcut](/articles//chrome-developer-tools-shortcut/)

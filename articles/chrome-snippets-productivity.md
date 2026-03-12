@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome DevTools Snippets for Productivity
-description: Master Chrome DevTools Snippets for productivity automation. Learn how to create saved scripts, code snippets, and automate repetitive browser tasks with the...
+description: Master Chrome DevTools Snippets for productivity automation. Learn how
+  to create saved scripts, code snippets, and automate repetitive browser tasks with
+  the...
 date: 2026-03-10
 categories:
 - browser-tips
@@ -298,10 +300,9 @@ Remember that snippets are persistent, portable, and powerful. Your collection o
 ---
 
 ## Related Articles
-- [Chrome for Productivity Dashboard New Tab](/chrome-for-productivity-dashboard-new-tab)
-- [Chrome For Gmail Productivity Extensions](/chrome-for-gmail-productivity-extensions)
-- [Chrome Extensions for Focus and Productivity](/chrome-extensions-for-focus-and-productivity)
-
+* [chrome payment request api what users see](/articles/chrome-payment-request-api-what-users-see/)
+* [Chrome Password Checkup What It Does](/articles/chrome-password-checkup-what-it-does/)
+* [Chrome Extension Review Process: How Long Does It Take](/articles/chrome-extension-review-process-how-long/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

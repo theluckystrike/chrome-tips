@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Meal Planning"
-description: "Discover how Chrome extensions for meal planning can simplify your weekly meals, save time, and reduce food waste. Check out our expert recommendations and..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-meal-planning"
-layout: "post"
-categories: "[productivity, lifestyle]"
-tags: "[chrome-extensions, meal-planning, cooking]"
-author: "theluckystrike"
+title: Chrome Extensions for Meal Planning
+description: Discover how Chrome extensions for meal planning can simplify your weekly
+  meals, save time, and reduce food waste. Check out our expert recommendations and...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-meal-planning
+layout: post
+categories: '[productivity, lifestyle]'
+tags: '[chrome-extensions, meal-planning, cooking]'
+author: theluckystrike
 ---
 # Chrome Extensions for Meal Planning
 
@@ -76,7 +77,7 @@ The goal is to make meal planning simple enough that you actually do it consiste
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Google Workspace Integration Tips](/articles/chrome-google-workspace-integration-tips/)
+* [Chrome Homepage Keeps Changing to Yahoo Fix](/articles/chrome-homepage-keeps-changing-to-yahoo-fix/)
+* [Best Chrome Extensions for Google Drive](/articles/best-chrome-extensions-for-google-drive/)
 
-- [Chrome for Job Searching Best Extensions](/articles/chrome-for-job-searching-best-extensions)
-- [Chrome DevTools Memory Panel Explained](/articles/chrome-devtools-memory-panel-explained)
-- [Chrome Trust Tokens Explained](/articles/chrome-trust-tokens-guide)

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Status Code 502 Bad Gateway Fix
-description: Getting a 502 Bad Gateway error in Chrome? Learn what causes it and how to fix it with simple solutions for regular users. Read our comprehensive guide to learn
+description: Getting a 502 Bad Gateway error in Chrome? Learn what causes it and how
+  to fix it with simple solutions for regular users. Read our comprehensive guide
+  to learn
 date: 2026-01-15
 categories:
 - troubleshooting
@@ -77,10 +79,9 @@ The chrome status code 502 bad gateway fix is usually straightforward once you u
 Most 502 errors are temporary and resolve themselves within minutes. If you continue seeing this error on the same website for hours or days, the problem is likely on their end, and you might want to check if the website has announced any maintenance or issues on their social media.
 
 ## Related Articles
-- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
-- [Chrome Status Code 500 Server Error Explained](/chrome-status-code-500-server-error-explained)
-- [Chrome Status Code 404 Not Found Explained](/chrome-status-code-404-not-found-explained)
-
+* [Chrome Devtools Security Panel Explained](/articles/chrome-devtools-security-panel-explained/)
+* [Chrome vs Samsung Internet on Android](/articles/chrome-vs-samsung-internet-on-android/)
+* [Chrome Closed Captions on Any Video](/articles/chrome-closed-captions-on-any-video/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

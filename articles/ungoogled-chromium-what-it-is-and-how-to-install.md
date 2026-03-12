@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Ungoogled Chromium What It Is and How to Install"
-description: "Learn what ungoogled chromium is and how to install it for a privacy-focused browsing experience without Google services. Read our comprehensive guide to lea..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "ungoogled-chromium-what-it-is-and-how-to-install"
-categories: "[browsers, privacy]"
-tags: "[chromium, privacy, browser, ungoogled]"
-author: "theluckystrike"
+layout: post
+title: Ungoogled Chromium What It Is and How to Install
+description: Learn what ungoogled chromium is and how to install it for a privacy-focused
+  browsing experience without Google services. Read our comprehensive guide to lea...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: ungoogled-chromium-what-it-is-and-how-to-install
+categories: '[browsers, privacy]'
+tags: '[chromium, privacy, browser, ungoogled]'
+author: theluckystrike
 ---
 # Ungoogled Chromium What It Is and How to Install
 
@@ -66,7 +67,7 @@ Review your browser settings to disable any features you do not need. Things lik
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Increase Chrome Cache Size](/articles/chrome-cache-size-how-to-increase/)
+* [Chrome for Google Meet Camera Settings](/articles/chrome-for-google-meet-camera-settings/)
+* [Chrome Sync Across Devices How It Works](/articles/chrome-sync-across-devices-how-it-works/)
 
-- [Chrome Split Screen Without Extension](/articles/chrome-split-screen-without-extension)
-- [chrome how to block specific website notifications](/articles/chrome-how-to-block-specific-website-notifications)
-- [Chrome Extensions for Pocket Alternative](/articles/chrome-extensions-for-pocket-alternative)

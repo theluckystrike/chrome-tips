@@ -1,14 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Camera Microphone Permission Manage: Complete Guide"
-description: "Learn how to manage camera and microphone permissions in Chrome. Step-by-step instructions to control which websites can access your devices. Check out our expe"
-date: "2026-01-15"
-last_modified_at: '2026-03-12'
-permalink: "chrome-camera-microphone-permission-manage"
-categories: [privacy, troubleshooting]
-tags: [chrome-camera-permission, chrome-microphone-permission, chrome-settings, site-permissions,
-  privacy]
-author: "theluckystrike"
+layout: post
+title: 'Chrome Camera Microphone Permission Manage: Complete Guide'
+description: Learn how to manage camera and microphone permissions in Chrome. Step-by-step
+  instructions to control which websites can access your devices. Check out our expe
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-camera-microphone-permission-manage
+categories:
+- privacy
+- troubleshooting
+tags:
+- chrome-camera-permission
+- chrome-microphone-permission
+- chrome-settings
+- site-permissions
+- privacy
+author: theluckystrike
 ---
 # Chrome Camera Microphone Permission Manage: Complete Guide
 
@@ -76,10 +83,9 @@ If you often have many tabs open and worry about performance or accidental camer
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Animation Performance Guide](/articles/chrome-animation-performance/)
+* [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization/)
+* [Chrome Accessibility Features You Didn't Know About](/articles/chrome-accessibility-features-you-didnt-know-about/)
 
-## Related Articles
-
-- [Chrome Extensions For Dns Lookup](/articles//articles/chrome-extensions-for-dns-lookup/)
-- [chrome global privacy control what it does](/articles/chrome-global-privacy-control-what-it-does)
-- [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

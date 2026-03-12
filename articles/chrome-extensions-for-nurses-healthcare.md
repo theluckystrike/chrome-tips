@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Nurses Healthcare"
-description: "Discover the best Chrome extensions for nurses healthcare to improve efficiency, organize research, and manage patient information easily. Check out our..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-nurses-healthcare"
-layout: "post"
-categories: "[healthcare, productivity]"
-tags: "[chrome-extensions, nurses, healthcare]"
-author: "theluckystrike"
+title: Chrome Extensions for Nurses Healthcare
+description: Discover the best Chrome extensions for nurses healthcare to improve
+  efficiency, organize research, and manage patient information easily. Check out
+  our...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-nurses-healthcare
+layout: post
+categories: '[healthcare, productivity]'
+tags: '[chrome-extensions, nurses, healthcare]'
+author: theluckystrike
 ---
 # Chrome Extensions for Nurses Healthcare
 
@@ -72,7 +74,7 @@ Remember that extensions work best when they solve real problems rather than add
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Hardware Acceleration Should I Turn On or Off](/articles/chrome-hardware-acceleration-should-i-turn-on-or-off/)
+* [Chrome IndexedDB Storage Explained](/articles/chrome-indexeddb-storage-explained/)
+* [Chrome Set Methods: Union and Intersection Made Simple](/articles/chrome-set-methods-union-intersection/)
 
-- [How to Enable Chrome Tab Hover Previews](/articles/how-to-enable-chrome-tab-hover-previews)
-- [Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide](/articles/chrome-amazon-prime-video-not-playing-fix)
-- [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use)

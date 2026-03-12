@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "chrome web serial api for beginners"
-description: "A beginner-friendly guide to Chrome Web Serial API, explaining how your browser can connect to hardware devices and what you need to get started. Read our co..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-web-serial-api-for-beginners"
-categories: "[features, connectivity]"
-tags: "[web-serial, serial-api, chrome-features, hardware, beginners]"
-author: "theluckystrike"
+layout: post
+title: chrome web serial api for beginners
+description: A beginner-friendly guide to Chrome Web Serial API, explaining how your
+  browser can connect to hardware devices and what you need to get started. Read our
+  co...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-web-serial-api-for-beginners
+categories: '[features, connectivity]'
+tags: '[web-serial, serial-api, chrome-features, hardware, beginners]'
+author: theluckystrike
 ---
 # Chrome Web Serial API for Beginners
 
@@ -62,7 +64,7 @@ Whether you are a hobbyist looking to build your first project or someone who is
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome WASM WebAssembly Getting Started: A Complete Beginner's Guide](/articles/chrome-wasm-webassembly-getting-started/)
+* [Best Chrome Extensions for Sales Teams](/articles/best-chrome-extensions-for-sales-teams/)
+* [Chrome Location Access on Phone How to Control](/articles/chrome-location-access-on-phone-how-to-control/)
 
-- [chrome touchscreen mode how to enable](/articles/chrome-touchscreen-mode-how-to-enable)
-- [Chrome for Font Identification Extensions](/articles/chrome-for-font-identification-extensions)
-- [Chrome for Mendeley Web Importer Tips](/articles/chrome-for-mendeley-web-importer-tips)

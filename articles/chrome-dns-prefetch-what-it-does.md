@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome Dns Prefetch What It Does"
-description: "Learn what DNS prefetching in Chrome does and how it speeds up your web browsing experience. Explore our comprehensive guide to mastering Chrome Dns Prefetc..."
+title: Chrome Dns Prefetch What It Does
+description: Learn what DNS prefetching in Chrome does and how it speeds up your web
+  browsing experience. Explore our comprehensive guide to mastering Chrome Dns Prefetc...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: chrome-dns-prefetch-what-it-does
@@ -55,7 +56,7 @@ Try browsing the way you normally do and pay attention to how quickly pages star
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for YouTube Productivity](/articles/chrome-extensions-for-youtube-productivity/)
+* [Chrome Extension Conflict: Identifying and Fixing Crashes](/articles/chrome-extension-conflict-causing-crashes/)
+* [Best Chrome Extensions for Photographers](/articles/best-chrome-extensions-for-photographers/)
 
-- [Chrome Sync What Data Gets Synced](/articles/chrome-sync-what-data-gets-synced)
-- [chrome for twitch streaming setup in browser](/articles/chrome-for-twitch-streaming-setup-in-browser)
-- [Chrome Encoding API Text Encoder Decoder](/articles/chrome-encoding-api-text-encoder-decoder)

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Keyboard Shortcut Customization
-description: Learn how to customize keyboard shortcuts in Chrome for a faster, personalized browsing experience. Discover more tips and tricks to optimize your browser ex
+description: Learn how to customize keyboard shortcuts in Chrome for a faster, personalized
+  browsing experience. Discover more tips and tricks to optimize your browser ex
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-keyboard-shortcut-customization
@@ -67,7 +68,7 @@ Tab Suspender Pro is an extension that automatically suspends tabs you have not 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Spotify Web Player Shortcuts](/articles/chrome-for-spotify-web-player-shortcuts/)
+* [Chrome Rendering Panel Guide](/articles/chrome-rendering-panel-guide/)
+* [chrome next dns setup for ad blocking](/articles/chrome-next-dns-setup-for-ad-blocking/)
 
-- [Chrome Experiments Page Best Flags to Enable: Complete Guide](/articles/chrome-experiments-page-best-flags-enable)
-- [Chrome Google Chat Integration in Browser](/articles/chrome-google-chat-integration-in-browser)
-- [Chrome Geolocation Override How to Test](/articles/chrome-geolocation-override-how-to-test)

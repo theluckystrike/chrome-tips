@@ -1,15 +1,21 @@
 ---
-title: "Chrome Coupon Finder Built In Feature"
-description: "Discover whether Chrome has a built-in coupon finder and learn about the best ways to automatically find and apply coupon codes while shopping online."
-date: "2026-03-09"
-last_modified_at: '2026-03-12'
-permalink: "chrome-coupon-finder-built-in-feature"
-layout: post
-categories: ['shopping', 'tips']
-tags: ['chrome', 'coupons', 'shopping', 'savings', 'extensions']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: Chrome Coupon Finder Built In Feature
+description: Discover whether Chrome has a built-in coupon finder and learn about
+  the best ways to automatically find and apply coupon codes while shopping online.
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
 permalink: chrome-coupon-finder-built-in-feature
+layout: post
+categories:
+- shopping
+- tips
+tags:
+- chrome
+- coupons
+- shopping
+- savings
+- extensions
+author: theluckystrike
 ---
 # Chrome Coupon Finder Built In Feature
 
@@ -70,7 +76,7 @@ Finally, keep your extensions updated. Developers regularly release updates that
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Tab Management Shortcuts Cheat Sheet](/articles/chrome-tab-management-shortcuts-cheat-sheet/)
+* [chrome for codesandbox optimization](/articles/chrome-for-codesandbox-optimization/)
+* [Chrome Font Too Small on Certain Websites Fix](/articles/chrome-font-too-small-on-certain-websites-fix/)
 
-- [Chrome Memory Leak Detection Guide](/articles/chrome-memory-leak-detection)
-- [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow)
-- [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching)

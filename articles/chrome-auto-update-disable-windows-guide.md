@@ -101,10 +101,9 @@ Controlling Chrome auto-update on Windows is straightforward with these multiple
 ---
 
 ## Related Articles
-- [Chrome Slow on Windows 11 After Update: Practical Fixes](/chrome-slow-on-windows-11-after-update)
-- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)
-- [Chrome Slower After Windows Update Fix](/chrome-slower-after-windows-update-fix)
-
+* [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization/)
+* [The Chrome Omnibox Calculator Trick: Quick Math Without Leaving Your Browser](/articles/chrome-omnibox-calculator-trick/)
+* [Chrome Inspect Element Tutorial for Beginners](/articles/chrome-inspect-element-tutorial-for-beginners/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

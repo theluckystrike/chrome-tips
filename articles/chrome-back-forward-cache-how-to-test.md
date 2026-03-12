@@ -72,7 +72,7 @@ Remember to test not just on Chrome but also on other browsers that support the 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome View Transitions API Explained](/articles/chrome-view-transitions-api-explained/)
+* [Chrome for Canva Web App Optimization](/articles/chrome-for-canva-web-app-optimization/)
+* [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
 
-- [Chrome Blurry Text Fix Windows](/articles/chrome-blurry-text-fix-windows)
-- [Chrome Dyslexia Friendly Extensions](/articles/chrome-dyslexia-friendly-extensions)
-- [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom)

@@ -73,7 +73,7 @@ Having your Chrome bookmarks available on both your phone and computer makes bro
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser](/articles/chrome-sanitizer-api-html-safe/)
+* [Chrome Notifications for One Site How to Manage](/articles/chrome-notifications-for-one-site-how-to-manage/)
+* [Should I Use Chrome or Edge in 2026?](/articles/should-i-use-chrome-or-edge-2026/)
 
-- [chrome performance monitor fps counter](/articles/chrome-performance-monitor-fps-counter)
-- [Chrome Extensions for Ambient Sounds Focus](/articles/chrome-extensions-for-ambient-sounds-focus)
-- [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/articles/chrome-devtools-sensors-tab-geolocation)

@@ -70,7 +70,7 @@ Try using the F12 or Ctrl+Shift+I shortcut today. It takes only a moment to lear
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Geolocation Permission Settings](/articles/chrome-geolocation-permission-settings/)
+* [Chrome Helper Renderer High CPU Mac Fix](/articles/chrome-helper-renderer-high-cpu-mac-fix/)
+* [Chrome for Dropshipping: Best Extensions](/articles/chrome-for-dropshipping-best-extensions/)
 
-- [chrome reduce data usage mobile](/articles/chrome-reduce-data-usage-mobile)
-- [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/articles/chrome-makes-my-old-laptop-unusable)
-- [How to Fix Chrome Hijacked Homepage (Complete Guide)](/articles/chrome-hijacked-homepage-fix-guide)

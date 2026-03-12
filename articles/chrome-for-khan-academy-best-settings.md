@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Khan Academy Best Settings
-description: Optimize Chrome for Khan Academy with these simple settings. Improve performance, reduce distractions, and enhance your learning experience. Discover more ti
+description: Optimize Chrome for Khan Academy with these simple settings. Improve
+  performance, reduce distractions, and enhance your learning experience. Discover
+  more ti
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-khan-academy-best-settings
@@ -55,7 +57,7 @@ To create a new profile, click the profile icon in the top right of Chrome and s
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms/)
+* [Chrome Block Specific Websites Guide](/articles/chrome-block-specific-websites-guide/)
+* [Chrome Service Worker What It Does Explained](/articles/chrome-service-worker-what-it-does-explained/)
 
-- [Chrome Password Checkup What It Does](/articles/chrome-password-checkup-what-it-does)
-- [Chrome Extensions for Time Tracking Freelancers](/articles/chrome-extensions-for-time-tracking-freelancers)
-- [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/articles/chrome-err-ssl-protocol-error-fix)

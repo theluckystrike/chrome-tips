@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Slow After Hibernation Fix
-description: 'Chrome running slow after hibernation? Learn why it happens and how to get your browser fast again. Read our comprehensive guide to learn more and improve your '
+description: 'Chrome running slow after hibernation? Learn why it happens and how
+  to get your browser fast again. Read our comprehensive guide to learn more and improve
+  your '
 permalink: chrome-slow-after-hibernation-fix
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
@@ -73,7 +75,7 @@ As a last resort, you might want to check if there are any background processes 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Habitica In Browser Tips](/articles/chrome-for-habitica-in-browser-tips/)
+* [Chrome Low Latency Mode for Gaming](/articles/chrome-low-latency-mode-for-gaming/)
+* [chrome mobile translate page automatically](/articles/chrome-mobile-translate-page-automatically/)
 
-- [Chrome Hijacked Homepage Fix](/articles/chrome-hijacked-homepage-fix)
-- [Best Chrome Extensions For Journalists](/articles/best-chrome-extensions-for-journalists)
-- [Chrome WebRTC Leak Test and Fix Guide](/articles/chrome-webrtc-leak-test-and-fix-guide)

@@ -60,7 +60,7 @@ The internet will never be perfect, and connection drops will happen. But with t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Limit Chrome Memory Usage on Windows](/articles/how-to-limit-chrome-memory-usage-windows/)
+* [Chrome History Search Tips and Tricks](/articles/chrome-history-search-tips-and-tricks/)
+* [Chrome How to Inspect Element Beginners](/articles/chrome-how-to-inspect-element-beginners/)
 
-- [Chrome Fullscreen Not Working Fix](/articles/chrome-fullscreen-not-working-fix)
-- [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools)
-- [Chrome Cross-Origin Isolation Explained](/articles/chrome-cross-origin-isolation-explained)

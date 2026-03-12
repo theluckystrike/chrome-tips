@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Memory Usage Keeps Going Up Over Time Fix
-description: Is Chrome using more and more memory the longer you keep it open? Learn why this happens and how to fix chrome memory usage keeps going up over time. Learn e...
+description: Is Chrome using more and more memory the longer you keep it open? Learn
+  why this happens and how to fix chrome memory usage keeps going up over time. Learn
+  e...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-memory-usage-keeps-going-up-over-time-fix
@@ -14,8 +16,6 @@ tags:
 - browser-performance
 - memory-problem
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-memory-usage-keeps-going-up-over-time-fix
 ---
 # Chrome Memory Usage Keeps Going Up Over Time Fix
 
@@ -88,7 +88,7 @@ Monitor memory usage using Chrome Task Manager. Press Shift+Escape to open it an
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome for distraction blocking extensions](/articles/chrome-for-distraction-blocking-extensions/)
+* [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer/)
+* [chrome for video downloading legal methods](/articles/chrome-for-video-downloading-legal-methods/)
 
-- [Chrome Reset All Settings: What Gets Deleted](/articles/chrome-reset-all-settings-what-gets-deleted)
-- [Chrome Extensions for Website Speed Test](/articles/chrome-extensions-for-website-speed-test)
-- [Chrome vs Samsung Internet for Android](/articles/chrome-vs-samsung-internet-for-android)

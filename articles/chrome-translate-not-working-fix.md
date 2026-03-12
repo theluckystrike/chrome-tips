@@ -1,13 +1,14 @@
 ---
-layout: "default"
-title: "Chrome Translate Not Working? Here's How to Fix It"
-description: "Fix Chrome's built-in translation feature when it stops working. Troubleshoot missing translate bar, incorrect translations, and language detection issues."
-date: "2025-03-14"
-last_modified_at: "2026-03-10"
-permalink: "chrome-translate-not-working-fix"
-categories: "[troubleshooting, features]"
-tags: "[chrome-translate, translation-fix, language-settings, google-translate]"
-author: "theluckystrike"
+layout: default
+title: Chrome Translate Not Working? Here's How to Fix It
+description: Fix Chrome's built-in translation feature when it stops working. Troubleshoot
+  missing translate bar, incorrect translations, and language detection issues.
+date: '2025-03-14'
+last_modified_at: '2026-03-10'
+permalink: chrome-translate-not-working-fix
+categories: '[troubleshooting, features]'
+tags: '[chrome-translate, translation-fix, language-settings, google-translate]'
+author: theluckystrike
 ---
 # Chrome Translate Not Working? Here's How to Fix It
 
@@ -85,10 +86,9 @@ To reset Chrome, go to Settings, then "Reset settings" in the left-hand sidebar,
 Chrome's translation feature is incredibly useful for navigating the multilingual web. When it fails, it's usually due to a simple setting or a minor conflict. By systematically checking your language settings, site-specific permissions, and extension interactions, you can almost always get it working again quickly. Remember that keeping your browser optimized with tools like **Tab Suspender Pro** can also contribute to a more stable environment for all of Chrome's built-in features.
 
 ## Related Articles
-- [Chrome Zoom Meeting Not Working Fix](/chrome-zoom-meeting-not-working-fix)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome Netflix Not Working Fix](/chrome-netflix-not-working-fix)
-
+* [Chrome Crashing on Low Memory Computer](/articles/chrome-crashing-on-low-memory-computer/)
+* [Chrome Extensions for Binaural Beats](/articles/chrome-extensions-for-binaural-beats/)
+* [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

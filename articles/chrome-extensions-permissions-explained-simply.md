@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Extensions Permissions Explained Simply"
-description: "Understanding Chrome extension permissions helps you stay safe. Learn what they mean and how to manage them. Read our comprehensive guide to learn more and b..."
+title: Chrome Extensions Permissions Explained Simply
+description: Understanding Chrome extension permissions helps you stay safe. Learn
+  what they mean and how to manage them. Read our comprehensive guide to learn more
+  and b...
 date: 2026-03-10
 last_modified_at: 2026-03-09
 permalink: chrome-extensions-permissions-explained-simply
@@ -97,7 +99,7 @@ The next time you see a permission popup, do not just click through automaticall
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Search Open Chrome Tabs](/articles/how-to-search-open-chrome-tabs/)
+* [Chrome Accessibility Features You Didn't Know About](/articles/chrome-accessibility-features-you-didnt-know-about/)
+* [chrome vs firefox memory usage 2026 actual test](/articles/chrome-vs-firefox-memory-usage-2026-actual-test/)
 
-- [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix)
-- [Chrome Extension GDPR Compliance Guide](/articles/chrome-extension-gdpr-compliance-guide)
-- [Chrome for Autofill Credit Card Safety](/articles/chrome-for-autofill-credit-card-safety)

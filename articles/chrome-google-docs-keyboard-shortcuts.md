@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "chrome google docs keyboard shortcuts"
-description: "Master chrome google docs keyboard shortcuts to speed up your workflow. Learn essential shortcuts for formatting, editing, and navigation in this guide."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-google-docs-keyboard-shortcuts"
-categories: [features, productivity]
-tags: [keyboard-shortcuts, google-docs, productivity, chrome-tips]
-author: "theluckystrike"
+layout: post
+title: chrome google docs keyboard shortcuts
+description: Master chrome google docs keyboard shortcuts to speed up your workflow.
+  Learn essential shortcuts for formatting, editing, and navigation in this guide.
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-google-docs-keyboard-shortcuts
+categories:
+- features
+- productivity
+tags:
+- keyboard-shortcuts
+- google-docs
+- productivity
+- chrome-tips
+author: theluckystrike
 ---
 # Chrome Google Docs Keyboard Shortcuts
 
@@ -84,7 +91,7 @@ With these chrome google docs keyboard shortcuts in your toolkit, you are now eq
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Autofill Wrong Address How to Fix](/articles/chrome-autofill-wrong-address-how-to-fix/)
+* [Chrome Window Management API Explained](/articles/chrome-window-management-api-explained/)
+* [Chrome Helper Renderer High CPU Mac Fix](/articles/chrome-helper-renderer-high-cpu-mac-fix/)
 
-- [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/articles/chrome-slows-down-after-opening-20-tabs)
-- [Chrome Local Storage How to Clear for One Site](/articles/chrome-local-storage-how-to-clear-for-one-site)
-- [How to Set Chrome as Default Browser Windows 11](/articles/how-to-set-chrome-as-default-browser-windows-11)

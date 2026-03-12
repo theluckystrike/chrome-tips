@@ -104,7 +104,7 @@ Check your sync settings periodically to make sure suggestions are not coming fr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Password Security Best Practices](/articles/chrome-for-password-security-best-practices/)
+* [Chrome Low Latency Mode for Gaming](/articles/chrome-low-latency-mode-for-gaming/)
+* [Chrome Notification Badge on PWA How to Enable](/articles/chrome-notification-badge-on-pwa-how-to-enable/)
 
-- [Chrome Array Groupby New Method](/articles/chrome-array-groupby-new-method)
-- [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms)
-- [Chrome Extensions for Lorem Ipsum Generator](/articles/chrome-extensions-for-lorem-ipsum-generator)

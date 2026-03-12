@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chromebook Storage Full How to Free Space"
-description: "Running out of room on your Chromebook? This guide shows simple ways to free up storage space and get your device running smoothly again. Read our comprehens..."
-date: "2025-02-20"
-last_modified_at: "2026-03-10"
-permalink: "chromebook-storage-full-how-to-free-space"
-categories: "[chromebook, troubleshooting]"
-tags: "[chromebook-storage, chromebook-free-space, chrome-os]"
-author: "theluckystrike"
+layout: post
+title: Chromebook Storage Full How to Free Space
+description: Running out of room on your Chromebook? This guide shows simple ways
+  to free up storage space and get your device running smoothly again. Read our comprehens...
+date: '2025-02-20'
+last_modified_at: '2026-03-10'
+permalink: chromebook-storage-full-how-to-free-space
+categories: '[chromebook, troubleshooting]'
+tags: '[chromebook-storage, chromebook-free-space, chrome-os]'
+author: theluckystrike
 ---
 # Chromebook Storage Full How to Free Space
 
@@ -74,7 +75,7 @@ Running out of storage on your Chromebook does not mean you need a new device. B
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs/)
+* [chrome surfshark extension review 2026](/articles/chrome-surfshark-extension-review-2026/)
+* [chrome screen reader support](/articles/chrome-screen-reader-support/)
 
-- [Chrome Extension for Reading Speed Tracker](/articles/chrome-extension-for-reading-speed-tracker)
-- [Chrome Zoom Too Big How to Fix](/articles/chrome-zoom-too-big-how-to-fix)
-- [chrome high memory usage after sleep fix](/articles/chrome-high-memory-usage-after-sleep-fix)

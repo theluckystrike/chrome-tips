@@ -1,15 +1,21 @@
 ---
-title: "Chrome Content Filtering for Families"
-description: "Learn how to set up content filtering in Chrome to protect your family from harmful websites and age-inappropriate content. Read our full guide to master your C"
-date: "2025-03-10"
-last_modified_at: '2026-03-12'
-permalink: "chrome-content-filtering-for-families"
-layout: post
-categories: ['family', 'safety']
-tags: ['content-filtering', 'parental-controls', 'family-safety', 'chrome-for-families']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: Chrome Content Filtering for Families
+description: Learn how to set up content filtering in Chrome to protect your family
+  from harmful websites and age-inappropriate content. Read our full guide to master
+  your C
+date: '2025-03-10'
+last_modified_at: '2026-03-10'
 permalink: chrome-content-filtering-for-families
+layout: post
+categories:
+- family
+- safety
+tags:
+- content-filtering
+- parental-controls
+- family-safety
+- chrome-for-families
+author: theluckystrike
 ---
 # Chrome Content Filtering for Families
 
@@ -82,7 +88,7 @@ Remember that no filter is perfect. Even the best content filtering tools can oc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome for rumble web player settings](/articles/chrome-for-rumble-web-player-settings/)
+* [Chrome Memory Inspector How to Use](/articles/chrome-memory-inspector-how-to-use/)
+* [Chrome Navigate Back With Gesture How to](/articles/chrome-navigate-back-with-gesture-how-to/)
 
-- [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/articles/chrome-your-computer-is-infected-popup-fix)
-- [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android)
-- [Chrome Open Settings Shortcut](/articles/chrome-open-settings-shortcut)

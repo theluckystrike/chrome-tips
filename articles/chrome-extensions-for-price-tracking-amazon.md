@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Price Tracking Amazon"
-description: "Discover Chrome extensions for price tracking Amazon to never overpay again. These tools help you monitor prices and buy at the right time. Check out our..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-price-tracking-amazon"
-layout: "post"
-categories: "[shopping, tips]"
-tags: "[chrome-extensions, amazon, price-tracking, shopping, deals]"
-author: "theluckystrike"
+title: Chrome Extensions for Price Tracking Amazon
+description: Discover Chrome extensions for price tracking Amazon to never overpay
+  again. These tools help you monitor prices and buy at the right time. Check out
+  our...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-price-tracking-amazon
+layout: post
+categories: '[shopping, tips]'
+tags: '[chrome-extensions, amazon, price-tracking, shopping, deals]'
+author: theluckystrike
 ---
 # Chrome Extensions for Price Tracking Amazon
 
@@ -82,7 +84,7 @@ Try starting with one extension and getting comfortable with how it works before
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Badging API Explained](/articles/chrome-badging-api-explained/)
+* [Chrome for Work vs Personal — How to Use Separate Profiles](/articles/chrome-for-work-vs-personal-separate-profiles/)
+* [Why Is My Chrome Tab Using 1GB of Memory? Here's Why and How to Fix It](/articles/chrome-tab-using-1gb-memory-why/)
 
-- [Chrome Tab From Other Device Not Showing Fix](/articles/chrome-tab-from-other-device-not-showing-fix)
-- [chrome color picker extension best](/articles/chrome-color-picker-extension-best)
-- [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix)

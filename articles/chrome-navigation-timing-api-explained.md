@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Navigation Timing API Explained
-description: Learn what the Chrome Navigation Timing API is, how it works, and why it helps measure website loading performance. Learn effective tips and tricks to optimi...
+description: Learn what the Chrome Navigation Timing API is, how it works, and why
+  it helps measure website loading performance. Learn effective tips and tricks to
+  optimi...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-navigation-timing-api-explained
@@ -75,7 +77,7 @@ Whether you are troubleshooting a slow website or just curious about how browser
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Best Settings for Online Meetings](/articles/chrome-best-settings-for-online-meetings/)
+* [Chrome AI Writing Help Feature](/articles/chrome-ai-writing-help-feature/)
+* [Chrome Extensions For Citation Generator](/articles//articles/chrome-extensions-for-citation-generator//)
 
-- [Chrome Accessibility Screen Reader Support](/articles/chrome-accessibility-screen-reader-support)
-- [Chrome Extension Review Process: How Long Does It Take](/articles/chrome-extension-review-process-how-long)
-- [Chrome Parental Controls — How to Set Up for Your Kids](/articles/chrome-parental-controls-how-to-set-up)

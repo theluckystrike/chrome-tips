@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Font Palette CSS Explained
-description: Learn what Chrome font palette CSS is, why it matters, and how to use it in your web projects. Find out more tips on how to optimize your Chrome browser expe...
+description: Learn what Chrome font palette CSS is, why it matters, and how to use
+  it in your web projects. Find out more tips on how to optimize your Chrome browser
+  expe...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-font-palette-css-explained
@@ -53,7 +55,7 @@ Whether you are building a website or just browsing the internet, knowing about 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Minimalist Browsing Setup](/articles/chrome-for-minimalist-browsing-setup/)
+* [Chrome Site Settings Permissions Explained](/articles/chrome-site-settings-permissions-explained/)
+* [Chrome vs Firefox Memory Usage Comparison 2024](/articles/chrome-vs-firefox-memory-usage-comparison-2024/)
 
-- [Chrome for Work vs Personal — How to Use Separate Profiles](/articles/chrome-for-work-vs-personal-separate-profiles)
-- [chrome for shopify store management tips](/articles/chrome-for-shopify-store-management-tips)
-- [Chrome Geolocation Override How to Test](/articles/chrome-geolocation-override-how-to-test)

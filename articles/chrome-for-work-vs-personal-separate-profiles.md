@@ -1,13 +1,21 @@
 ---
-layout: "default"
-title: "Chrome for Work vs Personal — How to Use Separate Profiles"
-description: "Keep your work and personal browsing separate in Chrome using profiles. Setup guide, benefits, and tips for managing multiple Chrome identities. Check out our"
-date: "2025-03-02"
-last_modified_at: "2026-03-11"
-permalink: "chrome-for-work-vs-personal-separate-profiles"
-categories: [productivity, profiles]
-tags: [chrome-profiles, work-personal, browser-profiles, productivity]
-author: "theluckystrike"
+layout: default
+title: Chrome for Work vs Personal — How to Use Separate Profiles
+description: Keep your work and personal browsing separate in Chrome using profiles.
+  Setup guide, benefits, and tips for managing multiple Chrome identities. Check out
+  our
+date: '2025-03-02'
+last_modified_at: '2026-03-11'
+permalink: chrome-for-work-vs-personal-separate-profiles
+categories:
+- productivity
+- profiles
+tags:
+- chrome-profiles
+- work-personal
+- browser-profiles
+- productivity
+author: theluckystrike
 ---
 # Chrome for Work vs Personal — How to Use Separate Profiles
 
@@ -78,7 +86,7 @@ Transitioning to a multi-profile workflow takes about five minutes to set up, bu
 *Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
 
 ## Related Articles
+* [Chrome Extensions for Musicians and Producers](/articles/chrome-extensions-for-musicians-and-producers/)
+* [Chrome Not Enough Memory Error](/articles/chrome-not-enough-memory-error/)
+* [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools/)
 
-- [Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab](/articles/chrome-duplicate-tab-shortcut-trick)
-- [Chrome Payment Methods How to Remove](/articles/chrome-payment-methods-how-to-remove)
-- [Chrome Bookmarks File Location and Backup Guide](/articles/chrome-bookmarks-file-location-backup)

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Pomodoro Timer Extensions
-description: Discover the best Chrome for pomodoro timer extensions to enhance focus, manage work sessions, and improve productivity with browser-based time tracking
+description: Discover the best Chrome for pomodoro timer extensions to enhance focus,
+  manage work sessions, and improve productivity with browser-based time tracking
 date: 2026-03-10
 categories:
 - productivity
@@ -80,7 +81,7 @@ Start with one extension and give it a fair trial before trying others. Building
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Best Chrome Setup for Elderly Parents](/articles/best-chrome-setup-for-elderly-parents/)
+* [How to Reduce Number of Open Tabs](/articles/how-to-reduce-number-of-open-tabs/)
+* [Chrome Vibration API: A Complete Guide for Mobile Web Developers](/articles/chrome-vibration-api-mobile-web/)
 
-- [How to Block Ads on Chrome Without Extension](/articles/how-to-block-ads-on-chrome-without-extension)
-- [Chrome Enable Cookies for One Site How to](/articles/chrome-enable-cookies-for-one-site-how-to)
-- [Chrome CORS Error Explained in Simple Terms](/articles/chrome-cors-error-explained-simple-terms)

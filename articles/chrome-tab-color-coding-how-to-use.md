@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Tab Color Coding How to Use
-description: Learn how to color code your Chrome tabs for better organization. Simple tips to visually organize your browser and find tabs faster. Read our comprehensive gui
+description: Learn how to color code your Chrome tabs for better organization. Simple
+  tips to visually organize your browser and find tabs faster. Read our comprehensive
+  gui
 date: 2026-01-15
 categories:
 - productivity
@@ -67,7 +69,7 @@ Give it a try. Spend a few minutes setting up tab groups with colors that make s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Should I Use Chrome or Edge in 2026?](/articles/should-i-use-chrome-or-edge-2026/)
+* [How to Clear Cookies for One Site in Chrome](/articles/how-to-clear-cookies-for-one-site-in-chrome/)
+* [Chrome DevTools Override Files Locally](/articles/chrome-devtools-override-files-locally/)
 
-- [Chrome Iterator Helpers Explained](/articles/chrome-iterator-helpers-explained)
-- [Chrome Data Usage On Phone How To Reduce](/articles//chrome-data-usage-on-phone-how-to-reduce/)
-- [Chrome Ad Personalization How To Turn Off](/articles/chrome-ad-personalization-how-to-turn-off)

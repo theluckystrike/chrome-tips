@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Notifications Permission Per Site
-description: Learn how to manage Chrome notifications permission per site and control which websites can send you alerts. Learn effective tips and tricks to optimize your...
+description: Learn how to manage Chrome notifications permission per site and control
+  which websites can send you alerts. Learn effective tips and tricks to optimize
+  your...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-notifications-permission-per-site
@@ -81,7 +83,7 @@ The most important thing is to regularly check who has permission to notify you.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users/)
+* [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix/)
+* [Chrome for Proxy Settings How to Configure](/articles/chrome-for-proxy-settings-how-to-configure/)
 
-- [Chrome Toolbar Missing Fix](/articles/chrome-toolbar-missing-fix)
-- [Chrome for Gesture Navigation Desktop](/articles/chrome-for-gesture-navigation-desktop)
-- [Is 4GB RAM Enough for Chrome in 2026?](/articles/is-4gb-ram-enough-for-chrome-in-2026)

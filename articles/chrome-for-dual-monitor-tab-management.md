@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome for dual monitor tab management
-description: Learn how to manage tabs across dual monitors in Chrome. Discover extensions and built-in features that make working with multiple displays effortless.
+description: Learn how to manage tabs across dual monitors in Chrome. Discover extensions
+  and built-in features that make working with multiple displays effortless.
 date: 2026-01-15
 categories:
 - extensions
@@ -70,7 +71,7 @@ Taking time to organize your tabs might seem like extra work, but it pays off in
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for ChatGPT Web App Best Extensions](/articles/chrome-for-chatgpt-web-app-best-extensions/)
+* [Chrome Net Internals How to Use](/articles/chrome-net-internals-how-to-use/)
+* [Chrome Extensions for Website Speed Test](/articles/chrome-extensions-for-website-speed-test/)
 
-- [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes)
-- [How to Use Chrome Read Later: Save Articles for Offline Reading](/articles/chrome-read-later-save-articles-offline)
-- [Chrome for Airbnb Browsing Best Extensions](/articles/chrome-for-airbnb-browsing-best-extensions)

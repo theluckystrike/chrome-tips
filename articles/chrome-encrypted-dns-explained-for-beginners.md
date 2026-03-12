@@ -1,13 +1,15 @@
 ---
-title: "Chrome Encrypted DNS Explained for Beginners"
-description: "Learn what Chrome encrypted DNS is, why it protects your privacy, and how to enable it in simple steps. Check out our expert recommendations and step-by-step in"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-encrypted-dns-explained-for-beginners"
-layout: "post"
-categories: "[privacy, security, chrome]"
-tags: "[chrome-encrypted-dns, privacy, security, browser-settings]"
-author: "theluckystrike"
+title: Chrome Encrypted DNS Explained for Beginners
+description: Learn what Chrome encrypted DNS is, why it protects your privacy, and
+  how to enable it in simple steps. Check out our expert recommendations and step-by-step
+  in
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-encrypted-dns-explained-for-beginners
+layout: post
+categories: '[privacy, security, chrome]'
+tags: '[chrome-encrypted-dns, privacy, security, browser-settings]'
+author: theluckystrike
 ---
 # Chrome Encrypted DNS Explained for Beginners
 
@@ -74,10 +76,9 @@ Remember that encrypted DNS is just one layer of online privacy. Using a reputab
 ---
 
 ## Related Articles
-- [Chrome Blink Engine Explained For Beginners](/chrome-blink-engine-explained-for-beginners)
-- [Chrome Passkeys Explained for Beginners](/chrome-passkeys-explained-for-beginners)
-- [Chrome WebAuthn Explained for Regular Users](/chrome-webauthn-explained-for-regular-users)
-
+* [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-explained/)
+* [Chrome WebRTC Leak Test and Fix Guide](/articles/chrome-webrtc-leak-test-and-fix-guide/)
+* [Chrome for Password Security Best Practices](/articles/chrome-for-password-security-best-practices/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

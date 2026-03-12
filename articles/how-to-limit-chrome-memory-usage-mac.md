@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Limit Chrome Memory Usage Mac"
-description: "Learn how to limit Chrome memory usage on Mac with practical tips. Reduce RAM consumption and make your browser run faster. Read our comprehensive guide to l..."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "how-to-limit-chrome-memory-usage-mac"
-categories: "[performance, browsers, mac]"
-tags: "[chrome-memory, mac-performance, memory-usage, chrome-optimization]"
-author: "theluckystrike"
+layout: post
+title: How to Limit Chrome Memory Usage Mac
+description: Learn how to limit Chrome memory usage on Mac with practical tips. Reduce
+  RAM consumption and make your browser run faster. Read our comprehensive guide to
+  l...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: how-to-limit-chrome-memory-usage-mac
+categories: '[performance, browsers, mac]'
+tags: '[chrome-memory, mac-performance, memory-usage, chrome-optimization]'
+author: theluckystrike
 ---
 # How to Limit Chrome Memory Usage Mac
 
@@ -84,7 +86,7 @@ Start with the built-in Memory Saver feature, which requires no additional insta
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Slow on Surface Pro Fix](/articles/chrome-slow-on-surface-pro-fix/)
+* [Chrome Saved Addresses How to Edit](/articles/chrome-saved-addresses-how-to-edit/)
+* [Chrome Nesting CSS Native Support](/articles/chrome-nesting-css-native-support/)
 
-- [Chrome Extensions for Musicians and Producers](/articles/chrome-extensions-for-musicians-and-producers)
-- [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix)
-- [chrome enable parallel downloading](/articles/chrome-enable-parallel-downloading)

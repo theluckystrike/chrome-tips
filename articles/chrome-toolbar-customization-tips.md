@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Toolbar Customization Tips"
-description: "Learn how to customize your Chrome toolbar for a more productive browsing experience with these simple tips. Read our comprehensive guide to learn more and o..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-toolbar-customization-tips"
-categories: "[tips, chrome]"
-tags: "[chrome, browser, toolbar, customization, productivity]"
-author: "theluckystrike"
+layout: post
+title: Chrome Toolbar Customization Tips
+description: Learn how to customize your Chrome toolbar for a more productive browsing
+  experience with these simple tips. Read our comprehensive guide to learn more and
+  o...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-toolbar-customization-tips
+categories: '[tips, chrome]'
+tags: '[chrome, browser, toolbar, customization, productivity]'
+author: theluckystrike
 ---
 # Chrome Toolbar Customization Tips
 
@@ -64,10 +66,9 @@ Start with small changes, like moving your most-used extension to a more accessi
 ---
 
 ## Related Articles
-- [Chrome Work Profile Vs Personal Profile Tips](/chrome-work-profile-vs-personal-profile-tips)
-- [Chrome For Stripe Dashboard Tips](/chrome-for-stripe-dashboard-tips)
-- [Chrome Toolbar Missing Fix](/chrome-toolbar-missing-fix)
-
+* [chrome sync what it saves](/articles/chrome-sync-what-it-saves/)
+* [Chrome CORS Error Explained in Simple Terms](/articles/chrome-cors-error-explained-simple-terms/)
+* [Chrome Incognito Mode: Actually Private or Just a False Sense of Security?](/articles/chrome-incognito-mode-actually-private-or-not/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Chrome File System Access API: A Complete Guide"
-description: "Learn how the Chrome File System Access API enables web apps to read, write, and manage local files directly from the browser. Read our comprehensive guide t..."
+title: 'Chrome File System Access API: A Complete Guide'
+description: Learn how the Chrome File System Access API enables web apps to read,
+  write, and manage local files directly from the browser. Read our comprehensive
+  guide t...
 date: 2026-03-11
-last_modified_at: 2026-03-11
-permalink: chrome-file-system-access-api
-categories: [web-development, tips]
-tags: [chrome-api, file-system, web-development, browser-features]
-author: theluckystrike
 last_modified_at: '2026-03-11'
 permalink: chrome-file-system-access-api
+categories:
+- web-development
+- tips
+tags:
+- chrome-api
+- file-system
+- web-development
+- browser-features
+author: theluckystrike
 ---
 # Chrome File System Access API: A Complete Guide
 
@@ -72,10 +78,9 @@ This shift has profound implications for how we think about software distributio
 ---
 
 ## Related Articles
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
-- [Chrome Local Font Access API Explained](/chrome-local-font-access-api-explained)
-
+* [How to Fix Chrome Cache Too Large and Slow Performance](/articles/chrome-cache-too-large-slow-fix/)
+* [Best Chrome Android Flags to Enable](/articles/best-chrome-android-flags-to-enable/)
+* [Chrome Toggle Fullscreen Shortcut](/articles/chrome-toggle-fullscreen-shortcut/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

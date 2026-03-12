@@ -1,13 +1,15 @@
 ---
-layout: "default"
-title: "How to Stop Chrome from Suspending My Tabs"
-description: "Chrome keeps suspending your tabs and reloading them constantly? Learn practical solutions to stop Chrome from suspending your tabs and regain control of you..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "how-to-stop-chrome-from-suspending-my-tabs"
-categories: "[performance, tab-management]"
-tags: "[chrome-tabs, tab-suspension, chrome-freezing, slow-computer, low-ram]"
-author: "theluckystrike"
+layout: default
+title: How to Stop Chrome from Suspending My Tabs
+description: Chrome keeps suspending your tabs and reloading them constantly? Learn
+  practical solutions to stop Chrome from suspending your tabs and regain control
+  of you...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: how-to-stop-chrome-from-suspending-my-tabs
+categories: '[performance, tab-management]'
+tags: '[chrome-tabs, tab-suspension, chrome-freezing, slow-computer, low-ram]'
+author: theluckystrike
 ---
 # How to Stop Chrome from Suspending My Tabs
 
@@ -120,10 +122,9 @@ Remember, Chrome's tab suspension is trying to help you, but it doesn't always k
 ---
 
 ## Related Articles
-- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)
-- [How to Stop Chrome from Eating Your RAM](/how-to-stop-chrome-from-eating-ram)
-- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
-
+* [chrome privacy sandbox explained simply](/articles/chrome-privacy-sandbox-explained-simply/)
+* [Chrome Large Font Easy to Read Setup](/articles/chrome-large-font-easy-to-read-setup/)
+* [Chrome Extension for Tracking Time Spent on Websites](/articles/chrome-extension-for-tracking-time-spent-on-websites/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

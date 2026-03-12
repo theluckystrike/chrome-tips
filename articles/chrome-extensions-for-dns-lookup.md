@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Dns Lookup"
-description: "Discover how Chrome Extensions For Dns Lookup can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings to bo..."
+title: Chrome Extensions For Dns Lookup
+description: Discover how Chrome Extensions For Dns Lookup can transform your browsing.
+  This comprehensive 2026 guide covers the best Chrome extensions and settings to
+  bo...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-dns-lookup/
@@ -50,7 +52,7 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on keeping 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app/)
+* [Chrome Freezes When Opening New Tab Fix](/articles/chrome-freezes-when-opening-new-tab-fix/)
+* [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord//)
 
-- [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/articles/chrome-vs-edge-on-windows-11)
-- [Chrome ERR_QUIC_PROTOCOL_ERROR Fix](/articles/chrome-err-quic-protocol-error-fix)
-- [Chrome Enable Cookies for One Site How to](/articles/chrome-enable-cookies-for-one-site-how-to)

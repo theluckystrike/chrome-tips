@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "Chrome Google Translate Built in Feature Tips"
-description: "Learn how to use Chrome's built-in Google Translate feature to read any webpage in your language. Quick tips for everyday users. Check out our expert recommend"
-date: "2025-03-14"
-last_modified_at: "2026-03-10"
-permalink: "chrome-google-translate-built-in-feature-tips"
-categories: [features, translation]
-tags: [chrome-translate, google-translate, translation-feature, language]
-author: "theluckystrike"
+layout: post
+title: Chrome Google Translate Built in Feature Tips
+description: Learn how to use Chrome's built-in Google Translate feature to read any
+  webpage in your language. Quick tips for everyday users. Check out our expert recommend
+date: '2025-03-14'
+last_modified_at: '2026-03-10'
+permalink: chrome-google-translate-built-in-feature-tips
+categories:
+- features
+- translation
+tags:
+- chrome-translate
+- google-translate
+- translation-feature
+- language
+author: theluckystrike
 ---
 # Chrome Google Translate Built in Feature Tips
 
@@ -64,7 +71,7 @@ Chrome also caches translated pages, which means subsequent visits load faster. 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Productivity Students](/articles/chrome-extensions-for-productivity-students/)
+* [Chrome Text Wrap Balance CSS](/articles/chrome-text-wrap-balance-css/)
+* [Chrome for Facebook Best Extensions](/articles/chrome-for-facebook-best-extensions/)
 
-- [Best Browser for 2GB RAM Laptop 2026](/articles/best-browser-for-2gb-ram-laptop-2026)
-- [Chrome Screenshot Full Page Without Extension](/articles/chrome-screenshot-full-page-without-extension)
-- [chrome how to add trusted sites](/articles/chrome-how-to-add-trusted-sites)

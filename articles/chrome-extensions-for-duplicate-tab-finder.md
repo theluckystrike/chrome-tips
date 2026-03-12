@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Duplicate Tab Finder"
-description: "Discover how Chrome Extensions For Duplicate Tab Finder can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and sett..."
+title: Chrome Extensions For Duplicate Tab Finder
+description: Discover how Chrome Extensions For Duplicate Tab Finder can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
+  sett...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-duplicate-tab-finder/
@@ -58,7 +60,7 @@ Extensions like Tab Suspender Pro and others in the Chrome Web Store make this p
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Waze Web Tips](/articles/chrome-for-waze-web-tips/)
+* [Chrome for Todoist Web App Best Settings](/articles/chrome-for-todoist-web-app-best-settings/)
+* [Chrome Too Many Redirects Error Fix](/articles/chrome-too-many-redirects-error-fix/)
 
-- [Chrome Nesting CSS Explained](/articles/chrome-nesting-css-explained)
-- [Chrome Extension for Spotify Lyrics](/articles/chrome-extension-for-spotify-lyrics)
-- [chrome how to add trusted sites](/articles/chrome-how-to-add-trusted-sites)

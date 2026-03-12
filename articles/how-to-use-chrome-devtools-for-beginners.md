@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "How to Use Chrome DevTools for Beginners"
-description: "A beginner-friendly guide to Chrome Developer Tools. Learn how to inspect web pages, debug issues, and explore the web behind the scenes. Read our comprehens..."
-date: "2025-02-19"
-last_modified_at: "2026-03-10"
-permalink: "how-to-use-chrome-devtools-for-beginners"
-categories: "[browser-tips, web-development]"
-tags: "[developer-tools, chrome, beginners, troubleshooting]"
-author: "theluckystrike"
+layout: post
+title: How to Use Chrome DevTools for Beginners
+description: A beginner-friendly guide to Chrome Developer Tools. Learn how to inspect
+  web pages, debug issues, and explore the web behind the scenes. Read our comprehens...
+date: '2025-02-19'
+last_modified_at: '2026-03-10'
+permalink: how-to-use-chrome-devtools-for-beginners
+categories: '[browser-tips, web-development]'
+tags: '[developer-tools, chrome, beginners, troubleshooting]'
+author: theluckystrike
 ---
 # How to Use Chrome DevTools for Beginners
 
@@ -88,7 +89,7 @@ DevTools opens up a world of understanding about how the web works. Even basic f
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [chrome for google flights tips and tricks](/articles/chrome-for-google-flights-tips-and-tricks/)
+* [Chrome Extensions for Grammarly Alternative Free](/articles/chrome-extensions-for-grammarly-alternative-free/)
+* [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings/)
 
-- [Chrome for Microsoft Teams in Browser Tips](/articles/chrome-for-microsoft-teams-in-browser-tips)
-- [Chrome Extensions for Ambient Noise](/articles/chrome-extensions-for-ambient-noise)
-- [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage)

@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Limit Chrome RAM Usage on Windows"
-description: "Practical step-by-step solutions to reduce Chrome RAM usage on Windows. Perfect for users with slow computers and limited memory. Read our comprehensive guid..."
-date: "2025-02-19"
-last_modified_at: "2026-03-11"
-permalink: "how-to-limit-chrome-ram-usage-windows"
-categories: "[performance, memory, windows]"
-tags: "[chrome-ram, windows-ram, browser-performance, ram-usage]"
-author: "theluckystrike"
+layout: post
+title: How to Limit Chrome RAM Usage on Windows
+description: Practical step-by-step solutions to reduce Chrome RAM usage on Windows.
+  Perfect for users with slow computers and limited memory. Read our comprehensive
+  guid...
+date: '2025-02-19'
+last_modified_at: '2026-03-11'
+permalink: how-to-limit-chrome-ram-usage-windows
+categories: '[performance, memory, windows]'
+tags: '[chrome-ram, windows-ram, browser-performance, ram-usage]'
+author: theluckystrike
 ---
 # How to Limit Chrome RAM Usage on Windows
 
@@ -125,10 +127,9 @@ The goal is not to use Chrome less but to use it smarter. With these steps, you 
 ---
 
 ## Related Articles
-- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
-- [Chrome Opens on Startup Windows: How to Stop](/chrome-opens-on-startup-windows-how-to-stop)
-- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
-
+* [Best Chrome Extensions for GitHub](/articles/best-chrome-extensions-for-github/)
+* [chrome enhanced tracking protection setup](/articles/chrome-enhanced-tracking-protection-setup/)
+* [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

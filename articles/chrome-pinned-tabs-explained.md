@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Pinned Tabs Explained
-description: Learn what chrome pinned tabs are, why they help, and how to use them effectively to stay organized. Learn effective tips and tricks to optimize your Chrome ...
+description: Learn what chrome pinned tabs are, why they help, and how to use them
+  effectively to stay organized. Learn effective tips and tricks to optimize your
+  Chrome ...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-pinned-tabs-explained
@@ -14,8 +16,6 @@ tags:
 - browser-tips
 - chrome-tips
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-pinned-tabs-explained
 ---
 # Chrome Pinned Tabs Explained
 
@@ -74,10 +74,9 @@ Finally, remember that pinned tabs are not the only tool available for managing 
 ---
 
 ## Related Articles
-- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
-- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-
+* [Chrome for Notion Web Clipper Setup](/articles/chrome-for-notion-web-clipper-setup/)
+* [Chrome Frame Rate How to Check](/articles/chrome-frame-rate-how-to-check/)
+* [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

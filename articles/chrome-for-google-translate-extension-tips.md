@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome for google translate extension tips
-description: Learn helpful tips for using Google Translate extension in Chrome. Discover how to translate web pages easily and improve your multilingual browsing experience
+description: Learn helpful tips for using Google Translate extension in Chrome. Discover
+  how to translate web pages easily and improve your multilingual browsing experience
 date: 2026-01-15
 categories:
 - extensions
@@ -81,7 +82,7 @@ Give these tips a try and experiment with different settings. You might be surpr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Enable Chrome Smooth Scrolling](/articles/how-to-enable-chrome-smooth-scrolling/)
+* [Chrome Built in Password Checkup How to Use](/articles/chrome-built-in-password-checkup-how-to-use/)
+* [Chrome for Travel Planning: Best Extensions](/articles/chrome-for-travel-planning-best-extensions/)
 
-- [Chrome Extensions for Quick Notes Sidebar](/articles/chrome-extensions-for-quick-notes-sidebar)
-- [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-explained)
-- [How to Export Chrome Passwords](/articles/how-to-export-chrome-passwords)

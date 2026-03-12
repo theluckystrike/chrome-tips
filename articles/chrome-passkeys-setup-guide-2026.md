@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Passkeys Setup Guide 2026
-description: Learn how to set up and configure passkeys in Chrome with this comprehensive 2026 guide. Step-by-step instructions for enabling, managing, and troubleshootin...
+description: Learn how to set up and configure passkeys in Chrome with this comprehensive
+  2026 guide. Step-by-step instructions for enabling, managing, and troubleshootin...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-passkeys-setup-guide-2026
@@ -17,8 +18,6 @@ tags:
 - web-authentication
 - chrome-2026
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-passkeys-setup-guide-2026
 ---
 # Chrome Passkeys Setup Guide 2026
 
@@ -107,10 +106,9 @@ Start by converting your most important accounts—email, banking, and shopping 
 ---
 
 ## Related Articles
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
-- [Chrome Privacy Settings Complete Guide 2026](/chrome-privacy-settings-complete-guide-2026)
-- [Chrome Passkeys Guide 2026](/chrome-passkeys-guide-2026)
-
+* [Chrome Easter Eggs Complete List 2026](/articles/chrome-easter-eggs-complete-list-2026/)
+* [How to Inspect CSS Animations and Transitions in Chrome DevTools](/articles/chrome-animations-panel-inspect-transitions/)
+* [Chrome WebStore Extensions Not Installing Fix](/articles/chrome-webstore-extensions-not-installing-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Picture in Picture How to Use
-description: Learn how to use Chrome's Picture in Picture feature to watch videos in a floating window while browsing other tabs. Learn effective tips and tricks to optim...
+description: Learn how to use Chrome's Picture in Picture feature to watch videos
+  in a floating window while browsing other tabs. Learn effective tips and tricks
+  to optim...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-picture-in-picture-how-to-use
@@ -103,10 +105,9 @@ Picture in Picture is one of those Chrome features that becomes indispensable on
 ---
 
 ## Related Articles
-- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
-- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
-- [Chrome Virus Scan Built in How to Use](/chrome-virus-scan-built-in-how-to-use)
-
+* [Chrome Extensions for Organizing Research](/articles/chrome-extensions-for-organizing-research/)
+* [How to Close All Chrome Tabs at Once](/articles/how-to-close-all-chrome-tabs-at-once/)
+* [Chrome Extensions for Weather Forecast New Tab](/articles/chrome-extensions-for-weather-forecast-new-tab/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

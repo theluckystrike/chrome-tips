@@ -149,10 +149,9 @@ For users who frequently download large files, keeping your browser organized ca
 With these solutions in hand, you should be able to get your files downloaded and moving again.
 
 ## Related Articles
-- [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/i-have-100-tabs-open-chrome-is-dying)
-- [Chrome Downloads Not Starting Fix](/chrome-downloads-not-starting-fix)
-- [Chrome Downloads Tips Organize and Manage](/chrome-downloads-tips-organize-and-manage)
-
+* [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing/)
+* [Chrome Mixed Content Warning What It Means](/articles/chrome-mixed-content-warning-what-it-means/)
+* [Best Chrome Extensions for Photographers](/articles/best-chrome-extensions-for-photographers/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

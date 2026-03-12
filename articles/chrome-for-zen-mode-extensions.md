@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome for Zen Mode Extensions"
-description: "Discover Chrome extensions that help create a calm, distraction-free browsing experience for focused work and relaxation. Check out our expert recommendations"
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-zen-mode-extensions"
-categories: [productivity, zen, focus]
-tags: [chrome-extensions, zen-mode, distraction-free, mindfulness]
-author: "theluckystrike"
+layout: post
+title: Chrome for Zen Mode Extensions
+description: Discover Chrome extensions that help create a calm, distraction-free
+  browsing experience for focused work and relaxation. Check out our expert recommendations
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-zen-mode-extensions
+categories:
+- productivity
+- zen
+- focus
+tags:
+- chrome-extensions
+- zen-mode
+- distraction-free
+- mindfulness
+author: theluckystrike
 ---
 # Chrome for Zen Mode Extensions
 
@@ -64,7 +72,7 @@ Remember that chrome for zen mode extensions are tools to help you, not rules to
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Whois Lookup](/articles/chrome-extensions-for-whois-lookup/)
+* [Chrome Audio Fingerprinting What It Is](/articles/chrome-audio-fingerprinting-what-it-is/)
+* [Chrome Overrides for Local Development](/articles/chrome-overrides-local-development/)
 
-- [Chrome Set Methods: Union and Intersection Made Simple](/articles/chrome-set-methods-union-intersection)
-- [Chrome Keeps Stopping on Android Fix](/articles/chrome-keeps-stopping-on-android-fix)
-- [Chrome Super Cookies: What Are They](/articles/chrome-super-cookies-what-are-they)

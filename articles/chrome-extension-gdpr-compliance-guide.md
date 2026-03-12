@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extension GDPR Compliance Guide"
-description: "Learn how to make your Chrome extension GDPR compliant. Cover data processing, user consent, data subject rights, and privacy policy requirements. Discover h..."
-date: "2026-03-11"
-last_modified_at: "2026-03-11"
-permalink: "chrome-extension-gdpr-compliance-guide"
-layout: "post"
-categories: "[security, extensions, privacy]"
-tags: "[chrome-extensions, gdpr, privacy, compliance]"
-author: "theluckystrike"
+title: Chrome Extension GDPR Compliance Guide
+description: Learn how to make your Chrome extension GDPR compliant. Cover data processing,
+  user consent, data subject rights, and privacy policy requirements. Discover h...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-extension-gdpr-compliance-guide
+layout: post
+categories: '[security, extensions, privacy]'
+tags: '[chrome-extensions, gdpr, privacy, compliance]'
+author: theluckystrike
 ---
 # Chrome Extension GDPR Compliance Guide
 
@@ -485,10 +486,9 @@ For additional privacy features in your extension workflow, consider exploring t
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Extensions for Therapists and Counselors](/articles/chrome-extensions-for-therapists-and-counselors/)
+* [Chrome Notifications Permission Per Site](/articles/chrome-notifications-permission-per-site/)
+* [chrome reopen closed tab shortcut](/articles/chrome-reopen-closed-tab-shortcut/)
 
-## Related Articles
-
-- [Chrome Keeps Freezing Every Few Minutes: Causes and Fixes](/articles/chrome-keeps-freezing-every-few-minutes)
-- [Chrome Overscroll Behavior CSS](/articles/chrome-overscroll-behavior-css)
-- [Ungoogled Chromium What It Is and How to Install](/articles/ungoogled-chromium-what-it-is-and-how-to-install)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

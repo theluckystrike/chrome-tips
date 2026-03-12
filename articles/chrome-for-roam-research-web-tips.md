@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Roam Research Web Tips
-description: 'Discover Chrome tips for Roam Research users to enhance web research, organize tabs, and boost productivity while browsing. Discover more tips and tricks to '
+description: 'Discover Chrome tips for Roam Research users to enhance web research,
+  organize tabs, and boost productivity while browsing. Discover more tips and tricks
+  to '
 date: 2026-01-15
 categories:
 - productivity
@@ -88,7 +90,7 @@ Remember to keep your tab count manageable, use bookmarks as a backup organizati
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Capture Full Page Screenshots in Chrome Using DevTools](/articles/chrome-screenshot-capture-devtools-full-page/)
+* [Chrome Virtual Keyboard API for Mobile - Complete Guide](/articles/chrome-virtual-keyboard-api-mobile/)
+* [Chrome Extensions For Citation Generator](/articles//articles/chrome-extensions-for-citation-generator//)
 
-- [Chrome Devtools Edit HTML Live](/articles//chrome-devtools-edit-html-live/)
-- [Chrome Multiple Users on Same Computer Setup](/articles/chrome-multiple-users-on-same-computer-setup)
-- [Chrome Extensions for Language Learning](/articles/chrome-extensions-for-language-learning)

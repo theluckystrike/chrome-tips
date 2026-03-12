@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "chrome web apps how to install"
-description: "Learn how to install web apps in Chrome with simple steps. Turn websites into standalone apps for faster access and better organization. Read our comprehensi..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-web-apps-how-to-install"
-categories: "[productivity, tips]"
-tags: "[web-apps, pwa, install-app, chrome-settings]"
-author: "theluckystrike"
+layout: post
+title: chrome web apps how to install
+description: Learn how to install web apps in Chrome with simple steps. Turn websites
+  into standalone apps for faster access and better organization. Read our comprehensi...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-web-apps-how-to-install
+categories: '[productivity, tips]'
+tags: '[web-apps, pwa, install-app, chrome-settings]'
+author: theluckystrike
 ---
 # Chrome Web Apps How to Install
 
@@ -82,7 +83,7 @@ Web apps may also sometimes lose their connection or stop working if the website
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom/)
+* [Chrome for Accessibility Testing Extensions](/articles/chrome-for-accessibility-testing-extensions/)
+* [chrome extensions for image reverse search](/articles/chrome-extensions-for-image-reverse-search/)
 
-- [Chrome Scrolling is Choppy and Laggy](/articles/chrome-scrolling-is-choppy-and-laggy)
-- [Chrome Camera Permission for One Site How to Set](/articles/chrome-camera-permission-for-one-site-how-to-set)
-- [Chrome for Binance Web Trading Tips](/articles/chrome-for-binance-web-trading-tips)

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Replit in Browser Tips
-description: Get the most out of Chrome when using Replit in your browser. Tips for better performance, tab management, and productivity. Discover more tips and tricks to
+description: Get the most out of Chrome when using Replit in your browser. Tips for
+  better performance, tab management, and productivity. Discover more tips and tricks
+  to
 date: 2025-02-19
 categories:
 - productivity
@@ -66,7 +68,7 @@ Another helpful habit is to close tabs you are not actively using. It sounds sim
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out/)
+* [Chrome for Slack Web App Best Settings](/articles/chrome-for-slack-web-app-best-settings/)
+* [Chrome About Pages List Explained](/articles/chrome-about-pages-list-explained/)
 
-- [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows)
-- [Chrome Precaching vs Runtime Caching](/articles/chrome-precaching-vs-runtime-caching)
-- [chrome scrollbar styling css](/articles/chrome-scrollbar-styling-css)

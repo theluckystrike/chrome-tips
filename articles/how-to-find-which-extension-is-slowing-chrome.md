@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Find Which Extension is Slowing Chrome"
-description: "Is your Chrome browser running slow? Learn how to identify and disable the extensions that are consuming too much RAM and slowing down your computer. Read ou..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "how-to-find-which-extension-is-slowing-chrome"
-categories: "[performance, chrome-extensions]"
-tags: "[chrome-extensions, slow-chrome, fix-slow-chrome, extension-manager, improve-chrome-performance]"
-author: "theluckystrike"
+layout: post
+title: How to Find Which Extension is Slowing Chrome
+description: Is your Chrome browser running slow? Learn how to identify and disable
+  the extensions that are consuming too much RAM and slowing down your computer. Read
+  ou...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: how-to-find-which-extension-is-slowing-chrome
+categories: '[performance, chrome-extensions]'
+tags: '[chrome-extensions, slow-chrome, fix-slow-chrome, extension-manager, improve-chrome-performance]'
+author: theluckystrike
 ---
 # How to Find Which Extension is Slowing Chrome
 
@@ -102,10 +104,9 @@ Learning how to find which extension is slowing Chrome is a valuable skill that 
 Take a few minutes to review your extensions today. Remove the ones you do not need, keep the ones you use, and consider tools like Tab Suspender Pro to help manage memory automatically. Your computer will thank you.
 
 ## Related Articles
-- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
-- [How to Check If Chrome Extension Is Spying on Me](/how-to-check-if-chrome-extension-is-spying-on-me)
-- [Chrome Secure DNS: What It Is and How to Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)
-
+* [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained/)
+* [Chromebook vs Windows Laptop for Browsing](/articles/chromebook-vs-windows-laptop-for-browsing/)
+* [Chrome Extensions for HTTP Header Viewer](/articles/chrome-extensions-for-http-header-viewer/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

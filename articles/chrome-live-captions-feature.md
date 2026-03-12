@@ -1,13 +1,21 @@
 ---
-layout: "default"
-title: "Chrome Live Captions Feature Guide"
-description: "Learn how to enable and use Chrome Live Captions for accessibility. Complete guide covering supported languages, caption accuracy, and accessibility features..."
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "chrome-live-captions-feature"
-categories: [accessibility, chrome-features, browser-tips]
-tags: [chrome-live-captions, accessibility-features, browser-accessibility, captions]
-author: "theluckystrike"
+layout: default
+title: Chrome Live Captions Feature Guide
+description: Learn how to enable and use Chrome Live Captions for accessibility. Complete
+  guide covering supported languages, caption accuracy, and accessibility features...
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-live-captions-feature
+categories:
+- accessibility
+- chrome-features
+- browser-tips
+tags:
+- chrome-live-captions
+- accessibility-features
+- browser-accessibility
+- captions
+author: theluckystrike
 ---
 # Chrome Live Captions Feature Guide
 
@@ -132,10 +140,9 @@ Remember to keep your Chrome browser updated to enjoy the latest improvements in
 ---
 
 ## Related Articles
-- [Chrome Closed Captions on Any Video](/chrome-closed-captions-on-any-video)
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
-- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
-
+* [Chrome for Replit in Browser Tips](/articles/chrome-for-replit-in-browser-tips/)
+* [Chrome Using Too Much Disk Space Fix](/articles/chrome-using-too-much-disk-space-fix/)
+* [Chrome Extensions for IP Address Lookup](/articles/chrome-extensions-for-ip-address-lookup/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

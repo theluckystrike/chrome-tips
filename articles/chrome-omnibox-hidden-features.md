@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Omnibox Hidden Features
-description: Discover hidden Chrome Omnibox features including tab search, Google Drive search, built-in calculator, timer, and unit conversions. Supercharge your browser...
+description: Discover hidden Chrome Omnibox features including tab search, Google
+  Drive search, built-in calculator, timer, and unit conversions. Supercharge your
+  browser...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-omnibox-hidden-features
@@ -15,8 +17,6 @@ tags:
 - productivity
 - hidden-features
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-omnibox-hidden-features
 ---
 # Chrome Omnibox Hidden Features
 
@@ -154,10 +154,9 @@ The Omnibox continues to evolve as Google adds new features and improvements. Ke
 ---
 
 ## Related Articles
-- [How To Enable Chrome Experimental Features](/how-to-enable-chrome-experimental-features)
-- [Chrome Mobile vs Desktop Features Difference: What You Need to Know](/chrome-mobile-vs-desktop-features-difference)
-- [Chrome Upcoming Features Roadmap 2026](/chrome-upcoming-features-roadmap-2026)
-
+* [How to Import Bookmarks from Firefox to Chrome](/articles/how-to-import-bookmarks-from-firefox-to-chrome/)
+* [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained/)
+* [Chrome Navigate to Next Search Result Shortcut](/articles/chrome-navigate-to-next-search-result-shortcut/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

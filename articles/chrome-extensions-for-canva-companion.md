@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Canva Companion"
-description: "Discover how Chrome Extensions For Canva Companion can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings ..."
+title: Chrome Extensions For Canva Companion
+description: Discover how Chrome Extensions For Canva Companion can transform your
+  browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings
+  ...
 date: 2026-03-09
 last_modified_at: 2026-03-11
 permalink: /articles/chrome-extensions-for-canva-companion/
@@ -68,10 +70,9 @@ Remember that not every extension will be useful for every workflow. Start with 
 ---
 
 ## Related Articles
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-
+* [Chrome Offscreen Canvas Performance: A Complete Guide](/articles/chrome-offscreen-canvas-performance/)
+* [Chrome for BitChute Web Player](/articles/chrome-for-bitchute-web-player/)
+* [Chrome Extensions for Amazon FBA Sellers](/articles/chrome-extensions-for-amazon-fba-sellers/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

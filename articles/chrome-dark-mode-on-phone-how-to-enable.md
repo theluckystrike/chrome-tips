@@ -97,7 +97,7 @@ Remember that you can always adjust your theme settings based on your preference
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Find a Specific Tab in Chrome](/articles/how-to-find-a-specific-tab-in-chrome/)
+* [Chrome Bookmarks Disappeared: How to Recover Them](/articles/chrome-bookmarks-disappeared-how-to-recover/)
+* [Chrome Select Address Bar Text Shortcut](/articles/chrome-select-address-bar-text-shortcut/)
 
-- [Best Chrome Extensions for Freelancers 2026](/articles/best-chrome-extensions-for-freelancers-2026)
-- [chrome text only mode how to browse](/articles/chrome-text-only-mode-how-to-browse)
-- [Chrome for Autofill Credit Card Safety](/articles/chrome-for-autofill-credit-card-safety)

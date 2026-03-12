@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome for Zotero Web Connector Setup"
-description: "Learn how to set up Zotero Web Connector in Chrome to save web pages directly to your research library. Check out our expert recommendations and tips to enhanc"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-zotero-web-connector-setup"
-categories: [extensions, research]
-tags: [zotero, chrome-extensions, research-tools, web-connector]
-author: "theluckystrike"
+layout: post
+title: Chrome for Zotero Web Connector Setup
+description: Learn how to set up Zotero Web Connector in Chrome to save web pages
+  directly to your research library. Check out our expert recommendations and tips
+  to enhanc
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-zotero-web-connector-setup
+categories:
+- extensions
+- research
+tags:
+- zotero
+- chrome-extensions
+- research-tools
+- web-connector
+author: theluckystrike
 ---
 # Chrome for Zotero Web Connector Setup
 
@@ -76,7 +84,7 @@ Whether you are a student working on your first major paper or a researcher mana
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions For Email Templates](/articles//articles/chrome-extensions-for-email-templates//)
+* [Chrome Extension for Website Blocker Parental](/articles/chrome-extension-for-website-blocker-parental/)
+* [Chrome Extensions For Dropbox](/articles//articles/chrome-extensions-for-dropbox//)
 
-- [Chrome HTTPS First Mode Guide](/articles/chrome-https-first-mode)
-- [Chrome for Google Scholar Best Extensions](/articles/chrome-for-google-scholar-best-extensions)
-- [Chrome for Arxiv Paper Reader Extensions](/articles/chrome-for-arxiv-paper-reader-extensions)

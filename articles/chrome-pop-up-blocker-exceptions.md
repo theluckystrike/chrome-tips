@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Set Up Chrome Pop Up Blocker Exceptions
-description: Learn how to configure Chrome pop up blocker exceptions for specific websites that need to display popups. Step-by-step guide for desktop and mobile. Learn e...
+description: Learn how to configure Chrome pop up blocker exceptions for specific
+  websites that need to display popups. Step-by-step guide for desktop and mobile.
+  Learn e...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-pop-up-blocker-exceptions
@@ -14,8 +16,6 @@ tags:
 - browser-settings
 - chrome-tips
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-pop-up-blocker-exceptions
 ---
 # How to Set Up Chrome Pop Up Blocker Exceptions
 
@@ -78,10 +78,9 @@ Managing your browser effectively involves more than just handling pop ups. If y
 Having many extensions and permitted sites can sometimes slow down your browser over time. Regularly reviewing what you have allowed and removing anything you no longer need will help maintain optimal performance.
 
 ## Related Articles
-- [How to Enable Parallel Downloading in Chrome for Faster Downloads](/chrome-parallel-downloading-enable-speed-up)
-- [Chrome Pop Ups on Phone How to Block](/chrome-pop-ups-on-phone-how-to-block)
-- [Chrome Parental Controls — How to Set Up for Your Kids](/chrome-parental-controls-how-to-set-up)
-
+* [Chrome Extensions For Flight Price Alerts](/articles//articles/chrome-extensions-for-flight-price-alerts//)
+* [How to Cast Chrome Tab to TV](/articles/how-to-cast-chrome-tab-to-tv/)
+* [Chrome Super Cookies: What Are They](/articles/chrome-super-cookies-what-are-they/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

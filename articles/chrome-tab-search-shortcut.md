@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Tab Search Shortcut: Find Any Open Tab Instantly"
-description: "Master the Chrome tab search shortcut to quickly find open tabs, manage multiple windows, and boost your browsing efficiency. Read our comprehensive guide to..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-tab-search-shortcut"
-categories: "[productivity, tips]"
-tags: "[chrome, browser, tabs, shortcuts, productivity]"
-author: "theluckystrike"
+layout: post
+title: 'Chrome Tab Search Shortcut: Find Any Open Tab Instantly'
+description: Master the Chrome tab search shortcut to quickly find open tabs, manage
+  multiple windows, and boost your browsing efficiency. Read our comprehensive guide
+  to...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-tab-search-shortcut
+categories: '[productivity, tips]'
+tags: '[chrome, browser, tabs, shortcuts, productivity]'
+author: theluckystrike
 ---
 # Chrome Tab Search Shortcut: Find Any Open Tab Instantly
 
@@ -90,10 +92,9 @@ Whether you are managing a complex research project, juggling multiple work stre
 Start using the chrome tab search shortcut today, and you will wonder how you ever managed without it.
 
 ## Related Articles
-- [Chrome Mute Tab Shortcut Explained](/chrome-mute-tab-shortcut-explained)
-- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
-- [Chrome Site Search Shortcut How To Set Up](/chrome-site-search-shortcut-how-to-set-up)
-
+* [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage//)
+* [chrome extensions for whatfont alternative](/articles/chrome-extensions-for-whatfont-alternative/)
+* [Chrome for Grammar Checking Extensions](/articles/chrome-for-grammar-checking-extensions/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

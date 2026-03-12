@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome net err cert common name invalid fix
-description: Struggling with the chrome net err cert common name invalid error? Learn what causes this SSL certificate error and how to fix it easily. Learn effective tip...
+description: Struggling with the chrome net err cert common name invalid error? Learn
+  what causes this SSL certificate error and how to fix it easily. Learn effective
+  tip...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-net-err-cert-common-name-invalid-fix
@@ -15,8 +17,6 @@ tags:
 - error-fix
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-net-err-cert-common-name-invalid-fix
 ---
 # Chrome Net Err Cert Common Name Invalid Fix
 
@@ -103,7 +103,7 @@ Be cautious about the websites you visit and the links you click. Stick to well-
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix/)
+* [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix/)
+* [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions/)
 
-- [Chrome Content Blocker vs Ad Blocker Difference](/articles/chrome-content-blocker-vs-ad-blocker-difference)
-- [chrome portable version how to get](/articles/chrome-portable-version-how-to-get)
-- [Chrome for Obsidian Web Clipper Setup](/articles/chrome-for-obsidian-web-clipper-setup)

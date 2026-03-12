@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Google Chat Integration in Browser"
-description: "Learn how to integrate Google Chat into Chrome for smoother messaging, better tab management, and improved productivity. Check out our expert recommendations a"
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-google-chat-integration-in-browser"
-categories: [productivity, tips]
-tags: [chrome, google-chat, integration, messaging]
-author: "theluckystrike"
+layout: post
+title: Chrome Google Chat Integration in Browser
+description: Learn how to integrate Google Chat into Chrome for smoother messaging,
+  better tab management, and improved productivity. Check out our expert recommendations
+  a
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-google-chat-integration-in-browser
+categories:
+- productivity
+- tips
+tags:
+- chrome
+- google-chat
+- integration
+- messaging
+author: theluckystrike
 ---
 # Chrome Google Chat Integration in Browser
 
@@ -64,7 +72,7 @@ Remember that extensions are helpers, not replacements for good messaging habits
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Block Websites on Chrome](/articles/how-to-block-websites-on-chrome/)
+* [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage//)
+* [Chrome Font Palette Customization: Complete Guide for 2026](/articles/chrome-font-palette-customization/)
 
-- [Chrome for Instapaper Web Clipper](/articles/chrome-for-instapaper-web-clipper)
-- [Chrome Emoji Keyboard Shortcut How to Use](/articles/chrome-emoji-keyboard-shortcut-how-to-use)
-- [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom)

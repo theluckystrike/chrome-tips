@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Discord Web App Optimization
-description: Learn how to make Discord run smoother in Chrome with practical tips and extensions that reduce memory usage and improve performance. Find out more tips on h...
+description: Learn how to make Discord run smoother in Chrome with practical tips
+  and extensions that reduce memory usage and improve performance. Find out more tips
+  on h...
 date: 2026-01-15
 categories:
 - performance
@@ -67,7 +69,7 @@ However, many users prefer the convenience of the web version and find that the 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Replit in Browser Tips](/articles/chrome-for-replit-in-browser-tips/)
+* [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained/)
+* [chrome offline mode how to browse without internet](/articles/chrome-offline-mode-how-to-browse-without-internet/)
 
-- [Chrome Flexbox Layout Complete Guide](/articles/chrome-flexbox-layout-complete-guide)
-- [Why Does Each Chrome Tab Use So Much Memory](/articles/why-does-each-chrome-tab-use-so-much-memory)
-- [Chrome Precaching vs Runtime Caching](/articles/chrome-precaching-vs-runtime-caching)

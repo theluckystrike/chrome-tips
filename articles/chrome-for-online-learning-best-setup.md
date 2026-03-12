@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for online learning best setup
-description: 'Discover the best Chrome setup for online learning to stay focused, reduce distractions, and get the most out of your study sessions. Discover more tips and '
+description: 'Discover the best Chrome setup for online learning to stay focused,
+  reduce distractions, and get the most out of your study sessions. Discover more
+  tips and '
 date: 2026-01-15
 categories:
 - productivity
@@ -92,7 +94,7 @@ Remember that your browser is a tool to support your learning goals. The perfect
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [How to Stop Chrome from Suspending My Tabs](/articles/how-to-stop-chrome-from-suspending-my-tabs/)
+* [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained/)
+* [Chrome Critical Rendering Path Explained](/articles/chrome-critical-rendering-path-explained/)
 
-- [How to Organize Chrome Bookmarks Into Folders](/articles/how-to-organize-chrome-bookmarks-into-folders)
-- [Chrome Network Process Using Too Much Memory](/articles/chrome-network-process-using-too-much-memory)
-- [Best Dark Mode Chrome Extension](/articles/best-dark-mode-chrome-extension)

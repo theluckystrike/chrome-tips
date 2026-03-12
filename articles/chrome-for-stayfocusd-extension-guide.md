@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for StayFocusd Extension Guide
-description: Learn how to use StayFocusd extension in Chrome to block distracting websites and boost your productivity. Discover more tips and tricks to optimize your bro
+description: Learn how to use StayFocusd extension in Chrome to block distracting
+  websites and boost your productivity. Discover more tips and tricks to optimize
+  your bro
 date: 2026-03-10
 categories:
 - productivity
@@ -82,7 +84,7 @@ With your browser configured to support your focus, you will find it easier to a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Shadow DOM What It Is](/articles/chrome-shadow-dom-what-it-is/)
+* [Chrome Default Download Location How to Set](/articles//chrome-default-download-location-how-to-set//)
+* [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom/)
 
-- [Chrome 2026 New Features Overview](/articles/chrome-2026-new-features-overview)
-- [chrome topics api privacy sandbox explained](/articles/chrome-topics-api-privacy-sandbox-explained)
-- [Chrome Address Bar Shortcuts You Didn't Know](/articles/chrome-address-bar-shortcuts-you-didnt-know)

@@ -82,7 +82,7 @@ You can also manually suspend tabs by right-clicking on them and selecting "Slee
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out/)
+* [How to Use the Chrome Inert Attribute to Disable Interaction](/articles/chrome-inert-attribute-disable-interaction/)
+* [chrome google tasks integration tips](/articles/chrome-google-tasks-integration-tips/)
 
-- [Chrome Push Notifications API Explained](/articles/chrome-push-notifications-api-explained)
-- [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage)
-- [Chrome OS vs Windows for Basic Use](/articles/chrome-os-vs-windows-for-basic-use)

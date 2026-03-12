@@ -52,7 +52,7 @@ Remember that extensions that change website fonts may not work perfectly on eve
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome high contrast mode](/articles/chrome-high-contrast-mode/)
+* [How to Find Which Extension is Slowing Chrome](/articles/how-to-find-which-extension-is-slowing-chrome/)
+* [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling/)
 
-- [chrome on raspberry pi how to install](/articles/chrome-on-raspberry-pi-how-to-install)
-- [Chrome for Google Scholar Best Extensions](/articles/chrome-for-google-scholar-best-extensions)
-- [Chrome Extensions for Networking](/articles/chrome-extensions-for-networking)

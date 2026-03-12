@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome mutation observer api explained
-description: Learn what the Chrome Mutation Observer API is, how websites use it to detect changes, and what it means for your browsing experience and privacy. Learn effe...
+description: Learn what the Chrome Mutation Observer API is, how websites use it to
+  detect changes, and what it means for your browsing experience and privacy. Learn
+  effe...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-mutation-observer-api-explained
@@ -14,8 +16,6 @@ tags:
 - web-development
 - privacy
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-mutation-observer-api-explained
 ---
 # Chrome Mutation Observer API Explained
 
@@ -72,7 +72,7 @@ The next time you see smooth animations, instant content updates, or responsive 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Clock Behind Error Fix](/articles/chrome-clock-behind-error-fix/)
+* [Chrome Tabs Keep Reloading When I Switch Back](/articles/chrome-tabs-keep-reloading-when-i-switch-back/)
+* [Best Tab Suspender to Save Memory 2026](/articles/best-tab-suspender-to-save-memory-2026/)
 
-- [Best Chrome Extensions for Remote Workers 2026](/articles/best-chrome-extensions-for-remote-workers-2026)
-- [How to Customize Chrome Toolbar](/articles/how-to-customize-chrome-toolbar)
-- [Chrome vs Vivaldi: Which Is More Customizable](/articles/chrome-vs-vivaldi-which-is-more-customizable)

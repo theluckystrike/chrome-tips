@@ -1,13 +1,12 @@
 ---
-title: Chrome For Blocking Autoplay Videos
-description: ' Learn how to optimize your browser today for better performance...........................................................................................'
-date: '2026-03-12'
-last_modified_at: '2026-03-10'
+title: Chrome for Blocking Autoplay Videos
+description: Struggling with videos that autoplay in Chrome? Discover practical ways
+  to block autoplay videos and enjoy peaceful browsing. Find out more tips on how
+  to op...
+date: 2025-03-10
+last_modified_at: '2026-03-12'
 permalink: chrome-for-blocking-autoplay-videos
 layout: post
-title: Chrome for Blocking Autoplay Videos
-description: Struggling with videos that autoplay in Chrome? Discover practical ways to block autoplay videos and enjoy peaceful browsing. Find out more tips on how to op...
-date: 2025-03-10
 categories:
 - tips
 - privacy
@@ -17,8 +16,6 @@ tags:
 - browser-settings
 - video
 author: theluckystrike
-last_modified_at: '2026-03-12'
-permalink: chrome-for-blocking-autoplay-videos
 ---
 # Chrome for Blocking Autoplay Videos
 
@@ -71,7 +68,7 @@ Finally, remember that you have the power to close tabs and windows that are cau
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Throttle Network Speed in Chrome](/articles/chrome-throttle-network-speed-how-to/)
+* [Chrome Extensions for Form Auto Filler](/articles/chrome-extensions-for-form-auto-filler/)
+* [Chrome Session Restore Not Working Fix](/articles/chrome-session-restore-not-working-fix/)
 
-- [chrome extensions for similar image finder](/articles/chrome-extensions-for-similar-image-finder)
-- [chrome source maps debug minified code](/articles/chrome-source-maps-debug-minified-code)
-- [Chrome Extensions for Time Tracking](/articles/chrome-extensions-for-time-tracking)

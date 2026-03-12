@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Performance Observer API Explained
-description: Learn what the Chrome Performance Observer API is, how it works, and how it helps measure browser performance for better user experience. Learn effective tip...
+description: Learn what the Chrome Performance Observer API is, how it works, and
+  how it helps measure browser performance for better user experience. Learn effective
+  tip...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-performance-observer-api-explained
@@ -13,8 +15,6 @@ tags:
 - browser-tools
 - chrome-tips
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-performance-observer-api-explained
 ---
 # Chrome Performance Observer API Explained
 
@@ -77,10 +77,9 @@ The **Performance Observer API** represents a shift toward more transparent and 
 As more websites adopt these performance measurement practices, the overall quality of web browsing should continue to improve. You may not directly interact with the **Performance Observer API**, but it works behind the scenes to make the web a better place for everyone.
 
 ## Related Articles
-- [Chrome Resize Observer API Explained](/chrome-resize-observer-api-explained)
-- [Chrome Performance Observer API Explained](/chrome-performance-observer-api)
-- [Chrome Intersection Observer API Explained](/chrome-intersection-observer-api-explained)
-
+* [Chrome Google Chat Integration in Browser](/articles/chrome-google-chat-integration-in-browser/)
+* [chrome devtools dark theme how to enable](/articles//chrome-devtools-dark-theme-how-to-enable//)
+* [Chrome Extensions for Social Media Scheduler](/articles/chrome-extensions-for-social-media-scheduler/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Noise Cancellation for Meetings
-description: Discover how to enable and use noise cancellation in Chrome for clearer video meetings. Learn built-in features and extensions to eliminate background noise ...
+description: Discover how to enable and use noise cancellation in Chrome for clearer
+  video meetings. Learn built-in features and extensions to eliminate background noise
+  ...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-noise-cancellation-for-meetings
@@ -16,8 +18,6 @@ tags:
 - google-meet
 - chrome-extension
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-noise-cancellation-for-meetings
 ---
 # Chrome Noise Cancellation for Meetings
 
@@ -135,10 +135,9 @@ Chrome noise cancellation for meetings has never been more accessible. Whether y
 Take a few minutes to configure your noise cancellation settings today. Your colleagues will notice the difference, and you will wonder how you ever managed without it.
 
 ## Related Articles
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Extensions for Ambient Noise](/chrome-extensions-for-ambient-noise)
-- [Chrome for White Noise While Working](/chrome-for-white-noise-while-working)
-
+* [Chrome Jump to Specific Tab Number Shortcut](/articles/chrome-jump-to-specific-tab-number-shortcut/)
+* [Why Are People Switching from Chrome to Firefox](/articles/why-are-people-switching-from-chrome-to-firefox/)
+* [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -96,7 +96,7 @@ Sometimes hardware issues can cause browser problems. If your computer is runnin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Set Up Chrome Profiles for Work and Personal](/articles/how-to-set-up-chrome-profiles-for-work-and-personal/)
+* [Chrome Status Code 502 Bad Gateway Fix](/articles/chrome-status-code-502-bad-gateway-fix/)
+* [Chrome Extensions For Duplicate Tab Finder](/articles//articles/chrome-extensions-for-duplicate-tab-finder//)
 
-- [Chrome Extensions for Mouse Gestures Navigation](/articles/chrome-extensions-for-mouse-gestures-navigation)
-- [Chrome Preloading Pages Setting Explained](/articles/chrome-preloading-pages-setting-explained)
-- [Chrome Extensions for Job Hunting 2026](/articles/chrome-extensions-for-job-hunting-2026)

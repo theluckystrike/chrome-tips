@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Chrome Extensions for Speed Reading"
-description: "Discover Chrome extensions for speed reading that can help you read faster online and process more content in less time. Read our comprehensive guide to lear..."
+title: Chrome Extensions for Speed Reading
+description: Discover Chrome extensions for speed reading that can help you read faster
+  online and process more content in less time. Read our comprehensive guide to lear...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-speed-reading
-categories: [reading, productivity]
-tags: [chrome-extensions, speed-reading, productivity]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-speed-reading
+categories:
+- reading
+- productivity
+tags:
+- chrome-extensions
+- speed-reading
+- productivity
+author: theluckystrike
 ---
 # Chrome Extensions for Speed Reading
 
@@ -90,7 +94,7 @@ Speed reading is a skill that improves with practice. The extensions mentioned h
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/articles/chrome-smooth-scrolling-enable/)
+* [Chrome Extensions for Social Media Scheduling](/articles/chrome-extensions-for-social-media-scheduling/)
+* [Should I Switch from Chrome to Firefox for Speed?](/articles/should-i-switch-from-chrome-to-firefox-for-speed/)
 
-- [Chrome Not Playing Videos Fix](/articles/chrome-not-playing-videos-fix)
-- [Chrome Bookmark Bar Tips And Tricks](/articles/chrome-bookmark-bar-tips-and-tricks)
-- [Chrome for Adobe Creative Cloud Web Tips](/articles/chrome-for-adobe-creative-cloud-web-tips)

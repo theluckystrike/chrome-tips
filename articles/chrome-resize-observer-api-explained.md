@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Resize Observer API Explained
-description: Learn what the Chrome Resize Observer API is, how it works, and why it makes your browsing experience smoother. Read our comprehensive guide to learn more and i
+description: Learn what the Chrome Resize Observer API is, how it works, and why it
+  makes your browsing experience smoother. Read our comprehensive guide to learn more
+  and i
 permalink: chrome-resize-observer-api-explained
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
@@ -53,7 +55,7 @@ This kind of improvement is part of a larger trend in web development where webs
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Err Connection Timed Out Fix](/articles/chrome-err-connection-timed-out-fix/)
+* [Chrome Extensions for Google Meet](/articles/chrome-extensions-for-google-meet/)
+* [chrome desktop shortcuts how to create](/articles//chrome-desktop-shortcuts-how-to-create//)
 
-- [Chrome Passwords on Phone How to View](/articles/chrome-passwords-on-phone-how-to-view)
-- [Chrome Extensions for Musicians](/articles/chrome-extensions-for-musicians)
-- [Chrome Media Keys Not Working Fix](/articles/chrome-media-keys-not-working-fix)

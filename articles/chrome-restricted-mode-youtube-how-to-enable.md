@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome restricted mode youtube how to enable
-description: Learn how to enable restricted mode on YouTube through Chrome browser settings. A simple guide to restrict mature content and create safer viewing. Read our com
+description: Learn how to enable restricted mode on YouTube through Chrome browser
+  settings. A simple guide to restrict mature content and create safer viewing. Read
+  our com
 date: 2026-03-10
 categories:
 - features
@@ -86,7 +88,7 @@ Give Restricted Mode a try and adjust your settings as needed to find the right 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows/)
+* [Chrome Text to Speech Extension Best](/articles/chrome-text-to-speech-extension-best/)
+* [How to Use Chrome Flags Safely](/articles/how-to-use-chrome-flags-safely/)
 
-- [How to Change Your Chrome New Tab Background to a Custom Image](/articles/chrome-new-tab-background-change-custom-image)
-- [Chrome Send to Device Feature How to Use](/articles/chrome-send-to-device-feature-how-to-use)
-- [Chrome Extension Side Panel Tutorial](/articles/chrome-extension-side-panel-tutorial)

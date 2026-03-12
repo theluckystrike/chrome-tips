@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "Chrome Mailto Link Not Working Fix"
-description: "Chrome mailto link not working can be frustrating. Learn why it happens and simple fixes to get email links working again. Check out our expert recommendations"
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-mailto-link-not-working-fix"
-categories: [troubleshooting, tips]
-tags: [chrome-mailto, mailto-link-not-working, chrome-fix, browser-tips]
-author: "theluckystrike"
+layout: post
+title: Chrome Mailto Link Not Working Fix
+description: Chrome mailto link not working can be frustrating. Learn why it happens
+  and simple fixes to get email links working again. Check out our expert recommendations
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-mailto-link-not-working-fix
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-mailto
+- mailto-link-not-working
+- chrome-fix
+- browser-tips
+author: theluckystrike
 ---
 # Chrome Mailto Link Not Working Fix
 
@@ -60,7 +67,7 @@ Remember that your email setup is a combination of your operating system setting
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome High CPU Usage When Watching Videos: Practical Fixes](/articles/chrome-high-cpu-usage-when-watching-videos/)
+* [Chrome Precaching vs Runtime Caching](/articles/chrome-precaching-vs-runtime-caching/)
+* [Chrome Gesture Navigation on Android](/articles/chrome-gesture-navigation-on-android/)
 
-- [Chrome AW Snap Page Crash Fix](/articles/chrome-aw-snap-page-crash-fix)
-- [Chrome Notification Permission Best Practices](/articles/chrome-notification-permission-best-practices)
-- [chrome vs firefox extensions comparison](/articles/chrome-vs-firefox-extensions-comparison)

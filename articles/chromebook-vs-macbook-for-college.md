@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chromebook vs MacBook for College"
-description: "Compare Chromebooks and MacBooks for college students. Find which laptop best fits your budget, major, and study habits. Read our comprehensive guide to lear..."
-date: "2025-02-20"
-last_modified_at: "2026-03-10"
-permalink: "chromebook-vs-macbook-for-college"
-categories: "[laptops, college]"
-tags: "[chromebook-vs-macbook-college, laptop-for-college, student-laptop]"
-author: "theluckystrike"
+layout: post
+title: Chromebook vs MacBook for College
+description: Compare Chromebooks and MacBooks for college students. Find which laptop
+  best fits your budget, major, and study habits. Read our comprehensive guide to
+  lear...
+date: '2025-02-20'
+last_modified_at: '2026-03-10'
+permalink: chromebook-vs-macbook-for-college
+categories: '[laptops, college]'
+tags: '[chromebook-vs-macbook-college, laptop-for-college, student-laptop]'
+author: theluckystrike
 ---
 # Chromebook vs MacBook for College
 
@@ -62,7 +64,7 @@ Either way, take some time to think about your actual needs rather than just goi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome colorblind mode extensions](/articles/chrome-colorblind-mode-extensions/)
+* [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use/)
+* [Chrome Devtools Recorder Panel How To Use](/articles/chrome-devtools-recorder-panel-how-to-use/)
 
-- [Chrome Tab Freezing What It Means](/articles/chrome-tab-freezing-what-it-means)
-- [Chrome for Removing YouTube Recommendations](/articles/chrome-for-removing-youtube-recommendations)
-- [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization)

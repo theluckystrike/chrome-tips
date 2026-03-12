@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Spellcheck Not Working? Here's How to Fix It
-description: Fix Chrome's spellcheck when it stops underlining misspelled words. Troubleshoot language settings, enhanced spellcheck, and extension conflicts. Read our compr
+description: Fix Chrome's spellcheck when it stops underlining misspelled words. Troubleshoot
+  language settings, enhanced spellcheck, and extension conflicts. Read our compr
 date: 2025-03-15
 categories:
 - troubleshooting
@@ -108,9 +109,8 @@ For casual writing (comments, messages, quick emails), Chrome's basic spellcheck
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-
 ## Related Articles
+* [Chrome for Facebook Ads Manager Tips](/articles/chrome-for-facebook-ads-manager-tips/)
+* [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/articles/chrome-extensions-folder-location-files/)
+* [Chrome View Transitions API Explained](/articles/chrome-view-transitions-api-explained/)
 
-- [Chrome for Runway ML Web App](/articles/chrome-for-runway-ml-web-app)
-- [Chrome Extensions For Color Accessibility Checker](/articles//articles/chrome-extensions-for-color-accessibility-checker/)
-- [Chrome Was Fast, Now It's Slow - What Happened?](/articles/chrome-was-fast-now-its-slow-what-happened)

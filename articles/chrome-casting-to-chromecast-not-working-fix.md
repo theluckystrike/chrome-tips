@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome Casting to Chromecast Not Working Fix"
-description: "Chrome casting to Chromecast not working can ruin your streaming night. Learn why it happens and how to get it working again. Check out our expert guide for ste"
-date: "2025-03-09"
-last_modified_at: '2026-03-12'
-permalink: "chrome-casting-to-chromecast-not-working-fix"
-categories: [troubleshooting, tips]
-tags: [chrome-casting, chromecast, casting-not-working, chrome-fix, streaming]
-author: "theluckystrike"
+layout: post
+title: Chrome Casting to Chromecast Not Working Fix
+description: Chrome casting to Chromecast not working can ruin your streaming night.
+  Learn why it happens and how to get it working again. Check out our expert guide
+  for ste
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-casting-to-chromecast-not-working-fix
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-casting
+- chromecast
+- casting-not-working
+- chrome-fix
+- streaming
+author: theluckystrike
 ---
 # Chrome Casting to Chromecast Not Working Fix
 
@@ -84,7 +93,7 @@ Casting from Chrome to Chromecast is incredibly useful when it works, and most o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome NordVPN Extension vs ExpressVPN Extension](/articles/chrome-nordvpn-extension-vs-expressvpn-extension/)
+* [Chrome QR Code for Page How to Generate](/articles/chrome-qr-code-for-page-how-to-generate/)
+* [Chrome Task Manager vs Windows Task Manager: What's the Difference?](/articles/chrome-task-manager-vs-windows-task-manager/)
 
-- [Chrome for StackOverflow Best Extensions](/articles/chrome-for-stackoverflow-best-extensions)
-- [Chrome Payment Autofill How to Manage Cards](/articles/chrome-payment-autofill-how-to-manage-cards)
-- [How to Stop Chrome from Suspending My Tabs](/articles/how-to-stop-chrome-from-suspending-my-tabs)

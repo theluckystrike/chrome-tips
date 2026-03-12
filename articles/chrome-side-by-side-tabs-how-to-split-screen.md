@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Side by Side Tabs How to Split Screen
-description: Learn how to put Chrome tabs side by side for split screen viewing. Easy methods using built-in features and extensions. Read our comprehensive guide to learn m
+description: Learn how to put Chrome tabs side by side for split screen viewing. Easy
+  methods using built-in features and extensions. Read our comprehensive guide to
+  learn m
 date: 2025-03-10
 categories:
 - features
@@ -70,7 +72,7 @@ Split screen is one of those features that seems small but makes a big differenc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Structured Clone and Deep Copy: A Complete Guide](/articles/chrome-structured-clone-deep-copy/)
+* [Chrome for Accessibility Testing Extensions](/articles/chrome-for-accessibility-testing-extensions/)
+* [Chrome Vertical Tabs How to Enable](/articles/chrome-vertical-tabs-how-to-enable/)
 
-- [Chromebook vs iPad for Students](/articles/chromebook-vs-ipad-for-students-comparison)
-- [Chrome Extension Publish to Web Store Guide](/articles/chrome-extension-publish-to-web-store-guide)
-- [chrome reader mode how to turn on 2026](/articles/chrome-reader-mode-how-to-turn-on-2026)

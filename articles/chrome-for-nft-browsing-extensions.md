@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for NFT Browsing Extensions
-description: Discover the best Chrome extensions for NFT browsing. Learn which tools enhance your experience while keeping your browser fast and secure. Discover more tip
+description: Discover the best Chrome extensions for NFT browsing. Learn which tools
+  enhance your experience while keeping your browser fast and secure. Discover more
+  tip
 date: 2026-01-15
 categories:
 - nft
@@ -67,7 +69,7 @@ Finding the right chrome for NFT browsing extensions comes down to understanding
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Productivity Students](/articles/chrome-extensions-for-productivity-students/)
+* [Chrome New Tab Opens Instead of Homepage Fix](/articles/chrome-new-tab-opens-instead-of-homepage-fix/)
+* [Chrome Saved Addresses How to Edit](/articles/chrome-saved-addresses-how-to-edit/)
 
-- [Best Free Chrome Extensions 2026](/articles/best-free-chrome-extensions-2026)
-- [Chrome Task Manager Guide](/articles/chrome-task-manager-guide)
-- [Chrome Layers Panel Explained](/articles/chrome-layers-panel-explained)

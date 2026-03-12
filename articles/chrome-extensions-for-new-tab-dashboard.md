@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for New Tab Dashboard"
-description: "Discover Chrome extensions for new tab dashboard that can transform your browser into a personalized command center for productivity. Check out our expert..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-new-tab-dashboard"
-layout: "post"
-categories: "[extensions, productivity]"
-tags: "[chrome-extensions, new-tab, dashboard]"
-author: "theluckystrike"
+title: Chrome Extensions for New Tab Dashboard
+description: Discover Chrome extensions for new tab dashboard that can transform your
+  browser into a personalized command center for productivity. Check out our expert...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-new-tab-dashboard
+layout: post
+categories: '[extensions, productivity]'
+tags: '[chrome-extensions, new-tab, dashboard]'
+author: theluckystrike
 ---
 # Chrome Extensions for New Tab Dashboard
 
@@ -80,7 +81,7 @@ Over time, you will develop a sense of what works and what does not. Do not be a
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Memory Leak Detection Guide](/articles/chrome-memory-leak-detection/)
+* [Does Having Many Chrome Extensions Slow Down Browser](/articles/does-having-many-chrome-extensions-slow-down-browser/)
+* [Chrome Extensions for Notion](/articles/chrome-extensions-for-notion/)
 
-- [Chrome Vertical Tabs Enable 2026](/articles/chrome-vertical-tabs-enable-2026)
-- [chrome default browser how to set windows mac](/articles//chrome-default-browser-how-to-set-windows-mac/)
-- [Chrome Utility Process What Is It](/articles/chrome-utility-process-what-is-it)

@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "chrome how to block specific website notifications"
-description: "Stop annoying alerts from specific sites in Chrome. Learn the simple settings to block website notifications while keeping ones you want. Check out our expert"
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-how-to-block-specific-website-notifications"
+layout: post
+title: chrome how to block specific website notifications
+description: Stop annoying alerts from specific sites in Chrome. Learn the simple
+  settings to block website notifications while keeping ones you want. Check out our
+  expert
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-how-to-block-specific-website-notifications
 ---
 Chrome how to block specific website notifications is something every Chrome user should know how to do. Those popup requests asking to "Allow notifications" seem harmless enough when you first encounter them, but over time you might find yourself buried under alerts from dozens of websites you barely remember visiting. Maybe that news site you checked once is constantly interrupting your workday with breaking news you never asked for, or that online store you purchased from once keeps sending you deals you do not want. The good news is that Chrome gives you full control to block notifications from any website without turning off all alerts completely.
 
@@ -61,7 +63,7 @@ By following these steps and checking in on your settings regularly, you can enj
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Safe Search How to Lock](/articles/chrome-safe-search-how-to-lock/)
+* [Chrome Gap Property CSS Flexbox Grid](/articles/chrome-gap-property-css-flexbox-grid/)
+* [Chrome Sandbox Mode Explained Simply](/articles/chrome-sandbox-mode-explained-simply/)
 
-- [How to Use Chrome Without Signing In to Google](/articles/how-to-use-chrome-without-signing-in-to-google)
-- [Chrome Security Panel How to Check SSL](/articles/chrome-security-panel-how-to-check-ssl)
-- [Chrome for Etsy Seller Best Extensions](/articles/chrome-for-etsy-seller-best-extensions)

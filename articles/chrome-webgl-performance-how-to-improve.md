@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "How to Improve Chrome WebGL Performance"
-description: "Learn practical ways to improve Chrome WebGL performance. This guide covers simple settings and extensions that help your browser run graphics smoother."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-webgl-performance-how-to-improve"
-categories: "[performance, graphics]"
-tags: "[chrome-webgl, webgl-performance, chrome-graphics, browser-performance]"
-author: "theluckystrike"
+layout: post
+title: How to Improve Chrome WebGL Performance
+description: Learn practical ways to improve Chrome WebGL performance. This guide
+  covers simple settings and extensions that help your browser run graphics smoother.
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-webgl-performance-how-to-improve
+categories: '[performance, graphics]'
+tags: '[chrome-webgl, webgl-performance, chrome-graphics, browser-performance]'
+author: theluckystrike
 ---
 # How to Improve Chrome WebGL Performance
 
@@ -64,7 +65,7 @@ If you use WebGL frequently and your computer struggles, consider upgrading your
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Best Chrome Extensions for Writers 2026](/articles/best-chrome-extensions-for-writers-2026/)
+* [Chrome vs Edge Memory Usage Comparison](/articles/chrome-vs-edge-memory-usage-comparison/)
+* [Chrome Web Share API Explained](/articles/chrome-web-share-api-explained/)
 
-- [Chrome Using Swap Memory Fix](/articles/chrome-using-swap-memory-fix)
-- [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips)
-- [Chrome Remote Debugging for Beginners](/articles/chrome-remote-debugging-for-beginners)

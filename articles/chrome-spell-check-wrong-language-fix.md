@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Spell Check Wrong Language Fix
-description: Is Chrome spell check using the wrong language? Here is how to fix it and get accurate spelling suggestions in your preferred language. Read our comprehensive g
+description: Is Chrome spell check using the wrong language? Here is how to fix it
+  and get accurate spelling suggestions in your preferred language. Read our comprehensive
+  g
 date: 2025-03-15
 categories:
 - troubleshooting
@@ -84,7 +86,7 @@ If you continue to have issues after trying these steps, you might want to consi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Multiple Users on Same Computer Setup](/articles/chrome-multiple-users-on-same-computer-setup/)
+* [Chrome Extensions for iMacros Alternative](/articles/chrome-extensions-for-imacros-alternative/)
+* [Chrome WebAssembly Debugging Guide](/articles/chrome-wasm-debugging-guide/)
 
-- [My Computer Is So Slow How to Fix Chrome](/articles/my-computer-is-so-slow-how-to-fix-chrome)
-- [Chrome Device Emulation Advanced Guide](/articles//chrome-device-emulation-advanced/)
-- [Chrome Supervised Profiles for Kids](/articles/chrome-supervised-user-profile-for-kids)

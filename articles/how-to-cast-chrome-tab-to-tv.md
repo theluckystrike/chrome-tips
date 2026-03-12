@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "How to Cast Chrome Tab to TV"
-description: "Learn how to cast Chrome tab to TV with this easy guide. Cast your browser window to any television and enjoy your favorite content on a bigger screen."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "how-to-cast-chrome-tab-to-tv"
-categories: "[casting, streaming, tv]"
-tags: "[chrome-cast, screen-mirroring, tv-streaming]"
-author: "theluckystrike"
+layout: post
+title: How to Cast Chrome Tab to TV
+description: Learn how to cast Chrome tab to TV with this easy guide. Cast your browser
+  window to any television and enjoy your favorite content on a bigger screen.
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: how-to-cast-chrome-tab-to-tv
+categories: '[casting, streaming, tv]'
+tags: '[chrome-cast, screen-mirroring, tv-streaming]'
+author: theluckystrike
 ---
 # How to Cast Chrome Tab to TV
 
@@ -82,7 +83,7 @@ If you run into issues, check your network connection, make sure your TV is comp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Camera Not Working Fix](/articles/chrome-camera-not-working-fix/)
+* [chrome for metamask setup and tips](/articles/chrome-for-metamask-setup-and-tips/)
+* [How to Organize Chrome Bookmarks Into Folders](/articles/how-to-organize-chrome-bookmarks-into-folders/)
 
-- [Chrome Extensions for Weather Forecast](/articles/chrome-extensions-for-weather-forecast)
-- [Chrome Send to Device Feature How to Use](/articles/chrome-send-to-device-feature-how-to-use)
-- [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable)

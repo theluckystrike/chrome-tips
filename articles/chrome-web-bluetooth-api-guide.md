@@ -1,13 +1,14 @@
 ---
-layout: "default"
-title: "Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser"
-description: "Learn how to use the Chrome Web Bluetooth API to connect Bluetooth devices directly from your browser. Covers device pairing, GATT services, characteristics,..."
-date: "2026-03-11"
-last_modified_at: "2026-03-11"
-permalink: "chrome-web-bluetooth-api-guide"
-categories: "[development, bluetooth, web-api]"
-tags: "[chrome-web-bluetooth-api, web-bluetooth, bluetooth-gatt, device-pairing, web-development]"
-author: "theluckystrike"
+layout: default
+title: Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser
+description: Learn how to use the Chrome Web Bluetooth API to connect Bluetooth devices
+  directly from your browser. Covers device pairing, GATT services, characteristics,...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-web-bluetooth-api-guide
+categories: '[development, bluetooth, web-api]'
+tags: '[chrome-web-bluetooth-api, web-bluetooth, bluetooth-gatt, device-pairing, web-development]'
+author: theluckystrike
 ---
 # Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser
 
@@ -499,7 +500,7 @@ From health and fitness tracking to IoT dashboards and industrial applications, 
 Remember to prioritize security, handle edge cases gracefully, and always put the user in control of their device connections. With these principles in place, you're well on your way to building excellent Bluetooth-enabled web experiences.
 
 ## Related Articles
+* [chrome for screenshot and annotation tools](/articles/chrome-for-screenshot-and-annotation-tools/)
+* [Chrome User Agent String: What It Is and How It Works](/articles/chrome-user-agent-string-what-it-is/)
+* [Chrome Sign in With Google on Websites Explained](/articles/chrome-sign-in-with-google-on-websites-explained/)
 
-- [chrome payment request api what users see](/articles/chrome-payment-request-api-what-users-see)
-- [Chrome Nesting CSS Native Support](/articles/chrome-nesting-css-native-support)
-- [chrome for kick streaming web tips](/articles/chrome-for-kick-streaming-web-tips)

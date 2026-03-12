@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome screen reader support
-description: Discover how Chrome screen reader support works, including built-in accessibility features, keyboard shortcuts, and extensions to enhance your browsing exper...
+description: Discover how Chrome screen reader support works, including built-in accessibility
+  features, keyboard shortcuts, and extensions to enhance your browsing exper...
 date: 2026-01-15
 categories:
 - accessibility
@@ -109,10 +110,9 @@ The best approach combines several tools and features that work together to addr
 Remember that your needs may change over time, so periodically review your setup and make adjustments as necessary. Chrome continues to add new accessibility features, so staying informed about updates will help you take advantage of improvements to chrome screen reader support.
 
 ## Related Articles
-- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
-- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
-
+* [Chrome Energy Saver Mode What Does It Do](/articles/chrome-energy-saver-mode-what-does-it-do/)
+* [How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost](/articles/chrome-err-connection-refused-localhost-fix/)
+* [Chrome for Discord Web App Optimization](/articles/chrome-for-discord-web-app-optimization/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

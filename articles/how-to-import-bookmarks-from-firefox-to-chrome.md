@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Import Bookmarks from Firefox to Chrome"
-description: "Moving your Firefox bookmarks to Chrome is simple. Follow these steps to transfer all your saved links quickly and easily. Read our comprehensive guide to le..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "how-to-import-bookmarks-from-firefox-to-chrome"
-categories: "[browser, bookmarks, chrome, firefox]"
-tags: "[chrome-bookmarks, firefox-bookmarks, browser-tips, chrome-tips]"
-author: "theluckystrike"
+layout: post
+title: How to Import Bookmarks from Firefox to Chrome
+description: Moving your Firefox bookmarks to Chrome is simple. Follow these steps
+  to transfer all your saved links quickly and easily. Read our comprehensive guide
+  to le...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: how-to-import-bookmarks-from-firefox-to-chrome
+categories: '[browser, bookmarks, chrome, firefox]'
+tags: '[chrome-bookmarks, firefox-bookmarks, browser-tips, chrome-tips]'
+author: theluckystrike
 ---
 # How to Import Bookmarks from Firefox to Chrome
 
@@ -66,7 +68,7 @@ Whether you are making a permanent switch or just need access to your bookmarks 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for SEO Analysis Free](/articles/chrome-extensions-for-seo-analysis-free/)
+* [Chrome IP Protection Feature Explained](/articles/chrome-ip-protection-feature-explained/)
+* [Chrome WebGPU vs WebGL Comparison: Which Graphics API Should You Use?](/articles/chrome-webgpu-vs-webgl-comparison/)
 
-- [Chrome Not Responding How to Force Close Safely](/articles/chrome-not-responding-how-to-force-close-safely)
-- [Chrome Extensions That Save You Time](/articles/chrome-extensions-that-save-you-time)
-- [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters)

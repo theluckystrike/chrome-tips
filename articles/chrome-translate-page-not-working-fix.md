@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Translate Page Not Working Fix: Practical Solutions That Actually Work"
-description: "Chrome translate feature not working? Learn step-by-step solutions to fix the page translation issue in Google Chrome. Covers common causes and fixes."
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "chrome-translate-page-not-working-fix"
-categories: "[chrome, translation, troubleshooting]"
-tags: "[chrome-translate, browser-translation, translation-fix, google-chrome]"
-author: "theluckystrike"
+layout: post
+title: 'Chrome Translate Page Not Working Fix: Practical Solutions That Actually Work'
+description: Chrome translate feature not working? Learn step-by-step solutions to
+  fix the page translation issue in Google Chrome. Covers common causes and fixes.
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-translate-page-not-working-fix
+categories: '[chrome, translation, troubleshooting]'
+tags: '[chrome-translate, browser-translation, translation-fix, google-chrome]'
+author: theluckystrike
 ---
 # Chrome Translate Page Not Working Fix: Practical Solutions That Actually Work
 
@@ -122,10 +123,9 @@ Most "chrome translate page not working" issues come down to a few common causes
 Start by checking your translation settings, then refresh the page and clear the cache. If that doesn't work, check for extension conflicts and make sure Chrome is up to date. With these steps, you'll get Chrome's translation feature working again and be able to understand foreign language pages without hassle.
 
 ## Related Articles
-- [Chrome Drag and Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
-- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
-
+* [How to Fix Chrome Not Loading Images on Webpages](/articles/chrome-webpage-not-loading-images-fix/)
+* [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/articles/chrome-coverage-tool-find-unused-css/)
+* [Chrome Settings You Should Change Right Now](/articles/chrome-settings-you-should-change-right-now/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

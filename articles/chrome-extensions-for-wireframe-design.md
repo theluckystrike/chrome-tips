@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "chrome extensions for wireframe design"
-description: "Discover the best Chrome extensions for wireframe design to speed up your workflow, organize prototypes, and collaborate with your team. Read our comprehensi..."
+title: chrome extensions for wireframe design
+description: Discover the best Chrome extensions for wireframe design to speed up
+  your workflow, organize prototypes, and collaborate with your team. Read our comprehensi...
 date: 2026-03-10
 last_modified_at: 2026-03-09
 permalink: chrome-extensions-for-wireframe-design
@@ -33,7 +34,7 @@ The right combination of Chrome extensions for wireframe design depends on your 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome DevTools Emulate Vision Deficiencies](/articles/chrome-devtools-emulate-vision-deficiencies/)
+* [Chrome Performance Panel for Regular Users](/articles/chrome-performance-panel-for-regular-users/)
+* [chrome prefetch and preconnect explained](/articles/chrome-prefetch-and-preconnect-explained/)
 
-- [Chrome requestanimationframe Explained: What It Means for Your Browser](/articles/chrome-requestanimationframe-explained)
-- [Chrome Google Search Not Working Fix](/articles/chrome-google-search-not-working-fix)
-- [Chrome Cookies Keep Getting Deleted Fix](/articles/chrome-cookies-keep-getting-deleted-fix)

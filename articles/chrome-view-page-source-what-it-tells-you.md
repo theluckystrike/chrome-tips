@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome View Page Source: What It Tells You"
-description: "Discover what viewing page source in Chrome reveals about websites, including HTML, metadata, hidden comments, and debugging secrets. Read our comprehensive ..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-view-page-source-what-it-tells-you"
-categories: "[browsers, chrome, developer-tools]"
-tags: "[chrome, page-source, html, developer-tools, debugging]"
-author: "theluckystrike"
+layout: post
+title: 'Chrome View Page Source: What It Tells You'
+description: Discover what viewing page source in Chrome reveals about websites, including
+  HTML, metadata, hidden comments, and debugging secrets. Read our comprehensive ...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-view-page-source-what-it-tells-you
+categories: '[browsers, chrome, developer-tools]'
+tags: '[chrome, page-source, html, developer-tools, debugging]'
+author: theluckystrike
 ---
 # Chrome View Page Source: What It Tells You
 
@@ -72,10 +73,9 @@ Managing many open tabs can slow down your browser significantly. Tools like **T
 Chrome's View Page Source feature is a powerful tool that reveals the hidden world behind every webpage. Whether you are curious about how websites work, learning to code, debugging an issue, or simply satisfying your curiosity, exploring page source opens up a wealth of information. The next time you visit a website, right-click and choose View page source to discover what lies beneath the surface.
 
 ## Related Articles
-- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
-- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
-- [Chrome About Blank Page What It Means](/chrome-about-blank-page-what-it-means)
-
+* [Chrome Snap Scroll CSS Explained](/articles/chrome-snap-scroll-css-explained/)
+* [Chrome Device Emulation Advanced Guide](/articles//chrome-device-emulation-advanced//)
+* [Chrome Permission Denied How to Fix](/articles/chrome-permission-denied-how-to-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

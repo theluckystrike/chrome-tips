@@ -1,15 +1,22 @@
 ---
-title: "Chrome Crashing on iPhone Fix"
-description: "Is Chrome crashing on your iPhone? Discover why this happens and get simple fixes to stop the crashes and keep your browser running smoothly. Read our full guid"
-date: "2026-01-20"
-last_modified_at: '2026-03-12'
-permalink: "chrome-crashing-on-iphone-fix"
-layout: post
-categories: ['mobile', 'troubleshooting', 'iphone']
-tags: ['chrome-iphone', 'iphone-browser', 'chrome-crash', 'mobile-browser']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: Chrome Crashing on iPhone Fix
+description: Is Chrome crashing on your iPhone? Discover why this happens and get
+  simple fixes to stop the crashes and keep your browser running smoothly. Read our
+  full guid
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
 permalink: chrome-crashing-on-iphone-fix
+layout: post
+categories:
+- mobile
+- troubleshooting
+- iphone
+tags:
+- chrome-iphone
+- iphone-browser
+- chrome-crash
+- mobile-browser
+author: theluckystrike
 ---
 # Chrome Crashing on iPhone Fix
 
@@ -90,7 +97,7 @@ Remember that keeping your apps updated, managing your open tabs, and maintainin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions For Fitness Tracking Dashboard](/articles//articles/chrome-extensions-for-fitness-tracking-dashboard//)
+* [Chrome for MasterClass Web Tips](/articles/chrome-for-masterclass-web-tips/)
+* [Chrome Performance Flame Chart Explained](/articles/chrome-performance-flame-chart-explained/)
 
-- [Chrome for Disney Plus Not Working Fix](/articles/chrome-for-disney-plus-not-working-fix)
-- [Chrome Err Connection Timed Out Fix](/articles/chrome-err-connection-timed-out-fix)
-- [Chrome DevTools Changes Panel to Track Edits](/articles//chrome-devtools-changes-panel-track-edits/)

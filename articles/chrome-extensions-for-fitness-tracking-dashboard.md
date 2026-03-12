@@ -1,6 +1,7 @@
 ---
-title: "Chrome Extensions For Fitness Tracking Dashboard"
-description: "Discover how Chrome Extensions For Fitness Tracking Dashboard can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions an..."
+title: Chrome Extensions For Fitness Tracking Dashboard
+description: Discover how Chrome Extensions For Fitness Tracking Dashboard can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions an...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-fitness-tracking-dashboard/
@@ -76,7 +77,7 @@ Remember that the most sophisticated dashboard is useless if you do not check it
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome DevTools Emulate Vision Deficiencies](/articles/chrome-devtools-emulate-vision-deficiencies/)
+* [Chrome Bookmark Bar Disappeared How to Get Back](/articles/chrome-bookmark-bar-disappeared-how-to-get-back/)
+* [Chrome Android Reading List How to Use](/articles/chrome-android-reading-list-how-to-use/)
 
-- [Free Chrome Extensions Better Than Paid Apps](/articles/free-chrome-extensions-better-than-paid-apps)
-- [chrome google photos integration tips](/articles/chrome-google-photos-integration-tips)
-- [Chrome Precaching vs Runtime Caching](/articles/chrome-precaching-vs-runtime-caching)

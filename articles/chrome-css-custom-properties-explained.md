@@ -84,7 +84,7 @@ Chrome css custom properties explained is really about helping you work smarter,
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Extensions for Reading List Manager](/articles/chrome-extensions-for-reading-list-manager/)
+* [chrome webrtc video call quality improvement](/articles/chrome-webrtc-video-call-quality-improvement/)
+* [Best Password Manager Chrome Extension](/articles/best-password-manager-chrome-extension/)
 
-- [Chrome Two Factor Authentication Setup Guide](/articles/chrome-two-factor-authentication-setup-guide)
-- [Chrome Dark Mode on Phone How to Enable](/articles//chrome-dark-mode-on-phone-how-to-enable/)
-- [Chrome Safe Browsing Protection Levels Explained](/articles/chrome-safe-browsing-protection-levels-explained)

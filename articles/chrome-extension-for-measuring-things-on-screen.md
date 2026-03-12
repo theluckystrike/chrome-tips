@@ -1,13 +1,14 @@
 ---
-title: "chrome extension for measuring things on screen"
-description: "Learn how to measure anything on your screen using Chrome extensions. Find the right tool for quick, accurate measurements. Check out our expert recommendations"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extension-for-measuring-things-on-screen"
-layout: "post"
-categories: "[extensions, productivity]"
-tags: "[measurement, screen-measurement, chrome-extension, tools]"
-author: "theluckystrike"
+title: chrome extension for measuring things on screen
+description: Learn how to measure anything on your screen using Chrome extensions.
+  Find the right tool for quick, accurate measurements. Check out our expert recommendations
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-measuring-things-on-screen
+layout: post
+categories: '[extensions, productivity]'
+tags: '[measurement, screen-measurement, chrome-extension, tools]'
+author: theluckystrike
 ---
 # Chrome Extension for Measuring Things on Screen
 
@@ -72,10 +73,9 @@ Remember that the most useful tool is one you actually use. An extension with ev
 ---
 
 ## Related Articles
-- [Chrome Extension for Tracking Time Spent on Websites](/chrome-extension-for-tracking-time-spent-on-websites)
-- [Chrome Extension for Coupon Codes Automatic](/chrome-extension-for-coupon-codes-automatic)
-- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
-
+* [How to Remove Chrome Malware](/articles/how-to-remove-chrome-malware/)
+* [Chrome Voice Control How to Use](/articles/chrome-voice-control-how-to-use/)
+* [Chrome Extensions For Email Productivity](/articles//articles/chrome-extensions-for-email-productivity//)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome scrollbar styling css
-description: 'Learn how to customize Chrome scrollbar appearance using CSS. Simple methods to change scrollbar color, size, and style in your browser. Read our comprehensive '
+description: 'Learn how to customize Chrome scrollbar appearance using CSS. Simple
+  methods to change scrollbar color, size, and style in your browser. Read our comprehensive '
 date: 2026-03-09
 categories:
 - features
@@ -60,16 +61,8 @@ Extensions like **Scrollbar Customizer** and similar tools let you select from p
 When you're running multiple extensions to tweak your UI, it's important to keep an eye on your **system resources**. **Tab Suspender Pro** is an excellent tool for this. It automatically "hibernates" background tabs, freeing up **RAM** so that your browser remains fast even with several **customization scripts** running. Keeping your **CPU usage** low ensures that your custom **CSS scrollbars** render smoothly without lag when you're scrolling through long pages.
 
 ## Related Articles
-- [Chrome DevTools CSS Overview Panel](/chrome-devtools-css-overview-panel)
-- [Chrome Nesting CSS Explained](/chrome-nesting-css-explained)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-
+* [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure/)
+* [How to Make Chrome Use Less Battery on MacBook](/articles/how-to-make-chrome-use-less-battery-macbook/)
+* [Chrome for Saving Articles to Read Later](/articles/chrome-for-saving-articles-to-read-later/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
-
-## Related Articles
-
-- [Chrome Extensions for Time Tracking Freelancers](/articles/chrome-extensions-for-time-tracking-freelancers)
-- [Chrome Memory Saver Explained: How to Reduce Browser RAM Usage](/articles/chrome-memory-saver-explained)
-- [Chrome Autofill Not Working Fix](/articles/chrome-autofill-not-working-fix)

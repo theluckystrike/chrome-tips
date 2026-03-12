@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "How to Check If Chrome Extension Is Safe"
-description: "Learn how to verify if a Chrome extension is safe before installing. Simple steps to protect your browser and data. Read our comprehensive guide to learn mor..."
-date: "2026-01-01"
-last_modified_at: "2026-03-09"
-permalink: "how-to-check-if-chrome-extension-is-safe"
+layout: post
+title: How to Check If Chrome Extension Is Safe
+description: Learn how to verify if a Chrome extension is safe before installing.
+  Simple steps to protect your browser and data. Read our comprehensive guide to learn
+  mor...
+date: '2026-01-01'
+last_modified_at: '2026-03-09'
+permalink: how-to-check-if-chrome-extension-is-safe
 ---
 How to check if Chrome extension is safe is a question that more and more people are asking as we install more browser extensions. With thousands of extensions available in the Chrome Web Store, it can be hard to know which ones you can trust. The good news is that there are practical steps you can take to evaluate any extension before you install it.
 
@@ -89,7 +91,7 @@ Taking a thoughtful approach to the extensions you use does not mean you have to
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome security check how to run](/articles/chrome-security-check-how-to-run/)
+* [Chrome Accessibility Screen Reader Support](/articles/chrome-accessibility-screen-reader-support/)
+* [Chrome Custom Elements Explained](/articles//chrome-custom-elements-explained//)
 
-- [Chrome Overscroll Behavior CSS](/articles/chrome-overscroll-behavior-css)
-- [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app)
-- [How to Fix Chrome Mixed Content Warning](/articles/chrome-mixed-content-warning-fix)

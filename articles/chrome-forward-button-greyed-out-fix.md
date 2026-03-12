@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Forward Button Greyed Out Fix"
-description: "Chrome forward button greyed out can be frustrating. Learn why it happens and simple steps to get it working again. Check out our expert recommendations and ti"
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-forward-button-greyed-out-fix"
-categories: [troubleshooting, tips]
-tags: [chrome-forward-button, forward-button-greyed-out, chrome-fix, browser-tips]
-author: "theluckystrike"
+layout: post
+title: Chrome Forward Button Greyed Out Fix
+description: Chrome forward button greyed out can be frustrating. Learn why it happens
+  and simple steps to get it working again. Check out our expert recommendations and
+  ti
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-forward-button-greyed-out-fix
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-forward-button
+- forward-button-greyed-out
+- chrome-fix
+- browser-tips
+author: theluckystrike
 ---
 # Chrome Forward Button Greyed Out Fix
 
@@ -96,7 +104,7 @@ Sometimes browser problems can be related to malware or unwanted programs on you
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Camera Microphone Permission Manage: Complete Guide](/articles/chrome-camera-microphone-permission-manage/)
+* [Best Settings to Speed Up Chrome 2026](/articles/best-settings-to-speed-up-chrome-2026/)
+* [chrome for tradingview best extensions](/articles/chrome-for-tradingview-best-extensions/)
 
-- [Chrome Overscroll Behavior CSS](/articles/chrome-overscroll-behavior-css)
-- [Why Is Chrome So Much Slower Than It Used to Be](/articles/why-is-chrome-so-much-slower-than-it-used-to-be)
-- [Chrome Extensions for Video Playback Speed Control](/articles/chrome-extensions-for-video-playback-speed-control)

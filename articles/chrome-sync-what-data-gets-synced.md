@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Sync What Data Gets Synced
-description: Wondering what data Chrome sync saves and shares across your devices? Learn exactly what gets synced and how to control it. Read our comprehensive guide to lear
+description: Wondering what data Chrome sync saves and shares across your devices?
+  Learn exactly what gets synced and how to control it. Read our comprehensive guide
+  to lear
 date: 2025-03-09
 categories:
 - troubleshooting
@@ -86,10 +88,9 @@ Managing your tabs well goes hand in hand with sync, because fewer tabs mean les
 ---
 
 ## Related Articles
-- [Chrome Guest Browsing: What Data Is Saved](/chrome-guest-browsing-what-data-is-saved)
-- [Chrome Reset All Settings: What Gets Deleted](/chrome-reset-all-settings-what-gets-deleted)
-- [Chrome Telemetry What Data Google Collects](/chrome-telemetry-what-data-google-collects)
-
+* [chrome safe browsing should i turn on](/articles/chrome-safe-browsing-should-i-turn-on/)
+* [Chrome Web Share API Explained](/articles/chrome-web-share-api-explained/)
+* [How to Update Chrome on Android](/articles/how-to-update-chrome-on-android/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

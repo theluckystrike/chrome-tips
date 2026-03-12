@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Service Worker High CPU Fix
-description: 'Is your Chrome browser running slow due to service workers? Learn practical solutions to fix high CPU usage from Chrome service workers. Read our comprehensive '
+description: 'Is your Chrome browser running slow due to service workers? Learn practical
+  solutions to fix high CPU usage from Chrome service workers. Read our comprehensive '
 date: 2025-12-14
 categories:
 - performance
@@ -78,7 +79,7 @@ Remember that service workers are generally beneficial for web performance. The 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Instagram Web Tips](/articles/chrome-for-instagram-web-tips/)
+* [Chrome Flexbox Debugging Guide](/articles/chrome-flexbox-debugging/)
+* [Chrome Extension for Website Blocker Parental](/articles/chrome-extension-for-website-blocker-parental/)
 
-- [chrome for codesandbox optimization](/articles/chrome-for-codesandbox-optimization)
-- [Best Chrome Extensions for Web Developers 2026](/articles/best-chrome-extensions-for-web-developers-2026)
-- [Chrome on iPhone — Tips and Tricks for 2026](/articles/chrome-on-iphone-tips-and-tricks-2026)

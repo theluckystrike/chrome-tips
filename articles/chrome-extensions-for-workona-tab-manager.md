@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Extensions for Workona Tab Manager"
-description: "Discover Chrome extensions that enhance Workona tab manager. Learn how to reduce memory usage and boost productivity. Read our comprehensive guide to learn m..."
+title: Chrome Extensions for Workona Tab Manager
+description: Discover Chrome extensions that enhance Workona tab manager. Learn how
+  to reduce memory usage and boost productivity. Read our comprehensive guide to learn
+  m...
 date: 2026-03-10
 last_modified_at: 2026-03-09
 permalink: chrome-extensions-for-workona-tab-manager
@@ -49,7 +51,7 @@ The combination of Workona for organization and a tab suspension extension for p
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Bookmark Current Page Shortcut](/articles/chrome-bookmark-current-page-shortcut/)
+* [Chrome for Cold Turkey Blocker Setup](/articles/chrome-for-cold-turkey-blocker-setup/)
+* [Chrome Password Manager vs Bitwarden: Which One Should You Use?](/articles/chrome-password-manager-vs-bitwarden/)
 
-- [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out)
-- [chrome vs firefox for mac which is faster](/articles/chrome-vs-firefox-for-mac-which-is-faster)
-- [Chrome for Evernote Web Clipper Tips](/articles/chrome-for-evernote-web-clipper-tips)

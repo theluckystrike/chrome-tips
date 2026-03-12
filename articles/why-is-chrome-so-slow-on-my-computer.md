@@ -1,13 +1,15 @@
 ---
-layout: "default"
-title: "Why Is Chrome So Slow on My Computer?"
-description: "Chrome running slowly? This guide explains the common reasons why Chrome slows down and provides practical solutions to speed it up. Read our comprehensive g..."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "why-is-chrome-so-slow-on-my-computer"
-categories: "[performance, troubleshooting]"
-tags: "[chrome-slow, browser-speed, computer-performance, chrome-fixes]"
-author: "theluckystrike"
+layout: default
+title: Why Is Chrome So Slow on My Computer?
+description: Chrome running slowly? This guide explains the common reasons why Chrome
+  slows down and provides practical solutions to speed it up. Read our comprehensive
+  g...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: why-is-chrome-so-slow-on-my-computer
+categories: '[performance, troubleshooting]'
+tags: '[chrome-slow, browser-speed, computer-performance, chrome-fixes]'
+author: theluckystrike
 ---
 # Why Is Chrome So Slow on My Computer?
 
@@ -155,7 +157,7 @@ If you've tried everything and Chrome is still slow, consider:
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Tech Support Scam Popup Fix](/articles/chrome-tech-support-scam-popup-fix/)
+* [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup/)
+* [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord//)
 
-- [Chrome Address Bar Not Working Fix](/articles/chrome-address-bar-not-working-fix)
-- [Chrome Extensions For Font Changing](/articles//articles/chrome-extensions-for-font-changing/)
-- [Chrome Service Worker High CPU Fix](/articles/chrome-service-worker-high-cpu-fix)

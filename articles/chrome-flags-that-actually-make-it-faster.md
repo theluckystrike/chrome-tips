@@ -1,6 +1,8 @@
 ---
 title: 'Chrome Flags That Actually Make It Faster: A Practical Guide for Slow Computers'
-description: Discover Chrome flags that can genuinely speed up your browser on older hardware. Simple step-by-step solutions for computers with limited RAM. Find out more...
+description: Discover Chrome flags that can genuinely speed up your browser on older
+  hardware. Simple step-by-step solutions for computers with limited RAM. Find out
+  more...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-flags-that-actually-make-it-faster
@@ -114,10 +116,9 @@ Your old computer doesn't have to feel slow anymore. A few simple changes can gi
 ---
 
 ## Related Articles
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-- [Chrome Do Not Track: Does It Actually Work](/chrome-do-not-track-does-it-actually-work)
-- [Chrome Dark Reader Extension Worth It](/chrome-dark-reader-extension-worth-it)
-
+* [Chrome Update Failed Error 12 Fix](/articles/chrome-update-failed-error-12-fix/)
+* [Chrome Extensions Disappeared After Update](/articles/chrome-extensions-disappeared-after-update/)
+* [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

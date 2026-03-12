@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Dyslexia Friendly Extensions"
-description: "Discover chrome dyslexia friendly extensions that make reading easier. Learn about tools for font customization, text highlighting, and distraction-free brow..."
+title: Chrome Dyslexia Friendly Extensions
+description: Discover chrome dyslexia friendly extensions that make reading easier.
+  Learn about tools for font customization, text highlighting, and distraction-free
+  brow...
 date: 2026-01-15
 last_modified_at: 2026-03-10
 permalink: chrome-dyslexia-friendly-extensions
@@ -55,7 +57,7 @@ Remember that these tools are meant to help, not to replace good browsing habits
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome User Data Folder Where Is It](/articles/chrome-user-data-folder-where-is-it/)
+* [Chrome Extensions for Image Downloader Bulk](/articles/chrome-extensions-for-image-downloader-bulk/)
+* [Chrome Extensions for Website Blocker](/articles/chrome-extensions-for-website-blocker/)
 
-- [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained)
-- [Chrome Tabs Taking Forever to Load? Here's What to Do](/articles/chrome-tabs-taking-forever-to-load)
-- [Chrome Large Font Easy to Read Setup](/articles/chrome-large-font-easy-to-read-setup)

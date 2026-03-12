@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Google Scholar Best Extensions
-description: Discover the best Chrome extensions for Google Scholar that can improve your research workflow and help you find academic papers faster. Discover more tips a
+description: Discover the best Chrome extensions for Google Scholar that can improve
+  your research workflow and help you find academic papers faster. Discover more tips
+  a
 date: 2026-03-10
 categories:
 - productivity
@@ -77,7 +79,7 @@ Once you have the right tools in place, you will notice a smoother research proc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Language Translation Extensions Comparison](/articles/chrome-for-language-translation-extensions-comparison/)
+* [chrome site notifications stop all](/articles/chrome-site-notifications-stop-all/)
+* [Chrome Keep Crashing Fix 2026](/articles/chrome-keep-crashing-fix-2026/)
 
-- [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api)
-- [chrome extensions for website distraction blocker](/articles/chrome-extensions-for-website-distraction-blocker)
-- [Chrome Settings You Should Change Right Now](/articles/chrome-settings-you-should-change-right-now)

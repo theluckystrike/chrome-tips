@@ -1,13 +1,15 @@
 ---
-title: "chrome extensions for accessibility needs"
-description: "Discover practical chrome extensions for accessibility needs that make browsing easier for everyone. Learn about tools for reading, navigation, and visual as..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-extensions-for-accessibility-needs"
-layout: "post"
-categories: "[extensions, accessibility]"
-tags: "[chrome-extension, accessibility, browser, assistive-technology]"
-author: "theluckystrike"
+title: chrome extensions for accessibility needs
+description: Discover practical chrome extensions for accessibility needs that make
+  browsing easier for everyone. Learn about tools for reading, navigation, and visual
+  as...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-accessibility-needs
+layout: post
+categories: '[extensions, accessibility]'
+tags: '[chrome-extension, accessibility, browser, assistive-technology]'
+author: theluckystrike
 ---
 # Chrome Extensions for Accessibility Needs
 
@@ -88,10 +90,9 @@ Your needs may change over time. An extension that seems unnecessary today might
 Remember: accessibility isn't about finding a single solution—it's about building a personal toolkit that makes the web work for you.
 
 ## Related Articles
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for Color Accessibility Checker](/chrome-extensions-for-color-accessibility-checker)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-
+* [How to Find Chrome Extensions That Slow Down Browser](/articles/how-to-find-chrome-extensions-that-slow-down-browser/)
+* [Chrome Extensions for Gantt Chart](/articles/chrome-extensions-for-gantt-chart/)
+* [chrome color mix function css](/articles/chrome-color-mix-function-css/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

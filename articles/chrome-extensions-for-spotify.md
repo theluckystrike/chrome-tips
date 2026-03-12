@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Spotify"
-description: "Discover the best Chrome extensions for Spotify that enhance your music experience, improve playlists, and boost productivity. Read our comprehensive guide t..."
+title: Chrome Extensions for Spotify
+description: Discover the best Chrome extensions for Spotify that enhance your music
+  experience, improve playlists, and boost productivity. Read our comprehensive guide
+  t...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-spotify
-categories: [entertainment, tips]
-tags: [chrome-extensions, spotify, music]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-spotify
+categories:
+- entertainment
+- tips
+tags:
+- chrome-extensions
+- spotify
+- music
+author: theluckystrike
 ---
 # Chrome Extensions for Spotify
 
@@ -72,7 +77,7 @@ Once you start using these extensions, you will wonder how you ever listened to 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Inspect and Debug WebSocket Connections in Chrome](/articles/chrome-websocket-inspect-debug/)
+* [Chrome Cross Browser Testing Tips](/articles/chrome-cross-browser-testing-tips/)
+* [Chrome Web Apps vs Native Apps Comparison](/articles/chrome-web-apps-vs-native-apps-comparison/)
 
-- [Chrome vs Arc Browser: Should I Switch?](/articles/chrome-vs-arc-browser-should-i-switch)
-- [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained)
-- [Chrome Slow on Android Fix](/articles/chrome-slow-on-android-fix)

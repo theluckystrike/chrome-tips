@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Text to Speech Extension Best"
-description: "Discover the best Chrome text to speech extensions that can read web content aloud for you. Read our comprehensive guide to learn more and optimize your brow..."
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-text-to-speech-extension-best"
-categories: "[accessibility, tips]"
-tags: "[chrome-extensions, text-to-speech, accessibility, browser-tools]"
-author: "theluckystrike"
+layout: post
+title: Chrome Text to Speech Extension Best
+description: Discover the best Chrome text to speech extensions that can read web
+  content aloud for you. Read our comprehensive guide to learn more and optimize your
+  brow...
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-text-to-speech-extension-best
+categories: '[accessibility, tips]'
+tags: '[chrome-extensions, text-to-speech, accessibility, browser-tools]'
+author: theluckystrike
 ---
 # Chrome Text to Speech Extension Best
 
@@ -74,10 +76,9 @@ Text to speech technology has made it easier than ever to consume web content in
 ---
 
 ## Related Articles
-- [Chrome Text to Speech Built In Features](/chrome-text-to-speech-built-in-features)
-- [Chrome GDPR Cookie Banners Best Extension to Handle](/chrome-gdpr-cookie-banners-best-extension-to-handle)
-- [Best Screenshot Chrome Extension](/best-screenshot-chrome-extension)
-
+* [Chrome Extension for Taking Notes While Browsing](/articles/chrome-extension-for-taking-notes-while-browsing/)
+* [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/articles/should-i-switch-to-edge-for-speed/)
+* [Chrome for Deepl Translator Extension](/articles/chrome-for-deepl-translator-extension/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

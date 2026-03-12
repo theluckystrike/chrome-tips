@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "How to Find a Tab by Name in Chrome: Complete Guide"
-description: "Struggling to find a specific tab in Chrome? Learn built-in methods and extensions to quickly search and locate tabs by name, title, or URL. Practical soluti..."
+title: 'How to Find a Tab by Name in Chrome: Complete Guide'
+description: Struggling to find a specific tab in Chrome? Learn built-in methods and
+  extensions to quickly search and locate tabs by name, title, or URL. Practical soluti...
 date: 2026-01-15
-last_modified_at: 2026-03-11
-permalink: chrome-find-tab-by-name-search
-categories: [chrome, tabs, productivity]
-tags: [chrome-tabs, tab-search, browser-tips, productivity]
-author: theluckystrike
 last_modified_at: '2026-03-11'
 permalink: chrome-find-tab-by-name-search
+categories:
+- chrome
+- tabs
+- productivity
+tags:
+- chrome-tabs
+- tab-search
+- browser-tips
+- productivity
+author: theluckystrike
 ---
 # How to Find a Tab by Name in Chrome: Complete Guide
 
@@ -104,10 +110,9 @@ Finding a specific tab in Chrome is easy once you know these methods:
 Next time you have 20 tabs open and can't find that one important page, try these shortcuts. They'll save you time and frustration—whether you're on a fast desktop or a slower computer with limited resources.
 
 ## Related Articles
-- [How to Find a Specific Tab in Chrome](/how-to-find-a-specific-tab-in-chrome)
-- [Chrome Image Search By Url How To](/chrome-image-search-by-url-how-to)
-- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
-
+* [Chrome Slow With Many Tabs Open? Here's How to Fix It](/articles/chrome-slow-with-many-tabs-open/)
+* [Chrome Startup Pages How to Set Multiple](/articles/chrome-startup-pages-how-to-set-multiple/)
+* [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

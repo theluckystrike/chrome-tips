@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "chrome themes how to change and customize"
-description: "Learn how to change and customize Chrome themes with this simple guide. Find out how to personalize your browser appearance. Read our comprehensive guide to ..."
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-themes-how-to-change-and-customize"
-categories: "[features, customization]"
-tags: "[themes, chrome-settings, appearance, customization]"
-author: "theluckystrike"
+layout: post
+title: chrome themes how to change and customize
+description: Learn how to change and customize Chrome themes with this simple guide.
+  Find out how to personalize your browser appearance. Read our comprehensive guide
+  to ...
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-themes-how-to-change-and-customize
+categories: '[features, customization]'
+tags: '[themes, chrome-settings, appearance, customization]'
+author: theluckystrike
 ---
 # Chrome Themes How to Change and Customize
 
@@ -78,10 +80,9 @@ Take your time browsing through the options. The Chrome Web Store has many free 
 ---
 
 ## Related Articles
-- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chrome Process Per Tab Why and How to Change](/chrome-process-per-tab-why-and-how-to-change)
-
+* [Chrome Mixed Content Warning What It Means](/articles/chrome-mixed-content-warning-what-it-means/)
+* [Chrome Extensions for Research Papers](/articles/chrome-extensions-for-research-papers/)
+* [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

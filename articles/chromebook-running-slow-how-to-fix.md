@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chromebook Running Slow How to Fix"
-description: "Is your Chromebook running slow? Here are practical solutions to speed up your device and get it performing like new again. Read our comprehensive guide to l..."
-date: "2025-02-16"
-last_modified_at: "2026-03-10"
-permalink: "chromebook-running-slow-how-to-fix"
-categories: "[chromebook, performance]"
-tags: "[chromebook, slow, speed, performance, fix]"
-author: "theluckystrike"
+layout: post
+title: Chromebook Running Slow How to Fix
+description: Is your Chromebook running slow? Here are practical solutions to speed
+  up your device and get it performing like new again. Read our comprehensive guide
+  to l...
+date: '2025-02-16'
+last_modified_at: '2026-03-10'
+permalink: chromebook-running-slow-how-to-fix
+categories: '[chromebook, performance]'
+tags: '[chromebook, slow, speed, performance, fix]'
+author: theluckystrike
 ---
 # Chromebook Running Slow How to Fix
 
@@ -96,7 +98,7 @@ With these simple habits, you can keep your Chromebook running smoothly for year
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Site Isolation Explained for Users](/articles/chrome-site-isolation-explained-for-users/)
+* [Chrome Compact Mode How to Enable](/articles/chrome-compact-mode-how-to-enable/)
+* [Chrome Task Manager How to Use](/articles/chrome-task-manager-how-to-use/)
 
-- [How to Export Chrome Passwords](/articles/how-to-export-chrome-passwords)
-- [chrome first party vs third party cookies](/articles/chrome-first-party-vs-third-party-cookies)
-- [Chrome Extensions For Figma Companion](/articles//articles/chrome-extensions-for-figma-companion/)

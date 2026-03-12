@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Email Productivity Extensions
-description: Learn how Chrome for email productivity extensions can transform your inbox management and save hours every week. Find out more tips on how to optimize your ...
+description: Learn how Chrome for email productivity extensions can transform your
+  inbox management and save hours every week. Find out more tips on how to optimize
+  your ...
 date: 2026-03-10
 categories:
 - email
@@ -75,7 +77,7 @@ Remember that extensions are tools, and like any tools, they work best when used
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Address Bar Not Showing Full URL Fix](/articles/chrome-address-bar-not-showing-full-url-fix/)
+* [Google Chrome vs Chromium Difference Explained](/articles/google-chrome-vs-chromium-difference-explained/)
+* [Chrome Android Slow Fix 2026](/articles/chrome-android-slow-fix-2026/)
 
-- [Chrome Hardware Acceleration Gaming: Complete Optimization Guide](/articles/chrome-hardware-acceleration-gaming)
-- [Chrome Source Maps Explained Simply](/articles/chrome-source-maps-explained-simply)
-- [Chrome Cookie Consent Popups How to Handle](/articles/chrome-cookie-consent-popups-how-to-handle)

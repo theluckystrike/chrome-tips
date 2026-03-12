@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to Sign Out of Google in Chrome Without Losing Your Data
-description: Want to sign out of your Google account in Chrome without losing bookmarks, history, or saved passwords? Learn the safe methods to disconnect your account wh...
+description: Want to sign out of your Google account in Chrome without losing bookmarks,
+  history, or saved passwords? Learn the safe methods to disconnect your account wh...
 date: 2026-01-15
 categories:
 - chrome
@@ -105,10 +106,9 @@ For most users, the simplest method (Method 1) is perfectly safe and keeps all y
 Whatever method you choose, you can now sign out of your Google account confidently, knowing that your bookmarks, passwords, and browsing data are protected.
 
 ## Related Articles
-- [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
-- [Chrome Keeps Logging Me Out of Websites Fix](/chrome-keeps-logging-me-out-of-websites-fix)
-- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
-
+* [How to Set Homepage on Chrome](/articles/how-to-set-homepage-on-chrome/)
+* [Chrome Eyedropper API Explained](/articles/chrome-eyedropper-api-explained/)
+* [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

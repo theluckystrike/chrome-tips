@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Google Maps Slow and Laggy Fix"
-description: "Is Google Maps running slow in Chrome? Discover practical fixes to speed up Google Maps, from disabling hardware acceleration to managing tabs and extensions."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-google-maps-slow-and-laggy-fix"
-categories: [chrome, google-maps, performance]
-tags: [chrome-performance, google-maps, browser-tips, speed-up]
-author: "theluckystrike"
+layout: post
+title: Chrome Google Maps Slow and Laggy Fix
+description: Is Google Maps running slow in Chrome? Discover practical fixes to speed
+  up Google Maps, from disabling hardware acceleration to managing tabs and extensions.
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-google-maps-slow-and-laggy-fix
+categories:
+- chrome
+- google-maps
+- performance
+tags:
+- chrome-performance
+- google-maps
+- browser-tips
+- speed-up
+author: theluckystrike
 ---
 # Chrome Google Maps Slow and Laggy Fix
 
@@ -119,10 +127,9 @@ Start with the simplest fixes first, such as closing unnecessary tabs and cleari
 ---
 
 ## Related Articles
-- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
-- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
-- [Chrome Slow After Hibernation Fix](/chrome-slow-after-hibernation-fix)
-
+* [Chrome Address Bar Focus Shortcut](/articles/chrome-address-bar-focus-shortcut/)
+* [Chrome vs Safari 2026 Comparison](/articles/chrome-vs-safari-2026/)
+* [Chrome Text Wrap Balance CSS](/articles/chrome-text-wrap-balance-css/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

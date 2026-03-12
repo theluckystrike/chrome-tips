@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for any.do web app setup
-description: Learn how to set up chrome for any.do web app with practical tips to boost your productivity and manage tasks smoothly in your browser. Find out more tips on...
+description: Learn how to set up chrome for any.do web app with practical tips to
+  boost your productivity and manage tasks smoothly in your browser. Find out more
+  tips on...
 date: 2026-01-15
 categories:
 - productivity
@@ -66,7 +68,7 @@ Setting up Chrome for Any.do does not take much time, but it can significantly i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Autofill Settings Complete Guide](/articles/chrome-autofill-settings-complete/)
+* [Chrome Autofill Suggestions How to Delete One](/articles/chrome-autofill-suggestions-how-to-delete-one/)
+* [Chrome for Blue Light Filter Extensions](/articles/chrome-for-blue-light-filter-extensions/)
 
-- [Chrome for Managing Site Notifications](/articles/chrome-for-managing-site-notifications)
-- [Chrome Extensions For Color Palette Picker](/articles//articles/chrome-extensions-for-color-palette-picker/)
-- [Chrome for Deepl Translator Extension](/articles/chrome-for-deepl-translator-extension)

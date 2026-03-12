@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Overriding CSS in DevTools: A Practical Tutorial'
-description: Learn how to override CSS in Chrome DevTools to test style changes instantly. This step-by-step guide covers quick edits, permanent changes, and real-world d...
+description: Learn how to override CSS in Chrome DevTools to test style changes instantly.
+  This step-by-step guide covers quick edits, permanent changes, and real-world d...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-overriding-css-in-devtools-tutorial
@@ -17,8 +18,6 @@ tags:
 - browser-tools
 - debugging
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-overriding-css-in-devtools-tutorial
 ---
 # Chrome Overriding CSS in DevTools: A Practical Tutorial
 
@@ -187,9 +186,9 @@ Chrome DevTools is an incredibly powerful CSS editing environment. The ability t
 
 Start with simple changes—modify a color or adjust a margin—and gradually explore more advanced features. Before long, you'll wonder how you ever worked without these tools.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 ## Related Articles
+* [Chrome Developer Tools Shortcut](/articles//chrome-developer-tools-shortcut//)
+* [Chrome Multiple Users Same Computer Setup](/articles/chrome-multiple-users-same-computer-setup/)
+* [How to Backup Chrome Bookmarks and Passwords](/articles/how-to-backup-chrome-bookmarks-and-passwords/)
 
-- [Chrome Startup Too Slow Diagnosis Guide](/articles/chrome-startup-too-slow-diagnosis-guide)
-- [Chrome Scaling Blurry on External Monitor Fix](/articles/chrome-scaling-blurry-on-external-monitor-fix)
-- [Chrome Session Storage vs Local Storage: What's the Difference?](/articles/chrome-session-storage-vs-local-storage)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

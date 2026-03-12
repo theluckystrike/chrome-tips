@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome for github copilot web setup
-description: Learn how to set up GitHub Copilot in Chrome for web-based coding assistance. Simple steps to enhance your browser with AI coding help. Discover more tips an
+description: Learn how to set up GitHub Copilot in Chrome for web-based coding assistance.
+  Simple steps to enhance your browser with AI coding help. Discover more tips an
 date: 2026-01-15
 categories:
 - extensions
@@ -72,7 +73,7 @@ Take some time to explore different options and find what feels most natural. Th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome source maps debug minified code](/articles/chrome-source-maps-debug-minified-code/)
+* [Chrome Freezes My Whole Computer](/articles/chrome-freezes-my-whole-computer/)
+* [chrome home screen shortcut how to add on phone](/articles/chrome-home-screen-shortcut-how-to-add-on-phone/)
 
-- [chrome mobile save page offline how to](/articles/chrome-mobile-save-page-offline-how-to)
-- [chrome shared storage api privacy ads](/articles/chrome-shared-storage-api-privacy-ads)
-- [Chrome Google Workspace Integration Tips](/articles/chrome-google-workspace-integration-tips)

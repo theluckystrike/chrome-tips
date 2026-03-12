@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Safe Search How to Lock
-description: Learn how to lock safe search in Chrome to filter explicit content and protect your browsing experience from unwanted results. Read our comprehensive guide to l
+description: Learn how to lock safe search in Chrome to filter explicit content and
+  protect your browsing experience from unwanted results. Read our comprehensive guide
+  to l
 date: 2026-01-20
 categories:
 - privacy
@@ -66,10 +68,9 @@ Beyond locking safe search, there are other steps you can take to create a safer
 For parents, having open conversations with children about internet safety is just as important as technical controls. Explain why certain content is filtered and teach them how to make good decisions online. Technical tools work best when combined with education and open communication about browsing habits.
 
 ## Related Articles
-- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
-- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
-- [Chrome Image Search By Url How To](/chrome-image-search-by-url-how-to)
-
+* [Chrome Extension Alternative to Grammarly Free](/articles/chrome-extension-alternative-to-grammarly-free/)
+* [Chrome Notification Badge on PWA How to Enable](/articles/chrome-notification-badge-on-pwa-how-to-enable/)
+* [Chrome Black Screen When Opening Fix: Complete Practical Guide](/articles/chrome-black-screen-when-opening-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

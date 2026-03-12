@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Vertical Tabs Enable 2026"
-description: "Learn how to enable Chrome vertical tabs in 2026. Step-by-step guide to activate this feature and organize your browser tabs efficiently. Read our comprehens..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-vertical-tabs-enable-2026"
-categories: "[features, productivity]"
-tags: "[vertical-tabs, tab-organization, chrome-features, chrome-2026]"
-author: "theluckystrike"
+layout: post
+title: Chrome Vertical Tabs Enable 2026
+description: Learn how to enable Chrome vertical tabs in 2026. Step-by-step guide
+  to activate this feature and organize your browser tabs efficiently. Read our comprehens...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-vertical-tabs-enable-2026
+categories: '[features, productivity]'
+tags: '[vertical-tabs, tab-organization, chrome-features, chrome-2026]'
+author: theluckystrike
 ---
 # Chrome Vertical Tabs Enable 2026
 
@@ -70,10 +71,9 @@ Enabling Chrome vertical tabs in 2026 is a simple process that can make a huge d
 Take a few minutes to enable vertical tabs using either the Settings method or the Flags method, customize the sidebar width to your liking, and consider adding Tab Suspender Pro for optimal performance. Once you experience the difference, you will wonder how you ever managed without it.
 
 ## Related Articles
-- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
-- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
-- [How To Group Tabs In Chrome 2026](/how-to-group-tabs-in-chrome-2026)
-
+* [Chrome Shopping List Feature How to Use](/articles/chrome-shopping-list-feature-how-to-use/)
+* [Chrome How to Print Selection Only](/articles/chrome-how-to-print-selection-only/)
+* [Chrome Coverage Tool Guide](/articles/chrome-coverage-tool-guide/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

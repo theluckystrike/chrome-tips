@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Follow Website Feature What It Does
-description: Learn what the Chrome follow website feature does and how to use it to stay updated on your favorite sites. Find out more tips on how to optimize your Chrome...
+description: Learn what the Chrome follow website feature does and how to use it to
+  stay updated on your favorite sites. Find out more tips on how to optimize your
+  Chrome...
 date: '2026-03-10'
 last_modified_at: '2026-03-12'
 permalink: chrome-follow-website-feature-what-it-does
@@ -59,7 +61,7 @@ Think about how you actually browse and what will fit into your routine. The mos
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Speed Up Chrome on 2GB RAM Laptop](/articles/how-to-speed-up-chrome-on-2gb-ram-laptop/)
+* [Chrome Extensions for Website Testing](/articles/chrome-extensions-for-website-testing/)
+* [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained/)
 
-- [chrome webrtc video call quality improvement](/articles/chrome-webrtc-video-call-quality-improvement)
-- [Chrome Frame Rate How to Check](/articles/chrome-frame-rate-how-to-check)
-- [Chrome Extensions for Vertical Tabs Sidebar](/articles/chrome-extensions-for-vertical-tabs-sidebar)

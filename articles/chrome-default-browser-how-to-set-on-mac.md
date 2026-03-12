@@ -82,7 +82,7 @@ Your default browser is a personal choice, and Chrome offers a great experience 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extension for YouTube Ad Blocker](/articles/chrome-extension-for-youtube-ad-blocker/)
+* [Chromebook for Seniors Setup Guide](/articles/chromebook-for-seniors-setup-guide/)
+* [How to Simulate Slow Connection in Chrome for Testing](/articles/chrome-simulate-slow-connection-for-testing/)
 
-- [Best Chrome Extensions for Language Learning](/articles/best-chrome-extensions-for-language-learning)
-- [How to Turn Off Chrome Notifications on Android](/articles/how-to-turn-off-chrome-notifications-android)
-- [Chrome Flexbox Inspector How to Use](/articles/chrome-flexbox-inspector-how-to-use)

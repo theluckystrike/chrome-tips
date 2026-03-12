@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Lite Mode on Android: What Happened"
-description: "Chrome Lite Mode on Android was a data-saving feature that compressed pages. Learn what happened to it and what alternatives you can use now. Check out our exp"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-lite-mode-on-android-what-happened"
-categories: [android, performance]
-tags: [chrome-lite-mode, android, mobile-browser, data-saving]
-author: "theluckystrike"
+layout: post
+title: 'Chrome Lite Mode on Android: What Happened'
+description: Chrome Lite Mode on Android was a data-saving feature that compressed
+  pages. Learn what happened to it and what alternatives you can use now. Check out
+  our exp
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-lite-mode-on-android-what-happened
+categories:
+- android
+- performance
+tags:
+- chrome-lite-mode
+- android
+- mobile-browser
+- data-saving
+author: theluckystrike
 ---
 # Chrome Lite Mode on Android: What Happened
 
@@ -70,7 +78,7 @@ If you have been missing Lite Mode, try exploring the alternatives mentioned her
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [chrome vs firefox privacy comparison 2026](/articles/chrome-vs-firefox-privacy-comparison-2026/)
+* [Chrome Saved Passwords How to View](/articles/chrome-saved-passwords-how-to-view/)
+* [Chrome for LeechBlock Setup and Tips](/articles/chrome-for-leechblock-setup-and-tips/)
 
-- [Chrome Extensions for Website Testing](/articles/chrome-extensions-for-website-testing)
-- [Chrome Accessibility Tree Guide](/articles/chrome-accessibility-tree-guide)
-- [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix)

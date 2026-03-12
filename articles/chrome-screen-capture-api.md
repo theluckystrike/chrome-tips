@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Screen Capture API Guide
-description: Master the Chrome Screen Capture API for web development. Learn screen sharing, window capture, tab capture, browser capture, display media constraints, and ...
+description: Master the Chrome Screen Capture API for web development. Learn screen
+  sharing, window capture, tab capture, browser capture, display media constraints,
+  and ...
 date: 2026-01-15
 categories:
 - chrome-api
@@ -471,10 +473,9 @@ Remember to consider how your screen capture features interact with other browse
 
 With this knowledge, you're well-equipped to implement screen capture functionality that meets your users' needs while maintaining the security and privacy standards that Chrome users expect.
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome vs Edge Battery Life Laptop Comparison](/articles/chrome-vs-edge-battery-life-laptop-comparison/)
+* [chrome prefetch dns how to enable](/articles/chrome-prefetch-dns-how-to-enable/)
+* [Chrome Android Reading List How to Use](/articles/chrome-android-reading-list-how-to-use/)
 
-## Related Articles
-
-- [How to Uninstall Chrome Completely and Reinstall](/articles/how-to-uninstall-chrome-completely-and-reinstall)
-- [Chrome OS vs Windows for Everyday Use](/articles/chrome-os-vs-windows-for-everyday-use)
-- [chrome for screenshot and annotation tools](/articles/chrome-for-screenshot-and-annotation-tools)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

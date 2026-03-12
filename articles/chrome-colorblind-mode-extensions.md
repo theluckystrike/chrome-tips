@@ -1,15 +1,22 @@
 ---
-title: "chrome colorblind mode extensions"
-description: "Find the best chrome colorblind mode extensions to make websites more visible. Learn about color filters, contrast tools, and accessibility extensions."
-date: "2026-01-15"
-last_modified_at: '2026-03-12'
-permalink: "chrome-colorblind-mode-extensions"
-layout: post
-categories: ['extensions', 'accessibility', 'colorblind']
-tags: ['chrome-extension', 'colorblind', 'accessibility', 'color-filter', 'vision']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: chrome colorblind mode extensions
+description: Find the best chrome colorblind mode extensions to make websites more
+  visible. Learn about color filters, contrast tools, and accessibility extensions.
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
 permalink: chrome-colorblind-mode-extensions
+layout: post
+categories:
+- extensions
+- accessibility
+- colorblind
+tags:
+- chrome-extension
+- colorblind
+- accessibility
+- color-filter
+- vision
+author: theluckystrike
 ---
 # Chrome Colorblind Mode Extensions
 
@@ -80,7 +87,7 @@ Accessibility is personal, and what works wonderfully for one person may not wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Online Exams Best Settings](/articles/chrome-for-online-exams-best-settings/)
+* [chrome browser process vs tab process explained](/articles/chrome-browser-process-vs-tab-process-explained/)
+* [Chrome Download Files on Phone Where to Find](/articles/chrome-download-files-on-phone-where-to-find/)
 
-- [Chrome Instant Apps on Android Explained](/articles/chrome-instant-apps-on-android-explained)
-- [Chrome Blob And File Api Explained](/articles/chrome-blob-and-file-api-explained)
-- [Chrome Extensions for Image Downloader Bulk](/articles/chrome-extensions-for-image-downloader-bulk)

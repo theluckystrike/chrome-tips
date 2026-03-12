@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "Chrome Clients Claim Take Control: What It Means for Your Browser"
-description: "Discover what Chrome clients claiming take control means and how it affects your browsing experience, privacy, and browser settings."
+title: 'Chrome Clients Claim Take Control: What It Means for Your Browser'
+description: Discover what Chrome clients claiming take control means and how it affects
+  your browsing experience, privacy, and browser settings.
 date: 2026-03-12
-categories: [browsers, chrome, privacy]
-tags: [chrome-clients, browser-control, chrome-settings, privacy]
+categories:
+- browsers
+- chrome
+- privacy
+tags:
+- chrome-clients
+- browser-control
+- chrome-settings
+- privacy
 author: theluckystrike
-last_modified_at: '2026-03-12'
+permalink: chrome-clients-claim-take-control
 ---
 # Chrome Clients Claim Take Control: What It Means for Your Browser
 
@@ -69,7 +77,6 @@ Remember, your browser is a powerful tool, and the extensions you install determ
 Built by theluckystrike — More tips at https://zovo.one
 
 ## Related Articles
-
-* [Chrome Devtools Edit HTML Live](//chrome-devtools-edit-html-live/)
-* [chrome screen reader support](/chrome-screen-reader-support)
-* [How to Set Homepage on Chrome](/how-to-set-homepage-on-chrome)
+* [Chrome Extensions for Invoice Creation](/articles/chrome-extensions-for-invoice-creation/)
+* [Chrome Overrides for Local Development](/articles/chrome-overrides-local-development/)
+* [How to Speed Up Chrome on Chromebook in 2026](/articles/how-to-speed-up-chrome-on-chromebook-2026/)

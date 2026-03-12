@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Version History: Major Milestones That Shaped the Browser"
-description: "Explore the key milestones in Chrome's version history—from its launch in 2008 to the modern AI-powered browser of 2026. Learn how Chrome evolved to dominate..."
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "chrome-version-history-major-milestones"
-categories: "[chrome, browser-history, web-development, technology]"
-tags: "[chrome-version, browser-history, google-chrome, chrome-milestones, chromium]"
-author: "theluckystrike"
+layout: post
+title: 'Chrome Version History: Major Milestones That Shaped the Browser'
+description: Explore the key milestones in Chrome's version history—from its launch
+  in 2008 to the modern AI-powered browser of 2026. Learn how Chrome evolved to dominate...
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-version-history-major-milestones
+categories: '[chrome, browser-history, web-development, technology]'
+tags: '[chrome-version, browser-history, google-chrome, chrome-milestones, chromium]'
+author: theluckystrike
 ---
 # Chrome Version History: Major Milestones That Shaped the Browser
 
@@ -81,10 +82,9 @@ Chrome continues to evolve rapidly. With AI integration accelerating, privacy fe
 Whether you're a developer building web applications or a casual user browsing the web, Chrome's version history demonstrates how far browser technology has come—and hints at where it's heading next.
 
 ## Related Articles
-- [Chrome Portable Version How To Get](/chrome-portable-version-how-to-get)
-- [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/chrome-ai-powered-history-search)
-- [Chrome On Linux Best Version 2026](/chrome-on-linux-best-version-2026)
-
+* [Chrome Reader Mode How to Activate](/articles/chrome-reader-mode-how-to-activate/)
+* [Chrome Extensions for Google Calendar](/articles/chrome-extensions-for-google-calendar/)
+* [chrome default browser how to set on windows](/articles//chrome-default-browser-how-to-set-on-windows//)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

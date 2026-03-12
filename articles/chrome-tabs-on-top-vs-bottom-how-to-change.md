@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Tabs on Top vs Bottom: How to Change"
-description: "Wondering how to move Chrome tabs from top to bottom or vice versa? Learn why Chrome changed this and what options you have now. Read our comprehensive guide..."
-date: "2025-03-13"
-last_modified_at: "2026-03-10"
-permalink: "chrome-tabs-on-top-vs-bottom-how-to-change"
-categories: "[customization, tips]"
-tags: "[tabs, chrome-settings, chrome-customization, chrome-tips]"
-author: "theluckystrike"
+layout: post
+title: 'Chrome Tabs on Top vs Bottom: How to Change'
+description: Wondering how to move Chrome tabs from top to bottom or vice versa? Learn
+  why Chrome changed this and what options you have now. Read our comprehensive guide...
+date: '2025-03-13'
+last_modified_at: '2026-03-10'
+permalink: chrome-tabs-on-top-vs-bottom-how-to-change
+categories: '[customization, tips]'
+tags: '[tabs, chrome-settings, chrome-customization, chrome-tips]'
+author: theluckystrike
 ---
 # Chrome Tabs on Top vs Bottom: How to Change
 
@@ -58,10 +59,9 @@ In the meantime, explore the settings and features you might not have tried befo
 If you find that you genuinely cannot live with the current layout and the experimental flags do not help, you might consider trying a different browser temporarily or alongside Chrome. Some browsers offer more customization options for things like tab positioning, though switching browsers entirely is a bigger commitment.
 
 ## Related Articles
-- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
-- [Chrome Permissions on Startup How to Configure](/chrome-permissions-on-startup-how-to-configure)
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-
+* [Chrome Extensions for Vertical Tab Bar](/articles/chrome-extensions-for-vertical-tab-bar/)
+* [Chrome Gesture Navigation on Android](/articles/chrome-gesture-navigation-on-android/)
+* [Chrome Telemetry What Data Google Collects](/articles/chrome-telemetry-what-data-google-collects/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

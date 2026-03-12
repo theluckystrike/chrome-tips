@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Nesting CSS Native Support
-description: Discover how Chrome's native CSS nesting support works, which versions enable it, and why it matters for modern web development and browsing. Learn effective...
+description: Discover how Chrome's native CSS nesting support works, which versions
+  enable it, and why it matters for modern web development and browsing. Learn effective...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-nesting-css-native-support
@@ -52,11 +53,12 @@ While Chrome native CSS nesting improves how websites render, managing browser r
 
 Additionally, keeping your Chrome installation updated ensures you always have the latest performance improvements and CSS feature support. Browser updates often include optimizations that make rendering faster and more efficient, complementing the benefits of modern CSS features like native nesting.
 
-## Related Articles
-- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)
-- [Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover Placement](/chrome-anchor-positioning-css)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
 
+
+## Related Articles
+* [Chrome Credential Management API: Complete Guide for Developers](/articles/chrome-credential-management-api/)
+* [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained/)
+* [Chrome Extensions for Vertical Tabs Sidebar](/articles/chrome-extensions-for-vertical-tabs-sidebar/)
 
 Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)
 

@@ -1,13 +1,15 @@
 ---
-title: "chrome extensions for journalists"
-description: "Find the best chrome extensions for journalists to work smarter, stay organized, and protect your sources online. Check out our expert recommendations and..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-journalists"
-layout: "post"
-categories: "[productivity, extensions]"
-tags: "[chrome-extensions, productivity, journalism, browser]"
-author: "theluckystrike"
+title: chrome extensions for journalists
+description: Find the best chrome extensions for journalists to work smarter, stay
+  organized, and protect your sources online. Check out our expert recommendations
+  and...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-journalists
+layout: post
+categories: '[productivity, extensions]'
+tags: '[chrome-extensions, productivity, journalism, browser]'
+author: theluckystrike
 ---
 # Chrome Extensions for Journalists
 
@@ -84,7 +86,7 @@ Take some time to try a few of these suggestions and see which ones make the big
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome vs firefox privacy comparison 2026](/articles/chrome-vs-firefox-privacy-comparison-2026/)
+* [Chrome for Skillshare Web App Setup](/articles/chrome-for-skillshare-web-app-setup/)
+* [Chrome Font Size How to Change Permanently](/articles/chrome-font-size-how-to-change-permanently/)
 
-- [Best Chrome Extensions for Twitter X](/articles/best-chrome-extensions-for-twitter-x)
-- [Chrome Downloads Tips Organize and Manage](/articles/chrome-downloads-tips-organize-and-manage)
-- [Chrome for YouTube 4K Playback Settings](/articles/chrome-for-youtube-4k-playback-settings)

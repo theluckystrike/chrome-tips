@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Reader View on Any Website
-description: Learn how to get reader view in Chrome on any website. Simple extension solutions for distraction-free reading. Discover more tips and tricks to optimize you
+description: Learn how to get reader view in Chrome on any website. Simple extension
+  solutions for distraction-free reading. Discover more tips and tricks to optimize
+  you
 date: 2026-01-20
 categories:
 - browsing
@@ -70,7 +72,7 @@ Take a moment to explore the options in the Chrome Web Store, install a reader v
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Tab Discard What It Means](/articles/chrome-tab-discard-what-it-means/)
+* [Chrome Interaction to Next Paint Explained: What It Means for You](/articles/chrome-interaction-to-next-paint-explained/)
+* [Chrome Extensions For Fitness Tracking](/articles//articles/chrome-extensions-for-fitness-tracking//)
 
-- [Chrome Scaling Blurry on External Monitor Fix](/articles/chrome-scaling-blurry-on-external-monitor-fix)
-- [chrome privacy sandbox what regular users should know](/articles/chrome-privacy-sandbox-what-regular-users-should-know)
-- [chrome color mix function css](/articles/chrome-color-mix-function-css)

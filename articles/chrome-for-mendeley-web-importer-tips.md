@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Mendeley Web Importer Tips
-description: Practical tips for using Chrome with Mendeley Web Importer to manage your research papers efficiently and stay organized. Discover more tips and tricks to op
+description: Practical tips for using Chrome with Mendeley Web Importer to manage
+  your research papers efficiently and stay organized. Discover more tips and tricks
+  to op
 date: 2026-03-10
 categories:
 - research
@@ -80,7 +82,7 @@ Set aside a few minutes each week to review what you have saved, add relevant ta
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome voice control navigate by speaking](/articles/chrome-voice-control-navigate-by-speaking/)
+* [Chrome Element Internals and Custom Elements: A Complete Guide](/articles/chrome-element-internals-custom-elements/)
+* [Chrome Content Encoding Error Fix](/articles/chrome-content-encoding-error-fix/)
 
-- [Chrome Memory Inspector How to Use](/articles/chrome-memory-inspector-how-to-use)
-- [Chrome WebRTC Leak Prevention Guide](/articles/chrome-webrtc-leak-prevention-guide)
-- [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead)

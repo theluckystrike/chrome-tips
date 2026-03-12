@@ -1,10 +1,11 @@
 ---
-layout: "post"
-title: "Chrome Tech Support Scam Popup Fix"
-description: "Got a fake tech support popup in Chrome? Learn how to recognize, remove, and prevent tech support scam popups with these practical solutions. Read our compre..."
-date: "2026-01-01"
-last_modified_at: "2026-03-11"
-permalink: "chrome-tech-support-scam-popup-fix"
+layout: post
+title: Chrome Tech Support Scam Popup Fix
+description: Got a fake tech support popup in Chrome? Learn how to recognize, remove,
+  and prevent tech support scam popups with these practical solutions. Read our compre...
+date: '2026-01-01'
+last_modified_at: '2026-03-11'
+permalink: chrome-tech-support-scam-popup-fix
 ---
 You're browsing peacefully when suddenly your screen freezes, a loud alarm blares, and a message claims your computer is infected with viruses. The popup looks official — it has Microsoft's logo, a phone number, and warns that your data is at risk. Sound familiar? This is a tech support scam, and it is one of the most common browser annoyances in 2026.
 
@@ -118,10 +119,9 @@ Tech support scam popups in Chrome are frightening but preventable. The key step
 Stay vigilant, and remember: if something looks like a panic-inducing popup demanding immediate action, it is almost certainly a scam.
 
 ## Related Articles
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)
-- [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/chrome-your-computer-is-infected-popup-fix)
-
+* [Chrome Incognito Mode: Actually Private or Just a False Sense of Security?](/articles/chrome-incognito-mode-actually-private-or-not/)
+* [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop/)
+* [Chrome Extensions for Website Monitoring Changes](/articles/chrome-extensions-for-website-monitoring-changes/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

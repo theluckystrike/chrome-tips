@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Offline Google Calendar
-description: Struggling with Chrome offline Google Calendar issues? Learn why it happens and how to get your calendar working without internet. Learn effective tips and t...
+description: Struggling with Chrome offline Google Calendar issues? Learn why it happens
+  and how to get your calendar working without internet. Learn effective tips and
+  t...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-offline-google-calendar
@@ -73,7 +75,7 @@ If you frequently work in offline or low-connectivity environments, consider thi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Google Account Privacy Settings Guide](/articles/chrome-google-account-privacy-settings-guide/)
+* [Chrome Crashing on Low Memory Computer](/articles/chrome-crashing-on-low-memory-computer/)
+* [chrome location services how to turn off](/articles/chrome-location-services-how-to-turn-off/)
 
-- [chrome for shopify store management tips](/articles/chrome-for-shopify-store-management-tips)
-- [Chrome Mouse Cursor Lagging Fix](/articles/chrome-mouse-cursor-lagging)
-- [Chrome Permissions on Startup How to Configure](/articles/chrome-permissions-on-startup-how-to-configure)

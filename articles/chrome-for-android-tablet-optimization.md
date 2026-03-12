@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Android Tablet Optimization
-description: Learn how to optimize Chrome on your Android tablet for smoother performance, better battery life, and faster browsing. Find out more tips on how to optimize...
+description: Learn how to optimize Chrome on your Android tablet for smoother performance,
+  better battery life, and faster browsing. Find out more tips on how to optimize...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-android-tablet-optimization
@@ -75,7 +76,7 @@ Tablet optimization is not a one-time fix. Every few weeks, take a moment to clo
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead/)
+* [Chrome Startup Pages Configuration](/articles/chrome-startup-pages-config/)
+* [Chrome Extensions for WebRTC Leak Prevention](/articles/chrome-extensions-for-webrtc-leak-prevention/)
 
-- [Chrome Multiple Users Same Computer Setup](/articles/chrome-multiple-users-same-computer-setup)
-- [Chrome Google Chat Integration in Browser](/articles/chrome-google-chat-integration-in-browser)
-- [Chrome Google Drive Integration Save to Drive](/articles/chrome-google-drive-integration-save-to-drive)

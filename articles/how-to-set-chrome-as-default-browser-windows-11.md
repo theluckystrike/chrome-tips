@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "How to Set Chrome as Default Browser Windows 11"
-description: "Learn how to set Chrome as your default browser on Windows 11 with simple step-by-step instructions. Make Chrome open links automatically. Read our comprehen..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "how-to-set-chrome-as-default-browser-windows-11"
-categories: "[tutorials, windows]"
-tags: "[chrome, default-browser, windows-11, setting-up-chrome]"
-author: "theluckystrike"
+layout: post
+title: How to Set Chrome as Default Browser Windows 11
+description: Learn how to set Chrome as your default browser on Windows 11 with simple
+  step-by-step instructions. Make Chrome open links automatically. Read our comprehen...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: how-to-set-chrome-as-default-browser-windows-11
+categories: '[tutorials, windows]'
+tags: '[chrome, default-browser, windows-11, setting-up-chrome]'
+author: theluckystrike
 ---
 # How to Set Chrome as Default Browser Windows 11
 
@@ -82,7 +83,7 @@ Give it a try and see how it improves your browsing. Once Chrome is set as your 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Session Restore Not Working Fix](/articles/chrome-session-restore-not-working-fix/)
+* [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching/)
+* [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/articles/chrome-vs-edge-on-windows-11/)
 
-- [Chrome DevTools Shadow DOM Inspector](/articles/chrome-devtools-shadow-dom-inspector)
-- [chrome site notifications stop all](/articles/chrome-site-notifications-stop-all)
-- [Best Chrome Extensions for Podcasters](/articles/best-chrome-extensions-for-podcasters)

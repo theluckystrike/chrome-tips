@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Gesture Navigation Desktop
-description: Learn how to set up and use gesture navigation in Chrome on your desktop computer for a smoother browsing experience. Discover more tips and tricks to optimi
+description: Learn how to set up and use gesture navigation in Chrome on your desktop
+  computer for a smoother browsing experience. Discover more tips and tricks to optimi
 date: 2026-01-20
 categories:
 - desktop
@@ -63,7 +64,7 @@ As you become more comfortable with gesture navigation, you will likely find you
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome text scaling for low vision users](/articles/chrome-text-scaling-for-low-vision-users/)
+* [Chrome Scroll Not Smooth Fix](/articles/chrome-scroll-not-smooth-fix/)
+* [Chrome WebAssembly Debugging Guide](/articles/chrome-wasm-debugging-guide/)
 
-- [Chrome This Site Cant Provide a Secure Connection Fix](/articles/chrome-this-site-cant-provide-a-secure-connection-fix)
-- [Chrome for Tor Browsing Is It Possible](/articles/chrome-for-tor-browsing-is-it-possible)
-- [Chrome Extensions for Page Zoom Per Site](/articles/chrome-extensions-for-page-zoom-per-site)

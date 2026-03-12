@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to Use Chrome Net Internals to Clear DNS Cache
-description: Learn how to use Chrome Net Internals to clear DNS cache and troubleshoot website loading issues. Simple guide for all users. Learn effective tips and tricks...
+description: Learn how to use Chrome Net Internals to clear DNS cache and troubleshoot
+  website loading issues. Simple guide for all users. Learn effective tips and tricks...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-net-internals-dns-clear-cache
@@ -16,8 +17,6 @@ tags:
 - browser-troubleshooting
 - network-issues
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-net-internals-dns-clear-cache
 ---
 # How to Use Chrome Net Internals to Clear DNS Cache
 
@@ -118,10 +117,9 @@ Chrome Net Internals is a powerful but underutilized tool that can resolve many 
 The next time a website refuses to load or you notice unusual network behavior, remember: type `chrome://net-internals`, click "Clear host cache," and you might be back to browsing in seconds. It's a simple fix that works more often than you might expect.
 
 ## Related Articles
-- [Chrome Net Internals Sockets View: Monitor and Manage Active Connections](/chrome-net-internals-sockets-view-connections)
-- [How to Clear Chrome Cache Fast](/how-to-clear-chrome-cache-fast)
-- [Chrome Net Internals How to Use](/chrome-net-internals-how-to-use)
-
+* [Chrome High Disk Usage Fix Windows](/articles/chrome-high-disk-usage-fix-windows/)
+* [Best Tab Suspender to Save Memory 2026](/articles/best-tab-suspender-to-save-memory-2026/)
+* [Chrome Extensions Disappeared After Update](/articles/chrome-extensions-disappeared-after-update/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

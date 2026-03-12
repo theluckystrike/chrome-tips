@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for distraction free reading mode
-description: Learn how to use Chrome for distraction free reading mode with built-in tools and extensions for a cleaner browsing experience. Find out more tips on how to ...
+description: Learn how to use Chrome for distraction free reading mode with built-in
+  tools and extensions for a cleaner browsing experience. Find out more tips on how
+  to ...
 date: 2026-01-15
 categories:
 - browsing
@@ -76,7 +78,7 @@ Remember that the goal is to make reading online as pleasant as reading a physic
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome save all open tabs as bookmarks](/articles/chrome-save-all-open-tabs-as-bookmarks/)
+* [Chrome Clear Browsing Data Shortcut](/articles/chrome-clear-browsing-data-shortcut/)
+* [Best Chrome Extensions for Twitter X](/articles/best-chrome-extensions-for-twitter-x/)
 
-- [Chrome Google Sheets Keyboard Shortcuts](/articles/chrome-google-sheets-keyboard-shortcuts)
-- [Best Chrome Extensions for Writers 2026](/articles/chrome-extensions-for-writers-2026)
-- [chrome web store not loading fix](/articles/chrome-web-store-not-loading-fix)

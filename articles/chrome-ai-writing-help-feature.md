@@ -79,10 +79,9 @@ Start with small tasks and gradually expand how you use the tools. For example, 
 Remember that these tools are designed to support you, not to do all the work for you. Your unique voice and perspective are what make your writing special. AI can help you express yourself more clearly and efficiently, but the final output should always reflect your own thoughts and ideas.
 
 ## Related Articles
-- [Chrome Reading Mode AI Summary Feature](/chrome-reading-mode-ai-summary-feature)
-- [Chrome AI Powered Search Suggestions](/chrome-ai-powered-search-suggestions)
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
-
+* [Chrome Cookie Settings for Best Privacy](/articles/chrome-cookie-settings-best-privacy/)
+* [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix/)
+* [Chrome for Perplexity AI Best Settings](/articles/chrome-for-perplexity-ai-best-settings/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

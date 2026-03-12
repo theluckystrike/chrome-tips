@@ -70,7 +70,7 @@ You can also try manually enabling dark mode on individual websites that offer i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Bookmarks File Location and Backup Guide](/articles/chrome-bookmarks-file-location-backup/)
+* [Chrome Private Aggregation API Explained](/articles/chrome-private-aggregation-api-explained/)
+* [chrome device management for education](/articles//chrome-device-management-for-education//)
 
-- [Chrome Has Selector Explained](/articles/chrome-has-selector-explained)
-- [How to Fix Chrome Cache Too Large and Slow Performance](/articles/chrome-cache-too-large-slow-fix)
-- [Chrome for Kindle Cloud Reader Setup - A Complete Guide](/articles/chrome-for-kindle-cloud-reader-setup)

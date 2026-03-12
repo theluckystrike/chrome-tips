@@ -108,25 +108,10 @@ Chrome Developer Mode is an essential tool for anyone developing or testing Chro
 
 Remember to follow best practices like keeping your manifest valid, requesting only necessary permissions, handling errors gracefully, and using appropriate development tools. With these skills and practices in place, you will be well-equipped to create, test, and refine Chrome extensions that provide real value to users.
 
-
-
-### Related Articles
-- [Chrome Developer Mode Extensions Warning How To Dismiss](/chrome-developer-mode-extensions-warning-how-to-dismiss)
-- [Chrome Extensions Developer Mode](/chrome-extensions-developer-mode)
-- [Chrome Colorblind Mode Extensions](/chrome-colorblind-mode-extensions)
-
-
-
 ## Related Articles
-- [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/chrome-extensions-developer-mode)
-- [Chrome Developer Mode Extensions Warning: How to Dismiss](/chrome-developer-mode-extensions-warning-how-to-dismiss)
-- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
-
-## Related Articles
-- [Chrome Extensions Developer Mode: A Complete Beginner's Guide](/chrome-extensions-developer-mode)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-
+* [Chrome for Medium Best Reading Extensions](/articles/chrome-for-medium-best-reading-extensions/)
+* [chrome shared array buffer usage](/articles/chrome-shared-array-buffer-usage/)
+* [Chrome Scope CSS Explained](/articles/chrome-scope-css-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

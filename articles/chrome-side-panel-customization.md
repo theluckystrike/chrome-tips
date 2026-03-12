@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 'Chrome Side Panel Customization: Complete Guide for 2026'
-description: Master chrome side panel customization with our comprehensive guide. Learn how to personalize your browsing experience with extensions, layouts, and settings.
+description: Master chrome side panel customization with our comprehensive guide.
+  Learn how to personalize your browsing experience with extensions, layouts, and
+  settings.
 date: 2026-01-15
 categories:
 - chrome
@@ -103,10 +105,9 @@ Take time to experiment with different extensions and configurations. What works
 Remember to periodically review which extensions you have in your side panel. Over time, we tend to accumulate extensions we no longer use, which can slow down your browser. Tools like **Tab Suspender Pro** can help you maintain awareness of your browser's overall performance and keep your setup lean.
 
 ## Related Articles
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [Chrome Side Panel Features Guide](/chrome-side-panel-features-guide)
-- [Chrome Recorder Panel Guide](/chrome-recorder-panel-guide)
-
+* [Chrome Streaming Video Buffering Fix](/articles/chrome-streaming-video-buffering-fix/)
+* [Chrome Preferences File What It Contains](/articles/chrome-preferences-file-what-it-contains/)
+* [Chrome Extensions For Focus And Productivity](/articles//articles/chrome-extensions-for-focus-and-productivity//)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

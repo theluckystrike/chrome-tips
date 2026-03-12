@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome price drop alerts how to enable
-description: Learn how to enable price drop alerts in Chrome to track product prices and get notified when items go on sale. Learn effective tips and tricks to optimize y...
+description: Learn how to enable price drop alerts in Chrome to track product prices
+  and get notified when items go on sale. Learn effective tips and tricks to optimize
+  y...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-price-drop-alerts-how-to-enable
@@ -14,8 +16,6 @@ tags:
 - shopping
 - extensions
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-price-drop-alerts-how-to-enable
 ---
 # Chrome Price Drop Alerts How to Enable
 
@@ -72,10 +72,9 @@ You should also pay attention to whether an extension continues to work properly
 ---
 
 ## Related Articles
-- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
-- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
-- [Chrome DNS Over HTTPS How to Enable](/chrome-dns-over-https-how-to-enable)
-
+* [Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab](/articles/chrome-duplicate-tab-shortcut-trick/)
+* [Chrome Badging API Explained](/articles/chrome-badging-api-explained/)
+* [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

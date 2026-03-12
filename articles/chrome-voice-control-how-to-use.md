@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Voice Control How to Use"
-description: "Learn how to use voice control in Chrome browser with built-in features and extensions for hands-free browsing. Read our comprehensive guide to learn more an..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-voice-control-how-to-use"
-categories: "[chrome, productivity, accessibility]"
-tags: "[chrome-voice-control, voice-commands, hands-free-browsing, accessibility]"
-author: "theluckystrike"
+layout: post
+title: Chrome Voice Control How to Use
+description: Learn how to use voice control in Chrome browser with built-in features
+  and extensions for hands-free browsing. Read our comprehensive guide to learn more
+  an...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-voice-control-how-to-use
+categories: '[chrome, productivity, accessibility]'
+tags: '[chrome-voice-control, voice-commands, hands-free-browsing, accessibility]'
+author: theluckystrike
 ---
 # Chrome Voice Control How to Use
 
@@ -58,10 +60,9 @@ If you find that voice control makes you more productive but you are also concer
 ---
 
 ## Related Articles
-- [Chrome Sensors Emulation How to Use](/chrome-sensors-emulation-how-to-use)
-- [Chrome Voice Search How To Use On Desktop](/chrome-voice-search-how-to-use-on-desktop)
-- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
-
+* [Chrome PWA Install Prompt Not Showing Fix](/articles/chrome-pwa-install-prompt-not-showing-fix/)
+* [How Many Chrome Tabs Can I Have Open](/articles/how-many-chrome-tabs-can-i-have-open/)
+* [chrome colorblind mode extensions](/articles/chrome-colorblind-mode-extensions/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

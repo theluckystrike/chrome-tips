@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Reset All Settings: What Gets Deleted'
-description: 'Learn exactly what data is removed when you reset Chrome settings, including extensions, passwords, and browsing history. Read our comprehensive guide to learn '
+description: 'Learn exactly what data is removed when you reset Chrome settings, including
+  extensions, passwords, and browsing history. Read our comprehensive guide to learn '
 permalink: chrome-reset-all-settings-what-gets-deleted
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
@@ -87,7 +88,7 @@ Resetting Chrome is a useful reset button when you need it, but with good habits
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Color HD Gamut Display P3 - Complete Guide for 2026](/articles/chrome-color-hd-gamut-display-p3/)
+* [Chrome Bookmarks Bar Show Hide Shortcut](/articles/chrome-bookmarks-bar-show-hide-shortcut/)
+* [chrome for vimeo web upload tips](/articles/chrome-for-vimeo-web-upload-tips/)
 
-- [Chrome Gesture Navigation on Android](/articles/chrome-gesture-navigation-on-android)
-- [Chrome Network Tab: How to Use and Debug Network Requests](/articles/chrome-network-tab-how-to-use-debug)
-- [Chrome Release Schedule: When Is the Next Update?](/articles/chrome-release-schedule-when-next-update)

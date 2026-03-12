@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Why Is Chrome So Much Slower Than It Used to Be"
-description: "Is Chrome slower than before? Learn why it happens and how to speed it up with simple fixes anyone can try. Read our comprehensive guide to learn more and op..."
-date: "2026-03-09"
-last_modified_at: "2026-03-11"
-permalink: "why-is-chrome-so-much-slower-than-it-used-to-be"
-categories: "[performance, troubleshooting]"
-tags: "[chrome-slow, browser-performance, chrome-speed]"
-author: "theluckystrike"
+layout: post
+title: Why Is Chrome So Much Slower Than It Used to Be
+description: Is Chrome slower than before? Learn why it happens and how to speed it
+  up with simple fixes anyone can try. Read our comprehensive guide to learn more
+  and op...
+date: '2026-03-09'
+last_modified_at: '2026-03-11'
+permalink: why-is-chrome-so-much-slower-than-it-used-to-be
+categories: '[performance, troubleshooting]'
+tags: '[chrome-slow, browser-performance, chrome-speed]'
+author: theluckystrike
 ---
 # Why Is Chrome So Much Slower Than It Used to Be
 
@@ -71,7 +73,7 @@ Chrome can feel fast again. It just needs a little attention now and then to sta
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome fingerprinting protection explained](/articles/chrome-fingerprinting-protection-explained/)
+* [chrome pi hole vs browser ad blocker comparison](/articles/chrome-pi-hole-vs-browser-ad-blocker-comparison/)
+* [chrome multiprocess architecture explained](/articles/chrome-multiprocess-architecture-explained/)
 
-- [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/articles/chrome-tab-hibernate-save-memory)
-- [Chrome Update Made It Slower? Here's How to Fix It](/articles/chrome-update-made-it-slower-fix)
-- [Chrome Extension Monetization Strategies That Actually Work](/articles/chrome-extension-monetization-strategies)

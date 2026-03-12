@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for instacart web app best settings
-description: Get the best Chrome settings for Instacart web app. Speed up performance, reduce memory usage, and shop more efficiently. Discover more tips and tricks to op
+description: Get the best Chrome settings for Instacart web app. Speed up performance,
+  reduce memory usage, and shop more efficiently. Discover more tips and tricks to
+  op
 date: 2025-01-15
 categories:
 - browser
@@ -78,7 +80,7 @@ Start with enabling Memory Saver, then review your extensions, clear the cache i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome playwright vs puppeteer comparison](/articles/chrome-playwright-vs-puppeteer-comparison/)
+* [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips/)
+* [chrome shared array buffer usage](/articles/chrome-shared-array-buffer-usage/)
 
-- [Chrome for Clearing Browsing Data Automatically](/articles/chrome-for-clearing-browsing-data-automatically)
-- [Chrome Opens on Startup Windows: How to Stop](/articles/chrome-opens-on-startup-windows-how-to-stop)
-- [How to Change Chrome Language Settings](/articles/how-to-change-chrome-language-settings)

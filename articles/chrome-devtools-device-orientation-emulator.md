@@ -71,7 +71,7 @@ Chrome devtools device orientation emulator is just one of many helpful features
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Best Settings for Online Meetings](/articles/chrome-best-settings-for-online-meetings/)
+* [Chrome CORS Error Explained in Simple Terms](/articles/chrome-cors-error-explained-simple-terms/)
+* [How to Use Chrome Built In Screenshot Tool](/articles/how-to-use-chrome-built-in-screenshot-tool/)
 
-- [Chrome Frame Rate How to Check](/articles/chrome-frame-rate-how-to-check)
-- [How to Limit Chrome Extension Permissions](/articles/how-to-limit-chrome-extension-permissions)
-- [Best Chrome Extensions For Designers 2026](/articles//articles/chrome-extensions-for-designers/)

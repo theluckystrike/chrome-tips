@@ -1,13 +1,23 @@
 ---
-layout: "default"
-title: "Chrome Memory Leak Detection Guide"
-description: "Learn how to detect and fix memory leaks in Chrome using heap snapshots, allocation timeline, detached DOM analysis, and performance monitor. Complete guide ..."
-date: "2026-01-20"
-last_modified_at: "2026-03-10"
-permalink: "chrome-memory-leak-detection"
-categories: [performance, development, chrome]
-tags: [chrome-memory-leak, heap-snapshots, performance, debugging, chrome-devtools]
-author: "theluckystrike"
+layout: default
+title: Chrome Memory Leak Detection Guide
+description: Learn how to detect and fix memory leaks in Chrome using heap snapshots,
+  allocation timeline, detached DOM analysis, and performance monitor. Complete guide
+  ...
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
+permalink: chrome-memory-leak-detection
+categories:
+- performance
+- development
+- chrome
+tags:
+- chrome-memory-leak
+- heap-snapshots
+- performance
+- debugging
+- chrome-devtools
+author: theluckystrike
 ---
 # Chrome Memory Leak Detection Guide
 
@@ -81,10 +91,9 @@ Whether you are a developer debugging a web application or a power user looking 
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Saved Addresses How to Edit](/articles/chrome-saved-addresses-how-to-edit/)
+* [Chrome Extensions For Flight Price Alerts](/articles//articles/chrome-extensions-for-flight-price-alerts//)
+* [Chrome Extensions For Email Finder](/articles//articles/chrome-extensions-for-email-finder//)
 
-## Related Articles
-
-- [Chrome Omnibox Search Tricks Most People Dont Know](/articles/chrome-omnibox-search-tricks-most-people-dont-know)
-- [Chrome Not Responding How to Force Close Safely](/articles/chrome-not-responding-how-to-force-close-safely)
-- [Chrome Biometric Login How To Set Up](/articles/chrome-biometric-login-how-to-set-up)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

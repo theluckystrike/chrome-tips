@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Notification Sound How to Change
-description: Want to change the notification sound in Chrome? Learn where to find and customize Chrome is alert sounds easily. Learn effective tips and tricks to optimize...
+description: Want to change the notification sound in Chrome? Learn where to find
+  and customize Chrome is alert sounds easily. Learn effective tips and tricks to
+  optimize...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-notification-sound-how-to-change
@@ -51,7 +53,7 @@ Taking a few minutes to clean up your notification permissions can make a big di
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Permissions on Startup How to Configure](/articles/chrome-permissions-on-startup-how-to-configure/)
+* [How to Enable Chrome Tab Hover Previews](/articles/how-to-enable-chrome-tab-hover-previews/)
+* [Chrome Typing Lag in Text Boxes: Practical Solutions](/articles/chrome-typing-lag-in-text-boxes/)
 
-- [Chrome Time to First Byte Explained](/articles/chrome-time-to-first-byte-explained)
-- [Chrome vs Samsung Internet for Android](/articles/chrome-vs-samsung-internet-for-android)
-- [chrome for custom new tab page extensions](/articles/chrome-for-custom-new-tab-page-extensions)

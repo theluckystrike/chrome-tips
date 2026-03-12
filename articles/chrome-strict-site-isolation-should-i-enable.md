@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 'Chrome Strict Site Isolation: Should I Enable'
-description: Learn whether you should enable Chrome strict site isolation and how it affects your browser security and performance. Read our comprehensive guide to learn mor
+description: Learn whether you should enable Chrome strict site isolation and how
+  it affects your browser security and performance. Read our comprehensive guide to
+  learn mor
 permalink: chrome-strict-site-isolation-should-i-enable
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
@@ -63,7 +65,7 @@ The good news is that Chrome keeps improving this feature, and the performance i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Target Web App Best Extensions](/articles/chrome-for-target-web-app-best-extensions/)
+* [Chrome Overrides for Local Development](/articles/chrome-overrides-local-development/)
+* [chrome print page shortcut](/articles/chrome-print-page-shortcut/)
 
-- [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web)
-- [chrome site search shortcut how to set up](/articles/chrome-site-search-shortcut-how-to-set-up)
-- [Chrome Compute Pressure: How Thermal and CPU Throttling Affect Your Browser](/articles/chrome-compute-pressure-thermal-cpu)

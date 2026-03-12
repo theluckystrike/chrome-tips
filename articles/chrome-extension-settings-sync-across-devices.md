@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extension Settings Sync Across Devices"
-description: "Learn why chrome extension settings sync across devices can fail and how to fix it with simple steps. Discover how these tools can significantly improve your..."
-date: "2025-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extension-settings-sync-across-devices"
-layout: "post"
-categories: "[troubleshooting, tips]"
-tags: "[chrome-extensions, settings-sync, browser-sync, chrome-tips]"
-author: "theluckystrike"
+title: Chrome Extension Settings Sync Across Devices
+description: Learn why chrome extension settings sync across devices can fail and
+  how to fix it with simple steps. Discover how these tools can significantly improve
+  your...
+date: '2025-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-settings-sync-across-devices
+layout: post
+categories: '[troubleshooting, tips]'
+tags: '[chrome-extensions, settings-sync, browser-sync, chrome-tips]'
+author: theluckystrike
 ---
 # Chrome Extension Settings Sync Across Devices
 
@@ -70,10 +72,9 @@ Finally, if you use multiple Google accounts, consider creating a separate profi
 ---
 
 ## Related Articles
-- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
-- [Chrome WebUSB How to Connect Devices](/chrome-webusb-how-to-connect-devices)
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
-
+* [Chrome Find on Page Shortcut Tips](/articles/chrome-find-on-page-shortcut-tips/)
+* [Chrome View Transitions API: Smooth Browsing Experience Guide](/articles/chrome-view-transitions-api-smooth/)
+* [How to Use Chrome for Multiple Work Accounts](/articles/how-to-use-chrome-for-multiple-work-accounts/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

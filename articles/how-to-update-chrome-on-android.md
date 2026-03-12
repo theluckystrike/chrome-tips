@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Update Chrome on Android"
-description: "Learn the simple steps to update Chrome on your Android phone or tablet. Read our comprehensive guide to learn more and optimize your browser experience with..."
-date: "2025-03-10"
-last_modified_at: "2026-03-11"
-permalink: "how-to-update-chrome-on-android"
-categories: ""
-tags: ""
-author: "theluckystrike"
+layout: post
+title: How to Update Chrome on Android
+description: Learn the simple steps to update Chrome on your Android phone or tablet.
+  Read our comprehensive guide to learn more and optimize your browser experience
+  with...
+date: '2025-03-10'
+last_modified_at: '2026-03-11'
+permalink: how-to-update-chrome-on-android
+categories: ''
+tags: ''
+author: theluckystrike
 ---
 # How to Update Chrome on Android
 
@@ -78,7 +80,7 @@ Make it a habit to check for updates regularly, or let your phone handle it auto
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Hardware Acceleration Should I Turn On or Off](/articles/chrome-hardware-acceleration-should-i-turn-on-or-off/)
+* [Chrome Homepage Changed by Itself Fix](/articles/chrome-homepage-changed-by-itself-fix/)
+* [Chrome for Habitica In Browser Tips](/articles/chrome-for-habitica-in-browser-tips/)
 
-- [Chrome Background Sync API Explained](/articles/chrome-background-sync-api-explained)
-- [Chrome Keeps Logging Me Out of Websites Fix](/articles/chrome-keeps-logging-me-out-of-websites-fix)
-- [Chrome PDF Settings Print to PDF How to](/articles/chrome-pdf-settings-print-to-pdf-how-to)

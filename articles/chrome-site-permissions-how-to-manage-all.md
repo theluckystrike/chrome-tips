@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Site Permissions How to Manage All
-description: Learn how to manage all Chrome site permissions in one place to control what websites can access. Read our comprehensive guide to learn more and improve your br
+description: Learn how to manage all Chrome site permissions in one place to control
+  what websites can access. Read our comprehensive guide to learn more and improve
+  your br
 permalink: chrome-site-permissions-how-to-manage-all
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
@@ -67,16 +69,8 @@ Managing **site permissions** is a critical part of maintaining a healthy browse
 This is where **Tab Suspender Pro** becomes an essential tool. It automatically "hibernates" inactive tabs, freeing up **RAM** and **CPU** resources. This ensures that when you need to jump into your **Chrome settings** to manage **location access** or **microphone permissions**, the browser is snappy and responsive. By keeping your system resources lean, you can audit your **security settings** without the frustration of lag or browser crashes.
 
 ## Related Articles
-- [Chrome Permissions on Android How to Manage](/chrome-permissions-on-android-how-to-manage)
-- [Chrome Address Autofill How to Manage](/chrome-address-autofill-how-to-manage)
-- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
-
+* [How to Change Default Download Location Chrome](/articles/how-to-change-default-download-location-chrome/)
+* [Chrome Extension for Viewing Page Load Time](/articles/chrome-extension-for-viewing-page-load-time/)
+* [Chrome Extension for Highlighting Text on Websites](/articles/chrome-extension-for-highlighting-text-on-websites/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
-
-## Related Articles
-
-- [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix)
-- [Chrome Payment Autofill How to Manage Cards](/articles/chrome-payment-autofill-how-to-manage-cards)
-- [Chrome for Amazon Prime Video Quality Settings](/articles/chrome-for-amazon-prime-video-quality-settings)

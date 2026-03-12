@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome DevTools Memory Panel Explained"
-description: "Learn what Chrome DevTools Memory Panel does and how to use it to find memory problems and fix browser slowdowns. Explore our comprehensive guide to masteri..."
+title: Chrome DevTools Memory Panel Explained
+description: Learn what Chrome DevTools Memory Panel does and how to use it to find
+  memory problems and fix browser slowdowns. Explore our comprehensive guide to masteri...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-memory-panel-explained
@@ -55,7 +56,7 @@ Another helpful step is to restart Chrome periodically. Over time, memory can be
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Site Permissions Manager](/articles/chrome-extensions-for-site-permissions-manager/)
+* [Chrome vs Edge Speed Test 2026](/articles/chrome-vs-edge-speed-test-2026/)
+* [Best Chrome Extensions for Remote Workers 2026](/articles/best-chrome-extensions-for-remote-workers-2026/)
 
-- [chrome trusted types dom xss prevent](/articles/chrome-trusted-types-dom-xss-prevent)
-- [Chrome Resize Observer API Explained](/articles/chrome-resize-observer-api-explained)
-- [Chrome Math Symbols How to Type](/articles/chrome-math-symbols-how-to-type)

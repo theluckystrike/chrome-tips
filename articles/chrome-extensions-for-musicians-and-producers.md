@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Musicians and Producers"
-description: "Discover Chrome extensions for musicians and producers to streamline your workflow, manage browser tabs, and boost productivity. Check out our expert..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-musicians-and-producers"
-layout: "post"
-categories: "[productivity, tips]"
-tags: "[chrome-extensions, musicians, producers, browser-tools]"
-author: "theluckystrike"
+title: Chrome Extensions for Musicians and Producers
+description: Discover Chrome extensions for musicians and producers to streamline
+  your workflow, manage browser tabs, and boost productivity. Check out our expert...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-musicians-and-producers
+layout: post
+categories: '[productivity, tips]'
+tags: '[chrome-extensions, musicians, producers, browser-tools]'
+author: theluckystrike
 ---
 # Chrome Extensions for Musicians and Producers
 
@@ -76,7 +77,7 @@ Start with one or two extensions that address your biggest pain points. Once you
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Font Palette CSS Explained](/articles/chrome-font-palette-css-explained/)
+* [Chrome Extension for Managing Multiple Email Accounts](/articles/chrome-extension-for-managing-multiple-email-accounts/)
+* [Chrome Guest Mode What Gets Saved](/articles/chrome-guest-mode-what-gets-saved/)
 
-- [Chrome Slow on Android Fix](/articles/chrome-slow-on-android-fix)
-- [chrome logpoints debug without console log](/articles/chrome-logpoints-debug-without-console-log)
-- [Chrome Guest Mode Explained](/articles/chrome-guest-mode-explained)

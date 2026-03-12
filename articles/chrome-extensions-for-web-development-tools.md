@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Web Development Tools"
-description: "Discover the best Chrome extensions for web development tools that can boost your productivity and simplify your workflow. Read our comprehensive guide to le..."
+title: Chrome Extensions for Web Development Tools
+description: Discover the best Chrome extensions for web development tools that can
+  boost your productivity and simplify your workflow. Read our comprehensive guide
+  to le...
 date: 2026-03-09
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-web-development-tools
-categories: [productivity, web-development, tips]
-tags: [chrome-extensions, web-development, browser-tools]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-web-development-tools
+categories:
+- productivity
+- web-development
+- tips
+tags:
+- chrome-extensions
+- web-development
+- browser-tools
+author: theluckystrike
 ---
 # Chrome Extensions for Web Development Tools
 
@@ -70,7 +76,7 @@ It is also worth periodically reviewing your installed extensions and removing o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Meta Tag Analyzer](/articles/chrome-extensions-for-meta-tag-analyzer/)
+* [Chrome DevTools Command Menu Shortcuts](/articles//chrome-devtools-command-menu-shortcuts//)
+* [How to Speed Up Chrome on 2GB RAM Laptop](/articles/how-to-speed-up-chrome-on-2gb-ram-laptop/)
 
-- [Chrome Lazy Loading Images Native: How It Works and Why You Should Use It](/articles/chrome-lazy-loading-images-native)
-- [Chrome Omnibox Hidden Features](/articles/chrome-omnibox-hidden-features)
-- [Best Chrome Extensions for Working From Home](/articles/best-chrome-extensions-for-working-from-home)

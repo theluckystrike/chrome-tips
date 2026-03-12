@@ -1,6 +1,8 @@
 ---
 title: 'Chrome Structured Clone and Deep Copy: A Complete Guide'
-description: Learn how Chrome's structured clone algorithm works and how to perform deep copy operations in JavaScript for efficient data handling. Read our comprehensive gu
+description: Learn how Chrome's structured clone algorithm works and how to perform
+  deep copy operations in JavaScript for efficient data handling. Read our comprehensive
+  gu
 permalink: chrome-structured-clone-deep-copy
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
@@ -148,10 +150,9 @@ For developers looking to optimize their Chrome extension performance, understan
 ---
 
 ## Related Articles
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-
+* [Chrome for Language Learning Extensions](/articles/chrome-for-language-learning-extensions/)
+* [Chrome Sync Across Devices How It Works](/articles/chrome-sync-across-devices-how-it-works/)
+* [chrome coupons in address bar feature](/articles/chrome-coupons-in-address-bar-feature/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

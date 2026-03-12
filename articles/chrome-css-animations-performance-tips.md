@@ -77,7 +77,7 @@ Remember that the goal of animation is to enhance your website, not distract fro
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Keyboard Shortcuts Not Working Fix](/articles/chrome-keyboard-shortcuts-not-working-fix/)
+* [Best Chrome Extensions for Email Management](/articles/best-chrome-extensions-for-email-management/)
+* [Chrome Array Groupby New Method](/articles/chrome-array-groupby-new-method/)
 
-- [Chrome Address Bar Tips and Tricks](/articles/chrome-address-bar-tips-and-tricks)
-- [Chrome Extensions for Lorem Ipsum Generator](/articles/chrome-extensions-for-lorem-ipsum-generator)
-- [Chrome Images Not Loading Fix](/articles/chrome-images-not-loading-fix)

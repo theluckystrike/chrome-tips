@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome next dns setup for ad blocking
-description: Learn how to set up NextDNS in Chrome for ad blocking at the network level. This guide walks you through the process step by step. Learn effective tips and t...
+description: Learn how to set up NextDNS in Chrome for ad blocking at the network
+  level. This guide walks you through the process step by step. Learn effective tips
+  and t...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-next-dns-setup-for-ad-blocking
@@ -14,8 +16,6 @@ tags:
 - privacy
 - chrome
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-next-dns-setup-for-ad-blocking
 ---
 # Chrome Next DNS Setup for Ad Blocking
 
@@ -82,7 +82,7 @@ If you switch internet service providers or change your network setup, remember 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Back Button Not Working Fix](/articles/chrome-back-button-not-working-fix/)
+* [Chrome Shape Detection API Explained](/articles/chrome-shape-detection-api-explained/)
+* [Chrome Takes Forever to Load Pages](/articles/chrome-takes-forever-to-load-pages/)
 
-- [Chrome Performance Settings Best Configuration](/articles/chrome-performance-settings-best-configuration)
-- [Chrome Largest Contentful Paint Optimize: A Complete Guide](/articles/chrome-largest-contentful-paint-optimize)
-- [chrome vs firefox extensions comparison](/articles/chrome-vs-firefox-extensions-comparison)

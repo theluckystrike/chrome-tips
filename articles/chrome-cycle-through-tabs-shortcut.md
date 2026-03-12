@@ -71,7 +71,7 @@ Tab Suspender Pro also provides visual indicators that make it easier to see whi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/articles/chrome-whatsapp-web-not-connecting-fix/)
+* [Chrome Cookies vs Cache Difference Explained](/articles/chrome-cookies-vs-cache-difference-explained/)
+* [Chrome Unicode Symbols How to Insert](/articles/chrome-unicode-symbols-how-to-insert/)
 
-- [Chrome Password Generator How to Use](/articles/chrome-password-generator-how-to-use)
-- [chrome fingerprinting protection explained](/articles/chrome-fingerprinting-protection-explained)
-- [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained)

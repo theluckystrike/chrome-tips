@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Sync Across Devices How It Works
-description: Learn how Chrome sync across devices works, why it sometimes fails, and simple steps to get your browsing data flowing between your computers and phone.
+description: Learn how Chrome sync across devices works, why it sometimes fails, and
+  simple steps to get your browsing data flowing between your computers and phone.
 date: 2025-03-09
 categories:
 - troubleshooting
@@ -76,10 +77,9 @@ If you find that managing many open tabs becomes overwhelming even with sync wor
 The key to smooth sync is using the same Google account on every device, keeping sync turned on, and making sure Chrome stays updated. With those basics in place, your browsing data will follow you anywhere you go.
 
 ## Related Articles
-- [Chrome Live Caption How It Works](/chrome-live-caption-how-it-works)
-- [Chrome Extension Settings Sync Across Devices](/chrome-extension-settings-sync-across-devices)
-- [Chrome Web Share Api How It Works](/chrome-web-share-api-how-it-works)
-
+* [How to Find Chrome Extensions That Slow Down Browser](/articles/how-to-find-chrome-extensions-that-slow-down-browser/)
+* [Chrome Preload Pages Setting Explained](/articles/chrome-preload-pages-setting-explained/)
+* [Chrome Vibration API: A Complete Guide for Mobile Web Developers](/articles/chrome-vibration-api-mobile-web/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

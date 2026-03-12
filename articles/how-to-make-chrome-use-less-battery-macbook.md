@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Make Chrome Use Less Battery on MacBook"
-description: "Practical tips to reduce Chrome's battery drain on your MacBook. Simple settings and habits that extend your laptop's battery life. Read our comprehensive gu..."
-date: "2025-02-23"
-last_modified_at: "2026-03-09"
-permalink: "how-to-make-chrome-use-less-battery-macbook"
-categories: "[mac, battery]"
-tags: "[chrome-battery, macbook-battery, chrome-performance]"
-author: "theluckystrike"
+layout: post
+title: How to Make Chrome Use Less Battery on MacBook
+description: Practical tips to reduce Chrome's battery drain on your MacBook. Simple
+  settings and habits that extend your laptop's battery life. Read our comprehensive
+  gu...
+date: '2025-02-23'
+last_modified_at: '2026-03-09'
+permalink: how-to-make-chrome-use-less-battery-macbook
+categories: '[mac, battery]'
+tags: '[chrome-battery, macbook-battery, chrome-performance]'
+author: theluckystrike
 ---
 # How to Make Chrome Use Less Battery on MacBook
 
@@ -76,7 +78,7 @@ With these changes, you should notice a meaningful improvement in how long your 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome DNS Settings How to Change for Privacy](/articles/chrome-dns-settings-how-to-change-for-privacy/)
+* [Chrome Reading Mode How to Activate](/articles/chrome-reading-mode-how-to-activate/)
+* [Best Chrome Extensions for Reddit Users](/articles/best-chrome-extensions-for-reddit-users/)
 
-- [Chrome Extensions for Session Saver Restore](/articles/chrome-extensions-for-session-saver-restore)
-- [chrome privacy checkup how to do](/articles/chrome-privacy-checkup-how-to-do)
-- [Chrome Extensions for Lorem Ipsum Generator](/articles/chrome-extensions-for-lorem-ipsum-generator)

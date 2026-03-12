@@ -1,9 +1,11 @@
 ---
-title: "How to Inspect and Debug IndexedDB in Chrome: A Complete Guide"
-description: "Learn how to inspect, query, and debug IndexedDB databases in Chrome DevTools with practical tips for developers. Check out our expert recommendations and tips"
-date: "2026-03-11"
-last_modified_at: "2026-03-11"
-permalink: "chrome-indexeddb-inspect-debug"
+title: 'How to Inspect and Debug IndexedDB in Chrome: A Complete Guide'
+description: Learn how to inspect, query, and debug IndexedDB databases in Chrome
+  DevTools with practical tips for developers. Check out our expert recommendations
+  and tips
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-indexeddb-inspect-debug
 ---
 # How to Inspect and Debug IndexedDB in Chrome: A Complete Guide
 
@@ -96,10 +98,9 @@ Whether you're building offline-capable PWAs, managing complex client-side state
 ---
 
 ## Related Articles
-- [Chrome IndexedDB vs LocalStorage Comparison](/chrome-indexeddb-vs-localstorage-comparison)
-- [Chrome Network Tab: How to Use and Debug Network Requests](/chrome-network-tab-how-to-use-debug)
-- [Chrome Source Maps Debug Minified Code](/chrome-source-maps-debug-minified-code)
-
+* [Chrome for Text to Speech on Any Page](/articles/chrome-for-text-to-speech-on-any-page/)
+* [Chrome for Snapchat Web Tips](/articles/chrome-for-snapchat-web-tips/)
+* [Chrome Extension Alternative to Grammarly Free](/articles/chrome-extension-alternative-to-grammarly-free/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

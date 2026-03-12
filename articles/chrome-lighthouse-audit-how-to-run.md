@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "chrome lighthouse audit how to run"
-description: "Learn how to run a Chrome Lighthouse audit to check your website performance, accessibility, and SEO. Simple steps for beginners. Check out our expert recommen"
-date: "2026-03-09"
-last_modified_at: "2026-03-11"
-permalink: "chrome-lighthouse-audit-how-to-run"
-categories: [tools, performance]
-tags: [lighthouse, audit, performance, web-development]
-author: "theluckystrike"
+layout: post
+title: chrome lighthouse audit how to run
+description: Learn how to run a Chrome Lighthouse audit to check your website performance,
+  accessibility, and SEO. Simple steps for beginners. Check out our expert recommen
+date: '2026-03-09'
+last_modified_at: '2026-03-11'
+permalink: chrome-lighthouse-audit-how-to-run
+categories:
+- tools
+- performance
+tags:
+- lighthouse
+- audit
+- performance
+- web-development
+author: theluckystrike
 ---
 # Chrome Lighthouse Audit How to Run
 
@@ -78,7 +85,7 @@ Remember that good performance leads to better user experience, higher search ra
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions That Save You Time](/articles/chrome-extensions-that-save-you-time/)
+* [How to Turn Off Chrome Notifications Permanently](/articles/how-to-turn-off-chrome-notifications-permanently/)
+* [Chrome Extensions for Lighthouse Alternative](/articles/chrome-extensions-for-lighthouse-alternative/)
 
-- [Chrome for Wikipedia Enhanced Reading](/articles/chrome-for-wikipedia-enhanced-reading)
-- [chrome portable version run from usb](/articles/chrome-portable-version-run-from-usb)
-- [chrome mobile save page offline how to](/articles/chrome-mobile-save-page-offline-how-to)

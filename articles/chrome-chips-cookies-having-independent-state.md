@@ -1,13 +1,23 @@
 ---
-layout: "post"
-title: "CHIPS: Cookies Having Independent Partitioned State in Chrome"
-description: "Learn how Chrome's CHIPS feature provides independent partitioned state for cookies, enhancing privacy while allowing third-party embeds to function properly."
-date: "2026-01-16"
-last_modified_at: '2026-03-12'
-permalink: "chrome-chips-cookies-having-independent-state"
-categories: [privacy, security, chrome]
-tags: [chips, cookies, partitioned-cookies, privacy-sandbox, third-party-cookies, chrome-settings]
-author: "theluckystrike"
+layout: post
+title: 'CHIPS: Cookies Having Independent Partitioned State in Chrome'
+description: Learn how Chrome's CHIPS feature provides independent partitioned state
+  for cookies, enhancing privacy while allowing third-party embeds to function properly.
+date: '2026-01-16'
+last_modified_at: '2026-03-11'
+permalink: chrome-chips-cookies-having-independent-state
+categories:
+- privacy
+- security
+- chrome
+tags:
+- chips
+- cookies
+- partitioned-cookies
+- privacy-sandbox
+- third-party-cookies
+- chrome-settings
+author: theluckystrike
 ---
 # CHIPS: Cookies Having Independent Partitioned State in Chrome
 
@@ -80,10 +90,9 @@ As web standards continue to evolve, partitioned cookies will likely become an e
 ---
 
 ## Related Articles
-- [Chrome Cookies Explained for Beginners](/chrome-cookies-explained-for-beginners)
-- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
-- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
-
+* [Chrome Extensions for Page Zoom Per Site](/articles/chrome-extensions-for-page-zoom-per-site/)
+* [chrome for price drop alert extensions](/articles/chrome-for-price-drop-alert-extensions/)
+* [Chrome Android Tabs Too Many How to Manage](/articles/chrome-android-tabs-too-many-how-to-manage/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

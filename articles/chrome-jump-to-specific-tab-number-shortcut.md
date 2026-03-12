@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Jump to Specific Tab Number Shortcut"
-description: "Learn how to instantly jump to any tab in Chrome using number keys. Save time with this simple keyboard shortcut for tab management. Check out our expert recom"
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-jump-to-specific-tab-number-shortcut"
-categories: [productivity, tips]
-tags: [tabs, chrome-tips, browser-management, shortcuts]
-author: "theluckystrike"
+layout: post
+title: Chrome Jump to Specific Tab Number Shortcut
+description: Learn how to instantly jump to any tab in Chrome using number keys. Save
+  time with this simple keyboard shortcut for tab management. Check out our expert
+  recom
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-jump-to-specific-tab-number-shortcut
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- chrome-tips
+- browser-management
+- shortcuts
+author: theluckystrike
 ---
 # Chrome Jump to Specific Tab Number Shortcut
 
@@ -56,7 +64,7 @@ Chrome is designed to handle many tabs, and these shortcuts are built right in t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Slow on Windows 10 Old Laptop Fix](/articles/chrome-slow-on-windows-10-old-laptop-fix/)
+* [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location/)
+* [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup/)
 
-- [chrome logpoints debug without console log](/articles/chrome-logpoints-debug-without-console-log)
-- [Chrome Flags Reset How to Undo Changes](/articles/chrome-flags-reset-how-to-undo-changes)
-- [Chrome for PayPal Business Best Settings](/articles/chrome-for-paypal-business-best-settings)

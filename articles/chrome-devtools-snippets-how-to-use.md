@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Devtools Snippets How to Use"
-description: "Learn how to use Chrome DevTools Snippets to save and run code on any webpage. A simple guide for beginners. Explore our comprehensive guide to mastering Ch..."
+title: Chrome Devtools Snippets How to Use
+description: Learn how to use Chrome DevTools Snippets to save and run code on any
+  webpage. A simple guide for beginners. Explore our comprehensive guide to mastering
+  Ch...
 date: 2025-02-19
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-snippets-how-to-use
@@ -93,7 +95,7 @@ There are many resources online where people share their favorite snippets. You 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Best Chrome Extensions for Content Creators](/articles/best-chrome-extensions-for-content-creators/)
+* [Chrome for Zotero Web Connector Setup](/articles/chrome-for-zotero-web-connector-setup/)
+* [chrome restricted mode youtube how to enable](/articles/chrome-restricted-mode-youtube-how-to-enable/)
 
-- [Chrome Extensions for Video Playback Speed Control](/articles/chrome-extensions-for-video-playback-speed-control)
-- [Best Chrome Extensions for Real Estate Agents](/articles/best-chrome-extensions-for-real-estate-agents)
-- [Chrome for Google Analytics in Browser](/articles/chrome-for-google-analytics-in-browser)

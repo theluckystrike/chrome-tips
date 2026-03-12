@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "how to screenshot full page in chrome"
-description: "Learn how to screenshot full page in chrome using built-in tools and extensions. Step-by-step guide for capturing entire web pages. Read our comprehensive gu..."
-date: "2026-01-20"
-last_modified_at: "2026-03-09"
-permalink: "how-to-screenshot-full-page-in-chrome"
-categories: "[browser-tips, how-to]"
-tags: "[screenshot, chrome, capture, full-page]"
-author: "theluckystrike"
+layout: post
+title: how to screenshot full page in chrome
+description: Learn how to screenshot full page in chrome using built-in tools and
+  extensions. Step-by-step guide for capturing entire web pages. Read our comprehensive
+  gu...
+date: '2026-01-20'
+last_modified_at: '2026-03-09'
+permalink: how-to-screenshot-full-page-in-chrome
+categories: '[browser-tips, how-to]'
+tags: '[screenshot, chrome, capture, full-page]'
+author: theluckystrike
 ---
 # How to Screenshot Full Page in Chrome
 
@@ -76,7 +78,7 @@ Give it a try on your next webpage. You will be surprised at how easy it is to g
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Can Chrome Extensions Steal Your Data](/articles/can-chrome-extensions-steal-your-data/)
+* [Chrome Parental Controls Without Extension](/articles/chrome-parental-controls-without-extension/)
+* [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location/)
 
-- [How to Share Chrome Tabs in Video Calls](/articles/how-to-share-chrome-tabs-in-video-calls)
-- [chrome clipboard permission explained](/articles/chrome-clipboard-permission-explained)
-- [Chrome Not Responding How to Force Close Safely](/articles/chrome-not-responding-how-to-force-close-safely)

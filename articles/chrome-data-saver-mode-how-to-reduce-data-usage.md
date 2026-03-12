@@ -74,7 +74,7 @@ Getting into the habit of closing unused tabs, adjusting image settings when you
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [How to Reduce Number of Open Tabs](/articles/how-to-reduce-number-of-open-tabs/)
+* [chrome payment methods remove](/articles/chrome-payment-methods-remove/)
+* [Best Chrome Extensions for GitHub](/articles/best-chrome-extensions-for-github/)
 
-- [Chrome vs Arc Browser: Should I Switch?](/articles/chrome-vs-arc-browser-should-i-switch)
-- [Chrome for HubSpot CRM in Browser](/articles/chrome-for-hubspot-crm-in-browser)
-- [Chrome Text to Speech Built In Features](/articles/chrome-text-to-speech-built-in-features)

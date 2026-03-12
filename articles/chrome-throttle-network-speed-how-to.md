@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Throttle Network Speed in Chrome"
-description: "Learn how to throttle network speed in Chrome to test websites, save data, and improve performance. Read our comprehensive guide to learn more and optimize y..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-throttle-network-speed-how-to"
-categories: "[performance, network, developer-tools]"
-tags: "[chrome-network, chrome-throttle, network-speed, chrome-developer-tools]"
-author: "theluckystrike"
+layout: post
+title: How to Throttle Network Speed in Chrome
+description: Learn how to throttle network speed in Chrome to test websites, save
+  data, and improve performance. Read our comprehensive guide to learn more and optimize
+  y...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-throttle-network-speed-how-to
+categories: '[performance, network, developer-tools]'
+tags: '[chrome-network, chrome-throttle, network-speed, chrome-developer-tools]'
+author: theluckystrike
 ---
 # How to Throttle Network Speed in Chrome
 
@@ -84,10 +86,9 @@ For students or anyone working on older computers, reducing network demands can 
 ---
 
 ## Related Articles
-- [Chrome Network Tab: How to Use and Debug Network Requests](/chrome-network-tab-how-to-use-debug)
-- [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
-- [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
-
+* [Chrome New Tab Extensions Aesthetic 2026](/articles/chrome-new-tab-extensions-aesthetic-2026/)
+* [Chrome Webview on Android What It Does](/articles/chrome-webview-on-android-what-it-does/)
+* [Chrome Not Working on Android Fix](/articles/chrome-not-working-on-android-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

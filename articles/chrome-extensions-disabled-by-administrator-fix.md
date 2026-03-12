@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions Disabled by Administrator Fix"
-description: "Learn how to fix Chrome extensions disabled by administrator. Discover why this happens and what you can do to get your extensions working again. Discover ho..."
-date: "2026-01-20"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-disabled-by-administrator-fix"
-layout: "post"
-categories: "[troubleshooting, extensions]"
-tags: "[chrome-extensions, fix, browser-issues]"
-author: "theluckystrike"
+title: Chrome Extensions Disabled by Administrator Fix
+description: Learn how to fix Chrome extensions disabled by administrator. Discover
+  why this happens and what you can do to get your extensions working again. Discover
+  ho...
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-disabled-by-administrator-fix
+layout: post
+categories: '[troubleshooting, extensions]'
+tags: '[chrome-extensions, fix, browser-issues]'
+author: theluckystrike
 ---
 # Chrome Extensions Disabled by Administrator Fix
 
@@ -66,10 +68,9 @@ Understanding the root cause of your chrome extensions disabled by administrator
 ---
 
 ## Related Articles
-- [Chrome Forced Extensions by Admin What It Means](/chrome-forced-extensions-by-admin-what-it-means)
-- [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
-- [Chrome Opens by Itself Randomly Fix](/chrome-opens-by-itself-randomly-fix)
-
+* [Chrome Tabs Using Too Much Memory Which One](/articles/chrome-tabs-using-too-much-memory-which-one/)
+* [Chrome Google Chat Integration in Browser](/articles/chrome-google-chat-integration-in-browser/)
+* [Chrome Text to Speech Built In Feature](/articles/chrome-text-to-speech-built-in-feature/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

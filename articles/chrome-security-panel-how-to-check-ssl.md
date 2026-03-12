@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Security Panel How to Check SSL
-description: Learn how to use Chrome's Security panel to check SSL certificates and verify website connections are safe. Read our comprehensive guide to learn more and impro
+description: Learn how to use Chrome's Security panel to check SSL certificates and
+  verify website connections are safe. Read our comprehensive guide to learn more
+  and impro
 date: 2025-02-19
 categories:
 - browser-tips
@@ -83,16 +85,8 @@ If you find yourself opening many tabs while performing security audits, you mig
 Using **Tab Suspender Pro** is a great way to keep your environment fast. It automatically "hibernates" inactive tabs, freeing up **RAM** so that **DevTools** remains responsive. This allows you to verify **HTTPS connections**, check for **mixed content**, and inspect **certificate authorities** without your browser hanging or crashing. A lean browser is essential for accurate technical analysis.
 
 ## Related Articles
-- [How to Check If Chrome Extension Is Spying on Me](/how-to-check-if-chrome-extension-is-spying-on-me)
-- [Chrome Security Check How To Run](/chrome-security-check-how-to-run)
-- [Chrome Security Checkup How to Run](/chrome-security-checkup-how-to-run)
-
+* [Chrome Extensions For Elderly Users Simple Tools](/articles//articles/chrome-extensions-for-elderly-users-simple-tools//)
+* [Chrome Extension for Translating Selected Text](/articles/chrome-extension-for-translating-selected-text/)
+* [How to Dictate Text in Chrome](/articles/how-to-dictate-text-in-chrome/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
-
-## Related Articles
-
-- [Chrome for Deepl Translator Extension](/articles/chrome-for-deepl-translator-extension)
-- [Chrome Sharing Screen in Video Calls](/articles/chrome-sharing-screen-in-video-calls)
-- [Chrome Dark Mode How To Enable](/articles//chrome-dark-mode-how-to-enable/)

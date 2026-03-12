@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Bibliography Management"
-description: "Discover the best Chrome extensions for bibliography management that help researchers, students, and writers organize citations effortlessly. Discover how th..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-bibliography-management"
-layout: "post"
-categories: "[bibliography, tips]"
-tags: "[chrome-extensions, citations, research, writing]"
-author: "theluckystrike"
+title: Chrome Extensions for Bibliography Management
+description: Discover the best Chrome extensions for bibliography management that
+  help researchers, students, and writers organize citations effortlessly. Discover
+  how th...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-bibliography-management
+layout: post
+categories: '[bibliography, tips]'
+tags: '[chrome-extensions, citations, research, writing]'
+author: theluckystrike
 ---
 # Chrome Extensions for Bibliography Management
 
@@ -76,10 +78,9 @@ The time you invest in setting up a good bibliography system will pay dividends 
 ---
 
 ## Related Articles
-- [Chrome For Window Management Extensions](/chrome-for-window-management-extensions)
-- [Chrome for Social Media Management Extensions](/chrome-for-social-media-management-extensions)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-
+* [Chrome DevTools Protocol Monitor](/articles/chrome-protocol-monitor-guide/)
+* [How to Use Chrome DevTools Device Orientation Emulator](/articles//chrome-devtools-device-orientation-emulator//)
+* [Chrome Using Too Much Disk Space Fix](/articles/chrome-using-too-much-disk-space-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Open Last Session on Startup
-description: Learn how to make Chrome open your last session on startup. Simple steps to restore your tabs automatically. Learn effective tips and tricks to optimize your...
+description: Learn how to make Chrome open your last session on startup. Simple steps
+  to restore your tabs automatically. Learn effective tips and tricks to optimize
+  your...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-open-last-session-on-startup
@@ -14,8 +16,6 @@ tags:
 - restore-tabs
 - chrome-settings
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-open-last-session-on-startup
 ---
 # Chrome Open Last Session on Startup
 
@@ -90,10 +90,9 @@ If you want more control over your sessions, consider using a dedicated extensio
 Whenever possible, let Chrome close normally. Force-quitting through **Task Manager** or **Activity Monitor** can leave session data in an incomplete state, which Chrome might not be able to recover from.
 
 ## Related Articles
-- [Chrome Permissions on Startup How to Configure](/chrome-permissions-on-startup-how-to-configure)
-- [Chrome Opens Old Tabs on Startup How to Stop](/chrome-opens-old-tabs-on-startup-how-to-stop)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-
+* [Chrome LastPass Extension Slow Fix](/articles/chrome-lastpass-extension-slow-fix/)
+* [Chrome Reset All Settings: What Gets Deleted](/articles/chrome-reset-all-settings-what-gets-deleted/)
+* [Chrome Extensions for Mouse Gestures Navigation](/articles/chrome-extensions-for-mouse-gestures-navigation/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

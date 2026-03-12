@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "chrome web share api how it works"
-description: "Learn how the Chrome Web Share API enables websites to share content like native apps. Discover browser support, requirements, and how to use it. Read our co..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-web-share-api-how-it-works"
-categories: "[features, api, web-development]"
-tags: "[web-share-api, sharing, browser-features, javascript]"
-author: "theluckystrike"
+layout: post
+title: chrome web share api how it works
+description: Learn how the Chrome Web Share API enables websites to share content
+  like native apps. Discover browser support, requirements, and how to use it. Read
+  our co...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-web-share-api-how-it-works
+categories: '[features, api, web-development]'
+tags: '[web-share-api, sharing, browser-features, javascript]'
+author: theluckystrike
 ---
 # Chrome Web Share API How It Works
 
@@ -62,7 +64,7 @@ Chrome continues to lead in implementing web APIs that make browsing more capabl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Tracking Prevention Explained Simply](/articles/chrome-tracking-prevention-explained-simply/)
+* [Chrome Extensions for Lorem Ipsum Generator](/articles/chrome-extensions-for-lorem-ipsum-generator/)
+* [Chrome for Academic Paper Reading Extensions](/articles/chrome-for-academic-paper-reading-extensions/)
 
-- [Chrome Best Ad Blocker 2026](/articles/chrome-best-ad-blocker-2026)
-- [Chrome Extensions for Video Playback Speed Control](/articles/chrome-extensions-for-video-playback-speed-control)
-- [chrome file system access api explained](/articles/chrome-file-system-access-api-explained)

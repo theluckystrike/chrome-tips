@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Screen Wake Lock API Explained
-description: 'Learn how Chrome''s screen wake lock keeps your display on, why it matters, and how to manage it for better browsing. Read our comprehensive guide to learn more '
+description: 'Learn how Chrome''s screen wake lock keeps your display on, why it matters,
+  and how to manage it for better browsing. Read our comprehensive guide to learn
+  more '
 permalink: chrome-screen-wake-lock-api-explained
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
@@ -51,16 +53,8 @@ If you want more control over which sites can keep your screen awake, you have s
 For users who want more comprehensive control, **Tab Suspender Pro** is an excellent companion. While it primarily manages **RAM usage**, it can also "hibernate" background tabs that are holding active **Screen Wake Locks**. This ensures that a random tab you forgot about doesn't keep your laptop screen on all night, draining your **battery**. It’s a great way to balance the convenience of the **Wake Lock API** with the need for **power efficiency**.
 
 ## Related Articles
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-- [Chrome Background Sync API Explained](/chrome-background-sync-api-explained)
-- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
-
+* [How to Limit Chrome Extension Permissions](/articles/how-to-limit-chrome-extension-permissions/)
+* [Chrome Extension for Changing User Agent](/articles/chrome-extension-for-changing-user-agent/)
+* [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
-
-## Related Articles
-
-- [Chrome Smooth Scrolling How to Enable](/articles/chrome-smooth-scrolling-how-to-enable)
-- [Chrome Safe Browsing: What It Does and How It Protects You](/articles/chrome-safe-browsing-what-it-does)
-- [Chrome Extensions for Remote Workers 2026](/articles/chrome-extensions-for-remote-workers-2026)

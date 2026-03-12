@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Notion Web Clipper Setup
-description: Learn how to set up the Notion Web Clipper in Chrome to save articles, links, and content directly to your Notion workspace. Discover more tips and tricks to
+description: Learn how to set up the Notion Web Clipper in Chrome to save articles,
+  links, and content directly to your Notion workspace. Discover more tips and tricks
+  to
 date: 2026-01-15
 categories:
 - productivity
@@ -84,7 +86,7 @@ While the Notion Web Clipper is excellent for saving web content, you might also
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome scrollbar styling css](/articles/chrome-scrollbar-styling-css/)
+* [Chrome vs Vivaldi for Power Users](/articles/chrome-vs-vivaldi-for-power-users/)
+* [Chrome ERR_CACHE_MISS Fix](/articles/chrome-err-cache-miss-fix/)
 
-- [Chrome Font Editor in DevTools Explained](/articles/chrome-font-editor-in-devtools-explained)
-- [Chrome HTTPS First Mode Guide](/articles/chrome-https-first-mode)
-- [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization)

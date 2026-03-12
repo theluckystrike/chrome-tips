@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome Media Session API: Mastering Music Controls in Your Browser"
-description: "Learn how Chrome's Media Session API lets you control music playback directly from your browser. Full keyboard shortcuts, notification controls, and integrat..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-media-session-api-music-controls"
-categories: [chrome, media, productivity]
-tags: [chrome-media, media-session-api, music-controls, browser-tips]
-author: "theluckystrike"
+layout: post
+title: 'Chrome Media Session API: Mastering Music Controls in Your Browser'
+description: Learn how Chrome's Media Session API lets you control music playback
+  directly from your browser. Full keyboard shortcuts, notification controls, and
+  integrat...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-media-session-api-music-controls
+categories:
+- chrome
+- media
+- productivity
+tags:
+- chrome-media
+- media-session-api
+- music-controls
+- browser-tips
+author: theluckystrike
 ---
 # Chrome Media Session API: Mastering Music Controls in Your Browser
 
@@ -109,10 +118,9 @@ Chrome's Media Session API transforms your browser into a capable media control 
 ---
 
 ## Related Articles
-- [Chrome Badging API Explained](/chrome-badging-api-explained)
-- [Chrome Contact Picker API Explained](/chrome-contact-picker-api-explained)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-
+* [Chrome Extensions For Eye Strain Protection](/articles//articles/chrome-extensions-for-eye-strain-protection//)
+* [Chrome Topics API Guide](/articles/chrome-topics-api-guide/)
+* [Chrome vs Opera Features Comparison](/articles/chrome-vs-opera-features-comparison/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Extensions for Todoist"
-description: "Discover how Chrome extensions for Todoist can streamline your workflow and help you stay organized. Read our comprehensive guide to learn more and boost you..."
+title: Chrome Extensions for Todoist
+description: Discover how Chrome extensions for Todoist can streamline your workflow
+  and help you stay organized. Read our comprehensive guide to learn more and boost
+  you...
 date: 2026-03-10
 last_modified_at: 2026-03-09
 permalink: chrome-extensions-for-todoist
@@ -65,7 +67,7 @@ The goal is not to overwhelm yourself with tools but to find the ones that genui
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Allow Pop Ups on One Site Chrome](/articles/how-to-allow-pop-ups-on-one-site-chrome/)
+* [chrome for anki web flashcards setup](/articles/chrome-for-anki-web-flashcards-setup/)
+* [Chrome IP Protection: How to Hide Your IP Address in Chrome](/articles/chrome-ip-protection-hide-ip-address/)
 
-- [Chrome WebGPU vs WebGL Comparison](/articles/chrome-webgpu-vs-webgl)
-- [Chrome Compact Mode How to Enable](/articles/chrome-compact-mode-how-to-enable)
-- [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage)

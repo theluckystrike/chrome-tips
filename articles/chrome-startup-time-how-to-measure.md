@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Startup Time How to Measure
-description: Learn how to measure Chrome startup time and what you can do to make your browser open faster. Read our comprehensive guide to learn more and improve your brows
+description: Learn how to measure Chrome startup time and what you can do to make
+  your browser open faster. Read our comprehensive guide to learn more and improve
+  your brows
 date: 2026-01-20
 categories:
 - performance
@@ -65,7 +67,7 @@ Small changes, such as reducing extensions, managing tabs more carefully, and ke
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Local Font Access API Explained](/articles/chrome-local-font-access-api-explained/)
+* [How to Force Dark Mode on All Websites in Chrome](/articles//chrome-dark-mode-force-all-websites//)
+* [Chrome for Managing Site Notifications](/articles/chrome-for-managing-site-notifications/)
 
-- [chrome for education classroom management](/articles/chrome-for-education-classroom-management)
-- [Chrome for Note Taking in Browser Extensions](/articles/chrome-for-note-taking-in-browser-extensions)
-- [chrome gamepad api how to use](/articles/chrome-gamepad-api-how-to-use)

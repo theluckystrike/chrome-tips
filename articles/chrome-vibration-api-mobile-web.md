@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Vibration API: A Complete Guide for Mobile Web Developers"
-description: "Learn how to use the Chrome Vibration API to create haptic feedback experiences in mobile web applications. Complete guide with examples and best practices."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-vibration-api-mobile-web"
-categories: "[development, mobile, chrome, web-api]"
-tags: "[chrome-vibration-api, mobile-web, haptic-feedback, web-development, javascript]"
-author: "theluckystrike"
+layout: post
+title: 'Chrome Vibration API: A Complete Guide for Mobile Web Developers'
+description: Learn how to use the Chrome Vibration API to create haptic feedback experiences
+  in mobile web applications. Complete guide with examples and best practices.
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-vibration-api-mobile-web
+categories: '[development, mobile, chrome, web-api]'
+tags: '[chrome-vibration-api, mobile-web, haptic-feedback, web-development, javascript]'
+author: theluckystrike
 ---
 # Chrome Vibration API: A Complete Guide for Mobile Web Developers
 
@@ -167,10 +168,9 @@ The Vibration API offers a simple yet effective way to add haptic feedback to yo
 Start experimenting with the Vibration API today, and discover how tactile feedback can transform your mobile web applications.
 
 ## Related Articles
-- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
-- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
-- [Chrome Web Serial Api Explained](/chrome-web-serial-api-explained)
-
+* [How to Reset Chrome to Default Settings](/articles/how-to-reset-chrome-to-default-settings/)
+* [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching/)
+* [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/articles/best-chrome-settings-for-chromebook/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

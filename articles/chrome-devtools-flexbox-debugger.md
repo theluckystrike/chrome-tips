@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome DevTools Flexbox Debugger"
-description: "Learn how to use Chrome DevTools flexbox debugger to fix layout issues, understand flex properties, and align elements perfectly. Explore our comprehensive ..."
+title: Chrome DevTools Flexbox Debugger
+description: Learn how to use Chrome DevTools flexbox debugger to fix layout issues,
+  understand flex properties, and align elements perfectly. Explore our comprehensive
+  ...
 date: 2025-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-flexbox-debugger
@@ -69,7 +71,7 @@ The flexbox debugger in Chrome DevTools is one of those tools that becomes indis
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Spectre Attack Protection in Browser](/articles/chrome-spectre-attack-protection-in-browser/)
+* [Chrome iPhone Widgets How to Set Up](/articles/chrome-iphone-widgets-how-to-set-up/)
+* [Chrome Extensions for Tab Sleeping Automatically](/articles/chrome-extensions-for-tab-sleeping-automatically/)
 
-- [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage)
-- [Chrome Microphone Access on Phone How to Control](/articles/chrome-microphone-access-on-phone-how-to-control)
-- [Chrome Clock Behind Error Fix](/articles/chrome-clock-behind-error-fix)

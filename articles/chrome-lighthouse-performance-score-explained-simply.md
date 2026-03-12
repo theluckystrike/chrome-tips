@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "chrome lighthouse performance score explained simply"
-description: "Understand what Chrome Lighthouse performance scores mean, why they matter, and how to improve your score with practical steps. Check out our expert recommenda"
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-lighthouse-performance-score-explained-simply"
-categories: [tools, performance]
-tags: [lighthouse, performance, score, website-speed]
-author: "theluckystrike"
+layout: post
+title: chrome lighthouse performance score explained simply
+description: Understand what Chrome Lighthouse performance scores mean, why they matter,
+  and how to improve your score with practical steps. Check out our expert recommenda
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-lighthouse-performance-score-explained-simply
+categories:
+- tools
+- performance
+tags:
+- lighthouse
+- performance
+- score
+- website-speed
+author: theluckystrike
 ---
 # Chrome Lighthouse Performance Score Explained Simply
 
@@ -82,7 +89,7 @@ Improving a performance score does not always require expensive tools or expert 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Cycle Through Tabs Shortcut](/articles//chrome-cycle-through-tabs-shortcut//)
+* [Chrome Biometric Authentication for the Web](/articles/chrome-biometric-authentication-web/)
+* [chrome for github copilot web setup](/articles/chrome-for-github-copilot-web-setup/)
 
-- [Chrome for Google Classroom Tips](/articles/chrome-for-google-classroom-tips)
-- [chrome device management for education](/articles//chrome-device-management-for-education/)
-- [Chrome Helper Renderer High CPU Mac Fix](/articles/chrome-helper-renderer-high-cpu-mac-fix)

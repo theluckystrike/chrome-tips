@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Block Websites on Chrome"
-description: "Learn how to block distracting or harmful websites on Chrome using built-in tools and extensions. Simple methods to take control of your browsing. Read our c..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "how-to-block-websites-on-chrome"
-categories: "[productivity]"
-tags: "[website-blocking, parental-controls, chrome-settings]"
-author: "theluckystrike"
+layout: post
+title: How to Block Websites on Chrome
+description: Learn how to block distracting or harmful websites on Chrome using built-in
+  tools and extensions. Simple methods to take control of your browsing. Read our
+  c...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: how-to-block-websites-on-chrome
+categories: '[productivity]'
+tags: '[website-blocking, parental-controls, chrome-settings]'
+author: theluckystrike
 ---
 # How to Block Websites on Chrome
 
@@ -82,7 +84,7 @@ Take some time to set up your preferred method, and enjoy a more productive and 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Malware Removal Without Antivirus](/articles/chrome-malware-removal-without-antivirus/)
+* [Chrome for CodePen in Browser Tips](/articles/chrome-for-codepen-in-browser-tips/)
+* [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management/)
 
-- [Chrome Autofill Wrong Address How to Fix](/articles/chrome-autofill-wrong-address-how-to-fix)
-- [chrome offline mode how to browse without internet](/articles/chrome-offline-mode-how-to-browse-without-internet)
-- [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix)

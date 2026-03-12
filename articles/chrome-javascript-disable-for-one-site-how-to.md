@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "chrome javascript disable for one site how to"
-description: "Learn how to disable JavaScript for one specific site in Chrome without turning it off everywhere. Simple steps inside. Check out our expert recommendations an"
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-javascript-disable-for-one-site-how-to"
-categories: [browser, settings]
-tags: [chrome, javascript, browser-settings, permissions]
-author: "theluckystrike"
+layout: post
+title: chrome javascript disable for one site how to
+description: Learn how to disable JavaScript for one specific site in Chrome without
+  turning it off everywhere. Simple steps inside. Check out our expert recommendations
+  an
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-javascript-disable-for-one-site-how-to
+categories:
+- browser
+- settings
+tags:
+- chrome
+- javascript
+- browser-settings
+- permissions
+author: theluckystrike
 ---
 # Chrome JavaScript Disable for One Site How To
 
@@ -76,7 +84,7 @@ Taking control of JavaScript on a per-site basis gives you a more private, faste
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Payment Methods How to Remove](/articles/chrome-payment-methods-how-to-remove/)
+* [Why Is Chrome So Much Slower Than It Used to Be](/articles/why-is-chrome-so-much-slower-than-it-used-to-be/)
+* [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained/)
 
-- [chrome fledge api what advertisers know about you](/articles/chrome-fledge-api-what-advertisers-know-about-you)
-- [Chrome Best Note Taking Extension 2026](/articles/chrome-best-note-taking-extension-2026)
-- [Is Chrome Safe for Online Banking](/articles/is-chrome-safe-for-online-banking)

@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "chrome logpoints debug without console log"
-description: "Learn how to use Chrome Logpoints to debug JavaScript without polluting your code with console.log statements. A cleaner approach to browser debugging."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-logpoints-debug-without-console-log"
-categories: [debugging, chrome-devtools, development]
-tags: [chrome, debug, logpoints, developer-tools, javascript]
-author: "theluckystrike"
+layout: post
+title: chrome logpoints debug without console log
+description: Learn how to use Chrome Logpoints to debug JavaScript without polluting
+  your code with console.log statements. A cleaner approach to browser debugging.
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-logpoints-debug-without-console-log
+categories:
+- debugging
+- chrome-devtools
+- development
+tags:
+- chrome
+- debug
+- logpoints
+- developer-tools
+- javascript
+author: theluckystrike
 ---
 # Chrome Logpoints: Debug Without console.log
 
@@ -66,10 +75,9 @@ If you've been relying on console.log for debugging, give Logpoints a try. The l
 Open Chrome DevTools, find a file you're working on, and add your first Logpoint. You'll quickly discover why many developers consider Logpoints an essential part of their debugging toolkit. Once you experience the freedom of non-invasive logging, you'll wonder how you ever managed without it.
 
 ## Related Articles
-- [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
-- [Chrome Console Utilities Reference](/chrome-console-utilities-guide)
-- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/chrome-blackbox-script-skip-library-code-debug)
-
+* [Chrome Flags to Enable for Speed](/articles/chrome-flags-to-enable-for-speed/)
+* [chrome pi hole vs browser ad blocker comparison](/articles/chrome-pi-hole-vs-browser-ad-blocker-comparison/)
+* [Chrome WebGL Crashing Fix](/articles/chrome-webgl-crashing-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

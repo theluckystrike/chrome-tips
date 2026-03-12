@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome for Translation On Hover Extensions"
-description: "Discover Chrome extensions that translate text on hover, making foreign language browsing seamless and effortless. Check out our expert recommendations and tip"
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-translation-on-hover-extensions"
-categories: [translation, tips]
-tags: [chrome-extensions, translation, language, browser-tools]
-author: "theluckystrike"
+layout: post
+title: Chrome for Translation On Hover Extensions
+description: Discover Chrome extensions that translate text on hover, making foreign
+  language browsing seamless and effortless. Check out our expert recommendations
+  and tip
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-translation-on-hover-extensions
+categories:
+- translation
+- tips
+tags:
+- chrome-extensions
+- translation
+- language
+- browser-tools
+author: theluckystrike
 ---
 # Chrome for Translation On Hover Extensions
 
@@ -68,7 +76,7 @@ Start with one extension and give yourself time to adjust to the new workflow. O
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Aspect Ratio CSS Property](/articles/chrome-aspect-ratio-css-property/)
+* [Chrome Gesture Navigation Complete Guide](/articles/chrome-gesture-navigation/)
+* [Chrome Flags Best Settings 2026: The Ultimate Guide](/articles/chrome-flags-best-settings-2026/)
 
-- [How to Fix Chrome Cache Too Large and Slow Performance](/articles/chrome-cache-too-large-slow-fix)
-- [How to Improve Chrome WebGL Performance](/articles/chrome-webgl-performance-how-to-improve)
-- [How to Disable Chrome Auto Update on Windows](/articles/chrome-auto-update-disable-windows-guide)

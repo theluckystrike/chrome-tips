@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Extensions for Tree Style Tabs"
-description: "Tree style tabs organize your browser into a hierarchical sidebar. Learn how to set them up and which extensions help. Read our comprehensive guide to learn ..."
+title: Chrome Extensions for Tree Style Tabs
+description: Tree style tabs organize your browser into a hierarchical sidebar. Learn
+  how to set them up and which extensions help. Read our comprehensive guide to learn
+  ...
 date: 2026-03-10
 last_modified_at: 2026-03-09
 permalink: chrome-extensions-for-tree-style-tabs
@@ -61,7 +63,7 @@ Give yourself a little time to adjust. The first day or two might feel unfamilia
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Idle Detection API Explained: What It Means for Your Browser](/articles/chrome-idle-detection-api-explained/)
+* [Chrome for Etsy Seller Best Extensions](/articles/chrome-for-etsy-seller-best-extensions/)
+* [How to View Saved Passwords in Chrome 2026](/articles/how-to-view-saved-passwords-in-chrome-2026/)
 
-- [Chrome Open Source Parts Explained](/articles/chrome-open-source-parts-explained)
-- [Chrome for Citation Manager Extensions](/articles/chrome-for-citation-manager-extensions)
-- [chrome proxy extension free best 2026](/articles/chrome-proxy-extension-free-best-2026)

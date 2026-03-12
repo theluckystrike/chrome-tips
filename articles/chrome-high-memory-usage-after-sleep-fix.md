@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "chrome high memory usage after sleep fix"
-description: "Is Chrome using too much memory after sleep? Learn why this happens and how to fix high memory usage after your computer wakes up. Check out our expert recomme"
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-high-memory-usage-after-sleep-fix"
-categories: [performance, troubleshooting]
-tags: [chrome, memory, performance, sleep, browser]
-author: "theluckystrike"
+layout: post
+title: chrome high memory usage after sleep fix
+description: Is Chrome using too much memory after sleep? Learn why this happens and
+  how to fix high memory usage after your computer wakes up. Check out our expert
+  recomme
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-high-memory-usage-after-sleep-fix
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome
+- memory
+- performance
+- sleep
+- browser
+author: theluckystrike
 ---
 # Chrome High Memory Usage After Sleep Fix
 
@@ -72,7 +81,7 @@ If you continue to experience severe memory issues despite trying these solution
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Crashing on Samsung Galaxy Phone](/articles/chrome-crashing-on-samsung-galaxy-phone/)
+* [Chrome for Fitness Tracking Web Apps](/articles/chrome-for-fitness-tracking-web-apps/)
+* [How to Limit Chrome RAM Usage on Windows](/articles/how-to-limit-chrome-ram-usage-windows/)
 
-- [Chrome Autofill Settings Complete Guide](/articles/chrome-autofill-settings-complete)
-- [Chrome Temporal API Date Time: A Complete Guide to Modern Date Handling](/articles/chrome-temporal-api-date-time)
-- [Chrome Audio Fingerprinting What It Is](/articles/chrome-audio-fingerprinting-what-it-is)

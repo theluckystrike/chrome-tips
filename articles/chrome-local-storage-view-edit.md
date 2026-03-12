@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Local Storage View Edit: How to Inspect and Modify Website Data"
-description: "Learn how to view and edit local storage in Chrome using Developer Tools. Inspect, add, modify, or delete local storage values for debugging and testing."
-date: "2025-02-19"
-last_modified_at: "2026-03-11"
-permalink: "chrome-local-storage-view-edit"
-categories: [browser-tips, developer-tools]
-tags: [local-storage, developer-tools, chrome-devtools, debugging, web-development]
-author: "theluckystrike"
+layout: post
+title: 'Chrome Local Storage View Edit: How to Inspect and Modify Website Data'
+description: Learn how to view and edit local storage in Chrome using Developer Tools.
+  Inspect, add, modify, or delete local storage values for debugging and testing.
+date: '2025-02-19'
+last_modified_at: '2026-03-11'
+permalink: chrome-local-storage-view-edit
+categories:
+- browser-tips
+- developer-tools
+tags:
+- local-storage
+- developer-tools
+- chrome-devtools
+- debugging
+- web-development
+author: theluckystrike
 ---
 # Chrome Local Storage View Edit: How to Inspect and Modify Website Data
 
@@ -74,7 +82,7 @@ Learning how to view and edit local storage in Chrome is a valuable skill that c
 Remember that local storage is just one of several storage mechanisms browsers provide. For comprehensive browser management and performance optimization, consider combining your knowledge of local storage with tools like Tab Suspender Pro to maintain a smooth and efficient browsing experience.
 
 ## Related Articles
+* [Chrome Memory Leak Fix for 2026](/articles/chrome-memory-leak-fix-2026/)
+* [How to Stop Chrome from Eating Your RAM](/articles/how-to-stop-chrome-from-eating-ram/)
+* [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable/)
 
-- [How to Pin a Website in Chrome Taskbar](/articles/how-to-pin-a-website-in-chrome-taskbar)
-- [Chrome OS vs Windows for Everyday Use](/articles/chrome-os-vs-windows-for-everyday-use)
-- [Chrome Recorder and DevTools: A Guide to Test Automation](/articles/chrome-recorder-devtools-test-automation)

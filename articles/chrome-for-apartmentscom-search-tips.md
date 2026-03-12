@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for apartments.com search tips
-description: Smart Chrome tips for finding your next apartment on Apartments.com faster and more efficiently. Find out more tips on how to optimize your Chrome browser ex...
+description: Smart Chrome tips for finding your next apartment on Apartments.com faster
+  and more efficiently. Find out more tips on how to optimize your Chrome browser
+  ex...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-apartmentscom-search-tips
@@ -35,7 +37,7 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome HTTPS Only Mode How to Enable](/articles/chrome-https-only-mode-how-to-enable/)
+* [Chrome Beacon API for Analytics](/articles/chrome-beacon-api-for-analytics/)
+* [Chrome for Private Browsing Tips Beyond Incognito](/articles/chrome-for-private-browsing-tips-beyond-incognito/)
 
-- [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips)
-- [Chrome PDF Viewer Settings: Complete Customization Guide](/articles/chrome-pdf-viewer-settings)
-- [Chrome Startup Pages How to Set](/articles/chrome-startup-pages-how-to-set)

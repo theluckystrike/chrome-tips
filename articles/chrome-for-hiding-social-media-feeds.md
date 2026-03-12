@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Hiding Social Media Feeds
-description: Learn how to hide social media feeds in Chrome using extensions and built-in features to reduce distractions and focus on what matters. Discover more tips an
+description: Learn how to hide social media feeds in Chrome using extensions and built-in
+  features to reduce distractions and focus on what matters. Discover more tips an
 date: 2026-03-10
 categories:
 - productivity
@@ -62,7 +63,7 @@ With the right tools and strategies, you can enjoy social media on your own term
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Do Chrome Extensions Slow Down Your Browser](/articles/do-chrome-extensions-slow-down-your-browser/)
+* [Chrome V8 Engine What It Means for Users](/articles/chrome-v8-engine-what-it-means-for-users/)
+* [chrome web bluetooth how to use](/articles/chrome-web-bluetooth-how-to-use/)
 
-- [Chrome Permission Denied How to Fix](/articles/chrome-permission-denied-how-to-fix)
-- [Chrome Guest Browsing: What Data Is Saved](/articles/chrome-guest-browsing-what-data-is-saved)
-- [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out)

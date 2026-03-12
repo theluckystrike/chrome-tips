@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome User Timing API Explained"
-description: "Learn what the Chrome User Timing API is, how it works, and how it helps measure timing in web applications. Read our comprehensive guide to learn more and o..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-user-timing-api-explained"
-categories: "[performance, web-development]"
-tags: "[chrome-performance, browser-tools, chrome-tips]"
-author: "theluckystrike"
+layout: post
+title: Chrome User Timing API Explained
+description: Learn what the Chrome User Timing API is, how it works, and how it helps
+  measure timing in web applications. Read our comprehensive guide to learn more and
+  o...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-user-timing-api-explained
+categories: '[performance, web-development]'
+tags: '[chrome-performance, browser-tools, chrome-tips]'
+author: theluckystrike
 ---
 # Chrome User Timing API Explained
 
@@ -72,10 +74,9 @@ One solution that many users find helpful is Tab Suspender Pro, which automatica
 This approach complements the work that developers do with tools like the User Timing API. Even the fastest website can feel sluggish if your browser is struggling with too many open tabs. By managing your tabs effectively, you ensure that every website you visit can perform at its best.
 
 ## Related Articles
-- [Chrome Navigation Timing API Explained](/chrome-navigation-timing-api-explained)
-- [Chrome Contact Picker API Explained](/chrome-contact-picker-api-explained)
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-
+* [Chrome Beta Channel How to Join and Leave](/articles/chrome-beta-channel-how-to-join-and-leave/)
+* [Best Chrome Setup for Elderly Parents](/articles/best-chrome-setup-for-elderly-parents/)
+* [How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)](/articles/how-to-downgrade-chrome-to-older-version/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

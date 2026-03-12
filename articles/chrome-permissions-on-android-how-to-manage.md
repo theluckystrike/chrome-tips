@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Permissions on Android How to Manage
-description: Learn how to manage Chrome permissions on Android to protect your privacy and control what websites can access on your device. Learn effective tips and trick...
+description: Learn how to manage Chrome permissions on Android to protect your privacy
+  and control what websites can access on your device. Learn effective tips and trick...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-permissions-on-android-how-to-manage
@@ -14,8 +15,6 @@ tags:
 - privacy
 - mobile-browser
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-permissions-on-android-how-to-manage
 ---
 # Chrome Permissions on Android How to Manage
 
@@ -88,10 +87,9 @@ If you believe a website is misusing a permission you granted, consider clearing
 Keeping your Android operating system and Chrome app updated is also important, as updates often include security patches and improved privacy controls.
 
 ## Related Articles
-- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
-- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
-- [Chrome Android Tabs Too Many How to Manage](/chrome-android-tabs-too-many-how-to-manage)
-
+* [chrome right to left language support](/articles/chrome-right-to-left-language-support/)
+* [Chrome vs Edge Extensions Compatibility](/articles/chrome-vs-edge-extensions-compatibility/)
+* [chrome file system access api explained](/articles/chrome-file-system-access-api-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

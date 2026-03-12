@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "how to turn on chrome dark mode on any website"
-description: "Discover easy ways to enable dark mode in Chrome for any website and browse comfortably in low light without eye strain. Read our comprehensive guide to lear..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "how-to-turn-on-chrome-dark-mode-on-any-website"
-categories: "[tips, accessibility]"
-tags: "[dark-mode, chrome, browser, eye-strain]"
-author: "theluckystrike"
+layout: post
+title: how to turn on chrome dark mode on any website
+description: Discover easy ways to enable dark mode in Chrome for any website and
+  browse comfortably in low light without eye strain. Read our comprehensive guide
+  to lear...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: how-to-turn-on-chrome-dark-mode-on-any-website
+categories: '[tips, accessibility]'
+tags: '[dark-mode, chrome, browser, eye-strain]'
+author: theluckystrike
 ---
 # How to Turn on Chrome Dark Mode on Any Website
 
@@ -62,7 +64,7 @@ Think about which websites you visit most often and make sure your dark mode sol
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Vertical Tabs Enable 2026](/articles/chrome-vertical-tabs-enable-2026/)
+* [Chrome Best Settings for Online Meetings](/articles/chrome-best-settings-for-online-meetings/)
+* [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained/)
 
-- [Chrome Network Throttling Guide](/articles/chrome-network-throttling-guide)
-- [Chrome Tabs Taking Forever to Load? Here's What to Do](/articles/chrome-tabs-taking-forever-to-load)
-- [How to Group Tabs by Color in Chrome: A Complete Guide](/articles/chrome-group-tabs-by-color-organize)

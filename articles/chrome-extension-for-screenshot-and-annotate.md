@@ -1,13 +1,15 @@
 ---
-title: "chrome extension for screenshot and annotate"
-description: "Looking for a chrome extension for screenshot and annotate? Find the right tool to capture and mark up your screens with ease. Discover how these tools can s..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extension-for-screenshot-and-annotate"
-layout: "post"
-categories: "[extensions, productivity]"
-tags: "[screenshot, annotate, chrome-extension, capture, productivity]"
-author: "theluckystrike"
+title: chrome extension for screenshot and annotate
+description: Looking for a chrome extension for screenshot and annotate? Find the
+  right tool to capture and mark up your screens with ease. Discover how these tools
+  can s...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-screenshot-and-annotate
+layout: post
+categories: '[extensions, productivity]'
+tags: '[screenshot, annotate, chrome-extension, capture, productivity]'
+author: theluckystrike
 ---
 # Chrome Extension for Screenshot and Annotate
 
@@ -84,10 +86,9 @@ As you use your chosen extension, you will discover which annotation features yo
 ---
 
 ## Related Articles
-- [Chrome for Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension)
-- [Chrome For Screenshot And Annotation Tools](/chrome-for-screenshot-and-annotation-tools)
-- [Chrome Extension for Coupon Codes Automatic](/chrome-extension-for-coupon-codes-automatic)
-
+* [Chrome Extensions for Notion](/articles/chrome-extensions-for-notion/)
+* [Why Does Each Chrome Tab Use So Much Memory](/articles/why-does-each-chrome-tab-use-so-much-memory/)
+* [Chrome Extensions Permissions Explained Simply](/articles/chrome-extensions-permissions-explained-simply/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Figma Best Settings
-description: Optimize Chrome for smoother Figma design work. Learn settings that improve performance and reduce lag. Find out more tips on how to optimize your Chrome bro...
+description: Optimize Chrome for smoother Figma design work. Learn settings that improve
+  performance and reduce lag. Find out more tips on how to optimize your Chrome bro...
 date: 2025-02-20
 categories:
 - performance
@@ -92,7 +93,7 @@ Every computer is different, so you might need to experiment with a few settings
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Aspect Ratio CSS Property](/articles/chrome-aspect-ratio-css-property/)
+* [Chrome Session Storage vs Local Storage: What's the Difference?](/articles/chrome-session-storage-vs-local-storage/)
+* [How to Enable Chrome Site Isolation for Extra Security](/articles/chrome-site-isolation-enable-extra-security/)
 
-- [Chrome Extensions for Whois Lookup](/articles/chrome-extensions-for-whois-lookup)
-- [Best Chrome Extensions for Salespeople](/articles/best-chrome-extensions-for-salespeople)
-- [Chrome Task Manager Guide](/articles/chrome-task-manager-guide)

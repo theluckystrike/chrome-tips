@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome New Tab Page Best Extensions
-description: Discover the best Chrome new tab page extensions to transform your browsing experience and boost daily productivity. Learn effective tips and tricks to optim...
+description: Discover the best Chrome new tab page extensions to transform your browsing
+  experience and boost daily productivity. Learn effective tips and tricks to optim...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-new-tab-page-best-extensions
@@ -13,8 +14,6 @@ tags:
 - new-tab
 - browser-tools
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-new-tab-page-best-extensions
 ---
 # Chrome New Tab Page Best Extensions
 
@@ -93,7 +92,7 @@ Once you find the right extension for your needs, you will be surprised how such
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome fledge api what advertisers know about you](/articles/chrome-fledge-api-what-advertisers-know-about-you/)
+* [Chrome Devtools Webauthn Debugger](/articles/chrome-devtools-webauthn-debugger/)
+* [Chrome Passkeys Guide 2026](/articles/chrome-passkeys-guide-2026/)
 
-- [Chrome Android Slow Fix 2026](/articles/chrome-android-slow-fix-2026)
-- [Chrome Benchmark Score What It Means](/articles/chrome-benchmark-score-what-it-means)
-- [Chrome Frame Rate How to Check](/articles/chrome-frame-rate-how-to-check)

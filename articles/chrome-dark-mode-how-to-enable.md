@@ -101,7 +101,7 @@ Give dark mode a try, especially during evening hours. You might find that it ma
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Extensions for YouTube Thumbnail Preview](/articles/chrome-extensions-for-youtube-thumbnail-preview/)
+* [Chrome Web Store Reviews How to Spot Fake](/articles/chrome-web-store-reviews-how-to-spot-fake/)
+* [Chrome Ai Features Built In 2026](/articles/chrome-ai-features-built-in-2026/)
 
-- [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix)
-- [Chrome Web MIDI API for Musicians](/articles/chrome-web-midi-api-for-musicians)
-- [Chrome Address Bar Tips and Tricks](/articles/chrome-address-bar-tips-and-tricks)

@@ -92,7 +92,7 @@ Taking a few minutes to set up your download location and organize your files ca
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome for mouse gestures extensions](/articles/chrome-for-mouse-gestures-extensions/)
+* [Chrome Guest Mode Explained](/articles/chrome-guest-mode-explained/)
+* [Chrome Extensions Update Frequency Explained](/articles/chrome-extensions-update-frequency-explained/)
 
-- [Chrome Follow Button for Websites How to Use](/articles/chrome-follow-button-for-websites-how-to-use)
-- [Chrome Side by Side Tabs How to Split Screen](/articles/chrome-side-by-side-tabs-how-to-split-screen)
-- [Chrome DevTools Performance Panel Explained](/articles/chrome-devtools-performance-panel-explained)

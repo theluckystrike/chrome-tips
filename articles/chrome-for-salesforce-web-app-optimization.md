@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Salesforce Web App Optimization
-description: Learn how to optimize Chrome for Salesforce web app performance. Simple tips to make your CRM run faster and smoother. Discover more tips and tricks to optim
+description: Learn how to optimize Chrome for Salesforce web app performance. Simple
+  tips to make your CRM run faster and smoother. Discover more tips and tricks to
+  optim
 date: 2026-01-15
 categories:
 - productivity
@@ -78,7 +80,7 @@ By paying attention to how you use your browser and making a few intentional adj
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions For Cold Email Outreach](/articles//articles/chrome-extensions-for-cold-email-outreach//)
+* [chrome for metamask setup and tips](/articles/chrome-for-metamask-setup-and-tips/)
+* [Chrome Extension Popup Page Tutorial](/articles/chrome-extension-popup-page-tutorial/)
 
-- [Chrome Secure DNS: What It Is and How to Enable](/articles/chrome-secure-dns-what-it-is-and-how-to-enable)
-- [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/articles/i-have-100-tabs-open-chrome-is-dying)
-- [How to Manage Addresses in Chrome Autofill](/articles/chrome-autofill-manage-addresses)

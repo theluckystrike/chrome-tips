@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Discord"
-description: "Discover how Chrome Extensions For Discord can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings to boost..."
+title: Chrome Extensions For Discord
+description: Discover how Chrome Extensions For Discord can transform your browsing.
+  This comprehensive 2026 guide covers the best Chrome extensions and settings to
+  boost...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: /articles/chrome-extensions-for-discord/
@@ -60,7 +62,7 @@ Once you start using these extensions, you will wonder how you ever used Discord
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome CDP Protocol Explained Simply](/articles/chrome-cdp-protocol-explained-simply/)
+* [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature/)
+* [Chrome Follow Button for Websites How to Use](/articles/chrome-follow-button-for-websites-how-to-use/)
 
-- [Chrome WebRTC Leak Prevention Guide](/articles/chrome-webrtc-leak-prevention-guide)
-- [Chrome Reading Mode — How to Enable and Use It](/articles/chrome-reading-mode-how-to-enable)
-- [Chrome Extensions for Weather Forecast New Tab](/articles/chrome-extensions-for-weather-forecast-new-tab)

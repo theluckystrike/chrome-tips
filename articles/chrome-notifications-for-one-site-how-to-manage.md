@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Notifications for One Site How to Manage
-description: Getting annoying notifications from just one website? Learn how to manage Chrome notifications for specific sites and regain control. Learn effective tips an...
+description: Getting annoying notifications from just one website? Learn how to manage
+  Chrome notifications for specific sites and regain control. Learn effective tips
+  an...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-notifications-for-one-site-how-to-manage
@@ -67,7 +69,7 @@ Taking a few minutes to review your notification permissions now can save you fr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Productivity Students](/articles/chrome-extensions-for-productivity-students/)
+* [Chrome Freezing Every Few Minutes? Here's What to Do](/articles/chrome-freezing-every-few-minutes/)
+* [Chrome Mobile Dark Mode Force on All Sites](/articles/chrome-mobile-dark-mode-force-on-all-sites/)
 
-- [Chrome Live Captions Feature Guide](/articles/chrome-live-captions-feature)
-- [Best Tab Suspender to Save Memory 2026](/articles/best-tab-suspender-to-save-memory-2026)
-- [chrome for banking online security tips](/articles/chrome-for-banking-online-security-tips)

@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Mouse Gestures Navigation"
-description: "Learn how Chrome extensions for mouse gestures navigation can speed up your browsing and reduce keyboard reliance. Check out our expert recommendations and..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-mouse-gestures-navigation"
-layout: "post"
-categories: "[browsing, tips]"
-tags: "[chrome-extensions, mouse-gestures, navigation]"
-author: "theluckystrike"
+title: Chrome Extensions for Mouse Gestures Navigation
+description: Learn how Chrome extensions for mouse gestures navigation can speed up
+  your browsing and reduce keyboard reliance. Check out our expert recommendations
+  and...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-mouse-gestures-navigation
+layout: post
+categories: '[browsing, tips]'
+tags: '[chrome-extensions, mouse-gestures, navigation]'
+author: theluckystrike
 ---
 # Chrome Extensions for Mouse Gestures Navigation
 
@@ -70,7 +72,7 @@ Give yourself permission to be clumsy at first. You will likely trigger the wron
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Lazy Loading Images Explained](/articles/chrome-lazy-loading-images-explained/)
+* [Chrome Reading List vs Bookmarks Difference](/articles/chrome-reading-list-vs-bookmarks-difference/)
+* [How to Export Chrome Passwords](/articles/how-to-export-chrome-passwords/)
 
-- [Chromebook Guest Mode What It Does](/articles/chromebook-guest-mode-what-it-does)
-- [Chrome Screen Share in Google Meet Tips](/articles/chrome-screen-share-in-google-meet-tips)
-- [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/articles/chrome-tab-hibernate-save-memory)

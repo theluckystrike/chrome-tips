@@ -84,10 +84,9 @@ The best approach is to experiment with different settings and find what works f
 Take some time to review your Chrome settings, clear any data you are uncomfortable with, and adjust the autocomplete options to match your needs. A few minutes of configuration can make your browsing experience feel much more personalized and private.
 
 ## Related Articles
-- [Chrome AI Generated Summaries Explained](/chrome-ai-generated-summaries-explained)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [Chrome AI Powered Search Suggestions](/chrome-ai-powered-search-suggestions)
-
+* [Chrome Lite Mode Does It Still Exist](/articles/chrome-lite-mode-does-it-still-exist/)
+* [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/articles/chrome-your-computer-is-infected-popup-fix/)
+* [chrome web serial api explained](/articles/chrome-web-serial-api-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Chrome Flags for Speed Optimization"
-description: "Discover the best Chrome flags for speed optimization including parallel downloading, QUIC protocol, GPU rasterization, and back-forward cache settings to ma..."
+title: Chrome Flags for Speed Optimization
+description: Discover the best Chrome flags for speed optimization including parallel
+  downloading, QUIC protocol, GPU rasterization, and back-forward cache settings to
+  ma...
 date: 2026-03-10
-last_modified_at: 2026-03-10
-permalink: chrome-flags-for-speed-optimization
-categories: [features, performance]
-tags: [chrome-flags, speed, optimization, performance]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-flags-for-speed-optimization
+categories:
+- features
+- performance
+tags:
+- chrome-flags
+- speed
+- optimization
+- performance
+author: theluckystrike
 ---
 # Chrome Flags for Speed Optimization
 
@@ -94,10 +100,9 @@ By combining these Chrome flags with smart tab management using tools like Tab S
 ---
 
 ## Related Articles
-- [Chrome For Codesandbox Optimization](/chrome-for-codesandbox-optimization)
-- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)
-- [Chrome for Speed Reading Extensions](/chrome-for-speed-reading-extensions)
-
+* [Chrome Overscroll Behavior CSS](/articles/chrome-overscroll-behavior-css/)
+* [Is Chrome Still the Best Browser in 2026?](/articles/is-chrome-still-the-best-browser-2026/)
+* [Chrome Back Forward Cache How to Test](/articles/chrome-back-forward-cache-how-to-test/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

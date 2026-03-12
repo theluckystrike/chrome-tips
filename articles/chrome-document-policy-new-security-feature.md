@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Document Policy: The New Security Feature You Need to Know"
-description: "Discover Chrome's Document Policy API—a powerful security feature that gives websites fine-grained control over browser behavior and protects users from vari..."
+title: 'Chrome Document Policy: The New Security Feature You Need to Know'
+description: Discover Chrome's Document Policy API—a powerful security feature that
+  gives websites fine-grained control over browser behavior and protects users from
+  vari...
 date: 2026-01-24
 last_modified_at: 2026-03-11
 permalink: chrome-document-policy-new-security-feature
@@ -57,10 +59,9 @@ Whether you are building a simple blog or a complex enterprise application, taki
 ---
 
 ## Related Articles
-- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)
-- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
-- [Chrome Content Security Policy Explained: A Complete Guide](/chrome-content-security-policy-explained)
-
+* [Chrome Extensions for Markdown Editor Preview](/articles/chrome-extensions-for-markdown-editor-preview/)
+* [Chrome Slow on Your Old MacBook? Here's How to Fix It](/articles/chrome-slow-on-old-macbook-fix/)
+* [Chrome Redirect Virus How to Remove](/articles/chrome-redirect-virus-how-to-remove/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

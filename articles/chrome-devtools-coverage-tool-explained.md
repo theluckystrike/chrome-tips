@@ -91,7 +91,7 @@ Run coverage tests regularly, especially after adding new features or making sig
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Text to Speech: Complete Guide for 2026](/articles/chrome-text-to-speech/)
+* [Best Chrome Extensions for Students 2026](/articles/chrome-extensions-for-students/)
+* [Chrome Noise Cancellation for Meetings](/articles/chrome-noise-cancellation-for-meetings/)
 
-- [Chrome vs DuckDuckGo Browser Privacy](/articles/chrome-vs-duckduckgo-browser-privacy)
-- [Chrome for Claude AI Web Tips](/articles/chrome-for-claude-ai-web-tips)
-- [Chrome DevTools CSS Overview Panel](/articles//chrome-devtools-css-overview-panel/)

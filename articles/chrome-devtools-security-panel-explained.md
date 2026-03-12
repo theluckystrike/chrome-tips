@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome Devtools Security Panel Explained"
-description: "Learn how to use Chrome DevTools Security panel to check if websites are secure and fix common security issues. Explore our comprehensive guide to mastering..."
+title: Chrome Devtools Security Panel Explained
+description: Learn how to use Chrome DevTools Security panel to check if websites
+  are secure and fix common security issues. Explore our comprehensive guide to mastering...
 date: 2025-02-19
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-security-panel-explained
@@ -75,7 +76,7 @@ The Security panel is one of those tools that is easy to overlook but incredibly
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Fix Chrome Search Bar Not Working](/articles/chrome-search-bar-not-working-fix/)
+* [Chrome Safe Browsing Protection Levels Explained](/articles/chrome-safe-browsing-protection-levels-explained/)
+* [CHIPS: Cookies Having Independent Partitioned State in Chrome](/articles/chrome-chips-cookies-having-independent-state/)
 
-- [Chrome Not Responding Force Close and Recover](/articles/chrome-not-responding-force-close-and-recover)
-- [Chrome Extensions for Language Learning](/articles/chrome-extensions-for-language-learning)
-- [How to Clear Cookies for One Site in Chrome](/articles/how-to-clear-cookies-for-one-site-in-chrome)

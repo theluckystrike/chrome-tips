@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Precaching vs Runtime Caching
-description: Learn how Chrome precaching and runtime caching work to speed up your browsing, and how to manage them effectively. Learn effective tips and tricks to optimi...
+description: Learn how Chrome precaching and runtime caching work to speed up your
+  browsing, and how to manage them effectively. Learn effective tips and tricks to
+  optimi...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-precaching-vs-runtime-caching
@@ -14,8 +16,6 @@ tags:
 - browser-speed
 - performance
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-precaching-vs-runtime-caching
 ---
 # Chrome Precaching vs Runtime Caching
 
@@ -76,10 +76,9 @@ Understanding the difference between precaching and runtime caching helps you be
 ---
 
 ## Related Articles
-- [Chrome vs Firefox Battery Life: Which Browser Saves More Power](/chrome-vs-firefox-battery-life)
-- [Chrome Vs Firefox Privacy Comparison 2026](/chrome-vs-firefox-privacy-comparison-2026)
-- [Chrome vs Edge Speed Test 2026](/chrome-vs-edge-speed-test-2026)
-
+* [Chrome Third Party Cookies Blocked What It Means](/articles/chrome-third-party-cookies-blocked-what-it-means/)
+* [Chrome Site Isolation Explained for Users](/articles/chrome-site-isolation-explained-for-users/)
+* [The Chrome Omnibox Calculator Trick: Quick Math Without Leaving Your Browser](/articles/chrome-omnibox-calculator-trick/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

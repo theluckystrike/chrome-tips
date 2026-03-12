@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome site isolation what it does
-description: Learn what chrome site isolation does and how it protects your browser from security threats by isolating websites in separate processes. Read our comprehensive
+description: Learn what chrome site isolation does and how it protects your browser
+  from security threats by isolating websites in separate processes. Read our comprehensive
 date: 2026-01-15
 categories:
 - security
@@ -87,10 +88,9 @@ Chrome site isolation what it does is protect you by keeping websites separate i
 By understanding how site isolation works, you can better appreciate the protections built into your browser and make informed decisions about your browsing habits. Keeping your browser updated ensures you continue to benefit from the latest security improvements, including refinements to site isolation that address new threats as they emerge.
 
 ## Related Articles
-- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
-- [Chrome Password Checkup What It Does](/chrome-password-checkup-what-it-does)
-
+* [Chrome Tracking Prevention Explained Simply](/articles/chrome-tracking-prevention-explained-simply/)
+* [Chrome Layers Panel 3D View Explained](/articles/chrome-layers-panel-3d-view-explained/)
+* [Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab](/articles/chrome-duplicate-tab-shortcut-trick/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

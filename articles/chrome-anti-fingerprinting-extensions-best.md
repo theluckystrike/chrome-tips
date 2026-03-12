@@ -77,7 +77,7 @@ Remember that protecting your privacy is an ongoing process. New tracking techni
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome PWA Update Mechanism How It Works](/articles/chrome-pwa-update-mechanism-how-it-works/)
+* [Chrome Network Speed in Developer Tools](/articles/chrome-network-speed-in-developer-tools/)
+* [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix/)
 
-- [Chrome Badging API Explained](/articles/chrome-badging-api-explained)
-- [How to Pin a Website in Chrome Taskbar](/articles/how-to-pin-a-website-in-chrome-taskbar)
-- [Chrome Extensions for Background Remover](/articles/chrome-extensions-for-background-remover)

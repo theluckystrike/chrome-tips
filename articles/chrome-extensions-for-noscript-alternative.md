@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Noscript Alternative"
-description: "Looking for chrome extensions for noscript alternative? Find the best tools to manage scripts and improve browser performance. Check out our expert..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-noscript-alternative"
-layout: "post"
-categories: "[productivity, performance, privacy]"
-tags: "[chrome-extensions, noscript, privacy, script-blocking, browser-security]"
-author: "theluckystrike"
+title: Chrome Extensions for Noscript Alternative
+description: Looking for chrome extensions for noscript alternative? Find the best
+  tools to manage scripts and improve browser performance. Check out our expert...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-noscript-alternative
+layout: post
+categories: '[productivity, performance, privacy]'
+tags: '[chrome-extensions, noscript, privacy, script-blocking, browser-security]'
+author: theluckystrike
 ---
 If you have been searching for chrome extensions for noscript alternative, you probably want more control over what runs in your browser. The NoScript extension has been a popular choice for years, but many users find it too complex or are looking for simpler alternatives that still provide good control over web scripts.
 
@@ -70,7 +71,7 @@ Remember that you do not have to choose just one solution. Many users find that 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Tab Crashed He Dead Fix](/articles/chrome-tab-crashed-he-dead-fix/)
+* [Chrome Address Bar Not Showing Full URL Fix](/articles/chrome-address-bar-not-showing-full-url-fix/)
+* [Chrome Opens by Itself Randomly Fix](/articles/chrome-opens-by-itself-randomly-fix/)
 
-- [Chrome Bookmarks Bar Show Hide Shortcut](/articles/chrome-bookmarks-bar-show-hide-shortcut)
-- [Chrome Event Timing API Explained](/articles/chrome-event-timing-api-explained)
-- [Chrome Android Tips and Tricks 2026](/articles/chrome-android-tips-and-tricks-2026)

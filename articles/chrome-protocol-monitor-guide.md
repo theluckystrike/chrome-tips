@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome DevTools Protocol Monitor
-description: Master Chrome DevTools Protocol Monitor for debugging, automation, and performance analysis. Learn CDP commands, event logging, automation with Puppeteer, an...
+description: Master Chrome DevTools Protocol Monitor for debugging, automation, and
+  performance analysis. Learn CDP commands, event logging, automation with Puppeteer,
+  an...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-protocol-monitor-guide
@@ -15,8 +17,6 @@ tags:
 - puppeteer
 - automation
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-protocol-monitor-guide
 ---
 # Chrome DevTools Protocol Monitor: The Complete Guide
 
@@ -125,10 +125,9 @@ Remember to pair your Chrome development workflow with Tab Suspender Pro for opt
 ---
 
 ## Related Articles
-- [Chrome Console Utilities Reference](/chrome-console-utilities-guide)
-- [Chrome DevTools Protocol Monitor](/chrome-devtools-protocol-monitor)
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
-
+* [Best Chrome Extensions for Podcasters](/articles/best-chrome-extensions-for-podcasters/)
+* [Chrome Extensions for Mockup Creator](/articles/chrome-extensions-for-mockup-creator/)
+* [Chrome Dinosaur Game Hidden Features](/articles/chrome-dinosaur-game-hidden-features/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

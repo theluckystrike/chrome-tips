@@ -86,7 +86,7 @@ If you find yourself with many open tabs while working with files, you might ben
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome shortcuts on desktop how to create](/articles/chrome-shortcuts-on-desktop-how-to-create/)
+* [Chrome Task Manager Guide](/articles/chrome-task-manager-guide/)
+* [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/articles/chrome-extensions-developer-mode/)
 
-- [Chrome Back Forward Cache Explained](/articles/chrome-back-forward-cache-explained)
-- [chrome high contrast mode](/articles/chrome-high-contrast-mode)
-- [Chrome Service Workers List How to View](/articles/chrome-service-workers-list-how-to-view)

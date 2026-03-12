@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Website Testing"
-description: "Learn about Chrome extensions for website testing that help you check performance, accessibility, and functionality across different scenarios. Read our comp..."
+title: Chrome Extensions for Website Testing
+description: Learn about Chrome extensions for website testing that help you check
+  performance, accessibility, and functionality across different scenarios. Read our
+  comp...
 date: 2026-03-10
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-website-testing
-categories: [testing, tips]
-tags: [chrome-extensions, website-testing, browser-tools]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-website-testing
+categories:
+- testing
+- tips
+tags:
+- chrome-extensions
+- website-testing
+- browser-tools
+author: theluckystrike
 ---
 # Chrome Extensions for Website Testing
 
@@ -88,7 +93,7 @@ Use the chrome extensions for website testing that match your specific needs. No
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Use Chrome Device Emulation to Test Your Mobile Website](/articles//chrome-device-emulation-test-mobile-website//)
+* [Chrome Content Security Policy Explained: A Complete Guide](/articles/chrome-content-security-policy-explained/)
+* [Chrome Passkeys Setup Guide 2026](/articles/chrome-passkeys-setup-guide-2026/)
 
-- [Chrome Speed Comparison Test How to Run](/articles/chrome-speed-comparison-test-how-to-run)
-- [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained)
-- [Chrome History Search Tips and Tricks](/articles/chrome-history-search-tips-and-tricks)

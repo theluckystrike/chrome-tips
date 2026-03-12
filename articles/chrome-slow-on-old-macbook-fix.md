@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Slow on Your Old MacBook? Here's How to Fix It
-description: Speed up Chrome on older MacBooks. Practical fixes for lag, high CPU usage, and excessive memory consumption on aging Apple hardware. Read our comprehensive gui
+description: Speed up Chrome on older MacBooks. Practical fixes for lag, high CPU
+  usage, and excessive memory consumption on aging Apple hardware. Read our comprehensive
+  gui
 date: 2025-02-18
 categories:
 - performance
@@ -111,6 +113,11 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 - [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
 - [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
 
+
+## Related Articles
+* [Chrome Contact Picker API Explained](/articles/chrome-contact-picker-api-explained/)
+* [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix/)
+* [chrome for apple music web player tips](/articles/chrome-for-apple-music-web-player-tips/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 >>>>>>> qa/loop-3

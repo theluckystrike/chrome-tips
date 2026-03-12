@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "how to enable cookies in chrome"
-description: "Learn how to enable cookies in Chrome to fix login issues, session problems, Read our comprehensive guide to learn more and optimize your browser experience ..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "how-to-enable-cookies-in-chrome"
-categories: ""
-tags: ""
-author: "theluckystrike"
+layout: post
+title: how to enable cookies in chrome
+description: Learn how to enable cookies in Chrome to fix login issues, session problems,
+  Read our comprehensive guide to learn more and optimize your browser experience
+  ...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: how-to-enable-cookies-in-chrome
+categories: ''
+tags: ''
+author: theluckystrike
 ---
 # How to Enable Cookies in Chrome
 
@@ -68,7 +70,7 @@ For those who want a smoother browsing experience with less manual management, b
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Geolocation Permission Settings](/articles/chrome-geolocation-permission-settings/)
+* [Chrome Open Settings Shortcut](/articles/chrome-open-settings-shortcut/)
+* [Chrome WebXR API Virtual Reality](/articles/chrome-webxr-api-virtual-reality/)
 
-- [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix)
-- [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track)
-- [How to Use Chrome Read Later: Save Articles for Offline Reading](/articles/chrome-read-later-save-articles-offline)

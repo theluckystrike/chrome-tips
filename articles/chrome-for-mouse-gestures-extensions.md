@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome for mouse gestures extensions
-description: Discover chrome for mouse gestures extensions that let you navigate faster by drawing simple shapes with your cursor. Discover more tips and tricks to optimi
+description: Discover chrome for mouse gestures extensions that let you navigate faster
+  by drawing simple shapes with your cursor. Discover more tips and tricks to optimi
 date: 2026-01-15
 categories:
 - extensions
@@ -82,7 +83,7 @@ Chrome for mouse gestures extensions is a great way to boost your browsing speed
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Scope CSS Explained](/articles/chrome-scope-css-explained/)
+* [Chrome Downloads Not Starting Fix](/articles/chrome-downloads-not-starting-fix/)
+* [chrome offline google docs how to enable](/articles/chrome-offline-google-docs-how-to-enable/)
 
-- [Chrome Tab Freezing What It Means](/articles/chrome-tab-freezing-what-it-means)
-- [Chrome Bookmark Manager Best Extensions 2026](/articles/chrome-bookmark-manager-best-extensions-2026)
-- [Chrome PDF Not Opening Fix](/articles/chrome-pdf-not-opening-fix)

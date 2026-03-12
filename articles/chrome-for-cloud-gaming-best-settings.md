@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Cloud Gaming Best Settings
-description: Optimize Chrome for cloud gaming with these settings. Get lower latency, smoother streaming, and better performance on services like GeForce Now and Xbox Cloud.
+description: Optimize Chrome for cloud gaming with these settings. Get lower latency,
+  smoother streaming, and better performance on services like GeForce Now and Xbox
+  Cloud.
 date: 2025-02-20
 categories:
 - performance
@@ -68,7 +70,7 @@ Chrome's Memory Saver mode, found in the Performance section of settings, can he
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Shadow DOM What It Is](/articles/chrome-shadow-dom-what-it-is/)
+* [Chrome Release Schedule: When Is the Next Update?](/articles/chrome-release-schedule-when-next-update/)
+* [Chrome Tab Stacking How to Use](/articles/chrome-tab-stacking-how-to-use/)
 
-- [Chrome WebRTC Leak Test and Fix Guide](/articles/chrome-webrtc-leak-test-and-fix-guide)
-- [Chrome vs Edge Speed Test 2026](/articles/chrome-vs-edge-speed-test-2026)
-- [chrome web store not loading fix](/articles/chrome-web-store-not-loading-fix)

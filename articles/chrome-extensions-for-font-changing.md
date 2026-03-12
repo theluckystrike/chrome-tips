@@ -1,6 +1,7 @@
 ---
-title: "Chrome Extensions For Font Changing"
-description: "Discover how Chrome Extensions For Font Changing can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings to..."
+title: Chrome Extensions For Font Changing
+description: Discover how Chrome Extensions For Font Changing can transform your browsing.
+  This comprehensive 2026 guide covers the best Chrome extensions and settings to...
 date: 2026-03-09
 last_modified_at: 2026-03-11
 permalink: /articles/chrome-extensions-for-font-changing/
@@ -64,7 +65,7 @@ Take some time to try a few different extensions to find the one that works best
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extension for Website Blocker Parental](/articles/chrome-extension-for-website-blocker-parental/)
+* [Chrome for Tab Sleeping vs Tab Suspending Difference](/articles/chrome-for-tab-sleeping-vs-tab-suspending-difference/)
+* [Chrome DevTools Protocol Monitor](/articles/chrome-devtools-protocol-monitor/)
 
-- [Chrome Push Notifications vs Email Comparison](/articles/chrome-push-notifications-vs-email-comparison)
-- [Chrome User Agent Switcher Explained](/articles/chrome-user-agent-switcher-explained)
-- [Chrome WebRTC Leak Test and Fix Guide](/articles/chrome-webrtc-leak-test-and-fix-guide)

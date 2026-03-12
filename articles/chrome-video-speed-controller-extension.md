@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Video Speed Controller Extension"
-description: "Need a chrome video speed controller extension? This guide shows how to control video playback speed in Chrome for faster viewing. Read our comprehensive gui..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-video-speed-controller-extension"
-categories: "[extensions, media, productivity]"
-tags: "[chrome-video, video-speed, chrome-extensions, playback-control]"
-author: "theluckystrike"
+layout: post
+title: Chrome Video Speed Controller Extension
+description: Need a chrome video speed controller extension? This guide shows how
+  to control video playback speed in Chrome for faster viewing. Read our comprehensive
+  gui...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-video-speed-controller-extension
+categories: '[extensions, media, productivity]'
+tags: '[chrome-video, video-speed, chrome-extensions, playback-control]'
+author: theluckystrike
 ---
 # Chrome Video Speed Controller Extension
 
@@ -72,10 +74,9 @@ A chrome video speed controller extension gives you freedom to watch videos at y
 The best extension for you depends on your specific needs, but having some form of speed control available across all websites is invaluable. Take a few minutes to find one that works well with your most-visited sites, and you will quickly wonder how you ever managed without it.
 
 ## Related Articles
-- [Chrome Extension for Video Downloading: What is Legal](/chrome-extension-for-video-downloading-legal)
-- [Chrome Extension for Reading Speed Tracker](/chrome-extension-for-reading-speed-tracker)
-- [Chrome Extension for Coupon Codes Automatic](/chrome-extension-for-coupon-codes-automatic)
-
+* [Chrome Autofill Wrong Address How to Fix](/articles/chrome-autofill-wrong-address-how-to-fix/)
+* [chrome enrollment for schools how it works](/articles/chrome-enrollment-for-schools-how-it-works/)
+* [Chrome Window Size Not Saving Fix](/articles/chrome-window-size-not-saving-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

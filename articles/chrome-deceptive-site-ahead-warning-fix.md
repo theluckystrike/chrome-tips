@@ -55,7 +55,7 @@ Whether you are a website owner dealing with a security warning or a visitor try
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Upcoming Features Preview 2026](/articles/chrome-upcoming-features-preview-2026/)
+* [Chrome Canary vs Stable Difference Explained](/articles/chrome-canary-vs-stable-difference-explained/)
+* [Chrome Extensions for Habit Tracker](/articles/chrome-extensions-for-habit-tracker/)
 
-- [Chrome Extensions for Website Speed Test](/articles/chrome-extensions-for-website-speed-test)
-- [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking/)
-- [Chrome Slows Down After Sleep Mode Fix](/articles/chrome-slows-down-after-sleep-mode-fix)

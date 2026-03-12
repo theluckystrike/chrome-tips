@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Resource Timing API Explained
-description: Learn how Chrome's Resource Timing API helps you measure and optimize how long web resources take to load. Read our comprehensive guide to learn more and improv
+description: Learn how Chrome's Resource Timing API helps you measure and optimize
+  how long web resources take to load. Read our comprehensive guide to learn more
+  and improv
 date: 2026-01-15
 categories:
 - performance
@@ -96,7 +98,7 @@ Performance matters, and now you have a powerful tool to understand and improve 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Extensions For Calendar Integration](/articles//articles/chrome-extensions-for-calendar-integration//)
+* [Chrome Speech Recognition API Explained](/articles/chrome-speech-recognition-api-explained/)
+* [chrome profile name how to change](/articles/chrome-profile-name-how-to-change/)
 
-- [Chrome Coverage Tool Guide](/articles/chrome-coverage-tool-guide)
-- [chrome voice search how to use on desktop](/articles/chrome-voice-search-how-to-use-on-desktop)
-- [Chrome Extension Alternative to Grammarly Free](/articles/chrome-extension-alternative-to-grammarly-free)

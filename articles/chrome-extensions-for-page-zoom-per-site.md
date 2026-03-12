@@ -1,10 +1,11 @@
 ---
-title: "Chrome Extensions for Page Zoom Per Site"
-description: "Discover Chrome extensions that let you set different zoom levels for Check out our expert recommendations and tips to enhance your browsing experience..."
-date: "2026-03-10"
-last_modified_at: "2026-03-11"
-permalink: "chrome-extensions-for-page-zoom-per-site"
-layout: "post"
+title: Chrome Extensions for Page Zoom Per Site
+description: Discover Chrome extensions that let you set different zoom levels for
+  Check out our expert recommendations and tips to enhance your browsing experience...
+date: '2026-03-10'
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-page-zoom-per-site
+layout: post
 ---
 Chrome extensions for page zoom per site are tools that solve a common frustration. If you have ever opened one website that looks perfect and then visited another where the text is either too small or awkwardly large, you know the feeling. You zoom in on one tab, then zoom out on another, and this dance repeats every time you browse. The good news is that you do not have to keep doing this. There are extensions and methods that can remember your zoom preferences for each individual website, so everything looks right automatically.
 
@@ -53,7 +54,7 @@ If you are looking for a straightforward way to manage zoom along with other bro
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Font Too Small on Certain Websites Fix](/articles/chrome-font-too-small-on-certain-websites-fix/)
+* [Chrome Extension Settings Sync Across Devices](/articles/chrome-extension-settings-sync-across-devices/)
+* [Chrome High CPU Usage Nothing Open](/articles/chrome-high-cpu-usage-nothing-open/)
 
-- [Chrome Web Push Notifications Setup Guide](/articles/chrome-web-push-notifications-setup-guide)
-- [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track)
-- [Chrome Text to Speech Built In Features](/articles/chrome-text-to-speech-built-in-features)

@@ -134,10 +134,9 @@ Chrome autofill is an invaluable feature that can dramatically streamline your w
 Remember that autofill is designed to work for you, not the other way around. Take control of your autofill settings, remove outdated information, and enable sync across your devices for maximum convenience. With the right approach, Chrome autofill becomes an invisible assistant that handles the repetitive details of online life, leaving you free to focus on what matters most.
 
 ## Related Articles
-- [Chrome Site Settings Explained Complete Guide](/chrome-site-settings-explained-complete-guide)
-- [Chrome Address Autofill How to Manage](/chrome-address-autofill-how-to-manage)
-- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
-
+* [Chrome Window Size Not Saving Fix](/articles/chrome-window-size-not-saving-fix/)
+* [Chrome ERR_CONNECTION_REFUSED Fix](/articles/chrome-err-connection-refused-fix/)
+* [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

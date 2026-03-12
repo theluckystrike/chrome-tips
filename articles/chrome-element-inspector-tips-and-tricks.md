@@ -1,13 +1,15 @@
 ---
-title: "Chrome Element Inspector Tips and Tricks"
-description: "Master Chrome Element Inspector with these helpful tips. Learn how to inspect, edit, and debug web pages easily. Check out our expert recommendations and step-b"
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-element-inspector-tips-and-tricks"
-layout: "post"
-categories: "[tutorials, development, tools]"
-tags: "[chrome, browser, developer-tools, web-development]"
-author: "theluckystrike"
+title: Chrome Element Inspector Tips and Tricks
+description: Master Chrome Element Inspector with these helpful tips. Learn how to
+  inspect, edit, and debug web pages easily. Check out our expert recommendations
+  and step-b
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-element-inspector-tips-and-tricks
+layout: post
+categories: '[tutorials, development, tools]'
+tags: '[chrome, browser, developer-tools, web-development]'
+author: theluckystrike
 ---
 # Chrome Element Inspector Tips and Tricks
 
@@ -70,7 +72,7 @@ The Chrome Element Inspector is an incredibly versatile tool that goes far beyon
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Forest Focus Timer Extension](/articles/chrome-for-forest-focus-timer-extension/)
+* [Chrome Audio Equalizer Extension](/articles/chrome-audio-equalizer-extension/)
+* [How to Clear Chrome Cache Fast](/articles/how-to-clear-chrome-cache-fast/)
 
-- [Chrome for Online Exams Best Settings](/articles/chrome-for-online-exams-best-settings)
-- [Chrome Scrolling Lag Fix](/articles/chrome-scrolling-lag-fix)
-- [Chrome vs Firefox on an Old Laptop — Which Is Better?](/articles/chrome-vs-firefox-on-old-laptop)

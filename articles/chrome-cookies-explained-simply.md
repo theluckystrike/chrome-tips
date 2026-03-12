@@ -1,15 +1,21 @@
 ---
-title: "Chrome Cookies Explained Simply"
-description: "Learn what Chrome cookies are and how they work in plain language. A simple guide to understanding browser cookies. Read our full guide to master your Chrome br"
-date: "2025-03-10"
-last_modified_at: '2026-03-12'
-permalink: "chrome-cookies-explained-simply"
-layout: post
-categories: ['beginners', 'tips']
-tags: ['chrome-cookies', 'browser-cookies', 'cookie-basics', 'privacy']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: Chrome Cookies Explained Simply
+description: Learn what Chrome cookies are and how they work in plain language. A
+  simple guide to understanding browser cookies. Read our full guide to master your
+  Chrome br
+date: '2025-03-10'
+last_modified_at: '2026-03-10'
 permalink: chrome-cookies-explained-simply
+layout: post
+categories:
+- beginners
+- tips
+tags:
+- chrome-cookies
+- browser-cookies
+- cookie-basics
+- privacy
+author: theluckystrike
 ---
 # Chrome Cookies Explained Simply
 
@@ -90,7 +96,7 @@ Cookies do not have to be confusing or mysterious. They are simply small files t
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome for Instagram Web Tips](/articles/chrome-for-instagram-web-tips/)
+* [Chrome Web USB API Guide](/articles/chrome-web-usb-api-guide/)
+* [Chrome Parental Controls Without Extension](/articles/chrome-parental-controls-without-extension/)
 
-- [Chrome High Memory Usage Windows 11](/articles/chrome-high-memory-usage-windows-11)
-- [chrome web apps how to install](/articles/chrome-web-apps-how-to-install)
-- [Chrome Accessibility Tree Guide](/articles/chrome-accessibility-tree-guide)

@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Workspaces: Link DevTools to Files for Seamless Development"
-description: "Learn how to link Chrome DevTools to local files using Workspaces. Edit directly in the browser and persist changes to your file system effortlessly. Read ou..."
-date: "2026-03-11"
-last_modified_at: "2026-03-11"
-permalink: "chrome-workspaces-link-devtools-to-files"
-categories: "[development, chrome-devtools, productivity]"
-tags: "[chrome-devtools, workspaces, file-editing, web-development, debugging]"
-author: "theluckystrike"
+layout: post
+title: 'Chrome Workspaces: Link DevTools to Files for Seamless Development'
+description: Learn how to link Chrome DevTools to local files using Workspaces. Edit
+  directly in the browser and persist changes to your file system effortlessly. Read
+  ou...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-workspaces-link-devtools-to-files
+categories: '[development, chrome-devtools, productivity]'
+tags: '[chrome-devtools, workspaces, file-editing, web-development, debugging]'
+author: theluckystrike
 ---
 # Chrome Workspaces: Link DevTools to Files for Seamless Development
 
@@ -74,10 +76,9 @@ This combination becomes especially valuable when working on larger applications
 ---
 
 ## Related Articles
-- [Chrome DevTools Override Files Locally](/chrome-devtools-override-files-locally)
-- [Chrome Download Files on Phone Where to Find](/chrome-download-files-on-phone-where-to-find)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
-
+* [Best Chrome Extensions for Marketing Professionals](/articles/best-chrome-extensions-for-marketing-professionals/)
+* [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use/)
+* [Chrome Touchpad Gestures Not Working Fix](/articles/chrome-touchpad-gestures-not-working-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

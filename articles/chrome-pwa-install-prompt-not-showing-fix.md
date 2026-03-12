@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome PWA Install Prompt Not Showing Fix
-description: Your PWA install prompt won't appear? Learn why this happens and how to fix it with simple steps. Learn effective tips and tricks to optimize your Chrome bro...
+description: Your PWA install prompt won't appear? Learn why this happens and how
+  to fix it with simple steps. Learn effective tips and tricks to optimize your Chrome
+  bro...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-pwa-install-prompt-not-showing-fix
@@ -15,8 +17,6 @@ tags:
 - install-prompt
 - progressive-web-app
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-pwa-install-prompt-not-showing-fix
 ---
 # Chrome PWA Install Prompt Not Showing Fix
 
@@ -77,10 +77,9 @@ If your Chrome PWA install prompt is not showing, go through the checklist above
 Remember that you have control over the prompt through the beforeinstallprompt event. Taking manual control of the install experience often provides a better user experience anyway. Your users will appreciate a clear, well-timed install button rather than a prompt that appears at unpredictable times.
 
 ## Related Articles
-- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
-- [Chrome Install As App Pwa How To](/chrome-install-as-app-pwa-how-to)
-- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
-
+* [Chromebook vs MacBook for College](/articles/chromebook-vs-macbook-for-college/)
+* [Chrome for Skyscanner Web App Tips](/articles/chrome-for-skyscanner-web-app-tips/)
+* [Chrome Extensions Using Too Much Memory](/articles/chrome-extensions-using-too-much-memory/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

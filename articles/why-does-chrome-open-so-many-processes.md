@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Why Does Chrome Open So Many Processes"
-description: "Chrome opening too many processes? Learn why Chrome runs separate processes for tabs and extensions, and what you can do about it. Read our comprehensive gui..."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "why-does-chrome-open-so-many-processes"
-categories: "[performance, processes]"
-tags: "[chrome-processes, chrome-memory, browser-performance, chrome-tabs]"
-author: "theluckystrike"
+layout: post
+title: Why Does Chrome Open So Many Processes
+description: Chrome opening too many processes? Learn why Chrome runs separate processes
+  for tabs and extensions, and what you can do about it. Read our comprehensive gui...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: why-does-chrome-open-so-many-processes
+categories: '[performance, processes]'
+tags: '[chrome-processes, chrome-memory, browser-performance, chrome-tabs]'
+author: theluckystrike
 ---
 # Why Does Chrome Open So Many Processes
 
@@ -68,7 +69,7 @@ The solution is to be mindful of how many tabs you keep open, manage your extens
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Workbox Library for Service Workers](/articles/chrome-workbox-library-for-service-workers/)
+* [Chrome ERR_INTERNET_DISCONNECTED But Internet Works Fix](/articles/chrome-err-internet-disconnected-but-internet-works-fix/)
+* [Chrome Keeps Asking to Be Default Browser Stop](/articles/chrome-keeps-asking-to-be-default-browser-stop/)
 
-- [How to Customize Chrome Toolbar](/articles/how-to-customize-chrome-toolbar)
-- [Chrome Block Specific Websites Guide](/articles/chrome-block-specific-websites-guide)
-- [Best Chrome Extensions for Social Media](/articles/best-chrome-extensions-for-social-media)

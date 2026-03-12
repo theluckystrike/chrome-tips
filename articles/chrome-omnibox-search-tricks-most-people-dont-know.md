@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Omnibox Search Tricks Most People Dont Know
-description: Discover hidden Chrome omnibox search tricks that can transform how you browse. Learn simple tips to search faster and work more efficiently. Learn effective...
+description: Discover hidden Chrome omnibox search tricks that can transform how you
+  browse. Learn simple tips to search faster and work more efficiently. Learn effective...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-omnibox-search-tricks-most-people-dont-know
@@ -14,8 +15,6 @@ tags:
 - browser-tips
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-omnibox-search-tricks-most-people-dont-know
 ---
 # Chrome Omnibox Search Tricks Most People Dont Know
 
@@ -88,10 +87,9 @@ The Chrome omnibox is one of the most powerful tools in your browser, yet most p
 Once you start using these omnibox search tricks regularly, you will find yourself switching between tasks more quickly and getting things done in less time. The best part is that all of these features work immediately without any setup or installation. Give them a try and see how much easier Chrome can become.
 
 ## Related Articles
-- [Chrome Voice Search Enable](/chrome-voice-search-enable)
-- [Chrome for Omnibox Search Tricks](/chrome-for-omnibox-search-tricks)
-- [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)
-
+* [Chrome Extensions For Code Snippet Manager](/articles//articles/chrome-extensions-for-code-snippet-manager//)
+* [Chrome Homepage Keeps Resetting Fix](/articles/chrome-homepage-keeps-resetting-fix/)
+* [Chrome Was Fast, Now It's Slow - What Happened?](/articles/chrome-was-fast-now-its-slow-what-happened/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

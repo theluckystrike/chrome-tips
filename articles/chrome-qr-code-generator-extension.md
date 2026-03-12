@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome QR Code Generator Extension
-description: Looking for a Chrome QR code generator extension? Learn how to create QR codes directly in your browser and what options work best. Learn effective tips and ...
+description: Looking for a Chrome QR code generator extension? Learn how to create
+  QR codes directly in your browser and what options work best. Learn effective tips
+  and ...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-qr-code-generator-extension
@@ -14,8 +16,6 @@ tags:
 - browser-tools
 - qr-generator
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-qr-code-generator-extension
 ---
 # Chrome QR Code Generator Extension
 
@@ -79,10 +79,9 @@ To combat this, consider using **Tab Suspender Pro**. While it is primarily know
 Whether you need a simple link-sharer or a complex marketing tool, the right **Chrome QR code generator extension** can save you hours of manual work. Start with the built-in Chrome tool for basic tasks, but don't be afraid to upgrade to a dedicated extension like those offered in the Zovo suite if you need branding, tracking, or advanced data types.
 
 ## Related Articles
-- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/chrome-blackbox-script-skip-library-code-debug)
-- [Chrome QR Code for Page How to Generate](/chrome-qr-code-for-page-how-to-generate)
-- [Chrome Extensions for Citation Generator](/chrome-extensions-for-citation-generator)
-
+* [Free Chrome Extensions Better Than Paid Apps](/articles/free-chrome-extensions-better-than-paid-apps/)
+* [Chrome Blocked Download How to Unblock](/articles/chrome-blocked-download-how-to-unblock/)
+* [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

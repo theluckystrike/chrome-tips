@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for TickTick in Browser Tips
-description: 'Learn how to use Chrome with TickTick for better task management. Tips to streamline your workflow directly in the browser. Discover more tips and tricks to '
+description: 'Learn how to use Chrome with TickTick for better task management. Tips
+  to streamline your workflow directly in the browser. Discover more tips and tricks
+  to '
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-ticktick-in-browser-tips
@@ -67,7 +69,7 @@ Remember that the goal is not to create more work for yourself but to reduce the
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Cache First vs Network First Strategy](/articles/chrome-cache-first-vs-network-first-strategy/)
+* [Chrome for edX Web App Best Settings](/articles/chrome-for-edx-web-app-best-settings/)
+* [Chrome Omnibox Hidden Features](/articles/chrome-omnibox-hidden-features/)
 
-- [Chromebook Storage Full How to Free Space](/articles/chromebook-storage-full-how-to-free-space)
-- [Chrome PDF Viewer Settings: Complete Customization Guide](/articles/chrome-pdf-viewer-settings)
-- [chrome extensions for teachers 2026](/articles/chrome-extensions-for-teachers-2026)

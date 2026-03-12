@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome tab memory usage how to check
-description: 'Learn how to check Chrome tab memory usage to improve browser performance and reduce memory consumption. Read our comprehensive guide to learn more and improve '
+description: 'Learn how to check Chrome tab memory usage to improve browser performance
+  and reduce memory consumption. Read our comprehensive guide to learn more and improve '
 date: 2026-03-09
 categories:
 - tabs
@@ -81,10 +82,9 @@ Understanding memory usage also helps you troubleshoot when your computer seems 
 By learning how to check chrome tab memory usage and taking steps to manage it effectively, you are setting yourself up for a smoother, more efficient browsing experience. Your computer will run better, your browser will respond faster, and you will have more control over your digital workspace.
 
 ## Related Articles
-- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
-- [How to Limit Chrome Memory Usage on Windows](/how-to-limit-chrome-memory-usage-windows)
-- [How to Limit Chrome Memory Usage Mac](/how-to-limit-chrome-memory-usage-mac)
-
+* [chrome gamepad api how to use](/articles/chrome-gamepad-api-how-to-use/)
+* [chrome offline first app design explained](/articles/chrome-offline-first-app-design-explained/)
+* [Chrome for Costco Web Shopping Tips](/articles/chrome-for-costco-web-shopping-tips/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

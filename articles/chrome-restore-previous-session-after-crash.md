@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Restore Previous Session After Crash
-description: Chrome restore previous session after crash can be a lifesaver. Learn why Chrome loses your tabs and how to get them back. Read our comprehensive guide to learn
+description: Chrome restore previous session after crash can be a lifesaver. Learn
+  why Chrome loses your tabs and how to get them back. Read our comprehensive guide
+  to learn
 date: 2025-03-09
 categories:
 - troubleshooting
@@ -69,7 +71,7 @@ Losing your tabs after a Chrome crash is frustrating, but it does not have to be
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Focus Music Playlists Extensions](/articles/chrome-for-focus-music-playlists-extensions/)
+* [Chrome for Citation Manager Extensions](/articles/chrome-for-citation-manager-extensions/)
+* [Chrome Push Notifications Web Apps: Complete Guide](/articles/chrome-push-notifications-web-apps/)
 
-- [chrome for recipe browsing without ads](/articles/chrome-for-recipe-browsing-without-ads)
-- [Chrome Console Commands: Useful Tricks Every User Should Know](/articles/chrome-console-commands-useful-tricks)
-- [chrome for audible web player tips](/articles/chrome-for-audible-web-player-tips)

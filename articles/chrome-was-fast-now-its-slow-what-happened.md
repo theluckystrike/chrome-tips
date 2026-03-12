@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Was Fast, Now It's Slow - What Happened?"
-description: "Is Chrome running slow on your computer? Discover why Chrome became slow and learn practical solutions to speed it up again, even on limited RAM devices."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-was-fast-now-its-slow-what-happened"
-categories: "[chrome, performance, troubleshooting]"
-tags: "[chrome-slow, chrome-performance, chrome-memory, fix-chrome-slow]"
-author: "theluckystrike"
+layout: post
+title: Chrome Was Fast, Now It's Slow - What Happened?
+description: Is Chrome running slow on your computer? Discover why Chrome became slow
+  and learn practical solutions to speed it up again, even on limited RAM devices.
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-was-fast-now-its-slow-what-happened
+categories: '[chrome, performance, troubleshooting]'
+tags: '[chrome-slow, chrome-performance, chrome-memory, fix-chrome-slow]'
+author: theluckystrike
 ---
 # Chrome Was Fast, Now It's Slow - What Happened?
 
@@ -72,10 +73,9 @@ Start with the quick fixes, enable the built-in performance features, and consid
 ---
 
 ## Related Articles
-- [Chrome Web Vitals What They Mean](/chrome-web-vitals-what-they-mean)
-- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
-
+* [Chrome Shared Storage API Explained](/articles/chrome-shared-storage-api-explained/)
+* [Chrome Extensions Causing Lag: Which One Is Slowing You Down?](/articles/chrome-extensions-causing-lag-which-one/)
+* [Chrome Has Selector Explained](/articles/chrome-has-selector-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "How to Use Chrome Translate Page"
-description: "Learn how to use Chrome's built-in translation feature to read any webpage in your language. Easy steps for automatic and manual translation. Read our compre..."
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-translate-page-how-to-use"
-categories: "[features, getting-started]"
-tags: "[chrome-translate, translation, language, how-to]"
-author: "theluckystrike"
+layout: post
+title: How to Use Chrome Translate Page
+description: Learn how to use Chrome's built-in translation feature to read any webpage
+  in your language. Easy steps for automatic and manual translation. Read our compre...
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-translate-page-how-to-use
+categories: '[features, getting-started]'
+tags: '[chrome-translate, translation, language, how-to]'
+author: theluckystrike
 ---
 # How to Use Chrome Translate Page
 
@@ -78,10 +79,9 @@ Some extensions might interfere with translation. If translation suddenly stops 
 ---
 
 ## Related Articles
-- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)
-
+* [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use/)
+* [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/articles/chrome-whatsapp-web-not-connecting-fix/)
+* [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/articles/chrome-smooth-scrolling-enable/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

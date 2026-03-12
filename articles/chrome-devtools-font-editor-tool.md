@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome Devtools Font Editor Tool"
-description: "Learn how to use Chrome DevTools font editor tool to customize and preview fonts on any website directly in your browser. Explore our comprehensive guide to..."
+title: Chrome Devtools Font Editor Tool
+description: Learn how to use Chrome DevTools font editor tool to customize and preview
+  fonts on any website directly in your browser. Explore our comprehensive guide to...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-font-editor-tool
@@ -73,7 +74,7 @@ The chrome devtools font editor tool is a powerful feature that many users do no
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Best Chrome Extensions for Project Managers](/articles/best-chrome-extensions-for-project-managers/)
+* [Chrome Extensions Keep Disabling Themselves Fix](/articles/chrome-extensions-keep-disabling-themselves-fix/)
+* [Chrome ERR_CONNECTION_REFUSED Fix](/articles/chrome-err-connection-refused-fix/)
 
-- [Chrome Browser Games Performance Tips](/articles/chrome-browser-games-performance-tips)
-- [Chrome Tab Organize AI Feature Explained](/articles/chrome-tab-organize-ai-feature-explained)
-- [Chrome for Password Security Best Practices](/articles/chrome-for-password-security-best-practices)

@@ -1,13 +1,25 @@
 ---
-layout: "post"
-title: "Chrome Location Access on Phone How to Control"
-description: "Learn how to control location permissions in Chrome on your phone. Manage which sites can access your location easily. Check out our expert recommendations and"
-date: "2026-01-20"
-last_modified_at: "2026-03-10"
-permalink: "chrome-location-access-on-phone-how-to-control"
-categories: [privacy, browser, mobile, settings]
-tags: [chrome, location, permissions, privacy, phone, mobile]
-author: "theluckystrike"
+layout: post
+title: Chrome Location Access on Phone How to Control
+description: Learn how to control location permissions in Chrome on your phone. Manage
+  which sites can access your location easily. Check out our expert recommendations
+  and
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
+permalink: chrome-location-access-on-phone-how-to-control
+categories:
+- privacy
+- browser
+- mobile
+- settings
+tags:
+- chrome
+- location
+- permissions
+- privacy
+- phone
+- mobile
+author: theluckystrike
 ---
 # Chrome Location Access on Phone How to Control
 
@@ -71,7 +83,7 @@ Now you have a clear understanding of how to control Chrome location access on y
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [chrome site notifications stop all](/articles/chrome-site-notifications-stop-all/)
+* [Chrome Address Bar Not Showing Fix](/articles/chrome-address-bar-not-showing-fix/)
+* [chrome custom theme how to make your own](/articles//chrome-custom-theme-how-to-make-your-own//)
 
-- [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix)
-- [chrome vs firefox for privacy 2026](/articles/chrome-vs-firefox-for-privacy-2026)
-- [Chrome Text to Speech: Complete Guide for 2026](/articles/chrome-text-to-speech)

@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Add Chrome Shortcut to Desktop"
-description: "Learn how to add a Chrome shortcut to your desktop in simple steps for quick access to your browser. Read our comprehensive guide to learn more and optimize ..."
-date: "2026-01-20"
-last_modified_at: "2026-03-10"
-permalink: "how-to-add-chrome-shortcut-to-desktop"
-categories: "[tips, chrome]"
-tags: "[chrome, shortcuts, desktop, browser]"
-author: "theluckystrike"
+layout: post
+title: How to Add Chrome Shortcut to Desktop
+description: Learn how to add a Chrome shortcut to your desktop in simple steps for
+  quick access to your browser. Read our comprehensive guide to learn more and optimize
+  ...
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
+permalink: how-to-add-chrome-shortcut-to-desktop
+categories: '[tips, chrome]'
+tags: '[chrome, shortcuts, desktop, browser]'
+author: theluckystrike
 ---
 # How to Add Chrome Shortcut to Desktop
 
@@ -64,7 +66,7 @@ Having Chrome just a double-click away on your desktop is one of those small con
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing/)
+* [Chrome Webstore Best Hidden Gems 2026](/articles/chrome-webstore-best-hidden-gems-2026/)
+* [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow/)
 
-- [chrome offline first app design explained](/articles/chrome-offline-first-app-design-explained)
-- [Chrome Gesture Navigation Complete Guide](/articles/chrome-gesture-navigation)
-- [chrome pwa storage quota how much space](/articles/chrome-pwa-storage-quota-how-much-space)

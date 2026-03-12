@@ -99,7 +99,7 @@ If you find that managing many Chrome tabs is slowing down your browser and affe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Session Restore Not Working Fix](/articles/chrome-session-restore-not-working-fix/)
+* [Best Chrome Extensions for Social Media](/articles/best-chrome-extensions-for-social-media/)
+* [chrome for gmail productivity extensions](/articles/chrome-for-gmail-productivity-extensions/)
 
-- [chrome google docs keyboard shortcuts](/articles/chrome-google-docs-keyboard-shortcuts)
-- [Best Chrome Extensions for Netflix](/articles/best-chrome-extensions-for-netflix)
-- [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api)

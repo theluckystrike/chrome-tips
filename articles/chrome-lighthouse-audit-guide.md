@@ -1,13 +1,24 @@
 ---
-layout: "default"
-title: "Chrome Lighthouse Audit Complete Guide"
-description: "Master Chrome Lighthouse audits with this comprehensive guide covering performance scores, accessibility, SEO, and PWA validation for faster, more accessible..."
-date: "2026-01-20"
-last_modified_at: "2026-03-10"
-permalink: "chrome-lighthouse-audit-guide"
-categories: [web-development, performance, chrome]
-tags: [lighthouse, chrome-devtools, performance, accessibility, seo, pwa, web-audit]
-author: "theluckystrike"
+layout: default
+title: Chrome Lighthouse Audit Complete Guide
+description: Master Chrome Lighthouse audits with this comprehensive guide covering
+  performance scores, accessibility, SEO, and PWA validation for faster, more accessible...
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
+permalink: chrome-lighthouse-audit-guide
+categories:
+- web-development
+- performance
+- chrome
+tags:
+- lighthouse
+- chrome-devtools
+- performance
+- accessibility
+- seo
+- pwa
+- web-audit
+author: theluckystrike
 ---
 # Chrome Lighthouse Audit Complete Guide
 
@@ -88,10 +99,9 @@ It is also important to prioritize based on your specific goals. If you are prim
 ---
 
 ## Related Articles
-- [Chrome Lighthouse Audit for Website Speed: Complete Guide](/chrome-lighthouse-audit-website-speed)
-- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative)
-- [Chrome WebRTC Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
-
+* [Chrome Live Captions Feature Guide](/articles/chrome-live-captions-feature/)
+* [Chrome Slow After Hibernation Fix](/articles/chrome-slow-after-hibernation-fix/)
+* [Chrome Memory Saver Mode How to Use](/articles/chrome-memory-saver-mode-how-to-use/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

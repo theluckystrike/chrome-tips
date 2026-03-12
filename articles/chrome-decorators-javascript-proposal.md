@@ -72,10 +72,9 @@ Remember that while decorators are powerful, they are not always the right solut
 ---
 
 ## Related Articles
-- [Chrome Disable Javascript For Testing](/chrome-disable-javascript-for-testing)
-- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-
+* [Chrome Extension for Video Downloading: What is Legal](/articles/chrome-extension-for-video-downloading-legal/)
+* [Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps](/articles/chrome-slow-on-4gb-ram-laptop/)
+* [Chrome Android Slow Fix 2026](/articles/chrome-android-slow-fix-2026/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

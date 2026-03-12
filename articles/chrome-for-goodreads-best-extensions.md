@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Goodreads Best Extensions
-description: 'Find the best Chrome extensions for Goodreads to enhance your reading tracking, discover new books, and manage your library effortlessly. Discover more tips '
+description: 'Find the best Chrome extensions for Goodreads to enhance your reading
+  tracking, discover new books, and manage your library effortlessly. Discover more
+  tips '
 date: 2026-03-10
 categories:
 - goodreads
@@ -75,7 +77,7 @@ The right set of Chrome extensions can turn Goodreads into an even more powerful
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for HubSpot CRM in Browser](/articles/chrome-for-hubspot-crm-in-browser/)
+* [Chrome Group Policy Settings Explained](/articles/chrome-group-policy-settings-explained/)
+* [Chrome Iterator Helpers Explained](/articles/chrome-iterator-helpers-explained/)
 
-- [Chrome Mouse Scroll Not Working Fix](/articles/chrome-mouse-scroll-not-working-fix)
-- [Chrome Geolocation Override How to Test](/articles/chrome-geolocation-override-how-to-test)
-- [Chrome Speech Recognition API Guide](/articles/chrome-speech-recognition-api)

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome for crypto portfolio tracking web
-description: Learn how to use chrome for crypto portfolio tracking web. Discover extensions and tools to monitor your investments efficiently. Find out more tips on how t...
+description: Learn how to use chrome for crypto portfolio tracking web. Discover extensions
+  and tools to monitor your investments efficiently. Find out more tips on how t...
 date: 2026-01-15
 categories:
 - extensions
@@ -78,7 +79,7 @@ This is where Tab Suspender Pro can really help. By automatically suspending tab
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome webgpu gaming in browser future](/articles/chrome-webgpu-gaming-in-browser-future/)
+* [Chrome Two Factor Authentication Setup](/articles/chrome-two-factor-authentication-setup/)
+* [Chrome Geolocation Permission Settings](/articles/chrome-geolocation-permission-settings/)
 
-- [chrome classroom integration tips for teachers](/articles/chrome-classroom-integration-tips-for-teachers)
-- [chrome web bluetooth connect headphones](/articles/chrome-web-bluetooth-connect-headphones)
-- [Chrome Subgrid CSS Explained](/articles/chrome-subgrid-css-explained)

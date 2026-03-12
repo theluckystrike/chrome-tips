@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Cold Email Outreach"
-description: "Discover how Chrome Extensions For Cold Email Outreach can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and setti..."
+title: Chrome Extensions For Cold Email Outreach
+description: Discover how Chrome Extensions For Cold Email Outreach can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
+  setti...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: /articles/chrome-extensions-for-cold-email-outreach/
@@ -90,7 +92,7 @@ The right combination of extensions can help you scale your cold email outreach 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/articles/chrome-incognito-mode-what-it-actually-does/)
+* [Chrome Wont Install on Mac Fix](/articles/chrome-wont-install-on-mac-fix/)
+* [Chrome Extension for Auto Fill Forms Faster](/articles/chrome-extension-for-auto-fill-forms-faster/)
 
-- [Chrome Extensions For Bulk Image Downloading](/articles//articles/chrome-extensions-for-bulk-image-downloading/)
-- [Chrome Sync Not Working Fix](/articles/chrome-sync-not-working-fix)
-- [Chrome Text Wrap Balance CSS](/articles/chrome-text-wrap-balance-css)

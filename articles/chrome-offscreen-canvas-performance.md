@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Offscreen Canvas Performance: A Complete Guide'
-description: Learn how Chrome's Offscreen Canvas API can dramatically improve performance for graphics-intensive web applications and background processing. Learn effecti...
+description: Learn how Chrome's Offscreen Canvas API can dramatically improve performance
+  for graphics-intensive web applications and background processing. Learn effecti...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-offscreen-canvas-performance
@@ -15,8 +16,6 @@ tags:
 - web-development
 - graphics
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-offscreen-canvas-performance
 ---
 # Chrome Offscreen Canvas Performance
 
@@ -83,10 +82,9 @@ Chrome Offscreen Canvas performance represents a significant advancement in web 
 The key is to understand when and how to use this feature effectively. Not every project needs Offscreen Canvas, but for graphics-intensive applications, it can be transformative. Start with a simple implementation, measure the performance gains, and scale up as needed.
 
 ## Related Articles
-- [Chrome Performance Observer API Explained](/chrome-performance-observer-api)
-- [Chrome Browser Games Performance Tips](/chrome-browser-games-performance-tips)
-- [Chrome Canvas Rendering Slow Fix: Practical Solutions for Limited RAM](/chrome-canvas-rendering-slow-fix)
-
+* [How to Sync Everything Between Your Phone and Laptop with Chrome](/articles/chrome-sync-everything-between-phone-and-laptop/)
+* [Chrome WebGL Not Working Fix](/articles/chrome-webgl-not-working-fix/)
+* [Chrome for Tab Organization Workflow](/articles/chrome-for-tab-organization-workflow/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

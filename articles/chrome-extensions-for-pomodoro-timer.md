@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Pomodoro Timer"
-description: "Find the best chrome extensions for pomodoro timer to boost focus, manage work sessions, and beat procrastination with proven time management. Check out our..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-pomodoro-timer"
-layout: "post"
-categories: "[productivity, tips]"
-tags: "[chrome-extensions, pomodoro, time-management, focus, productivity]"
-author: "theluckystrike"
+title: Chrome Extensions for Pomodoro Timer
+description: Find the best chrome extensions for pomodoro timer to boost focus, manage
+  work sessions, and beat procrastination with proven time management. Check out our...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-pomodoro-timer
+layout: post
+categories: '[productivity, tips]'
+tags: '[chrome-extensions, pomodoro, time-management, focus, productivity]'
+author: theluckystrike
 ---
 # Chrome Extensions for Pomodoro Timer
 
@@ -78,7 +79,7 @@ With the right chrome extensions for pomodoro timer, you have a powerful toolkit
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Limit Chrome Extension Permissions](/articles/how-to-limit-chrome-extension-permissions/)
+* [Chrome Android Tips To Save Data](/articles/chrome-android-tips-to-save-data/)
+* [Chrome Print to PDF How to Save Webpage](/articles/chrome-print-to-pdf-how-to-save-webpage/)
 
-- [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy)
-- [Chrome Extension for Spotify Lyrics](/articles/chrome-extension-for-spotify-lyrics)
-- [Best Chrome Extensions for Online Shopping](/articles/chrome-extensions-for-online-shopping)

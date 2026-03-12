@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Spotify Web Player Shortcuts
-description: Discover keyboard shortcuts for Spotify in Chrome. Control playback, skip tracks, and manage playlists faster. Discover more tips and tricks to optimize your
+description: Discover keyboard shortcuts for Spotify in Chrome. Control playback,
+  skip tracks, and manage playlists faster. Discover more tips and tricks to optimize
+  your
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-spotify-web-player-shortcuts
@@ -67,7 +69,7 @@ Try incorporating a few of these shortcuts into your routine at first, then grad
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/articles/chrome-ai-powered-history-search/)
+* [Chrome Local Storage View Edit: How to Inspect and Modify Website Data](/articles/chrome-local-storage-view-edit/)
+* [Best Chrome Extensions for Content Creators](/articles/best-chrome-extensions-for-content-creators/)
 
-- [Chrome Sync What Data Gets Synced](/articles/chrome-sync-what-data-gets-synced)
-- [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing)
-- [Chrome Extensions For Email Tracking Read Receipts](/articles//articles/chrome-extensions-for-email-tracking-read-receipts/)

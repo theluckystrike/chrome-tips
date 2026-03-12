@@ -87,7 +87,7 @@ For additional browser optimization, consider exploring extensions like Tab Susp
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome for Time Management Extensions](/articles/chrome-for-time-management-extensions/)
+* [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix/)
+* [Chrome Custom Search Engines How to Add](/articles//chrome-custom-search-engines-how-to-add//)
 
-- [Chrome for Dropshipping: Best Extensions](/articles/chrome-for-dropshipping-best-extensions)
-- [chrome experimental features list 2026](/articles/chrome-experimental-features-list-2026)
-- [chrome for coinbase web app tips](/articles/chrome-for-coinbase-web-app-tips)

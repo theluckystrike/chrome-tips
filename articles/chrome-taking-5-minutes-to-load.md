@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Taking 5 Minutes to Load: Fixes for Slow Computers"
-description: "Is Chrome taking 5 minutes to load? Learn practical solutions to speed up Chrome on slow computers with limited RAM. Get your browser running fast again."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-taking-5-minutes-to-load"
-categories: "[performance, troubleshooting]"
-tags: "[chrome-slow, chrome-loading, chrome-startup, chrome-memory, browser-performance]"
-author: "theluckystrike"
+layout: post
+title: 'Chrome Taking 5 Minutes to Load: Fixes for Slow Computers'
+description: Is Chrome taking 5 minutes to load? Learn practical solutions to speed
+  up Chrome on slow computers with limited RAM. Get your browser running fast again.
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-taking-5-minutes-to-load
+categories: '[performance, troubleshooting]'
+tags: '[chrome-slow, chrome-loading, chrome-startup, chrome-memory, browser-performance]'
+author: theluckystrike
 ---
 # Chrome Taking 5 Minutes to Load: Fixes for Slow Computers
 
@@ -93,10 +94,9 @@ Consider trying browsers designed for low-resource computers. They offer similar
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools/)
+* [Chrome Password Manager on Phone vs Dedicated App](/articles/chrome-password-manager-on-phone-vs-dedicated-app/)
+* [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization/)
 
-## Related Articles
-
-- [chrome themes how to change and customize](/articles/chrome-themes-how-to-change-and-customize)
-- [Chrome Performance Settings Explained 2026](/articles/chrome-performance-settings-explained-2026)
-- [chrome pi hole vs browser ad blocker comparison](/articles/chrome-pi-hole-vs-browser-ad-blocker-comparison)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

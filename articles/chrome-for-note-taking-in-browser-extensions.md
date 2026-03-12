@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Note Taking in Browser Extensions
-description: Discover how Chrome extensions can transform your browser into a powerful note-taking tool for capturing ideas anytime. Discover more tips and tricks to opti
+description: Discover how Chrome extensions can transform your browser into a powerful
+  note-taking tool for capturing ideas anytime. Discover more tips and tricks to opti
 date: 2026-01-15
 categories:
 - productivity
@@ -62,7 +63,7 @@ Give a note-taking extension a try if you have not already. You might find that 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/articles/chrome-smooth-scrolling-enable/)
+* [chrome webgpu gaming in browser future](/articles/chrome-webgpu-gaming-in-browser-future/)
+* [Chrome Update Made It Slower? Here's How to Fix It](/articles/chrome-update-made-it-slower-fix/)
 
-- [How to Delete Everything Chrome Knows About Me](/articles/how-to-delete-everything-chrome-knows-about-me)
-- [Chrome DevTools Protocol Monitor](/articles/chrome-protocol-monitor-guide)
-- [Chrome Web Push Notifications Setup Guide](/articles/chrome-web-push-notifications-setup-guide)

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Why Chrome Is Slow on Battery But Fast When Plugged In
-description: Understanding why Chrome runs slower on laptop battery and how to fix it. Tips to improve Chrome performance on battery power. Read our comprehensive guide to l
+description: Understanding why Chrome runs slower on laptop battery and how to fix
+  it. Tips to improve Chrome performance on battery power. Read our comprehensive
+  guide to l
 date: 2026-03-11
 categories:
 - chrome
@@ -89,10 +91,9 @@ Start by adjusting your power profile to a balanced setting, disabling unnecessa
 ---
 
 ## Related Articles
-- [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
-
+* [Chrome Extensions for iMacros Alternative](/articles/chrome-extensions-for-imacros-alternative/)
+* [How to Do a Reverse Image Search in Chrome Without an Extension](/articles/chrome-reverse-image-search-without-extension/)
+* [chrome for rumble web player settings](/articles/chrome-for-rumble-web-player-settings/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

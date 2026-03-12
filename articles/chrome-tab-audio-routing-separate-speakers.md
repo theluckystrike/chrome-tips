@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Route Chrome Tab Audio to Separate Speakers
-description: Learn how to send different Chrome tab audio to different speakers or headphones. Perfect for multitasking with music and video calls. Read our comprehensive gu
+description: Learn how to send different Chrome tab audio to different speakers or
+  headphones. Perfect for multitasking with music and video calls. Read our comprehensive
+  gu
 date: 2026-01-15
 categories:
 - chrome
@@ -140,10 +142,9 @@ Routing different Chrome tabs to separate speakers opens up powerful multitaskin
 Experiment with the extension options that work for your operating system, and don't forget that tools like Tab Suspender Pro can help keep your browser running smoothly while managing multiple audio-producing tabs.
 
 ## Related Articles
-- [Chrome Audio Equalizer Extension](/chrome-audio-equalizer-extension)
-- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
-- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
-
+* [Chrome Extensions for API Testing Simple](/articles/chrome-extensions-for-api-testing-simple/)
+* [Chrome Extensions for Social Media Scheduling](/articles/chrome-extensions-for-social-media-scheduling/)
+* [Chrome Data Usage On Phone How To Reduce](/articles//chrome-data-usage-on-phone-how-to-reduce//)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

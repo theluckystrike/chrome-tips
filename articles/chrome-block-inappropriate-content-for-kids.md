@@ -87,7 +87,7 @@ Remember that no filter is 100 percent effective. The best protection comes from
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [chrome extension rejected common reasons fix](/articles/chrome-extension-rejected-common-reasons-fix/)
+* [Chrome Most Visited Sites How to Remove](/articles/chrome-most-visited-sites-how-to-remove/)
+* [How to Limit Chrome Extension Permissions](/articles/how-to-limit-chrome-extension-permissions/)
 
-- [chrome upcoming features roadmap 2026](/articles/chrome-upcoming-features-roadmap-2026)
-- [How to Fix Chrome Search Bar Not Working](/articles/chrome-search-bar-not-working-fix)
-- [Chrome Extensions For Cashback Shopping](/articles//articles/chrome-extensions-for-cashback-shopping/)

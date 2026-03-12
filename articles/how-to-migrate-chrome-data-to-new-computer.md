@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "How to Migrate Chrome Data to a New Computer"
-description: "Moving to a new computer? Learn how to transfer your Chrome bookmarks, passwords, history, and settings seamlessly. Keep your browsing experience intact."
-date: "2026-03-12"
-last_modified_at: "2026-03-12"
-permalink: "how-to-migrate-chrome-data-to-new-computer"
-categories: "[chrome, data-migration, sync, backup]"
-tags: "[chrome-sync, data-transfer, browser-migration, bookmarks, passwords]"
-author: "theluckystrike"
+layout: post
+title: How to Migrate Chrome Data to a New Computer
+description: Moving to a new computer? Learn how to transfer your Chrome bookmarks,
+  passwords, history, and settings seamlessly. Keep your browsing experience intact.
+date: '2026-03-12'
+last_modified_at: '2026-03-12'
+permalink: how-to-migrate-chrome-data-to-new-computer
+categories: '[chrome, data-migration, sync, backup]'
+tags: '[chrome-sync, data-transfer, browser-migration, bookmarks, passwords]'
+author: theluckystrike
 ---
 # How to Migrate Chrome Data to a New Computer
 
@@ -232,7 +233,7 @@ The key is to make sure you're signed into the same Google account on both compu
 Remember to keep a manual backup of your bookmarks even when using sync, and you'll never have to worry about losing your Chrome data again.
 
 ## Related Articles
+* [Chrome Bookmark Bar Disappeared How to Get Back](/articles/chrome-bookmark-bar-disappeared-how-to-get-back/)
+* [Why Chrome Is Slow on Battery But Fast When Plugged In](/articles/chrome-slow-on-battery-but-fast-plugged-in/)
+* [Chrome PDF Settings Print to PDF How to](/articles/chrome-pdf-settings-print-to-pdf-how-to/)
 
-- [Chrome Extensions For Focus And Productivity](/articles//articles/chrome-extensions-for-focus-and-productivity/)
-- [chrome reading list vs bookmarks](/articles/chrome-reading-list-vs-bookmarks)
-- [Chrome for Replit in Browser Tips](/articles/chrome-for-replit-in-browser-tips)

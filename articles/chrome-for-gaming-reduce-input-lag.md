@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 'Chrome for Gaming: How to Reduce Input Lag'
-description: Learn how to reduce input lag in Chrome for gaming. Simple settings tweaks and tips for smoother browser gaming performance. Discover more tips and tricks to
+description: Learn how to reduce input lag in Chrome for gaming. Simple settings tweaks
+  and tips for smoother browser gaming performance. Discover more tips and tricks
+  to
 date: 2025-02-20
 categories:
 - performance
@@ -58,7 +60,7 @@ An outdated version of Chrome may have performance issues that contribute to inp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does/)
+* [Chrome Too Many Redirects Error Fix](/articles/chrome-too-many-redirects-error-fix/)
+* [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension/)
 
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/articles/chrome-extensions-folder-location-files)
-- [Chrome Text to Speech Built In Feature](/articles/chrome-text-to-speech-built-in-feature)
-- [How to Set Up Chrome Profiles for Work and Personal](/articles/how-to-set-up-chrome-profiles-for-work-and-personal)

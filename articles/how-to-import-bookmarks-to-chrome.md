@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Import Bookmarks to Chrome"
-description: "A step-by-step guide to importing your bookmarks into Chrome from any browser or HTML file. Read our comprehensive guide to learn more and optimize your brow..."
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "how-to-import-bookmarks-to-chrome"
-categories: "[tips, getting-started]"
-tags: "[bookmarks, chrome-tips, browser-setup]"
-author: "theluckystrike"
+layout: post
+title: How to Import Bookmarks to Chrome
+description: A step-by-step guide to importing your bookmarks into Chrome from any
+  browser or HTML file. Read our comprehensive guide to learn more and optimize your
+  brow...
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: how-to-import-bookmarks-to-chrome
+categories: '[tips, getting-started]'
+tags: '[bookmarks, chrome-tips, browser-setup]'
+author: theluckystrike
 ---
 # How to Import Bookmarks to Chrome
 
@@ -72,7 +74,7 @@ Having a recent backup means that if you ever need to switch browsers again or r
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome performance api for measuring speed](/articles/chrome-performance-api-for-measuring-speed/)
+* [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing/)
+* [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
 
-- [Chrome Zero Trust Security Model Explained](/articles/chrome-zero-trust-security-model-explained)
-- [How to Use Chrome Translate Page](/articles/chrome-translate-page-how-to-use)
-- [Chrome Extensions for Keyword Research](/articles/chrome-extensions-for-keyword-research)

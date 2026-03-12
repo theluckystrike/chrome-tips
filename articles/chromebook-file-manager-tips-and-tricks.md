@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "chromebook file manager tips and tricks"
-description: "Master your chromebook file manager with these simple tips and tricks Read our comprehensive guide to learn more and optimize your browser experience with th..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chromebook-file-manager-tips-and-tricks"
-categories: ""
-tags: ""
-author: "theluckystrike"
+layout: post
+title: chromebook file manager tips and tricks
+description: Master your chromebook file manager with these simple tips and tricks
+  Read our comprehensive guide to learn more and optimize your browser experience
+  with th...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chromebook-file-manager-tips-and-tricks
+categories: ''
+tags: ''
+author: theluckystrike
 ---
 # Chromebook File Manager Tips and Tricks
 
@@ -74,7 +76,7 @@ You can also enhance your browsing experience while managing files. Extensions l
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Microphone Permission for One Site How to Set](/articles/chrome-microphone-permission-for-one-site-how-to-set/)
+* [chrome experimental features worth trying 2026](/articles/chrome-experimental-features-worth-trying-2026/)
+* [Why Does Opening Chrome Slow Down Everything](/articles/why-does-opening-chrome-slow-down-everything/)
 
-- [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup)
-- [Chrome Autocomplete Wrong Suggestions How to Fix](/articles/chrome-autocomplete-wrong-suggestions-how-to-fix)
-- [Chrome QR Code Generator Extension](/articles/chrome-qr-code-generator-extension)

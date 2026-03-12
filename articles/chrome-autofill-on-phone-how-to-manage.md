@@ -85,7 +85,7 @@ Using a combination of good autofill habits and productivity tools creates a bet
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Virtual Keyboard API for Mobile - Complete Guide](/articles/chrome-virtual-keyboard-api-mobile/)
+* [Chrome Extensions for Notion](/articles/chrome-extensions-for-notion/)
+* [Chrome Extension for Email Tracking Notification](/articles/chrome-extension-for-email-tracking-notification/)
 
-- [Chrome for Adobe Creative Cloud Web Tips](/articles/chrome-for-adobe-creative-cloud-web-tips)
-- [Best Privacy Chrome Extensions 2026](/articles/best-privacy-chrome-extensions-2026)
-- [Chrome Touchpad Gestures Not Working Fix](/articles/chrome-touchpad-gestures-not-working-fix)

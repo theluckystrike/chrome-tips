@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Blue Light Filter Extensions
-description: Discover Chrome extensions for filtering blue light and protecting your eyes during nighttime browsing sessions. Find out more tips on how to optimize your C...
+description: Discover Chrome extensions for filtering blue light and protecting your
+  eyes during nighttime browsing sessions. Find out more tips on how to optimize your
+  C...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-blue-light-filter-extensions
@@ -69,7 +71,7 @@ Protecting your eyes from blue light does not mean you have to stop using your c
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension/)
+* [chrome color picker extension best](/articles/chrome-color-picker-extension-best/)
+* [Chrome Camera Not Working Fix](/articles/chrome-camera-not-working-fix/)
 
-- [Chrome Enterprise Features for Business: A Complete Guide](/articles/chrome-enterprise-features-for-business)
-- [how to use chrome password checkup feature](/articles/how-to-use-chrome-password-checkup-feature)
-- [Chrome Extensions for HTTP Header Viewer](/articles/chrome-extensions-for-http-header-viewer)

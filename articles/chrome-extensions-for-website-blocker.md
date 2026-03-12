@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Website Blocker"
-description: "Discover the best Chrome extensions for website blocker tools to help you focus, protect your family, and manage distractions. Read our comprehensive guide t..."
+title: Chrome Extensions for Website Blocker
+description: Discover the best Chrome extensions for website blocker tools to help
+  you focus, protect your family, and manage distractions. Read our comprehensive
+  guide t...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-website-blocker
-categories: [productivity]
-tags: [website-blocking, chrome-extensions, focus, parental-controls]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-website-blocker
+categories:
+- productivity
+tags:
+- website-blocking
+- chrome-extensions
+- focus
+- parental-controls
+author: theluckystrike
 ---
 # Chrome Extensions for Website Blocker
 
@@ -98,7 +103,7 @@ Start by understanding your specific needs, choose an extension that addresses t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/articles/chrome-slows-down-after-opening-20-tabs/)
+* [Chrome vs Safari on Mac — Which Uses Less Battery?](/articles/chrome-vs-safari-on-mac-battery/)
+* [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure/)
 
-- [How to Change Chrome Language Settings](/articles/how-to-change-chrome-language-settings)
-- [firefox vs chrome battery](/articles/firefox-vs-chrome-battery)
-- [Chrome Gmail Keyboard Shortcuts](/articles/chrome-gmail-keyboard-shortcuts)

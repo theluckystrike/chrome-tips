@@ -1,10 +1,12 @@
 ---
-title: "Chrome Extension for QR Code Generator"
-description: "Discover how to use Chrome extensions for QR code creation. Learn what Check out our expert recommendations and step-by-step instructions to get the most out of"
-date: "2026-03-09"
-last_modified_at: "2026-03-11"
-permalink: "chrome-extension-for-qr-code-generator"
-layout: "post"
+title: Chrome Extension for QR Code Generator
+description: Discover how to use Chrome extensions for QR code creation. Learn what
+  Check out our expert recommendations and step-by-step instructions to get the most
+  out of
+date: '2026-03-09'
+last_modified_at: '2026-03-11'
+permalink: chrome-extension-for-qr-code-generator
+layout: post
 ---
 Chrome extension for QR code generator is something many people search for when they need an easy way to create QR codes without leaving their browser. Whether you want to share a website link, send contact details, or encode a WiFi password, a good QR code generator extension makes the process simple and fast. Let me explain how these extensions work and what you should consider when choosing one.
 
@@ -75,10 +77,9 @@ A Chrome extension for QR code generator can be a valuable tool whether you need
 When choosing an extension, focus on ease of use, reliability, and the specific features you need. Test your QR codes before distributing them, and keep customization reasonable to ensure scannability. With the right extension and a bit of attention to design, you can create QR codes that work well across all scanning devices.
 
 ## Related Articles
-- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
-- [Chrome QR Code Generator Extension](/chrome-qr-code-generator-extension)
-- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
-
+* [Chrome Cycle Through Tabs Shortcut](/articles//chrome-cycle-through-tabs-shortcut//)
+* [Chrome for Spotify Web Player Shortcuts](/articles/chrome-for-spotify-web-player-shortcuts/)
+* [Chrome Site Settings Permissions Explained](/articles/chrome-site-settings-permissions-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

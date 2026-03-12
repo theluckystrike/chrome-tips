@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Text to Speech: Complete Guide for 2026"
-description: "Learn how to use Chrome text to speech features, the best extensions, and how to make your browser read content aloud. Read our comprehensive guide to learn ..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-text-to-speech"
-categories: "[tutorials, accessibility, extensions]"
-tags: "[chrome, text-to-speech, tts, accessibility, browser]"
-author: "theluckystrike"
+layout: post
+title: 'Chrome Text to Speech: Complete Guide for 2026'
+description: Learn how to use Chrome text to speech features, the best extensions,
+  and how to make your browser read content aloud. Read our comprehensive guide to
+  learn ...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-text-to-speech
+categories: '[tutorials, accessibility, extensions]'
+tags: '[chrome, text-to-speech, tts, accessibility, browser]'
+author: theluckystrike
 ---
 # Chrome Text to Speech: Complete Guide for 2026
 
@@ -76,10 +78,9 @@ The future looks bright for chrome text to speech technology. Advances in artifi
 Chrome continues to integrate these improvements directly into the browser, making it easier for developers to implement text to speech in their applications and for users to access these capabilities without additional software. Whether you're using chrome text to speech for accessibility, productivity, or convenience, the technology is more accessible and capable than ever before.
 
 ## Related Articles
-- [Chrome Text Size How to Increase Permanently](/chrome-text-size-how-to-increase-permanently)
-- [Chrome Text to Speech Built In Feature](/chrome-text-to-speech-built-in-feature)
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
-
+* [chrome for vimeo web upload tips](/articles/chrome-for-vimeo-web-upload-tips/)
+* [chrome for asana web app tips](/articles/chrome-for-asana-web-app-tips/)
+* [chrome payment methods remove](/articles/chrome-payment-methods-remove/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

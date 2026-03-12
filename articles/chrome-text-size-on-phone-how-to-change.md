@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "Chrome Text Size on Phone How to Change"
-description: "Learn how to change text size in Chrome on your phone with simple settings and tips for comfortable reading. Read our comprehensive guide to learn more and o..."
-date: "2026-01-01"
-last_modified_at: "2026-03-10"
-permalink: "chrome-text-size-on-phone-how-to-change"
+layout: post
+title: Chrome Text Size on Phone How to Change
+description: Learn how to change text size in Chrome on your phone with simple settings
+  and tips for comfortable reading. Read our comprehensive guide to learn more and
+  o...
+date: '2026-01-01'
+last_modified_at: '2026-03-10'
+permalink: chrome-text-size-on-phone-how-to-change
 ---
 Chrome text size on phone how to change is something many people search for when they find themselves squinting at their screen. Whether you are reading articles, browsing social media, or checking emails, having comfortable text size makes a big difference in your browsing experience. The good news is that Chrome on your phone gives you several ways to adjust text size, and I will walk you through each one.
 
@@ -87,7 +89,7 @@ Remember that you can combine methods. Using system text size as a baseline and 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Language Learning Extensions](/articles/chrome-for-language-learning-extensions/)
+* [Chrome Incognito Mode: Actually Private or Just a False Sense of Security?](/articles/chrome-incognito-mode-actually-private-or-not/)
+* [chrome source maps debug minified code](/articles/chrome-source-maps-debug-minified-code/)
 
-- [chrome for podcast web players best setup](/articles/chrome-for-podcast-web-players-best-setup)
-- [Chrome Extensions For Code Snippet Manager](/articles//articles/chrome-extensions-for-code-snippet-manager/)
-- [chrome deceptive site ahead warning fix](/articles//chrome-deceptive-site-ahead-warning-fix/)

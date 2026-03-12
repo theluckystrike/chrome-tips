@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Lofi Music Extensions
-description: 'Find the best chrome for lofi music extensions to create your perfect study or work atmosphere with ambient beats. Discover more tips and tricks to optimize '
+description: 'Find the best chrome for lofi music extensions to create your perfect
+  study or work atmosphere with ambient beats. Discover more tips and tricks to optimize '
 date: 2026-03-10
 categories:
 - productivity
@@ -82,7 +83,7 @@ Your digital workspace should support your goals, and adding the right music ext
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extension Conflict: Identifying and Fixing Crashes](/articles/chrome-extension-conflict-causing-crashes/)
+* [Chrome Forced Extensions by Admin What It Means](/articles/chrome-forced-extensions-by-admin-what-it-means/)
+* [chrome for protonmail in chrome setup](/articles/chrome-for-protonmail-in-chrome-setup/)
 
-- [Chrome DevTools Performance Panel Explained](/articles/chrome-devtools-performance-panel-explained)
-- [Chrome for Roam Research Web Tips](/articles/chrome-for-roam-research-web-tips)
-- [Chrome Split Screen Two Tabs Side by Side](/articles/chrome-split-screen-two-tabs-side-by-side)

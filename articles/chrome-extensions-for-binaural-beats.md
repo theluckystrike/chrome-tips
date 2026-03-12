@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Binaural Beats"
-description: "Find the best chrome extensions for binaural beats to boost focus, reduce stress, and improve sleep directly in your browser. Discover how these tools can si..."
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-binaural-beats"
-layout: "post"
-categories: "[productivity, wellness]"
-tags: "[chrome-extensions, binaural-beats, focus, relaxation, meditation]"
-author: "theluckystrike"
+title: Chrome Extensions for Binaural Beats
+description: Find the best chrome extensions for binaural beats to boost focus, reduce
+  stress, and improve sleep directly in your browser. Discover how these tools can
+  si...
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-binaural-beats
+layout: post
+categories: '[productivity, wellness]'
+tags: '[chrome-extensions, binaural-beats, focus, relaxation, meditation]'
+author: theluckystrike
 ---
 # Chrome Extensions for Binaural Beats
 
@@ -56,10 +58,9 @@ Be patient with yourself as you develop this new habit. Like any skill, using bi
 ---
 
 ## Related Articles
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-
+* [Chrome Browser Games Performance Tips](/articles/chrome-browser-games-performance-tips/)
+* [How to Update Chrome on Android](/articles/how-to-update-chrome-on-android/)
+* [Chrome Slow After Update Fix: Complete Troubleshooting Guide](/articles/chrome-slow-after-update-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

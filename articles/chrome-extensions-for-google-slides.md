@@ -1,10 +1,11 @@
 ---
-title: "Chrome Extensions for Google Slides"
-description: "Discover Chrome extensions for Google Slides that solve common presentation problems and boost your productivity. Check out our expert recommendations and..."
-date: "2026-01-01"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-google-slides"
-layout: "post"
+title: Chrome Extensions for Google Slides
+description: Discover Chrome extensions for Google Slides that solve common presentation
+  problems and boost your productivity. Check out our expert recommendations and...
+date: '2026-01-01'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-google-slides
+layout: post
 ---
 Chrome extensions for Google Slides can make a real difference when you are building presentations. If you find yourself juggling too many tabs, waiting for your browser to catch up, or spending too much time on repetitive tasks, the right extension can help. Let me walk you through the most common problems people face and what you can do about them.
 
@@ -55,7 +56,7 @@ Take some time to think about where you are spending the most effort. Is it find
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome ERR_CONNECTION_REFUSED Fix](/articles/chrome-err-connection-refused-fix/)
+* [How to Restore Closed Tabs in Chrome](/articles/chrome-restore-closed-tabs-guide/)
+* [Chrome Media Autoplay How to Block](/articles/chrome-media-autoplay-how-to-block/)
 
-- [Chrome Service Worker Caching Strategies](/articles/chrome-service-worker-caching-strategies)
-- [Chrome Split Screen Without Extension](/articles/chrome-split-screen-without-extension)
-- [Chrome Large Font Easy to Read Setup](/articles/chrome-large-font-easy-to-read-setup)

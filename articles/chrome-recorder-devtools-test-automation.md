@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Recorder and DevTools: A Guide to Test Automation'
-description: Learn how to use Chrome Recorder and DevTools for powerful test automation without writing complex code. Learn effective tips and tricks to optimize your Chr...
+description: Learn how to use Chrome Recorder and DevTools for powerful test automation
+  without writing complex code. Learn effective tips and tricks to optimize your Chr...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-recorder-devtools-test-automation
@@ -15,8 +16,6 @@ tags:
 - test-automation
 - browser-testing
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-recorder-devtools-test-automation
 ---
 # Chrome Recorder and DevTools: A Guide to Test Automation
 
@@ -106,10 +105,9 @@ Chrome Recorder and DevTools make test automation accessible to everyone, from d
 Whether you are testing a simple contact form or a complex checkout flow, these tools can dramatically reduce manual testing effort and give you confidence in your application's functionality. Start small, record a few key user journeys, and gradually build out your test suite. The time you invest now will pay off with every automated test run.
 
 ## Related Articles
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
-- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
-
+* [Chrome Periodic Background Sync Explained](/articles/chrome-periodic-background-sync-explained/)
+* [Chrome Extensions For Duplicate Tab Finder](/articles//articles/chrome-extensions-for-duplicate-tab-finder//)
+* [Chromebook vs Windows Laptop for Browsing](/articles/chromebook-vs-windows-laptop-for-browsing/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

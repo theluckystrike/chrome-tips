@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome multiprocess architecture explained
-description: Learn how Chrome's multiprocess architecture works, why it uses multiple processes, and how it improves stability, security, and performance in your browsing...
+description: Learn how Chrome's multiprocess architecture works, why it uses multiple
+  processes, and how it improves stability, security, and performance in your browsing...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-multiprocess-architecture-explained
@@ -19,8 +20,6 @@ tags:
 - stability
 - security
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-multiprocess-architecture-explained
 ---
 # Chrome Multiprocess Architecture Explained
 
@@ -77,10 +76,9 @@ Understanding how this architecture works helps you make informed decisions abou
 ---
 
 ## Related Articles
-- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)
-
+* [Chrome Extensions for YouTube Productivity](/articles/chrome-extensions-for-youtube-productivity/)
+* [How to Use Chrome for Multiple Work Accounts](/articles/how-to-use-chrome-for-multiple-work-accounts/)
+* [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

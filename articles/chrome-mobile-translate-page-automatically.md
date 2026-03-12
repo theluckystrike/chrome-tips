@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome mobile translate page automatically
-description: Learn how to automatically translate web pages in Chrome on your mobile device with these simple methods and tips. Learn effective tips and tricks to optimiz...
+description: Learn how to automatically translate web pages in Chrome on your mobile
+  device with these simple methods and tips. Learn effective tips and tricks to optimiz...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-mobile-translate-page-automatically
@@ -67,7 +68,7 @@ Another common issue involves pages that use dynamic content or single-page appl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Gmail Keyboard Shortcuts](/articles/chrome-gmail-keyboard-shortcuts/)
+* [Chrome for Language Translation Extensions Comparison](/articles/chrome-for-language-translation-extensions-comparison/)
+* [Chrome Extension for QR Code Generator](/articles/chrome-extension-for-qr-code-generator/)
 
-- [chrome offline pages on phone how to save](/articles/chrome-offline-pages-on-phone-how-to-save)
-- [chrome for github best extensions](/articles/chrome-for-github-best-extensions)
-- [Chrome Extensions for Quick Notes Sidebar](/articles/chrome-extensions-for-quick-notes-sidebar)

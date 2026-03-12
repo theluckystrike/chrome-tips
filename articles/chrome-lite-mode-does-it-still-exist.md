@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "Chrome Lite Mode Does It Still Exist"
-description: "Wondering if Chrome Lite Mode still exists? We explain what happened to this feature and provide practical solutions for faster browsing on slow computers."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-lite-mode-does-it-still-exist"
-categories: [troubleshooting, browser-tips]
-tags: [chrome-lite-mode, chrome-data-saver, browser-performance, chrome-tips]
-author: "theluckystrike"
+layout: post
+title: Chrome Lite Mode Does It Still Exist
+description: Wondering if Chrome Lite Mode still exists? We explain what happened
+  to this feature and provide practical solutions for faster browsing on slow computers.
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-lite-mode-does-it-still-exist
+categories:
+- troubleshooting
+- browser-tips
+tags:
+- chrome-lite-mode
+- chrome-data-saver
+- browser-performance
+- chrome-tips
+author: theluckystrike
 ---
 # Chrome Lite Mode Does It Still Exist
 
@@ -130,10 +137,9 @@ While "chrome lite mode does it still exist" is a question with a disappointing 
 Try implementing these changes one at a time to see what works best for your specific situation. If your computer still feels slow after trying these tips, consider upgrading your RAM or switching to a lighter browser designed for older hardware.
 
 ## Related Articles
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
-- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
-- [Chrome Data Saver Mode Is It Still Available](/chrome-data-saver-mode-is-it-still-available)
-
+* [Chrome QR Code Generator Extension](/articles/chrome-qr-code-generator-extension/)
+* [Chrome for FreeCodeCamp Best Extensions](/articles/chrome-for-freecodecamp-best-extensions/)
+* [chrome extensions for wireframe design](/articles/chrome-extensions-for-wireframe-design/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

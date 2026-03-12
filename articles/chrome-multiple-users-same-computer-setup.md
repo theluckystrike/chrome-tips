@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Multiple Users Same Computer Setup
-description: Learn how to set up Chrome for multiple users on one computer with separate profiles, bookmarks, and personalized settings. Learn effective tips and tricks t...
+description: Learn how to set up Chrome for multiple users on one computer with separate
+  profiles, bookmarks, and personalized settings. Learn effective tips and tricks
+  t...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-multiple-users-same-computer-setup
@@ -75,7 +77,7 @@ Give it a try if you have not already. Once everyone has their own profile, you 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome vs Samsung Internet on Android](/articles/chrome-vs-samsung-internet-on-android/)
+* [Chrome Extensions for Productivity Students](/articles/chrome-extensions-for-productivity-students/)
+* [Chrome Copy Paste Not Working Fix](/articles/chrome-copy-paste-not-working-fix/)
 
-- [Chrome Extensions for Research Papers](/articles/chrome-extensions-for-research-papers)
-- [Chrome Regex Lookbehind Support: What You Need to Know](/articles/chrome-regex-lookbehind-support)
-- [Chrome Web USB API Guide](/articles/chrome-web-usb-api-guide)

@@ -1,13 +1,19 @@
 ---
-layout: "post"
-title: "How to Increase Chrome Cache Size"
-description: "Learn how to increase Chrome cache size to speed up browsing. Simple steps to manage cache settings and improve performance. Check out our expert guide for step"
-date: "2025-02-19"
-last_modified_at: '2026-03-12'
-permalink: "chrome-cache-size-how-to-increase"
-categories: [performance]
-tags: [chrome-cache, browser-optimization, storage]
-author: "theluckystrike"
+layout: post
+title: How to Increase Chrome Cache Size
+description: Learn how to increase Chrome cache size to speed up browsing. Simple
+  steps to manage cache settings and improve performance. Check out our expert guide
+  for step
+date: '2025-02-19'
+last_modified_at: '2026-03-10'
+permalink: chrome-cache-size-how-to-increase
+categories:
+- performance
+tags:
+- chrome-cache
+- browser-optimization
+- storage
+author: theluckystrike
 ---
 # How to Increase Chrome Cache Size
 
@@ -67,9 +73,8 @@ Pairing these adjustments with good tab management habits creates a better overa
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-
 ## Related Articles
+* [Computer Fan Goes Crazy When Chrome Opens - Fix It Fast](/articles/computer-fan-goes-crazy-when-chrome-opens/)
+* [Chrome Extensions for Hotel Deal Finder](/articles/chrome-extensions-for-hotel-deal-finder/)
+* [Chrome Extensions For Coupon Finder Automatic](/articles//articles/chrome-extensions-for-coupon-finder-automatic//)
 
-- [Chrome About Settings All Pages Explained](/articles/chrome-about-settings-all-pages-explained)
-- [Chrome Large Font Easy to Read Setup](/articles/chrome-large-font-easy-to-read-setup)
-- [Best Free Chrome Extensions 2026](/articles/best-free-chrome-extensions-2026)

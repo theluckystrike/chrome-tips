@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Canva Web App Optimization
-description: Learn how to optimize Chrome for running Canva smoothly. Practical tips to reduce lag and improve performance when using the Canva web app. Find out more tip...
+description: Learn how to optimize Chrome for running Canva smoothly. Practical tips
+  to reduce lag and improve performance when using the Canva web app. Find out more
+  tip...
 date: 2026-01-15
 categories:
 - performance
@@ -80,7 +82,7 @@ By implementing these practices, you can create a more efficient Chrome setup th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Energy Saver Mode What Does It Do](/articles/chrome-energy-saver-mode-what-does-it-do/)
+* [Chrome Private State Tokens Explained: What They Are and How They Work](/articles/chrome-private-state-tokens-explained/)
+* [Chrome for NFT Browsing Extensions](/articles/chrome-for-nft-browsing-extensions/)
 
-- [Chrome Compute Pressure API Explained: What It Means for Your Browser](/articles/chrome-compute-pressure-api-explained)
-- [Chrome for Facebook Best Extensions](/articles/chrome-for-facebook-best-extensions)
-- [Chrome Not Enough Memory Error](/articles/chrome-not-enough-memory-error)

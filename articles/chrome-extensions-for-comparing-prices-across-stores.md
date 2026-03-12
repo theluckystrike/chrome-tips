@@ -1,6 +1,7 @@
 ---
-title: "Chrome Extensions For Comparing Prices Across Stores"
-description: "Discover how Chrome Extensions For Comparing Prices Across Stores can transform your browsing. This comprehensive 2026 guide covers the best Chrome extension..."
+title: Chrome Extensions For Comparing Prices Across Stores
+description: Discover how Chrome Extensions For Comparing Prices Across Stores can
+  transform your browsing. This comprehensive 2026 guide covers the best Chrome extension...
 date: 2026-01-15
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-comparing-prices-across-stores/
@@ -76,7 +77,7 @@ Happy shopping, and enjoy the satisfaction of knowing you got a great price.
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Best Chrome Extensions for Nurses](/articles/best-chrome-extensions-for-nurses/)
+* [How to Delete Everything Chrome Knows About Me](/articles/how-to-delete-everything-chrome-knows-about-me/)
+* [Chrome Source Maps Explained Simply](/articles/chrome-source-maps-explained-simply/)
 
-- [Chrome Search Engine Keeps Changing to Yahoo Fix](/articles/chrome-search-engine-keeps-changing-to-yahoo-fix)
-- [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes)
-- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser)

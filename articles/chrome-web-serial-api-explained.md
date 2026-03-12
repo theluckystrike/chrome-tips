@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "chrome web serial api explained"
-description: "Learn what Chrome Web Serial API is and how it lets your browser communicate with serial devices like Arduino and microcontrollers directly. Read our compreh..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-web-serial-api-explained"
-categories: "[features, connectivity]"
-tags: "[web-serial, serial-api, chrome-features, hardware]"
-author: "theluckystrike"
+layout: post
+title: chrome web serial api explained
+description: Learn what Chrome Web Serial API is and how it lets your browser communicate
+  with serial devices like Arduino and microcontrollers directly. Read our compreh...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-web-serial-api-explained
+categories: '[features, connectivity]'
+tags: '[web-serial, serial-api, chrome-features, hardware]'
+author: theluckystrike
 ---
 # Chrome Web Serial API Explained
 
@@ -90,7 +91,7 @@ Give the Web Serial API a try with your compatible devices. You might find that 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Flags on Android Best to Enable](/articles/chrome-flags-on-android-best-to-enable/)
+* [Chrome Extensions for Musicians](/articles/chrome-extensions-for-musicians/)
+* [Chrome Bookmark Bar Disappeared How to Get Back](/articles/chrome-bookmark-bar-disappeared-how-to-get-back/)
 
-- [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord/)
-- [Chrome Extensions for Lorem Ipsum Generator](/articles/chrome-extensions-for-lorem-ipsum-generator)
-- [Chrome Crashing on Low Memory Computer](/articles/chrome-crashing-on-low-memory-computer)

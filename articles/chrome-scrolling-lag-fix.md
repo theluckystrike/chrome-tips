@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Scrolling Lag Fix
-description: Is your Chrome browser running slow when you scroll? Learn simple fixes to make scrolling smooth again. Read our comprehensive guide to learn more and improve y
+description: Is your Chrome browser running slow when you scroll? Learn simple fixes
+  to make scrolling smooth again. Read our comprehensive guide to learn more and improve
+  y
 date: 2026-03-10
 categories:
 - performance
@@ -72,7 +74,7 @@ Once you have fixed the scrolling lag, maintain the performance by auditing your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Text Size on Phone How to Change](/articles/chrome-text-size-on-phone-how-to-change/)
+* [Chrome AI Writing Help Feature](/articles/chrome-ai-writing-help-feature/)
+* [Chrome Saved Passwords How to View](/articles/chrome-saved-passwords-how-to-view/)
 
-- [Chrome Extensions For Email Templates](/articles//articles/chrome-extensions-for-email-templates/)
-- [Best Chrome Extensions for Online Shopping](/articles/chrome-extensions-for-online-shopping)
-- [Chrome Web Notifications Best Practices](/articles/chrome-web-notifications-best-practices)

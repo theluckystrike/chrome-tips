@@ -80,7 +80,7 @@ Dealing with chrome autofill wrong address can be frustrating, but it's usually 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Session Restore Not Working Fix](/articles/chrome-session-restore-not-working-fix/)
+* [Chrome Local Font Access API Explained](/articles/chrome-local-font-access-api-explained/)
+* [Chrome Cleanup Tool: Where Did It Go?](/articles/chrome-cleanup-tool-where-did-it-go/)
 
-- [chrome for apple notes in browser workaround](/articles/chrome-for-apple-notes-in-browser-workaround)
-- [Chrome Keeps Logging Me Out of Websites Fix](/articles/chrome-keeps-logging-me-out-of-websites-fix)
-- [Chrome Cross Origin Error: What It Means and How to Fix It](/articles/chrome-cross-origin-error-what-it-means)

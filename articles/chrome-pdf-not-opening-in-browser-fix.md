@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome PDF Not Opening in Browser Fix
-description: PDF files won't open in Chrome? Learn practical solutions to fix Chrome's PDF viewer, from simple settings changes to advanced troubleshooting steps. Learn e...
+description: PDF files won't open in Chrome? Learn practical solutions to fix Chrome's
+  PDF viewer, from simple settings changes to advanced troubleshooting steps. Learn
+  e...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-pdf-not-opening-in-browser-fix
@@ -15,8 +17,6 @@ tags:
 - browser-fix
 - chrome-settings
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-pdf-not-opening-in-browser-fix
 ---
 # Chrome PDF Not Opening in Browser Fix
 
@@ -116,10 +116,9 @@ In these cases, try downloading the PDF first (right-click and "Save link as") a
 ---
 
 ## Related Articles
-- [Chrome PDF Not Opening Fix](/chrome-pdf-not-opening-fix)
-- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
-
+* [Chrome Extensions for Keyword Research Free](/articles/chrome-extensions-for-keyword-research-free/)
+* [Chrome Extensions For Eye Strain Protection](/articles//articles/chrome-extensions-for-eye-strain-protection//)
+* [Chrome for Zoom Classes Optimization](/articles/chrome-for-zoom-classes-optimization/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

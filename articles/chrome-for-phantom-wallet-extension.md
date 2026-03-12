@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Phantom Wallet Extension
-description: Learn how to set up and use Phantom Wallet in Chrome with this simple extension guide for secure crypto management. Discover more tips and tricks to optimize
+description: Learn how to set up and use Phantom Wallet in Chrome with this simple
+  extension guide for secure crypto management. Discover more tips and tricks to optimize
 date: 2026-01-15
 categories:
 - extensions
@@ -86,7 +87,7 @@ Remember to keep your recovery phrase safe, review transaction requests carefull
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome for tiktok web best settings](/articles/chrome-for-tiktok-web-best-settings/)
+* [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use/)
+* [Chrome HTTPS Only Mode How to Enable](/articles/chrome-https-only-mode-how-to-enable/)
 
-- [How to Enable Chrome Smooth Scrolling](/articles/how-to-enable-chrome-smooth-scrolling)
-- [Chrome Audio Equalizer Extension](/articles/chrome-audio-equalizer-extension)
-- [Chrome Not Responding? Force Close It This Way](/articles/chrome-not-responding-force-close-how)

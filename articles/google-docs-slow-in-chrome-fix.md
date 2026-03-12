@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers"
-description: "Is Google Docs running slow in Chrome? Learn practical fixes for computers with limited RAM to speed up your documents. Read our comprehensive guide to learn..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "google-docs-slow-in-chrome-fix"
-categories: "[performance, troubleshooting, google-docs]"
-tags: "[google-docs, chrome-slow, performance, low-ram, browser-tips]"
-author: "theluckystrike"
+layout: post
+title: 'Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers'
+description: Is Google Docs running slow in Chrome? Learn practical fixes for computers
+  with limited RAM to speed up your documents. Read our comprehensive guide to learn...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: google-docs-slow-in-chrome-fix
+categories: '[performance, troubleshooting, google-docs]'
+tags: '[google-docs, chrome-slow, performance, low-ram, browser-tips]'
+author: theluckystrike
 ---
 # Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers
 
@@ -120,10 +121,9 @@ The goal is to free up as much memory as possible for Google Docs to use. With f
 Give these fixes a try. Your patience (and your computer) will thank you.
 
 ## Related Articles
-- [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
-- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
-- [Chrome Voice Typing In Google Docs](/chrome-voice-typing-in-google-docs)
-
+* [Chrome Layer CSS Cascade Layers Explained](/articles/chrome-layer-css-cascade-layers-explained/)
+* [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix/)
+* [Chrome for Autofill Credit Card Safety](/articles/chrome-for-autofill-credit-card-safety/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

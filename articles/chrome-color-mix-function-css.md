@@ -1,15 +1,23 @@
 ---
-title: "chrome color mix function css"
-description: "Learn how to use the CSS color-mix function in Chrome to blend colors directly in your stylesheets. Simple guide for beginners. Read our full guide to master yo"
-date: "2026-01-15"
-last_modified_at: '2026-03-12'
-permalink: "chrome-color-mix-function-css"
-layout: post
-categories: ['web-development', 'css', 'design']
-tags: ['css', 'color-mix', 'chrome', 'web-design', 'styling']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: chrome color mix function css
+description: Learn how to use the CSS color-mix function in Chrome to blend colors
+  directly in your stylesheets. Simple guide for beginners. Read our full guide to
+  master yo
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
 permalink: chrome-color-mix-function-css
+layout: post
+categories:
+- web-development
+- css
+- design
+tags:
+- css
+- color-mix
+- chrome
+- web-design
+- styling
+author: theluckystrike
 ---
 # How to Use the Chrome Color Mix Function in CSS
 
@@ -58,10 +66,9 @@ Extensions like Tab Suspender Pro can help by automatically suspending tabs you 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-- [Chrome Nesting CSS Explained](/chrome-nesting-css-explained)
-- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)
-
+* [chrome for google translate extension tips](/articles/chrome-for-google-translate-extension-tips/)
+* [chrome for onenote web clipper setup](/articles/chrome-for-onenote-web-clipper-setup/)
+* [Chrome Instant Apps on Android Explained](/articles/chrome-instant-apps-on-android-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

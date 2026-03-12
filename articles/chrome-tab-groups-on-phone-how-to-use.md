@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Tab Groups on Phone How to Use
-description: Learn how to organize and use tab groups in Chrome on your phone to keep your browsing tidy and efficient. Read our comprehensive guide to learn more and improv
+description: Learn how to organize and use tab groups in Chrome on your phone to keep
+  your browsing tidy and efficient. Read our comprehensive guide to learn more and
+  improv
 permalink: chrome-tab-groups-on-phone-how-to-use
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
@@ -51,7 +53,7 @@ Chrome tab groups on phone how to use is something every mobile browser should k
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Right Click Not Working Fix](/articles/chrome-right-click-not-working-fix/)
+* [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools/)
+* [chrome enrollment for schools how it works](/articles/chrome-enrollment-for-schools-how-it-works/)
 
-- [Chrome Extensions for User Agent Randomizer](/articles/chrome-extensions-for-user-agent-randomizer)
-- [Chrome for Dailymotion Web Player](/articles/chrome-for-dailymotion-web-player)
-- [Chrome for Mendeley Web Importer Tips](/articles/chrome-for-mendeley-web-importer-tips)

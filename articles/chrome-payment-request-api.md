@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Payment Request API Guide
-description: Learn how Chrome Payment Request API enables seamless digital wallet payments, Google Pay integration, shipping options, and secure payment methods in modern...
+description: Learn how Chrome Payment Request API enables seamless digital wallet
+  payments, Google Pay integration, shipping options, and secure payment methods in
+  modern...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-payment-request-api
@@ -17,8 +19,6 @@ tags:
 - payment-api
 - web-payments
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-payment-request-api
 ---
 # Chrome Payment Request API Guide
 
@@ -136,9 +136,9 @@ The security features built into the API, including tokenization, explicit user 
 
 As payment technology continues to evolve, the Payment Request API will undoubtedly play an increasingly important role in how we complete online purchases. Whether you're a user looking to understand how your browser handles payments or a developer building the next generation of e-commerce experiences, understanding this API provides valuable insight into the future of web-based commerce.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 ## Related Articles
+* [Chrome Extensions for Tree Style Tabs](/articles/chrome-extensions-for-tree-style-tabs/)
+* [chrome for screenshot and annotation tools](/articles/chrome-for-screenshot-and-annotation-tools/)
+* [Chrome Virtual Keyboard API for Mobile - Complete Guide](/articles/chrome-virtual-keyboard-api-mobile/)
 
-- [Laptop Freezing When Opening Chrome: Practical Solutions That Actually Work](/articles/laptop-freezing-when-opening-chrome)
-- [Chrome Extensions For Eye Strain Protection](/articles//articles/chrome-extensions-for-eye-strain-protection/)
-- [Chrome Extensions for Mockup Creator](/articles/chrome-extensions-for-mockup-creator)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

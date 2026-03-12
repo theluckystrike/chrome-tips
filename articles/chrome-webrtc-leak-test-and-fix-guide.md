@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome WebRTC Leak Test and Fix Guide"
-description: "Learn how to test for WebRTC leaks in Chrome and fix them to protect your privacy. Step-by-step solutions for real users. Read our comprehensive guide to lea..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-webrtc-leak-test-and-fix-guide"
-categories: "[privacy, security, chrome]"
-tags: "[webrtc, privacy, chrome, security, browser]"
-author: "theluckystrike"
+layout: post
+title: Chrome WebRTC Leak Test and Fix Guide
+description: Learn how to test for WebRTC leaks in Chrome and fix them to protect
+  your privacy. Step-by-step solutions for real users. Read our comprehensive guide
+  to lea...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-webrtc-leak-test-and-fix-guide
+categories: '[privacy, security, chrome]'
+tags: '[webrtc, privacy, chrome, security, browser]'
+author: theluckystrike
 ---
 # Chrome WebRTC Leak Test and Fix Guide
 
@@ -126,10 +128,9 @@ If you're looking to optimize Chrome further, give Tab Suspender Pro a try. It's
 ---
 
 ## Related Articles
-- [Chrome WebRTC Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
-- [Chrome Memory Leak Fix for 2026](/chrome-memory-leak-fix-2026)
-- [Chrome Font Fingerprinting Explained and Fix](/chrome-font-fingerprinting-explained-and-fix)
-
+* [Chrome Canva Slow Loading Fix](/articles/chrome-canva-slow-loading-fix/)
+* [Chrome vs Chromium: What's the Difference and Which Should You Use?](/articles/chrome-chromium-vs-chrome-differences/)
+* [Chrome for Cryptocurrency Tracking Extensions](/articles/chrome-for-cryptocurrency-tracking-extensions/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

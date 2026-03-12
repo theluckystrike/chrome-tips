@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Microsoft Teams"
-description: "Discover the best chrome extensions for microsoft teams to boost productivity, streamline communication, and improve your daily workflow. Check out our..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-microsoft-teams"
-layout: "post"
-categories: "[productivity, tips]"
-tags: "[chrome-extensions, microsoft-teams, collaboration, meetings]"
-author: "theluckystrike"
+title: Chrome Extensions for Microsoft Teams
+description: Discover the best chrome extensions for microsoft teams to boost productivity,
+  streamline communication, and improve your daily workflow. Check out our...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-microsoft-teams
+layout: post
+categories: '[productivity, tips]'
+tags: '[chrome-extensions, microsoft-teams, collaboration, meetings]'
+author: theluckystrike
 ---
 # Chrome Extensions for Microsoft Teams
 
@@ -72,7 +73,7 @@ Remember that extensions are helpers, not replacements for good work habits. Sta
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Address Autofill How to Manage](/articles/chrome-address-autofill-how-to-manage/)
+* [Chrome Guest Browsing for Shared Computers](/articles/chrome-guest-browsing-for-shared-computers/)
+* [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension/)
 
-- [How to Turn Off Chrome Notifications Permanently](/articles/how-to-turn-off-chrome-notifications-permanently)
-- [Chrome Shape Detection API – Barcode, Face & Text Recognition Directly in Your Browser](/articles/chrome-shape-detection-barcode-face-text)
-- [Chrome YouTube Slow But Other Sites Fine Fix](/articles/chrome-youtube-slow-but-other-sites-fine-fix)

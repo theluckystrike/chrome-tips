@@ -1,15 +1,21 @@
 ---
-title: "Chrome Close Other Tabs Shortcut"
-description: "Learn how to quickly close all other tabs in Chrome with keyboard shortcuts and simple methods to focus on what matters. Read our full guide to master your Chro"
-date: "2025-03-09"
-last_modified_at: '2026-03-12'
-permalink: "chrome-close-other-tabs-shortcut"
-layout: post
-categories: ['productivity', 'tips']
-tags: ['tabs', 'chrome-tips', 'browser-management', 'shortcuts']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: Chrome Close Other Tabs Shortcut
+description: Learn how to quickly close all other tabs in Chrome with keyboard shortcuts
+  and simple methods to focus on what matters. Read our full guide to master your
+  Chro
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
 permalink: chrome-close-other-tabs-shortcut
+layout: post
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- chrome-tips
+- browser-management
+- shortcuts
+author: theluckystrike
 ---
 # Chrome Close Other Tabs Shortcut
 
@@ -86,7 +92,7 @@ For more advanced tab management, consider using extensions like Tab Suspender P
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extension for Email Tracking Notification](/articles/chrome-extension-for-email-tracking-notification/)
+* [Chrome Mouse Cursor Extension Customize](/articles/chrome-mouse-cursor-extension-customize/)
+* [Chrome Extensions For Calendar Integration](/articles//articles/chrome-extensions-for-calendar-integration//)
 
-- [chrome for podcast web players best setup](/articles/chrome-for-podcast-web-players-best-setup)
-- [Chrome for Disney Plus Not Working Fix](/articles/chrome-for-disney-plus-not-working-fix)
-- [Chrome Largest Contentful Paint Explained](/articles/chrome-largest-contentful-paint-explained)

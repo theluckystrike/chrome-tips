@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Not Playing Videos Fix
-description: Is Chrome not playing videos? This guide covers simple fixes to get your videos working again in Chrome. Learn effective tips and tricks to optimize your Chr...
+description: Is Chrome not playing videos? This guide covers simple fixes to get your
+  videos working again in Chrome. Learn effective tips and tricks to optimize your
+  Chr...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-not-playing-videos-fix
@@ -14,8 +16,6 @@ tags:
 - chrome-fix
 - browser-media
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-not-playing-videos-fix
 ---
 # Chrome Not Playing Videos Fix
 
@@ -112,7 +112,7 @@ Remember that most video playback problems have simple solutions. Start with the
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Status Code 404 Not Found Explained](/articles/chrome-status-code-404-not-found-explained/)
+* [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup/)
+* [Chrome Uses All CPU When Idle Fix](/articles/chrome-uses-all-cpu-when-idle-fix/)
 
-- [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools)
-- [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change)
-- [Chrome AI Powered Search Suggestions](/articles/chrome-ai-powered-search-suggestions)

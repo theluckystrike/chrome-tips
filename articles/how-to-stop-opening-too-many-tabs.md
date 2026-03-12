@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Stop Opening Too Many Tabs"
-description: "Feeling overwhelmed by too many tabs? Learn practical steps to break the habit of opening too many tabs and browse more focused. Read our comprehensive guide..."
-date: "2025-03-13"
-last_modified_at: "2026-03-09"
-permalink: "how-to-stop-opening-too-many-tabs"
-categories: "[productivity, tips]"
-tags: "[tabs, tab-overload, productivity, chrome-tips]"
-author: "theluckystrike"
+layout: post
+title: How to Stop Opening Too Many Tabs
+description: Feeling overwhelmed by too many tabs? Learn practical steps to break
+  the habit of opening too many tabs and browse more focused. Read our comprehensive
+  guide...
+date: '2025-03-13'
+last_modified_at: '2026-03-09'
+permalink: how-to-stop-opening-too-many-tabs
+categories: '[productivity, tips]'
+tags: '[tabs, tab-overload, productivity, chrome-tips]'
+author: theluckystrike
 ---
 # How to Stop Opening Too Many Tabs
 
@@ -72,7 +74,7 @@ Breaking the habit of opening too many tabs takes some effort, but it is absolut
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions For Blocking Distracting Websites](/articles//articles/chrome-extensions-for-blocking-distracting-websites//)
+* [Chrome Super Cookies: What Are They](/articles/chrome-super-cookies-what-are-they/)
+* [Chrome Process Per Tab Why and How to Change](/articles/chrome-process-per-tab-why-and-how-to-change/)
 
-- [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer)
-- [Chromebook Running Slow How to Fix](/articles/chromebook-running-slow-how-to-fix)
-- [Chrome Web Store Best Free Games](/articles/chrome-web-store-best-free-games)

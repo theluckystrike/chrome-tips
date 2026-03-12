@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Freezes My Whole Computer"
-description: "Is Chrome freezing your entire computer? Learn practical fixes for users with slow computers and limited RAM. Step-by-step solutions that actually work."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-freezes-my-whole-computer"
-categories: [troubleshooting, performance]
-tags: [chrome-freezes, computer-freeze, low-ram, chrome-slow, browser-performance]
-author: "theluckystrike"
+layout: post
+title: Chrome Freezes My Whole Computer
+description: Is Chrome freezing your entire computer? Learn practical fixes for users
+  with slow computers and limited RAM. Step-by-step solutions that actually work.
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-freezes-my-whole-computer
+categories:
+- troubleshooting
+- performance
+tags:
+- chrome-freezes
+- computer-freeze
+- low-ram
+- chrome-slow
+- browser-performance
+author: theluckystrike
 ---
 # Chrome Freezes My Whole Computer
 
@@ -139,10 +147,9 @@ This removes all extensions, clears custom settings, and gives you a fresh, clea
 ---
 
 ## Related Articles
-- [Why Is Chrome So Slow on My Computer?](/why-is-chrome-so-slow-on-my-computer)
-- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
-- [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/chrome-makes-my-old-laptop-unusable)
-
+* [Chrome Command Line Flags for Low Memory: A Practical Guide](/articles/chrome-command-line-flags-for-low-memory/)
+* [Chrome Tab Color Coding How to Use](/articles/chrome-tab-color-coding-how-to-use/)
+* [Chrome Extensions for Invoice Creation](/articles/chrome-extensions-for-invoice-creation/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

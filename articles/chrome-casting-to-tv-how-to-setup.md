@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome Casting to TV How to Setup"
-description: "Learn how to setup chrome casting to TV with this easy guide. Cast your browser tab or screen to any TV using Chrome's built-in feature. Check out our expert gu"
-date: "2026-01-15"
-last_modified_at: '2026-03-12'
-permalink: "chrome-casting-to-tv-how-to-setup"
-categories: [casting, streaming, chrome]
-tags: [chrome-casting, screen-cast, tv-setup, casting-guide]
-author: "theluckystrike"
+layout: post
+title: Chrome Casting to TV How to Setup
+description: Learn how to setup chrome casting to TV with this easy guide. Cast your
+  browser tab or screen to any TV using Chrome's built-in feature. Check out our expert
+  gu
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-casting-to-tv-how-to-setup
+categories:
+- casting
+- streaming
+- chrome
+tags:
+- chrome-casting
+- screen-cast
+- tv-setup
+- casting-guide
+author: theluckystrike
 ---
 # Chrome Casting to TV How to Setup
 
@@ -74,7 +83,7 @@ Chrome casting to TV opens up many possibilities for sharing content with others
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Android Memory Usage Too High Fix](/articles/chrome-android-memory-usage-too-high-fix/)
+* [Chrome Slow on Chromebook? Here's How to Fix It](/articles/chrome-slow-on-chromebook-fix/)
+* [Best Chrome Themes 2026](/articles/best-chrome-themes-2026/)
 
-- [chrome web nfc how it works](/articles/chrome-web-nfc-how-it-works)
-- [How to Stop Chrome from Opening on Startup](/articles/how-to-stop-chrome-from-opening-on-startup)
-- [Best Dark Mode Chrome Extension](/articles/best-dark-mode-chrome-extension)

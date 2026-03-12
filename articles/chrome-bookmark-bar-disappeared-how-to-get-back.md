@@ -83,7 +83,7 @@ You can also export your bookmarks to a file as a backup. Go to Bookmarks, then 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Supervised Profiles for Kids](/articles/chrome-supervised-user-profile-for-kids/)
+* [Chrome Permissions Manager Guide](/articles/chrome-permissions-manager-guide/)
+* [Chrome WebAuthn Explained for Regular Users](/articles/chrome-webauthn-explained-for-regular-users/)
 
-- [Chromebook Storage Full How to Free Space](/articles/chromebook-storage-full-how-to-free-space)
-- [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change)
-- [Chrome for Microsoft Teams in Browser Tips](/articles/chrome-for-microsoft-teams-in-browser-tips)

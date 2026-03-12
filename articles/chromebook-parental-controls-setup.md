@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Set Up Parental Controls on Your Chromebook"
-description: "A complete guide to setting up parental controls on Chromebooks. Learn how to create supervised accounts, set screen time limits, and filter content. Read ou..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chromebook-parental-controls-setup"
-categories: "[chromebook, security, tutorials]"
-tags: "[chromebook, parental-controls, family, safety, google-family-link]"
-author: "theluckystrike"
+layout: post
+title: How to Set Up Parental Controls on Your Chromebook
+description: A complete guide to setting up parental controls on Chromebooks. Learn
+  how to create supervised accounts, set screen time limits, and filter content. Read
+  ou...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chromebook-parental-controls-setup
+categories: '[chromebook, security, tutorials]'
+tags: '[chromebook, parental-controls, family, safety, google-family-link]'
+author: theluckystrike
 ---
 # How to Set Up Parental Controls on Your Chromebook
 
@@ -86,10 +88,9 @@ Setting up parental controls on a Chromebook does not have to be complicated. By
 Take the time to explore the Family Link app and customize the settings to match your family's values and needs. With the right controls in place, you can feel confident that your children are using their Chromebooks safely and productively.
 
 ## Related Articles
-- [Chromebook for Seniors Setup Guide](/chromebook-for-seniors-setup-guide)
-- [Chromebook File Manager Tips And Tricks](/chromebook-file-manager-tips-and-tricks)
-- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
-
+* [How to Change Your Chrome Downloads Folder](/articles/chrome-downloads-folder-change/)
+* [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage/)
+* [Chrome Mobile Tabs Too Many How to Manage](/articles/chrome-mobile-tabs-too-many-how-to-manage/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

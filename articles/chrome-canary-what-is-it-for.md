@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Canary What Is It For"
-description: "Chrome Canary is Google's experimental browser version with early features. Learn what it does, who should use it, and if it is right for you. Check out our exp"
-date: "2026-03-10"
-last_modified_at: '2026-03-12'
-permalink: "chrome-canary-what-is-it-for"
-categories: [features, browser-setup]
-tags: [chrome-canary, chrome-beta, chrome-dev, browser-channels]
-author: "theluckystrike"
+layout: post
+title: Chrome Canary What Is It For
+description: Chrome Canary is Google's experimental browser version with early features.
+  Learn what it does, who should use it, and if it is right for you. Check out our
+  exp
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-canary-what-is-it-for
+categories:
+- features
+- browser-setup
+tags:
+- chrome-canary
+- chrome-beta
+- chrome-dev
+- browser-channels
+author: theluckystrike
 ---
 # Chrome Canary What Is It For
 
@@ -60,7 +68,7 @@ If you are curious about what Google is building next for Chrome, downloading Ca
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome youtube comments not showing fix](/articles/chrome-youtube-comments-not-showing-fix/)
+* [chrome translate on phone how to use](/articles/chrome-translate-on-phone-how-to-use/)
+* [Chrome Gmail Keyboard Shortcuts](/articles/chrome-gmail-keyboard-shortcuts/)
 
-- [Chrome Location History in Browser How to Check](/articles/chrome-location-history-in-browser-how-to-check)
-- [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users)
-- [Chrome for Wikipedia Enhanced Reading](/articles/chrome-for-wikipedia-enhanced-reading)

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Permissions Manager Guide
-description: Learn how to manage Chrome permissions for camera, microphone, location, notifications, and per-site controls to protect your privacy and security. Learn eff...
+description: Learn how to manage Chrome permissions for camera, microphone, location,
+  notifications, and per-site controls to protect your privacy and security. Learn
+  eff...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-permissions-manager-guide
@@ -18,8 +20,6 @@ tags:
 - notifications
 - browser-security
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-permissions-manager-guide
 ---
 # Chrome Permissions Manager Guide
 
@@ -218,10 +218,9 @@ Combined with tools like Tab Suspender Pro that help you manage your active brow
 ---
 
 ## Related Articles
-- [Chrome WebRTC Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
-- [Chrome Extensions for Cookie Editor Manager](/chrome-extensions-for-cookie-editor-manager)
-- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
-
+* [Chrome Password Checkup What It Does](/articles/chrome-password-checkup-what-it-does/)
+* [Chrome Pop Ups on Phone How to Block](/articles/chrome-pop-ups-on-phone-how-to-block/)
+* [Chrome for SEO Analysis Extensions](/articles/chrome-for-seo-analysis-extensions/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

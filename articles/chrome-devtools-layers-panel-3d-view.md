@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome DevTools Layers Panel 3D View"
-description: "Learn how to use Chrome DevTools Layers panel 3D view to diagnose rendering issues and fix slow page performance. Explore our comprehensive guide to masteri..."
+title: Chrome DevTools Layers Panel 3D View
+description: Learn how to use Chrome DevTools Layers panel 3D view to diagnose rendering
+  issues and fix slow page performance. Explore our comprehensive guide to masteri...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-layers-panel-3d-view
@@ -63,7 +64,7 @@ The Performance panel works well together with the Layers panel because it shows
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Address Bar Shortcuts Tips](/articles/chrome-for-address-bar-shortcuts-tips/)
+* [Chrome Extension Permissions Best Practices](/articles/chrome-extension-permissions-best-practices/)
+* [Chrome New Tab Page Minimalist Extensions](/articles/chrome-new-tab-page-minimalist-extensions/)
 
-- [Chrome Extensions for Time Tracking Freelancers](/articles/chrome-extensions-for-time-tracking-freelancers)
-- [Chrome Extension for Reading Mode Distraction Free](/articles/chrome-extension-for-reading-mode-distraction-free)
-- [Chrome Homepage Keeps Changing Fix](/articles/chrome-homepage-keeps-changing-fix)

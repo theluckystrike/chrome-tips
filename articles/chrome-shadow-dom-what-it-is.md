@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Shadow DOM What It Is
-description: Learn what Shadow DOM is in Chrome, how it works, and why it matters for web developers and everyday users alike. Read our comprehensive guide to learn more and
+description: Learn what Shadow DOM is in Chrome, how it works, and why it matters
+  for web developers and everyday users alike. Read our comprehensive guide to learn
+  more and
 permalink: chrome-shadow-dom-what-it-is
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
@@ -35,7 +37,7 @@ In conclusion, Shadow DOM is a powerful web technology that creates protected bo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Amazon Fresh Web Ordering](/articles/chrome-for-amazon-fresh-web-ordering/)
+* [Chrome Extension for Email Tracking Notification](/articles/chrome-extension-for-email-tracking-notification/)
+* [Chrome CDP Protocol Explained Simply](/articles/chrome-cdp-protocol-explained-simply/)
 
-- [Chromebook vs MacBook for College](/articles/chromebook-vs-macbook-for-college)
-- [Chrome Notifications Won't Stop Popping Up? Here's How to Fix It](/articles/chrome-notifications-wont-stop-popping-up)
-- [chrome themes how to change and customize](/articles/chrome-themes-how-to-change-and-customize)

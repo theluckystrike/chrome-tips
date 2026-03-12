@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Diigo"
-description: "Discover how Chrome Extensions For Diigo can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings to boost p..."
+title: Chrome Extensions For Diigo
+description: Discover how Chrome Extensions For Diigo can transform your browsing.
+  This comprehensive 2026 guide covers the best Chrome extensions and settings to
+  boost p...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: /articles/chrome-extensions-for-diigo/
@@ -64,7 +66,7 @@ With the right Chrome extensions supporting your Diigo habit, you can transform 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply/)
+* [Chrome Extension for Saving Passwords Securely](/articles/chrome-extension-for-saving-passwords-securely/)
+* [How to Add Chrome Shortcut to Desktop](/articles/how-to-add-chrome-shortcut-to-desktop/)
 
-- [Is Chrome Still the Best Browser in 2026?](/articles/is-chrome-still-the-best-browser-2026)
-- [Best Password Manager Chrome Extension](/articles/best-password-manager-chrome-extension)
-- [Chrome for Tab Sleeping vs Tab Suspending Difference](/articles/chrome-for-tab-sleeping-vs-tab-suspending-difference)

@@ -1,15 +1,20 @@
 ---
-title: "Chrome Compact Mode How to Enable"
-description: "Learn how to enable compact mode in Chrome to reduce browser clutter and save screen space. Simple steps for a cleaner browsing experience. Read our full guide "
-date: "2026-01-15"
-last_modified_at: '2026-03-12'
-permalink: "chrome-compact-mode-how-to-enable"
-layout: post
-categories: ['customization', 'interface']
-tags: ['chrome-compact-mode', 'browser-settings', 'interface']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: Chrome Compact Mode How to Enable
+description: 'Learn how to enable compact mode in Chrome to reduce browser clutter
+  and save screen space. Simple steps for a cleaner browsing experience. Read our
+  full guide '
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
 permalink: chrome-compact-mode-how-to-enable
+layout: post
+categories:
+- customization
+- interface
+tags:
+- chrome-compact-mode
+- browser-settings
+- interface
+author: theluckystrike
 ---
 # Chrome Compact Mode How to Enable
 
@@ -70,7 +75,7 @@ The best approach is the one that fits your specific needs and workflow. What wo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Notification Permission Best Practices](/articles/chrome-notification-permission-best-practices/)
+* [How to Sync Everything Between Your Phone and Laptop with Chrome](/articles/chrome-sync-everything-between-phone-and-laptop/)
+* [Best Chrome Extensions for Reading Articles](/articles/best-chrome-extensions-for-reading-articles/)
 
-- [How to Capture Network Logs in Chrome Using Net Export](/articles/chrome-net-export-capture-network-log)
-- [Chromebook vs iPad for Students](/articles/chromebook-vs-ipad-for-students-comparison)
-- [Chrome for Cold Turkey Blocker Setup](/articles/chrome-for-cold-turkey-blocker-setup)

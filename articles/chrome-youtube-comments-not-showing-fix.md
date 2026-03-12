@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "chrome youtube comments not showing fix"
-description: "Struggling with YouTube comments not loading in Chrome? Discover proven fixes to get comments showing again, from simple refreshes to advanced troubleshooting."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-youtube-comments-not-showing-fix"
-categories: "[troubleshooting, chrome, youtube]"
-tags: "[youtube, chrome, comments, troubleshooting, browser]"
-author: "theluckystrike"
+layout: post
+title: chrome youtube comments not showing fix
+description: Struggling with YouTube comments not loading in Chrome? Discover proven
+  fixes to get comments showing again, from simple refreshes to advanced troubleshooting.
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-youtube-comments-not-showing-fix
+categories: '[troubleshooting, chrome, youtube]'
+tags: '[youtube, chrome, comments, troubleshooting, browser]'
+author: theluckystrike
 ---
 # Chrome YouTube Comments Not Showing Fix
 
@@ -115,10 +116,9 @@ If you've tried all these steps and comments still won't load, consider trying a
 With these troubleshooting steps, you should be able to get back to reading and participating in discussions under your favorite YouTube videos.
 
 ## Related Articles
-- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome Address Bar Not Showing Full URL Fix](/chrome-address-bar-not-showing-full-url-fix)
-
+* [Chrome for News Reading Best Setup](/articles/chrome-for-news-reading-best-setup/)
+* [Chrome Bounce Tracking Protection Explained: What It Is and How to Enable It](/articles/chrome-bounce-tracking-protection-explained/)
+* [Chrome Live Captions How to Turn On](/articles/chrome-live-captions-how-to-turn-on/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

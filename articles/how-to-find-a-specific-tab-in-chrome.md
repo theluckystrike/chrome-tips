@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Find a Specific Tab in Chrome"
-description: "Lost in a sea of tabs? Learn practical ways to find that specific Chrome tab without clicking through dozens of them. Read our comprehensive guide to learn m..."
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "how-to-find-a-specific-tab-in-chrome"
-categories: "[productivity, tips]"
-tags: "[tabs, chrome-tips, browser-management]"
-author: "theluckystrike"
+layout: post
+title: How to Find a Specific Tab in Chrome
+description: Lost in a sea of tabs? Learn practical ways to find that specific Chrome
+  tab without clicking through dozens of them. Read our comprehensive guide to learn
+  m...
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: how-to-find-a-specific-tab-in-chrome
+categories: '[productivity, tips]'
+tags: '[tabs, chrome-tips, browser-management]'
+author: theluckystrike
 ---
 # How to Find a Specific Tab in Chrome
 
@@ -52,7 +54,7 @@ Finding a specific tab does not have to be frustrating. With Chrome's built-in s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome for video downloading legal methods](/articles/chrome-for-video-downloading-legal-methods/)
+* [Chrome Extensions for Organizing Research](/articles/chrome-extensions-for-organizing-research/)
+* [Chrome Energy Saver Mode Guide](/articles/chrome-energy-saver-mode-guide/)
 
-- [Chrome Extensions for Text Expander](/articles/chrome-extensions-for-text-expander)
-- [Chrome Local Storage View Edit: How to Inspect and Modify Website Data](/articles/chrome-local-storage-view-edit)
-- [Chrome Tracking Prevention Explained Simply](/articles/chrome-tracking-prevention-explained-simply)

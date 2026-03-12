@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Notion"
-description: "Discover the best Chrome extensions for Notion to enhance your workflow Check out our expert recommendations and tips to enhance your browsing experience..."
-date: "2026-03-09"
-last_modified_at: "2026-03-11"
-permalink: "chrome-extensions-for-notion"
-layout: "post"
-categories: ""
-tags: ""
-author: "theluckystrike"
+title: Chrome Extensions for Notion
+description: Discover the best Chrome extensions for Notion to enhance your workflow
+  Check out our expert recommendations and tips to enhance your browsing experience...
+date: '2026-03-09'
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-notion
+layout: post
+categories: ''
+tags: ''
+author: theluckystrike
 ---
 # Chrome Extensions for Notion
 
@@ -72,7 +73,7 @@ The right combination of extensions turns Chrome into a powerful companion for y
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome vs Firefox 2026 Comparison](/articles/chrome-vs-firefox-2026/)
+* [Chrome Pop Ups How to Block All](/articles/chrome-pop-ups-how-to-block-all/)
+* [Chrome High CPU Usage Nothing Open](/articles/chrome-high-cpu-usage-nothing-open/)
 
-- [chrome for apartments.com search tips](/articles/chrome-for-apartmentscom-search-tips)
-- [chrome tab groups keyboard shortcuts](/articles/chrome-tab-groups-keyboard-shortcuts)
-- [Chrome for Meditation and Focus Extensions](/articles/chrome-for-meditation-and-focus-extensions)

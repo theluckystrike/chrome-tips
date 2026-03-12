@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions on Android Is It Possible"
-description: "Wondering if you can use Chrome extensions on Android? Here is what works, what does not, and how to get more from your mobile browser. Read our comprehensiv..."
+title: Chrome Extensions on Android Is It Possible
+description: Wondering if you can use Chrome extensions on Android? Here is what works,
+  what does not, and how to get more from your mobile browser. Read our comprehensiv...
 date: 2026-01-15
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-on-android-is-it-possible
-categories: [android, chrome, extensions]
-tags: [chrome-extensions, android, mobile-browser, chrome-flags]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-on-android-is-it-possible
+categories:
+- android
+- chrome
+- extensions
+tags:
+- chrome-extensions
+- android
+- mobile-browser
+- chrome-flags
+author: theluckystrike
 ---
 # Chrome Extensions on Android Is It Possible
 
@@ -66,7 +72,7 @@ In the meantime, explore the options that work best for your specific needs. Whe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Nesting CSS Explained](/articles/chrome-nesting-css-explained/)
+* [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/articles/chrome-devtools-sensors-tab-geolocation/)
+* [How to Find a Specific Tab in Chrome](/articles/how-to-find-a-specific-tab-in-chrome/)
 
-- [Chrome Interaction to Next Paint Explained: What It Means for You](/articles/chrome-interaction-to-next-paint-explained)
-- [Chrome Extensions Conflict With Each Other Fix](/articles/chrome-extensions-conflict-with-each-other-fix)
-- [Chrome for Travel Planning: Best Extensions](/articles/chrome-for-travel-planning-best-extensions)

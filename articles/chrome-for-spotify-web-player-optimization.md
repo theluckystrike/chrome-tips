@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Spotify Web Player Optimization
-description: Make Spotify run smoother in Chrome with these simple optimization tips. Improve playback quality and reduce browser lag. Discover more tips and tricks to op
+description: Make Spotify run smoother in Chrome with these simple optimization tips.
+  Improve playback quality and reduce browser lag. Discover more tips and tricks to
+  op
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-spotify-web-player-optimization
@@ -97,7 +99,7 @@ By following these tips and maintaining good browser hygiene, you can enjoy your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome extensions for web clipping](/articles/chrome-extensions-for-web-clipping/)
+* [Chrome Notifications for One Site How to Manage](/articles/chrome-notifications-for-one-site-how-to-manage/)
+* [Chrome Shared Storage API Explained](/articles/chrome-shared-storage-api-explained/)
 
-- [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained)
-- [Why Chrome Is Slow on Battery But Fast When Plugged In](/articles/chrome-slow-on-battery-but-fast-plugged-in)
-- [Chrome Site Isolation Explained for Users](/articles/chrome-site-isolation-explained-for-users)

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome DevTools Shadow DOM Inspector"
-description: "Learn how to inspect Shadow DOM in Chrome DevTools, why it is hidden, and simple steps to view and edit shadow elements. Explore our comprehensive guide to ..."
+title: Chrome DevTools Shadow DOM Inspector
+description: Learn how to inspect Shadow DOM in Chrome DevTools, why it is hidden,
+  and simple steps to view and edit shadow elements. Explore our comprehensive guide
+  to ...
 date: 2025-02-19
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-shadow-dom-inspector
@@ -69,7 +71,7 @@ With some practice, you will be able to navigate Shadow DOM just as easily as re
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Tracing for Performance Issues](/articles/chrome-tracing-for-performance-issues/)
+* [Best Chrome Extensions for Saving Money Online](/articles/best-chrome-extensions-for-saving-money-online/)
+* [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/articles/chrome-smooth-scrolling-enable/)
 
-- [Chrome Web Vitals Extension How to Use](/articles/chrome-web-vitals-extension-how-to-use)
-- [How to Set Homepage on Chrome](/articles/how-to-set-homepage-on-chrome)
-- [Chrome Google Translate Built in Feature Tips](/articles/chrome-google-translate-built-in-feature-tips)

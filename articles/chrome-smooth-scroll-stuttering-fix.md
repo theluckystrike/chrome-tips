@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Smooth Scroll Stuttering Fix
-description: Is your Chrome browser scroll feeling jerky and uneven? Learn why smooth scroll stuttering happens and how to fix it. Read our comprehensive guide to learn more
+description: Is your Chrome browser scroll feeling jerky and uneven? Learn why smooth
+  scroll stuttering happens and how to fix it. Read our comprehensive guide to learn
+  more
 permalink: chrome-smooth-scroll-stuttering-fix
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
@@ -55,7 +57,7 @@ Chrome smooth scroll stuttering is annoying, but it is usually fixable with a fe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Window Size Not Saving Fix](/articles/chrome-window-size-not-saving-fix/)
+* [Chrome Coupon Finder Built In Feature](/articles/chrome-coupon-finder-built-in-feature/)
+* [How to Find a Tab by Name in Chrome: Complete Guide](/articles/chrome-find-tab-by-name-search/)
 
-- [Chrome Slow on iPad Why: Causes and Solutions](/articles/chrome-slow-on-ipad-why)
-- [Chrome for Arxiv Paper Reader Extensions](/articles/chrome-for-arxiv-paper-reader-extensions)
-- [Chrome Has Selector Explained](/articles/chrome-has-selector-explained)

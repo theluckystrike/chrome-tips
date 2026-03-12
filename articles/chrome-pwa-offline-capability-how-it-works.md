@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome pwa offline capability how it works
-description: Discover how Chrome PWA offline capability works. Learn what Progressive Web Apps can do without internet and how to use them. Learn effective tips and trick...
+description: Discover how Chrome PWA offline capability works. Learn what Progressive
+  Web Apps can do without internet and how to use them. Learn effective tips and trick...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-pwa-offline-capability-how-it-works
@@ -15,8 +16,6 @@ tags:
 - offline
 - progressive-web-apps
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-pwa-offline-capability-how-it-works
 ---
 # Chrome PWA Offline Capability How It Works
 
@@ -75,10 +74,9 @@ Whether you are using a PWA for work, entertainment, or productivity, understand
 ---
 
 ## Related Articles
-- [Chrome PWA Update Mechanism How It Works](/chrome-pwa-update-mechanism-how-it-works)
-- [Chrome Live Caption How It Works](/chrome-live-caption-how-it-works)
-- [Chrome Install As App Pwa How To](/chrome-install-as-app-pwa-how-to)
-
+* [chrome eye dropper api pick color anywhere](/articles/chrome-eye-dropper-api-pick-color-anywhere/)
+* [chrome topics api explained simply](/articles/chrome-topics-api-explained-simply/)
+* [Chrome Address Bar Autocomplete How to Clear](/articles/chrome-address-bar-autocomplete-how-to-clear/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

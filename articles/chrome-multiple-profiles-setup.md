@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Multiple Profiles Setup: Complete Guide for 2026'
-description: Learn how to set up and manage multiple profiles in Google Chrome. Separate work from personal browsing, share profiles across devices, and optimize each pro...
+description: Learn how to set up and manage multiple profiles in Google Chrome. Separate
+  work from personal browsing, share profiles across devices, and optimize each pro...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-multiple-profiles-setup
@@ -15,8 +16,6 @@ tags:
 - productivity
 - chrome-tips
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-multiple-profiles-setup
 ---
 # Chrome Multiple Profiles Setup: Complete Guide for 2026
 
@@ -93,7 +92,7 @@ Setting up multiple profiles in Chrome is one of the best ways to organize your 
 More tips and guides available at [zovo.one](https://zovo.one).
 
 ## Related Articles
+* [Chrome Cast Tab to TV Not Working Fix](/articles/chrome-cast-tab-to-tv-not-working-fix/)
+* [Chrome Print to PDF How to Save Webpage](/articles/chrome-print-to-pdf-how-to-save-webpage/)
+* [Best Chrome Extensions for Web Developers 2026](/articles/best-chrome-extensions-for-web-developers-2026/)
 
-- [Chrome CSS Anchor Positioning Tether - The Future of Floating Elements](/articles/chrome-css-anchor-positioning-tether)
-- [Chrome Tab Groups on Phone How to Use](/articles/chrome-tab-groups-on-phone-how-to-use)
-- [Best Chrome Extensions for Real Estate Agents](/articles/best-chrome-extensions-for-real-estate-agents)

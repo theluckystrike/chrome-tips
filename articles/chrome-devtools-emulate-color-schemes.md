@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome DevTools Emulate Color Schemes"
-description: "Learn how to use Chrome DevTools to test your website with different color schemes and ensure it works for all users. Explore our comprehensive guide to mas..."
+title: Chrome DevTools Emulate Color Schemes
+description: Learn how to use Chrome DevTools to test your website with different
+  color schemes and ensure it works for all users. Explore our comprehensive guide
+  to mas...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-emulate-color-schemes
@@ -65,7 +67,7 @@ Remember, creating an inclusive web experience does not require complex technica
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome extensions for tab suspender auto](/articles/chrome-extensions-for-tab-suspender-auto/)
+* [Chrome Extension Publish to Web Store Guide](/articles/chrome-extension-publish-to-web-store-guide/)
+* [chrome lighthouse audit how to run](/articles/chrome-lighthouse-audit-how-to-run/)
 
-- [Chrome Video Speed Controller Extension](/articles/chrome-video-speed-controller-extension)
-- [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling)
-- [Chrome AI Summarize Feature How to Use](/articles/chrome-ai-summarize-feature-how-to-use)

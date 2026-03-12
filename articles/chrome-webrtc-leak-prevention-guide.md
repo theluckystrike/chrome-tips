@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome WebRTC Leak Prevention Guide"
-description: "Learn how to prevent WebRTC IP leaks in Chrome, protect your browser fingerprint, use privacy extensions, and ensure VPN compatibility for maximum online pri..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-webrtc-leak-prevention-guide"
-categories: "[privacy, security, chrome]"
-tags: "[webrtc, ip-leak, browser-fingerprinting, vpn, privacy]"
-author: "theluckystrike"
+layout: post
+title: Chrome WebRTC Leak Prevention Guide
+description: Learn how to prevent WebRTC IP leaks in Chrome, protect your browser
+  fingerprint, use privacy extensions, and ensure VPN compatibility for maximum online
+  pri...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-webrtc-leak-prevention-guide
+categories: '[privacy, security, chrome]'
+tags: '[webrtc, ip-leak, browser-fingerprinting, vpn, privacy]'
+author: theluckystrike
 ---
 # Chrome WebRTC Leak Prevention Guide
 
@@ -129,10 +131,9 @@ By staying informed and proactive about your privacy, you can enjoy the benefits
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [chrome themes best dark themes 2026](/articles/chrome-themes-best-dark-themes-2026/)
+* [Chrome for Productivity Dashboard New Tab](/articles/chrome-for-productivity-dashboard-new-tab/)
+* [chrome file system access api explained](/articles/chrome-file-system-access-api-explained/)
 
-## Related Articles
-
-- [chrome vs firefox for mac which is faster](/articles/chrome-vs-firefox-for-mac-which-is-faster)
-- [Chrome vs Edge Memory Usage Comparison](/articles/chrome-vs-edge-memory-usage-comparison)
-- [Chrome Task Manager Guide](/articles/chrome-task-manager-guide)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

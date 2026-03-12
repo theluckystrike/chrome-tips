@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for FreeCodeCamp Best Extensions
-description: Discover the best Chrome extensions for FreeCodeCamp learners to boost productivity, manage tabs, and accelerate your coding journey. Find out more tips on h...
+description: Discover the best Chrome extensions for FreeCodeCamp learners to boost
+  productivity, manage tabs, and accelerate your coding journey. Find out more tips
+  on h...
 date: 2026-03-10
 categories:
 - productivity
@@ -79,7 +81,7 @@ The key is to keep your browser organized so you can focus on what matters most:
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome extensions for image reverse search](/articles/chrome-extensions-for-image-reverse-search/)
+* [Chrome Using Swap Memory Fix](/articles/chrome-using-swap-memory-fix/)
+* [Chrome Lighthouse Treemap Explained](/articles/chrome-lighthouse-treemap-explained/)
 
-- [chrome voice control navigate by speaking](/articles/chrome-voice-control-navigate-by-speaking)
-- [Chrome Font Palette Customization: Complete Guide for 2026](/articles/chrome-font-palette-customization)
-- [Chrome for Autofill Credit Card Safety](/articles/chrome-for-autofill-credit-card-safety)

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Permissions on Startup How to Configure
-description: Learn how to configure Chrome permissions on startup. Simple steps to control what sites can access when Chrome launches. Learn effective tips and tricks to ...
+description: Learn how to configure Chrome permissions on startup. Simple steps to
+  control what sites can access when Chrome launches. Learn effective tips and tricks
+  to ...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-permissions-on-startup-how-to-configure
@@ -80,10 +82,9 @@ The key is to be proactive rather than reactive. Instead of just clicking "allow
 ---
 
 ## Related Articles
-- [Chrome for Proxy Settings How to Configure](/chrome-for-proxy-settings-how-to-configure)
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-- [Chrome Permissions on Android How to Manage](/chrome-permissions-on-android-how-to-manage)
-
+* [Chrome Push Notifications Web Apps: Complete Guide](/articles/chrome-push-notifications-web-apps/)
+* [Chrome Compact Mode How to Enable](/articles/chrome-compact-mode-how-to-enable/)
+* [Chrome for Tor Browsing Is It Possible](/articles/chrome-for-tor-browsing-is-it-possible/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

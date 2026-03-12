@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Sidebar Bookmarks How to Enable
-description: Want to enable sidebar bookmarks in Chrome? Learn the built-in options and extensions that give you a convenient bookmarks sidebar. Read our comprehensive guide
+description: Want to enable sidebar bookmarks in Chrome? Learn the built-in options
+  and extensions that give you a convenient bookmarks sidebar. Read our comprehensive
+  guide
 date: 2026-01-15
 categories:
 - how-to
@@ -86,7 +88,7 @@ Give a bookmark sidebar extension a try for a week and see how it changes your b
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extension for Taking Notes While Browsing](/articles/chrome-extension-for-taking-notes-while-browsing/)
+* [How to Make Chrome Open Links in a New Tab](/articles/how-to-make-chrome-open-links-in-new-tab/)
+* [Chrome Extensions for Pinterest](/articles/chrome-extensions-for-pinterest/)
 
-- [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes)
-- [Chrome Custom Fonts How to Change](/articles//chrome-custom-fonts-how-to-change/)
-- [Chrome Devtools Screenshot Full Page](/articles/chrome-devtools-screenshot-full-page)

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Subresource Integrity Explained
-description: Learn what Chrome subresource integrity is, why it matters for your browsing security, and what to do when it causes problems. Read our comprehensive guide to l
+description: Learn what Chrome subresource integrity is, why it matters for your browsing
+  security, and what to do when it causes problems. Read our comprehensive guide to
+  l
 date: 2025-03-10
 categories:
 - security
@@ -68,7 +70,7 @@ The next time you see a subresource integrity error, remember that Chrome is act
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Move Chrome Tabs Between Windows Easily](/articles/how-to-move-chrome-tabs-between-windows-easily/)
+* [Chrome for MasterClass Web Tips](/articles/chrome-for-masterclass-web-tips/)
+* [Chrome vs Safari on Mac — Which Uses Less Battery?](/articles/chrome-vs-safari-on-mac-battery/)
 
-- [Chrome Profile Import From Another Computer](/articles/chrome-profile-import-from-another-computer)
-- [Chrome Passkeys Explained for Beginners](/articles/chrome-passkeys-explained-for-beginners)
-- [Chrome for Clearing Browsing Data Automatically](/articles/chrome-for-clearing-browsing-data-automatically)

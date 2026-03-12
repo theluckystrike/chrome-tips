@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Font Size How to Change Permanently
-description: Learn how to change Chrome font size permanently with simple settings and extensions for consistent readability across all websites. Find out more tips on ho...
+description: Learn how to change Chrome font size permanently with simple settings
+  and extensions for consistent readability across all websites. Find out more tips
+  on ho...
 date: '2026-03-09'
 last_modified_at: '2026-03-12'
 permalink: chrome-font-size-how-to-change-permanently
@@ -65,7 +67,7 @@ Once you find the combination that works for you, the days of manually zooming i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions Keep Disabling Themselves Fix](/articles/chrome-extensions-keep-disabling-themselves-fix/)
+* [Chrome Text to Speech Built In Features](/articles/chrome-text-to-speech-built-in-features/)
+* [Chrome Open History Page Shortcut](/articles/chrome-open-history-page-shortcut/)
 
-- [Chrome Spotify Web Player Not Working Fix](/articles/chrome-spotify-web-player-not-working-fix)
-- [Chrome Accessibility Tree Guide](/articles/chrome-accessibility-tree-guide)
-- [Why Is Chrome Slower Than Firefox?](/articles/why-is-chrome-slower-than-firefox)

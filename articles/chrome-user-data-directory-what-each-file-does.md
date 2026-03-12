@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome User Data Directory: What Each File Does"
-description: "Understand what each file and folder in Chrome's user data directory contains, from history to extensions, and learn how to manage them effectively. Read our..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-user-data-directory-what-each-file-does"
-categories: "[chrome, tips, troubleshooting]"
-tags: "[chrome-user-data, browser-files, chrome-directory, troubleshooting]"
-author: "theluckystrike"
+layout: post
+title: 'Chrome User Data Directory: What Each File Does'
+description: Understand what each file and folder in Chrome's user data directory
+  contains, from history to extensions, and learn how to manage them effectively.
+  Read our...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-user-data-directory-what-each-file-does
+categories: '[chrome, tips, troubleshooting]'
+tags: '[chrome-user-data, browser-files, chrome-directory, troubleshooting]'
+author: theluckystrike
 ---
 # Chrome User Data Directory: What Each File Does
 
@@ -108,10 +110,9 @@ The Chrome User Data Directory is the backbone of your browsing experience. Each
 Whether you're recovering from a crash, clearing out accumulated cache, or just curious about how Chrome works, knowing your way around this directory is a valuable skill for any Chrome user.
 
 ## Related Articles
-- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
-- [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)
-- [Chrome User Agent String: What It Is and How It Works](/chrome-user-agent-string-what-it-is)
-
+* [Chrome Content Filtering for Families](/articles/chrome-content-filtering-for-families/)
+* [Best Chrome Extensions For Teachers Online](/articles/best-chrome-extensions-for-teachers-online/)
+* [Chrome Snap Scroll CSS Explained](/articles/chrome-snap-scroll-css-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

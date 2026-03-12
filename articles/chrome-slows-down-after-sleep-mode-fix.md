@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Slows Down After Sleep Mode Fix
-description: Chrome running slow after your computer wakes from sleep? Learn why this happens and how to fix it quickly. Read our comprehensive guide to learn more and impro
+description: Chrome running slow after your computer wakes from sleep? Learn why this
+  happens and how to fix it quickly. Read our comprehensive guide to learn more and
+  impro
 permalink: chrome-slows-down-after-sleep-mode-fix
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
@@ -73,7 +75,7 @@ As a last resort, you might want to check if there are any background processes 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Loom Screen Recording Tips](/articles/chrome-for-loom-screen-recording-tips/)
+* [How to Auto Create and Organize Chrome Tab Groups](/articles/chrome-tab-groups-auto-create-organize/)
+* [chrome how to add trusted sites](/articles/chrome-how-to-add-trusted-sites/)
 
-- [Chrome Coverage Tool Guide](/articles/chrome-coverage-tool-guide)
-- [Chrome Shadow DOM What It Is](/articles/chrome-shadow-dom-what-it-is)
-- [chrome experimental features list 2026](/articles/chrome-experimental-features-list-2026)

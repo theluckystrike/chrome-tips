@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "chrome google lens integration how to use"
-description: "Learn how to use Google Lens integration in Chrome to search images, translate text, and identify objects directly from your browser. Check out our expert reco"
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-google-lens-integration-how-to-use"
-categories: [features, integration]
-tags: [google-lens, image-search, chrome-features, visual-search]
-author: "theluckystrike"
+layout: post
+title: chrome google lens integration how to use
+description: Learn how to use Google Lens integration in Chrome to search images,
+  translate text, and identify objects directly from your browser. Check out our expert
+  reco
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-google-lens-integration-how-to-use
+categories:
+- features
+- integration
+tags:
+- google-lens
+- image-search
+- chrome-features
+- visual-search
+author: theluckystrike
 ---
 # Chrome Google Lens Integration How to Use
 
@@ -74,7 +82,7 @@ Keeping your browser configured for your specific needs makes all the built-in f
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Text to Speech Built In Feature](/articles/chrome-text-to-speech-built-in-feature/)
+* [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization/)
+* [Chrome OS vs Windows for Everyday Use](/articles/chrome-os-vs-windows-for-everyday-use/)
 
-- [Chrome for Forest Focus Timer Extension](/articles/chrome-for-forest-focus-timer-extension)
-- [Chrome Spell Check Adding Custom Words](/articles/chrome-spell-check-adding-custom-words)
-- [Best Privacy Settings For Chrome 2026](/articles/best-privacy-settings-for-chrome-2026)

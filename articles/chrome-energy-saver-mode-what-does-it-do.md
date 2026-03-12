@@ -1,13 +1,15 @@
 ---
-title: "Chrome Energy Saver Mode What Does It Do"
-description: "Chrome Energy Saver reduces battery drain by limiting background tab Check out our expert recommendations and step-by-step instructions to get the most out of y"
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-energy-saver-mode-what-does-it-do"
-layout: "post"
-categories: ""
-tags: ""
-author: "theluckystrike"
+title: Chrome Energy Saver Mode What Does It Do
+description: Chrome Energy Saver reduces battery drain by limiting background tab
+  Check out our expert recommendations and step-by-step instructions to get the most
+  out of y
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-energy-saver-mode-what-does-it-do
+layout: post
+categories: ''
+tags: ''
+author: theluckystrike
 ---
 # Chrome Energy Saver Mode What Does It Do
 
@@ -74,10 +76,9 @@ Try turning it on and see how it works for you. You might be surprised at how mu
 ---
 
 ## Related Articles
-- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
-- [Chrome Pin Tab What It Does Explained](/chrome-pin-tab-what-it-does-explained)
-- [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)
-
+* [Chrome User Agent String: What It Is and How It Works](/articles/chrome-user-agent-string-what-it-is/)
+* [Chrome Shared Storage API Explained](/articles/chrome-shared-storage-api-explained/)
+* [Chrome Game Streaming Optimization Tips](/articles/chrome-game-streaming-optimization-tips/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

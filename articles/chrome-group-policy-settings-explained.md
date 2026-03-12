@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "Chrome Group Policy Settings Explained"
-description: "Learn what Chrome group policy settings are, why they matter, and how to configure them for better browser control. Check out our expert recommendations and ti"
-date: "2025-02-20"
-last_modified_at: "2026-03-09"
-permalink: "chrome-group-policy-settings-explained"
-categories: [settings, enterprise]
-tags: [group-policy, chrome-settings, browser-configuration]
-author: "theluckystrike"
+layout: post
+title: Chrome Group Policy Settings Explained
+description: Learn what Chrome group policy settings are, why they matter, and how
+  to configure them for better browser control. Check out our expert recommendations
+  and ti
+date: '2025-02-20'
+last_modified_at: '2026-03-09'
+permalink: chrome-group-policy-settings-explained
+categories:
+- settings
+- enterprise
+tags:
+- group-policy
+- chrome-settings
+- browser-configuration
+author: theluckystrike
 ---
 # Chrome Group Policy Settings Explained
 
@@ -64,7 +71,7 @@ If you have any questions about specific policies you are seeing, your best reso
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Web Apps vs Native Apps Comparison](/articles/chrome-web-apps-vs-native-apps-comparison/)
+* [Chrome Service Worker What It Does Explained](/articles/chrome-service-worker-what-it-does-explained/)
+* [chrome extensions for teachers 2026](/articles/chrome-extensions-for-teachers-2026/)
 
-- [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy)
-- [Chrome Browser Cloud Management Explained](/articles/chrome-browser-cloud-management-explained)
-- [Best Free Chrome Extensions 2026](/articles/best-free-chrome-extensions-2026)

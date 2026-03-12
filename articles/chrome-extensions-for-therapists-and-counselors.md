@@ -1,15 +1,23 @@
 ---
 layout: post
-title: "Chrome Extensions for Therapists and Counselors"
-description: "Discover Chrome extensions that help therapists and counselors manage their practice, protect client data, and improve productivity. Read our comprehensive g..."
+title: Chrome Extensions for Therapists and Counselors
+description: Discover Chrome extensions that help therapists and counselors manage
+  their practice, protect client data, and improve productivity. Read our comprehensive
+  g...
 date: 2026-01-15
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-therapists-and-counselors
-categories: [productivity, extensions, mental-health]
-tags: [chrome-extensions, productivity, therapy, counseling, mental-health]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-therapists-and-counselors
+categories:
+- productivity
+- extensions
+- mental-health
+tags:
+- chrome-extensions
+- productivity
+- therapy
+- counseling
+- mental-health
+author: theluckystrike
 ---
 # Chrome Extensions for Therapists and Counselors
 
@@ -66,7 +74,7 @@ Remember that extensions are meant to support your work, not complicate it. If a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome site notifications stop all](/articles/chrome-site-notifications-stop-all/)
+* [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does/)
+* [chrome webgpu gaming in browser future](/articles/chrome-webgpu-gaming-in-browser-future/)
 
-- [chrome site isolation what it does](/articles/chrome-site-isolation-what-it-does)
-- [Chrome for Email Marketing Best Extensions](/articles/chrome-for-email-marketing-best-extensions)
-- [Best Chrome Setup For Graphic Designers](/articles/best-chrome-setup-for-graphic-designers)

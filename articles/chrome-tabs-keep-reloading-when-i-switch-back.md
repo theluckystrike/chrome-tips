@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Tabs Keep Reloading When I Switch Back"
-description: "Is Chrome reloading your tabs every time you switch back to them? This guide explains why this happens and provides practical fixes for users with slow compu..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-tabs-keep-reloading-when-i-switch-back"
-categories: "[performance, chrome, troubleshooting]"
-tags: "[chrome-tabs, tab-reloading, chrome-performance, memory-saver, chrome-tips]"
-author: "theluckystrike"
+layout: post
+title: Chrome Tabs Keep Reloading When I Switch Back
+description: Is Chrome reloading your tabs every time you switch back to them? This
+  guide explains why this happens and provides practical fixes for users with slow
+  compu...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-tabs-keep-reloading-when-i-switch-back
+categories: '[performance, chrome, troubleshooting]'
+tags: '[chrome-tabs, tab-reloading, chrome-performance, memory-saver, chrome-tips]'
+author: theluckystrike
 ---
 # Chrome Tabs Keep Reloading When I Switch Back
 
@@ -102,10 +104,9 @@ To fix Chrome tabs reloading when you switch back, try these steps in order:
 Remember that some tab reloading is normal and actually helps your computer run more smoothly. The goal is to find the right balance so that tabs do not reload too often while still keeping your browser responsive.
 
 ## Related Articles
-- [Chrome Mobile Tabs Too Many How to Manage](/chrome-mobile-tabs-too-many-how-to-manage)
-- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
-- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
-
+* [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained/)
+* [Chromebook External Monitor How to Connect](/articles/chromebook-external-monitor-how-to-connect/)
+* [Chrome Sensors Emulation How to Use](/articles/chrome-sensors-emulation-how-to-use/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

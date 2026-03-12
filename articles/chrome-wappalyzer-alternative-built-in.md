@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Wappalyzer Alternative Built In"
-description: "Discover built-in Chrome features that identify websites without extensions. Learn how to check what technology any site uses. Read our comprehensive guide t..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-wappalyzer-alternative-built-in"
-categories: "[tips, tools]"
-tags: "[chrome, website-analysis, built-in-features]"
-author: "theluckystrike"
+layout: post
+title: Chrome Wappalyzer Alternative Built In
+description: Discover built-in Chrome features that identify websites without extensions.
+  Learn how to check what technology any site uses. Read our comprehensive guide t...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-wappalyzer-alternative-built-in
+categories: '[tips, tools]'
+tags: '[chrome, website-analysis, built-in-features]'
+author: theluckystrike
 ---
 # Chrome Wappalyzer Alternative Built In
 
@@ -64,7 +65,7 @@ The next time you wonder what technology powers a website, try opening Developer
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome offline mode how to browse without internet](/articles/chrome-offline-mode-how-to-browse-without-internet/)
+* [Chrome Back Forward Cache Explained](/articles/chrome-back-forward-cache-explained/)
+* [Chrome WebGL Not Working Fix](/articles/chrome-webgl-not-working-fix/)
 
-- [chrome web share api how it works](/articles/chrome-web-share-api-how-it-works)
-- [Chrome Browser Games Performance Tips](/articles/chrome-browser-games-performance-tips)
-- [Chrome Says Not Secure But Site Is Safe](/articles/chrome-says-not-secure-but-site-is-safe)

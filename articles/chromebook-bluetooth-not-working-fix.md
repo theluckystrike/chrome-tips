@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "chromebook bluetooth not working fix"
-description: "Bluetooth not working on your Chromebook? Try these simple solutions to get your wireless connections working again. We cover common fixes. Read our comprehe..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chromebook-bluetooth-not-working-fix"
-categories: "[troubleshooting, chromebook]"
-tags: "[chromebook, bluetooth, fix, troubleshooting, wireless]"
-author: "theluckystrike"
+layout: post
+title: chromebook bluetooth not working fix
+description: Bluetooth not working on your Chromebook? Try these simple solutions
+  to get your wireless connections working again. We cover common fixes. Read our
+  comprehe...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chromebook-bluetooth-not-working-fix
+categories: '[troubleshooting, chromebook]'
+tags: '[chromebook, bluetooth, fix, troubleshooting, wireless]'
+author: theluckystrike
 ---
 # Chromebook Bluetooth Not Working Fix
 
@@ -98,7 +100,7 @@ Before giving up, remember that most Bluetooth problems can be solved with the s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Screen Sharing in Browser How To](/articles/chrome-screen-sharing-in-browser-how-to/)
+* [Chrome Crashing on Low Memory Computer](/articles/chrome-crashing-on-low-memory-computer/)
+* [Chrome Zoom Too Big How to Fix](/articles/chrome-zoom-too-big-how-to-fix/)
 
-- [Chrome Beacon API for Analytics](/articles/chrome-beacon-api-for-analytics)
-- [Chrome Slows Down After Sleep Mode Fix](/articles/chrome-slows-down-after-sleep-mode-fix)
-- [Chrome Default Download Location How to Set](/articles//chrome-default-download-location-how-to-set/)

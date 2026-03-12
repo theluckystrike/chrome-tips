@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for YouTube Thumbnail Preview"
-description: "Want to preview YouTube video thumbnails before clicking? Learn how extensions let you see larger thumbnails and video details instantly. Read our comprehens..."
+title: Chrome Extensions for YouTube Thumbnail Preview
+description: Want to preview YouTube video thumbnails before clicking? Learn how extensions
+  let you see larger thumbnails and video details instantly. Read our comprehens...
 date: 2026-03-10
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-youtube-thumbnail-preview
-categories: [productivity, tips]
-tags: [youtube, chrome-extensions, thumbnails, video]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-youtube-thumbnail-preview
+categories:
+- productivity
+- tips
+tags:
+- youtube
+- chrome-extensions
+- thumbnails
+- video
+author: theluckystrike
 ---
 # Chrome Extensions for YouTube Thumbnail Preview
 
@@ -62,7 +67,7 @@ Most thumbnail preview extensions are free and work automatically once installed
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips/)
+* [How to Limit Chrome Extension Permissions](/articles/how-to-limit-chrome-extension-permissions/)
+* [Chrome Best Settings for Gaming](/articles/chrome-best-settings-for-gaming/)
 
-- [How to Clear Cookies for One Site in Chrome](/articles/how-to-clear-cookies-for-one-site-in-chrome)
-- [Chrome Save Open Tabs as Bookmarks All at Once](/articles/chrome-save-open-tabs-as-bookmarks-all-at-once)
-- [How to Enable Chrome Tab Preview on Hover](/articles/chrome-tab-preview-hover-how-to-enable)

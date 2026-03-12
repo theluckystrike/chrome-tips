@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Weather Forecast New Tab"
-description: "Discover how Chrome extensions can transform your new tab into a weather dashboard, keeping you prepared every day. Read our comprehensive guide to learn mor..."
+title: Chrome Extensions for Weather Forecast New Tab
+description: Discover how Chrome extensions can transform your new tab into a weather
+  dashboard, keeping you prepared every day. Read our comprehensive guide to learn
+  mor...
 date: 2026-03-10
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-weather-forecast-new-tab
-categories: [weather, tips]
-tags: [chrome-extensions, weather, productivity]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-weather-forecast-new-tab
+categories:
+- weather
+- tips
+tags:
+- chrome-extensions
+- weather
+- productivity
+author: theluckystrike
 ---
 # Chrome Extensions for Weather Forecast New Tab
 
@@ -70,7 +75,7 @@ Think about how you use weather information. If you only need a quick glance at 
 Having weather visible on your new tab removes the friction of actively seeking out this information. Over time, this small convenience adds up to meaningful time savings and ensures you are always prepared for whatever weather comes your way.
 
 ## Related Articles
+* [Chrome for Rain Sounds Background](/articles/chrome-for-rain-sounds-background/)
+* [Chrome Recorder Panel Guide](/articles/chrome-recorder-panel-guide/)
+* [Chrome Extension Marketing Tips to Grow Your User Base](/articles/chrome-extension-marketing-tips-grow-users/)
 
-- [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix)
-- [Chrome Font Fingerprinting Explained and Fix](/articles/chrome-font-fingerprinting-explained-and-fix)
-- [Chrome chrome.alarms API for Scheduled Tasks](/articles//articles/chrome-chrome.alarms-scheduled-tasks/)

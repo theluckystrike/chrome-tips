@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "How to Group Tabs by Color in Chrome: A Complete Guide"
-description: "Learn how to organize your Chrome tabs using color groups. This practical guide shows step-by-step methods to color-code tabs for better productivity and eas..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-group-tabs-by-color-organize"
-categories: [chrome, tabs, productivity]
-tags: [chrome-tabs, tab-groups, browser-tips, productivity]
-author: "theluckystrike"
+layout: post
+title: 'How to Group Tabs by Color in Chrome: A Complete Guide'
+description: Learn how to organize your Chrome tabs using color groups. This practical
+  guide shows step-by-step methods to color-code tabs for better productivity and
+  eas...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-group-tabs-by-color-organize
+categories:
+- chrome
+- tabs
+- productivity
+tags:
+- chrome-tabs
+- tab-groups
+- browser-tips
+- productivity
+author: theluckystrike
 ---
 # How to Group Tabs by Color in Chrome: A Complete Guide
 
@@ -90,10 +99,9 @@ Start small—create a few groups for your most common workflows and see how muc
 ---
 
 ## Related Articles
-- [Chrome Keeps Opening New Tabs By Itself Virus](/chrome-keeps-opening-new-tabs-by-itself-virus)
-- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
-- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
-
+* [chrome for banking online security tips](/articles/chrome-for-banking-online-security-tips/)
+* [Chrome Subgrid Layout Examples: A Complete Guide](/articles/chrome-subgrid-layout-examples/)
+* [Chrome Default Apps Settings: A Complete Guide](/articles//chrome-default-apps-settings//)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

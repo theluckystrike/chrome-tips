@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Gantt Chart"
-description: "Find the best Chrome extensions for Gantt chart creation and project timeline management to streamline your workflow. Check out our expert recommendations..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-gantt-chart"
-layout: "post"
-categories: "[productivity, project-management, tips]"
-tags: "[chrome-extensions, gantt-chart, project-management, browser-tools]"
-author: "theluckystrike"
+title: Chrome Extensions for Gantt Chart
+description: Find the best Chrome extensions for Gantt chart creation and project
+  timeline management to streamline your workflow. Check out our expert recommendations...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-gantt-chart
+layout: post
+categories: '[productivity, project-management, tips]'
+tags: '[chrome-extensions, gantt-chart, project-management, browser-tools]'
+author: theluckystrike
 ---
 # Chrome Extensions for Gantt Chart
 
@@ -68,7 +69,7 @@ Once you install an extension, take some time to explore its features and settin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Password Checkup What It Does](/articles/chrome-password-checkup-what-it-does/)
+* [Chrome Hardware Acceleration Gaming: Complete Optimization Guide](/articles/chrome-hardware-acceleration-gaming/)
+* [Best Chrome Extensions for Online Research](/articles/chrome-extensions-for-online-research/)
 
-- [Chrome Web MIDI API for Musicians](/articles/chrome-web-midi-api-for-musicians)
-- [chrome recently closed tabs shortcut](/articles/chrome-recently-closed-tabs-shortcut)
-- [Chrome for Amazon Prime Video Quality Settings](/articles/chrome-for-amazon-prime-video-quality-settings)

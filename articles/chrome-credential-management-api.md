@@ -1,15 +1,24 @@
 ---
-title: "Chrome Credential Management API: Complete Guide for Developers"
-description: "Learn how to implement the Chrome Credential Management API for secure password storage, automatic login, and seamless user authentication in your web applic..."
-date: "2026-03-11"
-last_modified_at: '2026-03-12'
-permalink: "chrome-credential-management-api"
-layout: post
-categories: ['development', 'security', 'authentication']
-tags: ['chrome-credential-management-api', 'web-authentication', 'passwords', 'security', 'browsers', 'api']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: 'Chrome Credential Management API: Complete Guide for Developers'
+description: Learn how to implement the Chrome Credential Management API for secure
+  password storage, automatic login, and seamless user authentication in your web
+  applic...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
 permalink: chrome-credential-management-api
+layout: post
+categories:
+- development
+- security
+- authentication
+tags:
+- chrome-credential-management-api
+- web-authentication
+- passwords
+- security
+- browsers
+- api
+author: theluckystrike
 ---
 # Chrome Credential Management API: Complete Guide for Developers
 
@@ -133,10 +142,9 @@ Implementing the chrome credential management api is straightforward and well-do
 Remember to always prioritize security, provide appropriate fallbacks for unsupported browsers, and respect user preferences regarding credential storage. With proper implementation, the chrome credential management api can become a valuable part of your authentication strategy.
 
 ## Related Articles
-- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
-- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
-
+* [Chrome for Proxy Settings How to Configure](/articles/chrome-for-proxy-settings-how-to-configure/)
+* [Chrome Zoom Level How to Set Default](/articles/chrome-zoom-level-how-to-set-default/)
+* [Chrome Translate Entire Page How To](/articles/chrome-translate-entire-page-how-to/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

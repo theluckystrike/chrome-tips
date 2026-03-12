@@ -1,15 +1,22 @@
 ---
-title: "Chrome Command Line Flags for Low Memory: A Practical Guide"
-description: "Running Chrome on a slow computer with limited RAM? Learn the best command line flags to reduce memory usage and speed up your browser. Read our full guide to m"
-date: "2026-01-15"
-last_modified_at: '2026-03-12'
-permalink: "chrome-command-line-flags-for-low-memory"
-layout: post
-categories: ['performance', 'chrome', 'memory']
-tags: ['chrome-flags', 'low-memory', 'browser-optimization', 'command-line']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: 'Chrome Command Line Flags for Low Memory: A Practical Guide'
+description: Running Chrome on a slow computer with limited RAM? Learn the best command
+  line flags to reduce memory usage and speed up your browser. Read our full guide
+  to m
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
 permalink: chrome-command-line-flags-for-low-memory
+layout: post
+categories:
+- performance
+- chrome
+- memory
+tags:
+- chrome-flags
+- low-memory
+- browser-optimization
+- command-line
+author: theluckystrike
 ---
 # Chrome Command Line Flags for Low Memory: A Practical Guide
 
@@ -164,10 +171,9 @@ Chrome command line flags offer real solutions for users with limited RAM. The r
 Start with the renderer process limit flag, test it, and gradually add more flags as needed. Every system is different, so find the combination that works best for your specific setup.
 
 ## Related Articles
-- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Flags for Speed Optimization](/chrome-flags-for-speed-optimization)
-
+* [chrome themes how to change and customize](/articles/chrome-themes-how-to-change-and-customize/)
+* [Chrome Google Drive Integration Save to Drive](/articles/chrome-google-drive-integration-save-to-drive/)
+* [Chrome Encrypted DNS Explained for Beginners](/articles/chrome-encrypted-dns-explained-for-beginners/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

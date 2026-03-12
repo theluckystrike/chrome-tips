@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Passkeys Explained for Beginners
-description: What are Chrome passkeys and how do they work? A simple guide to understanding passkeys in Google Chrome for beginners. Learn effective tips and tricks to op...
+description: What are Chrome passkeys and how do they work? A simple guide to understanding
+  passkeys in Google Chrome for beginners. Learn effective tips and tricks to op...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-passkeys-explained-for-beginners
@@ -79,10 +80,9 @@ Remember that passkeys are optional, and you can always fall back to your passwo
 The shift to passkeys is still in its early stages, but it represents a significant step forward in making our online lives more secure while also more convenient. By understanding how passkeys work, you can make informed decisions about when and how to use them.
 
 ## Related Articles
-- [Chrome Cache API Tutorial for Beginners](/chrome-cache-api-tutorial-for-beginners)
-- [Chrome Encrypted DNS Explained for Beginners](/chrome-encrypted-dns-explained-for-beginners)
-- [Chrome Flags Explained for Beginners](/chrome-flags-explained-for-beginners)
-
+* [Chrome Headless Mode What It Is](/articles/chrome-headless-mode-what-it-is/)
+* [Chrome Dyslexia Friendly Extensions](/articles/chrome-dyslexia-friendly-extensions/)
+* [Chrome Tab Management Shortcuts Cheat Sheet](/articles/chrome-tab-management-shortcuts-cheat-sheet/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

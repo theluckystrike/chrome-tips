@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Productivity Dashboard"
-description: "Discover Chrome extensions for productivity dashboard to organize your workflow and get more done. Check out our expert recommendations and tips to enhance..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-productivity-dashboard"
-layout: "post"
-categories: "[productivity, tips]"
-tags: "[chrome-extensions, productivity, dashboard, browser-tools]"
-author: "theluckystrike"
+title: Chrome Extensions for Productivity Dashboard
+description: Discover Chrome extensions for productivity dashboard to organize your
+  workflow and get more done. Check out our expert recommendations and tips to enhance...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-productivity-dashboard
+layout: post
+categories: '[productivity, tips]'
+tags: '[chrome-extensions, productivity, dashboard, browser-tools]'
+author: theluckystrike
 ---
 # Chrome Extensions for Productivity Dashboard
 
@@ -88,7 +89,7 @@ Once you have your dashboard set up, you will find it easier to stay focused, pr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Flexbox Inspector How to Use](/articles/chrome-flexbox-inspector-how-to-use/)
+* [Chrome ERR_BLOCKED_BY_CLIENT Fix](/articles/chrome-err-blocked-by-client-fix/)
+* [Best Browser for Old MacBook 2026](/articles/best-browser-for-old-macbook-2026/)
 
-- [How to Enable Chrome Tab Hover Previews](/articles/how-to-enable-chrome-tab-hover-previews)
-- [Chrome Extensions for Meta Tag Analyzer](/articles/chrome-extensions-for-meta-tag-analyzer)
-- [Chrome This Site Cant Provide a Secure Connection Fix](/articles/chrome-this-site-cant-provide-a-secure-connection-fix)

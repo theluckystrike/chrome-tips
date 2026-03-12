@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Form Auto Filler"
-description: "Discover how chrome extensions for form auto filler can save you time Check out our expert recommendations and tips to enhance your browsing experience..."
-date: "2026-03-10"
-last_modified_at: "2026-03-11"
-permalink: "chrome-extensions-for-form-auto-filler"
-layout: "post"
-categories: ""
-tags: ""
-author: "theluckystrike"
+title: Chrome Extensions for Form Auto Filler
+description: Discover how chrome extensions for form auto filler can save you time
+  Check out our expert recommendations and tips to enhance your browsing experience...
+date: '2026-03-10'
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-form-auto-filler
+layout: post
+categories: ''
+tags: ''
+author: theluckystrike
 ---
 # Chrome Extensions for Form Auto Filler
 
@@ -62,7 +63,7 @@ While we are discussing browser extensions that make your life easier, it is wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome source maps debug minified code](/articles/chrome-source-maps-debug-minified-code/)
+* [Best Chrome Extensions for Project Managers](/articles/best-chrome-extensions-for-project-managers/)
+* [chrome recently closed tabs how to reopen](/articles/chrome-recently-closed-tabs-how-to-reopen/)
 
-- [chrome how to add trusted sites](/articles/chrome-how-to-add-trusted-sites)
-- [Chrome Extensions for Site Permissions Manager](/articles/chrome-extensions-for-site-permissions-manager)
-- [Chrome Local Storage How to Clear for One Site](/articles/chrome-local-storage-how-to-clear-for-one-site)

@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Window Size Not Saving Fix"
-description: "Is Chrome forgetting your window size every time you reopen it? Learn why this happens and how to fix it with simple solutions. Read our comprehensive guide ..."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-window-size-not-saving-fix"
-categories: "[troubleshooting, interface]"
-tags: "[chrome-window, window-size, browser-settings, resize-problem]"
-author: "theluckystrike"
+layout: post
+title: Chrome Window Size Not Saving Fix
+description: Is Chrome forgetting your window size every time you reopen it? Learn
+  why this happens and how to fix it with simple solutions. Read our comprehensive
+  guide ...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-window-size-not-saving-fix
+categories: '[troubleshooting, interface]'
+tags: '[chrome-window, window-size, browser-settings, resize-problem]'
+author: theluckystrike
 ---
 # Chrome Window Size Not Saving Fix
 
@@ -86,7 +88,7 @@ If you have tried all these steps and the problem persists, or if you want to pr
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Managed by Organization Message Fix](/articles/chrome-managed-by-organization-message-fix/)
+* [Chrome for WhatsApp Web Tips and Tricks](/articles/chrome-for-whatsapp-web-tips-and-tricks/)
+* [Chrome vs Safari for iPhone Which is Better](/articles/chrome-vs-safari-for-iphone-which-is-better/)
 
-- [Chrome Extensions for Meditation](/articles/chrome-extensions-for-meditation)
-- [How to Pin a Website in Chrome Taskbar](/articles/how-to-pin-a-website-in-chrome-taskbar)
-- [Chrome for Khan Academy Best Settings](/articles/chrome-for-khan-academy-best-settings)

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for MasterClass Web Tips
-description: Improve your MasterClass experience in Chrome. Memory-saving tips, tab management, and productivity tricks for online learning. Discover more tips and tricks
+description: Improve your MasterClass experience in Chrome. Memory-saving tips, tab
+  management, and productivity tricks for online learning. Discover more tips and
+  tricks
 date: 2026-01-15
 categories:
 - productivity
@@ -70,7 +72,7 @@ The Chrome task manager is a useful tool for identifying what might be distracti
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome WebGL Crashing Fix](/articles/chrome-webgl-crashing-fix/)
+* [Does Having Many Chrome Extensions Slow Down Browser](/articles/does-having-many-chrome-extensions-slow-down-browser/)
+* [Chrome Extensions for YouTube Thumbnail Preview](/articles/chrome-extensions-for-youtube-thumbnail-preview/)
 
-- [chrome reduce data usage on mobile](/articles/chrome-reduce-data-usage-on-mobile)
-- [Chrome Lite Mode Does It Still Exist](/articles/chrome-lite-mode-does-it-still-exist)
-- [Chrome Network Waterfall How to Read](/articles/chrome-network-waterfall-how-to-read)

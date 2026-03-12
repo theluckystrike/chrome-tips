@@ -4,13 +4,17 @@ title: Chrome Extensions for Vertical Tab Bar
 description: Looking for chrome extensions for vertical tab bar? Discover extensions
   that move your tabs to the side for better organization and more screen space.
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-vertical-tab-bar
-categories: [productivity, tips]
-tags: [tabs, vertical-tabs, chrome-extensions, productivity]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-vertical-tab-bar
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- vertical-tabs
+- chrome-extensions
+- productivity
+author: theluckystrike
 ---
 # Chrome Extensions for Vertical Tab Bar
 
@@ -81,7 +85,7 @@ You might find that you prefer having your vertical tab bar on the left side, or
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome How to Print Selection Only](/articles/chrome-how-to-print-selection-only/)
+* [Chrome Android Dark Mode How to Enable](/articles/chrome-android-dark-mode-how-to-enable/)
+* [Chrome Passkeys How to Set Up and Use](/articles/chrome-passkeys-how-to-set-up-and-use/)
 
-- [Chrome Accessibility Features Guide: Everything You Need to Know](/articles/chrome-accessibility-features-guide)
-- [Chrome Multiple Profiles How to Switch Quickly](/articles/chrome-multiple-profiles-how-to-switch-quickly)
-- [Chrome Privacy Error Your Connection Is Not Private Fix](/articles/chrome-privacy-error-your-connection-is-not-private-fix)

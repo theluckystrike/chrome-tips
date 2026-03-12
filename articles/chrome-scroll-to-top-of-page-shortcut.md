@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Scroll to Top of Page Shortcut
-description: Learn the fastest ways to scroll to the top of any webpage in Chrome using simple keyboard shortcuts. Read our comprehensive guide to learn more and improve you
+description: Learn the fastest ways to scroll to the top of any webpage in Chrome
+  using simple keyboard shortcuts. Read our comprehensive guide to learn more and
+  improve you
 permalink: chrome-scroll-to-top-of-page-shortcut
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
@@ -63,16 +65,8 @@ If you frequently have dozens of tabs open and find your browser lagging while y
 Using **Tab Suspender Pro** is an excellent way to keep your browser responsive. It automatically "hibernates" background tabs, freeing up resources so your active page stays smooth. This ensures that your **keyboard shortcuts** and **smooth scrolling** work instantly, providing a much more fluid browsing experience when navigating long articles.
 
 ## Related Articles
-- [How to Use Chrome Translate Page](/chrome-translate-page-how-to-use)
-- [Chrome Mobile Save Page Offline How To](/chrome-mobile-save-page-offline-how-to)
-- [Chrome Open Downloads Page Shortcut](/chrome-open-downloads-page-shortcut)
-
+* [Chrome for iPad Tips and Tricks](/articles/chrome-for-ipad-tips-and-tricks/)
+* [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/articles/chrome-autofill-wrong-address-keeps-appearing/)
+* [Chrome Unicode Symbols How to Insert](/articles/chrome-unicode-symbols-how-to-insert/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
-
-## Related Articles
-
-- [Chrome DevTools Changes Panel to Track Edits](/articles//chrome-devtools-changes-panel-track-edits/)
-- [Chrome Flags That Actually Help Performance](/articles/chrome-flags-that-actually-help-performance)
-- [Chrome Third Party Cookies What Happens When Blocked](/articles/chrome-third-party-cookies-what-happens-when-blocked)

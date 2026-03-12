@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome WASM WebAssembly Getting Started: A Complete Beginner's Guide"
-description: "Learn chrome wasm webassembly getting started with this comprehensive guide. Discover how to enable WebAssembly, debug WASM modules, and optimize performance..."
-date: "2026-03-11"
-last_modified_at: "2026-03-11"
-permalink: "chrome-wasm-webassembly-getting-started"
-categories: "[development, web-technology, chrome]"
-tags: "[webassembly, wasm, chrome-wasm, programming, chrome-development, browser]"
-author: "theluckystrike"
+layout: post
+title: 'Chrome WASM WebAssembly Getting Started: A Complete Beginner''s Guide'
+description: Learn chrome wasm webassembly getting started with this comprehensive
+  guide. Discover how to enable WebAssembly, debug WASM modules, and optimize performance...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-wasm-webassembly-getting-started
+categories: '[development, web-technology, chrome]'
+tags: '[webassembly, wasm, chrome-wasm, programming, chrome-development, browser]'
+author: theluckystrike
 ---
 # Chrome WASM WebAssembly Getting Started: A Complete Beginner's Guide
 
@@ -135,10 +136,9 @@ The key is to start simple, experiment with the examples provided in this guide,
 WebAssembly represents the future of web development, and learning it now positions you to build faster, more capable web applications. Start experimenting today, and you will see the benefits in your projects sooner than you think.
 
 ## Related Articles
-- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/chrome-wasm-run-desktop-apps-in-browser)
-- [Chrome Cookies Keep Getting Deleted Fix](/chrome-cookies-keep-getting-deleted-fix)
-- [Chrome Performance Getting Worse Over Time](/chrome-performance-getting-worse-over-time)
-
+* [How to Manage Addresses in Chrome Autofill](/articles/chrome-autofill-manage-addresses/)
+* [Chrome Reset vs Reinstall: Which Is Better?](/articles/chrome-reset-vs-reinstall-which-is-better/)
+* [Chrome Keyboard Navigation Tips](/articles/chrome-keyboard-navigation-tips/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

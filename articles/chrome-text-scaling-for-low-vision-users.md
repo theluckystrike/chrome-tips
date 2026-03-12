@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "chrome text scaling for low vision users"
-description: "Learn how to use chrome text scaling for low vision users to make web browsing more comfortable. Simple tips and tools that actually work. Read our comprehen..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-text-scaling-for-low-vision-users"
-categories: "[accessibility, text, low-vision]"
-tags: "[chrome, text-scaling, low-vision, accessibility, browser]"
-author: "theluckystrike"
+layout: post
+title: chrome text scaling for low vision users
+description: Learn how to use chrome text scaling for low vision users to make web
+  browsing more comfortable. Simple tips and tools that actually work. Read our comprehen...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-text-scaling-for-low-vision-users
+categories: '[accessibility, text, low-vision]'
+tags: '[chrome, text-scaling, low-vision, accessibility, browser]'
+author: theluckystrike
 ---
 # Chrome Text Scaling for Low Vision Users
 
@@ -76,7 +77,7 @@ Making the web more readable is not just about convenience. It is about ensuring
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Site Isolation What It Means](/articles/chrome-site-isolation-what-it-means/)
+* [Chrome Site Keeps Asking for Notifications? Here's How to Stop It](/articles/chrome-site-keeps-asking-for-notifications-stop/)
+* [Chrome Passkeys Explained for Beginners](/articles/chrome-passkeys-explained-for-beginners/)
 
-- [Chrome Benchmark Score What It Means](/articles/chrome-benchmark-score-what-it-means)
-- [Chrome Downloads Tips Organize and Manage](/articles/chrome-downloads-tips-organize-and-manage)
-- [Chrome Animation Performance Guide](/articles/chrome-animation-performance)

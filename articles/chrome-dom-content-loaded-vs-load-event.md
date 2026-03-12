@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome DOMContentLoaded vs Load Event"
-description: "Understand the difference between DOMContentLoaded and load events in Chrome. Learn which one fires first and when your page is actually ready. Explore our ..."
+title: Chrome DOMContentLoaded vs Load Event
+description: Understand the difference between DOMContentLoaded and load events in
+  Chrome. Learn which one fires first and when your page is actually ready. Explore
+  our ...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-dom-content-loaded-vs-load-event
@@ -65,7 +67,7 @@ Understanding these two events gives you a better mental model for how Chrome ha
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Subresource Integrity Explained](/articles/chrome-subresource-integrity-explained/)
+* [Chrome Extensions for Ambient Sounds Focus](/articles/chrome-extensions-for-ambient-sounds-focus/)
+* [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management/)
 
-- [How to Enable Chrome Smooth Scrolling](/articles/how-to-enable-chrome-smooth-scrolling)
-- [Chrome Dark Mode How To Enable](/articles//chrome-dark-mode-how-to-enable/)
-- [How to Inspect CSS Animations and Transitions in Chrome DevTools](/articles/chrome-animations-panel-inspect-transitions)

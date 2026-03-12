@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Amazon Price History"
-description: "Learn how Chrome extensions for Amazon price history help you see past price trends and buy at the best time. Discover tools that show historical pricing data."
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-amazon-price-history"
-layout: "post"
-categories: "[shopping, tips]"
-tags: "[chrome-extensions, amazon, price-history, shopping, deals]"
-author: "theluckystrike"
+title: Chrome Extensions for Amazon Price History
+description: Learn how Chrome extensions for Amazon price history help you see past
+  price trends and buy at the best time. Discover tools that show historical pricing
+  data.
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-amazon-price-history
+layout: post
+categories: '[shopping, tips]'
+tags: '[chrome-extensions, amazon, price-history, shopping, deals]'
+author: theluckystrike
 ---
 # Chrome Extensions for Amazon Price History
 
@@ -70,10 +72,9 @@ Start by trying one extension and learning how to read its price charts. Once yo
 ---
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome For Price Drop Alert Extensions](/chrome-for-price-drop-alert-extensions)
-- [Chrome Extensions for Price Tracking Amazon](/chrome-extensions-for-price-tracking-amazon)
-
+* [Chrome Energy Saver Mode Explained](/articles/chrome-energy-saver-mode-explained/)
+* [Chrome Keeps Asking to Be Default Browser Stop](/articles/chrome-keeps-asking-to-be-default-browser-stop/)
+* [How to Sync Chrome Bookmarks Between Phone and Computer](/articles/chrome-bookmark-sync-between-phone-and-computer/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

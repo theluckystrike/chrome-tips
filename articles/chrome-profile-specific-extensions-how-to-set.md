@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Profile Specific Extensions How to Set
-description: Learn how to install and manage extensions for specific Chrome profiles to keep your work and personal browsing organized. Learn effective tips and tricks to...
+description: Learn how to install and manage extensions for specific Chrome profiles
+  to keep your work and personal browsing organized. Learn effective tips and tricks
+  to...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-profile-specific-extensions-how-to-set
@@ -57,10 +59,9 @@ It is also a good idea to occasionally check that your extensions are still work
 Finally, remember that your needs might change over time. What works for you now might not fit your workflow a year from now. Be willing to adjust how you have organized your profiles and extensions as your situation changes.
 
 ## Related Articles
-- [Chrome Sync Phone and Computer How to Set Up](/chrome-sync-phone-and-computer-how-to-set-up)
-- [Chrome Startup Page How to Set](/chrome-startup-page-how-to-set)
-- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
-
+* [Chrome Sync Phone and Computer How to Set Up](/articles/chrome-sync-phone-and-computer-how-to-set-up/)
+* [chrome for odysee web player tips](/articles/chrome-for-odysee-web-player-tips/)
+* [Chrome Extensions For Etsy Sellers](/articles//articles/chrome-extensions-for-etsy-sellers//)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

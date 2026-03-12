@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome Client Hints Instead of User Agent: What Changed"
-description: "Chrome is replacing the User-Agent string with Client Hints. Learn what this means for web developers, privacy, and how to adapt your websites. Check out our ex"
-date: "2026-01-15"
-last_modified_at: '2026-03-12'
-permalink: "chrome-client-hints-instead-of-user-agent"
-categories: [web-development, privacy, chrome]
-tags: [chrome-client-hints, user-agent, privacy, web-development]
-author: "theluckystrike"
+layout: post
+title: 'Chrome Client Hints Instead of User Agent: What Changed'
+description: Chrome is replacing the User-Agent string with Client Hints. Learn what
+  this means for web developers, privacy, and how to adapt your websites. Check out
+  our ex
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-client-hints-instead-of-user-agent
+categories:
+- web-development
+- privacy
+- chrome
+tags:
+- chrome-client-hints
+- user-agent
+- privacy
+- web-development
+author: theluckystrike
 ---
 # Chrome Client Hints Instead of User Agent: What Changed
 
@@ -72,10 +81,9 @@ If you have not yet updated your websites to support Client Hints, now is the ti
 ---
 
 ## Related Articles
-- [Chrome Supervised Profiles for Kids](/chrome-supervised-user-profile-for-kids)
-- [Chrome User Agent Switcher Explained](/chrome-user-agent-switcher-explained)
-- [Chrome User Agent String: What It Is and How It Works](/chrome-user-agent-string-what-it-is)
-
+* [Chrome Overriding CSS in DevTools: A Practical Tutorial](/articles/chrome-overriding-css-in-devtools-tutorial/)
+* [Chrome Extensions For Coupon Finder Automatic](/articles//articles/chrome-extensions-for-coupon-finder-automatic//)
+* [Why Is Chrome So Slow on My Computer?](/articles/why-is-chrome-so-slow-on-my-computer/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

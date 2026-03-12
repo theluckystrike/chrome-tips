@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Performance Flame Chart Explained
-description: Understand what a flame chart is in Chrome DevTools and how it helps identify what makes your browser slow. Learn effective tips and tricks to optimize your ...
+description: Understand what a flame chart is in Chrome DevTools and how it helps
+  identify what makes your browser slow. Learn effective tips and tricks to optimize
+  your ...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-performance-flame-chart-explained
@@ -13,8 +15,6 @@ tags:
 - performance
 - browser-tools
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-performance-flame-chart-explained
 ---
 # Chrome Performance Flame Chart Explained
 
@@ -79,10 +79,9 @@ Regular checks also help identify when extension updates or website changes star
 The flame chart demystifies what happens inside your browser. Instead of guessing why things feel slow, you gain actual insight into where time goes. This knowledge empowers you to take targeted actions rather than trying random fixes that may not address the real problem.
 
 ## Related Articles
-- [Chrome DevTools Performance Panel Explained](/chrome-devtools-performance-panel-explained)
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-
+* [chrome offline first app design explained](/articles/chrome-offline-first-app-design-explained/)
+* [How to Use Chrome DevTools Device Orientation Emulator](/articles//chrome-devtools-device-orientation-emulator//)
+* [Chrome Payment Request API Explained](/articles/chrome-payment-request-api-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

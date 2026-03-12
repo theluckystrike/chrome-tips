@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Google Classroom Tips
-description: Discover helpful Chrome tips for Google Classroom to boost productivity, manage tabs, and improve your teaching or learning experience. Discover more tips an
+description: Discover helpful Chrome tips for Google Classroom to boost productivity,
+  manage tabs, and improve your teaching or learning experience. Discover more tips
+  an
 date: 2026-03-10
 categories:
 - tips
@@ -85,7 +87,7 @@ Give these tips a try and see which ones work best for your situation. Everyone'
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Education Account What It Includes](/articles/chrome-education-account-what-it-includes/)
+* [Chrome for Research Workflow Best Setup](/articles/chrome-for-research-workflow-best-setup/)
+* [Chrome Extensions Permissions Explained Simply](/articles/chrome-extensions-permissions-explained-simply/)
 
-- [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use)
-- [Chrome How to Clear DNS Cache](/articles/chrome-how-to-clear-dns-cache)
-- [Chrome Spell Check Adding Custom Words](/articles/chrome-spell-check-adding-custom-words)

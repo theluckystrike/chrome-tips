@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "chrome material you design on desktop"
-description: "Learn how to customize Chrome with Material You design on desktop. A simple guide to bringing Google Material You aesthetics to your browser. Check out our exp"
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-material-you-design-on-desktop"
-categories: [features, customization]
-tags: [material-you, chrome-design, desktop-customization, google-material, browser-themes]
-author: "theluckystrike"
+layout: post
+title: chrome material you design on desktop
+description: Learn how to customize Chrome with Material You design on desktop. A
+  simple guide to bringing Google Material You aesthetics to your browser. Check out
+  our exp
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-material-you-design-on-desktop
+categories:
+- features
+- customization
+tags:
+- material-you
+- chrome-design
+- desktop-customization
+- google-material
+- browser-themes
+author: theluckystrike
 ---
 # Chrome Material You Design on Desktop
 
@@ -54,7 +63,7 @@ The Material You design also creates a more unified experience if you use multip
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Best Chrome Setup for Elderly Parents](/articles/best-chrome-setup-for-elderly-parents/)
+* [Chrome Extensions for Video Conferencing](/articles/chrome-extensions-for-video-conferencing/)
+* [Chrome Slow on Surface Pro Fix](/articles/chrome-slow-on-surface-pro-fix/)
 
-- [Chrome Lighthouse Audit Complete Guide](/articles/chrome-lighthouse-audit-guide)
-- [How to View Saved Passwords in Chrome 2026](/articles/how-to-view-saved-passwords-in-chrome-2026)
-- [chrome extensions for pdf editing free](/articles/chrome-extensions-for-pdf-editing-free)

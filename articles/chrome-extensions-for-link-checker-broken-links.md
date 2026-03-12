@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Link Checker Broken Links"
-description: "Find and fix broken links on any website with these helpful Chrome extensions for link checking. Check out our expert recommendations and tips to enhance..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-link-checker-broken-links"
-layout: "post"
-categories: "[extensions, tips]"
-tags: "[chrome-extensions, link-checker, broken-links]"
-author: "theluckystrike"
+title: Chrome Extensions for Link Checker Broken Links
+description: Find and fix broken links on any website with these helpful Chrome extensions
+  for link checking. Check out our expert recommendations and tips to enhance...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-link-checker-broken-links
+layout: post
+categories: '[extensions, tips]'
+tags: '[chrome-extensions, link-checker, broken-links]'
+author: theluckystrike
 ---
 # Chrome Extensions for Link Checker Broken Links
 
@@ -52,7 +53,7 @@ The next time you encounter a dead end while browsing, remember that help is jus
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Waze Web Tips](/articles/chrome-for-waze-web-tips/)
+* [Chrome Not Enough Memory Error](/articles/chrome-not-enough-memory-error/)
+* [Chrome Jump to Specific Tab Number Shortcut](/articles/chrome-jump-to-specific-tab-number-shortcut/)
 
-- [Chrome Animation Performance Guide](/articles/chrome-animation-performance)
-- [Chrome for Evernote Web Clipper Tips](/articles/chrome-for-evernote-web-clipper-tips)
-- [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use)

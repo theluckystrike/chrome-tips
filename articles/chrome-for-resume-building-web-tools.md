@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Resume Building Web Tools
-description: 'Learn about the best web tools for building resumes in Chrome. Create professional resumes faster with these browser-based resources. Discover more tips and '
+description: 'Learn about the best web tools for building resumes in Chrome. Create
+  professional resumes faster with these browser-based resources. Discover more tips
+  and '
 date: 2026-01-16
 categories:
 - productivity
@@ -80,7 +82,7 @@ Finally, always double-check your exported PDF before submitting. Open it in Chr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Smooth Scrolling How to Enable](/articles/chrome-smooth-scrolling-how-to-enable/)
+* [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users/)
+* [Chrome Tab to Search Feature How to Use](/articles/chrome-tab-to-search-feature-how-to-use/)
 
-- [Chrome Service Worker High CPU Fix](/articles/chrome-service-worker-high-cpu-fix)
-- [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/articles/chrome-vs-edge-on-windows-11)
-- [Chrome Extensions for Raindrop IO](/articles/chrome-extensions-for-raindrop-io)

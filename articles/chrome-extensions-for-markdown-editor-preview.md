@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Markdown Editor Preview"
-description: "Discover Chrome extensions that let you preview Markdown files as you type, making writing in Markdown simpler and more intuitive. Check out our expert..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-markdown-editor-preview"
-layout: "post"
-categories: "[markdown, writing, productivity, tips]"
-tags: "[chrome-extensions, markdown, preview, writing-tools]"
-author: "theluckystrike"
+title: Chrome Extensions for Markdown Editor Preview
+description: Discover Chrome extensions that let you preview Markdown files as you
+  type, making writing in Markdown simpler and more intuitive. Check out our expert...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-markdown-editor-preview
+layout: post
+categories: '[markdown, writing, productivity, tips]'
+tags: '[chrome-extensions, markdown, preview, writing-tools]'
+author: theluckystrike
 ---
 # Chrome Extensions for Markdown Editor Preview
 
@@ -62,7 +63,7 @@ Experiment with different extensions to find the combination that works best for
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab](/articles/chrome-duplicate-tab-shortcut-trick/)
+* [Chrome for Cold Turkey Blocker Setup](/articles/chrome-for-cold-turkey-blocker-setup/)
+* [chrome deceptive site ahead warning fix](/articles//chrome-deceptive-site-ahead-warning-fix//)
 
-- [Chrome Mobile Tips Save Data Usage](/articles/chrome-mobile-tips-save-data-usage)
-- [Chrome Autofill Wrong Address How to Fix](/articles/chrome-autofill-wrong-address-how-to-fix)
-- [Chrome Content Blocker vs Ad Blocker Difference](/articles/chrome-content-blocker-vs-ad-blocker-difference)

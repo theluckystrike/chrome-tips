@@ -1,6 +1,7 @@
 ---
-title: "Chrome Extensions For Email Productivity"
-description: "Discover how Chrome Extensions For Email Productivity can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settin..."
+title: Chrome Extensions For Email Productivity
+description: Discover how Chrome Extensions For Email Productivity can transform your
+  browsing. This comprehensive 2026 guide covers the best Chrome extensions and settin...
 date: 2026-03-10
 last_modified_at: 2026-03-11
 permalink: /articles/chrome-extensions-for-email-productivity/
@@ -76,7 +77,7 @@ Remember that more extensions is not always better. Each extension adds some ove
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome extensions for json viewer](/articles/chrome-extensions-for-json-viewer/)
+* [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead/)
+* [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix/)
 
-- [Chrome for Substack Reading Tips](/articles/chrome-for-substack-reading-tips)
-- [Chrome DevTools Layers Panel 3D View](/articles/chrome-devtools-layers-panel-3d-view)
-- [Chrome Extensions for Website Speed Test](/articles/chrome-extensions-for-website-speed-test)

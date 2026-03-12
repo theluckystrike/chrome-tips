@@ -1,13 +1,15 @@
 ---
-layout: "default"
-title: "Great Suspender Removed From Chrome Store: Replacement Options"
-description: "The Great Suspender extension was removed from the Chrome Web Store. Learn what happened and find a replacement to manage your tabs. Read our comprehensive g..."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "great-suspender-removed-from-chrome-store-replacement"
-categories: "[extensions, troubleshooting]"
-tags: "[great-suspender, chrome-extension, tab-suspender, chrome-fix]"
-author: "theluckystrike"
+layout: default
+title: 'Great Suspender Removed From Chrome Store: Replacement Options'
+description: The Great Suspender extension was removed from the Chrome Web Store.
+  Learn what happened and find a replacement to manage your tabs. Read our comprehensive
+  g...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: great-suspender-removed-from-chrome-store-replacement
+categories: '[extensions, troubleshooting]'
+tags: '[great-suspender, chrome-extension, tab-suspender, chrome-fix]'
+author: theluckystrike
 ---
 # Great Suspender Removed From Chrome Store: Replacement Options
 
@@ -70,7 +72,7 @@ Bookmarks are another useful tool. Instead of keeping a tab open indefinitely, b
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome for DoorDash Web Ordering Tips](/articles/chrome-for-doordash-web-ordering-tips/)
+* [How to Stop Chrome from Running in Background](/articles/how-to-stop-chrome-from-running-in-background/)
+* [Chrome Microphone Not Working Fix](/articles/chrome-microphone-not-working-fix/)
 
-- [Chrome CSS Custom Properties Explained](/articles//chrome-css-custom-properties-explained/)
-- [Chrome Emulate Print Media How To](/articles/chrome-emulate-print-media-how-to)
-- [Chrome for Text to Speech on Any Page](/articles/chrome-for-text-to-speech-on-any-page)

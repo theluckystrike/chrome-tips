@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Custom Search Engines Setup
-description: Learn how to set up custom search engines in Chrome for faster browsing. Create shortcuts to search any website directly from the address bar. Find out more ...
+description: Learn how to set up custom search engines in Chrome for faster browsing.
+  Create shortcuts to search any website directly from the address bar. Find out more
+  ...
 date: 2026-03-10
 categories:
 - features
@@ -85,7 +87,7 @@ Custom search engines are one of Chrome's most powerful features for boosting pr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Telemetry What Data Google Collects](/articles/chrome-telemetry-what-data-google-collects/)
+* [How to Use the Chrome Inert Attribute to Disable Interaction](/articles/chrome-inert-attribute-disable-interaction/)
+* [Chrome Slow on Windows 11 After Update: Practical Fixes](/articles/chrome-slow-on-windows-11-after-update/)
 
-- [Best Chrome Extensions for Online Shopping](/articles/chrome-extensions-for-online-shopping)
-- [chrome for gmail productivity extensions](/articles/chrome-for-gmail-productivity-extensions)
-- [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix)

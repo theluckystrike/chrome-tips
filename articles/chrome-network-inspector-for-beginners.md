@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome network inspector for beginners
-description: Learn how to use Chrome Network Inspector to debug slow websites, find loading issues, and optimize page performance. Learn effective tips and tricks to opti...
+description: Learn how to use Chrome Network Inspector to debug slow websites, find
+  loading issues, and optimize page performance. Learn effective tips and tricks to
+  opti...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-network-inspector-for-beginners
@@ -14,8 +16,6 @@ tags:
 - debugging
 - performance
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-network-inspector-for-beginners
 ---
 # Chrome Network Inspector for Beginners
 
@@ -90,7 +90,7 @@ The Network Inspector is one of those features that seems technical at first but
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Font Editor in DevTools Explained](/articles/chrome-font-editor-in-devtools-explained/)
+* [Chrome Using More Memory After an Update? Here's What to Do](/articles/chrome-using-more-memory-after-update/)
+* [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling/)
 
-- [Chrome Keyboard Navigation Tips](/articles/chrome-keyboard-navigation-tips)
-- [Chrome Scrolling is Choppy and Laggy](/articles/chrome-scrolling-is-choppy-and-laggy)
-- [Best Dark Mode Chrome Extension](/articles/best-dark-mode-chrome-extension)

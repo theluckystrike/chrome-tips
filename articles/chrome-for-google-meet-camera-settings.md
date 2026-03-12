@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Google Meet Camera Settings
-description: Learn how to adjust Chrome for Google Meet camera settings to get better video quality and fix common camera problems. Discover more tips and tricks to optim
+description: Learn how to adjust Chrome for Google Meet camera settings to get better
+  video quality and fix common camera problems. Discover more tips and tricks to optim
 date: 2026-01-15
 categories:
 - video-calls
@@ -86,7 +87,7 @@ With these tips, you should have a much better video calling experience. Take a 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Tabs on Top vs Bottom: How to Change](/articles/chrome-tabs-on-top-vs-bottom-how-to-change/)
+* [Chrome Idle Detection API Explained: What It Means for Your Browser](/articles/chrome-idle-detection-api-explained/)
+* [chrome for geforce now best settings](/articles/chrome-for-geforce-now-best-settings/)
 
-- [Chrome Devtools Recorder Panel How To Use](/articles/chrome-devtools-recorder-panel-how-to-use)
-- [chrome extensions for youtubers 2026](/articles/chrome-extensions-for-youtubers-2026)
-- [Best Chrome Extensions for Email Management](/articles/best-chrome-extensions-for-email-management)

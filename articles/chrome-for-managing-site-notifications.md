@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Managing Site Notifications
-description: 'Learn how to manage site notifications in Chrome to reduce distractions and improve your browsing experience. Discover more tips and tricks to optimize your '
+description: 'Learn how to manage site notifications in Chrome to reduce distractions
+  and improve your browsing experience. Discover more tips and tricks to optimize
+  your '
 date: 2026-01-15
 categories:
 - chrome
@@ -65,7 +67,7 @@ Chrome for managing site notifications does not have to be frustrating. By using
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Meditation](/articles/chrome-extensions-for-meditation/)
+* [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-explained/)
+* [Chrome Math Symbols How to Type](/articles/chrome-math-symbols-how-to-type/)
 
-- [chrome vs firefox for mac which is faster](/articles/chrome-vs-firefox-for-mac-which-is-faster)
-- [chrome for google finance tips](/articles/chrome-for-google-finance-tips)
-- [Chrome Mirroring Screen to TV How To](/articles/chrome-mirroring-screen-to-tv-how-to)

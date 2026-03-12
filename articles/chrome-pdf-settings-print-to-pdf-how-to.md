@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome PDF Settings Print to PDF How to
-description: Learn how to use Chrome's built-in PDF settings to save webpages as PDF files with custom options. Learn effective tips and tricks to optimize your Chrome br...
+description: Learn how to use Chrome's built-in PDF settings to save webpages as PDF
+  files with custom options. Learn effective tips and tricks to optimize your Chrome
+  br...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-pdf-settings-print-to-pdf-how-to
@@ -15,8 +17,6 @@ tags:
 - save-as-pdf
 - chrome-settings
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-pdf-settings-print-to-pdf-how-to
 ---
 # Chrome PDF Settings Print to PDF How to
 
@@ -71,10 +71,9 @@ Also consider the file size of your PDF. High-resolution images make for better-
 Finally, always preview your PDF before finalizing the save. The **print preview** shows you exactly what will be included, allowing you to catch any issues before creating the file. Spending an extra minute on preview can save you from having to recreate the PDF later.
 
 ## Related Articles
-- [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
-- [Chrome Emulate Print Media How To](/chrome-emulate-print-media-how-to)
-- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)
-
+* [How to Allow Pop Ups on One Site Chrome](/articles/how-to-allow-pop-ups-on-one-site-chrome/)
+* [chrome offline first app design explained](/articles/chrome-offline-first-app-design-explained/)
+* [Chrome Homepage Keeps Changing Fix](/articles/chrome-homepage-keeps-changing-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

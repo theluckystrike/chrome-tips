@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Tell Which Chrome Tab Is Draining Battery"
-description: "Find out which Chrome tab is draining your battery with built-in tools. Easy steps to identify power-hungry tabs and fix the problem. Read our comprehensive ..."
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "how-to-tell-which-chrome-tab-is-draining-battery"
-categories: "[performance, battery]"
-tags: "[chrome-battery, browser-performance, tab-management]"
-author: "theluckystrike"
+layout: post
+title: How to Tell Which Chrome Tab Is Draining Battery
+description: Find out which Chrome tab is draining your battery with built-in tools.
+  Easy steps to identify power-hungry tabs and fix the problem. Read our comprehensive
+  ...
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: how-to-tell-which-chrome-tab-is-draining-battery
+categories: '[performance, battery]'
+tags: '[chrome-battery, browser-performance, tab-management]'
+author: theluckystrike
 ---
 # How to Tell Which Chrome Tab Is Draining Battery
 
@@ -68,7 +70,7 @@ Review your extensions regularly to remove any you no longer need. Each extensio
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Offscreen Canvas Performance: A Complete Guide](/articles/chrome-offscreen-canvas-performance/)
+* [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs/)
+* [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to/)
 
-- [How to Make Chrome Kid-Friendly](/articles/how-to-make-chrome-kid-friendly)
-- [Best Chrome Extensions for Recruiters](/articles/best-chrome-extensions-for-recruiters)
-- [Chrome Casting to TV How to Setup](/articles/chrome-casting-to-tv-how-to-setup)

@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Chrome Figma Running Slow Fix: A Practical Guide"
-description: "Is Chrome slow with Figma open? Learn step-by-step solutions to fix performance issues and get Figma running smoothly again. Read our comprehensive guide to ..."
+title: 'Chrome Figma Running Slow Fix: A Practical Guide'
+description: Is Chrome slow with Figma open? Learn step-by-step solutions to fix performance
+  issues and get Figma running smoothly again. Read our comprehensive guide to ...
 date: 2026-01-20
-last_modified_at: 2026-03-11
-permalink: chrome-figma-running-slow-fix
-categories: [chrome, performance, figma]
-tags: [chrome-figma, browser-performance, figma-tips, chrome-slow]
-author: theluckystrike
 last_modified_at: '2026-03-11'
 permalink: chrome-figma-running-slow-fix
+categories:
+- chrome
+- performance
+- figma
+tags:
+- chrome-figma
+- browser-performance
+- figma-tips
+- chrome-slow
+author: theluckystrike
 ---
 # Chrome Figma Running Slow Fix
 
@@ -116,10 +122,9 @@ For long-term improvement, consider using Tab Suspender Pro to automatically man
 Try these solutions one at a time so you can identify what makes the biggest difference for your setup. With a few adjustments, you will be back to designing without the frustration of a lagging browser.
 
 ## Related Articles
-- [Chrome YouTube Slow But Other Sites Fine Fix](/chrome-youtube-slow-but-other-sites-fine-fix)
-- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
-- [How to Fix ChatGPT Slow Response in Chrome (Complete Guide)](/chrome-chatgpt-slow-response-fix)
-
+* [Chrome Back Forward Cache Explained](/articles/chrome-back-forward-cache-explained/)
+* [Chrome Extensions For Bulk Image Downloading](/articles//articles/chrome-extensions-for-bulk-image-downloading//)
+* [Chrome Extensions For Faster Browsing](/articles//articles/chrome-extensions-for-faster-browsing//)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

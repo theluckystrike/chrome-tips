@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "chrome webrtc video call quality improvement"
-description: "Learn how to improve WebRTC video call quality in Chrome with simple tips and settings that make your video calls clearer. Read our comprehensive guide to le..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-webrtc-video-call-quality-improvement"
-categories: "[video-calls, performance, productivity]"
-tags: "[webrtc, video-call, video-quality, chrome-settings, chrome-performance]"
-author: "theluckystrike"
+layout: post
+title: chrome webrtc video call quality improvement
+description: Learn how to improve WebRTC video call quality in Chrome with simple
+  tips and settings that make your video calls clearer. Read our comprehensive guide
+  to le...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-webrtc-video-call-quality-improvement
+categories: '[video-calls, performance, productivity]'
+tags: '[webrtc, video-call, video-quality, chrome-settings, chrome-performance]'
+author: theluckystrike
 ---
 # Chrome WebRTC Video Call Quality Improvement
 
@@ -60,7 +62,7 @@ Improving your chrome webrtc video call quality does not have to be complicated.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Iterator Helpers Explained](/articles/chrome-iterator-helpers-explained/)
+* [Chrome Address Bar Not Working Fix](/articles/chrome-address-bar-not-working-fix/)
+* [chrome tab groups keyboard shortcuts](/articles/chrome-tab-groups-keyboard-shortcuts/)
 
-- [Chrome Developer Tools Shortcut](/articles//chrome-developer-tools-shortcut/)
-- [Chrome Extensions for Saving Articles Offline](/articles/chrome-extensions-for-saving-articles-offline)
-- [Chrome Sync Phone and Computer How to Set Up](/articles/chrome-sync-phone-and-computer-how-to-set-up)

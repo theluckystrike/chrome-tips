@@ -66,7 +66,7 @@ Switching between Chrome channels is easier than you might think, and now you kn
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Keyboard Navigation Tips](/articles/chrome-keyboard-navigation-tips/)
+* [How to Make Chrome Remember Tabs After Closing](/articles/how-to-make-chrome-remember-tabs-after-closing/)
+* [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows/)
 
-- [Chrome How to Clear Individual Site Data](/articles/chrome-how-to-clear-individual-site-data)
-- [Chrome Octane Score Explained](/articles/chrome-octane-score-explained)
-- [chrome extensions for screenshot full page](/articles/chrome-extensions-for-screenshot-full-page)

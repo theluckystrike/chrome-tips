@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Todoist Web App Best Settings
-description: Optimize Chrome for the Todoist web app with these settings for better speed, smoother task management, and improved productivity. Discover more tips and tri
+description: Optimize Chrome for the Todoist web app with these settings for better
+  speed, smoother task management, and improved productivity. Discover more tips and
+  tri
 date: 2025-03-10
 categories:
 - productivity
@@ -86,7 +88,7 @@ Go to Settings and click Sync and Google services. Make sure "Sync" is turned on
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension/)
+* [Chrome Offline Google Calendar](/articles/chrome-offline-google-calendar/)
+* [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users/)
 
-- [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained)
-- [Best Chrome Extensions for Product Managers](/articles/best-chrome-extensions-for-product-managers)
-- [Chrome Command Line Flags for Low Memory: A Practical Guide](/articles/chrome-command-line-flags-for-low-memory)

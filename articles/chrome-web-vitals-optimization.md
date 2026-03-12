@@ -1,13 +1,14 @@
 ---
-layout: "default"
-title: "Chrome Web Vitals Optimization Guide"
-description: "Master Core Web Vitals optimization for better SEO, user experience, and conversion rates. Learn how to improve LCP, FID, and CLS scores. Read our comprehens..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-web-vitals-optimization"
-categories: "[performance, optimization, seo]"
-tags: "[chrome-web-vitals, lcp, fid, cls, core-web-vitals, performance-metrics, page-speed]"
-author: "theluckystrike"
+layout: default
+title: Chrome Web Vitals Optimization Guide
+description: Master Core Web Vitals optimization for better SEO, user experience,
+  and conversion rates. Learn how to improve LCP, FID, and CLS scores. Read our comprehens...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-web-vitals-optimization
+categories: '[performance, optimization, seo]'
+tags: '[chrome-web-vitals, lcp, fid, cls, core-web-vitals, performance-metrics, page-speed]'
+author: theluckystrike
 ---
 # Chrome Web Vitals Optimization Guide
 
@@ -138,10 +139,9 @@ The effort you put into Core Web Vitals optimization will pay off in better sear
 ---
 
 ## Related Articles
-- [Chrome Core Web Vitals Check My Website](/chrome-core-web-vitals-check-my-website)
-- [Chrome Web Vitals What They Mean](/chrome-web-vitals-what-they-mean)
-- [Chrome for Spotify Web Player Optimization](/chrome-for-spotify-web-player-optimization)
-
+* [Chrome YouTube Keyboard Shortcuts](/articles/chrome-youtube-keyboard-shortcuts/)
+* [Chrome for Todoist Web App Best Settings](/articles/chrome-for-todoist-web-app-best-settings/)
+* [Chrome Too Many Processes Task Manager](/articles/chrome-too-many-processes-task-manager/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

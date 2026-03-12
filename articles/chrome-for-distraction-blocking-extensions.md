@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome for distraction blocking extensions
-description: Discover the best chrome for distraction blocking extensions to help you stay focused, reduce tab clutter, and improve your productivity while browsing.
+description: Discover the best chrome for distraction blocking extensions to help
+  you stay focused, reduce tab clutter, and improve your productivity while browsing.
 date: 2026-01-15
 categories:
 - extensions
@@ -62,7 +63,7 @@ Remember that extensions are helpers, not magic solutions. They reduce the frict
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extension Permissions Best Practices](/articles/chrome-extension-permissions-best-practices/)
+* [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer/)
+* [Chrome Reset All Settings: What Gets Deleted](/articles/chrome-reset-all-settings-what-gets-deleted/)
 
-- [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users)
-- [chrome browser fingerprint how to check yours](/articles/chrome-browser-fingerprint-how-to-check-yours)
-- [Chrome Guest Browsing: What Data Is Saved](/articles/chrome-guest-browsing-what-data-is-saved)

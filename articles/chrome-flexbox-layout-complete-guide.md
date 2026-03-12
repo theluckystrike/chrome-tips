@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Flexbox Layout Complete Guide
-description: Learn how to use flexbox in Chrome for responsive web layouts. This complete guide covers everything from basics to advanced techniques. Find out more tips o...
+description: Learn how to use flexbox in Chrome for responsive web layouts. This complete
+  guide covers everything from basics to advanced techniques. Find out more tips o...
 date: 2025-03-10
 categories:
 - web-design
@@ -87,7 +88,7 @@ Remember to think in terms of axes, use justify-content and align-items to contr
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Microphone Permission for One Site How to Set](/articles/chrome-microphone-permission-for-one-site-how-to-set/)
+* [Chrome for Photo Editing in Browser](/articles/chrome-for-photo-editing-in-browser/)
+* [Chrome Tab Search Shortcut Explained](/articles/chrome-tab-search-shortcut-explained/)
 
-- [Chrome Extensions For Faster Browsing](/articles//articles/chrome-extensions-for-faster-browsing/)
-- [Chrome Open Downloads Page Shortcut](/articles/chrome-open-downloads-page-shortcut)
-- [How to Use Chrome on Two Monitors](/articles/how-to-use-chrome-on-two-monitors)

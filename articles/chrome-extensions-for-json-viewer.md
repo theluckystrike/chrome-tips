@@ -1,13 +1,14 @@
 ---
-title: "chrome extensions for json viewer"
-description: "Discover the best chrome extensions for json viewer. Learn how to view, format, and explore JSON data directly in your browser with these helpful tools."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-json-viewer"
-layout: "post"
-categories: "[extensions, productivity]"
-tags: "[json, chrome-extension, developer-tools, data-viewer]"
-author: "theluckystrike"
+title: chrome extensions for json viewer
+description: Discover the best chrome extensions for json viewer. Learn how to view,
+  format, and explore JSON data directly in your browser with these helpful tools.
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-json-viewer
+layout: post
+categories: '[extensions, productivity]'
+tags: '[json, chrome-extension, developer-tools, data-viewer]'
+author: theluckystrike
 ---
 # Chrome Extensions for JSON Viewer
 
@@ -80,7 +81,7 @@ Consider keeping a few sample JSON files bookmarked for testing. This way, you c
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Persistent Storage Permission Explained](/articles/chrome-persistent-storage-permission-explained/)
+* [Chrome Extensions For Elderly Users Simple Tools](/articles//articles/chrome-extensions-for-elderly-users-simple-tools//)
+* [Chrome Extensions for Image Downloader Bulk](/articles/chrome-extensions-for-image-downloader-bulk/)
 
-- [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools)
-- [Chrome Side Panel Features Guide](/articles/chrome-side-panel-features-guide)
-- [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)

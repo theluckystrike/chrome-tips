@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Google Calendar"
-description: "Discover the best Chrome extensions for Google Calendar that can help you manage your schedule, boost productivity, and never miss an important event."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-google-calendar"
-layout: "post"
-categories: "[productivity, calendar, tips]"
-tags: "[chrome-extensions, google-calendar, productivity, browser-tools]"
-author: "theluckystrike"
+title: Chrome Extensions for Google Calendar
+description: Discover the best Chrome extensions for Google Calendar that can help
+  you manage your schedule, boost productivity, and never miss an important event.
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-google-calendar
+layout: post
+categories: '[productivity, calendar, tips]'
+tags: '[chrome-extensions, google-calendar, productivity, browser-tools]'
+author: theluckystrike
 ---
 # Chrome Extensions for Google Calendar
 
@@ -72,7 +73,7 @@ You do not need to install every extension you come across. In fact, having too 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome for youtube music web tips](/articles/chrome-for-youtube-music-web-tips/)
+* [chrome upcoming features roadmap 2026](/articles/chrome-upcoming-features-roadmap-2026/)
+* [Best Chrome Extensions for Salespeople](/articles/best-chrome-extensions-for-salespeople/)
 
-- [How to Block Ads on Chrome Android](/articles/how-to-block-ads-on-chrome-android)
-- [Chrome Crashing on Samsung Galaxy Phone](/articles/chrome-crashing-on-samsung-galaxy-phone)
-- [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking/)

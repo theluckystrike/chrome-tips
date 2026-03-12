@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome side panel features you missed
-description: Discover hidden Chrome side panel features that can boost your productivity and streamline how you browse the web. Read our comprehensive guide to learn more an
+description: Discover hidden Chrome side panel features that can boost your productivity
+  and streamline how you browse the web. Read our comprehensive guide to learn more
+  an
 date: 2026-01-15
 categories:
 - productivity
@@ -74,7 +76,7 @@ You might find that the simple addition of quick access to bookmarks and your re
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Removing YouTube Recommendations](/articles/chrome-for-removing-youtube-recommendations/)
+* [Chrome Flexbox Debugging Guide](/articles/chrome-flexbox-debugging/)
+* [Chrome Flexbox Layout Complete Guide](/articles/chrome-flexbox-layout-complete-guide/)
 
-- [Chrome Built-In PDF Editor Guide](/articles/chrome-pdf-editor-built-in)
-- [Chrome Default Apps Settings: A Complete Guide](/articles//chrome-default-apps-settings/)
-- [Best Screenshot Chrome Extension](/articles/best-screenshot-chrome-extension)

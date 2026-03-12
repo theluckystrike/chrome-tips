@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome shared array buffer usage
-description: Learn how to use SharedArrayBuffer in Chrome for high-performance web applications, including setup requirements, practical examples, and common use cases fo...
+description: Learn how to use SharedArrayBuffer in Chrome for high-performance web
+  applications, including setup requirements, practical examples, and common use cases
+  fo...
 date: 2026-01-24
 categories:
 - chrome
@@ -163,10 +165,9 @@ When using applications that rely heavily on SharedArrayBuffer and web workers, 
 SharedArrayBuffer is a powerful feature that brings true multithreading capabilities to web applications in Chrome. By understanding the security requirements, proper implementation patterns, and atomic operations, developers can build high-performance applications that leverage parallel processing. Whether you are building data-intensive applications, games, or scientific simulations, SharedArrayBuffer provides the foundation for responsive and efficient web experiences.
 
 ## Related Articles
-- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
-- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
-- [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)
-
+* [chrome material you design on desktop](/articles/chrome-material-you-design-on-desktop/)
+* [Chrome Extensions for Freelancers](/articles/chrome-extensions-for-freelancers/)
+* [Chrome Extensions for Whois Lookup](/articles/chrome-extensions-for-whois-lookup/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

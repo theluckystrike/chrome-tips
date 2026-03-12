@@ -1,13 +1,15 @@
 ---
-layout: "default"
-title: "Chrome WebGPU API Getting Started Guide"
-description: "Learn how to get started with Chrome WebGPU API for high-performance Read our comprehensive guide to learn more and optimize your browser experience with the..."
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "chrome-webgpu-api-getting-started"
-categories: ""
-tags: ""
-author: "theluckystrike"
+layout: default
+title: Chrome WebGPU API Getting Started Guide
+description: Learn how to get started with Chrome WebGPU API for high-performance
+  Read our comprehensive guide to learn more and optimize your browser experience
+  with the...
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-webgpu-api-getting-started
+categories: ''
+tags: ''
+author: theluckystrike
 ---
 # Chrome WebGPU API Getting Started Guide
 
@@ -132,7 +134,7 @@ Remember that the key to success with WebGPU is practice. Start with simple proj
 *Built by theluckystrike — More tips at https://zovo.one*
 
 ## Related Articles
+* [Chrome Status Code 403 Forbidden Explained](/articles/chrome-status-code-403-forbidden-explained/)
+* [Chrome Preferences File What It Contains](/articles/chrome-preferences-file-what-it-contains/)
+* [chrome devtools dark theme how to enable](/articles//chrome-devtools-dark-theme-how-to-enable//)
 
-- [Chrome Too Many Redirects Error Fix](/articles/chrome-too-many-redirects-error-fix)
-- [How to Use Chrome DevTools for Beginners](/articles/how-to-use-chrome-devtools-for-beginners)
-- [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does)

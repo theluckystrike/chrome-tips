@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Amazon FBA Sellers"
-description: "Discover the best Chrome extensions for Amazon FBA sellers to streamline product research, track prices, and manage your business more efficiently. Discover ..."
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-amazon-fba-sellers"
-layout: "post"
-categories: "[amazon, tips]"
-tags: "[chrome-extensions, amazon, fba, selling, business]"
-author: "theluckystrike"
+title: Chrome Extensions for Amazon FBA Sellers
+description: Discover the best Chrome extensions for Amazon FBA sellers to streamline
+  product research, track prices, and manage your business more efficiently. Discover
+  ...
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-amazon-fba-sellers
+layout: post
+categories: '[amazon, tips]'
+tags: '[chrome-extensions, amazon, fba, selling, business]'
+author: theluckystrike
 ---
 # Chrome Extensions for Amazon FBA Sellers
 
@@ -58,10 +60,9 @@ Most extensions mentioned here are available through the Chrome Web Store and ca
 ---
 
 ## Related Articles
-- [Chrome Extensions for Amazon Price History](/chrome-extensions-for-amazon-price-history)
-- [Chrome Extensions for Price Tracking Amazon](/chrome-extensions-for-price-tracking-amazon)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-
+* [Chrome Lite Mode Does It Still Exist](/articles/chrome-lite-mode-does-it-still-exist/)
+* [Chrome Password Checkup Tool Guide](/articles/chrome-password-checkup-tool/)
+* [Chrome Hidden Games Easter Eggs List](/articles/chrome-hidden-games-easter-eggs-list/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

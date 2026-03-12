@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome High Memory Usage Mac Fix"
-description: "Is Chrome using too much memory on your Mac? Learn why this happens and practical steps to reduce Chrome's memory usage on Mac. Check out our expert recommenda"
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-high-memory-usage-mac-fix"
-categories: [performance, browsers, mac]
-tags: [chrome-memory, mac-performance, chrome-fix, memory-usage]
-author: "theluckystrike"
+layout: post
+title: Chrome High Memory Usage Mac Fix
+description: Is Chrome using too much memory on your Mac? Learn why this happens and
+  practical steps to reduce Chrome's memory usage on Mac. Check out our expert recommenda
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-high-memory-usage-mac-fix
+categories:
+- performance
+- browsers
+- mac
+tags:
+- chrome-memory
+- mac-performance
+- chrome-fix
+- memory-usage
+author: theluckystrike
 ---
 # Chrome High Memory Usage Mac Fix
 
@@ -82,7 +90,7 @@ These small changes can make a big difference in how your Mac performs. Chrome i
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome/)
+* [Chrome for Google Maps Best Extensions](/articles/chrome-for-google-maps-best-extensions/)
+* [Chrome Extension Alternative to Grammarly Free](/articles/chrome-extension-alternative-to-grammarly-free/)
 
-- [Chrome Text to Speech Extension Best](/articles/chrome-text-to-speech-extension-best)
-- [Chrome Restore Tabs Not Working After Update: Practical Fixes](/articles/chrome-restore-tabs-not-working-after-update)
-- [How to Make Chrome Kid-Friendly](/articles/how-to-make-chrome-kid-friendly)

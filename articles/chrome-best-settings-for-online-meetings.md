@@ -74,7 +74,7 @@ Most meeting problems stem from Chrome using too many resources or competing for
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome AI Generated Summaries Explained](/articles/chrome-ai-generated-summaries-explained/)
+* [Chrome Dark Mode on Phone How to Enable](/articles//chrome-dark-mode-on-phone-how-to-enable//)
+* [Chrome Tab Management Shortcuts Cheat Sheet](/articles/chrome-tab-management-shortcuts-cheat-sheet/)
 
-- [Chrome Closed Captions on Any Video](/articles/chrome-closed-captions-on-any-video)
-- [Chrome Not Responding? Force Close It This Way](/articles/chrome-not-responding-force-close-how)
-- [Chrome Extensions for Noscript Alternative](/articles/chrome-extensions-for-noscript-alternative)

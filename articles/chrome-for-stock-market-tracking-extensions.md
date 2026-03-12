@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Stock Market Tracking Extensions
-description: 'Looking for chrome for stock market tracking extensions? Find the best tools to monitor stocks, set alerts, and track your portfolio. Discover more tips and '
+description: 'Looking for chrome for stock market tracking extensions? Find the best
+  tools to monitor stocks, set alerts, and track your portfolio. Discover more tips
+  and '
 date: 2026-03-10
 categories:
 - productivity
@@ -64,7 +66,7 @@ The key is finding a balance that works for you. Stock tracking extensions are m
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Side Panel Extensions Worth Using](/articles/chrome-side-panel-extensions-worth-using/)
+* [Chrome DevTools Snippets for Productivity](/articles/chrome-snippets-productivity/)
+* [Chrome Overscroll Behavior CSS](/articles/chrome-overscroll-behavior-css/)
 
-- [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix)
-- [Why Is Chrome Slower Than Firefox?](/articles/why-is-chrome-slower-than-firefox)
-- [chrome javascript disable for one site how to](/articles/chrome-javascript-disable-for-one-site-how-to)

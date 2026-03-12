@@ -210,10 +210,9 @@ Advertisers and publishers who adopt attribution reporting early will be better 
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature/)
+* [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/articles/how-to-limit-chrome-ram-usage-mac/)
+* [Chrome Tab Management Shortcuts Cheat Sheet](/articles/chrome-tab-management-shortcuts-cheat-sheet/)
 
-## Related Articles
-
-- [Chrome Password Checkup What It Does](/articles/chrome-password-checkup-what-it-does)
-- [chrome tab memory usage how to check](/articles/chrome-tab-memory-usage-how-to-check)
-- [Chrome Google Account Privacy Settings Guide](/articles/chrome-google-account-privacy-settings-guide)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

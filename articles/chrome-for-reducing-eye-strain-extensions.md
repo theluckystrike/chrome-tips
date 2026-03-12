@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Reducing Eye Strain Extensions
-description: Discover Chrome extensions that help reduce eye strain. Learn about blue light filters, dark mode tools, and more ways to protect your eyes. Discover more ti
+description: Discover Chrome extensions that help reduce eye strain. Learn about blue
+  light filters, dark mode tools, and more ways to protect your eyes. Discover more
+  ti
 date: 2026-01-15
 categories:
 - productivity
@@ -74,7 +76,7 @@ Chrome for reducing eye strain extensions offers practical solutions for anyone 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for News Feed Eradicator Setup](/articles/chrome-for-news-feed-eradicator-setup/)
+* [Chrome IP Protection Feature Explained](/articles/chrome-ip-protection-feature-explained/)
+* [chrome safe browsing enhanced vs standard](/articles/chrome-safe-browsing-enhanced-vs-standard/)
 
-- [Best Privacy Chrome Extensions 2026](/articles/best-privacy-chrome-extensions-2026)
-- [Chrome Address Bar Suggestions How to Clear](/articles/chrome-address-bar-suggestions-how-to-clear)
-- [Chrome Slow After Update Fix: Complete Troubleshooting Guide](/articles/chrome-slow-after-update-fix)

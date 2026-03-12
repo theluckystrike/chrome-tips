@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "Chrome View Transition API: Smooth Animations Within a Single Page"
-description: "Discover Chrome's View Transition API for creating stunning animated transitions between page states without external libraries. Perfect for modern web apps."
+title: 'Chrome View Transition API: Smooth Animations Within a Single Page'
+description: Discover Chrome's View Transition API for creating stunning animated
+  transitions between page states without external libraries. Perfect for modern web
+  apps.
 date: 2026-01-15
-categories: [chrome, web-development, javascript, animations]
-tags: [chrome-view-transition, web-api, front-end-development, user-experience]
+categories:
+- chrome
+- web-development
+- javascript
+- animations
+tags:
+- chrome-view-transition
+- web-api
+- front-end-development
+- user-experience
 author: theluckystrike
+permalink: chrome-view-transition-same-document
 ---
-
 # Chrome View Transition API: Smooth Animations Within a Single Page
 
 Web users have come to expect smooth, app-like experiences when browsing. One of the most exciting additions to Chrome in recent years is the View Transition API, which enables developers to create beautiful animated transitions between different states of a page—without requiring heavy external libraries or complex animations. Whether you're building a single-page application, a product gallery, or a dynamic dashboard, this API can transform the user experience with minimal code.
@@ -107,5 +117,11 @@ The View Transition API represents a significant step forward in web development
 Start by identifying a simple use case in your application—perhaps a toggle that changes a section's appearance—and wrap that change in a view transition. Experiment with different `view-transition-name` assignments to create morphing effects between related elements. The documentation on MDN provides excellent detailed guidance for more advanced scenarios.
 
 As you become more comfortable with the API, you'll find countless opportunities to enhance your users' experience with smooth, purposeful animations that make your web application feel truly professional.
+
+
+## Related Articles
+* [chrome for instacart web app best settings](/articles/chrome-for-instacart-web-app-best-settings/)
+* [chrome playwright vs puppeteer comparison](/articles/chrome-playwright-vs-puppeteer-comparison/)
+* [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/articles/chrome-vs-edge-on-windows-11/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

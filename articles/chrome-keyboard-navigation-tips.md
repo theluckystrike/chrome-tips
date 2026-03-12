@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "Chrome Keyboard Navigation Tips"
-description: "Master Chrome keyboard navigation tips to browse faster, work smarter, and reduce mouse dependency with these practical shortcuts. Check out our expert recomme"
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-keyboard-navigation-tips"
+layout: post
+title: Chrome Keyboard Navigation Tips
+description: Master Chrome keyboard navigation tips to browse faster, work smarter,
+  and reduce mouse dependency with these practical shortcuts. Check out our expert
+  recomme
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-keyboard-navigation-tips
 ---
 Chrome keyboard navigation tips are something every browser user should know, whether you are looking to speed up your workflow or simply reduce the amount of time spent reaching for your mouse. If you have ever wished you could move around Chrome more quickly and efficiently, learning a handful of keyboard shortcuts can transform your browsing experience in just a few days of practice.
 
@@ -59,7 +61,7 @@ For those who work with many tabs throughout the day, extensions like Tab Suspen
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does/)
+* [Chrome for Managing Site Notifications](/articles/chrome-for-managing-site-notifications/)
+* [Chrome Net Internals Sockets View: Monitor and Manage Active Connections](/articles/chrome-net-internals-sockets-view-connections/)
 
-- [chrome circle to search on desktop](/articles/chrome-circle-to-search-on-desktop)
-- [Chrome MediaRecorder API Guide](/articles/chrome-mediarecorder-api-guide)
-- [Chrome Using Swap Memory Fix](/articles/chrome-using-swap-memory-fix)

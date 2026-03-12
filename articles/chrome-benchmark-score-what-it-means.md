@@ -82,7 +82,7 @@ Regular maintenance matters more than chasing the highest possible numbers. Keep
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Fix Chrome Hijacked Homepage (Complete Guide)](/articles/chrome-hijacked-homepage-fix-guide/)
+* [Chrome Camera Permission for One Site How to Set](/articles/chrome-camera-permission-for-one-site-how-to-set/)
+* [How to Safely Work with Chromebook School Restrictions](/articles/chromebook-school-restrictions-bypass-safely/)
 
-- [Chrome Extensions for Web Automation Free](/articles/chrome-extensions-for-web-automation-free)
-- [Chrome AI Summarize Feature How to Use](/articles/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Full Screen Mode How to Exit Stuck](/articles/chrome-full-screen-mode-how-to-exit-stuck)

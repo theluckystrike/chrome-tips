@@ -1,13 +1,15 @@
 ---
-layout: "default"
-title: "Chrome Web NFC API Guide"
-description: "Learn how to use the Chrome Web NFC API for reading and writing NFC tags Read our comprehensive guide to learn more and optimize your browser experience with..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-web-nfc-api-guide"
-categories: ""
-tags: ""
-author: "theluckystrike"
+layout: default
+title: Chrome Web NFC API Guide
+description: Learn how to use the Chrome Web NFC API for reading and writing NFC tags
+  Read our comprehensive guide to learn more and optimize your browser experience
+  with...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-web-nfc-api-guide
+categories: ''
+tags: ''
+author: theluckystrike
 ---
 # Chrome Web NFC API Guide
 
@@ -158,10 +160,9 @@ Finally, keep your application updated as the Web NFC API evolves. The specifica
 ---
 
 ## Related Articles
-- [Chrome Web Bluetooth Api Guide](/chrome-web-bluetooth-api-guide)
-- [Chrome Web USB API Guide](/chrome-web-usb-api-guide)
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
-
+* [Chrome Extensions for Musicians](/articles/chrome-extensions-for-musicians/)
+* [Chrome Biometric Authentication for the Web](/articles/chrome-biometric-authentication-web/)
+* [Chrome Passkeys vs Passwords Comparison](/articles/chrome-passkeys-vs-passwords-comparison/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

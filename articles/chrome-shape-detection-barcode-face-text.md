@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Chrome Shape Detection API – Barcode, Face & Text Recognition Directly in Your Browser
-description: Discover Chrome's built-in Shape Detection API that enables real-time barcode scanning, face detection, and text recognition without external libraries. Learn how it works and explore practical use cases.
+title: Chrome Shape Detection API – Barcode, Face & Text Recognition Directly in Your
+  Browser
+description: Discover Chrome's built-in Shape Detection API that enables real-time
+  barcode scanning, face detection, and text recognition without external libraries.
+  Learn how it works and explore practical use cases.
 date: 2026-03-12
 last_modified_at: '2026-03-12'
 permalink: chrome-shape-detection-barcode-face-text
@@ -19,7 +22,6 @@ tags:
 - productivity
 author: theluckystrike
 ---
-
 # Chrome Shape Detection API – Barcode, Face & Text Recognition Directly in Your Browser
 
 Imagine scanning a barcode with your webcam directly in a web page, detecting faces in a photo for automatic tagging, or extracting text from an image—all without loading heavy external libraries or sending data to a server. Thanks to Chrome's Shape Detection API, this is now possible directly in the browser. This powerful yet underutilized feature has been available since Chrome 2016 and continues to evolve, opening up exciting possibilities for web developers and everyday users alike.
@@ -123,8 +125,9 @@ Chrome's Shape Detection API brings powerful, hardware-accelerated detection cap
 The API is well-suited for slower computers since it avoids network delays and leverages local hardware. As browser support expands and more developers discover its potential, we can expect to see even more innovative applications that make the web smarter and more accessible.
 
 If you haven't explored the Shape Detection API yet, now is a great time to experiment. With just a few lines of code, you can add powerful detection capabilities to any web project—without external dependencies or server costs.
-## Related Articles
 
-- [Chrome Performance Settings Best Configuration](/articles/chrome-performance-settings-best-configuration)
-- [Chrome Scrolling Lag Fix](/articles/chrome-scrolling-lag-fix)
-- [Chrome Font Too Small on Certain Websites Fix](/articles/chrome-font-too-small-on-certain-websites-fix)
+## Related Articles
+* [chrome vs firefox privacy comparison 2026](/articles/chrome-vs-firefox-privacy-comparison-2026/)
+* [How to Use Chrome Without Signing In to Google](/articles/how-to-use-chrome-without-signing-in-to-google/)
+* [Chrome Google Workspace Integration Tips](/articles/chrome-google-workspace-integration-tips/)
+

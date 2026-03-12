@@ -72,7 +72,7 @@ Chrome DevTools is one of those features that becomes indispensable once you kno
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Website Testing](/articles/chrome-extensions-for-website-testing/)
+* [Chrome Extensions for Meditation](/articles/chrome-extensions-for-meditation/)
+* [Chrome Right Click Not Working Fix](/articles/chrome-right-click-not-working-fix/)
 
-- [chrome taking too long to open fix](/articles/chrome-taking-too-long-to-open-fix)
-- [Chrome Lite Mode Data Saver Replacement](/articles/chrome-lite-mode-data-saver-replacement)
-- [Chrome Not Loading Pages But Internet Works: Complete Fix Guide](/articles/chrome-not-loading-pages-but-internet-works)

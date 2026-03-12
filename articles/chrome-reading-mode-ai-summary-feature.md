@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Reading Mode AI Summary Feature
-description: Discover Chrome's AI-powered Reading Mode that summarizes articles instantly. Learn how to use this feature for faster, smarter web reading. Learn effective ...
+description: Discover Chrome's AI-powered Reading Mode that summarizes articles instantly.
+  Learn how to use this feature for faster, smarter web reading. Learn effective ...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-reading-mode-ai-summary-feature
@@ -15,8 +16,6 @@ tags:
 - chrome-features
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-reading-mode-ai-summary-feature
 ---
 # Chrome Reading Mode AI Summary Feature
 
@@ -87,10 +86,9 @@ For now, the AI summary feature in Chrome's Reading Mode is a valuable tool that
 ---
 
 ## Related Articles
-- [Chrome AI Tab Organization Feature](/chrome-ai-tab-organization-feature)
-- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Reading Mode Hidden Feature](/chrome-reading-mode-hidden-feature)
-
+* [Chrome Extensions for Rain Sounds](/articles/chrome-extensions-for-rain-sounds/)
+* [Chrome Freezes When Opening New Tab Fix](/articles/chrome-freezes-when-opening-new-tab-fix/)
+* [Chrome Screen Wake Lock API Explained](/articles/chrome-screen-wake-lock-api-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

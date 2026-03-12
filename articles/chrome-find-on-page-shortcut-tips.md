@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome Find on Page Shortcut Tips"
-description: "Learn the keyboard shortcuts to find text on any webpage in Chrome. Speed Read our comprehensive guide to learn more and boost your productivity today."
+title: Chrome Find on Page Shortcut Tips
+description: Learn the keyboard shortcuts to find text on any webpage in Chrome. Speed
+  Read our comprehensive guide to learn more and boost your productivity today.
 date: '2026-03-09'
 last_modified_at: 2026-03-11
 permalink: chrome-find-on-page-shortcut-tips
@@ -77,7 +78,7 @@ Give these tips a try next time you need to find something on the web. You will 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Online Shopping Deals](/articles/chrome-extensions-for-online-shopping-deals/)
+* [Chrome Extensions for Website Speed Test](/articles/chrome-extensions-for-website-speed-test/)
+* [How to Fix Chrome Cache Too Large and Slow Performance](/articles/chrome-cache-too-large-slow-fix/)
 
-- [Chrome Coupon Finder Built In Feature](/articles/chrome-coupon-finder-built-in-feature)
-- [Chrome for Wikipedia Enhanced Reading](/articles/chrome-for-wikipedia-enhanced-reading)
-- [Chrome Notifications for One Site How to Manage](/articles/chrome-notifications-for-one-site-how-to-manage)

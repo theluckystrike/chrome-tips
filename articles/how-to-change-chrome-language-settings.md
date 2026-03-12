@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Change Chrome Language Settings"
-description: "Learn how to change language settings in Chrome for desktop and mobile. Customize your browser to display in your preferred language. Read our comprehensive ..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "how-to-change-chrome-language-settings"
-categories: "[chrome, settings, language]"
-tags: "[chrome, language, settings, browser, customization]"
-author: "theluckystrike"
+layout: post
+title: How to Change Chrome Language Settings
+description: Learn how to change language settings in Chrome for desktop and mobile.
+  Customize your browser to display in your preferred language. Read our comprehensive
+  ...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: how-to-change-chrome-language-settings
+categories: '[chrome, settings, language]'
+tags: '[chrome, language, settings, browser, customization]'
+author: theluckystrike
 ---
 # How to Change Chrome Language Settings
 
@@ -64,7 +66,7 @@ Changing Chrome language settings is a matter of knowing where to look and makin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Custom Fonts How to Change](/articles//chrome-custom-fonts-how-to-change//)
+* [Chrome for Saving Articles to Read Later](/articles/chrome-for-saving-articles-to-read-later/)
+* [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead/)
 
-- [Chrome New Tab Page Minimalist Extensions](/articles/chrome-new-tab-page-minimalist-extensions)
-- [Chrome Not Responding? Force Close It This Way](/articles/chrome-not-responding-force-close-how)
-- [Chrome Extensions for Reddit](/articles/chrome-extensions-for-reddit)

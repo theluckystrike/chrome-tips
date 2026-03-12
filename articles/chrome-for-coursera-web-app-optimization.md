@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Coursera Web App Optimization
-description: Learn how to optimize Chrome for Coursera web app to improve performance, reduce memory usage, and enhance your online learning experience. Find out more tip...
+description: Learn how to optimize Chrome for Coursera web app to improve performance,
+  reduce memory usage, and enhance your online learning experience. Find out more
+  tip...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-coursera-web-app-optimization
@@ -53,7 +55,7 @@ Remember that small adjustments add up. You do not need to implement everything 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome extensions for screen recording free](/articles/chrome-extensions-for-screen-recording-free/)
+* [Chrome Cookie Settings 2026 Guide](/articles/chrome-cookie-settings-2026/)
+* [Chrome Microphone Access on Phone How to Control](/articles/chrome-microphone-access-on-phone-how-to-control/)
 
-- [Chrome Security Checkup How to Run](/articles/chrome-security-checkup-how-to-run)
-- [Chrome Extensions for Google Classroom](/articles/chrome-extensions-for-google-classroom)
-- [Best Chrome Extensions for Google Drive](/articles/best-chrome-extensions-for-google-drive)

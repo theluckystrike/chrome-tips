@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Meta Tag Analyzer"
-description: "Learn how Chrome extensions for meta tag analyzer help you check and optimize website metadata for better search rankings. Check out our expert... Learn more ab"
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-meta-tag-analyzer"
-layout: "post"
-categories: "[seo, tips]"
-tags: "[chrome-extensions, meta-tags, seo-tools]"
-author: "theluckystrike"
+title: Chrome Extensions for Meta Tag Analyzer
+description: Learn how Chrome extensions for meta tag analyzer help you check and
+  optimize website metadata for better search rankings. Check out our expert... Learn
+  more ab
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-meta-tag-analyzer
+layout: post
+categories: '[seo, tips]'
+tags: '[chrome-extensions, meta-tags, seo-tools]'
+author: theluckystrike
 ---
 # Chrome Extensions for Meta Tag Analyzer
 
@@ -72,7 +74,7 @@ Remember that meta tags are not a one-time setup. As you add new content to your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension/)
+* [Chrome Animation Performance Guide](/articles/chrome-animation-performance/)
+* [Chrome Extensions Disabled by Administrator Fix](/articles/chrome-extensions-disabled-by-administrator-fix/)
 
-- [Chrome Extensions for Todoist](/articles/chrome-extensions-for-todoist)
-- [Chrome Slow on Android Fix](/articles/chrome-slow-on-android-fix)
-- [Chrome Camera Permission for One Site How to Set](/articles/chrome-camera-permission-for-one-site-how-to-set)

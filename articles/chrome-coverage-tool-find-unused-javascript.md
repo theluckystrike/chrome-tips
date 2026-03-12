@@ -1,15 +1,23 @@
 ---
-title: "Chrome Coverage Tool: Find Unused JavaScript"
-description: "Learn how to use Chrome DevTools Coverage tool to discover and eliminate unused JavaScript code, reduce bundle sizes, and speed up your website. Read our full g"
-date: "2026-03-11"
-last_modified_at: '2026-03-12'
-permalink: "chrome-coverage-tool-find-unused-javascript"
-layout: default
-categories: ['development', 'performance', 'chrome-devtools']
-tags: ['chrome-coverage-tool', 'unused-javascript', 'code-optimization', 'web-performance', 'devtools']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: 'Chrome Coverage Tool: Find Unused JavaScript'
+description: Learn how to use Chrome DevTools Coverage tool to discover and eliminate
+  unused JavaScript code, reduce bundle sizes, and speed up your website. Read our
+  full g
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
 permalink: chrome-coverage-tool-find-unused-javascript
+layout: default
+categories:
+- development
+- performance
+- chrome-devtools
+tags:
+- chrome-coverage-tool
+- unused-javascript
+- code-optimization
+- web-performance
+- devtools
+author: theluckystrike
 ---
 # Chrome Coverage Tool: How to Find and Fix Unused JavaScript
 
@@ -83,9 +91,9 @@ The Chrome Coverage Tool is an essential part of any web performance optimizatio
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
-## Related Articles
+*## Related Articles
+* [Chrome Dark Mode How To Enable](/articles//chrome-dark-mode-how-to-enable//)
+* [Best Chrome Extensions for Reading Articles](/articles/best-chrome-extensions-for-reading-articles/)
+* [Chrome Flags on Android Best to Enable](/articles/chrome-flags-on-android-best-to-enable/)
 
-- [Chrome Tabs Taking Forever to Load? Here's What to Do](/articles/chrome-tabs-taking-forever-to-load)
-- [Chrome Crashing on Low Memory Computer](/articles/chrome-crashing-on-low-memory-computer)
-- [Chrome Video Speed Controller Extension](/articles/chrome-video-speed-controller-extension)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

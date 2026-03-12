@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 'Chrome Password Autofill Stopped Working: Fix It Now'
-description: Chrome password autofill not working? Learn practical solutions to fix Chrome's autofill feature and get your saved passwords working again. Learn effective ...
+description: Chrome password autofill not working? Learn practical solutions to fix
+  Chrome's autofill feature and get your saved passwords working again. Learn effective
+  ...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-password-autofill-stopped-working
@@ -13,8 +15,6 @@ tags:
 - autofill
 - browser-troubleshooting
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-password-autofill-stopped-working
 ---
 # Chrome Password Autofill Stopped Working: Fix It Now
 
@@ -138,10 +138,9 @@ Here's what to try, in order:
 Most users find the issue is resolved by step 3 or 4. Try these solutions in order, and you should have your password autofill working again in no time.
 
 ## Related Articles
-- [Chrome Web Otp Autofill Sms](/chrome-web-otp-autofill-sms)
-- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
-
+* [Chrome Extensions For Dns Lookup](/articles//articles/chrome-extensions-for-dns-lookup//)
+* [Chrome Android Tips To Save Data](/articles/chrome-android-tips-to-save-data/)
+* [Chrome vs Firefox Memory Usage Comparison 2024](/articles/chrome-vs-firefox-memory-usage-comparison-2024/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

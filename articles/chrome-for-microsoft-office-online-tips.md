@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Microsoft Office Online Tips
-description: Get the most out of Microsoft Office online in Chrome with these simple tips. Speed up Word, Excel, and PowerPoint in your browser. Discover more tips and tr
+description: Get the most out of Microsoft Office online in Chrome with these simple
+  tips. Speed up Word, Excel, and PowerPoint in your browser. Discover more tips and
+  tr
 date: 2025-03-10
 categories:
 - productivity
@@ -80,7 +82,7 @@ These small optimizations can make a big difference in your daily workflow, espe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Facebook Ads Manager Tips](/articles/chrome-for-facebook-ads-manager-tips/)
+* [Chrome Send to Device Feature How to Use](/articles/chrome-send-to-device-feature-how-to-use/)
+* [Chrome MediaRecorder API Guide](/articles/chrome-mediarecorder-api-guide/)
 
-- [Chrome Extensions for Meal Planning Recipes](/articles/chrome-extensions-for-meal-planning-recipes)
-- [Chrome for SEO Keyword Research Extensions](/articles/chrome-for-seo-keyword-research-extensions)
-- [Chrome Extensions for Language Learning](/articles/chrome-extensions-for-language-learning)

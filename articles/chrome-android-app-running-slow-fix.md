@@ -139,10 +139,9 @@ These changes together can make Chrome feel significantly faster, even on older 
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*
+*## Related Articles
+* [Chrome WebGL Crashing My Browser](/articles/chrome-webgl-crashing-my-browser/)
+* [Chrome for Email Productivity Extensions](/articles/chrome-for-email-productivity-extensions/)
+* [Chrome Compact Mode How to Enable](/articles/chrome-compact-mode-how-to-enable/)
 
-## Related Articles
-
-- [Chrome Version History: Major Milestones That Shaped the Browser](/articles/chrome-version-history-major-milestones)
-- [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does)
-- [Best Chrome Extensions for Accessibility Needs](/articles/best-chrome-extensions-for-accessibility-needs)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Skyscanner Web App Tips
-description: Get the most out of Skyscanner in Chrome with these practical tips. Speed up flight searches and save time. Discover more tips and tricks to optimize your br
+description: Get the most out of Skyscanner in Chrome with these practical tips. Speed
+  up flight searches and save time. Discover more tips and tricks to optimize your
+  br
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-skyscanner-web-app-tips
@@ -71,7 +73,7 @@ Instead of just opening Skyscanner in a regular tab, you can install it as a web
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord//)
+* [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android/)
+* [Chrome vs Edge Memory Usage Comparison](/articles/chrome-vs-edge-memory-usage-comparison/)
 
-- [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy)
-- [Chrome Tab Organize AI Feature Explained](/articles/chrome-tab-organize-ai-feature-explained)
-- [Chrome Most Visited Sites How to Remove](/articles/chrome-most-visited-sites-how-to-remove)

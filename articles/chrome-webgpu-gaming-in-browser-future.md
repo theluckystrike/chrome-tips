@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "chrome webgpu gaming in browser future"
-description: "Explore how Chrome WebGPU is revolutionizing gaming in the browser, enabling console-quality graphics and immersive experiences without installations."
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "chrome-webgpu-gaming-in-browser-future"
-categories: "[gaming, technology, web-development]"
-tags: "[webgpu, chrome, gaming, browser-gaming, web-development]"
-author: "theluckystrike"
+layout: post
+title: chrome webgpu gaming in browser future
+description: Explore how Chrome WebGPU is revolutionizing gaming in the browser, enabling
+  console-quality graphics and immersive experiences without installations.
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-webgpu-gaming-in-browser-future
+categories: '[gaming, technology, web-development]'
+tags: '[webgpu, chrome, gaming, browser-gaming, web-development]'
+author: theluckystrike
 ---
 # Chrome WebGPU: The Future of Gaming in Your Browser
 
@@ -63,9 +64,9 @@ Chrome WebGPU represents a pivotal moment in browser technology. What was once a
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
-## Related Articles
+*## Related Articles
+* [Chrome Animation Performance Guide](/articles/chrome-animation-performance/)
+* [Best Chrome Extensions for Marketing Professionals](/articles/best-chrome-extensions-for-marketing-professionals/)
+* [How to Stop Chrome from Redirecting to HTTPS](/articles/how-to-stop-chrome-from-redirecting-to-https/)
 
-- [chrome for rosetta stone web tips](/articles/chrome-for-rosetta-stone-web-tips)
-- [Chrome Third Party Cookies Blocked What It Means](/articles/chrome-third-party-cookies-blocked-what-it-means)
-- [How to Use Chrome Without Signing In to Google](/articles/how-to-use-chrome-without-signing-in-to-google)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

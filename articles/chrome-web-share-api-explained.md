@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Web Share API Explained"
-description: "Learn what the Chrome Web Share API is, how it works, and how it enables powerful sharing capabilities in your browser. Read our comprehensive guide to learn..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-web-share-api-explained"
-categories: "[features, web-development]"
-tags: "[chrome-api, web-share, sharing, javascript]"
-author: "theluckystrike"
+layout: post
+title: Chrome Web Share API Explained
+description: Learn what the Chrome Web Share API is, how it works, and how it enables
+  powerful sharing capabilities in your browser. Read our comprehensive guide to learn...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-web-share-api-explained
+categories: '[features, web-development]'
+tags: '[chrome-api, web-share, sharing, javascript]'
+author: theluckystrike
 ---
 # Chrome Web Share API Explained
 
@@ -68,10 +69,9 @@ Features like the Chrome Web Share API work best when Chrome is performing optim
 Tab Suspender Pro can help with this by automatically suspending tabs you are not actively using, freeing up memory so Chrome can run smoothly. When your browser has resources to spare, you get the full benefit of modern web features like the Web Share API — fast, responsive, and capable of handling all your sharing needs.
 
 ## Related Articles
-- [Chrome Web USB API Explained](/chrome-web-usb-api-explained)
-- [Chrome Web Serial Api Explained](/chrome-web-serial-api-explained)
-- [Chrome Web GPU API Explained for Beginners](/chrome-web-gpu-api-explained-for-beginners)
-
+* [Chrome Font Palette Customization: Complete Guide for 2026](/articles/chrome-font-palette-customization/)
+* [Chrome Headless Mode What It Is](/articles/chrome-headless-mode-what-it-is/)
+* [Best Chrome Extensions for Graphic Designers](/articles/best-chrome-extensions-for-graphic-designers/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

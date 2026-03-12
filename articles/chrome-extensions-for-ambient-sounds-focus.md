@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Ambient Sounds Focus"
-description: "Struggling to focus? Learn how ambient sound extensions can help block distractions and improve concentration. Discover how these tools can significantly imp..."
-date: "2026-01-20"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-ambient-sounds-focus"
-layout: "post"
-categories: "[productivity, extensions]"
-tags: "[chrome-extensions, focus, productivity, ambient-sounds]"
-author: "theluckystrike"
+title: Chrome Extensions for Ambient Sounds Focus
+description: Struggling to focus? Learn how ambient sound extensions can help block
+  distractions and improve concentration. Discover how these tools can significantly
+  imp...
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-ambient-sounds-focus
+layout: post
+categories: '[productivity, extensions]'
+tags: '[chrome-extensions, focus, productivity, ambient-sounds]'
+author: theluckystrike
 ---
 # Chrome Extensions for Ambient Sounds Focus
 
@@ -68,10 +70,9 @@ Take some time to experiment with different sounds and see what works for you. E
 ---
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Ambient Noise](/chrome-extensions-for-ambient-noise)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-
+* [Chrome Network Process Using Too Much Memory](/articles/chrome-network-process-using-too-much-memory/)
+* [Chrome Extensions Disabled by Administrator Fix](/articles/chrome-extensions-disabled-by-administrator-fix/)
+* [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

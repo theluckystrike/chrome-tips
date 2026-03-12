@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Permissions Policy Header Explained
-description: Learn how the Permissions-Policy HTTP header works in Chrome and how to control browser features on your website. Learn effective tips and tricks to optimize...
+description: Learn how the Permissions-Policy HTTP header works in Chrome and how
+  to control browser features on your website. Learn effective tips and tricks to
+  optimize...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-permissions-policy-header-explained
@@ -16,8 +18,6 @@ tags:
 - security
 - web-development
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-permissions-policy-header-explained
 ---
 # Chrome Permissions Policy Header Explained
 
@@ -142,10 +142,9 @@ If you are concerned about browser resource usage and want to optimize your Chro
 The Permissions-Policy header is a valuable tool for web developers and site owners who want to take control of their site's capabilities. By explicitly defining which features your website can use, you enhance security, protect user privacy, and demonstrate best practices in web development. Take some time to review the features your site actually needs, and disable everything else. Your users will thank you for it.
 
 ## Related Articles
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)
-- [Chrome Extensions Permissions Explained Simply](/chrome-extensions-permissions-explained-simply)
-
+* [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web/)
+* [How to Use Chrome for Multiple Work Accounts](/articles/how-to-use-chrome-for-multiple-work-accounts/)
+* [How to Disable Chrome Auto Update on Windows](/articles/chrome-auto-update-disable-windows-guide/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

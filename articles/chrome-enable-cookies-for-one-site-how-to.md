@@ -1,13 +1,14 @@
 ---
-title: "Chrome Enable Cookies for One Site How to"
-description: "Learn how to enable cookies for one specific site in Chrome without turning on cookies for all websites. Simple step-by-step guide. Check out our expert recomme"
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-enable-cookies-for-one-site-how-to"
-layout: "post"
-categories: "[browser, settings, privacy]"
-tags: "[chrome-cookies, chrome-settings, browser-cookies, site-permissions]"
-author: "theluckystrike"
+title: Chrome Enable Cookies for One Site How to
+description: Learn how to enable cookies for one specific site in Chrome without turning
+  on cookies for all websites. Simple step-by-step guide. Check out our expert recomme
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-enable-cookies-for-one-site-how-to
+layout: post
+categories: '[browser, settings, privacy]'
+tags: '[chrome-cookies, chrome-settings, browser-cookies, site-permissions]'
+author: theluckystrike
 ---
 # Chrome Enable Cookies for One Site How to
 
@@ -80,7 +81,7 @@ If you find yourself frequently managing cookie permissions and want additional 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Blurry Text Fix Windows](/articles/chrome-blurry-text-fix-windows/)
+* [Chrome Download Manager Best Extension](/articles/chrome-download-manager-best-extension/)
+* [Is 4GB RAM Enough for Chrome in 2026?](/articles/is-4gb-ram-enough-for-chrome-in-2026/)
 
-- [How to Cast Chrome Tab to TV](/articles/how-to-cast-chrome-tab-to-tv)
-- [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track)
-- [Chrome Multiple Users on Same Computer Setup](/articles/chrome-multiple-users-on-same-computer-setup)

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Responsive Design Mode: How to Use It Effectively'
-description: Learn how to use Chrome's built-in responsive design mode to test websites across different screen sizes without multiple devices. Perfect for developers and...
+description: Learn how to use Chrome's built-in responsive design mode to test websites
+  across different screen sizes without multiple devices. Perfect for developers and...
 date: 2026-01-15
 categories:
 - developer-tools
@@ -93,7 +94,7 @@ Also remember to test both with and without scrollbars. Some responsive designs 
 Built by theluckystrike — More tips at zovo.one
 
 ## Related Articles
+* [chrome trusted types dom xss prevent](/articles/chrome-trusted-types-dom-xss-prevent/)
+* [Chrome Fullscreen Not Working Fix](/articles/chrome-fullscreen-not-working-fix/)
+* [Best Chrome Extensions for Email Management](/articles/best-chrome-extensions-for-email-management/)
 
-- [Chrome Web and App Activity How to Delete](/articles/chrome-web-and-app-activity-how-to-delete)
-- [Chrome Google Chat Integration in Browser](/articles/chrome-google-chat-integration-in-browser)
-- [Chrome Mobile Tabs Too Many How to Manage](/articles/chrome-mobile-tabs-too-many-how-to-manage)

@@ -1,13 +1,15 @@
 ---
-layout: "default"
-title: "How to Make Chrome Kid-Friendly"
-description: "Make Chrome safe and appropriate for children. Simple setup steps for filtering, safe search, and creating a browsing environment designed for kids. Read our..."
-date: "2025-03-09"
-last_modified_at: "2026-03-10"
-permalink: "how-to-make-chrome-kid-friendly"
-categories: "[family, safety]"
-tags: "[kid-friendly, child-safety, safe-browsing, chrome-for-kids]"
-author: "theluckystrike"
+layout: default
+title: How to Make Chrome Kid-Friendly
+description: Make Chrome safe and appropriate for children. Simple setup steps for
+  filtering, safe search, and creating a browsing environment designed for kids. Read
+  our...
+date: '2025-03-09'
+last_modified_at: '2026-03-10'
+permalink: how-to-make-chrome-kid-friendly
+categories: '[family, safety]'
+tags: '[kid-friendly, child-safety, safe-browsing, chrome-for-kids]'
+author: theluckystrike
 ---
 # How to Make Chrome Kid-Friendly
 
@@ -91,7 +93,7 @@ Making Chrome kid-friendly is a journey, not a destination. As your child grows 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Fix Chrome Search Bar Not Working](/articles/chrome-search-bar-not-working-fix/)
+* [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained/)
+* [Chrome Accessibility Shortcuts For Screen Reader](/articles/chrome-accessibility-shortcuts-for-screen-reader/)
 
-- [Chrome for Autofill Credit Card Safety](/articles/chrome-for-autofill-credit-card-safety)
-- [Chrome Extensions for Website Testing](/articles/chrome-extensions-for-website-testing)
-- [Chrome Critical Rendering Path Explained](/articles/chrome-critical-rendering-path-explained)

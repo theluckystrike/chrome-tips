@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Extensions That Steal Passwords Warning"
-description: "Malicious Chrome extensions can steal your passwords. Learn how they work and what you can do to protect yourself. Read our comprehensive guide to learn more..."
+title: Chrome Extensions That Steal Passwords Warning
+description: Malicious Chrome extensions can steal your passwords. Learn how they
+  work and what you can do to protect yourself. Read our comprehensive guide to learn
+  more...
 date: 2026-03-10
 last_modified_at: 2026-03-09
 permalink: chrome-extensions-that-steal-passwords-warning
@@ -87,7 +89,7 @@ Finally, keep an eye on your accounts in the following weeks. Attackers sometime
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Can Chrome Extensions Steal Your Data](/articles/can-chrome-extensions-steal-your-data/)
+* [Chrome Password Checkup Tool Guide](/articles/chrome-password-checkup-tool/)
+* [Chrome Extensions for Tab Previewer Hover](/articles/chrome-extensions-for-tab-previewer-hover/)
 
-- [How to Use Chrome Task Manager to Find Heavy Tabs](/articles/chrome-task-manager-find-heavy-tabs)
-- [Chrome Freezing on Chromebook During Zoom? Try These Fixes](/articles/chrome-freezing-on-chromebook-during-zoom)
-- [Chrome Address Bar Not Working Fix](/articles/chrome-address-bar-not-working-fix)

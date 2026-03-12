@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Cast to TV How to Set Up"
-description: "Learn how to set up Chrome Cast to TV with this beginner-friendly guide. Get your Chromecast working with your TV in just a few simple steps. Check out our expe"
-date: "2026-01-15"
-last_modified_at: '2026-03-12'
-permalink: "chrome-cast-to-tv-how-to-set-up"
-categories: [casting, streaming, tv]
-tags: [chrome-cast, chromecast-setup, screen-mirroring]
-author: "theluckystrike"
+layout: post
+title: Chrome Cast to TV How to Set Up
+description: Learn how to set up Chrome Cast to TV with this beginner-friendly guide.
+  Get your Chromecast working with your TV in just a few simple steps. Check out our
+  expe
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-cast-to-tv-how-to-set-up
+categories:
+- casting
+- streaming
+- tv
+tags:
+- chrome-cast
+- chromecast-setup
+- screen-mirroring
+author: theluckystrike
 ---
 # Chrome Cast to TV How to Set Up
 
@@ -74,7 +82,7 @@ Setting up Chrome Cast to TV is a straightforward process that anyone can do. Yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Spotify Web Player Shortcuts](/articles/chrome-for-spotify-web-player-shortcuts/)
+* [Chrome Continue Where You Left Off Not Working](/articles/chrome-continue-where-you-left-off-not-working/)
+* [chrome for pinterest web clipper](/articles/chrome-for-pinterest-web-clipper/)
 
-- [Chrome Default Folder Location Where Is It](/articles//chrome-default-folder-location-where-is-it/)
-- [Chrome Related Website Sets Explained](/articles/chrome-related-website-sets-explained)
-- [Chrome Android App Running Slow Fix: Practical Solutions That Actually Work](/articles/chrome-android-app-running-slow-fix)

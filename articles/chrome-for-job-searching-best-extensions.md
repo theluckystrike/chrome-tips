@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Job Searching Best Extensions
-description: Discover the best Chrome extensions for job searching. Streamline your job hunt with these helpful tools. Discover more tips and tricks to optimize your brow
+description: Discover the best Chrome extensions for job searching. Streamline your
+  job hunt with these helpful tools. Discover more tips and tricks to optimize your
+  brow
 date: 2026-01-15
 categories:
 - productivity
@@ -78,7 +80,7 @@ Give a few of these extensions a try and see which ones work best for your uniqu
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Private Aggregation API Explained](/articles/chrome-private-aggregation-api-explained/)
+* [Chrome Coverage Tool Guide](/articles/chrome-coverage-tool-guide/)
+* [Chrome Extensions for Social Media Scheduler](/articles/chrome-extensions-for-social-media-scheduler/)
 
-- [Why Is My Chrome Tab Using 1GB of Memory? Here's Why and How to Fix It](/articles/chrome-tab-using-1gb-memory-why)
-- [Chrome for Jira Best Extensions](/articles/chrome-for-jira-best-extensions)
-- [chrome vs firefox extensions comparison](/articles/chrome-vs-firefox-extensions-comparison)

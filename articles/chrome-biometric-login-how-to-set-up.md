@@ -89,7 +89,7 @@ For users who want to ensure their biometric credentials are handled securely, b
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Process Per Tab: How to Disable It to Save Memory](/articles/chrome-process-per-tab-disable-to-save-memory/)
+* [Chrome Audio Equalizer Extension](/articles/chrome-audio-equalizer-extension/)
+* [Best Chrome Extensions for Twitter X](/articles/best-chrome-extensions-for-twitter-x/)
 
-- [How to Fix Chrome Mixed Content Warning](/articles/chrome-mixed-content-warning-fix)
-- [Chrome Game Streaming Optimization Tips](/articles/chrome-game-streaming-optimization-tips)
-- [chrome for google finance tips](/articles/chrome-for-google-finance-tips)

@@ -1,15 +1,21 @@
 ---
-title: "Chrome Copy Paste Not Working Fix"
-description: "Chrome copy paste not working can be frustrating. Learn why it happens and simple fixes to get copy and paste working again. Read our full guide to master your "
-date: "2025-03-09"
-last_modified_at: '2026-03-12'
-permalink: "chrome-copy-paste-not-working-fix"
-layout: post
-categories: ['troubleshooting', 'tips']
-tags: ['chrome-copy-paste', 'copy-paste-not-working', 'chrome-fix', 'browser-tips']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: Chrome Copy Paste Not Working Fix
+description: 'Chrome copy paste not working can be frustrating. Learn why it happens
+  and simple fixes to get copy and paste working again. Read our full guide to master
+  your '
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
 permalink: chrome-copy-paste-not-working-fix
+layout: post
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-copy-paste
+- copy-paste-not-working
+- chrome-fix
+- browser-tips
+author: theluckystrike
 ---
 # Chrome Copy Paste Not Working Fix
 
@@ -106,7 +112,7 @@ Finally, avoid keeping too many tabs open at once. Having dozens of open tabs ca
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome DevTools Workspaces Guide](/articles/chrome-workspaces-guide/)
+* [Chrome for Google Docs Offline Setup](/articles/chrome-for-google-docs-offline-setup/)
+* [Chrome Idle Detection API Explained: What It Means for Your Browser](/articles/chrome-idle-detection-api-explained/)
 
-- [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix)
-- [Chrome Browser Management for IT Admins](/articles/chrome-browser-management-for-it-admins)
-- [Chrome Upcoming Features Preview 2026](/articles/chrome-upcoming-features-preview-2026)

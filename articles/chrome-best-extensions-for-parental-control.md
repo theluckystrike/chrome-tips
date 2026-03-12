@@ -91,7 +91,7 @@ Consider adding Tab Suspender Pro to your family's browser for additional organi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Import Bookmarks from Firefox to Chrome](/articles/how-to-import-bookmarks-from-firefox-to-chrome/)
+* [Chrome Extensions for Study Timer](/articles/chrome-extensions-for-study-timer/)
+* [How to Enable Chrome Tab Preview on Hover](/articles/chrome-tab-preview-hover-how-to-enable/)
 
-- [Chrome for Figma Best Settings](/articles/chrome-for-figma-best-settings)
-- [How to Export Bookmarks from Chrome](/articles/how-to-export-bookmarks-from-chrome)
-- [Chrome Webview on Android What It Does](/articles/chrome-webview-on-android-what-it-does)

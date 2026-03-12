@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for price drop alert extensions
-description: Find the best Chrome extensions for price drop alerts to track product prices and save money on online shopping. Discover more tips and tricks to optimize yo
+description: Find the best Chrome extensions for price drop alerts to track product
+  prices and save money on online shopping. Discover more tips and tricks to optimize
+  yo
 date: 2026-03-10
 categories:
 - extensions
@@ -80,7 +82,7 @@ It is also a good idea to occasionally check that your extensions are still work
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome web store not loading fix](/articles/chrome-web-store-not-loading-fix/)
+* [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained/)
+* [Chrome Sync Across Devices How It Works](/articles/chrome-sync-across-devices-how-it-works/)
 
-- [How to Stop Chrome from Redirecting to HTTPS](/articles/how-to-stop-chrome-from-redirecting-to-https)
-- [Chrome GPU Process High CPU Fix](/articles/chrome-gpu-process-high-cpu-fix)
-- [Chrome Network Speed in Developer Tools](/articles/chrome-network-speed-in-developer-tools)

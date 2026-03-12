@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extension for Changing User Agent"
-description: "Learn how to use a Chrome extension for changing user agent to fix websites that block or limit access based on your browser identity. Check out our expert reco"
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extension-for-changing-user-agent"
-layout: "post"
-categories: "[extensions, tips]"
-tags: "[chrome-extensions, user-agent, browser-tools]"
-author: "theluckystrike"
+title: Chrome Extension for Changing User Agent
+description: Learn how to use a Chrome extension for changing user agent to fix websites
+  that block or limit access based on your browser identity. Check out our expert
+  reco
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-changing-user-agent
+layout: post
+categories: '[extensions, tips]'
+tags: '[chrome-extensions, user-agent, browser-tools]'
+author: theluckystrike
 ---
 # Chrome Extension for Changing User Agent
 
@@ -54,10 +56,9 @@ Start with the most common options if you are not sure what to choose. The defau
 Keep in mind that changing your user agent might affect how some websites function. You might see different content, different layouts, or lose access to features that are specific to your actual browser. Most of the time this is temporary and only affects the site you are testing, but it is worth being aware of.
 
 ## Related Articles
-- [Chrome Client Hints Instead of User Agent: What Changed](/chrome-client-hints-instead-of-user-agent)
-- [Chrome Supervised Profiles for Kids](/chrome-supervised-user-profile-for-kids)
-- [Chrome Extensions for User Agent Randomizer](/chrome-extensions-for-user-agent-randomizer)
-
+* [Chrome Flexbox Debugging Guide](/articles/chrome-flexbox-debugging/)
+* [chrome file system access api explained](/articles/chrome-file-system-access-api-explained/)
+* [Chrome Screen Wake Lock API Explained](/articles/chrome-screen-wake-lock-api-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

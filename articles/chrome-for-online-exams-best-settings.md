@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome for Online Exams Best Settings
-description: Get Chrome ready for online exams with these simple settings. Improve performance, reduce distractions, and avoid technical issues during important tests
+description: Get Chrome ready for online exams with these simple settings. Improve
+  performance, reduce distractions, and avoid technical issues during important tests
 date: 2025-02-20
 categories:
 - performance
@@ -109,7 +110,7 @@ Following these steps will help you walk into your online exam with confidence, 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Quizlet Web App Best Settings](/articles/chrome-for-quizlet-web-app-best-settings/)
+* [chrome for vimeo web upload tips](/articles/chrome-for-vimeo-web-upload-tips/)
+* [chrome for podcast web players best setup](/articles/chrome-for-podcast-web-players-best-setup/)
 
-- [Chrome Extensions for Habit Tracker](/articles/chrome-extensions-for-habit-tracker)
-- [how to delete chrome browsing data automatically](/articles/how-to-delete-chrome-browsing-data-automatically)
-- [Chrome for Zotero Web Connector Setup](/articles/chrome-for-zotero-web-connector-setup)

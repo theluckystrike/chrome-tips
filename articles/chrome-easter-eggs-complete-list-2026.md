@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome Easter Eggs Complete List 2026"
-description: "Discover hidden Chrome easter eggs and fun tricks in your browser. Complete guide to accessing secret features in Google Chrome for 2026. Explore our compre..."
+title: Chrome Easter Eggs Complete List 2026
+description: Discover hidden Chrome easter eggs and fun tricks in your browser. Complete
+  guide to accessing secret features in Google Chrome for 2026. Explore our compre...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-easter-eggs-complete-list-2026
@@ -73,7 +74,7 @@ Remember that Chrome is updated regularly, so new easter eggs may appear and old
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome User Agent String: What It Is and How It Works](/articles/chrome-user-agent-string-what-it-is/)
+* [Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide](/articles/chrome-amazon-prime-video-not-playing-fix/)
+* [Chrome Multiple Profiles How to Switch Quickly](/articles/chrome-multiple-profiles-how-to-switch-quickly/)
 
-- [Chrome Task Manager Guide](/articles/chrome-task-manager-guide)
-- [Chrome Address Bar Not Showing Full URL Fix](/articles/chrome-address-bar-not-showing-full-url-fix)
-- [Chrome Trust Tokens Explained](/articles/chrome-trust-tokens-guide)

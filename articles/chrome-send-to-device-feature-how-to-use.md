@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Send to Device Feature How to Use
-description: Learn how to use Chrome's Send to Device feature to instantly share tabs, links, and content between your devices. Read our comprehensive guide to learn more an
+description: Learn how to use Chrome's Send to Device feature to instantly share tabs,
+  links, and content between your devices. Read our comprehensive guide to learn more
+  an
 date: 2026-01-15
 categories:
 - chrome
@@ -81,7 +83,7 @@ If you find yourself frequently sending tabs between devices, you might also ben
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome PDF Not Opening in Browser Fix](/articles/chrome-pdf-not-opening-in-browser-fix/)
+* [Chrome Extensions for Note Taking in Meetings](/articles/chrome-extensions-for-note-taking-in-meetings/)
+* [Chrome for Reducing Eye Strain Extensions](/articles/chrome-for-reducing-eye-strain-extensions/)
 
-- [Chrome for Redfin Web App Tips](/articles/chrome-for-redfin-web-app-tips)
-- [Chrome for Resume Building Web Tools](/articles/chrome-for-resume-building-web-tools)
-- [Best Chrome Extensions For Journalists](/articles/best-chrome-extensions-for-journalists)

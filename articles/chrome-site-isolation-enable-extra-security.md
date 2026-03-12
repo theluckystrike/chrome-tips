@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Enable Chrome Site Isolation for Extra Security
-description: Learn what Chrome Site Isolation is, why it matters for your security, and how to enable it step by step. Read our comprehensive guide to learn more and improve
+description: Learn what Chrome Site Isolation is, why it matters for your security,
+  and how to enable it step by step. Read our comprehensive guide to learn more and
+  improve
 date: 2026-01-15
 categories:
 - security
@@ -84,10 +86,9 @@ While no single security measure can guarantee complete protection, Site Isolati
 Don't wait until after a security incident to take action. Enable Chrome Site Isolation today and enjoy the peace of mind that comes with knowing your browsing activity is better protected.
 
 ## Related Articles
-- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
-- [Chrome Site Isolation Explained Simply](/chrome-site-isolation-explained-simply)
-- [Chrome Site Isolation Explained for Users](/chrome-site-isolation-explained-for-users)
-
+* [Chrome Extension GDPR Compliance Guide](/articles/chrome-extension-gdpr-compliance-guide/)
+* [Chrome vs Safari for iPhone Which is Better](/articles/chrome-vs-safari-for-iphone-which-is-better/)
+* [Chrome for Stable Diffusion Web UI Tips](/articles/chrome-for-stable-diffusion-web-ui-tips/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

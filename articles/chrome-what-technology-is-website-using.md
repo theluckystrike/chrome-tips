@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome What Technology Is Website Using"
-description: "Learn how to find out what technology a website uses in Chrome. Simple methods to identify frameworks, libraries, and tools. Read our comprehensive guide to ..."
-date: "2025-02-19"
-last_modified_at: "2026-03-09"
-permalink: "chrome-what-technology-is-website-using"
-categories: "[browser-tips, web-development]"
-tags: "[website-technology, web-tools, browser-features]"
-author: "theluckystrike"
+layout: post
+title: Chrome What Technology Is Website Using
+description: Learn how to find out what technology a website uses in Chrome. Simple
+  methods to identify frameworks, libraries, and tools. Read our comprehensive guide
+  to ...
+date: '2025-02-19'
+last_modified_at: '2026-03-09'
+permalink: chrome-what-technology-is-website-using
+categories: '[browser-tips, web-development]'
+tags: '[website-technology, web-tools, browser-features]'
+author: theluckystrike
 ---
 # Chrome What Technology Is Website Using
 
@@ -90,7 +92,7 @@ Understanding what technology a site uses can satisfy your curiosity, help you m
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [chrome reopen closed tab shortcut](/articles/chrome-reopen-closed-tab-shortcut/)
+* [Chrome Extensions for Time Tracking](/articles/chrome-extensions-for-time-tracking/)
+* [How to Reduce Chrome Startup Time](/articles/how-to-reduce-chrome-startup-time/)
 
-- [How to Cast Chrome Tab to TV](/articles/how-to-cast-chrome-tab-to-tv)
-- [Chrome Extensions for Online Shopping Deals](/articles/chrome-extensions-for-online-shopping-deals)
-- [Chrome iOS Tips and Tricks for 2026](/articles/chrome-ios-tips-and-tricks-2026)

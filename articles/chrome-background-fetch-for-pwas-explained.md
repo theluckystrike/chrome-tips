@@ -83,7 +83,7 @@ Regular maintenance helps too. Periodically check which PWAs you have installed 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions Update Frequency Explained](/articles/chrome-extensions-update-frequency-explained/)
+* [Chrome Pinned Tabs Explained](/articles/chrome-pinned-tabs-explained/)
+* [Chrome Extension for Managing Multiple Email Accounts](/articles/chrome-extension-for-managing-multiple-email-accounts/)
 
-- [Chrome Extension for Saving Articles Offline](/articles/chrome-extension-for-saving-articles-offline)
-- [Chrome Mobile vs Desktop Features Difference: What You Need to Know](/articles/chrome-mobile-vs-desktop-features-difference)
-- [Chrome DevTools Command Menu Shortcuts](/articles//chrome-devtools-command-menu-shortcuts/)

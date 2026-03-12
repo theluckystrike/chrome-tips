@@ -1,15 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions for Video Playback Speed Control"
-description: "Discover the best chrome extensions for video playback speed control to watch videos faster or slower in any browser. Read our comprehensive guide to learn m..."
+title: Chrome Extensions for Video Playback Speed Control
+description: Discover the best chrome extensions for video playback speed control
+  to watch videos faster or slower in any browser. Read our comprehensive guide to
+  learn m...
 date: 2026-01-15
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-video-playback-speed-control
-categories: [extensions, media, productivity]
-tags: [chrome-extension, video-playback, speed-control, chrome-extensions]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-video-playback-speed-control
+categories:
+- extensions
+- media
+- productivity
+tags:
+- chrome-extension
+- video-playback
+- speed-control
+- chrome-extensions
+author: theluckystrike
 ---
 # Chrome Extensions for Video Playback Speed Control
 
@@ -72,7 +79,7 @@ Whether you need to speed through mandatory training videos, slow down a tutoria
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Why Is Chrome So Slow on My Computer?](/articles/why-is-chrome-so-slow-on-my-computer/)
+* [chrome extension rejected common reasons fix](/articles/chrome-extension-rejected-common-reasons-fix/)
+* [Chrome for Speed Reading Extensions](/articles/chrome-for-speed-reading-extensions/)
 
-- [Chrome Tab Groups vs Bookmarks](/articles/chrome-tab-groups-vs-bookmarks)
-- [Chrome for Minimalist Browsing Setup](/articles/chrome-for-minimalist-browsing-setup)
-- [chrome right to left language support](/articles/chrome-right-to-left-language-support)

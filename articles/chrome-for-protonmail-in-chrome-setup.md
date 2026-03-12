@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for protonmail in chrome setup
-description: Learn how to set up ProtonMail in Chrome for secure email. Get tips for managing your encrypted inbox and improving your workflow. Discover more tips and tri
+description: Learn how to set up ProtonMail in Chrome for secure email. Get tips for
+  managing your encrypted inbox and improving your workflow. Discover more tips and
+  tri
 date: 2026-01-15
 categories:
 - email
@@ -83,7 +85,7 @@ Remember to log out of ProtonMail when using shared or public computers. Chrome 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chromebook Storage Full How to Free Space](/articles/chromebook-storage-full-how-to-free-space/)
+* [Chrome Bookmark Bar Disappeared How to Get Back](/articles/chrome-bookmark-bar-disappeared-how-to-get-back/)
+* [How to Turn Off Chrome Notifications Permanently](/articles/how-to-turn-off-chrome-notifications-permanently/)
 
-- [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature)
-- [Chrome Extensions for Gantt Chart](/articles/chrome-extensions-for-gantt-chart)
-- [Chrome Total Blocking Time Explained](/articles/chrome-total-blocking-time-explained)

@@ -1,13 +1,15 @@
 ---
-layout: "default"
-title: "How to Group Tabs in Chrome 2026"
-description: "Learn how to group tabs in Chrome 2026 with color coding, collapsing groups, saving sessions, and sharing tab groups. Master Chrome tab management with this ..."
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "how-to-group-tabs-in-chrome-2026"
-categories: "[chrome, tabs, productivity]"
-tags: "[chrome-tabs, tab-groups, browser-tips, productivity, chrome-2026]"
-author: "theluckystrike"
+layout: default
+title: How to Group Tabs in Chrome 2026
+description: Learn how to group tabs in Chrome 2026 with color coding, collapsing
+  groups, saving sessions, and sharing tab groups. Master Chrome tab management with
+  this ...
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: how-to-group-tabs-in-chrome-2026
+categories: '[chrome, tabs, productivity]'
+tags: '[chrome-tabs, tab-groups, browser-tips, productivity, chrome-2026]'
+author: theluckystrike
 ---
 # How to Group Tabs in Chrome 2026
 
@@ -194,10 +196,9 @@ For additional ways to enhance your Chrome experience and maintain optimal brows
 >>>>>>> consumer/a33-how-to-group-tabs-in-chrome-2026
 
 ## Related Articles
-- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
-- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
-- [How to Save Chrome Tabs for Later](/how-to-save-chrome-tabs-for-later)
-
+* [chrome tab memory usage keeps growing](/articles/chrome-tab-memory-usage-keeps-growing/)
+* [Chrome Web NFC API Guide](/articles/chrome-web-nfc-api-guide/)
+* [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/articles/chrome-site-isolation-security-feature/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

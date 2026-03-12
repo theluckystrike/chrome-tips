@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Password Checkup What It Does
-description: Learn what Chrome Password Checkup does and how it helps keep your accounts safe from data breaches and hackers. Learn effective tips and tricks to optimize ...
+description: Learn what Chrome Password Checkup does and how it helps keep your accounts
+  safe from data breaches and hackers. Learn effective tips and tricks to optimize
+  ...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-password-checkup-what-it-does
@@ -77,10 +79,9 @@ If you find that managing many tabs helps you stay productive, consider using to
 Make it a habit to check periodically or respond right away when Chrome alerts you. Your online safety is worth those few minutes of effort.
 
 ## Related Articles
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
-- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
-- [Chrome Site Isolation What It Does](/chrome-site-isolation-what-it-does)
-
+* [Chrome Google Translate Built in Feature Tips](/articles/chrome-google-translate-built-in-feature-tips/)
+* [Chrome Toggle Fullscreen Shortcut](/articles/chrome-toggle-fullscreen-shortcut/)
+* [Chrome Sign in With Google on Websites Explained](/articles/chrome-sign-in-with-google-on-websites-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

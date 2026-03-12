@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Citation Manager Extensions
-description: Find the best Chrome citation manager extensions to organize your research and create bibliographies easily. Find out more tips on how to optimize your Chrom...
+description: Find the best Chrome citation manager extensions to organize your research
+  and create bibliographies easily. Find out more tips on how to optimize your Chrom...
 date: 2026-03-10
 categories:
 - productivity
@@ -70,7 +71,7 @@ Remember that citation management is about more than just creating bibliographie
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Screen Sharing in Browser How To](/articles/chrome-screen-sharing-in-browser-how-to/)
+* [Chrome 2026 New Features Overview](/articles/chrome-2026-new-features-overview/)
+* [chrome site isolation what it does](/articles/chrome-site-isolation-what-it-does/)
 
-- [Chrome Web Notifications Best Practices](/articles/chrome-web-notifications-best-practices)
-- [Chrome for Claude AI Web Tips](/articles/chrome-for-claude-ai-web-tips)
-- [Chrome Extensions for Image Downloader Bulk](/articles/chrome-extensions-for-image-downloader-bulk)

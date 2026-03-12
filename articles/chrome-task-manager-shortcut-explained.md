@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Task Manager Shortcut Explained"
-description: "Learn the keyboard shortcut to open Chrome Task Manager and quickly identify which tabs are slowing down your browser. Read our comprehensive guide to learn ..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-task-manager-shortcut-explained"
-categories: "[performance, troubleshooting]"
-tags: "[chrome-task-manager, browser-tools, chrome-tips]"
-author: "theluckystrike"
+layout: post
+title: Chrome Task Manager Shortcut Explained
+description: Learn the keyboard shortcut to open Chrome Task Manager and quickly identify
+  which tabs are slowing down your browser. Read our comprehensive guide to learn
+  ...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-task-manager-shortcut-explained
+categories: '[performance, troubleshooting]'
+tags: '[chrome-task-manager, browser-tools, chrome-tips]'
+author: theluckystrike
 ---
 # Chrome Task Manager Shortcut Explained
 
@@ -54,10 +56,9 @@ Making it a habit to check the Task Manager occasionally helps you catch problem
 The Shift+Esc shortcut puts this powerful tool at your fingertips whenever you need it. Once you start using it regularly, you will find it much easier to keep your browser running smoothly and to troubleshoot issues when they arise.
 
 ## Related Articles
-- [How to Use Chrome Task Manager to Find Heavy Tabs](/chrome-task-manager-find-heavy-tabs)
-- [How to Use Chrome Task Manager to Find Slow Tabs](/how-to-use-chrome-task-manager-to-find-slow-tabs)
-- [Chrome Mute Tab Shortcut Explained](/chrome-mute-tab-shortcut-explained)
-
+* [chrome vs firefox for privacy 2026](/articles/chrome-vs-firefox-for-privacy-2026/)
+* [Chrome for Music Discovery Extensions](/articles/chrome-for-music-discovery-extensions/)
+* [chrome for tiktok web best settings](/articles/chrome-for-tiktok-web-best-settings/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

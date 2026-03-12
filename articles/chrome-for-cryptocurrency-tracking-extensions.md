@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Cryptocurrency Tracking Extensions
-description: Learn how to use Chrome for cryptocurrency tracking extensions to monitor your investments directly in your browser. Find out more tips on how to optimize yo...
+description: Learn how to use Chrome for cryptocurrency tracking extensions to monitor
+  your investments directly in your browser. Find out more tips on how to optimize
+  yo...
 date: 2026-03-10
 categories:
 - cryptocurrency
@@ -70,7 +72,7 @@ Remember that while tracking extensions are convenient, you should still practic
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Passwords on Phone How to View](/articles/chrome-passwords-on-phone-how-to-view/)
+* [Chrome Extensions for Session Buddy](/articles/chrome-extensions-for-session-buddy/)
+* [chrome location services how to turn off](/articles/chrome-location-services-how-to-turn-off/)
 
-- [Chrome Encoding API Text Encoder Decoder](/articles/chrome-encoding-api-text-encoder-decoder)
-- [Chrome Taking 5 Minutes to Load: Fixes for Slow Computers](/articles/chrome-taking-5-minutes-to-load)
-- [chrome extensions for similar image finder](/articles/chrome-extensions-for-similar-image-finder)

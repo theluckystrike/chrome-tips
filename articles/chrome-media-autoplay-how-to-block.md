@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Media Autoplay How to Block"
-description: "Tired of videos playing automatically in Chrome? Learn simple ways to block media autoplay and take control of your browsing experience. Check out our expert r"
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-media-autoplay-how-to-block"
-categories: [tips, privacy]
-tags: [media, autoplay, chrome-tips, browser-settings]
-author: "theluckystrike"
+layout: post
+title: Chrome Media Autoplay How to Block
+description: Tired of videos playing automatically in Chrome? Learn simple ways to
+  block media autoplay and take control of your browsing experience. Check out our
+  expert r
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-media-autoplay-how-to-block
+categories:
+- tips
+- privacy
+tags:
+- media
+- autoplay
+- chrome-tips
+- browser-settings
+author: theluckystrike
 ---
 # Chrome Media Autoplay How to Block
 
@@ -68,7 +76,7 @@ The web should work for you, not against you. Autoplay exists because it benefit
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Emulate Print Media How To](/articles/chrome-emulate-print-media-how-to/)
+* [Chrome Lost All My Tabs After Update Fix](/articles/chrome-lost-all-my-tabs-update-fix/)
+* [Chrome for Google Scholar Best Extensions](/articles/chrome-for-google-scholar-best-extensions/)
 
-- [Chrome for QuickBooks Online Best Settings](/articles/chrome-for-quickbooks-online-best-settings)
-- [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix)
-- [Chrome Media Session API: Mastering Music Controls in Your Browser](/articles/chrome-media-session-api-music-controls)

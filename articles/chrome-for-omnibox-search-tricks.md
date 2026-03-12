@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Omnibox Search Tricks
-description: Learn powerful Chrome omnibox search tricks to browse faster. Discover hidden features that turn your address bar into a productivity tool. Discover more tip
+description: Learn powerful Chrome omnibox search tricks to browse faster. Discover
+  hidden features that turn your address bar into a productivity tool. Discover more
+  tip
 date: 2025-02-20
 categories:
 - productivity
@@ -86,7 +88,7 @@ Tab Suspender Pro automatically pauses tabs you are not using, which saves memor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Coupon Finder Built In Feature](/articles/chrome-coupon-finder-built-in-feature/)
+* [chrome file handling api explained](/articles/chrome-file-handling-api-explained/)
+* [Chrome Extension for Taking Notes While Browsing](/articles/chrome-extension-for-taking-notes-while-browsing/)
 
-- [How to Speed Up Chrome on 2GB RAM Laptop](/articles/how-to-speed-up-chrome-on-2gb-ram-laptop)
-- [Chrome requestanimationframe Explained: What It Means for Your Browser](/articles/chrome-requestanimationframe-explained)
-- [Chrome OS vs Windows for Everyday Use](/articles/chrome-os-vs-windows-for-everyday-use)

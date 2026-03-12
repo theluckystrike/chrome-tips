@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "How to Limit Screen Time in Chrome with Extensions"
-description: "Learn how to use Chrome extensions to limit screen time, block distracting websites, and stay productive. Check out our expert recommendations and tips to enha"
-date: "2026-03-11"
-last_modified_at: "2026-03-11"
-permalink: "chrome-limit-screen-time-with-extension"
-categories: [productivity, extensions]
-tags: [chrome-extensions, screen-time, productivity, focus]
-author: "theluckystrike"
+layout: post
+title: How to Limit Screen Time in Chrome with Extensions
+description: Learn how to use Chrome extensions to limit screen time, block distracting
+  websites, and stay productive. Check out our expert recommendations and tips to
+  enha
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-limit-screen-time-with-extension
+categories:
+- productivity
+- extensions
+tags:
+- chrome-extensions
+- screen-time
+- productivity
+- focus
+author: theluckystrike
 ---
 # How to Limit Screen Time in Chrome with Extensions
 
@@ -100,10 +108,9 @@ Think about why you want to limit your screen time. Is it to be more productive 
 Remember that setbacks are normal. If you have a day where you spend too much time online, do not give up. Review what happened, adjust your settings if needed, and try again tomorrow.
 
 ## Related Articles
-- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
-- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
-
+* [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use/)
+* [Chrome Incognito Mode: Actually Private or Just a False Sense of Security?](/articles/chrome-incognito-mode-actually-private-or-not/)
+* [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/articles/chrome-makes-my-old-laptop-unusable/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

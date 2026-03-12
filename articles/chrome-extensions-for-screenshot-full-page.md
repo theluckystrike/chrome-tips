@@ -1,13 +1,15 @@
 ---
-title: "chrome extensions for screenshot full page"
-description: "Learn how to capture entire web pages with Chrome extensions designed for full page screenshots. Simple solutions for capturing complete content. Check out..."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-screenshot-full-page"
-layout: "post"
-categories: "[extensions, productivity]"
-tags: "[screenshot, chrome-extension, full-page, capture, productivity]"
-author: "theluckystrike"
+title: chrome extensions for screenshot full page
+description: Learn how to capture entire web pages with Chrome extensions designed
+  for full page screenshots. Simple solutions for capturing complete content. Check
+  out...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-screenshot-full-page
+layout: post
+categories: '[extensions, productivity]'
+tags: '[screenshot, chrome-extension, full-page, capture, productivity]'
+author: theluckystrike
 ---
 # Chrome Extensions for Screenshot Full Page
 
@@ -78,7 +80,7 @@ The key is finding an extension that matches your workflow. Most of these tools 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Workspaces: Link DevTools to Files for Seamless Development](/articles/chrome-workspaces-link-devtools-to-files/)
+* [What Happens When Chrome Extension Is Removed From Store](/articles/what-happens-when-chrome-extension-is-removed-from-store/)
+* [Chrome Local Storage How to Clear for One Site](/articles/chrome-local-storage-how-to-clear-for-one-site/)
 
-- [Chrome for Facebook Best Extensions](/articles/chrome-for-facebook-best-extensions)
-- [How to Improve Chrome WebGL Performance](/articles/chrome-webgl-performance-how-to-improve)
-- [Chrome Extensions for Raindrop IO](/articles/chrome-extensions-for-raindrop-io)

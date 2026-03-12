@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "How to Check If Chrome Extension Is Spying on Me"
-description: "Worried about Chrome extensions tracking you? Learn how to detect spying extensions and protect your privacy with simple steps. Read our comprehensive guide ..."
-date: "2026-01-01"
-last_modified_at: "2026-03-09"
-permalink: "how-to-check-if-chrome-extension-is-spying-on-me"
+layout: post
+title: How to Check If Chrome Extension Is Spying on Me
+description: Worried about Chrome extensions tracking you? Learn how to detect spying
+  extensions and protect your privacy with simple steps. Read our comprehensive guide
+  ...
+date: '2026-01-01'
+last_modified_at: '2026-03-09'
+permalink: how-to-check-if-chrome-extension-is-spying-on-me
 ---
 How to check if Chrome extension is spying on me is a question that concerns many people who use browser extensions. With Chrome being the most popular browser worldwide, millions of users have installed various extensions to enhance their browsing experience. However, not all extensions are what they seem. Some may be quietly collecting your data, tracking your browsing habits, or even accessing sensitive information without your knowledge. The good news is that you can take several steps to find out if any of your extensions are spying on you.
 
@@ -79,7 +81,7 @@ By taking these steps, you can enjoy the benefits that extensions provide while 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions For Cookie Auto Delete](/articles//articles/chrome-extensions-for-cookie-auto-delete//)
+* [Chrome Memory Saver Feature Explained](/articles/chrome-memory-saver-feature-explained/)
+* [Chrome Performance Settings Explained 2026](/articles/chrome-performance-settings-explained-2026/)
 
-- [Chrome Performance Getting Worse Over Time](/articles/chrome-performance-getting-worse-over-time)
-- [Chrome Extensions For Figma Companion](/articles//articles/chrome-extensions-for-figma-companion/)
-- [Best Chrome Extensions for Small Business Owners](/articles/best-chrome-extensions-for-small-business-owners)

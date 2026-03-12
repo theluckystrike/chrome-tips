@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome new tab page how to customize
-description: Learn how to customize your Chrome new tab page with simple steps to improve your browsing experience and productivity. Learn effective tips and tricks to op...
+description: Learn how to customize your Chrome new tab page with simple steps to
+  improve your browsing experience and productivity. Learn effective tips and tricks
+  to op...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-new-tab-page-how-to-customize
@@ -53,7 +55,7 @@ Remember that your needs may change over time. Revisit your new tab page setup e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Bookmark Current Page Shortcut](/articles/chrome-bookmark-current-page-shortcut/)
+* [Chrome Scroll-Driven Animations: Complete Guide for 2026](/articles/chrome-scroll-driven-animations/)
+* [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension/)
 
-- [Chrome Local Font Access API Explained](/articles/chrome-local-font-access-api-explained)
-- [Chrome Screenshot Full Page Without Extension](/articles/chrome-screenshot-full-page-without-extension)
-- [Chrome for Weather Dashboard Extensions](/articles/chrome-for-weather-dashboard-extensions)

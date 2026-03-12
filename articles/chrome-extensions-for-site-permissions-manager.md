@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Site Permissions Manager"
-description: "Learn how Chrome extensions for site permissions manager help you control Check out our expert recommendations and tips to enhance your browsing experience..."
-date: "2026-03-09"
-last_modified_at: "2026-03-11"
-permalink: "chrome-extensions-for-site-permissions-manager"
-layout: "post"
-categories: ""
-tags: ""
-author: "theluckystrike"
+title: Chrome Extensions for Site Permissions Manager
+description: Learn how Chrome extensions for site permissions manager help you control
+  Check out our expert recommendations and tips to enhance your browsing experience...
+date: '2026-03-09'
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-site-permissions-manager
+layout: post
+categories: ''
+tags: ''
+author: theluckystrike
 ---
 # Chrome Extensions for Site Permissions Manager
 
@@ -56,7 +57,7 @@ By understanding what permissions you have granted and staying proactive about m
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Reverse Video Search](/articles/chrome-extensions-for-reverse-video-search/)
+* [Chrome Extensions for Weather Forecast](/articles/chrome-extensions-for-weather-forecast/)
+* [Chrome VPN Extension Free Best 2026](/articles/chrome-vpn-extension-free-best-2026/)
 
-- [Chrome Extensions for Social Media Scheduling](/articles/chrome-extensions-for-social-media-scheduling)
-- [Chrome Not Loading Pages But Internet Works: Complete Fix Guide](/articles/chrome-not-loading-pages-but-internet-works)
-- [Chrome Tab From Other Device Not Showing Fix](/articles/chrome-tab-from-other-device-not-showing-fix)

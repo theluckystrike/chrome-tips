@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Academic Paper Reading Extensions
-description: Discover the best Chrome extensions for reading academic papers efficiently and improving your research workflow. Find out more tips on how to optimize your ...
+description: Discover the best Chrome extensions for reading academic papers efficiently
+  and improving your research workflow. Find out more tips on how to optimize your
+  ...
 date: 2026-03-10
 categories:
 - academic
@@ -80,7 +82,7 @@ Once you find the right combination of extensions, you will notice improvements 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Precaching vs Runtime Caching](/articles/chrome-precaching-vs-runtime-caching/)
+* [Chrome Web Vitals Extension How to Use](/articles/chrome-web-vitals-extension-how-to-use/)
+* [Chrome Notifications on Phone Too Many How to Stop](/articles/chrome-notifications-on-phone-too-many-how-to-stop/)
 
-- [Chrome Screen Capture API Guide](/articles/chrome-screen-capture-api)
-- [Chrome High CPU Usage When Watching Videos: Practical Fixes](/articles/chrome-high-cpu-usage-when-watching-videos)
-- [chrome restricted mode youtube how to enable](/articles/chrome-restricted-mode-youtube-how-to-enable)

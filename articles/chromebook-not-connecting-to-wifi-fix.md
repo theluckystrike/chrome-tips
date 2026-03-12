@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "chromebook not connecting to wifi fix"
-description: "Your Chromebook won't connect to WiFi? Try these practical solutions to get back online. From simple restarts to network resets, we cover what works. Read ou..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chromebook-not-connecting-to-wifi-fix"
-categories: "[troubleshooting, chromebook]"
-tags: "[chromebook, wifi, fix, troubleshooting, network]"
-author: "theluckystrike"
+layout: post
+title: chromebook not connecting to wifi fix
+description: Your Chromebook won't connect to WiFi? Try these practical solutions
+  to get back online. From simple restarts to network resets, we cover what works.
+  Read ou...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chromebook-not-connecting-to-wifi-fix
+categories: '[troubleshooting, chromebook]'
+tags: '[chromebook, wifi, fix, troubleshooting, network]'
+author: theluckystrike
 ---
 # Chromebook Not Connecting to WiFi Fix
 
@@ -90,7 +92,7 @@ While you are troubleshooting your WiFi issues, it is worth noting that Chrome e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome User Agent Switcher Explained](/articles/chrome-user-agent-switcher-explained/)
+* [Chrome Site Permissions How to Manage](/articles/chrome-site-permissions-how-to-manage/)
+* [chrome extensions for similar image finder](/articles/chrome-extensions-for-similar-image-finder/)
 
-- [What Happens When Chrome Extension Is Removed From Store](/articles/what-happens-when-chrome-extension-is-removed-from-store)
-- [Chrome Flexbox Debugging Guide](/articles/chrome-flexbox-debugging)
-- [How to Fix Chrome Mixed Content Warning](/articles/chrome-mixed-content-warning-fix)

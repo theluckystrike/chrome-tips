@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extension for Highlighting Text on Websites"
-description: "Discover how a chrome extension for highlighting text on websites can help you mark important passages and improve your reading workflow. Check out our expert r"
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extension-for-highlighting-text-on-websites"
-layout: "post"
-categories: "[productivity, tips]"
-tags: "[chrome-extensions, highlighting, reading, productivity, browser-tools]"
-author: "theluckystrike"
+title: Chrome Extension for Highlighting Text on Websites
+description: Discover how a chrome extension for highlighting text on websites can
+  help you mark important passages and improve your reading workflow. Check out our
+  expert r
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-highlighting-text-on-websites
+layout: post
+categories: '[productivity, tips]'
+tags: '[chrome-extensions, highlighting, reading, productivity, browser-tools]'
+author: theluckystrike
 ---
 # Chrome Extension for Highlighting Text on Websites
 
@@ -56,10 +58,9 @@ Consider what matters most for your workflow. If you do light research occasiona
 Whatever you choose, the ability to permanently highlight text on websites changes the way you interact with online content. You no longer have to choose between marking important information and losing it. Instead, you can build a personal archive of insights that grows with your curiosity and serves your work over time.
 
 ## Related Articles
-- [Chrome Extension for Translating Selected Text](/chrome-extension-for-translating-selected-text)
-- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
-- [Chrome for Text to Speech on Any Page](/chrome-for-text-to-speech-on-any-page)
-
+* [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome/)
+* [Chrome for Facebook Best Extensions](/articles/chrome-for-facebook-best-extensions/)
+* [Chrome Extensions for Workona Tab Manager](/articles/chrome-extensions-for-workona-tab-manager/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

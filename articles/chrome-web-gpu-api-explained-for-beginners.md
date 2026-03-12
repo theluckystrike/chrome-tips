@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Web GPU API Explained for Beginners"
-description: "Learn what the Chrome Web GPU API is, why it matters for your browser, and how it can improve your web experience. Read our comprehensive guide to learn more..."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-web-gpu-api-explained-for-beginners"
-categories: "[browser, technology]"
-tags: "[web-gpu, chrome, browser-api, graphics]"
-author: "theluckystrike"
+layout: post
+title: Chrome Web GPU API Explained for Beginners
+description: Learn what the Chrome Web GPU API is, why it matters for your browser,
+  and how it can improve your web experience. Read our comprehensive guide to learn
+  more...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-web-gpu-api-explained-for-beginners
+categories: '[browser, technology]'
+tags: '[web-gpu, chrome, browser-api, graphics]'
+author: theluckystrike
 ---
 # Chrome Web GPU API Explained for Beginners
 
@@ -56,7 +58,7 @@ The good news is that Chrome is already supporting this technology, and you do n
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Autofill Credit Card How to Remove](/articles/chrome-autofill-credit-card-how-to-remove/)
+* [chrome for google translate extension tips](/articles/chrome-for-google-translate-extension-tips/)
+* [Chrome IP Protection: How to Hide Your IP Address in Chrome](/articles/chrome-ip-protection-hide-ip-address/)
 
-- [Chrome Extensions for Virtual Whiteboard](/articles/chrome-extensions-for-virtual-whiteboard)
-- [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained)
-- [Chrome Dark Mode on Phone How to Enable](/articles//chrome-dark-mode-on-phone-how-to-enable/)

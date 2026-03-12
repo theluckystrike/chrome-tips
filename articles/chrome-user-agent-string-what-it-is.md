@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "Chrome User Agent String: What It Is and How It Works"
-description: "Learn what a Chrome user agent string is, what information it contains, and why it matters for your browsing experience. Read our comprehensive guide to lear..."
-date: "2026-01-01"
-last_modified_at: "2026-03-10"
-permalink: "chrome-user-agent-string-what-it-is"
+layout: post
+title: 'Chrome User Agent String: What It Is and How It Works'
+description: Learn what a Chrome user agent string is, what information it contains,
+  and why it matters for your browsing experience. Read our comprehensive guide to
+  lear...
+date: '2026-01-01'
+last_modified_at: '2026-03-10'
+permalink: chrome-user-agent-string-what-it-is
 ---
 If you have ever searched for "chrome user agent string what it is," you might have encountered some technical explanations that were hard to follow. Let me break down what this term means in plain English and why it matters for your everyday browsing.
 
@@ -63,10 +65,9 @@ You can check if Chrome is up to date by clicking the three dots in the upper ri
 ---
 
 ## Related Articles
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
-- [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)
-- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)
-
+* [Chrome Web OTP API Explained](/articles/chrome-web-otp-api-explained/)
+* [Chrome CORS Error Explained in Simple Terms](/articles/chrome-cors-error-explained-simple-terms/)
+* [Best Free Chrome Extensions 2026](/articles/best-free-chrome-extensions-2026/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

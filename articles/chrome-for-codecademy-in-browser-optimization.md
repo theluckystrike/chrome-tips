@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome for Codecademy: In-Browser Optimization'
-description: Learn how to optimize Chrome for a smoother Codecademy experience. Reduce lag, save memory, and learn more efficiently. Find out more tips on how to optimize...
+description: Learn how to optimize Chrome for a smoother Codecademy experience. Reduce
+  lag, save memory, and learn more efficiently. Find out more tips on how to optimize...
 date: 2025-03-10
 categories:
 - optimization
@@ -78,7 +79,7 @@ A smoother Codecademy experience is within reach. Close unnecessary tabs, trim d
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Page Source How to View Explained](/articles/chrome-page-source-how-to-view-explained/)
+* [Chrome Status Code 502 Bad Gateway Fix](/articles/chrome-status-code-502-bad-gateway-fix/)
+* [Chrome Multiple Users Same Computer Setup](/articles/chrome-multiple-users-same-computer-setup/)
 
-- [Must Have Chrome Extensions for Students](/articles/must-have-chrome-extensions-for-students)
-- [Chrome DNS Probe Finished Nxdomain Fix](/articles/chrome-dns-probe-finished-nxdomain-fix)
-- [chrome for onenote web clipper setup](/articles/chrome-for-onenote-web-clipper-setup)

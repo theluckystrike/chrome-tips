@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Devtools Webauthn Debugger"
-description: "Learn how to use Chrome DevTools WebAuthn debugger to fix passwordless login issues and troubleshoot authentication problems. Explore our comprehensive guid..."
+title: Chrome Devtools Webauthn Debugger
+description: Learn how to use Chrome DevTools WebAuthn debugger to fix passwordless
+  login issues and troubleshoot authentication problems. Explore our comprehensive
+  guid...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-webauthn-debugger
@@ -83,7 +85,7 @@ For users who want a smoother experience, extensions like Tab Suspender Pro can 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Make Chrome Open Links in a New Tab](/articles/how-to-make-chrome-open-links-in-new-tab/)
+* [Chrome DevTools Override Files Locally](/articles/chrome-devtools-override-files-locally/)
+* [Chrome DNS Probe Finished Nxdomain Fix](/articles/chrome-dns-probe-finished-nxdomain-fix/)
 
-- [Chrome Interaction to Next Paint Explained: What It Means for You](/articles/chrome-interaction-to-next-paint-explained)
-- [Chrome vs Firefox 2026 Comparison](/articles/chrome-vs-firefox-2026)
-- [Chrome Extensions For Clipboard Manager](/articles//articles/chrome-extensions-for-clipboard-manager/)

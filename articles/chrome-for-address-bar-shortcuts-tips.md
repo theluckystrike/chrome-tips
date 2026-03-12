@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Address Bar Shortcuts Tips
-description: Practical Chrome address bar shortcuts that help you browse faster. Learn simple keyboard tricks to navigate, search, and manage tabs like a pro. Find out mo...
+description: Practical Chrome address bar shortcuts that help you browse faster. Learn
+  simple keyboard tricks to navigate, search, and manage tabs like a pro. Find out
+  mo...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-address-bar-shortcuts-tips
@@ -75,7 +77,7 @@ The goal is not to memorize every shortcut, but to find the ones that match how 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Set Up Chrome Profiles for Work and Personal](/articles/how-to-set-up-chrome-profiles-for-work-and-personal/)
+* [chrome how to block specific website notifications](/articles/chrome-how-to-block-specific-website-notifications/)
+* [chrome for apple notes in browser workaround](/articles/chrome-for-apple-notes-in-browser-workaround/)
 
-- [Chrome for Touchscreen Optimization Tips](/articles/chrome-for-touchscreen-optimization-tips)
-- [Chrome GPU Process High CPU Fix](/articles/chrome-gpu-process-high-cpu-fix)
-- [Chrome Downloads Tips Organize and Manage](/articles/chrome-downloads-tips-organize-and-manage)

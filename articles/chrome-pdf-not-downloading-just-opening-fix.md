@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome PDF Not Downloading Just Opening Fix
-description: Chrome keeps opening PDFs instead of downloading them. Learn why this happens and how to fix it with simple settings changes. Learn effective tips and tricks...
+description: Chrome keeps opening PDFs instead of downloading them. Learn why this
+  happens and how to fix it with simple settings changes. Learn effective tips and
+  tricks...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-pdf-not-downloading-just-opening-fix
@@ -75,10 +77,9 @@ Finally, make sure you are running the latest version of Chrome. Google regularl
 To check for updates, open Chrome and look for the three dots menu in the top right corner. Click on it, then go to **Help**, and select **About Google Chrome**. Chrome will check for updates and install them if any are available. Restart the browser after updating to make sure the changes take effect.
 
 ## Related Articles
-- [Chrome Images Not Loading Fix](/chrome-images-not-loading-fix)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome PDF Not Opening in Browser Fix](/chrome-pdf-not-opening-in-browser-fix)
-
+* [Chrome Background Fetch for PWAs Explained](/articles/chrome-background-fetch-for-pwas-explained/)
+* [Chrome Navigation API for Single Page Apps: A Complete Guide](/articles/chrome-navigation-api-single-page-apps/)
+* [chrome coupons in address bar feature](/articles/chrome-coupons-in-address-bar-feature/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

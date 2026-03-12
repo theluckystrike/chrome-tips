@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Job Hunting 2026"
-description: "Discover the best Chrome extensions to streamline your job search in 2026. Save time, stay organized, and land your dream job faster. Check out our expert..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-job-hunting-2026"
-layout: "post"
-categories: "[extensions, productivity]"
-tags: "[chrome-extensions, job-hunting, productivity, career]"
-author: "theluckystrike"
+title: Chrome Extensions for Job Hunting 2026
+description: Discover the best Chrome extensions to streamline your job search in
+  2026. Save time, stay organized, and land your dream job faster. Check out our expert...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-job-hunting-2026
+layout: post
+categories: '[extensions, productivity]'
+tags: '[chrome-extensions, job-hunting, productivity, career]'
+author: theluckystrike
 ---
 # Chrome Extensions for Job Hunting 2026
 
@@ -56,7 +57,7 @@ Give a few of these extensions a try and see which ones fit your workflow. You m
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome/)
+* [Chrome Extension for Video Speed Controller](/articles/chrome-extension-for-video-speed-controller/)
+* [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut/)
 
-- [Chrome Select All Tabs Shortcut](/articles/chrome-select-all-tabs-shortcut)
-- [Best Browser for 2GB RAM Laptop 2026](/articles/best-browser-for-2gb-ram-laptop-2026)
-- [chrome javascript disable for one site how to](/articles/chrome-javascript-disable-for-one-site-how-to)

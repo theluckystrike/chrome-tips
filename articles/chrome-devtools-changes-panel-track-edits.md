@@ -75,7 +75,7 @@ Next time you find yourself making changes in DevTools, give the Changes panel a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer/)
+* [Chrome Using 100 Percent CPU Fix Windows](/articles/chrome-using-100-percent-cpu-fix-windows/)
+* [Best Chrome Extensions for Online Research](/articles/chrome-extensions-for-online-research/)
 
-- [Chrome Console Commands: Useful Tricks Every User Should Know](/articles/chrome-console-commands-useful-tricks)
-- [Chrome Extensions For Font Changing](/articles//articles/chrome-extensions-for-font-changing/)
-- [chrome extensions for screen dimmer](/articles/chrome-extensions-for-screen-dimmer)

@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Meal Planning Recipes"
-description: "Find the best Chrome extensions for meal planning recipes to save time, organize your cooking, and simplify weekly meal prep. Check out our expert... Learn more"
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-meal-planning-recipes"
-layout: "post"
-categories: "[productivity, lifestyle]"
-tags: "[chrome-extensions, meal-planning, recipes, cooking]"
-author: "theluckystrike"
+title: Chrome Extensions for Meal Planning Recipes
+description: Find the best Chrome extensions for meal planning recipes to save time,
+  organize your cooking, and simplify weekly meal prep. Check out our expert... Learn
+  more
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-meal-planning-recipes
+layout: post
+categories: '[productivity, lifestyle]'
+tags: '[chrome-extensions, meal-planning, recipes, cooking]'
+author: theluckystrike
 ---
 # Chrome Extensions for Meal Planning Recipes
 
@@ -70,7 +72,7 @@ The best approach is to keep it simple at first. You do not need every feature i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Customize Chrome Toolbar](/articles/how-to-customize-chrome-toolbar/)
+* [Chrome Devtools Application Panel Explained](/articles//chrome-devtools-application-panel-explained//)
+* [Chrome for Streamlabs Web Dashboard](/articles/chrome-for-streamlabs-web-dashboard/)
 
-- [Chrome Slower After macOS Update Fix](/articles/chrome-slower-after-macos-update-fix)
-- [How to Inspect CSS Animations and Transitions in Chrome DevTools](/articles/chrome-animations-panel-inspect-transitions)
-- [chrome net err cert common name invalid fix](/articles/chrome-net-err-cert-common-name-invalid-fix)

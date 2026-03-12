@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Web Annotation"
-description: "Learn how chrome extensions for web annotation can help you highlight, note, and organize information from any webpage. Read our comprehensive guide to learn..."
+title: Chrome Extensions for Web Annotation
+description: Learn how chrome extensions for web annotation can help you highlight,
+  note, and organize information from any webpage. Read our comprehensive guide to
+  learn...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-web-annotation
-categories: [productivity, tips]
-tags: [chrome-extensions, annotation, browser-tools]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-web-annotation
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- annotation
+- browser-tools
+author: theluckystrike
 ---
 # Chrome Extensions for Web Annotation
 
@@ -84,7 +89,7 @@ Once you find a tool that clicks, you will wonder how you ever managed to do res
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
+* [How to Stop Chrome from Eating Your RAM](/articles/how-to-stop-chrome-from-eating-ram/)
+* [Chrome Extensions for Trello](/articles/chrome-extensions-for-trello/)
 
-- [Chrome for Obsidian Web Clipper Setup](/articles/chrome-for-obsidian-web-clipper-setup)
-- [Chrome Open Source Parts Explained](/articles/chrome-open-source-parts-explained)
-- [Chrome CSS Grid Layout Complete Guide](/articles//chrome-css-grid-layout-complete-guide/)

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Not Enough Memory Error
-description: Getting a chrome not enough memory error? Learn why this happens and what you can do to fix it right now. Learn effective tips and tricks to optimize your Ch...
+description: Getting a chrome not enough memory error? Learn why this happens and
+  what you can do to fix it right now. Learn effective tips and tricks to optimize
+  your Ch...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-not-enough-memory-error
@@ -14,8 +16,6 @@ tags:
 - browser-memory
 - memory-fix
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-not-enough-memory-error
 ---
 # Chrome Not Enough Memory Error
 
@@ -84,7 +84,7 @@ If you find yourself constantly running into memory limits, consider adding Tab 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Release Schedule: When Is the Next Update?](/articles/chrome-release-schedule-when-next-update/)
+* [Chrome Side Panel — How to Use It Effectively](/articles/chrome-side-panel-how-to-use/)
+* [Chrome Camera Not Working Fix](/articles/chrome-camera-not-working-fix/)
 
-- [Chrome Extensions for Musicians](/articles/chrome-extensions-for-musicians)
-- [Chrome Hardware Acceleration Should I Turn On or Off](/articles/chrome-hardware-acceleration-should-i-turn-on-or-off)
-- [How to Remove Chrome Malware](/articles/how-to-remove-chrome-malware)

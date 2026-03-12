@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome Location History in Browser How to Check"
-description: "Learn how to check your location history in Chrome browser. Find out what location data Chrome stores and how to manage it. Check out our expert recommendation"
-date: "2026-01-20"
-last_modified_at: "2026-03-10"
-permalink: "chrome-location-history-in-browser-how-to-check"
-categories: [privacy, browser, location]
-tags: [chrome, location, history, privacy, browser-settings]
-author: "theluckystrike"
+layout: post
+title: Chrome Location History in Browser How to Check
+description: Learn how to check your location history in Chrome browser. Find out
+  what location data Chrome stores and how to manage it. Check out our expert recommendation
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
+permalink: chrome-location-history-in-browser-how-to-check
+categories:
+- privacy
+- browser
+- location
+tags:
+- chrome
+- location
+- history
+- privacy
+- browser-settings
+author: theluckystrike
 ---
 # Chrome Location History in Browser How to Check
 
@@ -64,7 +73,7 @@ Extensions designed for tab management can help you maintain this organization w
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Aspect Ratio CSS Property](/articles/chrome-aspect-ratio-css-property/)
+* [Chrome WebGPU API Getting Started Guide](/articles/chrome-webgpu-api-getting-started/)
+* [Chrome Cookie Consent Popups How to Auto Reject](/articles/chrome-cookie-consent-popups-how-to-auto-reject/)
 
-- [Chrome Extension GDPR Compliance Guide](/articles/chrome-extension-gdpr-compliance-guide)
-- [Chrome Live Captions Languages: Complete Setup Guide](/articles/chrome-live-captions-languages)
-- [Chrome Microphone Permission for One Site How to Set](/articles/chrome-microphone-permission-for-one-site-how-to-set)

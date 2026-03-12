@@ -1,15 +1,23 @@
 ---
-title: "Chrome Cross Browser Testing Tips"
-description: "Learn practical tips for testing websites across different browsers using Chrome's built-in tools. Read our full guide to master your Chrome browser experience "
-date: "2026-01-15"
-last_modified_at: "%Y->-"
-permalink: "chrome-cross-browser-testing-tips"
-layout: post
-categories: ['browsers', 'testing', 'web-development']
-tags: ['chrome', 'cross-browser', 'testing', 'web-development', 'browser-tools']
-author: theluckystrike
+title: Chrome Cross Browser Testing Tips
+description: 'Learn practical tips for testing websites across different browsers
+  using Chrome''s built-in tools. Read our full guide to master your Chrome browser
+  experience '
+date: '2026-01-15'
 last_modified_at: '2026-03-10'
 permalink: chrome-cross-browser-testing-tips
+layout: post
+categories:
+- browsers
+- testing
+- web-development
+tags:
+- chrome
+- cross-browser
+- testing
+- web-development
+- browser-tools
+author: theluckystrike
 ---
 # Chrome Cross Browser Testing Tips
 
@@ -96,7 +104,7 @@ By using Chrome's built-in tools effectively, testing on real browsers for criti
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Cookies Explained for Beginners](/articles/chrome-cookies-explained-for-beginners/)
+* [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix/)
+* [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained/)
 
-- [Chrome Print to PDF How to Save Webpage](/articles/chrome-print-to-pdf-how-to-save-webpage)
-- [Chrome Font Fingerprinting Explained and Fix](/articles/chrome-font-fingerprinting-explained-and-fix)
-- [How to Enable Chrome Smooth Scrolling](/articles/how-to-enable-chrome-smooth-scrolling)

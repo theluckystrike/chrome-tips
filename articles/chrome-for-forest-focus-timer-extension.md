@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Forest Focus Timer Extension
-description: Discover Chrome extensions like Forest that help you stay focused and block distracting websites during work sessions. Find out more tips on how to optimize ...
+description: Discover Chrome extensions like Forest that help you stay focused and
+  block distracting websites during work sessions. Find out more tips on how to optimize
+  ...
 date: 2026-01-15
 categories:
 - productivity
@@ -62,7 +64,7 @@ Give yourself permission to experiment with different extensions and settings un
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Has Selector Explained](/articles/chrome-has-selector-explained/)
+* [chrome network throttling test slow connection](/articles/chrome-network-throttling-test-slow-connection/)
+* [What Is Chrome Paint Holding and How It Speeds Up Page Load](/articles/chrome-paint-holding-page-load/)
 
-- [Chrome Managed Bookmarks for Employees](/articles/chrome-managed-bookmarks-for-employees)
-- [Best Screenshot Chrome Extension](/articles/best-screenshot-chrome-extension)
-- [Chrome Extensions for TikTok Downloader](/articles/chrome-extensions-for-tiktok-downloader)

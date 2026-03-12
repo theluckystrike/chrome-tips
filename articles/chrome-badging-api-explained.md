@@ -73,7 +73,7 @@ Using tools like this, along with understanding how features like the Badging AP
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization/)
+* [Chrome CSS Grid Layout Complete Guide](/articles//chrome-css-grid-layout-complete-guide//)
+* [Chrome Encrypted DNS Explained for Beginners](/articles/chrome-encrypted-dns-explained-for-beginners/)
 
-- [Chrome Print to PDF Without Margins](/articles/chrome-print-to-pdf-without-margins)
-- [Chrome Web Store Best Free Games](/articles/chrome-web-store-best-free-games)
-- [Chrome Instant Apps on Android Explained](/articles/chrome-instant-apps-on-android-explained)

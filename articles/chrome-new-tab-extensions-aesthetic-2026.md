@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome New Tab Extensions Aesthetic 2026
-description: Discover beautiful Chrome new tab extensions that improve your browsing aesthetics and productivity in 2026. Learn effective tips and tricks to optimize your...
+description: Discover beautiful Chrome new tab extensions that improve your browsing
+  aesthetics and productivity in 2026. Learn effective tips and tricks to optimize
+  your...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-new-tab-extensions-aesthetic-2026
@@ -14,8 +16,6 @@ tags:
 - aesthetic
 - browser-customization
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-new-tab-extensions-aesthetic-2026
 ---
 # Chrome New Tab Extensions Aesthetic 2026
 
@@ -74,7 +74,7 @@ Finding the right chrome new tab extension aesthetic for 2026 is all about under
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Web USB API Guide](/articles/chrome-web-usb-api-guide/)
+* [Chrome Extensions for Link Checker Broken Links](/articles/chrome-extensions-for-link-checker-broken-links/)
+* [Chrome Download Manager Best Extension](/articles/chrome-download-manager-best-extension/)
 
-- [Chrome Idle Detection API Explained: What It Means for Your Browser](/articles/chrome-idle-detection-api-explained)
-- [chrome for yahoo mail best extensions](/articles/chrome-for-yahoo-mail-best-extensions)
-- [Chrome Extensions for Invoice Creation](/articles/chrome-extensions-for-invoice-creation)

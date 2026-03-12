@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for News Feed Eradicator Setup
-description: Learn how to set up Chrome to eliminate news feeds and distractions. Block algorithmic feeds, reduce clutter, and focus on what matters. Discover more tips a
+description: Learn how to set up Chrome to eliminate news feeds and distractions.
+  Block algorithmic feeds, reduce clutter, and focus on what matters. Discover more
+  tips a
 date: 2025-03-10
 categories:
 - productivity
@@ -81,7 +83,7 @@ Many people also report feeling less overwhelmed after eliminating news feeds fr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Invoice Creation](/articles/chrome-extensions-for-invoice-creation/)
+* [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy/)
+* [Chrome WebGPU API Getting Started Guide](/articles/chrome-webgpu-api-getting-started/)
 
-- [Chrome Black Screen When Opening Fix: Complete Practical Guide](/articles/chrome-black-screen-when-opening-fix)
-- [Chrome Blocked Download How to Unblock](/articles/chrome-blocked-download-how-to-unblock)
-- [How to Limit Chrome Memory Usage Mac](/articles/how-to-limit-chrome-memory-usage-mac)

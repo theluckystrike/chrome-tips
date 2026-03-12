@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Why Does Chrome Use So Much CPU"
-description: "Is Chrome slowing down your computer? Learn why Chrome uses so much CPU and simple fixes to reduce it. Read our comprehensive guide to learn more and optimiz..."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "why-does-chrome-use-so-much-cpu"
-categories: "[performance, cpu]"
-tags: "[chrome-cpu, chrome-slow, browser-performance, computer-slow]"
-author: "theluckystrike"
+layout: post
+title: Why Does Chrome Use So Much CPU
+description: Is Chrome slowing down your computer? Learn why Chrome uses so much CPU
+  and simple fixes to reduce it. Read our comprehensive guide to learn more and optimiz...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: why-does-chrome-use-so-much-cpu
+categories: '[performance, cpu]'
+tags: '[chrome-cpu, chrome-slow, browser-performance, computer-slow]'
+author: theluckystrike
 ---
 # Why Does Chrome Use So Much CPU
 
@@ -70,7 +71,7 @@ The fixes are straightforward. Close unused tabs, manage your extensions, and co
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Web GPU API Explained for Beginners](/articles/chrome-web-gpu-api-explained-for-beginners/)
+* [chrome clipboard permission explained](/articles/chrome-clipboard-permission-explained/)
+* [Chrome JetStream Score What Is Good](/articles/chrome-jetstream-score-what-is-good/)
 
-- [chrome reopen accidentally closed tab how](/articles/chrome-reopen-accidentally-closed-tab-how)
-- [chrome logpoints debug without console log](/articles/chrome-logpoints-debug-without-console-log)
-- [Chrome for Rain Sounds Background](/articles/chrome-for-rain-sounds-background)

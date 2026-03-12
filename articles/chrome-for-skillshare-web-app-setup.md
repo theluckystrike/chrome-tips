@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Skillshare Web App Setup
-description: Learn how to set up Chrome for the best Skillshare experience. Optimize your browser for smooth video classes and better learning. Discover more tips and tri
+description: Learn how to set up Chrome for the best Skillshare experience. Optimize
+  your browser for smooth video classes and better learning. Discover more tips and
+  tri
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-skillshare-web-app-setup
@@ -105,7 +107,7 @@ By following these tips, you can enjoy your Skillshare classes with fewer interr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Utility Process Explained](/articles/chrome-utility-process-explained/)
+* [Chrome Notification Permission Block All: Complete Guide](/articles/chrome-notification-permission-block-all/)
+* [Chrome WebGPU vs WebGL Comparison: Which Graphics API Should You Use?](/articles/chrome-webgpu-vs-webgl-comparison/)
 
-- [chrome web bluetooth connect headphones](/articles/chrome-web-bluetooth-connect-headphones)
-- [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows)
-- [Chrome IP Protection Feature Explained](/articles/chrome-ip-protection-feature-explained)

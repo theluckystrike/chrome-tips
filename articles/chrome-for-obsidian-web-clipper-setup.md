@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Obsidian Web Clipper Setup
-description: Learn how to set up Chrome for Obsidian Web Clipper to save articles and notes directly to your knowledge base. Discover more tips and tricks to optimize you
+description: Learn how to set up Chrome for Obsidian Web Clipper to save articles
+  and notes directly to your knowledge base. Discover more tips and tricks to optimize
+  you
 date: 2026-01-15
 categories:
 - productivity
@@ -89,7 +91,7 @@ With a little practice, this workflow becomes second nature. You will find yours
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Layout Instability API Explained](/articles/chrome-layout-instability-api-explained/)
+* [Chrome Hidden Games Easter Eggs List](/articles/chrome-hidden-games-easter-eggs-list/)
+* [Chrome Predictive Loading How to Turn Off](/articles/chrome-predictive-loading-how-to-turn-off/)
 
-- [chrome for tiktok web best settings](/articles/chrome-for-tiktok-web-best-settings)
-- [Chrome Mouse Scroll Not Working Fix](/articles/chrome-mouse-scroll-not-working-fix)
-- [Chrome for Quizlet Web App Best Settings](/articles/chrome-for-quizlet-web-app-best-settings)

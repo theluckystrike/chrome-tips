@@ -70,10 +70,9 @@ Getting started with the chrome array groupby new method is straightforward. Sim
 For developers who manage many open tabs while working on complex projects, tools like Tab Suspender Pro can help keep your browser running smoothly by automatically suspending inactive tabs. This is particularly useful when working with development tools and large datasets that can consume significant memory.
 
 ## Related Articles
-- [Chrome for Productivity Dashboard New Tab](/chrome-for-productivity-dashboard-new-tab)
-- [Chrome Open Link in New Tab Shortcut](/chrome-open-link-in-new-tab-shortcut)
-- [How to Migrate Chrome Data to a New Computer](/how-to-migrate-chrome-data-to-new-computer)
-
+* [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut/)
+* [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/articles/chrome-grammarly-extension-slowing-browser/)
+* [Chrome Passwords on Phone How to View](/articles/chrome-passwords-on-phone-how-to-view/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 'Chrome Process Per Tab: How to Disable It to Save Memory'
-description: Learn how to disable Chrome's per-tab process feature to save memory on slow computers with limited RAM. Step-by-step solutions included. Learn effective tip...
+description: Learn how to disable Chrome's per-tab process feature to save memory
+  on slow computers with limited RAM. Step-by-step solutions included. Learn effective
+  tip...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-process-per-tab-disable-to-save-memory
@@ -16,8 +18,6 @@ tags:
 - tab-management
 - save-ram
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-process-per-tab-disable-to-save-memory
 ---
 # Chrome Process Per Tab: How to Disable It to Save Memory
 
@@ -100,10 +100,9 @@ Pay attention to how your computer performs and adjust accordingly. If you notic
 The goal is not to eliminate all memory usage, but rather to bring Chrome's resource consumption down to a level that allows your computer to run smoothly. With these practical steps, you can achieve that goal even on older hardware with limited RAM.
 
 ## Related Articles
-- [Chrome Tab Memory Usage How To Check](/chrome-tab-memory-usage-how-to-check)
-- [Chrome Tab Memory Usage Keeps Growing](/chrome-tab-memory-usage-keeps-growing)
-- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
-
+* [Chrome Permission Denied How to Fix](/articles/chrome-permission-denied-how-to-fix/)
+* [Chrome Deep Linking and Universal Links Guide](/articles/chrome-deep-linking-universal-links-guide/)
+* [Chrome Dock Icon Missing Fix Mac](/articles/chrome-dock-icon-missing-fix-mac/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

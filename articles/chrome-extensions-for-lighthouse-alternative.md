@@ -1,14 +1,15 @@
 ---
-title: "Chrome Extensions for Lighthouse Alternative"
-description: "Looking for chrome extensions for lighthouse alternative? Discover the best tools to audit and improve your website performance without using Lighthouse."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-lighthouse-alternative"
-layout: "post"
-categories: "[web-development, tools]"
-tags: "[chrome-extensions, lighthouse, website-audit, performance, seo]"
-author: "theluckystrike"
-canonical: "true"
+title: Chrome Extensions for Lighthouse Alternative
+description: Looking for chrome extensions for lighthouse alternative? Discover the
+  best tools to audit and improve your website performance without using Lighthouse.
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-lighthouse-alternative
+layout: post
+categories: '[web-development, tools]'
+tags: '[chrome-extensions, lighthouse, website-audit, performance, seo]'
+author: theluckystrike
+canonical: 'true'
 ---
 # Chrome Extensions for Lighthouse Alternative
 
@@ -99,7 +100,7 @@ Remember that no single tool will tell you everything about your website. Use th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Flags on Android Best to Enable](/articles/chrome-flags-on-android-best-to-enable/)
+* [Chrome for Work vs Personal — How to Use Separate Profiles](/articles/chrome-for-work-vs-personal-separate-profiles/)
+* [How to Migrate Chrome Data to a New Computer](/articles/how-to-migrate-chrome-data-to-new-computer/)
 
-- [Chrome Guest Mode What Gets Saved](/articles/chrome-guest-mode-what-gets-saved)
-- [Chrome Shopping List Feature How to Use](/articles/chrome-shopping-list-feature-how-to-use)
-- [chrome classroom extension for teachers](/articles/chrome-classroom-extension-for-teachers)

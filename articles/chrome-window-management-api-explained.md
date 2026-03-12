@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Window Management API Explained"
-description: "Learn what the Chrome Window Management API does, why it matters for your browser experience, and how to use it effectively. Read our comprehensive guide to ..."
-date: "2026-01-20"
-last_modified_at: "2026-03-09"
-permalink: "chrome-window-management-api-explained"
-categories: "[chrome, browser, productivity]"
-tags: "[chrome-window-management, browser-api, chrome-extensions, productivity]"
-author: "theluckystrike"
+layout: post
+title: Chrome Window Management API Explained
+description: Learn what the Chrome Window Management API does, why it matters for
+  your browser experience, and how to use it effectively. Read our comprehensive guide
+  to ...
+date: '2026-01-20'
+last_modified_at: '2026-03-09'
+permalink: chrome-window-management-api-explained
+categories: '[chrome, browser, productivity]'
+tags: '[chrome-window-management, browser-api, chrome-extensions, productivity]'
+author: theluckystrike
 ---
 # Chrome Window Management API Explained
 
@@ -62,7 +64,7 @@ Remember that your browser is a tool you likely use every day, and small improve
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome for github best extensions](/articles/chrome-for-github-best-extensions/)
+* [Chrome Homepage Keeps Changing to Yahoo Fix](/articles/chrome-homepage-keeps-changing-to-yahoo-fix/)
+* [chrome price drop alerts how to enable](/articles/chrome-price-drop-alerts-how-to-enable/)
 
-- [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut)
-- [Chrome New Tab Page Best Extensions](/articles/chrome-new-tab-page-best-extensions)
-- [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply)

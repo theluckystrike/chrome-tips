@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome Camera Access on Phone How to Manage"
-description: "Learn how to manage camera access in Chrome on your phone. Simple steps to control permissions and protect your privacy. Check out our expert guide for step-by-"
-date: "2025-03-10"
-last_modified_at: '2026-03-12'
-permalink: "chrome-camera-access-on-phone-how-to-manage"
-categories: [troubleshooting, tips]
-tags: [chrome-camera, chrome-mobile, permissions, privacy, camera-access]
-author: "theluckystrike"
+layout: post
+title: Chrome Camera Access on Phone How to Manage
+description: Learn how to manage camera access in Chrome on your phone. Simple steps
+  to control permissions and protect your privacy. Check out our expert guide for
+  step-by-
+date: '2025-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-camera-access-on-phone-how-to-manage
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-camera
+- chrome-mobile
+- permissions
+- privacy
+- camera-access
+author: theluckystrike
 ---
 # Chrome Camera Access on Phone How to Manage
 
@@ -72,7 +81,7 @@ Regularly checking your camera permissions is a simple habit that goes a long wa
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Early Hints 103 Status Code: A Complete Guide](/articles/chrome-early-hints-103-status-code/)
+* [Chrome for Khan Academy Best Settings](/articles/chrome-for-khan-academy-best-settings/)
+* [Chrome Live Caption How It Works](/articles/chrome-live-caption-how-it-works/)
 
-- [Chrome Tabs on Top vs Bottom: How to Change](/articles/chrome-tabs-on-top-vs-bottom-how-to-change)
-- [Chrome Web GPU API Explained](/articles/chrome-web-gpu-api-explained)
-- [chrome for soundcloud web player extensions](/articles/chrome-for-soundcloud-web-player-extensions)

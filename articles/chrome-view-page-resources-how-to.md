@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome View Page Resources How to"
-description: "Learn how to view all page resources in Chrome including images, scripts, fonts, and stylesheets using built-in developer tools. Read our comprehensive guide..."
-date: "2025-02-19"
-last_modified_at: "2026-03-10"
-permalink: "chrome-view-page-resources-how-to"
-categories: "[browser-tips, web-development]"
-tags: "[page-resources, developer-tools, troubleshooting]"
-author: "theluckystrike"
+layout: post
+title: Chrome View Page Resources How to
+description: Learn how to view all page resources in Chrome including images, scripts,
+  fonts, and stylesheets using built-in developer tools. Read our comprehensive guide...
+date: '2025-02-19'
+last_modified_at: '2026-03-10'
+permalink: chrome-view-page-resources-how-to
+categories: '[browser-tips, web-development]'
+tags: '[page-resources, developer-tools, troubleshooting]'
+author: theluckystrike
 ---
 # Chrome View Page Resources How to
 
@@ -60,10 +61,9 @@ Tab Suspender Pro is one option that automatically suspends inactive tabs, meani
 ---
 
 ## Related Articles
-- [How to Use Chrome Translate Page](/chrome-translate-page-how-to-use)
-- [Chrome Reader View How to Enable on Any Site](/chrome-reader-view-how-to-enable-on-any-site)
-- [Chrome New Tab Page How To Customize](/chrome-new-tab-page-how-to-customize)
-
+* [Chrome Extension Manifest V3 What Users Need to Know](/articles/chrome-extension-manifest-v3-what-users-need-to-know/)
+* [How to Change Your Chrome New Tab Background to a Custom Image](/articles/chrome-new-tab-background-change-custom-image/)
+* [Best Dark Mode Chrome Extension](/articles/best-dark-mode-chrome-extension/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

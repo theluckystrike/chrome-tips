@@ -85,10 +85,9 @@ Finally, keep an eye on how much data Chrome is actually using. Your Android pho
 Chrome also shows data saved through Data Saver in the settings menu. Checking this occasionally helps you understand the impact of the changes you have made and motivates you to keep up the good habits.
 
 ## Related Articles
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
-- [How to Block Ads on Chrome Android](/how-to-block-ads-on-chrome-android)
-- [How to Save Chrome Tabs for Later](/how-to-save-chrome-tabs-for-later)
-
+* [chrome topics api privacy sandbox explained](/articles/chrome-topics-api-privacy-sandbox-explained/)
+* [Chrome vs Firefox on an Old Laptop — Which Is Better?](/articles/chrome-vs-firefox-on-old-laptop/)
+* [Chrome Using Too Much Battery on Laptop? Fix It Now](/articles/chrome-using-too-much-battery-on-laptop-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

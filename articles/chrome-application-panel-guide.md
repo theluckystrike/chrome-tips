@@ -173,10 +173,9 @@ Take time to explore each section of the Application panel in your own projects.
 ---
 
 ## Related Articles
-- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
-- [Chrome WebRTC Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
-
+* [chrome for soundcloud web player extensions](/articles/chrome-for-soundcloud-web-player-extensions/)
+* [Chrome Keeps Logging Me Out of Websites Fix](/articles/chrome-keeps-logging-me-out-of-websites-fix/)
+* [Chrome Location Access on Phone How to Control](/articles/chrome-location-access-on-phone-how-to-control/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

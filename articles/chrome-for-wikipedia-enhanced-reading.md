@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome for Wikipedia Enhanced Reading"
-description: "Discover Chrome extensions and settings that transform Wikipedia into a cleaner, more focused reading experience. Check out our expert recommendations and tips"
-date: "2025-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-wikipedia-enhanced-reading"
-categories: [productivity, tips]
-tags: [chrome, wikipedia, reading, browser-tips]
-author: "theluckystrike"
+layout: post
+title: Chrome for Wikipedia Enhanced Reading
+description: Discover Chrome extensions and settings that transform Wikipedia into
+  a cleaner, more focused reading experience. Check out our expert recommendations
+  and tips
+date: '2025-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-wikipedia-enhanced-reading
+categories:
+- productivity
+- tips
+tags:
+- chrome
+- wikipedia
+- reading
+- browser-tips
+author: theluckystrike
 ---
 # Chrome for Wikipedia Enhanced Reading
 
@@ -72,7 +80,7 @@ Give these tools a try and see which ones work best for your specific needs. Eve
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Fullscreen Mode Shortcut](/articles/chrome-fullscreen-mode-shortcut/)
+* [Chrome Extensions for Form Auto Filler](/articles/chrome-extensions-for-form-auto-filler/)
+* [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained/)
 
-- [chrome default browser how to set windows mac](/articles//chrome-default-browser-how-to-set-windows-mac/)
-- [Chrome Homepage Keeps Changing to Yahoo Fix](/articles/chrome-homepage-keeps-changing-to-yahoo-fix)
-- [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to)

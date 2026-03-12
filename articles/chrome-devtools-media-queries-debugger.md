@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Devtools Media Queries Debugger"
-description: "Learn how to use Chrome DevTools to find and debug media queries. Fix responsive design issues quickly. Explore our comprehensive guide to mastering Chrome ..."
+title: Chrome Devtools Media Queries Debugger
+description: Learn how to use Chrome DevTools to find and debug media queries. Fix
+  responsive design issues quickly. Explore our comprehensive guide to mastering Chrome
+  ...
 date: 2025-02-19
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-media-queries-debugger
@@ -75,7 +77,7 @@ Remember to check for overlapping ranges in your media queries, make sure you ar
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Study Timer](/articles/chrome-extensions-for-study-timer/)
+* [Must Have Chrome Extensions for Students](/articles/must-have-chrome-extensions-for-students/)
+* [Chrome Accessibility Extensions Best 2026](/articles/chrome-accessibility-extensions-best-2026/)
 
-- [Chrome Extensions for Tab Previewer Hover](/articles/chrome-extensions-for-tab-previewer-hover)
-- [Chrome NordVPN Extension vs ExpressVPN Extension](/articles/chrome-nordvpn-extension-vs-expressvpn-extension)
-- [Chrome Extensions for Pocket Alternative](/articles/chrome-extensions-for-pocket-alternative)

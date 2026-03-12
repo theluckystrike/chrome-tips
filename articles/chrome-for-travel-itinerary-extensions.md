@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome for Travel Itinerary Extensions"
-description: "Discover Chrome extensions that help organize travel itineraries, bookings, and trip plans all in one place. Check out our expert recommendations and tips to e"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-travel-itinerary-extensions"
-categories: [travel, extensions]
-tags: [chrome-extensions, travel, productivity, browser]
-author: "theluckystrike"
+layout: post
+title: Chrome for Travel Itinerary Extensions
+description: Discover Chrome extensions that help organize travel itineraries, bookings,
+  and trip plans all in one place. Check out our expert recommendations and tips to
+  e
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-travel-itinerary-extensions
+categories:
+- travel
+- extensions
+tags:
+- chrome-extensions
+- travel
+- productivity
+- browser
+author: theluckystrike
 ---
 # Chrome for Travel Itinerary Extensions
 
@@ -68,7 +76,7 @@ Take some time to explore different extensions and find the one that fits your t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Tell Which Chrome Tab Is Draining Battery](/articles/how-to-tell-which-chrome-tab-is-draining-battery/)
+* [Chrome 2026 New Features Overview](/articles/chrome-2026-new-features-overview/)
+* [Chrome Source Maps Explained Simply](/articles/chrome-source-maps-explained-simply/)
 
-- [chrome for mouse gestures extensions](/articles/chrome-for-mouse-gestures-extensions)
-- [Chrome DevTools Memory Panel Explained](/articles/chrome-devtools-memory-panel-explained)
-- [chrome safe browsing should i turn on](/articles/chrome-safe-browsing-should-i-turn-on)

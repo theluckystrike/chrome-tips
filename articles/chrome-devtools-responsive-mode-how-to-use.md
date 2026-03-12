@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome Devtools Responsive Mode How to Use"
-description: "Learn how to use Chrome DevTools responsive mode to test your website on different screen sizes and improve mobile responsiveness. Explore our comprehensive..."
+title: Chrome Devtools Responsive Mode How to Use
+description: Learn how to use Chrome DevTools responsive mode to test your website
+  on different screen sizes and improve mobile responsiveness. Explore our comprehensive...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-responsive-mode-how-to-use
@@ -85,7 +86,7 @@ By taking the time to test your site in responsive mode, you can ensure that all
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained/)
+* [Chrome Extensions For Focus And Productivity](/articles//articles/chrome-extensions-for-focus-and-productivity//)
+* [Chrome Scroll Not Smooth Fix](/articles/chrome-scroll-not-smooth-fix/)
 
-- [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained)
-- [Chrome Cookie Consent Popups How to Handle](/articles/chrome-cookie-consent-popups-how-to-handle)
-- [Chrome for Password Security Best Practices](/articles/chrome-for-password-security-best-practices)

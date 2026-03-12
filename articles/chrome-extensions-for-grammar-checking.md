@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Grammar Checking"
-description: "Find the best chrome extensions for grammar checking to improve your writing. Easy tools that catch mistakes and help you write better. Check out our expert..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-grammar-checking"
-layout: "post"
-categories: "[writing, tips]"
-tags: "[chrome-extensions, grammar, writing, productivity]"
-author: "theluckystrike"
+title: Chrome Extensions for Grammar Checking
+description: Find the best chrome extensions for grammar checking to improve your
+  writing. Easy tools that catch mistakes and help you write better. Check out our
+  expert...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-grammar-checking
+layout: post
+categories: '[writing, tips]'
+tags: '[chrome-extensions, grammar, writing, productivity]'
+author: theluckystrike
 ---
 # Chrome Extensions for Grammar Checking
 
@@ -82,7 +84,7 @@ Remember that these extensions are meant to help, not replace careful reading. T
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Turn Off Autocomplete in Chrome](/articles/chrome-how-to-turn-off-autocomplete/)
+* [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change/)
+* [Chrome Android Gestures You Didnt Know About](/articles/chrome-android-gestures-you-didnt-know-about/)
 
-- [How to Organize Chrome Bookmarks Into Folders](/articles/how-to-organize-chrome-bookmarks-into-folders)
-- [chromebook file manager tips and tricks](/articles/chromebook-file-manager-tips-and-tricks)
-- [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization)

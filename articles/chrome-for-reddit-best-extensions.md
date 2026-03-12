@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Reddit Best Extensions
-description: Find the best Chrome extensions for Reddit to enhance your browsing, boost productivity, and get more from the platform. Discover more tips and tricks to opt
+description: Find the best Chrome extensions for Reddit to enhance your browsing,
+  boost productivity, and get more from the platform. Discover more tips and tricks
+  to opt
 date: 2026-03-10
 categories:
 - reddit
@@ -79,7 +81,7 @@ Take some time to explore what each extension offers. Most of them are free, so 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Web Codecs API Explained](/articles/chrome-web-codecs-api-explained/)
+* [Chrome Energy Saver Mode Guide](/articles/chrome-energy-saver-mode-guide/)
+* [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users/)
 
-- [Chrome CSS Grid Layout Complete Guide](/articles//chrome-css-grid-layout-complete-guide/)
-- [Chrome Third Party Cookies What Happens When Blocked](/articles/chrome-third-party-cookies-what-happens-when-blocked)
-- [Chrome Memory Saver Mode How to Use](/articles/chrome-memory-saver-mode-how-to-use)

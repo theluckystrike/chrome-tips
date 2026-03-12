@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Streams API for Large Files
-description: Learn how Chrome Streams API handles large files efficiently, what it means for your browsing, and practical tips for everyday users. Read our comprehensive gui
+description: Learn how Chrome Streams API handles large files efficiently, what it
+  means for your browsing, and practical tips for everyday users. Read our comprehensive
+  gui
 date: '2025-03-10'
 last_modified_at: '2026-03-11'
 permalink: chrome-streams-api-for-large-files
@@ -67,7 +69,7 @@ The next time you download a large file, upload a big folder to the cloud, or wa
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Omnibox Search Tricks Most People Dont Know](/articles/chrome-omnibox-search-tricks-most-people-dont-know/)
+* [Chrome Web MIDI API Explained](/articles/chrome-web-midi-api-explained/)
+* [chrome how to enable cookies](/articles/chrome-how-to-enable-cookies/)
 
-- [chrome high contrast mode how to enable](/articles/chrome-high-contrast-mode-how-to-enable)
-- [Chrome Extensions That Save You Time](/articles/chrome-extensions-that-save-you-time)
-- [Chrome Extensions for Highlighting Text on Web](/articles/chrome-extensions-for-highlighting-text-on-web)

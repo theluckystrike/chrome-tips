@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Tab Stacking How to Use"
-description: "Learn how to use tab stacking in Chrome to organize your browser, reduce clutter, and work more efficiently with multiple open tabs. Read our comprehensive g..."
-date: "2025-03-13"
-last_modified_at: "2026-03-10"
-permalink: "chrome-tab-stacking-how-to-use"
-categories: "[productivity, tips]"
-tags: "[tabs, tab-management, chrome-tips, browser-organization]"
-author: "theluckystrike"
+layout: post
+title: Chrome Tab Stacking How to Use
+description: Learn how to use tab stacking in Chrome to organize your browser, reduce
+  clutter, and work more efficiently with multiple open tabs. Read our comprehensive
+  g...
+date: '2025-03-13'
+last_modified_at: '2026-03-10'
+permalink: chrome-tab-stacking-how-to-use
+categories: '[productivity, tips]'
+tags: '[tabs, tab-management, chrome-tips, browser-organization]'
+author: theluckystrike
 ---
 # Chrome Tab Stacking How to Use
 
@@ -66,10 +68,9 @@ Learning how to use tab stacking in Chrome is about finding a system that fits y
 The most important thing is to actually use the tools consistently rather than letting your tabs spiral out of control. Even small improvements, like grouping related tabs together or closing ones you no longer need, can make a big difference in how much easier your browsing feels. Give these approaches a try and see which combination works best for you.
 
 ## Related Articles
-- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
-- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-
+* [Chrome AI Writing Help Feature](/articles/chrome-ai-writing-help-feature/)
+* [Chrome Badging API Explained](/articles/chrome-badging-api-explained/)
+* [Is 8GB RAM Enough for Chrome with Many Tabs?](/articles/is-8gb-ram-enough-for-chrome-with-many-tabs/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

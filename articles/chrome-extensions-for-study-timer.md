@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Study Timer"
-description: "Discover the best chrome extensions for study timer to stay focused, manage study sessions effectively, and boost academic productivity. Read our comprehensi..."
+title: Chrome Extensions for Study Timer
+description: Discover the best chrome extensions for study timer to stay focused,
+  manage study sessions effectively, and boost academic productivity. Read our comprehensi...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-study-timer
-categories: [productivity, tips]
-tags: [chrome-extensions, study, timer, focus, productivity]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-study-timer
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- study
+- timer
+- focus
+- productivity
+author: theluckystrike
 ---
 # Chrome Extensions for Study Timer
 
@@ -90,7 +96,7 @@ With the right chrome extensions for study timer, you have a powerful toolkit fo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Energy Saver Mode Explained](/articles/chrome-energy-saver-mode-explained/)
+* [Chrome Layer CSS Cascade Layers Explained](/articles/chrome-layer-css-cascade-layers-explained/)
+* [chrome sync what it saves](/articles/chrome-sync-what-it-saves/)
 
-- [Chrome for Quick Commands Feature](/articles/chrome-for-quick-commands-feature)
-- [How to Reduce Number of Open Tabs](/articles/how-to-reduce-number-of-open-tabs)
-- [Chrome for Binance Web Trading Tips](/articles/chrome-for-binance-web-trading-tips)

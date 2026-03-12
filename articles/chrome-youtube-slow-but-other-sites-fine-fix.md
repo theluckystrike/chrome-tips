@@ -1,10 +1,11 @@
 ---
-layout: "post"
-title: "Chrome YouTube Slow But Other Sites Fine Fix"
-description: "Having chrome youtube slow but other sites fine fix issues. Learn why YouTube runs slow in Chrome and how to fix it with simple solutions. Read our comprehen..."
-date: "2026-01-01"
-last_modified_at: "2026-03-09"
-permalink: "chrome-youtube-slow-but-other-sites-fine-fix"
+layout: post
+title: Chrome YouTube Slow But Other Sites Fine Fix
+description: Having chrome youtube slow but other sites fine fix issues. Learn why
+  YouTube runs slow in Chrome and how to fix it with simple solutions. Read our comprehen...
+date: '2026-01-01'
+last_modified_at: '2026-03-09'
+permalink: chrome-youtube-slow-but-other-sites-fine-fix
 ---
 If you are searching for chrome youtube slow but other sites fine fix, you are probably frustrated because YouTube videos keep buffering or take forever to load while every other website works perfectly fine. This is a surprisingly common issue, and the good news is that it is usually fixable with some simple adjustments.
 
@@ -81,7 +82,7 @@ Stay updated. Keep Chrome updated, and make sure your operating system is curren
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Compute Pressure: How Thermal and CPU Throttling Affect Your Browser](/articles/chrome-compute-pressure-thermal-cpu/)
+* [Best Chrome Extensions for Amazon Prime Video](/articles/best-chrome-extensions-for-amazon-prime-video/)
+* [Chrome Page Source How to View Explained](/articles/chrome-page-source-how-to-view-explained/)
 
-- [Chrome Extensions for Amazon Price History](/articles/chrome-extensions-for-amazon-price-history)
-- [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained)
-- [Chrome for ChatGPT Web App Best Extensions](/articles/chrome-for-chatgpt-web-app-best-extensions)

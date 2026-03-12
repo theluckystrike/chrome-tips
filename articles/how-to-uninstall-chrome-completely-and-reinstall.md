@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "How to Uninstall Chrome Completely and Reinstall"
-description: "Step-by-step guide to fully remove Chrome from your computer and reinstall a fresh copy. Fix persistent browser issues. Read our comprehensive guide to learn..."
-date: "2025-02-19"
-last_modified_at: "2026-03-10"
-permalink: "how-to-uninstall-chrome-completely-and-reinstall"
-categories: "[troubleshooting]"
-tags: "[chrome-uninstall, browser-reset, reinstall-chrome]"
-author: "theluckystrike"
+layout: post
+title: How to Uninstall Chrome Completely and Reinstall
+description: Step-by-step guide to fully remove Chrome from your computer and reinstall
+  a fresh copy. Fix persistent browser issues. Read our comprehensive guide to learn...
+date: '2025-02-19'
+last_modified_at: '2026-03-10'
+permalink: how-to-uninstall-chrome-completely-and-reinstall
+categories: '[troubleshooting]'
+tags: '[chrome-uninstall, browser-reset, reinstall-chrome]'
+author: theluckystrike
 ---
 # How to Uninstall Chrome Completely and Reinstall
 
@@ -68,7 +69,7 @@ Finally, make sure your important data is backed up regularly. Chrome is built t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Offline Google Calendar](/articles/chrome-offline-google-calendar/)
+* [chrome dark reader extension worth it](/articles//chrome-dark-reader-extension-worth-it//)
+* [Chrome Layers Panel 3D View Explained](/articles/chrome-layers-panel-3d-view-explained/)
 
-- [Chrome Best Ad Blocker 2026](/articles/chrome-best-ad-blocker-2026)
-- [Chrome DNS Over HTTPS How to Enable](/articles/chrome-dns-over-https-how-to-enable)
-- [Chrome Extensions for Social Media Scheduling](/articles/chrome-extensions-for-social-media-scheduling)

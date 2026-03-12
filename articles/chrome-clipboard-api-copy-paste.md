@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "Chrome Clipboard API: Copy and Paste in Modern Web Apps"
-description: "Learn how to use the Chrome Clipboard API for copy and paste operations in your web applications. Complete guide with code examples and best practices."
-date: "2026-03-11"
-last_modified_at: '2026-03-12'
-permalink: "chrome-clipboard-api-copy-paste"
-categories: [development, tips]
-tags: [chrome-clipboard-api, copy-paste, web-development, javascript]
-author: "theluckystrike"
+layout: post
+title: 'Chrome Clipboard API: Copy and Paste in Modern Web Apps'
+description: Learn how to use the Chrome Clipboard API for copy and paste operations
+  in your web applications. Complete guide with code examples and best practices.
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-clipboard-api-copy-paste
+categories:
+- development
+- tips
+tags:
+- chrome-clipboard-api
+- copy-paste
+- web-development
+- javascript
+author: theluckystrike
 ---
 # Chrome Clipboard API: Copy and Paste in Modern Web Apps
 
@@ -139,10 +146,9 @@ Remember to handle errors gracefully, provide clear user feedback, and always re
 ---
 
 ## Related Articles
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
-- [Chrome Badging API Explained](/chrome-badging-api-explained)
-- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
-
+* [Chrome Mouse Cursor Lagging Fix](/articles/chrome-mouse-cursor-lagging/)
+* [Chrome User Data Directory: What Each File Does](/articles/chrome-user-data-directory-what-each-file-does/)
+* [Chrome PDF Settings Print to PDF How to](/articles/chrome-pdf-settings-print-to-pdf-how-to/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

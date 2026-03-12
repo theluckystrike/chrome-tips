@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome WebXR API Virtual Reality"
-description: "Chrome WebXR API not working can prevent VR experiences. Learn why it happens and how to fix it with simple steps. Read our comprehensive guide to learn more..."
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-webxr-api-virtual-reality"
-categories: "[troubleshooting, tips]"
-tags: "[chrome-webxr, virtual-reality, chrome-vr, webxr-api, browser-tips]"
-author: "theluckystrike"
+layout: post
+title: Chrome WebXR API Virtual Reality
+description: Chrome WebXR API not working can prevent VR experiences. Learn why it
+  happens and how to fix it with simple steps. Read our comprehensive guide to learn
+  more...
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-webxr-api-virtual-reality
+categories: '[troubleshooting, tips]'
+tags: '[chrome-webxr, virtual-reality, chrome-vr, webxr-api, browser-tips]'
+author: theluckystrike
 ---
 # Chrome WebXR API Virtual Reality
 
@@ -88,7 +90,7 @@ Make sure your computer meets the minimum requirements for the WebXR content you
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Best Chrome Extensions for Remote Workers 2026](/articles/best-chrome-extensions-for-remote-workers-2026/)
+* [Chrome Extensions for Regex Tester](/articles/chrome-extensions-for-regex-tester/)
+* [chrome browser fingerprint how to check yours](/articles/chrome-browser-fingerprint-how-to-check-yours/)
 
-- [chrome dark reader extension worth it](/articles//chrome-dark-reader-extension-worth-it/)
-- [Chrome Extensions For Calendar Integration](/articles//articles/chrome-extensions-for-calendar-integration/)
-- [How to Dictate Text in Chrome](/articles/how-to-dictate-text-in-chrome)

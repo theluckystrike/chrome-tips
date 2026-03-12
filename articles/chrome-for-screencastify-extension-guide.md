@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Screencastify Extension Guide
-description: Learn how to use Screencastify with Chrome, set up screen recording, and enhance your workflow with helpful extensions. Discover more tips and tricks to opti
+description: Learn how to use Screencastify with Chrome, set up screen recording,
+  and enhance your workflow with helpful extensions. Discover more tips and tricks
+  to opti
 date: 2026-01-15
 categories:
 - chrome
@@ -82,7 +84,7 @@ Remember to keep your browser running smoothly by managing your extensions and t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Supervised Profiles for Kids](/articles/chrome-supervised-profiles-for-kids/)
+* [Chrome This Site Cant Be Reached Fix](/articles/chrome-this-site-cant-be-reached-fix/)
+* [Chrome for YouTube 4K Playback Settings](/articles/chrome-for-youtube-4k-playback-settings/)
 
-- [Chrome Extensions for Raindrop IO](/articles/chrome-extensions-for-raindrop-io)
-- [Chrome Web OTP API Explained](/articles/chrome-web-otp-api-explained)
-- [Chrome for Dailymotion Web Player](/articles/chrome-for-dailymotion-web-player)

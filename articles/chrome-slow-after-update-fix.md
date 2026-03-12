@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 'Chrome Slow After Update Fix: Complete Troubleshooting Guide'
-description: Is Chrome slow after update? Learn proven fixes to restore your browser's speed, including extensions, settings adjustments, and maintenance tips. Read our comp
+description: Is Chrome slow after update? Learn proven fixes to restore your browser's
+  speed, including extensions, settings adjustments, and maintenance tips. Read our
+  comp
 date: 2026-01-15
 categories:
 - performance
@@ -141,7 +143,7 @@ Ready to supercharge your browsing? Try **[Tab Suspender Pro](https://zovo.one/t
 **[zovo.one](https://zovo.one)**
 
 ## Related Articles
+* [How to Change Your Chrome Downloads Folder](/articles/chrome-downloads-folder-change/)
+* [Best Chrome Extensions For Lawyers](/articles/best-chrome-extensions-for-lawyers/)
+* [Chrome Slow After Windows Update Fix](/articles/chrome-slow-after-windows-update-fix/)
 
-- [Chrome Force Mobile Site on Desktop](/articles/chrome-force-mobile-site-on-desktop)
-- [Chrome for Wikipedia Enhanced Reading](/articles/chrome-for-wikipedia-enhanced-reading)
-- [chrome deceptive site ahead warning fix](/articles//chrome-deceptive-site-ahead-warning-fix/)

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for SEO Analysis Extensions
-description: Find the best Chrome extensions for SEO analysis to audit websites, track keywords, and boost your search rankings. Discover more tips and tricks to optimize
+description: Find the best Chrome extensions for SEO analysis to audit websites, track
+  keywords, and boost your search rankings. Discover more tips and tricks to optimize
 date: 2026-03-10
 categories:
 - seo
@@ -85,7 +86,7 @@ Remember that while these extensions are helpful, they are just one part of a co
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained/)
+* [Chrome Service Worker High CPU Fix](/articles/chrome-service-worker-high-cpu-fix/)
+* [Chrome for Canva Web App Optimization](/articles/chrome-for-canva-web-app-optimization/)
 
-- [Best Lightweight Browsers for Chromebook](/articles/best-lightweight-browsers-for-chromebook)
-- [Chrome Performance Getting Worse Over Time](/articles/chrome-performance-getting-worse-over-time)
-- [Chrome for Managing Saved Addresses](/articles/chrome-for-managing-saved-addresses)

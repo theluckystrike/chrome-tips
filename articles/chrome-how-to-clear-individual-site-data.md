@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome How to Clear Individual Site Data"
-description: "Learn how to clear data for specific websites in Chrome without affecting your entire browser. Fix site issues quickly. Check out our expert recommendations an"
-date: "2025-02-19"
-last_modified_at: "2026-03-09"
-permalink: "chrome-how-to-clear-individual-site-data"
-categories: [privacy, browser-tips]
-tags: [site-data, cookies, storage, privacy]
-author: "theluckystrike"
+layout: post
+title: Chrome How to Clear Individual Site Data
+description: Learn how to clear data for specific websites in Chrome without affecting
+  your entire browser. Fix site issues quickly. Check out our expert recommendations
+  an
+date: '2025-02-19'
+last_modified_at: '2026-03-09'
+permalink: chrome-how-to-clear-individual-site-data
+categories:
+- privacy
+- browser-tips
+tags:
+- site-data
+- cookies
+- storage
+- privacy
+author: theluckystrike
 ---
 # Chrome How to Clear Individual Site Data
 
@@ -70,7 +78,7 @@ Make it a habit to clear data for websites that are acting up, and your browsing
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Canvas LMS Best Extensions](/articles/chrome-for-canvas-lms-best-extensions/)
+* [Chrome Extension for Auto Scroll Pages](/articles/chrome-extension-for-auto-scroll-pages/)
+* [Chrome Utility Process What Is It](/articles/chrome-utility-process-what-is-it/)
 
-- [chrome for twitch buffering fix](/articles/chrome-for-twitch-buffering-fix)
-- [chrome privacy checkup how to do](/articles/chrome-privacy-checkup-how-to-do)
-- [How to Enable Parallel Downloading in Chrome for Faster Downloads](/articles/chrome-parallel-downloading-enable-speed-up)

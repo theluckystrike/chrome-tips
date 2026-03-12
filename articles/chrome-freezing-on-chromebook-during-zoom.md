@@ -1,13 +1,23 @@
 ---
-layout: "post"
-title: "Chrome Freezing on Chromebook During Zoom? Try These Fixes"
-description: "Is Chrome freezing on your Chromebook during Zoom calls? Here's why it happens and how to get your video meetings running smoothly again. Check out our expert"
-date: "2025-02-16"
-last_modified_at: "2026-03-10"
-permalink: "chrome-freezing-on-chromebook-during-zoom"
-categories: [performance, chromebook, zoom]
-tags: [chrome-freezing, chromebook, zoom, video-calls, performance]
-author: "theluckystrike"
+layout: post
+title: Chrome Freezing on Chromebook During Zoom? Try These Fixes
+description: Is Chrome freezing on your Chromebook during Zoom calls? Here's why it
+  happens and how to get your video meetings running smoothly again. Check out our
+  expert
+date: '2025-02-16'
+last_modified_at: '2026-03-10'
+permalink: chrome-freezing-on-chromebook-during-zoom
+categories:
+- performance
+- chromebook
+- zoom
+tags:
+- chrome-freezing
+- chromebook
+- zoom
+- video-calls
+- performance
+author: theluckystrike
 ---
 # Chrome Freezing on Chromebook During Zoom? Try These Fixes
 
@@ -90,7 +100,7 @@ Video calling on Chromebooks has come a long way, and with the right settings an
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Command Line Flags for Low Memory: A Practical Guide](/articles/chrome-command-line-flags-for-low-memory/)
+* [Chrome Notifications Won't Stop Popping Up? Here's How to Fix It](/articles/chrome-notifications-wont-stop-popping-up/)
+* [chrome for github best extensions](/articles/chrome-for-github-best-extensions/)
 
-- [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/articles/chrome-save-webpage-as-mhtml-offline)
-- [Best Chrome Extensions for Researchers](/articles/best-chrome-extensions-for-researchers)
-- [chrome safe browsing should i turn on](/articles/chrome-safe-browsing-should-i-turn-on)

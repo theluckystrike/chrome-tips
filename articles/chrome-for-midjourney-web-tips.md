@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Midjourney Web Tips
-description: Get the most out of Midjourney web in Chrome with these practical tips for better performance and smoother image generation. Discover more tips and tricks to
+description: Get the most out of Midjourney web in Chrome with these practical tips
+  for better performance and smoother image generation. Discover more tips and tricks
+  to
 date: 2025-02-19
 categories:
 - productivity
@@ -62,7 +64,7 @@ Using Midjourney web in Chrome is already a great experience, but these small op
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Using Too Much Disk Space: A Complete Guide](/articles/chrome-using-too-much-disk-space/)
+* [Chrome Open Settings Shortcut](/articles/chrome-open-settings-shortcut/)
+* [Chrome Preloading Pages Setting Explained](/articles/chrome-preloading-pages-setting-explained/)
 
-- [Chrome PDF Not Opening Fix](/articles/chrome-pdf-not-opening-fix)
-- [Chrome Tab Organize AI Feature Explained](/articles/chrome-tab-organize-ai-feature-explained)
-- [Chrome Extensions for Meditation](/articles/chrome-extensions-for-meditation)

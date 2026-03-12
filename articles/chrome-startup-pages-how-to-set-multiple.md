@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Startup Pages How to Set Multiple
-description: Learn how to set multiple startup pages in Chrome to open several favorite websites every time you launch the browser. Read our comprehensive guide to learn mor
+description: Learn how to set multiple startup pages in Chrome to open several favorite
+  websites every time you launch the browser. Read our comprehensive guide to learn
+  mor
 permalink: chrome-startup-pages-how-to-set-multiple
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
@@ -59,10 +61,9 @@ You might also find that having multiple tabs open at startup leads to more tabs
 Setting multiple startup pages is one of those simple tweaks that makes your daily browsing routine just a little bit smoother. Once you have your essential sites loading automatically, you will wonder how you ever managed without it.
 
 ## Related Articles
-- [Chrome Permissions on Startup How to Configure](/chrome-permissions-on-startup-how-to-configure)
-- [Chrome Profile Specific Extensions How to Set](/chrome-profile-specific-extensions-how-to-set)
-- [Chrome Startup Page How to Set](/chrome-startup-page-how-to-set)
-
+* [Chrome Freezes My Whole Computer](/articles/chrome-freezes-my-whole-computer/)
+* [Chrome Devtools Screenshot Full Page](/articles/chrome-devtools-screenshot-full-page/)
+* [Chrome Media Autoplay How to Block](/articles/chrome-media-autoplay-how-to-block/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

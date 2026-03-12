@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Perplexity AI Best Settings
-description: Get the most out of Perplexity AI in Chrome with these optimized settings for faster research and better performance. Discover more tips and tricks to optimi
+description: Get the most out of Perplexity AI in Chrome with these optimized settings
+  for faster research and better performance. Discover more tips and tricks to optimi
 date: 2025-02-19
 categories:
 - ai
@@ -87,7 +88,7 @@ Getting the best experience with Perplexity AI in Chrome comes down to managing 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Grammarly Alternative Free](/articles/chrome-extensions-for-grammarly-alternative-free/)
+* [Chrome Which Tab Is Using Most CPU How to Find](/articles/chrome-which-tab-is-using-most-cpu-how-to-find/)
+* [Chrome Accessibility Features You Didn't Know About](/articles/chrome-accessibility-features-you-didnt-know-about/)
 
-- [Chrome Redirect Virus How to Remove](/articles/chrome-redirect-virus-how-to-remove)
-- [chrome for gmail productivity extensions](/articles/chrome-for-gmail-productivity-extensions)
-- [chrome image search by url how to](/articles/chrome-image-search-by-url-how-to)

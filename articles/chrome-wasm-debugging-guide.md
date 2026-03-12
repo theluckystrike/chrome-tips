@@ -1,13 +1,15 @@
 ---
-layout: "default"
-title: "Chrome WebAssembly Debugging Guide"
-description: "Master WebAssembly debugging in Chrome with DWARF info, source maps, memory inspector, and Emscripten. Practical tips for developers. Read our comprehensive ..."
-date: "2026-01-20"
-last_modified_at: "2026-03-10"
-permalink: "chrome-wasm-debugging-guide"
-categories: "[development, webassembly, debugging]"
-tags: "[webassembly, debugging, chrome-devtools, wasm, emscripten, dwarf]"
-author: "theluckystrike"
+layout: default
+title: Chrome WebAssembly Debugging Guide
+description: Master WebAssembly debugging in Chrome with DWARF info, source maps,
+  memory inspector, and Emscripten. Practical tips for developers. Read our comprehensive
+  ...
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
+permalink: chrome-wasm-debugging-guide
+categories: '[development, webassembly, debugging]'
+tags: '[webassembly, debugging, chrome-devtools, wasm, emscripten, dwarf]'
+author: theluckystrike
 ---
 # Chrome WebAssembly Debugging Guide
 
@@ -104,10 +106,9 @@ Remember that effective debugging is an iterative process. Start with high-level
 ---
 
 ## Related Articles
-- [Chrome Flexbox Debugging Guide](/chrome-flexbox-debugging)
-- [Chrome Breakpoints and Conditional Debugging Guide](/chrome-breakpoints-conditional-debugging-guide)
-- [Chrome WebAuthn Debugging Guide](/chrome-webauthn-debugging)
-
+* [How to Import Bookmarks from Firefox to Chrome](/articles/how-to-import-bookmarks-from-firefox-to-chrome/)
+* [Chrome Homepage Keeps Changing to Yahoo Fix](/articles/chrome-homepage-keeps-changing-to-yahoo-fix/)
+* [Chrome Address Bar Autocomplete Disable](/articles/chrome-address-bar-autocomplete-disable/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Website Archiving"
-description: "Learn how chrome extensions can help you save web pages for offline access and preserve online content. Read our comprehensive guide to learn more and boost ..."
+title: Chrome Extensions for Website Archiving
+description: Learn how chrome extensions can help you save web pages for offline access
+  and preserve online content. Read our comprehensive guide to learn more and boost
+  ...
 date: 2026-01-15
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-website-archiving
-categories: [extensions, productivity]
-tags: [chrome-extensions, archiving, saving-content, offline]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-website-archiving
+categories:
+- extensions
+- productivity
+tags:
+- chrome-extensions
+- archiving
+- saving-content
+- offline
+author: theluckystrike
 ---
 # Chrome Extensions for Website Archiving
 
@@ -78,7 +84,7 @@ Start with your most important sources. Archive the web pages you reference most
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Best Settings for Streaming Video](/articles/chrome-best-settings-for-streaming-video/)
+* [chrome high contrast mode how to enable](/articles/chrome-high-contrast-mode-how-to-enable/)
+* [Chrome vs Brave 2026 Comparison](/articles/chrome-vs-brave-2026/)
 
-- [Chrome vs Safari 2026 Comparison](/articles/chrome-vs-safari-2026)
-- [chrome multiprocess architecture explained](/articles/chrome-multiprocess-architecture-explained)
-- [Best Lightweight Browsers for Chromebook](/articles/best-lightweight-browsers-for-chromebook)

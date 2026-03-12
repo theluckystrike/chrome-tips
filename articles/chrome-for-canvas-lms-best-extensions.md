@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Canvas LMS Best Extensions
-description: Find the best Chrome extensions for Canvas LMS to improve focus, manage tabs, and boost your online learning productivity. Find out more tips on how to optim...
+description: Find the best Chrome extensions for Canvas LMS to improve focus, manage
+  tabs, and boost your online learning productivity. Find out more tips on how to
+  optim...
 date: 2026-01-20
 categories:
 - extensions
@@ -88,7 +90,7 @@ Remember that the goal is not to use every available extension but rather to fin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained/)
+* [Chrome for Custom Search Engines Setup](/articles/chrome-for-custom-search-engines-setup/)
+* [Chrome vs Vivaldi for Power Users](/articles/chrome-vs-vivaldi-for-power-users/)
 
-- [Chrome Streams API for Large Files](/articles/chrome-streams-api-for-large-files)
-- [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord/)
-- [Chrome Scrolling Lag Fix](/articles/chrome-scrolling-lag-fix)

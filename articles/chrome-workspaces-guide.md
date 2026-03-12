@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome DevTools Workspaces Guide"
-description: "Master Chrome DevTools Workspaces for folder mapping, live editing, persistence, and file system access. Optimize your development workflow today. Read our c..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-workspaces-guide"
-categories: "[development, chrome-devtools, productivity]"
-tags: "[chrome-devtools, workspaces, web-development, debugging, live-editing]"
-author: "theluckystrike"
+layout: post
+title: Chrome DevTools Workspaces Guide
+description: Master Chrome DevTools Workspaces for folder mapping, live editing, persistence,
+  and file system access. Optimize your development workflow today. Read our c...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-workspaces-guide
+categories: '[development, chrome-devtools, productivity]'
+tags: '[chrome-devtools, workspaces, web-development, debugging, live-editing]'
+author: theluckystrike
 ---
 # Chrome DevTools Workspaces Guide
 
@@ -94,10 +95,9 @@ The combination of efficient tab management with powerful workspace editing crea
 ---
 
 ## Related Articles
-- [Chrome Recorder Panel Guide](/chrome-recorder-panel-guide)
-- [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
-
+* [Chromebook External Monitor How to Connect](/articles/chromebook-external-monitor-how-to-connect/)
+* [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
+* [Chrome for Text to Speech on Any Page](/articles/chrome-for-text-to-speech-on-any-page/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

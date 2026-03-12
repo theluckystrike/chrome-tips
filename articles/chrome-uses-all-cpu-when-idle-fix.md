@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Uses All CPU When Idle Fix"
-description: "Is Chrome using all your CPU even when you are not doing anything? Learn why Chrome uses resources when idle and how to fix it. Read our comprehensive guide ..."
-date: "2025-12-14"
-last_modified_at: "2026-03-10"
-permalink: "chrome-uses-all-cpu-when-idle-fix"
-categories: "[performance, troubleshooting]"
-tags: "[chrome-cpu, chrome-idle, chrome-performance, high-cpu-usage]"
-author: "theluckystrike"
+layout: post
+title: Chrome Uses All CPU When Idle Fix
+description: Is Chrome using all your CPU even when you are not doing anything? Learn
+  why Chrome uses resources when idle and how to fix it. Read our comprehensive guide
+  ...
+date: '2025-12-14'
+last_modified_at: '2026-03-10'
+permalink: chrome-uses-all-cpu-when-idle-fix
+categories: '[performance, troubleshooting]'
+tags: '[chrome-cpu, chrome-idle, chrome-performance, high-cpu-usage]'
+author: theluckystrike
 ---
 If you have ever noticed Chrome consuming massive amounts of CPU even when you are not actively using the browser, you are dealing with a frustrating but common issue. Chrome uses all CPU when idle fix is a problem that many users search for because it can make their computer run hot, drain the battery quickly, and make other programs feel sluggish. The good news is that there are clear reasons this happens and several practical steps you can take to get Chrome running calmly in the background.
 
@@ -66,10 +68,9 @@ Finally, if the problem persists despite trying these steps, try creating a new 
 ---
 
 ## Related Articles
-- [Chrome Freezes When Opening New Tab Fix](/chrome-freezes-when-opening-new-tab-fix)
-- [Chrome Lost All My Tabs After Update Fix](/chrome-lost-all-my-tabs-update-fix)
-- [Chrome High CPU Usage When Watching Videos: Practical Fixes](/chrome-high-cpu-usage-when-watching-videos)
-
+* [Chrome Blurry Text Fix Windows](/articles/chrome-blurry-text-fix-windows/)
+* [Chrome requestanimationframe Explained: What It Means for Your Browser](/articles/chrome-requestanimationframe-explained/)
+* [Chrome View Source Shortcut](/articles/chrome-view-source-shortcut/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

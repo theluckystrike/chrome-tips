@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Telemetry What Data Google Collects"
-description: "Discover what data Google collects through Chrome telemetry and how to manage these privacy settings. Read our comprehensive guide to learn more and optimize..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-telemetry-what-data-google-collects"
-categories: "[privacy, security]"
-tags: "[chrome, telemetry, privacy, google, data-collection]"
-author: "theluckystrike"
+layout: post
+title: Chrome Telemetry What Data Google Collects
+description: Discover what data Google collects through Chrome telemetry and how to
+  manage these privacy settings. Read our comprehensive guide to learn more and optimize...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-telemetry-what-data-google-collects
+categories: '[privacy, security]'
+tags: '[chrome, telemetry, privacy, google, data-collection]'
+author: theluckystrike
 ---
 # Chrome Telemetry What Data Google Collects
 
@@ -66,7 +67,7 @@ Remember that browser privacy is not all or nothing. Even small steps, like turn
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome zoom meeting not working fix](/articles/chrome-zoom-meeting-not-working-fix/)
+* [chrome for asana web app tips](/articles/chrome-for-asana-web-app-tips/)
+* [chrome for google translate extension tips](/articles/chrome-for-google-translate-extension-tips/)
 
-- [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome)
-- [Chrome for Canvas LMS Best Extensions](/articles/chrome-for-canvas-lms-best-extensions)
-- [Chrome Using 8GB RAM Fix](/articles/chrome-using-8gb-ram-fix)

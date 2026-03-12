@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "chromebook touchscreen not working fix"
-description: "Your Chromebook touchscreen stopped working? Try these simple fixes to get it working again. From restarting to recalibrating, we cover the solutions."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chromebook-touchscreen-not-working-fix"
-categories: "[troubleshooting, chromebook]"
-tags: "[chromebook, touchscreen, fix, troubleshooting, hardware]"
-author: "theluckystrike"
+layout: post
+title: chromebook touchscreen not working fix
+description: Your Chromebook touchscreen stopped working? Try these simple fixes to
+  get it working again. From restarting to recalibrating, we cover the solutions.
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chromebook-touchscreen-not-working-fix
+categories: '[troubleshooting, chromebook]'
+tags: '[chromebook, touchscreen, fix, troubleshooting, hardware]'
+author: theluckystrike
 ---
 # Chromebook Touchscreen Not Working Fix
 
@@ -82,7 +83,7 @@ Remember that touchscreen issues are common and often fixable. Do not give up ho
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chromebook Parental Controls How to Set Up](/articles/chromebook-parental-controls-how-to-set-up/)
+* [Chrome Restore Tabs Not Working After Update: Practical Fixes](/articles/chrome-restore-tabs-not-working-after-update/)
+* [Chrome Android App Running Slow Fix: Practical Solutions That Actually Work](/articles/chrome-android-app-running-slow-fix/)
 
-- [chrome extensions for privacy badger alternative](/articles/chrome-extensions-for-privacy-badger-alternative)
-- [Chrome for Proxy Settings How to Configure](/articles/chrome-for-proxy-settings-how-to-configure)
-- [How to Clear Cookies for One Site in Chrome](/articles/how-to-clear-cookies-for-one-site-in-chrome)

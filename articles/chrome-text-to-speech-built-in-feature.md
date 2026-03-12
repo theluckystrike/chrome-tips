@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Text to Speech Built In Feature"
-description: "Learn about Chrome's built-in text to speech feature that can read web pages aloud without needing extensions. Read our comprehensive guide to learn more and..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-text-to-speech-built-in-feature"
-categories: "[accessibility, tips]"
-tags: "[chrome, text-to-speech, accessibility, built-in-feature]"
-author: "theluckystrike"
+layout: post
+title: Chrome Text to Speech Built In Feature
+description: Learn about Chrome's built-in text to speech feature that can read web
+  pages aloud without needing extensions. Read our comprehensive guide to learn more
+  and...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-text-to-speech-built-in-feature
+categories: '[accessibility, tips]'
+tags: '[chrome, text-to-speech, accessibility, built-in-feature]'
+author: theluckystrike
 ---
 # Chrome Text to Speech Built In Feature
 
@@ -70,7 +72,7 @@ For people with reading difficulties or visual impairments, chrome text to speec
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [how to make chrome look aesthetic](/articles/how-to-make-chrome-look-aesthetic/)
+* [Chrome Element Inspector Tips and Tricks](/articles/chrome-element-inspector-tips-and-tricks/)
+* [chrome touchscreen mode how to enable](/articles/chrome-touchscreen-mode-how-to-enable/)
 
-- [Chrome Forced Extensions by Admin What It Means](/articles/chrome-forced-extensions-by-admin-what-it-means)
-- [Chrome Extensions for Study Timer](/articles/chrome-extensions-for-study-timer)
-- [How to Block Ads on Chrome Without Extension](/articles/how-to-block-ads-on-chrome-without-extension)

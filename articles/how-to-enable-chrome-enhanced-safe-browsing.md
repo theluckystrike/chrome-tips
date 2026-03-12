@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "how to enable chrome enhanced safe browsing"
-description: "Learn how to enable Chrome enhanced safe browsing with simple steps to protect yourself from malware, phishing, and dangerous websites. Read our comprehensiv..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "how-to-enable-chrome-enhanced-safe-browsing"
-categories: "[browser, security, privacy]"
-tags: "[chrome, safe-browsing, security, privacy, browser-settings]"
-author: "theluckystrike"
+layout: post
+title: how to enable chrome enhanced safe browsing
+description: Learn how to enable Chrome enhanced safe browsing with simple steps to
+  protect yourself from malware, phishing, and dangerous websites. Read our comprehensiv...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: how-to-enable-chrome-enhanced-safe-browsing
+categories: '[browser, security, privacy]'
+tags: '[chrome, safe-browsing, security, privacy, browser-settings]'
+author: theluckystrike
 ---
 # How to Enable Chrome Enhanced Safe Browsing
 
@@ -94,7 +95,7 @@ By enabling enhanced safe browsing and following good security practices, you si
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome for Amazon Prime Video Quality Settings](/articles/chrome-for-amazon-prime-video-quality-settings/)
+* [Chrome Your Connection Is Not Private Fix](/articles/chrome-your-connection-is-not-private-fix/)
+* [Chrome Cross Device Tab Sync Not Working Fix](/articles/chrome-cross-device-tab-sync-not-working-fix/)
 
-- [Chrome Device Emulation Advanced Guide](/articles//chrome-device-emulation-advanced/)
-- [Chrome Saved Payment Methods How to Edit](/articles/chrome-saved-payment-methods-how-to-edit)
-- [Chrome Extensions For Etsy Sellers](/articles//articles/chrome-extensions-for-etsy-sellers/)

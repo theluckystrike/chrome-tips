@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "Chrome Journeys Feature in History Explained"
-description: "Learn about Chrome Journeys, the AI-powered feature that groups your browsing history into meaningful timelines. Find past pages easily. Check out our expert r"
-date: "2025-03-10"
-last_modified_at: "2026-03-11"
-permalink: "chrome-journeys-feature-in-history-explained"
-categories: [features, browsing]
-tags: [chrome-journeys, history, ai-features]
-author: "theluckystrike"
+layout: post
+title: Chrome Journeys Feature in History Explained
+description: Learn about Chrome Journeys, the AI-powered feature that groups your
+  browsing history into meaningful timelines. Find past pages easily. Check out our
+  expert r
+date: '2025-03-10'
+last_modified_at: '2026-03-11'
+permalink: chrome-journeys-feature-in-history-explained
+categories:
+- features
+- browsing
+tags:
+- chrome-journeys
+- history
+- ai-features
+author: theluckystrike
 ---
 # Chrome Journeys Feature in History Explained
 
@@ -58,7 +65,7 @@ As Chrome continues to develop this feature, we can expect journeys to become mo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Opens in Small Window Fix](/articles/chrome-opens-in-small-window-fix/)
+* [Chrome Tab Limit: Is There a Maximum?](/articles/chrome-tab-limit-is-there-a-maximum/)
+* [Chrome for LeechBlock Setup and Tips](/articles/chrome-for-leechblock-setup-and-tips/)
 
-- [Chrome Coupon Finder Built In Feature](/articles/chrome-coupon-finder-built-in-feature)
-- [Chrome Smooth Scrolling How to Enable](/articles/chrome-smooth-scrolling-how-to-enable)
-- [Chrome vs Brave Privacy Comparison](/articles/chrome-vs-brave-privacy-comparison)

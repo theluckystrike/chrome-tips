@@ -1,13 +1,16 @@
 ---
-title: "Chrome Enhanced Safe Browsing Guide"
-description: "Master Chrome Enhanced Safe Browsing with our comprehensive guide covering real-time protection, phishing detection, download scanning, malware protection, a..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-enhanced-safe-browsing"
-layout: "default"
-categories: "[browser, security, privacy]"
-tags: "[chrome, safe-browsing, enhanced-protection, phishing, malware, security-guide, online-protection]"
-author: "theluckystrike"
+title: Chrome Enhanced Safe Browsing Guide
+description: Master Chrome Enhanced Safe Browsing with our comprehensive guide covering
+  real-time protection, phishing detection, download scanning, malware protection,
+  a...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-enhanced-safe-browsing
+layout: default
+categories: '[browser, security, privacy]'
+tags: '[chrome, safe-browsing, enhanced-protection, phishing, malware, security-guide,
+  online-protection]'
+author: theluckystrike
 ---
 # Chrome Enhanced Safe Browsing Guide
 
@@ -132,10 +135,9 @@ For users who want to optimize their browser performance alongside security, too
 ---
 
 ## Related Articles
-- [Chrome Safe Browsing Should I Turn On](/chrome-safe-browsing-should-i-turn-on)
-- [Chrome Safe Browsing: What It Does and How It Protects You](/chrome-safe-browsing-what-it-does)
-- [Are Chrome Extensions Safe to Use](/are-chrome-extensions-safe-to-use)
-
+* [Chrome Toolbar Missing Fix](/articles/chrome-toolbar-missing-fix/)
+* [Chrome Extensions for Text Comparison Diff Tool](/articles/chrome-extensions-for-text-comparison-diff-tool/)
+* [Chrome Profile Data Where It Is Stored](/articles/chrome-profile-data-where-it-is-stored/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

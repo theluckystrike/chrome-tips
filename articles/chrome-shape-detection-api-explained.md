@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Shape Detection API Explained
-description: Learn what the Chrome Shape Detection API is, how it works in your browser, and what it means for your web experience. Read our comprehensive guide to learn mor
+description: Learn what the Chrome Shape Detection API is, how it works in your browser,
+  and what it means for your web experience. Read our comprehensive guide to learn
+  mor
 date: 2026-03-09
 categories:
 - chrome
@@ -76,16 +78,8 @@ Running the **Shape Detection API**—whether for **Face Detection**, **Barcode 
 Using **Tab Suspender Pro** is an excellent way to keep your browser responsive. It automatically "hibernates" background tabs, freeing up **RAM** so that Chrome has the processing power needed for real-time **image analysis**. This ensures that when you're scanning a **QR code** or using a **face filter**, the experience is smooth and lag-free.
 
 ## Related Articles
-- [Chrome Contact Picker API Explained](/chrome-contact-picker-api-explained)
-- [Chrome Screen Wake Lock API Explained](/chrome-screen-wake-lock-api-explained)
-- [Chrome Shape Detection API Face Detection](/chrome-shape-detection-api-face-detection)
-
+* [Chrome Extensions For Font Changer On Any Website](/articles//articles/chrome-extensions-for-font-changer-on-any-website//)
+* [Top 10 Chrome Extensions for Productivity 2026](/articles/top-10-chrome-extensions-for-productivity-2026/)
+* [Chrome Dock Icon Missing Fix Mac](/articles/chrome-dock-icon-missing-fix-mac/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
-
-## Related Articles
-
-- [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs)
-- [Chrome for Claude AI Web Tips](/articles/chrome-for-claude-ai-web-tips)
-- [Chrome Close Other Tabs Shortcut](/articles/chrome-close-other-tabs-shortcut)

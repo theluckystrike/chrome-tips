@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "Chrome for WordPress Best Extensions"
-description: "Discover the best Chrome extensions for WordPress that can streamline your workflow and boost productivity. Check out our expert recommendations and tips to en"
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-wordpress-best-extensions"
-categories: [wordpress, tips]
-tags: [chrome-extensions, wordpress, productivity]
-author: "theluckystrike"
+layout: post
+title: Chrome for WordPress Best Extensions
+description: Discover the best Chrome extensions for WordPress that can streamline
+  your workflow and boost productivity. Check out our expert recommendations and tips
+  to en
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-wordpress-best-extensions
+categories:
+- wordpress
+- tips
+tags:
+- chrome-extensions
+- wordpress
+- productivity
+author: theluckystrike
 ---
 # Chrome for WordPress Best Extensions
 
@@ -72,7 +79,7 @@ Remember that each extension you add uses some browser resources, so it is worth
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Passkeys Setup Guide 2026](/articles/chrome-passkeys-setup-guide-2026/)
+* [Chrome for ChatGPT Web App Best Extensions](/articles/chrome-for-chatgpt-web-app-best-extensions/)
+* [Chrome Allow Popups for One Site How To](/articles/chrome-allow-popups-for-one-site-how-to/)
 
-- [Chrome Slow on Windows 11 After Update: Practical Fixes](/articles/chrome-slow-on-windows-11-after-update)
-- [Chrome DNS Probe Finished Nxdomain Fix](/articles/chrome-dns-probe-finished-nxdomain-fix)
-- [Chrome Shopping List Feature How to Use](/articles/chrome-shopping-list-feature-how-to-use)

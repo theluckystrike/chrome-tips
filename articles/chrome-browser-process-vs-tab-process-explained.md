@@ -1,13 +1,23 @@
 ---
-layout: "post"
-title: "chrome browser process vs tab process explained"
-description: "Understand the difference between Chrome browser process and tab process, and how they affect your browsing performance and memory usage. Check out our expert g"
-date: "2026-03-10"
-last_modified_at: '2026-03-12'
-permalink: "chrome-browser-process-vs-tab-process-explained"
-categories: [chrome, processes, performance]
-tags: [chrome, browser process, tab process, memory, performance]
-author: "theluckystrike"
+layout: post
+title: chrome browser process vs tab process explained
+description: Understand the difference between Chrome browser process and tab process,
+  and how they affect your browsing performance and memory usage. Check out our expert
+  g
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-browser-process-vs-tab-process-explained
+categories:
+- chrome
+- processes
+- performance
+tags:
+- chrome
+- browser process
+- tab process
+- memory
+- performance
+author: theluckystrike
 ---
 # Chrome Browser Process vs Tab Process Explained
 
@@ -78,7 +88,7 @@ The exact number of processes you see depends on how many tabs you have open, wh
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Auto Sign In to Websites How to Control](/articles/chrome-auto-sign-in-to-websites-how-to-control/)
+* [Chrome How to Clear Individual Site Data](/articles/chrome-how-to-clear-individual-site-data/)
+* [Chrome Scaling Blurry on External Monitor Fix](/articles/chrome-scaling-blurry-on-external-monitor-fix/)
 
-- [Chrome Extensions For Faster Browsing](/articles//articles/chrome-extensions-for-faster-browsing/)
-- [Chrome Extensions for Workona Tab Manager](/articles/chrome-extensions-for-workona-tab-manager)
-- [How to Route Chrome Tab Audio to Separate Speakers](/articles/chrome-tab-audio-routing-separate-speakers)

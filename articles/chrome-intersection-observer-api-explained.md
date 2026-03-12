@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "Chrome Intersection Observer API Explained"
-description: "Learn what the Chrome Intersection Observer API is, how it works, and why it makes websites faster and more responsive. Check out our expert recommendations an"
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-intersection-observer-api-explained"
+layout: post
+title: Chrome Intersection Observer API Explained
+description: Learn what the Chrome Intersection Observer API is, how it works, and
+  why it makes websites faster and more responsive. Check out our expert recommendations
+  an
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-intersection-observer-api-explained
 ---
 Chrome intersection observer API explained is a topic that comes up when users notice improvements in how websites load and scroll on their devices. If you have ever scrolled through a long webpage and noticed that content loads smoothly as you go, or if you have seen images appear just as they come into view, you have experienced the Intersection Observer API in action without even knowing it.
 
@@ -59,7 +61,7 @@ Using tools like this, along with keeping your browser updated, can help you get
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome multiprocess architecture explained](/articles/chrome-multiprocess-architecture-explained/)
+* [chrome for gmail productivity extensions](/articles/chrome-for-gmail-productivity-extensions/)
+* [Chrome for Stripe Dashboard Tips](/articles/chrome-for-stripe-dashboard-tips/)
 
-- [Chrome Accessibility Shortcuts For Screen Reader](/articles/chrome-accessibility-shortcuts-for-screen-reader)
-- [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut)
-- [chrome tab memory usage how to check](/articles/chrome-tab-memory-usage-how-to-check)

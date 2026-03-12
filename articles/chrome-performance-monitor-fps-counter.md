@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome performance monitor fps counter
-description: Learn how to use Chrome Performance Monitor and FPS counter to track browser performance. Discover built-in tools and extensions for measuring frame rates an...
+description: Learn how to use Chrome Performance Monitor and FPS counter to track
+  browser performance. Discover built-in tools and extensions for measuring frame
+  rates an...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-performance-monitor-fps-counter
@@ -14,8 +16,6 @@ tags:
 - browser-speed
 - chrome-devtools
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-performance-monitor-fps-counter
 ---
 # How to Use Chrome Performance Monitor and FPS Counter
 
@@ -76,10 +76,9 @@ You might also want to monitor performance when visiting media-heavy sites like 
 ---
 
 ## Related Articles
-- [Chrome DevTools Protocol Monitor](/chrome-devtools-protocol-monitor)
-- [Chrome Reporting API Errors Monitor: Complete Guide](/chrome-reporting-api-errors-monitor)
-- [Chrome Tracing for Performance Issues](/chrome-tracing-for-performance-issues)
-
+* [Chrome Extensions for Website Archiving](/articles/chrome-extensions-for-website-archiving/)
+* [Chrome Fullscreen Mode Shortcut](/articles/chrome-fullscreen-mode-shortcut/)
+* [Chrome Dyslexia Friendly Extensions](/articles/chrome-dyslexia-friendly-extensions/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

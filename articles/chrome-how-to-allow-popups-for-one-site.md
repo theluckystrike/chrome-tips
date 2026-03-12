@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "chrome how to allow popups for one site"
-description: "Learn how to allow popups for one site in Chrome without disabling your popup blocker completely. Simple steps inside. Check out our expert recommendations and"
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-how-to-allow-popups-for-one-site"
-categories: [browser, settings]
-tags: [chrome, popups, browser-settings, permissions]
-author: "theluckystrike"
+layout: post
+title: chrome how to allow popups for one site
+description: Learn how to allow popups for one site in Chrome without disabling your
+  popup blocker completely. Simple steps inside. Check out our expert recommendations
+  and
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-how-to-allow-popups-for-one-site
+categories:
+- browser
+- settings
+tags:
+- chrome
+- popups
+- browser-settings
+- permissions
+author: theluckystrike
 ---
 # Chrome How to Allow Popups for One Site
 
@@ -78,7 +86,7 @@ Chrome popup settings are designed to give you control while still protecting yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Making Your Laptop Fan Loud? Here's How to Fix It](/articles/chrome-making-laptop-fan-loud/)
+* [chrome for telegram web best settings](/articles/chrome-for-telegram-web-best-settings/)
+* [How to Organize Chrome Bookmarks Into Folders](/articles/how-to-organize-chrome-bookmarks-into-folders/)
 
-- [Chrome OS vs Windows for Everyday Use](/articles/chrome-os-vs-windows-for-everyday-use)
-- [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop)
-- [Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab](/articles/chrome-duplicate-tab-shortcut-trick)

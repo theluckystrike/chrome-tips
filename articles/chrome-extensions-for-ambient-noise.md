@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Ambient Noise"
-description: "Discover the best chrome extensions for ambient noise to improve focus, reduce distractions, and create a peaceful workspace. Discover how these tools can si..."
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-ambient-noise"
-layout: "post"
-categories: "[productivity, wellness]"
-tags: "[chrome-extensions, ambient-noise, focus, productivity, concentration]"
-author: "theluckystrike"
+title: Chrome Extensions for Ambient Noise
+description: Discover the best chrome extensions for ambient noise to improve focus,
+  reduce distractions, and create a peaceful workspace. Discover how these tools can
+  si...
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-ambient-noise
+layout: post
+categories: '[productivity, wellness]'
+tags: '[chrome-extensions, ambient-noise, focus, productivity, concentration]'
+author: theluckystrike
 ---
 # Chrome Extensions for Ambient Noise
 
@@ -70,10 +72,9 @@ With the right chrome extensions for ambient noise, you can transform any enviro
 ---
 
 ## Related Articles
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-
+* [chrome web serial api for beginners](/articles/chrome-web-serial-api-for-beginners/)
+* [chrome extensions for website distraction blocker](/articles/chrome-extensions-for-website-distraction-blocker/)
+* [Chrome Extension for Viewing Page Load Time](/articles/chrome-extension-for-viewing-page-load-time/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

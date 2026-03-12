@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for custom new tab page extensions
-description: Learn how to customize your new tab page in Chrome with extensions that transform your start page into something useful and personal. Find out more tips on h...
+description: Learn how to customize your new tab page in Chrome with extensions that
+  transform your start page into something useful and personal. Find out more tips
+  on h...
 date: 2026-01-15
 categories:
 - extensions
@@ -70,7 +72,7 @@ If you notice performance issues after installing a new tab extension, try disab
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Incognito on Phone How to Open](/articles/chrome-incognito-on-phone-how-to-open/)
+* [Chrome Extensions for Speed Reading](/articles/chrome-extensions-for-speed-reading/)
+* [Best Chrome Extensions for Data Analysts](/articles/best-chrome-extensions-for-data-analysts/)
 
-- [Chrome for Notion Web Clipper Setup](/articles/chrome-for-notion-web-clipper-setup)
-- [Chrome for Budgeting: Best Web Tools](/articles/chrome-for-budgeting-best-web-tools)
-- [Chrome Web MIDI API Explained](/articles/chrome-web-midi-api-explained)

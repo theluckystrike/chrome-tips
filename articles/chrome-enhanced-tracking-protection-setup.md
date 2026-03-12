@@ -1,13 +1,14 @@
 ---
-title: "chrome enhanced tracking protection setup"
-description: "Learn how to set up Chrome enhanced tracking protection to block trackers, improve privacy, and reduce unwanted data collection. Check out our expert recommenda"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-enhanced-tracking-protection-setup"
-layout: "post"
-categories: "[privacy, security, tracking]"
-tags: "[privacy, tracking, chrome-settings, security, cookies]"
-author: "theluckystrike"
+title: chrome enhanced tracking protection setup
+description: Learn how to set up Chrome enhanced tracking protection to block trackers,
+  improve privacy, and reduce unwanted data collection. Check out our expert recommenda
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-enhanced-tracking-protection-setup
+layout: post
+categories: '[privacy, security, tracking]'
+tags: '[privacy, tracking, chrome-settings, security, cookies]'
+author: theluckystrike
 ---
 # Chrome Enhanced Tracking Protection Setup
 
@@ -74,10 +75,9 @@ Keeping your browser updated is one of the simplest ways to maintain strong prot
 ---
 
 ## Related Articles
-- [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)
-- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
-- [Chrome Large Font Easy to Read Setup](/chrome-large-font-easy-to-read-setup)
-
+* [Chrome Timeline Recording Explained](/articles/chrome-timeline-recording-explained/)
+* [Best Settings to Speed Up Chrome 2026](/articles/best-settings-to-speed-up-chrome-2026/)
+* [chrome pi hole vs browser ad blocker comparison](/articles/chrome-pi-hole-vs-browser-ad-blocker-comparison/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

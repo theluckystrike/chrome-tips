@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome for Weather Dashboard Extensions"
-description: "Discover the best Chrome weather dashboard extensions to keep forecast info visible while you browse. Find the right tools for quick weather updates. Check out"
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-weather-dashboard-extensions"
-categories: [productivity, tips]
-tags: [chrome-extensions, weather, dashboard, browser-tools]
-author: "theluckystrike"
+layout: post
+title: Chrome for Weather Dashboard Extensions
+description: Discover the best Chrome weather dashboard extensions to keep forecast
+  info visible while you browse. Find the right tools for quick weather updates. Check
+  out
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-weather-dashboard-extensions
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- weather
+- dashboard
+- browser-tools
+author: theluckystrike
 ---
 # Chrome for Weather Dashboard Extensions
 
@@ -64,7 +72,7 @@ The best part is that these extensions work quietly in the background once insta
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Noscript Alternative](/articles/chrome-extensions-for-noscript-alternative/)
+* [Chrome Extensions for News Aggregator](/articles/chrome-extensions-for-news-aggregator/)
+* [chrome extension rejected common reasons fix](/articles/chrome-extension-rejected-common-reasons-fix/)
 
-- [Chrome Switch Between Windows Shortcut](/articles/chrome-switch-between-windows-shortcut)
-- [Chrome PDF Not Downloading Just Opening Fix](/articles/chrome-pdf-not-downloading-just-opening-fix)
-- [Chrome Attribution Reporting API Explained](/articles/chrome-attribution-reporting-api-explained)

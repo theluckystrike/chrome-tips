@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Google Docs Offline Setup
-description: Learn how to set up Chrome for Google Docs offline access so you can work without internet. Discover more tips and tricks to optimize your browser experience
+description: Learn how to set up Chrome for Google Docs offline access so you can
+  work without internet. Discover more tips and tricks to optimize your browser experience
 date: 2026-01-15
 categories:
 - google-docs
@@ -73,7 +74,7 @@ Remember to review your offline documents periodically, keep your browser update
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Ungoogled Chromium What It Is and How to Install](/articles/ungoogled-chromium-what-it-is-and-how-to-install/)
+* [Chrome Tab Discard What It Means](/articles/chrome-tab-discard-what-it-means/)
+* [Chrome Default Download Location How to Set](/articles//chrome-default-download-location-how-to-set//)
 
-- [Chrome Takes Forever to Load Pages](/articles/chrome-takes-forever-to-load-pages)
-- [chrome touchscreen mode how to enable](/articles/chrome-touchscreen-mode-how-to-enable)
-- [Chrome Extensions for Image Downloader Bulk](/articles/chrome-extensions-for-image-downloader-bulk)

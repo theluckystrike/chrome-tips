@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for edX Web App Best Settings
-description: Optimize Chrome for edX web app with the best settings for smooth learning. Save memory, reduce distractions, and improve performance. Find out more tips on ...
+description: Optimize Chrome for edX web app with the best settings for smooth learning.
+  Save memory, reduce distractions, and improve performance. Find out more tips on
+  ...
 date: 2025-02-20
 categories:
 - productivity
@@ -97,7 +99,7 @@ Making these adjustments takes about ten minutes but pays off every time you ope
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Profile Backup How to Save](/articles/chrome-profile-backup-how-to-save/)
+* [Chrome Reader View How to Enable on Any Site](/articles/chrome-reader-view-how-to-enable-on-any-site/)
+* [Chrome for Quizlet Web App Best Settings](/articles/chrome-for-quizlet-web-app-best-settings/)
 
-- [Chrome Extensions for Habit Tracker](/articles/chrome-extensions-for-habit-tracker)
-- [Chrome Bookmarks File Location and Backup Guide](/articles/chrome-bookmarks-file-location-backup)
-- [Chrome Spotify Web Player Not Working Fix](/articles/chrome-spotify-web-player-not-working-fix)

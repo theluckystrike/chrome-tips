@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Remote Debugging Setup Guide
-description: A complete step-by-step guide to setting up chrome remote debugging for debugging websites on Android devices, iOS devices, and remote computers. Read our compr
+description: A complete step-by-step guide to setting up chrome remote debugging for
+  debugging websites on Android devices, iOS devices, and remote computers. Read our
+  compr
 date: 2026-01-20
 categories:
 - web-development
@@ -92,10 +94,9 @@ This chrome remote debugging setup guide covered everything you need to start de
 Remote debugging transforms how you approach cross-device development. Instead of relying on assumptions and indirect feedback, you can see problems happen in real time and experiment with solutions directly. This capability leads to better websites that work well for all users, regardless of which device they use.
 
 ## Related Articles
-- [Chrome Remote Debugging for Beginners](/chrome-remote-debugging-for-beginners)
-- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
-
+* [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained/)
+* [chrome for shopify store management tips](/articles/chrome-for-shopify-store-management-tips/)
+* [Chrome Black Screen Fix](/articles/chrome-black-screen-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

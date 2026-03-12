@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Slow on Surface Pro Fix
-description: Is Chrome running slowly on your Surface Pro? Here are practical solutions to speed up your browser and improve performance. Read our comprehensive guide to lea
+description: Is Chrome running slowly on your Surface Pro? Here are practical solutions
+  to speed up your browser and improve performance. Read our comprehensive guide to
+  lea
 date: 2026-03-10
 categories:
 - productivity
@@ -70,7 +72,7 @@ Remember that small changes can add up to big improvements. Try one or two of th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Ai Theme Generator How To Use](/articles/chrome-ai-theme-generator-how-to-use/)
+* [Chrome Guest Mode vs Incognito Mode: What's the Difference?](/articles/chrome-guest-mode-vs-incognito-difference/)
+* [Chrome for Reducing Eye Strain Extensions](/articles/chrome-for-reducing-eye-strain-extensions/)
 
-- [Chrome Extensions For Elderly Users Simple Tools](/articles//articles/chrome-extensions-for-elderly-users-simple-tools/)
-- [Chrome Navigation API for Single Page Apps: A Complete Guide](/articles/chrome-navigation-api-single-page-apps)
-- [Chrome Casting to TV How to Setup](/articles/chrome-casting-to-tv-how-to-setup)

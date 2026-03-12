@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Cache Folder Size and Location: Complete Guide"
-description: "Learn where Chrome stores its cache folder on different operating systems, how to check its size, and ways to manage it effectively. Simple instructions for ..."
-date: "2026-01-15"
-last_modified_at: '2026-03-12'
-permalink: "chrome-cache-folder-size-and-location"
-categories: [troubleshooting, performance]
-tags: [chrome-cache-folder, chrome-cache-location, chrome-cache-size, browser-cache]
-author: "theluckystrike"
+layout: post
+title: 'Chrome Cache Folder Size and Location: Complete Guide'
+description: Learn where Chrome stores its cache folder on different operating systems,
+  how to check its size, and ways to manage it effectively. Simple instructions for
+  ...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-cache-folder-size-and-location
+categories:
+- troubleshooting
+- performance
+tags:
+- chrome-cache-folder
+- chrome-cache-location
+- chrome-cache-size
+- browser-cache
+author: theluckystrike
 ---
 # Chrome Cache Folder Size and Location: Complete Guide
 
@@ -130,10 +138,9 @@ For users with limited disk space, consider limiting Chrome's cache size using s
 The Chrome cache folder is an essential part of how Chrome works, storing temporary files that speed up your web browsing. Whether you are on Windows, Mac, or Linux, the cache is stored in predictable locations that you can access and manage. By understanding what is in the cache, checking its size regularly, and clearing it when necessary, you can keep Chrome running smoothly and free up valuable disk space.
 
 ## Related Articles
-- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
-- [How to Increase Chrome Cache Size](/chrome-cache-size-how-to-increase)
-- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
-
+* [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension/)
+* [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix/)
+* [How to Reduce Number of Open Tabs](/articles/how-to-reduce-number-of-open-tabs/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

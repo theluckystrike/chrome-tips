@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Service Worker Debugging Guide
-description: Master Chrome Service Worker debugging with DevTools Application tab, cache inspection, update lifecycle management, and offline testing techniques. Read our co
+description: Master Chrome Service Worker debugging with DevTools Application tab,
+  cache inspection, update lifecycle management, and offline testing techniques. Read
+  our co
 date: 2026-01-15
 categories:
 - development
@@ -148,10 +150,9 @@ Testing across multiple devices and browser contexts is important for comprehens
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management/)
+* [Best Chrome Extensions for Writers 2026](/articles/chrome-extensions-for-writers-2026/)
+* [Chrome Tab Search Shortcut Explained](/articles/chrome-tab-search-shortcut-explained/)
 
-## Related Articles
-
-- [Chrome Mouse Cursor Disappears Fix](/articles/chrome-mouse-cursor-disappears-fix)
-- [Chrome for Netflix Best Quality Settings](/articles/chrome-for-netflix-best-quality-settings)
-- [Chrome Network Process Using Too Much Memory](/articles/chrome-network-process-using-too-much-memory)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

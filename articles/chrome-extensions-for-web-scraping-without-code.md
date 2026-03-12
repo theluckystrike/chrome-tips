@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Extensions for Web Scraping Without Code"
-description: "Learn how to use Chrome extensions for web scraping without code. Extract data from websites easily without programming skills. Read our comprehensive guide ..."
+title: Chrome Extensions for Web Scraping Without Code
+description: Learn how to use Chrome extensions for web scraping without code. Extract
+  data from websites easily without programming skills. Read our comprehensive guide
+  ...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: chrome-extensions-for-web-scraping-without-code
@@ -79,7 +81,7 @@ Finally, remember that these tools are meant to help with reasonable data collec
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Tab Organization Workflow](/articles/chrome-for-tab-organization-workflow/)
+* [Chrome Extensions for Research Papers](/articles/chrome-extensions-for-research-papers/)
+* [Chrome QR Code for Page How to Generate](/articles/chrome-qr-code-for-page-how-to-generate/)
 
-- [Chrome Canva Slow Loading Fix](/articles/chrome-canva-slow-loading-fix)
-- [Chrome Multiple Users on Same Computer Setup](/articles/chrome-multiple-users-on-same-computer-setup)
-- [Chrome Microphone Permission for One Site How to Set](/articles/chrome-microphone-permission-for-one-site-how-to-set)

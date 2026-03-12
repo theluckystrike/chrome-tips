@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "How to Turn Off Autocomplete in Chrome"
-description: "Learn how to disable Chrome autocomplete for forms and address fields with simple settings adjustments. Check out our expert recommendations and tips to enhanc"
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-how-to-turn-off-autocomplete"
-categories: [troubleshooting, tips]
-tags: [chrome-autocomplete, browser-settings, privacy, chrome-tips]
-author: "theluckystrike"
+layout: post
+title: How to Turn Off Autocomplete in Chrome
+description: Learn how to disable Chrome autocomplete for forms and address fields
+  with simple settings adjustments. Check out our expert recommendations and tips
+  to enhanc
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-how-to-turn-off-autocomplete
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-autocomplete
+- browser-settings
+- privacy
+- chrome-tips
+author: theluckystrike
 ---
 # How to Turn Off Autocomplete in Chrome
 
@@ -74,7 +82,7 @@ If you decide later that you want to turn autocomplete back on, the process is e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Route Chrome Tab Audio to Separate Speakers](/articles/chrome-tab-audio-routing-separate-speakers/)
+* [Chrome vs Vivaldi: Which Is More Customizable](/articles/chrome-vs-vivaldi-which-is-more-customizable/)
+* [Chrome Permissions Manager Guide](/articles/chrome-permissions-manager-guide/)
 
-- [Chrome Restore Tabs Not Working After Update: Practical Fixes](/articles/chrome-restore-tabs-not-working-after-update)
-- [chrome lighthouse performance score explained simply](/articles/chrome-lighthouse-performance-score-explained-simply)
-- [Chrome for eBay Selling Best Extensions](/articles/chrome-for-ebay-selling-best-extensions)

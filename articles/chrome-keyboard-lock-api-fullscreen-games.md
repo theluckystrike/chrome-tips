@@ -1,13 +1,26 @@
 ---
-layout: "post"
-title: "Chrome Keyboard Lock API: Building Immersive Fullscreen Games"
-description: "Learn how to use the Chrome Keyboard Lock API to capture keyboard input for immersive fullscreen web games. Step-by-step guide with code examples. Check out ou"
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-keyboard-lock-api-fullscreen-games"
-categories: [chrome, web-development, gaming, api, javascript]
-tags: [keyboard-lock-api, fullscreen-games, chrome-api, web-gaming, browser-gaming, game-development]
-author: "theluckystrike"
+layout: post
+title: 'Chrome Keyboard Lock API: Building Immersive Fullscreen Games'
+description: Learn how to use the Chrome Keyboard Lock API to capture keyboard input
+  for immersive fullscreen web games. Step-by-step guide with code examples. Check
+  out ou
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-keyboard-lock-api-fullscreen-games
+categories:
+- chrome
+- web-development
+- gaming
+- api
+- javascript
+tags:
+- keyboard-lock-api
+- fullscreen-games
+- chrome-api
+- web-gaming
+- browser-gaming
+- game-development
+author: theluckystrike
 ---
 # Chrome Keyboard Lock API: Building Immersive Fullscreen Games
 
@@ -216,10 +229,9 @@ While browser support remains limited to Chromium-based browsers, this API is a 
 For developers building browser-based games, pairing keyboard lock with extensions like Tab Suspender Pro can help maintain optimal performance by managing background tabs while players enjoy uninterrupted gameplay.
 
 ## Related Articles
-- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
-
+* [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
+* [Chrome Extensions for Gantt Chart](/articles/chrome-extensions-for-gantt-chart/)
+* [Hidden Chrome Extensions You Should Install](/articles/hidden-chrome-extensions-you-should-install/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

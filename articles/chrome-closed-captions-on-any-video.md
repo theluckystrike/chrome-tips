@@ -1,12 +1,21 @@
 ---
-title: "Chrome Closed Captions on Any Video"
-description: "Learn how to enable closed captions on any video in Chrome. Simple methods to add subtitles to videos that do not have them built in. Read our full guide to mas"
-date: "2025-03-12"
-last_modified_at: '2026-03-12'
-permalink: "chrome-closed-captions-on-any-video"
+title: Chrome Closed Captions on Any Video
+description: Learn how to enable closed captions on any video in Chrome. Simple methods
+  to add subtitles to videos that do not have them built in. Read our full guide to
+  mas
+date: '2025-03-12'
+last_modified_at: '%Y->- (origin/fix/lastmod-batch-4)'
+permalink: chrome-closed-captions-on-any-video
 layout: post
-categories: ['features', 'accessibility']
-tags: ['closed-captions', 'subtitles', 'accessibility', 'video', 'chrome-features']
+categories:
+- features
+- accessibility
+tags:
+- closed-captions
+- subtitles
+- accessibility
+- video
+- chrome-features
 author: theluckystrike
 ---
 # Chrome Closed Captions on Any Video
@@ -74,7 +83,7 @@ By exploring Chrome built-in features and available extensions, you can find the
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Google Maps Keyboard Shortcuts](/articles/chrome-google-maps-keyboard-shortcuts/)
+* [Chrome WebGPU vs WebGL Comparison](/articles/chrome-webgpu-vs-webgl/)
+* [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix/)
 
-- [Chrome View Page Resources How to](/articles/chrome-view-page-resources-how-to)
-- [Chrome Extensions For Bulk Image Downloading](/articles//articles/chrome-extensions-for-bulk-image-downloading/)
-- [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix)

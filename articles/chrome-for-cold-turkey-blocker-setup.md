@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Cold Turkey Blocker Setup
-description: Learn how to set up Chrome for Cold Turkey blocker to block distracting websites and boost your productivity. Find out more tips on how to optimize your Chro...
+description: Learn how to set up Chrome for Cold Turkey blocker to block distracting
+  websites and boost your productivity. Find out more tips on how to optimize your
+  Chro...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-cold-turkey-blocker-setup
@@ -69,7 +71,7 @@ Finally, be patient with yourself. Changing browsing habits takes time, and ther
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions Using Too Much Memory](/articles/chrome-extensions-using-too-much-memory/)
+* [Why Does Chrome Use So Much CPU](/articles/why-does-chrome-use-so-much-cpu/)
+* [Chrome Extensions Disappeared After Update](/articles/chrome-extensions-disappeared-after-update/)
 
-- [How to Fix Chrome Mixed Content Warning](/articles/chrome-mixed-content-warning-fix)
-- [Chrome vs Opera Features Comparison](/articles/chrome-vs-opera-features-comparison)
-- [Chrome Reading Mode How to Activate](/articles/chrome-reading-mode-how-to-activate)

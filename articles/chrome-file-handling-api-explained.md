@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "chrome file handling api explained"
-description: "Learn what the Chrome File Handling API is, how it works, and why it matters for your browsing experience. Read our comprehensive guide to learn more and boo..."
+title: chrome file handling api explained
+description: Learn what the Chrome File Handling API is, how it works, and why it
+  matters for your browsing experience. Read our comprehensive guide to learn more
+  and boo...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-file-handling-api-explained
-categories: [features, extensions]
-tags: [file-handling, api, chrome-features]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-file-handling-api-explained
+categories:
+- features
+- extensions
+tags:
+- file-handling
+- api
+- chrome-features
+author: theluckystrike
 ---
 # Chrome File Handling API Explained
 
@@ -82,7 +87,7 @@ As web applications continue to evolve, features like file handling are making t
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [How to Change Your Chrome New Tab Background to a Custom Image](/articles/chrome-new-tab-background-change-custom-image/)
+* [chrome prefetch dns how to enable](/articles/chrome-prefetch-dns-how-to-enable/)
+* [Chrome Memory Leak Fix for 2026](/articles/chrome-memory-leak-fix-2026/)
 
-- [Chromebook Developer Mode: Should I Enable It?](/articles/chromebook-developer-mode-should-i-enable)
-- [chrome not playing youtube videos fix](/articles/chrome-not-playing-youtube-videos-fix)
-- [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions)

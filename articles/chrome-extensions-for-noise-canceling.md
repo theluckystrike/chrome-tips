@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Noise Canceling"
-description: "Discover chrome extensions for noise canceling that block unwanted sounds, autoplay videos, and create a quieter browsing experience. Check out our expert..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-noise-canceling"
-layout: "post"
-categories: "[productivity, wellness]"
-tags: "[chrome-extensions, noise-canceling, focus, productivity, concentration]"
-author: "theluckystrike"
+title: Chrome Extensions for Noise Canceling
+description: Discover chrome extensions for noise canceling that block unwanted sounds,
+  autoplay videos, and create a quieter browsing experience. Check out our expert...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-noise-canceling
+layout: post
+categories: '[productivity, wellness]'
+tags: '[chrome-extensions, noise-canceling, focus, productivity, concentration]'
+author: theluckystrike
 ---
 # Chrome Extensions for Noise Canceling
 
@@ -72,7 +73,7 @@ Everyone deserves a quiet digital workspace. By taking advantage of these extens
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome dark reader extension worth it](/articles//chrome-dark-reader-extension-worth-it//)
+* [Best Chrome Extensions for Content Creators](/articles/best-chrome-extensions-for-content-creators/)
+* [Chrome Upcoming Features Preview 2026](/articles/chrome-upcoming-features-preview-2026/)
 
-- [Chrome Extensions for Split Tabs](/articles/chrome-extensions-for-split-tabs)
-- [How to Use Chrome Task Manager to Find Slow Tabs](/articles/how-to-use-chrome-task-manager-to-find-slow-tabs)
-- [Chrome Extensions for Google Forms](/articles/chrome-extensions-for-google-forms)

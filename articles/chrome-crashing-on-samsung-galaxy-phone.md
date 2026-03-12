@@ -1,15 +1,23 @@
 ---
-title: "Chrome Crashing on Samsung Galaxy Phone"
-description: "Is Chrome crashing on your Samsung Galaxy? Find out why this happens and get simple fixes to stop the crashes and keep browsing smoothly. Read our full guide to"
-date: "2026-01-20"
-last_modified_at: '2026-03-12'
-permalink: "chrome-crashing-on-samsung-galaxy-phone"
-layout: post
-categories: ['mobile', 'troubleshooting', 'android', 'samsung']
-tags: ['chrome-android', 'samsung-browser', 'chrome-crash', 'mobile-browser']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: Chrome Crashing on Samsung Galaxy Phone
+description: Is Chrome crashing on your Samsung Galaxy? Find out why this happens
+  and get simple fixes to stop the crashes and keep browsing smoothly. Read our full
+  guide to
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
 permalink: chrome-crashing-on-samsung-galaxy-phone
+layout: post
+categories:
+- mobile
+- troubleshooting
+- android
+- samsung
+tags:
+- chrome-android
+- samsung-browser
+- chrome-crash
+- mobile-browser
+author: theluckystrike
 ---
 # Chrome Crashing on Samsung Galaxy Phone
 
@@ -72,7 +80,7 @@ Keeping your apps updated, managing your open tabs, and maintaining free storage
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Session Storage vs Local Storage: What's the Difference?](/articles/chrome-session-storage-vs-local-storage/)
+* [chrome pwa offline capability how it works](/articles/chrome-pwa-offline-capability-how-it-works/)
+* [Chrome What Technology Is Website Using](/articles/chrome-what-technology-is-website-using/)
 
-- [Chromebook Developer Mode: Should I Enable It?](/articles/chromebook-developer-mode-should-i-enable)
-- [Chrome Using Too Much Memory on MacBook Air](/articles/chrome-using-too-much-memory-on-macbook-air)
-- [Chrome Forced Extensions by Admin What It Means](/articles/chrome-forced-extensions-by-admin-what-it-means)

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome offline google docs how to enable
-description: Learn how to enable offline Google Docs in Chrome to work on documents without internet. Simple steps inside. Learn effective tips and tricks to optimize you...
+description: Learn how to enable offline Google Docs in Chrome to work on documents
+  without internet. Simple steps inside. Learn effective tips and tricks to optimize
+  you...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-offline-google-docs-how-to-enable
@@ -15,8 +17,6 @@ tags:
 - offline-mode
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-offline-google-docs-how-to-enable
 ---
 # Chrome Offline Google Docs How to Enable
 
@@ -79,7 +79,7 @@ Finally, remember to periodically check that your offline settings remain enable
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix/)
+* [chrome extensions for journalists](/articles/chrome-extensions-for-journalists/)
+* [Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM](/articles/chrome-slow-on-work-computer-vpn/)
 
-- [How to Use Chrome on Two Monitors](/articles/how-to-use-chrome-on-two-monitors)
-- [Chrome Slow With Many Tabs Open? Here's How to Fix It](/articles/chrome-slow-with-many-tabs-open)
-- [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to)

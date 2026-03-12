@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for odysee web player tips
-description: Get the most out of Odysee video playback in Chrome with these practical tips for smoother streaming and better performance. Discover more tips and tricks to
+description: Get the most out of Odysee video playback in Chrome with these practical
+  tips for smoother streaming and better performance. Discover more tips and tricks
+  to
 date: 2025-01-15
 categories:
 - browsers
@@ -71,7 +73,7 @@ Getting the most out of Odysee in Chrome does not require technical expertise. B
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Check Website Speed in Chrome](/articles/how-to-check-website-speed-in-chrome/)
+* [Best Chrome Extensions for Twitter X](/articles/best-chrome-extensions-for-twitter-x/)
+* [Chrome Google Sheets Keyboard Shortcuts](/articles/chrome-google-sheets-keyboard-shortcuts/)
 
-- [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome)
-- [Chrome Navigate Back With Gesture How to](/articles/chrome-navigate-back-with-gesture-how-to)
-- [Chrome Extensions for Website Archiving](/articles/chrome-extensions-for-website-archiving)

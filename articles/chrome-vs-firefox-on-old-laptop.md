@@ -1,13 +1,15 @@
 ---
-layout: "default"
-title: "Chrome vs Firefox on an Old Laptop — Which Is Better?"
-description: "Honest comparison of Chrome and Firefox on older laptops. Memory usage, speed, battery life, and which browser works better on limited hardware. Read our com..."
-date: "2025-02-21"
-last_modified_at: "2026-03-10"
-permalink: "chrome-vs-firefox-on-old-laptop"
-categories: "[comparison, performance]"
-tags: "[chrome-vs-firefox, old-laptop, browser-comparison, memory-usage]"
-author: "theluckystrike"
+layout: default
+title: Chrome vs Firefox on an Old Laptop — Which Is Better?
+description: Honest comparison of Chrome and Firefox on older laptops. Memory usage,
+  speed, battery life, and which browser works better on limited hardware. Read our
+  com...
+date: '2025-02-21'
+last_modified_at: '2026-03-10'
+permalink: chrome-vs-firefox-on-old-laptop
+categories: '[comparison, performance]'
+tags: '[chrome-vs-firefox, old-laptop, browser-comparison, memory-usage]'
+author: theluckystrike
 ---
 # Chrome vs Firefox on an Old Laptop — Which Is Better?
 
@@ -91,10 +93,9 @@ The decision between Chrome and Firefox for an old laptop isn't always clear-cut
 No matter which path you take, remember that your browser is only part of the equation. Keeping your operating system lean, closing background applications, and using performance-boosting tools like **Tab Suspender Pro** will go a long way in extending the life of your old laptop and making your time online much more enjoyable.
 
 ## Related Articles
-- [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/chrome-vs-edge-on-windows-11)
-- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-
+* [Chrome for Cloud Gaming Best Settings](/articles/chrome-for-cloud-gaming-best-settings/)
+* [Chrome Idle Detection API Explained: What It Means for Your Browser](/articles/chrome-idle-detection-api-explained/)
+* [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

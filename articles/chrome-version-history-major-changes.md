@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Version History: Major Changes You Should Know About"
-description: "A guide to Chrome version history and major changes that affect your browsing. Learn what changed and how to adapt. Read our comprehensive guide to learn mor..."
-date: "2025-02-17"
-last_modified_at: "2026-03-10"
-permalink: "chrome-version-history-major-changes"
-categories: "[chrome, browser-guides]"
-tags: "[chrome-version, chrome-update, browser-history]"
-author: "theluckystrike"
+layout: post
+title: 'Chrome Version History: Major Changes You Should Know About'
+description: A guide to Chrome version history and major changes that affect your
+  browsing. Learn what changed and how to adapt. Read our comprehensive guide to learn
+  mor...
+date: '2025-02-17'
+last_modified_at: '2026-03-10'
+permalink: chrome-version-history-major-changes
+categories: '[chrome, browser-guides]'
+tags: '[chrome-version, chrome-update, browser-history]'
+author: theluckystrike
 ---
 # Chrome Version History: Major Changes You Should Know About
 
@@ -76,10 +78,9 @@ Staying aware of major changes, keeping your extensions updated, and using tools
 ---
 
 ## Related Articles
-- [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/chrome-ai-powered-history-search)
-- [Chrome Flags Reset How to Undo Changes](/chrome-flags-reset-how-to-undo-changes)
-- [Chrome Portable Version How To Get](/chrome-portable-version-how-to-get)
-
+* [Chrome JetStream Score What Is Good](/articles/chrome-jetstream-score-what-is-good/)
+* [Chrome Extensions for Time Tracking](/articles/chrome-extensions-for-time-tracking/)
+* [Chrome How to Print Selection Only](/articles/chrome-how-to-print-selection-only/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

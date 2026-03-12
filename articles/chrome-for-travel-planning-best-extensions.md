@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "Chrome for Travel Planning: Best Extensions"
-description: "Discover the best Chrome extensions for travel planning that will help you organize trips, find deals, and streamline your research. Check out our expert recom"
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-travel-planning-best-extensions"
-categories: [travel, tips]
-tags: [chrome-extensions, travel-planning, browser-tools]
-author: "theluckystrike"
+layout: post
+title: 'Chrome for Travel Planning: Best Extensions'
+description: Discover the best Chrome extensions for travel planning that will help
+  you organize trips, find deals, and streamline your research. Check out our expert
+  recom
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-travel-planning-best-extensions
+categories:
+- travel
+- tips
+tags:
+- chrome-extensions
+- travel-planning
+- browser-tools
+author: theluckystrike
 ---
 # Chrome for Travel Planning: Best Extensions
 
@@ -68,7 +75,7 @@ Remember that not every extension will be useful for every trip. A quick weekend
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Speed Dial Extensions Best](/articles/chrome-speed-dial-extensions-best/)
+* [chrome default browser how to set windows mac](/articles//chrome-default-browser-how-to-set-windows-mac//)
+* [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android/)
 
-- [Chrome Dictation How to Enable](/articles/chrome-dictation-how-to-enable)
-- [Chrome Spellcheck Not Working? Here's How to Fix It](/articles/chrome-spellcheck-not-working-fix)
-- [Chrome for Jira Best Extensions](/articles/chrome-for-jira-best-extensions)

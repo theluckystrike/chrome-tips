@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Web Codecs API Explained"
-description: "What the Chrome Web Codecs API means for your browser and how it affects video and audio playback. Read our comprehensive guide to learn more and optimize yo..."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-web-codecs-api-explained"
-categories: "[technology, browser, media]"
-tags: "[chrome-web-codecs, browser-api, video-audio, chrome-features]"
-author: "theluckystrike"
+layout: post
+title: Chrome Web Codecs API Explained
+description: What the Chrome Web Codecs API means for your browser and how it affects
+  video and audio playback. Read our comprehensive guide to learn more and optimize
+  yo...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-web-codecs-api-explained
+categories: '[technology, browser, media]'
+tags: '[chrome-web-codecs, browser-api, video-audio, chrome-features]'
+author: theluckystrike
 ---
 # Chrome Web Codecs API Explained
 
@@ -64,7 +66,7 @@ You can also check the Chrome version you are using and compare it with the mini
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Snap Scroll CSS Explained](/articles/chrome-snap-scroll-css-explained/)
+* [Chrome Extensions Causing Lag: Which One Is Slowing You Down?](/articles/chrome-extensions-causing-lag-which-one/)
+* [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/articles/chrome-tab-hibernate-save-memory/)
 
-- [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature)
-- [Chrome Print to PDF Without Margins](/articles/chrome-print-to-pdf-without-margins)
-- [Chrome Google Calendar Quick Add from Browser](/articles/chrome-google-calendar-quick-add-from-browser)

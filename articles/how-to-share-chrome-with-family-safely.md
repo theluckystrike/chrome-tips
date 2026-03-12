@@ -1,13 +1,14 @@
 ---
-layout: "default"
-title: "How to Share Chrome with Family Safely"
-description: "Set up Chrome for the whole family with separate profiles, parental controls, and privacy protection. Keep everyone's data separate and safe. Read our compre..."
-date: "2025-03-07"
-last_modified_at: "2026-03-10"
-permalink: "how-to-share-chrome-with-family-safely"
-categories: "[family, privacy]"
-tags: "[family-sharing, chrome-profiles, parental-controls, shared-computer]"
-author: "theluckystrike"
+layout: default
+title: How to Share Chrome with Family Safely
+description: Set up Chrome for the whole family with separate profiles, parental controls,
+  and privacy protection. Keep everyone's data separate and safe. Read our compre...
+date: '2025-03-07'
+last_modified_at: '2026-03-10'
+permalink: how-to-share-chrome-with-family-safely
+categories: '[family, privacy]'
+tags: '[family-sharing, chrome-profiles, parental-controls, shared-computer]'
+author: theluckystrike
 ---
 # How to Share Chrome with Family Safely
 
@@ -113,7 +114,7 @@ Remember that the most important part of family online safety is the conversatio
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Set Methods: Union and Intersection Made Simple](/articles/chrome-set-methods-union-intersection/)
+* [Chrome Accessibility on Phone Settings Guide](/articles/chrome-accessibility-on-phone-settings-guide/)
+* [Chrome Open History Page Shortcut](/articles/chrome-open-history-page-shortcut/)
 
-- [Chrome Extensions for Reddit](/articles/chrome-extensions-for-reddit)
-- [chrome mutation observer api explained](/articles/chrome-mutation-observer-api-explained)
-- [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop)

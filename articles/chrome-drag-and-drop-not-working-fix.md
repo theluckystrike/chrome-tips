@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome Drag and Drop Not Working Fix"
-description: "Chrome drag and drop not working can be frustrating. Learn why it happens and simple solutions to get drag and drop working again. Explore our comprehensive..."
+title: Chrome Drag and Drop Not Working Fix
+description: Chrome drag and drop not working can be frustrating. Learn why it happens
+  and simple solutions to get drag and drop working again. Explore our comprehensive...
 date: 2025-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-drag-and-drop-not-working-fix
@@ -85,7 +86,7 @@ Every few months, take a moment to do some basic browser maintenance. Clear your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips/)
+* [Chrome Slower After macOS Update Fix](/articles/chrome-slower-after-macos-update-fix/)
+* [Chrome Opens in Small Window Fix](/articles/chrome-opens-in-small-window-fix/)
 
-- [Best Chrome Extensions For Lawyers](/articles/best-chrome-extensions-for-lawyers)
-- [Chrome for Slack Web App Best Settings](/articles/chrome-for-slack-web-app-best-settings)
-- [Chrome High Disk Usage Fix Windows](/articles/chrome-high-disk-usage-fix-windows)

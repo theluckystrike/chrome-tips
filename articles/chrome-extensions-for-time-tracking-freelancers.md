@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Time Tracking Freelancers"
-description: "Freelancers can use Chrome extensions to track time, manage projects, and improve productivity. Learn which tools work best. Read our comprehensive guide to ..."
+title: Chrome Extensions for Time Tracking Freelancers
+description: Freelancers can use Chrome extensions to track time, manage projects,
+  and improve productivity. Learn which tools work best. Read our comprehensive guide
+  to ...
 date: 2026-01-15
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-time-tracking-freelancers
-categories: [productivity, extensions]
-tags: [chrome-extensions, time-tracking, freelancing, productivity]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-time-tracking-freelancers
+categories:
+- productivity
+- extensions
+tags:
+- chrome-extensions
+- time-tracking
+- freelancing
+- productivity
+author: theluckystrike
 ---
 # Chrome Extensions for Time Tracking Freelancers
 
@@ -76,7 +82,7 @@ Finally, be honest with yourself and your clients about your tracking process. I
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Keyboard Shortcuts for Power Users](/articles/chrome-keyboard-shortcuts-for-power-users/)
+* [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply/)
+* [Chrome Sync What Data Gets Synced](/articles/chrome-sync-what-data-gets-synced/)
 
-- [Chrome Extensions for Ambient Sounds Focus](/articles/chrome-extensions-for-ambient-sounds-focus)
-- [Chrome Profile Backup How to Save](/articles/chrome-profile-backup-how-to-save)
-- [What Happens When Chrome Extension Is Removed From Store](/articles/what-happens-when-chrome-extension-is-removed-from-store)

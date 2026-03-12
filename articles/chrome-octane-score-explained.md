@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Octane Score Explained
-description: Understand Chrome Octane score and how it affects browser performance. Learn what it means and how to improve your browser speed. Learn effective tips and tr...
+description: Understand Chrome Octane score and how it affects browser performance.
+  Learn what it means and how to improve your browser speed. Learn effective tips
+  and tr...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-octane-score-explained
@@ -13,8 +15,6 @@ tags:
 - browser-benchmark
 - chrome-performance
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-octane-score-explained
 ---
 # Chrome Octane Score Explained
 
@@ -77,7 +77,7 @@ Remember that your time is valuable, and a faster browser means less waiting and
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome MotionMark Graphics Benchmark](/articles/chrome-motionmark-graphics-benchmark/)
+* [Chrome for Amazon Prime Video Quality Settings](/articles/chrome-for-amazon-prime-video-quality-settings/)
+* [Best Chrome Themes 2026](/articles/best-chrome-themes-2026/)
 
-- [Why Did Chrome Get So Slow Recently? Causes and Fixes](/articles/why-did-chrome-get-so-slow-recently)
-- [Chrome for Coupon Finding Best Extensions](/articles/chrome-for-coupon-finding-best-extensions)
-- [Chrome What Technology Is Website Using](/articles/chrome-what-technology-is-website-using)

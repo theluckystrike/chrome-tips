@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Export Bookmarks from Chrome"
-description: "Learn how to export bookmarks from Chrome to back them up or transfer them to another browser. Simple steps included. Read our comprehensive guide to learn m..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "how-to-export-bookmarks-from-chrome"
-categories: "[tips, bookmarks]"
-tags: "[chrome, bookmarks, backup, browser]"
-author: "theluckystrike"
+layout: post
+title: How to Export Bookmarks from Chrome
+description: Learn how to export bookmarks from Chrome to back them up or transfer
+  them to another browser. Simple steps included. Read our comprehensive guide to
+  learn m...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: how-to-export-bookmarks-from-chrome
+categories: '[tips, bookmarks]'
+tags: '[chrome, bookmarks, backup, browser]'
+author: theluckystrike
 ---
 # How to Export Bookmarks from Chrome
 
@@ -68,7 +70,7 @@ Taking a minute to export your bookmarks now can save you a lot of frustration l
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Background Tabs Slowing Down Computer Fix](/articles/chrome-background-tabs-slowing-down-computer-fix/)
+* [chrome for yahoo mail best extensions](/articles/chrome-for-yahoo-mail-best-extensions/)
+* [How to Inspect and Debug WebSocket Connections in Chrome](/articles/chrome-websocket-inspect-debug/)
 
-- [Chrome Safety Check What It Does](/articles/chrome-safety-check-what-it-does)
-- [Chrome Local Font Access for Web Design](/articles/chrome-local-font-access-web-design)
-- [Chrome for Zotero Web Connector Setup](/articles/chrome-for-zotero-web-connector-setup)

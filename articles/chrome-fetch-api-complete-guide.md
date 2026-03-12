@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Chrome Fetch API Complete Guide"
-description: "Learn how the Chrome Fetch API works, its features, and how to use it Check out these essential tools and tips to streamline your browsing workflow now."
+title: Chrome Fetch API Complete Guide
+description: Learn how the Chrome Fetch API works, its features, and how to use it
+  Check out these essential tools and tips to streamline your browsing workflow now.
 date: 2025-03-10
 last_modified_at: 2026-03-11
 permalink: chrome-fetch-api-complete-guide
-categories: 
-tags: 
+categories: null
+tags: null
 author: theluckystrike
 ---
 # Chrome Fetch API Complete Guide
@@ -80,7 +81,7 @@ As web technologies continue to evolve, the Fetch API remains a reliable tool fo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome web nfc how it works](/articles/chrome-web-nfc-how-it-works/)
+* [Chrome Extensions for IP Address Lookup](/articles/chrome-extensions-for-ip-address-lookup/)
+* [Chrome for Trello Power Ups in Browser](/articles/chrome-for-trello-power-ups-in-browser/)
 
-- [Chrome Lazy Loading Images Explained](/articles/chrome-lazy-loading-images-explained)
-- [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management)
-- [Best Chrome Extensions for Lawyers 2026](/articles/best-chrome-extensions-for-lawyers-2026)

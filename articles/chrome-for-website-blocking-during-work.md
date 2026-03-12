@@ -1,13 +1,23 @@
 ---
-layout: "post"
-title: "Chrome for Website Blocking During Work"
-description: "Learn how to block distracting websites in Chrome during work hours to stay focused and boost your productivity. Check out our expert recommendations and tips"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-website-blocking-during-work"
-categories: [productivity, chrome, focus]
-tags: [chrome, website-blocking, productivity, focus, work]
-author: "theluckystrike"
+layout: post
+title: Chrome for Website Blocking During Work
+description: Learn how to block distracting websites in Chrome during work hours to
+  stay focused and boost your productivity. Check out our expert recommendations and
+  tips
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-website-blocking-during-work
+categories:
+- productivity
+- chrome
+- focus
+tags:
+- chrome
+- website-blocking
+- productivity
+- focus
+- work
+author: theluckystrike
 ---
 # Chrome for Website Blocking During Work
 
@@ -72,7 +82,7 @@ Remember, the goal is not to eliminate all browsing but to create boundaries tha
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Tab Search Shortcut: Find Any Open Tab Instantly](/articles/chrome-tab-search-shortcut/)
+* [Is Microsoft Edge Better Than Chrome Now](/articles/is-microsoft-edge-better-than-chrome-now/)
+* [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix/)
 
-- [Chrome WebAssembly Debugging Guide](/articles/chrome-wasm-debugging-guide)
-- [Chrome Reset Flags to Default How To](/articles/chrome-reset-flags-to-default-how-to)
-- [Chrome Share Page Between Phone and Laptop: Complete Guide](/articles/chrome-share-page-between-phone-and-laptop)

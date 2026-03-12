@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Inspect Element Tutorial for Beginners"
-description: "Learn how to use Chrome's Inspect Element tool to debug websites, customize pages, and understand how web pages work. A practical step-by-step guide for begi..."
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "chrome-inspect-element-tutorial-for-beginners"
-categories: [chrome, devtools, web-development]
-tags: [chrome-devtools, inspect-element, browser-tools, web-development]
-author: "theluckystrike"
+layout: post
+title: Chrome Inspect Element Tutorial for Beginners
+description: Learn how to use Chrome's Inspect Element tool to debug websites, customize
+  pages, and understand how web pages work. A practical step-by-step guide for begi...
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-inspect-element-tutorial-for-beginners
+categories:
+- chrome
+- devtools
+- web-development
+tags:
+- chrome-devtools
+- inspect-element
+- browser-tools
+- web-development
+author: theluckystrike
 ---
 # Chrome Inspect Element Tutorial for Beginners
 
@@ -115,10 +123,9 @@ Once you're comfortable with the basics, you'll find Inspect Element is an inval
 ---
 
 ## Related Articles
-- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)
-- [Chrome Blink Engine Explained For Beginners](/chrome-blink-engine-explained-for-beginners)
-- [Chrome Encrypted DNS Explained for Beginners](/chrome-encrypted-dns-explained-for-beginners)
-
+* [Chrome Best Settings for Online Meetings](/articles/chrome-best-settings-for-online-meetings/)
+* [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization/)
+* [How to Stop Chrome from Suspending My Tabs](/articles/how-to-stop-chrome-from-suspending-my-tabs/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

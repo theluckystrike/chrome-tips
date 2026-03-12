@@ -1,15 +1,21 @@
 ---
-title: "Chrome Content Visibility Auto Performance"
-description: "Learn how CSS content-visibility auto improves Chrome performance by skipping rendering of off-screen content. Boost page speed with this powerful property."
-date: "2026-01-15"
-last_modified_at: '2026-03-12'
-permalink: "chrome-content-visibility-auto-performance"
-layout: post
-categories: ['chrome', 'performance', 'css']
-tags: ['content-visibility', 'browser-performance', 'chrome-tips', 'rendering']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: Chrome Content Visibility Auto Performance
+description: Learn how CSS content-visibility auto improves Chrome performance by
+  skipping rendering of off-screen content. Boost page speed with this powerful property.
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
 permalink: chrome-content-visibility-auto-performance
+layout: post
+categories:
+- chrome
+- performance
+- css
+tags:
+- content-visibility
+- browser-performance
+- chrome-tips
+- rendering
+author: theluckystrike
 ---
 # Chrome Content Visibility Auto Performance
 
@@ -82,10 +88,9 @@ As web standards continue to evolve, we can expect more properties and APIs that
 Start exploring how content-visibility can improve your browsing experience today. Whether you are a web developer looking to optimize your websites or a user seeking faster Chrome performance, this powerful CSS property has something to offer.
 
 ## Related Articles
-- [Chrome Browser Games Performance Tips](/chrome-browser-games-performance-tips)
-- [Chrome Extension for Auto Scroll Pages](/chrome-extension-for-auto-scroll-pages)
-- [Chrome Content Filtering for Families](/chrome-content-filtering-for-families)
-
+* [Chrome Auto Sign In to Websites How to Control](/articles/chrome-auto-sign-in-to-websites-how-to-control/)
+* [How to Use the Chrome Inert Attribute to Disable Interaction](/articles/chrome-inert-attribute-disable-interaction/)
+* [Chrome Education Account What It Includes](/articles/chrome-education-account-what-it-includes/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

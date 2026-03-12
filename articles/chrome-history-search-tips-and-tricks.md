@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "Chrome History Search Tips and Tricks"
-description: "Master Chrome's history search with these practical tips. Find any visited page quickly using built-in features and smart search techniques. Check out our expe"
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-history-search-tips-and-tricks"
-categories: [productivity, tips]
-tags: [history, chrome-tips, browser-management]
-author: "theluckystrike"
+layout: post
+title: Chrome History Search Tips and Tricks
+description: Master Chrome's history search with these practical tips. Find any visited
+  page quickly using built-in features and smart search techniques. Check out our
+  expe
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-history-search-tips-and-tricks
+categories:
+- productivity
+- tips
+tags:
+- history
+- chrome-tips
+- browser-management
+author: theluckystrike
 ---
 # Chrome History Search Tips and Tricks
 
@@ -64,7 +71,7 @@ Mastering Chrome's history search takes just a few minutes, but it pays off ever
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome privacy badger vs ublock origin comparison](/articles/chrome-privacy-badger-vs-ublock-origin-comparison/)
+* [Chrome Save Open Tabs as Bookmarks All at Once](/articles/chrome-save-open-tabs-as-bookmarks-all-at-once/)
+* [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to/)
 
-- [Chrome Extension for Batch Downloading Images](/articles/chrome-extension-for-batch-downloading-images)
-- [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)
-- [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/articles/chrome-vs-edge-on-windows-11)

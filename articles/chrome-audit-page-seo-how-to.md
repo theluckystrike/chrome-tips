@@ -95,7 +95,7 @@ While Chrome built-in tools are excellent for analyzing your SEO, managing multi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Open Settings Shortcut](/articles/chrome-open-settings-shortcut/)
+* [Chrome Session Storage vs Local Storage: What's the Difference?](/articles/chrome-session-storage-vs-local-storage/)
+* [Chrome for Website Blocking During Work](/articles/chrome-for-website-blocking-during-work/)
 
-- [Chrome Keeps Stopping on Android Fix](/articles/chrome-keeps-stopping-on-android-fix)
-- [Best Chrome Extensions for Product Managers](/articles/best-chrome-extensions-for-product-managers)
-- [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable)

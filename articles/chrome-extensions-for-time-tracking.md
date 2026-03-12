@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Time Tracking"
-description: "Discover how Chrome extensions for time tracking can help you understand where your time goes and boost your productivity. Read our comprehensive guide to le..."
+title: Chrome Extensions for Time Tracking
+description: Discover how Chrome extensions for time tracking can help you understand
+  where your time goes and boost your productivity. Read our comprehensive guide to
+  le...
 date: 2026-03-09
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-time-tracking
-categories: [productivity, tips]
-tags: [chrome-extensions, time-tracking, productivity]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-time-tracking
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- time-tracking
+- productivity
+author: theluckystrike
 ---
 # Chrome Extensions for Time Tracking
 
@@ -82,7 +87,7 @@ Remember that the best time tracking extension is the one you will actually use.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Instant Apps on Android Explained](/articles/chrome-instant-apps-on-android-explained/)
+* [chrome for mailchimp web app tips](/articles/chrome-for-mailchimp-web-app-tips/)
+* [Chrome Sync Phone and Computer How to Set Up](/articles/chrome-sync-phone-and-computer-how-to-set-up/)
 
-- [chrome for xbox cloud gaming optimization](/articles/chrome-for-xbox-cloud-gaming-optimization)
-- [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes)
-- [Chrome for Saving Articles to Read Later](/articles/chrome-for-saving-articles-to-read-later)

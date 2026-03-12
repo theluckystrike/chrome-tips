@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Which Tab Is Using Most CPU How to Find"
-description: "Discover how to find which Chrome tab is using the most CPU. Simple methods to identify and manage resource-heavy tabs. Read our comprehensive guide to learn..."
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-which-tab-is-using-most-cpu-how-to-find"
-categories: "[performance, cpu]"
-tags: "[chrome-cpu, browser-performance, tab-management]"
-author: "theluckystrike"
+layout: post
+title: Chrome Which Tab Is Using Most CPU How to Find
+description: Discover how to find which Chrome tab is using the most CPU. Simple methods
+  to identify and manage resource-heavy tabs. Read our comprehensive guide to learn...
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-which-tab-is-using-most-cpu-how-to-find
+categories: '[performance, cpu]'
+tags: '[chrome-cpu, browser-performance, tab-management]'
+author: theluckystrike
 ---
 # Chrome Which Tab Is Using Most CPU How to Find
 
@@ -56,7 +57,7 @@ Understanding chrome which tab is using most cpu how to find is the key to maint
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for DeFi Dashboard Extensions](/articles/chrome-for-defi-dashboard-extensions/)
+* [Chrome MotionMark Graphics Benchmark](/articles/chrome-motionmark-graphics-benchmark/)
+* [Chrome for Removing YouTube Recommendations](/articles/chrome-for-removing-youtube-recommendations/)
 
-- [Chrome Extensions for Google Forms](/articles/chrome-extensions-for-google-forms)
-- [Chrome Unicode Symbols How to Insert](/articles/chrome-unicode-symbols-how-to-insert)
-- [Chrome Address Bar Not Working Fix](/articles/chrome-address-bar-not-working-fix)

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome proxy settings how to configure
-description: Learn how to configure proxy settings in Chrome. Step-by-step guide to set up, change, or disable proxy for secure browsing. Learn effective tips and tricks ...
+description: Learn how to configure proxy settings in Chrome. Step-by-step guide to
+  set up, change, or disable proxy for secure browsing. Learn effective tips and tricks
+  ...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-proxy-settings-how-to-configure
@@ -14,8 +16,6 @@ tags:
 - network
 - privacy
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-proxy-settings-how-to-configure
 ---
 # Chrome Proxy Settings How to Configure
 
@@ -100,10 +100,9 @@ Tab Suspender Pro is one tool that can automatically suspend tabs you are not cu
 ---
 
 ## Related Articles
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
-- [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
-
+* [Chrome Extensions for Google Drive](/articles/chrome-extensions-for-google-drive/)
+* [Chrome Microphone Access on Phone How to Control](/articles/chrome-microphone-access-on-phone-how-to-control/)
+* [Chrome Related Website Sets Explained](/articles/chrome-related-website-sets-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

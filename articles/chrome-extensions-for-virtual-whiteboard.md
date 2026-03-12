@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Virtual Whiteboard"
-description: "Discover the best Chrome extensions for virtual whiteboard that can transform your remote collaboration and visual brainstorming sessions. Read our comprehen..."
+title: Chrome Extensions for Virtual Whiteboard
+description: Discover the best Chrome extensions for virtual whiteboard that can transform
+  your remote collaboration and visual brainstorming sessions. Read our comprehen...
 date: 2026-03-09
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-virtual-whiteboard
-categories: [productivity, collaboration]
-tags: [chrome-extensions, virtual-whiteboard, collaboration, remote-work]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-virtual-whiteboard
+categories:
+- productivity
+- collaboration
+tags:
+- chrome-extensions
+- virtual-whiteboard
+- collaboration
+- remote-work
+author: theluckystrike
 ---
 # Chrome Extensions for Virtual Whiteboard
 
@@ -84,7 +89,7 @@ Whatever combination of tools you choose, having a reliable virtual whiteboard s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Stripe Dashboard Tips](/articles/chrome-for-stripe-dashboard-tips/)
+* [Chrome Extensions for Writers and Bloggers](/articles/chrome-extensions-for-writers-and-bloggers/)
+* [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization/)
 
-- [Chrome Inspect Element for Beginners](/articles/chrome-inspect-element-for-beginners)
-- [Chrome Extensions For Fitness Tracking Dashboard](/articles//articles/chrome-extensions-for-fitness-tracking-dashboard/)
-- [Chrome vs Edge RAM Usage Comparison 2026](/articles/chrome-vs-edge-ram-usage-comparison-2026)

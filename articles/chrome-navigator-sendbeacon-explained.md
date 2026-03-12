@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Navigator Sendbeacon Explained
-description: Learn what navigator.sendBeacon does in Chrome, how it works, and why it matters for your browsing experience. Learn effective tips and tricks to optimize yo...
+description: Learn what navigator.sendBeacon does in Chrome, how it works, and why
+  it matters for your browsing experience. Learn effective tips and tricks to optimize
+  yo...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-navigator-sendbeacon-explained
@@ -67,7 +69,7 @@ Whether you choose to actively manage these background processes or use tools to
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to View Saved Passwords in Chrome 2026](/articles/how-to-view-saved-passwords-in-chrome-2026/)
+* [Chrome Black Screen Fix](/articles/chrome-black-screen-fix/)
+* [Chrome for Research Workflow Best Setup](/articles/chrome-for-research-workflow-best-setup/)
 
-- [chrome global privacy control what it does](/articles/chrome-global-privacy-control-what-it-does)
-- [chrome reduce data usage on mobile](/articles/chrome-reduce-data-usage-on-mobile)
-- [chrome zoom default change](/articles/chrome-zoom-default-change)

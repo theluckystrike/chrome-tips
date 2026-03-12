@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Search Engine Keeps Changing to Yahoo Fix
-description: Is your Chrome search engine keeps changing to Yahoo? Learn why this happens and how to fix it with simple steps to restore your preferred search engine.
+description: Is your Chrome search engine keeps changing to Yahoo? Learn why this
+  happens and how to fix it with simple steps to restore your preferred search engine.
 date: 2026-01-20
 categories:
 - troubleshooting
@@ -58,16 +59,8 @@ If you're dealing with persistent **browser hijacks** or unwanted setting change
 Using **Tab Suspender Pro** helps by automatically "hibernating" inactive tabs, which frees up **RAM** and keeps Chrome snappy. This ensures that when you need to jump into your **Search engine settings** to remove a **Yahoo hijack**, the browser is responsive and doesn't hang. By keeping your system resources focused on your active tasks, you can manage your **security settings** more effectively and spot unwanted changes before they become a major headache.
 
 ## Related Articles
-- [Chrome Sync Paused How to Fix](/chrome-sync-paused-how-to-fix)
-- [Chrome Homepage Keeps Changing Fix](/chrome-homepage-keeps-changing-fix)
-- [Chrome Default Search Engine Changed How to Fix](/chrome-default-search-engine-changed-how-to-fix)
-
+* [Chrome PWA Update Mechanism How It Works](/articles/chrome-pwa-update-mechanism-how-it-works/)
+* [Chrome Web Serial API Guide](/articles/chrome-web-serial-api-guide/)
+* [Chrome Continue Where You Left Off Not Working](/articles/chrome-continue-where-you-left-off-not-working/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
-
-## Related Articles
-
-- [How to Clear Chrome Cache Properly](/articles/how-to-clear-chrome-cache-properly)
-- [Chrome Google Meet Integration in Browser](/articles/chrome-google-meet-integration-in-browser)
-- [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage/)

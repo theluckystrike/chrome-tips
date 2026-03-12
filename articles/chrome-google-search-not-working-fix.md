@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome Google Search Not Working Fix"
-description: "Is Chrome Google search not working? Try these simple solutions to get your search bar working again. Check out our expert recommendations and tips to enhance"
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-google-search-not-working-fix"
-categories: [troubleshooting, browser]
-tags: [chrome, google, search, fix, troubleshooting]
-author: "theluckystrike"
+layout: post
+title: Chrome Google Search Not Working Fix
+description: Is Chrome Google search not working? Try these simple solutions to get
+  your search bar working again. Check out our expert recommendations and tips to
+  enhance
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-google-search-not-working-fix
+categories:
+- troubleshooting
+- browser
+tags:
+- chrome
+- google
+- search
+- fix
+- troubleshooting
+author: theluckystrike
 ---
 # Chrome Google Search Not Working Fix
 
@@ -92,7 +101,7 @@ Most of the time, one of the solutions above will get your search working again.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Autofill Credit Card Safety](/articles/chrome-for-autofill-credit-card-safety/)
+* [chrome global privacy control what it does](/articles/chrome-global-privacy-control-what-it-does/)
+* [Chrome Speed Comparison Test How to Run](/articles/chrome-speed-comparison-test-how-to-run/)
 
-- [Chromebook vs iPad for Students](/articles/chromebook-vs-ipad-for-students-comparison)
-- [Chrome Extensions for Todoist](/articles/chrome-extensions-for-todoist)
-- [chrome for google flights tips and tricks](/articles/chrome-for-google-flights-tips-and-tricks)

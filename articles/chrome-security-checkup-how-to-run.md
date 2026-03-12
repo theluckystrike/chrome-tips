@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Security Checkup How to Run
-description: Learn how to run Chrome's built-in security checkup to ensure your browser is protected. Step-by-step guide to check passwords, safe browsing, and extensions.
+description: Learn how to run Chrome's built-in security checkup to ensure your browser
+  is protected. Step-by-step guide to check passwords, safe browsing, and extensions.
 date: 2026-01-15
 categories:
 - security
@@ -97,10 +98,9 @@ Running Chrome's security checkup is one of the simplest ways to maintain good b
 Make it a point to run the security checkup regularly and address any issues it finds promptly. A few minutes of attention now can prevent much bigger problems down the road.
 
 ## Related Articles
-- [Chrome Security Panel How to Check SSL](/chrome-security-panel-how-to-check-ssl)
-- [Chrome Lighthouse Audit How To Run](/chrome-lighthouse-audit-how-to-run)
-- [How To Use Chrome Password Checkup Feature](/how-to-use-chrome-password-checkup-feature)
-
+* [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs/)
+* [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained/)
+* [Chrome Tab Management Shortcuts Cheat Sheet](/articles/chrome-tab-management-shortcuts-cheat-sheet/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

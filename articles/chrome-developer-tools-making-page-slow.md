@@ -91,9 +91,9 @@ For users who frequently need DevTools and also have many tabs open, combining D
 
 If Chrome Developer Tools is making your page slow, remember these key points: close unused panels, avoid leaving Network recording running unnecessarily, use separate window docking if helpful, and pair DevTools usage with tab suspension to manage memory effectively on low-RAM systems.
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
-## Related Articles
+*## Related Articles
+* [Chrome Extensions for Website Dark Mode Forced](/articles/chrome-extensions-for-website-dark-mode-forced/)
+* [Chrome for Lofi Music Extensions](/articles/chrome-for-lofi-music-extensions/)
+* [Chrome Not Playing Videos Fix](/articles/chrome-not-playing-videos-fix/)
 
-- [Chrome for Google Analytics in Browser](/articles/chrome-for-google-analytics-in-browser)
-- [Chrome View Page Resources How to](/articles/chrome-view-page-resources-how-to)
-- [Chrome Devtools Webauthn Debugger](/articles/chrome-devtools-webauthn-debugger)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

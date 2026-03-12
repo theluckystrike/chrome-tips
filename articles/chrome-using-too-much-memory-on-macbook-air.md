@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Using Too Much Memory on MacBook Air"
-description: "Is Chrome using too much memory on your MacBook Air? Discover why this happens and practical solutions to reduce memory usage. Read our comprehensive guide t..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-using-too-much-memory-on-macbook-air"
-categories: "[performance, browsers, mac]"
-tags: "[chrome-memory, macbook-air, memory-usage, browser-performance]"
-author: "theluckystrike"
+layout: post
+title: Chrome Using Too Much Memory on MacBook Air
+description: Is Chrome using too much memory on your MacBook Air? Discover why this
+  happens and practical solutions to reduce memory usage. Read our comprehensive guide
+  t...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-using-too-much-memory-on-macbook-air
+categories: '[performance, browsers, mac]'
+tags: '[chrome-memory, macbook-air, memory-usage, browser-performance]'
+author: theluckystrike
 ---
 # Chrome Using Too Much Memory on MacBook Air
 
@@ -74,10 +76,9 @@ These small changes can make a big difference in how your MacBook Air performs. 
 ---
 
 ## Related Articles
-- [Chrome Using Too Much Disk Space Fix](/chrome-using-too-much-disk-space-fix)
-- [Chrome Tabs Using Too Much Memory Which One](/chrome-tabs-using-too-much-memory-which-one)
-- [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/chrome-extension-using-too-much-memory-find)
-
+* [chrome default browser how to set on windows](/articles//chrome-default-browser-how-to-set-on-windows//)
+* [Chrome WebStore Extensions Not Installing Fix](/articles/chrome-webstore-extensions-not-installing-fix/)
+* [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

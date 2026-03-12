@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions Disappeared After Update"
-description: "Your chrome extensions disappeared after update? Here's why it happens and how to get them back in a few simple steps. Discover how these tools can significa..."
-date: "2025-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-disappeared-after-update"
-layout: "post"
-categories: "[extensions, troubleshooting]"
-tags: "[chrome-extensions, chrome-update, extension-fix, browser-troubleshooting]"
-author: "theluckystrike"
+title: Chrome Extensions Disappeared After Update
+description: Your chrome extensions disappeared after update? Here's why it happens
+  and how to get them back in a few simple steps. Discover how these tools can significa...
+date: '2025-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-disappeared-after-update
+layout: post
+categories: '[extensions, troubleshooting]'
+tags: '[chrome-extensions, chrome-update, extension-fix, browser-troubleshooting]'
+author: theluckystrike
 ---
 Chrome extensions disappeared after update is a frustrating problem that many Chrome users encounter. You wake up one morning, Chrome has updated itself overnight, and when you open your browser, all your favorite extensions are gone. The toolbar that used to have your ad blocker, password manager, and productivity tools now looks empty. This is more common than you might expect, and the good news is that your extensions are usually not permanently deleted. They just need to be re-enabled or reinstalled.
 
@@ -50,10 +51,9 @@ You can also try clearing your browser cache and cookies. Sometimes cached data 
 If all else fails, you may need to reset Chrome to its default settings. This removes all your extensions, settings, and data, so make sure to back up anything important first. After the reset, you can reinstall your extensions from the Chrome Web Store.
 
 ## Related Articles
-- [Chrome Using More Memory After an Update? Here's What to Do](/chrome-using-more-memory-after-update)
-- [Chrome Slow on Windows 11 After Update: Practical Fixes](/chrome-slow-on-windows-11-after-update)
-- [Chrome Slow After Update Fix: Complete Troubleshooting Guide](/chrome-slow-after-update-fix)
-
+* [chrome for telegram web best settings](/articles/chrome-for-telegram-web-best-settings/)
+* [Chrome PDF Viewer Settings: Complete Customization Guide](/articles/chrome-pdf-viewer-settings/)
+* [Chrome Local Font Access for Web Design](/articles/chrome-local-font-access-web-design/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Organizing Research"
-description: "Discover Chrome extensions that help organize research, keep tabs manageable, and stay productive while gathering information online. Check out our expert..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-organizing-research"
-layout: "post"
-categories: "[research, tips]"
-tags: "[chrome-extensions, research, productivity]"
-author: "theluckystrike"
+title: Chrome Extensions for Organizing Research
+description: Discover Chrome extensions that help organize research, keep tabs manageable,
+  and stay productive while gathering information online. Check out our expert...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-organizing-research
+layout: post
+categories: '[research, tips]'
+tags: '[chrome-extensions, research, productivity]'
+author: theluckystrike
 ---
 # Chrome Extensions for Organizing Research
 
@@ -84,7 +85,7 @@ Small improvements in how you organize research add up to significant time savin
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [chrome web apps how to install](/articles/chrome-web-apps-how-to-install/)
+* [chrome extensions for similar image finder](/articles/chrome-extensions-for-similar-image-finder/)
+* [Chrome Task Manager How to Use](/articles/chrome-task-manager-how-to-use/)
 
-- [Chrome Mobile Tabs Too Many How to Manage](/articles/chrome-mobile-tabs-too-many-how-to-manage)
-- [Chrome Extensions for Job Hunting 2026](/articles/chrome-extensions-for-job-hunting-2026)
-- [chromebook bluetooth not working fix](/articles/chromebook-bluetooth-not-working-fix)

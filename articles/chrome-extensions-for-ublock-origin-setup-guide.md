@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome Extensions for uBlock Origin Setup Guide"
-description: "Learn how to set up uBlock Origin and discover helpful Chrome extensions Read our comprehensive guide to learn more and boost your productivity today."
+title: Chrome Extensions for uBlock Origin Setup Guide
+description: Learn how to set up uBlock Origin and discover helpful Chrome extensions
+  Read our comprehensive guide to learn more and boost your productivity today.
 date: '2026-03-09'
 last_modified_at: 2026-03-11
 permalink: chrome-extensions-for-ublock-origin-setup-guide
@@ -71,7 +72,7 @@ Whether you are looking for better tab management with something like Tab Suspen
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Fix Chrome High CPU Usage When Gaming](/articles/how-to-fix-chrome-high-cpu-usage-gaming/)
+* [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix/)
+* [Chrome Extensions for HTTP Header Viewer](/articles/chrome-extensions-for-http-header-viewer/)
 
-- [Chrome Side Panel Customization: Complete Guide for 2026](/articles/chrome-side-panel-customization)
-- [Chrome Window Size Not Saving Fix](/articles/chrome-window-size-not-saving-fix)
-- [How to Fix Slow Slack Web App in Chrome](/articles/chrome-slack-web-app-slow-fix)

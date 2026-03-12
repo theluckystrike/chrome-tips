@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Sales Prospecting"
-description: "Discover the best Chrome extensions for sales prospecting that can help you find leads, automate outreach, and close more deals. Check out our expert..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-sales-prospecting"
-layout: "post"
-categories: "[sales, tips]"
-tags: "[chrome-extensions, sales, prospecting]"
-author: "theluckystrike"
+title: Chrome Extensions for Sales Prospecting
+description: Discover the best Chrome extensions for sales prospecting that can help
+  you find leads, automate outreach, and close more deals. Check out our expert...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-sales-prospecting
+layout: post
+categories: '[sales, tips]'
+tags: '[chrome-extensions, sales, prospecting]'
+author: theluckystrike
 ---
 # Chrome Extensions for Sales Prospecting
 
@@ -70,7 +71,7 @@ The right combination of extensions can transform your prospecting workflow from
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Parental Controls Without Extension](/articles/chrome-parental-controls-without-extension/)
+* [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users/)
+* [Chrome Extension for Saving Passwords Securely](/articles/chrome-extension-for-saving-passwords-securely/)
 
-- [Chrome Camera Microphone Permission Manage: Complete Guide](/articles/chrome-camera-microphone-permission-manage)
-- [Chrome Extensions for Lo Fi Music](/articles/chrome-extensions-for-lo-fi-music)
-- [Can Chrome Extensions Steal Your Data](/articles/can-chrome-extensions-steal-your-data)

@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "chrome for twitch streaming setup in browser"
-description: "Learn how to set up Chrome for Twitch streaming directly in your browser. Optimize performance, manage tabs, and enhance your streaming experience. Check out o"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-twitch-streaming-setup-in-browser"
-categories: [streaming, browser, twitch]
-tags: [chrome, twitch, streaming, browser-streaming]
-author: "theluckystrike"
+layout: post
+title: chrome for twitch streaming setup in browser
+description: Learn how to set up Chrome for Twitch streaming directly in your browser.
+  Optimize performance, manage tabs, and enhance your streaming experience. Check
+  out o
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-twitch-streaming-setup-in-browser
+categories:
+- streaming
+- browser
+- twitch
+tags:
+- chrome
+- twitch
+- streaming
+- browser-streaming
+author: theluckystrike
 ---
 # Chrome for Twitch Streaming Setup in Browser
 
@@ -78,7 +87,7 @@ After your stream, take note of what worked well and what could be improved. Str
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Tab Sleeping Automatically](/articles/chrome-extensions-for-tab-sleeping-automatically/)
+* [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/articles/chrome-your-computer-is-infected-popup-fix/)
+* [How to Reset Chrome to Default Settings](/articles/how-to-reset-chrome-to-default-settings/)
 
-- [Chrome Google Chat Integration in Browser](/articles/chrome-google-chat-integration-in-browser)
-- [Chrome for Weather Dashboard Extensions](/articles/chrome-for-weather-dashboard-extensions)
-- [chrome for anki web flashcards setup](/articles/chrome-for-anki-web-flashcards-setup)

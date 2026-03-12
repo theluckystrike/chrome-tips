@@ -1,13 +1,15 @@
 ---
-layout: "default"
-title: "Why Did Chrome Get So Slow Recently? Causes and Fixes"
-description: "Chrome suddenly slow? Here's why it happens and how to fix it. Common causes of recent Chrome slowdowns and step-by-step solutions. Read our comprehensive gu..."
-date: "2025-02-26"
-last_modified_at: "2026-03-10"
-permalink: "why-did-chrome-get-so-slow-recently"
-categories: "[performance, troubleshooting]"
-tags: "[chrome-slow, performance-fix, browser-slowdown, chrome-troubleshooting]"
-author: "theluckystrike"
+layout: default
+title: Why Did Chrome Get So Slow Recently? Causes and Fixes
+description: Chrome suddenly slow? Here's why it happens and how to fix it. Common
+  causes of recent Chrome slowdowns and step-by-step solutions. Read our comprehensive
+  gu...
+date: '2025-02-26'
+last_modified_at: '2026-03-10'
+permalink: why-did-chrome-get-so-slow-recently
+categories: '[performance, troubleshooting]'
+tags: '[chrome-slow, performance-fix, browser-slowdown, chrome-troubleshooting]'
+author: theluckystrike
 ---
 # Why Did Chrome Get So Slow Recently? Causes and Fixes
 
@@ -88,7 +90,7 @@ A slow browser is a major productivity killer, but it's rarely a permanent probl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome image search by url how to](/articles/chrome-image-search-by-url-how-to/)
+* [Chrome Omnibox Tricks You Should Know](/articles/chrome-omnibox-tricks-you-should-know/)
+* [Chrome for Yahoo Finance Best Extensions](/articles/chrome-for-yahoo-finance-best-extensions/)
 
-- [YouTube Buffering on Chrome But Not Firefox: Why and How to Fix It](/articles/youtube-buffering-on-chrome-but-not-firefox)
-- [chrome for mouse gestures extensions](/articles/chrome-for-mouse-gestures-extensions)
-- [chrome extensions for web clipping](/articles/chrome-extensions-for-web-clipping)

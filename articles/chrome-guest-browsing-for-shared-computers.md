@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "Chrome Guest Browsing for Shared Computers"
-description: "Learn how Chrome guest browsing keeps your data private when sharing a computer with family, friends, or coworkers. Check out our expert recommendations and ti"
-date: "2025-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-guest-browsing-for-shared-computers"
-categories: [privacy, features]
-tags: [guest-browsing, shared-computers, chrome-privacy]
-author: "theluckystrike"
+layout: post
+title: Chrome Guest Browsing for Shared Computers
+description: Learn how Chrome guest browsing keeps your data private when sharing
+  a computer with family, friends, or coworkers. Check out our expert recommendations
+  and ti
+date: '2025-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-guest-browsing-for-shared-computers
+categories:
+- privacy
+- features
+tags:
+- guest-browsing
+- shared-computers
+- chrome-privacy
+author: theluckystrike
 ---
 Chrome guest browsing for shared computers is the solution when you want to let someone else use your device without worrying about them accidentally seeing your personal data, changing your settings, or accessing your saved information. If you have ever handed your laptop to a family member to check their email or let a coworker borrow your computer for a quick search, you know how uncomfortable it can be to wonder what they might stumble upon.
 
@@ -64,7 +71,7 @@ Finally, if you share a computer with someone daily, consider whether a separate
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Notion](/articles/chrome-extensions-for-notion/)
+* [Chrome Nesting CSS Native Support](/articles/chrome-nesting-css-native-support/)
+* [how to enable cookies in chrome](/articles/how-to-enable-cookies-in-chrome/)
 
-- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug)
-- [Chrome Select All Tabs Shortcut](/articles/chrome-select-all-tabs-shortcut)
-- [Chrome Extension Popup Page Tutorial](/articles/chrome-extension-popup-page-tutorial)

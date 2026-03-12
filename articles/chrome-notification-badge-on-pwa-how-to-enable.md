@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Notification Badge on PWA How to Enable
-description: Learn how to enable notification badges on PWAs in Chrome. Simple steps to get badges working on your installed web apps. Learn effective tips and tricks to ...
+description: Learn how to enable notification badges on PWAs in Chrome. Simple steps
+  to get badges working on your installed web apps. Learn effective tips and tricks
+  to ...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-notification-badge-on-pwa-how-to-enable
@@ -14,8 +16,6 @@ tags:
 - chrome-features
 - progressive-web-app
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-notification-badge-on-pwa-how-to-enable
 ---
 Chrome notification badge on PWA how to enable is a common question from users who have installed web apps and want to see alerts on their desktop. When you install a PWA, or progressive web app, in Chrome, you might expect it to work just like a regular app on your computer. However, getting notification badges to appear requires a few specific steps that are not always obvious at first.
 
@@ -74,7 +74,7 @@ Getting Chrome notification badge on PWA working is definitely possible with the
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Geolocation API Tips](/articles/chrome-geolocation-api-tips/)
+* [Chrome Tab Color Coding How to Use](/articles/chrome-tab-color-coding-how-to-use/)
+* [Best Chrome Extensions for GitHub](/articles/best-chrome-extensions-for-github/)
 
-- [Chrome Extensions for Todoist](/articles/chrome-extensions-for-todoist)
-- [Chrome GPU Process High CPU Fix](/articles/chrome-gpu-process-high-cpu-fix)
-- [Chrome for Managing Saved Addresses](/articles/chrome-for-managing-saved-addresses)

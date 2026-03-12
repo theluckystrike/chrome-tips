@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "chrome voice typing in google docs"
-description: "Learn how to use voice typing in Google Docs with Chrome. Step-by-step guide to enable dictation and fix common voice typing issues. Read our comprehensive g..."
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-voice-typing-in-google-docs"
-categories: "[features, accessibility]"
-tags: "[voice-typing, google-docs, dictation, accessibility, chrome-settings]"
-author: "theluckystrike"
+layout: post
+title: chrome voice typing in google docs
+description: Learn how to use voice typing in Google Docs with Chrome. Step-by-step
+  guide to enable dictation and fix common voice typing issues. Read our comprehensive
+  g...
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-voice-typing-in-google-docs
+categories: '[features, accessibility]'
+tags: '[voice-typing, google-docs, dictation, accessibility, chrome-settings]'
+author: theluckystrike
 ---
 # Chrome Voice Typing in Google Docs
 
@@ -88,10 +90,9 @@ Open Chrome, go to Google Docs, and give voice typing a try. With a little pract
 ---
 
 ## Related Articles
-- [Chrome Google Docs Keyboard Shortcuts](/chrome-google-docs-keyboard-shortcuts)
-- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
-- [Chrome Google Meet Integration in Browser](/chrome-google-meet-integration-in-browser)
-
+* [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips/)
+* [Chrome Client Hints Instead of User Agent: What Changed](/articles/chrome-client-hints-instead-of-user-agent/)
+* [Chrome Default Download Location How to Set](/articles//chrome-default-download-location-how-to-set//)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

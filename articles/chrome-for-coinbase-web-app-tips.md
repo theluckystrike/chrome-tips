@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for coinbase web app tips
-description: Learn how to get the most out of Coinbase in Chrome with practical tips for better performance, security, and a smoother trading experience. Find out more ti...
+description: Learn how to get the most out of Coinbase in Chrome with practical tips
+  for better performance, security, and a smoother trading experience. Find out more
+  ti...
 date: 2026-01-15
 categories:
 - productivity
@@ -80,7 +82,7 @@ These chrome for coinbase web app tips should help you create a more efficient, 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Canva Slow Loading Fix](/articles/chrome-canva-slow-loading-fix/)
+* [How to Use Chrome Task Manager to Find Heavy Tabs](/articles/chrome-task-manager-find-heavy-tabs/)
+* [chrome extensions for similar image finder](/articles/chrome-extensions-for-similar-image-finder/)
 
-- [Chrome for Dailymotion Web Player](/articles/chrome-for-dailymotion-web-player)
-- [chrome reduce data usage on mobile](/articles/chrome-reduce-data-usage-on-mobile)
-- [Chrome GPU Process High Memory Fix](/articles/chrome-gpu-process-high-memory-fix)

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "How to Edit Any Webpage Text Using Inspect Element"
-description: "Learn how to temporarily modify any website text using Chrome's Inspect Element tool. Perfect for taking screenshots, testing layouts, or just having fun wit..."
+title: How to Edit Any Webpage Text Using Inspect Element
+description: Learn how to temporarily modify any website text using Chrome's Inspect
+  Element tool. Perfect for taking screenshots, testing layouts, or just having fun
+  wit...
 date: 2026-03-11
 last_modified_at: 2026-03-11
 permalink: chrome-edit-webpage-text-inspect-element
@@ -101,10 +103,9 @@ Editing webpage text with Inspect Element is a fun and useful skill that anyone 
 Remember: your changes are temporary and only visible to you, so feel free to experiment. The worst thing that can happen is you refresh the page and start over!
 
 ## Related Articles
-- [How to Inspect and Debug WebSocket Connections in Chrome](/chrome-websocket-inspect-debug)
-- [Chrome Text to Speech Extension Best](/chrome-text-to-speech-extension-best)
-- [Chrome Inspect Element for Beginners](/chrome-inspect-element-for-beginners)
-
+* [Chrome Cleanup Tool: Where Did It Go?](/articles/chrome-cleanup-tool-where-did-it-go/)
+* [Chrome Tab Audio How to Mute](/articles/chrome-tab-audio-how-to-mute/)
+* [Chrome Slows Down After Sleep Mode Fix](/articles/chrome-slows-down-after-sleep-mode-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

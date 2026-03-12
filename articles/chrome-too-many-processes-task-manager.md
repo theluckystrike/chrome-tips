@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Too Many Processes Task Manager"
-description: "Learn how to use Chrome Task Manager to identify and kill processes slowing down your browser when Chrome has too many processes open. Read our comprehensive..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-too-many-processes-task-manager"
-categories: "[performance, troubleshooting]"
-tags: "[chrome-task-manager, chrome-processes, browser-tools, chrome-tips]"
-author: "theluckystrike"
+layout: post
+title: Chrome Too Many Processes Task Manager
+description: Learn how to use Chrome Task Manager to identify and kill processes slowing
+  down your browser when Chrome has too many processes open. Read our comprehensive...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-too-many-processes-task-manager
+categories: '[performance, troubleshooting]'
+tags: '[chrome-task-manager, chrome-processes, browser-tools, chrome-tips]'
+author: theluckystrike
 ---
 # Chrome Too Many Processes Task Manager
 
@@ -66,10 +67,9 @@ Some users also find that switching to a lighter-weight browser helps, particula
 ---
 
 ## Related Articles
-- [How to Use Chrome Task Manager to Find Heavy Tabs](/chrome-task-manager-find-heavy-tabs)
-- [Chrome Too Many Redirects Error Fix](/chrome-too-many-redirects-error-fix)
-- [Why Does Chrome Open So Many Processes](/why-does-chrome-open-so-many-processes)
-
+* [Chrome Custom Fonts How to Change](/articles//chrome-custom-fonts-how-to-change//)
+* [Chrome for MDN Web Docs Extension](/articles/chrome-for-mdn-web-docs-extension/)
+* [Chrome Devtools Recorder Panel How To Use](/articles/chrome-devtools-recorder-panel-how-to-use/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

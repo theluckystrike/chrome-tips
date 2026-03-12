@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Why the Grammarly Extension is Slowing Down Your Chrome Browser"
-description: "Is Grammarly making Chrome slow? Learn the common causes and step-by-step solutions to fix browser lag caused by the Grammarly extension. Check out our expert"
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-grammarly-extension-slowing-browser"
-categories: [extensions, performance, troubleshooting]
-tags: [grammarly, chrome-extensions, browser-slow, performance]
-author: "theluckystrike"
+layout: post
+title: Why the Grammarly Extension is Slowing Down Your Chrome Browser
+description: Is Grammarly making Chrome slow? Learn the common causes and step-by-step
+  solutions to fix browser lag caused by the Grammarly extension. Check out our expert
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-grammarly-extension-slowing-browser
+categories:
+- extensions
+- performance
+- troubleshooting
+tags:
+- grammarly
+- chrome-extensions
+- browser-slow
+- performance
+author: theluckystrike
 ---
 # Why the Grammarly Extension is Slowing Down Your Chrome Browser
 
@@ -92,10 +100,9 @@ Take a few minutes to adjust your settings, and you will likely see an immediate
 ---
 
 ## Related Articles
-- [Chrome Extension Alternative to Grammarly Free](/chrome-extension-alternative-to-grammarly-free)
-- [Chrome Dark Reader Extension Worth It](/chrome-dark-reader-extension-worth-it)
-- [How to Find Which Extension is Slowing Chrome](/how-to-find-which-extension-is-slowing-chrome)
-
+* [Chrome Storage Pressure How to Fix](/articles/chrome-storage-pressure-how-to-fix/)
+* [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app/)
+* [Chrome Service Worker Debugging Guide](/articles/chrome-service-worker-debugging/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

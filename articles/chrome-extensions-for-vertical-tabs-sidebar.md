@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Extensions for Vertical Tabs Sidebar"
-description: "Searching for chrome extensions for vertical tabs sidebar? Discover tools that move your tabs to a side panel for easier management. Read our comprehensive g..."
+title: Chrome Extensions for Vertical Tabs Sidebar
+description: Searching for chrome extensions for vertical tabs sidebar? Discover tools
+  that move your tabs to a side panel for easier management. Read our comprehensive
+  g...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: chrome-extensions-for-vertical-tabs-sidebar
@@ -73,7 +75,7 @@ Most people find that after a short adjustment period, they prefer the vertical 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Increase Chrome Cache Size](/articles/chrome-cache-size-how-to-increase/)
+* [Chrome Extensions for Online Shopping Deals](/articles/chrome-extensions-for-online-shopping-deals/)
+* [Chrome Proxy Settings Guide](/articles/chrome-proxy-settings-guide/)
 
-- [Chrome for Google Analytics in Browser](/articles/chrome-for-google-analytics-in-browser)
-- [chrome mobile save page offline how to](/articles/chrome-mobile-save-page-offline-how-to)
-- [Chrome Network Tab: How to Use and Debug Network Requests](/articles/chrome-network-tab-how-to-use-debug)

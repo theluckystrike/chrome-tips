@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Visual Search on Desktop: A Complete Guide"
-description: "Learn how to use visual search in Chrome on your desktop computer. This guide covers built-in features and extensions to search by image. Read our comprehens..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-visual-search-on-desktop"
-categories: "[features, search]"
-tags: "[chrome-visual-search, image-search, chrome-desktop]"
-author: "theluckystrike"
+layout: post
+title: 'Chrome Visual Search on Desktop: A Complete Guide'
+description: Learn how to use visual search in Chrome on your desktop computer. This
+  guide covers built-in features and extensions to search by image. Read our comprehens...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-visual-search-on-desktop
+categories: '[features, search]'
+tags: '[chrome-visual-search, image-search, chrome-desktop]'
+author: theluckystrike
 ---
 # Chrome Visual Search on Desktop: A Complete Guide
 
@@ -82,10 +83,9 @@ If an extension is causing problems, try disabling it temporarily. Some extensio
 ---
 
 ## Related Articles
-- [Chrome Family Link How to Use on Desktop](/chrome-family-link-how-to-use-on-desktop)
-- [Chrome Material You Design On Desktop](/chrome-material-you-design-on-desktop)
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-
+* [Chrome Jump to Specific Tab Number Shortcut](/articles/chrome-jump-to-specific-tab-number-shortcut/)
+* [chrome scrollbar styling css](/articles/chrome-scrollbar-styling-css/)
+* [Chrome Block Specific Websites Guide](/articles/chrome-block-specific-websites-guide/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

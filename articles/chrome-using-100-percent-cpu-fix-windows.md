@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Using 100 Percent CPU Fix Windows"
-description: "Is Chrome using 100 percent of your CPU on Windows? Here are practical solutions to bring it back to normal. Read our comprehensive guide to learn more and o..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-using-100-percent-cpu-fix-windows"
-categories: "[performance, cpu, troubleshooting]"
-tags: "[chrome-using-100-percent-cpu, chrome-cpu-fix, windows-chrome-slow]"
-author: "theluckystrike"
+layout: post
+title: Chrome Using 100 Percent CPU Fix Windows
+description: Is Chrome using 100 percent of your CPU on Windows? Here are practical
+  solutions to bring it back to normal. Read our comprehensive guide to learn more
+  and o...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-using-100-percent-cpu-fix-windows
+categories: '[performance, cpu, troubleshooting]'
+tags: '[chrome-using-100-percent-cpu, chrome-cpu-fix, windows-chrome-slow]'
+author: theluckystrike
 ---
 # Chrome Using 100 Percent CPU Fix Windows
 
@@ -70,10 +72,9 @@ After you have fixed the immediate problem, a few ongoing habits can help you av
 By understanding what causes Chrome to use excessive CPU and taking these steps, you can enjoy a faster, more responsive browsing experience on Windows without constantly battling high resource usage.
 
 ## Related Articles
-- [Chrome Service Worker High CPU Fix](/chrome-service-worker-high-cpu-fix)
-- [Chrome GPU Process High CPU Fix](/chrome-gpu-process-high-cpu-fix)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-
+* [Chrome Canvas Rendering Slow Fix: Practical Solutions for Limited RAM](/articles/chrome-canvas-rendering-slow-fix/)
+* [Chrome ERR_CONNECTION_REFUSED Fix](/articles/chrome-err-connection-refused-fix/)
+* [Chrome Hardware Acceleration Should I Turn It Off](/articles/chrome-hardware-acceleration-should-i-turn-it-off/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

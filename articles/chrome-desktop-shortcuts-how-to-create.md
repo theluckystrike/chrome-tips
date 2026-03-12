@@ -67,7 +67,7 @@ You might also want to explore Chrome profiles if you use both work and personal
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Why Chrome Is Slow on Battery But Fast When Plugged In](/articles/chrome-slow-on-battery-but-fast-plugged-in/)
+* [Chrome Bounce Tracking Protection Explained: What It Is and How to Enable It](/articles/chrome-bounce-tracking-protection-explained/)
+* [chrome for tiktok web best settings](/articles/chrome-for-tiktok-web-best-settings/)
 
-- [Chrome Eating All My RAM? Reddit Users Share Their Solutions](/articles/chrome-eating-all-my-ram-reddit-solutions)
-- [Chrome Autofill Settings Complete Guide](/articles/chrome-autofill-settings-complete)
-- [Chrome Extensions for Lo Fi Music](/articles/chrome-extensions-for-lo-fi-music)

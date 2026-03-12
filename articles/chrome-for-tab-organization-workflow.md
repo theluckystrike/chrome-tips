@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Tab Organization Workflow
-description: Learn how to build a smooth chrome for tab organization workflow that keeps your browser fast and your tasks manageable. Discover more tips and tricks to opt
+description: Learn how to build a smooth chrome for tab organization workflow that
+  keeps your browser fast and your tasks manageable. Discover more tips and tricks
+  to opt
 date: 2025-03-13
 categories:
 - productivity
@@ -70,7 +72,7 @@ Start small by trying one or two of these suggestions. See how they feel, and ad
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Remove Chrome Malware](/articles/how-to-remove-chrome-malware/)
+* [Chrome Web USB API Explained](/articles/chrome-web-usb-api-explained/)
+* [Chrome for Bear Notes Web Clipper](/articles/chrome-for-bear-notes-web-clipper/)
 
-- [Chrome Media Session API: Mastering Music Controls in Your Browser](/articles/chrome-media-session-api-music-controls)
-- [Chrome Proxy Settings Guide](/articles/chrome-proxy-settings-guide)
-- [Chrome Extensions for Binaural Beats](/articles/chrome-extensions-for-binaural-beats)

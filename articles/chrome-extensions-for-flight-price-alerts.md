@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Flight Price Alerts"
-description: "Discover how Chrome Extensions For Flight Price Alerts can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and setti..."
+title: Chrome Extensions For Flight Price Alerts
+description: Discover how Chrome Extensions For Flight Price Alerts can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
+  setti...
 date: 2026-03-09
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-flight-price-alerts/
@@ -56,7 +58,7 @@ Finally, consider combining these extensions with other travel tools. Some exten
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners/)
+* [Chrome vs Chromium: What's the Difference and Which Should You Use?](/articles/chrome-chromium-vs-chrome-differences/)
+* [Chrome Best Settings for College Students](/articles/chrome-best-settings-for-college-students/)
 
-- [Chrome New Tab Page Best Extensions](/articles/chrome-new-tab-page-best-extensions)
-- [Why Does Each Chrome Tab Use So Much Memory](/articles/why-does-each-chrome-tab-use-so-much-memory)
-- [Chrome 64 bit vs 32 bit How to Check](/articles/chrome-64-bit-vs-32-bit-how-to-check)

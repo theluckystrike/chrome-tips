@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extension for Video Speed Controller"
-description: "Looking for a chrome extension for video speed controller? This guide shows how to control video playback speed in Chrome for faster viewing. Discover how th..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extension-for-video-speed-controller"
-layout: "post"
-categories: "[extensions, media, productivity]"
-tags: "[chrome-extension, video-speed, chrome-extensions, playback-control]"
-author: "theluckystrike"
+title: Chrome Extension for Video Speed Controller
+description: Looking for a chrome extension for video speed controller? This guide
+  shows how to control video playback speed in Chrome for faster viewing. Discover
+  how th...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-video-speed-controller
+layout: post
+categories: '[extensions, media, productivity]'
+tags: '[chrome-extension, video-speed, chrome-extensions, playback-control]'
+author: theluckystrike
 ---
 # Chrome Extension for Video Speed Controller
 
@@ -74,10 +76,9 @@ Pay attention to which websites you use most often for video content. If an exte
 ---
 
 ## Related Articles
-- [Chrome Extension for Video Downloading: What is Legal](/chrome-extension-for-video-downloading-legal)
-- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
-- [Chrome Extensions for Video Playback Speed Control](/chrome-extensions-for-video-playback-speed-control)
-
+* [Best Chrome Android Flags to Enable](/articles/best-chrome-android-flags-to-enable/)
+* [How to Safely Work with Chromebook School Restrictions](/articles/chromebook-school-restrictions-bypass-safely/)
+* [Chrome Coverage Tool: Find Unused JavaScript](/articles/chrome-coverage-tool-find-unused-javascript/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

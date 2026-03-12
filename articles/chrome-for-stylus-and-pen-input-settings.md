@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome for stylus and pen input settings
-description: 'Learn how to configure chrome for stylus and pen input settings to improve your drawing and writing experience in the browser. Discover more tips and tricks '
+description: 'Learn how to configure chrome for stylus and pen input settings to improve
+  your drawing and writing experience in the browser. Discover more tips and tricks '
 date: 2026-01-15
 categories:
 - productivity
@@ -82,7 +83,7 @@ Finally, consider the lighting in your workspace. Some styluses and tablets use 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide](/articles/chrome-amazon-prime-video-not-playing-fix/)
+* [best chrome extensions for writers 2026](/articles/chrome-extensions-for-writers/)
+* [Chrome Command Line Flags for Low Memory: A Practical Guide](/articles/chrome-command-line-flags-for-low-memory/)
 
-- [chrome for price drop alert extensions](/articles/chrome-for-price-drop-alert-extensions)
-- [Chrome vs Edge for Battery Life Laptop](/articles/chrome-vs-edge-for-battery-life-laptop)
-- [Chrome Workspaces: Link DevTools to Files for Seamless Development](/articles/chrome-workspaces-link-devtools-to-files)

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Dinosaur Game Hidden Features"
-description: "Discover hidden features in Chrome's dinosaur game that can make your offline gaming experience more fun and rewarding. Explore our comprehensive guide to m..."
+title: Chrome Dinosaur Game Hidden Features
+description: Discover hidden features in Chrome's dinosaur game that can make your
+  offline gaming experience more fun and rewarding. Explore our comprehensive guide
+  to m...
 date: 2026-01-15
 last_modified_at: 2026-03-09
 permalink: chrome-dinosaur-game-hidden-features
@@ -61,7 +63,7 @@ The game has become a cultural phenomenon, with online communities dedicated to 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [chrome for booking.com best extensions](/articles/chrome-for-bookingcom-best-extensions/)
+* [Chrome for Stripe Dashboard Tips](/articles/chrome-for-stripe-dashboard-tips/)
+* [chrome topics api explained simply](/articles/chrome-topics-api-explained-simply/)
 
-- [Chrome for Amazon Prime Video Quality Settings](/articles/chrome-for-amazon-prime-video-quality-settings)
-- [Chrome Microphone Permission for One Site How to Set](/articles/chrome-microphone-permission-for-one-site-how-to-set)
-- [Best Chrome Extensions for Writers 2026](/articles/best-chrome-extensions-for-writers-2026)

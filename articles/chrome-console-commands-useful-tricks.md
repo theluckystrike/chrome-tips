@@ -1,15 +1,23 @@
 ---
-title: "Chrome Console Commands: Useful Tricks Every User Should Know"
-description: "Master Chrome console commands to debug, test, and automate your browsing. Learn essential console tricks that can speed up your workflow. Read our full guide t"
-date: "2026-01-15"
-last_modified_at: '2026-03-12'
-permalink: "chrome-console-commands-useful-tricks"
-layout: post
-categories: ['chrome', 'developer-tools', 'console', 'tips']
-tags: ['chrome-console', 'developer-tools', 'browser-tips', 'productivity']
-author: theluckystrike
-last_modified_at: '2026-03-12'
+title: 'Chrome Console Commands: Useful Tricks Every User Should Know'
+description: Master Chrome console commands to debug, test, and automate your browsing.
+  Learn essential console tricks that can speed up your workflow. Read our full guide
+  t
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
 permalink: chrome-console-commands-useful-tricks
+layout: post
+categories:
+- chrome
+- developer-tools
+- console
+- tips
+tags:
+- chrome-console
+- developer-tools
+- browser-tips
+- productivity
+author: theluckystrike
 ---
 # Chrome Console Commands: Useful Tricks Every User Should Know
 
@@ -116,10 +124,9 @@ For users with slower computers, being familiar with browser developer tools can
 This is where **Tab Suspender Pro** comes in useful. This extension automatically suspends tabs you're not actively using, which saves significant memory and can make your browser more responsive, especially on computers with limited RAM.
 
 ## Related Articles
-- [Chrome for Quick Commands Feature](/chrome-for-quick-commands-feature)
-- [Chrome Android Tips and Tricks 2026](/chrome-android-tips-and-tricks-2026)
-- [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)
-
+* [chrome pi hole vs browser ad blocker comparison](/articles/chrome-pi-hole-vs-browser-ad-blocker-comparison/)
+* [Chrome Memory Saver Mode 2026 Guide](/articles/chrome-memory-saver-mode-2026/)
+* [Chrome for Private Browsing Tips Beyond Incognito](/articles/chrome-for-private-browsing-tips-beyond-incognito/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

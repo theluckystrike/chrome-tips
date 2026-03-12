@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Robots Txt Checker"
-description: "Need to check robots.txt files? Learn about Chrome extensions for robots txt checker that help you verify crawler access rules quickly. Check out our expert..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-robots-txt-checker"
-layout: "post"
-categories: "[seo, tools]"
-tags: "[robots-txt, seo-tools, chrome-extensions, web-crawling]"
-author: "theluckystrike"
+title: Chrome Extensions for Robots Txt Checker
+description: Need to check robots.txt files? Learn about Chrome extensions for robots
+  txt checker that help you verify crawler access rules quickly. Check out our expert...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-robots-txt-checker
+layout: post
+categories: '[seo, tools]'
+tags: '[robots-txt, seo-tools, chrome-extensions, web-crawling]'
+author: theluckystrike
 ---
 # Chrome Extensions for Robots Txt Checker
 
@@ -66,7 +67,7 @@ Also remember that robots.txt is just one piece of the puzzle. A page can be acc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extension for Highlighting Text on Websites](/articles/chrome-extension-for-highlighting-text-on-websites/)
+* [Chrome vs Arc Browser: Should I Switch?](/articles/chrome-vs-arc-browser-should-i-switch/)
+* [chrome for mouse gestures extensions](/articles/chrome-for-mouse-gestures-extensions/)
 
-- [Chrome Malware Removal Without Antivirus](/articles/chrome-malware-removal-without-antivirus)
-- [Chrome This Site Cant Provide a Secure Connection Fix](/articles/chrome-this-site-cant-provide-a-secure-connection-fix)
-- [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management)

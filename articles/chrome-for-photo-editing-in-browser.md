@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Photo Editing in Browser
-description: You can edit photos directly in Chrome without installing software. Learn which browser-based tools work best. Discover more tips and tricks to optimize your
+description: You can edit photos directly in Chrome without installing software. Learn
+  which browser-based tools work best. Discover more tips and tricks to optimize your
 date: 2026-01-15
 categories:
 - productivity
@@ -78,7 +79,7 @@ For occasional users, however, the convenience of browser-based tools usually ou
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome playwright vs puppeteer comparison](/articles/chrome-playwright-vs-puppeteer-comparison/)
+* [Chrome for Microsoft Teams in Browser Tips](/articles/chrome-for-microsoft-teams-in-browser-tips/)
+* [Chromium Browser Is It Safe to Use](/articles/chromium-browser-is-it-safe-to-use/)
 
-- [Chrome Extensions for Tab Sleeping Automatically](/articles/chrome-extensions-for-tab-sleeping-automatically)
-- [Chrome for Streamlabs Web Dashboard](/articles/chrome-for-streamlabs-web-dashboard)
-- [how to turn on chrome dark mode on any website](/articles/how-to-turn-on-chrome-dark-mode-on-any-website)

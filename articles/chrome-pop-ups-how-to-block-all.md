@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Pop Ups How to Block All
-description: Learn how to block all pop-ups in Chrome with simple settings and extensions for a cleaner, safer browsing experience. Learn effective tips and tricks to opt...
+description: Learn how to block all pop-ups in Chrome with simple settings and extensions
+  for a cleaner, safer browsing experience. Learn effective tips and tricks to opt...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-pop-ups-how-to-block-all
@@ -14,8 +15,6 @@ tags:
 - browser-settings
 - blocking-ads
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-pop-ups-how-to-block-all
 ---
 # Chrome Pop Ups How to Block All
 
@@ -80,10 +79,9 @@ Review your extensions occasionally to make sure you still need all of them. Som
 Teaching friends and family about pop up blocking is also helpful. Many people might not know how to protect themselves from malicious pop ups. Sharing what you have learned about how to block all pop ups in Chrome can help others browse more safely.
 
 ## Related Articles
-- [Chrome Media Autoplay How to Block](/chrome-media-autoplay-how-to-block)
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
-- [How to Allow Pop Ups for One Site in Chrome](/how-to-allow-pop-ups-for-one-site-in-chrome)
-
+* [Why Is Chrome Still the Most Popular Browser in 2026?](/articles/why-is-chrome-still-most-popular-browser/)
+* [Chrome Switch Between Windows Shortcut](/articles/chrome-switch-between-windows-shortcut/)
+* [Chromebook Keyboard Shortcuts Complete List](/articles/chromebook-keyboard-shortcuts-complete-list/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

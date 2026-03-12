@@ -73,7 +73,7 @@ Streaming should be enjoyable, not frustrating. With a few tweaks to Chrome's se
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Preloading Pages Should I Enable It](/articles/chrome-preloading-pages-should-i-enable-it/)
+* [How to Sync Chrome Bookmarks Between Phone and Computer](/articles/chrome-bookmark-sync-between-phone-and-computer/)
+* [Chrome iPhone vs Safari Which is Better](/articles/chrome-iphone-vs-safari-which-is-better/)
 
-- [Chrome for Accessibility Testing Extensions](/articles/chrome-for-accessibility-testing-extensions)
-- [Chrome Extensions for Asana](/articles/chrome-extensions-for-asana)
-- [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix)

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Stock Screener Web Tools
-description: Discover the best Chrome extensions and web tools for stock screening. Find tools to analyze stocks, track portfolios, and make better investment decisions
+description: Discover the best Chrome extensions and web tools for stock screening.
+  Find tools to analyze stocks, track portfolios, and make better investment decisions
 date: 2026-01-15
 categories:
 - investing
@@ -81,7 +82,7 @@ Remember that no single tool does everything perfectly. Many investors use a com
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Export Bookmarks from Chrome](/articles/how-to-export-bookmarks-from-chrome/)
+* [Chrome Using 8GB RAM Fix](/articles/chrome-using-8gb-ram-fix/)
+* [Chrome Enable Cookies for One Site How to](/articles/chrome-enable-cookies-for-one-site-how-to/)
 
-- [Chrome Badging API Explained](/articles/chrome-badging-api-explained)
-- [Chrome Extensions for Research Papers](/articles/chrome-extensions-for-research-papers)
-- [Chrome Session Restore Not Working Fix](/articles/chrome-session-restore-not-working-fix)

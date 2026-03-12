@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Free Chrome Extensions Better Than Paid Apps"
-description: "You do not need to pay for premium tools when free Chrome extensions can do the job just as well. Here is how to save money and get more from your browser."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "free-chrome-extensions-better-than-paid-apps"
-categories: "[productivity, tips]"
-tags: "[chrome-extensions, free-extensions, paid-apps-alternative]"
-author: "theluckystrike"
+layout: post
+title: Free Chrome Extensions Better Than Paid Apps
+description: You do not need to pay for premium tools when free Chrome extensions
+  can do the job just as well. Here is how to save money and get more from your browser.
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: free-chrome-extensions-better-than-paid-apps
+categories: '[productivity, tips]'
+tags: '[chrome-extensions, free-extensions, paid-apps-alternative]'
+author: theluckystrike
 ---
 # Free Chrome Extensions Better Than Paid Apps
 
@@ -82,7 +83,7 @@ The bottom line is that you have options. Before signing up for another monthly 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Font Palette CSS Explained](/articles/chrome-font-palette-css-explained/)
+* [Chrome Extensions For Color Palette Generator](/articles//articles/chrome-extensions-for-color-palette-generator//)
+* [Chrome Forced Extensions by Admin What It Means](/articles/chrome-forced-extensions-by-admin-what-it-means/)
 
-- [Chrome for Canvas LMS Best Extensions](/articles/chrome-for-canvas-lms-best-extensions)
-- [Chrome Spell Check Adding Custom Words](/articles/chrome-spell-check-adding-custom-words)
-- [Chrome Web Vitals What They Mean](/articles/chrome-web-vitals-what-they-mean)

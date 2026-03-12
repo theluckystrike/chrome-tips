@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "chrome extensions for whatfont alternative"
-description: "Looking for chrome extensions for whatfont alternative? Discover tools that identify fonts on any website easily. Read our comprehensive guide to learn more ..."
+title: chrome extensions for whatfont alternative
+description: Looking for chrome extensions for whatfont alternative? Discover tools
+  that identify fonts on any website easily. Read our comprehensive guide to learn
+  more ...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-whatfont-alternative
-categories: [extensions, fonts]
-tags: [fonts, whatfont, font-identification, chrome-extensions]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-whatfont-alternative
+categories:
+- extensions
+- fonts
+tags:
+- fonts
+- whatfont
+- font-identification
+- chrome-extensions
+author: theluckystrike
 ---
 # Chrome Extensions for WhatFont Alternative
 
@@ -68,7 +74,7 @@ Take some time to try a few different extensions to find the one that works best
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser/)
+* [How to Allow Pop Ups on One Site Chrome](/articles/how-to-allow-pop-ups-on-one-site-chrome/)
+* [Best Chrome Extensions for Salespeople](/articles/best-chrome-extensions-for-salespeople/)
 
-- [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/articles/chrome-err-ssl-protocol-error-fix)
-- [Chrome Network Tab: How to Use and Debug Network Requests](/articles/chrome-network-tab-how-to-use-debug)
-- [Chrome DevTools Protocol Monitor](/articles/chrome-devtools-protocol-monitor)

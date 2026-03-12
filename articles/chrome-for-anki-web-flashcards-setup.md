@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome for anki web flashcards setup
-description: Learn how to set up Chrome for Anki web flashcards to study more efficiently. Tips for managing tabs and improving your study sessions. Find out more tips on...
+description: Learn how to set up Chrome for Anki web flashcards to study more efficiently.
+  Tips for managing tabs and improving your study sessions. Find out more tips on...
 date: 2026-01-15
 categories:
 - productivity
@@ -89,7 +90,7 @@ Remember that the best setup is one you will actually use consistently. Start wi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Copy Paste Not Working Fix](/articles/chrome-copy-paste-not-working-fix/)
+* [Chrome for Streamlabs Web Dashboard](/articles/chrome-for-streamlabs-web-dashboard/)
+* [Chrome Redirecting to Wrong Pages Fix](/articles/chrome-redirecting-to-wrong-pages-fix/)
 
-- [Best Chrome Extensions for Marketing Professionals](/articles/best-chrome-extensions-for-marketing-professionals)
-- [Chrome Remote Desktop Setup Guide](/articles/chrome-remote-desktop-setup-guide)
-- [Chrome Beta Channel How to Join and Leave](/articles/chrome-beta-channel-how-to-join-and-leave)

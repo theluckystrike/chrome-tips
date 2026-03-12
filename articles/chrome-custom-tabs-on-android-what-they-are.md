@@ -74,7 +74,7 @@ As an Android user, you encounter this feature dozens of times per day without e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking//)
+* [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs/)
+* [Chrome Reset All Settings: What Gets Deleted](/articles/chrome-reset-all-settings-what-gets-deleted/)
 
-- [Chrome Extensions For Ebay Sniping](/articles//articles/chrome-extensions-for-ebay-sniping/)
-- [Chrome Canvas Fingerprinting How to Block](/articles/chrome-canvas-fingerprinting-how-to-block)
-- [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/articles/chrome-extension-using-too-much-memory-find)

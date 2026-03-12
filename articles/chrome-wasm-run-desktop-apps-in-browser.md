@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Run Desktop Apps in Your Browser Using Chrome WASM"
-description: "Discover how WebAssembly (WASM) technology allows you to run full desktop applications directly in Chrome without installing anything. From image editors to ..."
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "chrome-wasm-run-desktop-apps-in-browser"
-categories: "[technology, chrome-features, web-development]"
-tags: "[webassembly, wasm, chrome, browser-apps, desktop-apps]"
-author: "theluckystrike"
+layout: post
+title: How to Run Desktop Apps in Your Browser Using Chrome WASM
+description: Discover how WebAssembly (WASM) technology allows you to run full desktop
+  applications directly in Chrome without installing anything. From image editors
+  to ...
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-wasm-run-desktop-apps-in-browser
+categories: '[technology, chrome-features, web-development]'
+tags: '[webassembly, wasm, chrome, browser-apps, desktop-apps]'
+author: theluckystrike
 ---
 # How to Run Desktop Apps in Your Browser Using Chrome WASM
 
@@ -67,9 +69,9 @@ Running multiple web-based desktop applications can use significant memory. If y
 
 WebAssembly has transformed Chrome from a simple web browser into a platform capable of running sophisticated software. Whether you need to design graphics, edit videos, or run development tools, the possibilities keep expanding. The browser is no longer just for viewing websites. It is becoming a complete computing environment that happens to live in your browser.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 ## Related Articles
+* [Chrome Extensions for Time Tracking](/articles/chrome-extensions-for-time-tracking/)
+* [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix/)
+* [Chrome Extension Alternative to Grammarly Free](/articles/chrome-extension-alternative-to-grammarly-free/)
 
-- [Chrome Extensions for Language Learning](/articles/chrome-extensions-for-language-learning)
-- [Chrome Camera Not Working Fix](/articles/chrome-camera-not-working-fix)
-- [Best Chrome Extensions for Freelancers 2026](/articles/best-chrome-extensions-for-freelancers-2026)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

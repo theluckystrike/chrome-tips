@@ -98,7 +98,7 @@ Making these adjustments takes about ten minutes but pays off every time you ope
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Crashing on Samsung Galaxy Phone](/articles/chrome-crashing-on-samsung-galaxy-phone/)
+* [Chrome for Dropshipping: Best Extensions](/articles/chrome-for-dropshipping-best-extensions/)
+* [How to Set Up Parental Controls on Your Chromebook](/articles/chromebook-parental-controls-setup/)
 
-- [Chrome Layout Instability API Explained](/articles/chrome-layout-instability-api-explained)
-- [Chrome Default Search Engine Changed How to Fix](/articles//chrome-default-search-engine-changed-how-to-fix/)
-- [Chrome Preloading Pages Should I Enable It](/articles/chrome-preloading-pages-should-i-enable-it)

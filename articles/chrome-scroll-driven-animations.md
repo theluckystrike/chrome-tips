@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Scroll-Driven Animations: Complete Guide for 2026'
-description: 'Learn how Chrome scroll-driven animations work, their browser support, and how to implement them for smooth, performant web experiences. Read our comprehensive '
+description: 'Learn how Chrome scroll-driven animations work, their browser support,
+  and how to implement them for smooth, performant web experiences. Read our comprehensive '
 date: 2026-03-11
 categories:
 - web-development
@@ -85,10 +86,9 @@ Remember that scroll-driven animations should enhance usability, not replace it.
 ---
 
 ## Related Articles
-- [Chrome Scroll Not Smooth Fix](/chrome-scroll-not-smooth-fix)
-- [Chrome Extension for Auto Scroll Pages](/chrome-extension-for-auto-scroll-pages)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-
+* [Chrome for Blocking Autoplay Videos](/articles/chrome-for-blocking-autoplay-videos/)
+* [Best Chrome Extensions for Photographers](/articles/best-chrome-extensions-for-photographers/)
+* [Chrome for Coupon Finding Best Extensions](/articles/chrome-for-coupon-finding-best-extensions/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

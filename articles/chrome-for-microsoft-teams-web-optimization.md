@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome for Microsoft Teams Web Optimization
-description: Make Microsoft Teams run faster in Chrome with simple browser tweaks. Save memory, reduce lag, and improve your daily workflow. Discover more tips and tricks
+description: Make Microsoft Teams run faster in Chrome with simple browser tweaks.
+  Save memory, reduce lag, and improve your daily workflow. Discover more tips and
+  tricks
 date: 2025-03-10
 categories:
 - performance
@@ -80,7 +82,7 @@ By implementing these adjustments, you should notice faster response times in Te
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Web Development Tools](/articles/chrome-extensions-for-web-development-tools/)
+* [Why Does Chrome Get Slower With More Tabs? A Practical Guide](/articles/why-does-chrome-get-slower-with-more-tabs/)
+* [Hidden Chrome Extensions You Should Install](/articles/hidden-chrome-extensions-you-should-install/)
 
-- [Chrome Extensions For Duplicate Tab Finder](/articles//articles/chrome-extensions-for-duplicate-tab-finder/)
-- [Chrome Reading Mode How to Activate](/articles/chrome-reading-mode-how-to-activate)
-- [Chrome Startup Page How to Set](/articles/chrome-startup-page-how-to-set)

@@ -1,13 +1,23 @@
 ---
-layout: "post"
-title: "Chrome Google Account Privacy Settings Guide"
-description: "Learn how to manage your Google account privacy settings in Chrome to protect your data and control what information Google collects. Check out our expert reco"
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "chrome-google-account-privacy-settings-guide"
-categories: [privacy, security, google]
-tags: [chrome, google-account, privacy-settings, data-protection, browser-security]
-author: "theluckystrike"
+layout: post
+title: Chrome Google Account Privacy Settings Guide
+description: Learn how to manage your Google account privacy settings in Chrome to
+  protect your data and control what information Google collects. Check out our expert
+  reco
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-google-account-privacy-settings-guide
+categories:
+- privacy
+- security
+- google
+tags:
+- chrome
+- google-account
+- privacy-settings
+- data-protection
+- browser-security
+author: theluckystrike
 ---
 # Chrome Google Account Privacy Settings Guide
 
@@ -70,10 +80,9 @@ By regularly reviewing and adjusting these settings, you can enjoy Chrome's powe
 ---
 
 ## Related Articles
-- [Chrome Privacy Settings Complete Guide 2026](/chrome-privacy-settings-complete-guide-2026)
-- [Chrome Accessibility on Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)
-- [Chrome for Google Meet Camera Settings](/chrome-for-google-meet-camera-settings)
-
+* [Chrome Side Panel Features Guide](/articles/chrome-side-panel-features-guide/)
+* [chrome network throttling test slow connection](/articles/chrome-network-throttling-test-slow-connection/)
+* [Chrome Web Serial API Guide](/articles/chrome-web-serial-api-guide/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

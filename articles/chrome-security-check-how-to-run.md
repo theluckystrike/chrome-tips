@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome security check how to run
-description: Learn how to run a security check in Chrome to keep your browser safe. Simple steps to check extensions, settings, and protect your data. Read our comprehensive
+description: Learn how to run a security check in Chrome to keep your browser safe.
+  Simple steps to check extensions, settings, and protect your data. Read our comprehensive
 date: 2026-01-20
 categories:
 - security
@@ -80,16 +81,8 @@ Managing many open tabs can also impact your security. When you have dozens of t
 Using **Tab Suspender Pro** is a smart way to stay organized. It automatically "hibernates" background tabs, which reduces **RAM** usage and keeps your browser responsive. This ensures that when you're running a **Chrome Security Check**, the browser has the resources to scan your **extensions** and **compromised passwords** without lag. A lean browser is a more secure browser.
 
 ## Related Articles
-- [Chrome 64 bit vs 32 bit How to Check](/chrome-64-bit-vs-32-bit-how-to-check)
-- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
-- [Chrome Version How to Check Which Version](/chrome-version-how-to-check-which-version)
-
+* [Chrome Extensions for Tab Sleeping Automatically](/articles/chrome-extensions-for-tab-sleeping-automatically/)
+* [Chrome Extensions for Google Drive](/articles/chrome-extensions-for-google-drive/)
+* [Chrome Extension for Blocking Cookie Popups](/articles/chrome-extension-for-blocking-cookie-popups/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
-
-## Related Articles
-
-- [Chrome Best Note Taking Extension 2026](/articles/chrome-best-note-taking-extension-2026)
-- [Chrome Cookie Consent Popups How to Auto Reject](/articles/chrome-cookie-consent-popups-how-to-auto-reject)
-- [chrome topics api privacy sandbox explained](/articles/chrome-topics-api-privacy-sandbox-explained)

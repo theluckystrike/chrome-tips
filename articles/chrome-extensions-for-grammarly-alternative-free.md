@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Grammarly Alternative Free"
-description: "Looking for chrome extensions for grammarly alternative free? Find the best free grammar checkers that catch mistakes without costing anything. Check out..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-grammarly-alternative-free"
-layout: "post"
-categories: "[writing, tips]"
-tags: "[chrome-extensions, grammarly, grammar, writing, productivity, free]"
-author: "theluckystrike"
+title: Chrome Extensions for Grammarly Alternative Free
+description: Looking for chrome extensions for grammarly alternative free? Find the
+  best free grammar checkers that catch mistakes without costing anything. Check out...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-grammarly-alternative-free
+layout: post
+categories: '[writing, tips]'
+tags: '[chrome-extensions, grammarly, grammar, writing, productivity, free]'
+author: theluckystrike
 ---
 # Chrome Extensions for Grammarly Alternative Free
 
@@ -64,7 +65,7 @@ One useful tool to manage your browser resources is Tab Suspender Pro. It helps 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Best Chrome Themes 2026](/articles/best-chrome-themes-2026/)
+* [How to Block Websites on Chrome](/articles/how-to-block-websites-on-chrome/)
+* [Chrome vs Firefox 2026 Comparison](/articles/chrome-vs-firefox-2026/)
 
-- [Chrome Gesture Navigation Complete Guide](/articles/chrome-gesture-navigation)
-- [Chrome Version History: Major Changes You Should Know About](/articles/chrome-version-history-major-changes)
-- [chrome browser process vs tab process explained](/articles/chrome-browser-process-vs-tab-process-explained)

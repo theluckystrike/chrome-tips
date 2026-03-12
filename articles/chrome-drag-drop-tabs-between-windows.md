@@ -108,10 +108,9 @@ Sometimes drag and drop does not work as expected. Here are common problems and 
 Learning how to drag and drop tabs between windows in Chrome is a simple but powerful skill that can transform your browsing experience. Whether you are moving a single tab to a new window or reorganizing dozens of tabs across multiple workspaces, the techniques described in this guide will help you stay organized and productive. Combine these methods with tools like Tab Suspender Pro for the best possible workflow, and you will never feel overwhelmed by too many open tabs again.
 
 ## Related Articles
-- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
-- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)
-- [Chrome Multiple Windows vs Tabs Which Is Better](/chrome-multiple-windows-vs-tabs-which-is-better)
-
+* [Chrome Using Too Much Disk Space: A Complete Guide](/articles/chrome-using-too-much-disk-space/)
+* [Chrome Release Schedule: When Is the Next Update?](/articles/chrome-release-schedule-when-next-update/)
+* [Chrome Offline Google Calendar](/articles/chrome-offline-google-calendar/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

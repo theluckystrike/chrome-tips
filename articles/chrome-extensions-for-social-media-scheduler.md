@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Social Media Scheduler"
-description: "Learn how Chrome extensions for social media scheduler can automate your posts and save hours every week. Check out our expert recommendations and tips to..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-social-media-scheduler"
-layout: "post"
-categories: "[social-media, productivity, tips]"
-tags: "[chrome-extensions, social-media, scheduler, automation]"
-author: "theluckystrike"
+title: Chrome Extensions for Social Media Scheduler
+description: Learn how Chrome extensions for social media scheduler can automate your
+  posts and save hours every week. Check out our expert recommendations and tips to...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-social-media-scheduler
+layout: post
+categories: '[social-media, productivity, tips]'
+tags: '[chrome-extensions, social-media, scheduler, automation]'
+author: theluckystrike
 ---
 # Chrome Extensions for Social Media Scheduler
 
@@ -82,7 +83,7 @@ Remember that consistency matters more than perfection. Starting with a simple s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Best Ad Blocker 2026](/articles/chrome-best-ad-blocker-2026/)
+* [Chrome for Music Discovery Extensions](/articles/chrome-for-music-discovery-extensions/)
+* [chrome web apps how to install](/articles/chrome-web-apps-how-to-install/)
 
-- [Chrome Task Manager How to Use](/articles/chrome-task-manager-how-to-use)
-- [Chrome for StackOverflow Best Extensions](/articles/chrome-for-stackoverflow-best-extensions)
-- [Chrome Network Process High CPU Fix](/articles/chrome-network-process-high-cpu-fix)

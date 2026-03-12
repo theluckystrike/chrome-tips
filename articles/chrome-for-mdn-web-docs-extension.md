@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for MDN Web Docs Extension
-description: Discover Chrome extensions that enhance your MDN Web Docs experience for learning and reference. Discover more tips and tricks to optimize your browser exper
+description: Discover Chrome extensions that enhance your MDN Web Docs experience
+  for learning and reference. Discover more tips and tricks to optimize your browser
+  exper
 date: 2026-03-10
 categories:
 - web-development
@@ -71,7 +73,7 @@ Remember that extensions are meant to enhance your browsing experience, not comp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for TikTok Downloader](/articles/chrome-extensions-for-tiktok-downloader/)
+* [Chrome Extensions for Better YouTube Experience](/articles/chrome-extensions-for-better-youtube-experience/)
+* [Chrome for Travel Itinerary Extensions](/articles/chrome-for-travel-itinerary-extensions/)
 
-- [How to Search Open Chrome Tabs](/articles/how-to-search-open-chrome-tabs)
-- [How to Stop Chrome from Redirecting to HTTPS](/articles/how-to-stop-chrome-from-redirecting-to-https)
-- [How to Enable Chrome Smooth Scrolling](/articles/how-to-enable-chrome-smooth-scrolling)

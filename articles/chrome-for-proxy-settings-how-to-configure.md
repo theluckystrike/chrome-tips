@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Proxy Settings How to Configure
-description: Learn how to configure proxy settings in Chrome for better privacy, bypass restrictions, and optimize your browsing experience. Discover more tips and tricks
+description: Learn how to configure proxy settings in Chrome for better privacy, bypass
+  restrictions, and optimize your browsing experience. Discover more tips and tricks
 date: 2026-01-20
 categories:
 - privacy
@@ -82,7 +83,7 @@ It is also a good idea to periodically check that your proxy is actually working
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Media Keys Not Working Fix](/articles/chrome-media-keys-not-working-fix/)
+* [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/articles/i-have-100-tabs-open-chrome-is-dying/)
+* [Chrome WebAuthn Debugging Guide](/articles/chrome-webauthn-debugging/)
 
-- [Chrome for Budgeting: Best Web Tools](/articles/chrome-for-budgeting-best-web-tools)
-- [Best Chrome Extensions For Teachers Online](/articles/best-chrome-extensions-for-teachers-online)
-- [Chrome Data Usage On Phone How To Reduce](/articles//chrome-data-usage-on-phone-how-to-reduce/)

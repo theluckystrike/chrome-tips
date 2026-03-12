@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "chrome location services how to turn off"
-description: "Learn how to turn off location services in Chrome to protect your privacy and prevent websites from accessing your location. Check out our expert recommendatio"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-location-services-how-to-turn-off"
-categories: [privacy, settings]
-tags: [location-services, chrome-settings, privacy, tracking]
-author: "theluckystrike"
+layout: post
+title: chrome location services how to turn off
+description: Learn how to turn off location services in Chrome to protect your privacy
+  and prevent websites from accessing your location. Check out our expert recommendatio
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-location-services-how-to-turn-off
+categories:
+- privacy
+- settings
+tags:
+- location-services
+- chrome-settings
+- privacy
+- tracking
+author: theluckystrike
 ---
 # Chrome Location Services How to Turn Off
 
@@ -86,7 +93,7 @@ The steps outlined above give you the tools to manage chrome location services h
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Coverage Tool Guide](/articles/chrome-coverage-tool-guide/)
+* [How to Use Chrome Read Later: Save Articles for Offline Reading](/articles/chrome-read-later-save-articles-offline/)
+* [Chrome Extensions for Trello](/articles/chrome-extensions-for-trello/)
 
-- [Chrome Biometric Login How To Set Up](/articles/chrome-biometric-login-how-to-set-up)
-- [Chrome vs Samsung Internet for Android](/articles/chrome-vs-samsung-internet-for-android)
-- [Chrome Slow on Surface Pro Fix](/articles/chrome-slow-on-surface-pro-fix)

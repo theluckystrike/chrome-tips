@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome Media Session API for Music Players"
-description: "Learn how the Chrome Media Session API lets web music players show track info and respond to media keys. Check out our expert recommendations and tips to enhan"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-media-session-api-for-music-players"
-categories: [features, music, api]
-tags: [chrome, media-session, music-players, browser]
-author: "theluckystrike"
+layout: post
+title: Chrome Media Session API for Music Players
+description: Learn how the Chrome Media Session API lets web music players show track
+  info and respond to media keys. Check out our expert recommendations and tips to
+  enhan
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-media-session-api-for-music-players
+categories:
+- features
+- music
+- api
+tags:
+- chrome
+- media-session
+- music-players
+- browser
+author: theluckystrike
 ---
 # Chrome Media Session API for Music Players
 
@@ -66,7 +75,7 @@ For now, if you have not tried using media keys with your favorite web music pla
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome iPhone Widgets How to Set Up](/articles/chrome-iphone-widgets-how-to-set-up/)
+* [Chrome Dark Mode How To Enable](/articles//chrome-dark-mode-how-to-enable//)
+* [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage/)
 
-- [Chrome Flexbox Debugging Guide](/articles/chrome-flexbox-debugging)
-- [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/articles/chrome-autofill-wrong-address-keeps-appearing)
-- [Chrome Mobile vs Desktop Features Difference: What You Need to Know](/articles/chrome-mobile-vs-desktop-features-difference)

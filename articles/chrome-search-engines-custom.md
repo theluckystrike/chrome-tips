@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Custom Search Engines Guide
-description: Master Chrome custom search engines to boost productivity. Learn how to add search engines, create keyword shortcuts, set up site-specific search, and change...
+description: Master Chrome custom search engines to boost productivity. Learn how
+  to add search engines, create keyword shortcuts, set up site-specific search, and
+  change...
 date: '2025-12-15'
 last_modified_at: '2026-03-11'
 permalink: chrome-search-engines-custom
@@ -121,10 +123,9 @@ Chrome custom search engines are one of the most powerful yet underutilized feat
 The key is to start small: add search engines for just your top three or four most-used websites, and use them consistently for a week. Once you experience the time savings, you will be motivated to expand your setup and develop your own system for organizing and using custom search engines. Before long, you will wonder how you ever browsed without them.
 
 ## Related Articles
-- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
-- [Chrome for Custom Search Engines Setup](/chrome-for-custom-search-engines-setup)
-- [Chrome AI Powered Search Suggestions](/chrome-ai-powered-search-suggestions)
-
+* [Chrome Lost All My Tabs After Update Fix](/articles/chrome-lost-all-my-tabs-update-fix/)
+* [Chrome Keeps Freezing Every Few Minutes: Causes and Fixes](/articles/chrome-keeps-freezing-every-few-minutes/)
+* [How to Backup Chrome Bookmarks and Passwords](/articles/how-to-backup-chrome-bookmarks-and-passwords/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

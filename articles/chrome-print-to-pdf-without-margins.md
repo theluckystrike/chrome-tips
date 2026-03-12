@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Print to PDF Without Margins
-description: Learn how to remove margins when printing to PDF in Chrome. Simple steps to get edge-to-edge PDFs from any webpage. Learn effective tips and tricks to optimi...
+description: Learn how to remove margins when printing to PDF in Chrome. Simple steps
+  to get edge-to-edge PDFs from any webpage. Learn effective tips and tricks to optimi...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-print-to-pdf-without-margins
@@ -14,8 +15,6 @@ tags:
 - margins
 - clean-print
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-print-to-pdf-without-margins
 ---
 # Chrome Print to PDF Without Margins
 
@@ -62,10 +61,9 @@ Some documents look better with a little breathing room around the edges. White 
 ---
 
 ## Related Articles
-- [How to Block Ads on Chrome Without Extension](/how-to-block-ads-on-chrome-without-extension)
-- [Chrome Ads on Phone How to Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Offline Mode How To Browse Without Internet](/chrome-offline-mode-how-to-browse-without-internet)
-
+* [Chrome DevTools Rendering Tab Explained](/articles/chrome-devtools-rendering-tab-explained/)
+* [Chrome Guest Mode vs Incognito Mode: What's the Difference?](/articles/chrome-guest-mode-vs-incognito-difference/)
+* [Chrome for NFT Browsing Extensions](/articles/chrome-for-nft-browsing-extensions/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

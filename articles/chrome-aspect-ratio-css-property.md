@@ -72,7 +72,7 @@ Whether you are building a website or simply browsing the internet, understandin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Address Bar Focus Shortcut](/articles/chrome-address-bar-focus-shortcut/)
+* [Chrome Web MIDI API Explained](/articles/chrome-web-midi-api-explained/)
+* [Chrome Images Not Loading Fix](/articles/chrome-images-not-loading-fix/)
 
-- [chrome for coinbase web app tips](/articles/chrome-for-coinbase-web-app-tips)
-- [chrome for soundcloud web player extensions](/articles/chrome-for-soundcloud-web-player-extensions)
-- [Chrome Extensions For Color Accessibility Checker](/articles//articles/chrome-extensions-for-color-accessibility-checker/)

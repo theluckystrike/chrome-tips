@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Live Caption How It Works"
-description: "Discover how Chrome Live Caption automatically generates subtitles for videos and audio in your browser. A complete guide. Check out our expert recommendations"
-date: "2025-03-12"
-last_modified_at: "2026-03-10"
-permalink: "chrome-live-caption-how-it-works"
-categories: [features, accessibility]
-tags: [live-captions, accessibility, chrome-features, subtitles, how-it-works]
-author: "theluckystrike"
+layout: post
+title: Chrome Live Caption How It Works
+description: Discover how Chrome Live Caption automatically generates subtitles for
+  videos and audio in your browser. A complete guide. Check out our expert recommendations
+date: '2025-03-12'
+last_modified_at: '2026-03-10'
+permalink: chrome-live-caption-how-it-works
+categories:
+- features
+- accessibility
+tags:
+- live-captions
+- accessibility
+- chrome-features
+- subtitles
+- how-it-works
+author: theluckystrike
 ---
 # Chrome Live Caption How It Works
 
@@ -70,7 +78,7 @@ The technology behind live caption continues to improve as Google refines its sp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Clearing Browsing Data Automatically](/articles/chrome-for-clearing-browsing-data-automatically/)
+* [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix/)
+* [Chrome Page Source How to View Explained](/articles/chrome-page-source-how-to-view-explained/)
 
-- [chrome for asana web app tips](/articles/chrome-for-asana-web-app-tips)
-- [Chrome Best Settings For Slow Internet](/articles/chrome-best-settings-for-slow-internet)
-- [Chrome Permissions API for Camera and Microphone](/articles/chrome-permissions-api-camera-microphone)

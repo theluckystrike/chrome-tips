@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "How to Allow Pop Ups for One Site in Chrome"
-description: "Step by step guide to letting specific websites open popups in Chrome without turning off your popup blocker. Read our comprehensive guide to learn more and ..."
-date: "2026-01-01"
-last_modified_at: "2026-03-10"
-permalink: "how-to-allow-pop-ups-for-one-site-in-chrome"
+layout: post
+title: How to Allow Pop Ups for One Site in Chrome
+description: Step by step guide to letting specific websites open popups in Chrome
+  without turning off your popup blocker. Read our comprehensive guide to learn more
+  and ...
+date: '2026-01-01'
+last_modified_at: '2026-03-10'
+permalink: how-to-allow-pop-ups-for-one-site-in-chrome
 ---
 How to allow pop ups for one site in Chrome? If you have ever clicked a button on a website only to see nothing happen, you might be dealing with a blocked popup. Chrome blocks popups by default to keep your browsing experience clean and safe, but sometimes legitimate websites need to open new windows. The good news is you can allow pop ups for just one site without disabling your protection everywhere.
 
@@ -55,7 +57,7 @@ Learning how to allow pop ups for one site in Chrome gives you precise control o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Habit Tracker](/articles/chrome-extensions-for-habit-tracker/)
+* [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix/)
+* [Chrome Spellcheck Not Working? Here's How to Fix It](/articles/chrome-spellcheck-not-working-fix/)
 
-- [chrome voice search enable](/articles/chrome-voice-search-enable)
-- [Chrome Lite Mode Replacement 2026](/articles/chrome-lite-mode-replacement-2026)
-- [chrome for audible web player tips](/articles/chrome-for-audible-web-player-tips)

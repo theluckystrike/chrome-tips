@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Sync Phone and Computer How to Set Up
-description: Learn how to set up Chrome sync between your phone and computer. Keep bookmarks, passwords, and tabs in sync across all your devices. Read our comprehensive gui
+description: Learn how to set up Chrome sync between your phone and computer. Keep
+  bookmarks, passwords, and tabs in sync across all your devices. Read our comprehensive
+  gui
 date: 2025-03-10
 categories:
 - tutorials
@@ -89,7 +91,7 @@ Remember that sync is automatic once enabled, so you do not need to think about 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome View Page Source: What It Tells You](/articles/chrome-view-page-source-what-it-tells-you/)
+* [Chrome Certificate Error How to Bypass Safely](/articles/chrome-certificate-error-how-to-bypass-safely/)
+* [Best Way to Organize Chrome Tabs](/articles/best-way-to-organize-chrome-tabs/)
 
-- [Chrome for Amazon Fresh Web Ordering](/articles/chrome-for-amazon-fresh-web-ordering)
-- [How to Use Chrome Flags Safely](/articles/how-to-use-chrome-flags-safely)
-- [Best Chromebook Extensions for Students](/articles/best-chromebook-extensions-for-students)

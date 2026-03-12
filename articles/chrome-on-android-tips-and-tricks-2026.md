@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Chrome on Android \u2014 Tips and Tricks for 2026"
-description: Get more from Chrome on Android. Speed tricks, hidden features, gesture shortcuts, and privacy settings for the best mobile browsing experience. Learn effect...
+title: Chrome on Android — Tips and Tricks for 2026
+description: Get more from Chrome on Android. Speed tricks, hidden features, gesture
+  shortcuts, and privacy settings for the best mobile browsing experience. Learn effect...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-on-android-tips-and-tricks-2026
@@ -14,8 +15,6 @@ tags:
 - android-browser
 - chrome-tricks
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-on-android-tips-and-tricks-2026
 ---
 # Chrome on Android — Tips and Tricks for 2026
 
@@ -110,10 +109,9 @@ When you visit a page in a foreign language, Chrome automatically offers to tran
 Long-press the Chrome icon on your home screen. A shortcut to **"New Incognito tab"** appears. Tap it to jump directly into private browsing without opening Chrome first. This is the fastest way to start a private session.
 
 ## Related Articles
-- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
-- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
-- [Chrome Bookmark Bar Tips And Tricks](/chrome-bookmark-bar-tips-and-tricks)
-
+* [Chrome for Microsoft Office Online Tips](/articles/chrome-for-microsoft-office-online-tips/)
+* [Chrome Not Playing Videos Fix](/articles/chrome-not-playing-videos-fix/)
+* [Chrome DevTools CSS Overview Panel](/articles//chrome-devtools-css-overview-panel//)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

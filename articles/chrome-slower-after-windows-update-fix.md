@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Slower After Windows Update Fix
-description: Is Chrome slower after a Windows update? Discover practical solutions to fix Chrome performance issues after Windows updates, especially for computers with l...
+description: Is Chrome slower after a Windows update? Discover practical solutions
+  to fix Chrome performance issues after Windows updates, especially for computers
+  with l...
 date: 2026-01-15
 categories:
 - performance
@@ -105,10 +107,9 @@ Monitor your system resources using Task Manager periodically. If you notice Chr
 Consider making Chrome performance settings part of your routine after any Windows update. Unfortunately, Windows updates can reset browser settings, so checking these after each update can prevent performance degradation.
 
 ## Related Articles
-- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
-- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
-- [Chrome Slower After macOS Update Fix](/chrome-slower-after-macos-update-fix)
-
+* [Chrome Custom Fonts How to Change](/articles//chrome-custom-fonts-how-to-change//)
+* [Best Chrome Extensions for Email Management](/articles/best-chrome-extensions-for-email-management/)
+* [Chrome Android Dark Mode How to Enable](/articles/chrome-android-dark-mode-how-to-enable/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Color Palette Generator"
-description: "Discover how Chrome Extensions For Color Palette Generator can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and s..."
+title: Chrome Extensions For Color Palette Generator
+description: Discover how Chrome Extensions For Color Palette Generator can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
+  s...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-color-palette-generator/
@@ -68,7 +70,7 @@ If you find yourself with too many tabs open while working on color selection, c
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for SSL Certificate Checker](/articles/chrome-extensions-for-ssl-certificate-checker/)
+* [Chrome Developer Tools Shortcut](/articles//chrome-developer-tools-shortcut//)
+* [Chrome for Forest Focus Timer Extension](/articles/chrome-for-forest-focus-timer-extension/)
 
-- [Chrome Startup Pages How to Set](/articles/chrome-startup-pages-how-to-set)
-- [Chrome for Affiliate Marketing Extensions](/articles/chrome-for-affiliate-marketing-extensions)
-- [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners)

@@ -74,7 +74,7 @@ Take some time to explore the settings we've discussed and experiment with diffe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for WhatsApp Web Tips and Tricks](/articles/chrome-for-whatsapp-web-tips-and-tricks/)
+* [Chrome for Speed Reading Extensions](/articles/chrome-for-speed-reading-extensions/)
+* [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix/)
 
-- [chrome privacy badger vs ublock origin comparison](/articles/chrome-privacy-badger-vs-ublock-origin-comparison)
-- [How to Edit Any Webpage Text Using Inspect Element](/articles/chrome-edit-webpage-text-inspect-element)
-- [Chrome vs Edge for Battery Life Laptop](/articles/chrome-vs-edge-for-battery-life-laptop)

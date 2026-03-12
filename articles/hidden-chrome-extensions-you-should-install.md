@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Hidden Chrome Extensions You Should Install"
-description: "Discover hidden Chrome extensions you should install to enhance your browsing experience and boost productivity. Read our comprehensive guide to learn more a..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "hidden-chrome-extensions-you-should-install"
-categories: "[productivity, tips]"
-tags: "[chrome-extensions, hidden-gems, browser-tools]"
-author: "theluckystrike"
+layout: post
+title: Hidden Chrome Extensions You Should Install
+description: Discover hidden Chrome extensions you should install to enhance your
+  browsing experience and boost productivity. Read our comprehensive guide to learn
+  more a...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: hidden-chrome-extensions-you-should-install
+categories: '[productivity, tips]'
+tags: '[chrome-extensions, hidden-gems, browser-tools]'
+author: theluckystrike
 ---
 # Hidden Chrome Extensions You Should Install
 
@@ -76,7 +78,7 @@ The hidden chrome extensions you should install are the ones that solve real pro
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extension for Highlighting Text on Websites](/articles/chrome-extension-for-highlighting-text-on-websites/)
+* [Chrome Lite Mode Data Saver Replacement](/articles/chrome-lite-mode-data-saver-replacement/)
+* [Best Chromebook Extensions for Students](/articles/best-chromebook-extensions-for-students/)
 
-- [how to delete chrome browsing data automatically](/articles/how-to-delete-chrome-browsing-data-automatically)
-- [Best Chrome Extensions for Product Managers](/articles/best-chrome-extensions-for-product-managers)
-- [Google Chrome vs Chromium Difference Explained](/articles/google-chrome-vs-chromium-difference-explained)

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome floating video window how to use
-description: Learn how to use chrome floating video window to watch videos while browsing. Simple guide for multitasking with video popouts. Find out more tips on how to ...
+description: Learn how to use chrome floating video window to watch videos while browsing.
+  Simple guide for multitasking with video popouts. Find out more tips on how to ...
 date: 2026-01-15
 categories:
 - extensions
@@ -65,7 +66,7 @@ Now that you know how to use chrome floating video window, you can start enjoyin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Cast Chrome Tab to TV](/articles/how-to-cast-chrome-tab-to-tv/)
+* [Chrome Casting to TV How to Setup](/articles/chrome-casting-to-tv-how-to-setup/)
+* [Chrome Clipboard API: Copy and Paste in Modern Web Apps](/articles/chrome-clipboard-api-copy-paste/)
 
-- [chrome topics api privacy sandbox explained](/articles/chrome-topics-api-privacy-sandbox-explained)
-- [Chrome Super Cookies: What Are They](/articles/chrome-super-cookies-what-are-they)
-- [Chrome DevTools Workspaces Guide](/articles/chrome-workspaces-guide)

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Net Internals How to Use
-description: Learn how to use Chrome Net Internals to diagnose network issues, clear sockets, and fix connection problems in your browser. Learn effective tips and tricks...
+description: Learn how to use Chrome Net Internals to diagnose network issues, clear
+  sockets, and fix connection problems in your browser. Learn effective tips and tricks...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-net-internals-how-to-use
@@ -51,7 +52,7 @@ Regardless of which approach you choose, knowing that these tools exist gives yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Google Sheets](/articles/chrome-extensions-for-google-sheets/)
+* [Chrome Site Permissions How to Manage](/articles/chrome-site-permissions-how-to-manage/)
+* [Chrome Devtools Webauthn Debugger](/articles/chrome-devtools-webauthn-debugger/)
 
-- [Chrome Lazy Loading Images Native: How It Works and Why You Should Use It](/articles/chrome-lazy-loading-images-native)
-- [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location)
-- [Chrome Navigation Timing API Explained](/articles/chrome-navigation-timing-api-explained)

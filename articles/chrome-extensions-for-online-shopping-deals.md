@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Online Shopping Deals"
-description: "Discover how Chrome extensions for online shopping deals can help you save money, compare prices instantly, and find the best bargains while you browse."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-online-shopping-deals"
-layout: "post"
-categories: "[shopping, tips]"
-tags: "[chrome-extensions, shopping, deals, savings]"
-author: "theluckystrike"
+title: Chrome Extensions for Online Shopping Deals
+description: Discover how Chrome extensions for online shopping deals can help you
+  save money, compare prices instantly, and find the best bargains while you browse.
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-online-shopping-deals
+layout: post
+categories: '[shopping, tips]'
+tags: '[chrome-extensions, shopping, deals, savings]'
+author: theluckystrike
 ---
 # Chrome Extensions for Online Shopping Deals
 
@@ -72,7 +73,7 @@ Once you start using shopping extensions consistently, you will wonder how you e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Best Browser for Old MacBook 2026](/articles/best-browser-for-old-macbook-2026/)
+* [Chrome Web Storage Limits Explained](/articles/chrome-web-storage-limits-explained/)
+* [Chrome Downloads Not Starting Fix](/articles/chrome-downloads-not-starting-fix/)
 
-- [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/articles/chrome-err-cert-authority-invalid-fix)
-- [Chrome Zoom Too Big How to Fix](/articles/chrome-zoom-too-big-how-to-fix)
-- [Chrome for Ebook Reading Best Extensions](/articles/chrome-for-ebook-reading-best-extensions)

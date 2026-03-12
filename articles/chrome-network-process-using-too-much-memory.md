@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Network Process Using Too Much Memory
-description: Is Chrome network process using too much memory? Learn why this happens and what you can do to fix high memory usage in Chrome. Learn effective tips and tric...
+description: Is Chrome network process using too much memory? Learn why this happens
+  and what you can do to fix high memory usage in Chrome. Learn effective tips and
+  tric...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-network-process-using-too-much-memory
@@ -15,8 +17,6 @@ tags:
 - chrome-network
 - memory-usage
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-network-process-using-too-much-memory
 ---
 # Chrome Network Process Using Too Much Memory
 
@@ -73,7 +73,7 @@ Give these tips a try and see how much of a difference they make. Your computer 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does/)
+* [chrome report broken website how to](/articles/chrome-report-broken-website-how-to/)
+* [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix/)
 
-- [How to Recover Deleted Bookmarks Chrome](/articles/how-to-recover-deleted-bookmarks-chrome)
-- [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings)
-- [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup)

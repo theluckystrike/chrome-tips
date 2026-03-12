@@ -1,6 +1,7 @@
 ---
-title: "Chrome Extensions For Color Accessibility Checker"
-description: "Discover how Chrome Extensions For Color Accessibility Checker can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions a..."
+title: Chrome Extensions For Color Accessibility Checker
+description: Discover how Chrome Extensions For Color Accessibility Checker can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions a...
 date: 2026-03-09
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-color-accessibility-checker/
@@ -76,7 +77,7 @@ While having the right tools for color accessibility is important, it is also wo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Accessibility on Phone Settings Guide](/articles/chrome-accessibility-on-phone-settings-guide/)
+* [how to make chrome default browser mac](/articles/how-to-make-chrome-default-browser-mac/)
+* [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to/)
 
-- [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use)
-- [Top 10 Chrome Extensions Everyone Should Have](/articles/top-10-chrome-extensions-everyone-should-have)
-- [Chrome Password Autofill Stopped Working: Fix It Now](/articles/chrome-password-autofill-stopped-working)

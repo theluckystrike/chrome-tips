@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extension for Reading Speed Tracker"
-description: "Learn how to track your reading speed with Chrome extensions and improve your reading efficiency while browsing. Check out our expert recommendations and step-b"
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extension-for-reading-speed-tracker"
-layout: "post"
-categories: "[reading, productivity, tips]"
-tags: "[chrome-extensions, reading-speed, productivity]"
-author: "theluckystrike"
+title: Chrome Extension for Reading Speed Tracker
+description: Learn how to track your reading speed with Chrome extensions and improve
+  your reading efficiency while browsing. Check out our expert recommendations and
+  step-b
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-reading-speed-tracker
+layout: post
+categories: '[reading, productivity, tips]'
+tags: '[chrome-extensions, reading-speed, productivity]'
+author: theluckystrike
 ---
 # Chrome Extension for Reading Speed Tracker
 
@@ -58,10 +60,9 @@ The goal is not to rush through everything as fast as possible. The goal is to b
 ---
 
 ## Related Articles
-- [Chrome Extensions for Speed Reading](/chrome-extensions-for-speed-reading)
-- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
-- [Chrome Extension for Coupon Codes Automatic](/chrome-extension-for-coupon-codes-automatic)
-
+* [Chrome High CPU Usage Nothing Open](/articles/chrome-high-cpu-usage-nothing-open/)
+* [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained/)
+* [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

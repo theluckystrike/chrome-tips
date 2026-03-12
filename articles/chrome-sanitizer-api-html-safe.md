@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 'Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser'
-description: Learn how Chrome's Sanitizer API provides robust HTML sanitization to protect against XSS attacks. Discover how to safely render user-generated content witho...
+description: Learn how Chrome's Sanitizer API provides robust HTML sanitization to
+  protect against XSS attacks. Discover how to safely render user-generated content
+  witho...
 date: 2026-01-15
 categories:
 - chrome
@@ -101,10 +103,9 @@ Finally, keep your browsers updated to ensure you have the latest security impro
 ---
 
 ## Related Articles
-- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
-- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
-
+* [Chrome Upcoming Features Preview 2026](/articles/chrome-upcoming-features-preview-2026/)
+* [chrome image search by url how to](/articles/chrome-image-search-by-url-how-to/)
+* [How to Recover Accidentally Closed Chrome Tabs](/articles/accidentally-closed-all-chrome-tabs-recovery/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

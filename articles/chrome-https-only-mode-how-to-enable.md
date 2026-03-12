@@ -1,13 +1,23 @@
 ---
-layout: "post"
-title: "Chrome HTTPS Only Mode How to Enable"
-description: "Learn how to enable HTTPS only mode in Chrome to ensure all your browsing happens over secure, encrypted connections. Simple step-by-step guide. Check out our"
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-https-only-mode-how-to-enable"
-categories: [privacy, security, chrome-settings]
-tags: [https-only, chrome-privacy, secure-browsing, browser-security, ssl]
-author: "theluckystrike"
+layout: post
+title: Chrome HTTPS Only Mode How to Enable
+description: Learn how to enable HTTPS only mode in Chrome to ensure all your browsing
+  happens over secure, encrypted connections. Simple step-by-step guide. Check out
+  our
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-https-only-mode-how-to-enable
+categories:
+- privacy
+- security
+- chrome-settings
+tags:
+- https-only
+- chrome-privacy
+- secure-browsing
+- browser-security
+- ssl
+author: theluckystrike
 ---
 # Chrome HTTPS Only Mode How to Enable
 
@@ -88,7 +98,7 @@ If you are looking for ways to improve your Chrome experience overall, consider 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Web OTP API Explained](/articles/chrome-web-otp-api-explained/)
+* [How to Reduce Chrome Startup Time](/articles/how-to-reduce-chrome-startup-time/)
+* [Chrome Extensions for Notion](/articles/chrome-extensions-for-notion/)
 
-- [Chrome Mobile View on Desktop How to](/articles/chrome-mobile-view-on-desktop-how-to)
-- [Chrome Contact Picker API Explained](/articles/chrome-contact-picker-api-explained)
-- [Chrome Resource Timing API Explained](/articles/chrome-resource-timing-api-explained)

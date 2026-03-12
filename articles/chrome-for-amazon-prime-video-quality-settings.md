@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Amazon Prime Video Quality Settings
-description: Optimize your Amazon Prime Video streaming in Chrome with these quality settings. Get the best picture and performance. Find out more tips on how to optimize...
+description: Optimize your Amazon Prime Video streaming in Chrome with these quality
+  settings. Get the best picture and performance. Find out more tips on how to optimize...
 date: 2026-03-10
 categories:
 - entertainment
@@ -86,7 +87,7 @@ Everyone's setup is different, so you might need to experiment with a few of the
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Why Does Each Chrome Tab Use So Much Memory](/articles/why-does-each-chrome-tab-use-so-much-memory/)
+* [Hidden Chrome Extensions You Should Install](/articles/hidden-chrome-extensions-you-should-install/)
+* [Chrome Web GPU API Explained](/articles/chrome-web-gpu-api-explained/)
 
-- [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix)
-- [Chrome Mobile Dark Mode Force on All Sites](/articles/chrome-mobile-dark-mode-force-on-all-sites)
-- [Chrome Default Download Location How to Change](/articles//chrome-default-download-location-how-to-change/)

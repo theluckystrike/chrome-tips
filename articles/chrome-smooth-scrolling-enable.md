@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to Enable Chrome Smooth Scrolling for a Better Browsing Experience
-description: 'Learn how to enable chrome smooth scrolling to transform your web browsing experience with fluid, natural-feeling page navigation. Read our comprehensive guide '
+description: 'Learn how to enable chrome smooth scrolling to transform your web browsing
+  experience with fluid, natural-feeling page navigation. Read our comprehensive guide '
 date: 2026-01-15
 categories:
 - browsers
@@ -84,10 +85,9 @@ Enabling chrome smooth scrolling is a simple change that can make a significant 
 Give smooth scrolling a try and see how it works for you. Once you experience the difference, you may wonder how you ever browsed without it.
 
 ## Related Articles
-- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
-- [Chrome Smooth Scrolling How to Enable](/chrome-smooth-scrolling-how-to-enable)
-- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
-
+* [Chrome DevTools Protocol Monitor](/articles/chrome-devtools-protocol-monitor/)
+* [Chrome Sleeping Tabs Explained: What They Are and How to Use Them](/articles/chrome-sleeping-tabs-explained/)
+* [Chrome Extensions For Clipboard Manager](/articles//articles/chrome-extensions-for-clipboard-manager//)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

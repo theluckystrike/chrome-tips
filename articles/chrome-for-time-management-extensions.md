@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Time Management Extensions
-description: Learn how Chrome time management extensions can help you stay focused, organized, and make the most of your workday. Discover more tips and tricks to optimiz
+description: Learn how Chrome time management extensions can help you stay focused,
+  organized, and make the most of your workday. Discover more tips and tricks to optimiz
 date: 2026-03-10
 categories:
 - productivity
@@ -65,7 +66,7 @@ As you become comfortable with your initial tools, you can gradually add more ex
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Stop Chrome from Redirecting to HTTPS](/articles/how-to-stop-chrome-from-redirecting-to-https/)
+* [chrome classroom integration tips for teachers](/articles/chrome-classroom-integration-tips-for-teachers/)
+* [Chrome Enable Cookies for One Site How to](/articles/chrome-enable-cookies-for-one-site-how-to/)
 
-- [How to Fix Chrome Hijacked Homepage (Complete Guide)](/articles/chrome-hijacked-homepage-fix-guide)
-- [Chrome Extensions For Font Changing](/articles//articles/chrome-extensions-for-font-changing/)
-- [Chrome Web MIDI API for Musicians](/articles/chrome-web-midi-api-for-musicians)

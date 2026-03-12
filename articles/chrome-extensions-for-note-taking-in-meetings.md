@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Note Taking in Meetings"
-description: "Discover the best Chrome extensions for note taking in meetings to stay organized and capture every important point. Check out our expert recommendations..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-note-taking-in-meetings"
-layout: "post"
-categories: "[productivity, tips]"
-tags: "[chrome-extensions, meetings, note-taking]"
-author: "theluckystrike"
+title: Chrome Extensions for Note Taking in Meetings
+description: Discover the best Chrome extensions for note taking in meetings to stay
+  organized and capture every important point. Check out our expert recommendations...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-note-taking-in-meetings
+layout: post
+categories: '[productivity, tips]'
+tags: '[chrome-extensions, meetings, note-taking]'
+author: theluckystrike
 ---
 # Chrome Extensions for Note Taking in Meetings
 
@@ -72,7 +73,7 @@ Start with one or two extensions that address your biggest pain points. You can 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Google Maps Keyboard Shortcuts](/articles/chrome-google-maps-keyboard-shortcuts/)
+* [How to Fix Chrome High CPU Usage When Gaming](/articles/how-to-fix-chrome-high-cpu-usage-gaming/)
+* [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/articles/chrome-grammarly-extension-slowing-browser/)
 
-- [chrome extensions for privacy badger alternative](/articles/chrome-extensions-for-privacy-badger-alternative)
-- [chrome net err cert common name invalid fix](/articles/chrome-net-err-cert-common-name-invalid-fix)
-- [How to Throttle Network Speed in Chrome](/articles/chrome-throttle-network-speed-how-to)

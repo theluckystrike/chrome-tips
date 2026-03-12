@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome Lazy Loading Images Native: How It Works and Why You Should Use It"
-description: "Learn about Chrome's built-in lazy loading for images. Discover how native lazy loading improves page speed, saves bandwidth, and enhances user experience."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-lazy-loading-images-native"
-categories: [performance, optimization, web-development]
-tags: [chrome, lazy-loading, images, performance, website-speed]
-author: "theluckystrike"
+layout: post
+title: 'Chrome Lazy Loading Images Native: How It Works and Why You Should Use It'
+description: Learn about Chrome's built-in lazy loading for images. Discover how native
+  lazy loading improves page speed, saves bandwidth, and enhances user experience.
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-lazy-loading-images-native
+categories:
+- performance
+- optimization
+- web-development
+tags:
+- chrome
+- lazy-loading
+- images
+- performance
+- website-speed
+author: theluckystrike
 ---
 # Chrome Lazy Loading Images Native: How It Works and Why You Should Use It
 
@@ -87,10 +96,9 @@ Whether you are a website owner looking to improve your search rankings or a dev
 ---
 
 ## Related Articles
-- [Chrome Lazy Loading Images Explained](/chrome-lazy-loading-images-explained)
-- [Chrome Lazy Loading Images How It Works](/chrome-lazy-loading-images-how-it-works)
-- [Chrome Extension for Batch Downloading Images](/chrome-extension-for-batch-downloading-images)
-
+* [Chrome Extensions for Reverse Video Search](/articles/chrome-extensions-for-reverse-video-search/)
+* [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions/)
+* [Chrome Nesting CSS Explained](/articles/chrome-nesting-css-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

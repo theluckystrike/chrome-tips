@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "Chrome High Memory Usage Windows 11"
-description: "Chrome using too much RAM on Windows 11? Learn why it happens and practical fixes to reduce memory usage. Check out our expert recommendations and tips to enha"
-date: "2026-01-20"
-last_modified_at: "2026-03-09"
-permalink: "chrome-high-memory-usage-windows-11"
-categories: [performance, windows-11]
-tags: [chrome-memory, windows-11, ram-usage, browser-performance]
-author: "theluckystrike"
+layout: post
+title: Chrome High Memory Usage Windows 11
+description: Chrome using too much RAM on Windows 11? Learn why it happens and practical
+  fixes to reduce memory usage. Check out our expert recommendations and tips to enha
+date: '2026-01-20'
+last_modified_at: '2026-03-09'
+permalink: chrome-high-memory-usage-windows-11
+categories:
+- performance
+- windows-11
+tags:
+- chrome-memory
+- windows-11
+- ram-usage
+- browser-performance
+author: theluckystrike
 ---
 # Chrome High Memory Usage Windows 11
 
@@ -70,7 +77,7 @@ For most users, the steps above will significantly reduce Chrome's memory usage 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for API Testing Simple](/articles/chrome-extensions-for-api-testing-simple/)
+* [chrome extensions for web clipping](/articles/chrome-extensions-for-web-clipping/)
+* [Chrome Browser Games Performance Tips](/articles/chrome-browser-games-performance-tips/)
 
-- [Chrome Spell Check Adding Custom Words](/articles/chrome-spell-check-adding-custom-words)
-- [Chrome Passkeys Explained for Beginners](/articles/chrome-passkeys-explained-for-beginners)
-- [Chrome Extensions For Diigo](/articles//articles/chrome-extensions-for-diigo/)

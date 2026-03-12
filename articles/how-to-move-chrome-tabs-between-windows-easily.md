@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "How to Move Chrome Tabs Between Windows Easily"
-description: "Learn simple methods to move Chrome tabs between windows using drag-and-drop, keyboard shortcuts, and helpful extensions. Read our comprehensive guide to lea..."
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "how-to-move-chrome-tabs-between-windows-easily"
-categories: "[productivity, tabs]"
-tags: "[tab-management, chrome-tips, chrome-windows]"
-author: "theluckystrike"
+layout: post
+title: How to Move Chrome Tabs Between Windows Easily
+description: Learn simple methods to move Chrome tabs between windows using drag-and-drop,
+  keyboard shortcuts, and helpful extensions. Read our comprehensive guide to lea...
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: how-to-move-chrome-tabs-between-windows-easily
+categories: '[productivity, tabs]'
+tags: '[tab-management, chrome-tips, chrome-windows]'
+author: theluckystrike
 ---
 # How to Move Chrome Tabs Between Windows Easily
 
@@ -74,7 +75,7 @@ Moving tabs between windows does not have to be complicated. With drag and drop,
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome for twitch streaming setup in browser](/articles/chrome-for-twitch-streaming-setup-in-browser/)
+* [Chrome Microphone Access on Phone How to Control](/articles/chrome-microphone-access-on-phone-how-to-control/)
+* [Chrome Extensions for Language Learning](/articles/chrome-extensions-for-language-learning/)
 
-- [Chrome Navigator Sendbeacon Explained](/articles/chrome-navigator-sendbeacon-explained)
-- [Chrome for Duolingo Web App Optimization](/articles/chrome-for-duolingo-web-app-optimization)
-- [Chrome DevTools Rendering Tab Explained](/articles/chrome-devtools-rendering-tab-explained)

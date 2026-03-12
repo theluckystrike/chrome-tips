@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Pin a Website in Chrome Taskbar"
-description: "Learn how to pin a website to your Windows or Mac taskbar for quick access with just one click. Read our comprehensive guide to learn more and optimize your ..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "how-to-pin-a-website-in-chrome-taskbar"
-categories: "[productivity, chrome]"
-tags: "[chrome, taskbar, pinned-websites, productivity]"
-author: "theluckystrike"
+layout: post
+title: How to Pin a Website in Chrome Taskbar
+description: Learn how to pin a website to your Windows or Mac taskbar for quick access
+  with just one click. Read our comprehensive guide to learn more and optimize your
+  ...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: how-to-pin-a-website-in-chrome-taskbar
+categories: '[productivity, chrome]'
+tags: '[chrome, taskbar, pinned-websites, productivity]'
+author: theluckystrike
 ---
 # How to Pin a Website in Chrome Taskbar
 
@@ -74,7 +76,7 @@ Pinning websites to your taskbar is a small change that can make a big differenc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome payment request api what users see](/articles/chrome-payment-request-api-what-users-see/)
+* [Chrome Casting to Chromecast Not Working Fix](/articles/chrome-casting-to-chromecast-not-working-fix/)
+* [Chrome Contact Picker API Explained](/articles/chrome-contact-picker-api-explained/)
 
-- [Chrome Extension Manifest V3 What Users Need to Know](/articles/chrome-extension-manifest-v3-what-users-need-to-know)
-- [How to Check Website Speed in Chrome](/articles/how-to-check-website-speed-in-chrome)
-- [Chrome for Citation and Research Extensions](/articles/chrome-for-citation-and-research-extensions)

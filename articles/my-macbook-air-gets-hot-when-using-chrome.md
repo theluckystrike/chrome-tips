@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "My MacBook Air Gets Hot When Using Chrome: Practical Solutions"
-description: "Is your MacBook Air running hot while using Chrome? Discover practical solutions to reduce heat, improve performance, and extend your laptop's lifespan."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "my-macbook-air-gets-hot-when-using-chrome"
-categories: "[performance, chrome, macbook, troubleshooting]"
-tags: "[macbook-air, chrome-overheating, chrome-performance, fix-chrome-slow]"
-author: "theluckystrike"
+layout: post
+title: 'My MacBook Air Gets Hot When Using Chrome: Practical Solutions'
+description: Is your MacBook Air running hot while using Chrome? Discover practical
+  solutions to reduce heat, improve performance, and extend your laptop's lifespan.
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: my-macbook-air-gets-hot-when-using-chrome
+categories: '[performance, chrome, macbook, troubleshooting]'
+tags: '[macbook-air, chrome-overheating, chrome-performance, fix-chrome-slow]'
+author: theluckystrike
 ---
 # My MacBook Air Gets Hot When Using Chrome: Practical Solutions
 
@@ -118,10 +119,9 @@ However, for most users, the steps outlined above will significantly reduce heat
 Remember that your MacBook Air was designed to handle everyday browsing tasks. With some adjustments to how you use Chrome, you can enjoy a cooler, quieter, and more responsive computing experience without upgrading your hardware.
 
 ## Related Articles
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-- [What Happens When Chrome Extension Is Removed From Store](/what-happens-when-chrome-extension-is-removed-from-store)
-- [Chrome Slow Only on My Computer Not Others: Why and How to Fix It](/chrome-slow-only-on-my-computer-not-others)
-
+* [Chrome for Salesforce Web App Optimization](/articles/chrome-for-salesforce-web-app-optimization/)
+* [How to Fix Chrome Mixed Content Warning](/articles/chrome-mixed-content-warning-fix/)
+* [Chrome Bookmark Bar Tips And Tricks](/articles/chrome-bookmark-bar-tips-and-tricks/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

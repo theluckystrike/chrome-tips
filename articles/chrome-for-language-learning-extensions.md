@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Language Learning Extensions
-description: Discover the best Chrome extensions for language learning to improve vocabulary, grammar, and pronunciation while you browse. Discover more tips and tricks t
+description: Discover the best Chrome extensions for language learning to improve
+  vocabulary, grammar, and pronunciation while you browse. Discover more tips and
+  tricks t
 date: 2026-01-15
 categories:
 - language-learning
@@ -70,7 +72,7 @@ By integrating these tools into your daily browsing routine, you can turn every 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Freezes When Opening New Tab Fix](/articles/chrome-freezes-when-opening-new-tab-fix/)
+* [Chrome Developer Tools for Non Developers](/articles//chrome-developer-tools-for-non-developers//)
+* [Chrome Web NFC API Guide](/articles/chrome-web-nfc-api-guide/)
 
-- [Chrome for Obsidian Web Clipper Setup](/articles/chrome-for-obsidian-web-clipper-setup)
-- [Chrome Cookies Explained for Beginners](/articles/chrome-cookies-explained-for-beginners)
-- [Chrome Web Apps vs Native Apps Comparison](/articles/chrome-web-apps-vs-native-apps-comparison)

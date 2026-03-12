@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "Chrome View Transitions API Explained"
-description: "Learn what Chrome View Transitions API is, how it works, and how it improves Read our comprehensive guide to learn more and optimize your browser experience ..."
-date: "2026-03-09"
-last_modified_at: "2026-03-11"
-permalink: "chrome-view-transitions-api-explained"
+layout: post
+title: Chrome View Transitions API Explained
+description: Learn what Chrome View Transitions API is, how it works, and how it improves
+  Read our comprehensive guide to learn more and optimize your browser experience
+  ...
+date: '2026-03-09'
+last_modified_at: '2026-03-11'
+permalink: chrome-view-transitions-api-explained
 ---
 If you have ever searched for "chrome view transitions api explained," you might have wondered what this feature actually does and whether it affects how you use Chrome. The View Transitions API is a relatively new feature in Chrome that makes browsing feel smoother and more modern, and understanding it can help you get more out of your browser.
 
@@ -57,10 +59,9 @@ Looking ahead, expect to see even more sophisticated uses of this API. Developer
 ---
 
 ## Related Articles
-- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
-- [Chrome Background Sync API Explained](/chrome-background-sync-api-explained)
-
+* [Chrome Extension Conflict: Identifying and Fixing Crashes](/articles/chrome-extension-conflict-causing-crashes/)
+* [chrome for uber web app setup](/articles/chrome-for-uber-web-app-setup/)
+* [Chrome Browser vs App Which Uses More Data](/articles/chrome-browser-vs-app-which-uses-more-data/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

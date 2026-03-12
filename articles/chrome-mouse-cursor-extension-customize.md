@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Mouse Cursor Extension Customize
-description: Learn how to customize your mouse cursor in Chrome with extensions. Find solutions for cursor visibility and customization. Learn effective tips and tricks t...
+description: Learn how to customize your mouse cursor in Chrome with extensions. Find
+  solutions for cursor visibility and customization. Learn effective tips and tricks
+  t...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-mouse-cursor-extension-customize
@@ -79,7 +81,7 @@ Start by exploring what extensions are available, choose one that fits your need
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Developer Tools for Non Developers](/articles//chrome-developer-tools-for-non-developers//)
+* [Chrome Vibration API: A Complete Guide for Mobile Web Developers](/articles/chrome-vibration-api-mobile-web/)
+* [Chrome Site Isolation What It Means](/articles/chrome-site-isolation-what-it-means/)
 
-- [Chrome Extensions for Website Dark Mode Forced](/articles/chrome-extensions-for-website-dark-mode-forced)
-- [Chrome Permissions on Startup How to Configure](/articles/chrome-permissions-on-startup-how-to-configure)
-- [Chrome for Xero Accounting Web Tips](/articles/chrome-for-xero-accounting-web-tips)

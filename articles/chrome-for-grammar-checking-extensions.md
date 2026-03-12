@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Grammar Checking Extensions
-description: Find the best Chrome extensions for grammar checking to improve your writing. Compare top picks and find the right tool. Discover more tips and tricks to opt
+description: Find the best Chrome extensions for grammar checking to improve your
+  writing. Compare top picks and find the right tool. Discover more tips and tricks
+  to opt
 date: 2026-01-15
 categories:
 - writing
@@ -69,7 +71,7 @@ Remember that these are tools to assist you, not replace your own judgment. They
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Process Per Tab: How to Disable It to Save Memory](/articles/chrome-process-per-tab-disable-to-save-memory/)
+* [chrome performance monitor fps counter](/articles/chrome-performance-monitor-fps-counter/)
+* [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage//)
 
-- [Chrome for Amazon Prime Video Quality Settings](/articles/chrome-for-amazon-prime-video-quality-settings)
-- [How to Fix Chrome ERR_NAME_NOT_RESOLVED Error](/articles/chrome-err-name-not-resolved-fix)
-- [Chrome Scaling Blurry on External Monitor Fix](/articles/chrome-scaling-blurry-on-external-monitor-fix)

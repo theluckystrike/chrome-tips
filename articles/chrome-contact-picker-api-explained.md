@@ -1,12 +1,20 @@
 ---
-title: "Chrome Contact Picker API Explained"
-description: "Learn what Chrome Contact Picker API is, how websites use it, and how to manage contact access permissions in your browser for better privacy. Read our full gui"
-date: "2026-03-09"
-last_modified_at: '2026-03-12'
-permalink: "chrome-contact-picker-api-explained"
+title: Chrome Contact Picker API Explained
+description: Learn what Chrome Contact Picker API is, how websites use it, and how
+  to manage contact access permissions in your browser for better privacy. Read our
+  full gui
+date: '2026-03-09'
+last_modified_at: '%Y->- (origin/fix/lastmod-batch-4)'
+permalink: chrome-contact-picker-api-explained
 layout: post
-categories: ['features', 'privacy']
-tags: ['contacts', 'contact-picker', 'chrome-features', 'privacy']
+categories:
+- features
+- privacy
+tags:
+- contacts
+- contact-picker
+- chrome-features
+- privacy
 author: theluckystrike
 ---
 # Chrome Contact Picker API Explained
@@ -78,7 +86,7 @@ The Chrome Contact Picker API is a useful feature that lets websites access spec
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [how to screenshot full page in chrome](/articles/how-to-screenshot-full-page-in-chrome/)
+* [Chrome Startup Too Slow Diagnosis Guide](/articles/chrome-startup-too-slow-diagnosis-guide/)
+* [Chrome Console Commands: Useful Tricks Every User Should Know](/articles/chrome-console-commands-useful-tricks/)
 
-- [Chrome Text to Speech: Complete Guide for 2026](/articles/chrome-text-to-speech)
-- [Chrome Side Panel Extensions Worth Using](/articles/chrome-side-panel-extensions-worth-using)
-- [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools)

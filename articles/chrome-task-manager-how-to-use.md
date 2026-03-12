@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Task Manager How to Use"
-description: "Learn how to use Chrome Task Manager to identify and stop memory-hungry tabs, extensions, and processes slowing down your browser. Read our comprehensive gui..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-task-manager-how-to-use"
-categories: "[performance, troubleshooting]"
-tags: "[chrome-task-manager, browser-tools, chrome-tips]"
-author: "theluckystrike"
+layout: post
+title: Chrome Task Manager How to Use
+description: Learn how to use Chrome Task Manager to identify and stop memory-hungry
+  tabs, extensions, and processes slowing down your browser. Read our comprehensive
+  gui...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-task-manager-how-to-use
+categories: '[performance, troubleshooting]'
+tags: '[chrome-task-manager, browser-tools, chrome-tips]'
+author: theluckystrike
 ---
 # Chrome Task Manager How to Use
 
@@ -60,10 +62,9 @@ Close tabs you are not using. Every open tab uses memory, even if you are not lo
 Update Chrome regularly. Newer versions often include performance improvements and bug fixes that make Chrome run more efficiently. You can check for updates by going to Settings, clicking Help, and selecting About Google Chrome.
 
 ## Related Articles
-- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
-- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
-- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
-
+* [Chrome Scope CSS Explained](/articles/chrome-scope-css-explained/)
+* [Chrome Tab Color Coding How to Use](/articles/chrome-tab-color-coding-how-to-use/)
+* [Chrome Extensions for Watermark Remover](/articles/chrome-extensions-for-watermark-remover/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

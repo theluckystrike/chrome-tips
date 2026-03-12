@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extension Conflict: Identifying and Fixing Crashes"
-description: "Learn how to identify Chrome extension conflicts that cause crashes and practical steps to fix them. Check out our expert recommendations and step-by-step instr"
-date: "2026-03-11"
-last_modified_at: "2026-03-11"
-permalink: "chrome-extension-conflict-causing-crashes"
-layout: "post"
-categories: "[troubleshooting, extensions]"
-tags: "[chrome-extensions, crashes, troubleshooting, performance]"
-author: "theluckystrike"
+title: 'Chrome Extension Conflict: Identifying and Fixing Crashes'
+description: Learn how to identify Chrome extension conflicts that cause crashes and
+  practical steps to fix them. Check out our expert recommendations and step-by-step
+  instr
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-extension-conflict-causing-crashes
+layout: post
+categories: '[troubleshooting, extensions]'
+tags: '[chrome-extensions, crashes, troubleshooting, performance]'
+author: theluckystrike
 ---
 # Chrome Extension Conflict: Identifying and Fixing Crashes
 
@@ -94,10 +96,9 @@ Chrome extension conflicts can be frustrating, but they are usually solvable wit
 Remember to keep your extension list manageable and your extensions updated. With these habits, you can enjoy a stable and productive Chrome browsing experience without the headache of unexpected crashes.
 
 ## Related Articles
-- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
-- [Chrome Extension Permissions Too Many Warning](/chrome-extension-permissions-too-many-warning)
-- [Chrome VPN Extension Best Free Options 2026](/chrome-vpn-extension-best-free-options-2026)
-
+* [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix/)
+* [chrome gamepad api how to use](/articles/chrome-gamepad-api-how-to-use/)
+* [chrome for geforce now best settings](/articles/chrome-for-geforce-now-best-settings/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

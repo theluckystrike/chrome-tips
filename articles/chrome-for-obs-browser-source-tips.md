@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for obs browser source tips
-description: Get the most out of Chrome in OBS with these practical browser source tips for smoother streams and better performance. Discover more tips and tricks to opti
+description: Get the most out of Chrome in OBS with these practical browser source
+  tips for smoother streams and better performance. Discover more tips and tricks
+  to opti
 date: 2026-01-15
 categories:
 - streaming
@@ -68,7 +70,7 @@ Remember that every streaming setup is different, so you might need to experimen
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome default browser how to set on windows](/articles//chrome-default-browser-how-to-set-on-windows//)
+* [chrome extension for screenshot and annotate](/articles/chrome-extension-for-screenshot-and-annotate/)
+* [Chrome vs Chromium: What's the Difference and Which Should You Use?](/articles/chrome-chromium-vs-chrome-differences/)
 
-- [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/articles/chrome-coverage-tool-find-unused-css)
-- [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing)
-- [Chrome Extensions For Eye Strain Protection](/articles//articles/chrome-extensions-for-eye-strain-protection/)

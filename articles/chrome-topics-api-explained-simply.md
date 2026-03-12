@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "chrome topics api explained simply"
-description: "Learn what Chrome Topics API is, why it matters for your privacy, and how it affects the ads you see online. Read our comprehensive guide to learn more and o..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-topics-api-explained-simply"
-categories: "[privacy, browser, advertising]"
-tags: "[chrome-topics-api, privacy, advertising, browser]"
-author: "theluckystrike"
+layout: post
+title: chrome topics api explained simply
+description: Learn what Chrome Topics API is, why it matters for your privacy, and
+  how it affects the ads you see online. Read our comprehensive guide to learn more
+  and o...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-topics-api-explained-simply
+categories: '[privacy, browser, advertising]'
+tags: '[chrome-topics-api, privacy, advertising, browser]'
+author: theluckystrike
 ---
 # Chrome Topics API Explained Simply
 
@@ -72,10 +74,9 @@ The important thing is that you understand what is happening with your data. Bro
 ---
 
 ## Related Articles
-- [Chrome Certificate Transparency Explained Simply](/chrome-certificate-transparency-explained-simply)
-- [Chrome Contact Picker API Explained](/chrome-contact-picker-api-explained)
-- [Chrome Sandbox Mode Explained Simply](/chrome-sandbox-mode-explained-simply)
-
+* [Chrome Copy Paste Not Working Fix](/articles/chrome-copy-paste-not-working-fix/)
+* [Chromebook for Seniors Setup Guide](/articles/chromebook-for-seniors-setup-guide/)
+* [Chrome Best Extensions for Parental Control](/articles/chrome-best-extensions-for-parental-control/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,13 +1,25 @@
 ---
-layout: "default"
-title: "Chrome Breakpoints and Conditional Debugging Guide"
-description: "Master Chrome DevTools breakpoints and conditional debugging techniques. Learn how to set line breakpoints, conditional breakpoints, DOM breakpoints, XHR bre..."
-date: "2025-03-11"
-last_modified_at: '2026-03-12'
-permalink: "chrome-breakpoints-conditional-debugging-guide"
-categories: [web-development, chrome-devtools, tips]
-tags: [chrome, breakpoints, debugging, devtools, javascript, web-development, frontend]
-author: "theluckystrike"
+layout: default
+title: Chrome Breakpoints and Conditional Debugging Guide
+description: Master Chrome DevTools breakpoints and conditional debugging techniques.
+  Learn how to set line breakpoints, conditional breakpoints, DOM breakpoints, XHR
+  bre...
+date: '2025-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-breakpoints-conditional-debugging-guide
+categories:
+- web-development
+- chrome-devtools
+- tips
+tags:
+- chrome
+- breakpoints
+- debugging
+- devtools
+- javascript
+- web-development
+- frontend
+author: theluckystrike
 ---
 # Chrome Breakpoints and Conditional Debugging Guide
 
@@ -72,10 +84,9 @@ The key to effective debugging with breakpoints is practice and experimentation.
 ---
 
 ## Related Articles
-- [Chrome WebRTC Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
-- [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)
-- [Chrome Console Utilities Reference](/chrome-console-utilities-guide)
-
+* [Chrome Tabs on Top vs Bottom: How to Change](/articles/chrome-tabs-on-top-vs-bottom-how-to-change/)
+* [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix/)
+* [chromebook file manager tips and tricks](/articles/chromebook-file-manager-tips-and-tricks/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

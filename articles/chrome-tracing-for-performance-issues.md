@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "Chrome Tracing for Performance Issues"
-description: "Learn how to use Chrome tracing to diagnose and fix browser performance problems. A simple guide for regular users. Read our comprehensive guide to learn mor..."
-date: "2026-01-01"
-last_modified_at: "2026-03-10"
-permalink: "chrome-tracing-for-performance-issues"
+layout: post
+title: Chrome Tracing for Performance Issues
+description: Learn how to use Chrome tracing to diagnose and fix browser performance
+  problems. A simple guide for regular users. Read our comprehensive guide to learn
+  mor...
+date: '2026-01-01'
+last_modified_at: '2026-03-10'
+permalink: chrome-tracing-for-performance-issues
 ---
 If your Chrome browser has ever felt sluggish, frozen, or unresponsive, you might have searched for chrome tracing for performance issues. This is a useful technique that helps you understand what Chrome is doing behind the scenes and why it might be running slowly. While Chrome tracing sounds technical, even regular users can use it to identify what is causing their browser to slow down.
 
@@ -79,10 +81,9 @@ If you use many extensions, tracing can reveal which ones are consuming resource
 ---
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [Chrome Performance Api For Measuring Speed](/chrome-performance-api-for-measuring-speed)
-
+* [Chrome Restore Previous Session After Crash](/articles/chrome-restore-previous-session-after-crash/)
+* [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does/)
+* [Do Chrome Extensions Slow Down Your Browser](/articles/do-chrome-extensions-slow-down-your-browser/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

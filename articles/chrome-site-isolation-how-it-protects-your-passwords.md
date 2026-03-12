@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Site Isolation How It Protects Your Passwords
-description: 'Learn how Chrome Site Isolation works to keep your passwords safe and what you can do to enable it. Read our comprehensive guide to learn more and improve your '
+description: 'Learn how Chrome Site Isolation works to keep your passwords safe and
+  what you can do to enable it. Read our comprehensive guide to learn more and improve
+  your '
 date: 2026-01-15
 categories:
 - security
@@ -85,7 +87,7 @@ Chrome site isolation is one of those features that works quietly in the backgro
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome PDF Viewer Settings: Complete Customization Guide](/articles/chrome-pdf-viewer-settings/)
+* [Chrome Certificate Transparency Explained Simply](/articles/chrome-certificate-transparency-explained-simply/)
+* [Chrome Casting to TV How to Setup](/articles/chrome-casting-to-tv-how-to-setup/)
 
-- [Chrome for Substack Reading Tips](/articles/chrome-for-substack-reading-tips)
-- [Chrome Sync Paused How to Fix](/articles/chrome-sync-paused-how-to-fix)
-- [Chrome Largest Contentful Paint Improve Tips](/articles/chrome-largest-contentful-paint-improve-tips)

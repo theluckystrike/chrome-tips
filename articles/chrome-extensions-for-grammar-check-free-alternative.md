@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Grammar Check Free Alternative"
-description: "Looking for chrome extensions for grammar check free alternative? Discover the best free tools to fix spelling and grammar mistakes in your browser. Check..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-grammar-check-free-alternative"
-layout: "post"
-categories: "[writing, tips]"
-tags: "[chrome-extensions, grammar, spelling, writing, productivity, free]"
-author: "theluckystrike"
+title: Chrome Extensions for Grammar Check Free Alternative
+description: Looking for chrome extensions for grammar check free alternative? Discover
+  the best free tools to fix spelling and grammar mistakes in your browser. Check...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-grammar-check-free-alternative
+layout: post
+categories: '[writing, tips]'
+tags: '[chrome-extensions, grammar, spelling, writing, productivity, free]'
+author: theluckystrike
 ---
 # Chrome Extensions for Grammar Check Free Alternative
 
@@ -64,7 +65,7 @@ One helpful tool for managing browser performance is Tab Suspender Pro. It suspe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Text to Speech: Complete Guide for 2026](/articles/chrome-text-to-speech/)
+* [chrome enable parallel downloading](/articles/chrome-enable-parallel-downloading/)
+* [Chrome CORS Error for Regular Users](/articles/chrome-cors-error-for-regular-users/)
 
-- [Chrome Web Codec API Video Processing](/articles/chrome-web-codec-api-video-processing)
-- [Chrome Password Not Autofilling Fix](/articles/chrome-password-not-autofilling-fix)
-- [How Many Chrome Tabs Can I Have Open](/articles/how-many-chrome-tabs-can-i-have-open)

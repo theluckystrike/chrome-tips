@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Figma Companion"
-description: "Discover how Chrome Extensions For Figma Companion can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings ..."
+title: Chrome Extensions For Figma Companion
+description: Discover how Chrome Extensions For Figma Companion can transform your
+  browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings
+  ...
 date: 2026-03-09
 last_modified_at: 2026-03-11
 permalink: /articles/chrome-extensions-for-figma-companion/
@@ -62,7 +64,7 @@ Regularly review your open tabs and close anything you no longer need. It is eas
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions Causing Lag: Which One Is Slowing You Down?](/articles/chrome-extensions-causing-lag-which-one/)
+* [Chrome for Grammar Checking Extensions](/articles/chrome-for-grammar-checking-extensions/)
+* [Chrome Journeys Feature in History Explained](/articles/chrome-journeys-feature-in-history-explained/)
 
-- [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does)
-- [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app)
-- [Chrome for Omnibox Search Tricks](/articles/chrome-for-omnibox-search-tricks)

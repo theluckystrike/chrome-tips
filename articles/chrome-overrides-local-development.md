@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Overrides for Local Development
-description: Learn how to use Chrome overrides for local development. Master workspace mapping, persistent changes, CSS editing, and local file overrides to streamline yo...
+description: Learn how to use Chrome overrides for local development. Master workspace
+  mapping, persistent changes, CSS editing, and local file overrides to streamline
+  yo...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-overrides-local-development
@@ -16,8 +18,6 @@ tags:
 - workspace
 - css-editing
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-overrides-local-development
 ---
 # Chrome Overrides for Local Development
 
@@ -118,10 +118,9 @@ The key to getting the most out of Chrome overrides is understanding when and ho
 Remember that overrides are just one tool in your development toolkit. They work best when combined with proper development practices, version control, and a well-organized project structure. Embrace these features, and you will find yourself moving between design and implementation more smoothly than ever before.
 
 ## Related Articles
-- [Chrome Local Font Access API Explained](/chrome-local-font-access-api-explained)
-- [Chrome Extensions for Web Development Tools](/chrome-extensions-for-web-development-tools)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-
+* [Chrome Geolocation Override How to Test](/articles/chrome-geolocation-override-how-to-test/)
+* [Best Chrome Extensions for Researchers](/articles/best-chrome-extensions-for-researchers/)
+* [Chrome Extensions for Tree Style Tabs](/articles/chrome-extensions-for-tree-style-tabs/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

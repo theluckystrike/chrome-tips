@@ -1,13 +1,14 @@
 ---
-title: "chrome extensions for ruler measurement"
-description: "Discover the best chrome extensions for ruler measurement. Measure web elements, images, and on-screen distances easily with these handy tools. Check out..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-ruler-measurement"
-layout: "post"
-categories: "[extensions, productivity]"
-tags: "[ruler, measurement, chrome-extension, design-tools]"
-author: "theluckystrike"
+title: chrome extensions for ruler measurement
+description: Discover the best chrome extensions for ruler measurement. Measure web
+  elements, images, and on-screen distances easily with these handy tools. Check out...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-ruler-measurement
+layout: post
+categories: '[extensions, productivity]'
+tags: '[ruler, measurement, chrome-extension, design-tools]'
+author: theluckystrike
 ---
 # Chrome Extensions for Ruler Measurement
 
@@ -74,7 +75,7 @@ Remember that the most important thing is having a tool you actually use. An ext
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome for Travel Planning: Best Extensions](/articles/chrome-for-travel-planning-best-extensions/)
+* [Chrome for Focus Music Playlists Extensions](/articles/chrome-for-focus-music-playlists-extensions/)
+* [Chrome for Amazon Seller Central Tips](/articles/chrome-for-amazon-seller-central-tips/)
 
-- [Chrome Extensions for Page Zoom Per Site](/articles/chrome-extensions-for-page-zoom-per-site)
-- [Chrome vs Edge Extensions Compatibility](/articles/chrome-vs-edge-extensions-compatibility)
-- [Chrome Says Not Secure But Site Is Safe](/articles/chrome-says-not-secure-but-site-is-safe)

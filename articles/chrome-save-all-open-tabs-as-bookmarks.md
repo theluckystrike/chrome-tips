@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome save all open tabs as bookmarks
-description: Learn how to save all open tabs as bookmarks in Chrome with simple methods, keyboard shortcuts, and extensions for quick backup and organization. Read our compr
+description: Learn how to save all open tabs as bookmarks in Chrome with simple methods,
+  keyboard shortcuts, and extensions for quick backup and organization. Read our compr
 date: 2026-01-15
 categories:
 - tips
@@ -79,10 +80,9 @@ Consider creating a system for naming your bookmark folders. You might include t
 Finally, take time periodically to clean up old bookmark folders. Go through your saved tabs and remove bookmarks for pages that no longer exist or are no longer relevant. A tidy bookmarks library is more valuable than a cluttered one, and regular maintenance prevents your bookmarks from becoming an unmanageable mess.
 
 ## Related Articles
-- [Chrome Lost All My Tabs After Update Fix](/chrome-lost-all-my-tabs-update-fix)
-- [Chrome Save Open Tabs as Bookmarks All at Once](/chrome-save-open-tabs-as-bookmarks-all-at-once)
-- [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/chrome-save-webpage-as-mhtml-offline)
-
+* [Chrome Extensions for Keyword Research Free](/articles/chrome-extensions-for-keyword-research-free/)
+* [Chrome Tab From Other Device Not Showing Fix](/articles/chrome-tab-from-other-device-not-showing-fix/)
+* [Chrome Payment Autofill How to Manage Cards](/articles/chrome-payment-autofill-how-to-manage-cards/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

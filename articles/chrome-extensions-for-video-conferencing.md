@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Video Conferencing"
-description: "Discover the best chrome extensions for video conferencing to improve your calls, boost productivity, and solve common meeting problems. Read our comprehensi..."
+title: Chrome Extensions for Video Conferencing
+description: Discover the best chrome extensions for video conferencing to improve
+  your calls, boost productivity, and solve common meeting problems. Read our comprehensi...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-video-conferencing
-categories: [productivity, tips]
-tags: [chrome-extensions, video-conferencing, meetings, zoom, teams]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-video-conferencing
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- video-conferencing
+- meetings
+- zoom
+- teams
+author: theluckystrike
 ---
 # Chrome Extensions for Video Conferencing
 
@@ -98,7 +104,7 @@ The key is to approach extension selection thoughtfully. Choose tools that addre
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking//)
+* [Chrome Extensions for Hotel Deal Finder](/articles/chrome-extensions-for-hotel-deal-finder/)
+* [Chrome Family Link Integration Explained](/articles/chrome-family-link-integration-explained/)
 
-- [chrome for distraction free reading mode](/articles/chrome-for-distraction-free-reading-mode)
-- [Chrome Extensions for Microsoft Teams](/articles/chrome-extensions-for-microsoft-teams)
-- [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does)

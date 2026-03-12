@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Stop Chrome from Redirecting to HTTPS"
-description: "Chrome automatically redirects you to HTTPS? Learn why this happens and how to disable HTTPS redirect in Chrome settings. Read our comprehensive guide to lea..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "how-to-stop-chrome-from-redirecting-to-https"
-categories: "[privacy, security, settings]"
-tags: "[chrome-https, https-redirect, browser-settings, chrome-security]"
-author: "theluckystrike"
+layout: post
+title: How to Stop Chrome from Redirecting to HTTPS
+description: Chrome automatically redirects you to HTTPS? Learn why this happens and
+  how to disable HTTPS redirect in Chrome settings. Read our comprehensive guide to
+  lea...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: how-to-stop-chrome-from-redirecting-to-https
+categories: '[privacy, security, settings]'
+tags: '[chrome-https, https-redirect, browser-settings, chrome-security]'
+author: theluckystrike
 ---
 If you type a website address into Chrome and find yourself automatically redirected to a secure version, you might be wondering how to stop Chrome from redirecting to HTTPS. This behavior is built into Chrome for security reasons, but there are situations where you might need more control over when these redirects happen.
 
@@ -78,7 +80,7 @@ Taking a moment to understand these settings gives you more flexibility while ke
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.
 
 ## Related Articles
+* [Chrome Audit Page Seo How To](/articles/chrome-audit-page-seo-how-to/)
+* [Chrome Extensions for Spotify](/articles/chrome-extensions-for-spotify/)
+* [chrome for gmail productivity extensions](/articles/chrome-for-gmail-productivity-extensions/)
 
-- [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/articles/chrome-extensions-developer-mode)
-- [Chrome Extensions for Google Calendar](/articles/chrome-extensions-for-google-calendar)
-- [Chrome for Babbel Web App Tips](/articles/chrome-for-babbel-web-app-tips)

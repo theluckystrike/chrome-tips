@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome Live Captions Languages: Complete Setup Guide"
-description: "Learn how to enable and customize chrome live captions languages for accessibility. Full list of supported languages and step-by-step instructions. Check out o"
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-live-captions-languages"
-categories: [accessibility, chrome-features, tutorials]
-tags: [chrome-live-captions, accessibility, browser-features, captions]
-author: "theluckystrike"
+layout: post
+title: 'Chrome Live Captions Languages: Complete Setup Guide'
+description: Learn how to enable and customize chrome live captions languages for
+  accessibility. Full list of supported languages and step-by-step instructions. Check
+  out o
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-live-captions-languages
+categories:
+- accessibility
+- chrome-features
+- tutorials
+tags:
+- chrome-live-captions
+- accessibility
+- browser-features
+- captions
+author: theluckystrike
 ---
 # Chrome Live Captions Languages: Complete Setup Guide
 
@@ -88,10 +97,9 @@ Chrome live captions languages offer an invaluable accessibility tool for millio
 Remember to check your language settings, customize caption appearance to your liking, and explore complementary tools like Tab Suspender Pro to optimize your overall Chrome experience.
 
 ## Related Articles
-- [Chrome Live Caption How It Works](/chrome-live-caption-how-it-works)
-- [Chrome Live Captions Feature Guide](/chrome-live-captions-feature)
-- [Chrome Devtools Edit HTML Live](/chrome-devtools-edit-html-live)
-
+* [Chrome Dashlane vs 1Password Comparison](/articles//chrome-dashlane-vs-onepassword-comparison//)
+* [How to View Saved Passwords in Chrome 2026](/articles/how-to-view-saved-passwords-in-chrome-2026/)
+* [Chrome for Jira Best Extensions](/articles/chrome-for-jira-best-extensions/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

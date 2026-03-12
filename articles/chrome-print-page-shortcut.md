@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome print page shortcut
-description: Learn the chrome print page shortcut to quickly print any webpage. Simple keyboard tricks and settings explained for easy printing. Learn effective tips and ...
+description: Learn the chrome print page shortcut to quickly print any webpage. Simple
+  keyboard tricks and settings explained for easy printing. Learn effective tips and
+  ...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-print-page-shortcut
@@ -14,8 +16,6 @@ tags:
 - shortcut
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-print-page-shortcut
 ---
 # Chrome Print Page Shortcut
 
@@ -92,10 +92,9 @@ Printing from Chrome does not have to be frustrating. With these shortcuts and t
 ---
 
 ## Related Articles
-- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
-- [Chrome Bookmark Current Page Shortcut](/chrome-bookmark-current-page-shortcut)
-- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
-
+* [chrome kiosk mode how to set up](/articles/chrome-kiosk-mode-how-to-set-up/)
+* [Chrome for Focus Music Playlists Extensions](/articles/chrome-for-focus-music-playlists-extensions/)
+* [Chrome Telemetry What Data Google Collects](/articles/chrome-telemetry-what-data-google-collects/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

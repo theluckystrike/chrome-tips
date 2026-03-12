@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Tab Search Feature How to Use
-description: Learn how to use Chrome's built-in tab search feature to quickly find any open tab across all your windows. Read our comprehensive guide to learn more and impro
+description: Learn how to use Chrome's built-in tab search feature to quickly find
+  any open tab across all your windows. Read our comprehensive guide to learn more
+  and impro
 date: 2025-03-10
 categories:
 - productivity
@@ -65,7 +67,7 @@ Whether you are managing a handful of tabs or dozens at a time, Chrome's built-i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome for mouse gestures extensions](/articles/chrome-for-mouse-gestures-extensions/)
+* [Chrome for BitChute Web Player](/articles/chrome-for-bitchute-web-player/)
+* [Chrome for Reader View on Any Website](/articles/chrome-for-reader-view-on-any-website/)
 
-- [chrome zoom default change](/articles/chrome-zoom-default-change)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/articles/chrome-view-transitions-api-smooth)
-- [Chrome for Address Bar Shortcuts Tips](/articles/chrome-for-address-bar-shortcuts-tips)

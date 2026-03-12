@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Tab Sleeping vs Tab Suspending Difference
-description: Learn the difference between tab sleeping and tab suspending in Chrome, and how each affects your browser performance and memory usage. Discover more tips an
+description: Learn the difference between tab sleeping and tab suspending in Chrome,
+  and how each affects your browser performance and memory usage. Discover more tips
+  an
 date: 2026-01-15
 categories:
 - chrome
@@ -65,7 +67,7 @@ Give both methods a try and see which one fits your workflow. You might be surpr
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome DevTools Changes Panel to Track Edits](/articles//chrome-devtools-changes-panel-track-edits//)
+* [Chrome for Touchscreen Optimization Tips](/articles/chrome-for-touchscreen-optimization-tips/)
+* [Chrome Precaching vs Runtime Caching](/articles/chrome-precaching-vs-runtime-caching/)
 
-- [Chrome Compact Mode How to Enable](/articles/chrome-compact-mode-how-to-enable)
-- [Why Is Chrome Using So Much Memory](/articles/why-is-chrome-using-so-much-memory)
-- [Chrome Side Panel — How to Use It Effectively](/articles/chrome-side-panel-how-to-use)

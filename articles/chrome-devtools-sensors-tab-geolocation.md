@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "How to Use Chrome DevTools Sensors Tab for Geolocation Testing"
-description: "Learn how to use Chrome DevTools Sensors tab to test geolocation features, simulate locations, and debug location-based web apps. Explore our comprehensive ..."
+title: How to Use Chrome DevTools Sensors Tab for Geolocation Testing
+description: Learn how to use Chrome DevTools Sensors tab to test geolocation features,
+  simulate locations, and debug location-based web apps. Explore our comprehensive
+  ...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-sensors-tab-geolocation
@@ -65,7 +67,7 @@ Chrome devtools sensors tab geolocation is just one of many helpful features bui
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [How to Search Open Chrome Tabs](/articles/how-to-search-open-chrome-tabs/)
+* [chrome webrtc video call quality improvement](/articles/chrome-webrtc-video-call-quality-improvement/)
+* [Chrome for Mendeley Web Importer Tips](/articles/chrome-for-mendeley-web-importer-tips/)
 
-- [Chrome Search Engine Keeps Changing to Yahoo Fix](/articles/chrome-search-engine-keeps-changing-to-yahoo-fix)
-- [Chrome Canva Slow Loading Fix](/articles/chrome-canva-slow-loading-fix)
-- [How to Enable Parallel Downloading in Chrome for Faster Downloads](/articles/chrome-parallel-downloading-enable-speed-up)

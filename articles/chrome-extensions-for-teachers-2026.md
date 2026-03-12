@@ -1,15 +1,23 @@
 ---
 layout: post
-title: "chrome extensions for teachers 2026"
-description: "Discover the best chrome extensions for teachers in 2026 to save time, engage students, and organize your digital classroom. Read our comprehensive guide to ..."
+title: chrome extensions for teachers 2026
+description: Discover the best chrome extensions for teachers in 2026 to save time,
+  engage students, and organize your digital classroom. Read our comprehensive guide
+  to ...
 date: 2026-01-15
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-teachers-2026
-categories: [extensions, education, productivity]
-tags: [chrome-extensions, teachers, education, classroom, productivity]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-teachers-2026
+categories:
+- extensions
+- education
+- productivity
+tags:
+- chrome-extensions
+- teachers
+- education
+- classroom
+- productivity
+author: theluckystrike
 ---
 # Chrome Extensions for Teachers 2026
 
@@ -68,7 +76,7 @@ The goal is not to use every useful extension out there, but rather to build a s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization/)
+* [Chrome vs Opera GX for Gaming](/articles/chrome-vs-opera-gx-for-gaming/)
+* [Chrome Family Link Integration Explained](/articles/chrome-family-link-integration-explained/)
 
-- [chrome extensions for screen recording free](/articles/chrome-extensions-for-screen-recording-free)
-- [chrome how to allow popups for one site](/articles/chrome-how-to-allow-popups-for-one-site)
-- [Chrome for Microsoft Office Online Tips](/articles/chrome-for-microsoft-office-online-tips)

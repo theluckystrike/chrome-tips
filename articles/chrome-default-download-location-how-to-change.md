@@ -80,7 +80,7 @@ Remember that you can always change the location again if your needs change. Chr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-guide/)
+* [Chrome Extensions for Website Blocker](/articles/chrome-extensions-for-website-blocker/)
+* [Chrome Cycle Through Tabs Shortcut](/articles//chrome-cycle-through-tabs-shortcut//)
 
-- [Chrome for Address Bar Shortcuts Tips](/articles/chrome-for-address-bar-shortcuts-tips)
-- [Chrome for Android Tablet Optimization](/articles/chrome-for-android-tablet-optimization)
-- [Chrome Text to Speech Extension Best](/articles/chrome-text-to-speech-extension-best)

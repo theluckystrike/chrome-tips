@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome site search shortcut how to set up
-description: Learn how to set up site search shortcuts in Chrome for faster browsing. Quick steps to search your favorite sites instantly. Read our comprehensive guide to le
+description: Learn how to set up site search shortcuts in Chrome for faster browsing.
+  Quick steps to search your favorite sites instantly. Read our comprehensive guide
+  to le
 date: 2026-03-09
 categories:
 - productivity
@@ -74,16 +76,8 @@ Test your shortcuts immediately after setting them up. Enter your keyword follow
 Using **Tab Suspender Pro** is an excellent way to maintain a fast workflow. It automatically "hibernates" background tabs that you aren't currently viewing, freeing up **system resources**. This ensures that your **address bar shortcuts** and **URL navigation** happen instantly, without the stuttering that occurs when Chrome is overwhelmed. By keeping your browser lean, you can use as many **custom search engines** as you want without slowing down your computer.
 
 ## Related Articles
-- [Chrome Parental Controls — How to Set Up for Your Kids](/chrome-parental-controls-how-to-set-up)
-- [Chrome Kiosk Mode How To Set Up](/chrome-kiosk-mode-how-to-set-up)
-- [Chrome Tab Groups Auto Create How To Set Up](/chrome-tab-groups-auto-create-how-to-set-up)
-
+* [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web/)
+* [how to turn on chrome dark mode on any website](/articles/how-to-turn-on-chrome-dark-mode-on-any-website/)
+* [Chrome Lighthouse Audit Complete Guide](/articles/chrome-lighthouse-audit-guide/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
-
-## Related Articles
-
-- [Chrome Omnibox Search Tricks Most People Dont Know](/articles/chrome-omnibox-search-tricks-most-people-dont-know)
-- [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/articles/chrome-whatsapp-web-not-connecting-fix)
-- [How to Use Chrome DevTools Device Orientation Emulator](/articles//chrome-devtools-device-orientation-emulator/)

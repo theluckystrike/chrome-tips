@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "how to enable chrome experimental features"
-description: "Learn how to enable Chrome experimental features through flags. Step-by-step guide to access hidden Chrome settings and experimental features safely. Read ou..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "how-to-enable-chrome-experimental-features"
-categories: "[features, customization]"
-tags: "[chrome-flags, experimental-features, chrome-settings, advanced]"
-author: "theluckystrike"
+layout: post
+title: how to enable chrome experimental features
+description: Learn how to enable Chrome experimental features through flags. Step-by-step
+  guide to access hidden Chrome settings and experimental features safely. Read ou...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: how-to-enable-chrome-experimental-features
+categories: '[features, customization]'
+tags: '[chrome-flags, experimental-features, chrome-settings, advanced]'
+author: theluckystrike
 ---
 # How to Enable Chrome Experimental Features
 
@@ -84,7 +85,7 @@ Many users find a middle ground. They enable one or two features that appeal to 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Permissions API for Camera and Microphone](/articles/chrome-permissions-api-camera-microphone/)
+* [Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering](/articles/chrome-paint-holding-feature-explained/)
+* [Chrome Spellcheck Not Working? Here's How to Fix It](/articles/chrome-spellcheck-not-working-fix/)
 
-- [Chrome Third Party Cookies Blocked What It Means](/articles/chrome-third-party-cookies-blocked-what-it-means)
-- [How to Resume Failed Download in Chrome](/articles/how-to-resume-failed-download-in-chrome)
-- [chrome default browser how to set on windows](/articles//chrome-default-browser-how-to-set-on-windows/)

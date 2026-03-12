@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Text to Speech Built In Features"
-description: "Discover Chrome's built-in text to speech features that can read web pages aloud. Learn how to use them without extensions. Read our comprehensive guide to l..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-text-to-speech-built-in-features"
-categories: "[accessibility, tips]"
-tags: "[chrome, text-to-speech, accessibility, built-in-feature]"
-author: "theluckystrike"
+layout: post
+title: Chrome Text to Speech Built In Features
+description: Discover Chrome's built-in text to speech features that can read web
+  pages aloud. Learn how to use them without extensions. Read our comprehensive guide
+  to l...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-text-to-speech-built-in-features
+categories: '[accessibility, tips]'
+tags: '[chrome, text-to-speech, accessibility, built-in-feature]'
+author: theluckystrike
 ---
 # Chrome Text to Speech Built In Features
 
@@ -78,10 +80,9 @@ For people with reading difficulties or visual impairments, chrome text to speec
 ---
 
 ## Related Articles
-- [Chrome Text to Speech Extension Best](/chrome-text-to-speech-extension-best)
-- [Chrome Virus Scan Built in How to Use](/chrome-virus-scan-built-in-how-to-use)
-- [Chrome Text to Speech Built In Feature](/chrome-text-to-speech-built-in-feature)
-
+* [chrome for github copilot web setup](/articles/chrome-for-github-copilot-web-setup/)
+* [Chrome Service Workers List How to View](/articles/chrome-service-workers-list-how-to-view/)
+* [Chrome Extension for Reading Speed Tracker](/articles/chrome-extension-for-reading-speed-tracker/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

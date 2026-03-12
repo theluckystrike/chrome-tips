@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "How to Check Website Speed in Chrome"
-description: "Learn how to check website speed in Chrome using built-in tools and extensions. Find out what's slowing down your browsing and how to fix it. Read our compre..."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "how-to-check-website-speed-in-chrome"
-categories: "[performance, troubleshooting]"
-tags: "[website-speed, chrome-tools, page-loading, browser-performance]"
-author: "theluckystrike"
+layout: post
+title: How to Check Website Speed in Chrome
+description: Learn how to check website speed in Chrome using built-in tools and extensions.
+  Find out what's slowing down your browsing and how to fix it. Read our compre...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: how-to-check-website-speed-in-chrome
+categories: '[performance, troubleshooting]'
+tags: '[website-speed, chrome-tools, page-loading, browser-performance]'
+author: theluckystrike
 ---
 # How to Check Website Speed in Chrome
 
@@ -70,7 +71,7 @@ Finally, consider your internet connection. If you are on a slow connection, web
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Live Caption How It Works](/articles/chrome-live-caption-how-it-works/)
+* [Chrome Safety Check What It Does](/articles/chrome-safety-check-what-it-does/)
+* [Chrome ERR_CACHE_MISS Fix](/articles/chrome-err-cache-miss-fix/)
 
-- [Chrome for Zoom in Browser Best Settings](/articles/chrome-for-zoom-in-browser-best-settings)
-- [chrome reduce data usage on mobile](/articles/chrome-reduce-data-usage-on-mobile)
-- [chrome mutation observer api explained](/articles/chrome-mutation-observer-api-explained)

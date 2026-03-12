@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "chrome kiosk mode how to set up"
-description: "Learn how to set up chrome kiosk mode to lock your browser to a single website. Perfect for public displays, kiosks, and dedicated workstations. Check out our"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-kiosk-mode-how-to-set-up"
-categories: [browsers, tips]
-tags: [chrome, kiosk-mode, browser-settings]
-author: "theluckystrike"
+layout: post
+title: chrome kiosk mode how to set up
+description: Learn how to set up chrome kiosk mode to lock your browser to a single
+  website. Perfect for public displays, kiosks, and dedicated workstations. Check
+  out our
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-kiosk-mode-how-to-set-up
+categories:
+- browsers
+- tips
+tags:
+- chrome
+- kiosk-mode
+- browser-settings
+author: theluckystrike
 ---
 # Chrome Kiosk Mode How to Set Up
 
@@ -74,7 +81,7 @@ Finally, consider implementing network-level protections such as content filteri
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome DOMContentLoaded vs Load Event](/articles/chrome-dom-content-loaded-vs-load-event/)
+* [How to Inspect and Debug IndexedDB in Chrome: A Complete Guide](/articles/chrome-indexeddb-inspect-debug/)
+* [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location/)
 
-- [chrome extensions for pdf editing free](/articles/chrome-extensions-for-pdf-editing-free)
-- [chrome taking too long to open fix](/articles/chrome-taking-too-long-to-open-fix)
-- [Chrome: The Most Used Browser in the World — Why?](/articles/chrome-most-used-browser-in-the-world-why)

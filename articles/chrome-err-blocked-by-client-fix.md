@@ -1,13 +1,15 @@
 ---
-title: "Chrome ERR_BLOCKED_BY_CLIENT Fix"
-description: "Getting ERR_BLOCKED_BY_CLIENT in Chrome? Learn what causes it and how to fix it with simple solutions anyone can try. Check out our expert recommendations and s"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-err-blocked-by-client-fix"
-layout: "post"
-categories: "[troubleshooting, browsing]"
-tags: "[chrome-err-blocked, chrome-fix, browser-error, err-blocked-by-client]"
-author: "theluckystrike"
+title: Chrome ERR_BLOCKED_BY_CLIENT Fix
+description: Getting ERR_BLOCKED_BY_CLIENT in Chrome? Learn what causes it and how
+  to fix it with simple solutions anyone can try. Check out our expert recommendations
+  and s
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-err-blocked-by-client-fix
+layout: post
+categories: '[troubleshooting, browsing]'
+tags: '[chrome-err-blocked, chrome-fix, browser-error, err-blocked-by-client]'
+author: theluckystrike
 ---
 # Chrome ERR_BLOCKED_BY_CLIENT Fix
 
@@ -94,10 +96,9 @@ Remember that some blocking is there to protect you. Only disable blockers on si
 ---
 
 ## Related Articles
-- [Chrome ERR_CACHE_MISS Fix](/chrome-err-cache-miss-fix)
-- [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/chrome-err-ssl-protocol-error-fix)
-- [Chrome Search Engine Changed by Itself Fix](/chrome-search-engine-changed-by-itself-fix)
-
+* [Chrome Address Bar Commands You Didnt Know](/articles/chrome-address-bar-commands-you-didnt-know/)
+* [Chrome Extensions For Calendar Integration](/articles//articles/chrome-extensions-for-calendar-integration//)
+* [Best Chrome Extensions for Researchers](/articles/best-chrome-extensions-for-researchers/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

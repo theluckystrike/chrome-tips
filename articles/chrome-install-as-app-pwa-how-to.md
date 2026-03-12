@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "chrome install as app pwa how to"
-description: "Learn how to install any website as a standalone app in Chrome using PWA technology. Simple steps to create desktop shortcuts for web apps. Check out our exper"
-date: "2026-03-09"
-last_modified_at: "2026-03-11"
-permalink: "chrome-install-as-app-pwa-how-to"
-categories: [productivity, tips]
-tags: [pwa, web-apps, install-app, chrome-settings]
-author: "theluckystrike"
+layout: post
+title: chrome install as app pwa how to
+description: Learn how to install any website as a standalone app in Chrome using
+  PWA technology. Simple steps to create desktop shortcuts for web apps. Check out
+  our exper
+date: '2026-03-09'
+last_modified_at: '2026-03-11'
+permalink: chrome-install-as-app-pwa-how-to
+categories:
+- productivity
+- tips
+tags:
+- pwa
+- web-apps
+- install-app
+- chrome-settings
+author: theluckystrike
 ---
 # Chrome Install as App PWA How to
 
@@ -56,7 +64,7 @@ For those who want even more control over their browser experience, there are ex
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome for telegram web best settings](/articles/chrome-for-telegram-web-best-settings/)
+* [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable/)
+* [Chrome Vibration API: A Complete Guide for Mobile Web Developers](/articles/chrome-vibration-api-mobile-web/)
 
-- [Chrome Clean Install: What to Backup First](/articles/chrome-clean-install-what-to-backup-first)
-- [Chrome Sync Across Devices How It Works](/articles/chrome-sync-across-devices-how-it-works)
-- [chrome text scaling for low vision users](/articles/chrome-text-scaling-for-low-vision-users)

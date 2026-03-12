@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Not Secure Warning What to Do
-description: Seeing the Chrome not secure warning? Learn why it appears and what steps you can take to fix it or protect yourself. Learn effective tips and tricks to opti...
+description: Seeing the Chrome not secure warning? Learn why it appears and what steps
+  you can take to fix it or protect yourself. Learn effective tips and tricks to opti...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-not-secure-warning-what-to-do
@@ -55,7 +56,7 @@ Seeing the Chrome not secure warning does not have to be confusing or frightenin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome GPU Acceleration Gaming Settings](/articles/chrome-gpu-acceleration-gaming-settings/)
+* [Chrome Extensions for New Tab Dashboard](/articles/chrome-extensions-for-new-tab-dashboard/)
+* [Chrome Address Bar Shortcuts You Should Know](/articles/chrome-address-bar-shortcuts-you-should-know/)
 
-- [Best Chrome Setup For Graphic Designers](/articles/best-chrome-setup-for-graphic-designers)
-- [Chrome Extensions For Cookie Auto Delete](/articles//articles/chrome-extensions-for-cookie-auto-delete/)
-- [Chrome Too Many Processes Task Manager](/articles/chrome-too-many-processes-task-manager)

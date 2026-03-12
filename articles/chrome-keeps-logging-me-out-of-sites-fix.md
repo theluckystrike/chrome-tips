@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Keeps Logging Me Out of Sites Fix"
-description: "Chrome keeps logging you out of sites? Learn why this happens and how to fix it with simple steps. Check out our expert recommendations and tips to enhance you"
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-keeps-logging-me-out-of-sites-fix"
-categories: [troubleshooting, tips]
-tags: [chrome-login, logout-issue, browser-cookies, session-fix]
-author: "theluckystrike"
+layout: post
+title: Chrome Keeps Logging Me Out of Sites Fix
+description: Chrome keeps logging you out of sites? Learn why this happens and how
+  to fix it with simple steps. Check out our expert recommendations and tips to enhance
+  you
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-keeps-logging-me-out-of-sites-fix
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-login
+- logout-issue
+- browser-cookies
+- session-fix
+author: theluckystrike
 ---
 # Chrome Keeps Logging Me Out of Sites Fix
 
@@ -86,7 +94,7 @@ You might also consider whether your Chrome profile itself has become corrupted.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Redirecting to Wrong Pages Fix](/articles/chrome-redirecting-to-wrong-pages-fix/)
+* [How to Reset Chrome to Default Settings](/articles/how-to-reset-chrome-to-default-settings/)
+* [chrome for github copilot web setup](/articles/chrome-for-github-copilot-web-setup/)
 
-- [Chrome Sync Phone and Computer How to Set Up](/articles/chrome-sync-phone-and-computer-how-to-set-up)
-- [chrome for kayak price alerts extension](/articles/chrome-for-kayak-price-alerts-extension)
-- [chrome reading list vs bookmarks](/articles/chrome-reading-list-vs-bookmarks)

@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extension for Reading Mode Distraction Free"
-description: "Learn how to use Chrome extensions for reading mode to eliminate distractions and enjoy clutter-free articles while browsing. Check out our expert recommendatio"
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extension-for-reading-mode-distraction-free"
-layout: "post"
-categories: "[reading, tips]"
-tags: "[chrome-extensions, reading, browser-tools]"
-author: "theluckystrike"
+title: Chrome Extension for Reading Mode Distraction Free
+description: Learn how to use Chrome extensions for reading mode to eliminate distractions
+  and enjoy clutter-free articles while browsing. Check out our expert recommendatio
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-reading-mode-distraction-free
+layout: post
+categories: '[reading, tips]'
+tags: '[chrome-extensions, reading, browser-tools]'
+author: theluckystrike
 ---
 # Chrome Extension for Reading Mode Distraction Free
 
@@ -60,10 +61,9 @@ You do not need to install multiple extensions unless you want to. Often, one we
 The internet contains countless valuable articles and resources, but the clutter that surrounds them has made reading online a chore for many people. With the right extension in place, you can reclaim your reading time and actually enjoy the content you find online without fighting for your attention.
 
 ## Related Articles
-- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
-- [Chrome Extension for Reading Speed Tracker](/chrome-extension-for-reading-speed-tracker)
-- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
-
+* [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix/)
+* [Chrome Best Settings for Streaming Video](/articles/chrome-best-settings-for-streaming-video/)
+* [chrome playwright vs puppeteer comparison](/articles/chrome-playwright-vs-puppeteer-comparison/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

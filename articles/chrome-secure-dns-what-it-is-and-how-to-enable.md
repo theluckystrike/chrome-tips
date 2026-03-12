@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 'Chrome Secure DNS: What It Is and How to Enable'
-description: Learn what Chrome Secure DNS is, why it matters for your privacy, and how to enable it in a few simple steps. Read our comprehensive guide to learn more and imp
+description: Learn what Chrome Secure DNS is, why it matters for your privacy, and
+  how to enable it in a few simple steps. Read our comprehensive guide to learn more
+  and imp
 date: 2026-01-15
 categories:
 - privacy
@@ -81,7 +83,7 @@ Chrome Secure DNS is a simple but effective way to add a layer of privacy and se
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Web Vitals Optimization Guide](/articles/chrome-web-vitals-optimization/)
+* [Chrome for Google Sheets Tips and Tricks](/articles/chrome-for-google-sheets-tips-and-tricks/)
+* [Chrome for WhatsApp Web Tips and Tricks](/articles/chrome-for-whatsapp-web-tips-and-tricks/)
 
-- [Chrome for LinkedIn Best Extensions](/articles/chrome-for-linkedin-best-extensions)
-- [Chrome for Web3 Browsing Extensions](/articles/chrome-for-web3-browsing-extensions)
-- [Chrome Tab Management Shortcuts Cheat Sheet](/articles/chrome-tab-management-shortcuts-cheat-sheet)

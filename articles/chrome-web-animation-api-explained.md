@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "Chrome Web Animation API Explained"
-description: "Discover what the Chrome Web Animation API is, how it works, and why it makes websites feel smoother and more responsive. Read our comprehensive guide to lea..."
-date: "2026-01-01"
-last_modified_at: "2026-03-09"
-permalink: "chrome-web-animation-api-explained"
+layout: post
+title: Chrome Web Animation API Explained
+description: Discover what the Chrome Web Animation API is, how it works, and why
+  it makes websites feel smoother and more responsive. Read our comprehensive guide
+  to lea...
+date: '2026-01-01'
+last_modified_at: '2026-03-09'
+permalink: chrome-web-animation-api-explained
 ---
 If you have ever searched for "chrome web animation api explained," you might have encountered this term while exploring browser features or reading about web development. The Web Animation API is a powerful tool that makes the websites you visit feel more alive and responsive, and understanding it helps you appreciate the work that goes into creating smooth web experiences.
 
@@ -53,7 +55,7 @@ Modern web design increasingly relies on animation to guide users through interf
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Application Panel Guide](/articles/chrome-application-panel-guide/)
+* [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow/)
+* [Best Chrome Extensions for Researchers](/articles/best-chrome-extensions-for-researchers/)
 
-- [Chrome Extensions for Productivity Dashboard](/articles/chrome-extensions-for-productivity-dashboard)
-- [chrome gamepad api how to use](/articles/chrome-gamepad-api-how-to-use)
-- [Chrome Group Policy Settings Explained](/articles/chrome-group-policy-settings-explained)

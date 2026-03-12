@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Fix Slow Slack Web App in Chrome
-description: Is Slack running slowly in Chrome? Learn practical solutions to speed up Slack in your browser, from clearing cache to optimizing Chrome settings. Get your w...
+description: Is Slack running slowly in Chrome? Learn practical solutions to speed
+  up Slack in your browser, from clearing cache to optimizing Chrome settings. Get
+  your w...
 date: 2026-01-15
 categories:
 - chrome
@@ -135,10 +137,9 @@ If you've exhausted these options and Slack still feels sluggish, the desktop ap
 Try these solutions in order, and you should notice a significant improvement in Slack's responsiveness within minutes.
 
 ## Related Articles
-- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
-- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
-- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)
-
+* [Chrome Autofill Not Working Fix](/articles/chrome-autofill-not-working-fix/)
+* [Chrome Freezes When Opening New Tab Fix](/articles/chrome-freezes-when-opening-new-tab-fix/)
+* [Chrome Google Meet Integration in Browser](/articles/chrome-google-meet-integration-in-browser/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

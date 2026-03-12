@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM'
-description: Is Chrome running slow on your work computer through VPN? Discover practical fixes for computers with limited RAM and get back to productivity. Read our compreh
+description: Is Chrome running slow on your work computer through VPN? Discover practical
+  fixes for computers with limited RAM and get back to productivity. Read our compreh
 date: 2026-01-15
 categories:
 - performance
@@ -82,10 +83,9 @@ To summarize, if you are experiencing Chrome slow on work computer VPN, start by
 ---
 
 ## Related Articles
-- [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
-- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
-- [Why Is Chrome So Slow on My Computer?](/why-is-chrome-so-slow-on-my-computer)
-
+* [Chrome Location Access on Phone How to Control](/articles/chrome-location-access-on-phone-how-to-control/)
+* [Chrome for Instapaper Web Clipper](/articles/chrome-for-instapaper-web-clipper/)
+* [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking//)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

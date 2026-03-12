@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extension for Auto Fill Forms Faster"
-description: "Tired of typing the same information over and over in online forms? Learn how a chrome extension for auto fill forms faster can save you time. Check out our exp"
-date: "2025-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extension-for-auto-fill-forms-faster"
-layout: "post"
-categories: "[productivity, tips]"
-tags: "[chrome-extension, auto-fill, forms, productivity, browser-tips]"
-author: "theluckystrike"
+title: Chrome Extension for Auto Fill Forms Faster
+description: Tired of typing the same information over and over in online forms? Learn
+  how a chrome extension for auto fill forms faster can save you time. Check out our
+  exp
+date: '2025-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-auto-fill-forms-faster
+layout: post
+categories: '[productivity, tips]'
+tags: '[chrome-extension, auto-fill, forms, productivity, browser-tips]'
+author: theluckystrike
 ---
 # Chrome Extension for Auto Fill Forms Faster
 
@@ -66,10 +68,9 @@ Form filling does not have to be a tedious chore. With the right chrome extensio
 ---
 
 ## Related Articles
-- [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
-- [Chrome for Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension)
-- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
-
+* [chrome profile picture how to change](/articles/chrome-profile-picture-how-to-change/)
+* [Chrome Extension for Spotify Lyrics](/articles/chrome-extension-for-spotify-lyrics/)
+* [Chrome WebGL Not Supported Fix](/articles/chrome-webgl-not-supported-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,10 +1,11 @@
 ---
-title: "Chrome Extensions for Google Sheets"
-description: "Struggling with too many Google Sheets tabs? Learn which Chrome extensions can help you work smarter with spreadsheets. Check out our expert recommendations..."
-date: "2026-01-01"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-google-sheets"
-layout: "post"
+title: Chrome Extensions for Google Sheets
+description: Struggling with too many Google Sheets tabs? Learn which Chrome extensions
+  can help you work smarter with spreadsheets. Check out our expert recommendations...
+date: '2026-01-01'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-google-sheets
+layout: post
 ---
 Chrome extensions for Google Sheets can genuinely transform how you work with spreadsheets. If you find yourself juggling dozens of sheet tabs, struggling to keep track of important data, or wasting time on repetitive tasks, the right extension can make a real difference. Let me walk you through some common problems people face and the extensions that can help solve them.
 
@@ -53,7 +54,7 @@ Take some time to think about where you are spending the most effort. Is it find
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug/)
+* [How to Safely Work with Chromebook School Restrictions](/articles/chromebook-school-restrictions-bypass-safely/)
+* [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/articles/chrome-smooth-scrolling-enable/)
 
-- [Chrome Extensions For Email Finder](/articles//articles/chrome-extensions-for-email-finder/)
-- [Chrome Autofill Suggestions How to Delete One](/articles/chrome-autofill-suggestions-how-to-delete-one)
-- [Chrome Web Share API Explained](/articles/chrome-web-share-api-explained)

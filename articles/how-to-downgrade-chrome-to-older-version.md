@@ -1,13 +1,14 @@
 ---
-layout: "default"
-title: "How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)"
-description: "Can you roll back Chrome to a previous version? The honest answer about downgrading Chrome, the risks involved, and better alternatives. Read our comprehensi..."
-date: "2025-03-01"
-last_modified_at: "2026-03-10"
-permalink: "how-to-downgrade-chrome-to-older-version"
-categories: "[troubleshooting]"
-tags: "[chrome-downgrade, older-chrome-version, chrome-rollback, browser-version]"
-author: "theluckystrike"
+layout: default
+title: How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)
+description: Can you roll back Chrome to a previous version? The honest answer about
+  downgrading Chrome, the risks involved, and better alternatives. Read our comprehensi...
+date: '2025-03-01'
+last_modified_at: '2026-03-10'
+permalink: how-to-downgrade-chrome-to-older-version
+categories: '[troubleshooting]'
+tags: '[chrome-downgrade, older-chrome-version, chrome-rollback, browser-version]'
+author: theluckystrike
 ---
 # How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)
 
@@ -81,7 +82,7 @@ In the vast majority of cases, the desire to downgrade Chrome is a reaction to a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome GPU Process High Memory Fix](/articles/chrome-gpu-process-high-memory-fix/)
+* [Chrome Not Responding How to Force Close Safely](/articles/chrome-not-responding-how-to-force-close-safely/)
+* [Chrome Password Autofill Stopped Working: Fix It Now](/articles/chrome-password-autofill-stopped-working/)
 
-- [How to Speed Up Chrome in 5 Minutes](/articles/how-to-speed-up-chrome-in-5-minutes)
-- [chrome multi language setup how to](/articles/chrome-multi-language-setup-how-to)
-- [Chrome Mouse Cursor Lagging Fix](/articles/chrome-mouse-cursor-lagging)

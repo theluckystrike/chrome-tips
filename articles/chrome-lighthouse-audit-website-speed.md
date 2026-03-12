@@ -1,13 +1,24 @@
 ---
-layout: "default"
-title: "Chrome Lighthouse Audit for Website Speed: Complete Guide"
-description: "Learn how to use Chrome Lighthouse audit to measure and improve your website speed with detailed performance analysis and optimization tips. Check out our expe"
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "chrome-lighthouse-audit-website-speed"
-categories: [web-development, performance, chrome]
-tags: [lighthouse, chrome-devtools, performance, website-speed, page-load, optimization]
-author: "theluckystrike"
+layout: default
+title: 'Chrome Lighthouse Audit for Website Speed: Complete Guide'
+description: Learn how to use Chrome Lighthouse audit to measure and improve your
+  website speed with detailed performance analysis and optimization tips. Check out
+  our expe
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-lighthouse-audit-website-speed
+categories:
+- web-development
+- performance
+- chrome
+tags:
+- lighthouse
+- chrome-devtools
+- performance
+- website-speed
+- page-load
+- optimization
+author: theluckystrike
 ---
 # Chrome Lighthouse Audit for Website Speed: Complete Guide
 
@@ -70,10 +81,9 @@ Remember that while achieving a perfect 100 score is impressive, it is not alway
 ---
 
 ## Related Articles
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
-- [Chrome Lighthouse Audit How To Run](/chrome-lighthouse-audit-how-to-run)
-- [Chrome for Reader View on Any Website](/chrome-for-reader-view-on-any-website)
-
+* [Chrome Status Invalid Image Hash Fix](/articles/chrome-status-invalid-image-hash-fix/)
+* [chrome for price drop alert extensions](/articles/chrome-for-price-drop-alert-extensions/)
+* [Chrome for QuickBooks Online Best Settings](/articles/chrome-for-quickbooks-online-best-settings/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

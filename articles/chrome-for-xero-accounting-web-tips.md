@@ -1,13 +1,23 @@
 ---
-layout: "post"
-title: "Chrome for Xero Accounting Web Tips"
-description: "Get the most out of Xero accounting in Chrome with these practical browser tips for better workflow and performance. Check out our expert recommendations and t"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-xero-accounting-web-tips"
-categories: [productivity, browser, accounting]
-tags: [chrome, xero, accounting, browser-tips, productivity]
-author: "theluckystrike"
+layout: post
+title: Chrome for Xero Accounting Web Tips
+description: Get the most out of Xero accounting in Chrome with these practical browser
+  tips for better workflow and performance. Check out our expert recommendations and
+  t
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-xero-accounting-web-tips
+categories:
+- productivity
+- browser
+- accounting
+tags:
+- chrome
+- xero
+- accounting
+- browser-tips
+- productivity
+author: theluckystrike
 ---
 # Chrome for Xero Accounting Web Tips
 
@@ -72,7 +82,7 @@ Getting the most out of Chrome for Xero accounting web tips comes down to keepin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Devtools Security Panel Explained](/articles/chrome-devtools-security-panel-explained/)
+* [Chrome Continue Where You Left Off Not Working](/articles/chrome-continue-where-you-left-off-not-working/)
+* [Chrome Extensions For Color Palette Picker](/articles//articles/chrome-extensions-for-color-palette-picker//)
 
-- [Chrome Update Problems Fix](/articles/chrome-update-problems-fix)
-- [Chrome Homepage Changed by Itself Fix](/articles/chrome-homepage-changed-by-itself-fix)
-- [Chrome Developer Tools Making Page Slow: What You Need to Know](/articles//chrome-developer-tools-making-page-slow/)

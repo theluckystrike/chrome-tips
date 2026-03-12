@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Focus Music Playlists Extensions
-description: Discover Chrome extensions that help you create and enjoy focus music playlists for better concentration and productivity. Find out more tips on how to optim...
+description: Discover Chrome extensions that help you create and enjoy focus music
+  playlists for better concentration and productivity. Find out more tips on how to
+  optim...
 date: 2026-03-10
 categories:
 - productivity
@@ -75,7 +77,7 @@ Remember that focus music is a tool to support your goals, not a magic solution.
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Notifications Won't Stop Popping Up? Here's How to Fix It](/articles/chrome-notifications-wont-stop-popping-up/)
+* [Chrome Fetch API Complete Guide](/articles/chrome-fetch-api-complete-guide/)
+* [Do Chrome Extensions Slow Down Your Browser](/articles/do-chrome-extensions-slow-down-your-browser/)
 
-- [How to Lock Safe Search in Chrome for Children](/articles/chrome-safe-search-lock-for-children)
-- [Chrome Custom Search Engines Guide](/articles/chrome-search-engines-custom)
-- [chrome high contrast mode](/articles/chrome-high-contrast-mode)

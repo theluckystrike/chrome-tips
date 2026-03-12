@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome How to Clear DNS Cache"
-description: "Learn how to clear DNS cache in Chrome when websites won't load. Simple steps to fix connection issues and see updated site content. Check out our expert recom"
-date: "2025-02-19"
-last_modified_at: "2026-03-09"
-permalink: "chrome-how-to-clear-dns-cache"
-categories: [browser-tips, troubleshooting]
-tags: [dns, cache, connection, network, troubleshooting]
-author: "theluckystrike"
+layout: post
+title: Chrome How to Clear DNS Cache
+description: Learn how to clear DNS cache in Chrome when websites won't load. Simple
+  steps to fix connection issues and see updated site content. Check out our expert
+  recom
+date: '2025-02-19'
+last_modified_at: '2026-03-09'
+permalink: chrome-how-to-clear-dns-cache
+categories:
+- browser-tips
+- troubleshooting
+tags:
+- dns
+- cache
+- connection
+- network
+- troubleshooting
+author: theluckystrike
 ---
 # Chrome How to Clear DNS Cache
 
@@ -56,7 +65,7 @@ Regularly clearing your browser cache, keeping Chrome updated, and managing your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome extension for screenshot and annotate](/articles/chrome-extension-for-screenshot-and-annotate/)
+* [Chrome Casting to TV How to Setup](/articles/chrome-casting-to-tv-how-to-setup/)
+* [Chrome Release Schedule: How Often Does It Update](/articles/chrome-release-schedule-how-often-does-it-update/)
 
-- [Chrome Preferences File What It Contains](/articles/chrome-preferences-file-what-it-contains)
-- [Chrome Mobile Tips Save Data Usage](/articles/chrome-mobile-tips-save-data-usage)
-- [Chrome Extensions for Saving Articles Offline](/articles/chrome-extensions-for-saving-articles-offline)

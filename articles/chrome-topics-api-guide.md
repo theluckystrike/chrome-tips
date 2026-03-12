@@ -1,13 +1,14 @@
 ---
-layout: "default"
-title: "Chrome Topics API Guide"
-description: "Learn how the Chrome Topics API enables interest-based advertising while protecting user privacy. Complete guide for publishers integrating the Privacy Sandb..."
-date: "2026-01-20"
-last_modified_at: "2026-03-10"
-permalink: "chrome-topics-api-guide"
-categories: "[privacy, advertising, chrome-api]"
-tags: "[chrome-topics-api, privacy-sandbox, interest-based-ads, publishers,-floc]"
-author: "theluckystrike"
+layout: default
+title: Chrome Topics API Guide
+description: Learn how the Chrome Topics API enables interest-based advertising while
+  protecting user privacy. Complete guide for publishers integrating the Privacy Sandb...
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
+permalink: chrome-topics-api-guide
+categories: '[privacy, advertising, chrome-api]'
+tags: '[chrome-topics-api, privacy-sandbox, interest-based-ads, publishers,-floc]'
+author: theluckystrike
 ---
 # Chrome Topics API Guide: Understanding Interest-Based Advertising in Chrome
 
@@ -106,10 +107,9 @@ As you navigate this changing environment, remember that user trust is paramount
 ---
 
 ## Related Articles
-- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
-- [Chrome Notification API Guide](/chrome-notification-api-guide)
-
+* [Chrome Extensions For Blocking Distracting Websites](/articles//articles/chrome-extensions-for-blocking-distracting-websites//)
+* [Chrome for Bear Notes Web Clipper](/articles/chrome-for-bear-notes-web-clipper/)
+* [Chrome Enable Cookies for One Site How to](/articles/chrome-enable-cookies-for-one-site-how-to/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

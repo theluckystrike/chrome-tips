@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to Capture Full Page Screenshots in Chrome Using DevTools
-description: Learn how to take complete webpage screenshots using Chrome's built-in DevTools. Step-by-step guide for capturing full-length screenshots of any website.
+description: Learn how to take complete webpage screenshots using Chrome's built-in
+  DevTools. Step-by-step guide for capturing full-length screenshots of any website.
 date: 2026-01-15
 categories:
 - chrome
@@ -108,10 +109,9 @@ Chrome's built-in DevTools provide a powerful, free way to capture full-page scr
 For users with slower computers or limited RAM, consider using **Tab Suspender Pro** to manage your open tabs more efficiently. Not only will your browser run faster, but you'll also have a smoother experience when capturing screenshots of long webpages.
 
 ## Related Articles
-- [Chrome Extensions For Screenshot Full Page](/chrome-extensions-for-screenshot-full-page)
-- [Chrome Screenshot Full Page Without Extension](/chrome-screenshot-full-page-without-extension)
-- [Chrome Devtools Screenshot Full Page](/chrome-devtools-screenshot-full-page)
-
+* [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes/)
+* [chrome for any.do web app setup](/articles/chrome-for-anydo-web-app-setup/)
+* [Chrome Font Editor in DevTools Explained](/articles/chrome-font-editor-in-devtools-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

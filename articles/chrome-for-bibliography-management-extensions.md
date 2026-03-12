@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Bibliography Management Extensions
-description: Find the best Chrome for bibliography management extensions to streamline your research and citation workflow. Find out more tips on how to optimize your Chr...
+description: Find the best Chrome for bibliography management extensions to streamline
+  your research and citation workflow. Find out more tips on how to optimize your
+  Chr...
 date: 2026-03-10
 categories:
 - bibliography
@@ -84,7 +86,7 @@ The time you invest in setting up a good bibliography system will pay dividends 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome Extensions For Color Palette Generator](/articles//articles/chrome-extensions-for-color-palette-generator//)
+* [Chrome Not Enough Memory Error](/articles/chrome-not-enough-memory-error/)
+* [Chrome Not Responding Force Close and Recover](/articles/chrome-not-responding-force-close-and-recover/)
 
-- [Chrome What Technology Is Website Using](/articles/chrome-what-technology-is-website-using)
-- [Best Chrome Extensions for Researchers](/articles/best-chrome-extensions-for-researchers)
-- [Chrome Opens in Small Window Fix](/articles/chrome-opens-in-small-window-fix)

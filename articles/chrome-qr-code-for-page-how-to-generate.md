@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome QR Code for Page How to Generate
-description: Learn how to generate a QR code for any webpage in Chrome. Easy methods using extensions and built-in tools. Learn effective tips and tricks to optimize your...
+description: Learn how to generate a QR code for any webpage in Chrome. Easy methods
+  using extensions and built-in tools. Learn effective tips and tricks to optimize
+  your...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-qr-code-for-page-how-to-generate
@@ -65,10 +67,9 @@ Generating QR codes for webpages in Chrome is a useful skill that can save you t
 Take a moment to try out a QR code generator extension. Once you have it installed, you will find that creating QR codes for pages becomes second nature, and you will wonder how you managed without it.
 
 ## Related Articles
-- [How to Save Chrome Tabs for Later](/how-to-save-chrome-tabs-for-later)
-- [Chrome DNS Settings How to Change for Privacy](/chrome-dns-settings-how-to-change-for-privacy)
-- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
-
+* [Chrome Extensions for Quick Notes Sidebar](/articles/chrome-extensions-for-quick-notes-sidebar/)
+* [Chrome Extension for Email Tracking Notification](/articles/chrome-extension-for-email-tracking-notification/)
+* [How to Download All Images from a Web Page in Chrome](/articles/chrome-download-all-images-from-page-how-to/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

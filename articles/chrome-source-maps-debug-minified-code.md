@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome source maps debug minified code
-description: Learn how to use Chrome source maps to debug minified JavaScript code effectively. Step-by-step guide for developers. Read our comprehensive guide to learn more
+description: Learn how to use Chrome source maps to debug minified JavaScript code
+  effectively. Step-by-step guide for developers. Read our comprehensive guide to
+  learn more
 date: 2026-01-15
 categories:
 - development
@@ -77,10 +79,9 @@ Chrome source maps are an essential tool for any web developer working with mini
 For developers managing multiple Chrome tabs during debugging sessions, keeping track of open tabs can become overwhelming. Tab Suspender Pro helps by automatically suspending inactive tabs, which reduces memory usage and keeps your browser responsive while you focus on tracking down bugs.
 
 ## Related Articles
-- [Chrome Extensions for Code Snippet Manager](/chrome-extensions-for-code-snippet-manager)
-- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
-- [Chrome Open Source Parts Explained](/chrome-open-source-parts-explained)
-
+* [Best Chrome Extensions for Photographers](/articles/best-chrome-extensions-for-photographers/)
+* [Chrome Devtools Recorder Panel How To Use](/articles/chrome-devtools-recorder-panel-how-to-use/)
+* [Chrome Page Source How to View Explained](/articles/chrome-page-source-how-to-view-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

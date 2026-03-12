@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Screenshot Full Page Without Extension
-description: Learn how to take full page screenshots in Chrome without installing any extensions. Step-by-step guide using built-in tools. Read our comprehensive guide to le
+description: Learn how to take full page screenshots in Chrome without installing
+  any extensions. Step-by-step guide using built-in tools. Read our comprehensive
+  guide to le
 date: 2025-02-19
 categories:
 - browser-tips
@@ -110,10 +112,9 @@ The manual scrolling method works well as a backup when other methods fail or wh
 ---
 
 ## Related Articles
-- [How to Take Screenshot in Chrome Without Extension](/how-to-take-screenshot-in-chrome-without-extension)
-- [Chrome Devtools Screenshot Full Page](/chrome-devtools-screenshot-full-page)
-- [Chrome Extension Popup Page Tutorial](/chrome-extension-popup-page-tutorial)
-
+* [chrome network inspector for beginners](/articles/chrome-network-inspector-for-beginners/)
+* [Chrome Extensions for Website Archiving](/articles/chrome-extensions-for-website-archiving/)
+* [Chrome Connection Not Private Bypass Safely](/articles/chrome-connection-not-private-bypass-safely/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

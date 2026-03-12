@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Medium Best Reading Extensions
-description: Discover the best Chrome extensions for reading Medium articles comfortably, reducing eye strain and improving your reading experience. Discover more tips an
+description: Discover the best Chrome extensions for reading Medium articles comfortably,
+  reducing eye strain and improving your reading experience. Discover more tips an
 date: 2026-03-10
 categories:
 - productivity
@@ -72,7 +73,7 @@ Medium has a wealth of great articles waiting to be read. With the right Chrome 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions Causing Lag: Which One Is Slowing You Down?](/articles/chrome-extensions-causing-lag-which-one/)
+* [How to Route Chrome Tab Audio to Separate Speakers](/articles/chrome-tab-audio-routing-separate-speakers/)
+* [Why Does Chrome Get Slower With More Tabs? A Practical Guide](/articles/why-does-chrome-get-slower-with-more-tabs/)
 
-- [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change)
-- [Best Chrome Extensions for UX Designers](/articles/best-chrome-extensions-for-ux-designers)
-- [Chrome Address Bar Commands You Didnt Know](/articles/chrome-address-bar-commands-you-didnt-know)

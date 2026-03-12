@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Flexbox Debugging Guide
-description: Master Chrome DevTools Flexbox debugging with flex overlay, alignment inspection, shrink/grow analysis, and the flex inspector. Learn to fix layout issues fast.
+description: Master Chrome DevTools Flexbox debugging with flex overlay, alignment
+  inspection, shrink/grow analysis, and the flex inspector. Learn to fix layout issues
+  fast.
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-flexbox-debugging
@@ -119,7 +121,7 @@ With practice, you will develop an intuition for recognizing and fixing flexbox 
 *Built by theluckystrike — More tips at https://zovo.one*
 
 ## Related Articles
+* [how to use chrome password checkup feature](/articles/how-to-use-chrome-password-checkup-feature/)
+* [How to Stop Chrome from Eating Your RAM](/articles/how-to-stop-chrome-from-eating-ram/)
+* [Chrome OS vs Windows for Basic Use](/articles/chrome-os-vs-windows-for-basic-use/)
 
-- [Chrome Opens on Startup Windows: How to Stop](/articles/chrome-opens-on-startup-windows-how-to-stop)
-- [Chrome Live Captions Languages: Complete Setup Guide](/articles/chrome-live-captions-languages)
-- [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling)

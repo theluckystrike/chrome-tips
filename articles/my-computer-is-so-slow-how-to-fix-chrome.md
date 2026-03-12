@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "My Computer Is So Slow How to Fix Chrome"
-description: "Is your computer slow when using Chrome? Learn practical, step-by-step solutions to fix Chrome performance issues on computers with limited RAM. Read our com..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "my-computer-is-so-slow-how-to-fix-chrome"
-categories: "[performance, chrome, troubleshooting]"
-tags: "[chrome-slow, computer-slow, fix-chrome, low-ram, browser-performance]"
-author: "theluckystrike"
+layout: post
+title: My Computer Is So Slow How to Fix Chrome
+description: Is your computer slow when using Chrome? Learn practical, step-by-step
+  solutions to fix Chrome performance issues on computers with limited RAM. Read our
+  com...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: my-computer-is-so-slow-how-to-fix-chrome
+categories: '[performance, chrome, troubleshooting]'
+tags: '[chrome-slow, computer-slow, fix-chrome, low-ram, browser-performance]'
+author: theluckystrike
 ---
 # My Computer Is So Slow How to Fix Chrome
 
@@ -116,10 +118,9 @@ Fixing Chrome when your computer is slow does not require technical expertise or
 By following these steps, you can significantly improve Chrome's performance on your computer without having to search for "my computer is so slow how to fix Chrome" again. A few simple adjustments can make your browsing experience much smoother, even on a computer with limited resources.
 
 ## Related Articles
-- [Chrome Zoom Too Big How to Fix](/chrome-zoom-too-big-how-to-fix)
-- [Chrome Slow Only on My Computer Not Others: Why and How to Fix It](/chrome-slow-only-on-my-computer-not-others)
-- [Chrome Which Tab Is Using Most CPU How to Find](/chrome-which-tab-is-using-most-cpu-how-to-find)
-
+* [chrome default browser how to set on windows](/articles//chrome-default-browser-how-to-set-on-windows//)
+* [Chrome Frame Rate How to Check](/articles/chrome-frame-rate-how-to-check/)
+* [chrome extension for screenshot and annotate](/articles/chrome-extension-for-screenshot-and-annotate/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

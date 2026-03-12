@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Total Blocking Time Explained"
-description: "Learn what Chrome total blocking time is, why it matters for your browser performance, and simple steps to reduce it. Read our comprehensive guide to learn m..."
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-total-blocking-time-explained"
-categories: "[performance, chrome, browser]"
-tags: "[chrome, performance, browser, total-blocking-time]"
-author: "theluckystrike"
+layout: post
+title: Chrome Total Blocking Time Explained
+description: Learn what Chrome total blocking time is, why it matters for your browser
+  performance, and simple steps to reduce it. Read our comprehensive guide to learn
+  m...
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-total-blocking-time-explained
+categories: '[performance, chrome, browser]'
+tags: '[chrome, performance, browser, total-blocking-time]'
+author: theluckystrike
 ---
 # Chrome Total Blocking Time Explained
 
@@ -50,10 +52,9 @@ If you find that your browser still struggles despite these efforts, give Tab Su
 ---
 
 ## Related Articles
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
-- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)
-- [Chrome Sandbox Mode Explained](/chrome-sandbox-mode-explained)
-
+* [How to Set Up Parental Controls on Your Chromebook](/articles/chromebook-parental-controls-setup/)
+* [Chrome Storage Inspector How to Use](/articles/chrome-storage-inspector-how-to-use/)
+* [Chrome Iterator Helpers Explained](/articles/chrome-iterator-helpers-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

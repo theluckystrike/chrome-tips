@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for PeerTube Web Setup
-description: Learn how to optimize Chrome for watching videos on PeerTube. Setup tips for smooth video playback and better browsing. Discover more tips and tricks to opti
+description: Learn how to optimize Chrome for watching videos on PeerTube. Setup tips
+  for smooth video playback and better browsing. Discover more tips and tricks to
+  opti
 date: 2025-02-19
 categories:
 - video
@@ -68,7 +70,7 @@ Taking these steps to configure Chrome for PeerTube will give you a much better 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Storage Pressure How to Fix](/articles/chrome-storage-pressure-how-to-fix/)
+* [Chrome for edX Web App Best Settings](/articles/chrome-for-edx-web-app-best-settings/)
+* [Chrome Payment Autofill How to Manage Cards](/articles/chrome-payment-autofill-how-to-manage-cards/)
 
-- [chrome google lens integration how to use](/articles/chrome-google-lens-integration-how-to-use)
-- [Chrome Decorators JavaScript Proposal: What You Need to Know](/articles//chrome-decorators-javascript-proposal/)
-- [Chrome Web Vitals What They Mean](/articles/chrome-web-vitals-what-they-mean)

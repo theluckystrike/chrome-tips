@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Text Expander"
-description: "Learn how chrome extensions for text expander can save you hours every week by automating repetitive typing tasks. Read our comprehensive guide to learn more..."
+title: Chrome Extensions for Text Expander
+description: Learn how chrome extensions for text expander can save you hours every
+  week by automating repetitive typing tasks. Read our comprehensive guide to learn
+  more...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-text-expander
-categories: [productivity, tips]
-tags: [chrome-extensions, productivity, text-expander]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-text-expander
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- productivity
+- text-expander
+author: theluckystrike
 ---
 # Chrome Extensions for Text Expander
 
@@ -74,7 +79,7 @@ Give yourself the gift of more time and less repetitive typing. Your fingers wil
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Web Speech API Voice Commands: A Complete Guide](/articles/chrome-web-speech-api-voice-commands/)
+* [chrome default browser how to set windows mac](/articles//chrome-default-browser-how-to-set-windows-mac//)
+* [Chrome High CPU Usage Nothing Open](/articles/chrome-high-cpu-usage-nothing-open/)
 
-- [How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)](/articles/how-to-downgrade-chrome-to-older-version)
-- [Chrome Sync Phone and Computer How to Set Up](/articles/chrome-sync-phone-and-computer-how-to-set-up)
-- [Chrome JetStream Score What Is Good](/articles/chrome-jetstream-score-what-is-good)

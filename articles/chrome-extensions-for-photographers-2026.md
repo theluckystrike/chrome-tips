@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Photographers 2026"
-description: "Discover the top Chrome extensions for photographers in 2026 to boost productivity, manage tabs, and streamline your workflow. Check out our expert..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-photographers-2026"
-layout: "post"
-categories: "[productivity, extensions, photography]"
-tags: "[chrome-extensions, photography, browser, productivity, 2026]"
-author: "theluckystrike"
+title: Chrome Extensions for Photographers 2026
+description: Discover the top Chrome extensions for photographers in 2026 to boost
+  productivity, manage tabs, and streamline your workflow. Check out our expert...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-photographers-2026
+layout: post
+categories: '[productivity, extensions, photography]'
+tags: '[chrome-extensions, photography, browser, productivity, 2026]'
+author: theluckystrike
 ---
 # Chrome Extensions for Photographers 2026
 
@@ -72,7 +73,7 @@ Give each new extension a few weeks to see if it actually improves your workflow
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome for Midjourney Web Tips](/articles/chrome-for-midjourney-web-tips/)
+* [Chrome for Snapchat Web Tips](/articles/chrome-for-snapchat-web-tips/)
+* [Chrome Origin Trials What They Are](/articles/chrome-origin-trials-what-they-are/)
 
-- [Chrome for Microsoft Teams in Browser Tips](/articles/chrome-for-microsoft-teams-in-browser-tips)
-- [Chrome Dock Icon Missing Fix Mac](/articles/chrome-dock-icon-missing-fix-mac)
-- [Chrome Print Preview Taking Forever: Practical Solutions](/articles/chrome-print-preview-taking-forever)

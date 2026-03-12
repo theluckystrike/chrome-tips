@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Google Slides Presentation Tips
-description: Practical Chrome tips for smoother Google Slides presentations. Speed up your browser and work more efficiently. Discover more tips and tricks to optimize yo
+description: Practical Chrome tips for smoother Google Slides presentations. Speed
+  up your browser and work more efficiently. Discover more tips and tricks to optimize
+  yo
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-google-slides-presentation-tips
@@ -67,7 +69,7 @@ Whether you are putting together a quick update for your team or preparing a maj
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Cookie Settings for Best Privacy](/articles/chrome-cookie-settings-best-privacy/)
+* [How to Inspect and Debug WebSocket Connections in Chrome](/articles/chrome-websocket-inspect-debug/)
+* [chrome safe browsing enhanced vs standard](/articles/chrome-safe-browsing-enhanced-vs-standard/)
 
-- [Chrome Enable Cookies for One Site How to](/articles/chrome-enable-cookies-for-one-site-how-to)
-- [chrome mobile translate page automatically](/articles/chrome-mobile-translate-page-automatically)
-- [how to enable cookies in chrome](/articles/how-to-enable-cookies-in-chrome)

@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How to Close All Chrome Tabs at Once"
-description: "Learn simple methods to close all your Chrome tabs at once and regain control of your browser when tab overload strikes. Read our comprehensive guide to lear..."
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "how-to-close-all-chrome-tabs-at-once"
-categories: "[productivity, tips]"
-tags: "[tabs, chrome-tips, browser-management]"
-author: "theluckystrike"
+layout: post
+title: How to Close All Chrome Tabs at Once
+description: Learn simple methods to close all your Chrome tabs at once and regain
+  control of your browser when tab overload strikes. Read our comprehensive guide
+  to lear...
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: how-to-close-all-chrome-tabs-at-once
+categories: '[productivity, tips]'
+tags: '[tabs, chrome-tips, browser-management]'
+author: theluckystrike
 ---
 # How to Close All Chrome Tabs at Once
 
@@ -72,7 +74,7 @@ If you find yourself needing to close all your tabs frequently, consider trying 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Journeys Feature in History Explained](/articles/chrome-journeys-feature-in-history-explained/)
+* [chrome privacy sandbox what regular users should know](/articles/chrome-privacy-sandbox-what-regular-users-should-know/)
+* [Chrome for Microsoft Teams in Browser Tips](/articles/chrome-for-microsoft-teams-in-browser-tips/)
 
-- [chrome dark reader extension worth it](/articles//chrome-dark-reader-extension-worth-it/)
-- [Chrome Anti Fingerprinting Extensions Best](/articles/chrome-anti-fingerprinting-extensions-best)
-- [Chrome for Google Classroom Tips](/articles/chrome-for-google-classroom-tips)

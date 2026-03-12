@@ -80,7 +80,7 @@ Taking small, consistent steps to protect your privacy adds up over time. Using 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Ai Theme Generator How To Use](/articles/chrome-ai-theme-generator-how-to-use/)
+* [Chrome Coverage Tool Guide](/articles/chrome-coverage-tool-guide/)
+* [Chrome Address Bar Not Working Fix](/articles/chrome-address-bar-not-working-fix/)
 
-- [Chrome CSS Animations Performance Tips](/articles//chrome-css-animations-performance-tips/)
-- [Chrome Reader Mode vs Safari Reader Comparison](/articles/chrome-reader-mode-vs-safari-reader-comparison)
-- [Chrome Virtual Keyboard API for Mobile - Complete Guide](/articles/chrome-virtual-keyboard-api-mobile)

@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Text Comparison Diff Tool"
-description: "Find the best Chrome extensions for text comparison and diff tools to compare documents, code, and content easily. Read our comprehensive guide to learn more..."
+title: Chrome Extensions for Text Comparison Diff Tool
+description: Find the best Chrome extensions for text comparison and diff tools to
+  compare documents, code, and content easily. Read our comprehensive guide to learn
+  more...
 date: 2026-03-10
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-text-comparison-diff-tool
-categories: [text-comparison, tips]
-tags: [chrome-extensions, text-comparison, diff-tool]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-text-comparison-diff-tool
+categories:
+- text-comparison
+- tips
+tags:
+- chrome-extensions
+- text-comparison
+- diff-tool
+author: theluckystrike
 ---
 # Chrome Extensions for Text Comparison Diff Tool
 
@@ -72,7 +77,7 @@ Remember that these tools exist to make your life easier, not more complicated. 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
+* [Chrome for Dailymotion Web Player](/articles/chrome-for-dailymotion-web-player/)
+* [Best Way to Organize Chrome Tabs](/articles/best-way-to-organize-chrome-tabs/)
+* [Chrome Block Specific Websites Guide](/articles/chrome-block-specific-websites-guide/)
 
-- [Chrome Font Palette Customization: Complete Guide for 2026](/articles/chrome-font-palette-customization)
-- [Chrome Keeps Opening New Tabs By Itself Virus](/articles/chrome-keeps-opening-new-tabs-by-itself-virus)
-- [Chrome Malware Removal Without Antivirus](/articles/chrome-malware-removal-without-antivirus)

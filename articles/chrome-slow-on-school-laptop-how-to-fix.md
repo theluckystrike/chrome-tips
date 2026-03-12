@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Slow on School Laptop? Here's How to Fix It
-description: Is Chrome running slow on your school laptop? Discover practical solutions to speed up your browser, reduce RAM usage, and get back to studying without frust...
+description: Is Chrome running slow on your school laptop? Discover practical solutions
+  to speed up your browser, reduce RAM usage, and get back to studying without frust...
 date: 2025-02-17
 categories:
 - performance
@@ -144,10 +145,9 @@ You don't need the latest hardware to have a smooth Chrome experience. By managi
 Start with the quick fixes first, and you'll likely see immediate improvements. Your grades (and your patience) will thank you.
 
 ## Related Articles
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
-- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
-
+* [Chrome Browser Management for IT Admins](/articles/chrome-browser-management-for-it-admins/)
+* [Chrome Autocomplete Wrong Suggestions How to Fix](/articles/chrome-autocomplete-wrong-suggestions-how-to-fix/)
+* [Chrome Best Screenshot Extension 2026](/articles/chrome-best-screenshot-extension-2026/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

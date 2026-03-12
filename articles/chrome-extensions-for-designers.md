@@ -1,6 +1,8 @@
 ---
-title: "Best Chrome Extensions For Designers 2026"
-description: "Discover how Best Chrome Extensions For Designers 2026 can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and setti..."
+title: Best Chrome Extensions For Designers 2026
+description: Discover how Best Chrome Extensions For Designers 2026 can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
+  setti...
 date: 2026-01-20
 last_modified_at: 2026-03-11
 permalink: /articles/chrome-extensions-for-designers/
@@ -115,9 +117,9 @@ As you incorporate these extensions into your daily work, you will find that the
 
 Remember that the best tools are the ones that fit naturally into your workflow. Take the time to learn each extension's features and customize them to your needs. The investment in learning these tools will pay dividends in increased productivity and better design work.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 ## Related Articles
+* [Chrome Gesture Navigation on Android](/articles/chrome-gesture-navigation-on-android/)
+* [Chrome Android Tips To Save Data](/articles/chrome-android-tips-to-save-data/)
+* [Chrome Biometric Authentication for the Web](/articles/chrome-biometric-authentication-web/)
 
-- [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix)
-- [Chrome WebRTC Leak Prevention Guide](/articles/chrome-webrtc-leak-prevention-guide)
-- [Chrome Running Slow on New Laptop? Here's Why and How to Fix It](/articles/chrome-running-slow-on-new-laptop-why)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

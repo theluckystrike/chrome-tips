@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome for github best extensions
-description: Discover the best Chrome extensions for GitHub to boost your coding workflow, manage repositories, and streamline your development process. Discover more tip
+description: Discover the best Chrome extensions for GitHub to boost your coding workflow,
+  manage repositories, and streamline your development process. Discover more tip
 date: 2026-01-15
 categories:
 - extensions
@@ -62,7 +63,7 @@ Many developers find that installing even one or two well-chosen extensions make
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Whois Lookup](/articles/chrome-extensions-for-whois-lookup/)
+* [Chrome Freezes My Whole Computer](/articles/chrome-freezes-my-whole-computer/)
+* [Chrome for Travel Planning: Best Extensions](/articles/chrome-for-travel-planning-best-extensions/)
 
-- [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/articles/best-chrome-settings-for-chromebook)
-- [Should I Use Chrome or Edge in 2026?](/articles/should-i-use-chrome-or-edge-2026)
-- [Chrome Remote Debugging for Beginners](/articles/chrome-remote-debugging-for-beginners)

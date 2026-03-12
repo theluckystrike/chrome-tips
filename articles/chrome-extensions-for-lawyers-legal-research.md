@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Lawyers Legal Research"
-description: "Discover the best Chrome extensions for lawyers legal research that can help streamline your workflow and manage case information efficiently. Check out our..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-lawyers-legal-research"
-layout: "post"
-categories: "[legal, tips]"
-tags: "[chrome-extensions, lawyers, legal-research]"
-author: "theluckystrike"
+title: Chrome Extensions for Lawyers Legal Research
+description: Discover the best Chrome extensions for lawyers legal research that can
+  help streamline your workflow and manage case information efficiently. Check out
+  our...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-lawyers-legal-research
+layout: post
+categories: '[legal, tips]'
+tags: '[chrome-extensions, lawyers, legal-research]'
+author: theluckystrike
 ---
 # Chrome Extensions for Lawyers Legal Research
 
@@ -66,7 +68,7 @@ With the right extensions handling the technical details, you can devote more me
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome experimental features worth trying 2026](/articles/chrome-experimental-features-worth-trying-2026/)
+* [Chrome Web GPU API Explained](/articles/chrome-web-gpu-api-explained/)
+* [Chrome Profile Import From Another Computer](/articles/chrome-profile-import-from-another-computer/)
 
-- [Chrome Extension GDPR Compliance Guide](/articles/chrome-extension-gdpr-compliance-guide)
-- [Chrome Video Playback Stuttering Fix: A Practical Guide for Slow Computers](/articles/chrome-video-playback-stuttering-fix)
-- [Chrome Screen Wake Lock API Explained](/articles/chrome-screen-wake-lock-api-explained)

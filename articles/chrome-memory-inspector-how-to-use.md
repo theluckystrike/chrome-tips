@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "Chrome Memory Inspector How to Use"
-description: "Learn how to use Chrome Memory Inspector to find and fix memory issues that slow down your browser. Check out our expert recommendations and tips to enhance yo"
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-memory-inspector-how-to-use"
-categories: [performance, troubleshooting]
-tags: [chrome-devtools, memory, browser-tools]
-author: "theluckystrike"
+layout: post
+title: Chrome Memory Inspector How to Use
+description: Learn how to use Chrome Memory Inspector to find and fix memory issues
+  that slow down your browser. Check out our expert recommendations and tips to enhance
+  yo
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-memory-inspector-how-to-use
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-devtools
+- memory
+- browser-tools
+author: theluckystrike
 ---
 # Chrome Memory Inspector How to Use
 
@@ -86,7 +93,7 @@ Regular maintenance like closing unused tabs, keeping your extensions minimal, a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Grammar Check Free Alternative](/articles/chrome-extensions-for-grammar-check-free-alternative/)
+* [chrome web apps how to install](/articles/chrome-web-apps-how-to-install/)
+* [Chrome Default Download Location How to Change](/articles//chrome-default-download-location-how-to-change//)
 
-- [Chrome CSS Animations Performance Tips](/articles//chrome-css-animations-performance-tips/)
-- [Chrome AI Powered Search Suggestions](/articles/chrome-ai-powered-search-suggestions)
-- [Chrome Side Panel Extensions Best Ones](/articles/chrome-side-panel-extensions-best-ones)

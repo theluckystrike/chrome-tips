@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "how to use chrome password checkup feature"
-description: "Learn how to use Chrome Password Checkup to find weak, reused, or compromised passwords and keep your accounts safe. Read our comprehensive guide to learn mo..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "how-to-use-chrome-password-checkup-feature"
-categories: "[security, privacy, password]"
-tags: "[chrome-password, security, privacy, browser]"
-author: "theluckystrike"
+layout: post
+title: how to use chrome password checkup feature
+description: Learn how to use Chrome Password Checkup to find weak, reused, or compromised
+  passwords and keep your accounts safe. Read our comprehensive guide to learn mo...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: how-to-use-chrome-password-checkup-feature
+categories: '[security, privacy, password]'
+tags: '[chrome-password, security, privacy, browser]'
+author: theluckystrike
 ---
 # How to Use Chrome Password Checkup Feature
 
@@ -54,7 +55,7 @@ The important thing is to take advantage of the tools that are available to you.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [chrome for audible web player tips](/articles/chrome-for-audible-web-player-tips/)
+* [Chrome Address Bar Autocomplete Disable](/articles/chrome-address-bar-autocomplete-disable/)
+* [Chrome Cross Origin Error: What It Means and How to Fix It](/articles/chrome-cross-origin-error-what-it-means/)
 
-- [Chrome Array Groupby New Method](/articles/chrome-array-groupby-new-method)
-- [Chrome Shopping List Feature How to Use](/articles/chrome-shopping-list-feature-how-to-use)
-- [Chrome Total Blocking Time Explained](/articles/chrome-total-blocking-time-explained)

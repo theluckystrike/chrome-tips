@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Upcoming Features Preview 2026"
-description: "A friendly look at the new Chrome features arriving in 2026. Discover what's coming to make your browsing better. Read our comprehensive guide to learn more ..."
-date: "2026-01-20"
-last_modified_at: "2026-03-10"
-permalink: "chrome-upcoming-features-preview-2026"
-categories: "[chrome, browser, features]"
-tags: "[chrome-2026, browser-features, chrome-updates]"
-author: "theluckystrike"
+layout: post
+title: Chrome Upcoming Features Preview 2026
+description: A friendly look at the new Chrome features arriving in 2026. Discover
+  what's coming to make your browsing better. Read our comprehensive guide to learn
+  more ...
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
+permalink: chrome-upcoming-features-preview-2026
+categories: '[chrome, browser, features]'
+tags: '[chrome-2026, browser-features, chrome-updates]'
+author: theluckystrike
 ---
 # Chrome Upcoming Features Preview 2026
 
@@ -60,10 +62,9 @@ The address bar, also called the omnibox, is getting smarter too. It will better
 ---
 
 ## Related Articles
-- [Chrome Upcoming Features Roadmap 2026](/chrome-upcoming-features-roadmap-2026)
-- [Chrome Experimental Features Worth Trying 2026](/chrome-experimental-features-worth-trying-2026)
-- [Chrome Ai Features Built In 2026](/chrome-ai-features-built-in-2026)
-
+* [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure/)
+* [How to Check Which Chrome Tab Is Using Most Memory](/articles/how-to-check-which-chrome-tab-is-using-most-memory/)
+* [Chrome Attribution Reporting API Explained](/articles/chrome-attribution-reporting-api-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

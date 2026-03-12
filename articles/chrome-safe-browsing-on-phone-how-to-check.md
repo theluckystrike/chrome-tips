@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Safe Browsing on Phone How to Check
-description: Learn how to check if Chrome Safe Browsing is enabled on your phone to protect yourself from dangerous websites and downloads. Read our comprehensive guide to l
+description: Learn how to check if Chrome Safe Browsing is enabled on your phone to
+  protect yourself from dangerous websites and downloads. Read our comprehensive guide
+  to l
 permalink: chrome-safe-browsing-on-phone-how-to-check
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
@@ -73,7 +75,7 @@ Remember to check periodically that it has not been accidentally turned off, esp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions For Fitness Tracking](/articles//articles/chrome-extensions-for-fitness-tracking//)
+* [Chrome Search Engine Keeps Changing to Yahoo Fix](/articles/chrome-search-engine-keeps-changing-to-yahoo-fix/)
+* [Chrome Extensions for Mouse Gestures Navigation](/articles/chrome-extensions-for-mouse-gestures-navigation/)
 
-- [Chrome Remote Desktop Slow Fix](/articles/chrome-remote-desktop-slow-fix)
-- [Chrome Devtools Webauthn Debugger](/articles/chrome-devtools-webauthn-debugger)
-- [Chrome for Streamlabs Web Dashboard](/articles/chrome-for-streamlabs-web-dashboard)

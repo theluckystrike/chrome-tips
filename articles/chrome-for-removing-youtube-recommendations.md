@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Removing YouTube Recommendations
-description: Tired of YouTube recommendations distracting you? Learn how Chrome extensions can help you remove YouTube suggestions and focus on what matters. Discover mor
+description: Tired of YouTube recommendations distracting you? Learn how Chrome extensions
+  can help you remove YouTube suggestions and focus on what matters. Discover mor
 date: 2026-01-15
 categories:
 - productivity
@@ -82,7 +83,7 @@ The goal is not to remove YouTube from your life entirely, but to use it on your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Storage Pressure How to Fix](/articles/chrome-storage-pressure-how-to-fix/)
+* [Chrome Site Isolation How It Protects Your Passwords](/articles/chrome-site-isolation-how-it-protects-your-passwords/)
+* [Chrome Installer Failed to Start Fix](/articles/chrome-installer-failed-to-start-fix/)
 
-- [Chrome Notifications on Phone Too Many How to Stop](/articles/chrome-notifications-on-phone-too-many-how-to-stop)
-- [Chrome: The Most Used Browser in the World — Why?](/articles/chrome-most-used-browser-in-the-world-why)
-- [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension)

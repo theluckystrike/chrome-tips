@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Passkeys Guide 2026
-description: 'Master passkeys in Chrome 2026: learn how to create, use, and sync passkeys across devices to replace passwords with secure, frictionless authentication.'
+description: 'Master passkeys in Chrome 2026: learn how to create, use, and sync passkeys
+  across devices to replace passwords with secure, frictionless authentication.'
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-passkeys-guide-2026
@@ -16,8 +17,6 @@ tags:
 - web-authentication
 - chrome-2026
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-passkeys-guide-2026
 ---
 # Chrome Passkeys Guide 2026
 
@@ -113,9 +112,9 @@ In 2026, passkey support has reached the point where most users can realisticall
 
 ---
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 ## Related Articles
+* [Chrome Google Chat Integration in Browser](/articles/chrome-google-chat-integration-in-browser/)
+* [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management/)
+* [chrome eye dropper api pick color anywhere](/articles/chrome-eye-dropper-api-pick-color-anywhere/)
 
-- [chrome extensions for screen dimmer](/articles/chrome-extensions-for-screen-dimmer)
-- [Chrome for FreeCodeCamp Best Extensions](/articles/chrome-for-freecodecamp-best-extensions)
-- [Chrome Extensions For Color Accessibility Checker](/articles//articles/chrome-extensions-for-color-accessibility-checker/)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

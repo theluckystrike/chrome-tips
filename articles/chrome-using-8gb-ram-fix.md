@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Using 8GB RAM Fix"
-description: "Chrome eating 8GB of RAM? Learn why this happens and practical steps to reduce memory consumption on your computer. Read our comprehensive guide to learn mor..."
-date: "2025-02-28"
-last_modified_at: "2026-03-10"
-permalink: "chrome-using-8gb-ram-fix"
-categories: "[performance, troubleshooting]"
-tags: "[chrome-memory, ram-usage, chrome-8gb, memory-management]"
-author: "theluckystrike"
+layout: post
+title: Chrome Using 8GB RAM Fix
+description: Chrome eating 8GB of RAM? Learn why this happens and practical steps
+  to reduce memory consumption on your computer. Read our comprehensive guide to learn
+  mor...
+date: '2025-02-28'
+last_modified_at: '2026-03-10'
+permalink: chrome-using-8gb-ram-fix
+categories: '[performance, troubleshooting]'
+tags: '[chrome-memory, ram-usage, chrome-8gb, memory-management]'
+author: theluckystrike
 ---
 # Chrome Using 8GB RAM Fix
 
@@ -92,10 +94,9 @@ If your computer consistently runs out of memory with Chrome open, you might wan
 ---
 
 ## Related Articles
-- [Chrome This Site Cant Be Reached Fix](/chrome-this-site-cant-be-reached-fix)
-- [Chrome Using Swap Memory Fix](/chrome-using-swap-memory-fix)
-- [Chrome Using 100 Percent CPU Fix Windows](/chrome-using-100-percent-cpu-fix-windows)
-
+* [How to Turn Off Chrome Notifications Permanently](/articles/how-to-turn-off-chrome-notifications-permanently/)
+* [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization/)
+* [Chrome for Adobe Creative Cloud Web Tips](/articles/chrome-for-adobe-creative-cloud-web-tips/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

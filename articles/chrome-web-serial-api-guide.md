@@ -1,13 +1,15 @@
 ---
-layout: "default"
-title: "Chrome Web Serial API Guide"
-description: "Learn how to use the Chrome Web Serial API to connect to Arduino, microcontrollers, and serial devices directly from your browser. Complete guide covering ba..."
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "chrome-web-serial-api-guide"
-categories: "[api, development, hardware]"
-tags: "[chrome-web-serial-api, arduino, microcontroller, serial-port, baudrate, web-bluetooth, hardware]"
-author: "theluckystrike"
+layout: default
+title: Chrome Web Serial API Guide
+description: Learn how to use the Chrome Web Serial API to connect to Arduino, microcontrollers,
+  and serial devices directly from your browser. Complete guide covering ba...
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-web-serial-api-guide
+categories: '[api, development, hardware]'
+tags: '[chrome-web-serial-api, arduino, microcontroller, serial-port, baudrate, web-bluetooth,
+  hardware]'
+author: theluckystrike
 ---
 # Chrome Web Serial API Guide
 
@@ -260,10 +262,9 @@ Whether you are a web developer looking to explore hardware projects or a hardwa
 The ability to communicate with Arduino, microcontrollers, and other serial devices directly from Chrome transforms the browser from a window into the digital world into a gateway to the physical world. This capability is limited only by your imagination and the devices you choose to connect.
 
 ## Related Articles
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
-- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
-- [Chrome Web Bluetooth Api Guide](/chrome-web-bluetooth-api-guide)
-
+* [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix/)
+* [Chrome for Jira Best Extensions](/articles/chrome-for-jira-best-extensions/)
+* [Chrome Toolbar Customization Tips](/articles/chrome-toolbar-customization-tips/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

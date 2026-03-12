@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Runway ML Web App
-description: Learn how to optimize Chrome for the Runway ML web app. Get tips for better performance and smoother creative workflows. Discover more tips and tricks to opt
+description: Learn how to optimize Chrome for the Runway ML web app. Get tips for
+  better performance and smoother creative workflows. Discover more tips and tricks
+  to opt
 date: 2026-03-10
 categories:
 - productivity
@@ -64,7 +66,7 @@ Remember that browser technology and Runway ML itself continue to evolve. What w
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Google Meet Integration in Browser](/articles/chrome-google-meet-integration-in-browser/)
+* [Chrome VPN Extension Free Unlimited Best](/articles/chrome-vpn-extension-free-unlimited-best/)
+* [Chrome Web Speech API Voice Commands: A Complete Guide](/articles/chrome-web-speech-api-voice-commands/)
 
-- [Why Is Chrome Slower Than Firefox?](/articles/why-is-chrome-slower-than-firefox)
-- [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api)
-- [Chrome Tab Discard What It Means](/articles/chrome-tab-discard-what-it-means)

@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "I Have 100 Tabs Open and Chrome Is Dying: What to Do"
-description: "Chrome running slow with too many tabs? Learn practical solutions to fix a dying Chrome browser when you have dozens of tabs open. Read our comprehensive gui..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "i-have-100-tabs-open-chrome-is-dying"
-categories: "[performance, tabs, chrome-tips]"
-tags: "[chrome-tabs, chrome-slow, chrome-memory, browser-performance, chrome-tips]"
-author: "theluckystrike"
+layout: post
+title: 'I Have 100 Tabs Open and Chrome Is Dying: What to Do'
+description: Chrome running slow with too many tabs? Learn practical solutions to
+  fix a dying Chrome browser when you have dozens of tabs open. Read our comprehensive
+  gui...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: i-have-100-tabs-open-chrome-is-dying
+categories: '[performance, tabs, chrome-tips]'
+tags: '[chrome-tabs, chrome-slow, chrome-memory, browser-performance, chrome-tips]'
+author: theluckystrike
 ---
 # I Have 100 Tabs Open and Chrome Is Dying: What to Do
 
@@ -121,10 +123,9 @@ Combine that with disabling unused extensions, limiting background processes, an
 Your browser should work for you, not against you. Try these steps today, and you might be surprised at how snappy Chrome can feel—even with 100 tabs.
 
 ## Related Articles
-- [Chrome Slow With Many Tabs Open? Here's How to Fix It](/chrome-slow-with-many-tabs-open)
-- [Chrome Save All Open Tabs As Bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
-- [How to Search Open Chrome Tabs](/how-to-search-open-chrome-tabs)
-
+* [Chrome Opens on Startup Windows: How to Stop](/articles/chrome-opens-on-startup-windows-how-to-stop/)
+* [Chrome Android Dark Mode How to Enable](/articles/chrome-android-dark-mode-how-to-enable/)
+* [Chrome Permission Denied How to Fix](/articles/chrome-permission-denied-how-to-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

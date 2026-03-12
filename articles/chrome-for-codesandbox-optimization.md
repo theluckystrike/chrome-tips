@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for codesandbox optimization
-description: Learn how to optimize Chrome for CodeSandbox to reduce memory usage and improve performance while developing in your browser. Find out more tips on how to op...
+description: Learn how to optimize Chrome for CodeSandbox to reduce memory usage and
+  improve performance while developing in your browser. Find out more tips on how
+  to op...
 date: 2026-01-15
 categories:
 - productivity
@@ -64,7 +66,7 @@ The tips in this guide are meant to be practical and easy to implement. You do n
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Text Size on Phone How to Change](/articles/chrome-text-size-on-phone-how-to-change/)
+* [Chrome Open Settings Shortcut](/articles/chrome-open-settings-shortcut/)
+* [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/articles/chrome-grammarly-extension-slowing-browser/)
 
-- [How to Import Bookmarks from Firefox to Chrome](/articles/how-to-import-bookmarks-from-firefox-to-chrome)
-- [Chrome Payment Request API Guide](/articles/chrome-payment-request-api)
-- [How to Use Chrome Net Internals to Clear DNS Cache](/articles/chrome-net-internals-dns-clear-cache)

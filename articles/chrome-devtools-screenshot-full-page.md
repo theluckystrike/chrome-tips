@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Devtools Screenshot Full Page"
-description: "Learn how to take full page screenshots using Chrome DevTools. Step-by-step guide for capturing entire web pages easily. Explore our comprehensive guide to ..."
+title: Chrome Devtools Screenshot Full Page
+description: Learn how to take full page screenshots using Chrome DevTools. Step-by-step
+  guide for capturing entire web pages easily. Explore our comprehensive guide to
+  ...
 date: 2025-02-19
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-screenshot-full-page
@@ -65,7 +67,7 @@ For the best of both worlds, consider using a combination of methods. Take a scr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [Chrome Extensions for Split Screen Browsing](/articles/chrome-extensions-for-split-screen-browsing/)
+* [chrome right to left language support](/articles/chrome-right-to-left-language-support/)
+* [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms/)
 
-- [Best Chrome Extensions For Teachers Online](/articles/best-chrome-extensions-for-teachers-online)
-- [Chrome Android Slow Fix 2026](/articles/chrome-android-slow-fix-2026)
-- [Chrome Extensions for Writers and Bloggers](/articles/chrome-extensions-for-writers-and-bloggers)

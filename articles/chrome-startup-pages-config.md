@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Startup Pages Configuration
-description: Learn how to configure Chrome startup pages to customize your browsing experience. Set Chrome to continue where you left off, open specific pages, or display...
+description: Learn how to configure Chrome startup pages to customize your browsing
+  experience. Set Chrome to continue where you left off, open specific pages, or display...
 date: 2026-01-15
 categories:
 - chrome
@@ -97,7 +98,7 @@ Many users find that the best approach combines elements of these options, using
 Chrome's startup configuration is one of those settings that can have a real impact on your productivity and browsing satisfaction. By understanding your options and choosing the configuration that fits your needs, you can make Chrome work exactly the way you want it to, every single time you open the browser.
 
 ## Related Articles
+* [Chrome Audio Equalizer Extension](/articles/chrome-audio-equalizer-extension/)
+* [Chrome Safety Check What It Does](/articles/chrome-safety-check-what-it-does/)
+* [Chrome Slow on School Laptop? Here's How to Fix It](/articles/chrome-slow-on-school-laptop-how-to-fix/)
 
-- [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters)
-- [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix)
-- [Chrome Tab Discarding What It Means](/articles/chrome-tab-discarding-what-it-means)

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Tab Management Shortcuts Cheat Sheet
-description: Master Chrome tab management shortcuts to work faster, find tabs instantly, and reduce browser clutter without extensions. Read our comprehensive guide to learn
+description: Master Chrome tab management shortcuts to work faster, find tabs instantly,
+  and reduce browser clutter without extensions. Read our comprehensive guide to learn
 date: 2025-03-09
 categories:
 - productivity
@@ -74,10 +75,9 @@ While these built-in shortcuts cover most everyday needs, Chrome users who want 
 The extension handles everything in the background, so you do not need to manually manage which tabs should be active. You can customize how long to wait before suspending tabs and which sites should never be suspended. This automation takes the burden off remembering to close unused tabs while still keeping them available for quick access.
 
 ## Related Articles
-- [Chrome Tab Memory Usage Keeps Growing](/chrome-tab-memory-usage-keeps-growing)
-- [Chrome For Dual Monitor Tab Management](/chrome-for-dual-monitor-tab-management)
-- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
-
+* [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does/)
+* [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/articles/chrome-save-webpage-as-mhtml-offline/)
+* [chrome for google ads management tips](/articles/chrome-for-google-ads-management-tips/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

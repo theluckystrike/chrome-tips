@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Adobe Companion"
-description: "Looking for chrome extensions for adobe companion? Find helpful tools to enhance your Adobe workflow and boost productivity. Discover how these tools can sig..."
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-adobe-companion"
-layout: "post"
-categories: "[productivity, design]"
-tags: "[chrome-extensions, adobe, design-tools, productivity]"
-author: "theluckystrike"
+title: Chrome Extensions for Adobe Companion
+description: Looking for chrome extensions for adobe companion? Find helpful tools
+  to enhance your Adobe workflow and boost productivity. Discover how these tools
+  can sig...
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-adobe-companion
+layout: post
+categories: '[productivity, design]'
+tags: '[chrome-extensions, adobe, design-tools, productivity]'
+author: theluckystrike
 ---
 If you have been searching for chrome extensions for adobe companion tools, you probably want to make your design and editing workflow smoother and more efficient. Adobe creative software is incredibly powerful, but many users do not realize that certain browser extensions can significantly enhance their experience by adding extra features, improving organization, and speeding up common tasks.
 
@@ -74,10 +76,9 @@ Remember that not every extension will be useful for every workflow. Start with 
 ---
 
 ## Related Articles
-- [Chrome Extensions for Canva Companion](/chrome-extensions-for-canva-companion)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-
+* [Chrome Payment Request API Explained](/articles/chrome-payment-request-api-explained/)
+* [Chrome Payment Request API Guide](/articles/chrome-payment-request-api/)
+* [Chrome Block Inappropriate Content for Kids](/articles/chrome-block-inappropriate-content-for-kids/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

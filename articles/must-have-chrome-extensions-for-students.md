@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Must Have Chrome Extensions for Students"
-description: "Discover the must have chrome extensions for students that boost productivity, save time, and make studying easier. Read our comprehensive guide to learn mor..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "must-have-chrome-extensions-for-students"
-categories: "[productivity, tips]"
-tags: "[chrome-extensions, students, productivity, study-tools]"
-author: "theluckystrike"
+layout: post
+title: Must Have Chrome Extensions for Students
+description: Discover the must have chrome extensions for students that boost productivity,
+  save time, and make studying easier. Read our comprehensive guide to learn mor...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: must-have-chrome-extensions-for-students
+categories: '[productivity, tips]'
+tags: '[chrome-extensions, students, productivity, study-tools]'
+author: theluckystrike
 ---
 # Must Have Chrome Extensions for Students
 
@@ -76,7 +77,7 @@ With the right extensions, your browser becomes a powerful study tool that helps
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
+* [How to Enable Chrome Reading List](/articles/how-to-enable-chrome-reading-list/)
+* [Chrome View Page Source: What It Tells You](/articles/chrome-view-page-source-what-it-tells-you/)
+* [Chrome Mobile Tips Save Data Usage](/articles/chrome-mobile-tips-save-data-usage/)
 
-- [Chrome Downloads Not Starting Fix](/articles/chrome-downloads-not-starting-fix)
-- [Chrome Tab Groups vs Multiple Windows](/articles/chrome-tab-groups-vs-windows)
-- [chrome for tradingview best extensions](/articles/chrome-for-tradingview-best-extensions)

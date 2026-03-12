@@ -1,6 +1,7 @@
 ---
-title: "Chrome Extensions For Blue Light Filter"
-description: "Discover how Chrome Extensions For Blue Light Filter can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and setting..."
+title: Chrome Extensions For Blue Light Filter
+description: Discover how Chrome Extensions For Blue Light Filter can transform your
+  browsing. This comprehensive 2026 guide covers the best Chrome extensions and setting...
 date: 2026-03-12
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-blue-light-filter/
@@ -56,10 +57,9 @@ Taking regular breaks from screen time is important too. If possible, step away 
 Finally, consider the position of your screen. Having it at eye level or slightly below, and positioned to avoid glare from windows or lights, can reduce the strain on your eyes. Small adjustments to your workstation setup can complement the benefits you get from using a blue light filter.
 
 ## Related Articles
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-
+* [Chrome Right Click Not Working Fix](/articles/chrome-right-click-not-working-fix/)
+* [Chrome Workbox Library for Service Workers](/articles/chrome-workbox-library-for-service-workers/)
+* [How to Fix Chrome Mixed Content Warning](/articles/chrome-mixed-content-warning-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

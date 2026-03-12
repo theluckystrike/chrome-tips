@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Not Loading Pages But Internet Works: Complete Fix Guide'
-description: Chrome won't load pages despite internet working? This guide provides step-by-step solutions to fix Chrome loading issues on Windows, Mac, and Android.
+description: Chrome won't load pages despite internet working? This guide provides
+  step-by-step solutions to fix Chrome loading issues on Windows, Mac, and Android.
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-not-loading-pages-but-internet-works
@@ -15,8 +16,6 @@ tags:
 - chrome-not-working
 - internet-connection
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-not-loading-pages-but-internet-works
 ---
 # Chrome Not Loading Pages But Internet Works: Complete Fix Guide
 
@@ -155,10 +154,9 @@ Chrome not loading pages while your internet works is frustrating, but it's usua
 For most users, clearing the cache and disabling problematic extensions does the trick. If you keep many tabs open and notice Chrome getting sluggish, **Tab Suspender Pro** can help by managing your tabs more efficiently and freeing up system resources.
 
 ## Related Articles
-- [Chrome Web Store Not Loading Fix](/chrome-web-store-not-loading-fix)
-- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
-- [Chrome Lazy Loading Images How It Works](/chrome-lazy-loading-images-how-it-works)
-
+* [Chrome Media Session API for Music Players](/articles/chrome-media-session-api-for-music-players/)
+* [chrome web store not loading fix](/articles/chrome-web-store-not-loading-fix/)
+* [chrome reduce data usage on mobile](/articles/chrome-reduce-data-usage-on-mobile/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

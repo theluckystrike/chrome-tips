@@ -80,6 +80,7 @@ Also take time occasionally to clean up old bookmarks. Go through your collectio
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Storage Partitioning: What Changed and Why It Matters](/chrome-storage-partitioning-what-changed/)
-- [Chrome Extensions for Productivity Students](/chrome-extensions-for-productivity-students/)
-- [Chrome Figma Running Slow Fix: A Practical Guide](/chrome-figma-running-slow-fix/)
+
+* [Chrome vs Brave Privacy Comparison](/chrome-vs-brave-privacy-comparison)
+* [chrome extensions for similar image finder](/chrome-extensions-for-similar-image-finder)
+* [Best Chrome Extensions for Students 2026](/chrome-extensions-for-students)

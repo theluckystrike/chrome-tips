@@ -72,6 +72,7 @@ Remember to test not just on Chrome but also on other browsers that support the 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Rain Sounds Background](/chrome-for-rain-sounds-background/)
-- [Chrome Notification Permission Block All: Complete Guide](/chrome-notification-permission-block-all/)
-- [Chrome Extension for Email Tracking Notification](/chrome-extension-for-email-tracking-notification/)
+
+* [Chrome Extensions for Web Development Tools](/chrome-extensions-for-web-development-tools)
+* [One Chrome Tab Making Everything Slow: What to Do About It](/one-chrome-tab-making-everything-slow)
+* [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)

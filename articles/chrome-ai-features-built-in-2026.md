@@ -80,6 +80,7 @@ The chrome ai features built in 2026 represent a significant step forward in mak
 Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Extensions for Better YouTube Experience](/chrome-extensions-for-better-youtube-experience/)
-- [chrome first party vs third party cookies](/chrome-first-party-vs-third-party-cookies/)
-- [Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover](/chrome-anchor-positioning-css/)
+
+* [Chrome for White Noise While Working](/chrome-for-white-noise-while-working)
+* [Chrome Gmail Keyboard Shortcuts](/chrome-gmail-keyboard-shortcuts)
+* [Chrome Google Maps Slow and Laggy Fix](/chrome-google-maps-slow-and-laggy-fix)

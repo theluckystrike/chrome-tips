@@ -105,6 +105,7 @@ Each one shaves seconds off tasks you perform many times a day. Over a week, tha
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Microsoft Office Online Tips](/chrome-for-microsoft-office-online-tips/)
-- [Chrome Dock Icon Missing Fix Mac](/chrome-dock-icon-missing-fix-mac/)
-- [Chrome Audit Page Seo How To](/chrome-audit-page-seo-how-to/)
+
+* [Chrome Utility Process Explained](/chrome-utility-process-explained)
+* [Chrome Notifications How to Stop Them](/chrome-notifications-how-to-stop-them)
+* [Chrome Sync What Data Gets Synced](/chrome-sync-what-data-gets-synced)

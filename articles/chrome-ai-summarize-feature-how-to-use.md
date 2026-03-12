@@ -89,6 +89,7 @@ Remember that AI summarization is a tool to enhance your reading, not replace it
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome for Arxiv Paper Reader Extensions](/chrome-for-arxiv-paper-reader-extensions/)
-- [Chrome Address Autofill How to Manage](/chrome-address-autofill-how-to-manage/)
-- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative/)
+
+* [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
+* [chrome on raspberry pi how to install](/chrome-on-raspberry-pi-how-to-install)
+* [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)

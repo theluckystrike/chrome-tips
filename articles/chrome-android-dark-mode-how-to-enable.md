@@ -96,6 +96,7 @@ Give dark mode a try for a few days to see if it works for you. You can always s
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome For Apple Notes In Browser Workaround](/chrome-for-apple-notes-in-browser-workaround/)
-- [How to Use Chrome DevTools Device Orientation Emulator](//chrome-devtools-device-orientation-emulator//)
-- [Chrome User Agent String: What It Is and How It Works](/chrome-user-agent-string-what-it-is/)
+
+* [Chrome How to Inspect Element Beginners](/chrome-how-to-inspect-element-beginners)
+* [How to Lock Safe Search in Chrome for Children](/chrome-safe-search-lock-for-children)
+* [Chrome Opens in Small Window Fix](/chrome-opens-in-small-window-fix)

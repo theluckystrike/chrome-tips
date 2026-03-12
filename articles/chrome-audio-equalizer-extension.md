@@ -68,6 +68,7 @@ Give it a try. Install an extension, play your favorite content, and start adjus
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [chrome new tab page how to customize](/chrome-new-tab-page-how-to-customize/)
-- [Chrome Address Bar Shortcuts You Didn't Know](/chrome-address-bar-shortcuts-you-didnt-know/)
-- [chrome price drop alerts how to enable](/chrome-price-drop-alerts-how-to-enable/)
+
+* [Chrome for Facebook Best Extensions](/chrome-for-facebook-best-extensions)
+* [Chrome Restore Tabs Not Working After Update: Practical Fixes](/chrome-restore-tabs-not-working-after-update)
+* [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/should-i-switch-to-edge-for-speed)

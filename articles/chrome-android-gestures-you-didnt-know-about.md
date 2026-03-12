@@ -86,6 +86,7 @@ Chrome is constantly adding new features and gestures, so it is worth checking t
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/chrome-grammarly-extension-slowing-browser/)
-- [Chrome Extensions For Code Snippet Manager](//articles/chrome-extensions-for-code-snippet-manager//)
-- [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/chrome-smooth-scrolling-enable/)
+
+* [chrome how to enable cookies](/chrome-how-to-enable-cookies)
+* [Chrome DevTools Console Errors Meaning: A Practical Guide](//chrome-devtools-console-errors-meaning-guide/)
+* [Chrome Open Source Parts Explained](/chrome-open-source-parts-explained)

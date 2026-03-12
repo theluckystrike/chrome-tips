@@ -185,6 +185,7 @@ The ability to simulate push notifications, test background sync, and inspect ca
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Network Throttling Guide](/chrome-network-throttling-guide/)
-- [Chrome Built-In PDF Editor Guide](/chrome-pdf-editor-built-in/)
-- [Chrome Extension for Changing User Agent](/chrome-extension-for-changing-user-agent/)
+
+* [Chrome Extensions for Tab Sleeping Automatically](/chrome-extensions-for-tab-sleeping-automatically)
+* [Chrome Dashlane vs 1Password Comparison](//chrome-dashlane-vs-onepassword-comparison/)
+* [Chrome Speech Recognition API Explained](/chrome-speech-recognition-api-explained)

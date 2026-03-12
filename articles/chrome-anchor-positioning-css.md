@@ -97,6 +97,7 @@ As browser support continues to expand, learning to work with chrome anchor posi
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome vs Samsung Internet on Android](/chrome-vs-samsung-internet-on-android/)
-- [Chrome for StayFocusd Extension Guide](/chrome-for-stayfocusd-extension-guide/)
-- [Chrome Extensions For Color Palette Generator](//articles/chrome-extensions-for-color-palette-generator//)
+
+* [Chrome Dark Mode How To Enable](//chrome-dark-mode-how-to-enable/)
+* [Chrome Devtools Recorder Panel How To Use](/chrome-devtools-recorder-panel-how-to-use)
+* [Chrome Update Made It Slower? Here's How to Fix It](/chrome-update-made-it-slower-fix)

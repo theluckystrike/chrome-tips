@@ -79,6 +79,7 @@ Chrome AI tab organization feature is a useful addition to the browser that addr
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Side Panel — How to Use It Effectively](/chrome-side-panel-how-to-use/)
-- [Chrome Side Panel Extensions Best Ones](/chrome-side-panel-extensions-best-ones/)
-- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips/)
+
+* [How to Enable Chrome Site Isolation for Extra Security](/chrome-site-isolation-enable-extra-security)
+* [Chrome Using Too Much Disk Space: A Complete Guide](/chrome-using-too-much-disk-space)
+* [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)

@@ -100,6 +100,7 @@ These Chrome Android tips and tricks for 2026 cover the essentials for faster, m
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Extensions for Instapaper](/chrome-extensions-for-instapaper/)
-- [Chrome QR Code for Page How to Generate](/chrome-qr-code-for-page-how-to-generate/)
-- [How to Increase Chrome Cache Size](/chrome-cache-size-how-to-increase/)
+
+* [Chrome Extensions for Google Drive](/chrome-extensions-for-google-drive)
+* [Chrome DevTools Performance Panel Explained](/chrome-devtools-performance-panel-explained)
+* [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)

@@ -74,6 +74,7 @@ A Chrome cache that has grown too large creates noticeable slowdowns and consume
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Status Code 404 Not Found Explained](/chrome-status-code-404-not-found-explained/)
-- [Chrome Auto Dark Mode for Web Contents](/chrome-auto-dark-mode-for-web-contents/)
-- [Chrome Extensions for Web Annotation](/chrome-extensions-for-web-annotation/)
+
+* [chrome extensions for accessibility needs](/chrome-extensions-for-accessibility-needs)
+* [Chrome Remote Debugging for Beginners](/chrome-remote-debugging-for-beginners)
+* [Chrome Lite Mode Does It Still Exist](/chrome-lite-mode-does-it-still-exist)

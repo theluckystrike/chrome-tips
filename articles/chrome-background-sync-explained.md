@@ -80,6 +80,7 @@ Whether you are a casual browser or someone who relies heavily on Chrome for wor
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Tabs Keep Reloading When I Switch Back](/chrome-tabs-keep-reloading-when-i-switch-back/)
-- [Chrome Jump to Specific Tab Number Shortcut](/chrome-jump-to-specific-tab-number-shortcut/)
-- [Chrome Text to Speech Built In Features](/chrome-text-to-speech-built-in-features/)
+
+* [Chrome Vertical Tabs Enable 2026](/chrome-vertical-tabs-enable-2026)
+* [Chrome Freezes My Whole Computer](/chrome-freezes-my-whole-computer)
+* [Chrome Dark Mode on Phone How to Enable](//chrome-dark-mode-on-phone-how-to-enable/)

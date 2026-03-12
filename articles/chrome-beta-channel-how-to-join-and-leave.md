@@ -66,6 +66,7 @@ Switching between Chrome channels is easier than you might think, and now you kn
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Slower After macOS Update Fix](/chrome-slower-after-macos-update-fix/)
-- [How to Pin a Website in Chrome Taskbar](/how-to-pin-a-website-in-chrome-taskbar/)
-- [Chrome WebAuthn Passwordless Login](/chrome-webauthn-passwordless-login/)
+
+* [Chrome Guest Mode vs Incognito Mode: What's the Difference?](/chrome-guest-mode-vs-incognito-difference)
+* [Chrome Flexbox Inspector How to Use](/chrome-flexbox-inspector-how-to-use)
+* [Chrome Screen Recording in Browser How To](/chrome-screen-recording-in-browser-how-to)

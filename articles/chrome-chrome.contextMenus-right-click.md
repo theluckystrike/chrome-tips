@@ -6,7 +6,7 @@ date: 2025-01-15
 categories: [extensions, development]
 tags: [chrome-extension, context-menus, right-click, developer]
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 ---
 # How to Create Custom Right-Click Context Menus in Chrome Extensions
 
@@ -83,6 +83,7 @@ Start with simple menu items that solve a clear user problem, then expand functi
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer/)
-- [Chrome DevTools Workspaces Guide](/chrome-workspaces-guide/)
-- [Why Does Chrome Open So Many Processes](/why-does-chrome-open-so-many-processes/)
+
+* [Chrome Figma Running Slow Fix: A Practical Guide](/chrome-figma-running-slow-fix)
+* [Chrome Extensions For Diigo](//articles/chrome-extensions-for-diigo/)
+* [Chrome Web Vitals What They Mean](/chrome-web-vitals-what-they-mean)

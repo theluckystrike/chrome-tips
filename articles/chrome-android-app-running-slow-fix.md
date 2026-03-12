@@ -142,6 +142,7 @@ These changes together can make Chrome feel significantly faster, even on older 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*
 
 ## Related Articles
-- [Chrome for LeechBlock Setup and Tips](/chrome-for-leechblock-setup-and-tips/)
-- [chrome safe search how to force enable](/chrome-safe-search-how-to-force-enable/)
-- [Chrome Tabs Keep Reloading When I Switch Back](/chrome-tabs-keep-reloading-when-i-switch-back/)
+
+* [Chrome Aspect Ratio CSS Property](/chrome-aspect-ratio-css-property)
+* [chromebook touchscreen not working fix](/chromebook-touchscreen-not-working-fix)
+* [Chrome Text to Speech: Complete Guide for 2026](/chrome-text-to-speech)

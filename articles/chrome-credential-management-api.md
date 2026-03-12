@@ -2,13 +2,13 @@
 title: "Chrome Credential Management API: Complete Guide for Developers"
 description: "Learn how to implement the Chrome Credential Management API for secure password storage, automatic login, and seamless user authentication in your web applic..."
 date: "2026-03-11"
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: "chrome-credential-management-api"
 layout: post
 categories: ['development', 'security', 'authentication']
 tags: ['chrome-credential-management-api', 'web-authentication', 'passwords', 'security', 'browsers', 'api']
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-credential-management-api
 ---
 # Chrome Credential Management API: Complete Guide for Developers
@@ -139,3 +139,9 @@ Remember to always prioritize security, provide appropriate fallbacks for unsupp
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [chrome site search shortcut how to set up](/chrome-site-search-shortcut-how-to-set-up)
+* [Chrome for Accessibility Testing Extensions](/chrome-for-accessibility-testing-extensions)
+* [Chrome Deep Linking and Universal Links Guide](/chrome-deep-linking-universal-links-guide)

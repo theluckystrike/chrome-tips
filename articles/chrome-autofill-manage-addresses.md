@@ -110,6 +110,7 @@ Take a few minutes to review your current saved addresses, remove anything outda
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome for Perplexity AI Best Settings](/chrome-for-perplexity-ai-best-settings/)
-- [Chrome Speed Comparison Test How to Run](/chrome-speed-comparison-test-how-to-run/)
-- [How to Use Chrome Task Manager to Find Heavy Tabs](/chrome-task-manager-find-heavy-tabs/)
+
+* [Chrome Blurry Text Fix Windows](/chrome-blurry-text-fix-windows)
+* [Chrome AI Powered Search Suggestions](/chrome-ai-powered-search-suggestions)
+* [How to Set Homepage on Chrome](/how-to-set-homepage-on-chrome)

@@ -3,7 +3,7 @@ layout: "post"
 title: "Chrome Cast Tab to TV Not Working Fix"
 description: "Chrome cast tab to TV not working can be frustrating. Learn why it happens and follow simple steps to get your casting working again. Check out our expert guide"
 date: "2025-03-09"
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: "chrome-cast-tab-to-tv-not-working-fix"
 categories: [troubleshooting, tips]
 tags: [chrome-cast, cast-tab-to-tv, chrome-not-working, casting-fix, tv-streaming]
@@ -86,6 +86,7 @@ Casting from Chrome to your TV is incredibly useful when it works, and most of t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Contact Picker API Explained](/chrome-contact-picker-api-explained/)
-- [Chrome Extensions for Binaural Beats](/chrome-extensions-for-binaural-beats/)
-- [Chrome Extension for Taking Notes While Browsing](/chrome-extension-for-taking-notes-while-browsing/)
+
+* [Chrome Spotify Web Player Not Working Fix](/chrome-spotify-web-player-not-working-fix)
+* [Chrome Layers Panel Guide](/chrome-layers-panel-guide)
+* [Chrome Media Keys Not Working Fix](/chrome-media-keys-not-working-fix)

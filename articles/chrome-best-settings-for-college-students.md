@@ -98,6 +98,7 @@ Making these adjustments takes about ten minutes but pays off every time you ope
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Bibliography Management](/chrome-extensions-for-bibliography-management/)
-- [Chrome Extensions for Research Papers](/chrome-extensions-for-research-papers/)
-- [chrome shared storage api privacy impact](/chrome-shared-storage-api-privacy-impact/)
+
+* [Chrome View Source Shortcut](/chrome-view-source-shortcut)
+* [Chrome Developer Mode Extensions Guide](//chrome-developer-mode-extensions/)
+* [Chrome Built in Password Checkup How to Use](/chrome-built-in-password-checkup-how-to-use)

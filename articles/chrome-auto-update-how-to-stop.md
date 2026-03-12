@@ -72,6 +72,7 @@ One common reason people want to stop Chrome updates is that new browser version
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Layers Panel 3D View Explained](/chrome-layers-panel-3d-view-explained/)
-- [Chrome Dark Mode on Phone How to Enable](//chrome-dark-mode-on-phone-how-to-enable//)
-- [Chrome Performance Observer API Explained](/chrome-performance-observer-api-explained/)
+
+* [Best Chrome Extensions for Content Creators](/best-chrome-extensions-for-content-creators)
+* [Chrome DevTools Workspaces Guide](/chrome-workspaces-guide)
+* [Chrome Extensions For Color Palette Picker](//articles/chrome-extensions-for-color-palette-picker/)

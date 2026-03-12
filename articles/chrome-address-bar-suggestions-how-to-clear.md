@@ -100,6 +100,7 @@ Whether you are trying to hide a specific site or simply want to clean up a clut
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Extensions for Auto Refresh Page](/chrome-extensions-for-auto-refresh-page/)
-- [How to Change Default Download Location Chrome](/how-to-change-default-download-location-chrome/)
-- [How to Share Chrome with Family Safely](/how-to-share-chrome-with-family-safely/)
+
+* [Chrome Extensions for Google Sheets](/chrome-extensions-for-google-sheets)
+* [Chrome for Dailymotion Web Player](/chrome-for-dailymotion-web-player)
+* [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)

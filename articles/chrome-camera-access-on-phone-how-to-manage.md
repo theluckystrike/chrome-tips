@@ -3,7 +3,7 @@ layout: "post"
 title: "Chrome Camera Access on Phone How to Manage"
 description: "Learn how to manage camera access in Chrome on your phone. Simple steps to control permissions and protect your privacy. Check out our expert guide for step-by-"
 date: "2025-03-10"
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: "chrome-camera-access-on-phone-how-to-manage"
 categories: [troubleshooting, tips]
 tags: [chrome-camera, chrome-mobile, permissions, privacy, camera-access]
@@ -72,6 +72,7 @@ Regularly checking your camera permissions is a simple habit that goes a long wa
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [chrome for telegram web best settings](/chrome-for-telegram-web-best-settings/)
-- [Chrome Best Ad Blocker 2026](/chrome-best-ad-blocker-2026/)
-- [Chrome Extensions for Reverse Video Search](/chrome-extensions-for-reverse-video-search/)
+
+* [Chrome Trust Tokens Explained](/chrome-trust-tokens-guide)
+* [How to Add Chrome Shortcut to Desktop](/how-to-add-chrome-shortcut-to-desktop)
+* [Best Chrome Extensions for Twitch Streamers](/best-chrome-extensions-for-twitch-streamers)

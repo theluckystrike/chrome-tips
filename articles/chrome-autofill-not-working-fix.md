@@ -94,6 +94,7 @@ Every few months, take a moment to review and update your saved autofill informa
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [chrome extensions for screen recording free](/chrome-extensions-for-screen-recording-free/)
-- [Chrome Time to First Byte Explained](/chrome-time-to-first-byte-explained/)
-- [Chrome Process Per Tab: How to Disable It to Save Memory](/chrome-process-per-tab-disable-to-save-memory/)
+
+* [Chrome for Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)
+* [Chrome Developer Tools Shortcut](//chrome-developer-tools-shortcut/)
+* [Chrome Shopping List Feature How to Use](/chrome-shopping-list-feature-how-to-use)

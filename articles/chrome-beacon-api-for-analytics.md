@@ -65,6 +65,7 @@ For users who are concerned about privacy, there are steps you can take to limit
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Accessibility Tree Guide](/chrome-accessibility-tree-guide/)
-- [How to Limit Chrome Memory Usage on Windows](/how-to-limit-chrome-memory-usage-windows/)
-- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on/)
+
+* [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
+* [Chrome for Netflix Best Quality Settings](/chrome-for-netflix-best-quality-settings)
+* [Chrome Permissions Policy Header Explained](/chrome-permissions-policy-header-explained)

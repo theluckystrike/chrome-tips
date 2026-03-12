@@ -60,6 +60,7 @@ The internet will never be perfect, and connection drops will happen. But with t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Lite Mode Does It Still Exist](/chrome-lite-mode-does-it-still-exist/)
-- [Chrome Address Bar Autocomplete How to Clear](/chrome-address-bar-autocomplete-how-to-clear/)
-- [How to Download All Images from a Web Page in Chrome](/chrome-download-all-images-from-page-how-to/)
+
+* [Chrome Font Editor in DevTools Explained](/chrome-font-editor-in-devtools-explained)
+* [Chrome for Instapaper Web Clipper](/chrome-for-instapaper-web-clipper)
+* [Chrome HTTPS First Mode Guide](/chrome-https-first-mode)

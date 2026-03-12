@@ -3,7 +3,7 @@ layout: "post"
 title: "How to Increase Chrome Cache Size"
 description: "Learn how to increase Chrome cache size to speed up browsing. Simple steps to manage cache settings and improve performance. Check out our expert guide for step"
 date: "2025-02-19"
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: "chrome-cache-size-how-to-increase"
 categories: [performance]
 tags: [chrome-cache, browser-optimization, storage]
@@ -68,6 +68,7 @@ Pairing these adjustments with good tab management habits creates a better overa
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Browser Management for IT Admins](/chrome-browser-management-for-it-admins/)
-- [Chrome for NFT Browsing Extensions](/chrome-for-nft-browsing-extensions/)
-- [Chrome Tab Color Coding How to Use](/chrome-tab-color-coding-how-to-use/)
+
+* [Chrome Extensions for Whois Lookup](/chrome-extensions-for-whois-lookup)
+* [Chrome Security Checkup How to Run](/chrome-security-checkup-how-to-run)
+* [chrome classroom integration tips for teachers](/chrome-classroom-integration-tips-for-teachers)

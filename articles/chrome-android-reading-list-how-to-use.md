@@ -100,6 +100,7 @@ Give it a try with a few articles today. Once you get comfortable with how chrom
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side/)
-- [chrome voice typing in google docs](/chrome-voice-typing-in-google-docs/)
-- [chrome pwa storage quota how much space](/chrome-pwa-storage-quota-how-much-space/)
+
+* [Chrome Using Too Much Disk Space: A Complete Guide](/chrome-using-too-much-disk-space)
+* [chrome privacy settings complete guide 2026](/chrome-privacy-settings-complete-guide-2026)
+* [How Many Chrome Extensions Is Too Many](/how-many-chrome-extensions-is-too-many)

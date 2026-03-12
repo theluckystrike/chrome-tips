@@ -94,6 +94,7 @@ For those interested in deeper customization, Chrome Web Store offers numerous t
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome for HubSpot CRM in Browser](/chrome-for-hubspot-crm-in-browser/)
-- [Chrome Keyboard Shortcuts for Beginners](/chrome-keyboard-shortcuts-for-beginners/)
-- [chrome keyboard shortcuts complete list 2026](/chrome-keyboard-shortcuts-complete-list-2026/)
+
+* [Chrome Installer Failed to Start Fix](/chrome-installer-failed-to-start-fix)
+* [How to Make Chrome Use Less Battery on MacBook](/how-to-make-chrome-use-less-battery-macbook)
+* [chrome proxy settings how to configure](/chrome-proxy-settings-how-to-configure)

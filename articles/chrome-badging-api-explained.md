@@ -73,6 +73,7 @@ Using tools like this, along with understanding how features like the Badging AP
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative/)
-- [Chrome Credential Manager Autofill Explained](/chrome-credential-manager-autofill-explained/)
-- [Chrome Tab Limit: Is There a Maximum?](/chrome-tab-limit-is-there-a-maximum/)
+
+* [Chrome Web Storage Limits Explained](/chrome-web-storage-limits-explained)
+* [Chrome Wont Install on Windows 11 Fix](/chrome-wont-install-on-windows-11-fix)
+* [How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost](/chrome-err-connection-refused-localhost-fix)

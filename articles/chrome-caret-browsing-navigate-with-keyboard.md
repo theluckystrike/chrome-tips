@@ -6,7 +6,7 @@ date: 2026-01-15
 categories: [tips, navigation]
 tags: [chrome, caret-browsing, keyboard, navigation, productivity]
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 ---
 # Chrome Caret Browsing: Navigate with Keyboard
 
@@ -85,6 +85,7 @@ Experiment with different shortcuts to find the combinations that work best for 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Tabs Flickering and Glitching Fix](/chrome-tabs-flickering-and-glitching/)
-- [Chrome Lagging on Android Phone Fix](/chrome-lagging-on-android-phone-fix/)
-- [chrome pi hole vs browser ad blocker comparison](/chrome-pi-hole-vs-browser-ad-blocker-comparison/)
+
+* [Chrome Service Worker Debugging Guide](/chrome-service-worker-debugging)
+* [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+* [Why Does Opening Chrome Slow Down Everything](/why-does-opening-chrome-slow-down-everything)

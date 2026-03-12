@@ -82,6 +82,7 @@ Regular maintenance matters more than chasing the highest possible numbers. Keep
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [chrome topics api privacy sandbox explained](/chrome-topics-api-privacy-sandbox-explained/)
-- [Chrome Keyboard Shortcuts for Power Users](/chrome-keyboard-shortcuts-for-power-users/)
-- [Chrome Default Download Location How to Change](//chrome-default-download-location-how-to-change//)
+
+* [Chrome for Microsoft Teams Web Optimization](/chrome-for-microsoft-teams-web-optimization)
+* [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+* [Chrome Touchpad Gestures Not Working Fix](/chrome-touchpad-gestures-not-working-fix)

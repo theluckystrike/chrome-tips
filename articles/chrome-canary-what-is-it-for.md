@@ -3,7 +3,7 @@ layout: "post"
 title: "Chrome Canary What Is It For"
 description: "Chrome Canary is Google's experimental browser version with early features. Learn what it does, who should use it, and if it is right for you. Check out our exp"
 date: "2026-03-10"
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: "chrome-canary-what-is-it-for"
 categories: [features, browser-setup]
 tags: [chrome-canary, chrome-beta, chrome-dev, browser-channels]
@@ -60,6 +60,7 @@ If you are curious about what Google is building next for Chrome, downloading Ca
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Multiple Profiles Setup: Complete Guide for 2026](/chrome-multiple-profiles-setup/)
-- [Chrome Emulate Print Media How To](/chrome-emulate-print-media-how-to/)
-- [Chrome Overrides for Local Development](/chrome-overrides-local-development/)
+
+* [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/chrome-autofill-wrong-address-keeps-appearing)
+* [Chrome Memory Saver Feature Explained](/chrome-memory-saver-feature-explained)
+* [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)

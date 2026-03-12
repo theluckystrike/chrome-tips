@@ -82,6 +82,7 @@ Consider limiting the number of open tabs. Each tab consumes memory, and having 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Best Settings For Slow Internet](/chrome-best-settings-for-slow-internet/)
-- [Chrome Extensions for Tab Previewer Hover](/chrome-extensions-for-tab-previewer-hover/)
-- [Chrome Safe Browsing: What It Does and How It Protects You](/chrome-safe-browsing-what-it-does/)
+
+* [Chrome Speculation Rules Prefetch: A Complete Guide](/chrome-speculation-rules-prefetch)
+* [Chrome Best Ad Blocker 2026](/chrome-best-ad-blocker-2026)
+* [Best Chrome Extensions for Project Managers](/best-chrome-extensions-for-project-managers)

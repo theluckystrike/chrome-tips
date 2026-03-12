@@ -87,6 +87,7 @@ Remember that these tools are designed to support you, not to do all the work fo
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Extensions For Email Tracking Read Receipts](//articles/chrome-extensions-for-email-tracking-read-receipts//)
-- [Chrome for Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension/)
-- [Chrome Cookie Settings 2026 Guide](/chrome-cookie-settings-2026/)
+
+* [How to Find Chrome Extensions That Slow Down Browser](/how-to-find-chrome-extensions-that-slow-down-browser)
+* [Chrome Live Captions How to Enable](/chrome-live-captions-how-to-enable)
+* [chrome upcoming features roadmap 2026](/chrome-upcoming-features-roadmap-2026)

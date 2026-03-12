@@ -83,6 +83,7 @@ You can also export your bookmarks to a file as a backup. Go to Bookmarks, then 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Toolbar Missing Fix](/chrome-toolbar-missing-fix/)
-- [Chrome Version History: Major Changes You Should Know About](/chrome-version-history-major-changes/)
-- [Chrome chrome.alarms API for Scheduled Tasks](//articles/chrome-chrome.alarms-scheduled-tasks//)
+
+* [Chrome Extensions for Session Saver Restore](/chrome-extensions-for-session-saver-restore)
+* [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/chrome-whatsapp-web-not-connecting-fix)
+* [Chrome PWA Install Prompt Not Showing Fix](/chrome-pwa-install-prompt-not-showing-fix)

@@ -78,6 +78,7 @@ Learning how to allow popups for one site in Chrome is a useful skill that gives
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Service Worker What It Does Explained](/chrome-service-worker-what-it-does-explained/)
-- [Chrome Status Code 403 Forbidden Explained](/chrome-status-code-403-forbidden-explained/)
-- [chrome browser process vs tab process explained](/chrome-browser-process-vs-tab-process-explained/)
+
+* [Chrome Extension for Managing Multiple Email Accounts](/chrome-extension-for-managing-multiple-email-accounts)
+* [how to enable chrome experimental features](/how-to-enable-chrome-experimental-features)
+* [Chrome DevTools CSS Overview Panel](//chrome-devtools-css-overview-panel/)

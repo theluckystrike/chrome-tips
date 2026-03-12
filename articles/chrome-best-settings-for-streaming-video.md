@@ -73,6 +73,7 @@ Streaming should be enjoyable, not frustrating. With a few tweaks to Chrome's se
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side/)
-- [Chrome Browser vs App Which Uses More Data](/chrome-browser-vs-app-which-uses-more-data/)
-- [chrome for google finance tips](/chrome-for-google-finance-tips/)
+
+* [Chrome Scroll Not Smooth Fix](/chrome-scroll-not-smooth-fix)
+* [Chrome Navigator Sendbeacon Explained](/chrome-navigator-sendbeacon-explained)
+* [Chrome Reset vs Reinstall: Which Is Better?](/chrome-reset-vs-reinstall-which-is-better)

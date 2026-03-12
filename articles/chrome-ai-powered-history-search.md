@@ -84,6 +84,7 @@ The key is understanding that standard Chrome search has limits. By recognizing 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Resize Observer API Explained](/chrome-resize-observer-api-explained/)
-- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11/)
-- [Chrome Status Code 404 Not Found Explained](/chrome-status-code-404-not-found-explained/)
+
+* [Chrome Extensions For Cookie Editor Manager](//articles/chrome-extensions-for-cookie-editor-manager/)
+* [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/chrome-extension-using-too-much-memory-find)
+* [chrome pwa offline capability how it works](/chrome-pwa-offline-capability-how-it-works)

@@ -76,6 +76,7 @@ That said, Chrome's built-in settings are usually sufficient for most users who 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Layers Panel Explained](/chrome-layers-panel-explained/)
-- [Chrome Extension for Saving Passwords Securely](/chrome-extension-for-saving-passwords-securely/)
-- [Chrome CORS Error Explained in Simple Terms](/chrome-cors-error-explained-simple-terms/)
+
+* [chromebook file manager tips and tricks](/chromebook-file-manager-tips-and-tricks)
+* [How to Use Chrome for Multiple Work Accounts](/how-to-use-chrome-for-multiple-work-accounts)
+* [Chrome Extensions for Table Data Extractor](/chrome-extensions-for-table-data-extractor)

@@ -2,13 +2,13 @@
 title: "Chrome Copy Paste Not Working Fix"
 description: "Chrome copy paste not working can be frustrating. Learn why it happens and simple fixes to get copy and paste working again. Read our full guide to master your "
 date: "2025-03-09"
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: "chrome-copy-paste-not-working-fix"
 layout: post
 categories: ['troubleshooting', 'tips']
 tags: ['chrome-copy-paste', 'copy-paste-not-working', 'chrome-fix', 'browser-tips']
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-copy-paste-not-working-fix
 ---
 # Chrome Copy Paste Not Working Fix
@@ -106,6 +106,7 @@ Finally, avoid keeping too many tabs open at once. Having dozens of open tabs ca
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
-- [Chrome Camera Not Working Fix](/chrome-camera-not-working-fix)
-- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
+
+* [Chrome Toggle Fullscreen Shortcut](/chrome-toggle-fullscreen-shortcut)
+* [Best Chrome Extensions for Content Creators](/best-chrome-extensions-for-content-creators)
+* [Chrome Instant Apps on Android Explained](/chrome-instant-apps-on-android-explained)

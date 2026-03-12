@@ -2,13 +2,13 @@
 title: "Chrome Close Other Tabs Shortcut"
 description: "Learn how to quickly close all other tabs in Chrome with keyboard shortcuts and simple methods to focus on what matters. Read our full guide to master your Chro"
 date: "2025-03-09"
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: "chrome-close-other-tabs-shortcut"
 layout: post
 categories: ['productivity', 'tips']
 tags: ['tabs', 'chrome-tips', 'browser-management', 'shortcuts']
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-close-other-tabs-shortcut
 ---
 # Chrome Close Other Tabs Shortcut
@@ -86,6 +86,7 @@ For more advanced tab management, consider using extensions like Tab Suspender P
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to See Chrome Tabs From Other Devices](/chrome-tabs-from-other-devices-how-to-see)
-- [How to Close All Chrome Tabs at Once](/how-to-close-all-chrome-tabs-at-once)
-- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+
+* [Chrome for Google Keep Extension Tips](/chrome-for-google-keep-extension-tips)
+* [Chrome Background Sync for Offline Forms](/chrome-background-sync-for-offline-forms)
+* [Chrome DevTools Workspaces Guide](/chrome-workspaces-guide)

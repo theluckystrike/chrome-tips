@@ -2,13 +2,13 @@
 title: "Chrome Coverage Tool: Find Unused JavaScript"
 description: "Learn how to use Chrome DevTools Coverage tool to discover and eliminate unused JavaScript code, reduce bundle sizes, and speed up your website. Read our full g"
 date: "2026-03-11"
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: "chrome-coverage-tool-find-unused-javascript"
 layout: default
 categories: ['development', 'performance', 'chrome-devtools']
 tags: ['chrome-coverage-tool', 'unused-javascript', 'code-optimization', 'web-performance', 'devtools']
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-coverage-tool-find-unused-javascript
 ---
 # Chrome Coverage Tool: How to Find and Fix Unused JavaScript
@@ -86,6 +86,7 @@ The Chrome Coverage Tool is an essential part of any web performance optimizatio
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
 ## Related Articles
-- [Chrome Built-In Screenshot Tool](/chrome-built-in-screenshot-tool)
-- [Chrome Decorators JavaScript Proposal: What You Need to Know](/chrome-decorators-javascript-proposal)
-- [Chrome Which Tab Is Using Most CPU How to Find](/chrome-which-tab-is-using-most-cpu-how-to-find)
+
+* [Best Free Chrome Extensions 2026](/best-free-chrome-extensions-2026)
+* [Chrome Extensions for Grammarly Alternative Free](/chrome-extensions-for-grammarly-alternative-free)
+* [chrome sandbox mode explained](/chrome-sandbox-mode-explained)

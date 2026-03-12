@@ -78,6 +78,7 @@ Staying informed about the privacy features in your browser helps you make choic
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Restore Previous Session After Crash](/chrome-restore-previous-session-after-crash/)
-- [Chrome Extensions For College Professors](//articles/chrome-extensions-for-college-professors//)
-- [chrome for dual monitor tab management](/chrome-for-dual-monitor-tab-management/)
+
+* [Chrome Extensions For Blue Light Filter](//articles/chrome-extensions-for-blue-light-filter/)
+* [Chrome Open Source Parts Explained](/chrome-open-source-parts-explained)
+* [Chrome Regex Lookbehind Support: What You Need to Know](/chrome-regex-lookbehind-support)

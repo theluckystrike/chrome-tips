@@ -109,6 +109,7 @@ Controlling Chrome auto-update on Windows is straightforward with these multiple
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/chrome-site-isolation-security-feature/)
-- [Chrome Extensions on Android Is It Possible](/chrome-extensions-on-android-is-it-possible/)
-- [Chrome DevTools Performance Panel Explained](/chrome-devtools-performance-panel-explained/)
+
+* [Chrome Content Blocker vs Ad Blocker Difference](/chrome-content-blocker-vs-ad-blocker-difference)
+* [Chrome Credential Manager Autofill Explained](/chrome-credential-manager-autofill-explained)
+* [Chrome Tab Limit: Is There a Maximum?](/chrome-tab-limit-is-there-a-maximum)

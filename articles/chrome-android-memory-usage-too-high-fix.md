@@ -96,6 +96,7 @@ High memory usage on Chrome for Android is a common problem, but it is one you c
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Web Animation API Explained](/chrome-web-animation-api-explained/)
-- [Chrome Console Commands: Useful Tricks Every User Should Know](/chrome-console-commands-useful-tricks/)
-- [Chrome Lagging on Android Phone Fix](/chrome-lagging-on-android-phone-fix/)
+
+* [Chrome Performance Settings Best Configuration](/chrome-performance-settings-best-configuration)
+* [Chrome Redirecting to Wrong Pages Fix](/chrome-redirecting-to-wrong-pages-fix)
+* [How to Do a Reverse Image Search in Chrome Without an Extension](/chrome-reverse-image-search-without-extension)

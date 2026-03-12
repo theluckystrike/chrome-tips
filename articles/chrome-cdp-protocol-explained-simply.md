@@ -3,7 +3,7 @@ layout: "post"
 title: "Chrome CDP Protocol Explained Simply"
 description: "Learn what the Chrome DevTools Protocol (CDP) is, how it works, and why it matters for browser automation, testing, and debugging. Check out our expert guide fo"
 date: "2026-01-20"
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: "chrome-cdp-protocol-explained-simply"
 categories: [development, chrome, debugging, automation]
 tags: [cdp, chrome-devtools, browser-automation, debugging, protocol]
@@ -112,6 +112,7 @@ As web applications become more complex and the demand for automated testing gro
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Core Web Vitals Check My Website](/chrome-core-web-vitals-check-my-website/)
-- [chrome network inspector for beginners](/chrome-network-inspector-for-beginners/)
-- [Chrome AW Snap Page Crash Fix](/chrome-aw-snap-page-crash-fix/)
+
+* [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
+* [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/chrome-devtools-sensors-tab-geolocation)
+* [Chrome Split Screen Without Extension](/chrome-split-screen-without-extension)

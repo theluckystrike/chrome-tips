@@ -2,13 +2,13 @@
 title: "chrome colorblind mode extensions"
 description: "Find the best chrome colorblind mode extensions to make websites more visible. Learn about color filters, contrast tools, and accessibility extensions."
 date: "2026-01-15"
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: "chrome-colorblind-mode-extensions"
 layout: post
 categories: ['extensions', 'accessibility', 'colorblind']
 tags: ['chrome-extension', 'colorblind', 'accessibility', 'color-filter', 'vision']
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-colorblind-mode-extensions
 ---
 # Chrome Colorblind Mode Extensions
@@ -80,6 +80,7 @@ Accessibility is personal, and what works wonderfully for one person may not wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Developer Mode Extensions Warning: How to Dismiss](/chrome-developer-mode-extensions-warning-how-to-dismiss)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Reading Mode vs Reader View Extensions](/chrome-reading-mode-vs-reader-view-extensions)
+
+* [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)
+* [Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM](/chrome-slow-on-work-computer-vpn)
+* [chrome site notifications stop all](/chrome-site-notifications-stop-all)

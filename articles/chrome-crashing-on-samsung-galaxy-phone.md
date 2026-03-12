@@ -2,13 +2,13 @@
 title: "Chrome Crashing on Samsung Galaxy Phone"
 description: "Is Chrome crashing on your Samsung Galaxy? Find out why this happens and get simple fixes to stop the crashes and keep browsing smoothly. Read our full guide to"
 date: "2026-01-20"
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: "chrome-crashing-on-samsung-galaxy-phone"
 layout: post
 categories: ['mobile', 'troubleshooting', 'android', 'samsung']
 tags: ['chrome-android', 'samsung-browser', 'chrome-crash', 'mobile-browser']
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-crashing-on-samsung-galaxy-phone
 ---
 # Chrome Crashing on Samsung Galaxy Phone
@@ -72,6 +72,7 @@ Keeping your apps updated, managing your open tabs, and maintaining free storage
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Translate On Phone How To Use](/chrome-translate-on-phone-how-to-use)
-- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
-- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
+
+* [Chrome Managed Bookmarks for Employees](/chrome-managed-bookmarks-for-employees)
+* [Chrome Periodic Background Sync Explained](/chrome-periodic-background-sync-explained)
+* [Chrome Reading List How to Use](/chrome-reading-list-how-to-use)

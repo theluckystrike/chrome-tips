@@ -2,7 +2,7 @@
 title: "Chrome Core Web Vitals Check My Website"
 description: "Learn how to check your website's Core Web Vitals in Chrome. Step-by-step guide to measure LCP, FID, and CLS using built-in tools and extensions. Read our full "
 date: "2026-01-01"
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: "chrome-core-web-vitals-check-my-website"
 layout: post
 ---
@@ -87,3 +87,9 @@ Remember that Core Web Vitals are just one part of overall website performance. 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [chrome for twitch buffering fix](/chrome-for-twitch-buffering-fix)
+* [chrome web share target api explained](/chrome-web-share-target-api-explained)
+* [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)

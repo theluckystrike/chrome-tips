@@ -3,7 +3,7 @@ layout: "post"
 title: "Chrome Clipboard API: Copy and Paste in Modern Web Apps"
 description: "Learn how to use the Chrome Clipboard API for copy and paste operations in your web applications. Complete guide with code examples and best practices."
 date: "2026-03-11"
-last_modified_at: "2026-03-11"
+last_modified_at: '2026-03-12'
 permalink: "chrome-clipboard-api-copy-paste"
 categories: [development, tips]
 tags: [chrome-clipboard-api, copy-paste, web-development, javascript]
@@ -145,3 +145,9 @@ Remember to handle errors gracefully, provide clear user feedback, and always re
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Reset All Settings: What Gets Deleted](/chrome-reset-all-settings-what-gets-deleted)
+* [Chrome Attribution Reporting API Explained](/chrome-attribution-reporting-api-explained)
+* [Chrome Secure DNS: What It Is and How to Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)

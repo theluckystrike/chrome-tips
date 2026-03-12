@@ -77,6 +77,7 @@ Remember that protecting your privacy is an ongoing process. New tracking techni
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Writers and Bloggers](/chrome-extensions-for-writers-and-bloggers/)
-- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix/)
-- [How to See Chrome Tabs From Other Devices](/chrome-tabs-from-other-devices-how-to-see/)
+
+* [Chrome Keep Crashing Fix 2026](/chrome-keep-crashing-fix-2026)
+* [How to Migrate Chrome Data to a New Computer](/how-to-migrate-chrome-data-to-new-computer)
+* [Chrome Hardware Acceleration Guide](/chrome-hardware-acceleration-guide)

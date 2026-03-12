@@ -86,6 +86,7 @@ As Chrome continues to develop its AI capabilities, expect to see more features 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Best Chromium Browsers Besides Chrome 2026](/best-chromium-browsers-besides-chrome-2026/)
-- [Best Chrome Extensions for Twitter X](/best-chrome-extensions-for-twitter-x/)
-- [Chrome Wont Install on Mac Fix](/chrome-wont-install-on-mac-fix/)
+
+* [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
+* [chrome net err cert common name invalid fix](/chrome-net-err-cert-common-name-invalid-fix)
+* [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)

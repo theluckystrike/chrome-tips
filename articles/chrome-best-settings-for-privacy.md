@@ -105,6 +105,7 @@ Being thoughtful about the information you share online and the permissions you 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Share Page Between Phone and Laptop: Complete Guide](/chrome-share-page-between-phone-and-laptop/)
-- [Chrome vs Safari Memory Usage Mac](/chrome-vs-safari-memory-usage-mac/)
-- [Chrome Bitwarden vs LastPass Comparison 2026](/chrome-bitwarden-vs-lastpass-comparison-2026/)
+
+* [Chrome Back Forward Cache How to Test](/chrome-back-forward-cache-how-to-test)
+* [Chrome Flexbox Debugging Guide](/chrome-flexbox-debugging)
+* [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)

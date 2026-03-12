@@ -2,13 +2,13 @@
 title: "Chrome Components Page Update Manually"
 description: "Learn how to manually update Chrome components using the components page. Simple steps to keep your browser running smoothly. Read our full guide to master your"
 date: "2026-01-15"
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: "chrome-components-page-update-manually"
 layout: post
 categories: ['maintenance', 'tips']
 tags: ['chrome-components', 'manual-update', 'browser-maintenance', 'chrome-settings']
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-components-page-update-manually
 ---
 # Chrome Components Page Update Manually
@@ -68,6 +68,7 @@ Keeping your Chrome components updated is a simple maintenance task that can pre
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Update Failed Error 7 Fix](/chrome-update-failed-error-7-fix)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+
+* [Chrome Takes Long Time to Open First Time](/chrome-takes-long-time-to-open-first-time)
+* [chrome extensions for similar image finder](/chrome-extensions-for-similar-image-finder)
+* [Chrome CSS Grid Debugging Guide](//chrome-css-grid-debugging/)

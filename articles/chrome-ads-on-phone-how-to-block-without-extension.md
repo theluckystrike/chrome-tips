@@ -78,6 +78,7 @@ It is important to set realistic expectations. Even with all these methods in pl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [chrome text only mode how to browse](/chrome-text-only-mode-how-to-browse/)
-- [Chrome for Roam Research Web Tips](/chrome-for-roam-research-web-tips/)
-- [chrome for shopify store management tips](/chrome-for-shopify-store-management-tips/)
+
+* [Chrome for Trello Power Ups in Browser](/chrome-for-trello-power-ups-in-browser)
+* [Chrome on iPhone \u2014 Tips and Tricks for 2026](/chrome-on-iphone-tips-and-tricks-2026)
+* [Chrome Android Gestures You Didnt Know About](/chrome-android-gestures-you-didnt-know-about)

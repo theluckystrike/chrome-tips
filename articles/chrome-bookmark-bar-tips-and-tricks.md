@@ -89,6 +89,7 @@ The bookmark bar is one of Chrome's most convenient features, but it requires so
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Best Way to Organize Chrome Tabs](/best-way-to-organize-chrome-tabs/)
-- [Chromebook Accessibility Features Guide](/chromebook-accessibility-features-guide/)
-- [Chrome vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison/)
+
+* [chrome extensions for whatfont alternative](/chrome-extensions-for-whatfont-alternative)
+* [Chrome Extensions for Website Testing](/chrome-extensions-for-website-testing)
+* [Chrome This Connection Is Not Private Bypass](/chrome-this-connection-is-not-private-bypass)

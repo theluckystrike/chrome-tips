@@ -147,6 +147,7 @@ Take a few minutes to set up your preferred method, and enjoy the freedom of a m
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [How to Auto Create and Organize Chrome Tab Groups](/chrome-tab-groups-auto-create-organize/)
-- [Chrome Version How to Check Which Version](/chrome-version-how-to-check-which-version/)
-- [Chrome Console Utilities Reference](/chrome-console-utilities-guide/)
+
+* [Chrome Devtools Responsive Mode How to Use](/chrome-devtools-responsive-mode-how-to-use)
+* [Chrome Extensions for Noscript Alternative](/chrome-extensions-for-noscript-alternative)
+* [Chrome Devtools Snippets How to Use](/chrome-devtools-snippets-how-to-use)

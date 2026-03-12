@@ -65,6 +65,7 @@ Whether you decide to leave the Attribution Reporting API enabled or turn it off
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Reading List vs Bookmarks Difference](/chrome-reading-list-vs-bookmarks-difference/)
-- [Chrome Extensions For Bookmark Manager](//articles/chrome-extensions-for-bookmark-manager//)
-- [how to make chrome default browser mac](/how-to-make-chrome-default-browser-mac/)
+
+* [chrome material you design on desktop](/chrome-material-you-design-on-desktop)
+* [Best Chrome Extensions for Salespeople](/best-chrome-extensions-for-salespeople)
+* [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)

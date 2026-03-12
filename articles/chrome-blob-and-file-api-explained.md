@@ -86,6 +86,7 @@ If you find yourself with many open tabs while working with files, you might ben
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Lazy Loading Images Explained](/chrome-lazy-loading-images-explained/)
-- [Chrome Screen Recording in Browser How To](/chrome-screen-recording-in-browser-how-to/)
-- [My MacBook Air Gets Hot When Using Chrome: Practical Solutions](/my-macbook-air-gets-hot-when-using-chrome/)
+
+* [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
+* [How to Fix Chrome Mixed Content Warning](/chrome-mixed-content-warning-fix)
+* [Chrome Extensions Conflict With Each Other Fix](/chrome-extensions-conflict-with-each-other-fix)

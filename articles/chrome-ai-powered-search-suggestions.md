@@ -80,6 +80,7 @@ Remember that you can always adjust these settings later as your needs or prefer
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Extensions for Weather Forecast](/chrome-extensions-for-weather-forecast/)
-- [How to Inspect and Debug IndexedDB in Chrome: A Complete Guide](/chrome-indexeddb-inspect-debug/)
-- [Chrome Android Tips To Save Data](/chrome-android-tips-to-save-data/)
+
+* [Chrome for Job Searching Best Extensions](/chrome-for-job-searching-best-extensions)
+* [Chrome Compact Mode How to Enable](/chrome-compact-mode-how-to-enable)
+* [Chrome Streaming Video Buffering Fix](/chrome-streaming-video-buffering-fix)

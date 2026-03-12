@@ -2,13 +2,13 @@
 title: "Chrome Coverage Tool Guide"
 description: "Master Chrome DevTools Coverage tool to identify unused CSS and JavaScript, optimize code splitting, and reduce bundle sizes for faster websites. Read our full "
 date: "2026-01-15"
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: "chrome-coverage-tool-guide"
 layout: default
 categories: ['development', 'performance', 'chrome-devtools']
 tags: ['chrome-coverage-tool', 'unused-css', 'unused-javascript', 'code-splitting', 'bundle-optimization', 'web-performance']
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-coverage-tool-guide
 ---
 # Chrome Coverage Tool Guide: Optimize Your Code for Better Performance
@@ -100,6 +100,7 @@ Finally, combine coverage analysis with other performance tools in Chrome DevToo
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
 ## Related Articles
-- [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/chrome-coverage-tool-find-unused-css)
-- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+
+* [How to See Chrome Tabs From Other Devices](/chrome-tabs-from-other-devices-how-to-see)
+* [Chrome Blob And File Api Explained](/chrome-blob-and-file-api-explained)
+* [Chrome Android Tips To Save Data](/chrome-android-tips-to-save-data)

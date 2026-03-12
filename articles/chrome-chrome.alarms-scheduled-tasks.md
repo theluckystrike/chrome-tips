@@ -94,6 +94,7 @@ Combined with other Chrome APIs, chrome.alarms opens up a wide range of possibil
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome View Source Shortcut](/chrome-view-source-shortcut/)
-- [Chrome Wappalyzer Alternative Built In](/chrome-wappalyzer-alternative-built-in/)
-- [Chrome Opens in Small Window Fix](/chrome-opens-in-small-window-fix/)
+
+* [Chrome Gesture Navigation Complete Guide](/chrome-gesture-navigation)
+* [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+* [Chrome Bookmarks File Location and Backup Guide](/chrome-bookmarks-file-location-backup)

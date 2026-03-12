@@ -83,6 +83,7 @@ Regularly reviewing and cleaning up your autofill data helps ensure that Chrome 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Researchers](/best-chrome-extensions-for-researchers/)
-- [Chrome Extension Publish to Web Store Guide](/chrome-extension-publish-to-web-store-guide/)
-- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix/)
+
+* [chrome offline google docs how to enable](/chrome-offline-google-docs-how-to-enable)
+* [Chrome Local Font Access API Explained](/chrome-local-font-access-api-explained)
+* [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)

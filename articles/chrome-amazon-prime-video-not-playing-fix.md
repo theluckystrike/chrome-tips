@@ -148,6 +148,7 @@ By keeping your browser and system updated and being mindful of how extensions a
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome MediaRecorder API Guide](/chrome-mediarecorder-api-guide/)
-- [Chrome Group Policy Settings Explained](/chrome-group-policy-settings-explained/)
-- [Chrome Google Drive Integration Save to Drive](/chrome-google-drive-integration-save-to-drive/)
+
+* [Chrome Enhanced Safe Browsing Guide](/chrome-enhanced-safe-browsing)
+* [Chrome Scrolling Lag Fix](/chrome-scrolling-lag-fix)
+* [chrome eye dropper api pick color anywhere](/chrome-eye-dropper-api-pick-color-anywhere)

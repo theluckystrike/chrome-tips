@@ -3,7 +3,7 @@ layout: "post"
 title: "Chrome Canvas Rendering Slow Fix: Practical Solutions for Limited RAM"
 description: "Is Chrome canvas rendering slow? Learn proven fixes to speed up canvas performance on older computers with limited RAM, including extensions and settings."
 date: "2026-01-15"
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: "chrome-canvas-rendering-slow-fix"
 categories: [performance, chrome, troubleshooting]
 tags: [chrome-canvas-rendering-slow-fix, chrome-performance, browser-optimization, slow-computer]
@@ -132,6 +132,7 @@ Remember that prevention is also important. Regularly closing unused tabs, keepi
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [chrome google lens integration how to use](/chrome-google-lens-integration-how-to-use/)
-- [chrome restricted mode youtube how to enable](/chrome-restricted-mode-youtube-how-to-enable/)
-- [Chrome Extension Publish to Web Store Guide](/chrome-extension-publish-to-web-store-guide/)
+
+* [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
+* [Chrome Open Source Parts Explained](/chrome-open-source-parts-explained)
+* [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)

@@ -92,6 +92,7 @@ Take some time to review your Chrome settings, clear any data you are uncomforta
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Best Chrome Extensions For Teachers Online](/best-chrome-extensions-for-teachers-online/)
-- [chrome net err cert common name invalid fix](/chrome-net-err-cert-common-name-invalid-fix/)
-- [Chrome Tab Groups vs Bookmarks](/chrome-tab-groups-vs-bookmarks/)
+
+* [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)
+* [chrome extensions for image reverse search](/chrome-extensions-for-image-reverse-search)
+* [Chrome Net Internals How to Use](/chrome-net-internals-how-to-use)

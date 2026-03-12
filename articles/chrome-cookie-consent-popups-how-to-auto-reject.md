@@ -2,13 +2,13 @@
 title: "Chrome Cookie Consent Popups How to Auto Reject"
 description: "Tired of clicking through cookie popups? Learn how to auto reject them in Chrome with simple methods and extensions. Read our full guide to master your Chrome b"
 date: "2026-03-10"
-last_modified_at: "%Y->-"
+last_modified_at: '2026-03-12'
 permalink: "chrome-cookie-consent-popups-how-to-auto-reject"
 layout: post
 categories: ['troubleshooting', 'tips']
 tags: ['chrome-cookies', 'cookie-consent', 'auto-reject', 'privacy-popups', 'browser-settings']
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-cookie-consent-popups-how-to-auto-reject
 ---
 # Chrome Cookie Consent Popups How to Auto Reject
@@ -68,6 +68,7 @@ The key is finding an extension or combination of methods that works for your sp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
-- [Chrome Cookie Consent Popups How to Handle](/chrome-cookie-consent-popups-how-to-handle)
+
+* [Chrome Speech Recognition API Guide](/chrome-speech-recognition-api)
+* [Chrome Web GPU API Explained](/chrome-web-gpu-api-explained)
+* [Chrome for MDN Web Docs Extension](/chrome-for-mdn-web-docs-extension)

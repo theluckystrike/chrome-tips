@@ -80,6 +80,7 @@ Dealing with chrome autofill wrong address can be frustrating, but it's usually 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions For Elderly Users Simple Tools](//articles/chrome-extensions-for-elderly-users-simple-tools//)
-- [Why Are People Switching from Chrome to Firefox](/why-are-people-switching-from-chrome-to-firefox/)
-- [Chrome Scroll Not Smooth Fix](/chrome-scroll-not-smooth-fix/)
+
+* [Chrome Site Settings Permissions Explained](/chrome-site-settings-permissions-explained)
+* [Chrome Extensions For Fitness Tracking Dashboard](//articles/chrome-extensions-for-fitness-tracking-dashboard/)
+* [Chrome Keeps Logging Me Out of Sites Fix](/chrome-keeps-logging-me-out-of-sites-fix)

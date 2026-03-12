@@ -97,6 +97,7 @@ Finally, make sure your Android operating system is up to date. System updates o
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [chrome sandbox mode explained](/chrome-sandbox-mode-explained/)
-- [chrome for kick streaming web tips](/chrome-for-kick-streaming-web-tips/)
-- [Chrome Extensions for Google Slides](/chrome-extensions-for-google-slides/)
+
+* [Chrome Bookmarks File Location and Backup Guide](/chrome-bookmarks-file-location-backup)
+* [chrome kiosk mode how to set up](/chrome-kiosk-mode-how-to-set-up)
+* [Chrome Encoding API Text Encoder Decoder](/chrome-encoding-api-text-encoder-decoder)

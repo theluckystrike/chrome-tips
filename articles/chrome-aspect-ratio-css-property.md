@@ -72,6 +72,7 @@ Whether you are building a website or simply browsing the internet, understandin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [chrome tab groups keyboard shortcuts](/chrome-tab-groups-keyboard-shortcuts/)
-- [Chrome for Music Discovery Extensions](/chrome-for-music-discovery-extensions/)
-- [Chrome Side Panel Extensions Worth Using](/chrome-side-panel-extensions-worth-using/)
+
+* [Chrome Reading Mode AI Summary Feature](/chrome-reading-mode-ai-summary-feature)
+* [How to Improve Chrome WebGL Performance](/chrome-webgl-performance-how-to-improve)
+* [Chrome AI Powered Search Suggestions](/chrome-ai-powered-search-suggestions)

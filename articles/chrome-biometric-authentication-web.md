@@ -88,6 +88,7 @@ Whether you are a user looking for a more convenient way to log in or a develope
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [how to enable chrome experimental features](/how-to-enable-chrome-experimental-features/)
-- [Chrome Readable Streams Explained](/chrome-readable-streams-explained/)
-- [chrome performance monitor fps counter](/chrome-performance-monitor-fps-counter/)
+
+* [Chrome New Tab Extensions Aesthetic 2026](/chrome-new-tab-extensions-aesthetic-2026)
+* [How to Fix Chrome Search Bar Not Working](/chrome-search-bar-not-working-fix)
+* [Best Chrome Extensions for Language Learning](/best-chrome-extensions-for-language-learning)

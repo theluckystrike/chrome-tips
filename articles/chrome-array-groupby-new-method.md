@@ -78,6 +78,7 @@ For developers who manage many open tabs while working on complex projects, tool
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [chrome themes how to change and customize](/chrome-themes-how-to-change-and-customize/)
-- [Why Is Chrome Still the Most Popular Browser in 2026?](/why-is-chrome-still-most-popular-browser/)
-- [Chrome for YouTube 4K Playback Settings](/chrome-for-youtube-4k-playback-settings/)
+
+* [Chrome for Work vs Personal — How to Use Separate Profiles](/chrome-for-work-vs-personal-separate-profiles)
+* [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
+* [Chrome Enhanced Safe Browsing Guide](/chrome-enhanced-safe-browsing)

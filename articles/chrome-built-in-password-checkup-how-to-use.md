@@ -3,7 +3,7 @@ layout: "post"
 title: "Chrome Built in Password Checkup How to Use"
 description: "Learn how to use Chrome's built-in password checkup feature to find compromised passwords and improve your online security. Check out our expert guide for step-"
 date: "2026-01-01"
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: "chrome-built-in-password-checkup-how-to-use"
 ---
 Chrome built in password checkup how to use? If you have ever wondered whether any of your saved passwords have been leaked in data breaches, Chrome has a free tool that can help you find out. This feature checks your saved passwords against known data breaches and alerts you if any of them have been compromised. Let me explain how it works and how you can use it to keep your accounts safer.
@@ -79,6 +79,7 @@ The process does not have to be overwhelming. Start by enabling the checkup, rev
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Recover Accidentally Closed Chrome Tabs](/accidentally-closed-all-chrome-tabs-recovery/)
-- [Chrome Mobile vs Desktop Features Difference: What You Need to Know](/chrome-mobile-vs-desktop-features-difference/)
-- [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it/)
+
+* [Chrome Resize Observer API Explained](/chrome-resize-observer-api-explained)
+* [Best Chrome Extensions for Marketing Professionals](/best-chrome-extensions-for-marketing-professionals)
+* [Chrome Extensions for Pomodoro Timer](/chrome-extensions-for-pomodoro-timer)

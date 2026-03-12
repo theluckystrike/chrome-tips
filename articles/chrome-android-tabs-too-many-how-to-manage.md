@@ -73,6 +73,7 @@ Your phone is supposed to make your life easier, not add another thing to worry 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome NET ERR CERT DATE INVALID Fix](/chrome-net-err-cert-date-invalid-fix/)
-- [Chrome Extensions for Split Tabs](/chrome-extensions-for-split-tabs/)
-- [chrome mutation observer api explained](/chrome-mutation-observer-api-explained/)
+
+* [Chrome for Page Load Speed Testing](/chrome-for-page-load-speed-testing)
+* [Chrome Certificate Error How to Bypass Safely](/chrome-certificate-error-how-to-bypass-safely)
+* [chrome for xbox cloud gaming optimization](/chrome-for-xbox-cloud-gaming-optimization)

@@ -213,6 +213,7 @@ Advertisers and publishers who adopt attribution reporting early will be better 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
 ## Related Articles
-- [Best Dark Mode Chrome Extension](/best-dark-mode-chrome-extension/)
-- [Chrome Extensions for WhatsApp Web](/chrome-extensions-for-whatsapp-web/)
-- [Chrome Open Last Session on Startup](/chrome-open-last-session-on-startup/)
+
+* [Chrome Extensions for Meeting Notes](/chrome-extensions-for-meeting-notes)
+* [Chrome for Discord Web App Optimization](/chrome-for-discord-web-app-optimization)
+* [Chrome Too Many Processes Task Manager](/chrome-too-many-processes-task-manager)

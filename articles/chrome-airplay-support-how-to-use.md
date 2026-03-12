@@ -74,6 +74,7 @@ If AirPlay is essential for your daily workflow, using Safari on a Mac or invest
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Extension for Viewing Page Load Time](/chrome-extension-for-viewing-page-load-time/)
-- [chrome coupons in address bar feature](/chrome-coupons-in-address-bar-feature/)
-- [Chrome Devtools Snippets How to Use](/chrome-devtools-snippets-how-to-use/)
+
+* [Best Lightweight Browsers for Chromebook](/best-lightweight-browsers-for-chromebook)
+* [Chrome Extensions for Ambient Noise](/chrome-extensions-for-ambient-noise)
+* [Chrome Save Open Tabs as Bookmarks All at Once](/chrome-save-open-tabs-as-bookmarks-all-at-once)

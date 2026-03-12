@@ -88,3 +88,8 @@ If you have tried everything and Chrome still keeps logging you out, the problem
 You might also consider whether your Chrome profile itself has become corrupted over time. Creating a brand new Chrome profile takes some work since you will need to set up your bookmarks and extensions again, but it often resolves persistent issues that cannot be fixed through regular troubleshooting.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Search Engine Keeps Changing to Yahoo Fix](/chrome-search-engine-keeps-changing-to-yahoo-fix)
+- [Chrome Forward Button Greyed Out Fix](/chrome-forward-button-greyed-out-fix)
+- [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)

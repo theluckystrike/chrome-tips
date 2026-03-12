@@ -68,3 +68,8 @@ Finally, remember that the goal is to download videos for legitimate personal us
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Extension for Video Downloading: What is Legal](/chrome-extension-for-video-downloading-legal)
+- [Best Chrome Extensions for Video Editors](/best-chrome-extensions-for-video-editors)
+- [Chrome for Amazon Prime Video Quality Settings](/chrome-for-amazon-prime-video-quality-settings)

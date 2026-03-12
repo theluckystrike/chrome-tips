@@ -122,4 +122,10 @@ Once you're comfortable with the basics, you'll find Inspect Element is an inval
 
 ---
 
+## Related Articles
+- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)
+- [Chrome Blink Engine Explained For Beginners](/chrome-blink-engine-explained-for-beginners)
+- [Chrome Encrypted DNS Explained for Beginners](/chrome-encrypted-dns-explained-for-beginners)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

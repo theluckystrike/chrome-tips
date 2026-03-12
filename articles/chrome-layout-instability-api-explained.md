@@ -72,3 +72,8 @@ Tab Suspender Pro can help with this by automatically suspending tabs you are no
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Screen Wake Lock API Explained](/chrome-screen-wake-lock-api-explained)
+- [Chrome Navigation Timing API Explained](/chrome-navigation-timing-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)

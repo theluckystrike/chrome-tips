@@ -68,3 +68,8 @@ If you continue to experience issues with fullscreen or other browser behavior, 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Desktop Mode on Phone How to Use](/chrome-desktop-mode-on-phone-how-to-use)
+- [Chrome Android Dark Mode How to Enable](/chrome-android-dark-mode-how-to-enable)
+- [Chrome Screen Recording in Browser How To](/chrome-screen-recording-in-browser-how-to)

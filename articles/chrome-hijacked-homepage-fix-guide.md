@@ -131,4 +131,10 @@ Remember: your browser is your gateway to the internet, and keeping it secure me
 
 ---
 
+## Related Articles
+- [Chrome Homepage Keeps Changing Fix](/chrome-homepage-keeps-changing-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

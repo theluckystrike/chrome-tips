@@ -68,3 +68,8 @@ For power users who manage many tabs, chrome gesture navigation combined with ta
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Navigation Timing API Explained](/chrome-navigation-timing-api-explained)
+- [Chrome Navigation API for Single Page Apps: A Complete Guide](/chrome-navigation-api-single-page-apps)

@@ -96,3 +96,8 @@ Using both types of extensions together gives you the best of both worlds. You c
 >>>>>>> consumer/a71-chrome-for-window-management-extensions
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Calendar Management Extensions](/chrome-for-calendar-management-extensions)
+- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
+- [Chrome for Social Media Management Extensions](/chrome-for-social-media-management-extensions)

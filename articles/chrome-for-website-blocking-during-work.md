@@ -80,3 +80,8 @@ Remember, the goal is not to eliminate all browsing but to create boundaries tha
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
+- [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
+- [Chrome for Reader View on Any Website](/chrome-for-reader-view-on-any-website)

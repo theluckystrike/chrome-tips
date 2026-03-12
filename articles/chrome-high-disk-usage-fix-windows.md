@@ -77,3 +77,8 @@ Once you have cleaned up Chrome and reduced its disk usage, a few ongoing habits
 If you continue to experience issues despite trying these steps, it might be worth checking your overall system health. Sometimes other programs or system issues can make Chrome appear to use more disk space than it actually does.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Fix Chrome High CPU Usage When Gaming](/how-to-fix-chrome-high-cpu-usage-gaming)
+- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)

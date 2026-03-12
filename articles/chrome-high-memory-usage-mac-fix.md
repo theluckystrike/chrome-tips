@@ -89,3 +89,8 @@ These small changes can make a big difference in how your Mac performs. Chrome i
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Helper Renderer High CPU Mac Fix](/chrome-helper-renderer-high-cpu-mac-fix)
+- [How to Fix Chrome High CPU Usage When Gaming](/how-to-fix-chrome-high-cpu-usage-gaming)
+- [Chrome GPU Process High Memory Fix](/chrome-gpu-process-high-memory-fix)

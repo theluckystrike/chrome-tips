@@ -91,4 +91,10 @@ Here is a condensed version of the most essential shortcuts for quick reference:
 
 Learning the chrome keyboard shortcuts complete list for 2026 takes some time, but the productivity gains are well worth the investment. Start with the shortcuts you use most frequently—new tab, close tab, switch tabs—and gradually add more to your workflow. Within a few weeks, these shortcuts will become second nature, and you will wonder how you ever browsed without them.
 
+## Related Articles
+- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Gmail Keyboard Shortcuts](/chrome-gmail-keyboard-shortcuts)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

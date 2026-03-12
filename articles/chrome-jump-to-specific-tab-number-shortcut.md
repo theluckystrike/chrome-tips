@@ -62,3 +62,8 @@ If you often have more than nine tabs open and struggle to find specific ones, c
 Chrome is designed to handle many tabs, and these shortcuts are built right in to help you manage them effectively. By taking advantage of these features, you can turn an overwhelming tab bar into a well-organized workspace that works for you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Profile Specific Extensions How to Set](/chrome-profile-specific-extensions-how-to-set)
+- [Chrome Reopen Closed Tab Shortcut](/chrome-reopen-closed-tab-shortcut)
+- [Chrome New Tab Page How To Customize](/chrome-new-tab-page-how-to-customize)

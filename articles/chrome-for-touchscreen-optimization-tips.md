@@ -95,3 +95,8 @@ Give these tips a try and see which ones work best for your specific device and 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [Chrome For Codesandbox Optimization](/chrome-for-codesandbox-optimization)

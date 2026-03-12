@@ -79,3 +79,8 @@ You do not need to do this every week, but if Xero starts behaving strangely or 
 Getting the most out of Chrome for Xero accounting web tips comes down to keeping your browser organized, using built-in features like bookmarks and password management, and being thoughtful about extensions and performance. Small adjustments to how you manage your tabs and windows can make a noticeable difference in your daily workflow, giving you more time to focus on your business rather than wrestling with your browser.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
+- [Chrome for Evernote Web Clipper Tips](/chrome-for-evernote-web-clipper-tips)
+- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)

@@ -84,3 +84,8 @@ Creating website shortcuts is one of the simplest ways to customize your phone e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Microphone Access on Phone How to Control](/chrome-microphone-access-on-phone-how-to-control)
+- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)

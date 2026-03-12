@@ -146,4 +146,10 @@ This removes all extensions, clears custom settings, and gives you a fresh, clea
 
 ---
 
+## Related Articles
+- [Why Is Chrome So Slow on My Computer?](/why-is-chrome-so-slow-on-my-computer)
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
+- [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/chrome-makes-my-old-laptop-unusable)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

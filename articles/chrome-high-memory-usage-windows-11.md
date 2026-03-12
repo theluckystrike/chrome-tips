@@ -75,3 +75,8 @@ For most users, the steps above will significantly reduce Chrome's memory usage 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison)
+- [Chrome High Memory Usage Mac Fix](/chrome-high-memory-usage-mac-fix)
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)

@@ -126,4 +126,10 @@ Start with the simplest fixes first, such as closing unnecessary tabs and cleari
 
 ---
 
+## Related Articles
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
+- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
+- [Chrome Slow After Hibernation Fix](/chrome-slow-after-hibernation-fix)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

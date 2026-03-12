@@ -78,4 +78,10 @@ Making these changes typically reduces LCP times by 20-40% depending on your sta
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
+## Related Articles
+- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+- [Chrome Work Profile Vs Personal Profile Tips](/chrome-work-profile-vs-personal-profile-tips)
+- [Chrome Largest Contentful Paint Optimize: A Complete Guide](/chrome-largest-contentful-paint-optimize)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

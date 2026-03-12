@@ -99,4 +99,10 @@ Take a few minutes to adjust your settings, and you will likely see an immediate
 
 ---
 
+## Related Articles
+- [Chrome Extension Alternative to Grammarly Free](/chrome-extension-alternative-to-grammarly-free)
+- [Chrome Dark Reader Extension Worth It](/chrome-dark-reader-extension-worth-it)
+- [How to Find Which Extension is Slowing Chrome](/how-to-find-which-extension-is-slowing-chrome)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

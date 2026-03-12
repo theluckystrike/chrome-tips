@@ -63,3 +63,8 @@ Having your Chrome homepage keep changing is frustrating, but it is usually fixa
 Remember to be cautious when installing new software and only add extensions from developers you trust. Taking these preventive measures will help keep your browser working the way you want it to.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
+- [Chrome Keeps Logging Me Out of Sites Fix](/chrome-keeps-logging-me-out-of-sites-fix)
+- [Chrome Homepage Keeps Resetting Fix](/chrome-homepage-keeps-resetting-fix)

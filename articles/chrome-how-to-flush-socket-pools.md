@@ -66,3 +66,8 @@ Flushing socket pools is a simple yet powerful troubleshooting step that should 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Desktop Shortcuts How To Create](/chrome-desktop-shortcuts-how-to-create)
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+- [Chrome Send Feedback to Google How to](/chrome-send-feedback-to-google-how-to)

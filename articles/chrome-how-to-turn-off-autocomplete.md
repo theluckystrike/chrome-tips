@@ -80,3 +80,8 @@ If you decide later that you want to turn autocomplete back on, the process is e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How To Turn On Chrome Dark Mode On Any Website](/how-to-turn-on-chrome-dark-mode-on-any-website)
+- [Chrome Autocomplete Wrong Suggestions How to Fix](/chrome-autocomplete-wrong-suggestions-how-to-fix)
+- [Chrome Live Captions How to Turn On](/chrome-live-captions-how-to-turn-on)

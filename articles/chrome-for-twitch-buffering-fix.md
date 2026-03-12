@@ -94,3 +94,8 @@ Buffering is one of the most frustrating things about watching streams online, b
 Most people find that one or two of these changes make a big difference. Good luck, and enjoy your streams without the interruptions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Streaming Video Buffering Fix](/chrome-streaming-video-buffering-fix)
+- [Chrome for Disney Plus Not Working Fix](/chrome-for-disney-plus-not-working-fix)

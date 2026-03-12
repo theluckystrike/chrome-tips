@@ -12,7 +12,47 @@ target_keyword: "tab suspender pro vs tab groups extension"
 target_extension: "tab-suspender-pro"
 word_count: 1063
 reading_time: 5
----
+competitive_data:
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: ---
 
 # Tab Suspender Pro vs Tab Groups Extension: Complete 2026 Comparison
 

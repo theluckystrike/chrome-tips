@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome DevTools CSS Overview Panel"
-description: "Discover the CSS Overview panel in Chrome DevTools, a powerful tool for analyzing and fixing CSS issues on any website."
+title: Chrome DevTools CSS Overview Panel
+description: Discover the CSS Overview panel in Chrome DevTools, a powerful tool for
+  analyzing and fixing CSS issues on any website. Discover essential insights and
+  pract...
 date: 2025-03-09
-categories: [productivity, tips]
-tags: [devtools, chrome-tips, css, developer-tools]
+categories:
+- productivity
+- tips
+tags:
+- devtools
+- chrome-tips
+- css
+- developer-tools
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-devtools-css-overview-panel
 ---
 
 # Chrome DevTools CSS Overview Panel

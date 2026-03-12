@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome for DeFi Dashboard Extensions"
-description: "Discover Chrome extensions for DeFi dashboards to manage your decentralized finance portfolio directly in your browser."
+title: Chrome for DeFi Dashboard Extensions
+description: Discover Chrome extensions for DeFi dashboards to manage your decentralized
+  finance portfolio directly in your browser. Discover essential insights and pract...
 date: 2026-03-10
-categories: [defi, tips]
-tags: [chrome-extensions, defi, dashboard, browser-tools]
+categories:
+- defi
+- tips
+tags:
+- chrome-extensions
+- defi
+- dashboard
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-defi-dashboard-extensions
 ---
 
 # Chrome for DeFi Dashboard Extensions

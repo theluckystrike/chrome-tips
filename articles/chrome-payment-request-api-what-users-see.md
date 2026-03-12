@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "chrome payment request api what users see"
-description: "Learn what the Chrome Payment Request API shows users, how it works, and how to manage payment requests in Chrome for secure checkout."
+title: chrome payment request api what users see
+description: Learn what the Chrome Payment Request API shows users, how it works,
+  and how to manage payment requests in Chrome for secure checkout. Discover essential
+  ins...
 date: 2026-03-09
-categories: [features, security, payments]
-tags: [payment-request, checkout, chrome-security, privacy]
+categories:
+- features
+- security
+- payments
+tags:
+- payment-request
+- checkout
+- chrome-security
+- privacy
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-payment-request-api-what-users-see
 ---
 
 # Chrome Payment Request API What Users See

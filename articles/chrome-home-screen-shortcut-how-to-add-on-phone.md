@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "chrome home screen shortcut how to add on phone"
-description: "Learn how to add Chrome shortcuts to your phone home screen for quick access to your favorite websites and web apps."
+title: chrome home screen shortcut how to add on phone
+description: Learn how to add Chrome shortcuts to your phone home screen for quick
+  access to your favorite websites and web apps. Discover essential insights and practica...
 date: 2026-03-10
-categories: [productivity, tips]
-tags: [chrome-android, chrome-iphone, shortcuts, mobile-tips]
+categories:
+- productivity
+- tips
+tags:
+- chrome-android
+- chrome-iphone
+- shortcuts
+- mobile-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-home-screen-shortcut-how-to-add-on-phone
 ---
 
 # Chrome Home Screen Shortcut How to Add on Phone

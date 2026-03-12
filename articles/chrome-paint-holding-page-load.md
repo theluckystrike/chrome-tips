@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "What Is Chrome Paint Holding and How It Speeds Up Page Load"
-description: "Learn how Chrome paint holding page load optimization works, why it matters for your browsing experience, and how it reduces perceived loading times."
+title: What Is Chrome Paint Holding and How It Speeds Up Page Load
+description: Learn how Chrome paint holding page load optimization works, why it matters
+  for your browsing experience, and how it reduces perceived loading times. Discove...
 date: 2026-01-15
-categories: [performance, browsing]
-tags: [chrome-paint-holding, page-load, browser-performance, chrome-optimization]
+categories:
+- performance
+- browsing
+tags:
+- chrome-paint-holding
+- page-load
+- browser-performance
+- chrome-optimization
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-paint-holding-page-load
 ---
 
 # What Is Chrome Paint Holding and How It Speeds Up Page Load

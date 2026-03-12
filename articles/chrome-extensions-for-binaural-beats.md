@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions for Binaural Beats"
-description: "Find the best chrome extensions for binaural beats to boost focus, reduce stress, and improve sleep directly in your browser."
+title: Chrome Extensions for Binaural Beats
+description: Find the best chrome extensions for binaural beats to boost focus, reduce
+  stress, and improve sleep directly in your browser. Discover essential insights
+  and...
 date: 2026-03-09
-categories: [productivity, wellness]
-tags: [chrome-extensions, binaural-beats, focus, relaxation, meditation]
+categories:
+- productivity
+- wellness
+tags:
+- chrome-extensions
+- binaural-beats
+- focus
+- relaxation
+- meditation
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-binaural-beats
 ---
 
 # Chrome Extensions for Binaural Beats

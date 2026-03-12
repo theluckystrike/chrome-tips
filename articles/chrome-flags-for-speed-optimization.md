@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Flags for Speed Optimization"
-description: "Discover the best Chrome flags for speed optimization including parallel downloading, QUIC protocol, GPU rasterization, and back-forward cache settings to make Chrome faster."
+title: Chrome Flags for Speed Optimization
+description: Discover the best Chrome flags for speed optimization including parallel
+  downloading, QUIC protocol, GPU rasterization, and back-forward cache settings to
+  ma...
 date: 2026-03-10
-categories: [features, performance]
-tags: [chrome-flags, speed, optimization, performance]
+categories:
+- features
+- performance
+tags:
+- chrome-flags
+- speed
+- optimization
+- performance
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-flags-for-speed-optimization
 ---
 
 # Chrome Flags for Speed Optimization

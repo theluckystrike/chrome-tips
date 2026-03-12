@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Android Memory Usage Too High Fix"
-description: "Chrome on Android using too much memory? Learn why it happens and how to fix high memory usage on Chrome for Android with simple steps."
+title: Chrome Android Memory Usage Too High Fix
+description: Chrome on Android using too much memory? Learn why it happens and how
+  to fix high memory usage on Chrome for Android with simple steps. Discover essential
+  in...
 date: 2026-01-15
-categories: [performance, browsers, android]
-tags: [chrome-android, android-memory, chrome-fix, memory-usage]
+categories:
+- performance
+- browsers
+- android
+tags:
+- chrome-android
+- android-memory
+- chrome-fix
+- memory-usage
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-android-memory-usage-too-high-fix
 ---
 
 # Chrome Android Memory Usage Too High Fix

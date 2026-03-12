@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome for Quick Commands Feature"
-description: "Learn how Chrome's quick commands feature can speed up your browsing and help you access tools faster."
+title: Chrome for Quick Commands Feature
+description: Learn how Chrome's quick commands feature can speed up your browsing
+  and help you access tools faster. Discover essential insights and practical advice
+  to op...
 date: 2026-01-15
-categories: [productivity, browser, tips]
-tags: [chrome, quick-commands, productivity, browser-tips]
+categories:
+- productivity
+- browser
+- tips
+tags:
+- chrome
+- quick-commands
+- productivity
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-quick-commands-feature
 ---
 
 # Chrome for Quick Commands Feature

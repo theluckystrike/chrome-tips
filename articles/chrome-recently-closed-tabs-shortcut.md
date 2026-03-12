@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "chrome recently closed tabs shortcut"
-description: "Learn how to quickly access and reopen your recently closed tabs in Chrome using simple shortcuts and built-in features."
+title: chrome recently closed tabs shortcut
+description: Learn how to quickly access and reopen your recently closed tabs in Chrome
+  using simple shortcuts and built-in features. Discover essential insights and prac...
 date: 2025-01-15
-categories: [browsing, productivity]
-tags: [chrome, tabs, browser-tips, productivity]
+categories:
+- browsing
+- productivity
+tags:
+- chrome
+- tabs
+- browser-tips
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-recently-closed-tabs-shortcut
 ---
 
 # Chrome Recently Closed Tabs Shortcut

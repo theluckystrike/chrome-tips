@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome DevTools Shadow DOM Inspector"
-description: "Learn how to inspect Shadow DOM in Chrome DevTools, why it is hidden, and simple steps to view and edit shadow elements."
+title: Chrome DevTools Shadow DOM Inspector
+description: Learn how to inspect Shadow DOM in Chrome DevTools, why it is hidden,
+  and simple steps to view and edit shadow elements. Discover essential insights and
+  prac...
 date: 2025-02-19
-categories: [browser-tips, web-development]
-tags: [shadow-dom, developer-tools, troubleshooting]
+categories:
+- browser-tips
+- web-development
+tags:
+- shadow-dom
+- developer-tools
+- troubleshooting
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-devtools-shadow-dom-inspector
 ---
 
 # Chrome DevTools Shadow DOM Inspector

@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Grammar Checking"
-description: "Find the best chrome extensions for grammar checking to improve your writing. Easy tools that catch mistakes and help you write better."
+title: Chrome Extensions for Grammar Checking
+description: Find the best chrome extensions for grammar checking to improve your
+  writing. Easy tools that catch mistakes and help you write better. Discover essential
+  in...
 date: 2026-03-09
-categories: [writing, tips]
-tags: [chrome-extensions, grammar, writing, productivity]
+categories:
+- writing
+- tips
+tags:
+- chrome-extensions
+- grammar
+- writing
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-grammar-checking
 ---
 
 # Chrome Extensions for Grammar Checking

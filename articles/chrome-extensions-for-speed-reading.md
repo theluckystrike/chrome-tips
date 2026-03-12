@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Chrome Extensions for Speed Reading"
-description: "Discover Chrome extensions for speed reading that can help you read faster online and process more content in less time."
+title: Chrome Extensions for Speed Reading
+description: Discover Chrome extensions for speed reading that can help you read faster
+  online and process more content in less time. Discover essential insights and prac...
 date: 2026-03-09
-categories: [reading, productivity]
-tags: [chrome-extensions, speed-reading, productivity]
+categories:
+- reading
+- productivity
+tags:
+- chrome-extensions
+- speed-reading
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-speed-reading
 ---
 
 # Chrome Extensions for Speed Reading

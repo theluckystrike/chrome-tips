@@ -1,11 +1,23 @@
 ---
 layout: post
-title: "Chrome Location History in Browser How to Check"
-description: "Learn how to check your location history in Chrome browser. Find out what location data Chrome stores and how to manage it."
+title: Chrome Location History in Browser How to Check
+description: Learn how to check your location history in Chrome browser. Find out
+  what location data Chrome stores and how to manage it. Discover essential insights
+  and p...
 date: 2026-01-20
-categories: [privacy, browser, location]
-tags: [chrome, location, history, privacy, browser-settings]
+categories:
+- privacy
+- browser
+- location
+tags:
+- chrome
+- location
+- history
+- privacy
+- browser-settings
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-location-history-in-browser-how-to-check
 ---
 
 # Chrome Location History in Browser How to Check

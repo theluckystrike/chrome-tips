@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Chrome for Music Discovery Extensions"
-description: "Find the best Chrome extensions for music discovery to uncover new artists, explore genres, and expand your playlists effortlessly."
+title: Chrome for Music Discovery Extensions
+description: Find the best Chrome extensions for music discovery to uncover new artists,
+  explore genres, and expand your playlists effortlessly. Discover essential insigh...
 date: 2026-03-10
-categories: [productivity, tips]
-tags: [chrome-extensions, music, browser-tools]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- music
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-music-discovery-extensions
 ---
 
 # Chrome for Music Discovery Extensions

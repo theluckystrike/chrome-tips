@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions for Social Media Managers"
-description: "Discover the best Chrome extensions for social media managers to streamline content scheduling, analytics, and workflow in 2026."
+title: Chrome Extensions for Social Media Managers
+description: Discover the best Chrome extensions for social media managers to streamline
+  content scheduling, analytics, and workflow in 2026. Discover essential insights
+  ...
 date: 2026-03-11
-categories: [productivity, social-media]
-tags: [chrome-extensions, social-media, social-media-manager, marketing, productivity]
+categories:
+- productivity
+- social-media
+tags:
+- chrome-extensions
+- social-media
+- social-media-manager
+- marketing
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-social-media-managers
 ---
 
 # Chrome Extensions for Social Media Managers

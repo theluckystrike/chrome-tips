@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Chrome Custom Elements Explained"
-description: "Learn what Chrome custom elements are, how they work, and why they matter for your browsing experience."
+title: Chrome Custom Elements Explained
+description: Learn what Chrome custom elements are, how they work, and why they matter
+  for your browsing experience. Discover essential insights and practical advice to
+  o...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-custom-elements-explained
 ---
 
 If you have ever wondered what makes some websites feel like fully functional applications running inside your browser, chrome custom elements are likely playing a big part. Chrome custom elements explained simply are a way for web developers to create their own HTML tags that behave exactly like the standard ones you already know, such as buttons, inputs, or paragraphs, but with superpowers that regular HTML does not offer.

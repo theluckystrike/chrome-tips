@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "How to Recover Accidentally Closed Chrome Tabs"
-description: "Lost tabs after closing Chrome? Learn practical methods to recover your tabs, from simple shortcuts to browser settings. Perfect for users with slow computers."
+title: How to Recover Accidentally Closed Chrome Tabs
+description: Lost tabs after closing Chrome? Learn practical methods to recover your
+  tabs, from simple shortcuts to browser settings. Perfect for users with slow computers.
 date: 2026-01-15
-categories: [chrome, tabs, recovery]
-tags: [chrome-tabs, tab-recovery, browser-tips, productivity]
+categories:
+- chrome
+- tabs
+- recovery
+tags:
+- chrome-tabs
+- tab-recovery
+- browser-tips
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: accidentally-closed-all-chrome-tabs-recovery
 ---
 
 # How to Recover Accidentally Closed Chrome Tabs

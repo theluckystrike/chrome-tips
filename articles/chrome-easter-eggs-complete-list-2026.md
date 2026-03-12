@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome easter eggs complete list 2026"
-description: "Discover hidden Chrome easter eggs and fun tricks in your browser. Complete guide to accessing secret features in Google Chrome for 2026."
+title: chrome easter eggs complete list 2026
+description: Discover hidden Chrome easter eggs and fun tricks in your browser. Complete
+  guide to accessing secret features in Google Chrome for 2026. Discover essential
+  ...
 date: 2026-03-09
-categories: [features, fun]
-tags: [easter-eggs, chrome-features, hidden-features, fun]
+categories:
+- features
+- fun
+tags:
+- easter-eggs
+- chrome-features
+- hidden-features
+- fun
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-easter-eggs-complete-list-2026
 ---
 
 # Chrome Easter Eggs Complete List 2026

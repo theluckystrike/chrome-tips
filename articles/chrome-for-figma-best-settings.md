@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome for Figma Best Settings"
-description: "Optimize Chrome for smoother Figma design work. Learn settings that improve performance and reduce lag."
+title: Chrome for Figma Best Settings
+description: Optimize Chrome for smoother Figma design work. Learn settings that improve
+  performance and reduce lag. Discover essential insights and practical advice to
+  o...
 date: 2025-02-20
-categories: [performance, design]
-tags: [chrome-settings, figma, design-tools, browser-performance]
+categories:
+- performance
+- design
+tags:
+- chrome-settings
+- figma
+- design-tools
+- browser-performance
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-figma-best-settings
 ---
 
 # Chrome for Figma Best Settings

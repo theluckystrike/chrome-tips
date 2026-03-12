@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Secure DNS: What It Is and How to Enable"
-description: "Learn what Chrome Secure DNS is, why it matters for your privacy, and how to enable it in a few simple steps."
+title: 'Chrome Secure DNS: What It Is and How to Enable'
+description: Learn what Chrome Secure DNS is, why it matters for your privacy, and
+  how to enable it in a few simple steps. Discover essential insights and practical
+  advic...
 date: 2026-01-15
-categories: [privacy, security, chrome]
-tags: [chrome-secure-dns, privacy, security, browser-settings]
+categories:
+- privacy
+- security
+- chrome
+tags:
+- chrome-secure-dns
+- privacy
+- security
+- browser-settings
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-secure-dns-what-it-is-and-how-to-enable
 ---
 
 # Chrome Secure DNS: What It Is and How to Enable

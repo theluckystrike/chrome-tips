@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Reading List Manager"
-description: "Learn how Chrome extensions for reading list manager can help you organize saved articles and reduce tab clutter."
+title: Chrome Extensions for Reading List Manager
+description: Learn how Chrome extensions for reading list manager can help you organize
+  saved articles and reduce tab clutter. Discover essential insights and practical
+  a...
 date: 2026-03-10
-categories: [reading, tips]
-tags: [chrome-extensions, reading, browser-tools]
+categories:
+- reading
+- tips
+tags:
+- chrome-extensions
+- reading
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-reading-list-manager
 ---
 
 # Chrome Extensions for Reading List Manager

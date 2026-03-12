@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Cookies Keep Getting Deleted Fix"
-description: "Chrome cookies keep getting deleted? Learn why Chrome deletes cookies and how to fix it with simple solutions."
+title: Chrome Cookies Keep Getting Deleted Fix
+description: Chrome cookies keep getting deleted? Learn why Chrome deletes cookies
+  and how to fix it with simple solutions. Discover essential insights and practical
+  advi...
 date: 2025-03-09
-categories: [troubleshooting, tips]
-tags: [chrome-cookies, browser-cookies, cookie-issue, cookie-fix]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-cookies
+- browser-cookies
+- cookie-issue
+- cookie-fix
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-cookies-keep-getting-deleted-fix
 ---
 
 # Chrome Cookies Keep Getting Deleted Fix

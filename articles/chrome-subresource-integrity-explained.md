@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Subresource Integrity Explained"
-description: "Learn what Chrome subresource integrity is, why it matters for your browsing security, and what to do when it causes problems."
+title: Chrome Subresource Integrity Explained
+description: Learn what Chrome subresource integrity is, why it matters for your browsing
+  security, and what to do when it causes problems. Discover essential insights an...
 date: 2025-03-10
-categories: [security, troubleshooting]
-tags: [chrome-subresource-integrity, browser-security, web-security, chrome-fix]
+categories:
+- security
+- troubleshooting
+tags:
+- chrome-subresource-integrity
+- browser-security
+- web-security
+- chrome-fix
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-subresource-integrity-explained
 ---
 
 # Chrome Subresource Integrity Explained

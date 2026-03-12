@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Autofill Wrong Address How to Fix"
-description: "Chrome autofill wrong address can be frustrating. Learn why Chrome fills the wrong address and how to fix it quickly."
+title: Chrome Autofill Wrong Address How to Fix
+description: Chrome autofill wrong address can be frustrating. Learn why Chrome fills
+  the wrong address and how to fix it quickly. Discover essential insights and practic...
 date: 2025-03-09
-categories: [troubleshooting, tips]
-tags: [chrome-autofill, autofill-wrong-address, chrome-fix, browser-tips]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-autofill
+- autofill-wrong-address
+- chrome-fix
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-autofill-wrong-address-how-to-fix
 ---
 
 # Chrome Autofill Wrong Address How to Fix

@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "chrome browser fingerprint how to check yours"
-description: "Learn what a browser fingerprint is, how to check yours, and simple steps to protect your privacy in Chrome."
+title: chrome browser fingerprint how to check yours
+description: Learn what a browser fingerprint is, how to check yours, and simple steps
+  to protect your privacy in Chrome. Discover essential insights and practical advice...
 date: 2026-01-20
-categories: [privacy, security]
-tags: [chrome-browser-fingerprint, browser-fingerprint, check-fingerprint, online-privacy]
+categories:
+- privacy
+- security
+tags:
+- chrome-browser-fingerprint
+- browser-fingerprint
+- check-fingerprint
+- online-privacy
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-browser-fingerprint-how-to-check-yours
 ---
 
 # Chrome Browser Fingerprint How to Check Yours

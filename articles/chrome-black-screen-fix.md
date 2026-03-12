@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Black Screen Fix"
-description: "Is your Chrome browser showing a black screen? Learn what causes it and how to fix it with simple solutions anyone can try."
+title: Chrome Black Screen Fix
+description: Is your Chrome browser showing a black screen? Learn what causes it and
+  how to fix it with simple solutions anyone can try. Discover essential insights
+  and p...
 date: 2026-01-15
-categories: [troubleshooting, performance]
-tags: [chrome-black-screen, chrome-fix, browser-problem, black-screen-fix]
+categories:
+- troubleshooting
+- performance
+tags:
+- chrome-black-screen
+- chrome-fix
+- browser-problem
+- black-screen-fix
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-black-screen-fix
 ---
 
 # Chrome Black Screen Fix

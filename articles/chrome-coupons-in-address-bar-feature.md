@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome coupons in address bar feature"
-description: "Learn how the chrome coupons in address bar feature works and discover tools that automatically find and apply coupon codes while you shop online."
+title: chrome coupons in address bar feature
+description: Learn how the chrome coupons in address bar feature works and discover
+  tools that automatically find and apply coupon codes while you shop online. Discover
+  e...
 date: 2026-01-15
-categories: [extensions, shopping]
-tags: [coupons, chrome-extension, shopping, deals]
+categories:
+- extensions
+- shopping
+tags:
+- coupons
+- chrome-extension
+- shopping
+- deals
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-coupons-in-address-bar-feature
 ---
 
 # Chrome Coupons in Address Bar Feature

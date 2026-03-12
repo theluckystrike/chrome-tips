@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Encrypted DNS Explained for Beginners"
-description: "Learn what Chrome encrypted DNS is, why it protects your privacy, and how to enable it in simple steps."
+title: Chrome Encrypted DNS Explained for Beginners
+description: Learn what Chrome encrypted DNS is, why it protects your privacy, and
+  how to enable it in simple steps. Discover essential insights and practical advice
+  to o...
 date: 2026-01-15
-categories: [privacy, security, chrome]
-tags: [chrome-encrypted-dns, privacy, security, browser-settings]
+categories:
+- privacy
+- security
+- chrome
+tags:
+- chrome-encrypted-dns
+- privacy
+- security
+- browser-settings
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-encrypted-dns-explained-for-beginners
 ---
 
 # Chrome Encrypted DNS Explained for Beginners

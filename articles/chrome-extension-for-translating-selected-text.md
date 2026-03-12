@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Extension for Translating Selected Text"
-description: "Learn how to use Chrome extensions to translate selected text instantly, making reading foreign content easier than ever."
+title: Chrome Extension for Translating Selected Text
+description: Learn how to use Chrome extensions to translate selected text instantly,
+  making reading foreign content easier than ever. Discover essential insights and
+  pra...
 date: 2026-03-09
-categories: [translation, tips]
-tags: [chrome-extensions, translation, language, browser-tools]
+categories:
+- translation
+- tips
+tags:
+- chrome-extensions
+- translation
+- language
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-translating-selected-text
 ---
 
 # Chrome Extension for Translating Selected Text

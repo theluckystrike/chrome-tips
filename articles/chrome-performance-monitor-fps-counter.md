@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome performance monitor fps counter"
-description: "Learn how to use Chrome Performance Monitor and FPS counter to track browser performance. Discover built-in tools and extensions for measuring frame rates and optimizing Chrome."
+title: chrome performance monitor fps counter
+description: Learn how to use Chrome Performance Monitor and FPS counter to track
+  browser performance. Discover built-in tools and extensions for measuring frame
+  rates an...
 date: 2026-01-15
-categories: [features, performance]
-tags: [performance, fps, browser-speed, chrome-devtools]
+categories:
+- features
+- performance
+tags:
+- performance
+- fps
+- browser-speed
+- chrome-devtools
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-performance-monitor-fps-counter
 ---
 
 # How to Use Chrome Performance Monitor and FPS Counter

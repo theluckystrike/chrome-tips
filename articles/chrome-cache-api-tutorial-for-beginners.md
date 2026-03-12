@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Cache API Tutorial for Beginners"
-description: "Learn what the Chrome Cache API is, how to use it, and why it matters for faster web browsing. A simple guide for everyone."
+title: Chrome Cache API Tutorial for Beginners
+description: Learn what the Chrome Cache API is, how to use it, and why it matters
+  for faster web browsing. A simple guide for everyone. Discover essential insights
+  and p...
 date: 2025-03-10
-categories: [beginners, tips, web-development]
-tags: [chrome-cache-api, browser-cache, web-storage, performance]
+categories:
+- beginners
+- tips
+- web-development
+tags:
+- chrome-cache-api
+- browser-cache
+- web-storage
+- performance
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-cache-api-tutorial-for-beginners
 ---
 
 # Chrome Cache API Tutorial for Beginners

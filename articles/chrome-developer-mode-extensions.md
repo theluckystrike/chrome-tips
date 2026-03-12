@@ -1,8 +1,12 @@
 ---
 layout: default
-title: "Chrome Developer Mode Extensions Guide"
-
+title: Chrome Developer Mode Extensions Guide
 author: theluckystrike
+description: Learn all about Chrome Developer Mode Extensions Guide in this comprehensive
+  guide. We cover the latest Chrome features, settings, and tips to help you brows...
+date: '2026-03-10'
+last_modified_at: '2026-03-12'
+permalink: chrome-developer-mode-extensions
 ---
 
 # Chrome Developer Mode Extensions Guide

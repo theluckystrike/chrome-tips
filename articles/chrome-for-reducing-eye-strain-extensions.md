@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome for Reducing Eye Strain Extensions"
-description: "Discover Chrome extensions that help reduce eye strain. Learn about blue light filters, dark mode tools, and more ways to protect your eyes."
+title: Chrome for Reducing Eye Strain Extensions
+description: Discover Chrome extensions that help reduce eye strain. Learn about blue
+  light filters, dark mode tools, and more ways to protect your eyes. Discover essenti...
 date: 2026-01-15
-categories: [productivity, extensions]
-tags: [chrome-extensions, eye-strain, productivity, health]
+categories:
+- productivity
+- extensions
+tags:
+- chrome-extensions
+- eye-strain
+- productivity
+- health
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-reducing-eye-strain-extensions
 ---
 
 # Chrome for Reducing Eye Strain Extensions

@@ -1,7 +1,13 @@
 ---
 layout: post
-
 author: theluckystrike
+title: Chrome Extensions For Writers
+description: Learn all about Chrome Extensions For Writers in this comprehensive guide.
+  We cover the latest Chrome features, settings, and tips to help you browse more
+  ef...
+date: '2026-03-10'
+last_modified_at: '2026-03-12'
+permalink: chrome-extensions-for-writers
 ---
 
 # Best Chrome Extensions for Writers 2026

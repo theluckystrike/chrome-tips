@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Startup Time How to Measure"
-description: "Learn how to measure Chrome startup time and what you can do to make your browser open faster."
+title: Chrome Startup Time How to Measure
+description: Learn how to measure Chrome startup time and what you can do to make
+  your browser open faster. Discover essential insights and practical advice to optimize
+  y...
 date: 2026-01-20
-categories: [performance, browser, chrome]
-tags: [chrome, browser-speed, startup, performance]
+categories:
+- performance
+- browser
+- chrome
+tags:
+- chrome
+- browser-speed
+- startup
+- performance
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-startup-time-how-to-measure
 ---
 
 # Chrome Startup Time How to Measure

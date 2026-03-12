@@ -1,11 +1,22 @@
 ---
 layout: default
-title: "Chrome Recorder Panel Guide"
-description: "Master Chrome's Recorder Panel to record user flows, analyze performance insights, replay interactions, and export recordings. The ultimate guide for developers and QA testers."
+title: Chrome Recorder Panel Guide
+description: Master Chrome's Recorder Panel to record user flows, analyze performance
+  insights, replay interactions, and export recordings. The ultimate guide for develop...
 date: 2026-01-20
-categories: [chrome, devtools, testing]
-tags: [chrome-recorder, devtools, user-flow, testing, performance]
+categories:
+- chrome
+- devtools
+- testing
+tags:
+- chrome-recorder
+- devtools
+- user-flow
+- testing
+- performance
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-recorder-panel-guide
 ---
 
 # Chrome Recorder Panel Guide

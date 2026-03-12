@@ -1,11 +1,23 @@
 ---
 layout: post
-title: "Chrome CSS Animations Performance Tips"
-description: "Learn how to make your CSS animations smoother and faster in Chrome with these practical performance tips."
+title: Chrome CSS Animations Performance Tips
+description: Learn how to make your CSS animations smoother and faster in Chrome with
+  these practical performance tips. Discover essential insights and practical advice
+  t...
 date: 2026-01-15
-categories: [performance, web-development, css]
-tags: [chrome, css, animations, performance, web-design]
+categories:
+- performance
+- web-development
+- css
+tags:
+- chrome
+- css
+- animations
+- performance
+- web-design
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-css-animations-performance-tips
 ---
 
 # Chrome CSS Animations Performance Tips

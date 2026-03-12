@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome bookmark current page shortcut"
-description: "Learn how to quickly bookmark the page you are viewing in Chrome with simple keyboard shortcuts and mouse actions."
+title: chrome bookmark current page shortcut
+description: Learn how to quickly bookmark the page you are viewing in Chrome with
+  simple keyboard shortcuts and mouse actions. Discover essential insights and practical
+  ...
 date: 2026-01-15
-categories: [tips, bookmarks]
-tags: [chrome, bookmark, keyboard-shortcuts, productivity]
+categories:
+- tips
+- bookmarks
+tags:
+- chrome
+- bookmark
+- keyboard-shortcuts
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-bookmark-current-page-shortcut
 ---
 
 # Chrome Bookmark Current Page Shortcut

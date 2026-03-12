@@ -1,11 +1,24 @@
 ---
 layout: post
-title: "Chrome for Reddit Best Extensions"
-description: "Find the best Chrome extensions for Reddit to enhance your browsing, boost productivity, and get more from the platform."
+title: Chrome for Reddit Best Extensions
+description: Find the best Chrome extensions for Reddit to enhance your browsing,
+  boost productivity, and get more from the platform. Discover essential insights
+  and prac...
 date: 2026-03-10
-categories: [reddit, social-media, productivity, tips]
-tags: [chrome-extensions, reddit, social-media, productivity, browser-tools]
+categories:
+- reddit
+- social-media
+- productivity
+- tips
+tags:
+- chrome-extensions
+- reddit
+- social-media
+- productivity
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-reddit-best-extensions
 ---
 
 # Chrome for Reddit Best Extensions

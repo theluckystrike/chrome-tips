@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions for Meditation"
-description: "Discover the best chrome extensions for meditation to reduce stress, improve focus, and bring calm to your browsing experience."
+title: Chrome Extensions for Meditation
+description: Discover the best chrome extensions for meditation to reduce stress,
+  improve focus, and bring calm to your browsing experience. Discover essential insights
+  a...
 date: 2026-03-09
-categories: [productivity, wellness]
-tags: [chrome-extensions, meditation, mindfulness, stress-relief, focus]
+categories:
+- productivity
+- wellness
+tags:
+- chrome-extensions
+- meditation
+- mindfulness
+- stress-relief
+- focus
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-meditation
 ---
 
 # Chrome Extensions for Meditation

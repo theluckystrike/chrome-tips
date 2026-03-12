@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "chrome for yahoo mail best extensions"
-description: "Find the best Chrome extensions for Yahoo Mail to boost productivity, organize your inbox, and streamline your email workflow."
+title: chrome for yahoo mail best extensions
+description: Find the best Chrome extensions for Yahoo Mail to boost productivity,
+  organize your inbox, and streamline your email workflow. Discover essential insights
+  an...
 date: 2026-01-15
-categories: [extensions, email, productivity]
-tags: [chrome-extensions, yahoo-mail, email, productivity]
+categories:
+- extensions
+- email
+- productivity
+tags:
+- chrome-extensions
+- yahoo-mail
+- email
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-yahoo-mail-best-extensions
 ---
 
 # Chrome for Yahoo Mail Best Extensions

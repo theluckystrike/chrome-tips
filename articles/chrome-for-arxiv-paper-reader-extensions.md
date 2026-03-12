@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome for Arxiv Paper Reader Extensions"
-description: "Discover the best Chrome extensions for reading Arxiv papers more efficiently, with features for better formatting and organization."
+title: Chrome for Arxiv Paper Reader Extensions
+description: Discover the best Chrome extensions for reading Arxiv papers more efficiently,
+  with features for better formatting and organization. Discover essential insig...
 date: 2026-03-10
-categories: [browsing, tips]
-tags: [chrome-extensions, arxiv, academic, reading]
+categories:
+- browsing
+- tips
+tags:
+- chrome-extensions
+- arxiv
+- academic
+- reading
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-arxiv-paper-reader-extensions
 ---
 
 # Chrome for Arxiv Paper Reader Extensions

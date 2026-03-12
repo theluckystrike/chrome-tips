@@ -1,11 +1,26 @@
 ---
 layout: post
-title: "Chrome Keyboard Lock API: Building Immersive Fullscreen Games"
-description: "Learn how to use the Chrome Keyboard Lock API to capture keyboard input for immersive fullscreen web games. Step-by-step guide with code examples."
+title: 'Chrome Keyboard Lock API: Building Immersive Fullscreen Games'
+description: Learn how to use the Chrome Keyboard Lock API to capture keyboard input
+  for immersive fullscreen web games. Step-by-step guide with code examples. Discover
+  e...
 date: 2026-01-15
-categories: [chrome, web-development, gaming, api, javascript]
-tags: [keyboard-lock-api, fullscreen-games, chrome-api, web-gaming, browser-gaming, game-development]
+categories:
+- chrome
+- web-development
+- gaming
+- api
+- javascript
+tags:
+- keyboard-lock-api
+- fullscreen-games
+- chrome-api
+- web-gaming
+- browser-gaming
+- game-development
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-keyboard-lock-api-fullscreen-games
 ---
 
 # Chrome Keyboard Lock API: Building Immersive Fullscreen Games

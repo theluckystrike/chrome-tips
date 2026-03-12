@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "How to Increase Chrome Cache Size"
-description: "Learn how to increase Chrome cache size to speed up browsing. Simple steps to manage cache settings and improve performance."
+title: How to Increase Chrome Cache Size
+description: Learn how to increase Chrome cache size to speed up browsing. Simple
+  steps to manage cache settings and improve performance. Discover essential insights
+  and ...
 date: 2025-02-19
-categories: [performance]
-tags: [chrome-cache, browser-optimization, storage]
+categories:
+- performance
+tags:
+- chrome-cache
+- browser-optimization
+- storage
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-cache-size-how-to-increase
 ---
 
 # How to Increase Chrome Cache Size

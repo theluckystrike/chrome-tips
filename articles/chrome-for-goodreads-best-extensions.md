@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome for Goodreads Best Extensions"
-description: "Find the best Chrome extensions for Goodreads to enhance your reading tracking, discover new books, and manage your library effortlessly."
+title: Chrome for Goodreads Best Extensions
+description: Find the best Chrome extensions for Goodreads to enhance your reading
+  tracking, discover new books, and manage your library effortlessly. Discover essential
+  ...
 date: 2026-03-10
-categories: [goodreads, extensions]
-tags: [chrome-extensions, goodreads, reading]
+categories:
+- goodreads
+- extensions
+tags:
+- chrome-extensions
+- goodreads
+- reading
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-goodreads-best-extensions
 ---
 
 # Chrome for Goodreads Best Extensions

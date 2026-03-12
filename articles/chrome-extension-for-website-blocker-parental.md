@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Extension for Website Blocker Parental"
-description: "Learn how chrome extension for website blocker parental tools help parents protect children from harmful content and manage screen time."
+title: Chrome Extension for Website Blocker Parental
+description: Learn how chrome extension for website blocker parental tools help parents
+  protect children from harmful content and manage screen time. Discover essential
+  i...
 date: 2026-03-09
-categories: [productivity]
-tags: [parental-control, website-blocking, chrome-extensions, family-safety]
+categories:
+- productivity
+tags:
+- parental-control
+- website-blocking
+- chrome-extensions
+- family-safety
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-website-blocker-parental
 ---
 
 # Chrome Extension for Website Blocker Parental

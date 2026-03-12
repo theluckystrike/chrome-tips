@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Chrome DevTools Emulate Color Schemes"
-description: "Learn how to use Chrome DevTools to test your website with different color schemes and ensure it works for all users."
+title: Chrome DevTools Emulate Color Schemes
+description: Learn how to use Chrome DevTools to test your website with different
+  color schemes and ensure it works for all users. Discover essential insights and
+  practic...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-devtools-emulate-color-schemes
 ---
 
 Chrome devtools emulate color schemes is a powerful feature built into Google Chrome that lets you see how your website looks when users have different system color preferences. If you have ever wondered why some websites look different on your computer compared to your phone, or if you want to make sure your website works well for users who prefer dark mode or high contrast, this tool is exactly what you need. Let me explain how this feature works, why it matters, and how you can use it to improve your website.

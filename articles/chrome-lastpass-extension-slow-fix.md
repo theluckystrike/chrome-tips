@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome LastPass Extension Slow Fix"
-description: "Is your LastPass Chrome extension running slowly? Learn practical solutions to fix performance issues and speed up your browser."
+title: Chrome LastPass Extension Slow Fix
+description: Is your LastPass Chrome extension running slowly? Learn practical solutions
+  to fix performance issues and speed up your browser. Discover essential insights
+  ...
 date: 2026-01-15
-categories: [extensions, troubleshooting]
-tags: [lastpass, chrome-extensions, performance, password-manager]
+categories:
+- extensions
+- troubleshooting
+tags:
+- lastpass
+- chrome-extensions
+- performance
+- password-manager
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-lastpass-extension-slow-fix
 ---
 
 # Chrome LastPass Extension Slow Fix

@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Autofill Suggestions How to Delete One"
-description: "Learn how to delete individual autofill suggestions in Chrome. Simple steps to remove unwanted entries without clearing everything."
+title: Chrome Autofill Suggestions How to Delete One
+description: Learn how to delete individual autofill suggestions in Chrome. Simple
+  steps to remove unwanted entries without clearing everything. Discover essential
+  insigh...
 date: 2026-03-09
-categories: [privacy]
-tags: [autofill, chrome-settings, suggestions, privacy]
+categories:
+- privacy
+tags:
+- autofill
+- chrome-settings
+- suggestions
+- privacy
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-autofill-suggestions-how-to-delete-one
 ---
 
 # Chrome Autofill Suggestions How to Delete One

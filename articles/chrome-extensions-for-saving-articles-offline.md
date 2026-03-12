@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Saving Articles Offline"
-description: "Learn how to save articles for offline reading with Chrome extensions that work reliably and keep your content accessible anywhere."
+title: Chrome Extensions for Saving Articles Offline
+description: Learn how to save articles for offline reading with Chrome extensions
+  that work reliably and keep your content accessible anywhere. Discover essential
+  insigh...
 date: 2026-03-09
-categories: [saving, tips]
-tags: [chrome-extensions, offline, saving-articles]
+categories:
+- saving
+- tips
+tags:
+- chrome-extensions
+- offline
+- saving-articles
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-saving-articles-offline
 ---
 
 # Chrome Extensions for Saving Articles Offline

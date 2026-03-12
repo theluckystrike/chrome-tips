@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "chrome for kayak price alerts extension"
-description: "Discover Chrome extensions for Kayak price alerts to track flight deals and save money on travel bookings."
+title: chrome for kayak price alerts extension
+description: Discover Chrome extensions for Kayak price alerts to track flight deals
+  and save money on travel bookings. Discover essential insights and practical advice
+  t...
 date: 2026-03-10
-categories: [extensions, travel]
-tags: [kayak, price alerts, travel, flights, extensions]
+categories:
+- extensions
+- travel
+tags:
+- kayak
+- price alerts
+- travel
+- flights
+- extensions
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-kayak-price-alerts-extension
 ---
 
 # Chrome for Kayak Price Alerts Extension

@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome for custom new tab page extensions"
-description: "Learn how to customize your new tab page in Chrome with extensions that transform your start page into something useful and personal."
+title: chrome for custom new tab page extensions
+description: Learn how to customize your new tab page in Chrome with extensions that
+  transform your start page into something useful and personal. Discover essential
+  insi...
 date: 2026-01-15
-categories: [extensions, customization]
-tags: [new-tab, chrome-extension, customization, productivity]
+categories:
+- extensions
+- customization
+tags:
+- new-tab
+- chrome-extension
+- customization
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-custom-new-tab-page-extensions
 ---
 
 # Chrome for Custom New Tab Page Extensions

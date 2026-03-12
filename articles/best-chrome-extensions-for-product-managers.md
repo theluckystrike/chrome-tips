@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Product Managers"
-description: "Discover the best Chrome extensions for product managers to streamline workflows, manage projects, and boost productivity."
+title: Best Chrome Extensions for Product Managers
+description: Discover the best Chrome extensions for product managers to streamline
+  workflows, manage projects, and boost productivity. Discover essential insights
+  and pr...
 date: 2026-03-10
-categories: [product-managers, tips]
-tags: [chrome-extensions, product-managers, browser-tools]
+categories:
+- product-managers
+- tips
+tags:
+- chrome-extensions
+- product-managers
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: best-chrome-extensions-for-product-managers
 ---
 
 # Best Chrome Extensions for Product Managers

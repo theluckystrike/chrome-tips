@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "chrome circle to search on desktop"
-description: "Learn how to get Circle to Search functionality on your Chrome desktop browser. Simple methods to search anything on screen without typing."
+title: chrome circle to search on desktop
+description: Learn how to get Circle to Search functionality on your Chrome desktop
+  browser. Simple methods to search anything on screen without typing. Discover essentia...
 date: 2026-03-09
-categories: [features, search]
-tags: [circle-search, chrome-settings, search-tools, desktop]
+categories:
+- features
+- search
+tags:
+- circle-search
+- chrome-settings
+- search-tools
+- desktop
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-circle-to-search-on-desktop
 ---
 
 # Chrome Circle to Search on Desktop

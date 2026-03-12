@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Chrome Text Size on Phone How to Change"
-description: "Learn how to change text size in Chrome on your phone with simple settings and tips for comfortable reading."
+description: "Learn how to change text size in Chrome on your phone with simple settings and tips for comfortable reading. Check out our complete 2026 guide for more detai..."
+date: 2026-03-12
+last_modified_at: 2026-03-10
+permalink: chrome-text-size-on-phone-how-to-change
 ---
-
 Chrome text size on phone how to change is something many people search for when they find themselves squinting at their screen. Whether you are reading articles, browsing social media, or checking emails, having comfortable text size makes a big difference in your browsing experience. The good news is that Chrome on your phone gives you several ways to adjust text size, and I will walk you through each one.
 
 Let me start by explaining why text might feel too small on your phone, and then give you practical steps to fix it.

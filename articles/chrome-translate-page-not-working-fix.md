@@ -3,11 +3,12 @@ layout: post
 title: "Chrome Translate Page Not Working Fix: Practical Solutions That Actually Work"
 description: "Chrome translate feature not working? Learn step-by-step solutions to fix the page translation issue in Google Chrome. Covers common causes and fixes."
 date: 2026-01-20
+last_modified_at: 2026-03-11
+permalink: chrome-translate-page-not-working-fix
 categories: [chrome, translation, troubleshooting]
 tags: [chrome-translate, browser-translation, translation-fix, google-chrome]
 author: theluckystrike
 ---
-
 # Chrome Translate Page Not Working Fix: Practical Solutions That Actually Work
 
 You've encountered a webpage in a foreign language, and you expect Chrome's built-in translate feature to kick in automatically—but nothing happens. You right-click hoping to find a translate option, but it's missing. Or maybe Chrome asks to translate, you click "Translate," and nothing changes. If you're dealing with "chrome translate page not working," you're not alone. This is a surprisingly common issue, and the good news is that it's usually fixable. Let me walk you through the most effective solutions, starting with the simplest.

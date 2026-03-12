@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Chrome Tech Support Scam Popup Fix"
-description: "Got a fake tech support popup in Chrome? Learn how to recognize, remove, and prevent tech support scam popups with these practical solutions."
+description: "Got a fake tech support popup in Chrome? Learn how to recognize, remove, and prevent tech support scam popups with these practical solutions. Check out our c..."
+date: 2026-03-12
+last_modified_at: 2026-03-11
+permalink: chrome-tech-support-scam-popup-fix
 ---
-
 You're browsing peacefully when suddenly your screen freezes, a loud alarm blares, and a message claims your computer is infected with viruses. The popup looks official — it has Microsoft's logo, a phone number, and warns that your data is at risk. Sound familiar? This is a tech support scam, and it is one of the most common browser annoyances in 2026.
 
 The good news? These popups are almost never real. Chrome has built-in protections, and you can remove these scams yourself without paying anything or calling any number.

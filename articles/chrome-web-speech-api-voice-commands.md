@@ -1,9 +1,11 @@
 ---
-title: "Chrome Web Speech API Voice Commands: A Complete Guide"
+title: 'Chrome Web Speech API Voice Commands: A Complete Guide'
 date: 2025-01-15
 layout: article
+description: ' Learn how to optimize your browser today for better performance...........................................................................................'
+last_modified_at: '2026-03-11'
+permalink: chrome-web-speech-api-voice-commands
 ---
-
 # Chrome Web Speech API Voice Commands: A Complete Guide
 
 Have you ever wished you could control your browser with just your voice? Chrome's Web Speech API makes this possible, enabling developers to build voice-controlled web applications and giving users hands-free browsing capabilities. This powerful technology is built directly into Chrome, meaning you don't need any extensions to start using voice commands in supported apps.

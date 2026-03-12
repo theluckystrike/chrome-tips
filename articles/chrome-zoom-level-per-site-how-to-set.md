@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "Chrome Zoom Level Per Site How to Set"
-description: "Learn how to set custom zoom levels for specific websites in Chrome so each site opens at your preferred magnification automatically."
+title: Chrome Zoom Level Per Site How to Set
+description: Learn how to set custom zoom levels for specific websites in Chrome so
+  each site opens at your preferred magnification automatically. Learn how to optimize
+  y...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-zoom-level-per-site-how-to-set
 ---
-
 Chrome zoom level per site how to set is a common question from people who want different websites to open at different magnification levels. Maybe you like your email at 100% but need your favorite news site zoomed in to 125% for easier reading. Or perhaps you work with data-heavy dashboards that are easier to read at 150%. The good news is that Chrome can remember your zoom preference for each individual website, and setting this up is simpler than you might think. Let me explain how it works and walk you through the steps.
 
 ## Why You Need Per-Site Zoom Settings

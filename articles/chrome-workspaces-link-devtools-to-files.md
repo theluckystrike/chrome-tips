@@ -1,13 +1,24 @@
 ---
 layout: post
-title: "Chrome Workspaces: Link DevTools to Files for Seamless Development"
-description: "Learn how to link Chrome DevTools to local files using Workspaces. Edit directly in the browser and persist changes to your file system effortlessly."
+title: 'Chrome Workspaces: Link DevTools to Files for Seamless Development'
+description: Learn how to link Chrome DevTools to local files using Workspaces. Edit
+  directly in the browser and persist changes to your file system effortlessly. Learn
+  h...
 date: 2026-03-11
-categories: [development, chrome-devtools, productivity]
-tags: [chrome-devtools, workspaces, file-editing, web-development, debugging]
+categories:
+- development
+- chrome-devtools
+- productivity
+tags:
+- chrome-devtools
+- workspaces
+- file-editing
+- web-development
+- debugging
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-workspaces-link-devtools-to-files
 ---
-
 # Chrome Workspaces: Link DevTools to Files for Seamless Development
 
 One of the most powerful features that Chrome offers web developers is the ability to link DevTools directly to your local files. When you set up this connection, you can edit CSS, JavaScript, and HTML directly within the browser, with changes automatically saved to your file system. This eliminates the tedious cycle of switching between your code editor and browser, making your development workflow significantly more efficient.

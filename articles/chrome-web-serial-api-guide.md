@@ -1,14 +1,10 @@
 ---
 layout: default
-title: Chrome Web Serial API Guide
-description: Learn how to use the Chrome Web Serial API to connect to Arduino, microcontrollers,
-  and serial devices directly from your browser. Complete guide covering ba...
-date: '2026-01-20'
-last_modified_at: '2026-03-11'
-permalink: chrome-web-serial-api-guide
-categories: '[api, development, hardware]'
-tags: '[chrome-web-serial-api, arduino, microcontroller, serial-port, baudrate, web-bluetooth,
-  hardware]'
+title: "Chrome Web Serial API Guide"
+description: "Learn how to use the Chrome Web Serial API to connect to Arduino, microcontrollers, and serial devices directly from your browser. Complete guide covering baudrate settings, port access, and practical applications."
+date: 2026-01-20
+categories: [api, development, hardware]
+tags: [chrome-web-serial-api, arduino, microcontroller, serial-port, baudrate, web-bluetooth, hardware]
 author: theluckystrike
 ---
 # Chrome Web Serial API Guide
@@ -260,11 +256,6 @@ Combined with other web APIs like WebBluetooth, WebUSB, and the Physical Web, de
 Whether you are a web developer looking to explore hardware projects or a hardware enthusiast wanting to leverage web technologies for user interfaces, the Web Serial API provides an accessible entry point. Start with simple projects like LED control, then progressively tackle more complex challenges as you become comfortable with the API and serial communication principles.
 
 The ability to communicate with Arduino, microcontrollers, and other serial devices directly from Chrome transforms the browser from a window into the digital world into a gateway to the physical world. This capability is limited only by your imagination and the devices you choose to connect.
-
-## Related Articles
-* [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix/)
-* [Chrome for Jira Best Extensions](/articles/chrome-for-jira-best-extensions/)
-* [Chrome Toolbar Customization Tips](/articles/chrome-toolbar-customization-tips/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Gesture Navigation on Android"
-description: "Learn how to use and fix Chrome gesture navigation on Android for a smoother browsing experience."
+description: "Learn how to use and fix Chrome gesture navigation on Android for a smoother browsing experience. Read more to optimize your experience. Discover essential tips"
 date: 2026-01-20
+last_modified_at: 2026-03-09
+permalink: chrome-gesture-navigation-on-android
 categories: [mobile, android, navigation]
 tags: [chrome-android, gesture-navigation, android-browser, mobile-browsing]
 author: theluckystrike
 ---
+
 
 # Chrome Gesture Navigation on Android
 

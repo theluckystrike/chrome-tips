@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Scrolling is Choppy and Laggy"
-description: "Is your Chrome browser choppy when scrolling? Learn practical fixes for slow computers with limited RAM to make browsing smooth again."
+description: "Is your Chrome browser choppy when scrolling? Learn practical fixes for slow computers with limited RAM to make browsing smooth again. Read more to optimize you"
 date: 2026-03-11
+last_modified_at: 2026-03-11
+permalink: chrome-scrolling-is-choppy-and-laggy
 categories: [performance, browser]
 tags: [chrome, scrolling, performance, lag, slow-computer]
 author: theluckystrike
 ---
+
 
 # Chrome Scrolling is Choppy and Laggy
 

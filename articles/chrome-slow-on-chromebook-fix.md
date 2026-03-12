@@ -3,12 +3,13 @@ layout: default
 title: "Chrome Slow on Chromebook? Here's How to Fix It"
 description: "Practical fixes for a slow Chrome browser on your Chromebook. Speed up browsing, reduce lag, and get your Chromebook running smoothly again. Read more to optimi"
 date: 2025-02-16
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-slow-on-chromebook-fix
 categories: [performance, chromebook]
 tags: [chrome-slow, chromebook, speed-up, browser-performance]
 author: theluckystrike
 ---
+
 
 
 # Chrome Slow on Chromebook? Here's How to Fix It

@@ -1,21 +1,15 @@
 ---
 layout: post
-title: chrome lighthouse audit how to run
-description: Learn how to run a Chrome Lighthouse audit to check your website performance,
-  accessibility, and SEO. Simple steps for beginners.
-date: '2026-03-09'
-last_modified_at: '2026-03-09'
-permalink: /chrome-lighthouse-audit-how-to-run/
-categories:
-- tools
-- performance
-tags:
-- lighthouse
-- audit
-- performance
-- web-development
+title: "chrome lighthouse audit how to run"
+description: "Learn how to run a Chrome Lighthouse audit to check your website performance, Read more to optimize your experience. Discover essential tips for 2026."
+date: 2026-03-09
+last_modified_at: 2026-03-11
+permalink: chrome-lighthouse-audit-how-to-run
+categories: 
+tags: 
 author: theluckystrike
 ---
+
 
 # Chrome Lighthouse Audit How to Run
 

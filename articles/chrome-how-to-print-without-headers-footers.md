@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome How to Print Without Headers Footers"
-description: "Stop Chrome from adding URLs and dates to your printed pages. Simple steps to print clean documents without headers or footers."
+description: "Stop Chrome from adding URLs and dates to your printed pages. Simple steps to print clean documents without headers or footers. Read more to optimize your exper"
 date: 2025-02-19
+last_modified_at: 2026-03-09
+permalink: chrome-how-to-print-without-headers-footers
 categories: [browser-tips, printing]
 tags: [printing, headers, footers, clean-print]
 author: theluckystrike
 ---
+
 
 # Chrome How to Print Without Headers Footers
 

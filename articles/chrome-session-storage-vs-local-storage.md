@@ -1,7 +1,12 @@
 ---
+layout: post
 title: "Chrome Session Storage vs Local Storage: What's the Difference?"
-description: "Learn the key differences between Chrome session storage and local storage to choose the right one for your web development needs."
+description: "Learn the key differences between Chrome session storage and local storage to choose the right one for your web development needs. Read more to optimize your ex"
+date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: chrome-session-storage-vs-local-storage
 ---
+
 
 If you've ever wondered how websites remember your preferences, keep you logged in, or save your shopping cart items, you've encountered Chrome's web storage APIs. The two most common mechanisms are **sessionStorage** and **localStorage**, and understanding their differences is essential for both web developers and everyday users.
 

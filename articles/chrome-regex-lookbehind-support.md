@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Regex Lookbehind Support: What You Need to Know"
-description: "Chrome now supports regex lookbehind assertions in JavaScript. Learn how this powerful pattern matching feature works and how to use it."
+description: "Chrome now supports regex lookbehind assertions in JavaScript. Learn how this powerful pattern matching feature works and how to use it. Read more to optimize y"
 date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: chrome-regex-lookbehind-support
 categories: [development, regex, javascript]
 tags: [chrome-regex-lookbehind-support, regex, javascript, patterns, development]
 author: theluckystrike
 ---
+
 
 # Chrome Regex Lookbehind Support: What You Need to Know
 

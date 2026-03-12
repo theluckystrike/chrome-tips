@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome How to Disable GPU Acceleration"
-description: "Learn how to disable GPU acceleration in Chrome to fix display issues, crashes, and improve performance on older computers."
+description: "Learn how to disable GPU acceleration in Chrome to fix display issues, crashes, and improve performance on older computers. Read more to optimize your experienc"
 date: 2025-02-19
+last_modified_at: 2026-03-09
+permalink: chrome-how-to-disable-gpu-acceleration
 categories: [browser-tips, performance]
 tags: [gpu, acceleration, graphics, performance, troubleshooting]
 author: theluckystrike
 ---
+
 
 # Chrome How to Disable GPU Acceleration
 

@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Process Per Tab Why and How to Change"
-description: "Learn why Chrome uses a separate process for each tab and how to change this behavior to improve performance on your computer."
+description: "Learn why Chrome uses a separate process for each tab and how to change this behavior to improve performance on your computer. Read more to optimize your experi"
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-process-per-tab-why-and-how-to-change
 categories: [performance, processes]
 tags: [chrome-processes, chrome-tabs, chrome-memory, browser-performance]
 author: theluckystrike
 ---
+
 
 # Chrome Process Per Tab Why and How to Change
 

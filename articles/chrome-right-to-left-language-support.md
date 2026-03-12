@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "chrome right to left language support"
-description: "Learn how to fix right-to-left language display issues in Chrome. Solutions for Arabic, Hebrew, Persian, and other RTL languages."
+description: "Learn how to fix right-to-left language display issues in Chrome. Solutions for Arabic, Hebrew, Persian, and other RTL languages. Read more to optimize your exp"
 date: 2026-03-09
+last_modified_at: 2026-03-10
+permalink: chrome-right-to-left-language-support
 categories: [features, accessibility]
 tags: [language, rtl, accessibility, text-display, international]
 author: theluckystrike
 ---
+
 
 # Chrome Right to Left Language Support
 

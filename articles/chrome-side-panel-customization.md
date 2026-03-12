@@ -3,10 +3,13 @@ layout: post
 title: "Chrome Side Panel Customization: Complete Guide for 2026"
 description: "Master chrome side panel customization with our comprehensive guide. Learn how to personalize your browsing experience with extensions, layouts, and settings."
 date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: chrome-side-panel-customization
 categories: [chrome, customization, productivity]
 tags: [chrome-side-panel, browser-customization, chrome-tips, productivity]
 author: theluckystrike
 ---
+
 
 # Chrome Side Panel Customization: Complete Guide for 2026
 

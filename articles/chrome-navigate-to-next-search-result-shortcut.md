@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Navigate to Next Search Result Shortcut"
-description: "Learn how to navigate through Google search results faster using keyboard shortcuts in Chrome. Simple tips to speed up your browsing."
+description: "Learn how to navigate through Google search results faster using keyboard shortcuts in Chrome. Simple tips to speed up your browsing. Read more to optimize your"
 date: 2026-03-09
+last_modified_at: 2026-03-09
+permalink: chrome-navigate-to-next-search-result-shortcut
 categories: [tips, productivity]
 tags: [chrome, shortcuts, browsing, productivity]
 author: theluckystrike
 ---
+
 
 # Chrome Navigate to Next Search Result Shortcut
 

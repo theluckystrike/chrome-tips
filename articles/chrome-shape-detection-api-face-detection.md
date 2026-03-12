@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Shape Detection API Face Detection"
 description: "Learn how Chrome's Shape Detection API enables face detection in your browser, what it means for your privacy, and how to manage it. Read more to optimize your "
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-shape-detection-api-face-detection
 categories: [privacy, features]
 tags: [chrome-shape-detection, face-detection, browser-privacy, shape-detection-api]
 author: theluckystrike
 ---
+
 
 
 # Chrome Shape Detection API Face Detection

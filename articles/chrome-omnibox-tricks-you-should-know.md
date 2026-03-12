@@ -1,12 +1,15 @@
 ---
 layout: default
 title: "Chrome Omnibox Tricks You Should Know"
-description: "Learn powerful Chrome omnibox tricks to search faster, navigate quickly, and boost your productivity with these simple tips."
+description: "Learn powerful Chrome omnibox tricks to search faster, navigate quickly, and boost your productivity with these simple tips. Read more to optimize your experien"
 date: 2025-02-20
+last_modified_at: 2026-03-10
+permalink: chrome-omnibox-tricks-you-should-know
 categories: [productivity, tips]
 tags: [chrome-omnibox, chrome-tips, browser-tips, productivity]
 author: theluckystrike
 ---
+
 
 # Chrome Omnibox Tricks You Should Know
 

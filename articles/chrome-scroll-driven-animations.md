@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Scroll-Driven Animations: Complete Guide for 2026"
-description: "Learn how Chrome scroll-driven animations work, their browser support, and how to implement them for smooth, performant web experiences."
+description: "Learn how Chrome scroll-driven animations work, their browser support, and how to implement them for smooth, performant web experiences. Read more to optimize y"
 date: 2026-03-11
+last_modified_at: 2026-03-11
+permalink: chrome-scroll-driven-animations
 categories: [web-development, tips]
 tags: [chrome, animations, scroll-driven, web-development, browser-features]
 author: theluckystrike
 ---
+
 
 # Chrome Scroll-Driven Animations: Complete Guide for 2026
 

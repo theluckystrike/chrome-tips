@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Slow on Android Fix"
-description: "Is Chrome running slow on your Android device? Here are practical solutions to fix chrome slow on android fix and speed up your browser."
+description: "Is Chrome running slow on your Android device? Here are practical solutions to fix chrome slow on android fix and speed up your browser. Read more to optimize y"
 date: 2026-03-10
+last_modified_at: 2026-03-10
+permalink: chrome-slow-on-android-fix
 categories: [mobile, performance, troubleshooting]
 tags: [chrome-android, android-browser, chrome-slow, mobile-browser]
 author: theluckystrike
 ---
+
 
 # Chrome Slow on Android Fix
 

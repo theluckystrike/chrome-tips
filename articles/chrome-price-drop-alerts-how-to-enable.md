@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "chrome price drop alerts how to enable"
-description: "Learn how to enable price drop alerts in Chrome to track product prices and get notified when items go on sale."
+description: "Learn how to enable price drop alerts in Chrome to track product prices and get notified when items go on sale. Read more to optimize your experience."
 date: 2026-03-10
+last_modified_at: 2026-03-10
+permalink: chrome-price-drop-alerts-how-to-enable
 categories: [features, shopping]
 tags: [price-drop, alerts, shopping, extensions]
 author: theluckystrike
 ---
+
 
 # Chrome Price Drop Alerts How to Enable
 

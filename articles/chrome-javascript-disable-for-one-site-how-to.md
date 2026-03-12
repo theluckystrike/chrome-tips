@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "chrome javascript disable for one site how to"
-description: "Learn how to disable JavaScript for one specific site in Chrome without turning it off everywhere. Simple steps inside."
+description: "Learn how to disable JavaScript for one specific site in Chrome without turning it off everywhere. Simple steps inside. Read more to optimize your experience."
 date: 2026-01-15
+last_modified_at: 2026-03-09
+permalink: chrome-javascript-disable-for-one-site-how-to
 categories: [browser, settings]
 tags: [chrome, javascript, browser-settings, permissions]
 author: theluckystrike
 ---
+
 
 # Chrome JavaScript Disable for One Site How To
 

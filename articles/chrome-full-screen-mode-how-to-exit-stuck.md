@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Full Screen Mode How to Exit Stuck"
-description: "Got stuck in Chrome full screen mode and cannot exit? Learn simple methods to get out of fullscreen and return to normal browsing."
+description: "Got stuck in Chrome full screen mode and cannot exit? Learn simple methods to get out of fullscreen and return to normal browsing. Read more to optimize your ex"
 date: 2025-03-14
+last_modified_at: 2026-03-10
+permalink: chrome-full-screen-mode-how-to-exit-stuck
 categories: [troubleshooting, features]
 tags: [fullscreen, troubleshooting, chrome-features, browser-issues, exit]
 author: theluckystrike
 ---
+
 
 # Chrome Full Screen Mode How to Exit Stuck
 

@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome for Website Blocking During Work"
-description: "Learn how to block distracting websites in Chrome during work hours to stay focused and boost your productivity."
+description: "Learn how to block distracting websites in Chrome during work hours to stay focused and boost your productivity. Read more to optimize your experience."
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-for-website-blocking-during-work
 categories: [productivity, chrome, focus]
 tags: [chrome, website-blocking, productivity, focus, work]
 author: theluckystrike
 ---
+
 
 # Chrome for Website Blocking During Work
 

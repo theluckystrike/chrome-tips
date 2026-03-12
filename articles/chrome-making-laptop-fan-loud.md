@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: "default"
 title: "Chrome Making Your Laptop Fan Loud? Here's How to Fix It"
-description: "Is your laptop fan spinning loudly while using Chrome? Learn why this happens and what you can do to keep your computer quiet and cool."
-date: 2026-01-15
+description: "Is your laptop fan spinning loudly while using Chrome? Learn why this happens and what you can do to keep your computer quiet and cool. Check out our expert re"
+date: "2026-01-15"
+last_modified_at: "2026-03-09"
+permalink: "chrome-making-laptop-fan-loud"
 categories: [performance, hardware]
 tags: [chrome-fan, laptop-overheating, chrome-cpu, fan-noise]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Making Your Laptop Fan Loud? Here's How to Fix It

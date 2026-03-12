@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: "default"
 title: "Chrome Memory Leak Detection Guide"
-description: "Learn how to detect and fix memory leaks in Chrome using heap snapshots, allocation timeline, detached DOM analysis, and performance monitor. Complete guide for developers and power users."
-date: 2026-01-20
+description: "Learn how to detect and fix memory leaks in Chrome using heap snapshots, allocation timeline, detached DOM analysis, and performance monitor. Complete guide ..."
+date: "2026-01-20"
+last_modified_at: "2026-03-10"
+permalink: "chrome-memory-leak-detection"
 categories: [performance, development, chrome]
 tags: [chrome-memory-leak, heap-snapshots, performance, debugging, chrome-devtools]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Memory Leak Detection Guide

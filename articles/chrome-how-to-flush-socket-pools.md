@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome How to Flush Socket Pools"
-description: "Learn how to flush socket pools in Chrome to fix connection issues and improve browser performance."
-date: 2025-02-19
+description: "Learn how to flush socket pools in Chrome to fix connection issues and improve browser performance. Check out our expert recommendations and tips to enhance yo"
+date: "2025-02-19"
+last_modified_at: "2026-03-09"
+permalink: "chrome-how-to-flush-socket-pools"
 categories: [browser-tips, troubleshooting]
 tags: [socket-pools, connections, network, performance]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome How to Flush Socket Pools

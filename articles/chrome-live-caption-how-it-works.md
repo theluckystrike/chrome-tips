@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Live Caption How It Works"
-description: "Discover how Chrome Live Caption automatically generates subtitles for videos and audio in your browser. A complete guide."
-date: 2025-03-12
+description: "Discover how Chrome Live Caption automatically generates subtitles for videos and audio in your browser. A complete guide. Check out our expert recommendations"
+date: "2025-03-12"
+last_modified_at: "2026-03-10"
+permalink: "chrome-live-caption-how-it-works"
 categories: [features, accessibility]
 tags: [live-captions, accessibility, chrome-features, subtitles, how-it-works]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Live Caption How It Works

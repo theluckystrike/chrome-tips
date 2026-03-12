@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: "default"
 title: "Chrome HTTPS First Mode Guide"
-description: "Learn how to enable and use Chrome HTTPS First Mode for maximum security. Complete guide covering setup, benefits, compatibility issues, and troubleshooting tips for safer browsing."
-date: 2026-03-11
+description: "Learn how to enable and use Chrome HTTPS First Mode for maximum security. Complete guide covering setup, benefits, compatibility issues, and troubleshooting ..."
+date: "2026-03-11"
+last_modified_at: "2026-03-11"
+permalink: "chrome-https-first-mode"
 categories: [privacy, security, chrome-settings]
 tags: [https-first, chrome-security, secure-browsing, browser-encryption, https-mode]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome HTTPS First Mode Guide

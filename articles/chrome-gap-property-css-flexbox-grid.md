@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Gap Property CSS Flexbox Grid"
-description: "Learn how the CSS gap property works in Chrome for flexbox and grid layouts, plus fixes for common spacing issues."
-date: 2026-03-09
+description: "Learn how the CSS gap property works in Chrome for flexbox and grid layouts, plus fixes for common spacing issues. Check out our expert recommendations and tip"
+date: "2026-03-09"
+last_modified_at: "2026-03-09"
+permalink: "chrome-gap-property-css-flexbox-grid"
 categories: [web-development, css, chrome]
 tags: [css-gap, flexbox, grid-layout, chrome-tips]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Gap Property CSS Flexbox Grid

@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Homepage Keeps Resetting Fix"
-description: "Your Chrome homepage keeps resetting? Learn why this happens and how to fix it with simple solutions."
-date: 2026-01-15
+description: "Your Chrome homepage keeps resetting? Learn why this happens and how to fix it with simple solutions. Check out our expert recommendations and tips to enhance"
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "chrome-homepage-keeps-resetting-fix"
 categories: [troubleshooting, browser]
 tags: [chrome, homepage, browser-fix, settings]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Homepage Keeps Resetting Fix

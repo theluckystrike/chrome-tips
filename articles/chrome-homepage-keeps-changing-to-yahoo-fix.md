@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Homepage Keeps Changing to Yahoo Fix"
-description: "Your Chrome homepage keeps changing to Yahoo? Here is how to fix it yourself with simple steps."
-date: 2026-01-15
+description: "Your Chrome homepage keeps changing to Yahoo? Here is how to fix it yourself with simple steps. Check out our expert recommendations and tips to enhance your b"
+date: "2026-01-15"
+last_modified_at: "2026-03-09"
+permalink: "chrome-homepage-keeps-changing-to-yahoo-fix"
 categories: [troubleshooting, settings]
 tags: [chrome-homepage, browser-settings, homepage-fix, yahoo-redirect]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Homepage Keeps Changing to Yahoo Fix

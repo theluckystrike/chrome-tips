@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome for Zen Mode Extensions"
-description: "Discover Chrome extensions that help create a calm, distraction-free browsing experience for focused work and relaxation."
-date: 2026-03-09
+description: "Discover Chrome extensions that help create a calm, distraction-free browsing experience for focused work and relaxation. Check out our expert recommendations"
+date: "2026-03-09"
+last_modified_at: "2026-03-10"
+permalink: "chrome-for-zen-mode-extensions"
 categories: [productivity, zen, focus]
 tags: [chrome-extensions, zen-mode, distraction-free, mindfulness]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome for Zen Mode Extensions

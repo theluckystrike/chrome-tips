@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome for Zillow Best Extensions"
-description: "Discover the best Chrome extensions for Zillow that help you find homes, track listings, and manage your property search efficiently."
-date: 2026-03-10
+description: "Discover the best Chrome extensions for Zillow that help you find homes, track listings, and manage your property search efficiently. Check out our expert reco"
+date: "2026-03-10"
+last_modified_at: "2026-03-10"
+permalink: "chrome-for-zillow-best-extensions"
 categories: [real-estate, tips]
 tags: [chrome-extensions, zillow, home-search, property]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome for Zillow Best Extensions

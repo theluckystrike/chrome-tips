@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Lite Mode Replacement 2026"
 description: "Looking for a Chrome lite mode replacement in 2026? Learn what happened to Lite Mode and find practical solutions to save data and improve performance."
-date: 2026-01-15
+date: "2026-01-15"
+last_modified_at: "2026-03-09"
+permalink: "chrome-lite-mode-replacement-2026"
 categories: [troubleshooting, performance]
 tags: [chrome-lite-mode, browser-tips, data-saving, chrome-2026]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Lite Mode Replacement 2026

@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Lagging on Android Phone Fix"
-description: "Is Chrome lagging on your Android phone? Try these simple fixes to speed up your mobile browsing experience."
-date: 2026-01-15
+description: "Is Chrome lagging on your Android phone? Try these simple fixes to speed up your mobile browsing experience. Check out our expert recommendations and tips to e"
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "chrome-lagging-on-android-phone-fix"
 categories: [android, performance]
 tags: [chrome-android, lagging, performance, mobile-browser, speed]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Lagging on Android Phone Fix

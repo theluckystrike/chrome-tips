@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Media Session API for Music Players"
-description: "Learn how the Chrome Media Session API lets web music players show track info and respond to media keys."
-date: 2026-01-15
+description: "Learn how the Chrome Media Session API lets web music players show track info and respond to media keys. Check out our expert recommendations and tips to enhan"
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "chrome-media-session-api-for-music-players"
 categories: [features, music, api]
 tags: [chrome, media-session, music-players, browser]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Media Session API for Music Players

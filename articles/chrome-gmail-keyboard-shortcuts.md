@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Gmail Keyboard Shortcuts"
-description: "Learn essential Chrome Gmail keyboard shortcuts to speed up your email workflow and save time every day."
-date: 2026-03-09
+description: "Learn essential Chrome Gmail keyboard shortcuts to speed up your email workflow and save time every day. Check out our expert recommendations and tips to enhan"
+date: "2026-03-09"
+last_modified_at: "2026-03-09"
+permalink: "chrome-gmail-keyboard-shortcuts"
 categories: [tips, productivity]
 tags: [gmail, keyboard-shortcuts, productivity]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Gmail Keyboard Shortcuts

@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "chrome how to enable cookies"
-description: "Learn how to enable cookies in Chrome to fix login issues and website problems. Simple step-by-step guide inside."
-date: 2026-01-15
+description: "Learn how to enable cookies in Chrome to fix login issues and website problems. Simple step-by-step guide inside. Check out our expert recommendations and tips"
+date: "2026-01-15"
+last_modified_at: "2026-03-09"
+permalink: "chrome-how-to-enable-cookies"
 categories: [browser, settings]
 tags: [chrome, cookies, browser-settings, permissions]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome How to Enable Cookies

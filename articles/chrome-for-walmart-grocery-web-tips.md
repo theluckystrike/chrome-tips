@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "chrome for walmart grocery web tips"
-description: "Get the most out of Walmart Grocery in Chrome with these simple tips for faster loading, better memory use, and smoother shopping. Check out our complete 202..."
+title: Chrome For Walmart Grocery Web Tips
+description: Get the most out of Walmart Grocery in Chrome with these simple tips
+  for faster loading, better memory use, and smoother shopping. Learn how to optimize
+  your...
 date: 2025-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-walmart-grocery-web-tips
-categories: [browser, productivity]
-tags: [chrome, walmart, grocery, tips, web]
+categories:
+- browser
+- productivity
+tags:
+- chrome
+- walmart
+- grocery
+- tips
+- web
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-for-walmart-grocery-web-tips
 ---
 # Chrome for Walmart Grocery Web Tips
 

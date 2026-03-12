@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "How to Update Chrome on Android"
-description: "Learn the simple steps to update Chrome on your Android phone or tablet. Check out our complete 2026 guide for more details and professional advice on managi..."
+title: How to Update Chrome on Android
+description: Learn the simple steps to update Chrome on your Android phone or tablet.
+  Keep your browser fast and secure. Learn how to optimize your browser today for
+  bett...
 date: 2025-03-10
-last_modified_at: 2026-03-12
-permalink: how-to-update-chrome-on-android
-categories: 
-tags: 
+categories:
+- browser
+- mobile
+- android
+- updates
+tags:
+- chrome-android
+- browser-update
+- mobile-chrome
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: how-to-update-chrome-on-android
 ---
 # How to Update Chrome on Android
 

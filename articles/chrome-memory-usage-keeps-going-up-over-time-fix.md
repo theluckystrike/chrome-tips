@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Memory Usage Keeps Going Up Over Time Fix"
-description: "Is Chrome using more and more memory the longer you keep it open? Learn why this happens and how to fix chrome memory usage keeps going up over time. Check o..."
+title: Chrome Memory Usage Keeps Going Up Over Time Fix
+description: Is Chrome using more and more memory the longer you keep it open? Learn
+  why this happens and how to fix chrome memory usage keeps going up over time. Learn
+  h...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-memory-usage-keeps-going-up-over-time-fix
-categories: [performance, troubleshooting]
-tags: [chrome-memory, chrome-fix, browser-performance, memory-problem]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-memory
+- chrome-fix
+- browser-performance
+- memory-problem
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-memory-usage-keeps-going-up-over-time-fix
 ---
 # Chrome Memory Usage Keeps Going Up Over Time Fix
 

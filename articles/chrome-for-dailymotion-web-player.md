@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome for Dailymotion Web Player"
-description: "Learn how to improve your Dailymotion viewing experience with Chrome browser settings and extensions. Check out our complete 2026 guide for more details and ..."
+title: Chrome for Dailymotion Web Player
+description: Learn how to improve your Dailymotion viewing experience with Chrome
+  browser settings and extensions. Learn how to optimize your browser today for better
+  per...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-dailymotion-web-player
-categories: [browsers, video, streaming]
-tags: [chrome, dailymotion, web-player, video-streaming]
+categories:
+- browsers
+- video
+- streaming
+tags:
+- chrome
+- dailymotion
+- web-player
+- video-streaming
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-dailymotion-web-player
 ---
 # Chrome for Dailymotion Web Player
 

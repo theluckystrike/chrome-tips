@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome PDF Not Opening in Browser Fix"
-description: "PDF files won't open in Chrome? Learn practical solutions to fix Chrome's PDF viewer, from simple settings changes to advanced troubleshooting steps. Check o..."
+title: Chrome PDF Not Opening in Browser Fix
+description: PDF files won't open in Chrome? Learn practical solutions to fix Chrome's
+  PDF viewer, from simple settings changes to advanced troubleshooting steps. Learn
+  h...
 date: 2026-03-11
-last_modified_at: 2026-03-12
-permalink: chrome-pdf-not-opening-in-browser-fix
-categories: [chrome, pdf, troubleshooting]
-tags: [chrome-pdf, pdf-viewer, browser-fix, chrome-settings]
+categories:
+- chrome
+- pdf
+- troubleshooting
+tags:
+- chrome-pdf
+- pdf-viewer
+- browser-fix
+- chrome-settings
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-pdf-not-opening-in-browser-fix
 ---
 # Chrome PDF Not Opening in Browser Fix
 

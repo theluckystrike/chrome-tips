@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Cycle Through Tabs Shortcut"
-description: "Learn how to quickly cycle through tabs in Chrome using keyboard shortcuts. Find tabs faster and improve your browsing workflow. Check out our complete 2026 ..."
+title: Chrome Cycle Through Tabs Shortcut
+description: Learn how to quickly cycle through tabs in Chrome using keyboard shortcuts.
+  Find tabs faster and improve your browsing workflow. Learn how to optimize your
+  b...
 date: 2025-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-cycle-through-tabs-shortcut
-categories: [productivity, tips]
-tags: [tabs, chrome-tips, browser-management, shortcuts]
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- chrome-tips
+- browser-management
+- shortcuts
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-cycle-through-tabs-shortcut
 ---
 # Chrome Cycle Through Tabs Shortcut
 

@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Pop Ups on Phone How to Block"
-description: "Tired of annoying pop-ups on Chrome mobile? Learn practical ways to block pop-ups on your phone and enjoy smoother browsing. Check out our complete 2026 guid..."
+title: Chrome Pop Ups on Phone How to Block
+description: Tired of annoying pop-ups on Chrome mobile? Learn practical ways to block
+  pop-ups on your phone and enjoy smoother browsing. Learn how to optimize your brows...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-pop-ups-on-phone-how-to-block
-categories: [productivity, privacy]
-tags: [pop-ups, chrome-mobile, phone-browser, blocking-ads]
+categories:
+- productivity
+- privacy
+tags:
+- pop-ups
+- chrome-mobile
+- phone-browser
+- blocking-ads
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-pop-ups-on-phone-how-to-block
 ---
 # Chrome Pop Ups on Phone How to Block
 

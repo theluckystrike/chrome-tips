@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Family Link Integration Explained"
-description: "A friendly guide explaining how Chrome Family Link integrates with your browser and helps manage family browsing. Check out our complete 2026 guide for more ..."
+title: Chrome Family Link Integration Explained
+description: A friendly guide explaining how Chrome Family Link integrates with your
+  browser and helps manage family browsing. Learn how to optimize your browser today
+  fo...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-family-link-integration-explained
-categories: [family, safety, parental-controls]
-tags: [family-link, integration, parental-controls, chrome-profiles]
+categories:
+- family
+- safety
+- parental-controls
+tags:
+- family-link
+- integration
+- parental-controls
+- chrome-profiles
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-family-link-integration-explained
 ---
 # Chrome Family Link Integration Explained
 

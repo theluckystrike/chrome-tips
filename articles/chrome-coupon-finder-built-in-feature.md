@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Coupon Finder Built In Feature"
-description: "Discover whether Chrome has a built-in coupon finder and learn about the best ways to automatically find and apply coupon codes while shopping online."
+title: Chrome Coupon Finder Built In Feature
+description: Discover whether Chrome has a built-in coupon finder and learn about
+  the best ways to automatically find and apply coupon codes while shopping online.
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-coupon-finder-built-in-feature
-categories: [shopping, tips]
-tags: [chrome, coupons, shopping, savings, extensions]
+categories:
+- shopping
+- tips
+tags:
+- chrome
+- coupons
+- shopping
+- savings
+- extensions
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-coupon-finder-built-in-feature
 ---
 # Chrome Coupon Finder Built In Feature
 

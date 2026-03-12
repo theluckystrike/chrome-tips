@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "How to Use Chrome Built In Screenshot Tool"
-description: "Learn how to use Chrome's built-in screenshot feature to capture and save parts of web pages quickly and easily. Check out our complete 2026 guide for more d..."
+title: How to Use Chrome Built In Screenshot Tool
+description: Learn how to use Chrome's built-in screenshot feature to capture and
+  save parts of web pages quickly and easily. Learn how to optimize your browser today
+  for...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: how-to-use-chrome-built-in-screenshot-tool
-categories: [tutorials, chrome, productivity]
-tags: [chrome, screenshot, browser-tools, productivity]
+categories:
+- tutorials
+- chrome
+- productivity
+tags:
+- chrome
+- screenshot
+- browser-tools
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: how-to-use-chrome-built-in-screenshot-tool
 ---
 # How to Use Chrome Built In Screenshot Tool
 

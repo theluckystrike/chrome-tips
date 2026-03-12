@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files"
-description: "Learn where Chrome stores extension files on your computer and how to access them for backup, troubleshooting, or analysis. Check out our complete 2026 guide..."
+title: Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files
+description: Learn where Chrome stores extension files on your computer and how to
+  access them for backup, troubleshooting, or analysis. Learn how to optimize your
+  browse...
 date: 2026-03-11
-last_modified_at: 2026-03-11
-permalink: chrome-extensions-folder-location-files
-categories: [tutorials, extensions, chrome]
-tags: [chrome-extensions, chrome-files, chrome-folders, browser]
+categories:
+- tutorials
+- extensions
+- chrome
+tags:
+- chrome-extensions
+- chrome-files
+- chrome-folders
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-folder-location-files
 ---
 # Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files
 

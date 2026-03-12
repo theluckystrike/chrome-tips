@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome for W3Schools Quick Reference Extension"
-description: "Find the best Chrome extensions for quick W3Schools reference access and faster web development learning. Check out our complete 2026 guide for more details ..."
+title: Chrome for W3Schools Quick Reference Extension
+description: Find the best Chrome extensions for quick W3Schools reference access
+  and faster web development learning. Learn how to optimize your browser today for
+  better...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-w3schools-quick-reference-extension
-categories: [extensions, web-development]
-tags: [chrome-extensions, w3schools, web-development, reference-tools]
+categories:
+- extensions
+- web-development
+tags:
+- chrome-extensions
+- w3schools
+- web-development
+- reference-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-w3schools-quick-reference-extension
 ---
 # Chrome for W3Schools Quick Reference Extension
 

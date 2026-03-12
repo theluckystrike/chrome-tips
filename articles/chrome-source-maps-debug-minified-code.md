@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "chrome source maps debug minified code"
-description: "Learn how to use Chrome source maps to debug minified JavaScript code effectively. Step-by-step guide for developers. Check out our complete 2026 guide for m..."
+title: Chrome Source Maps Debug Minified Code
+description: Learn how to use Chrome source maps to debug minified JavaScript code
+  effectively. Step-by-step guide for developers. Learn how to optimize your browser
+  toda...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-source-maps-debug-minified-code
-categories: [development, debugging]
-tags: [source-maps, debugging, chrome-devtools, javascript, development]
+categories:
+- development
+- debugging
+tags:
+- source-maps
+- debugging
+- chrome-devtools
+- javascript
+- development
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-source-maps-debug-minified-code
 ---
 # How to Debug Minified Code Using Chrome Source Maps
 

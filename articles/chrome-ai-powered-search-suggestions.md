@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome AI Powered Search Suggestions"
-description: "Learn how Chrome AI powered search suggestions work, their benefits, Check out our complete 2026 guide for more details and professional advice on managing y..."
+title: Chrome AI Powered Search Suggestions
+description: Learn how Chrome AI powered search suggestions work, their benefits,
+  privacy implications, and how to manage them. Learn how to optimize your browser
+  today f...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-ai-powered-search-suggestions
-categories: 
-tags: 
+categories:
+- chrome
+- privacy
+tags:
+- ai
+- search
+- chrome-settings
+- suggestions
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-ai-powered-search-suggestions
 ---
 # Chrome AI Powered Search Suggestions
 

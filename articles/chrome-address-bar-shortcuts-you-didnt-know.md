@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Address Bar Shortcuts You Didn't Know"
-description: "Discover hidden Chrome address bar shortcuts that can speed up your browsing. Learn how to search smarter, navigate faster, and boost productivity with these..."
+title: Chrome Address Bar Shortcuts You Didn't Know
+description: Discover hidden Chrome address bar shortcuts that can speed up your browsing.
+  Learn how to search smarter, navigate faster, and boost productivity with these...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-address-bar-shortcuts-you-didnt-know
-categories: [chrome, address-bar, shortcuts, productivity]
-tags: [chrome-tips, address-bar, browser-shortcuts, productivity]
+categories:
+- chrome
+- address-bar
+- shortcuts
+- productivity
+tags:
+- chrome-tips
+- address-bar
+- browser-shortcuts
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-address-bar-shortcuts-you-didnt-know
 ---
 # Chrome Address Bar Shortcuts You Didn't Know
 

@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Crashing on iPhone Fix"
-description: "Is Chrome crashing on your iPhone? Discover why this happens and get simple fixes to stop the crashes and keep your browser running smoothly. Check out our c..."
+title: Chrome Crashing on iPhone Fix
+description: Is Chrome crashing on your iPhone? Discover why this happens and get
+  simple fixes to stop the crashes and keep your browser running smoothly. Learn how
+  to op...
 date: 2026-01-20
-last_modified_at: 2026-03-10
-permalink: chrome-crashing-on-iphone-fix
-categories: [mobile, troubleshooting, iphone]
-tags: [chrome-iphone, iphone-browser, chrome-crash, mobile-browser]
+categories:
+- mobile
+- troubleshooting
+- iphone
+tags:
+- chrome-iphone
+- iphone-browser
+- chrome-crash
+- mobile-browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-crashing-on-iphone-fix
 ---
 # Chrome Crashing on iPhone Fix
 

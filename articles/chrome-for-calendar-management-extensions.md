@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome for Calendar Management Extensions"
-description: "Find the best Chrome for calendar management extensions to organize your schedule, set reminders, and boost productivity. Check out our complete 2026 guide f..."
+title: Chrome for Calendar Management Extensions
+description: Find the best Chrome for calendar management extensions to organize your
+  schedule, set reminders, and boost productivity. Learn how to optimize your browser
+  ...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-calendar-management-extensions
-categories: [productivity, tips]
-tags: [chrome-extensions, calendar, productivity]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- calendar
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-calendar-management-extensions
 ---
 # Chrome for Calendar Management Extensions
 

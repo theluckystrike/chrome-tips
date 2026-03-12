@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Chrome Extension for Auto Scroll Pages"
-description: "Discover how auto scroll Chrome extensions can improve your reading experience and save you time when browsing long web pages. Check out our complete 2026 gu..."
-date: 2026-03-12
-last_modified_at: 2026-03-10
+title: Chrome Extension for Auto Scroll Pages
+description: Discover how auto scroll Chrome extensions can improve your reading experience
+  and save you time when browsing long web pages. Learn how to optimize your bro...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
 permalink: chrome-extension-for-auto-scroll-pages
 ---
 Have you ever found yourself scrolling through a very long article or webpage and wished there was an easier way to get to the bottom without constantly moving your finger across the mouse or trackpad? You are not alone. Many people struggle with manual scrolling, especially when reading lengthy content online. Fortunately, there are Chrome extensions designed specifically to handle this problem for you.

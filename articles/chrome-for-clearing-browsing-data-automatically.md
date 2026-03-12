@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome for Clearing Browsing Data Automatically"
-description: "Learn how to set up Chrome for clearing browsing data automatically to protect your privacy and free up storage space. Check out our complete 2026 guide for ..."
+title: Chrome for Clearing Browsing Data Automatically
+description: Learn how to set up Chrome for clearing browsing data automatically to
+  protect your privacy and free up storage space. Learn how to optimize your browser
+  tod...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-clearing-browsing-data-automatically
-categories: [privacy, security, browser]
-tags: [chrome, browsing-data, privacy, automatic]
+categories:
+- privacy
+- security
+- browser
+tags:
+- chrome
+- browsing-data
+- privacy
+- automatic
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-clearing-browsing-data-automatically
 ---
 # Chrome for Clearing Browsing Data Automatically
 

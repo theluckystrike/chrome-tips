@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Password Sharing Securely"
-description: "Learn how to use Chrome extensions for password sharing securely with your family or team. Check out our complete 2026 guide for more details and professiona..."
+title: Chrome Extensions for Password Sharing Securely
+description: Learn how to use Chrome extensions for password sharing securely with
+  your family or team. Boost productivity and save time with our expert tips and tricks.
 date: 2026-01-15
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-password-sharing-securely
-categories: [security, productivity]
-tags: [password-sharing, chrome-extension, security, password-manager]
+categories:
+- security
+- productivity
+tags:
+- password-sharing
+- chrome-extension
+- security
+- password-manager
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-password-sharing-securely
 ---
 # Chrome Extensions for Password Sharing Securely
 

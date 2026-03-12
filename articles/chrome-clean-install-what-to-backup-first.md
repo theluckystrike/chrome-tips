@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Chrome Clean Install: What to Backup First"
-description: "Before doing a clean install of Chrome, backup bookmarks, passwords, extensions, and settings. Learn what data you need to save. Check out our complete 2026 ..."
-date: 2026-03-12
-last_modified_at: 2026-03-10
+title: 'Chrome Clean Install: What to Backup First'
+description: Before doing a clean install of Chrome, backup bookmarks, passwords,
+  extensions, and settings. Learn what data you need to save. Learn how to optimize
+  your b...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
 permalink: chrome-clean-install-what-to-backup-first
 ---
 Thinking about doing a chrome clean install what to backup first is the most important question you can ask before wiping your browser. Whether you are dealing with performance issues, browser crashes, or just want a fresh start, a clean install can solve many problems. But jumping in without backing up first means losing months or even years of saved data. Let me walk you through exactly what you need to save before you reinstall Chrome.

@@ -1,13 +1,24 @@
 ---
-layout: post
-title: "Chrome Coverage Tool Guide"
-description: "Master Chrome DevTools Coverage tool to identify unused CSS and JavaScript, optimize code splitting, and reduce bundle sizes for faster websites. Check out o..."
+layout: default
+title: Chrome Coverage Tool Guide
+description: Master Chrome DevTools Coverage tool to identify unused CSS and JavaScript,
+  optimize code splitting, and reduce bundle sizes for faster websites. Learn how
+  t...
 date: 2026-01-15
-last_modified_at: 2026-03-10
-permalink: chrome-coverage-tool-guide
-categories: [development, performance, chrome-devtools]
-tags: [chrome-coverage-tool, unused-css, unused-javascript, code-splitting, bundle-optimization, web-performance]
+categories:
+- development
+- performance
+- chrome-devtools
+tags:
+- chrome-coverage-tool
+- unused-css
+- unused-javascript
+- code-splitting
+- bundle-optimization
+- web-performance
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-coverage-tool-guide
 ---
 # Chrome Coverage Tool Guide: Optimize Your Code for Better Performance
 

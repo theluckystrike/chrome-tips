@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome recently closed tabs how to reopen"
-description: "Learn how to reopen recently closed tabs in Chrome using simple keyboard shortcuts, history menu, or the Tab Suspender Pro extension. Check out our complete ..."
+title: Chrome Recently Closed Tabs How To Reopen
+description: Learn how to reopen recently closed tabs in Chrome using simple keyboard
+  shortcuts, history menu, or the Tab Suspender Pro extension. Learn how to optimize
+  y...
 date: 2025-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-recently-closed-tabs-how-to-reopen
-categories: [browsing, productivity]
-tags: [chrome, tabs, browser-tips, productivity]
+categories:
+- browsing
+- productivity
+tags:
+- chrome
+- tabs
+- browser-tips
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-recently-closed-tabs-how-to-reopen
 ---
 # Chrome Recently Closed Tabs How to Reopen
 

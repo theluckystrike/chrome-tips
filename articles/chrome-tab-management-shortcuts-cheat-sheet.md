@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Tab Management Shortcuts Cheat Sheet"
-description: "Master Chrome tab management shortcuts to work faster, find tabs instantly, and reduce browser clutter without extensions. Check out our complete 2026 guide ..."
+title: Chrome Tab Management Shortcuts Cheat Sheet
+description: Master Chrome tab management shortcuts to work faster, find tabs instantly,
+  and reduce browser clutter without extensions. Learn how to optimize your browser...
 date: 2025-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-tab-management-shortcuts-cheat-sheet
-categories: [productivity, tips]
-tags: [tabs, chrome-tips, browser-management, shortcuts]
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- chrome-tips
+- browser-management
+- shortcuts
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-tab-management-shortcuts-cheat-sheet
 ---
 # Chrome Tab Management Shortcuts Cheat Sheet
 

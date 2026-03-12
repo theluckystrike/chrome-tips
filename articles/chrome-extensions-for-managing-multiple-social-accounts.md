@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Managing Multiple Social Accounts"
-description: "Learn how Chrome extensions can help you manage multiple social media accounts easily, switch between profiles, and stay organized. Check out our complete 20..."
+title: Chrome Extensions for Managing Multiple Social Accounts
+description: Learn how Chrome extensions can help you manage multiple social media
+  accounts easily, switch between profiles, and stay organized. Learn how to optimize
+  you...
 date: 2026-03-10
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-managing-multiple-social-accounts
-categories: [productivity, social-media]
-tags: [social-media-accounts, chrome-extensions, multiple-accounts, productivity]
+categories:
+- productivity
+- social-media
+tags:
+- social-media-accounts
+- chrome-extensions
+- multiple-accounts
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-managing-multiple-social-accounts
 ---
 # Chrome Extensions for Managing Multiple Social Accounts
 

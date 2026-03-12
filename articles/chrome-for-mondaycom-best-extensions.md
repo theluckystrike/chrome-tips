@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome for monday.com best extensions"
-description: "Find the best chrome for monday.com extensions to boost productivity, manage tabs, and streamline your workflow. Check out our complete 2026 guide for more d..."
+title: Chrome For Monday.Com Best Extensions
+description: Find the best chrome for monday.com extensions to boost productivity,
+  manage tabs, and streamline your workflow. Learn how to optimize your browser today
+  for...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-mondaycom-best-extensions
-categories: [extensions, productivity]
-tags: [monday-com, chrome-extension, productivity, workflow]
+categories:
+- extensions
+- productivity
+tags:
+- monday-com
+- chrome-extension
+- productivity
+- workflow
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-mondaycom-best-extensions
 ---
 # Chrome for Monday.com Best Extensions
 

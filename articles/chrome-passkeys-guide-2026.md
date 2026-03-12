@@ -1,13 +1,22 @@
 ---
-layout: post
-title: "Chrome Passkeys Guide 2026"
-description: "Master passkeys in Chrome 2026: learn how to create, use, and sync passkeys across devices to replace passwords with secure, frictionless authentication."
+layout: default
+title: Chrome Passkeys Guide 2026
+description: 'Master passkeys in Chrome 2026: learn how to create, use, and sync passkeys
+  across devices to replace passwords with secure, frictionless authentication.'
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: chrome-passkeys-guide-2026
-categories: [security, passwords, chrome]
-tags: [passkeys, chrome-security, password-replacement, web-authentication, chrome-2026]
+categories:
+- security
+- passwords
+- chrome
+tags:
+- passkeys
+- chrome-security
+- password-replacement
+- web-authentication
+- chrome-2026
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-passkeys-guide-2026
 ---
 # Chrome Passkeys Guide 2026
 

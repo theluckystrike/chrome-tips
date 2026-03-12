@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "How to Check Website Speed in Chrome"
-description: "Learn how to check website speed in Chrome using built-in tools and extensions. Find out what's slowing down your browsing and how to fix it. Check out our c..."
+title: How to Check Website Speed in Chrome
+description: Learn how to check website speed in Chrome using built-in tools and extensions.
+  Find out what's slowing down your browsing and how to fix it. Learn how to op...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: how-to-check-website-speed-in-chrome
-categories: [performance, troubleshooting]
-tags: [website-speed, chrome-tools, page-loading, browser-performance]
+categories:
+- performance
+- troubleshooting
+tags:
+- website-speed
+- chrome-tools
+- page-loading
+- browser-performance
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: how-to-check-website-speed-in-chrome
 ---
 # How to Check Website Speed in Chrome
 

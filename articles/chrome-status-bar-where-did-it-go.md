@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Status Bar Where Did It Go"
-description: "The Chrome status bar disappeared and you cannot find it. Learn why this happens and how to bring it back with simple solutions. Check out our complete 2026 ..."
+title: Chrome Status Bar Where Did It Go
+description: The Chrome status bar disappeared and you cannot find it. Learn why this
+  happens and how to bring it back with simple solutions. Learn how to optimize your
+  b...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-status-bar-where-did-it-go
-categories: [troubleshooting, interface]
-tags: [chrome-status-bar, chrome-fix, browser-problem, chrome-interface]
+categories:
+- troubleshooting
+- interface
+tags:
+- chrome-status-bar
+- chrome-fix
+- browser-problem
+- chrome-interface
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-status-bar-where-did-it-go
 ---
 # Chrome Status Bar Where Did It Go
 

@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Recruiters"
-description: "Discover the best Chrome extensions for recruiters that can streamline your hiring workflow and help you find top talent faster. Find out more tips on how to op"
+title: Best Chrome Extensions for Recruiters
+description: Discover the best Chrome extensions for recruiters that can streamline
+  your hiring workflow and help you find top talent faster. Learn how to optimize
+  your b...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: best-chrome-extensions-for-recruiters
-categories: 
-tags: 
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- recruiters
+- hiring
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: best-chrome-extensions-for-recruiters
 ---
 # Best Chrome Extensions for Recruiters
 

@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "Best Chrome Extensions for GitHub"
-description: "Discover the best Chrome extensions for GitHub that can improve your workflow, boost productivity, and make code collaboration easier. Find out more tips on how"
+title: Best Chrome Extensions for GitHub
+description: Discover the best Chrome extensions for GitHub that can improve your
+  developer workflow, boost productivity, and make code collaboration much easier
+  for teams.
 date: 2026-03-09
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-github
-categories: 
-tags: 
+categories:
+- productivity
+- github
+- tips
+tags:
+- chrome-extensions
+- github
+- browser-tools
 author: theluckystrike
 ---
 # Best Chrome Extensions for GitHub

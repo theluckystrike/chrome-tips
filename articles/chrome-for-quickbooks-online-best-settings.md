@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "Chrome for QuickBooks Online Best Settings"
-description: "Optimize Chrome for QuickBooks Online with these proven settings that improve speed, reduce lag, and make your accounting work smoother. Check out our comple..."
+title: Chrome for QuickBooks Online Best Settings
+description: Optimize Chrome for QuickBooks Online with these proven settings that
+  improve speed, reduce lag, and make your accounting work smoother. Learn how to
+  optimiz...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-quickbooks-online-best-settings
-categories: [productivity, accounting, chrome-settings]
-tags: [chrome, quickbooks, quickbooks-online, accounting-software, browser-optimization]
+categories:
+- productivity
+- accounting
+- chrome-settings
+tags:
+- chrome
+- quickbooks
+- quickbooks-online
+- accounting-software
+- browser-optimization
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-quickbooks-online-best-settings
 ---
 # Chrome for QuickBooks Online Best Settings
 

@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome for Speed Reading Extensions"
-description: "Discover Chrome extensions that help you read faster. Learn about speed reading tools, how they work, and which ones might work for you. Check out our comple..."
+title: Chrome for Speed Reading Extensions
+description: Discover Chrome extensions that help you read faster. Learn about speed
+  reading tools, how they work, and which ones might work for you. Learn how to optimiz...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: chrome-for-speed-reading-extensions
-categories: [productivity, extensions]
-tags: [chrome-extensions, speed-reading, productivity, browser]
+categories:
+- productivity
+- extensions
+tags:
+- chrome-extensions
+- speed-reading
+- productivity
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-speed-reading-extensions
 ---
 # Chrome for Speed Reading Extensions
 

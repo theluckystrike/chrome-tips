@@ -1,13 +1,21 @@
 ---
-layout: post
-title: "Chrome Slow on School Laptop? Here's How to Fix It"
-description: "Is Chrome running slow on your school laptop? Discover practical solutions to speed up your browser, reduce RAM usage, and get back to studying without frust..."
+layout: default
+title: Chrome Slow on School Laptop? Here's How to Fix It
+description: Is Chrome running slow on your school laptop? Discover practical solutions
+  to speed up your browser, reduce RAM usage, and get back to studying without frust...
 date: 2025-02-17
-last_modified_at: 2026-03-12
-permalink: chrome-slow-on-school-laptop-how-to-fix
-categories: [performance, school, students]
-tags: [chrome-slow, school-laptop, ram, students]
+categories:
+- performance
+- school
+- students
+tags:
+- chrome-slow
+- school-laptop
+- ram
+- students
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-slow-on-school-laptop-how-to-fix
 ---
 # Chrome Slow on School Laptop? Here's How to Fix It
 

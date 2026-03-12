@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Keyword Research Free"
-description: "Discover the best free Chrome extensions for keyword research that help you find the right search terms without spending money. Check out our complete 2026 g..."
+title: Chrome Extensions for Keyword Research Free
+description: Discover the best free Chrome extensions for keyword research that help
+  you find the right search terms without spending money. Learn how to optimize your
+  br...
 date: 2026-03-10
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-keyword-research-free
-categories: [keyword-research, tips]
-tags: [chrome-extensions, keyword-research, seo-tools, free-tools]
+categories:
+- keyword-research
+- tips
+tags:
+- chrome-extensions
+- keyword-research
+- seo-tools
+- free-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-keyword-research-free
 ---
 # Chrome Extensions for Keyword Research Free
 

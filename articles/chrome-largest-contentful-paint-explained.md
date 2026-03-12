@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Chrome Largest Contentful Paint Explained"
-description: "Learn what Largest Contentful Paint means in Chrome, why it matters for your browsing speed, and how to improve it. Check out our complete 2026 guide for mor..."
-date: 2026-03-12
-last_modified_at: 2026-03-12
+title: Chrome Largest Contentful Paint Explained
+description: Learn what Largest Contentful Paint means in Chrome, why it matters for
+  your browsing speed, and how to improve it. Learn how to optimize your browser today
+  ...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
 permalink: chrome-largest-contentful-paint-explained
 ---
 Chrome largest contentful paint explained is simpler than it sounds. It is a measurement that tells you how long it takes for the biggest piece of content on a webpage to appear on your screen. Understanding this metric helps you recognize why some websites feel slow while others load instantly.

@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions for Ambient Noise"
-description: "Discover the best chrome extensions for ambient noise to improve focus, reduce distractions, and create a peaceful workspace. Check out our complete 2026 gui..."
+title: Chrome Extensions for Ambient Noise
+description: Discover the best chrome extensions for ambient noise to improve focus,
+  reduce distractions, and create a peaceful workspace. Learn how to optimize your
+  brow...
 date: 2026-03-09
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-ambient-noise
-categories: [productivity, wellness]
-tags: [chrome-extensions, ambient-noise, focus, productivity, concentration]
+categories:
+- productivity
+- wellness
+tags:
+- chrome-extensions
+- ambient-noise
+- focus
+- productivity
+- concentration
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-ambient-noise
 ---
 # Chrome Extensions for Ambient Noise
 

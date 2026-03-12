@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome for StackOverflow Best Extensions"
-description: "Discover the best Chrome extensions for StackOverflow users that can improve your coding research experience. Check out our complete 2026 guide for more deta..."
+title: Chrome for StackOverflow Best Extensions
+description: Discover the best Chrome extensions for StackOverflow users that can
+  improve your coding research experience. Learn how to optimize your browser today
+  for be...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-stackoverflow-best-extensions
-categories: [productivity, tips]
-tags: [chrome-extensions, stackoverflow, productivity]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- stackoverflow
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-stackoverflow-best-extensions
 ---
 # Chrome for StackOverflow Best Extensions
 

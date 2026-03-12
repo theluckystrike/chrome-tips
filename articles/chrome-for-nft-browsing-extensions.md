@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome for NFT Browsing Extensions"
-description: "Discover the best Chrome extensions for NFT browsing. Learn which tools enhance your experience while keeping your browser fast and secure. Check out our com..."
+title: Chrome for NFT Browsing Extensions
+description: Discover the best Chrome extensions for NFT browsing. Learn which tools
+  enhance your experience while keeping your browser fast and secure. Learn how to
+  opti...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-nft-browsing-extensions
-categories: [nft, extensions, blockchain]
-tags: [chrome-extensions, nft, blockchain, browsing]
+categories:
+- nft
+- extensions
+- blockchain
+tags:
+- chrome-extensions
+- nft
+- blockchain
+- browsing
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-nft-browsing-extensions
 ---
 # Chrome for NFT Browsing Extensions
 

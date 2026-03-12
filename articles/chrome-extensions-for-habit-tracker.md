@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Habit Tracker"
-description: "Discover the best Chrome extensions for building better habits. Track your daily routines and stay motivated with these helpful tools. Check out our complete..."
+title: Chrome Extensions for Habit Tracker
+description: Discover the best Chrome extensions for building better habits. Track
+  your daily routines and stay motivated with these helpful tools. Learn how to optimize
+  ...
 date: 2026-01-15
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-habit-tracker
-categories: [productivity, extensions]
-tags: [chrome-extensions, habit-tracker, productivity, browser]
+categories:
+- productivity
+- extensions
+tags:
+- chrome-extensions
+- habit-tracker
+- productivity
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-habit-tracker
 ---
 # Chrome Extensions for Habit Tracker
 

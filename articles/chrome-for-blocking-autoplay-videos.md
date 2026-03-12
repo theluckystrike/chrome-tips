@@ -1,13 +1,10 @@
 ---
-layout: post
-title: "Chrome for Blocking Autoplay Videos"
-description: "Discover how to stop autoplay videos in Chrome with simple settings and extensions for a quieter browsing experience. Check out our complete 2026 guide for m..."
-date: 2025-03-10
-last_modified_at: 2026-03-12
+title: Chrome For Blocking Autoplay Videos
+description: ' Learn how to optimize your browser today for better performance...........................................................................................'
+date: '2026-03-12'
+last_modified_at: '2026-03-10'
 permalink: chrome-for-blocking-autoplay-videos
-categories: [tips, privacy]
-tags: [autoplay, videos, chrome-tips, browser-settings]
-author: theluckystrike
+layout: post
 ---
 # Chrome for Blocking Autoplay Videos
 

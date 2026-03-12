@@ -1,13 +1,20 @@
 ---
-layout: post
-title: "Chrome Settings You Should Change Right Now"
-description: "Discover the Chrome settings you should change right now to improve speed, reduce memory usage, and protect your privacy while browsing. Check out our comple..."
+layout: default
+title: Chrome Settings You Should Change Right Now
+description: Discover the Chrome settings you should change right now to improve speed,
+  reduce memory usage, and protect your privacy while browsing. Learn how to optimiz...
 date: 2025-02-20
-last_modified_at: 2026-03-12
-permalink: chrome-settings-you-should-change-right-now
-categories: [performance, privacy]
-tags: [chrome-settings, chrome-tips, browser-optimization, privacy-settings]
+categories:
+- performance
+- privacy
+tags:
+- chrome-settings
+- chrome-tips
+- browser-optimization
+- privacy-settings
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-settings-you-should-change-right-now
 ---
 # Chrome Settings You Should Change Right Now
 

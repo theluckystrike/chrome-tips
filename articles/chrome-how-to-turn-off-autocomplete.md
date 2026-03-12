@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "How to Turn Off Autocomplete in Chrome"
-description: "Learn how to disable Chrome autocomplete for forms and address fields with simple settings adjustments. Check out our complete 2026 guide for more details an..."
+title: How to Turn Off Autocomplete in Chrome
+description: Learn how to disable Chrome autocomplete for forms and address fields
+  with simple settings adjustments. Learn how to optimize your browser today for better
+  p...
 date: 2025-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-how-to-turn-off-autocomplete
-categories: [troubleshooting, tips]
-tags: [chrome-autocomplete, browser-settings, privacy, chrome-tips]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-autocomplete
+- browser-settings
+- privacy
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-how-to-turn-off-autocomplete
 ---
 # How to Turn Off Autocomplete in Chrome
 

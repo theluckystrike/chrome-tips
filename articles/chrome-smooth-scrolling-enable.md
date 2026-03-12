@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "How to Enable Chrome Smooth Scrolling for a Better Browsing Experience"
-description: "Learn how to enable chrome smooth scrolling to transform your web browsing experience with fluid, natural-feeling page navigation. Check out our complete 202..."
+title: How to Enable Chrome Smooth Scrolling for a Better Browsing Experience
+description: Learn how to enable chrome smooth scrolling to transform your web browsing
+  experience with fluid, natural-feeling page navigation. Learn how to optimize your...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-smooth-scrolling-enable
-categories: [browsers, tips, chrome]
-tags: [chrome, smooth-scrolling, browser-settings, chrome-flags, productivity]
+categories:
+- browsers
+- tips
+- chrome
+tags:
+- chrome
+- smooth-scrolling
+- browser-settings
+- chrome-flags
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-smooth-scrolling-enable
 ---
 # How to Enable Chrome Smooth Scrolling for a Better Browsing Experience
 

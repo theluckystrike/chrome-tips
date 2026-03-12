@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Rain Sounds"
-description: "Find the best chrome extensions for rain sounds to help you focus, relax, and sleep better while browsing. Check out our complete 2026 guide for more details..."
+title: Chrome Extensions for Rain Sounds
+description: Find the best chrome extensions for rain sounds to help you focus, relax,
+  and sleep better while browsing. Learn how to optimize your browser today for bette...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-rain-sounds
-categories: [productivity, wellness]
-tags: [chrome-extensions, rain-sounds, focus, relaxation, sleep]
+categories:
+- productivity
+- wellness
+tags:
+- chrome-extensions
+- rain-sounds
+- focus
+- relaxation
+- sleep
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-rain-sounds
 ---
 # Chrome Extensions for Rain Sounds
 

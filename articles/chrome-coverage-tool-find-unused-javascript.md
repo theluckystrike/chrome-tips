@@ -1,13 +1,23 @@
 ---
-layout: post
-title: "Chrome Coverage Tool: Find Unused JavaScript"
-description: "Learn how to use Chrome DevTools Coverage tool to discover and eliminate unused JavaScript code, reduce bundle sizes, and speed up your website. Check out ou..."
+layout: default
+title: 'Chrome Coverage Tool: Find Unused JavaScript'
+description: Learn how to use Chrome DevTools Coverage tool to discover and eliminate
+  unused JavaScript code, reduce bundle sizes, and speed up your website. Learn how
+  to...
 date: 2026-03-11
-last_modified_at: 2026-03-11
-permalink: chrome-coverage-tool-find-unused-javascript
-categories: [development, performance, chrome-devtools]
-tags: [chrome-coverage-tool, unused-javascript, code-optimization, web-performance, devtools]
+categories:
+- development
+- performance
+- chrome-devtools
+tags:
+- chrome-coverage-tool
+- unused-javascript
+- code-optimization
+- web-performance
+- devtools
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-coverage-tool-find-unused-javascript
 ---
 # Chrome Coverage Tool: How to Find and Fix Unused JavaScript
 

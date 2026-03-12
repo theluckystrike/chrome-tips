@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Camera Microphone Permission Manage: Complete Guide"
-description: "Learn how to manage camera and microphone permissions in Chrome. Step-by-step instructions to control which websites can access your devices. Check out our c..."
+title: 'Chrome Camera Microphone Permission Manage: Complete Guide'
+description: Learn how to manage camera and microphone permissions in Chrome. Step-by-step
+  instructions to control which websites can access your devices. Learn how to op...
 date: 2026-01-15
-last_modified_at: 2026-03-11
-permalink: chrome-camera-microphone-permission-manage
-categories: [privacy, troubleshooting]
-tags: [chrome-camera-permission, chrome-microphone-permission, chrome-settings, site-permissions, privacy]
+categories:
+- privacy
+- troubleshooting
+tags:
+- chrome-camera-permission
+- chrome-microphone-permission
+- chrome-settings
+- site-permissions
+- privacy
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-camera-microphone-permission-manage
 ---
 # Chrome Camera Microphone Permission Manage: Complete Guide
 

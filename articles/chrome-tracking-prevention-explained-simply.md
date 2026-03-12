@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Tracking Prevention Explained Simply"
-description: "Learn how Chrome tracking prevention works in plain language. Simple guide to protecting your privacy while browsing. Check out our complete 2026 guide for m..."
+title: Chrome Tracking Prevention Explained Simply
+description: Learn how Chrome tracking prevention works in plain language. Simple
+  guide to protecting your privacy while browsing. Learn how to optimize your browser
+  toda...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-tracking-prevention-explained-simply
-categories: [privacy, security, browser]
-tags: [chrome-tracking, privacy, browser-security, tracking-prevention]
+categories:
+- privacy
+- security
+- browser
+tags:
+- chrome-tracking
+- privacy
+- browser-security
+- tracking-prevention
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-tracking-prevention-explained-simply
 ---
 # Chrome Tracking Prevention Explained Simply
 

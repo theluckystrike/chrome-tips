@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome enrollment for schools how it works"
-description: "Learn how chrome enrollment for schools works and helps educational institutions manage Chromebooks efficiently. Check out our complete 2026 guide for more d..."
+title: Chrome Enrollment For Schools How It Works
+description: Learn how chrome enrollment for schools works and helps educational institutions
+  manage Chromebooks efficiently. Learn how to optimize your browser today for...
 date: 2026-01-15
-last_modified_at: 2026-03-10
-permalink: chrome-enrollment-for-schools-how-it-works
-categories: [chrome, education, management]
-tags: [chrome-enrollment, schools, chromebooks, device-management]
+categories:
+- chrome
+- education
+- management
+tags:
+- chrome-enrollment
+- schools
+- chromebooks
+- device-management
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-enrollment-for-schools-how-it-works
 ---
 # Chrome Enrollment for Schools How It Works
 

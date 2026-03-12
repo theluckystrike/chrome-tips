@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome desktop shortcuts how to create"
-description: "Learn how to create desktop shortcuts for websites in Chrome. Easy steps Check out our complete 2026 guide for more details and professional advice on managi..."
+title: Chrome Desktop Shortcuts How To Create
+description: Learn how to create desktop shortcuts for websites in Chrome. Easy steps
+  to put your favorite sites on your desktop for quick access. Learn how to optimize
+  y...
 date: 2026-03-09
-last_modified_at: 2026-03-11
-permalink: chrome-desktop-shortcuts-how-to-create
-categories: 
-tags: 
+categories:
+- productivity
+- tips
+tags:
+- shortcuts
+- desktop
+- productivity
+- chrome-settings
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-desktop-shortcuts-how-to-create
 ---
 # Chrome Desktop Shortcuts How to Create
 

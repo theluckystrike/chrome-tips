@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome for Airbnb Browsing Best Extensions"
-description: "Discover the best Chrome extensions for Airbnb browsing that help you find better rentals, save money, and manage your trips easily. Check out our complete 2..."
+title: Chrome for Airbnb Browsing Best Extensions
+description: Discover the best Chrome extensions for Airbnb browsing that help you
+  find better rentals, save money, and manage your trips easily. Learn how to optimize
+  yo...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-airbnb-browsing-best-extensions
-categories: [travel, tips]
-tags: [chrome-extensions, airbnb, browsing, travel-planning]
+categories:
+- travel
+- tips
+tags:
+- chrome-extensions
+- airbnb
+- browsing
+- travel-planning
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-airbnb-browsing-best-extensions
 ---
 # Chrome for Airbnb Browsing Best Extensions
 

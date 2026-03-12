@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome help me write feature explained"
-description: "Learn what Chrome's Help Me Write feature does, why it might not work, and how to enable or fix it for better writing assistance. Check out our complete 2026..."
+title: Chrome Help Me Write Feature Explained
+description: Learn what Chrome's Help Me Write feature does, why it might not work,
+  and how to enable or fix it for better writing assistance. Learn how to optimize
+  your ...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-help-me-write-feature-explained
-categories: [features, ai-assistance]
-tags: [help-me-write, ai-writing, chrome-features, writing-assistance]
+categories:
+- features
+- ai-assistance
+tags:
+- help-me-write
+- ai-writing
+- chrome-features
+- writing-assistance
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-help-me-write-feature-explained
 ---
 # Chrome Help Me Write Feature Explained
 

@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "How to Turn Off Chrome Notifications Permanently"
-description: "Tired of annoying Chrome notifications? Learn how to turn them off permanently across your desktop and mobile devices. Check out our complete 2026 guide for ..."
+title: How to Turn Off Chrome Notifications Permanently
+description: Tired of annoying Chrome notifications? Learn how to turn them off permanently
+  across your desktop and mobile devices. Learn how to optimize your browser tod...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: how-to-turn-off-chrome-notifications-permanently
-categories: [chrome, tutorials, privacy]
-tags: [chrome-notifications, browser-settings, chrome-tips]
+categories:
+- chrome
+- tutorials
+- privacy
+tags:
+- chrome-notifications
+- browser-settings
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: how-to-turn-off-chrome-notifications-permanently
 ---
 # How to Turn Off Chrome Notifications Permanently
 

@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Eyedropper API Explained"
-description: "Learn how the Chrome Eyedropper API works and how it enables color picking directly in your browser for web development and design. Check out our complete 20..."
+title: Chrome Eyedropper API Explained
+description: Learn how the Chrome Eyedropper API works and how it enables color picking
+  directly in your browser for web development and design. Learn how to optimize you...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-eyedropper-api-explained
-categories: [chrome, development, api]
-tags: [chrome-eyedropper, browser-api, color-picker]
+categories:
+- chrome
+- development
+- api
+tags:
+- chrome-eyedropper
+- browser-api
+- color-picker
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-eyedropper-api-explained
 ---
 # Chrome Eyedropper API Explained
 

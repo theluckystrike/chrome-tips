@@ -1,12 +1,23 @@
 ---
 layout: post
-title: "Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover"
-description: "Discover how Chrome anchor positioning CSS transforms web development. Check out our complete 2026 guide for more details and professional advice on managing..."
-date: 2026-01-15
-last_modified_at: 2026-03-12
+title: 'Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover
+  Placement'
+description: Discover how Chrome anchor positioning CSS transforms web development.
+  Learn to create tooltips, dropdowns, and popovers that position themselves relative
+  to...
+date: '2026-01-15'
+last_modified_at: '2026-03-12'
 permalink: chrome-anchor-positioning-css
-categories: 
-tags: 
+categories:
+- chrome
+- web-development
+- css
+tags:
+- anchor-positioning
+- css
+- web-development
+- tooltips
+- popover
 author: theluckystrike
 ---
 # Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover Placement

@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome for Wave Accounting in Browser"
-description: "Learn how to use Chrome for Wave accounting in your browser, with tips Check out our complete 2026 guide for more details and professional advice on managing..."
+title: Chrome for Wave Accounting in Browser
+description: Learn how to use Chrome for Wave accounting in your browser, with tips
+  for managing tabs and improving performance. Learn how to optimize your browser
+  today ...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-wave-accounting-in-browser
-categories: 
-tags: 
+categories:
+- productivity
+- accounting
+tags:
+- wave-accounting
+- chrome
+- browser
+- accounting-software
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-for-wave-accounting-in-browser
 ---
 # Chrome for Wave Accounting in Browser
 

@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Chrome Block Specific Websites Guide"
-description: "Learn how to block specific websites in Chrome with this practical guide. Step-by-step methods using Chrome settings and extensions. Learn more about optimizing"
+title: Chrome Block Specific Websites Guide
+description: Learn how to block specific websites in Chrome with this practical guide.
+  Step-by-step methods using Chrome settings and extensions. Learn how to optimize
+  yo...
 date: 2026-03-11
-last_modified_at: 2026-03-12
-permalink: chrome-block-specific-websites-guide
-categories: [productivity]
-tags: [website-blocking, chrome-settings, focus]
+categories:
+- productivity
+tags:
+- website-blocking
+- chrome-settings
+- focus
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-block-specific-websites-guide
 ---
 # Chrome Block Specific Websites Guide
 

@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Safe Search How to Lock"
-description: "Learn how to lock safe search in Chrome to filter explicit content and protect your browsing experience from unwanted results. Check out our complete 2026 gu..."
+title: Chrome Safe Search How to Lock
+description: Learn how to lock safe search in Chrome to filter explicit content and
+  protect your browsing experience from unwanted results. Learn how to optimize your
+  bro...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: chrome-safe-search-how-to-lock
-categories: [privacy, settings]
-tags: [chrome-safe-search, safe-search-lock, parental-control, browser-privacy]
+categories:
+- privacy
+- settings
+tags:
+- chrome-safe-search
+- safe-search-lock
+- parental-control
+- browser-privacy
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-safe-search-how-to-lock
 ---
 # Chrome Safe Search How to Lock
 

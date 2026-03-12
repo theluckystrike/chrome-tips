@@ -1,12 +1,18 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Amazon Prime Video"
-description: "Discover the best Chrome extensions for Amazon Prime Video that enhance streaming, improve viewing, and make watching easier. Find out more tips on how to optim"
+title: Best Chrome Extensions for Amazon Prime Video
+description: Discover the best Chrome extensions for Amazon Prime Video that enhance
+  streaming, improve viewing quality, and make watching your favorite shows much easier.
 date: 2026-03-09
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-amazon-prime-video
-categories: 
-tags: 
+categories:
+- entertainment
+- tips
+tags:
+- chrome-extensions
+- amazon-prime-video
+- streaming
 author: theluckystrike
 ---
 # Best Chrome Extensions for Amazon Prime Video

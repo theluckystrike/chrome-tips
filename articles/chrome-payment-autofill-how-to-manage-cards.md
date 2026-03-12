@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Payment Autofill How to Manage Cards"
-description: "Learn how to manage saved cards in Chrome payment autofill, add new cards, remove old ones, and keep your payment information organized. Check out our comple..."
+title: Chrome Payment Autofill How to Manage Cards
+description: Learn how to manage saved cards in Chrome payment autofill, add new cards,
+  remove old ones, and keep your payment information organized. Learn how to optimiz...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-payment-autofill-how-to-manage-cards
-categories: [chrome, tips, payment]
-tags: [chrome, payment-autofill, cards, browser]
+categories:
+- chrome
+- tips
+- payment
+tags:
+- chrome
+- payment-autofill
+- cards
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-payment-autofill-how-to-manage-cards
 ---
 # Chrome Payment Autofill How to Manage Cards
 

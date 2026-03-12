@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Autofill Not Working Fix"
-description: "Chrome autofill not working can be annoying. Learn why it happens and simple steps to get autofill working again. Learn more about optimizing your Chrome experi"
+title: Chrome Autofill Not Working Fix
+description: Chrome autofill not working can be annoying. Learn why it happens and
+  simple steps to get autofill working again. Learn how to optimize your browser today
+  fo...
 date: 2025-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-autofill-not-working-fix
-categories: [troubleshooting, tips]
-tags: [chrome-autofill, autofill-not-working, chrome-fix, browser-tips]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-autofill
+- autofill-not-working
+- chrome-fix
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-autofill-not-working-fix
 ---
 # Chrome Autofill Not Working Fix
 

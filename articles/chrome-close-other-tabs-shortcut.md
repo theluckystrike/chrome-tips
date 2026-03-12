@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Close Other Tabs Shortcut"
-description: "Learn how to quickly close all other tabs in Chrome with keyboard shortcuts and simple methods to focus on what matters. Check out our complete 2026 guide fo..."
+title: Chrome Close Other Tabs Shortcut
+description: Learn how to quickly close all other tabs in Chrome with keyboard shortcuts
+  and simple methods to focus on what matters. Learn how to optimize your browser
+  t...
 date: 2025-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-close-other-tabs-shortcut
-categories: [productivity, tips]
-tags: [tabs, chrome-tips, browser-management, shortcuts]
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- chrome-tips
+- browser-management
+- shortcuts
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-close-other-tabs-shortcut
 ---
 # Chrome Close Other Tabs Shortcut
 

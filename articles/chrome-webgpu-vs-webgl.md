@@ -1,13 +1,24 @@
 ---
 layout: post
-title: "Chrome WebGPU vs WebGL Comparison"
-description: "WebGPU vs WebGL in Chrome: Performance, API differences, use cases, and migration guide. Learn which graphics API is right for your web applications. Check o..."
+title: Chrome WebGPU vs WebGL Comparison
+description: 'WebGPU vs WebGL in Chrome: Performance, API differences, use cases,
+  and migration guide. Learn which graphics API is right for your web applications.
+  Learn h...'
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: chrome-webgpu-vs-webgl
-categories: [chrome, web-development, graphics]
-tags: [webgpu, webgl, chrome, graphics-api, web-graphics, performance]
+categories:
+- chrome
+- web-development
+- graphics
+tags:
+- webgpu
+- webgl
+- chrome
+- graphics-api
+- web-graphics
+- performance
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-webgpu-vs-webgl
 ---
 # Chrome WebGPU vs WebGL Comparison
 

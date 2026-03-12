@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Accessibility Features Guide: Everything You Need to Know"
-description: "Master Chrome's accessibility features with this comprehensive guide. Learn about screen readers, zoom controls, high contrast mode, keyboard shortcuts, and ..."
+title: 'Chrome Accessibility Features Guide: Everything You Need to Know'
+description: Master Chrome's accessibility features with this comprehensive guide.
+  Learn about screen readers, zoom controls, high contrast mode, keyboard shortcuts,
+  and ...
 date: 2026-03-11
-last_modified_at: 2026-03-12
-permalink: chrome-accessibility-features-guide
-categories: [accessibility, chrome, tips]
-tags: [chrome-accessibility-features-guide, accessibility-features, browser-accessibility, assistive-technology]
+categories:
+- accessibility
+- chrome
+- tips
+tags:
+- chrome-accessibility-features-guide
+- accessibility-features
+- browser-accessibility
+- assistive-technology
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-accessibility-features-guide
 ---
 # Chrome Accessibility Features Guide: Everything You Need to Know
 

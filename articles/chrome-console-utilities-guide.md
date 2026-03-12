@@ -1,13 +1,23 @@
 ---
-layout: post
-title: "Chrome Console Utilities Reference"
-description: "Master Chrome DevTools console utilities including dollar sign selectors, monitor, copy, debug, keys, and values. Boost productivity with these essential con..."
+layout: default
+title: Chrome Console Utilities Reference
+description: Master Chrome DevTools console utilities including dollar sign selectors,
+  monitor, copy, debug, keys, and values. Boost productivity with these essential
+  con...
 date: 2026-01-20
-last_modified_at: 2026-03-10
-permalink: chrome-console-utilities-guide
-categories: [developer-tools, chrome-devtools, productivity]
-tags: [chrome-console, devtools, debugging, javascript, web-development]
+categories:
+- developer-tools
+- chrome-devtools
+- productivity
+tags:
+- chrome-console
+- devtools
+- debugging
+- javascript
+- web-development
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-console-utilities-guide
 ---
 # Chrome Console Utilities Reference
 

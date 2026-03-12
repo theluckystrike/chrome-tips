@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Video Editors"
-description: "Discover the best Chrome extensions for video editors to streamline your workflow, boost productivity, and work more efficiently. Check out our expert recommend"
+title: Best Chrome Extensions for Video Editors
+description: Discover the best Chrome extensions for video editors to streamline your
+  workflow, boost productivity, and work more efficiently. Learn how to optimize your
+  ...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: best-chrome-extensions-for-video-editors
-categories: [productivity, video-editing]
-tags: [chrome-extensions, video-editors, browser-tools]
+categories:
+- productivity
+- video-editing
+tags:
+- chrome-extensions
+- video-editors
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: best-chrome-extensions-for-video-editors
 ---
 # Best Chrome Extensions for Video Editors
 

@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions for Price Tracking Amazon"
-description: "Discover Chrome extensions for price tracking Amazon to never overpay again. These tools help you monitor prices and buy at the right time. Check out our com..."
+title: Chrome Extensions for Price Tracking Amazon
+description: Discover Chrome extensions for price tracking Amazon to never overpay
+  again. These tools help you monitor prices and buy at the right time. Learn how
+  to opti...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-price-tracking-amazon
-categories: [shopping, tips]
-tags: [chrome-extensions, amazon, price-tracking, shopping, deals]
+categories:
+- shopping
+- tips
+tags:
+- chrome-extensions
+- amazon
+- price-tracking
+- shopping
+- deals
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-price-tracking-amazon
 ---
 # Chrome Extensions for Price Tracking Amazon
 

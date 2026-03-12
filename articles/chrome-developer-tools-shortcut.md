@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Chrome Developer Tools Shortcut"
-description: "Learn the keyboard shortcuts to quickly open Chrome Developer Tools and speed up your workflow. Check out our complete 2026 guide for more details and profes..."
+title: Chrome Developer Tools Shortcut
+description: Learn the keyboard shortcuts to quickly open Chrome Developer Tools and
+  speed up your workflow. Learn how to optimize your browser today for better performance.
 date: 2025-02-19
-last_modified_at: 2026-03-09
-permalink: chrome-developer-tools-shortcut
-categories: [browser-tips, web-development]
-tags: [developer-tools, keyboard-shortcuts, productivity]
+categories:
+- browser-tips
+- web-development
+tags:
+- developer-tools
+- keyboard-shortcuts
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-developer-tools-shortcut
 ---
 # Chrome Developer Tools Shortcut
 

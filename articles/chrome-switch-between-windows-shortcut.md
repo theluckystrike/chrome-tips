@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Chrome Switch Between Windows Shortcut"
-description: "Learn how to quickly switch between windows in Chrome using keyboard shortcuts. Save time and navigate faster. Check out our complete 2026 guide for more det..."
-date: 2026-03-12
-last_modified_at: 2026-03-12
+title: Chrome Switch Between Windows Shortcut
+description: Learn how to quickly switch between windows in Chrome using keyboard
+  shortcuts. Save time and navigate faster. Learn how to optimize your browser today
+  for b...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
 permalink: chrome-switch-between-windows-shortcut
 ---
 How do you switch between windows in Chrome when you have multiple browser windows open? If you are still clicking through your taskbar or manually finding the right window, there is a much faster way that takes only a second.

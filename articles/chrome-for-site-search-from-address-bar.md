@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "chrome for site search from address bar"
-description: "Learn how to search any website directly from Chrome's address bar. This guide shows simple steps to enable site search and speed up your browsing. Check out..."
-date: 2026-03-12
-last_modified_at: 2026-03-12
+title: Chrome For Site Search From Address Bar
+description: Learn how to search any website directly from Chrome's address bar. This
+  guide shows simple steps to enable site search and speed up your browsing. Learn
+  how...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
 permalink: chrome-for-site-search-from-address-bar
 ---
 Have you ever wanted to search a specific website without first visiting that site and using its own search box? Maybe you were looking for a product on Amazon, an article on Wikipedia, or a recipe on your favorite food blog, and you wished there was a faster way. Well, there is. Using chrome for site search from address bar is a handy feature that lets you search any website directly from Chrome's omnibox, saving you time and clicks.

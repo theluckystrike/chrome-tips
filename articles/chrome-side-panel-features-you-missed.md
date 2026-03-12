@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome side panel features you missed"
-description: "Discover hidden Chrome side panel features that can boost your productivity and streamline how you browse the web. Check out our complete 2026 guide for more..."
+title: Chrome Side Panel Features You Missed
+description: Discover hidden Chrome side panel features that can boost your productivity
+  and streamline how you browse the web. Learn how to optimize your browser today
+  f...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-side-panel-features-you-missed
-categories: [productivity, browser-tips]
-tags: [chrome, browser, productivity, side-panel]
+categories:
+- productivity
+- browser-tips
+tags:
+- chrome
+- browser
+- productivity
+- side-panel
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-side-panel-features-you-missed
 ---
 # Chrome Side Panel Features You Missed
 

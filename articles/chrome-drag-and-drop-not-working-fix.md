@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Drag and Drop Not Working Fix"
-description: "Chrome drag and drop not working can be frustrating. Learn why it happens and simple solutions to get drag and drop working again. Check out our complete 202..."
+title: Chrome Drag and Drop Not Working Fix
+description: Chrome drag and drop not working can be frustrating. Learn why it happens
+  and simple solutions to get drag and drop working again. Learn how to optimize your...
 date: 2025-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-drag-and-drop-not-working-fix
-categories: [troubleshooting, tips]
-tags: [chrome-drag-and-drop, drag-drop-not-working, chrome-fix, browser-tips]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-drag-and-drop
+- drag-drop-not-working
+- chrome-fix
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-drag-and-drop-not-working-fix
 ---
 # Chrome Drag and Drop Not Working Fix
 

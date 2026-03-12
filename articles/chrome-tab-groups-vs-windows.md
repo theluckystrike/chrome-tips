@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Tab Groups vs Multiple Windows"
-description: "Compare Chrome tab groups vs multiple windows for productivity. Learn memory impact, organization strategies, and when to use each approach. Check out our co..."
+title: Chrome Tab Groups vs Multiple Windows
+description: Compare Chrome tab groups vs multiple windows for productivity. Learn
+  memory impact, organization strategies, and when to use each approach. Learn how
+  to opt...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: chrome-tab-groups-vs-windows
-categories: [productivity, tips]
-tags: [chrome, tabs, productivity, browser, memory]
+categories:
+- productivity
+- tips
+tags:
+- chrome
+- tabs
+- productivity
+- browser
+- memory
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-tab-groups-vs-windows
 ---
 # Chrome Tab Groups vs Multiple Windows
 

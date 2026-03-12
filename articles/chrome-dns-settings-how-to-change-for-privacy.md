@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome DNS Settings How to Change for Privacy"
-description: "Learn how to change DNS settings in Chrome to protect your browsing privacy. Simple steps to encrypt your DNS lookups and hide your web activity. Check out o..."
+title: Chrome DNS Settings How to Change for Privacy
+description: Learn how to change DNS settings in Chrome to protect your browsing privacy.
+  Simple steps to encrypt your DNS lookups and hide your web activity. Learn how t...
 date: 2026-03-10
-last_modified_at: 2026-03-10
-permalink: chrome-dns-settings-how-to-change-for-privacy
-categories: [privacy, security, network]
-tags: [chrome-dns, dns-settings, privacy-protection, secure-browsing, browser-security]
+categories:
+- privacy
+- security
+- network
+tags:
+- chrome-dns
+- dns-settings
+- privacy-protection
+- secure-browsing
+- browser-security
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-dns-settings-how-to-change-for-privacy
 ---
 # Chrome DNS Settings How to Change for Privacy
 

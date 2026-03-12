@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Canvas Fingerprinting How to Block"
-description: "Learn what Chrome canvas fingerprinting is, why websites use it, and Check out our complete 2026 guide for more details and professional advice on managing y..."
+title: Chrome Canvas Fingerprinting How to Block
+description: Learn what Chrome canvas fingerprinting is, why websites use it, and
+  how to protect your privacy with simple steps. Learn how to optimize your browser
+  today ...
 date: 2026-01-15
-last_modified_at: 2026-03-11
-permalink: chrome-canvas-fingerprinting-how-to-block
-categories: 
-tags: 
+categories:
+- privacy
+- security
+tags:
+- chrome
+- canvas-fingerprinting
+- privacy
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-canvas-fingerprinting-how-to-block
 ---
 # Chrome Canvas Fingerprinting How to Block
 

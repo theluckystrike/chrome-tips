@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome for price drop alert extensions"
-description: "Find the best Chrome extensions for price drop alerts to track product prices and save money on online shopping. Check out our complete 2026 guide for more d..."
+title: Chrome For Price Drop Alert Extensions
+description: Find the best Chrome extensions for price drop alerts to track product
+  prices and save money on online shopping. Learn how to optimize your browser today
+  for...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-price-drop-alert-extensions
-categories: [extensions, shopping]
-tags: [price-drop, alerts, shopping, extensions]
+categories:
+- extensions
+- shopping
+tags:
+- price-drop
+- alerts
+- shopping
+- extensions
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-price-drop-alert-extensions
 ---
 # Chrome for Price Drop Alert Extensions
 

@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Nurses"
-description: "Discover the best Chrome extensions for nurses that can simplify your workflow and help you manage patient care more efficiently. Find out more tips on how to o"
+title: Best Chrome Extensions for Nurses
+description: Discover the best Chrome extensions for nurses that can simplify your
+  workflow and help you manage patient care more efficiently. Learn how to optimize
+  your ...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: best-chrome-extensions-for-nurses
-categories: 
-tags: 
+categories:
+- healthcare
+- tips
+tags:
+- chrome-extensions
+- nurses
+- healthcare-tools
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: best-chrome-extensions-for-nurses
 ---
 # Best Chrome Extensions for Nurses
 

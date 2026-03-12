@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Eating All My RAM? Reddit Users Share Their Solutions"
-description: "Chrome consuming too much RAM? Discover Reddit-approved fixes to reduce memory usage and speed up your browser. Check out our complete 2026 guide for more de..."
+title: Chrome Eating All My RAM? Reddit Users Share Their Solutions
+description: Chrome consuming too much RAM? Discover Reddit-approved fixes to reduce
+  memory usage and speed up your browser. Learn how to optimize your browser today
+  for ...
 date: 2026-01-20
-last_modified_at: 2026-03-09
-permalink: chrome-eating-all-my-ram-reddit-solutions
-categories: [performance, memory]
-tags: [chrome-ram, chrome-memory, reddit, ram-usage]
+categories:
+- performance
+- memory
+tags:
+- chrome-ram
+- chrome-memory
+- reddit
+- ram-usage
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-eating-all-my-ram-reddit-solutions
 ---
 # Chrome Eating All My RAM? Reddit Users Share Their Solutions
 

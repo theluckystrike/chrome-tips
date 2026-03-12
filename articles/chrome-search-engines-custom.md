@@ -1,12 +1,21 @@
 ---
-layout: post
-title: "Chrome Custom Search Engines Guide"
-description: "Master Chrome custom search engines to boost productivity. Learn how Check out our complete 2026 guide for more details and professional advice on managing y..."
-date: 2025-12-15
-last_modified_at: 2026-03-12
+layout: default
+title: Chrome Custom Search Engines Guide
+description: Master Chrome custom search engines to boost productivity. Learn how
+  to add search engines, create keyword shortcuts, set up site-specific search, and
+  change...
+date: '2025-12-15'
+last_modified_at: '2026-03-11'
 permalink: chrome-search-engines-custom
-categories: 
-tags: 
+categories:
+- productivity
+- browser-tips
+tags:
+- chrome-search-engines
+- custom-search
+- keyword-shortcuts
+- site-search
+- browser-productivity
 author: theluckystrike
 ---
 # Chrome Custom Search Engines Guide

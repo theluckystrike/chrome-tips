@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Bookmark Manager"
-description: "Discover the best Chrome extensions for bookmark manager tools that help you organize, sync, and find your saved pages quickly. Check out our complete 2026 g..."
+title: Chrome Extensions for Bookmark Manager
+description: Discover the best Chrome extensions for bookmark manager tools that help
+  you organize, sync, and find your saved pages quickly. Learn how to optimize your
+  br...
 date: 2026-03-09
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-bookmark-manager
-categories: [productivity, tips]
-tags: [bookmarks, chrome-extensions, organization, productivity]
+categories:
+- productivity
+- tips
+tags:
+- bookmarks
+- chrome-extensions
+- organization
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-bookmark-manager
 ---
 # Chrome Extensions for Bookmark Manager
 

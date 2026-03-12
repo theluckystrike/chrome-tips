@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome extensions for web clipping"
-description: "Discover the best chrome extensions for web clipping to save articles, annotate content, and build your personal knowledge library. Check out our complete 20..."
+title: Chrome Extensions For Web Clipping
+description: Discover the best chrome extensions for web clipping to save articles,
+  annotate content, and build your personal knowledge library. Learn how to optimize
+  you...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-web-clipping
-categories: [extensions, productivity]
-tags: [web-clipping, chrome-extension, save-for-later, bookmark]
+categories:
+- extensions
+- productivity
+tags:
+- web-clipping
+- chrome-extension
+- save-for-later
+- bookmark
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-web-clipping
 ---
 # Chrome Extensions for Web Clipping
 

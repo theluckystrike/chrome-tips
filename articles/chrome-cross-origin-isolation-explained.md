@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "Chrome Cross-Origin Isolation Explained"
-description: "Learn what cross-origin isolation is in Chrome, why it matters for your browser security, and how it affects web development and browsing. Check out our comp..."
+title: Chrome Cross-Origin Isolation Explained
+description: Learn what cross-origin isolation is in Chrome, why it matters for your
+  browser security, and how it affects web development and browsing. Learn how to
+  optim...
 date: 2026-01-20
-last_modified_at: 2026-03-11
-permalink: chrome-cross-origin-isolation-explained
-categories: [security, browser, chrome]
-tags: [chrome, cross-origin, isolation, security, web-development]
+categories:
+- security
+- browser
+- chrome
+tags:
+- chrome
+- cross-origin
+- isolation
+- security
+- web-development
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-cross-origin-isolation-explained
 ---
 # Chrome Cross-Origin Isolation Explained
 

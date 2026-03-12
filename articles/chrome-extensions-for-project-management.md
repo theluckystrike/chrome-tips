@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Project Management"
-description: "Learn how Chrome extensions for project management can help teams stay organized, track tasks, and meet deadlines efficiently. Check out our complete 2026 gu..."
+title: Chrome Extensions for Project Management
+description: Learn how Chrome extensions for project management can help teams stay
+  organized, track tasks, and meet deadlines efficiently. Learn how to optimize your
+  bro...
 date: 2026-03-10
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-project-management
-categories: [productivity, tips]
-tags: [chrome-extensions, project-management, browser-tools]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- project-management
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-project-management
 ---
 # Chrome Extensions for Project Management
 

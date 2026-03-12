@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome recorder panel how to record user flows"
-description: "Learn how to use Chrome Recorder panel to record and replay user flows for testing, bug reporting, and automation. Check out our complete 2026 guide for more..."
+title: Chrome Recorder Panel How To Record User Flows
+description: Learn how to use Chrome Recorder panel to record and replay user flows
+  for testing, bug reporting, and automation. Learn how to optimize your browser today
+  f...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-recorder-panel-how-to-record-user-flows
-categories: [features, testing]
-tags: [recorder, user-flows, testing, automation]
+categories:
+- features
+- testing
+tags:
+- recorder
+- user-flows
+- testing
+- automation
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-recorder-panel-how-to-record-user-flows
 ---
 # chrome recorder panel how to record user flows
 

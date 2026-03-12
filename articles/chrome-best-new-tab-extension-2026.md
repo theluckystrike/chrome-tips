@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "chrome best new tab extension 2026"
-description: "Discover the best new tab extension for Chrome in 2026 to boost productivity, customize your homepage, and streamline your workflow. Learn more about optimizing"
+title: Chrome Best New Tab Extension 2026
+description: Discover the best new tab extension for Chrome in 2026 to boost productivity,
+  customize your homepage, and streamline your workflow. Learn how to optimize yo...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-best-new-tab-extension-2026
-categories: [extensions, productivity]
-tags: [new-tab, chrome-extension, productivity, browser]
+categories:
+- extensions
+- productivity
+tags:
+- new-tab
+- chrome-extension
+- productivity
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-best-new-tab-extension-2026
 ---
 # Chrome Best New Tab Extension 2026
 

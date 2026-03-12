@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Default Apps Settings: A Complete Guide"
-description: "Learn how to manage Chrome default apps settings, configure how Chrome Check out our complete 2026 guide for more details and professional advice on managing..."
+title: 'Chrome Default Apps Settings: A Complete Guide'
+description: Learn how to manage Chrome default apps settings, configure how Chrome
+  handles different file types and links, and optimize your browser experience. Learn
+  ho...
 date: 2026-01-15
-last_modified_at: 2026-03-11
-permalink: chrome-default-apps-settings
-categories: 
-tags: 
+categories:
+- chrome
+- settings
+- browser
+tags:
+- chrome-default-apps
+- browser-settings
+- chrome-configuration
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-default-apps-settings
 ---
 # Chrome Default Apps Settings: A Complete Guide
 

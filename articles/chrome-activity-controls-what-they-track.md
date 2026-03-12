@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Activity Controls What They Track"
-description: "Learn what data Google tracks through Chrome Activity Controls and how to manage your privacy settings. Check out our expert recommendations and step-by-step in"
+title: Chrome Activity Controls What They Track
+description: Learn what data Google tracks through Chrome Activity Controls and how
+  to manage your privacy settings. Learn how to optimize your browser today for better
+  p...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-activity-controls-what-they-track
-categories: [privacy, security]
-tags: [chrome, privacy, activity-controls, google]
+categories:
+- privacy
+- security
+tags:
+- chrome
+- privacy
+- activity-controls
+- google
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-activity-controls-what-they-track
 ---
 # Chrome Activity Controls What They Track
 

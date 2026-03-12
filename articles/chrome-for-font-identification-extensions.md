@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome for Font Identification Extensions"
-description: "Discover the best Chrome extensions for identifying fonts on any website. Learn how to find font names quickly and easily. Check out our complete 2026 guide ..."
+title: Chrome for Font Identification Extensions
+description: Discover the best Chrome extensions for identifying fonts on any website.
+  Learn how to find font names quickly and easily. Learn how to optimize your browser...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-font-identification-extensions
-categories: [extensions, design, fonts]
-tags: [chrome-extensions, fonts, design, web-design]
+categories:
+- extensions
+- design
+- fonts
+tags:
+- chrome-extensions
+- fonts
+- design
+- web-design
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-font-identification-extensions
 ---
 # Chrome for Font Identification Extensions
 

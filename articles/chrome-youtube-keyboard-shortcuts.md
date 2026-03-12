@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Chrome YouTube Keyboard Shortcuts"
-description: "Master chrome youtube keyboard shortcuts to navigate videos faster. Learn essential shortcuts and how to use them effectively. Check out our complete 2026 gu..."
-date: 2026-03-12
-last_modified_at: 2026-03-12
+title: Chrome YouTube Keyboard Shortcuts
+description: Master chrome youtube keyboard shortcuts to navigate videos faster. Learn
+  essential shortcuts and how to use them effectively. Learn how to optimize your
+  bro...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
 permalink: chrome-youtube-keyboard-shortcuts
 ---
 If you are looking for chrome youtube keyboard shortcuts, you probably spend a lot of time watching videos on YouTube and wish there was a faster way to control playback, navigate between videos, and manage your watching experience. Using your mouse to click every button can slow you down, especially when you are watching multiple videos in a row or need to pause frequently. The good news is that Chrome and YouTube both offer handy keyboard shortcuts that can transform how you use the platform.

@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Open Last Session on Startup"
-description: "Learn how to make Chrome open your last session on startup. Simple steps to restore your tabs automatically. Check out our complete 2026 guide for more detai..."
+title: Chrome Open Last Session on Startup
+description: Learn how to make Chrome open your last session on startup. Simple steps
+  to restore your tabs automatically. Learn how to optimize your browser today for
+  bet...
 date: 2025-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-open-last-session-on-startup
-categories: [troubleshooting, tips]
-tags: [chrome-session, chrome-startup, restore-tabs, chrome-settings]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-session
+- chrome-startup
+- restore-tabs
+- chrome-settings
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-open-last-session-on-startup
 ---
 # Chrome Open Last Session on Startup
 

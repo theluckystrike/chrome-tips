@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome for Tab Organization Workflow"
-description: "Learn how to build a smooth chrome for tab organization workflow that keeps your browser fast and your tasks manageable. Check out our complete 2026 guide fo..."
+title: Chrome for Tab Organization Workflow
+description: Learn how to build a smooth chrome for tab organization workflow that
+  keeps your browser fast and your tasks manageable. Learn how to optimize your browser
+  t...
 date: 2025-03-13
-last_modified_at: 2026-03-12
-permalink: chrome-for-tab-organization-workflow
-categories: [productivity, tips]
-tags: [tabs, tab-organization, workflow, chrome-tips]
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- tab-organization
+- workflow
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-tab-organization-workflow
 ---
 # Chrome for Tab Organization Workflow
 

@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for JSON Viewer Formatter"
-description: "Struggling with messy JSON data? Discover the best Chrome extensions for JSON viewer formatter tools that make reading raw data simple. Check out our complet..."
+title: Chrome Extensions for JSON Viewer Formatter
+description: Struggling with messy JSON data? Discover the best Chrome extensions
+  for JSON viewer formatter tools that make reading raw data simple. Learn how to
+  optimize...
 date: 2026-01-20
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-json-viewer-formatter
-categories: [tools, extensions]
-tags: [chrome-extensions, json, developer-tools, browser]
+categories:
+- tools
+- extensions
+tags:
+- chrome-extensions
+- json
+- developer-tools
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-json-viewer-formatter
 ---
 # Chrome Extensions for JSON Viewer Formatter
 

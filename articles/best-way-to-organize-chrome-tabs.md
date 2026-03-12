@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Best Way to Organize Chrome Tabs"
-description: "Feeling overwhelmed by too many open tabs? Learn practical methods to organize Chrome tabs and take back control of your browsing. Check out our expert recommen"
+title: Best Way to Organize Chrome Tabs
+description: Feeling overwhelmed by too many open tabs? Learn practical methods to
+  organize Chrome tabs and take back control of your browsing. Learn how to optimize
+  your...
 date: 2025-03-13
-last_modified_at: 2026-03-12
-permalink: best-way-to-organize-chrome-tabs
-categories: [productivity, tips]
-tags: [tabs, tab-organization, productivity, chrome-tips]
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- tab-organization
+- productivity
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: best-way-to-organize-chrome-tabs
 ---
 # Best Way to Organize Chrome Tabs
 

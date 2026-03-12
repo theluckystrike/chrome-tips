@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Flags Best Settings 2026: The Ultimate Guide"
-description: "Discover the best Chrome flags to enable in 2026 for better performance, privacy, and productivity. Our comprehensive guide covers the top experimental featu..."
+title: 'Chrome Flags Best Settings 2026: The Ultimate Guide'
+description: Discover the best Chrome flags to enable in 2026 for better performance,
+  privacy, and productivity. Our comprehensive guide covers the top experimental featu...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-flags-best-settings-2026
-categories: [tips, performance]
-tags: [chrome-flags, chrome-settings, browser-tips, chrome-features, chrome-tips]
+categories:
+- tips
+- performance
+tags:
+- chrome-flags
+- chrome-settings
+- browser-tips
+- chrome-features
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-flags-best-settings-2026
 ---
 # Chrome Flags Best Settings 2026: The Ultimate Guide
 

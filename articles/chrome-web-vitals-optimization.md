@@ -1,13 +1,25 @@
 ---
-layout: post
-title: "Chrome Web Vitals Optimization Guide"
-description: "Master Core Web Vitals optimization for better SEO, user experience, and conversion rates. Learn how to improve LCP, FID, and CLS scores. Check out our compl..."
+layout: default
+title: Chrome Web Vitals Optimization Guide
+description: Master Core Web Vitals optimization for better SEO, user experience,
+  and conversion rates. Learn how to improve LCP, FID, and CLS scores. Learn how to
+  optimi...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-web-vitals-optimization
-categories: [performance, optimization, seo]
-tags: [chrome-web-vitals, lcp, fid, cls, core-web-vitals, performance-metrics, page-speed]
+categories:
+- performance
+- optimization
+- seo
+tags:
+- chrome-web-vitals
+- lcp
+- fid
+- cls
+- core-web-vitals
+- performance-metrics
+- page-speed
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-web-vitals-optimization
 ---
 # Chrome Web Vitals Optimization Guide
 

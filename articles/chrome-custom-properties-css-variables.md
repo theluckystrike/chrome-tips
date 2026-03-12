@@ -1,13 +1,10 @@
 ---
-layout: post
-title: "Chrome Custom Properties CSS Variables"
-description: "Learn how chrome custom properties CSS variables work and how to use them to build more maintainable websites. Check out our complete 2026 guide for more det..."
-date: 2026-01-15
-last_modified_at: 2026-03-09
+title: Chrome Custom Properties Css Variables
+description: ' Learn how to optimize your browser today for better performance...........................................................................................'
+date: '2026-03-12'
+last_modified_at: '2026-03-09'
 permalink: chrome-custom-properties-css-variables
-categories: [development, css]
-tags: [css-variables, custom-properties, web-development, chrome-css]
-author: theluckystrike
+layout: post
 ---
 # Chrome Custom Properties CSS Variables
 

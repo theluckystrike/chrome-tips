@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Reader Mode on Phone: How to Enable"
-description: "Learn how to enable and use Chrome reader mode on your phone for a distraction-free reading experience. Check out our complete 2026 guide for more details an..."
+title: 'Chrome Reader Mode on Phone: How to Enable'
+description: Learn how to enable and use Chrome reader mode on your phone for a distraction-free
+  reading experience. Learn how to optimize your browser today for better p...
 date: 2026-03-12
-last_modified_at: 2026-03-12
-permalink: chrome-reader-mode-on-phone-how-to-enable
-categories: [reading, mobile]
-tags: [reader-mode, chrome, mobile, android, ios, reading]
+categories:
+- reading
+- mobile
+tags:
+- reader-mode
+- chrome
+- mobile
+- android
+- ios
+- reading
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-reader-mode-on-phone-how-to-enable
 ---
 # Chrome Reader Mode on Phone: How to Enable
 

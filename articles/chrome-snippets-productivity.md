@@ -1,13 +1,10 @@
 ---
-layout: post
-title: "Chrome DevTools Snippets for Productivity"
-description: "Master Chrome DevTools Snippets to boost your productivity. Learn how to create saved scripts, automate repetitive tasks, and debug faster with these essenti..."
-date: 2026-03-10
-last_modified_at: 2026-03-12
+title: Chrome Snippets Productivity
+description: ' Learn how to optimize your browser today for better performance...........................................................................................'
+date: '2026-03-12'
+last_modified_at: '2026-03-10'
 permalink: chrome-snippets-productivity
-categories: [productivity, developer-tools, chrome-tips]
-tags: [chrome-devtools, snippets, automation, debugging, productivity]
-author: theluckystrike
+layout: post
 ---
 # Chrome DevTools Snippets for Productivity
 

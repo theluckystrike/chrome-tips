@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Keep Crashing Fix 2026"
-description: "Is Chrome crashing repeatedly? Learn the most effective solutions to fix Chrome crashes in 2026 and get your browser running smoothly again. Check out our co..."
+title: Chrome Keep Crashing Fix 2026
+description: Is Chrome crashing repeatedly? Learn the most effective solutions to
+  fix Chrome crashes in 2026 and get your browser running smoothly again. Learn how
+  to opt...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-keep-crashing-fix-2026
-categories: [troubleshooting, browser-fix]
-tags: [chrome-crash, chrome-crashing, browser-fix, chrome-not-working]
+categories:
+- troubleshooting
+- browser-fix
+tags:
+- chrome-crash
+- chrome-crashing
+- browser-fix
+- chrome-not-working
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-keep-crashing-fix-2026
 ---
 # Chrome Keep Crashing Fix 2026
 

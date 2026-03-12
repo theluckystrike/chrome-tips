@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome for HubSpot CRM in Browser"
-description: "Learn how to use Chrome for HubSpot CRM in browser, including tips for managing tabs and extensions for better productivity. Check out our complete 2026 guid..."
+title: Chrome for HubSpot CRM in Browser
+description: Learn how to use Chrome for HubSpot CRM in browser, including tips for
+  managing tabs and extensions for better productivity. Learn how to optimize your
+  brows...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-hubspot-crm-in-browser
-categories: [productivity, tips]
-tags: [chrome, hubspot, crm, browser]
+categories:
+- productivity
+- tips
+tags:
+- chrome
+- hubspot
+- crm
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-hubspot-crm-in-browser
 ---
 # Chrome for HubSpot CRM in Browser
 

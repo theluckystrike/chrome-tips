@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome CORS Error for Regular Users"
-description: "Getting a CORS error in Chrome can be confusing. Learn what causes it, why it happens, and how to fix it without technical knowledge. Check out our complete ..."
+title: Chrome CORS Error for Regular Users
+description: Getting a CORS error in Chrome can be confusing. Learn what causes it,
+  why it happens, and how to fix it without technical knowledge. Learn how to optimize
+  y...
 date: 2025-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-cors-error-for-regular-users
-categories: [troubleshooting, tips]
-tags: [chrome-cors-error, cors, browser-error, chrome-fix, web-error]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-cors-error
+- cors
+- browser-error
+- chrome-fix
+- web-error
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-cors-error-for-regular-users
 ---
 # Chrome CORS Error for Regular Users
 

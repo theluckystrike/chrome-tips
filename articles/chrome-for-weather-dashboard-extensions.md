@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome for Weather Dashboard Extensions"
-description: "Discover the best Chrome weather dashboard extensions to keep forecast info visible while you browse. Find the right tools for quick weather updates. Check o..."
+title: Chrome for Weather Dashboard Extensions
+description: Discover the best Chrome weather dashboard extensions to keep forecast
+  info visible while you browse. Find the right tools for quick weather updates. Learn
+  h...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-weather-dashboard-extensions
-categories: [productivity, tips]
-tags: [chrome-extensions, weather, dashboard, browser-tools]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- weather
+- dashboard
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-weather-dashboard-extensions
 ---
 # Chrome for Weather Dashboard Extensions
 

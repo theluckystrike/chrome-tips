@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Back Forward Cache Explained"
-description: "Learn how Chrome back forward cache works and why it matters for your browsing experience and memory usage. Learn more about optimizing your Chrome experience w"
+title: Chrome Back Forward Cache Explained
+description: Learn how Chrome back forward cache works and why it matters for your
+  browsing experience and memory usage. Learn how to optimize your browser today for
+  bett...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-back-forward-cache-explained
-categories: [chrome, browser, performance]
-tags: [chrome, back-forward-cache, browser-performance, memory]
+categories:
+- chrome
+- browser
+- performance
+tags:
+- chrome
+- back-forward-cache
+- browser-performance
+- memory
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-back-forward-cache-explained
 ---
 # Chrome Back Forward Cache Explained
 

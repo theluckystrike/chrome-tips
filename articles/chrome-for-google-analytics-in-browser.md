@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "Chrome for Google Analytics in Browser"
-description: "Learn how to use Chrome for Google Analytics, track website data, and Check out our complete 2026 guide for more details and professional advice on managing ..."
-date: 2026-01-15
-last_modified_at: 2026-03-12
+title: Chrome for Google Analytics in Browser
+description: Learn how to use Chrome for Google Analytics, track website data, and
+  manage analytics extensions effectively. Learn how to optimize your browser today
+  for b...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
 permalink: chrome-for-google-analytics-in-browser
-categories: 
-tags: 
+categories:
+- analytics
+- extensions
+tags:
+- google-analytics
+- chrome-extensions
+- analytics
+- tracking
 author: theluckystrike
 ---
 # Chrome for Google Analytics in Browser

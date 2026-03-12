@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Attribution Reporting API Explained"
-description: "Learn what the Chrome Attribution Reporting API does, why it matters Check out our complete 2026 guide for more details and professional advice on managing y..."
+title: Chrome Attribution Reporting API Explained
+description: Learn what the Chrome Attribution Reporting API does, why it matters
+  for your privacy, and how to manage it in your browser. Learn how to optimize your
+  brows...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: chrome-attribution-reporting-api-explained
-categories: 
-tags: 
+categories:
+- privacy
+- browser
+- chrome
+tags:
+- chrome
+- attribution-reporting
+- privacy
+- browser-settings
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-attribution-reporting-api-explained
 ---
 # Chrome Attribution Reporting API Explained
 

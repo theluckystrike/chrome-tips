@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Chrome Shadow DOM What It Is"
-description: "Learn what Shadow DOM is in Chrome, how it works, and why it matters for web developers and everyday users alike. Check out our complete 2026 guide for more ..."
-date: 2026-03-12
-last_modified_at: 2026-03-12
+title: Chrome Shadow DOM What It Is
+description: Learn what Shadow DOM is in Chrome, how it works, and why it matters
+  for web developers and everyday users alike. Learn how to optimize your browser
+  today fo...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
 permalink: chrome-shadow-dom-what-it-is
 ---
 Have you ever wondered how Chrome keeps certain parts of a webpage hidden and protected from the rest of the page? Maybe you tried to change the color of a button using a userstyle or extension, and nothing happened. The reason behind this is something called Shadow DOM, and understanding it can help you make sense of how modern web pages work.

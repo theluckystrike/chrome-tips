@@ -1,13 +1,22 @@
 ---
-layout: post
-title: "Chrome Accessibility Features You Didn't Know About"
-description: "Hidden accessibility features in Chrome that make browsing easier. Screen readers, zoom controls, high contrast, captions, and keyboard navigation. Check out ou"
+layout: default
+title: Chrome Accessibility Features You Didn't Know About
+description: Hidden accessibility features in Chrome that make browsing easier. Screen
+  readers, zoom controls, high contrast, captions, and keyboard navigation. Learn
+  how...
 date: 2025-03-11
-last_modified_at: 2026-03-12
-permalink: chrome-accessibility-features-you-didnt-know-about
-categories: [accessibility, features]
-tags: [accessibility, chrome-features, screen-reader, high-contrast, keyboard-navigation]
+categories:
+- accessibility
+- features
+tags:
+- accessibility
+- chrome-features
+- screen-reader
+- high-contrast
+- keyboard-navigation
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-accessibility-features-you-didnt-know-about
 ---
 # Chrome Accessibility Features You Didn't Know About
 

@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "How to Migrate Chrome Data to a New Computer"
-description: "Moving to a new computer? Learn how to transfer your Chrome bookmarks, passwords, history, and settings seamlessly. Keep your browsing experience intact."
+title: How to Migrate Chrome Data to a New Computer
+description: Moving to a new computer? Learn how to transfer your Chrome bookmarks,
+  passwords, history, and settings seamlessly. Keep your browsing experience intact.
 date: 2026-03-12
-last_modified_at: 2026-03-12
-permalink: how-to-migrate-chrome-data-to-new-computer
-categories: [chrome, data-migration, sync, backup]
-tags: [chrome-sync, data-transfer, browser-migration, bookmarks, passwords]
+categories:
+- chrome
+- data-migration
+- sync
+- backup
+tags:
+- chrome-sync
+- data-transfer
+- browser-migration
+- bookmarks
+- passwords
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: how-to-migrate-chrome-data-to-new-computer
 ---
 # How to Migrate Chrome Data to a New Computer
 

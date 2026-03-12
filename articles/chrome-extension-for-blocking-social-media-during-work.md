@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extension for Blocking Social Media During Work"
-description: "Learn how a chrome extension for blocking social media during work can help you stay focused and get more done. Check out our complete 2026 guide for more de..."
+title: Chrome Extension for Blocking Social Media During Work
+description: Learn how a chrome extension for blocking social media during work can
+  help you stay focused and get more done. Learn how to optimize your browser today
+  for ...
 date: 2026-03-09
-last_modified_at: 2026-03-10
-permalink: chrome-extension-for-blocking-social-media-during-work
-categories: [productivity, tips]
-tags: [chrome-extensions, productivity, focus, social-media]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- productivity
+- focus
+- social-media
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-blocking-social-media-during-work
 ---
 # Chrome Extension for Blocking Social Media During Work
 

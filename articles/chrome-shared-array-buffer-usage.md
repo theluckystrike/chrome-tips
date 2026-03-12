@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "chrome shared array buffer usage"
-description: "Learn how to use SharedArrayBuffer in Chrome for high-performance web applications, including setup requirements, practical examples, and common use cases fo..."
+title: Chrome Shared Array Buffer Usage
+description: Learn how to use SharedArrayBuffer in Chrome for high-performance web
+  applications, including setup requirements, practical examples, and common use cases
+  fo...
 date: 2026-01-24
-last_modified_at: 2026-03-12
-permalink: chrome-shared-array-buffer-usage
-categories: [chrome, development, web-apis]
-tags: [sharedarraybuffer, javascript, web-workers, performance]
+categories:
+- chrome
+- development
+- web-apis
+tags:
+- sharedarraybuffer
+- javascript
+- web-workers
+- performance
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-shared-array-buffer-usage
 ---
 # Chrome Shared Array Buffer Usage
 

@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome PDF Settings Print to PDF How to"
-description: "Learn how to use Chrome's built-in PDF settings to save webpages as PDF files with custom options. Check out our complete 2026 guide for more details and pro..."
+title: Chrome PDF Settings Print to PDF How to
+description: Learn how to use Chrome's built-in PDF settings to save webpages as PDF
+  files with custom options. Learn how to optimize your browser today for better perfor...
 date: 2025-02-19
-last_modified_at: 2026-03-12
-permalink: chrome-pdf-settings-print-to-pdf-how-to
-categories: [browser-tips, pdf, printing]
-tags: [pdf, print-to-pdf, save-as-pdf, chrome-settings]
+categories:
+- browser-tips
+- pdf
+- printing
+tags:
+- pdf
+- print-to-pdf
+- save-as-pdf
+- chrome-settings
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-pdf-settings-print-to-pdf-how-to
 ---
 # Chrome PDF Settings Print to PDF How to
 

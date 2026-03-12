@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Casting to Chromecast Not Working Fix"
-description: "Chrome casting to Chromecast not working can ruin your streaming night. Learn why it happens and how to get it working again. Check out our complete 2026 gui..."
+title: Chrome Casting to Chromecast Not Working Fix
+description: Chrome casting to Chromecast not working can ruin your streaming night.
+  Learn why it happens and how to get it working again. Learn how to optimize your
+  brow...
 date: 2025-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-casting-to-chromecast-not-working-fix
-categories: [troubleshooting, tips]
-tags: [chrome-casting, chromecast, casting-not-working, chrome-fix, streaming]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-casting
+- chromecast
+- casting-not-working
+- chrome-fix
+- streaming
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-casting-to-chromecast-not-working-fix
 ---
 # Chrome Casting to Chromecast Not Working Fix
 

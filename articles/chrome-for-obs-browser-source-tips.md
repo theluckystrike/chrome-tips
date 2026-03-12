@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "chrome for obs browser source tips"
-description: "Get the most out of Chrome in OBS with these practical browser source tips for smoother streams and better performance. Check out our complete 2026 guide for..."
+title: Chrome For Obs Browser Source Tips
+description: Get the most out of Chrome in OBS with these practical browser source
+  tips for smoother streams and better performance. Learn how to optimize your browser
+  to...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-obs-browser-source-tips
-categories: [streaming, obs, browser-source]
-tags: [obs, browser-source, chrome, streaming, tips]
+categories:
+- streaming
+- obs
+- browser-source
+tags:
+- obs
+- browser-source
+- chrome
+- streaming
+- tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-obs-browser-source-tips
 ---
 # Chrome for OBS Browser Source Tips
 

@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Tab Color Coding How to Use"
-description: "Learn how to color code your Chrome tabs for better organization. Simple tips to visually organize your browser and find tabs faster. Check out our complete ..."
+title: Chrome Tab Color Coding How to Use
+description: Learn how to color code your Chrome tabs for better organization. Simple
+  tips to visually organize your browser and find tabs faster. Learn how to optimize
+  y...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-tab-color-coding-how-to-use
-categories: [productivity, chrome, tips]
-tags: [chrome-tabs, tab-management, productivity, browser-tips]
+categories:
+- productivity
+- chrome
+- tips
+tags:
+- chrome-tabs
+- tab-management
+- productivity
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-tab-color-coding-how-to-use
 ---
 # Chrome Tab Color Coding How to Use
 

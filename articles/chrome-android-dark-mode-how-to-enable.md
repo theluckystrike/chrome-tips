@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Android Dark Mode How to Enable"
-description: "Learn how to enable dark mode on Chrome for Android. Simple steps to Check out our complete 2026 guide for more details and professional advice on managing y..."
+title: Chrome Android Dark Mode How to Enable
+description: Learn how to enable dark mode on Chrome for Android. Simple steps to
+  reduce eye strain and save battery with dark theme. Learn how to optimize your browser
+  t...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-android-dark-mode-how-to-enable
-categories: 
-tags: 
+categories:
+- mobile
+- customization
+tags:
+- chrome-android
+- dark-mode
+- android-tips
+- theme
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-android-dark-mode-how-to-enable
 ---
 # Chrome Android Dark Mode How to Enable
 

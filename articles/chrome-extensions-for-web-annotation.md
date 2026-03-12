@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Web Annotation"
-description: "Learn how chrome extensions for web annotation can help you highlight, note, and organize information from any webpage. Check out our complete 2026 guide for..."
+title: Chrome Extensions for Web Annotation
+description: Learn how chrome extensions for web annotation can help you highlight,
+  note, and organize information from any webpage. Learn how to optimize your browser
+  to...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-web-annotation
-categories: [productivity, tips]
-tags: [chrome-extensions, annotation, browser-tools]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- annotation
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-web-annotation
 ---
 # Chrome Extensions for Web Annotation
 

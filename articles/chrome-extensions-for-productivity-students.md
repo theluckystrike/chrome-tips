@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions for Productivity Students"
-description: "Discover the best Chrome extensions for productivity students to ace their studies, manage time effectively, and accomplish more with less stress. Check out ..."
+title: Chrome Extensions for Productivity Students
+description: Discover the best Chrome extensions for productivity students to ace
+  their studies, manage time effectively, and accomplish more with less stress. Learn
+  how ...
 date: 2026-03-09
-last_modified_at: 2026-03-11
-permalink: chrome-extensions-for-productivity-students
-categories: [productivity, students, tips]
-tags: [chrome-extensions, productivity, students, browser-tools]
+categories:
+- productivity
+- students
+- tips
+tags:
+- chrome-extensions
+- productivity
+- students
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-productivity-students
 ---
 # Chrome Extensions for Productivity Students
 

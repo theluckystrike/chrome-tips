@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Address Bar Focus Shortcut"
-description: "Learn the fastest ways to focus the Chrome address bar instantly using keyboard shortcuts and boost your browsing speed. Check out our expert recommendations an"
+title: Chrome Address Bar Focus Shortcut
+description: Learn the fastest ways to focus the Chrome address bar instantly using
+  keyboard shortcuts and boost your browsing speed. Learn how to optimize your browser
+  t...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-address-bar-focus-shortcut
-categories: [features, productivity]
-tags: [chrome-shortcuts, address-bar, productivity, chrome-tips]
+categories:
+- features
+- productivity
+tags:
+- chrome-shortcuts
+- address-bar
+- productivity
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-address-bar-focus-shortcut
 ---
 # Chrome Address Bar Focus Shortcut
 

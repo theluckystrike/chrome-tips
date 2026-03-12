@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Project Managers"
-description: "Find the best Chrome extensions for project managers to boost productivity, manage tabs, and streamline your workflow. Find out more tips on how to optimize you"
+title: Best Chrome Extensions for Project Managers
+description: Find the best Chrome extensions for project managers to boost productivity,
+  manage tabs, and streamline your workflow. Learn how to optimize your browser tod...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: best-chrome-extensions-for-project-managers
-categories: 
-tags: 
+categories:
+- project-managers
+- tips
+tags:
+- chrome-extensions
+- project-managers
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: best-chrome-extensions-for-project-managers
 ---
 # Best Chrome Extensions for Project Managers
 

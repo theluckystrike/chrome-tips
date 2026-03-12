@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "How to See Chrome Tabs From Other Devices"
-description: "Learn how to view and access Chrome tabs synced from your other devices using built-in features and simple settings. Check out our complete 2026 guide for mo..."
+title: How to See Chrome Tabs From Other Devices
+description: Learn how to view and access Chrome tabs synced from your other devices
+  using built-in features and simple settings. Learn how to optimize your browser
+  today...
 date: 2025-03-13
-last_modified_at: 2026-03-12
-permalink: chrome-tabs-from-other-devices-how-to-see
-categories: [productivity, tips]
-tags: [tabs, sync, chrome-tips, cross-device]
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- sync
+- chrome-tips
+- cross-device
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-tabs-from-other-devices-how-to-see
 ---
 # How to See Chrome Tabs From Other Devices
 

@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "Chrome Mobile Dark Mode Force on All Sites"
-description: "Learn how to force dark mode on every website in Chrome mobile. Easy Check out our complete 2026 guide for more details and professional advice on managing y..."
-date: 2026-01-15
-last_modified_at: 2026-03-12
+title: Chrome Mobile Dark Mode Force on All Sites
+description: Learn how to force dark mode on every website in Chrome mobile. Easy
+  methods to make all sites dark, even ones without native dark themes. Learn how
+  to optim...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
 permalink: chrome-mobile-dark-mode-force-on-all-sites
-categories: 
-tags: 
+categories:
+- mobile
+- customization
+tags:
+- chrome-mobile
+- dark-mode
+- android-tips
+- ios-tips
+- force-dark-mode
 author: theluckystrike
 ---
 # Chrome Mobile Dark Mode Force on All Sites

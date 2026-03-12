@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions for HTTP Header Viewer"
-description: "Learn what HTTP headers are and discover the best Chrome extensions for viewing and debugging them. Check out our complete 2026 guide for more details and pr..."
+title: Chrome Extensions for HTTP Header Viewer
+description: Learn what HTTP headers are and discover the best Chrome extensions for
+  viewing and debugging them. Learn how to optimize your browser today for better
+  perfo...
 date: 2026-01-15
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-http-header-viewer
-categories: [tools, development, extensions]
-tags: [chrome-extensions, http-headers, debugging, web-development]
+categories:
+- tools
+- development
+- extensions
+tags:
+- chrome-extensions
+- http-headers
+- debugging
+- web-development
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-http-header-viewer
 ---
 # Chrome Extensions for HTTP Header Viewer
 

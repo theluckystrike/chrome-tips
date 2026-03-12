@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Web USB API Guide"
-description: "Learn how to use the Chrome Web USB API for direct USB device communication in web applications. Discover device access, permissions, transfer types, and com..."
+title: Chrome Web USB API Guide
+description: Learn how to use the Chrome Web USB API for direct USB device communication
+  in web applications. Discover device access, permissions, transfer types, and com...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-web-usb-api-guide
-categories: [development, api, chrome]
-tags: [web-usb, chrome-api, usb, hardware, browser]
+categories:
+- development
+- api
+- chrome
+tags:
+- web-usb
+- chrome-api
+- usb
+- hardware
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-web-usb-api-guide
 ---
 # Chrome Web USB API Guide
 

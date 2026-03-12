@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab"
-description: "Learn the keyboard shortcut to duplicate tabs in Chrome instantly. Plus discover how to manage multiple tab clones efficiently without slowing down your brow..."
+title: 'Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab'
+description: Learn the keyboard shortcut to duplicate tabs in Chrome instantly. Plus
+  discover how to manage multiple tab clones efficiently without slowing down your
+  brow...
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: '2026-03-11'
 permalink: chrome-duplicate-tab-shortcut-trick
 ---
 If you frequently browse the web in Chrome, you've probably found yourself needing to open the same webpage in multiple tabs. Maybe you're comparing products, researching across multiple sources, or just want to keep a reference page handy while exploring something new. Instead of manually copying the URL and opening it again, there's a much faster way.

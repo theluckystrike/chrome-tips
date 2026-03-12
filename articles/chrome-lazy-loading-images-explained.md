@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Chrome Lazy Loading Images Explained"
-description: "A friendly explanation of Chrome lazy loading images, what it means for your browsing, and how to manage it. Check out our complete 2026 guide for more detai..."
-date: 2026-03-12
-last_modified_at: 2026-03-12
+title: Chrome Lazy Loading Images Explained
+description: A friendly explanation of Chrome lazy loading images, what it means for
+  your browsing, and how to manage it. Learn how to optimize your browser today for
+  bet...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
 permalink: chrome-lazy-loading-images-explained
 ---
 If you have searched for "chrome lazy loading images explained," you probably want to understand what this feature actually does and whether it affects your browsing. Let me give you a clear, straightforward explanation of how lazy loading works in Chrome and what it means for your experience online.

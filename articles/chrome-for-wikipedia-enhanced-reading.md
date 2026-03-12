@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome for Wikipedia Enhanced Reading"
-description: "Discover Chrome extensions and settings that transform Wikipedia into a cleaner, more focused reading experience. Check out our complete 2026 guide for more ..."
+title: Chrome for Wikipedia Enhanced Reading
+description: Discover Chrome extensions and settings that transform Wikipedia into
+  a cleaner, more focused reading experience. Learn how to optimize your browser today
+  fo...
 date: 2025-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-wikipedia-enhanced-reading
-categories: [productivity, tips]
-tags: [chrome, wikipedia, reading, browser-tips]
+categories:
+- productivity
+- tips
+tags:
+- chrome
+- wikipedia
+- reading
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-wikipedia-enhanced-reading
 ---
 # Chrome for Wikipedia Enhanced Reading
 

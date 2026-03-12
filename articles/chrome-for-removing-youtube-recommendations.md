@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome for Removing YouTube Recommendations"
-description: "Tired of YouTube recommendations distracting you? Learn how Chrome extensions can help you remove YouTube suggestions and focus on what matters. Check out ou..."
+title: Chrome for Removing YouTube Recommendations
+description: Tired of YouTube recommendations distracting you? Learn how Chrome extensions
+  can help you remove YouTube suggestions and focus on what matters. Learn how to...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-removing-youtube-recommendations
-categories: [productivity, extensions, youtube]
-tags: [chrome, youtube, recommendations, focus, productivity]
+categories:
+- productivity
+- extensions
+- youtube
+tags:
+- chrome
+- youtube
+- recommendations
+- focus
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-removing-youtube-recommendations
 ---
 # Chrome for Removing YouTube Recommendations
 

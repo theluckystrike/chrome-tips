@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "chrome manifest v3 controversy ad blockers"
-description: "Understand the Chrome Manifest V3 controversy and how it affects ad blockers. Learn what changed, why it matters, and what alternatives exist for Chrome users."
+title: Chrome Manifest V3 Controversy Ad Blockers
+description: Understand the Chrome Manifest V3 controversy and how it affects ad blockers.
+  Learn what changed, why it matters, and what alternatives exist for Chrome users.
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-manifest-v3-controversy-ad-blockers
-categories: [extensions, privacy, chrome-updates]
-tags: [manifest-v3, ad-blocker, chrome-extension, privacy, browser]
+categories:
+- extensions
+- privacy
+- chrome-updates
+tags:
+- manifest-v3
+- ad-blocker
+- chrome-extension
+- privacy
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-manifest-v3-controversy-ad-blockers
 ---
 # Chrome Manifest V3 Controversy Ad Blockers
 

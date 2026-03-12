@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Cover Letter Writing"
-description: "Discover Chrome extensions that make cover letter writing easier, faster, and more effective for job seekers. Check out our complete 2026 guide for more deta..."
+title: Chrome Extensions for Cover Letter Writing
+description: Discover Chrome extensions that make cover letter writing easier, faster,
+  and more effective for job seekers. Learn how to optimize your browser today for
+  be...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-cover-letter-writing
-categories: [cover-letter, tips]
-tags: [chrome-extensions, cover-letter, job-search, productivity]
+categories:
+- cover-letter
+- tips
+tags:
+- chrome-extensions
+- cover-letter
+- job-search
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-cover-letter-writing
 ---
 # Chrome Extensions for Cover Letter Writing
 

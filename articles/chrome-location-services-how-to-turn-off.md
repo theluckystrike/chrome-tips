@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "chrome location services how to turn off"
-description: "Learn how to turn off location services in Chrome to protect your privacy and prevent websites from accessing your location. Check out our complete 2026 guid..."
+title: Chrome Location Services How To Turn Off
+description: Learn how to turn off location services in Chrome to protect your privacy
+  and prevent websites from accessing your location. Learn how to optimize your brows...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-location-services-how-to-turn-off
-categories: [privacy, settings]
-tags: [location-services, chrome-settings, privacy, tracking]
+categories:
+- privacy
+- settings
+tags:
+- location-services
+- chrome-settings
+- privacy
+- tracking
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-location-services-how-to-turn-off
 ---
 # Chrome Location Services How to Turn Off
 

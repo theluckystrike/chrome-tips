@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Tabs Flickering and Glitching Fix"
-description: "Is your Chrome tabs flickering and glitching? Learn practical solutions to fix this issue on slow computers with limited RAM. Simple step-by-step guide."
+title: Chrome Tabs Flickering and Glitching Fix
+description: Is your Chrome tabs flickering and glitching? Learn practical solutions
+  to fix this issue on slow computers with limited RAM. Simple step-by-step guide.
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-tabs-flickering-and-glitching
-categories: [troubleshooting, performance]
-tags: [chrome-tabs-flickering, chrome-glitching, browser-fix, chrome-tabs-problem]
+categories:
+- troubleshooting
+- performance
+tags:
+- chrome-tabs-flickering
+- chrome-glitching
+- browser-fix
+- chrome-tabs-problem
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-tabs-flickering-and-glitching
 ---
 # Chrome Tabs Flickering and Glitching Fix
 

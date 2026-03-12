@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "How to Enable Chrome Smooth Scrolling"
-description: "Learn how to enable Chrome smooth scrolling with simple settings and extensions for a more pleasant browsing experience. Check out our complete 2026 guide fo..."
-date: 2026-03-12
-last_modified_at: 2026-03-12
+title: How to Enable Chrome Smooth Scrolling
+description: Learn how to enable Chrome smooth scrolling with simple settings and
+  extensions for a more pleasant browsing experience. Learn how to optimize your browser
+  t...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
 permalink: how-to-enable-chrome-smooth-scrolling
 ---
 If you are looking for how to enable chrome smooth scrolling, you have come to the right place. Many Chrome users notice that their browser scrolls in a jerky or choppy way, which can make reading long articles or browsing through image-heavy websites feel uncomfortable. The good news is that there are several ways to make your scrolling experience much smoother, and I am going to walk you through each one.

@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome for Note Taking in Browser Extensions"
-description: "Discover how Chrome extensions can transform your browser into a powerful note-taking tool for capturing ideas anytime. Check out our complete 2026 guide for..."
+title: Chrome for Note Taking in Browser Extensions
+description: Discover how Chrome extensions can transform your browser into a powerful
+  note-taking tool for capturing ideas anytime. Learn how to optimize your browser
+  to...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-note-taking-in-browser-extensions
-categories: [productivity, extensions]
-tags: [chrome-extensions, note-taking, productivity, browser-tools]
+categories:
+- productivity
+- extensions
+tags:
+- chrome-extensions
+- note-taking
+- productivity
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-note-taking-in-browser-extensions
 ---
 # Chrome for Note Taking in Browser Extensions
 

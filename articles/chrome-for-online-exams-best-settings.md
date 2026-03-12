@@ -1,13 +1,20 @@
 ---
-layout: post
-title: "Chrome for Online Exams Best Settings"
-description: "Get Chrome ready for online exams with these simple settings. Improve performance, reduce distractions, and avoid technical issues during important tests."
+layout: default
+title: Chrome for Online Exams Best Settings
+description: Get Chrome ready for online exams with these simple settings. Improve
+  performance, reduce distractions, and avoid technical issues during important tests.
 date: 2025-02-20
-last_modified_at: 2026-03-12
-permalink: chrome-for-online-exams-best-settings
-categories: [performance, exams]
-tags: [chrome-settings, online-exams, performance, browser-optimization]
+categories:
+- performance
+- exams
+tags:
+- chrome-settings
+- online-exams
+- performance
+- browser-optimization
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-online-exams-best-settings
 ---
 # Chrome for Online Exams Best Settings
 

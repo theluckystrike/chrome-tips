@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extension for Managing Multiple Email Accounts"
-description: "Need to manage multiple email accounts in Chrome? Learn how extensions can help you switch between accounts easily and boost productivity. Check out our comp..."
+title: Chrome Extension for Managing Multiple Email Accounts
+description: Need to manage multiple email accounts in Chrome? Learn how extensions
+  can help you switch between accounts easily and boost productivity. Learn how to
+  optim...
 date: 2026-03-09
-last_modified_at: 2026-03-10
-permalink: chrome-extension-for-managing-multiple-email-accounts
-categories: [productivity, email]
-tags: [email-accounts, chrome-extensions, multiple-accounts, productivity]
+categories:
+- productivity
+- email
+tags:
+- email-accounts
+- chrome-extensions
+- multiple-accounts
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-managing-multiple-email-accounts
 ---
 # Chrome Extension for Managing Multiple Email Accounts
 

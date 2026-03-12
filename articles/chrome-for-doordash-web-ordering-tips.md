@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome for DoorDash Web Ordering Tips"
-description: "Learn how to make the most of DoorDash web ordering with Chrome. Discover tips to speed up ordering, find deals, and manage your food delivery experience."
+title: Chrome for DoorDash Web Ordering Tips
+description: Learn how to make the most of DoorDash web ordering with Chrome. Discover
+  tips to speed up ordering, find deals, and manage your food delivery experience.
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-doordash-web-ordering-tips
-categories: [food, tips]
-tags: [chrome, doordash, food-delivery, ordering]
+categories:
+- food
+- tips
+tags:
+- chrome
+- doordash
+- food-delivery
+- ordering
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-doordash-web-ordering-tips
 ---
 # Chrome for DoorDash Web Ordering Tips
 

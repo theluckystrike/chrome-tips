@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Tab Search Shortcut: Find Any Open Tab Instantly"
-description: "Master the Chrome tab search shortcut to quickly find open tabs, manage multiple windows, and boost your browsing efficiency. Check out our complete 2026 gui..."
+title: 'Chrome Tab Search Shortcut: Find Any Open Tab Instantly'
+description: Master the Chrome tab search shortcut to quickly find open tabs, manage
+  multiple windows, and boost your browsing efficiency. Learn how to optimize your
+  brow...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-tab-search-shortcut
-categories: [productivity, tips]
-tags: [chrome, browser, tabs, shortcuts, productivity]
+categories:
+- productivity
+- tips
+tags:
+- chrome
+- browser
+- tabs
+- shortcuts
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-tab-search-shortcut
 ---
 # Chrome Tab Search Shortcut: Find Any Open Tab Instantly
 

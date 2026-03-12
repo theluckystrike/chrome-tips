@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Cookies Explained Simply"
-description: "Learn what Chrome cookies are and how they work in plain language. A simple guide to understanding browser cookies. Check out our complete 2026 guide for mor..."
+title: Chrome Cookies Explained Simply
+description: Learn what Chrome cookies are and how they work in plain language. A
+  simple guide to understanding browser cookies. Learn how to optimize your browser
+  today ...
 date: 2025-03-10
-last_modified_at: 2026-03-10
-permalink: chrome-cookies-explained-simply
-categories: [beginners, tips]
-tags: [chrome-cookies, browser-cookies, cookie-basics, privacy]
+categories:
+- beginners
+- tips
+tags:
+- chrome-cookies
+- browser-cookies
+- cookie-basics
+- privacy
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-cookies-explained-simply
 ---
 # Chrome Cookies Explained Simply
 

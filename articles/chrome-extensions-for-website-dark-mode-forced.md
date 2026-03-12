@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Website Dark Mode Forced"
-description: "Tired of bright websites hurting your eyes? Learn how Chrome extensions can force dark mode on any website automatically. Check out our complete 2026 guide f..."
+title: Chrome Extensions for Website Dark Mode Forced
+description: Tired of bright websites hurting your eyes? Learn how Chrome extensions
+  can force dark mode on any website automatically. Learn how to optimize your browser
+  ...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-website-dark-mode-forced
-categories: [extensions, dark-mode]
-tags: [chrome-extensions, dark-mode, browser-customization]
+categories:
+- extensions
+- dark-mode
+tags:
+- chrome-extensions
+- dark-mode
+- browser-customization
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-website-dark-mode-forced
 ---
 # Chrome Extensions for Website Dark Mode Forced
 

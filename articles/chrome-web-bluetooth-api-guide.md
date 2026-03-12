@@ -1,13 +1,10 @@
 ---
-layout: post
-title: "Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser"
-description: "Learn how to use the Chrome Web Bluetooth API to connect Bluetooth devices directly from your browser. Covers device pairing, GATT services, characteristics,..."
-date: 2026-03-11
-last_modified_at: 2026-03-12
+title: Chrome Web Bluetooth Api Guide
+description: ' Learn how to optimize your browser today for better performance...........................................................................................'
+date: '2026-03-12'
+last_modified_at: '2026-03-11'
 permalink: chrome-web-bluetooth-api-guide
-categories: [development, bluetooth, web-api]
-tags: [chrome-web-bluetooth-api, web-bluetooth, bluetooth-gatt, device-pairing, web-development]
-author: theluckystrike
+layout: post
 ---
 # Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser
 

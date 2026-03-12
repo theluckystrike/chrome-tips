@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Tab Search Feature How to Use"
-description: "Learn how to use Chrome's built-in tab search feature to quickly find any open tab across all your windows. Check out our complete 2026 guide for more detail..."
+title: Chrome Tab Search Feature How to Use
+description: Learn how to use Chrome's built-in tab search feature to quickly find
+  any open tab across all your windows. Learn how to optimize your browser today for
+  bett...
 date: 2025-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-tab-search-feature-how-to-use
-categories: [productivity, tips]
-tags: [tabs, chrome-tips, browser-management]
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- chrome-tips
+- browser-management
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-tab-search-feature-how-to-use
 ---
 # Chrome Tab Search Feature How to Use
 

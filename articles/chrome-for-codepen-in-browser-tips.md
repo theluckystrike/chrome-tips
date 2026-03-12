@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome for CodePen in Browser Tips"
-description: "Get the most out of CodePen in Chrome with these practical tips for smoother coding and better performance. Check out our complete 2026 guide for more detail..."
+title: Chrome for CodePen in Browser Tips
+description: Get the most out of CodePen in Chrome with these practical tips for smoother
+  coding and better performance. Learn how to optimize your browser today for bett...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-codepen-in-browser-tips
-categories: [tips, productivity]
-tags: [codepen, chrome-tips, browser-tips, web-development]
+categories:
+- tips
+- productivity
+tags:
+- codepen
+- chrome-tips
+- browser-tips
+- web-development
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-codepen-in-browser-tips
 ---
 # Chrome for CodePen in Browser Tips
 

@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "chrome disable javascript for testing"
-description: "Learn how to disable JavaScript in Chrome for testing websites. Simple methods to turn off JS and why you might need this. Check out our complete 2026 guide ..."
+title: Chrome Disable Javascript For Testing
+description: Learn how to disable JavaScript in Chrome for testing websites. Simple
+  methods to turn off JS and why you might need this. Learn how to optimize your browser...
 date: 2026-01-15
-last_modified_at: 2026-03-09
-permalink: chrome-disable-javascript-for-testing
-categories: [browser, settings, testing]
-tags: [chrome, javascript, browser-settings, testing, web-development]
+categories:
+- browser
+- settings
+- testing
+tags:
+- chrome
+- javascript
+- browser-settings
+- testing
+- web-development
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-disable-javascript-for-testing
 ---
 # Chrome Disable JavaScript for Testing
 

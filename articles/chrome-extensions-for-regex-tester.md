@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Regex Tester"
-description: "Find the best Chrome extensions for regex tester that help you create, test, and debug regular expressions easily in your browser. Check out our complete 202..."
+title: Chrome Extensions for Regex Tester
+description: Find the best Chrome extensions for regex tester that help you create,
+  test, and debug regular expressions easily in your browser. Learn how to optimize
+  your...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-regex-tester
-categories: [productivity, regex, tips]
-tags: [chrome-extensions, regex, browser-tools]
+categories:
+- productivity
+- regex
+- tips
+tags:
+- chrome-extensions
+- regex
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-regex-tester
 ---
 # Chrome Extensions for Regex Tester
 

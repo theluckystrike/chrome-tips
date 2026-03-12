@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Best Extensions for Parental Control"
-description: "Discover the best Chrome extensions for parental control to keep your kids safe online and manage their screen time effectively. Learn more about optimizing you"
+title: Chrome Best Extensions for Parental Control
+description: Discover the best Chrome extensions for parental control to keep your
+  kids safe online and manage their screen time effectively. Learn how to optimize
+  your b...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-best-extensions-for-parental-control
-categories: [productivity]
-tags: [parental-control, chrome-extensions, family-safety, screen-time]
+categories:
+- productivity
+tags:
+- parental-control
+- chrome-extensions
+- family-safety
+- screen-time
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-best-extensions-for-parental-control
 ---
 # Chrome Best Extensions for Parental Control
 

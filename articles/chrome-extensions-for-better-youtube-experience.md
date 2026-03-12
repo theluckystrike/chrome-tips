@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions for Better YouTube Experience"
-description: "Discover the best chrome extensions for better youtube experience to improve playback, reduce distractions, and customize your viewing. Check out our complet..."
+title: Chrome Extensions for Better YouTube Experience
+description: Discover the best chrome extensions for better youtube experience to
+  improve playback, reduce distractions, and customize your viewing. Learn how to
+  optimize...
 date: 2026-03-10
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-better-youtube-experience
-categories: [productivity, youtube, tips]
-tags: [chrome-extensions, youtube, video-tools, browser-tips]
+categories:
+- productivity
+- youtube
+- tips
+tags:
+- chrome-extensions
+- youtube
+- video-tools
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-better-youtube-experience
 ---
 # Chrome Extensions for Better YouTube Experience
 

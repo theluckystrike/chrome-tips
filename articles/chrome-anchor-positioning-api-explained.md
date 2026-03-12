@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Anchor Positioning API Explained"
-description: "Learn what Chrome anchor positioning API is, how it works, and how it Check out our complete 2026 guide for more details and professional advice on managing ..."
+title: Chrome Anchor Positioning API Explained
+description: Learn what Chrome anchor positioning API is, how it works, and how it
+  improves your web browsing experience. Learn how to optimize your browser today
+  for bet...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-anchor-positioning-api-explained
-categories: 
-tags: 
+categories:
+- features
+- web-development
+tags:
+- chrome-api
+- anchor-positioning
+- css
+- web-standards
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-anchor-positioning-api-explained
 ---
 # Chrome Anchor Positioning API Explained
 

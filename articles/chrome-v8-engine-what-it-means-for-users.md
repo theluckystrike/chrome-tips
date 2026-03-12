@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome V8 Engine What It Means for Users"
-description: "What is Chrome V8 engine and how does it affect your browsing experience? Learn how this JavaScript engine impacts speed, memory, and performance. Check out ..."
+title: Chrome V8 Engine What It Means for Users
+description: What is Chrome V8 engine and how does it affect your browsing experience?
+  Learn how this JavaScript engine impacts speed, memory, and performance. Learn how
+  ...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-v8-engine-what-it-means-for-users
-categories: [performance, browser-basics]
-tags: [chrome-v8, javascript-engine, browser-performance, chrome-engine]
+categories:
+- performance
+- browser-basics
+tags:
+- chrome-v8
+- javascript-engine
+- browser-performance
+- chrome-engine
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-v8-engine-what-it-means-for-users
 ---
 # Chrome V8 Engine What It Means for Users
 

@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Side Panel Extensions Worth Using"
-description: "Discover the most useful Chrome side panel extensions that actually improve your workflow. Practical tips and step-by-step setup guide included. Check out ou..."
+title: Chrome Side Panel Extensions Worth Using
+description: Discover the most useful Chrome side panel extensions that actually improve
+  your workflow. Practical tips and step-by-step setup guide included. Learn how to...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-side-panel-extensions-worth-using
-categories: [extensions, productivity, tips]
-tags: [chrome-extensions, side-panel, productivity, workflow]
+categories:
+- extensions
+- productivity
+- tips
+tags:
+- chrome-extensions
+- side-panel
+- productivity
+- workflow
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-side-panel-extensions-worth-using
 ---
 # Chrome Side Panel Extensions Worth Using
 

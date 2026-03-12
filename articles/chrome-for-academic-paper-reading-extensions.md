@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome for Academic Paper Reading Extensions"
-description: "Discover the best Chrome extensions for reading academic papers efficiently and improving your research workflow. Check out our complete 2026 guide for more ..."
+title: Chrome for Academic Paper Reading Extensions
+description: Discover the best Chrome extensions for reading academic papers efficiently
+  and improving your research workflow. Learn how to optimize your browser today fo...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-academic-paper-reading-extensions
-categories: [academic, tips]
-tags: [chrome-extensions, academic-papers, browser-tools, research]
+categories:
+- academic
+- tips
+tags:
+- chrome-extensions
+- academic-papers
+- browser-tools
+- research
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-academic-paper-reading-extensions
 ---
 # Chrome for Academic Paper Reading Extensions
 

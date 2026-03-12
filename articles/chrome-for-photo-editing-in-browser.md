@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "Chrome for Photo Editing in Browser"
-description: "You can edit photos directly in Chrome without installing software. Learn which browser-based tools work best. Check out our complete 2026 guide for more det..."
+title: Chrome for Photo Editing in Browser
+description: You can edit photos directly in Chrome without installing software. Learn
+  which browser-based tools work best. Learn how to optimize your browser today for
+  b...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-photo-editing-in-browser
-categories: [productivity, photo-editing, browser-tools]
-tags: [chrome, photo-editing, browser, online-tools, image-editing]
+categories:
+- productivity
+- photo-editing
+- browser-tools
+tags:
+- chrome
+- photo-editing
+- browser
+- online-tools
+- image-editing
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-photo-editing-in-browser
 ---
 # Chrome for Photo Editing in Browser
 

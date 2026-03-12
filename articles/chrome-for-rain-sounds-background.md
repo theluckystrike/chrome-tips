@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome for Rain Sounds Background"
-description: "Learn how to use Chrome for rain sounds background to improve focus, relaxation, and sleep while browsing. Check out our complete 2026 guide for more details..."
+title: Chrome for Rain Sounds Background
+description: Learn how to use Chrome for rain sounds background to improve focus,
+  relaxation, and sleep while browsing. Learn how to optimize your browser today for
+  bette...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-rain-sounds-background
-categories: [productivity, wellness]
-tags: [chrome, rain-sounds, background, focus, relaxation]
+categories:
+- productivity
+- wellness
+tags:
+- chrome
+- rain-sounds
+- background
+- focus
+- relaxation
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-rain-sounds-background
 ---
 # Chrome for Rain Sounds Background
 

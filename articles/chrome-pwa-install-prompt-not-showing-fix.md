@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome PWA Install Prompt Not Showing Fix"
-description: "Your PWA install prompt won't appear? Learn why this happens and how to fix it with simple steps. Check out our complete 2026 guide for more details and prof..."
+title: Chrome PWA Install Prompt Not Showing Fix
+description: Your PWA install prompt won't appear? Learn why this happens and how
+  to fix it with simple steps. Learn how to optimize your browser today for better
+  perform...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-pwa-install-prompt-not-showing-fix
-categories: [pwa, chrome, tips]
-tags: [pwa, chrome, install-prompt, progressive-web-app]
+categories:
+- pwa
+- chrome
+- tips
+tags:
+- pwa
+- chrome
+- install-prompt
+- progressive-web-app
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-pwa-install-prompt-not-showing-fix
 ---
 # Chrome PWA Install Prompt Not Showing Fix
 

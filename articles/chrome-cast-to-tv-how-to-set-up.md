@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Cast to TV How to Set Up"
-description: "Learn how to set up Chrome Cast to TV with this beginner-friendly guide. Get your Chromecast working with your TV in just a few simple steps. Check out our c..."
+title: Chrome Cast to TV How to Set Up
+description: Learn how to set up Chrome Cast to TV with this beginner-friendly guide.
+  Get your Chromecast working with your TV in just a few simple steps. Learn how to
+  op...
 date: 2026-01-15
-last_modified_at: 2026-03-09
-permalink: chrome-cast-to-tv-how-to-set-up
-categories: [casting, streaming, tv]
-tags: [chrome-cast, chromecast-setup, screen-mirroring]
+categories:
+- casting
+- streaming
+- tv
+tags:
+- chrome-cast
+- chromecast-setup
+- screen-mirroring
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-cast-to-tv-how-to-set-up
 ---
 # Chrome Cast to TV How to Set Up
 

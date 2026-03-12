@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Typing Lag in Text Boxes: Practical Solutions"
-description: "Is Chrome running slow when you type? Discover step-by-step fixes for typing lag in text boxes, especially on computers with limited RAM. Check out our compl..."
+title: 'Chrome Typing Lag in Text Boxes: Practical Solutions'
+description: Is Chrome running slow when you type? Discover step-by-step fixes for
+  typing lag in text boxes, especially on computers with limited RAM. Learn how to
+  optimi...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-typing-lag-in-text-boxes
-categories: [performance, chrome, troubleshooting]
-tags: [chrome-typing-lag, browser-performance, slow-computer, ram-issues]
+categories:
+- performance
+- chrome
+- troubleshooting
+tags:
+- chrome-typing-lag
+- browser-performance
+- slow-computer
+- ram-issues
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-typing-lag-in-text-boxes
 ---
 # Chrome Typing Lag in Text Boxes: Practical Solutions
 

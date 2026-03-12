@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Downloads Not Starting Fix"
-description: "Chrome downloads not starting? Discover why this happens and simple solutions to get your downloads working again quickly. Check out our complete 2026 guide ..."
+title: Chrome Downloads Not Starting Fix
+description: Chrome downloads not starting? Discover why this happens and simple solutions
+  to get your downloads working again quickly. Learn how to optimize your browser...
 date: 2026-01-15
-last_modified_at: 2026-03-10
-permalink: chrome-downloads-not-starting-fix
-categories: [troubleshooting, chrome]
-tags: [chrome-downloads, download-issues, browser-fixes, chrome-help]
+categories:
+- troubleshooting
+- chrome
+tags:
+- chrome-downloads
+- download-issues
+- browser-fixes
+- chrome-help
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-downloads-not-starting-fix
 ---
 # Chrome Downloads Not Starting Fix
 

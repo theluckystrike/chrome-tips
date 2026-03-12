@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "How to Fix Chrome ERR_NAME_NOT_RESOLVED Error"
-description: "Struggling with the ERR_NAME_NOT_RESOLVED error in Chrome? Learn what causes it and how to fix it with simple solutions. Check out our complete 2026 guide fo..."
-date: 2026-03-12
-last_modified_at: 2026-03-10
+title: How to Fix Chrome ERR_NAME_NOT_RESOLVED Error
+description: Struggling with the ERR_NAME_NOT_RESOLVED error in Chrome? Learn what
+  causes it and how to fix it with simple solutions. Learn how to optimize your browser
+  t...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
 permalink: chrome-err-name-not-resolved-fix
 ---
 If you are trying to open a website in Google Chrome and you see a message that says ERR_NAME_NOT_RESOLVED, you are not alone. This error is one of the most common issues Chrome users encounter, and it can be frustrating when you just want to browse the web. The good news is that this error is usually easy to fix once you understand what is causing it. Let me walk you through what the error means, why it happens, and how you can get back to browsing in just a few minutes.

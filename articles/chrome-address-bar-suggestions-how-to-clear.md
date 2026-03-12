@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Address Bar Suggestions How to Clear"
-description: "Learn how to clear address bar suggestions in Chrome, including trending Check out our complete 2026 guide for more details and professional advice on managi..."
+title: Chrome Address Bar Suggestions How to Clear
+description: Learn how to clear address bar suggestions in Chrome, including trending
+  searches, history matches, and site suggestions. Learn how to optimize your browser
+  ...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-address-bar-suggestions-how-to-clear
-categories: 
-tags: 
+categories:
+- privacy
+tags:
+- address-bar
+- chrome-settings
+- suggestions
+- privacy
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-address-bar-suggestions-how-to-clear
 ---
 # Chrome Address Bar Suggestions How to Clear
 

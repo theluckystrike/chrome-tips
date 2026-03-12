@@ -1,13 +1,25 @@
 ---
-layout: post
-title: "Chrome CSS Grid Debugging Guide"
-description: "Master Chrome DevTools CSS Grid debugging with this comprehensive guide. Learn about Grid overlay visualization, named grid areas, track size inspection, gap..."
+layout: default
+title: Chrome CSS Grid Debugging Guide
+description: Master Chrome DevTools CSS Grid debugging with this comprehensive guide.
+  Learn about Grid overlay visualization, named grid areas, track size inspection,
+  gap...
 date: 2025-03-10
-last_modified_at: 2026-03-10
-permalink: chrome-css-grid-debugging
-categories: [web-development, chrome-devtools, tips]
-tags: [chrome, css, grid, debugging, devtools, web-design, frontend]
+categories:
+- web-development
+- chrome-devtools
+- tips
+tags:
+- chrome
+- css
+- grid
+- debugging
+- devtools
+- web-design
+- frontend
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-css-grid-debugging
 ---
 # Chrome CSS Grid Debugging Guide
 

@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Opens in Small Window Fix"
-description: "Is Chrome opening in a tiny window every time? Learn why this happens and how to fix it with simple solutions. Check out our complete 2026 guide for more det..."
+title: Chrome Opens in Small Window Fix
+description: Is Chrome opening in a tiny window every time? Learn why this happens
+  and how to fix it with simple solutions. Learn how to optimize your browser today
+  for b...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-opens-in-small-window-fix
-categories: [troubleshooting, interface]
-tags: [chrome-window, window-size, browser-fix, resize-problem]
+categories:
+- troubleshooting
+- interface
+tags:
+- chrome-window
+- window-size
+- browser-fix
+- resize-problem
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-opens-in-small-window-fix
 ---
 # Chrome Opens in Small Window Fix
 

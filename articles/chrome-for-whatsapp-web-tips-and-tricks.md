@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Chrome for WhatsApp Web Tips and Tricks"
-description: "Learn the best Chrome for WhatsApp Web tips and tricks to improve messaging, boost productivity, and enhance your overall experience. Check out our complete ..."
+title: Chrome for WhatsApp Web Tips and Tricks
+description: Learn the best Chrome for WhatsApp Web tips and tricks to improve messaging,
+  boost productivity, and enhance your overall experience. Learn how to optimize y...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-whatsapp-web-tips-and-tricks
-categories: [productivity, tips]
-tags: [whatsapp-web, chrome-tips, messaging]
+categories:
+- productivity
+- tips
+tags:
+- whatsapp-web
+- chrome-tips
+- messaging
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-whatsapp-web-tips-and-tricks
 ---
 # Chrome for WhatsApp Web Tips and Tricks
 

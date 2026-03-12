@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Energy Saver Mode Explained"
-description: "Learn what Chrome energy saver mode does, why it helps your battery, and how to enable it for longer laptop usage. Check out our complete 2026 guide for more..."
+title: Chrome Energy Saver Mode Explained
+description: Learn what Chrome energy saver mode does, why it helps your battery,
+  and how to enable it for longer laptop usage. Learn how to optimize your browser
+  today f...
 date: 2026-01-15
-last_modified_at: 2026-03-10
-permalink: chrome-energy-saver-mode-explained
-categories: [performance, battery]
-tags: [chrome-energy, energy-saver, browser-battery]
+categories:
+- performance
+- battery
+tags:
+- chrome-energy
+- energy-saver
+- browser-battery
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-energy-saver-mode-explained
 ---
 # Chrome Energy Saver Mode Explained
 

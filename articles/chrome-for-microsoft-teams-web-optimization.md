@@ -1,13 +1,21 @@
 ---
-layout: post
-title: "Chrome for Microsoft Teams Web Optimization"
-description: "Make Microsoft Teams run faster in Chrome with simple browser tweaks. Save memory, reduce lag, and improve your daily workflow. Check out our complete 2026 g..."
+layout: default
+title: Chrome for Microsoft Teams Web Optimization
+description: Make Microsoft Teams run faster in Chrome with simple browser tweaks.
+  Save memory, reduce lag, and improve your daily workflow. Learn how to optimize
+  your br...
 date: 2025-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-microsoft-teams-web-optimization
-categories: [performance, productivity]
-tags: [chrome, microsoft-teams, browser-optimization, web-performance]
+categories:
+- performance
+- productivity
+tags:
+- chrome
+- microsoft-teams
+- browser-optimization
+- web-performance
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-microsoft-teams-web-optimization
 ---
 # Chrome for Microsoft Teams Web Optimization
 

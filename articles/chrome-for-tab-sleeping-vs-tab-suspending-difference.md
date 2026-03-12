@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome for Tab Sleeping vs Tab Suspending Difference"
-description: "Learn the difference between tab sleeping and tab suspending in Chrome, and how each affects your browser performance and memory usage. Check out our complet..."
+title: Chrome for Tab Sleeping vs Tab Suspending Difference
+description: Learn the difference between tab sleeping and tab suspending in Chrome,
+  and how each affects your browser performance and memory usage. Learn how to optimize...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-tab-sleeping-vs-tab-suspending-difference
-categories: [chrome, browser, productivity]
-tags: [chrome-tabs, tab-management, browser-performance, memory]
+categories:
+- chrome
+- browser
+- productivity
+tags:
+- chrome-tabs
+- tab-management
+- browser-performance
+- memory
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-tab-sleeping-vs-tab-suspending-difference
 ---
 # Chrome for Tab Sleeping vs Tab Suspending Difference
 

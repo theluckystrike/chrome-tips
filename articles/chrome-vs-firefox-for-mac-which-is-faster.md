@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "chrome vs firefox for mac which is faster"
-description: "Comparing Chrome vs Firefox speed on Mac. Find out which browser performs better for everyday tasks and how to optimize your Mac browser experience. Check ou..."
+title: Chrome Vs Firefox For Mac Which Is Faster
+description: Comparing Chrome vs Firefox speed on Mac. Find out which browser performs
+  better for everyday tasks and how to optimize your Mac browser experience. Learn
+  ho...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: chrome-vs-firefox-for-mac-which-is-faster
-categories: [performance, browser]
-tags: [chrome, firefox, mac, browser-comparison, speed]
+categories:
+- performance
+- browser
+tags:
+- chrome
+- firefox
+- mac
+- browser-comparison
+- speed
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-vs-firefox-for-mac-which-is-faster
 ---
 # Chrome vs Firefox for Mac Which is Faster
 

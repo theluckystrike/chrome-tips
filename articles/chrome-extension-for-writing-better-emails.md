@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Extension for Writing Better Emails"
-description: "Discover Chrome extensions that help you write clearer, more professional emails in less time with less effort. Check out our complete 2026 guide for more de..."
+title: Chrome Extension for Writing Better Emails
+description: Discover Chrome extensions that help you write clearer, more professional
+  emails in less time with less effort. Learn how to optimize your browser today for
+  ...
 date: 2026-03-09
-last_modified_at: 2026-03-10
-permalink: chrome-extension-for-writing-better-emails
-categories: [email, tips]
-tags: [chrome-extensions, email, productivity]
+categories:
+- email
+- tips
+tags:
+- chrome-extensions
+- email
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-writing-better-emails
 ---
 # Chrome Extension for Writing Better Emails
 

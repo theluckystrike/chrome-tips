@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Robots Txt Checker"
-description: "Need to check robots.txt files? Learn about Chrome extensions for robots txt checker that help you verify crawler access rules quickly. Check out our complet..."
+title: Chrome Extensions for Robots Txt Checker
+description: Need to check robots.txt files? Learn about Chrome extensions for robots
+  txt checker that help you verify crawler access rules quickly. Learn how to optimize...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-robots-txt-checker
-categories: [seo, tools]
-tags: [robots-txt, seo-tools, chrome-extensions, web-crawling]
+categories:
+- seo
+- tools
+tags:
+- robots-txt
+- seo-tools
+- chrome-extensions
+- web-crawling
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-robots-txt-checker
 ---
 # Chrome Extensions for Robots Txt Checker
 

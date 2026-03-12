@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "How to Find Which Extension is Slowing Chrome"
-description: "Is your Chrome browser running slow? Learn how to identify and disable the extensions that are consuming too much RAM and slowing down your computer. Check o..."
+title: How to Find Which Extension is Slowing Chrome
+description: Is your Chrome browser running slow? Learn how to identify and disable
+  the extensions that are consuming too much RAM and slowing down your computer. Learn
+  h...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: how-to-find-which-extension-is-slowing-chrome
-categories: [performance, chrome-extensions]
-tags: [chrome-extensions, slow-chrome, fix-slow-chrome, extension-manager, improve-chrome-performance]
+categories:
+- performance
+- chrome-extensions
+tags:
+- chrome-extensions
+- slow-chrome
+- fix-slow-chrome
+- extension-manager
+- improve-chrome-performance
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: how-to-find-which-extension-is-slowing-chrome
 ---
 # How to Find Which Extension is Slowing Chrome
 

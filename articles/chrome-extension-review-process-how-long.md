@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extension Review Process: How Long Does It Take"
-description: "Wondering how long Chrome extension review takes? Learn the timeline, what affects processing time, and tips to get your extension approved faster. Check out..."
+title: 'Chrome Extension Review Process: How Long Does It Take'
+description: Wondering how long Chrome extension review takes? Learn the timeline,
+  what affects processing time, and tips to get your extension approved faster. Learn
+  how...
 date: 2026-01-15
-last_modified_at: 2026-03-11
-permalink: chrome-extension-review-process-how-long
-categories: [extensions, development]
-tags: [chrome-extensions, review-process, developer, chrome-web-store]
+categories:
+- extensions
+- development
+tags:
+- chrome-extensions
+- review-process
+- developer
+- chrome-web-store
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-extension-review-process-how-long
 ---
 # Chrome Extension Review Process: How Long Does It Take
 

@@ -1,13 +1,21 @@
 ---
-layout: post
-title: "Chrome Live Captions Feature Guide"
-description: "Learn how to enable and use Chrome Live Captions for accessibility. Complete guide covering supported languages, caption accuracy, and accessibility features..."
+layout: default
+title: Chrome Live Captions Feature Guide
+description: Learn how to enable and use Chrome Live Captions for accessibility. Complete
+  guide covering supported languages, caption accuracy, and accessibility features...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: chrome-live-captions-feature
-categories: [accessibility, chrome-features, browser-tips]
-tags: [chrome-live-captions, accessibility-features, browser-accessibility, captions]
+categories:
+- accessibility
+- chrome-features
+- browser-tips
+tags:
+- chrome-live-captions
+- accessibility-features
+- browser-accessibility
+- captions
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-live-captions-feature
 ---
 # Chrome Live Captions Feature Guide
 

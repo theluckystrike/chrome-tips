@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Discord"
-description: "Find the best Chrome extensions for Discord to enhance your messaging, improve notifications, and boost productivity while chatting. Check out our complete 2..."
+title: Chrome Extensions for Discord
+description: Find the best Chrome extensions for Discord to enhance your messaging,
+  improve notifications, and boost productivity while chatting. Learn how to optimize
+  yo...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-discord
-categories: [social, tips]
-tags: [chrome-extensions, discord, messaging]
+categories:
+- social
+- tips
+tags:
+- chrome-extensions
+- discord
+- messaging
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-discord
 ---
 # Chrome Extensions for Discord
 

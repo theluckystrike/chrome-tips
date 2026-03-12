@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extension Conflict: Identifying and Fixing Crashes"
-description: "Learn how to identify Chrome extension conflicts that cause crashes and practical steps to fix them. Check out our complete 2026 guide for more details and p..."
+title: 'Chrome Extension Conflict: Identifying and Fixing Crashes'
+description: Learn how to identify Chrome extension conflicts that cause crashes and
+  practical steps to fix them. Learn how to optimize your browser today for better
+  perf...
 date: 2026-03-11
-last_modified_at: 2026-03-11
-permalink: chrome-extension-conflict-causing-crashes
-categories: [troubleshooting, extensions]
-tags: [chrome-extensions, crashes, troubleshooting, performance]
+categories:
+- troubleshooting
+- extensions
+tags:
+- chrome-extensions
+- crashes
+- troubleshooting
+- performance
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-extension-conflict-causing-crashes
 ---
 # Chrome Extension Conflict: Identifying and Fixing Crashes
 

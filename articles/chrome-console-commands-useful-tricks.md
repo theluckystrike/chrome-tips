@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Console Commands: Useful Tricks Every User Should Know"
-description: "Master Chrome console commands to debug, test, and automate your browsing. Learn essential console tricks that can speed up your workflow. Check out our comp..."
+title: 'Chrome Console Commands: Useful Tricks Every User Should Know'
+description: Master Chrome console commands to debug, test, and automate your browsing.
+  Learn essential console tricks that can speed up your workflow. Learn how to optim...
 date: 2026-01-15
-last_modified_at: 2026-03-11
-permalink: chrome-console-commands-useful-tricks
-categories: [chrome, developer-tools, console, tips]
-tags: [chrome-console, developer-tools, browser-tips, productivity]
+categories:
+- chrome
+- developer-tools
+- console
+- tips
+tags:
+- chrome-console
+- developer-tools
+- browser-tips
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-console-commands-useful-tricks
 ---
 # Chrome Console Commands: Useful Tricks Every User Should Know
 

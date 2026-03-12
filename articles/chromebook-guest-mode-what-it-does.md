@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chromebook Guest Mode What It Does"
-description: "Learn what Chromebook Guest mode does, how it protects your privacy, and when to use this handy feature. Check out our complete 2026 guide for more details a..."
+title: Chromebook Guest Mode What It Does
+description: Learn what Chromebook Guest mode does, how it protects your privacy,
+  and when to use this handy feature. Learn how to optimize your browser today for
+  better ...
 date: 2025-03-10
-last_modified_at: 2026-03-12
-permalink: chromebook-guest-mode-what-it-does
-categories: [chromebook, privacy, features]
-tags: [chromebook, guest-mode, chromebook-privacy]
+categories:
+- chromebook
+- privacy
+- features
+tags:
+- chromebook
+- guest-mode
+- chromebook-privacy
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chromebook-guest-mode-what-it-does
 ---
 # Chromebook Guest Mode What It Does
 

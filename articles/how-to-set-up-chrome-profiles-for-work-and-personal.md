@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "How to Set Up Chrome Profiles for Work and Personal"
-description: "Learn how to set up Chrome profiles to keep your work and personal browsing separate, organized, and secure. Check out our complete 2026 guide for more detai..."
+title: How to Set Up Chrome Profiles for Work and Personal
+description: Learn how to set up Chrome profiles to keep your work and personal browsing
+  separate, organized, and secure. Learn how to optimize your browser today for bet...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: how-to-set-up-chrome-profiles-for-work-and-personal
-categories: [productivity, chrome]
-tags: [chrome-profiles, browser-setup, productivity, organization]
+categories:
+- productivity
+- chrome
+tags:
+- chrome-profiles
+- browser-setup
+- productivity
+- organization
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: how-to-set-up-chrome-profiles-for-work-and-personal
 ---
 # How to Set Up Chrome Profiles for Work and Personal
 

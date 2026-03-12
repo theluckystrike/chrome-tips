@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Brainstorming"
-description: "Discover the best Chrome extensions for brainstorming that can help you Check out our complete 2026 guide for more details and professional advice on managin..."
+title: Chrome Extensions for Brainstorming
+description: Discover the best Chrome extensions for brainstorming that can help you
+  generate ideas, organize thoughts, and boost creativity. Learn how to optimize your
+  b...
 date: 2026-03-09
-last_modified_at: 2026-03-11
-permalink: chrome-extensions-for-brainstorming
-categories: 
-tags: 
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- brainstorming
+- creativity
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-brainstorming
 ---
 # Chrome Extensions for Brainstorming
 

@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Musicians and Producers"
-description: "Discover Chrome extensions for musicians and producers to streamline your workflow, manage browser tabs, and boost productivity. Check out our complete 2026 ..."
+title: Chrome Extensions for Musicians and Producers
+description: Discover Chrome extensions for musicians and producers to streamline
+  your workflow, manage browser tabs, and boost productivity. Learn how to optimize
+  your b...
 date: 2026-03-10
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-musicians-and-producers
-categories: [productivity, tips]
-tags: [chrome-extensions, musicians, producers, browser-tools]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- musicians
+- producers
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-musicians-and-producers
 ---
 # Chrome Extensions for Musicians and Producers
 

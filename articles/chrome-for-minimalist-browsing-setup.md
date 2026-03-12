@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "Chrome for Minimalist Browsing Setup"
-description: "A clean Chrome setup focused on simplicity and speed. Practical tips Check out our complete 2026 guide for more details and professional advice on managing y..."
-date: 2025-12-01
-last_modified_at: 2026-03-12
+title: Chrome for Minimalist Browsing Setup
+description: A clean Chrome setup focused on simplicity and speed. Practical tips
+  for a minimalist browsing experience. Learn how to optimize your browser today for
+  bette...
+date: '2025-12-01'
+last_modified_at: '2026-03-11'
 permalink: chrome-for-minimalist-browsing-setup
-categories: 
-tags: 
+categories:
+- browsing
+- setup
+tags:
+- minimalist
+- chrome-setup
+- browser-setup
+- clean-browsing
 author: theluckystrike
 ---
 # Chrome for Minimalist Browsing Setup

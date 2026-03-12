@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome site notifications stop all"
-description: "Learn how to chrome site notifications stop all with this comprehensive guide. Disable browser notifications completely or manage site-by-site permissions."
+title: Chrome Site Notifications Stop All
+description: Learn how to chrome site notifications stop all with this comprehensive
+  guide. Disable browser notifications completely or manage site-by-site permissions.
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-site-notifications-stop-all
-categories: [browsers, privacy, tips]
-tags: [chrome, notifications, browser-settings, privacy]
+categories:
+- browsers
+- privacy
+- tips
+tags:
+- chrome
+- notifications
+- browser-settings
+- privacy
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-site-notifications-stop-all
 ---
 # How to Chrome Site Notifications Stop All
 

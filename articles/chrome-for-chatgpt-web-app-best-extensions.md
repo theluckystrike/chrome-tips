@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "Chrome for ChatGPT Web App Best Extensions"
-description: "Find the best Chrome extensions to enhance your ChatGPT web app experience and work more efficiently. Check out our complete 2026 guide for more details and ..."
+title: Chrome for ChatGPT Web App Best Extensions
+description: Find the best Chrome extensions to enhance your ChatGPT web app experience
+  and work more efficiently. Learn how to optimize your browser today for better per...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-chatgpt-web-app-best-extensions
-categories: [chatgpt, extensions, productivity]
-tags: [chrome-extensions, chatgpt, ai-tools]
+categories:
+- chatgpt
+- extensions
+- productivity
+tags:
+- chrome-extensions
+- chatgpt
+- ai-tools
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-for-chatgpt-web-app-best-extensions
 ---
 # Chrome for ChatGPT Web App Best Extensions
 

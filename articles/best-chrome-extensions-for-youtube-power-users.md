@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "best chrome extensions for youtube power users"
-description: "Discover the best Chrome extensions for YouTube power users to enhance your video watching experience with playlists, downloads, and more. Check out our expert"
+title: Best Chrome Extensions For Youtube Power Users
+description: Discover the best Chrome extensions for YouTube power users to enhance
+  your video watching experience with playlists, downloads, and more. Learn how to
+  optim...
 date: 2025-01-15
-last_modified_at: 2026-03-12
-permalink: best-chrome-extensions-for-youtube-power-users
-categories: [extensions, youtube, productivity]
-tags: [youtube, chrome-extension, video, productivity, streaming]
+categories:
+- extensions
+- youtube
+- productivity
+tags:
+- youtube
+- chrome-extension
+- video
+- productivity
+- streaming
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: best-chrome-extensions-for-youtube-power-users
 ---
 # Best Chrome Extensions for YouTube Power Users
 

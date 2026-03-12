@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Critical Rendering Path Explained"
-description: "Learn what the critical rendering path is in Chrome, why it matters for page speed, and how to optimize it for faster browsing. Check out our complete 2026 g..."
+title: Chrome Critical Rendering Path Explained
+description: Learn what the critical rendering path is in Chrome, why it matters for
+  page speed, and how to optimize it for faster browsing. Learn how to optimize your
+  br...
 date: 2026-01-15
-last_modified_at: 2026-03-09
-permalink: chrome-critical-rendering-path-explained
-categories: [performance, troubleshooting]
-tags: [chrome-critical-rendering-path, browser-performance, page-speed, chrome-loading]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-critical-rendering-path
+- browser-performance
+- page-speed
+- chrome-loading
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-critical-rendering-path-explained
 ---
 # Chrome Critical Rendering Path Explained
 

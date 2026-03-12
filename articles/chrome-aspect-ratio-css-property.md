@@ -70,3 +70,10 @@ The chrome aspect ratio CSS property might seem like a small addition to the web
 Whether you are building a website or simply browsing the internet, understanding aspect ratio helps you appreciate how modern web design works. For developers, incorporating this property into your projects ensures that images, videos, and other media display correctly, leading to happier users and better-looking websites.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+
+- [Chrome Notification Sound How to Change](/articles/chrome-notification-sound-how-to-change/)
+- [How to Fix Chrome ERR_NAME_NOT_RESOLVED Error](/articles/chrome-err-name-not-resolved-fix/)
+- [Chrome Array Groupby New Method](/articles/chrome-array-groupby-new-method/)

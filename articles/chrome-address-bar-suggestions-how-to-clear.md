@@ -98,3 +98,10 @@ Whether you are trying to hide a specific site or simply want to clean up a clut
 
 ---
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+
+- [chrome web bluetooth how to use](/articles/chrome-web-bluetooth-how-to-use/)
+- [Chrome Extensions for Workona Tab Manager](/articles/chrome-extensions-for-workona-tab-manager/)
+- [Chrome Android Gestures You Didnt Know About](/articles/chrome-android-gestures-you-didnt-know-about/)

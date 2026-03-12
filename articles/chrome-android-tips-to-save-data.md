@@ -85,3 +85,10 @@ Finally, keep an eye on how much data Chrome is actually using. Your Android pho
 Chrome also shows data saved through Data Saver in the settings menu. Checking this occasionally helps you understand the impact of the changes you have made and motivates you to keep up the good habits.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [How to Move Chrome Tabs Between Windows Easily](/articles/how-to-move-chrome-tabs-between-windows-easily/)
+- [chrome site isolation what it does](/articles/chrome-site-isolation-what-it-does/)
+- [Mastering CSS Subgrid: Align Rows and Columns in Chrome](/articles/chrome-css-subgrid-rows-columns/)

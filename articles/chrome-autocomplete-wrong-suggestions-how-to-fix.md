@@ -102,3 +102,10 @@ Check your sync settings periodically to make sure suggestions are not coming fr
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+
+- [Chrome for Quick Commands Feature](/articles/chrome-for-quick-commands-feature/)
+- [Chrome Hardware Acceleration Guide](/articles/chrome-hardware-acceleration-guide/)
+- [Chrome Default Download Location How to Change](/articles//chrome-default-download-location-how-to-change//)

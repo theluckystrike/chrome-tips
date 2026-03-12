@@ -68,3 +68,10 @@ If you frequently find yourself overwhelmed by too many open tabs, it is worth t
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+
+## Related Articles
+
+- [Chrome Notifications Permission Per Site](/articles/chrome-notifications-permission-per-site/)
+- [Chrome Extensions for Social Media Scheduling](/articles/chrome-extensions-for-social-media-scheduling/)
+- [Chrome for StayFocusd Extension Guide](/articles/chrome-for-stayfocusd-extension-guide/)

@@ -118,3 +118,10 @@ While you're optimizing your animations, consider your overall browser performan
 Master the Animations panel, and you'll ship more polished, professional web experiences—all while spending less time troubleshooting animation issues.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [chrome shared storage api privacy ads](/articles/chrome-shared-storage-api-privacy-ads/)
+- [chrome javascript disable for one site how to](/articles/chrome-javascript-disable-for-one-site-how-to/)
+- [Chrome Developer Tools Shortcut](/articles//chrome-developer-tools-shortcut//)

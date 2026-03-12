@@ -83,3 +83,10 @@ You do not need to be technical to get more out of Chrome on Android. Start with
 If you have been feeling held back by Chrome on your Android phone, try these suggestions and see the difference for yourself. A faster, more capable browser means less waiting and more enjoying the web, whether you are checking email, reading news, or browsing social media.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [How to Block Ads on Chrome Android](/articles/how-to-block-ads-on-chrome-android/)
+- [Chrome HTTPS First Mode Guide](/articles/chrome-https-first-mode/)
+- [Chrome Extensions for Page Zoom Per Site](/articles/chrome-extensions-for-page-zoom-per-site/)

@@ -173,3 +173,10 @@ Take time to explore each section of the Application panel in your own projects.
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Layers Panel Guide](/articles/chrome-layers-panel-guide/)
+- [Chrome Keyboard Shortcuts Not Working Fix](/articles/chrome-keyboard-shortcuts-not-working-fix/)
+- [Chrome for Medium Best Reading Extensions](/articles/chrome-for-medium-best-reading-extensions/)

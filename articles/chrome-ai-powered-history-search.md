@@ -76,3 +76,10 @@ In the meantime, the extensions and approaches described here give you powerful 
 The key is understanding that standard Chrome search has limits. By recognizing this problem and seeking solutions, you gain back time that would otherwise be lost to fruitless searching.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chromebook vs MacBook for College](/articles/chromebook-vs-macbook-for-college/)
+- [Best Chrome Extensions for Reading Articles](/articles/best-chrome-extensions-for-reading-articles/)
+- [How to Fix Chrome Not Loading Images on Webpages](/articles/chrome-webpage-not-loading-images-fix/)

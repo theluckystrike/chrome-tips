@@ -70,3 +70,10 @@ Getting started with the chrome array groupby new method is straightforward. Sim
 For developers who manage many open tabs while working on complex projects, tools like Tab Suspender Pro can help keep your browser running smoothly by automatically suspending inactive tabs. This is particularly useful when working with development tools and large datasets that can consume significant memory.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extension for Color Picker from Any Webpage](/articles/chrome-extension-for-color-picker-from-any-webpage/)
+- [Chrome Extensions for Google Forms](/articles/chrome-extensions-for-google-forms/)
+- [Chrome Switch Between Windows Shortcut](/articles/chrome-switch-between-windows-shortcut/)

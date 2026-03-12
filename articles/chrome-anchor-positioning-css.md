@@ -95,3 +95,10 @@ As browser support continues to expand, learning to work with chrome anchor posi
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+
+- [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix/)
+- [Chrome Slow After Hibernation Fix](/articles/chrome-slow-after-hibernation-fix/)
+- [Chrome for Zoom Classes Optimization](/articles/chrome-for-zoom-classes-optimization/)

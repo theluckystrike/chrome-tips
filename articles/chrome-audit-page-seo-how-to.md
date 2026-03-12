@@ -93,3 +93,10 @@ While Chrome built-in tools are excellent for analyzing your SEO, managing multi
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+
+- [Should I Switch to Firefox for Less RAM? A Practical Guide](/articles/should-i-switch-to-firefox-for-less-ram/)
+- [chrome extensions for website distraction blocker](/articles/chrome-extensions-for-website-distraction-blocker/)
+- [How to Fix Chrome Search Bar Not Working](/articles/chrome-search-bar-not-working-fix/)

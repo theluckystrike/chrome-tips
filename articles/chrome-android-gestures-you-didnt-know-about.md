@@ -78,3 +78,10 @@ If you find these chrome android gestures you didnt know about helpful and want 
 Chrome is constantly adding new features and gestures, so it is worth checking the settings menu occasionally to see what is new. The browser has come a long way from its early days, and the team keeps improving how you can interact with web content on your phone. These chrome android gestures you didnt know about are just the beginning of what is possible when you start exploring your browser capabilities.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome for Google Docs Offline Setup](/articles/chrome-for-google-docs-offline-setup/)
+- [Chrome for Bibliography Management Extensions](/articles/chrome-for-bibliography-management-extensions/)
+- [Chrome Touchpad Gestures Not Working Fix](/articles/chrome-touchpad-gestures-not-working-fix/)

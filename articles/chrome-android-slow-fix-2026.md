@@ -89,3 +89,10 @@ When you tap on a suspended tab, it reloads right away, so you never lose access
 Finally, make sure your Android operating system is up to date. System updates often include performance improvements that can help Chrome and other apps run better. Go to your phone's Settings, look for System Updates, and install any available updates.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Custom Elements Explained](/articles//chrome-custom-elements-explained//)
+- [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix/)
+- [Chrome Idle Detection API Explained: What It Means for Your Browser](/articles/chrome-idle-detection-api-explained/)

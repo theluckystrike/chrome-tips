@@ -81,3 +81,10 @@ The most important thing is finding a system that works for you and gives you pe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+
+- ['Chrome Slow on iPad Why: Causes and Solutions'](/articles/chrome-slow-on-ipad-why/)
+- [How to Change Your Chrome New Tab Background to a Custom Image](/articles/chrome-new-tab-background-change-custom-image/)
+- [Chrome Web Store How to Leave Review](/articles/chrome-web-store-how-to-leave-review/)

@@ -78,3 +78,10 @@ Remember that AI summaries are a tool to enhance your reading, not replace it en
 As Chrome continues to develop its AI capabilities, expect to see more features like this appearing in your browser. The goal is to make your browsing experience more efficient and help you get to the information you need faster.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [chrome portable version how to get](/articles/chrome-portable-version-how-to-get/)
+- [How to Share Chrome Tabs in Video Calls](/articles/how-to-share-chrome-tabs-in-video-calls/)
+- [Chrome Security Key How to Use With Chrome](/articles/chrome-security-key-how-to-use-with-chrome/)

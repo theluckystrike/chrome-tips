@@ -86,3 +86,10 @@ Chrome also offers traditional theme options in the same Appearance settings are
 For those interested in deeper customization, Chrome Web Store offers numerous theme extensions with various designs. These can complement the AI-generated themes or serve as alternatives if you prefer not to use the AI feature for any reason.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut/)
+- [chrome voice control navigate by speaking](/articles/chrome-voice-control-navigate-by-speaking/)
+- [Chrome Web and App Activity How to Delete](/articles/chrome-web-and-app-activity-how-to-delete/)

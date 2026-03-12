@@ -80,4 +80,9 @@ You do not need to install every extension at once. Start with one or two that a
 
 Remember that the best extensions are the ones you actually use consistently. Rather than overwhelming yourself with too many tools at once, focus on building habits with a few key extensions that make a real difference in your daily workflow.
 
+## Related Articles
+* [chrome extensions for journalists](/articles/chrome-extensions-for-journalists/)
+* [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
+* [best chrome extensions for accessibility needs](/articles/best-chrome-extensions-for-accessibility-needs/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -75,4 +75,9 @@ The best chrome extensions for nurses are ones that address your specific challe
 
 Remember that the goal is to make your digital work easier, not to add more things to manage. The right extensions should feel like helpful tools that support your patient care, not additional tasks that require constant attention.
 
+## Related Articles
+* [Chrome Extensions for Nurses Healthcare](/articles/chrome-extensions-for-nurses-healthcare/)
+* [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
+* [best chrome extensions for accessibility needs](/articles/best-chrome-extensions-for-accessibility-needs/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -93,4 +93,9 @@ The best chrome extensions for Twitter X are the ones that address your specific
 
 You do not need to install every extension mentioned here. Start with one or two that address your biggest pain points, then add more as you identify other areas for improvement. The right combination of extensions can dramatically improve your Twitter X experience while helping you achieve your goals more efficiently.
 
+## Related Articles
+* [chrome for twitter x best extensions](/articles/chrome-for-twitter-x-best-extensions/)
+* [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
+* [best chrome extensions for accessibility needs](/articles/best-chrome-extensions-for-accessibility-needs/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -78,4 +78,9 @@ Keep your extension updated. Developers frequently release updates that improve 
 
 If you use multiple browsers or devices, look for extensions that sync your settings across devices. This way, you can maintain a consistent dark mode experience whether you are working on your laptop, desktop, or mobile device.
 
+## Related Articles
+* [Chrome Android Dark Mode How to Enable](/articles/chrome-android-dark-mode-how-to-enable/)
+* [Chrome Auto Dark Mode for Web Contents](/articles/chrome-auto-dark-mode-for-web-contents/)
+* [How to Force Dark Mode on All Websites in Chrome](/articles/chrome-dark-mode-force-all-websites/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

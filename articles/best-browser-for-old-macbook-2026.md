@@ -95,4 +95,9 @@ Remember that browser choice is only part of the solution. Managing your tabs, l
 
 With the right browser and a few good habits, your old MacBook can remain productive for years to come.
 
+## Related Articles
+* [Chrome Slow on Your Old MacBook? Here's How to Fix It](/articles/chrome-slow-on-old-macbook-fix/)
+* [Best Browser for 2GB RAM Laptop 2026](/articles/best-browser-for-2gb-ram-laptop-2026/)
+* [Best Browser for Low RAM Computer 2026](/articles/best-browser-for-low-ram-computer-2026/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -92,3 +92,8 @@ By taking advantage of these built-in features, you can tailor your browsing exp
 
 ---
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Android Gestures You Didnt Know About](/articles/chrome-android-gestures-you-didnt-know-about/)
+* [Chrome Address Bar Commands You Didnt Know](/articles/chrome-address-bar-commands-you-didnt-know/)
+* [Chrome Address Bar Shortcuts You Didn't Know](/articles/chrome-address-bar-shortcuts-you-didnt-know/)

@@ -76,4 +76,9 @@ Adjusting settings is a great start, but making privacy a habit is even more eff
 
 Using private browsing mode for sensitive tasks, regularly clearing your data, and being thoughtful about extension permissions all contribute to a more private browsing experience. You do not need to become paranoid, but a few conscious choices help you maintain better control over your information.
 
+## Related Articles
+* [chrome best settings for privacy](/articles/chrome-best-settings-for-privacy/)
+* [Chrome Cookie Settings for Best Privacy](/articles/chrome-cookie-settings-best-privacy/)
+* [Chrome DNS Settings How to Change for Privacy](/articles/chrome-dns-settings-how-to-change-for-privacy/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

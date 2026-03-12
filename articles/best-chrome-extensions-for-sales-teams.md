@@ -81,4 +81,9 @@ If finding prospect contact information is your main challenge, try Hunter or Zo
 
 Once you build your ideal extension toolkit, you will wonder how you ever sold without them. Small improvements in your daily workflow add up to significant time savings and better customer experiences over time.
 
+## Related Articles
+* [Chrome Extensions for Microsoft Teams](/articles/chrome-extensions-for-microsoft-teams/)
+* [Chrome Extensions for Sales Prospecting](/articles/chrome-extensions-for-sales-prospecting/)
+* [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

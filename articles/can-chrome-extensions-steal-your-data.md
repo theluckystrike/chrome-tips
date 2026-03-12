@@ -59,3 +59,8 @@ The safest approach is to treat extensions like apps on your phone: install only
 
 ---
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Best Chrome Extensions for Data Analysts](/articles/best-chrome-extensions-for-data-analysts/)
+* [Chrome Extensions for Table Data Extractor](/articles/chrome-extensions-for-table-data-extractor/)
+* [Chrome Extensions That Steal Passwords Warning](/articles/chrome-extensions-that-steal-passwords-warning/)

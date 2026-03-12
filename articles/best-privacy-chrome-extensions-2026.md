@@ -74,4 +74,9 @@ When possible, use HTTPS connections, which are more secure than HTTP. Many priv
 
 Finally, stay informed about privacy issues and new tools that can help. The digital landscape is always changing, and keeping up with developments will help you maintain better control over your personal information.
 
+## Related Articles
+* [chrome extensions for privacy badger alternative](/articles/chrome-extensions-for-privacy-badger-alternative/)
+* [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
+* [best chrome extensions for accessibility needs](/articles/best-chrome-extensions-for-accessibility-needs/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

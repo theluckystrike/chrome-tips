@@ -68,4 +68,9 @@ Make sure your screen reader is configured to announce the results of your short
 
 Finally, be patient with yourself. Learning new keyboard shortcuts takes time, and there will be a period where you have to think consciously about which key to press. Eventually, these shortcuts will become automatic, and you will wonder how you ever browsed without them.
 
+## Related Articles
+* [Chrome Accessibility Screen Reader Support](/articles/chrome-accessibility-screen-reader-support/)
+* [chrome screen reader support](/articles/chrome-screen-reader-support/)
+* [best chrome extensions for accessibility needs](/articles/best-chrome-extensions-for-accessibility-needs/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Local Storage How to Clear for One Site"
-description: "Learn how to clear local storage for specific websites in Chrome without deleting all your browsing data. Fix site issues quickly."
+description: "Learn how to clear local storage for specific websites in Chrome without deleting all your browsing data. Fix site issues quickly. Check out our complete 202..."
 date: 2025-02-19
+last_modified_at: 2026-03-09
+permalink: chrome-local-storage-how-to-clear-for-one-site
 categories: [privacy, browser-tips]
 tags: [local-storage, site-data, cookies, storage, privacy]
 author: theluckystrike
 ---
-
 # Chrome Local Storage How to Clear for One Site
 
 If you are searching for chrome local storage how to clear for one site, you probably encountered a specific website that is not behaving correctly. Maybe a site will not load your preferences, it keeps showing old data, or you are stuck in a login loop. Local storage is one of the ways websites save information on your browser, and sometimes this data gets corrupted or outdated. The good news is that Chrome lets you clear local storage for individual websites without affecting your other browsing data.

@@ -1,7 +1,7 @@
 --- 
 layout: post
-title: Chrome Smooth Scroll Stuttering Fix
-description: Is your Chrome browser scroll feeling jerky and uneven? Learn why smooth..............................................................................
+title: How to Fix Chrome Smooth Scroll Stuttering Issues
+description: Fix Chrome smooth scroll stuttering with our easy guide. Learn how to manage extensions, tabs, and hardware acceleration to get buttery-smooth scrolling back now.
 date: '2026-03-10'
 last_modified_at: '2026-03-12'
 permalink: chrome-smooth-scroll-stuttering-fix

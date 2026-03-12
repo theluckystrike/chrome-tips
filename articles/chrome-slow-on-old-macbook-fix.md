@@ -1,7 +1,7 @@
 --- 
 layout: post
-title: Chrome Slow on Your Old MacBook? Here's How to Fix It
-description: Speed up Chrome on older MacBooks. Practical fixes for lag, high CPU..................................................................................
+title: How to Fix Chrome Running Slow on an Old MacBook
+description: Speed up Chrome on your old MacBook with our optimization tips. Learn about Activity Monitor, Memory Saver, and how to manage your system resources effectively.
 date: '2025-02-18'
 last_modified_at: '2026-03-12'
 permalink: chrome-slow-on-old-macbook-fix
@@ -110,7 +110,8 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 >>>>>>> qa/loop-3
 
 ## Related Articles
+- [How to Make Chrome Faster on an Old Computer](/chrome-tips/how-to-make-chrome-faster-on-old-computer)
+- [Fix Chrome Battery Drain on Laptops](/chrome-tips/chrome-using-too-much-battery-on-laptop-fix)
+- [How to Find a Tab by Name in Chrome](/chrome-tips/chrome-find-tab-by-name-search)
 
-- [How to Find a Tab by Name in Chrome: Complete Guide](/articles/chrome-find-tab-by-name-search)
-- [Chrome Navigate Back With Gesture How to](/articles/chrome-navigate-back-with-gesture-how-to)
-- [chrome surfshark extension review 2026](/articles/chrome-surfshark-extension-review-2026)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

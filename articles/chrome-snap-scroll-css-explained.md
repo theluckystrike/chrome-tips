@@ -1,7 +1,7 @@
 --- 
 layout: post
-title: Chrome Snap Scroll CSS Explained
-description: Understanding chrome snap scroll CSS and how to fix common scrolling..................................................................................
+title: 'Chrome Snap Scroll CSS Explained: Pros, Cons, and Fixes'
+description: Understand Chrome snap scroll CSS and why it can make browsing feel jarring. Learn why developers use it and how to fix common scrolling frustrations on any site.
 date: '2026-03-09'
 last_modified_at: '2026-03-12'
 permalink: chrome-snap-scroll-css-explained

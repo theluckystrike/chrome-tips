@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Best Lightweight Chrome Alternatives"
 description: "Discover the best lightweight Chrome alternatives that offer faster performance and lower memory usage without sacrificing essential features."
 date: 2026-01-15

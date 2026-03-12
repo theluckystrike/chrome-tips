@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Chrome Energy Saver Mode Explained"
 description: "Learn what Chrome energy saver mode does, why it helps your battery, and how to enable it for longer laptop usage. Check out our expert recommendations and step"
 date: "2026-01-15"

@@ -14,7 +14,7 @@ tags:
 - capture
 - full-page
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: how-to-screenshot-full-page-in-chrome
 ---
 # How to Screenshot Full Page in Chrome

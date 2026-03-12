@@ -1,15 +1,22 @@
 ---
 layout: post
-title: "Why Does Opening Chrome Slow Down Everything"
-description: "Is your computer crawling every time you open Chrome? Discover why Chrome slows down your system and learn practical step-by-step solutions to fix it."
+title: Why Does Opening Chrome Slow Down Everything
+description: Is your computer crawling every time you open Chrome? Discover why Chrome
+  slows down your system and learn practical step-by-step solutions to fix it.
 date: 2025-02-17
-last_modified_at: 2026-03-11
+last_modified_at: '2026-03-12'
 permalink: why-does-opening-chrome-slow-down-everything
-categories: [performance, troubleshooting, hardware]
-tags: [chrome-slow, computer-slow, chrome-startup, low-ram]
+categories:
+- performance
+- troubleshooting
+- hardware
+tags:
+- chrome-slow
+- computer-slow
+- chrome-startup
+- low-ram
 author: theluckystrike
 ---
-
 # Why Does Opening Chrome Slow Down Everything
 
 If you are wondering "why does opening Chrome slow down everything," you are not alone. This is one of the most common complaints from computer users, especially those with older machines or limited RAM. The frustrating experience of watching your cursor freeze or hearing your fan spin up loudly the moment you click that Chrome icon can make you want to switch browsers entirely. But before you do that, it helps to understand why this happens and what you can do about it.

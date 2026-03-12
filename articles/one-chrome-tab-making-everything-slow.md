@@ -1,13 +1,24 @@
 ---
 layout: post
-title: "One Chrome Tab Making Everything Slow: What to Do About It"
-description: "Is one Chrome tab making everything slow? Learn practical solutions to free up RAM and get your computer running smoothly again."
+title: 'One Chrome Tab Making Everything Slow: What to Do About It'
+description: Is one Chrome tab making everything slow? Learn practical solutions to
+  free up RAM and get your computer running smoothly again. Learn how to optimize
+  your b...
 date: 2026-01-15
-categories: [performance, chrome, troubleshooting]
-tags: [chrome-slow, one-tab-slow, ram-issues, chrome-performance, browser-troubleshooting]
+categories:
+- performance
+- chrome
+- troubleshooting
+tags:
+- chrome-slow
+- one-tab-slow
+- ram-issues
+- chrome-performance
+- browser-troubleshooting
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: one-chrome-tab-making-everything-slow
 ---
-
 # One Chrome Tab Making Everything Slow: What to Do About It
 
 You're probably familiar with this scenario: you have Chrome open with several tabs, and then you open one specific website—maybe a streaming service, a news site with lots of ads, or a web app—and suddenly everything on your computer slows to a crawl. Your other tabs become unresponsive, other programs lag, and even moving your mouse feels like wading through molasses. If you've ever thought "one Chrome tab is making everything slow," you're not imagining it. This is a real problem, especially on computers with limited RAM. The good news is there are practical solutions you can try right now.

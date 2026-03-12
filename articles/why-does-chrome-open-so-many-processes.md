@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Why Does Chrome Open So Many Processes"
-description: "Chrome opening too many processes in your task manager? Learn why Chrome runs separate processes for tabs and discover how to manage them for better performance."
+title: Why Does Chrome Open So Many Processes
+description: Chrome opening too many processes in your task manager? Learn why Chrome
+  runs separate processes for tabs and discover how to manage them for better performa...
 date: 2026-01-15
-last_modified_at: 2026-03-09
+last_modified_at: '2026-03-12'
 permalink: why-does-chrome-open-so-many-processes
-categories: [performance, processes]
-tags: [chrome-processes, chrome-memory, browser-performance, chrome-tabs]
+categories:
+- performance
+- processes
+tags:
+- chrome-processes
+- chrome-memory
+- browser-performance
+- chrome-tabs
 author: theluckystrike
 ---
-
 # Why Does Chrome Open So Many Processes
 
 You open Chrome to check your email and then a few other tabs, and suddenly you look at your task manager and see what looks like dozens of Chrome processes running. Is something wrong? Is Chrome broken? If you have ever wondered why does Chrome open so many processes, this article will explain what's happening and what you can do about it.

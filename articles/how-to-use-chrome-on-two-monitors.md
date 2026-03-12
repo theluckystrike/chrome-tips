@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "How to Use Chrome on Two Monitors"
-description: "Learn how to set up and use Chrome across two monitors for enhanced productivity. Tips for window management, extensions, and dual monitor setups."
+title: How to Use Chrome on Two Monitors
+description: Learn how to set up and use Chrome across two monitors for enhanced productivity.
+  Tips for window management, extensions, and dual monitor setups. Learn how ...
 date: 2025-03-09
-categories: [features, productivity]
-tags: [two-monitors, dual-monitor, productivity, chrome-features, multi-monitor]
+categories:
+- features
+- productivity
+tags:
+- two-monitors
+- dual-monitor
+- productivity
+- chrome-features
+- multi-monitor
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: how-to-use-chrome-on-two-monitors
 ---
-
 # How to Use Chrome on Two Monitors
 
 How to use Chrome on two monitors is a question that many people ask when they upgrade their workspace to a dual monitor setup. Whether you are a professional who needs to reference multiple documents while working, a researcher comparing sources, or simply someone who wants a more efficient browsing experience, using Chrome across two monitors can dramatically improve your productivity and workflow.

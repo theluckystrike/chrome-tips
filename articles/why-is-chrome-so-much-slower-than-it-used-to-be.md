@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Why Is Chrome So Much Slower Than It Used to Be"
-description: "Is Chrome feeling much slower than it used to be? Learn the reasons behind this common issue and how to speed it up with simple, effective fixes anyone can try."
+title: Why Is Chrome So Much Slower Than It Used to Be
+description: Is Chrome feeling much slower than it used to be? Learn the reasons behind
+  this common issue and how to speed it up with simple, effective fixes anyone can
+  try.
 date: 2026-03-09
-last_modified_at: 2026-03-11
+last_modified_at: '2026-03-12'
 permalink: why-is-chrome-so-much-slower-than-it-used-to-be
-categories: [performance, troubleshooting]
-tags: [chrome-slow, browser-performance, chrome-speed]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-slow
+- browser-performance
+- chrome-speed
 author: theluckystrike
 ---
-
 # Why Is Chrome So Much Slower Than It Used to Be
 
 If you are wondering why is chrome so much slower than it used to be, you are not alone. Many Chrome users have noticed their browser does not feel as snappy as it did a year or two ago. The good news is there are clear reasons for this slowdown, and more importantly, there are practical steps you can take to get that fresh-browser feeling back. Whether you are dealing with lagging tabs, slow startup times, or high memory usage, understanding the root causes is the first step toward a faster browsing experience.

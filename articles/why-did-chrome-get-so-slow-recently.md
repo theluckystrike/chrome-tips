@@ -1,13 +1,22 @@
 ---
 layout: default
-title: "Why Did Chrome Get So Slow Recently? Causes and Fixes"
-description: "Chrome suddenly slow? Here's why it happens and how to fix it. Common causes of recent Chrome slowdowns and step-by-step solutions."
+title: Why Did Chrome Get So Slow Recently? Causes and Fixes
+description: Chrome suddenly slow? Here's why it happens and how to fix it. Common
+  causes of recent Chrome slowdowns and step-by-step solutions. Learn how to optimize
+  you...
 date: 2025-02-26
-categories: [performance, troubleshooting]
-tags: [chrome-slow, performance-fix, browser-slowdown, chrome-troubleshooting]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-slow
+- performance-fix
+- browser-slowdown
+- chrome-troubleshooting
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: why-did-chrome-get-so-slow-recently
 ---
-
 # Why Did Chrome Get So Slow Recently? Causes and Fixes
 
 One day Chrome is fine, the next it's sluggish and frustrating. If your browser suddenly got slow without any obvious reason, you're not imagining it. There are several common causes, and most of them are fixable.

@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Using 8GB RAM Fix"
-description: "Chrome eating 8GB of RAM? Learn why this happens and practical steps to reduce memory consumption on your computer."
+title: Chrome Using 8GB RAM Fix
+description: Chrome eating 8GB of RAM? Learn why this happens and practical steps
+  to reduce memory consumption on your computer. Learn how to optimize your browser
+  today ...
 date: 2025-02-28
-categories: [performance, troubleshooting]
-tags: [chrome-memory, ram-usage, chrome-8gb, memory-management]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-memory
+- ram-usage
+- chrome-8gb
+- memory-management
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-using-8gb-ram-fix
 ---
-
 # Chrome Using 8GB RAM Fix
 
 You opened Chrome to check a few links and suddenly your computer feels like it's wading through mud. You check the task manager and Chrome is using 8GB of RAM or more. This is frustrating, especially when you have a decent amount of memory in your machine. Let me walk you through why this happens and what you can do about it.

@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome View Page Resources How to"
-description: "Learn how to view all page resources in Chrome including images, scripts, fonts, and stylesheets using built-in developer tools."
+title: Chrome View Page Resources How to
+description: Learn how to view all page resources in Chrome including images, scripts,
+  fonts, and stylesheets using built-in developer tools. Learn how to optimize your
+  b...
 date: 2025-02-19
-categories: [browser-tips, web-development]
-tags: [page-resources, developer-tools, troubleshooting]
+categories:
+- browser-tips
+- web-development
+tags:
+- page-resources
+- developer-tools
+- troubleshooting
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-view-page-resources-how-to
 ---
-
 # Chrome View Page Resources How to
 
 If you are searching for chrome view page resources how to, you might be trying to understand what makes a website work or perhaps you need to find a specific file embedded in a webpage. Maybe you saw an image on a site and wanted to know where it came from, or you are troubleshooting why a page looks or behaves strangely. Whatever your reason, Chrome provides a simple way to see every resource that makes up any webpage.

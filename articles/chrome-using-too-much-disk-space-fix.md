@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Chrome Using Too Much Disk Space Fix"
-description: "Is Chrome eating up your disk space? Learn simple fixes to free up storage and speed up your browser."
+title: Chrome Using Too Much Disk Space Fix
+description: Is Chrome eating up your disk space? Learn simple fixes to free up storage
+  and speed up your browser. Learn how to optimize your browser today for better per...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-using-too-much-disk-space-fix
 ---
-
 Chrome using too much disk space is a problem that many people encounter, especially those who keep their browser open for hours each day. You might notice your computer running slower than usual, or you may get warnings that your drive is almost full. The good news is that there are several straightforward ways to reclaim that space and get Chrome running smoothly again.
 
 Let me walk you through why this happens and what you can do about it.

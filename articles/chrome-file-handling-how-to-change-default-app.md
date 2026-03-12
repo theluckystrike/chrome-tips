@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Chrome File Handling How to Change Default App"
-description: "Learn how to change the default app for handling files in Chrome. Simple steps to set your preferred application for opening different file types."
+description: "Learn how to change the default app for handling files in Chrome. Simple steps to set your preferred application for opening different file types. Check out ..."
+date: 2026-03-12
+last_modified_at: 2026-03-09
+permalink: chrome-file-handling-how-to-change-default-app
 ---
-
 Chrome file handling how to change default app is a question that comes up often for browser users. If you have ever clicked on a file link in Chrome only to see it open in an unexpected application, you probably wondered how to change that behavior. The good news is that adjusting your default app settings in Chrome is straightforward once you know where to look.
 
 Let me walk you through why this happens and how you can take control of which applications open your files.

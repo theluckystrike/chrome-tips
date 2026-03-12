@@ -1,8 +1,11 @@
 ---
+layout: post
 title: "Chrome Font Palette Customization: Complete Guide for 2026"
-description: "Learn how to customize fonts in Chrome with the built-in font palette feature, extensions, and DevTools for a personalized browsing experience."
+description: "Learn how to customize fonts in Chrome with the built-in font palette feature, extensions, and DevTools for a personalized browsing experience. Check out our..."
+date: 2026-03-12
+last_modified_at: 2026-03-11
+permalink: chrome-font-palette-customization
 ---
-
 Chrome font palette customization has become an essential feature for users who want to personalize their browsing experience. Whether you're a designer looking for consistent typography or simply want easier-to-read text on websites, Chrome offers several ways to customize how fonts appear. In this guide, we'll explore the built-in font palette feature, browser settings, and extension options that help you achieve the perfect typography setup.
 
 ## What is Chrome Font Palette Customization?

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "chrome for any.do web app setup"
-description: "Learn how to set up chrome for any.do web app with practical tips to boost your productivity and manage tasks smoothly in your browser."
+description: "Learn how to set up chrome for any.do web app with practical tips to boost your productivity and manage tasks smoothly in your browser. Check out our complet..."
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-for-anydo-web-app-setup
 categories: [productivity, web-apps, tips]
 tags: [anydo, chrome, productivity, web-app, setup]
 author: theluckystrike
 ---
-
 If you are looking for chrome for any.do web app setup, you probably want to get the most out of using Any.do in your browser. Any.do is a popular task management tool that helps people organize their daily activities, and setting it up properly in Chrome can make a real difference in how productive you are. This guide walks you through everything you need to know to optimize Chrome for using Any.do effectively.
 
 ## Why Use Any.do in Chrome

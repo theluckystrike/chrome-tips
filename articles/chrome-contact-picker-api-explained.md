@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "Chrome Contact Picker API Explained"
-description: "Learn what Chrome Contact Picker API is, how websites use it, and how Read more to optimize your experience. Discover essential tips for 2026."
+description: "Learn what Chrome Contact Picker API is, how websites use it, and how Read more to optimize your experience. Discover essential tips for 2026. Read more to opti"
 date: 2026-03-09
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-contact-picker-api-explained
 categories: 
 tags: 
 author: theluckystrike
 ---
+
 
 
 # Chrome Contact Picker API Explained

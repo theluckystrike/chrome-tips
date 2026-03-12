@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Command Line Flags for Low Memory: A Practical Guide"
 description: "Running Chrome on a slow computer with limited RAM? Learn the best command line flags to reduce memory usage and speed up your browser. Read more to optimize yo"
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-command-line-flags-for-low-memory
 categories: [performance, chrome, memory]
 tags: [chrome-flags, low-memory, browser-optimization, command-line]
 author: theluckystrike
 ---
+
 
 
 # Chrome Command Line Flags for Low Memory: A Practical Guide

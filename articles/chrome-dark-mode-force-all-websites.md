@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "How to Force Dark Mode on All Websites in Chrome"
-description: "Learn how to force dark mode on all websites in Chrome using built-in flags, extensions, and system settings. Complete guide to implementing chrome dark mode force all websites."
+description: "Learn how to force dark mode on all websites in Chrome using built-in flags, extensions, and system settings. Complete guide to implementing chrome dark mode..."
 date: 2026-03-11
+last_modified_at: 2026-03-11
+permalink: chrome-dark-mode-force-all-websites
 categories: [chrome, dark-mode, tips]
 tags: [chrome-dark-mode-force-all-websites, dark-mode, browser-customization, eye-strain]
 author: theluckystrike
 ---
+
 
 # How to Force Dark Mode on All Websites in Chrome
 

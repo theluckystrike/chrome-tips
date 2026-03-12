@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome CSS Custom Properties Explained"
-description: "Learn what chrome css custom properties are and how they can simplify your web styling workflow."
+description: "Learn what chrome css custom properties are and how they can simplify your web styling workflow. Read more to optimize your experience. Discover essential tips "
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-css-custom-properties-explained
 categories: [web-development, features]
 tags: [css, custom-properties, web-development, chrome-css]
 author: theluckystrike
 ---
+
 
 # Chrome CSS Custom Properties Explained
 

@@ -1,12 +1,12 @@
----
+--- 
 layout: post
-title: Chrome Speech Recognition API Explained
-description: Chrome Speech Recognition API Explained If you have ever searched for "chrome speech recognition api explained," you might have been curious about how Chro
-date: '2025-03-12'
+title: "Chrome Speech Recognition API Explained"
+description: "If you have ever searched for "chrome speech recognition api explained," you might have been curious about how Chrome can understand what you say or convert"
+date: "2025-03-12"
 last_modified_at: '2026-03-12'
-permalink: chrome-speech-recognition-api-explained
-categories: null
-tags: null
+permalink: "chrome-speech-recognition-api-explained"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Speech Recognition API Explained
@@ -58,6 +58,6 @@ Chrome Speech Recognition API explained is really about understanding how your b
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Save Page as Shortcut](/articles/chrome-save-page-as-shortcut/)
-* [Chrome Tab Discarding What It Means](/articles/chrome-tab-discarding-what-it-means/)
-* [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained/)
+* [Chrome Extension for Managing Multiple Email Accounts](/articles/chrome-extension-for-managing-multiple-email-accounts/)
+* [Chrome Individual Transform Properties CSS – A Complete Guide](/articles/chrome-individual-transform-properties-css/)
+* [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android/)

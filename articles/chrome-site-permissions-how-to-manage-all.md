@@ -1,12 +1,10 @@
----
+--- 
 layout: post
-title: Chrome Site Permissions How to Manage All
-description: Chrome site permissions how to manage all is a question that comes up when people feel overwhelmed by the number of websites that seem to have access to thei...
-date: '2026-03-10'
+title: "Chrome Site Permissions How to Manage All"
+description: "Chrome site permissions how to manage all is a question that comes up when people feel overwhelmed by the number of websites that seem to have access to"
+date: "2026-03-10"
 last_modified_at: '2026-03-12'
-permalink: chrome-site-permissions-how-to-manage-all
-categories: null
-tags: null
+permalink: "chrome-site-permissions-how-to-manage-all"
 ---
 Chrome site permissions how to manage all is a question that comes up when people feel overwhelmed by the number of websites that seem to have access to their camera, microphone, location, or notifications. You are not alone in feeling this way. Over time, you may have accidentally allowed dozens of sites to access features you never intended to share, and finding a way to take back control can feel confusing.
 
@@ -69,8 +67,8 @@ Managing **site permissions** is a critical part of maintaining a healthy browse
 This is where **Tab Suspender Pro** becomes an essential tool. It automatically "hibernates" inactive tabs, freeing up **RAM** and **CPU** resources. This ensures that when you need to jump into your **Chrome settings** to manage **location access** or **microphone permissions**, the browser is snappy and responsive. By keeping your system resources lean, you can audit your **security settings** without the frustration of lag or browser crashes.
 
 ## Related Articles
-* [How to Change Default Download Location Chrome](/articles/how-to-change-default-download-location-chrome/)
-* [Chrome Extension for Viewing Page Load Time](/articles/chrome-extension-for-viewing-page-load-time/)
-* [Chrome Extension for Highlighting Text on Websites](/articles/chrome-extension-for-highlighting-text-on-websites/)
+* [Chrome Encoding API Text Encoder Decoder](/articles/chrome-encoding-api-text-encoder-decoder/)
+* [Chrome Startup Too Slow Diagnosis Guide](/articles/chrome-startup-too-slow-diagnosis-guide/)
+* [Chrome Extension for Blocking Social Media During Work](/articles/chrome-extension-for-blocking-social-media-during-work/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

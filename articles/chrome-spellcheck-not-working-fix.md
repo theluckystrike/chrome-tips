@@ -1,12 +1,12 @@
----
+--- 
 layout: post
-title: Chrome Spellcheck Not Working? Here's How to Fix It
-description: Chrome Spellcheck Not Working? Here's How to Fix It You're typing in a text field and Chrome isn't catching your misspellings anymore. The familiar red squ
-date: '2025-03-15'
+title: "Chrome Spellcheck Not Working? Here's How to Fix It"
+description: "You're typing in a text field and Chrome isn't catching your misspellings anymore. The familiar red squiggly underlines have disappeared. This is surprisingly"
+date: "2025-03-15"
 last_modified_at: '2026-03-12'
-permalink: chrome-spellcheck-not-working-fix
-categories: null
-tags: null
+permalink: "chrome-spellcheck-not-working-fix"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Spellcheck Not Working? Here's How to Fix It
@@ -103,6 +103,6 @@ For casual writing (comments, messages, quick emails), Chrome's basic spellcheck
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome for Facebook Ads Manager Tips](/articles/chrome-for-facebook-ads-manager-tips/)
-* [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/articles/chrome-extensions-folder-location-files/)
-* [Chrome View Transitions API Explained](/articles/chrome-view-transitions-api-explained/)
+* [Chrome Site Isolation Explained](/articles/chrome-site-isolation-explained/)
+* [Chrome Extensions for Link Checker Broken Links](/articles/chrome-extensions-for-link-checker-broken-links/)
+* [chrome save all open tabs as bookmarks](/articles/chrome-save-all-open-tabs-as-bookmarks/)

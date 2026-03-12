@@ -80,10 +80,11 @@ Finally, remember that monitoring is only valuable if you act on the data you co
 
 ---
 
-Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)
+
 
 ## Related Articles
 * [chrome how to allow popups for one site](/articles/chrome-how-to-allow-popups-for-one-site/)
 * [Chrome Auto Sign In to Websites How to Control](/articles/chrome-auto-sign-in-to-websites-how-to-control/)
 * [Chrome Set Methods: Union and Intersection Made Simple](/articles/chrome-set-methods-union-intersection/)
 
+Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)

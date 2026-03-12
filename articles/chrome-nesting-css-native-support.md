@@ -52,10 +52,11 @@ While Chrome native CSS nesting improves how websites render, managing browser r
 
 Additionally, keeping your Chrome installation updated ensures you always have the latest performance improvements and CSS feature support. Browser updates often include optimizations that make rendering faster and more efficient, complementing the benefits of modern CSS features like native nesting.
 
-Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)
+
 
 ## Related Articles
 * [Chrome Credential Management API: Complete Guide for Developers](/articles/chrome-credential-management-api/)
 * [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained/)
 * [Chrome Extensions for Vertical Tabs Sidebar](/articles/chrome-extensions-for-vertical-tabs-sidebar/)
 
+Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)

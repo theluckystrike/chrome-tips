@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "chrome for github copilot web setup"
-description: "Learn how to set up GitHub Copilot in Chrome for web-based coding assistance. Simple steps to enhance your browser with AI coding help."
+description: "Learn how to set up GitHub Copilot in Chrome for web-based coding assistance. Simple steps to enhance your browser with AI coding help. Check out our complet..."
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-for-github-copilot-web-setup
 categories: [extensions, development]
 tags: [github-copilot, chrome-extension, ai-coding, developer-tools]
 author: theluckystrike
 ---
-
 # Chrome for GitHub Copilot Web Setup
 
 If you are looking for chrome for github copilot web setup, you probably want to bring AI-powered code suggestions into your browser workflow without installing heavy IDE extensions. Whether you work primarily in web-based code editors or just want quick code assistance while browsing GitHub, setting up Copilot in Chrome can genuinely improve your coding experience.

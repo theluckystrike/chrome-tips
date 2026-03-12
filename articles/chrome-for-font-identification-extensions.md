@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome for Font Identification Extensions"
-description: "Discover the best Chrome extensions for identifying fonts on any website. Learn how to find font names quickly and easily."
+description: "Discover the best Chrome extensions for identifying fonts on any website. Learn how to find font names quickly and easily. Check out our complete 2026 guide ..."
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-for-font-identification-extensions
 categories: [extensions, design, fonts]
 tags: [chrome-extensions, fonts, design, web-design]
 author: theluckystrike
 ---
-
 # Chrome for Font Identification Extensions
 
 Chrome for font identification extensions is a search more designers, developers, and anyone curious about typography find themselves typing when they encounter a beautiful font on a website and want to know its name. Whether you are working on a design project, building a website, or just appreciate good typography, these extensions can save you hours of guessing and searching. Let me walk you through how these tools work and which ones are worth your time.

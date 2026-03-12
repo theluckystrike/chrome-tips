@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "best privacy settings for chrome 2026"
-description: "Learn the best privacy settings for Chrome in 2026 to protect your data, limit tracking, and browse more privately."
-date: 2026-01-15
-categories: [privacy, settings]
-tags: [privacy, chrome-settings, security, tracking]
-author: theluckystrike
+description: "Learn the best privacy settings for Chrome in 2026 to protect your data, limit tracking, and browse more privately. Check out our expert recommendations and ste"
+date: "2026-01-15"
+last_modified_at: "%Y->-"
+permalink: "best-privacy-settings-for-chrome-2026"
+layout: "post"
+categories: "[privacy, settings]"
+tags: "[privacy, chrome-settings, security, tracking]"
+author: "theluckystrike"
 ---
 
 # Best Privacy Settings for Chrome 2026

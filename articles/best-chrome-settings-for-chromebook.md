@@ -1,11 +1,13 @@
 ---
-layout: default
 title: "Best Chrome Settings for Chromebook — Maximize Speed and Battery"
-description: "Optimize Chrome settings specifically for Chromebooks. Get better performance, longer battery life, and smoother browsing on any Chromebook model."
-date: 2025-02-20
-categories: [performance, chromebook]
-tags: [chromebook-settings, chrome-optimization, chromebook-speed, battery-life]
-author: theluckystrike
+description: "Optimize Chrome settings specifically for Chromebooks. Get better performance, longer battery life, and smoother browsing on any Chromebook model. Check out our"
+date: "2025-02-20"
+last_modified_at: "%Y->-"
+permalink: "best-chrome-settings-for-chromebook"
+layout: "default"
+categories: "[performance, chromebook]"
+tags: "[chromebook-settings, chrome-optimization, chromebook-speed, battery-life]"
+author: "theluckystrike"
 ---
 
 # Best Chrome Settings for Chromebook — Maximize Speed and Battery

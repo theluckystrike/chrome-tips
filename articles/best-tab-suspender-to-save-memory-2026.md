@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Best Tab Suspender to Save Memory 2026"
-description: "Struggling with a slow computer and too many open tabs? Discover the best tab suspender extensions to free up RAM and speed up your browser in 2026."
-date: 2026-01-20
-categories: [performance, chrome-extensions, tab-management]
-tags: [tab-suspender, save-memory, chrome-extension, browser-performance]
-author: theluckystrike
+description: "Struggling with a slow computer and too many open tabs? Discover the best tab suspender extensions to free up RAM and speed up your browser in 2026. Check out o"
+date: "2026-01-20"
+last_modified_at: "%Y->-"
+permalink: "best-tab-suspender-to-save-memory-2026"
+layout: "post"
+categories: "[performance, chrome-extensions, tab-management]"
+tags: "[tab-suspender, save-memory, chrome-extension, browser-performance]"
+author: "theluckystrike"
 ---
 
 # Best Tab Suspender to Save Memory 2026

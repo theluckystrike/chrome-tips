@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "chrome address bar not working fix"
-description: "Is your Chrome address bar not working? Try these simple fixes to get your browser Omnibox working again quickly."
-date: 2026-01-15
-categories: [troubleshooting, browser]
-tags: [chrome, address-bar, browser-fix, troubleshooting]
-author: theluckystrike
+description: "Is your Chrome address bar not working? Try these simple fixes to get your browser Omnibox working again quickly. Check out our expert recommendations and step-"
+date: "2026-01-15"
+last_modified_at: "%Y->-"
+permalink: "chrome-address-bar-not-working-fix"
+layout: "post"
+categories: "[troubleshooting, browser]"
+tags: "[chrome, address-bar, browser-fix, troubleshooting]"
+author: "theluckystrike"
 ---
 
 # Chrome Address Bar Not Working Fix

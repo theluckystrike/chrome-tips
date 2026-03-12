@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Chrome Address Bar Not Showing Fix"
-description: "Is your Chrome address bar missing or hidden? Here are the actual causes and fixes, starting with the most common."
-date: 2026-01-15
-categories: [troubleshooting, address-bar]
-tags: [chrome-address-bar, chrome-fix, browser-problem, omnibox]
-author: theluckystrike
+description: "Is your Chrome address bar missing or hidden? Here are the actual causes and fixes, starting with the most common. Check out our expert recommendations and step"
+date: "2026-01-15"
+last_modified_at: "%Y->-"
+permalink: "chrome-address-bar-not-showing-fix"
+layout: "post"
+categories: "[troubleshooting, address-bar]"
+tags: "[chrome-address-bar, chrome-fix, browser-problem, omnibox]"
+author: "theluckystrike"
 ---
 
 # Chrome Address Bar Not Showing Fix

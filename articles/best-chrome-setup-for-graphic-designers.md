@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "best chrome setup for graphic designers"
-description: "Learn the best chrome setup for graphic designers to speed up your workflow, reduce memory usage, and handle heavy design files without browser lag."
-date: 2026-01-15
-categories: [productivity, chrome-tips]
-tags: [chrome, graphic-design, browser-setup, performance]
-author: theluckystrike
+description: "Learn the best chrome setup for graphic designers to speed up your workflow, reduce memory usage, and handle heavy design files without browser lag. Check out o"
+date: "2026-01-15"
+last_modified_at: "%Y->-"
+permalink: "best-chrome-setup-for-graphic-designers"
+layout: "post"
+categories: "[productivity, chrome-tips]"
+tags: "[chrome, graphic-design, browser-setup, performance]"
+author: "theluckystrike"
 ---
 
 # Best Chrome Setup for Graphic Designers

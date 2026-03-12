@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "chrome ad personalization how to turn off"
-description: "Learn how to turn off ad personalization in Chrome to reduce tracking and see less targeted ads while browsing."
-date: 2026-01-15
-categories: [privacy, settings]
-tags: [ad-personalization, chrome-settings, privacy, tracking]
-author: theluckystrike
+description: "Learn how to turn off ad personalization in Chrome to reduce tracking and see less targeted ads while browsing. Check out our expert recommendations and step-by"
+date: "2026-01-15"
+last_modified_at: "%Y->-"
+permalink: "chrome-ad-personalization-how-to-turn-off"
+layout: "post"
+categories: "[privacy, settings]"
+tags: "[ad-personalization, chrome-settings, privacy, tracking]"
+author: "theluckystrike"
 ---
 
 # Chrome Ad Personalization How to Turn Off

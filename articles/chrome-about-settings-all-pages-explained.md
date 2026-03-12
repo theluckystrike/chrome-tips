@@ -1,7 +1,10 @@
 ---
-layout: post
 title: "Chrome About Settings All Pages Explained"
-description: "A walkthrough of every section in Chrome's Settings page, what each option controls, and which defaults you should consider changing."
+description: "A walkthrough of every section in Chrome's Settings page, what each option controls, and which defaults you should consider changing. Check out our expert recom"
+date: "2026-01-01"
+last_modified_at: "%Y->-"
+permalink: "chrome-about-settings-all-pages-explained"
+layout: "post"
 ---
 
 Chrome's Settings page (`chrome://settings`) has grown from a single page to a multi-section interface with over 100 individual options. This guide walks through every section, highlights the settings most users should check, and explains what the non-obvious options actually do.

@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Chrome Accessibility on Phone Settings Guide"
-description: "Learn how to enable and customize Chrome accessibility settings on your phone for a better browsing experience."
-date: 2026-01-15
-categories: [accessibility, chrome, mobile]
-tags: [chrome, accessibility, phone, mobile, browser-settings]
-author: theluckystrike
+description: "Learn how to enable and customize Chrome accessibility settings on your phone for a better browsing experience. Check out our expert recommendations and step-by"
+date: "2026-01-15"
+last_modified_at: "%Y->-"
+permalink: "chrome-accessibility-on-phone-settings-guide"
+layout: "post"
+categories: "[accessibility, chrome, mobile]"
+tags: "[chrome, accessibility, phone, mobile, browser-settings]"
+author: "theluckystrike"
 ---
 
 # Chrome Accessibility on Phone Settings Guide

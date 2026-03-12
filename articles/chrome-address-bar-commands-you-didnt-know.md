@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Chrome Address Bar Commands You Didnt Know"
-description: "Discover hidden Chrome address bar commands that can speed up your browsing and boost productivity instantly."
-date: 2026-03-10
-categories: [features, productivity]
-tags: [chrome-commands, address-bar, omnibox, chrome-tips, productivity]
-author: theluckystrike
+description: "Discover hidden Chrome address bar commands that can speed up your browsing and boost productivity instantly. Check out our expert recommendations and step-by-s"
+date: "2026-03-10"
+last_modified_at: "%Y->-"
+permalink: "chrome-address-bar-commands-you-didnt-know"
+layout: "post"
+categories: "[features, productivity]"
+tags: "[chrome-commands, address-bar, omnibox, chrome-tips, productivity]"
+author: "theluckystrike"
 ---
 
 # Chrome Address Bar Commands You Didnt Know

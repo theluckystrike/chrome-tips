@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Chrome Add to Home Screen vs Install App"
-description: "Learn the difference between adding a website to your home screen and installing a dedicated app."
-date: 2026-01-15
-categories: [chrome, mobile, apps]
-tags: [chrome-android, chrome-iphone, pwa, mobile-apps]
-author: theluckystrike
+description: "Learn the difference between adding a website to your home screen and installing a dedicated app. Check out our expert recommendations and step-by-step instruct"
+date: "2026-01-15"
+last_modified_at: "%Y->-"
+permalink: "chrome-add-to-home-screen-vs-install-app"
+layout: "post"
+categories: "[chrome, mobile, apps]"
+tags: "[chrome-android, chrome-iphone, pwa, mobile-apps]"
+author: "theluckystrike"
 ---
 
 # Chrome Add to Home Screen vs Install App

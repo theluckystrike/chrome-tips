@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome ERR_SSL_PROTOCOL_ERROR Fix"
-description: "Getting ERR_SSL_PROTOCOL_ERROR in Chrome? This guide explains what causes it and provides simple fixes to get your browser working again."
+title: Chrome ERR_SSL_PROTOCOL_ERROR Fix
+description: Getting ERR_SSL_PROTOCOL_ERROR in Chrome? This guide explains what causes
+  it and provides simple fixes to get your browser working again. Discover essential
+  ...
 date: 2026-01-15
-categories: [troubleshooting, security]
-tags: [chrome-ssl-error, chrome-fix, ssl-error, browser-security]
+categories:
+- troubleshooting
+- security
+tags:
+- chrome-ssl-error
+- chrome-fix
+- ssl-error
+- browser-security
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-err-ssl-protocol-error-fix
 ---
 
 # Chrome ERR_SSL_PROTOCOL_ERROR Fix

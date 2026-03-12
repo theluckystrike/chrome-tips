@@ -2,7 +2,8 @@
 layout: post
 title: Chrome for Runway ML Web App
 description: Learn how to optimize Chrome for the Runway ML web app. Get tips for
-  better performance and smoother creative workflows.
+  better performance and smoother creative workflows. Discover essential insights
+  and prac...
 date: 2026-03-10
 categories:
 - productivity
@@ -13,8 +14,8 @@ tags:
 - creative-tools
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /chrome-for-runway-ml-web-app/
+last_modified_at: '2026-03-11'
+permalink: chrome-for-runway-ml-web-app
 ---
 
 # Chrome for Runway ML Web App

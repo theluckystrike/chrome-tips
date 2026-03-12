@@ -16,7 +16,7 @@ tags:
 - screen-capture
 author: theluckystrike
 last_modified_at: '2026-03-11'
-permalink: /chrome-built-in-screenshot-tool/
+permalink: chrome-built-in-screenshot-tool
 ---
 
 # Chrome Built-In Screenshot Tool

@@ -2,10 +2,11 @@
 layout: post
 title: Chrome Extensions for Form Auto Filler
 description: Discover how chrome extensions for form auto filler can save you time
-  by automatically filling in repetitive information on websites.
+  by automatically filling in repetitive information on websites. Discover essential
+  insi...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
-permalink: /chrome-extensions-for-form-auto-filler/
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-form-auto-filler
 categories:
 - productivity
 - tips

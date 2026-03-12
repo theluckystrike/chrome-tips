@@ -2,7 +2,8 @@
 layout: post
 title: Chrome Picture in Picture How to Use
 description: Learn how to use Chrome's Picture in Picture feature to watch videos
-  in a floating window while browsing other tabs.
+  in a floating window while browsing other tabs. Discover essential insights and
+  practica...
 date: 2025-03-14
 categories:
 - features
@@ -14,8 +15,8 @@ tags:
 - multitasking
 - chrome-features
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /chrome-picture-in-picture-how-to-use/
+last_modified_at: '2026-03-11'
+permalink: chrome-picture-in-picture-how-to-use
 ---
 
 # Chrome Picture in Picture How to Use

@@ -1,11 +1,23 @@
 ---
 layout: post
-title: "How to Blackbox Scripts in Chrome to Skip Library Code During Debugging"
-description: "Learn how to use Chrome DevTools blackboxing feature to focus only on your own code when debugging, ignoring third-party library scripts."
+title: How to Blackbox Scripts in Chrome to Skip Library Code During Debugging
+description: Learn how to use Chrome DevTools blackboxing feature to focus only on
+  your own code when debugging, ignoring third-party library scripts. Discover essential
+  ...
 date: 2026-01-15
-categories: [development, debugging, chrome-devtools]
-tags: [chrome-devtools, debugging, web-development, javascript, productivity]
+categories:
+- development
+- debugging
+- chrome-devtools
+tags:
+- chrome-devtools
+- debugging
+- web-development
+- javascript
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-blackbox-script-skip-library-code-debug
 ---
 
 # How to Blackbox Scripts in Chrome to Skip Library Code During Debugging

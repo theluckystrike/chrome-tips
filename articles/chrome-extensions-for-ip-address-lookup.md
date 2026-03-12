@@ -2,10 +2,10 @@
 layout: post
 title: Chrome Extensions for IP Address Lookup
 description: Looking for chrome extensions for ip address lookup? Find the best tools
-  to check and track IP addresses directly in your browser.
+  to check and track IP addresses directly in your browser. Discover essential insight...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
-permalink: /chrome-extensions-for-ip-address-lookup/
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-ip-address-lookup
 categories:
 - productivity
 - tools

@@ -2,7 +2,7 @@
 layout: post
 title: chrome extensions for font changing
 description: Discover the best Chrome extensions for font changing. Customize webpage
-  fonts easily with these helpful tools for better reading.
+  fonts easily with these helpful tools for better reading. Discover essential insight...
 date: 2026-03-09
 categories:
 - extensions
@@ -13,8 +13,8 @@ tags:
 - readability
 - text-customization
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: /chrome-extensions-for-font-changing/
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-font-changing
 ---
 
 # Chrome Extensions for Font Changing

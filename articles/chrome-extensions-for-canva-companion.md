@@ -2,10 +2,11 @@
 layout: post
 title: Chrome Extensions for Canva Companion
 description: Looking for chrome extensions for canva companion? Discover helpful tools
-  that enhance your Canva workflow and boost design productivity.
+  that enhance your Canva workflow and boost design productivity. Discover essential
+  ...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
-permalink: /chrome-extensions-for-canva-companion/
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-canva-companion
 categories:
 - productivity
 - design

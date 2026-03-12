@@ -5,8 +5,8 @@ description: Master Chrome DevTools Flexbox debugging with flex overlay, alignme
   inspection, shrink/grow analysis, and the flex inspector. Learn to fix layout issues
   fast.
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
-permalink: /chrome-flexbox-debugging/
+last_modified_at: '2026-03-11'
+permalink: chrome-flexbox-debugging
 categories:
 - web-development
 - css

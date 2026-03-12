@@ -2,7 +2,8 @@
 layout: post
 title: Chrome Google Search Not Working Fix
 description: Is Chrome Google search not working? Try these simple solutions to get
-  your search bar working again.
+  your search bar working again. Discover essential insights and practical advice
+  to opt...
 date: 2026-01-15
 categories:
 - troubleshooting
@@ -14,8 +15,8 @@ tags:
 - fix
 - troubleshooting
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /chrome-google-search-not-working-fix/
+last_modified_at: '2026-03-11'
+permalink: chrome-google-search-not-working-fix
 ---
 
 # Chrome Google Search Not Working Fix

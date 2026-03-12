@@ -2,10 +2,11 @@
 layout: post
 title: Chrome Extensions for Shopify
 description: Discover the best chrome extensions for Shopify to streamline your store
-  management, boost productivity, and grow your sales.
+  management, boost productivity, and grow your sales. Discover essential insights
+  and...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
-permalink: /chrome-extensions-for-shopify/
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-shopify
 categories:
 - productivity
 - ecommerce

@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Code Snippet Manager"
-description: "Discover how chrome extensions for code snippet manager can help you organize, search, and reuse code snippets across projects."
+title: Chrome Extensions for Code Snippet Manager
+description: Discover how chrome extensions for code snippet manager can help you
+  organize, search, and reuse code snippets across projects. Discover essential insights
+  a...
 date: 2026-03-10
-categories: [productivity, tips]
-tags: [chrome-extensions, productivity, code-snippets]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- productivity
+- code-snippets
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-code-snippet-manager
 ---
 
 # Chrome Extensions for Code Snippet Manager

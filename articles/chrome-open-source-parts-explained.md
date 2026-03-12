@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Chrome Open Source Parts Explained"
-description: "Discover what makes Chrome tick. A deep dive into Chromium, V8, Blink, and other open-source components that power the world's most popular browser."
+title: Chrome Open Source Parts Explained
+description: Discover what makes Chrome tick. A deep dive into Chromium, V8, Blink,
+  and other open-source components that power the world's most popular browser. Discover...
 date: 2026-01-20
-categories: [features, technology]
-tags: [chromium, open-source, browser-engine]
+categories:
+- features
+- technology
+tags:
+- chromium
+- open-source
+- browser-engine
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-open-source-parts-explained
 ---
 
 # Chrome Open Source Parts Explained

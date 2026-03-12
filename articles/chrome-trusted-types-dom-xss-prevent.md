@@ -15,7 +15,7 @@ tags:
 - browser
 author: theluckystrike
 last_modified_at: '2026-03-11'
-permalink: /chrome-trusted-types-dom-xss-prevent/
+permalink: chrome-trusted-types-dom-xss-prevent
 ---
 
 # Chrome Trusted Types: Your Defense Against DOM XSS Attacks

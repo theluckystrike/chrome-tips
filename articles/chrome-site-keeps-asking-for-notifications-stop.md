@@ -1,6 +1,10 @@
 ---
-title: "Chrome Site Keeps Asking for Notifications? Here's How to Stop It"
-description: "Tired of websites constantly asking for permission to send notifications? Learn practical solutions to stop notification requests in Chrome for good."
+title: Chrome Site Keeps Asking for Notifications? Here's How to Stop It
+description: Tired of websites constantly asking for permission to send notifications?
+  Learn practical solutions to stop notification requests in Chrome for good. Discove...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-site-keeps-asking-for-notifications-stop
 ---
 
 Does this sound familiar? You're trying to read an article or shop online, and suddenly a popup appears asking if you want to allow notifications. You click "Block" or "No thanks," but the same site asks again a few minutes later. Or worse—different sites keep prompting you over and over.

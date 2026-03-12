@@ -2,10 +2,11 @@
 layout: post
 title: Chrome for Minimalist Browsing Setup
 description: A clean Chrome setup focused on simplicity and speed. Practical tips
-  for a minimalist browsing experience.
+  for a minimalist browsing experience. Discover essential insights and practical
+  advice t...
 date: '2025-12-01'
-last_modified_at: '2026-03-10'
-permalink: /chrome-for-minimalist-browsing-setup/
+last_modified_at: '2026-03-11'
+permalink: chrome-for-minimalist-browsing-setup
 categories:
 - browsing
 - setup

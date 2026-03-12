@@ -15,7 +15,7 @@ tags:
 - readability
 author: theluckystrike
 last_modified_at: '2026-03-11'
-permalink: /chrome-high-contrast-mode/
+permalink: chrome-high-contrast-mode
 ---
 
 # How to Enable and Use Chrome High Contrast Mode

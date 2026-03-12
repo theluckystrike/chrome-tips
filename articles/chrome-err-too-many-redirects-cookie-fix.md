@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix"
-description: "Getting ERR_TOO_MANY_REDIRECTS in Chrome? This cookie-related error is common and fixable. Learn the simple steps to get browsing again."
+title: Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix
+description: Getting ERR_TOO_MANY_REDIRECTS in Chrome? This cookie-related error is
+  common and fixable. Learn the simple steps to get browsing again. Discover essential
+  i...
 date: 2026-01-15
-categories: [troubleshooting, connectivity]
-tags: [chrome-error, too-many-redirects, cookie-fix, browser-problem]
+categories:
+- troubleshooting
+- connectivity
+tags:
+- chrome-error
+- too-many-redirects
+- cookie-fix
+- browser-problem
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-err-too-many-redirects-cookie-fix
 ---
 
 # Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix

@@ -14,7 +14,7 @@ tags:
 - browser-comparison
 author: theluckystrike
 last_modified_at: '2026-03-11'
-permalink: /chrome-vs-firefox-battery-life/
+permalink: chrome-vs-firefox-battery-life
 ---
 
 # Chrome vs Firefox Battery Life: Which Browser Saves More Power

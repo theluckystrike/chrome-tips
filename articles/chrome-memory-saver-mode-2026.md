@@ -2,7 +2,8 @@
 layout: post
 title: Chrome Memory Saver Mode 2026 Guide
 description: Learn how to enable and use Chrome Memory Saver Mode 2026 to reduce memory
-  usage, manage inactive tabs, and improve browser performance.
+  usage, manage inactive tabs, and improve browser performance. Discover essential
+  i...
 date: 2026-01-20
 categories:
 - chrome
@@ -15,7 +16,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 last_modified_at: '2026-03-11'
-permalink: /chrome-memory-saver-mode-2026/
+permalink: chrome-memory-saver-mode-2026
 ---
 
 # Chrome Memory Saver Mode 2026 Guide

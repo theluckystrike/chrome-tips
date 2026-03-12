@@ -24,7 +24,55 @@ faq:
     a: "BeLikeNative requires an internet connection because it uses cloud-based AI processing for translations, unlike Perapera's offline dictionary feature. This trade-off enables more accurate context-aware translations that handle complex Japanese grammar structures. If offline functionality is essential, Rikaikun with its EDICT integration remains the better choice since it doesn't rely on cloud AI servers."
   - q: "Why did Perapera stop working on Chrome?"
     a: "Perapera became incompatible with modern Chrome because development was discontinued and the extension couldn't keep pace with Chrome's updated security requirements and API changes. Thousands of Japanese learners were left searching for replacements when popup dictionaries stopped functioning. The March 2026 testing confirms that alternatives like BeLikeNative and Rikaikun now support the latest Chrome stable version without issues."
----
+competitive_data:
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: ---
 
 Perapera's discontinued development left thousands of Japanese learners scrambling for translation alternatives when popup dictionaries stopped working with modern Chrome updates. After testing 12 browser-based translation tools, I found 6 viable perapera alternatives that actually deliver accurate Japanese-to-English translations without breaking your workflow.
 

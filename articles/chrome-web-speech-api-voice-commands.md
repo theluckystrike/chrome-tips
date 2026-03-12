@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Chrome Web Speech API Voice Commands: A Complete Guide"
-description: " Explore our comprehensive guide for 2026 to learn all about this feature and how to optimize your Chrome browser performance for speed..............."
+description: "Explore our comprehensive guide for 2026 to learn all about this feature and how to optimize your Chrome browser performance for speed............... Check o..."
 date: 2025-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-web-speech-api-voice-commands
 ---
 # Chrome Web Speech API Voice Commands: A Complete Guide

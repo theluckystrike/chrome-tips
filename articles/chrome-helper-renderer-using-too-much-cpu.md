@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Helper Renderer Using Too Much CPU"
 description: "Is Chrome Helper Renderer consuming too much CPU? Learn why this happens and practical steps to fix high CPU usage in Chrome. Check out our complete 2026 gui..."
 date: 2025-12-14
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-helper-renderer-using-too-much-cpu
 categories: [performance, troubleshooting]
 tags: [chrome-cpu, chrome-helper, chrome-performance, high-cpu-usage]

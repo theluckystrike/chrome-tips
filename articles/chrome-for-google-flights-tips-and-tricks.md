@@ -3,7 +3,7 @@ layout: post
 title: "chrome for google flights tips and tricks"
 description: "Master Chrome for Google Flights with these practical tips and tricks. Save money, track prices, and find better deals. Check out our complete 2026 guide for..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-google-flights-tips-and-tricks
 categories: [tips, google-flights]
 tags: [google-flights, chrome, travel, tips]

@@ -3,7 +3,7 @@ layout: post
 title: "How to Use Chrome Task Manager to Find Heavy Tabs"
 description: "Learn how to use Chrome Task Manager to identify and manage heavy tabs that are consuming excessive memory and CPU resources. Check out our complete 2026 gui..."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-task-manager-find-heavy-tabs
 categories: [chrome, performance, tips]
 tags: [chrome-task-manager, browser-performance, memory, cpu, tabs]

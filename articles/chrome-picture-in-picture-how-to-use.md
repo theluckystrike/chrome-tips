@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Picture in Picture How to Use"
 description: "Learn how to use Chrome's Picture in Picture feature to watch videos Check out our complete 2026 guide for more details and professional advice on managing y..."
 date: 2025-03-14
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-picture-in-picture-how-to-use
 categories: 
 tags: 

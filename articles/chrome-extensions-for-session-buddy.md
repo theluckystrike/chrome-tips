@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Extensions for Session Buddy"
 description: "Looking for chrome extensions for session buddy? Find tools to save and restore your browser tabs easily. Check out our complete 2026 guide for more details ..."
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-session-buddy
 categories: [productivity, browser-tools]
 tags: [chrome-extensions, session-buddy, tab-management, browser-sessions]

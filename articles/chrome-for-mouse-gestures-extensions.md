@@ -3,7 +3,7 @@ layout: post
 title: "chrome for mouse gestures extensions"
 description: "Discover chrome for mouse gestures extensions that let you navigate faster by drawing simple shapes with your cursor. Check out our complete 2026 guide for m..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-mouse-gestures-extensions
 categories: [extensions, productivity]
 tags: [chrome, mouse-gestures, browser, productivity]

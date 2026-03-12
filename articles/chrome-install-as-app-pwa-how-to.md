@@ -3,7 +3,7 @@ layout: post
 title: "chrome install as app pwa how to"
 description: "Learn how to install any website as a standalone app in Chrome using Check out our complete 2026 guide for more details and professional advice on managing y..."
 date: 2026-03-09
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-install-as-app-pwa-how-to
 categories: 
 tags: 

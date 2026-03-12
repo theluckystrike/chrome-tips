@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Bear Notes Web Clipper"
 description: "Learn how to use Chrome with Bear Notes web clipper to save articles, research, and inspiration from any website. Check out our complete 2026 guide for more ..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-bear-notes-web-clipper
 categories: [productivity, notes, chrome-extensions]
 tags: [chrome, bear-notes, web-clipper, notes-app, productivity]

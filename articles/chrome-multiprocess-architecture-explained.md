@@ -3,7 +3,7 @@ layout: post
 title: "chrome multiprocess architecture explained"
 description: "Learn how Chrome's multiprocess architecture works, why it uses multiple processes, and how it improves stability, security, and performance in your browsing..."
 date: 2026-03-11
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-multiprocess-architecture-explained
 categories: [chrome, processes, architecture, performance]
 tags: [chrome, multiprocess, architecture, browser process, renderer, stability, security]

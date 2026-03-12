@@ -3,7 +3,7 @@ layout: post
 title: "chrome web share target api explained"
 description: "Understand the Chrome Web Share Target API, what it does, why websites need it, and how to enable or troubleshoot sharing features in Chrome. Check out our c..."
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-web-share-target-api-explained
 categories: [features, api, sharing]
 tags: [web-share-target-api, sharing, browser-features]

@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Speed Dial Extensions Best"
 description: "Looking for the best speed dial extensions for Chrome? We review top options to help you launch your favorite sites faster and stay organized. Check out our ..."
 date: 2026-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-speed-dial-extensions-best
 categories: [productivity, tips]
 tags: [speed-dial, chrome-extensions, productivity]

@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for PeerTube Web Setup"
 description: "Learn how to optimize Chrome for watching videos on PeerTube. Setup tips for smooth video playback and better browsing. Check out our complete 2026 guide for..."
 date: 2025-02-19
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-peertube-web-setup
 categories: [video, streaming]
 tags: [peertube, video-streaming, browser-setup, chrome-tips]

@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Performance Panel for Regular Users"
 description: "Learn how to use the Chrome performance panel to find what is slowing down your browser and fix it without technical knowledge. Check out our complete 2026 g..."
 date: 2026-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-performance-panel-for-regular-users
 categories: [performance, troubleshooting]
 tags: [chrome-performance, browser-tools, chrome-tips]

@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Not Playing Videos Fix"
 description: "Is Chrome not playing videos? This guide covers simple fixes to get your videos working again in Chrome. Check out our complete 2026 guide for more details a..."
 date: 2026-01-15
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-not-playing-videos-fix
 categories: [troubleshooting, media]
 tags: [chrome-video, video-playback, chrome-fix, browser-media]

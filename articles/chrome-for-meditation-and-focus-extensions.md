@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Meditation and Focus Extensions"
 description: "Find calm and concentration with the best chrome meditation and focus extensions to transform your browsing habits. Check out our complete 2026 guide for mor..."
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-meditation-and-focus-extensions
 categories: [productivity, wellness]
 tags: [chrome-extensions, meditation, focus, mindfulness, productivity]

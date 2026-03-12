@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "chrome dyslexia friendly extensions"
-description: "Discover chrome dyslexia friendly extensions that make reading easier. Learn about tools for font customization, text highlighting, and distraction-free browsing."
+description: "Discover chrome dyslexia friendly extensions that make reading easier. Learn about tools for font customization, text highlighting, and distraction-free brow..."
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-dyslexia-friendly-extensions
 categories: [extensions, accessibility, dyslexia]
 tags: [chrome-extension, dyslexia, reading, accessibility, assistive-technology]
 author: theluckystrike
 ---
-
 # Chrome Dyslexia Friendly Extensions
 
 If you have been searching for chrome dyslexia friendly extensions, you know how frustrating it can be to find tools that actually help with reading on the web. Dyslexia affects everyone differently, but many people struggle with text that is too small, fonts that are hard to distinguish, or pages that are cluttered with distracting elements. The good news is that there are extensions designed specifically to address these challenges and make your browsing experience much more comfortable.

@@ -3,7 +3,7 @@ layout: post
 title: "how to use chrome password checkup feature"
 description: "Learn how to use Chrome Password Checkup to find weak, reused, or compromised passwords and keep your accounts safe. Check out our complete 2026 guide for mo..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: how-to-use-chrome-password-checkup-feature
 categories: [security, privacy, password]
 tags: [chrome-password, security, privacy, browser]

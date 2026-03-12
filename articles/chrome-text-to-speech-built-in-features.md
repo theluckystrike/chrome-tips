@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Text to Speech Built In Features"
 description: "Discover Chrome's built-in text to speech features that can read web pages aloud. Learn how to use them without extensions. Check out our complete 2026 guide..."
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-text-to-speech-built-in-features
 categories: [accessibility, tips]
 tags: [chrome, text-to-speech, accessibility, built-in-feature]

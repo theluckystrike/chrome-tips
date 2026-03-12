@@ -3,7 +3,7 @@ layout: post
 title: "Chrome requestanimationframe Explained: What It Means for Your Browser"
 description: "Learn what requestAnimationFrame does in Chrome, how it affects browser performance, and why it matters for your web browsing experience. Check out our compl..."
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-requestanimationframe-explained
 categories: [performance, web-development, tips]
 tags: [requestanimationframe, chrome-performance, browser-animations, web-animations]

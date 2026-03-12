@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Replit in Browser Tips"
 description: "Get the most out of Chrome when using Replit in your browser. Tips for better performance, tab management, and productivity. Check out our complete 2026 guid..."
 date: 2025-02-19
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-replit-in-browser-tips
 categories: [productivity, tips]
 tags: [replit, browser-tips, chrome-tips, coding-tips]

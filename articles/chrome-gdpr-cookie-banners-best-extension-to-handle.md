@@ -3,7 +3,7 @@ layout: post
 title: "Chrome GDPR Cookie Banners Best Extension to Handle"
 description: "Frustrated with GDPR cookie banners in Chrome? Discover the best extensions to handle them and browse peacefully. Check out our complete 2026 guide for more ..."
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-gdpr-cookie-banners-best-extension-to-handle
 categories: [extensions, privacy]
 tags: [chrome-gdpr, cookie-banners, privacy-extensions, browser-tips]

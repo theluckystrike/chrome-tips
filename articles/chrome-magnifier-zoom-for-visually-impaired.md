@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Magnifier Zoom for Visually Impaired"
 description: "Learn how to use Chrome magnifier and zoom features to help visually impaired users browse the web more easily. Check out our complete 2026 guide for more de..."
 date: 2026-03-12
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-magnifier-zoom-for-visually-impaired
 ---
 If you are looking for chrome magnifier zoom for visually impaired users, you have come to the right place. Many people with vision challenges find it difficult to read text on websites, and Chrome offers several built-in tools that can make browsing much more accessible and comfortable.

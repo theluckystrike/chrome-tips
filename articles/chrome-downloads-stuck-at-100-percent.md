@@ -3,11 +3,12 @@ layout: post
 title: "How to Fix Chrome Downloads Stuck at 100 Percent"
 description: "Chrome download shows 100% complete but won't finish? Learn practical solutions to fix stuck downloads in Chrome, from clearing history to checking settings."
 date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: chrome-downloads-stuck-at-100-percent
 categories: [chrome, downloads, troubleshooting]
 tags: [chrome-downloads, browser-fix, download-issues, troubleshooting]
 author: theluckystrike
 ---
-
 # How to Fix Chrome Downloads Stuck at 100 Percent
 
 You've been there before. You're downloading an important file—maybe a work document, software installer, or that movie you wanted to watch offline. The progress bar creeps up steadily, and then it hits 100%. You wait. And wait. But the file never opens, and Chrome keeps showing that the download is "complete" without actually giving you the file.

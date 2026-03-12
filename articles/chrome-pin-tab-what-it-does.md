@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Pin Tab What It Does"
 description: "Learn what pinning a tab in Chrome does, how it helps organize your browser, and practical tips to keep important sites always accessible. Check out our comp..."
 date: 2026-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-pin-tab-what-it-does
 categories: [productivity, tips]
 tags: [chrome-pin-tab, tab-management, browser-tips, chrome-tips]

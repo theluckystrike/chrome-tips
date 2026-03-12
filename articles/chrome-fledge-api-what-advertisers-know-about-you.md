@@ -3,7 +3,7 @@ layout: post
 title: "chrome fledge api what advertisers know about you"
 description: "Learn how Chrome FLEDGE API works and what advertisers can learn about you. Find steps to control this feature and protect your privacy. Check out our comple..."
 date: 2026-01-20
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-fledge-api-what-advertisers-know-about-you
 categories: [privacy, chrome]
 tags: [chrome-fledge-api, advertising, privacy, tracking, chrome-privacy]

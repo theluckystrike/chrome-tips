@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Reduce Memory Usage Android - Complete Guide"
 description: "Is Chrome draining your Android phone's battery and slowing things down? Learn practical steps to reduce memory usage on Chrome for Android and enjoy a faste..."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-reduce-memory-usage-android
 categories: [mobile, performance, memory]
 tags: [chrome-android, memory-usage, performance, android-tips, mobile-browser]

@@ -1,20 +1,14 @@
 ---
 layout: post
-title: Best Chrome Extensions for Netflix
-description: Discover the best Chrome extensions for Netflix that enhance streaming, improve subtitles, and save data while watching. Find out more tips on how to optimize y
-date: '2026-03-09'
-categories:
-- entertainment
-- tips
-tags:
-- chrome-extensions
-- netflix
-- streaming
+title: "Best Chrome Extensions for Netflix"
+description: "Discover the best Chrome extensions for Netflix that enhance streaming, improve subtitles, and save data while watching. Find out more tips on how to optimize y"
+date: 2026-03-09
+last_modified_at: 2026-03-12
+permalink: best-chrome-extensions-for-netflix
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: /articles/best-chrome-extensions-for-netflix/
 ---
-
 # Best Chrome Extensions for Netflix
 
 Searching for the **best chrome extensions for Netflix** is a great way to unlock features that aren't available in the standard streaming interface. Whether you want to customize your subtitles, host remote watch parties, or simply improve your browser's performance while binge-watching, these tools can significantly enhance your experience.

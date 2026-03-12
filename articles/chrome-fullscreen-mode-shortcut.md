@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Fullscreen Mode Shortcut"
 description: "Learn the keyboard shortcuts to enter and exit fullscreen mode in Chrome browser for an immersive browsing experience. Check out our complete 2026 guide for ..."
 date: 2025-03-14
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-fullscreen-mode-shortcut
 categories: [features, productivity]
 tags: [fullscreen, shortcuts, keyboard, chrome-features, browsing]

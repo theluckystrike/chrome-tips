@@ -3,7 +3,7 @@ layout: post
 title: "How to Update Chrome on iPhone"
 description: "Learn the simple steps to update Chrome on your iPhone and keep your browser secure and running smoothly. Check out our complete 2026 guide for more details ..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: how-to-update-chrome-on-iphone
 categories: [tutorial, iphone, mobile]
 tags: [chrome-iphone, update-chrome, browser-update, mobile-chrome]

@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Slow With Many Tabs Open? Here's How to Fix It"
 description: "Is Chrome slow with many tabs open? This guide explains why it happens and provides practical solutions to speed up your browser. Check out our complete 2026..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-slow-with-many-tabs-open
 categories: [performance, troubleshooting]
 tags: [chrome-slow, chrome-tabs, browser-performance, chrome-running-slow]

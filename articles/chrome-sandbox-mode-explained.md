@@ -3,7 +3,7 @@ layout: post
 title: "chrome sandbox mode explained"
 description: "Understanding Chrome sandbox mode and how to fix issues when it causes Check out our complete 2026 guide for more details and professional advice on managing..."
 date: 2026-03-09
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-sandbox-mode-explained
 categories: 
 tags: 

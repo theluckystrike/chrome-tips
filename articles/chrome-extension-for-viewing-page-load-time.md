@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Extension for Viewing Page Load Time"
-description: "Discover Chrome extensions that show you how long pages take to load. Find out what slows down your browsing and how to fix it."
+description: "Discover Chrome extensions that show you how long pages take to load. Find out what slows down your browsing and how to fix it. Check out our complete 2026 g..."
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-extension-for-viewing-page-load-time
 categories: [performance, extensions]
 tags: [page-load-time, browser-speed, chrome-extensions, troubleshooting]
 author: theluckystrike
 ---
-
 # Chrome Extension for Viewing Page Load Time
 
 If you are searching for a chrome extension for viewing page load time, you probably want to understand why some websites take forever to appear on your screen. Many Chrome users notice that certain pages load quickly while others seem stuck loading, and they want to know exactly how long they are waiting and why. Finding a good page load time extension can help you track performance, identify problem websites, and make informed decisions about how you browse.

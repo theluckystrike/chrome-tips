@@ -1,23 +1,14 @@
 ---
 layout: post
-title: Chrome Auto Dark Mode for Web Contents
-description: Learn how to enable automatic dark mode for web content in Chrome and
-  reduce eye strain during night browsing. Read our comprehensive guide to learn more
-  abo...
-date: '2026-01-15'
-categories:
-- features
-- accessibility
-tags:
-- dark-mode
-- auto-dark-mode
-- eye-strain
-- chrome-features
-author: theluckystrike
-last_modified_at: '2026-03-09'
+title: "Chrome Auto Dark Mode for Web Contents"
+description: "Learn how to enable automatic dark mode for web content in Chrome and Check out our complete 2026 guide for more details and professional advice on managing ..."
+date: 2026-01-15
+last_modified_at: 2026-03-12
 permalink: chrome-auto-dark-mode-for-web-contents
+categories: 
+tags: 
+author: theluckystrike
 ---
-
 Chrome auto dark mode for web contents is something many users have been looking for as they spend more time browsing in the evening or late at night. If you have ever found yourself squinting at a bright white website late at night, you know how uncomfortable it can be. Fortunately, there are ways to make Chrome automatically show websites in dark mode, and this guide will walk you through the options.
 
 ## Why Dark Mode Matters for Web Browsing

@@ -3,7 +3,7 @@ layout: post
 title: "How to Pin a Website in Chrome Taskbar"
 description: "Learn how to pin a website to your Windows or Mac taskbar for quick access with just one click. Check out our complete 2026 guide for more details and profes..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: how-to-pin-a-website-in-chrome-taskbar
 categories: [productivity, chrome]
 tags: [chrome, taskbar, pinned-websites, productivity]

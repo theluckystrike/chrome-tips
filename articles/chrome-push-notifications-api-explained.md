@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Push Notifications API Explained"
 description: "Learn what the Chrome Push Notifications API is, how websites use it, and how to manage notifications in your browser. Check out our complete 2026 guide for ..."
 date: 2026-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-push-notifications-api-explained
 categories: [notifications, api, browser-features]
 tags: [chrome-push-notifications, browser-api, web-notifications]

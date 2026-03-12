@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser"
 description: "Learn how Chrome's Sanitizer API provides robust HTML sanitization to protect against XSS attacks. Discover how to safely render user-generated content witho..."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-sanitizer-api-html-safe
 categories: [chrome, security, web-development, tips]
 tags: [chrome-sanitizer-api-html-safe, sanitizer-api, html-sanitization, xss-protection, web-security]

@@ -3,7 +3,7 @@ layout: post
 title: "Chrome OS vs Windows for Basic Use"
 description: "A practical guide comparing Chrome OS and Windows for everyday tasks. Check out our complete 2026 guide for more details and professional advice on managing ..."
 date: 2026-01-20
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-os-vs-windows-for-basic-use
 categories: 
 tags: 

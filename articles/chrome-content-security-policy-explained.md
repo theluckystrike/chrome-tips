@@ -1,8 +1,11 @@
 ---
+layout: post
 title: "Chrome Content Security Policy Explained: A Complete Guide"
-description: "Learn how Chrome's Content Security Policy protects you from web vulnerabilities and how to configure it for safer browsing."
+description: "Learn how Chrome's Content Security Policy protects you from web vulnerabilities and how to configure it for safer browsing. Check out our complete 2026 guid..."
+date: 2026-03-12
+last_modified_at: 2026-03-11
+permalink: chrome-content-security-policy-explained
 ---
-
 If you've ever encountered a message in Chrome warning you about blocked scripts or resources, you've witnessed Content Security Policy (CSP) in action. This powerful security mechanism is one of the most effective tools browsers use to protect users from cross-site scripting attacks and data injection vulnerabilities. Understanding Chrome's Content Security Policy can help you appreciate the layers of protection keeping your browsing experience secure.
 
 ## What Is Content Security Policy?

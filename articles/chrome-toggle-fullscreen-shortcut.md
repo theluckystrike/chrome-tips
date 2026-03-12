@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Toggle Fullscreen Shortcut"
 description: "Quickly learn how to toggle fullscreen on and off in Chrome using simple keyboard shortcuts. Check out our complete 2026 guide for more details and professio..."
 date: 2025-03-14
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-toggle-fullscreen-shortcut
 categories: [features, productivity]
 tags: [fullscreen, shortcuts, toggle, keyboard, chrome-features]

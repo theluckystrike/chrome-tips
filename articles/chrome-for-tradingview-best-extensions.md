@@ -3,7 +3,7 @@ layout: post
 title: "chrome for tradingview best extensions"
 description: "Find the best Chrome extensions for TradingView to improve your trading workflow, manage tabs, and boost productivity. Check out our complete 2026 guide for ..."
 date: 2025-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-tradingview-best-extensions
 categories: [extensions, trading, productivity]
 tags: [chrome-extensions, tradingview, trading, browser-productivity]

@@ -1,20 +1,14 @@
 ---
 layout: post
-title: Best Chrome Extensions for Language Learning
-description: Looking for the best Chrome extensions for language learning? Discover top tools to help you study vocabulary, grammar, and more while browsing. Find out more t
-date: '2026-03-10'
-categories:
-- language-learning
-- tips
-tags:
-- chrome-extensions
-- language-learning
-- education
+title: "Best Chrome Extensions for Language Learning"
+description: "Looking for the best Chrome extensions for language learning? Discover top tools to help you study vocabulary, grammar, and more while browsing. Find out more t"
+date: 2026-03-10
+last_modified_at: 2026-03-12
+permalink: best-chrome-extensions-for-language-learning
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: /articles/best-chrome-extensions-for-language-learning/
 ---
-
 # Best Chrome Extensions for Language Learning
 
 If you're looking for the **best Chrome extensions for language learning**, you likely want tools that help you practice without disrupting your daily routine. Learning a new language is a major commitment, but the right browser extensions can bring vocabulary practice, instant translations, and grammar help directly into your normal web browsing experience.

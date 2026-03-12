@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Lighthouse Audit for Website Speed: Complete Guide"
 description: "Learn how to use Chrome Lighthouse audit to measure and improve your website speed with detailed performance analysis and optimization tips. Check out our co..."
 date: 2026-01-20
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-lighthouse-audit-website-speed
 categories: [web-development, performance, chrome]
 tags: [lighthouse, chrome-devtools, performance, website-speed, page-load, optimization]

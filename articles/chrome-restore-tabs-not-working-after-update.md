@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Restore Tabs Not Working After Update: Practical Fixes"
 description: "Chrome restore tabs not working after update? Learn why Chrome updates break tab restoration on slow computers and how to fix it with simple solutions."
 date: 2026-03-11
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-restore-tabs-not-working-after-update
 categories: [troubleshooting, chrome, tips]
 tags: [chrome-restore-tabs, chrome-update, browser-tabs, chrome-fix, slow-computer]

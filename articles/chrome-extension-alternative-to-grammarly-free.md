@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Extension Alternative to Grammarly Free"
-description: "Looking for a chrome extension alternative to grammarly free? Here are the best options that help you write better without paying."
+description: "Looking for a chrome extension alternative to grammarly free? Here are the best options that help you write better without paying. Check out our complete 202..."
 date: 2026-03-09
+last_modified_at: 2026-03-10
+permalink: chrome-extension-alternative-to-grammarly-free
 categories: [writing, tips]
 tags: [chrome-extensions, grammarly, grammar, writing, productivity, free]
 author: theluckystrike
 ---
-
 # Chrome Extension Alternative to Grammarly Free
 
 If you are looking for a chrome extension alternative to grammarly free, you have probably noticed that Grammarly premium can get expensive over time. Many people want to improve their writing without paying monthly fees, and fortunately there are several solid options available.

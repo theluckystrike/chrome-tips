@@ -3,7 +3,7 @@ layout: post
 title: "How to Use Chrome Without a Google Account"
 description: "Learn how to use Chrome without signing into a Google account. Keep your browsing private with these simple setup steps. Check out our complete 2026 guide fo..."
 date: 2025-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: how-to-use-chrome-without-google-account
 categories: [privacy, features]
 tags: [chrome-without-google, privacy, no-account, chrome-setup]

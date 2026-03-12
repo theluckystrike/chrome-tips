@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Reset All Settings: What Gets Deleted"
 description: "Learn exactly what data is removed when you reset Chrome settings, including extensions, passwords, and browsing history. Check out our complete 2026 guide f..."
 date: 2026-03-12
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-reset-all-settings-what-gets-deleted
 ---
 Chrome reset all settings what gets deleted is probably on your mind if you are thinking about resetting your browser. Whether you are dealing with a slow browser, too many extensions causing problems, or you just want a fresh start, it helps to know exactly what will disappear when you hit that reset button. Let me walk you through everything that gets removed and what stays safe.

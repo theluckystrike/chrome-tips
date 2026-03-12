@@ -3,7 +3,7 @@ layout: post
 title: "chrome for anki web flashcards setup"
 description: "Learn how to set up Chrome for Anki web flashcards to study more efficiently. Tips for managing tabs and improving your study sessions. Check out our complet..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-anki-web-flashcards-setup
 categories: [productivity, study-tools]
 tags: [anki, chrome, flashcards, study, browser]

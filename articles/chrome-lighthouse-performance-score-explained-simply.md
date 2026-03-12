@@ -3,7 +3,7 @@ layout: post
 title: "chrome lighthouse performance score explained simply"
 description: "Understand what Chrome Lighthouse performance scores mean, why they matter, and how to improve your score with practical steps. Check out our complete 2026 g..."
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-lighthouse-performance-score-explained-simply
 categories: [tools, performance]
 tags: [lighthouse, performance, score, website-speed]

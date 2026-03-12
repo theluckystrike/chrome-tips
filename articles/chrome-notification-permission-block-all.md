@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Notification Permission Block All: Complete Guide"
 description: "Learn how to block all notification permissions in Chrome. Step-by-step guide to stop unwanted notifications and take control of your browser. Check out our ..."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-notification-permission-block-all
 categories: [privacy, chrome, notifications]
 tags: [chrome-notifications, permissions, privacy, browser-settings]

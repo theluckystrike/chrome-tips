@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Journeys Feature in History Explained"
 description: "Learn about Chrome Journeys, the AI-powered feature that groups your Check out our complete 2026 guide for more details and professional advice on managing y..."
 date: 2025-03-10
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-journeys-feature-in-history-explained
 categories: 
 tags: 

@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Citation Manager Extensions"
 description: "Find the best Chrome citation manager extensions to organize your research and create bibliographies easily. Check out our complete 2026 guide for more detai..."
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-citation-manager-extensions
 categories: [productivity, research]
 tags: [chrome-extensions, citation-manager, bibliography, research-tools]

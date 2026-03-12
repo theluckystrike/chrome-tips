@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Amazon Seller Central Tips"
 description: "Learn how to optimize Chrome for Amazon Seller Central with these practical tips to speed up your workflow and manage more efficiently. Check out our complet..."
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-amazon-seller-central-tips
 categories: [productivity, business, amazon-selling]
 tags: [chrome, amazon-seller-central, productivity, browser-tips, seller-tools]

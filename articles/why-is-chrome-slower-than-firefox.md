@@ -3,7 +3,7 @@ layout: post
 title: "Why Is Chrome Slower Than Firefox?"
 description: "Chrome feels slower than Firefox for many users. Here's why this happens and what you can do about it. Check out our complete 2026 guide for more details and..."
 date: 2025-02-21
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: why-is-chrome-slower-than-firefox
 categories: [comparison, performance]
 tags: [chrome-vs-firefox, browser-speed, performance, memory-usage]

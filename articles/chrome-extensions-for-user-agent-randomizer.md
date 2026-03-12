@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Extensions for User Agent Randomizer"
 description: "Looking for chrome extensions for user agent randomizer? Find the best tools to change your browser identity and improve privacy. Check out our complete 2026..."
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-user-agent-randomizer
 categories: [privacy, browsing]
 tags: [chrome-extensions, user-agent, privacy, browser-identity]

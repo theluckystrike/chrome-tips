@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Extensions for Reverse Video Search"
 description: "Looking for chrome extensions for reverse video search? Find the best tools to identify videos and find their sources online. Check out our complete 2026 gui..."
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-reverse-video-search
 categories: [productivity, tools]
 tags: [chrome-extensions, reverse-search, video-tools, content-discovery]

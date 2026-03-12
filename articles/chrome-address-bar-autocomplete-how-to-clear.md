@@ -1,15 +1,14 @@
 ---
+layout: post
 title: "Chrome Address Bar Autocomplete How to Clear"
 description: "Learn how to clear Chrome address bar autocomplete suggestions and take control of your browsing privacy with simple steps. Check out our expert recommendations"
-date: "2026-03-09"
-last_modified_at: "2026-03-12"
-permalink: "chrome-address-bar-autocomplete-how-to-clear"
-layout: "post"
-categories: "[privacy]"
-tags: "[address-bar, chrome-settings, autocomplete, privacy]"
-author: "theluckystrike"
+date: 2026-03-09
+last_modified_at: 2026-03-12
+permalink: chrome-address-bar-autocomplete-how-to-clear
+categories: [privacy]
+tags: [address-bar, chrome-settings, autocomplete, privacy]
+author: theluckystrike
 ---
-
 # Chrome Address Bar Autocomplete How to Clear
 
 Chrome's address bar—officially known as the Omnibox—is a sophisticated tool that predicts what you're looking for as you type. It draws suggestions from five primary sources: your browsing history, your bookmarks, your currently open tabs, synced data from your other devices, and trending search queries from Google’s servers. While this is often a major time-saver, it can also lead to privacy concerns, especially if you share your computer or give presentations where your address bar is visible.

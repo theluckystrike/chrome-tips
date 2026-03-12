@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Mute Tab Shortcut Explained"
 description: "Learn how to quickly mute and unmute audio in Chrome tabs using keyboard shortcuts. Stop annoying auto-playing videos with these simple tricks. Check out our..."
 date: 2026-03-11
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-mute-tab-shortcut-explained
 categories: [features, productivity]
 tags: [chrome-shortcuts, chrome-tips, audio, productivity]

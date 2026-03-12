@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Pinned Tabs Explained"
 description: "Learn what chrome pinned tabs are, why they help, and how to use them effectively to stay organized. Check out our complete 2026 guide for more details and p..."
 date: 2026-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-pinned-tabs-explained
 categories: [productivity, tips]
 tags: [chrome-pinned-tabs, tab-management, browser-tips, chrome-tips]

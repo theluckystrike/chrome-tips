@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Usage Statistics Sharing Should I Opt Out"
 description: "Learn what Chrome usage statistics sharing means, why Google collects this data, and whether you should opt out for privacy reasons. Check out our complete 2..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-usage-statistics-sharing-should-i-opt-out
 categories: [privacy, security]
 tags: [chrome, privacy, usage-statistics, data-sharing]

@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Not Responding Force Close and Recover"
 description: "Chrome not responding force close and recover. Learn how to safely force close Chrome, recover your tabs, and prevent future freezes. Check out our complete ..."
 date: 2026-01-15
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-not-responding-force-close-and-recover
 categories: [troubleshooting, performance]
 tags: [chrome-not-responding, force-close, browser-freeze, recover-tabs, chrome-crash]

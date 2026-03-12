@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Omnibox Search Tricks Most People Dont Know"
 description: "Discover hidden Chrome omnibox search tricks that can transform how you browse. Learn simple tips to search faster and work more efficiently. Check out our c..."
 date: 2025-02-20
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-omnibox-search-tricks-most-people-dont-know
 categories: [productivity, tips]
 tags: [chrome-omnibox, chrome-tips, browser-tips, productivity]

@@ -3,7 +3,7 @@ layout: post
 title: "How to Save Webpages as MHTML Files in Chrome for Offline Viewing"
 description: "Learn how to save webpages as MHTML files in Chrome to view them offline. Complete guide covering built-in options, extensions, and best practices. Check out..."
 date: 2026-03-11
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-save-webpage-as-mhtml-offline
 categories: [chrome, offline, mhtml, saving]
 tags: [chrome-save-page, mhtml-format, offline-browsing, browser-tips]

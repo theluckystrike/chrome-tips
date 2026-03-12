@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Lite Mode on Android: What Happened"
 description: "Chrome Lite Mode on Android was a data-saving feature that compressed pages. Learn what happened to it and what alternatives you can use now. Check out our c..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-lite-mode-on-android-what-happened
 categories: [android, performance]
 tags: [chrome-lite-mode, android, mobile-browser, data-saving]

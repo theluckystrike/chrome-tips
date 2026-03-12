@@ -1,15 +1,14 @@
 ---
+layout: post
 title: "Chrome Accessibility Screen Reader Support"
 description: "Fix Chrome screen reader issues with practical solutions. Specific settings, version requirements, and per-reader troubleshooting for JAWS, NVDA, VoiceOver, ..."
-date: "2025-03-11"
-last_modified_at: "2026-03-12"
-permalink: "chrome-accessibility-screen-reader-support"
-layout: "post"
-categories: "[accessibility, chrome, screen-reader]"
-tags: "[chrome, accessibility, screen-reader, support]"
-author: "theluckystrike"
+date: 2025-03-11
+last_modified_at: 2026-03-12
+permalink: chrome-accessibility-screen-reader-support
+categories: [accessibility, chrome, screen-reader]
+tags: [chrome, accessibility, screen-reader, support]
+author: theluckystrike
 ---
-
 # Chrome Accessibility Screen Reader Support
 
 Chrome works with 4 major screen readers: JAWS and NVDA on Windows, VoiceOver on macOS and iOS, and ChromeVox on Chrome OS. Each reader interacts with Chrome differently, and most problems come down to version mismatches, missing settings, or poorly coded websites. Here is how to get each one working properly.

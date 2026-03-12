@@ -3,7 +3,7 @@ layout: post
 title: "chrome for github best extensions"
 description: "Discover the best Chrome extensions for GitHub to boost your coding workflow, manage repositories, and streamline your development process. Check out our com..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-github-best-extensions
 categories: [extensions, development]
 tags: [github, chrome-extension, developer-tools, productivity]

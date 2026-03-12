@@ -3,7 +3,7 @@ layout: post
 title: "Why Is Chrome So Slow on My Computer?"
 description: "Chrome running slowly? This guide explains the common reasons why Chrome slows down and provides practical solutions to speed it up. Check out our complete 2..."
 date: 2026-01-15
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: why-is-chrome-so-slow-on-my-computer
 categories: [performance, troubleshooting]
 tags: [chrome-slow, browser-speed, computer-performance, chrome-fixes]

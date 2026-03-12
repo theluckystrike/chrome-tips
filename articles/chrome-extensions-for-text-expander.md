@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Extensions for Text Expander"
 description: "Learn how chrome extensions for text expander can save you hours every week by automating repetitive typing tasks. Check out our complete 2026 guide for more..."
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-text-expander
 categories: [productivity, tips]
 tags: [chrome-extensions, productivity, text-expander]

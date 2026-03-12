@@ -3,7 +3,7 @@ layout: post
 title: "chrome vs firefox for privacy 2026"
 description: "Compare Chrome and Firefox privacy features for 2026. Learn which browser better protects your data and how to improve your privacy. Check out our complete 2..."
 date: 2026-01-20
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-vs-firefox-for-privacy-2026
 categories: [privacy, browser]
 tags: [chrome, firefox, privacy, browser-comparison, security]

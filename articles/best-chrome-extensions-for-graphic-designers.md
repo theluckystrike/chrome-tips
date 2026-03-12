@@ -1,21 +1,14 @@
 ---
 layout: post
-title: Best Chrome Extensions for Graphic Designers
-description: Discover the best chrome extensions for graphic designers to streamline your workflow, manage colors, and boost productivity. Find out more tips on how to optim
-date: '2026-01-15'
-categories:
-- productivity
-- chrome-tips
-tags:
-- chrome
-- graphic-design
-- extensions
-- tools
+title: "Best Chrome Extensions for Graphic Designers"
+description: "Discover the best chrome extensions for graphic designers to streamline your workflow, manage colors, and boost productivity. Find out more tips on how to optim"
+date: 2026-01-15
+last_modified_at: 2026-03-12
+permalink: best-chrome-extensions-for-graphic-designers
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: /articles/best-chrome-extensions-for-graphic-designers/
 ---
-
 # Best Chrome Extensions for Graphic Designers
 
 Searching for the **best chrome extensions for graphic designers** is a great way to speed up your creative workflow and better manage the many resources you use every day. From sampling colors to identifying fonts and organizing inspiration, the right browser tools can transform Chrome into a powerful productivity hub tailored specifically for design work.

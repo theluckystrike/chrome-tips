@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Stock Market Tracking Extensions"
 description: "Looking for chrome for stock market tracking extensions? Find the best tools to monitor stocks, set alerts, and track your portfolio. Check out our complete ..."
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-stock-market-tracking-extensions
 categories: [productivity, finance]
 tags: [chrome-extensions, stock-market, portfolio-tracking, finance-tools]

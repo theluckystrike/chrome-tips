@@ -3,7 +3,7 @@ layout: post
 title: "chrome privacy sandbox explained for users"
 description: "Understanding Chrome Privacy Sandbox: what it is, how it changes your browsing, and what it means for your privacy. Check out our complete 2026 guide for mor..."
 date: 2026-01-20
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-privacy-sandbox-explained-for-users
 categories: [privacy, chrome]
 tags: [chrome-privacy-sandbox, privacy-sandbox, chrome-privacy, tracking, user-privacy]

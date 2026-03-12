@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Slack Web App Best Settings"
 description: "Optimize Chrome for the Slack web app with these settings for better Check out our complete 2026 guide for more details and professional advice on managing y..."
 date: 2025-03-10
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-for-slack-web-app-best-settings
 categories: 
 tags: 

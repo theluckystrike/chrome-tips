@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Slow After Windows Update Fix"
 description: "Is Chrome running slow after a Windows update? Here are practical solutions to speed up your browser and get things working smoothly again. Check out our com..."
 date: 2025-02-16
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-slow-after-windows-update-fix
 categories: [performance, windows]
 tags: [chrome-slow, windows-update, browser-performance, speed-up]

@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Web Animation API Explained"
 description: "Discover what the Chrome Web Animation API is, how it works, and why it makes websites feel smoother and more responsive. Check out our complete 2026 guide f..."
 date: 2026-03-12
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-web-animation-api-explained
 ---
 If you have ever searched for "chrome web animation api explained," you might have encountered this term while exploring browser features or reading about web development. The Web Animation API is a powerful tool that makes the websites you visit feel more alive and responsive, and understanding it helps you appreciate the work that goes into creating smooth web experiences.

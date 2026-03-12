@@ -3,7 +3,7 @@ layout: post
 title: "chrome for apple music web player tips"
 description: "Get the most out of Apple Music in Chrome with these practical tips for Check out our complete 2026 guide for more details and professional advice on managin..."
 date: 2025-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-for-apple-music-web-player-tips
 categories: 
 tags: 

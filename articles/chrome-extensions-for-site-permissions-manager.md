@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Extensions for Site Permissions Manager"
 description: "Learn how Chrome extensions for site permissions manager help you control Check out our complete 2026 guide for more details and professional advice on manag..."
 date: 2026-03-09
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-site-permissions-manager
 categories: 
 tags: 

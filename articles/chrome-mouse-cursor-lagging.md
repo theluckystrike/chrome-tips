@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Mouse Cursor Lagging Fix"
 description: "Is your mouse cursor stuttering in Chrome? Practical solutions for slow computers with limited RAM to fix cursor lag and get smooth browsing. Check out our c..."
 date: 2026-03-11
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-mouse-cursor-lagging
 categories: [performance, browser]
 tags: [chrome, mouse, cursor, lagging, performance, browser-speed]

@@ -3,7 +3,7 @@ layout: post
 title: "chrome for geforce now best settings"
 description: "Optimize Chrome for GeForce Now with these best settings to reduce latency, improve streaming quality, and enjoy smoother gameplay. Check out our complete 20..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-geforce-now-best-settings
 categories: [browsers, gaming, streaming]
 tags: [chrome, geforce-now, nvidia, gaming, browser-settings]

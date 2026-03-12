@@ -3,7 +3,7 @@ layout: post
 title: "chrome on linux best version 2026"
 description: "Find the best Chrome version for Linux in 2026. Learn how to choose the right Chrome version for smooth and secure browsing on your Linux system. Check out o..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-on-linux-best-version-2026
 categories: [browsers, linux]
 tags: [chrome, linux, browser, best-version]

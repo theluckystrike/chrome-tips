@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Service Workers List How to View"
 description: "Learn how to view all service workers running in Chrome, why they matter, Check out our complete 2026 guide for more details and professional advice on manag..."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-service-workers-list-how-to-view
 categories: 
 tags: 

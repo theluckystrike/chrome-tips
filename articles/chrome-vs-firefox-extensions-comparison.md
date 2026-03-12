@@ -3,7 +3,7 @@ layout: post
 title: "chrome vs firefox extensions comparison"
 description: "Compare Chrome and Firefox extensions. Learn which browser offers better add-ons, performance, and compatibility for your needs. Check out our complete 2026 ..."
 date: 2026-01-20
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-vs-firefox-extensions-comparison
 categories: [extensions, browser]
 tags: [chrome, firefox, extensions, browser-comparison, add-ons]

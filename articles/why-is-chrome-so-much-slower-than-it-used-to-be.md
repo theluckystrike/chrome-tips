@@ -3,7 +3,7 @@ layout: post
 title: "Why Is Chrome So Much Slower Than It Used to Be"
 description: "Is Chrome slower than before? Learn why it happens and how to speed it up with simple fixes anyone can try. Check out our complete 2026 guide for more detail..."
 date: 2026-03-09
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: why-is-chrome-so-much-slower-than-it-used-to-be
 categories: [performance, troubleshooting]
 tags: [chrome-slow, browser-performance, chrome-speed]

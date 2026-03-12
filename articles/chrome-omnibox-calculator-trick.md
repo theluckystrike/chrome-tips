@@ -3,7 +3,7 @@ layout: post
 title: "The Chrome Omnibox Calculator Trick: Quick Math Without Leaving Your Browser"
 description: "Discover how to use Chrome's address bar as a calculator. This hidden feature lets you perform calculations instantly without opening a separate app. Perfect..."
 date: 2026-01-20
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-omnibox-calculator-trick
 categories: [chrome, tips, productivity]
 tags: [chrome-tips, omnibox, calculator, productivity, browser-tricks]

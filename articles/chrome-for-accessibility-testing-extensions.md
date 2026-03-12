@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Accessibility Testing Extensions"
 description: "Discover Chrome extensions that help test and improve web accessibility. Make your websites usable for everyone. Check out our complete 2026 guide for more d..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-accessibility-testing-extensions
 categories: [accessibility, extensions, chrome]
 tags: [chrome-extensions, accessibility-testing, web-accessibility, browser]

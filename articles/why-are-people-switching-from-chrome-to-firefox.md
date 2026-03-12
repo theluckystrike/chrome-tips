@@ -3,7 +3,7 @@ layout: post
 title: "Why Are People Switching from Chrome to Firefox"
 description: "Many users are moving from Chrome to Firefox. Here's what's driving this browser shift and what you can do about it. Check out our complete 2026 guide for mo..."
 date: 2025-02-21
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: why-are-people-switching-from-chrome-to-firefox
 categories: [comparison, performance]
 tags: [chrome-vs-firefox, browser-switching, privacy, memory]

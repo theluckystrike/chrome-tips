@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Source Maps Explained Simply"
 description: "Learn what source maps are in Chrome, why websites use them, and how they make debugging easier for developers and users. Check out our complete 2026 guide f..."
 date: 2025-03-12
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-source-maps-explained-simply
 categories: [features, developer-tools]
 tags: [source-maps, debugging, chrome-devtools, web-development]

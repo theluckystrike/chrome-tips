@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Open Settings Shortcut"
 description: "Discover the fastest ways to open Chrome settings using keyboard shortcuts and simple methods. Check out our complete 2026 guide for more details and profess..."
 date: 2026-01-20
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-open-settings-shortcut
 categories: [productivity, tips]
 tags: [chrome, settings, shortcut, keyboard-shortcut]

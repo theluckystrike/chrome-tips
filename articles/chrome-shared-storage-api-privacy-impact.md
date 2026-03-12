@@ -3,7 +3,7 @@ layout: post
 title: "chrome shared storage api privacy impact"
 description: "Learn about Chrome's Shared Storage API privacy impact and what it means for your browsing data and online privacy. Check out our complete 2026 guide for mor..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-shared-storage-api-privacy-impact
 categories: [privacy, chrome, api]
 tags: [chrome, privacy, shared-storage, api, browser]

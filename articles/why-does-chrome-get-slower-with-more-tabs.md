@@ -3,7 +3,7 @@ layout: post
 title: "Why Does Chrome Get Slower With More Tabs? A Practical Guide"
 description: "Chrome slowing down with more tabs? We explain why this happens and provide step-by-step solutions to restore your browser's speed. Check out our complete 20..."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: why-does-chrome-get-slower-with-more-tabs
 categories: [performance, browsers, troubleshooting]
 tags: [chrome-slow, chrome-tabs, chrome-performance, chrome-memory, tab-management]

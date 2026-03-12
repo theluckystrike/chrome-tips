@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Mendeley Web Importer Tips"
 description: "Practical tips for using Chrome with Mendeley Web Importer to manage your research papers efficiently and stay organized. Check out our complete 2026 guide f..."
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-mendeley-web-importer-tips
 categories: [research, tips]
 tags: [chrome, mendeley, web-importer, research-tools]

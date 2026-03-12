@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Source Maps Configuration Guide"
 description: "Master Chrome source maps configuration: learn about inline source maps, external source maps, webpack source maps setup, and how to debug minified JavaScrip..."
 date: 2025-03-12
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-source-maps-guide
 categories: [features, developer-tools]
 tags: [source-maps, debugging, chrome-devtools, webpack, minified-code, web-development, javascript-debugging]

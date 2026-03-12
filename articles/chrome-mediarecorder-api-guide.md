@@ -3,7 +3,7 @@ layout: post
 title: "Chrome MediaRecorder API Guide"
 description: "Learn how to use the Chrome MediaRecorder API for audio, video, and screen recording in web applications. Complete guide covering MediaStream handling, encod..."
 date: 2026-01-20
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-mediarecorder-api-guide
 categories: [development, chrome, api, media]
 tags: [mediarecorder, chrome-api, audio-recording, video-recording, screen-recording, browser-api]

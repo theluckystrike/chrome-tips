@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Notifications for One Site How to Manage"
 description: "Getting annoying notifications from just one website? Learn how to manage Check out our complete 2026 guide for more details and professional advice on manag..."
 date: 2026-03-09
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-notifications-for-one-site-how-to-manage
 ---
 Chrome notifications for one site how to manage is something many Chrome users find themselves searching for after being overwhelmed by constant alerts from a particular website. Whether it is a news site that keeps pinging you, a web app sending endless reminders, or a service that suddenly started asking for permission to send notifications, dealing with this issue is more common than you might think. The good news is that Chrome gives you straightforward ways to take back control, and you do not need any technical knowledge to fix it.

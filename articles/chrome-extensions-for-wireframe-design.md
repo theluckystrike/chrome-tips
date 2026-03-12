@@ -3,7 +3,7 @@ layout: post
 title: "chrome extensions for wireframe design"
 description: "Discover the best Chrome extensions for wireframe design to speed up your workflow, organize prototypes, and collaborate with your team. Check out our comple..."
 date: 2026-03-12
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-wireframe-design
 ---
 If you are a designer or developer who works with wireframes, you have probably experienced the frustration of juggling multiple browser tabs while trying to stay in your creative flow. Chrome extensions for wireframe design can make a huge difference by bringing essential tools directly into your browser and eliminating the need to switch between different applications constantly.

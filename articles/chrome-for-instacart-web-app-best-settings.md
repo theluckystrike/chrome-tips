@@ -3,7 +3,7 @@ layout: post
 title: "chrome for instacart web app best settings"
 description: "Get the best Chrome settings for Instacart web app. Speed up performance, reduce memory usage, and shop more efficiently. Check out our complete 2026 guide f..."
 date: 2025-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-instacart-web-app-best-settings
 categories: [browser, productivity]
 tags: [chrome, instacart, settings, web-app]

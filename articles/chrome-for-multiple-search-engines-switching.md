@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Multiple Search Engines Switching"
 description: "Learn how to use Chrome with multiple search engines and switch between them easily for better browsing. Check out our complete 2026 guide for more details a..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-multiple-search-engines-switching
 categories: [search, productivity]
 tags: [chrome, search-engines, browser-tips]

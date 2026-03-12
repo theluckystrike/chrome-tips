@@ -3,7 +3,7 @@ layout: post
 title: "chrome protected audience api explained"
 description: "A simple guide to Chrome Protected Audience API, what it does, how it affects your privacy, and what you can do to control it. Check out our complete 2026 gu..."
 date: 2026-01-20
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-protected-audience-api-explained
 categories: [privacy, chrome, advertising]
 tags: [protected-audience-api, chrome-privacy, fledge, advertising, tracking]

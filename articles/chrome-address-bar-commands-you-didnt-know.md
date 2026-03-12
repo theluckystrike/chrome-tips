@@ -1,15 +1,14 @@
 ---
+layout: post
 title: "Chrome Address Bar Commands You Didnt Know"
 description: "Discover hidden Chrome address bar commands that can speed up your browsing and boost productivity instantly. Check out our expert recommendations and step-by-s"
-date: "2026-03-10"
-last_modified_at: "2026-03-12"
-permalink: "chrome-address-bar-commands-you-didnt-know"
-layout: "post"
-categories: "[features, productivity]"
-tags: "[chrome-commands, address-bar, omnibox, chrome-tips, productivity]"
-author: "theluckystrike"
+date: 2026-03-10
+last_modified_at: 2026-03-12
+permalink: chrome-address-bar-commands-you-didnt-know
+categories: [features, productivity]
+tags: [chrome-commands, address-bar, omnibox, chrome-tips, productivity]
+author: theluckystrike
 ---
-
 # Chrome Address Bar Commands You Didnt Know
 
 Chrome's address bar—officially known as the Omnibox—is more than just a place to type website URLs. It is a powerful, multi-purpose tool that can perform complex calculations, search internal settings, and even act as a command-line interface for your browser. Most users only ever use it for basic searching, but once you unlock its full potential, your browsing efficiency will skyrocket.

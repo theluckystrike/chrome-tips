@@ -3,7 +3,7 @@ layout: post
 title: "chrome stale while revalidate strategy explained"
 description: "Understanding Chrome stale-while-revalidate caching strategy and how it speeds up your browsing experience. Check out our complete 2026 guide for more detail..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-stale-while-revalidate-strategy-explained
 categories: [browser, caching, performance]
 tags: [chrome, caching, performance, stale-while-revalidate, browser]

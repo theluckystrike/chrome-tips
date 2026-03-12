@@ -3,7 +3,7 @@ layout: post
 title: "chrome for google finance tips"
 description: "Learn how to use Chrome for Google Finance more effectively with these practical tips for tracking stocks and managing your portfolio. Check out our complete..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-google-finance-tips
 categories: [tips, google-finance]
 tags: [google-finance, chrome, stocks, finance, tips]

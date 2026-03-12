@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Reading List on Phone How to Use"
 description: "Learn how to use Chrome reading list on your phone to save articles for later and access them offline. Check out our complete 2026 guide for more details and..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-reading-list-on-phone-how-to-use
 categories: [chrome, mobile, tips]
 tags: [chrome-reading-list, mobile-browser, reading-list, android, iphone]

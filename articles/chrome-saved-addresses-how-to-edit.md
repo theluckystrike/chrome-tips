@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Saved Addresses How to Edit"
 description: "Learn how to edit saved addresses in Chrome, fix common issues, and manage your address autofill settings easily. Check out our complete 2026 guide for more ..."
 date: 2025-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-saved-addresses-how-to-edit
 categories: [tips, privacy]
 tags: [chrome-saved-addresses, chrome-autofill, address-management, chrome-tips]

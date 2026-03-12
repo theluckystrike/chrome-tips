@@ -3,7 +3,7 @@ layout: post
 title: "chrome trusted types dom xss prevent"
 description: "Learn how to use Chrome Trusted Types to prevent DOM XSS vulnerabilities Check out our complete 2026 guide for more details and professional advice on managi..."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-trusted-types-dom-xss-prevent
 categories: 
 tags: 

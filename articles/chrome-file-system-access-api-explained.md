@@ -3,7 +3,7 @@ layout: post
 title: "chrome file system access api explained"
 description: "Learn what the Chrome File System Access API is, how it works, and how it affects your browser experience. Check out our complete 2026 guide for more details..."
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-file-system-access-api-explained
 categories: [features, security]
 tags: [file-system, api, chrome-features]

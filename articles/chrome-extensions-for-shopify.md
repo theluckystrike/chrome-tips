@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Extensions for Shopify"
 description: "Discover the best chrome extensions for Shopify to streamline your store Check out our complete 2026 guide for more details and professional advice on managi..."
 date: 2026-03-09
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-shopify
 categories: 
 tags: 

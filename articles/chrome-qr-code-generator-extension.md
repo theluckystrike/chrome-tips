@@ -3,7 +3,7 @@ layout: post
 title: "Chrome QR Code Generator Extension"
 description: "Looking for a Chrome QR code generator extension? Learn how to create QR codes directly in your browser and what options work best. Check out our complete 20..."
 date: 2026-03-05
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-qr-code-generator-extension
 categories: [tools, productivity]
 tags: [qr-code, chrome-extension, browser-tools, qr-generator]

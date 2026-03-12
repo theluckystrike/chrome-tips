@@ -3,7 +3,7 @@ layout: post
 title: "How to Dictate Text in Chrome"
 description: "Learn how to dictate text in Chrome using built-in voice typing. Easy steps for hands-free typing on desktop and mobile. Check out our complete 2026 guide fo..."
 date: 2025-03-12
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: how-to-dictate-text-in-chrome
 categories: [features, accessibility]
 tags: [dictation, voice-typing, hands-free, chrome-features]

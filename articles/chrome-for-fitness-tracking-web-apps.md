@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Fitness Tracking Web Apps"
 description: "Using Chrome effectively for fitness tracking web apps. Tips for managing multiple fitness apps, reducing memory usage, and staying organized. Check out our ..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-fitness-tracking-web-apps
 categories: [chrome, fitness, productivity]
 tags: [chrome, fitness-tracking, web-apps, browser-tips]

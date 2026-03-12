@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Password Checkup Tool Guide"
 description: "Learn how to use Chrome's built-in Password Checkup tool to find compromised passwords, weak passwords, and detect password reuse across your accounts."
 date: 2026-01-20
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-password-checkup-tool
 categories: [security, passwords, chrome]
 tags: [chrome-password-checkup, password-security, compromised-passwords, weak-passwords]

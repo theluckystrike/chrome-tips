@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Slow on Windows 10 Old Laptop Fix"
 description: "Is Chrome running slow on your older Windows 10 laptop? Discover practical solutions to speed up your browser and get back to smooth browsing. Check out our ..."
 date: 2025-02-17
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-slow-on-windows-10-old-laptop-fix
 categories: [performance, windows, hardware]
 tags: [chrome-slow, windows-10, old-laptop, fix]

@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Duolingo Web App Optimization"
 description: "Learn how to make Chrome run Duolingo faster with practical tips and extensions that reduce memory usage and improve performance. Check out our complete 2026..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-duolingo-web-app-optimization
 categories: [performance, browser-tips, education-apps]
 tags: [chrome, duolingo, web-app, optimization, memory]

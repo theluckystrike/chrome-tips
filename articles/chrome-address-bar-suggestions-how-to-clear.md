@@ -1,22 +1,14 @@
 ---
 layout: post
-title: Chrome Address Bar Suggestions How to Clear
-description: Learn how to clear address bar suggestions in Chrome, including trending
-  searches, history matches, and site suggestions. Read our comprehensive guide to
-  lea...
-date: '2026-03-09'
-categories:
-- privacy
-tags:
-- address-bar
-- chrome-settings
-- suggestions
-- privacy
-author: theluckystrike
-last_modified_at: '2026-03-10'
+title: "Chrome Address Bar Suggestions How to Clear"
+description: "Learn how to clear address bar suggestions in Chrome, including trending Check out our complete 2026 guide for more details and professional advice on managi..."
+date: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-suggestions-how-to-clear
+categories: 
+tags: 
+author: theluckystrike
 ---
-
 # Chrome Address Bar Suggestions How to Clear
 
 Chrome's address bar (the Omnibox) shows up to 8 suggestions in the dropdown as you type. These are designed to help you navigate faster, but they can also feel intrusive or display outdated information. These suggestions come from several different sources—some local to your computer and some from Google's servers. Here is a breakdown of how to identify and clear each type of suggestion.

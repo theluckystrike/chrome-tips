@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Open Downloads Page Shortcut"
 description: "Learn how to quickly access your downloads in Chrome using keyboard shortcuts and simple methods. Check out our complete 2026 guide for more details and prof..."
 date: 2026-01-17
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-open-downloads-page-shortcut
 categories: [productivity, tips]
 tags: [chrome, downloads, shortcut, keyboard-shortcut]

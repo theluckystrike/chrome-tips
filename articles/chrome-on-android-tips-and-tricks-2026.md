@@ -3,7 +3,7 @@ layout: post
 title: "Chrome on Android — Tips and Tricks for 2026"
 description: "Get more from Chrome on Android. Speed tricks, hidden features, gesture shortcuts, and privacy settings for the best mobile browsing experience. Check out ou..."
 date: 2025-03-16
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-on-android-tips-and-tricks-2026
 categories: [mobile, tips]
 tags: [chrome-android, mobile-tips, android-browser, chrome-tricks]

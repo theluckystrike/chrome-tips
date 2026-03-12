@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Extensions for Therapists and Counselors"
 description: "Discover Chrome extensions that help therapists and counselors manage their practice, protect client data, and improve productivity. Check out our complete 2..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-therapists-and-counselors
 categories: [productivity, extensions, mental-health]
 tags: [chrome-extensions, productivity, therapy, counseling, mental-health]

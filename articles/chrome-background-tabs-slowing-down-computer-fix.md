@@ -1,15 +1,14 @@
 ---
-layout: "post"
+layout: post
 title: "Chrome Background Tabs Slowing Down Computer Fix"
 description: "Is Chrome slowing down your computer? Learn why background tabs consume resources and how to fix the problem with practical solutions. Learn more about optimizi"
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-background-tabs-slowing-down-computer-fix"
+date: 2026-01-15
+last_modified_at: 2026-03-12
+permalink: chrome-background-tabs-slowing-down-computer-fix
 categories: [performance, troubleshooting]
 tags: [chrome-background-tabs, chrome-slow, chrome-memory, browser-performance]
-author: "theluckystrike"
+author: theluckystrike
 ---
-
 # Chrome Background Tabs Slowing Down Computer Fix
 
 If you have ever noticed your computer suddenly running slow while Chrome is open, you might be experiencing chrome background tabs slowing down computer issues. This is a surprisingly common problem that affects millions of users. The good news is that you can fix it with a few simple steps.

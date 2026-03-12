@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Remote Desktop Slow Fix"
 description: "Is Chrome Remote Desktop running slowly? Learn why it happens and what you can do to fix it. Check out our complete 2026 guide for more details and professio..."
 date: 2025-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-remote-desktop-slow-fix
 categories: [remote-work, troubleshooting]
 tags: [chrome-remote-desktop, slow-connection, remote-access]

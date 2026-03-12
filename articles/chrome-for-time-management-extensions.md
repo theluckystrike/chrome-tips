@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Time Management Extensions"
 description: "Learn how Chrome time management extensions can help you stay focused, organized, and make the most of your workday. Check out our complete 2026 guide for mo..."
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-time-management-extensions
 categories: [productivity, time-management]
 tags: [chrome-extensions, time-management, productivity]

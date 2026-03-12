@@ -3,7 +3,7 @@ layout: post
 title: "how to make chrome default browser mac"
 description: "Learn how to make Chrome your default browser on Mac with simple steps. Check out our complete 2026 guide for more details and professional advice on managin..."
 date: 2026-03-10
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: how-to-make-chrome-default-browser-mac
 categories: 
 tags: 

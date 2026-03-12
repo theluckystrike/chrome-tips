@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Chrome Extensions for Google Slides"
-description: "Discover Chrome extensions for Google Slides that solve common presentation problems and boost your productivity."
+description: "Discover Chrome extensions for Google Slides that solve common presentation problems and boost your productivity. Check out our complete 2026 guide for more ..."
+date: 2026-03-12
+last_modified_at: 2026-03-09
+permalink: chrome-extensions-for-google-slides
 ---
-
 Chrome extensions for Google Slides can make a real difference when you are building presentations. If you find yourself juggling too many tabs, waiting for your browser to catch up, or spending too much time on repetitive tasks, the right extension can help. Let me walk you through the most common problems people face and what you can do about them.
 
 ## Why Your Browser Slows Down with Multiple Presentations

@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Cryptocurrency Tracking Extensions"
 description: "Learn how to use Chrome for cryptocurrency tracking extensions to monitor your investments directly in your browser. Check out our complete 2026 guide for mo..."
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-cryptocurrency-tracking-extensions
 categories: [cryptocurrency, tips]
 tags: [chrome-extensions, cryptocurrency, tracking, browser-tools]

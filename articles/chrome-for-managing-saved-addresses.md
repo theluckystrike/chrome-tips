@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Managing Saved Addresses"
 description: "Learn how to use Chrome's built-in tools and extensions to organize and manage your saved addresses efficiently. Check out our complete 2026 guide for more d..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-managing-saved-addresses
 categories: [chrome, productivity, tips]
 tags: [chrome, saved-addresses, browser-tips, productivity]

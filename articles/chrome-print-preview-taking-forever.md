@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Print Preview Taking Forever: Practical Solutions"
 description: "Is Chrome print preview taking forever to load? Learn practical fixes for slow computers with limited RAM. Step-by-step solutions that actually work. Check o..."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-print-preview-taking-forever
 categories: [performance, chrome, troubleshooting]
 tags: [chrome-print-preview, slow-chrome, chrome-performance, print-issues]

@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Not Responding? Force Close It This Way"
 description: "Is Chrome not responding? Learn how to force close Chrome on any device and prevent future freezes with these simple solutions. Check out our complete 2026 g..."
 date: 2026-01-15
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-not-responding-force-close-how
 categories: [troubleshooting, performance]
 tags: [chrome-not-responding, force-close, browser-freeze, chrome-crash]

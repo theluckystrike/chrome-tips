@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Performance Observer API Explained"
 description: "Learn what the Chrome Performance Observer API is, how it works, and how it helps measure browser performance for better user experience. Check out our compl..."
 date: 2026-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-performance-observer-api-explained
 categories: [performance, web-development]
 tags: [chrome-performance, browser-tools, chrome-tips]

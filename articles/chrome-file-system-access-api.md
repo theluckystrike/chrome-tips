@@ -3,7 +3,7 @@ layout: post
 title: "Chrome File System Access API: A Complete Guide"
 description: "Learn how the Chrome File System Access API enables web apps to read, write, and manage local files directly from the browser. Check out our complete 2026 gu..."
 date: 2026-03-11
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-file-system-access-api
 categories: [web-development, tips]
 tags: [chrome-api, file-system, web-development, browser-features]

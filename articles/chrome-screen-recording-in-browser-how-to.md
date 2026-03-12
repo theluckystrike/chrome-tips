@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Screen Recording in Browser How To"
 description: "Learn how to record your screen in Chrome browser with built-in tools and extensions. Simple steps for beginners. Check out our complete 2026 guide for more ..."
 date: 2026-01-20
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-screen-recording-in-browser-how-to
 categories: [tutorials, video-calls]
 tags: [chrome-screen-recording, browser-recording, screen-recording, how-to]

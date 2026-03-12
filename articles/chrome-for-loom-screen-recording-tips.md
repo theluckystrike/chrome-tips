@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Loom Screen Recording Tips"
 description: "Get the best Chrome for Loom screen recording tips. Learn how to improve Check out our complete 2026 guide for more details and professional advice on managi..."
 date: 2026-01-20
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-for-loom-screen-recording-tips
 categories: 
 tags: 

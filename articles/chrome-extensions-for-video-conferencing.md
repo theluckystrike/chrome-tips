@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Extensions for Video Conferencing"
 description: "Discover the best chrome extensions for video conferencing to improve your calls, boost productivity, and solve common meeting problems. Check out our comple..."
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-video-conferencing
 categories: [productivity, tips]
 tags: [chrome-extensions, video-conferencing, meetings, zoom, teams]

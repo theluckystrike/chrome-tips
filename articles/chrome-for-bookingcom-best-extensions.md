@@ -3,7 +3,7 @@ layout: post
 title: "chrome for booking.com best extensions"
 description: "Discover the best Chrome extensions for Booking.com to find better deals, track prices, and organize your travel plans effortlessly. Check out our complete 2..."
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-bookingcom-best-extensions
 categories: [travel, extensions]
 tags: [chrome-extensions, booking-com, travel-planning, price-tracking]

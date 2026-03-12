@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Google Meet Integration in Browser"
 description: "Learn how to integrate Google Meet into Chrome for smoother video calls, better tab management, and improved productivity. Check out our complete 2026 guide ..."
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-google-meet-integration-in-browser
 categories: [productivity, tips]
 tags: [chrome, google-meet, integration, video-calls]

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome DevTools Command Menu Shortcuts"
-description: "Learn how to use Chrome DevTools command menu shortcuts to work faster, access hidden features, and navigate developer tools like a pro."
+description: "Learn how to use Chrome DevTools command menu shortcuts to work faster, access hidden features, and navigate developer tools like a pro. Check out our comple..."
 date: 2025-03-09
+last_modified_at: 2026-03-09
+permalink: chrome-devtools-command-menu-shortcuts
 categories: [productivity, tips]
 tags: [devtools, chrome-tips, developer-tools, shortcuts]
 author: theluckystrike
 ---
-
 # Chrome DevTools Command Menu Shortcuts
 
 If you have ever searched for "chrome devtools command menu shortcuts" to find a faster way to navigate Chrome's developer tools, you are not alone. The command menu is one of the most powerful yet underused features in Chrome DevTools, and it can dramatically speed up your workflow whether you are debugging a website, inspecting elements, or testing responsive designs.

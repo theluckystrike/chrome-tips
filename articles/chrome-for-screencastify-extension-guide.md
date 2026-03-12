@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Screencastify Extension Guide"
 description: "Learn how to use Screencastify with Chrome, set up screen recording, and enhance your workflow with helpful extensions. Check out our complete 2026 guide for..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-screencastify-extension-guide
 categories: [chrome, browser, extensions, screencastify]
 tags: [chrome-extensions, screen-recording, screencastify, video-tools]

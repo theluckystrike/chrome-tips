@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Extensions for WordPress"
 description: "Looking for the best chrome extensions for WordPress? Find tools to streamline your workflow and boost productivity. Check out our complete 2026 guide for mo..."
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-wordpress
 categories: [productivity, wordpress, web-development]
 tags: [chrome-extensions, wordpress, cms, productivity]

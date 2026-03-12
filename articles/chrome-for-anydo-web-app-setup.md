@@ -3,7 +3,7 @@ layout: post
 title: "chrome for any.do web app setup"
 description: "Learn how to set up chrome for any.do web app with practical tips to boost your productivity and manage tasks smoothly in your browser. Check out our complet..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-anydo-web-app-setup
 categories: [productivity, web-apps, tips]
 tags: [anydo, chrome, productivity, web-app, setup]

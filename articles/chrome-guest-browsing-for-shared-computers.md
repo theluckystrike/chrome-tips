@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Guest Browsing for Shared Computers"
 description: "Learn how Chrome guest browsing keeps your data private when sharing a computer with family, friends, or coworkers. Check out our complete 2026 guide for mor..."
 date: 2025-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-guest-browsing-for-shared-computers
 categories: [privacy, features]
 tags: [guest-browsing, shared-computers, chrome-privacy]

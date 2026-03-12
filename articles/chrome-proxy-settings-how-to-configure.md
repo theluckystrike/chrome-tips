@@ -3,7 +3,7 @@ layout: post
 title: "chrome proxy settings how to configure"
 description: "Learn how to configure proxy settings in Chrome. Step-by-step guide to set up, change, or disable proxy for secure browsing. Check out our complete 2026 guid..."
 date: 2026-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-proxy-settings-how-to-configure
 categories: [settings, network]
 tags: [proxy, chrome-settings, network, privacy]

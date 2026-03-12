@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Extensions for SSL Certificate Checker"
 description: "Learn how to use Chrome extensions to check SSL certificates and keep your browsing secure. Check out our complete 2026 guide for more details and profession..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-ssl-certificate-checker
 categories: [security, extensions]
 tags: [chrome-extensions, ssl, security, certificate]

@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Trust Tokens Explained"
 description: "Learn what Chrome Trust Tokens are, how they work for privacy and anti-fraud, token issuance, redemption, and what they mean for your browsing experience."
 date: 2026-01-20
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-trust-tokens-guide
 categories: [privacy, chrome, security]
 tags: [chrome-trust-tokens, trust-tokens, privacy-pass, anti-fraud, token-issuance, token-redemption, web-security]

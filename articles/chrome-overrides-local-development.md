@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Overrides for Local Development"
 description: "Learn how to use Chrome overrides for local development. Master workspace mapping, persistent changes, CSS editing, and local file overrides to streamline yo..."
 date: 2026-01-20
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-overrides-local-development
 categories: [development, chrome, tools]
 tags: [chrome-overrides, local-development, chrome-devtools, workspace, css-editing]

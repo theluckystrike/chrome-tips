@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Guest Browsing: What Data Is Saved"
 description: "Learn exactly what data is saved and what is deleted when using Chrome Guest Mode for browsing on shared computers. Check out our complete 2026 guide for mor..."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-guest-browsing-what-data-is-saved
 categories: [privacy, browser, security]
 tags: [chrome-guest-browsing, guest-mode, privacy, browsing-data]

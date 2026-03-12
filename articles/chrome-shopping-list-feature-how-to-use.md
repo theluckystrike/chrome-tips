@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Shopping List Feature How to Use"
 description: "Learn how to use Chrome's built-in shopping list feature to save products for later. Step-by-step guide with tips for organizing your purchases. Check out ou..."
 date: 2025-03-18
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-shopping-list-feature-how-to-use
 categories: [features, tips, shopping]
 tags: [chrome-shopping, shopping-list, online-shopping, browser-tips]

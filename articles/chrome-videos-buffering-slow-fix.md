@@ -3,7 +3,7 @@ layout: post
 title: "chrome videos buffering slow fix"
 description: "Fix Chrome video buffering with these proven solutions. Learn why videos Check out our complete 2026 guide for more details and professional advice on managi..."
 date: 2026-03-09
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-videos-buffering-slow-fix
 categories: 
 tags: 

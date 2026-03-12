@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Costco Web Shopping Tips"
 description: "Make the most of Chrome for Costco web shopping with these practical browser tips and extensions for a smoother experience. Check out our complete 2026 guide..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-costco-web-shopping-tips
 categories: [browsers, shopping, extensions]
 tags: [chrome, costco, shopping, tips, browser-tips]

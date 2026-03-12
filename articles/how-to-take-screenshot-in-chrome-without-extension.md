@@ -3,7 +3,7 @@ layout: post
 title: "How to Take Screenshot in Chrome Without Extension"
 description: "Learn how to take screenshots in Chrome without installing any extensions. Simple built-in methods and practical tips. Check out our complete 2026 guide for ..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: how-to-take-screenshot-in-chrome-without-extension
 categories: [tutorials, chrome]
 tags: [chrome, screenshot, browser, tips]

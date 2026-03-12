@@ -3,7 +3,7 @@ layout: post
 title: "Chrome for Work vs Personal — How to Use Separate Profiles"
 description: "Keep your work and personal browsing separate in Chrome using profiles. Setup guide, benefits, and tips for managing multiple Chrome identities. Check out ou..."
 date: 2025-03-02
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-for-work-vs-personal-separate-profiles
 categories: [productivity, profiles]
 tags: [chrome-profiles, work-personal, browser-profiles, productivity]

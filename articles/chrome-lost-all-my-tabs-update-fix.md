@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Lost All My Tabs After Update Fix"
 description: "Chrome lost all my tabs after update. Here's how to recover your tabs and prevent it from happening again. Check out our complete 2026 guide for more details..."
 date: 2025-02-20
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-lost-all-my-tabs-update-fix
 categories: [tabs, troubleshooting]
 tags: [chrome-tabs, tab-recovery, chrome-update, browser-fix]

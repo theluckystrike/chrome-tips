@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Screen Capture API Guide"
 description: "Master Chrome Screen Capture API with this comprehensive guide covering screen sharing, window capture, tab capture, constraints, and best practices for Chro..."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-screen-capture-api
 categories: [extensions, developer, api]
 tags: [chrome-screen-capture, screen-sharing, chrome-extension, tab-capture, getdisplaymedia]

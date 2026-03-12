@@ -1,12 +1,11 @@
 ---
+layout: post
 title: "Chrome About Pages List Explained"
 description: "The complete list of Chrome internal pages (chrome:// URLs) with explanations of what each one does and when to use it. Check out our expert recommendations and"
-date: "2026-01-01"
-last_modified_at: "2026-03-12"
-permalink: "chrome-about-pages-list-explained"
-layout: "post"
+date: 2026-01-01
+last_modified_at: 2026-03-12
+permalink: chrome-about-pages-list-explained
 ---
-
 Chrome is much more than a simple window to the web; it is a complex operating system for web applications. To manage this complexity, Google built in dozens of internal pages—accessible via `chrome://` URLs—that provide deep insights into how the browser is performing, what data it is storing, and how you can tweak its hidden engine.
 
 Most users only ever see the standard Settings menu, but typing `chrome://about` in your address bar reveals the full list of over 60 internal pages available in your specific version of Chrome. Understanding these pages can help you troubleshoot performance issues, enhance your privacy, and access experimental features before they reach the general public.

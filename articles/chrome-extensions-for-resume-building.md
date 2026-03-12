@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Extensions for Resume Building"
 description: "Discover Chrome extensions that make resume building easier. Create professional resumes faster with these helpful browser tools. Check out our complete 2026..."
 date: 2026-01-16
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-resume-building
 categories: [productivity, extensions, career]
 tags: [chrome-extensions, resume, career, productivity]

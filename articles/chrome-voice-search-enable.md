@@ -3,7 +3,7 @@ layout: post
 title: "chrome voice search enable"
 description: "Learn how to enable and use voice search in Chrome for hands-free browsing. Check out our complete 2026 guide for more details and professional advice on man..."
 date: 2026-03-11
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-voice-search-enable
 categories: 
 tags: 

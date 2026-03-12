@@ -3,7 +3,7 @@ layout: post
 title: "chrome site search shortcut how to set up"
 description: "Learn how to set up site search shortcuts in Chrome for faster browsing. Quick steps to search your favorite sites instantly. Check out our complete 2026 gui..."
 date: 2026-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-site-search-shortcut-how-to-set-up
 categories: [productivity, tips]
 tags: [search, shortcuts, productivity, chrome-settings]

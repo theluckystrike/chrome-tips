@@ -3,7 +3,7 @@ layout: post
 title: "chrome privacy sandbox what regular users should know"
 description: "Learn what Chrome Privacy Sandbox means for you as a regular user and how to control it. Simple guide with actionable steps. Check out our complete 2026 guid..."
 date: 2026-01-20
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-privacy-sandbox-what-regular-users-should-know
 categories: [privacy, chrome]
 tags: [chrome-privacy-sandbox, privacy-sandbox, chrome-privacy, tracking]

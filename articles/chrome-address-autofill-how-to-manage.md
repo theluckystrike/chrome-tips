@@ -1,15 +1,14 @@
 ---
+layout: post
 title: "Chrome Address Autofill How to Manage"
 description: "Learn how to manage Chrome address autofill: add, edit, delete saved Check out our expert recommendations and step-by-step instructions to get the most out of y"
-date: "2025-03-09"
-last_modified_at: "2026-03-12"
-permalink: "chrome-address-autofill-how-to-manage"
-layout: "post"
-categories: ""
-tags: ""
-author: "theluckystrike"
+date: 2025-03-09
+last_modified_at: 2026-03-12
+permalink: chrome-address-autofill-how-to-manage
+categories: 
+tags: 
+author: theluckystrike
 ---
-
 # Chrome Address Autofill How to Manage
 
 Chrome's autofill functionality is a powerful time-saver, designed to automatically complete web forms by storing physical addresses, contact information, and even payment details. When you enter an address into a form, Chrome detects it and offers to save the data for future use. It stores your name, company, street address, city, state, ZIP, country, phone number, and email. This data is synced across your devices if you are signed into a Google account, making it available whether you’re on your laptop, tablet, or smartphone.

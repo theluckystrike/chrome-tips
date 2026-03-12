@@ -3,7 +3,7 @@ layout: post
 title: "Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser"
 description: "Learn how to hibernate Chrome tabs to save memory, reduce CPU usage, and improve browser performance with built-in features and Tab Suspender Pro. Check out ..."
 date: 2026-03-11
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-tab-hibernate-save-memory
 categories: [productivity, browser-tips]
 tags: [chrome-tab-hibernate, chrome-tips, memory-optimization, browser-performance, tab-management]

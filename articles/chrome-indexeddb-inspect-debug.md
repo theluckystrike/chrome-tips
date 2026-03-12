@@ -3,7 +3,7 @@ layout: post
 title: "How to Inspect and Debug IndexedDB in Chrome: A Complete Guide"
 description: "Learn how to inspect, query, and debug IndexedDB databases in Chrome DevTools with practical tips for developers. Check out our complete 2026 guide for more ..."
 date: 2026-03-12
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-indexeddb-inspect-debug
 ---
 # How to Inspect and Debug IndexedDB in Chrome: A Complete Guide

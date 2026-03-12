@@ -3,7 +3,7 @@ layout: post
 title: "chrome for gmail productivity extensions"
 description: "Boost your Gmail efficiency with the best Chrome extensions for productivity. Discover tools to manage emails faster and work smarter. Check out our complete..."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-gmail-productivity-extensions
 categories: [extensions, productivity, email]
 tags: [gmail, chrome-extensions, productivity, email-management]

@@ -61,4 +61,11 @@ While Tab Suspender Pro does not directly control virtual keyboard behavior, it 
 
 Using tools like this, along with keeping your browser updated, can help you get the most out of the improvements that features like the virtual keyboard API bring to your web browsing on tablets and other touchscreen devices.
 
+
+
+### Related Articles
+- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
+- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)
+- [Chrome Background Sync Api Explained](/chrome-background-sync-api-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

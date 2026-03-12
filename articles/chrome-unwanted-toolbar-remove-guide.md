@@ -108,4 +108,11 @@ Removing unwanted toolbars from Chrome is usually straightforward once you know 
 
 Remember: the best defense is prevention. Be mindful of what you install, and your Chrome browser will stay clean and fast.
 
+
+
+### Related Articles
+- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
+- [Chrome Accessibility On Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)
+- [Chrome Accessibility Tree Guide](/chrome-accessibility-tree-guide)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

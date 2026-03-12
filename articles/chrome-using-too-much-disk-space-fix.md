@@ -75,4 +75,11 @@ Chrome using too much disk space is a common issue, but it is one you can solve 
 
 Give these approaches a try and see how much space you can reclaim. Your browser and your computer will thank you.
 
+
+
+### Related Articles
+- [Chrome Using Too Much Disk Space](/chrome-using-too-much-disk-space)
+- [Chrome Using Too Much Battery On Laptop Fix](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Extension Using Too Much Memory Find](/chrome-extension-using-too-much-memory-find)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

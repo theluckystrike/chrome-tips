@@ -94,4 +94,11 @@ Most chrome update problems are fixable with the steps in this guide. Start with
 
 ---
 
+
+
+### Related Articles
+- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
+- [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
+- [Chrome Gpu Acceleration Causing Problems Fix](/chrome-gpu-acceleration-causing-problems-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

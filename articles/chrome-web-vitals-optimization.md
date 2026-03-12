@@ -140,4 +140,11 @@ The effort you put into Core Web Vitals optimization will pay off in better sear
 
 ---
 
+
+
+### Related Articles
+- [Chrome Core Web Vitals Check My Website](/chrome-core-web-vitals-check-my-website)
+- [Chrome For Canva Web App Optimization](/chrome-for-canva-web-app-optimization)
+- [Chrome For Coursera Web App Optimization](/chrome-for-coursera-web-app-optimization)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -67,3 +67,9 @@ Give Web NFC a try with compatible tags and see how quickly you can access infor
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Web Share Api How It Works](/chrome-web-share-api-how-it-works)
+- [Chrome Enrollment For Schools How It Works](/chrome-enrollment-for-schools-how-it-works)
+- [Chrome Lazy Loading Images How It Works](/chrome-lazy-loading-images-how-it-works)

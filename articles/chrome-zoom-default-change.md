@@ -86,4 +86,11 @@ Remember that your needs may change over time. If you get a new monitor or notic
 
 The beauty of Chrome is that these settings travel with your profile. Once you configure your ideal zoom default, it transfers across sessions and, if you use sync, across your devices.
 
+
+
+### Related Articles
+- [Chrome Default Download Location How To Change](/chrome-default-download-location-how-to-change)
+- [Chrome File Handling How To Change Default App](/chrome-file-handling-how-to-change-default-app)
+- [Chrome Zoom Level How To Set Default](/chrome-zoom-level-how-to-set-default)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -52,4 +52,11 @@ If you find that your browser still struggles despite these efforts, give Tab Su
 
 ---
 
+
+
+### Related Articles
+- [Chrome Time To First Byte Explained](/chrome-time-to-first-byte-explained)
+- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
+- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

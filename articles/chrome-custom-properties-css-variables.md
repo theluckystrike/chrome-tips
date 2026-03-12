@@ -1,20 +1,22 @@
 ---
 layout: post
-title: "Chrome Custom Properties CSS Variables"
-<<<<<<< HEAD
-description: "Learn how Chrome custom properties CSS variables work and how to use them to build more maintainable websites."
+title: Chrome Custom Properties CSS Variables
+description: Learn how Chrome custom properties CSS variables work and how to use
+  them to build more maintainable websites. Learn more about how to optimize your
+  Chrome
 date: 2026-01-15
-categories: [web-development, features]
-tags: [css-variables, custom-properties, web-development, chrome-devtools]
-=======
-description: "Learn how chrome custom properties CSS variables work and how to use them to build more maintainable websites."
-date: 2026-01-15
-categories: [development, css]
-tags: [css-variables, custom-properties, web-development, chrome-css]
->>>>>>> qa/qa2-batch4
+categories:
+- web-development
+- features
+tags:
+- css-variables
+- custom-properties
+- web-development
+- chrome-devtools
 author: theluckystrike
+last_modified_at: '%Y->-'
+permalink: /chrome-custom-properties-css-variables/
 ---
-
 # Chrome Custom Properties CSS Variables
 
 Chrome custom properties CSS variables are a powerful feature that web developers can use to make their stylesheets easier to maintain and update. If you have ever found yourself changing the same color or font size in multiple places across your website, custom properties can save you a lot of time and effort.

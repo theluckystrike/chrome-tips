@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Ctrl Shift Delete Shortcut What It Does"
-description: "Learn what the Chrome Ctrl Shift Delete shortcut does, why it matters, and how to use it to clear your browsing data quickly."
+title: Chrome Ctrl Shift Delete Shortcut What It Does
+description: Learn what the Chrome Ctrl Shift Delete shortcut does, why it matters,
+  and how to use it to clear your browsing data quickly. Learn more about how to optim
 date: 2026-03-09
-categories: [privacy, features]
-tags: [keyboard-shortcut, chrome-shortcut, delete-browsing-data, privacy]
+categories:
+- privacy
+- features
+tags:
+- keyboard-shortcut
+- chrome-shortcut
+- delete-browsing-data
+- privacy
 author: theluckystrike
+last_modified_at: '%Y->-'
+permalink: /chrome-ctrl-shift-delete-shortcut-what-it-does/
 ---
-
 # Chrome Ctrl Shift Delete Shortcut What It Does
 
 If you are searching for chrome ctrl shift delete shortcut what it does, you have probably heard about this handy keyboard shortcut but are not quite sure what it does or how to use it. Let me explain everything you need to know.

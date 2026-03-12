@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Decorators JavaScript Proposal: What You Need to Know"
-description: "Learn about the JavaScript decorators proposal, Chrome's support status, and how decorators can improve your web development workflow."
+title: 'Chrome Decorators JavaScript Proposal: What You Need to Know'
+description: Learn about the JavaScript decorators proposal, Chrome's support status,
+  and how decorators can improve your web development workflow. Learn more about how
 date: 2026-01-15
-categories: [chrome-features, web-development, javascript]
-tags: [chrome-decorators-javascript-proposal, javascript-decorators, tc39-proposal, chrome-javascript]
+categories:
+- chrome-features
+- web-development
+- javascript
+tags:
+- chrome-decorators-javascript-proposal
+- javascript-decorators
+- tc39-proposal
+- chrome-javascript
 author: theluckystrike
+last_modified_at: '%Y->-'
+permalink: /chrome-decorators-javascript-proposal/
 ---
-
 # Chrome Decorators JavaScript Proposal: What You Need to Know
 
 If you have been keeping up with JavaScript development trends, you have probably heard about decorators. The chrome decorators javascript proposal represents one of the most anticipated features for web developers. This guide explains what decorators are, their current status in Chrome, and why they matter for your development workflow.

@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome dark reader extension worth it"
-description: "Is the Dark Reader extension worth installing? A practical guide covering benefits, drawbacks, setup steps, and tips to decide if it's right for you."
+title: chrome dark reader extension worth it
+description: Is the Dark Reader extension worth installing? A practical guide covering
+  benefits, drawbacks, setup steps, and tips to decide if it's right for you. Learn
 date: 2025-01-15
-categories: [extensions, productivity]
-tags: [dark-reader, chrome-extension, eye-strain, accessibility]
+categories:
+- extensions
+- productivity
+tags:
+- dark-reader
+- chrome-extension
+- eye-strain
+- accessibility
 author: theluckystrike
+last_modified_at: '%Y->-'
+permalink: /chrome-dark-reader-extension-worth-it/
 ---
-
 # Is the Chrome Dark Reader Extension Worth It?
 
 If you spend hours browsing the web every day, you've probably experienced eye strain or fatigue from staring at bright white screens. The **chrome dark reader extension** promises to solve this problem by inverting website colors to create a dark mode experience on any site. But is it actually worth installing? This guide breaks down everything you need to know to make an informed decision.

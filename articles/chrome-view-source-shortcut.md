@@ -65,4 +65,11 @@ The chrome view source shortcut is one of those simple but powerful features tha
 
 Next time you are curious about how a website is built, want to troubleshoot an issue, or are learning web development, remember this handy shortcut. It opens up a world of understanding about the websites you visit every day.
 
+
+
+### Related Articles
+- [Chrome Page Source How To View Explained](/chrome-page-source-how-to-view-explained)
+- [Chrome View Page Source What It Tells You](/chrome-view-page-source-what-it-tells-you)
+- [Chrome Address Bar Focus Shortcut](/chrome-address-bar-focus-shortcut)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

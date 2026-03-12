@@ -68,3 +68,9 @@ The technology behind live caption continues to improve as Google refines its sp
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Enrollment For Schools How It Works](/chrome-enrollment-for-schools-how-it-works)
+- [Chrome Lazy Loading Images How It Works](/chrome-lazy-loading-images-how-it-works)
+- [Chrome Pwa Offline Capability How It Works](/chrome-pwa-offline-capability-how-it-works)

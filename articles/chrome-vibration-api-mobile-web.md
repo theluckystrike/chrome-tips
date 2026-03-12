@@ -166,4 +166,11 @@ The Vibration API offers a simple yet effective way to add haptic feedback to yo
 
 Start experimenting with the Vibration API today, and discover how tactile feedback can transform your mobile web applications.
 
+
+
+### Related Articles
+- [Chrome Web Animation Api Explained](/chrome-web-animation-api-explained)
+- [Chrome Web Bluetooth Api Guide](/chrome-web-bluetooth-api-guide)
+- [Chrome Web Codec Api Video Processing](/chrome-web-codec-api-video-processing)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

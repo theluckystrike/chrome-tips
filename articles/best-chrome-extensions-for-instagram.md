@@ -92,9 +92,11 @@ The best chrome extensions for Instagram are the ones that address your specific
 
 You do not need to install every extension mentioned here. Start with one or two that address your biggest needs, then add more as you identify other areas for improvement. The right combination of extensions can dramatically reduce the time you spend on Instagram management while helping you achieve better results.
 
-## Related Articles
-* [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
-* [best chrome extensions for accessibility needs](/articles/best-chrome-extensions-for-accessibility-needs/)
-* [best chrome extensions for accountants](/articles/best-chrome-extensions-for-accountants/)
+
+
+### Related Articles
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
+- [Best Chrome Extensions For Amazon Prime Video](/best-chrome-extensions-for-amazon-prime-video)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

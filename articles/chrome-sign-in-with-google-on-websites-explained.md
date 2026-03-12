@@ -76,3 +76,9 @@ Signing in with Google on websites is a useful feature that makes online life mo
 You now have the knowledge to decide whether this feature is right for you and how to adjust it to match your comfort level. Whether you use it everywhere or prefer to create separate accounts the traditional way, the choice is yours.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Auto Sign In To Websites How To Control](/chrome-auto-sign-in-to-websites-how-to-control)
+- [Chrome Extension For Highlighting Text On Websites](/chrome-extension-for-highlighting-text-on-websites)
+- [Chrome Extension For Tracking Time Spent On Websites](/chrome-extension-for-tracking-time-spent-on-websites)

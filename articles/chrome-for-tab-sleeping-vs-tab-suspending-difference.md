@@ -63,3 +63,9 @@ Give both methods a try and see which one fits your workflow. You might be surpr
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Extensions For Tab Sleeping Automatically](/chrome-extensions-for-tab-sleeping-automatically)
+- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
+- [Chrome Browser Process Vs Tab Process Explained](/chrome-browser-process-vs-tab-process-explained)

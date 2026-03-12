@@ -81,3 +81,9 @@ Learning to use Chrome Inspect Element is one of those things that seems technic
 Give it a try on your next browsing session. Pick one small thing you want to understand or fix, and see what Inspect Element can show you. You might be surprised at how much you discover.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Inspect Element Tutorial For Beginners](/chrome-inspect-element-tutorial-for-beginners)
+- [Chrome How To Inspect Element Beginners](/chrome-how-to-inspect-element-beginners)
+- [Chrome Blink Engine Explained For Beginners](/chrome-blink-engine-explained-for-beginners)

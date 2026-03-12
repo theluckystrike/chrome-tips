@@ -95,4 +95,11 @@ If you have 8GB or more of RAM, the difference between Chrome and Edge may be le
 
 Try both browsers for a week and see which one feels faster on your specific computer. Pay attention to how many tabs you can have open before your computer starts to slow down. The best browser is the one that lets you do what you need without frustration.
 
+
+
+### Related Articles
+- [Should I Switch From Chrome To Firefox For Speed](/should-i-switch-from-chrome-to-firefox-for-speed)
+- [Should I Switch To Firefox For Less Ram](/should-i-switch-to-firefox-for-less-ram)
+- [Chrome Flags To Enable For Speed](/chrome-flags-to-enable-for-speed)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

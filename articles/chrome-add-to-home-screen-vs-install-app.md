@@ -72,9 +72,11 @@ Many modern websites work well as home screen shortcuts, especially those that a
 
 By thinking about how you use different services on your phone, you can make smart decisions about which approach works best for each one. This helps you keep your phone organized, your storage manageable, and your mobile experience as smooth as possible.
 
-## Related Articles
-* [chrome home screen shortcut how to add on phone](/articles/chrome-home-screen-shortcut-how-to-add-on-phone/)
-* [Chrome Browser vs App Which Uses More Data](/articles/chrome-browser-vs-app-which-uses-more-data/)
-* [chrome install as app pwa how to](/articles/chrome-install-as-app-pwa-how-to/)
+
+
+### Related Articles
+- [Chrome Home Screen Shortcut How To Add On Phone](/chrome-home-screen-shortcut-how-to-add-on-phone)
+- [Chrome Install As App Pwa How To](/chrome-install-as-app-pwa-how-to)
+- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

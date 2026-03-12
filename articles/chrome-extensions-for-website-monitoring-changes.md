@@ -89,3 +89,9 @@ Give these extensions a try with just a page or two, see how they work for your 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome For Website Monitoring Extensions](/chrome-for-website-monitoring-extensions)
+- [Chrome Extensions For Font Changer On Any Website](/chrome-extensions-for-font-changer-on-any-website)
+- [Chrome Extensions For Website Archiving](/chrome-extensions-for-website-archiving)

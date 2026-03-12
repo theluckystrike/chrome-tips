@@ -99,4 +99,11 @@ Remember that accessibility matters—don't struggle with tiny text when Chrome 
 
 ---
 
+
+
+### Related Articles
+- [Chrome Font Size How To Change Permanently](/chrome-font-size-how-to-change-permanently)
+- [Chrome Text Size How To Increase Permanently](/chrome-text-size-how-to-increase-permanently)
+- [Chrome Text Size On Phone How To Change](/chrome-text-size-on-phone-how-to-change)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

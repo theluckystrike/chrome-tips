@@ -63,3 +63,9 @@ Understanding these two events gives you a better mental model for how Chrome ha
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Content Blocker Vs Ad Blocker Difference](/chrome-content-blocker-vs-ad-blocker-difference)
+- [Best Chrome Extensions For Content Creators](/best-chrome-extensions-for-content-creators)
+- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)

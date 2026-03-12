@@ -76,4 +76,11 @@ If you find that managing many tabs helps you stay productive, consider using to
 
 Make it a habit to check periodically or respond right away when Chrome alerts you. Your online safety is worth those few minutes of effort.
 
+
+
+### Related Articles
+- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
+- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

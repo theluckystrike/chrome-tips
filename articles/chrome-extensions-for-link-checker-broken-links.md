@@ -50,3 +50,9 @@ Broken links are an inevitable part of the web, but they do not have to ruin you
 The next time you encounter a dead end while browsing, remember that help is just a few clicks away. Installing a link checker extension takes only a moment and can save you considerable time and frustration in the long run.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Extensions For Color Accessibility Checker](/chrome-extensions-for-color-accessibility-checker)
+- [Chrome Extensions For Robots Txt Checker](/chrome-extensions-for-robots-txt-checker)
+- [Chrome Extensions For Ssl Certificate Checker](/chrome-extensions-for-ssl-certificate-checker)

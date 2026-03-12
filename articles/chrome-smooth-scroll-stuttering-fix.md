@@ -53,3 +53,9 @@ Finally, if you visit a particular website often and notice it scrolls poorly, y
 Chrome smooth scroll stuttering is annoying, but it is usually fixable with a few simple adjustments. By managing your extensions, keeping your tabs under control, and keeping your browser and drivers updated, you can get back to smooth, effortless scrolling in no time.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Scroll Not Smooth Fix](/chrome-scroll-not-smooth-fix)
+- [Chrome Mouse Scroll Not Working Fix](/chrome-mouse-scroll-not-working-fix)
+- [Chrome Video Playback Stuttering Fix](/chrome-video-playback-stuttering-fix)

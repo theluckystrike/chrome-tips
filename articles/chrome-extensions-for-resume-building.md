@@ -82,3 +82,9 @@ Start by trying a few extensions, see what works for your workflow, and build fr
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome For Resume Building Web Tools](/chrome-for-resume-building-web-tools)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)

@@ -93,3 +93,9 @@ Try restarting Chrome at the start of your workday or after lunch. This simple h
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Codepen In Browser Tips](/chrome-for-codepen-in-browser-tips)
+- [Chrome For Habitica In Browser Tips](/chrome-for-habitica-in-browser-tips)
+- [Chrome For Replit In Browser Tips](/chrome-for-replit-in-browser-tips)

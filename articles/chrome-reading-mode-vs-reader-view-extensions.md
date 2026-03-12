@@ -89,4 +89,11 @@ Try both approaches and see which one fits your workflow better. The right solut
 
 ---
 
+
+
+### Related Articles
+- [Chrome Reader Mode Vs Safari Reader Comparison](/chrome-reader-mode-vs-safari-reader-comparison)
+- [Best Chrome Extensions For Reading Articles](/best-chrome-extensions-for-reading-articles)
+- [Chrome Colorblind Mode Extensions](/chrome-colorblind-mode-extensions)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

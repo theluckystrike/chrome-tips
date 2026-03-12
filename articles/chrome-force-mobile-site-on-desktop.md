@@ -58,3 +58,9 @@ If you are using extensions, keep them updated to ensure they work with the late
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Mobile Dark Mode Force On All Sites](/chrome-mobile-dark-mode-force-on-all-sites)
+- [Chrome Mobile View On Desktop How To](/chrome-mobile-view-on-desktop-how-to)
+- [Chrome Circle To Search On Desktop](/chrome-circle-to-search-on-desktop)

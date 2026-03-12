@@ -59,4 +59,11 @@ Close tabs you are not using. Every open tab uses memory, even if you are not lo
 
 Update Chrome regularly. Newer versions often include performance improvements and bug fixes that make Chrome run more efficiently. You can check for updates by going to Settings, clicking Help, and selecting About Google Chrome.
 
+
+
+### Related Articles
+- [How To Use Chrome Task Manager To Find Slow Tabs](/how-to-use-chrome-task-manager-to-find-slow-tabs)
+- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
+- [Chrome Ai Theme Generator How To Use](/chrome-ai-theme-generator-how-to-use)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

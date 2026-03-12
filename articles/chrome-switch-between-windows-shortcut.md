@@ -60,4 +60,11 @@ Now that you know the Chrome switch between windows shortcut options, the best t
 
 Within a few days of practice, these shortcuts will become automatic. You will wonder how you ever managed to switch between windows any other way. The time you save might seem small on any individual switch, but over weeks and months, those seconds add up to a meaningful amount of time that you can redirect toward actually getting work done.
 
+
+
+### Related Articles
+- [Chrome Drag Drop Tabs Between Windows](/chrome-drag-drop-tabs-between-windows)
+- [How To Move Chrome Tabs Between Windows Easily](/how-to-move-chrome-tabs-between-windows-easily)
+- [Chrome Address Bar Focus Shortcut](/chrome-address-bar-focus-shortcut)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

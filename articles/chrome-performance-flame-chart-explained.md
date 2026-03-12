@@ -78,4 +78,11 @@ Regular checks also help identify when extension updates or website changes star
 
 The flame chart demystifies what happens inside your browser. Instead of guessing why things feel slow, you gain actual insight into where time goes. This knowledge empowers you to take targeted actions rather than trying random fixes that may not address the real problem.
 
+
+
+### Related Articles
+- [Chrome Devtools Performance Panel Explained](/chrome-devtools-performance-panel-explained)
+- [Chrome Lighthouse Performance Score Explained Simply](/chrome-lighthouse-performance-score-explained-simply)
+- [Chrome Performance Observer Api Explained](/chrome-performance-observer-api-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

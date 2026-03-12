@@ -75,3 +75,9 @@ Take a moment to think about which website you visit most often when you open yo
 Remember, you can always change your homepage later if your needs change. Chrome makes it easy to update your settings, so do not be afraid to experiment until you find what works best for you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Default Browser How To Set On Mac](/chrome-default-browser-how-to-set-on-mac)
+- [Chrome Default Browser How To Set On Windows](/chrome-default-browser-how-to-set-on-windows)
+- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)

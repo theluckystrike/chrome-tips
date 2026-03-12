@@ -90,3 +90,9 @@ If typing while listening is difficult, try a transcription tool like Otter.ai. 
 Start with one or two extensions that address your biggest pain point. You can always add more tools as you discover other needs. The goal is to find a system that lets you stay engaged in meetings while still capturing the information you need.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Extensions For Quick Notes Sidebar](/chrome-extensions-for-quick-notes-sidebar)
+- [Chrome Extensions For Tab Notes](/chrome-extensions-for-tab-notes)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)

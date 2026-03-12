@@ -69,4 +69,11 @@ Keep your software updated. Chrome updates regularly include bug fixes and secur
 
 Review your startup programs and scheduled tasks every few months. Over time, you may install new applications that add themselves to these lists without you realizing it. A quick check now and then can catch any unwanted additions early.
 
+
+
+### Related Articles
+- [Chrome Homepage Changed By Itself Fix](/chrome-homepage-changed-by-itself-fix)
+- [Chrome Search Engine Changed By Itself Fix](/chrome-search-engine-changed-by-itself-fix)
+- [Chrome Err Blocked By Client Fix](/chrome-err-blocked-by-client-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -95,3 +95,9 @@ Use Chrome's built-in tools to review and adjust permissions for your existing e
 Most extensions are safe and useful when you choose them carefully. By taking control of permissions, you get to enjoy the benefits of browser extensions while keeping your data and privacy secure.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+- [Chrome Permissions On Android How To Manage](/chrome-permissions-on-android-how-to-manage)
+- [Chrome Permissions On Startup How To Configure](/chrome-permissions-on-startup-how-to-configure)

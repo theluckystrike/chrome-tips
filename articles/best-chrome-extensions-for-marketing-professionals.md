@@ -78,9 +78,11 @@ If browser performance is your main problem, Tab Suspender Pro can help. If writ
 
 Once you find the right combination of extensions, you will notice a significant improvement in your ability to work efficiently and effectively. Small improvements in your daily workflow add up to big gains in productivity over time.
 
-## Related Articles
-* [Best Chrome Extensions for Cybersecurity Professionals](/articles/best-chrome-extensions-for-cybersecurity-professionals/)
-* [Best Chrome Extensions for HR Professionals](/articles/best-chrome-extensions-for-hr-professionals/)
-* [Chrome for Affiliate Marketing Extensions](/articles/chrome-for-affiliate-marketing-extensions/)
+
+
+### Related Articles
+- [Best Chrome Extensions For Cybersecurity Professionals](/best-chrome-extensions-for-cybersecurity-professionals)
+- [Best Chrome Extensions For Hr Professionals](/best-chrome-extensions-for-hr-professionals)
+- [Chrome For Email Marketing Best Extensions](/chrome-for-email-marketing-best-extensions)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

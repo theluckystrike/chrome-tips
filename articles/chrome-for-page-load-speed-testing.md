@@ -64,3 +64,9 @@ Restarting Chrome periodically also helps. Over time, Chrome can accumulate cach
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Extension For Viewing Page Load Time](/chrome-extension-for-viewing-page-load-time)
+- [Chrome Disable Javascript For Testing](/chrome-disable-javascript-for-testing)
+- [Chrome Extension For Reading Speed Tracker](/chrome-extension-for-reading-speed-tracker)

@@ -64,3 +64,9 @@ Remember that translation extensions are tools to help you, and they get better 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
+- [Chrome Extension For Auto Fill Forms Faster](/chrome-extension-for-auto-fill-forms-faster)
+- [Chrome Extension For Auto Scroll Pages](/chrome-extension-for-auto-scroll-pages)

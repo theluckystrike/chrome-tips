@@ -77,9 +77,11 @@ To protect your privacy:
 
 Unlike passwords, Chrome does not require a PIN or biometric scan to view or fill addresses. This makes them highly convenient but also slightly more exposed than your sensitive login credentials. By regularly auditing your saved addresses and following basic security hygiene, you can enjoy the benefits of autofill without unnecessary risk.
 
-## Related Articles
-* [How to Manage Addresses in Chrome Autofill](/articles/chrome-autofill-manage-addresses/)
-* [chrome autofill on phone how to manage](/articles/chrome-autofill-on-phone-how-to-manage/)
-* [Chrome Autofill Wrong Address How to Fix](/articles/chrome-autofill-wrong-address-how-to-fix/)
+
+
+### Related Articles
+- [Chrome Autofill On Phone How To Manage](/chrome-autofill-on-phone-how-to-manage)
+- [Chrome Autofill Wrong Address How To Fix](/chrome-autofill-wrong-address-how-to-fix)
+- [Chrome Payment Autofill How To Manage Cards](/chrome-payment-autofill-how-to-manage-cards)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

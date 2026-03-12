@@ -63,4 +63,11 @@ The main takeaway is that JavaScript powers the web but also requires resources 
 
 If you notice Chrome running slowly, checking how many tabs you have open is often the first step to improvement. Many performance issues stem from having more JavaScript running than your computer can handle comfortably. By being mindful of this, you can enjoy the full capabilities of the modern web without sacrificing performance.
 
+
+
+### Related Articles
+- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
+- [Chrome Hsts What It Means For Security](/chrome-hsts-what-it-means-for-security)
+- [Chrome About Blank Page What It Means](/chrome-about-blank-page-what-it-means)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

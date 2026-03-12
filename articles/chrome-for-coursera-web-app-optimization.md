@@ -51,3 +51,9 @@ Optimizing Chrome for Coursera does not require technical expertise. By keeping 
 Remember that small adjustments add up. You do not need to implement everything at once. Start with the simplest changes, like closing unused tabs, and gradually explore other options if needed. Over time, you will find the setup that works best for your learning style and computer setup.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Canva Web App Optimization](/chrome-for-canva-web-app-optimization)
+- [Chrome For Descript Web App Optimization](/chrome-for-descript-web-app-optimization)
+- [Chrome For Discord Web App Optimization](/chrome-for-discord-web-app-optimization)

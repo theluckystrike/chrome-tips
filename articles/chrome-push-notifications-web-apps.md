@@ -68,4 +68,11 @@ Make sure your notifications include relevant information and actionable content
 
 Finally, always respect user preferences. Make it easy for users to manage their notification settings directly from your website, and honor any opt-out requests immediately. Providing a clear and accessible unsubscribe option in every notification is not just good etiquette—it is often required by law in many jurisdictions.
 
+
+
+### Related Articles
+- [Chrome Web Push Notifications Setup Guide](/chrome-web-push-notifications-setup-guide)
+- [Chrome For Fitness Tracking Web Apps](/chrome-for-fitness-tracking-web-apps)
+- [Chrome Push Notifications Api Explained](/chrome-push-notifications-api-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

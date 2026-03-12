@@ -114,9 +114,11 @@ Accessibility is not an afterthought or a nice-to-have feature. It is a fundamen
 
 Start exploring the Accessibility Tree today on your own projects. Identify areas where semantic structure could be improved, where ARIA roles might clarify component purpose, or where contrast could be enhanced. Each improvement you make creates a more inclusive web experience for everyone.
 
-## Related Articles
-* [best chrome extensions for accessibility needs](/articles/best-chrome-extensions-for-accessibility-needs/)
-* [chrome accessibility extensions best 2026](/articles/chrome-accessibility-extensions-best-2026/)
-* [Chrome Accessibility Features Guide: Everything You Need to Know](/articles/chrome-accessibility-features-guide/)
+
+
+### Related Articles
+- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
+- [Chrome Accessibility On Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

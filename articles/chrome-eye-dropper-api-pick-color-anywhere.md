@@ -93,4 +93,11 @@ Start by adding a color picker button to your application and wiring it up to th
 
 The web platform continues to evolve rapidly, and APIs like the Eye Dropper demonstrate how browser capabilities are expanding to meet the needs of designers and developers. Embrace these new tools to create better web experiences for your users.
 
+
+
+### Related Articles
+- [Chrome Extensions For Eye Dropper Tool](/chrome-extensions-for-eye-dropper-tool)
+- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
+- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

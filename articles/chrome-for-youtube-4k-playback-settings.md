@@ -70,3 +70,9 @@ Chrome receives updates fairly often, and each update can bring improvements to 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
+- [Best Chrome Settings For Chromebook](/best-chrome-settings-for-chromebook)
+- [Best Chrome Settings For Slow Computer](/best-chrome-settings-for-slow-computer)

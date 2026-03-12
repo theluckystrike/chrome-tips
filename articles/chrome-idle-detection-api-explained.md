@@ -86,3 +86,9 @@ For users who want additional control over tab management and resource usage, ex
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Shape Detection Api Explained](/chrome-shape-detection-api-explained)
+- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
+- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)

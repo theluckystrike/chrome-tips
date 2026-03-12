@@ -56,4 +56,11 @@ It is also a good idea to occasionally check that your extensions are still work
 
 Finally, remember that your needs might change over time. What works for you now might not fit your workflow a year from now. Be willing to adjust how you have organized your profiles and extensions as your situation changes.
 
+
+
+### Related Articles
+- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)
+- [Chrome Camera Permission For One Site How To Set](/chrome-camera-permission-for-one-site-how-to-set)
+- [Chrome Cast To Tv How To Set Up](/chrome-cast-to-tv-how-to-set-up)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

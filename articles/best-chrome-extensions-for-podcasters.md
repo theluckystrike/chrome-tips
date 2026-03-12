@@ -82,9 +82,11 @@ If you struggle with too many open tabs slowing down your browser, Tab Suspender
 
 Once you find the right combination of extensions, you will notice a significant improvement in your ability to research, organize, and produce your podcast. Small improvements in your daily workflow add up to big gains in productivity over time, giving you more freedom to focus on creating great episodes for your listeners.
 
-## Related Articles
-* [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters/)
-* [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
-* [best chrome extensions for accessibility needs](/articles/best-chrome-extensions-for-accessibility-needs/)
+
+
+### Related Articles
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
+- [Best Chrome Extensions For Amazon Prime Video](/best-chrome-extensions-for-amazon-prime-video)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -97,9 +97,11 @@ Losing tabs is frustrating, especially when you're working on a slow computer wh
 
 For long-term peace of mind, enable Chrome Sync and consider using **Tab Suspender Pro** to manage your tabs more efficiently. Your browser will run faster, you'll lose fewer tabs, and when accidents do happen, you'll have better tools to recover quickly.
 
-## Related Articles
-* [Chrome Lost All My Tabs After Update Fix](/articles/chrome-lost-all-my-tabs-update-fix/)
-* [chrome recently closed tabs how to reopen](/articles/chrome-recently-closed-tabs-how-to-reopen/)
-* [chrome recently closed tabs shortcut](/articles/chrome-recently-closed-tabs-shortcut/)
+
+
+### Related Articles
+- [Chrome Lost All My Tabs Update Fix](/chrome-lost-all-my-tabs-update-fix)
+- [Chrome Recently Closed Tabs How To Reopen](/chrome-recently-closed-tabs-how-to-reopen)
+- [Chrome Recently Closed Tabs Shortcut](/chrome-recently-closed-tabs-shortcut)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

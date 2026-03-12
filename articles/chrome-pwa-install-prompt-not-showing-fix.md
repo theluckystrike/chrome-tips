@@ -76,4 +76,11 @@ If your Chrome PWA install prompt is not showing, go through the checklist above
 
 Remember that you have control over the prompt through the beforeinstallprompt event. Taking manual control of the install experience often provides a better user experience anyway. Your users will appreciate a clear, well-timed install button rather than a prompt that appears at unpredictable times.
 
+
+
+### Related Articles
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+- [Chrome Address Bar Not Showing Full Url Fix](/chrome-address-bar-not-showing-full-url-fix)
+- [Chrome Tab From Other Device Not Showing Fix](/chrome-tab-from-other-device-not-showing-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -88,3 +88,9 @@ You can also contact Chromebook support directly if your device is still under w
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Not Working On Android Fix](/chrome-not-working-on-android-fix)
+- [Chromebook Bluetooth Not Working Fix](/chromebook-bluetooth-not-working-fix)
+- [Chromebook Touchscreen Not Working Fix](/chromebook-touchscreen-not-working-fix)

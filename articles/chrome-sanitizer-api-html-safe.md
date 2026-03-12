@@ -100,4 +100,11 @@ Finally, keep your browsers updated to ensure you have the latest security impro
 
 ---
 
+
+
+### Related Articles
+- [Are Chrome Extensions Safe To Use](/are-chrome-extensions-safe-to-use)
+- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
+- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

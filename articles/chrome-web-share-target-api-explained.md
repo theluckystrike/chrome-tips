@@ -66,3 +66,9 @@ Chrome continues to add features that make the web feel more connected to your d
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Web Share Api Explained](/chrome-web-share-api-explained)
+- [Chrome Web Animation Api Explained](/chrome-web-animation-api-explained)
+- [Chrome Web Codecs Api Explained](/chrome-web-codecs-api-explained)

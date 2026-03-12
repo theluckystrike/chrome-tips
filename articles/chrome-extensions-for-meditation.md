@@ -58,3 +58,9 @@ Practice single-tasking whenever possible. Instead of keeping dozens of tabs ope
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Meditation And Focus Extensions](/chrome-for-meditation-and-focus-extensions)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)

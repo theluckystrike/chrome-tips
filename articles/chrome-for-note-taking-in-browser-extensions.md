@@ -60,3 +60,9 @@ Give a note-taking extension a try if you have not already. You might find that 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Extensions For Note Taking In Meetings](/chrome-extensions-for-note-taking-in-meetings)
+- [Chrome For Apple Notes In Browser Workaround](/chrome-for-apple-notes-in-browser-workaround)
+- [Chrome For Codecademy In Browser Optimization](/chrome-for-codecademy-in-browser-optimization)

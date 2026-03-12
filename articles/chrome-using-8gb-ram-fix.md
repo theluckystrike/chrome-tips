@@ -91,4 +91,11 @@ If your computer consistently runs out of memory with Chrome open, you might wan
 
 ---
 
+
+
+### Related Articles
+- [Chrome Using 100 Percent Cpu Fix Windows](/chrome-using-100-percent-cpu-fix-windows)
+- [Chrome Using Swap Memory Fix](/chrome-using-swap-memory-fix)
+- [Chrome Using Too Much Battery On Laptop Fix](/chrome-using-too-much-battery-on-laptop-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

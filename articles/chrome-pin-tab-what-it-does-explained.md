@@ -128,4 +128,11 @@ Now you have a complete understanding of what chrome pin tab what it does and ho
 
 Give it a try with one or two websites you access multiple times daily. You might find that this small change makes a big difference in how efficiently you work in your browser.
 
+
+
+### Related Articles
+- [Chrome Pin Tab What It Does](/chrome-pin-tab-what-it-does)
+- [Chrome Service Worker What It Does Explained](/chrome-service-worker-what-it-does-explained)
+- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

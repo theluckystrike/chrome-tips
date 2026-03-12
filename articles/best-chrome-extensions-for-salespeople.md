@@ -88,9 +88,11 @@ The best chrome extensions for salespeople are the ones that fit naturally into 
 
 Remember that these extensions are meant to help you spend more time selling and less time managing tools. The right combination of extensions can make your browser work for you instead of against you, ultimately helping you close more deals and build stronger relationships with your prospects.
 
-## Related Articles
-* [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
-* [best chrome extensions for accessibility needs](/articles/best-chrome-extensions-for-accessibility-needs/)
-* [best chrome extensions for accountants](/articles/best-chrome-extensions-for-accountants/)
+
+
+### Related Articles
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
+- [Best Chrome Extensions For Amazon Prime Video](/best-chrome-extensions-for-amazon-prime-video)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

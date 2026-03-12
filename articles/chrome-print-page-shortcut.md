@@ -91,4 +91,11 @@ Printing from Chrome does not have to be frustrating. With these shortcuts and t
 
 ---
 
+
+
+### Related Articles
+- [Chrome Bookmark Current Page Shortcut](/chrome-bookmark-current-page-shortcut)
+- [Chrome Find On Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+- [Chrome Open Downloads Page Shortcut](/chrome-open-downloads-page-shortcut)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

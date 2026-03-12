@@ -136,4 +136,11 @@ The key is finding a system that works for your specific workflow and sticking w
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*
+
+### Related Articles
+- [Chrome Tab Groups Auto Create How To Set Up](/chrome-tab-groups-auto-create-how-to-set-up)
+- [Chrome Extensions For Auto Tab Closer](/chrome-extensions-for-auto-tab-closer)
+- [Chrome Extensions For Tab Suspender Auto](/chrome-extensions-for-tab-suspender-auto)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

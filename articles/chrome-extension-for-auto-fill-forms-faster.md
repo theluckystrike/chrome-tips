@@ -65,4 +65,11 @@ Form filling does not have to be a tedious chore. With the right chrome extensio
 
 ---
 
+
+
+### Related Articles
+- [Chrome Extension For Auto Scroll Pages](/chrome-extension-for-auto-scroll-pages)
+- [Chrome Auto Dark Mode For Web Contents](/chrome-auto-dark-mode-for-web-contents)
+- [Chrome Background Sync For Offline Forms](/chrome-background-sync-for-offline-forms)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

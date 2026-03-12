@@ -70,3 +70,9 @@ The best chrome extensions for note taking in meetings depend on your specific w
 Start with one or two extensions that address your biggest pain points. You can always add more tools as you identify other needs. The goal is to find a system that lets you stay engaged in meetings while still capturing the information you need.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Note Taking In Browser Extensions](/chrome-for-note-taking-in-browser-extensions)
+- [Chrome Extensions For Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)

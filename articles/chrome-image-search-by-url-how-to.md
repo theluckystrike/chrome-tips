@@ -80,3 +80,9 @@ Try these methods next time you see an interesting image and want to learn more.
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Search By Image Right Click How To](/chrome-search-by-image-right-click-how-to)
+- [Chrome Custom Search Engines How To Add](/chrome-custom-search-engines-how-to-add)
+- [Chrome Default Search Engine Changed How To Fix](/chrome-default-search-engine-changed-how-to-fix)

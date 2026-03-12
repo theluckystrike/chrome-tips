@@ -63,3 +63,9 @@ As you become more familiar with the tool, you will find it easier to spot patte
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Protocol Monitor Guide](/chrome-protocol-monitor-guide)
+- [Chrome Cdp Protocol Explained Simply](/chrome-cdp-protocol-explained-simply)
+- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)

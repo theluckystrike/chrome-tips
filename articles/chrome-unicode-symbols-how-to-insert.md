@@ -70,4 +70,11 @@ Third, practice with a few common symbols until the methods become natural. The 
 
 ---
 
+
+
+### Related Articles
+- [Chrome Math Symbols How To Type](/chrome-math-symbols-how-to-type)
+- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
+- [Chrome Ad Personalization How To Turn Off](/chrome-ad-personalization-how-to-turn-off)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

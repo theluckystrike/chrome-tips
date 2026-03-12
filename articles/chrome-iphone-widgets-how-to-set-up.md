@@ -56,3 +56,9 @@ Some users create different widget configurations for different contexts. You mi
 Chrome iPhone widgets how to set up does not have to be complicated. With just a few minutes of setup, you can have quick access to the sites that matter most right from your home screen. Give it a try and see how much time it can save you throughout the day.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)
+- [Chrome Cast To Tv How To Set Up](/chrome-cast-to-tv-how-to-set-up)
+- [Chrome Kiosk Mode How To Set Up](/chrome-kiosk-mode-how-to-set-up)

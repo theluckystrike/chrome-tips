@@ -76,4 +76,11 @@ You can change your profile name as often as you like. There is no limit on how 
 
 ---
 
+
+
+### Related Articles
+- [Chrome Profile Picture How To Change](/chrome-profile-picture-how-to-change)
+- [Chrome Custom Fonts How To Change](/chrome-custom-fonts-how-to-change)
+- [Chrome Default Download Location How To Change](/chrome-default-download-location-how-to-change)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

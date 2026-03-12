@@ -97,4 +97,11 @@ Finally, consider the end-to-end workflow for your recorded content. The MediaRe
 
 ---
 
+
+
+### Related Articles
+- [Chrome Fetch Api Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome Notification Api Guide](/chrome-notification-api-guide)
+- [Chrome Topics Api Guide](/chrome-topics-api-guide)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

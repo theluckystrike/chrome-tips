@@ -80,9 +80,11 @@ You do not need to install every extension mentioned here. Start with one or two
 
 Once you have the right extensions in place, you will be surprised at how much more you can read and how much less tired your eyes feel. The internet is full of great articles, and with these tools, you can finally enjoy them without frustration.
 
-## Related Articles
-* [Chrome Extensions for Reading List Manager](/articles/chrome-extensions-for-reading-list-manager/)
-* [Chrome Extensions for Saving Articles Offline](/articles/chrome-extensions-for-saving-articles-offline/)
-* [Chrome Extensions for Speed Reading](/articles/chrome-extensions-for-speed-reading/)
+
+
+### Related Articles
+- [Chrome For Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)
+- [Chrome For Medium Best Reading Extensions](/chrome-for-medium-best-reading-extensions)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -81,4 +81,11 @@ Running repeated recordings or keeping many tabs open while testing can sometime
 
 ---
 
+
+
+### Related Articles
+- [Chrome Devtools Recorder Panel How To Use](/chrome-devtools-recorder-panel-how-to-use)
+- [Chrome Security Panel How To Check Ssl](/chrome-security-panel-how-to-check-ssl)
+- [Chrome Side Panel How To Use](/chrome-side-panel-how-to-use)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

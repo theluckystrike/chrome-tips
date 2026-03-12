@@ -72,3 +72,9 @@ Finally, consider implementing network-level protections such as content filteri
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)
+- [Chrome Cast To Tv How To Set Up](/chrome-cast-to-tv-how-to-set-up)
+- [Chrome Iphone Widgets How To Set Up](/chrome-iphone-widgets-how-to-set-up)

@@ -68,3 +68,9 @@ Finally, let the other participants know when you are about to start sharing you
 ## Footer
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Screen Recording In Browser How To](/chrome-screen-recording-in-browser-how-to)
+- [Chrome Location History In Browser How To Check](/chrome-location-history-in-browser-how-to-check)
+- [Chrome Auto Sign In To Websites How To Control](/chrome-auto-sign-in-to-websites-how-to-control)

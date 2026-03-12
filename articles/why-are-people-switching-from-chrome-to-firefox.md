@@ -62,3 +62,9 @@ Some people even use both browsers for different purposes, keeping Chrome for sp
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [How To Import Bookmarks From Firefox To Chrome](/how-to-import-bookmarks-from-firefox-to-chrome)
+- [Should I Switch From Chrome To Firefox For Speed](/should-i-switch-from-chrome-to-firefox-for-speed)
+- [Are Chrome Extensions Safe To Use](/are-chrome-extensions-safe-to-use)

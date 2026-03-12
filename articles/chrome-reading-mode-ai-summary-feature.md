@@ -86,4 +86,11 @@ For now, the AI summary feature in Chrome's Reading Mode is a valuable tool that
 
 ---
 
+
+
+### Related Articles
+- [Chrome Reading Mode Hidden Feature](/chrome-reading-mode-hidden-feature)
+- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
+- [Chrome Ai Tab Organization Feature](/chrome-ai-tab-organization-feature)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

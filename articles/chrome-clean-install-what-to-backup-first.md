@@ -71,3 +71,9 @@ With these steps completed, you can proceed with your clean install confidently,
 A clean install gives you a fresh, fast browser. And with proper backup, you get to keep everything that makes Chrome feel like home.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Add To Home Screen Vs Install App](/chrome-add-to-home-screen-vs-install-app)
+- [Chrome Cleanup Tool Removed What To Use Instead](/chrome-cleanup-tool-removed-what-to-use-instead)
+- [Chrome Extension Manifest V3 What Users Need To Know](/chrome-extension-manifest-v3-what-users-need-to-know)

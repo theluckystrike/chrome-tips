@@ -118,4 +118,11 @@ Start with the simplest fixes first, such as closing unnecessary tabs and cleari
 
 ---
 
+
+
+### Related Articles
+- [Chrome Notion Slow And Laggy Fix](/chrome-notion-slow-and-laggy-fix)
+- [Google Docs Slow In Chrome Fix](/google-docs-slow-in-chrome-fix)
+- [Chrome Android App Running Slow Fix](/chrome-android-app-running-slow-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

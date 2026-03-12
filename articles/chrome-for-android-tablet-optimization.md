@@ -73,3 +73,9 @@ Tablet optimization is not a one-time fix. Every few weeks, take a moment to clo
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Flags For Speed Optimization](/chrome-flags-for-speed-optimization)
+- [Chrome For Canva Web App Optimization](/chrome-for-canva-web-app-optimization)
+- [Chrome For Codecademy In Browser Optimization](/chrome-for-codecademy-in-browser-optimization)

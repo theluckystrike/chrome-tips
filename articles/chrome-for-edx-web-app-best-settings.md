@@ -95,3 +95,9 @@ You can choose what data to sync in Settings, under Sync and Google Services. If
 Making these adjustments takes about ten minutes but pays off every time you open Chrome for edX courses. Your browser becomes a tool that supports your learning goals rather than working against them.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Instacart Web App Best Settings](/chrome-for-instacart-web-app-best-settings)
+- [Chrome For Quizlet Web App Best Settings](/chrome-for-quizlet-web-app-best-settings)
+- [Chrome For Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)

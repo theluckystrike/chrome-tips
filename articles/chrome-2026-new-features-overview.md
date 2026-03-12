@@ -90,7 +90,8 @@ If a feature is not appearing after updating:
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-## Related Articles
-* [How to Recover Accidentally Closed Chrome Tabs](/articles/accidentally-closed-all-chrome-tabs-recovery/)
-* [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
-* [best ad blocker chrome extension 2026](/articles/best-ad-blocker-chrome-extension-2026/)
+
+### Related Articles
+- [Chrome Ai Features Built In 2026](/chrome-ai-features-built-in-2026)
+- [Chrome Best New Tab Extension 2026](/chrome-best-new-tab-extension-2026)
+- [Chrome Experimental Features List 2026](/chrome-experimental-features-list-2026)

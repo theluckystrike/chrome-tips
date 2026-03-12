@@ -108,4 +108,11 @@ Next time you need to do quick math while browsing, skip the calculator app—ju
 
 ---
 
+
+
+### Related Articles
+- [Chrome Duplicate Tab Shortcut Trick](/chrome-duplicate-tab-shortcut-trick)
+- [Chrome For Omnibox Search Tricks](/chrome-for-omnibox-search-tricks)
+- [Chrome Omnibox Hidden Features](/chrome-omnibox-hidden-features)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

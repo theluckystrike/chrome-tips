@@ -72,3 +72,9 @@ If you decide later that you want to turn autocomplete back on, the process is e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Ad Personalization How To Turn Off](/chrome-ad-personalization-how-to-turn-off)
+- [Chrome Location Services How To Turn Off](/chrome-location-services-how-to-turn-off)
+- [Chrome Predictive Loading How To Turn Off](/chrome-predictive-loading-how-to-turn-off)

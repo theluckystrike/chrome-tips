@@ -124,4 +124,11 @@ The goal is not to use Chrome less but to use it smarter. With these steps, you 
 
 ---
 
+
+
+### Related Articles
+- [How To Limit Chrome Memory Usage Windows](/how-to-limit-chrome-memory-usage-windows)
+- [How To Limit Chrome Ram Usage Mac](/how-to-limit-chrome-ram-usage-mac)
+- [How To Limit Chrome Memory Usage Mac](/how-to-limit-chrome-memory-usage-mac)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

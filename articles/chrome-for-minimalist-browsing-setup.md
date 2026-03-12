@@ -78,3 +78,9 @@ A minimalist Chrome setup is not about having the fewest features possible. It i
 Over time, you will find that a lighter browser helps you focus better and work faster. The small changes add up, and you will wonder why you ever tolerated the clutter.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Best Chrome Setup For Elderly Parents](/best-chrome-setup-for-elderly-parents)
+- [Best Chrome Setup For Graphic Designers](/best-chrome-setup-for-graphic-designers)
+- [Chrome Extension For Taking Notes While Browsing](/chrome-extension-for-taking-notes-while-browsing)

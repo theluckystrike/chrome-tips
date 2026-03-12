@@ -58,3 +58,9 @@ Give yourself a little time to get used to the new feature. At first, you might 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Tab Preview Hover How To Enable](/chrome-tab-preview-hover-how-to-enable)
+- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
+- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)

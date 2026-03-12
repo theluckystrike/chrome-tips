@@ -52,3 +52,9 @@ Remember that some CPU usage from Chrome is completely normal, especially when y
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Gpu Process High Cpu Fix](/chrome-gpu-process-high-cpu-fix)
+- [Chrome Helper Renderer Using Too Much Cpu](/chrome-helper-renderer-using-too-much-cpu)
+- [Chrome High Memory Usage Mac Fix](/chrome-high-memory-usage-mac-fix)

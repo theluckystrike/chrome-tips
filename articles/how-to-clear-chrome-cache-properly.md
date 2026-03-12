@@ -62,3 +62,9 @@ For even better performance, consider pairing regular cache clearing with Tab Su
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.*
+
+
+### Related Articles
+- [Chrome How To Clear Dns Cache](/chrome-how-to-clear-dns-cache)
+- [How To Clear Chrome Cache Fast](/how-to-clear-chrome-cache-fast)
+- [Chrome Address Bar Autocomplete How To Clear](/chrome-address-bar-autocomplete-how-to-clear)

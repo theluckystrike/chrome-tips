@@ -87,4 +87,11 @@ Chrome makes it straightforward to take control of your privacy. The built-in pr
 
 Take a few minutes today to run through your privacy checkup. Your future self will thank you for taking the time to protect your information now.
 
+
+
+### Related Articles
+- [Chrome Built In Password Checkup How To Use](/chrome-built-in-password-checkup-how-to-use)
+- [Chrome Dns Settings How To Change For Privacy](/chrome-dns-settings-how-to-change-for-privacy)
+- [Chrome Security Checkup How To Run](/chrome-security-checkup-how-to-run)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

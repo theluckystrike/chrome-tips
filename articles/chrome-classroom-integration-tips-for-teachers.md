@@ -90,3 +90,9 @@ The best Chrome setup is one that fits your specific teaching style and needs. T
 Remember that technology should support your teaching, not complicate it. Small improvements in how you use Chrome can free up mental energy for what matters most: helping your students learn and grow.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
+- [Chrome For Google Classroom Tips](/chrome-for-google-classroom-tips)
+- [Best Chrome Extensions For Teachers Online](/best-chrome-extensions-for-teachers-online)

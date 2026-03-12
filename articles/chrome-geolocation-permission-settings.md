@@ -73,3 +73,9 @@ Remember that you always have the final say. If a website asks for your location
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Geolocation Permission Manage](/chrome-geolocation-permission-manage)
+- [Best Chrome Settings For Chromebook](/best-chrome-settings-for-chromebook)
+- [Best Chrome Settings For Slow Computer](/best-chrome-settings-for-slow-computer)

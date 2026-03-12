@@ -73,3 +73,9 @@ Remember that keeping Chrome updated, managing your extensions, and occasionally
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+- [Chrome Address Bar Not Showing Full Url Fix](/chrome-address-bar-not-showing-full-url-fix)
+- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)

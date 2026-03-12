@@ -471,4 +471,11 @@ Remember to consider how your screen capture features interact with other browse
 
 With this knowledge, you're well-equipped to implement screen capture functionality that meets your users' needs while maintaining the security and privacy standards that Chrome users expect.
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*
+
+### Related Articles
+- [Chrome Screen Wake Lock Api Explained](/chrome-screen-wake-lock-api-explained)
+- [Chrome Accessibility Screen Reader Support](/chrome-accessibility-screen-reader-support)
+- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

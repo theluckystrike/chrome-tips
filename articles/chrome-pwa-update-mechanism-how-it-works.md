@@ -84,4 +84,11 @@ This cycle repeats every time you use the PWA, ensuring you always have the most
 
 For users who want more control, some PWA management options exist in Chrome settings. You can see which PWAs are installed and when they were last updated. While you can't force an instant update from here, you can see the state of each installed PWA.
 
+
+
+### Related Articles
+- [Chrome Pwa Offline Capability How It Works](/chrome-pwa-offline-capability-how-it-works)
+- [Chrome Enrollment For Schools How It Works](/chrome-enrollment-for-schools-how-it-works)
+- [Chrome Lazy Loading Images How It Works](/chrome-lazy-loading-images-how-it-works)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

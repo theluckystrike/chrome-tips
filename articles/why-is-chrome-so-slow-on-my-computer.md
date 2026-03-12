@@ -153,3 +153,9 @@ If you've tried everything and Chrome is still slow, consider:
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [My Computer Is So Slow How To Fix Chrome](/my-computer-is-so-slow-how-to-fix-chrome)
+- [Chrome Slow Only On My Computer Not Others](/chrome-slow-only-on-my-computer-not-others)
+- [Chrome Running Slow On New Laptop Why](/chrome-running-slow-on-new-laptop-why)

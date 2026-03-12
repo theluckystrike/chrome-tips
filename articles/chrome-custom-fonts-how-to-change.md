@@ -50,3 +50,9 @@ Remember that extensions that change website fonts may not work perfectly on eve
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Custom Search Engines How To Add](/chrome-custom-search-engines-how-to-add)
+- [Chrome Custom Theme How To Make Your Own](/chrome-custom-theme-how-to-make-your-own)
+- [Chrome Default Download Location How To Change](/chrome-default-download-location-how-to-change)

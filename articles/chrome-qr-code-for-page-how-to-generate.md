@@ -64,4 +64,11 @@ Generating QR codes for webpages in Chrome is a useful skill that can save you t
 
 Take a moment to try out a QR code generator extension. Once you have it installed, you will find that creating QR codes for pages becomes second nature, and you will wonder how you managed without it.
 
+
+
+### Related Articles
+- [Chrome Allow Popups For One Site How To](/chrome-allow-popups-for-one-site-how-to)
+- [Chrome Audit Page Seo How To](/chrome-audit-page-seo-how-to)
+- [Chrome Camera Permission For One Site How To Set](/chrome-camera-permission-for-one-site-how-to-set)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

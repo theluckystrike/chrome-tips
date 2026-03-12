@@ -56,3 +56,9 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Search Engine Keeps Changing To Yahoo Fix](/chrome-search-engine-keeps-changing-to-yahoo-fix)
+- [Chrome Homepage Keeps Changing Fix](/chrome-homepage-keeps-changing-fix)
+- [Chrome Homepage Keeps Resetting Fix](/chrome-homepage-keeps-resetting-fix)

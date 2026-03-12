@@ -58,3 +58,9 @@ Dealing with chrome mailto link not working can be frustrating, especially when 
 Remember that your email setup is a combination of your operating system settings and your browser settings. Both need to be properly configured for everything to work smoothly. With a little patience and some systematic checking, you should be able to get your mailto links working again and get back to your regular workflow.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+- [Chrome Autofill Not Working Fix](/chrome-autofill-not-working-fix)
+- [Chrome Back Button Not Working Fix](/chrome-back-button-not-working-fix)

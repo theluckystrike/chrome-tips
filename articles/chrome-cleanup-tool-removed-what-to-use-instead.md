@@ -74,3 +74,9 @@ Remember that keeping your browser clean is an ongoing process. By following the
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Lite Mode Discontinued What To Use Instead](/chrome-lite-mode-discontinued-what-to-use-instead)
+- [How To Use Chrome Built In Screenshot Tool](/how-to-use-chrome-built-in-screenshot-tool)
+- [Are Chrome Extensions Safe To Use](/are-chrome-extensions-safe-to-use)

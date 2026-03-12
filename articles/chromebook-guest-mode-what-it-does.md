@@ -60,3 +60,9 @@ If you find that your Chromebook slows down when you have many tabs open, whethe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome Incognito Mode What It Actually Does](/chrome-incognito-mode-what-it-actually-does)
+- [Chromebook Powerwash What It Does](/chromebook-powerwash-what-it-does)

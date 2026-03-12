@@ -51,4 +51,11 @@ Browser settings themselves may offer limited refresh capabilities in certain co
 
 ---
 
+
+
+### Related Articles
+- [Chrome Extensions For Auto Page Refresh](/chrome-extensions-for-auto-page-refresh)
+- [Chrome Extensions For Auto Tab Closer](/chrome-extensions-for-auto-tab-closer)
+- [Chrome Extensions For Cookie Auto Delete](/chrome-extensions-for-cookie-auto-delete)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

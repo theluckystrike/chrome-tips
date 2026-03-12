@@ -90,3 +90,9 @@ Most of the time, one of the solutions above will get your search working again.
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Search Bar Not Working Fix](/chrome-search-bar-not-working-fix)
+- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+- [Chrome Autofill Not Working Fix](/chrome-autofill-not-working-fix)

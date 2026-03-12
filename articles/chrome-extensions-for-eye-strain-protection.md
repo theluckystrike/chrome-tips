@@ -66,3 +66,9 @@ Your eyes are important, and taking care them while you browse should be a prior
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome For Reducing Eye Strain Extensions](/chrome-for-reducing-eye-strain-extensions)
+- [Chrome Extensions For Eye Dropper Tool](/chrome-extensions-for-eye-dropper-tool)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)

@@ -72,3 +72,9 @@ If you use many tabs in Chrome and want to keep your browser running smoothly wh
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Microphone Permission For One Site How To Set](/chrome-microphone-permission-for-one-site-how-to-set)
+- [Chrome Allow Popups For One Site How To](/chrome-allow-popups-for-one-site-how-to)
+- [Chrome Enable Cookies For One Site How To](/chrome-enable-cookies-for-one-site-how-to)

@@ -73,3 +73,9 @@ Changing how Chrome handles files is really about understanding your operating s
 Take a moment to review your current defaults and make sure they match what you actually use. A few minutes of adjustment now can save a lot of frustration every time you click on a file link in Chrome.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Default Download Location How To Change](/chrome-default-download-location-how-to-change)
+- [How To Change Default Download Location Chrome](/how-to-change-default-download-location-chrome)
+- [Chrome Custom Fonts How To Change](/chrome-custom-fonts-how-to-change)

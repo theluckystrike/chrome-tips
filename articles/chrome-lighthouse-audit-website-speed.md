@@ -69,4 +69,11 @@ Remember that while achieving a perfect 100 score is impressive, it is not alway
 
 ---
 
+
+
+### Related Articles
+- [Chrome Extensions For Website Speed Test](/chrome-extensions-for-website-speed-test)
+- [Chrome Lighthouse Audit Guide](/chrome-lighthouse-audit-guide)
+- [Chrome Lighthouse Audit How To Run](/chrome-lighthouse-audit-how-to-run)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

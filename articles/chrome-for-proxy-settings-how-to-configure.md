@@ -80,3 +80,9 @@ It is also a good idea to periodically check that your proxy is actually working
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Proxy Settings How To Configure](/chrome-proxy-settings-how-to-configure)
+- [Chrome Dns Settings How To Change For Privacy](/chrome-dns-settings-how-to-change-for-privacy)
+- [Chrome Allow Popups For One Site How To](/chrome-allow-popups-for-one-site-how-to)

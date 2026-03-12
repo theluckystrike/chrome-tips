@@ -78,4 +78,11 @@ If you use many extensions, tracing can reveal which ones are consuming resource
 
 ---
 
+
+
+### Related Articles
+- [Chrome For Hbo Max Streaming Issues](/chrome-for-hbo-max-streaming-issues)
+- [Chrome Performance Api For Measuring Speed](/chrome-performance-api-for-measuring-speed)
+- [Chrome Performance Panel For Regular Users](/chrome-performance-panel-for-regular-users)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

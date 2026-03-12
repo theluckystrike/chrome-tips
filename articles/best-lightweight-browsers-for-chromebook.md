@@ -79,9 +79,11 @@ The best lightweight browser for your Chromebook depends on your needs. If you w
 
 Try installing a few different browsers and see which one feels fastest on your specific Chromebook. Remember that browser performance can vary depending on what types of websites you visit most and how many tabs you typically keep open.
 
-## Related Articles
-* [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/articles/best-chrome-settings-for-chromebook/)
-* [Best Chromebook Extensions for Students](/articles/best-chromebook-extensions-for-students/)
-* [Best Chromium Browsers Besides Chrome 2026](/articles/best-chromium-browsers-besides-chrome-2026/)
+
+
+### Related Articles
+- [Best Chrome Settings For Chromebook](/best-chrome-settings-for-chromebook)
+- [Best Chromebook Extensions For Students](/best-chromebook-extensions-for-students)
+- [Best Browser For 2Gb Ram Laptop 2026](/best-browser-for-2gb-ram-laptop-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

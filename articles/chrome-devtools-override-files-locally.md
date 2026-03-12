@@ -71,3 +71,9 @@ Chrome DevTools overrides are a powerful but underutilized feature that can save
 Give it a try on your next project and see how much easier it makes testing and debugging.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Workspaces Link Devtools To Files](/chrome-workspaces-link-devtools-to-files)
+- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
+- [Chrome Devtools Changes Panel Track Edits](/chrome-devtools-changes-panel-track-edits)

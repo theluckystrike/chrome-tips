@@ -60,3 +60,9 @@ When you find chrome gpu acceleration causing problems, start by disabling hardw
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Gpu Acceleration Gaming Settings](/chrome-gpu-acceleration-gaming-settings)
+- [Chrome Gpu Process High Cpu Fix](/chrome-gpu-process-high-cpu-fix)
+- [Chrome Gpu Process High Memory Fix](/chrome-gpu-process-high-memory-fix)

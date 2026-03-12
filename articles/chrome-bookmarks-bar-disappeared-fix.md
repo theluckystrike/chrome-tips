@@ -92,3 +92,9 @@ Once your bookmarks bar is working again, take a moment to make sure your import
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Bookmark Bar Disappeared How To Fix](/chrome-bookmark-bar-disappeared-how-to-fix)
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+- [Chrome Address Bar Not Showing Full Url Fix](/chrome-address-bar-not-showing-full-url-fix)

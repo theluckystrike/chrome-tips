@@ -72,3 +72,9 @@ Most users don't need Chrome's background features, so turning them off is a sim
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [How To Stop Chrome From Eating Ram](/how-to-stop-chrome-from-eating-ram)
+- [How To Stop Chrome From Opening On Startup](/how-to-stop-chrome-from-opening-on-startup)
+- [How To Stop Chrome From Redirecting To Https](/how-to-stop-chrome-from-redirecting-to-https)

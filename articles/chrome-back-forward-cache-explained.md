@@ -73,3 +73,9 @@ If you find that Chrome is using more memory than you would like, or if your bro
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Back Forward Cache How To Test](/chrome-back-forward-cache-how-to-test)
+- [Chrome Cookies Vs Cache Difference Explained](/chrome-cookies-vs-cache-difference-explained)
+- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)

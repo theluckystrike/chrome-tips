@@ -86,3 +86,9 @@ Use the chrome extensions for website testing that match your specific needs. No
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Extensions For Api Testing Simple](/chrome-extensions-for-api-testing-simple)
+- [Chrome Extensions For Font Changer On Any Website](/chrome-extensions-for-font-changer-on-any-website)
+- [Chrome Extensions For Website Archiving](/chrome-extensions-for-website-archiving)

@@ -74,3 +74,9 @@ Look for a settings gear icon on whatever platform you are using and experiment 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Kick Streaming Web Tips](/chrome-for-kick-streaming-web-tips)
+- [Chrome For Touchscreen Optimization Tips](/chrome-for-touchscreen-optimization-tips)
+- [Chrome Address Bar Tips And Tricks](/chrome-address-bar-tips-and-tricks)

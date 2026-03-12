@@ -73,3 +73,9 @@ Pay attention to what the panel tells you. Most reputable websites will show sec
 The Security panel is one of those tools that is easy to overlook but incredibly useful once you understand it. It gives you transparency into something that happens behind the scenes when you browse the web, and that transparency helps you stay safer online.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
+- [Chrome Devtools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Devtools Memory Panel Explained](/chrome-devtools-memory-panel-explained)

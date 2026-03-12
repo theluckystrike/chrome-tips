@@ -70,3 +70,9 @@ A well-performing website should load most of its content within a few seconds. 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
+- [Chrome Network Tab How To Use Debug](/chrome-network-tab-how-to-use-debug)
+- [Chrome Network Throttling How To Simulate Slow Connection](/chrome-network-throttling-how-to-simulate-slow-connection)

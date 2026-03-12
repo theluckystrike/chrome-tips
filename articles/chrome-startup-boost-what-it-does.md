@@ -70,4 +70,11 @@ Whether to keep Chrome Startup Boost enabled is a personal decision that depends
 
 The most important thing is that you understand what the feature does and how it affects your system. Now that you know what Chrome Startup Boost actually does, you can make an informed choice that works best for your situation.
 
+
+
+### Related Articles
+- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
+- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

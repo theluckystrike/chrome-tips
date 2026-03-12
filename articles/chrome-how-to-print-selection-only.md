@@ -88,3 +88,9 @@ If you find yourself printing selections often, try the "Print What You Like" ex
 Give these methods a try on your next printing task. You might be surprised how much easier it is to print just what you need instead of dealing with entire pages full of stuff you never wanted in the first place.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Emulate Print Media How To](/chrome-emulate-print-media-how-to)
+- [Chrome How To Print Without Headers Footers](/chrome-how-to-print-without-headers-footers)
+- [Chrome Https Only Mode How To Enable](/chrome-https-only-mode-how-to-enable)

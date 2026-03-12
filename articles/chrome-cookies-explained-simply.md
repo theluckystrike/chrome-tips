@@ -88,3 +88,9 @@ Cookies do not have to be confusing or mysterious. They are simply small files t
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Cdp Protocol Explained Simply](/chrome-cdp-protocol-explained-simply)
+- [Chrome Certificate Transparency Explained Simply](/chrome-certificate-transparency-explained-simply)
+- [Chrome Cookies Explained For Beginners](/chrome-cookies-explained-for-beginners)

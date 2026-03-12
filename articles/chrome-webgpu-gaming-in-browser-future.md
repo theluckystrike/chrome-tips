@@ -63,4 +63,11 @@ Chrome WebGPU represents a pivotal moment in browser technology. What was once a
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*
+
+### Related Articles
+- [Chrome For Apple Notes In Browser Workaround](/chrome-for-apple-notes-in-browser-workaround)
+- [Chrome For Codecademy In Browser Optimization](/chrome-for-codecademy-in-browser-optimization)
+- [Chrome For Codepen In Browser Tips](/chrome-for-codepen-in-browser-tips)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

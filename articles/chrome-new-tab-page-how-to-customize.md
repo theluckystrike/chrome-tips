@@ -51,3 +51,9 @@ Remember that your needs may change over time. Revisit your new tab page setup e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome New Tab Page Slow To Load](/chrome-new-tab-page-slow-to-load)
+- [How To Make Chrome Open Links In New Tab](/how-to-make-chrome-open-links-in-new-tab)
+- [Chrome Audit Page Seo How To](/chrome-audit-page-seo-how-to)

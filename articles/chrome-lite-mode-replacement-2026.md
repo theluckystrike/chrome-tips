@@ -68,3 +68,9 @@ Take some time to experiment with different approaches. You may find that a comb
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Lite Mode Data Saver Replacement](/chrome-lite-mode-data-saver-replacement)
+- [Chrome Lite Mode Discontinued What To Use Instead](/chrome-lite-mode-discontinued-what-to-use-instead)
+- [Chrome Lite Mode Does It Still Exist](/chrome-lite-mode-does-it-still-exist)

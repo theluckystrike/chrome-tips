@@ -66,4 +66,11 @@ Now that you know how Chrome Tab to Search works, try it next time you are looki
 
 The beauty of Tab to Search is that it fits naturally into how you already use Chrome. You already use the address bar for searching and navigating. Now that same action can help you find your existing tabs, closing the gap between looking something up and finding something you already had open.
 
+
+
+### Related Articles
+- [Chrome Tab Search Feature How To Use](/chrome-tab-search-feature-how-to-use)
+- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
+- [Chrome Network Tab How To Use Debug](/chrome-network-tab-how-to-use-debug)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

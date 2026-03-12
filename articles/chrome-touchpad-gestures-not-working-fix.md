@@ -77,4 +77,11 @@ Start with the simple fixes like restarting Chrome and clearing cache, then move
 
 If nothing seems to work, remember that you can always reach out to Chrome support or your computer manufacturer for additional help. Most touchpad gesture issues can be resolved with some patience and systematic troubleshooting.
 
+
+
+### Related Articles
+- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+- [Chrome Autofill Not Working Fix](/chrome-autofill-not-working-fix)
+- [Chrome Back Button Not Working Fix](/chrome-back-button-not-working-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -66,3 +66,9 @@ Deleting your activity is not a one-time fix but rather something you might want
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Autofill Suggestions How To Delete One](/chrome-autofill-suggestions-how-to-delete-one)
+- [Chrome Beta Channel How To Join And Leave](/chrome-beta-channel-how-to-join-and-leave)
+- [Chrome File Handling How To Change Default App](/chrome-file-handling-how-to-change-default-app)

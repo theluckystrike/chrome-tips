@@ -61,4 +61,11 @@ Once installed, visit a website with images you want to save. Click the extensio
 
 Start with one extension to see if it fits your workflow, and try different ones if you find their approaches differ. The best extension for you depends on the types of websites you visit and how you prefer to organize your downloads.
 
+
+
+### Related Articles
+- [Chrome Extension For Video Downloading Legal](/chrome-extension-for-video-downloading-legal)
+- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
+- [Chrome Extension For Auto Fill Forms Faster](/chrome-extension-for-auto-fill-forms-faster)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

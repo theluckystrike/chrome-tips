@@ -91,9 +91,11 @@ While Chrome built-in accessibility features cover most common needs, some situa
 
 For users with significant visual impairments, dedicated screen reader apps and magnification tools available through your phone operating system can provide additional support beyond what Chrome offers.
 
-## Related Articles
-* [Chrome Ads on Phone How to Block Without Extension](/articles/chrome-ads-on-phone-how-to-block-without-extension/)
-* [chrome autofill on phone how to manage](/articles/chrome-autofill-on-phone-how-to-manage/)
-* [Chrome Camera Access on Phone How to Manage](/articles/chrome-camera-access-on-phone-how-to-manage/)
+
+
+### Related Articles
+- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
+- [Chrome Accessibility Tree Guide](/chrome-accessibility-tree-guide)
+- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -76,4 +76,11 @@ Making these changes typically reduces LCP times by 20-40% depending on your sta
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
+
+
+### Related Articles
+- [Chrome Largest Contentful Paint Explained](/chrome-largest-contentful-paint-explained)
+- [Chrome Largest Contentful Paint Optimize](/chrome-largest-contentful-paint-optimize)
+- [Chrome Interaction Next Paint Improve](/chrome-interaction-next-paint-improve)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

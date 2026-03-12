@@ -102,3 +102,9 @@ Take some time to explore all the language settings in Chrome. The browser is mo
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Casting To Tv How To Setup](/chrome-casting-to-tv-how-to-setup)
+- [How To Change Chrome Language Settings](/how-to-change-chrome-language-settings)
+- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)

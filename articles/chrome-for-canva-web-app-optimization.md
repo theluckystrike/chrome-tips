@@ -78,3 +78,9 @@ Restarting Chrome regularly also helps maintain good performance. Over time, bro
 By implementing these practices, you can create a more efficient Chrome setup that makes Canva run faster and more reliably. Small adjustments add up to a noticeably better design experience, allowing you to focus on creating without fighting your browser.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Coursera Web App Optimization](/chrome-for-coursera-web-app-optimization)
+- [Chrome For Descript Web App Optimization](/chrome-for-descript-web-app-optimization)
+- [Chrome For Discord Web App Optimization](/chrome-for-discord-web-app-optimization)

@@ -59,3 +59,9 @@ When a website asks for notification permission, take a quick moment to decide w
 By following these steps and checking in on your settings regularly, you can enjoy the useful notifications while keeping the annoying ones at bay. Your browser should work for you, not against you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+- [Chrome Canvas Fingerprinting How To Block](/chrome-canvas-fingerprinting-how-to-block)
+- [Chrome Media Autoplay How To Block](/chrome-media-autoplay-how-to-block)

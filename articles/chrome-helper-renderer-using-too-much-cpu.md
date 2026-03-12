@@ -66,3 +66,9 @@ Remember that a little CPU usage from Chrome is normal and expected. The goal is
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Extension Using Too Much Memory Find](/chrome-extension-using-too-much-memory-find)
+- [Chrome Extensions Using Too Much Memory](/chrome-extensions-using-too-much-memory)
+- [Chrome Helper Renderer High Cpu Mac Fix](/chrome-helper-renderer-high-cpu-mac-fix)

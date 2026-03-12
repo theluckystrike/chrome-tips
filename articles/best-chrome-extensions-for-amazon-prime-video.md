@@ -73,9 +73,11 @@ The beauty of these extensions is that they are easy to install and remove if th
 
 Once you start using these extensions, you will wonder how you ever watched Prime Video without them. Whether it is better subtitles, easier downloads, or a faster browser, there is an extension that can help. Take some time to explore these options and customize your Prime Video experience to suit your preferences.
 
-## Related Articles
-* [Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide](/articles/chrome-amazon-prime-video-not-playing-fix/)
-* [Chrome for Amazon Prime Video Quality Settings](/articles/chrome-for-amazon-prime-video-quality-settings/)
-* [Best Chrome Extensions for Video Editors](/articles/best-chrome-extensions-for-video-editors/)
+
+
+### Related Articles
+- [Best Chrome Extensions For Video Editors](/best-chrome-extensions-for-video-editors)
+- [Chrome For Amazon Prime Video Quality Settings](/chrome-for-amazon-prime-video-quality-settings)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

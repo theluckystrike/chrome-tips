@@ -81,7 +81,8 @@ Remember that the best tool is the one you actually use. An extension with every
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
-## Related Articles
-* [chrome best screenshot extension 2026](/articles/chrome-best-screenshot-extension-2026/)
-* [chrome extension for screenshot and annotate](/articles/chrome-extension-for-screenshot-and-annotate/)
-* [Chrome Screenshot Full Page Without Extension](/articles/chrome-screenshot-full-page-without-extension/)
+
+### Related Articles
+- [Chrome Best Screenshot Extension 2026](/chrome-best-screenshot-extension-2026)
+- [Best Ad Blocker Chrome Extension 2026](/best-ad-blocker-chrome-extension-2026)
+- [Best Dark Mode Chrome Extension](/best-dark-mode-chrome-extension)

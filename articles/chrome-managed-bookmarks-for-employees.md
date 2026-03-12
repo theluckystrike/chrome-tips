@@ -76,3 +76,9 @@ This separation is actually one of the strengths of the managed bookmarks approa
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Extensions For Speed Dial Bookmarks](/chrome-extensions-for-speed-dial-bookmarks)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)

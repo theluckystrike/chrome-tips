@@ -69,3 +69,9 @@ Chrome devtools device orientation emulator is just one of many helpful features
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Cross Device Tab Sync Not Working Fix](/chrome-cross-device-tab-sync-not-working-fix)
+- [Chrome Device Emulation Advanced](/chrome-device-emulation-advanced)
+- [Chrome Device Emulation Test Mobile Website](/chrome-device-emulation-test-mobile-website)

@@ -74,3 +74,9 @@ Your phone is supposed to make your life easier, not add another thing to worry 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
+- [Chrome Notifications On Phone Too Many How To Stop](/chrome-notifications-on-phone-too-many-how-to-stop)
+- [How To Stop Opening Too Many Tabs](/how-to-stop-opening-too-many-tabs)

@@ -82,3 +82,9 @@ The keyboard shortcut (Ctrl-click or Command-click) is the fastest once you reme
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome New Tab Page How To Customize](/chrome-new-tab-page-how-to-customize)
+- [Chrome Open Link In New Tab Shortcut](/chrome-open-link-in-new-tab-shortcut)
+- [How To Find A Specific Tab In Chrome](/how-to-find-a-specific-tab-in-chrome)

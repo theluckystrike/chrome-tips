@@ -73,4 +73,11 @@ Text to speech technology has made it easier than ever to consume web content in
 
 ---
 
+
+
+### Related Articles
+- [Chrome For Text To Speech On Any Page](/chrome-for-text-to-speech-on-any-page)
+- [Chrome Gdpr Cookie Banners Best Extension To Handle](/chrome-gdpr-cookie-banners-best-extension-to-handle)
+- [Chrome Text To Speech Built In Feature](/chrome-text-to-speech-built-in-feature)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

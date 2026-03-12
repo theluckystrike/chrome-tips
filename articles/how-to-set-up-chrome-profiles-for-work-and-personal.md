@@ -68,3 +68,9 @@ Chrome profiles are a powerful feature that can transform how you use your brows
 Give it a try and see how much easier your browsing becomes when everything has its proper place.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Passkeys How To Set Up And Use](/chrome-passkeys-how-to-set-up-and-use)
+- [Chrome Sync Phone And Computer How To Set Up](/chrome-sync-phone-and-computer-how-to-set-up)
+- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)

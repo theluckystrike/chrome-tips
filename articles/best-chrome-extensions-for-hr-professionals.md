@@ -91,9 +91,11 @@ Chrome extensions are not just nice-to-have tools; they can genuinely transform 
 
 Take time to explore these extensions and see which ones work best for your specific HR role. Whether you are focused on recruitment, employee relations, or benefits administration, there are tools designed to help you work more effectively. The key is to start with one or two extensions that address your biggest pain points and gradually add more as you see how they fit into your workflow.
 
-## Related Articles
-* [Best Chrome Extensions for Cybersecurity Professionals](/articles/best-chrome-extensions-for-cybersecurity-professionals/)
-* [Best Chrome Extensions for Marketing Professionals](/articles/best-chrome-extensions-for-marketing-professionals/)
-* [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
+
+
+### Related Articles
+- [Best Chrome Extensions For Cybersecurity Professionals](/best-chrome-extensions-for-cybersecurity-professionals)
+- [Best Chrome Extensions For Marketing Professionals](/best-chrome-extensions-for-marketing-professionals)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

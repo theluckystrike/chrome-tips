@@ -71,4 +71,11 @@ For persistent debugging sessions, consider using Chrome's capability to export 
 
 Chrome's WebSocket inspection tools are continually improving, with new features added regularly. Staying familiar with these tools helps you debug real-time applications more effectively and build more reliable WebSocket-based features.
 
+
+
+### Related Articles
+- [Chrome Indexeddb Inspect Debug](/chrome-indexeddb-inspect-debug)
+- [Chrome Animations Panel Inspect Transitions](/chrome-animations-panel-inspect-transitions)
+- [Chrome Application Tab Inspect Service Workers](/chrome-application-tab-inspect-service-workers)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

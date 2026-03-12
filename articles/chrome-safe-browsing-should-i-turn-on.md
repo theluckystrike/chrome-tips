@@ -67,3 +67,9 @@ If you find that you have many tabs open and want to manage them better, conside
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Hardware Acceleration Should I Turn On Or Off](/chrome-hardware-acceleration-should-i-turn-on-or-off)
+- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
+- [Chrome Safe Browsing On Phone How To Check](/chrome-safe-browsing-on-phone-how-to-check)

@@ -71,5 +71,12 @@ Finally, consider your overall browser performance. Running **Face Detection** a
 
 Using **Tab Suspender Pro** is an excellent way to handle this. It automatically "hibernates" background tabs, freeing up **RAM** and **CPU** resources so that your active **Shape Detection** tasks run smoothly and without lag. By keeping your browser lean, you ensure that high-performance **Web APIs** have the resources they need to function correctly.
 
+
+
+### Related Articles
+- [Chrome Shape Detection Api Explained](/chrome-shape-detection-api-explained)
+- [Chrome Idle Detection Api Explained](/chrome-idle-detection-api-explained)
+- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

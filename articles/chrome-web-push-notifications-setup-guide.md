@@ -80,3 +80,9 @@ Remember to start slow, test thoroughly, and always respect your users' preferen
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Push Notifications Web Apps](/chrome-push-notifications-web-apps)
+- [Chrome Extension Publish To Web Store Guide](/chrome-extension-publish-to-web-store-guide)
+- [Chrome Extensions For Ublock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)

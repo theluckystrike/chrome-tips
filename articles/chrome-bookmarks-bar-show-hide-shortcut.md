@@ -81,4 +81,11 @@ Take a moment to practice the shortcut a few times. Within a day or two, it will
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*
+
+### Related Articles
+- [Chrome Address Bar Focus Shortcut](/chrome-address-bar-focus-shortcut)
+- [Chrome Bookmarks Bar Disappeared Fix](/chrome-bookmarks-bar-disappeared-fix)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

@@ -70,3 +70,9 @@ Small improvements in your browsing setup can make a significant difference in h
 Give these tools a try and see which ones work best for your specific needs. Everyone reads differently, and the right combination of extensions will depend on how you use Wikipedia and what challenges you face most often.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Best Chrome Extensions For Reading Articles](/best-chrome-extensions-for-reading-articles)
+- [Chrome Extension For Reading Mode Distraction Free](/chrome-extension-for-reading-mode-distraction-free)
+- [Chrome Extension For Reading Speed Tracker](/chrome-extension-for-reading-speed-tracker)

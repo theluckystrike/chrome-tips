@@ -97,3 +97,9 @@ Keep Chrome updated so you have the latest fixes and improvements.
 If your browser feels sluggish overall, consider using a tab management tool like Tab Suspender Pro to automatically suspend tabs you are not using. This reduces memory usage and can help Chrome run more smoothly, which may prevent issues like scroll problems from occurring.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+- [Chrome Autofill Not Working Fix](/chrome-autofill-not-working-fix)
+- [Chrome Back Button Not Working Fix](/chrome-back-button-not-working-fix)

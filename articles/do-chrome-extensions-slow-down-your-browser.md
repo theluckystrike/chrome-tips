@@ -75,3 +75,9 @@ Remember that fewer, well-chosen extensions will serve you better than dozens of
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Does Having Many Chrome Extensions Slow Down Browser](/does-having-many-chrome-extensions-slow-down-browser)
+- [How To Find Chrome Extensions That Slow Down Browser](/how-to-find-chrome-extensions-that-slow-down-browser)
+- [Can Chrome Extensions Steal Your Data](/can-chrome-extensions-steal-your-data)

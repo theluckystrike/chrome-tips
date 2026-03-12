@@ -74,3 +74,9 @@ Private browsing is not just about using Incognito mode. By combining several of
 Give these tips a try and see which ones work best for your browsing habits.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Classroom Integration Tips For Teachers](/chrome-classroom-integration-tips-for-teachers)
+- [Chrome Extension For Taking Notes While Browsing](/chrome-extension-for-taking-notes-while-browsing)
+- [Chrome Extensions For Faster Browsing](/chrome-extensions-for-faster-browsing)

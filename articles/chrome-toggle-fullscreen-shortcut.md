@@ -77,4 +77,11 @@ Now that you know the chrome toggle fullscreen shortcut, go ahead and give it a 
 
 ---
 
+
+
+### Related Articles
+- [Chrome Fullscreen Mode Shortcut](/chrome-fullscreen-mode-shortcut)
+- [Chrome Address Bar Focus Shortcut](/chrome-address-bar-focus-shortcut)
+- [Chrome Bookmark Current Page Shortcut](/chrome-bookmark-current-page-shortcut)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

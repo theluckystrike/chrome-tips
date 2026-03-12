@@ -57,3 +57,9 @@ While Tab Suspender Pro does not directly control the Intersection Observer API,
 Using tools like this, along with keeping your browser updated, can help you get the most out of the improvements that features like the Intersection Observer API bring to your web browsing.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Mutation Observer Api Explained](/chrome-mutation-observer-api-explained)
+- [Chrome Performance Observer Api Explained](/chrome-performance-observer-api-explained)
+- [Chrome Resize Observer Api Explained](/chrome-resize-observer-api-explained)

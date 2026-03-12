@@ -69,3 +69,9 @@ Enabling Chrome Safe Search is one of the easiest ways to create a safer browsin
 Remember that no single solution is foolproof. Combining technical tools like Safe Search with open communication and supervision is the best approach to keeping everyone safe online.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Voice Search How To Enable](/chrome-for-voice-search-how-to-enable)
+- [Chrome Safe Search How To Lock](/chrome-safe-search-how-to-lock)
+- [How To Enable Chrome Enhanced Safe Browsing](/how-to-enable-chrome-enhanced-safe-browsing)

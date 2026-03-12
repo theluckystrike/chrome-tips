@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide"
-description: "Having trouble with Amazon Prime Video not playing in Chrome? This practical guide covers all the fixes, from clearing cache to updating drivers."
+title: 'Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide'
+description: Having trouble with Amazon Prime Video not playing in Chrome? This practical
+  guide covers all the fixes, from clearing cache to updating drivers. Discover es...
 date: 2026-03-11
-categories: [troubleshooting, chrome, streaming, amazon-prime-video]
-tags: [chrome-amazon-prime-video-not-playing-fix, streaming-issues, browser-troubleshooting]
+categories:
+- troubleshooting
+- chrome
+- streaming
+- amazon-prime-video
+tags:
+- chrome-amazon-prime-video-not-playing-fix
+- streaming-issues
+- browser-troubleshooting
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-amazon-prime-video-not-playing-fix
 ---
 
 # Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide

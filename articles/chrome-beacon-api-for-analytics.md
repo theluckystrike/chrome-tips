@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Beacon API for Analytics"
-description: "Discover how Chrome Beacon API works for analytics, why websites use it, and how it affects your browser performance and data usage."
+title: Chrome Beacon API for Analytics
+description: Discover how Chrome Beacon API works for analytics, why websites use
+  it, and how it affects your browser performance and data usage. Discover essential
+  insig...
 date: 2026-01-15
-categories: [chrome-features, browser-privacy]
-tags: [chrome-beacon-api, web-analytics, browser-data]
+categories:
+- chrome-features
+- browser-privacy
+tags:
+- chrome-beacon-api
+- web-analytics
+- browser-data
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-beacon-api-for-analytics
 ---
 
 # Chrome Beacon API for Analytics

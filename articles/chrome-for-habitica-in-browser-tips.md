@@ -1,11 +1,23 @@
 ---
 layout: post
-title: "Chrome for Habitica In Browser Tips"
-description: "Get the most out of Habitica with Chrome. Learn browser tips to improve your productivity and habit tracking experience."
+title: Chrome for Habitica In Browser Tips
+description: Get the most out of Habitica with Chrome. Learn browser tips to improve
+  your productivity and habit tracking experience. Discover essential insights and
+  prac...
 date: 2026-01-15
-categories: [productivity, habits, browser]
-tags: [chrome, habitica, browser-tips, productivity, habit-tracking]
+categories:
+- productivity
+- habits
+- browser
+tags:
+- chrome
+- habitica
+- browser-tips
+- productivity
+- habit-tracking
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-habitica-in-browser-tips
 ---
 
 # Chrome for Habitica In Browser Tips

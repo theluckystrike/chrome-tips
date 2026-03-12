@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Chrome for Claude AI Web Tips"
-description: "Learn how to optimize Chrome for the best Claude AI web experience with these practical tips for faster, smoother AI interactions."
+title: Chrome for Claude AI Web Tips
+description: Learn how to optimize Chrome for the best Claude AI web experience with
+  these practical tips for faster, smoother AI interactions. Discover essential insight...
 date: 2026-03-10
-categories: [ai-tools, tips]
-tags: [claude-ai, chrome-tips, browser-optimization]
+categories:
+- ai-tools
+- tips
+tags:
+- claude-ai
+- chrome-tips
+- browser-optimization
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-claude-ai-web-tips
 ---
 
 # Chrome for Claude AI Web Tips

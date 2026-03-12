@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for SEO Analysis Free"
-description: "Discover free Chrome extensions for SEO analysis that help you audit websites, track rankings, and improve search visibility."
+title: Chrome Extensions for SEO Analysis Free
+description: Discover free Chrome extensions for SEO analysis that help you audit
+  websites, track rankings, and improve search visibility. Discover essential insights
+  and...
 date: 2026-03-09
-categories: [seo, tips]
-tags: [chrome-extensions, seo, free-tools]
+categories:
+- seo
+- tips
+tags:
+- chrome-extensions
+- seo
+- free-tools
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-seo-analysis-free
 ---
 
 # Chrome Extensions for SEO Analysis Free

@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome experimental features list 2026"
-description: "Complete list of Chrome experimental features in 2026. Find the best hidden flags to enhance your browsing experience."
+title: chrome experimental features list 2026
+description: Complete list of Chrome experimental features in 2026. Find the best
+  hidden flags to enhance your browsing experience. Discover essential insights and
+  practi...
 date: 2026-03-10
-categories: [features, customization]
-tags: [chrome-flags, experimental-features, chrome-settings, 2026]
+categories:
+- features
+- customization
+tags:
+- chrome-flags
+- experimental-features
+- chrome-settings
+- 2026
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-experimental-features-list-2026
 ---
 
 # Chrome Experimental Features List 2026

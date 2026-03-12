@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Chrome Temporal API Date Time: A Complete Guide to Modern Date Handling"
-description: "Learn how to use the Chrome Temporal API for advanced date and time operations. Discover practical examples, browser support, and how it improves upon traditional Date objects."
+title: 'Chrome Temporal API Date Time: A Complete Guide to Modern Date Handling'
+description: Learn how to use the Chrome Temporal API for advanced date and time operations.
+  Discover practical examples, browser support, and how it improves upon tradit...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-temporal-api-date-time
 ---
 
 The Chrome Temporal API represents one of the most significant improvements to JavaScript's date and time handling capabilities in recent years. If you have ever struggled with the limitations of the traditional Date object in JavaScript, the Temporal API offers a modern solution that makes working with dates and times significantly more intuitive and powerful. This guide explores everything you need to know about the Chrome Temporal API date time features and how they can improve your web development workflow.

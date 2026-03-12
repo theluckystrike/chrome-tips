@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Chrome 2026 New Features Overview"
-description: "A complete guide to Chrome's newest features in 2026. Real version details, AI integration, performance upgrades, and privacy changes."
+title: Chrome 2026 New Features Overview
+description: A complete guide to Chrome's newest features in 2026. Real version details,
+  AI integration, performance upgrades, and privacy changes. Discover essential ins...
 date: 2026-01-20
-categories: [features, updates]
-tags: [chrome-2026, new-features, browser-update]
+categories:
+- features
+- updates
+tags:
+- chrome-2026
+- new-features
+- browser-update
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-2026-new-features-overview
 ---
 
 # Chrome 2026 New Features Overview

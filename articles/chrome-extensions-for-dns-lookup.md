@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for DNS Lookup"
-description: "Looking for chrome extensions for dns lookup? Find the best tools to check and troubleshoot DNS issues directly in your browser."
+title: Chrome Extensions for DNS Lookup
+description: Looking for chrome extensions for dns lookup? Find the best tools to
+  check and troubleshoot DNS issues directly in your browser. Discover essential insights
+  ...
 date: 2026-03-10
-categories: [productivity, tools]
-tags: [chrome-extensions, dns, lookup, browser-tools]
+categories:
+- productivity
+- tools
+tags:
+- chrome-extensions
+- dns
+- lookup
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-dns-lookup
 ---
 
 If you have been searching for chrome extensions for dns lookup tools, you probably want a quick way to check how your browser is resolving website addresses or troubleshoot when websites fail to load. Whether you are dealing with slow page loads, mysterious connection errors, or just want to understand how DNS works in your daily browsing, DNS lookup extensions can make a real difference. Let me walk you through how these extensions work and what options are available.

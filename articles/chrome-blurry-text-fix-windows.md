@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Blurry Text Fix Windows"
-description: "Is text in Chrome looking fuzzy or blurry on your Windows PC? Learn what causes this common issue and how to fix it with simple steps anyone can follow."
+title: Chrome Blurry Text Fix Windows
+description: Is text in Chrome looking fuzzy or blurry on your Windows PC? Learn what
+  causes this common issue and how to fix it with simple steps anyone can follow.
 date: 2026-01-15
-categories: [troubleshooting, performance]
-tags: [chrome-blurry-text, chrome-fix, text-clarity, windows-fix]
+categories:
+- troubleshooting
+- performance
+tags:
+- chrome-blurry-text
+- chrome-fix
+- text-clarity
+- windows-fix
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-blurry-text-fix-windows
 ---
 
 # Chrome Blurry Text Fix Windows

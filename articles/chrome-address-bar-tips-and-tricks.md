@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Address Bar Tips and Tricks"
-description: "Master the Chrome address bar with these practical tips and tricks that can speed up your daily browsing."
+title: Chrome Address Bar Tips and Tricks
+description: Master the Chrome address bar with these practical tips and tricks that
+  can speed up your daily browsing. Discover essential insights and practical advice
+  to...
 date: 2026-01-15
-categories: [tips, productivity]
-tags: [chrome-address-bar, omnibox, browser-tips, shortcuts]
+categories:
+- tips
+- productivity
+tags:
+- chrome-address-bar
+- omnibox
+- browser-tips
+- shortcuts
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-address-bar-tips-and-tricks
 ---
 
 # Chrome Address Bar Tips and Tricks

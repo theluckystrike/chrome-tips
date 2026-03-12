@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Entrepreneurs"
-description: "Discover the best Chrome extensions for entrepreneurs that can streamline workflows, save time, and boost business growth."
+title: Best Chrome Extensions for Entrepreneurs
+description: Discover the best Chrome extensions for entrepreneurs that can streamline
+  workflows, save time, and boost business growth. Discover essential insights and
+  pr...
 date: 2026-03-10
-categories: [entrepreneurs, tips]
-tags: [chrome-extensions, business, productivity]
+categories:
+- entrepreneurs
+- tips
+tags:
+- chrome-extensions
+- business
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: best-chrome-extensions-for-entrepreneurs
 ---
 
 # Best Chrome Extensions for Entrepreneurs

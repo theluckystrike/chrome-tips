@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Should I Switch to Firefox for Less RAM? A Practical Guide"
-description: "Thinking about switching from Chrome to Firefox to reduce RAM usage? We break down the real benefits, drawbacks, and practical steps to make the switch smoother."
+title: Should I Switch to Firefox for Less RAM? A Practical Guide
+description: Thinking about switching from Chrome to Firefox to reduce RAM usage?
+  We break down the real benefits, drawbacks, and practical steps to make the switch
+  smoot...
 date: 2026-01-15
-categories: [performance, browsers]
-tags: [firefox, chrome, ram, browser-switching, memory]
+categories:
+- performance
+- browsers
+tags:
+- firefox
+- chrome
+- ram
+- browser-switching
+- memory
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: should-i-switch-to-firefox-for-less-ram
 ---
 
 # Should I Switch to Firefox for Less RAM? A Practical Guide

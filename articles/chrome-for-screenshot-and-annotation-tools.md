@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome for screenshot and annotation tools"
-description: "Learn how to use Chrome for screenshot and annotation tools. Find the best extensions for capturing and marking up your screen."
+title: chrome for screenshot and annotation tools
+description: Learn how to use Chrome for screenshot and annotation tools. Find the
+  best extensions for capturing and marking up your screen. Discover essential insights
+  a...
 date: 2026-01-15
-categories: [extensions, productivity]
-tags: [screenshot, annotation, chrome-extension, productivity]
+categories:
+- extensions
+- productivity
+tags:
+- screenshot
+- annotation
+- chrome-extension
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-screenshot-and-annotation-tools
 ---
 
 # Chrome for Screenshot and Annotation Tools

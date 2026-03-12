@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Social Media"
-description: "Discover the best Chrome extensions for social media to boost productivity, schedule posts, and manage your online presence effectively."
+title: Best Chrome Extensions for Social Media
+description: Discover the best Chrome extensions for social media to boost productivity,
+  schedule posts, and manage your online presence effectively. Discover essential
+  i...
 date: 2026-03-09
-categories: [social-media, productivity, tips]
-tags: [chrome-extensions, social-media, productivity, browser-tools]
+categories:
+- social-media
+- productivity
+- tips
+tags:
+- chrome-extensions
+- social-media
+- productivity
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: best-chrome-extensions-for-social-media
 ---
 
 # Best Chrome Extensions for Social Media

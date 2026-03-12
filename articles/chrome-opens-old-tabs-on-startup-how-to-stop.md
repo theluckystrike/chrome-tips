@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Opens Old Tabs on Startup How to Stop"
-description: "Tired of Chrome opening old tabs when you start? Learn how to stop this behavior and get a fresh start every time you open the browser."
+title: Chrome Opens Old Tabs on Startup How to Stop
+description: Tired of Chrome opening old tabs when you start? Learn how to stop this
+  behavior and get a fresh start every time you open the browser. Discover essential
+  in...
 date: 2025-03-09
-categories: [troubleshooting, tips]
-tags: [chrome-startup, restore-tabs, chrome-settings, tab-management]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-startup
+- restore-tabs
+- chrome-settings
+- tab-management
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-opens-old-tabs-on-startup-how-to-stop
 ---
 
 # Chrome Opens Old Tabs on Startup How to Stop

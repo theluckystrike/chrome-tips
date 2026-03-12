@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome search by image right click how to"
-description: "Learn how to search by image using right click in Chrome. Find similar images, identify products, and discover image sources easily."
+title: chrome search by image right click how to
+description: Learn how to search by image using right click in Chrome. Find similar
+  images, identify products, and discover image sources easily. Discover essential
+  insig...
 date: 2026-03-10
-categories: [features, how-to]
-tags: [image-search, reverse-search, google-lens, chrome-features]
+categories:
+- features
+- how-to
+tags:
+- image-search
+- reverse-search
+- google-lens
+- chrome-features
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-search-by-image-right-click-how-to
 ---
 
 # Chrome Search by Image Right Click How to

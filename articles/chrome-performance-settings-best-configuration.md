@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Performance Settings Best Configuration"
-description: "Discover the best Chrome performance settings configuration to speed up your browser, reduce memory usage, and improve overall responsiveness."
+title: Chrome Performance Settings Best Configuration
+description: Discover the best Chrome performance settings configuration to speed
+  up your browser, reduce memory usage, and improve overall responsiveness. Discover
+  essen...
 date: 2026-03-09
-categories: [performance, settings]
-tags: [chrome-performance, browser-speed, chrome-settings]
+categories:
+- performance
+- settings
+tags:
+- chrome-performance
+- browser-speed
+- chrome-settings
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-performance-settings-best-configuration
 ---
 
 # Chrome Performance Settings Best Configuration

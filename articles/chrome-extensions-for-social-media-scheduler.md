@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions for Social Media Scheduler"
-description: "Learn how Chrome extensions for social media scheduler can automate your posts and save hours every week."
+title: Chrome Extensions for Social Media Scheduler
+description: Learn how Chrome extensions for social media scheduler can automate your
+  posts and save hours every week. Discover essential insights and practical advice
+  to...
 date: 2026-03-09
-categories: [social-media, productivity, tips]
-tags: [chrome-extensions, social-media, scheduler, automation]
+categories:
+- social-media
+- productivity
+- tips
+tags:
+- chrome-extensions
+- social-media
+- scheduler
+- automation
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-social-media-scheduler
 ---
 
 # Chrome Extensions for Social Media Scheduler

@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Is 4GB RAM Enough for Chrome in 2026?"
-description: "Struggling with Chrome on 4GB RAM? We test real-world scenarios and provide practical step-by-step solutions to make Chrome run smoothly in 2026."
+title: Is 4GB RAM Enough for Chrome in 2026?
+description: Struggling with Chrome on 4GB RAM? We test real-world scenarios and provide
+  practical step-by-step solutions to make Chrome run smoothly in 2026. Discover es...
 date: 2026-01-15
-categories: [performance, browsers]
-tags: [chrome, 4gb-ram, memory, browser-performance]
+categories:
+- performance
+- browsers
+tags:
+- chrome
+- 4gb-ram
+- memory
+- browser-performance
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: is-4gb-ram-enough-for-chrome-in-2026
 ---
 
 # Is 4GB RAM Enough for Chrome in 2026?

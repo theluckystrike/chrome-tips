@@ -1,11 +1,22 @@
 ---
 layout: default
-title: "Chrome Autofill Settings Complete Guide"
-description: "Master Chrome autofill settings for addresses, payment methods, passwords, form detection, and sync. Complete guide to browser autofill optimization."
+title: Chrome Autofill Settings Complete Guide
+description: Master Chrome autofill settings for addresses, payment methods, passwords,
+  form detection, and sync. Complete guide to browser autofill optimization. Discove...
 date: 2026-01-20
-categories: [chrome, settings, productivity]
-tags: [chrome-autofill, browser-settings, passwords, payment-methods, address-book]
+categories:
+- chrome
+- settings
+- productivity
+tags:
+- chrome-autofill
+- browser-settings
+- passwords
+- payment-methods
+- address-book
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-autofill-settings-complete
 ---
 
 # Chrome Autofill Settings Complete Guide

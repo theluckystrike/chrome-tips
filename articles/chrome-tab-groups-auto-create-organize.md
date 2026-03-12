@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "How to Auto Create and Organize Chrome Tab Groups"
-description: "Learn how to automatically create and organize Chrome tab groups to keep your browser tidy. Step-by-step guide with built-in features and extensions."
+title: How to Auto Create and Organize Chrome Tab Groups
+description: Learn how to automatically create and organize Chrome tab groups to keep
+  your browser tidy. Step-by-step guide with built-in features and extensions. Discove...
 date: 2025-03-13
-categories: [productivity, tips]
-tags: [tabs, tab-groups, automation, organization, chrome-tips]
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- tab-groups
+- automation
+- organization
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-tab-groups-auto-create-organize
 ---
 
 # How to Auto Create and Organize Chrome Tab Groups

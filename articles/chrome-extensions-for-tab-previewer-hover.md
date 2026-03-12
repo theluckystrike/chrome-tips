@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Tab Previewer Hover"
-description: "Want to preview tabs before switching in Chrome? Learn how extensions give you hover previews and help you find open tabs instantly."
+title: Chrome Extensions for Tab Previewer Hover
+description: Want to preview tabs before switching in Chrome? Learn how extensions
+  give you hover previews and help you find open tabs instantly. Discover essential
+  insig...
 date: 2026-03-09
-categories: [productivity, tips]
-tags: [tabs, tab-preview, chrome-extensions, productivity]
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- tab-preview
+- chrome-extensions
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-tab-previewer-hover
 ---
 
 # Chrome Extensions for Tab Previewer Hover

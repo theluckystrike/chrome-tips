@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Tab Sleeping Automatically"
-description: "Looking for chrome extensions for tab sleeping automatically? Discover how automatic tab sleeping can keep your browser fast."
+title: Chrome Extensions for Tab Sleeping Automatically
+description: Looking for chrome extensions for tab sleeping automatically? Discover
+  how automatic tab sleeping can keep your browser fast. Discover essential insights
+  and...
 date: 2026-03-10
-categories: [productivity, performance]
-tags: [chrome-extensions, tab-sleeping, auto-sleep, browser-performance]
+categories:
+- productivity
+- performance
+tags:
+- chrome-extensions
+- tab-sleeping
+- auto-sleep
+- browser-performance
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-tab-sleeping-automatically
 ---
 
 If you have been searching for chrome extensions for tab sleeping automatically, you likely already know the frustration. Your Chrome browser has become sluggish, your computer feels slower than it should be, and opening new tabs seems to take forever. The root cause is almost always too many tabs running in the background, consuming your computer's memory and processing power without you realizing it.

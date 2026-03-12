@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome extensions for ruler measurement"
-description: "Discover the best chrome extensions for ruler measurement. Measure web elements, images, and on-screen distances easily with these handy tools."
+title: chrome extensions for ruler measurement
+description: Discover the best chrome extensions for ruler measurement. Measure web
+  elements, images, and on-screen distances easily with these handy tools. Discover
+  esse...
 date: 2026-01-15
-categories: [extensions, productivity]
-tags: [ruler, measurement, chrome-extension, design-tools]
+categories:
+- extensions
+- productivity
+tags:
+- ruler
+- measurement
+- chrome-extension
+- design-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-ruler-measurement
 ---
 
 # Chrome Extensions for Ruler Measurement

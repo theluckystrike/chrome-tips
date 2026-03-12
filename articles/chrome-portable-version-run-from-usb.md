@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "chrome portable version run from usb"
-description: "Learn how to run Chrome portable version from USB and take your browser settings, extensions, and bookmarks anywhere. A complete guide for Windows users."
+title: chrome portable version run from usb
+description: Learn how to run Chrome portable version from USB and take your browser
+  settings, extensions, and bookmarks anywhere. A complete guide for Windows users.
 date: 2026-01-15
-categories: [portable, tips]
-tags: [chrome-portable, usb, browser, portable-apps]
+categories:
+- portable
+- tips
+tags:
+- chrome-portable
+- usb
+- browser
+- portable-apps
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-portable-version-run-from-usb
 ---
 
 # Chrome Portable Version Run From USB: Your Complete Guide

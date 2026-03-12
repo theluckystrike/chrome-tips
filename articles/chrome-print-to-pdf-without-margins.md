@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Print to PDF Without Margins"
-description: "Learn how to remove margins when printing to PDF in Chrome. Simple steps to get edge-to-edge PDFs from any webpage."
+title: Chrome Print to PDF Without Margins
+description: Learn how to remove margins when printing to PDF in Chrome. Simple steps
+  to get edge-to-edge PDFs from any webpage. Discover essential insights and practical...
 date: 2025-02-19
-categories: [browser-tips, printing]
-tags: [printing, pdf, margins, clean-print]
+categories:
+- browser-tips
+- printing
+tags:
+- printing
+- pdf
+- margins
+- clean-print
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-print-to-pdf-without-margins
 ---
 
 # Chrome Print to PDF Without Margins

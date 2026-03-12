@@ -1,11 +1,24 @@
 ---
 layout: default
-title: "Chrome Accessibility Tree Guide"
-description: "Master the Chrome Accessibility Tree for web accessibility. Learn about ARIA roles, screen reader optimization, computed properties, and contrast checking to build inclusive websites."
+title: Chrome Accessibility Tree Guide
+description: Master the Chrome Accessibility Tree for web accessibility. Learn about
+  ARIA roles, screen reader optimization, computed properties, and contrast checking
+  to...
 date: 2026-01-20
-categories: [accessibility, development, chrome-devtools]
-tags: [chrome-devtools, accessibility-tree, aria, screen-reader, web-development, accessibility-audit]
+categories:
+- accessibility
+- development
+- chrome-devtools
+tags:
+- chrome-devtools
+- accessibility-tree
+- aria
+- screen-reader
+- web-development
+- accessibility-audit
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-accessibility-tree-guide
 ---
 
 # Chrome Accessibility Tree Guide

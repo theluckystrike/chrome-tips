@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Extension GDPR Compliance Guide"
-description: "Learn how to make your Chrome extension GDPR compliant. Cover data processing, user consent, data subject rights, and privacy policy requirements."
+title: Chrome Extension GDPR Compliance Guide
+description: Learn how to make your Chrome extension GDPR compliant. Cover data processing,
+  user consent, data subject rights, and privacy policy requirements. Discover e...
 date: 2026-03-11
-categories: [security, extensions, privacy]
-tags: [chrome-extensions, gdpr, privacy, compliance]
+categories:
+- security
+- extensions
+- privacy
+tags:
+- chrome-extensions
+- gdpr
+- privacy
+- compliance
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-extension-gdpr-compliance-guide
 ---
 
 # Chrome Extension GDPR Compliance Guide

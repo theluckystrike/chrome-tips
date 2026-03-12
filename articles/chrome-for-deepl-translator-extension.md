@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome for Deepl Translator Extension"
-description: "Find the best Chrome extension for Deepl translator. Learn how to add seamless translation to your browser."
+title: Chrome for Deepl Translator Extension
+description: Find the best Chrome extension for Deepl translator. Learn how to add
+  seamless translation to your browser. Discover essential insights and practical
+  advice ...
 date: 2026-01-15
-categories: [extensions, translation]
-tags: [chrome-extensions, translation, deepl, language]
+categories:
+- extensions
+- translation
+tags:
+- chrome-extensions
+- translation
+- deepl
+- language
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-deepl-translator-extension
 ---
 
 # Chrome for Deepl Translator Extension

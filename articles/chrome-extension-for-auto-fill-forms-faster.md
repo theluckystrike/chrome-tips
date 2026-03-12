@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Extension for Auto Fill Forms Faster"
-description: "Tired of typing the same information over and over in online forms? Learn how a chrome extension for auto fill forms faster can save you time."
+title: Chrome Extension for Auto Fill Forms Faster
+description: Tired of typing the same information over and over in online forms? Learn
+  how a chrome extension for auto fill forms faster can save you time. Discover essen...
 date: 2025-03-09
-categories: [productivity, tips]
-tags: [chrome-extension, auto-fill, forms, productivity, browser-tips]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extension
+- auto-fill
+- forms
+- productivity
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-auto-fill-forms-faster
 ---
 
 # Chrome Extension for Auto Fill Forms Faster

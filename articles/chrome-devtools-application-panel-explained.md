@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Devtools Application Panel Explained"
-description: "Learn what the Chrome DevTools Application panel does, how to use it for managing storage, cookies, and service workers."
+title: Chrome Devtools Application Panel Explained
+description: Learn what the Chrome DevTools Application panel does, how to use it
+  for managing storage, cookies, and service workers. Discover essential insights
+  and prac...
 date: 2025-02-19
-categories: [browser-tips, web-development]
-tags: [devtools, application-panel, storage, troubleshooting]
+categories:
+- browser-tips
+- web-development
+tags:
+- devtools
+- application-panel
+- storage
+- troubleshooting
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-devtools-application-panel-explained
 ---
 
 # Chrome Devtools Application Panel Explained

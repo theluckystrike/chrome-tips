@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Google Classroom"
-description: "Find the best chrome extensions for google classroom to manage assignments, improve productivity, and streamline your teaching or learning workflow."
+title: Chrome Extensions for Google Classroom
+description: Find the best chrome extensions for google classroom to manage assignments,
+  improve productivity, and streamline your teaching or learning workflow. Discover...
 date: 2026-03-09
-categories: [productivity, tips]
-tags: [chrome-extensions, google-classroom, education, students, teachers]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- google-classroom
+- education
+- students
+- teachers
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-google-classroom
 ---
 
 # Chrome Extensions for Google Classroom

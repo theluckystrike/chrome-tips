@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Online Research"
-description: "Discover the best Chrome extensions for online research that can help you find, organize, and cite sources more efficiently."
+title: Best Chrome Extensions for Online Research
+description: Discover the best Chrome extensions for online research that can help
+  you find, organize, and cite sources more efficiently. Discover essential insights
+  and ...
 date: 2026-03-11
-categories: [productivity, tips]
-tags: [chrome-extensions, research, browser-tools]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- research
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-online-research
 ---
 
 # Best Chrome Extensions for Online Research

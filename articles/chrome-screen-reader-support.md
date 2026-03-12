@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome screen reader support"
-description: "Discover how Chrome screen reader support works, including built-in accessibility features, keyboard shortcuts, and extensions to enhance your browsing experience."
+title: chrome screen reader support
+description: Discover how Chrome screen reader support works, including built-in accessibility
+  features, keyboard shortcuts, and extensions to enhance your browsing exper...
 date: 2026-01-15
-categories: [accessibility, features]
-tags: [chrome, screen-reader, accessibility, assistive-technology, chrome-features]
+categories:
+- accessibility
+- features
+tags:
+- chrome
+- screen-reader
+- accessibility
+- assistive-technology
+- chrome-features
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-screen-reader-support
 ---
 
 # Chrome Screen Reader Support: A Complete Guide

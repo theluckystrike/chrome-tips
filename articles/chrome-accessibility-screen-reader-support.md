@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Accessibility Screen Reader Support"
-description: "Fix Chrome screen reader issues with practical solutions. Specific settings, version requirements, and per-reader troubleshooting for JAWS, NVDA, VoiceOver, and ChromeVox."
+title: Chrome Accessibility Screen Reader Support
+description: Fix Chrome screen reader issues with practical solutions. Specific settings,
+  version requirements, and per-reader troubleshooting for JAWS, NVDA, VoiceOver,
+  ...
 date: 2025-03-11
-categories: [accessibility, chrome, screen-reader]
-tags: [chrome, accessibility, screen-reader, support]
+categories:
+- accessibility
+- chrome
+- screen-reader
+tags:
+- chrome
+- accessibility
+- screen-reader
+- support
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-accessibility-screen-reader-support
 ---
 
 # Chrome Accessibility Screen Reader Support

@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome for soundcloud web player extensions"
-description: "Discover chrome extensions that enhance your SoundCloud web player experience with better controls, organization, and productivity features."
+title: chrome for soundcloud web player extensions
+description: Discover chrome extensions that enhance your SoundCloud web player experience
+  with better controls, organization, and productivity features. Discover essenti...
 date: 2026-01-15
-categories: [extensions, music, soundcloud]
-tags: [soundcloud, chrome-extension, music-player, web-player]
+categories:
+- extensions
+- music
+- soundcloud
+tags:
+- soundcloud
+- chrome-extension
+- music-player
+- web-player
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-soundcloud-web-player-extensions
 ---
 
 # Chrome for SoundCloud Web Player Extensions

@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome DevTools Override Files Locally"
-description: "Learn how to use Chrome DevTools to override files locally and test website changes without editing source code."
+title: Chrome DevTools Override Files Locally
+description: Learn how to use Chrome DevTools to override files locally and test website
+  changes without editing source code. Discover essential insights and practical ad...
 date: 2025-02-19
-categories: [browser-tips, web-development]
-tags: [devtools, developer-tools, testing, troubleshooting]
+categories:
+- browser-tips
+- web-development
+tags:
+- devtools
+- developer-tools
+- testing
+- troubleshooting
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-devtools-override-files-locally
 ---
 
 # Chrome DevTools Override Files Locally

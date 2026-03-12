@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome for Perplexity AI Best Settings"
-description: "Get the most out of Perplexity AI in Chrome with these optimized settings for faster research and better performance."
+title: Chrome for Perplexity AI Best Settings
+description: Get the most out of Perplexity AI in Chrome with these optimized settings
+  for faster research and better performance. Discover essential insights and practic...
 date: 2025-02-19
-categories: [ai, productivity, settings]
-tags: [chrome-settings, perplexity-ai, ai-tools, browser-optimization]
+categories:
+- ai
+- productivity
+- settings
+tags:
+- chrome-settings
+- perplexity-ai
+- ai-tools
+- browser-optimization
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-perplexity-ai-best-settings
 ---
 
 # Chrome for Perplexity AI Best Settings

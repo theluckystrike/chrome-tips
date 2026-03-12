@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Keeps Stopping on Android Fix"
-description: "Is Chrome keeps stopping on your Android phone? Learn practical fixes to stop crashes and get your browser running smoothly again."
+title: Chrome Keeps Stopping on Android Fix
+description: Is Chrome keeps stopping on your Android phone? Learn practical fixes
+  to stop crashes and get your browser running smoothly again. Discover essential
+  insight...
 date: 2026-01-20
-categories: [mobile, troubleshooting, android]
-tags: [chrome-android, android-browser, chrome-crash, mobile-browser]
+categories:
+- mobile
+- troubleshooting
+- android
+tags:
+- chrome-android
+- android-browser
+- chrome-crash
+- mobile-browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-keeps-stopping-on-android-fix
 ---
 
 # Chrome Keeps Stopping on Android Fix

@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Cold Email Outreach"
-description: "Discover the best Chrome extensions for cold email outreach that can help you find leads, personalize messages, and track results."
+title: Chrome Extensions for Cold Email Outreach
+description: Discover the best Chrome extensions for cold email outreach that can
+  help you find leads, personalize messages, and track results. Discover essential
+  insight...
 date: 2026-03-09
-categories: [email, productivity]
-tags: [chrome-extensions, cold-email, outreach]
+categories:
+- email
+- productivity
+tags:
+- chrome-extensions
+- cold-email
+- outreach
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-cold-email-outreach
 ---
 
 # Chrome Extensions for Cold Email Outreach

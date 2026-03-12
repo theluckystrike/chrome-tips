@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Benchmark Score What It Means"
-description: "Understand what your Chrome benchmark score means, why it matters, and how to improve browser performance based on results."
+title: Chrome Benchmark Score What It Means
+description: Understand what your Chrome benchmark score means, why it matters, and
+  how to improve browser performance based on results. Discover essential insights
+  and p...
 date: 2026-03-09
-categories: [performance, troubleshooting]
-tags: [chrome-benchmark, browser-score, chrome-performance, chrome-speed]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-benchmark
+- browser-score
+- chrome-performance
+- chrome-speed
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-benchmark-score-what-it-means
 ---
 
 # Chrome Benchmark Score What It Means

@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome for Google Docs Offline Setup"
-description: "Learn how to set up Chrome for Google Docs offline access so you can work without internet."
+title: Chrome for Google Docs Offline Setup
+description: Learn how to set up Chrome for Google Docs offline access so you can
+  work without internet. Discover essential insights and practical advice to optimize
+  your...
 date: 2026-01-15
-categories: [google-docs, offline, chrome]
-tags: [google-docs, offline-mode, chrome-setup, productivity]
+categories:
+- google-docs
+- offline
+- chrome
+tags:
+- google-docs
+- offline-mode
+- chrome-setup
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-google-docs-offline-setup
 ---
 
 # Chrome for Google Docs Offline Setup

@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome High CPU Usage When Watching Videos: Practical Fixes"
-description: "Is Chrome using too much CPU when watching videos? This guide provides step-by-step solutions to fix high CPU usage in Chrome while streaming videos."
+title: 'Chrome High CPU Usage When Watching Videos: Practical Fixes'
+description: Is Chrome using too much CPU when watching videos? This guide provides
+  step-by-step solutions to fix high CPU usage in Chrome while streaming videos. Discove...
 date: 2026-01-15
-categories: [performance, chrome, video]
-tags: [chrome-cpu, high-cpu-usage, video-streaming, chrome-performance, chrome-fix]
+categories:
+- performance
+- chrome
+- video
+tags:
+- chrome-cpu
+- high-cpu-usage
+- video-streaming
+- chrome-performance
+- chrome-fix
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-high-cpu-usage-when-watching-videos
 ---
 
 # Chrome High CPU Usage When Watching Videos

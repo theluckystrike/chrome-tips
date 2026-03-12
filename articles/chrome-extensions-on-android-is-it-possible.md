@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions on Android Is It Possible"
-description: "Wondering if you can use Chrome extensions on Android? Here is what works, what does not, and how to get more from your mobile browser."
+title: Chrome Extensions on Android Is It Possible
+description: Wondering if you can use Chrome extensions on Android? Here is what works,
+  what does not, and how to get more from your mobile browser. Discover essential
+  in...
 date: 2026-01-15
-categories: [android, chrome, extensions]
-tags: [chrome-extensions, android, mobile-browser, chrome-flags]
+categories:
+- android
+- chrome
+- extensions
+tags:
+- chrome-extensions
+- android
+- mobile-browser
+- chrome-flags
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-on-android-is-it-possible
 ---
 
 # Chrome Extensions on Android Is It Possible

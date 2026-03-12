@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome dns over https setup"
-description: "Learn how to set up DNS over HTTPS in Chrome to encrypt your browsing queries, improve privacy, and speed up your web experience."
+title: chrome dns over https setup
+description: Learn how to set up DNS over HTTPS in Chrome to encrypt your browsing
+  queries, improve privacy, and speed up your web experience. Discover essential insights...
 date: 2026-01-15
-categories: [privacy, security]
-tags: [dns, https, privacy, chrome, security]
+categories:
+- privacy
+- security
+tags:
+- dns
+- https
+- privacy
+- chrome
+- security
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-dns-over-https-setup
 ---
 
 # Chrome DNS Over HTTPS Setup

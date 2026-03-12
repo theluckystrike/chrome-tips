@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome for Travel Itinerary Extensions"
-description: "Discover Chrome extensions that help organize travel itineraries, bookings, and trip plans all in one place."
+title: Chrome for Travel Itinerary Extensions
+description: Discover Chrome extensions that help organize travel itineraries, bookings,
+  and trip plans all in one place. Discover essential insights and practical advice...
 date: 2026-01-15
-categories: [travel, extensions]
-tags: [chrome-extensions, travel, productivity, browser]
+categories:
+- travel
+- extensions
+tags:
+- chrome-extensions
+- travel
+- productivity
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-travel-itinerary-extensions
 ---
 
 # Chrome for Travel Itinerary Extensions

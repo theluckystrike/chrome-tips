@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome for Xero Accounting Web Tips"
-description: "Get the most out of Xero accounting in Chrome with these practical browser tips for better workflow and performance."
+title: Chrome for Xero Accounting Web Tips
+description: Get the most out of Xero accounting in Chrome with these practical browser
+  tips for better workflow and performance. Discover essential insights and practica...
 date: 2026-01-15
-categories: [productivity, browser, accounting]
-tags: [chrome, xero, accounting, browser-tips, productivity]
+categories:
+- productivity
+- browser
+- accounting
+tags:
+- chrome
+- xero
+- accounting
+- browser-tips
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-xero-accounting-web-tips
 ---
 
 # Chrome for Xero Accounting Web Tips

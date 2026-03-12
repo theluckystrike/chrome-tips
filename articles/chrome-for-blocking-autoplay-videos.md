@@ -1,8 +1,13 @@
 ---
 layout: post
-title: "Chrome for Blocking Autoplay Videos"
-
+title: Chrome for Blocking Autoplay Videos
 author: theluckystrike
+description: Learn all about Chrome for Blocking Autoplay Videos in this comprehensive
+  guide. We cover the latest Chrome features, settings, and tips to help you browse
+  m...
+date: '2026-03-10'
+last_modified_at: '2026-03-12'
+permalink: chrome-for-blocking-autoplay-videos
 ---
 
 # Chrome for Blocking Autoplay Videos

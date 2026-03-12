@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome for Resume Building Web Tools"
-description: "Learn about the best web tools for building resumes in Chrome. Create professional resumes faster with these browser-based resources."
+title: Chrome for Resume Building Web Tools
+description: Learn about the best web tools for building resumes in Chrome. Create
+  professional resumes faster with these browser-based resources. Discover essential
+  insi...
 date: 2026-01-16
-categories: [productivity, career, tools]
-tags: [resume, career, web-tools, chrome]
+categories:
+- productivity
+- career
+- tools
+tags:
+- resume
+- career
+- web-tools
+- chrome
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-for-resume-building-web-tools
 ---
 
 # Chrome for Resume Building Web Tools

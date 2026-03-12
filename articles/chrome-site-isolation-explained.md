@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Site Isolation Explained"
-description: "Learn how Chrome Site Isolation works, its role in Spectre protection, and the memory trade-offs involved in this critical browser security feature."
+title: Chrome Site Isolation Explained
+description: Learn how Chrome Site Isolation works, its role in Spectre protection,
+  and the memory trade-offs involved in this critical browser security feature. Discover...
 date: 2026-01-20
-categories: [security, chrome, performance]
-tags: [site-isolation, chrome-security, spectre, browser-memory, process-isolation]
+categories:
+- security
+- chrome
+- performance
+tags:
+- site-isolation
+- chrome-security
+- spectre
+- browser-memory
+- process-isolation
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-site-isolation-explained
 ---
 
 # Chrome Site Isolation Explained

@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome blob and file api explained"
-description: "Learn what Chrome Blob and File API are, how they work, and what they mean for your browsing experience."
+title: chrome blob and file api explained
+description: Learn what Chrome Blob and File API are, how they work, and what they
+  mean for your browsing experience. Discover essential insights and practical advice
+  to ...
 date: 2026-03-10
-categories: [features, development]
-tags: [blob, file-api, web-apis, chrome-features]
+categories:
+- features
+- development
+tags:
+- blob
+- file-api
+- web-apis
+- chrome-features
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-blob-and-file-api-explained
 ---
 
 # Chrome Blob and File API Explained

@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Chrome for Google Slides Presentation Tips"
-description: "Practical Chrome tips for smoother Google Slides presentations. Speed up your browser and work more efficiently."
+title: Chrome for Google Slides Presentation Tips
+description: Practical Chrome tips for smoother Google Slides presentations. Speed
+  up your browser and work more efficiently. Discover essential insights and practical
+  ad...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-google-slides-presentation-tips
 ---
 
 If you use Chrome for Google Slides presentations, you might have noticed that things can get a little sluggish when you have many tabs open or multiple presentation files going at once. Let me share some practical tips that can help you work faster and avoid common frustrations.

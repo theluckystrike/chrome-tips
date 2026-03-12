@@ -1,11 +1,25 @@
 ---
 layout: default
-title: "Chrome Breakpoints and Conditional Debugging Guide"
-description: "Master Chrome DevTools breakpoints and conditional debugging techniques. Learn how to set line breakpoints, conditional breakpoints, DOM breakpoints, XHR breakpoints, and more to debug JavaScript efficiently."
+title: Chrome Breakpoints and Conditional Debugging Guide
+description: Master Chrome DevTools breakpoints and conditional debugging techniques.
+  Learn how to set line breakpoints, conditional breakpoints, DOM breakpoints, XHR
+  bre...
 date: 2025-03-11
-categories: [web-development, chrome-devtools, tips]
-tags: [chrome, breakpoints, debugging, devtools, javascript, web-development, frontend]
+categories:
+- web-development
+- chrome-devtools
+- tips
+tags:
+- chrome
+- breakpoints
+- debugging
+- devtools
+- javascript
+- web-development
+- frontend
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-breakpoints-conditional-debugging-guide
 ---
 
 # Chrome Breakpoints and Conditional Debugging Guide

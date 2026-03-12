@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome DevTools Rendering Tab Explained"
-description: "Learn how to use Chrome DevTools Rendering tab to diagnose visual performance issues and fix slow, stuttering web pages."
+title: Chrome DevTools Rendering Tab Explained
+description: Learn how to use Chrome DevTools Rendering tab to diagnose visual performance
+  issues and fix slow, stuttering web pages. Discover essential insights and prac...
 date: 2026-03-09
-categories: [performance, troubleshooting]
-tags: [chrome-devtools, rendering, browser-tools, chrome-tips]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-devtools
+- rendering
+- browser-tools
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-devtools-rendering-tab-explained
 ---
 
 # Chrome DevTools Rendering Tab Explained

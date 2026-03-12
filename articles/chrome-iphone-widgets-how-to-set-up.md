@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome iPhone Widgets How to Set Up"
-description: "Learn how to set up Chrome iPhone widgets to stay organized and boost your productivity with quick access to favorites and recent sites."
+title: Chrome iPhone Widgets How to Set Up
+description: Learn how to set up Chrome iPhone widgets to stay organized and boost
+  your productivity with quick access to favorites and recent sites. Discover essential
+  i...
 date: 2026-01-15
-categories: [ios, widgets, productivity]
-tags: [chrome-iphone, widgets, ios, mobile]
+categories:
+- ios
+- widgets
+- productivity
+tags:
+- chrome-iphone
+- widgets
+- ios
+- mobile
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-iphone-widgets-how-to-set-up
 ---
 
 # Chrome iPhone Widgets How to Set Up

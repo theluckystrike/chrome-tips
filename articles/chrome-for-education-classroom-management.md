@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome for education classroom management"
-description: "Master Chrome for Education classroom management with built-in tools, extensions, and best practices to create focused, productive learning environments."
+title: chrome for education classroom management
+description: Master Chrome for Education classroom management with built-in tools,
+  extensions, and best practices to create focused, productive learning environments.
 date: 2026-01-15
-categories: [education, classroom, management]
-tags: [chrome-for-education, classroom-management, google-workspace, browser-tools]
+categories:
+- education
+- classroom
+- management
+tags:
+- chrome-for-education
+- classroom-management
+- google-workspace
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-for-education-classroom-management
 ---
 
 # Chrome for Education Classroom Management

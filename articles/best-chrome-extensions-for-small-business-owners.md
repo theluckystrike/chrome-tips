@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Small Business Owners"
-description: "Find the best Chrome extensions for small business owners to save time, automate tasks, and grow your business efficiently."
+title: Best Chrome Extensions for Small Business Owners
+description: Find the best Chrome extensions for small business owners to save time,
+  automate tasks, and grow your business efficiently. Discover essential insights
+  and p...
 date: 2026-03-10
-categories: [small-business, tips]
-tags: [chrome-extensions, business, productivity]
+categories:
+- small-business
+- tips
+tags:
+- chrome-extensions
+- business
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: best-chrome-extensions-for-small-business-owners
 ---
 
 # Best Chrome Extensions for Small Business Owners

@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome for Gesture Navigation Desktop"
-description: "Learn how to set up and use gesture navigation in Chrome on your desktop computer for a smoother browsing experience."
+title: Chrome for Gesture Navigation Desktop
+description: Learn how to set up and use gesture navigation in Chrome on your desktop
+  computer for a smoother browsing experience. Discover essential insights and practic...
 date: 2026-01-20
-categories: [desktop, navigation, tips]
-tags: [chrome-desktop, gestures, navigation, mouse-gestures]
+categories:
+- desktop
+- navigation
+- tips
+tags:
+- chrome-desktop
+- gestures
+- navigation
+- mouse-gestures
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-gesture-navigation-desktop
 ---
 
 # Chrome for Gesture Navigation Desktop

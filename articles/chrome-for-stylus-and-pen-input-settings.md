@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome for stylus and pen input settings"
-description: "Learn how to configure chrome for stylus and pen input settings to improve your drawing and writing experience in the browser."
+title: chrome for stylus and pen input settings
+description: Learn how to configure chrome for stylus and pen input settings to improve
+  your drawing and writing experience in the browser. Discover essential insights
+  an...
 date: 2026-01-15
-categories: [productivity, browser]
-tags: [stylus, pen-input, chrome-settings, browser]
+categories:
+- productivity
+- browser
+tags:
+- stylus
+- pen-input
+- chrome-settings
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-stylus-and-pen-input-settings
 ---
 
 # Chrome for Stylus and Pen Input Settings

@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Cross Browser Testing Tips"
-description: "Learn practical tips for testing websites across different browsers using Chrome's built-in tools."
+title: Chrome Cross Browser Testing Tips
+description: Learn practical tips for testing websites across different browsers using
+  Chrome's built-in tools. Discover essential insights and practical advice to optimi...
 date: 2026-01-15
-categories: [browsers, testing, web-development]
-tags: [chrome, cross-browser, testing, web-development, browser-tools]
+categories:
+- browsers
+- testing
+- web-development
+tags:
+- chrome
+- cross-browser
+- testing
+- web-development
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-cross-browser-testing-tips
 ---
 
 # Chrome Cross Browser Testing Tips

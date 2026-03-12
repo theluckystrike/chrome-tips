@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "How to Use Chrome Read Later: Save Articles for Offline Reading"
-description: "Learn how to save articles in Chrome for offline reading. Discover built-in methods and extensions to read web pages later, even without internet connection."
+title: 'How to Use Chrome Read Later: Save Articles for Offline Reading'
+description: Learn how to save articles in Chrome for offline reading. Discover built-in
+  methods and extensions to read web pages later, even without internet connection.
 date: 2026-01-15
-categories: [chrome, read-later, offline, productivity]
-tags: [chrome-read-later, save-articles, offline-reading, browser-tips]
+categories:
+- chrome
+- read-later
+- offline
+- productivity
+tags:
+- chrome-read-later
+- save-articles
+- offline-reading
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-read-later-save-articles-offline
 ---
 
 # How to Use Chrome Read Later: Save Articles for Offline Reading

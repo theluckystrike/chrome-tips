@@ -1,11 +1,22 @@
 ---
 layout: default
-title: "Chrome Layers Panel Guide"
-description: "Master Chrome DevTools Layers Panel for debugging compositing layers, paint flashing, layer borders, and GPU memory optimization."
+title: Chrome Layers Panel Guide
+description: Master Chrome DevTools Layers Panel for debugging compositing layers,
+  paint flashing, layer borders, and GPU memory optimization. Discover essential insights...
 date: 2026-01-20
-categories: [chrome-devtools, performance, debugging]
-tags: [chrome-layers-panel, devtools, performance-optimization, gpu-memory, compositing]
+categories:
+- chrome-devtools
+- performance
+- debugging
+tags:
+- chrome-layers-panel
+- devtools
+- performance-optimization
+- gpu-memory
+- compositing
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-layers-panel-guide
 ---
 
 # Chrome Layers Panel Guide

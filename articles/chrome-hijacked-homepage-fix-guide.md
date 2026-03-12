@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "How to Fix Chrome Hijacked Homepage (Complete Guide)"
-description: "Is your Chrome homepage hijacked? Learn step-by-step how to remove browser hijackers, restore your search engine, and protect your browser. Practical solutions that actually work."
+title: How to Fix Chrome Hijacked Homepage (Complete Guide)
+description: Is your Chrome homepage hijacked? Learn step-by-step how to remove browser
+  hijackers, restore your search engine, and protect your browser. Practical solutio...
 date: 2026-01-15
-categories: [chrome, security, browser-fix]
-tags: [chrome-hijacked-homepage, browser-security, chrome-fix, malware-removal]
+categories:
+- chrome
+- security
+- browser-fix
+tags:
+- chrome-hijacked-homepage
+- browser-security
+- chrome-fix
+- malware-removal
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-hijacked-homepage-fix-guide
 ---
 
 # How to Fix Chrome Hijacked Homepage (Complete Guide)

@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome for Stock Screener Web Tools"
-description: "Discover the best Chrome extensions and web tools for stock screening. Find tools to analyze stocks, track portfolios, and make better investment decisions."
+title: Chrome for Stock Screener Web Tools
+description: Discover the best Chrome extensions and web tools for stock screening.
+  Find tools to analyze stocks, track portfolios, and make better investment decisions.
 date: 2026-01-15
-categories: [investing, chrome-extensions, tools]
-tags: [chrome, stock-screener, investing-tools, portfolio]
+categories:
+- investing
+- chrome-extensions
+- tools
+tags:
+- chrome
+- stock-screener
+- investing-tools
+- portfolio
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-stock-screener-web-tools
 ---
 
 # Chrome for Stock Screener Web Tools

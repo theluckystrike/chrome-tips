@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome for Homework Help Best Extensions"
-description: "Looking for chrome for homework help best extensions? Here are the top tools to make homework easier and faster."
+title: Chrome for Homework Help Best Extensions
+description: Looking for chrome for homework help best extensions? Here are the top
+  tools to make homework easier and faster. Discover essential insights and practical
+  ad...
 date: 2026-03-10
-categories: [productivity, tips]
-tags: [chrome-extensions, homework, students, study-tools]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- homework
+- students
+- study-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-homework-help-best-extensions
 ---
 
 # Chrome for Homework Help Best Extensions

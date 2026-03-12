@@ -1,11 +1,23 @@
 ---
 layout: post
-title: "Chrome Resource Timing API Explained"
-description: "Learn how Chrome's Resource Timing API helps you measure and optimize how long web resources take to load."
+title: Chrome Resource Timing API Explained
+description: Learn how Chrome's Resource Timing API helps you measure and optimize
+  how long web resources take to load. Discover essential insights and practical advice
+  t...
 date: 2026-01-15
-categories: [performance, development, chrome]
-tags: [chrome, resource-timing, api, web-performance, browser]
+categories:
+- performance
+- development
+- chrome
+tags:
+- chrome
+- resource-timing
+- api
+- web-performance
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-resource-timing-api-explained
 ---
 
 # Chrome Resource Timing API Explained

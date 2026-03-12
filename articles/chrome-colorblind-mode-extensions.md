@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "chrome colorblind mode extensions"
-description: "Find the best chrome colorblind mode extensions to make websites more visible. Learn about color filters, contrast tools, and accessibility extensions."
+title: chrome colorblind mode extensions
+description: Find the best chrome colorblind mode extensions to make websites more
+  visible. Learn about color filters, contrast tools, and accessibility extensions.
 date: 2026-01-15
-categories: [extensions, accessibility, colorblind]
-tags: [chrome-extension, colorblind, accessibility, color-filter, vision]
+categories:
+- extensions
+- accessibility
+- colorblind
+tags:
+- chrome-extension
+- colorblind
+- accessibility
+- color-filter
+- vision
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-colorblind-mode-extensions
 ---
 
 # Chrome Colorblind Mode Extensions

@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Address Bar Autocomplete How to Clear"
-description: "Learn how to clear Chrome address bar autocomplete suggestions and take control of your browsing privacy with simple steps."
+title: Chrome Address Bar Autocomplete How to Clear
+description: Learn how to clear Chrome address bar autocomplete suggestions and take
+  control of your browsing privacy with simple steps. Discover essential insights
+  and p...
 date: 2026-03-09
-categories: [privacy]
-tags: [address-bar, chrome-settings, autocomplete, privacy]
+categories:
+- privacy
+tags:
+- address-bar
+- chrome-settings
+- autocomplete
+- privacy
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-address-bar-autocomplete-how-to-clear
 ---
 
 # Chrome Address Bar Autocomplete How to Clear

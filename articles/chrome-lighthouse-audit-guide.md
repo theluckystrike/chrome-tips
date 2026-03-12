@@ -1,11 +1,24 @@
 ---
 layout: default
-title: "Chrome Lighthouse Audit Complete Guide"
-description: "Master Chrome Lighthouse audits with this comprehensive guide covering performance scores, accessibility, SEO, and PWA validation for faster, more accessible websites."
+title: Chrome Lighthouse Audit Complete Guide
+description: Master Chrome Lighthouse audits with this comprehensive guide covering
+  performance scores, accessibility, SEO, and PWA validation for faster, more accessible...
 date: 2026-01-20
-categories: [web-development, performance, chrome]
-tags: [lighthouse, chrome-devtools, performance, accessibility, seo, pwa, web-audit]
+categories:
+- web-development
+- performance
+- chrome
+tags:
+- lighthouse
+- chrome-devtools
+- performance
+- accessibility
+- seo
+- pwa
+- web-audit
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-lighthouse-audit-guide
 ---
 
 # Chrome Lighthouse Audit Complete Guide

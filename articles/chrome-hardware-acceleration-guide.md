@@ -1,11 +1,22 @@
 ---
 layout: default
-title: "Chrome Hardware Acceleration Guide"
-description: "Learn how to enable and optimize hardware acceleration in Chrome for better GPU performance, smoother video playback, and improved overall browsing experience."
+title: Chrome Hardware Acceleration Guide
+description: Learn how to enable and optimize hardware acceleration in Chrome for
+  better GPU performance, smoother video playback, and improved overall browsing experience.
 date: 2026-01-15
-categories: [performance, chrome, hardware]
-tags: [hardware-acceleration, gpu, chrome-performance, video-playback, browser-optimization]
+categories:
+- performance
+- chrome
+- hardware
+tags:
+- hardware-acceleration
+- gpu
+- chrome-performance
+- video-playback
+- browser-optimization
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-hardware-acceleration-guide
 ---
 
 # Chrome Hardware Acceleration Guide

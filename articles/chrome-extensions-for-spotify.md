@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Spotify"
-description: "Discover the best Chrome extensions for Spotify that enhance your music experience, improve playlists, and boost productivity."
+title: Chrome Extensions for Spotify
+description: Discover the best Chrome extensions for Spotify that enhance your music
+  experience, improve playlists, and boost productivity. Discover essential insights
+  an...
 date: 2026-03-09
-categories: [entertainment, tips]
-tags: [chrome-extensions, spotify, music]
+categories:
+- entertainment
+- tips
+tags:
+- chrome-extensions
+- spotify
+- music
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-spotify
 ---
 
 # Chrome Extensions for Spotify

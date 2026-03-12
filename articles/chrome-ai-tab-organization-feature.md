@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome AI Tab Organization Feature"
-description: "Learn how Chrome's AI tab organization helps manage browser tabs efficiently."
+title: Chrome AI Tab Organization Feature
+description: Learn how Chrome's AI tab organization helps manage browser tabs efficiently.
+  Discover essential insights and practical advice to optimize your browser perfo...
 date: 2026-01-15
-categories: [features, productivity]
-tags: [chrome-ai, tab-organization, tab-management, browser-tips]
+categories:
+- features
+- productivity
+tags:
+- chrome-ai
+- tab-organization
+- tab-management
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-ai-tab-organization-feature
 ---
 
 # Chrome AI Tab Organization Feature

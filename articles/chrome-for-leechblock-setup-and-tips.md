@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome for LeechBlock Setup and Tips"
-description: "Learn how to set up LeechBlock in Chrome to block distracting websites and improve your focus. Simple tips for getting started."
+title: Chrome for LeechBlock Setup and Tips
+description: Learn how to set up LeechBlock in Chrome to block distracting websites
+  and improve your focus. Simple tips for getting started. Discover essential insights
+  a...
 date: 2025-02-19
-categories: [productivity, extensions]
-tags: [leechblock, focus, website-blocking, productivity]
+categories:
+- productivity
+- extensions
+tags:
+- leechblock
+- focus
+- website-blocking
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-leechblock-setup-and-tips
 ---
 
 # Chrome for LeechBlock Setup and Tips

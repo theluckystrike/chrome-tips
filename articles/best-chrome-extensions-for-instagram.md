@@ -1,10 +1,22 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Instagram"
-description: "Discover the best Chrome extensions for Instagram to boost productivity, schedule posts, and manage your content effectively."
-date: 2026-03-09
-categories: [instagram, social-media, productivity, tips]
-tags: [chrome-extensions, instagram, social-media, productivity, browser-tools]
+title: Best Chrome Extensions for Instagram
+description: Discover the best Chrome extensions for Instagram to boost productivity,
+  schedule posts, and manage your content effectively.
+date: '2026-03-09'
+last_modified_at: '2026-03-11'
+permalink: /best-chrome-extensions-for-instagram/
+categories:
+- instagram
+- social-media
+- productivity
+- tips
+tags:
+- chrome-extensions
+- instagram
+- social-media
+- productivity
+- browser-tools
 author: theluckystrike
 ---
 

@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Chrome Extensions for eBay Sniping"
-description: "Discover Chrome extensions for eBay sniping that help you find deals, track prices, and save money on your purchases."
-date: 2026-03-09
-categories: [shopping, tips]
-tags: [chrome-extensions, ebay, deals, price-tracking]
+title: Chrome Extensions for eBay Sniping
+description: Discover Chrome extensions for eBay sniping that help you find deals,
+  track prices, and save money on your purchases.
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: /chrome-extensions-for-ebay-sniping/
+categories:
+- shopping
+- tips
+tags:
+- chrome-extensions
+- ebay
+- deals
+- price-tracking
 author: theluckystrike
 ---
 

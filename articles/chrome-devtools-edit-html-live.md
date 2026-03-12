@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Chrome Devtools Edit HTML Live"
-description: "Learn how to use Chrome DevTools to edit HTML and see changes instantly on any webpage without saving files."
-date: 2025-02-19
-categories: [browser-tips, web-development]
-tags: [devtools, html-editing, web-development, troubleshooting]
+title: Chrome Devtools Edit HTML Live
+description: Learn how to use Chrome DevTools to edit HTML and see changes instantly
+  on any webpage without saving files.
+date: '2025-02-19'
+last_modified_at: '2026-03-09'
+permalink: /chrome-devtools-edit-html-live/
+categories:
+- browser-tips
+- web-development
+tags:
+- devtools
+- html-editing
+- web-development
+- troubleshooting
 author: theluckystrike
 ---
 

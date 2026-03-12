@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Chrome Extensions for Figma Companion"
-description: "Looking for chrome extensions for figma companion? Find the best tools to enhance your Figma workflow and keep your browser fast."
-date: 2026-03-09
-categories: [productivity, design]
-tags: [chrome-extensions, figma, design-tools, workflow]
+title: Chrome Extensions for Figma Companion
+description: Looking for chrome extensions for figma companion? Find the best tools
+  to enhance your Figma workflow and keep your browser fast.
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: /chrome-extensions-for-figma-companion/
+categories:
+- productivity
+- design
+tags:
+- chrome-extensions
+- figma
+- design-tools
+- workflow
 author: theluckystrike
 ---
 

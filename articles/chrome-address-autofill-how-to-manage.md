@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Chrome Address Autofill How to Manage"
-description: "Learn how to manage Chrome address autofill: add, edit, delete saved addresses, fix common problems, and control sync across devices."
-date: 2025-03-09
-categories: [tips, privacy]
-tags: [chrome-address-autofill, chrome-autofill, address-management, chrome-tips]
+title: Chrome Address Autofill How to Manage
+description: 'Learn how to manage Chrome address autofill: add, edit, delete saved
+  addresses, fix common problems, and control sync across devices.'
+date: '2025-03-09'
+last_modified_at: '2026-03-10'
+permalink: /chrome-address-autofill-how-to-manage/
+categories:
+- tips
+- privacy
+tags:
+- chrome-address-autofill
+- chrome-autofill
+- address-management
+- chrome-tips
 author: theluckystrike
 ---
 

@@ -1,10 +1,20 @@
 ---
 layout: post
-title: "Chrome Fetch API Complete Guide"
-description: "Learn how the Chrome Fetch API works, its features, and how to use it effectively in your web projects."
-date: 2025-03-10
-categories: [beginners, tips, web-development]
-tags: [chrome-fetch-api, fetch-api, http-requests, web-development]
+title: Chrome Fetch API Complete Guide
+description: Learn how the Chrome Fetch API works, its features, and how to use it
+  effectively in your web projects.
+date: '2025-03-10'
+last_modified_at: '2026-03-10'
+permalink: /chrome-fetch-api-complete-guide/
+categories:
+- beginners
+- tips
+- web-development
+tags:
+- chrome-fetch-api
+- fetch-api
+- http-requests
+- web-development
 author: theluckystrike
 ---
 

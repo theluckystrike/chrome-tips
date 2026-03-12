@@ -1,10 +1,18 @@
 ---
 layout: post
-title: "Chrome Memory Saver Mode Explained"
-description: "Understand Chrome Memory Saver mode and how it helps reduce browser memory usage. Simple explanation and tips to make Chrome run faster."
-date: 2026-01-15
-categories: [performance, memory]
-tags: [chrome-memory, memory-saver, browser-performance]
+title: Chrome Memory Saver Mode Explained
+description: Understand Chrome Memory Saver mode and how it helps reduce browser memory
+  usage. Simple explanation and tips to make Chrome run faster.
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: /chrome-memory-saver-mode-explained/
+categories:
+- performance
+- memory
+tags:
+- chrome-memory
+- memory-saver
+- browser-performance
 author: theluckystrike
 ---
 

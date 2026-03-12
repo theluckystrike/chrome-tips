@@ -1,10 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Cookie Editor Manager"
-description: "Looking for chrome extensions for cookie editor manager? Find the best tools to view, edit, and manage cookies in Chrome."
-date: 2026-03-10
-categories: [privacy, security]
-tags: [chrome-extensions, cookies, cookie-editor, privacy, management]
+title: Chrome Extensions for Cookie Editor Manager
+description: Looking for chrome extensions for cookie editor manager? Find the best
+  tools to view, edit, and manage cookies in Chrome.
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: /chrome-extensions-for-cookie-editor-manager/
+categories:
+- privacy
+- security
+tags:
+- chrome-extensions
+- cookies
+- cookie-editor
+- privacy
+- management
 author: theluckystrike
 ---
 

@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Chrome Extensions for News Aggregator"
-description: "Discover the best Chrome extensions for news aggregator tools that can help you stay organized and save time while reading news online."
-date: 2026-03-09
-categories: [news, tips]
-tags: [chrome-extensions, news, aggregator, productivity]
+title: Chrome Extensions for News Aggregator
+description: Discover the best Chrome extensions for news aggregator tools that can
+  help you stay organized and save time while reading news online.
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: /chrome-extensions-for-news-aggregator/
+categories:
+- news
+- tips
+tags:
+- chrome-extensions
+- news
+- aggregator
+- productivity
 author: theluckystrike
 ---
 

@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Chrome for Yahoo Finance Best Extensions"
-description: "Looking for chrome for yahoo finance best extensions? Discover the top tools to enhance your finance tracking and maximize your trading workflow."
-date: 2026-03-10
-categories: [productivity, finance]
-tags: [chrome-extensions, yahoo-finance, stock-market, trading-tools]
+title: Chrome for Yahoo Finance Best Extensions
+description: Looking for chrome for yahoo finance best extensions? Discover the top
+  tools to enhance your finance tracking and maximize your trading workflow.
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: /chrome-for-yahoo-finance-best-extensions/
+categories:
+- productivity
+- finance
+tags:
+- chrome-extensions
+- yahoo-finance
+- stock-market
+- trading-tools
 author: theluckystrike
 ---
 

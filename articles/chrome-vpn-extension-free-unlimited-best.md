@@ -1,10 +1,21 @@
 ---
 layout: post
-title: "Chrome VPN Extension Free Unlimited Best"
-description: "Discover the best free unlimited VPN extensions for Chrome. Compare features, speed, and security to find the right browser VPN for your needs."
-date: 2026-03-09
-categories: [privacy, security, extensions]
-tags: [vpn, chrome-extension, free-vpn, privacy, browser-security]
+title: Chrome VPN Extension Free Unlimited Best
+description: Discover the best free unlimited VPN extensions for Chrome. Compare features,
+  speed, and security to find the right browser VPN for your needs.
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: /chrome-vpn-extension-free-unlimited-best/
+categories:
+- privacy
+- security
+- extensions
+tags:
+- vpn
+- chrome-extension
+- free-vpn
+- privacy
+- browser-security
 author: theluckystrike
 ---
 

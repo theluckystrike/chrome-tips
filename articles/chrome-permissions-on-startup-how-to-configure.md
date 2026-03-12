@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Chrome Permissions on Startup How to Configure"
-description: "Learn how to configure Chrome permissions on startup. Simple steps to control what sites can access when Chrome launches."
-date: 2025-03-09
-categories: [troubleshooting, tips]
-tags: [chrome-permissions, chrome-startup, chrome-settings, browser-security]
+title: Chrome Permissions on Startup How to Configure
+description: Learn how to configure Chrome permissions on startup. Simple steps to
+  control what sites can access when Chrome launches.
+date: '2025-03-09'
+last_modified_at: '2026-03-10'
+permalink: /chrome-permissions-on-startup-how-to-configure/
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-permissions
+- chrome-startup
+- chrome-settings
+- browser-security
 author: theluckystrike
 ---
 

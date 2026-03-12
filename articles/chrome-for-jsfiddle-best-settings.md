@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Chrome for JSFiddle Best Settings"
-description: "Optimize Chrome for JSFiddle with these browser settings. Get faster code execution, smoother debugging, and better performance."
-date: 2026-01-15
-categories: [productivity, web-development]
-tags: [jsfiddle, chrome-settings, web-development, browser-optimization]
+title: Chrome for JSFiddle Best Settings
+description: Optimize Chrome for JSFiddle with these browser settings. Get faster
+  code execution, smoother debugging, and better performance.
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: /chrome-for-jsfiddle-best-settings/
+categories:
+- productivity
+- web-development
+tags:
+- jsfiddle
+- chrome-settings
+- web-development
+- browser-optimization
 author: theluckystrike
 ---
 

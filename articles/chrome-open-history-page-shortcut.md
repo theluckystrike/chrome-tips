@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Chrome Open History Page Shortcut"
-description: "Learn how to quickly open Chrome history using keyboard shortcuts and simple methods to find past visited websites."
-date: 2026-01-18
-categories: [productivity, tips]
-tags: [chrome, history, shortcut, keyboard-shortcut]
+title: Chrome Open History Page Shortcut
+description: Learn how to quickly open Chrome history using keyboard shortcuts and
+  simple methods to find past visited websites.
+date: '2026-01-18'
+last_modified_at: '2026-03-10'
+permalink: /chrome-open-history-page-shortcut/
+categories:
+- productivity
+- tips
+tags:
+- chrome
+- history
+- shortcut
+- keyboard-shortcut
 author: theluckystrike
 ---
 

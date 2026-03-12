@@ -14,7 +14,7 @@ tags:
 - chrome-sign-in
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-auto-sign-in-to-websites-how-to-control
 ---
 # Chrome Auto Sign In to Websites How to Control
@@ -72,3 +72,8 @@ Take some time to explore the settings we've discussed and experiment with diffe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [chrome experimental features list 2026](/chrome-experimental-features-list-2026/)
+- [Chrome Safe Browsing: What It Does and How It Protects You](/chrome-safe-browsing-what-it-does/)
+- [Chrome Status Code 500 Server Error Explained](/chrome-status-code-500-server-error-explained/)

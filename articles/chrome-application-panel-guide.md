@@ -17,7 +17,7 @@ tags:
 - pwa
 - web-development
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-application-panel-guide
 ---
 # Chrome Application Panel Guide
@@ -173,3 +173,8 @@ Take time to explore each section of the Application panel in your own projects.
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Chrome Element Inspector Tips and Tricks](/chrome-element-inspector-tips-and-tricks/)
+- [chrome safe browsing enhanced vs standard](/chrome-safe-browsing-enhanced-vs-standard/)
+- [Chrome Background Sync for Offline Forms](/chrome-background-sync-for-offline-forms/)

@@ -15,7 +15,7 @@ tags:
 - privacy
 - advertising
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-attribution-reporting
 ---
 # Chrome Attribution Reporting Guide
@@ -211,3 +211,8 @@ Advertisers and publishers who adopt attribution reporting early will be better 
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+- [Best Dark Mode Chrome Extension](/best-dark-mode-chrome-extension/)
+- [Chrome Extensions for WhatsApp Web](/chrome-extensions-for-whatsapp-web/)
+- [Chrome Open Last Session on Startup](/chrome-open-last-session-on-startup/)

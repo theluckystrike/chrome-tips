@@ -14,7 +14,7 @@ tags:
 - windows-tutorial
 - chrome-settings
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-auto-update-disable-windows-guide
 ---
 # How to Disable Chrome Auto Update on Windows
@@ -101,3 +101,8 @@ Controlling Chrome auto-update on Windows is straightforward with these multiple
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/chrome-site-isolation-security-feature/)
+- [Chrome Extensions on Android Is It Possible](/chrome-extensions-on-android-is-it-possible/)
+- [Chrome DevTools Performance Panel Explained](/chrome-devtools-performance-panel-explained/)

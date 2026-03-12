@@ -13,7 +13,7 @@ tags:
 - writing
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-writing-help-feature
 ---
 # Chrome AI Writing Help Feature
@@ -79,3 +79,8 @@ Start with small tasks and gradually expand how you use the tools. For example, 
 Remember that these tools are designed to support you, not to do all the work for you. Your unique voice and perspective are what make your writing special. AI can help you express yourself more clearly and efficiently, but the final output should always reflect your own thoughts and ideas.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Chrome Extensions For Email Tracking Read Receipts](//articles/chrome-extensions-for-email-tracking-read-receipts//)
+- [Chrome for Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension/)
+- [Chrome Cookie Settings 2026 Guide](/chrome-cookie-settings-2026/)

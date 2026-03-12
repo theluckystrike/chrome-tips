@@ -13,7 +13,7 @@ tags:
 - suggestions
 - privacy
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-suggestions-how-to-clear
 ---
 # Chrome Address Bar Suggestions How to Clear
@@ -98,3 +98,8 @@ Whether you are trying to hide a specific site or simply want to clean up a clut
 
 ---
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Extensions for Auto Refresh Page](/chrome-extensions-for-auto-refresh-page/)
+- [How to Change Default Download Location Chrome](/how-to-change-default-download-location-chrome/)
+- [How to Share Chrome with Family Safely](/how-to-share-chrome-with-family-safely/)

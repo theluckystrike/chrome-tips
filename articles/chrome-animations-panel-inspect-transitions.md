@@ -16,7 +16,7 @@ tags:
 - web-development
 - frontend
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-animations-panel-inspect-transitions
 ---
 # How to Inspect CSS Animations and Transitions in Chrome DevTools
@@ -118,3 +118,8 @@ While you're optimizing your animations, consider your overall browser performan
 Master the Animations panel, and you'll ship more polished, professional web experiences—all while spending less time troubleshooting animation issues.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained/)
+- [How to Simulate Slow Connection in Chrome](/chrome-network-throttling-how-to-simulate-slow-connection/)
+- [Chrome Web Store Best Free Games](/chrome-web-store-best-free-games/)

@@ -14,7 +14,7 @@ tags:
 - chrome-fix
 - memory-usage
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-android-memory-usage-too-high-fix
 ---
 # Chrome Android Memory Usage Too High Fix
@@ -88,3 +88,8 @@ To enable Lite Mode, go to Settings, then Performance, and turn on Lite Mode. Th
 High memory usage on Chrome for Android is a common problem, but it is one you can solve. By closing unused tabs, enabling Memory Saver, managing extensions, clearing cache, and keeping Chrome updated, you can significantly reduce memory usage and enjoy a faster, more responsive browsing experience on your Android device.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Chrome Web Animation API Explained](/chrome-web-animation-api-explained/)
+- [Chrome Console Commands: Useful Tricks Every User Should Know](/chrome-console-commands-useful-tricks/)
+- [Chrome Lagging on Android Phone Fix](/chrome-lagging-on-android-phone-fix/)

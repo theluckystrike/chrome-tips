@@ -15,7 +15,7 @@ tags:
 - mobile-tips
 - android-browser
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-android-tips-to-save-data
 ---
 # Chrome Android Tips to Save Data
@@ -85,3 +85,8 @@ Finally, keep an eye on how much data Chrome is actually using. Your Android pho
 Chrome also shows data saved through Data Saver in the settings menu. Checking this occasionally helps you understand the impact of the changes you have made and motivates you to keep up the good habits.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [How to Use Chrome Task Manager to Find Slow Tabs](/how-to-use-chrome-task-manager-to-find-slow-tabs/)
+- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off/)
+- [Chrome Gemini Integration How to Use](/chrome-gemini-integration-how-to-use/)

@@ -13,7 +13,7 @@ tags:
 - browser-tips
 - shortcuts
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-tips-and-tricks
 ---
 # Chrome Address Bar Tips and Tricks
@@ -81,3 +81,8 @@ These chrome address bar tips and tricks take just a few minutes to learn but ca
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Lazy Loading Images Explained](/chrome-lazy-loading-images-explained/)
+- [Chrome for Text to Speech on Any Page](/chrome-for-text-to-speech-on-any-page/)
+- [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes/)

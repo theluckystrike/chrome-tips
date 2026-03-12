@@ -14,7 +14,7 @@ tags:
 - mobile-browsing
 - tips-tricks
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-android-gestures-you-didnt-know-about
 ---
 # Chrome Android Gestures You Didnt Know About
@@ -78,3 +78,8 @@ If you find these chrome android gestures you didnt know about helpful and want 
 Chrome is constantly adding new features and gestures, so it is worth checking the settings menu occasionally to see what is new. The browser has come a long way from its early days, and the team keeps improving how you can interact with web content on your phone. These chrome android gestures you didnt know about are just the beginning of what is possible when you start exploring your browser capabilities.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/chrome-grammarly-extension-slowing-browser/)
+- [Chrome Extensions For Code Snippet Manager](//articles/chrome-extensions-for-code-snippet-manager//)
+- [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/chrome-smooth-scrolling-enable/)

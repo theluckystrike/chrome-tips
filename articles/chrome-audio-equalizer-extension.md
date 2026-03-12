@@ -14,7 +14,7 @@ tags:
 - equalizer
 - sound-enhancement
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-audio-equalizer-extension
 ---
 # Chrome Audio Equalizer Extension
@@ -66,3 +66,8 @@ A chrome audio equalizer extension is one of the easiest ways to dramatically im
 Give it a try. Install an extension, play your favorite content, and start adjusting. You might be surprised at how much better your favorite songs, movies, and podcasts can sound with just a few simple tweaks.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [chrome new tab page how to customize](/chrome-new-tab-page-how-to-customize/)
+- [Chrome Address Bar Shortcuts You Didn't Know](/chrome-address-bar-shortcuts-you-didnt-know/)
+- [chrome price drop alerts how to enable](/chrome-price-drop-alerts-how-to-enable/)

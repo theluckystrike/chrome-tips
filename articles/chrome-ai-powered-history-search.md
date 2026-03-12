@@ -14,7 +14,7 @@ tags:
 - browser-tips
 - history-search
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-powered-history-search
 ---
 # Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past
@@ -76,3 +76,8 @@ In the meantime, the extensions and approaches described here give you powerful 
 The key is understanding that standard Chrome search has limits. By recognizing this problem and seeking solutions, you gain back time that would otherwise be lost to fruitless searching.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Chrome Resize Observer API Explained](/chrome-resize-observer-api-explained/)
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11/)
+- [Chrome Status Code 404 Not Found Explained](/chrome-status-code-404-not-found-explained/)

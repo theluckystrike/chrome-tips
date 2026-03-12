@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Camera Permission for One Site How to Set"
-description: "Learn how to set camera permission for a specific site in Chrome. Simple steps to control which websites can use your camera."
+description: "Learn how to set camera permission for a specific site in Chrome. Simple steps to control which websites can use your camera. Read more to optimize your experie"
 date: 2026-01-15
+last_modified_at: 2026-03-09
+permalink: chrome-camera-permission-for-one-site-how-to-set
 categories: [privacy, troubleshooting]
 tags: [chrome-camera-permission, chrome-settings, camera-access, site-permissions]
 author: theluckystrike
 ---
+
 
 # Chrome Camera Permission for One Site How to Set
 

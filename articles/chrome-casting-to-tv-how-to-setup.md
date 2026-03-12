@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Casting to TV How to Setup"
-description: "Learn how to setup chrome casting to TV with this easy guide. Cast your browser tab or screen to any TV using Chrome's built-in feature."
+description: "Learn how to setup chrome casting to TV with this easy guide. Cast your browser tab or screen to any TV using Chrome's built-in feature. Read more to optimize y"
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-casting-to-tv-how-to-setup
 categories: [casting, streaming, chrome]
 tags: [chrome-casting, screen-cast, tv-setup, casting-guide]
 author: theluckystrike
 ---
+
 
 # Chrome Casting to TV How to Setup
 

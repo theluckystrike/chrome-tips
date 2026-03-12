@@ -88,3 +88,10 @@ Remember that your browser is central to your legal practice. Keeping it organiz
 * [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome for Coursera Web App Optimization](/chrome-for-coursera-web-app-optimization)
+* [Chrome Extension Marketing Tips to Grow Your User Base](/chrome-extension-marketing-tips-grow-users)
+* [Chrome Extensions for WordPress](/chrome-extensions-for-wordpress)

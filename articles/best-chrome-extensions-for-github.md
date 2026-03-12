@@ -91,3 +91,10 @@ Once you find the right tools, you will notice a smoother workflow that lets you
 * [best chrome extensions for accessibility needs](/articles/best-chrome-extensions-for-accessibility-needs/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome Extension Permissions Too Many Warning](/chrome-extension-permissions-too-many-warning)
+* [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
+* [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)

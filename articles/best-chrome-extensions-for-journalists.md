@@ -86,3 +86,10 @@ Remember that the best extensions are the ones you actually use consistently. Ra
 * [best chrome extensions for accessibility needs](/articles/best-chrome-extensions-for-accessibility-needs/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome Extensions for Social Media Scheduler](/chrome-extensions-for-social-media-scheduler)
+* [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
+* [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)

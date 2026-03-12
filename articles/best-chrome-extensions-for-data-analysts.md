@@ -89,3 +89,10 @@ Once you find the right combination of extensions, you will notice improvements 
 * [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome Version History: Major Milestones That Shaped the Browser](/chrome-version-history-major-milestones)
+* [Chrome Extensions Using Too Much Memory](/chrome-extensions-using-too-much-memory)
+* [Chrome Parental Controls — How to Set Up for Your Kids](/chrome-parental-controls-how-to-set-up)

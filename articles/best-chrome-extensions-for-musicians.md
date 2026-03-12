@@ -85,3 +85,10 @@ Start with one or two extensions that address your biggest pain points. Once you
 * [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chromebook Linux Apps How To Install](/chromebook-linux-apps-how-to-install)
+* [Chrome Side Panel Extensions Best Ones](/chrome-side-panel-extensions-best-ones)
+* [Chrome requestanimationframe Explained: What It Means for Your Browser](/chrome-requestanimationframe-explained)

@@ -98,3 +98,10 @@ You do not need to install every extension mentioned here. Start with one or two
 * [best chrome extensions for accountants](/articles/best-chrome-extensions-for-accountants/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [How to Check Website Speed in Chrome](/how-to-check-website-speed-in-chrome)
+* [Chrome Save Page as Shortcut](/chrome-save-page-as-shortcut)
+* [Chrome Homepage Keeps Changing Fix](/chrome-homepage-keeps-changing-fix)

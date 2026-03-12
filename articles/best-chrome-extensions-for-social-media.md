@@ -95,3 +95,10 @@ You do not need to install every extension mentioned here. Start with one or two
 * [Chrome Extensions for Social Media Scheduling](/articles/chrome-extensions-for-social-media-scheduling/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome This Connection Is Not Private Bypass](/chrome-this-connection-is-not-private-bypass)
+* [Chrome Slow on MacBook Pro M1? Here's How to Fix It](/chrome-slow-on-macbook-pro-m1)
+* [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)

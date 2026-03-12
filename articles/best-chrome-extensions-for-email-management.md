@@ -96,3 +96,10 @@ Small improvements in your email workflow add up to significant time savings ove
 * [Chrome Extensions For Cold Email Outreach](/articles/chrome-extensions-for-cold-email-outreach/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome for Managing Saved Addresses](/chrome-for-managing-saved-addresses)
+* [Chrome vs Safari on Mac — Which Uses Less Battery?](/chrome-vs-safari-on-mac-battery)
+* [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)

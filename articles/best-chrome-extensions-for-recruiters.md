@@ -87,3 +87,10 @@ Once you build your ideal extension toolkit, you will wonder how you ever recrui
 * [best chrome extensions for accountants](/articles/best-chrome-extensions-for-accountants/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [How to Share Chrome with Family Safely](/how-to-share-chrome-with-family-safely)
+* [Chrome Benchmark Score What It Means](/chrome-benchmark-score-what-it-means)
+* [Chrome Accessibility on Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)

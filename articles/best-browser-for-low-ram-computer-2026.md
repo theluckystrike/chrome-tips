@@ -94,3 +94,10 @@ Remember that the browser is only part of the equation. Keeping your tabs organi
 * [Chrome Lagging on 4GB RAM Computer](/articles/chrome-lagging-on-4gb-ram-computer/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome GPU Process High Memory Fix](/chrome-gpu-process-high-memory-fix)
+* [Chrome Interaction to Next Paint Explained: What It Means for You](/chrome-interaction-to-next-paint-explained)
+* [Chrome Zoom Level How to Set Default](/chrome-zoom-level-how-to-set-default)

@@ -88,3 +88,10 @@ Once you find the right combination of extensions, you will notice a significant
 * [best chrome extensions for accessibility needs](/articles/best-chrome-extensions-for-accessibility-needs/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome Uses All CPU When Idle Fix](/chrome-uses-all-cpu-when-idle-fix)
+* [Chrome Extension for Checking Grammar While Typing](/chrome-extension-for-checking-grammar-while-typing)
+* [Chrome vs Arc Browser: Should I Switch?](/chrome-vs-arc-browser-should-i-switch)

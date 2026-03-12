@@ -86,3 +86,10 @@ Start with one or two extensions that address your biggest frustrations, give yo
 * [chrome extensions for image editor online](/articles/chrome-extensions-for-image-editor-online/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)
+* [Chrome for Tab Sleeping vs Tab Suspending Difference](/chrome-for-tab-sleeping-vs-tab-suspending-difference)
+* [Chrome WASM WebAssembly Getting Started: A Complete Beginner''s Guide](/chrome-wasm-webassembly-getting-started)

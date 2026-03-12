@@ -94,3 +94,10 @@ Remember that these extensions are meant to help you spend more time selling and
 * [best chrome extensions for accountants](/articles/best-chrome-extensions-for-accountants/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome DevTools Protocol Monitor](/chrome-protocol-monitor-guide)
+* [Chrome Net Err Cert Common Name Invalid Fix](/chrome-net-err-cert-common-name-invalid-fix)
+* [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/chrome-your-computer-is-infected-popup-fix)

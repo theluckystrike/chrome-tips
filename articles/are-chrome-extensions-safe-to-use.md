@@ -88,3 +88,10 @@ Are Chrome extensions safe to use? The honest answer is that most of them are sa
 * [best chrome extensions for accountants](/articles/best-chrome-extensions-for-accountants/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome Guest Browsing for Shared Computers](/chrome-guest-browsing-for-shared-computers)
+* [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)
+* [How to Fix Chrome High CPU Usage When Gaming](/how-to-fix-chrome-high-cpu-usage-gaming)

@@ -67,3 +67,10 @@ Regularly review your extension list and disable or remove any you have not used
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+
+## Related Articles
+
+* [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
+* [Chrome Dinosaur Game Hidden Features](/chrome-dinosaur-game-hidden-features)
+* [How to See Chrome Tabs From Other Devices](/chrome-tabs-from-other-devices-how-to-see)

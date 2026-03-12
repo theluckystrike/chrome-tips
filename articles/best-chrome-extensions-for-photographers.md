@@ -77,3 +77,10 @@ Start by identifying the biggest frustrations in your current workflow, then try
 * [best chrome extensions for accessibility needs](/articles/best-chrome-extensions-for-accessibility-needs/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome Save Page as Shortcut](/chrome-save-page-as-shortcut)
+* [Chrome Slower After Windows Update Fix](/chrome-slower-after-windows-update-fix)
+* [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)

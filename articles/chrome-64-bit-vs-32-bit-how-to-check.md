@@ -2,7 +2,7 @@
 title: "Chrome 64 bit vs 32 bit How to Check"
 description: "Learn how to check if you have the 64-bit or 32-bit version of Chrome, and why it matters for performance and memory. Check out our expert recommendations and s"
 date: "2026-01-01"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "chrome-64-bit-vs-32-bit-how-to-check"
 layout: "post"
 ---

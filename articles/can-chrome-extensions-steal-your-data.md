@@ -2,7 +2,7 @@
 title: "Can Chrome Extensions Steal Your Data"
 description: "Chrome extensions can access your data. Learn how they do it, real examples of data theft, and what steps you can take to protect yourself. Check out our expert"
 date: "2026-01-01"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "can-chrome-extensions-steal-your-data"
 layout: "post"
 ---

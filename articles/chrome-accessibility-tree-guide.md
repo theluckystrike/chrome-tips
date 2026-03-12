@@ -2,7 +2,7 @@
 title: "Chrome Accessibility Tree Guide"
 description: "Master the Chrome Accessibility Tree for web accessibility. Learn about ARIA roles, screen reader optimization, computed properties, and contrast checking to..."
 date: "2026-01-20"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "chrome-accessibility-tree-guide"
 layout: "default"
 categories: "[accessibility, development, chrome-devtools]"

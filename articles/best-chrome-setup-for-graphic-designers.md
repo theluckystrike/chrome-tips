@@ -2,7 +2,7 @@
 title: "best chrome setup for graphic designers"
 description: "Learn the best chrome setup for graphic designers to speed up your workflow, reduce memory usage, and handle heavy design files without browser lag. Check out o"
 date: "2026-01-15"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "best-chrome-setup-for-graphic-designers"
 layout: "post"
 categories: "[productivity, chrome-tips]"

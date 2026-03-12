@@ -2,7 +2,7 @@
 title: "chrome accessibility extensions best 2026"
 description: "Looking for the best chrome accessibility extensions in 2026? Discover top tools to make browsing easier for everyone. Check out our expert recommendations and "
 date: "2026-01-15"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "chrome-accessibility-extensions-best-2026"
 layout: "post"
 categories: "[extensions, accessibility]"

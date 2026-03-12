@@ -2,7 +2,7 @@
 title: "Best Free Chrome Extensions 2026"
 description: "Discover the best free Chrome extensions in 2026 to boost productivity, improve browsing, and enhance your overall experience without spending a dime."
 date: "2026-03-09"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "best-free-chrome-extensions-2026"
 layout: "post"
 categories: "[productivity, tips]"

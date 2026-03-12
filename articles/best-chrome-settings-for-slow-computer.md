@@ -2,7 +2,7 @@
 title: "Best Chrome Settings for a Slow Computer"
 description: "Optimize Chrome settings for better performance on slow or older computers. Every setting explained with clear instructions. Check out our expert recommendation"
 date: "2025-02-19"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "best-chrome-settings-for-slow-computer"
 layout: "default"
 categories: "[performance, settings]"

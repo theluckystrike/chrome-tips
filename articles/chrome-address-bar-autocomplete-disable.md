@@ -2,7 +2,7 @@
 title: "Chrome Address Bar Autocomplete Disable"
 description: "Learn how to disable Chrome address bar autocomplete with practical step-by-step solutions. Take control of your browsing privacy and stop unwanted suggestions."
 date: "2026-03-11"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "chrome-address-bar-autocomplete-disable"
 layout: "post"
 categories: "[privacy, tips]"

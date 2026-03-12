@@ -2,7 +2,7 @@
 title: "Best Chromebook Extensions for Students"
 description: "Discover the best Chromebook extensions for students to boost productivity, Check out our expert recommendations and step-by-step instructions to get the most o"
 date: "2026-03-10"
-last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+last_modified_at: "2026-03-12"
 permalink: "best-chromebook-extensions-for-students"
 layout: "post"
 categories: ""

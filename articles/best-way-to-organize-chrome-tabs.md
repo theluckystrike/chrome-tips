@@ -2,7 +2,7 @@
 title: "Best Way to Organize Chrome Tabs"
 description: "Feeling overwhelmed by too many open tabs? Learn practical methods to organize Chrome tabs and take back control of your browsing. Check out our expert recommen"
 date: "2025-03-13"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "best-way-to-organize-chrome-tabs"
 layout: "post"
 categories: "[productivity, tips]"

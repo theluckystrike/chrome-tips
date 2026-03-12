@@ -2,7 +2,7 @@
 title: "Chrome Accessibility Features You Didn't Know About"
 description: "Hidden accessibility features in Chrome that make browsing easier. Screen readers, zoom controls, high contrast, captions, and keyboard navigation. Check out ou"
 date: "2025-03-11"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "chrome-accessibility-features-you-didnt-know-about"
 layout: "default"
 categories: "[accessibility, features]"

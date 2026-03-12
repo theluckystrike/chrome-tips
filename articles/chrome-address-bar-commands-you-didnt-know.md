@@ -2,7 +2,7 @@
 title: "Chrome Address Bar Commands You Didnt Know"
 description: "Discover hidden Chrome address bar commands that can speed up your browsing and boost productivity instantly. Check out our expert recommendations and step-by-s"
 date: "2026-03-10"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "chrome-address-bar-commands-you-didnt-know"
 layout: "post"
 categories: "[features, productivity]"

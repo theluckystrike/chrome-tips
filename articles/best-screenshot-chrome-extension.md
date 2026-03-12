@@ -2,7 +2,7 @@
 title: "best screenshot chrome extension"
 description: "Find the best screenshot chrome extension for capturing, annotating, and organizing screen captures. Our guide helps you choose the right tool. Check out our ex"
 date: "2026-01-15"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "best-screenshot-chrome-extension"
 layout: "post"
 categories: "[extensions, productivity]"

@@ -2,7 +2,7 @@
 title: "Chrome About Blank Page What It Means"
 description: "Seeing a blank page in Chrome? Learn what about:blank actually is, why it appears, and when it signals a real problem. Check out our expert recommendations and "
 date: "2026-01-01"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "chrome-about-blank-page-what-it-means"
 layout: "post"
 ---

@@ -2,7 +2,7 @@
 title: "best dark mode chrome extension"
 description: "Find the best dark mode chrome extension to reduce eye strain, save battery, and browse comfortably in low light. Learn what to look for and how to choose."
 date: "2026-01-15"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "best-dark-mode-chrome-extension"
 layout: "post"
 categories: "[extensions, browsing]"

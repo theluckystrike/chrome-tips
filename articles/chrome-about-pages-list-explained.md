@@ -2,7 +2,7 @@
 title: "Chrome About Pages List Explained"
 description: "The complete list of Chrome internal pages (chrome:// URLs) with explanations of what each one does and when to use it. Check out our expert recommendations and"
 date: "2026-01-01"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "chrome-about-pages-list-explained"
 layout: "post"
 ---

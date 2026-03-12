@@ -2,7 +2,7 @@
 title: "Best Chrome Extensions for Writers 2026"
 description: "Find the best Chrome extensions for writers in 2026 to improve your writing Check out our expert recommendations and step-by-step instructions to get the most o"
 date: "2026-03-10"
-last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+last_modified_at: "2026-03-12"
 permalink: "best-chrome-extensions-for-writers-2026"
 layout: "post"
 categories: ""

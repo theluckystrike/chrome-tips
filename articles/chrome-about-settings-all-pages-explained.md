@@ -2,7 +2,7 @@
 title: "Chrome About Settings All Pages Explained"
 description: "A walkthrough of every section in Chrome's Settings page, what each option controls, and which defaults you should consider changing. Check out our expert recom"
 date: "2026-01-01"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "chrome-about-settings-all-pages-explained"
 layout: "post"
 ---

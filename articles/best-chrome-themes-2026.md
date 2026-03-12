@@ -2,7 +2,7 @@
 title: "Best Chrome Themes 2026"
 description: "Discover the best Chrome themes for 2026 to personalize your browser, reduce eye strain, and make browsing more enjoyable. Check out our expert recommendations "
 date: "2026-03-10"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "best-chrome-themes-2026"
 layout: "post"
 categories: "[features, customization]"

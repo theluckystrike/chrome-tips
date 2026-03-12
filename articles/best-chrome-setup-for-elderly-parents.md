@@ -2,7 +2,7 @@
 title: "Best Chrome Setup for Elderly Parents"
 description: "Set up Chrome for your parents or grandparents. Larger text, simplified interface, security protection, and easy-to-use bookmark organization. Check out our exp"
 date: "2025-03-10"
-last_modified_at: "%Y->-"
+last_modified_at: "2026-03-12"
 permalink: "best-chrome-setup-for-elderly-parents"
 layout: "default"
 categories: "[accessibility, family]"

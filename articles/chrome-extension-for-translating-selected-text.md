@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Extension for Translating Selected Text"
-description: "Learn how to use Chrome extensions to translate selected text instantly, making reading foreign content easier than ever."
+title: Chrome Extension for Translating Selected Text
+description: Learn how to use Chrome extensions to translate selected text instantly,
+  making reading foreign content easier than ever. Learn how to optimize your browser
+  ...
 date: 2026-03-09
-categories: [translation, tips]
-tags: [chrome-extensions, translation, language, browser-tools]
+categories:
+- translation
+- tips
+tags:
+- chrome-extensions
+- translation
+- language
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-translating-selected-text
 ---
-
 # Chrome Extension for Translating Selected Text
 
 If you are searching for a chrome extension for translating selected text, you likely need to read foreign language content while browsing the web. Whether you are researching topics in another language, shopping on international websites, or chatting with friends who speak different languages, the inability to understand text on a webpage can be frustrating. Fortunately, Chrome extensions make it simple to translate any text you select with just a few clicks.

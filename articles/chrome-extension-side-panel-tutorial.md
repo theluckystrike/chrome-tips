@@ -1,13 +1,24 @@
 ---
 layout: default
-title: "Chrome Extension Side Panel Tutorial"
-description: "Learn how to build a Chrome extension with side panel support. This comprehensive tutorial covers manifest configuration, HTML/CSS/JS implementation, and best practices for side panel extensions."
+title: Chrome Extension Side Panel Tutorial
+description: Learn how to build a Chrome extension with side panel support. This comprehensive
+  tutorial covers manifest configuration, HTML/CSS/JS implementation, and bes...
 date: 2026-03-11
-categories: [chrome, extensions, development, tutorials]
-tags: [chrome-extension, side-panel, chrome-dev, extension-development, manifest-v3]
+categories:
+- chrome
+- extensions
+- development
+- tutorials
+tags:
+- chrome-extension
+- side-panel
+- chrome-dev
+- extension-development
+- manifest-v3
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-extension-side-panel-tutorial
 ---
-
 # Chrome Extension Side Panel Tutorial
 
 Chrome's side panel API has opened up exciting possibilities for extension developers. Unlike traditional popup windows that appear and disappear, side panel extensions provide a persistent, always-accessible interface that stays alongside the user's browsing content. This tutorial walks you through building a Chrome extension with side panel functionality, from manifest configuration to final implementation.

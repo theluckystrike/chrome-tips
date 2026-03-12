@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "Chrome Extension for Highlighting Text on Websites"
-description: "Discover how a chrome extension for highlighting text on websites can help you mark important passages and improve your reading workflow."
+title: Chrome Extension for Highlighting Text on Websites
+description: Discover how a chrome extension for highlighting text on websites can
+  help you mark important passages and improve your reading workflow. Learn how to
+  optimi...
 date: 2026-03-09
-categories: [productivity, tips]
-tags: [chrome-extensions, highlighting, reading, productivity, browser-tools]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- highlighting
+- reading
+- productivity
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-highlighting-text-on-websites
 ---
-
 # Chrome Extension for Highlighting Text on Websites
 
 If you are looking for a chrome extension for highlighting text on websites, you have probably encountered the frustration of wanting to mark important information while browsing, only to find that your highlights vanish as soon as you leave the page. Whether you are researching a topic, reading long-form articles, or gathering information for work, the inability to keep highlights permanently on websites is a common problem that many Chrome users face.

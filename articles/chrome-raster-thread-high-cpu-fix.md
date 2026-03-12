@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "How to Fix Chrome Raster Thread High CPU Usage"
 description: "Is Chrome's raster thread consuming too much CPU? Learn practical solutions to reduce browser resource usage and improve performance."
 date: 2026-01-15

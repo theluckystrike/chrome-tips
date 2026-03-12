@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "chrome audit page seo how to"
-description: "Learn how to use Chrome audit features to check and improve your website SEO. Simple steps for beginners. Read more to optimize your experience. Discover essent"
+title: chrome audit page seo how to
+description: Learn how to use Chrome audit features to check and improve your website
+  SEO. Simple steps for beginners. Discover essential insights and practical advice
+  to...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-audit-page-seo-how-to
-categories: [tools, seo]
-tags: [audit, seo, performance, chrome]
+categories:
+- tools
+- seo
+tags:
+- audit
+- seo
+- performance
+- chrome
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-audit-page-seo-how-to
 ---
-
-
 
 # Chrome Audit Page SEO How to
 

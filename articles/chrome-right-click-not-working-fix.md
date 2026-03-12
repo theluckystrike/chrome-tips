@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Right Click Not Working Fix"
-description: "Chrome right click not working can be frustrating. Learn why it happens and simple steps to fix it. Read more to optimize your experience. Discover essential ti"
+title: Chrome Right Click Not Working Fix
+description: Chrome right click not working can be frustrating. Learn why it happens
+  and simple steps to fix it. Discover essential insights and practical advice to
+  optim...
 date: 2025-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-right-click-not-working-fix
-categories: [troubleshooting, tips]
-tags: [chrome-right-click, right-click-not-working, chrome-fix, browser-tips]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-right-click
+- right-click-not-working
+- chrome-fix
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-right-click-not-working-fix
 ---
-
-
 
 # Chrome Right Click Not Working Fix
 

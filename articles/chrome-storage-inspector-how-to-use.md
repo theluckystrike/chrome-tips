@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome Storage Inspector How to Use"
-description: "Learn how to use Chrome's Storage Inspector to view, manage, and clear website storage. Simple steps for regular users. Read more to optimize your experience."
+title: Chrome Storage Inspector How to Use
+description: Learn how to use Chrome's Storage Inspector to view, manage, and clear
+  website storage. Simple steps for regular users. This guide on Chrome Storage Inspecto...
 date: 2025-02-19
-last_modified_at: 2026-03-12
-permalink: chrome-storage-inspector-how-to-use
-categories: [browser-tips, privacy]
-tags: [storage, devtools, troubleshooting, privacy]
+categories:
+- browser-tips
+- privacy
+tags:
+- storage
+- devtools
+- troubleshooting
+- privacy
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-storage-inspector-how-to-use
 ---
-
-
 
 # Chrome Storage Inspector How to Use
 

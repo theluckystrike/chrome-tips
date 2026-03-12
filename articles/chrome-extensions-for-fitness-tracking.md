@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Fitness Tracking"
-description: "Discover how Chrome extensions for fitness tracking can help you monitor workouts, count calories, and achieve your health goals. Read more to optimize your exp"
+title: Chrome Extensions for Fitness Tracking
+description: Discover how Chrome extensions for fitness tracking can help you monitor
+  workouts, count calories, and achieve your health goals. Discover essential insights...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-fitness-tracking
-categories: [fitness, health, tips]
-tags: [chrome-extensions, fitness, health-tracking]
+categories:
+- fitness
+- health
+- tips
+tags:
+- chrome-extensions
+- fitness
+- health-tracking
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-fitness-tracking
 ---
-
-
 
 # Chrome Extensions for Fitness Tracking
 

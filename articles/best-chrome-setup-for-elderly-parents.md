@@ -1,13 +1,22 @@
 ---
-title: "Best Chrome Setup for Elderly Parents"
-description: "Set up Chrome for your parents or grandparents. Larger text, simplified interface, security protection, and easy-to-use bookmark organization. Check out our exp"
-date: "2025-03-10"
-last_modified_at: "2026-03-12"
-permalink: "best-chrome-setup-for-elderly-parents"
-layout: "default"
-categories: "[accessibility, family]"
-tags: "[elderly, seniors, accessibility, chrome-setup, simplified-browsing]"
-author: "theluckystrike"
+layout: default
+title: Best Chrome Setup for Elderly Parents
+description: Set up Chrome for your parents or grandparents. Larger text, simplified
+  interface, security protection, and easy-to-use bookmark organization. Discover
+  essen...
+date: 2025-03-10
+categories:
+- accessibility
+- family
+tags:
+- elderly
+- seniors
+- accessibility
+- chrome-setup
+- simplified-browsing
+author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: best-chrome-setup-for-elderly-parents
 ---
 
 # Best Chrome Setup for Elderly Parents

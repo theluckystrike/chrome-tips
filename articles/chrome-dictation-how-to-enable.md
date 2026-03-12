@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Dictation How to Enable"
-description: "Learn how to enable Chrome dictation and use voice input to type hands-free. Simple steps for desktop and mobile. Read more to optimize your experience."
+title: Chrome Dictation How to Enable
+description: Learn how to enable Chrome dictation and use voice input to type hands-free.
+  Simple steps for desktop and mobile. Discover essential insights and practical a...
 date: 2025-03-12
-last_modified_at: 2026-03-12
-permalink: chrome-dictation-how-to-enable
-categories: [features, accessibility]
-tags: [dictation, voice-input, accessibility, chrome-features, hands-free]
+categories:
+- features
+- accessibility
+tags:
+- dictation
+- voice-input
+- accessibility
+- chrome-features
+- hands-free
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-dictation-how-to-enable
 ---
-
-
 
 # Chrome Dictation How to Enable
 

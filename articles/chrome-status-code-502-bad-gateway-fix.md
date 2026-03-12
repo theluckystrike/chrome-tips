@@ -1,17 +1,23 @@
 ---
 layout: post
-title: "Chrome Status Code 502 Bad Gateway Fix"
-description: "Getting a 502 Bad Gateway error in Chrome? Learn what causes it and how Read more to optimize your experience. Discover essential tips for 2026. Read more to op"
+title: Chrome Status Code 502 Bad Gateway Fix
+description: Getting a 502 Bad Gateway error in Chrome? Learn what causes it and how
+  to fix it with simple solutions for regular users. This guide on Chrome Status Code
+  5...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-status-code-502-bad-gateway-fix
-categories: 
-tags: 
+categories:
+- troubleshooting
+- network
+tags:
+- chrome-502-error
+- chrome-fix
+- bad-gateway
+- browser-error
+- network-error
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-status-code-502-bad-gateway-fix
 ---
-
-
-
 
 # Chrome Status Code 502 Bad Gateway Fix
 

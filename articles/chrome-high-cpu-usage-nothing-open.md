@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Chrome High CPU Usage Nothing Open"
-description: "Chrome eating your CPU even with no tabs open? Here's why it happens and how to fix it fast. Read more to optimize your experience. Discover essential tips for "
+title: Chrome High CPU Usage Nothing Open
+description: Chrome eating your CPU even with no tabs open? Here's why it happens
+  and how to fix it fast. This guide on Chrome High CPU Usage Nothing Open provides
+  the es...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-high-cpu-usage-nothing-open
-categories: [performance, cpu, troubleshooting]
-tags: [chrome-high-cpu, chrome-performance, browser-cpu, computer-slow]
+categories:
+- performance
+- cpu
+- troubleshooting
+tags:
+- chrome-high-cpu
+- chrome-performance
+- browser-cpu
+- computer-slow
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-high-cpu-usage-nothing-open
 ---
-
-
 
 # Chrome High CPU Usage Nothing Open
 

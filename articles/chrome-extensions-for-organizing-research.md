@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Organizing Research"
-description: "Discover Chrome extensions that help organize research, keep tabs manageable, and stay productive while gathering information online. Read more to optimize your"
+title: Chrome Extensions for Organizing Research
+description: Discover Chrome extensions that help organize research, keep tabs manageable,
+  and stay productive while gathering information online. Discover essential insi...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-organizing-research
-categories: [research, tips]
-tags: [chrome-extensions, research, productivity]
+categories:
+- research
+- tips
+tags:
+- chrome-extensions
+- research
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-organizing-research
 ---
-
-
 
 # Chrome Extensions for Organizing Research
 

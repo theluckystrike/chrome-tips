@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Why Is Chrome Using So Much Memory"
-description: "Chrome eating your RAM? Discover why Chrome uses so much memory and learn simple fixes to reclaim your computer's performance. Read more to optimize your experi"
+title: Why Is Chrome Using So Much Memory
+description: Chrome eating your RAM? Discover why Chrome uses so much memory and learn
+  simple fixes to reclaim your computer's performance. This guide on Why Is Chrome
+  Us...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: why-is-chrome-using-so-much-memory
-categories: [performance, memory]
-tags: [chrome-memory, chrome-ram, browser-memory, chrome-slow]
+categories:
+- performance
+- memory
+tags:
+- chrome-memory
+- chrome-ram
+- browser-memory
+- chrome-slow
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: why-is-chrome-using-so-much-memory
 ---
-
-
 
 If you have ever asked yourself why is chrome using so much memory, you are not alone. This is one of the most common complaints about Google Chrome, and it affects millions of computer users every day. You open a handful of tabs to check your email, read some news, and maybe watch a quick video, and suddenly Chrome is consuming more memory than everything else running on your computer combined. It feels excessive, and you might wonder what is actually happening behind the scenes.
 

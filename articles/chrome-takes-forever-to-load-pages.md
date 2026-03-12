@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Takes Forever to Load Pages"
-description: "Chrome pages loading slowly? Learn why Chrome takes forever to load pages and discover practical solutions to speed up your browser. Read more to optimize your "
+title: Chrome Takes Forever to Load Pages
+description: Chrome pages loading slowly? Learn why Chrome takes forever to load pages
+  and discover practical solutions to speed up your browser. This guide on Chrome
+  Tak...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-takes-forever-to-load-pages
-categories: [performance, troubleshooting]
-tags: [chrome-slow, page-loading, browser-speed, chrome-fixes]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-slow
+- page-loading
+- browser-speed
+- chrome-fixes
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-takes-forever-to-load-pages
 ---
-
-
 
 # Chrome Takes Forever to Load Pages
 

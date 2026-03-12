@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "chrome for online learning best setup"
-description: "Discover the best Chrome setup for online learning to stay focused, reduce distractions, and get the most out of your study sessions. Read more to optimize your"
+title: chrome for online learning best setup
+description: Discover the best Chrome setup for online learning to stay focused, reduce
+  distractions, and get the most out of your study sessions. Discover essential insi...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-online-learning-best-setup
-categories: [productivity, learning]
-tags: [chrome, online-learning, productivity, browser-setup]
+categories:
+- productivity
+- learning
+tags:
+- chrome
+- online-learning
+- productivity
+- browser-setup
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-online-learning-best-setup
 ---
-
-
 
 # Chrome for Online Learning Best Setup
 

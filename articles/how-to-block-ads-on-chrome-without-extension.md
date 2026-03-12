@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "How to Block Ads on Chrome Without Extension"
-description: "Want to block ads on Chrome without extension? Discover built-in browser features and simple methods to reduce ads for a cleaner browsing experience. Read more "
+title: How to Block Ads on Chrome Without Extension
+description: Want to block ads on Chrome without extension? Discover built-in browser
+  features and simple methods to reduce ads for a cleaner browsing experience. This
+  gu...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: how-to-block-ads-on-chrome-without-extension
-categories: [productivity, privacy]
-tags: [ad-blocking, chrome, browser, privacy]
+categories:
+- productivity
+- privacy
+tags:
+- ad-blocking
+- chrome
+- browser
+- privacy
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: how-to-block-ads-on-chrome-without-extension
 ---
-
-
 
 # How to Block Ads on Chrome Without Extension
 

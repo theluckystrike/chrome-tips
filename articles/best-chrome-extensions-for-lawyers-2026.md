@@ -1,15 +1,23 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Lawyers 2026"
-description: "Discover the best Chrome extensions for lawyers in 2026 to improve productivity, manage client research, and streamline legal workflows. Find out more tips on h"
+title: Best Chrome Extensions for Lawyers 2026
+description: Discover the best Chrome extensions for lawyers in 2026 to improve productivity,
+  manage client research, and streamline legal workflows. Discover essential i...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: best-chrome-extensions-for-lawyers-2026
-categories: 
-tags: 
+categories:
+- productivity
+- legal
+- work
+tags:
+- chrome-extensions
+- lawyers
+- legal-tech
+- productivity
+- 2026
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: best-chrome-extensions-for-lawyers-2026
 ---
-
 
 # Best Chrome Extensions for Lawyers 2026
 

@@ -1,16 +1,24 @@
 ---
 layout: post
-title: "chrome shared storage api privacy ads"
-description: "Learn how Chrome's Shared Storage API is changing the landscape of digital advertising while protecting user privacy. Discover what this means for marketers ..."
+title: chrome shared storage api privacy ads
+description: Learn how Chrome's Shared Storage API is changing the landscape of digital
+  advertising while protecting user privacy. Discover what this means for marketers
+  ...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-shared-storage-api-privacy-ads
-categories: [privacy, advertising, chrome-api]
-tags: [shared-storage, privacy, chrome-api, advertising, browser]
+categories:
+- privacy
+- advertising
+- chrome-api
+tags:
+- shared-storage
+- privacy
+- chrome-api
+- advertising
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-shared-storage-api-privacy-ads
 ---
-
-
 
 # Chrome Shared Storage API: Privacy-First Advertising for the Modern Web
 

@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome Idle Detection API Explained: What It Means for Your Browser"
-description: "Learn what the Chrome Idle Detection API does, why websites use it, and how it affects your browsing experience and privacy. Read more to optimize your experien"
+title: 'Chrome Idle Detection API Explained: What It Means for Your Browser'
+description: Learn what the Chrome Idle Detection API does, why websites use it, and
+  how it affects your browsing experience and privacy. This guide on Chrome Idle Detect...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-idle-detection-api-explained
-categories: [privacy, features]
-tags: [chrome-idle-detection, browser-privacy, chrome-api, user-tracking]
+categories:
+- privacy
+- features
+tags:
+- chrome-idle-detection
+- browser-privacy
+- chrome-api
+- user-tracking
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-idle-detection-api-explained
 ---
-
-
 
 # Chrome Idle Detection API Explained: What It Means for Your Browser
 

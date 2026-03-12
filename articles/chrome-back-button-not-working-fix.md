@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Back Button Not Working Fix"
-description: "Chrome back button not working can be frustrating. Learn why it happens and simple steps to fix it. Read more to optimize your experience. Discover essential ti"
+title: Chrome Back Button Not Working Fix
+description: Chrome back button not working can be frustrating. Learn why it happens
+  and simple steps to fix it. Discover essential insights and practical advice to
+  optim...
 date: 2025-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-back-button-not-working-fix
-categories: [troubleshooting, tips]
-tags: [chrome-back-button, back-button-not-working, chrome-fix, browser-tips]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-back-button
+- back-button-not-working
+- chrome-fix
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-back-button-not-working-fix
 ---
-
-
 
 # Chrome Back Button Not Working Fix
 

@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome for News Reading Best Setup"
-description: "Configure Chrome for comfortable news reading. Reduce clutter, save memory, block distractions, and improve your daily news habit. Read more to optimize your ex"
+title: Chrome for News Reading Best Setup
+description: Configure Chrome for comfortable news reading. Reduce clutter, save memory,
+  block distractions, and improve your daily news habit. Discover essential insight...
 date: 2025-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-news-reading-best-setup
-categories: [productivity, reading]
-tags: [news, reading, chrome-setup, extensions, browser-settings]
+categories:
+- productivity
+- reading
+tags:
+- news
+- reading
+- chrome-setup
+- extensions
+- browser-settings
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-news-reading-best-setup
 ---
-
-
 
 # Chrome for News Reading Best Setup
 

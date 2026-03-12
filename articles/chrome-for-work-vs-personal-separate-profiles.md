@@ -1,16 +1,22 @@
 ---
 layout: default
-title: "Chrome for Work vs Personal — How to Use Separate Profiles"
-description: "Keep your work and personal browsing separate in Chrome using profiles. Setup guide, benefits, and tips for managing multiple Chrome identities. Read more to op"
+title: Chrome for Work vs Personal — How to Use Separate Profiles
+description: Keep your work and personal browsing separate in Chrome using profiles.
+  Setup guide, benefits, and tips for managing multiple Chrome identities. This guide
+  o...
 date: 2025-03-02
-last_modified_at: 2026-03-12
-permalink: chrome-for-work-vs-personal-separate-profiles
-categories: [productivity, profiles]
-tags: [chrome-profiles, work-personal, browser-profiles, productivity]
+categories:
+- productivity
+- profiles
+tags:
+- chrome-profiles
+- work-personal
+- browser-profiles
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-for-work-vs-personal-separate-profiles
 ---
-
-
 
 # Chrome for Work vs Personal — How to Use Separate Profiles
 

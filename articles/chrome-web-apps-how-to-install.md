@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "chrome web apps how to install"
-description: "Learn how to install web apps in Chrome with simple steps. Turn websites into standalone apps for faster access and better organization. Read more to optimize y"
+title: chrome web apps how to install
+description: Learn how to install web apps in Chrome with simple steps. Turn websites
+  into standalone apps for faster access and better organization. This guide on chrome...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-web-apps-how-to-install
-categories: [productivity, tips]
-tags: [web-apps, pwa, install-app, chrome-settings]
+categories:
+- productivity
+- tips
+tags:
+- web-apps
+- pwa
+- install-app
+- chrome-settings
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-web-apps-how-to-install
 ---
-
-
 
 # Chrome Web Apps How to Install
 

@@ -1,16 +1,25 @@
 ---
 layout: post
-title: "Chrome Credential Management API: Complete Guide for Developers"
-description: "Learn how to implement the Chrome Credential Management API for secure password storage, automatic login, and seamless user authentication in your web applic..."
+title: 'Chrome Credential Management API: Complete Guide for Developers'
+description: Learn how to implement the Chrome Credential Management API for secure
+  password storage, automatic login, and seamless user authentication in your web
+  applic...
 date: 2026-03-11
-last_modified_at: 2026-03-12
-permalink: chrome-credential-management-api
-categories: [development, security, authentication]
-tags: [chrome-credential-management-api, web-authentication, passwords, security, browsers, api]
+categories:
+- development
+- security
+- authentication
+tags:
+- chrome-credential-management-api
+- web-authentication
+- passwords
+- security
+- browsers
+- api
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-credential-management-api
 ---
-
-
 
 # Chrome Credential Management API: Complete Guide for Developers
 

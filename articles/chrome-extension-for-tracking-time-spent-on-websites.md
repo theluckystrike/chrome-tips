@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome Extension for Tracking Time Spent on Websites"
-description: "Learn how to use a chrome extension for tracking time spent on websites to understand your browsing habits and improve productivity. Read more to optimize your "
+title: Chrome Extension for Tracking Time Spent on Websites
+description: Learn how to use a chrome extension for tracking time spent on websites
+  to understand your browsing habits and improve productivity. Discover essential
+  insig...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-extension-for-tracking-time-spent-on-websites
-categories: [productivity, tips]
-tags: [chrome-extensions, time-tracking, productivity]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- time-tracking
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-tracking-time-spent-on-websites
 ---
-
-
 
 # Chrome Extension for Tracking Time Spent on Websites
 

@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Chrome Attribution Reporting Guide"
-description: "Master Chrome Attribution Reporting API for conversion measurement, event-level Read more to optimize your experience. Discover essential tips for 2026."
+title: Chrome Attribution Reporting Guide
+description: Master Chrome Attribution Reporting API for conversion measurement, event-level
+  reports, and aggregate reporting. Learn implementation, privacy safeguards, a...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-attribution-reporting
-categories: 
-tags: 
+categories:
+- privacy
+- advertising
+- api
+tags:
+- attribution
+- conversion-tracking
+- chrome-api
+- privacy
+- advertising
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-attribution-reporting
 ---
-
-
 
 # Chrome Attribution Reporting Guide
 

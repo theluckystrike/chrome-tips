@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Chrome Extensions for Remote Workers 2026"
-description: "Discover the best Chrome extensions for remote workers in 2026 to boost productivity and streamline your work-from-home setup. Read more to optimize your experi"
+title: Chrome Extensions for Remote Workers 2026
+description: Discover the best Chrome extensions for remote workers in 2026 to boost
+  productivity and streamline your work-from-home setup. Discover essential insights
+  an...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-remote-workers-2026
-categories: [productivity, extensions, remote-work]
-tags: [chrome-extensions, remote-work, productivity, browser]
+categories:
+- productivity
+- extensions
+- remote-work
+tags:
+- chrome-extensions
+- remote-work
+- productivity
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-remote-workers-2026
 ---
-
-
 
 # Chrome Extensions for Remote Workers 2026
 

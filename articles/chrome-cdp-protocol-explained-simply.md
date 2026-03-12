@@ -1,16 +1,24 @@
 ---
 layout: post
-title: "Chrome CDP Protocol Explained Simply"
-description: "Learn what the Chrome DevTools Protocol (CDP) is, how it works, and why it matters for browser automation, testing, and debugging. Read more to optimize your ex"
+title: Chrome CDP Protocol Explained Simply
+description: Learn what the Chrome DevTools Protocol (CDP) is, how it works, and why
+  it matters for browser automation, testing, and debugging. Discover essential insight...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: chrome-cdp-protocol-explained-simply
-categories: [development, chrome, debugging, automation]
-tags: [cdp, chrome-devtools, browser-automation, debugging, protocol]
+categories:
+- development
+- chrome
+- debugging
+- automation
+tags:
+- cdp
+- chrome-devtools
+- browser-automation
+- debugging
+- protocol
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-cdp-protocol-explained-simply
 ---
-
-
 
 # Chrome CDP Protocol Explained Simply
 

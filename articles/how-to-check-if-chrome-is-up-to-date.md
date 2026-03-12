@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "How to Check If Chrome Is Up to Date"
-description: "Learn simple ways to verify your Chrome browser is updated. Keep your browser secure and running smoothly with these easy steps. Read more to optimize your expe"
+title: How to Check If Chrome Is Up to Date
+description: Learn simple ways to verify your Chrome browser is updated. Keep your
+  browser secure and running smoothly with these easy steps. This guide on How to
+  Check I...
 date: 2025-03-09
-last_modified_at: 2026-03-12
-permalink: how-to-check-if-chrome-is-up-to-date
-categories: [browser, security, updates]
-tags: [chrome-update, browser-security, chrome-settings]
+categories:
+- browser
+- security
+- updates
+tags:
+- chrome-update
+- browser-security
+- chrome-settings
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: how-to-check-if-chrome-is-up-to-date
 ---
-
-
 
 # How to Check If Chrome Is Up to Date
 

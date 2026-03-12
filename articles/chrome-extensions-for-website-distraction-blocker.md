@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "chrome extensions for website distraction blocker"
-description: "Discover chrome extensions for website distraction blocker to stay focused, boost productivity, and reduce digital distractions while browsing. Read more to opt"
+title: chrome extensions for website distraction blocker
+description: Discover chrome extensions for website distraction blocker to stay focused,
+  boost productivity, and reduce digital distractions while browsing. Discover esse...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-website-distraction-blocker
-categories: [extensions, productivity]
-tags: [distraction-blocker, chrome-extension, productivity, focus]
+categories:
+- extensions
+- productivity
+tags:
+- distraction-blocker
+- chrome-extension
+- productivity
+- focus
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-website-distraction-blocker
 ---
-
-
 
 # Chrome Extensions for Website Distraction Blocker
 

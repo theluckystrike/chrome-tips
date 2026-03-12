@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Window Too Small Cant Resize Fix"
-description: "Is your Chrome window stuck at a tiny size and won't resize? Learn what causes this and how to fix it with simple solutions. Read more to optimize your experien"
+title: Chrome Window Too Small Cant Resize Fix
+description: Is your Chrome window stuck at a tiny size and won't resize? Learn what
+  causes this and how to fix it with simple solutions. This guide on Chrome Window
+  Too ...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-window-too-small-cant-resize-fix
-categories: [troubleshooting, interface]
-tags: [chrome-window, window-size, browser-fix, resize-problem]
+categories:
+- troubleshooting
+- interface
+tags:
+- chrome-window
+- window-size
+- browser-fix
+- resize-problem
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-window-too-small-cant-resize-fix
 ---
-
-
 
 # Chrome Window Too Small Cant Resize Fix
 

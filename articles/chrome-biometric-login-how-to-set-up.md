@@ -1,16 +1,24 @@
 ---
 layout: post
-title: "chrome biometric login how to set up"
-description: "Learn how to set up biometric login in Chrome. Use fingerprint or face recognition for secure, password-free authentication on websites. Read more to optimize y"
+title: chrome biometric login how to set up
+description: Learn how to set up biometric login in Chrome. Use fingerprint or face
+  recognition for secure, password-free authentication on websites. Discover essential
+  i...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-biometric-login-how-to-set-up
-categories: [features, security, setup]
-tags: [biometric-login, fingerprint, face-recognition, security, passwords]
+categories:
+- features
+- security
+- setup
+tags:
+- biometric-login
+- fingerprint
+- face-recognition
+- security
+- passwords
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-biometric-login-how-to-set-up
 ---
-
-
 
 # Chrome Biometric Login How to Set Up
 

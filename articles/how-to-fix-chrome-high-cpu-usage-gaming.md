@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "How to Fix Chrome High CPU Usage When Gaming"
-description: "Chrome eating your CPU while you game? Here are practical fixes to lower Chrome's resource usage and enjoy smoother gaming. Read more to optimize your experienc"
+title: How to Fix Chrome High CPU Usage When Gaming
+description: Chrome eating your CPU while you game? Here are practical fixes to lower
+  Chrome's resource usage and enjoy smoother gaming. This guide on How to Fix Chrome
+  H...
 date: 2025-02-20
-last_modified_at: 2026-03-12
-permalink: how-to-fix-chrome-high-cpu-usage-gaming
-categories: [performance, gaming, chrome-tips]
-tags: [chrome-cpu, gaming-performance, browser-optimization, chrome-slow]
+categories:
+- performance
+- gaming
+- chrome-tips
+tags:
+- chrome-cpu
+- gaming-performance
+- browser-optimization
+- chrome-slow
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: how-to-fix-chrome-high-cpu-usage-gaming
 ---
-
-
 
 # How to Fix Chrome High CPU Usage When Gaming
 

@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Chrome for Streamlabs Web Dashboard"
-description: "Learn how to optimize Chrome for Streamlabs web dashboard. Tips for performance, extensions, and managing your streaming workflow. Read more to optimize your ex"
+title: Chrome for Streamlabs Web Dashboard
+description: Learn how to optimize Chrome for Streamlabs web dashboard. Tips for performance,
+  extensions, and managing your streaming workflow. Discover essential insight...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-streamlabs-web-dashboard
-categories: [streaming, browser, productivity]
-tags: [chrome, streamlabs, streaming, dashboard, browser-tips]
+categories:
+- streaming
+- browser
+- productivity
+tags:
+- chrome
+- streamlabs
+- streaming
+- dashboard
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-streamlabs-web-dashboard
 ---
-
-
 
 # Chrome for Streamlabs Web Dashboard
 

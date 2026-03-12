@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Cashback Shopping"
-description: "Discover how chrome extensions for cashback shopping can help you earn money back on every purchase you make online. Read more to optimize your experience."
+title: Chrome Extensions for Cashback Shopping
+description: Discover how chrome extensions for cashback shopping can help you earn
+  money back on every purchase you make online. Discover essential insights and practica...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-cashback-shopping
-categories: [shopping, tips]
-tags: [chrome-extensions, cashback, shopping, savings]
+categories:
+- shopping
+- tips
+tags:
+- chrome-extensions
+- cashback
+- shopping
+- savings
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-cashback-shopping
 ---
-
-
 
 # Chrome Extensions for Cashback Shopping
 

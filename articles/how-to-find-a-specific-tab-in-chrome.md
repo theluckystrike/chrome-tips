@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "How to Find a Specific Tab in Chrome"
-description: "Lost in a sea of tabs? Learn practical ways to find that specific Chrome tab without clicking through dozens of them. Read more to optimize your experience."
+title: How to Find a Specific Tab in Chrome
+description: Lost in a sea of tabs? Learn practical ways to find that specific Chrome
+  tab without clicking through dozens of them. This guide on How to Find a Specific
+  Ta...
 date: 2025-03-09
-last_modified_at: 2026-03-12
-permalink: how-to-find-a-specific-tab-in-chrome
-categories: [productivity, tips]
-tags: [tabs, chrome-tips, browser-management]
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- chrome-tips
+- browser-management
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: how-to-find-a-specific-tab-in-chrome
 ---
-
-
 
 # How to Find a Specific Tab in Chrome
 

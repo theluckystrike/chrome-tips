@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for WhatsApp Web"
-description: "Discover the best Chrome extensions for WhatsApp Web that improve messaging, enhance privacy, and make using WhatsApp on your computer easier. Read more to opti"
+title: Chrome Extensions for WhatsApp Web
+description: Discover the best Chrome extensions for WhatsApp Web that improve messaging,
+  enhance privacy, and make using WhatsApp on your computer easier. This guide on
+  ...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-whatsapp-web
-categories: [productivity, tips]
-tags: [chrome-extensions, whatsapp-web, messaging]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- whatsapp-web
+- messaging
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-extensions-for-whatsapp-web
 ---
-
-
 
 # Chrome Extensions for WhatsApp Web
 

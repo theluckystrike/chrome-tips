@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome How to Clear Individual Site Data"
-description: "Learn how to clear data for specific websites in Chrome without affecting your entire browser. Fix site issues quickly. Read more to optimize your experience."
+title: Chrome How to Clear Individual Site Data
+description: Learn how to clear data for specific websites in Chrome without affecting
+  your entire browser. Fix site issues quickly. This guide on Chrome How to Clear
+  Ind...
 date: 2025-02-19
-last_modified_at: 2026-03-12
-permalink: chrome-how-to-clear-individual-site-data
-categories: [privacy, browser-tips]
-tags: [site-data, cookies, storage, privacy]
+categories:
+- privacy
+- browser-tips
+tags:
+- site-data
+- cookies
+- storage
+- privacy
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-how-to-clear-individual-site-data
 ---
-
-
 
 # Chrome How to Clear Individual Site Data
 

@@ -1,13 +1,12 @@
 ---
 layout: default
-title: "Chrome Device Emulation Advanced Guide"
-description: "Master Chrome device emulation with custom devices, DPR settings, touch simulation, and media query testing. Advanced techniques for responsive web developme..."
-date: 2026-01-15
-last_modified_at: 2026-03-12
+title: Chrome Device Emulation Advanced Guide
+description: Master Chrome device emulation with custom devices, DPR settings, touch
+  simulation, and media query testing. Advanced techniques for responsive web developme...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
 permalink: chrome-device-emulation-advanced
 ---
-
-
 
 Chrome device emulation is one of the most powerful features in Chrome DevTools, yet many developers only scratch the surface of what it can do. While basic responsive mode lets you resize your viewport, the advanced device emulation capabilities allow you to precisely replicate the experience of real devices, test complex scenarios, and debug issues that only appear on specific hardware. This guide will take you through the advanced features that will transform how you test and develop responsive websites.
 

@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome DevTools Performance Panel Explained"
-description: "Learn what the Chrome DevTools Performance Panel does and how to use it to find and fix browser slowdowns. Read more to optimize your experience. Discover essen"
+title: Chrome DevTools Performance Panel Explained
+description: Learn what the Chrome DevTools Performance Panel does and how to use
+  it to find and fix browser slowdowns. Discover essential insights and practical
+  advice t...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-devtools-performance-panel-explained
-categories: [performance, troubleshooting]
-tags: [chrome-devtools, performance, browser-tools]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-devtools
+- performance
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-devtools-performance-panel-explained
 ---
-
-
 
 # Chrome DevTools Performance Panel Explained
 

@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Weather Forecast New Tab"
-description: "Discover how Chrome extensions can transform your new tab into a weather dashboard, keeping you prepared every day. Read more to optimize your experience."
+title: Chrome Extensions for Weather Forecast New Tab
+description: Discover how Chrome extensions can transform your new tab into a weather
+  dashboard, keeping you prepared every day. Discover essential insights and practical...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-weather-forecast-new-tab
-categories: [weather, tips]
-tags: [chrome-extensions, weather, productivity]
+categories:
+- weather
+- tips
+tags:
+- chrome-extensions
+- weather
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-weather-forecast-new-tab
 ---
-
-
 
 # Chrome Extensions for Weather Forecast New Tab
 

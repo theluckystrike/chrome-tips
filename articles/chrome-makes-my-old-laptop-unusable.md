@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work"
-description: "Is Chrome making your old laptop unusable? Discover step-by-step solutions to reduce memory usage, speed up your browser, and get your computer running smoot..."
+title: 'Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work'
+description: Is Chrome making your old laptop unusable? Discover step-by-step solutions
+  to reduce memory usage, speed up your browser, and get your computer running smoot...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-makes-my-old-laptop-unusable
-categories: [performance, chrome-tips]
-tags: [chrome-slow, old-laptop, low-ram, browser-performance, chrome-memory]
+categories:
+- performance
+- chrome-tips
+tags:
+- chrome-slow
+- old-laptop
+- low-ram
+- browser-performance
+- chrome-memory
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-makes-my-old-laptop-unusable
 ---
-
-
 
 # Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work
 

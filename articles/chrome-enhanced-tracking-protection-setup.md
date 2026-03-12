@@ -1,16 +1,24 @@
 ---
 layout: post
-title: "chrome enhanced tracking protection setup"
-description: "Learn how to set up Chrome enhanced tracking protection to block trackers, improve privacy, and reduce unwanted data collection. Read more to optimize your expe"
+title: chrome enhanced tracking protection setup
+description: Learn how to set up Chrome enhanced tracking protection to block trackers,
+  improve privacy, and reduce unwanted data collection. Discover essential insights
+  ...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-enhanced-tracking-protection-setup
-categories: [privacy, security, tracking]
-tags: [privacy, tracking, chrome-settings, security, cookies]
+categories:
+- privacy
+- security
+- tracking
+tags:
+- privacy
+- tracking
+- chrome-settings
+- security
+- cookies
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-enhanced-tracking-protection-setup
 ---
-
-
 
 # Chrome Enhanced Tracking Protection Setup
 

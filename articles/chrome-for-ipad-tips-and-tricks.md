@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Chrome for iPad Tips and Tricks"
-description: "Master Chrome on your iPad with these hidden tips, speed tricks, and productivity features for the best browsing experience. Read more to optimize your experien"
+title: Chrome for iPad Tips and Tricks
+description: Master Chrome on your iPad with these hidden tips, speed tricks, and
+  productivity features for the best browsing experience. This guide on Chrome for
+  iPad Ti...
 date: 2025-03-16
-last_modified_at: 2026-03-12
-permalink: chrome-for-ipad-tips-and-tricks
-categories: [mobile, tips, ipad]
-tags: [chrome-ipad, ipad-browser, chrome-tips, mobile-tips]
+categories:
+- mobile
+- tips
+- ipad
+tags:
+- chrome-ipad
+- ipad-browser
+- chrome-tips
+- mobile-tips
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-for-ipad-tips-and-tricks
 ---
-
-
 
 # Chrome for iPad Tips and Tricks
 

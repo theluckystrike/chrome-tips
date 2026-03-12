@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Black Screen When Opening Fix: Complete Practical Guide"
-description: "Is Chrome showing a black screen when opening? Learn practical step-by-step solutions to fix this issue, from disabling hardware acceleration to resetting br..."
+title: 'Chrome Black Screen When Opening Fix: Complete Practical Guide'
+description: Is Chrome showing a black screen when opening? Learn practical step-by-step
+  solutions to fix this issue, from disabling hardware acceleration to resetting br...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-black-screen-when-opening-fix
-categories: [chrome, troubleshooting, browser-fix]
-tags: [chrome-black-screen, browser-issues, chrome-fix, troubleshooting]
+categories:
+- chrome
+- troubleshooting
+- browser-fix
+tags:
+- chrome-black-screen
+- browser-issues
+- chrome-fix
+- troubleshooting
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-black-screen-when-opening-fix
 ---
-
-
 
 # Chrome Black Screen When Opening Fix: Complete Practical Guide
 

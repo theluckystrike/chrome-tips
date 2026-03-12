@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Chrome Web MIDI API Explained"
-description: "What is the Chrome Web MIDI API, why it matters, and how to fix common MIDI connection issues in Chrome browser. Read more to optimize your experience."
-date: 2026-01-15
-last_modified_at: 2026-03-12
+title: Chrome Web MIDI API Explained
+description: What is the Chrome Web MIDI API, why it matters, and how to fix common
+  MIDI connection issues in Chrome browser. This guide on Chrome Web MIDI API Explained
+  ...
+last_modified_at: '2026-03-12'
 permalink: chrome-web-midi-api-explained
+date: '2026-03-12'
 ---
-
-
 
 If you have ever wondered what the Chrome Web MIDI API is and why it matters for your browsing experience, you are in the right place. The Chrome Web MIDI API explained simply is a feature that lets your browser talk to musical instruments and controllers, and understanding it can help you troubleshoot connection issues with web-based music tools.
 

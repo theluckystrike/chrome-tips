@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Keeps Logging Me Out of Sites Fix"
-description: "Chrome keeps logging you out of sites? Learn why this happens and how to fix it with simple steps. Read more to optimize your experience. Discover essential tip"
+title: Chrome Keeps Logging Me Out of Sites Fix
+description: Chrome keeps logging you out of sites? Learn why this happens and how
+  to fix it with simple steps. This guide on Chrome Keeps Logging Me Out of Sites
+  Fix pro...
 date: 2025-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-keeps-logging-me-out-of-sites-fix
-categories: [troubleshooting, tips]
-tags: [chrome-login, logout-issue, browser-cookies, session-fix]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-login
+- logout-issue
+- browser-cookies
+- session-fix
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-keeps-logging-me-out-of-sites-fix
 ---
-
-
 
 # Chrome Keeps Logging Me Out of Sites Fix
 

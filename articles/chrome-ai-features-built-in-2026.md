@@ -1,16 +1,24 @@
 ---
 layout: post
-title: "chrome ai features built in 2026"
-description: "Learn about the amazing AI features built into Chrome in 2026. Discover how Chrome's built-in AI can help you browse smarter. Read more to optimize your experie"
+title: chrome ai features built in 2026
+description: Learn about the amazing AI features built into Chrome in 2026. Discover
+  how Chrome's built-in AI can help you browse smarter. Discover essential insights
+  and...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-ai-features-built-in-2026
-categories: [ai, browser, features]
-tags: [chrome, ai, artificial-intelligence, browser-features, 2026]
+categories:
+- ai
+- browser
+- features
+tags:
+- chrome
+- ai
+- artificial-intelligence
+- browser-features
+- 2026
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-ai-features-built-in-2026
 ---
-
-
 
 # Chrome AI Features Built in 2026
 

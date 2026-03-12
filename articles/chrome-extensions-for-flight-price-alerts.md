@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions for Flight Price Alerts"
-description: "Learn how chrome extensions for flight price alerts can help you find cheaper flights and save money on travel. Read more to optimize your experience."
+title: Chrome Extensions for Flight Price Alerts
+description: Learn how chrome extensions for flight price alerts can help you find
+  cheaper flights and save money on travel. Discover essential insights and practical
+  adv...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-flight-price-alerts
-categories: [travel, tips]
-tags: [chrome-extensions, travel, flights, deals]
+categories:
+- travel
+- tips
+tags:
+- chrome-extensions
+- travel
+- flights
+- deals
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-flight-price-alerts
 ---
-
-
 
 # Chrome Extensions for Flight Price Alerts
 

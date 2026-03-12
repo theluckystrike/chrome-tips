@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Audio Equalizer Extension"
-description: "Improve your browser audio with Chrome equalizer extensions. Enhance music, videos, and podcasts with custom sound settings. Read more to optimize your experien"
+title: Chrome Audio Equalizer Extension
+description: Improve your browser audio with Chrome equalizer extensions. Enhance
+  music, videos, and podcasts with custom sound settings. Discover essential insights
+  and ...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-audio-equalizer-extension
-categories: [browsers, chrome, extensions]
-tags: [chrome-audio, equalizer, sound-enhancement]
+categories:
+- browsers
+- chrome
+- extensions
+tags:
+- chrome-audio
+- equalizer
+- sound-enhancement
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-audio-equalizer-extension
 ---
-
-
 
 # Chrome Audio Equalizer Extension
 

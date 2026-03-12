@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions for Email Templates"
-description: "Discover how Chrome extensions for email templates can save you time and ensure consistent communication across your inbox. Read more to optimize your experienc"
+title: Chrome Extensions for Email Templates
+description: Discover how Chrome extensions for email templates can save you time
+  and ensure consistent communication across your inbox. Discover essential insights
+  and p...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-email-templates
-categories: [email, tips]
-tags: [chrome-extensions, email, productivity, templates]
+categories:
+- email
+- tips
+tags:
+- chrome-extensions
+- email
+- productivity
+- templates
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-email-templates
 ---
-
-
 
 # Chrome Extensions for Email Templates
 

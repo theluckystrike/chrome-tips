@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Chrome How to Clear DNS Cache"
-description: "Learn how to clear DNS cache in Chrome when websites won't load. Simple steps to fix connection issues and see updated site content. Read more to optimize your "
+title: Chrome How to Clear DNS Cache
+description: Learn how to clear DNS cache in Chrome when websites won't load. Simple
+  steps to fix connection issues and see updated site content. This guide on Chrome
+  How...
 date: 2025-02-19
-last_modified_at: 2026-03-12
-permalink: chrome-how-to-clear-dns-cache
-categories: [browser-tips, troubleshooting]
-tags: [dns, cache, connection, network, troubleshooting]
+categories:
+- browser-tips
+- troubleshooting
+tags:
+- dns
+- cache
+- connection
+- network
+- troubleshooting
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-how-to-clear-dns-cache
 ---
-
-
 
 # Chrome How to Clear DNS Cache
 

@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "How to Limit Screen Time in Chrome with Extensions"
-description: "Learn how to use Chrome extensions to limit screen time, block distracting websites, and stay productive. Read more to optimize your experience. Discover essent"
+title: How to Limit Screen Time in Chrome with Extensions
+description: Learn how to use Chrome extensions to limit screen time, block distracting
+  websites, and stay productive. Discover essential insights and practical advice
+  to...
 date: 2026-03-11
-last_modified_at: 2026-03-12
-permalink: chrome-limit-screen-time-with-extension
-categories: [productivity, extensions]
-tags: [chrome-extensions, screen-time, productivity, focus]
+categories:
+- productivity
+- extensions
+tags:
+- chrome-extensions
+- screen-time
+- productivity
+- focus
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-limit-screen-time-with-extension
 ---
-
-
 
 # How to Limit Screen Time in Chrome with Extensions
 

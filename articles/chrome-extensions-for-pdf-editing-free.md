@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "chrome extensions for pdf editing free"
-description: "Find free Chrome extensions for editing PDFs directly in your browser. Our guide helps you choose the right tool without spending money. Read more to optimize y"
+title: chrome extensions for pdf editing free
+description: Find free Chrome extensions for editing PDFs directly in your browser.
+  Our guide helps you choose the right tool without spending money. Discover essential
+  i...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-pdf-editing-free
-categories: [extensions, productivity]
-tags: [pdf, chrome-extension, editing, free, productivity]
+categories:
+- extensions
+- productivity
+tags:
+- pdf
+- chrome-extension
+- editing
+- free
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-pdf-editing-free
 ---
-
-
 
 # Chrome Extensions for PDF Editing Free
 

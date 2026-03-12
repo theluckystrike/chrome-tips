@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Cache Folder Size and Location: Complete Guide"
-description: "Learn where Chrome stores its cache folder on different operating systems, how to check its size, and ways to manage it effectively. Simple instructions for ..."
+title: 'Chrome Cache Folder Size and Location: Complete Guide'
+description: Learn where Chrome stores its cache folder on different operating systems,
+  how to check its size, and ways to manage it effectively. Simple instructions for
+  ...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-cache-folder-size-and-location
-categories: [troubleshooting, performance]
-tags: [chrome-cache-folder, chrome-cache-location, chrome-cache-size, browser-cache]
+categories:
+- troubleshooting
+- performance
+tags:
+- chrome-cache-folder
+- chrome-cache-location
+- chrome-cache-size
+- browser-cache
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-cache-folder-size-and-location
 ---
-
-
 
 # Chrome Cache Folder Size and Location: Complete Guide
 

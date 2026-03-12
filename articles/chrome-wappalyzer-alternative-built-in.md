@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "Chrome Wappalyzer Alternative Built In"
-description: "Discover built-in Chrome features that identify websites without extensions. Learn how to check what technology any site uses. Read more to optimize your experi"
+title: Chrome Wappalyzer Alternative Built In
+description: Discover built-in Chrome features that identify websites without extensions.
+  Learn how to check what technology any site uses. This guide on Chrome Wappalyze...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-wappalyzer-alternative-built-in
-categories: [tips, tools]
-tags: [chrome, website-analysis, built-in-features]
+categories:
+- tips
+- tools
+tags:
+- chrome
+- website-analysis
+- built-in-features
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-wappalyzer-alternative-built-in
 ---
-
-
 
 # Chrome Wappalyzer Alternative Built In
 

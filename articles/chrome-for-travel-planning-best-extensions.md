@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome for Travel Planning: Best Extensions"
-description: "Discover the best Chrome extensions for travel planning that will help you organize trips, find deals, and streamline your research. Read more to optimize your "
+title: 'Chrome for Travel Planning: Best Extensions'
+description: Discover the best Chrome extensions for travel planning that will help
+  you organize trips, find deals, and streamline your research. Discover essential
+  insig...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-travel-planning-best-extensions
-categories: [travel, tips]
-tags: [chrome-extensions, travel-planning, browser-tools]
+categories:
+- travel
+- tips
+tags:
+- chrome-extensions
+- travel-planning
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-travel-planning-best-extensions
 ---
-
-
 
 # Chrome for Travel Planning: Best Extensions
 

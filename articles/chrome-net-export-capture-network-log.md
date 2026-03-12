@@ -1,16 +1,24 @@
 ---
 layout: post
-title: "How to Capture Network Logs in Chrome Using Net Export"
-description: "Learn how to use Chrome's Net Export feature to capture and analyze network traffic. Perfect for debugging, troubleshooting, and understanding web requests."
+title: How to Capture Network Logs in Chrome Using Net Export
+description: Learn how to use Chrome's Net Export feature to capture and analyze network
+  traffic. Perfect for debugging, troubleshooting, and understanding web requests.
 date: 2026-01-18
-last_modified_at: 2026-03-12
-permalink: chrome-net-export-capture-network-log
-categories: [chrome, developer-tools, network, debugging]
-tags: [chrome-devtools, network-logging, net-export, debugging, troubleshooting]
+categories:
+- chrome
+- developer-tools
+- network
+- debugging
+tags:
+- chrome-devtools
+- network-logging
+- net-export
+- debugging
+- troubleshooting
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-net-export-capture-network-log
 ---
-
-
 
 # How to Capture Network Logs in Chrome Using Net Export
 

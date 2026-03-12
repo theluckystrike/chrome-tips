@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Tab Crashed He Dead Fix"
-description: "Is your Chrome tab crashing repeatedly? Learn why Chrome tabs crash and how to fix the 'he dead' error with simple solutions anyone can try. Read more to optimi"
+title: Chrome Tab Crashed He Dead Fix
+description: Is your Chrome tab crashing repeatedly? Learn why Chrome tabs crash and
+  how to fix the 'he dead' error with simple solutions anyone can try. This guide
+  on Ch...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-tab-crashed-he-dead-fix
-categories: [troubleshooting, performance]
-tags: [chrome-tab-crashed, chrome-crash, browser-error, chrome-fix]
+categories:
+- troubleshooting
+- performance
+tags:
+- chrome-tab-crashed
+- chrome-crash
+- browser-error
+- chrome-fix
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-tab-crashed-he-dead-fix
 ---
-
-
 
 # Chrome Tab Crashed He Dead Fix
 

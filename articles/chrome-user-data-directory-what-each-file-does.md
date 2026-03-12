@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Chrome User Data Directory: What Each File Does"
-description: "Understand what each file and folder in Chrome's user data directory contains, from history to extensions, and learn how to manage them effectively. Read more t"
+title: 'Chrome User Data Directory: What Each File Does'
+description: Understand what each file and folder in Chrome's user data directory
+  contains, from history to extensions, and learn how to manage them effectively.
+  Discover...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-user-data-directory-what-each-file-does
-categories: [chrome, tips, troubleshooting]
-tags: [chrome-user-data, browser-files, chrome-directory, troubleshooting]
+categories:
+- chrome
+- tips
+- troubleshooting
+tags:
+- chrome-user-data
+- browser-files
+- chrome-directory
+- troubleshooting
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-user-data-directory-what-each-file-does
 ---
-
-
 
 # Chrome User Data Directory: What Each File Does
 

@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome Status Invalid Image Hash Fix"
-description: "Getting an invalid image hash error in Chrome? Learn what causes it and how to fix it with simple steps anyone can follow. Read more to optimize your experience"
+title: Chrome Status Invalid Image Hash Fix
+description: Getting an invalid image hash error in Chrome? Learn what causes it and
+  how to fix it with simple steps anyone can follow. This guide on Chrome Status Invali...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-status-invalid-image-hash-fix
-categories: [troubleshooting, image-errors]
-tags: [chrome-error, image-hash, browser-fix, chrome-status]
+categories:
+- troubleshooting
+- image-errors
+tags:
+- chrome-error
+- image-hash
+- browser-fix
+- chrome-status
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-status-invalid-image-hash-fix
 ---
-
-
 
 # Chrome Status Invalid Image Hash Fix
 

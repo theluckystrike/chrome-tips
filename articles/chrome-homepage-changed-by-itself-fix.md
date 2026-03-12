@@ -1,16 +1,22 @@
 ---
 layout: default
-title: "Chrome Homepage Changed by Itself Fix"
-description: "Is your Chrome homepage changing on its own? Extensions, malware, or settings could be the cause. Here is how to fix it yourself. Read more to optimize your exp"
+title: Chrome Homepage Changed by Itself Fix
+description: Is your Chrome homepage changing on its own? Extensions, malware, or
+  settings could be the cause. Here is how to fix it yourself. This guide on Chrome
+  Homepa...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-homepage-changed-by-itself-fix
-categories: [troubleshooting, settings]
-tags: [chrome-homepage, browser-settings, homepage-fix, homepage-changed]
+categories:
+- troubleshooting
+- settings
+tags:
+- chrome-homepage
+- browser-settings
+- homepage-fix
+- homepage-changed
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-homepage-changed-by-itself-fix
 ---
-
-
 
 # Chrome Homepage Changed by Itself Fix
 

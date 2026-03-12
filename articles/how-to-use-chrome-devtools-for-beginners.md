@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "How to Use Chrome DevTools for Beginners"
-description: "A beginner-friendly guide to Chrome Developer Tools. Learn how to inspect web pages, debug issues, and explore the web behind the scenes. Read more to optimize "
+title: How to Use Chrome DevTools for Beginners
+description: A beginner-friendly guide to Chrome Developer Tools. Learn how to inspect
+  web pages, debug issues, and explore the web behind the scenes. This guide on How
+  t...
 date: 2025-02-19
-last_modified_at: 2026-03-12
-permalink: how-to-use-chrome-devtools-for-beginners
-categories: [browser-tips, web-development]
-tags: [developer-tools, chrome, beginners, troubleshooting]
+categories:
+- browser-tips
+- web-development
+tags:
+- developer-tools
+- chrome
+- beginners
+- troubleshooting
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: how-to-use-chrome-devtools-for-beginners
 ---
-
-
 
 # How to Use Chrome DevTools for Beginners
 

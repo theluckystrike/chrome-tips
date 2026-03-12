@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions for Ambient Sounds Focus"
-description: "Struggling to focus? Learn how ambient sound extensions can help block distractions and improve concentration. Read more to optimize your experience. Discover e"
+title: Chrome Extensions for Ambient Sounds Focus
+description: Struggling to focus? Learn how ambient sound extensions can help block
+  distractions and improve concentration. Discover essential insights and practical
+  advi...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-ambient-sounds-focus
-categories: [productivity, extensions]
-tags: [chrome-extensions, focus, productivity, ambient-sounds]
+categories:
+- productivity
+- extensions
+tags:
+- chrome-extensions
+- focus
+- productivity
+- ambient-sounds
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-ambient-sounds-focus
 ---
-
-
 
 # Chrome Extensions for Ambient Sounds Focus
 

@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Chrome Extensions for Tab Grouping Automatically"
-description: "Discover the best Chrome extensions for automatically grouping tabs to keep your browser organized and boost your productivity. Read more to optimize your exper"
+title: Chrome Extensions for Tab Grouping Automatically
+description: Discover the best Chrome extensions for automatically grouping tabs to
+  keep your browser organized and boost your productivity. Discover essential insights
+  a...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-tab-grouping-automatically
-categories: [browsing, productivity, tips]
-tags: [chrome-extensions, tab-management, browser-tools, productivity]
+categories:
+- browsing
+- productivity
+- tips
+tags:
+- chrome-extensions
+- tab-management
+- browser-tools
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-tab-grouping-automatically
 ---
-
-
 
 # Chrome Extensions for Tab Grouping Automatically
 

@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome Forward Button Greyed Out Fix"
-description: "Chrome forward button greyed out can be frustrating. Learn why it happens and simple steps to get it working again. Read more to optimize your experience."
+title: Chrome Forward Button Greyed Out Fix
+description: Chrome forward button greyed out can be frustrating. Learn why it happens
+  and simple steps to get it working again. This guide on Chrome Forward Button Greye...
 date: 2025-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-forward-button-greyed-out-fix
-categories: [troubleshooting, tips]
-tags: [chrome-forward-button, forward-button-greyed-out, chrome-fix, browser-tips]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-forward-button
+- forward-button-greyed-out
+- chrome-fix
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-forward-button-greyed-out-fix
 ---
-
-
 
 # Chrome Forward Button Greyed Out Fix
 

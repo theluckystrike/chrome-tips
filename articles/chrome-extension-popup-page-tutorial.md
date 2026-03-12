@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Chrome Extension Popup Page Tutorial"
-description: "Learn how to create a Chrome extension popup page from scratch. This tutorial covers HTML, CSS, JavaScript, and manifest configuration. Read more to optimize yo"
+title: Chrome Extension Popup Page Tutorial
+description: Learn how to create a Chrome extension popup page from scratch. This
+  tutorial covers HTML, CSS, JavaScript, and manifest configuration. Discover essential
+  in...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: chrome-extension-popup-page-tutorial
-categories: [tutorials, extensions, development]
-tags: [chrome-extensions, popup, tutorial, web-development]
+categories:
+- tutorials
+- extensions
+- development
+tags:
+- chrome-extensions
+- popup
+- tutorial
+- web-development
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-extension-popup-page-tutorial
 ---
-
-
 
 # Chrome Extension Popup Page Tutorial
 

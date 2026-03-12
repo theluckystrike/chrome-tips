@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome for Autofill Credit Card Safety"
-description: "Learn how to keep your credit cards safe when using Chrome autofill. Tips for secure online payments and protecting your financial data. Read more to optimize y"
+title: Chrome for Autofill Credit Card Safety
+description: Learn how to keep your credit cards safe when using Chrome autofill.
+  Tips for secure online payments and protecting your financial data. Discover essential
+  i...
 date: 2025-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-autofill-credit-card-safety
-categories: [security, tips]
-tags: [chrome-autofill, credit-card-safety, online-payments, chrome-settings]
+categories:
+- security
+- tips
+tags:
+- chrome-autofill
+- credit-card-safety
+- online-payments
+- chrome-settings
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-autofill-credit-card-safety
 ---
-
-
 
 # Chrome for Autofill Credit Card Safety
 

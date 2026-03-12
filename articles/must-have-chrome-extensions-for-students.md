@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Must Have Chrome Extensions for Students"
-description: "Discover the must have chrome extensions for students that boost productivity, save time, and make studying easier. Read more to optimize your experience."
+title: Must Have Chrome Extensions for Students
+description: Discover the must have chrome extensions for students that boost productivity,
+  save time, and make studying easier. This guide on Must Have Chrome Extensions...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: must-have-chrome-extensions-for-students
-categories: [productivity, tips]
-tags: [chrome-extensions, students, productivity, study-tools]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- students
+- productivity
+- study-tools
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: must-have-chrome-extensions-for-students
 ---
-
-
 
 # Must Have Chrome Extensions for Students
 

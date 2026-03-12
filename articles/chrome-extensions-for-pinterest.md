@@ -1,16 +1,25 @@
 ---
 layout: post
-title: "Chrome Extensions for Pinterest"
-description: "Discover the best Chrome extensions for Pinterest to save time, organize boards, and boost your productivity on the platform. Read more to optimize your experie"
+title: Chrome Extensions for Pinterest
+description: Discover the best Chrome extensions for Pinterest to save time, organize
+  boards, and boost your productivity on the platform. Discover essential insights
+  and...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-pinterest
-categories: [pinterest, social-media, productivity, tips]
-tags: [chrome-extensions, pinterest, social-media, productivity, browser-tools]
+categories:
+- pinterest
+- social-media
+- productivity
+- tips
+tags:
+- chrome-extensions
+- pinterest
+- social-media
+- productivity
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-pinterest
 ---
-
-
 
 # Chrome Extensions for Pinterest
 

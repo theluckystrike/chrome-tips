@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chromebook vs MacBook for College"
-description: "Compare Chromebooks and MacBooks for college students. Find which laptop best fits your budget, major, and study habits. Read more to optimize your experience."
+title: Chromebook vs MacBook for College
+description: Compare Chromebooks and MacBooks for college students. Find which laptop
+  best fits your budget, major, and study habits. This guide on Chromebook vs MacBook
+  ...
 date: 2025-02-20
-last_modified_at: 2026-03-12
-permalink: chromebook-vs-macbook-for-college
-categories: [laptops, college]
-tags: [chromebook-vs-macbook-college, laptop-for-college, student-laptop]
+categories:
+- laptops
+- college
+tags:
+- chromebook-vs-macbook-college
+- laptop-for-college
+- student-laptop
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chromebook-vs-macbook-for-college
 ---
-
-
 
 # Chromebook vs MacBook for College
 

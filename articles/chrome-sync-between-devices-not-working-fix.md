@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Sync Between Devices Not Working Fix"
-description: "Chrome sync between devices not working can be frustrating. Learn simple fixes to get your bookmarks and data syncing across all your devices. Read more to opti"
+title: Chrome Sync Between Devices Not Working Fix
+description: Chrome sync between devices not working can be frustrating. Learn simple
+  fixes to get your bookmarks and data syncing across all your devices. Discover essen...
 date: 2025-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-sync-between-devices-not-working-fix
-categories: [troubleshooting, tips]
-tags: [chrome-sync, sync-between-devices, sync-not-working, browser-sync, chrome-fix]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-sync
+- sync-between-devices
+- sync-not-working
+- browser-sync
+- chrome-fix
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-sync-between-devices-not-working-fix
 ---
-
-
 
 # Chrome Sync Between Devices Not Working Fix
 

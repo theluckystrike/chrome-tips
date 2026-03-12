@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome Task Manager How to Use"
-description: "Learn how to use Chrome Task Manager to identify and stop memory-hungry tabs, extensions, and processes slowing down your browser. Read more to optimize your ex"
+title: Chrome Task Manager How to Use
+description: Learn how to use Chrome Task Manager to identify and stop memory-hungry
+  tabs, extensions, and processes slowing down your browser. This guide on Chrome
+  Task ...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-task-manager-how-to-use
-categories: [performance, troubleshooting]
-tags: [chrome-task-manager, browser-tools, chrome-tips]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-task-manager
+- browser-tools
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-task-manager-how-to-use
 ---
-
-
 
 # Chrome Task Manager How to Use
 

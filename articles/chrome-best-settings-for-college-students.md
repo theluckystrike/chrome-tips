@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "Chrome Best Settings for College Students"
-description: "Optimize Chrome settings for college life. Boost productivity, save battery and data, and reduce distractions while studying. Read more to optimize your experie"
+title: Chrome Best Settings for College Students
+description: Optimize Chrome settings for college life. Boost productivity, save battery
+  and data, and reduce distractions while studying. Discover essential insights and...
 date: 2025-02-20
-last_modified_at: 2026-03-12
-permalink: chrome-best-settings-for-college-students
-categories: [productivity, students]
-tags: [chrome-settings-college, student-productivity, chrome-optimization]
+categories:
+- productivity
+- students
+tags:
+- chrome-settings-college
+- student-productivity
+- chrome-optimization
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-best-settings-for-college-students
 ---
-
-
 
 # Chrome Best Settings for College Students
 

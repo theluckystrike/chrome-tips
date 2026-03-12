@@ -1,17 +1,23 @@
 ---
 layout: default
-title: "Chrome Split Screen Two Tabs Side by Side"
-description: "Learn how to view two Chrome tabs side by side. Use built-in features Read more to optimize your experience. Discover essential tips for 2026. Read more to opti"
+title: Chrome Split Screen Two Tabs Side by Side
+description: Learn how to view two Chrome tabs side by side. Use built-in features
+  and extensions to split your screen for better multitasking and productivity. This
+  guid...
 date: 2025-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-split-screen-two-tabs-side-by-side
-categories: 
-tags: 
+categories:
+- features
+- productivity
+tags:
+- split-screen
+- tabs
+- multitasking
+- productivity
+- chrome-features
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-split-screen-two-tabs-side-by-side
 ---
-
-
-
 
 # Chrome Split Screen Two Tabs Side by Side
 

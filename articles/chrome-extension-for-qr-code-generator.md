@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Chrome Extension for QR Code Generator"
-description: "Discover how to use Chrome extensions for QR code creation. Learn what Read more to optimize your experience. Discover essential tips for 2026. Read more to opt"
-date: 2026-03-09
-last_modified_at: 2026-03-12
+title: Chrome Extension for QR Code Generator
+description: Discover how to use Chrome extensions for QR code creation. Learn what
+  features to look for and how to create scannable codes quickly. Discover essential
+  ins...
+date: '2026-03-09'
+last_modified_at: '2026-03-11'
 permalink: chrome-extension-for-qr-code-generator
 ---
-
-
-
 
 Chrome extension for QR code generator is something many people search for when they need an easy way to create QR codes without leaving their browser. Whether you want to share a website link, send contact details, or encode a WiFi password, a good QR code generator extension makes the process simple and fast. Let me explain how these extensions work and what you should consider when choosing one.
 

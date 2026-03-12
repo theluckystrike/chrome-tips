@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Chrome Encoding API Text Encoder Decoder"
-description: "Learn about the Chrome Encoding API TextEncoder and TextDecoder tools for handling text in web apps. Simple explanations for everyday users. Read more to optimi"
+title: Chrome Encoding API Text Encoder Decoder
+description: Learn about the Chrome Encoding API TextEncoder and TextDecoder tools
+  for handling text in web apps. Simple explanations for everyday users. Discover
+  essenti...
 date: 2025-03-11
-last_modified_at: 2026-03-12
-permalink: chrome-encoding-api-text-encoder-decoder
-categories: [encoding, web-development]
-tags: [encoding, text-encoder, text-decoder, chrome-api, web-api]
+categories:
+- encoding
+- web-development
+tags:
+- encoding
+- text-encoder
+- text-decoder
+- chrome-api
+- web-api
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-encoding-api-text-encoder-decoder
 ---
-
-
 
 # Chrome Encoding API Text Encoder Decoder
 

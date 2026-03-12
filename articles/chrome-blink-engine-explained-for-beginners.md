@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "chrome blink engine explained for beginners"
-description: "Learn what the Chrome Blink engine is, how it works, and why it matters for your browsing experience and extension performance. Read more to optimize your exper"
+title: chrome blink engine explained for beginners
+description: Learn what the Chrome Blink engine is, how it works, and why it matters
+  for your browsing experience and extension performance. Discover essential insights
+  a...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-blink-engine-explained-for-beginners
-categories: [features, internals]
-tags: [blink, engine, browser, performance, chrome-internals]
+categories:
+- features
+- internals
+tags:
+- blink
+- engine
+- browser
+- performance
+- chrome-internals
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-blink-engine-explained-for-beginners
 ---
-
-
 
 # Chrome Blink Engine Explained for Beginners
 

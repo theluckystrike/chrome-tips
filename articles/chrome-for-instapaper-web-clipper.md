@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome for Instapaper Web Clipper"
-description: "Learn how to use Chrome for Instapaper web clipper to save articles easily and read them later in a clean format. Read more to optimize your experience."
+title: Chrome for Instapaper Web Clipper
+description: Learn how to use Chrome for Instapaper web clipper to save articles easily
+  and read them later in a clean format. Discover essential insights and practical
+  a...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-instapaper-web-clipper
-categories: [saving, tips]
-tags: [chrome, instapaper, web-clipper]
+categories:
+- saving
+- tips
+tags:
+- chrome
+- instapaper
+- web-clipper
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-instapaper-web-clipper
 ---
-
-
 
 # Chrome for Instapaper Web Clipper
 

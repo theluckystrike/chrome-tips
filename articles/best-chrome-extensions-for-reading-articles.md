@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Reading Articles"
-description: "Discover the best Chrome extensions for reading articles that can reduce eye strain and eliminate distractions while you read online. Find out more tips on how "
+title: Best Chrome Extensions for Reading Articles
+description: Discover the best Chrome extensions for reading articles that can reduce
+  eye strain and eliminate distractions while you read online. Discover essential
+  insi...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: best-chrome-extensions-for-reading-articles
-categories: 
-tags: 
+categories:
+- reading
+- tips
+tags:
+- chrome-extensions
+- reading
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: best-chrome-extensions-for-reading-articles
 ---
-
 
 # Best Chrome Extensions for Reading Articles
 

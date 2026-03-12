@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Chrome Extensions for Vertical Tabs Sidebar"
-description: "Searching for chrome extensions for vertical tabs sidebar? Discover tools that move your tabs to a side panel for easier management. Read more to optimize your "
-date: 2026-01-15
-last_modified_at: 2026-03-12
+title: Chrome Extensions for Vertical Tabs Sidebar
+description: Searching for chrome extensions for vertical tabs sidebar? Discover tools
+  that move your tabs to a side panel for easier management. Discover essential insig...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-vertical-tabs-sidebar
 ---
-
-
 
 If you have searched for chrome extensions for vertical tabs sidebar, you probably know how frustrating it can be when your browser runs out of room for all your open pages. The standard horizontal tab strip at the top of Chrome works fine for a few tabs, but it quickly becomes cramped and hard to navigate when you are working with many pages at once. This is a common issue, and the good news is there are practical solutions available.
 

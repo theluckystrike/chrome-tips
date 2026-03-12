@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Sales Prospecting"
-description: "Discover the best Chrome extensions for sales prospecting that can help you find leads, automate outreach, and close more deals. Read more to optimize your expe"
+title: Chrome Extensions for Sales Prospecting
+description: Discover the best Chrome extensions for sales prospecting that can help
+  you find leads, automate outreach, and close more deals. Discover essential insights
+  ...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-extensions-for-sales-prospecting
-categories: [sales, tips]
-tags: [chrome-extensions, sales, prospecting]
+categories:
+- sales
+- tips
+tags:
+- chrome-extensions
+- sales
+- prospecting
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-sales-prospecting
 ---
-
-
 
 # Chrome Extensions for Sales Prospecting
 

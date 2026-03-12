@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Chrome Status Code 500 Server Error Explained"
-description: "Seeing a 500 error in Chrome? Learn what causes server errors, why they happen, and simple steps to fix or work around them. Read more to optimize your experien"
+title: Chrome Status Code 500 Server Error Explained
+description: Seeing a 500 error in Chrome? Learn what causes server errors, why they
+  happen, and simple steps to fix or work around them. This guide on Chrome Status
+  Code...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-status-code-500-server-error-explained
-categories: [troubleshooting, errors]
-tags: [chrome-500-error, server-error, http-500, chrome-fix, browser-problem]
+categories:
+- troubleshooting
+- errors
+tags:
+- chrome-500-error
+- server-error
+- http-500
+- chrome-fix
+- browser-problem
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-status-code-500-server-error-explained
 ---
-
-
 
 # Chrome Status Code 500 Server Error Explained
 

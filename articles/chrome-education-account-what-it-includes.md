@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "chrome education account what it includes"
-description: "Discover what features and tools are included in a Chrome education account for schools and students. Read more to optimize your experience. Discover essential "
+title: chrome education account what it includes
+description: Discover what features and tools are included in a Chrome education account
+  for schools and students. Discover essential insights and practical advice to opt...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-education-account-what-it-includes
-categories: [chrome, education, google-workspace]
-tags: [chrome-education, google-workspace, schools, students]
+categories:
+- chrome
+- education
+- google-workspace
+tags:
+- chrome-education
+- google-workspace
+- schools
+- students
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-education-account-what-it-includes
 ---
-
-
 
 # Chrome Education Account What It Includes
 

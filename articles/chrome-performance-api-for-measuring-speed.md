@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "chrome performance api for measuring speed"
-description: "Learn how to use the Chrome Performance API to measure your browser's speed and optimize web performance for a smoother experience. Read more to optimize your e"
+title: chrome performance api for measuring speed
+description: Learn how to use the Chrome Performance API to measure your browser's
+  speed and optimize web performance for a smoother experience. Discover essential
+  insigh...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-performance-api-for-measuring-speed
-categories: [performance, browser, development]
-tags: [chrome-performance-api, speed, browser-performance, web-development]
+categories:
+- performance
+- browser
+- development
+tags:
+- chrome-performance-api
+- speed
+- browser-performance
+- web-development
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-performance-api-for-measuring-speed
 ---
-
-
 
 # Chrome Performance API for Measuring Speed
 

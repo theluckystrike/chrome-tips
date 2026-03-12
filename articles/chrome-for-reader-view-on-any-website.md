@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome for Reader View on Any Website"
-description: "Learn how to get reader view in Chrome on any website. Simple extension solutions for distraction-free reading. Read more to optimize your experience."
+title: Chrome for Reader View on Any Website
+description: Learn how to get reader view in Chrome on any website. Simple extension
+  solutions for distraction-free reading. Discover essential insights and practical
+  adv...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: chrome-for-reader-view-on-any-website
-categories: [browsing, productivity]
-tags: [chrome, reader-view, reading-mode, browsing-tips]
+categories:
+- browsing
+- productivity
+tags:
+- chrome
+- reader-view
+- reading-mode
+- browsing-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-reader-view-on-any-website
 ---
-
-
 
 # Chrome for Reader View on Any Website
 

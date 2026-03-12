@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "Chrome Reading Mode How to Activate"
-description: "Learn how to activate Chrome Reading Mode for distraction-free browsing. Simple steps to enable this built-in feature and improve your reading experience."
+title: Chrome Reading Mode How to Activate
+description: Learn how to activate Chrome Reading Mode for distraction-free browsing.
+  Simple steps to enable this built-in feature and improve your reading experience.
 date: 2025-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-reading-mode-how-to-activate
-categories: [features, productivity]
-tags: [reading-mode, chrome-features, browser-tips]
+categories:
+- features
+- productivity
+tags:
+- reading-mode
+- chrome-features
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-reading-mode-how-to-activate
 ---
-
-
 
 # Chrome Reading Mode How to Activate
 

@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Screen Share in Google Meet Tips"
-description: "Having trouble sharing your screen in Google Meet on Chrome? Learn why it happens and simple fixes to get screen sharing working again. Read more to optimize yo"
+title: Chrome Screen Share in Google Meet Tips
+description: Having trouble sharing your screen in Google Meet on Chrome? Learn why
+  it happens and simple fixes to get screen sharing working again. This guide on Chrome
+  ...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: chrome-screen-share-in-google-meet-tips
-categories: [troubleshooting, video-calls]
-tags: [chrome-screen-share, google-meet, screen-sharing, video-calls]
+categories:
+- troubleshooting
+- video-calls
+tags:
+- chrome-screen-share
+- google-meet
+- screen-sharing
+- video-calls
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-screen-share-in-google-meet-tips
 ---
-
-
 
 # Chrome Screen Share in Google Meet Tips
 

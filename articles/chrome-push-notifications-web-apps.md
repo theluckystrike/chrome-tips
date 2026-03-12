@@ -1,16 +1,25 @@
 ---
 layout: post
-title: "Chrome Push Notifications Web Apps: Complete Guide"
-description: "Learn how chrome push notifications web apps work, how to enable them, and best practices for managing notifications in your browser. Read more to optimize your"
+title: 'Chrome Push Notifications Web Apps: Complete Guide'
+description: Learn how chrome push notifications web apps work, how to enable them,
+  and best practices for managing notifications in your browser. Discover essential
+  insi...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-push-notifications-web-apps
-categories: [chrome, notifications, web-apps, pwa]
-tags: [chrome, push-notifications, web-apps, pwa, progressive-web-app]
+categories:
+- chrome
+- notifications
+- web-apps
+- pwa
+tags:
+- chrome
+- push-notifications
+- web-apps
+- pwa
+- progressive-web-app
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-push-notifications-web-apps
 ---
-
-
 
 # Chrome Push Notifications Web Apps: Complete Guide
 

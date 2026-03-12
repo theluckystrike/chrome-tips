@@ -1,15 +1,13 @@
 ---
-layout: article
-title: "Chrome Web Speech API Voice Commands: A Complete Guide"
-description: " Read more to optimize your experience. Discover essential tips for 2026. Read more to optimize your experience. Discover essential tips for 2026. Read more to "
+title: 'Chrome Web Speech API Voice Commands: A Complete Guide'
 date: 2025-01-15
-last_modified_at: 2026-03-12
+layout: article
+description: 'Learn all about Chrome Web Speech API Voice Commands: A Complete Guide
+  in this comprehensive guide. We cover the latest Chrome features, settings, and
+  tips t...'
+last_modified_at: '2026-03-11'
 permalink: chrome-web-speech-api-voice-commands
 ---
-
-
-
-
 
 # Chrome Web Speech API Voice Commands: A Complete Guide
 

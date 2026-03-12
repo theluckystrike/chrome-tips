@@ -1,16 +1,24 @@
 ---
 layout: post
-title: "Chrome Gemini Integration How to Use"
-description: "Learn how to set up and use Gemini AI in Chrome for smarter browsing and enhanced productivity. Read more to optimize your experience. Discover essential tips f"
+title: Chrome Gemini Integration How to Use
+description: Learn how to set up and use Gemini AI in Chrome for smarter browsing
+  and enhanced productivity. Discover essential insights and practical advice to optimize
+  ...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-gemini-integration-how-to-use
-categories: [productivity, ai, chrome]
-tags: [chrome, gemini, ai, integration, productivity]
+categories:
+- productivity
+- ai
+- chrome
+tags:
+- chrome
+- gemini
+- ai
+- integration
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-gemini-integration-how-to-use
 ---
-
-
 
 # Chrome Gemini Integration How to Use
 

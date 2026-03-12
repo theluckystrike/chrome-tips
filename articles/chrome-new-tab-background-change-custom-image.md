@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "How to Change Your Chrome New Tab Background to a Custom Image"
-description: "Learn how to personalize your Chrome new tab page with a custom background image. Make your browsing experience more enjoyable and visually appealing."
+title: How to Change Your Chrome New Tab Background to a Custom Image
+description: Learn how to personalize your Chrome new tab page with a custom background
+  image. Make your browsing experience more enjoyable and visually appealing.
 date: 2026-03-11
-last_modified_at: 2026-03-12
-permalink: chrome-new-tab-background-change-custom-image
-categories: [customization, productivity]
-tags: [chrome, new-tab, background, custom-image, personalization]
+categories:
+- customization
+- productivity
+tags:
+- chrome
+- new-tab
+- background
+- custom-image
+- personalization
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-new-tab-background-change-custom-image
 ---
-
-
 
 # How to Change Your Chrome New Tab Background to a Custom Image
 

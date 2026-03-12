@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Tab Discarding What It Means"
-description: "What does chrome tab discarding mean? Learn why Chrome automatically suspends tabs, how it affects your browsing, and easy fixes. Read more to optimize your exp"
+title: Chrome Tab Discarding What It Means
+description: What does chrome tab discarding mean? Learn why Chrome automatically
+  suspends tabs, how it affects your browsing, and easy fixes. This guide on Chrome
+  Tab Di...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-tab-discarding-what-it-means
-categories: [troubleshooting, performance]
-tags: [chrome-tab-discarding, browser-memory, chrome-performance, tab-management]
+categories:
+- troubleshooting
+- performance
+tags:
+- chrome-tab-discarding
+- browser-memory
+- chrome-performance
+- tab-management
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-tab-discarding-what-it-means
 ---
-
-
 
 # Chrome Tab Discarding What It Means
 

@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome for MasterClass Web Tips"
-description: "Improve your MasterClass experience in Chrome. Memory-saving tips, tab management, and productivity tricks for online learning. Read more to optimize your exper"
+title: Chrome for MasterClass Web Tips
+description: Improve your MasterClass experience in Chrome. Memory-saving tips, tab
+  management, and productivity tricks for online learning. Discover essential insights
+  a...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-masterclass-web-tips
-categories: [productivity, browsers]
-tags: [chrome, masterclass, browser-tips, online-learning]
+categories:
+- productivity
+- browsers
+tags:
+- chrome
+- masterclass
+- browser-tips
+- online-learning
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-masterclass-web-tips
 ---
-
-
 
 # Chrome for MasterClass Web Tips
 

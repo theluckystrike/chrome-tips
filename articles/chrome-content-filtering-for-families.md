@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Content Filtering for Families"
-description: "Learn how to set up content filtering in Chrome to protect your family from harmful websites and age-inappropriate content. Read more to optimize your experienc"
+title: Chrome Content Filtering for Families
+description: Learn how to set up content filtering in Chrome to protect your family
+  from harmful websites and age-inappropriate content. Discover essential insights
+  and p...
 date: 2025-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-content-filtering-for-families
-categories: [family, safety]
-tags: [content-filtering, parental-controls, family-safety, chrome-for-families]
+categories:
+- family
+- safety
+tags:
+- content-filtering
+- parental-controls
+- family-safety
+- chrome-for-families
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-content-filtering-for-families
 ---
-
-
 
 # Chrome Content Filtering for Families
 

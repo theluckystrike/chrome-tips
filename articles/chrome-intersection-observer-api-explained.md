@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Chrome Intersection Observer API Explained"
-description: "Learn what the Chrome Intersection Observer API is, how it works, and why it makes websites faster and more responsive. Read more to optimize your experience."
-date: 2026-01-15
-last_modified_at: 2026-03-12
+title: Chrome Intersection Observer API Explained
+description: Learn what the Chrome Intersection Observer API is, how it works, and
+  why it makes websites faster and more responsive. This guide on Chrome Intersection
+  Obs...
+date: '2026-03-12'
+last_modified_at: '2026-03-12'
 permalink: chrome-intersection-observer-api-explained
 ---
-
-
 
 Chrome intersection observer API explained is a topic that comes up when users notice improvements in how websites load and scroll on their devices. If you have ever scrolled through a long webpage and noticed that content loads smoothly as you go, or if you have seen images appear just as they come into view, you have experienced the Intersection Observer API in action without even knowing it.
 

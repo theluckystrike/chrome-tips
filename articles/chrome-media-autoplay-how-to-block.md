@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Media Autoplay How to Block"
-description: "Tired of videos playing automatically in Chrome? Learn simple ways to block media autoplay and take control of your browsing experience. Read more to optimize y"
+title: Chrome Media Autoplay How to Block
+description: Tired of videos playing automatically in Chrome? Learn simple ways to
+  block media autoplay and take control of your browsing experience. This guide on
+  Chrome...
 date: 2025-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-media-autoplay-how-to-block
-categories: [tips, privacy]
-tags: [media, autoplay, chrome-tips, browser-settings]
+categories:
+- tips
+- privacy
+tags:
+- media
+- autoplay
+- chrome-tips
+- browser-settings
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-media-autoplay-how-to-block
 ---
-
-
 
 # Chrome Media Autoplay How to Block
 

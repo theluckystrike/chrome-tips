@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "chrome image search by url how to"
-description: "Learn how to search for images using a URL in Chrome. Find similar images online with simple steps for reverse image searching. Read more to optimize your exper"
+title: chrome image search by url how to
+description: Learn how to search for images using a URL in Chrome. Find similar images
+  online with simple steps for reverse image searching. This guide on chrome image
+  se...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-image-search-by-url-how-to
-categories: [features, how-to]
-tags: [image-search, reverse-search, google-lens, chrome-features]
+categories:
+- features
+- how-to
+tags:
+- image-search
+- reverse-search
+- google-lens
+- chrome-features
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-image-search-by-url-how-to
 ---
-
-
 
 # Chrome Image Search by URL How to
 

@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome Custom Search Engines How to Add"
-description: "Learn how to add and manage custom search engines in Chrome. Step-by-step guide to create shortcuts for faster browsing. Read more to optimize your experience."
+title: Chrome Custom Search Engines How to Add
+description: Learn how to add and manage custom search engines in Chrome. Step-by-step
+  guide to create shortcuts for faster browsing. Discover essential insights and prac...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-custom-search-engines-how-to-add
-categories: [features, customization]
-tags: [search, chrome-settings, shortcuts, productivity]
+categories:
+- features
+- customization
+tags:
+- search
+- chrome-settings
+- shortcuts
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-custom-search-engines-how-to-add
 ---
-
-
 
 # Chrome Custom Search Engines How to Add
 

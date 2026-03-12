@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome AI Tab Organizer Feature: A Complete Guide"
-description: "Discover how Chrome AI tab organizer feature can automatically group and manage your browser tabs using artificial intelligence. Read more to optimize your expe"
+title: 'Chrome AI Tab Organizer Feature: A Complete Guide'
+description: Discover how Chrome AI tab organizer feature can automatically group
+  and manage your browser tabs using artificial intelligence. Discover essential insights
+  ...
 date: 2026-01-20
-last_modified_at: 2026-03-12
-permalink: chrome-ai-tab-organizer-feature
-categories: [features, productivity]
-tags: [chrome-ai, tab-organizer-feature, tab-management, browser-tips]
+categories:
+- features
+- productivity
+tags:
+- chrome-ai
+- tab-organizer-feature
+- tab-management
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-ai-tab-organizer-feature
 ---
-
-
 
 # Chrome AI Tab Organizer Feature: A Complete Guide
 

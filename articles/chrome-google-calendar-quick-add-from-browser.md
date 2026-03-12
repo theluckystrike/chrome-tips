@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Chrome Google Calendar Quick Add from Browser"
-description: "Learn how to quickly add events to Google Calendar directly from Chrome without switching tabs. Simple methods to save time. Read more to optimize your experien"
+title: Chrome Google Calendar Quick Add from Browser
+description: Learn how to quickly add events to Google Calendar directly from Chrome
+  without switching tabs. Simple methods to save time. Discover essential insights
+  and ...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-google-calendar-quick-add-from-browser
-categories: [productivity, calendar, tips]
-tags: [chrome, google-calendar, quick-add, browser-tips]
+categories:
+- productivity
+- calendar
+- tips
+tags:
+- chrome
+- google-calendar
+- quick-add
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-google-calendar-quick-add-from-browser
 ---
-
-
 
 # Chrome Google Calendar Quick Add from Browser
 

@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "chrome android tips to save data"
-description: "Learn chrome android tips to save data and reduce mobile data usage. Practical settings and extensions to cut down your data consumption. Read more to optimize "
+title: chrome android tips to save data
+description: Learn chrome android tips to save data and reduce mobile data usage.
+  Practical settings and extensions to cut down your data consumption. Discover essential
+  ...
 date: 2025-03-16
-last_modified_at: 2026-03-12
-permalink: chrome-android-tips-to-save-data
-categories: [mobile, tips, data-saving]
-tags: [chrome-android, data-saving, mobile-tips, android-browser]
+categories:
+- mobile
+- tips
+- data-saving
+tags:
+- chrome-android
+- data-saving
+- mobile-tips
+- android-browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-android-tips-to-save-data
 ---
-
-
 
 # Chrome Android Tips to Save Data
 

@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome for Microsoft Office Online Tips"
-description: "Get the most out of Microsoft Office online in Chrome with these simple tips. Speed up Word, Excel, and PowerPoint in your browser. Read more to optimize your e"
+title: Chrome for Microsoft Office Online Tips
+description: Get the most out of Microsoft Office online in Chrome with these simple
+  tips. Speed up Word, Excel, and PowerPoint in your browser. Discover essential insigh...
 date: 2025-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-microsoft-office-online-tips
-categories: [productivity, browser-tips]
-tags: [chrome, microsoft-office, office-online, browser-optimization]
+categories:
+- productivity
+- browser-tips
+tags:
+- chrome
+- microsoft-office
+- office-online
+- browser-optimization
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-microsoft-office-online-tips
 ---
-
-
 
 # Chrome for Microsoft Office Online Tips
 

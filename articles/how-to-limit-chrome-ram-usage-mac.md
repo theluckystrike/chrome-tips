@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers"
-description: "Is Chrome eating all your Mac's memory? Learn practical ways to reduce Chrome's RAM usage on Mac, from built-in settings to helpful extensions. Read more to opt"
+title: 'How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers'
+description: Is Chrome eating all your Mac's memory? Learn practical ways to reduce
+  Chrome's RAM usage on Mac, from built-in settings to helpful extensions. Discover
+  esse...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: how-to-limit-chrome-ram-usage-mac
-categories: [performance, chrome, mac]
-tags: [chrome-ram, mac-performance, chrome-optimization, memory-management]
+categories:
+- performance
+- chrome
+- mac
+tags:
+- chrome-ram
+- mac-performance
+- chrome-optimization
+- memory-management
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: how-to-limit-chrome-ram-usage-mac
 ---
-
-
 
 # How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers
 

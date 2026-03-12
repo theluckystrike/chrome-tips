@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "Chrome Task Manager Shortcut Explained"
-description: "Learn the keyboard shortcut to open Chrome Task Manager and quickly identify which tabs are slowing down your browser. Read more to optimize your experience."
+title: Chrome Task Manager Shortcut Explained
+description: Learn the keyboard shortcut to open Chrome Task Manager and quickly identify
+  which tabs are slowing down your browser. This guide on Chrome Task Manager Shor...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-task-manager-shortcut-explained
-categories: [performance, troubleshooting]
-tags: [chrome-task-manager, browser-tools, chrome-tips]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-task-manager
+- browser-tools
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-task-manager-shortcut-explained
 ---
-
-
 
 # Chrome Task Manager Shortcut Explained
 

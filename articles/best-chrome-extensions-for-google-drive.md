@@ -1,15 +1,23 @@
 ---
 layout: post
-title: "best chrome extensions for google drive"
-description: "Explore the best chrome extensions for Google Drive to boost productivity, streamline file management, and enhance your cloud workflow. Find out more tips on ho"
+title: best chrome extensions for google drive
+description: Explore the best chrome extensions for Google Drive to boost productivity,
+  streamline file management, and enhance your cloud workflow. Discover essential
+  in...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: best-chrome-extensions-for-google-drive
-categories: 
-tags: 
+categories:
+- extensions
+- productivity
+- google
+tags:
+- chrome-extensions
+- google-drive
+- productivity
+- file-management
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: best-chrome-extensions-for-google-drive
 ---
-
 
 # Best Chrome Extensions for Google Drive
 

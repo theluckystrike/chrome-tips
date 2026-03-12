@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Chrome Keeps Opening New Tabs By Itself Virus"
-description: "Is Chrome keeps opening new tabs by itself virus related? Learn why this happens and how to fix it with simple steps. Read more to optimize your experience."
-date: 2026-01-15
-last_modified_at: 2026-03-12
+title: Chrome Keeps Opening New Tabs By Itself Virus
+description: Is Chrome keeps opening new tabs by itself virus related? Learn why this
+  happens and how to fix it with simple steps. This guide on Chrome Keeps Opening
+  New ...
+date: '2026-03-12'
+last_modified_at: '2026-03-12'
 permalink: chrome-keeps-opening-new-tabs-by-itself-virus
 ---
-
-
 
 If you are searching for "chrome keeps opening new tabs by itself virus," you are probably frustrated with your browser behaving strangely. You open one tab, and suddenly several more pop up on their own. Maybe you see unfamiliar pages, strange ads, or your browser feels sluggish. This is a common problem, and the good news is it is usually fixable.
 

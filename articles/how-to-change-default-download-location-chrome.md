@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "How to Change Default Download Location Chrome"
-description: "Learn how to change where Chrome saves your downloaded files to a custom folder. Read more to optimize your experience. Discover essential tips for 2026."
-date: 2026-01-15
-last_modified_at: 2026-03-12
+title: How to Change Default Download Location Chrome
+description: Learn how to change where Chrome saves your downloaded files to a custom
+  folder. This guide on How to Change Default Download Location Chrome provides the
+  es...
+last_modified_at: '2026-03-12'
 permalink: how-to-change-default-download-location-chrome
+date: '2026-03-12'
 ---
-
-
 
 How do you change the default download location in Chrome? If you have ever downloaded a file and could not find it later, or if you simply want your downloads to go to a specific folder instead of the Downloads folder, you are in the right place. Changing where Chrome saves your files is easier than you might think, and it can really help you stay organized.
 

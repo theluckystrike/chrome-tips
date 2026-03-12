@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Chrome Tracing for Performance Issues"
-description: "Learn how to use Chrome tracing to diagnose and fix browser performance problems. A simple guide for regular users. Read more to optimize your experience."
-date: 2026-01-15
-last_modified_at: 2026-03-12
+title: Chrome Tracing for Performance Issues
+description: Learn how to use Chrome tracing to diagnose and fix browser performance
+  problems. A simple guide for regular users. This guide on Chrome Tracing for Performa...
+last_modified_at: '2026-03-12'
 permalink: chrome-tracing-for-performance-issues
+date: '2026-03-12'
 ---
-
-
 
 If your Chrome browser has ever felt sluggish, frozen, or unresponsive, you might have searched for chrome tracing for performance issues. This is a useful technique that helps you understand what Chrome is doing behind the scenes and why it might be running slowly. While Chrome tracing sounds technical, even regular users can use it to identify what is causing their browser to slow down.
 

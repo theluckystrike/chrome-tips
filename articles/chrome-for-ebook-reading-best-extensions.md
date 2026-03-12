@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome for Ebook Reading Best Extensions"
-description: "Discover the best Chrome extensions for ebook reading that can make your reading experience smoother and more enjoyable. Read more to optimize your experience."
+title: Chrome for Ebook Reading Best Extensions
+description: Discover the best Chrome extensions for ebook reading that can make your
+  reading experience smoother and more enjoyable. Discover essential insights and
+  prac...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: chrome-for-ebook-reading-best-extensions
-categories: [reading, tips]
-tags: [chrome-extensions, ebooks, reading, browser-tools]
+categories:
+- reading
+- tips
+tags:
+- chrome-extensions
+- ebooks
+- reading
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-ebook-reading-best-extensions
 ---
-
-
 
 # Chrome for Ebook Reading Best Extensions
 

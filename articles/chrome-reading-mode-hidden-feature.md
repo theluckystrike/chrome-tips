@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Chrome Reading Mode Hidden Feature"
-description: "Discover Chrome's hidden reading mode feature that simplifies web pages for distraction-free reading. Read more to optimize your experience. Discover essential "
+title: Chrome Reading Mode Hidden Feature
+description: Discover Chrome's hidden reading mode feature that simplifies web pages
+  for distraction-free reading. Discover essential insights and practical advice to
+  opt...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-reading-mode-hidden-feature
-categories: [productivity, chrome, tips]
-tags: [chrome-reading-mode, productivity, browser-tips, hidden-features]
+categories:
+- productivity
+- chrome
+- tips
+tags:
+- chrome-reading-mode
+- productivity
+- browser-tips
+- hidden-features
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-reading-mode-hidden-feature
 ---
-
-
 
 # Chrome Reading Mode Hidden Feature
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Chrome Notifications How to Stop Them"
-description: "Annoyed by Chrome notifications? Learn why they appear and how to disable them in a few simple steps. Read more to optimize your experience. Discover essential "
-date: 2026-01-15
-last_modified_at: 2026-03-12
+title: Chrome Notifications How to Stop Them
+description: Annoyed by Chrome notifications? Learn why they appear and how to disable
+  them in a few simple steps. This guide on Chrome Notifications How to Stop Them
+  pro...
+date: '2026-03-12'
+last_modified_at: '2026-03-12'
 permalink: chrome-notifications-how-to-stop-them
 ---
-
-
 
 Chrome notifications how to stop them is something many people find themselves searching for after yet another popup interrupts their browsing. Those persistent alerts from websites asking for permission to send notifications can quickly go from helpful to frustrating. The good news is that you have full control over whether websites can send you these alerts, and turning them off is simpler than you might think.
 

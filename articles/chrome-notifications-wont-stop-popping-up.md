@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Notifications Won't Stop Popping Up? Here's How to Fix It"
-description: "Fed up with endless Chrome notifications? Learn practical solutions to stop annoying pop-ups and regain control of your browsing experience. Read more to optimi"
+title: Chrome Notifications Won't Stop Popping Up? Here's How to Fix It
+description: Fed up with endless Chrome notifications? Learn practical solutions to
+  stop annoying pop-ups and regain control of your browsing experience. Discover essenti...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-notifications-wont-stop-popping-up
-categories: [browsers, chrome, troubleshooting]
-tags: [chrome, notifications, browser-settings, pop-ups]
+categories:
+- browsers
+- chrome
+- troubleshooting
+tags:
+- chrome
+- notifications
+- browser-settings
+- pop-ups
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-notifications-wont-stop-popping-up
 ---
-
-
 
 # Chrome Notifications Won't Stop Popping Up? Here's How to Fix It
 

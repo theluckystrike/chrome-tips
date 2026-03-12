@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Family Link How to Use on Desktop"
-description: "Learn how to use Chrome Family Link on desktop to manage your childs browsing, set screen time limits, and monitor activity. Read more to optimize your experien"
+title: Chrome Family Link How to Use on Desktop
+description: Learn how to use Chrome Family Link on desktop to manage your childs
+  browsing, set screen time limits, and monitor activity. This guide on Chrome Family
+  Link...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-family-link-how-to-use-on-desktop
-categories: [family, safety]
-tags: [family-link, parental-controls, chrome-profiles, screen-time]
+categories:
+- family
+- safety
+tags:
+- family-link
+- parental-controls
+- chrome-profiles
+- screen-time
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-family-link-how-to-use-on-desktop
 ---
-
-
 
 # Chrome Family Link How to Use on Desktop
 

@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "How to Enable Chrome Parallel Downloading"
-description: "Learn how to enable Chrome parallel downloading to download multiple files at once and save time. Read more to optimize your experience. Discover essential tips"
+title: How to Enable Chrome Parallel Downloading
+description: Learn how to enable Chrome parallel downloading to download multiple
+  files at once and save time. This guide on How to Enable Chrome Parallel Downloading
+  pro...
 date: 2026-03-10
-last_modified_at: 2026-03-12
-permalink: how-to-enable-chrome-parallel-downloading
-categories: [features, performance]
-tags: [downloading, chrome-flags, speed, performance]
+categories:
+- features
+- performance
+tags:
+- downloading
+- chrome-flags
+- speed
+- performance
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: how-to-enable-chrome-parallel-downloading
 ---
-
-
 
 # How to Enable Chrome Parallel Downloading
 

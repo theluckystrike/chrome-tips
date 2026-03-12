@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "How to Limit Chrome Memory Usage on Windows"
-description: "Learn practical ways to reduce Chrome memory usage on Windows and keep your browser running smoothly without upgrading your PC. Read more to optimize your exper"
+title: How to Limit Chrome Memory Usage on Windows
+description: Learn practical ways to reduce Chrome memory usage on Windows and keep
+  your browser running smoothly without upgrading your PC. This guide on How to Limit
+  Ch...
 date: 2025-02-19
-last_modified_at: 2026-03-12
-permalink: how-to-limit-chrome-memory-usage-windows
-categories: [performance, memory, windows]
-tags: [chrome-memory, windows-memory, browser-performance, ram-usage]
+categories:
+- performance
+- memory
+- windows
+tags:
+- chrome-memory
+- windows-memory
+- browser-performance
+- ram-usage
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: how-to-limit-chrome-memory-usage-windows
 ---
-
-
 
 # How to Limit Chrome Memory Usage on Windows
 

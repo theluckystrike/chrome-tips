@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "chrome offline google docs how to enable"
-description: "Learn how to enable offline Google Docs in Chrome to work on documents without internet. Simple steps inside. Read more to optimize your experience. Discover es"
+title: chrome offline google docs how to enable
+description: Learn how to enable offline Google Docs in Chrome to work on documents
+  without internet. Simple steps inside. This guide on chrome offline google docs
+  how to...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-offline-google-docs-how-to-enable
-categories: [browser, google, offline]
-tags: [chrome, google-docs, offline-mode, productivity]
+categories:
+- browser
+- google
+- offline
+tags:
+- chrome
+- google-docs
+- offline-mode
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-offline-google-docs-how-to-enable
 ---
-
-
 
 # Chrome Offline Google Docs How to Enable
 

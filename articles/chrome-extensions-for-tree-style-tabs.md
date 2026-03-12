@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Chrome Extensions for Tree Style Tabs"
-description: "Tree style tabs organize your browser into a hierarchical sidebar. Learn how to set them up and which extensions help. Read more to optimize your experience."
-date: 2026-01-15
-last_modified_at: 2026-03-12
+title: Chrome Extensions for Tree Style Tabs
+description: Tree style tabs organize your browser into a hierarchical sidebar. Learn
+  how to set them up and which extensions help. Discover essential insights and practi...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-tree-style-tabs
 ---
-
-
 
 If you have ever felt overwhelmed by too many open tabs in Chrome, you are not alone. Many people struggle with tab clutter, losing track of which tabs belong to which project, and wasting time searching through a long list of horizontal tabs at the top of the browser. Chrome extensions for tree style tabs offer a different way to manage your browsing. Instead of a horizontal row of tabs, tree style tabs display your tabs in a vertical sidebar, organized in a hierarchical tree structure. This makes it easier to see which tabs are related to each other, collapse or expand groups, and navigate through your open pages without feeling cramped.
 

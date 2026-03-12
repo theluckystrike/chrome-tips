@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "chrome google tasks integration tips"
-description: "Learn how to integrate Google Tasks with Chrome effectively. These tips help you manage tasks better and avoid common problems. Read more to optimize your exper"
+title: chrome google tasks integration tips
+description: Learn how to integrate Google Tasks with Chrome effectively. These tips
+  help you manage tasks better and avoid common problems. This guide on chrome google
+  t...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-google-tasks-integration-tips
-categories: [productivity, integration]
-tags: [google-tasks, task-management, chrome-tips, productivity]
+categories:
+- productivity
+- integration
+tags:
+- google-tasks
+- task-management
+- chrome-tips
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-google-tasks-integration-tips
 ---
-
-
 
 # Chrome Google Tasks Integration Tips
 

@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "chrome for shopify store management tips"
-description: "Practical Chrome tips for Shopify store owners to boost productivity, manage orders, and streamline daily operations efficiently. Read more to optimize your exp"
+title: chrome for shopify store management tips
+description: Practical Chrome tips for Shopify store owners to boost productivity,
+  manage orders, and streamline daily operations efficiently. Discover essential insights...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-shopify-store-management-tips
-categories: [productivity, shopify, ecommerce]
-tags: [shopify, chrome-tips, store-management, ecommerce-tools]
+categories:
+- productivity
+- shopify
+- ecommerce
+tags:
+- shopify
+- chrome-tips
+- store-management
+- ecommerce-tools
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-shopify-store-management-tips
 ---
-
-
 
 # Chrome for Shopify Store Management Tips
 

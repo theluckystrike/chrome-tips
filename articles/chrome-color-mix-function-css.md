@@ -1,16 +1,24 @@
 ---
 layout: post
-title: "chrome color mix function css"
-description: "Learn how to use the CSS color-mix function in Chrome to blend colors directly in your stylesheets. Simple guide for beginners. Read more to optimize your exper"
+title: chrome color mix function css
+description: Learn how to use the CSS color-mix function in Chrome to blend colors
+  directly in your stylesheets. Simple guide for beginners. Discover essential insights
+  a...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-color-mix-function-css
-categories: [web-development, css, design]
-tags: [css, color-mix, chrome, web-design, styling]
+categories:
+- web-development
+- css
+- design
+tags:
+- css
+- color-mix
+- chrome
+- web-design
+- styling
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-color-mix-function-css
 ---
-
-
 
 # How to Use the Chrome Color Mix Function in CSS
 

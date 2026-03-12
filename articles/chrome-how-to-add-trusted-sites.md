@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "chrome how to add trusted sites"
-description: "Learn how to add trusted sites in Chrome to control which websites can access your location, downloads, and more. Read more to optimize your experience."
+title: chrome how to add trusted sites
+description: Learn how to add trusted sites in Chrome to control which websites can
+  access your location, downloads, and more. This guide on chrome how to add trusted
+  sit...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-how-to-add-trusted-sites
-categories: [browser, privacy]
-tags: [chrome, trusted-sites, browser-settings, privacy]
+categories:
+- browser
+- privacy
+tags:
+- chrome
+- trusted-sites
+- browser-settings
+- privacy
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-how-to-add-trusted-sites
 ---
-
-
 
 # Chrome How to Add Trusted Sites
 

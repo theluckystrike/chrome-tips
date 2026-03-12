@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome Sleeping Tabs Explained: What They Are and How to Use Them"
-description: "Learn what sleeping tabs in Chrome are, why they matter, and how to manage them for better browser performance and lower resource usage. Read more to optimize y"
+title: 'Chrome Sleeping Tabs Explained: What They Are and How to Use Them'
+description: Learn what sleeping tabs in Chrome are, why they matter, and how to manage
+  them for better browser performance and lower resource usage. This guide on Chrome...
 date: 2026-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-sleeping-tabs-explained
-categories: [performance, tips]
-tags: [chrome-sleeping-tabs, chrome-tabs, browser-performance, tab-management]
+categories:
+- performance
+- tips
+tags:
+- chrome-sleeping-tabs
+- chrome-tabs
+- browser-performance
+- tab-management
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-sleeping-tabs-explained
 ---
-
-
 
 # Chrome Sleeping Tabs Explained: What They Are and How to Use Them
 

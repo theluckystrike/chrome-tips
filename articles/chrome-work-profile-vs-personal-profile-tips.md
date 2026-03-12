@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "chrome work profile vs personal profile tips"
-description: "Learn how to set up and use Chrome work profile vs personal profile with practical tips to keep your browsing organized and productive. Read more to optimize yo"
+title: chrome work profile vs personal profile tips
+description: Learn how to set up and use Chrome work profile vs personal profile with
+  practical tips to keep your browsing organized and productive. This guide on chrome
+  ...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-work-profile-vs-personal-profile-tips
-categories: [productivity, profiles]
-tags: [chrome-profiles, work-profile, personal-profile, chrome-tips]
+categories:
+- productivity
+- profiles
+tags:
+- chrome-profiles
+- work-profile
+- personal-profile
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-work-profile-vs-personal-profile-tips
 ---
-
-
 
 # Chrome Work Profile vs Personal Profile Tips
 

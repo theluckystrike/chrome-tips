@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Cookie Settings for Best Privacy"
-description: "Learn how to configure Chrome cookie settings for maximum privacy. This comprehensive guide shows you the best privacy settings for cookies in Google Chrome."
+title: Chrome Cookie Settings for Best Privacy
+description: Learn how to configure Chrome cookie settings for maximum privacy. This
+  comprehensive guide shows you the best privacy settings for cookies in Google Chrome.
 date: 2025-03-09
-last_modified_at: 2026-03-12
-permalink: chrome-cookie-settings-best-privacy
-categories: [privacy, tips]
-tags: [chrome-cookies, privacy-settings, cookie-settings, best-privacy, chrome-settings]
+categories:
+- privacy
+- tips
+tags:
+- chrome-cookies
+- privacy-settings
+- cookie-settings
+- best-privacy
+- chrome-settings
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-cookie-settings-best-privacy
 ---
-
-
 
 # Chrome Cookie Settings for Best Privacy
 

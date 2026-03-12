@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome Closed Captions on Any Video"
-description: "Learn how to enable closed captions on any video in Chrome. Simple methods Read more to optimize your experience. Discover essential tips for 2026. Read more to"
+title: Chrome Closed Captions on Any Video
+description: Learn how to enable closed captions on any video in Chrome. Simple methods
+  to add subtitles to videos that do not have them built in. Discover essential insi...
 date: 2025-03-12
-last_modified_at: 2026-03-12
-permalink: chrome-closed-captions-on-any-video
-categories: 
-tags: 
+categories:
+- features
+- accessibility
+tags:
+- closed-captions
+- subtitles
+- accessibility
+- video
+- chrome-features
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-closed-captions-on-any-video
 ---
-
-
 
 # Chrome Closed Captions on Any Video
 

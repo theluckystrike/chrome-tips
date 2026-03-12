@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "Chrome for Job Searching Best Extensions"
-description: "Discover the best Chrome extensions for job searching. Streamline your job hunt with these helpful tools. Read more to optimize your experience. Discover essent"
+title: Chrome for Job Searching Best Extensions
+description: Discover the best Chrome extensions for job searching. Streamline your
+  job hunt with these helpful tools. Discover essential insights and practical advice
+  to...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-for-job-searching-best-extensions
-categories: [productivity, extensions]
-tags: [chrome-extensions, job-searching, productivity, career]
+categories:
+- productivity
+- extensions
+tags:
+- chrome-extensions
+- job-searching
+- productivity
+- career
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-job-searching-best-extensions
 ---
-
-
 
 # Chrome for Job Searching Best Extensions
 

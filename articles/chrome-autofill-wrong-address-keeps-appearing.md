@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "How to Fix Chrome Autofill Wrong Address Keeps Appearing"
-description: "Chrome keeps filling the wrong address in forms? Learn practical solutions to delete, edit, and manage your Chrome autofill addresses for good. Read more to opt"
+title: How to Fix Chrome Autofill Wrong Address Keeps Appearing
+description: Chrome keeps filling the wrong address in forms? Learn practical solutions
+  to delete, edit, and manage your Chrome autofill addresses for good. Discover esse...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-autofill-wrong-address-keeps-appearing
-categories: [chrome, autofill, address, troubleshooting]
-tags: [chrome-autofill, address-book, form-filling, browser-tips]
+categories:
+- chrome
+- autofill
+- address
+- troubleshooting
+tags:
+- chrome-autofill
+- address-book
+- form-filling
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-autofill-wrong-address-keeps-appearing
 ---
-
-
 
 # How to Fix Chrome Autofill Wrong Address Keeps Appearing
 

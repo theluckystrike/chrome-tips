@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Chrome Developer Tools Making Page Slow: What You Need to Know"
-description: "Is Chrome Developer Tools making your page slow? Learn how DevTools affects performance and what you can do to speed things up on low-RAM computers. Read more t"
+title: 'Chrome Developer Tools Making Page Slow: What You Need to Know'
+description: Is Chrome Developer Tools making your page slow? Learn how DevTools affects
+  performance and what you can do to speed things up on low-RAM computers. Discover...
 date: 2026-01-15
-last_modified_at: 2026-03-12
-permalink: chrome-developer-tools-making-page-slow
-categories: [browser-tips, troubleshooting]
-tags: [developer-tools, performance, memory, troubleshooting]
+categories:
+- browser-tips
+- troubleshooting
+tags:
+- developer-tools
+- performance
+- memory
+- troubleshooting
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-developer-tools-making-page-slow
 ---
-
-
 
 # Chrome Developer Tools Making Page Slow: What You Need to Know
 

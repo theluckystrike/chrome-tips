@@ -14,7 +14,7 @@ tags:
 - address-bar
 - suggestions
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-autocomplete-wrong-suggestions-how-to-fix
 ---
 # Chrome Autocomplete Wrong Suggestions How to Fix

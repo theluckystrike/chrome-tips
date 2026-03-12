@@ -14,7 +14,7 @@ tags:
 - chrome-fix
 - memory-usage
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-android-memory-usage-too-high-fix
 ---
 # Chrome Android Memory Usage Too High Fix

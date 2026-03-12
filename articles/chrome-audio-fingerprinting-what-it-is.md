@@ -14,7 +14,7 @@ tags:
 - privacy
 - browser-security
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-audio-fingerprinting-what-it-is
 ---
 # Chrome Audio Fingerprinting What It Is

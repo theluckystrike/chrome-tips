@@ -14,7 +14,7 @@ tags:
 - chrome-sign-in
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-auto-sign-in-to-websites-how-to-control
 ---
 # Chrome Auto Sign In to Websites How to Control

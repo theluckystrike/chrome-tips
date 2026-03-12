@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "How to Manage Addresses in Chrome Autofill"
-description: "Learn how to add, edit, and delete saved addresses in Google Chrome autofill. Complete guide to managing your address book for faster form filling."
+title: How to Manage Addresses in Chrome Autofill
+description: Learn how to add, edit, and delete saved addresses in Google Chrome autofill.
+  Complete guide to managing your address book for faster form filling. Learn how...
 date: 2026-01-22
-categories: [chrome, settings, productivity]
-tags: [chrome-autofill, address-book, chrome-settings, form-filling]
+categories:
+- chrome
+- settings
+- productivity
+tags:
+- chrome-autofill
+- address-book
+- chrome-settings
+- form-filling
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-autofill-manage-addresses
 ---
-
 # How to Manage Addresses in Chrome Autofill
 
 Chrome autofill is an incredibly useful feature that saves you time when filling out online forms. Among its most helpful capabilities is address autofill, which automatically populates shipping addresses, billing addresses, and other location information across countless websites. Learning how to manage addresses in Chrome autofill gives you complete control over your saved information and ensures your details are always accurate and up to date.

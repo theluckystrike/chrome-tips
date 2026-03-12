@@ -14,7 +14,7 @@ tags:
 - tips-tricks
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-android-tips-and-tricks-2026
 ---
 # Chrome Android Tips and Tricks 2026

@@ -15,7 +15,7 @@ tags:
 - performance
 - 2026
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-android-flags-best-settings-2026
 ---
 # Chrome Android Flags Best Settings 2026

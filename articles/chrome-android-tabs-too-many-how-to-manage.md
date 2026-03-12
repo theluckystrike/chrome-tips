@@ -13,7 +13,7 @@ tags:
 - tab-management
 - mobile-browser
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-android-tabs-too-many-how-to-manage
 ---
 # Chrome Android Tabs Too Many How to Manage

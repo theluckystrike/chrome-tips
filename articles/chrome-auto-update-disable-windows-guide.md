@@ -14,7 +14,7 @@ tags:
 - windows-tutorial
 - chrome-settings
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-auto-update-disable-windows-guide
 ---
 # How to Disable Chrome Auto Update on Windows

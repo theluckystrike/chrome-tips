@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Back Forward Cache How to Test"
-description: "Learn what the back forward cache is in Chrome and how to test if your website works properly with it enabled."
+title: Chrome Back Forward Cache How to Test
+description: Learn what the back forward cache is in Chrome and how to test if your
+  website works properly with it enabled. Learn how to optimize your browser today
+  for b...
 date: 2026-01-15
-categories: [development, performance]
-tags: [bfcache, back-forward-cache, web-development, chrome-testing]
+categories:
+- development
+- performance
+tags:
+- bfcache
+- back-forward-cache
+- web-development
+- chrome-testing
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-back-forward-cache-how-to-test
 ---
-
 Chrome back forward cache how to test is something web developers and website owners need to understand. When users navigate back and forth through your site, Chrome may serve pages from its back forward cache instead of loading them fresh. This can affect how your site behaves and it is worth knowing how to test for it.
 
 Let me explain what the back forward cache is, why it matters, and how you can test whether your site works properly with it.

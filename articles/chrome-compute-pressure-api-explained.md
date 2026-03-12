@@ -94,3 +94,8 @@ As web applications become more sophisticated, features like the Compute Pressur
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Badging API Explained](/chrome-badging-api-explained)

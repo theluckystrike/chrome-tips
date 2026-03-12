@@ -73,3 +73,8 @@ For the best of both worlds, consider using a combination of methods. Take a scr
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Devtools Edit HTML Live](/chrome-devtools-edit-html-live)
+- [Chrome Extensions For Screenshot Full Page](/chrome-extensions-for-screenshot-full-page)
+- [Chrome Built-In Screenshot Tool](/chrome-built-in-screenshot-tool)

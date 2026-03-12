@@ -88,3 +88,8 @@ Finally, test your recordings a few times to make sure they work consistently. W
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Side Panel — How to Use It Effectively](/chrome-side-panel-how-to-use)
+- [Chrome Devtools Snippets How to Use](/chrome-devtools-snippets-how-to-use)
+- [How to Use Chrome DevTools for Beginners](/how-to-use-chrome-devtools-for-beginners)

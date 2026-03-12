@@ -59,3 +59,8 @@ Your bookmarks represent a collection of websites that matter to you, whether th
 Remember to check your backup occasionally, especially if you add many new bookmarks frequently. A backup from six months ago is better than nothing, but a current one is even better. With these simple steps, you can rest easy knowing your saved websites are protected.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+- [Chrome Save All Open Tabs As Bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+- [How to Backup Chrome Bookmarks and Passwords](/how-to-backup-chrome-bookmarks-and-passwords)

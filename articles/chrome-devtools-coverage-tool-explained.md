@@ -89,3 +89,8 @@ Run coverage tests regularly, especially after adding new features or making sig
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Coverage Tool: Find Unused JavaScript](/chrome-coverage-tool-find-unused-javascript)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)

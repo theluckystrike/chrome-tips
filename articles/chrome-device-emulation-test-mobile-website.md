@@ -85,4 +85,10 @@ When testing across multiple devices and configurations, you might find yourself
 
 Chrome device emulation is an essential tool for anyone building mobile websites. It lets you test quickly without reaching for physical devices, catch responsive design issues early, and ensure your site works across the most popular screen sizes. Combine emulation testing with occasional real-device testing, and you'll deliver a better mobile experience to your visitors.
 
+## Related Articles
+- [Chrome Extensions for Website Archiving](/chrome-extensions-for-website-archiving)
+- [Chrome Device Emulation Advanced Guide](/chrome-device-emulation-advanced)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

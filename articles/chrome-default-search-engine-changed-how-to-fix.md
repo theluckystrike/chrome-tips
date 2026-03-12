@@ -70,3 +70,8 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
+- [How to Reset Chrome to Default Settings](/how-to-reset-chrome-to-default-settings)
+- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)

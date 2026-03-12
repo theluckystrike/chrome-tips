@@ -71,3 +71,8 @@ If you find yourself with too many tabs open while managing downloads, consider 
 The key is finding a system that works for you and sticking with it. Whether you change your Chrome downloads folder location or simply organize the default folder more carefully, a little attention to this area saves time and frustration down the road.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Notification Sound How to Change](/chrome-notification-sound-how-to-change)
+- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
+- [How to Change Default Download Location Chrome](/how-to-change-default-download-location-chrome)

@@ -82,3 +82,8 @@ Chrome browser management for IT admins covers a lot of ground, but you do not n
 Remember that employees need to be able to do their work, so try to find the right balance between security and usability. Clear communication about why certain policies are in place helps employees understand that these measures are designed to protect them and the organization.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)

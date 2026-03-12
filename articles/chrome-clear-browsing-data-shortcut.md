@@ -81,3 +81,8 @@ To quickly clear your browsing data in Chrome, remember the keyboard shortcut. O
 The shortcut works instantly and is the fastest way to access this useful feature. Whether you need to clear your history for privacy, fix a website problem by clearing the cache, or just want to start fresh, this method gets you there in seconds.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Safe Browsing Should I Turn On](/chrome-safe-browsing-should-i-turn-on)
+- [How To Delete Chrome Browsing Data Automatically](/how-to-delete-chrome-browsing-data-automatically)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)

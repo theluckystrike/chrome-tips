@@ -54,3 +54,8 @@ DNS prefetching is already built into Chrome, so you do not need to install anyt
 Try browsing the way you normally do and pay attention to how quickly pages start loading when you click links. You might find that the experience feels smoother, especially on sites with many links. Combined with other optimizations like managing your open tabs and keeping Chrome updated, DNS prefetching helps make your web browsing feel snappier.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Pin Tab What It Does Explained](/chrome-pin-tab-what-it-does-explained)
+- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+- [Chrome Password Checkup What It Does](/chrome-password-checkup-what-it-does)

@@ -98,3 +98,8 @@ Remember that DNS over HTTPS is just one piece of the privacy puzzle. Your inter
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Enable Chrome Parallel Downloading](/how-to-enable-chrome-parallel-downloading)
+- [Chrome Prefetch Dns How To Enable](/chrome-prefetch-dns-how-to-enable)
+- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)

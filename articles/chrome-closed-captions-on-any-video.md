@@ -81,3 +81,8 @@ By exploring Chrome built-in features and available extensions, you can find the
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Reader View How to Enable on Any Site](/chrome-reader-view-how-to-enable-on-any-site)
+- [Chrome for Text to Speech on Any Page](/chrome-for-text-to-speech-on-any-page)
+- [Chrome Live Captions How to Turn On](/chrome-live-captions-how-to-turn-on)

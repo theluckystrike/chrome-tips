@@ -69,3 +69,8 @@ Chrome devtools device orientation emulator is just one of many helpful features
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome DevTools Emulate Color Schemes](/chrome-devtools-emulate-color-schemes)
+- [Chrome DevTools CSS Overview Panel](/chrome-devtools-css-overview-panel)
+- [Chrome DevTools Protocol Monitor](/chrome-devtools-protocol-monitor)

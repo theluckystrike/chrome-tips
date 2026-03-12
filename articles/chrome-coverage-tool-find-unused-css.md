@@ -78,3 +78,8 @@ For additional performance improvements, consider using extensions like Tab Susp
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Coverage Tool Guide](/chrome-coverage-tool-guide)
+- [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)

@@ -64,3 +64,8 @@ Keep in mind that cookie consent popups are unlikely to disappear anytime soon. 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [Chrome for Blocking Cookie Consent Popups](/chrome-for-blocking-cookie-consent-popups)
+- [Chrome How To Allow Popups For One Site](/chrome-how-to-allow-popups-for-one-site)

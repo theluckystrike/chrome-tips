@@ -70,4 +70,10 @@ Whether you are building a simple blog or a complex enterprise application, taki
 
 ---
 
+## Related Articles
+- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
+- [Chrome Content Security Policy Explained: A Complete Guide](/chrome-content-security-policy-explained)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

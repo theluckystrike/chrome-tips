@@ -73,3 +73,8 @@ Remember that keeping Chrome updated ensures you have access to all theme option
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Safe Search How To Force Enable](/chrome-safe-search-how-to-force-enable)
+- [How to Enable Chrome Reading List](/how-to-enable-chrome-reading-list)
+- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)

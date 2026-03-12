@@ -73,3 +73,8 @@ The key is finding an extension or combination of methods that works for your sp
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+- [Chrome Cookie Consent Popups How to Handle](/chrome-cookie-consent-popups-how-to-handle)

@@ -74,3 +74,8 @@ As you become more familiar with the tool, you will find it easier to spot patte
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
+- [Chrome DevTools Protocol Monitor](/chrome-protocol-monitor-guide)
+- [Chrome DevTools Emulate Color Schemes](/chrome-devtools-emulate-color-schemes)

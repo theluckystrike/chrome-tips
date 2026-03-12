@@ -102,3 +102,8 @@ Like any tool, DevTools Snippets become more useful the more you practice with t
 There are many resources online where people share their favorite snippets. You can find ready-made snippets for common tasks and modify them to fit your needs. Once you get the hang of it, you will wonder how you ever managed without them.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
+- [Chrome Devtools Recorder Panel How To Use](/chrome-devtools-recorder-panel-how-to-use)
+- [Chrome Devtools Responsive Mode How to Use](/chrome-devtools-responsive-mode-how-to-use)

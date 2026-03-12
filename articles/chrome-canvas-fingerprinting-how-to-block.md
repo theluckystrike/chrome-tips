@@ -78,3 +78,8 @@ Your online privacy is worth protecting, and you do not need to be a tech expert
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [How to Block Ads on Chrome Without Extension](/how-to-block-ads-on-chrome-without-extension)
+- [How to Block Websites on Chrome](/how-to-block-websites-on-chrome)
+- [Chrome Pop Ups on Phone How to Block](/chrome-pop-ups-on-phone-how-to-block)

@@ -80,4 +80,10 @@ If you have not yet updated your websites to support Client Hints, now is the ti
 
 ---
 
+## Related Articles
+- [Chrome Supervised Profiles for Kids](/chrome-supervised-user-profile-for-kids)
+- [Chrome User Agent Switcher Explained](/chrome-user-agent-switcher-explained)
+- [Chrome User Agent String: What It Is and How It Works](/chrome-user-agent-string-what-it-is)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

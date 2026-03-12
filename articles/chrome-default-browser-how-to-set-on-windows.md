@@ -94,3 +94,8 @@ If you want to get even more out of Chrome, consider installing extensions that 
 Setting your default browser is one of those small changes that makes a big difference in your daily computer use. It takes just a few minutes to set up, and the time savings add up every single day.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Set Homepage on Chrome](/how-to-set-homepage-on-chrome)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [How To Make Chrome Default Browser Windows 11](/how-to-make-chrome-default-browser-windows-11)

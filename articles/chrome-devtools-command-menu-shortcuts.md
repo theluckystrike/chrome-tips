@@ -79,3 +79,8 @@ The command menu in Chrome DevTools is a gateway to becoming a more productive d
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
+- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)

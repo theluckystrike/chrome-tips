@@ -75,4 +75,10 @@ Creating a chrome custom theme how to make your own is a fun and rewarding proce
 
 Remember to periodically update your theme to keep things fresh. Just as our tastes change over time, your perfect theme today might be different from what you'll want next month. The beauty of Chrome's theme system is that switching between themes is effortless, so don't be afraid to experiment.
 
+## Related Articles
+- [How to Make Chrome Kid-Friendly](/how-to-make-chrome-kid-friendly)
+- [Chrome Custom Fonts How to Change](/chrome-custom-fonts-how-to-change)
+- [How To Make Chrome Default Browser Windows 11](/how-to-make-chrome-default-browser-windows-11)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

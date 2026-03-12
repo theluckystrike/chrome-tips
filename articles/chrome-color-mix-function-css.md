@@ -65,4 +65,10 @@ Extensions like Tab Suspender Pro can help by automatically suspending tabs you 
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
+## Related Articles
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Nesting CSS Explained](/chrome-nesting-css-explained)
+- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

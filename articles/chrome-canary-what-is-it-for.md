@@ -66,3 +66,8 @@ Chrome Canary is Google's way of letting users preview the future of Chrome. It 
 If you are curious about what Google is building next for Chrome, downloading Canary and playing around with it might be worth your while. Just remember to keep your expectations realistic and do not rely on it for critical tasks.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome User Agent String: What It Is and How It Works](/chrome-user-agent-string-what-it-is)
+- [Chrome Headless Mode What It Is](/chrome-headless-mode-what-it-is)
+- [Chrome Secure DNS: What It Is and How to Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)

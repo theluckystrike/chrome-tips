@@ -84,3 +84,8 @@ If you often have many tabs open and worry about performance or accidental camer
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+- [Chrome Permissions API for Camera and Microphone](/chrome-permissions-api-camera-microphone)
+- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
+- [Chrome Geolocation Permission Manage](/chrome-geolocation-permission-manage)

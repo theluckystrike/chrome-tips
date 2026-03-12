@@ -82,3 +82,8 @@ Additionally, coupon codes found through browser extensions may not always be th
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
+- [Chrome Address Bar Not Showing Full URL Fix](/chrome-address-bar-not-showing-full-url-fix)

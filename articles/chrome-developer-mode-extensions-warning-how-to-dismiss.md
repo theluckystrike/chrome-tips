@@ -67,3 +67,8 @@ The developer mode warning, while annoying, is ultimately there to help you make
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Profile Specific Extensions How to Set](/chrome-profile-specific-extensions-how-to-set)
+- [Chrome Developer Mode Extensions](/chrome-developer-mode-extensions)
+- [Chrome HTTPS Only Mode How to Enable](/chrome-https-only-mode-how-to-enable)

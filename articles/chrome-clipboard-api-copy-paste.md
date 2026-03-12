@@ -145,4 +145,10 @@ Remember to handle errors gracefully, provide clear user feedback, and always re
 
 ---
 
+## Related Articles
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome Badging API Explained](/chrome-badging-api-explained)
+- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -78,3 +78,8 @@ Chrome's built-in password checkup is a valuable free tool that everyone should 
 The process does not have to be overwhelming. Start by enabling the checkup, review the results, and work through updating any compromised passwords one at a time. Your online accounts will be much safer for it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+- [Chrome Virus Scan Built in How to Use](/chrome-virus-scan-built-in-how-to-use)
+- [How To Use Chrome Password Checkup Feature](/how-to-use-chrome-password-checkup-feature)

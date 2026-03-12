@@ -90,3 +90,8 @@ Take a moment to practice the shortcut a few times. Within a day or two, it will
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
+- [Chrome Save All Open Tabs As Bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+- [Chrome Scroll to Top of Page Shortcut](/chrome-scroll-to-top-of-page-shortcut)

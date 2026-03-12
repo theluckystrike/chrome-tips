@@ -107,3 +107,8 @@ Finally, combine coverage analysis with other performance tools in Chrome DevToo
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+- [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/chrome-coverage-tool-find-unused-css)
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)

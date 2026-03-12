@@ -83,3 +83,8 @@ Remember that most websites require JavaScript to function properly. While disab
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Chrome for Page Load Speed Testing](/chrome-for-page-load-speed-testing)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)

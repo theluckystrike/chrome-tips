@@ -75,3 +75,8 @@ Remember that DNS settings are just one piece of the privacy puzzle. Your intern
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Reset Chrome to Default Settings](/how-to-reset-chrome-to-default-settings)
+- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
+- [Chrome for Proxy Settings How to Configure](/chrome-for-proxy-settings-how-to-configure)

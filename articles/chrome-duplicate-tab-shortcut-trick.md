@@ -82,4 +82,10 @@ Once it becomes muscle memory, you'll wonder how you ever lived without it. And 
 
 ---
 
+## Related Articles
+- [Chrome Mute Tab Shortcut Explained](/chrome-mute-tab-shortcut-explained)
+- [Chrome Jump to Specific Tab Number Shortcut](/chrome-jump-to-specific-tab-number-shortcut)
+- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -74,3 +74,8 @@ Finally, keep your extensions updated. Developers regularly release updates that
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Text to Speech Built In Feature](/chrome-text-to-speech-built-in-feature)
+- [Chrome Built in Password Checkup How to Use](/chrome-built-in-password-checkup-how-to-use)
+- [Chrome Ai Features Built In 2026](/chrome-ai-features-built-in-2026)

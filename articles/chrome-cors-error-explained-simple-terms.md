@@ -165,4 +165,10 @@ When you're debugging CORS errors or working with multiple Chrome windows during
 
 ---
 
+## Related Articles
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
+- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

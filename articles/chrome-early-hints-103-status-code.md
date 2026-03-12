@@ -93,4 +93,10 @@ We can expect to see more websites adopt early hints as CDN support improves and
 
 ---
 
+## Related Articles
+- [Chrome QR Code Generator Extension](/chrome-qr-code-generator-extension)
+- [Chrome Status Code 500 Server Error Explained](/chrome-status-code-500-server-error-explained)
+- [Chrome Status Code 502 Bad Gateway Fix](/chrome-status-code-502-bad-gateway-fix)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

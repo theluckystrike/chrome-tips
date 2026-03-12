@@ -81,3 +81,8 @@ Chrome css custom properties explained is really about helping you work smarter,
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Font Palette CSS Explained](/chrome-font-palette-css-explained)
+- [Chrome Custom Elements Explained](/chrome-custom-elements-explained)
+- [Chrome Layer CSS Cascade Layers Explained](/chrome-layer-css-cascade-layers-explained)

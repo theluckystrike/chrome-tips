@@ -81,3 +81,8 @@ Chrome DevTools overrides are a powerful but underutilized feature that can save
 Give it a try on your next project and see how much easier it makes testing and debugging.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome DevTools Protocol Monitor](/chrome-devtools-protocol-monitor)
+- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)

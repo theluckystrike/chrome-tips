@@ -74,3 +74,8 @@ When browsing, look for the green lock icon and https in the address bar. These 
 Certificate transparency might sound like a technical concept, but it serves a simple purpose: making the internet safer for everyone. Next time you see a related message in Chrome, you will know that your browser is working to verify that the sites you visit are legitimate.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Lighthouse Performance Score Explained Simply](/chrome-lighthouse-performance-score-explained-simply)
+- [Chrome Privacy Sandbox Explained Simply](/chrome-privacy-sandbox-explained-simply)
+- [Chrome Topics Api Explained Simply](/chrome-topics-api-explained-simply)

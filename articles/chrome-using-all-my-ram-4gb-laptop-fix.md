@@ -6,8 +6,8 @@ date: 2026-01-15
 categories: [performance, browsers]
 tags: [chrome-memory, 4gb-ram, laptop-fix, chrome-slow]
 author: theluckystrike
+permalink: chrome-using-all-my-ram-4gb-laptop-fix
 last_modified_at: '2026-03-12'
-permalink: "chrome-using-all-my-ram-4gb-laptop-fix"
 ---
 # Chrome Using All My RAM 4GB Laptop Fix
 
@@ -75,6 +75,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
-* [Chrome Extension For Batch Downloading Images](/chrome-extension-for-batch-downloading-images)
-* [Chrome Upcoming Features Roadmap 2026](/chrome-upcoming-features-roadmap-2026)
+* [chrome extensions for tab suspender auto](/chrome-extensions-for-tab-suspender-auto)
+* [Best Chrome Extensions for Saving Money Online](/best-chrome-extensions-for-saving-money-online)
+* [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)

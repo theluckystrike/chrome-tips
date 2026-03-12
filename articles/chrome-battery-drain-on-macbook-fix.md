@@ -14,8 +14,8 @@ tags:
 - performance
 - optimization
 author: theluckystrike
+permalink: chrome-battery-drain-on-macbook-fix
 last_modified_at: '2026-03-12'
-permalink: "chrome-battery-drain-on-macbook-fix"
 ---
 # How to Fix Chrome Battery Drain on MacBook
 
@@ -71,6 +71,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Vs Opera Gx Ram Limiter](/chrome-vs-opera-gx-ram-limiter)
-* [Chrome Extensions For Link Checker Broken Links](/chrome-extensions-for-link-checker-broken-links)
-* [Chrome Flags On Android Best To Enable](/chrome-flags-on-android-best-to-enable)
+* [chrome trusted types dom xss prevent](/chrome-trusted-types-dom-xss-prevent)
+* [Chrome PDF Not Downloading Just Opening Fix](/chrome-pdf-not-downloading-just-opening-fix)
+* [Chrome Extensions for Watermark Remover](/chrome-extensions-for-watermark-remover)

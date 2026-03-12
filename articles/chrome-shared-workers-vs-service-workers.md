@@ -75,6 +75,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions For Spotify Web Player Enhancement](/chrome-extensions-for-spotify-web-player-enhancement)
-* [Chrome Uses Too Much Memory On Old Laptop](/chrome-uses-too-much-memory-on-old-laptop)
-* [Chrome For Pinterest Web Clipper](/chrome-for-pinterest-web-clipper)
+* [Chrome for Facebook Best Extensions](/chrome-for-facebook-best-extensions)
+* [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
+* [Chrome Workspaces: Link DevTools to Files for Seamless Development](/chrome-workspaces-link-devtools-to-files)

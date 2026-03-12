@@ -5,7 +5,7 @@ description: "Discover how Chrome Extensions For Flight Price Alerts can transfo
   setti...
 date: 2026-03-09
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-flight-price-alerts/
+permalink: chrome-extensions-for-flight-price-alerts
 ---
 # Chrome Extensions for Flight Price Alerts
 

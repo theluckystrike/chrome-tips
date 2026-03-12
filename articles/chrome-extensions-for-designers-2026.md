@@ -5,7 +5,7 @@ description: "Discover how Best Chrome Extensions For Designers 2026 can transfo
   setti...
 date: 2026-01-15
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-designers-2026/
+permalink: chrome-extensions-for-designers-2026
 ---
 # Best Chrome Extensions for Designers 2026
 

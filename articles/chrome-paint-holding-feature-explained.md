@@ -72,6 +72,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Why Is Chrome Still the Most Popular Browser in 2026?](/chrome-tips/why-is-chrome-still-most-popular-browser/)
-- [Chrome Desktop Mode on Phone How to Use](/chrome-tips//chrome-desktop-mode-on-phone-how-to-use//)
-- [Chrome Slow With Many Tabs Open? Here's How to Fix It](/chrome-tips/chrome-slow-with-many-tabs-open/)
+* [chrome lighthouse performance score explained simply](/chrome-lighthouse-performance-score-explained-simply)
+* [Chrome for Jira Best Extensions](/chrome-for-jira-best-extensions)
+* [Chrome Web Store Extensions Not Installing: Fixes That Actually Work](/chrome-web-store-extensions-not-installing)

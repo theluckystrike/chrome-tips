@@ -15,7 +15,7 @@ tags:
 - chrome-css
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-css-custom-properties-explained/
+permalink: chrome-css-custom-properties-explained
 ---
 # Chrome CSS Custom Properties Explained
 

@@ -117,6 +117,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Startup Boost What It Does](/chrome-startup-boost-what-it-does)
-* [Chrome Safe Search Lock For Children](/chrome-safe-search-lock-for-children)
-* [Chrome For Weather Dashboard Extensions](/chrome-for-weather-dashboard-extensions)
+* [Chrome Safe Search How to Lock](/chrome-safe-search-how-to-lock)
+* [Chrome Coverage Tool: Find Unused JavaScript](/chrome-coverage-tool-find-unused-javascript)
+* [Chrome Canary vs Stable Difference Explained](/chrome-canary-vs-stable-difference-explained)

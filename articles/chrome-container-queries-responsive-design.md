@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Chrome Container Queries for Responsive Design
-description: "Learn how Chrome container queries transform responsive design by letting components respond to their parent container size instead of the viewport..."
+description: Learn how Chrome container queries transform responsive design by letting components respond to their parent container size instead of the viewport.
+permalink: chrome-container-queries-responsive-design
 last_modified_at: '2026-03-12'
-permalink: "chrome-container-queries-responsive-design"
-date: "2026-03-12"
 ---
 # Chrome Container Queries for Responsive Design
 
@@ -88,6 +87,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions For Mockup Creator](/chrome-extensions-for-mockup-creator)
-* [Chrome Extension For Coupon Codes Automatic](/chrome-extension-for-coupon-codes-automatic)
-* [Chrome Extensions For Duplicate Tab Finder](/chrome-extensions-for-duplicate-tab-finder)
+* [Chrome 64 bit vs 32 bit How to Check](/chrome-64-bit-vs-32-bit-how-to-check)
+* [chrome for vpn extensions comparison](/chrome-for-vpn-extensions-comparison)
+* [Chrome Cookie Consent Popups How to Auto Accept](/chrome-cookie-consent-popups-how-to-auto-accept)

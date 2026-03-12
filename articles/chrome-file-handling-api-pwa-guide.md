@@ -14,9 +14,8 @@ tags:
 - pwa-features
 - chrome-api
 author: theluckystrike
+permalink: chrome-file-handling-api-pwa-guide
 last_modified_at: '2026-03-12'
-permalink: "chrome-file-handling-api-pwa-guide"
-date: "2026-03-12"
 ---
 # Chrome File Handling API PWA Guide
 
@@ -128,6 +127,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Devtools Emulate Vision Deficiencies](/chrome-devtools-emulate-vision-deficiencies)
-* [Chrome Extensions For Split Tabs](/chrome-extensions-for-split-tabs)
-* [Chrome On Android Tips And Tricks 2026](/chrome-on-android-tips-and-tricks-2026)
+* [Chrome Extensions for Time Tracking](/chrome-extensions-for-time-tracking)
+* [Chrome Document Policy: The New Security Feature You Need to Know](/chrome-document-policy-new-security-feature)
+* [Best Privacy Chrome Extensions 2026](/best-privacy-chrome-extensions-2026)

@@ -73,6 +73,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)
-* [Chrome Chromium Vs Chrome Differences](/chrome-chromium-vs-chrome-differences)
-* [Computer Fan Goes Crazy When Chrome Opens](/computer-fan-goes-crazy-when-chrome-opens)
+* [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
+* [Chrome for Coursera Web App Optimization](/chrome-for-coursera-web-app-optimization)
+* [Chrome Notifications How to Stop Them](/chrome-notifications-how-to-stop-them)

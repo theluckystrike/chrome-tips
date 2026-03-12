@@ -74,6 +74,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Reopen Closed Tab Shortcut](/chrome-reopen-closed-tab-shortcut)
-* [Chrome Web Apps Vs Native Apps Comparison](/chrome-web-apps-vs-native-apps-comparison)
-* [Chrome Extensions For Musicians And Producers](/chrome-extensions-for-musicians-and-producers)
+* [Chrome Scroll-Driven Animations: Complete Guide for 2026](/chrome-scroll-driven-animations)
+* [chrome offline first app design explained](/chrome-offline-first-app-design-explained)
+* [Chrome Game Streaming Optimization Tips](/chrome-game-streaming-optimization-tips)

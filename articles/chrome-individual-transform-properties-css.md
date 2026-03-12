@@ -154,6 +154,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How To Add Chrome Shortcut To Desktop](/how-to-add-chrome-shortcut-to-desktop)
-* [Chrome Caret Browsing Navigate With Keyboard](/chrome-caret-browsing-navigate-with-keyboard)
-* [Chrome Third Party Cookies Blocked What It Means](/chrome-third-party-cookies-blocked-what-it-means)
+* [Chrome Web Vitals Explained Simply](/chrome-web-vitals-explained-simply)
+* [chrome floating video window how to use](/chrome-floating-video-window-how-to-use)
+* [Chrome Content Security Policy Explained: A Complete Guide](/chrome-content-security-policy-explained)

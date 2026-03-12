@@ -82,6 +82,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Blocking Cookie Consent Popups](/chrome-for-blocking-cookie-consent-popups)
-* [How To Block Websites On Chrome](/how-to-block-websites-on-chrome)
-* [Chrome Biometric Authentication Web](/chrome-biometric-authentication-web)
+* [Chrome for Mendeley Web Importer Tips](/chrome-for-mendeley-web-importer-tips)
+* [Chrome Side Panel Extensions Worth Using](/chrome-side-panel-extensions-worth-using)
+* [Chrome Extensions For Dns Lookup](//articles/chrome-extensions-for-dns-lookup/)

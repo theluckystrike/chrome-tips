@@ -86,6 +86,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions For Citation Generator](/chrome-extensions-for-citation-generator)
-* [Chrome Extensions For Image Editor Online](/chrome-extensions-for-image-editor-online)
-* [Chrome Best Note Taking Extension 2026](/chrome-best-note-taking-extension-2026)
+* [Chrome Clients Claim Take Control: What It Means for Your Browser](/chrome-clients-claim-take-control)
+* [Chrome Extensions for Grammarly Alternative Free](/chrome-extensions-for-grammarly-alternative-free)
+* [Chrome Mouse Cursor Lagging Fix](/chrome-mouse-cursor-lagging)

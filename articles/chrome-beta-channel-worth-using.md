@@ -54,6 +54,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome How To Block Specific Website Notifications](/chrome-how-to-block-specific-website-notifications)
-* [Chrome Accessibility Screen Reader Support](/chrome-accessibility-screen-reader-support)
-* [Chrome Dns Settings How To Change For Privacy](/chrome-dns-settings-how-to-change-for-privacy)
+* [What Happens When Chrome Extension Is Removed From Store](/what-happens-when-chrome-extension-is-removed-from-store)
+* [Chrome for Canvas LMS Best Extensions](/chrome-for-canvas-lms-best-extensions)
+* [Chrome Dock Icon Missing Fix Mac](/chrome-dock-icon-missing-fix-mac)

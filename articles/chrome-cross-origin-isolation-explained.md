@@ -14,7 +14,6 @@ tags:
 - web-security
 author: theluckystrike
 last_modified_at: '2026-03-12'
-date: "2026-03-12"
 ---
 # Chrome Cross-Origin Isolation Explained
 
@@ -72,6 +71,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extension For Measuring Things On Screen](/chrome-extension-for-measuring-things-on-screen)
-* [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
-* [Chrome Autofill Credit Card Security](/chrome-autofill-credit-card-security)
+* [Chrome Extensions for Regex Tester](/chrome-extensions-for-regex-tester)
+* [Chrome Service Worker High CPU Fix](/chrome-service-worker-high-cpu-fix)
+* [chromebook file manager tips and tricks](/chromebook-file-manager-tips-and-tricks)

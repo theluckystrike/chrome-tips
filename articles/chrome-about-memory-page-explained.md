@@ -64,6 +64,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Instacart Web App Best Settings](/chrome-for-instacart-web-app-best-settings)
-* [Chrome Client Hints Instead Of User Agent](/chrome-client-hints-instead-of-user-agent)
-* [Chrome Back Button Not Working Fix](/chrome-back-button-not-working-fix)
+* [Chrome Network Speed in Developer Tools](/chrome-network-speed-in-developer-tools)
+* [Chrome Cookies Explained Simply](/chrome-cookies-explained-simply)
+* [Chrome for Amazon Fresh Web Ordering](/chrome-for-amazon-fresh-web-ordering)

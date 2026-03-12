@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Chrome Audio Not Working on Some Sites
-description: "Experiencing chrome audio not working on some sites? Discover proven solutions to fix audio playback issues in Chrome and get sound working again....."
+description: Experiencing chrome audio not working on some sites? Discover proven solutions to fix audio playback issues in Chrome and get sound working again.
+permalink: chrome-audio-not-working-on-some-sites
 last_modified_at: '2026-03-12'
-permalink: "chrome-audio-not-working-on-some-sites"
-date: "2026-03-12"
 ---
 # Chrome Audio Not Working on Some Sites
 
@@ -74,6 +73,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Remote Desktop Setup Guide](/chrome-remote-desktop-setup-guide)
-* [Chrome Extensions For Privacy Badger Alternative](/chrome-extensions-for-privacy-badger-alternative)
-* [Chrome Guest Mode Vs Incognito Difference](/chrome-guest-mode-vs-incognito-difference)
+* [Chrome for Blocking Autoplay Videos](/chrome-for-blocking-autoplay-videos)
+* [Chrome Experiments Page Best Flags to Enable: Complete Guide](/chrome-experiments-page-best-flags-enable)
+* [Chrome Extensions for WhatsApp Web](/chrome-extensions-for-whatsapp-web)

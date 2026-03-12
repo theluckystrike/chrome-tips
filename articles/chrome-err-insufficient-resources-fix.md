@@ -93,6 +93,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Family Link How To Use On Desktop](/chrome-family-link-how-to-use-on-desktop)
-* [Chrome Sign In With Google On Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
-* [Reduce Chrome Data Usage On Slow Connection](/reduce-chrome-data-usage-on-slow-connection)
+* [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+* [Chrome PWA Install Prompt Not Showing Fix](/chrome-pwa-install-prompt-not-showing-fix)
+* [First Input Delay Chrome Optimize](/first-input-delay-chrome-optimize)

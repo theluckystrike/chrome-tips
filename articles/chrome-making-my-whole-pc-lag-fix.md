@@ -6,8 +6,8 @@ date: 2025-02-17
 categories: [performance, troubleshooting]
 tags: [chrome-slow, pc-lag, memory-usage, performance-fix]
 author: theluckystrike
+permalink: chrome-making-my-whole-pc-lag-fix
 last_modified_at: '2026-03-12'
-permalink: "chrome-making-my-whole-pc-lag-fix"
 ---
 # Chrome Making My Whole PC Lag Fix: Restore Your System's Speed
 
@@ -105,6 +105,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [How to Use Chrome Task Manager to Find Heavy Tabs](/chrome-tips/chrome-task-manager-find-heavy-tabs/)
-- [Chrome Serial API and USB Device Access — Complete Guide](/chrome-tips/chrome-serial-api-usb-device-access/)
-- [Chrome Trust Tokens Explained](/chrome-tips/chrome-trust-tokens-guide/)
+* [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)
+* [chrome how to allow popups for one site](/chrome-how-to-allow-popups-for-one-site)
+* [Chrome ERR_BLOCKED_BY_CLIENT Fix](/chrome-err-blocked-by-client-fix)

@@ -7,8 +7,8 @@ date: 2026-03-12
 categories: [chrome, tips, navigation]
 tags: [chrome-deep-linking, universal-links, app-links, deep-links, navigation]
 author: theluckystrike
+permalink: chrome-deep-linking-universal-links-guide
 last_modified_at: '2026-03-12'
-permalink: "chrome-deep-linking-universal-links-guide"
 ---
 # Chrome Deep Linking and Universal Links: Complete Guide
 

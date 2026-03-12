@@ -86,6 +86,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Keyboard Shortcuts For Power Users](/chrome-keyboard-shortcuts-for-power-users)
-* [Chrome For Mondaycom Best Extensions](/chrome-for-mondaycom-best-extensions)
-* [Chrome Back Button Not Working Fix](/chrome-back-button-not-working-fix)
+* [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/chrome-err-cert-authority-invalid-fix)
+* [Chrome Multiple Windows vs Tabs Which Is Better](/chrome-multiple-windows-vs-tabs-which-is-better)
+* [Chrome for Calendar Management Extensions](/chrome-for-calendar-management-extensions)

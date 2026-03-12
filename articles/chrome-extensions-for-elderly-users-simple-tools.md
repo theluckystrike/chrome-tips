@@ -4,7 +4,7 @@ description: "Discover how Chrome Extensions For Elderly Users Simple Tools can 
   your browsing. This comprehensive 2026 guide covers the best Chrome extensions an...
 date: 2026-01-15
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-elderly-users-simple-tools/
+permalink: chrome-extensions-for-elderly-users-simple-tools
 ---
 # Chrome Extensions for Elderly Users Simple Tools
 

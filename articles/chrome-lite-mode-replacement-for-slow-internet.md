@@ -75,6 +75,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Helper Renderer High CPU Mac Fix](/chrome-tips/chrome-helper-renderer-high-cpu-mac-fix/)
-- [Chrome Extensions for Language Learning](/chrome-tips/chrome-extensions-for-language-learning/)
-- [Chrome Mobile View on Desktop How to](/chrome-tips/chrome-mobile-view-on-desktop-how-to/)
+* [Chrome Google Account Privacy Settings Guide](/chrome-google-account-privacy-settings-guide)
+* [Chrome Taking 5 Minutes to Load: Fixes for Slow Computers](/chrome-taking-5-minutes-to-load)
+* [Chrome Extensions for Website Testing](/chrome-extensions-for-website-testing)

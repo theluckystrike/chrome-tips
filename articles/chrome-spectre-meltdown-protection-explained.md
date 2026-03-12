@@ -82,6 +82,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Smooth Scrolling How To Enable](/chrome-smooth-scrolling-how-to-enable)
-* [Chrome Tab Management Shortcuts Cheat Sheet](/chrome-tab-management-shortcuts-cheat-sheet)
-* [Chrome Devtools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
+* [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
+* [Chrome Freezes My Whole Computer](/chrome-freezes-my-whole-computer)
+* [How Often Should I Clear Chrome Cache](/how-often-should-i-clear-chrome-cache)

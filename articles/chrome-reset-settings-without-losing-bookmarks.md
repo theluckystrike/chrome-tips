@@ -94,6 +94,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Best Password Manager Chrome Extension](/best-password-manager-chrome-extension)
-* [Chrome Clients Claim Take Control](/chrome-clients-claim-take-control)
-* [Chrome Document Policy New Security Feature](/chrome-document-policy-new-security-feature)
+* [Chrome Window Size Not Saving Fix](/chrome-window-size-not-saving-fix)
+* [Chrome Extensions for Grammar Check Free Alternative](/chrome-extensions-for-grammar-check-free-alternative)
+* [Chrome Installer Failed to Start Fix](/chrome-installer-failed-to-start-fix)

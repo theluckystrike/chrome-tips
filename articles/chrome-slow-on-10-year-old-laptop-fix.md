@@ -90,6 +90,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions For Auto Refresh Page](/chrome-extensions-for-auto-refresh-page)
-* [Chrome Beta Channel Worth Using](/chrome-beta-channel-worth-using)
-* [Best Chrome Extensions For Writers 2026](/best-chrome-extensions-for-writers-2026)
+* [Chrome Extensions for Therapists and Counselors](/chrome-extensions-for-therapists-and-counselors)
+* [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)
+* [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/i-have-100-tabs-open-chrome-is-dying)

@@ -4,7 +4,7 @@ description: "Discover how Chrome Extensions For Font Changing can transform you
   This comprehensive 2026 guide covers the best Chrome extensions and settings to...
 date: 2026-03-09
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-font-changing/
+permalink: chrome-extensions-for-font-changing
 ---
 # Chrome Extensions for Font Changing
 

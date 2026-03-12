@@ -15,7 +15,7 @@ tags:
 - shortcuts
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-devtools-command-menu-shortcuts/
+permalink: chrome-devtools-command-menu-shortcuts
 ---
 # Chrome DevTools Command Menu Shortcuts
 

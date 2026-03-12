@@ -99,6 +99,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Background Sync Api Explained](/chrome-background-sync-api-explained)
-* [Chrome Extensions For Ruler Measurement](/chrome-extensions-for-ruler-measurement)
-* [Chrome Jump To Specific Tab Number Shortcut](/chrome-jump-to-specific-tab-number-shortcut)
+* [Chrome Reader View How to Enable on Any Site](/chrome-reader-view-how-to-enable-on-any-site)
+* [Chrome Mailto Link Not Working Fix](/chrome-mailto-link-not-working-fix)
+* [Chrome Layer CSS Cascade Layers Explained](/chrome-layer-css-cascade-layers-explained)

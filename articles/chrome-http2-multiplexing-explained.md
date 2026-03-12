@@ -13,9 +13,8 @@ tags:
 - web-performance
 - browser-optimization
 author: theluckystrike
+permalink: chrome-http2-multiplexing-explained
 last_modified_at: '2026-03-12'
-permalink: "chrome-http2-multiplexing-explained"
-date: "2026-03-12"
 ---
 # Chrome HTTP2 Multiplexing Explained
 
@@ -72,6 +71,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Upcoming Features Roadmap 2026](/chrome-upcoming-features-roadmap-2026)
-* [Chrome For Codesandbox Optimization](/chrome-for-codesandbox-optimization)
-* [Chrome For Research Workflow Best Setup](/chrome-for-research-workflow-best-setup)
+* [chrome for github best extensions](/chrome-for-github-best-extensions)
+* [Chrome Extensions for Reverse Video Search](/chrome-extensions-for-reverse-video-search)
+* [Chrome Extension Settings Sync Across Devices](/chrome-extension-settings-sync-across-devices)

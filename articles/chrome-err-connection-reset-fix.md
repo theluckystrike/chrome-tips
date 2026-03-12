@@ -81,6 +81,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Smooth Scroll Stuttering Fix](/chrome-smooth-scroll-stuttering-fix)
-* [Chrome Tab Using 1Gb Memory Why](/chrome-tab-using-1gb-memory-why)
-* [Chrome Performance Panel For Regular Users](/chrome-performance-panel-for-regular-users)
+* [Chrome for Social Media Management Extensions](/chrome-for-social-media-management-extensions)
+* [Chrome Reset All Settings: What Gets Deleted](/chrome-reset-all-settings-what-gets-deleted)
+* [Chrome Core Web Vitals Check My Website](/chrome-core-web-vitals-check-my-website)

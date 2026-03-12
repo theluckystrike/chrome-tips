@@ -5,7 +5,7 @@ description: "Discover how Chrome Extensions For Faster Browsing can transform y
   ...
 date: 2025-02-20
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-faster-browsing/
+permalink: chrome-extensions-for-faster-browsing
 ---
 # Chrome Extensions for Faster Browsing
 

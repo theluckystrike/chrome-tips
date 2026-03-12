@@ -86,6 +86,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Subgrid Layout Examples](/chrome-subgrid-layout-examples)
-* [Best Dark Mode Chrome Extension](/best-dark-mode-chrome-extension)
-* [Chrome Scrolling Lag Fix](/chrome-scrolling-lag-fix)
+* [chrome for education classroom management](/chrome-for-education-classroom-management)
+* [Chrome for Private Browsing Tips Beyond Incognito](/chrome-for-private-browsing-tips-beyond-incognito)
+* [How to Put Chrome Portable Version on a USB Drive](/chrome-portable-version-usb-drive-how)

@@ -100,6 +100,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome for Quick Commands Feature](/chrome-tips/chrome-for-quick-commands-feature/)
-- [Chrome Extensions for Better YouTube Experience](/chrome-tips/chrome-extensions-for-better-youtube-experience/)
-- [Chrome Side Panel Extensions Best Ones](/chrome-tips/chrome-side-panel-extensions-best-ones/)
+* [Chrome Hardware Acceleration Causing Problems: Troubleshooting Guide](/chrome-hardware-acceleration-causing-problems)
+* [How to Disable Chrome Notifications Permanently](/how-to-disable-chrome-notifications-permanently)
+* [chrome web share target api explained](/chrome-web-share-target-api-explained)

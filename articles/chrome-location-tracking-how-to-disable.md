@@ -76,6 +76,6 @@ By taking these steps, you can significantly reduce the amount of location data 
 
 ## Related Articles
 
-- [Chrome Extensions for Website Blocker](/chrome-tips/chrome-extensions-for-website-blocker/)
-- [Chrome Update Failed Error 7 Fix](/chrome-tips/chrome-update-failed-error-7-fix/)
-- [Chrome This Site Cant Be Reached Fix](/chrome-tips/chrome-this-site-cant-be-reached-fix/)
+* [Chrome for Photo Editing in Browser](/chrome-for-photo-editing-in-browser)
+* [Chrome Saved Passwords How to See Them](/chrome-saved-passwords-how-to-see-them)
+* [Chrome Profile Import From Another Computer](/chrome-profile-import-from-another-computer)

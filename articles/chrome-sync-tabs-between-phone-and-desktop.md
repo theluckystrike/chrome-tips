@@ -81,6 +81,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome High Cpu Usage Fix Mac](/chrome-high-cpu-usage-fix-mac)
-* [How To Uninstall Chrome Completely And Reinstall](/how-to-uninstall-chrome-completely-and-reinstall)
-* [Chrome Password Not Autofilling Fix](/chrome-password-not-autofilling-fix)
+* [Chrome vs Vivaldi Customization Comparison: Which Browser Gives You More Control?](/chrome-vs-vivaldi-customization-comparison)
+* [How to Save Webpage Offline Chrome Android](/how-to-save-webpage-offline-chrome-android)
+* [Chrome Text Size on Phone How to Change](/chrome-text-size-on-phone-how-to-change)

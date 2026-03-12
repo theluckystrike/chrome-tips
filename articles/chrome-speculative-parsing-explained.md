@@ -78,6 +78,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Blob And File Api Explained](/chrome-blob-and-file-api-explained)
-* [Chrome Resource Timing Api Explained](/chrome-resource-timing-api-explained)
-* [Chrome User Timing Api Explained](/chrome-user-timing-api-explained)
+* [Chrome Service Worker Debugging Guide](/chrome-service-worker-debugging)
+* [Chrome Keyboard Shortcuts for Beginners](/chrome-keyboard-shortcuts-for-beginners)
+* [chrome topics api privacy sandbox explained](/chrome-topics-api-privacy-sandbox-explained)

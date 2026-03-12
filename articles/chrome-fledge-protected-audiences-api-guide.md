@@ -72,6 +72,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Best New Tab Extension 2026](/chrome-best-new-tab-extension-2026)
-* [Chrome Canary Vs Stable Difference Explained](/chrome-canary-vs-stable-difference-explained)
-* [Chrome Dark Mode For All Websites How](/chrome-dark-mode-for-all-websites-how)
+* [Chrome Mobile Tips Save Data Usage](/chrome-mobile-tips-save-data-usage)
+* [Chrome Extensions for Price Tracking Amazon](/chrome-extensions-for-price-tracking-amazon)
+* [How to Cast Chrome Tab to TV](/how-to-cast-chrome-tab-to-tv)

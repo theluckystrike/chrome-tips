@@ -14,7 +14,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-devtools-coverage-tool-explained/
+permalink: chrome-devtools-coverage-tool-explained
 ---
 # Chrome DevTools Coverage Tool Explained
 

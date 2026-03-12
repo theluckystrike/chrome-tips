@@ -5,7 +5,7 @@ description: "Discover how Chrome Extensions For Color Palette Generator can tra
   s...
 date: 2026-03-10
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-color-palette-generator/
+permalink: chrome-extensions-for-color-palette-generator
 ---
 If you have been looking for chrome extensions for color palette generator tools, you might have noticed that finding the right one is harder than it seems. You need colors that work well together for your project, but starting from scratch feels overwhelming. Maybe you have tried randomly picking colors only to end up with combinations that look jarring or clash badly. This is a common frustration for anyone who needs to create color schemes for websites, presentations, or designs.
 

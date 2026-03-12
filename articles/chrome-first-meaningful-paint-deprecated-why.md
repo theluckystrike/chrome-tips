@@ -66,6 +66,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-* [Chrome Client Hints Instead Of User Agent](/chrome-client-hints-instead-of-user-agent)
-* [Chrome Extensions For Email Tracking](/chrome-extensions-for-email-tracking)
+* [How to Simulate Slow Connection in Chrome](/chrome-network-throttling-how-to-simulate-slow-connection)
+* [Chrome Password Not Autofilling Fix](/chrome-password-not-autofilling-fix)
+* [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)

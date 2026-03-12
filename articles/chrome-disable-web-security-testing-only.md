@@ -15,7 +15,6 @@ tags:
 - development
 author: theluckystrike
 last_modified_at: '2026-03-12'
-date: "2026-03-12"
 ---
 # How to Disable Chrome Web Security for Testing Only
 
@@ -96,6 +95,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Reddit Best Extensions](/chrome-for-reddit-best-extensions)
-* [How To Save Chrome Tabs For Later](/how-to-save-chrome-tabs-for-later)
-* [Chrome Extensions For Trello](/chrome-extensions-for-trello)
+* [chrome web otp autofill sms](/chrome-web-otp-autofill-sms)
+* [Chrome Media Autoplay How to Block](/chrome-media-autoplay-how-to-block)
+* [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)

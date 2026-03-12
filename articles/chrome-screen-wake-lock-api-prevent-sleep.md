@@ -15,7 +15,6 @@ tags:
 - javascript
 author: theluckystrike
 last_modified_at: '2026-03-12'
-date: "2026-03-12"
 ---
 # How to Keep Your Screen Awake Using Chrome Screen Wake Lock API
 
@@ -106,6 +105,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Web Store Reviews How To Spot Fake](/chrome-web-store-reviews-how-to-spot-fake)
-* [Chrome Enable Quic Protocol Speed Boost](/chrome-enable-quic-protocol-speed-boost)
-* [Chrome Browser Management For It Admins](/chrome-browser-management-for-it-admins)
+* [How to Change Chrome Language Settings](/how-to-change-chrome-language-settings)
+* [Chrome Password Manager Not Suggesting? Here's the Fix](/chrome-password-manager-not-suggesting-fix)
+* [chrome for protonmail in chrome setup](/chrome-for-protonmail-in-chrome-setup)

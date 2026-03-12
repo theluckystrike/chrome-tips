@@ -104,6 +104,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions For Flight Price Alerts](/chrome-extensions-for-flight-price-alerts)
-* [Chrome Remote Debugging For Beginners](/chrome-remote-debugging-for-beginners)
-* [Chrome For Private Browsing Tips Beyond Incognito](/chrome-for-private-browsing-tips-beyond-incognito)
+* [Chrome Idle Detection API Explained: What It Means for Your Browser](/chrome-idle-detection-api-explained)
+* [chrome zoom default change](/chrome-zoom-default-change)
+* [Chrome Navigate to Next Search Result Shortcut](/chrome-navigate-to-next-search-result-shortcut)

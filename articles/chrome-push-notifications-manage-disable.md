@@ -87,6 +87,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions For Teachers 2026](/chrome-extensions-for-teachers-2026)
-* [Chrome Extensions For Form Auto Filler](/chrome-extensions-for-form-auto-filler)
-* [Chrome Camera Microphone Permission Manage](/chrome-camera-microphone-permission-manage)
+* [Chrome Session Restore Not Working Fix](/chrome-session-restore-not-working-fix)
+* [Chrome Scrolling is Choppy and Laggy](/chrome-scrolling-is-choppy-and-laggy)
+* [Chrome Memory Leak Detection Guide](/chrome-memory-leak-detection)

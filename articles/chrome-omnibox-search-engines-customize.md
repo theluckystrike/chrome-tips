@@ -88,6 +88,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Video Playback Speed Control](/chrome-tips/chrome-extensions-for-video-playback-speed-control/)
-- [Best Chrome Extensions for Writers 2026](/chrome-tips/best-chrome-extensions-for-writers-2026/)
-- [Chrome Side Panel — How to Use It Effectively](/chrome-tips/chrome-side-panel-how-to-use/)
+* [Chrome Video Playback Stuttering Fix: A Practical Guide for Slow Computers](/chrome-video-playback-stuttering-fix)
+* [Chrome Multiple Profiles How to Switch Fast](/chrome-multiple-profiles-how-to-switch-fast)
+* [chrome offline google docs how to enable](/chrome-offline-google-docs-how-to-enable)

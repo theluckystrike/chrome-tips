@@ -4,7 +4,7 @@ description: "Discover how Chrome Extensions For Citation Generator can transfor
   browsing. This comprehensive 2026 guide covers the best Chrome extensions and settin...
 date: 2026-03-10
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-citation-generator/
+permalink: chrome-extensions-for-citation-generator
 ---
 # Chrome Extensions for Citation Generator
 

@@ -77,6 +77,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Process Per Tab Why And How To Change](/chrome-process-per-tab-why-and-how-to-change)
-* [Chrome Inert Attribute Disable Interaction](/chrome-inert-attribute-disable-interaction)
-* [Chrome Zoom Level How To Set Default](/chrome-zoom-level-how-to-set-default)
+* [Why Chrome Uses Separate Process for Each Tab](/why-chrome-uses-separate-process-for-each-tab)
+* [Chrome Extensions for Spotify](/chrome-extensions-for-spotify)
+* [Chrome Slow on 10 Year Old Laptop Fix](/chrome-slow-on-10-year-old-laptop-fix)

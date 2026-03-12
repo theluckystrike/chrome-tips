@@ -8,7 +8,7 @@ categories: [extensions, development, chrome]
 tags: [chrome-extensions, developer-mode, load-unpacked, debugging, chrome-devtools]
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-developer-mode-extensions/
+permalink: chrome-developer-mode-extensions
 ---
 # Chrome Developer Mode Extensions Guide
 

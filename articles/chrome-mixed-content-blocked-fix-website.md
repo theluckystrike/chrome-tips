@@ -90,6 +90,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome HTTPS Only Mode How to Enable](/chrome-tips/chrome-https-only-mode-how-to-enable/)
-- [Chrome Extensions for Pocket Alternative](/chrome-tips/chrome-extensions-for-pocket-alternative/)
-- [How to Use Chrome Net Internals to Clear DNS Cache](/chrome-tips/chrome-net-internals-dns-clear-cache/)
+* [Chrome Ads on Phone How to Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+* [Chrome JetStream Score What Is Good](/chrome-jetstream-score-what-is-good)
+* [chrome next dns setup for ad blocking](/chrome-next-dns-setup-for-ad-blocking)

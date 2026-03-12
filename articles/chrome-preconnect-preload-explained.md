@@ -102,6 +102,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Productivity Dashboard New Tab](/chrome-for-productivity-dashboard-new-tab)
-* [Chrome Best Note Taking Extension 2026](/chrome-best-note-taking-extension-2026)
-* [Chrome Font Fingerprinting Explained And Fix](/chrome-font-fingerprinting-explained-and-fix)
+* [chrome how to allow popups for one site](/chrome-how-to-allow-popups-for-one-site)
+* [Chrome for Website Monitoring Extensions](/chrome-for-website-monitoring-extensions)
+* [chrome high contrast mode how to enable](/chrome-high-contrast-mode-how-to-enable)

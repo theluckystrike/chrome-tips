@@ -88,6 +88,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Wikipedia Enhanced Reading](/chrome-for-wikipedia-enhanced-reading)
-* [Chrome Extensions For Pocket Alternative](/chrome-extensions-for-pocket-alternative)
-* [Chrome For Adobe Creative Cloud Web Tips](/chrome-for-adobe-creative-cloud-web-tips)
+* [Chrome Cache Folder Size and Location: Complete Guide](/chrome-cache-folder-size-and-location)
+* [Chrome vs Firefox 2026 Comparison](/chrome-vs-firefox-2026)
+* [How to Set Up Chrome Profiles for Work and Personal](/how-to-set-up-chrome-profiles-for-work-and-personal)

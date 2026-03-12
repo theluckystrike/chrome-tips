@@ -13,7 +13,7 @@ tags:
 - productivity
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-developer-tools-shortcut/
+permalink: chrome-developer-tools-shortcut
 ---
 # Chrome Developer Tools Shortcut
 

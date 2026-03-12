@@ -6,8 +6,8 @@ date: 2026-01-15
 categories: [api, web-development, chrome]
 tags: [chrome-nfc, web-nfc, nfc-api, browser-api, javascript]
 author: theluckystrike
+permalink: chrome-nfc-api-web-nfc-explained
 last_modified_at: '2026-03-12'
-permalink: "chrome-nfc-api-web-nfc-explained"
 ---
 # Chrome NFC API: Web NFC Explained
 
@@ -71,6 +71,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Activity Controls What They Track](/chrome-tips/chrome-activity-controls-what-they-track/)
-- [Chrome Managed Bookmarks for Employees](/chrome-tips/chrome-managed-bookmarks-for-employees/)
-- [Chrome Utility Process What Is It](/chrome-tips/chrome-utility-process-what-is-it/)
+* [Chrome Not Responding Windows 10 Fix](/chrome-not-responding-windows-10-fix)
+* [chrome protected audience api explained](/chrome-protected-audience-api-explained)
+* [Chrome Tab Color Coding How to Use](/chrome-tab-color-coding-how-to-use)

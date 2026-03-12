@@ -101,6 +101,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Media Session Api Music Controls](/chrome-media-session-api-music-controls)
-* [Chrome Parental Controls How To Set Up](/chrome-parental-controls-how-to-set-up)
-* [Chrome Layer Cascade Css](/chrome-layer-cascade-css)
+* [Chrome Related Website Sets Explained](/chrome-related-website-sets-explained)
+* [Chrome Tabs Keep Reloading When I Switch Back](/chrome-tabs-keep-reloading-when-i-switch-back)
+* [chrome reopen accidentally closed tab how](/chrome-reopen-accidentally-closed-tab-how)

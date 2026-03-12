@@ -83,6 +83,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Extensions for Website Monitoring Changes](/chrome-tips/chrome-extensions-for-website-monitoring-changes/)
-- [Chrome Reduce Memory Usage Android - Complete Guide](/chrome-tips/chrome-reduce-memory-usage-android/)
-- [Chrome Audio Fingerprinting What It Is](/chrome-tips/chrome-audio-fingerprinting-what-it-is/)
+* [chrome for rosetta stone web tips](/chrome-for-rosetta-stone-web-tips)
+* [How to Disable Chrome Background Sync to Save Battery](/chrome-background-sync-disable-save-battery)
+* [Chrome Web Vitals Optimization Guide](/chrome-web-vitals-optimization)

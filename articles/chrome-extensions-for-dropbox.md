@@ -5,7 +5,7 @@ description: "Discover how Chrome Extensions For Dropbox can transform your brow
   boost...
 date: 2026-03-12
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-dropbox/
+permalink: chrome-extensions-for-dropbox
 ---
 Chrome extensions for Dropbox can transform how you work with cloud storage. If you use Dropbox to store and share files, adding the right extensions to your browser can save you time, help you stay organized, and make collaboration with others much easier. Let me walk you through what these extensions do, why they are useful, and how you can start using them today.
 

@@ -15,7 +15,7 @@ tags:
 - developer-tools
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-devtools-css-overview-panel/
+permalink: chrome-devtools-css-overview-panel
 ---
 # Chrome DevTools CSS Overview Panel
 

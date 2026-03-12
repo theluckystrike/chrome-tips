@@ -75,6 +75,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions For College Professors](/chrome-extensions-for-college-professors)
-* [Chrome Dark Mode Force All Websites](/chrome-dark-mode-force-all-websites)
-* [Chrome Extension Manifest V3 What Users Need To Know](/chrome-extension-manifest-v3-what-users-need-to-know)
+* [Chrome Extensions for SEO Analysis Free](/chrome-extensions-for-seo-analysis-free)
+* [Chrome Cookies Explained Simply](/chrome-cookies-explained-simply)
+* [Chrome Parental Controls Without Extension](/chrome-parental-controls-without-extension)

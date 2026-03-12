@@ -16,7 +16,7 @@ tags:
 - theme
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-devtools-dark-theme-how-to-enable/
+permalink: chrome-devtools-dark-theme-how-to-enable
 ---
 # Chrome DevTools Dark Theme How to Enable
 

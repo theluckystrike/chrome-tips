@@ -5,7 +5,6 @@ description: "Understanding the difference between modal and non-modal popovers 
   the Chrome Popover API and how they affect your browsing experience.
 permalink: chrome-popover-api-modal-vs-non-modal
 last_modified_at: '2026-03-12'
-date: "2026-03-12"
 ---
 If you have been exploring Chrome is newest web features, you might have come across the Popover API and wondered what the difference is between modal and non-modal popovers. This distinction matters because it affects how you interact with websites, how popovers behave on your screen, and what happens when you try to close them. Let break down what these terms mean and why they matter for your browsing experience.
 

@@ -90,6 +90,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Why Is Chrome Slower Than Firefox](/why-is-chrome-slower-than-firefox)
-* [Chrome Bookmarks Disappeared After Update](/chrome-bookmarks-disappeared-after-update)
-* [Chrome Referrer Policy Best Practices](/chrome-referrer-policy-best-practices)
+* [Chrome Navigation Timing API Explained](/chrome-navigation-timing-api-explained)
+* [Best Chrome Themes 2026](/best-chrome-themes-2026)
+* [Chrome Mailto Link Not Working Fix](/chrome-mailto-link-not-working-fix)

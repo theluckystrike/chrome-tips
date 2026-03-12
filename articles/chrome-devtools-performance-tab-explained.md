@@ -75,6 +75,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)
-* [Chrome Autofill Settings Complete](/chrome-autofill-settings-complete)
-* [Chrome Google Drive Integration Tips](/chrome-google-drive-integration-tips)
+* [chrome floating video window how to use](/chrome-floating-video-window-how-to-use)
+* [Chrome OS vs Windows for Everyday Use](/chrome-os-vs-windows-for-everyday-use)
+* [Chrome Version How to Check Which Version](/chrome-version-how-to-check-which-version)

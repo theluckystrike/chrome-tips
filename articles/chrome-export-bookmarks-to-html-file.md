@@ -6,8 +6,8 @@ date: 2026-01-16
 categories: [tips, bookmarks]
 tags: [chrome, bookmarks, html, backup, export]
 author: theluckystrike
+permalink: chrome-export-bookmarks-to-html-file
 last_modified_at: '2026-03-12'
-permalink: "chrome-export-bookmarks-to-html-file"
 ---
 # How to Chrome Export Bookmarks to HTML File
 
@@ -70,6 +70,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
-* [Chrome Reading Mode Ai Summary Feature](/chrome-reading-mode-ai-summary-feature)
-* [How To Enable Chrome Smooth Scrolling](/how-to-enable-chrome-smooth-scrolling)
+* [Chrome Sharing Screen in Video Calls](/chrome-sharing-screen-in-video-calls)
+* [How to Group Tabs in Chrome 2026](/how-to-group-tabs-in-chrome-2026)
+* [Chrome Same Site Cookies Explained](/chrome-same-site-cookies-explained)

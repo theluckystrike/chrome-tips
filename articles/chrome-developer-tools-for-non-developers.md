@@ -14,7 +14,7 @@ tags:
 - browser-tools
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-developer-tools-for-non-developers/
+permalink: chrome-developer-tools-for-non-developers
 ---
 # Chrome Developer Tools for Non Developers
 

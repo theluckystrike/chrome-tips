@@ -14,7 +14,7 @@ tags:
 - privacy
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-ctrl-shift-delete-shortcut-what-it-does/
+permalink: chrome-ctrl-shift-delete-shortcut-what-it-does
 ---
 # Chrome Ctrl Shift Delete Shortcut What It Does
 

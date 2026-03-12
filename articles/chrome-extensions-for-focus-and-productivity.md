@@ -5,7 +5,7 @@ description: "Discover how Chrome Extensions For Focus And Productivity can tran
   se...
 date: 2026-03-09
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-focus-and-productivity/
+permalink: chrome-extensions-for-focus-and-productivity
 ---
 # Chrome Extensions for Focus and Productivity
 

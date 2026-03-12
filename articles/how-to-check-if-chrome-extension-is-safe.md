@@ -86,6 +86,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Developer Tools Shortcut](/chrome-developer-tools-shortcut)
-* [Best Chrome Extensions For Video Editors](/best-chrome-extensions-for-video-editors)
-* [Chrome Compute Pressure Api Explained](/chrome-compute-pressure-api-explained)
+* [Best Chrome Extensions for Language Learning](/best-chrome-extensions-for-language-learning)
+* [chrome trusted types dom xss prevent](/chrome-trusted-types-dom-xss-prevent)
+* [What Is Chrome Paint Holding and How It Speeds Up Page Load](/chrome-paint-holding-page-load)

@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Chrome Referrer Policy Best Practices
-description: "Learn how to configure Chrome referrer policy for better privacy and security. Discover the different policy options and when to use each one........."
+description: Learn how to configure Chrome referrer policy for better privacy and security. Discover the different policy options and when to use each one.
+permalink: chrome-referrer-policy-best-practices
 last_modified_at: '2026-03-12'
-permalink: "chrome-referrer-policy-best-practices"
-date: "2026-03-12"
 ---
 # Chrome Referrer Policy Best Practices
 
@@ -82,6 +81,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Webgl Crashing My Browser](/chrome-webgl-crashing-my-browser)
-* [Why Is Chrome Still Most Popular Browser](/why-is-chrome-still-most-popular-browser)
-* [Chrome Keyboard Shortcuts For Power Users](/chrome-keyboard-shortcuts-for-power-users)
+* [Chrome Tabs on Top vs Bottom: How to Change](/chrome-tabs-on-top-vs-bottom-how-to-change)
+* [Chrome for Deepl Translator Extension](/chrome-for-deepl-translator-extension)
+* [Chrome Default Search Engine Changed How to Fix](//chrome-default-search-engine-changed-how-to-fix/)

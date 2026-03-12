@@ -6,8 +6,8 @@ date: 2026-03-12
 categories: [chrome, web-development, background-sync, pwa]
 tags: [chrome, periodic-background-sync, api, progressive-web-app, offline]
 author: theluckystrike
+permalink: chrome-periodic-background-sync-api
 last_modified_at: '2026-03-12'
-permalink: "chrome-periodic-background-sync-api"
 ---
 # Chrome Periodic Background Sync API: Complete Guide
 
@@ -104,6 +104,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Virtual Keyboard API for Mobile - Complete Guide](/chrome-tips/chrome-virtual-keyboard-api-mobile/)
-- [Chrome Extensions for Freelancers](/chrome-tips/chrome-extensions-for-freelancers/)
-- [Chrome CSS Masonry Layout Proposal - What You Need to Know](/chrome-tips/chrome-css-masonry-layout-proposal/)
+* [Chrome Multiple Profiles Setup: Complete Guide for 2026](/chrome-multiple-profiles-setup)
+* [Chrome Bookmarks Disappeared — How to Recover Your Lost Bookmarks](/chrome-bookmarks-disappeared-how-to-recover)
+* [Chromebook for Seniors Setup Guide](/chromebook-for-seniors-setup-guide)

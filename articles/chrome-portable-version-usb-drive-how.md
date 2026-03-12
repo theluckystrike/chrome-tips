@@ -99,6 +99,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Walmart Grocery Web Tips](/chrome-for-walmart-grocery-web-tips)
-* [Chrome New Tab Extensions Aesthetic 2026](/chrome-new-tab-extensions-aesthetic-2026)
-* [Chrome Release Schedule When Next Update](/chrome-release-schedule-when-next-update)
+* [Chrome Lighthouse Audit Complete Guide](/chrome-lighthouse-audit-guide)
+* [Chrome Multiple Users Same Computer Setup](/chrome-multiple-users-same-computer-setup)
+* [chrome print page shortcut](/chrome-print-page-shortcut)

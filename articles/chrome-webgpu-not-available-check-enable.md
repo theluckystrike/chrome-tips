@@ -124,6 +124,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extension Popup Page Tutorial](/chrome-extension-popup-page-tutorial)
-* [How To Enable Chrome Tab Hover Previews](/how-to-enable-chrome-tab-hover-previews)
-* [Chrome Os Vs Windows For Basic Use](/chrome-os-vs-windows-for-basic-use)
+* [Chrome for PDF Editing Best Extensions](/chrome-for-pdf-editing-best-extensions)
+* [How to Enable Chrome Parallel Downloading](/how-to-enable-chrome-parallel-downloading)
+* [Chrome Developer Tools for Non Developers](//chrome-developer-tools-for-non-developers/)

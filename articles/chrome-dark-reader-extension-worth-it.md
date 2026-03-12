@@ -14,7 +14,7 @@ tags:
 - accessibility
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-dark-reader-extension-worth-it/
+permalink: chrome-dark-reader-extension-worth-it
 ---
 # Is the Chrome Dark Reader Extension Worth It?
 

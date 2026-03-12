@@ -4,7 +4,7 @@ description: "Discover how Chrome Extensions For Cashback Shopping can transform
   browsing. This comprehensive 2026 guide covers the best Chrome extensions and setting...
 date: 2026-03-10
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-cashback-shopping/
+permalink: chrome-extensions-for-cashback-shopping
 ---
 # Chrome Extensions for Cashback Shopping
 

@@ -109,6 +109,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Captured Surface Control Zoom](/chrome-captured-surface-control-zoom)
-* [Chrome Hardware Acceleration Guide](/chrome-hardware-acceleration-guide)
-* [Chrome Browser Fingerprint How To Check Yours](/chrome-browser-fingerprint-how-to-check-yours)
+* [chrome for dual monitor tab management](/chrome-for-dual-monitor-tab-management)
+* [Chrome Scrolling Lag Fix](/chrome-scrolling-lag-fix)
+* [chrome google tasks integration tips](/chrome-google-tasks-integration-tips)

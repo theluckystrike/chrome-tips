@@ -60,6 +60,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chromebook Parental Controls How To Set Up](/chromebook-parental-controls-how-to-set-up)
-* [Chrome Site Isolation What It Means](/chrome-site-isolation-what-it-means)
-* [Chrome Autocomplete Wrong Suggestions How To Fix](/chrome-autocomplete-wrong-suggestions-how-to-fix)
+* [chrome for tiktok web best settings](/chrome-for-tiktok-web-best-settings)
+* [chrome extensions for web clipping](/chrome-extensions-for-web-clipping)
+* [Chrome Location Access for One Site How to Allow](/chrome-location-access-for-one-site-how-to-allow)

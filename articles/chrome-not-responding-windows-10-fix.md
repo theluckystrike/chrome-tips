@@ -92,6 +92,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [How to Update Chrome on iPhone](/chrome-tips/how-to-update-chrome-on-iphone/)
-- [Chrome Cookie Consent Popups How to Handle](/chrome-tips/chrome-cookie-consent-popups-how-to-handle/)
-- [Chrome Startup Time How to Measure](/chrome-tips/chrome-startup-time-how-to-measure/)
+* [Chrome Bookmarks Bar Show Hide Shortcut](/chrome-bookmarks-bar-show-hide-shortcut)
+* [chrome google photos integration tips](/chrome-google-photos-integration-tips)
+* [How to Use Chrome on Two Monitors](/how-to-use-chrome-on-two-monitors)

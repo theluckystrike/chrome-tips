@@ -6,7 +6,7 @@ description: "Learn how to use Chrome DevTools device orientation emulator to te
   how t
 date: '2026-03-09'
 last_modified_at: '2026-03-12'
-permalink: /chrome-devtools-device-orientation-emulator/
+permalink: chrome-devtools-device-orientation-emulator
 ---
 If you have ever built or tested a website that responds to how you hold your phone, you have probably wished there was an easier way to check if it works without grabbing your actual device. That is where the chrome devtools device orientation emulator comes in. This handy tool lets you simulate different phone orientations and movements right from your desktop browser, making it much easier to test motion-sensitive features without needing a physical device in your hand.
 

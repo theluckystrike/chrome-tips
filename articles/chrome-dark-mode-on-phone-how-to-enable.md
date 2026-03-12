@@ -14,7 +14,7 @@ tags:
 - theme
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-dark-mode-on-phone-how-to-enable/
+permalink: chrome-dark-mode-on-phone-how-to-enable
 ---
 # Chrome Dark Mode on Phone How to Enable
 

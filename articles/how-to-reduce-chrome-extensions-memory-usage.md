@@ -97,6 +97,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Devtools Webauthn Debugger](/chrome-devtools-webauthn-debugger)
-* [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
-* [Chrome Extension Settings Sync Across Devices](/chrome-extension-settings-sync-across-devices)
+* [chrome on raspberry pi how to install](/chrome-on-raspberry-pi-how-to-install)
+* [How to Improve Your Chrome Lighthouse Performance Score](/chrome-lighthouse-performance-score-improve)
+* [Chrome Time to First Byte Explained](/chrome-time-to-first-byte-explained)

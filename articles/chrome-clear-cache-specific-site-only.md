@@ -105,6 +105,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Downloads Tips Organize And Manage](/chrome-downloads-tips-organize-and-manage)
-* [Chrome Extensions For Nurses Healthcare](/chrome-extensions-for-nurses-healthcare)
-* [Chrome For News Feed Eradicator Setup](/chrome-for-news-feed-eradicator-setup)
+* [How to Stop Chrome from Eating Your RAM](/how-to-stop-chrome-from-eating-ram)
+* [4GB RAM Laptop Best Browser Settings](/4gb-ram-laptop-best-browser-settings)
+* [Chrome Lazy Loading Images How It Works](/chrome-lazy-loading-images-how-it-works)

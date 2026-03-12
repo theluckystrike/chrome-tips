@@ -76,6 +76,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Content Filtering For Families](/chrome-content-filtering-for-families)
-* [Chrome Font Editor In Devtools Explained](/chrome-font-editor-in-devtools-explained)
-* [Chrome For Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)
+* [Chrome for Focus Music Playlists Extensions](/chrome-for-focus-music-playlists-extensions)
+* [Chrome Telemetry What Data Google Collects](/chrome-telemetry-what-data-google-collects)
+* [Chrome for Spotify Web Player Optimization](/chrome-for-spotify-web-player-optimization)

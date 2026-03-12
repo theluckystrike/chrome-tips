@@ -76,6 +76,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Session Storage Vs Local Storage](/chrome-session-storage-vs-local-storage)
-* [Chrome Journeys History Feature Explained](/chrome-journeys-history-feature-explained)
-* [Chrome Speed Comparison Test How To Run](/chrome-speed-comparison-test-how-to-run)
+* [chrome reader mode how to turn on 2026](/chrome-reader-mode-how-to-turn-on-2026)
+* [Chrome DevTools Shadow DOM Inspector](/chrome-devtools-shadow-dom-inspector)
+* [Chrome Extensions for Grammar Checking](/chrome-extensions-for-grammar-checking)

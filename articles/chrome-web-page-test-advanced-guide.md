@@ -76,6 +76,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Block Inappropriate Content For Kids](/chrome-block-inappropriate-content-for-kids)
-* [Chrome For Mondaycom Best Extensions](/chrome-for-mondaycom-best-extensions)
-* [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
+* [Chrome Browser Management for IT Admins](/chrome-browser-management-for-it-admins)
+* [Chrome for Hiding Social Media Feeds](/chrome-for-hiding-social-media-feeds)
+* [Chrome for Removing YouTube Recommendations](/chrome-for-removing-youtube-recommendations)

@@ -74,6 +74,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Should I Switch To Firefox For Less Ram](/should-i-switch-to-firefox-for-less-ram)
-* [How To Enable Chrome Smooth Scrolling](/how-to-enable-chrome-smooth-scrolling)
-* [Chrome Translate Not Working Fix](/chrome-translate-not-working-fix)
+* [chrome google docs keyboard shortcuts](/chrome-google-docs-keyboard-shortcuts)
+* [Best Chrome Extensions for Recruiters](/best-chrome-extensions-for-recruiters)
+* [Chrome Update Stuck? Here's How to Fix It on Windows](/chrome-update-stuck-fix-windows)

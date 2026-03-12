@@ -15,7 +15,7 @@ tags:
 - troubleshooting
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-devtools-application-panel-explained/
+permalink: chrome-devtools-application-panel-explained
 ---
 # Chrome Devtools Application Panel Explained
 

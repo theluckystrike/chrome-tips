@@ -118,6 +118,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Update Made It Slower Fix](/chrome-update-made-it-slower-fix)
-* [Chrome Extensions For Canva Companion](/chrome-extensions-for-canva-companion)
-* [Chrome Preferences File What It Contains](/chrome-preferences-file-what-it-contains)
+* [Best Lightweight Browsers for Chromebook](/best-lightweight-browsers-for-chromebook)
+* [chrome for codesandbox optimization](/chrome-for-codesandbox-optimization)
+* [Chrome Related Website Sets Explained](/chrome-related-website-sets-explained)

@@ -67,6 +67,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Android Dark Mode How to Enable](/chrome-tips/chrome-android-dark-mode-how-to-enable/)
-- [chrome extensions for wireframe design](/chrome-tips/chrome-extensions-for-wireframe-design/)
-- [Chrome Guest Mode vs Incognito Mode: What''s the Difference?](/chrome-tips/chrome-guest-mode-vs-incognito-difference/)
+* [Chrome Font Palette CSS Explained](/chrome-font-palette-css-explained)
+* [Chrome Device Emulation Advanced Guide](//chrome-device-emulation-advanced/)
+* [Chrome Extensions for Sales Prospecting](/chrome-extensions-for-sales-prospecting)

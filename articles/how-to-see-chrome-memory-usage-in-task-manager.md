@@ -6,8 +6,8 @@ date: 2026-01-15
 categories: [performance, troubleshooting]
 tags: [chrome-task-manager, memory-usage, browser-tools, chrome-tips]
 author: theluckystrike
+permalink: how-to-see-chrome-memory-usage-in-task-manager
 last_modified_at: '2026-03-12'
-permalink: "how-to-see-chrome-memory-usage-in-task-manager"
 ---
 # How to See Chrome Memory Usage in Task Manager
 
@@ -76,6 +76,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Zillow Best Extensions](/chrome-for-zillow-best-extensions)
-* [Chrome Extensions For Pdf Editing Free](/chrome-extensions-for-pdf-editing-free)
-* [Chrome Extensions For Designers 2026](/chrome-extensions-for-designers-2026)
+* [Chrome Toolbar Customization Tips](/chrome-toolbar-customization-tips)
+* [Chrome for NFT Browsing Extensions](/chrome-for-nft-browsing-extensions)
+* [Chrome for Clearing Browsing Data Automatically](/chrome-for-clearing-browsing-data-automatically)

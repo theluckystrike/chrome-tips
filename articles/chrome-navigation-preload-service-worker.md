@@ -56,6 +56,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Startup Too Slow Diagnosis Guide](/chrome-tips/chrome-startup-too-slow-diagnosis-guide/)
-- [Chrome for Music Discovery Extensions](/chrome-tips/chrome-for-music-discovery-extensions/)
-- [chrome for monday.com best extensions](/chrome-tips/chrome-for-mondaycom-best-extensions/)
+* [Chrome Slow on Your Old MacBook? Here's How to Fix It](/chrome-slow-on-old-macbook-fix)
+* [chrome for kayak price alerts extension](/chrome-for-kayak-price-alerts-extension)
+* [Chrome Gesture Navigation Complete Guide](/chrome-gesture-navigation)

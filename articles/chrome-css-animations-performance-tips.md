@@ -16,7 +16,7 @@ tags:
 - web-design
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-css-animations-performance-tips/
+permalink: chrome-css-animations-performance-tips
 ---
 # Chrome CSS Animations Performance Tips
 

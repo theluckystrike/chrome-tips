@@ -5,7 +5,7 @@ description: "Discover how Chrome Extensions For Cold Email Outreach can transfo
   setti...
 date: 2026-03-09
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-cold-email-outreach/
+permalink: chrome-extensions-for-cold-email-outreach
 ---
 # Chrome Extensions for Cold Email Outreach
 

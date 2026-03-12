@@ -77,6 +77,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Hijacked Homepage Fix](/chrome-hijacked-homepage-fix)
-* [Chrome Extensions For Email Finder](/chrome-extensions-for-email-finder)
-* [Chrome Shortcuts On Desktop How To Create](/chrome-shortcuts-on-desktop-how-to-create)
+* [Chrome Web and App Activity How to Delete](/chrome-web-and-app-activity-how-to-delete)
+* [Chrome Extensions Using Too Much Memory](/chrome-extensions-using-too-much-memory)
+* [Chrome Extension Marketing Tips to Grow Your User Base](/chrome-extension-marketing-tips-grow-users)

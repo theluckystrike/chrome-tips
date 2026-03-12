@@ -95,6 +95,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Voice Search How To Use On Desktop](/chrome-voice-search-how-to-use-on-desktop)
-* [Chrome Downloads Folder How To Change Location](/chrome-downloads-folder-how-to-change-location)
-* [Chrome Opens On Startup Windows How To Stop](/chrome-opens-on-startup-windows-how-to-stop)
+* [Must Have Chrome Extensions for Students](/must-have-chrome-extensions-for-students)
+* [Chrome Client Hints Explained for Beginners](/chrome-client-hints-explained-for-beginners)
+* [chrome new tab page how to customize](/chrome-new-tab-page-how-to-customize)

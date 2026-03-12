@@ -14,6 +14,7 @@ tags:
 - chrome-tips
 - productivity
 author: theluckystrike
+permalink: chrome-tab-hover-preview-cards-enable
 last_modified_at: '2026-03-12'
 ---
 # How to Enable Chrome Tab Hover Preview Cards
@@ -116,6 +117,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How To Allow Pop Ups For One Site In Chrome](/how-to-allow-pop-ups-for-one-site-in-chrome)
-* [Chrome Extensions For Ublock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
-* [Chrome Slow Only On My Computer Not Others](/chrome-slow-only-on-my-computer-not-others)
+* [Chrome Referrer Policy Best Practices](/chrome-referrer-policy-best-practices)
+* [Chrome New Tab Page Minimalist Extensions](/chrome-new-tab-page-minimalist-extensions)
+* [Chrome Extensions For Cookie Editor Manager](//articles/chrome-extensions-for-cookie-editor-manager/)

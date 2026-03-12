@@ -191,6 +191,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions For Saving Articles Offline](/chrome-extensions-for-saving-articles-offline)
-* [How To Enable Chrome Reading List](/how-to-enable-chrome-reading-list)
-* [Chrome For Academic Paper Reading Extensions](/chrome-for-academic-paper-reading-extensions)
+* [How to Reduce Chrome Memory Usage](/how-to-reduce-chrome-memory-usage)
+* [Chrome requestStorageAccess Explained](/chrome-requestStorageAccess-explained)
+* [chrome extensions for screen dimmer](/chrome-extensions-for-screen-dimmer)

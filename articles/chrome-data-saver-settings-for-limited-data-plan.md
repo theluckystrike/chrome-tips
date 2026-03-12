@@ -81,6 +81,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Net Export Capture Network Log](/chrome-net-export-capture-network-log)
-* [Chrome Tab Freezing What It Means](/chrome-tab-freezing-what-it-means)
-* [Chrome Devtools Media Queries Debugger](/chrome-devtools-media-queries-debugger)
+* [Chrome for Zotero Web Connector Setup](/chrome-for-zotero-web-connector-setup)
+* [Is the Chrome Beta Channel Worth Using](/chrome-beta-channel-worth-using)
+* [Chrome for eBay Selling Best Extensions](/chrome-for-ebay-selling-best-extensions)

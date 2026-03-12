@@ -82,6 +82,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Biometric Login How To Set Up](/chrome-tips/chrome-biometric-login-how-to-set-up/)
-- [chrome kiosk mode how to set up](/chrome-tips/chrome-kiosk-mode-how-to-set-up/)
-- [How to Group Tabs by Color in Chrome: A Complete Guide](/chrome-tips/chrome-group-tabs-by-color-organize/)
+* [Chrome vs Safari on Mac — Which Uses Less Battery?](/chrome-vs-safari-on-mac-battery)
+* [Chrome User Data Directory Explained](/chrome-user-data-directory-explained)
+* [Chrome for BitChute Web Player](/chrome-for-bitchute-web-player)

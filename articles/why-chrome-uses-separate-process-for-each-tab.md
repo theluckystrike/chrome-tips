@@ -1,10 +1,9 @@
 ---
 layout: default
 title: "Why Chrome Uses Separate Process for Each Tab"
-description: "Discover the engineering decisions behind Chrome's multi-process architecture and how it improves stability, security, and performance................"
+description: "Discover the engineering decisions behind Chrome's multi-process architecture and how it improves stability, security, and performance."
+permalink: why-chrome-uses-separate-process-for-each-tab
 last_modified_at: '2026-03-12'
-permalink: "why-chrome-uses-separate-process-for-each-tab"
-date: "2026-03-12"
 ---
 # Why Chrome Uses Separate Process for Each Tab
 
@@ -60,6 +59,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Text Cursor Indicator Visibility](/chrome-text-cursor-indicator-visibility)
-* [Chrome Downloads Stuck At 100 Percent](/chrome-downloads-stuck-at-100-percent)
-* [Chrome Extensions For Whatsapp Web](/chrome-extensions-for-whatsapp-web)
+* [Chrome Webstore Best Hidden Gems 2026](/chrome-webstore-best-hidden-gems-2026)
+* [Chrome User Data Folder Where Is It](/chrome-user-data-folder-where-is-it)
+* [Chrome VPN Extension Free Unlimited Best](/chrome-vpn-extension-free-unlimited-best)

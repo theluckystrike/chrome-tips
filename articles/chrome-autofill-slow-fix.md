@@ -75,6 +75,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Force Dark Mode On All Websites](/chrome-force-dark-mode-on-all-websites)
-* [Chromebook Android Apps Not Working Fix](/chromebook-android-apps-not-working-fix)
-* [Chrome Redirect Virus How To Remove](/chrome-redirect-virus-how-to-remove)
+* [Chrome for Xero Accounting Web Tips](/chrome-for-xero-accounting-web-tips)
+* [how to make chrome look aesthetic](/how-to-make-chrome-look-aesthetic)
+* [Chrome Extensions For Citation Generator](//articles/chrome-extensions-for-citation-generator/)

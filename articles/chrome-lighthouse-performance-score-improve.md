@@ -85,6 +85,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Slow on 10 Year Old Laptop Fix](/chrome-tips/chrome-slow-on-10-year-old-laptop-fix/)
-- [chrome for geforce now best settings](/chrome-tips/chrome-for-geforce-now-best-settings/)
-- [Chrome Remote Desktop Setup Guide](/chrome-tips/chrome-remote-desktop-setup-guide/)
+* [Chrome for Gesture Navigation Desktop](/chrome-for-gesture-navigation-desktop)
+* [Chrome Cleanup Tool Removed: What to Use Instead](/chrome-cleanup-tool-removed-what-to-use-instead)
+* [Chrome Password Autofill Stopped Working: Fix It Now](/chrome-password-autofill-stopped-working)

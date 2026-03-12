@@ -4,7 +4,7 @@ description: "Discover how Chrome Extensions For Clipboard Manager can transform
   browsing. This comprehensive 2026 guide covers the best Chrome extensions and setting...
 date: 2026-03-09
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-clipboard-manager/
+permalink: chrome-extensions-for-clipboard-manager
 ---
 # Chrome Extensions for Clipboard Manager
 

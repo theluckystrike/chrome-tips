@@ -15,7 +15,7 @@ tags:
 - web-design
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-css-grid-layout-complete-guide/
+permalink: chrome-css-grid-layout-complete-guide
 ---
 # Chrome CSS Grid Layout Complete Guide
 

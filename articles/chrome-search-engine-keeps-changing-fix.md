@@ -74,6 +74,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Vs Firefox Extensions Comparison](/chrome-vs-firefox-extensions-comparison)
-* [Is 4Gb Ram Enough For Chrome In 2026](/is-4gb-ram-enough-for-chrome-in-2026)
-* [Chrome Slow On Chromebook Fix](/chrome-slow-on-chromebook-fix)
+* [Chrome Extension Popup Page Tutorial](/chrome-extension-popup-page-tutorial)
+* [Chrome Sandboxing How It Protects You](/chrome-sandboxing-how-it-protects-you)
+* [Chrome CORS Error for Regular Users](/chrome-cors-error-for-regular-users)

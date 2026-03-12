@@ -5,7 +5,7 @@ description: "Discover how Chrome Extensions For Bulk Image Downloading can tran
   se...
 date: 2026-03-10
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-bulk-image-downloading/
+permalink: chrome-extensions-for-bulk-image-downloading
 ---
 # Chrome Extensions for Bulk Image Downloading
 

@@ -84,6 +84,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Hardware Acceleration Causes Problems](/chrome-tips/chrome-hardware-acceleration-causes-problems/)
-- [Chrome Related Website Sets Explained](/chrome-tips/chrome-related-website-sets-explained/)
-- [Chrome Encoding API Text Encoder Decoder](/chrome-tips/chrome-encoding-api-text-encoder-decoder/)
+* [chrome reopen accidentally closed tab how](/chrome-reopen-accidentally-closed-tab-how)
+* [Chrome Lazy Loading Images Explained](/chrome-lazy-loading-images-explained)
+* [Chrome Tab Discarding What It Means](/chrome-tab-discarding-what-it-means)

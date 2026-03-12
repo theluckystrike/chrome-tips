@@ -77,6 +77,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome High Contrast Mode](/chrome-high-contrast-mode)
-* [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-* [Best Browser For 2Gb Ram Laptop 2026](/best-browser-for-2gb-ram-laptop-2026)
+* [chrome topics api privacy sandbox explained](/chrome-topics-api-privacy-sandbox-explained)
+* [Chrome Extensions Keep Disabling Themselves Fix](/chrome-extensions-keep-disabling-themselves-fix)
+* [Chrome for Multiple Search Engines Switching](/chrome-for-multiple-search-engines-switching)

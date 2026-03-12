@@ -101,6 +101,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Site Search From Address Bar](/chrome-for-site-search-from-address-bar)
-* [Chrome Extensions For Google Sheets](/chrome-extensions-for-google-sheets)
-* [Chrome How To Block Specific Website Notifications](/chrome-how-to-block-specific-website-notifications)
+* [chrome for metamask setup and tips](/chrome-for-metamask-setup-and-tips)
+* [Chrome CSS Grid Debugging Guide](//chrome-css-grid-debugging/)
+* [Chrome Prerender Pages Faster Browsing: Complete Guide](/chrome-prerender-pages-faster-browsing)

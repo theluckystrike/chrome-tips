@@ -111,6 +111,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Top 10 Chrome Extensions Everyone Should Have](/top-10-chrome-extensions-everyone-should-have)
-* [Chrome Local Font Access Web Design](/chrome-local-font-access-web-design)
-* [Chrome Uses All Cpu When Idle Fix](/chrome-uses-all-cpu-when-idle-fix)
+* [Chrome High Memory Usage Windows 11](/chrome-high-memory-usage-windows-11)
+* [Chrome for Window Management Extensions](/chrome-for-window-management-extensions)
+* [Chrome ERR_NETWORK_CHANGED Fix](/chrome-err-network-changed-fix)

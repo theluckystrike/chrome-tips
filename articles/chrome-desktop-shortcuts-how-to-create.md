@@ -14,7 +14,7 @@ tags:
 - chrome-settings
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-desktop-shortcuts-how-to-create/
+permalink: chrome-desktop-shortcuts-how-to-create
 ---
 # Chrome Desktop Shortcuts How to Create
 

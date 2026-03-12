@@ -72,6 +72,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How To Block Ads On Chrome Without Extension](/how-to-block-ads-on-chrome-without-extension)
-* [Chrome Vs Vivaldi Customization Comparison](/chrome-vs-vivaldi-customization-comparison)
-* [Chrome Extensions For Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative)
+* [Chrome Extensions for Amazon FBA Sellers](/chrome-extensions-for-amazon-fba-sellers)
+* [Chrome Subgrid Layout Examples: A Complete Guide](/chrome-subgrid-layout-examples)
+* [Chrome Screen Capture API Guide](/chrome-screen-capture-api)

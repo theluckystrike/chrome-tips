@@ -5,7 +5,7 @@ description: "Discover how Chrome Extensions For Email Templates can transform y
   ...
 date: 2026-03-10
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-email-templates/
+permalink: chrome-extensions-for-email-templates
 ---
 # Chrome Extensions for Email Templates
 

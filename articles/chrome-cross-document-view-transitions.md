@@ -6,8 +6,8 @@ date: 2026-01-16
 categories: [chrome, web-development, view-transitions]
 tags: [chrome-view-transitions, web-api, css, animation, browser]
 author: theluckystrike
+permalink: chrome-cross-document-view-transitions
 last_modified_at: '2026-03-12'
-permalink: "chrome-cross-document-view-transitions"
 ---
 # Chrome Cross-Document View Transitions: A Complete Guide
 
@@ -73,6 +73,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How To Stop Chrome From Opening On Startup](/how-to-stop-chrome-from-opening-on-startup)
-* [Chrome Image Search By Url How To](/chrome-image-search-by-url-how-to)
-* [Chrome Extensions For Designers 2026](/chrome-extensions-for-designers-2026)
+* [Chrome First Meaningful Paint Deprecated Why](/chrome-first-meaningful-paint-deprecated-why)
+* [Chrome Download Manager Best Extension](/chrome-download-manager-best-extension)
+* [Chrome Recorder and DevTools: A Guide to Test Automation](/chrome-recorder-devtools-test-automation)

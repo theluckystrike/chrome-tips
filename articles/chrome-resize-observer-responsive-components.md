@@ -15,9 +15,8 @@ tags:
 - web-components
 - browser-api
 author: theluckystrike
+permalink: chrome-resize-observer-responsive-components
 last_modified_at: '2026-03-12'
-permalink: "chrome-resize-observer-responsive-components"
-date: "2026-03-12"
 ---
 # Chrome Resize Observer for Responsive Components
 
@@ -102,6 +101,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Easter Eggs Complete List 2026](/chrome-easter-eggs-complete-list-2026)
-* [Chrome Lite Mode On Android What Happened](/chrome-lite-mode-on-android-what-happened)
-* [Chrome Lite Mode Discontinued Alternatives](/chrome-lite-mode-discontinued-alternatives)
+* [Chrome Tab From Other Device Not Showing Fix](/chrome-tab-from-other-device-not-showing-fix)
+* [chrome data saver mode is it still available](//chrome-data-saver-mode-is-it-still-available/)
+* [Chrome Status Code 403 Forbidden Explained](/chrome-status-code-403-forbidden-explained)

@@ -82,6 +82,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Web Otp Api Explained](/chrome-web-otp-api-explained)
-* [Chrome Cookies Vs Cache Difference Explained](/chrome-cookies-vs-cache-difference-explained)
-* [Is 8Gb Ram Enough For Chrome With Many Tabs](/is-8gb-ram-enough-for-chrome-with-many-tabs)
+* [Chrome Browser Management for IT Admins](/chrome-browser-management-for-it-admins)
+* [Chrome Payment Handler API Guide](/chrome-payment-handler-api-guide)
+* [Chrome Permissions Policy Header Explained](/chrome-permissions-policy-header-explained)

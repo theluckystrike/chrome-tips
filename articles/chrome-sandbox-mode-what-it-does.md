@@ -66,6 +66,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Trust Tokens Guide](/chrome-trust-tokens-guide)
-* [Chrome Site Isolation Memory Overhead](/chrome-site-isolation-memory-overhead)
-* [Chrome Default Browser How To Set On Windows](/chrome-default-browser-how-to-set-on-windows)
+* [How to Enable Chrome Parallel Downloading](/how-to-enable-chrome-parallel-downloading)
+* [Best Chrome Extensions for Writers 2026](/chrome-extensions-for-writers-2026)
+* [chromebook touchscreen not working fix](/chromebook-touchscreen-not-working-fix)

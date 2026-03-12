@@ -137,6 +137,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Devtools Rendering Tab Explained](/chrome-devtools-rendering-tab-explained)
-* [Chrome Tracing For Performance Issues](/chrome-tracing-for-performance-issues)
-* [Chrome Css Nesting Ampersand Syntax](/chrome-css-nesting-ampersand-syntax)
+* [Chrome Homepage Changed by Itself Fix](/chrome-homepage-changed-by-itself-fix)
+* [Chrome Clean Install: What to Backup First](/chrome-clean-install-what-to-backup-first)
+* [Chrome Screen Capture API Guide](/chrome-screen-capture-api)

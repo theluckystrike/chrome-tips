@@ -13,9 +13,8 @@ tags:
 - browser-tools
 - debugging
 author: theluckystrike
+permalink: chrome-application-tab-devtools-guide
 last_modified_at: '2026-03-12'
-permalink: "chrome-application-tab-devtools-guide"
-date: "2026-03-12"
 ---
 # Chrome Application Tab DevTools Guide
 
@@ -73,6 +72,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extension For Email Tracking Notification](/chrome-extension-for-email-tracking-notification)
-* [Chrome This Connection Is Not Private Bypass](/chrome-this-connection-is-not-private-bypass)
-* [Chrome Spectre Vulnerability Protection](/chrome-spectre-vulnerability-protection)
+* [Chrome Web Animations API Keyframes Guide](/chrome-web-animations-api-keyframes)
+* [Chrome Streams API for Large Files](/chrome-streams-api-for-large-files)
+* [Chrome Using Too Much Disk Space Fix](/chrome-using-too-much-disk-space-fix)

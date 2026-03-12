@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Chrome Partial Prerendering Explained
-description: "Learn what Chrome partial prerendering is, how it speeds up your browsing, and how it differs from traditional page preloading techniques............."
+description: Learn what Chrome partial prerendering is, how it speeds up your browsing, and how it differs from traditional page preloading techniques.
+permalink: chrome-partial-prerendering-explained
 last_modified_at: '2026-03-12'
-permalink: "chrome-partial-prerendering-explained"
-date: "2026-03-12"
 ---
 # Chrome Partial Prerendering Explained
 
@@ -64,6 +63,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [chrome for metamask setup and tips](/chrome-tips/chrome-for-metamask-setup-and-tips/)
-- [chrome for crypto portfolio tracking web](/chrome-tips/chrome-for-crypto-portfolio-tracking-web/)
-- [chrome for shopping price comparison tools](/chrome-tips/chrome-for-shopping-price-comparison-tools/)
+* [How to Manage Chrome Camera and Microphone Permissions](/chrome-permissions-camera-microphone-manage)
+* [Chrome Extensions for Vertical Tabs Sidebar](/chrome-extensions-for-vertical-tabs-sidebar)
+* [Chrome for Google Slides Presentation Tips](/chrome-for-google-slides-presentation-tips)

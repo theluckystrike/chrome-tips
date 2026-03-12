@@ -90,6 +90,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/chrome-tips/chrome-smooth-scrolling-enable/)
-- [Chrome Extension for YouTube Ad Blocker](/chrome-tips/chrome-extension-for-youtube-ad-blocker/)
-- [Chrome Network Settings Reset How To](/chrome-tips/chrome-network-settings-reset-how-to/)
+* [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
+* [Chrome for Touchscreen Optimization Tips](/chrome-for-touchscreen-optimization-tips)
+* [chromebook touchscreen not working fix](/chromebook-touchscreen-not-working-fix)

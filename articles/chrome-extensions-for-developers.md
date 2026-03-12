@@ -5,7 +5,7 @@ description: "Discover how Best Chrome Extensions For Developers 2026 can transf
   sett...
 date: 2026-01-15
 last_modified_at: '2026-03-12'
-permalink: /articles/chrome-extensions-for-developers/
+permalink: chrome-extensions-for-developers
 ---
 # Best Chrome Extensions for Developers 2026
 

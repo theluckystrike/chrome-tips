@@ -72,6 +72,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Web Share Api Explained](/chrome-web-share-api-explained)
-* [Chrome For Twitch Buffering Fix](/chrome-for-twitch-buffering-fix)
-* [Chrome Update Failed Error 7 Fix](/chrome-update-failed-error-7-fix)
+* [chrome right to left language support](/chrome-right-to-left-language-support)
+* [Chrome Layer Cascade CSS: A Complete Guide to Modern Style Management](/chrome-layer-cascade-css)
+* [Chrome Err Connection Timed Out Fix](/chrome-err-connection-timed-out-fix)

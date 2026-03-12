@@ -14,7 +14,7 @@ tags:
 - chrome-configuration
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-default-apps-settings/
+permalink: chrome-default-apps-settings
 ---
 # Chrome Default Apps Settings: A Complete Guide
 

@@ -15,7 +15,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-custom-theme-how-to-make-your-own/
+permalink: chrome-custom-theme-how-to-make-your-own
 ---
 # Chrome Custom Theme How to Make Your Own
 

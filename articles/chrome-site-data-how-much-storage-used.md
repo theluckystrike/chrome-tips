@@ -73,6 +73,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Built In Password Checkup How To Use](/chrome-built-in-password-checkup-how-to-use)
-* [How To Check If Chrome Extension Is Spying On Me](/how-to-check-if-chrome-extension-is-spying-on-me)
-* [Chrome Immutable Cache Control Header](/chrome-immutable-cache-control-header)
+* [Chrome vs Brave Privacy Comparison](/chrome-vs-brave-privacy-comparison)
+* [Chrome Running Slow on New Laptop? Here's Why and How to Fix It](/chrome-running-slow-on-new-laptop-why)
+* [Chrome for Etsy Seller Best Extensions](/chrome-for-etsy-seller-best-extensions)

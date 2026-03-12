@@ -93,6 +93,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How To Reduce Chrome Ram Usage Windows 10](/how-to-reduce-chrome-ram-usage-windows-10)
-* [Chrome Nordvpn Extension Vs Expressvpn Extension](/chrome-nordvpn-extension-vs-expressvpn-extension)
-* [Chrome Mobile Translate Page Automatically](/chrome-mobile-translate-page-automatically)
+* [Chrome Location Access on Phone How to Control](/chrome-location-access-on-phone-how-to-control)
+* [chrome translate on phone how to use](/chrome-translate-on-phone-how-to-use)
+* [Chrome Deep Linking and Universal Links Guide](/chrome-deep-linking-universal-links-guide)

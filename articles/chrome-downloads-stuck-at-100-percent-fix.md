@@ -95,6 +95,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Telegram Web Best Settings](/chrome-for-telegram-web-best-settings)
-* [Chrome Regex Lookbehind Support](/chrome-regex-lookbehind-support)
-* [How To Enable Chrome Enhanced Safe Browsing](/how-to-enable-chrome-enhanced-safe-browsing)
+* [Chrome Extension for Spotify Lyrics](/chrome-extension-for-spotify-lyrics)
+* [Chrome Topics API Guide](/chrome-topics-api-guide)
+* [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)

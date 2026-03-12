@@ -81,6 +81,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Font Identification Extensions](/chrome-for-font-identification-extensions)
-* [Chrome Extensions For Bookmark Manager](/chrome-extensions-for-bookmark-manager)
-* [Chrome This Site Cant Be Reached Fix](/chrome-this-site-cant-be-reached-fix)
+* [Chrome Err Connection Timed Out Fix](/chrome-err-connection-timed-out-fix)
+* [Chrome Extensions for Regex Tester](/chrome-extensions-for-regex-tester)
+* [chrome for mailchimp web app tips](/chrome-for-mailchimp-web-app-tips)

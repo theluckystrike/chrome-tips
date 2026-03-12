@@ -6,8 +6,8 @@ date: 2026-01-18
 categories: [automation, chrome, screenshots, productivity]
 tags: [chrome-screenshot, command-line, batch-screenshot, headless, automation]
 author: theluckystrike
+permalink: chrome-screenshot-command-line-batch
 last_modified_at: '2026-03-12'
-permalink: "chrome-screenshot-command-line-batch"
 ---
 # Chrome Screenshot Command Line Batch: Complete Automation Guide
 
@@ -65,6 +65,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Startup Slow Too Many Extensions](/chrome-startup-slow-too-many-extensions)
-* [Chrome High Cpu Usage Nothing Open](/chrome-high-cpu-usage-nothing-open)
-* [Chrome Takes Long Time To Open First Time](/chrome-takes-long-time-to-open-first-time)
+* [How to Use Chrome Flags Safely](/how-to-use-chrome-flags-safely)
+* [Chrome Game Streaming Optimization Tips](/chrome-game-streaming-optimization-tips)
+* [Chrome Flags That Actually Make It Faster: A Practical Guide for Slow Computers](/chrome-flags-that-actually-make-it-faster)

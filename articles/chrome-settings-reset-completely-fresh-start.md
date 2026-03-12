@@ -80,6 +80,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Supervised Profiles For Kids](/chrome-supervised-profiles-for-kids)
-* [Chrome Page Speed Insights Vs Lighthouse](/chrome-page-speed-insights-vs-lighthouse)
-* [Chrome Extensions For Color Palette Picker](/chrome-extensions-for-color-palette-picker)
+* [How to Capture Full Page Screenshots in Chrome Using DevTools](/chrome-screenshot-capture-devtools-full-page)
+* [Chrome Android Flags Best Settings 2026](/chrome-android-flags-best-settings-2026)
+* [Chrome for Cold Turkey Blocker Setup](/chrome-for-cold-turkey-blocker-setup)

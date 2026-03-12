@@ -97,6 +97,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Vpn Extension Free Unlimited Best](/chrome-vpn-extension-free-unlimited-best)
-* [Chrome Canary Vs Stable Difference Explained](/chrome-canary-vs-stable-difference-explained)
-* [Chrome Slow On Old Macbook Fix](/chrome-slow-on-old-macbook-fix)
+* [Chrome New Tab Page Best Extensions](/chrome-new-tab-page-best-extensions)
+* [chrome circle to search on desktop](/chrome-circle-to-search-on-desktop)
+* [Chrome for Medium Best Reading Extensions](/chrome-for-medium-best-reading-extensions)

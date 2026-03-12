@@ -14,7 +14,7 @@ tags:
 - browser-configuration
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-default-browser-how-to-set-on-windows/
+permalink: chrome-default-browser-how-to-set-on-windows
 ---
 # Chrome Default Browser How to Set on Windows
 

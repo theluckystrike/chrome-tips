@@ -258,6 +258,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Travel Planning Best Extensions](/chrome-for-travel-planning-best-extensions)
-* [Chrome Google Drive Integration Save To Drive](/chrome-google-drive-integration-save-to-drive)
-* [Chrome Service Worker What It Does Explained](/chrome-service-worker-what-it-does-explained)
+* [How to Fix High CPU Usage in Chrome on Mac](/chrome-high-cpu-usage-fix-mac)
+* [Chrome VPN Extension Best Free Options 2026](/chrome-vpn-extension-best-free-options-2026)
+* [Chrome vs Samsung Internet for Android](/chrome-vs-samsung-internet-for-android)

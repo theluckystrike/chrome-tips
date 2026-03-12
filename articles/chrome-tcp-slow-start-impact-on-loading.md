@@ -75,6 +75,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Web Page Test Advanced Guide](/chrome-web-page-test-advanced-guide)
-* [Chrome Startup Page How To Set](/chrome-startup-page-how-to-set)
-* [Chrome Web Share Api Explained](/chrome-web-share-api-explained)
+* [Chrome Enterprise Features for Business: A Complete Guide](/chrome-enterprise-features-for-business)
+* [Chrome Extensions for Pomodoro Timer](/chrome-extensions-for-pomodoro-timer)
+* [Chrome Best Settings for Gaming](/chrome-best-settings-for-gaming)

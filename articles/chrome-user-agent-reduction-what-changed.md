@@ -88,6 +88,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Using All My Ram 4Gb Laptop Fix](/chrome-using-all-my-ram-4gb-laptop-fix)
-* [Chrome Drag Drop Tabs Between Windows](/chrome-drag-drop-tabs-between-windows)
-* [Chrome Largest Contentful Paint Optimize](/chrome-largest-contentful-paint-optimize)
+* [Best Password Manager Chrome Extension](/best-password-manager-chrome-extension)
+* [chrome for color picker extensions](/chrome-for-color-picker-extensions)
+* [chrome extensions for twitch streamers](/chrome-extensions-for-twitch-streamers)

@@ -119,6 +119,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Chrome Cookie Consent Popups How to Auto Accept](/chrome-tips/chrome-cookie-consent-popups-how-to-auto-accept/)
-- [Is Chrome Still the Best Browser in 2026?](/chrome-tips/is-chrome-still-the-best-browser-2026/)
-- [Chrome Devtools Edit HTML Live](/chrome-tips//chrome-devtools-edit-html-live//)
+* [Chrome Screenshot Command Line Batch: Complete Automation Guide](/chrome-screenshot-command-line-batch)
+* [Chrome Crashing on Samsung Galaxy Phone](/chrome-crashing-on-samsung-galaxy-phone)
+* [Chrome for Research Workflow Best Setup](/chrome-for-research-workflow-best-setup)

@@ -70,6 +70,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-- [Best Chrome Extensions for Real Estate Agents](/chrome-tips/best-chrome-extensions-for-real-estate-agents/)
-- [Chrome Extensions For Dropbox](/chrome-tips//articles/chrome-extensions-for-dropbox//)
-- [Chrome Shape Detection API – Barcode, Face & Text Recognition Directly in Your](/chrome-tips/chrome-shape-detection-barcode-face-text/)
+* [Chrome Web Animations API Keyframes Guide](/chrome-web-animations-api-keyframes)
+* [Chrome Local Font Access for Web Design](/chrome-local-font-access-web-design)
+* [Chrome Safe Browsing: What It Does and How It Protects You](/chrome-safe-browsing-what-it-does)

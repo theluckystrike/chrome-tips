@@ -15,7 +15,7 @@ tags:
 - browser-configuration
 author: theluckystrike
 last_modified_at: '2026-03-12'
-permalink: /chrome-default-browser-how-to-set-on-mac/
+permalink: chrome-default-browser-how-to-set-on-mac
 ---
 # Chrome Default Browser How to Set on Mac
 

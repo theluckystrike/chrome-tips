@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Chrome Profile Specific Extensions How to Set"
-description: "Learn how to install and manage extensions for specific Chrome profiles to keep your work and personal browsing organized."
+title: Chrome Profile Specific Extensions How to Set
+description: Learn how to install and manage extensions for specific Chrome profiles
+  to keep your work and personal browsing organized. Learn how to optimize your browser...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-profile-specific-extensions-how-to-set
 ---
-
 How do you set chrome profile specific extensions? If you use Chrome profiles to separate your work and personal browsing, you might have wanted certain extensions to only appear in one profile but not the other. Maybe you need your password manager at work but not for personal browsing, or you want different ad blockers for different profiles. This is a common need that many Chrome users have, and there are ways to handle it.
 
 Let me walk you through what your options are for managing extensions on a per-profile basis and how you can set things up the way you want.

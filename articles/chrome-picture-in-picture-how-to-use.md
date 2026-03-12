@@ -2,7 +2,8 @@
 layout: post
 title: Chrome Picture in Picture How to Use
 description: Learn how to use Chrome's Picture in Picture feature to watch videos
-  in a floating window while browsing other tabs.
+  in a floating window while browsing other tabs. Learn how to optimize your browser
+  today...
 date: 2025-03-14
 categories:
 - features
@@ -14,10 +15,9 @@ tags:
 - multitasking
 - chrome-features
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /chrome-picture-in-picture-how-to-use/
+last_modified_at: '2026-03-11'
+permalink: chrome-picture-in-picture-how-to-use
 ---
-
 # Chrome Picture in Picture How to Use
 
 If you have ever wanted to watch a video while working on something else in Chrome, Picture in Picture (PiP) is exactly what you need. This feature lets you pull any video out of its webpage and into a small floating window that stays on top of everything else on your screen. You can then browse, type, or work in other tabs while the video continues playing in the corner of your display.

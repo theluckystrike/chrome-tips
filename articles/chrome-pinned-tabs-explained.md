@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Pinned Tabs Explained"
-description: "Learn what chrome pinned tabs are, why they help, and how to use them effectively to stay organized."
+title: Chrome Pinned Tabs Explained
+description: Learn what chrome pinned tabs are, why they help, and how to use them
+  effectively to stay organized. Learn how to optimize your browser today for better
+  perf...
 date: 2026-03-09
-categories: [productivity, tips]
-tags: [chrome-pinned-tabs, tab-management, browser-tips, chrome-tips]
+categories:
+- productivity
+- tips
+tags:
+- chrome-pinned-tabs
+- tab-management
+- browser-tips
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-pinned-tabs-explained
 ---
-
 # Chrome Pinned Tabs Explained
 
 If you have ever wondered what chrome pinned tabs are and whether they could help you stay more organized, you are not alone. Chrome pinned tabs explained simply are a way to keep your most important websites always accessible at the left edge of your browser, without worrying about accidentally closing them or losing them in a sea of other tabs.

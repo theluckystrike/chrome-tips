@@ -59,4 +59,11 @@ Some people prefer strict blocking that prevents any access to distracting sites
 
 With the right chrome extension for focus mode block distractions, you can take control of your attention and accomplish more each day. Give it a try and see how much more you can achieve when distractions are out of the way.
 
+
+
+### Related Articles
+- [Chrome Extension For Reading Mode Distraction Free](/chrome-extension-for-reading-mode-distraction-free)
+- [Chrome For Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension)
+- [Best Dark Mode Chrome Extension](/best-dark-mode-chrome-extension)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

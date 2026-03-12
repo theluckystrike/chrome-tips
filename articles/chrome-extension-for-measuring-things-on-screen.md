@@ -74,4 +74,11 @@ Remember that the most useful tool is one you actually use. An extension with ev
 
 ---
 
+
+
+### Related Articles
+- [Chrome Extension For Highlighting Text On Websites](/chrome-extension-for-highlighting-text-on-websites)
+- [Chrome Extension For Tracking Time Spent On Websites](/chrome-extension-for-tracking-time-spent-on-websites)
+- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

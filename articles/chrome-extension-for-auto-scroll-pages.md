@@ -71,4 +71,11 @@ Once installed, try using it while reading a long article or blog post. Notice h
 
 Auto scroll extensions represent a small but meaningful improvement to how we interact with web content. By letting the browser handle the scrolling, we can focus more on what actually matters, the information we are reading.
 
+
+
+### Related Articles
+- [Chrome Extension For Auto Fill Forms Faster](/chrome-extension-for-auto-fill-forms-faster)
+- [Chrome Auto Dark Mode For Web Contents](/chrome-auto-dark-mode-for-web-contents)
+- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

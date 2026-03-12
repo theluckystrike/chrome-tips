@@ -68,3 +68,9 @@ Regularly review your open tabs and close anything you no longer need. It is eas
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Extensions For Adobe Companion](/chrome-extensions-for-adobe-companion)
+- [Chrome Extensions For Canva Companion](/chrome-extensions-for-canva-companion)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)

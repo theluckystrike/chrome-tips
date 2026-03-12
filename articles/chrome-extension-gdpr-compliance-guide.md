@@ -488,4 +488,11 @@ For additional privacy features in your extension workflow, consider exploring t
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*
+
+### Related Articles
+- [Chrome Extension Publish To Web Store Guide](/chrome-extension-publish-to-web-store-guide)
+- [Chrome For Screencastify Extension Guide](/chrome-for-screencastify-extension-guide)
+- [Chrome For Stayfocusd Extension Guide](/chrome-for-stayfocusd-extension-guide)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

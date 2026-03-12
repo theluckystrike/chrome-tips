@@ -58,4 +58,11 @@ Consider what matters most for your workflow. If you do light research occasiona
 
 Whatever you choose, the ability to permanently highlight text on websites changes the way you interact with online content. You no longer have to choose between marking important information and losing it. Instead, you can build a personal archive of insights that grows with your curiosity and serves your work over time.
 
+
+
+### Related Articles
+- [Chrome Extension For Tracking Time Spent On Websites](/chrome-extension-for-tracking-time-spent-on-websites)
+- [Chrome Extensions For Highlighting Text On Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Extension For Measuring Things On Screen](/chrome-extension-for-measuring-things-on-screen)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

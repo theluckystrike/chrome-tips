@@ -75,4 +75,11 @@ Remember that not every extension will be useful for every workflow. Start with 
 
 ---
 
+
+
+### Related Articles
+- [Chrome Extensions For Adobe Companion](/chrome-extensions-for-adobe-companion)
+- [Chrome Extensions For Figma Companion](/chrome-extensions-for-figma-companion)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

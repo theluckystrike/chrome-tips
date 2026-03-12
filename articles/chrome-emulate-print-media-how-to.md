@@ -74,3 +74,9 @@ Chrome print emulation helps in several practical situations. If you are prepari
 Web developers also find print emulation valuable for testing. Rather than printing multiple test pages and wasting resources, they can instantly see how their print styles work and make adjustments as needed.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome How To Print Selection Only](/chrome-how-to-print-selection-only)
+- [Chrome How To Print Without Headers Footers](/chrome-how-to-print-without-headers-footers)
+- [Chrome Media Autoplay How To Block](/chrome-media-autoplay-how-to-block)

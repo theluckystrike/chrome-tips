@@ -64,4 +64,11 @@ Finally, share what you learn with others if it helps. Discussing your findings 
 
 ---
 
+
+
+### Related Articles
+- [Chrome Extension For Highlighting Text On Websites](/chrome-extension-for-highlighting-text-on-websites)
+- [Chrome Extension For Email Tracking Notification](/chrome-extension-for-email-tracking-notification)
+- [Chrome Extension For Measuring Things On Screen](/chrome-extension-for-measuring-things-on-screen)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

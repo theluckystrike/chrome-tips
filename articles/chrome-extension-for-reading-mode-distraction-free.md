@@ -62,4 +62,11 @@ You do not need to install multiple extensions unless you want to. Often, one we
 
 The internet contains countless valuable articles and resources, but the clutter that surrounds them has made reading online a chore for many people. With the right extension in place, you can reclaim your reading time and actually enjoy the content you find online without fighting for your attention.
 
+
+
+### Related Articles
+- [Chrome For Distraction Free Reading Mode](/chrome-for-distraction-free-reading-mode)
+- [Chrome Extension For Focus Mode Block Distractions](/chrome-extension-for-focus-mode-block-distractions)
+- [Chrome Extension For Reading Speed Tracker](/chrome-extension-for-reading-speed-tracker)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

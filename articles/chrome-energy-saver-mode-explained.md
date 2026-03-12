@@ -84,4 +84,11 @@ Combined with good browsing habits like closing unused tabs and managing your ex
 
 ---
 
+
+
+### Related Articles
+- [Chrome Energy Saver Mode Guide](/chrome-energy-saver-mode-guide)
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

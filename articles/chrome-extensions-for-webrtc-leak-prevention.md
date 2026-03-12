@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for WebRTC Leak Prevention"
-description: "Learn how Chrome extensions can help prevent WebRTC leaks and protect your privacy while browsing."
+title: Chrome Extensions for WebRTC Leak Prevention
+description: Learn how Chrome extensions can help prevent WebRTC leaks and protect
+  your privacy while browsing. This guide on Chrome Extensions for WebRTC Leak Prevention...
 date: 2026-03-09
-categories: [privacy, security, extensions]
-tags: [chrome-extensions, webrtc, privacy, security]
+categories:
+- privacy
+- security
+- extensions
+tags:
+- chrome-extensions
+- webrtc
+- privacy
+- security
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-webrtc-leak-prevention
 ---
 
 # Chrome Extensions for WebRTC Leak Prevention

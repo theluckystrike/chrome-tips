@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions That Save You Time"
-description: "Discover chrome extensions that save you time by streamlining workflows, reducing distractions, and automating repetitive tasks in your browser."
+title: Chrome Extensions That Save You Time
+description: Discover chrome extensions that save you time by streamlining workflows,
+  reducing distractions, and automating repetitive tasks in your browser. This guide
+  o...
 date: 2026-03-09
-categories: [productivity, tips]
-tags: [chrome-extensions, productivity, time-saving, browser-tools]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- productivity
+- time-saving
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-that-save-you-time
 ---
 
 # Chrome Extensions That Save You Time

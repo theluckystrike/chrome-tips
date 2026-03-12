@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Extensions for YouTube Productivity"
-description: "Discover how chrome extensions for youtube productivity can transform your video workflow and help you accomplish more in less time."
+title: Chrome Extensions for YouTube Productivity
+description: Discover how chrome extensions for youtube productivity can transform
+  your video workflow and help you accomplish more in less time. This guide on Chrome
+  Ext...
 date: 2026-03-09
-categories: [productivity, youtube, tips]
-tags: [chrome-extensions, youtube, productivity, video-tools]
+categories:
+- productivity
+- youtube
+- tips
+tags:
+- chrome-extensions
+- youtube
+- productivity
+- video-tools
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-youtube-productivity
 ---
 
 # Chrome Extensions for YouTube Productivity

@@ -115,7 +115,7 @@ A-Frame also includes performance tips in its documentation—reducing the numbe
 
 ## Taking Your Project Further
 
-Once you have a basic scene working, the A-Frame ecosystem offers countless possibilities. The registry system at aframe.io，注册 allows you to browse and integrate community-created components for terrain, physics, animations, and more. Many of these components work seamlessly with Chrome and require no additional configuration.
+Once you have a basic scene working, the A-Frame ecosystem offers countless possibilities. The registry system at aframe.io allows you to browse and integrate community-created components for terrain, physics, animations, and more. Many of these components work seamlessly with Chrome and require no additional configuration.
 
 For mobile development, Chrome on Android supports WebXR directly, meaning your A-Frame experiences work on smartphones with compatible VR viewers. Chrome on iOS requires the WebXR Viewer app from Mozilla for WebXR support, though this may change as Apple's browser policies evolve.
 

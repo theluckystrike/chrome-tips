@@ -1,7 +1,12 @@
+[2026-03-12 17:31:38] [m15]   Title too long: 67 chars (max 60)
+[2026-03-12 17:31:46] [m15]   Title shortened: "Tab Suspender Pro vs Tab Groups Extension (2026)" (48 chars)
+[2026-03-12 17:31:46] [m15]   Description too short: 145 chars (target 150-160)
+[2026-03-12 17:32:16] [m15]   Description rewritten: 141 chars
+[2026-03-12 17:32:16] [m15]   WARNING: Thin keyword usage: 2 occurrences (target 3-7)
 ---
 layout: default
-title: "Tab Suspender Pro vs Tab Groups Extension: Complete 2026 Comparison"
-description: "Tab Suspender Pro vs Tab Groups Extension compared on RAM savings, features, and workflow. See benchmarks and which Chrome tab tool wins in 2026."
+title: "Tab Suspender Pro vs Tab Groups Extension (2026)"
+description: "Tab Suspender Pro vs Tab Groups Extension (2026): Which saves more memory? Get our expert comparison and find your perfect tab manager today!"
 date: 2026-03-12
 last_modified_at: 2026-03-12
 permalink: /tab-suspender-pro-vs-tab-groups-extension/

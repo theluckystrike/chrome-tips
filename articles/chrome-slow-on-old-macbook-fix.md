@@ -1,13 +1,14 @@
 ---
-layout: default
+layout: post
 title: "Chrome Slow on Your Old MacBook? Here's How to Fix It"
-description: "Speed up Chrome on older MacBooks. Practical fixes for lag, high CPU usage, and excessive memory consumption on aging Apple hardware."
+description: "Speed up Chrome on older MacBooks. Practical fixes for lag, high CPU usage, and excessive memory consumption on aging Apple hardware. Check out our complete ..."
 date: 2025-02-18
+last_modified_at: 2026-03-10
+permalink: chrome-slow-on-old-macbook-fix
 categories: [performance, mac]
 tags: [chrome-slow, macbook, mac-performance, browser-speed]
 author: theluckystrike
 ---
-
 # Chrome Slow on Your Old MacBook? Here's How to Fix It
 
 Your MacBook might still look great on the outside, but if Chrome is crawling every time you open it, the years are starting to show on the inside. The good news is that older MacBooks can still run Chrome perfectly well — you just need to optimize a few things.

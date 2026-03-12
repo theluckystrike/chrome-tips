@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Video Playback Stuttering Fix: A Practical Guide for Slow Computers"
-description: "Is your Chrome browser stuttering during video playback? Learn practical solutions to fix video stuttering, especially if you have limited RAM or an older computer."
+description: "Is your Chrome browser stuttering during video playback? Learn practical solutions to fix video stuttering, especially if you have limited RAM or an older co..."
 date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: chrome-video-playback-stuttering-fix
 categories: [performance, video, chrome-tips]
 tags: [chrome-video, video-playback, stuttering-fix, browser-performance, low-ram]
 author: theluckystrike
 ---
-
 # Chrome Video Playback Stuttering Fix: A Practical Guide for Slow Computers
 
 If you have ever been watching a video in Chrome and noticed it freezing, buffering, or skipping frames, you are not alone. Video playback stuttering is a common problem, especially on computers with limited RAM or older hardware. The good news is that there are several practical steps you can take to fix Chrome video playback stuttering and enjoy smoother viewing.

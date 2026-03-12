@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "chrome voice typing in google docs"
-description: "Learn how to use voice typing in Google Docs with Chrome. Step-by-step guide to enable dictation and fix common voice typing issues."
+description: "Learn how to use voice typing in Google Docs with Chrome. Step-by-step guide to enable dictation and fix common voice typing issues. Check out our complete 2..."
 date: 2026-03-09
+last_modified_at: 2026-03-10
+permalink: chrome-voice-typing-in-google-docs
 categories: [features, accessibility]
 tags: [voice-typing, google-docs, dictation, accessibility, chrome-settings]
 author: theluckystrike
 ---
-
 # Chrome Voice Typing in Google Docs
 
 If you are looking for chrome voice typing in google docs, you have come to the right place. Many Chrome users want to use their voice to type documents in Google Docs but are not sure how to get started or run into problems when the feature stops working. This guide will walk you through everything you need to know about using voice typing in Google Docs with Chrome.

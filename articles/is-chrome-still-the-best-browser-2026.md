@@ -5,7 +5,7 @@ description: Honest assessment of whether Chrome is still the best browser in 20
   How it compares to Edge, Firefox, Safari, Brave, and Arc. Read our comprehensive
   guide...
 date: '2025-02-25'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: is-chrome-still-the-best-browser-2026
 categories: '[comparison]'
 tags: '[best-browser-2026, chrome-review, browser-comparison, chrome-alternatives]'

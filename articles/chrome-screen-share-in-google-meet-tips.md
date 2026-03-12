@@ -15,7 +15,7 @@ tags:
 - video-calls
 author: theluckystrike
 permalink: chrome-screen-share-in-google-meet-tips
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Screen Share in Google Meet Tips
 

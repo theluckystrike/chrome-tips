@@ -5,7 +5,7 @@ description: Wondering how many Chrome tabs you can have open at once? Here is w
   actually limits your tabs and how to open more. Read our comprehensive guide to
   learn ...
 date: '2025-03-14'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: how-many-chrome-tabs-can-i-have-open
 categories: '[troubleshooting, tips]'
 tags: '[chrome-tabs, tab-limit, browser-performance, chrome-tips]'

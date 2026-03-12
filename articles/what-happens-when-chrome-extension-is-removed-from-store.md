@@ -5,7 +5,7 @@ description: When a Chrome extension is removed from the store, users face broke
   features and security risks. Learn what happens and how to protect yourself. Read
   our co...
 date: '2026-01-15'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: what-happens-when-chrome-extension-is-removed-from-store
 categories: '[extensions, troubleshooting]'
 tags: '[chrome-extension, chrome-web-store, extension-removed, chrome-fix]'

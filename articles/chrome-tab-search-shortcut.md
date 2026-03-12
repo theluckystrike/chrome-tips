@@ -5,7 +5,7 @@ description: Master the Chrome tab search shortcut to quickly find open tabs, ma
   multiple windows, and boost your browsing efficiency. Read our comprehensive guide
   to...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-tab-search-shortcut
 categories: '[productivity, tips]'
 tags: '[chrome, browser, tabs, shortcuts, productivity]'

@@ -15,7 +15,7 @@ tags:
 - privacy
 author: theluckystrike
 permalink: chrome-storage-inspector-how-to-use
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Storage Inspector How to Use
 

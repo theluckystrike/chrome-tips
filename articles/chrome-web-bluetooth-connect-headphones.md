@@ -5,7 +5,7 @@ description: Having trouble connecting Bluetooth headphones through Chrome? Lear
   why this happens and how to fix it with simple steps. Read our comprehensive guide
   to le...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-web-bluetooth-connect-headphones
 categories: '[features, connectivity]'
 tags: '[bluetooth, headphones, chrome-features, wireless, troubleshooting]'

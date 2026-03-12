@@ -5,7 +5,7 @@ description: Learn how to enable touchscreen mode in Chrome for better browsing 
   touch-enabled laptops and tablets. Simple steps to make Chrome work better with
   touch.
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-touchscreen-mode-how-to-enable
 categories: '[features, accessibility]'
 tags: '[touchscreen, chrome-settings, accessibility, touch-mode]'

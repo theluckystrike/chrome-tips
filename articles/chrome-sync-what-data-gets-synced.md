@@ -15,7 +15,7 @@ tags:
 - chrome-data
 author: theluckystrike
 permalink: chrome-sync-what-data-gets-synced
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Sync What Data Gets Synced
 

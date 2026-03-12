@@ -15,7 +15,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 permalink: chrome-save-open-tabs-as-bookmarks-all-at-once
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Save Open Tabs as Bookmarks All at Once
 

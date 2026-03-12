@@ -14,7 +14,7 @@ tags:
 - search-engine-fix
 author: theluckystrike
 permalink: chrome-search-engine-keeps-changing-to-yahoo-fix
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Search Engine Keeps Changing to Yahoo Fix
 

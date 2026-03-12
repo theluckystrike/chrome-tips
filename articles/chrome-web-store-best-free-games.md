@@ -5,7 +5,7 @@ description: Discover the best free games in the Chrome Web Store that you can p
   directly in your browser without downloading anything. Read our comprehensive guide
   to...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-web-store-best-free-games
 categories: '[entertainment, tips]'
 tags: '[chrome-web-store, free-games, browser-games]'

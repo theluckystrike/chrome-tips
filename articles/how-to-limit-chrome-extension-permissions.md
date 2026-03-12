@@ -5,7 +5,7 @@ description: Learn how to control and limit Chrome extension permissions to prot
   your privacy and secure your browser. Read our comprehensive guide to learn more
   and o...
 date: '2026-01-01'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: how-to-limit-chrome-extension-permissions
 ---
 How to limit Chrome extension permissions is something every Chrome user should understand. When you install extensions, they often ask for more access to your browser than they actually need. This can put your privacy and security at risk. The good news is that Chrome gives you tools to control these permissions, and you do not need any technical knowledge to use them.

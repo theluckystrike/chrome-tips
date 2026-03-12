@@ -15,7 +15,7 @@ tags:
 - browser-error
 - network-error
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-status-code-502-bad-gateway-fix
 ---
 # Chrome Status Code 502 Bad Gateway Fix

@@ -14,7 +14,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 permalink: chrome-sync-across-devices-how-it-works
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Sync Across Devices How It Works
 

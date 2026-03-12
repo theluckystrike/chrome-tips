@@ -5,7 +5,7 @@ description: Learn simple methods to close all your Chrome tabs at once and rega
   control of your browser when tab overload strikes. Read our comprehensive guide
   to lear...
 date: '2025-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: how-to-close-all-chrome-tabs-at-once
 categories: '[productivity, tips]'
 tags: '[tabs, chrome-tips, browser-management]'

@@ -5,7 +5,7 @@ description: Are chrome tabs using too much memory which one is the culprit? Lea
   why this happens and how to fix it with practical steps. Read our comprehensive
   guide t...
 date: '2025-02-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-tabs-using-too-much-memory-which-one
 categories: '[performance, memory]'
 tags: '[chrome-tabs, memory-usage, browser-performance, chrome-tips]'

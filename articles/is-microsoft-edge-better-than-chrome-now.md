@@ -5,7 +5,7 @@ description: A practical comparison of Microsoft Edge vs Chrome in 2026. Find ou
   if Edge has caught up or surpassed Chrome and which browser is right for you. Read
   our c...
 date: '2026-01-20'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: is-microsoft-edge-better-than-chrome-now
 categories: '[comparison, browser]'
 tags: '[microsoft-edge, chrome-browser, browser-comparison, edge-vs-chrome]'

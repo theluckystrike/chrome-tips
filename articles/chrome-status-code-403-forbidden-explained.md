@@ -14,7 +14,7 @@ tags:
 - http-error
 author: theluckystrike
 permalink: chrome-status-code-403-forbidden-explained
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Status Code 403 Forbidden Explained
 

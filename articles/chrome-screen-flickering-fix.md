@@ -15,7 +15,7 @@ tags:
 - screen-flickering-fix
 author: theluckystrike
 permalink: chrome-screen-flickering-fix
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Screen Flickering Fix
 

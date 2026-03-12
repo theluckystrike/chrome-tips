@@ -16,7 +16,7 @@ tags:
 - organization
 author: theluckystrike
 permalink: chrome-tab-groups-vs-bookmarks
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Tab Groups vs Bookmarks
 

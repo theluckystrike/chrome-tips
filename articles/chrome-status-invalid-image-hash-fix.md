@@ -15,7 +15,7 @@ tags:
 - chrome-status
 author: theluckystrike
 permalink: chrome-status-invalid-image-hash-fix
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Status Invalid Image Hash Fix
 

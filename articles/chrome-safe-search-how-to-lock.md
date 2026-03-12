@@ -15,7 +15,7 @@ tags:
 - browser-privacy
 author: theluckystrike
 permalink: chrome-safe-search-how-to-lock
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Safe Search How to Lock
 

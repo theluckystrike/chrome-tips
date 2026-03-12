@@ -4,7 +4,7 @@ title: Chrome vs Edge Battery Life Laptop Comparison
 description: Which browser saves more battery on laptops? A practical comparison of
   Chrome and Edge battery life with tips to extend your laptop charge. Read our comprehe...
 date: '2026-02-01'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-edge-battery-life-laptop-comparison
 categories: '[comparison, performance, battery]'
 tags: '[chrome-vs-edge, battery-life, laptop-battery, browser-comparison]'

@@ -14,7 +14,7 @@ tags:
 - privacy-settings
 author: theluckystrike
 permalink: chrome-settings-you-should-change-right-now
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Settings You Should Change Right Now
 

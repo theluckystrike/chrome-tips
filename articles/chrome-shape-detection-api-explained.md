@@ -15,7 +15,7 @@ tags:
 - shape-detection
 author: theluckystrike
 permalink: chrome-shape-detection-api-explained
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Shape Detection API Explained
 

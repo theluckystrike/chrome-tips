@@ -5,7 +5,7 @@ description: Learn which Chrome flags genuinely improve performance and make you
   browser faster with practical tips. This guide on Chrome Flags That Actually Help
   Perfor...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-flags-that-actually-help-performance
 ---
 

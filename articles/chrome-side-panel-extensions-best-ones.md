@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Side Panel Extensions Best Ones"
-description: "Find the best chrome side panel extensions to organize your browser, boost productivity, and streamline your workflow."
+title: Chrome Side Panel Extensions Best Ones
+description: Find the best chrome side panel extensions to organize your browser,
+  boost productivity, and streamline your workflow. This guide on Chrome Side Panel
+  Extens...
 date: 2026-03-09
-categories: [extensions, tips]
-tags: [chrome-extensions, side-panel, productivity]
+categories:
+- extensions
+- tips
+tags:
+- chrome-extensions
+- side-panel
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-side-panel-extensions-best-ones
 ---
 
 # Chrome Side Panel Extensions Best Ones

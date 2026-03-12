@@ -2,10 +2,11 @@
 layout: post
 title: Chrome Google Maps Keyboard Shortcuts
 description: Discover keyboard shortcuts for Google Maps in Chrome. Navigate, zoom,
-  and explore faster without reaching for your mouse.
+  and explore faster without reaching for your mouse. This guide on Chrome Google
+  Maps K...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
-permalink: /chrome-google-maps-keyboard-shortcuts/
+last_modified_at: '2026-03-11'
+permalink: chrome-google-maps-keyboard-shortcuts
 ---
 
 Chrome google maps keyboard shortcuts are a fantastic way to navigate Google Maps much faster without constantly reaching for your mouse or trackpad. Whether you are planning a road trip, finding a new restaurant, or exploring a city you are planning to visit, knowing these shortcuts can save you time and make your mapping experience much smoother.

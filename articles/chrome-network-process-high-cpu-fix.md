@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Network Process High CPU Fix"
-description: "Is Chrome using too much CPU? Learn why the network process causes high CPU usage and how to fix it with simple solutions."
+title: Chrome Network Process High CPU Fix
+description: Is Chrome using too much CPU? Learn why the network process causes high
+  CPU usage and how to fix it with simple solutions. This guide on Chrome Network
+  Proce...
 date: 2026-01-15
-categories: [performance, chrome, troubleshooting]
-tags: [chrome-network-process, high-cpu, browser-performance]
+categories:
+- performance
+- chrome
+- troubleshooting
+tags:
+- chrome-network-process
+- high-cpu
+- browser-performance
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-network-process-high-cpu-fix
 ---
 
 # Chrome Network Process High CPU Fix

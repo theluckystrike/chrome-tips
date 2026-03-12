@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Save Open Tabs as Bookmarks All at Once"
-description: "Learn how to save all open tabs as bookmarks in Chrome at once, plus automation tools that handle this for you automatically."
+title: Chrome Save Open Tabs as Bookmarks All at Once
+description: Learn how to save all open tabs as bookmarks in Chrome at once, plus
+  automation tools that handle this for you automatically. This guide on Chrome Save
+  Open ...
 date: 2025-03-09
-categories: [productivity, tabs]
-tags: [bookmarks, save-tabs, tab-management, chrome-tips]
+categories:
+- productivity
+- tabs
+tags:
+- bookmarks
+- save-tabs
+- tab-management
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-save-open-tabs-as-bookmarks-all-at-once
 ---
 
 # Chrome Save Open Tabs as Bookmarks All at Once

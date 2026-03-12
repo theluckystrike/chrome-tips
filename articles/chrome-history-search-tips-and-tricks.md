@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome History Search Tips and Tricks"
-description: "Master Chrome's history search with these practical tips. Find any visited page quickly using built-in features and smart search techniques."
+title: Chrome History Search Tips and Tricks
+description: Master Chrome's history search with these practical tips. Find any visited
+  page quickly using built-in features and smart search techniques. This guide on
+  Ch...
 date: 2025-03-09
-categories: [productivity, tips]
-tags: [history, chrome-tips, browser-management]
+categories:
+- productivity
+- tips
+tags:
+- history
+- chrome-tips
+- browser-management
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-history-search-tips-and-tricks
 ---
 
 # Chrome History Search Tips and Tricks

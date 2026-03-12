@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Not Enough Memory Error"
-description: "Getting a chrome not enough memory error? Learn why this happens and what you can do to fix it right now."
+title: Chrome Not Enough Memory Error
+description: Getting a chrome not enough memory error? Learn why this happens and
+  what you can do to fix it right now. This guide on Chrome Not Enough Memory Error
+  provid...
 date: 2025-06-15
-categories: [performance, troubleshooting]
-tags: [chrome-not-enough-memory, chrome-error, browser-memory, memory-fix]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-not-enough-memory
+- chrome-error
+- browser-memory
+- memory-fix
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-not-enough-memory-error
 ---
 
 # Chrome Not Enough Memory Error

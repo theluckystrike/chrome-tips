@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Live Captions How to Enable"
-description: "Learn how to enable Chrome Live Captions for automatic subtitles on any video or audio in your browser. Simple step-by-step guide."
+title: Chrome Live Captions How to Enable
+description: Learn how to enable Chrome Live Captions for automatic subtitles on any
+  video or audio in your browser. Simple step-by-step guide. This guide on Chrome
+  Live ...
 date: 2025-03-12
-categories: [features, accessibility]
-tags: [live-captions, accessibility, chrome-features, subtitles]
+categories:
+- features
+- accessibility
+tags:
+- live-captions
+- accessibility
+- chrome-features
+- subtitles
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-live-captions-how-to-enable
 ---
 
 # Chrome Live Captions How to Enable

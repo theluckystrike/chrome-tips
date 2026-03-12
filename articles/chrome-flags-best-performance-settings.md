@@ -5,7 +5,7 @@ description: Discover the best Chrome flags for performance settings to make you
   browser faster and more efficient. This guide on Chrome Flags Best Performance Settings
   ...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-flags-best-performance-settings
 ---
 

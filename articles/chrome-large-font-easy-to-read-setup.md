@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Chrome Large Font Easy to Read Setup"
-description: "Learn how to set up Chrome with large, easy-to-read fonts. Simple steps to make browsing comfortable for everyone."
+title: Chrome Large Font Easy to Read Setup
+description: Learn how to set up Chrome with large, easy-to-read fonts. Simple steps
+  to make browsing comfortable for everyone. This guide on Chrome Large Font Easy
+  to Re...
+date: '2026-03-12'
+last_modified_at: '2026-03-09'
+permalink: chrome-large-font-easy-to-read-setup
 ---
 
 Chrome large font easy to read setup is something many people search for, especially those who spend hours browsing the web daily. Whether your eyes get tired easily, you are working late into the night, or you simply prefer larger text, making Chrome display bigger fonts does not have to be complicated. In this guide, I will walk you through the best ways to set up Chrome for comfortable, easy reading without straining your eyes.

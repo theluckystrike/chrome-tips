@@ -5,7 +5,7 @@ description: Learn what Chrome fenced frames are, why they matter for your priva
   and how they affect your browsing experience. This guide on Chrome Fenced Frames
   Expla...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-fenced-frames-explained
 ---
 

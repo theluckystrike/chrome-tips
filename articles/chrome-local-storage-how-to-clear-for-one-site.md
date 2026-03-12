@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Local Storage How to Clear for One Site"
-description: "Learn how to clear local storage for specific websites in Chrome without deleting all your browsing data. Fix site issues quickly."
+title: Chrome Local Storage How to Clear for One Site
+description: Learn how to clear local storage for specific websites in Chrome without
+  deleting all your browsing data. Fix site issues quickly. This guide on Chrome Local...
 date: 2025-02-19
-categories: [privacy, browser-tips]
-tags: [local-storage, site-data, cookies, storage, privacy]
+categories:
+- privacy
+- browser-tips
+tags:
+- local-storage
+- site-data
+- cookies
+- storage
+- privacy
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-local-storage-how-to-clear-for-one-site
 ---
 
 # Chrome Local Storage How to Clear for One Site

@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Chrome Memory Inspector How to Use"
-description: "Learn how to use Chrome Memory Inspector to find and fix memory issues that slow down your browser."
+title: Chrome Memory Inspector How to Use
+description: Learn how to use Chrome Memory Inspector to find and fix memory issues
+  that slow down your browser. This guide on Chrome Memory Inspector How to Use provides...
 date: 2026-03-09
-categories: [performance, troubleshooting]
-tags: [chrome-devtools, memory, browser-tools]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-devtools
+- memory
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-memory-inspector-how-to-use
 ---
 
 # Chrome Memory Inspector How to Use

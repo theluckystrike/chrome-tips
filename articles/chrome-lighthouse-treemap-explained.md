@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Lighthouse Treemap Explained"
-description: "Learn what the Chrome Lighthouse treemap shows, why it matters for your website performance, and how to use it effectively."
+title: Chrome Lighthouse Treemap Explained
+description: Learn what the Chrome Lighthouse treemap shows, why it matters for your
+  website performance, and how to use it effectively. This guide on Chrome Lighthouse
+  T...
 date: 2026-01-15
-categories: [performance, development, tools]
-tags: [chrome-lighthouse, performance, web-development, browser-tools]
+categories:
+- performance
+- development
+- tools
+tags:
+- chrome-lighthouse
+- performance
+- web-development
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-lighthouse-treemap-explained
 ---
 
 # Chrome Lighthouse Treemap Explained

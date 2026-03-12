@@ -2,7 +2,8 @@
 layout: post
 title: chrome sandbox mode explained
 description: Understanding Chrome sandbox mode and how to fix issues when it causes
-  problems with your browser or extensions.
+  problems with your browser or extensions. This guide on chrome sandbox mode explained
+  ...
 date: 2026-03-09
 categories:
 - features
@@ -13,8 +14,8 @@ tags:
 - chrome-settings
 - performance
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /chrome-sandbox-mode-explained/
+last_modified_at: '2026-03-11'
+permalink: chrome-sandbox-mode-explained
 ---
 
 # Chrome Sandbox Mode Explained

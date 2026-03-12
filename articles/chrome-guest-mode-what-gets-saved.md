@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Guest Mode What Gets Saved"
-description: "Wondering what data Chrome Guest mode keeps after you close the session? Here is what gets saved and what does not."
+title: Chrome Guest Mode What Gets Saved
+description: Wondering what data Chrome Guest mode keeps after you close the session?
+  Here is what gets saved and what does not. This guide on Chrome Guest Mode What
+  Gets...
 date: 2025-03-09
-categories: [privacy, features]
-tags: [guest-mode, chrome-privacy, browser-modes]
+categories:
+- privacy
+- features
+tags:
+- guest-mode
+- chrome-privacy
+- browser-modes
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-guest-mode-what-gets-saved
 ---
 
 # Chrome Guest Mode What Gets Saved

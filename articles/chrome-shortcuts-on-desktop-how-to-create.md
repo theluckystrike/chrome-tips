@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome shortcuts on desktop how to create"
-description: "Learn how to create Chrome shortcuts on your desktop for quick website access. Simple steps to set up desktop shortcuts in Chrome."
+title: chrome shortcuts on desktop how to create
+description: Learn how to create Chrome shortcuts on your desktop for quick website
+  access. Simple steps to set up desktop shortcuts in Chrome. This guide on chrome
+  short...
 date: 2026-03-09
-categories: [productivity, tips]
-tags: [shortcuts, desktop, productivity, chrome-settings]
+categories:
+- productivity
+- tips
+tags:
+- shortcuts
+- desktop
+- productivity
+- chrome-settings
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-shortcuts-on-desktop-how-to-create
 ---
 
 # Chrome Shortcuts on Desktop How to Create

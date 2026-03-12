@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome How to Print Selection Only"
-description: "Learn how to print only what you need in Chrome. This guide shows simple methods to print selected text or specific parts of a webpage."
+title: Chrome How to Print Selection Only
+description: Learn how to print only what you need in Chrome. This guide shows simple
+  methods to print selected text or specific parts of a webpage. This guide on Chrome
+  ...
 date: 2026-01-15
-categories: [how-to, printing]
-tags: [chrome-print, print-selection, browser-printing, printing-tips]
+categories:
+- how-to
+- printing
+tags:
+- chrome-print
+- print-selection
+- browser-printing
+- printing-tips
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-how-to-print-selection-only
 ---
 
 # Chrome How to Print Selection Only

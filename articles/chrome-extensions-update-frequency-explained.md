@@ -5,7 +5,7 @@ description: Learn why Chrome extensions update so often and how to manage updat
   for better browser performance and security. This guide on Chrome Extensions Update
   Fre...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-update-frequency-explained
 ---
 

@@ -5,7 +5,7 @@ description: Understanding Chrome extension permissions helps you stay safe. Lea
   what they mean and how to manage them. This guide on Chrome Extensions Permissions
   Expl...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-permissions-explained-simply
 ---
 

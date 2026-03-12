@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Chrome Navigate Back With Gesture How to"
-description: "Learn how to navigate back in Chrome using gesture controls on desktop and mobile. Easy steps to enable swipe navigation."
+title: Chrome Navigate Back With Gesture How to
+description: Learn how to navigate back in Chrome using gesture controls on desktop
+  and mobile. Easy steps to enable swipe navigation. This guide on Chrome Navigate
+  Back ...
+date: '2026-03-12'
+last_modified_at: '2026-03-09'
+permalink: chrome-navigate-back-with-gesture-how-to
 ---
 
 Chrome navigate back with gesture how to? If you have been asking yourself this question, you are not alone. Many Chrome users want a faster way to go back to the previous page without reaching for the mouse or clicking the back button. Let me walk you through how gesture-based navigation works in Chrome and how you can set it up.

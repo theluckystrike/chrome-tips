@@ -2,7 +2,7 @@
 layout: post
 title: Chrome Offline Google Calendar
 description: Struggling with Chrome offline Google Calendar issues? Learn why it happens
-  and how to get your calendar working without internet.
+  and how to get your calendar working without internet. This guide on Chrome Offli...
 date: 2026-03-09
 categories:
 - troubleshooting
@@ -14,8 +14,8 @@ tags:
 - google-calendar
 - browser-troubleshooting
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: /chrome-offline-google-calendar/
+last_modified_at: '2026-03-11'
+permalink: chrome-offline-google-calendar
 ---
 
 # Chrome Offline Google Calendar

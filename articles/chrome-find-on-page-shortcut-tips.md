@@ -4,7 +4,7 @@ title: Chrome Find on Page Shortcut Tips
 description: Learn the keyboard shortcuts to find text on any webpage in Chrome. Speed
   up your browsing with these simple tips. This guide on Chrome Find on Page Shortcut...
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-find-on-page-shortcut-tips
 ---
 

@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Chrome Site Settings Permissions Explained"
-description: "Learn how to manage Chrome site settings and permissions to control what websites can access on your browser."
+title: Chrome Site Settings Permissions Explained
+description: Learn how to manage Chrome site settings and permissions to control what
+  websites can access on your browser. This guide on Chrome Site Settings Permissions
+  ...
+date: '2026-03-12'
+last_modified_at: '2026-03-10'
+permalink: chrome-site-settings-permissions-explained
 ---
 
 Chrome site settings permissions explained is something many people search for when they notice unexpected behavior in their browser. Maybe a website asked for access to your camera or microphone, or perhaps you noticed that certain sites can send you notifications even though you never asked for them. These are all controlled by Chrome's site settings, and understanding how they work puts you in control of your browsing experience.

@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Tab Limit: Is There a Maximum?"
-description: "Wondering if Chrome has a maximum number of tabs you can open? Here is what actually happens when you push past the limit."
+title: 'Chrome Tab Limit: Is There a Maximum?'
+description: 'Wondering if Chrome has a maximum number of tabs you can open? Here
+  is what actually happens when you push past the limit. This guide on Chrome Tab
+  Limit: Is...'
 date: 2025-03-14
-categories: [troubleshooting, tips]
-tags: [chrome-tabs, tab-limit, browser-performance, chrome-tips]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-tabs
+- tab-limit
+- browser-performance
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-tab-limit-is-there-a-maximum
 ---
 
 # Chrome Tab Limit: Is There a Maximum?

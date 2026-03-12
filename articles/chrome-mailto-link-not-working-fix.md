@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Mailto Link Not Working Fix"
-description: "Chrome mailto link not working can be frustrating. Learn why it happens and simple fixes to get email links working again."
+title: Chrome Mailto Link Not Working Fix
+description: Chrome mailto link not working can be frustrating. Learn why it happens
+  and simple fixes to get email links working again. This guide on Chrome Mailto Link
+  N...
 date: 2025-03-09
-categories: [troubleshooting, tips]
-tags: [chrome-mailto, mailto-link-not-working, chrome-fix, browser-tips]
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-mailto
+- mailto-link-not-working
+- chrome-fix
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-mailto-link-not-working-fix
 ---
 
 # Chrome Mailto Link Not Working Fix

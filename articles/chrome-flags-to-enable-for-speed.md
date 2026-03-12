@@ -4,7 +4,7 @@ title: Chrome Flags to Enable for Speed
 description: Learn which Chrome flags can speed up your browser and improve performance.
   This guide on Chrome Flags to Enable for Speed provides the essential tips you ne...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-flags-to-enable-for-speed
 ---
 

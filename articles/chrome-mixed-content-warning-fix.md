@@ -2,7 +2,8 @@
 layout: post
 title: How to Fix Chrome Mixed Content Warning
 description: Learn how to fix Chrome mixed content warnings that appear when loading
-  secure HTTPS pages with insecure HTTP elements.
+  secure HTTPS pages with insecure HTTP elements. This guide on How to Fix Chrome
+  Mixed...
 date: 2026-01-15
 categories:
 - security
@@ -14,7 +15,7 @@ tags:
 - browser-settings
 author: theluckystrike
 last_modified_at: '2026-03-11'
-permalink: /chrome-mixed-content-warning-fix/
+permalink: chrome-mixed-content-warning-fix
 ---
 
 # How to Fix Chrome Mixed Content Warning

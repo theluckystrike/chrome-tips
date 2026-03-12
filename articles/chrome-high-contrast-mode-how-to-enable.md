@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome high contrast mode how to enable"
-description: "Learn how to enable high contrast mode in Chrome for better readability. Step-by-step guide for desktop and mobile users."
+title: chrome high contrast mode how to enable
+description: Learn how to enable high contrast mode in Chrome for better readability.
+  Step-by-step guide for desktop and mobile users. This guide on chrome high contrast
+  ...
 date: 2026-03-09
-categories: [features, accessibility]
-tags: [high-contrast, chrome-settings, accessibility, appearance]
+categories:
+- features
+- accessibility
+tags:
+- high-contrast
+- chrome-settings
+- accessibility
+- appearance
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-high-contrast-mode-how-to-enable
 ---
 
 # Chrome High Contrast Mode How to Enable

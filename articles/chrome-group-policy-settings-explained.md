@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Group Policy Settings Explained"
-description: "Learn what Chrome group policy settings are, why they matter, and how to configure them for better browser control."
+title: Chrome Group Policy Settings Explained
+description: Learn what Chrome group policy settings are, why they matter, and how
+  to configure them for better browser control. This guide on Chrome Group Policy
+  Setting...
 date: 2025-02-20
-categories: [settings, enterprise]
-tags: [group-policy, chrome-settings, browser-configuration]
+categories:
+- settings
+- enterprise
+tags:
+- group-policy
+- chrome-settings
+- browser-configuration
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-group-policy-settings-explained
 ---
 
 # Chrome Group Policy Settings Explained

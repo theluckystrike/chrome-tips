@@ -14,7 +14,7 @@ tags:
 - time-saving
 - browser-tools
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-that-save-you-time
 ---
 

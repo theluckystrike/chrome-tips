@@ -5,7 +5,7 @@ description: Malicious Chrome extensions can steal your passwords. Learn how the
   work and what you can do to protect yourself. This guide on Chrome Extensions That
   Steal...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-that-steal-passwords-warning
 ---
 

@@ -1,11 +1,21 @@
 ---
 layout: default
-title: "Chrome Memory Leak Fix for 2026"
-description: "Is Chrome using more memory than it should? A memory leak could be the culprit. Learn how to identify and fix Chrome memory leaks in 2026."
+title: Chrome Memory Leak Fix for 2026
+description: Is Chrome using more memory than it should? A memory leak could be the
+  culprit. Learn how to identify and fix Chrome memory leaks in 2026. This guide on
+  Chro...
 date: 2026-01-15
-categories: [performance, troubleshooting]
-tags: [chrome-memory-leak, chrome-fix, browser-performance, memory-problem]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-memory-leak
+- chrome-fix
+- browser-performance
+- memory-problem
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-memory-leak-fix-2026
 ---
 
 # Chrome Memory Leak Fix for 2026

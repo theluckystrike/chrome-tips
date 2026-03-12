@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Memory Saver Feature Explained"
-description: "Learn about Chrome's Memory Saver feature, how it works, and what you can do to reduce browser memory usage and improve performance."
+title: Chrome Memory Saver Feature Explained
+description: Learn about Chrome's Memory Saver feature, how it works, and what you
+  can do to reduce browser memory usage and improve performance. This guide on Chrome
+  Mem...
 date: 2026-01-15
-categories: [performance, memory]
-tags: [chrome-memory, memory-saver, browser-performance]
+categories:
+- performance
+- memory
+tags:
+- chrome-memory
+- memory-saver
+- browser-performance
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-memory-saver-feature-explained
 ---
 
 # Chrome Memory Saver Feature Explained

@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Speed Comparison Test How to Run"
-description: "Learn how to run a chrome speed comparison test to find out which browser is fastest for your needs."
+title: Chrome Speed Comparison Test How to Run
+description: Learn how to run a chrome speed comparison test to find out which browser
+  is fastest for your needs. This guide on Chrome Speed Comparison Test How to Run
+  pr...
 date: 2026-03-09
-categories: [performance, troubleshooting]
-tags: [chrome-speed, browser-comparison, chrome-test, chrome-benchmark]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-speed
+- browser-comparison
+- chrome-test
+- chrome-benchmark
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-speed-comparison-test-how-to-run
 ---
 
 # Chrome Speed Comparison Test How to Run

@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "chrome global privacy control what it does"
-description: "Learn what Chrome Global Privacy Control does, how it protects your browsing, and how to enable or disable this feature in your browser settings."
+title: chrome global privacy control what it does
+description: Learn what Chrome Global Privacy Control does, how it protects your browsing,
+  and how to enable or disable this feature in your browser settings. This guide ...
 date: 2026-01-20
-categories: [privacy, chrome]
-tags: [chrome-privacy, global-privacy-control, privacy-settings, tracking-protection]
+categories:
+- privacy
+- chrome
+tags:
+- chrome-privacy
+- global-privacy-control
+- privacy-settings
+- tracking-protection
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-global-privacy-control-what-it-does
 ---
 
 # Chrome Global Privacy Control What It Does

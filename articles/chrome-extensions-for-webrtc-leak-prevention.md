@@ -52,6 +52,7 @@ Being aware of the websites you visit and the permissions you grant to extension
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+- [How to Set Up Chrome Profiles for Work and Personal](/articles/how-to-set-up-chrome-profiles-for-work-and-personal)
+- [Chrome Private State Tokens Explained: What They Are and How They Work](/articles/chrome-private-state-tokens-explained)
+- [Chrome Extension Side Panel Tutorial](/articles/chrome-extension-side-panel-tutorial)

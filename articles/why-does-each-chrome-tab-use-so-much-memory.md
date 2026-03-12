@@ -56,6 +56,7 @@ Small adjustments to how you use Chrome can make a big difference in how your co
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Pin Tab What It Does Explained](/chrome-pin-tab-what-it-does-explained)
-- [Why Does Chrome Open So Many Processes](/why-does-chrome-open-so-many-processes)
-- [Why Is My Chrome Tab Using 1GB of Memory? Here's Why and How to Fix It](/chrome-tab-using-1gb-memory-why)
+
+- [Chrome Tabs Keep Reloading When I Switch Back](/articles/chrome-tabs-keep-reloading-when-i-switch-back)
+- [Chrome Extensions for Meal Planning Recipes](/articles/chrome-extensions-for-meal-planning-recipes)
+- [Chrome Google Search Not Working Fix](/articles/chrome-google-search-not-working-fix)

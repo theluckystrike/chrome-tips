@@ -62,6 +62,7 @@ While we are discussing browser extensions that make your life easier, it is wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Extensions for Cookie Auto Delete](/chrome-extensions-for-cookie-auto-delete)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+
+- [chrome how to add trusted sites](/articles/chrome-how-to-add-trusted-sites)
+- [Chrome Extensions for Site Permissions Manager](/articles/chrome-extensions-for-site-permissions-manager)
+- [Chrome Local Storage How to Clear for One Site](/articles/chrome-local-storage-how-to-clear-for-one-site)

@@ -82,6 +82,7 @@ Improving a performance score does not always require expensive tools or expert 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Performance Settings Explained 2026](/chrome-performance-settings-explained-2026)
-- [Chrome Certificate Transparency Explained Simply](/chrome-certificate-transparency-explained-simply)
-- [Chrome Extensions Permissions Explained Simply](/chrome-extensions-permissions-explained-simply)
+
+- [Chrome for Google Classroom Tips](/articles/chrome-for-google-classroom-tips)
+- [chrome device management for education](/articles//chrome-device-management-for-education/)
+- [Chrome Helper Renderer High CPU Mac Fix](/articles/chrome-helper-renderer-high-cpu-mac-fix)

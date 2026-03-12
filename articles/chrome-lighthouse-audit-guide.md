@@ -94,3 +94,9 @@ It is also important to prioritize based on your specific goals. If you are prim
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Certificate Transparency Explained Simply](/articles/chrome-certificate-transparency-explained-simply)
+- [Chrome Extension for Managing Multiple Email Accounts](/articles/chrome-extension-for-managing-multiple-email-accounts)
+- [Chrome Coverage Tool: Find Unused JavaScript](/articles/chrome-coverage-tool-find-unused-javascript)

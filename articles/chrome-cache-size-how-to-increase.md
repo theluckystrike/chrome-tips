@@ -67,8 +67,9 @@ Pairing these adjustments with good tab management habits creates a better overa
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
+
 ## Related Articles
 
-* [Chrome Extensions for Whois Lookup](/chrome-extensions-for-whois-lookup)
-* [Chrome Security Checkup How to Run](/chrome-security-checkup-how-to-run)
-* [chrome classroom integration tips for teachers](/chrome-classroom-integration-tips-for-teachers)
+- [Chrome About Settings All Pages Explained](/articles/chrome-about-settings-all-pages-explained)
+- [Chrome Large Font Easy to Read Setup](/articles/chrome-large-font-easy-to-read-setup)
+- [Best Free Chrome Extensions 2026](/articles/best-free-chrome-extensions-2026)

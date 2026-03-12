@@ -53,6 +53,7 @@ This kind of improvement is part of a larger trend in web development where webs
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-- [Chrome Performance Observer API Explained](/chrome-performance-observer-api-explained)
-- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
+
+- [Chrome Passwords on Phone How to View](/articles/chrome-passwords-on-phone-how-to-view)
+- [Chrome Extensions for Musicians](/articles/chrome-extensions-for-musicians)
+- [Chrome Media Keys Not Working Fix](/articles/chrome-media-keys-not-working-fix)

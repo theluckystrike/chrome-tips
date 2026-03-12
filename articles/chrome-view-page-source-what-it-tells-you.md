@@ -78,3 +78,9 @@ Chrome's View Page Source feature is a powerful tool that reveals the hidden wor
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix)
+- [Chrome History Search Tips and Tricks](/articles/chrome-history-search-tips-and-tricks)
+- [How to Enable Chrome Tab Preview on Hover](/articles/chrome-tab-preview-hover-how-to-enable)

@@ -72,6 +72,7 @@ The key is finding an extension that fits your workflow. Try a few different opt
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [Chrome Core Web Vitals Check My Website](/articles/chrome-core-web-vitals-check-my-website)
+- [How to Change Chrome Language Settings](/articles/how-to-change-chrome-language-settings)
+- [Chrome vs Brave 2026 Comparison](/articles/chrome-vs-brave-2026)

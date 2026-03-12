@@ -82,6 +82,7 @@ The goal is to spend less time fighting with advertisements and more time actual
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Faster Browsing](/chrome-extensions-for-faster-browsing)
-- [Chrome for Clearing Browsing Data Automatically](/chrome-for-clearing-browsing-data-automatically)
-- [Chrome for Private Browsing Tips Beyond Incognito](/chrome-for-private-browsing-tips-beyond-incognito)
+
+- [Chrome Frame Rate How to Check](/articles/chrome-frame-rate-how-to-check)
+- [Chrome Extensions For Elderly Users Simple Tools](/articles//articles/chrome-extensions-for-elderly-users-simple-tools/)
+- [Chrome for Window Management Extensions](/articles/chrome-for-window-management-extensions)

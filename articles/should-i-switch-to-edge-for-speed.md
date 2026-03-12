@@ -102,3 +102,9 @@ Try both browsers for a week and see which one feels faster on your specific com
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Beta Channel How to Join and Leave](/articles/chrome-beta-channel-how-to-join-and-leave)
+- [Chrome Trust Tokens Explained](/articles/chrome-trust-tokens-guide)
+- [Chrome Location Access for One Site How to Allow](/articles/chrome-location-access-for-one-site-how-to-allow)

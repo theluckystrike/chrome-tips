@@ -61,6 +61,7 @@ By following these steps and checking in on your settings regularly, you can enj
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Pop Ups on Phone How to Block](/chrome-pop-ups-on-phone-how-to-block)
-- [Chrome Profile Specific Extensions How to Set](/chrome-profile-specific-extensions-how-to-set)
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+
+- [How to Use Chrome Without Signing In to Google](/articles/how-to-use-chrome-without-signing-in-to-google)
+- [Chrome Security Panel How to Check SSL](/articles/chrome-security-panel-how-to-check-ssl)
+- [Chrome for Etsy Seller Best Extensions](/articles/chrome-for-etsy-seller-best-extensions)

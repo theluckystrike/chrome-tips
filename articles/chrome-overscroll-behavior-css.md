@@ -70,3 +70,9 @@ If you are looking for a solution that works across websites without needing to 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/articles/chrome-tab-hibernate-save-memory)
+- [Chrome Helper Renderer High CPU Mac Fix](/articles/chrome-helper-renderer-high-cpu-mac-fix)
+- [Chrome Freezing on Chromebook During Zoom? Try These Fixes](/articles/chrome-freezing-on-chromebook-during-zoom)

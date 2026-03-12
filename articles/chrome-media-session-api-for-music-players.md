@@ -66,6 +66,7 @@ For now, if you have not tried using media keys with your favorite web music pla
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Streams API for Large Files](/chrome-streams-api-for-large-files)
-- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
+
+- [Chrome Flexbox Debugging Guide](/articles/chrome-flexbox-debugging)
+- [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/articles/chrome-autofill-wrong-address-keeps-appearing)
+- [Chrome Mobile vs Desktop Features Difference: What You Need to Know](/articles/chrome-mobile-vs-desktop-features-difference)

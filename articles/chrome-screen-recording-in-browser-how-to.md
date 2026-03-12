@@ -88,6 +88,7 @@ Screen recording in Chrome is a useful skill that becomes easier once you unders
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
-- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
-- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
+
+- [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained)
+- [Chrome for Zillow Best Extensions](/articles/chrome-for-zillow-best-extensions)
+- [Chrome Math Symbols How to Type](/articles/chrome-math-symbols-how-to-type)

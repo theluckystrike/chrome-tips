@@ -107,6 +107,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
-* [Chrome Idle Detection API Explained: What It Means for Your Browser](/chrome-idle-detection-api-explained)
-* [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)
+- [chrome extensions for journalists](/articles/chrome-extensions-for-journalists)
+- [Chrome IP Protection Feature Explained](/articles/chrome-ip-protection-feature-explained)
+- [Chrome Jump to Specific Tab Number Shortcut](/articles/chrome-jump-to-specific-tab-number-shortcut)

@@ -67,3 +67,9 @@ Most of the time, the ERR_NAME_NOT_RESOLVED error is nothing serious. It is usua
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension Review Process: How Long Does It Take](/articles/chrome-extension-review-process-how-long)
+- [Chrome Workspaces: Link DevTools to Files for Seamless Development](/articles/chrome-workspaces-link-devtools-to-files)
+- [Chrome Extensions for YouTube Productivity](/articles/chrome-extensions-for-youtube-productivity)

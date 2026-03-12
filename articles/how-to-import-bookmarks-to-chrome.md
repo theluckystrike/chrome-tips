@@ -72,6 +72,7 @@ Having a recent backup means that if you ever need to switch browsers again or r
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Backup Chrome Bookmarks and Passwords](/how-to-backup-chrome-bookmarks-and-passwords)
-- [How to Recover Deleted Bookmarks Chrome](/how-to-recover-deleted-bookmarks-chrome)
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+
+- [Chrome Zero Trust Security Model Explained](/articles/chrome-zero-trust-security-model-explained)
+- [How to Use Chrome Translate Page](/articles/chrome-translate-page-how-to-use)
+- [Chrome Extensions for Keyword Research](/articles/chrome-extensions-for-keyword-research)

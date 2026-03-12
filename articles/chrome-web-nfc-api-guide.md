@@ -164,3 +164,9 @@ Finally, keep your application updated as the Web NFC API evolves. The specifica
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome extensions for journalists](/articles/chrome-extensions-for-journalists)
+- [Chrome for NFT Browsing Extensions](/articles/chrome-for-nft-browsing-extensions)
+- [How to Limit Chrome RAM Usage on Windows](/articles/how-to-limit-chrome-ram-usage-windows)

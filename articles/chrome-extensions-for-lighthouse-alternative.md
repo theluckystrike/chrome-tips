@@ -99,6 +99,7 @@ Remember that no single tool will tell you everything about your website. Use th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Pocket Alternative](/chrome-extensions-for-pocket-alternative)
-- [Chrome Extensions for Noscript Alternative](/chrome-extensions-for-noscript-alternative)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [Chrome Guest Mode What Gets Saved](/articles/chrome-guest-mode-what-gets-saved)
+- [Chrome Shopping List Feature How to Use](/articles/chrome-shopping-list-feature-how-to-use)
+- [chrome classroom extension for teachers](/articles/chrome-classroom-extension-for-teachers)

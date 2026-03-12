@@ -474,6 +474,7 @@ With this knowledge, you're well-equipped to implement screen capture functional
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
 ## Related Articles
-- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-- [Chrome Badging API Explained](/chrome-badging-api-explained)
+
+- [How to Uninstall Chrome Completely and Reinstall](/articles/how-to-uninstall-chrome-completely-and-reinstall)
+- [Chrome OS vs Windows for Everyday Use](/articles/chrome-os-vs-windows-for-everyday-use)
+- [chrome for screenshot and annotation tools](/articles/chrome-for-screenshot-and-annotation-tools)

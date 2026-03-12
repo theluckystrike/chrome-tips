@@ -97,6 +97,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome How to Inspect Element Beginners](/chrome-how-to-inspect-element-beginners)
-* [How to Lock Safe Search in Chrome for Children](/chrome-safe-search-lock-for-children)
-* [Chrome Opens in Small Window Fix](/chrome-opens-in-small-window-fix)
+- [Chrome Pop Ups How to Block All](/articles/chrome-pop-ups-how-to-block-all)
+- [chrome performance monitor fps counter](/articles/chrome-performance-monitor-fps-counter)
+- [chrome reduce data usage tips](/articles/chrome-reduce-data-usage-tips)

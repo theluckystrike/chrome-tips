@@ -62,6 +62,7 @@ Regularly review your open tabs and close anything you no longer need. It is eas
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+- [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does)
+- [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app)
+- [Chrome for Omnibox Search Tricks](/articles/chrome-for-omnibox-search-tricks)

@@ -54,6 +54,7 @@ Remember that some CPU usage from Chrome is completely normal, especially when y
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Helper Renderer Using Too Much CPU](/chrome-helper-renderer-using-too-much-cpu)
-- [Chrome Service Worker High CPU Fix](/chrome-service-worker-high-cpu-fix)
-- [Chrome Using 100 Percent CPU Fix Windows](/chrome-using-100-percent-cpu-fix-windows)
+
+- [Best Chrome Extensions for Data Analysts](/articles/best-chrome-extensions-for-data-analysts)
+- [Chrome Bookmark Bar Disappeared How to Get Back](/articles/chrome-bookmark-bar-disappeared-how-to-get-back)
+- [Chrome Split Screen Without Extension](/articles/chrome-split-screen-without-extension)

@@ -67,6 +67,7 @@ The next time you need to show something during a video call, remember that you 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
-- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
-- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
+
+- [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension)
+- [Chrome Certificate Transparency Explained Simply](/articles/chrome-certificate-transparency-explained-simply)
+- [Chrome Notifications Won't Stop Popping Up? Here's How to Fix It](/articles/chrome-notifications-wont-stop-popping-up)

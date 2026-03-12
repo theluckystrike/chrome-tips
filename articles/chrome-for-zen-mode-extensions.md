@@ -64,6 +64,7 @@ Remember that chrome for zen mode extensions are tools to help you, not rules to
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+
+- [Chrome Set Methods: Union and Intersection Made Simple](/articles/chrome-set-methods-union-intersection)
+- [Chrome Keeps Stopping on Android Fix](/articles/chrome-keeps-stopping-on-android-fix)
+- [Chrome Super Cookies: What Are They](/articles/chrome-super-cookies-what-are-they)

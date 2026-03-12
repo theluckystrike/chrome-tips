@@ -66,6 +66,7 @@ Give Web NFC a try with compatible tags and see how quickly you can access infor
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Web Share Api How It Works](/chrome-web-share-api-how-it-works)
-- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
-- [Chrome PWA Update Mechanism How It Works](/chrome-pwa-update-mechanism-how-it-works)
+
+- [Chrome Extension Permissions Best Practices](/articles/chrome-extension-permissions-best-practices)
+- [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage)
+- [Chrome for Screencastify Extension Guide](/articles/chrome-for-screencastify-extension-guide)

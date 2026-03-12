@@ -102,6 +102,7 @@ Extensions like this work alongside your installed apps to make your Chromebook 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chromebook Running Slow How to Fix](/chromebook-running-slow-how-to-fix)
-- [Chrome Install As App Pwa How To](/chrome-install-as-app-pwa-how-to)
-- [Chromebook External Monitor How to Connect](/chromebook-external-monitor-how-to-connect)
+
+- [Chrome Minimum Font Size Setting Where to Find It](/articles//chrome-minimum-font-size-setting-where/)
+- [Chrome Zoom Level How to Set Default](/articles/chrome-zoom-level-how-to-set-default)
+- [Best Chrome Extensions for Reddit Users](/articles/best-chrome-extensions-for-reddit-users)

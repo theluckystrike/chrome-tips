@@ -72,6 +72,7 @@ Remember that extensions are tools, and like any tools, they work best when used
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Productivity Dashboard](/chrome-extensions-for-productivity-dashboard)
-- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
-- [Chrome for Email Productivity Extensions](/chrome-for-email-productivity-extensions)
+
+- [Chrome Anchor Positioning API Explained](/articles/chrome-anchor-positioning-api-explained)
+- [Chrome Unicode Symbols How to Insert](/articles/chrome-unicode-symbols-how-to-insert)
+- [Chrome Payment Methods How to Remove](/articles/chrome-payment-methods-how-to-remove)

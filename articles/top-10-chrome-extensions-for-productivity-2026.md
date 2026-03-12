@@ -88,6 +88,7 @@ With the right Chrome extensions, your browser can become a powerful tool for ge
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions For Teachers 2026](/chrome-extensions-for-teachers-2026)
-- [Chrome Extensions for Productivity Students](/chrome-extensions-for-productivity-students)
-- [Chrome For Gmail Productivity Extensions](/chrome-for-gmail-productivity-extensions)
+
+- [Chrome Update Problems Fix](/articles/chrome-update-problems-fix)
+- [How to Force Dark Mode on All Websites in Chrome](/articles//chrome-dark-mode-force-all-websites/)
+- [Chrome Memory Leak Detection Guide](/articles/chrome-memory-leak-detection)

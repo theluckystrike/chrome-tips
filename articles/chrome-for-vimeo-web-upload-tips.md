@@ -76,6 +76,7 @@ These chrome for vimeo web upload tips should help you get your videos online mo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Costco Web Shopping Tips](/chrome-for-costco-web-shopping-tips)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
-- [Chrome For Rosetta Stone Web Tips](/chrome-for-rosetta-stone-web-tips)
+
+- [chrome topics api explained simply](/articles/chrome-topics-api-explained-simply)
+- [Chrome Guest Mode What Gets Saved](/articles/chrome-guest-mode-what-gets-saved)
+- [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix)

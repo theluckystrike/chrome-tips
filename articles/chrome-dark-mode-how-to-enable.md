@@ -101,6 +101,7 @@ Give dark mode a try, especially during evening hours. You might find that it ma
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Reading Mode — How to Enable and Use It](/chrome-reading-mode-how-to-enable)
-- [Chrome Devtools Dark Theme How To Enable](/chrome-devtools-dark-theme-how-to-enable)
-- [Chrome Android Dark Mode How to Enable](/chrome-android-dark-mode-how-to-enable)
+
+- [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix)
+- [Chrome Web MIDI API for Musicians](/articles/chrome-web-midi-api-for-musicians)
+- [Chrome Address Bar Tips and Tricks](/articles/chrome-address-bar-tips-and-tricks)

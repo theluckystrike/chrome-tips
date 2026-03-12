@@ -100,3 +100,9 @@ These steps work together to reduce the strain on your computer when Chrome laun
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Tor Browsing Is It Possible](/articles/chrome-for-tor-browsing-is-it-possible)
+- [Chrome Translate Entire Page How To](/articles/chrome-translate-entire-page-how-to)
+- [Chrome Extensions For Dropbox](/articles//articles/chrome-extensions-for-dropbox/)

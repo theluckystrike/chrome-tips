@@ -72,3 +72,9 @@ By understanding what the Chrome Topics API is and how it works, you are already
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Web Codec API Video Processing](/articles/chrome-web-codec-api-video-processing)
+- [Chrome for Web3 Browsing Extensions](/articles/chrome-for-web3-browsing-extensions)
+- [Chrome Status Invalid Image Hash Fix](/articles/chrome-status-invalid-image-hash-fix)

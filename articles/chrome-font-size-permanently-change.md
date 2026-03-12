@@ -106,3 +106,9 @@ Remember that accessibility matters—don't struggle with tiny text when Chrome 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Set Up Chrome Pop Up Blocker Exceptions](/articles/chrome-pop-up-blocker-exceptions)
+- [Chrome for Quick Commands Feature](/articles/chrome-for-quick-commands-feature)
+- [Chrome for Fitness Tracking Web Apps](/articles/chrome-for-fitness-tracking-web-apps)

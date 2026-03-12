@@ -124,3 +124,9 @@ Remember to explore all the features we covered in this guide, experiment with d
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Taking Notes While Browsing](/articles/chrome-extension-for-taking-notes-while-browsing)
+- [Chrome Android Tips and Tricks 2026](/articles/chrome-android-tips-and-tricks-2026)
+- [How to Tell Which Chrome Tab Is Draining Battery](/articles/how-to-tell-which-chrome-tab-is-draining-battery)

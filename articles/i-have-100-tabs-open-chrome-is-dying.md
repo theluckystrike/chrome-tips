@@ -127,3 +127,9 @@ Your browser should work for you, not against you. Try these steps today, and yo
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage/)
+- [Chrome Auto Dark Mode for Web Contents](/articles/chrome-auto-dark-mode-for-web-contents)
+- [Chrome Extensions for Markdown Editor Preview](/articles/chrome-extensions-for-markdown-editor-preview)

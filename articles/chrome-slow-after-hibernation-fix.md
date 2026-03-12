@@ -73,6 +73,7 @@ As a last resort, you might want to check if there are any background processes 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
-- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
-- [How to Fix Chrome Notion Slow and Laggy Issues](/chrome-notion-slow-and-laggy-fix)
+
+- [Chrome Hijacked Homepage Fix](/articles/chrome-hijacked-homepage-fix)
+- [Best Chrome Extensions For Journalists](/articles/best-chrome-extensions-for-journalists)
+- [Chrome WebRTC Leak Test and Fix Guide](/articles/chrome-webrtc-leak-test-and-fix-guide)

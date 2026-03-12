@@ -184,3 +184,9 @@ Don't let a Chrome update derail your workflow. With these practical solutions, 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Should I Switch to Firefox for Less RAM? A Practical Guide](/articles/should-i-switch-to-firefox-for-less-ram)
+- [Chrome Gap Property CSS Flexbox Grid](/articles/chrome-gap-property-css-flexbox-grid)
+- [Chrome for Tab Organization Workflow](/articles/chrome-for-tab-organization-workflow)

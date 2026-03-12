@@ -64,6 +64,7 @@ The key is to start simple and add complexity only as you need it. Most people f
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)
-- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
-- [Chrome for Instapaper Web Clipper](/chrome-for-instapaper-web-clipper)
+
+- [Chrome Audit Page Seo How To](/articles/chrome-audit-page-seo-how-to)
+- [Chrome Sign in With Google on Websites Explained](/articles/chrome-sign-in-with-google-on-websites-explained)
+- [Chrome User Agent Switcher Explained](/articles/chrome-user-agent-switcher-explained)

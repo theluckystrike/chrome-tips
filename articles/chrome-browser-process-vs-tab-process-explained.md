@@ -79,6 +79,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Permissions on Android How to Manage](/chrome-permissions-on-android-how-to-manage)
-* [Chrome Developer Tools for Non Developers](//chrome-developer-tools-for-non-developers/)
-* [Chrome Extensions For Blue Light Filter](//articles/chrome-extensions-for-blue-light-filter/)
+- [Chrome Extensions For Faster Browsing](/articles//articles/chrome-extensions-for-faster-browsing/)
+- [Chrome Extensions for Workona Tab Manager](/articles/chrome-extensions-for-workona-tab-manager)
+- [How to Route Chrome Tab Audio to Separate Speakers](/articles/chrome-tab-audio-routing-separate-speakers)

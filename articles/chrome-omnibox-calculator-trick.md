@@ -115,3 +115,9 @@ Next time you need to do quick math while browsing, skip the calculator app—ju
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Layout Instability API Explained](/articles/chrome-layout-instability-api-explained)
+- [Chrome Energy Saver Mode What Does It Do](/articles/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome for Grammar Checking Extensions](/articles/chrome-for-grammar-checking-extensions)

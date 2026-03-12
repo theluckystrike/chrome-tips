@@ -70,6 +70,7 @@ The Chrome Element Inspector is an incredibly versatile tool that goes far beyon
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
-- [Chrome on iPhone — Tips and Tricks for 2026](/chrome-on-iphone-tips-and-tricks-2026)
-- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
+
+- [Chrome for Online Exams Best Settings](/articles/chrome-for-online-exams-best-settings)
+- [Chrome Scrolling Lag Fix](/articles/chrome-scrolling-lag-fix)
+- [Chrome vs Firefox on an Old Laptop — Which Is Better?](/articles/chrome-vs-firefox-on-old-laptop)

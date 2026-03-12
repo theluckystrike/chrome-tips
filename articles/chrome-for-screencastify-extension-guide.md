@@ -82,6 +82,7 @@ Remember to keep your browser running smoothly by managing your extensions and t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
-- [Chrome For Kayak Price Alerts Extension](/chrome-for-kayak-price-alerts-extension)
-- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
+
+- [Chrome Extensions for Raindrop IO](/articles/chrome-extensions-for-raindrop-io)
+- [Chrome Web OTP API Explained](/articles/chrome-web-otp-api-explained)
+- [Chrome for Dailymotion Web Player](/articles/chrome-for-dailymotion-web-player)

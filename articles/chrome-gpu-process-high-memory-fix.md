@@ -75,6 +75,7 @@ Remember that some level of GPU memory usage is normal and expected, especially 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
-- [Chrome Using Swap Memory Fix](/chrome-using-swap-memory-fix)
-- [Chrome High Memory Usage Mac Fix](/chrome-high-memory-usage-mac-fix)
+
+- [Chrome for Rain Sounds Background](/articles/chrome-for-rain-sounds-background)
+- [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters)
+- [Chrome Android Tips To Save Data](/articles/chrome-android-tips-to-save-data)

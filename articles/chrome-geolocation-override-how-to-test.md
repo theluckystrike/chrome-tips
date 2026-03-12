@@ -81,6 +81,7 @@ Remember to refresh your pages after changing the override, verify that the webs
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Send Feedback to Google How to](/chrome-send-feedback-to-google-how-to)
-- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+
+- [Chrome Has Selector Explained](/articles/chrome-has-selector-explained)
+- [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/articles/chrome-coverage-tool-find-unused-css)
+- [Chrome Extensions for uBlock Origin Setup Guide](/articles/chrome-extensions-for-ublock-origin-setup-guide)

@@ -67,6 +67,7 @@ Understanding chrome service worker caching strategies gives you insight into ho
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
-- [Chrome Service Worker Debugging Guide](/chrome-service-worker-debugging)
-- [Chrome Service Worker High CPU Fix](/chrome-service-worker-high-cpu-fix)
+
+- [chrome logpoints debug without console log](/articles/chrome-logpoints-debug-without-console-log)
+- [Chrome Extensions for Tab Notes](/articles/chrome-extensions-for-tab-notes)
+- [chrome extensions for ruler measurement](/articles/chrome-extensions-for-ruler-measurement)

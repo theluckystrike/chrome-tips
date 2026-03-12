@@ -76,6 +76,7 @@ Remember that you do not have to accept Chrome's default behavior. With a few tw
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
-- [Chrome Autofill Credit Card How to Remove](/chrome-autofill-credit-card-how-to-remove)
-- [Chrome Payment Methods How to Remove](/chrome-payment-methods-how-to-remove)
+
+- [Chrome Extension for Saving Passwords Securely](/articles/chrome-extension-for-saving-passwords-securely)
+- [Chrome for QuickBooks Online Best Settings](/articles/chrome-for-quickbooks-online-best-settings)
+- [Chrome Biometric Authentication for the Web](/articles/chrome-biometric-authentication-web)

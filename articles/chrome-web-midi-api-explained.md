@@ -51,6 +51,7 @@ Understanding the Chrome Web MIDI API explained in simple terms helps demystify 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Web OTP API Explained](/chrome-web-otp-api-explained)
-- [Chrome Web Animation API Explained](/chrome-web-animation-api-explained)
-- [Chrome Web GPU API Explained](/chrome-web-gpu-api-explained)
+
+- [Chrome Password Manager vs Bitwarden: Which One Should You Use?](/articles/chrome-password-manager-vs-bitwarden)
+- [Chrome Camera Permission for One Site How to Set](/articles/chrome-camera-permission-for-one-site-how-to-set)
+- [Chrome Extension for Changing User Agent](/articles/chrome-extension-for-changing-user-agent)

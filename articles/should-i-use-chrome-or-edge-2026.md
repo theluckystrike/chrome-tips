@@ -78,6 +78,7 @@ Ultimately, both are world-class browsers. If you find yourself struggling with 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome vs Edge Speed Test 2026](/chrome-vs-edge-speed-test-2026)
-- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
-- [Chrome vs Edge RAM Usage Comparison 2026](/chrome-vs-edge-ram-usage-comparison-2026)
+
+- [Computer Fan Goes Crazy When Chrome Opens - Fix It Fast](/articles/computer-fan-goes-crazy-when-chrome-opens)
+- [Chrome Default Download Location How to Change](/articles//chrome-default-download-location-how-to-change/)
+- [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained)

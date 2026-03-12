@@ -87,3 +87,9 @@ As PWAs continue to evolve and become more sophisticated, storage management wil
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Amazon FBA Sellers](/articles/chrome-extensions-for-amazon-fba-sellers)
+- [Chrome for Touchscreen Optimization Tips](/articles/chrome-for-touchscreen-optimization-tips)
+- [How to Use Chrome Task Manager to Find Heavy Tabs](/articles/chrome-task-manager-find-heavy-tabs)

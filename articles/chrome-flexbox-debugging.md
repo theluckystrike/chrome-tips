@@ -119,6 +119,7 @@ With practice, you will develop an intuition for recognizing and fixing flexbox 
 *Built by theluckystrike — More tips at https://zovo.one*
 
 ## Related Articles
-- [Chrome Flexbox Layout Complete Guide](/chrome-flexbox-layout-complete-guide)
-- [Chrome WebAssembly Debugging Guide](/chrome-wasm-debugging-guide)
-- [Chrome Breakpoints and Conditional Debugging Guide](/chrome-breakpoints-conditional-debugging-guide)
+
+- [Chrome Opens on Startup Windows: How to Stop](/articles/chrome-opens-on-startup-windows-how-to-stop)
+- [Chrome Live Captions Languages: Complete Setup Guide](/articles/chrome-live-captions-languages)
+- [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling)

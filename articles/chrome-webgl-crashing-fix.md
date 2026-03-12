@@ -100,6 +100,7 @@ Remember that keeping your system resources in check and using tools like Tab Su
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Keep Crashing Fix 2026](/chrome-keep-crashing-fix-2026)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-- [Chrome Crashing on iPhone Fix](/chrome-crashing-on-iphone-fix)
+
+- [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop)
+- [Chrome Large Font Easy to Read Setup](/articles/chrome-large-font-easy-to-read-setup)
+- [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer)

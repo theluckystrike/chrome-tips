@@ -74,6 +74,7 @@ Using YouTube Music through Chrome is a great way to enjoy your favorite tracks 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
-- [Chrome For Odysee Web Player Tips](/chrome-for-odysee-web-player-tips)
-- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)
+
+- [Chrome Scroll to Top of Page Shortcut](/articles/chrome-scroll-to-top-of-page-shortcut)
+- [Chrome for Coupon Finding Best Extensions](/articles/chrome-for-coupon-finding-best-extensions)
+- [Chrome for Waze Web Tips](/articles/chrome-for-waze-web-tips)

@@ -168,3 +168,9 @@ For the best browsing experience, combine hardware acceleration with smart tab m
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Reader View on Any Website](/articles/chrome-for-reader-view-on-any-website)
+- [Chrome Wont Install on Mac Fix](/articles/chrome-wont-install-on-mac-fix)
+- [Chrome Anti Fingerprinting Extensions Best](/articles/chrome-anti-fingerprinting-extensions-best)

@@ -81,6 +81,7 @@ Give these tips a try and experiment with different settings. You might be surpr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Google Classroom Tips](/chrome-for-google-classroom-tips)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
-- [Chrome for Google Keep Extension Tips](/chrome-for-google-keep-extension-tips)
+
+- [Chrome Extensions for Quick Notes Sidebar](/articles/chrome-extensions-for-quick-notes-sidebar)
+- [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-explained)
+- [How to Export Chrome Passwords](/articles/how-to-export-chrome-passwords)

@@ -75,6 +75,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
-* [Chrome Zoom Level How to Set Default](/chrome-zoom-level-how-to-set-default)
-* [Chrome Search Engine Keeps Changing to Yahoo Fix](/chrome-search-engine-keeps-changing-to-yahoo-fix)
+- [chrome web nfc how it works](/articles/chrome-web-nfc-how-it-works)
+- [How to Stop Chrome from Opening on Startup](/articles/how-to-stop-chrome-from-opening-on-startup)
+- [Best Dark Mode Chrome Extension](/articles/best-dark-mode-chrome-extension)

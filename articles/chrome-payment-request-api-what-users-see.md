@@ -91,3 +91,9 @@ Using a tab management extension like **Tab Suspender Pro** complements the **Pa
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Add to Home Screen vs Install App](/articles/chrome-add-to-home-screen-vs-install-app)
+- [Why Chrome Is Slow on Battery But Fast When Plugged In](/articles/chrome-slow-on-battery-but-fast-plugged-in)
+- [chrome site isolation what it does](/articles/chrome-site-isolation-what-it-does)

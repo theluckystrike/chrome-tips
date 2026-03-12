@@ -77,6 +77,7 @@ The best part is that you do not need to learn all of them at once. Start with t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Google Docs Keyboard Shortcuts](/chrome-google-docs-keyboard-shortcuts)
-- [Chrome Tab Groups Keyboard Shortcuts](/chrome-tab-groups-keyboard-shortcuts)
-- [Chrome Keyboard Shortcuts for Power Users](/chrome-keyboard-shortcuts-for-power-users)
+
+- [Best Chrome Extensions for Small Business Owners](/articles/best-chrome-extensions-for-small-business-owners)
+- [Chrome Extensions for Instapaper](/articles/chrome-extensions-for-instapaper)
+- [Chrome Passkeys Guide 2026](/articles/chrome-passkeys-guide-2026)

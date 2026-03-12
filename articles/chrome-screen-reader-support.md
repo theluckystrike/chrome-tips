@@ -115,3 +115,9 @@ Remember that your needs may change over time, so periodically review your setup
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Live Caption How It Works](/articles/chrome-live-caption-how-it-works)
+- [Chrome Content Security Policy Explained: A Complete Guide](/articles/chrome-content-security-policy-explained)
+- [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management)

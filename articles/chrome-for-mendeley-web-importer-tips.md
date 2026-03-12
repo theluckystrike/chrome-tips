@@ -80,6 +80,7 @@ Set aside a few minutes each week to review what you have saved, add relevant ta
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Odysee Web Player Tips](/chrome-for-odysee-web-player-tips)
-- [Chrome For Rosetta Stone Web Tips](/chrome-for-rosetta-stone-web-tips)
-- [Chrome for Costco Web Shopping Tips](/chrome-for-costco-web-shopping-tips)
+
+- [Chrome Memory Inspector How to Use](/articles/chrome-memory-inspector-how-to-use)
+- [Chrome WebRTC Leak Prevention Guide](/articles/chrome-webrtc-leak-prevention-guide)
+- [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead)

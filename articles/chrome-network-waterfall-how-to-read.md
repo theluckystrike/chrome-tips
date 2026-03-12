@@ -72,6 +72,7 @@ A well-performing website should load most of its content within a few seconds. 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Desktop Shortcuts How To Create](/chrome-desktop-shortcuts-how-to-create)
-- [Chrome Network Tab: How to Use and Debug Network Requests](/chrome-network-tab-how-to-use-debug)
-- [How to Throttle Network Speed in Chrome](/chrome-throttle-network-speed-how-to)
+
+- [Chrome Session Restore Not Working Fix](/articles/chrome-session-restore-not-working-fix)
+- [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization)
+- [Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM](/articles/chrome-slow-on-work-computer-vpn)

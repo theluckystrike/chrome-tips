@@ -114,3 +114,9 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 >>>>>>> qa/loop-3
+
+## Related Articles
+
+- [How to Find a Tab by Name in Chrome: Complete Guide](/articles/chrome-find-tab-by-name-search)
+- [Chrome Navigate Back With Gesture How to](/articles/chrome-navigate-back-with-gesture-how-to)
+- [chrome surfshark extension review 2026](/articles/chrome-surfshark-extension-review-2026)

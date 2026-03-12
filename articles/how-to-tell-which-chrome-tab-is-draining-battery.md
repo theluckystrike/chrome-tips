@@ -68,6 +68,7 @@ Review your extensions regularly to remove any you no longer need. Each extensio
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
-- [How to Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
-- [Chrome Version How to Check Which Version](/chrome-version-how-to-check-which-version)
+
+- [How to Make Chrome Kid-Friendly](/articles/how-to-make-chrome-kid-friendly)
+- [Best Chrome Extensions for Recruiters](/articles/best-chrome-extensions-for-recruiters)
+- [Chrome Casting to TV How to Setup](/articles/chrome-casting-to-tv-how-to-setup)

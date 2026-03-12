@@ -135,3 +135,9 @@ Experiment with both methods to find what works best for you. With the right org
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome iOS Tips and Tricks for 2026](/articles/chrome-ios-tips-and-tricks-2026)
+- [Chrome Sharing Screen in Video Calls](/articles/chrome-sharing-screen-in-video-calls)
+- [Chrome for Obsidian Web Clipper Setup](/articles/chrome-for-obsidian-web-clipper-setup)

@@ -82,6 +82,7 @@ If you run into issues, check your network connection, make sure your TV is comp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Cast to TV How to Set Up](/chrome-cast-to-tv-how-to-set-up)
-- [Chrome Which Tab Is Using Most CPU How to Find](/chrome-which-tab-is-using-most-cpu-how-to-find)
-- [Chrome Tab Groups Auto Create How To Set Up](/chrome-tab-groups-auto-create-how-to-set-up)
+
+- [Chrome Extensions for Weather Forecast](/articles/chrome-extensions-for-weather-forecast)
+- [Chrome Send to Device Feature How to Use](/articles/chrome-send-to-device-feature-how-to-use)
+- [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable)

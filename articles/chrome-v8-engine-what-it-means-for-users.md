@@ -70,3 +70,9 @@ If you notice Chrome running slowly, checking how many tabs you have open is oft
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Translate Entire Page How To](/articles/chrome-translate-entire-page-how-to)
+- [How to Fix Slow Slack Web App in Chrome](/articles/chrome-slack-web-app-slow-fix)
+- [Chrome for Google Keep Extension Tips](/articles/chrome-for-google-keep-extension-tips)

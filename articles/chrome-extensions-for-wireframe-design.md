@@ -33,6 +33,7 @@ The right combination of Chrome extensions for wireframe design depends on your 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [Chrome requestanimationframe Explained: What It Means for Your Browser](/articles/chrome-requestanimationframe-explained)
+- [Chrome Google Search Not Working Fix](/articles/chrome-google-search-not-working-fix)
+- [Chrome Cookies Keep Getting Deleted Fix](/articles/chrome-cookies-keep-getting-deleted-fix)

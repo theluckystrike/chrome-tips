@@ -84,6 +84,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Restore Tabs Not Working After Update: Practical Fixes](/chrome-restore-tabs-not-working-after-update)
-* [How to See Chrome Tabs From Other Devices](/chrome-tabs-from-other-devices-how-to-see)
-* [Chrome for Salesforce Web App Optimization](/chrome-for-salesforce-web-app-optimization)
+- [Chrome Extension for Saving Articles Offline](/articles/chrome-extension-for-saving-articles-offline)
+- [Chrome Mobile vs Desktop Features Difference: What You Need to Know](/articles/chrome-mobile-vs-desktop-features-difference)
+- [Chrome DevTools Command Menu Shortcuts](/articles//chrome-devtools-command-menu-shortcuts/)

@@ -64,6 +64,7 @@ Take some time to try a few different extensions to find the one that works best
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+
+- [Chrome Push Notifications vs Email Comparison](/articles/chrome-push-notifications-vs-email-comparison)
+- [Chrome User Agent Switcher Explained](/articles/chrome-user-agent-switcher-explained)
+- [Chrome WebRTC Leak Test and Fix Guide](/articles/chrome-webrtc-leak-test-and-fix-guide)

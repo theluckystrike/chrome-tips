@@ -120,3 +120,9 @@ Start by enabling Memory Saver, then clean up your extensions and close tabs you
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension GDPR Compliance Guide](/articles/chrome-extension-gdpr-compliance-guide)
+- [Chrome Developer Mode Extensions Guide](/articles//chrome-developer-mode-extensions/)
+- [chrome right to left language support](/articles/chrome-right-to-left-language-support)

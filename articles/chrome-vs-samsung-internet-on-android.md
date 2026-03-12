@@ -59,3 +59,9 @@ Regardless of which browser you choose, keeping track of many open tabs can beco
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Website Monitoring Extensions](/articles/chrome-for-website-monitoring-extensions)
+- [Best Chrome Extensions for Cybersecurity Professionals](/articles/best-chrome-extensions-for-cybersecurity-professionals)
+- [Chrome Web Push Notifications Setup Guide](/articles/chrome-web-push-notifications-setup-guide)

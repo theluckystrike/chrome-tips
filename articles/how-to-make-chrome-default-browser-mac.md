@@ -72,6 +72,7 @@ Setting Chrome as your default browser is a small change that can significantly 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
-- [Chrome Default Browser How To Set Windows Mac](/chrome-default-browser-how-to-set-windows-mac)
+
+- [Chrome Extensions For Code Snippet Manager](/articles//articles/chrome-extensions-for-code-snippet-manager/)
+- [Chrome Extensions for Hotel Deal Finder](/articles/chrome-extensions-for-hotel-deal-finder)
+- [Chrome vs Vivaldi for Power Users](/articles/chrome-vs-vivaldi-for-power-users)

@@ -92,6 +92,7 @@ Taking a few minutes to set up your download location and organize your files ca
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
-- [Chrome Zoom Level How to Set Default](/chrome-zoom-level-how-to-set-default)
-- [Chrome Default Browser How To Set Windows Mac](/chrome-default-browser-how-to-set-windows-mac)
+
+- [Chrome Follow Button for Websites How to Use](/articles/chrome-follow-button-for-websites-how-to-use)
+- [Chrome Side by Side Tabs How to Split Screen](/articles/chrome-side-by-side-tabs-how-to-split-screen)
+- [Chrome DevTools Performance Panel Explained](/articles/chrome-devtools-performance-panel-explained)

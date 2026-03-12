@@ -84,3 +84,9 @@ Remember that everyone is searching for chrome touchscreen mode how to enable be
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Password Autofill Stopped Working: Fix It Now](/articles/chrome-password-autofill-stopped-working)
+- [Chrome Extensions for Website Speed Test](/articles/chrome-extensions-for-website-speed-test)
+- [Chrome Android Tabs Too Many How to Manage](/articles/chrome-android-tabs-too-many-how-to-manage)

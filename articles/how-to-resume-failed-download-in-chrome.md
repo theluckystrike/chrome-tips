@@ -75,6 +75,7 @@ And finally, managing your tabs and extensions so that Chrome runs smoothly redu
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
-- [How to Change Default Download Location Chrome](/how-to-change-default-download-location-chrome)
-- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
+
+- [Chrome Cookie Consent Popups How to Handle](/articles/chrome-cookie-consent-popups-how-to-handle)
+- [Chrome Version History: Major Changes You Should Know About](/articles/chrome-version-history-major-changes)
+- [Chrome Regex Lookbehind Support: What You Need to Know](/articles/chrome-regex-lookbehind-support)

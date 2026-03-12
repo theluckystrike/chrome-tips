@@ -69,6 +69,7 @@ Make it a habit to close tabs you don't need and update Chrome regularly. These 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Save All Open Tabs As Bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
-- [Best Chrome Extensions for Reddit Users](/best-chrome-extensions-for-reddit-users)
-- [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)
+
+- [Chrome Google Sheets Keyboard Shortcuts](/articles/chrome-google-sheets-keyboard-shortcuts)
+- [Chrome Extension for Email Tracking Notification](/articles/chrome-extension-for-email-tracking-notification)
+- [Chrome for Citation Manager Extensions](/articles/chrome-for-citation-manager-extensions)

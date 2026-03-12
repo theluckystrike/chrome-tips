@@ -60,6 +60,7 @@ Check your extensions periodically to make sure you only have ones you actually 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chrome Version How to Check Which Version](/chrome-version-how-to-check-which-version)
-- [How to Tell Which Chrome Tab Is Draining Battery](/how-to-tell-which-chrome-tab-is-draining-battery)
+
+- [How to Find Which Extension is Slowing Chrome](/articles/how-to-find-which-extension-is-slowing-chrome)
+- [Chrome for Tab Organization Workflow](/articles/chrome-for-tab-organization-workflow)
+- [Chrome Address Bar Shortcuts You Should Know](/articles/chrome-address-bar-shortcuts-you-should-know)

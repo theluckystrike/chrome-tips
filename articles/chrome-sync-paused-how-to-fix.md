@@ -81,3 +81,9 @@ By understanding why sync pauses and knowing how to fix it, you can ensure your 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Profile Import From Another Computer](/articles/chrome-profile-import-from-another-computer)
+- [Chrome Inspect Element for Beginners](/articles/chrome-inspect-element-for-beginners)
+- [Chrome for Claude AI Web Tips](/articles/chrome-for-claude-ai-web-tips)

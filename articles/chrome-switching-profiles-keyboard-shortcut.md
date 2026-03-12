@@ -63,6 +63,7 @@ Finding the right approach depends on how often you switch profiles and what wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
-- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
-- [Chrome for Keyboard Shortcut Customization](/chrome-for-keyboard-shortcut-customization)
+
+- [Chrome History Search Tips and Tricks](/articles/chrome-history-search-tips-and-tricks)
+- [Chrome Web Animation API Explained](/articles/chrome-web-animation-api-explained)
+- [Chrome Extensions for Meal Planning Recipes](/articles/chrome-extensions-for-meal-planning-recipes)

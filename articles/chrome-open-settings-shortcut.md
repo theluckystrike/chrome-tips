@@ -96,3 +96,9 @@ Once in settings, you can customize nearly every aspect of your Chrome browsing 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome This Site Cant Be Reached Fix](/articles/chrome-this-site-cant-be-reached-fix)
+- [How to Force Dark Mode on All Websites in Chrome](/articles//chrome-dark-mode-force-all-websites/)
+- [chrome coupons in address bar feature](/articles/chrome-coupons-in-address-bar-feature)

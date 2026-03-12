@@ -82,3 +82,9 @@ Ultimately, because both are built on Chromium, you can't really make a "wrong" 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Fullscreen Not Working Fix](/articles/chrome-fullscreen-not-working-fix)
+- [Chrome Geolocation Permission Settings](/articles/chrome-geolocation-permission-settings)
+- [Chrome Permission Denied How to Fix](/articles/chrome-permission-denied-how-to-fix)

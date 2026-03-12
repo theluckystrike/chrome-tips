@@ -67,6 +67,7 @@ If you are looking for extensions that have stood the test of time and earned ge
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Web Store How to Find Safe Extensions](/chrome-web-store-how-to-find-safe-extensions)
-- [Chrome Web Bluetooth How To Use](/chrome-web-bluetooth-how-to-use)
-- [Chrome Web Vitals Extension How to Use](/chrome-web-vitals-extension-how-to-use)
+
+- [Chrome for Screencastify Extension Guide](/articles/chrome-for-screencastify-extension-guide)
+- [Chrome Site Isolation What It Means](/articles/chrome-site-isolation-what-it-means)
+- [How to Sync Chrome Bookmarks Between Phone and Computer](/articles/chrome-bookmark-sync-between-phone-and-computer)

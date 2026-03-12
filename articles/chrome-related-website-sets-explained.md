@@ -95,3 +95,9 @@ While the feature works automatically, understanding how it functions allows you
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Font Changing](/articles//articles/chrome-extensions-for-font-changing/)
+- [Chrome for TickTick in Browser Tips](/articles/chrome-for-ticktick-in-browser-tips)
+- [Chrome Using Swap Memory Fix](/articles/chrome-using-swap-memory-fix)

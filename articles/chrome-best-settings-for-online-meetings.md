@@ -75,6 +75,6 @@ Most meeting problems stem from Chrome using too many resources or competing for
 
 ## Related Articles
 
-* [Chrome Hardware Acceleration Guide](/chrome-hardware-acceleration-guide)
-* [Chrome Background Fetch for PWAs Explained](/chrome-background-fetch-for-pwas-explained)
-* [Chrome Voice Control How to Use](/chrome-voice-control-how-to-use)
+- [Chrome Closed Captions on Any Video](/articles/chrome-closed-captions-on-any-video)
+- [Chrome Not Responding? Force Close It This Way](/articles/chrome-not-responding-force-close-how)
+- [Chrome Extensions for Noscript Alternative](/articles/chrome-extensions-for-noscript-alternative)

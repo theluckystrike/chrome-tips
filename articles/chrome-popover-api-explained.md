@@ -51,3 +51,9 @@ If you manage many tabs and notice performance improvements from more efficient 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature)
+- [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix)
+- [Chrome WebAssembly Debugging Guide](/articles/chrome-wasm-debugging-guide)

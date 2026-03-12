@@ -78,3 +78,9 @@ You should also pay attention to whether an extension continues to work properly
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Sync What Data Gets Synced](/articles/chrome-sync-what-data-gets-synced)
+- [Chrome Network Process Using Too Much Memory](/articles/chrome-network-process-using-too-much-memory)
+- [Chrome Web and App Activity How to Delete](/articles/chrome-web-and-app-activity-how-to-delete)

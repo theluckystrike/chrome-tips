@@ -89,3 +89,9 @@ The key is to understand when and how to use this feature effectively. Not every
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome 2026 New Features Overview](/articles/chrome-2026-new-features-overview)
+- [How to Uninstall Chrome Completely and Reinstall](/articles/how-to-uninstall-chrome-completely-and-reinstall)
+- [Chrome Extensions For Calendar Integration](/articles//articles/chrome-extensions-for-calendar-integration/)

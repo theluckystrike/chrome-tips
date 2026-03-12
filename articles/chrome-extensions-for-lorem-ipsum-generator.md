@@ -56,6 +56,7 @@ Taking a moment to organize your extension collection and ensure your browser is
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+
+- [How to Find Chrome Extensions That Slow Down Browser](/articles/how-to-find-chrome-extensions-that-slow-down-browser)
+- [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained)
+- [Best Chrome Settings for a Slow Computer](/articles/best-chrome-settings-for-slow-computer)

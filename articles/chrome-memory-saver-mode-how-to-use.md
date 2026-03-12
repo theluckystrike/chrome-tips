@@ -84,6 +84,7 @@ Memory Saver handles the heavy lifting so you can focus on your work without wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
-- [Chrome Memory Inspector How to Use](/chrome-memory-inspector-how-to-use)
-- [Chrome Devtools Responsive Mode How to Use](/chrome-devtools-responsive-mode-how-to-use)
+
+- [chrome pi hole vs browser ad blocker comparison](/articles/chrome-pi-hole-vs-browser-ad-blocker-comparison)
+- [Chrome Cookies Keep Getting Deleted Fix](/articles/chrome-cookies-keep-getting-deleted-fix)
+- [chrome extensions for screen dimmer](/articles/chrome-extensions-for-screen-dimmer)

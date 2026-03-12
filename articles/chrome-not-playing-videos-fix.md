@@ -112,6 +112,7 @@ Remember that most video playback problems have simple solutions. Start with the
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Zoom Meeting Not Working Fix](/chrome-zoom-meeting-not-working-fix)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome Translate Not Working? Here's How to Fix It](/chrome-translate-not-working-fix)
+
+- [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools)
+- [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change)
+- [Chrome AI Powered Search Suggestions](/articles/chrome-ai-powered-search-suggestions)

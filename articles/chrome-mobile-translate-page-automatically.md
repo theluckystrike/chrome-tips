@@ -67,6 +67,7 @@ Another common issue involves pages that use dynamic content or single-page appl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [How to Use Chrome Translate Page](/chrome-translate-page-how-to-use)
-- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
+
+- [chrome offline pages on phone how to save](/articles/chrome-offline-pages-on-phone-how-to-save)
+- [chrome for github best extensions](/articles/chrome-for-github-best-extensions)
+- [Chrome Extensions for Quick Notes Sidebar](/articles/chrome-extensions-for-quick-notes-sidebar)

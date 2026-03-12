@@ -84,3 +84,9 @@ Using a reputable antivirus program can also help by preventing malware that mig
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Subgrid Layout Examples: A Complete Guide](/articles/chrome-subgrid-layout-examples)
+- [Chrome for Reducing Eye Strain Extensions](/articles/chrome-for-reducing-eye-strain-extensions)
+- [chrome pwa offline capability how it works](/articles/chrome-pwa-offline-capability-how-it-works)

@@ -80,6 +80,7 @@ Try a few different extensions to see which one fits your workflow. Most of them
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Saving Articles to Read Later](/chrome-for-saving-articles-to-read-later)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+
+- [chrome webrtc video call quality improvement](/articles/chrome-webrtc-video-call-quality-improvement)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/articles/chrome-background-sync-explained)
+- [Chrome Extensions for Weather Forecast New Tab](/articles/chrome-extensions-for-weather-forecast-new-tab)

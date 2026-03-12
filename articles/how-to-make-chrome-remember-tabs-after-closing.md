@@ -98,6 +98,7 @@ Combine these methods for the best results. Enable Chrome's built-in restore, in
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How To Group Tabs In Chrome 2026](/how-to-group-tabs-in-chrome-2026)
-- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+
+- [Chrome IndexedDB vs LocalStorage Comparison](/articles/chrome-indexeddb-vs-localstorage-comparison)
+- [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage/)
+- [Chrome Family Link How to Use on Desktop](/articles/chrome-family-link-how-to-use-on-desktop)

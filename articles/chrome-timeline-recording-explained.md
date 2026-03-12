@@ -72,3 +72,9 @@ It also helps when Chrome has been gradually getting slower over time. By record
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Google Account Privacy Settings Guide](/articles/chrome-google-account-privacy-settings-guide)
+- [Chrome Components Page Update Manually](/articles/chrome-components-page-update-manually)
+- [Chrome Local Font Access for Web Design](/articles/chrome-local-font-access-web-design)

@@ -79,6 +79,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [chrome for shopify store management tips](/chrome-for-shopify-store-management-tips)
-* [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
-* [How to Allow Pop Ups on One Site Chrome](/how-to-allow-pop-ups-on-one-site-chrome)
+- [chrome gamepad api how to use](/articles/chrome-gamepad-api-how-to-use)
+- [How to Use Chrome Built In Screenshot Tool](/articles/how-to-use-chrome-built-in-screenshot-tool)
+- [How to Sign Out of Google in Chrome Without Losing Your Data](/articles/chrome-sign-out-of-google-without-losing-data)

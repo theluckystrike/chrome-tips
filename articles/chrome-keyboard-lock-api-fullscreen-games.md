@@ -222,3 +222,9 @@ For developers building browser-based games, pairing keyboard lock with extensio
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Social Media Managers](/articles/chrome-extensions-for-social-media-managers)
+- [Chrome Wappalyzer Alternative Built In](/articles/chrome-wappalyzer-alternative-built-in)
+- [Chrome Extension Alternative to Grammarly Free](/articles/chrome-extension-alternative-to-grammarly-free)

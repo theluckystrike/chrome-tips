@@ -75,6 +75,7 @@ Remember that Chrome shows these warnings to protect you. When you encounter a c
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Slow on School Laptop? Here's How to Fix It](/chrome-slow-on-school-laptop-how-to-fix)
-- [How to Disable Chrome Notifications Permanently](/how-to-disable-chrome-notifications-permanently)
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
+
+- [chrome privacy sandbox what regular users should know](/articles/chrome-privacy-sandbox-what-regular-users-should-know)
+- [Best Chrome Extensions for Accountants](/articles/best-chrome-extensions-for-accountants)
+- [Chrome Using Too Much Disk Space Fix](/articles/chrome-using-too-much-disk-space-fix)

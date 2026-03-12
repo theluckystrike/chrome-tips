@@ -90,3 +90,9 @@ For users who need to run Chrome alongside other memory-intensive applications, 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost](/articles/chrome-err-connection-refused-localhost-fix)
+- [Chrome Homepage Keeps Changing to Yahoo Fix](/articles/chrome-homepage-keeps-changing-to-yahoo-fix)
+- [Best Chrome Extensions for Marketing Professionals](/articles/best-chrome-extensions-for-marketing-professionals)

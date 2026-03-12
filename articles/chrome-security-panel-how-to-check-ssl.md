@@ -90,3 +90,9 @@ Using **Tab Suspender Pro** is a great way to keep your environment fast. It aut
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome for Deepl Translator Extension](/articles/chrome-for-deepl-translator-extension)
+- [Chrome Sharing Screen in Video Calls](/articles/chrome-sharing-screen-in-video-calls)
+- [Chrome Dark Mode How To Enable](/articles//chrome-dark-mode-how-to-enable/)

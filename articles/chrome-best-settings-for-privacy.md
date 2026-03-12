@@ -106,6 +106,6 @@ Being thoughtful about the information you share online and the permissions you 
 
 ## Related Articles
 
-* [Chrome Back Forward Cache How to Test](/chrome-back-forward-cache-how-to-test)
-* [Chrome Flexbox Debugging Guide](/chrome-flexbox-debugging)
-* [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
+- [Chrome Site Isolation Explained Simply](/articles/chrome-site-isolation-explained-simply)
+- [Chrome for Citation and Research Extensions](/articles/chrome-for-citation-and-research-extensions)
+- [Chrome for Adobe Creative Cloud Web Tips](/articles/chrome-for-adobe-creative-cloud-web-tips)

@@ -52,6 +52,7 @@ The next time you encounter a dead end while browsing, remember that help is jus
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [Chrome Animation Performance Guide](/articles/chrome-animation-performance)
+- [Chrome for Evernote Web Clipper Tips](/articles/chrome-for-evernote-web-clipper-tips)
+- [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use)

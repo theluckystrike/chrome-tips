@@ -78,3 +78,9 @@ Chrome's WebSocket inspection tools are continually improving, with new features
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Facebook Ads Manager Tips](/articles/chrome-for-facebook-ads-manager-tips)
+- [Chrome Hidden Games Easter Eggs List](/articles/chrome-hidden-games-easter-eggs-list)
+- [Chrome Default Download Location How to Set](/articles//chrome-default-download-location-how-to-set/)

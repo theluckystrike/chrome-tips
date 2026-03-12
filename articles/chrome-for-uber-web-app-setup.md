@@ -62,6 +62,7 @@ Setting up Chrome for Uber web apps does not require technical expertise or comp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
-- [Chrome For Anki Web Flashcards Setup](/chrome-for-anki-web-flashcards-setup)
-- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)
+
+- [Chrome Casting to Chromecast Not Working Fix](/articles/chrome-casting-to-chromecast-not-working-fix)
+- [Chrome for Speed Reading Extensions](/articles/chrome-for-speed-reading-extensions)
+- [Chrome Side by Side Tabs How to Split Screen](/articles/chrome-side-by-side-tabs-how-to-split-screen)

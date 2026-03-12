@@ -37,3 +37,9 @@ In summary, the chrome extension permissions too many warning is a useful featur
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug)
+- [chrome for protonmail in chrome setup](/articles/chrome-for-protonmail-in-chrome-setup)
+- [Chrome Site Settings Explained Complete Guide](/articles/chrome-site-settings-explained-complete-guide)

@@ -95,6 +95,6 @@ Chrome cookies do not have to be mysterious or confusing. They are simply small 
 
 ## Related Articles
 
-* [Chromebook Accessibility Features Guide](/chromebook-accessibility-features-guide)
-* [Chrome Network Process Using Too Much Memory](/chrome-network-process-using-too-much-memory)
-* [Chrome Zero Trust Security Model Explained](/chrome-zero-trust-security-model-explained)
+- [Chrome Settings You Should Change Right Now](/articles/chrome-settings-you-should-change-right-now)
+- [Chrome Extensions for Auto Tab Closer](/articles/chrome-extensions-for-auto-tab-closer)
+- [Chrome Source Maps Configuration Guide](/articles/chrome-source-maps-guide)

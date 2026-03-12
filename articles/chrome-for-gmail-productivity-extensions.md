@@ -71,6 +71,7 @@ Start simple, pay attention to what saves you time, and gradually build your too
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for Productivity Dashboard](/chrome-extensions-for-productivity-dashboard)
-- [Chrome Extensions for YouTube Productivity](/chrome-extensions-for-youtube-productivity)
+
+- [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/articles/chrome-whatsapp-web-not-connecting-fix)
+- [Chrome for edX Web App Best Settings](/articles/chrome-for-edx-web-app-best-settings)
+- [Chrome Allow Popups for One Site How To](/articles/chrome-allow-popups-for-one-site-how-to)

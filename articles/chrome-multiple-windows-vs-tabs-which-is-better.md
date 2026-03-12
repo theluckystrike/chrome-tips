@@ -87,6 +87,7 @@ Experiment with both methods and pay attention to when your browser feels slow o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)
-- [Chrome Reset vs Reinstall: Which Is Better?](/chrome-reset-vs-reinstall-which-is-better)
-- [Chrome vs Safari for iPhone Which is Better](/chrome-vs-safari-for-iphone-which-is-better)
+
+- [How to Find Which Extension is Slowing Chrome](/articles/how-to-find-which-extension-is-slowing-chrome)
+- [Chrome Font Palette CSS Explained](/articles/chrome-font-palette-css-explained)
+- [chrome extensions for web clipping](/articles/chrome-extensions-for-web-clipping)

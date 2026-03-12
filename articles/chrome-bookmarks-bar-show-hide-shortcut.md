@@ -85,6 +85,6 @@ Take a moment to practice the shortcut a few times. Within a day or two, it will
 
 ## Related Articles
 
-* [Chrome Instant Apps on Android Explained](/chrome-instant-apps-on-android-explained)
-* [Chrome Update Problems Fix](/chrome-update-problems-fix)
-* [Chrome Screen Share in Google Meet Tips](/chrome-screen-share-in-google-meet-tips)
+- [Best Way to Organize Chrome Tabs](/articles/best-way-to-organize-chrome-tabs)
+- [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/articles/chrome-makes-my-old-laptop-unusable)
+- [Chrome Custom Search Engines Guide](/articles/chrome-search-engines-custom)

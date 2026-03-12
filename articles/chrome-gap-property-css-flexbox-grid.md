@@ -66,6 +66,7 @@ Understanding how gap works will save you a lot of frustration when working with
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Aspect Ratio CSS Property](/chrome-aspect-ratio-css-property)
-- [Chrome Font Palette CSS Explained](/chrome-font-palette-css-explained)
-- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)
+
+- [Chrome Extensions for Invoice Creation](/articles/chrome-extensions-for-invoice-creation)
+- [Chrome Crashing on Samsung Galaxy Phone](/articles/chrome-crashing-on-samsung-galaxy-phone)
+- [Chrome Address Bar Not Showing Fix](/articles/chrome-address-bar-not-showing-fix)

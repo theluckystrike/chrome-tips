@@ -97,6 +97,7 @@ Making these adjustments takes about ten minutes but pays off every time you ope
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Telegram Web Best Settings](/chrome-for-telegram-web-best-settings)
-- [Chrome for ChatGPT Web App Best Extensions](/chrome-for-chatgpt-web-app-best-extensions)
-- [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)
+
+- [Chrome Extensions for Habit Tracker](/articles/chrome-extensions-for-habit-tracker)
+- [Chrome Bookmarks File Location and Backup Guide](/articles/chrome-bookmarks-file-location-backup)
+- [Chrome Spotify Web Player Not Working Fix](/articles/chrome-spotify-web-player-not-working-fix)

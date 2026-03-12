@@ -75,6 +75,7 @@ The goal is not to memorize every shortcut, but to find the ones that match how 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
-- [Chrome Address Bar Shortcuts You Didn't Know](/chrome-address-bar-shortcuts-you-didnt-know)
-- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
+
+- [Chrome for Touchscreen Optimization Tips](/articles/chrome-for-touchscreen-optimization-tips)
+- [Chrome GPU Process High CPU Fix](/articles/chrome-gpu-process-high-cpu-fix)
+- [Chrome Downloads Tips Organize and Manage](/articles/chrome-downloads-tips-organize-and-manage)

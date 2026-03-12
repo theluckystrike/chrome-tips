@@ -74,6 +74,7 @@ In rare cases, the problem might be with your computer's hardware rather than Ch
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
-- [Chrome Certificate Error How to Bypass Safely](/chrome-certificate-error-how-to-bypass-safely)
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+
+- [Chrome for Proxy Settings How to Configure](/articles/chrome-for-proxy-settings-how-to-configure)
+- [Chrome for Substack Reading Tips](/articles/chrome-for-substack-reading-tips)
+- [Chrome JetStream Score What Is Good](/articles/chrome-jetstream-score-what-is-good)

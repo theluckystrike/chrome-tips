@@ -67,6 +67,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [chrome extensions for journalists](/chrome-extensions-for-journalists)
-* [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)
-* [Chrome Multiple Windows vs Tabs Which Is Better](/chrome-multiple-windows-vs-tabs-which-is-better)
+- [Chrome Allow Popups for One Site How To](/articles/chrome-allow-popups-for-one-site-how-to)
+- [Chrome for Google Analytics in Browser](/articles/chrome-for-google-analytics-in-browser)
+- [Chrome for Language Translation Extensions Comparison](/articles/chrome-for-language-translation-extensions-comparison)

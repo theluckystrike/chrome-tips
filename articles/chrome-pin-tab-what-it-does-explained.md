@@ -135,3 +135,9 @@ Give it a try with one or two websites you access multiple times daily. You migh
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chromebook vs Windows Laptop for Browsing](/articles/chromebook-vs-windows-laptop-for-browsing)
+- [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/articles/chrome-devtools-sensors-tab-geolocation)
+- [chrome extensions for pdf editing free](/articles/chrome-extensions-for-pdf-editing-free)

@@ -64,6 +64,7 @@ Remember that extensions are helpers, not replacements for good messaging habits
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Zoom in Browser Best Settings](/chrome-for-zoom-in-browser-best-settings)
-- [Chrome Google Meet Integration in Browser](/chrome-google-meet-integration-in-browser)
-- [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
+
+- [Chrome for Instapaper Web Clipper](/articles/chrome-for-instapaper-web-clipper)
+- [Chrome Emoji Keyboard Shortcut How to Use](/articles/chrome-emoji-keyboard-shortcut-how-to-use)
+- [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom)

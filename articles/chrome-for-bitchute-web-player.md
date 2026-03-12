@@ -95,6 +95,7 @@ By following these tips and maintaining good browser hygiene, you can enjoy your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Rumble Web Player Settings](/chrome-for-rumble-web-player-settings)
-- [Chrome For Audible Web Player Tips](/chrome-for-audible-web-player-tips)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
+
+- [chrome report broken website how to](/articles/chrome-report-broken-website-how-to)
+- [Chrome Experiments Page Best Flags to Enable: Complete Guide](/articles/chrome-experiments-page-best-flags-enable)
+- [Chrome Web App vs Native App Battery Comparison](/articles/chrome-web-app-vs-native-app-battery-comparison)

@@ -60,6 +60,7 @@ Remember that your email setup is a combination of your operating system setting
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
-- [Chrome Netflix Not Working Fix](/chrome-netflix-not-working-fix)
-- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
+
+- [Chrome AW Snap Page Crash Fix](/articles/chrome-aw-snap-page-crash-fix)
+- [Chrome Notification Permission Best Practices](/articles/chrome-notification-permission-best-practices)
+- [chrome vs firefox extensions comparison](/articles/chrome-vs-firefox-extensions-comparison)

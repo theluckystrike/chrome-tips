@@ -78,3 +78,9 @@ If you find that Chrome is running slowly and you suspect storage might be the i
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Open Last Session on Startup](/articles/chrome-open-last-session-on-startup)
+- [Chrome View Transitions API Explained](/articles/chrome-view-transitions-api-explained)
+- [Chrome Extension Permissions Best Practices](/articles/chrome-extension-permissions-best-practices)

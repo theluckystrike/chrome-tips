@@ -74,6 +74,7 @@ Chrome high cpu usage nothing open is annoying but almost always fixable. Start 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
-- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
-- [How to Fix Chrome High CPU Usage When Gaming](/how-to-fix-chrome-high-cpu-usage-gaming)
+
+- [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix)
+- [Chrome VPN Extension Free Best 2026](/articles/chrome-vpn-extension-free-best-2026)
+- [Chrome Badging API Explained](/articles/chrome-badging-api-explained)

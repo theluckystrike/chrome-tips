@@ -68,6 +68,7 @@ The best extension is one that fits seamlessly into your workflow without adding
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+
+- [Chrome for Bibliography Management Extensions](/articles/chrome-for-bibliography-management-extensions)
+- [Chrome Android Tips and Tricks 2026](/articles/chrome-android-tips-and-tricks-2026)
+- [How to Sync Chrome Bookmarks Between Phone and Computer](/articles/chrome-bookmark-sync-between-phone-and-computer)

@@ -68,6 +68,7 @@ The next time you see one of these error messages, remember that Chrome is doing
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Mixed Content Warning What It Means](/chrome-mixed-content-warning-what-it-means)
-- [Chrome Forced Extensions by Admin What It Means](/chrome-forced-extensions-by-admin-what-it-means)
-- [Chrome Tab Discard What It Means](/chrome-tab-discard-what-it-means)
+
+- [Chrome Push Notifications API Explained](/articles/chrome-push-notifications-api-explained)
+- [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api-explained)
+- [How to Fix Chrome Downloads Stuck at 100 Percent](/articles/chrome-downloads-stuck-at-100-percent)

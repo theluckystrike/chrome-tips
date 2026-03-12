@@ -77,6 +77,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [chromebook file manager tips and tricks](/chromebook-file-manager-tips-and-tricks)
-* [How to Use Chrome for Multiple Work Accounts](/how-to-use-chrome-for-multiple-work-accounts)
-* [Chrome Extensions for Table Data Extractor](/chrome-extensions-for-table-data-extractor)
+- [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/articles/chrome-site-isolation-security-feature)
+- [Chrome Service Workers List How to View](/articles/chrome-service-workers-list-how-to-view)
+- [Chrome What Technology Is Website Using](/articles/chrome-what-technology-is-website-using)

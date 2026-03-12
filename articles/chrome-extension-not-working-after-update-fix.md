@@ -60,3 +60,9 @@ Finally, check if there is a known issue with the extension. Visit the extension
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Text Size on Phone How to Change](/articles/chrome-text-size-on-phone-how-to-change)
+- [Chrome Enterprise Features for Business: A Complete Guide](/articles/chrome-enterprise-features-for-business)
+- [Chrome Push Notifications vs Email Comparison](/articles/chrome-push-notifications-vs-email-comparison)

@@ -93,3 +93,9 @@ Whether you are a website owner looking to improve your search rankings or a dev
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Content Filtering for Families](/articles/chrome-content-filtering-for-families)
+- [Chrome QR Code Generator Extension](/articles/chrome-qr-code-generator-extension)
+- [Chrome Scope CSS Explained](/articles/chrome-scope-css-explained)

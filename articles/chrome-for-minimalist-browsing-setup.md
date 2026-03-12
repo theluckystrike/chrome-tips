@@ -80,6 +80,7 @@ Over time, you will find that a lighter browser helps you focus better and work 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Skillshare Web App Setup](/chrome-for-skillshare-web-app-setup)
-- [Chrome for Cold Turkey Blocker Setup](/chrome-for-cold-turkey-blocker-setup)
-- [Chrome for Research Workflow Best Setup](/chrome-for-research-workflow-best-setup)
+
+- [Chrome for Custom Search Engines Setup](/articles/chrome-for-custom-search-engines-setup)
+- [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track)
+- [Chrome for Reddit Best Extensions](/articles/chrome-for-reddit-best-extensions)

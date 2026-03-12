@@ -68,6 +68,7 @@ Take some time to try a few different extensions to find the one that works best
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for iMacros Alternative](/chrome-extensions-for-imacros-alternative)
-- [Chrome Extensions For Privacy Badger Alternative](/chrome-extensions-for-privacy-badger-alternative)
+
+- [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/articles/chrome-err-ssl-protocol-error-fix)
+- [Chrome Network Tab: How to Use and Debug Network Requests](/articles/chrome-network-tab-how-to-use-debug)
+- [Chrome DevTools Protocol Monitor](/articles/chrome-devtools-protocol-monitor)

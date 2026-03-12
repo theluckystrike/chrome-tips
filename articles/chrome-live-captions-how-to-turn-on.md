@@ -78,6 +78,7 @@ If you are watching content in a foreign language, keep in mind that Live Captio
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Permissions on Startup How to Configure](/chrome-permissions-on-startup-how-to-configure)
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
-- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
+
+- [Chrome Developer Tools Making Page Slow: What You Need to Know](/articles//chrome-developer-tools-making-page-slow/)
+- [Chrome Block Inappropriate Content for Kids](/articles/chrome-block-inappropriate-content-for-kids)
+- [chrome for kick streaming web tips](/articles/chrome-for-kick-streaming-web-tips)

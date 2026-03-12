@@ -86,6 +86,7 @@ Celebrate small victories. Every new skill they master is an achievement worth a
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome For Onenote Web Clipper Setup](/chrome-for-onenote-web-clipper-setup)
-- [Chrome for Cold Turkey Blocker Setup](/chrome-for-cold-turkey-blocker-setup)
-- [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)
+
+- [Chrome Extensions For Cookie Auto Delete](/articles//articles/chrome-extensions-for-cookie-auto-delete/)
+- [chrome dark reader extension worth it](/articles//chrome-dark-reader-extension-worth-it/)
+- [Chrome for Mendeley Web Importer Tips](/articles/chrome-for-mendeley-web-importer-tips)

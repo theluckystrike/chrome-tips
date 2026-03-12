@@ -80,3 +80,9 @@ That said, Chrome's built-in settings are usually sufficient for most users who 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Energy Saver Mode Guide](/articles/chrome-energy-saver-mode-guide)
+- [How to Fix ChatGPT Slow Response in Chrome (Complete Guide)](/articles/chrome-chatgpt-slow-response-fix)
+- [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix)

@@ -81,6 +81,7 @@ In the vast majority of cases, the desire to downgrade Chrome is a reaction to a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Desktop Shortcuts How To Create](/chrome-desktop-shortcuts-how-to-create)
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+
+- [How to Speed Up Chrome in 5 Minutes](/articles/how-to-speed-up-chrome-in-5-minutes)
+- [chrome multi language setup how to](/articles/chrome-multi-language-setup-how-to)
+- [Chrome Mouse Cursor Lagging Fix](/articles/chrome-mouse-cursor-lagging)

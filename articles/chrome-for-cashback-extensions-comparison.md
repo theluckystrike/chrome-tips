@@ -76,6 +76,7 @@ What matters most is finding a tool that fits seamlessly into your routine. The 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome For Vpn Extensions Comparison](/chrome-for-vpn-extensions-comparison)
-- [Chrome Extensions for Cashback Shopping](/chrome-extensions-for-cashback-shopping)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+- [Best Extensions for Tab Management Chrome](/articles/best-extensions-for-tab-management-chrome)
+- [Chrome Google Maps Slow and Laggy Fix](/articles/chrome-google-maps-slow-and-laggy-fix)
+- [Chrome Extension for Video Speed Controller](/articles/chrome-extension-for-video-speed-controller)

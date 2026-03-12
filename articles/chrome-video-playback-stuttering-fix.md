@@ -127,3 +127,9 @@ Remember that tools like Tab Suspender Pro can significantly reduce memory usage
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Overriding CSS in DevTools: A Practical Tutorial](/articles/chrome-overriding-css-in-devtools-tutorial)
+- [chrome for odysee web player tips](/articles/chrome-for-odysee-web-player-tips)
+- [Chrome Extensions for IP Address Lookup](/articles/chrome-extensions-for-ip-address-lookup)

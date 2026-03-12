@@ -65,6 +65,7 @@ Give both methods a try and see which one fits your workflow. You might be surpr
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome For Dual Monitor Tab Management](/chrome-for-dual-monitor-tab-management)
-- [Chrome Tab Groups vs Multiple Windows](/chrome-tab-groups-vs-windows)
-- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)
+
+- [Chrome Compact Mode How to Enable](/articles/chrome-compact-mode-how-to-enable)
+- [Why Is Chrome Using So Much Memory](/articles/why-is-chrome-using-so-much-memory)
+- [Chrome Side Panel — How to Use It Effectively](/articles/chrome-side-panel-how-to-use)

@@ -84,6 +84,6 @@ These chrome address bar tips and tricks take just a few minutes to learn but ca
 
 ## Related Articles
 
-* [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
-* [How to Use Chrome for Multiple Work Accounts](/how-to-use-chrome-for-multiple-work-accounts)
-* [Chrome Application Panel Guide](/chrome-application-panel-guide)
+- [Chrome Extension for Highlighting Text on Websites](/articles/chrome-extension-for-highlighting-text-on-websites)
+- [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/articles/chrome-err-cert-authority-invalid-fix)
+- [Chrome Tab Management Shortcuts Cheat Sheet](/articles/chrome-tab-management-shortcuts-cheat-sheet)

@@ -75,3 +75,9 @@ By checking the URL, refreshing the page, clearing caches, and trying a search, 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Clipboard Manager](/articles//articles/chrome-extensions-for-clipboard-manager/)
+- [chrome stale while revalidate strategy explained](/articles/chrome-stale-while-revalidate-strategy-explained)
+- [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord/)

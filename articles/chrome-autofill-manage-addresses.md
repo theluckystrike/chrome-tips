@@ -111,6 +111,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Blurry Text Fix Windows](/chrome-blurry-text-fix-windows)
-* [Chrome AI Powered Search Suggestions](/chrome-ai-powered-search-suggestions)
-* [How to Set Homepage on Chrome](/how-to-set-homepage-on-chrome)
+- [Chrome Encoding API Text Encoder Decoder](/articles/chrome-encoding-api-text-encoder-decoder)
+- [Chrome Extensions for Session Saver Restore](/articles/chrome-extensions-for-session-saver-restore)
+- [chrome for vimeo web upload tips](/articles/chrome-for-vimeo-web-upload-tips)

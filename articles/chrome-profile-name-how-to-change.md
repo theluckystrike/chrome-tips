@@ -83,3 +83,9 @@ You can change your profile name as often as you like. There is no limit on how 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/articles/best-chrome-settings-for-chromebook)
+- [Chrome Extensions for SEO Analysis Free](/articles/chrome-extensions-for-seo-analysis-free)
+- [Best Chrome Extensions for Content Creators](/articles/best-chrome-extensions-for-content-creators)

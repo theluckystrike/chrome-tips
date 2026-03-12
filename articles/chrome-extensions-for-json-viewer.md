@@ -80,6 +80,7 @@ Consider keeping a few sample JSON files bookmarked for testing. This way, you c
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+- [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools)
+- [Chrome Side Panel Features Guide](/articles/chrome-side-panel-features-guide)
+- [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)

@@ -74,6 +74,7 @@ Start with one or two extensions that address your biggest pain points. As you b
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Best Chrome Extensions for Real Estate Agents](/best-chrome-extensions-for-real-estate-agents)
-- [Chrome for LinkedIn Best Extensions](/chrome-for-linkedin-best-extensions)
-- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
+
+- [Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser](/articles/chrome-sanitizer-api-html-safe)
+- [Chrome Extensions for Productivity Students](/articles/chrome-extensions-for-productivity-students)
+- [Chrome Slow on iPad Why: Causes and Solutions](/articles/chrome-slow-on-ipad-why)

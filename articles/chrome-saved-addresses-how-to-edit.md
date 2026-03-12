@@ -89,3 +89,9 @@ Using **Tab Suspender Pro** helps by automatically "hibernating" background tabs
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [How to Group Tabs in Chrome 2026](/articles/how-to-group-tabs-in-chrome-2026)
+- [Chrome Autofill Settings Complete Guide](/articles/chrome-autofill-settings-complete)
+- [Chrome Extensions for Social Media Scheduler](/articles/chrome-extensions-for-social-media-scheduler)

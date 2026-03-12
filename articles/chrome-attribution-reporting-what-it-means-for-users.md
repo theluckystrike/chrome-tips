@@ -79,6 +79,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Extensions For Blue Light Filter](//articles/chrome-extensions-for-blue-light-filter/)
-* [Chrome Open Source Parts Explained](/chrome-open-source-parts-explained)
-* [Chrome Regex Lookbehind Support: What You Need to Know](/chrome-regex-lookbehind-support)
+- [Chrome AI Summarize Feature How to Use](/articles/chrome-ai-summarize-feature-how-to-use)
+- [Chrome Set Methods: Union and Intersection Made Simple](/articles/chrome-set-methods-union-intersection)
+- [chrome for odysee web player tips](/articles/chrome-for-odysee-web-player-tips)

@@ -63,6 +63,7 @@ While you are working on improving accessibility, you might also find that manag
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Devtools Edit HTML Live](/chrome-devtools-edit-html-live)
-- [Chrome Workspaces: Link DevTools to Files for Seamless Development](/chrome-workspaces-link-devtools-to-files)
-- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
+
+- [Chrome for Weather Dashboard Extensions](/articles/chrome-for-weather-dashboard-extensions)
+- [Chrome Extensions For Calendar Integration](/articles//articles/chrome-extensions-for-calendar-integration/)
+- [Chrome Extensions for SEO Analysis Free](/articles/chrome-extensions-for-seo-analysis-free)

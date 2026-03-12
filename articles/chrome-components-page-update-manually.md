@@ -69,6 +69,6 @@ Keeping your Chrome components updated is a simple maintenance task that can pre
 
 ## Related Articles
 
-* [Chrome Takes Long Time to Open First Time](/chrome-takes-long-time-to-open-first-time)
-* [chrome extensions for similar image finder](/chrome-extensions-for-similar-image-finder)
-* [Chrome CSS Grid Debugging Guide](//chrome-css-grid-debugging/)
+- [Chrome Err Connection Timed Out Fix](/articles/chrome-err-connection-timed-out-fix)
+- [chrome for twitch streaming setup in browser](/articles/chrome-for-twitch-streaming-setup-in-browser)
+- [Must Have Chrome Extensions for Students](/articles/must-have-chrome-extensions-for-students)

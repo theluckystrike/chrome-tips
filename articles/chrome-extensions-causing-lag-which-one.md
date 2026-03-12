@@ -114,3 +114,9 @@ However, if you need Chrome for work or school, the solutions in this article sh
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Navigation Timing API Explained](/articles/chrome-navigation-timing-api-explained)
+- [Chrome Extensions For College Professors](/articles//articles/chrome-extensions-for-college-professors/)
+- [Chrome User Data Folder Where Is It](/articles/chrome-user-data-folder-where-is-it)

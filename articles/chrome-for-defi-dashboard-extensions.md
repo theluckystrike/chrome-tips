@@ -62,6 +62,7 @@ Regularly review which extensions have access to your wallet addresses and revok
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Productivity Dashboard](/chrome-extensions-for-productivity-dashboard)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+
+- [Chrome Tab Groups vs Bookmarks](/articles/chrome-tab-groups-vs-bookmarks)
+- [How to Pin a Website in Chrome Taskbar](/articles/how-to-pin-a-website-in-chrome-taskbar)
+- [Chrome for Cryptocurrency Tracking Extensions](/articles/chrome-for-cryptocurrency-tracking-extensions)

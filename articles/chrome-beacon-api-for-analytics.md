@@ -66,6 +66,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
-* [Chrome for Netflix Best Quality Settings](/chrome-for-netflix-best-quality-settings)
-* [Chrome Permissions Policy Header Explained](/chrome-permissions-policy-header-explained)
+- [Chrome for Managing Saved Addresses](/articles/chrome-for-managing-saved-addresses)
+- [Chrome Extensions for Writers and Bloggers](/articles/chrome-extensions-for-writers-and-bloggers)
+- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/articles/chrome-incognito-mode-what-it-actually-does)

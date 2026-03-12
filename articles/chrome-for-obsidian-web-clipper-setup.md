@@ -89,6 +89,7 @@ With a little practice, this workflow becomes second nature. You will find yours
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Notion Web Clipper Setup](/chrome-for-notion-web-clipper-setup)
-- [Chrome For Github Copilot Web Setup](/chrome-for-github-copilot-web-setup)
-- [Chrome for Zotero Web Connector Setup](/chrome-for-zotero-web-connector-setup)
+
+- [chrome for tiktok web best settings](/articles/chrome-for-tiktok-web-best-settings)
+- [Chrome Mouse Scroll Not Working Fix](/articles/chrome-mouse-scroll-not-working-fix)
+- [Chrome for Quizlet Web App Best Settings](/articles/chrome-for-quizlet-web-app-best-settings)

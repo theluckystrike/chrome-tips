@@ -85,6 +85,7 @@ Custom search engines are one of Chrome's most powerful features for boosting pr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
-- [Chrome for Multiple Search Engines Switching](/chrome-for-multiple-search-engines-switching)
-- [Chrome Custom Search Engines How to Add](/chrome-custom-search-engines-how-to-add)
+
+- [Best Chrome Extensions for Online Shopping](/articles/chrome-extensions-for-online-shopping)
+- [chrome for gmail productivity extensions](/articles/chrome-for-gmail-productivity-extensions)
+- [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix)

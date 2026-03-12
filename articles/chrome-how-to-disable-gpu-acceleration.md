@@ -70,6 +70,7 @@ Some users find that disabling GPU acceleration is all they need to do to get Ch
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
-- [Chrome Desktop Shortcuts How To Create](/chrome-desktop-shortcuts-how-to-create)
+
+- [Chrome Password Generator How to Use](/articles/chrome-password-generator-how-to-use)
+- [Chrome Extensions For Color Accessibility Checker](/articles//articles/chrome-extensions-for-color-accessibility-checker/)
+- [Chrome Tabs Keep Reloading When I Switch Back](/articles/chrome-tabs-keep-reloading-when-i-switch-back)

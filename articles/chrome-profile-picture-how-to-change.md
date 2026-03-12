@@ -72,3 +72,9 @@ Having a well-organized set of profiles can really improve your browsing experie
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Minimum Font Size Setting Where to Find It](/articles//chrome-minimum-font-size-setting-where/)
+- [Chrome Pop Ups on Phone How to Block](/articles/chrome-pop-ups-on-phone-how-to-block)
+- [Chrome Extensions For Ebay Sniping](/articles//articles/chrome-extensions-for-ebay-sniping/)

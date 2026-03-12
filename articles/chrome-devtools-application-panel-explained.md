@@ -104,6 +104,7 @@ Over time, you will find that the Application panel is one of the most practical
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Layers Panel 3D View Explained](/chrome-layers-panel-3d-view-explained)
-- [Chrome Devtools Recorder Panel How To Use](/chrome-devtools-recorder-panel-how-to-use)
-- [Chrome DevTools Changes Panel to Track Edits](/chrome-devtools-changes-panel-track-edits)
+
+- [Chrome Extensions For Comparing Prices Across Stores](/articles//articles/chrome-extensions-for-comparing-prices-across-stores/)
+- [Chrome Gesture Navigation Complete Guide](/articles/chrome-gesture-navigation)
+- [Chrome for Time Management Extensions](/articles/chrome-for-time-management-extensions)

@@ -64,6 +64,7 @@ Chrome also caches translated pages, which means subsequent visits load faster. 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
-- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
-- [Chrome Built-In PDF Editor Guide](/chrome-pdf-editor-built-in)
+
+- [Best Browser for 2GB RAM Laptop 2026](/articles/best-browser-for-2gb-ram-laptop-2026)
+- [Chrome Screenshot Full Page Without Extension](/articles/chrome-screenshot-full-page-without-extension)
+- [chrome how to add trusted sites](/articles/chrome-how-to-add-trusted-sites)

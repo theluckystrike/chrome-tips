@@ -77,6 +77,7 @@ With your data backed up, you can browse with confidence knowing that your impor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Bookmarks Disappeared: How to Recover Them](/chrome-bookmarks-disappeared-how-to-recover)
-- [How to Recover Deleted Bookmarks Chrome](/how-to-recover-deleted-bookmarks-chrome)
-- [Chrome Profile Backup How to Save](/chrome-profile-backup-how-to-save)
+
+- [Chromebook Accessibility Features Guide](/articles/chromebook-accessibility-features-guide)
+- [Chrome Slower After macOS Update Fix](/articles/chrome-slower-after-macos-update-fix)
+- [Chrome AW Snap Page Crash Fix](/articles/chrome-aw-snap-page-crash-fix)

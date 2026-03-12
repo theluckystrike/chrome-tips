@@ -87,6 +87,7 @@ Finally, keep an eye on your accounts in the following weeks. Attackers sometime
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Can Chrome Extensions Steal Your Data](/can-chrome-extensions-steal-your-data)
-- [Chrome Extensions That Save You Time](/chrome-extensions-that-save-you-time)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+
+- [How to Use Chrome Task Manager to Find Heavy Tabs](/articles/chrome-task-manager-find-heavy-tabs)
+- [Chrome Freezing on Chromebook During Zoom? Try These Fixes](/articles/chrome-freezing-on-chromebook-during-zoom)
+- [Chrome Address Bar Not Working Fix](/articles/chrome-address-bar-not-working-fix)

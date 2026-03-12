@@ -98,6 +98,7 @@ The key is to approach extension selection thoughtfully. Choose tools that addre
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Amazon Prime Video](/best-chrome-extensions-for-amazon-prime-video)
-- [Chrome Extensions for Video Conferencing Enhancement](/chrome-extensions-for-video-conferencing-enhancement)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+- [chrome for distraction free reading mode](/articles/chrome-for-distraction-free-reading-mode)
+- [Chrome Extensions for Microsoft Teams](/articles/chrome-extensions-for-microsoft-teams)
+- [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does)

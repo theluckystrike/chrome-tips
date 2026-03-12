@@ -94,6 +94,7 @@ Remember that extensions use some of your browser resources, so it is a good ide
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Best Chrome Extensions for Real Estate Agents](/best-chrome-extensions-for-real-estate-agents)
+
+- [Chrome Extensions Conflict With Each Other Fix](/articles/chrome-extensions-conflict-with-each-other-fix)
+- [Chrome for PeerTube Web Setup](/articles/chrome-for-peertube-web-setup)
+- [Chrome Taking 5 Minutes to Load: Fixes for Slow Computers](/articles/chrome-taking-5-minutes-to-load)

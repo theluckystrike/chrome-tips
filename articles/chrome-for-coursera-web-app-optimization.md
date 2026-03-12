@@ -53,6 +53,7 @@ Remember that small adjustments add up. You do not need to implement everything 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
-- [Chrome for Skillshare Web App Setup](/chrome-for-skillshare-web-app-setup)
-- [Chrome for Canva Web App Optimization](/chrome-for-canva-web-app-optimization)
+
+- [Chrome Security Checkup How to Run](/articles/chrome-security-checkup-how-to-run)
+- [Chrome Extensions for Google Classroom](/articles/chrome-extensions-for-google-classroom)
+- [Best Chrome Extensions for Google Drive](/articles/best-chrome-extensions-for-google-drive)

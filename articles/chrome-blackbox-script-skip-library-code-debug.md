@@ -125,6 +125,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Lazy Loading Images How It Works](/chrome-lazy-loading-images-how-it-works)
-* [chrome for walmart grocery web tips](/chrome-for-walmart-grocery-web-tips)
-* [How to Check If Chrome Extension Is Spying on Me](/how-to-check-if-chrome-extension-is-spying-on-me)
+- [Chrome Streaming Video Buffering Fix](/articles/chrome-streaming-video-buffering-fix)
+- [Best Extensions for Tab Management Chrome](/articles/best-extensions-for-tab-management-chrome)
+- [Best Chrome Extensions for Working From Home](/articles/best-chrome-extensions-for-working-from-home)

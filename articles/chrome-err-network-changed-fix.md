@@ -88,3 +88,9 @@ With these steps, you should be able to resolve ERR_NETWORK_CHANGED and get back
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [how to make chrome default browser mac](/articles/how-to-make-chrome-default-browser-mac)
+- [chrome mobile translate page automatically](/articles/chrome-mobile-translate-page-automatically)
+- [Chrome DNS Over HTTPS How to Enable](/articles/chrome-dns-over-https-how-to-enable)

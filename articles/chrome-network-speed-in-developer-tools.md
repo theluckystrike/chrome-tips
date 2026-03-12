@@ -83,6 +83,7 @@ You do not need to be a technical expert to benefit from this information. A bas
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Throttle Network Speed in Chrome](/chrome-throttle-network-speed-how-to)
-- [Chrome Developer Tools for Non Developers](/chrome-developer-tools-for-non-developers)
-- [Chrome Built-In Screenshot Tool](/chrome-built-in-screenshot-tool)
+
+- [Chrome Camera Access on Phone How to Manage](/articles/chrome-camera-access-on-phone-how-to-manage)
+- [chrome right to left language support](/articles/chrome-right-to-left-language-support)
+- [chrome for recipe browsing without ads](/articles/chrome-for-recipe-browsing-without-ads)

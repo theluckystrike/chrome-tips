@@ -56,6 +56,7 @@ By understanding what permissions you have granted and staying proactive about m
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Clipboard Manager](/chrome-extensions-for-clipboard-manager)
-- [Chrome Extensions for Cookie Editor Manager](/chrome-extensions-for-cookie-editor-manager)
-- [Chrome Extensions for Bookmark Manager](/chrome-extensions-for-bookmark-manager)
+
+- [Chrome Extensions for Social Media Scheduling](/articles/chrome-extensions-for-social-media-scheduling)
+- [Chrome Not Loading Pages But Internet Works: Complete Fix Guide](/articles/chrome-not-loading-pages-but-internet-works)
+- [Chrome Tab From Other Device Not Showing Fix](/articles/chrome-tab-from-other-device-not-showing-fix)

@@ -78,6 +78,7 @@ Remember that good performance leads to better user experience, higher search ra
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Speed Comparison Test How to Run](/chrome-speed-comparison-test-how-to-run)
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+
+- [Chrome for Wikipedia Enhanced Reading](/articles/chrome-for-wikipedia-enhanced-reading)
+- [chrome portable version run from usb](/articles/chrome-portable-version-run-from-usb)
+- [chrome mobile save page offline how to](/articles/chrome-mobile-save-page-offline-how-to)

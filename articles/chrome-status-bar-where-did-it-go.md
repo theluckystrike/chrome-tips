@@ -72,3 +72,9 @@ Finally, make sure your Chrome is up to date. Click the three dots, go to Help, 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for SEO Keyword Research Extensions](/articles/chrome-for-seo-keyword-research-extensions)
+- [Chrome Data Usage On Phone How To Reduce](/articles//chrome-data-usage-on-phone-how-to-reduce/)
+- [Chrome CSS Anchor Positioning Tether - The Future of Floating Elements](/articles/chrome-css-anchor-positioning-tether)

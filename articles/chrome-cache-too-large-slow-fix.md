@@ -75,6 +75,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [chrome extensions for accessibility needs](/chrome-extensions-for-accessibility-needs)
-* [Chrome Remote Debugging for Beginners](/chrome-remote-debugging-for-beginners)
-* [Chrome Lite Mode Does It Still Exist](/chrome-lite-mode-does-it-still-exist)
+- [Chrome Site Permissions How to Manage All](/articles/chrome-site-permissions-how-to-manage-all)
+- [Chrome Bookmarks File Location and Backup Guide](/articles/chrome-bookmarks-file-location-backup)
+- [Chrome How to Print Without Headers Footers](/articles/chrome-how-to-print-without-headers-footers)

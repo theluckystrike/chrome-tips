@@ -63,3 +63,9 @@ If you continue to experience slow startup times despite trying these suggestion
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Best Settings For Slow Internet](/articles/chrome-best-settings-for-slow-internet)
+- [Chrome Extensions Disabled by Administrator Fix](/articles/chrome-extensions-disabled-by-administrator-fix)
+- [Chrome Guest Browsing for Shared Computers](/articles/chrome-guest-browsing-for-shared-computers)

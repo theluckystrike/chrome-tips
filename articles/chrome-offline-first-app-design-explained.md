@@ -80,6 +80,7 @@ The ideas behind offline first design are also influencing how browsers and oper
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+
+- [Chrome High Disk Usage Fix Windows](/articles/chrome-high-disk-usage-fix-windows)
+- [Chrome for Stock Market Tracking Extensions](/articles/chrome-for-stock-market-tracking-extensions)
+- [Chrome Memory Leak Fix for 2026](/articles/chrome-memory-leak-fix-2026)

@@ -74,6 +74,7 @@ If you use Chrome for both personal and work purposes, consider creating a separ
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Telegram Web Best Settings](/chrome-for-telegram-web-best-settings)
-- [Chrome for edX Web App Best Settings](/chrome-for-edx-web-app-best-settings)
-- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
+
+- [Chrome Open Source Parts Explained](/articles/chrome-open-source-parts-explained)
+- [Chrome Open Link in New Tab Shortcut](/articles/chrome-open-link-in-new-tab-shortcut)
+- [Chrome Tabs Flickering and Glitching Fix](/articles/chrome-tabs-flickering-and-glitching)

@@ -80,8 +80,8 @@ Finally, remember that IP protection is most effective against third-party track
 
 Built by theluckystrike — More tips at https://zovo.one
 
-
 ## Related Articles
-- [chrome fingerprinting protection explained](/chrome-fingerprinting-protection-explained)
-- [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/chrome-autofill-wrong-address-keeps-appearing)
-- [Chrome Address Autofill How to Manage](/chrome-address-autofill-how-to-manage)
+
+- [Chrome Security Checkup How to Run](/articles/chrome-security-checkup-how-to-run)
+- [chrome privacy sandbox what regular users should know](/articles/chrome-privacy-sandbox-what-regular-users-should-know)
+- [Chrome WebUSB How to Connect Devices](/articles/chrome-webusb-how-to-connect-devices)

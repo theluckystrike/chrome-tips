@@ -91,3 +91,9 @@ Chrome also offers Enhanced Safe Browsing, which provides additional protection 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Navigation API for Single Page Apps: A Complete Guide](/articles/chrome-navigation-api-single-page-apps)
+- [Chrome Extension Alternative to Grammarly Free](/articles/chrome-extension-alternative-to-grammarly-free)
+- [How to Use Chrome Flags Safely](/articles/how-to-use-chrome-flags-safely)

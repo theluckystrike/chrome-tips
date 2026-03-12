@@ -70,3 +70,9 @@ Heavy memory usage can also cause the browser to crash right when you're trying 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained)
+- [chrome vs firefox extensions comparison](/articles/chrome-vs-firefox-extensions-comparison)
+- [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api-explained)

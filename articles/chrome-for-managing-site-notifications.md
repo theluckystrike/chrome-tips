@@ -65,6 +65,7 @@ Chrome for managing site notifications does not have to be frustrating. By using
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
-- [Chrome Location Access for One Site How to Allow](/chrome-location-access-for-one-site-how-to-allow)
-- [Chrome Site Keeps Asking for Notifications? Here's How to Stop It](/chrome-site-keeps-asking-for-notifications-stop)
+
+- [chrome vs firefox for mac which is faster](/articles/chrome-vs-firefox-for-mac-which-is-faster)
+- [chrome for google finance tips](/articles/chrome-for-google-finance-tips)
+- [Chrome Mirroring Screen to TV How To](/articles/chrome-mirroring-screen-to-tv-how-to)

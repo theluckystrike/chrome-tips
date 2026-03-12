@@ -126,6 +126,7 @@ If you've tried all the software fixes and your fan is still very loud, consider
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Slow on School Laptop? Here's How to Fix It](/chrome-slow-on-school-laptop-how-to-fix)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-- [How to Speed Up Chrome on 2GB RAM Laptop](/how-to-speed-up-chrome-on-2gb-ram-laptop)
+
+- [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature)
+- [Chrome Speech Recognition API Guide](/articles/chrome-speech-recognition-api)
+- [chrome for color picker extensions](/articles/chrome-for-color-picker-extensions)

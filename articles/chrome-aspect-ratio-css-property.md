@@ -73,6 +73,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Reading Mode AI Summary Feature](/chrome-reading-mode-ai-summary-feature)
-* [How to Improve Chrome WebGL Performance](/chrome-webgl-performance-how-to-improve)
-* [Chrome AI Powered Search Suggestions](/chrome-ai-powered-search-suggestions)
+- [chrome for coinbase web app tips](/articles/chrome-for-coinbase-web-app-tips)
+- [chrome for soundcloud web player extensions](/articles/chrome-for-soundcloud-web-player-extensions)
+- [Chrome Extensions For Color Accessibility Checker](/articles//articles/chrome-extensions-for-color-accessibility-checker/)

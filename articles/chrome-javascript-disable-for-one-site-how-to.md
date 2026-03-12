@@ -76,6 +76,7 @@ Taking control of JavaScript on a per-site basis gives you a more private, faste
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Allow Popups for One Site How To](/chrome-allow-popups-for-one-site-how-to)
-- [How to Allow Pop Ups for One Site in Chrome](/how-to-allow-pop-ups-for-one-site-in-chrome)
-- [Chrome Location Access for One Site How to Allow](/chrome-location-access-for-one-site-how-to-allow)
+
+- [chrome fledge api what advertisers know about you](/articles/chrome-fledge-api-what-advertisers-know-about-you)
+- [Chrome Best Note Taking Extension 2026](/articles/chrome-best-note-taking-extension-2026)
+- [Is Chrome Safe for Online Banking](/articles/is-chrome-safe-for-online-banking)

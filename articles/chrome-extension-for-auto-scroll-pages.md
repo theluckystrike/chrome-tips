@@ -75,3 +75,9 @@ Auto scroll extensions represent a small but meaningful improvement to how we in
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Split Screen Two Tabs Side by Side](/articles/chrome-split-screen-two-tabs-side-by-side)
+- [Great Suspender Removed From Chrome Store: Replacement Options](/articles/great-suspender-removed-from-chrome-store-replacement)
+- [chrome net err cert common name invalid fix](/articles/chrome-net-err-cert-common-name-invalid-fix)

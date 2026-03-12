@@ -82,6 +82,7 @@ If you switch internet service providers or change your network setup, remember 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome For Twitch Streaming Setup In Browser](/chrome-for-twitch-streaming-setup-in-browser)
-- [Chrome For Onenote Web Clipper Setup](/chrome-for-onenote-web-clipper-setup)
-- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)
+
+- [Chrome Performance Settings Best Configuration](/articles/chrome-performance-settings-best-configuration)
+- [Chrome Largest Contentful Paint Optimize: A Complete Guide](/articles/chrome-largest-contentful-paint-optimize)
+- [chrome vs firefox extensions comparison](/articles/chrome-vs-firefox-extensions-comparison)

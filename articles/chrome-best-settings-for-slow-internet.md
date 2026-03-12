@@ -83,6 +83,6 @@ You can also manually suspend tabs by right-clicking on them and selecting "Slee
 
 ## Related Articles
 
-* [chrome for education classroom management](/chrome-for-education-classroom-management)
-* [Chrome Extensions for Web Automation Free](/chrome-extensions-for-web-automation-free)
-* [Chrome Process Per Tab: How to Disable It to Save Memory](/chrome-process-per-tab-disable-to-save-memory)
+- [Chrome Push Notifications API Explained](/articles/chrome-push-notifications-api-explained)
+- [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage)
+- [Chrome OS vs Windows for Basic Use](/articles/chrome-os-vs-windows-for-basic-use)

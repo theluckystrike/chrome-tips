@@ -90,6 +90,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
-* [chrome on raspberry pi how to install](/chrome-on-raspberry-pi-how-to-install)
-* [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
+- [Chrome Extensions for Web Annotation](/articles/chrome-extensions-for-web-annotation)
+- [How to Delete Everything Chrome Knows About Me](/articles/how-to-delete-everything-chrome-knows-about-me)
+- [chrome safe search how to force enable](/articles/chrome-safe-search-how-to-force-enable)

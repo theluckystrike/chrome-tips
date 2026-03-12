@@ -72,3 +72,9 @@ Managing extensions wisely matters more than which browser you choose. Regularly
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained)
+- [Chrome View Transitions API Explained](/articles/chrome-view-transitions-api-explained)
+- [Best Password Manager Chrome Extension](/articles/best-password-manager-chrome-extension)

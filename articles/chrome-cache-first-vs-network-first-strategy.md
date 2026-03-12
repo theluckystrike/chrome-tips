@@ -65,6 +65,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [How to Customize Chrome Toolbar](/how-to-customize-chrome-toolbar)
-* [chrome for apple notes in browser workaround](/chrome-for-apple-notes-in-browser-workaround)
-* [chrome for soundcloud web player extensions](/chrome-for-soundcloud-web-player-extensions)
+- [Chrome Web Store Reviews How to Spot Fake](/articles/chrome-web-store-reviews-how-to-spot-fake)
+- [Chrome Extensions for Lorem Ipsum Generator](/articles/chrome-extensions-for-lorem-ipsum-generator)
+- [Chrome for TickTick in Browser Tips](/articles/chrome-for-ticktick-in-browser-tips)

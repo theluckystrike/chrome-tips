@@ -74,6 +74,7 @@ These chrome for WhatsApp Web tips and tricks can transform how you use the mess
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Odysee Web Player Tips](/chrome-for-odysee-web-player-tips)
-- [Chrome for Costco Web Shopping Tips](/chrome-for-costco-web-shopping-tips)
-- [Chrome Android Tips and Tricks 2026](/chrome-android-tips-and-tricks-2026)
+
+- [Chrome CDP Protocol Explained Simply](/articles/chrome-cdp-protocol-explained-simply)
+- [How to Dictate Text in Chrome](/articles/how-to-dictate-text-in-chrome)
+- [Chrome Helper Renderer High CPU Mac Fix](/articles/chrome-helper-renderer-high-cpu-mac-fix)

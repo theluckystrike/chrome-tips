@@ -63,6 +63,7 @@ With a few simple adjustments, your MIDI keyboard, controller, or other hardware
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Streams API for Large Files](/chrome-streams-api-for-large-files)
+
+- [Chrome Toolbar Customization Tips](/articles/chrome-toolbar-customization-tips)
+- [Chrome Extensions for Quick Notes Sidebar](/articles/chrome-extensions-for-quick-notes-sidebar)
+- [Chrome Mobile Tabs Too Many How to Manage](/articles/chrome-mobile-tabs-too-many-how-to-manage)

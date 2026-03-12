@@ -62,6 +62,7 @@ Remember that extensions are helpers, not magic solutions. They reduce the frict
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome Extensions for Blocking Distracting Websites](/chrome-extensions-for-blocking-distracting-websites)
+
+- [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users)
+- [chrome browser fingerprint how to check yours](/articles/chrome-browser-fingerprint-how-to-check-yours)
+- [Chrome Guest Browsing: What Data Is Saved](/articles/chrome-guest-browsing-what-data-is-saved)

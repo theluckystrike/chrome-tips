@@ -83,6 +83,7 @@ Having your Chrome new tab page keeps changing can be annoying, but it is a prob
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome New Tab Page Best Extensions](/chrome-new-tab-page-best-extensions)
-- [Chrome Homepage Keeps Changing Fix](/chrome-homepage-keeps-changing-fix)
-- [Chrome New Tab Page How To Customize](/chrome-new-tab-page-how-to-customize)
+
+- [Chrome Developer Tools Making Page Slow: What You Need to Know](/articles//chrome-developer-tools-making-page-slow/)
+- [chrome high contrast mode how to enable](/articles/chrome-high-contrast-mode-how-to-enable)
+- [Chrome for Todoist Web App Best Settings](/articles/chrome-for-todoist-web-app-best-settings)

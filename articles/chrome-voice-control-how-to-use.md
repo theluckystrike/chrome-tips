@@ -64,3 +64,9 @@ If you find that voice control makes you more productive but you are also concer
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Citation Manager Extensions](/articles/chrome-for-citation-manager-extensions)
+- [How to Inspect and Debug IndexedDB in Chrome: A Complete Guide](/articles/chrome-indexeddb-inspect-debug)
+- [Chrome Extensions for Form Auto Filler](/articles/chrome-extensions-for-form-auto-filler)

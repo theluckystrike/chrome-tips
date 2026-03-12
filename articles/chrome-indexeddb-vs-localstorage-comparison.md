@@ -69,6 +69,7 @@ The next time you check your browser storage or troubleshoot a website issue, yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Pi Hole Vs Browser Ad Blocker Comparison](/chrome-pi-hole-vs-browser-ad-blocker-comparison)
-- [Chrome Passkeys vs Passwords Comparison](/chrome-passkeys-vs-passwords-comparison)
-- [Chrome vs Brave Privacy Comparison](/chrome-vs-brave-privacy-comparison)
+
+- [Chrome Saved Addresses How to Edit](/articles/chrome-saved-addresses-how-to-edit)
+- [Chrome Performance Panel for Regular Users](/articles/chrome-performance-panel-for-regular-users)
+- [Chromebook Guest Mode What It Does](/articles/chromebook-guest-mode-what-it-does)

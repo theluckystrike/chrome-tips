@@ -82,6 +82,7 @@ By implementing these practices, you can create a more efficient Chrome setup th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Any.Do Web App Setup](/chrome-for-anydo-web-app-setup)
-- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
-- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)
+
+- [Chrome Array Groupby New Method](/articles/chrome-array-groupby-new-method)
+- [Chrome vs Vivaldi: Which Is More Customizable](/articles/chrome-vs-vivaldi-which-is-more-customizable)
+- [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location)

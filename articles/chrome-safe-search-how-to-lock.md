@@ -72,3 +72,9 @@ For parents, having open conversations with children about internet safety is ju
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Multiple Profiles How to Switch Fast](/articles/chrome-multiple-profiles-how-to-switch-fast)
+- [chrome for rosetta stone web tips](/articles/chrome-for-rosetta-stone-web-tips)
+- [Chrome User Data Folder Where Is It](/articles/chrome-user-data-folder-where-is-it)

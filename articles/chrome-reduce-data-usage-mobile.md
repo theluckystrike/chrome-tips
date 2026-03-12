@@ -130,3 +130,9 @@ Reducing data usage on Chrome mobile is not about giving up the features you lov
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Password Manager on Phone vs Dedicated App](/articles/chrome-password-manager-on-phone-vs-dedicated-app)
+- [Chrome Download Manager Best Extension](/articles/chrome-download-manager-best-extension)
+- [How to Route Chrome Tab Audio to Separate Speakers](/articles/chrome-tab-audio-routing-separate-speakers)

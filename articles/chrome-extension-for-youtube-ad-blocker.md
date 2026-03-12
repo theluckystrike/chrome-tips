@@ -81,3 +81,9 @@ Remember that ad blockers are just one tool in a larger toolbox for managing you
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Fix Slow Slack Web App in Chrome](/articles/chrome-slack-web-app-slow-fix)
+- [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web)
+- [Chrome Beacon API for Analytics](/articles/chrome-beacon-api-for-analytics)

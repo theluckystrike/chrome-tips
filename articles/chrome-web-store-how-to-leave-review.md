@@ -84,6 +84,7 @@ Leaving a review on the Chrome Web Store might feel like a small thing, but it's
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Web Store Reviews How to Spot Fake](/chrome-web-store-reviews-how-to-spot-fake)
-- [Chrome Web Apps How To Install](/chrome-web-apps-how-to-install)
-- [Chrome Extension Publish to Web Store Guide](/chrome-extension-publish-to-web-store-guide)
+
+- [Chrome Trust Tokens Explained](/articles/chrome-trust-tokens-guide)
+- [chrome high memory usage after sleep fix](/articles/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome vs Edge Battery Life Laptop Comparison](/articles/chrome-vs-edge-battery-life-laptop-comparison)

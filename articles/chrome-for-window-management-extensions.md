@@ -35,6 +35,7 @@ If you have been struggling with browser clutter or find yourself constantly los
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Calendar Management Extensions](/chrome-for-calendar-management-extensions)
-- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
-- [Chrome for Social Media Management Extensions](/chrome-for-social-media-management-extensions)
+
+- [Chrome Virtual Keyboard API for Mobile - Complete Guide](/articles/chrome-virtual-keyboard-api-mobile)
+- [Chrome Task Manager Guide](/articles/chrome-task-manager-guide)
+- [chrome geolocation permission manage](/articles/chrome-geolocation-permission-manage)

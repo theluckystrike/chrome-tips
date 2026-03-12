@@ -76,6 +76,7 @@ Happy shopping, and enjoy the satisfaction of knowing you got a great price.
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+
+- [Chrome Search Engine Keeps Changing to Yahoo Fix](/articles/chrome-search-engine-keeps-changing-to-yahoo-fix)
+- [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes)
+- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser)

@@ -81,6 +81,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions for SSL Certificate Checker](/chrome-extensions-for-ssl-certificate-checker)
-* [Best Extensions for Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-* [Chrome Android Slow Fix 2026](/chrome-android-slow-fix-2026)
+- [Chrome Extensions for Web Annotation](/articles/chrome-extensions-for-web-annotation)
+- [Chrome Starting Style CSS Explained](/articles/chrome-starting-style-css-explained)
+- [Chrome Overriding CSS in DevTools: A Practical Tutorial](/articles/chrome-overriding-css-in-devtools-tutorial)

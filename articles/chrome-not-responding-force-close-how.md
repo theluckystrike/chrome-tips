@@ -80,6 +80,7 @@ As a last resort, try uninstalling and reinstalling Chrome completely. This ensu
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Close All Chrome Tabs at Once](/how-to-close-all-chrome-tabs-at-once)
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+
+- [Chrome Process Per Tab Why and How to Change](/articles/chrome-process-per-tab-why-and-how-to-change)
+- [Top 10 Chrome Extensions Everyone Should Have](/articles/top-10-chrome-extensions-everyone-should-have)
+- [Chrome for News Feed Eradicator Setup](/articles/chrome-for-news-feed-eradicator-setup)

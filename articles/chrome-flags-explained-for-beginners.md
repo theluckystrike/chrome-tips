@@ -93,6 +93,7 @@ Start by trying one or two flags that address something you actually want to imp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Web GPU API Explained for Beginners](/chrome-web-gpu-api-explained-for-beginners)
-- [Chrome Passkeys Explained for Beginners](/chrome-passkeys-explained-for-beginners)
-- [Chrome Inspect Element Tutorial for Beginners](/chrome-inspect-element-tutorial-for-beginners)
+
+- [Chrome Flags on Android Best to Enable](/articles/chrome-flags-on-android-best-to-enable)
+- [Chrome Task Manager Shortcut Explained](/articles/chrome-task-manager-shortcut-explained)
+- [Is Chrome Safe for Online Banking](/articles/is-chrome-safe-for-online-banking)

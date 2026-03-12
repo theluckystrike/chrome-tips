@@ -88,6 +88,7 @@ Email does not have to be a time drain. With the right templates in place, you c
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome for Email Productivity Extensions](/chrome-for-email-productivity-extensions)
-- [Best Chrome Extensions for Email Management](/best-chrome-extensions-for-email-management)
-- [Chrome Extensions for Email Finder](/chrome-extensions-for-email-finder)
+
+- [Best Chrome Extensions for Cybersecurity Professionals](/articles/best-chrome-extensions-for-cybersecurity-professionals)
+- [Best Chrome Setup for Elderly Parents](/articles/best-chrome-setup-for-elderly-parents)
+- [Chrome Tab Search Shortcut Explained](/articles/chrome-tab-search-shortcut-explained)

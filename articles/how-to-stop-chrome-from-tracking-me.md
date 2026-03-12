@@ -70,6 +70,7 @@ Small changes add up over time. The more control you have over your data, the le
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.
 
 ## Related Articles
-- [Chrome Notifications How to Stop Them](/chrome-notifications-how-to-stop-them)
-- [How to Stop Chrome from Eating Your RAM](/how-to-stop-chrome-from-eating-ram)
-- [How to Import Bookmarks from Firefox to Chrome](/how-to-import-bookmarks-from-firefox-to-chrome)
+
+- [Chrome Homepage Keeps Resetting Fix](/articles/chrome-homepage-keeps-resetting-fix)
+- [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs)
+- [Chrome Hardware Acceleration Gaming: Complete Optimization Guide](/articles/chrome-hardware-acceleration-gaming)

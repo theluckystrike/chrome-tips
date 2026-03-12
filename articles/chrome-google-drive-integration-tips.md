@@ -75,6 +75,7 @@ Everyone's workflow is different, so feel free to adapt these suggestions to fit
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Google Lens Integration How To Use](/chrome-google-lens-integration-how-to-use)
-- [Chrome Google Tasks Integration Tips](/chrome-google-tasks-integration-tips)
-- [Chrome Google Keep Integration Tips](/chrome-google-keep-integration-tips)
+
+- [chrome for rosetta stone web tips](/articles/chrome-for-rosetta-stone-web-tips)
+- [How to Sync Everything Between Your Phone and Laptop with Chrome](/articles/chrome-sync-everything-between-phone-and-laptop)
+- [Chrome Extensions for Text Comparison Diff Tool](/articles/chrome-extensions-for-text-comparison-diff-tool)

@@ -91,6 +91,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Microsoft Office Online Tips](/chrome-for-microsoft-office-online-tips)
-* [Chrome Tab Organize AI Feature Explained](/chrome-tab-organize-ai-feature-explained)
-* [Chrome Lite Mode on Android: What Happened](/chrome-lite-mode-on-android-what-happened)
+- [Chrome Energy Saver Mode Guide](/articles/chrome-energy-saver-mode-guide)
+- [chrome for dual monitor tab management](/articles/chrome-for-dual-monitor-tab-management)
+- [chrome privacy sandbox explained for users](/articles/chrome-privacy-sandbox-explained-for-users)

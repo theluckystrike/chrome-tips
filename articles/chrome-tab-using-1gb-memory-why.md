@@ -98,3 +98,9 @@ The key is to be proactive. Check Chrome Task Manager regularly, close unused ta
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chromebook not connecting to wifi fix](/articles/chromebook-not-connecting-to-wifi-fix)
+- [Chrome for Google Classroom Tips](/articles/chrome-for-google-classroom-tips)
+- [Chrome for Quizlet Web App Best Settings](/articles/chrome-for-quizlet-web-app-best-settings)

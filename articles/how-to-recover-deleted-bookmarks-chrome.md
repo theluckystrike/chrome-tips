@@ -91,6 +91,7 @@ Remember to set up regular backups and keep sync enabled to protect yourself fro
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Import Bookmarks to Chrome](/how-to-import-bookmarks-to-chrome)
-- [How to Export Bookmarks from Chrome](/how-to-export-bookmarks-from-chrome)
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+
+- [chrome for stylus and pen input settings](/articles/chrome-for-stylus-and-pen-input-settings)
+- [Chrome Using 100 Percent CPU Fix Windows](/articles/chrome-using-100-percent-cpu-fix-windows)
+- [Chrome Saved Passwords How to See Them](/articles/chrome-saved-passwords-how-to-see-them)

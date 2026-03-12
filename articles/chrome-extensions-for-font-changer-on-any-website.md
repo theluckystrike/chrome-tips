@@ -58,6 +58,7 @@ Take some time to explore the different options available, try a few extensions 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
-- [Chrome for Reader View on Any Website](/chrome-for-reader-view-on-any-website)
-- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
+
+- [chrome how to add trusted sites](/articles/chrome-how-to-add-trusted-sites)
+- [Chrome Window Size Not Saving Fix](/articles/chrome-window-size-not-saving-fix)
+- [Chrome DOMContentLoaded vs Load Event](/articles/chrome-dom-content-loaded-vs-load-event)

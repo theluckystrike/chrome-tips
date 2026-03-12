@@ -81,6 +81,7 @@ If you find yourself frequently sending tabs between devices, you might also ben
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
-- [Chrome Tab to Search Feature How to Use](/chrome-tab-to-search-feature-how-to-use)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+
+- [Chrome for Redfin Web App Tips](/articles/chrome-for-redfin-web-app-tips)
+- [Chrome for Resume Building Web Tools](/articles/chrome-for-resume-building-web-tools)
+- [Best Chrome Extensions For Journalists](/articles/best-chrome-extensions-for-journalists)

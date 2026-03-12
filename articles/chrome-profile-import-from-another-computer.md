@@ -71,3 +71,9 @@ The key is to decide which method matches your situation. Sync works seamlessly 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for monday.com best extensions](/articles/chrome-for-mondaycom-best-extensions)
+- [chrome shared array buffer usage](/articles/chrome-shared-array-buffer-usage)
+- [Chrome PWA Install Prompt Not Showing Fix](/articles/chrome-pwa-install-prompt-not-showing-fix)

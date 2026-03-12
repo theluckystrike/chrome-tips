@@ -77,6 +77,7 @@ If you continue to experience issues despite trying these steps, it might be wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Fix Chrome High CPU Usage When Gaming](/how-to-fix-chrome-high-cpu-usage-gaming)
-- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
-- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
+
+- [Chrome DNS Settings How to Change for Privacy](/articles/chrome-dns-settings-how-to-change-for-privacy)
+- [Chrome Extension Monetization Strategies That Actually Work](/articles/chrome-extension-monetization-strategies)
+- [Chrome DevTools Protocol Monitor](/articles/chrome-protocol-monitor-guide)

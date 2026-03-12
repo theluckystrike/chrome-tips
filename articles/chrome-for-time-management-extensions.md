@@ -65,6 +65,7 @@ As you become comfortable with your initial tools, you can gradually add more ex
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Time Tracking](/chrome-extensions-for-time-tracking)
-- [Chrome For Window Management Extensions](/chrome-for-window-management-extensions)
-- [Chrome for Social Media Management Extensions](/chrome-for-social-media-management-extensions)
+
+- [How to Fix Chrome Hijacked Homepage (Complete Guide)](/articles/chrome-hijacked-homepage-fix-guide)
+- [Chrome Extensions For Font Changing](/articles//articles/chrome-extensions-for-font-changing/)
+- [Chrome Web MIDI API for Musicians](/articles/chrome-web-midi-api-for-musicians)

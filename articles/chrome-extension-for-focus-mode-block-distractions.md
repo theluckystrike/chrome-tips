@@ -63,3 +63,9 @@ With the right chrome extension for focus mode block distractions, you can take 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Migrate Chrome Data to a New Computer](/articles/how-to-migrate-chrome-data-to-new-computer)
+- [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users)
+- [Chrome Iterator Helpers Explained](/articles/chrome-iterator-helpers-explained)

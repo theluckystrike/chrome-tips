@@ -54,6 +54,7 @@ The important thing is to take advantage of the tools that are available to you.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Shopping List Feature How to Use](/chrome-shopping-list-feature-how-to-use)
-- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
+
+- [Chrome Array Groupby New Method](/articles/chrome-array-groupby-new-method)
+- [Chrome Shopping List Feature How to Use](/articles/chrome-shopping-list-feature-how-to-use)
+- [Chrome Total Blocking Time Explained](/articles/chrome-total-blocking-time-explained)

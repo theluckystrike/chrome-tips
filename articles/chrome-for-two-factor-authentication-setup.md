@@ -83,6 +83,7 @@ Start with your most important accounts, like your Google account and your prima
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
-- [Chrome for Research Workflow Best Setup](/chrome-for-research-workflow-best-setup)
-- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)
+
+- [Chrome Extensions for Tab Grouping Automatically](/articles/chrome-extensions-for-tab-grouping-automatically)
+- [Chrome Slow on School Laptop? Here's How to Fix It](/articles/chrome-slow-on-school-laptop-how-to-fix)
+- [Chrome Web GPU API Explained](/articles/chrome-web-gpu-api-explained)

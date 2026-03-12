@@ -173,3 +173,9 @@ Start experimenting with the Vibration API today, and discover how tactile feedb
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Trello Power Ups in Browser](/articles/chrome-for-trello-power-ups-in-browser)
+- [chrome multiprocess architecture explained](/articles/chrome-multiprocess-architecture-explained)
+- [chrome high contrast mode](/articles/chrome-high-contrast-mode)

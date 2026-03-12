@@ -77,6 +77,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Content Visibility Auto Performance](/chrome-content-visibility-auto-performance)
-* [Chrome Site Settings Permissions Explained](/chrome-site-settings-permissions-explained)
-* [Chrome Compute Pressure: How Thermal and CPU Throttling Affect Your Browser](/chrome-compute-pressure-thermal-cpu)
+- [Best Chrome Extensions for Google Drive](/articles/best-chrome-extensions-for-google-drive)
+- [How to Clear Chrome Cache Properly](/articles/how-to-clear-chrome-cache-properly)
+- [Chrome for Goodreads Best Extensions](/articles/chrome-for-goodreads-best-extensions)

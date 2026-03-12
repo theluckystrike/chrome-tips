@@ -84,6 +84,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Lazy Loading Images Native: How It Works and Why You Should Use It](/chrome-lazy-loading-images-native)
-* [Chrome Service Worker What It Does Explained](/chrome-service-worker-what-it-does-explained)
-* [Chrome Extensions Keep Disabling Themselves Fix](/chrome-extensions-keep-disabling-themselves-fix)
+- [Chrome Android Dark Mode How to Enable](/articles/chrome-android-dark-mode-how-to-enable)
+- [Chrome for Snapchat Web Tips](/articles/chrome-for-snapchat-web-tips)
+- [Chrome Downloads Tips Organize and Manage](/articles/chrome-downloads-tips-organize-and-manage)

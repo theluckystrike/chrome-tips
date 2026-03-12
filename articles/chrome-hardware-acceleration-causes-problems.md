@@ -92,3 +92,9 @@ These changes take just a few minutes to implement and can transform your browsi
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Invalid Certificate How to Fix Permanently](/articles/chrome-invalid-certificate-how-to-fix-permanently)
+- [Chrome for PeerTube Web Setup](/articles/chrome-for-peertube-web-setup)
+- [How to Allow Pop Ups for One Site in Chrome](/articles/how-to-allow-pop-ups-for-one-site-in-chrome)

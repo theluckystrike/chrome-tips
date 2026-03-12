@@ -83,3 +83,9 @@ As more websites adopt these performance measurement practices, the overall qual
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Cache API Tutorial for Beginners](/articles/chrome-cache-api-tutorial-for-beginners)
+- [Best Chrome Extensions for Email Management](/articles/best-chrome-extensions-for-email-management)
+- [Chrome Telemetry What Data Google Collects](/articles/chrome-telemetry-what-data-google-collects)

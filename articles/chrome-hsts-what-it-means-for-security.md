@@ -63,6 +63,7 @@ The next time you see a security message in Chrome related to HSTS, remember tha
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Site Isolation What It Means](/chrome-site-isolation-what-it-means)
-- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)
-- [Chrome Attribution Reporting What It Means for Users](/chrome-attribution-reporting-what-it-means-for-users)
+
+- [Chrome Best Ad Blocker 2026](/articles/chrome-best-ad-blocker-2026)
+- [Chrome for Ebook Reading Best Extensions](/articles/chrome-for-ebook-reading-best-extensions)
+- [Chrome for Habitica In Browser Tips](/articles/chrome-for-habitica-in-browser-tips)

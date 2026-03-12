@@ -55,6 +55,7 @@ Whether you are a website owner dealing with a security warning or a visitor try
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+
+- [Chrome Extensions for Website Speed Test](/articles/chrome-extensions-for-website-speed-test)
+- [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking/)
+- [Chrome Slows Down After Sleep Mode Fix](/articles/chrome-slows-down-after-sleep-mode-fix)

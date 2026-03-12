@@ -61,6 +61,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Font Editor in DevTools Explained](/chrome-font-editor-in-devtools-explained)
-* [Chrome for Instapaper Web Clipper](/chrome-for-instapaper-web-clipper)
-* [Chrome HTTPS First Mode Guide](/chrome-https-first-mode)
+- [Chrome Fullscreen Not Working Fix](/articles/chrome-fullscreen-not-working-fix)
+- [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools)
+- [Chrome Cross-Origin Isolation Explained](/articles/chrome-cross-origin-isolation-explained)

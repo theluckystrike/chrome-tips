@@ -95,6 +95,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome for Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)
-* [Chrome Developer Tools Shortcut](//chrome-developer-tools-shortcut/)
-* [Chrome Shopping List Feature How to Use](/chrome-shopping-list-feature-how-to-use)
+- [Chrome for Streamlabs Web Dashboard](/articles/chrome-for-streamlabs-web-dashboard)
+- [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix)
+- [Chrome Guest Browsing: What Data Is Saved](/articles/chrome-guest-browsing-what-data-is-saved)

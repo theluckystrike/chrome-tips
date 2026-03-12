@@ -88,6 +88,7 @@ The combination of developer mode for extension testing and Tab Suspender Pro fo
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Developer Mode Extensions Warning: How to Dismiss](/chrome-developer-mode-extensions-warning-how-to-dismiss)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
-- [Chrome for Zen Mode Extensions](/chrome-for-zen-mode-extensions)
+
+- [Chrome Android Tips and Tricks 2026](/articles/chrome-android-tips-and-tricks-2026)
+- [How to Stop Chrome from Redirecting to HTTPS](/articles/how-to-stop-chrome-from-redirecting-to-https)
+- [Chrome Bookmarks Disappeared: How to Recover Them](/articles/chrome-bookmarks-disappeared-how-to-recover)

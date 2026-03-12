@@ -89,6 +89,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [chrome google photos integration tips](/chrome-google-photos-integration-tips)
-* [Chrome Extension for Auto Scroll Pages](/chrome-extension-for-auto-scroll-pages)
-* [Chrome for Skillshare Web App Setup](/chrome-for-skillshare-web-app-setup)
+- [chrome tab memory usage keeps growing](/articles/chrome-tab-memory-usage-keeps-growing)
+- [chrome report broken website how to](/articles/chrome-report-broken-website-how-to)
+- [chrome for site search from address bar](/articles/chrome-for-site-search-from-address-bar)

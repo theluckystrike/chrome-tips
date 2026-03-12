@@ -58,6 +58,7 @@ Extensions like Tab Suspender Pro and others in the Chrome Web Store make this p
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)
-- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
-- [Best Extensions for Tab Management Chrome](/best-extensions-for-tab-management-chrome)
+
+- [Chrome Nesting CSS Explained](/articles/chrome-nesting-css-explained)
+- [Chrome Extension for Spotify Lyrics](/articles/chrome-extension-for-spotify-lyrics)
+- [chrome how to add trusted sites](/articles/chrome-how-to-add-trusted-sites)

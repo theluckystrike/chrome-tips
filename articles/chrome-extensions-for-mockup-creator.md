@@ -75,6 +75,7 @@ Chrome extensions for mockup creator have transformed the way designers and deve
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+- [chrome taking too long to open fix](/articles/chrome-taking-too-long-to-open-fix)
+- [Chrome Family Link Integration Explained](/articles/chrome-family-link-integration-explained)
+- [Chrome Extensions Disappeared After Update Fix](/articles/chrome-extensions-disappeared-after-update-fix)

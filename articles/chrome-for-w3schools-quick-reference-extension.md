@@ -58,6 +58,7 @@ Experiment with different approaches to find what works best for you. The goal i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
-- [Chrome Extension For Measuring Things On Screen](/chrome-extension-for-measuring-things-on-screen)
-- [Chrome Extension for Changing User Agent](/chrome-extension-for-changing-user-agent)
+
+- [Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser](/articles/chrome-web-bluetooth-api-guide)
+- [Chrome Font Fingerprinting Explained and Fix](/articles/chrome-font-fingerprinting-explained-and-fix)
+- [chrome next dns setup for ad blocking](/articles/chrome-next-dns-setup-for-ad-blocking)

@@ -71,6 +71,7 @@ Start with the built-in settings and see if they meet your needs. If you find yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
-- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
-- [Chrome Zoom Level Per Site How to Set](/chrome-zoom-level-per-site-how-to-set)
+
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/articles/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Invalid Certificate How to Fix Permanently](/articles/chrome-invalid-certificate-how-to-fix-permanently)
+- [chrome for screenshot and annotation tools](/articles/chrome-for-screenshot-and-annotation-tools)

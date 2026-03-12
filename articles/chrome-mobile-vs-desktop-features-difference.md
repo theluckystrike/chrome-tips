@@ -81,3 +81,9 @@ Many users find the best approach is using both platforms together, taking advan
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions Update Frequency Explained](/articles/chrome-extensions-update-frequency-explained)
+- [Chrome Two Factor Authentication Setup](/articles/chrome-two-factor-authentication-setup)
+- [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use)

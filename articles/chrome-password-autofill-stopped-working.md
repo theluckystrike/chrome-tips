@@ -144,3 +144,9 @@ Most users find the issue is resolved by step 3 or 4. Try these solutions in ord
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Arxiv Paper Reader Extensions](/articles/chrome-for-arxiv-paper-reader-extensions)
+- [Chrome High CPU Usage When Watching Videos: Practical Fixes](/articles/chrome-high-cpu-usage-when-watching-videos)
+- [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension)

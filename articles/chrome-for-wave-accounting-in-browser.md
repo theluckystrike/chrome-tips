@@ -76,6 +76,7 @@ Take some time to set up your Chrome profile, pin your Wave tab, and explore whi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for HubSpot CRM in Browser](/chrome-for-hubspot-crm-in-browser)
-- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
-- [Chrome for Trello Power Ups in Browser](/chrome-for-trello-power-ups-in-browser)
+
+- [How to Change Your Chrome Downloads Folder](/articles/chrome-downloads-folder-change)
+- [chrome themes how to change and customize](/articles/chrome-themes-how-to-change-and-customize)
+- [Chrome for Deepl Translator Extension](/articles/chrome-for-deepl-translator-extension)

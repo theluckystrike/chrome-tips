@@ -81,6 +81,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Vertical Tabs Enable 2026](/chrome-vertical-tabs-enable-2026)
-* [Chrome Freezes My Whole Computer](/chrome-freezes-my-whole-computer)
-* [Chrome Dark Mode on Phone How to Enable](//chrome-dark-mode-on-phone-how-to-enable/)
+- [Chrome AI Writing Help Feature](/articles/chrome-ai-writing-help-feature)
+- [Chrome Saved Passwords How to View](/articles/chrome-saved-passwords-how-to-view)
+- [Chrome Extensions for Tab Grouping Automatically](/articles/chrome-extensions-for-tab-grouping-automatically)

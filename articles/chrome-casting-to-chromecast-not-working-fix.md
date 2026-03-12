@@ -85,6 +85,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Extensions for Binaural Beats](/chrome-extensions-for-binaural-beats)
-* [Chrome Extension for Coupon Codes Automatic](/chrome-extension-for-coupon-codes-automatic)
-* [chrome for onenote web clipper setup](/chrome-for-onenote-web-clipper-setup)
+- [Chrome for StackOverflow Best Extensions](/articles/chrome-for-stackoverflow-best-extensions)
+- [Chrome Payment Autofill How to Manage Cards](/articles/chrome-payment-autofill-how-to-manage-cards)
+- [How to Stop Chrome from Suspending My Tabs](/articles/how-to-stop-chrome-from-suspending-my-tabs)

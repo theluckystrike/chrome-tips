@@ -92,6 +92,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Amazon Seller Central Tips](/chrome-for-amazon-seller-central-tips)
-* [Chrome Tab Color Coding How to Use](/chrome-tab-color-coding-how-to-use)
-* [Chrome Address Bar Autocomplete Disable](/chrome-address-bar-autocomplete-disable)
+- [Chrome Release Schedule: How Often Does It Update](/articles/chrome-release-schedule-how-often-does-it-update)
+- [Chrome Safe Browsing: What It Does and How It Protects You](/articles/chrome-safe-browsing-what-it-does)
+- [chrome home screen shortcut how to add on phone](/articles/chrome-home-screen-shortcut-how-to-add-on-phone)

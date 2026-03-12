@@ -71,6 +71,7 @@ Getting the most out of Odysee in Chrome does not require technical expertise. B
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Costco Web Shopping Tips](/chrome-for-costco-web-shopping-tips)
-- [Chrome for Dailymotion Web Player](/chrome-for-dailymotion-web-player)
-- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
+
+- [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome)
+- [Chrome Navigate Back With Gesture How to](/articles/chrome-navigate-back-with-gesture-how-to)
+- [Chrome Extensions for Website Archiving](/articles/chrome-extensions-for-website-archiving)

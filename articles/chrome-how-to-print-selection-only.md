@@ -90,6 +90,7 @@ Give these methods a try on your next printing task. You might be surprised how 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Emulate Print Media How To](/chrome-emulate-print-media-how-to)
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+
+- [Chrome Drag and Drop Not Working Fix](/articles/chrome-drag-and-drop-not-working-fix)
+- [Does Having Many Chrome Extensions Slow Down Browser](/articles/does-having-many-chrome-extensions-slow-down-browser)
+- [chrome for recipe browsing without ads](/articles/chrome-for-recipe-browsing-without-ads)

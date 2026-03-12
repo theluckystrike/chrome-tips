@@ -82,3 +82,9 @@ Ultimately, both browsers are solid choices in 2026. Try using both for a week a
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions Disappeared After Update](/articles/chrome-extensions-disappeared-after-update)
+- [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained)
+- [Chrome Permissions Policy Header Explained](/articles/chrome-permissions-policy-header-explained)

@@ -88,6 +88,7 @@ Give these tips a try and see which ones work best for your workflow. A few smal
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
-- [Chrome for Microsoft Teams in Browser Tips](/chrome-for-microsoft-teams-in-browser-tips)
-- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)
+
+- [Chrome requestanimationframe Explained: What It Means for Your Browser](/articles/chrome-requestanimationframe-explained)
+- [How to Stop Chrome from Opening on Startup](/articles/how-to-stop-chrome-from-opening-on-startup)
+- [chrome vs firefox privacy comparison 2026](/articles/chrome-vs-firefox-privacy-comparison-2026)

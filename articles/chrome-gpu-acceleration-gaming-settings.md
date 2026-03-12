@@ -58,6 +58,7 @@ Remember that every computer is different, and what works perfectly for one pers
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
-- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
-- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
+
+- [Chrome vs Opera GX for Gaming](/articles/chrome-vs-opera-gx-for-gaming)
+- [Chrome Tab From Other Device Not Showing Fix](/articles/chrome-tab-from-other-device-not-showing-fix)
+- [How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost](/articles/chrome-err-connection-refused-localhost-fix)

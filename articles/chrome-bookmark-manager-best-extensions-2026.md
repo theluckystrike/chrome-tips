@@ -68,6 +68,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome for Research Workflow Best Setup](/chrome-for-research-workflow-best-setup)
-* [Chrome VPN Extension Best Free Options 2026](/chrome-vpn-extension-best-free-options-2026)
-* [Chrome for Fitness Tracking Web Apps](/chrome-for-fitness-tracking-web-apps)
+- [How to Set Homepage on Chrome](/articles/how-to-set-homepage-on-chrome)
+- [Best Chrome Extensions for Podcasters](/articles/best-chrome-extensions-for-podcasters)
+- [Best Chrome Extensions For Lawyers](/articles/best-chrome-extensions-for-lawyers)

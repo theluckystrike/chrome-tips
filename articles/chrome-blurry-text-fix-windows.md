@@ -94,6 +94,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
-* [Chrome Certificate Error How to Bypass Safely](/chrome-certificate-error-how-to-bypass-safely)
-* [Chrome View Transition API: Smooth Animations Within a Single Page](/chrome-view-transition-same-document)
+- [Chrome Address Bar Autocomplete Disable](/articles/chrome-address-bar-autocomplete-disable)
+- [Chrome Subgrid CSS Explained](/articles/chrome-subgrid-css-explained)
+- [Chrome Extensions for Asana](/articles/chrome-extensions-for-asana)

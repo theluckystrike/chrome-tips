@@ -74,6 +74,7 @@ Give these extensions a try and see how they improve your Airbnb experience. Sma
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome for LinkedIn Best Extensions](/chrome-for-linkedin-best-extensions)
-- [Best Chrome Extensions for Writers 2026](/best-chrome-extensions-for-writers-2026)
+
+- [How to Turn Off Chrome Notifications on Android](/articles/how-to-turn-off-chrome-notifications-android)
+- [Chrome Restore Tabs Not Working After Update: Practical Fixes](/articles/chrome-restore-tabs-not-working-after-update)
+- [Chrome Block Specific Websites Guide](/articles/chrome-block-specific-websites-guide)

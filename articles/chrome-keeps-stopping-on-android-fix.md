@@ -92,6 +92,7 @@ If you continue to experience problems after trying all these solutions, conside
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Crashing on iPhone Fix](/chrome-crashing-on-iphone-fix)
-- [Chrome Slow on Android Fix](/chrome-slow-on-android-fix)
-- [Chrome Not Working on Android Fix](/chrome-not-working-on-android-fix)
+
+- [chrome protected audience api explained](/articles/chrome-protected-audience-api-explained)
+- [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/articles/chrome-err-cert-authority-invalid-fix)
+- [Chrome Memory Inspector How to Use](/articles/chrome-memory-inspector-how-to-use)

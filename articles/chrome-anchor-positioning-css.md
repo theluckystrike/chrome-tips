@@ -98,6 +98,6 @@ As browser support continues to expand, learning to work with chrome anchor posi
 
 ## Related Articles
 
-* [Chrome Dark Mode How To Enable](//chrome-dark-mode-how-to-enable/)
-* [Chrome Devtools Recorder Panel How To Use](/chrome-devtools-recorder-panel-how-to-use)
-* [Chrome Update Made It Slower? Here's How to Fix It](/chrome-update-made-it-slower-fix)
+- [How to Turn Off Autocomplete in Chrome](/articles/chrome-how-to-turn-off-autocomplete)
+- [Chrome Guest Browsing: What Data Is Saved](/articles/chrome-guest-browsing-what-data-is-saved)
+- [Chrome Cross Origin Error: What It Means and How to Fix It](/articles/chrome-cross-origin-error-what-it-means)

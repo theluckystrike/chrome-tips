@@ -90,6 +90,7 @@ Once you have these basics in place, you will likely find that JSFiddle loads fa
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Best Settings For Slow Internet](/chrome-best-settings-for-slow-internet)
-- [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/best-chrome-settings-for-chromebook)
-- [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)
+
+- [How Many Chrome Extensions Is Too Many](/articles/how-many-chrome-extensions-is-too-many)
+- [Chrome Move Tabs Between Profiles](/articles/chrome-move-tabs-between-profiles)
+- [Chrome Extensions for Lighthouse Alternative](/articles/chrome-extensions-for-lighthouse-alternative)

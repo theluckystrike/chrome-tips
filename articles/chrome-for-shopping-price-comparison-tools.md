@@ -67,6 +67,7 @@ The key is to find the right combination of tools that fit your shopping style. 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Text Comparison Diff Tool](/chrome-extensions-for-text-comparison-diff-tool)
-- [Chrome for Costco Web Shopping Tips](/chrome-for-costco-web-shopping-tips)
-- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
+
+- [Chrome Devtools Application Panel Explained](/articles//chrome-devtools-application-panel-explained/)
+- [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/articles/chrome-ai-powered-history-search)
+- [chrome for xbox cloud gaming optimization](/articles/chrome-for-xbox-cloud-gaming-optimization)

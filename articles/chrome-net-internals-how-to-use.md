@@ -51,6 +51,7 @@ Regardless of which approach you choose, knowing that these tools exist gives yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
-- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
-- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+
+- [Chrome Lazy Loading Images Native: How It Works and Why You Should Use It](/articles/chrome-lazy-loading-images-native)
+- [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location)
+- [Chrome Navigation Timing API Explained](/articles/chrome-navigation-timing-api-explained)

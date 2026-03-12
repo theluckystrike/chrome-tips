@@ -113,6 +113,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Bookmark Bar Disappeared How to Fix](/chrome-bookmark-bar-disappeared-how-to-fix)
-* [How to Enable Chrome Tab Hover Previews](/how-to-enable-chrome-tab-hover-previews)
-* [Chrome Keyboard Lock API: Building Immersive Fullscreen Games](/chrome-keyboard-lock-api-fullscreen-games)
+- [Chrome This Site Cant Provide a Secure Connection Fix](/articles/chrome-this-site-cant-provide-a-secure-connection-fix)
+- [Best Chrome Android Flags to Enable](/articles/best-chrome-android-flags-to-enable)
+- [how to make chrome default browser windows 11](/articles/how-to-make-chrome-default-browser-windows-11)

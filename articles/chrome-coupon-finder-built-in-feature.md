@@ -71,6 +71,6 @@ Finally, keep your extensions updated. Developers regularly release updates that
 
 ## Related Articles
 
-* [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
-* [Best Chrome Extensions for Nurses](/best-chrome-extensions-for-nurses)
-* [Chrome Slow on School Laptop? Here's How to Fix It](/chrome-slow-on-school-laptop-how-to-fix)
+- [Chrome Memory Leak Detection Guide](/articles/chrome-memory-leak-detection)
+- [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow)
+- [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching)

@@ -86,6 +86,7 @@ Whether you are tracking a small personal blog or a large commercial website, th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)
-- [Chrome for Note Taking in Browser Extensions](/chrome-for-note-taking-in-browser-extensions)
-- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
+
+- [Chrome Web and App Activity How to Delete](/articles/chrome-web-and-app-activity-how-to-delete)
+- [How to Change Your Chrome New Tab Background to a Custom Image](/articles/chrome-new-tab-background-change-custom-image)
+- [Best Chrome Extensions for Reading Articles](/articles/best-chrome-extensions-for-reading-articles)

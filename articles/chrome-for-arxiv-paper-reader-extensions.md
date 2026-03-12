@@ -56,6 +56,7 @@ The key is to start with one or two extensions that address your biggest frustra
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+
+- [chrome google lens integration how to use](/articles/chrome-google-lens-integration-how-to-use)
+- [chrome browser fingerprint how to check yours](/articles/chrome-browser-fingerprint-how-to-check-yours)
+- [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy)

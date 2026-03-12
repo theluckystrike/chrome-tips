@@ -94,6 +94,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
-* [how to delete chrome browsing data automatically](/how-to-delete-chrome-browsing-data-automatically)
-* [Chrome Attribution Reporting Guide](/chrome-attribution-reporting)
+- [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching)
+- [Chrome Dns Prefetch What It Does](/articles/chrome-dns-prefetch-what-it-does)
+- [Chrome Shape Detection API Explained](/articles/chrome-shape-detection-api-explained)

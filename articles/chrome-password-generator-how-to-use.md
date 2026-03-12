@@ -94,3 +94,9 @@ Take a few minutes to explore Chrome's password settings and familiarize yoursel
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome DevTools Coverage Tool Explained](/articles//chrome-devtools-coverage-tool-explained/)
+- [Chrome for Speed Reading Extensions](/articles/chrome-for-speed-reading-extensions)
+- [Chrome Energy Saver Mode What Does It Do](/articles/chrome-energy-saver-mode-what-does-it-do)

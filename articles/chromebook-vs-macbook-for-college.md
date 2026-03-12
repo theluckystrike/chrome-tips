@@ -62,6 +62,7 @@ Either way, take some time to think about your actual needs rather than just goi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Vs Firefox For Privacy 2026](/chrome-vs-firefox-for-privacy-2026)
-- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)
-- [Chrome vs Opera GX for Gaming](/chrome-vs-opera-gx-for-gaming)
+
+- [Chrome Tab Freezing What It Means](/articles/chrome-tab-freezing-what-it-means)
+- [Chrome for Removing YouTube Recommendations](/articles/chrome-for-removing-youtube-recommendations)
+- [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization)

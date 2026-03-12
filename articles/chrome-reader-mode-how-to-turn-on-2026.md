@@ -88,3 +88,9 @@ Finally, keep your Chrome browser updated. Updates often include performance imp
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out)
+- [Chrome Magnifier Zoom for Visually Impaired](/articles/chrome-magnifier-zoom-for-visually-impaired)
+- [Why Does Opening Chrome Slow Down Everything](/articles/why-does-opening-chrome-slow-down-everything)

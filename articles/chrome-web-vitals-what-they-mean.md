@@ -75,6 +75,7 @@ As a user, you benefit from this focus on web vitals because it pushes websites 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Core Web Vitals Check My Website](/chrome-core-web-vitals-check-my-website)
-- [Chrome Web Vitals Optimization Guide](/chrome-web-vitals-optimization)
-- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)
+
+- [Chrome Web Store Reviews How to Spot Fake](/articles/chrome-web-store-reviews-how-to-spot-fake)
+- [Chromebook Accessibility Features Guide](/articles/chromebook-accessibility-features-guide)
+- [How to Clear Cookies for One Site in Chrome](/articles/how-to-clear-cookies-for-one-site-in-chrome)

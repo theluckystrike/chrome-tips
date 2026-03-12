@@ -98,6 +98,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Bookmarks File Location and Backup Guide](/chrome-bookmarks-file-location-backup)
-* [chrome kiosk mode how to set up](/chrome-kiosk-mode-how-to-set-up)
-* [Chrome Encoding API Text Encoder Decoder](/chrome-encoding-api-text-encoder-decoder)
+- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser)
+- [chrome privacy sandbox explained for users](/articles/chrome-privacy-sandbox-explained-for-users)
+- [Chrome Extensions For College Professors](/articles//articles/chrome-extensions-for-college-professors/)

@@ -76,6 +76,7 @@ The CSS Overview panel in Chrome DevTools is an invaluable tool for anyone who w
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome DevTools Performance Panel Explained](/chrome-devtools-performance-panel-explained)
-- [Chrome DevTools Layers Panel 3D View](/chrome-devtools-layers-panel-3d-view)
-- [Chrome DevTools Memory Panel Explained](/chrome-devtools-memory-panel-explained)
+
+- [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)
+- [Chrome Strict Site Isolation: Should I Enable](/articles/chrome-strict-site-isolation-should-i-enable)
+- [Chrome Site Isolation Explained for Users](/articles/chrome-site-isolation-explained-for-users)

@@ -81,3 +81,9 @@ Chrome's open-source foundation represents a remarkable achievement in collabora
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome tab groups advanced tips](/articles/chrome-tab-groups-advanced-tips)
+- [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/articles/chrome-extension-using-too-much-memory-find)
+- [Chrome Block Specific Websites Guide](/articles/chrome-block-specific-websites-guide)

@@ -101,6 +101,6 @@ Finally, combine coverage analysis with other performance tools in Chrome DevToo
 
 ## Related Articles
 
-* [How to See Chrome Tabs From Other Devices](/chrome-tabs-from-other-devices-how-to-see)
-* [Chrome Blob And File Api Explained](/chrome-blob-and-file-api-explained)
-* [Chrome Android Tips To Save Data](/chrome-android-tips-to-save-data)
+- [Chrome for MasterClass Web Tips](/articles/chrome-for-masterclass-web-tips)
+- [Chrome for Redfin Web App Tips](/articles/chrome-for-redfin-web-app-tips)
+- [Chrome Service Worker Debugging Guide](/articles/chrome-service-worker-debugging)

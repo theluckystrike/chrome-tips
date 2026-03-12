@@ -84,6 +84,7 @@ Whether you are a developer debugging a web application or a power user looking 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
 ## Related Articles
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
-- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
+
+- [Chrome Omnibox Search Tricks Most People Dont Know](/articles/chrome-omnibox-search-tricks-most-people-dont-know)
+- [Chrome Not Responding How to Force Close Safely](/articles/chrome-not-responding-how-to-force-close-safely)
+- [Chrome Biometric Login How To Set Up](/articles/chrome-biometric-login-how-to-set-up)

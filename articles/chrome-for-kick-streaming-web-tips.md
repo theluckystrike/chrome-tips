@@ -79,6 +79,7 @@ Remember that a smooth streaming experience is about finding the right balance b
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
-- [Chrome for Evernote Web Clipper Tips](/chrome-for-evernote-web-clipper-tips)
-- [Chrome For Odysee Web Player Tips](/chrome-for-odysee-web-player-tips)
+
+- [Chrome Compute Pressure API Explained: What It Means for Your Browser](/articles/chrome-compute-pressure-api-explained)
+- [Chrome Tech Support Scam Popup Fix](/articles/chrome-tech-support-scam-popup-fix)
+- [Chrome Keeps Asking to Be Default Browser Stop](/articles/chrome-keeps-asking-to-be-default-browser-stop)

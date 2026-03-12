@@ -72,3 +72,9 @@ Managing tab audio in Chrome does not have to be a daily frustration. With these
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Crashing on Samsung Galaxy Phone](/articles/chrome-crashing-on-samsung-galaxy-phone)
+- [Chrome Devtools Responsive Mode How to Use](/articles/chrome-devtools-responsive-mode-how-to-use)
+- [Is 8GB RAM Enough for Chrome with Many Tabs?](/articles/is-8gb-ram-enough-for-chrome-with-many-tabs)

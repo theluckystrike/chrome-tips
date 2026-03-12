@@ -77,6 +77,7 @@ Remember, you can always change your homepage later if your needs change. Chrome
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
-- [Chrome Default Browser How To Set On Mac](/chrome-default-browser-how-to-set-on-mac)
-- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+
+- [Chrome for Redfin Web App Tips](/articles/chrome-for-redfin-web-app-tips)
+- [Chrome Extensions for Google Sheets](/articles/chrome-extensions-for-google-sheets)
+- [How to Check Website Speed in Chrome](/articles/how-to-check-website-speed-in-chrome)

@@ -96,6 +96,7 @@ Whatever you decide, your Chromebook will still be a capable machine. The choice
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Safe Browsing Should I Turn On](/chrome-safe-browsing-should-i-turn-on)
-- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
-- [How Often Should I Clear Chrome Cache](/how-often-should-i-clear-chrome-cache)
+
+- [Chrome Permissions API for Camera and Microphone](/articles/chrome-permissions-api-camera-microphone)
+- [Chrome Web Notifications Best Practices](/articles/chrome-web-notifications-best-practices)
+- [Chrome Pop Ups on Phone How to Block](/articles/chrome-pop-ups-on-phone-how-to-block)

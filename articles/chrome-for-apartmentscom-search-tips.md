@@ -35,6 +35,7 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
-- [Chrome for Private Browsing Tips Beyond Incognito](/chrome-for-private-browsing-tips-beyond-incognito)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
+
+- [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips)
+- [Chrome PDF Viewer Settings: Complete Customization Guide](/articles/chrome-pdf-viewer-settings)
+- [Chrome Startup Pages How to Set](/articles/chrome-startup-pages-how-to-set)

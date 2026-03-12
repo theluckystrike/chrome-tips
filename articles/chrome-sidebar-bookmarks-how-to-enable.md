@@ -86,6 +86,7 @@ Give a bookmark sidebar extension a try for a week and see how it changes your b
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How To Enable Chrome Experimental Features](/how-to-enable-chrome-experimental-features)
-- [How to Enable Chrome Parallel Downloading](/how-to-enable-chrome-parallel-downloading)
-- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
+
+- [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes)
+- [Chrome Custom Fonts How to Change](/articles//chrome-custom-fonts-how-to-change/)
+- [Chrome Devtools Screenshot Full Page](/articles/chrome-devtools-screenshot-full-page)

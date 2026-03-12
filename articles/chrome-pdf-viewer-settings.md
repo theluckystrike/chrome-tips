@@ -101,3 +101,9 @@ For power users managing multiple PDF documents, consider incorporating tab mana
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Restore Closed Tabs in Chrome](/articles/chrome-restore-closed-tabs-guide)
+- [Chrome for Research Workflow Best Setup](/articles/chrome-for-research-workflow-best-setup)
+- [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching)

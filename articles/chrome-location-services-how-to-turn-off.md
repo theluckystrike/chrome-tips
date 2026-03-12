@@ -86,6 +86,7 @@ The steps outlined above give you the tools to manage chrome location services h
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Location Access for One Site How to Allow](/chrome-location-access-for-one-site-how-to-allow)
-- [How to Turn Off Autocomplete in Chrome](/chrome-how-to-turn-off-autocomplete)
-- [Chrome Predictive Loading How to Turn Off](/chrome-predictive-loading-how-to-turn-off)
+
+- [Chrome Biometric Login How To Set Up](/articles/chrome-biometric-login-how-to-set-up)
+- [Chrome vs Samsung Internet for Android](/articles/chrome-vs-samsung-internet-for-android)
+- [Chrome Slow on Surface Pro Fix](/articles/chrome-slow-on-surface-pro-fix)

@@ -121,6 +121,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Opens by Itself Randomly Fix](/chrome-opens-by-itself-randomly-fix)
-* [Chrome Extension for Focus Mode Block Distractions](/chrome-extension-for-focus-mode-block-distractions)
-* [firefox vs chrome battery](/firefox-vs-chrome-battery)
+- [Chrome Web OTP API Explained](/articles/chrome-web-otp-api-explained)
+- [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions)
+- [How to Change Default Download Location Chrome](/articles/how-to-change-default-download-location-chrome)

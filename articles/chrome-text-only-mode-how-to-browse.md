@@ -84,3 +84,9 @@ Try different methods to see which fits your lifestyle. Whether you want to save
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome on raspberry pi how to install](/articles/chrome-on-raspberry-pi-how-to-install)
+- [Chrome Flags to Enable for Speed](/articles/chrome-flags-to-enable-for-speed)
+- [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app)

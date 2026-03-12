@@ -94,3 +94,9 @@ Once you start using these omnibox search tricks regularly, you will find yourse
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners)
+- [Chrome Slow on Windows 10 Old Laptop Fix](/articles/chrome-slow-on-windows-10-old-laptop-fix)
+- [Chrome for Loom Screen Recording Tips](/articles/chrome-for-loom-screen-recording-tips)

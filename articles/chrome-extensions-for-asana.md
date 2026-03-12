@@ -76,3 +76,9 @@ You do not need to install every extension available. In fact, having too many c
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Link Checker Broken Links](/articles/chrome-extensions-for-link-checker-broken-links)
+- [chrome print page shortcut](/articles/chrome-print-page-shortcut)
+- [Chrome for Academic Paper Reading Extensions](/articles/chrome-for-academic-paper-reading-extensions)

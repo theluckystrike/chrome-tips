@@ -88,6 +88,7 @@ You do not need to be technical to do any of this. Everything mentioned can be d
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.*
 
 ## Related Articles
-- [Chrome Permissions on Startup How to Configure](/chrome-permissions-on-startup-how-to-configure)
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
-- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
+
+- [Chrome This Site Cant Be Reached Fix](/articles/chrome-this-site-cant-be-reached-fix)
+- [chrome fledge api what advertisers know about you](/articles/chrome-fledge-api-what-advertisers-know-about-you)
+- [Chrome Extensions for Zoom Meetings](/articles/chrome-extensions-for-zoom-meetings)

@@ -115,6 +115,6 @@ Remember that technology can be unpredictable, and sometimes a simple restart of
 
 ## Related Articles
 
-* [Chrome for DoorDash Web Ordering Tips](/chrome-for-doordash-web-ordering-tips)
-* [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
-* [Chrome Extensions for Noise Canceling](/chrome-extensions-for-noise-canceling)
+- [Chrome GPU Process High CPU Fix](/articles/chrome-gpu-process-high-cpu-fix)
+- [Chrome Toggle Fullscreen Shortcut](/articles/chrome-toggle-fullscreen-shortcut)
+- [Chrome Passkeys Setup Guide 2026](/articles/chrome-passkeys-setup-guide-2026)

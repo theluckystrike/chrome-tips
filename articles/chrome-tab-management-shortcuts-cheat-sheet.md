@@ -80,3 +80,9 @@ The extension handles everything in the background, so you do not need to manual
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead)
+- [Best Browser for Old MacBook 2026](/articles/best-browser-for-old-macbook-2026)
+- [Chrome for Google Meet Camera Settings](/articles/chrome-for-google-meet-camera-settings)

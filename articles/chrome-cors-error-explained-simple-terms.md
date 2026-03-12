@@ -166,6 +166,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Encoding API Text Encoder Decoder](/chrome-encoding-api-text-encoder-decoder)
-* [chrome print page shortcut](/chrome-print-page-shortcut)
-* [chrome extension for measuring things on screen](/chrome-extension-for-measuring-things-on-screen)
+- [Chrome Startup Pages Configuration](/articles/chrome-startup-pages-config)
+- [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management)
+- [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/articles/chrome-devtools-sensors-tab-geolocation)

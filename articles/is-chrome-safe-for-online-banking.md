@@ -63,6 +63,7 @@ Remember that no browser is completely immune to threats, but by staying vigilan
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
-- [How to Lock Safe Search in Chrome for Children](/chrome-safe-search-lock-for-children)
-- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)
+
+- [Chrome Camera Access on Phone How to Manage](/articles/chrome-camera-access-on-phone-how-to-manage)
+- [Chrome WebStore Extensions Not Installing Fix](/articles/chrome-webstore-extensions-not-installing-fix)
+- [Chrome HTTPS First Mode Guide](/articles/chrome-https-first-mode)

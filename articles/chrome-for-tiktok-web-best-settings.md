@@ -78,6 +78,7 @@ Finally, consider how many other programs you have running while watching TikTok
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Instacart Web App Best Settings](/chrome-for-instacart-web-app-best-settings)
-- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
-- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+
+- [Chrome File System Access API: A Complete Guide](/articles/chrome-file-system-access-api)
+- [Chrome IndexedDB vs LocalStorage Comparison](/articles/chrome-indexeddb-vs-localstorage-comparison)
+- [chrome reader mode how to turn on 2026](/articles/chrome-reader-mode-how-to-turn-on-2026)

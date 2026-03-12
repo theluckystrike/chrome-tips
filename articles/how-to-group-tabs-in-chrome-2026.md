@@ -200,3 +200,9 @@ For additional ways to enhance your Chrome experience and maintain optimal brows
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Tabs Keep Reloading When I Switch Back](/articles/chrome-tabs-keep-reloading-when-i-switch-back)
+- [chrome reduce data usage on mobile](/articles/chrome-reduce-data-usage-on-mobile)
+- [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms)

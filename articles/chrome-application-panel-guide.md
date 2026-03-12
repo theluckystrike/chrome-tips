@@ -182,6 +182,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Android Tips To Save Data](/chrome-android-tips-to-save-data)
-* [Chrome Spellcheck Not Working? Here's How to Fix It](/chrome-spellcheck-not-working-fix)
-* [Chrome Saved Addresses How to Edit](/chrome-saved-addresses-how-to-edit)
+- [Chrome Lazy Loading Images How It Works](/articles/chrome-lazy-loading-images-how-it-works)
+- [Best Chrome Extensions for Twitch Streamers](/articles/best-chrome-extensions-for-twitch-streamers)
+- [Chrome for Removing YouTube Recommendations](/articles/chrome-for-removing-youtube-recommendations)

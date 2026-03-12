@@ -59,6 +59,7 @@ Think about how you actually browse and what will fit into your routine. The mos
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Webview on Android What It Does](/chrome-webview-on-android-what-it-does)
-- [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)
-- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
+
+- [chrome webrtc video call quality improvement](/articles/chrome-webrtc-video-call-quality-improvement)
+- [Chrome Frame Rate How to Check](/articles/chrome-frame-rate-how-to-check)
+- [Chrome Extensions for Vertical Tabs Sidebar](/articles/chrome-extensions-for-vertical-tabs-sidebar)

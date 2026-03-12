@@ -72,6 +72,7 @@ Remember that each extension you add uses some browser resources, so it is worth
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Reddit Users](/best-chrome-extensions-for-reddit-users)
-- [Best Chrome Extensions for Researchers](/best-chrome-extensions-for-researchers)
-- [Best Chrome Extensions for Real Estate Agents](/best-chrome-extensions-for-real-estate-agents)
+
+- [Chrome Slow on Windows 11 After Update: Practical Fixes](/articles/chrome-slow-on-windows-11-after-update)
+- [Chrome DNS Probe Finished Nxdomain Fix](/articles/chrome-dns-probe-finished-nxdomain-fix)
+- [Chrome Shopping List Feature How to Use](/articles/chrome-shopping-list-feature-how-to-use)

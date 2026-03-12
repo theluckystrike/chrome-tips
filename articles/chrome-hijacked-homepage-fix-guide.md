@@ -130,3 +130,9 @@ Remember: your browser is your gateway to the internet, and keeping it secure me
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management)
+- [Chrome Extensions for Google Sheets](/articles/chrome-extensions-for-google-sheets)
+- [chrome multi language setup how to](/articles/chrome-multi-language-setup-how-to)

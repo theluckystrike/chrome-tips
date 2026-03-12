@@ -145,3 +145,9 @@ This removes all extensions, clears custom settings, and gives you a fresh, clea
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Meta Tag Analyzer](/articles/chrome-extensions-for-meta-tag-analyzer)
+- [chrome privacy sandbox explained simply](/articles/chrome-privacy-sandbox-explained-simply)
+- [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained)

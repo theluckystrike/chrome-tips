@@ -80,3 +80,9 @@ If you are looking for additional ways to manage Chrome tabs and improve browser
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome WebGL Check If Working: Complete Verification Guide](/articles/chrome-webgl-check-if-working)
+- [Chrome Extensions For Comparing Prices Across Stores](/articles//articles/chrome-extensions-for-comparing-prices-across-stores/)
+- [Chrome How to Inspect Element Beginners](/articles/chrome-how-to-inspect-element-beginners)

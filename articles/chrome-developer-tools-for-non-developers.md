@@ -103,6 +103,7 @@ DevTools is a powerful resource that is available to everyone using Chrome. Even
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome For Screenshot And Annotation Tools](/chrome-for-screenshot-and-annotation-tools)
-- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
-- [Chrome Extensions for Web Development Tools](/chrome-extensions-for-web-development-tools)
+
+- [Chrome Extensions for Remote Workers 2026](/articles/chrome-extensions-for-remote-workers-2026)
+- [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension)
+- [Chrome for Page Load Speed Testing](/articles/chrome-for-page-load-speed-testing)

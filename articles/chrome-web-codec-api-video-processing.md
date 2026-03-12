@@ -64,6 +64,7 @@ If your computer consistently struggles with video processing, you might need to
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)
-- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
-- [Chrome Web Codecs API Explained](/chrome-web-codecs-api-explained)
+
+- [Chromebook Keyboard Shortcuts Complete List](/articles/chromebook-keyboard-shortcuts-complete-list)
+- [Chrome Extensions for Grammar Checking](/articles/chrome-extensions-for-grammar-checking)
+- [Chrome Redirecting to Wrong Pages Fix](/articles/chrome-redirecting-to-wrong-pages-fix)

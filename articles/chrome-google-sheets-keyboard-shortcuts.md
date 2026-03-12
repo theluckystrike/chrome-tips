@@ -95,6 +95,7 @@ Chrome Google Sheets keyboard shortcuts are some of the most accessible tools fo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome YouTube Keyboard Shortcuts](/chrome-youtube-keyboard-shortcuts)
-- [Chrome Keyboard Shortcuts Complete List 2026](/chrome-keyboard-shortcuts-complete-list-2026)
-- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
+
+- [Chrome Default Folder Location Where Is It](/articles//chrome-default-folder-location-where-is-it/)
+- [Chrome Extensions for Mockup Creator](/articles/chrome-extensions-for-mockup-creator)
+- [Chrome Flags Explained for Beginners](/articles/chrome-flags-explained-for-beginners)

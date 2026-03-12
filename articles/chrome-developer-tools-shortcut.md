@@ -70,6 +70,7 @@ Try using the F12 or Ctrl+Shift+I shortcut today. It takes only a moment to lear
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Extensions Developer Mode: A Complete Beginner's Guide](/chrome-extensions-developer-mode)
-- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
-- [Chrome Developer Tools for Non Developers](/chrome-developer-tools-for-non-developers)
+
+- [chrome reduce data usage mobile](/articles/chrome-reduce-data-usage-mobile)
+- [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/articles/chrome-makes-my-old-laptop-unusable)
+- [How to Fix Chrome Hijacked Homepage (Complete Guide)](/articles/chrome-hijacked-homepage-fix-guide)

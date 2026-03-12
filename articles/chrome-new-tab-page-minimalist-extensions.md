@@ -85,6 +85,7 @@ Take some time to explore your options and find what feels right. Once you settl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome New Tab Page How To Customize](/chrome-new-tab-page-how-to-customize)
-- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
-- [Chrome Extensions for Weather Forecast New Tab](/chrome-extensions-for-weather-forecast-new-tab)
+
+- [chrome screen reader support](/articles/chrome-screen-reader-support)
+- [Chrome Auto Sign In to Websites How to Control](/articles/chrome-auto-sign-in-to-websites-how-to-control)
+- [How to Clear Chrome Cache Properly](/articles/how-to-clear-chrome-cache-properly)

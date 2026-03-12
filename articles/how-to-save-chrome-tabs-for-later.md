@@ -88,6 +88,7 @@ Try a few of these methods and see what works best for your workflow. Once you h
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How To Group Tabs In Chrome 2026](/how-to-group-tabs-in-chrome-2026)
-- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
-- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
+
+- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/articles/chrome-err-too-many-redirects-cookie-fix)
+- [Chrome Permissions Manager Guide](/articles/chrome-permissions-manager-guide)
+- [Chrome Crashing on Samsung Galaxy Phone](/articles/chrome-crashing-on-samsung-galaxy-phone)

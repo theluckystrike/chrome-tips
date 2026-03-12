@@ -79,6 +79,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Local Storage How to Clear for One Site](/chrome-local-storage-how-to-clear-for-one-site)
-* [Chrome Recorder and DevTools: A Guide to Test Automation](/chrome-recorder-devtools-test-automation)
-* [Best Chrome Extensions for UX Designers](/best-chrome-extensions-for-ux-designers)
+- [Chrome Background Sync for Offline Forms](/articles/chrome-background-sync-for-offline-forms)
+- [Chrome LastPass Extension Slow Fix](/articles/chrome-lastpass-extension-slow-fix)
+- [Chrome Recorder and DevTools: A Guide to Test Automation](/articles/chrome-recorder-devtools-test-automation)

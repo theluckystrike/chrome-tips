@@ -105,6 +105,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Screen Flickering Fix](/chrome-screen-flickering-fix)
-* [Chrome Permissions API for Camera and Microphone](/chrome-permissions-api-camera-microphone)
-* [Chrome for Evernote Web Clipper Tips](/chrome-for-evernote-web-clipper-tips)
+- [Chrome Array Groupby New Method](/articles/chrome-array-groupby-new-method)
+- [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms)
+- [Chrome Extensions for Lorem Ipsum Generator](/articles/chrome-extensions-for-lorem-ipsum-generator)

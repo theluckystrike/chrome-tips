@@ -92,3 +92,9 @@ Start by enabling high contrast mode in your browser today, and adjust the setti
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Viewing Page Load Time](/articles/chrome-extension-for-viewing-page-load-time)
+- [Chrome PDF Not Downloading Just Opening Fix](/articles/chrome-pdf-not-downloading-just-opening-fix)
+- [Chrome IP Protection: How to Hide Your IP Address in Chrome](/articles/chrome-ip-protection-hide-ip-address)

@@ -143,6 +143,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions for Adobe Companion](/chrome-extensions-for-adobe-companion)
-* [Chrome CDP Protocol Explained Simply](/chrome-cdp-protocol-explained-simply)
-* [Chrome Keyboard Navigation Tips](/chrome-keyboard-navigation-tips)
+- [chrome videos buffering slow fix](/articles/chrome-videos-buffering-slow-fix)
+- [Best Privacy Settings For Chrome 2026](/articles/best-privacy-settings-for-chrome-2026)
+- [How to Use Chrome Read Later: Save Articles for Offline Reading](/articles/chrome-read-later-save-articles-offline)

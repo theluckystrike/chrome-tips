@@ -61,6 +61,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Best Chrome Extensions for HR Professionals](/best-chrome-extensions-for-hr-professionals)
-* [chrome price drop alerts how to enable](/chrome-price-drop-alerts-how-to-enable)
-* [Chrome on Android \u2014 Tips and Tricks for 2026](/chrome-on-android-tips-and-tricks-2026)
+- [Chrome for Cashback Extensions Comparison](/articles/chrome-for-cashback-extensions-comparison)
+- [Chrome Tab Groups on Phone How to Use](/articles/chrome-tab-groups-on-phone-how-to-use)
+- [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension)

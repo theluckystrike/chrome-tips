@@ -84,3 +84,9 @@ Some extensions might interfere with translation. If translation suddenly stops 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Noscript Alternative](/articles/chrome-extensions-for-noscript-alternative)
+- [chrome for telegram web best settings](/articles/chrome-for-telegram-web-best-settings)
+- [Chrome Web Push Notifications Setup Guide](/articles/chrome-web-push-notifications-setup-guide)

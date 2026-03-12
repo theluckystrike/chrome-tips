@@ -89,6 +89,7 @@ Using your browser effectively supports this routine. Keep your most-used pages 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Device Management For Education](/chrome-device-management-for-education)
-- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
-- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
+
+- [chrome extension rejected common reasons fix](/articles/chrome-extension-rejected-common-reasons-fix)
+- [Chrome for Waze Web Tips](/articles/chrome-for-waze-web-tips)
+- [Chrome for Reducing Eye Strain Extensions](/articles/chrome-for-reducing-eye-strain-extensions)

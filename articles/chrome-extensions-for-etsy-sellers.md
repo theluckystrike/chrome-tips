@@ -72,6 +72,7 @@ Once you have installed a few extensions, take some time to explore their settin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome for Etsy Seller Best Extensions](/chrome-for-etsy-seller-best-extensions)
-- [Chrome Extensions for Amazon FBA Sellers](/chrome-extensions-for-amazon-fba-sellers)
+
+- [Chrome New Tab Page Minimalist Extensions](/articles/chrome-new-tab-page-minimalist-extensions)
+- [Chrome Private State Tokens Explained: What They Are and How They Work](/articles/chrome-private-state-tokens-explained)
+- [Chrome Scrolling is Choppy and Laggy](/articles/chrome-scrolling-is-choppy-and-laggy)

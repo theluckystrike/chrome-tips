@@ -132,6 +132,7 @@ Remember that the key to success with WebGPU is practice. Start with simple proj
 *Built by theluckystrike — More tips at https://zovo.one*
 
 ## Related Articles
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-- [Chrome Long Tasks API Explained](/chrome-long-tasks-api-explained)
-- [Chrome WASM WebAssembly Getting Started: A Complete Beginner's Guide](/chrome-wasm-webassembly-getting-started)
+
+- [Chrome Too Many Redirects Error Fix](/articles/chrome-too-many-redirects-error-fix)
+- [How to Use Chrome DevTools for Beginners](/articles/how-to-use-chrome-devtools-for-beginners)
+- [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does)

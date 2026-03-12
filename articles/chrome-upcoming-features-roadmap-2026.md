@@ -79,3 +79,9 @@ As Chrome continues to evolve, taking a moment to learn about new features helps
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Push Notifications API Explained](/articles/chrome-push-notifications-api-explained)
+- [Chrome Web Serial API Guide](/articles/chrome-web-serial-api-guide)
+- [How to Allow Pop Ups on One Site Chrome](/articles/how-to-allow-pop-ups-on-one-site-chrome)

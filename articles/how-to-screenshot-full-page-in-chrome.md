@@ -76,6 +76,7 @@ Give it a try on your next webpage. You will be surprised at how easy it is to g
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
-- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
-- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
+
+- [How to Share Chrome Tabs in Video Calls](/articles/how-to-share-chrome-tabs-in-video-calls)
+- [chrome clipboard permission explained](/articles/chrome-clipboard-permission-explained)
+- [Chrome Not Responding How to Force Close Safely](/articles/chrome-not-responding-how-to-force-close-safely)

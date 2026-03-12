@@ -80,3 +80,9 @@ If freezing continues despite trying these solutions, your computer might have a
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Multiple Users on Same Computer Setup](/articles/chrome-multiple-users-on-same-computer-setup)
+- [Can Chrome Extensions Steal Your Data](/articles/can-chrome-extensions-steal-your-data)
+- [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)

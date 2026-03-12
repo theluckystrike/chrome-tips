@@ -83,3 +83,9 @@ Make it a habit to check periodically or respond right away when Chrome alerts y
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord/)
+- [Chrome Emoji Keyboard Shortcut How to Use](/articles/chrome-emoji-keyboard-shortcut-how-to-use)
+- [Chrome Reading Mode — How to Enable and Use It](/articles/chrome-reading-mode-how-to-enable)

@@ -75,3 +75,9 @@ As more websites add passkey support and as you become more comfortable with the
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Blocking Social Media During Work](/articles/chrome-extension-for-blocking-social-media-during-work)
+- [Chrome Live Captions Feature Guide](/articles/chrome-live-captions-feature)
+- [chrome pwa offline capability how it works](/articles/chrome-pwa-offline-capability-how-it-works)

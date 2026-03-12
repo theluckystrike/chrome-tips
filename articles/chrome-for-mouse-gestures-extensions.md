@@ -82,6 +82,7 @@ Chrome for mouse gestures extensions is a great way to boost your browsing speed
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+
+- [Chrome Tab Freezing What It Means](/articles/chrome-tab-freezing-what-it-means)
+- [Chrome Bookmark Manager Best Extensions 2026](/articles/chrome-bookmark-manager-best-extensions-2026)
+- [Chrome PDF Not Opening Fix](/articles/chrome-pdf-not-opening-fix)

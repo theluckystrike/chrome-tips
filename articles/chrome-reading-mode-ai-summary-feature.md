@@ -93,3 +93,9 @@ For now, the AI summary feature in Chrome's Reading Mode is a valuable tool that
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Homepage Keeps Resetting Fix](/articles/chrome-homepage-keeps-resetting-fix)
+- [Chrome Extensions For Focus And Productivity](/articles//articles/chrome-extensions-for-focus-and-productivity/)
+- [Chrome for Accessibility Testing Extensions](/articles/chrome-for-accessibility-testing-extensions)

@@ -64,6 +64,7 @@ Remember that browser technology and Runway ML itself continue to evolve. What w
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)
-- [Chrome for Skillshare Web App Setup](/chrome-for-skillshare-web-app-setup)
-- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
+
+- [Why Is Chrome Slower Than Firefox?](/articles/why-is-chrome-slower-than-firefox)
+- [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api)
+- [Chrome Tab Discard What It Means](/articles/chrome-tab-discard-what-it-means)

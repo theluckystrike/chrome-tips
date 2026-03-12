@@ -68,3 +68,9 @@ The Layers Panel is also useful for web developers who want to optimize their ow
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Facebook Best Extensions](/articles/chrome-for-facebook-best-extensions)
+- [Chrome Send to Device Feature How to Use](/articles/chrome-send-to-device-feature-how-to-use)
+- [Chrome Autocomplete Wrong Suggestions How to Fix](/articles/chrome-autocomplete-wrong-suggestions-how-to-fix)

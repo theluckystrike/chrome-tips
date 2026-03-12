@@ -83,6 +83,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Compute Pressure: How Thermal and CPU Throttling Affect Your Browser](/chrome-compute-pressure-thermal-cpu)
-* [Chrome Mailto Link Not Working Fix](/chrome-mailto-link-not-working-fix)
-* [Chrome Extensions for Hotel Deal Finder](/chrome-extensions-for-hotel-deal-finder)
+- [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/articles/chrome-your-computer-is-infected-popup-fix)
+- [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android)
+- [Chrome Open Settings Shortcut](/articles/chrome-open-settings-shortcut)

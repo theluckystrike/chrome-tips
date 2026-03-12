@@ -78,6 +78,7 @@ Give these methods a try and see which ones work best for how you use social med
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Social Media Managers](/chrome-extensions-for-social-media-managers)
-- [Chrome Extensions for Social Media Scheduling](/chrome-extensions-for-social-media-scheduling)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [Chrome Web NFC API Guide](/articles/chrome-web-nfc-api-guide)
+- [chrome data saver mode is it still available](/articles//chrome-data-saver-mode-is-it-still-available/)
+- [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use)

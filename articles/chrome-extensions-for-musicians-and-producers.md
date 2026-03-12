@@ -76,6 +76,7 @@ Start with one or two extensions that address your biggest pain points. Once you
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Writers and Bloggers](/chrome-extensions-for-writers-and-bloggers)
-- [Chrome for Citation and Research Extensions](/chrome-for-citation-and-research-extensions)
-- [Best Chrome Extensions for Musicians](/best-chrome-extensions-for-musicians)
+
+- [Chrome Slow on Android Fix](/articles/chrome-slow-on-android-fix)
+- [chrome logpoints debug without console log](/articles/chrome-logpoints-debug-without-console-log)
+- [Chrome Guest Mode Explained](/articles/chrome-guest-mode-explained)

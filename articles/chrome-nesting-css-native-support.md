@@ -60,8 +60,8 @@ Additionally, keeping your Chrome installation updated ensures you always have t
 
 Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)
 
-
 ## Related Articles
-- [Chrome Nesting CSS Explained](/chrome-nesting-css-explained)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
+
+- [Chrome for MasterClass Web Tips](/articles/chrome-for-masterclass-web-tips)
+- [Chrome vs Samsung Internet for Android](/articles/chrome-vs-samsung-internet-for-android)
+- [Chrome for Removing YouTube Recommendations](/articles/chrome-for-removing-youtube-recommendations)

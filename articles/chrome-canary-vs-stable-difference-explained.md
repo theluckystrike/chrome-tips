@@ -63,6 +63,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Block Specific Websites Guide](/chrome-block-specific-websites-guide)
-* [Chromebook External Monitor How to Connect](/chromebook-external-monitor-how-to-connect)
-* [How to Enable Chrome Site Isolation for Extra Security](/chrome-site-isolation-enable-extra-security)
+- [Chrome Noise Cancellation for Meetings](/articles/chrome-noise-cancellation-for-meetings)
+- [Chrome Your Connection Is Not Private Fix](/articles/chrome-your-connection-is-not-private-fix)
+- [Chrome for Slack Web App Best Settings](/articles/chrome-for-slack-web-app-best-settings)

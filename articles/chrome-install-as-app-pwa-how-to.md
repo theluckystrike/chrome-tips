@@ -56,6 +56,7 @@ For those who want even more control over their browser experience, there are ex
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Web Apps How To Install](/chrome-web-apps-how-to-install)
-- [Chrome File Handling How to Change Default App](/chrome-file-handling-how-to-change-default-app)
-- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
+
+- [Chrome Clean Install: What to Backup First](/articles/chrome-clean-install-what-to-backup-first)
+- [Chrome Sync Across Devices How It Works](/articles/chrome-sync-across-devices-how-it-works)
+- [chrome text scaling for low vision users](/articles/chrome-text-scaling-for-low-vision-users)

@@ -65,6 +65,7 @@ Small changes, such as reducing extensions, managing tabs more carefully, and ke
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Startup Page How to Set](/chrome-startup-page-how-to-set)
-- [Chrome Permissions on Startup How to Configure](/chrome-permissions-on-startup-how-to-configure)
-- [How to Reduce Chrome Startup Time](/how-to-reduce-chrome-startup-time)
+
+- [chrome for education classroom management](/articles/chrome-for-education-classroom-management)
+- [Chrome for Note Taking in Browser Extensions](/articles/chrome-for-note-taking-in-browser-extensions)
+- [chrome gamepad api how to use](/articles/chrome-gamepad-api-how-to-use)

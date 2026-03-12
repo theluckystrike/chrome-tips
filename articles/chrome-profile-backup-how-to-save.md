@@ -95,3 +95,9 @@ A chrome profile backup is one of those things that seems unnecessary until you 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Shopify](/articles/chrome-extensions-for-shopify)
+- [Chrome Incognito on Phone How to Open](/articles/chrome-incognito-on-phone-how-to-open)
+- [Chrome for Research Workflow Best Setup](/articles/chrome-for-research-workflow-best-setup)

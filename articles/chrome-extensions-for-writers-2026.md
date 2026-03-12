@@ -114,3 +114,9 @@ The writing landscape continues to evolve, with new tools and technologies emerg
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out)
+- [chrome lighthouse audit how to run](/articles/chrome-lighthouse-audit-how-to-run)
+- [Chrome for Microsoft Teams in Browser Tips](/articles/chrome-for-microsoft-teams-in-browser-tips)

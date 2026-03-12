@@ -155,6 +155,7 @@ If you've tried everything and Chrome is still slow, consider:
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Why Did Chrome Get So Slow Recently? Causes and Fixes](/why-did-chrome-get-so-slow-recently)
-- [Chrome Slow on iPad Why: Causes and Solutions](/chrome-slow-on-ipad-why)
-- [Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM](/chrome-slow-on-work-computer-vpn)
+
+- [Chrome Address Bar Not Working Fix](/articles/chrome-address-bar-not-working-fix)
+- [Chrome Extensions For Font Changing](/articles//articles/chrome-extensions-for-font-changing/)
+- [Chrome Service Worker High CPU Fix](/articles/chrome-service-worker-high-cpu-fix)

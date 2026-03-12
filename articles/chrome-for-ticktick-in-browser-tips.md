@@ -67,6 +67,7 @@ Remember that the goal is not to create more work for yourself but to reduce the
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
-- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)
-- [Chrome for Zoom in Browser Best Settings](/chrome-for-zoom-in-browser-best-settings)
+
+- [Chromebook Storage Full How to Free Space](/articles/chromebook-storage-full-how-to-free-space)
+- [Chrome PDF Viewer Settings: Complete Customization Guide](/articles/chrome-pdf-viewer-settings)
+- [chrome extensions for teachers 2026](/articles/chrome-extensions-for-teachers-2026)

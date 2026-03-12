@@ -66,6 +66,7 @@ Making Chrome your default browser on Windows 11 is a straightforward process th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
-- [How to Make Chrome Remember Tabs After Closing](/how-to-make-chrome-remember-tabs-after-closing)
-- [Chrome Default Browser How To Set Windows Mac](/chrome-default-browser-how-to-set-windows-mac)
+
+- [How to Sync Chrome Bookmarks Between Phone and Computer](/articles/chrome-bookmark-sync-between-phone-and-computer)
+- [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/articles/chrome-extensions-developer-mode)
+- [Chrome vs Brave Browser Comparison 2026](/articles/chrome-vs-brave-browser-comparison-2026)

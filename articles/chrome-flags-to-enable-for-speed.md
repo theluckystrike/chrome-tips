@@ -59,6 +59,7 @@ If you have been struggling with a slow Chrome browser, try these suggestions an
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
-- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
-- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
+
+- [chrome for shopping price comparison tools](/articles/chrome-for-shopping-price-comparison-tools)
+- [Chrome Extensions for Microsoft Teams](/articles/chrome-extensions-for-microsoft-teams)
+- [Chrome for Mendeley Web Importer Tips](/articles/chrome-for-mendeley-web-importer-tips)

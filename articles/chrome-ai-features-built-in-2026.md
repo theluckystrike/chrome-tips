@@ -81,6 +81,6 @@ Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for White Noise While Working](/chrome-for-white-noise-while-working)
-* [Chrome Gmail Keyboard Shortcuts](/chrome-gmail-keyboard-shortcuts)
-* [Chrome Google Maps Slow and Laggy Fix](/chrome-google-maps-slow-and-laggy-fix)
+- [Chrome CSS Grid Layout Complete Guide](/articles//chrome-css-grid-layout-complete-guide/)
+- [Chrome for Email Productivity Extensions](/articles/chrome-for-email-productivity-extensions)
+- [Chrome Opens by Itself Randomly Fix](/articles/chrome-opens-by-itself-randomly-fix)

@@ -89,6 +89,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome New Tab Extensions Aesthetic 2026](/chrome-new-tab-extensions-aesthetic-2026)
-* [How to Fix Chrome Search Bar Not Working](/chrome-search-bar-not-working-fix)
-* [Best Chrome Extensions for Language Learning](/best-chrome-extensions-for-language-learning)
+- [Chrome Google Keep Integration Tips](/articles/chrome-google-keep-integration-tips)
+- [Chrome View Page Resources How to](/articles/chrome-view-page-resources-how-to)
+- [Chrome Layers Panel Explained](/articles/chrome-layers-panel-explained)

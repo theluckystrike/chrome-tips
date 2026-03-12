@@ -74,3 +74,9 @@ Whatever approach you choose, the act of taking intentional control over your br
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Notification Permission Block All: Complete Guide](/articles/chrome-notification-permission-block-all)
+- [Chrome Game Streaming Optimization Tips](/articles/chrome-game-streaming-optimization-tips)
+- [How to Make Chrome Remember Tabs After Closing](/articles/how-to-make-chrome-remember-tabs-after-closing)

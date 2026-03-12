@@ -92,6 +92,7 @@ Chrome tab groups are a powerful organization tool that can transform your brows
 The key to success with tab groups is consistency and developing habits that keep your system organized over time. Start implementing these tips today, and you will wonder how you ever managed without them.
 
 ## Related Articles
-- [Chrome Tab Groups vs Bookmarks](/chrome-tab-groups-vs-bookmarks)
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
-- [Chrome Tab Groups Keyboard Shortcuts](/chrome-tab-groups-keyboard-shortcuts)
+
+- [Chrome Picture in Picture How to Use](/articles/chrome-picture-in-picture-how-to-use)
+- [Chrome Cross-Origin Isolation Explained](/articles/chrome-cross-origin-isolation-explained)
+- [Chrome Safe Browsing: What It Does and How It Protects You](/articles/chrome-safe-browsing-what-it-does)

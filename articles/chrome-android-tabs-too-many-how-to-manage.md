@@ -74,6 +74,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Page Load Speed Testing](/chrome-for-page-load-speed-testing)
-* [Chrome Certificate Error How to Bypass Safely](/chrome-certificate-error-how-to-bypass-safely)
-* [chrome for xbox cloud gaming optimization](/chrome-for-xbox-cloud-gaming-optimization)
+- [chromebook touchscreen not working fix](/articles/chromebook-touchscreen-not-working-fix)
+- [Chrome Font Fingerprinting Explained and Fix](/articles/chrome-font-fingerprinting-explained-and-fix)
+- [Chrome Extensions for Google Sheets](/articles/chrome-extensions-for-google-sheets)

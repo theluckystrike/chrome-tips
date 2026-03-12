@@ -100,3 +100,9 @@ The web platform continues to evolve rapidly, and APIs like the Eye Dropper demo
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for uber web app setup](/articles/chrome-for-uber-web-app-setup)
+- [Chrome Notification API Guide](/articles/chrome-notification-api-guide)
+- [chrome geolocation permission manage](/articles/chrome-geolocation-permission-manage)

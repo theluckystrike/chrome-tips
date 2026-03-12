@@ -78,3 +78,9 @@ The most important thing is to stay informed about the evolving privacy landscap
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Mouse Cursor Disappears Fix](/articles/chrome-mouse-cursor-disappears-fix)
+- [Chrome Critical Rendering Path Explained](/articles/chrome-critical-rendering-path-explained)
+- [Chrome Spell Check Wrong Language Fix](/articles/chrome-spell-check-wrong-language-fix)

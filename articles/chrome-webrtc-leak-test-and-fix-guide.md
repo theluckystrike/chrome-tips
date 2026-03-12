@@ -132,3 +132,9 @@ If you're looking to optimize Chrome further, give Tab Suspender Pro a try. It's
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome high memory usage after sleep fix](/articles/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Extensions for Lorem Ipsum Generator](/articles/chrome-extensions-for-lorem-ipsum-generator)
+- [Chrome Payment Methods How to Remove](/articles/chrome-payment-methods-how-to-remove)

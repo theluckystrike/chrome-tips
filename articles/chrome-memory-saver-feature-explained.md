@@ -64,6 +64,7 @@ Memory Saver is a powerful tool that handles most of the heavy lifting for you a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
-- [Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering](/chrome-paint-holding-feature-explained)
-- [Chrome Memory Saver Mode 2026 Guide](/chrome-memory-saver-mode-2026)
+
+- [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-guide)
+- [Chrome Switch Between Windows Shortcut](/articles/chrome-switch-between-windows-shortcut)
+- [chrome site isolation what it does](/articles/chrome-site-isolation-what-it-does)

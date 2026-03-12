@@ -71,6 +71,7 @@ After accounts are set up, students and teachers can start using their new Chrom
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+
+- [Chrome for News Feed Eradicator Setup](/articles/chrome-for-news-feed-eradicator-setup)
+- [Chrome Notifications How to Stop Them](/articles/chrome-notifications-how-to-stop-them)
+- [Chrome Extensions for Lawyers Legal Research](/articles/chrome-extensions-for-lawyers-legal-research)

@@ -52,6 +52,7 @@ Finding a specific tab does not have to be frustrating. With Chrome's built-in s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
-- [How To Group Tabs In Chrome 2026](/how-to-group-tabs-in-chrome-2026)
-- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+
+- [Chrome Extensions for Text Expander](/articles/chrome-extensions-for-text-expander)
+- [Chrome Local Storage View Edit: How to Inspect and Modify Website Data](/articles/chrome-local-storage-view-edit)
+- [Chrome Tracking Prevention Explained Simply](/articles/chrome-tracking-prevention-explained-simply)

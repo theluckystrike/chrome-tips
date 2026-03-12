@@ -70,6 +70,7 @@ Remember to periodically review your installed extensions and remove any that yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+
+- [Chrome DevTools Command Menu Shortcuts](/articles//chrome-devtools-command-menu-shortcuts/)
+- [how to enable cookies in chrome](/articles/how-to-enable-cookies-in-chrome)
+- [Chrome Telemetry What Data Google Collects](/articles/chrome-telemetry-what-data-google-collects)

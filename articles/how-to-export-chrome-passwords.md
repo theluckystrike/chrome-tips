@@ -71,6 +71,7 @@ With your passwords safely transferred, you can enjoy the peace of mind that com
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [Chrome Saved Passwords How to View](/chrome-saved-passwords-how-to-view)
+
+- [Chrome for Dailymotion Web Player](/articles/chrome-for-dailymotion-web-player)
+- [Chrome Task Manager vs Windows Task Manager: What's the Difference?](/articles/chrome-task-manager-vs-windows-task-manager)
+- [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings)

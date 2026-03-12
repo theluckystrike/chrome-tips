@@ -98,6 +98,7 @@ Start by understanding your specific needs, choose an extension that addresses t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Website Monitoring Changes](/chrome-extensions-for-website-monitoring-changes)
-- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
-- [Chrome Extensions For Canvas Fingerprint Blocker](/chrome-extensions-for-canvas-fingerprint-blocker)
+
+- [How to Change Chrome Language Settings](/articles/how-to-change-chrome-language-settings)
+- [firefox vs chrome battery](/articles/firefox-vs-chrome-battery)
+- [Chrome Gmail Keyboard Shortcuts](/articles/chrome-gmail-keyboard-shortcuts)

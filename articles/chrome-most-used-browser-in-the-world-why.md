@@ -83,3 +83,9 @@ Chrome's position as the most used browser in the world reflects its ability to 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Adobe Companion](/articles/chrome-extensions-for-adobe-companion)
+- [chrome manifest v3 controversy ad blockers](/articles/chrome-manifest-v3-controversy-ad-blockers)
+- [Chrome Dashlane vs 1Password Comparison](/articles//chrome-dashlane-vs-onepassword-comparison/)

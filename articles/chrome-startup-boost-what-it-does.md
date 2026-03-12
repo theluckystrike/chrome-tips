@@ -77,3 +77,9 @@ The most important thing is that you understand what the feature does and how it
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Network Waterfall How to Read](/articles/chrome-network-waterfall-how-to-read)
+- [Chrome for Instagram Web Tips](/articles/chrome-for-instagram-web-tips)
+- [Best Chrome Extensions for Video Editors](/articles/best-chrome-extensions-for-video-editors)

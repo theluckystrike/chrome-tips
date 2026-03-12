@@ -94,3 +94,9 @@ Taking time to understand and adjust the chrome preload pages setting lets you c
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Slow on Windows 11 After Update: Practical Fixes](/articles/chrome-slow-on-windows-11-after-update)
+- [chrome extensions for web clipping](/articles/chrome-extensions-for-web-clipping)
+- [Chrome Default Folder Location Where Is It](/articles//chrome-default-folder-location-where-is-it/)

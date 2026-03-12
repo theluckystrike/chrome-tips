@@ -68,6 +68,7 @@ The next time you see a subresource integrity error, remember that Chrome is act
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Sandbox Mode Explained](/chrome-sandbox-mode-explained)
-- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+
+- [Chrome Profile Import From Another Computer](/articles/chrome-profile-import-from-another-computer)
+- [Chrome Passkeys Explained for Beginners](/articles/chrome-passkeys-explained-for-beginners)
+- [Chrome for Clearing Browsing Data Automatically](/articles/chrome-for-clearing-browsing-data-automatically)

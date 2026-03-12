@@ -121,3 +121,9 @@ With these troubleshooting steps, you should be able to get back to reading and 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome New Tab Page Minimalist Extensions](/articles/chrome-new-tab-page-minimalist-extensions)
+- [Chrome Password Not Autofilling Fix](/articles/chrome-password-not-autofilling-fix)
+- [chrome google docs keyboard shortcuts](/articles/chrome-google-docs-keyboard-shortcuts)

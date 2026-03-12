@@ -127,3 +127,9 @@ The key is to start small: add search engines for just your top three or four mo
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Tab Notes](/articles/chrome-extensions-for-tab-notes)
+- [Chrome Memory Inspector How to Use](/articles/chrome-memory-inspector-how-to-use)
+- [chrome for obs browser source tips](/articles/chrome-for-obs-browser-source-tips)

@@ -66,6 +66,7 @@ With the right extensions handling the technical details, you can devote more me
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Online Research](/chrome-extensions-for-online-research)
-- [Chrome Extensions for Organizing Research](/chrome-extensions-for-organizing-research)
-- [Chrome Extensions for Lawyers Legal Research](/chrome-extensions-for-lawyers-legal-research)
+
+- [Free Chrome Extensions Better Than Paid Apps](/articles/free-chrome-extensions-better-than-paid-apps)
+- [Chrome Google Maps Slow and Laggy Fix](/articles/chrome-google-maps-slow-and-laggy-fix)
+- [Chrome for Yahoo Finance Best Extensions](/articles/chrome-for-yahoo-finance-best-extensions)

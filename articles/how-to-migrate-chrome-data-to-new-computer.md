@@ -232,6 +232,7 @@ The key is to make sure you're signed into the same Google account on both compu
 Remember to keep a manual backup of your bookmarks even when using sync, and you'll never have to worry about losing your Chrome data again.
 
 ## Related Articles
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
-- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
-- [Chrome How to Clear Individual Site Data](/chrome-how-to-clear-individual-site-data)
+
+- [Chrome Extensions For Focus And Productivity](/articles//articles/chrome-extensions-for-focus-and-productivity/)
+- [chrome reading list vs bookmarks](/articles/chrome-reading-list-vs-bookmarks)
+- [Chrome for Replit in Browser Tips](/articles/chrome-for-replit-in-browser-tips)

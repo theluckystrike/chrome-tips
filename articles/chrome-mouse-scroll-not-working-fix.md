@@ -99,6 +99,7 @@ If your browser feels sluggish overall, consider using a tab management tool lik
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Zoom Meeting Not Working Fix](/chrome-zoom-meeting-not-working-fix)
-- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
-- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
+
+- [Chrome Largest Contentful Paint Explained](/articles/chrome-largest-contentful-paint-explained)
+- [Chrome Background Fetch for PWAs Explained](/articles/chrome-background-fetch-for-pwas-explained)
+- [Chrome ERR_CONNECTION_REFUSED Fix](/articles/chrome-err-connection-refused-fix)

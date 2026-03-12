@@ -74,6 +74,7 @@ Give yourself time to learn each new extension properly. Most take just a few mi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Extensions for Translation Real Time](/chrome-extensions-for-translation-real-time)
-- [Chrome for Airbnb Browsing Best Extensions](/chrome-for-airbnb-browsing-best-extensions)
+
+- [Chrome Extension for Saving Passwords Securely](/articles/chrome-extension-for-saving-passwords-securely)
+- [Chrome for Bear Notes Web Clipper](/articles/chrome-for-bear-notes-web-clipper)
+- [Chrome Tab Search Shortcut Explained](/articles/chrome-tab-search-shortcut-explained)

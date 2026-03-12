@@ -115,3 +115,9 @@ A loud fan when Chrome opens is frustrating, but it is usually fixable. Chrome's
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management)
+- [Chrome YouTube Slow But Other Sites Fine Fix](/articles/chrome-youtube-slow-but-other-sites-fine-fix)
+- [Chrome Tab Stacking How to Use](/articles/chrome-tab-stacking-how-to-use)

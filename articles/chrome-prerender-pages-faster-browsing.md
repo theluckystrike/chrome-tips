@@ -98,3 +98,9 @@ For users who want even more control over tab management and performance, combin
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Service Worker Debugging Guide](/articles/chrome-service-worker-debugging)
+- [Chrome Extensions for Photographers 2026](/articles/chrome-extensions-for-photographers-2026)
+- [Chrome Flags to Enable for Speed](/articles/chrome-flags-to-enable-for-speed)

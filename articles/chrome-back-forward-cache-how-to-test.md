@@ -73,6 +73,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Extensions for Web Development Tools](/chrome-extensions-for-web-development-tools)
-* [One Chrome Tab Making Everything Slow: What to Do About It](/one-chrome-tab-making-everything-slow)
-* [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Chrome Blurry Text Fix Windows](/articles/chrome-blurry-text-fix-windows)
+- [Chrome Dyslexia Friendly Extensions](/articles/chrome-dyslexia-friendly-extensions)
+- [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom)

@@ -181,6 +181,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome requestStorageAccess Explained](/chrome-requestStorageAccess-explained)
-* [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
-* [Chrome CDP Protocol Explained Simply](/chrome-cdp-protocol-explained-simply)
+- [Chrome Sync What Data Gets Synced](/articles/chrome-sync-what-data-gets-synced)
+- [chrome profile picture how to change](/articles/chrome-profile-picture-how-to-change)
+- [Chrome Extensions for Adobe Companion](/articles/chrome-extensions-for-adobe-companion)

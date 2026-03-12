@@ -88,3 +88,9 @@ The **chrome inert attribute** provides a straightforward way to disable interac
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Slow on Surface Pro Fix](/articles/chrome-slow-on-surface-pro-fix)
+- [chrome touchscreen mode how to enable](/articles/chrome-touchscreen-mode-how-to-enable)
+- [Chrome Back Forward Cache Explained](/articles/chrome-back-forward-cache-explained)

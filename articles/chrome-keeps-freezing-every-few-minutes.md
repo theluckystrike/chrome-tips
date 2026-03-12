@@ -145,3 +145,9 @@ Remember, an extension like **Tab Suspender Pro** can be a long-term solution if
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome safe browsing enhanced vs standard](/articles/chrome-safe-browsing-enhanced-vs-standard)
+- [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/articles/chrome-extension-using-too-much-memory-find)
+- [chrome upcoming features roadmap 2026](/articles/chrome-upcoming-features-roadmap-2026)

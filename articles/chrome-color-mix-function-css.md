@@ -67,6 +67,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Location Access for One Site How to Allow](/chrome-location-access-for-one-site-how-to-allow)
-* [chrome for site search from address bar](/chrome-for-site-search-from-address-bar)
-* [Chrome Data Usage On Phone How To Reduce](//chrome-data-usage-on-phone-how-to-reduce/)
+- [Why Is Chrome So Slow on My Computer?](/articles/why-is-chrome-so-slow-on-my-computer)
+- [Chrome Extensions For Elderly Users Simple Tools](/articles//articles/chrome-extensions-for-elderly-users-simple-tools/)
+- [Chrome ERR_CACHE_MISS Fix](/articles/chrome-err-cache-miss-fix)

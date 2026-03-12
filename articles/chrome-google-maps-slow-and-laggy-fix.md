@@ -125,3 +125,9 @@ Start with the simplest fixes first, such as closing unnecessary tabs and cleari
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Discord Web App Optimization](/articles/chrome-for-discord-web-app-optimization)
+- [Chrome Visual Search on Desktop: A Complete Guide](/articles/chrome-visual-search-on-desktop)
+- [chrome how to allow popups for one site](/articles/chrome-how-to-allow-popups-for-one-site)

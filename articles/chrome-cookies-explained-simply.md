@@ -91,6 +91,6 @@ Cookies do not have to be confusing or mysterious. They are simply small files t
 
 ## Related Articles
 
-* [Chrome JetStream Score What Is Good](/chrome-jetstream-score-what-is-good)
-* [Chrome Recorder Panel Guide](/chrome-recorder-panel-guide)
-* [Chrome Webstore Best Hidden Gems 2026](/chrome-webstore-best-hidden-gems-2026)
+- [Chrome High Memory Usage Windows 11](/articles/chrome-high-memory-usage-windows-11)
+- [chrome web apps how to install](/articles/chrome-web-apps-how-to-install)
+- [Chrome Accessibility Tree Guide](/articles/chrome-accessibility-tree-guide)

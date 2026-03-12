@@ -86,6 +86,7 @@ Organize your bookmarks into folders based on their purpose. For example, you mi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Google Slides Presentation Tips](/chrome-for-google-slides-presentation-tips)
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
-- [Chrome For Google Flights Tips And Tricks](/chrome-for-google-flights-tips-and-tricks)
+
+- [Why Is Chrome Using So Much Memory](/articles/why-is-chrome-using-so-much-memory)
+- [Chrome Workspaces: Link DevTools to Files for Seamless Development](/articles/chrome-workspaces-link-devtools-to-files)
+- [Chrome Ad Personalization How To Turn Off](/articles/chrome-ad-personalization-how-to-turn-off)

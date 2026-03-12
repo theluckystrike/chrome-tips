@@ -108,3 +108,9 @@ Remember that Chrome Sync is designed to make your life easier by ensuring your 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome vs Edge RAM Usage Comparison 2026](/articles/chrome-vs-edge-ram-usage-comparison-2026)
+- [chrome for stylus and pen input settings](/articles/chrome-for-stylus-and-pen-input-settings)
+- [Chrome YouTube Slow But Other Sites Fine Fix](/articles/chrome-youtube-slow-but-other-sites-fine-fix)

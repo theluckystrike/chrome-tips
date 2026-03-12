@@ -78,3 +78,9 @@ Remember that these tools are helpers, not replacements for thinking about what 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Fix ChatGPT Slow Response in Chrome (Complete Guide)](/articles/chrome-chatgpt-slow-response-fix)
+- [How to Use Chrome Task Manager to Find Slow Tabs](/articles/how-to-use-chrome-task-manager-to-find-slow-tabs)
+- [Chrome Tab Discard What It Means](/articles/chrome-tab-discard-what-it-means)

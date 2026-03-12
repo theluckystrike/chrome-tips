@@ -71,6 +71,6 @@ If you frequently find yourself overwhelmed by too many open tabs, it is worth t
 
 ## Related Articles
 
-* [Chrome Flags Reset How to Undo Changes](/chrome-flags-reset-how-to-undo-changes)
-* [Chrome for HubSpot CRM in Browser](/chrome-for-hubspot-crm-in-browser)
-* [How to Use Chrome Profiles Properly — The Complete Guide](/how-to-use-chrome-profiles-properly)
+- [Chrome Add to Home Screen vs Install App](/articles/chrome-add-to-home-screen-vs-install-app)
+- [chrome classroom integration tips for teachers](/articles/chrome-classroom-integration-tips-for-teachers)
+- [Chrome Site Settings Permissions Explained](/articles/chrome-site-settings-permissions-explained)

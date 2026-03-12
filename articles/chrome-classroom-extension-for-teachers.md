@@ -73,6 +73,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [How to Fix Chrome Downloads Stuck at 100 Percent](/chrome-downloads-stuck-at-100-percent)
-* [Chrome Extensions for Text Comparison Diff Tool](/chrome-extensions-for-text-comparison-diff-tool)
-* [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/chrome-slows-down-after-opening-20-tabs)
+- [Chrome Extensions for Auto Refresh Page](/articles/chrome-extensions-for-auto-refresh-page)
+- [Chrome Incognito Mode: Actually Private or Just a False Sense of Security?](/articles/chrome-incognito-mode-actually-private-or-not)
+- [chrome data saver mode is it still available](/articles//chrome-data-saver-mode-is-it-still-available/)

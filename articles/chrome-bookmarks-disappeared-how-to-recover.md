@@ -154,6 +154,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [chrome extensions for accessibility needs](/chrome-extensions-for-accessibility-needs)
-* [Chrome for Cashback Extensions Comparison](/chrome-for-cashback-extensions-comparison)
-* [Chrome Bookmarks Bar Show Hide Shortcut](/chrome-bookmarks-bar-show-hide-shortcut)
+- [Chrome Canary What Is It For](/articles/chrome-canary-what-is-it-for)
+- [Chrome Web Store How to Leave Review](/articles/chrome-web-store-how-to-leave-review)
+- [chrome safe search how to force enable](/articles/chrome-safe-search-how-to-force-enable)

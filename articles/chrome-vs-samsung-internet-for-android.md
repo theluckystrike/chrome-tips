@@ -65,3 +65,9 @@ No matter which one you choose, remember that mobile browsers are resource-hungr
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome enrollment for schools how it works](/articles/chrome-enrollment-for-schools-how-it-works)
+- [chrome gamepad api how to use](/articles/chrome-gamepad-api-how-to-use)
+- [Chrome Process Per Tab Why and How to Change](/articles/chrome-process-per-tab-why-and-how-to-change)

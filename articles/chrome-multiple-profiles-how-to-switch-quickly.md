@@ -81,6 +81,7 @@ Try creating desktop shortcuts for your most-used profiles, or explore extension
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [How to Set Up Chrome Profiles for Work and Personal](/how-to-set-up-chrome-profiles-for-work-and-personal)
+
+- [chrome voice control navigate by speaking](/articles/chrome-voice-control-navigate-by-speaking)
+- [How to Use the Chrome Inert Attribute to Disable Interaction](/articles/chrome-inert-attribute-disable-interaction)
+- [Chrome Ad Blockers Still Working 2026](/articles/chrome-ad-blockers-still-working-2026)

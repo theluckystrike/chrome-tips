@@ -74,6 +74,7 @@ Finally, regularly review the extensions you have installed and remove any that 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Great Suspender Removed From Chrome Store: Replacement Options](/great-suspender-removed-from-chrome-store-replacement)
+
+- [Chrome Blocked Download How to Unblock](/articles/chrome-blocked-download-how-to-unblock)
+- [Chrome Canva Slow Loading Fix](/articles/chrome-canva-slow-loading-fix)
+- [Chrome for Airbnb Browsing Best Extensions](/articles/chrome-for-airbnb-browsing-best-extensions)

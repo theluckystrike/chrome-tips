@@ -62,6 +62,7 @@ Remember that rain sounds are just one tool in your productivity and relaxation 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome for Rain Sounds Background](/chrome-for-rain-sounds-background)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+
+- [Chrome Using Too Much Disk Space Fix](/articles/chrome-using-too-much-disk-space-fix)
+- [How to Stop Chrome from Suspending My Tabs](/articles/how-to-stop-chrome-from-suspending-my-tabs)
+- [Chrome for PeerTube Web Setup](/articles/chrome-for-peertube-web-setup)

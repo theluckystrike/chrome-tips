@@ -78,6 +78,7 @@ This separation is actually one of the strengths of the managed bookmarks approa
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+
+- [Chrome Bookmarks File Location and Backup Guide](/articles/chrome-bookmarks-file-location-backup)
+- [chrome vs firefox for privacy 2026](/articles/chrome-vs-firefox-for-privacy-2026)
+- [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api-explained)

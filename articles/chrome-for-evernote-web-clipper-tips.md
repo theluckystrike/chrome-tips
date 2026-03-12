@@ -91,6 +91,7 @@ Set a simple rule for yourself. Whenever you find something worth remembering, c
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)
-- [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
-- [Chrome For Odysee Web Player Tips](/chrome-for-odysee-web-player-tips)
+
+- [Chrome for Google Analytics in Browser](/articles/chrome-for-google-analytics-in-browser)
+- [Chrome for Yahoo Finance Best Extensions](/articles/chrome-for-yahoo-finance-best-extensions)
+- [Chrome Extension for QR Code Generator](/articles/chrome-extension-for-qr-code-generator)

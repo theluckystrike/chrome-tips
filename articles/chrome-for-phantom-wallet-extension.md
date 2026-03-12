@@ -86,6 +86,7 @@ Remember to keep your recovery phrase safe, review transaction requests carefull
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
-- [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
-- [Chrome Extension for Changing User Agent](/chrome-extension-for-changing-user-agent)
+
+- [How to Enable Chrome Smooth Scrolling](/articles/how-to-enable-chrome-smooth-scrolling)
+- [Chrome Audio Equalizer Extension](/articles/chrome-audio-equalizer-extension)
+- [Chrome Not Responding? Force Close It This Way](/articles/chrome-not-responding-force-close-how)

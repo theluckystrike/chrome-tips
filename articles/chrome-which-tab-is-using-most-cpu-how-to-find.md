@@ -56,6 +56,7 @@ Understanding chrome which tab is using most cpu how to find is the key to maint
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
-- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
-- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
+
+- [Chrome Extensions for Google Forms](/articles/chrome-extensions-for-google-forms)
+- [Chrome Unicode Symbols How to Insert](/articles/chrome-unicode-symbols-how-to-insert)
+- [Chrome Address Bar Not Working Fix](/articles/chrome-address-bar-not-working-fix)

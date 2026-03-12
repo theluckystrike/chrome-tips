@@ -92,6 +92,7 @@ If you find yourself frequently dealing with slow browser performance, consider 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Slow on Your Old MacBook? Here's How to Fix It](/chrome-slow-on-old-macbook-fix)
-- [Chrome Slow on School Laptop? Here's How to Fix It](/chrome-slow-on-school-laptop-how-to-fix)
-- [Chrome Slow on Android Fix](/chrome-slow-on-android-fix)
+
+- [Chrome Restore Previous Session After Crash](/articles/chrome-restore-previous-session-after-crash)
+- [Chrome Profile Import From Another Computer](/articles/chrome-profile-import-from-another-computer)
+- [Chrome Bookmark Bar Tips And Tricks](/articles/chrome-bookmark-bar-tips-and-tricks)

@@ -87,3 +87,9 @@ Understanding your browser and keeping it updated is a simple but effective way 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Manage Addresses in Chrome Autofill](/articles/chrome-autofill-manage-addresses)
+- [Best Chrome Extensions For Teachers Online](/articles/best-chrome-extensions-for-teachers-online)
+- [chrome google lens integration how to use](/articles/chrome-google-lens-integration-how-to-use)

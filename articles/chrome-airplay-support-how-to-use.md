@@ -75,6 +75,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Best Lightweight Browsers for Chromebook](/best-lightweight-browsers-for-chromebook)
-* [Chrome Extensions for Ambient Noise](/chrome-extensions-for-ambient-noise)
-* [Chrome Save Open Tabs as Bookmarks All at Once](/chrome-save-open-tabs-as-bookmarks-all-at-once)
+- [Chrome Tab Color Coding How to Use](/articles/chrome-tab-color-coding-how-to-use)
+- [Chrome ERR_QUIC_PROTOCOL_ERROR Fix](/articles/chrome-err-quic-protocol-error-fix)
+- [chrome playwright vs puppeteer comparison](/articles/chrome-playwright-vs-puppeteer-comparison)

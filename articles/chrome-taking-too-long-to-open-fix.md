@@ -74,3 +74,9 @@ Finally, consider resetting Chrome to its default settings if nothing else works
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Developer Mode Extensions Warning: How to Dismiss](/articles//chrome-developer-mode-extensions-warning-how-to-dismiss/)
+- [Chrome Text Wrap Balance CSS](/articles/chrome-text-wrap-balance-css)
+- [Chrome Permission Denied How to Fix](/articles/chrome-permission-denied-how-to-fix)

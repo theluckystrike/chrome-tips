@@ -66,6 +66,7 @@ In the meantime, explore the options that work best for your specific needs. Whe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Tor Browsing Is It Possible](/chrome-for-tor-browsing-is-it-possible)
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chrome Webview on Android What It Does](/chrome-webview-on-android-what-it-does)
+
+- [Chrome Interaction to Next Paint Explained: What It Means for You](/articles/chrome-interaction-to-next-paint-explained)
+- [Chrome Extensions Conflict With Each Other Fix](/articles/chrome-extensions-conflict-with-each-other-fix)
+- [Chrome for Travel Planning: Best Extensions](/articles/chrome-for-travel-planning-best-extensions)

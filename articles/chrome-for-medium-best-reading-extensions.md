@@ -72,6 +72,7 @@ Medium has a wealth of great articles waiting to be read. With the right Chrome 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Reddit Users](/best-chrome-extensions-for-reddit-users)
-- [Best Chrome Extensions for Real Estate Agents](/best-chrome-extensions-for-real-estate-agents)
-- [Chrome for LinkedIn Best Extensions](/chrome-for-linkedin-best-extensions)
+
+- [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change)
+- [Best Chrome Extensions for UX Designers](/articles/best-chrome-extensions-for-ux-designers)
+- [Chrome Address Bar Commands You Didnt Know](/articles/chrome-address-bar-commands-you-didnt-know)

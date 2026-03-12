@@ -70,6 +70,7 @@ The fixes are straightforward. Close unused tabs, manage your extensions, and co
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Why Does Chrome Open So Many Processes](/why-does-chrome-open-so-many-processes)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [Why Does Each Chrome Tab Use So Much Memory](/why-does-each-chrome-tab-use-so-much-memory)
+
+- [chrome reopen accidentally closed tab how](/articles/chrome-reopen-accidentally-closed-tab-how)
+- [chrome logpoints debug without console log](/articles/chrome-logpoints-debug-without-console-log)
+- [Chrome for Rain Sounds Background](/articles/chrome-for-rain-sounds-background)

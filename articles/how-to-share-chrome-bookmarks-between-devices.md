@@ -57,6 +57,7 @@ You can also use the bookmark bar, which appears below the address bar in Chrome
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Recover Deleted Bookmarks Chrome](/how-to-recover-deleted-bookmarks-chrome)
-- [How to Backup Chrome Bookmarks and Passwords](/how-to-backup-chrome-bookmarks-and-passwords)
-- [How to Export Bookmarks from Chrome](/how-to-export-bookmarks-from-chrome)
+
+- [Chrome Address Bar Not Showing Full URL Fix](/articles/chrome-address-bar-not-showing-full-url-fix)
+- [Chrome Reading Mode AI Summary Feature](/articles/chrome-reading-mode-ai-summary-feature)
+- [Chrome Extension for Website Blocker Parental](/articles/chrome-extension-for-website-blocker-parental)

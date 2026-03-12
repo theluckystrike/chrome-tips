@@ -82,3 +82,9 @@ Take a moment to try a few different extensions to see which interface feels mos
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Background Tabs Slowing Down Computer Fix](/articles/chrome-background-tabs-slowing-down-computer-fix)
+- [Chrome Add to Home Screen vs Install App](/articles/chrome-add-to-home-screen-vs-install-app)
+- [Chrome Remote Desktop How to Use](/articles/chrome-remote-desktop-how-to-use)

@@ -75,3 +75,9 @@ Over time, you will find that having a way to capture thoughts directly within y
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Proxy Settings How to Configure](/articles/chrome-for-proxy-settings-how-to-configure)
+- [chrome portable version how to get](/articles/chrome-portable-version-how-to-get)
+- [Why Does Chrome Use So Much CPU](/articles/why-does-chrome-use-so-much-cpu)

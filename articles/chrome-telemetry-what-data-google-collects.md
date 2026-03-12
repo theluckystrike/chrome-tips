@@ -66,6 +66,7 @@ Remember that browser privacy is not all or nothing. Even small steps, like turn
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Guest Browsing: What Data Is Saved](/chrome-guest-browsing-what-data-is-saved)
-- [Chrome User Data Directory: What Each File Does](/chrome-user-data-directory-what-each-file-does)
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
+
+- [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome)
+- [Chrome for Canvas LMS Best Extensions](/articles/chrome-for-canvas-lms-best-extensions)
+- [Chrome Using 8GB RAM Fix](/articles/chrome-using-8gb-ram-fix)

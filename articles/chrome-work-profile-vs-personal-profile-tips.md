@@ -84,6 +84,7 @@ Start with two profiles, customize them with the right extensions and bookmarks,
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome vs Firefox Battery Life: Which Browser Saves More Power](/chrome-vs-firefox-battery-life)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
-- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+
+- [Chrome Mouse Scroll Not Working Fix](/articles/chrome-mouse-scroll-not-working-fix)
+- [Chrome Font Fingerprinting Explained and Fix](/articles/chrome-font-fingerprinting-explained-and-fix)
+- [Chrome Extensions for Reverse Video Search](/articles/chrome-extensions-for-reverse-video-search)

@@ -62,6 +62,7 @@ Finally, remember that extensions are just one part of an effective Trello setup
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)
-- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)
+
+- [Chrome Auto Sign In to Websites How to Control](/articles/chrome-auto-sign-in-to-websites-how-to-control)
+- [Chrome Extensions for Grammar Checking](/articles/chrome-extensions-for-grammar-checking)
+- [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings)

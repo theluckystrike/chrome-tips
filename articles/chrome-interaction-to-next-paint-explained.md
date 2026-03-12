@@ -63,3 +63,9 @@ Chrome interaction to next paint explained ultimately comes down to this: it mea
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Accessibility Features You Didn't Know About](/articles/chrome-accessibility-features-you-didnt-know-about)
+- [Chrome Cookies vs Cache Difference Explained](/articles/chrome-cookies-vs-cache-difference-explained)
+- [Chromebook Parental Controls How to Set Up](/articles/chromebook-parental-controls-how-to-set-up)

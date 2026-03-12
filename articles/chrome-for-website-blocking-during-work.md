@@ -72,6 +72,7 @@ Remember, the goal is not to eliminate all browsing but to create boundaries tha
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
-- [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
-- [Chrome for Reader View on Any Website](/chrome-for-reader-view-on-any-website)
+
+- [Chrome WebAssembly Debugging Guide](/articles/chrome-wasm-debugging-guide)
+- [Chrome Reset Flags to Default How To](/articles/chrome-reset-flags-to-default-how-to)
+- [Chrome Share Page Between Phone and Laptop: Complete Guide](/articles/chrome-share-page-between-phone-and-laptop)

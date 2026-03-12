@@ -86,3 +86,9 @@ Either choice is valid, and you can always change your mind later if your circum
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Site Settings Permissions Explained](/articles/chrome-site-settings-permissions-explained)
+- [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome)
+- [Chrome Auto Dark Mode for Web Contents](/articles/chrome-auto-dark-mode-for-web-contents)

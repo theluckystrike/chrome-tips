@@ -69,6 +69,7 @@ Remember that keeping your browser organized and closing unused tabs makes a big
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
-- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
-- [Chrome Headless Mode What It Is](/chrome-headless-mode-what-it-is)
+
+- [Chrome Storage Pressure How to Fix](/articles/chrome-storage-pressure-how-to-fix)
+- [Chrome for Arxiv Paper Reader Extensions](/articles/chrome-for-arxiv-paper-reader-extensions)
+- [Chrome Bookmarks Not Syncing Fix](/articles/chrome-bookmarks-not-syncing-fix)

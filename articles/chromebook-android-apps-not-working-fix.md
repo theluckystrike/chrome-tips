@@ -90,6 +90,7 @@ You can also contact Chromebook support directly if your device is still under w
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
-- [Chrome Translate Not Working? Here's How to Fix It](/chrome-translate-not-working-fix)
-- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
+
+- [Chrome Hardware Acceleration Gaming: Complete Optimization Guide](/articles/chrome-hardware-acceleration-gaming)
+- [Chrome Keep Crashing Fix 2026](/articles/chrome-keep-crashing-fix-2026)
+- [Chrome for DoorDash Web Ordering Tips](/articles/chrome-for-doordash-web-ordering-tips)

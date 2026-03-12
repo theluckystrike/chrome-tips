@@ -88,6 +88,7 @@ DevTools opens up a world of understanding about how the web works. Even basic f
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Devtools Responsive Mode How to Use](/chrome-devtools-responsive-mode-how-to-use)
-- [Chrome Devtools Snippets How to Use](/chrome-devtools-snippets-how-to-use)
-- [Chrome Follow Button for Websites How to Use](/chrome-follow-button-for-websites-how-to-use)
+
+- [Chrome for Microsoft Teams in Browser Tips](/articles/chrome-for-microsoft-teams-in-browser-tips)
+- [Chrome Extensions for Ambient Noise](/articles/chrome-extensions-for-ambient-noise)
+- [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage)

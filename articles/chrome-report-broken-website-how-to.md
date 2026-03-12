@@ -78,3 +78,9 @@ The next time you search for "chrome report broken website how to" and find this
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome lighthouse performance score explained simply](/articles/chrome-lighthouse-performance-score-explained-simply)
+- [Chrome DevTools Performance Panel Explained](/articles/chrome-devtools-performance-panel-explained)
+- [Chrome Google Maps Keyboard Shortcuts](/articles/chrome-google-maps-keyboard-shortcuts)

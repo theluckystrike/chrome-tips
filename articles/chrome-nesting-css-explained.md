@@ -55,6 +55,7 @@ Keeping your browser organized and your extensions minimal also contributes to s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Starting Style CSS Explained](/chrome-starting-style-css-explained)
-- [Chrome Scope CSS Explained](/chrome-scope-css-explained)
-- [Chrome CSS Custom Properties Explained](/chrome-css-custom-properties-explained)
+
+- [Chrome WebAuthn Debugging Guide](/articles/chrome-webauthn-debugging)
+- [Chrome for Figma Best Settings](/articles/chrome-for-figma-best-settings)
+- [Chrome Taskbar Icon Missing Fix Windows](/articles/chrome-taskbar-icon-missing-fix-windows)

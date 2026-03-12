@@ -73,3 +73,9 @@ By keeping your browser updated, managing extensions wisely, and understanding h
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chromebook vs Windows Laptop for Browsing](/articles/chromebook-vs-windows-laptop-for-browsing)
+- [Chrome Print to PDF How to Save Webpage](/articles/chrome-print-to-pdf-how-to-save-webpage)
+- [Best Chrome Extensions for GitHub](/articles/best-chrome-extensions-for-github)

@@ -71,6 +71,7 @@ For persistent issues on a site you use frequently, consider reaching out to the
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome DevTools Performance Panel Explained](/chrome-devtools-performance-panel-explained)
-- [Chrome DevTools Memory Panel Explained](/chrome-devtools-memory-panel-explained)
-- [Chrome DevTools Changes Panel to Track Edits](/chrome-devtools-changes-panel-track-edits)
+
+- [Chrome Memory Saver Mode 2026 Guide](/articles/chrome-memory-saver-mode-2026)
+- [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature)
+- [Chrome Extensions for Meta Tag Analyzer](/articles/chrome-extensions-for-meta-tag-analyzer)

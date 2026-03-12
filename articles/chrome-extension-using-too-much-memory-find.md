@@ -72,3 +72,9 @@ Finding which chrome extension is using too much memory does not require technic
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Password Checkup What It Does](/articles/chrome-password-checkup-what-it-does)
+- [Best Chrome Extensions for Video Editors](/articles/best-chrome-extensions-for-video-editors)
+- [Chrome for Quizlet Web App Best Settings](/articles/chrome-for-quizlet-web-app-best-settings)

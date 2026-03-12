@@ -59,6 +59,7 @@ The important thing to remember is that Chrome zoom too big how to fix is usuall
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Bookmark Bar Disappeared How to Fix](/chrome-bookmark-bar-disappeared-how-to-fix)
-- [How to Fix Chrome High CPU Usage When Gaming](/how-to-fix-chrome-high-cpu-usage-gaming)
-- [Chrome Zoom Level How to Set Default](/chrome-zoom-level-how-to-set-default)
+
+- [Best Screenshot Chrome Extension](/articles/best-screenshot-chrome-extension)
+- [Chrome Multiple Profiles How to Switch Fast](/articles/chrome-multiple-profiles-how-to-switch-fast)
+- [Chrome Aspect Ratio CSS Property](/articles/chrome-aspect-ratio-css-property)

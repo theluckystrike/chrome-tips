@@ -68,3 +68,9 @@ Start with one extension to see if it fits your workflow, and try different ones
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser](/articles/chrome-web-bluetooth-api-guide)
+- [Chrome for Todoist Web App Best Settings](/articles/chrome-for-todoist-web-app-best-settings)
+- [Chrome Extensions For Blue Light Filter](/articles//articles/chrome-extensions-for-blue-light-filter/)

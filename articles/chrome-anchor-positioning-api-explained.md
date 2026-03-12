@@ -79,6 +79,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Notification Permission Block All: Complete Guide](/chrome-notification-permission-block-all)
-* [Best Chrome Extensions for Remote Workers 2026](/best-chrome-extensions-for-remote-workers-2026)
-* [Chrome Extensions for Time Tracking](/chrome-extensions-for-time-tracking)
+- [Chrome Biometric Authentication for the Web](/articles/chrome-biometric-authentication-web)
+- [Chrome for LinkedIn Best Extensions](/articles/chrome-for-linkedin-best-extensions)
+- [Chrome Android Reading List How to Use](/articles/chrome-android-reading-list-how-to-use)

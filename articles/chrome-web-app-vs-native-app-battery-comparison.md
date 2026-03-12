@@ -56,6 +56,7 @@ Most people find that a mix of both works well. Keep native apps for the service
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome vs Edge Battery Life Laptop Comparison](/chrome-vs-edge-battery-life-laptop-comparison)
-- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)
-- [Chrome Web Apps vs Native Apps Comparison](/chrome-web-apps-vs-native-apps-comparison)
+
+- [Chrome Bookmarks Bar Show Hide Shortcut](/articles/chrome-bookmarks-bar-show-hide-shortcut)
+- [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/articles/chrome-grammarly-extension-slowing-browser)
+- [Chrome Bookmark Bar Disappeared How to Get Back](/articles/chrome-bookmark-bar-disappeared-how-to-get-back)

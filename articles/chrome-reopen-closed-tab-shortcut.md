@@ -80,3 +80,9 @@ The chrome reopen closed tab shortcut is a simple but powerful tool that every C
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Changing User Agent](/articles/chrome-extension-for-changing-user-agent)
+- [Chrome Zoom Too Big How to Fix](/articles/chrome-zoom-too-big-how-to-fix)
+- [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners)

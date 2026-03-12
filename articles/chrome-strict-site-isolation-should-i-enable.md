@@ -63,6 +63,7 @@ The good news is that Chrome keeps improving this feature, and the performance i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
-- [Chrome Safe Browsing Should I Turn On](/chrome-safe-browsing-should-i-turn-on)
-- [Chrome Preloading Pages Should I Enable It](/chrome-preloading-pages-should-i-enable-it)
+
+- [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web)
+- [chrome site search shortcut how to set up](/articles/chrome-site-search-shortcut-how-to-set-up)
+- [Chrome Compute Pressure: How Thermal and CPU Throttling Affect Your Browser](/articles/chrome-compute-pressure-thermal-cpu)

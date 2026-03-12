@@ -84,6 +84,7 @@ If you find yourself constantly running into memory limits, consider adding Tab 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
-- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
+
+- [Chrome Extensions for Musicians](/articles/chrome-extensions-for-musicians)
+- [Chrome Hardware Acceleration Should I Turn On or Off](/articles/chrome-hardware-acceleration-should-i-turn-on-or-off)
+- [How to Remove Chrome Malware](/articles/how-to-remove-chrome-malware)

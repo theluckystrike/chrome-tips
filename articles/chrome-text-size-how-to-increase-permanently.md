@@ -71,3 +71,9 @@ Once you find the combination that works for you, the days of squinting at tiny 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Local Font Access API Explained](/articles/chrome-local-font-access-api-explained)
+- [How to Do a Reverse Image Search in Chrome Without an Extension](/articles/chrome-reverse-image-search-without-extension)
+- [Chrome vs Safari 2026 Comparison](/articles/chrome-vs-safari-2026)

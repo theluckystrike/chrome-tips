@@ -66,3 +66,9 @@ Finally, remember that the best savings strategy is the one you will actually us
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Import Bookmarks from Firefox to Chrome](/articles/how-to-import-bookmarks-from-firefox-to-chrome)
+- [Chrome Navigator Sendbeacon Explained](/articles/chrome-navigator-sendbeacon-explained)
+- [Chrome for Wikipedia Enhanced Reading](/articles/chrome-for-wikipedia-enhanced-reading)

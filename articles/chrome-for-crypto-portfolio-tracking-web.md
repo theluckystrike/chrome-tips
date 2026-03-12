@@ -78,6 +78,7 @@ This is where Tab Suspender Pro can really help. By automatically suspending tab
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
+
+- [chrome classroom integration tips for teachers](/articles/chrome-classroom-integration-tips-for-teachers)
+- [chrome web bluetooth connect headphones](/articles/chrome-web-bluetooth-connect-headphones)
+- [Chrome Subgrid CSS Explained](/articles/chrome-subgrid-css-explained)

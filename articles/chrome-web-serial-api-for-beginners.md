@@ -62,6 +62,7 @@ Whether you are a hobbyist looking to build your first project or someone who is
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
-- [Chrome Web MIDI API for Musicians](/chrome-web-midi-api-for-musicians)
-- [Chrome Cache API Tutorial for Beginners](/chrome-cache-api-tutorial-for-beginners)
+
+- [chrome touchscreen mode how to enable](/articles/chrome-touchscreen-mode-how-to-enable)
+- [Chrome for Font Identification Extensions](/articles/chrome-for-font-identification-extensions)
+- [Chrome for Mendeley Web Importer Tips](/articles/chrome-for-mendeley-web-importer-tips)

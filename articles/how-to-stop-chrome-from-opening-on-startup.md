@@ -74,6 +74,7 @@ If you find that Chrome opening at startup continues to be an issue despite maki
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Stop Chrome from Redirecting to HTTPS](/how-to-stop-chrome-from-redirecting-to-https)
-- [Chrome Permissions on Startup How to Configure](/chrome-permissions-on-startup-how-to-configure)
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+
+- [Chrome Content Security Policy Explained: A Complete Guide](/articles/chrome-content-security-policy-explained)
+- [Chrome Notification Badge on PWA How to Enable](/articles/chrome-notification-badge-on-pwa-how-to-enable)
+- [Chrome Save Page as Shortcut](/articles/chrome-save-page-as-shortcut)

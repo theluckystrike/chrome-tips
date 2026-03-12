@@ -88,6 +88,7 @@ If you are looking for ways to improve your Chrome experience overall, consider 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome High Contrast Mode How To Enable](/chrome-high-contrast-mode-how-to-enable)
-- [Chrome Restricted Mode Youtube How To Enable](/chrome-restricted-mode-youtube-how-to-enable)
-- [Chrome Android Desktop Mode How to Enable](/chrome-android-desktop-mode-how-to-enable)
+
+- [Chrome Mobile View on Desktop How to](/articles/chrome-mobile-view-on-desktop-how-to)
+- [Chrome Contact Picker API Explained](/articles/chrome-contact-picker-api-explained)
+- [Chrome Resource Timing API Explained](/articles/chrome-resource-timing-api-explained)

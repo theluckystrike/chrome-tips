@@ -155,3 +155,9 @@ With these solutions in hand, you should be able to get your files downloaded an
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome extensions for web clipping](/articles/chrome-extensions-for-web-clipping)
+- [Chrome vs Edge for Battery Life Laptop](/articles/chrome-vs-edge-for-battery-life-laptop)
+- [chrome safe browsing should i turn on](/articles/chrome-safe-browsing-should-i-turn-on)

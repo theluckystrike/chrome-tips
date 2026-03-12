@@ -64,6 +64,7 @@ Most chrome zoom meeting not working issues are caused by browser configuration 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome Netflix Not Working Fix](/chrome-netflix-not-working-fix)
+
+- [chrome payment methods remove](/articles/chrome-payment-methods-remove)
+- [Chromebook vs MacBook for College](/articles/chromebook-vs-macbook-for-college)
+- [Chrome Not Playing Videos Fix](/articles/chrome-not-playing-videos-fix)

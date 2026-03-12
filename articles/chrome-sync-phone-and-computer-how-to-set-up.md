@@ -89,6 +89,7 @@ Remember that sync is automatic once enabled, so you do not need to think about 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
-- [Chrome Tab Groups Auto Create How To Set Up](/chrome-tab-groups-auto-create-how-to-set-up)
-- [Chrome iPhone Widgets How to Set Up](/chrome-iphone-widgets-how-to-set-up)
+
+- [Chrome for Amazon Fresh Web Ordering](/articles/chrome-for-amazon-fresh-web-ordering)
+- [How to Use Chrome Flags Safely](/articles/how-to-use-chrome-flags-safely)
+- [Best Chromebook Extensions for Students](/articles/best-chromebook-extensions-for-students)

@@ -67,6 +67,7 @@ By keeping your extension list lean, choosing well-maintained extensions, and us
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Sandbox Mode Explained](/chrome-sandbox-mode-explained)
+
+- [chrome save all open tabs as bookmarks](/articles/chrome-save-all-open-tabs-as-bookmarks)
+- [Chrome for Omnibox Search Tricks](/articles/chrome-for-omnibox-search-tricks)
+- [Chrome Best Settings for College Students](/articles/chrome-best-settings-for-college-students)

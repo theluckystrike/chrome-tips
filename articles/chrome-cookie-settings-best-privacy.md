@@ -87,6 +87,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Release Schedule: When Is the Next Update?](/chrome-release-schedule-when-next-update)
-* [Chrome Microphone Permission for One Site How to Set](/chrome-microphone-permission-for-one-site-how-to-set)
-* [Chrome Extensions for Video Playback Speed Control](/chrome-extensions-for-video-playback-speed-control)
+- [Best Screenshot Chrome Extension](/articles/best-screenshot-chrome-extension)
+- [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained)
+- [Chrome Starting Style CSS Explained](/articles/chrome-starting-style-css-explained)

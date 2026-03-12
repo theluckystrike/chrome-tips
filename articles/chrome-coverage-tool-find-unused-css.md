@@ -73,6 +73,6 @@ For additional performance improvements, consider using extensions like Tab Susp
 
 ## Related Articles
 
-* [Chrome Origin Trials What They Are](/chrome-origin-trials-what-they-are)
-* [Chrome Flags Best Performance Settings](/chrome-flags-best-performance-settings)
-* [Chrome Passkeys Explained for Beginners](/chrome-passkeys-explained-for-beginners)
+- [Chrome Gesture Navigation on Android](/articles/chrome-gesture-navigation-on-android)
+- [chrome right to left language support](/articles/chrome-right-to-left-language-support)
+- [Chrome Best Ad Blocker 2026](/articles/chrome-best-ad-blocker-2026)

@@ -113,6 +113,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
-* [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/chrome-devtools-sensors-tab-geolocation)
-* [Chrome Split Screen Without Extension](/chrome-split-screen-without-extension)
+- [Chrome Devtools Application Panel Explained](/articles//chrome-devtools-application-panel-explained/)
+- [chrome data saver mode is it still available](/articles//chrome-data-saver-mode-is-it-still-available/)
+- [Chrome Headless Mode What It Is](/articles/chrome-headless-mode-what-it-is)

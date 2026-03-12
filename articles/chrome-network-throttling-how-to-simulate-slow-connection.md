@@ -75,6 +75,7 @@ Minimize the number of network requests by combining files where possible. Use C
 Finally, prioritize critical rendering path. Ensure that the content above the fold loads first, giving users something to see while the rest of the page loads. This approach improves perceived performance even on slow connections.
 
 ## Related Articles
-- [How to Throttle Network Speed in Chrome](/chrome-throttle-network-speed-how-to)
-- [How to Find Chrome Extensions That Slow Down Browser](/how-to-find-chrome-extensions-that-slow-down-browser)
-- [Chrome Network Tab: How to Use and Debug Network Requests](/chrome-network-tab-how-to-use-debug)
+
+- [Chrome Permissions on Startup How to Configure](/articles/chrome-permissions-on-startup-how-to-configure)
+- [Chrome Largest Contentful Paint Improve Tips](/articles/chrome-largest-contentful-paint-improve-tips)
+- [How to Lock Safe Search in Chrome for Children](/articles/chrome-safe-search-lock-for-children)

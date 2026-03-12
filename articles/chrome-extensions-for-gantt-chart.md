@@ -68,6 +68,7 @@ Once you install an extension, take some time to explore its features and settin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [Chrome Web MIDI API for Musicians](/articles/chrome-web-midi-api-for-musicians)
+- [chrome recently closed tabs shortcut](/articles/chrome-recently-closed-tabs-shortcut)
+- [Chrome for Amazon Prime Video Quality Settings](/articles/chrome-for-amazon-prime-video-quality-settings)

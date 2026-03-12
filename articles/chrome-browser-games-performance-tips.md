@@ -61,6 +61,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Custom Fonts How to Change](//chrome-custom-fonts-how-to-change/)
-* [chrome topics api privacy sandbox explained](/chrome-topics-api-privacy-sandbox-explained)
-* [Chrome Extensions for Amazon FBA Sellers](/chrome-extensions-for-amazon-fba-sellers)
+- [Chrome Using Too Much Disk Space Fix](/articles/chrome-using-too-much-disk-space-fix)
+- [Chrome DevTools Layers Panel 3D View](/articles/chrome-devtools-layers-panel-3d-view)
+- [Chrome Local Storage View Edit: How to Inspect and Modify Website Data](/articles/chrome-local-storage-view-edit)

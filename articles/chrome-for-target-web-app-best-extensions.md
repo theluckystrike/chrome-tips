@@ -76,6 +76,7 @@ Remember that the goal is to make your Target experience better, not more compli
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for edX Web App Best Settings](/chrome-for-edx-web-app-best-settings)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+
+- [How to Limit Screen Time in Chrome with Extensions](/articles/chrome-limit-screen-time-with-extension)
+- [Why Is Chrome Slower Than Firefox?](/articles/why-is-chrome-slower-than-firefox)
+- [chrome extensions for journalists](/articles/chrome-extensions-for-journalists)

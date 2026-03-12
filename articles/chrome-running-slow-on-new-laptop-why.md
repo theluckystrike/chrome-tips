@@ -128,3 +128,9 @@ Remember that browser performance is not just about your hardware. It is also ab
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension)
+- [Chrome for CodePen in Browser Tips](/articles/chrome-for-codepen-in-browser-tips)
+- [Chrome for Todoist Web App Best Settings](/articles/chrome-for-todoist-web-app-best-settings)

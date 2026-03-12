@@ -75,3 +75,9 @@ The next time you encounter a cluttered website that makes reading difficult, tr
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Flexbox Debugging Guide](/articles/chrome-flexbox-debugging)
+- [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable)
+- [chrome for custom new tab page extensions](/articles/chrome-for-custom-new-tab-page-extensions)

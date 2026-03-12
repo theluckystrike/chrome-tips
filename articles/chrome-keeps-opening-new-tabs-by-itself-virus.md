@@ -43,6 +43,7 @@ Remember, while the phrase "chrome keeps opening new tabs by itself virus" sugge
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Search Engine Changed by Itself Fix](/chrome-search-engine-changed-by-itself-fix)
-- [How to Group Tabs by Color in Chrome: A Complete Guide](/chrome-group-tabs-by-color-organize)
-- [Chrome Homepage Changed by Itself Fix](/chrome-homepage-changed-by-itself-fix)
+
+- [Chrome Speech Recognition API Guide](/articles/chrome-speech-recognition-api)
+- [Chrome Extensions for Managing Multiple Social Accounts](/articles/chrome-extensions-for-managing-multiple-social-accounts)
+- [Chrome Bitwarden vs LastPass Comparison 2026](/articles/chrome-bitwarden-vs-lastpass-comparison-2026)

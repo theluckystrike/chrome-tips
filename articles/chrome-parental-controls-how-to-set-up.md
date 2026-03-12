@@ -117,3 +117,9 @@ While **Family Link** handles the safety and content filtering, you might also w
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [How to Clear Chrome Cache Fast](/articles/how-to-clear-chrome-cache-fast)
+- [chrome translate on phone how to use](/articles/chrome-translate-on-phone-how-to-use)
+- [Chrome for Google Docs Offline Setup](/articles/chrome-for-google-docs-offline-setup)

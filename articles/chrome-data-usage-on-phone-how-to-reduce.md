@@ -90,6 +90,7 @@ The combination of these settings can help you get the most out of your monthly 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
-- [Chrome Desktop Mode on Phone How to Use](/chrome-desktop-mode-on-phone-how-to-use)
-- [Chrome Translate On Phone How To Use](/chrome-translate-on-phone-how-to-use)
+
+- [Chrome for QuickBooks Online Best Settings](/articles/chrome-for-quickbooks-online-best-settings)
+- [Chrome Rendering Panel Guide](/articles/chrome-rendering-panel-guide)
+- [Chrome Extensions for Resume Building](/articles/chrome-extensions-for-resume-building)

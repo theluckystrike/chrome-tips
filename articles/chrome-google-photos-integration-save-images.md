@@ -72,6 +72,7 @@ The key is to pick one method and stick with it until it becomes automatic. Do n
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Google Lens Integration How To Use](/chrome-google-lens-integration-how-to-use)
-- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
-- [Chrome Google Drive Integration Tips](/chrome-google-drive-integration-tips)
+
+- [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix)
+- [chrome data saver mode is it still available](/articles//chrome-data-saver-mode-is-it-still-available/)
+- [firefox vs chrome battery](/articles/firefox-vs-chrome-battery)

@@ -132,3 +132,9 @@ Remember that smooth, responsive web experiences depend on efficient rendering p
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome extension rejected common reasons fix](/articles/chrome-extension-rejected-common-reasons-fix)
+- [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization)
+- [Chrome Payment Autofill How to Manage Cards](/articles/chrome-payment-autofill-how-to-manage-cards)

@@ -77,6 +77,7 @@ Chrome keyboard shortcuts not working fix can be frustrating, but with a little 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Netflix Not Working Fix](/chrome-netflix-not-working-fix)
-- [Chrome Not Working on Android Fix](/chrome-not-working-on-android-fix)
-- [Chrome Drag and Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
+
+- [how to screenshot full page in chrome](/articles/how-to-screenshot-full-page-in-chrome)
+- [Chrome Microphone Permission for One Site How to Set](/articles/chrome-microphone-permission-for-one-site-how-to-set)
+- [Why Does Opening Chrome Slow Down Everything](/articles/why-does-opening-chrome-slow-down-everything)

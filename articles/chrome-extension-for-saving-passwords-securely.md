@@ -80,3 +80,9 @@ Extensions like Tab Suspender Pro, part of the Zovo extension suite available at
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Twitch Streamers](/articles/best-chrome-extensions-for-twitch-streamers)
+- [Chrome for FreeCodeCamp Best Extensions](/articles/chrome-for-freecodecamp-best-extensions)
+- [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/articles/chrome-devtools-sensors-tab-geolocation)

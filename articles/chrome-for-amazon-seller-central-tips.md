@@ -90,6 +90,7 @@ These chrome for amazon seller central tips can help you work more efficiently a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Classroom Integration Tips For Teachers](/chrome-classroom-integration-tips-for-teachers)
-- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
-- [Chrome for Private Browsing Tips Beyond Incognito](/chrome-for-private-browsing-tips-beyond-incognito)
+
+- [chrome for onenote web clipper setup](/articles/chrome-for-onenote-web-clipper-setup)
+- [Chrome Passkeys Setup Guide 2026](/articles/chrome-passkeys-setup-guide-2026)
+- [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/articles/should-i-switch-to-edge-for-speed)

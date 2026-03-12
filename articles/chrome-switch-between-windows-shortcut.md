@@ -67,3 +67,9 @@ Within a few days of practice, these shortcuts will become automatic. You will w
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Devtools Application Panel Explained](/articles//chrome-devtools-application-panel-explained/)
+- [Chrome Custom Fonts How to Change](/articles//chrome-custom-fonts-how-to-change/)
+- [Chrome Extensions For Cookie Auto Delete](/articles//articles/chrome-extensions-for-cookie-auto-delete/)

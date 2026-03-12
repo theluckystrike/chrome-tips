@@ -83,3 +83,9 @@ Remember that you have control over the prompt through the beforeinstallprompt e
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome topics api explained simply](/articles/chrome-topics-api-explained-simply)
+- [Chrome Extensions For Blocking Distracting Websites](/articles//articles/chrome-extensions-for-blocking-distracting-websites/)
+- [How to Turn Off Chrome Notifications on Android](/articles/how-to-turn-off-chrome-notifications-android)

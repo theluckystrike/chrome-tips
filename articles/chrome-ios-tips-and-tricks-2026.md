@@ -130,3 +130,9 @@ Chrome on iOS is a capable browser with deep Google integration. By setting it a
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Auto Fill Forms Faster](/articles/chrome-extension-for-auto-fill-forms-faster)
+- [chrome google photos integration tips](/articles/chrome-google-photos-integration-tips)
+- [Chrome for Dailymotion Web Player](/articles/chrome-for-dailymotion-web-player)

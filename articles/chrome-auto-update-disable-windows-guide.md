@@ -110,6 +110,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Content Blocker vs Ad Blocker Difference](/chrome-content-blocker-vs-ad-blocker-difference)
-* [Chrome Credential Manager Autofill Explained](/chrome-credential-manager-autofill-explained)
-* [Chrome Tab Limit: Is There a Maximum?](/chrome-tab-limit-is-there-a-maximum)
+- [chrome for pocket extension setup](/articles/chrome-for-pocket-extension-setup)
+- [chrome geolocation permission manage](/articles/chrome-geolocation-permission-manage)
+- [chrome for github copilot web setup](/articles/chrome-for-github-copilot-web-setup)

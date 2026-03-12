@@ -81,6 +81,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Job Searching Best Extensions](/chrome-for-job-searching-best-extensions)
-* [Chrome Compact Mode How to Enable](/chrome-compact-mode-how-to-enable)
-* [Chrome Streaming Video Buffering Fix](/chrome-streaming-video-buffering-fix)
+- [Chrome AI Tab Organizer Feature: A Complete Guide](/articles/chrome-ai-tab-organizer-feature)
+- [Chrome Content Visibility Auto Performance](/articles/chrome-content-visibility-auto-performance)
+- [chrome extensions for target circle deals](/articles/chrome-extensions-for-target-circle-deals)

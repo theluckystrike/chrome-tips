@@ -57,6 +57,7 @@ Start by creating a few folders that match your browsing habits, move your exist
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Import Bookmarks from Firefox to Chrome](/how-to-import-bookmarks-from-firefox-to-chrome)
-- [How to Backup Chrome Bookmarks and Passwords](/how-to-backup-chrome-bookmarks-and-passwords)
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+
+- [Chrome Topics API Guide](/articles/chrome-topics-api-guide)
+- [How to Simulate Slow Connection in Chrome](/articles/chrome-network-throttling-how-to-simulate-slow-connection)
+- [Chrome Tab Search Feature How to Use](/articles/chrome-tab-search-feature-how-to-use)

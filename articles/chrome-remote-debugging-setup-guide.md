@@ -98,3 +98,9 @@ Remote debugging transforms how you approach cross-device development. Instead o
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Blink Engine Explained For Beginners](/articles/chrome-blink-engine-explained-for-beginners)
+- [Chrome Extension for Changing User Agent](/articles/chrome-extension-for-changing-user-agent)
+- [Chrome Flexbox Layout Complete Guide](/articles/chrome-flexbox-layout-complete-guide)

@@ -74,3 +74,9 @@ Taking control of your browser settings, using privacy tools, and being thoughtf
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does)
+- [Chrome Extensions for YouTube Productivity](/articles/chrome-extensions-for-youtube-productivity)
+- [Chrome Remote Desktop How to Use](/articles/chrome-remote-desktop-how-to-use)

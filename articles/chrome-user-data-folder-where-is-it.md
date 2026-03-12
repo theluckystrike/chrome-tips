@@ -77,3 +77,9 @@ Understanding where Chrome keeps your information is a useful skill that helps y
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chromebook Android Apps Not Working Fix](/articles/chromebook-android-apps-not-working-fix)
+- [Chrome Storage Inspector How to Use](/articles/chrome-storage-inspector-how-to-use)
+- [chrome install as app pwa how to](/articles/chrome-install-as-app-pwa-how-to)

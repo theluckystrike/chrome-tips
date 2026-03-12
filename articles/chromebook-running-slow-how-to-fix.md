@@ -96,6 +96,7 @@ With these simple habits, you can keep your Chromebook running smoothly for year
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chromebook Linux Apps How To Install](/chromebook-linux-apps-how-to-install)
-- [Chrome Android App Running Slow Fix: Practical Solutions That Actually Work](/chrome-android-app-running-slow-fix)
-- [Chrome Zoom Too Big How to Fix](/chrome-zoom-too-big-how-to-fix)
+
+- [How to Export Chrome Passwords](/articles/how-to-export-chrome-passwords)
+- [chrome first party vs third party cookies](/articles/chrome-first-party-vs-third-party-cookies)
+- [Chrome Extensions For Figma Companion](/articles//articles/chrome-extensions-for-figma-companion/)

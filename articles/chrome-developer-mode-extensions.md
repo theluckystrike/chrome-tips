@@ -129,3 +129,9 @@ Remember to follow best practices like keeping your manifest valid, requesting o
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Google Keep Integration Tips](/articles/chrome-google-keep-integration-tips)
+- [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/articles/chrome-whatsapp-web-not-connecting-fix)
+- [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track)

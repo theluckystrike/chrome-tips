@@ -76,3 +76,9 @@ Remember that while SSL errors can be frustrating, they are actually a good sign
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Amazon Prime Video Quality Settings](/articles/chrome-for-amazon-prime-video-quality-settings)
+- [Chrome Tab Search Shortcut: Find Any Open Tab Instantly](/articles/chrome-tab-search-shortcut)
+- [Chrome Scrolling is Choppy and Laggy](/articles/chrome-scrolling-is-choppy-and-laggy)

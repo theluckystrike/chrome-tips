@@ -92,3 +92,9 @@ The main caveat is that downloaded files persist after the session, so checking 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Limit Chrome Memory Usage Mac](/articles/how-to-limit-chrome-memory-usage-mac)
+- [Chrome Audit Page Seo How To](/articles/chrome-audit-page-seo-how-to)
+- [Chrome Cookie Consent Popups How to Auto Accept](/articles/chrome-cookie-consent-popups-how-to-auto-accept)

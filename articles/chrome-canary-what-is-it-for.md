@@ -61,6 +61,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/chrome-autofill-wrong-address-keeps-appearing)
-* [Chrome Memory Saver Feature Explained](/chrome-memory-saver-feature-explained)
-* [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)
+- [Chrome Location History in Browser How to Check](/articles/chrome-location-history-in-browser-how-to-check)
+- [Best Chrome Extensions For Youtube Power Users](/articles/best-chrome-extensions-for-youtube-power-users)
+- [Chrome for Wikipedia Enhanced Reading](/articles/chrome-for-wikipedia-enhanced-reading)

@@ -61,6 +61,7 @@ Give yourself a little time to adjust. The first day or two might feel unfamilia
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+
+- [Chrome Open Source Parts Explained](/articles/chrome-open-source-parts-explained)
+- [Chrome for Citation Manager Extensions](/articles/chrome-for-citation-manager-extensions)
+- [chrome proxy extension free best 2026](/articles/chrome-proxy-extension-free-best-2026)

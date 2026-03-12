@@ -82,6 +82,7 @@ The command menu in Chrome DevTools is a gateway to becoming a more productive d
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
-- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
-- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
+
+- [Chrome Offline Google Calendar](/articles/chrome-offline-google-calendar)
+- [How to Use Chrome Net Internals to Clear DNS Cache](/articles/chrome-net-internals-dns-clear-cache)
+- [chrome experimental features worth trying 2026](/articles/chrome-experimental-features-worth-trying-2026)

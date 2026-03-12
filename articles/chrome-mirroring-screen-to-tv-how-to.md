@@ -71,6 +71,7 @@ If you run into any issues, the troubleshooting tips above should help you get b
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Screen Recording in Browser How To](/chrome-screen-recording-in-browser-how-to)
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
-- [Chrome Cast to TV How to Set Up](/chrome-cast-to-tv-how-to-set-up)
+
+- [Chrome for Facebook Ads Manager Tips](/articles/chrome-for-facebook-ads-manager-tips)
+- [Chrome for Google Maps Best Extensions](/articles/chrome-for-google-maps-best-extensions)
+- [Chrome for Gesture Navigation Desktop](/articles/chrome-for-gesture-navigation-desktop)

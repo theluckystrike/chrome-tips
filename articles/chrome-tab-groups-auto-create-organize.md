@@ -139,6 +139,7 @@ The key is finding a system that works for your specific workflow and sticking w
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
 ## Related Articles
-- [Chrome Tab Groups Keyboard Shortcuts](/chrome-tab-groups-keyboard-shortcuts)
-- [Chrome Tab Groups Advanced Tips](/chrome-tab-groups-advanced-tips)
-- [Chrome Tab Groups on Phone How to Use](/chrome-tab-groups-on-phone-how-to-use)
+
+- [Chrome Scope CSS Explained](/articles/chrome-scope-css-explained)
+- [chrome for distraction blocking extensions](/articles/chrome-for-distraction-blocking-extensions)
+- [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure)

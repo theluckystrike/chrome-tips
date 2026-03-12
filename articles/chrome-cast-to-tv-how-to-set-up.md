@@ -75,6 +75,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Extensions for Workona Tab Manager](/chrome-extensions-for-workona-tab-manager)
-* [Chrome Spellcheck Not Working? Here's How to Fix It](/chrome-spellcheck-not-working-fix)
-* [Chrome Certificate Transparency Explained Simply](/chrome-certificate-transparency-explained-simply)
+- [Chrome Default Folder Location Where Is It](/articles//chrome-default-folder-location-where-is-it/)
+- [Chrome Related Website Sets Explained](/articles/chrome-related-website-sets-explained)
+- [Chrome Android App Running Slow Fix: Practical Solutions That Actually Work](/articles/chrome-android-app-running-slow-fix)

@@ -90,6 +90,7 @@ The right combination of extensions can help you scale your cold email outreach 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Email Marketing Best Extensions](/chrome-for-email-marketing-best-extensions)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Best Chrome Extensions for Email Management](/best-chrome-extensions-for-email-management)
+
+- [Chrome Extensions For Bulk Image Downloading](/articles//articles/chrome-extensions-for-bulk-image-downloading/)
+- [Chrome Sync Not Working Fix](/articles/chrome-sync-not-working-fix)
+- [Chrome Text Wrap Balance CSS](/articles/chrome-text-wrap-balance-css)

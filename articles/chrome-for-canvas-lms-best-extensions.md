@@ -88,6 +88,7 @@ Remember that the goal is not to use every available extension but rather to fin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Best Chrome Extensions for Researchers](/best-chrome-extensions-for-researchers)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+
+- [Chrome Streams API for Large Files](/articles/chrome-streams-api-for-large-files)
+- [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord/)
+- [Chrome Scrolling Lag Fix](/articles/chrome-scrolling-lag-fix)

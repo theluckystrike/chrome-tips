@@ -79,3 +79,9 @@ Using **Tab Suspender Pro** is an excellent way to handle this. It automatically
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Tabs Using Too Much Memory Which One](/articles/chrome-tabs-using-too-much-memory-which-one)
+- [chrome tab groups keyboard shortcuts](/articles/chrome-tab-groups-keyboard-shortcuts)
+- [Chrome for Arxiv Paper Reader Extensions](/articles/chrome-for-arxiv-paper-reader-extensions)

@@ -108,3 +108,9 @@ Consider how you use the browser daily, what data you are comfortable sharing, a
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Use Chrome DevTools for Beginners](/articles/how-to-use-chrome-devtools-for-beginners)
+- [Chrome Freezes My Whole Computer](/articles/chrome-freezes-my-whole-computer)
+- [Chrome Web Codec API Video Processing](/articles/chrome-web-codec-api-video-processing)

@@ -150,3 +150,9 @@ Remember: always double-check that your development server is running and note t
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions That Save You Time](/articles/chrome-extensions-that-save-you-time)
+- [Chrome Group Policy Settings Explained](/articles/chrome-group-policy-settings-explained)
+- [Chrome Hardware Acceleration Causes Problems](/articles/chrome-hardware-acceleration-causes-problems)

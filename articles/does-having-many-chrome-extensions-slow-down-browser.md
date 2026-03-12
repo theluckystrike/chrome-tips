@@ -71,6 +71,7 @@ Remember that fewer, well-chosen extensions will serve you better than dozens of
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Find Chrome Extensions That Slow Down Browser](/how-to-find-chrome-extensions-that-slow-down-browser)
-- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
-- [Chrome for Note Taking in Browser Extensions](/chrome-for-note-taking-in-browser-extensions)
+
+- [Chrome Font Size How to Change Permanently](/articles/chrome-font-size-how-to-change-permanently)
+- [chrome shared storage api privacy ads](/articles/chrome-shared-storage-api-privacy-ads)
+- [Chrome Cookie Consent Popups How to Auto Accept](/articles/chrome-cookie-consent-popups-how-to-auto-accept)

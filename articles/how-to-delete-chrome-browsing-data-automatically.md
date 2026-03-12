@@ -67,6 +67,7 @@ Many people do not realize how much data accumulates until they check. Going thr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Migrate Chrome Data to a New Computer](/how-to-migrate-chrome-data-to-new-computer)
-- [Chrome How to Clear Individual Site Data](/chrome-how-to-clear-individual-site-data)
-- [How To Enable Chrome Enhanced Safe Browsing](/how-to-enable-chrome-enhanced-safe-browsing)
+
+- [Chrome Opens on Startup Windows: How to Stop](/articles/chrome-opens-on-startup-windows-how-to-stop)
+- [Chrome for Costco Web Shopping Tips](/articles/chrome-for-costco-web-shopping-tips)
+- [Chrome Private Aggregation API Explained](/articles/chrome-private-aggregation-api-explained)

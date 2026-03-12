@@ -56,6 +56,7 @@ Try turning on Memory Saver if you have not already. Review which tabs you actua
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
-- [Chrome Mobile Tabs Too Many How to Manage](/chrome-mobile-tabs-too-many-how-to-manage)
-- [Chrome Save All Open Tabs As Bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+
+- [Best Chrome Extensions for Small Business Owners](/articles/best-chrome-extensions-for-small-business-owners)
+- [chrome webrtc video call quality improvement](/articles/chrome-webrtc-video-call-quality-improvement)
+- [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage)

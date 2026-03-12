@@ -72,6 +72,7 @@ Chrome Task Manager is an underutilized tool that can help you take control of y
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [How to Use Chrome Task Manager to Find Slow Tabs](/how-to-use-chrome-task-manager-to-find-slow-tabs)
-- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
-- [Chrome Task Manager Guide](/chrome-task-manager-guide)
+
+- [Best Dark Mode Chrome Extension](/articles/best-dark-mode-chrome-extension)
+- [Chrome Parental Controls Without Extension](/articles/chrome-parental-controls-without-extension)
+- [Chrome Address Bar Autocomplete How to Clear](/articles/chrome-address-bar-autocomplete-how-to-clear)

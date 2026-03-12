@@ -99,6 +99,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extension for Email Tracking Notification](/chrome-extension-for-email-tracking-notification)
-* [Chrome for Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension)
-* [chrome data saver mode is it still available](//chrome-data-saver-mode-is-it-still-available/)
+- [Chrome for Calendar Management Extensions](/articles/chrome-for-calendar-management-extensions)
+- [Why Is Chrome Still the Most Popular Browser in 2026?](/articles/why-is-chrome-still-most-popular-browser)
+- [Chrome for Social Media Management Extensions](/articles/chrome-for-social-media-management-extensions)

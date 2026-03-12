@@ -84,3 +84,9 @@ For people with reading difficulties or visual impairments, chrome text to speec
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Slow on School Laptop? Here's How to Fix It](/articles/chrome-slow-on-school-laptop-how-to-fix)
+- [How to Make Chrome Use Less Battery on MacBook](/articles/how-to-make-chrome-use-less-battery-macbook)
+- [Chrome Autofill Not Working Fix](/articles/chrome-autofill-not-working-fix)

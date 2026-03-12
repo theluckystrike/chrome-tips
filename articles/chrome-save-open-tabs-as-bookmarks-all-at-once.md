@@ -81,3 +81,9 @@ This extension creates a local **session backup** automatically. If Chrome crash
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Scroll-Driven Animations: Complete Guide for 2026](/articles/chrome-scroll-driven-animations)
+- [Chrome GPU Process High CPU Fix](/articles/chrome-gpu-process-high-cpu-fix)
+- [Chrome HTTPS First Mode Guide](/articles/chrome-https-first-mode)

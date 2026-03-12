@@ -91,6 +91,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Cross Device Tab Sync Not Working Fix](/chrome-cross-device-tab-sync-not-working-fix)
-* [chrome browser fingerprint how to check yours](/chrome-browser-fingerprint-how-to-check-yours)
-* [Must Have Chrome Extensions for Students](/must-have-chrome-extensions-for-students)
+- [Chrome for Disney Plus Not Working Fix](/articles/chrome-for-disney-plus-not-working-fix)
+- [Chrome Err Connection Timed Out Fix](/articles/chrome-err-connection-timed-out-fix)
+- [Chrome DevTools Changes Panel to Track Edits](/articles//chrome-devtools-changes-panel-track-edits/)

@@ -106,3 +106,9 @@ Experiment with both features and see which workflow feels natural to you. Some 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Set Homepage on Chrome](/articles/how-to-set-homepage-on-chrome)
+- [Chrome Noise Cancellation for Meetings](/articles/chrome-noise-cancellation-for-meetings)
+- [Chrome User Timing API Explained](/articles/chrome-user-timing-api-explained)

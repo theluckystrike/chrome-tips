@@ -75,6 +75,7 @@ Remember to check for overlapping ranges in your media queries, make sure you ar
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Emulate Print Media How To](/chrome-emulate-print-media-how-to)
-- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
-- [Chrome DevTools Flexbox Debugger](/chrome-devtools-flexbox-debugger)
+
+- [Chrome Extensions for Tab Previewer Hover](/articles/chrome-extensions-for-tab-previewer-hover)
+- [Chrome NordVPN Extension vs ExpressVPN Extension](/articles/chrome-nordvpn-extension-vs-expressvpn-extension)
+- [Chrome Extensions for Pocket Alternative](/articles/chrome-extensions-for-pocket-alternative)

@@ -102,3 +102,9 @@ By understanding the strengths of each browser and utilizing the right optimizat
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/articles/chrome-tab-hibernate-save-memory)
+- [Chrome DevTools Snippets for Productivity](/articles/chrome-snippets-productivity)
+- [Chrome WebGPU vs WebGL Comparison: Which Graphics API Should You Use?](/articles/chrome-webgpu-vs-webgl-comparison)

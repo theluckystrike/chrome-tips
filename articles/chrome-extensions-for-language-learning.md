@@ -69,6 +69,7 @@ Start with one or two extensions that address your biggest need, use them consis
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Best Chrome Extensions for Language Learning](/best-chrome-extensions-for-language-learning)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+- [Chrome Startup Pages How to Set Multiple](/articles/chrome-startup-pages-how-to-set-multiple)
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug)
+- [Chrome Continue Where You Left Off Not Working](/articles/chrome-continue-where-you-left-off-not-working)

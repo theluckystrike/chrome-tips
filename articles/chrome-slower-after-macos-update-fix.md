@@ -106,3 +106,9 @@ Remember, if you tend to keep many tabs open, Tab Suspender Pro can be a valuabl
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Background Fetch for PWAs Explained](/articles/chrome-background-fetch-for-pwas-explained)
+- [Chrome Extensions For Email Finder](/articles//articles/chrome-extensions-for-email-finder/)
+- [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips)

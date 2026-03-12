@@ -68,6 +68,7 @@ Your eyes are important, and taking care them while you browse should be a prior
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+
+- [Chrome Sandboxing How It Protects You](/articles/chrome-sandboxing-how-it-protects-you)
+- [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips)
+- [chrome how to enable cookies](/articles/chrome-how-to-enable-cookies)

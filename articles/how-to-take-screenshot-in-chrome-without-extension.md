@@ -74,6 +74,7 @@ Learning how to take a screenshot in Chrome without extension opens up a world o
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [How to Block Ads on Chrome Without Extension](/how-to-block-ads-on-chrome-without-extension)
-- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
-- [How To Screenshot Full Page In Chrome](/how-to-screenshot-full-page-in-chrome)
+
+- [Chrome Android Gestures You Didnt Know About](/articles/chrome-android-gestures-you-didnt-know-about)
+- [Chrome Slow With Many Tabs Open? Here's How to Fix It](/articles/chrome-slow-with-many-tabs-open)
+- [Chrome for SEO Keyword Research Extensions](/articles/chrome-for-seo-keyword-research-extensions)

@@ -78,6 +78,7 @@ Make it a habit to check for updates regularly, or let your phone handle it auto
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-- [How to Update Chrome on iPhone](/how-to-update-chrome-on-iphone)
-- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
+
+- [Chrome Background Sync API Explained](/articles/chrome-background-sync-api-explained)
+- [Chrome Keeps Logging Me Out of Websites Fix](/articles/chrome-keeps-logging-me-out-of-websites-fix)
+- [Chrome PDF Settings Print to PDF How to](/articles/chrome-pdf-settings-print-to-pdf-how-to)

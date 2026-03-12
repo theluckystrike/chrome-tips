@@ -84,6 +84,7 @@ Start with the built-in Memory Saver feature, which requires no additional insta
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome vs Safari Memory Usage Mac](/chrome-vs-safari-memory-usage-mac)
-- [Chrome Memory Inspector How to Use](/chrome-memory-inspector-how-to-use)
-- [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)
+
+- [Chrome Extensions for Musicians and Producers](/articles/chrome-extensions-for-musicians-and-producers)
+- [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix)
+- [chrome enable parallel downloading](/articles/chrome-enable-parallel-downloading)

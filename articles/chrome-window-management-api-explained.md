@@ -62,6 +62,7 @@ Remember that your browser is a tool you likely use every day, and small improve
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-- [Chrome Long Tasks API Explained](/chrome-long-tasks-api-explained)
-- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
+
+- [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut)
+- [Chrome New Tab Page Best Extensions](/articles/chrome-new-tab-page-best-extensions)
+- [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply)

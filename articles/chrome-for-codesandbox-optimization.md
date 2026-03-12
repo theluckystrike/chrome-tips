@@ -64,6 +64,7 @@ The tips in this guide are meant to be practical and easy to implement. You do n
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Coursera Web App Optimization](/chrome-for-coursera-web-app-optimization)
-- [Chrome for Salesforce Web App Optimization](/chrome-for-salesforce-web-app-optimization)
-- [Chrome For Xbox Cloud Gaming Optimization](/chrome-for-xbox-cloud-gaming-optimization)
+
+- [How to Import Bookmarks from Firefox to Chrome](/articles/how-to-import-bookmarks-from-firefox-to-chrome)
+- [Chrome Payment Request API Guide](/articles/chrome-payment-request-api)
+- [How to Use Chrome Net Internals to Clear DNS Cache](/articles/chrome-net-internals-dns-clear-cache)

@@ -83,3 +83,9 @@ For developers managing multiple Chrome tabs during debugging sessions, keeping 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Preloading Pages Setting Explained](/articles/chrome-preloading-pages-setting-explained)
+- [Why Does Each Chrome Tab Use So Much Memory](/articles/why-does-each-chrome-tab-use-so-much-memory)
+- [Chrome DevTools Coverage Tool Explained](/articles//chrome-devtools-coverage-tool-explained/)

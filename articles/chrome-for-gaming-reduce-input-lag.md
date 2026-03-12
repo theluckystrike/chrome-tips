@@ -58,6 +58,7 @@ An outdated version of Chrome may have performance issues that contribute to inp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Low Latency Mode for Gaming](/chrome-low-latency-mode-for-gaming)
-- [Chrome vs Opera GX for Gaming](/chrome-vs-opera-gx-for-gaming)
+
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/articles/chrome-extensions-folder-location-files)
+- [Chrome Text to Speech Built In Feature](/articles/chrome-text-to-speech-built-in-feature)
+- [How to Set Up Chrome Profiles for Work and Personal](/articles/how-to-set-up-chrome-profiles-for-work-and-personal)

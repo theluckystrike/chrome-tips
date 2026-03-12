@@ -85,6 +85,7 @@ Remember that while these extensions are helpful, they are just one part of a co
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+
+- [Best Lightweight Browsers for Chromebook](/articles/best-lightweight-browsers-for-chromebook)
+- [Chrome Performance Getting Worse Over Time](/articles/chrome-performance-getting-worse-over-time)
+- [Chrome for Managing Saved Addresses](/articles/chrome-for-managing-saved-addresses)

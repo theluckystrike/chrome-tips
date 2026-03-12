@@ -76,3 +76,9 @@ Finally, if you use multiple Google accounts, consider creating a separate profi
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Google Chrome vs Chromium Difference Explained](/articles/google-chrome-vs-chromium-difference-explained)
+- [Chrome for Jira Best Extensions](/articles/chrome-for-jira-best-extensions)
+- [Chrome Homepage Changed by Itself Fix](/articles/chrome-homepage-changed-by-itself-fix)

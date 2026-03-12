@@ -266,3 +266,9 @@ The ability to communicate with Arduino, microcontrollers, and other serial devi
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Redirecting to Wrong Pages Fix](/articles/chrome-redirecting-to-wrong-pages-fix)
+- [chrome for coinbase web app tips](/articles/chrome-for-coinbase-web-app-tips)
+- [Chrome Extension for Changing User Agent](/articles/chrome-extension-for-changing-user-agent)

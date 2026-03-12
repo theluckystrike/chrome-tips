@@ -91,6 +91,7 @@ One common problem iPad users face is Chrome running slowly when too many tabs a
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Address Bar Tips and Tricks](/chrome-address-bar-tips-and-tricks)
-- [Chrome Android Tips and Tricks 2026](/chrome-android-tips-and-tricks-2026)
-- [Chrome for LeechBlock Setup and Tips](/chrome-for-leechblock-setup-and-tips)
+
+- [Chrome for Budgeting: Best Web Tools](/articles/chrome-for-budgeting-best-web-tools)
+- [Chrome Headless Mode What It Is](/articles/chrome-headless-mode-what-it-is)
+- [Chrome Extensions For Etsy Sellers](/articles//articles/chrome-extensions-for-etsy-sellers/)

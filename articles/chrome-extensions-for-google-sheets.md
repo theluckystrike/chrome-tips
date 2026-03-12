@@ -53,6 +53,7 @@ Take some time to think about where you are spending the most effort. Is it find
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Google Slides](/chrome-extensions-for-google-slides)
-- [Best Chrome Extensions for Google Drive](/best-chrome-extensions-for-google-drive)
-- [Chrome Extensions for Google Meet](/chrome-extensions-for-google-meet)
+
+- [Chrome Extensions For Email Finder](/articles//articles/chrome-extensions-for-email-finder/)
+- [Chrome Autofill Suggestions How to Delete One](/articles/chrome-autofill-suggestions-how-to-delete-one)
+- [Chrome Web Share API Explained](/articles/chrome-web-share-api-explained)

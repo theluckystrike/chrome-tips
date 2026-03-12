@@ -87,6 +87,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome for Google Keep Extension Tips](/chrome-for-google-keep-extension-tips)
-* [Chrome Background Sync for Offline Forms](/chrome-background-sync-for-offline-forms)
-* [Chrome DevTools Workspaces Guide](/chrome-workspaces-guide)
+- [chrome for podcast web players best setup](/articles/chrome-for-podcast-web-players-best-setup)
+- [Chrome for Disney Plus Not Working Fix](/articles/chrome-for-disney-plus-not-working-fix)
+- [Chrome Largest Contentful Paint Explained](/articles/chrome-largest-contentful-paint-explained)

@@ -71,6 +71,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [chrome portable version how to get](/chrome-portable-version-how-to-get)
-* [chrome web bluetooth connect headphones](/chrome-web-bluetooth-connect-headphones)
-* [Chrome Encoding API Text Encoder Decoder](/chrome-encoding-api-text-encoder-decoder)
+- [Chrome Extensions For Blue Light Filter](/articles//articles/chrome-extensions-for-blue-light-filter/)
+- [Chrome Running Slow on New Laptop? Here's Why and How to Fix It](/articles/chrome-running-slow-on-new-laptop-why)
+- [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained)

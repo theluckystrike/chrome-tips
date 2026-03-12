@@ -60,6 +60,7 @@ Remember that extensions work best when they complement rather than complicate y
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Yahoo Mail Best Extensions](/chrome-for-yahoo-mail-best-extensions)
-- [Best Chrome Extensions For Teachers Online](/best-chrome-extensions-for-teachers-online)
-- [Chrome for Coupon Finding Best Extensions](/chrome-for-coupon-finding-best-extensions)
+
+- [Chrome Google Maps Keyboard Shortcuts](/articles/chrome-google-maps-keyboard-shortcuts)
+- [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained)
+- [Chrome Open Source Parts Explained](/articles/chrome-open-source-parts-explained)

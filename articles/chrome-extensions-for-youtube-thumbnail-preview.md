@@ -62,6 +62,7 @@ Most thumbnail preview extensions are free and work automatically once installed
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome Extensions for Markdown Editor Preview](/chrome-extensions-for-markdown-editor-preview)
+
+- [How to Clear Cookies for One Site in Chrome](/articles/how-to-clear-cookies-for-one-site-in-chrome)
+- [Chrome Save Open Tabs as Bookmarks All at Once](/articles/chrome-save-open-tabs-as-bookmarks-all-at-once)
+- [How to Enable Chrome Tab Preview on Hover](/articles/chrome-tab-preview-hover-how-to-enable)

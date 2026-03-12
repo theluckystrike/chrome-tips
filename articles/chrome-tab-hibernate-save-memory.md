@@ -79,3 +79,9 @@ By understanding how these features work and incorporating them into your daily 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome How to Clear DNS Cache](/articles/chrome-how-to-clear-dns-cache)
+- [How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost](/articles/chrome-err-connection-refused-localhost-fix)
+- [Chrome Open Source Parts Explained](/articles/chrome-open-source-parts-explained)

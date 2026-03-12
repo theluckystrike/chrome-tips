@@ -70,6 +70,7 @@ If you notice performance issues after installing a new tab extension, try disab
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Custom Cursor Extensions](/chrome-for-custom-cursor-extensions)
-- [Chrome New Tab Page How To Customize](/chrome-new-tab-page-how-to-customize)
-- [Chrome Extensions for New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)
+
+- [Chrome for Notion Web Clipper Setup](/articles/chrome-for-notion-web-clipper-setup)
+- [Chrome for Budgeting: Best Web Tools](/articles/chrome-for-budgeting-best-web-tools)
+- [Chrome Web MIDI API Explained](/articles/chrome-web-midi-api-explained)

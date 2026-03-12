@@ -72,3 +72,9 @@ Open Chrome DevTools, find a file you're working on, and add your first Logpoint
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Beta Channel How to Join and Leave](/articles/chrome-beta-channel-how-to-join-and-leave)
+- [Chrome ERR_CACHE_MISS Fix](/articles/chrome-err-cache-miss-fix)
+- [Chrome Accessibility Shortcuts For Screen Reader](/articles/chrome-accessibility-shortcuts-for-screen-reader)

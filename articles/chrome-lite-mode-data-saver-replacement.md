@@ -70,6 +70,7 @@ The key is to find the combination of tools and habits that works best for your 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
-- [Chrome Lite Mode Replacement 2026](/chrome-lite-mode-replacement-2026)
-- [Chrome Data Saver Mode Is It Still Available](/chrome-data-saver-mode-is-it-still-available)
+
+- [Chrome Clear Data for One Site Without Clearing All](/articles/chrome-clear-data-for-one-site-without-clearing-all)
+- [Chrome High CPU Usage Nothing Open](/articles/chrome-high-cpu-usage-nothing-open)
+- [Chrome for Productivity Dashboard New Tab](/articles/chrome-for-productivity-dashboard-new-tab)

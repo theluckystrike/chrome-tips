@@ -74,6 +74,7 @@ Finding the right chrome new tab extension aesthetic for 2026 is all about under
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)
-- [Chrome New Tab Page Minimalist Extensions](/chrome-new-tab-page-minimalist-extensions)
-- [Best Chrome Extensions for Writers 2026](/best-chrome-extensions-for-writers-2026)
+
+- [Chrome Idle Detection API Explained: What It Means for Your Browser](/articles/chrome-idle-detection-api-explained)
+- [chrome for yahoo mail best extensions](/articles/chrome-for-yahoo-mail-best-extensions)
+- [Chrome Extensions for Invoice Creation](/articles/chrome-extensions-for-invoice-creation)

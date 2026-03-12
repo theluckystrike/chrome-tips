@@ -73,6 +73,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Managed Bookmarks for Employees](/chrome-managed-bookmarks-for-employees)
-* [Chrome Periodic Background Sync Explained](/chrome-periodic-background-sync-explained)
-* [Chrome Reading List How to Use](/chrome-reading-list-how-to-use)
+- [Chromebook Developer Mode: Should I Enable It?](/articles/chromebook-developer-mode-should-i-enable)
+- [Chrome Using Too Much Memory on MacBook Air](/articles/chrome-using-too-much-memory-on-macbook-air)
+- [Chrome Forced Extensions by Admin What It Means](/articles/chrome-forced-extensions-by-admin-what-it-means)

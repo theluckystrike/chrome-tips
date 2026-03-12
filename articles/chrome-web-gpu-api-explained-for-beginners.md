@@ -56,6 +56,7 @@ The good news is that Chrome is already supporting this technology, and you do n
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Cache API Tutorial for Beginners](/chrome-cache-api-tutorial-for-beginners)
-- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)
-- [Chrome Encrypted DNS Explained for Beginners](/chrome-encrypted-dns-explained-for-beginners)
+
+- [Chrome Extensions for Virtual Whiteboard](/articles/chrome-extensions-for-virtual-whiteboard)
+- [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained)
+- [Chrome Dark Mode on Phone How to Enable](/articles//chrome-dark-mode-on-phone-how-to-enable/)

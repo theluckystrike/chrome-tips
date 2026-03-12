@@ -77,6 +77,7 @@ Remember that fewer, well-chosen extensions will serve you better than dozens of
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Find Chrome Extensions That Slow Down Browser](/how-to-find-chrome-extensions-that-slow-down-browser)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Why Does Opening Chrome Slow Down Everything](/why-does-opening-chrome-slow-down-everything)
+
+- [Chromebook for Seniors Setup Guide](/articles/chromebook-for-seniors-setup-guide)
+- [Chrome Screen Wake Lock API Explained](/articles/chrome-screen-wake-lock-api-explained)
+- [Chrome Memory Saver Mode How to Use](/articles/chrome-memory-saver-mode-how-to-use)

@@ -59,3 +59,9 @@ If you find that you have too many tabs opening at startup or that Chrome feels 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Web3 Browsing Extensions](/articles/chrome-for-web3-browsing-extensions)
+- [Chrome Blurry Text Fix Windows](/articles/chrome-blurry-text-fix-windows)
+- [Chrome Bookmark Bar Tips And Tricks](/articles/chrome-bookmark-bar-tips-and-tricks)

@@ -82,6 +82,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Extensions for Weather Forecast](/chrome-extensions-for-weather-forecast)
-* [Chrome Print to PDF How to Save Webpage](/chrome-print-to-pdf-how-to-save-webpage)
-* [Chrome Eating All My RAM? Reddit Users Share Their Solutions](/chrome-eating-all-my-ram-reddit-solutions)
+- [chrome force dark mode on all websites](/articles/chrome-force-dark-mode-on-all-websites)
+- [Chrome Best Ad Blocker 2026](/articles/chrome-best-ad-blocker-2026)
+- [Why Does Chrome Get Slower With More Tabs? A Practical Guide](/articles/why-does-chrome-get-slower-with-more-tabs)

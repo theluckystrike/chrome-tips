@@ -98,3 +98,9 @@ You might also want to try lighter browsers for everyday tasks and reserve Chrom
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome WebGPU API Getting Started Guide](/articles/chrome-webgpu-api-getting-started)
+- [Chrome Reader View How to Enable on Any Site](/articles/chrome-reader-view-how-to-enable-on-any-site)
+- [Chrome Find on Page Shortcut Tips](/articles/chrome-find-on-page-shortcut-tips)

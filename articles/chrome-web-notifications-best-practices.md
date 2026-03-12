@@ -83,6 +83,7 @@ By following these practices and checking in on your settings regularly, you can
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Web Push Notifications Setup Guide](/chrome-web-push-notifications-setup-guide)
-- [Chrome Web Store Best Free Games](/chrome-web-store-best-free-games)
-- [Chrome For Tiktok Web Best Settings](/chrome-for-tiktok-web-best-settings)
+
+- [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup)
+- [chrome for google flights tips and tricks](/articles/chrome-for-google-flights-tips-and-tricks)
+- [how to use chrome password checkup feature](/articles/how-to-use-chrome-password-checkup-feature)

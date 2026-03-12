@@ -82,3 +82,9 @@ The chrome recently closed tabs shortcut is a simple but powerful tool that ever
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Descript Web App Optimization](/articles/chrome-for-descript-web-app-optimization)
+- [chrome how to block specific website notifications](/articles/chrome-how-to-block-specific-website-notifications)
+- [how to make chrome default browser windows 11](/articles/how-to-make-chrome-default-browser-windows-11)

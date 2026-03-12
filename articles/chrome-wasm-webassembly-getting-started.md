@@ -141,3 +141,9 @@ WebAssembly represents the future of web development, and learning it now positi
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Email Productivity](/articles//articles/chrome-extensions-for-email-productivity/)
+- [chrome new tab page how to customize](/articles/chrome-new-tab-page-how-to-customize)
+- [Chrome Devtools Color Picker How to Use](/articles//chrome-devtools-color-picker-how-to-use/)

@@ -82,6 +82,7 @@ If you use many tabs in Chrome and want to keep your browser running smoothly wh
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
-- [Chrome Local Storage How to Clear for One Site](/chrome-local-storage-how-to-clear-for-one-site)
-- [Chrome How To Allow Popups For One Site](/chrome-how-to-allow-popups-for-one-site)
+
+- [Chrome Closed Captions on Any Video](/articles/chrome-closed-captions-on-any-video)
+- [Chrome Service Worker High CPU Fix](/articles/chrome-service-worker-high-cpu-fix)
+- [How to Inspect and Debug IndexedDB in Chrome: A Complete Guide](/articles/chrome-indexeddb-inspect-debug)

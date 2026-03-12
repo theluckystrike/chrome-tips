@@ -79,6 +79,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Send Feedback to Google How to](/chrome-send-feedback-to-google-how-to)
-* [Chrome for Translation On Hover Extensions](/chrome-for-translation-on-hover-extensions)
-* [chrome web otp autofill sms](/chrome-web-otp-autofill-sms)
+- [Chrome Subgrid Layout Examples: A Complete Guide](/articles/chrome-subgrid-layout-examples)
+- [Chrome Web Store How to Find Safe Extensions](/articles/chrome-web-store-how-to-find-safe-extensions)
+- [chrome shortcuts in pwa how to define](/articles/chrome-shortcuts-in-pwa-how-to-define)

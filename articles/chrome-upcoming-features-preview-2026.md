@@ -66,3 +66,9 @@ The address bar, also called the omnibox, is getting smarter too. It will better
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome WebGL Crashing My Browser](/articles/chrome-webgl-crashing-my-browser)
+- [Chrome Multiple Users Same Computer Setup](/articles/chrome-multiple-users-same-computer-setup)
+- [Chrome for Real Estate Browsing Extensions](/articles/chrome-for-real-estate-browsing-extensions)

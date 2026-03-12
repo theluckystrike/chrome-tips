@@ -76,3 +76,9 @@ Start by trying one extension and learning how to read its price charts. Once yo
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Email Marketing Best Extensions](/articles/chrome-for-email-marketing-best-extensions)
+- [Chrome for FreeCodeCamp Best Extensions](/articles/chrome-for-freecodecamp-best-extensions)
+- [Chrome DevTools Snippets for Productivity](/articles/chrome-snippets-productivity)

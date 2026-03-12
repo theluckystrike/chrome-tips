@@ -64,6 +64,7 @@ With the right Chrome extensions supporting your Diigo habit, you can transform 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+
+- [Is Chrome Still the Best Browser in 2026?](/articles/is-chrome-still-the-best-browser-2026)
+- [Best Password Manager Chrome Extension](/articles/best-password-manager-chrome-extension)
+- [Chrome for Tab Sleeping vs Tab Suspending Difference](/articles/chrome-for-tab-sleeping-vs-tab-suspending-difference)

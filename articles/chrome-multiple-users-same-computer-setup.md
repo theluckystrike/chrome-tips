@@ -75,6 +75,7 @@ Give it a try if you have not already. Once everyone has their own profile, you 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+
+- [Chrome Extensions for Research Papers](/articles/chrome-extensions-for-research-papers)
+- [Chrome Regex Lookbehind Support: What You Need to Know](/articles/chrome-regex-lookbehind-support)
+- [Chrome Web USB API Guide](/articles/chrome-web-usb-api-guide)

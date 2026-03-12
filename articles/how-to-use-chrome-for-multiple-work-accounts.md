@@ -65,6 +65,7 @@ Getting started with multiple work profiles takes just a few minutes, and the pa
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
-- [Chrome Follow Button for Websites How to Use](/chrome-follow-button-for-websites-how-to-use)
-- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
+
+- [Chrome Flags Best Performance Settings](/articles/chrome-flags-best-performance-settings)
+- [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained)
+- [Chrome Web Animations API Keyframes Guide](/articles/chrome-web-animations-api-keyframes)

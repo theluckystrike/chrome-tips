@@ -62,6 +62,7 @@ Most of these extensions offer free versions with basic features, so you can tes
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Weather Forecast New Tab](/chrome-extensions-for-weather-forecast-new-tab)
-- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
-- [Chrome Extensions for Tab Notes](/chrome-extensions-for-tab-notes)
+
+- [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply)
+- [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome)
+- [Chrome Workspaces: Link DevTools to Files for Seamless Development](/articles/chrome-workspaces-link-devtools-to-files)

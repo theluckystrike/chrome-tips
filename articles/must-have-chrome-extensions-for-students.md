@@ -76,6 +76,7 @@ With the right extensions, your browser becomes a powerful study tool that helps
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Productivity Students](/chrome-extensions-for-productivity-students)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+
+- [Chrome Downloads Not Starting Fix](/articles/chrome-downloads-not-starting-fix)
+- [Chrome Tab Groups vs Multiple Windows](/articles/chrome-tab-groups-vs-windows)
+- [chrome for tradingview best extensions](/articles/chrome-for-tradingview-best-extensions)

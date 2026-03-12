@@ -68,6 +68,7 @@ The key is to experiment and find what works for you. Everyone has different pre
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Ambient Noise](/chrome-extensions-for-ambient-noise)
-- [Chrome Extension for Checking Grammar While Typing](/chrome-extension-for-checking-grammar-while-typing)
+
+- [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup)
+- [Chrome Safe Browsing Protection Levels Explained](/articles/chrome-safe-browsing-protection-levels-explained)
+- [Chrome for Blocking Autoplay Videos](/articles/chrome-for-blocking-autoplay-videos)

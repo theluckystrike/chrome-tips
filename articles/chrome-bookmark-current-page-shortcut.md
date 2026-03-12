@@ -81,6 +81,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome vs Brave Privacy Comparison](/chrome-vs-brave-privacy-comparison)
-* [chrome extensions for similar image finder](/chrome-extensions-for-similar-image-finder)
-* [Best Chrome Extensions for Students 2026](/chrome-extensions-for-students)
+- [Chrome Sync Across Devices How It Works](/articles/chrome-sync-across-devices-how-it-works)
+- [chrome extensions for ruler measurement](/articles/chrome-extensions-for-ruler-measurement)
+- [Chrome Process Per Tab: How to Disable It to Save Memory](/articles/chrome-process-per-tab-disable-to-save-memory)

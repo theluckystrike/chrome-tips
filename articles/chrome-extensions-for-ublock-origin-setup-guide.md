@@ -71,6 +71,7 @@ Whether you are looking for better tab management with something like Tab Suspen
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+
+- [Chrome Side Panel Customization: Complete Guide for 2026](/articles/chrome-side-panel-customization)
+- [Chrome Window Size Not Saving Fix](/articles/chrome-window-size-not-saving-fix)
+- [How to Fix Slow Slack Web App in Chrome](/articles/chrome-slack-web-app-slow-fix)

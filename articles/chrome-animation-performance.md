@@ -153,6 +153,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Enable Parallel Downloading in Chrome for Faster Downloads](/chrome-parallel-downloading-enable-speed-up)
-* [Chrome Slow After Hibernation Fix](/chrome-slow-after-hibernation-fix)
-* [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions)
+- [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)
+- [chrome for codesandbox optimization](/articles/chrome-for-codesandbox-optimization)

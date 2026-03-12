@@ -69,3 +69,9 @@ Using **Tab Suspender Pro** is the most effective way to handle this. It allows 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [chrome new tab page how to customize](/articles/chrome-new-tab-page-how-to-customize)
+- [Chromebook Android Apps Not Working Fix](/articles/chromebook-android-apps-not-working-fix)
+- [chrome default browser how to set on mac](/articles//chrome-default-browser-how-to-set-on-mac/)

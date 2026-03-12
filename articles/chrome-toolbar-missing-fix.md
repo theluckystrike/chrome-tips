@@ -70,3 +70,9 @@ If you find yourself frequently dealing with browser issues or want to improve y
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Rain Sounds](/articles/chrome-extensions-for-rain-sounds)
+- [Chrome Extensions for Google Classroom](/articles/chrome-extensions-for-google-classroom)
+- [Chrome Periodic Background Sync Explained](/articles/chrome-periodic-background-sync-explained)

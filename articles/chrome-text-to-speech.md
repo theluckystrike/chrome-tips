@@ -82,3 +82,9 @@ Chrome continues to integrate these improvements directly into the browser, maki
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Highlighting Text on Websites](/articles/chrome-extension-for-highlighting-text-on-websites)
+- [Chrome Version How to Check Which Version](/articles/chrome-version-how-to-check-which-version)
+- [Chrome Tabs Keep Reloading When I Switch Back](/articles/chrome-tabs-keep-reloading-when-i-switch-back)

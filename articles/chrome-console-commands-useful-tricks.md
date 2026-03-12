@@ -125,6 +125,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Service Worker Caching Strategies](/chrome-service-worker-caching-strategies)
-* [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/chrome-ai-powered-history-search)
-* [Chrome Extensions for YouTube Productivity](/chrome-extensions-for-youtube-productivity)
+- [Chrome Workspaces: Link DevTools to Files for Seamless Development](/articles/chrome-workspaces-link-devtools-to-files)
+- [Chrome Iterator Helpers Explained](/articles/chrome-iterator-helpers-explained)
+- [chrome portable version run from usb](/articles/chrome-portable-version-run-from-usb)

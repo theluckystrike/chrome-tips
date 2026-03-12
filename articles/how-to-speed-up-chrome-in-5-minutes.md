@@ -72,6 +72,7 @@ If you want even more control over how Chrome manages your tabs, try Tab Suspend
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.*
 
 ## Related Articles
-- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
-- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
-- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
+
+- [Chrome for Netflix Best Quality Settings](/articles/chrome-for-netflix-best-quality-settings)
+- [Chrome Extension for YouTube Ad Blocker](/articles/chrome-extension-for-youtube-ad-blocker)
+- [chrome for shopping price comparison tools](/articles/chrome-for-shopping-price-comparison-tools)

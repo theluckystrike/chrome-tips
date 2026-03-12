@@ -67,3 +67,9 @@ The key thing to remember is that you have choices. Take some time to explore Ch
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Says Not Secure But Site Is Safe](/articles/chrome-says-not-secure-but-site-is-safe)
+- [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools)
+- [Chrome for Clearing Browsing Data Automatically](/articles/chrome-for-clearing-browsing-data-automatically)

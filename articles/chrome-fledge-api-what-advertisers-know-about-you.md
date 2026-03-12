@@ -73,6 +73,7 @@ Your browsing privacy matters, and taking a few minutes to understand and adjust
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Address Bar Commands You Didnt Know](/chrome-address-bar-commands-you-didnt-know)
-- [Chrome Accessibility Features You Didn't Know About](/chrome-accessibility-features-you-didnt-know-about)
-- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
+
+- [Chrome Slow on Windows 11 After Update: Practical Fixes](/articles/chrome-slow-on-windows-11-after-update)
+- [chrome not playing youtube videos fix](/articles/chrome-not-playing-youtube-videos-fix)
+- [Chrome Local Storage How to Clear for One Site](/articles/chrome-local-storage-how-to-clear-for-one-site)

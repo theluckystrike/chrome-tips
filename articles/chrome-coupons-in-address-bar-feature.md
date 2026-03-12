@@ -79,6 +79,6 @@ Additionally, coupon codes found through browser extensions may not always be th
 
 ## Related Articles
 
-* [Chrome Extensions for Social Media Scheduling](/chrome-extensions-for-social-media-scheduling)
-* [Chrome Black Screen When Opening Fix: Complete Practical Guide](/chrome-black-screen-when-opening-fix)
-* [Chrome for Medium Best Reading Extensions](/chrome-for-medium-best-reading-extensions)
+- [chrome side panel features you missed](/articles/chrome-side-panel-features-you-missed)
+- [Chrome Audit Page Seo How To](/articles/chrome-audit-page-seo-how-to)
+- [How to Reset Chrome to Default Settings](/articles/how-to-reset-chrome-to-default-settings)

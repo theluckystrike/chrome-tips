@@ -61,6 +61,7 @@ Whatever method you choose, the key is consistency. Check your chosen system reg
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
-- [How to Use Chrome DevTools for Beginners](/how-to-use-chrome-devtools-for-beginners)
+
+- [chrome for audible web player tips](/articles/chrome-for-audible-web-player-tips)
+- [Chrome Extension for Saving Articles Offline](/articles/chrome-extension-for-saving-articles-offline)
+- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/articles/chrome-incognito-mode-what-it-actually-does)

@@ -115,6 +115,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Reducing Eye Strain Extensions](/chrome-for-reducing-eye-strain-extensions)
-* [Chrome for Skyscanner Web App Tips](/chrome-for-skyscanner-web-app-tips)
-* [Why Chrome Is Slow on Battery But Fast When Plugged In](/chrome-slow-on-battery-but-fast-plugged-in)
+- [Chrome AI Powered Search Suggestions](/articles/chrome-ai-powered-search-suggestions)
+- [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android)
+- [chrome extensions for screen recording free](/articles/chrome-extensions-for-screen-recording-free)

@@ -63,6 +63,7 @@ By keeping your browser updated, using extensions like Tab Suspender Pro to mana
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
-- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
-- [Chrome Site Isolation Explained Simply](/chrome-site-isolation-explained-simply)
+
+- [How to Inspect CSS Animations and Transitions in Chrome DevTools](/articles/chrome-animations-panel-inspect-transitions)
+- [chrome voice control navigate by speaking](/articles/chrome-voice-control-navigate-by-speaking)
+- [Chrome Invalid Certificate How to Fix Permanently](/articles/chrome-invalid-certificate-how-to-fix-permanently)

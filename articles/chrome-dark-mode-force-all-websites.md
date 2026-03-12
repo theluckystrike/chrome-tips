@@ -91,3 +91,9 @@ Experiment with these options to find the combination that works best for your b
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome AI Search Suggestions Explained](/articles/chrome-ai-search-suggestions-explained)
+- [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained)
+- [How to Limit Chrome RAM Usage on Windows](/articles/how-to-limit-chrome-ram-usage-windows)

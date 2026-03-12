@@ -116,3 +116,9 @@ As web technologies continue to evolve, the line between native applications and
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Slow on MacBook Pro M1? Here's How to Fix It](/articles/chrome-slow-on-macbook-pro-m1)
+- [chrome extensions for privacy badger alternative](/articles/chrome-extensions-for-privacy-badger-alternative)
+- [Chrome Web NFC API Guide](/articles/chrome-web-nfc-api-guide)

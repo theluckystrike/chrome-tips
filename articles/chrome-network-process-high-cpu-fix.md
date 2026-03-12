@@ -90,6 +90,7 @@ Finally, pay attention to how your browser behaves. If you notice new slowdowns 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Helper Renderer High CPU Mac Fix](/chrome-helper-renderer-high-cpu-mac-fix)
-- [Chrome Using 100 Percent CPU Fix Windows](/chrome-using-100-percent-cpu-fix-windows)
-- [Chrome ERR_NETWORK_CHANGED Fix](/chrome-err-network-changed-fix)
+
+- [Chrome IndexedDB vs LocalStorage Comparison](/articles/chrome-indexeddb-vs-localstorage-comparison)
+- [Chrome CORS Error Explained in Simple Terms](/articles/chrome-cors-error-explained-simple-terms)
+- [Chrome Extensions for Tree Style Tabs](/articles/chrome-extensions-for-tree-style-tabs)

@@ -106,3 +106,9 @@ As Chrome continues leading the charge with WebGPU support, now is an excellent 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Voice Control How to Use](/articles/chrome-voice-control-how-to-use)
+- [chrome colorblind mode extensions](/articles/chrome-colorblind-mode-extensions)
+- [Chrome Autofill Credit Card How to Remove](/articles/chrome-autofill-credit-card-how-to-remove)

@@ -60,6 +60,7 @@ Start by trying one extension that matches your primary need. You might find tha
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Duplicate Tab Finder](/chrome-extensions-for-duplicate-tab-finder)
-- [Chrome Extensions for Tab Previewer Hover](/chrome-extensions-for-tab-previewer-hover)
-- [Chrome Extensions for Workona Tab Manager](/chrome-extensions-for-workona-tab-manager)
+
+- [Chrome for Duolingo Web App Optimization](/articles/chrome-for-duolingo-web-app-optimization)
+- [Chrome Scrolling Lag Fix](/articles/chrome-scrolling-lag-fix)
+- [Chrome Media Session API: Mastering Music Controls in Your Browser](/articles/chrome-media-session-api-music-controls)

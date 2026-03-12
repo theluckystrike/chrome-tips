@@ -99,6 +99,7 @@ If you find that managing many Chrome tabs is slowing down your browser and affe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome vs Edge RAM Usage Comparison 2026](/chrome-vs-edge-ram-usage-comparison-2026)
-- [Chrome Playwright Vs Puppeteer Comparison](/chrome-playwright-vs-puppeteer-comparison)
-- [Chrome vs Opera Features Comparison](/chrome-vs-opera-features-comparison)
+
+- [chrome google docs keyboard shortcuts](/articles/chrome-google-docs-keyboard-shortcuts)
+- [Best Chrome Extensions for Netflix](/articles/best-chrome-extensions-for-netflix)
+- [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api)

@@ -70,6 +70,7 @@ Finally, consider your internet connection. If you are on a slow connection, web
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Location History in Browser How to Check](/chrome-location-history-in-browser-how-to-check)
-- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
-- [How to Pin a Website in Chrome Taskbar](/how-to-pin-a-website-in-chrome-taskbar)
+
+- [Chrome for Zoom in Browser Best Settings](/articles/chrome-for-zoom-in-browser-best-settings)
+- [chrome reduce data usage on mobile](/articles/chrome-reduce-data-usage-on-mobile)
+- [chrome mutation observer api explained](/articles/chrome-mutation-observer-api-explained)

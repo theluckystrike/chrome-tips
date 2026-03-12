@@ -64,6 +64,7 @@ Mastering Chrome's history search takes just a few minutes, but it pays off ever
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for iPad Tips and Tricks](/chrome-for-ipad-tips-and-tricks)
-- [Chrome Bookmark Bar Tips And Tricks](/chrome-bookmark-bar-tips-and-tricks)
-- [Chrome on iPhone — Tips and Tricks for 2026](/chrome-on-iphone-tips-and-tricks-2026)
+
+- [Chrome Extension for Batch Downloading Images](/articles/chrome-extension-for-batch-downloading-images)
+- [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)
+- [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/articles/chrome-vs-edge-on-windows-11)

@@ -79,3 +79,9 @@ Give these approaches a try and see how much space you can reclaim. Your browser
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Fullscreen Mode Shortcut](/articles/chrome-fullscreen-mode-shortcut)
+- [How to Set Homepage on Chrome](/articles/how-to-set-homepage-on-chrome)
+- [Chrome About Pages List Explained](/articles/chrome-about-pages-list-explained)

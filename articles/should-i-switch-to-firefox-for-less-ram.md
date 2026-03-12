@@ -88,3 +88,9 @@ The bottom line is this: don't be afraid to try something new. Firefox can make 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Too Many Processes Task Manager](/articles/chrome-too-many-processes-task-manager)
+- [Chrome Web NFC API Guide](/articles/chrome-web-nfc-api-guide)
+- [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage)

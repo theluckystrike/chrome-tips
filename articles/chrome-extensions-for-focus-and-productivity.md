@@ -64,6 +64,7 @@ Remember that extensions are helpers, not magic solutions. They can provide stru
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Meditation and Focus Extensions](/chrome-for-meditation-and-focus-extensions)
-- [Chrome for Citation and Research Extensions](/chrome-for-citation-and-research-extensions)
-- [Chrome for Focus Music Playlists Extensions](/chrome-for-focus-music-playlists-extensions)
+
+- [Chrome Canvas Fingerprinting How to Block](/articles/chrome-canvas-fingerprinting-how-to-block)
+- [Chrome Profile Import From Another Computer](/articles/chrome-profile-import-from-another-computer)
+- [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage/)

@@ -86,6 +86,7 @@ Finally, revisit your keyword research regularly. Search trends change over time
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Organizing Research](/chrome-extensions-for-organizing-research)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome for SEO Keyword Research Extensions](/chrome-for-seo-keyword-research-extensions)
+
+- [Chrome Extensions for HTTP Header Viewer](/articles/chrome-extensions-for-http-header-viewer)
+- [Chrome Extensions for WordPress](/articles/chrome-extensions-for-wordpress)
+- [Chrome Startup Page How to Set](/articles/chrome-startup-page-how-to-set)

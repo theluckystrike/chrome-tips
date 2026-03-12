@@ -80,6 +80,7 @@ As more websites adopt these performance measurement tools, the overall quality 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Badging API Explained](/chrome-badging-api-explained)
-- [Chrome User Timing API Explained](/chrome-user-timing-api-explained)
-- [Chrome Screen Wake Lock API Explained](/chrome-screen-wake-lock-api-explained)
+
+- [Chrome Using 8GB RAM Fix](/articles/chrome-using-8gb-ram-fix)
+- [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to)
+- [Chrome for CodePen in Browser Tips](/articles/chrome-for-codepen-in-browser-tips)

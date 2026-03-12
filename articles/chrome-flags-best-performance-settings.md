@@ -65,6 +65,7 @@ Give these suggestions a try and see how much difference they can make. A faster
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Android Flags Best Settings 2026](/chrome-android-flags-best-settings-2026)
-- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
-- [Chrome Flags Best Settings 2026: The Ultimate Guide](/chrome-flags-best-settings-2026)
+
+- [Chrome Notification Badge on PWA How to Enable](/articles/chrome-notification-badge-on-pwa-how-to-enable)
+- [Chrome WebGL Crashing My Browser](/articles/chrome-webgl-crashing-my-browser)
+- [Chrome for SEO Keyword Research Extensions](/articles/chrome-for-seo-keyword-research-extensions)

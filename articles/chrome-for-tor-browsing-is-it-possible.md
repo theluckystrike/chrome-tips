@@ -71,6 +71,7 @@ For more tips on optimizing your browser for both performance and security, the 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)
-- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
-- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)
+
+- [How to Customize Chrome Toolbar](/articles/how-to-customize-chrome-toolbar)
+- [Chrome Best Settings for Gaming](/articles/chrome-best-settings-for-gaming)
+- [chrome trusted types dom xss prevent](/articles/chrome-trusted-types-dom-xss-prevent)

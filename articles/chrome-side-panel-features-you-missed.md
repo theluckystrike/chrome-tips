@@ -74,6 +74,7 @@ You might find that the simple addition of quick access to bookmarks and your re
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extension Side Panel Tutorial](/chrome-extension-side-panel-tutorial)
-- [Chrome Experimental Features Worth Trying 2026](/chrome-experimental-features-worth-trying-2026)
-- [Chrome Side Panel — How to Use It Effectively](/chrome-side-panel-how-to-use)
+
+- [Chrome Built-In PDF Editor Guide](/articles/chrome-pdf-editor-built-in)
+- [Chrome Default Apps Settings: A Complete Guide](/articles//chrome-default-apps-settings/)
+- [Best Screenshot Chrome Extension](/articles/best-screenshot-chrome-extension)

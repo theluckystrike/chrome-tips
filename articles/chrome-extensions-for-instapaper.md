@@ -64,6 +64,7 @@ Many users find that using these tools together transforms their browsing habits
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+
+- [chrome extensions for screen dimmer](/articles/chrome-extensions-for-screen-dimmer)
+- [Chrome Extensions for Resume Building](/articles/chrome-extensions-for-resume-building)
+- [Best Chrome Extensions for Remote Workers 2026](/articles/best-chrome-extensions-for-remote-workers-2026)

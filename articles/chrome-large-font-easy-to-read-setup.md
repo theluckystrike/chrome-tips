@@ -81,6 +81,7 @@ Remember that everyone has different needs when it comes to text size and readab
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Network Waterfall How to Read](/chrome-network-waterfall-how-to-read)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+
+- [Free Chrome Extensions Better Than Paid Apps](/articles/free-chrome-extensions-better-than-paid-apps)
+- [Chrome Overscroll Behavior CSS](/articles/chrome-overscroll-behavior-css)
+- [Best Chrome Setup For Graphic Designers](/articles/best-chrome-setup-for-graphic-designers)

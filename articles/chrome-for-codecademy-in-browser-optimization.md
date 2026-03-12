@@ -78,6 +78,7 @@ A smoother Codecademy experience is within reach. Close unnecessary tabs, trim d
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)
-- [Chrome For Twitch Streaming Setup In Browser](/chrome-for-twitch-streaming-setup-in-browser)
-- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
+
+- [Must Have Chrome Extensions for Students](/articles/must-have-chrome-extensions-for-students)
+- [Chrome DNS Probe Finished Nxdomain Fix](/articles/chrome-dns-probe-finished-nxdomain-fix)
+- [chrome for onenote web clipper setup](/articles/chrome-for-onenote-web-clipper-setup)

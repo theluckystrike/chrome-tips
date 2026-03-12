@@ -114,3 +114,9 @@ Learning how to drag and drop tabs between windows in Chrome is a simple but pow
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for iPad Tips and Tricks](/articles/chrome-for-ipad-tips-and-tricks)
+- [chrome trusted types dom xss prevent](/articles/chrome-trusted-types-dom-xss-prevent)
+- [Chrome Extensions for Microsoft Teams](/articles/chrome-extensions-for-microsoft-teams)

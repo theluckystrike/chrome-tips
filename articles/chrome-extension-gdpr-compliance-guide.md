@@ -488,6 +488,7 @@ For additional privacy features in your extension workflow, consider exploring t
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
 ## Related Articles
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
-- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
-- [Chrome for StayFocusd Extension Guide](/chrome-for-stayfocusd-extension-guide)
+
+- [Chrome Keeps Freezing Every Few Minutes: Causes and Fixes](/articles/chrome-keeps-freezing-every-few-minutes)
+- [Chrome Overscroll Behavior CSS](/articles/chrome-overscroll-behavior-css)
+- [Ungoogled Chromium What It Is and How to Install](/articles/ungoogled-chromium-what-it-is-and-how-to-install)

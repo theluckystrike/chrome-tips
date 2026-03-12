@@ -82,6 +82,7 @@ You might also consider whether your Chrome profile itself has become corrupted 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Search Engine Keeps Changing to Yahoo Fix](/chrome-search-engine-keeps-changing-to-yahoo-fix)
-- [Chrome Forward Button Greyed Out Fix](/chrome-forward-button-greyed-out-fix)
-- [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
+
+- [chrome stale while revalidate strategy explained](/articles/chrome-stale-while-revalidate-strategy-explained)
+- [Chrome Largest Contentful Paint Explained](/articles/chrome-largest-contentful-paint-explained)
+- [Chrome for Google Sheets Tips and Tricks](/articles/chrome-for-google-sheets-tips-and-tricks)

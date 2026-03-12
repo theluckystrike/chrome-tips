@@ -70,6 +70,7 @@ Shopping on Costco.com using Chrome can be a convenient and efficient way to sto
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Walmart Grocery Web Tips](/chrome-for-walmart-grocery-web-tips)
-- [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
-- [Chrome for Evernote Web Clipper Tips](/chrome-for-evernote-web-clipper-tips)
+
+- [Chrome Google Search Not Working Fix](/articles/chrome-google-search-not-working-fix)
+- [Best Extensions for Tab Management Chrome](/articles/best-extensions-for-tab-management-chrome)
+- [Chrome Lite Mode Does It Still Exist](/articles/chrome-lite-mode-does-it-still-exist)

@@ -91,6 +91,6 @@ You might also want to try lighter browsers for everyday tasks and reserve Chrom
 
 ## Related Articles
 
-* [Chrome 64 bit vs 32 bit How to Check](/chrome-64-bit-vs-32-bit-how-to-check)
-* [Chrome Extensions for Podcasters](/chrome-extensions-for-podcasters)
-* [Chrome for Etsy Seller Best Extensions](/chrome-for-etsy-seller-best-extensions)
+- [How to Increase Chrome Cache Size](/articles/chrome-cache-size-how-to-increase)
+- [Chrome Lighthouse Treemap Explained](/articles/chrome-lighthouse-treemap-explained)
+- [Chrome Scrolling Lag Fix](/articles/chrome-scrolling-lag-fix)

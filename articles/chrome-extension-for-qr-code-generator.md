@@ -81,3 +81,9 @@ When choosing an extension, focus on ease of use, reliability, and the specific 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Update Chrome on Android](/articles/how-to-update-chrome-on-android)
+- [How to Search Open Chrome Tabs](/articles/how-to-search-open-chrome-tabs)
+- [Chrome Startup Pages Configuration](/articles/chrome-startup-pages-config)

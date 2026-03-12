@@ -62,6 +62,7 @@ Experiment with different extensions to find the combination that works best for
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+
+- [Chrome Mobile Tips Save Data Usage](/articles/chrome-mobile-tips-save-data-usage)
+- [Chrome Autofill Wrong Address How to Fix](/articles/chrome-autofill-wrong-address-how-to-fix)
+- [Chrome Content Blocker vs Ad Blocker Difference](/articles/chrome-content-blocker-vs-ad-blocker-difference)

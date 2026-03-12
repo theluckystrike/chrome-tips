@@ -60,3 +60,9 @@ Remember that while these extensions make browsing more pleasant, they do not el
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Highlighting Text on Web](/articles/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Password Manager vs Bitwarden: Which One Should You Use?](/articles/chrome-password-manager-vs-bitwarden)
+- [Best Chrome Extensions for Online Research](/articles/chrome-extensions-for-online-research)

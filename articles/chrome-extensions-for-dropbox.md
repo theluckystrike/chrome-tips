@@ -62,6 +62,7 @@ Start with one or two extensions that address your biggest pain points. See how 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+
+- [Chrome Browser vs App Which Uses More Data](/articles/chrome-browser-vs-app-which-uses-more-data)
+- [Chrome Profile Specific Extensions How to Set](/articles/chrome-profile-specific-extensions-how-to-set)
+- [Chrome for TickTick in Browser Tips](/articles/chrome-for-ticktick-in-browser-tips)

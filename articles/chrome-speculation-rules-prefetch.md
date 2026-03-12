@@ -101,3 +101,9 @@ For regular users, there's nothing specific you need to do to benefit from specu
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Save Chrome Tabs for Later](/articles/how-to-save-chrome-tabs-for-later)
+- [Chrome Built-In PDF Editor Guide](/articles/chrome-pdf-editor-built-in)
+- [How to Do a Reverse Image Search in Chrome Without an Extension](/articles/chrome-reverse-image-search-without-extension)

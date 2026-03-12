@@ -81,3 +81,9 @@ To check for updates, open Chrome and look for the three dots menu in the top ri
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location)
+- [Chrome View Page Source: What It Tells You](/articles/chrome-view-page-source-what-it-tells-you)
+- [chrome fingerprint protection 2026](/articles/chrome-fingerprint-protection-2026)

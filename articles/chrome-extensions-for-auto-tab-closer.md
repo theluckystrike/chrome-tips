@@ -82,3 +82,9 @@ Remember that managing tabs is about more than just performance. It is also abou
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Pop Ups on Phone How to Block](/articles/chrome-pop-ups-on-phone-how-to-block)
+- [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use)
+- [Chrome Navigate to Next Search Result Shortcut](/articles/chrome-navigate-to-next-search-result-shortcut)

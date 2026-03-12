@@ -72,3 +72,9 @@ Form filling does not have to be a tedious chore. With the right chrome extensio
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Email Tracking Read Receipts](/articles//articles/chrome-extensions-for-email-tracking-read-receipts/)
+- [How to Use the Chrome Inert Attribute to Disable Interaction](/articles/chrome-inert-attribute-disable-interaction)
+- [Chrome Opens by Itself Randomly Fix](/articles/chrome-opens-by-itself-randomly-fix)

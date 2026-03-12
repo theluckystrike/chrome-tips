@@ -97,3 +97,9 @@ Remember that these settings are not static. As your needs change and new applic
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Credential Management API: Complete Guide for Developers](/articles/chrome-credential-management-api)
+- [YouTube Buffering on Chrome But Not Firefox: Why and How to Fix It](/articles/youtube-buffering-on-chrome-but-not-firefox)
+- [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix)

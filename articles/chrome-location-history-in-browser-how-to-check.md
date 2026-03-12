@@ -64,6 +64,7 @@ Extensions designed for tab management can help you maintain this organization w
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Check Website Speed in Chrome](/how-to-check-website-speed-in-chrome)
-- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
-- [Chrome Browser Fingerprint How To Check Yours](/chrome-browser-fingerprint-how-to-check-yours)
+
+- [Chrome Extension GDPR Compliance Guide](/articles/chrome-extension-gdpr-compliance-guide)
+- [Chrome Live Captions Languages: Complete Setup Guide](/articles/chrome-live-captions-languages)
+- [Chrome Microphone Permission for One Site How to Set](/articles/chrome-microphone-permission-for-one-site-how-to-set)

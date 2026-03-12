@@ -82,6 +82,7 @@ You can also temporarily disable LeechBlock if you need to access a blocked site
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Metamask Setup And Tips](/chrome-for-metamask-setup-and-tips)
-- [Chrome for iPad Tips and Tricks](/chrome-for-ipad-tips-and-tricks)
-- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)
+
+- [Chrome Slow on Windows 10 Old Laptop Fix](/articles/chrome-slow-on-windows-10-old-laptop-fix)
+- [Chrome for Calendar Management Extensions](/articles/chrome-for-calendar-management-extensions)
+- [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable)

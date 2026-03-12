@@ -55,6 +55,7 @@ Learning how to allow pop ups for one site in Chrome gives you precise control o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Allow Popups for One Site How To](/chrome-allow-popups-for-one-site-how-to)
-- [How to Allow Pop Ups on One Site Chrome](/how-to-allow-pop-ups-on-one-site-chrome)
-- [Chrome Camera Permission for One Site How to Set](/chrome-camera-permission-for-one-site-how-to-set)
+
+- [chrome voice search enable](/articles/chrome-voice-search-enable)
+- [Chrome Lite Mode Replacement 2026](/articles/chrome-lite-mode-replacement-2026)
+- [chrome for audible web player tips](/articles/chrome-for-audible-web-player-tips)

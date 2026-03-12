@@ -77,6 +77,7 @@ Remember that many rendering problems are caused by having too many tabs open or
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
-- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
-- [Chrome Tab Organize AI Feature Explained](/chrome-tab-organize-ai-feature-explained)
+
+- [How to Use Chrome Task Manager to Find Slow Tabs](/articles/how-to-use-chrome-task-manager-to-find-slow-tabs)
+- [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop)
+- [Chrome for Zoom in Browser Best Settings](/articles/chrome-for-zoom-in-browser-best-settings)

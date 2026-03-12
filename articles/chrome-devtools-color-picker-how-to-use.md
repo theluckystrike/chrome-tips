@@ -76,6 +76,7 @@ Chrome DevTools has many features beyond the color picker, and the more you expl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Devtools Snippets How to Use](/chrome-devtools-snippets-how-to-use)
-- [Chrome Devtools Recorder Panel How To Use](/chrome-devtools-recorder-panel-how-to-use)
-- [Chrome Tab Color Coding How to Use](/chrome-tab-color-coding-how-to-use)
+
+- [Chrome Offscreen Canvas Performance: A Complete Guide](/articles/chrome-offscreen-canvas-performance)
+- [Chrome Cross Device Tab Sync Not Working Fix](/articles/chrome-cross-device-tab-sync-not-working-fix)
+- [Chrome Extensions for Table Data Extractor](/articles/chrome-extensions-for-table-data-extractor)

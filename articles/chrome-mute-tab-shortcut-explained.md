@@ -78,3 +78,9 @@ Chrome's mute tab shortcut explained simply is about giving you quick, keyboard-
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling)
+- [chrome for pinterest web clipper](/articles/chrome-for-pinterest-web-clipper)
+- [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained)

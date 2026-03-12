@@ -61,3 +61,9 @@ If you find that Chrome is running slower with many open tabs, consider using Ta
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Web Vitals What They Mean](/articles/chrome-web-vitals-what-they-mean)
+- [Chrome How to Print Selection Only](/articles/chrome-how-to-print-selection-only)
+- [Chrome Two Factor Authentication Setup Guide](/articles/chrome-two-factor-authentication-setup-guide)

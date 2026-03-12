@@ -86,3 +86,9 @@ Your privacy is worth the small amount of time it takes to understand these sett
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Set Methods: Union and Intersection Made Simple](/articles/chrome-set-methods-union-intersection)
+- [chrome extensions for screenshot full page](/articles/chrome-extensions-for-screenshot-full-page)
+- [Chrome Flags That Actually Help Performance](/articles/chrome-flags-that-actually-help-performance)

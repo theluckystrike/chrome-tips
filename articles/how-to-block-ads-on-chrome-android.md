@@ -72,6 +72,7 @@ Blocking ads on Chrome Android is entirely possible with the right combination o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
-- [Chrome Permissions on Android How to Manage](/chrome-permissions-on-android-how-to-manage)
-- [Chrome Pop Ups on Phone How to Block](/chrome-pop-ups-on-phone-how-to-block)
+
+- [Chrome for Autofill Credit Card Safety](/articles/chrome-for-autofill-credit-card-safety)
+- [Chrome Extensions for Background Remover](/articles/chrome-extensions-for-background-remover)
+- [chrome pwa storage quota how much space](/articles/chrome-pwa-storage-quota-how-much-space)

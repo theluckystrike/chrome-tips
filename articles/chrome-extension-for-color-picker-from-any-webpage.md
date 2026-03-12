@@ -75,3 +75,9 @@ Whether you are collecting colors for a design project, matching a brand color, 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Reader View on Any Website](/articles/chrome-for-reader-view-on-any-website)
+- [Chrome Large Font Easy to Read Setup](/articles/chrome-large-font-easy-to-read-setup)
+- [Chrome Zoom Too Big How to Fix](/articles/chrome-zoom-too-big-how-to-fix)

@@ -155,3 +155,9 @@ The "chrome scrolling is choppy and laggy" problem is usually fixable with the s
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Shared Storage API Explained](/articles/chrome-shared-storage-api-explained)
+- [Chrome Content Filtering for Families](/articles/chrome-content-filtering-for-families)
+- [How to Use Chrome DevTools for Beginners](/articles/how-to-use-chrome-devtools-for-beginners)

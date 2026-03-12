@@ -59,6 +59,7 @@ Using tools like this, along with keeping your browser updated, can help you get
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Long Tasks API Explained](/chrome-long-tasks-api-explained)
-- [Chrome Screen Wake Lock API Explained](/chrome-screen-wake-lock-api-explained)
-- [Chrome Resize Observer API Explained](/chrome-resize-observer-api-explained)
+
+- [Chrome Accessibility Shortcuts For Screen Reader](/articles/chrome-accessibility-shortcuts-for-screen-reader)
+- [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut)
+- [chrome tab memory usage how to check](/articles/chrome-tab-memory-usage-how-to-check)

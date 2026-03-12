@@ -67,6 +67,7 @@ Whether you choose to actively manage these background processes or use tools to
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
-- [Chrome Badging API Explained](/chrome-badging-api-explained)
-- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)
+
+- [chrome global privacy control what it does](/articles/chrome-global-privacy-control-what-it-does)
+- [chrome reduce data usage on mobile](/articles/chrome-reduce-data-usage-on-mobile)
+- [chrome zoom default change](/articles/chrome-zoom-default-change)

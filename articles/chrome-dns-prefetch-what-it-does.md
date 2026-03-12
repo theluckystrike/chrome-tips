@@ -55,6 +55,7 @@ Try browsing the way you normally do and pay attention to how quickly pages star
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Pin Tab What It Does Explained](/chrome-pin-tab-what-it-does-explained)
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
-- [Chrome Password Checkup What It Does](/chrome-password-checkup-what-it-does)
+
+- [Chrome Sync What Data Gets Synced](/articles/chrome-sync-what-data-gets-synced)
+- [chrome for twitch streaming setup in browser](/articles/chrome-for-twitch-streaming-setup-in-browser)
+- [Chrome Encoding API Text Encoder Decoder](/articles/chrome-encoding-api-text-encoder-decoder)

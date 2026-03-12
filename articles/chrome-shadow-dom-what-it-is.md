@@ -35,6 +35,7 @@ In conclusion, Shadow DOM is a powerful web technology that creates protected bo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
-- [Chrome User Agent String: What It Is and How It Works](/chrome-user-agent-string-what-it-is)
+
+- [Chromebook vs MacBook for College](/articles/chromebook-vs-macbook-for-college)
+- [Chrome Notifications Won't Stop Popping Up? Here's How to Fix It](/articles/chrome-notifications-wont-stop-popping-up)
+- [chrome themes how to change and customize](/articles/chrome-themes-how-to-change-and-customize)

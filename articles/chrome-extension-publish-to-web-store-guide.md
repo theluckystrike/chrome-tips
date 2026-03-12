@@ -76,3 +76,9 @@ Publishing your Chrome extension to the Web Store requires effort, but following
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome how to allow popups for one site](/articles/chrome-how-to-allow-popups-for-one-site)
+- [chrome reading list vs bookmarks](/articles/chrome-reading-list-vs-bookmarks)
+- [Chrome Managed Bookmarks for Employees](/articles/chrome-managed-bookmarks-for-employees)

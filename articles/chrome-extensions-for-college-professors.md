@@ -62,6 +62,7 @@ If you find that your browser is still running slowly despite keeping a reasonab
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+
+- [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization)
+- [How to Use Chrome Device Emulation to Test Your Mobile Website](/articles//chrome-device-emulation-test-mobile-website/)
+- [Chrome Autocomplete Wrong Suggestions How to Fix](/articles/chrome-autocomplete-wrong-suggestions-how-to-fix)

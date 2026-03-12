@@ -97,6 +97,7 @@ By following these tips and maintaining good browser hygiene, you can enjoy your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Salesforce Web App Optimization](/chrome-for-salesforce-web-app-optimization)
-- [Chrome For Odysee Web Player Tips](/chrome-for-odysee-web-player-tips)
-- [Chrome For Rumble Web Player Settings](/chrome-for-rumble-web-player-settings)
+
+- [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained)
+- [Why Chrome Is Slow on Battery But Fast When Plugged In](/articles/chrome-slow-on-battery-but-fast-plugged-in)
+- [Chrome Site Isolation Explained for Users](/articles/chrome-site-isolation-explained-for-users)

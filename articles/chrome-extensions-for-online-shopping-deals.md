@@ -72,6 +72,7 @@ Once you start using shopping extensions consistently, you will wonder how you e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Online Research](/chrome-extensions-for-online-research)
-- [Best Chrome Extensions For Teachers Online](/best-chrome-extensions-for-teachers-online)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/articles/chrome-err-cert-authority-invalid-fix)
+- [Chrome Zoom Too Big How to Fix](/articles/chrome-zoom-too-big-how-to-fix)
+- [Chrome for Ebook Reading Best Extensions](/articles/chrome-for-ebook-reading-best-extensions)

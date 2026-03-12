@@ -90,3 +90,9 @@ Knowing where Chrome stores extension files gives you more control over your bro
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Tab Search Feature How to Use](/articles/chrome-tab-search-feature-how-to-use)
+- [Best Ad Blocker Chrome Extension 2026](/articles/best-ad-blocker-chrome-extension-2026)
+- [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs)

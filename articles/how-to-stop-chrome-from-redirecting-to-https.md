@@ -78,6 +78,7 @@ Taking a moment to understand these settings gives you more flexibility while ke
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.
 
 ## Related Articles
-- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)
-- [How to See Chrome Tabs From Other Devices](/chrome-tabs-from-other-devices-how-to-see)
-- [How to Stop Chrome from Suspending My Tabs](/how-to-stop-chrome-from-suspending-my-tabs)
+
+- [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/articles/chrome-extensions-developer-mode)
+- [Chrome Extensions for Google Calendar](/articles/chrome-extensions-for-google-calendar)
+- [Chrome for Babbel Web App Tips](/articles/chrome-for-babbel-web-app-tips)

@@ -83,6 +83,7 @@ Try installing one or two extensions at a time so you can learn how each one wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Writers 2026](/best-chrome-extensions-for-writers-2026)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
+
+- [Chrome Google Calendar Quick Add from Browser](/articles/chrome-google-calendar-quick-add-from-browser)
+- [Chrome Extensions for Mouse Gestures Navigation](/articles/chrome-extensions-for-mouse-gestures-navigation)
+- [Chrome Extension Alternative to Grammarly Free](/articles/chrome-extension-alternative-to-grammarly-free)

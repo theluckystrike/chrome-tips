@@ -79,6 +79,7 @@ With a little attention to what you install and how you use your browser, you ca
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
-- [Chrome Reset Flags to Default How To](/chrome-reset-flags-to-default-how-to)
-- [How To Make Chrome Default Browser Windows 11](/how-to-make-chrome-default-browser-windows-11)
+
+- [Chrome for YouTube 4K Playback Settings](/articles/chrome-for-youtube-4k-playback-settings)
+- [Chrome Energy Saver Mode What Does It Do](/articles/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome for Proxy Settings How to Configure](/articles/chrome-for-proxy-settings-how-to-configure)

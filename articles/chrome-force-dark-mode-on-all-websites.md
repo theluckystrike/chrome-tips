@@ -80,6 +80,7 @@ Start by trying the Chrome Flags method first, since it requires no installation
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Dark Mode on Phone How to Enable](/chrome-dark-mode-on-phone-how-to-enable)
-- [Chrome Reader Mode How To Turn On 2026](/chrome-reader-mode-how-to-turn-on-2026)
-- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
+
+- [chrome browser process vs tab process explained](/articles/chrome-browser-process-vs-tab-process-explained)
+- [How to Set Chrome as Default Browser Windows 11](/articles/how-to-set-chrome-as-default-browser-windows-11)
+- [Chrome Update Failed Error 12 Fix](/articles/chrome-update-failed-error-12-fix)

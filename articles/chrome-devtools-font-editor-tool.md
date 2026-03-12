@@ -73,6 +73,7 @@ The chrome devtools font editor tool is a powerful feature that many users do no
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
-- [Chrome Font Too Small on Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
-- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
+
+- [Chrome Browser Games Performance Tips](/articles/chrome-browser-games-performance-tips)
+- [Chrome Tab Organize AI Feature Explained](/articles/chrome-tab-organize-ai-feature-explained)
+- [Chrome for Password Security Best Practices](/articles/chrome-for-password-security-best-practices)

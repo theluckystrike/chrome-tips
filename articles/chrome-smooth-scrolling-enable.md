@@ -90,3 +90,9 @@ Give smooth scrolling a try and see how it works for you. Once you experience th
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions Permissions Explained Simply](/articles/chrome-extensions-permissions-explained-simply)
+- [Chrome Enterprise Features for Business: A Complete Guide](/articles/chrome-enterprise-features-for-business)
+- [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix)

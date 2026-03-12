@@ -76,6 +76,7 @@ Give these tips a try and see which ones work best for your browsing habits.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
-- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
+
+- [Chrome Freezing Every Few Minutes? Here's What to Do](/articles/chrome-freezing-every-few-minutes)
+- [Chrome Find on Page Shortcut Tips](/articles/chrome-find-on-page-shortcut-tips)
+- [Chrome for Keyboard Shortcut Customization](/articles/chrome-for-keyboard-shortcut-customization)

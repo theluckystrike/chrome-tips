@@ -95,6 +95,7 @@ Try restarting Chrome at the start of your workday or after lunch. This simple h
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)
-- [Chrome for Note Taking in Browser Extensions](/chrome-for-note-taking-in-browser-extensions)
+
+- [Chrome Extensions for API Testing Simple](/articles/chrome-extensions-for-api-testing-simple)
+- [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/articles/chrome-vs-edge-on-windows-11)
+- [Chrome Fullscreen Mode Shortcut](/articles/chrome-fullscreen-mode-shortcut)

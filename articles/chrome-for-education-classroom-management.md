@@ -85,3 +85,9 @@ Finally, remember that technology should support your teaching goals rather than
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome vs Firefox 2026 Comparison](/articles/chrome-vs-firefox-2026)
+- [Chrome Live Captions Feature Guide](/articles/chrome-live-captions-feature)
+- [Chrome Clear Browsing Data Shortcut](/articles/chrome-clear-browsing-data-shortcut)

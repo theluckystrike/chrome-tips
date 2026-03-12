@@ -69,3 +69,9 @@ Start with your most important accounts, like your Google account and your prima
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Spotify Lyrics](/articles/chrome-extension-for-spotify-lyrics)
+- [Chrome Using Too Much Disk Space: A Complete Guide](/articles/chrome-using-too-much-disk-space)
+- [Chrome Google Account Privacy Settings Guide](/articles/chrome-google-account-privacy-settings-guide)

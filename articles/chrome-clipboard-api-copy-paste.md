@@ -148,6 +148,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Reset All Settings: What Gets Deleted](/chrome-reset-all-settings-what-gets-deleted)
-* [Chrome Attribution Reporting API Explained](/chrome-attribution-reporting-api-explained)
-* [Chrome Secure DNS: What It Is and How to Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)
+- [chrome enhanced tracking protection setup](/articles/chrome-enhanced-tracking-protection-setup)
+- [Chrome vs Safari for iPhone Which is Better](/articles/chrome-vs-safari-for-iphone-which-is-better)
+- [Chrome Biometric Login How To Set Up](/articles/chrome-biometric-login-how-to-set-up)

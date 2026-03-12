@@ -84,6 +84,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Extensions for Session Saver Restore](/chrome-extensions-for-session-saver-restore)
-* [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/chrome-whatsapp-web-not-connecting-fix)
-* [Chrome PWA Install Prompt Not Showing Fix](/chrome-pwa-install-prompt-not-showing-fix)
+- [Chromebook Storage Full How to Free Space](/articles/chromebook-storage-full-how-to-free-space)
+- [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change)
+- [Chrome for Microsoft Teams in Browser Tips](/articles/chrome-for-microsoft-teams-in-browser-tips)

@@ -72,6 +72,7 @@ Remember that extensions work best when they solve real problems rather than add
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+
+- [How to Enable Chrome Tab Hover Previews](/articles/how-to-enable-chrome-tab-hover-previews)
+- [Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide](/articles/chrome-amazon-prime-video-not-playing-fix)
+- [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use)

@@ -68,6 +68,7 @@ Start with one extension and give yourself time to adjust to the new workflow. O
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome for Language Translation Extensions Comparison](/chrome-for-language-translation-extensions-comparison)
+
+- [How to Fix Chrome Cache Too Large and Slow Performance](/articles/chrome-cache-too-large-slow-fix)
+- [How to Improve Chrome WebGL Performance](/articles/chrome-webgl-performance-how-to-improve)
+- [How to Disable Chrome Auto Update on Windows](/articles/chrome-auto-update-disable-windows-guide)

@@ -73,6 +73,7 @@ Web developers also find print emulation valuable for testing. Rather than print
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
-- [Chrome How to Print Selection Only](/chrome-how-to-print-selection-only)
-- [Chrome Print to PDF How to Save Webpage](/chrome-print-to-pdf-how-to-save-webpage)
+
+- [Chrome How to Clear Individual Site Data](/articles/chrome-how-to-clear-individual-site-data)
+- [Chrome Reading Mode Hidden Feature](/articles/chrome-reading-mode-hidden-feature)
+- [How to Use Chrome Net Internals to Clear DNS Cache](/articles/chrome-net-internals-dns-clear-cache)

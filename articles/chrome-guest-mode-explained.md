@@ -106,3 +106,9 @@ Remember that Guest Mode is best for short-term, casual use. For ongoing privacy
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome location services how to turn off](/articles/chrome-location-services-how-to-turn-off)
+- [How to Capture Network Logs in Chrome Using Net Export](/articles/chrome-net-export-capture-network-log)
+- [Chrome Compute Pressure API Explained: What It Means for Your Browser](/articles/chrome-compute-pressure-api-explained)

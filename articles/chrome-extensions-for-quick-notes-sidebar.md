@@ -76,6 +76,7 @@ Finally, consider how your notes fit into your broader productivity system. If y
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Extensions for Vertical Tabs Sidebar](/chrome-extensions-for-vertical-tabs-sidebar)
+
+- [Chrome Extensions for Markdown Editor Preview](/articles/chrome-extensions-for-markdown-editor-preview)
+- [Chrome Time to First Byte Explained](/articles/chrome-time-to-first-byte-explained)
+- [chrome classroom extension for teachers](/articles/chrome-classroom-extension-for-teachers)

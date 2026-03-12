@@ -63,6 +63,7 @@ The right combination of extensions can transform StackOverflow from a helpful b
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome for Coupon Finding Best Extensions](/chrome-for-coupon-finding-best-extensions)
-- [Chrome for LinkedIn Best Extensions](/chrome-for-linkedin-best-extensions)
+
+- [Chrome for Keyboard Shortcut Customization](/articles/chrome-for-keyboard-shortcut-customization)
+- [Chrome for Canvas LMS Best Extensions](/articles/chrome-for-canvas-lms-best-extensions)
+- [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure)

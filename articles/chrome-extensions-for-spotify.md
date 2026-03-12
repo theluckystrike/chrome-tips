@@ -72,6 +72,7 @@ Once you start using these extensions, you will wonder how you ever listened to 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+
+- [Chrome vs Arc Browser: Should I Switch?](/articles/chrome-vs-arc-browser-should-i-switch)
+- [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained)
+- [Chrome Slow on Android Fix](/articles/chrome-slow-on-android-fix)

@@ -60,6 +60,7 @@ Practice single-tasking whenever possible. Instead of keeping dozens of tabs ope
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+
+- [chrome for twitch buffering fix](/articles/chrome-for-twitch-buffering-fix)
+- [Chrome Family Link How to Use on Desktop](/articles/chrome-family-link-how-to-use-on-desktop)
+- [Computer Fan Goes Crazy When Chrome Opens - Fix It Fast](/articles/computer-fan-goes-crazy-when-chrome-opens)

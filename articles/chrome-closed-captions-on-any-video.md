@@ -75,6 +75,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Should I Use Chrome or Edge in 2026?](/should-i-use-chrome-or-edge-2026)
-* [Chrome IndexedDB vs LocalStorage Comparison](/chrome-indexeddb-vs-localstorage-comparison)
-* [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
+- [Chrome View Page Resources How to](/articles/chrome-view-page-resources-how-to)
+- [Chrome Extensions For Bulk Image Downloading](/articles//articles/chrome-extensions-for-bulk-image-downloading/)
+- [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix)

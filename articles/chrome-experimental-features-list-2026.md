@@ -102,3 +102,9 @@ Start with the features that address your biggest frustrations with Chrome. If y
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Payment Request API Guide](/articles/chrome-payment-request-api)
+- [Chrome Service Workers List How to View](/articles/chrome-service-workers-list-how-to-view)
+- [Chrome Predictive Loading How to Turn Off](/articles/chrome-predictive-loading-how-to-turn-off)

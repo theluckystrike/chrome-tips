@@ -68,3 +68,9 @@ To explore this feature, try visiting browser-based design tools that support lo
 As web design continues evolving, Chrome's Local Font Access API empowers you to work more efficiently and creatively. Embrace these capabilities to streamline your design process and deliver better results for your projects.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Journeys Feature in History Explained](/articles/chrome-journeys-feature-in-history-explained)
+- [Chromebook Android Apps Not Working Fix](/articles/chromebook-android-apps-not-working-fix)
+- [How to Set Up Chrome Pop Up Blocker Exceptions](/articles/chrome-pop-up-blocker-exceptions)

@@ -80,6 +80,7 @@ Other helpful extensions include design tools that integrate with your email wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Asana Web App Tips](/chrome-for-asana-web-app-tips)
-- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
-- [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
+
+- [Chrome 2026 New Features Overview](/articles/chrome-2026-new-features-overview)
+- [How to Speed Up Chrome on Chromebook in 2026](/articles/how-to-speed-up-chrome-on-chromebook-2026)
+- [Chrome Extension Permissions Best Practices](/articles/chrome-extension-permissions-best-practices)

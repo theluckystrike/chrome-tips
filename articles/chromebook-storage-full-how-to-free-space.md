@@ -74,6 +74,7 @@ Running out of storage on your Chromebook does not mean you need a new device. B
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chromebook Parental Controls How to Set Up](/chromebook-parental-controls-how-to-set-up)
-- [Chromebook Linux Apps How To Install](/chromebook-linux-apps-how-to-install)
-- [Chrome Storage Inspector How to Use](/chrome-storage-inspector-how-to-use)
+
+- [Chrome Extension for Reading Speed Tracker](/articles/chrome-extension-for-reading-speed-tracker)
+- [Chrome Zoom Too Big How to Fix](/articles/chrome-zoom-too-big-how-to-fix)
+- [chrome high memory usage after sleep fix](/articles/chrome-high-memory-usage-after-sleep-fix)

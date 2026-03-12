@@ -90,6 +90,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Send to Device Feature How to Use](/chrome-send-to-device-feature-how-to-use)
-* [Best Chrome Extensions for Marketing Professionals](/best-chrome-extensions-for-marketing-professionals)
-* [Chrome Opens in Small Window Fix](/chrome-opens-in-small-window-fix)
+- [How to Fix Chrome Mixed Content Warning](/articles/chrome-mixed-content-warning-fix)
+- [Chrome Game Streaming Optimization Tips](/articles/chrome-game-streaming-optimization-tips)
+- [chrome for google finance tips](/articles/chrome-for-google-finance-tips)

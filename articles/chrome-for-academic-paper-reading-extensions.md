@@ -80,6 +80,7 @@ Once you find the right combination of extensions, you will notice improvements 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome for Speed Reading Extensions](/chrome-for-speed-reading-extensions)
+
+- [Chrome Screen Capture API Guide](/articles/chrome-screen-capture-api)
+- [Chrome High CPU Usage When Watching Videos: Practical Fixes](/articles/chrome-high-cpu-usage-when-watching-videos)
+- [chrome restricted mode youtube how to enable](/articles/chrome-restricted-mode-youtube-how-to-enable)

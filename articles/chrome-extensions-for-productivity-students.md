@@ -88,3 +88,9 @@ Remember that productivity tools work best when they support your natural workfl
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Close All Chrome Tabs at Once](/articles/how-to-close-all-chrome-tabs-at-once)
+- [How to Enable Chrome Parallel Downloading](/articles/how-to-enable-chrome-parallel-downloading)
+- [Chrome Web Storage Limits Explained](/articles/chrome-web-storage-limits-explained)

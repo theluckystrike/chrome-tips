@@ -70,6 +70,7 @@ Remember that the goal is to simplify your work, not complicate it. Choose exten
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome For Window Management Extensions](/chrome-for-window-management-extensions)
-- [Chrome for Bibliography Management Extensions](/chrome-for-bibliography-management-extensions)
+
+- [Chrome Not Loading Pages But Internet Works: Complete Fix Guide](/articles/chrome-not-loading-pages-but-internet-works)
+- [Chrome for Notion Web Clipper Setup](/articles/chrome-for-notion-web-clipper-setup)
+- [How to Block Ads on Chrome Without Extension](/articles/how-to-block-ads-on-chrome-without-extension)

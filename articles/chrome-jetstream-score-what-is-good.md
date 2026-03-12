@@ -74,6 +74,7 @@ A good Chrome JetStream score is typically 150 or higher, with scores above 200 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Guest Browsing: What Data Is Saved](/chrome-guest-browsing-what-data-is-saved)
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chrome Shadow DOM What It Is](/chrome-shadow-dom-what-it-is)
+
+- [Chrome Extension for Email Tracking Notification](/articles/chrome-extension-for-email-tracking-notification)
+- [Chrome Memory Saver Explained: How to Reduce Browser RAM Usage](/articles/chrome-memory-saver-explained)
+- [Chrome Extensions for Networking](/articles/chrome-extensions-for-networking)

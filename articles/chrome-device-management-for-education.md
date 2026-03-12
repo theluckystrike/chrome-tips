@@ -80,6 +80,7 @@ Finally, communicate with parents about your device management practices. Let th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Dual Monitor Tab Management](/chrome-for-dual-monitor-tab-management)
-- [Chrome For Google Ads Management Tips](/chrome-for-google-ads-management-tips)
-- [Chrome For Education Classroom Management](/chrome-for-education-classroom-management)
+
+- [Chrome Using Too Much Disk Space: A Complete Guide](/articles/chrome-using-too-much-disk-space)
+- [Best Chrome Extensions for Sales Teams](/articles/best-chrome-extensions-for-sales-teams)
+- [Chrome Extension for Tracking Time Spent on Websites](/articles/chrome-extension-for-tracking-time-spent-on-websites)

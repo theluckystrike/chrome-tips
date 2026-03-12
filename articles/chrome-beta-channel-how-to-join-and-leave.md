@@ -67,6 +67,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Guest Mode vs Incognito Mode: What's the Difference?](/chrome-guest-mode-vs-incognito-difference)
-* [Chrome Flexbox Inspector How to Use](/chrome-flexbox-inspector-how-to-use)
-* [Chrome Screen Recording in Browser How To](/chrome-screen-recording-in-browser-how-to)
+- [Chrome How to Clear Individual Site Data](/articles/chrome-how-to-clear-individual-site-data)
+- [Chrome Octane Score Explained](/articles/chrome-octane-score-explained)
+- [chrome extensions for screenshot full page](/articles/chrome-extensions-for-screenshot-full-page)

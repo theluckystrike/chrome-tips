@@ -95,6 +95,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Installer Failed to Start Fix](/chrome-installer-failed-to-start-fix)
-* [How to Make Chrome Use Less Battery on MacBook](/how-to-make-chrome-use-less-battery-macbook)
-* [chrome proxy settings how to configure](/chrome-proxy-settings-how-to-configure)
+- [Chrome Extension for Auto Scroll Pages](/articles/chrome-extension-for-auto-scroll-pages)
+- [Chrome for Stock Screener Web Tools](/articles/chrome-for-stock-screener-web-tools)
+- [Chrome CSS Grid Layout Complete Guide](/articles//chrome-css-grid-layout-complete-guide/)

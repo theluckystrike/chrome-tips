@@ -161,3 +161,9 @@ For most users, clearing the cache and disabling problematic extensions does the
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Err Connection Timed Out Fix](/articles/chrome-err-connection-timed-out-fix)
+- [Chrome Extensions for Lorem Ipsum Generator](/articles/chrome-extensions-for-lorem-ipsum-generator)
+- [Chrome Follow Button for Websites How to Use](/articles/chrome-follow-button-for-websites-how-to-use)

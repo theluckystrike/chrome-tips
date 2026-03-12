@@ -101,6 +101,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Best Chrome Extensions for Podcasters](/best-chrome-extensions-for-podcasters)
-* [Chrome Push Notifications Web Apps: Complete Guide](/chrome-push-notifications-web-apps)
-* [chrome google photos integration save images](/chrome-google-photos-integration-save-images)
+- [Chrome Certificate Transparency Explained Simply](/articles/chrome-certificate-transparency-explained-simply)
+- [Chrome Extensions for Networking](/articles/chrome-extensions-for-networking)
+- [Chrome Extension Permissions Too Many Warning](/articles/chrome-extension-permissions-too-many-warning)

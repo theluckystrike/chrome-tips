@@ -75,6 +75,7 @@ Chromebooks are designed to be accessible to everyone, and the built-in tools ma
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chromebook File Manager Tips And Tricks](/chromebook-file-manager-tips-and-tricks)
-- [Chrome Side Panel Features Guide](/chrome-side-panel-features-guide)
-- [Chrome Accessibility Features You Didn't Know About](/chrome-accessibility-features-you-didnt-know-about)
+
+- [Chrome Coverage Tool: Find Unused JavaScript](/articles/chrome-coverage-tool-find-unused-javascript)
+- [chromebook file manager tips and tricks](/articles/chromebook-file-manager-tips-and-tricks)
+- [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/articles/chrome-your-computer-is-infected-popup-fix)

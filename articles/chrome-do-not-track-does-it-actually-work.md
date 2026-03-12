@@ -65,6 +65,7 @@ Explore the privacy settings Chrome offers, install effective blocking tools, an
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
-- [Chrome Password Checkup What It Does](/chrome-password-checkup-what-it-does)
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+
+- [Chrome Has Selector Explained](/articles/chrome-has-selector-explained)
+- [Chrome Memory Inspector How to Use](/articles/chrome-memory-inspector-how-to-use)
+- [How to Auto Delete Chrome History After Time: Complete Guide](/articles/chrome-history-auto-delete-after-time)

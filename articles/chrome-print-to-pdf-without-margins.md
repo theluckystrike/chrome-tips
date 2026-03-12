@@ -68,3 +68,9 @@ Some documents look better with a little breathing room around the edges. White 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Website Speed Test](/articles/chrome-extensions-for-website-speed-test)
+- [Chrome Multiple Users Same Computer Setup](/articles/chrome-multiple-users-same-computer-setup)
+- [How to Fix Chrome ERR_NAME_NOT_RESOLVED Error](/articles/chrome-err-name-not-resolved-fix)

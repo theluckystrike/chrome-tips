@@ -61,6 +61,6 @@ Keep in mind that cookie consent popups are unlikely to disappear anytime soon. 
 
 ## Related Articles
 
-* [Chrome Browser Cloud Management Explained](/chrome-browser-cloud-management-explained)
-* [How to Use Chrome Task Manager to Find Heavy Tabs](/chrome-task-manager-find-heavy-tabs)
-* [chrome protected audience api explained](/chrome-protected-audience-api-explained)
+- [Chrome Intersection Observer API Explained](/articles/chrome-intersection-observer-api-explained)
+- [Chrome Clipboard API: Copy and Paste in Modern Web Apps](/articles/chrome-clipboard-api-copy-paste)
+- [Chrome Extensions for Highlighting Text on Web](/articles/chrome-extensions-for-highlighting-text-on-web)

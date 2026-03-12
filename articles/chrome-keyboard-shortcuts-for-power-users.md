@@ -75,6 +75,7 @@ Extensions like Tab Suspender Pro can help you manage many open tabs by automati
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
-- [Best Chrome Extensions for Reddit Users](/best-chrome-extensions-for-reddit-users)
-- [Chrome WebAuthn Explained for Regular Users](/chrome-webauthn-explained-for-regular-users)
+
+- [chrome pwa storage quota how much space](/articles/chrome-pwa-storage-quota-how-much-space)
+- [Chrome Crashing on Samsung Galaxy Phone](/articles/chrome-crashing-on-samsung-galaxy-phone)
+- [Chrome Minimum Font Size Setting Where to Find It](/articles//chrome-minimum-font-size-setting-where/)

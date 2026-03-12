@@ -85,6 +85,7 @@ Finally, keep important files and documents saved locally on your computer rathe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome HTTPS Only Mode How to Enable](/chrome-https-only-mode-how-to-enable)
-- [Chrome Android Desktop Mode How to Enable](/chrome-android-desktop-mode-how-to-enable)
-- [Chrome Offline Google Docs How To Enable](/chrome-offline-google-docs-how-to-enable)
+
+- [Chromebook Android Apps Not Working Fix](/articles/chromebook-android-apps-not-working-fix)
+- [Chrome User Agent String: What It Is and How It Works](/articles/chrome-user-agent-string-what-it-is)
+- [Best Chrome Extensions for Writers 2026](/articles/best-chrome-extensions-for-writers-2026)

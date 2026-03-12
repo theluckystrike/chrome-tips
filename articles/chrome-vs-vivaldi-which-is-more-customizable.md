@@ -57,3 +57,9 @@ Regardless of which browser you choose, having many tabs open can eventually slo
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome DNS Settings How to Change for Privacy](/articles/chrome-dns-settings-how-to-change-for-privacy)
+- [How to Limit Chrome Memory Usage on Windows](/articles/how-to-limit-chrome-memory-usage-windows)
+- [chrome for telegram web best settings](/articles/chrome-for-telegram-web-best-settings)

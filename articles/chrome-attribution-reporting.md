@@ -214,6 +214,6 @@ Advertisers and publishers who adopt attribution reporting early will be better 
 
 ## Related Articles
 
-* [Chrome Extensions for Meeting Notes](/chrome-extensions-for-meeting-notes)
-* [Chrome for Discord Web App Optimization](/chrome-for-discord-web-app-optimization)
-* [Chrome Too Many Processes Task Manager](/chrome-too-many-processes-task-manager)
+- [Chrome Password Checkup What It Does](/articles/chrome-password-checkup-what-it-does)
+- [chrome tab memory usage how to check](/articles/chrome-tab-memory-usage-how-to-check)
+- [Chrome Google Account Privacy Settings Guide](/articles/chrome-google-account-privacy-settings-guide)

@@ -66,6 +66,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome for Habitica In Browser Tips](/chrome-for-habitica-in-browser-tips)
-* [Chrome for Custom Search Engines Setup](/chrome-for-custom-search-engines-setup)
-* [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+- [Chrome Extensions for Weather Forecast New Tab](/articles/chrome-extensions-for-weather-forecast-new-tab)
+- [How to Find a Tab by Name in Chrome: Complete Guide](/articles/chrome-find-tab-by-name-search)
+- [chrome network throttling test slow connection](/articles/chrome-network-throttling-test-slow-connection)

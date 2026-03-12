@@ -82,6 +82,7 @@ Remember that these extensions are meant to help, not replace careful reading. T
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extension for Checking Grammar While Typing](/chrome-extension-for-checking-grammar-while-typing)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome Extensions for Grammar Check Free Alternative](/chrome-extensions-for-grammar-check-free-alternative)
+
+- [How to Organize Chrome Bookmarks Into Folders](/articles/how-to-organize-chrome-bookmarks-into-folders)
+- [chromebook file manager tips and tricks](/articles/chromebook-file-manager-tips-and-tricks)
+- [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization)

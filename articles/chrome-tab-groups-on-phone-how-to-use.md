@@ -51,6 +51,7 @@ Chrome tab groups on phone how to use is something every mobile browser should k
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Translate On Phone How To Use](/chrome-translate-on-phone-how-to-use)
-- [Chrome Reader Mode on Phone: How to Enable](/chrome-reader-mode-on-phone-how-to-enable)
-- [How to Use Chrome Tab Groups Effectively](/how-to-use-chrome-tab-groups-effectively)
+
+- [Chrome Extensions for User Agent Randomizer](/articles/chrome-extensions-for-user-agent-randomizer)
+- [Chrome for Dailymotion Web Player](/articles/chrome-for-dailymotion-web-player)
+- [Chrome for Mendeley Web Importer Tips](/articles/chrome-for-mendeley-web-importer-tips)

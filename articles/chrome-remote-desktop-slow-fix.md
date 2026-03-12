@@ -85,3 +85,9 @@ Start with the easiest changes first, like closing extra tabs and lowering the q
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Passkeys How to Set Up and Use](/articles/chrome-passkeys-how-to-set-up-and-use)
+- [Chromebook Running Slow How to Fix](/articles/chromebook-running-slow-how-to-fix)
+- [Chrome Do Not Track: Does It Actually Work](/articles/chrome-do-not-track-does-it-actually-work)

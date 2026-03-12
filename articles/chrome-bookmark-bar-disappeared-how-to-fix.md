@@ -105,6 +105,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Clock Behind Error Fix](/chrome-clock-behind-error-fix)
-* [Chrome Extensions for Video Conferencing Enhancement](/chrome-extensions-for-video-conferencing-enhancement)
-* [Chrome Extensions for Meditation](/chrome-extensions-for-meditation)
+- [Chrome Best Extensions for Parental Control](/articles/chrome-best-extensions-for-parental-control)
+- [Best Chrome Extensions for Sales Teams](/articles/best-chrome-extensions-for-sales-teams)
+- [Chrome Text Size on Phone How to Change](/articles/chrome-text-size-on-phone-how-to-change)

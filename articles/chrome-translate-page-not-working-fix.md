@@ -128,3 +128,9 @@ Start by checking your translation settings, then refresh the page and clear the
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes)
+- [Chrome Audio Fingerprinting What It Is](/articles/chrome-audio-fingerprinting-what-it-is)
+- [Chrome Redirecting to Wrong Pages Fix](/articles/chrome-redirecting-to-wrong-pages-fix)

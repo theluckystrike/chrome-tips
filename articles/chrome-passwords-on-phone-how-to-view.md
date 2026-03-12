@@ -71,3 +71,9 @@ For users who want additional convenience when browsing, there are also browser 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Location Access for One Site How to Allow](/articles/chrome-location-access-for-one-site-how-to-allow)
+- [Chrome for Instapaper Web Clipper](/articles/chrome-for-instapaper-web-clipper)
+- [Chrome Split Screen Without Extension](/articles/chrome-split-screen-without-extension)

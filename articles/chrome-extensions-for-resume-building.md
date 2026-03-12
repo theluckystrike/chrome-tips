@@ -84,6 +84,7 @@ Start by trying a few extensions, see what works for your workflow, and build fr
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome for Resume Building Web Tools](/chrome-for-resume-building-web-tools)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+- [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension)
+- [Chrome Camera Microphone Permission Manage: Complete Guide](/articles/chrome-camera-microphone-permission-manage)
+- [Chrome Bookmark Bar Disappeared How to Fix](/articles/chrome-bookmark-bar-disappeared-how-to-fix)

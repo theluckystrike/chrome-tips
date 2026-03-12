@@ -78,6 +78,7 @@ The best tool is ultimately the one that fits seamlessly into how you already wo
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome for iPad Tips and Tricks](/chrome-for-ipad-tips-and-tricks)
-- [Chrome for Citation and Research Extensions](/chrome-for-citation-and-research-extensions)
-- [Chrome Extensions for Musicians and Producers](/chrome-extensions-for-musicians-and-producers)
+
+- [Chrome Mobile Reading List How to Use](/articles/chrome-mobile-reading-list-how-to-use)
+- [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer)
+- [chrome security check how to run](/articles/chrome-security-check-how-to-run)

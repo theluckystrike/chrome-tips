@@ -73,3 +73,9 @@ One helpful tool for managing your browser and avoiding unwanted redirects is Ta
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Auto Dark Mode for Web Contents](/articles/chrome-auto-dark-mode-for-web-contents)
+- [Best Chrome Extensions for Small Business Owners](/articles/best-chrome-extensions-for-small-business-owners)
+- [Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover Placement](/articles/chrome-anchor-positioning-css)

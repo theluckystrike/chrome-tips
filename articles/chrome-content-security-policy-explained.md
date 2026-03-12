@@ -95,6 +95,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Netflix Best Quality Settings](/chrome-for-netflix-best-quality-settings)
-* [Chrome Extensions for Text Expander](/chrome-extensions-for-text-expander)
-* [Best Chrome Extensions for Cybersecurity Professionals](/best-chrome-extensions-for-cybersecurity-professionals)
+- [chrome for dual monitor tab management](/articles/chrome-for-dual-monitor-tab-management)
+- [Chrome Eating All My RAM? Reddit Users Share Their Solutions](/articles/chrome-eating-all-my-ram-reddit-solutions)
+- [Chrome for Email Productivity Extensions](/articles/chrome-for-email-productivity-extensions)

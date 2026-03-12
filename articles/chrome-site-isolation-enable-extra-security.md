@@ -90,3 +90,9 @@ Don't wait until after a security incident to take action. Enable Chrome Site Is
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Magnifier Zoom for Visually Impaired](/articles/chrome-magnifier-zoom-for-visually-impaired)
+- [Best Chrome Extensions For Teachers Online](/articles/best-chrome-extensions-for-teachers-online)
+- [How to Speed Up Chrome in 5 Minutes](/articles/how-to-speed-up-chrome-in-5-minutes)

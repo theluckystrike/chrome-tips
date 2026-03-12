@@ -84,3 +84,9 @@ For users who want additional location privacy, several extensions offer enhance
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Send to Device Feature How to Use](/articles/chrome-send-to-device-feature-how-to-use)
+- [Chrome Hardware Acceleration Guide](/articles/chrome-hardware-acceleration-guide)
+- [Best Chrome Extensions for Cybersecurity Professionals](/articles/best-chrome-extensions-for-cybersecurity-professionals)

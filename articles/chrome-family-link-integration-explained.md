@@ -76,6 +76,7 @@ If you find that Chrome becomes slow or resource-heavy with all the Family Link 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Family Link How to Use on Desktop](/chrome-family-link-how-to-use-on-desktop)
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+
+- [Chrome Profile Import From Another Computer](/articles/chrome-profile-import-from-another-computer)
+- [chrome extensions for one click bookmark folders](/articles/chrome-extensions-for-one-click-bookmark-folders)
+- [Chrome View Page Source: What It Tells You](/articles/chrome-view-page-source-what-it-tells-you)

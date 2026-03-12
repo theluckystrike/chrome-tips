@@ -122,3 +122,9 @@ Since both use the same WebKit engine, browsing speed is identical. Choose Chrom
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/articles/chrome-grammarly-extension-slowing-browser)
+- [Chrome for Language Learning Extensions](/articles/chrome-for-language-learning-extensions)
+- [Chrome Bitwarden vs Chrome Password Manager: Which Should You Use?](/articles/chrome-bitwarden-vs-chrome-password-manager)

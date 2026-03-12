@@ -58,6 +58,7 @@ Finally, keep your extensions updated. Developers regularly release updates that
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extension for Coupon Codes Automatic](/chrome-extension-for-coupon-codes-automatic)
-- [Chrome Extensions for Coupon Finder Automatic](/chrome-extensions-for-coupon-finder-automatic)
-- [Chrome Extensions for Tab Grouping Automatically](/chrome-extensions-for-tab-grouping-automatically)
+
+- [Chrome Says Not Secure But Site Is Safe](/articles/chrome-says-not-secure-but-site-is-safe)
+- [Chrome Extension GDPR Compliance Guide](/articles/chrome-extension-gdpr-compliance-guide)
+- [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web)

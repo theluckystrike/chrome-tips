@@ -69,3 +69,9 @@ Try browsing the way you normally do after enabling this feature. You may find t
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Redfin Web App Tips](/articles/chrome-for-redfin-web-app-tips)
+- [Chrome Status Code 502 Bad Gateway Fix](/articles/chrome-status-code-502-bad-gateway-fix)
+- [Chrome Lite Mode Replacement 2026](/articles/chrome-lite-mode-replacement-2026)

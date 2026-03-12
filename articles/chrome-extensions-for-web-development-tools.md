@@ -70,6 +70,7 @@ It is also worth periodically reviewing your installed extensions and removing o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Web Automation Free](/chrome-extensions-for-web-automation-free)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Extensions for Web Annotation](/chrome-extensions-for-web-annotation)
+
+- [Chrome Lazy Loading Images Native: How It Works and Why You Should Use It](/articles/chrome-lazy-loading-images-native)
+- [Chrome Omnibox Hidden Features](/articles/chrome-omnibox-hidden-features)
+- [Best Chrome Extensions for Working From Home](/articles/best-chrome-extensions-for-working-from-home)

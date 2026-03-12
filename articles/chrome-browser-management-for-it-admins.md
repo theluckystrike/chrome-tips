@@ -77,6 +77,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [chrome for distraction free reading mode](/chrome-for-distraction-free-reading-mode)
-* [chrome for onenote web clipper setup](/chrome-for-onenote-web-clipper-setup)
-* [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
+- [Chrome for Runway ML Web App](/articles/chrome-for-runway-ml-web-app)
+- [Chrome Extensions for Tab Previewer Hover](/articles/chrome-extensions-for-tab-previewer-hover)
+- [Chrome Extensions For Bulk Image Downloading](/articles//articles/chrome-extensions-for-bulk-image-downloading/)

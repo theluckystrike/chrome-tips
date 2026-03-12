@@ -87,3 +87,9 @@ Take a moment to enable it and try it out on your favorite articles. You might f
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Costco Web Shopping Tips](/articles/chrome-for-costco-web-shopping-tips)
+- [Chrome New Tab Opens Instead of Homepage Fix](/articles/chrome-new-tab-opens-instead-of-homepage-fix)
+- [Chrome Custom Fonts How to Change](/articles//chrome-custom-fonts-how-to-change/)

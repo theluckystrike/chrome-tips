@@ -82,6 +82,7 @@ High contrast mode makes browsing much easier for users with vision challenges o
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Android Desktop Mode How to Enable](/chrome-android-desktop-mode-how-to-enable)
-- [Chrome Touchscreen Mode How To Enable](/chrome-touchscreen-mode-how-to-enable)
-- [Chrome Android Dark Mode How to Enable](/chrome-android-dark-mode-how-to-enable)
+
+- [Chrome Google Drive Integration Tips](/articles/chrome-google-drive-integration-tips)
+- [Chrome Extensions for Price Tracking Amazon](/articles/chrome-extensions-for-price-tracking-amazon)
+- [How to Enable Chrome Parallel Downloading](/articles/how-to-enable-chrome-parallel-downloading)

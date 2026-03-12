@@ -79,6 +79,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Work vs Personal — How to Use Separate Profiles](/chrome-for-work-vs-personal-separate-profiles)
-* [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
-* [Chrome Enhanced Safe Browsing Guide](/chrome-enhanced-safe-browsing)
+- [Chrome for Stripe Dashboard Tips](/articles/chrome-for-stripe-dashboard-tips)
+- [Chrome Extensions for Split Screen Browsing](/articles/chrome-extensions-for-split-screen-browsing)
+- [Chrome Bookmark Manager Best Extensions 2026](/articles/chrome-bookmark-manager-best-extensions-2026)

@@ -120,3 +120,9 @@ Your old computer doesn't have to feel slow anymore. A few simple changes can gi
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Google Meet](/articles/chrome-extensions-for-google-meet)
+- [Chrome for Real Estate Browsing Extensions](/articles/chrome-for-real-estate-browsing-extensions)
+- [Chrome for Coupon Finding Best Extensions](/articles/chrome-for-coupon-finding-best-extensions)

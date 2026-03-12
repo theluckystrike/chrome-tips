@@ -59,6 +59,7 @@ For those who work with many tabs throughout the day, extensions like Tab Suspen
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
-- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
+
+- [chrome circle to search on desktop](/articles/chrome-circle-to-search-on-desktop)
+- [Chrome MediaRecorder API Guide](/articles/chrome-mediarecorder-api-guide)
+- [Chrome Using Swap Memory Fix](/articles/chrome-using-swap-memory-fix)

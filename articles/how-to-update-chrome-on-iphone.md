@@ -64,6 +64,7 @@ Keeping Chrome updated takes just a few minutes but provides important benefits.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
-- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)
-- [Chrome Reader Mode How To Turn On 2026](/chrome-reader-mode-how-to-turn-on-2026)
+
+- [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix)
+- [chrome recently closed tabs how to reopen](/articles/chrome-recently-closed-tabs-how-to-reopen)
+- [Chrome Extensions for Pocket Alternative](/articles/chrome-extensions-for-pocket-alternative)

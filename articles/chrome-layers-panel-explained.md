@@ -58,6 +58,7 @@ The Chrome Layers panel is one of those tools that seems complex at first but be
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Layer CSS Cascade Layers Explained](/chrome-layer-css-cascade-layers-explained)
-- [Chrome Layers Panel 3D View Explained](/chrome-layers-panel-3d-view-explained)
-- [Chrome DevTools Layers Panel 3D View](/chrome-devtools-layers-panel-3d-view)
+
+- [Chrome Web Push Notifications Setup Guide](/articles/chrome-web-push-notifications-setup-guide)
+- [Chrome Parental Controls Without Extension](/articles/chrome-parental-controls-without-extension)
+- [Chrome for Binance Web Trading Tips](/articles/chrome-for-binance-web-trading-tips)

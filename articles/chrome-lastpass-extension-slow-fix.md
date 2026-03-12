@@ -94,3 +94,9 @@ Start with the simplest solutions first: update Chrome and LastPass, clear the c
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Uninstall Chrome Completely and Reinstall](/articles/how-to-uninstall-chrome-completely-and-reinstall)
+- [Chrome Subresource Integrity Explained](/articles/chrome-subresource-integrity-explained)
+- [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy)

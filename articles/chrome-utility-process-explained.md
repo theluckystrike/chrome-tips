@@ -83,3 +83,9 @@ Most users never need to worry about utility processes. However, when performanc
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does)
+- [Chrome Regex Lookbehind Support: What You Need to Know](/articles/chrome-regex-lookbehind-support)
+- [Chrome Overriding CSS in DevTools: A Practical Tutorial](/articles/chrome-overriding-css-in-devtools-tutorial)

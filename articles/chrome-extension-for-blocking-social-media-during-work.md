@@ -80,3 +80,9 @@ Celebrate your progress. When you complete a focused work session, acknowledge i
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome DevTools Changes Panel to Track Edits](/articles//chrome-devtools-changes-panel-track-edits/)
+- [Chrome Address Bar Not Showing Fix](/articles/chrome-address-bar-not-showing-fix)
+- [Best Chrome Settings for a Slow Computer](/articles/best-chrome-settings-for-slow-computer)

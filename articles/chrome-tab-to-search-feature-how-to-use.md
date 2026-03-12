@@ -73,3 +73,9 @@ The beauty of Tab to Search is that it fits naturally into how you already use C
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Clear Chrome Cache Properly](/articles/how-to-clear-chrome-cache-properly)
+- [Chrome for Accessibility Testing Extensions](/articles/chrome-for-accessibility-testing-extensions)
+- [Chrome Clock Behind Error Fix](/articles/chrome-clock-behind-error-fix)

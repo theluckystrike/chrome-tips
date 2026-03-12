@@ -112,3 +112,9 @@ Regardless of which browser you choose, both Chrome and Edge will serve you well
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome CSS Grid Debugging Guide](/articles//chrome-css-grid-debugging/)
+- [Chrome for Travel Itinerary Extensions](/articles/chrome-for-travel-itinerary-extensions)
+- [Chrome Extension Popup Page Tutorial](/articles/chrome-extension-popup-page-tutorial)

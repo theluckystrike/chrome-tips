@@ -64,6 +64,7 @@ Finally, if you share a computer with someone daily, consider whether a separate
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Guest Browsing: What Data Is Saved](/chrome-guest-browsing-what-data-is-saved)
-- [Chrome for Private Browsing Tips Beyond Incognito](/chrome-for-private-browsing-tips-beyond-incognito)
-- [Chrome for Clearing Browsing Data Automatically](/chrome-for-clearing-browsing-data-automatically)
+
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug)
+- [Chrome Select All Tabs Shortcut](/articles/chrome-select-all-tabs-shortcut)
+- [Chrome Extension Popup Page Tutorial](/articles/chrome-extension-popup-page-tutorial)

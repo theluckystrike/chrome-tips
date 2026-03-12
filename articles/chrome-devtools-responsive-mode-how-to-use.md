@@ -85,6 +85,7 @@ By taking the time to test your site in responsive mode, you can ensure that all
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Use Chrome DevTools for Beginners](/how-to-use-chrome-devtools-for-beginners)
-- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
-- [Chrome Devtools Recorder Panel How To Use](/chrome-devtools-recorder-panel-how-to-use)
+
+- [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained)
+- [Chrome Cookie Consent Popups How to Handle](/articles/chrome-cookie-consent-popups-how-to-handle)
+- [Chrome for Password Security Best Practices](/articles/chrome-for-password-security-best-practices)

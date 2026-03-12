@@ -103,3 +103,9 @@ Tab Suspender Pro helps by automatically suspending tabs you are not using. This
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser)
+- [chrome shortcuts in pwa how to define](/articles/chrome-shortcuts-in-pwa-how-to-define)
+- [Chrome for Reader View on Any Website](/articles/chrome-for-reader-view-on-any-website)

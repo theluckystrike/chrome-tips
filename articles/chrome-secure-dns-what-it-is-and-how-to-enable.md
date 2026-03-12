@@ -81,6 +81,7 @@ Chrome Secure DNS is a simple but effective way to add a layer of privacy and se
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome DNS Over HTTPS How to Enable](/chrome-dns-over-https-how-to-enable)
-- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
-- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
+
+- [Chrome for LinkedIn Best Extensions](/articles/chrome-for-linkedin-best-extensions)
+- [Chrome for Web3 Browsing Extensions](/articles/chrome-for-web3-browsing-extensions)
+- [Chrome Tab Management Shortcuts Cheat Sheet](/articles/chrome-tab-management-shortcuts-cheat-sheet)

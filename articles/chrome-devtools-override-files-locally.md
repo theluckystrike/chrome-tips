@@ -73,6 +73,7 @@ Give it a try on your next project and see how much easier it makes testing and 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [Chrome DevTools Protocol Monitor](/chrome-devtools-protocol-monitor)
-- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
+
+- [How to Share Chrome Tabs in Video Calls](/articles/how-to-share-chrome-tabs-in-video-calls)
+- [How to Recover Accidentally Closed Chrome Tabs](/articles/accidentally-closed-all-chrome-tabs-recovery)
+- [Chrome Extensions for Google Meet](/articles/chrome-extensions-for-google-meet)

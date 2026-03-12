@@ -80,6 +80,7 @@ Either way, think about your specific classes and what your school recommends. S
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison)
-- [Chrome vs Edge RAM Usage Comparison 2026](/chrome-vs-edge-ram-usage-comparison-2026)
-- [Chrome Reader Mode vs Safari Reader Comparison](/chrome-reader-mode-vs-safari-reader-comparison)
+
+- [Chrome Devtools Responsive Mode How to Use](/articles/chrome-devtools-responsive-mode-how-to-use)
+- [Chrome Speed Dial Extensions Best](/articles/chrome-speed-dial-extensions-best)
+- [Chrome Back Button Not Working Fix](/articles/chrome-back-button-not-working-fix)

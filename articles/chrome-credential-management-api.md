@@ -142,6 +142,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [chrome site search shortcut how to set up](/chrome-site-search-shortcut-how-to-set-up)
-* [Chrome for Accessibility Testing Extensions](/chrome-for-accessibility-testing-extensions)
-* [Chrome Deep Linking and Universal Links Guide](/chrome-deep-linking-universal-links-guide)
+- [Chrome Follow Button for Websites How to Use](/articles/chrome-follow-button-for-websites-how-to-use)
+- [How to Check If Chrome Extension Is Safe](/articles/how-to-check-if-chrome-extension-is-safe)
+- [Chrome Extensions For Citation Generator](/articles//articles/chrome-extensions-for-citation-generator/)

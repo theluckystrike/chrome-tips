@@ -149,3 +149,9 @@ With these techniques in your toolkit, you can keep your Chrome browser running 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Status Code 502 Bad Gateway Fix](/articles/chrome-status-code-502-bad-gateway-fix)
+- [Chrome Flags Explained for Beginners](/articles/chrome-flags-explained-for-beginners)
+- [Chrome Too Many Redirects Error Fix](/articles/chrome-too-many-redirects-error-fix)

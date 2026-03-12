@@ -62,3 +62,9 @@ Whatever you choose, the ability to permanently highlight text on websites chang
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Bibliography Management Extensions](/articles/chrome-for-bibliography-management-extensions)
+- [Chrome Extensions for Sales Prospecting](/articles/chrome-extensions-for-sales-prospecting)
+- [Chrome Extensions For Figma Companion](/articles//articles/chrome-extensions-for-figma-companion/)

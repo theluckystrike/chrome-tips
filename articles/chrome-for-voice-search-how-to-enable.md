@@ -70,6 +70,7 @@ Give it a try for simple queries at first, like checking the weather, finding a 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Voice Search How To Use On Desktop](/chrome-voice-search-how-to-use-on-desktop)
-- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
-- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+
+- [chrome file system access api explained](/articles/chrome-file-system-access-api-explained)
+- [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome)
+- [Chrome Reading Mode AI Summary Feature](/articles/chrome-reading-mode-ai-summary-feature)

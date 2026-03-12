@@ -88,8 +88,8 @@ Finally, remember that monitoring is only valuable if you act on the data you co
 
 Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)
 
-
 ## Related Articles
-- [Chrome Attribution Reporting API Explained](/chrome-attribution-reporting-api-explained)
-- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
-- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+
+- [Chrome Slow on Your Old MacBook? Here's How to Fix It](/articles/chrome-slow-on-old-macbook-fix)
+- [Chrome Clipboard API: Copy and Paste in Modern Web Apps](/articles/chrome-clipboard-api-copy-paste)
+- [Chrome Incognito What Can My Employer See](/articles/chrome-incognito-what-can-my-employer-see)

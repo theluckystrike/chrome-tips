@@ -89,3 +89,9 @@ Small changes add up quickly. If you normally use several gigabytes of data per 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions Disappeared After Update Fix](/articles/chrome-extensions-disappeared-after-update-fix)
+- [chrome safe search how to force enable](/articles/chrome-safe-search-how-to-force-enable)
+- [Chrome Lazy Loading Images Native: How It Works and Why You Should Use It](/articles/chrome-lazy-loading-images-native)

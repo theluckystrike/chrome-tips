@@ -88,6 +88,7 @@ Remember that keeping Chrome updated, using fewer extensions, and not opening to
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Cookies Keep Getting Deleted Fix](/chrome-cookies-keep-getting-deleted-fix)
-- [Chrome Crashing on iPhone Fix](/chrome-crashing-on-iphone-fix)
-- [Chrome Slow on iPad Fix 2026](/chrome-slow-on-ipad-fix-2026)
+
+- [Chrome Omnibox Hidden Features](/articles/chrome-omnibox-hidden-features)
+- [Chrome for Notion Web Clipper Setup](/articles/chrome-for-notion-web-clipper-setup)
+- [Chrome Permissions API for Camera and Microphone](/articles/chrome-permissions-api-camera-microphone)

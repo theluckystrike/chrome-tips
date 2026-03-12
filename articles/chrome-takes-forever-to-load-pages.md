@@ -102,3 +102,9 @@ Chrome taking forever to load pages is frustrating, but it's usually fixable. St
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions on Android Is It Possible](/articles/chrome-extensions-on-android-is-it-possible)
+- [Chrome Scrolling Lag Fix](/articles/chrome-scrolling-lag-fix)
+- [How to Resume Failed Download in Chrome](/articles/how-to-resume-failed-download-in-chrome)

@@ -142,6 +142,7 @@ But for most users, the solutions above will restore smooth cursor movement with
 **Built by theluckystrike** — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome For Mouse Gestures Extensions](/chrome-for-mouse-gestures-extensions)
-- [Chrome Lagging on Android Phone Fix](/chrome-lagging-on-android-phone-fix)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [Best Chrome Extensions for Web Developers 2026](/articles/best-chrome-extensions-for-web-developers-2026)
+- [Chrome DevTools Snippets for Productivity](/articles/chrome-snippets-productivity)
+- [Chrome for edX Web App Best Settings](/articles/chrome-for-edx-web-app-best-settings)

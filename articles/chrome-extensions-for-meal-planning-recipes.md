@@ -70,6 +70,7 @@ The best approach is to keep it simple at first. You do not need every feature i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+
+- [Chrome Slower After macOS Update Fix](/articles/chrome-slower-after-macos-update-fix)
+- [How to Inspect CSS Animations and Transitions in Chrome DevTools](/articles/chrome-animations-panel-inspect-transitions)
+- [chrome net err cert common name invalid fix](/articles/chrome-net-err-cert-common-name-invalid-fix)

@@ -58,6 +58,7 @@ Chrome iPhone widgets how to set up does not have to be complicated. With just a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
-- [Chrome Tab Groups Auto Create How To Set Up](/chrome-tab-groups-auto-create-how-to-set-up)
-- [Chrome Parental Controls — How to Set Up for Your Kids](/chrome-parental-controls-how-to-set-up)
+
+- [Chrome Workspaces: Link DevTools to Files for Seamless Development](/articles/chrome-workspaces-link-devtools-to-files)
+- [Chrome Password Manager on Phone vs Dedicated App](/articles/chrome-password-manager-on-phone-vs-dedicated-app)
+- [Chrome Console Commands: Useful Tricks Every User Should Know](/articles/chrome-console-commands-useful-tricks)

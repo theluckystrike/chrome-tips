@@ -78,6 +78,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Keep Crashing Fix 2026](/chrome-keep-crashing-fix-2026)
-* [How to Migrate Chrome Data to a New Computer](/how-to-migrate-chrome-data-to-new-computer)
-* [Chrome Hardware Acceleration Guide](/chrome-hardware-acceleration-guide)
+- [Chrome Badging API Explained](/articles/chrome-badging-api-explained)
+- [How to Pin a Website in Chrome Taskbar](/articles/how-to-pin-a-website-in-chrome-taskbar)
+- [Chrome Extensions for Background Remover](/articles/chrome-extensions-for-background-remover)

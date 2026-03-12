@@ -72,6 +72,7 @@ Take some time to explore different options and find what feels most natural. Th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Anki Web Flashcards Setup](/chrome-for-anki-web-flashcards-setup)
-- [Chrome For Onenote Web Clipper Setup](/chrome-for-onenote-web-clipper-setup)
-- [Chrome For Any.Do Web App Setup](/chrome-for-anydo-web-app-setup)
+
+- [chrome mobile save page offline how to](/articles/chrome-mobile-save-page-offline-how-to)
+- [chrome shared storage api privacy ads](/articles/chrome-shared-storage-api-privacy-ads)
+- [Chrome Google Workspace Integration Tips](/articles/chrome-google-workspace-integration-tips)

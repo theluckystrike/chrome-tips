@@ -90,6 +90,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [chrome for twitch buffering fix](/chrome-for-twitch-buffering-fix)
-* [chrome web share target api explained](/chrome-web-share-target-api-explained)
-* [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
+- [Chrome Select Address Bar Text Shortcut](/articles/chrome-select-address-bar-text-shortcut)
+- [chrome web nfc how it works](/articles/chrome-web-nfc-how-it-works)
+- [Chrome ERR_QUIC_PROTOCOL_ERROR Fix](/articles/chrome-err-quic-protocol-error-fix)

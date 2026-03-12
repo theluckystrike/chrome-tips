@@ -55,6 +55,7 @@ Combining the fun of discovering hidden easter eggs with good browser maintenanc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Reading List vs Bookmarks Difference](/chrome-reading-list-vs-bookmarks-difference)
-- [Chrome Service Workers List How to View](/chrome-service-workers-list-how-to-view)
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
+
+- [Chrome for Netflix Best Quality Settings](/articles/chrome-for-netflix-best-quality-settings)
+- [Chrome Keeps Opening New Tabs By Itself Virus](/articles/chrome-keeps-opening-new-tabs-by-itself-virus)
+- [Chrome Tab Discard What It Means](/articles/chrome-tab-discard-what-it-means)

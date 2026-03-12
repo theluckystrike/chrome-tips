@@ -100,6 +100,7 @@ If you frequently have many tabs open and notice performance issues, consider us
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Flags on Android Best to Enable](/chrome-flags-on-android-best-to-enable)
-- [Chrome Permissions on Android How to Manage](/chrome-permissions-on-android-how-to-manage)
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+
+- [Chrome Media Autoplay How to Block](/articles/chrome-media-autoplay-how-to-block)
+- [Chrome for Dropshipping: Best Extensions](/articles/chrome-for-dropshipping-best-extensions)
+- [Chrome Helper Renderer Using Too Much CPU](/articles/chrome-helper-renderer-using-too-much-cpu)

@@ -76,6 +76,7 @@ The next time a page loads instantly on Chrome, you will know that the stale whi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+
+- [Chrome Background Sync API Explained](/articles/chrome-background-sync-api-explained)
+- [Chrome Back Forward Cache Explained](/articles/chrome-back-forward-cache-explained)
+- [chrome for online learning best setup](/articles/chrome-for-online-learning-best-setup)

@@ -95,6 +95,6 @@ Once your bookmarks bar is working again, take a moment to make sure your import
 
 ## Related Articles
 
-* [Chrome Extensions for Ambient Noise](/chrome-extensions-for-ambient-noise)
-* [Chrome DevTools Protocol Monitor](/chrome-protocol-monitor-guide)
-* [Chrome Freezes My Whole Computer](/chrome-freezes-my-whole-computer)
+- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser)
+- [Chrome Freezing on Chromebook During Zoom? Try These Fixes](/articles/chrome-freezing-on-chromebook-during-zoom)
+- [Chrome Sync What Data Gets Synced](/articles/chrome-sync-what-data-gets-synced)

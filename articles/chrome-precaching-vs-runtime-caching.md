@@ -82,3 +82,9 @@ Understanding the difference between precaching and runtime caching helps you be
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for YouTube Productivity](/articles/chrome-extensions-for-youtube-productivity)
+- [Chrome Update Made It Slower? Here's How to Fix It](/articles/chrome-update-made-it-slower-fix)
+- [chrome experimental features list 2026](/articles/chrome-experimental-features-list-2026)

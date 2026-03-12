@@ -74,6 +74,7 @@ When you reduce small inefficiencies throughout your day, those savings add up q
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Time Tracking Freelancers](/chrome-extensions-for-time-tracking-freelancers)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Time Tracking](/chrome-extensions-for-time-tracking)
+
+- [Chrome Gmail Keyboard Shortcuts](/articles/chrome-gmail-keyboard-shortcuts)
+- [Best Chrome Extensions for Google Drive](/articles/best-chrome-extensions-for-google-drive)
+- [Chrome for Google Analytics in Browser](/articles/chrome-for-google-analytics-in-browser)

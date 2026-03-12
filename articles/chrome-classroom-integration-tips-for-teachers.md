@@ -93,6 +93,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Multiple Profiles Setup: Complete Guide for 2026](/chrome-multiple-profiles-setup)
-* [Chrome YouTube Slow But Other Sites Fine Fix](/chrome-youtube-slow-but-other-sites-fine-fix)
-* [Chrome Offscreen Canvas Performance: A Complete Guide](/chrome-offscreen-canvas-performance)
+- [Best Chrome Extensions for Productivity](/articles/best-chrome-extensions-for-productivity)
+- [Chrome Site Settings Explained Complete Guide](/articles/chrome-site-settings-explained-complete-guide)
+- [chrome work profile vs personal profile tips](/articles/chrome-work-profile-vs-personal-profile-tips)

@@ -74,6 +74,7 @@ Getting into the habit of closing unused tabs, adjusting image settings when you
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Data Saver Mode Is It Still Available](/chrome-data-saver-mode-is-it-still-available)
-- [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)
-- [Chrome Memory Saver Mode How to Use](/chrome-memory-saver-mode-how-to-use)
+
+- [Chrome vs Arc Browser: Should I Switch?](/articles/chrome-vs-arc-browser-should-i-switch)
+- [Chrome for HubSpot CRM in Browser](/articles/chrome-for-hubspot-crm-in-browser)
+- [Chrome Text to Speech Built In Features](/articles/chrome-text-to-speech-built-in-features)

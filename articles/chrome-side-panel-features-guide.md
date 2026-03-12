@@ -110,3 +110,9 @@ The combination of built-in side panel features with thoughtful extension choice
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Google Maps Keyboard Shortcuts](/articles/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Extension for Viewing Page Load Time](/articles/chrome-extension-for-viewing-page-load-time)
+- [Chrome for Stock Market Tracking Extensions](/articles/chrome-for-stock-market-tracking-extensions)

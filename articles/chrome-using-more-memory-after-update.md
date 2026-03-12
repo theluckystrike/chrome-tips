@@ -78,3 +78,9 @@ Seeing your RAM usage spike after a Chrome update can be alarming, but it's usua
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use)
+- [Chrome Tab Search Feature How to Use](/articles/chrome-tab-search-feature-how-to-use)
+- [Chrome Tabs on Top vs Bottom: How to Change](/articles/chrome-tabs-on-top-vs-bottom-how-to-change)

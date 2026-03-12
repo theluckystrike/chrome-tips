@@ -81,6 +81,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)
-* [Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM](/chrome-slow-on-work-computer-vpn)
-* [chrome site notifications stop all](/chrome-site-notifications-stop-all)
+- [Chrome Instant Apps on Android Explained](/articles/chrome-instant-apps-on-android-explained)
+- [Chrome Blob And File Api Explained](/articles/chrome-blob-and-file-api-explained)
+- [Chrome Extensions for Image Downloader Bulk](/articles/chrome-extensions-for-image-downloader-bulk)

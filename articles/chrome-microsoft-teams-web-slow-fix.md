@@ -143,3 +143,9 @@ By keeping your browser lean, managing resources wisely, and adjusting Teams set
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained)
+- [chrome for vimeo web upload tips](/articles/chrome-for-vimeo-web-upload-tips)
+- [Chrome Helper Renderer Using Too Much CPU](/articles/chrome-helper-renderer-using-too-much-cpu)

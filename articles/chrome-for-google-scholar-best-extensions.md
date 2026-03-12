@@ -77,6 +77,7 @@ Once you have the right tools in place, you will notice a smoother research proc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Google Drive](/best-chrome-extensions-for-google-drive)
-- [Best Chrome Extensions for Writers 2026](/best-chrome-extensions-for-writers-2026)
-- [Best Chrome Extensions for Reddit Users](/best-chrome-extensions-for-reddit-users)
+
+- [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api)
+- [chrome extensions for website distraction blocker](/articles/chrome-extensions-for-website-distraction-blocker)
+- [Chrome Settings You Should Change Right Now](/articles/chrome-settings-you-should-change-right-now)

@@ -96,3 +96,9 @@ Chrome sync is incredibly useful when it works, and most of the time it does wor
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome vs Edge for Battery Life Laptop](/articles/chrome-vs-edge-for-battery-life-laptop)
+- [Best Chrome Extensions for Writers 2026](/articles/best-chrome-extensions-for-writers-2026)
+- [Chrome for Removing YouTube Recommendations](/articles/chrome-for-removing-youtube-recommendations)

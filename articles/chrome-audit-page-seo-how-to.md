@@ -96,6 +96,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Search Engine Changed by Itself Fix](/chrome-search-engine-changed-by-itself-fix)
-* [Chrome Service Worker Debugging Guide](/chrome-service-worker-debugging)
-* [Google Chrome vs Chromium Difference Explained](/google-chrome-vs-chromium-difference-explained)
+- [Chrome Keeps Stopping on Android Fix](/articles/chrome-keeps-stopping-on-android-fix)
+- [Best Chrome Extensions for Product Managers](/articles/best-chrome-extensions-for-product-managers)
+- [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable)

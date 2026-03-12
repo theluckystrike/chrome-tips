@@ -88,3 +88,9 @@ The omnibox is one of the most powerful features in Chrome, yet most people only
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Hidden Games Easter Eggs List](/articles/chrome-hidden-games-easter-eggs-list)
+- [Chrome Safe Search How to Lock](/articles/chrome-safe-search-how-to-lock)
+- [Chrome Password Not Autofilling Fix](/articles/chrome-password-not-autofilling-fix)

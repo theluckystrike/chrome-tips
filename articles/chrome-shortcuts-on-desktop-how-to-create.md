@@ -61,3 +61,9 @@ Using **Tab Suspender Pro** is the perfect companion to a **shortcut-heavy workf
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Spellcheck Not Working? Here's How to Fix It](/articles/chrome-spellcheck-not-working-fix)
+- [Chrome Pinned Tabs Explained](/articles/chrome-pinned-tabs-explained)
+- [Chrome DevTools Issues Panel Explained](/articles/chrome-devtools-issues-panel-explained)

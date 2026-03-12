@@ -143,6 +143,6 @@ These changes together can make Chrome feel significantly faster, even on older 
 
 ## Related Articles
 
-* [Chrome Aspect Ratio CSS Property](/chrome-aspect-ratio-css-property)
-* [chromebook touchscreen not working fix](/chromebook-touchscreen-not-working-fix)
-* [Chrome Text to Speech: Complete Guide for 2026](/chrome-text-to-speech)
+- [Chrome Version History: Major Milestones That Shaped the Browser](/articles/chrome-version-history-major-milestones)
+- [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does)
+- [Best Chrome Extensions for Accessibility Needs](/articles/best-chrome-extensions-for-accessibility-needs)

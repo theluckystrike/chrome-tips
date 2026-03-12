@@ -82,6 +82,7 @@ The bottom line is that you have options. Before signing up for another monthly 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions For Screen Recording Free](/chrome-extensions-for-screen-recording-free)
-- [Chrome Extensions for SEO Analysis Free](/chrome-extensions-for-seo-analysis-free)
-- [Chrome Extensions for Grammarly Alternative Free](/chrome-extensions-for-grammarly-alternative-free)
+
+- [Chrome for Canvas LMS Best Extensions](/articles/chrome-for-canvas-lms-best-extensions)
+- [Chrome Spell Check Adding Custom Words](/articles/chrome-spell-check-adding-custom-words)
+- [Chrome Web Vitals What They Mean](/articles/chrome-web-vitals-what-they-mean)

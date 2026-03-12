@@ -68,6 +68,7 @@ Chrome's Memory Saver mode, found in the Performance section of settings, can he
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Zoom in Browser Best Settings](/chrome-for-zoom-in-browser-best-settings)
-- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)
-- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
+
+- [Chrome WebRTC Leak Test and Fix Guide](/articles/chrome-webrtc-leak-test-and-fix-guide)
+- [Chrome vs Edge Speed Test 2026](/articles/chrome-vs-edge-speed-test-2026)
+- [chrome web store not loading fix](/articles/chrome-web-store-not-loading-fix)

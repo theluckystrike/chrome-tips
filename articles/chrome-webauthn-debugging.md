@@ -168,6 +168,7 @@ As passkeys continue to replace passwords across the web, these debugging skills
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
 ## Related Articles
-- [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)
-- [Chrome Breakpoints and Conditional Debugging Guide](/chrome-breakpoints-conditional-debugging-guide)
-- [Chrome WebAssembly Debugging Guide](/chrome-wasm-debugging-guide)
+
+- [Chrome Extensions Keep Disabling Themselves Fix](/articles/chrome-extensions-keep-disabling-themselves-fix)
+- [Chrome Opens on Startup Windows: How to Stop](/articles/chrome-opens-on-startup-windows-how-to-stop)
+- [Best Chrome Extensions For Lawyers](/articles/best-chrome-extensions-for-lawyers)

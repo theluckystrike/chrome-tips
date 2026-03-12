@@ -88,3 +88,9 @@ The most important thing is to understand what is happening in your browser. Now
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Blocking Cookie Popups](/articles/chrome-extension-for-blocking-cookie-popups)
+- [Chrome Client Hints Instead of User Agent: What Changed](/articles/chrome-client-hints-instead-of-user-agent)
+- [Chrome Site Settings Explained Complete Guide](/articles/chrome-site-settings-explained-complete-guide)

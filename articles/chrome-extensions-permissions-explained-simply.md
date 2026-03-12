@@ -97,6 +97,7 @@ The next time you see a permission popup, do not just click through automaticall
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
-- [Chrome Cookies Explained Simply](/chrome-cookies-explained-simply)
-- [Chrome Certificate Transparency Explained Simply](/chrome-certificate-transparency-explained-simply)
+
+- [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix)
+- [Chrome Extension GDPR Compliance Guide](/articles/chrome-extension-gdpr-compliance-guide)
+- [Chrome for Autofill Credit Card Safety](/articles/chrome-for-autofill-credit-card-safety)

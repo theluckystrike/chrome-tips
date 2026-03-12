@@ -124,3 +124,9 @@ Finally, keep an eye on new extensions that continue to be developed. The Chrome
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome PWA Install Prompt Not Showing Fix](/articles/chrome-pwa-install-prompt-not-showing-fix)
+- [Chrome Extensions for Tree Style Tabs](/articles/chrome-extensions-for-tree-style-tabs)
+- [Chrome Preloading Pages Setting Explained](/articles/chrome-preloading-pages-setting-explained)

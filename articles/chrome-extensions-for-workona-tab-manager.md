@@ -49,6 +49,7 @@ The combination of Workona for organization and a tab suspension extension for p
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Tab Notes](/chrome-extensions-for-tab-notes)
-- [Chrome for Citation Manager Extensions](/chrome-for-citation-manager-extensions)
-- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)
+
+- [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out)
+- [chrome vs firefox for mac which is faster](/articles/chrome-vs-firefox-for-mac-which-is-faster)
+- [Chrome for Evernote Web Clipper Tips](/articles/chrome-for-evernote-web-clipper-tips)

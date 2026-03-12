@@ -94,3 +94,9 @@ Open Chrome, go to Google Docs, and give voice typing a try. With a little pract
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome extensions for ruler measurement](/articles/chrome-extensions-for-ruler-measurement)
+- [chrome for banking online security tips](/articles/chrome-for-banking-online-security-tips)
+- [Chrome Slower After macOS Update Fix](/articles/chrome-slower-after-macos-update-fix)

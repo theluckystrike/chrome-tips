@@ -88,6 +88,7 @@ A slow browser is a major productivity killer, but it's rarely a permanent probl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Running Slow on New Laptop? Here's Why and How to Fix It](/chrome-running-slow-on-new-laptop-why)
-- [Why Does Each Chrome Tab Use So Much Memory](/why-does-each-chrome-tab-use-so-much-memory)
-- [Why Does Opening Chrome Slow Down Everything](/why-does-opening-chrome-slow-down-everything)
+
+- [YouTube Buffering on Chrome But Not Firefox: Why and How to Fix It](/articles/youtube-buffering-on-chrome-but-not-firefox)
+- [chrome for mouse gestures extensions](/articles/chrome-for-mouse-gestures-extensions)
+- [chrome extensions for web clipping](/articles/chrome-extensions-for-web-clipping)

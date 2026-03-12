@@ -72,6 +72,7 @@ Chrome also allows you to control autoplay behavior. If you find videos automati
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Twitch Streaming Setup In Browser](/chrome-for-twitch-streaming-setup-in-browser)
-- [Chrome for Habitica In Browser Tips](/chrome-for-habitica-in-browser-tips)
-- [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
+
+- [Chrome Extensions for Social Media Scheduler](/articles/chrome-extensions-for-social-media-scheduler)
+- [Chrome Bookmarks Bar Show Hide Shortcut](/articles/chrome-bookmarks-bar-show-hide-shortcut)
+- [Chrome Android Tabs Too Many How to Manage](/articles/chrome-android-tabs-too-many-how-to-manage)

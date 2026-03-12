@@ -224,3 +224,9 @@ Combined with tools like Tab Suspender Pro that help you manage your active brow
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Offscreen Canvas Performance: A Complete Guide](/articles/chrome-offscreen-canvas-performance)
+- [Chrome Auto Dark Mode for Web Contents](/articles/chrome-auto-dark-mode-for-web-contents)
+- [How to Change Chrome Font Size Permanently](/articles/chrome-font-size-permanently-change)

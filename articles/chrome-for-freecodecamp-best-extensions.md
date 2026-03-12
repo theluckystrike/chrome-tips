@@ -79,6 +79,7 @@ The key is to keep your browser organized so you can focus on what matters most:
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
-- [Best Chrome Extensions For Teachers Online](/best-chrome-extensions-for-teachers-online)
+
+- [chrome voice control navigate by speaking](/articles/chrome-voice-control-navigate-by-speaking)
+- [Chrome Font Palette Customization: Complete Guide for 2026](/articles/chrome-font-palette-customization)
+- [Chrome for Autofill Credit Card Safety](/articles/chrome-for-autofill-credit-card-safety)

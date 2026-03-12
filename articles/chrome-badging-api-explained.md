@@ -74,6 +74,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Web Storage Limits Explained](/chrome-web-storage-limits-explained)
-* [Chrome Wont Install on Windows 11 Fix](/chrome-wont-install-on-windows-11-fix)
-* [How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost](/chrome-err-connection-refused-localhost-fix)
+- [Chrome Print to PDF Without Margins](/articles/chrome-print-to-pdf-without-margins)
+- [Chrome Web Store Best Free Games](/articles/chrome-web-store-best-free-games)
+- [Chrome Instant Apps on Android Explained](/articles/chrome-instant-apps-on-android-explained)

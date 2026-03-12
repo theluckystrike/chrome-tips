@@ -75,6 +75,7 @@ Think of Chrome flags as a playground where you can try new things, but always k
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
-- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
-- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)
+
+- [Chrome Opens on Startup Windows: How to Stop](/articles/chrome-opens-on-startup-windows-how-to-stop)
+- [Chrome Cleanup Tool: Where Did It Go?](/articles/chrome-cleanup-tool-where-did-it-go)
+- [Chrome Custom Tabs on Android What They Are](/articles//chrome-custom-tabs-on-android-what-they-are/)

@@ -91,3 +91,9 @@ Remember that scroll-driven animations should enhance usability, not replace it.
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Android Slow Fix 2026](/articles/chrome-android-slow-fix-2026)
+- [Chrome Extension for Checking Grammar While Typing](/articles/chrome-extension-for-checking-grammar-while-typing)
+- [Chrome This Connection Is Not Private Bypass](/articles/chrome-this-connection-is-not-private-bypass)

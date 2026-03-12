@@ -124,3 +124,9 @@ Remember that your MacBook Air was designed to handle everyday browsing tasks. W
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Persistent Storage Permission Explained](/articles/chrome-persistent-storage-permission-explained)
+- [Chrome Notification Sound How to Change](/articles/chrome-notification-sound-how-to-change)
+- [Chrome DevTools Changes Panel to Track Edits](/articles//chrome-devtools-changes-panel-track-edits/)

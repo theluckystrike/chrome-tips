@@ -71,3 +71,9 @@ You could also try reaching out to Google support. They have resources and guide
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [What Is Chrome Paint Holding and How It Speeds Up Page Load](/articles/chrome-paint-holding-page-load)
+- [Chrome Storage Partitioning: What Changed and Why It Matters](/articles/chrome-storage-partitioning-what-changed)
+- [chrome image search by url how to](/articles/chrome-image-search-by-url-how-to)

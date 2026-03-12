@@ -72,6 +72,7 @@ Once you start using these extensions, you will wonder how you ever used WhatsAp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Soundcloud Web Player Extensions](/chrome-for-soundcloud-web-player-extensions)
-- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
-- [Chrome Extensions for Web Scraping Without Code](/chrome-extensions-for-web-scraping-without-code)
+
+- [Chrome AI Search Suggestions Explained](/articles/chrome-ai-search-suggestions-explained)
+- [How to View Saved Passwords in Chrome 2026](/articles/how-to-view-saved-passwords-in-chrome-2026)
+- [Chrome Running Slow on New Laptop? Here's Why and How to Fix It](/articles/chrome-running-slow-on-new-laptop-why)

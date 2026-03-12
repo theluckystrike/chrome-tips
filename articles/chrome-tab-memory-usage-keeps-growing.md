@@ -101,3 +101,9 @@ For users who must use Chrome, combining multiple solutions typically works best
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Binance Web Trading Tips](/articles/chrome-for-binance-web-trading-tips)
+- [chrome extensions for ruler measurement](/articles/chrome-extensions-for-ruler-measurement)
+- [How to Inspect and Debug WebSocket Connections in Chrome](/articles/chrome-websocket-inspect-debug)

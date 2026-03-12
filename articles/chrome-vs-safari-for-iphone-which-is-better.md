@@ -76,3 +76,9 @@ Managing your tabs and being mindful of how many you keep open at once can make 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Helper Renderer Using Too Much CPU](/articles/chrome-helper-renderer-using-too-much-cpu)
+- [Chrome Passkeys Guide 2026](/articles/chrome-passkeys-guide-2026)
+- [Chrome Rendering Panel Guide](/articles/chrome-rendering-panel-guide)

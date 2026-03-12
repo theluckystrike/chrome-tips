@@ -139,3 +139,9 @@ Remember: keeping Chrome updated and your system running smoothly goes a long wa
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome gamepad api how to use](/articles/chrome-gamepad-api-how-to-use)
+- [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions)
+- [Chrome for Custom Search Engines Setup](/articles/chrome-for-custom-search-engines-setup)

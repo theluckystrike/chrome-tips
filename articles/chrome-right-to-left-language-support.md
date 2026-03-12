@@ -98,3 +98,9 @@ With these steps, you should be able to read and write in Arabic, Hebrew, Persia
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [chrome high contrast mode how to enable](/articles/chrome-high-contrast-mode-how-to-enable)
+- [How to Enable Chrome Site Isolation for Extra Security](/articles/chrome-site-isolation-enable-extra-security)
+- [Chrome Reader Mode How to Activate](/articles/chrome-reader-mode-how-to-activate)

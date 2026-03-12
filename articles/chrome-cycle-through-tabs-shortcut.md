@@ -71,6 +71,7 @@ Tab Suspender Pro also provides visual indicators that make it easier to see whi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
-- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
-- [Chrome Select All Tabs Shortcut](/chrome-select-all-tabs-shortcut)
+
+- [Chrome Password Generator How to Use](/articles/chrome-password-generator-how-to-use)
+- [chrome fingerprinting protection explained](/articles/chrome-fingerprinting-protection-explained)
+- [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained)

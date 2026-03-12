@@ -95,3 +95,9 @@ It works by "hibernating" tabs you haven't looked at in a while, effectively fre
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Lite Mode Replacement 2026](/articles/chrome-lite-mode-replacement-2026)
+- [Chrome Best Screenshot Extension 2026](/articles/chrome-best-screenshot-extension-2026)
+- [Chrome Prerender Pages Faster Browsing: Complete Guide](/articles/chrome-prerender-pages-faster-browsing)

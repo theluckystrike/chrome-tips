@@ -72,3 +72,9 @@ Next time you are curious about how a website is built, want to troubleshoot an 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Salesforce Web App Optimization](/articles/chrome-for-salesforce-web-app-optimization)
+- [Chrome Background Sync API Explained](/articles/chrome-background-sync-api-explained)
+- [chrome themes best dark themes 2026](/articles/chrome-themes-best-dark-themes-2026)

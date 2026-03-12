@@ -130,3 +130,9 @@ Start by enabling a few of these flags today and see the difference for yourself
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Release Schedule: When Is the Next Update?](/articles/chrome-release-schedule-when-next-update)
+- [Chrome Visual Search on Desktop: A Complete Guide](/articles/chrome-visual-search-on-desktop)
+- [Chrome Split Screen Without Extension](/articles/chrome-split-screen-without-extension)

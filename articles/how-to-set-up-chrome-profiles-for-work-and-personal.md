@@ -70,6 +70,7 @@ Give it a try and see how much easier your browsing becomes when everything has 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Tab Groups Auto Create How To Set Up](/chrome-tab-groups-auto-create-how-to-set-up)
-- [Chrome iPhone Widgets How to Set Up](/chrome-iphone-widgets-how-to-set-up)
-- [Chrome Cast to TV How to Set Up](/chrome-cast-to-tv-how-to-set-up)
+
+- [How to Turn Off Chrome Notifications on Android](/articles/how-to-turn-off-chrome-notifications-android)
+- [Chrome CDP Protocol Explained Simply](/articles/chrome-cdp-protocol-explained-simply)
+- [Chrome Dns Over Https Setup](/articles/chrome-dns-over-https-setup)

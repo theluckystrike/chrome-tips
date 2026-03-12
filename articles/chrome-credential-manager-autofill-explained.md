@@ -63,6 +63,7 @@ Give it a try on your next login and see how much time it saves you. With a litt
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Task Manager Shortcut Explained](/chrome-task-manager-shortcut-explained)
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
+
+- [Chrome Site Isolation What It Means](/articles/chrome-site-isolation-what-it-means)
+- [Chrome Extensions Disappeared After Update Fix](/articles/chrome-extensions-disappeared-after-update-fix)
+- [Chrome Google Account Privacy Settings Guide](/articles/chrome-google-account-privacy-settings-guide)

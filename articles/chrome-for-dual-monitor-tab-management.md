@@ -70,6 +70,7 @@ Taking time to organize your tabs might seem like extra work, but it pays off in
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Extensions for Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-- [Chrome For Window Management Extensions](/chrome-for-window-management-extensions)
-- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
+
+- [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes)
+- [How to Use Chrome Read Later: Save Articles for Offline Reading](/articles/chrome-read-later-save-articles-offline)
+- [Chrome for Airbnb Browsing Best Extensions](/articles/chrome-for-airbnb-browsing-best-extensions)

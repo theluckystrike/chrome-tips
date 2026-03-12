@@ -72,6 +72,7 @@ Pay attention to how different extensions affect your browser performance. If yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/articles/chrome-err-cert-authority-invalid-fix)
+- [Chrome Screen Wake Lock API Explained](/articles/chrome-screen-wake-lock-api-explained)
+- [Chrome Allow Popups for One Site How To](/articles/chrome-allow-popups-for-one-site-how-to)

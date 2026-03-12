@@ -83,6 +83,7 @@ Remember that you can always adjust these settings later if your needs change. T
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Opens on Startup Windows: How to Stop](/chrome-opens-on-startup-windows-how-to-stop)
-- [Chrome Mobile Tabs Too Many How to Manage](/chrome-mobile-tabs-too-many-how-to-manage)
-- [Chrome Reader Mode on Phone: How to Enable](/chrome-reader-mode-on-phone-how-to-enable)
+
+- [Chrome Preloading Pages Setting Explained](/articles/chrome-preloading-pages-setting-explained)
+- [Chrome Extensions for New Tab Dashboard](/articles/chrome-extensions-for-new-tab-dashboard)
+- [Chrome How to Clear Individual Site Data](/articles/chrome-how-to-clear-individual-site-data)

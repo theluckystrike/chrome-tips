@@ -91,6 +91,7 @@ If your browser feels sluggish or you often have many tabs open, consider using 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Mouse Scroll Not Working Fix](/chrome-mouse-scroll-not-working-fix)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome Mouse Cursor Extension Customize](/chrome-mouse-cursor-extension-customize)
+
+- [Chrome Bookmarks Bar Show Hide Shortcut](/articles/chrome-bookmarks-bar-show-hide-shortcut)
+- [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/articles/chrome-extension-using-too-much-memory-find)
+- [Chrome Extensions for Google Forms](/articles/chrome-extensions-for-google-forms)

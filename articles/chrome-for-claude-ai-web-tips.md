@@ -79,6 +79,7 @@ These chrome for claude ai web tips should help you create a more productive set
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Rosetta Stone Web Tips](/chrome-for-rosetta-stone-web-tips)
-- [Chrome for Costco Web Shopping Tips](/chrome-for-costco-web-shopping-tips)
-- [Chrome For Walmart Grocery Web Tips](/chrome-for-walmart-grocery-web-tips)
+
+- [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/articles/chrome-site-isolation-security-feature)
+- [Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser](/articles/chrome-sanitizer-api-html-safe)
+- [Chrome Extension Monetization Strategies That Actually Work](/articles/chrome-extension-monetization-strategies)

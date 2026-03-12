@@ -73,6 +73,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Best Chrome Extensions for Content Creators](/best-chrome-extensions-for-content-creators)
-* [Chrome DevTools Workspaces Guide](/chrome-workspaces-guide)
-* [Chrome Extensions For Color Palette Picker](//articles/chrome-extensions-for-color-palette-picker/)
+- [Chrome Extensions for Website Archiving](/articles/chrome-extensions-for-website-archiving)
+- [Chrome for Cryptocurrency Tracking Extensions](/articles/chrome-for-cryptocurrency-tracking-extensions)
+- [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/articles/chrome-err-cert-authority-invalid-fix)

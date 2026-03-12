@@ -172,6 +172,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Best Chrome Themes 2026](/best-chrome-themes-2026)
-* [chrome javascript disable for one site how to](/chrome-javascript-disable-for-one-site-how-to)
-* [Chrome Version How to Check Which Version](/chrome-version-how-to-check-which-version)
+- [chrome for geforce now best settings](/articles/chrome-for-geforce-now-best-settings)
+- [Chrome Tracing for Performance Issues](/articles/chrome-tracing-for-performance-issues)
+- [Chrome Auto Dark Mode for Web Contents](/articles/chrome-auto-dark-mode-for-web-contents)

@@ -108,6 +108,7 @@ Whether you are a web developer, a digital advertiser, or just someone intereste
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
 ## Related Articles
-- [Chrome Console Utilities Reference](/chrome-console-utilities-guide)
-- [Chrome Fenced Frames Privacy Explained](/chrome-fenced-frames-privacy-explained)
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+
+- [chrome extensions for json viewer](/articles/chrome-extensions-for-json-viewer)
+- [Chrome for Forest Focus Timer Extension](/articles/chrome-for-forest-focus-timer-extension)
+- [How to Uninstall Chrome Completely and Reinstall](/articles/how-to-uninstall-chrome-completely-and-reinstall)

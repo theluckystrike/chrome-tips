@@ -65,3 +65,9 @@ Setting multiple startup pages is one of those simple tweaks that makes your dai
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for QR Code Generator](/articles/chrome-extension-for-qr-code-generator)
+- [Chrome Task Manager Guide](/articles/chrome-task-manager-guide)
+- [Chrome WASM WebAssembly Getting Started: A Complete Beginner's Guide](/articles/chrome-wasm-webassembly-getting-started)

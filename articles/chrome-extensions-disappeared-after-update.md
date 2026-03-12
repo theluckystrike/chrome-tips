@@ -56,3 +56,9 @@ If all else fails, you may need to reset Chrome to its default settings. This re
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Keeps Stopping on Android Fix](/articles/chrome-keeps-stopping-on-android-fix)
+- [chrome reopen closed tab shortcut](/articles/chrome-reopen-closed-tab-shortcut)
+- [Chrome for Babbel Web App Tips](/articles/chrome-for-babbel-web-app-tips)

@@ -70,6 +70,7 @@ Give yourself permission to be clumsy at first. You will likely trigger the wron
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Mouse Gestures Extensions](/chrome-for-mouse-gestures-extensions)
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+
+- [Chromebook Guest Mode What It Does](/articles/chromebook-guest-mode-what-it-does)
+- [Chrome Screen Share in Google Meet Tips](/articles/chrome-screen-share-in-google-meet-tips)
+- [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/articles/chrome-tab-hibernate-save-memory)

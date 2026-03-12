@@ -75,6 +75,7 @@ Remember that extensions are tools, and like any tools, they work best when used
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Email Management](/best-chrome-extensions-for-email-management)
-- [Chrome Extensions for Email Tracking Read Receipts](/chrome-extensions-for-email-tracking-read-receipts)
-- [Chrome Extensions for Focus and Productivity](/chrome-extensions-for-focus-and-productivity)
+
+- [Chrome Hardware Acceleration Gaming: Complete Optimization Guide](/articles/chrome-hardware-acceleration-gaming)
+- [Chrome Source Maps Explained Simply](/articles/chrome-source-maps-explained-simply)
+- [Chrome Cookie Consent Popups How to Handle](/articles/chrome-cookie-consent-popups-how-to-handle)

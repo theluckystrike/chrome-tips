@@ -64,6 +64,7 @@ The best part is that these extensions work quietly in the background once insta
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Weather Forecast](/chrome-extensions-for-weather-forecast)
-- [Chrome Extensions for Weather Forecast New Tab](/chrome-extensions-for-weather-forecast-new-tab)
+
+- [Chrome Switch Between Windows Shortcut](/articles/chrome-switch-between-windows-shortcut)
+- [Chrome PDF Not Downloading Just Opening Fix](/articles/chrome-pdf-not-downloading-just-opening-fix)
+- [Chrome Attribution Reporting API Explained](/articles/chrome-attribution-reporting-api-explained)

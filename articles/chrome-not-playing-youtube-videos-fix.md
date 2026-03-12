@@ -105,6 +105,7 @@ Remember that most YouTube playback problems have simple solutions. Start with t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Not Playing Videos Fix](/chrome-not-playing-videos-fix)
-- [Chrome Youtube Comments Not Showing Fix](/chrome-youtube-comments-not-showing-fix)
-- [Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide](/chrome-amazon-prime-video-not-playing-fix)
+
+- [Chrome for Costco Web Shopping Tips](/articles/chrome-for-costco-web-shopping-tips)
+- [How to Make Chrome Remember Tabs After Closing](/articles/how-to-make-chrome-remember-tabs-after-closing)
+- [Chrome NET ERR CERT DATE INVALID Fix](/articles/chrome-net-err-cert-date-invalid-fix)

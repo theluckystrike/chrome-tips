@@ -72,6 +72,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/chrome-makes-my-old-laptop-unusable)
-* [How to Use Chrome DevTools Device Orientation Emulator](//chrome-devtools-device-orientation-emulator/)
-* [Chrome Scroll Not Smooth Fix](/chrome-scroll-not-smooth-fix)
+- [chrome for education classroom management](/articles/chrome-for-education-classroom-management)
+- [chrome mutation observer api explained](/articles/chrome-mutation-observer-api-explained)
+- [Chrome for iPad Tips and Tricks](/articles/chrome-for-ipad-tips-and-tricks)

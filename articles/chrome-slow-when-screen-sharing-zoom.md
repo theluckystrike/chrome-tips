@@ -105,3 +105,9 @@ Remember, the key is to reduce the memory burden on your computer before the mee
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome OS vs Windows for Basic Use](/articles/chrome-os-vs-windows-for-basic-use)
+- [Chrome Extensions for Speed Reading](/articles/chrome-extensions-for-speed-reading)
+- [Chrome Address Bar Autocomplete How to Clear](/articles/chrome-address-bar-autocomplete-how-to-clear)

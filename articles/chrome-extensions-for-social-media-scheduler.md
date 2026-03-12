@@ -82,6 +82,7 @@ Remember that consistency matters more than perfection. Starting with a simple s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Hiding Social Media Feeds](/chrome-for-hiding-social-media-feeds)
-- [Chrome Extensions for Managing Multiple Social Accounts](/chrome-extensions-for-managing-multiple-social-accounts)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+
+- [Chrome Task Manager How to Use](/articles/chrome-task-manager-how-to-use)
+- [Chrome for StackOverflow Best Extensions](/articles/chrome-for-stackoverflow-best-extensions)
+- [Chrome Network Process High CPU Fix](/articles/chrome-network-process-high-cpu-fix)

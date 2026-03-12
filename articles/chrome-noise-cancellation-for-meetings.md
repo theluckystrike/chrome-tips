@@ -141,3 +141,9 @@ Take a few minutes to configure your noise cancellation settings today. Your col
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Website Monitoring Changes](/articles/chrome-extensions-for-website-monitoring-changes)
+- [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained)
+- [Chrome View Source Shortcut](/articles/chrome-view-source-shortcut)

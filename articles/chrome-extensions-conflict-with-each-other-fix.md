@@ -96,3 +96,9 @@ Remember that most extension conflicts can be resolved with some patience and tr
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Google Docs Offline Setup](/articles/chrome-for-google-docs-offline-setup)
+- [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/articles/chrome-tab-hibernate-save-memory)
+- [Chrome Pinned Tabs Explained](/articles/chrome-pinned-tabs-explained)

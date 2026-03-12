@@ -70,3 +70,9 @@ Chrome update failed error 7 is usually fixable with a few simple steps. Start w
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Cold Turkey Blocker Setup](/articles/chrome-for-cold-turkey-blocker-setup)
+- [Chrome for Khan Academy Best Settings](/articles/chrome-for-khan-academy-best-settings)
+- [Chrome for Google Meet Camera Settings](/articles/chrome-for-google-meet-camera-settings)

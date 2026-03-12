@@ -54,6 +54,7 @@ Regardless of which extension you choose, keeping too many saved pages and activ
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Grammarly Alternative Free](/chrome-extensions-for-grammarly-alternative-free)
-- [Chrome Extensions for Grammar Check Free Alternative](/chrome-extensions-for-grammar-check-free-alternative)
+
+- [Chrome Profile Backup How to Save](/articles/chrome-profile-backup-how-to-save)
+- [chrome web store not loading fix](/articles/chrome-web-store-not-loading-fix)
+- [Chrome Guest Browsing: What Data Is Saved](/articles/chrome-guest-browsing-what-data-is-saved)

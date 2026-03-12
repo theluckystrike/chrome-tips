@@ -97,6 +97,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Performance Settings Best Configuration](/chrome-performance-settings-best-configuration)
-* [Chrome Redirecting to Wrong Pages Fix](/chrome-redirecting-to-wrong-pages-fix)
-* [How to Do a Reverse Image Search in Chrome Without an Extension](/chrome-reverse-image-search-without-extension)
+- [Chrome Cookies Explained for Beginners](/articles/chrome-cookies-explained-for-beginners)
+- [Chrome DNS Probe Finished Nxdomain Fix](/articles/chrome-dns-probe-finished-nxdomain-fix)
+- [chrome shortcuts on desktop how to create](/articles/chrome-shortcuts-on-desktop-how-to-create)

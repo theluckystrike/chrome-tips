@@ -84,6 +84,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [chrome offline google docs how to enable](/chrome-offline-google-docs-how-to-enable)
-* [Chrome Local Font Access API Explained](/chrome-local-font-access-api-explained)
-* [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
+- [Chrome Passkeys Setup Guide 2026](/articles/chrome-passkeys-setup-guide-2026)
+- [Chrome Extensions for Meeting Notes](/articles/chrome-extensions-for-meeting-notes)
+- [Chrome Lazy Loading Images Native: How It Works and Why You Should Use It](/articles/chrome-lazy-loading-images-native)

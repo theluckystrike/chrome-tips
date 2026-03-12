@@ -67,6 +67,7 @@ Start with the simpler fixes like closing tabs and updating drivers, then move o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Benchmark Score What It Means](/chrome-benchmark-score-what-it-means)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)
+
+- [How to Resume Failed Download in Chrome](/articles/how-to-resume-failed-download-in-chrome)
+- [Chrome Bitwarden vs Chrome Password Manager: Which Should You Use?](/articles/chrome-bitwarden-vs-chrome-password-manager)
+- [Chrome Slow on Your Old MacBook? Here's How to Fix It](/articles/chrome-slow-on-old-macbook-fix)

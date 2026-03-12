@@ -66,6 +66,7 @@ Take some time to experiment with different arrangements and find what works bes
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
-- [Chrome Desktop Mode on Phone How to Use](/chrome-desktop-mode-on-phone-how-to-use)
-- [Chrome Translate On Phone How To Use](/chrome-translate-on-phone-how-to-use)
+
+- [Chrome Navigation API for Single Page Apps: A Complete Guide](/articles/chrome-navigation-api-single-page-apps)
+- [Chrome for Disney Plus Not Working Fix](/articles/chrome-for-disney-plus-not-working-fix)
+- [Chrome Safety Check What It Does](/articles/chrome-safety-check-what-it-does)

@@ -68,3 +68,9 @@ This extension automatically "hibernates" inactive tabs, freeing up **RAM** so t
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [chrome shared storage api privacy impact](/articles/chrome-shared-storage-api-privacy-impact)
+- [Chrome for MasterClass Web Tips](/articles/chrome-for-masterclass-web-tips)
+- [Chrome for Research Workflow Best Setup](/articles/chrome-for-research-workflow-best-setup)

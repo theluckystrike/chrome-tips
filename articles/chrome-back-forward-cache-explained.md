@@ -76,6 +76,6 @@ If you find that Chrome is using more memory than you would like, or if your bro
 
 ## Related Articles
 
-* [Chrome vs Firefox Memory Usage Test 2026](/chrome-vs-firefox-memory-usage-test-2026)
-* [chrome privacy checkup how to do](/chrome-privacy-checkup-how-to-do)
-* [Chrome Shape Detection API Explained](/chrome-shape-detection-api-explained)
+- [Chrome Keeps Freezing Every Few Minutes: Causes and Fixes](/articles/chrome-keeps-freezing-every-few-minutes)
+- [Chrome View Page Resources How to](/articles/chrome-view-page-resources-how-to)
+- [Chrome ERR_NETWORK_CHANGED Fix](/articles/chrome-err-network-changed-fix)

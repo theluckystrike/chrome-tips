@@ -97,3 +97,9 @@ For ongoing browser optimization, remember that managing your tabs efficiently c
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users)
+- [Chrome Font Fingerprinting Explained and Fix](/articles/chrome-font-fingerprinting-explained-and-fix)
+- [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms)

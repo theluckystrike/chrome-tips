@@ -65,6 +65,7 @@ Remember, creating an inclusive web experience does not require complex technica
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
-- [Chrome DevTools Protocol Monitor](/chrome-devtools-protocol-monitor)
-- [Chrome Color Picker Extension Best](/chrome-color-picker-extension-best)
+
+- [Chrome Video Speed Controller Extension](/articles/chrome-video-speed-controller-extension)
+- [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling)
+- [Chrome AI Summarize Feature How to Use](/articles/chrome-ai-summarize-feature-how-to-use)

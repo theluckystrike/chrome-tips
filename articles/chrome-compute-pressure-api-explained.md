@@ -91,6 +91,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Extensions for Weather Forecast](/chrome-extensions-for-weather-forecast)
-* [Chrome Open Settings Shortcut](/chrome-open-settings-shortcut)
-* [Chrome Bookmarks File Location and Backup Guide](/chrome-bookmarks-file-location-backup)
+- [Chrome vs Safari Memory Usage Mac](/articles/chrome-vs-safari-memory-usage-mac)
+- [Chrome Scroll to Top of Page Shortcut](/articles/chrome-scroll-to-top-of-page-shortcut)
+- [Chrome Profile Specific Extensions How to Set](/articles/chrome-profile-specific-extensions-how-to-set)

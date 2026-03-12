@@ -70,6 +70,7 @@ Remember, website performance is not a one-time fix. As you add new content and 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
-- [Chrome Lighthouse Performance Score Explained Simply](/chrome-lighthouse-performance-score-explained-simply)
+
+- [Chrome Tab to Search Feature How to Use](/articles/chrome-tab-to-search-feature-how-to-use)
+- [chrome location services how to turn off](/articles/chrome-location-services-how-to-turn-off)
+- [Chrome for Travel Planning: Best Extensions](/articles/chrome-for-travel-planning-best-extensions)

@@ -89,6 +89,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Ai Theme Generator How To Use](/chrome-ai-theme-generator-how-to-use)
-* [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
-* [Chrome Speech Recognition API Explained](/chrome-speech-recognition-api-explained)
+- [Chrome Preload Pages Setting Explained](/articles/chrome-preload-pages-setting-explained)
+- [Chrome Subgrid Layout Examples: A Complete Guide](/articles/chrome-subgrid-layout-examples)
+- [Chrome Spellcheck Not Working? Here's How to Fix It](/articles/chrome-spellcheck-not-working-fix)

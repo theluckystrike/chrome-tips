@@ -74,3 +74,9 @@ Tab Suspender Pro can help with this by automatically suspending tabs you are no
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome AI Writing Help Feature](/articles/chrome-ai-writing-help-feature)
+- [Chrome Ai Features Built In 2026](/articles/chrome-ai-features-built-in-2026)
+- [Chrome Open Link in New Tab Shortcut](/articles/chrome-open-link-in-new-tab-shortcut)

@@ -55,3 +55,9 @@ However, if you find yourself regularly needing to flush socket pools to keep Ch
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Blurry Text Fix Windows](/articles/chrome-blurry-text-fix-windows)
+- [Chrome New Tab Page Best Extensions](/articles/chrome-new-tab-page-best-extensions)
+- [Chrome Extensions for Tree Style Tabs](/articles/chrome-extensions-for-tree-style-tabs)

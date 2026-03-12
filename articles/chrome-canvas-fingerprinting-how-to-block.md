@@ -73,6 +73,6 @@ Your online privacy is worth protecting, and you do not need to be a tech expert
 
 ## Related Articles
 
-* [Chrome DNS Settings How to Change for Privacy](/chrome-dns-settings-how-to-change-for-privacy)
-* [Chrome Jump to Specific Tab Number Shortcut](/chrome-jump-to-specific-tab-number-shortcut)
-* [Chrome iPhone Widgets How to Set Up](/chrome-iphone-widgets-how-to-set-up)
+- [How to Throttle Network Speed in Chrome](/articles/chrome-throttle-network-speed-how-to)
+- [chrome web bluetooth how to use](/articles/chrome-web-bluetooth-how-to-use)
+- [chrome for odysee web player tips](/articles/chrome-for-odysee-web-player-tips)

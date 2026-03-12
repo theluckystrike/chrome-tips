@@ -54,6 +54,7 @@ Tab Suspender Pro works quietly in the background to identify tabs you have not 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
-- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
-- [Chrome Screen Wake Lock API Explained](/chrome-screen-wake-lock-api-explained)
+
+- [Chrome Credential Management API: Complete Guide for Developers](/articles/chrome-credential-management-api)
+- [Chrome New Tab Page Best Extensions](/articles/chrome-new-tab-page-best-extensions)
+- [Chrome Layers Panel Explained](/articles/chrome-layers-panel-explained)

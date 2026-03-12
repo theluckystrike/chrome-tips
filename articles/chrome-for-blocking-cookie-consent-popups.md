@@ -62,6 +62,7 @@ Remember that while these solutions make browsing more pleasant, they do not cha
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Blocking Distracting Websites](/chrome-extensions-for-blocking-distracting-websites)
-- [Chrome Cookie Consent Popups How to Auto Accept](/chrome-cookie-consent-popups-how-to-auto-accept)
-- [Chrome Allow Popups for One Site How To](/chrome-allow-popups-for-one-site-how-to)
+
+- [chrome voice search how to use on desktop](/articles/chrome-voice-search-how-to-use-on-desktop)
+- [Chrome Offline Google Calendar](/articles/chrome-offline-google-calendar)
+- [chrome for stylus and pen input settings](/articles/chrome-for-stylus-and-pen-input-settings)

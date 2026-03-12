@@ -62,3 +62,9 @@ Avoid keeping tabs with auto-refreshing content open in the background. News sit
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage)
+- [Chrome Keyboard Lock API: Building Immersive Fullscreen Games](/articles/chrome-keyboard-lock-api-fullscreen-games)
+- [How to Group Tabs by Color in Chrome: A Complete Guide](/articles/chrome-group-tabs-by-color-organize)

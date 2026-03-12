@@ -58,6 +58,7 @@ For most users, clearing the Chrome cache every two to four weeks strikes a good
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Should I Use Chrome or Edge in 2026?](/should-i-use-chrome-or-edge-2026)
-- [Chrome How to Clear Individual Site Data](/chrome-how-to-clear-individual-site-data)
-- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
+
+- [Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser](/articles/chrome-web-bluetooth-api-guide)
+- [How to Stop Chrome from Running in Background](/articles/how-to-stop-chrome-from-running-in-background)
+- [Chrome Extensions For Email Templates](/articles//articles/chrome-extensions-for-email-templates/)

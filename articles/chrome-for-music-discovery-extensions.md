@@ -75,6 +75,7 @@ Take some time to try different extensions and see which ones fit your listening
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+
+- [Chrome Responsive Design Mode: How to Use It Effectively](/articles/chrome-responsive-design-mode-how-to-use)
+- [Chrome Pop Ups How to Block All](/articles/chrome-pop-ups-how-to-block-all)
+- [Chrome Auto Dark Mode for Web Contents](/articles/chrome-auto-dark-mode-for-web-contents)

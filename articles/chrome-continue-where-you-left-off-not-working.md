@@ -91,6 +91,6 @@ Chrome continue where you left off not working is frustrating, but it is usually
 
 ## Related Articles
 
-* [Chrome Download Files on Phone Where to Find](/chrome-download-files-on-phone-where-to-find)
-* [Chrome Extensions for Virtual Whiteboard](/chrome-extensions-for-virtual-whiteboard)
-* [Best Chrome Extensions for Cybersecurity Professionals](/best-chrome-extensions-for-cybersecurity-professionals)
+- [Chrome Lite Mode Replacement 2026](/articles/chrome-lite-mode-replacement-2026)
+- [Chrome Flags That Actually Make It Faster: A Practical Guide for Slow Computers](/articles/chrome-flags-that-actually-make-it-faster)
+- [chrome for mouse gestures extensions](/articles/chrome-for-mouse-gestures-extensions)

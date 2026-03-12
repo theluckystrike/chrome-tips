@@ -99,6 +99,7 @@ You should also periodically check your OneNote account to make sure your clips 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Zotero Web Connector Setup](/chrome-for-zotero-web-connector-setup)
-- [Chrome for Evernote Web Clipper Tips](/chrome-for-evernote-web-clipper-tips)
-- [Chrome for Notion Web Clipper Setup](/chrome-for-notion-web-clipper-setup)
+
+- [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does)
+- [Best Chrome Extensions for Web Developers 2026](/articles/best-chrome-extensions-for-web-developers-2026)
+- [Chrome Cast to TV How to Set Up](/articles/chrome-cast-to-tv-how-to-set-up)

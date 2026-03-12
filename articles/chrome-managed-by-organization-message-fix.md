@@ -92,6 +92,7 @@ Once the message is gone, you can enjoy using Chrome with full control over your
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Search Engine Changed by Itself Fix](/chrome-search-engine-changed-by-itself-fix)
-- [Chrome ERR_BLOCKED_BY_CLIENT Fix](/chrome-err-blocked-by-client-fix)
-- [Chrome Extensions Disabled by Administrator Fix](/chrome-extensions-disabled-by-administrator-fix)
+
+- [chrome offline first app design explained](/articles/chrome-offline-first-app-design-explained)
+- [Chrome Picture in Picture How to Use](/articles/chrome-picture-in-picture-how-to-use)
+- [Chrome vs Safari Memory Usage Mac](/articles/chrome-vs-safari-memory-usage-mac)

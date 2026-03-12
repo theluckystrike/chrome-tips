@@ -141,6 +141,7 @@ Ready to supercharge your browsing? Try **[Tab Suspender Pro](https://zovo.one/t
 **[zovo.one](https://zovo.one)**
 
 ## Related Articles
-- [Chrome Slow After Windows Update Fix](/chrome-slow-after-windows-update-fix)
-- [Chrome Slower After macOS Update Fix](/chrome-slower-after-macos-update-fix)
-- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
+
+- [Chrome Force Mobile Site on Desktop](/articles/chrome-force-mobile-site-on-desktop)
+- [Chrome for Wikipedia Enhanced Reading](/articles/chrome-for-wikipedia-enhanced-reading)
+- [chrome deceptive site ahead warning fix](/articles//chrome-deceptive-site-ahead-warning-fix/)

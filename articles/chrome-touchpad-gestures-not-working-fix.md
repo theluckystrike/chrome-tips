@@ -84,3 +84,9 @@ If nothing seems to work, remember that you can always reach out to Chrome suppo
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Upcoming Features Preview 2026](/articles/chrome-upcoming-features-preview-2026)
+- [Chrome Performance Getting Worse Over Time](/articles/chrome-performance-getting-worse-over-time)
+- [Chrome Gesture Navigation on Android](/articles/chrome-gesture-navigation-on-android)

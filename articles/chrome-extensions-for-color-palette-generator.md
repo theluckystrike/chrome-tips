@@ -68,6 +68,7 @@ If you find yourself with too many tabs open while working on color selection, c
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for Citation Generator](/chrome-extensions-for-citation-generator)
-- [Chrome Extensions for Color Palette Picker](/chrome-extensions-for-color-palette-picker)
+
+- [Chrome Startup Pages How to Set](/articles/chrome-startup-pages-how-to-set)
+- [Chrome for Affiliate Marketing Extensions](/articles/chrome-for-affiliate-marketing-extensions)
+- [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners)

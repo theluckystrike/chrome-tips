@@ -60,6 +60,7 @@ Give tab groups a try if you have not already. Start small, perhaps with just tw
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Network Tab: How to Use and Debug Network Requests](/chrome-network-tab-how-to-use-debug)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
+
+- [Chrome Web USB API Guide](/articles/chrome-web-usb-api-guide)
+- [Chrome Password Checkup What It Does](/articles/chrome-password-checkup-what-it-does)
+- [Chrome Scroll to Top of Page Shortcut](/articles/chrome-scroll-to-top-of-page-shortcut)

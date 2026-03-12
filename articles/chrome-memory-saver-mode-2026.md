@@ -98,3 +98,9 @@ Whether you stick with the built-in Memory Saver Mode or enhance it with tools l
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome material you design on desktop](/articles/chrome-material-you-design-on-desktop)
+- [How to Do a Reverse Image Search in Chrome Without an Extension](/articles/chrome-reverse-image-search-without-extension)
+- [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup)

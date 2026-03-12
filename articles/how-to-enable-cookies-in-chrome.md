@@ -68,6 +68,7 @@ For those who want a smoother browsing experience with less manual management, b
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
-- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
-- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
+
+- [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix)
+- [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track)
+- [How to Use Chrome Read Later: Save Articles for Offline Reading](/articles/chrome-read-later-save-articles-offline)

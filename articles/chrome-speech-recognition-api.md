@@ -262,3 +262,9 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 <<<<<<< HEAD
 =======
 >>>>>>> consumer/a54-chrome-speech-recognition-api
+
+## Related Articles
+
+- [Chrome Flexbox Inspector How to Use](/articles/chrome-flexbox-inspector-how-to-use)
+- [Chrome Extensions For Color Palette Picker](/articles//articles/chrome-extensions-for-color-palette-picker/)
+- [Chrome Microsoft Teams Web Slow Fix](/articles/chrome-microsoft-teams-web-slow-fix)

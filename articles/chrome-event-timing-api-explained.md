@@ -72,3 +72,9 @@ Keeping your tabs organized and managing how many you have open is a simple way 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Android Gestures You Didnt Know About](/articles/chrome-android-gestures-you-didnt-know-about)
+- [Chrome Math Symbols How to Type](/articles/chrome-math-symbols-how-to-type)
+- [Chrome Address Bar Suggestions How to Clear](/articles/chrome-address-bar-suggestions-how-to-clear)

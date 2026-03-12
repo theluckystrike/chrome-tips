@@ -79,6 +79,7 @@ Finally, remember to periodically check that your offline settings remain enable
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Safe Search How To Force Enable](/chrome-safe-search-how-to-force-enable)
-- [How to Enable Chrome Reading List](/how-to-enable-chrome-reading-list)
-- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+
+- [How to Use Chrome on Two Monitors](/articles/how-to-use-chrome-on-two-monitors)
+- [Chrome Slow With Many Tabs Open? Here's How to Fix It](/articles/chrome-slow-with-many-tabs-open)
+- [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to)

@@ -56,6 +56,7 @@ Chrome is designed to handle many tabs, and these shortcuts are built right in t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Profile Specific Extensions How to Set](/chrome-profile-specific-extensions-how-to-set)
-- [Chrome Reopen Closed Tab Shortcut](/chrome-reopen-closed-tab-shortcut)
-- [Chrome New Tab Page How To Customize](/chrome-new-tab-page-how-to-customize)
+
+- [chrome logpoints debug without console log](/articles/chrome-logpoints-debug-without-console-log)
+- [Chrome Flags Reset How to Undo Changes](/articles/chrome-flags-reset-how-to-undo-changes)
+- [Chrome for PayPal Business Best Settings](/articles/chrome-for-paypal-business-best-settings)

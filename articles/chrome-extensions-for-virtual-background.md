@@ -84,6 +84,7 @@ The right virtual background tools give you confidence in your appearance on cam
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for Virtual Whiteboard](/chrome-extensions-for-virtual-whiteboard)
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+
+- [Chrome Slow on Surface Pro Fix](/articles/chrome-slow-on-surface-pro-fix)
+- [How to Make Chrome Use Less Battery on MacBook](/articles/how-to-make-chrome-use-less-battery-macbook)
+- [Chrome Profile Specific Extensions How to Set](/articles/chrome-profile-specific-extensions-how-to-set)

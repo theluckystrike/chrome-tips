@@ -70,6 +70,7 @@ Do not feel pressured to install every extension you come across. More extension
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+- [Chrome Content Visibility Auto Performance](/articles/chrome-content-visibility-auto-performance)
+- [Chrome Extensions for Text Comparison Diff Tool](/articles/chrome-extensions-for-text-comparison-diff-tool)
+- [Chrome Tab From Other Device Not Showing Fix](/articles/chrome-tab-from-other-device-not-showing-fix)

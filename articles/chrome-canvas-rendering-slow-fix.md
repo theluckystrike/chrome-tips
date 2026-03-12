@@ -133,6 +133,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
-* [Chrome Open Source Parts Explained](/chrome-open-source-parts-explained)
-* [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
+- [chrome mobile translate page automatically](/articles/chrome-mobile-translate-page-automatically)
+- [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix)
+- [Chrome Keeps Opening New Tabs By Itself Virus](/articles/chrome-keeps-opening-new-tabs-by-itself-virus)

@@ -186,6 +186,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions for Tab Sleeping Automatically](/chrome-extensions-for-tab-sleeping-automatically)
-* [Chrome Dashlane vs 1Password Comparison](//chrome-dashlane-vs-onepassword-comparison/)
-* [Chrome Speech Recognition API Explained](/chrome-speech-recognition-api-explained)
+- [Chrome Devtools Color Picker How to Use](/articles//chrome-devtools-color-picker-how-to-use/)
+- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/articles/chrome-err-too-many-redirects-cookie-fix)
+- [Chrome Extensions For Email Templates](/articles//articles/chrome-extensions-for-email-templates/)

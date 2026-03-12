@@ -88,6 +88,7 @@ With the right extension and a consistent approach, you will be well on your way
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+
+- [Chrome Group Policy Settings Explained](/articles/chrome-group-policy-settings-explained)
+- [Chrome Print to PDF How to Save Webpage](/articles/chrome-print-to-pdf-how-to-save-webpage)
+- [How to Improve Chrome WebGL Performance](/articles/chrome-webgl-performance-how-to-improve)

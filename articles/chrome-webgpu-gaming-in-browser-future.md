@@ -64,8 +64,8 @@ Chrome WebGPU represents a pivotal moment in browser technology. What was once a
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
-
 ## Related Articles
-- [Chrome Spectre Attack Protection in Browser](/chrome-spectre-attack-protection-in-browser)
-- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
-- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)
+
+- [chrome for rosetta stone web tips](/articles/chrome-for-rosetta-stone-web-tips)
+- [Chrome Third Party Cookies Blocked What It Means](/articles/chrome-third-party-cookies-blocked-what-it-means)
+- [How to Use Chrome Without Signing In to Google](/articles/how-to-use-chrome-without-signing-in-to-google)

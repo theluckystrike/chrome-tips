@@ -64,6 +64,7 @@ Changing Chrome language settings is a matter of knowing where to look and makin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Proxy Settings How to Configure](/chrome-for-proxy-settings-how-to-configure)
-- [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
-- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
+
+- [Chrome New Tab Page Minimalist Extensions](/articles/chrome-new-tab-page-minimalist-extensions)
+- [Chrome Not Responding? Force Close It This Way](/articles/chrome-not-responding-force-close-how)
+- [Chrome Extensions for Reddit](/articles/chrome-extensions-for-reddit)

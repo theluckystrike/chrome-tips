@@ -73,6 +73,7 @@ Remember that Chrome is updated regularly, so new easter eggs may appear and old
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Memory Saver Mode 2026 Guide](/chrome-memory-saver-mode-2026)
-- [Chrome Keyboard Shortcuts Complete List 2026](/chrome-keyboard-shortcuts-complete-list-2026)
-- [Best Chrome Extensions for Writers 2026](/best-chrome-extensions-for-writers-2026)
+
+- [Chrome Task Manager Guide](/articles/chrome-task-manager-guide)
+- [Chrome Address Bar Not Showing Full URL Fix](/articles/chrome-address-bar-not-showing-full-url-fix)
+- [Chrome Trust Tokens Explained](/articles/chrome-trust-tokens-guide)

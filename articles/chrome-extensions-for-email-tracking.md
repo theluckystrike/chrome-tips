@@ -72,6 +72,7 @@ By choosing a reliable extension, using it strategically, and maintaining good e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Stock Market Tracking Extensions](/chrome-for-stock-market-tracking-extensions)
-- [Chrome Extensions for Email Tracking Read Receipts](/chrome-extensions-for-email-tracking-read-receipts)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+
+- [Laptop Freezing When Opening Chrome: Practical Solutions That Actually Work](/articles/laptop-freezing-when-opening-chrome)
+- [Chrome DevTools Performance Panel Explained](/articles/chrome-devtools-performance-panel-explained)
+- [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change)

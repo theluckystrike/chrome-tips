@@ -78,3 +78,9 @@ The best extension for you depends on your specific needs, but having some form 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Beta Channel How to Join and Leave](/articles/chrome-beta-channel-how-to-join-and-leave)
+- [Chrome vs Edge Extensions Compatibility](/articles/chrome-vs-edge-extensions-compatibility)
+- [Chrome vs Safari for iPhone Which is Better](/articles/chrome-vs-safari-for-iphone-which-is-better)

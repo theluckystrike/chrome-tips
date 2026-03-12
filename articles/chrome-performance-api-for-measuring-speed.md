@@ -65,3 +65,9 @@ Start by paying attention to how many tabs you keep open and which extensions yo
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Check If Chrome Extension Is Safe](/articles/how-to-check-if-chrome-extension-is-safe)
+- [Chrome Extensions for Google Calendar](/articles/chrome-extensions-for-google-calendar)
+- [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows)

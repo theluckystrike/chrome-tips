@@ -74,6 +74,7 @@ Once you have adjusted these settings to your liking, you can always change them
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Reader Mode How To Turn On 2026](/chrome-reader-mode-how-to-turn-on-2026)
-- [How to Disable Chrome Notifications Permanently](/how-to-disable-chrome-notifications-permanently)
-- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
+
+- [Chrome Bookmarks Not Syncing Fix](/articles/chrome-bookmarks-not-syncing-fix)
+- [Chrome Network Throttling Guide](/articles/chrome-network-throttling-guide)
+- [chrome extensions for web clipping](/articles/chrome-extensions-for-web-clipping)

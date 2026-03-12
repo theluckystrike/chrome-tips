@@ -92,3 +92,9 @@ Many users find that a balanced approach works best. They enable one or two feat
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [how to screenshot full page in chrome](/articles/how-to-screenshot-full-page-in-chrome)
+- [Chrome Preloading Pages Should I Enable It](/articles/chrome-preloading-pages-should-i-enable-it)
+- [Chrome Extensions for Website Archiving](/articles/chrome-extensions-for-website-archiving)

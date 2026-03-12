@@ -139,3 +139,9 @@ The next time you see a red error message in Chrome, don't panic. Use this guide
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Bookmark Current Page Shortcut](/articles/chrome-bookmark-current-page-shortcut)
+- [Chrome CORS Error for Regular Users](/articles/chrome-cors-error-for-regular-users)
+- [Chrome Memory Saver Mode How to Use](/articles/chrome-memory-saver-mode-how-to-use)

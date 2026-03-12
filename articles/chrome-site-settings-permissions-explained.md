@@ -84,3 +84,9 @@ Extensions can also help you manage your browsing experience. For instance, **Ta
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Force Mobile Site on Desktop](/articles/chrome-force-mobile-site-on-desktop)
+- [chrome for shopify store management tips](/articles/chrome-for-shopify-store-management-tips)
+- [Chromebook vs MacBook for College](/articles/chromebook-vs-macbook-for-college)

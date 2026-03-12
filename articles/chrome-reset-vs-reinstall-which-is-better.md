@@ -88,3 +88,9 @@ For users with slow computers and limited RAM, the most important thing is not j
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Hidden Games Easter Eggs List](/articles/chrome-hidden-games-easter-eggs-list)
+- [Chrome Hardware Acceleration Should I Turn It Off](/articles/chrome-hardware-acceleration-should-i-turn-it-off)
+- [Chrome Navigation API for Single Page Apps: A Complete Guide](/articles/chrome-navigation-api-single-page-apps)

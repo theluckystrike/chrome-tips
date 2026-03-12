@@ -81,3 +81,9 @@ Losing your tabs feels like losing your train of thought. By configuring your "O
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for instacart web app best settings](/articles/chrome-for-instacart-web-app-best-settings)
+- [How to Stop Chrome from Eating Your RAM](/articles/how-to-stop-chrome-from-eating-ram)
+- [Chrome Extensions For Font Changer On Any Website](/articles//articles/chrome-extensions-for-font-changer-on-any-website/)

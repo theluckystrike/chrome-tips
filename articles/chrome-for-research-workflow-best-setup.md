@@ -78,6 +78,7 @@ Taking notes directly while researching, rather than waiting until later, improv
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Best Chrome Extensions for Writers 2026](/best-chrome-extensions-for-writers-2026)
-- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
+
+- [How to Update Chrome on Android](/articles/how-to-update-chrome-on-android)
+- [Chrome Devtools Webauthn Debugger](/articles/chrome-devtools-webauthn-debugger)
+- [Chrome Extensions for Microsoft Teams](/articles/chrome-extensions-for-microsoft-teams)

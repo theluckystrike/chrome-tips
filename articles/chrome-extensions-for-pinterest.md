@@ -82,6 +82,7 @@ You do not need to install every extension mentioned here. Start with one or two
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+- [Chrome Browser Cloud Management Explained](/articles/chrome-browser-cloud-management-explained)
+- [Chrome Web MIDI API Explained](/articles/chrome-web-midi-api-explained)
+- [Chrome for Quizlet Web App Best Settings](/articles/chrome-for-quizlet-web-app-best-settings)

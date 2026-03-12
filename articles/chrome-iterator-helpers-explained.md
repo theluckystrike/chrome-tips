@@ -91,3 +91,9 @@ Whether you are building a simple tab manager or a complex productivity suite, t
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Clear Chrome Cache Properly](/articles/how-to-clear-chrome-cache-properly)
+- [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix)
+- [chrome material you design on desktop](/articles/chrome-material-you-design-on-desktop)

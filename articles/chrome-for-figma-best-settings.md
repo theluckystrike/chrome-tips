@@ -92,6 +92,7 @@ Every computer is different, so you might need to experiment with a few settings
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/best-chrome-settings-for-chromebook)
-- [Chrome for Zoom in Browser Best Settings](/chrome-for-zoom-in-browser-best-settings)
-- [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)
+
+- [Chrome Extensions for Whois Lookup](/articles/chrome-extensions-for-whois-lookup)
+- [Best Chrome Extensions for Salespeople](/articles/best-chrome-extensions-for-salespeople)
+- [Chrome Task Manager Guide](/articles/chrome-task-manager-guide)

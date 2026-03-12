@@ -84,6 +84,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome New Tab Page Slow to Load: Complete Fix Guide](/chrome-new-tab-page-slow-to-load)
-* [Chrome Guest Mode vs Incognito Mode: What's the Difference?](/chrome-guest-mode-vs-incognito-difference)
-* [Chrome Extensions for Google Drive](/chrome-extensions-for-google-drive)
+- [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix)
+- [firefox vs chrome battery](/articles/firefox-vs-chrome-battery)
+- [Chrome for Medium Best Reading Extensions](/articles/chrome-for-medium-best-reading-extensions)

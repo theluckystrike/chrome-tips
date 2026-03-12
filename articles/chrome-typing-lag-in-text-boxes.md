@@ -112,3 +112,9 @@ Experiencing chrome typing lag in text boxes does not mean you need a new comput
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Font Size How to Change Permanently](/articles/chrome-font-size-how-to-change-permanently)
+- [Chrome WebStore Extensions Not Installing Fix](/articles/chrome-webstore-extensions-not-installing-fix)
+- [chrome for google finance tips](/articles/chrome-for-google-finance-tips)

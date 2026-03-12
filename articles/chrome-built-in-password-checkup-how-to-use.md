@@ -80,6 +80,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Resize Observer API Explained](/chrome-resize-observer-api-explained)
-* [Best Chrome Extensions for Marketing Professionals](/best-chrome-extensions-for-marketing-professionals)
-* [Chrome Extensions for Pomodoro Timer](/chrome-extensions-for-pomodoro-timer)
+- [Chrome Devtools Application Panel Explained](/articles//chrome-devtools-application-panel-explained/)
+- [Chrome Payment Methods How to Remove](/articles/chrome-payment-methods-how-to-remove)
+- [Chrome Incognito Mode: Actually Private or Just a False Sense of Security?](/articles/chrome-incognito-mode-actually-private-or-not)

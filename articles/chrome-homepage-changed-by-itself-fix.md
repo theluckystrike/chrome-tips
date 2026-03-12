@@ -56,6 +56,7 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Opens by Itself Randomly Fix](/chrome-opens-by-itself-randomly-fix)
-- [Chrome Homepage Keeps Resetting Fix](/chrome-homepage-keeps-resetting-fix)
-- [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)
+
+- [Chrome for Bibliography Management Extensions](/articles/chrome-for-bibliography-management-extensions)
+- [How to Stop Chrome from Suspending My Tabs](/articles/how-to-stop-chrome-from-suspending-my-tabs)
+- [Chrome Pop Ups on Phone How to Block](/articles/chrome-pop-ups-on-phone-how-to-block)

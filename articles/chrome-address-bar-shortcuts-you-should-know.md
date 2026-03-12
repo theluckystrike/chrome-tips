@@ -106,6 +106,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Utility Process Explained](/chrome-utility-process-explained)
-* [Chrome Notifications How to Stop Them](/chrome-notifications-how-to-stop-them)
-* [Chrome Sync What Data Gets Synced](/chrome-sync-what-data-gets-synced)
+- [Best Chrome Extensions for Content Creators](/articles/best-chrome-extensions-for-content-creators)
+- [How to Close All Chrome Tabs at Once](/articles/how-to-close-all-chrome-tabs-at-once)
+- [Chrome Web App vs Native App Battery Comparison](/articles/chrome-web-app-vs-native-app-battery-comparison)

@@ -62,6 +62,7 @@ With the right tools and strategies, you can enjoy social media on your own term
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Social Media Management Extensions](/chrome-for-social-media-management-extensions)
-- [Chrome Extensions for Social Media Scheduling](/chrome-extensions-for-social-media-scheduling)
-- [Chrome Extension for Blocking Social Media During Work](/chrome-extension-for-blocking-social-media-during-work)
+
+- [Chrome Permission Denied How to Fix](/articles/chrome-permission-denied-how-to-fix)
+- [Chrome Guest Browsing: What Data Is Saved](/articles/chrome-guest-browsing-what-data-is-saved)
+- [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out)

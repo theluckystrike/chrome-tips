@@ -80,3 +80,9 @@ Remember that not every extension will be useful for every workflow. Start with 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Text Size on Phone How to Change](/articles/chrome-text-size-on-phone-how-to-change)
+- [Best Chrome Settings for a Slow Computer](/articles/best-chrome-settings-for-slow-computer)
+- [Chrome for Forest Focus Timer Extension](/articles/chrome-for-forest-focus-timer-extension)

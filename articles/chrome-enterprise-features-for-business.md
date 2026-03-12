@@ -94,3 +94,9 @@ Chrome enterprise features provide a solid foundation for managing browser secur
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Private Browsing Tips Beyond Incognito](/articles/chrome-for-private-browsing-tips-beyond-incognito)
+- [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/articles/chrome-tab-hibernate-save-memory)
+- [Chromebook Android Apps Not Working Fix](/articles/chromebook-android-apps-not-working-fix)

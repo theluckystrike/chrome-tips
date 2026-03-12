@@ -93,6 +93,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)
-* [chrome extensions for image reverse search](/chrome-extensions-for-image-reverse-search)
-* [Chrome Net Internals How to Use](/chrome-net-internals-how-to-use)
+- [Chrome Built in Password Checkup How to Use](/articles/chrome-built-in-password-checkup-how-to-use)
+- [How to Recover Accidentally Closed Chrome Tabs](/articles/accidentally-closed-all-chrome-tabs-recovery)
+- [Do Chrome Extensions Slow Down Your Browser](/articles/do-chrome-extensions-slow-down-your-browser)

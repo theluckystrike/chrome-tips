@@ -63,6 +63,7 @@ The Performance panel works well together with the Layers panel because it shows
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Layers Panel Guide](/chrome-layers-panel-guide)
-- [Chrome DevTools CSS Overview Panel](/chrome-devtools-css-overview-panel)
-- [Chrome DevTools Changes Panel to Track Edits](/chrome-devtools-changes-panel-track-edits)
+
+- [Chrome Extensions for Time Tracking Freelancers](/articles/chrome-extensions-for-time-tracking-freelancers)
+- [Chrome Extension for Reading Mode Distraction Free](/articles/chrome-extension-for-reading-mode-distraction-free)
+- [Chrome Homepage Keeps Changing Fix](/articles/chrome-homepage-keeps-changing-fix)

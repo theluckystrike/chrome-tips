@@ -93,6 +93,7 @@ There are many resources online where people share their favorite snippets. You 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
-- [Chrome Devtools Recorder Panel How To Use](/chrome-devtools-recorder-panel-how-to-use)
-- [Chrome Devtools Responsive Mode How to Use](/chrome-devtools-responsive-mode-how-to-use)
+
+- [Chrome Extensions for Video Playback Speed Control](/articles/chrome-extensions-for-video-playback-speed-control)
+- [Best Chrome Extensions for Real Estate Agents](/articles/best-chrome-extensions-for-real-estate-agents)
+- [Chrome for Google Analytics in Browser](/articles/chrome-for-google-analytics-in-browser)

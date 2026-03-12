@@ -92,6 +92,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions For Elderly Users Simple Tools](//articles/chrome-extensions-for-elderly-users-simple-tools/)
-* [Chrome for Ambient Sound Extensions](/chrome-for-ambient-sound-extensions)
-* [Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM](/chrome-slow-on-work-computer-vpn)
+- [Chrome Google Workspace Integration Tips](/articles/chrome-google-workspace-integration-tips)
+- [What Is Chrome Paint Holding and How It Speeds Up Page Load](/articles/chrome-paint-holding-page-load)
+- [Chrome Magnifier Zoom for Visually Impaired](/articles/chrome-magnifier-zoom-for-visually-impaired)

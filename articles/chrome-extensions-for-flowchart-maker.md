@@ -60,6 +60,7 @@ Remember that browser-based tools continue improving as developers add new featu
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+
+- [chrome browser process vs tab process explained](/articles/chrome-browser-process-vs-tab-process-explained)
+- [Chrome Hardware Acceleration Should I Turn On or Off](/articles/chrome-hardware-acceleration-should-i-turn-on-or-off)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/articles/chrome-using-too-much-battery-on-laptop-fix)

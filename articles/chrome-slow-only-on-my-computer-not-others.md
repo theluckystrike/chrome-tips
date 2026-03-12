@@ -162,3 +162,9 @@ Chrome slow only on your computer not others is frustrating, but it's almost alw
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome DevTools Command Menu Shortcuts](/articles//chrome-devtools-command-menu-shortcuts/)
+- [Chrome Version History: Major Milestones That Shaped the Browser](/articles/chrome-version-history-major-milestones)
+- [Chrome Omnibox Search Tricks Most People Dont Know](/articles/chrome-omnibox-search-tricks-most-people-dont-know)

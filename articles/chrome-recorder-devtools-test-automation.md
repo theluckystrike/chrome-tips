@@ -112,3 +112,9 @@ Whether you are testing a simple contact form or a complex checkout flow, these 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Marketing Professionals](/articles/best-chrome-extensions-for-marketing-professionals)
+- [Chrome Address Bar Tips and Tricks](/articles/chrome-address-bar-tips-and-tricks)
+- [Chrome Extensions For Citation Generator](/articles//articles/chrome-extensions-for-citation-generator/)

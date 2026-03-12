@@ -69,6 +69,7 @@ If you are searching on a laptop, try moving closer to your router, or consider 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
-- [Chrome For Asana Web App Tips](/chrome-for-asana-web-app-tips)
-- [Chrome For Coinbase Web App Tips](/chrome-for-coinbase-web-app-tips)
+
+- [Chrome Extension for Saving Articles Offline](/articles/chrome-extension-for-saving-articles-offline)
+- [Best Chrome Extensions for Reading Articles](/articles/best-chrome-extensions-for-reading-articles)
+- [Chrome Web Vitals Extension How to Use](/articles/chrome-web-vitals-extension-how-to-use)

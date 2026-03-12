@@ -78,3 +78,9 @@ If you want to further improve your browsing experience, consider using extensio
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Remote Desktop Setup Guide](/articles/chrome-remote-desktop-setup-guide)
+- [Best Chrome Extensions for Cybersecurity Professionals](/articles/best-chrome-extensions-for-cybersecurity-professionals)
+- [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord/)

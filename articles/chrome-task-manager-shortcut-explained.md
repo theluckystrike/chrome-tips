@@ -60,3 +60,9 @@ The Shift+Esc shortcut puts this powerful tool at your fingertips whenever you n
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Perplexity AI Best Settings](/articles/chrome-for-perplexity-ai-best-settings)
+- [Chrome Text to Speech Built In Features](/articles/chrome-text-to-speech-built-in-features)
+- [Chrome Local Storage View Edit: How to Inspect and Modify Website Data](/articles/chrome-local-storage-view-edit)

@@ -82,6 +82,7 @@ The more you use it, the more comfortable you will become. Before long, Inspect 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Use Chrome DevTools for Beginners](/how-to-use-chrome-devtools-for-beginners)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [Chrome Inspect Element Tutorial for Beginners](/chrome-inspect-element-tutorial-for-beginners)
+
+- [Chrome Cross Device Tab Sync Not Working Fix](/articles/chrome-cross-device-tab-sync-not-working-fix)
+- [Chrome Lite Mode Does It Still Exist](/articles/chrome-lite-mode-does-it-still-exist)
+- [Chrome Camera Permission for One Site How to Set](/articles/chrome-camera-permission-for-one-site-how-to-set)

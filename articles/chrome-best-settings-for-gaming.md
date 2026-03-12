@@ -75,6 +75,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Inspect Element for Beginners](/chrome-inspect-element-for-beginners)
-* [Is 8GB RAM Enough for Chrome with Many Tabs?](/is-8gb-ram-enough-for-chrome-with-many-tabs)
-* [Is Chrome Still the Best Browser in 2026?](/is-chrome-still-the-best-browser-2026)
+- [How to Fix Chrome Search Bar Not Working](/articles/chrome-search-bar-not-working-fix)
+- [Chrome vs Samsung Internet for Android](/articles/chrome-vs-samsung-internet-for-android)
+- [Chrome Extensions for Todoist](/articles/chrome-extensions-for-todoist)

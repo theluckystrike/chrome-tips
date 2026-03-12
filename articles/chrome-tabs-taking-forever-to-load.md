@@ -100,3 +100,9 @@ Most of the time, these solutions will get your tabs loading quickly again witho
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome DevTools Rendering Tab Explained](/articles/chrome-devtools-rendering-tab-explained)
+- [Chrome Installer Failed to Start Fix](/articles/chrome-installer-failed-to-start-fix)
+- [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix)

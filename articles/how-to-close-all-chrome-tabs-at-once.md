@@ -72,6 +72,7 @@ If you find yourself needing to close all your tabs frequently, consider trying 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to See Chrome Tabs From Other Devices](/chrome-tabs-from-other-devices-how-to-see)
-- [Chrome Save Open Tabs as Bookmarks All at Once](/chrome-save-open-tabs-as-bookmarks-all-at-once)
-- [How to Search Open Chrome Tabs](/how-to-search-open-chrome-tabs)
+
+- [chrome dark reader extension worth it](/articles//chrome-dark-reader-extension-worth-it/)
+- [Chrome Anti Fingerprinting Extensions Best](/articles/chrome-anti-fingerprinting-extensions-best)
+- [Chrome for Google Classroom Tips](/articles/chrome-for-google-classroom-tips)

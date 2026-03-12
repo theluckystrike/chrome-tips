@@ -78,6 +78,7 @@ By paying attention to how you use your browser and making a few intentional adj
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Descript Web App Optimization](/chrome-for-descript-web-app-optimization)
-- [Chrome For Any.Do Web App Setup](/chrome-for-anydo-web-app-setup)
-- [Chrome for Skillshare Web App Setup](/chrome-for-skillshare-web-app-setup)
+
+- [Chrome Secure DNS: What It Is and How to Enable](/articles/chrome-secure-dns-what-it-is-and-how-to-enable)
+- [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/articles/i-have-100-tabs-open-chrome-is-dying)
+- [How to Manage Addresses in Chrome Autofill](/articles/chrome-autofill-manage-addresses)

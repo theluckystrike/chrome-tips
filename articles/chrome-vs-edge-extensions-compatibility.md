@@ -71,3 +71,9 @@ Remember to stay patient, keep your software updated, and think carefully about 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Google Drive Integration Save to Drive](/articles/chrome-google-drive-integration-save-to-drive)
+- [Chrome Service Worker High CPU Fix](/articles/chrome-service-worker-high-cpu-fix)
+- [Chrome for Work vs Personal — How to Use Separate Profiles](/articles/chrome-for-work-vs-personal-separate-profiles)

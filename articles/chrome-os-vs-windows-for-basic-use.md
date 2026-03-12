@@ -73,3 +73,9 @@ Neither option is universally better. A college student who mainly writes papers
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Google Drive Integration Tips](/articles/chrome-google-drive-integration-tips)
+- [Chrome Has Selector Explained](/articles/chrome-has-selector-explained)
+- [Chrome Speed Comparison Test How to Run](/articles/chrome-speed-comparison-test-how-to-run)

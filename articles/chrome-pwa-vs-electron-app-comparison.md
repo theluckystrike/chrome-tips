@@ -81,3 +81,9 @@ Both PWAs and Electron apps represent the evolution of how we think about softwa
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Hardware Acceleration Causes Problems](/articles/chrome-hardware-acceleration-causes-problems)
+- [Best Chrome Extensions for Writers 2026](/articles/best-chrome-extensions-for-writers-2026)
+- [Chrome Web Storage Limits Explained](/articles/chrome-web-storage-limits-explained)

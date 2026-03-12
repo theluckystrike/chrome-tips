@@ -85,6 +85,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Mobile View on Desktop How to](/chrome-mobile-view-on-desktop-how-to)
-* [chrome for monday.com best extensions](/chrome-for-mondaycom-best-extensions)
-* [Chrome Offline Google Calendar](/chrome-offline-google-calendar)
+- [Chrome Spell Check Wrong Language Fix](/articles/chrome-spell-check-wrong-language-fix)
+- [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/articles/chrome-site-isolation-security-feature)
+- [Chrome Core Web Vitals Check My Website](/articles/chrome-core-web-vitals-check-my-website)

@@ -64,6 +64,7 @@ If you have any questions about specific policies you are seeing, your best reso
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Performance Settings Explained 2026](/chrome-performance-settings-explained-2026)
-- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
-- [Chrome Site Settings Permissions Explained](/chrome-site-settings-permissions-explained)
+
+- [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy)
+- [Chrome Browser Cloud Management Explained](/articles/chrome-browser-cloud-management-explained)
+- [Best Free Chrome Extensions 2026](/articles/best-free-chrome-extensions-2026)

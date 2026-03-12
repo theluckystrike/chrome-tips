@@ -127,3 +127,9 @@ Start with the simplest solutions first—Memory Saver and tab management—and 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Spell Check Wrong Language Fix](/articles/chrome-spell-check-wrong-language-fix)
+- [Chrome Slow After Hibernation Fix](/articles/chrome-slow-after-hibernation-fix)
+- [chrome extensions for graphic designers](/articles/chrome-extensions-for-graphic-designers)

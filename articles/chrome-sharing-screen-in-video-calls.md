@@ -97,3 +97,9 @@ Using **Tab Suspender Pro** is an excellent way to handle this. It automatically
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Extensions for Markdown Editor Preview](/articles/chrome-extensions-for-markdown-editor-preview)
+- [Chrome Source Maps Configuration Guide](/articles/chrome-source-maps-guide)
+- [Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser](/articles/chrome-web-bluetooth-api-guide)

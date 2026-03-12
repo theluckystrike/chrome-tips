@@ -70,6 +70,7 @@ By integrating these tools into your daily browsing routine, you can turn every 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-- [Chrome for Language Translation Extensions Comparison](/chrome-for-language-translation-extensions-comparison)
-- [Best Chrome Extensions for Language Learning](/best-chrome-extensions-for-language-learning)
+
+- [Chrome for Obsidian Web Clipper Setup](/articles/chrome-for-obsidian-web-clipper-setup)
+- [Chrome Cookies Explained for Beginners](/articles/chrome-cookies-explained-for-beginners)
+- [Chrome Web Apps vs Native Apps Comparison](/articles/chrome-web-apps-vs-native-apps-comparison)

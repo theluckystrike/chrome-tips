@@ -80,6 +80,7 @@ As web technologies continue to evolve, the Fetch API remains a reliable tool fo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome CSS Grid Layout Complete Guide](/chrome-css-grid-layout-complete-guide)
-- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
-- [Chrome Privacy Settings Complete Guide 2026](/chrome-privacy-settings-complete-guide-2026)
+
+- [Chrome Lazy Loading Images Explained](/articles/chrome-lazy-loading-images-explained)
+- [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management)
+- [Best Chrome Extensions for Lawyers 2026](/articles/best-chrome-extensions-for-lawyers-2026)

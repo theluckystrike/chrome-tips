@@ -65,6 +65,7 @@ Try a few different approaches and see which one fits your routine. The goal is 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Set Up Chrome Profiles for Work and Personal](/how-to-set-up-chrome-profiles-for-work-and-personal)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [How to Clear Chrome Cache Fast](/how-to-clear-chrome-cache-fast)
+
+- [Chrome Open Downloads Page Shortcut](/articles/chrome-open-downloads-page-shortcut)
+- [How to Use Chrome Without Signing In to Google](/articles/how-to-use-chrome-without-signing-in-to-google)
+- [How to Reduce Number of Open Tabs](/articles/how-to-reduce-number-of-open-tabs)

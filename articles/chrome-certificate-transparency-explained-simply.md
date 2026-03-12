@@ -76,6 +76,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [chromebook not connecting to wifi fix](/chromebook-not-connecting-to-wifi-fix)
-* [Chrome User Agent String: What It Is and How It Works](/chrome-user-agent-string-what-it-is)
-* [Chrome Startup Boost What It Does](/chrome-startup-boost-what-it-does)
+- [chrome file handling api explained](/articles/chrome-file-handling-api-explained)
+- [Chrome Persistent Storage Permission Explained](/articles/chrome-persistent-storage-permission-explained)
+- [Chrome Lite Mode Replacement 2026](/articles/chrome-lite-mode-replacement-2026)

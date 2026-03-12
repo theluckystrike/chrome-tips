@@ -116,3 +116,9 @@ Long-press the Chrome icon on your home screen. A shortcut to **"New Incognito t
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome New Tab Page Minimalist Extensions](/articles/chrome-new-tab-page-minimalist-extensions)
+- [Chrome Extensions for JSON Viewer Formatter](/articles/chrome-extensions-for-json-viewer-formatter)
+- [Chrome Resource Timing API Explained](/articles/chrome-resource-timing-api-explained)

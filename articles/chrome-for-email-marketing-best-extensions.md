@@ -84,6 +84,7 @@ Remember that the goal of these tools is not to replace the personal touch that 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Real Estate Agents](/best-chrome-extensions-for-real-estate-agents)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Best Chrome Extensions for Writers 2026](/best-chrome-extensions-for-writers-2026)
+
+- [Chrome Event Timing API Explained](/articles/chrome-event-timing-api-explained)
+- [How to Import Bookmarks from Firefox to Chrome](/articles/how-to-import-bookmarks-from-firefox-to-chrome)
+- [Chrome Extensions for Mockup Creator](/articles/chrome-extensions-for-mockup-creator)

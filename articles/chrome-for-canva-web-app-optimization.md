@@ -80,6 +80,7 @@ By implementing these practices, you can create a more efficient Chrome setup th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Any.Do Web App Setup](/chrome-for-anydo-web-app-setup)
-- [Chrome for Descript Web App Optimization](/chrome-for-descript-web-app-optimization)
-- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
+
+- [Chrome Compute Pressure API Explained: What It Means for Your Browser](/articles/chrome-compute-pressure-api-explained)
+- [Chrome for Facebook Best Extensions](/articles/chrome-for-facebook-best-extensions)
+- [Chrome Not Enough Memory Error](/articles/chrome-not-enough-memory-error)

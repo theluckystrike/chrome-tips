@@ -101,3 +101,9 @@ For managing browser resources while working with date-intensive applications, c
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Reduce Chrome Startup Time](/articles/how-to-reduce-chrome-startup-time)
+- [Chrome for Font Identification Extensions](/articles/chrome-for-font-identification-extensions)
+- [How Many Chrome Tabs Can I Have Open](/articles/how-many-chrome-tabs-can-i-have-open)

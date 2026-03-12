@@ -70,6 +70,7 @@ By staying informed about how these protections work and doing your part to main
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+
+- [Chrome Startup Boost What It Does](/articles/chrome-startup-boost-what-it-does)
+- [chrome on raspberry pi how to install](/articles/chrome-on-raspberry-pi-how-to-install)
+- [Chrome Android Desktop Mode How to Enable](/articles/chrome-android-desktop-mode-how-to-enable)

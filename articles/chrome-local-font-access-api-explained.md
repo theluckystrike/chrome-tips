@@ -59,6 +59,7 @@ As web capabilities continue to expand, staying informed about what permissions 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-- [Chrome Screen Wake Lock API Explained](/chrome-screen-wake-lock-api-explained)
-- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
+
+- [Chrome Task Manager vs Windows Task Manager: What's the Difference?](/articles/chrome-task-manager-vs-windows-task-manager)
+- [Chrome Side by Side Tabs How to Split Screen](/articles/chrome-side-by-side-tabs-how-to-split-screen)
+- [Chrome for Skyscanner Web App Tips](/articles/chrome-for-skyscanner-web-app-tips)

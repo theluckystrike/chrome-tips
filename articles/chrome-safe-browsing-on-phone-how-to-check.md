@@ -73,6 +73,7 @@ Remember to check periodically that it has not been accidentally turned off, esp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How To Enable Chrome Enhanced Safe Browsing](/how-to-enable-chrome-enhanced-safe-browsing)
-- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
-- [Chrome Microphone Access on Phone How to Control](/chrome-microphone-access-on-phone-how-to-control)
+
+- [Chrome Remote Desktop Slow Fix](/articles/chrome-remote-desktop-slow-fix)
+- [Chrome Devtools Webauthn Debugger](/articles/chrome-devtools-webauthn-debugger)
+- [Chrome for Streamlabs Web Dashboard](/articles/chrome-for-streamlabs-web-dashboard)

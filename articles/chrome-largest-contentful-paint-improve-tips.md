@@ -83,3 +83,9 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome AI Tab Organization Feature](/articles/chrome-ai-tab-organization-feature)
+- [Best Chrome Extensions For Designers 2026](/articles//articles/chrome-extensions-for-designers-2026/)
+- [chrome vs firefox for privacy 2026](/articles/chrome-vs-firefox-for-privacy-2026)

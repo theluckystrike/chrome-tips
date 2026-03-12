@@ -72,6 +72,7 @@ The best part is that these extensions require minimal effort to use. Once insta
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Weather Dashboard Extensions](/chrome-for-weather-dashboard-extensions)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+
+- [Chrome for Stable Diffusion Web UI Tips](/articles/chrome-for-stable-diffusion-web-ui-tips)
+- [Chrome Mobile vs Desktop Features Difference: What You Need to Know](/articles/chrome-mobile-vs-desktop-features-difference)
+- [How to Fix Chrome Downloads Stuck at 100 Percent](/articles/chrome-downloads-stuck-at-100-percent)

@@ -80,3 +80,9 @@ Remember that encrypted DNS is just one layer of online privacy. Using a reputab
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Lite Mode on Android: What Happened](/articles/chrome-lite-mode-on-android-what-happened)
+- [Chrome Clock Behind Error Fix](/articles/chrome-clock-behind-error-fix)
+- [Chrome Slow on Windows 10 Old Laptop Fix](/articles/chrome-slow-on-windows-10-old-laptop-fix)

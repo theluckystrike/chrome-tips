@@ -74,3 +74,9 @@ Remember that these extensions are meant to help, not replace careful reading. T
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Nurses Healthcare](/articles/chrome-extensions-for-nurses-healthcare)
+- [Chrome Full Screen Mode How to Exit Stuck](/articles/chrome-full-screen-mode-how-to-exit-stuck)
+- [Chrome About Settings All Pages Explained](/articles/chrome-about-settings-all-pages-explained)

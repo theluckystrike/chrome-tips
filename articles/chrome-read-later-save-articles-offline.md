@@ -126,3 +126,9 @@ The key is to choose one or two methods and stick with them consistently. This w
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Freezes My Whole Computer](/articles/chrome-freezes-my-whole-computer)
+- [Chrome CSS Grid Layout Complete Guide](/articles//chrome-css-grid-layout-complete-guide/)
+- [chrome for vpn extensions comparison](/articles/chrome-for-vpn-extensions-comparison)

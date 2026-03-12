@@ -86,6 +86,7 @@ Finally, do not forget to engage with your audience after posting. Scheduling to
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Extension for Blocking Social Media During Work](/chrome-extension-for-blocking-social-media-during-work)
-- [Best Chrome Extensions for Social Media](/best-chrome-extensions-for-social-media)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [Chrome Memory Inspector How to Use](/articles/chrome-memory-inspector-how-to-use)
+- [Chrome Speed Dial Extensions Best](/articles/chrome-speed-dial-extensions-best)
+- [Chrome Layer Cascade CSS: A Complete Guide to Modern Style Management](/articles/chrome-layer-cascade-css)

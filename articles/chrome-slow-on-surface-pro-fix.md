@@ -70,6 +70,7 @@ Remember that small changes can add up to big improvements. Try one or two of th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Slow on iPad Fix 2026](/chrome-slow-on-ipad-fix-2026)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+
+- [Chrome Extensions For Elderly Users Simple Tools](/articles//articles/chrome-extensions-for-elderly-users-simple-tools/)
+- [Chrome Navigation API for Single Page Apps: A Complete Guide](/articles/chrome-navigation-api-single-page-apps)
+- [Chrome Casting to TV How to Setup](/articles/chrome-casting-to-tv-how-to-setup)

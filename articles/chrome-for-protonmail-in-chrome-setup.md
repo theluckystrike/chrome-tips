@@ -83,6 +83,7 @@ Remember to log out of ProtonMail when using shared or public computers. Chrome 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
-- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
+
+- [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature)
+- [Chrome Extensions for Gantt Chart](/articles/chrome-extensions-for-gantt-chart)
+- [Chrome Total Blocking Time Explained](/articles/chrome-total-blocking-time-explained)

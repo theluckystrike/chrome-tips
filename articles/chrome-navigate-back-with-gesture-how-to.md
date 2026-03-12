@@ -59,6 +59,7 @@ Learning how to navigate back with gesture controls can save you time and make y
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+
+- [Great Suspender Removed From Chrome Store: Replacement Options](/articles/great-suspender-removed-from-chrome-store-replacement)
+- [Chrome Safety Check What It Does](/articles/chrome-safety-check-what-it-does)
+- [Chrome Canary What Is It For](/articles/chrome-canary-what-is-it-for)

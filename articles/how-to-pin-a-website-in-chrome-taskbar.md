@@ -74,6 +74,7 @@ Pinning websites to your taskbar is a small change that can make a big differenc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
-- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+
+- [Chrome Extension Manifest V3 What Users Need to Know](/articles/chrome-extension-manifest-v3-what-users-need-to-know)
+- [How to Check Website Speed in Chrome](/articles/how-to-check-website-speed-in-chrome)
+- [Chrome for Citation and Research Extensions](/articles/chrome-for-citation-and-research-extensions)

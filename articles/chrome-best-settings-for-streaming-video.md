@@ -74,6 +74,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Scroll Not Smooth Fix](/chrome-scroll-not-smooth-fix)
-* [Chrome Navigator Sendbeacon Explained](/chrome-navigator-sendbeacon-explained)
-* [Chrome Reset vs Reinstall: Which Is Better?](/chrome-reset-vs-reinstall-which-is-better)
+- [Chrome for Accessibility Testing Extensions](/articles/chrome-for-accessibility-testing-extensions)
+- [Chrome Extensions for Asana](/articles/chrome-extensions-for-asana)
+- [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix)

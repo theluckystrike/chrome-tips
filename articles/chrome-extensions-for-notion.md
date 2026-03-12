@@ -72,6 +72,7 @@ The right combination of extensions turns Chrome into a powerful companion for y
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+
+- [chrome for apartments.com search tips](/articles/chrome-for-apartmentscom-search-tips)
+- [chrome tab groups keyboard shortcuts](/articles/chrome-tab-groups-keyboard-shortcuts)
+- [Chrome for Meditation and Focus Extensions](/articles/chrome-for-meditation-and-focus-extensions)

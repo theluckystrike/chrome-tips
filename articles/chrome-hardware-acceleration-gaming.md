@@ -86,3 +86,9 @@ Remember to use tools like Tab Suspender Pro to manage inactive tabs efficiently
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome text only mode how to browse](/articles/chrome-text-only-mode-how-to-browse)
+- [Chromebook Accessibility Features Guide](/articles/chromebook-accessibility-features-guide)
+- [Chrome Android Desktop Mode How to Enable](/articles/chrome-android-desktop-mode-how-to-enable)

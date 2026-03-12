@@ -80,3 +80,9 @@ Finally, remember that pinned tabs are not the only tool available for managing 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Should I Switch from Chrome to Firefox for Speed?](/articles/should-i-switch-from-chrome-to-firefox-for-speed)
+- [Chrome Extensions For Faster Browsing](/articles//articles/chrome-extensions-for-faster-browsing/)
+- [Chrome Math Symbols How to Type](/articles/chrome-math-symbols-how-to-type)

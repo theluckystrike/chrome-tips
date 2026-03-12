@@ -87,3 +87,9 @@ By learning how to check chrome tab memory usage and taking steps to manage it e
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Remove Chrome Malware](/articles/how-to-remove-chrome-malware)
+- [Chrome Console Utilities Reference](/articles/chrome-console-utilities-guide)
+- [Best Privacy Settings For Chrome 2026](/articles/best-privacy-settings-for-chrome-2026)

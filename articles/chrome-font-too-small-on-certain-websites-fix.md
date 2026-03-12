@@ -71,6 +71,7 @@ Once you find the combination that works for you, the days of manually zooming i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Block Websites on Chrome](/how-to-block-websites-on-chrome)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome Window Too Small Cant Resize Fix](/chrome-window-too-small-cant-resize-fix)
+
+- [Chrome Certificate Error How to Bypass Safely](/articles/chrome-certificate-error-how-to-bypass-safely)
+- [Chrome Layers Panel Explained](/articles/chrome-layers-panel-explained)
+- [chrome high contrast mode](/articles/chrome-high-contrast-mode)

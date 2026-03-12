@@ -62,6 +62,7 @@ If you find that you often have many tabs open and Chrome is getting slow, consi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
-- [How to Check If Chrome Extension Is Spying on Me](/how-to-check-if-chrome-extension-is-spying-on-me)
-- [How to Speed Up Chrome on 2GB RAM Laptop](/how-to-speed-up-chrome-on-2gb-ram-laptop)
+
+- [Chrome Custom Search Engines How to Add](/articles//chrome-custom-search-engines-how-to-add/)
+- [Chrome Devtools Security Panel Explained](/articles/chrome-devtools-security-panel-explained)
+- [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable)

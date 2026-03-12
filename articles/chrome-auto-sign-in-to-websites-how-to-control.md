@@ -75,6 +75,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Bookmarks File Location and Backup Guide](/chrome-bookmarks-file-location-backup)
-* [Chrome Extensions for Link Checker Broken Links](/chrome-extensions-for-link-checker-broken-links)
-* [chrome how to add trusted sites](/chrome-how-to-add-trusted-sites)
+- [chrome privacy badger vs ublock origin comparison](/articles/chrome-privacy-badger-vs-ublock-origin-comparison)
+- [How to Edit Any Webpage Text Using Inspect Element](/articles/chrome-edit-webpage-text-inspect-element)
+- [Chrome vs Edge for Battery Life Laptop](/articles/chrome-vs-edge-for-battery-life-laptop)

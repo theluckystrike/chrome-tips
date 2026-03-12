@@ -98,3 +98,9 @@ Most chrome update problems are fixable with the steps in this guide. Start with
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Speed Reading](/articles/chrome-extensions-for-speed-reading)
+- [Chrome Devtools Media Queries Debugger](/articles/chrome-devtools-media-queries-debugger)
+- [Chrome Coverage Tool Guide](/articles/chrome-coverage-tool-guide)

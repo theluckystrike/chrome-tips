@@ -141,3 +141,9 @@ Try these solutions in order, and you should notice a significant improvement in
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Responsive Design Mode: How to Use It Effectively](/articles/chrome-responsive-design-mode-how-to-use)
+- [Chrome Push Notifications Web Apps: Complete Guide](/articles/chrome-push-notifications-web-apps)
+- [chrome extensions for screen dimmer](/articles/chrome-extensions-for-screen-dimmer)

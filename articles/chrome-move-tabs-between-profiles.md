@@ -77,3 +77,9 @@ Moving tabs between Chrome profiles takes a bit of extra effort since Chrome doe
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Accessibility Screen Reader Support](/articles/chrome-accessibility-screen-reader-support)
+- [Chrome for Adobe Creative Cloud Web Tips](/articles/chrome-for-adobe-creative-cloud-web-tips)
+- [Chrome for Proxy Settings How to Configure](/articles/chrome-for-proxy-settings-how-to-configure)

@@ -72,6 +72,7 @@ Once you have fixed the scrolling lag, maintain the performance by auditing your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
-- [Chrome This Site Cant Be Reached Fix](/chrome-this-site-cant-be-reached-fix)
-- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)
+
+- [Chrome Extensions For Email Templates](/articles//articles/chrome-extensions-for-email-templates/)
+- [Best Chrome Extensions for Online Shopping](/articles/chrome-extensions-for-online-shopping)
+- [Chrome Web Notifications Best Practices](/articles/chrome-web-notifications-best-practices)

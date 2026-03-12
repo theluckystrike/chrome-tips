@@ -85,6 +85,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions For Cookie Editor Manager](//articles/chrome-extensions-for-cookie-editor-manager/)
-* [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/chrome-extension-using-too-much-memory-find)
-* [chrome pwa offline capability how it works](/chrome-pwa-offline-capability-how-it-works)
+- [Chrome for Google Keep Extension Tips](/articles/chrome-for-google-keep-extension-tips)
+- [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom)
+- [Chrome Accessibility Extensions Best 2026](/articles/chrome-accessibility-extensions-best-2026)

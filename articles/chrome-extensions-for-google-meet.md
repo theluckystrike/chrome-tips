@@ -72,6 +72,7 @@ Remember that extensions are helpers, not replacements for good meeting habits. 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Google Slides](/chrome-extensions-for-google-slides)
-- [Chrome Extensions for Google Drive](/chrome-extensions-for-google-drive)
-- [Chrome for Google Scholar Best Extensions](/chrome-for-google-scholar-best-extensions)
+
+- [How to Check If Chrome Is Up to Date](/articles/how-to-check-if-chrome-is-up-to-date)
+- [Chrome for edX Web App Best Settings](/articles/chrome-for-edx-web-app-best-settings)
+- [chrome for distraction free reading mode](/articles/chrome-for-distraction-free-reading-mode)

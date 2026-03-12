@@ -74,6 +74,7 @@ Getting Chrome notification badge on PWA working is definitely possible with the
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Dark Mode on Phone How to Enable](/chrome-dark-mode-on-phone-how-to-enable)
-- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
-- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
+
+- [Chrome Extensions for Todoist](/articles/chrome-extensions-for-todoist)
+- [Chrome GPU Process High CPU Fix](/articles/chrome-gpu-process-high-cpu-fix)
+- [Chrome for Managing Saved Addresses](/articles/chrome-for-managing-saved-addresses)

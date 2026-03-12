@@ -75,6 +75,6 @@ Consider using a quality antivirus program. Some malware can interfere with brow
 
 ## Related Articles
 
-* [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/chrome-extensions-developer-mode)
-* [Chrome Extensions for Web Development Tools](/chrome-extensions-for-web-development-tools)
-* [Chrome Scroll Not Smooth Fix](/chrome-scroll-not-smooth-fix)
+- [Chrome for Netflix Best Quality Settings](/articles/chrome-for-netflix-best-quality-settings)
+- [Chrome Scroll-Driven Animations: Complete Guide for 2026](/articles/chrome-scroll-driven-animations)
+- [Chrome JetStream Score What Is Good](/articles/chrome-jetstream-score-what-is-good)

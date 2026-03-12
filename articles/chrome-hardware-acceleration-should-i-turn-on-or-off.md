@@ -87,6 +87,7 @@ The best approach is to try both and see what works better for your specific set
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Turn Off Chrome Notifications on Android](/how-to-turn-off-chrome-notifications-android)
-- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
-- [How to Turn Off Autocomplete in Chrome](/chrome-how-to-turn-off-autocomplete)
+
+- [Chrome Devtools Edit HTML Live](/articles//chrome-devtools-edit-html-live/)
+- [chrome for banking online security tips](/articles/chrome-for-banking-online-security-tips)
+- [Why Does Opening Chrome Slow Down Everything](/articles/why-does-opening-chrome-slow-down-everything)

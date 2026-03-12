@@ -79,6 +79,7 @@ If you use extensions to manage your tabs and browser behavior, remember that so
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Camera Not Working Fix](/chrome-camera-not-working-fix)
-- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
-- [Chrome Zoom Meeting Not Working Fix](/chrome-zoom-meeting-not-working-fix)
+
+- [How to Use Chrome DevTools for Beginners](/articles/how-to-use-chrome-devtools-for-beginners)
+- [Chrome for Disney Plus Not Working Fix](/articles/chrome-for-disney-plus-not-working-fix)
+- [chrome web store not loading fix](/articles/chrome-web-store-not-loading-fix)

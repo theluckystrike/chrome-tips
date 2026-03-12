@@ -73,6 +73,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [chrome stale while revalidate strategy explained](/chrome-stale-while-revalidate-strategy-explained)
-* [Chrome Redirect Virus How to Remove](/chrome-redirect-virus-how-to-remove)
-* [Chrome Education Account What It Includes](/chrome-education-account-what-it-includes)
+- [Chrome Extensions for HTTP Header Viewer](/articles/chrome-extensions-for-http-header-viewer)
+- [Chrome Payment Methods How to Remove](/articles/chrome-payment-methods-how-to-remove)
+- [chrome for github copilot web setup](/articles/chrome-for-github-copilot-web-setup)

@@ -74,3 +74,9 @@ Having lyrics available while listening to Spotify can transform how you experie
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use)
+- [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/articles/chrome-grammarly-extension-slowing-browser)
+- [Chrome for Coupon Finding Best Extensions](/articles/chrome-for-coupon-finding-best-extensions)

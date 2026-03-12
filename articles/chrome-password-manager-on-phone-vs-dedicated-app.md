@@ -67,3 +67,9 @@ The most important thing is that you are using some form of password management 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Binaural Beats](/articles/chrome-extensions-for-binaural-beats)
+- [Chrome Omnibox Hidden Features](/articles/chrome-omnibox-hidden-features)
+- [Chrome Cross-Origin Isolation Explained](/articles/chrome-cross-origin-isolation-explained)

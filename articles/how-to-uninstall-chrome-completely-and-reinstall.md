@@ -68,6 +68,7 @@ Finally, make sure your important data is backed up regularly. Chrome is built t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Beta Channel How to Join and Leave](/chrome-beta-channel-how-to-join-and-leave)
-- [Chrome Sync Phone and Computer How to Set Up](/chrome-sync-phone-and-computer-how-to-set-up)
-- [Chrome Process Per Tab Why and How to Change](/chrome-process-per-tab-why-and-how-to-change)
+
+- [Chrome Best Ad Blocker 2026](/articles/chrome-best-ad-blocker-2026)
+- [Chrome DNS Over HTTPS How to Enable](/articles/chrome-dns-over-https-how-to-enable)
+- [Chrome Extensions for Social Media Scheduling](/articles/chrome-extensions-for-social-media-scheduling)

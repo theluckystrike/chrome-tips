@@ -86,6 +86,7 @@ Everyone's setup is different, so you might need to experiment with a few of the
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Zoom in Browser Best Settings](/chrome-for-zoom-in-browser-best-settings)
-- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
-- [Chrome for Proxy Settings How to Configure](/chrome-for-proxy-settings-how-to-configure)
+
+- [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix)
+- [Chrome Mobile Dark Mode Force on All Sites](/articles/chrome-mobile-dark-mode-force-on-all-sites)
+- [Chrome Default Download Location How to Change](/articles//chrome-default-download-location-how-to-change/)

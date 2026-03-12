@@ -67,6 +67,6 @@ Once you have fixed the cookie issue, remember to periodically check your Chrome
 
 ## Related Articles
 
-* [Chrome Extensions For Bulk Image Downloading](//articles/chrome-extensions-for-bulk-image-downloading/)
-* [Chrome Slow on Chromebook? Here's How to Fix It](/chrome-slow-on-chromebook-fix)
-* [Chrome Family Link Integration Explained](/chrome-family-link-integration-explained)
+- [chrome circle to search on desktop](/articles/chrome-circle-to-search-on-desktop)
+- [Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps](/articles/chrome-slow-on-4gb-ram-laptop)
+- [Chrome for Gaming: How to Reduce Input Lag](/articles/chrome-for-gaming-reduce-input-lag)

@@ -101,6 +101,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Using Too Much Disk Space: A Complete Guide](/chrome-using-too-much-disk-space)
-* [chrome privacy settings complete guide 2026](/chrome-privacy-settings-complete-guide-2026)
-* [How Many Chrome Extensions Is Too Many](/how-many-chrome-extensions-is-too-many)
+- [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does)
+- [Chrome Extensions For Bookmark Manager](/articles//articles/chrome-extensions-for-bookmark-manager/)
+- [Why Is Chrome Slower Than Firefox?](/articles/why-is-chrome-slower-than-firefox)

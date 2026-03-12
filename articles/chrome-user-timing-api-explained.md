@@ -78,3 +78,9 @@ This approach complements the work that developers do with tools like the User T
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Facebook Best Extensions](/articles/chrome-for-facebook-best-extensions)
+- [Chrome Window Too Small Cant Resize Fix](/articles/chrome-window-too-small-cant-resize-fix)
+- [Best Settings to Speed Up Chrome 2026](/articles/best-settings-to-speed-up-chrome-2026)

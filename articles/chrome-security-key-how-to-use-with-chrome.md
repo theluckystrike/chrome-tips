@@ -93,6 +93,7 @@ The shift toward stronger authentication is happening across the internet, and s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
-- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Sensors Emulation How to Use](/chrome-sensors-emulation-how-to-use)
+
+- [Do Chrome Extensions Slow Down Your Browser](/articles/do-chrome-extensions-slow-down-your-browser)
+- [chrome tab groups keyboard shortcuts](/articles/chrome-tab-groups-keyboard-shortcuts)
+- [Chrome AI Generated Summaries Explained](/articles/chrome-ai-generated-summaries-explained)

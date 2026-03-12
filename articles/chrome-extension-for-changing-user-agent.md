@@ -60,3 +60,9 @@ Keep in mind that changing your user agent might affect how some websites functi
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for instacart web app best settings](/articles/chrome-for-instacart-web-app-best-settings)
+- [Chrome Extensions for Todoist](/articles/chrome-extensions-for-todoist)
+- [Chrome Spellcheck Not Working? Here's How to Fix It](/articles/chrome-spellcheck-not-working-fix)

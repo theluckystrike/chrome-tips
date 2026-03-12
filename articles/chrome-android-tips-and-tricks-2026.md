@@ -101,6 +101,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions for Google Drive](/chrome-extensions-for-google-drive)
-* [Chrome DevTools Performance Panel Explained](/chrome-devtools-performance-panel-explained)
-* [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)
+- [Chrome for Minimalist Browsing Setup](/articles/chrome-for-minimalist-browsing-setup)
+- [Chrome Resource Timing API Explained](/articles/chrome-resource-timing-api-explained)
+- [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix)

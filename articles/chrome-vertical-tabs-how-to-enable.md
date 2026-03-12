@@ -58,3 +58,9 @@ Take a few minutes to enable vertical tabs today and see the difference for your
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome PWA Install Prompt Not Showing Fix](/articles/chrome-pwa-install-prompt-not-showing-fix)
+- [Chrome chrome.alarms API for Scheduled Tasks](/articles//articles/chrome-chrome.alarms-scheduled-tasks/)
+- [Chrome Custom Tabs on Android What They Are](/articles//chrome-custom-tabs-on-android-what-they-are/)

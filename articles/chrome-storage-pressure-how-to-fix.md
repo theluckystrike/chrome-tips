@@ -77,3 +77,9 @@ Chrome storage pressure does not have to be a persistent problem. With a few sim
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome QR Code Generator Extension](/articles/chrome-qr-code-generator-extension)
+- [Chrome Device Emulation Advanced Guide](/articles//chrome-device-emulation-advanced/)
+- [Chrome Mobile vs Desktop Features Difference: What You Need to Know](/articles/chrome-mobile-vs-desktop-features-difference)

@@ -84,6 +84,7 @@ If you find that Telegram Web is still using more resources than you would like 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Todoist Web App Best Settings](/chrome-for-todoist-web-app-best-settings)
-- [Chrome For Instacart Web App Best Settings](/chrome-for-instacart-web-app-best-settings)
-- [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)
+
+- [Chrome Extension for Blocking Cookie Popups](/articles/chrome-extension-for-blocking-cookie-popups)
+- [Chrome Translate Page Not Working Fix: Practical Solutions That Actually Work](/articles/chrome-translate-page-not-working-fix)
+- [Chrome vs Vivaldi Customization Comparison: Which Browser Gives You More Control?](/articles/chrome-vs-vivaldi-customization-comparison)

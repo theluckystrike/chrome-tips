@@ -64,6 +64,7 @@ You can also check the Chrome version you are using and compare it with the mini
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Web Animation API Explained](/chrome-web-animation-api-explained)
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Web OTP API Explained](/chrome-web-otp-api-explained)
+
+- [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature)
+- [Chrome Print to PDF Without Margins](/articles/chrome-print-to-pdf-without-margins)
+- [Chrome Google Calendar Quick Add from Browser](/articles/chrome-google-calendar-quick-add-from-browser)

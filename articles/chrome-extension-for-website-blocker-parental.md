@@ -90,3 +90,9 @@ Start with a simple setup and adjust as needed. You can always add more restrict
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage/)
+- [Best Lightweight Browsers for Chromebook](/articles/best-lightweight-browsers-for-chromebook)
+- [Chrome for Babbel Web App Tips](/articles/chrome-for-babbel-web-app-tips)

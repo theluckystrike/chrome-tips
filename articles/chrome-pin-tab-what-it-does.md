@@ -86,3 +86,9 @@ Pinned tabs are one of Chrome's simplest but most useful features. They help you
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Fix Chrome High CPU Usage When Gaming](/articles/how-to-fix-chrome-high-cpu-usage-gaming)
+- [Best Chrome Extensions for Researchers](/articles/best-chrome-extensions-for-researchers)
+- [How to Lock Safe Search in Chrome for Children](/articles/chrome-safe-search-lock-for-children)

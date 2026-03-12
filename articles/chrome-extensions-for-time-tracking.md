@@ -82,6 +82,7 @@ Remember that the best time tracking extension is the one you will actually use.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Stock Market Tracking Extensions](/chrome-for-stock-market-tracking-extensions)
-- [Chrome Extensions for Fitness Tracking Dashboard](/chrome-extensions-for-fitness-tracking-dashboard)
-- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
+
+- [chrome for xbox cloud gaming optimization](/articles/chrome-for-xbox-cloud-gaming-optimization)
+- [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes)
+- [Chrome for Saving Articles to Read Later](/articles/chrome-for-saving-articles-to-read-later)

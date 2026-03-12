@@ -86,6 +86,7 @@ Remember that a smooth recording experience starts with a well-managed browser. 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
-- [Chrome Extension For Measuring Things On Screen](/chrome-extension-for-measuring-things-on-screen)
-- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+
+- [chrome fingerprinting protection explained](/articles/chrome-fingerprinting-protection-explained)
+- [Chrome Flags for Speed Optimization](/articles/chrome-flags-for-speed)
+- [Chrome Extensions for Time Tracking](/articles/chrome-extensions-for-time-tracking)

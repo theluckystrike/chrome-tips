@@ -90,3 +90,9 @@ Finally, remember to stop the auto refresh when you no longer need it. Leaving e
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome colorblind mode extensions](/articles/chrome-colorblind-mode-extensions)
+- [Chrome Address Bar Commands You Didnt Know](/articles/chrome-address-bar-commands-you-didnt-know)
+- [chrome protected audience api explained](/articles/chrome-protected-audience-api-explained)

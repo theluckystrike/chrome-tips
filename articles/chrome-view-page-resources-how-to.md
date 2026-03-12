@@ -66,3 +66,9 @@ Tab Suspender Pro is one option that automatically suspends inactive tabs, meani
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome pi hole vs browser ad blocker comparison](/articles/chrome-pi-hole-vs-browser-ad-blocker-comparison)
+- [Chrome Nesting CSS Native Support](/articles/chrome-nesting-css-native-support)
+- [Chrome Font Size How to Change Permanently](/articles/chrome-font-size-how-to-change-permanently)

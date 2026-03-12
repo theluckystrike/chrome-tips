@@ -60,6 +60,7 @@ If you are using extensions, keep them updated to ensure they work with the late
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Mobile View on Desktop How to](/chrome-mobile-view-on-desktop-how-to)
-- [Chrome Visual Search on Desktop: A Complete Guide](/chrome-visual-search-on-desktop)
-- [Chrome Mobile vs Desktop Features Difference: What You Need to Know](/chrome-mobile-vs-desktop-features-difference)
+
+- [Chrome Lite Mode on Android: What Happened](/articles/chrome-lite-mode-on-android-what-happened)
+- [Chrome Accessibility Screen Reader Support](/articles/chrome-accessibility-screen-reader-support)
+- [Chrome Extensions for Markdown Editor Preview](/articles/chrome-extensions-for-markdown-editor-preview)

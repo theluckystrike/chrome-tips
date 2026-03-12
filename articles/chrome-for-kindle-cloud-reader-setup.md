@@ -83,6 +83,7 @@ Give these adjustments a try, and enjoy your Kindle library from the convenience
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Onenote Web Clipper Setup](/chrome-for-onenote-web-clipper-setup)
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
-- [Chrome for Skillshare Web App Setup](/chrome-for-skillshare-web-app-setup)
+
+- [How to Reset Chrome to Default Settings](/articles/how-to-reset-chrome-to-default-settings)
+- [Chrome for Zoom Classes Optimization](/articles/chrome-for-zoom-classes-optimization)
+- [How to Set Up Parental Controls on Your Chromebook](/articles/chromebook-parental-controls-setup)

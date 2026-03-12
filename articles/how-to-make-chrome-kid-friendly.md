@@ -91,6 +91,7 @@ Making Chrome kid-friendly is a journey, not a destination. As your child grows 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How To Make Chrome Look Aesthetic](/how-to-make-chrome-look-aesthetic)
-- [How to Make Chrome Remember Tabs After Closing](/how-to-make-chrome-remember-tabs-after-closing)
-- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
+
+- [Chrome for Autofill Credit Card Safety](/articles/chrome-for-autofill-credit-card-safety)
+- [Chrome Extensions for Website Testing](/articles/chrome-extensions-for-website-testing)
+- [Chrome Critical Rendering Path Explained](/articles/chrome-critical-rendering-path-explained)

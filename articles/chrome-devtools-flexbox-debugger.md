@@ -69,6 +69,7 @@ The flexbox debugger in Chrome DevTools is one of those tools that becomes indis
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome DevTools Emulate Color Schemes](/chrome-devtools-emulate-color-schemes)
-- [Chrome Overriding CSS in DevTools: A Practical Tutorial](/chrome-overriding-css-in-devtools-tutorial)
-- [Chrome Devtools Webauthn Debugger](/chrome-devtools-webauthn-debugger)
+
+- [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage)
+- [Chrome Microphone Access on Phone How to Control](/articles/chrome-microphone-access-on-phone-how-to-control)
+- [Chrome Clock Behind Error Fix](/articles/chrome-clock-behind-error-fix)

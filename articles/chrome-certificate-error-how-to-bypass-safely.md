@@ -76,6 +76,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Scope CSS Explained](/chrome-scope-css-explained)
-* [Chrome for DeFi Dashboard Extensions](/chrome-for-defi-dashboard-extensions)
-* [chrome for rumble web player settings](/chrome-for-rumble-web-player-settings)
+- [Best Chrome Extensions for Language Learning](/articles/best-chrome-extensions-for-language-learning)
+- [Chrome Settings You Should Change Right Now](/articles/chrome-settings-you-should-change-right-now)
+- [How to Check If Chrome Extension Is Safe](/articles/how-to-check-if-chrome-extension-is-safe)

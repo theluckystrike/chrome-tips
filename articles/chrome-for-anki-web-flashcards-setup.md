@@ -89,6 +89,7 @@ Remember that the best setup is one you will actually use consistently. Start wi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Any.Do Web App Setup](/chrome-for-anydo-web-app-setup)
-- [Chrome For Onenote Web Clipper Setup](/chrome-for-onenote-web-clipper-setup)
-- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
+
+- [Best Chrome Extensions for Marketing Professionals](/articles/best-chrome-extensions-for-marketing-professionals)
+- [Chrome Remote Desktop Setup Guide](/articles/chrome-remote-desktop-setup-guide)
+- [Chrome Beta Channel How to Join and Leave](/articles/chrome-beta-channel-how-to-join-and-leave)

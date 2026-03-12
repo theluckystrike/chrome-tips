@@ -85,3 +85,9 @@ Whether you are a regular user who wants to try new features early or a web deve
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Multiple Users on Same Computer Setup](/articles/chrome-multiple-users-on-same-computer-setup)
+- [Chrome GPU Acceleration Causing Problems Fix](/articles/chrome-gpu-acceleration-causing-problems-fix)
+- [How to Stop Chrome from Opening on Startup](/articles/how-to-stop-chrome-from-opening-on-startup)

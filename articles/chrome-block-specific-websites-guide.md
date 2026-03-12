@@ -148,6 +148,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Devtools Responsive Mode How to Use](/chrome-devtools-responsive-mode-how-to-use)
-* [Chrome Extensions for Noscript Alternative](/chrome-extensions-for-noscript-alternative)
-* [Chrome Devtools Snippets How to Use](/chrome-devtools-snippets-how-to-use)
+- [Chrome Guest Browsing for Shared Computers](/articles/chrome-guest-browsing-for-shared-computers)
+- [chrome wallpaper extensions best](/articles/chrome-wallpaper-extensions-best)
+- [chrome for price drop alert extensions](/articles/chrome-for-price-drop-alert-extensions)

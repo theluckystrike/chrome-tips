@@ -68,6 +68,7 @@ Once you start using these tools consistently, you will notice the savings addin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+
+- [Chrome for Ebook Reading Best Extensions](/articles/chrome-for-ebook-reading-best-extensions)
+- [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup)
+- [Chrome Wappalyzer Alternative Built In](/articles/chrome-wappalyzer-alternative-built-in)

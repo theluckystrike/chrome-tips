@@ -57,6 +57,7 @@ Understanding what fenced frames are and how they work helps you make informed d
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
-- [Chrome Sandbox Mode Explained](/chrome-sandbox-mode-explained)
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
+
+- [Best Chrome Extensions for Netflix](/articles/best-chrome-extensions-for-netflix)
+- [Chrome for Homework Help Best Extensions](/articles/chrome-for-homework-help-best-extensions)
+- [Chrome Extensions For Canva Companion](/articles//articles/chrome-extensions-for-canva-companion/)

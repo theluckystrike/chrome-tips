@@ -70,6 +70,7 @@ Remember that you do not have to choose just one solution. Many users find that 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions For Privacy Badger Alternative](/chrome-extensions-for-privacy-badger-alternative)
-- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [Chrome Bookmarks Bar Show Hide Shortcut](/articles/chrome-bookmarks-bar-show-hide-shortcut)
+- [Chrome Event Timing API Explained](/articles/chrome-event-timing-api-explained)
+- [Chrome Android Tips and Tricks 2026](/articles/chrome-android-tips-and-tricks-2026)

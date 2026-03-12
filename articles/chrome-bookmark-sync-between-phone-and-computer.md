@@ -74,6 +74,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome View Page Source: What It Tells You](/chrome-view-page-source-what-it-tells-you)
-* [Chrome Best Note Taking Extension 2026](/chrome-best-note-taking-extension-2026)
-* [Chrome Closed Captions on Any Video](/chrome-closed-captions-on-any-video)
+- [chrome performance monitor fps counter](/articles/chrome-performance-monitor-fps-counter)
+- [Chrome Extensions for Ambient Sounds Focus](/articles/chrome-extensions-for-ambient-sounds-focus)
+- [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/articles/chrome-devtools-sensors-tab-geolocation)

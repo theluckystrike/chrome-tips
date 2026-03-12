@@ -71,6 +71,7 @@ If you are unsure where to start, Tab Suspender Pro is a solid choice that can b
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions For Web Clipping](/chrome-extensions-for-web-clipping)
-- [Chrome For Odysee Web Player Tips](/chrome-for-odysee-web-player-tips)
-- [Chrome for Spotify Web Player Optimization](/chrome-for-spotify-web-player-optimization)
+
+- [Chrome Android Reading List How to Use](/articles/chrome-android-reading-list-how-to-use)
+- [Chrome Extensions For Canva Companion](/articles//articles/chrome-extensions-for-canva-companion/)
+- [Chrome Task Manager Shortcut Explained](/articles/chrome-task-manager-shortcut-explained)

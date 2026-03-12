@@ -85,3 +85,9 @@ Using tools like the **Performance panel** and **Memory Saver**, you do not need
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome DevTools Override Files Locally](/articles/chrome-devtools-override-files-locally)
+- [chrome performance monitor fps counter](/articles/chrome-performance-monitor-fps-counter)
+- [Chrome Push Notifications Web Apps: Complete Guide](/articles/chrome-push-notifications-web-apps)

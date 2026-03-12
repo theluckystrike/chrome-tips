@@ -79,6 +79,7 @@ Finally, remember that these tools are meant to help with reasonable data collec
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Web Development Tools](/chrome-extensions-for-web-development-tools)
-- [Chrome for ChatGPT Web App Best Extensions](/chrome-for-chatgpt-web-app-best-extensions)
-- [Chrome Extensions For Web Clipping](/chrome-extensions-for-web-clipping)
+
+- [Chrome Canva Slow Loading Fix](/articles/chrome-canva-slow-loading-fix)
+- [Chrome Multiple Users on Same Computer Setup](/articles/chrome-multiple-users-on-same-computer-setup)
+- [Chrome Microphone Permission for One Site How to Set](/articles/chrome-microphone-permission-for-one-site-how-to-set)

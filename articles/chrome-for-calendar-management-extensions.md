@@ -65,6 +65,7 @@ Remember that the goal is not to spend more time managing your calendar but to s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Bibliography Management Extensions](/chrome-for-bibliography-management-extensions)
-- [Best Extensions for Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-- [Chrome Extensions for Calendar Integration](/chrome-extensions-for-calendar-integration)
+
+- [Chrome Network Settings Reset How To](/articles/chrome-network-settings-reset-how-to)
+- [Chrome Address Bar Shortcuts You Should Know](/articles/chrome-address-bar-shortcuts-you-should-know)
+- [How to Remove Chrome Malware](/articles/how-to-remove-chrome-malware)

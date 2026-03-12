@@ -70,6 +70,7 @@ Remember that extensions are helpers, not replacements for good meeting habits. 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
-- [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
-- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+
+- [Chrome Extensions for Image Downloader Bulk](/articles/chrome-extensions-for-image-downloader-bulk)
+- [Chrome GPU Acceleration Causing Problems Fix](/articles/chrome-gpu-acceleration-causing-problems-fix)
+- [Chrome for HBO Max Streaming Issues](/articles/chrome-for-hbo-max-streaming-issues)

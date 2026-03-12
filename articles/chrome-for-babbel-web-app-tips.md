@@ -84,6 +84,7 @@ Getting the most out of Chrome for Babbel web app does not require technical exp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Skyscanner Web App Tips](/chrome-for-skyscanner-web-app-tips)
-- [Chrome For Mailchimp Web App Tips](/chrome-for-mailchimp-web-app-tips)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
+
+- [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Extensions for Instapaper](/articles/chrome-extensions-for-instapaper)
+- [How to Tell Which Chrome Tab Is Draining Battery](/articles/how-to-tell-which-chrome-tab-is-draining-battery)

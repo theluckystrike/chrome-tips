@@ -68,6 +68,7 @@ Try different arrangements to find what works best for your workflow. Some users
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Limit Screen Time in Chrome with Extensions](/chrome-limit-screen-time-with-extension)
-- [How to Block Ads on Chrome Without Extension](/how-to-block-ads-on-chrome-without-extension)
-- [How to Do a Reverse Image Search in Chrome Without an Extension](/chrome-reverse-image-search-without-extension)
+
+- [Chrome Extensions for Site Permissions Manager](/articles/chrome-extensions-for-site-permissions-manager)
+- [How to Backup Chrome Bookmarks and Passwords](/articles/how-to-backup-chrome-bookmarks-and-passwords)
+- [Chrome How to Inspect Element Beginners](/articles/chrome-how-to-inspect-element-beginners)

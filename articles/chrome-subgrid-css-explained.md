@@ -73,3 +73,9 @@ If you are exploring Chrome features like subgrid or working on web design proje
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for google ads management tips](/articles/chrome-for-google-ads-management-tips)
+- [Chrome vs Firefox Memory Usage Test 2026](/articles/chrome-vs-firefox-memory-usage-test-2026)
+- [chrome recently closed tabs shortcut](/articles/chrome-recently-closed-tabs-shortcut)

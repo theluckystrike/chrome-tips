@@ -64,6 +64,7 @@ Take some time to experiment with different extensions to find the one that fits
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions For Image Reverse Search](/chrome-extensions-for-image-reverse-search)
+
+- [Chrome vs Opera GX for Gaming](/articles/chrome-vs-opera-gx-for-gaming)
+- [Chrome Screen Share in Google Meet Tips](/articles/chrome-screen-share-in-google-meet-tips)
+- [Best Chrome Extensions for Data Analysts](/articles/best-chrome-extensions-for-data-analysts)

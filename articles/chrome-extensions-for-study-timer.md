@@ -90,6 +90,7 @@ With the right chrome extensions for study timer, you have a powerful toolkit fo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+
+- [Chrome for Quick Commands Feature](/articles/chrome-for-quick-commands-feature)
+- [How to Reduce Number of Open Tabs](/articles/how-to-reduce-number-of-open-tabs)
+- [Chrome for Binance Web Trading Tips](/articles/chrome-for-binance-web-trading-tips)

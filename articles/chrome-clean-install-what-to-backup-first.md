@@ -74,6 +74,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Extensions For Color Palette Picker](//articles/chrome-extensions-for-color-palette-picker/)
-* [Chrome Extensions for Notion](/chrome-extensions-for-notion)
-* [Best Chromebook Extensions for Students](/best-chromebook-extensions-for-students)
+- [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management)
+- [chrome offline google docs how to enable](/articles/chrome-offline-google-docs-how-to-enable)
+- [Chrome Uses All CPU When Idle Fix](/articles/chrome-uses-all-cpu-when-idle-fix)

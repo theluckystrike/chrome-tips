@@ -90,6 +90,6 @@ The bookmark bar is one of Chrome's most convenient features, but it requires so
 
 ## Related Articles
 
-* [chrome extensions for whatfont alternative](/chrome-extensions-for-whatfont-alternative)
-* [Chrome Extensions for Website Testing](/chrome-extensions-for-website-testing)
-* [Chrome This Connection Is Not Private Bypass](/chrome-this-connection-is-not-private-bypass)
+- [Chrome Google Account Privacy Settings Guide](/articles/chrome-google-account-privacy-settings-guide)
+- [Chrome Contact Picker API Explained](/articles/chrome-contact-picker-api-explained)
+- [Chrome Set Methods: Union and Intersection Made Simple](/articles/chrome-set-methods-union-intersection)

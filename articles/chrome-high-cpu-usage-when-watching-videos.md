@@ -100,3 +100,9 @@ If you have tried all these solutions and still experience issues, your computer
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for custom new tab page extensions](/articles/chrome-for-custom-new-tab-page-extensions)
+- [chrome extensions for screenshot full page](/articles/chrome-extensions-for-screenshot-full-page)
+- [How to Clear Cookies for One Site in Chrome](/articles/how-to-clear-cookies-for-one-site-in-chrome)

@@ -87,3 +87,9 @@ For the most comprehensive solution, disable notifications at the browser level,
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Make Chrome Faster on an Old Computer](/articles/how-to-make-chrome-faster-on-old-computer)
+- [chrome high contrast mode](/articles/chrome-high-contrast-mode)
+- [Chrome Which Tab Is Using Most CPU How to Find](/articles/chrome-which-tab-is-using-most-cpu-how-to-find)

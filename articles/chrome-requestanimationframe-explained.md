@@ -93,3 +93,9 @@ Understanding these underlying technologies helps you become a more informed int
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Two Factor Authentication Setup Guide](/articles/chrome-two-factor-authentication-setup-guide)
+- [Chrome About Blank Page What It Means](/articles/chrome-about-blank-page-what-it-means)
+- [Chrome Update Failed Error 12 Fix](/articles/chrome-update-failed-error-12-fix)

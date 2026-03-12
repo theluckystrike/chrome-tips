@@ -76,6 +76,7 @@ If you use multiple browsers, remember that WebRTC settings are specific to each
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
-- [Ungoogled Chromium What It Is and How to Install](/ungoogled-chromium-what-it-is-and-how-to-install)
-- [Chrome Shadow DOM What It Is](/chrome-shadow-dom-what-it-is)
+
+- [Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover Placement](/articles/chrome-anchor-positioning-css)
+- [How to Edit Any Webpage Text Using Inspect Element](/articles/chrome-edit-webpage-text-inspect-element)
+- [Chrome Content Encoding Error Fix](/articles/chrome-content-encoding-error-fix)

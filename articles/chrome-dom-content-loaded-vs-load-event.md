@@ -65,6 +65,7 @@ Understanding these two events gives you a better mental model for how Chrome ha
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Fix Chrome Mixed Content Warning](/chrome-mixed-content-warning-fix)
-- [Chrome Reader Mode vs Safari Reader Comparison](/chrome-reader-mode-vs-safari-reader-comparison)
-- [Chrome Content Blocker vs Ad Blocker Difference](/chrome-content-blocker-vs-ad-blocker-difference)
+
+- [How to Enable Chrome Smooth Scrolling](/articles/how-to-enable-chrome-smooth-scrolling)
+- [Chrome Dark Mode How To Enable](/articles//chrome-dark-mode-how-to-enable/)
+- [How to Inspect CSS Animations and Transitions in Chrome DevTools](/articles/chrome-animations-panel-inspect-transitions)

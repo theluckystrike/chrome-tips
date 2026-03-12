@@ -75,6 +75,7 @@ With a little practice, you will find that using keyboard shortcuts makes your G
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Tab Groups Keyboard Shortcuts](/chrome-tab-groups-keyboard-shortcuts)
-- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
-- [Chrome Keyboard Shortcuts for Beginners](/chrome-keyboard-shortcuts-for-beginners)
+
+- [Chrome Not Responding? Force Close It This Way](/articles/chrome-not-responding-force-close-how)
+- [Chrome Crashing on Samsung Galaxy Phone](/articles/chrome-crashing-on-samsung-galaxy-phone)
+- [Does Having Many Chrome Extensions Slow Down Browser](/articles/does-having-many-chrome-extensions-slow-down-browser)

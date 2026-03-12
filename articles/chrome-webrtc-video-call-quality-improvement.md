@@ -60,6 +60,7 @@ Improving your chrome webrtc video call quality does not have to be complicated.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome WebRTC Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
-- [Chrome for Amazon Prime Video Quality Settings](/chrome-for-amazon-prime-video-quality-settings)
-- [Chrome Floating Video Window How To Use](/chrome-floating-video-window-how-to-use)
+
+- [Chrome Developer Tools Shortcut](/articles//chrome-developer-tools-shortcut/)
+- [Chrome Extensions for Saving Articles Offline](/articles/chrome-extensions-for-saving-articles-offline)
+- [Chrome Sync Phone and Computer How to Set Up](/articles/chrome-sync-phone-and-computer-how-to-set-up)

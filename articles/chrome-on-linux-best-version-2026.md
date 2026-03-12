@@ -88,3 +88,9 @@ If you continue to experience persistent issues despite trying these recommendat
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome high contrast mode how to enable](/articles/chrome-high-contrast-mode-how-to-enable)
+- [Chrome Push Notifications API Explained](/articles/chrome-push-notifications-api-explained)
+- [Chrome Extension Permissions Best Practices](/articles/chrome-extension-permissions-best-practices)

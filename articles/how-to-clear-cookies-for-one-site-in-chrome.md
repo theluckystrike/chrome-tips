@@ -70,6 +70,7 @@ Next time a specific site will not load properly or keeps asking you to sign in,
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
-- [Chrome Camera Permission for One Site How to Set](/chrome-camera-permission-for-one-site-how-to-set)
-- [Chrome How To Allow Popups For One Site](/chrome-how-to-allow-popups-for-one-site)
+
+- [Chrome Extensions For Blocking Distracting Websites](/articles//articles/chrome-extensions-for-blocking-distracting-websites/)
+- [How to Enable Chrome Smooth Scrolling](/articles/how-to-enable-chrome-smooth-scrolling)
+- [Chrome Reading Mode AI Summary Feature](/articles/chrome-reading-mode-ai-summary-feature)

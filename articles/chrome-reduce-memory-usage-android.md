@@ -94,3 +94,9 @@ Remember that your phone is a tool meant to make your life easier, not a device 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Built-In PDF Editor Guide](/articles/chrome-pdf-editor-built-in)
+- [Chrome Local Storage View Edit: How to Inspect and Modify Website Data](/articles/chrome-local-storage-view-edit)
+- [chrome save all open tabs as bookmarks](/articles/chrome-save-all-open-tabs-as-bookmarks)

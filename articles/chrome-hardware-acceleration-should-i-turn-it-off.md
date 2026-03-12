@@ -79,6 +79,7 @@ Try both approaches and see what works best for you. Every computer setup is dif
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome vs Arc Browser: Should I Switch?](/chrome-vs-arc-browser-should-i-switch)
-- [Chrome Preloading Pages Should I Enable It](/chrome-preloading-pages-should-i-enable-it)
-- [How Often Should I Clear Chrome Cache](/how-often-should-i-clear-chrome-cache)
+
+- [Chrome for Target Web App Best Extensions](/articles/chrome-for-target-web-app-best-extensions)
+- [Chrome Ai Theme Generator How To Use](/articles/chrome-ai-theme-generator-how-to-use)
+- [chrome for google ads management tips](/articles/chrome-for-google-ads-management-tips)

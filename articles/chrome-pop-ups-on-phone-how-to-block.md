@@ -86,3 +86,9 @@ Start with the simplest option, which is making sure Chrome's pop-up blocker is 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome offline pages on phone how to save](/articles/chrome-offline-pages-on-phone-how-to-save)
+- [Chrome Freezes When Opening New Tab Fix](/articles/chrome-freezes-when-opening-new-tab-fix)
+- [Chrome Predictive Loading How to Turn Off](/articles/chrome-predictive-loading-how-to-turn-off)

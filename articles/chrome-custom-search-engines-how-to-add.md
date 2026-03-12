@@ -90,6 +90,7 @@ Custom search engines are one of those Chrome features that many people do not k
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
-- [Chrome Custom Search Engines Guide](/chrome-search-engines-custom)
+
+- [chrome extensions for wireframe design](/articles/chrome-extensions-for-wireframe-design)
+- [Chrome Saved Passwords How to View](/articles/chrome-saved-passwords-how-to-view)
+- [Chrome for MasterClass Web Tips](/articles/chrome-for-masterclass-web-tips)

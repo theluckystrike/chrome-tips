@@ -95,6 +95,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Skyscanner Web App Tips](/chrome-for-skyscanner-web-app-tips)
-* [Chrome Mirroring Screen to TV How To](/chrome-mirroring-screen-to-tv-how-to)
-* [Chrome for Binance Web Trading Tips](/chrome-for-binance-web-trading-tips)
+- [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/articles/chrome-slows-down-after-opening-20-tabs)
+- [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/articles/chrome-vs-edge-on-windows-11)
+- [Chrome Dock Icon Missing Fix Mac](/articles/chrome-dock-icon-missing-fix-mac)

@@ -81,6 +81,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Extensions for iMacros Alternative](/chrome-extensions-for-imacros-alternative)
-* [Chrome vs Arc Browser Comparison 2026](/chrome-vs-arc-browser-comparison-2026)
-* [Chrome Performance Flame Chart Explained](/chrome-performance-flame-chart-explained)
+- [Chrome CSS Animations Performance Tips](/articles//chrome-css-animations-performance-tips/)
+- [Chrome Reader Mode vs Safari Reader Comparison](/articles/chrome-reader-mode-vs-safari-reader-comparison)
+- [Chrome Virtual Keyboard API for Mobile - Complete Guide](/articles/chrome-virtual-keyboard-api-mobile)

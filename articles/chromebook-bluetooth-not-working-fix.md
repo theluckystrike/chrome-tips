@@ -98,6 +98,7 @@ Before giving up, remember that most Bluetooth problems can be solved with the s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
-- [Chrome Drag and Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
-- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
+
+- [Chrome Beacon API for Analytics](/articles/chrome-beacon-api-for-analytics)
+- [Chrome Slows Down After Sleep Mode Fix](/articles/chrome-slows-down-after-sleep-mode-fix)
+- [Chrome Default Download Location How to Set](/articles//chrome-default-download-location-how-to-set/)

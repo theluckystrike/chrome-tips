@@ -82,3 +82,9 @@ The time you invest in setting up a good bibliography system will pay dividends 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome chrome.alarms API for Scheduled Tasks](/articles//articles/chrome-chrome.alarms-scheduled-tasks/)
+- [Chrome vs Edge Battery Life Laptop Comparison](/articles/chrome-vs-edge-battery-life-laptop-comparison)
+- [Chrome for TickTick in Browser Tips](/articles/chrome-for-ticktick-in-browser-tips)

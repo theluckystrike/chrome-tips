@@ -70,6 +70,7 @@ If you have tried these steps and your browser still feels slow, consider whethe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Use Chrome Task Manager to Find Slow Tabs](/how-to-use-chrome-task-manager-to-find-slow-tabs)
-- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
-- [Chrome Which Tab Is Using Most CPU How to Find](/chrome-which-tab-is-using-most-cpu-how-to-find)
+
+- [chrome recently closed tabs shortcut](/articles/chrome-recently-closed-tabs-shortcut)
+- [Chrome on Android — Tips and Tricks for 2026](/articles/chrome-on-android-tips-and-tricks-2026)
+- [Chrome Web App vs Native App Battery Comparison](/articles/chrome-web-app-vs-native-app-battery-comparison)

@@ -92,3 +92,9 @@ Consider using extensions that help manage your tabs and browser performance. So
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Web Store Best Free Games](/articles/chrome-web-store-best-free-games)
+- [Chrome Extensions for Meeting Notes](/articles/chrome-extensions-for-meeting-notes)
+- [Chrome View Source Shortcut](/articles/chrome-view-source-shortcut)

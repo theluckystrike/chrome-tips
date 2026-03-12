@@ -73,6 +73,7 @@ Understanding what the Chrome mixed content warning means helps you make better 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome HSTS What It Means for Security](/chrome-hsts-what-it-means-for-security)
-- [Chrome Benchmark Score What It Means](/chrome-benchmark-score-what-it-means)
-- [Chrome Tab Freezing What It Means](/chrome-tab-freezing-what-it-means)
+
+- [Chrome Open Settings Shortcut](/articles/chrome-open-settings-shortcut)
+- [Chrome DevTools Protocol Monitor](/articles/chrome-devtools-protocol-monitor)
+- [Chrome Takes Forever to Load Pages](/articles/chrome-takes-forever-to-load-pages)

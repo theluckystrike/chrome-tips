@@ -145,3 +145,9 @@ For additional Chrome optimization, consider pairing your font customization wit
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome DevTools Command Menu Shortcuts](/articles//chrome-devtools-command-menu-shortcuts/)
+- [Chrome Extensions for Session Buddy](/articles/chrome-extensions-for-session-buddy)
+- [Chrome Extension Popup Page Tutorial](/articles/chrome-extension-popup-page-tutorial)

@@ -84,6 +84,7 @@ Finally, take action on what you learn. The extensions can identify problems, bu
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions For Screen Recording Free](/chrome-extensions-for-screen-recording-free)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions For Pdf Editing Free](/chrome-extensions-for-pdf-editing-free)
+
+- [Chrome Remote Desktop Slow Fix](/articles/chrome-remote-desktop-slow-fix)
+- [Chrome High Disk Usage Fix Windows](/articles/chrome-high-disk-usage-fix-windows)
+- [Chrome Default Search Engine Changed How to Fix](/articles//chrome-default-search-engine-changed-how-to-fix/)

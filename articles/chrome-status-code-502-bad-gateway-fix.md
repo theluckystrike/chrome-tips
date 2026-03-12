@@ -83,3 +83,9 @@ Most 502 errors are temporary and resolve themselves within minutes. If you cont
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web)
+- [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage/)
+- [Chrome Managed Bookmarks for Employees](/articles/chrome-managed-bookmarks-for-employees)

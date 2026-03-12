@@ -86,6 +86,7 @@ If you have tried all these steps and the problem persists, or if you want to pr
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
-- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
-- [Chrome Drag and Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
+
+- [Chrome Extensions for Meditation](/articles/chrome-extensions-for-meditation)
+- [How to Pin a Website in Chrome Taskbar](/articles/how-to-pin-a-website-in-chrome-taskbar)
+- [Chrome for Khan Academy Best Settings](/articles/chrome-for-khan-academy-best-settings)

@@ -91,3 +91,9 @@ Learning the chrome keyboard shortcuts complete list for 2026 takes some time, b
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for google flights tips and tricks](/articles/chrome-for-google-flights-tips-and-tricks)
+- [Chrome Nesting CSS Native Support](/articles/chrome-nesting-css-native-support)
+- [Chrome Extensions For Font Changing](/articles//articles/chrome-extensions-for-font-changing/)

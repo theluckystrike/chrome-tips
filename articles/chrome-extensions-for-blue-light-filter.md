@@ -62,3 +62,9 @@ Finally, consider the position of your screen. Having it at eye level or slightl
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Subgrid CSS Explained](/articles/chrome-subgrid-css-explained)
+- [chrome privacy checkup how to do](/articles/chrome-privacy-checkup-how-to-do)
+- [Chrome Tab Search Feature How to Use](/articles/chrome-tab-search-feature-how-to-use)

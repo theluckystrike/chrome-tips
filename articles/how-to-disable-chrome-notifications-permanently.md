@@ -77,6 +77,7 @@ The key is to visit your Chrome settings regularly and make sure only the sites 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
-- [Chrome Javascript Disable For One Site How To](/chrome-javascript-disable-for-one-site-how-to)
-- [Chrome How To Block Specific Website Notifications](/chrome-how-to-block-specific-website-notifications)
+
+- [Chrome Extensions Conflict With Each Other Fix](/articles/chrome-extensions-conflict-with-each-other-fix)
+- [Chrome Layer CSS Cascade Layers Explained](/articles/chrome-layer-css-cascade-layers-explained)
+- [Chrome WebStore Extensions Not Installing Fix](/articles/chrome-webstore-extensions-not-installing-fix)

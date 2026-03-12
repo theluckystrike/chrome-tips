@@ -144,3 +144,9 @@ The effort you put into Core Web Vitals optimization will pay off in better sear
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Ctrl Shift Delete Shortcut What It Does](/articles//chrome-ctrl-shift-delete-shortcut-what-it-does/)
+- [how to enable cookies in chrome](/articles/how-to-enable-cookies-in-chrome)
+- [Chrome Extension for Focus Mode Block Distractions](/articles/chrome-extension-for-focus-mode-block-distractions)

@@ -78,6 +78,7 @@ The key is finding an extension that matches your workflow. Most of these tools 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome Screenshot Full Page Without Extension](/chrome-screenshot-full-page-without-extension)
-- [How to Capture Full Page Screenshots in Chrome Using DevTools](/chrome-screenshot-capture-devtools-full-page)
+
+- [Chrome for Facebook Best Extensions](/articles/chrome-for-facebook-best-extensions)
+- [How to Improve Chrome WebGL Performance](/articles/chrome-webgl-performance-how-to-improve)
+- [Chrome Extensions for Raindrop IO](/articles/chrome-extensions-for-raindrop-io)

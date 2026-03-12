@@ -76,6 +76,7 @@ Remember that extensions are meant to enhance your trading experience, not repla
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Best Chrome Extensions for Researchers](/best-chrome-extensions-for-researchers)
-- [Best Chrome Extensions for Real Estate Agents](/best-chrome-extensions-for-real-estate-agents)
+
+- [Chrome Extensions for Social Media Managers](/articles/chrome-extensions-for-social-media-managers)
+- [Chrome ERR_CACHE_MISS Fix](/articles/chrome-err-cache-miss-fix)
+- [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use)

@@ -92,3 +92,9 @@ Using a tool like **Tab Suspender Pro** can actually help Chrome run better by a
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Workspaces: Link DevTools to Files for Seamless Development](/articles/chrome-workspaces-link-devtools-to-files)
+- [chrome extensions for pdf editing free](/articles/chrome-extensions-for-pdf-editing-free)
+- [How to Change Default Download Location Chrome](/articles/how-to-change-default-download-location-chrome)

@@ -64,6 +64,7 @@ You might also want to print out a cheat sheet of Chrome shortcuts and keep it n
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [Chrome Jump to Specific Tab Number Shortcut](/chrome-jump-to-specific-tab-number-shortcut)
+
+- [chrome for apartments.com search tips](/articles/chrome-for-apartmentscom-search-tips)
+- [chrome location services how to turn off](/articles/chrome-location-services-how-to-turn-off)
+- [Chrome Persistent Storage Permission Explained](/articles/chrome-persistent-storage-permission-explained)

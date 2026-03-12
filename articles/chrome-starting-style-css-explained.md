@@ -63,3 +63,9 @@ If you find that Chrome is running slowly or using too much memory due to many o
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Screenshot Full Page Without Extension](/articles/chrome-screenshot-full-page-without-extension)
+- [Chrome Overrides for Local Development](/articles/chrome-overrides-local-development)
+- [Chrome Extensions for Regex Tester](/articles/chrome-extensions-for-regex-tester)

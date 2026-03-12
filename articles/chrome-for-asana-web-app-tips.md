@@ -80,6 +80,7 @@ Other helpful extensions include note-taking tools that integrate with your work
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
-- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
-- [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
+
+- [chrome deceptive site ahead warning fix](/articles//chrome-deceptive-site-ahead-warning-fix/)
+- [Chrome Has Selector Explained](/articles/chrome-has-selector-explained)
+- [Chrome for Notion Web Clipper Setup](/articles/chrome-for-notion-web-clipper-setup)

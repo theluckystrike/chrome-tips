@@ -76,6 +76,7 @@ Remember that more extensions is not always better. Each extension adds some ove
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Gmail Productivity Extensions](/chrome-for-gmail-productivity-extensions)
-- [Best Chrome Extensions for Email Management](/best-chrome-extensions-for-email-management)
-- [Chrome Extensions for Productivity Dashboard](/chrome-extensions-for-productivity-dashboard)
+
+- [Chrome for Substack Reading Tips](/articles/chrome-for-substack-reading-tips)
+- [Chrome DevTools Layers Panel 3D View](/articles/chrome-devtools-layers-panel-3d-view)
+- [Chrome Extensions for Website Speed Test](/articles/chrome-extensions-for-website-speed-test)

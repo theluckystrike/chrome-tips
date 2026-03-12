@@ -101,6 +101,6 @@ Whether you are trying to hide a specific site or simply want to clean up a clut
 
 ## Related Articles
 
-* [Chrome Extensions for Google Sheets](/chrome-extensions-for-google-sheets)
-* [Chrome for Dailymotion Web Player](/chrome-for-dailymotion-web-player)
-* [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)
+- [Chrome Best Extensions for Parental Control](/articles/chrome-best-extensions-for-parental-control)
+- [chrome high contrast mode](/articles/chrome-high-contrast-mode)
+- [Chrome for Cryptocurrency Tracking Extensions](/articles/chrome-for-cryptocurrency-tracking-extensions)

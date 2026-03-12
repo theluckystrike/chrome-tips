@@ -76,3 +76,9 @@ Remember that fewer, well-chosen extensions will serve you better than installin
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome first party vs third party cookies](/articles/chrome-first-party-vs-third-party-cookies)
+- [Chrome for Canvas LMS Best Extensions](/articles/chrome-for-canvas-lms-best-extensions)
+- [chrome prefetch dns how to enable](/articles/chrome-prefetch-dns-how-to-enable)

@@ -64,6 +64,7 @@ The best way to find what works for you is to try a highlighting extension and u
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Web Automation Free](/chrome-extensions-for-web-automation-free)
-- [Chrome Extensions for Web Annotation](/chrome-extensions-for-web-annotation)
-- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
+
+- [Chrome vs Safari Memory Usage Mac](/articles/chrome-vs-safari-memory-usage-mac)
+- [chrome javascript disable for one site how to](/articles/chrome-javascript-disable-for-one-site-how-to)
+- [Chrome Camera Not Working Fix](/articles/chrome-camera-not-working-fix)

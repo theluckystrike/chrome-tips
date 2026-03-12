@@ -72,6 +72,7 @@ Remember that taking time to learn about your tools pays off in the long run. Un
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
-- [Chrome for Google Sheets Tips and Tricks](/chrome-for-google-sheets-tips-and-tricks)
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+
+- [Chrome Extensions For Coupon Codes Automatically](/articles//articles/chrome-extensions-for-coupon-codes-automatically/)
+- [chrome zoom default change](/articles/chrome-zoom-default-change)
+- [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users)

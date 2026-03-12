@@ -89,6 +89,7 @@ Take a moment to add those words that constantly get flagged. Your name, your wo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Check If Chrome Extension Is Spying on Me](/how-to-check-if-chrome-extension-is-spying-on-me)
-- [Chrome for Custom Cursor Extensions](/chrome-for-custom-cursor-extensions)
-- [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)
+
+- [How to Make Chrome Kid-Friendly](/articles/how-to-make-chrome-kid-friendly)
+- [Chrome Virus Scan Built in How to Use](/articles/chrome-virus-scan-built-in-how-to-use)
+- [Chrome Translate Entire Page How To](/articles/chrome-translate-entire-page-how-to)

@@ -66,6 +66,7 @@ Most extension installation problems are temporary and fixable. With patience an
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Translate Not Working? Here's How to Fix It](/chrome-translate-not-working-fix)
-- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
-- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
+
+- [Chrome Address Bar Not Showing Full URL Fix](/articles/chrome-address-bar-not-showing-full-url-fix)
+- [Chrome Pop Ups How to Block All](/articles/chrome-pop-ups-how-to-block-all)
+- [Chrome Ai Theme Generator How To Use](/articles/chrome-ai-theme-generator-how-to-use)

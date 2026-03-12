@@ -71,6 +71,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Minimum Font Size Setting Where to Find It](//chrome-minimum-font-size-setting-where/)
-* [chrome pwa storage quota how much space](/chrome-pwa-storage-quota-how-much-space)
-* [Chrome Autofill Not Working Fix](/chrome-autofill-not-working-fix)
+- [How to Capture Network Logs in Chrome Using Net Export](/articles/chrome-net-export-capture-network-log)
+- [Chromebook vs iPad for Students](/articles/chromebook-vs-ipad-for-students-comparison)
+- [Chrome for Cold Turkey Blocker Setup](/articles/chrome-for-cold-turkey-blocker-setup)

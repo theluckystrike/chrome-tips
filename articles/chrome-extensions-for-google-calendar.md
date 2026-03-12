@@ -72,6 +72,7 @@ You do not need to install every extension you come across. In fact, having too 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Google Drive](/best-chrome-extensions-for-google-drive)
-- [Chrome for Google Maps Best Extensions](/chrome-for-google-maps-best-extensions)
-- [Chrome Extensions for Google Classroom](/chrome-extensions-for-google-classroom)
+
+- [How to Block Ads on Chrome Android](/articles/how-to-block-ads-on-chrome-android)
+- [Chrome Crashing on Samsung Galaxy Phone](/articles/chrome-crashing-on-samsung-galaxy-phone)
+- [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking/)

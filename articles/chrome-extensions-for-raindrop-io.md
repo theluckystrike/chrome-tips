@@ -78,6 +78,7 @@ The right combination of extensions turns Chrome into a powerful companion for y
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+- [Chrome Performance Settings Best Configuration](/articles/chrome-performance-settings-best-configuration)
+- [Chrome Tabs on Top vs Bottom: How to Change](/articles/chrome-tabs-on-top-vs-bottom-how-to-change)
+- [Chrome Page Source How to View Explained](/articles/chrome-page-source-how-to-view-explained)

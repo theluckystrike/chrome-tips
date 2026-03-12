@@ -82,3 +82,9 @@ Finally, take a moment every few months to review your saved passwords in Chrome
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Auto Delete Chrome History After Time: Complete Guide](/articles/chrome-history-auto-delete-after-time)
+- [how to delete chrome browsing data automatically](/articles/how-to-delete-chrome-browsing-data-automatically)
+- [Chrome Mobile Reading List How to Use](/articles/chrome-mobile-reading-list-how-to-use)

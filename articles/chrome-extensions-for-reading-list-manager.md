@@ -76,6 +76,7 @@ If you also want to reduce the number of open tabs in your browser, consider try
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Code Snippet Manager](/chrome-extensions-for-code-snippet-manager)
-- [Chrome Extensions for Speed Reading](/chrome-extensions-for-speed-reading)
-- [Chrome for Medium Best Reading Extensions](/chrome-for-medium-best-reading-extensions)
+
+- [Chrome Flexbox Inspector How to Use](/articles/chrome-flexbox-inspector-how-to-use)
+- [Google Chrome vs Chromium Difference Explained](/articles/google-chrome-vs-chromium-difference-explained)
+- [Chrome Google Search Not Working Fix](/articles/chrome-google-search-not-working-fix)

@@ -217,3 +217,9 @@ The best approach is to start with one or two extensions that address your most 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for uber web app setup](/articles/chrome-for-uber-web-app-setup)
+- [Chrome for Stadia Alternatives 2026](/articles/chrome-for-stadia-alternatives-2026)
+- [Chrome Extensions for Split Screen Browsing](/articles/chrome-extensions-for-split-screen-browsing)

@@ -82,3 +82,9 @@ The best browser is the one that fits your workflow. If you are constantly runni
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Security Key How to Use With Chrome](/articles/chrome-security-key-how-to-use-with-chrome)
+- [Chrome Reading Mode vs Reader View Extensions](/articles/chrome-reading-mode-vs-reader-view-extensions)
+- [chrome print page shortcut](/articles/chrome-print-page-shortcut)

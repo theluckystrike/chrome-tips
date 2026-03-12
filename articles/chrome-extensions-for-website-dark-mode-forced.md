@@ -84,6 +84,7 @@ If you encounter a website where the dark mode does not look quite right, most e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions For Website Distraction Blocker](/chrome-extensions-for-website-distraction-blocker)
-- [Chrome Extensions for Website Monitoring Changes](/chrome-extensions-for-website-monitoring-changes)
-- [Chrome Extensions for Website Blocker](/chrome-extensions-for-website-blocker)
+
+- [chrome enable parallel downloading](/articles/chrome-enable-parallel-downloading)
+- [Chrome Supervised Profiles for Kids](/articles/chrome-supervised-user-profile-for-kids)
+- [Chrome Fullscreen Mode Shortcut](/articles/chrome-fullscreen-mode-shortcut)

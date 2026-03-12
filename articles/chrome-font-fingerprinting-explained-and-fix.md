@@ -69,6 +69,7 @@ Your online identity belongs to you, and you have the right to control who can a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)
-- [Chrome Drag and Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
+
+- [Chrome iPhone vs Safari Which is Better](/articles/chrome-iphone-vs-safari-which-is-better)
+- [Chrome Extensions for Binaural Beats](/articles/chrome-extensions-for-binaural-beats)
+- [Chrome for Babbel Web App Tips](/articles/chrome-for-babbel-web-app-tips)

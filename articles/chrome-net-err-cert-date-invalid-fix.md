@@ -67,6 +67,7 @@ Finally, if you encounter this error frequently on specific websites, consider r
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/chrome-err-ssl-protocol-error-fix)
-- [Chrome ERR_NETWORK_CHANGED Fix](/chrome-err-network-changed-fix)
-- [Chrome ERR_QUIC_PROTOCOL_ERROR Fix](/chrome-err-quic-protocol-error-fix)
+
+- [Chrome Energy Saver Mode Guide](/articles/chrome-energy-saver-mode-guide)
+- [Chrome Google Translate Built in Feature Tips](/articles/chrome-google-translate-built-in-feature-tips)
+- [chrome for geforce now best settings](/articles/chrome-for-geforce-now-best-settings)

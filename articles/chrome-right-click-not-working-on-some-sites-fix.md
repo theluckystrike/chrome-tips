@@ -82,6 +82,7 @@ Remember that website restrictions are often in place to protect intellectual pr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
-- [Chrome Drag and Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+
+- [Chrome Extensions for Meta Tag Analyzer](/articles/chrome-extensions-for-meta-tag-analyzer)
+- [Chrome for TickTick in Browser Tips](/articles/chrome-for-ticktick-in-browser-tips)
+- [Chrome Devtools Security Panel Explained](/articles/chrome-devtools-security-panel-explained)

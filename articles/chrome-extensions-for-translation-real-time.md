@@ -78,6 +78,7 @@ The best approach is to try a few different extensions and see which one fits yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Translation On Hover Extensions](/chrome-for-translation-on-hover-extensions)
-- [Chrome for Real Estate Browsing Extensions](/chrome-for-real-estate-browsing-extensions)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [Chrome WebGL Not Supported Fix](/articles/chrome-webgl-not-supported-fix)
+- [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage)
+- [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow)

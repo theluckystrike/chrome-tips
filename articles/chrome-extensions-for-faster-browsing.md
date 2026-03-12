@@ -58,6 +58,7 @@ With the right extensions installed, Chrome can feel like a brand new browser ag
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome for NFT Browsing Extensions](/chrome-for-nft-browsing-extensions)
-- [Chrome for Web3 Browsing Extensions](/chrome-for-web3-browsing-extensions)
+
+- [Chrome Extensions For Cookie Auto Delete](/articles//articles/chrome-extensions-for-cookie-auto-delete/)
+- [How to Simulate Slow Connection in Chrome for Testing](/articles/chrome-simulate-slow-connection-for-testing)
+- [chrome fledge api what advertisers know about you](/articles/chrome-fledge-api-what-advertisers-know-about-you)

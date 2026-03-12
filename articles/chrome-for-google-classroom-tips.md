@@ -85,6 +85,7 @@ Give these tips a try and see which ones work best for your situation. Everyone'
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Classroom Integration Tips For Teachers](/chrome-classroom-integration-tips-for-teachers)
-- [Chrome For Google Ads Management Tips](/chrome-for-google-ads-management-tips)
-- [Chrome for Google Slides Presentation Tips](/chrome-for-google-slides-presentation-tips)
+
+- [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use)
+- [Chrome How to Clear DNS Cache](/articles/chrome-how-to-clear-dns-cache)
+- [Chrome Spell Check Adding Custom Words](/articles/chrome-spell-check-adding-custom-words)

@@ -64,3 +64,9 @@ Consider using additional tools like **Tab Suspender Pro** to manage your browse
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [chrome google docs keyboard shortcuts](/articles/chrome-google-docs-keyboard-shortcuts)
+- [Chrome Extensions for Video Conferencing Enhancement](/articles/chrome-extensions-for-video-conferencing-enhancement)
+- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/articles/chrome-err-too-many-redirects-cookie-fix)

@@ -87,6 +87,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Spotify Web Player Not Working Fix](/chrome-spotify-web-player-not-working-fix)
-* [Chrome Layers Panel Guide](/chrome-layers-panel-guide)
-* [Chrome Media Keys Not Working Fix](/chrome-media-keys-not-working-fix)
+- [How to Take Screenshot in Chrome Without Extension](/articles/how-to-take-screenshot-in-chrome-without-extension)
+- [Chrome Extension for Video Speed Controller](/articles/chrome-extension-for-video-speed-controller)
+- [Chrome Location Access on Phone How to Control](/articles/chrome-location-access-on-phone-how-to-control)

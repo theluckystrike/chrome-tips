@@ -74,6 +74,7 @@ Keeping your browser configured for your specific needs makes all the built-in f
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
-- [Chrome Gemini Integration How to Use](/chrome-gemini-integration-how-to-use)
+
+- [Chrome for Forest Focus Timer Extension](/articles/chrome-for-forest-focus-timer-extension)
+- [Chrome Spell Check Adding Custom Words](/articles/chrome-spell-check-adding-custom-words)
+- [Best Privacy Settings For Chrome 2026](/articles/best-privacy-settings-for-chrome-2026)

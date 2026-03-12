@@ -77,6 +77,7 @@ Remember that your time is valuable, and a faster browser means less waiting and
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+
+- [Why Did Chrome Get So Slow Recently? Causes and Fixes](/articles/why-did-chrome-get-so-slow-recently)
+- [Chrome for Coupon Finding Best Extensions](/articles/chrome-for-coupon-finding-best-extensions)
+- [Chrome What Technology Is Website Using](/articles/chrome-what-technology-is-website-using)

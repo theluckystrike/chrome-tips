@@ -90,3 +90,9 @@ Chrome using too much battery on laptop is a common problem, but it is one you c
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Amazon Price History](/articles/chrome-extensions-for-amazon-price-history)
+- [Chrome Extension for Saving Passwords Securely](/articles/chrome-extension-for-saving-passwords-securely)
+- [Chrome Content Visibility Auto Performance](/articles/chrome-content-visibility-auto-performance)

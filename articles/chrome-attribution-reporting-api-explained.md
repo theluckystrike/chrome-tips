@@ -66,6 +66,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [chrome material you design on desktop](/chrome-material-you-design-on-desktop)
-* [Best Chrome Extensions for Salespeople](/best-chrome-extensions-for-salespeople)
-* [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
+- [Chrome Blocked Download How to Unblock](/articles/chrome-blocked-download-how-to-unblock)
+- [Chrome Flags Best Settings 2026: The Ultimate Guide](/articles/chrome-flags-best-settings-2026)
+- [Chrome Canvas Rendering Slow Fix: Practical Solutions for Limited RAM](/articles/chrome-canvas-rendering-slow-fix)

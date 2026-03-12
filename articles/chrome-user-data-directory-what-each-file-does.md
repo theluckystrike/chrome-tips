@@ -114,3 +114,9 @@ Whether you're recovering from a crash, clearing out accumulated cache, or just 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Bookmarks File Location and Backup Guide](/articles/chrome-bookmarks-file-location-backup)
+- [Chrome Certificate Transparency Explained Simply](/articles/chrome-certificate-transparency-explained-simply)
+- [Chrome Hardware Acceleration Guide](/articles/chrome-hardware-acceleration-guide)

@@ -122,6 +122,7 @@ The web platform is increasingly capable of delivering native-level graphics per
 Whether you choose WebGL or WebGPU for your next project, understanding both technologies positions you well for the evolving web graphics landscape. The performance and capability improvements that WebGPU brings are substantial, making it worth considering for any new graphics-intensive web application.
 
 ## Related Articles
-- [Chrome vs Firefox Battery Life: Which Browser Saves More Power](/chrome-vs-firefox-battery-life)
-- [Chrome Vs Firefox Privacy Comparison 2026](/chrome-vs-firefox-privacy-comparison-2026)
-- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+
+- [How to Turn Off Chrome Notifications Permanently](/articles/how-to-turn-off-chrome-notifications-permanently)
+- [Chrome Lazy Loading Images Explained](/articles/chrome-lazy-loading-images-explained)
+- [chrome color mix function css](/articles/chrome-color-mix-function-css)

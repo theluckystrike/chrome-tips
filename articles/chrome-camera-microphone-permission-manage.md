@@ -80,6 +80,6 @@ If you often have many tabs open and worry about performance or accidental camer
 
 ## Related Articles
 
-* [Chrome for DeFi Dashboard Extensions](/chrome-for-defi-dashboard-extensions)
-* [chrome data saver mode is it still available](//chrome-data-saver-mode-is-it-still-available/)
-* [chrome offline google docs how to enable](/chrome-offline-google-docs-how-to-enable)
+- [Chrome Extensions For Dns Lookup](/articles//articles/chrome-extensions-for-dns-lookup/)
+- [chrome global privacy control what it does](/articles/chrome-global-privacy-control-what-it-does)
+- [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization)

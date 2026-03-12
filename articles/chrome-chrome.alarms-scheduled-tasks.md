@@ -95,6 +95,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Gesture Navigation Complete Guide](/chrome-gesture-navigation)
-* [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
-* [Chrome Bookmarks File Location and Backup Guide](/chrome-bookmarks-file-location-backup)
+- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/articles/chrome-incognito-mode-what-it-actually-does)
+- [Laptop Freezing When Opening Chrome: Practical Solutions That Actually Work](/articles/laptop-freezing-when-opening-chrome)
+- [Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM](/articles/chrome-slow-on-work-computer-vpn)

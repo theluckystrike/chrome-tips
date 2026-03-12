@@ -68,6 +68,7 @@ Incognito mode is a powerful tool for privacy and testing, but it's not a perfor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
-- [Chrome Lite Mode Does It Still Exist](/chrome-lite-mode-does-it-still-exist)
-- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
+
+- [Chrome Multiple Profiles How to Switch Fast](/articles/chrome-multiple-profiles-how-to-switch-fast)
+- [Chrome for Figma Best Settings](/articles/chrome-for-figma-best-settings)
+- [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage/)

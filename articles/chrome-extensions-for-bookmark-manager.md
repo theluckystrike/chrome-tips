@@ -66,3 +66,9 @@ Most of these extensions offer free versions with core features, so you can try 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Web Codec API Video Processing](/articles/chrome-web-codec-api-video-processing)
+- [Chrome Performance Settings Explained 2026](/articles/chrome-performance-settings-explained-2026)
+- [Chrome for Travel Itinerary Extensions](/articles/chrome-for-travel-itinerary-extensions)

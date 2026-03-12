@@ -72,6 +72,7 @@ The next time you install a new PWA, pay attention to what shortcuts are availab
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
-- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
-- [Chrome Desktop Shortcuts How To Create](/chrome-desktop-shortcuts-how-to-create)
+
+- [chrome extensions for target circle deals](/articles/chrome-extensions-for-target-circle-deals)
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug)
+- [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix)

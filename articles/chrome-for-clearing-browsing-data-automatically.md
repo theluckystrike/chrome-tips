@@ -67,6 +67,7 @@ Whatever method you choose, setting something up is better than doing nothing. E
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
-- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)
-- [Chrome Extensions for Faster Browsing](/chrome-extensions-for-faster-browsing)
+
+- [Should I Switch from Chrome to Firefox for Speed?](/articles/should-i-switch-from-chrome-to-firefox-for-speed)
+- [chrome safe browsing enhanced vs standard](/articles/chrome-safe-browsing-enhanced-vs-standard)
+- [chrome clipboard permission explained](/articles/chrome-clipboard-permission-explained)

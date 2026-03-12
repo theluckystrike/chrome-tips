@@ -90,6 +90,7 @@ One useful extension for browser management is Tab Suspender Pro. While it does 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
+
+- [Chrome High Memory Usage Windows 11](/articles/chrome-high-memory-usage-windows-11)
+- [Chrome Geolocation Permission Settings](/articles/chrome-geolocation-permission-settings)
+- [Chrome Toolbar Missing Fix](/articles/chrome-toolbar-missing-fix)

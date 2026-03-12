@@ -69,3 +69,9 @@ If you find that Chrome uses too many tabs and slows down your computer, you mig
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Bookmarks File Location and Backup Guide](/articles/chrome-bookmarks-file-location-backup)
+- [Chrome Tab Crashed He Dead Fix](/articles/chrome-tab-crashed-he-dead-fix)
+- [Chrome WebUSB How to Connect Devices](/articles/chrome-webusb-how-to-connect-devices)

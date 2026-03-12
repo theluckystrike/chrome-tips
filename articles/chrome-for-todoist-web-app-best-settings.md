@@ -86,6 +86,7 @@ Go to Settings and click Sync and Google services. Make sure "Sync" is turned on
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for ChatGPT Web App Best Extensions](/chrome-for-chatgpt-web-app-best-extensions)
-- [Chrome for edX Web App Best Settings](/chrome-for-edx-web-app-best-settings)
-- [Chrome For Tiktok Web Best Settings](/chrome-for-tiktok-web-best-settings)
+
+- [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained)
+- [Best Chrome Extensions for Product Managers](/articles/best-chrome-extensions-for-product-managers)
+- [Chrome Command Line Flags for Low Memory: A Practical Guide](/articles/chrome-command-line-flags-for-low-memory)

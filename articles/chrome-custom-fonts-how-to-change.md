@@ -52,6 +52,7 @@ Remember that extensions that change website fonts may not work perfectly on eve
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Custom Theme How To Make Your Own](/chrome-custom-theme-how-to-make-your-own)
-- [Chrome Text Size on Phone How to Change](/chrome-text-size-on-phone-how-to-change)
-- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+
+- [chrome on raspberry pi how to install](/articles/chrome-on-raspberry-pi-how-to-install)
+- [Chrome for Google Scholar Best Extensions](/articles/chrome-for-google-scholar-best-extensions)
+- [Chrome Extensions for Networking](/articles/chrome-extensions-for-networking)

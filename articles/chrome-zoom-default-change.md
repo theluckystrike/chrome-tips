@@ -90,3 +90,9 @@ The beauty of Chrome is that these settings travel with your profile. Once you c
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Saved Payment Methods How to Edit](/articles/chrome-saved-payment-methods-how-to-edit)
+- [Chrome Web Store Extensions Not Installing: Fixes That Actually Work](/articles/chrome-web-store-extensions-not-installing)
+- [Chrome Permissions API for Camera and Microphone](/articles/chrome-permissions-api-camera-microphone)

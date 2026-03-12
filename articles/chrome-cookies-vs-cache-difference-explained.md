@@ -75,6 +75,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Decorators JavaScript Proposal: What You Need to Know](//chrome-decorators-javascript-proposal/)
-* [Chrome Passwords on Phone How to View](/chrome-passwords-on-phone-how-to-view)
-* [Chrome for Rain Sounds Background](/chrome-for-rain-sounds-background)
+- [Chrome Extensions For Flight Price Alerts](/articles//articles/chrome-extensions-for-flight-price-alerts/)
+- [Chrome Energy Saver Mode Guide](/articles/chrome-energy-saver-mode-guide)
+- [Chrome DevTools Layers Panel 3D View](/articles/chrome-devtools-layers-panel-3d-view)

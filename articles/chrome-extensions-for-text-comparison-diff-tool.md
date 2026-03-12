@@ -72,6 +72,7 @@ Remember that these tools exist to make your life easier, not more complicated. 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome for Cashback Extensions Comparison](/chrome-for-cashback-extensions-comparison)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome for Language Translation Extensions Comparison](/chrome-for-language-translation-extensions-comparison)
+
+- [Chrome Font Palette Customization: Complete Guide for 2026](/articles/chrome-font-palette-customization)
+- [Chrome Keeps Opening New Tabs By Itself Virus](/articles/chrome-keeps-opening-new-tabs-by-itself-virus)
+- [Chrome Malware Removal Without Antivirus](/articles/chrome-malware-removal-without-antivirus)

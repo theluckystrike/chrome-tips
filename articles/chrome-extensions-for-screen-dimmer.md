@@ -68,6 +68,7 @@ Remember that screen dimming is just one part of maintaining eye comfort while u
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+
+- [Chrome Open History Page Shortcut](/articles/chrome-open-history-page-shortcut)
+- [Chrome Privacy Error Your Connection Is Not Private Fix](/articles/chrome-privacy-error-your-connection-is-not-private-fix)
+- [Chrome Bookmarks File Location and Backup Guide](/articles/chrome-bookmarks-file-location-backup)

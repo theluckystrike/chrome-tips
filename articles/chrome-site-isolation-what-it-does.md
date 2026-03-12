@@ -93,3 +93,9 @@ By understanding how site isolation works, you can better appreciate the protect
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Text Size on Phone How to Change](/articles/chrome-text-size-on-phone-how-to-change)
+- [Chrome Default Download Location How to Change](/articles//chrome-default-download-location-how-to-change/)
+- [chrome new tab page how to customize](/articles/chrome-new-tab-page-how-to-customize)

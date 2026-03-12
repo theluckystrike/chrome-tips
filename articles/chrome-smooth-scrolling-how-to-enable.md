@@ -65,6 +65,7 @@ Give it a try for a few days. You might find that those gentle glides make readi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Enable Chrome Smooth Scrolling](/how-to-enable-chrome-smooth-scrolling)
-- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
-- [Chrome Safe Search How To Force Enable](/chrome-safe-search-how-to-force-enable)
+
+- [Chrome CDP Protocol Explained Simply](/articles/chrome-cdp-protocol-explained-simply)
+- [chrome for apartments.com search tips](/articles/chrome-for-apartmentscom-search-tips)
+- [Chrome WebGL Not Supported Fix](/articles/chrome-webgl-not-supported-fix)

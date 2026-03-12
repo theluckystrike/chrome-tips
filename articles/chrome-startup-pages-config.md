@@ -97,6 +97,7 @@ Many users find that the best approach combines elements of these options, using
 Chrome's startup configuration is one of those settings that can have a real impact on your productivity and browsing satisfaction. By understanding your options and choosing the configuration that fits your needs, you can make Chrome work exactly the way you want it to, every single time you open the browser.
 
 ## Related Articles
-- [Chrome Open Last Session on Startup](/chrome-open-last-session-on-startup)
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
-- [Chrome Startup Time How to Measure](/chrome-startup-time-how-to-measure)
+
+- [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters)
+- [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix)
+- [Chrome Tab Discarding What It Means](/articles/chrome-tab-discarding-what-it-means)

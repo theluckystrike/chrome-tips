@@ -74,6 +74,7 @@ Remember that the goal is to make your ChatGPT experience better, not more compl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
-- [Chrome for Quizlet Web App Best Settings](/chrome-for-quizlet-web-app-best-settings)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+
+- [Chrome Gemini Integration How to Use](/articles/chrome-gemini-integration-how-to-use)
+- [Chrome Extensions For Cookie Editor Manager](/articles//articles/chrome-extensions-for-cookie-editor-manager/)
+- [How to Enable Chrome Parallel Downloading](/articles/how-to-enable-chrome-parallel-downloading)

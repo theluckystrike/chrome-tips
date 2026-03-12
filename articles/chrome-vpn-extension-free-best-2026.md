@@ -80,3 +80,9 @@ Give a few different extensions a try to see which one works best with your typi
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Reader Mode How to Activate](/articles/chrome-reader-mode-how-to-activate)
+- [Chrome View Page Source: What It Tells You](/articles/chrome-view-page-source-what-it-tells-you)
+- [Chrome Site Keeps Asking for Notifications? Here's How to Stop It](/articles/chrome-site-keeps-asking-for-notifications-stop)

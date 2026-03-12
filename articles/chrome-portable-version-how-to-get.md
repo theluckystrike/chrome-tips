@@ -65,3 +65,9 @@ One helpful solution for managing tabs is to use Tab Suspender Pro, which is a C
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [YouTube Buffering on Chrome But Not Firefox: Why and How to Fix It](/articles/youtube-buffering-on-chrome-but-not-firefox)
+- [Chrome Extensions For Figma Companion](/articles//articles/chrome-extensions-for-figma-companion/)
+- [Chrome Reset vs Reinstall: Which Is Better?](/articles/chrome-reset-vs-reinstall-which-is-better)

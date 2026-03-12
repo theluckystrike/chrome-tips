@@ -66,6 +66,7 @@ Also remember that robots.txt is just one piece of the puzzle. A page can be acc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Chrome Extensions for SSL Certificate Checker](/chrome-extensions-for-ssl-certificate-checker)
+
+- [Chrome Malware Removal Without Antivirus](/articles/chrome-malware-removal-without-antivirus)
+- [Chrome This Site Cant Provide a Secure Connection Fix](/articles/chrome-this-site-cant-provide-a-secure-connection-fix)
+- [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management)

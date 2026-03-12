@@ -82,3 +82,9 @@ Both browser ad blockers and Pi-hole have their place in a privacy-conscious bro
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Reading List Manager](/articles/chrome-extensions-for-reading-list-manager)
+- [Chrome Starting Style CSS Explained](/articles/chrome-starting-style-css-explained)
+- [Best Chrome Extensions for Small Business Owners](/articles/best-chrome-extensions-for-small-business-owners)

@@ -78,6 +78,7 @@ For users who want to maintain smooth browser performance while using AI feature
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Tab Organize AI Feature Explained](/chrome-tab-organize-ai-feature-explained)
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+
+- [Chrome Extensions for Highlighting Text on Web](/articles/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Service Workers List How to View](/articles/chrome-service-workers-list-how-to-view)
+- [Chrome Keeps Logging Me Out of Websites Fix](/articles/chrome-keeps-logging-me-out-of-websites-fix)

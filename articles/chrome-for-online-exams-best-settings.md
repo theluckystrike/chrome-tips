@@ -109,6 +109,7 @@ Following these steps will help you walk into your online exam with confidence, 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)
-- [Chrome for Netflix Best Quality Settings](/chrome-for-netflix-best-quality-settings)
-- [Chrome Best Settings For Slow Internet](/chrome-best-settings-for-slow-internet)
+
+- [Chrome Extensions for Habit Tracker](/articles/chrome-extensions-for-habit-tracker)
+- [how to delete chrome browsing data automatically](/articles/how-to-delete-chrome-browsing-data-automatically)
+- [Chrome for Zotero Web Connector Setup](/articles/chrome-for-zotero-web-connector-setup)

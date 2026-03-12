@@ -82,6 +82,7 @@ Once you find the right combination of extensions, you will notice a significant
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Citation and Research Extensions](/chrome-for-citation-and-research-extensions)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for Focus and Productivity](/chrome-extensions-for-focus-and-productivity)
+
+- [How to Set Up Chrome Profiles for Work and Personal](/articles/how-to-set-up-chrome-profiles-for-work-and-personal)
+- [Chrome Extensions Permissions Explained Simply](/articles/chrome-extensions-permissions-explained-simply)
+- [Why Is Chrome Using So Much Memory](/articles/why-is-chrome-using-so-much-memory)

@@ -75,6 +75,7 @@ With these tools at your disposal, adding personality and expression to your onl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Sensors Emulation How to Use](/chrome-sensors-emulation-how-to-use)
-- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
-- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+
+- [Chrome Live Caption How It Works](/articles/chrome-live-caption-how-it-works)
+- [Chrome Web Store How to Find Safe Extensions](/articles/chrome-web-store-how-to-find-safe-extensions)
+- [Chrome Site Permissions How to Manage](/articles/chrome-site-permissions-how-to-manage)

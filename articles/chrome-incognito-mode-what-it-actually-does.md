@@ -84,6 +84,7 @@ Use it for what it's good at — local privacy and fresh browser sessions — an
 *Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
 
 ## Related Articles
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
-- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
-- [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)
+
+- [Chrome Guest Mode vs Incognito Mode: What's the Difference?](/articles/chrome-guest-mode-vs-incognito-difference)
+- [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management)
+- [Best Privacy Chrome Extensions 2026](/articles/best-privacy-chrome-extensions-2026)

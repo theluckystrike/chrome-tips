@@ -74,6 +74,7 @@ Your new tab page does not have to be an afterthought. With a little effort, it 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)
-- [Chrome Extensions for Productivity Dashboard](/chrome-extensions-for-productivity-dashboard)
-- [Chrome Extensions for Weather Forecast New Tab](/chrome-extensions-for-weather-forecast-new-tab)
+
+- [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup)
+- [Chrome AI Summarize Feature How to Use](/articles/chrome-ai-summarize-feature-how-to-use)
+- [chrome protected audience api explained](/articles/chrome-protected-audience-api-explained)

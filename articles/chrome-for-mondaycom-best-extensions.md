@@ -94,6 +94,7 @@ With the right set of extensions, you can make Monday.com work better for your s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Writers 2026](/best-chrome-extensions-for-writers-2026)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
-- [Best Chrome Extensions For Teachers Online](/best-chrome-extensions-for-teachers-online)
+
+- [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web)
+- [Chrome Sharing Screen in Video Calls](/articles/chrome-sharing-screen-in-video-calls)
+- [Chrome Safe Browsing on Phone How to Check](/articles/chrome-safe-browsing-on-phone-how-to-check)

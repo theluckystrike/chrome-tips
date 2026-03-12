@@ -149,6 +149,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Default Apps Settings: A Complete Guide](//chrome-default-apps-settings/)
-* [Chrome Extensions For Email Finder](//articles/chrome-extensions-for-email-finder/)
-* [Chrome Extensions for Web Development Tools](/chrome-extensions-for-web-development-tools)
+- [Chrome for Speed Reading Extensions](/articles/chrome-for-speed-reading-extensions)
+- [chrome global privacy control what it does](/articles/chrome-global-privacy-control-what-it-does)
+- [Chrome DevTools Protocol Monitor](/articles/chrome-protocol-monitor-guide)

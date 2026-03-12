@@ -82,6 +82,7 @@ Everyone deserves to use the internet comfortably, regardless of age or technica
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
+
+- [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead)
+- [Best Chrome Extensions for Small Business Owners](/articles/best-chrome-extensions-for-small-business-owners)
+- [Chrome vs Edge Battery Life Laptop Comparison](/articles/chrome-vs-edge-battery-life-laptop-comparison)

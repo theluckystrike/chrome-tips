@@ -84,3 +84,9 @@ Most of the time, one of these methods will get you back to browsing normally. I
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Multiple Profiles Setup: Complete Guide for 2026](/articles/chrome-multiple-profiles-setup)
+- [Chrome Side Panel Extensions Best Ones](/articles/chrome-side-panel-extensions-best-ones)
+- [Chrome AI Summarize Feature How to Use](/articles/chrome-ai-summarize-feature-how-to-use)

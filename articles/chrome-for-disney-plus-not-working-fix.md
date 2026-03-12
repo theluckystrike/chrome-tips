@@ -122,6 +122,7 @@ Remember that sometimes a simple restart of your computer or router can fix stre
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Netflix Not Working Fix](/chrome-netflix-not-working-fix)
-- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
-- [Chrome Camera Not Working Fix](/chrome-camera-not-working-fix)
+
+- [Chrome Extensions for Robots Txt Checker](/articles/chrome-extensions-for-robots-txt-checker)
+- [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow)
+- [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup)

@@ -55,6 +55,7 @@ Take some time to think about where you are spending the most effort. Is it find
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Google Slides](/chrome-extensions-for-google-slides)
-- [Chrome for Google Maps Best Extensions](/chrome-for-google-maps-best-extensions)
-- [Chrome for Google Scholar Best Extensions](/chrome-for-google-scholar-best-extensions)
+
+- [Chrome How to Disable GPU Acceleration](/articles/chrome-how-to-disable-gpu-acceleration)
+- [Chrome Live Captions Feature Guide](/articles/chrome-live-captions-feature)
+- [chrome shared array buffer usage](/articles/chrome-shared-array-buffer-usage)

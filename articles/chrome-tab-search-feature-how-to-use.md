@@ -65,6 +65,7 @@ Whether you are managing a handful of tabs or dozens at a time, Chrome's built-i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Tab to Search Feature How to Use](/chrome-tab-to-search-feature-how-to-use)
-- [How to Use Chrome Tab Groups Effectively](/how-to-use-chrome-tab-groups-effectively)
-- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)
+
+- [chrome zoom default change](/articles/chrome-zoom-default-change)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/articles/chrome-view-transitions-api-smooth)
+- [Chrome for Address Bar Shortcuts Tips](/articles/chrome-for-address-bar-shortcuts-tips)

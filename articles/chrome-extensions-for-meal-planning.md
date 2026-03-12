@@ -76,6 +76,7 @@ The goal is to make meal planning simple enough that you actually do it consiste
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Meal Planning Recipes](/chrome-extensions-for-meal-planning-recipes)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+
+- [Chrome for Job Searching Best Extensions](/articles/chrome-for-job-searching-best-extensions)
+- [Chrome DevTools Memory Panel Explained](/articles/chrome-devtools-memory-panel-explained)
+- [Chrome Trust Tokens Explained](/articles/chrome-trust-tokens-guide)

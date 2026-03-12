@@ -66,6 +66,7 @@ Understanding what Chrome WebView does helps demystify one of the quieter compon
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
-- [Chrome Password Checkup What It Does](/chrome-password-checkup-what-it-does)
-- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
+
+- [Chrome for Coupon Finding Best Extensions](/articles/chrome-for-coupon-finding-best-extensions)
+- [Chrome Follow Button for Websites How to Use](/articles/chrome-follow-button-for-websites-how-to-use)
+- [chrome google photos integration save images](/articles/chrome-google-photos-integration-save-images)

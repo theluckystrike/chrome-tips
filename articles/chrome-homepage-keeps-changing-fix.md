@@ -63,6 +63,7 @@ Remember to be cautious when installing new software and only add extensions fro
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
-- [Chrome Keeps Logging Me Out of Sites Fix](/chrome-keeps-logging-me-out-of-sites-fix)
-- [Chrome Homepage Keeps Resetting Fix](/chrome-homepage-keeps-resetting-fix)
+
+- [Chrome Keep Crashing Fix 2026](/articles/chrome-keep-crashing-fix-2026)
+- [Chrome for Google Scholar Best Extensions](/articles/chrome-for-google-scholar-best-extensions)
+- [Chrome Keyboard Navigation Tips](/articles/chrome-keyboard-navigation-tips)

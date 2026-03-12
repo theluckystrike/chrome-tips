@@ -79,6 +79,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [chrome logpoints debug without console log](/chrome-logpoints-debug-without-console-log)
-* [Chrome Extensions for Tab Sleeping Automatically](/chrome-extensions-for-tab-sleeping-automatically)
-* [Chrome Navigate Back With Gesture How to](/chrome-navigate-back-with-gesture-how-to)
+- [Chrome Devtools Edit HTML Live](/articles//chrome-devtools-edit-html-live/)
+- [Chrome Jump to Specific Tab Number Shortcut](/articles/chrome-jump-to-specific-tab-number-shortcut)
+- [Chrome for News Aggregator Extensions](/articles/chrome-for-news-aggregator-extensions)

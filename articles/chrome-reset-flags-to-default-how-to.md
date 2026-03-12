@@ -57,6 +57,7 @@ Remember, a well-managed browser is not about enabling every experimental featur
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Flags Reset How to Undo Changes](/chrome-flags-reset-how-to-undo-changes)
-- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
-- [How To Make Chrome Default Browser Windows 11](/how-to-make-chrome-default-browser-windows-11)
+
+- [Chrome Web Vitals Extension How to Use](/articles/chrome-web-vitals-extension-how-to-use)
+- [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management)
+- [Chrome Live Caption How It Works](/articles/chrome-live-caption-how-it-works)

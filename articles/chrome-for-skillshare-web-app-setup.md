@@ -105,6 +105,7 @@ By following these tips, you can enjoy your Skillshare classes with fewer interr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
-- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
-- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
+
+- [chrome web bluetooth connect headphones](/articles/chrome-web-bluetooth-connect-headphones)
+- [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows)
+- [Chrome IP Protection Feature Explained](/articles/chrome-ip-protection-feature-explained)

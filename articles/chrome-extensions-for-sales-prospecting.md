@@ -70,6 +70,7 @@ The right combination of extensions can transform your prospecting workflow from
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+
+- [Chrome Camera Microphone Permission Manage: Complete Guide](/articles/chrome-camera-microphone-permission-manage)
+- [Chrome Extensions for Lo Fi Music](/articles/chrome-extensions-for-lo-fi-music)
+- [Can Chrome Extensions Steal Your Data](/articles/can-chrome-extensions-steal-your-data)

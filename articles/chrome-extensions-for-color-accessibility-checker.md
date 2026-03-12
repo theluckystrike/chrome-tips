@@ -76,6 +76,7 @@ While having the right tools for color accessibility is important, it is also wo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Color Palette Picker](/chrome-extensions-for-color-palette-picker)
-- [Chrome Extensions for SSL Certificate Checker](/chrome-extensions-for-ssl-certificate-checker)
+
+- [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use)
+- [Top 10 Chrome Extensions Everyone Should Have](/articles/top-10-chrome-extensions-everyone-should-have)
+- [Chrome Password Autofill Stopped Working: Fix It Now](/articles/chrome-password-autofill-stopped-working)

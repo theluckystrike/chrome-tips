@@ -76,6 +76,7 @@ Using Chrome for Google Flights does not have to be complicated. By keeping your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for iPad Tips and Tricks](/chrome-for-ipad-tips-and-tricks)
-- [Chrome for Google Sheets Tips and Tricks](/chrome-for-google-sheets-tips-and-tricks)
-- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
+
+- [Chrome Persistent Storage Permission Explained](/articles/chrome-persistent-storage-permission-explained)
+- [Chrome Extensions for Speed Dial Bookmarks](/articles/chrome-extensions-for-speed-dial-bookmarks)
+- [Chrome Tabs Flickering and Glitching Fix](/articles/chrome-tabs-flickering-and-glitching)

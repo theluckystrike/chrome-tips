@@ -58,3 +58,9 @@ If all else fails, you may need to reset Chrome to its default settings. This re
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Small Business Owners](/articles/best-chrome-extensions-for-small-business-owners)
+- [Chrome Developer Mode Extensions Warning: How to Dismiss](/articles//chrome-developer-mode-extensions-warning-how-to-dismiss/)
+- [Chrome vs Edge for Battery Life Laptop](/articles/chrome-vs-edge-for-battery-life-laptop)

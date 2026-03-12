@@ -84,6 +84,7 @@ Start by enabling Memory Saver, then review your extensions and disable anything
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
-- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)
+
+- [Chrome Password Manager Is It Safe Enough](/articles/chrome-password-manager-is-it-safe-enough)
+- [Chrome Address Bar Commands You Didnt Know](/articles/chrome-address-bar-commands-you-didnt-know)
+- [Chrome Notification Permission Best Practices](/articles/chrome-notification-permission-best-practices)

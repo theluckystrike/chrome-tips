@@ -85,3 +85,9 @@ Whether you need a simple link-sharer or a complex marketing tool, the right **C
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Google Classroom](/articles/chrome-extensions-for-google-classroom)
+- [Chrome Extension for Highlighting Text on Websites](/articles/chrome-extension-for-highlighting-text-on-websites)
+- [chrome right to left language support](/articles/chrome-right-to-left-language-support)

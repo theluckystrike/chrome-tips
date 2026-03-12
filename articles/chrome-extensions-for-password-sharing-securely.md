@@ -60,6 +60,7 @@ Take some time to explore the settings and features. Understanding how access re
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+- [Chrome Side Panel Features Guide](/articles/chrome-side-panel-features-guide)
+- [Chrome Opens in Small Window Fix](/articles/chrome-opens-in-small-window-fix)
+- [How to Use Chrome Profiles Properly — The Complete Guide](/articles/how-to-use-chrome-profiles-properly)

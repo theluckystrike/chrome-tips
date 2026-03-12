@@ -75,6 +75,7 @@ The Security panel is one of those tools that is easy to overlook but incredibly
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome DevTools CSS Overview Panel](/chrome-devtools-css-overview-panel)
-- [Chrome Content Security Policy Explained: A Complete Guide](/chrome-content-security-policy-explained)
-- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+
+- [Chrome Not Responding Force Close and Recover](/articles/chrome-not-responding-force-close-and-recover)
+- [Chrome Extensions for Language Learning](/articles/chrome-extensions-for-language-learning)
+- [How to Clear Cookies for One Site in Chrome](/articles/how-to-clear-cookies-for-one-site-in-chrome)

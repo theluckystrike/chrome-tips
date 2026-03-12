@@ -83,6 +83,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Speculation Rules Prefetch: A Complete Guide](/chrome-speculation-rules-prefetch)
-* [Chrome Best Ad Blocker 2026](/chrome-best-ad-blocker-2026)
-* [Best Chrome Extensions for Project Managers](/best-chrome-extensions-for-project-managers)
+- [Chrome PDF Not Opening Fix](/articles/chrome-pdf-not-opening-fix)
+- [Chrome Live Captions Feature Guide](/articles/chrome-live-captions-feature)
+- [Chrome for Focus Music Playlists Extensions](/articles/chrome-for-focus-music-playlists-extensions)

@@ -84,3 +84,9 @@ Most of the time, one of these methods will get you back to browsing normally. I
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for google ads management tips](/articles/chrome-for-google-ads-management-tips)
+- [Chrome Smooth Scroll Stuttering Fix](/articles/chrome-smooth-scroll-stuttering-fix)
+- [Chrome for Online Exams Best Settings](/articles/chrome-for-online-exams-best-settings)

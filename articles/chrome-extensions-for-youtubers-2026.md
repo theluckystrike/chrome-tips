@@ -88,6 +88,7 @@ Remember that extensions are just one part of your overall toolkit. They work be
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Top 10 Chrome Extensions for Productivity 2026](/top-10-chrome-extensions-for-productivity-2026)
-- [Chrome Extensions for Job Hunting 2026](/chrome-extensions-for-job-hunting-2026)
-- [Best Chrome Extensions for Freelancers 2026](/best-chrome-extensions-for-freelancers-2026)
+
+- [Chrome for Google Keep Extension Tips](/articles/chrome-for-google-keep-extension-tips)
+- [Chrome DevTools Memory Panel Explained](/articles/chrome-devtools-memory-panel-explained)
+- [How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost](/articles/chrome-err-connection-refused-localhost-fix)

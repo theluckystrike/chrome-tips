@@ -139,6 +139,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Use Chrome Translate Page](/chrome-translate-page-how-to-use)
-* [Chrome Best Settings for Gaming](/chrome-best-settings-for-gaming)
-* [Chrome Extensions for Pocket Alternative](/chrome-extensions-for-pocket-alternative)
+- [Chrome Mailto Link Not Working Fix](/articles/chrome-mailto-link-not-working-fix)
+- [How to Enable Chrome Reading List](/articles/how-to-enable-chrome-reading-list)
+- [chrome extensions for screen dimmer](/articles/chrome-extensions-for-screen-dimmer)

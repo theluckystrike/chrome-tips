@@ -108,3 +108,9 @@ Remember that some tab reloading is normal and actually helps your computer run 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome file system access api explained](/articles/chrome-file-system-access-api-explained)
+- [Chrome Largest Contentful Paint Improve Tips](/articles/chrome-largest-contentful-paint-improve-tips)
+- [Chrome Visual Search on Desktop: A Complete Guide](/articles/chrome-visual-search-on-desktop)

@@ -89,3 +89,9 @@ The key is to be proactive rather than reactive. Check which tabs are using the 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android)
+- [Chrome CSS Grid Layout Complete Guide](/articles//chrome-css-grid-layout-complete-guide/)
+- [How to Force Dark Mode on All Websites in Chrome](/articles//chrome-dark-mode-force-all-websites/)

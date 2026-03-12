@@ -64,3 +64,9 @@ If you find that you genuinely cannot live with the current layout and the exper
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Network Tab: How to Use and Debug Network Requests](/articles/chrome-network-tab-how-to-use-debug)
+- [Chrome for MasterClass Web Tips](/articles/chrome-for-masterclass-web-tips)
+- [Chrome Update Problems Fix](/articles/chrome-update-problems-fix)

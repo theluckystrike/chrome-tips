@@ -82,6 +82,7 @@ If you find that Chrome becomes slow when managing large photo libraries, consid
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Google Photos Integration Save Images](/chrome-google-photos-integration-save-images)
-- [Chrome Google Lens Integration How To Use](/chrome-google-lens-integration-how-to-use)
-- [Chrome For Google Ads Management Tips](/chrome-for-google-ads-management-tips)
+
+- [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix)
+- [chrome experimental features worth trying 2026](/articles/chrome-experimental-features-worth-trying-2026)
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug)

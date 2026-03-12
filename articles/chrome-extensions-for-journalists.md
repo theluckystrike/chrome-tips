@@ -84,6 +84,7 @@ Take some time to try a few of these suggestions and see which ones make the big
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+
+- [Best Chrome Extensions for Twitter X](/articles/best-chrome-extensions-for-twitter-x)
+- [Chrome Downloads Tips Organize and Manage](/articles/chrome-downloads-tips-organize-and-manage)
+- [Chrome for YouTube 4K Playback Settings](/articles/chrome-for-youtube-4k-playback-settings)

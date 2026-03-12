@@ -63,6 +63,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Navigation API for Single Page Apps: A Complete Guide](/chrome-navigation-api-single-page-apps)
-* [Chrome Profile Data Where It Is Stored](/chrome-profile-data-where-it-is-stored)
-* [chrome global privacy control what it does](/chrome-global-privacy-control-what-it-does)
+- [Chrome Flags on Android Best to Enable](/articles/chrome-flags-on-android-best-to-enable)
+- [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome)
+- [Chrome Web MIDI API for Musicians](/articles/chrome-web-midi-api-for-musicians)

@@ -67,3 +67,9 @@ When you're running multiple extensions to tweak your UI, it's important to keep
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Extensions for Time Tracking Freelancers](/articles/chrome-extensions-for-time-tracking-freelancers)
+- [Chrome Memory Saver Explained: How to Reduce Browser RAM Usage](/articles/chrome-memory-saver-explained)
+- [Chrome Autofill Not Working Fix](/articles/chrome-autofill-not-working-fix)

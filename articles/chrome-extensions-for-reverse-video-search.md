@@ -62,6 +62,7 @@ Free versions of these extensions typically offer basic functionality, while pre
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions For Image Reverse Search](/chrome-extensions-for-image-reverse-search)
-- [Chrome Extensions for Video Conferencing](/chrome-extensions-for-video-conferencing)
-- [Best Chrome Extensions for Amazon Prime Video](/best-chrome-extensions-for-amazon-prime-video)
+
+- [Chrome Array Groupby New Method](/articles/chrome-array-groupby-new-method)
+- [How to Check Website Speed in Chrome](/articles/how-to-check-website-speed-in-chrome)
+- [chrome reopen closed tab shortcut](/articles/chrome-reopen-closed-tab-shortcut)

@@ -58,6 +58,7 @@ As Chrome continues to develop this feature, we can expect journeys to become mo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Coupon Finder Built In Feature](/chrome-coupon-finder-built-in-feature)
-- [Chrome Coupons In Address Bar Feature](/chrome-coupons-in-address-bar-feature)
-- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
+
+- [Chrome Coupon Finder Built In Feature](/articles/chrome-coupon-finder-built-in-feature)
+- [Chrome Smooth Scrolling How to Enable](/articles/chrome-smooth-scrolling-how-to-enable)
+- [Chrome vs Brave Privacy Comparison](/articles/chrome-vs-brave-privacy-comparison)

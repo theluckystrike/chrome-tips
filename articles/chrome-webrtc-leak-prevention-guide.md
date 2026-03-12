@@ -132,6 +132,7 @@ By staying informed and proactive about your privacy, you can enjoy the benefits
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
 ## Related Articles
-- [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
-- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+
+- [chrome vs firefox for mac which is faster](/articles/chrome-vs-firefox-for-mac-which-is-faster)
+- [Chrome vs Edge Memory Usage Comparison](/articles/chrome-vs-edge-memory-usage-comparison)
+- [Chrome Task Manager Guide](/articles/chrome-task-manager-guide)

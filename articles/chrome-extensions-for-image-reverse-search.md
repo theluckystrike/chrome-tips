@@ -92,6 +92,7 @@ Finding information about images has become much easier thanks to these dedicate
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Extensions for Bulk Image Downloading](/chrome-extensions-for-bulk-image-downloading)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for Reverse Video Search](/chrome-extensions-for-reverse-video-search)
+
+- [Chrome Flags on Android Best to Enable](/articles/chrome-flags-on-android-best-to-enable)
+- [Chrome Cache API Tutorial for Beginners](/articles/chrome-cache-api-tutorial-for-beginners)
+- [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs)

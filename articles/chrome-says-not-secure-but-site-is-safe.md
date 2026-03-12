@@ -67,3 +67,9 @@ For developers and site owners who manage multiple projects, keeping dozens of t
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome for Cold Turkey Blocker Setup](/articles/chrome-for-cold-turkey-blocker-setup)
+- [chrome stale while revalidate strategy explained](/articles/chrome-stale-while-revalidate-strategy-explained)
+- [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android)

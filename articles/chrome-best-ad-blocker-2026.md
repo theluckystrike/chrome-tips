@@ -127,6 +127,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Report Dangerous Chrome Extension](/how-to-report-dangerous-chrome-extension)
-* [Chrome Payment Autofill How to Manage Cards](/chrome-payment-autofill-how-to-manage-cards)
-* [chrome for rumble web player settings](/chrome-for-rumble-web-player-settings)
+- [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling)
+- [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)
+- [How to Stop Chrome from Running in Background](/articles/how-to-stop-chrome-from-running-in-background)

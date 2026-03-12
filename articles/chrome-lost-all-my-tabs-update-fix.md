@@ -54,6 +54,7 @@ Losing tabs after an update is annoying, but with the right habits and tools, yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Slower After Windows Update Fix](/chrome-slower-after-windows-update-fix)
-- [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
-- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
+
+- [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools)
+- [Chrome Extensions For Canvas Fingerprint Blocker](/articles//articles/chrome-extensions-for-canvas-fingerprint-blocker/)
+- [Chrome Extensions for News Aggregator](/articles/chrome-extensions-for-news-aggregator)

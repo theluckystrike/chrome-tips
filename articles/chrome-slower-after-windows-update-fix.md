@@ -111,3 +111,9 @@ Consider making Chrome performance settings part of your routine after any Windo
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome WebGL Not Supported Fix](/articles/chrome-webgl-not-supported-fix)
+- [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage)
+- [Chrome Microsoft Teams Web Slow Fix](/articles/chrome-microsoft-teams-web-slow-fix)

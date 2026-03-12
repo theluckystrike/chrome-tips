@@ -90,6 +90,7 @@ The Network Inspector is one of those features that seems technical at first but
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Blink Engine Explained For Beginners](/chrome-blink-engine-explained-for-beginners)
-- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)
-- [Chrome Encrypted DNS Explained for Beginners](/chrome-encrypted-dns-explained-for-beginners)
+
+- [Chrome Keyboard Navigation Tips](/articles/chrome-keyboard-navigation-tips)
+- [Chrome Scrolling is Choppy and Laggy](/articles/chrome-scrolling-is-choppy-and-laggy)
+- [Best Dark Mode Chrome Extension](/articles/best-dark-mode-chrome-extension)

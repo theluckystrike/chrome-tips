@@ -95,6 +95,7 @@ Setting your default browser is one of those small changes that makes a big diff
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Set Homepage on Chrome](/how-to-set-homepage-on-chrome)
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-- [How To Make Chrome Default Browser Windows 11](/how-to-make-chrome-default-browser-windows-11)
+
+- [Chrome Address Bar Tips and Tricks](/articles/chrome-address-bar-tips-and-tricks)
+- [Chrome Reading Mode — How to Enable and Use It](/articles/chrome-reading-mode-how-to-enable)
+- [Chrome Making Your Laptop Fan Loud? Here's How to Fix It](/articles/chrome-making-laptop-fan-loud)

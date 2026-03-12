@@ -187,10 +187,9 @@ Chrome DevTools is an incredibly powerful CSS editing environment. The ability t
 
 Start with simple changes—modify a color or adjust a margin—and gradually explore more advanced features. Before long, you'll wonder how you ever worked without these tools.
 
-## Related Articles
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [Chrome Built-In Screenshot Tool](/chrome-built-in-screenshot-tool)
-
-
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+
+- [Chrome Startup Too Slow Diagnosis Guide](/articles/chrome-startup-too-slow-diagnosis-guide)
+- [Chrome Scaling Blurry on External Monitor Fix](/articles/chrome-scaling-blurry-on-external-monitor-fix)
+- [Chrome Session Storage vs Local Storage: What's the Difference?](/articles/chrome-session-storage-vs-local-storage)

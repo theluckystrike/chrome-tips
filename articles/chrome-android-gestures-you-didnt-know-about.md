@@ -87,6 +87,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [chrome how to enable cookies](/chrome-how-to-enable-cookies)
-* [Chrome DevTools Console Errors Meaning: A Practical Guide](//chrome-devtools-console-errors-meaning-guide/)
-* [Chrome Open Source Parts Explained](/chrome-open-source-parts-explained)
+- [Chrome for Amazon Seller Central Tips](/articles/chrome-for-amazon-seller-central-tips)
+- [Chrome Open Last Session on Startup](/articles/chrome-open-last-session-on-startup)
+- [chrome privacy sandbox explained for users](/articles/chrome-privacy-sandbox-explained-for-users)

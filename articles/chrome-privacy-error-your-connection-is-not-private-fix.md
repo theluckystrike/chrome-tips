@@ -69,3 +69,9 @@ Keeping your browser updated, maintaining accurate system time, and being cautio
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Text Size on Phone How to Change](/articles/chrome-text-size-on-phone-how-to-change)
+- [chrome color mix function css](/articles/chrome-color-mix-function-css)
+- [Why Does Each Chrome Tab Use So Much Memory](/articles/why-does-each-chrome-tab-use-so-much-memory)

@@ -93,6 +93,7 @@ Setting up multiple profiles in Chrome is one of the best ways to organize your 
 More tips and guides available at [zovo.one](https://zovo.one).
 
 ## Related Articles
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
-- [Chrome Multiple Users Same Computer Setup](/chrome-multiple-users-same-computer-setup)
-- [Chrome Multiple Users on Same Computer Setup](/chrome-multiple-users-on-same-computer-setup)
+
+- [Chrome CSS Anchor Positioning Tether - The Future of Floating Elements](/articles/chrome-css-anchor-positioning-tether)
+- [Chrome Tab Groups on Phone How to Use](/articles/chrome-tab-groups-on-phone-how-to-use)
+- [Best Chrome Extensions for Real Estate Agents](/articles/best-chrome-extensions-for-real-estate-agents)

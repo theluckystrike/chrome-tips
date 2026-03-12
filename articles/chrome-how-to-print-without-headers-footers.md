@@ -58,6 +58,7 @@ In office environments, headers and footers can also serve as a form of document
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Ads on Phone How to Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Offline Mode How To Browse Without Internet](/chrome-offline-mode-how-to-browse-without-internet)
-- [Chrome Print to PDF Without Margins](/chrome-print-to-pdf-without-margins)
+
+- [Chrome Notification Sound How to Change](/articles/chrome-notification-sound-how-to-change)
+- [chrome how to allow popups for one site](/articles/chrome-how-to-allow-popups-for-one-site)
+- [chrome colorblind mode extensions](/articles/chrome-colorblind-mode-extensions)

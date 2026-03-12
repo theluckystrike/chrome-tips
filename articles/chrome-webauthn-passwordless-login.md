@@ -69,6 +69,7 @@ For now, setting up WebAuthn in Chrome is a great way to experience the benefits
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Devtools Webauthn Debugger](/chrome-devtools-webauthn-debugger)
+
+- [Chrome for Bibliography Management Extensions](/articles/chrome-for-bibliography-management-extensions)
+- [Chrome Site Isolation Explained for Users](/articles/chrome-site-isolation-explained-for-users)
+- [Chrome vs Safari Memory Usage Mac](/articles/chrome-vs-safari-memory-usage-mac)

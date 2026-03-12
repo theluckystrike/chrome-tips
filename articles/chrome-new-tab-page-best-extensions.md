@@ -93,6 +93,7 @@ Once you find the right extension for your needs, you will be surprised how such
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome New Tab Extensions Aesthetic 2026](/chrome-new-tab-extensions-aesthetic-2026)
-- [Best Extensions for Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-- [Chrome New Tab Page Slow to Load: Complete Fix Guide](/chrome-new-tab-page-slow-to-load)
+
+- [Chrome Android Slow Fix 2026](/articles/chrome-android-slow-fix-2026)
+- [Chrome Benchmark Score What It Means](/articles/chrome-benchmark-score-what-it-means)
+- [Chrome Frame Rate How to Check](/articles/chrome-frame-rate-how-to-check)

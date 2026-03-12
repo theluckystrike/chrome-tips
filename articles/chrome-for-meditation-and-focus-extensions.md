@@ -85,6 +85,7 @@ Consider trying a few different options before settling on your final setup. Man
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Meditation](/chrome-extensions-for-meditation)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Writers and Bloggers](/chrome-extensions-for-writers-and-bloggers)
+
+- [Chrome Which Tab Is Using Most CPU How to Find](/articles/chrome-which-tab-is-using-most-cpu-how-to-find)
+- [Why Is Chrome Using So Much Memory](/articles/why-is-chrome-using-so-much-memory)
+- [How to Change Default Download Location Chrome](/articles/how-to-change-default-download-location-chrome)

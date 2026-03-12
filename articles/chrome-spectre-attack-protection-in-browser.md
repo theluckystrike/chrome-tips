@@ -72,6 +72,7 @@ Your browser is your gateway to the internet, and taking a few simple steps to p
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/chrome-wasm-run-desktop-apps-in-browser)
-- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)
+
+- [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/articles/chrome-whatsapp-web-not-connecting-fix)
+- [chrome sandbox mode explained](/articles/chrome-sandbox-mode-explained)
+- [Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser](/articles/chrome-web-bluetooth-api-guide)

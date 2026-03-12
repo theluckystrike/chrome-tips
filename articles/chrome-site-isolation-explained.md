@@ -110,3 +110,9 @@ Understanding how Site Isolation works helps you appreciate the complex security
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome chrome.alarms API for Scheduled Tasks](/articles//articles/chrome-chrome.alarms-scheduled-tasks/)
+- [How to Use Chrome DevTools for Beginners](/articles/how-to-use-chrome-devtools-for-beginners)
+- [Chrome WASM WebAssembly Getting Started: A Complete Beginner's Guide](/articles/chrome-wasm-webassembly-getting-started)

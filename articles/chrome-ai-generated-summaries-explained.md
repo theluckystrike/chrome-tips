@@ -87,6 +87,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
-* [chrome net err cert common name invalid fix](/chrome-net-err-cert-common-name-invalid-fix)
-* [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+- [Chrome Side Panel Features Guide](/articles/chrome-side-panel-features-guide)
+- [chrome mobile translate page automatically](/articles/chrome-mobile-translate-page-automatically)
+- [Chrome Cookie Settings for Best Privacy](/articles/chrome-cookie-settings-best-privacy)

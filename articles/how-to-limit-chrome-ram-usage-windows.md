@@ -131,3 +131,9 @@ The goal is not to use Chrome less but to use it smarter. With these steps, you 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Notifications How to Stop Them](/articles/chrome-notifications-how-to-stop-them)
+- [Chrome IP Protection Feature Explained](/articles/chrome-ip-protection-feature-explained)
+- [Chrome for Claude AI Web Tips](/articles/chrome-for-claude-ai-web-tips)

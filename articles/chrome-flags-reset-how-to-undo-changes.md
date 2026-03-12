@@ -67,6 +67,7 @@ Remember that you do not need to avoid Chrome flags entirely. Just be thoughtful
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
-- [How to Use Chrome Flags Safely](/how-to-use-chrome-flags-safely)
-- [Chrome Reset Flags to Default How To](/chrome-reset-flags-to-default-how-to)
+
+- [Chrome Omnibox Tricks You Should Know](/articles/chrome-omnibox-tricks-you-should-know)
+- [Chrome vs Edge Battery Life Laptop Comparison](/articles/chrome-vs-edge-battery-life-laptop-comparison)
+- [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out)

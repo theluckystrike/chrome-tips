@@ -82,6 +82,7 @@ Your default browser is a personal choice, and Chrome offers a great experience 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
-- [Chrome Default Browser How To Set On Windows](/chrome-default-browser-how-to-set-on-windows)
-- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
+
+- [Best Chrome Extensions for Language Learning](/articles/best-chrome-extensions-for-language-learning)
+- [How to Turn Off Chrome Notifications on Android](/articles/how-to-turn-off-chrome-notifications-android)
+- [Chrome Flexbox Inspector How to Use](/articles/chrome-flexbox-inspector-how-to-use)

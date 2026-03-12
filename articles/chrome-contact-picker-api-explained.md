@@ -79,6 +79,6 @@ The Chrome Contact Picker API is a useful feature that lets websites access spec
 
 ## Related Articles
 
-* [Chrome CSS :is() and :where() Pseudo-Class Explained](/chrome-css-is-where-pseudo-class)
-* [Chrome PDF Viewer Settings: Complete Customization Guide](/chrome-pdf-viewer-settings)
-* [How to Throttle Network Speed in Chrome](/chrome-throttle-network-speed-how-to)
+- [Chrome Text to Speech: Complete Guide for 2026](/articles/chrome-text-to-speech)
+- [Chrome Side Panel Extensions Worth Using](/articles/chrome-side-panel-extensions-worth-using)
+- [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools)

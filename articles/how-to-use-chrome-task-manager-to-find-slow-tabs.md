@@ -58,6 +58,7 @@ The Task Manager is also helpful when Chrome shows a "Page Unresponsive" message
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
-- [How to Use Chrome Task Manager to Find Heavy Tabs](/chrome-task-manager-find-heavy-tabs)
-- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
+
+- [Chromium Browser Is It Safe to Use](/articles/chromium-browser-is-it-safe-to-use)
+- [Chrome Unicode Symbols How to Insert](/articles/chrome-unicode-symbols-how-to-insert)
+- [Chrome Tabs Flickering and Glitching Fix](/articles/chrome-tabs-flickering-and-glitching)

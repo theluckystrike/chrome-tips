@@ -74,6 +74,7 @@ Remember that extensions are helpers, not replacements for good study habits. St
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Google Classroom Tips](/chrome-for-google-classroom-tips)
-- [Chrome Extensions for Google Sheets](/chrome-extensions-for-google-sheets)
-- [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)
+
+- [Chrome for Forest Focus Timer Extension](/articles/chrome-for-forest-focus-timer-extension)
+- [Chrome Private State Tokens Explained: What They Are and How They Work](/articles/chrome-private-state-tokens-explained)
+- [Chrome Extensions for Invoice Creation](/articles/chrome-extensions-for-invoice-creation)

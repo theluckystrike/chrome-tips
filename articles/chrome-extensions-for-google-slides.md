@@ -55,6 +55,7 @@ Take some time to think about where you are spending the most effort. Is it find
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Google Slides Presentation Tips](/chrome-for-google-slides-presentation-tips)
-- [Best Chrome Extensions for Google Drive](/best-chrome-extensions-for-google-drive)
-- [Chrome for Google Scholar Best Extensions](/chrome-for-google-scholar-best-extensions)
+
+- [Chrome Service Worker Caching Strategies](/articles/chrome-service-worker-caching-strategies)
+- [Chrome Split Screen Without Extension](/articles/chrome-split-screen-without-extension)
+- [Chrome Large Font Easy to Read Setup](/articles/chrome-large-font-easy-to-read-setup)

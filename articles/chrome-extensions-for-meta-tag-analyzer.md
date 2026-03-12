@@ -72,6 +72,7 @@ Remember that meta tags are not a one-time setup. As you add new content to your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [Chrome Extensions for Todoist](/articles/chrome-extensions-for-todoist)
+- [Chrome Slow on Android Fix](/articles/chrome-slow-on-android-fix)
+- [Chrome Camera Permission for One Site How to Set](/articles/chrome-camera-permission-for-one-site-how-to-set)

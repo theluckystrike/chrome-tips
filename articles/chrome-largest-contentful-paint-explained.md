@@ -55,6 +55,7 @@ Chrome largest contentful paint explained is really about helping you understand
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering](/chrome-paint-holding-feature-explained)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/articles/chrome-background-sync-explained)
+- [How to Speed Up Chrome on 2GB RAM Laptop](/articles/how-to-speed-up-chrome-on-2gb-ram-laptop)
+- [Chrome Preloading Pages Should I Enable It](/articles/chrome-preloading-pages-should-i-enable-it)

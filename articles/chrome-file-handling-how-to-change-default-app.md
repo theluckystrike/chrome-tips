@@ -75,6 +75,7 @@ Take a moment to review your current defaults and make sure they match what you 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
-- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
-- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
+
+- [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/articles/chrome-save-webpage-as-mhtml-offline)
+- [Chrome Net Internals How to Use](/articles/chrome-net-internals-how-to-use)
+- [Chrome Extensions for Study Timer](/articles/chrome-extensions-for-study-timer)

@@ -83,6 +83,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome for Microsoft Teams Web Optimization](/chrome-for-microsoft-teams-web-optimization)
-* [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-* [Chrome Touchpad Gestures Not Working Fix](/chrome-touchpad-gestures-not-working-fix)
+- [Chrome Extensions for Web Automation Free](/articles/chrome-extensions-for-web-automation-free)
+- [Chrome AI Summarize Feature How to Use](/articles/chrome-ai-summarize-feature-how-to-use)
+- [Chrome Full Screen Mode How to Exit Stuck](/articles/chrome-full-screen-mode-how-to-exit-stuck)

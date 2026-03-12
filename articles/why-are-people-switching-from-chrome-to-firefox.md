@@ -64,6 +64,7 @@ Some people even use both browsers for different purposes, keeping Chrome for sp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Stop Chrome from Suspending My Tabs](/how-to-stop-chrome-from-suspending-my-tabs)
-- [Are Chrome Extensions Safe to Use](/are-chrome-extensions-safe-to-use)
-- [How to Stop Chrome from Tracking Me](/how-to-stop-chrome-from-tracking-me)
+
+- [Chrome Status Code 500 Server Error Explained](/articles/chrome-status-code-500-server-error-explained)
+- [chrome colorblind mode extensions](/articles/chrome-colorblind-mode-extensions)
+- [Chrome Auto Sign In to Websites How to Control](/articles/chrome-auto-sign-in-to-websites-how-to-control)

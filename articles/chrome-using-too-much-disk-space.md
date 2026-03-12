@@ -77,3 +77,9 @@ Start with the simplest solutions like clearing your cache and removing unused e
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Reddit Users](/articles/best-chrome-extensions-for-reddit-users)
+- [Chrome Extensions for Meta Tag Analyzer](/articles/chrome-extensions-for-meta-tag-analyzer)
+- [How to Fix Chrome Downloads Stuck at 100 Percent](/articles/chrome-downloads-stuck-at-100-percent)

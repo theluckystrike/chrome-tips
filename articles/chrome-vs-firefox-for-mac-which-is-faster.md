@@ -74,3 +74,9 @@ Try both browsers for a few days and pay attention to how they feel in your dail
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Layer CSS Cascade Layers Explained](/articles/chrome-layer-css-cascade-layers-explained)
+- [Chrome for Tab Organization Workflow](/articles/chrome-for-tab-organization-workflow)
+- [How to Make Chrome Remember Tabs After Closing](/articles/how-to-make-chrome-remember-tabs-after-closing)

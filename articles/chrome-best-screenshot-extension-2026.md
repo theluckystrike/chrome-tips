@@ -89,6 +89,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Guest Browsing: What Data Is Saved](/chrome-guest-browsing-what-data-is-saved)
-* [Chrome Large Font Easy to Read Setup](/chrome-large-font-easy-to-read-setup)
-* [How to Import Bookmarks from Firefox to Chrome](/how-to-import-bookmarks-from-firefox-to-chrome)
+- [Chrome Extensions for API Testing Simple](/articles/chrome-extensions-for-api-testing-simple)
+- [How to See Chrome Tabs From Other Devices](/articles/chrome-tabs-from-other-devices-how-to-see)
+- [Chrome Beacon API for Analytics](/articles/chrome-beacon-api-for-analytics)

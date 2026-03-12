@@ -87,6 +87,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
-* [How to Fix Chrome Mixed Content Warning](/chrome-mixed-content-warning-fix)
-* [Chrome Extensions Conflict With Each Other Fix](/chrome-extensions-conflict-with-each-other-fix)
+- [Chrome Back Forward Cache Explained](/articles/chrome-back-forward-cache-explained)
+- [chrome high contrast mode](/articles/chrome-high-contrast-mode)
+- [Chrome Service Workers List How to View](/articles/chrome-service-workers-list-how-to-view)

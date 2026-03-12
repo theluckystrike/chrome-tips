@@ -69,3 +69,9 @@ You can also complement these built-in features with extensions that help manage
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Slow Only on My Computer Not Others: Why and How to Fix It](/articles/chrome-slow-only-on-my-computer-not-others)
+- [Chrome Autofill Suggestions How to Delete One](/articles/chrome-autofill-suggestions-how-to-delete-one)
+- [Chrome Slow on Windows 10 Old Laptop Fix](/articles/chrome-slow-on-windows-10-old-laptop-fix)

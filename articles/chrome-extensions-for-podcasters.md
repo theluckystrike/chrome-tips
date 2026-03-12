@@ -74,6 +74,7 @@ Once you find the right set of tools, you will notice significant improvements i
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+
+- [chrome for google finance tips](/articles/chrome-for-google-finance-tips)
+- [Chrome Scrolling is Choppy and Laggy](/articles/chrome-scrolling-is-choppy-and-laggy)
+- [Chrome Extensions For Citation Generator](/articles//articles/chrome-extensions-for-citation-generator/)

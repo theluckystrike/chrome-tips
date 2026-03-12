@@ -82,6 +82,7 @@ Give these tips a try and see which ones work best for your trading style. Every
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Odysee Web Player Tips](/chrome-for-odysee-web-player-tips)
-- [Chrome for Costco Web Shopping Tips](/chrome-for-costco-web-shopping-tips)
-- [Chrome For Rosetta Stone Web Tips](/chrome-for-rosetta-stone-web-tips)
+
+- [Chrome Background Sync for Offline Forms](/articles/chrome-background-sync-for-offline-forms)
+- [Chrome Extensions For Cookie Auto Delete](/articles//articles/chrome-extensions-for-cookie-auto-delete/)
+- [Chrome Not Responding? Force Close It This Way](/articles/chrome-not-responding-force-close-how)

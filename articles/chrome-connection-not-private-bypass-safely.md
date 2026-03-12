@@ -74,6 +74,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Service Worker What It Does Explained](/chrome-service-worker-what-it-does-explained)
-* [Best Chrome Extensions for Reddit Users](/best-chrome-extensions-for-reddit-users)
-* [chrome enhanced tracking protection setup](/chrome-enhanced-tracking-protection-setup)
+- [Best Chrome Extensions for Entrepreneurs](/articles/best-chrome-extensions-for-entrepreneurs)
+- [Chrome Tab Stacking How to Use](/articles/chrome-tab-stacking-how-to-use)
+- [chrome right to left language support](/articles/chrome-right-to-left-language-support)

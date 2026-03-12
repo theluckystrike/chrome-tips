@@ -90,3 +90,9 @@ For students or anyone working on older computers, reducing network demands can 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Can Chrome Extensions Steal Your Data](/articles/can-chrome-extensions-steal-your-data)
+- [Chrome Dyslexia Friendly Extensions](/articles/chrome-dyslexia-friendly-extensions)
+- [Chrome Font Fingerprinting Explained and Fix](/articles/chrome-font-fingerprinting-explained-and-fix)

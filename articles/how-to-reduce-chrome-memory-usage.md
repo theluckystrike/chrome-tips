@@ -70,6 +70,7 @@ By implementing these strategies, you can reduce Chrome memory usage and enjoy a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
-- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
-- [How to Limit Chrome RAM Usage on Windows](/how-to-limit-chrome-ram-usage-windows)
+
+- [Chrome for Snapchat Web Tips](/articles/chrome-for-snapchat-web-tips)
+- [chrome for audible web player tips](/articles/chrome-for-audible-web-player-tips)
+- [Chrome Extensions for Text Expander](/articles/chrome-extensions-for-text-expander)

@@ -64,6 +64,7 @@ Memory Saver handles the heavy lifting so you can focus on your work without wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Energy Saver Mode Explained](/chrome-energy-saver-mode-explained)
-- [Chrome Memory Saver Feature Explained](/chrome-memory-saver-feature-explained)
-- [Chrome Memory Saver Explained: How to Reduce Browser RAM Usage](/chrome-memory-saver-explained)
+
+- [Chrome Address Bar Autocomplete Disable](/articles/chrome-address-bar-autocomplete-disable)
+- [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management)
+- [Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps](/articles/chrome-slow-on-4gb-ram-laptop)

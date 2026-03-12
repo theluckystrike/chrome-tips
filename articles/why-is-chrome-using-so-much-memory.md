@@ -56,6 +56,7 @@ Understanding why Chrome uses so much memory is the first step to fixing it. Wit
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/chrome-extension-using-too-much-memory-find)
-- [Why Does Each Chrome Tab Use So Much Memory](/why-does-each-chrome-tab-use-so-much-memory)
-- [How to Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
+
+- [Chrome Nesting CSS Native Support](/articles/chrome-nesting-css-native-support)
+- [chrome file handling api explained](/articles/chrome-file-handling-api-explained)
+- [chrome how to allow popups for one site](/articles/chrome-how-to-allow-popups-for-one-site)

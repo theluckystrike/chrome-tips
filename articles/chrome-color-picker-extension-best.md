@@ -92,6 +92,6 @@ Remember that the best extension is the one you actually use consistently. An ex
 
 ## Related Articles
 
-* [Chrome Downloads Tips Organize and Manage](/chrome-downloads-tips-organize-and-manage)
-* [chrome reduce data usage mobile](/chrome-reduce-data-usage-mobile)
-* [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)
+- [Chrome ERR_CACHE_MISS Fix](/articles/chrome-err-cache-miss-fix)
+- [Why Is Chrome So Slow on My Computer?](/articles/why-is-chrome-so-slow-on-my-computer)
+- [Chrome Reset Flags to Default How To](/articles/chrome-reset-flags-to-default-how-to)

@@ -85,6 +85,7 @@ Remember to keep your browser and sheets organized, use tools like Tab Suspender
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for iPad Tips and Tricks](/chrome-for-ipad-tips-and-tricks)
-- [Chrome For Google Flights Tips And Tricks](/chrome-for-google-flights-tips-and-tricks)
-- [Chrome Android Tips and Tricks 2026](/chrome-android-tips-and-tricks-2026)
+
+- [Chrome chrome.alarms API for Scheduled Tasks](/articles//articles/chrome-chrome.alarms-scheduled-tasks/)
+- [how to make chrome default browser mac](/articles/how-to-make-chrome-default-browser-mac)
+- [Chrome Notifications How to Stop Them](/articles/chrome-notifications-how-to-stop-them)

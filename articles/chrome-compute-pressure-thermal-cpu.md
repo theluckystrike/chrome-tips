@@ -84,6 +84,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome vs Opera GX for Gaming](/chrome-vs-opera-gx-for-gaming)
-* [Chrome Browser Cloud Management Explained](/chrome-browser-cloud-management-explained)
-* [Chrome for StackOverflow Best Extensions](/chrome-for-stackoverflow-best-extensions)
+- [chrome protected audience api explained](/articles/chrome-protected-audience-api-explained)
+- [Chrome for Habitica In Browser Tips](/articles/chrome-for-habitica-in-browser-tips)
+- [Chrome Memory Leak Detection Guide](/articles/chrome-memory-leak-detection)

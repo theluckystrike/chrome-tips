@@ -99,6 +99,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome View Source Shortcut](/chrome-view-source-shortcut)
-* [Chrome Developer Mode Extensions Guide](//chrome-developer-mode-extensions/)
-* [Chrome Built in Password Checkup How to Use](/chrome-built-in-password-checkup-how-to-use)
+- [Chrome Layout Instability API Explained](/articles/chrome-layout-instability-api-explained)
+- [Chrome Default Search Engine Changed How to Fix](/articles//chrome-default-search-engine-changed-how-to-fix/)
+- [Chrome Preloading Pages Should I Enable It](/articles/chrome-preloading-pages-should-i-enable-it)

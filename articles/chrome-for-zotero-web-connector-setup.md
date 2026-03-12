@@ -76,6 +76,7 @@ Whether you are a student working on your first major paper or a researcher mana
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Anki Web Flashcards Setup](/chrome-for-anki-web-flashcards-setup)
-- [Chrome for Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)
-- [Chrome for Notion Web Clipper Setup](/chrome-for-notion-web-clipper-setup)
+
+- [Chrome HTTPS First Mode Guide](/articles/chrome-https-first-mode)
+- [Chrome for Google Scholar Best Extensions](/articles/chrome-for-google-scholar-best-extensions)
+- [Chrome for Arxiv Paper Reader Extensions](/articles/chrome-for-arxiv-paper-reader-extensions)

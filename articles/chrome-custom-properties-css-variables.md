@@ -103,6 +103,7 @@ Take some time to identify the values you repeat most often in your CSS and star
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Overriding CSS in DevTools: A Practical Tutorial](/chrome-overriding-css-in-devtools-tutorial)
-- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)
-- [Chrome Custom Search Engines Guide](/chrome-search-engines-custom)
+
+- [Chrome Slow With Many Tabs Open? Here's How to Fix It](/articles/chrome-slow-with-many-tabs-open)
+- [How to Sync Chrome Bookmarks Between Phone and Computer](/articles/chrome-bookmark-sync-between-phone-and-computer)
+- [Google Chrome vs Chromium Difference Explained](/articles/google-chrome-vs-chromium-difference-explained)

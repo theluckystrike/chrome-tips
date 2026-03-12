@@ -89,3 +89,9 @@ By focusing on Chrome largest contentful paint optimize strategies, you create f
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension Settings Sync Across Devices](/articles/chrome-extension-settings-sync-across-devices)
+- [Chrome for Academic Paper Reading Extensions](/articles/chrome-for-academic-paper-reading-extensions)
+- [chrome web serial api explained](/articles/chrome-web-serial-api-explained)

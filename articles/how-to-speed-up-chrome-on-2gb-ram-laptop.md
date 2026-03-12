@@ -92,6 +92,7 @@ The key is to reduce the amount of content Chrome needs to load and process. Ext
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
-- [Chrome Slow on School Laptop? Here's How to Fix It](/chrome-slow-on-school-laptop-how-to-fix)
-- [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)
+
+- [Best Chrome Extensions for Google Drive](/articles/best-chrome-extensions-for-google-drive)
+- [Chrome Extensions for API Testing Simple](/articles/chrome-extensions-for-api-testing-simple)
+- [chrome trusted types dom xss prevent](/articles/chrome-trusted-types-dom-xss-prevent)

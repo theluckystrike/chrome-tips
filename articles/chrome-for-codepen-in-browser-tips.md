@@ -78,6 +78,7 @@ With these tips, you can focus more on building and less on dealing with browser
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Note Taking in Browser Extensions](/chrome-for-note-taking-in-browser-extensions)
-- [Chrome for Habitica In Browser Tips](/chrome-for-habitica-in-browser-tips)
-- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
+
+- [Chrome This Connection Is Not Private Bypass](/articles/chrome-this-connection-is-not-private-bypass)
+- [Chrome Extensions for Reverse Video Search](/articles/chrome-extensions-for-reverse-video-search)
+- [Chrome Easter Eggs Complete List 2026](/articles/chrome-easter-eggs-complete-list-2026)

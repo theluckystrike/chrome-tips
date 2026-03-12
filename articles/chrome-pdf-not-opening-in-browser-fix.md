@@ -122,3 +122,9 @@ In these cases, try downloading the PDF first (right-click and "Save link as") a
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Website Monitoring Changes](/articles/chrome-extensions-for-website-monitoring-changes)
+- [Chrome Mobile Tabs Too Many How to Manage](/articles/chrome-mobile-tabs-too-many-how-to-manage)
+- [Chrome CSS Custom Properties Explained](/articles//chrome-css-custom-properties-explained/)

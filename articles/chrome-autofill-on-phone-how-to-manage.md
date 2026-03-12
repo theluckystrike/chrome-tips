@@ -86,6 +86,6 @@ Using a combination of good autofill habits and productivity tools creates a bet
 
 ## Related Articles
 
-* [Chrome Attribution Reporting What It Means for Users](/chrome-attribution-reporting-what-it-means-for-users)
-* [Chrome for Airbnb Browsing Best Extensions](/chrome-for-airbnb-browsing-best-extensions)
-* [How to Block Ads on Chrome Without Extension](/how-to-block-ads-on-chrome-without-extension)
+- [Chrome for Adobe Creative Cloud Web Tips](/articles/chrome-for-adobe-creative-cloud-web-tips)
+- [Best Privacy Chrome Extensions 2026](/articles/best-privacy-chrome-extensions-2026)
+- [Chrome Touchpad Gestures Not Working Fix](/articles/chrome-touchpad-gestures-not-working-fix)

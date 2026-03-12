@@ -82,3 +82,9 @@ Your privacy is worth the small amount of time it takes to understand these sett
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/articles/i-have-100-tabs-open-chrome-is-dying)
+- [Chrome ERR_INTERNET_DISCONNECTED But Internet Works Fix](/articles/chrome-err-internet-disconnected-but-internet-works-fix)
+- [Chrome Critical Rendering Path Explained](/articles/chrome-critical-rendering-path-explained)

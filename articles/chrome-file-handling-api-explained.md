@@ -82,6 +82,7 @@ As web applications continue to evolve, features like file handling are making t
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
-- [Chrome Contact Picker API Explained](/chrome-contact-picker-api-explained)
+
+- [Chromebook Developer Mode: Should I Enable It?](/articles/chromebook-developer-mode-should-i-enable)
+- [chrome not playing youtube videos fix](/articles/chrome-not-playing-youtube-videos-fix)
+- [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions)

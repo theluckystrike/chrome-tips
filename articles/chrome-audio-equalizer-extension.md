@@ -69,6 +69,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome for Facebook Best Extensions](/chrome-for-facebook-best-extensions)
-* [Chrome Restore Tabs Not Working After Update: Practical Fixes](/chrome-restore-tabs-not-working-after-update)
-* [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/should-i-switch-to-edge-for-speed)
+- [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions)
+- [Chrome Android Memory Usage Too High Fix](/articles/chrome-android-memory-usage-too-high-fix)
+- [Best Chrome Extensions For Designers 2026](/articles//articles/chrome-extensions-for-designers/)

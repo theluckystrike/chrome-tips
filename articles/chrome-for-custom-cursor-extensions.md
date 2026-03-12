@@ -73,6 +73,7 @@ Take your time exploring the options. Whether you want something purely function
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [Chrome Emoji Keyboard Shortcut How to Use](/articles/chrome-emoji-keyboard-shortcut-how-to-use)
+- [Chrome Dark Mode How To Enable](/articles//chrome-dark-mode-how-to-enable/)
+- [Chrome Extensions for Google Drive](/articles/chrome-extensions-for-google-drive)

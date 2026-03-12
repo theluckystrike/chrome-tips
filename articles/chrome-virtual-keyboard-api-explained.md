@@ -65,3 +65,9 @@ Using tools like this, along with keeping your browser updated, can help you get
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Periodic Background Sync Explained](/articles/chrome-periodic-background-sync-explained)
+- [Chrome Restore Tabs Not Working After Update: Practical Fixes](/articles/chrome-restore-tabs-not-working-after-update)
+- [chrome google photos integration tips](/articles/chrome-google-photos-integration-tips)

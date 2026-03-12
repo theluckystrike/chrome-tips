@@ -78,6 +78,7 @@ You now have the knowledge to decide whether this feature is right for you and h
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
-- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
-- [Chrome Google Chat Integration in Browser](/chrome-google-chat-integration-in-browser)
+
+- [Chrome View Source Shortcut](/articles/chrome-view-source-shortcut)
+- [Chrome Extensions for Managing Multiple Social Accounts](/articles/chrome-extensions-for-managing-multiple-social-accounts)
+- [Why Is Chrome Slower Than Firefox?](/articles/why-is-chrome-slower-than-firefox)

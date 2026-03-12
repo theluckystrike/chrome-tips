@@ -99,3 +99,9 @@ Avoid installing too many extensions. Review your installed extensions periodica
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Web Codec API Video Processing](/articles/chrome-web-codec-api-video-processing)
+- [chrome on linux best version 2026](/articles/chrome-on-linux-best-version-2026)
+- [Chrome for Stable Diffusion Web UI Tips](/articles/chrome-for-stable-diffusion-web-ui-tips)

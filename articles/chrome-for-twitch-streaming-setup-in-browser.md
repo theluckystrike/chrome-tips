@@ -78,6 +78,7 @@ After your stream, take note of what worked well and what could be improved. Str
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for HubSpot CRM in Browser](/chrome-for-hubspot-crm-in-browser)
-- [Chrome for Microsoft Teams in Browser Tips](/chrome-for-microsoft-teams-in-browser-tips)
-- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)
+
+- [Chrome Google Chat Integration in Browser](/articles/chrome-google-chat-integration-in-browser)
+- [Chrome for Weather Dashboard Extensions](/articles/chrome-for-weather-dashboard-extensions)
+- [chrome for anki web flashcards setup](/articles/chrome-for-anki-web-flashcards-setup)

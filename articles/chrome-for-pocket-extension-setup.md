@@ -68,6 +68,7 @@ The key is to start using it regularly so it becomes a natural part of your brow
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
-- [Chrome Extensions for Pocket Alternative](/chrome-extensions-for-pocket-alternative)
-- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
+
+- [Chrome Safe Browsing Protection Levels Explained](/articles/chrome-safe-browsing-protection-levels-explained)
+- [Chrome Hardware Acceleration Causes Problems](/articles/chrome-hardware-acceleration-causes-problems)
+- [Chrome for WhatsApp Web Tips and Tricks](/articles/chrome-for-whatsapp-web-tips-and-tricks)

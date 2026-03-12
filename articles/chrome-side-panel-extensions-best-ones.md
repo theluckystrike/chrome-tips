@@ -68,3 +68,9 @@ Using **Tab Suspender Pro** allows you to view a list of all active and "hiberna
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Emulate Print Media How To](/articles/chrome-emulate-print-media-how-to)
+- [chrome videos buffering slow fix](/articles/chrome-videos-buffering-slow-fix)
+- [Chrome Multiple Profiles How to Switch Fast](/articles/chrome-multiple-profiles-how-to-switch-fast)

@@ -71,6 +71,7 @@ Review your saved articles regularly and delete anything no longer relevant. Thi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
-- [Chrome for Notion Web Clipper Setup](/chrome-for-notion-web-clipper-setup)
-- [Chrome For Onenote Web Clipper Setup](/chrome-for-onenote-web-clipper-setup)
+
+- [chrome for stylus and pen input settings](/articles/chrome-for-stylus-and-pen-input-settings)
+- [Chrome Extensions for News Aggregator](/articles/chrome-extensions-for-news-aggregator)
+- [Chrome Tabs Taking Forever to Load? Here's What to Do](/articles/chrome-tabs-taking-forever-to-load)

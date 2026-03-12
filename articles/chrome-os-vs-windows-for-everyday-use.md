@@ -103,3 +103,9 @@ List the things you need your computer to do. Check whether the programs you nee
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Most Visited Sites How to Remove](/articles/chrome-most-visited-sites-how-to-remove)
+- [chrome vs firefox extensions comparison](/articles/chrome-vs-firefox-extensions-comparison)
+- [chrome for instacart web app best settings](/articles/chrome-for-instacart-web-app-best-settings)

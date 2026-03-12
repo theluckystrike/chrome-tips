@@ -61,6 +61,7 @@ While the Web USB API is a powerful feature, managing all the ways websites can 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Web OTP API Explained](/chrome-web-otp-api-explained)
-- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
-- [Chrome Web GPU API Explained for Beginners](/chrome-web-gpu-api-explained-for-beginners)
+
+- [Chrome Extension for Reading Mode Distraction Free](/articles/chrome-extension-for-reading-mode-distraction-free)
+- [Chrome Extensions for HTTP Header Viewer](/articles/chrome-extensions-for-http-header-viewer)
+- [Chrome Trust Tokens Explained](/articles/chrome-trust-tokens-guide)

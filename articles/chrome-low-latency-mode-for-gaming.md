@@ -82,6 +82,7 @@ These changes do not require technical expertise. They take just a few minutes t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extension for Reading Mode Distraction Free](/chrome-extension-for-reading-mode-distraction-free)
-- [Chrome vs Opera GX for Gaming](/chrome-vs-opera-gx-for-gaming)
-- [Chrome Auto Dark Mode for Web Contents](/chrome-auto-dark-mode-for-web-contents)
+
+- [Chrome Push Notifications vs Email Comparison](/articles/chrome-push-notifications-vs-email-comparison)
+- [Chrome Extensions For Citation Generator](/articles//articles/chrome-extensions-for-citation-generator/)
+- [Best Chrome Extensions for Musicians](/articles/best-chrome-extensions-for-musicians)

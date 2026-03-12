@@ -99,6 +99,7 @@ Remember, you always have the option to allow notifications from specific sites 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
 
 ## Related Articles
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
-- [Chrome Save All Open Tabs As Bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
-- [Chrome Pop Ups How to Block All](/chrome-pop-ups-how-to-block-all)
+
+- [Chrome Starting Style CSS Explained](/articles/chrome-starting-style-css-explained)
+- [Chrome Extensions For Color Accessibility Checker](/articles//articles/chrome-extensions-for-color-accessibility-checker/)
+- [Best Chrome Extensions for Online Shopping](/articles/chrome-extensions-for-online-shopping)

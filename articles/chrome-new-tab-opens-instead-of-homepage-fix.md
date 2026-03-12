@@ -102,6 +102,7 @@ Using a tool like Tab Suspender Pro can serve as an extra layer of protection. I
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome New Tab Page How To Customize](/chrome-new-tab-page-how-to-customize)
-- [Chrome Freezes When Opening New Tab Fix](/chrome-freezes-when-opening-new-tab-fix)
-- [Chrome Keeps Logging Me Out of Sites Fix](/chrome-keeps-logging-me-out-of-sites-fix)
+
+- [Chrome Resize Observer API Explained](/articles/chrome-resize-observer-api-explained)
+- [Chrome Extensions for Web Annotation](/articles/chrome-extensions-for-web-annotation)
+- [Chrome Bookmarks Bar Show Hide Shortcut](/articles/chrome-bookmarks-bar-show-hide-shortcut)

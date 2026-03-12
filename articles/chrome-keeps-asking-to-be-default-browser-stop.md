@@ -58,6 +58,7 @@ The most important thing is to use the browser that works best for you and your 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Default Browser How To Set On Mac](/chrome-default-browser-how-to-set-on-mac)
-- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
-- [Chrome Default Browser How To Set On Windows](/chrome-default-browser-how-to-set-on-windows)
+
+- [Chrome Extensions Conflict With Each Other Fix](/articles/chrome-extensions-conflict-with-each-other-fix)
+- [Chrome Homepage Keeps Resetting Fix](/articles/chrome-homepage-keeps-resetting-fix)
+- [Chrome Text to Speech Extension Best](/articles/chrome-text-to-speech-extension-best)

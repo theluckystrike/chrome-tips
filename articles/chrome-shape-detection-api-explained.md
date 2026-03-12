@@ -83,3 +83,9 @@ Using **Tab Suspender Pro** is an excellent way to keep your browser responsive.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [chrome extensions for accessibility needs](/articles/chrome-extensions-for-accessibility-needs)
+- [Chrome for Claude AI Web Tips](/articles/chrome-for-claude-ai-web-tips)
+- [Chrome Close Other Tabs Shortcut](/articles/chrome-close-other-tabs-shortcut)

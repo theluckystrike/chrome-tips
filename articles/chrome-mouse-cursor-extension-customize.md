@@ -79,6 +79,7 @@ Start by exploring what extensions are available, choose one that fits your need
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extension for Coupon Codes Automatic](/chrome-extension-for-coupon-codes-automatic)
-- [Chrome VPN Extension Best Free Options 2026](/chrome-vpn-extension-best-free-options-2026)
-- [Chrome Dark Reader Extension Worth It](/chrome-dark-reader-extension-worth-it)
+
+- [Chrome Extensions for Website Dark Mode Forced](/articles/chrome-extensions-for-website-dark-mode-forced)
+- [Chrome Permissions on Startup How to Configure](/articles/chrome-permissions-on-startup-how-to-configure)
+- [Chrome for Xero Accounting Web Tips](/articles/chrome-for-xero-accounting-web-tips)

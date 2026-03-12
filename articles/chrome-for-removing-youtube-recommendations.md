@@ -82,6 +82,7 @@ The goal is not to remove YouTube from your life entirely, but to use it on your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
-- [Chrome Extensions for Better YouTube Experience](/chrome-extensions-for-better-youtube-experience)
-- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
+
+- [Chrome Notifications on Phone Too Many How to Stop](/articles/chrome-notifications-on-phone-too-many-how-to-stop)
+- [Chrome: The Most Used Browser in the World — Why?](/articles/chrome-most-used-browser-in-the-world-why)
+- [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension)

@@ -100,3 +100,9 @@ Remember to keep your extension list manageable and your extensions updated. Wit
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering](/articles/chrome-paint-holding-feature-explained)
+- [Chrome DevTools Shadow DOM Inspector](/articles/chrome-devtools-shadow-dom-inspector)
+- [Chrome New Tab Page Keeps Changing Fix](/articles/chrome-new-tab-page-keeps-changing-fix)

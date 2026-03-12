@@ -87,6 +87,7 @@ Remember to archive your notes once they are no longer needed. A cluttered Keep 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
-- [Chrome for Google Sheets Tips and Tricks](/chrome-for-google-sheets-tips-and-tricks)
+
+- [Chrome Third Party Cookies Blocked What It Means](/articles/chrome-third-party-cookies-blocked-what-it-means)
+- [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained)
+- [Chrome Overrides for Local Development](/articles/chrome-overrides-local-development)

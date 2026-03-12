@@ -56,6 +56,7 @@ Give a few of these extensions a try and see which ones fit your workflow. You m
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Writers 2026](/chrome-extensions-for-writers-2026)
-- [Chrome Extensions For Teachers 2026](/chrome-extensions-for-teachers-2026)
-- [Best Chrome Extensions for Lawyers 2026](/best-chrome-extensions-for-lawyers-2026)
+
+- [Chrome Select All Tabs Shortcut](/articles/chrome-select-all-tabs-shortcut)
+- [Best Browser for 2GB RAM Laptop 2026](/articles/best-browser-for-2gb-ram-laptop-2026)
+- [chrome javascript disable for one site how to](/articles/chrome-javascript-disable-for-one-site-how-to)

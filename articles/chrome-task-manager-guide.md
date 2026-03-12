@@ -218,8 +218,8 @@ Chrome Task Manager is an essential tool for anyone who wants to understand and 
 Learning to use Task Manager effectively takes some time, but the payoff is significant—a faster, more responsive browser that doesn't consume more resources than necessary. Combined with automation tools like Tab Suspender Pro, you can maintain excellent performance even with many tabs open.
 
 The next time your browser seems sluggish or your system resources are being strained, remember that `Shift + Esc` opens the gateway to understanding and resolving the issue. Chrome Task Manager puts you in control of your browsing experience.
-
 ## Related Articles
-- [Chrome Permissions Manager Guide](/chrome-permissions-manager-guide)
-- [How to Use Chrome Task Manager to Find Slow Tabs](/how-to-use-chrome-task-manager-to-find-slow-tabs)
-- [Chrome Task Manager How to Use](/chrome-task-manager-how-to-use)
+
+- [Chrome for Keyboard Shortcut Customization](/articles/chrome-for-keyboard-shortcut-customization)
+- [Chrome Extension for Reading Speed Tracker](/articles/chrome-extension-for-reading-speed-tracker)
+- [Chrome Cookie Consent Popups How to Auto Accept](/articles/chrome-cookie-consent-popups-how-to-auto-accept)

@@ -58,6 +58,7 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
-- [Chrome Keeps Logging Me Out of Websites Fix](/chrome-keeps-logging-me-out-of-websites-fix)
+
+- [Chrome for Costco Web Shopping Tips](/articles/chrome-for-costco-web-shopping-tips)
+- [Chrome for Address Bar Shortcuts Tips](/articles/chrome-for-address-bar-shortcuts-tips)
+- [How to Fix Chrome ERR_NAME_NOT_RESOLVED Error](/articles/chrome-err-name-not-resolved-fix)

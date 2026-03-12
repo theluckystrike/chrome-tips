@@ -55,6 +55,7 @@ A hijacked homepage is annoying but usually not dangerous if you address it quic
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome This Site Cant Be Reached Fix](/chrome-this-site-cant-be-reached-fix)
-- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
-- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+
+- [Chrome Extensions for JSON Viewer Formatter](/articles/chrome-extensions-for-json-viewer-formatter)
+- [Chrome Uses All CPU When Idle Fix](/articles/chrome-uses-all-cpu-when-idle-fix)
+- [Best Chrome Setup For Graphic Designers](/articles/best-chrome-setup-for-graphic-designers)

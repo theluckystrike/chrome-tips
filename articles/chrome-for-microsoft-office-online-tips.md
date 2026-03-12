@@ -80,6 +80,7 @@ These small optimizations can make a big difference in your daily workflow, espe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Banking Online Security Tips](/chrome-for-banking-online-security-tips)
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
-- [Best Chrome Extensions For Teachers Online](/best-chrome-extensions-for-teachers-online)
+
+- [Chrome Extensions for Meal Planning Recipes](/articles/chrome-extensions-for-meal-planning-recipes)
+- [Chrome for SEO Keyword Research Extensions](/articles/chrome-for-seo-keyword-research-extensions)
+- [Chrome Extensions for Language Learning](/articles/chrome-extensions-for-language-learning)

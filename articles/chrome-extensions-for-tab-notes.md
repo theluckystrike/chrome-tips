@@ -58,6 +58,7 @@ Once you install an extension, make a habit of adding a note whenever you open a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)
-- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
-- [Chrome Extensions for Workona Tab Manager](/chrome-extensions-for-workona-tab-manager)
+
+- [how to turn on chrome dark mode on any website](/articles/how-to-turn-on-chrome-dark-mode-on-any-website)
+- [Best Chrome Extensions for Cybersecurity Professionals](/articles/best-chrome-extensions-for-cybersecurity-professionals)
+- [Chrome Extensions for Video Conferencing Enhancement](/articles/chrome-extensions-for-video-conferencing-enhancement)

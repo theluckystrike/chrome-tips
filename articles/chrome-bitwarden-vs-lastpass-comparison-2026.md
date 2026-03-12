@@ -74,6 +74,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Coupon Finder Built In Feature](/chrome-coupon-finder-built-in-feature)
-* [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)
-* [chrome for monday.com best extensions](/chrome-for-mondaycom-best-extensions)
+- [Chrome Shape Detection API – Barcode, Face & Text Recognition Directly in Your Browser](/articles/chrome-shape-detection-barcode-face-text)
+- [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop)
+- [Chrome Popover API Explained](/articles/chrome-popover-api-explained)

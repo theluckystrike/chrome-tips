@@ -62,6 +62,7 @@ The best approach is to use work networks for work purposes and save your person
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chrome Privacy Sandbox What Regular Users Should Know](/chrome-privacy-sandbox-what-regular-users-should-know)
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+
+- [Chrome for Google Classroom Tips](/articles/chrome-for-google-classroom-tips)
+- [Chrome Compute Pressure API Explained: What It Means for Your Browser](/articles/chrome-compute-pressure-api-explained)
+- [Chrome iPhone Widgets How to Set Up](/articles/chrome-iphone-widgets-how-to-set-up)

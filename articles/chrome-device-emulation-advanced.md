@@ -104,3 +104,9 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained)
+- [Best Chrome Extensions for Reading Articles](/articles/best-chrome-extensions-for-reading-articles)
+- [Chrome Cast to TV How to Set Up](/articles/chrome-cast-to-tv-how-to-set-up)

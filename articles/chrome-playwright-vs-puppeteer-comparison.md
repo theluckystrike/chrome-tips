@@ -88,3 +88,9 @@ Consider your project requirements, team expertise, and long-term maintenance ne
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Slow on Chromebook? Here's How to Fix It](/articles/chrome-slow-on-chromebook-fix)
+- [chrome web otp autofill sms](/articles/chrome-web-otp-autofill-sms)
+- [Chrome Speculation Rules Prefetch: A Complete Guide](/articles/chrome-speculation-rules-prefetch)

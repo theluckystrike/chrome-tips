@@ -173,6 +173,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Supervised Profiles for Kids](/chrome-supervised-user-profile-for-kids)
-* [how to turn on chrome dark mode on any website](/how-to-turn-on-chrome-dark-mode-on-any-website)
-* [How to Block Ads on Chrome Android](/how-to-block-ads-on-chrome-android)
+- [Chrome Slow on iPad Fix 2026](/articles/chrome-slow-on-ipad-fix-2026)
+- [Chrome Restore Previous Session After Crash](/articles/chrome-restore-previous-session-after-crash)
+- [Chrome Browser Management for IT Admins](/articles/chrome-browser-management-for-it-admins)

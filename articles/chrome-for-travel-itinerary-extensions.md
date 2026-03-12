@@ -68,6 +68,7 @@ Take some time to explore different extensions and find the one that fits your t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Travel Planning: Best Extensions](/chrome-for-travel-planning-best-extensions)
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+
+- [chrome for mouse gestures extensions](/articles/chrome-for-mouse-gestures-extensions)
+- [Chrome DevTools Memory Panel Explained](/articles/chrome-devtools-memory-panel-explained)
+- [chrome safe browsing should i turn on](/articles/chrome-safe-browsing-should-i-turn-on)

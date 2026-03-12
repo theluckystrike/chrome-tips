@@ -67,6 +67,7 @@ Taking a few minutes to review your notification permissions now can save you fr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Local Storage How to Clear for One Site](/chrome-local-storage-how-to-clear-for-one-site)
-- [Chrome Allow Popups for One Site How To](/chrome-allow-popups-for-one-site-how-to)
-- [Chrome Microphone Permission for One Site How to Set](/chrome-microphone-permission-for-one-site-how-to-set)
+
+- [Chrome Live Captions Feature Guide](/articles/chrome-live-captions-feature)
+- [Best Tab Suspender to Save Memory 2026](/articles/best-tab-suspender-to-save-memory-2026)
+- [chrome for banking online security tips](/articles/chrome-for-banking-online-security-tips)

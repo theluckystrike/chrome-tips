@@ -66,6 +66,7 @@ Whether you are making a permanent switch or just need access to your bookmarks 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
-- [How to Stop Chrome from Tracking Me](/how-to-stop-chrome-from-tracking-me)
-- [How to Recover Deleted Bookmarks Chrome](/how-to-recover-deleted-bookmarks-chrome)
+
+- [Chrome Not Responding How to Force Close Safely](/articles/chrome-not-responding-how-to-force-close-safely)
+- [Chrome Extensions That Save You Time](/articles/chrome-extensions-that-save-you-time)
+- [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters)

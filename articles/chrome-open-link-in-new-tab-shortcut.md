@@ -86,3 +86,9 @@ Combined with good tab management habits, these shortcuts help you navigate the 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Google Sheets](/articles/chrome-extensions-for-google-sheets)
+- [Chrome Extensions for YouTube Productivity](/articles/chrome-extensions-for-youtube-productivity)
+- [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization)

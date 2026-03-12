@@ -76,3 +76,9 @@ Take a few minutes to enable vertical tabs using either the Settings method or t
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Translation Real Time](/articles/chrome-extensions-for-translation-real-time)
+- [Chrome VPN Extension Free Best 2026](/articles/chrome-vpn-extension-free-best-2026)
+- [Chrome requestanimationframe Explained: What It Means for Your Browser](/articles/chrome-requestanimationframe-explained)

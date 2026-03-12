@@ -67,6 +67,7 @@ The next time you download a large file, upload a big folder to the cloud, or wa
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Beacon API for Analytics](/chrome-beacon-api-for-analytics)
-- [Chrome Web MIDI API for Musicians](/chrome-web-midi-api-for-musicians)
-- [Chrome Media Session API for Music Players](/chrome-media-session-api-for-music-players)
+
+- [chrome high contrast mode how to enable](/articles/chrome-high-contrast-mode-how-to-enable)
+- [Chrome Extensions That Save You Time](/articles/chrome-extensions-that-save-you-time)
+- [Chrome Extensions for Highlighting Text on Web](/articles/chrome-extensions-for-highlighting-text-on-web)

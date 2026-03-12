@@ -69,6 +69,7 @@ Most of these extensions offer free versions with basic features, so you can try
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions For Teachers Online](/best-chrome-extensions-for-teachers-online)
-- [Chrome Extensions for Speed Dial Bookmarks](/chrome-extensions-for-speed-dial-bookmarks)
-- [Chrome for LinkedIn Best Extensions](/chrome-for-linkedin-best-extensions)
+
+- [Chrome for Microsoft Teams in Browser Tips](/articles/chrome-for-microsoft-teams-in-browser-tips)
+- [Chrome Extension for Highlighting Text on Websites](/articles/chrome-extension-for-highlighting-text-on-websites)
+- [chrome google photos integration tips](/articles/chrome-google-photos-integration-tips)

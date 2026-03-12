@@ -70,6 +70,7 @@ Take time to set up your reference manager with your preferred citation style be
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Organizing Research](/chrome-extensions-for-organizing-research)
-- [Chrome Extensions for Focus and Productivity](/chrome-extensions-for-focus-and-productivity)
-- [Chrome Extensions for Lawyers Legal Research](/chrome-extensions-for-lawyers-legal-research)
+
+- [Chrome DevTools Protocol Monitor](/articles/chrome-devtools-protocol-monitor)
+- [Best Chrome Extensions for Entrepreneurs](/articles/best-chrome-extensions-for-entrepreneurs)
+- [How to Turn Off Autocomplete in Chrome](/articles/chrome-how-to-turn-off-autocomplete)

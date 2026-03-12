@@ -94,3 +94,9 @@ Remember: accessibility isn't about finding a single solution—it's about build
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for stylus and pen input settings](/articles/chrome-for-stylus-and-pen-input-settings)
+- [Chrome Blocked Download How to Unblock](/articles/chrome-blocked-download-how-to-unblock)
+- [Chrome JetStream Score What Is Good](/articles/chrome-jetstream-score-what-is-good)

@@ -76,3 +76,9 @@ You can also explore Chrome's settings to manage your privacy, configure startup
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Regex Tester](/articles/chrome-extensions-for-regex-tester)
+- [chrome web bluetooth connect headphones](/articles/chrome-web-bluetooth-connect-headphones)
+- [Chrome DOMContentLoaded vs Load Event](/articles/chrome-dom-content-loaded-vs-load-event)

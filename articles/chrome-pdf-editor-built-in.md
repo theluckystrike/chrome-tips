@@ -117,3 +117,9 @@ Next time you need to fill out a form, sign a contract, or add notes to a PDF, t
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Biometric Authentication for the Web](/articles/chrome-biometric-authentication-web)
+- [Chrome Autofill Settings Complete Guide](/articles/chrome-autofill-settings-complete)
+- [Chrome Memory Leak Fix for 2026](/articles/chrome-memory-leak-fix-2026)

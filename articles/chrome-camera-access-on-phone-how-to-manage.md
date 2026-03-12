@@ -73,6 +73,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Trust Tokens Explained](/chrome-trust-tokens-guide)
-* [How to Add Chrome Shortcut to Desktop](/how-to-add-chrome-shortcut-to-desktop)
-* [Best Chrome Extensions for Twitch Streamers](/best-chrome-extensions-for-twitch-streamers)
+- [Chrome Tabs on Top vs Bottom: How to Change](/articles/chrome-tabs-on-top-vs-bottom-how-to-change)
+- [Chrome Web GPU API Explained](/articles/chrome-web-gpu-api-explained)
+- [chrome for soundcloud web player extensions](/articles/chrome-for-soundcloud-web-player-extensions)

@@ -84,9 +84,8 @@ The Chrome Coverage Tool is an essential part of any web performance optimizatio
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
-
 ## Related Articles
 
-* [Best Free Chrome Extensions 2026](/best-free-chrome-extensions-2026)
-* [Chrome Extensions for Grammarly Alternative Free](/chrome-extensions-for-grammarly-alternative-free)
-* [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
+- [Chrome Tabs Taking Forever to Load? Here's What to Do](/articles/chrome-tabs-taking-forever-to-load)
+- [Chrome Crashing on Low Memory Computer](/articles/chrome-crashing-on-low-memory-computer)
+- [Chrome Video Speed Controller Extension](/articles/chrome-video-speed-controller-extension)

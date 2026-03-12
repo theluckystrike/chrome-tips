@@ -87,3 +87,9 @@ Try the methods outlined above and restart your computer after making changes. S
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Multiple Users on Same Computer Setup](/articles/chrome-multiple-users-on-same-computer-setup)
+- [chrome reading list vs bookmarks](/articles/chrome-reading-list-vs-bookmarks)
+- [Chrome Offline Google Calendar](/articles/chrome-offline-google-calendar)

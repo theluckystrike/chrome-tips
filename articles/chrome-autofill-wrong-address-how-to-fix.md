@@ -81,6 +81,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Site Settings Permissions Explained](/chrome-site-settings-permissions-explained)
-* [Chrome Extensions For Fitness Tracking Dashboard](//articles/chrome-extensions-for-fitness-tracking-dashboard/)
-* [Chrome Keeps Logging Me Out of Sites Fix](/chrome-keeps-logging-me-out-of-sites-fix)
+- [chrome for apple notes in browser workaround](/articles/chrome-for-apple-notes-in-browser-workaround)
+- [Chrome Keeps Logging Me Out of Websites Fix](/articles/chrome-keeps-logging-me-out-of-websites-fix)
+- [Chrome Cross Origin Error: What It Means and How to Fix It](/articles/chrome-cross-origin-error-what-it-means)

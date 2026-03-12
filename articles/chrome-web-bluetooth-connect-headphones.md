@@ -68,6 +68,7 @@ If you run into a website that does not support Web Bluetooth, do not worry. Thi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
-- [Chrome Web Bluetooth Api Guide](/chrome-web-bluetooth-api-guide)
-- [Chrome Web Otp Autofill Sms](/chrome-web-otp-autofill-sms)
+
+- [Chrome Netflix Not Working Fix](/articles/chrome-netflix-not-working-fix)
+- [Chrome Side Panel Customization: Complete Guide for 2026](/articles/chrome-side-panel-customization)
+- [How to Limit Chrome Memory Usage on Windows](/articles/how-to-limit-chrome-memory-usage-windows)

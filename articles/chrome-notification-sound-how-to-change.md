@@ -51,6 +51,7 @@ Taking a few minutes to clean up your notification permissions can make a big di
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Tabs on Top vs Bottom: How to Change](/chrome-tabs-on-top-vs-bottom-how-to-change)
-- [Chrome Text Size on Phone How to Change](/chrome-text-size-on-phone-how-to-change)
-- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+
+- [Chrome Time to First Byte Explained](/articles/chrome-time-to-first-byte-explained)
+- [Chrome vs Samsung Internet for Android](/articles/chrome-vs-samsung-internet-for-android)
+- [chrome for custom new tab page extensions](/articles/chrome-for-custom-new-tab-page-extensions)

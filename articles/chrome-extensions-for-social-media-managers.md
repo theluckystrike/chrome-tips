@@ -78,3 +78,9 @@ Remember that your browser is your primary workspace as a social media manager. 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Coupon Codes Automatic](/articles/chrome-extension-for-coupon-codes-automatic)
+- [Chrome Memory Saver Feature Explained](/articles/chrome-memory-saver-feature-explained)
+- [Chrome WebXR API Virtual Reality](/articles/chrome-webxr-api-virtual-reality)

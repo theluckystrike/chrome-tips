@@ -85,6 +85,7 @@ Video streaming should be enjoyable, and with a little optimization, Chrome can 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Odysee Web Player Tips](/chrome-for-odysee-web-player-tips)
-- [Chrome for BitChute Web Player](/chrome-for-bitchute-web-player)
-- [Chrome Extensions for Spotify Web Player Enhancement](/chrome-extensions-for-spotify-web-player-enhancement)
+
+- [Chromebook Accessibility Features Guide](/articles/chromebook-accessibility-features-guide)
+- [Chrome Cast Tab to TV Not Working Fix](/articles/chrome-cast-tab-to-tv-not-working-fix)
+- [Chrome Extensions for WebRTC Leak Prevention](/articles/chrome-extensions-for-webrtc-leak-prevention)

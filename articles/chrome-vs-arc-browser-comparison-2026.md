@@ -57,3 +57,9 @@ Regardless of which browser you choose, keeping track of many open tabs can beco
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Autofill Settings Complete Guide](/articles/chrome-autofill-settings-complete)
+- [chrome extension for screenshot and annotate](/articles/chrome-extension-for-screenshot-and-annotate)
+- [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api-explained)

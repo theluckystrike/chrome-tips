@@ -82,3 +82,9 @@ The key to smooth sync is using the same Google account on every device, keeping
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Cold Email Outreach](/articles//articles/chrome-extensions-for-cold-email-outreach/)
+- [Why Does Chrome Open So Many Processes](/articles/why-does-chrome-open-so-many-processes)
+- [chrome voice control navigate by speaking](/articles/chrome-voice-control-navigate-by-speaking)

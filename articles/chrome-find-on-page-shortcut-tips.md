@@ -77,6 +77,7 @@ Give these tips a try next time you need to find something on the web. You will 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Open Downloads Page Shortcut](/chrome-open-downloads-page-shortcut)
-- [Chrome Bookmark Current Page Shortcut](/chrome-bookmark-current-page-shortcut)
-- [Chrome on Android — Tips and Tricks for 2026](/chrome-on-android-tips-and-tricks-2026)
+
+- [Chrome Coupon Finder Built In Feature](/articles/chrome-coupon-finder-built-in-feature)
+- [Chrome for Wikipedia Enhanced Reading](/articles/chrome-for-wikipedia-enhanced-reading)
+- [Chrome Notifications for One Site How to Manage](/articles/chrome-notifications-for-one-site-how-to-manage)

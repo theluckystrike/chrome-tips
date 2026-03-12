@@ -84,3 +84,9 @@ Remember that Chrome's tab discarding is designed to help, not hurt. It keeps yo
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome save all open tabs as bookmarks](/articles/chrome-save-all-open-tabs-as-bookmarks)
+- [Best Chrome Extensions for Writers 2026](/articles/chrome-extensions-for-writers-2026)
+- [How to Throttle Network Speed in Chrome](/articles/chrome-throttle-network-speed-how-to)

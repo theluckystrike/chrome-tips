@@ -76,6 +76,7 @@ Small improvements in your cover letter workflow add up to significant time savi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+- [Chrome Address Bar Tips and Tricks](/articles/chrome-address-bar-tips-and-tricks)
+- [Chrome Web MIDI API Explained](/articles/chrome-web-midi-api-explained)
+- [Chrome Performance Flame Chart Explained](/articles/chrome-performance-flame-chart-explained)

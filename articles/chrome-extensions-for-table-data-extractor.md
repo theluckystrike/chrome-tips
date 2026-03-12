@@ -67,6 +67,7 @@ Remember that combining a good data extraction extension with a solid tab manage
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+
+- [How to Backup Chrome Bookmarks and Passwords](/articles/how-to-backup-chrome-bookmarks-and-passwords)
+- [Chrome User Data Directory: What Each File Does](/articles/chrome-user-data-directory-what-each-file-does)
+- [Chrome Screen Magnifier How to Use](/articles/chrome-screen-magnifier-how-to-use)

@@ -79,6 +79,7 @@ Give it a try with a site you visit often. Set up the bookmark or keyword, run a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for IP Address Lookup](/chrome-extensions-for-ip-address-lookup)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
+
+- [Chrome AI Tab Organization Feature](/articles/chrome-ai-tab-organization-feature)
+- [Chrome Download Manager Best Extension](/articles/chrome-download-manager-best-extension)
+- [Chrome OS vs Windows for Basic Use](/articles/chrome-os-vs-windows-for-basic-use)

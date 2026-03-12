@@ -60,6 +60,7 @@ Once you start using these extensions, you will wonder how you ever used Discord
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+
+- [Chrome WebRTC Leak Prevention Guide](/articles/chrome-webrtc-leak-prevention-guide)
+- [Chrome Reading Mode — How to Enable and Use It](/articles/chrome-reading-mode-how-to-enable)
+- [Chrome Extensions for Weather Forecast New Tab](/articles/chrome-extensions-for-weather-forecast-new-tab)

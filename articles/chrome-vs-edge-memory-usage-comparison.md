@@ -76,3 +76,9 @@ Whatever browser you choose, being mindful of how many tabs you keep open and us
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Site Permissions Manager](/articles/chrome-extensions-for-site-permissions-manager)
+- [Chrome New Tab Extensions Aesthetic 2026](/articles/chrome-new-tab-extensions-aesthetic-2026)
+- [Chrome for Music Discovery Extensions](/articles/chrome-for-music-discovery-extensions)

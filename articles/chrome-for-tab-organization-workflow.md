@@ -70,6 +70,7 @@ Start small by trying one or two of these suggestions. See how they feel, and ad
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Dual Monitor Tab Management](/chrome-for-dual-monitor-tab-management)
-- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
-- [Chrome Extensions for Workona Tab Manager](/chrome-extensions-for-workona-tab-manager)
+
+- [Chrome Media Session API: Mastering Music Controls in Your Browser](/articles/chrome-media-session-api-music-controls)
+- [Chrome Proxy Settings Guide](/articles/chrome-proxy-settings-guide)
+- [Chrome Extensions for Binaural Beats](/articles/chrome-extensions-for-binaural-beats)

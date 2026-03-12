@@ -76,3 +76,9 @@ Learning how to reopen recently closed tabs in Chrome is a valuable skill that c
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [how to make chrome default browser windows 11](/articles/how-to-make-chrome-default-browser-windows-11)
+- [Chrome for Target Web App Best Extensions](/articles/chrome-for-target-web-app-best-extensions)
+- [Chrome Add to Home Screen vs Install App](/articles/chrome-add-to-home-screen-vs-install-app)

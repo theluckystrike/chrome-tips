@@ -65,6 +65,7 @@ Once you find the combination that works for you, the days of manually zooming i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Increase Chrome Cache Size](/chrome-cache-size-how-to-increase)
-- [Chrome Text Size How to Increase Permanently](/chrome-text-size-how-to-increase-permanently)
-- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+
+- [Chrome Spotify Web Player Not Working Fix](/articles/chrome-spotify-web-player-not-working-fix)
+- [Chrome Accessibility Tree Guide](/articles/chrome-accessibility-tree-guide)
+- [Why Is Chrome Slower Than Firefox?](/articles/why-is-chrome-slower-than-firefox)

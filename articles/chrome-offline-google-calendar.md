@@ -73,6 +73,7 @@ If you frequently work in offline or low-connectivity environments, consider thi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
-- [Chrome Google Calendar Quick Add from Browser](/chrome-google-calendar-quick-add-from-browser)
-- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
+
+- [chrome for shopify store management tips](/articles/chrome-for-shopify-store-management-tips)
+- [Chrome Mouse Cursor Lagging Fix](/articles/chrome-mouse-cursor-lagging)
+- [Chrome Permissions on Startup How to Configure](/articles/chrome-permissions-on-startup-how-to-configure)

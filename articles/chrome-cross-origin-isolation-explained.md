@@ -68,3 +68,9 @@ Chrome continues to refine and improve its security model, and cross-origin isol
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs)
+- [chrome extension for screenshot and annotate](/articles/chrome-extension-for-screenshot-and-annotate)
+- [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/articles/chrome-smooth-scrolling-enable)

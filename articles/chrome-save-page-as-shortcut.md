@@ -80,3 +80,9 @@ Instead of closing a site and relying on a **shortcut** to reopen it later, you 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome for Blocking Autoplay Videos](/articles/chrome-for-blocking-autoplay-videos)
+- [Chrome for Figma Best Settings](/articles/chrome-for-figma-best-settings)
+- [Chrome Web USB API Guide](/articles/chrome-web-usb-api-guide)

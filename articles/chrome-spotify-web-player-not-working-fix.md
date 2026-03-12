@@ -81,3 +81,9 @@ Remember that tools like Tab Suspender Pro can help keep your browser running sm
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix)
+- [Chrome for Obsidian Web Clipper Setup](/articles/chrome-for-obsidian-web-clipper-setup)
+- [chrome security check how to run](/articles/chrome-security-check-how-to-run)

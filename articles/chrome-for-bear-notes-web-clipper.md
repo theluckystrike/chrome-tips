@@ -78,6 +78,7 @@ By taking the time to set up a method that works for you and following the tips 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Pinterest Web Clipper](/chrome-for-pinterest-web-clipper)
-- [Chrome for Instapaper Web Clipper](/chrome-for-instapaper-web-clipper)
-- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
+
+- [How to Share Chrome Bookmarks Between Devices](/articles/how-to-share-chrome-bookmarks-between-devices)
+- [chrome for github copilot web setup](/articles/chrome-for-github-copilot-web-setup)
+- [Chromebook for Seniors Setup Guide](/articles/chromebook-for-seniors-setup-guide)

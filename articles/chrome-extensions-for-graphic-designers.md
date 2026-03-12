@@ -35,6 +35,7 @@ The right combination of Chrome extensions for graphic designers depends on your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Best Chrome Extensions for Graphic Designers](/best-chrome-extensions-for-graphic-designers)
+
+- [Chrome Web Animation API Explained](/articles/chrome-web-animation-api-explained)
+- [Chrome Share Page Between Phone and Laptop: Complete Guide](/articles/chrome-share-page-between-phone-and-laptop)
+- [Chrome Responsive Design Mode: How to Use It Effectively](/articles/chrome-responsive-design-mode-how-to-use)

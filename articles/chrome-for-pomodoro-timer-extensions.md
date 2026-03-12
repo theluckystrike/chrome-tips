@@ -80,6 +80,7 @@ Start with one extension and give it a fair trial before trying others. Building
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Study Timer](/chrome-extensions-for-study-timer)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
+- [How to Block Ads on Chrome Without Extension](/articles/how-to-block-ads-on-chrome-without-extension)
+- [Chrome Enable Cookies for One Site How to](/articles/chrome-enable-cookies-for-one-site-how-to)
+- [Chrome CORS Error Explained in Simple Terms](/articles/chrome-cors-error-explained-simple-terms)

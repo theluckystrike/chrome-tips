@@ -80,6 +80,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Enable Chrome Site Isolation for Extra Security](/chrome-site-isolation-enable-extra-security)
-* [Chrome Using Too Much Disk Space: A Complete Guide](/chrome-using-too-much-disk-space)
-* [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)
+- [Chrome Two Factor Authentication Setup Guide](/articles/chrome-two-factor-authentication-setup-guide)
+- [Chrome Text Size How to Increase Permanently](/articles/chrome-text-size-how-to-increase-permanently)
+- [Chrome Math Symbols How to Type](/articles/chrome-math-symbols-how-to-type)

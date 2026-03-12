@@ -89,6 +89,7 @@ If you notice anything suspicious, contact your bank immediately. The sooner you
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
-- [Chrome for Microsoft Office Online Tips](/chrome-for-microsoft-office-online-tips)
+
+- [chrome net err cert common name invalid fix](/articles/chrome-net-err-cert-common-name-invalid-fix)
+- [chrome web bluetooth how to use](/articles/chrome-web-bluetooth-how-to-use)
+- [chromebook touchscreen not working fix](/articles/chromebook-touchscreen-not-working-fix)

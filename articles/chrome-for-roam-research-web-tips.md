@@ -88,6 +88,7 @@ Remember to keep your tab count manageable, use bookmarks as a backup organizati
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
-- [Chrome For Walmart Grocery Web Tips](/chrome-for-walmart-grocery-web-tips)
-- [Chrome for Evernote Web Clipper Tips](/chrome-for-evernote-web-clipper-tips)
+
+- [Chrome Devtools Edit HTML Live](/articles//chrome-devtools-edit-html-live/)
+- [Chrome Multiple Users on Same Computer Setup](/articles/chrome-multiple-users-on-same-computer-setup)
+- [Chrome Extensions for Language Learning](/articles/chrome-extensions-for-language-learning)

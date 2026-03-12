@@ -87,6 +87,7 @@ Getting the best experience with Perplexity AI in Chrome comes down to managing 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
-- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)
-- [Chrome for Figma Best Settings](/chrome-for-figma-best-settings)
+
+- [Chrome Redirect Virus How to Remove](/articles/chrome-redirect-virus-how-to-remove)
+- [chrome for gmail productivity extensions](/articles/chrome-for-gmail-productivity-extensions)
+- [chrome image search by url how to](/articles/chrome-image-search-by-url-how-to)

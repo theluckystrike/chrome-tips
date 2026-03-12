@@ -73,6 +73,7 @@ If you want to optimize Chrome further, exploring Chrome's performance settings 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Live Caption How It Works](/chrome-live-caption-how-it-works)
-- [Chrome Sync Across Devices How It Works](/chrome-sync-across-devices-how-it-works)
-- [Chrome Pwa Offline Capability How It Works](/chrome-pwa-offline-capability-how-it-works)
+
+- [Best Chrome Extensions for Data Analysts](/articles/best-chrome-extensions-for-data-analysts)
+- [Chrome Extensions for Markdown Editor Preview](/articles/chrome-extensions-for-markdown-editor-preview)
+- [Chrome Homepage Keeps Changing to Yahoo Fix](/articles/chrome-homepage-keeps-changing-to-yahoo-fix)

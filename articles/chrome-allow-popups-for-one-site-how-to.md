@@ -79,6 +79,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extension for Managing Multiple Email Accounts](/chrome-extension-for-managing-multiple-email-accounts)
-* [how to enable chrome experimental features](/how-to-enable-chrome-experimental-features)
-* [Chrome DevTools CSS Overview Panel](//chrome-devtools-css-overview-panel/)
+- [How to Speed Up Chrome in 5 Minutes](/articles/how-to-speed-up-chrome-in-5-minutes)
+- [How to Simulate Slow Connection in Chrome](/articles/chrome-network-throttling-how-to-simulate-slow-connection)
+- [Chrome Bookmarks Disappeared After Update: Complete Recovery Guide](/articles/chrome-bookmarks-disappeared-after-update)

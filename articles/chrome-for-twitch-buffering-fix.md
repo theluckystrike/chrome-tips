@@ -88,6 +88,7 @@ Most people find that one or two of these changes make a big difference. Good lu
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
-- [Chrome Streaming Video Buffering Fix](/chrome-streaming-video-buffering-fix)
-- [Chrome for Disney Plus Not Working Fix](/chrome-for-disney-plus-not-working-fix)
+
+- [Chrome Eating All My RAM? Reddit Users Share Their Solutions](/articles/chrome-eating-all-my-ram-reddit-solutions)
+- [Chrome for Accessibility Testing Extensions](/articles/chrome-for-accessibility-testing-extensions)
+- [Chrome Typing Lag in Text Boxes: Practical Solutions](/articles/chrome-typing-lag-in-text-boxes)

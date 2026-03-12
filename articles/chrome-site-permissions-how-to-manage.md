@@ -71,6 +71,7 @@ Make it a habit to check your permissions every few months. Remove access for si
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
-- [Chrome Payment Autofill How to Manage Cards](/chrome-payment-autofill-how-to-manage-cards)
-- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
+
+- [chrome work profile vs personal profile tips](/articles/chrome-work-profile-vs-personal-profile-tips)
+- [Chrome Shared Storage and Cross-Site Data Explained](/articles/chrome-shared-storage-cross-site-data)
+- [Chrome Best Settings for College Students](/articles/chrome-best-settings-for-college-students)

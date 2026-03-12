@@ -86,3 +86,9 @@ Remember that Chrome's tab discarding is designed to help, not hurt. It keeps yo
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Fix ChatGPT Slow Response in Chrome (Complete Guide)](/articles/chrome-chatgpt-slow-response-fix)
+- [Chrome Reading Mode Hidden Feature](/articles/chrome-reading-mode-hidden-feature)
+- [Chrome Extensions for Social Media Scheduling](/articles/chrome-extensions-for-social-media-scheduling)

@@ -121,3 +121,9 @@ Once you're comfortable with the basics, you'll find Inspect Element is an inval
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Scrolling Lag Fix](/articles/chrome-scrolling-lag-fix)
+- [Chrome Instant Apps on Android Explained](/articles/chrome-instant-apps-on-android-explained)
+- [Chrome for Custom Search Engines Setup](/articles/chrome-for-custom-search-engines-setup)

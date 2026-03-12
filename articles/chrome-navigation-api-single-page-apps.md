@@ -95,3 +95,9 @@ Whether you are building a new single page app or improving an existing one, the
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners)
+- [Chrome Coverage Tool Guide](/articles/chrome-coverage-tool-guide)
+- [chrome network throttling test slow connection](/articles/chrome-network-throttling-test-slow-connection)

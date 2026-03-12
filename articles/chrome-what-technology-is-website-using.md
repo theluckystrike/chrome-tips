@@ -90,6 +90,7 @@ Understanding what technology a site uses can satisfy your curiosity, help you m
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Shadow DOM What It Is](/chrome-shadow-dom-what-it-is)
-- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)
-- [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)
+
+- [How to Cast Chrome Tab to TV](/articles/how-to-cast-chrome-tab-to-tv)
+- [Chrome Extensions for Online Shopping Deals](/articles/chrome-extensions-for-online-shopping-deals)
+- [Chrome iOS Tips and Tricks for 2026](/articles/chrome-ios-tips-and-tricks-2026)

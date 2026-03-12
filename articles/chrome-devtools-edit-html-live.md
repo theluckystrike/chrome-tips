@@ -72,6 +72,7 @@ Chrome DevTools is one of those features that becomes indispensable once you kno
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Saved Payment Methods How to Edit](/chrome-saved-payment-methods-how-to-edit)
-- [Chrome DevTools Protocol Monitor](/chrome-devtools-protocol-monitor)
-- [Chrome Live Captions Languages: Complete Setup Guide](/chrome-live-captions-languages)
+
+- [chrome taking too long to open fix](/articles/chrome-taking-too-long-to-open-fix)
+- [Chrome Lite Mode Data Saver Replacement](/articles/chrome-lite-mode-data-saver-replacement)
+- [Chrome Not Loading Pages But Internet Works: Complete Fix Guide](/articles/chrome-not-loading-pages-but-internet-works)

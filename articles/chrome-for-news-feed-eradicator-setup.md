@@ -81,6 +81,7 @@ Many people also report feeling less overwhelmed after eliminating news feeds fr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
-- [Chrome for Cold Turkey Blocker Setup](/chrome-for-cold-turkey-blocker-setup)
-- [Chrome for News Reading Best Setup](/chrome-for-news-reading-best-setup)
+
+- [Chrome Black Screen When Opening Fix: Complete Practical Guide](/articles/chrome-black-screen-when-opening-fix)
+- [Chrome Blocked Download How to Unblock](/articles/chrome-blocked-download-how-to-unblock)
+- [How to Limit Chrome Memory Usage Mac](/articles/how-to-limit-chrome-memory-usage-mac)

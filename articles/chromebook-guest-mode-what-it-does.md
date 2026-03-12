@@ -62,6 +62,7 @@ If you find that your Chromebook slows down when you have many tabs open, whethe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Headless Mode What It Is](/chrome-headless-mode-what-it-is)
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
-- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
+
+- [Chrome Layers Panel 3D View Explained](/articles/chrome-layers-panel-3d-view-explained)
+- [Chrome VPN Extension Free Unlimited Best](/articles/chrome-vpn-extension-free-unlimited-best)
+- [How to Reduce Number of Open Tabs](/articles/how-to-reduce-number-of-open-tabs)

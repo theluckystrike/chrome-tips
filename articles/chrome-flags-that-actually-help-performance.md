@@ -59,6 +59,7 @@ Give these suggestions a try and notice the difference in your daily browsing. A
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Do Not Track: Does It Actually Work](/chrome-do-not-track-does-it-actually-work)
-- [Chrome Tracing for Performance Issues](/chrome-tracing-for-performance-issues)
-- [Chrome Performance Monitor Fps Counter](/chrome-performance-monitor-fps-counter)
+
+- [Best Chrome Extensions for Data Analysts](/articles/best-chrome-extensions-for-data-analysts)
+- [Chrome Not Playing Videos Fix](/articles/chrome-not-playing-videos-fix)
+- [chrome extensions for one click bookmark folders](/articles/chrome-extensions-for-one-click-bookmark-folders)

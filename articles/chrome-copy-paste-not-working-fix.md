@@ -107,6 +107,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Toggle Fullscreen Shortcut](/chrome-toggle-fullscreen-shortcut)
-* [Best Chrome Extensions for Content Creators](/best-chrome-extensions-for-content-creators)
-* [Chrome Instant Apps on Android Explained](/chrome-instant-apps-on-android-explained)
+- [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix)
+- [Chrome Browser Management for IT Admins](/articles/chrome-browser-management-for-it-admins)
+- [Chrome Upcoming Features Preview 2026](/articles/chrome-upcoming-features-preview-2026)

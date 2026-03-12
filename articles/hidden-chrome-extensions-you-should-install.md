@@ -76,6 +76,7 @@ The hidden chrome extensions you should install are the ones that solve real pro
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Settings You Should Change Right Now](/chrome-settings-you-should-change-right-now)
-- [Top 10 Chrome Extensions Everyone Should Have](/top-10-chrome-extensions-everyone-should-have)
+
+- [how to delete chrome browsing data automatically](/articles/how-to-delete-chrome-browsing-data-automatically)
+- [Best Chrome Extensions for Product Managers](/articles/best-chrome-extensions-for-product-managers)
+- [Google Chrome vs Chromium Difference Explained](/articles/google-chrome-vs-chromium-difference-explained)

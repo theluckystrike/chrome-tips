@@ -55,6 +55,7 @@ Remember that these tools are meant to help, not to replace good browsing habits
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+
+- [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained)
+- [Chrome Tabs Taking Forever to Load? Here's What to Do](/articles/chrome-tabs-taking-forever-to-load)
+- [Chrome Large Font Easy to Read Setup](/articles/chrome-large-font-easy-to-read-setup)

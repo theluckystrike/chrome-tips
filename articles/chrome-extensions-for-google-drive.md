@@ -71,6 +71,7 @@ Remember to keep your extension list lean, only adding what you will actually us
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Google Meet](/chrome-extensions-for-google-meet)
-- [Chrome Extensions for Google Forms](/chrome-extensions-for-google-forms)
-- [Best Chrome Extensions for Google Drive](/best-chrome-extensions-for-google-drive)
+
+- [Chrome CSS Animations Performance Tips](/articles//chrome-css-animations-performance-tips/)
+- [Chrome CSS Anchor Positioning Tether - The Future of Floating Elements](/articles/chrome-css-anchor-positioning-tether)
+- [chrome themes best dark themes 2026](/articles/chrome-themes-best-dark-themes-2026)

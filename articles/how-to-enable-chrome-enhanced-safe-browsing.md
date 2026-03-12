@@ -94,6 +94,7 @@ By enabling enhanced safe browsing and following good security practices, you si
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [How To Enable Chrome Experimental Features](/how-to-enable-chrome-experimental-features)
-- [Chrome Safe Browsing on Phone How to Check](/chrome-safe-browsing-on-phone-how-to-check)
-- [How to Enable Chrome Reading List](/how-to-enable-chrome-reading-list)
+
+- [Chrome Device Emulation Advanced Guide](/articles//chrome-device-emulation-advanced/)
+- [Chrome Saved Payment Methods How to Edit](/articles/chrome-saved-payment-methods-how-to-edit)
+- [Chrome Extensions For Etsy Sellers](/articles//articles/chrome-extensions-for-etsy-sellers/)

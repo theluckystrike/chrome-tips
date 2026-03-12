@@ -122,3 +122,9 @@ By following these steps, you can significantly improve Chrome's performance on 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-guide)
+- [Chrome Update Failed Error 12 Fix](/articles/chrome-update-failed-error-12-fix)
+- [Chrome Extensions for Social Media Scheduling](/articles/chrome-extensions-for-social-media-scheduling)

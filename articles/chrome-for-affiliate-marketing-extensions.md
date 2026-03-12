@@ -91,6 +91,7 @@ Small improvements in your daily workflow add up to big gains in productivity ov
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome for Email Marketing Best Extensions](/chrome-for-email-marketing-best-extensions)
+
+- [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/articles/chrome-ai-powered-history-search)
+- [How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost](/articles/chrome-err-connection-refused-localhost-fix)
+- [Chrome Open Last Session on Startup](/articles/chrome-open-last-session-on-startup)

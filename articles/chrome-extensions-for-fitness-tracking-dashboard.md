@@ -76,6 +76,7 @@ Remember that the most sophisticated dashboard is useless if you do not check it
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Time Tracking Freelancers](/chrome-extensions-for-time-tracking-freelancers)
-- [Chrome Extensions for Productivity Dashboard](/chrome-extensions-for-productivity-dashboard)
-- [Chrome Extensions for Fitness Tracking](/chrome-extensions-for-fitness-tracking)
+
+- [Free Chrome Extensions Better Than Paid Apps](/articles/free-chrome-extensions-better-than-paid-apps)
+- [chrome google photos integration tips](/articles/chrome-google-photos-integration-tips)
+- [Chrome Precaching vs Runtime Caching](/articles/chrome-precaching-vs-runtime-caching)

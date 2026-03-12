@@ -75,3 +75,9 @@ This is a more drastic step, so try the other solutions first. However, if you h
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Session Buddy](/articles/chrome-extensions-for-session-buddy)
+- [chrome reduce data usage tips](/articles/chrome-reduce-data-usage-tips)
+- [Chrome Certificate Error How to Bypass Safely](/articles/chrome-certificate-error-how-to-bypass-safely)

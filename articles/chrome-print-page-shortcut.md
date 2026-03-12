@@ -98,3 +98,9 @@ Printing from Chrome does not have to be frustrating. With these shortcuts and t
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Permissions Policy Header Explained](/articles/chrome-permissions-policy-header-explained)
+- [chrome high memory usage after sleep fix](/articles/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)

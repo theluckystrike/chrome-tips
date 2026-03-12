@@ -79,3 +79,9 @@ Most 500 errors resolve themselves within minutes or hours as website administra
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome classroom extension for teachers](/articles/chrome-classroom-extension-for-teachers)
+- [Chrome Slow on Your Old MacBook? Here's How to Fix It](/articles/chrome-slow-on-old-macbook-fix)
+- [Chrome Android Desktop Mode How to Enable](/articles/chrome-android-desktop-mode-how-to-enable)

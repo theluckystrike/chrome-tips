@@ -73,6 +73,7 @@ Remember that you can always adjust these settings later if your needs change. T
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Stop Chrome from Tracking Me](/how-to-stop-chrome-from-tracking-me)
-- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
-- [How to Turn Off Chrome Notifications Permanently](/how-to-turn-off-chrome-notifications-permanently)
+
+- [Chrome Block Specific Websites Guide](/articles/chrome-block-specific-websites-guide)
+- [Chrome Layer CSS Cascade Layers Explained](/articles/chrome-layer-css-cascade-layers-explained)
+- [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management)

@@ -72,6 +72,7 @@ Everyone deserves a quiet digital workspace. By taking advantage of these extens
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+
+- [Chrome Extensions for Split Tabs](/articles/chrome-extensions-for-split-tabs)
+- [How to Use Chrome Task Manager to Find Slow Tabs](/articles/how-to-use-chrome-task-manager-to-find-slow-tabs)
+- [Chrome Extensions for Google Forms](/articles/chrome-extensions-for-google-forms)

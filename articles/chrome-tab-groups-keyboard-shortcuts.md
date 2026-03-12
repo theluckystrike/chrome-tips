@@ -110,3 +110,9 @@ Remember to combine your organized tab groups with Tab Suspender Pro for optimal
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Multiple Users Same Computer Setup](/articles/chrome-multiple-users-same-computer-setup)
+- [Chrome High CPU Usage Nothing Open](/articles/chrome-high-cpu-usage-nothing-open)
+- [Chrome Streams API for Large Files](/articles/chrome-streams-api-for-large-files)

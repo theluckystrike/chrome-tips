@@ -112,3 +112,9 @@ Remember to reinstall your essential extensions one at a time after resetting, s
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Using 8GB RAM Fix](/articles/chrome-using-8gb-ram-fix)
+- [Chrome Using Swap Memory Fix](/articles/chrome-using-swap-memory-fix)
+- [chrome install as app pwa how to](/articles/chrome-install-as-app-pwa-how-to)

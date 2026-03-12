@@ -71,6 +71,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [Chrome Release Schedule: How Often Does It Update](/chrome-release-schedule-how-often-does-it-update)
-* [Chrome for Screencastify Extension Guide](/chrome-for-screencastify-extension-guide)
-* [Chrome Text to Speech: Complete Guide for 2026](/chrome-text-to-speech)
+- [Chrome Has Selector Explained](/articles/chrome-has-selector-explained)
+- [How to Fix Chrome Cache Too Large and Slow Performance](/articles/chrome-cache-too-large-slow-fix)
+- [Chrome for Kindle Cloud Reader Setup - A Complete Guide](/articles/chrome-for-kindle-cloud-reader-setup)

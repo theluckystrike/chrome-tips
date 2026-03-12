@@ -88,6 +88,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Find Chrome Extensions That Slow Down Browser](/how-to-find-chrome-extensions-that-slow-down-browser)
-* [Chrome Live Captions How to Enable](/chrome-live-captions-how-to-enable)
-* [chrome upcoming features roadmap 2026](/chrome-upcoming-features-roadmap-2026)
+- [Chrome for Email Marketing Best Extensions](/articles/chrome-for-email-marketing-best-extensions)
+- [Chrome Freezing Every Few Minutes? Here's What to Do](/articles/chrome-freezing-every-few-minutes)
+- [Chrome Keyboard Lock API: Building Immersive Fullscreen Games](/articles/chrome-keyboard-lock-api-fullscreen-games)

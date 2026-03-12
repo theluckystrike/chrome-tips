@@ -69,6 +69,7 @@ If you find that you have many tabs open and want to manage them better, conside
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Live Captions How to Turn On](/chrome-live-captions-how-to-turn-on)
-- [How To Enable Chrome Enhanced Safe Browsing](/how-to-enable-chrome-enhanced-safe-browsing)
-- [Chrome Hardware Acceleration Should I Turn On or Off](/chrome-hardware-acceleration-should-i-turn-on-or-off)
+
+- [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does)
+- [Chrome PWA Update Mechanism How It Works](/articles/chrome-pwa-update-mechanism-how-it-works)
+- [Best Privacy Chrome Extensions 2026](/articles/best-privacy-chrome-extensions-2026)

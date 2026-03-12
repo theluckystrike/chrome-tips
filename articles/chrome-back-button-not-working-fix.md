@@ -97,6 +97,6 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 ## Related Articles
 
-* [chrome default browser how to set windows mac](//chrome-default-browser-how-to-set-windows-mac/)
-* [chrome portable version run from usb](/chrome-portable-version-run-from-usb)
-* [Chrome Drag and Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
+- [Chrome Extensions for Mouse Gestures Navigation](/articles/chrome-extensions-for-mouse-gestures-navigation)
+- [Chrome Preloading Pages Setting Explained](/articles/chrome-preloading-pages-setting-explained)
+- [Chrome Extensions for Job Hunting 2026](/articles/chrome-extensions-for-job-hunting-2026)

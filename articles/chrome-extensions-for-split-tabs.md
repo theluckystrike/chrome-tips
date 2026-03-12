@@ -80,6 +80,7 @@ The goal is to spend less time switching between tabs and more time getting thin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+
+- [Chrome Block Inappropriate Content for Kids](/articles/chrome-block-inappropriate-content-for-kids)
+- [Chrome Scrolling Lag Fix](/articles/chrome-scrolling-lag-fix)
+- [Chrome Extensions for Microsoft Teams](/articles/chrome-extensions-for-microsoft-teams)

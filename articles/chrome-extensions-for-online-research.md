@@ -70,3 +70,9 @@ The key is to start with one or two extensions that match your biggest challenge
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Mobile Dark Mode Force on All Sites](/articles/chrome-mobile-dark-mode-force-on-all-sites)
+- [Chrome Extensions For Eye Strain Protection](/articles//articles/chrome-extensions-for-eye-strain-protection/)
+- [chrome for vimeo web upload tips](/articles/chrome-for-vimeo-web-upload-tips)

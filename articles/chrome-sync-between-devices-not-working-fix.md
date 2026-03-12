@@ -97,6 +97,7 @@ Chrome sync between devices is incredibly useful when it works, and most of the 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Translate Not Working? Here's How to Fix It](/chrome-translate-not-working-fix)
-- [Chrome Cross Device Tab Sync Not Working Fix](/chrome-cross-device-tab-sync-not-working-fix)
-- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
+
+- [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord/)
+- [Best Chrome Extensions for Online Sellers](/articles/best-chrome-extensions-for-online-sellers)
+- [Chrome Extensions for News Aggregator](/articles/chrome-extensions-for-news-aggregator)

@@ -78,6 +78,7 @@ If you have many tabs open and want to improve your browser performance overall,
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chrome Third Party Cookies Blocked What It Means](/chrome-third-party-cookies-blocked-what-it-means)
-- [Chrome Super Cookies: What Are They](/chrome-super-cookies-what-are-they)
+
+- [Chrome for Minimalist Browsing Setup](/articles/chrome-for-minimalist-browsing-setup)
+- [Chrome for Page Load Speed Testing](/articles/chrome-for-page-load-speed-testing)
+- [chrome webgpu gaming in browser future](/articles/chrome-webgpu-gaming-in-browser-future)

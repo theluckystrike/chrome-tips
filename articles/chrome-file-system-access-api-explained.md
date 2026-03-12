@@ -80,6 +80,7 @@ The chrome file system access api explained feature is a powerful tool that make
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Long Tasks API Explained](/chrome-long-tasks-api-explained)
-- [Chrome Badging API Explained](/chrome-badging-api-explained)
-- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
+
+- [Chrome Not Working on Android Fix](/articles/chrome-not-working-on-android-fix)
+- [How to Fix Chrome High CPU Usage When Gaming](/articles/how-to-fix-chrome-high-cpu-usage-gaming)
+- [Chrome Which Tab Is Using Most CPU How to Find](/articles/chrome-which-tab-is-using-most-cpu-how-to-find)

@@ -71,6 +71,7 @@ Remember that no single solution is foolproof. Combining technical tools like Sa
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
-- [How To Enable Chrome Enhanced Safe Browsing](/how-to-enable-chrome-enhanced-safe-browsing)
-- [Chrome Safe Search How to Lock](/chrome-safe-search-how-to-lock)
+
+- [Chrome Translate Not Working? Here's How to Fix It](/articles/chrome-translate-not-working-fix)
+- [Chrome WebGL Not Working Fix](/articles/chrome-webgl-not-working-fix)
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/articles/google-docs-slow-in-chrome-fix)

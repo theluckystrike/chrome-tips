@@ -91,3 +91,9 @@ Chrome's translation feature is incredibly useful for navigating the multilingua
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Third Party Cookies Blocked What It Means](/articles/chrome-third-party-cookies-blocked-what-it-means)
+- [Chrome for Forest Focus Timer Extension](/articles/chrome-for-forest-focus-timer-extension)
+- [Chrome Canvas Rendering Slow Fix: Practical Solutions for Limited RAM](/articles/chrome-canvas-rendering-slow-fix)

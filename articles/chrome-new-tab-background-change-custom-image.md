@@ -77,3 +77,9 @@ By taking a few minutes to set up a custom background that resonates with you, y
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for QuickBooks Online Best Settings](/articles/chrome-for-quickbooks-online-best-settings)
+- [How to Recover Accidentally Closed Chrome Tabs](/articles/accidentally-closed-all-chrome-tabs-recovery)
+- [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows)

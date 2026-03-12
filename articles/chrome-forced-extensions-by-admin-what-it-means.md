@@ -73,6 +73,7 @@ If you are a regular user at home and suddenly see forced extensions you did not
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Tab Discard What It Means](/chrome-tab-discard-what-it-means)
-- [Chrome Site Isolation What It Means](/chrome-site-isolation-what-it-means)
-- [Chrome Benchmark Score What It Means](/chrome-benchmark-score-what-it-means)
+
+- [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix)
+- [Chrome Extension for Viewing Page Load Time](/articles/chrome-extension-for-viewing-page-load-time)
+- [Chrome Web Store Best Free Games](/articles/chrome-web-store-best-free-games)

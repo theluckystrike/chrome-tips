@@ -67,6 +67,7 @@ Whether you are putting together a quick update for your team or preparing a maj
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Google Sheets Tips and Tricks](/chrome-for-google-sheets-tips-and-tricks)
-- [Chrome For Google Flights Tips And Tricks](/chrome-for-google-flights-tips-and-tricks)
-- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+
+- [Chrome Enable Cookies for One Site How to](/articles/chrome-enable-cookies-for-one-site-how-to)
+- [chrome mobile translate page automatically](/articles/chrome-mobile-translate-page-automatically)
+- [how to enable cookies in chrome](/articles/how-to-enable-cookies-in-chrome)

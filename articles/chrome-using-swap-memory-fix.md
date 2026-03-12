@@ -65,3 +65,9 @@ Chrome using swap memory is a solvable problem. By understanding why it happens 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Super Cookies: What Are They](/articles/chrome-super-cookies-what-are-they)
+- [Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide](/articles/chrome-amazon-prime-video-not-playing-fix)
+- [Chrome Bookmarks Bar Show Hide Shortcut](/articles/chrome-bookmarks-bar-show-hide-shortcut)

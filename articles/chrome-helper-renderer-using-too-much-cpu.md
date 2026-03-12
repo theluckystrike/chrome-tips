@@ -68,6 +68,7 @@ Remember that a little CPU usage from Chrome is normal and expected. The goal is
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
-- [Chrome Using Too Much Memory on MacBook Air](/chrome-using-too-much-memory-on-macbook-air)
-- [Chrome Using 100 Percent CPU Fix Windows](/chrome-using-100-percent-cpu-fix-windows)
+
+- [Is Chrome Safe for Online Banking](/articles/is-chrome-safe-for-online-banking)
+- [Chrome Mirroring Screen to TV How To](/articles/chrome-mirroring-screen-to-tv-how-to)
+- [chromebook touchscreen not working fix](/articles/chromebook-touchscreen-not-working-fix)

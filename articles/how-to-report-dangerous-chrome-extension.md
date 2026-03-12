@@ -65,6 +65,7 @@ Beyond reporting, staying vigilant about what you install and regularly reviewin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Ads on Phone How to Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [How to Find Which Extension is Slowing Chrome](/how-to-find-which-extension-is-slowing-chrome)
-- [Chrome Report Broken Website How To](/chrome-report-broken-website-how-to)
+
+- [How to Edit Any Webpage Text Using Inspect Element](/articles/chrome-edit-webpage-text-inspect-element)
+- [Chrome for Wikipedia Enhanced Reading](/articles/chrome-for-wikipedia-enhanced-reading)
+- [Chrome Extensions for Session Buddy](/articles/chrome-extensions-for-session-buddy)

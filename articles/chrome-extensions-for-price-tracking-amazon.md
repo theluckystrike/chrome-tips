@@ -82,6 +82,7 @@ Try starting with one extension and getting comfortable with how it works before
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Email Tracking](/chrome-extensions-for-email-tracking)
-- [Chrome Extensions for Flight Price Alerts](/chrome-extensions-for-flight-price-alerts)
-- [Chrome Extensions for Amazon FBA Sellers](/chrome-extensions-for-amazon-fba-sellers)
+
+- [Chrome Tab From Other Device Not Showing Fix](/articles/chrome-tab-from-other-device-not-showing-fix)
+- [chrome color picker extension best](/articles/chrome-color-picker-extension-best)
+- [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix)

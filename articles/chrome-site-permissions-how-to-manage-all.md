@@ -74,3 +74,9 @@ This is where **Tab Suspender Pro** becomes an essential tool. It automatically 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix)
+- [Chrome Payment Autofill How to Manage Cards](/articles/chrome-payment-autofill-how-to-manage-cards)
+- [Chrome for Amazon Prime Video Quality Settings](/articles/chrome-for-amazon-prime-video-quality-settings)

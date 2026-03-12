@@ -88,6 +88,7 @@ Once you have your dashboard set up, you will find it easier to stay focused, pr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)
-- [Chrome Extensions for Productivity Students](/chrome-extensions-for-productivity-students)
-- [Chrome for DeFi Dashboard Extensions](/chrome-for-defi-dashboard-extensions)
+
+- [How to Enable Chrome Tab Hover Previews](/articles/how-to-enable-chrome-tab-hover-previews)
+- [Chrome Extensions for Meta Tag Analyzer](/articles/chrome-extensions-for-meta-tag-analyzer)
+- [Chrome This Site Cant Provide a Secure Connection Fix](/articles/chrome-this-site-cant-provide-a-secure-connection-fix)

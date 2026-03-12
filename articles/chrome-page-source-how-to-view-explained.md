@@ -80,3 +80,9 @@ The next time you wonder what is going on behind the scenes of a webpage, rememb
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Text to Speech on Any Page](/articles/chrome-for-text-to-speech-on-any-page)
+- [Chrome Extension for Blocking Cookie Popups](/articles/chrome-extension-for-blocking-cookie-popups)
+- [How to Limit Chrome RAM Usage on Windows](/articles/how-to-limit-chrome-ram-usage-windows)

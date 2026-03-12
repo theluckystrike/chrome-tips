@@ -56,6 +56,7 @@ Regularly clearing your browser cache, keeping Chrome updated, and managing your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Clear Chrome Cache Properly](/how-to-clear-chrome-cache-properly)
-- [How to Clear Chrome Cache Fast](/how-to-clear-chrome-cache-fast)
-- [Chrome How to Clear Individual Site Data](/chrome-how-to-clear-individual-site-data)
+
+- [Chrome Preferences File What It Contains](/articles/chrome-preferences-file-what-it-contains)
+- [Chrome Mobile Tips Save Data Usage](/articles/chrome-mobile-tips-save-data-usage)
+- [Chrome Extensions for Saving Articles Offline](/articles/chrome-extensions-for-saving-articles-offline)

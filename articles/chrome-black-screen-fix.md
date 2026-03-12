@@ -96,6 +96,6 @@ If you continue having issues after trying all these steps, it might be worth ch
 
 ## Related Articles
 
-* [Chrome Developer Mode Extensions Guide](//chrome-developer-mode-extensions/)
-* [Best Privacy Chrome Extensions 2026](/best-privacy-chrome-extensions-2026)
-* [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
+- [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/articles/best-chrome-settings-for-chromebook)
+- [chrome lighthouse audit how to run](/articles/chrome-lighthouse-audit-how-to-run)
+- [chrome tab memory usage how to check](/articles/chrome-tab-memory-usage-how-to-check)

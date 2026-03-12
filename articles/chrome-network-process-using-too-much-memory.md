@@ -73,6 +73,7 @@ Give these tips a try and see how much of a difference they make. Your computer 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Why Is Chrome Using So Much Memory](/why-is-chrome-using-so-much-memory)
-- [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/chrome-extension-using-too-much-memory-find)
-- [Chrome Using Too Much Disk Space Fix](/chrome-using-too-much-disk-space-fix)
+
+- [How to Recover Deleted Bookmarks Chrome](/articles/how-to-recover-deleted-bookmarks-chrome)
+- [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings)
+- [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup)

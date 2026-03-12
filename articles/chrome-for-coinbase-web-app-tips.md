@@ -80,6 +80,7 @@ These chrome for coinbase web app tips should help you create a more efficient, 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Skyscanner Web App Tips](/chrome-for-skyscanner-web-app-tips)
-- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
-- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
+
+- [Chrome for Dailymotion Web Player](/articles/chrome-for-dailymotion-web-player)
+- [chrome reduce data usage on mobile](/articles/chrome-reduce-data-usage-on-mobile)
+- [Chrome GPU Process High Memory Fix](/articles/chrome-gpu-process-high-memory-fix)

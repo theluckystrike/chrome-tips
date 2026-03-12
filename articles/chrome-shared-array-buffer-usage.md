@@ -169,3 +169,9 @@ SharedArrayBuffer is a powerful feature that brings true multithreading capabili
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Mobile Tips Save Data Usage](/articles/chrome-mobile-tips-save-data-usage)
+- [Chrome Extensions for Grammar Check Free Alternative](/articles/chrome-extensions-for-grammar-check-free-alternative)
+- [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs)

@@ -91,6 +91,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Backup Chrome Bookmarks and Passwords](/how-to-backup-chrome-bookmarks-and-passwords)
-* [Chrome Bookmarks Not Syncing Fix](/chrome-bookmarks-not-syncing-fix)
-* [How to Export Chrome Passwords](/how-to-export-chrome-passwords)
+- [chrome for github copilot web setup](/articles/chrome-for-github-copilot-web-setup)
+- [Chrome Supervised Profiles for Kids](/articles/chrome-supervised-user-profile-for-kids)
+- [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-guide)

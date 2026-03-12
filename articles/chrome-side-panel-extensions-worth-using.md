@@ -170,3 +170,9 @@ The extensions listed above are all genuinely useful and worth your time. They e
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Streamlabs Web Dashboard](/articles/chrome-for-streamlabs-web-dashboard)
+- [Chrome Energy Saver Mode Explained](/articles/chrome-energy-saver-mode-explained)
+- [Chrome Select All Tabs Shortcut](/articles/chrome-select-all-tabs-shortcut)

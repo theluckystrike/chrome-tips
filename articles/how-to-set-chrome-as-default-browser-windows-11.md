@@ -82,6 +82,7 @@ Give it a try and see how it improves your browsing. Once Chrome is set as your 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Zoom Level How to Set Default](/chrome-zoom-level-how-to-set-default)
-- [Chrome Default Download Location How to Set](/chrome-default-download-location-how-to-set)
-- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
+
+- [Chrome DevTools Shadow DOM Inspector](/articles/chrome-devtools-shadow-dom-inspector)
+- [chrome site notifications stop all](/articles/chrome-site-notifications-stop-all)
+- [Best Chrome Extensions for Podcasters](/articles/best-chrome-extensions-for-podcasters)

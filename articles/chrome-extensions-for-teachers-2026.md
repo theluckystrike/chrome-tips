@@ -68,6 +68,7 @@ The goal is not to use every useful extension out there, but rather to build a s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions for Lawyers 2026](/best-chrome-extensions-for-lawyers-2026)
-- [Chrome Extensions for Remote Workers 2026](/chrome-extensions-for-remote-workers-2026)
-- [Best Chrome Extensions for Freelancers 2026](/best-chrome-extensions-for-freelancers-2026)
+
+- [chrome extensions for screen recording free](/articles/chrome-extensions-for-screen-recording-free)
+- [chrome how to allow popups for one site](/articles/chrome-how-to-allow-popups-for-one-site)
+- [Chrome for Microsoft Office Online Tips](/articles/chrome-for-microsoft-office-online-tips)

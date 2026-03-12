@@ -78,6 +78,7 @@ Understanding the difference between chrome first party vs third party cookies e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome vs Firefox Battery Life: Which Browser Saves More Power](/chrome-vs-firefox-battery-life)
-- [Chrome Cookies vs Cache Difference Explained](/chrome-cookies-vs-cache-difference-explained)
-- [Chrome Third Party Cookies What Happens When Blocked](/chrome-third-party-cookies-what-happens-when-blocked)
+
+- [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/articles/chrome-err-ssl-protocol-error-fix)
+- [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use)
+- [chrome device management for education](/articles//chrome-device-management-for-education/)

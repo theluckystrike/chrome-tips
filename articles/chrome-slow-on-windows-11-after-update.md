@@ -125,3 +125,9 @@ Chrome running slow on Windows 11 after an update is frustrating, but it is usua
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix)
+- [Chrome for Cloud Gaming Best Settings](/articles/chrome-for-cloud-gaming-best-settings)
+- [Chrome for Babbel Web App Tips](/articles/chrome-for-babbel-web-app-tips)

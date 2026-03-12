@@ -62,6 +62,7 @@ Many developers find that installing even one or two well-chosen extensions make
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Best Chrome Extensions for Real Estate Agents](/best-chrome-extensions-for-real-estate-agents)
-- [Best Chrome Extensions for GitHub](/best-chrome-extensions-for-github)
+
+- [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/articles/best-chrome-settings-for-chromebook)
+- [Should I Use Chrome or Edge in 2026?](/articles/should-i-use-chrome-or-edge-2026)
+- [Chrome Remote Debugging for Beginners](/articles/chrome-remote-debugging-for-beginners)

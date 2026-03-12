@@ -72,6 +72,7 @@ Give these tools a try and see which ones work best for your specific needs. Eve
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Reading List Manager](/chrome-extensions-for-reading-list-manager)
-- [Chrome for Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)
-- [Chrome For Distraction Free Reading Mode](/chrome-for-distraction-free-reading-mode)
+
+- [chrome default browser how to set windows mac](/articles//chrome-default-browser-how-to-set-windows-mac/)
+- [Chrome Homepage Keeps Changing to Yahoo Fix](/articles/chrome-homepage-keeps-changing-to-yahoo-fix)
+- [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to)

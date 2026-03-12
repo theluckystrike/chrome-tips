@@ -119,6 +119,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions for Project Management](/chrome-extensions-for-project-management)
-* [Chrome GPU Process High CPU Fix](/chrome-gpu-process-high-cpu-fix)
-* [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Iterator Helpers Explained](/articles/chrome-iterator-helpers-explained)
+- [Chrome Keeps Freezing Every Few Minutes: Causes and Fixes](/articles/chrome-keeps-freezing-every-few-minutes)
+- [chrome for apartments.com search tips](/articles/chrome-for-apartmentscom-search-tips)

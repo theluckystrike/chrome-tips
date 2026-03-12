@@ -68,6 +68,7 @@ Give yourself the gift of organized code and faster development. Your future sel
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for Cookie Editor Manager](/chrome-extensions-for-cookie-editor-manager)
-- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
+
+- [Chrome Vertical Tabs Enable 2026](/articles/chrome-vertical-tabs-enable-2026)
+- [Chrome for Affiliate Marketing Extensions](/articles/chrome-for-affiliate-marketing-extensions)
+- [Chrome Extensions for Meditation](/articles/chrome-extensions-for-meditation)

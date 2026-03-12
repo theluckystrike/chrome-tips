@@ -131,3 +131,9 @@ Start with enabling Chrome's Memory Saver, then reduce your extensions, and try 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Networking](/articles/chrome-extensions-for-networking)
+- [chrome for obs browser source tips](/articles/chrome-for-obs-browser-source-tips)
+- [Chrome Startup Page How to Set](/articles/chrome-startup-page-how-to-set)

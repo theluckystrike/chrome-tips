@@ -80,3 +80,9 @@ Give a few different extensions a try to see which one works best with your typi
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Download All Images from a Web Page in Chrome](/articles/chrome-download-all-images-from-page-how-to)
+- [Chrome Extensions for Networking](/articles/chrome-extensions-for-networking)
+- [chrome for rosetta stone web tips](/articles/chrome-for-rosetta-stone-web-tips)

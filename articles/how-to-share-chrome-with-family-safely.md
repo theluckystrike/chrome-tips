@@ -113,6 +113,7 @@ Remember that the most important part of family online safety is the conversatio
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
-- [Chrome Family Link How to Use on Desktop](/chrome-family-link-how-to-use-on-desktop)
-- [How to Share Chrome Tabs in Video Calls](/how-to-share-chrome-tabs-in-video-calls)
+
+- [Chrome Extensions for Reddit](/articles/chrome-extensions-for-reddit)
+- [chrome mutation observer api explained](/articles/chrome-mutation-observer-api-explained)
+- [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop)

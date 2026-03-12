@@ -78,3 +78,9 @@ Chrome sleeping tabs are no longer an "experimental" feature; they are a fundame
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Ungoogled Chromium What It Is and How to Install](/articles/ungoogled-chromium-what-it-is-and-how-to-install)
+- [Chrome Education Account What It Includes](/articles/chrome-education-account-what-it-includes)
+- [Chrome Fetch API Complete Guide](/articles/chrome-fetch-api-complete-guide)

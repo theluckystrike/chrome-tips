@@ -114,3 +114,9 @@ By combining Chrome's built-in Energy Saver Mode with smart browsing habits and 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Android Gestures You Didnt Know About](/articles/chrome-android-gestures-you-didnt-know-about)
+- [Chrome for Website Blocking During Work](/articles/chrome-for-website-blocking-during-work)
+- [Chrome Screenshot Full Page Without Extension](/articles/chrome-screenshot-full-page-without-extension)

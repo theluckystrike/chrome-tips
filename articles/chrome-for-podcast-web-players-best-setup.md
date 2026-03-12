@@ -78,6 +78,7 @@ With the right configuration, you can enjoy seamless podcast playback without wo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Any.Do Web App Setup](/chrome-for-anydo-web-app-setup)
-- [Chrome For Onenote Web Clipper Setup](/chrome-for-onenote-web-clipper-setup)
-- [Chrome for Skillshare Web App Setup](/chrome-for-skillshare-web-app-setup)
+
+- [Chrome Telemetry What Data Google Collects](/articles/chrome-telemetry-what-data-google-collects)
+- [How to Inspect and Debug WebSocket Connections in Chrome](/articles/chrome-websocket-inspect-debug)
+- [How Many Chrome Extensions Is Too Many](/articles/how-many-chrome-extensions-is-too-many)

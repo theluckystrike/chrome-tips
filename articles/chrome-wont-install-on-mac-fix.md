@@ -92,6 +92,7 @@ You can find Tab Suspender Pro in the Chrome Web Store. It is a useful extension
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome Not Working on Android Fix](/chrome-not-working-on-android-fix)
+
+- [Best Chrome Setup for Elderly Parents](/articles/best-chrome-setup-for-elderly-parents)
+- [Chrome User Agent String: What It Is and How It Works](/articles/chrome-user-agent-string-what-it-is)
+- [chrome profile name how to change](/articles/chrome-profile-name-how-to-change)

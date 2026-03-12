@@ -83,3 +83,9 @@ If you are concerned about storage and tracking in Chrome, there are tools that 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome payment request api what users see](/articles/chrome-payment-request-api-what-users-see)
+- [chrome on linux best version 2026](/articles/chrome-on-linux-best-version-2026)
+- [Chrome for Email Productivity Extensions](/articles/chrome-for-email-productivity-extensions)

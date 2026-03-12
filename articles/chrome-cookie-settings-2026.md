@@ -127,6 +127,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome for Instagram Web Tips](/chrome-for-instagram-web-tips)
-* [chrome high contrast mode](/chrome-high-contrast-mode)
-* [Chrome Service Worker What It Does Explained](/chrome-service-worker-what-it-does-explained)
+- [Chrome Console Utilities Reference](/articles/chrome-console-utilities-guide)
+- [Chrome Custom Elements Explained](/articles//chrome-custom-elements-explained/)
+- [Chrome Extensions For Figma Companion](/articles//articles/chrome-extensions-for-figma-companion/)

@@ -74,6 +74,7 @@ Give yourself the gift of more time and less repetitive typing. Your fingers wil
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+
+- [How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)](/articles/how-to-downgrade-chrome-to-older-version)
+- [Chrome Sync Phone and Computer How to Set Up](/articles/chrome-sync-phone-and-computer-how-to-set-up)
+- [Chrome JetStream Score What Is Good](/articles/chrome-jetstream-score-what-is-good)

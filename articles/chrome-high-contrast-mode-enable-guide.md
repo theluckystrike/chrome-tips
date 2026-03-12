@@ -89,3 +89,9 @@ Enabling chrome high contrast mode is a straightforward process that can transfo
 Remember that you have multiple options for enabling high contrast—through Chrome's direct settings or through your operating system's accessibility features. Both methods work effectively, so choose the approach that best suits your preferences and workflow.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Session Storage vs Local Storage: What's the Difference?](/articles/chrome-session-storage-vs-local-storage)
+- [Chrome Scrolling is Choppy and Laggy](/articles/chrome-scrolling-is-choppy-and-laggy)
+- [Chrome Layers Panel Explained](/articles/chrome-layers-panel-explained)

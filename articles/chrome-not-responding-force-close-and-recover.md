@@ -71,6 +71,7 @@ In Chrome Task Manager, you can see how much memory and CPU each tab and extensi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Not Responding? Force Close It This Way](/chrome-not-responding-force-close-how)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome Not Responding on Windows 11 Laptop](/chrome-not-responding-on-windows-11-laptop)
+
+- [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/articles/chrome-autofill-wrong-address-keeps-appearing)
+- [chrome install as app pwa how to](/articles/chrome-install-as-app-pwa-how-to)
+- [chrome for instacart web app best settings](/articles/chrome-for-instacart-web-app-best-settings)

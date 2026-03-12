@@ -71,6 +71,7 @@ Remember, the goal is to let your tools support you, not slow you down. With a f
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Google Photos Integration Save Images](/chrome-google-photos-integration-save-images)
-- [Chrome Google Lens Integration How To Use](/chrome-google-lens-integration-how-to-use)
-- [Chrome Classroom Integration Tips For Teachers](/chrome-classroom-integration-tips-for-teachers)
+
+- [Chrome Extension for Focus Mode Block Distractions](/articles/chrome-extension-for-focus-mode-block-distractions)
+- [chrome default browser how to set on mac](/articles//chrome-default-browser-how-to-set-on-mac/)
+- [Chrome Extensions for IP Address Lookup](/articles/chrome-extensions-for-ip-address-lookup)

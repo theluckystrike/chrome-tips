@@ -88,6 +88,7 @@ If you find your browser feeling sluggish, consider using a tab management exten
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Bitwarden vs Chrome Password Manager: Which Should You Use?](/chrome-bitwarden-vs-chrome-password-manager)
-- [Chrome Password Manager on Phone vs Dedicated App](/chrome-password-manager-on-phone-vs-dedicated-app)
-- [Chrome Bitwarden vs LastPass Comparison 2026](/chrome-bitwarden-vs-lastpass-comparison-2026)
+
+- [chrome extensions for screenshot full page](/articles/chrome-extensions-for-screenshot-full-page)
+- [Chrome Extension for Translating Selected Text](/articles/chrome-extension-for-translating-selected-text)
+- [chrome extensions for ruler measurement](/articles/chrome-extensions-for-ruler-measurement)

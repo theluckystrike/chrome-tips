@@ -72,6 +72,7 @@ Once you start using these extensions, you will wonder how you ever searched for
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Extensions For Teachers Online](/best-chrome-extensions-for-teachers-online)
-- [Best Chrome Extensions for Reddit Users](/best-chrome-extensions-for-reddit-users)
-- [Best Chrome Extensions for Researchers](/best-chrome-extensions-for-researchers)
+
+- [Chrome Keyboard Shortcuts Not Working Fix](/articles/chrome-keyboard-shortcuts-not-working-fix)
+- [Chrome Fetch API Complete Guide](/articles/chrome-fetch-api-complete-guide)
+- [Chrome Default Download Location How to Change](/articles//chrome-default-download-location-how-to-change/)

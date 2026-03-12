@@ -58,6 +58,7 @@ The next time you use a website that feels incredibly responsive and polished, t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
+
+- [Chrome Multiple Users Same Computer Setup](/articles/chrome-multiple-users-same-computer-setup)
+- [Chrome vs Chromium: What's the Difference and Which Should You Use?](/articles/chrome-chromium-vs-chrome-differences)
+- [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users)

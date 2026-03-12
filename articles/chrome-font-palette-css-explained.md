@@ -53,6 +53,7 @@ Whether you are building a website or just browsing the internet, knowing about 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Font Palette Customization: Complete Guide for 2026](/chrome-font-palette-customization)
-- [Chrome Nesting CSS Explained](/chrome-nesting-css-explained)
-- [Chrome Font Editor in DevTools Explained](/chrome-font-editor-in-devtools-explained)
+
+- [Chrome for Work vs Personal — How to Use Separate Profiles](/articles/chrome-for-work-vs-personal-separate-profiles)
+- [chrome for shopify store management tips](/articles/chrome-for-shopify-store-management-tips)
+- [Chrome Geolocation Override How to Test](/articles/chrome-geolocation-override-how-to-test)

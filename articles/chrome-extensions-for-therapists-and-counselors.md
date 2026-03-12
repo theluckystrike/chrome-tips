@@ -66,6 +66,7 @@ Remember that extensions are meant to support your work, not complicate it. If a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome for Citation and Research Extensions](/chrome-for-citation-and-research-extensions)
+
+- [chrome site isolation what it does](/articles/chrome-site-isolation-what-it-does)
+- [Chrome for Email Marketing Best Extensions](/articles/chrome-for-email-marketing-best-extensions)
+- [Best Chrome Setup For Graphic Designers](/articles/best-chrome-setup-for-graphic-designers)

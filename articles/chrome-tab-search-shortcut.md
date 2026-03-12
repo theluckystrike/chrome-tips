@@ -96,3 +96,9 @@ Start using the chrome tab search shortcut today, and you will wonder how you ev
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Pomodoro Timer Extensions](/articles/chrome-for-pomodoro-timer-extensions)
+- [Chrome Devtools Responsive Mode How to Use](/articles/chrome-devtools-responsive-mode-how-to-use)
+- [Chrome Android Gestures You Didnt Know About](/articles/chrome-android-gestures-you-didnt-know-about)

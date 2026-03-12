@@ -78,3 +78,9 @@ For browser users, these developments mean a more private browsing experience wi
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Academic Paper Reading Extensions](/articles/chrome-for-academic-paper-reading-extensions)
+- [Chrome View Source Shortcut](/articles/chrome-view-source-shortcut)
+- [chrome default browser how to set windows mac](/articles//chrome-default-browser-how-to-set-windows-mac/)

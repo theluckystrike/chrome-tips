@@ -81,6 +81,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How to Close All Chrome Tabs at Once](/how-to-close-all-chrome-tabs-at-once)
-* [How to Speed Up Chrome on 2GB RAM Laptop](/how-to-speed-up-chrome-on-2gb-ram-laptop)
-* [Chrome Performance Observer API Explained](/chrome-performance-observer-api-explained)
+- [Chrome Zoom Level Per Site How to Set](/articles/chrome-zoom-level-per-site-how-to-set)
+- [Chrome Err Connection Timed Out Fix](/articles/chrome-err-connection-timed-out-fix)
+- [Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser](/articles/chrome-web-bluetooth-api-guide)

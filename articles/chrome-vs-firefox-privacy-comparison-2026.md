@@ -64,3 +64,9 @@ The most important thing is to understand what each browser does with your data 
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome IndexedDB Storage Explained](/articles/chrome-indexeddb-storage-explained)
+- [Chrome Screen Share in Google Meet Tips](/articles/chrome-screen-share-in-google-meet-tips)
+- [Chrome Startup Boost What It Does](/articles/chrome-startup-boost-what-it-does)

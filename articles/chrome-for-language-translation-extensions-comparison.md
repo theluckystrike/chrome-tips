@@ -77,6 +77,7 @@ Remember that translation is a tool, not a replacement for learning a language. 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Extensions for Language Learning](/chrome-extensions-for-language-learning)
-- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-- [Chrome Extensions for Translation Real Time](/chrome-extensions-for-translation-real-time)
+
+- [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/articles/chrome-ai-powered-history-search)
+- [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix)
+- [Chrome Cross-Origin Isolation Explained](/articles/chrome-cross-origin-isolation-explained)

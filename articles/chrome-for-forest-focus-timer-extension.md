@@ -62,6 +62,7 @@ Give yourself permission to experiment with different extensions and settings un
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extension For Measuring Things On Screen](/chrome-extension-for-measuring-things-on-screen)
-- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
-- [Chrome Extension for Changing User Agent](/chrome-extension-for-changing-user-agent)
+
+- [Chrome Managed Bookmarks for Employees](/articles/chrome-managed-bookmarks-for-employees)
+- [Best Screenshot Chrome Extension](/articles/best-screenshot-chrome-extension)
+- [Chrome Extensions for TikTok Downloader](/articles/chrome-extensions-for-tiktok-downloader)

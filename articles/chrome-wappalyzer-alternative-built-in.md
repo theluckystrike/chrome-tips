@@ -64,6 +64,7 @@ The next time you wonder what technology powers a website, try opening Developer
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Coupon Finder Built In Feature](/chrome-coupon-finder-built-in-feature)
-- [Chrome Text to Speech Built In Feature](/chrome-text-to-speech-built-in-feature)
-- [Chrome Virus Scan Built in How to Use](/chrome-virus-scan-built-in-how-to-use)
+
+- [chrome web share api how it works](/articles/chrome-web-share-api-how-it-works)
+- [Chrome Browser Games Performance Tips](/articles/chrome-browser-games-performance-tips)
+- [Chrome Says Not Secure But Site Is Safe](/articles/chrome-says-not-secure-but-site-is-safe)

@@ -118,3 +118,9 @@ For users, remain cautious when encountering mixed content warnings. Don't bypas
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Web Storage Limits Explained](/articles/chrome-web-storage-limits-explained)
+- [Chrome Slow on MacBook Pro M1? Here's How to Fix It](/articles/chrome-slow-on-macbook-pro-m1)
+- [Chrome Large Font Easy to Read Setup](/articles/chrome-large-font-easy-to-read-setup)

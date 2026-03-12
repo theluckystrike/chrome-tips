@@ -149,6 +149,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Enhanced Safe Browsing Guide](/chrome-enhanced-safe-browsing)
-* [Chrome Scrolling Lag Fix](/chrome-scrolling-lag-fix)
-* [chrome eye dropper api pick color anywhere](/chrome-eye-dropper-api-pick-color-anywhere)
+- [Chrome for Music Discovery Extensions](/articles/chrome-for-music-discovery-extensions)
+- [How to Inspect CSS Animations and Transitions in Chrome DevTools](/articles/chrome-animations-panel-inspect-transitions)
+- [Chrome Best Settings For Slow Internet](/articles/chrome-best-settings-for-slow-internet)

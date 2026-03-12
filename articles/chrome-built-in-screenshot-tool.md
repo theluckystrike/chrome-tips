@@ -147,6 +147,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome WebGL Crashing My Browser](/chrome-webgl-crashing-my-browser)
-* [chrome for youtube music web tips](/chrome-for-youtube-music-web-tips)
-* [chrome for color picker extensions](/chrome-for-color-picker-extensions)
+- [Chrome Coupon Finder Built In Feature](/articles/chrome-coupon-finder-built-in-feature)
+- [Chrome vs Firefox Memory Usage Test 2026](/articles/chrome-vs-firefox-memory-usage-test-2026)
+- [chrome proxy settings how to configure](/articles/chrome-proxy-settings-how-to-configure)

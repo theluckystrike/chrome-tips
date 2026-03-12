@@ -70,6 +70,7 @@ The good news is that you can experiment with both and see which one feels bette
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Reset vs Reinstall: Which Is Better?](/chrome-reset-vs-reinstall-which-is-better)
-- [Chrome vs Vivaldi: Which Is More Customizable](/chrome-vs-vivaldi-which-is-more-customizable)
-- [Chrome Multiple Windows vs Tabs Which Is Better](/chrome-multiple-windows-vs-tabs-which-is-better)
+
+- [chrome first party vs third party cookies](/articles/chrome-first-party-vs-third-party-cookies)
+- [chrome extensions for youtubers 2026](/articles/chrome-extensions-for-youtubers-2026)
+- [chrome browser process vs tab process explained](/articles/chrome-browser-process-vs-tab-process-explained)

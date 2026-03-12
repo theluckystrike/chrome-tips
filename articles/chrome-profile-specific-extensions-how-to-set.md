@@ -63,3 +63,9 @@ Finally, remember that your needs might change over time. What works for you now
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Screen Capture API Guide](/articles/chrome-screen-capture-api)
+- [Chrome AI Writing Help Feature](/articles/chrome-ai-writing-help-feature)
+- [Chrome Extension Side Panel Tutorial](/articles/chrome-extension-side-panel-tutorial)

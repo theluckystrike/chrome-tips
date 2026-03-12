@@ -87,6 +87,7 @@ A few small adjustments to how you use Chrome can make a noticeable difference i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Rosetta Stone Web Tips](/chrome-for-rosetta-stone-web-tips)
-- [Chrome for Evernote Web Clipper Tips](/chrome-for-evernote-web-clipper-tips)
-- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)
+
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/articles/chrome-extensions-folder-location-files)
+- [Chrome Accessibility Features Guide: Everything You Need to Know](/articles/chrome-accessibility-features-guide)
+- [Chrome Ai Theme Generator How To Use](/articles/chrome-ai-theme-generator-how-to-use)

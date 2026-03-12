@@ -81,6 +81,7 @@ Remember that no single tool does everything perfectly. Many investors use a com
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
-- [Chrome for Resume Building Web Tools](/chrome-for-resume-building-web-tools)
-- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
+
+- [Chrome Badging API Explained](/articles/chrome-badging-api-explained)
+- [Chrome Extensions for Research Papers](/articles/chrome-extensions-for-research-papers)
+- [Chrome Session Restore Not Working Fix](/articles/chrome-session-restore-not-working-fix)

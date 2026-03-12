@@ -61,3 +61,9 @@ Using **Tab Suspender Pro** is an excellent way to balance **security** and **pe
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Auto Refresh Page](/articles/chrome-extensions-for-auto-refresh-page)
+- [Chrome Extensions That Steal Passwords Warning](/articles/chrome-extensions-that-steal-passwords-warning)
+- [Chrome Extensions for Reverse Video Search](/articles/chrome-extensions-for-reverse-video-search)

@@ -53,6 +53,7 @@ Remember that your needs may change over time. Revisit your new tab page setup e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
-- [Chrome Startup Page How to Set](/chrome-startup-page-how-to-set)
-- [How to Use Chrome Translate Page](/chrome-translate-page-how-to-use)
+
+- [Chrome Local Font Access API Explained](/articles/chrome-local-font-access-api-explained)
+- [Chrome Screenshot Full Page Without Extension](/articles/chrome-screenshot-full-page-without-extension)
+- [Chrome for Weather Dashboard Extensions](/articles/chrome-for-weather-dashboard-extensions)

@@ -73,6 +73,7 @@ Give it a try if you have not already. Once everyone has their own profile, you 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Lagging on 4GB RAM Computer](/chrome-lagging-on-4gb-ram-computer)
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
-- [Chrome Multiple Users Same Computer Setup](/chrome-multiple-users-same-computer-setup)
+
+- [Chrome for Roam Research Web Tips](/articles/chrome-for-roam-research-web-tips)
+- [chrome web share target api explained](/articles/chrome-web-share-target-api-explained)
+- [Chrome Custom Search Engines Guide](/articles/chrome-search-engines-custom)

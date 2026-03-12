@@ -84,6 +84,7 @@ Managing your tabs effectively goes a long way in preventing network issues. Con
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Throttle Network Speed in Chrome](/chrome-throttle-network-speed-how-to)
-- [Chrome Flags Reset How to Undo Changes](/chrome-flags-reset-how-to-undo-changes)
-- [Chrome PDF Settings Print to PDF How to](/chrome-pdf-settings-print-to-pdf-how-to)
+
+- [Best Privacy Settings For Chrome 2026](/articles/best-privacy-settings-for-chrome-2026)
+- [Chrome Memory Saver Feature Explained](/articles/chrome-memory-saver-feature-explained)
+- [Chrome Extensions for Tab Notes](/articles/chrome-extensions-for-tab-notes)

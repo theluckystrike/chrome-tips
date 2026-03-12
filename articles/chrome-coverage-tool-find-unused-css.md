@@ -70,4 +70,11 @@ For additional performance improvements, consider using extensions like Tab Susp
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*
+
+### Related Articles
+- [Chrome Coverage Tool Find Unused Javascript](/chrome-coverage-tool-find-unused-javascript)
+- [Chrome Coverage Tool Guide](/chrome-coverage-tool-guide)
+- [Chrome Devtools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

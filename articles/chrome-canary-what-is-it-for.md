@@ -61,3 +61,9 @@ Chrome Canary is Google's way of letting users preview the future of Chrome. It 
 If you are curious about what Google is building next for Chrome, downloading Canary and playing around with it might be worth your while. Just remember to keep your expectations realistic and do not rely on it for critical tasks.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
+- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
+- [Chrome For Tor Browsing Is It Possible](/chrome-for-tor-browsing-is-it-possible)

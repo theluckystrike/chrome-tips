@@ -77,3 +77,9 @@ Additionally, coupon codes found through browser extensions may not always be th
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Address Bar Autocomplete Disable](/chrome-address-bar-autocomplete-disable)
+- [Chrome Address Bar Autocomplete How To Clear](/chrome-address-bar-autocomplete-how-to-clear)
+- [Chrome Address Bar Commands You Didnt Know](/chrome-address-bar-commands-you-didnt-know)

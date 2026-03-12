@@ -67,3 +67,9 @@ The key is finding an extension or combination of methods that works for your sp
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Cookie Consent Popups How To Auto Accept](/chrome-cookie-consent-popups-how-to-auto-accept)
+- [Chrome Cookie Consent Popups How To Handle](/chrome-cookie-consent-popups-how-to-handle)
+- [Chrome Allow Popups For One Site How To](/chrome-allow-popups-for-one-site-how-to)

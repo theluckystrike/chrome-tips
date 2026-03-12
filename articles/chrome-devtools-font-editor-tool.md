@@ -77,3 +77,9 @@ Remember that all changes are temporary, so feel free to experiment freely. Ther
 The chrome devtools font editor tool is a powerful feature that many users do not know about. Whether you are a web developer testing font changes, a designer showing clients different options, or just a regular user who wants to make a website more readable, this tool has something to offer. It is built into Chrome, free to use, and ready to help you explore the world of web typography.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Font Editor In Devtools Explained](/chrome-font-editor-in-devtools-explained)
+- [Chrome Devtools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
+- [Chrome Built In Screenshot Tool](/chrome-built-in-screenshot-tool)

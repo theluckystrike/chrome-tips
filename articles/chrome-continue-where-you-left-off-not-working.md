@@ -89,3 +89,9 @@ Chrome continue where you left off not working is frustrating, but it is usually
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+- [Chrome Autofill Not Working Fix](/chrome-autofill-not-working-fix)
+- [Chrome Back Button Not Working Fix](/chrome-back-button-not-working-fix)

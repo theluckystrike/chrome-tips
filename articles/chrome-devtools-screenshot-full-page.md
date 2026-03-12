@@ -69,3 +69,9 @@ For the best of both worlds, consider using a combination of methods. Take a scr
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Screenshot Capture Devtools Full Page](/chrome-screenshot-capture-devtools-full-page)
+- [Chrome Extensions For Screenshot Full Page](/chrome-extensions-for-screenshot-full-page)
+- [Chrome Screenshot Full Page Without Extension](/chrome-screenshot-full-page-without-extension)

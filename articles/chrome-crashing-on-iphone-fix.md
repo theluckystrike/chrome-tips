@@ -89,3 +89,9 @@ Chrome crashing on your iPhone is annoying, but it is usually fixable with some 
 Remember that keeping your apps updated, managing your open tabs, and maintaining free storage space on your iPhone go a long way in preventing future crashes. With these fixes, you should be able to get Chrome running smoothly again and browse the web without interruptions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Crashing On Low Memory Computer](/chrome-crashing-on-low-memory-computer)
+- [Chrome Crashing On Samsung Galaxy Phone](/chrome-crashing-on-samsung-galaxy-phone)
+- [Chrome Font Too Small On Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)

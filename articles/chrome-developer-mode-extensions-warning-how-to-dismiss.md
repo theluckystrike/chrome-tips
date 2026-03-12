@@ -63,3 +63,9 @@ The developer mode warning, while annoying, is ultimately there to help you make
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
+- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)
+- [Chrome Compact Mode How To Enable](/chrome-compact-mode-how-to-enable)

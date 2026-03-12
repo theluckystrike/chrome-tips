@@ -61,3 +61,9 @@ Consider trying Tab Suspender Pro if you frequently keep many tabs open. This ex
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Devtools Rendering Tab Explained](/chrome-devtools-rendering-tab-explained)
+- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
+- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)

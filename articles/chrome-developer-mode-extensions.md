@@ -196,4 +196,11 @@ Chrome Developer Mode is an essential tool for anyone interested in building, te
 Remember to follow best practices such as keeping your development environment separate, reviewing code before loading it, and disabling Developer Mode when not in use. With these skills and precautions, you are well on your way to mastering Chrome extension development.
 >>>>>>> consumer/a3-chrome-developer-mode-extensions
 
+
+
+### Related Articles
+- [Chrome Developer Mode Extensions Warning How To Dismiss](/chrome-developer-mode-extensions-warning-how-to-dismiss)
+- [Chrome Extensions Developer Mode](/chrome-extensions-developer-mode)
+- [Chrome Colorblind Mode Extensions](/chrome-colorblind-mode-extensions)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

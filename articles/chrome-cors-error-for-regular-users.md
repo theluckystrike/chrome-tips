@@ -77,3 +77,9 @@ Also, remember that CORS errors are usually not your fault. They typically happe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Performance Panel For Regular Users](/chrome-performance-panel-for-regular-users)
+- [Chrome Webauthn Explained For Regular Users](/chrome-webauthn-explained-for-regular-users)
+- [Best Chrome Extensions For Reddit Users](/best-chrome-extensions-for-reddit-users)

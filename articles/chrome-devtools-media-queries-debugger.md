@@ -79,3 +79,9 @@ Debugging media queries does not have to be a painful process. Chrome DevTools p
 Remember to check for overlapping ranges in your media queries, make sure you are targeting the right properties, and keep your CSS properly ordered. With these techniques and the tools built into Chrome, you will be able to debug media queries more efficiently and create better responsive designs.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Devtools Flexbox Debugger](/chrome-devtools-flexbox-debugger)
+- [Chrome Devtools Webauthn Debugger](/chrome-devtools-webauthn-debugger)
+- [Best Chrome Extensions For Social Media](/best-chrome-extensions-for-social-media)

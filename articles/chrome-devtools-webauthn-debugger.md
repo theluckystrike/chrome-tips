@@ -84,3 +84,9 @@ For users who want a smoother experience, extensions like Tab Suspender Pro can 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Devtools Flexbox Debugger](/chrome-devtools-flexbox-debugger)
+- [Chrome Devtools Media Queries Debugger](/chrome-devtools-media-queries-debugger)
+- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)

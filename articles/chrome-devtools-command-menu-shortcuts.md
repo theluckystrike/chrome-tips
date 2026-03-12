@@ -75,3 +75,9 @@ The command menu in Chrome DevTools is a gateway to becoming a more productive d
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
+- [Chrome Address Bar Shortcuts You Didnt Know](/chrome-address-bar-shortcuts-you-didnt-know)
+- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)

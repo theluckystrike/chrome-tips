@@ -80,3 +80,8 @@ Remember that the most important thing is having a tool you actually use. An ext
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)

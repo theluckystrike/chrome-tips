@@ -75,3 +75,8 @@ Changing how Chrome handles files is really about understanding your operating s
 Take a moment to review your current defaults and make sure they match what you actually use. A few minutes of adjustment now can save a lot of frustration every time you click on a file link in Chrome.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
+- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)

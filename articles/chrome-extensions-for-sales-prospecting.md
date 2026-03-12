@@ -75,3 +75,8 @@ Take some time to learn the features of each extension you install. Most offer t
 The right combination of extensions can transform your prospecting workflow from overwhelming to efficient. You will spend less time on research and more time actually selling, which is exactly what every sales professional needs.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)

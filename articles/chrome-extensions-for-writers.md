@@ -202,4 +202,10 @@ Each of these extensions addresses specific challenges that writers face, and to
 The best approach is to start with one or two extensions that address your most pressing needs, then gradually add more tools as you develop routines that incorporate them effectively. With the right combination of extensions, your Chrome browser can become a writing environment that supports and enhances your creative efforts.
 >>>>>>> consumer/a62-chrome-extensions-for-writers
 
+## Related Articles
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+- [Chrome Extensions for Writers and Bloggers](/chrome-extensions-for-writers-and-bloggers)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -88,3 +88,8 @@ Finally, be patient with yourself. Building new habits takes time, and setbacks 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
+- [Chrome for Website Monitoring Extensions](/chrome-for-website-monitoring-extensions)
+- [Chrome For Distraction Blocking Extensions](/chrome-for-distraction-blocking-extensions)

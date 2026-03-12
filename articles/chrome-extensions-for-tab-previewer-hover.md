@@ -66,3 +66,8 @@ The right tab preview extension depends on how you use Chrome and how many tabs 
 Most of these extensions offer free versions with basic features, so you can test a few to see which interface feels most natural to you. The goal is to spend less time searching for tabs and more time actually getting work done.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Weather Forecast New Tab](/chrome-extensions-for-weather-forecast-new-tab)
+- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
+- [Chrome Extensions for Tab Notes](/chrome-extensions-for-tab-notes)

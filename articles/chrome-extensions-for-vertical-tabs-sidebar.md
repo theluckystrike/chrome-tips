@@ -73,3 +73,8 @@ Most people find that after a short adjustment period, they prefer the vertical 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Tree Style Tabs](/chrome-extensions-for-tree-style-tabs)
+- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

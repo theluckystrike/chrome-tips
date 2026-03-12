@@ -102,3 +102,8 @@ Whatever you choose, being aware of the security implications helps you make inf
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Autofill Credit Card How to Remove](/chrome-autofill-credit-card-how-to-remove)

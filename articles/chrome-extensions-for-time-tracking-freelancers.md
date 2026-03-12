@@ -80,3 +80,8 @@ Finally, be honest with yourself and your clients about your tracking process. I
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome for Cryptocurrency Tracking Extensions](/chrome-for-cryptocurrency-tracking-extensions)
+- [Chrome Extensions for Translation Real Time](/chrome-extensions-for-translation-real-time)
+- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)

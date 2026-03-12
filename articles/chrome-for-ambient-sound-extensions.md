@@ -85,3 +85,8 @@ Take some time to experiment with different sounds and find what works for you. 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)

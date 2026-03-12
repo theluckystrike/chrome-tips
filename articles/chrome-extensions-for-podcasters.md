@@ -79,3 +79,8 @@ Once you find the right set of tools, you will notice significant improvements i
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)

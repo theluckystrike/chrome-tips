@@ -132,3 +132,8 @@ Whatever approach you choose, you do not have to give up access to your notes ju
 >>>>>>> consumer/a54-chrome-for-apple-notes-in-browser-workaround
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
+- [Chrome for Note Taking in Browser Extensions](/chrome-for-note-taking-in-browser-extensions)
+- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)

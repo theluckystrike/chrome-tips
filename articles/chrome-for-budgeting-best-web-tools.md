@@ -73,3 +73,8 @@ Remember that Chrome for budgeting is a journey, not a destination. As you becom
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)
+- [Chrome for Quizlet Web App Best Settings](/chrome-for-quizlet-web-app-best-settings)

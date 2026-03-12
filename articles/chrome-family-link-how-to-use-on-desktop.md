@@ -100,3 +100,8 @@ Finally, lead by example. Show your children how you use technology responsibly 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Voice Search How To Use On Desktop](/chrome-voice-search-how-to-use-on-desktop)
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)
+- [Chrome Tab Groups on Phone How to Use](/chrome-tab-groups-on-phone-how-to-use)

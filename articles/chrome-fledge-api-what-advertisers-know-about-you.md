@@ -72,3 +72,8 @@ Take some time to review your Chrome settings and decide what level of tracking 
 Your browsing privacy matters, and taking a few minutes to understand and adjust these settings can make a significant difference in how much information advertisers can access about you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Address Bar Commands You Didnt Know](/chrome-address-bar-commands-you-didnt-know)
+- [Chrome Accessibility Features You Didn't Know About](/chrome-accessibility-features-you-didnt-know-about)
+- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)

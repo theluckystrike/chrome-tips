@@ -72,3 +72,8 @@ Finding the right chrome extensions for whatfont alternative can significantly i
 Take some time to try a few different extensions to find the one that works best for your needs. With the right tool installed, you can identify fonts on any website quickly and easily, opening up a world of typography knowledge at your fingertips.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome Extensions for iMacros Alternative](/chrome-extensions-for-imacros-alternative)
+- [Chrome Extensions For Privacy Badger Alternative](/chrome-extensions-for-privacy-badger-alternative)

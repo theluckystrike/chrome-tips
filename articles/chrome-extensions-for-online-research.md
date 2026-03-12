@@ -70,4 +70,10 @@ The best chrome extensions for online research share a common goal: reducing fri
 
 The key is to start with one or two extensions that match your biggest challenge and add more as needed. Research should be about discovering and synthesizing information, not fighting with your browser.
 
+## Related Articles
+- [Best Chrome Extensions for Saving Money Online](/best-chrome-extensions-for-saving-money-online)
+- [Chrome Extensions for Organizing Research](/chrome-extensions-for-organizing-research)
+- [Chrome for SEO Keyword Research Extensions](/chrome-for-seo-keyword-research-extensions)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

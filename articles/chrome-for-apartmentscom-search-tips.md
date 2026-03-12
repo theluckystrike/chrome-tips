@@ -34,3 +34,8 @@ Finding the right apartment takes time, but using Chrome smartly can make the pr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
+- [Chrome for Private Browsing Tips Beyond Incognito](/chrome-for-private-browsing-tips-beyond-incognito)
+- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)

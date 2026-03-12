@@ -76,3 +76,8 @@ Remember that the goal of using extensions is to free up your time for the work 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)

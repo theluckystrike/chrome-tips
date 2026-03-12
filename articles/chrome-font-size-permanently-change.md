@@ -101,4 +101,10 @@ Remember that accessibility matters—don't struggle with tiny text when Chrome 
 
 ---
 
+## Related Articles
+- [Chrome Extensions For Font Changing](/chrome-extensions-for-font-changing)
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

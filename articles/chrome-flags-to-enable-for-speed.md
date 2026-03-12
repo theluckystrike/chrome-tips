@@ -58,3 +58,8 @@ Getting the most out of Chrome for speed does not require you to become a techni
 If you have been struggling with a slow Chrome browser, try these suggestions and see the difference for yourself. A faster browser means less waiting and more doing, whether you are working, browsing for fun, or anything in between.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
+- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)

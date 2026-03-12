@@ -98,3 +98,8 @@ The good news is that you can try different extensions and see which one fits yo
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Extensions for Grammar Check Free Alternative](/chrome-extensions-for-grammar-check-free-alternative)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [Chrome Extensions for SEO Analysis Free](/chrome-extensions-for-seo-analysis-free)

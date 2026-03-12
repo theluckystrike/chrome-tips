@@ -86,3 +86,8 @@ If you are building a website and find yourself constantly fixing flexbox issues
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+- [Chrome Sensors Emulation How to Use](/chrome-sensors-emulation-how-to-use)

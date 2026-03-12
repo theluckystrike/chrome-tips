@@ -64,3 +64,8 @@ Now that you know how to use chrome floating video window, you can start enjoyin
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+- [Chrome Sensors Emulation How to Use](/chrome-sensors-emulation-how-to-use)
+- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)

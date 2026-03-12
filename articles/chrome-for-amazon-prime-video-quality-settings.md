@@ -86,3 +86,8 @@ Getting the best quality from Amazon Prime Video in Chrome is a combination of c
 Everyone's setup is different, so you might need to experiment with a few of these recommendations to find what works best for your situation. The good news is that with a little attention to these details, you can significantly improve your Prime Video streaming experience in Chrome.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Zoom in Browser Best Settings](/chrome-for-zoom-in-browser-best-settings)
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [Chrome for Proxy Settings How to Configure](/chrome-for-proxy-settings-how-to-configure)

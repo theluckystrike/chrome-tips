@@ -80,4 +80,10 @@ Be selective about how many extensions you install. Each extension adds to Chrom
 
 Remember that your browser is your primary workspace as a social media manager. Keeping it organized, fast, and equipped with the right tools directly impacts your ability to deliver great results for your clients or brand.
 
+## Related Articles
+- [Best Chrome Extensions for Project Managers](/best-chrome-extensions-for-project-managers)
+- [Chrome for Hiding Social Media Feeds](/chrome-for-hiding-social-media-feeds)
+- [Chrome Extension for Blocking Social Media During Work](/chrome-extension-for-blocking-social-media-during-work)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

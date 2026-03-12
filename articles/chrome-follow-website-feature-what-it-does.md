@@ -59,3 +59,8 @@ The best approach to following websites in Chrome depends on how you like to con
 Think about how you actually browse and what will fit into your routine. The most sophisticated system will not help if you forget to use it. Choose the method that matches your habits and sticking with it will be much easier.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Webview on Android What It Does](/chrome-webview-on-android-what-it-does)
+- [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)
+- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)

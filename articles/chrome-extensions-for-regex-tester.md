@@ -78,3 +78,8 @@ Remember that becoming comfortable with regex takes practice, and having the rig
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)

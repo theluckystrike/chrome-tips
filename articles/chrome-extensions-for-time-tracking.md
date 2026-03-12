@@ -84,3 +84,8 @@ If you bill clients for your time, look for an extension that generates detailed
 Remember that the best time tracking extension is the one you will actually use. Start with a simple option that fits naturally into your workflow, and you will be more likely to stick with it over time.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Stock Market Tracking Extensions](/chrome-for-stock-market-tracking-extensions)
+- [Chrome Extensions for Fitness Tracking Dashboard](/chrome-extensions-for-fitness-tracking-dashboard)
+- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)

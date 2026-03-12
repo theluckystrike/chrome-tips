@@ -114,4 +114,10 @@ Your old computer doesn't have to feel slow anymore. A few simple changes can gi
 
 ---
 
+## Related Articles
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [Chrome Do Not Track: Does It Actually Work](/chrome-do-not-track-does-it-actually-work)
+- [Chrome Dark Reader Extension Worth It](/chrome-dark-reader-extension-worth-it)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

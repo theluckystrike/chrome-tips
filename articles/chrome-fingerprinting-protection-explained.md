@@ -71,3 +71,8 @@ Protecting yourself from fingerprinting is an ongoing process. New tracking tech
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)

@@ -77,3 +77,8 @@ Pay attention to how different extensions affect your browser performance. If yo
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

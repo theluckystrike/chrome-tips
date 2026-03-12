@@ -1,23 +1,10 @@
 ---
 layout: default
-title: Chrome Payment Request API Guide
-description: Learn how Chrome Payment Request API enables seamless digital wallet
-  payments, Google Pay integration, shipping options, and secure payment methods in
-  modern...
-date: '2026-03-11'
-last_modified_at: '2026-03-11'
-permalink: chrome-payment-request-api
-categories:
-- chrome
-- api
-- payment
-- digital-wallet
-tags:
-- chrome-payment-request
-- google-pay
-- digital-wallet
-- payment-api
-- web-payments
+title: "Chrome Payment Request API Guide"
+description: "Learn how Chrome Payment Request API enables seamless digital wallet payments, Google Pay integration, shipping options, and secure payment methods in modern web browsers."
+date: 2026-01-15
+categories: [chrome, api, payment, digital-wallet]
+tags: [chrome-payment-request, google-pay, digital-wallet, payment-api, web-payments]
 author: theluckystrike
 ---
 # Chrome Payment Request API Guide
@@ -135,10 +122,5 @@ Chrome's Payment Request API has fundamentally changed how we think about online
 The security features built into the API, including tokenization, explicit user confirmation, and integration with Google's broader security infrastructure, provide robust protection against fraud and unauthorized charges. Meanwhile, the straightforward implementation process makes it accessible for developers of all experience levels to add to their websites.
 
 As payment technology continues to evolve, the Payment Request API will undoubtedly play an increasingly important role in how we complete online purchases. Whether you're a user looking to understand how your browser handles payments or a developer building the next generation of e-commerce experiences, understanding this API provides valuable insight into the future of web-based commerce.
-
-## Related Articles
-* [Chrome Extensions for Tree Style Tabs](/articles/chrome-extensions-for-tree-style-tabs/)
-* [chrome for screenshot and annotation tools](/articles/chrome-for-screenshot-and-annotation-tools/)
-* [Chrome Virtual Keyboard API for Mobile - Complete Guide](/articles/chrome-virtual-keyboard-api-mobile/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

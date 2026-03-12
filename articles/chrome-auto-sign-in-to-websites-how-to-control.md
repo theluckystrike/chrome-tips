@@ -75,6 +75,7 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 ## Related Articles
-- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
-- [Chrome Font Too Small on Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
-- [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
+
+- [Chrome Extensions for Google Classroom](/articles/chrome-extensions-for-google-classroom/)
+- [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use/)
+- [Chrome Extensions For Cover Letter Writing](/articles//articles/chrome-extensions-for-cover-letter-writing//)

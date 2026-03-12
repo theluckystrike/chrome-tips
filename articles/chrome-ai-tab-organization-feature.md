@@ -78,3 +78,10 @@ Chrome AI tab organization feature is a useful addition to the browser that addr
 - [Chrome for Tab Organization Workflow](/chrome-for-tab-organization-workflow)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Privacy Error Your Connection Is Not Private Fix](/articles/chrome-privacy-error-your-connection-is-not-private-fix/)
+- [Chrome Extensions for Virtual Whiteboard](/articles/chrome-extensions-for-virtual-whiteboard/)
+- [Chrome Resource Timing API Explained](/articles/chrome-resource-timing-api-explained/)

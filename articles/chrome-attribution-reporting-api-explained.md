@@ -66,6 +66,7 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 ## Related Articles
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-- [Chrome Attribution Reporting Guide](/chrome-attribution-reporting)
+
+- [Chrome Permissions on Startup How to Configure](/articles/chrome-permissions-on-startup-how-to-configure/)
+- [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/articles/chrome-devtools-sensors-tab-geolocation/)
+- [Chrome Service Worker Caching Strategies](/articles/chrome-service-worker-caching-strategies/)

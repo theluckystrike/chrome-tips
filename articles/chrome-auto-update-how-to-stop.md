@@ -73,6 +73,7 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 ## Related Articles
-- [How to Disable Chrome Auto Update on Windows](/chrome-auto-update-disable-windows-guide)
-- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
-- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
+
+- [Chrome for Snapchat Web Tips](/articles/chrome-for-snapchat-web-tips/)
+- [chrome enable parallel downloading](/articles/chrome-enable-parallel-downloading/)
+- [Chrome Side Panel Features Guide](/articles/chrome-side-panel-features-guide/)

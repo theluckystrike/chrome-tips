@@ -147,3 +147,10 @@ By keeping your browser and system updated and being mindful of how extensions a
 - [chrome not playing youtube videos fix](/chrome-not-playing-youtube-videos-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome IP Protection: How to Hide Your IP Address in Chrome](/articles/chrome-ip-protection-hide-ip-address/)
+- [chrome site notifications stop all](/articles/chrome-site-notifications-stop-all/)
+- [Chrome Ai Theme Generator How To Use](/articles/chrome-ai-theme-generator-how-to-use/)

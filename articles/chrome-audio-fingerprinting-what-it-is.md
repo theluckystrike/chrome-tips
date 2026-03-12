@@ -81,6 +81,7 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 ## Related Articles
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
-- [chrome fingerprinting protection explained](/chrome-fingerprinting-protection-explained)
-- [Chrome Audio Equalizer Extension](/chrome-audio-equalizer-extension)
+
+- [Chrome Send Feedback to Google How to](/articles/chrome-send-feedback-to-google-how-to/)
+- [Chrome Extensions for Virtual Whiteboard](/articles/chrome-extensions-for-virtual-whiteboard/)
+- [Chrome Version History: Major Milestones That Shaped the Browser](/articles/chrome-version-history-major-milestones/)

@@ -72,3 +72,10 @@ Your phone is supposed to make your life easier, not add another thing to worry 
 - [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Translate Not Working? Here's How to Fix It](/articles/chrome-translate-not-working-fix/)
+- [Chrome Layer Cascade CSS: A Complete Guide to Modern Style Management](/articles/chrome-layer-cascade-css/)
+- [chrome offline pages on phone how to save](/articles/chrome-offline-pages-on-phone-how-to-save/)

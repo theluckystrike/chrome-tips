@@ -95,3 +95,10 @@ Give dark mode a try for a few days to see if it works for you. You can always s
 - [Chrome Dark Mode on Phone How to Enable](/chrome-dark-mode-on-phone-how-to-enable)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extension for Tracking Time Spent on Websites](/articles/chrome-extension-for-tracking-time-spent-on-websites/)
+- [Chrome Using 8GB RAM Fix](/articles/chrome-using-8gb-ram-fix/)
+- [How to Route Chrome Tab Audio to Separate Speakers](/articles/chrome-tab-audio-routing-separate-speakers/)

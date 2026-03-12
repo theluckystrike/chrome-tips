@@ -77,3 +77,10 @@ Give it a try on a few of your favorite websites and see what differences you no
 - [Chrome Reader Mode on Phone: How to Enable](/chrome-reader-mode-on-phone-how-to-enable)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out/)
+- [Chrome Extensions for Pocket Alternative](/articles/chrome-extensions-for-pocket-alternative/)
+- [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings/)

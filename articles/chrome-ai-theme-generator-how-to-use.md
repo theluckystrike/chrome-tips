@@ -93,3 +93,10 @@ For those interested in deeper customization, Chrome Web Store offers numerous t
 - [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut/)
+- [chrome voice control navigate by speaking](/articles/chrome-voice-control-navigate-by-speaking/)
+- [Chrome Web and App Activity How to Delete](/articles/chrome-web-and-app-activity-how-to-delete/)

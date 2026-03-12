@@ -98,6 +98,7 @@ As browser support continues to expand, learning to work with chrome anchor posi
 
 
 ## Related Articles
-- [Chrome Anchor Positioning API Explained](/chrome-anchor-positioning-api-explained)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-- [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)
+
+- [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix/)
+- [Chrome Slow After Hibernation Fix](/articles/chrome-slow-after-hibernation-fix/)
+- [Chrome for Zoom Classes Optimization](/articles/chrome-for-zoom-classes-optimization/)

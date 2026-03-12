@@ -79,6 +79,7 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 ## Related Articles
-- [Chrome Attribution Reporting Guide](/chrome-attribution-reporting)
-- [Chrome V8 Engine What It Means for Users](/chrome-v8-engine-what-it-means-for-users)
-- [Chrome Attribution Reporting API Explained](/chrome-attribution-reporting-api-explained)
+
+- [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes/)
+- [Chrome for Canva Web App Optimization](/articles/chrome-for-canva-web-app-optimization/)
+- [chrome for onenote web clipper setup](/articles/chrome-for-onenote-web-clipper-setup/)

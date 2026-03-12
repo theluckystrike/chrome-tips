@@ -85,3 +85,10 @@ Chrome is constantly adding new features and gestures, so it is worth checking t
 - [Chrome Address Bar Shortcuts You Didn't Know](/chrome-address-bar-shortcuts-you-didnt-know)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome for Google Docs Offline Setup](/articles/chrome-for-google-docs-offline-setup/)
+- [Chrome for Bibliography Management Extensions](/articles/chrome-for-bibliography-management-extensions/)
+- [Chrome Touchpad Gestures Not Working Fix](/articles/chrome-touchpad-gestures-not-working-fix/)

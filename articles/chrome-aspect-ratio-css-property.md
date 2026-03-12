@@ -73,6 +73,7 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 ## Related Articles
-- [Chrome Gap Property CSS Flexbox Grid](/chrome-gap-property-css-flexbox-grid)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
-- [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)
+
+- [Chrome Notification Sound How to Change](/articles/chrome-notification-sound-how-to-change/)
+- [How to Fix Chrome ERR_NAME_NOT_RESOLVED Error](/articles/chrome-err-name-not-resolved-fix/)
+- [Chrome Array Groupby New Method](/articles/chrome-array-groupby-new-method/)

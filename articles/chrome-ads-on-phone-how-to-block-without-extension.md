@@ -79,6 +79,7 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 ## Related Articles
-- [How to Block Ads on Chrome Without Extension](/how-to-block-ads-on-chrome-without-extension)
-- [Chrome Pop Ups on Phone How to Block](/chrome-pop-ups-on-phone-how-to-block)
-- [How to Block Ads on Chrome Android](/how-to-block-ads-on-chrome-android)
+
+- [Chrome Preload Pages Setting Explained](/articles/chrome-preload-pages-setting-explained/)
+- [Chrome Ai Features Built In 2026](/articles/chrome-ai-features-built-in-2026/)
+- [How to Restore Closed Tabs in Chrome](/articles/chrome-restore-closed-tabs-guide/)

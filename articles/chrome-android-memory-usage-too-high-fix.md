@@ -95,3 +95,10 @@ High memory usage on Chrome for Android is a common problem, but it is one you c
 - [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions for Reading List Manager](/articles/chrome-extensions-for-reading-list-manager/)
+- [Chrome Extensions for URL Shortener](/articles/chrome-extensions-for-url-shortener/)
+- [Chrome for Jira Best Extensions](/articles/chrome-for-jira-best-extensions/)

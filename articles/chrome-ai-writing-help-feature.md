@@ -86,3 +86,10 @@ Remember that these tools are designed to support you, not to do all the work fo
 - [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Sidebar Bookmarks How to Enable](/articles/chrome-sidebar-bookmarks-how-to-enable/)
+- [Chrome WebRTC Leak Test and Fix Guide](/articles/chrome-webrtc-leak-test-and-fix-guide/)
+- [Chrome Origin Trials What They Are](/articles/chrome-origin-trials-what-they-are/)

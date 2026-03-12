@@ -79,3 +79,10 @@ Remember that you can always adjust these settings later as your needs or prefer
 - [chrome voice search how to use](/chrome-voice-search-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions For Canvas Fingerprint Blocker](/articles//articles/chrome-extensions-for-canvas-fingerprint-blocker//)
+- [Chrome Font Editor in DevTools Explained](/articles/chrome-font-editor-in-devtools-explained/)
+- [Chrome Download Manager Best Extension](/articles/chrome-download-manager-best-extension/)

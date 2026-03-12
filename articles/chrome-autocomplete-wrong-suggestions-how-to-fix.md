@@ -105,6 +105,7 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 ## Related Articles
-- [Chrome Spell Check Wrong Language Fix](/chrome-spell-check-wrong-language-fix)
-- [Chrome Autofill Wrong Address How to Fix](/chrome-autofill-wrong-address-how-to-fix)
-- [Chrome Redirecting to Wrong Pages Fix](/chrome-redirecting-to-wrong-pages-fix)
+
+- [Chrome for Quick Commands Feature](/articles/chrome-for-quick-commands-feature/)
+- [Chrome Hardware Acceleration Guide](/articles/chrome-hardware-acceleration-guide/)
+- [Chrome Default Download Location How to Change](/articles//chrome-default-download-location-how-to-change//)

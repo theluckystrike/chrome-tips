@@ -77,6 +77,7 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 ## Related Articles
-- [Chrome for Autofill Credit Card Safety](/chrome-for-autofill-credit-card-safety)
-- [chrome web otp autofill sms](/chrome-web-otp-autofill-sms)
-- [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/chrome-autofill-wrong-address-keeps-appearing)
+
+- [Chrome Extensions for Quick Notes Sidebar](/articles/chrome-extensions-for-quick-notes-sidebar/)
+- [Chrome Android Flags Best Settings 2026](/articles/chrome-android-flags-best-settings-2026/)
+- [Chrome for Descript Web App Optimization](/articles/chrome-for-descript-web-app-optimization/)

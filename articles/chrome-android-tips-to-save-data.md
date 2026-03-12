@@ -92,3 +92,10 @@ Chrome also shows data saved through Data Saver in the settings menu. Checking t
 - [Chrome on Android — Tips and Tricks for 2026](/chrome-on-android-tips-and-tricks-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [How to Move Chrome Tabs Between Windows Easily](/articles/how-to-move-chrome-tabs-between-windows-easily/)
+- [chrome site isolation what it does](/articles/chrome-site-isolation-what-it-does/)
+- [Mastering CSS Subgrid: Align Rows and Columns in Chrome](/articles/chrome-css-subgrid-rows-columns/)

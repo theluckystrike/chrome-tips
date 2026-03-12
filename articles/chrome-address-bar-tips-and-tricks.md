@@ -84,6 +84,7 @@ These chrome address bar tips and tricks take just a few minutes to learn but ca
 
 
 ## Related Articles
-- [Chrome for Address Bar Shortcuts Tips](/chrome-for-address-bar-shortcuts-tips)
-- [chrome bookmark bar tips and tricks](/chrome-bookmark-bar-tips-and-tricks)
-- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+
+- [Chrome Keyboard Navigation Tips](/articles/chrome-keyboard-navigation-tips/)
+- [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/articles/chrome-your-computer-is-infected-popup-fix/)
+- [Chrome Extensions for News Aggregator](/articles/chrome-extensions-for-news-aggregator/)

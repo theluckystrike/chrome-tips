@@ -73,3 +73,10 @@ If AirPlay is essential for your daily workflow, using Safari on a Mac or invest
 - [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome MotionMark Graphics Benchmark](/articles/chrome-motionmark-graphics-benchmark/)
+- [chrome prefetch and preconnect explained](/articles/chrome-prefetch-and-preconnect-explained/)
+- [Chrome Lost All My Tabs After Update Fix](/articles/chrome-lost-all-my-tabs-update-fix/)

@@ -96,6 +96,7 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 ## Related Articles
-- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
-- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+
+- [Should I Switch to Firefox for Less RAM? A Practical Guide](/articles/should-i-switch-to-firefox-for-less-ram/)
+- [chrome extensions for website distraction blocker](/articles/chrome-extensions-for-website-distraction-blocker/)
+- [How to Fix Chrome Search Bar Not Working](/articles/chrome-search-bar-not-working-fix/)

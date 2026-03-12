@@ -77,3 +77,10 @@ Tab Suspender Pro can help with this by automatically suspending tabs you are no
 - [Chrome Badging API Explained](/chrome-badging-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Startup Too Slow Diagnosis Guide](/articles/chrome-startup-too-slow-diagnosis-guide/)
+- ['Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser'](/articles/chrome-sanitizer-api-html-safe/)
+- [chrome offline google docs how to enable](/articles/chrome-offline-google-docs-how-to-enable/)

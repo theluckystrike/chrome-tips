@@ -77,3 +77,10 @@ For developers who manage many open tabs while working on complex projects, tool
 - [Chrome for Productivity Dashboard New Tab](/chrome-for-productivity-dashboard-new-tab)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extension for Color Picker from Any Webpage](/articles/chrome-extension-for-color-picker-from-any-webpage/)
+- [Chrome Extensions for Google Forms](/articles/chrome-extensions-for-google-forms/)
+- [Chrome Switch Between Windows Shortcut](/articles/chrome-switch-between-windows-shortcut/)

@@ -75,4 +75,10 @@ In the meantime, the extensions and approaches described here give you powerful 
 
 The key is understanding that standard Chrome search has limits. By recognizing this problem and seeking solutions, you gain back time that would otherwise be lost to fruitless searching.
 
+## Related Articles
+- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Custom Search Engines Guide](/chrome-search-engines-custom)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

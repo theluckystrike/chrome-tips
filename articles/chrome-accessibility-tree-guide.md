@@ -114,4 +114,10 @@ Accessibility is not an afterthought or a nice-to-have feature. It is a fundamen
 
 Start exploring the Accessibility Tree today on your own projects. Identify areas where semantic structure could be improved, where ARIA roles might clarify component purpose, or where contrast could be enhanced. Each improvement you make creates a more inclusive web experience for everyone.
 
+## Related Articles
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

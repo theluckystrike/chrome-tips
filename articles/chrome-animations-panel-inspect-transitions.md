@@ -117,4 +117,10 @@ While you're optimizing your animations, consider your overall browser performan
 
 Master the Animations panel, and you'll ship more polished, professional web experiences—all while spending less time troubleshooting animation issues.
 
+## Related Articles
+- [Chrome How to Inspect Element Beginners](/chrome-how-to-inspect-element-beginners)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [How to Inspect and Debug WebSocket Connections in Chrome](/chrome-websocket-inspect-debug)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

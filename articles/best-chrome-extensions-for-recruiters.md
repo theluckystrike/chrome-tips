@@ -82,3 +82,8 @@ If finding candidate contact information is your main challenge, try Hunter or S
 
 Once you build your ideal extension toolkit, you will wonder how you ever recruited without them. Small improvements in your daily workflow add up to significant time savings and better candidate experiences over time.
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+- [Best Chrome Extensions for Researchers](/best-chrome-extensions-for-researchers)
+- [Best Chrome Extensions for Real Estate Agents](/best-chrome-extensions-for-real-estate-agents)

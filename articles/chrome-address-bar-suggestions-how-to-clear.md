@@ -98,3 +98,8 @@ Whether you are trying to hide a specific site or simply want to clean up a clut
 
 ---
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [How to Clear Chrome Cache Fast](/how-to-clear-chrome-cache-fast)
+- [Chrome How to Clear DNS Cache](/chrome-how-to-clear-dns-cache)
+- [Chrome How to Clear Individual Site Data](/chrome-how-to-clear-individual-site-data)

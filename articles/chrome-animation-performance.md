@@ -143,4 +143,10 @@ Remember that optimization is a process. Start with the fundamentals, measure yo
 
 ---
 
+## Related Articles
+- [Chrome Offscreen Canvas Performance: A Complete Guide](/chrome-offscreen-canvas-performance)
+- [Chrome CSS Animations Performance Tips](/chrome-css-animations-performance-tips)
+- [Chrome Performance Observer API Explained](/chrome-performance-observer-api)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

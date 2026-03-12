@@ -91,4 +91,10 @@ While Chrome built-in accessibility features cover most common needs, some situa
 
 For users with significant visual impairments, dedicated screen reader apps and magnification tools available through your phone operating system can provide additional support beyond what Chrome offers.
 
+## Related Articles
+- [Chrome Crashing on Samsung Galaxy Phone](/chrome-crashing-on-samsung-galaxy-phone)
+- [Chrome Accessibility Features Guide: Everything You Need to Know](/chrome-accessibility-features-guide)
+- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

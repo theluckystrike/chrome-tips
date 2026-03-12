@@ -81,4 +81,10 @@ Getting more out of Chrome on Android does not require you to become a technical
 
 If you have been feeling limited by Chrome on your Android phone, try these suggestions and see the difference for yourself. A faster, more feature-rich browser means less waiting and more enjoying the web, whether you are checking email, reading news, or browsing social media.
 
+## Related Articles
+- [Chrome Flags on Android Best to Enable](/chrome-flags-on-android-best-to-enable)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+- [Chrome Flags to Enable for Speed](/chrome-flags-to-enable-for-speed)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

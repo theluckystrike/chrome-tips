@@ -76,3 +76,8 @@ The chrome aw snap page crash fix doesn't have to be complicated. Most of the ti
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)
+- [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)

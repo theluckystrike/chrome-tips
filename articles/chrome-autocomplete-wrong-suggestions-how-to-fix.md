@@ -102,3 +102,8 @@ Check your sync settings periodically to make sure suggestions are not coming fr
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
+- [Chrome Slow on School Laptop? Here's How to Fix It](/chrome-slow-on-school-laptop-how-to-fix)
+- [Chrome Zoom Too Big How to Fix](/chrome-zoom-too-big-how-to-fix)

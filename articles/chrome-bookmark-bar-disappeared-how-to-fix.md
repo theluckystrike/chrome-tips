@@ -102,3 +102,8 @@ Reinstalling Chrome removes all browser data, so everything will be fresh after 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Sync Paused How to Fix](/chrome-sync-paused-how-to-fix)
+- [Chrome Bookmarks Disappeared: How to Recover Them](/chrome-bookmarks-disappeared-how-to-recover)
+- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)

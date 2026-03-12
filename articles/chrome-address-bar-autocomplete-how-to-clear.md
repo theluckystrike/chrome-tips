@@ -82,4 +82,10 @@ Occasionally, you might find that the **Shift+Delete** shortcut doesn't work. Th
 
 By understanding where these suggestions come from, you can tailor your Chrome experience to be as fast—or as private—as you need it to be.
 
+## Related Articles
+- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
+- [Chrome How to Clear Individual Site Data](/chrome-how-to-clear-individual-site-data)
+- [Chrome How to Clear DNS Cache](/chrome-how-to-clear-dns-cache)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

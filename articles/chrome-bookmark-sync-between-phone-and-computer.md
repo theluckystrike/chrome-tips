@@ -71,3 +71,8 @@ Make sure you are signed into the same Google account on all your devices, keep 
 Having your Chrome bookmarks available on both your phone and computer makes browsing much more convenient. You no longer have to email links to yourself or wonder where that helpful article went. With a few simple settings, your entire bookmark library travels with you wherever you go.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [Chrome Sync Between Devices Not Working Fix](/chrome-sync-between-devices-not-working-fix)
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)

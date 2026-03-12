@@ -176,4 +176,10 @@ Chrome's Application tab provides comprehensive tools for inspecting, debugging,
 
 The ability to simulate push notifications, test background sync, and inspect cache storage makes the Application tab an essential tool for any web developer working with service workers or Progressive Web Apps.
 
+## Related Articles
+- [Chrome Service Worker Caching Strategies](/chrome-service-worker-caching-strategies)
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
+- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

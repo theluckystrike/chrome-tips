@@ -65,3 +65,8 @@ If your computer supports it (and 99% of modern machines do), running 64-bit Chr
 
 ---
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [How to Check Website Speed in Chrome](/how-to-check-website-speed-in-chrome)
+- [Chrome Browser Fingerprint How To Check Yours](/chrome-browser-fingerprint-how-to-check-yours)
+- [How to Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)

@@ -111,4 +111,10 @@ While you're optimizing Chrome's settings, consider installing **Tab Suspender P
 
 ---
 
+## Related Articles
+- [Chrome Coupons In Address Bar Feature](/chrome-coupons-in-address-bar-feature)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

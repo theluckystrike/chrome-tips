@@ -68,3 +68,8 @@ If you frequently find yourself overwhelmed by too many open tabs, it is worth t
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+- [Chrome Tab to Search Feature How to Use](/chrome-tab-to-search-feature-how-to-use)
+- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
+- [Chrome AI Writing Help Feature](/chrome-ai-writing-help-feature)

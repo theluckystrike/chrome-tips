@@ -95,3 +95,8 @@ As browser support continues to expand, learning to work with chrome anchor posi
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Font Palette CSS Explained](/chrome-font-palette-css-explained)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome DevTools CSS Overview Panel](/chrome-devtools-css-overview-panel)

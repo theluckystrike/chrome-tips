@@ -63,3 +63,8 @@ For users who are concerned about privacy, there are steps you can take to limit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for API Testing Simple](/chrome-extensions-for-api-testing-simple)
+- [Chrome Web GPU API Explained for Beginners](/chrome-web-gpu-api-explained-for-beginners)
+- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)

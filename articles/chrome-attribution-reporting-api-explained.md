@@ -63,3 +63,8 @@ Understanding how the Chrome Attribution Reporting API works empowers you to mak
 Whether you decide to leave the Attribution Reporting API enabled or turn it off, the most important thing is that you understand what it does and why it exists. That way, you are making an informed choice rather than leaving important settings at their default values without knowing what they mean.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Long Tasks API Explained](/chrome-long-tasks-api-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)

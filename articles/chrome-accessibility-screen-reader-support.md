@@ -107,4 +107,10 @@ After configuring your screen reader, test on these sites to verify functionalit
 
 If these sites read correctly, your setup is working. Issues on other sites are most likely caused by poor website accessibility rather than your configuration.
 
+## Related Articles
+- [Chrome for Accessibility Testing Extensions](/chrome-for-accessibility-testing-extensions)
+- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
+- [Chrome Reader Mode vs Safari Reader Comparison](/chrome-reader-mode-vs-safari-reader-comparison)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -71,3 +71,8 @@ You do not need to change every setting at once. Start with the easiest ones, li
 Streaming should be enjoyable, not frustrating. With a few tweaks to Chrome's settings, you can reduce buffering, improve video quality, and get back to enjoying your favorite content without interruptions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [Best Chrome Extensions for Video Editors](/best-chrome-extensions-for-video-editors)

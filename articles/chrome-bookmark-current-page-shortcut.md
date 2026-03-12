@@ -78,3 +78,8 @@ Now that you know the chrome bookmark current page shortcut, try to make it part
 Also take time occasionally to clean up old bookmarks. Go through your collection and remove links that no longer work or pages you will never visit again. A tidy bookmark list is easier to browse and saves you time when you are looking for something specific.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)

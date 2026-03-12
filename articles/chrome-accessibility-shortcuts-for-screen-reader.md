@@ -77,4 +77,10 @@ Make sure your screen reader is configured to announce the results of your short
 
 Finally, be patient with yourself. Learning new keyboard shortcuts takes time, and there will be a period where you have to think consciously about which key to press. Eventually, these shortcuts will become automatic, and you will wonder how you ever browsed without them.
 
+## Related Articles
+- [Chrome for Reader View on Any Website](/chrome-for-reader-view-on-any-website)
+- [Chrome Keyboard Shortcuts for Power Users](/chrome-keyboard-shortcuts-for-power-users)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

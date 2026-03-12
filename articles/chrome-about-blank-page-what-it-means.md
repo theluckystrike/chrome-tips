@@ -73,3 +73,8 @@ Ultimately, `about:blank` is a tool for efficiency and minimalism. If you find t
 
 ---
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Tab Freezing What It Means](/chrome-tab-freezing-what-it-means)
+- [Chrome Tab Discard What It Means](/chrome-tab-discard-what-it-means)
+- [Chrome Mixed Content Warning What It Means](/chrome-mixed-content-warning-what-it-means)

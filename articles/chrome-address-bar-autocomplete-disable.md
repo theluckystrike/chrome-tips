@@ -149,4 +149,10 @@ If you found this guide helpful, consider exploring other Chrome privacy setting
 
 ---
 
+## Related Articles
+- [Chrome Address Bar Not Showing Full URL Fix](/chrome-address-bar-not-showing-full-url-fix)
+- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

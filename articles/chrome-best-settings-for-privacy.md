@@ -103,3 +103,8 @@ Being thoughtful about the information you share online and the permissions you 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome For Tiktok Web Best Settings](/chrome-for-tiktok-web-best-settings)
+- [Chrome DNS Settings How to Change for Privacy](/chrome-dns-settings-how-to-change-for-privacy)
+- [Chrome for Zoom in Browser Best Settings](/chrome-for-zoom-in-browser-best-settings)

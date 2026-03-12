@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "chrome extensions for canvas fingerprint blocker"
-description: "Learn how chrome extensions for canvas fingerprint blocker work and protect your privacy from online tracking techniques."
+description: "Learn how chrome extensions for canvas fingerprint blocker work and protect your privacy from online tracking techniques. Read more to optimize your experience."
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-extensions-for-canvas-fingerprint-blocker
 categories: [extensions, privacy]
 tags: [privacy, chrome-extension, canvas-fingerprint, tracker-blocker]
 author: theluckystrike
 ---
+
 
 # Chrome Extensions for Canvas Fingerprint Blocker
 

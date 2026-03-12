@@ -3,10 +3,13 @@ layout: post
 title: "Chrome for Descript Web App Optimization"
 description: "Discover how to optimize Chrome for Descript web app. Practical tips to reduce lag and improve performance when editing videos and podcasts in your browser."
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-for-descript-web-app-optimization
 categories: [performance, productivity, chrome-tips]
 tags: [chrome, descript, web-app, optimization, performance]
 author: theluckystrike
 ---
+
 
 # Chrome for Descript Web App Optimization
 

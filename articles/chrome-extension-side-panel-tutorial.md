@@ -1,12 +1,15 @@
 ---
 layout: default
 title: "Chrome Extension Side Panel Tutorial"
-description: "Learn how to build a Chrome extension with side panel support. This comprehensive tutorial covers manifest configuration, HTML/CSS/JS implementation, and best practices for side panel extensions."
+description: "Learn how to build a Chrome extension with side panel support. This comprehensive tutorial covers manifest configuration, HTML/CSS/JS implementation, and bes..."
 date: 2026-03-11
+last_modified_at: 2026-03-11
+permalink: chrome-extension-side-panel-tutorial
 categories: [chrome, extensions, development, tutorials]
 tags: [chrome-extension, side-panel, chrome-dev, extension-development, manifest-v3]
 author: theluckystrike
 ---
+
 
 # Chrome Extension Side Panel Tutorial
 

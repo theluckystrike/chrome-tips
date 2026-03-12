@@ -1,8 +1,12 @@
 ---
 layout: post
 title: "Chrome Font Palette CSS Explained"
-description: "Learn what Chrome font palette CSS is, why it matters, and how to use it in your web projects."
+description: "Learn what Chrome font palette CSS is, why it matters, and how to use it in your web projects. Read more to optimize your experience. Discover essential tips fo"
+date: 2026-01-15
+last_modified_at: 2026-03-09
+permalink: chrome-font-palette-css-explained
 ---
+
 
 What is chrome font palette CSS and how does it work? If you have ever wondered why some websites show different fonts than others or how developers control which fonts appear on a page, this article will help you understand the basics. The chrome font palette refers to the fonts that Chrome makes available for use in web development and design, and CSS is the tool developers use to specify which fonts should be used. Let me break down what you need to know.
 

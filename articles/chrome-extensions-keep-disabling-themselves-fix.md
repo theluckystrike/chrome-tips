@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Extensions Keep Disabling Themselves Fix"
-description: "Discover why your Chrome extensions keep disabling themselves and learn practical solutions to keep them running reliably."
+description: "Discover why your Chrome extensions keep disabling themselves and learn practical solutions to keep them running reliably. Read more to optimize your experience"
 date: 2026-01-20
+last_modified_at: 2026-03-10
+permalink: chrome-extensions-keep-disabling-themselves-fix
 categories: [troubleshooting, extensions]
 tags: [chrome-extensions, fix, browser-issues]
 author: theluckystrike
 ---
+
 
 # Chrome Extensions Keep Disabling Themselves Fix
 

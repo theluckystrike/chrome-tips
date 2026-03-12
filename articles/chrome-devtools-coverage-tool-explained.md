@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "Chrome DevTools Coverage Tool Explained"
-description: "Learn how to use Chrome DevTools Coverage to find unused JavaScript and Read more to optimize your experience. Discover essential tips for 2026."
+description: "Learn how to use Chrome DevTools Coverage to find unused JavaScript and Read more to optimize your experience. Discover essential tips for 2026. Read more to op"
 date: 2026-03-09
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-devtools-coverage-tool-explained
 categories: 
 tags: 
 author: theluckystrike
 ---
+
 
 
 # Chrome DevTools Coverage Tool Explained

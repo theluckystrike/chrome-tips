@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Extensions for Study Timer"
-description: "Discover the best chrome extensions for study timer to stay focused, manage study sessions effectively, and boost academic productivity."
+description: "Discover the best chrome extensions for study timer to stay focused, manage study sessions effectively, and boost academic productivity. Read more to optimize y"
 date: 2026-03-09
+last_modified_at: 2026-03-09
+permalink: chrome-extensions-for-study-timer
 categories: [productivity, tips]
 tags: [chrome-extensions, study, timer, focus, productivity]
 author: theluckystrike
 ---
+
 
 # Chrome Extensions for Study Timer
 

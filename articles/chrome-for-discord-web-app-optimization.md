@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome for Discord Web App Optimization"
-description: "Learn how to make Discord run smoother in Chrome with practical tips and extensions that reduce memory usage and improve performance."
+description: "Learn how to make Discord run smoother in Chrome with practical tips and extensions that reduce memory usage and improve performance. Read more to optimize your"
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-for-discord-web-app-optimization
 categories: [performance, discord, chrome-extensions]
 tags: [discord-web-app, chrome-optimization, memory-usage, browser-performance]
 author: theluckystrike
 ---
+
 
 # Chrome for Discord Web App Optimization
 

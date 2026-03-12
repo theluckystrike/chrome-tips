@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Extensions for Noise Canceling"
-description: "Discover chrome extensions for noise canceling that block unwanted sounds, autoplay videos, and create a quieter browsing experience."
+description: "Discover chrome extensions for noise canceling that block unwanted sounds, autoplay videos, and create a quieter browsing experience. Read more to optimize your"
 date: 2026-03-09
+last_modified_at: 2026-03-09
+permalink: chrome-extensions-for-noise-canceling
 categories: [productivity, wellness]
 tags: [chrome-extensions, noise-canceling, focus, productivity, concentration]
 author: theluckystrike
 ---
+
 
 # Chrome Extensions for Noise Canceling
 

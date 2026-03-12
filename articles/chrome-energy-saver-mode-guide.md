@@ -1,12 +1,15 @@
 ---
 layout: default
 title: "Chrome Energy Saver Mode Guide"
-description: "Complete guide to Chrome energy saver mode covering battery optimization, background throttling, and when it automatically activates to extend your laptop battery life."
+description: "Complete guide to Chrome energy saver mode covering battery optimization, background throttling, and when it automatically activates to extend your laptop ba..."
 date: 2026-03-10
+last_modified_at: 2026-03-11
+permalink: chrome-energy-saver-mode-guide
 categories: [performance, battery, chrome-tips]
 tags: [chrome-energy-saver, battery-optimization, browser-performance, background-tabs, chrome-extensions]
 author: theluckystrike
 ---
+
 
 # Chrome Energy Saver Mode Guide
 

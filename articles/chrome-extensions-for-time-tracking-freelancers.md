@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Extensions for Time Tracking Freelancers"
-description: "Freelancers can use Chrome extensions to track time, manage projects, and improve productivity. Learn which tools work best."
+description: "Freelancers can use Chrome extensions to track time, manage projects, and improve productivity. Learn which tools work best. Read more to optimize your experien"
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-extensions-for-time-tracking-freelancers
 categories: [productivity, extensions]
 tags: [chrome-extensions, time-tracking, freelancing, productivity]
 author: theluckystrike
 ---
+
 
 # Chrome Extensions for Time Tracking Freelancers
 

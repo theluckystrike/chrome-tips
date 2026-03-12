@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Custom Tabs on Android What They Are"
 description: "Curious about Chrome Custom Tabs on Android and what they do? Learn how this feature affects your browsing and when you might encounter it. Read more to optimiz"
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-custom-tabs-on-android-what-they-are
 categories: [mobile, chrome-android]
 tags: [chrome-android, custom-tabs, mobile-browser]
 author: theluckystrike
 ---
+
 
 
 # Chrome Custom Tabs on Android What They Are

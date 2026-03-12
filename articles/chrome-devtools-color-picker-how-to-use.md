@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Devtools Color Picker How to Use"
 description: "Learn how to use Chrome DevTools color picker to find, select, and copy colors from any webpage. A simple guide for regular users. Read more to optimize your ex"
 date: 2025-02-19
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-devtools-color-picker-how-to-use
 categories: [browser-tips, web-development]
 tags: [devtools, color-picker, web-development, tools]
 author: theluckystrike
 ---
+
 
 
 # Chrome Devtools Color Picker How to Use

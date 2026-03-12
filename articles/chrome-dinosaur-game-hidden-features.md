@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "chrome dinosaur game hidden features"
-description: "Discover hidden features in Chrome's dinosaur game that can make your offline gaming experience more fun and rewarding."
+description: "Discover hidden features in Chrome's dinosaur game that can make your offline gaming experience more fun and rewarding. Read more to optimize your experience."
 date: 2026-01-15
+last_modified_at: 2026-03-09
+permalink: chrome-dinosaur-game-hidden-features
 categories: [chrome, gaming, tips]
 tags: [chrome-dinosaur-game, hidden-features, offline-game, easter-eggs]
 author: theluckystrike
 ---
+
 
 # Chrome Dinosaur Game Hidden Features
 

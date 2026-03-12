@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "chrome dark mode how to enable"
-description: "Learn how to enable dark mode in Chrome on desktop and mobile. Step-by-step Read more to optimize your experience. Discover essential tips for 2026."
+description: "Learn how to enable dark mode in Chrome on desktop and mobile. Step-by-step Read more to optimize your experience. Discover essential tips for 2026. Read more t"
 date: 2026-03-09
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-dark-mode-how-to-enable
 categories: 
 tags: 
 author: theluckystrike
 ---
+
 
 
 # Chrome Dark Mode How to Enable

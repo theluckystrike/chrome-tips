@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome for Jira Best Extensions"
-description: "Discover the best Chrome extensions for Jira to boost productivity, manage issues, and streamline your workflow."
+description: "Discover the best Chrome extensions for Jira to boost productivity, manage issues, and streamline your workflow. Read more to optimize your experience."
 date: 2026-03-10
+last_modified_at: 2026-03-10
+permalink: chrome-for-jira-best-extensions
 categories: [jira, tips]
 tags: [chrome-extensions, jira, browser-tools]
 author: theluckystrike
 ---
+
 
 # Chrome for Jira Best Extensions
 

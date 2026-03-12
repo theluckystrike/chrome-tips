@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Extensions for New Tab Dashboard"
-description: "Discover Chrome extensions for new tab dashboard that can transform your browser into a personalized command center for productivity."
+description: "Discover Chrome extensions for new tab dashboard that can transform your browser into a personalized command center for productivity. Read more to optimize your"
 date: 2026-03-10
+last_modified_at: 2026-03-10
+permalink: chrome-extensions-for-new-tab-dashboard
 categories: [extensions, productivity]
 tags: [chrome-extensions, new-tab, dashboard]
 author: theluckystrike
 ---
+
 
 # Chrome Extensions for New Tab Dashboard
 

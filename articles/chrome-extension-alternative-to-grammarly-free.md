@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Extension Alternative to Grammarly Free"
-description: "Looking for a chrome extension alternative to grammarly free? Here are the best options that help you write better without paying."
+description: "Looking for a chrome extension alternative to grammarly free? Here are the best options that help you write better without paying. Read more to optimize your ex"
 date: 2026-03-09
+last_modified_at: 2026-03-10
+permalink: chrome-extension-alternative-to-grammarly-free
 categories: [writing, tips]
 tags: [chrome-extensions, grammarly, grammar, writing, productivity, free]
 author: theluckystrike
 ---
+
 
 # Chrome Extension Alternative to Grammarly Free
 

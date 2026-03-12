@@ -1,8 +1,12 @@
 ---
 layout: post
 title: "Chrome Devtools Webauthn Debugger"
-description: "Learn how to use Chrome DevTools WebAuthn debugger to fix passwordless login issues and troubleshoot authentication problems."
+description: "Learn how to use Chrome DevTools WebAuthn debugger to fix passwordless login issues and troubleshoot authentication problems. Read more to optimize your experie"
+date: 2026-01-15
+last_modified_at: 2026-03-09
+permalink: chrome-devtools-webauthn-debugger
 ---
+
 
 If you are searching for chrome devtools webauthn debugger, you probably ran into trouble with passwordless login or passkeys and need to figure out what is going wrong. WebAuthn is the technology that lets you sign in with your fingerprint, face, or security key instead of a password, and sometimes things do not work as expected. The good news is that Chrome includes built-in tools to help you debug these issues.
 

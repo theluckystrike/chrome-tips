@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome for Microsoft Teams in Browser Tips"
-description: "Get the most out of Microsoft Teams in Chrome with practical tips. Speed up performance, manage tabs better, and reduce memory usage."
+description: "Get the most out of Microsoft Teams in Chrome with practical tips. Speed up performance, manage tabs better, and reduce memory usage. Read more to optimize your"
 date: 2025-03-10
+last_modified_at: 2026-03-10
+permalink: chrome-for-microsoft-teams-in-browser-tips
 categories: [productivity, browser-tips]
 tags: [chrome, microsoft-teams, browser, productivity, remote-work]
 author: theluckystrike
 ---
+
 
 # Chrome for Microsoft Teams in Browser Tips
 

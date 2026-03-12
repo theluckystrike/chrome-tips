@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome ERR_INTERNET_DISCONNECTED But Internet Works Fix"
-description: "Getting ERR_INTERNET_DISCONNECTED in Chrome even when internet works? Learn why this happens and how to fix it with simple steps."
+description: "Getting ERR_INTERNET_DISCONNECTED in Chrome even when internet works? Learn why this happens and how to fix it with simple steps. Read more to optimize your exp"
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-err-internet-disconnected-but-internet-works-fix
 categories: [troubleshooting, connectivity]
 tags: [chrome-error, internet-disconnected, chrome-fix, browser-problem]
 author: theluckystrike
 ---
+
 
 # Chrome ERR_INTERNET_DISCONNECTED But Internet Works Fix
 

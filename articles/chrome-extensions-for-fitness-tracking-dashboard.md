@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Extensions for Fitness Tracking Dashboard"
-description: "Discover the best Chrome extensions for fitness tracking dashboard features to monitor your workouts, nutrition, and health goals in one place."
+description: "Discover the best Chrome extensions for fitness tracking dashboard features to monitor your workouts, nutrition, and health goals in one place. Read more to opt"
 date: 2026-03-10
+last_modified_at: 2026-03-10
+permalink: chrome-extensions-for-fitness-tracking-dashboard
 categories: [fitness, health, productivity]
 tags: [chrome-extensions, fitness, health-tracking, dashboard]
 author: theluckystrike
 ---
+
 
 # Chrome Extensions for Fitness Tracking Dashboard
 

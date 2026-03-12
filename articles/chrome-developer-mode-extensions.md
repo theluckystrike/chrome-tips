@@ -3,12 +3,13 @@ layout: default
 title: "Chrome Developer Mode Extensions Guide"
 description: "Learn how to load unpacked extensions in Chrome, inspect views, update extensions, and debug Chrome extensions effectively. Master developer mode for extensi..."
 date: 2026-01-20
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-developer-mode-extensions
 categories: [development, extensions, chrome]
 tags: [chrome-extensions, developer-mode, debugging, unpacked-extensions]
 author: theluckystrike
 ---
+
 
 
 # Chrome Developer Mode Extensions Guide

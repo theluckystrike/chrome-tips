@@ -3,10 +3,13 @@ layout: post
 title: "Chrome Extensions for Calendar Integration"
 description: "Learn how Chrome extensions for calendar integration can streamline your scheduling, reduce missed appointments, and keep all your calendars in one place."
 date: 2026-03-10
+last_modified_at: 2026-03-10
+permalink: chrome-extensions-for-calendar-integration
 categories: [productivity, tips]
 tags: [chrome-extensions, calendar, productivity]
 author: theluckystrike
 ---
+
 
 # Chrome Extensions for Calendar Integration
 

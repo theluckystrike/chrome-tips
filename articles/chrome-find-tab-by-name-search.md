@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "How to Find a Tab by Name in Chrome: Complete Guide"
-description: "Struggling to find a specific tab in Chrome? Learn built-in methods and extensions to quickly search and locate tabs by name, title, or URL. Practical solutions for everyday users."
+description: "Struggling to find a specific tab in Chrome? Learn built-in methods and extensions to quickly search and locate tabs by name, title, or URL. Practical soluti..."
 date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: chrome-find-tab-by-name-search
 categories: [chrome, tabs, productivity]
 tags: [chrome-tabs, tab-search, browser-tips, productivity]
 author: theluckystrike
 ---
+
 
 # How to Find a Tab by Name in Chrome: Complete Guide
 

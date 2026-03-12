@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "chrome extensions for image reverse search"
-description: "Learn how chrome extensions for image reverse search help you find image sources, identify photos, and locate similar pictures online."
+description: "Learn how chrome extensions for image reverse search help you find image sources, identify photos, and locate similar pictures online. Read more to optimize you"
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-extensions-for-image-reverse-search
 categories: [extensions, image-tools]
 tags: [image-search, reverse-image, chrome-extension, image-lookup]
 author: theluckystrike
 ---
+
 
 # Chrome Extensions for Image Reverse Search
 

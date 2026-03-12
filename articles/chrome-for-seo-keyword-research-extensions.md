@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome for SEO Keyword Research Extensions"
-description: "Discover Chrome extensions that help with SEO keyword research. Find the best tools to improve your search rankings."
+description: "Discover Chrome extensions that help with SEO keyword research. Find the best tools to improve your search rankings. Read more to optimize your experience."
 date: 2026-03-10
+last_modified_at: 2026-03-10
+permalink: chrome-for-seo-keyword-research-extensions
 categories: [seo, keyword-research, extensions]
 tags: [chrome-extensions, seo-tools, keyword-research]
 author: theluckystrike
 ---
+
 
 # Chrome for SEO Keyword Research Extensions
 

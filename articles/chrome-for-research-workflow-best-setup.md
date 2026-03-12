@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome for Research Workflow Best Setup"
-description: "Learn how to set up Chrome for research with tab management, organization tools, and performance optimizations to handle long sessions efficiently."
+description: "Learn how to set up Chrome for research with tab management, organization tools, and performance optimizations to handle long sessions efficiently. Read more to"
 date: 2026-03-10
+last_modified_at: 2026-03-10
+permalink: chrome-for-research-workflow-best-setup
 categories: [research, tips]
 tags: [chrome, research, workflow, productivity]
 author: theluckystrike
 ---
+
 
 # Chrome for Research Workflow Best Setup
 

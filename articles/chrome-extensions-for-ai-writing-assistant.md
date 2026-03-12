@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Extensions for AI Writing Assistant"
-description: "Find the best chrome extensions for AI writing assistant to enhance your content creation. These tools help you write faster and better."
+description: "Find the best chrome extensions for AI writing assistant to enhance your content creation. These tools help you write faster and better. Read more to optimize y"
 date: 2026-03-09
+last_modified_at: 2026-03-10
+permalink: chrome-extensions-for-ai-writing-assistant
 categories: [writing, tips]
 tags: [chrome-extensions, ai, writing, productivity]
 author: theluckystrike
 ---
+
 
 # Chrome Extensions for AI Writing Assistant
 

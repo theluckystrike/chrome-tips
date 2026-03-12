@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Photographers"
-description: "Discover the best Chrome extensions for photographers to speed up workflow, manage tabs, and enhance your browsing experience."
-date: 2026-01-15
-categories: [productivity, extensions, photography]
-tags: [chrome-extensions, photography, browser, productivity]
+title: Best Chrome Extensions for Photographers
+description: Discover the best Chrome extensions for photographers to speed up workflow, manage tabs, and enhance your browsing experience. Find out more tips on how to opti
+date: '2026-01-15'
+categories:
+- productivity
+- extensions
+- photography
+tags:
+- chrome-extensions
+- photography
+- browser
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: /articles/best-chrome-extensions-for-photographers/
 ---
 
 # Best Chrome Extensions for Photographers

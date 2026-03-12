@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Data Analysts"
-description: "Discover the best Chrome extensions for data analysts to streamline your workflow, manage data better, and boost productivity."
-date: 2026-03-10
-categories: [data-analysts, tips]
-tags: [chrome-extensions, data-analysts, browser-tools]
+title: Best Chrome Extensions for Data Analysts
+description: Discover the best Chrome extensions for data analysts to streamline your workflow, manage data better, and boost productivity. Find out more tips on how to opti
+date: '2026-03-10'
+categories:
+- data-analysts
+- tips
+tags:
+- chrome-extensions
+- data-analysts
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: /articles/best-chrome-extensions-for-data-analysts/
 ---
 
 # Best Chrome Extensions for Data Analysts

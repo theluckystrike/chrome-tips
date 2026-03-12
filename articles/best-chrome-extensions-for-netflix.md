@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Netflix"
-description: "Discover the best Chrome extensions for Netflix that enhance streaming, improve subtitles, and save data while watching."
-date: 2026-03-09
-categories: [entertainment, tips]
-tags: [chrome-extensions, netflix, streaming]
+title: Best Chrome Extensions for Netflix
+description: Discover the best Chrome extensions for Netflix that enhance streaming, improve subtitles, and save data while watching. Find out more tips on how to optimize y
+date: '2026-03-09'
+categories:
+- entertainment
+- tips
+tags:
+- chrome-extensions
+- netflix
+- streaming
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: /articles/best-chrome-extensions-for-netflix/
 ---
 
 # Best Chrome Extensions for Netflix

@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Real Estate Agents"
-description: "Discover the best Chrome extensions for real estate agents to streamline workflows, manage clients, and close more deals."
-date: 2026-03-10
-categories: [real-estate, tips]
-tags: [chrome-extensions, real-estate, productivity]
+title: Best Chrome Extensions for Real Estate Agents
+description: 'Discover the best Chrome extensions for real estate agents to streamline workflows, manage clients, and close more deals. Find out more tips on how to optimize '
+date: '2026-03-10'
+categories:
+- real-estate
+- tips
+tags:
+- chrome-extensions
+- real-estate
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: /articles/best-chrome-extensions-for-real-estate-agents/
 ---
 
 # Best Chrome Extensions for Real Estate Agents

@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Compute Pressure API Explained: What It Means for Your Browser"
-description: "Learn what Chrome Compute Pressure API does, how it affects your browsing, and what you can do about this feature."
+description: "Learn what Chrome Compute Pressure API does, how it affects your browsing, and what you can do about this feature. Read more to optimize your experience."
 date: 2026-03-09
+last_modified_at: 2026-03-09
+permalink: chrome-compute-pressure-api-explained
 categories: [features, performance]
 tags: [chrome-compute-pressure, browser-performance, chrome-api, resource-management]
 author: theluckystrike
 ---
+
 
 # Chrome Compute Pressure API Explained: What It Means for Your Browser
 

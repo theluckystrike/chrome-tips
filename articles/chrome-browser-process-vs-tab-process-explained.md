@@ -3,12 +3,13 @@ layout: post
 title: "chrome browser process vs tab process explained"
 description: "Understand the difference between Chrome browser process and tab process, and how they affect your browsing performance and memory usage. Read more to optimize "
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-browser-process-vs-tab-process-explained
 categories: [chrome, processes, performance]
 tags: [chrome, browser process, tab process, memory, performance]
 author: theluckystrike
 ---
+
 
 
 # Chrome Browser Process vs Tab Process Explained

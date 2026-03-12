@@ -1,8 +1,13 @@
 ---
-title: Chrome Color HD Gamut Display P3 - Complete Guide for 2026
-description: Learn how Chrome handles HD color gamut and Display P3 color space for vibrant, accurate colors on modern displays. Expert tips for photographers, designers, and content creators.
+layout: post
+title: "Chrome Color HD Gamut Display P3 - Complete Guide for 2026"
+description: "Learn how Chrome handles HD color gamut and Display P3 color space for vibrant, accurate colors on modern displays. Expert tips for photographers, designers,..."
+date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: chrome-color-hd-gamut-display-p3
 keywords: chrome color hd gamut display p3
 ---
+
 
 # Chrome Color HD Gamut Display P3: Complete Guide for 2026
 

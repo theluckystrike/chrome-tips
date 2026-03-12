@@ -1,9 +1,12 @@
 ---
+title: Chrome Extensions for Page Zoom Per Site
+description: Discover Chrome extensions that let you set different zoom levels for
+  Check out our expert recommendations and tips to enhance your browsing experience...
+date: '2026-03-10'
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-page-zoom-per-site
 layout: post
-title: "Chrome Extensions for Page Zoom Per Site"
-description: "Discover Chrome extensions that let you set different zoom levels for each website automatically, so you never have to adjust manually again."
 ---
-
 Chrome extensions for page zoom per site are tools that solve a common frustration. If you have ever opened one website that looks perfect and then visited another where the text is either too small or awkwardly large, you know the feeling. You zoom in on one tab, then zoom out on another, and this dance repeats every time you browse. The good news is that you do not have to keep doing this. There are extensions and methods that can remember your zoom preferences for each individual website, so everything looks right automatically.
 
 ## Why Chrome Does Not Remember Your Zoom Settings
@@ -49,3 +52,9 @@ Consider using Chrome profiles for different purposes. If you have separate prof
 If you are looking for a straightforward way to manage zoom along with other browsing improvements, Tab Suspender Pro is one option that can help. While its main focus is on managing open tabs to reduce memory usage, many users find that having better control over their browsing environment, including consistent zoom levels, makes their overall experience more comfortable. The extension is part of the Zovo extension suite, which aims to make browsing more efficient and personalized.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome Font Too Small on Certain Websites Fix](/articles/chrome-font-too-small-on-certain-websites-fix/)
+* [Chrome Extension Settings Sync Across Devices](/articles/chrome-extension-settings-sync-across-devices/)
+* [Chrome High CPU Usage Nothing Open](/articles/chrome-high-cpu-usage-nothing-open/)
+

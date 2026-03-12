@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "chrome text scaling for low vision users"
-description: "Learn how to use chrome text scaling for low vision users to make web browsing more comfortable. Simple tips and tools that actually work."
-date: 2026-01-15
-categories: [accessibility, text, low-vision]
-tags: [chrome, text-scaling, low-vision, accessibility, browser]
+title: chrome text scaling for low vision users
+description: Learn how to use chrome text scaling for low vision users to make web
+  browsing more comfortable. Simple tips and tools that actually work. Read our comprehen...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-text-scaling-for-low-vision-users
+categories: '[accessibility, text, low-vision]'
+tags: '[chrome, text-scaling, low-vision, accessibility, browser]'
 author: theluckystrike
 ---
-
 # Chrome Text Scaling for Low Vision Users
 
 If you have been searching for chrome text scaling for low vision users, you likely know how frustrating it can be when websites display text that is too small to read comfortably. Whether you are dealing with age-related vision changes, a visual impairment, or simply find that modern websites use increasingly tiny fonts, there are practical solutions available. This guide will walk you through the different ways you can adjust text size in Chrome to create a browsing experience that works for your eyes.
@@ -73,3 +75,9 @@ Making the web more readable is not just about convenience. It is about ensuring
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Site Isolation What It Means](/articles/chrome-site-isolation-what-it-means/)
+* [Chrome Site Keeps Asking for Notifications? Here's How to Stop It](/articles/chrome-site-keeps-asking-for-notifications-stop/)
+* [Chrome Passkeys Explained for Beginners](/articles/chrome-passkeys-explained-for-beginners/)
+

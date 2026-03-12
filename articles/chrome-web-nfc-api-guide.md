@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Chrome Web NFC API Guide"
-description: "Learn how to use the Chrome Web NFC API for reading and writing NFC tags directly from your browser. Complete guide covering NDEF messages, tag operations, and mobile support."
-date: 2026-01-15
-categories: [web-development, nfc, chrome-api]
-tags: [web-nfc, nfc-api, chrome-nfc, ndef, tag-reading, tag-writing, mobile-nfc]
+title: Chrome Web NFC API Guide
+description: Learn how to use the Chrome Web NFC API for reading and writing NFC tags
+  Read our comprehensive guide to learn more and optimize your browser experience
+  with...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-web-nfc-api-guide
+categories: ''
+tags: ''
 author: theluckystrike
 ---
-
 # Chrome Web NFC API Guide
 
 The Web NFC API is one of the most exciting additions to modern web browsers, allowing websites to read and write NFC tags directly from the browser without needing a native app. If you have ever wanted to build a web application that can interact with physical NFC tags, whether for inventory management, contactless payments, or interactive experiences, the Chrome Web NFC API makes this possible. This guide will walk you through everything you need to know to get started with NFC in Chrome, from understanding how NDEF messages work to implementing both reading and writing functionality.
@@ -156,4 +159,15 @@ Finally, keep your application updated as the Web NFC API evolves. The specifica
 
 ---
 
+## Related Articles
+* [Chrome Extensions for Musicians](/articles/chrome-extensions-for-musicians/)
+* [Chrome Biometric Authentication for the Web](/articles/chrome-biometric-authentication-web/)
+* [Chrome Passkeys vs Passwords Comparison](/articles/chrome-passkeys-vs-passwords-comparison/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome extensions for journalists](/articles/chrome-extensions-for-journalists)
+- [Chrome for NFT Browsing Extensions](/articles/chrome-for-nft-browsing-extensions)
+- [How to Limit Chrome RAM Usage on Windows](/articles/how-to-limit-chrome-ram-usage-windows)

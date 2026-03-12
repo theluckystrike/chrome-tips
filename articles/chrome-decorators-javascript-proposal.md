@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Decorators JavaScript Proposal: What You Need to Know"
-description: "Learn about the JavaScript decorators proposal, Chrome's support status, and how decorators can improve your web development workflow."
+title: 'Chrome Decorators JavaScript Proposal: What You Need to Know'
+description: Learn about the JavaScript decorators proposal, Chrome's support status,
+  and how decorators can improve your web development workflow. Learn more about how
 date: 2026-01-15
-categories: [chrome-features, web-development, javascript]
-tags: [chrome-decorators-javascript-proposal, javascript-decorators, tc39-proposal, chrome-javascript]
+categories:
+- chrome-features
+- web-development
+- javascript
+tags:
+- chrome-decorators-javascript-proposal
+- javascript-decorators
+- tc39-proposal
+- chrome-javascript
 author: theluckystrike
+last_modified_at: '%Y->-'
+permalink: /chrome-decorators-javascript-proposal/
 ---
-
 # Chrome Decorators JavaScript Proposal: What You Need to Know
 
 If you have been keeping up with JavaScript development trends, you have probably heard about decorators. The chrome decorators javascript proposal represents one of the most anticipated features for web developers. This guide explains what decorators are, their current status in Chrome, and why they matter for your development workflow.
@@ -62,4 +71,15 @@ Remember that while decorators are powerful, they are not always the right solut
 
 ---
 
+## Related Articles
+* [Chrome Extension for Video Downloading: What is Legal](/articles/chrome-extension-for-video-downloading-legal/)
+* [Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps](/articles/chrome-slow-on-4gb-ram-laptop/)
+* [Chrome Android Slow Fix 2026](/articles/chrome-android-slow-fix-2026/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Force Mobile Site on Desktop](/articles/chrome-force-mobile-site-on-desktop)
+- [Chrome PDF Not Downloading Just Opening Fix](/articles/chrome-pdf-not-downloading-just-opening-fix)
+- [Chrome Autofill Wrong Address How to Fix](/articles/chrome-autofill-wrong-address-how-to-fix)

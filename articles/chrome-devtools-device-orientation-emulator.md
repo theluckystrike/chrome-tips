@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "How to Use Chrome DevTools Device Orientation Emulator"
-description: "Learn how to use Chrome DevTools device orientation emulator to test motion-sensitive websites and debug orientation-related issues."
+title: How to Use Chrome DevTools Device Orientation Emulator
+description: Learn how to use Chrome DevTools device orientation emulator to test
+  motion-sensitive websites and debug orientation-related issues. Learn more about
+  how t
+date: '2026-03-09'
+last_modified_at: '%Y->- (origin/fix/lastmod-batch-1)'
+permalink: /chrome-devtools-device-orientation-emulator/
 ---
-
 If you have ever built or tested a website that responds to how you hold your phone, you have probably wished there was an easier way to check if it works without grabbing your actual device. That is where the chrome devtools device orientation emulator comes in. This handy tool lets you simulate different phone orientations and movements right from your desktop browser, making it much easier to test motion-sensitive features without needing a physical device in your hand.
 
 ## Why Device Orientation Testing Matters
@@ -65,3 +69,9 @@ Chrome devtools device orientation emulator is just one of many helpful features
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Best Settings for Online Meetings](/articles/chrome-best-settings-for-online-meetings/)
+* [Chrome CORS Error Explained in Simple Terms](/articles/chrome-cors-error-explained-simple-terms/)
+* [How to Use Chrome Built In Screenshot Tool](/articles/how-to-use-chrome-built-in-screenshot-tool/)
+

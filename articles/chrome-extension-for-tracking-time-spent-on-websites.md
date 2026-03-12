@@ -1,13 +1,16 @@
 ---
+title: Chrome Extension for Tracking Time Spent on Websites
+description: Learn how to use a chrome extension for tracking time spent on websites
+  to understand your browsing habits and improve productivity. Discover how these
+  tools...
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-tracking-time-spent-on-websites
 layout: post
-title: "Chrome Extension for Tracking Time Spent on Websites"
-description: "Learn how to use a chrome extension for tracking time spent on websites to understand your browsing habits and improve productivity."
-date: 2026-03-09
-categories: [productivity, tips]
-tags: [chrome-extensions, time-tracking, productivity]
+categories: '[productivity, tips]'
+tags: '[chrome-extensions, time-tracking, productivity]'
 author: theluckystrike
 ---
-
 # Chrome Extension for Tracking Time Spent on Websites
 
 If you are looking for a chrome extension for tracking time spent on websites, you probably have a feeling that too much of your day vanishes into browser tabs without your awareness. You are not imagining it. The modern web is designed to be addictive, and most of us spend hours each day jumping between sites without any clear sense of where the time goes. This article will help you understand why this happens and show you practical ways to take control of your browsing time.
@@ -60,4 +63,15 @@ Finally, share what you learn with others if it helps. Discussing your findings 
 
 ---
 
+## Related Articles
+* [Chrome for YouTube 4K Playback Settings](/articles/chrome-for-youtube-4k-playback-settings/)
+* [How to Use Chrome Profiles Properly — The Complete Guide](/articles/how-to-use-chrome-profiles-properly/)
+* [Chrome Extensions for Site Permissions Manager](/articles/chrome-extensions-for-site-permissions-manager/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Mouse Scroll Not Working Fix](/articles/chrome-mouse-scroll-not-working-fix)
+- [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage/)
+- [Chrome DevTools Flexbox Debugger](/articles/chrome-devtools-flexbox-debugger)

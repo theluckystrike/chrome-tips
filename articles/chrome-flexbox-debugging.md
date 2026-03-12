@@ -1,13 +1,25 @@
 ---
 layout: default
-title: "Chrome Flexbox Debugging Guide"
-description: "Master Chrome DevTools Flexbox debugging with flex overlay, alignment inspection, shrink/grow analysis, and the flex inspector. Learn to fix layout issues fast."
-date: 2026-01-15
-categories: [web-development, css, chrome-devtools]
-tags: [flexbox, chrome-devtools, debugging, css-layout, web-development, browser-tools]
+title: Chrome Flexbox Debugging Guide
+description: Master Chrome DevTools Flexbox debugging with flex overlay, alignment
+  inspection, shrink/grow analysis, and the flex inspector. Learn to fix layout issues
+  fast.
+date: '2026-01-15'
+last_modified_at: '2026-03-12'
+permalink: chrome-flexbox-debugging
+categories:
+- web-development
+- css
+- chrome-devtools
+tags:
+- flexbox
+- chrome-devtools
+- debugging
+- css-layout
+- web-development
+- browser-tools
 author: theluckystrike
 ---
-
 # Chrome Flexbox Debugging Guide
 
 Flexbox has become one of the most essential CSS layout systems for modern web development. Its ability to create responsive, aligned, and dynamic layouts with minimal code has made it a favorite among developers. However, even experienced developers sometimes struggle with flexbox issues that seem to appear out of nowhere. The good news is that Chrome DevTools provides powerful features specifically designed to help you debug flexbox layouts effectively. In this comprehensive guide, we will explore the Flexbox debugging tools in Chrome, including the Flex Overlay, alignment inspection, flex-shrink and flex-grow analysis, and the dedicated Flex Inspector.
@@ -107,3 +119,9 @@ With practice, you will develop an intuition for recognizing and fixing flexbox 
 ---
 
 *Built by theluckystrike — More tips at https://zovo.one*
+
+## Related Articles
+* [how to use chrome password checkup feature](/articles/how-to-use-chrome-password-checkup-feature/)
+* [How to Stop Chrome from Eating Your RAM](/articles/how-to-stop-chrome-from-eating-ram/)
+* [Chrome OS vs Windows for Basic Use](/articles/chrome-os-vs-windows-for-basic-use/)
+

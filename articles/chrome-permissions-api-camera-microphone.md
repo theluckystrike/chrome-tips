@@ -1,13 +1,25 @@
 ---
 layout: default
-title: "Chrome Permissions API for Camera and Microphone"
-description: "Learn how to use the Chrome Permissions API to check and request camera and microphone access programmatically. Complete guide with code examples and best practices for web developers."
-date: 2026-01-25
-categories: [development, api, chrome]
-tags: [chrome-permissions-api, camera, microphone, javascript, web-development, media]
+title: Chrome Permissions API for Camera and Microphone
+description: Learn how to use the Chrome Permissions API to check and request camera
+  and microphone access programmatically. Complete guide with code examples and best
+  pr...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-permissions-api-camera-microphone
+categories:
+- development
+- api
+- chrome
+tags:
+- chrome-permissions-api
+- camera
+- microphone
+- javascript
+- web-development
+- media
 author: theluckystrike
 ---
-
 # Chrome Permissions API for Camera and Microphone
 
 The Chrome Permissions API is a powerful tool that enables web developers to programmatically check and request permission for sensitive browser features like camera and microphone access. Whether you're building a video conferencing application, a voice recording tool, or any web app that needs access to media devices, understanding how to effectively use the Permissions API is essential for creating smooth, user-friendly experiences. This guide will walk you through everything you need to know about using the Permissions API for camera and microphone in Chrome.
@@ -184,4 +196,15 @@ For developers building media-heavy applications, consider implementing your own
 
 ---
 
+## Related Articles
+* [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead/)
+* [Chrome for Travel Itinerary Extensions](/articles/chrome-for-travel-itinerary-extensions/)
+* [Chrome Web Store How to Leave Review](/articles/chrome-web-store-how-to-leave-review/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser)
+- [Best Privacy Settings For Chrome 2026](/articles/best-privacy-settings-for-chrome-2026)
+- [Chrome Android Dark Mode How to Enable](/articles/chrome-android-dark-mode-how-to-enable)

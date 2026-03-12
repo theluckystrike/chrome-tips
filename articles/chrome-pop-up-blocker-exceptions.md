@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "How to Set Up Chrome Pop Up Blocker Exceptions"
-description: "Learn how to configure Chrome pop up blocker exceptions for specific websites that need to display popups. Step-by-step guide for desktop and mobile."
-date: 2026-01-15
-categories: [browsers, chrome, settings]
-tags: [chrome-pop-up-blocker, browser-settings, chrome-tips]
+title: How to Set Up Chrome Pop Up Blocker Exceptions
+description: Learn how to configure Chrome pop up blocker exceptions for specific
+  websites that need to display popups. Step-by-step guide for desktop and mobile.
+  Learn e...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-pop-up-blocker-exceptions
+categories:
+- browsers
+- chrome
+- settings
+tags:
+- chrome-pop-up-blocker
+- browser-settings
+- chrome-tips
 author: theluckystrike
 ---
-
 # How to Set Up Chrome Pop Up Blocker Exceptions
 
 Chrome's built-in pop up blocker is one of the most useful features for maintaining a clean browsing experience. It automatically blocks those annoying windows that try to open without your permission, whether they are advertisements, promotional offers, or potentially malicious sites. However, there are legitimate situations where you need certain websites to open popups. Maybe your banking website needs to open a new window for transactions, or a productivity tool requires a popup for its main interface. This is where **chrome pop up blocker exceptions** come in handy.
@@ -68,4 +77,15 @@ Managing your browser effectively involves more than just handling pop ups. If y
 
 Having many extensions and permitted sites can sometimes slow down your browser over time. Regularly reviewing what you have allowed and removing anything you no longer need will help maintain optimal performance.
 
+## Related Articles
+* [Chrome Extensions For Flight Price Alerts](/articles//articles/chrome-extensions-for-flight-price-alerts//)
+* [How to Cast Chrome Tab to TV](/articles/how-to-cast-chrome-tab-to-tv/)
+* [Chrome Super Cookies: What Are They](/articles/chrome-super-cookies-what-are-they/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow)
+- [chrome fingerprint protection 2026](/articles/chrome-fingerprint-protection-2026)
+- [Chrome Address Bar Shortcuts You Didn't Know](/articles/chrome-address-bar-shortcuts-you-didnt-know)

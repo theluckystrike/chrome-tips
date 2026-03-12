@@ -1,13 +1,23 @@
 ---
 layout: default
-title: "Chrome Custom Search Engines Guide"
-description: "Master Chrome custom search engines to boost productivity. Learn how to add search engines, create keyword shortcuts, set up site-specific search, and change your default search engine for faster browsing."
-date: 2025-12-15
-categories: [productivity, browser-tips]
-tags: [chrome-search-engines, custom-search, keyword-shortcuts, site-search, browser-productivity]
+title: Chrome Custom Search Engines Guide
+description: Master Chrome custom search engines to boost productivity. Learn how
+  to add search engines, create keyword shortcuts, set up site-specific search, and
+  change...
+date: '2025-12-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-search-engines-custom
+categories:
+- productivity
+- browser-tips
+tags:
+- chrome-search-engines
+- custom-search
+- keyword-shortcuts
+- site-search
+- browser-productivity
 author: theluckystrike
 ---
-
 # Chrome Custom Search Engines Guide
 
 If you use Chrome as your primary browser, you are sitting on a powerful productivity tool that most people never fully utilize. Custom search engines in Chrome allow you to search any website directly from your address bar, create quick shortcuts for frequently visited sites, and streamline your workflow in ways that can save you hours every week. This comprehensive guide will walk you through everything you need to know about Chrome custom search engines, from basic setup to advanced techniques that will transform how you browse the internet.
@@ -112,4 +122,15 @@ Chrome custom search engines are one of the most powerful yet underutilized feat
 
 The key is to start small: add search engines for just your top three or four most-used websites, and use them consistently for a week. Once you experience the time savings, you will be motivated to expand your setup and develop your own system for organizing and using custom search engines. Before long, you will wonder how you ever browsed without them.
 
+## Related Articles
+* [Chrome Lost All My Tabs After Update Fix](/articles/chrome-lost-all-my-tabs-update-fix/)
+* [Chrome Keeps Freezing Every Few Minutes: Causes and Fixes](/articles/chrome-keeps-freezing-every-few-minutes/)
+* [How to Backup Chrome Bookmarks and Passwords](/articles/how-to-backup-chrome-bookmarks-and-passwords/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Tab Notes](/articles/chrome-extensions-for-tab-notes)
+- [Chrome Memory Inspector How to Use](/articles/chrome-memory-inspector-how-to-use)
+- [chrome for obs browser source tips](/articles/chrome-for-obs-browser-source-tips)

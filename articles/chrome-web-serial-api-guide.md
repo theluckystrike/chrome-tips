@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Chrome Web Serial API Guide"
-description: "Learn how to use the Chrome Web Serial API to connect to Arduino, microcontrollers, and serial devices directly from your browser. Complete guide covering baudrate settings, port access, and practical applications."
-date: 2026-01-20
-categories: [api, development, hardware]
-tags: [chrome-web-serial-api, arduino, microcontroller, serial-port, baudrate, web-bluetooth, hardware]
+title: Chrome Web Serial API Guide
+description: Learn how to use the Chrome Web Serial API to connect to Arduino, microcontrollers,
+  and serial devices directly from your browser. Complete guide covering ba...
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-web-serial-api-guide
+categories: '[api, development, hardware]'
+tags: '[chrome-web-serial-api, arduino, microcontroller, serial-port, baudrate, web-bluetooth,
+  hardware]'
 author: theluckystrike
 ---
-
 # Chrome Web Serial API Guide
 
 The web browser has evolved far beyond a simple tool for viewing documents and watching videos. Modern web APIs have unlocked incredible capabilities that were once exclusive to native applications, and among the most exciting is the Chrome Web Serial API. This powerful feature enables web applications to communicate directly with serial devices, opening up a world of possibilities for developers, hobbyists, and anyone interested in bridging the gap between web technologies and physical hardware. Whether you want to program an Arduino, interact with a microcontroller, read data from industrial sensors, or control custom electronics, the Web Serial API provides a straightforward way to establish this connection directly from Chrome.
@@ -258,4 +261,15 @@ Whether you are a web developer looking to explore hardware projects or a hardwa
 
 The ability to communicate with Arduino, microcontrollers, and other serial devices directly from Chrome transforms the browser from a window into the digital world into a gateway to the physical world. This capability is limited only by your imagination and the devices you choose to connect.
 
+## Related Articles
+* [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix/)
+* [Chrome for Jira Best Extensions](/articles/chrome-for-jira-best-extensions/)
+* [Chrome Toolbar Customization Tips](/articles/chrome-toolbar-customization-tips/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Redirecting to Wrong Pages Fix](/articles/chrome-redirecting-to-wrong-pages-fix)
+- [chrome for coinbase web app tips](/articles/chrome-for-coinbase-web-app-tips)
+- [Chrome Extension for Changing User Agent](/articles/chrome-extension-for-changing-user-agent)

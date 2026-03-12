@@ -1,13 +1,15 @@
 ---
+title: chrome extensions for json viewer
+description: Discover the best chrome extensions for json viewer. Learn how to view,
+  format, and explore JSON data directly in your browser with these helpful tools.
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-json-viewer
 layout: post
-title: "chrome extensions for json viewer"
-description: "Discover the best chrome extensions for json viewer. Learn how to view, format, and explore JSON data directly in your browser with these helpful tools."
-date: 2026-01-15
-categories: [extensions, productivity]
-tags: [json, chrome-extension, developer-tools, data-viewer]
+categories: '[extensions, productivity]'
+tags: '[json, chrome-extension, developer-tools, data-viewer]'
 author: theluckystrike
 ---
-
 # Chrome Extensions for JSON Viewer
 
 If you have ever tried to read raw JSON data in your browser, you probably searched for chrome extensions for json viewer to make sense of the messy text. Working with JSON data can be frustrating when you are dealing with unformatted, hard-to-read content that seems impossible to navigate. This guide will help you understand why JSON appears the way it does in browsers and what you can do about it using simple browser extensions.
@@ -77,3 +79,9 @@ Consider keeping a few sample JSON files bookmarked for testing. This way, you c
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Persistent Storage Permission Explained](/articles/chrome-persistent-storage-permission-explained/)
+* [Chrome Extensions For Elderly Users Simple Tools](/articles//articles/chrome-extensions-for-elderly-users-simple-tools//)
+* [Chrome Extensions for Image Downloader Bulk](/articles/chrome-extensions-for-image-downloader-bulk/)
+

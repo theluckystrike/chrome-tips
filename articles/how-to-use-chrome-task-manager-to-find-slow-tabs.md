@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "How to Use Chrome Task Manager to Find Slow Tabs"
-description: "Learn how to find which tabs are slowing down Chrome using the built-in Task Manager and what to do about them."
-date: 2026-01-15
-categories: [performance, troubleshooting]
-tags: [chrome-task-manager, slow-tabs, browser-performance]
+title: How to Use Chrome Task Manager to Find Slow Tabs
+description: Learn how to find which tabs are slowing down Chrome using the built-in
+  Task Manager and what to do about them. Read our comprehensive guide to learn more
+  an...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: how-to-use-chrome-task-manager-to-find-slow-tabs
+categories: '[performance, troubleshooting]'
+tags: '[chrome-task-manager, slow-tabs, browser-performance]'
 author: theluckystrike
 ---
-
 # How to Use Chrome Task Manager to Find Slow Tabs
 
 How to use Chrome Task Manager to find slow tabs is one of the most helpful questions Chrome users can ask when their browser starts feeling sluggish. If you have ever wondered why Chrome suddenly runs slower than usual, or why your computer fans start whirring while you browse, the answer is often hiding in one specific tab. The good news is that Chrome has a built-in tool that can help you find exactly which tab is causing the problem.
@@ -55,3 +58,9 @@ The Task Manager is also helpful when Chrome shows a "Page Unresponsive" message
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Password Manager Is It Safe Enough](/articles/chrome-password-manager-is-it-safe-enough/)
+* [Chrome for Website Blocking During Work](/articles/chrome-for-website-blocking-during-work/)
+* [Chrome Speculation Rules Prefetch: A Complete Guide](/articles/chrome-speculation-rules-prefetch/)
+

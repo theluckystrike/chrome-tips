@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Chrome WebAuthn Debugging Guide"
-description: "Master Chrome WebAuthn debugging with Virtual Authenticator, FIDO2, passkeys, and credential management. Comprehensive guide for developers."
-date: 2026-01-15
-categories: [development, security, webauthn]
-tags: [webauthn, fido2, passkeys, debugging, chrome-devtools, authentication]
+title: Chrome WebAuthn Debugging Guide
+description: Master Chrome WebAuthn debugging with Virtual Authenticator, FIDO2, passkeys,
+  and credential management. Comprehensive guide for developers. Read our compreh...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-webauthn-debugging
+categories: '[development, security, webauthn]'
+tags: '[webauthn, fido2, passkeys, debugging, chrome-devtools, authentication]'
 author: theluckystrike
 ---
-
 # Chrome WebAuthn Debugging Guide
 
 WebAuthn, also known as Web Authentication API, has revolutionized how users authenticate on the web. This technology, built on the FIDO2 standards, enables passwordless authentication using public-key cryptography. As passkeys become increasingly popular across the web, understanding how to debug WebAuthn implementations in Chrome has become an essential skill for web developers. This comprehensive guide will walk you through Chrome's built-in tools, common debugging scenarios, and best practices for troubleshooting WebAuthn and passkey implementations.
@@ -164,4 +166,9 @@ As passkeys continue to replace passwords across the web, these debugging skills
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*## Related Articles
+* [Chrome 64 bit vs 32 bit How to Check](/articles/chrome-64-bit-vs-32-bit-how-to-check/)
+* [How to Make Chrome Kid-Friendly](/articles/how-to-make-chrome-kid-friendly/)
+* [chrome search by image right click how to](/articles/chrome-search-by-image-right-click-how-to/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

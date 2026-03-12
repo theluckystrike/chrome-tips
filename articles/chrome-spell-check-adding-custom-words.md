@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Spell Check Adding Custom Words"
-description: "Learn how to add custom words to Chrome spell check so it stops marking them as misspelled. Simple steps for everyday users."
+title: Chrome Spell Check Adding Custom Words
+description: Learn how to add custom words to Chrome spell check so it stops marking
+  them as misspelled. Simple steps for everyday users. Read our comprehensive guide
+  to lea
 date: 2025-03-15
-categories: [features, troubleshooting]
-tags: [spellcheck, customization, chrome-tips]
+categories:
+- features
+- troubleshooting
+tags:
+- spellcheck
+- customization
+- chrome-tips
 author: theluckystrike
+permalink: chrome-spell-check-adding-custom-words
+last_modified_at: '2026-03-10'
 ---
-
 # Chrome Spell Check Adding Custom Words
 
 You are typing away in Chrome and suddenly there it is again - that red squiggly line under a word that you know is correct. Maybe it is your last name, a technical term you use often, or the name of a product you sell. Whatever the word is, Chrome keeps telling you it is spelled wrong, and it is starting to get annoying. This is exactly why learning chrome spell check adding custom words is so useful.
@@ -81,3 +89,9 @@ Adding custom words to Chrome is one of those small tweaks that makes a big diff
 Take a moment to add those words that constantly get flagged. Your name, your workplace, your city, and any other terms you use regularly. Once they are in Chrome's dictionary, you will notice how much smoother typing becomes when you are not constantly ignoring false warnings.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome web bluetooth how to use](/articles/chrome-web-bluetooth-how-to-use/)
+* [Chrome Source Maps Configuration Guide](/articles/chrome-source-maps-guide/)
+* [Chrome for Citation and Research Extensions](/articles/chrome-for-citation-and-research-extensions/)
+

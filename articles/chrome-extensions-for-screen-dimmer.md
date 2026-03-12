@@ -1,13 +1,15 @@
 ---
+title: chrome extensions for screen dimmer
+description: Find chrome extensions for screen dimmer to reduce eye strain and control
+  brightness. Learn how to dim your screen and work more comfortably. Check out our...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-screen-dimmer
 layout: post
-title: "chrome extensions for screen dimmer"
-description: "Find chrome extensions for screen dimmer to reduce eye strain and control brightness. Learn how to dim your screen and work more comfortably."
-date: 2026-01-15
-categories: [extensions, browsing]
-tags: [screen-dimmer, chrome-extension, eye-strain, productivity]
+categories: '[extensions, browsing]'
+tags: '[screen-dimmer, chrome-extension, eye-strain, productivity]'
 author: theluckystrike
 ---
-
 # Chrome Extensions for Screen Dimmer
 
 If you have ever searched for chrome extensions for screen dimmer to make your browsing experience more comfortable, you are not alone. Many people spend hours in front of their computers every day, and sometimes the screen brightness can be overwhelming, especially in low-light environments. This guide will help you understand why screen dimming matters and how to find the right extension for your needs.
@@ -65,3 +67,9 @@ Take some time to explore the settings and customization options available. Conf
 Remember that screen dimming is just one part of maintaining eye comfort while using your computer. Taking regular breaks, adjusting your screen position, and ensuring adequate room lighting can all contribute to a more comfortable browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome About Pages List Explained](/articles/chrome-about-pages-list-explained/)
+* [Chrome Proxy Settings Guide](/articles/chrome-proxy-settings-guide/)
+* [Chrome Multiple Profiles How to Switch Fast](/articles/chrome-multiple-profiles-how-to-switch-fast/)
+

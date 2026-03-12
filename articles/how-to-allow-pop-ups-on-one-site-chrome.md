@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "How to Allow Pop Ups on One Site Chrome"
-description: "Learn how to allow pop ups on specific sites in Chrome without turning off your blocker entirely."
-date: 2026-01-15
-categories: [browsers, chrome, tips]
-tags: [chrome, pop-ups, browser-settings, web-browsing]
+title: How to Allow Pop Ups on One Site Chrome
+description: Learn how to allow pop ups on specific sites in Chrome without turning
+  off your blocker entirely. Read our comprehensive guide to learn more and optimize
+  you...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: how-to-allow-pop-ups-on-one-site-chrome
+categories: '[browsers, chrome, tips]'
+tags: '[chrome, pop-ups, browser-settings, web-browsing]'
 author: theluckystrike
 ---
-
 # How to Allow Pop Ups on One Site Chrome
 
 If you are wondering how to allow pop ups on one site Chrome, you are not alone. Many websites use pop up windows for important functions like logging in, making payments, or viewing embedded content. Chrome blocks these by default to protect you from annoying ads and potentially harmful scripts, but sometimes you need to let a specific site show pop ups. The good news is that Chrome lets you do this for individual websites without turning off your pop up blocker entirely.
@@ -73,3 +76,9 @@ If you find yourself frequently adjusting settings for different websites or wan
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome for Page Load Speed Testing](/articles/chrome-for-page-load-speed-testing/)
+* [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix/)
+* [Chrome vs Edge RAM Usage Comparison 2026](/articles/chrome-vs-edge-ram-usage-comparison-2026/)
+

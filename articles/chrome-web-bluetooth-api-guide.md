@@ -1,28 +1,15 @@
 ---
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
-layout: post
-title: "Chrome Web Bluetooth API Guide"
-description: "Master the Chrome Web Bluetooth API for web development. Learn device pairing, GATT services, characteristics, and security best practices for building Bluetooth-enabled web apps."
-date: 2026-01-15
-categories: [development, web-bluetooth, chrome-api]
-tags: [web-bluetooth, chrome, ble, Gatt, device-pairing, javascript-api]
-<<<<<<< HEAD
-=======
 layout: default
-title: "Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser"
-description: "Learn how to use the Chrome Web Bluetooth API to connect Bluetooth devices directly from your browser. Covers device pairing, GATT services, characteristics, security, and real-world implementations."
-date: 2026-03-11
-categories: [development, bluetooth, web-api]
-tags: [chrome-web-bluetooth-api, web-bluetooth, bluetooth-gatt, device-pairing, web-development]
->>>>>>> consumer/a49-chrome-web-bluetooth-api-guide
-=======
->>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
+title: Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser
+description: Learn how to use the Chrome Web Bluetooth API to connect Bluetooth devices
+  directly from your browser. Covers device pairing, GATT services, characteristics,...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-web-bluetooth-api-guide
+categories: '[development, bluetooth, web-api]'
+tags: '[chrome-web-bluetooth-api, web-bluetooth, bluetooth-gatt, device-pairing, web-development]'
 author: theluckystrike
 ---
-
 # Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser
 
 <<<<<<< HEAD
@@ -482,12 +469,12 @@ The Chrome Web Bluetooth API opens up tremendous possibilities for web developer
 <<<<<<< HEAD
 =======
 
-Understanding device pairing, GATT services, characteristics, and security best practices gives you the foundation to build robust Bluetooth-enabled applications. Remember to always prioritize user security, handle errors gracefully, and provide clear feedback throughout the device interaction flow.
 
-As browser support continues to expand and more devices become Bluetooth-enabled, now is the perfect time to explore what Web Bluetooth can do for your projects. Start with simple read operations, then progressively implement more complex features as you become comfortable with the API.
->>>>>>> consumer/a65-chrome-web-bluetooth-api-guide
 
-Understanding device pairing, GATT services, characteristics, and security best practices gives you the foundation to build robust Bluetooth-enabled applications. Remember to always prioritize user security, handle errors gracefully, and provide clear feedback throughout the device interaction flow.
+## Related Articles
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
+- [Chrome Web USB API Guide](/chrome-web-usb-api-guide)
 
 As browser support continues to expand and more devices become Bluetooth-enabled, now is the perfect time to explore what Web Bluetooth can do for your projects. Start with simple read operations, then progressively implement more complex features as you become comfortable with the API.
 =======
@@ -511,3 +498,9 @@ The Chrome Web Bluetooth API represents a significant advancement in web capabil
 From health and fitness tracking to IoT dashboards and industrial applications, the possibilities are vast. As browser support expands and the specification matures, Web Bluetooth will become an increasingly important tool in every web developer's toolkit.
 
 Remember to prioritize security, handle edge cases gracefully, and always put the user in control of their device connections. With these principles in place, you're well on your way to building excellent Bluetooth-enabled web experiences.
+
+## Related Articles
+* [chrome for screenshot and annotation tools](/articles/chrome-for-screenshot-and-annotation-tools/)
+* [Chrome User Agent String: What It Is and How It Works](/articles/chrome-user-agent-string-what-it-is/)
+* [Chrome Sign in With Google on Websites Explained](/articles/chrome-sign-in-with-google-on-websites-explained/)
+

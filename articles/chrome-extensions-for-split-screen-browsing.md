@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Chrome Extensions for Split Screen Browsing"
-description: "Looking for chrome extensions for split screen browsing? Discover extensions that let you view two or more tabs side by side for easier multitasking."
+title: Chrome Extensions for Split Screen Browsing
+description: Looking for chrome extensions for split screen browsing? Discover extensions
+  Read our comprehensive guide to learn more and boost your productivity today.
 date: 2026-03-10
-categories: [productivity, tips]
-tags: [split-screen, chrome-extensions, multitasking, productivity]
+last_modified_at: 2026-03-11
+permalink: chrome-extensions-for-split-screen-browsing
+categories: null
+tags: null
 author: theluckystrike
 ---
-
 # Chrome Extensions for Split Screen Browsing
 
 If you have ever searched for chrome extensions for split screen browsing, you know how frustrating it can be to work with multiple web pages at once. Maybe you need to compare prices on different shopping sites, copy information from one document to another, or watch a video while reading instructions. Without split screen functionality, you end up constantly switching between tabs or manually resizing windows, and it slows down everything you do.
@@ -65,3 +67,9 @@ Split screen browsing might feel unfamiliar at first, but most users find that t
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome scrollbar styling css](/articles/chrome-scrollbar-styling-css/)
+* [Chrome Extension for Taking Notes While Browsing](/articles/chrome-extension-for-taking-notes-while-browsing/)
+* [Should I Switch to Firefox for Less RAM? A Practical Guide](/articles/should-i-switch-to-firefox-for-less-ram/)
+

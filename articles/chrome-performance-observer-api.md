@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Chrome Performance Observer API Explained"
-description: "Learn how the Chrome Performance Observer API works, why it matters for web performance, and how to use it to monitor your browser's performance metrics."
+title: Chrome Performance Observer API Explained
+description: Learn how the Chrome Performance Observer API works, why it matters for
+  web performance, and how to use it to monitor your browser's performance metrics.
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-performance-observer-api
 ---
-
 The Chrome Performance Observer API is a powerful tool that allows developers and advanced users to measure and monitor real-time performance metrics in the browser. If you have ever wondered how websites know exactly how long it takes for a page to load or how they track user interactions, the Performance Observer API is one of the key technologies making that possible.
 
 ## What the Performance Observer API Actually Does
@@ -70,4 +73,15 @@ Whether you are a developer building performance-conscious applications or a use
 
 ---
 
+## Related Articles
+* [Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser](/articles/chrome-sanitizer-api-html-safe/)
+* [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track/)
+* [Chrome for Blue Light Filter Extensions](/articles/chrome-for-blue-light-filter-extensions/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome text scaling for low vision users](/articles/chrome-text-scaling-for-low-vision-users)
+- [chrome for stylus and pen input settings](/articles/chrome-for-stylus-and-pen-input-settings)
+- [Chrome Extensions for Video Conferencing](/articles/chrome-extensions-for-video-conferencing)

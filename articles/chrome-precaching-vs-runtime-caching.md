@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Precaching vs Runtime Caching"
-description: "Learn how Chrome precaching and runtime caching work to speed up your browsing, and how to manage them effectively."
-date: 2025-03-10
-categories: [tips, performance]
-tags: [chrome-precaching, chrome-runtime-caching, browser-speed, performance]
+title: Chrome Precaching vs Runtime Caching
+description: Learn how Chrome precaching and runtime caching work to speed up your
+  browsing, and how to manage them effectively. Learn effective tips and tricks to
+  optimi...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-precaching-vs-runtime-caching
+categories:
+- tips
+- performance
+tags:
+- chrome-precaching
+- chrome-runtime-caching
+- browser-speed
+- performance
 author: theluckystrike
 ---
-
 # Chrome Precaching vs Runtime Caching
 
 Chrome precaching vs runtime caching is a topic that comes up when users want to understand why their browser feels fast or slow. Both techniques help Chrome load pages more quickly, but they work in very different ways and serve different purposes. Understanding how each one works can help you troubleshoot browsing issues, manage storage space, and get the most out of your browser.
@@ -66,4 +75,15 @@ Understanding the difference between precaching and runtime caching helps you be
 
 ---
 
+## Related Articles
+* [Chrome Third Party Cookies Blocked What It Means](/articles/chrome-third-party-cookies-blocked-what-it-means/)
+* [Chrome Site Isolation Explained for Users](/articles/chrome-site-isolation-explained-for-users/)
+* [The Chrome Omnibox Calculator Trick: Quick Math Without Leaving Your Browser](/articles/chrome-omnibox-calculator-trick/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for YouTube Productivity](/articles/chrome-extensions-for-youtube-productivity)
+- [Chrome Update Made It Slower? Here's How to Fix It](/articles/chrome-update-made-it-slower-fix)
+- [chrome experimental features list 2026](/articles/chrome-experimental-features-list-2026)

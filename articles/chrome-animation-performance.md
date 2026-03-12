@@ -1,13 +1,25 @@
 ---
 layout: default
-title: "Chrome Animation Performance Guide"
-description: "Master Chrome animation performance with this comprehensive guide covering requestAnimationFrame, will-change, composite layers, and jank prevention techniques."
+title: Chrome Animation Performance Guide
+description: Master Chrome animation performance with this comprehensive guide covering
+  requestAnimationFrame, will-change, composite layers, and jank prevention techniques.
 date: 2026-01-20
-categories: [performance, chrome, web-development]
-tags: [chrome, animation-performance, requestAnimationFrame, will-change, composite-layers, jank, browser-optimization]
+categories:
+- performance
+- chrome
+- web-development
+tags:
+- chrome
+- animation-performance
+- requestAnimationFrame
+- will-change
+- composite-layers
+- jank
+- browser-optimization
 author: theluckystrike
+last_modified_at: 2026-03-12
+permalink: chrome-animation-performance
 ---
-
 # Chrome Animation Performance Guide
 
 Web animation has become an essential part of modern user interfaces. From subtle hover effects to complex interactive experiences, animations help make the web feel alive and responsive. However, poorly optimized animations can have the opposite effect, making your website feel sluggish and frustrating users. This guide will walk you through the fundamentals of Chrome animation performance, helping you create smooth, buttery-smooth animations that delight users rather than annoy them.
@@ -131,4 +143,15 @@ Remember that optimization is a process. Start with the fundamentals, measure yo
 
 ---
 
+## Related Articles
+* [Chrome User Data Directory: What Each File Does](/articles/chrome-user-data-directory-what-each-file-does/)
+* [Chrome Extensions for Meeting Notes](/articles/chrome-extensions-for-meeting-notes/)
+* [chrome for crypto portfolio tracking web](/articles/chrome-for-crypto-portfolio-tracking-web/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions)
+- [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)
+- [chrome for codesandbox optimization](/articles/chrome-for-codesandbox-optimization)

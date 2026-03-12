@@ -1,13 +1,22 @@
 ---
+title: Chrome Components Page Update Manually
+description: Learn how to manually update Chrome components using the components page.
+  Simple steps to keep your browser running smoothly. Read our full guide to master
+  your
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-components-page-update-manually
 layout: post
-title: "Chrome Components Page Update Manually"
-description: "Learn how to manually update Chrome components using the components page. Simple steps to keep your browser running smoothly."
-date: 2026-01-15
-categories: [maintenance, tips]
-tags: [chrome-components, manual-update, browser-maintenance, chrome-settings]
+categories:
+- maintenance
+- tips
+tags:
+- chrome-components
+- manual-update
+- browser-maintenance
+- chrome-settings
 author: theluckystrike
 ---
-
 # Chrome Components Page Update Manually
 
 Chrome components page update manually is something many users search for when their browser seems to be acting up or not performing as well as it should. The Chrome components page is a hidden tool that shows you all the different parts and modules that make Chrome work, and sometimes these pieces need a manual refresh to stay current.
@@ -63,3 +72,9 @@ Keeping your Chrome components updated is a simple maintenance task that can pre
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+* [Chrome Extensions for Asana](/articles/chrome-extensions-for-asana/)
+* [How to Route Chrome Tab Audio to Separate Speakers](/articles/chrome-tab-audio-routing-separate-speakers/)
+* [How to Export Chrome Passwords](/articles/how-to-export-chrome-passwords/)
+

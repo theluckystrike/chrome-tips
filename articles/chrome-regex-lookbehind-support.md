@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "Chrome Regex Lookbehind Support: What You Need to Know"
-description: "Chrome now supports regex lookbehind assertions in JavaScript. Learn how this powerful pattern matching feature works and how to use it."
+title: 'Chrome Regex Lookbehind Support: What You Need to Know'
+description: 'Chrome now supports regex lookbehind assertions in JavaScript. Learn
+  how this powerful pattern matching feature works and how to use it. Read our comprehensive '
 date: 2026-01-15
-categories: [development, regex, javascript]
-tags: [chrome-regex-lookbehind-support, regex, javascript, patterns, development]
+categories:
+- development
+- regex
+- javascript
+tags:
+- chrome-regex-lookbehind-support
+- regex
+- javascript
+- patterns
+- development
 author: theluckystrike
+permalink: chrome-regex-lookbehind-support
+last_modified_at: '2026-03-11'
 ---
-
 # Chrome Regex Lookbehind Support: What You Need to Know
 
 Regular expressions have long been a powerful tool for developers working with text pattern matching in JavaScript. However, for years, one particularly useful feature was missing: lookbehind assertions. That changed when Chrome added support for this capability, opening up new possibilities for text processing and pattern matching.
@@ -102,4 +112,15 @@ Whether you are extracting data from text, validating input, or transforming str
 
 Start experimenting with lookbehind assertions in Chrome today, and you will likely find many opportunities to simplify your text processing code.
 
+## Related Articles
+* [chrome google photos integration tips](/articles/chrome-google-photos-integration-tips/)
+* [chrome for education classroom management](/articles/chrome-for-education-classroom-management/)
+* [Chrome Certificate Transparency Explained Simply](/articles/chrome-certificate-transparency-explained-simply/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Running Slow on New Laptop? Here's Why and How to Fix It](/articles/chrome-running-slow-on-new-laptop-why)
+- [Chrome Remote Desktop How to Use](/articles/chrome-remote-desktop-how-to-use)
+- [Chrome Storage Inspector How to Use](/articles/chrome-storage-inspector-how-to-use)

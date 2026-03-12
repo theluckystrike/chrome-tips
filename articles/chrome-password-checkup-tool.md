@@ -1,13 +1,22 @@
 ---
 layout: default
-title: "Chrome Password Checkup Tool Guide"
-description: "Learn how to use Chrome's built-in Password Checkup tool to find compromised passwords, weak passwords, and detect password reuse across your accounts."
-date: 2026-01-20
-categories: [security, passwords, chrome]
-tags: [chrome-password-checkup, password-security, compromised-passwords, weak-passwords]
+title: Chrome Password Checkup Tool Guide
+description: Learn how to use Chrome's built-in Password Checkup tool to find compromised
+  passwords, weak passwords, and detect password reuse across your accounts.
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-password-checkup-tool
+categories:
+- security
+- passwords
+- chrome
+tags:
+- chrome-password-checkup
+- password-security
+- compromised-passwords
+- weak-passwords
 author: theluckystrike
 ---
-
 # Chrome Password Checkup Tool Guide
 
 In an era where data breaches are becoming increasingly common, protecting your online accounts has never been more critical. One of the most effective ways to safeguard your digital presence is by ensuring that your passwords are strong, unique, and secure. Google Chrome offers a powerful, built-in tool called **Password Checkup** that can help you identify compromised passwords, weak credentials, and instances of password reuse across your accounts. This comprehensive guide will walk you through everything you need to know about this essential security feature.
@@ -156,4 +165,15 @@ If you're not seeing the auto-change option for a particular password, the websi
 
 ---
 
+## Related Articles
+* [Chrome Session Restore Not Working Fix](/articles/chrome-session-restore-not-working-fix/)
+* [Chrome Extensions for Spotify](/articles/chrome-extensions-for-spotify/)
+* [Chrome Extensions For Bulk Image Downloading](/articles//articles/chrome-extensions-for-bulk-image-downloading//)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Err Connection Timed Out Fix](/articles/chrome-err-connection-timed-out-fix)
+- [Chrome Print to PDF Without Margins](/articles/chrome-print-to-pdf-without-margins)
+- [Chrome Notifications How to Stop Them](/articles/chrome-notifications-how-to-stop-them)

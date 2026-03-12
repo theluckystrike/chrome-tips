@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "Chrome Notification API Guide"
-description: "Learn how to use the Chrome Notification API for web and extension development. Master push notifications, permission requests, notification actions, and badges."
-date: 2026-01-20
-categories: [development, extensions, api]
-tags: [chrome-notifications, push-api, web-development, chrome-extensions, browser-api]
+title: Chrome Notification API Guide
+description: Learn how to use the Chrome Notification API for web and extension development.
+  Master push notifications, permission requests, notification actions, and bad...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-notification-api-guide
+categories:
+- development
+- extensions
+- api
+tags:
+- chrome-notifications
+- push-api
+- web-development
+- chrome-extensions
+- browser-api
 author: theluckystrike
 ---
-
 # Chrome Notification API Guide
 
 The Chrome Notification API is a powerful tool that enables developers to engage users even when they are not actively using your website or extension. Whether you need to deliver real-time updates, remind users about important events, or simply enhance user engagement, understanding how to properly implement notifications in Chrome is essential for modern web and extension development.
@@ -566,4 +576,15 @@ Remember to always respect user privacy by only requesting permissions when need
 
 With this knowledge, you are now equipped to implement powerful notification systems that keep users informed and engaged without being intrusive. Start small, iterate based on user feedback, and continuously improve your notification strategy.
 
+## Related Articles
+* [Chrome ERR_INTERNET_DISCONNECTED But Internet Works Fix](/articles/chrome-err-internet-disconnected-but-internet-works-fix/)
+* [Chrome Two Factor Authentication Setup Guide](/articles/chrome-two-factor-authentication-setup-guide/)
+* [Chrome Extension for Blocking Social Media During Work](/articles/chrome-extension-for-blocking-social-media-during-work/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Export Chrome Passwords](/articles/how-to-export-chrome-passwords)
+- [Chrome Memory Leak Fix for 2026](/articles/chrome-memory-leak-fix-2026)
+- [chrome extensions for image editor online](/articles/chrome-extensions-for-image-editor-online)

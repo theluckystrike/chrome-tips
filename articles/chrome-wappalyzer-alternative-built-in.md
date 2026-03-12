@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Chrome Wappalyzer Alternative Built In"
-description: "Discover built-in Chrome features that identify websites without extensions. Learn how to check what technology any site uses."
-date: 2026-03-09
-categories: [tips, tools]
-tags: [chrome, website-analysis, built-in-features]
+title: Chrome Wappalyzer Alternative Built In
+description: Discover built-in Chrome features that identify websites without extensions.
+  Learn how to check what technology any site uses. Read our comprehensive guide t...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-wappalyzer-alternative-built-in
+categories: '[tips, tools]'
+tags: '[chrome, website-analysis, built-in-features]'
 author: theluckystrike
 ---
-
 # Chrome Wappalyzer Alternative Built In
 
 If you are looking for a chrome wappalyzer alternative built in, you might be tired of installing extensions just to see what technology powers a website. Wappalyzer is a popular extension that tells you what CMS, framework, analytics tools, and other technologies a website uses, but Chrome actually has some hidden built-in ways to discover this information without adding anything to your browser.
@@ -61,3 +63,9 @@ The next time you wonder what technology powers a website, try opening Developer
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [chrome offline mode how to browse without internet](/articles/chrome-offline-mode-how-to-browse-without-internet/)
+* [Chrome Back Forward Cache Explained](/articles/chrome-back-forward-cache-explained/)
+* [Chrome WebGL Not Working Fix](/articles/chrome-webgl-not-working-fix/)
+

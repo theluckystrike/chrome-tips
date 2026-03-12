@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "How to Stop Chrome from Redirecting to HTTPS"
-description: "Chrome automatically redirects you to HTTPS? Learn why this happens and how to disable HTTPS redirect in Chrome settings."
-date: 2026-01-15
-categories: [privacy, security, settings]
-tags: [chrome-https, https-redirect, browser-settings, chrome-security]
+title: How to Stop Chrome from Redirecting to HTTPS
+description: Chrome automatically redirects you to HTTPS? Learn why this happens and
+  how to disable HTTPS redirect in Chrome settings. Read our comprehensive guide to
+  lea...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: how-to-stop-chrome-from-redirecting-to-https
+categories: '[privacy, security, settings]'
+tags: '[chrome-https, https-redirect, browser-settings, chrome-security]'
 author: theluckystrike
 ---
-
 If you type a website address into Chrome and find yourself automatically redirected to a secure version, you might be wondering how to stop Chrome from redirecting to HTTPS. This behavior is built into Chrome for security reasons, but there are situations where you might need more control over when these redirects happen.
 
 Chrome redirects to HTTPS because of a feature called HTTPS-First Mode or because websites enforce secure connections. While this is generally a good thing for your security, it can cause problems in certain situations. Perhaps you are testing a website that does not have an SSL certificate yet, or you need to access an older site that only works over HTTP. Whatever your reason, there are several ways to gain more control over this behavior.
@@ -75,3 +78,9 @@ Remember that you can always type an HTTP address directly into the address bar 
 Taking a moment to understand these settings gives you more flexibility while keeping your everyday browsing secure. The web is moving toward HTTPS by default, and for good reason, but that does not mean you should be locked out of older content when you genuinely need access.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.
+
+## Related Articles
+* [Chrome Audit Page Seo How To](/articles/chrome-audit-page-seo-how-to/)
+* [Chrome Extensions for Spotify](/articles/chrome-extensions-for-spotify/)
+* [chrome for gmail productivity extensions](/articles/chrome-for-gmail-productivity-extensions/)
+

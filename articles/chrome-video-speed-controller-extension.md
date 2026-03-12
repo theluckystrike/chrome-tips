@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "Chrome Video Speed Controller Extension"
-description: "Need a chrome video speed controller extension? This guide shows how to control video playback speed in Chrome for faster viewing."
-date: 2026-01-15
-categories: [extensions, media, productivity]
-tags: [chrome-video, video-speed, chrome-extensions, playback-control]
+title: Chrome Video Speed Controller Extension
+description: Need a chrome video speed controller extension? This guide shows how
+  to control video playback speed in Chrome for faster viewing. Read our comprehensive
+  gui...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-video-speed-controller-extension
+categories: '[extensions, media, productivity]'
+tags: '[chrome-video, video-speed, chrome-extensions, playback-control]'
 author: theluckystrike
 ---
-
 # Chrome Video Speed Controller Extension
 
 Have you ever wished you could watch videos in Chrome faster without constantly clicking to skip ahead? Maybe you are watching a long tutorial that moves too slowly, or you need to review a recording quickly for work. A chrome video speed controller extension lets you adjust how fast videos play, saving you time and making your viewing experience much more comfortable.
@@ -70,4 +73,15 @@ A chrome video speed controller extension gives you freedom to watch videos at y
 
 The best extension for you depends on your specific needs, but having some form of speed control available across all websites is invaluable. Take a few minutes to find one that works well with your most-visited sites, and you will quickly wonder how you ever managed without it.
 
+## Related Articles
+* [Chrome Autofill Wrong Address How to Fix](/articles/chrome-autofill-wrong-address-how-to-fix/)
+* [chrome enrollment for schools how it works](/articles/chrome-enrollment-for-schools-how-it-works/)
+* [Chrome Window Size Not Saving Fix](/articles/chrome-window-size-not-saving-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Beta Channel How to Join and Leave](/articles/chrome-beta-channel-how-to-join-and-leave)
+- [Chrome vs Edge Extensions Compatibility](/articles/chrome-vs-edge-extensions-compatibility)
+- [Chrome vs Safari for iPhone Which is Better](/articles/chrome-vs-safari-for-iphone-which-is-better)

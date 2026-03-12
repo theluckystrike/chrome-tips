@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Chrome Translate Not Working? Here's How to Fix It"
-description: "Fix Chrome's built-in translation feature when it stops working. Troubleshoot missing translate bar, incorrect translations, and language detection issues."
-date: 2025-03-14
-categories: [troubleshooting, features]
-tags: [chrome-translate, translation-fix, language-settings, google-translate]
+title: Chrome Translate Not Working? Here's How to Fix It
+description: Fix Chrome's built-in translation feature when it stops working. Troubleshoot
+  missing translate bar, incorrect translations, and language detection issues.
+date: '2025-03-14'
+last_modified_at: '2026-03-10'
+permalink: chrome-translate-not-working-fix
+categories: '[troubleshooting, features]'
+tags: '[chrome-translate, translation-fix, language-settings, google-translate]'
 author: theluckystrike
 ---
-
 # Chrome Translate Not Working? Here's How to Fix It
 
 Chrome's built-in translation is one of those features you don't think about until it stops working. You visit a page in another language and... nothing happens. No translation bar, no prompt, just a page you can't read. Here's how to fix it.
@@ -83,4 +85,15 @@ To reset Chrome, go to Settings, then "Reset settings" in the left-hand sidebar,
 
 Chrome's translation feature is incredibly useful for navigating the multilingual web. When it fails, it's usually due to a simple setting or a minor conflict. By systematically checking your language settings, site-specific permissions, and extension interactions, you can almost always get it working again quickly. Remember that keeping your browser optimized with tools like **Tab Suspender Pro** can also contribute to a more stable environment for all of Chrome's built-in features.
 
+## Related Articles
+* [Chrome Crashing on Low Memory Computer](/articles/chrome-crashing-on-low-memory-computer/)
+* [Chrome Extensions for Binaural Beats](/articles/chrome-extensions-for-binaural-beats/)
+* [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Third Party Cookies Blocked What It Means](/articles/chrome-third-party-cookies-blocked-what-it-means)
+- [Chrome for Forest Focus Timer Extension](/articles/chrome-for-forest-focus-timer-extension)
+- [Chrome Canvas Rendering Slow Fix: Practical Solutions for Limited RAM](/articles/chrome-canvas-rendering-slow-fix)

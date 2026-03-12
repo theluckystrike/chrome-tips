@@ -1,13 +1,16 @@
 ---
+title: Chrome Extension for Blocking Social Media During Work
+description: Learn how a chrome extension for blocking social media during work can
+  help you stay focused and get more done. Check out our expert recommendations and
+  step-by
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-blocking-social-media-during-work
 layout: post
-title: "Chrome Extension for Blocking Social Media During Work"
-description: "Learn how a chrome extension for blocking social media during work can help you stay focused and get more done."
-date: 2026-03-09
-categories: [productivity, tips]
-tags: [chrome-extensions, productivity, focus, social-media]
+categories: '[productivity, tips]'
+tags: '[chrome-extensions, productivity, focus, social-media]'
 author: theluckystrike
 ---
-
 # Chrome Extension for Blocking Social Media During Work
 
 If you are looking for a chrome extension for blocking social media during work, you are not alone. Millions of people struggle with the constant temptation to check Facebook, Twitter, Instagram, or TikTok while trying to focus on important tasks. This article will help you understand why this happens and what you can do about it.
@@ -72,4 +75,15 @@ Celebrate your progress. When you complete a focused work session, acknowledge i
 
 ---
 
+## Related Articles
+* [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings/)
+* [Chrome CSS Grid Layout Complete Guide](/articles//chrome-css-grid-layout-complete-guide//)
+* [chrome extension rejected common reasons fix](/articles/chrome-extension-rejected-common-reasons-fix/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome DevTools Changes Panel to Track Edits](/articles//chrome-devtools-changes-panel-track-edits/)
+- [Chrome Address Bar Not Showing Fix](/articles/chrome-address-bar-not-showing-fix)
+- [Best Chrome Settings for a Slow Computer](/articles/best-chrome-settings-for-slow-computer)

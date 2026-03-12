@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Chrome Drag and Drop Not Working Fix"
-description: "Chrome drag and drop not working can be frustrating. Learn why it happens and simple solutions to get drag and drop working again."
+title: Chrome Drag and Drop Not Working Fix
+description: Chrome drag and drop not working can be frustrating. Learn why it happens
+  and simple solutions to get drag and drop working again. Explore our comprehensive...
 date: 2025-03-09
-categories: [troubleshooting, tips]
-tags: [chrome-drag-and-drop, drag-drop-not-working, chrome-fix, browser-tips]
-author: theluckystrike
+last_modified_at: 2026-03-09
+permalink: chrome-drag-and-drop-not-working-fix
 ---
-
 # Chrome Drag and Drop Not Working Fix
 
 Chrome drag and drop not working is one of those annoying problems that can completely throw off your workflow. You try to move a file, rearrange your bookmarks, or organize something in your browser, and nothing happens. The item you're trying to drag just sits there, refusing to move. Whether you're trying to upload files to a website, organize your bookmarks, or move tabs around, this issue can be incredibly frustrating. The good news is that this problem is usually fixable, and we're going to walk you through everything you need to know to get drag and drop working again in Chrome.
@@ -85,3 +84,9 @@ Every few months, take a moment to do some basic browser maintenance. Clear your
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+* [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips/)
+* [Chrome Slower After macOS Update Fix](/articles/chrome-slower-after-macos-update-fix/)
+* [Chrome Opens in Small Window Fix](/articles/chrome-opens-in-small-window-fix/)
+

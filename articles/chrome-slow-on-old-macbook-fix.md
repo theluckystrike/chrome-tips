@@ -1,15 +1,14 @@
 ---
 layout: post
 title: "Chrome Slow on Your Old MacBook? Here's How to Fix It"
-description: "Speed up Chrome on older MacBooks. Practical fixes for lag, high CPU.................................................................................."
+description: Speed up Chrome on older MacBooks. Practical fixes for lag, high CPU Your MacBook might still look great on the outside, but if Chrome is crawling every tim
 date: "2025-02-18"
 last_modified_at: '2026-03-12'
 permalink: "chrome-slow-on-old-macbook-fix"
 categories: 
 tags: 
 author: theluckystrike
----
-# Chrome Slow on Your Old MacBook? Here's How to Fix It
+---# Chrome Slow on Your Old MacBook? Here's How to Fix It
 
 Your MacBook might still look great on the outside, but if Chrome is crawling every time you open it, the years are starting to show on the inside. The good news is that older MacBooks can still run Chrome perfectly well — you just need to optimize a few things.
 
@@ -106,16 +105,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 - [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
 
 
-## Related Articles
-* [Chrome Contact Picker API Explained](/articles/chrome-contact-picker-api-explained/)
-* [Chrome Search Engine Changed by Itself Fix](/articles/chrome-search-engine-changed-by-itself-fix/)
-* [chrome for apple music web player tips](/articles/chrome-for-apple-music-web-player-tips/)
-
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
->>>>>>> qa/loop-3
-
-## Related Articles
-
-- [How to Find a Tab by Name in Chrome: Complete Guide](/articles/chrome-find-tab-by-name-search)
-- [Chrome Navigate Back With Gesture How to](/articles/chrome-navigate-back-with-gesture-how-to)
-- [chrome surfshark extension review 2026](/articles/chrome-surfshark-extension-review-2026)

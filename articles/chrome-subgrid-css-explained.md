@@ -1,14 +1,11 @@
 ---
 layout: post
-title: Chrome Subgrid CSS Explained
-description: Learn what Chrome subgrid CSS means, why it matters for web design, and
-  how to use it in your projects. Read our comprehensive guide to learn more and improve
-  y
-date: '2026-03-09'
+title: "Chrome Subgrid CSS Explained"
+description: Learn what Chrome subgrid CSS means, why it matters for web design, and Chrome subgrid CSS explained is a topic that many web designers and developers have
+date: "2026-03-09"
 last_modified_at: '2026-03-12'
-permalink: chrome-subgrid-css-explained
----
-Chrome subgrid CSS explained is a topic that many web designers and developers have been curious about since Chrome added support for this feature. If you have heard about subgrid and wonder what it does or how it can help you create better websites, this guide will walk you through everything you need to know in simple terms.
+permalink: "chrome-subgrid-css-explained"
+---Chrome subgrid CSS explained is a topic that many web designers and developers have been curious about since Chrome added support for this feature. If you have heard about subgrid and wonder what it does or how it can help you create better websites, this guide will walk you through everything you need to know in simple terms.
 
 ## What Subgrid Actually Is
 
@@ -75,8 +72,3 @@ If you are exploring Chrome features like subgrid or working on web design proje
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
-
-- [chrome for google ads management tips](/articles/chrome-for-google-ads-management-tips)
-- [Chrome vs Firefox Memory Usage Test 2026](/articles/chrome-vs-firefox-memory-usage-test-2026)
-- [chrome recently closed tabs shortcut](/articles/chrome-recently-closed-tabs-shortcut)

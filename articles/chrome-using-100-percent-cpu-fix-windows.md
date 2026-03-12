@@ -1,15 +1,10 @@
 ---
 layout: post
-title: Chrome Using 100 Percent CPU Fix Windows
-description: Is Chrome using 100 percent of your CPU on Windows? Here are practical
-  solutions to bring it back to normal. Read our comprehensive guide to learn more
-  and o...
+title: "Fix Chrome Using 100 Percent CPU on Windows: Quick Solutions"
+description: Is Chrome hitting 100% CPU on Windows? Learn how to identify problematic tabs, manage extensions, and optimize settings to bring your CPU usage back to normal.
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-using-100-percent-cpu-fix-windows
-categories: '[performance, cpu, troubleshooting]'
-tags: '[chrome-using-100-percent-cpu, chrome-cpu-fix, windows-chrome-slow]'
-author: theluckystrike
 ---
 # Chrome Using 100 Percent CPU Fix Windows
 

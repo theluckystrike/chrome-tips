@@ -1,21 +1,10 @@
 ---
-layout: default
-title: Chrome User Data Directory Explained
-description: Understand what the Chrome user data directory is, where it is located, and why it matters for your browsing experience, extensions, and settings.
-date: 2025-02-21
-categories:
-- chrome
-- browser
-- tips
-tags:
-- chrome-user-data
-- browser-settings
-- chrome-directory
-- user-data
-- browser-files
-author: theluckystrike
+layout: post
+title: "Chrome User Data Directory Explained: Location and Management"
+description: Discover where the Chrome user data directory is located and how to manage your browser profile, extensions, and settings safely with our comprehensive guide.
+date: '2025-02-21'
+last_modified_at: '2026-03-12'
 permalink: chrome-user-data-directory-explained
-last_modified_at: '2025-02-21'
 ---
 
 # Chrome User Data Directory Explained

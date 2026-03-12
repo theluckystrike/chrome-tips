@@ -1,15 +1,14 @@
 ---
 layout: post
 title: "Chrome Sleeping Tabs Explained: What They Are and How to Use Them"
-description: "Learn what sleeping tabs in Chrome are, why they matter, and how to..................................................................................."
+description: Learn what sleeping tabs in Chrome are, why they matter, and how to If you have ever noticed Chrome running slower than usual, or seen a small message sayin
 date: "2026-03-09"
 last_modified_at: '2026-03-12'
 permalink: "chrome-sleeping-tabs-explained"
 categories: 
 tags: 
 author: theluckystrike
----
-# Chrome Sleeping Tabs Explained: What They Are and How to Use Them
+---# Chrome Sleeping Tabs Explained: What They Are and How to Use Them
 
 If you have ever noticed Chrome running slower than usual, or seen a small message saying a tab was "inactive to save memory," you might have wondered why chrome sleeping tabs appear in your browser and what exactly they do. This guide will walk you through everything you need to know about sleeping tabs in Chrome, the technical mechanics behind them, and how you can use them to keep your computer fast and responsive.
 
@@ -72,8 +71,3 @@ Chrome sleeping tabs are no longer an "experimental" feature; they are a fundame
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
-
-- [Ungoogled Chromium What It Is and How to Install](/articles/ungoogled-chromium-what-it-is-and-how-to-install)
-- [Chrome Education Account What It Includes](/articles/chrome-education-account-what-it-includes)
-- [Chrome Fetch API Complete Guide](/articles/chrome-fetch-api-complete-guide)

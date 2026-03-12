@@ -83,6 +83,6 @@ These chrome address bar tips and tricks take just a few minutes to learn but ca
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome For Google Flights Tips And Tricks](/chrome-for-google-flights-tips-and-tricks)
-- [Chrome Android Tips and Tricks 2026](/chrome-android-tips-and-tricks-2026)
-- [Chrome for Google Sheets Tips and Tricks](/chrome-for-google-sheets-tips-and-tricks)
+- [Chrome Lazy Loading Images Explained](/chrome-lazy-loading-images-explained/)
+- [Chrome for Text to Speech on Any Page](/chrome-for-text-to-speech-on-any-page/)
+- [How to Speed Up Chrome in 5 Minutes](/how-to-speed-up-chrome-in-5-minutes/)

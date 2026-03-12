@@ -95,6 +95,6 @@ If you continue having issues after trying all these steps, it might be worth ch
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
-- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
-- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)
+- [How to Fix Chrome Mixed Content Warning](/chrome-mixed-content-warning-fix/)
+- [chrome extensions for screen recording free](/chrome-extensions-for-screen-recording-free/)
+- [Chrome Tab Organize AI Feature Explained](/chrome-tab-organize-ai-feature-explained/)

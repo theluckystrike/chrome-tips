@@ -78,6 +78,6 @@ Staying informed about the privacy features in your browser helps you make choic
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Forced Extensions by Admin What It Means](/chrome-forced-extensions-by-admin-what-it-means)
-- [Chrome Third Party Cookies Blocked What It Means](/chrome-third-party-cookies-blocked-what-it-means)
-- [Chrome HSTS What It Means for Security](/chrome-hsts-what-it-means-for-security)
+- [Chrome Restore Previous Session After Crash](/chrome-restore-previous-session-after-crash/)
+- [Chrome Extensions For College Professors](//articles/chrome-extensions-for-college-professors//)
+- [chrome for dual monitor tab management](/chrome-for-dual-monitor-tab-management/)

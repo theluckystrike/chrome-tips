@@ -96,6 +96,6 @@ Sometimes hardware issues can cause browser problems. If your computer is runnin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Drag and Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
-- [Chrome Netflix Not Working Fix](/chrome-netflix-not-working-fix)
-- [Chrome Zoom Meeting Not Working Fix](/chrome-zoom-meeting-not-working-fix)
+- [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/chrome-devtools-sensors-tab-geolocation/)
+- [Chrome Toolbar Missing Fix](/chrome-toolbar-missing-fix/)
+- [Chrome Extension Manifest V3 What Users Need to Know](/chrome-extension-manifest-v3-what-users-need-to-know/)

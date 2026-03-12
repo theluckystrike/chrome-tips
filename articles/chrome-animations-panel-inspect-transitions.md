@@ -125,9 +125,7 @@ Master the Animations panel, and you'll ship more polished, professional web exp
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [chrome shared storage api privacy ads](/articles/chrome-shared-storage-api-privacy-ads/)
-- [chrome javascript disable for one site how to](/articles/chrome-javascript-disable-for-one-site-how-to/)
-- [Chrome Developer Tools Shortcut](/articles//chrome-developer-tools-shortcut//)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained/)
+- [How to Simulate Slow Connection in Chrome](/chrome-network-throttling-how-to-simulate-slow-connection/)
+- [Chrome Web Store Best Free Games](/chrome-web-store-best-free-games/)

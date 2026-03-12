@@ -66,6 +66,6 @@ Switching between Chrome channels is easier than you might think, and now you kn
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
-- [Chrome Sync Phone and Computer How to Set Up](/chrome-sync-phone-and-computer-how-to-set-up)
-- [How to Uninstall Chrome Completely and Reinstall](/how-to-uninstall-chrome-completely-and-reinstall)
+- [Chrome Slower After macOS Update Fix](/chrome-slower-after-macos-update-fix/)
+- [How to Pin a Website in Chrome Taskbar](/how-to-pin-a-website-in-chrome-taskbar/)
+- [Chrome WebAuthn Passwordless Login](/chrome-webauthn-passwordless-login/)

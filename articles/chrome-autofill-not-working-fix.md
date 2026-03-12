@@ -94,6 +94,6 @@ Every few months, take a moment to review and update your saved autofill informa
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Translate Not Working? Here's How to Fix It](/chrome-translate-not-working-fix)
-- [Chrome Netflix Not Working Fix](/chrome-netflix-not-working-fix)
-- [Chrome Camera Not Working Fix](/chrome-camera-not-working-fix)
+- [chrome extensions for screen recording free](/chrome-extensions-for-screen-recording-free/)
+- [Chrome Time to First Byte Explained](/chrome-time-to-first-byte-explained/)
+- [Chrome Process Per Tab: How to Disable It to Save Memory](/chrome-process-per-tab-disable-to-save-memory/)

@@ -77,9 +77,7 @@ Learning how to allow popups for one site in Chrome is a useful skill that gives
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome Address Bar Suggestions How to Clear](/articles/chrome-address-bar-suggestions-how-to-clear/)
-- [Chrome Not Enough Memory Error](/articles/chrome-not-enough-memory-error/)
-- [chrome browser fingerprint how to check yours](/articles/chrome-browser-fingerprint-how-to-check-yours/)
+- [Chrome Service Worker What It Does Explained](/chrome-service-worker-what-it-does-explained/)
+- [Chrome Status Code 403 Forbidden Explained](/chrome-status-code-403-forbidden-explained/)
+- [chrome browser process vs tab process explained](/chrome-browser-process-vs-tab-process-explained/)

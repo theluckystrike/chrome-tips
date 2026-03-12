@@ -73,9 +73,7 @@ If AirPlay is essential for your daily workflow, using Safari on a Mac or invest
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome MotionMark Graphics Benchmark](/articles/chrome-motionmark-graphics-benchmark/)
-- [chrome prefetch and preconnect explained](/articles/chrome-prefetch-and-preconnect-explained/)
-- [Chrome Lost All My Tabs After Update Fix](/articles/chrome-lost-all-my-tabs-update-fix/)
+- [Chrome Extension for Viewing Page Load Time](/chrome-extension-for-viewing-page-load-time/)
+- [chrome coupons in address bar feature](/chrome-coupons-in-address-bar-feature/)
+- [Chrome Devtools Snippets How to Use](/chrome-devtools-snippets-how-to-use/)

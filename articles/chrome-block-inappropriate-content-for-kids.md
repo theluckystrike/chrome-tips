@@ -87,6 +87,6 @@ Remember that no filter is 100 percent effective. The best protection comes from
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Supervised Profiles for Kids](/chrome-supervised-user-profile-for-kids)
-- [Best Chrome Extensions for Content Creators](/best-chrome-extensions-for-content-creators)
-- [Chrome Supervised Profiles for Kids](/chrome-supervised-profiles-for-kids)
+- [Chrome WebAssembly Debugging Guide](/chrome-wasm-debugging-guide/)
+- [Chrome Security Checkup How to Run](/chrome-security-checkup-how-to-run/)
+- [How to Customize Chrome Toolbar](/how-to-customize-chrome-toolbar/)

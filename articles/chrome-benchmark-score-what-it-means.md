@@ -82,6 +82,6 @@ Regular maintenance matters more than chasing the highest possible numbers. Keep
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome About Blank Page What It Means](/chrome-about-blank-page-what-it-means)
-- [Chrome Site Isolation What It Means](/chrome-site-isolation-what-it-means)
-- [Chrome Cross Origin Error What It Means](/chrome-cross-origin-error-what-it-means)
+- [chrome topics api privacy sandbox explained](/chrome-topics-api-privacy-sandbox-explained/)
+- [Chrome Keyboard Shortcuts for Power Users](/chrome-keyboard-shortcuts-for-power-users/)
+- [Chrome Default Download Location How to Change](//chrome-default-download-location-how-to-change//)

@@ -99,9 +99,7 @@ These Chrome Android tips and tricks for 2026 cover the essentials for faster, m
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome Status Bar Where Did It Go](/articles/chrome-status-bar-where-did-it-go/)
-- [Chrome Extensions for Website Speed Test](/articles/chrome-extensions-for-website-speed-test/)
-- [Chrome Remote Desktop Slow Fix](/articles/chrome-remote-desktop-slow-fix/)
+- [Chrome Extensions for Instapaper](/chrome-extensions-for-instapaper/)
+- [Chrome QR Code for Page How to Generate](/chrome-qr-code-for-page-how-to-generate/)
+- [How to Increase Chrome Cache Size](/chrome-cache-size-how-to-increase/)

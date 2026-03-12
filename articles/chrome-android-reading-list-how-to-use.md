@@ -99,9 +99,7 @@ Give it a try with a few articles today. Once you get comfortable with how chrom
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome Address Bar Suggestions How to Clear](/articles/chrome-address-bar-suggestions-how-to-clear/)
-- [Chrome Extensions for Managing Multiple Social Accounts](/articles/chrome-extensions-for-managing-multiple-social-accounts/)
-- [Chrome Touchpad Gestures Not Working Fix](/articles/chrome-touchpad-gestures-not-working-fix/)
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side/)
+- [chrome voice typing in google docs](/chrome-voice-typing-in-google-docs/)
+- [chrome pwa storage quota how much space](/chrome-pwa-storage-quota-how-much-space/)

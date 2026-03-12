@@ -3,7 +3,7 @@ layout: "post"
 title: "Chrome Camera Permission for One Site How to Set"
 description: "Learn how to set camera permission for a specific site in Chrome. Simple steps to control which websites can use your camera. Check out our expert guide for ste"
 date: "2026-01-15"
-last_modified_at: "2026-03-09"
+last_modified_at: 2026-03-12
 permalink: "chrome-camera-permission-for-one-site-how-to-set"
 categories: [privacy, troubleshooting]
 tags: [chrome-camera-permission, chrome-settings, camera-access, site-permissions]
@@ -74,6 +74,6 @@ If you use many tabs in Chrome and want to keep your browser running smoothly wh
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Microphone Permission for One Site How to Set](/chrome-microphone-permission-for-one-site-how-to-set)
-- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
-- [Chrome Location Access for One Site How to Allow](/chrome-location-access-for-one-site-how-to-allow)
+- [chrome webgpu gaming in browser future](/chrome-webgpu-gaming-in-browser-future/)
+- [Chrome Best Settings For Privacy](/chrome-best-settings-for-privacy/)
+- [Chrome for Ambient Sound Extensions](/chrome-for-ambient-sound-extensions/)

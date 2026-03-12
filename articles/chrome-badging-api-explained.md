@@ -73,6 +73,6 @@ Using tools like this, along with understanding how features like the Badging AP
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Contact Picker API Explained](/chrome-contact-picker-api-explained)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative/)
+- [Chrome Credential Manager Autofill Explained](/chrome-credential-manager-autofill-explained/)
+- [Chrome Tab Limit: Is There a Maximum?](/chrome-tab-limit-is-there-a-maximum/)

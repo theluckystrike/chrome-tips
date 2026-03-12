@@ -72,6 +72,6 @@ One common reason people want to stop Chrome updates is that new browser version
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [How to Stop Chrome from Redirecting to HTTPS](/how-to-stop-chrome-from-redirecting-to-https)
-- [Chrome Auto Sign In to Websites How to Control](/chrome-auto-sign-in-to-websites-how-to-control)
-- [Chrome Opens on Startup Windows: How to Stop](/chrome-opens-on-startup-windows-how-to-stop)
+- [Chrome Layers Panel 3D View Explained](/chrome-layers-panel-3d-view-explained/)
+- [Chrome Dark Mode on Phone How to Enable](//chrome-dark-mode-on-phone-how-to-enable//)
+- [Chrome Performance Observer API Explained](/chrome-performance-observer-api-explained/)

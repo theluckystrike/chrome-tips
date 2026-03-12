@@ -72,9 +72,7 @@ Your phone is supposed to make your life easier, not add another thing to worry 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome Translate Not Working? Here's How to Fix It](/articles/chrome-translate-not-working-fix/)
-- [Chrome Layer Cascade CSS: A Complete Guide to Modern Style Management](/articles/chrome-layer-cascade-css/)
-- [chrome offline pages on phone how to save](/articles/chrome-offline-pages-on-phone-how-to-save/)
+- [Chrome NET ERR CERT DATE INVALID Fix](/chrome-net-err-cert-date-invalid-fix/)
+- [Chrome Extensions for Split Tabs](/chrome-extensions-for-split-tabs/)
+- [chrome mutation observer api explained](/chrome-mutation-observer-api-explained/)

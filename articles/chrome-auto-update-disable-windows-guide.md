@@ -108,9 +108,7 @@ Controlling Chrome auto-update on Windows is straightforward with these multiple
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [chrome topics api explained simply](/articles/chrome-topics-api-explained-simply/)
-- [Chrome for Babbel Web App Tips](/articles/chrome-for-babbel-web-app-tips/)
-- [Chrome Service Workers List How to View](/articles/chrome-service-workers-list-how-to-view/)
+- [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/chrome-site-isolation-security-feature/)
+- [Chrome Extensions on Android Is It Possible](/chrome-extensions-on-android-is-it-possible/)
+- [Chrome DevTools Performance Panel Explained](/chrome-devtools-performance-panel-explained/)

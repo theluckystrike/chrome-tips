@@ -80,6 +80,6 @@ Dealing with chrome autofill wrong address can be frustrating, but it's usually 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chrome Sync Paused How to Fix](/chrome-sync-paused-how-to-fix)
-- [Chrome Address Autofill How to Manage](/chrome-address-autofill-how-to-manage)
+- [Chrome Extensions For Elderly Users Simple Tools](//articles/chrome-extensions-for-elderly-users-simple-tools//)
+- [Why Are People Switching from Chrome to Firefox](/why-are-people-switching-from-chrome-to-firefox/)
+- [Chrome Scroll Not Smooth Fix](/chrome-scroll-not-smooth-fix/)

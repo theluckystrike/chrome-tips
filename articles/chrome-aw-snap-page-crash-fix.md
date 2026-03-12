@@ -82,6 +82,6 @@ Consider limiting the number of open tabs. Each tab consumes memory, and having 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)
-- [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Best Settings For Slow Internet](/chrome-best-settings-for-slow-internet/)
+- [Chrome Extensions for Tab Previewer Hover](/chrome-extensions-for-tab-previewer-hover/)
+- [Chrome Safe Browsing: What It Does and How It Protects You](/chrome-safe-browsing-what-it-does/)

@@ -124,3 +124,8 @@ The most important thing is to install one and keep it updated. With the right a
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Chrome Tab From Other Device Not Showing Fix](/chrome-tab-from-other-device-not-showing-fix/)
+- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader/)
+- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced/)

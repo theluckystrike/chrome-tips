@@ -68,6 +68,6 @@ Give it a try. Install an extension, play your favorite content, and start adjus
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
-- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
-- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
+- [chrome new tab page how to customize](/chrome-new-tab-page-how-to-customize/)
+- [Chrome Address Bar Shortcuts You Didn't Know](/chrome-address-bar-shortcuts-you-didnt-know/)
+- [chrome price drop alerts how to enable](/chrome-price-drop-alerts-how-to-enable/)

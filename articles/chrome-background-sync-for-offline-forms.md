@@ -60,6 +60,6 @@ The internet will never be perfect, and connection drops will happen. But with t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Periodic Background Sync Explained](/chrome-periodic-background-sync-explained)
-- [Chrome Extensions for Google Forms](/chrome-extensions-for-google-forms)
-- [Chrome for Google Docs Offline Setup](/chrome-for-google-docs-offline-setup)
+- [Chrome Lite Mode Does It Still Exist](/chrome-lite-mode-does-it-still-exist/)
+- [Chrome Address Bar Autocomplete How to Clear](/chrome-address-bar-autocomplete-how-to-clear/)
+- [How to Download All Images from a Web Page in Chrome](/chrome-download-all-images-from-page-how-to/)

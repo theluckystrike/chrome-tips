@@ -77,9 +77,7 @@ For developers who manage many open tabs while working on complex projects, tool
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome Extension for Color Picker from Any Webpage](/articles/chrome-extension-for-color-picker-from-any-webpage/)
-- [Chrome Extensions for Google Forms](/articles/chrome-extensions-for-google-forms/)
-- [Chrome Switch Between Windows Shortcut](/articles/chrome-switch-between-windows-shortcut/)
+- [chrome themes how to change and customize](/chrome-themes-how-to-change-and-customize/)
+- [Why Is Chrome Still the Most Popular Browser in 2026?](/why-is-chrome-still-most-popular-browser/)
+- [Chrome for YouTube 4K Playback Settings](/chrome-for-youtube-4k-playback-settings/)

@@ -96,3 +96,8 @@ The combination of effective note-taking and smart tab management creates a brow
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Chrome Dashlane vs 1Password Comparison](//chrome-dashlane-vs-onepassword-comparison//)
+- [Why Is Chrome So Slow on My Computer?](/why-is-chrome-so-slow-on-my-computer/)
+- [Chrome Permissions Policy Header Explained](/chrome-permissions-policy-header-explained/)

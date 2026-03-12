@@ -142,6 +142,6 @@ These changes together can make Chrome feel significantly faster, even on older 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*
 
 ## Related Articles
-- [Chrome Figma Running Slow Fix: A Practical Guide](/chrome-figma-running-slow-fix)
-- [Chrome Slow After Hibernation Fix](/chrome-slow-after-hibernation-fix)
-- [Chrome Android Slow Fix 2026](/chrome-android-slow-fix-2026)
+- [Chrome for LeechBlock Setup and Tips](/chrome-for-leechblock-setup-and-tips/)
+- [chrome safe search how to force enable](/chrome-safe-search-how-to-force-enable/)
+- [Chrome Tabs Keep Reloading When I Switch Back](/chrome-tabs-keep-reloading-when-i-switch-back/)

@@ -83,9 +83,7 @@ The key is understanding that standard Chrome search has limits. By recognizing 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chromebook vs MacBook for College](/articles/chromebook-vs-macbook-for-college/)
-- [Best Chrome Extensions for Reading Articles](/articles/best-chrome-extensions-for-reading-articles/)
-- [How to Fix Chrome Not Loading Images on Webpages](/articles/chrome-webpage-not-loading-images-fix/)
+- [Chrome Resize Observer API Explained](/chrome-resize-observer-api-explained/)
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11/)
+- [Chrome Status Code 404 Not Found Explained](/chrome-status-code-404-not-found-explained/)

@@ -72,6 +72,6 @@ Whether you are building a website or simply browsing the internet, understandin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Font Palette CSS Explained](/chrome-font-palette-css-explained)
-- [Chrome Nesting CSS Explained](/chrome-nesting-css-explained)
-- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [chrome tab groups keyboard shortcuts](/chrome-tab-groups-keyboard-shortcuts/)
+- [Chrome for Music Discovery Extensions](/chrome-for-music-discovery-extensions/)
+- [Chrome Side Panel Extensions Worth Using](/chrome-side-panel-extensions-worth-using/)

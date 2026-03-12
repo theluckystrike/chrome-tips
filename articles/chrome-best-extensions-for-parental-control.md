@@ -91,6 +91,6 @@ Consider adding Tab Suspender Pro to your family's browser for additional organi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Coupon Finding Best Extensions](/chrome-for-coupon-finding-best-extensions)
-- [Best Chrome Extensions for Reddit Users](/best-chrome-extensions-for-reddit-users)
-- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+- [chrome extensions for similar image finder](/chrome-extensions-for-similar-image-finder/)
+- [Chrome Keeps Logging Me Out of Sites Fix](/chrome-keeps-logging-me-out-of-sites-fix/)
+- [Chrome Gmail Keyboard Shortcuts](/chrome-gmail-keyboard-shortcuts/)

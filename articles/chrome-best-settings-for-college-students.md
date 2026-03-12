@@ -98,6 +98,6 @@ Making these adjustments takes about ten minutes but pays off every time you ope
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/best-chrome-settings-for-chromebook)
-- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
-- [Chrome Best Settings For Slow Internet](/chrome-best-settings-for-slow-internet)
+- [Chrome Extensions for Bibliography Management](/chrome-extensions-for-bibliography-management/)
+- [Chrome Extensions for Research Papers](/chrome-extensions-for-research-papers/)
+- [chrome shared storage api privacy impact](/chrome-shared-storage-api-privacy-impact/)

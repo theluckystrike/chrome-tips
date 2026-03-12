@@ -96,6 +96,6 @@ Finally, contact the website where the download is hosted. They might be aware o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
-- [How to Change Default Download Location Chrome](/how-to-change-default-download-location-chrome)
-- [Chrome Default Download Location How to Set](/chrome-default-download-location-how-to-set)
+- [Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser](/chrome-sanitizer-api-html-safe/)
+- [Best Chrome Extensions for Lawyers 2026](/best-chrome-extensions-for-lawyers-2026/)
+- [Chrome Devtools Snippets How to Use](/chrome-devtools-snippets-how-to-use/)

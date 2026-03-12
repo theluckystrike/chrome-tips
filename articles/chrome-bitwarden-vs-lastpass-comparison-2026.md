@@ -73,6 +73,6 @@ One more tip that helps with browser extensions overall: keeping too many tabs o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome vs Arc Browser 2026](/chrome-vs-arc-browser-2026)
-- [Chrome vs Edge Speed Test 2026](/chrome-vs-edge-speed-test-2026)
-- [Chrome Pi Hole Vs Browser Ad Blocker Comparison](/chrome-pi-hole-vs-browser-ad-blocker-comparison)
+- [Why Is Chrome So Slow on My Computer?](/why-is-chrome-so-slow-on-my-computer/)
+- [Chrome Update Failed Error 7 Fix](/chrome-update-failed-error-7-fix/)
+- [Chrome for Coursera Web App Optimization](/chrome-for-coursera-web-app-optimization/)

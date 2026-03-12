@@ -96,9 +96,7 @@ Finally, make sure your Android operating system is up to date. System updates o
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome Custom Elements Explained](/articles//chrome-custom-elements-explained//)
-- [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix/)
-- [Chrome Idle Detection API Explained: What It Means for Your Browser](/articles/chrome-idle-detection-api-explained/)
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained/)
+- [chrome for kick streaming web tips](/chrome-for-kick-streaming-web-tips/)
+- [Chrome Extensions for Google Slides](/chrome-extensions-for-google-slides/)

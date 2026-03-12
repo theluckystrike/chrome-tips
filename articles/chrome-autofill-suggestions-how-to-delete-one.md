@@ -83,6 +83,6 @@ Regularly reviewing and cleaning up your autofill data helps ensure that Chrome 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Autofill Credit Card How to Remove](/chrome-autofill-credit-card-how-to-remove)
-- [Chrome Camera Permission for One Site How to Set](/chrome-camera-permission-for-one-site-how-to-set)
-- [Chrome Location Access for One Site How to Allow](/chrome-location-access-for-one-site-how-to-allow)
+- [Best Chrome Extensions for Researchers](/best-chrome-extensions-for-researchers/)
+- [Chrome Extension Publish to Web Store Guide](/chrome-extension-publish-to-web-store-guide/)
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix/)

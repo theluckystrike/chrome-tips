@@ -93,9 +93,7 @@ For those interested in deeper customization, Chrome Web Store offers numerous t
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut/)
-- [chrome voice control navigate by speaking](/articles/chrome-voice-control-navigate-by-speaking/)
-- [Chrome Web and App Activity How to Delete](/articles/chrome-web-and-app-activity-how-to-delete/)
+- [Chrome for HubSpot CRM in Browser](/chrome-for-hubspot-crm-in-browser/)
+- [Chrome Keyboard Shortcuts for Beginners](/chrome-keyboard-shortcuts-for-beginners/)
+- [chrome keyboard shortcuts complete list 2026](/chrome-keyboard-shortcuts-complete-list-2026/)

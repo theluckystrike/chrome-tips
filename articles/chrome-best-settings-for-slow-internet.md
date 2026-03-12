@@ -82,6 +82,6 @@ You can also manually suspend tabs by right-clicking on them and selecting "Slee
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)
-- [Chrome for Netflix Best Quality Settings](/chrome-for-netflix-best-quality-settings)
-- [Chrome for Figma Best Settings](/chrome-for-figma-best-settings)
+- [Chrome Web USB API Guide](/chrome-web-usb-api-guide/)
+- [Chrome Extension for YouTube Ad Blocker](/chrome-extension-for-youtube-ad-blocker/)
+- [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/chrome-whatsapp-web-not-connecting-fix/)

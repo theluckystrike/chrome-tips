@@ -79,9 +79,7 @@ Remember that you can always adjust these settings later as your needs or prefer
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome Extensions For Canvas Fingerprint Blocker](/articles//articles/chrome-extensions-for-canvas-fingerprint-blocker//)
-- [Chrome Font Editor in DevTools Explained](/articles/chrome-font-editor-in-devtools-explained/)
-- [Chrome Download Manager Best Extension](/articles/chrome-download-manager-best-extension/)
+- [Chrome Extensions for Weather Forecast](/chrome-extensions-for-weather-forecast/)
+- [How to Inspect and Debug IndexedDB in Chrome: A Complete Guide](/chrome-indexeddb-inspect-debug/)
+- [Chrome Android Tips To Save Data](/chrome-android-tips-to-save-data/)

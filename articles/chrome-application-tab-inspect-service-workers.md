@@ -184,9 +184,7 @@ The ability to simulate push notifications, test background sync, and inspect ca
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome for News Feed Eradicator Setup](/articles/chrome-for-news-feed-eradicator-setup/)
-- [Chrome Geolocation Override How to Test](/articles/chrome-geolocation-override-how-to-test/)
-- [Best Chrome Extensions for Data Analysts](/articles/best-chrome-extensions-for-data-analysts/)
+- [Chrome Network Throttling Guide](/chrome-network-throttling-guide/)
+- [Chrome Built-In PDF Editor Guide](/chrome-pdf-editor-built-in/)
+- [Chrome Extension for Changing User Agent](/chrome-extension-for-changing-user-agent/)

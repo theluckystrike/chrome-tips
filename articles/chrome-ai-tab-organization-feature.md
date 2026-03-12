@@ -78,9 +78,7 @@ Chrome AI tab organization feature is a useful addition to the browser that addr
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome Privacy Error Your Connection Is Not Private Fix](/articles/chrome-privacy-error-your-connection-is-not-private-fix/)
-- [Chrome Extensions for Virtual Whiteboard](/articles/chrome-extensions-for-virtual-whiteboard/)
-- [Chrome Resource Timing API Explained](/articles/chrome-resource-timing-api-explained/)
+- [Chrome Side Panel — How to Use It Effectively](/chrome-side-panel-how-to-use/)
+- [Chrome Side Panel Extensions Best Ones](/chrome-side-panel-extensions-best-ones/)
+- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips/)

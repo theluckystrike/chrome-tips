@@ -88,9 +88,7 @@ Remember that AI summarization is a tool to enhance your reading, not replace it
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome Clock Behind Error Fix](/articles/chrome-clock-behind-error-fix/)
-- [Chrome for Trello Power Ups in Browser](/articles/chrome-for-trello-power-ups-in-browser/)
-- [chrome privacy settings complete guide 2026](/articles/chrome-privacy-settings-complete-guide-2026/)
+- [Chrome for Arxiv Paper Reader Extensions](/chrome-for-arxiv-paper-reader-extensions/)
+- [Chrome Address Autofill How to Manage](/chrome-address-autofill-how-to-manage/)
+- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative/)

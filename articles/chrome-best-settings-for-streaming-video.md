@@ -73,6 +73,6 @@ Streaming should be enjoyable, not frustrating. With a few tweaks to Chrome's se
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
-- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
-- [Best Chrome Extensions for Video Editors](/best-chrome-extensions-for-video-editors)
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side/)
+- [Chrome Browser vs App Which Uses More Data](/chrome-browser-vs-app-which-uses-more-data/)
+- [chrome for google finance tips](/chrome-for-google-finance-tips/)

@@ -92,9 +92,7 @@ Chrome also shows data saved through Data Saver in the settings menu. Checking t
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [How to Move Chrome Tabs Between Windows Easily](/articles/how-to-move-chrome-tabs-between-windows-easily/)
-- [chrome site isolation what it does](/articles/chrome-site-isolation-what-it-does/)
-- [Mastering CSS Subgrid: Align Rows and Columns in Chrome](/articles/chrome-css-subgrid-rows-columns/)
+- [How to Use Chrome Task Manager to Find Slow Tabs](/how-to-use-chrome-task-manager-to-find-slow-tabs/)
+- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off/)
+- [Chrome Gemini Integration How to Use](/chrome-gemini-integration-how-to-use/)

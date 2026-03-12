@@ -3,7 +3,7 @@ layout: "post"
 title: "Chrome Built-In Screenshot Tool"
 description: "Master Chrome's built-in screenshot tool with full page capture, area selection, node screenshots via DevTools, and more. Learn all the methods Chrome offers."
 date: "2026-01-20"
-last_modified_at: "2026-03-11"
+last_modified_at: 2026-03-12
 permalink: "chrome-built-in-screenshot-tool"
 categories: [tips, chrome, screenshots]
 tags: [chrome-screenshot, browser-tools, devtools, screen-capture]
@@ -144,3 +144,8 @@ Next time you need to capture something from a webpage, try Chrome's built-in to
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Chrome Intersection Observer API Explained](/chrome-intersection-observer-api-explained/)
+- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for/)
+- [Chrome Preferences File What It Contains](/chrome-preferences-file-what-it-contains/)

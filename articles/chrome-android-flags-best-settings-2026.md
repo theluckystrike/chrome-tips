@@ -90,9 +90,7 @@ If you have been feeling held back by Chrome on your Android phone, try these su
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [How to Block Ads on Chrome Android](/articles/how-to-block-ads-on-chrome-android/)
-- [Chrome HTTPS First Mode Guide](/articles/chrome-https-first-mode/)
-- [Chrome Extensions for Page Zoom Per Site](/articles/chrome-extensions-for-page-zoom-per-site/)
+- [Chrome Google Maps Slow and Laggy Fix](/chrome-google-maps-slow-and-laggy-fix/)
+- [chrome for apartments.com search tips](/chrome-for-apartmentscom-search-tips/)
+- [chrome image search by url how to](/chrome-image-search-by-url-how-to/)

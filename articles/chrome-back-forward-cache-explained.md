@@ -75,6 +75,6 @@ If you find that Chrome is using more memory than you would like, or if your bro
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
-- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
+- [Chrome Password Manager on Phone vs Dedicated App](/chrome-password-manager-on-phone-vs-dedicated-app/)
+- [Chrome for Salesforce Web App Optimization](/chrome-for-salesforce-web-app-optimization/)
+- [Chrome Slow After Hibernation Fix](/chrome-slow-after-hibernation-fix/)

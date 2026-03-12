@@ -178,3 +178,8 @@ If you've tried all these fixes and still see a black screen, the issue might be
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use/)
+- [Chrome Extensions for Social Media Scheduler](/chrome-extensions-for-social-media-scheduler/)
+- [Chrome Tab Discard What It Means](/chrome-tab-discard-what-it-means/)

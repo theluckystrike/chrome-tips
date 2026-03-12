@@ -147,9 +147,7 @@ By keeping your browser and system updated and being mindful of how extensions a
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome IP Protection: How to Hide Your IP Address in Chrome](/articles/chrome-ip-protection-hide-ip-address/)
-- [chrome site notifications stop all](/articles/chrome-site-notifications-stop-all/)
-- [Chrome Ai Theme Generator How To Use](/articles/chrome-ai-theme-generator-how-to-use/)
+- [Chrome MediaRecorder API Guide](/chrome-mediarecorder-api-guide/)
+- [Chrome Group Policy Settings Explained](/chrome-group-policy-settings-explained/)
+- [Chrome Google Drive Integration Save to Drive](/chrome-google-drive-integration-save-to-drive/)

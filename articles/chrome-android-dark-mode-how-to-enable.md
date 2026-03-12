@@ -95,9 +95,7 @@ Give dark mode a try for a few days to see if it works for you. You can always s
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome Extension for Tracking Time Spent on Websites](/articles/chrome-extension-for-tracking-time-spent-on-websites/)
-- [Chrome Using 8GB RAM Fix](/articles/chrome-using-8gb-ram-fix/)
-- [How to Route Chrome Tab Audio to Separate Speakers](/articles/chrome-tab-audio-routing-separate-speakers/)
+- [Chrome For Apple Notes In Browser Workaround](/chrome-for-apple-notes-in-browser-workaround/)
+- [How to Use Chrome DevTools Device Orientation Emulator](//chrome-devtools-device-orientation-emulator//)
+- [Chrome User Agent String: What It Is and How It Works](/chrome-user-agent-string-what-it-is/)

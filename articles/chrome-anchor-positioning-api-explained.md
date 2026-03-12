@@ -77,9 +77,7 @@ Tab Suspender Pro can help with this by automatically suspending tabs you are no
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome Startup Too Slow Diagnosis Guide](/articles/chrome-startup-too-slow-diagnosis-guide/)
-- ['Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser'](/articles/chrome-sanitizer-api-html-safe/)
-- [chrome offline google docs how to enable](/articles/chrome-offline-google-docs-how-to-enable/)
+- [Chrome Extensions for Image Downloader Bulk](/chrome-extensions-for-image-downloader-bulk/)
+- [Chrome Saved Addresses How to Edit](/chrome-saved-addresses-how-to-edit/)
+- [Chrome Blink Engine Explained For Beginners](/chrome-blink-engine-explained-for-beginners/)

@@ -85,9 +85,7 @@ Chrome is constantly adding new features and gestures, so it is worth checking t
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome for Google Docs Offline Setup](/articles/chrome-for-google-docs-offline-setup/)
-- [Chrome for Bibliography Management Extensions](/articles/chrome-for-bibliography-management-extensions/)
-- [Chrome Touchpad Gestures Not Working Fix](/articles/chrome-touchpad-gestures-not-working-fix/)
+- [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/chrome-grammarly-extension-slowing-browser/)
+- [Chrome Extensions For Code Snippet Manager](//articles/chrome-extensions-for-code-snippet-manager//)
+- [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/chrome-smooth-scrolling-enable/)

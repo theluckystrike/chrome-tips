@@ -83,6 +83,6 @@ Regular maintenance helps too. Periodically check which PWAs you have installed 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Background Sync API Explained](/chrome-background-sync-api-explained)
-- [Chrome WebAuthn Explained for Regular Users](/chrome-webauthn-explained-for-regular-users)
-- [Chrome Periodic Background Sync Explained](/chrome-periodic-background-sync-explained)
+- [Chrome Extension for Translating Selected Text](/chrome-extension-for-translating-selected-text/)
+- [How to Enable Chrome Reading List](/how-to-enable-chrome-reading-list/)
+- [Can Chrome Extensions Steal Your Data](/can-chrome-extensions-steal-your-data/)

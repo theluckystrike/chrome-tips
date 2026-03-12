@@ -91,9 +91,7 @@ Take some time to review your Chrome settings, clear any data you are uncomforta
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/articles//chrome-ctrl-shift-delete-shortcut-what-it-does//)
-- [chrome shortcuts on desktop how to create](/articles/chrome-shortcuts-on-desktop-how-to-create/)
-- [Chrome for Streamlabs Web Dashboard](/articles/chrome-for-streamlabs-web-dashboard/)
+- [Best Chrome Extensions For Teachers Online](/best-chrome-extensions-for-teachers-online/)
+- [chrome net err cert common name invalid fix](/chrome-net-err-cert-common-name-invalid-fix/)
+- [Chrome Tab Groups vs Bookmarks](/chrome-tab-groups-vs-bookmarks/)

@@ -77,9 +77,7 @@ Give it a try on a few of your favorite websites and see what differences you no
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-
 ## Related Articles
-
-- [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out/)
-- [Chrome Extensions for Pocket Alternative](/articles/chrome-extensions-for-pocket-alternative/)
-- [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings/)
+- [Chrome Navigator Sendbeacon Explained](/chrome-navigator-sendbeacon-explained/)
+- [Chrome Unicode Symbols How to Insert](/chrome-unicode-symbols-how-to-insert/)
+- [Chrome DevTools Rendering Tab Explained](/chrome-devtools-rendering-tab-explained/)

@@ -70,6 +70,6 @@ You can also try manually enabling dark mode on individual websites that offer i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)
-- [Chrome For Podcast Web Players Best Setup](/chrome-for-podcast-web-players-best-setup)
-- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab](/chrome-duplicate-tab-shortcut-trick/)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing/)
+- [Chrome for Cryptocurrency Tracking Extensions](/chrome-for-cryptocurrency-tracking-extensions/)

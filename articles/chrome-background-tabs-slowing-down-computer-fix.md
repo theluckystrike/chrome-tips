@@ -90,6 +90,6 @@ You might also want to try lighter browsers for everyday tasks and reserve Chrom
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
-- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
-- [Chrome Lost All My Tabs After Update Fix](/chrome-lost-all-my-tabs-update-fix)
+- [Chrome Slow on Android Fix](/chrome-slow-on-android-fix/)
+- [Chrome Sensors Emulation How to Use](/chrome-sensors-emulation-how-to-use/)
+- [Chrome Reset vs Reinstall: Which Is Better?](/chrome-reset-vs-reinstall-which-is-better/)

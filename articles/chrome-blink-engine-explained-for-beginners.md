@@ -81,6 +81,6 @@ Remember that tools like Tab Suspender Pro exist specifically to help you work w
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-- [Chrome Encrypted DNS Explained for Beginners](/chrome-encrypted-dns-explained-for-beginners)
-- [Chrome Flags Explained for Beginners](/chrome-flags-explained-for-beginners)
-- [Chrome Privacy Sandbox Explained For Users](/chrome-privacy-sandbox-explained-for-users)
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained/)
+- [Chrome Sleeping Tabs Explained: What They Are and How to Use Them](/chrome-sleeping-tabs-explained/)
+- [Chrome for Tab Sleeping vs Tab Suspending Difference](/chrome-for-tab-sleeping-vs-tab-suspending-difference/)

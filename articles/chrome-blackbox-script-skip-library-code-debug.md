@@ -122,3 +122,8 @@ Take some time to set up blackbox patterns for the libraries you use most freque
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Chrome Bookmarks Bar Disappeared Fix](/chrome-bookmarks-bar-disappeared-fix/)
+- [Chrome Extensions For Flowchart Maker](//articles/chrome-extensions-for-flowchart-maker//)
+- [Chrome DevTools Shadow DOM Inspector](/chrome-devtools-shadow-dom-inspector/)

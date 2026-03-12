@@ -89,3 +89,8 @@ Take time to try a few different options. Most are free to use with optional pre
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [Chrome Reader Mode on Phone: How to Enable](/chrome-reader-mode-on-phone-how-to-enable/)
+- [How to Remove Chrome Malware](/how-to-remove-chrome-malware/)
+- [Chrome for Multiple Search Engines Switching](/chrome-for-multiple-search-engines-switching/)

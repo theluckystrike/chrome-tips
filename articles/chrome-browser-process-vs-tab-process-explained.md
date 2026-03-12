@@ -3,7 +3,7 @@ layout: "post"
 title: "chrome browser process vs tab process explained"
 description: "Understand the difference between Chrome browser process and tab process, and how they affect your browsing performance and memory usage. Check out our expert g"
 date: "2026-03-10"
-last_modified_at: "2026-03-10"
+last_modified_at: 2026-03-12
 permalink: "chrome-browser-process-vs-tab-process-explained"
 categories: [chrome, processes, performance]
 tags: [chrome, browser process, tab process, memory, performance]
@@ -78,6 +78,6 @@ The exact number of processes you see depends on how many tabs you have open, wh
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-- [Chrome Utility Process Explained](/chrome-utility-process-explained)
-- [Chrome vs Arc Browser 2026](/chrome-vs-arc-browser-2026)
-- [Chrome vs Arc Browser: Should I Switch?](/chrome-vs-arc-browser-should-i-switch)
+- [Chrome Share Page Between Phone and Laptop: Complete Guide](/chrome-share-page-between-phone-and-laptop/)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android/)
+- [Chrome for Perplexity AI Best Settings](/chrome-for-perplexity-ai-best-settings/)

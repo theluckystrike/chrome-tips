@@ -1,13 +1,14 @@
 ---
-layout: default
+layout: post
 title: "Great Suspender Removed From Chrome Store: Replacement Options"
-description: "The Great Suspender extension was removed from the Chrome Web Store. Learn what happened and find a replacement to manage your tabs."
+description: "The Great Suspender extension was removed from the Chrome Web Store. Learn what happened and find a replacement to manage your tabs. Check out our complete 2..."
 date: 2026-01-15
+last_modified_at: 2026-03-09
+permalink: great-suspender-removed-from-chrome-store-replacement
 categories: [extensions, troubleshooting]
 tags: [great-suspender, chrome-extension, tab-suspender, chrome-fix]
 author: theluckystrike
 ---
-
 # Great Suspender Removed From Chrome Store: Replacement Options
 
 If you have been looking for the Great Suspender extension in the Chrome Web Store and cannot find it, you are not alone. The Great Suspender was a popular extension that helped users manage memory by automatically suspending inactive tabs, but it was removed from the Chrome Web Store in early 2021. Many users have been searching for a great suspender removed from chrome store replacement ever since.

@@ -15,7 +15,6 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: /articles/chrome-chrome.alarms-scheduled-tasks/
 ---
-
 # Chrome chrome.alarms API for Scheduled Tasks
 
 If you are building a Chrome extension that needs to perform actions at specific times or intervals, the **chrome.alarms API** is exactly what you need. This powerful API allows you to schedule tasks to run in the future, either once or repeatedly. Whether you want to refresh data periodically, show notifications at certain times, or automate background tasks, the chrome.alarms API provides a reliable way to handle scheduled operations in your extension.
@@ -93,3 +92,9 @@ The **chrome.alarms API** is an essential tool for Chrome extension developers w
 Combined with other Chrome APIs, chrome.alarms opens up a wide range of possibilities for extension functionality. Whether you are building a productivity tool, a notification system, or an automated tab manager like **Tab Suspender Pro**, the ability to schedule tasks reliably is a valuable feature that enhances the user experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Gesture Navigation Complete Guide](/chrome-gesture-navigation)
+* [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+* [Chrome Bookmarks File Location and Backup Guide](/chrome-bookmarks-file-location-backup)

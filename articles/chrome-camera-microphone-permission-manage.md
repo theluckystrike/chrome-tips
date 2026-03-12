@@ -3,7 +3,7 @@ layout: "post"
 title: "Chrome Camera Microphone Permission Manage: Complete Guide"
 description: "Learn how to manage camera and microphone permissions in Chrome. Step-by-step instructions to control which websites can access your devices. Check out our expe"
 date: "2026-01-15"
-last_modified_at: "2026-03-11"
+last_modified_at: '2026-03-12'
 permalink: "chrome-camera-microphone-permission-manage"
 categories: [privacy, troubleshooting]
 tags: [chrome-camera-permission, chrome-microphone-permission, chrome-settings, site-permissions,
@@ -77,3 +77,9 @@ If you often have many tabs open and worry about performance or accidental camer
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+
+* [Chrome for DeFi Dashboard Extensions](/chrome-for-defi-dashboard-extensions)
+* [chrome data saver mode is it still available](//chrome-data-saver-mode-is-it-still-available/)
+* [chrome offline google docs how to enable](/chrome-offline-google-docs-how-to-enable)

@@ -3,7 +3,7 @@ layout: "default"
 title: "Chrome Breakpoints and Conditional Debugging Guide"
 description: "Master Chrome DevTools breakpoints and conditional debugging techniques. Learn how to set line breakpoints, conditional breakpoints, DOM breakpoints, XHR bre..."
 date: "2025-03-11"
-last_modified_at: "2026-03-11"
+last_modified_at: '2026-03-12'
 permalink: "chrome-breakpoints-conditional-debugging-guide"
 categories: [web-development, chrome-devtools, tips]
 tags: [chrome, breakpoints, debugging, devtools, javascript, web-development, frontend]
@@ -72,3 +72,9 @@ The key to effective debugging with breakpoints is practice and experimentation.
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [How to Close All Chrome Tabs at Once](/how-to-close-all-chrome-tabs-at-once)
+* [How to Speed Up Chrome on 2GB RAM Laptop](/how-to-speed-up-chrome-on-2gb-ram-laptop)
+* [Chrome Performance Observer API Explained](/chrome-performance-observer-api-explained)

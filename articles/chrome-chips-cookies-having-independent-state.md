@@ -3,7 +3,7 @@ layout: "post"
 title: "CHIPS: Cookies Having Independent Partitioned State in Chrome"
 description: "Learn how Chrome's CHIPS feature provides independent partitioned state for cookies, enhancing privacy while allowing third-party embeds to function properly."
 date: "2026-01-16"
-last_modified_at: "2026-03-11"
+last_modified_at: '2026-03-12'
 permalink: "chrome-chips-cookies-having-independent-state"
 categories: [privacy, security, chrome]
 tags: [chips, cookies, partitioned-cookies, privacy-sandbox, third-party-cookies, chrome-settings]
@@ -80,3 +80,9 @@ As web standards continue to evolve, partitioned cookies will likely become an e
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [chrome google photos integration tips](/chrome-google-photos-integration-tips)
+* [Chrome Extension for Auto Scroll Pages](/chrome-extension-for-auto-scroll-pages)
+* [Chrome for Skillshare Web App Setup](/chrome-for-skillshare-web-app-setup)

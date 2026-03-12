@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Zoom Too Big How to Fix
-description: Is Chrome zoom too big? Learn how to reset Chrome zoom settings and fix
+description: "Is Chrome zoom too big? Learn how to reset Chrome zoom settings and fix..............................................................................."
   oversized web pages. Read our comprehensive guide to learn more and optimize your
   bro...
 date: '2026-01-01'

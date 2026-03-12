@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for pocket extension setup
-description: 'Learn how to set up the Pocket extension in Chrome. Save articles for
+description: "Learn how to set up the Pocket extension in Chrome. Save articles for................................................................................."
   offline reading with this simple guide. Discover more tips and tricks to optimize
   your '
 date: 2026-01-15

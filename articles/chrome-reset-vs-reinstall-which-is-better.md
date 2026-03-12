@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome Reset vs Reinstall: Which Is Better?'
-description: Chrome running slow? Learn when to reset Chrome settings versus when
+description: "Chrome running slow? Learn when to reset Chrome settings versus when.................................................................................."
   to do a fresh reinstall. Practical advice for users with limited RAM and older computers.
 date: 2026-01-15
 categories:
@@ -14,7 +14,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 permalink: chrome-reset-vs-reinstall-which-is-better
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Reset vs Reinstall: Which Is Better?
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Spotify Web Player Optimization
-description: Make Spotify run smoother in Chrome with these simple optimization tips.
+description: "Make Spotify run smoother in Chrome with these simple optimization tips..............................................................................."
   Improve playback quality and reduce browser lag. Discover more tips and tricks to
   op
 date: '2026-03-12'

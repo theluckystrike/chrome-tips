@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for SEO Analysis Extensions
-description: Find the best Chrome extensions for SEO analysis to audit websites, track
+description: "Find the best Chrome extensions for SEO analysis to audit websites, track............................................................................."
   keywords, and boost your search rankings. Discover more tips and tricks to optimize
 date: 2026-03-10
 categories:

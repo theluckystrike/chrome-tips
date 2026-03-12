@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Chrome Android Flags to Enable
-description: Discover the best Chrome Android flags to enable for better performance
+description: "Discover the best Chrome Android flags to enable for better performance..............................................................................."
   and features on your phone. Unlock hidden settings to make mobile browsing much
   faster.
 date: 2026-01-15
@@ -16,7 +16,7 @@ tags:
 - mobile-browser
 - performance
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-android-flags-to-enable
 ---
 # Best Chrome Android Flags to Enable

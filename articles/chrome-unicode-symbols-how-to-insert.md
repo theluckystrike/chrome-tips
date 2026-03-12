@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Unicode Symbols How to Insert
-description: Learn how to insert Unicode symbols in Chrome using character maps, keyboard
+description: "Learn how to insert Unicode symbols in Chrome using character maps, keyboard.........................................................................."
   shortcuts, copy-paste methods, and extensions. Read our comprehensive guide to l...
 date: '2026-01-01'
 last_modified_at: '2026-03-12'

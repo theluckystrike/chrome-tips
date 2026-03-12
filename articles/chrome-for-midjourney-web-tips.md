@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Midjourney Web Tips
-description: Get the most out of Midjourney web in Chrome with these practical tips
+description: "Get the most out of Midjourney web in Chrome with these practical tips................................................................................"
   for better performance and smoother image generation. Discover more tips and tricks
   to
 date: 2025-02-19

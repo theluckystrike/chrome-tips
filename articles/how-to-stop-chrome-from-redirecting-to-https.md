@@ -1,11 +1,11 @@
 ---
 layout: post
 title: How to Stop Chrome from Redirecting to HTTPS
-description: Chrome automatically redirects you to HTTPS? Learn why this happens and
+description: "Chrome automatically redirects you to HTTPS? Learn why this happens and..............................................................................."
   how to disable HTTPS redirect in Chrome settings. Read our comprehensive guide to
   lea...
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: how-to-stop-chrome-from-redirecting-to-https
 categories: '[privacy, security, settings]'
 tags: '[chrome-https, https-redirect, browser-settings, chrome-security]'

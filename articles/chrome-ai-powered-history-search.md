@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past'
-description: Learn how Chrome AI powered history search works, why standard search
+description: "Learn how Chrome AI powered history search works, why standard search................................................................................."
   falls short, and smart solutions to find exactly what you need. Learn how to optimize
   y...
 date: 2026-01-15
@@ -14,7 +14,7 @@ tags:
 - browser-tips
 - history-search
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-ai-powered-history-search
 ---
 # Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'Chrome Private State Tokens Explained: What They Are and How They Work'
-description: Learn what Chrome Private State Tokens are, how they protect your privacy
+description: "Learn what Chrome Private State Tokens are, how they protect your privacy............................................................................."
   while enabling fraud prevention, and what they mean for your browsing experience.
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-private-state-tokens-explained
 categories:
 - privacy

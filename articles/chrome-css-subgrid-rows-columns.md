@@ -2,10 +2,11 @@
 title: 'Mastering CSS Subgrid: Align Rows and Columns in Chrome'
 date: 2024-01-15
 layout: post
-description: Learn how to use CSS Subgrid to create perfectly aligned layouts with
+description: "Learn how to use CSS Subgrid to create perfectly aligned layouts with................................................................................."
   shared rows and columns across nested grids in Chrome.
 keywords: chrome css subgrid rows columns
 permalink: chrome-css-subgrid-rows-columns
+last_modified_at: '2026-03-12'
 ---
 # Mastering CSS Subgrid: Align Rows and Columns in Chrome
 

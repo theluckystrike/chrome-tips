@@ -1,10 +1,10 @@
 ---
 title: 'Chrome Element Internals and Custom Elements: A Complete Guide'
-description: Discover how Chrome element internals work with custom elements to create
+description: "Discover how Chrome element internals work with custom elements to create............................................................................."
   powerful, encapsulated web components. Check out our expert recommendations and
   step-b
 date: '2026-01-01'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-element-internals-custom-elements
 layout: post
 ---

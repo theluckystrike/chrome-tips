@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for recipe browsing without ads
-description: 'Learn how to browse recipes in Chrome without ads interrupting your
+description: "Learn how to browse recipes in Chrome without ads interrupting your..................................................................................."
   cooking. Practical tips for a cleaner recipe browsing experience. Discover more
   tips and '
 date: 2025-01-15

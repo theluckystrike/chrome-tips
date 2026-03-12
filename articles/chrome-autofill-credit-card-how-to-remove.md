@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Autofill Credit Card How to Remove
-description: Learn how to remove saved credit cards from Chrome autofill. Simple steps
+description: "Learn how to remove saved credit cards from Chrome autofill. Simple steps............................................................................."
   to delete payment methods and manage your data. Learn how to optimize your browser
   ...
 date: 2025-03-09
@@ -14,7 +14,7 @@ tags:
 - payment-methods
 - chrome-settings
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-autofill-credit-card-how-to-remove
 ---
 # Chrome Autofill Credit Card How to Remove

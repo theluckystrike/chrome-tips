@@ -1,10 +1,10 @@
 ---
 title: Chrome Emulate Print Media How To
-description: Learn how to use Chrome to emulate print media and preview how your web
+description: "Learn how to use Chrome to emulate print media and preview how your web..............................................................................."
   pages will look when printed. Check out our expert recommendations and step-by-step
   inst
 date: '2026-01-01'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-emulate-print-media-how-to
 layout: post
 ---

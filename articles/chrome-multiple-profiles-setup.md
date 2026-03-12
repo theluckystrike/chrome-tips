@@ -1,10 +1,20 @@
 ---
-layout: default
-title: "Chrome Multiple Profiles Setup"
-description: "Learn how to set up and use multiple Chrome profiles to separate work and personal browsing. Complete guide to profile switching, sync settings, and organized browsing."
-date: 2026-01-15
-categories: [browsers, productivity, chrome]
-tags: [chrome-profiles, browser-setup, work-personal-separation, chrome-tips, productivity]
+layout: post
+title: 'Chrome Multiple Profiles Setup: Complete Guide for 2026'
+description: "Learn how to set up and manage multiple profiles in Google Chrome. Separate..........................................................................."
+  work from personal browsing, share profiles across devices, and optimize each pro...
+date: '2026-03-11'
+last_modified_at: '2026-03-12'
+permalink: chrome-multiple-profiles-setup
+categories:
+- tutorials
+- chrome
+- productivity
+tags:
+- chrome-profiles
+- browser-setup
+- productivity
+- chrome-tips
 author: theluckystrike
 ---
 # Chrome Multiple Profiles Setup: Complete Guide for 2026

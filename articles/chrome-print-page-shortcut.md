@@ -1,11 +1,11 @@
 ---
 layout: post
 title: chrome print page shortcut
-description: Learn the chrome print page shortcut to quickly print any webpage. Simple
+description: "Learn the chrome print page shortcut to quickly print any webpage. Simple............................................................................."
   keyboard tricks and settings explained for easy printing. Learn effective tips and
   ...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-print-page-shortcut
 categories:
 - tips

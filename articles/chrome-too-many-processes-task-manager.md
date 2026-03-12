@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Too Many Processes Task Manager
-description: Learn how to use Chrome Task Manager to identify and kill processes slowing
+description: "Learn how to use Chrome Task Manager to identify and kill processes slowing..........................................................................."
   down your browser when Chrome has too many processes open. Read our comprehensive...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'

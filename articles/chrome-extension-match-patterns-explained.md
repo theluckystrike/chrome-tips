@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Extension Match Patterns Explained
-description: Learn how Chrome extension match patterns work and how they control which
+description: "Learn how Chrome extension match patterns work and how they control which............................................................................."
   websites your extensions can access and modify.
 date: 2026-03-12
 categories:
@@ -15,6 +15,7 @@ tags:
 - web-development
 author: theluckystrike
 permalink: chrome-extension-match-patterns-explained
+last_modified_at: '2026-03-12'
 ---
 # Chrome Extension Match Patterns Explained
 

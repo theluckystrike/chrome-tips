@@ -1,11 +1,11 @@
 ---
 layout: post
 title: chrome protected audience api explained
-description: A simple guide to Chrome Protected Audience API, what it does, how it
+description: "A simple guide to Chrome Protected Audience API, what it does, how it................................................................................."
   affects your privacy, and what you can do to control it. Learn effective tips and
   trick...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-protected-audience-api-explained
 categories:
 - privacy

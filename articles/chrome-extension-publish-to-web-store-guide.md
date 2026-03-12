@@ -1,10 +1,10 @@
 ---
 title: Chrome Extension Publish to Web Store Guide
-description: Learn how to publish your Chrome extension to the Web Store with this
+description: "Learn how to publish your Chrome extension to the Web Store with this................................................................................."
   step-by-step guide. From preparation to launch, we cover everything you need. Discover
   ...
 date: '2026-01-21'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-publish-to-web-store-guide
 layout: post
 categories: '[chrome-extensions, developer-tools]'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for shopping price comparison tools
-description: 'Discover the best Chrome extensions for comparing prices across stores,
+description: "Discover the best Chrome extensions for comparing prices across stores,..............................................................................."
   finding deals, and saving money while shopping online. Discover more tips and tricks '
 date: 2026-01-15
 categories:

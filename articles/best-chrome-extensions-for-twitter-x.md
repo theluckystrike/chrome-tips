@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Chrome Extensions for Twitter X
-description: Discover the best Chrome extensions for Twitter X to boost your productivity,
+description: "Discover the best Chrome extensions for Twitter X to boost your productivity,........................................................................."
   automate tasks, and enhance your experience on the platform. Learn how to optim...
 date: 2026-03-09
 categories:
@@ -16,7 +16,7 @@ tags:
 - productivity
 - browser-tools
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-twitter-x
 ---
 # Best Chrome Extensions for Twitter X

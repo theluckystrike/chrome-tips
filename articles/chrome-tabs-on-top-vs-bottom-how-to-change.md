@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome Tabs on Top vs Bottom: How to Change'
-description: Wondering how to move Chrome tabs from top to bottom or vice versa? Learn
+description: "Wondering how to move Chrome tabs from top to bottom or vice versa? Learn............................................................................."
   why Chrome changed this and what options you have now. Read our comprehensive guide...
 date: '2025-03-13'
 last_modified_at: '2026-03-12'

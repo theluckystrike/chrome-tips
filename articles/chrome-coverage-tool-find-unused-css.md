@@ -1,10 +1,10 @@
 ---
 title: 'Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed'
-description: Learn how to use Chrome DevTools Coverage tool to find unused CSS and
+description: "Learn how to use Chrome DevTools Coverage tool to find unused CSS and................................................................................."
   JavaScript. Step-by-step guide to identify and eliminate code bloat for faster page
   loads.
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-coverage-tool-find-unused-css
 layout: default
 categories:

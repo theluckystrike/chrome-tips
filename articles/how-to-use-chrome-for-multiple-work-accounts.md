@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Use Chrome for Multiple Work Accounts
-description: Learn how to manage multiple work accounts in Chrome using profiles.
+description: "Learn how to manage multiple work accounts in Chrome using profiles..................................................................................."
   Keep your professional identities separate and organized. Read our comprehensive
   guide t...
 date: '2026-01-01'

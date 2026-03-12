@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome User Timing API Explained
-description: Learn what the Chrome User Timing API is, how it works, and how it helps
+description: "Learn what the Chrome User Timing API is, how it works, and how it helps.............................................................................."
   measure timing in web applications. Read our comprehensive guide to learn more and
   o...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-user-timing-api-explained
 categories: '[performance, web-development]'
 tags: '[chrome-performance, browser-tools, chrome-tips]'

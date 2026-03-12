@@ -1,9 +1,9 @@
 ---
 title: Chrome Extension Permissions Too Many Warning
-description: Getting a chrome extension permissions too many warning? Learn why it
+description: "Getting a chrome extension permissions too many warning? Learn why it................................................................................."
   appears and how to fix it with simple steps. Discover how these tools can significantly...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-permissions-too-many-warning
 layout: post
 ---

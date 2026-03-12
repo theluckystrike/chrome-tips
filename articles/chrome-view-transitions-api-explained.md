@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome View Transitions API Explained
-description: Learn what Chrome View Transitions API is, how it works, and how it improves
+description: "Learn what Chrome View Transitions API is, how it works, and how it improves.........................................................................."
   Read our comprehensive guide to learn more and optimize your browser experience
   ...
 date: '2026-03-09'

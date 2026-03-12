@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome Background Sync Explained: How It Works and Why It Matters'
-description: Learn how chrome background sync works, what it does for your browsing
+description: "Learn how chrome background sync works, what it does for your browsing................................................................................"
   experience, and how to manage this feature for better performance. Learn how to
   optimi...
 date: 2026-03-11
@@ -14,7 +14,7 @@ tags:
 - browser-features
 - performance
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-background-sync-explained
 ---
 # Chrome Background Sync Explained: How It Works and Why It Matters

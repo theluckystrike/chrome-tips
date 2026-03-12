@@ -1,11 +1,11 @@
 ---
 layout: post
 title: How to Use Chrome Tab Groups Effectively
-description: Learn how to organize your Chrome tabs using tab groups to reduce clutter
+description: "Learn how to organize your Chrome tabs using tab groups to reduce clutter............................................................................."
   and improve your browsing workflow. Read our comprehensive guide to learn more and
   ...
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: how-to-use-chrome-tab-groups-effectively
 categories: '[productivity, tab-management]'
 tags: '[chrome-tabs, productivity, browser-tips, organization]'

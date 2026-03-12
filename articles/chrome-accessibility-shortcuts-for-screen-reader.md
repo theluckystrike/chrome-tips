@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Accessibility Shortcuts For Screen Reader
-description: Learn essential Chrome accessibility shortcuts for screen reader users
+description: "Learn essential Chrome accessibility shortcuts for screen reader users................................................................................"
   to navigate faster and browse more efficiently. Learn how to optimize your browser
   tod...
 date: 2026-01-15
@@ -16,7 +16,7 @@ tags:
 - keyboard-shortcuts
 - browsing
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-accessibility-shortcuts-for-screen-reader
 ---
 # Chrome Accessibility Shortcuts for Screen Reader

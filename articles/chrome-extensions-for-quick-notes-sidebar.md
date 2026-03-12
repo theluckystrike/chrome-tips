@@ -1,9 +1,9 @@
 ---
 title: Chrome Extensions for Quick Notes Sidebar
-description: Find the best chrome extensions for quick notes sidebar to jot down ideas
+description: "Find the best chrome extensions for quick notes sidebar to jot down ideas............................................................................."
   while you browse without switching apps. Check out our expert recommendations and...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-quick-notes-sidebar
 layout: post
 categories: '[productivity, organization]'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome high contrast mode enable guide
-description: A comprehensive step-by-step guide to enabling high contrast mode in
+description: "A comprehensive step-by-step guide to enabling high contrast mode in.................................................................................."
   Google Chrome. Improve visibility and accessibility with this detailed tutorial.
 date: 2026-03-12
 categories:

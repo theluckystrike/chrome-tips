@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Third Party Cookies Blocked What It Means
-description: Learn what it means when Chrome blocks third-party cookies, why it happens,
+description: "Learn what it means when Chrome blocks third-party cookies, why it happens,..........................................................................."
   and how to manage cookie settings. Read our comprehensive guide to learn more and...
 date: '2026-01-01'
 last_modified_at: '2026-03-12'

@@ -1,10 +1,10 @@
 ---
 title: Chrome Extensions for Invoice Creation
-description: Discover the best Chrome extensions for invoice creation to streamline
+description: "Discover the best Chrome extensions for invoice creation to streamline................................................................................"
   your freelance business and get paid faster. Check out our expert recommendations
   and...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-invoice-creation
 layout: post
 categories: '[productivity, business]'

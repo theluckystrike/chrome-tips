@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Screen Wake Lock API Explained
-description: 'Learn how Chrome''s screen wake lock keeps your display on, why it matters,
+description: "Learn how Chrome''s screen wake lock keeps your display on, why it matters,..........................................................................."
   and how to manage it for better browsing. Read our comprehensive guide to learn
   more '
 permalink: chrome-screen-wake-lock-api-explained

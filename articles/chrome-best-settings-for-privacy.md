@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Best Settings For Privacy
-description: Discover the best Chrome settings for privacy to stop tracking, block
+description: "Discover the best Chrome settings for privacy to stop tracking, block................................................................................."
   cookies, and keep your browsing data secure. Learn how to optimize your browser
   today f...
 date: 2026-01-15
@@ -15,7 +15,7 @@ tags:
 - tracking
 - cookies
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-best-settings-for-privacy
 ---
 # Chrome Best Settings for Privacy

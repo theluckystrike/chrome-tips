@@ -1,9 +1,9 @@
 ---
 title: Chrome Extensions for Language Learning
-description: Discover the best Chrome extensions for language learning. Boost your
+description: "Discover the best Chrome extensions for language learning. Boost your................................................................................."
   Check out our expert recommendations and tips to enhance your browsing experience...
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-language-learning
 layout: post
 ---

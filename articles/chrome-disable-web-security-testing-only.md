@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to Disable Chrome Web Security for Testing Only
-description: Learn how to temporarily disable Chrome web security for local development and testing, with practical examples and important safety considerations.
+description: "Learn how to temporarily disable Chrome web security for local development and testing, with practical examples and important safety considerations..."
 permalink: chrome-disable-web-security-testing-only
 categories:
 - chrome
@@ -14,8 +14,9 @@ tags:
 - testing
 - development
 author: theluckystrike
+last_modified_at: '2026-03-12'
+date: "2026-03-12"
 ---
-
 # How to Disable Chrome Web Security for Testing Only
 
 When you're developing web applications or testing websites locally, you may encounter situations where Chrome's security policies block certain actions. These restrictions exist to protect users from malicious scripts and cross-origin attacks, but they can interfere with legitimate testing scenarios. Fortunately, Chrome provides a way to disable these security features temporarily for development purposes.
@@ -87,3 +88,9 @@ Disabling Chrome's web security is a straightforward process when you need to te
 For most development workflows, the temporary disabling of web security provides the flexibility needed to test effectively while maintaining security for your regular browsing activities.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome For Reddit Best Extensions](/chrome-for-reddit-best-extensions)
+* [How To Save Chrome Tabs For Later](/how-to-save-chrome-tabs-for-later)
+* [Chrome Extensions For Trello](/chrome-extensions-for-trello)

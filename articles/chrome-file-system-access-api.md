@@ -1,10 +1,20 @@
 ---
-layout: default
-title: "Chrome File System Access API Guide"
-description: "Learn how to use the Chrome File System Access API to open, save, and manage files and directories directly from your web applications. Complete guide with code examples."
-date: 2026-01-20
-categories: [extensions, development, api]
-tags: [chrome-file-system-access-api, file-api, web-development, chrome-extensions]
+layout: post
+title: 'Chrome File System Access API: A Complete Guide'
+description: "Learn how the Chrome File System Access API enables web apps to read,................................................................................."
+  write, and manage local files directly from the browser. Read our comprehensive
+  guide t...
+date: 2026-03-11
+last_modified_at: '2026-03-12'
+permalink: chrome-file-system-access-api
+categories:
+- web-development
+- tips
+tags:
+- chrome-api
+- file-system
+- web-development
+- browser-features
 author: theluckystrike
 ---
 # Chrome File System Access API: A Complete Guide

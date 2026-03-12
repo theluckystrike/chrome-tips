@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome Visual Search on Desktop: A Complete Guide'
-description: Learn how to use visual search in Chrome on your desktop computer. This
+description: "Learn how to use visual search in Chrome on your desktop computer. This..............................................................................."
   guide covers built-in features and extensions to search by image. Read our comprehens...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'

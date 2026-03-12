@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does Having Many Chrome Extensions Slow Down Browser
-description: Too many Chrome extensions can slow down your browser. Learn why this
+description: "Too many Chrome extensions can slow down your browser. Learn why this................................................................................."
   happens and what you can do to speed things up. Read our comprehensive guide to
   learn m...
 date: '2026-01-01'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Translate Entire Page How To
-description: Learn how to translate entire web pages in Chrome with built-in tools
+description: "Learn how to translate entire web pages in Chrome with built-in tools................................................................................."
   and extensions for seamless multilingual browsing. Read our comprehensive guide
   to lear...
 date: '2026-03-09'

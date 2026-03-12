@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Notion Web Clipper Setup
-description: Learn how to set up the Notion Web Clipper in Chrome to save articles,
+description: "Learn how to set up the Notion Web Clipper in Chrome to save articles,................................................................................"
   links, and content directly to your Notion workspace. Discover more tips and tricks
   to
 date: 2026-01-15

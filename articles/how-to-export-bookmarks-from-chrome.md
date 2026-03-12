@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Export Bookmarks from Chrome
-description: Learn how to export bookmarks from Chrome to back them up or transfer
+description: "Learn how to export bookmarks from Chrome to back them up or transfer................................................................................."
   them to another browser. Simple steps included. Read our comprehensive guide to
   learn m...
 date: '2026-01-15'

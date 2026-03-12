@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Check Website Speed in Chrome
-description: Learn how to check website speed in Chrome using built-in tools and extensions.
+description: "Learn how to check website speed in Chrome using built-in tools and extensions........................................................................"
   Find out what's slowing down your browsing and how to fix it. Read our compre...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Window Management API Explained
-description: Learn what the Chrome Window Management API does, why it matters for
+description: "Learn what the Chrome Window Management API does, why it matters for.................................................................................."
   your browser experience, and how to use it effectively. Read our comprehensive guide
   to ...
 date: '2026-01-20'

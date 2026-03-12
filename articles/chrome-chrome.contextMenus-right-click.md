@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome chrome.contextMenus right click
-description: Learn how to create custom right-click context menus in Chrome extensions
+description: "Learn how to create custom right-click context menus in Chrome extensions............................................................................."
   using the chrome.contextMenus API to enhance user experience and productivity.
 date: 2025-01-15
 categories:
@@ -14,6 +14,7 @@ tags:
 - developer
 author: theluckystrike
 permalink: chrome-chrome.contextMenus-right-click
+last_modified_at: '2026-03-12'
 ---
 # How to Create Custom Right-Click Context Menus in Chrome Extensions
 

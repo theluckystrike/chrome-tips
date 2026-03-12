@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Address Bar Shortcuts Tips
-description: Practical Chrome address bar shortcuts that help you browse faster. Learn
+description: "Practical Chrome address bar shortcuts that help you browse faster. Learn............................................................................."
   simple keyboard tricks to navigate, search, and manage tabs like a pro. Find out
   mo...
 date: '2026-01-15'

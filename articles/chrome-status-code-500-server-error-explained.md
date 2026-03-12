@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Status Code 500 Server Error Explained
-description: Seeing a 500 error in Chrome? Learn what causes server errors, why they
+description: "Seeing a 500 error in Chrome? Learn what causes server errors, why they..............................................................................."
   happen, and simple steps to fix or work around them. Read our comprehensive guide
   to lea
 date: 2026-01-15

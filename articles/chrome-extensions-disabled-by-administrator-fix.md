@@ -1,10 +1,10 @@
 ---
 title: Chrome Extensions Disabled by Administrator Fix
-description: Learn how to fix Chrome extensions disabled by administrator. Discover
+description: "Learn how to fix Chrome extensions disabled by administrator. Discover................................................................................"
   why this happens and what you can do to get your extensions working again. Discover
   ho...
 date: '2026-01-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-disabled-by-administrator-fix
 layout: post
 categories: '[troubleshooting, extensions]'

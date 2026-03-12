@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Settings to Speed Up Chrome 2026
-description: Practical step-by-step guide to speed up Chrome on slow computers with
+description: "Practical step-by-step guide to speed up Chrome on slow computers with................................................................................"
   limited RAM. Enable memory-saving features and optimize performance. Learn how to
   opti...
 date: 2026-01-15
@@ -15,7 +15,7 @@ tags:
 - speed-up-chrome
 - chrome-memory
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-settings-to-speed-up-chrome-2026
 ---
 # Best Settings to Speed Up Chrome 2026

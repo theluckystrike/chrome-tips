@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Lock Safe Search in Chrome for Children
-description: A practical guide to setting up Safe Search in Chrome to protect children
+description: "A practical guide to setting up Safe Search in Chrome to protect children............................................................................."
   from inappropriate content. Step-by-step instructions for parents. Read our comprehens
 date: 2026-01-15
 categories:
@@ -15,7 +15,7 @@ tags:
 - kids-browser
 author: theluckystrike
 permalink: chrome-safe-search-lock-for-children
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # How to Lock Safe Search in Chrome for Children
 

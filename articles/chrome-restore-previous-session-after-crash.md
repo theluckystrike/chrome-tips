@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Restore Previous Session After Crash
-description: Chrome restore previous session after crash can be a lifesaver. Learn
+description: "Chrome restore previous session after crash can be a lifesaver. Learn................................................................................."
   why Chrome loses your tabs and how to get them back. Read our comprehensive guide
   to learn
 date: 2025-03-09
@@ -16,7 +16,7 @@ tags:
 - chrome-fix
 author: theluckystrike
 permalink: chrome-restore-previous-session-after-crash
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Restore Previous Session After Crash
 

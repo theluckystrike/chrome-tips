@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome voice search how to use
-description: Learn how to use voice search in Chrome browser. Simple steps to enable
+description: "Learn how to use voice search in Chrome browser. Simple steps to enable..............................................................................."
   Read our comprehensive guide to learn more and optimize your browser experience
   with ...
 date: '2026-03-09'

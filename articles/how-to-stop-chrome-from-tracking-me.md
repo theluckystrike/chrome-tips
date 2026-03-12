@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Stop Chrome from Tracking Me
-description: Worried about Chrome tracking your activity? Learn practical steps to
+description: "Worried about Chrome tracking your activity? Learn practical steps to................................................................................."
   limit Chrome's data collection and protect your privacy online. Read our comprehensive
   ...
 date: '2026-01-15'

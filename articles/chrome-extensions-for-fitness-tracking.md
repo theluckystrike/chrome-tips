@@ -1,9 +1,9 @@
 ---
 title: Chrome Extensions For Fitness Tracking
-description: Discover how Chrome Extensions For Fitness Tracking can transform your
+description: "Discover how Chrome Extensions For Fitness Tracking can transform your................................................................................"
   browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings...
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: '2026-03-12'
 permalink: /articles/chrome-extensions-for-fitness-tracking/
 ---
 # Chrome Extensions for Fitness Tracking

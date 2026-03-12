@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Fix Chrome Raster Thread High CPU Usage
-description: Is Chrome's raster thread consuming too much CPU? Learn practical solutions
+description: "Is Chrome's raster thread consuming too much CPU? Learn practical solutions..........................................................................."
   to reduce browser resource usage and improve performance.
 date: 2026-01-15
 categories:
@@ -14,6 +14,7 @@ tags:
 - browser
 author: theluckystrike
 permalink: chrome-raster-thread-high-cpu-fix
+last_modified_at: '2026-03-12'
 ---
 # How to Fix Chrome Raster Thread High CPU Usage
 

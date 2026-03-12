@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Extensions for Weather Forecast
-description: Find the best Chrome extensions for weather forecast to stay prepared.
+description: "Find the best Chrome extensions for weather forecast to stay prepared................................................................................."
   Discover how these tools keep you updated effortlessly. Read our comprehensive guide
   t...
 date: 2026-03-09
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-weather-forecast
 categories:
 - productivity

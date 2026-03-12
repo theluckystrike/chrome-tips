@@ -1,9 +1,9 @@
 ---
 title: Chrome Extension for YouTube Ad Blocker
-description: Tired of YouTube ads interrupting your videos? Learn how a chrome extension
+description: "Tired of YouTube ads interrupting your videos? Learn how a chrome extension..........................................................................."
   for YouTube ad blocker can help. Discover how these tools can significantly impro...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-youtube-ad-blocker
 layout: post
 ---

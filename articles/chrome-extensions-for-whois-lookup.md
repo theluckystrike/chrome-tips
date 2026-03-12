@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Extensions for Whois Lookup
-description: Looking for chrome extensions for whois lookup? Find the best tools to
+description: "Looking for chrome extensions for whois lookup? Find the best tools to................................................................................"
   check domain registration details directly in your browser. Read our comprehensive
   gui...
 date: 2026-03-10
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-whois-lookup
 categories:
 - productivity

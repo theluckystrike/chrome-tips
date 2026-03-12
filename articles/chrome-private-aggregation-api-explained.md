@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Private Aggregation API Explained
-description: Learn how Chrome's Private Aggregation API enables privacy-preserving
+description: "Learn how Chrome's Private Aggregation API enables privacy-preserving................................................................................."
   measurements without exposing individual user data. Learn effective tips and tricks
   to ...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-private-aggregation-api-explained
 categories:
 - privacy

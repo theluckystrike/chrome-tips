@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chrome V8 JavaScript Engine Explained
-description: What is Chrome V8 JavaScript engine and how does it work? Learn how this powerful engine powers your browsing experience and affects performance.
+description: "What is Chrome V8 JavaScript engine and how does it work? Learn how this powerful engine powers your browsing experience and affects performance......"
 date: 2026-03-12
 categories:
 - browser-basics
@@ -15,7 +15,6 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-v8-javascript-engine-explained
 ---
-
 # Chrome V8 JavaScript Engine Explained
 
 If you have ever wondered what makes Chrome so fast at running web applications, the answer lies in a powerful component called the V8 JavaScript engine. This engine is the driving force behind Chrome's ability to execute JavaScript code quickly and efficiently, enabling the interactive experiences we expect from modern websites. Understanding how the V8 engine works can help you appreciate why some websites perform better than others and what you can do to optimize your browsing experience.

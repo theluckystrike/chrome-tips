@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Address Bar Commands You Didnt Know
-description: Discover hidden Chrome address bar commands that can speed up your browsing
+description: "Discover hidden Chrome address bar commands that can speed up your browsing..........................................................................."
   and boost productivity instantly. Learn how to optimize your browser today for be...
 date: 2026-03-10
 categories:
@@ -14,7 +14,7 @@ tags:
 - chrome-tips
 - productivity
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-address-bar-commands-you-didnt-know
 ---
 # Chrome Address Bar Commands You Didnt Know

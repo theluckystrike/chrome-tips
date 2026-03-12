@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Text Wrap Balance CSS
-description: Learn how to use CSS text-wrap balance to create more even text layout
+description: "Learn how to use CSS text-wrap balance to create more even text layout................................................................................"
   in Chrome and improve your web design. Read our comprehensive guide to learn more
   and ...
 date: '2026-01-01'

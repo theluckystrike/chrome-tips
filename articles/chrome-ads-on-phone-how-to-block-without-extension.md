@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Ads on Phone How to Block Without Extension
-description: Dealing with ads in Chrome on your phone? Learn practical ways to block
+description: "Dealing with ads in Chrome on your phone? Learn practical ways to block..............................................................................."
   ads without installing extensions and enjoy cleaner browsing. Learn how to optimize
   y...
 date: 2026-03-10
@@ -14,7 +14,7 @@ tags:
 - phone-browser
 - privacy
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-ads-on-phone-how-to-block-without-extension
 ---
 # Chrome Ads on Phone How to Block Without Extension

@@ -1,9 +1,9 @@
 ---
 title: Chrome Extensions for Lorem Ipsum Generator
-description: Discover the best Chrome extensions for Lorem Ipsum generator tools to
+description: "Discover the best Chrome extensions for Lorem Ipsum generator tools to................................................................................"
   speed up your design workflow and placeholder text creation. Check out our expert...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-lorem-ipsum-generator
 layout: post
 categories: '[productivity, design]'

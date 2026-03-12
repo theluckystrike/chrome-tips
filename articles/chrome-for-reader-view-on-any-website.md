@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Reader View on Any Website
-description: Learn how to get reader view in Chrome on any website. Simple extension
+description: "Learn how to get reader view in Chrome on any website. Simple extension..............................................................................."
   solutions for distraction-free reading. Discover more tips and tricks to optimize
   you
 date: 2026-01-20

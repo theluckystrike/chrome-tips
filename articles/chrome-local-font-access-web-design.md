@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Local Font Access for Web Design
-description: Discover how Chrome Local Font Access API transforms web design workflows.
+description: "Discover how Chrome Local Font Access API transforms web design workflows............................................................................."
   Learn to leverage local fonts in browser-based design tools for better creative
   results.
 date: '2026-03-12'

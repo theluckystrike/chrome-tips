@@ -1,10 +1,10 @@
 ---
 title: Chrome Extensions for Freelancers
-description: Discover the best chrome extensions for freelancers to boost productivity,
+description: "Discover the best chrome extensions for freelancers to boost productivity,............................................................................"
   manage clients, and streamline your workflow. Check out our expert... Learn more
   abou
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-freelancers
 layout: post
 categories: '[productivity, work]'

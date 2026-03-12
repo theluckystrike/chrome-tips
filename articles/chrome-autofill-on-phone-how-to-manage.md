@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Autofill On Phone How To Manage
-description: Learn how to manage Chrome autofill on your phone, control saved passwords,
+description: "Learn how to manage Chrome autofill on your phone, control saved passwords,..........................................................................."
   addresses, and payment methods easily. Learn how to optimize your browser today
   f...
 date: 2026-01-15
@@ -15,7 +15,7 @@ tags:
 - password-manager
 - tips
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-autofill-on-phone-how-to-manage
 ---
 # Chrome Autofill on Phone How to Manage

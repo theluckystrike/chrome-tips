@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for rumble web player settings
-description: Learn how to optimize Chrome for Rumble web player settings for smoother
+description: "Learn how to optimize Chrome for Rumble web player settings for smoother.............................................................................."
   playback and better performance. Discover more tips and tricks to optimize your
   brow
 date: 2026-01-15

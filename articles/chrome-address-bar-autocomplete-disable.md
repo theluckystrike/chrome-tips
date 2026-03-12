@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Address Bar Autocomplete Disable
-description: Learn how to disable Chrome address bar autocomplete with practical step-by-step
+description: "Learn how to disable Chrome address bar autocomplete with practical step-by-step......................................................................"
   solutions. Take control of your browsing privacy and stop unwanted suggestions.
 date: 2026-03-11
 categories:
@@ -14,7 +14,7 @@ tags:
 - privacy
 - omnibox
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-address-bar-autocomplete-disable
 ---
 # Chrome Address Bar Autocomplete Disable

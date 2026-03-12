@@ -1,9 +1,9 @@
 ---
 title: Chrome Content Visibility Auto Performance
-description: Learn how CSS content-visibility auto improves Chrome performance by
+description: "Learn how CSS content-visibility auto improves Chrome performance by.................................................................................."
   skipping rendering of off-screen content. Boost page speed with this powerful property.
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-content-visibility-auto-performance
 layout: post
 categories:

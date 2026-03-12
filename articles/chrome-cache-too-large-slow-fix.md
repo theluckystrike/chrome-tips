@@ -1,10 +1,10 @@
 ---
 layout: post
 title: How to Fix Chrome Cache Too Large and Slow Performance
-description: Is your Chrome browser running slow due to a bloated cache? Learn practical
+description: "Is your Chrome browser running slow due to a bloated cache? Learn practical..........................................................................."
   methods to clear and manage cache to restore fast browsing speeds.
 date: 2026-03-12
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-cache-too-large-slow-fix
 categories:
 - performance
@@ -18,7 +18,7 @@ tags:
 - chrome-settings
 author: theluckystrike
 permalink: chrome-cache-too-large-slow-fix
-last_modified_at: '2025-02-20'
+last_modified_at: '2026-03-12'
 ---
 # How to Fix Chrome Cache Too Large and Slow Performance
 

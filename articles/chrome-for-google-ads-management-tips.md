@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for google ads management tips
-description: 'Learn how to use Chrome for Google Ads management with these practical
+description: "Learn how to use Chrome for Google Ads management with these practical................................................................................"
   tips to improve your workflow and campaign performance. Discover more tips and tricks '
 date: 2026-01-15
 categories:

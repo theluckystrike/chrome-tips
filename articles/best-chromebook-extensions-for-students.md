@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Chromebook Extensions for Students
-description: Discover the best Chromebook extensions for students to boost productivity,
+description: "Discover the best Chromebook extensions for students to boost productivity,..........................................................................."
   save battery, and streamline your study workflow. Learn how to optimize your brow...
 date: 2026-03-10
 categories:
@@ -13,7 +13,7 @@ tags:
 - extensions
 - education-tech
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chromebook-extensions-for-students
 ---
 # Best Chromebook Extensions for Students

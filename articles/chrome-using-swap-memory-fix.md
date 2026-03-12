@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Using Swap Memory Fix
-description: Is Chrome eating up your swap memory? Learn why this happens and how
+description: "Is Chrome eating up your swap memory? Learn why this happens and how.................................................................................."
   to fix it with simple steps. Read our comprehensive guide to learn more and optimize
   you...
 date: '2026-01-01'

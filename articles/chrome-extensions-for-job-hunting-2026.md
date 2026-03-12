@@ -1,9 +1,9 @@
 ---
 title: Chrome Extensions for Job Hunting 2026
-description: Discover the best Chrome extensions to streamline your job search in
+description: "Discover the best Chrome extensions to streamline your job search in.................................................................................."
   2026. Save time, stay organized, and land your dream job faster. Check out our expert...
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-job-hunting-2026
 layout: post
 categories: '[extensions, productivity]'

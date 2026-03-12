@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Chrome Extensions for Graphic Designers
-description: Discover the best Chrome extensions for graphic designers to streamline
+description: "Discover the best Chrome extensions for graphic designers to streamline..............................................................................."
   your creative workflow, manage colors better, and boost your overall design productiv...
 date: 2026-01-15
 last_modified_at: '2026-03-12'
@@ -15,7 +15,7 @@ tags:
 - extensions
 - tools
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-graphic-designers
 ---
 # Best Chrome Extensions for Graphic Designers

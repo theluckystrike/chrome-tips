@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Vertical Tabs How to Enable
-description: Enable Chrome vertical tabs to organize your browser better. Learn how
+description: "Enable Chrome vertical tabs to organize your browser better. Learn how................................................................................"
   Read our comprehensive guide to learn more and optimize your browser experience
   with t...
 date: '2025-03-12'

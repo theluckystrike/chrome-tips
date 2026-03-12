@@ -1,9 +1,9 @@
 ---
 title: Chrome for Stripe Dashboard Tips
-description: Practical Chrome tips to speed up your Stripe dashboard, manage payment
+description: "Practical Chrome tips to speed up your Stripe dashboard, manage payment..............................................................................."
   tabs efficiently, and improve your workflow. Discover more tips and tricks to optimiz
 date: 2026-03-10
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-stripe-dashboard-tips
 layout: post
 categories:

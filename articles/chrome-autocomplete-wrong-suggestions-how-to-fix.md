@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Autocomplete Wrong Suggestions How to Fix
-description: Chrome autocomplete wrong suggestions can be annoying. Learn why they
+description: "Chrome autocomplete wrong suggestions can be annoying. Learn why they................................................................................."
   appear and how to fix them with simple steps. Learn how to optimize your browser
   today ...
 date: 2025-03-10
@@ -14,7 +14,7 @@ tags:
 - address-bar
 - suggestions
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-autocomplete-wrong-suggestions-how-to-fix
 ---
 # Chrome Autocomplete Wrong Suggestions How to Fix

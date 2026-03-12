@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Chrome Site Permissions How to Manage
-description: A friendly guide to finding and controlling what websites can access
+description: "A friendly guide to finding and controlling what websites can access.................................................................................."
   in your Chrome browser. Read our comprehensive guide to learn more and improve your
   browsin
 permalink: chrome-site-permissions-how-to-manage
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 Chrome site permissions how to manage is something many people search for when they realize how much access they have given away without knowing it. You might have clicked Allow on a dozen prompts over the years without thinking about it, and now you want to take back control. That is completely understandable, and the good news is that Chrome makes it easier than you might expect.
 

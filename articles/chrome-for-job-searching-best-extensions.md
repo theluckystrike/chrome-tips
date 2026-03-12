@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Job Searching Best Extensions
-description: Discover the best Chrome extensions for job searching. Streamline your
+description: "Discover the best Chrome extensions for job searching. Streamline your................................................................................"
   job hunt with these helpful tools. Discover more tips and tricks to optimize your
   brow
 date: 2026-01-15

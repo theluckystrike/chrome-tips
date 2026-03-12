@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Chrome Extensions for Freelancers 2026
-description: Find the best Chrome extensions for freelancers in 2026 to boost productivity,
+description: "Find the best Chrome extensions for freelancers in 2026 to boost productivity,........................................................................"
   manage tabs better, and streamline your remote work for a more efficient career.
 date: 2026-03-10
 last_modified_at: '2026-03-12'
@@ -16,7 +16,7 @@ tags:
 - remote-work
 - 2026
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-freelancers-2026
 ---
 # Best Chrome Extensions for Freelancers 2026

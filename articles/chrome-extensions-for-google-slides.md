@@ -1,9 +1,9 @@
 ---
 title: Chrome Extensions for Google Slides
-description: Discover Chrome extensions for Google Slides that solve common presentation
+description: "Discover Chrome extensions for Google Slides that solve common presentation..........................................................................."
   problems and boost your productivity. Check out our expert recommendations and...
 date: '2026-01-01'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-google-slides
 layout: post
 ---

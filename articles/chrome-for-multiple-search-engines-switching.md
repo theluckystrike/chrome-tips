@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Multiple Search Engines Switching
-description: Learn how to use Chrome with multiple search engines and switch between
+description: "Learn how to use Chrome with multiple search engines and switch between..............................................................................."
   them easily for better browsing. Discover more tips and tricks to optimize your
   brows
 date: 2026-01-15

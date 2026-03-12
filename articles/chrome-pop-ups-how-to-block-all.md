@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Pop Ups How to Block All
-description: Learn how to block all pop-ups in Chrome with simple settings and extensions
+description: "Learn how to block all pop-ups in Chrome with simple settings and extensions.........................................................................."
   for a cleaner, safer browsing experience. Learn effective tips and tricks to opt...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-pop-ups-how-to-block-all
 categories:
 - tips

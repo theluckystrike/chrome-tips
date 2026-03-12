@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to Share Chrome with Family Safely
-description: Set up Chrome for the whole family with separate profiles, parental controls,
+description: "Set up Chrome for the whole family with separate profiles, parental controls,........................................................................."
   and privacy protection. Keep everyone's data separate and safe. Read our compre...
 date: '2025-03-07'
 last_modified_at: '2026-03-12'

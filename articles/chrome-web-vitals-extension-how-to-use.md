@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Web Vitals Extension How to Use
-description: Learn how to use Chrome web vitals extensions to monitor website performance
+description: "Learn how to use Chrome web vitals extensions to monitor website performance.........................................................................."
   and improve your browsing experience. Read our comprehensive guide to learn more...
 date: '2026-01-01'
 last_modified_at: '2026-03-12'

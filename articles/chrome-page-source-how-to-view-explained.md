@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Page Source How to View Explained
-description: Learn how to view page source in Chrome with simple steps. Find out why
+description: "Learn how to view page source in Chrome with simple steps. Find out why..............................................................................."
   you might need to see the HTML behind any website. Learn effective tips and tricks
   to...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-page-source-how-to-view-explained
 categories:
 - development

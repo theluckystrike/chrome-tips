@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Notification API Guide
-description: Learn how to use the Chrome Notification API for web and extension development.
+description: "Learn how to use the Chrome Notification API for web and extension development........................................................................"
   Master push notifications, permission requests, notification actions, and bad...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-notification-api-guide
 categories:
 - development

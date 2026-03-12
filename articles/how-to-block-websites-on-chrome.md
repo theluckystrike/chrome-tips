@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Block Websites on Chrome
-description: Learn how to block distracting or harmful websites on Chrome using built-in
+description: "Learn how to block distracting or harmful websites on Chrome using built-in..........................................................................."
   tools and extensions. Simple methods to take control of your browsing. Read our
   c...
 date: '2026-03-09'

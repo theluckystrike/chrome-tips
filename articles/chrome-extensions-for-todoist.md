@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Extensions for Todoist
-description: Discover how Chrome extensions for Todoist can streamline your workflow
+description: "Discover how Chrome extensions for Todoist can streamline your workflow..............................................................................."
   and help you stay organized. Read our comprehensive guide to learn more and boost
   you...
 date: 2026-03-10
-last_modified_at: 2026-03-09
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-todoist
 ---
 Chrome extensions for Todoist are small browser tools that can make your task management experience much smoother. If you use Todoist to organize your work and personal life, these extensions can save you time and help you capture ideas faster. Let me walk you through the common challenges people face with Todoist and how the right extensions can solve them.

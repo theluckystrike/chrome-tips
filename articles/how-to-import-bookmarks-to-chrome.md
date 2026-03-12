@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Import Bookmarks to Chrome
-description: A step-by-step guide to importing your bookmarks into Chrome from any
+description: "A step-by-step guide to importing your bookmarks into Chrome from any................................................................................."
   browser or HTML file. Read our comprehensive guide to learn more and optimize your
   brow...
 date: '2025-03-09'

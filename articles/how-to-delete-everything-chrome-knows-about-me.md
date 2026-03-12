@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Delete Everything Chrome Knows About Me
-description: Learn how to delete all browsing data Chrome has stored. Clear history,
+description: "Learn how to delete all browsing data Chrome has stored. Clear history,..............................................................................."
   cache, cookies, and more with simple steps. Read our comprehensive guide to learn
   mor...
 date: '2025-02-19'

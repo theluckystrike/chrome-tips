@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Address Bar Shortcuts You Should Know
-description: 'Keyboard shortcuts for Chrome''s address bar that save real time: tab
+description: "Keyboard shortcuts for Chrome''s address bar that save real time: tab................................................................................."
   search, custom keywords, quick navigation, and lesser-known tricks. Learn how to
   optimiz...'
 date: '2026-01-15'
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-address-bar-shortcuts-you-should-know
 ---
 Chrome address bar shortcuts you should know — not a generic list of Ctrl+C and Ctrl+V, but the specific omnibox behaviors that save measurable time if you type URLs and search queries frequently.

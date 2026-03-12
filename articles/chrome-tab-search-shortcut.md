@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome Tab Search Shortcut: Find Any Open Tab Instantly'
-description: Master the Chrome tab search shortcut to quickly find open tabs, manage
+description: "Master the Chrome tab search shortcut to quickly find open tabs, manage..............................................................................."
   multiple windows, and boost your browsing efficiency. Read our comprehensive guide
   to...
 date: '2026-01-15'

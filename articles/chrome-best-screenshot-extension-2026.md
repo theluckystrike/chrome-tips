@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Best Screenshot Extension 2026
-description: Find the chrome best screenshot extension 2026 with our comprehensive
+description: "Find the chrome best screenshot extension 2026 with our comprehensive................................................................................."
   guide. Capture, annotate, and share screenshots effortlessly. Learn how to optimize
   you...
 date: 2026-01-15
@@ -14,7 +14,7 @@ tags:
 - productivity
 - tools
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-best-screenshot-extension-2026
 ---
 # Chrome Best Screenshot Extension 2026

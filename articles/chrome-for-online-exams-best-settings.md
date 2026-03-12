@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chrome for Online Exams Best Settings
-description: Get Chrome ready for online exams with these simple settings. Improve
+description: "Get Chrome ready for online exams with these simple settings. Improve................................................................................."
   performance, reduce distractions, and avoid technical issues during important tests
 date: 2025-02-20
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for screenshot and annotation tools
-description: Learn how to use Chrome for screenshot and annotation tools. Find the
+description: "Learn how to use Chrome for screenshot and annotation tools. Find the................................................................................."
   best extensions for capturing and marking up your screen. Discover more tips and
   tricks
 date: 2026-01-15

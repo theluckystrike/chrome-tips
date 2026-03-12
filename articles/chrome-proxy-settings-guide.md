@@ -1,10 +1,22 @@
 ---
-layout: default
-title: "Chrome Proxy Settings Guide"
-description: "Learn how to configure proxy settings in Google Chrome including system proxy, PAC files, SOCKS5 proxies, and extension-based proxies for enhanced privacy and performance."
-date: 2026-01-20
-categories: [browser, security, networking]
-tags: [chrome, proxy, browser-settings, privacy, socks5, pac-file]
+layout: post
+title: Chrome Proxy Settings Guide
+description: "Complete guide to Chrome proxy settings including system proxy configuration,........................................................................."
+  PAC files, SOCKS5 proxy setup, and Chrome extension proxies. Optimize your brow...
+date: '2026-03-11'
+last_modified_at: '2026-03-12'
+permalink: chrome-proxy-settings-guide
+categories:
+- privacy
+- security
+- chrome-settings
+tags:
+- chrome-proxy
+- proxy-settings
+- socks5
+- pac-file
+- chrome-extensions
+- privacy
 author: theluckystrike
 ---
 # Chrome Proxy Settings Guide

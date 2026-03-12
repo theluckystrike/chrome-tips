@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome DevTools Coverage Tool Explained
-description: Learn how to use Chrome DevTools Coverage to find unused JavaScript and
+description: "Learn how to use Chrome DevTools Coverage to find unused JavaScript and..............................................................................."
   CSS, optimize your browser, and speed up web pages. Learn more about how to optimiz
 date: 2026-03-09
 categories:
@@ -13,7 +13,7 @@ tags:
 - browser-tools
 - chrome-tips
 author: theluckystrike
-last_modified_at: '%Y->- (origin/fix/lastmod-batch-4)'
+last_modified_at: '2026-03-12'
 permalink: /chrome-devtools-coverage-tool-explained/
 ---
 # Chrome DevTools Coverage Tool Explained

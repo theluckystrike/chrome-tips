@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Web Vitals What They Mean
-description: Chrome web vitals are metrics that measure user experience. Learn what
+description: "Chrome web vitals are metrics that measure user experience. Learn what................................................................................"
   they mean and how to improve your site's performance. Read our comprehensive guide
   to ...
 date: '2026-01-01'

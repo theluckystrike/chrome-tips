@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome voice control navigate by speaking
-description: Learn how to navigate Chrome using your voice. This guide covers built-in
+description: "Learn how to navigate Chrome using your voice. This guide covers built-in............................................................................."
   voice features and extensions for hands-free browsing. Read our comprehensive guide...
 date: '2026-03-09'
 last_modified_at: '2026-03-12'

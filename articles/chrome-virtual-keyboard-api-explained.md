@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Virtual Keyboard API Explained
-description: Learn what the Chrome virtual keyboard API is, how it works, and how
+description: "Learn what the Chrome virtual keyboard API is, how it works, and how.................................................................................."
   it improves your web experience on tablets and mobile devices. Read our comprehensive
   gu...
 date: '2026-01-01'

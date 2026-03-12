@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for DeFi Dashboard Extensions
-description: Discover Chrome extensions for DeFi dashboards to manage your decentralized
+description: "Discover Chrome extensions for DeFi dashboards to manage your decentralized..........................................................................."
   finance portfolio directly in your browser. Find out more tips on how to optimize...
 date: 2026-03-10
 categories:

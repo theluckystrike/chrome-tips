@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome touchscreen mode how to enable
-description: Learn how to enable touchscreen mode in Chrome for better browsing on
+description: "Learn how to enable touchscreen mode in Chrome for better browsing on................................................................................."
   touch-enabled laptops and tablets. Simple steps to make Chrome work better with
   touch.
 date: '2026-03-09'

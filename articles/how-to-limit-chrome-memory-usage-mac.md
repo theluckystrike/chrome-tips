@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Limit Chrome Memory Usage Mac
-description: Learn how to limit Chrome memory usage on Mac with practical tips. Reduce
+description: "Learn how to limit Chrome memory usage on Mac with practical tips. Reduce............................................................................."
   RAM consumption and make your browser run faster. Read our comprehensive guide to
   l...
 date: '2026-01-15'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome vs Edge Extensions Compatibility
-description: Not all Chrome extensions work on Microsoft Edge. Learn why and how to
+description: "Not all Chrome extensions work on Microsoft Edge. Learn why and how to................................................................................"
   make them compatible. Read our comprehensive guide to learn more and optimize your
   bro...
 date: '2026-01-01'

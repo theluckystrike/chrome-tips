@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Show Text Cursor Indicator Visibility in Chrome
-description: Learn how to enable and customize the text cursor indicator visibility
+description: "Learn how to enable and customize the text cursor indicator visibility................................................................................"
   in Chrome for better accessibility and easier text navigation. Simple guide with
   screenshots.
 date: 2026-01-15
@@ -18,6 +18,7 @@ tags:
 - text-navigation
 author: theluckystrike
 permalink: chrome-text-cursor-indicator-visibility
+last_modified_at: '2026-03-12'
 ---
 # How to Show Text Cursor Indicator Visibility in Chrome
 

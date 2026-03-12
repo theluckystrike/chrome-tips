@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Chrome Extensions For Journalists
-description: Discover the best chrome extensions for journalists to boost productivity,
+description: "Discover the best chrome extensions for journalists to boost productivity,............................................................................"
   research efficiently, and manage your workflow. Learn how to optimize your browser...
 date: 2026-01-15
 categories:
@@ -13,7 +13,7 @@ tags:
 - journalism
 - browser
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-journalists
 ---
 # Best Chrome Extensions for Journalists

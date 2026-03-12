@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Payment Request API Explained
-description: Understand how the Chrome Payment Request API works, why it helps developers
+description: "Understand how the Chrome Payment Request API works, why it helps developers.........................................................................."
   create faster checkouts, and how it simplifies online payments. Learn effective
   ...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-payment-request-api-explained
 categories:
 - chrome

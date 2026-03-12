@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Google Classroom Tips
-description: Discover helpful Chrome tips for Google Classroom to boost productivity,
+description: "Discover helpful Chrome tips for Google Classroom to boost productivity,.............................................................................."
   manage tabs, and improve your teaching or learning experience. Discover more tips
   an
 date: 2026-03-10

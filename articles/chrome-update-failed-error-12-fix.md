@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Update Failed Error 12 Fix
-description: Getting error 12 when updating Chrome? Learn why the chrome update failed
+description: "Getting error 12 when updating Chrome? Learn why the chrome update failed............................................................................."
   Read our comprehensive guide to learn more and optimize your browser experience
   wit...
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-update-failed-error-12-fix
 categories: ''
 tags: ''

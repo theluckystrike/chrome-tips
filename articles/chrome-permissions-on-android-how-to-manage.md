@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Permissions on Android How to Manage
-description: Learn how to manage Chrome permissions on Android to protect your privacy
+description: "Learn how to manage Chrome permissions on Android to protect your privacy............................................................................."
   and control what websites can access on your device. Learn effective tips and trick...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-permissions-on-android-how-to-manage
 categories:
 - mobile

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome DevTools Workspaces Guide
-description: Master Chrome DevTools Workspaces for folder mapping, live editing, persistence,
+description: "Master Chrome DevTools Workspaces for folder mapping, live editing, persistence,......................................................................"
   and file system access. Optimize your development workflow today. Read our c...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-workspaces-guide
 categories: '[development, chrome-devtools, productivity]'
 tags: '[chrome-devtools, workspaces, web-development, debugging, live-editing]'

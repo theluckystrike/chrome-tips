@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to Make Chrome Kid-Friendly
-description: Make Chrome safe and appropriate for children. Simple setup steps for
+description: "Make Chrome safe and appropriate for children. Simple setup steps for................................................................................."
   filtering, safe search, and creating a browsing environment designed for kids. Read
   our...
 date: '2025-03-09'

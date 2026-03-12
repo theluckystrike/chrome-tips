@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Devtools Recorder Panel How To Use
-description: Learn how to use Chrome DevTools Recorder panel to record, replay, and
+description: "Learn how to use Chrome DevTools Recorder panel to record, replay, and................................................................................"
   export user flows for testing and automation. Explore our comprehensive guide to
   mast...
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: '2026-03-12'
 permalink: chrome-devtools-recorder-panel-how-to-use
 ---
 # chrome devtools recorder panel how to use

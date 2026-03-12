@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Limit Chrome Extension Permissions
-description: Learn how to control and limit Chrome extension permissions to protect
+description: "Learn how to control and limit Chrome extension permissions to protect................................................................................"
   your privacy and secure your browser. Read our comprehensive guide to learn more
   and o...
 date: '2026-01-01'

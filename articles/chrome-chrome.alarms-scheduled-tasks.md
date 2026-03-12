@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome chrome.alarms API for Scheduled Tasks
-description: Learn how to use the chrome.alarms API to schedule recurring tasks and
+description: "Learn how to use the chrome.alarms API to schedule recurring tasks and................................................................................"
   timed events in your Chrome extensions.
 date: 2026-01-15
 categories:
@@ -13,7 +13,7 @@ tags:
 - chrome-extensions
 - development
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: /articles/chrome-chrome.alarms-scheduled-tasks/
 ---
 # Chrome chrome.alarms API for Scheduled Tasks

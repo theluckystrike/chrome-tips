@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Extensions for Website Archiving
-description: Learn how chrome extensions can help you save web pages for offline access
+description: "Learn how chrome extensions can help you save web pages for offline access............................................................................"
   and preserve online content. Read our comprehensive guide to learn more and boost
   ...
 date: 2026-01-15
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-website-archiving
 categories:
 - extensions

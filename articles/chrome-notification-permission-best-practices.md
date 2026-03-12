@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Notification Permission Best Practices
-description: Learn how to manage Chrome notification permissions safely. Best practices
+description: "Learn how to manage Chrome notification permissions safely. Best practices............................................................................"
   to protect your privacy and reduce unwanted alerts. Learn effective tips and trick...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-notification-permission-best-practices
 categories:
 - privacy

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Clear Chrome Cache Properly
-description: Learn why Chrome cache causes problems and how to clear it properly.
+description: "Learn why Chrome cache causes problems and how to clear it properly..................................................................................."
   Simple steps to free up space and fix slow browsing. Read our comprehensive guide
   to lea...
 date: '2025-02-19'

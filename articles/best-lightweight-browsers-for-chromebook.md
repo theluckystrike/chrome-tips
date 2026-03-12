@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Lightweight Browsers for Chromebook
-description: Looking for the best lightweight browsers for Chromebook? We compare
+description: "Looking for the best lightweight browsers for Chromebook? We compare.................................................................................."
   fast, efficient browsers that won't slow down your device. Learn how to optimize
   your br...
 date: 2026-01-15
@@ -14,7 +14,7 @@ tags:
 - best-browser
 - chromebook-tips
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-lightweight-browsers-for-chromebook
 ---
 # Best Lightweight Browsers for Chromebook

@@ -1,13 +1,23 @@
 ---
-layout: post
-title: "Chrome Side Panel Features Guide"
-description: "Master Chrome side panel features including reading list, bookmarks panel, search companion, and extensions. Boost productivity with Chrome's built-in side panel tools."
-date: 2026-01-15
-categories: [productivity, features]
-tags: [chrome-side-panel, chrome-features, reading-list, bookmarks, chrome-extensions, productivity]
+layout: default
+title: Chrome Side Panel Features Guide
+description: "Master Chrome side panel features including reading list, bookmarks panel,............................................................................"
+  search companion, and extensions. Learn how to use Chrome side panel for enhanced
+  ...
+date: 2026-03-11
+categories:
+- chrome
+- productivity
+- browser-tips
+tags:
+- chrome-side-panel
+- side-panel
+- bookmarks
+- reading-list
+- chrome-extensions
 author: theluckystrike
 permalink: chrome-side-panel-features-guide
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Side Panel Features Guide
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Switch Between Windows Shortcut
-description: Learn how to quickly switch between windows in Chrome using keyboard
+description: "Learn how to quickly switch between windows in Chrome using keyboard.................................................................................."
   shortcuts. Save time and navigate faster. Read our comprehensive guide to learn
   more and im
 permalink: chrome-switch-between-windows-shortcut

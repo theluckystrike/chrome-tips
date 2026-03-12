@@ -2,7 +2,7 @@
 layout: post
 title: Chrome Shape Detection API – Barcode, Face & Text Recognition Directly in Your
   Browser
-description: Discover Chrome's built-in Shape Detection API that enables real-time
+description: "Discover Chrome's built-in Shape Detection API that enables real-time................................................................................."
   barcode scanning, face detection, and text recognition without external libraries.
   Learn how it works and explore practical use cases.
 date: 2026-03-12

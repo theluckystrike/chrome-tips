@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Chrome Slow Only on My Computer Not Others: Why and How to Fix It'
-description: Is Chrome running slow only on your computer while others work fine?
+description: "Is Chrome running slow only on your computer while others work fine?.................................................................................."
   Learn practical fixes for slow computers with limited RAM and get Chrome running
   smoothl...
 date: 2025-02-20
@@ -15,7 +15,7 @@ tags:
 - browser-performance
 author: theluckystrike
 permalink: chrome-slow-only-on-my-computer-not-others
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Slow Only on My Computer Not Others: Why and How to Fix It
 

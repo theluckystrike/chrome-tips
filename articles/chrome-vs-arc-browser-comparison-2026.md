@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome vs Arc Browser Comparison 2026
-description: A practical comparison of Chrome and Arc browsers in 2026, helping you
+description: "A practical comparison of Chrome and Arc browsers in 2026, helping you................................................................................"
   decide which fits your workflow better. Read our comprehensive guide to learn more
   and...
 date: '2026-01-01'

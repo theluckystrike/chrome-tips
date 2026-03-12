@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for custom new tab page extensions
-description: Learn how to customize your new tab page in Chrome with extensions that
+description: "Learn how to customize your new tab page in Chrome with extensions that..............................................................................."
   transform your start page into something useful and personal. Find out more tips
   on h...
 date: 2026-01-15

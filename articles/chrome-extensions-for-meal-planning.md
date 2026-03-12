@@ -1,9 +1,9 @@
 ---
 title: Chrome Extensions for Meal Planning
-description: Discover how Chrome extensions for meal planning can simplify your weekly
+description: "Discover how Chrome extensions for meal planning can simplify your weekly............................................................................."
   meals, save time, and reduce food waste. Check out our expert recommendations and...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-meal-planning
 layout: post
 categories: '[productivity, lifestyle]'

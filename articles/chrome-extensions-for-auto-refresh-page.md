@@ -1,9 +1,9 @@
 ---
 title: Chrome Extensions for Auto Refresh Page
-description: Looking for chrome extensions for auto refresh page? Find the best automatic
+description: "Looking for chrome extensions for auto refresh page? Find the best automatic.........................................................................."
   page refresh tools to keep your content updated. Discover how these tools can si...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-auto-refresh-page
 layout: post
 categories: '[productivity, automation]'

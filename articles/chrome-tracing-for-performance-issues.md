@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Tracing for Performance Issues
-description: Learn how to use Chrome tracing to diagnose and fix browser performance
+description: "Learn how to use Chrome tracing to diagnose and fix browser performance..............................................................................."
   problems. A simple guide for regular users. Read our comprehensive guide to learn
   mor...
 date: '2026-01-01'

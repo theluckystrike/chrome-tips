@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Web Store How to Leave Review
-description: Want to leave a review for a Chrome extension? Learn the simple steps
+description: "Want to leave a review for a Chrome extension? Learn the simple steps................................................................................."
   to share your feedback on the Chrome Web Store. Read our comprehensive guide to
   learn m...
 date: '2026-01-15'

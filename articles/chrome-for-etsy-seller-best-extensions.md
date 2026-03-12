@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Etsy Seller Best Extensions
-description: Find the best Chrome extensions for Etsy sellers to streamline your shop
+description: "Find the best Chrome extensions for Etsy sellers to streamline your shop.............................................................................."
   and save time on daily tasks. Find out more tips on how to optimize your Chrome
   brow...
 date: '2026-01-15'

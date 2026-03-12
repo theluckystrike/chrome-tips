@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome WebAuthn Passwordless Login
-description: Learn how to set up passwordless login in Chrome using WebAuthn for faster,
+description: "Learn how to set up passwordless login in Chrome using WebAuthn for faster,..........................................................................."
   more secure authentication without memorizing passwords. Read our comprehensive
   g...
 date: '2026-01-01'

@@ -1,6 +1,6 @@
 ---
 title: Chrome for Blocking Autoplay Videos
-description: Struggling with videos that autoplay in Chrome? Discover practical ways
+description: "Struggling with videos that autoplay in Chrome? Discover practical ways..............................................................................."
   to block autoplay videos and enjoy peaceful browsing. Find out more tips on how
   to op...
 date: 2025-03-10

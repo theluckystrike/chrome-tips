@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Chrome Extensions for Web Developers 2026
-description: Discover the best Chrome extensions for web developers in 2026 that can
+description: "Discover the best Chrome extensions for web developers in 2026 that can..............................................................................."
   supercharge your workflow and make coding easier. Learn how to optimize your browser
   ...
 date: 2026-03-10
@@ -13,7 +13,7 @@ tags:
 - web-development
 - developer-tools
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-web-developers-2026
 ---
 # Best Chrome Extensions for Web Developers 2026

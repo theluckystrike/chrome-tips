@@ -1,9 +1,9 @@
 ---
 title: Chrome Extensions For Fitness Tracking Dashboard
-description: Discover how Chrome Extensions For Fitness Tracking Dashboard can transform
+description: "Discover how Chrome Extensions For Fitness Tracking Dashboard can transform..........................................................................."
   your browsing. This comprehensive 2026 guide covers the best Chrome extensions an...
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: '2026-03-12'
 permalink: /articles/chrome-extensions-for-fitness-tracking-dashboard/
 ---
 # Chrome Extensions for Fitness Tracking Dashboard

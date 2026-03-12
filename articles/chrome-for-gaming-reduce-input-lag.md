@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome for Gaming: How to Reduce Input Lag'
-description: Learn how to reduce input lag in Chrome for gaming. Simple settings tweaks
+description: "Learn how to reduce input lag in Chrome for gaming. Simple settings tweaks............................................................................"
   and tips for smoother browser gaming performance. Discover more tips and tricks
   to
 date: 2025-02-20

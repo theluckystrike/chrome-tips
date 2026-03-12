@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Takes Forever to Load Pages
-description: Chrome pages loading slowly? Learn why Chrome takes forever to load pages
+description: "Chrome pages loading slowly? Learn why Chrome takes forever to load pages............................................................................."
   and discover practical solutions to speed up your browser. Read our comprehensive
   g...
 date: '2026-01-15'

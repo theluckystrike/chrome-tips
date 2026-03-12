@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Microsoft Office Online Tips
-description: Get the most out of Microsoft Office online in Chrome with these simple
+description: "Get the most out of Microsoft Office online in Chrome with these simple..............................................................................."
   tips. Speed up Word, Excel, and PowerPoint in your browser. Discover more tips and
   tr
 date: 2025-03-10

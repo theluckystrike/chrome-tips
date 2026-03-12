@@ -1,10 +1,10 @@
 ---
 title: Chrome ERR_CERT_AUTHORITY_INVALID Fix
-description: Seeing ERR_CERT_AUTHORITY_INVALID in Chrome? Learn why it happens and
+description: "Seeing ERR_CERT_AUTHORITY_INVALID in Chrome? Learn why it happens and................................................................................."
   how to fix it with simple steps. Check out our expert recommendations and step-by-step
   ins
 date: '2026-01-01'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-err-cert-authority-invalid-fix
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Chrome Themes 2026
-description: Discover the best Chrome themes for 2026 to personalize your browser,
+description: "Discover the best Chrome themes for 2026 to personalize your browser,................................................................................."
   reduce eye strain, and make browsing more enjoyable. Learn how to optimize your
   browser...
 date: 2026-03-10
@@ -15,7 +15,7 @@ tags:
 - customization
 - 2026
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-themes-2026
 ---
 # Best Chrome Themes 2026

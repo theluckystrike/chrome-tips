@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome View Transition API: Smooth Animations Within a Single Page'
-description: Discover Chrome's View Transition API for creating stunning animated
+description: "Discover Chrome's View Transition API for creating stunning animated.................................................................................."
   transitions between page states without external libraries. Perfect for modern web
   apps.
 date: 2026-01-15
@@ -17,6 +17,7 @@ tags:
 - user-experience
 author: theluckystrike
 permalink: chrome-view-transition-same-document
+last_modified_at: '2026-03-12'
 ---
 # Chrome View Transition API: Smooth Animations Within a Single Page
 

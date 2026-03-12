@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome for Dropshipping: Best Extensions'
-description: Discover the best Chrome extensions for dropshipping to manage products,
+description: "Discover the best Chrome extensions for dropshipping to manage products,.............................................................................."
   track suppliers, and streamline your business operations efficiently. Find out more
   ...
 date: 2026-03-10

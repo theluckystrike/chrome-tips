@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chrome Extensions for YouTube Thumbnail Preview
-description: Want to preview YouTube video thumbnails before clicking? Learn how extensions
+description: "Want to preview YouTube video thumbnails before clicking? Learn how extensions........................................................................"
   let you see larger thumbnails and video details instantly. Read our comprehens...
 date: 2026-03-10
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-youtube-thumbnail-preview
 categories:
 - productivity

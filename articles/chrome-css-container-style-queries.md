@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome css container style queries
-description: Learn how to use CSS container style queries in Chrome to create dynamic,
+description: "Learn how to use CSS container style queries in Chrome to create dynamic,............................................................................."
   style-responsive components. This guide explains the new @container-style rule and
   how to build more flexible web layouts.
 date: 2026-01-15
@@ -16,6 +16,7 @@ tags:
 - web-development
 author: theluckystrike
 permalink: chrome-css-container-style-queries
+last_modified_at: '2026-03-12'
 ---
 # Chrome CSS Container Style Queries: The Next Evolution in Responsive Design
 

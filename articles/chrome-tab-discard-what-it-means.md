@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Tab Discard What It Means
-description: 'Ever wondered what chrome tab discard means? Learn why Chrome discards
+description: "Ever wondered what chrome tab discard means? Learn why Chrome discards................................................................................"
   tabs, how it affects your browsing, and what you can do about it. Read our comprehensive '
 date: 2026-01-15
 categories:

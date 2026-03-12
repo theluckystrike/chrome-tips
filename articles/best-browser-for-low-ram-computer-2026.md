@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Browser for Low RAM Computer 2026
-description: Finding a browser that runs smoothly on a computer with limited RAM.
+description: "Finding a browser that runs smoothly on a computer with limited RAM..................................................................................."
   We compare lightweight options and share practical tips to boost your system performance.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
@@ -15,7 +15,7 @@ tags:
 - browser-recommendation
 - lightweight-browser
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-browser-for-low-ram-computer-2026
 ---
 # Best Browser for Low RAM Computer 2026

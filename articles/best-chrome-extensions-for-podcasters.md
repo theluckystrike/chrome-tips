@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Chrome Extensions for Podcasters
-description: Discover the best Chrome extensions for podcasters to streamline your
+description: "Discover the best Chrome extensions for podcasters to streamline your................................................................................."
   workflow, boost productivity, and grow your show faster. Learn how to optimize your
   bro...
 date: 2026-03-10
@@ -13,7 +13,7 @@ tags:
 - podcasters
 - browser-tools
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-podcasters
 ---
 # Best Chrome Extensions for Podcasters

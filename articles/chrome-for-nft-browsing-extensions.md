@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for NFT Browsing Extensions
-description: Discover the best Chrome extensions for NFT browsing. Learn which tools
+description: "Discover the best Chrome extensions for NFT browsing. Learn which tools..............................................................................."
   enhance your experience while keeping your browser fast and secure. Discover more
   tip
 date: 2026-01-15

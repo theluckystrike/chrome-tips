@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Cloud Gaming Best Settings
-description: Optimize Chrome for cloud gaming with these settings. Get lower latency,
+description: "Optimize Chrome for cloud gaming with these settings. Get lower latency,.............................................................................."
   smoother streaming, and better performance on services like GeForce Now and Xbox
   Cloud.
 date: 2025-02-20

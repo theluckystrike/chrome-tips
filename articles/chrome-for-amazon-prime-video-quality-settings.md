@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Amazon Prime Video Quality Settings
-description: Optimize your Amazon Prime Video streaming in Chrome with these quality
+description: "Optimize your Amazon Prime Video streaming in Chrome with these quality..............................................................................."
   settings. Get the best picture and performance. Find out more tips on how to optimize...
 date: 2026-03-10
 categories:

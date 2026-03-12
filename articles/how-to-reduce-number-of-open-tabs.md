@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Reduce Number of Open Tabs
-description: Struggling with too many Chrome tabs? Learn practical ways to reduce
+description: "Struggling with too many Chrome tabs? Learn practical ways to reduce.................................................................................."
   open tabs, organize your browser, and boost productivity. Read our comprehensive
   guide t...
 date: '2025-03-09'

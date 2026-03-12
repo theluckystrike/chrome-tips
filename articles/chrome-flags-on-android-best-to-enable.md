@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chrome Flags on Android Best to Enable
-description: Learn which Chrome flags on Android are worth enabling for better speed
+description: "Learn which Chrome flags on Android are worth enabling for better speed..............................................................................."
   and features on your phone. Read our comprehensive guide to learn more and boost
   your...
 date: 2026-01-15
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-flags-on-android-best-to-enable
 categories:
 - android

@@ -15,9 +15,8 @@ tags:
 - scroll-performance
 author: theluckystrike
 permalink: chrome-smooth-scrolling-laggy-disable-fix
-last_modified_at: '2026-01-20'
+last_modified_at: '2026-03-12'
 ---
-
 # Chrome Smooth Scrolling Laggy Disable Fix
 
 Chrome smooth scrolling is a feature designed to make webpage navigation feel more fluid by adding artificial deceleration when you scroll. However, many users experience the opposite effect—instead of smooth motion, they notice stuttering, input lag, and overall sluggishness. If your browser feels unresponsive when scrolling through long pages, disabling smooth scrolling might be the solution you need.

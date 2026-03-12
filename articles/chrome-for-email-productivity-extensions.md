@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Email Productivity Extensions
-description: Learn how Chrome for email productivity extensions can transform your
+description: "Learn how Chrome for email productivity extensions can transform your................................................................................."
   inbox management and save hours every week. Find out more tips on how to optimize
   your ...
 date: 2026-03-10

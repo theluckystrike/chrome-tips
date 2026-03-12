@@ -1,10 +1,10 @@
 ---
 layout: post
 title: chrome text scaling for low vision users
-description: Learn how to use chrome text scaling for low vision users to make web
+description: "Learn how to use chrome text scaling for low vision users to make web................................................................................."
   browsing more comfortable. Simple tips and tools that actually work. Read our comprehen...
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-text-scaling-for-low-vision-users
 categories: '[accessibility, text, low-vision]'
 tags: '[chrome, text-scaling, low-vision, accessibility, browser]'

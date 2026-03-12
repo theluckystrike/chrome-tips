@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome This Site Cant Provide a Secure Connection Fix
-description: Learn how to fix the 'This site cant provide a secure connection' error
+description: "Learn how to fix the 'This site cant provide a secure connection' error..............................................................................."
   in Chrome with simple steps anyone can follow. Read our comprehensive guide to learn
   ...
 date: '2026-01-15'

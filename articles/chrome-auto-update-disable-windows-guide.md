@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Disable Chrome Auto Update on Windows
-description: A complete guide to stopping Chrome's automatic updates on Windows. Learn
+description: "A complete guide to stopping Chrome's automatic updates on Windows. Learn............................................................................."
   multiple methods to control when Chrome updates, including registry edits and group...
 date: 2026-01-15
 categories:
@@ -14,7 +14,7 @@ tags:
 - windows-tutorial
 - chrome-settings
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-auto-update-disable-windows-guide
 ---
 # How to Disable Chrome Auto Update on Windows

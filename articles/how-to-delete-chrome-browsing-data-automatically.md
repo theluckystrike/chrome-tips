@@ -1,7 +1,7 @@
 ---
 layout: post
 title: how to delete chrome browsing data automatically
-description: Learn how to delete chrome browsing data automatically to free up space
+description: "Learn how to delete chrome browsing data automatically to free up space..............................................................................."
   and protect your privacy without manual cleanup. Read our comprehensive guide to
   lear...
 date: '2026-01-01'

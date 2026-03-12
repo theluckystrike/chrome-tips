@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Takes Long Time to Open First Time
-description: Chrome slow to open first time? Learn why this happens and how to fix
+description: "Chrome slow to open first time? Learn why this happens and how to fix................................................................................."
   it with simple steps. Read our comprehensive guide to learn more and optimize your
   brow...
 date: '2026-01-01'

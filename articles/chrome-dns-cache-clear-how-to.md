@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chrome DNS Cache Clear How To: Fix Connection Issues Fast'
-description: Learn chrome dns cache clear how to fix website loading problems. Step-by-step
+description: "Learn chrome dns cache clear how to fix website loading problems. Step-by-step........................................................................"
   guide to flush DNS cache in Google Chrome and get sites working again.
 date: 2025-02-20
 categories:
@@ -16,6 +16,7 @@ tags:
 - how-to
 author: theluckystrike
 permalink: chrome-dns-cache-clear-how-to
+last_modified_at: '2026-03-12'
 ---
 # Chrome DNS Cache Clear How To: Fix Connection Issues Fast
 

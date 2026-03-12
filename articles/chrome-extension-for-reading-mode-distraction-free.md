@@ -1,9 +1,9 @@
 ---
 title: Chrome Extension for Reading Mode Distraction Free
-description: Learn how to use Chrome extensions for reading mode to eliminate distractions
+description: "Learn how to use Chrome extensions for reading mode to eliminate distractions........................................................................."
   and enjoy clutter-free articles while browsing. Check out our expert recommendatio
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-reading-mode-distraction-free
 layout: post
 categories: '[reading, tips]'

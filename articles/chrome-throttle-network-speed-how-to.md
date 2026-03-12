@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Throttle Network Speed in Chrome
-description: Learn how to throttle network speed in Chrome to test websites, save
+description: "Learn how to throttle network speed in Chrome to test websites, save.................................................................................."
   data, and improve performance. Read our comprehensive guide to learn more and optimize
   y...
 date: '2026-01-15'

@@ -1,10 +1,10 @@
 ---
 title: Chrome Extensions for Adobe Companion
-description: Looking for chrome extensions for adobe companion? Find helpful tools
+description: "Looking for chrome extensions for adobe companion? Find helpful tools................................................................................."
   to enhance your Adobe workflow and boost productivity. Discover how these tools
   can sig...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-adobe-companion
 layout: post
 categories: '[productivity, design]'

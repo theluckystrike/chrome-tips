@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome save all open tabs as bookmarks
-description: Learn how to save all open tabs as bookmarks in Chrome with simple methods,
+description: "Learn how to save all open tabs as bookmarks in Chrome with simple methods,..........................................................................."
   keyboard shortcuts, and extensions for quick backup and organization. Read our compr
 date: 2026-01-15
 categories:
@@ -15,7 +15,7 @@ tags:
 - keyboard-shortcuts
 author: theluckystrike
 permalink: chrome-save-all-open-tabs-as-bookmarks
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Save All Open Tabs as Bookmarks
 

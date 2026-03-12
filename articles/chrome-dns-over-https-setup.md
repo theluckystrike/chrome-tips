@@ -1,11 +1,12 @@
 ---
-layout: default
-title: "Chrome DNS Over HTTPS Setup Guide"
-description: "Learn how to enable and configure DNS Over HTTPS (DoH) in Google Chrome for enhanced privacy, security, and faster browsing. Complete setup guide with provider recommendations."
-date: 2026-01-20
-categories: [privacy, security, chrome]
-tags: [dns-over-https, chrome-dns, privacy, secure-dns, doh]
-author: theluckystrike
+layout: post
+title: Chrome Dns Over Https Setup
+description: "Learn how to set up DNS over HTTPS in Chrome to encrypt your browsing................................................................................."
+  queries, improve privacy, and speed up your web experience. Explore our comprehensive
+  ...
+date: 2026-01-15
+last_modified_at: '2026-03-12'
+permalink: chrome-dns-over-https-setup
 ---
 # Chrome DNS Over HTTPS Setup
 

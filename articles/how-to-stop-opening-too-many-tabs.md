@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Stop Opening Too Many Tabs
-description: Feeling overwhelmed by too many tabs? Learn practical steps to break
+description: "Feeling overwhelmed by too many tabs? Learn practical steps to break.................................................................................."
   the habit of opening too many tabs and browse more focused. Read our comprehensive
   guide...
 date: '2025-03-13'

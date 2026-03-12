@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Is Chrome Still the Best Browser in 2026?
-description: Honest assessment of whether Chrome is still the best browser in 2026.
+description: "Honest assessment of whether Chrome is still the best browser in 2026................................................................................."
   How it compares to Edge, Firefox, Safari, Brave, and Arc. Read our comprehensive
   guide...
 date: '2025-02-25'

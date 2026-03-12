@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Skillshare Web App Setup
-description: Learn how to set up Chrome for the best Skillshare experience. Optimize
+description: "Learn how to set up Chrome for the best Skillshare experience. Optimize..............................................................................."
   your browser for smooth video classes and better learning. Discover more tips and
   tri
 date: '2026-03-12'

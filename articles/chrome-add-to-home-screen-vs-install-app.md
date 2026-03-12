@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Add to Home Screen vs Install App
-description: Learn the difference between adding a website to your home screen and
+description: "Learn the difference between adding a website to your home screen and................................................................................."
   installing a dedicated app. Learn how to optimize your browser today for better
   perform...
 date: 2026-01-15
@@ -15,7 +15,7 @@ tags:
 - pwa
 - mobile-apps
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-add-to-home-screen-vs-install-app
 ---
 # Chrome Add to Home Screen vs Install App

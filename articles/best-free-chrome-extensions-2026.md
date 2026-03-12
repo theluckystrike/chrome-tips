@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Free Chrome Extensions 2026
-description: Discover the best free Chrome extensions in 2026 to boost productivity,
+description: "Discover the best free Chrome extensions in 2026 to boost productivity,..............................................................................."
   improve browsing, and enhance your overall experience without spending a dime.
 date: 2026-03-09
 categories:
@@ -13,7 +13,7 @@ tags:
 - productivity
 - browser-tools
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-free-chrome-extensions-2026
 ---
 # Best Free Chrome Extensions 2026

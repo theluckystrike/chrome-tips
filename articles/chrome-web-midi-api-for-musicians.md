@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Web MIDI API for Musicians
-description: Having trouble using your MIDI controller in Chrome? Learn why browsers
+description: "Having trouble using your MIDI controller in Chrome? Learn why browsers..............................................................................."
   block MIDI devices and how to get your instruments working again. Read our comprehens...
 date: '2026-01-01'
 last_modified_at: '2026-03-12'

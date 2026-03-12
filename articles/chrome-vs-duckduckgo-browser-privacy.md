@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome vs DuckDuckGo Browser Privacy
-description: Comparing Chrome and DuckDuckGo browser privacy features. Learn how each
+description: "Comparing Chrome and DuckDuckGo browser privacy features. Learn how each.............................................................................."
   handles your data and what you can do to browse more privately. Read our comprehensi...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'

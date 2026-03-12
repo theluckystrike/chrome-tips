@@ -4,7 +4,7 @@ title: Chrome Omnibox Search Engines Customize
 description: Learn how to customize search engines in Chrome omnibox to boost your productivity. Add, edit, and organize custom search shortcuts for faster browsing.
 keywords: chrome omnibox search engines customize
 date: 2025-01-15
-last_modified_at: '2025-03-12'
+last_modified_at: '2026-03-12'
 permalink: chrome-omnibox-search-engines-customize
 categories:
 - chrome
@@ -18,7 +18,6 @@ tags:
 - browser-tips
 author: theluckystrike
 ---
-
 # Chrome Omnibox Search Engines Customize
 
 The Chrome omnibox is one of the most powerful features in modern web browsers, yet many users never take advantage of its full capabilities. By customizing your search engines, you can transform this address bar into a productivity powerhouse that lets you search any site, perform calculations, or launch applications with just a few keystrokes. This guide will walk you through everything you need to know about chrome omnibox search engines customize options.
@@ -86,3 +85,9 @@ Customizing search engines in the Chrome omnibox is a straightforward process th
 Start with your top five most-visited sites, add their search engines with memorable keywords, and expand from there. Within a week, you'll wonder how you ever browsed without this capability.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome For Kick Streaming Web Tips](/chrome-for-kick-streaming-web-tips)
+* [Chrome Extensions For Students](/chrome-extensions-for-students)
+* [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)

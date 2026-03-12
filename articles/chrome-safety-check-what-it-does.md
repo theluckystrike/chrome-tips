@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Safety Check What It Does
-description: Learn what Chrome Safety Check does and how it protects your browsing
+description: "Learn what Chrome Safety Check does and how it protects your browsing................................................................................."
   experience from security threats. Read our comprehensive guide to learn more and
   improve y
 permalink: chrome-safety-check-what-it-does

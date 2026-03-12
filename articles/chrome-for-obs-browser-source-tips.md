@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome for obs browser source tips
-description: Get the most out of Chrome in OBS with these practical browser source
+description: "Get the most out of Chrome in OBS with these practical browser source................................................................................."
   tips for smoother streams and better performance. Discover more tips and tricks
   to opti
 date: 2026-01-15

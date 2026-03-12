@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome web bluetooth connect headphones
-description: Having trouble connecting Bluetooth headphones through Chrome? Learn
+description: "Having trouble connecting Bluetooth headphones through Chrome? Learn.................................................................................."
   why this happens and how to fix it with simple steps. Read our comprehensive guide
   to le...
 date: '2026-03-09'

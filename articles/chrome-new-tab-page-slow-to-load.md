@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'Chrome New Tab Page Slow to Load: Complete Fix Guide'
-description: Is your Chrome new tab page taking forever to load? Learn proven solutions
+description: "Is your Chrome new tab page taking forever to load? Learn proven solutions............................................................................"
   to speed up Chrome's new tab page and get back to browsing faster. Learn effective...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-new-tab-page-slow-to-load
 categories:
 - troubleshooting

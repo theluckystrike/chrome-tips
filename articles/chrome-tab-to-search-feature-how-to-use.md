@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Tab to Search Feature How to Use
-description: Learn how to use Chrome's Tab to Search feature to quickly find open
+description: "Learn how to use Chrome's Tab to Search feature to quickly find open.................................................................................."
   tabs across your browser. Read our comprehensive guide to learn more and optimize
   your b...
 date: '2026-01-01'

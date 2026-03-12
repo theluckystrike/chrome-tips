@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome Task Manager How to Use
-description: Learn how to use Chrome Task Manager to identify and stop memory-hungry
+description: "Learn how to use Chrome Task Manager to identify and stop memory-hungry..............................................................................."
   tabs, extensions, and processes slowing down your browser. Read our comprehensive
   gui...
 date: '2026-01-15'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Chrome Extensions for HR Professionals
-description: Discover the best Chrome extensions for HR professionals to streamline
+description: "Discover the best Chrome extensions for HR professionals to streamline................................................................................"
   recruitment, onboarding, and employee management tasks for a more efficient workplace.
 date: 2026-03-10
 last_modified_at: '2026-03-12'
@@ -14,7 +14,7 @@ tags:
 - hr
 - human-resources
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-hr-professionals
 ---
 # Best Chrome Extensions for HR Professionals

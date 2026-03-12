@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome sandbox mode explained
-description: 'Understanding Chrome sandbox mode and how to fix issues when it causes
+description: "Understanding Chrome sandbox mode and how to fix issues when it causes................................................................................"
   problems with your browser or extensions. Read our comprehensive guide to learn
   more and '
 date: 2026-03-09

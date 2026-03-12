@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome web apps how to install
-description: Learn how to install web apps in Chrome with simple steps. Turn websites
+description: "Learn how to install web apps in Chrome with simple steps. Turn websites.............................................................................."
   into standalone apps for faster access and better organization. Read our comprehensi...
 date: '2026-03-09'
 last_modified_at: '2026-03-12'

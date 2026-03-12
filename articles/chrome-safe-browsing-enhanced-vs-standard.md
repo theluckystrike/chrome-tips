@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome safe browsing enhanced vs standard
-description: Learn the difference between Chrome's enhanced and standard Safe Browsing
+description: "Learn the difference between Chrome's enhanced and standard Safe Browsing............................................................................."
   modes to choose the right protection level for your browsing. Read our comprehensive
   g
 permalink: chrome-safe-browsing-enhanced-vs-standard

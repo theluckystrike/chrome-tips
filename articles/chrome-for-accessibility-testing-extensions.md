@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Accessibility Testing Extensions
-description: Discover Chrome extensions that help test and improve web accessibility.
+description: "Discover Chrome extensions that help test and improve web accessibility..............................................................................."
   Make your websites usable for everyone. Find out more tips on how to optimize your
   C...
 date: 2026-01-15

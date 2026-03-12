@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome for Outlook Web Best Settings
-description: Optimize Chrome for Outlook Web with these simple settings that improve
+description: "Optimize Chrome for Outlook Web with these simple settings that improve..............................................................................."
   speed, reduce memory usage, and make your email experience smoother. Discover more
   ti
 date: 2026-01-15

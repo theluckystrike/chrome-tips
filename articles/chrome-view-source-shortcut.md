@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome View Source Shortcut
-description: Learn the keyboard shortcut to view page source in Chrome and discover
+description: "Learn the keyboard shortcut to view page source in Chrome and discover................................................................................"
   easier ways to see how websites are built. Read our comprehensive guide to learn
   more ...
 date: '2025-02-19'

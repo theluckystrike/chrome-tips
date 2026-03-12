@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chrome caret browsing navigate with keyboard
-description: Learn how to use Chrome caret browsing to navigate web pages using only
+description: "Learn how to use Chrome caret browsing to navigate web pages using only..............................................................................."
   your keyboard. Master text selection, quick movement, and productivity tips.
 date: 2026-01-15
 categories:
@@ -15,6 +15,7 @@ tags:
 - productivity
 author: theluckystrike
 permalink: chrome-caret-browsing-navigate-with-keyboard
+last_modified_at: '2026-03-12'
 ---
 # Chrome Caret Browsing: Navigate with Keyboard
 

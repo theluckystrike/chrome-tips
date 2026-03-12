@@ -17,6 +17,7 @@ tags:
 - chrome-update
 author: theluckystrike
 ---
+
 # Chrome Bookmarks Disappeared After Update: Complete Recovery Guide
 
 Nothing is more frustrating than updating Chrome, only to find that all your bookmarks have vanished. You've spent months or even years organizing those links—work resources, research articles, favorite websites—and now they're gone. Before you panic, know this: in most cases, your bookmarks aren't actually lost. They're just hiding or need a little nudge to reappear.

@@ -19,6 +19,7 @@ tags:
 - chrome-fix
 author: theluckystrike
 ---
+
 # Chrome High CPU Usage When Watching Videos
 
 Watching videos on Chrome should be smooth and enjoyable, but high CPU usage can turn a simple streaming session into a frustrating experience. If your computer fans are spinning loudly, videos are buffering, or your entire system slows down while streaming, you are dealing with a common issue that has several straightforward solutions.

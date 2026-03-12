@@ -18,6 +18,7 @@ tags:
 - browser-security
 author: theluckystrike
 ---
+
 # Chrome Fenced Frames Explained
 
 If you have spent any time working with modern web advertising or privacy-focused browser features, you may have heard about Chrome Fenced Frames. This relatively new browser feature represents a significant shift in how Chrome handles privacy boundaries on the web. Understanding what Fenced Frames are, how they work, and why they matter is essential for anyone involved in web development, digital advertising, or browser security.

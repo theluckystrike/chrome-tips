@@ -16,6 +16,7 @@ tags:
 - browser-strategy
 author: theluckystrike
 ---
+
 # Chrome Cache First vs Network First Strategy
 
 Chrome cache first vs network first strategy is a topic that comes up when you want to understand how Chrome decides whether to load a webpage from your local storage or fetch it fresh from the internet. These two approaches determine how fast websites appear, how much data you use, and whether you see the most up-to-date content. Understanding the difference helps you make better decisions about your browsing experience.

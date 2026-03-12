@@ -7,6 +7,7 @@ date: '2026-03-09'
 last_modified_at: '2026-03-12'
 permalink: chrome-about-settings-all-pages-explained
 ---
+
 Chrome's Settings page (`chrome://settings`) has grown from a single page to a multi-section interface with over 100 individual options. This guide walks through every section, highlights the settings most users should check, and explains what the non-obvious options actually do.
 
 ## You and Google

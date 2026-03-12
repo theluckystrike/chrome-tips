@@ -11,6 +11,7 @@ categories: '[productivity, work]'
 tags: '[chrome-extensions, freelancers, productivity, remote-work]'
 author: theluckystrike
 ---
+
 If you are looking for chrome extensions for freelancers, you likely wear many hats. You probably handle client communications, manage multiple projects, track your time, and juggle various tools all at once. Like most freelancers, you have probably experienced the frustration of a disorganized browser, lost tabs, and a slowing computer that makes an already busy day even more challenging. The good news is that the right Chrome extensions can help you regain control of your workday.
 
 ## Why Freelancers Need Specialized Browser Tools

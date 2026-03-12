@@ -16,6 +16,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 ---
+
 # Chrome Performance Observer API Explained
 
 If you are looking for chrome performance observer api explained in simple terms, you have come to the right place. Many people use Chrome every day without knowing about the powerful tools that run behind the scenes to make their browsing experience smoother. The Performance Observer API is one of those tools that helps websites measure how well they are performing, and understanding it can help you appreciate why some websites feel faster than others.

@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Chrome Live Caption How It Works"
-description: "Discover how Chrome Live Caption automatically generates subtitles for................................................................................"
-date: "2025-03-12"
+title: Chrome Live Caption How It Works
+description: Discover how Chrome Live Caption automatically generates subtitles for................................................................................
+date: '2025-03-12'
 last_modified_at: '2026-03-12'
-permalink: "chrome-live-caption-how-it-works"
-categories: 
-tags: 
+permalink: chrome-live-caption-how-it-works
+categories: null
+tags: null
 author: theluckystrike
 ---
+
 # Chrome Live Caption How It Works
 
 If you have ever wondered how Chrome can automatically show subtitles for any video or audio playing in your browser, you are not alone. Chrome live caption is a powerful feature that uses speech recognition technology to create real-time text of spoken content. Understanding how chrome live caption works can help you use it more effectively and troubleshoot any issues you might encounter.

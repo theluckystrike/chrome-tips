@@ -10,6 +10,7 @@ categories: '[development, chrome-devtools, productivity]'
 tags: '[chrome-devtools, workspaces, web-development, debugging, live-editing]'
 author: theluckystrike
 ---
+
 # Chrome DevTools Workspaces Guide
 
 Chrome DevTools Workspaces is one of the most powerful yet underutilized features in Chrome's developer toolkit. If you find yourself constantly switching between your code editor and browser, manually refreshing pages, and losing changes when you do, Workspaces might be exactly what you need to streamline your workflow. This guide will walk you through everything you need to know about setting up and using Chrome DevTools Workspaces effectively.

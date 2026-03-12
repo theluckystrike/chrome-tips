@@ -10,6 +10,7 @@ categories: '[customization, tips]'
 tags: '[tabs, chrome-settings, chrome-customization, chrome-tips]'
 author: theluckystrike
 ---
+
 # Chrome Tabs on Top vs Bottom: How to Change
 
 If you have been searching for how to move Chrome tabs on top vs bottom, you might have noticed that things are not quite as straightforward as they used to be. For years, Chrome kept tabs at the top of the window, but recent updates have changed the way this works, and many users are left wondering what happened to their familiar layout and how to get it back.

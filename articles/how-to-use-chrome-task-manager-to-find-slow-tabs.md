@@ -11,6 +11,7 @@ categories: '[performance, troubleshooting]'
 tags: '[chrome-task-manager, slow-tabs, browser-performance]'
 author: theluckystrike
 ---
+
 # How to Use Chrome Task Manager to Find Slow Tabs
 
 How to use Chrome Task Manager to find slow tabs is one of the most helpful questions Chrome users can ask when their browser starts feeling sluggish. If you have ever wondered why Chrome suddenly runs slower than usual, or why your computer fans start whirring while you browse, the answer is often hiding in one specific tab. The good news is that Chrome has a built-in tool that can help you find exactly which tab is causing the problem.

@@ -11,6 +11,7 @@ categories: '[extensions, development]'
 tags: '[chrome-extensions, review-process, developer, chrome-web-store]'
 author: theluckystrike
 ---
+
 # Chrome Extension Review Process: How Long Does It Take
 
 If you have developed a Chrome extension and submitted it to the Chrome Web Store, you are probably wondering: **How long does the Chrome extension review process take?** The answer depends on several factors, and understanding what to expect can help you plan your launch timeline more effectively.

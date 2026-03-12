@@ -18,6 +18,7 @@ tags:
 - progressive-web-app
 author: theluckystrike
 ---
+
 # Chrome PWA Install Prompt Not Showing Fix
 
 Chrome PWA install prompt not showing is one of the most common issues developers and users face when working with progressive web apps. You have built a PWA that meets all the requirements, added a manifest file, registered a service worker, and yet the install prompt never appears for your users. This can be frustrating, especially when you have put in the work to make your app installable. The good news is that this is usually caused by a handful of common issues, and most of them have straightforward fixes.

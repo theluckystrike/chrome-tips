@@ -11,6 +11,7 @@ categories: '[battery, browser, performance]'
 tags: '[firefox, chrome, battery, browser-comparison, laptop]'
 author: theluckystrike
 ---
+
 # Firefox vs Chrome Battery
 
 If you are comparing firefox vs chrome battery usage, you probably want to know which browser will help your laptop last longer on a single charge. Many people search for firefox vs chrome battery because they have experienced their computer dying quickly while browsing. This guide explains what affects battery life in each browser and what you can do to get more runtime.

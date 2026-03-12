@@ -11,6 +11,7 @@ categories: '[performance, network, developer-tools]'
 tags: '[chrome-network, chrome-throttle, network-speed, chrome-developer-tools]'
 author: theluckystrike
 ---
+
 # How to Throttle Network Speed in Chrome
 
 If you have ever wondered how to throttle network speed in Chrome, you are not alone. Many people need to slow down their internet connection in Chrome for various reasons. Perhaps you want to test how a website performs on slower connections, you are trying to conserve data on a limited plan, or you want to reduce bandwidth usage while working. Whatever your reason, Chrome provides built-in ways to control network speed.

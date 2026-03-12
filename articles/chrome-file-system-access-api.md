@@ -17,6 +17,7 @@ tags:
 - browser-features
 author: theluckystrike
 ---
+
 # Chrome File System Access API: A Complete Guide
 
 The Chrome File System Access API represents one of the most significant advancements in web browser capabilities in recent years. This powerful API enables web applications to interact with local files on your computer in ways that were previously impossible without native software. If you have ever wondered how web apps can now open, edit, and save files directly to your hard drive, the answer lies in this innovative API.

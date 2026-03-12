@@ -10,6 +10,7 @@ categories: '[comparison, performance, battery]'
 tags: '[chrome-vs-edge, battery-life, laptop-battery, browser-comparison]'
 author: theluckystrike
 ---
+
 # Chrome vs Edge Battery Life Laptop Comparison
 
 If you have ever searched for chrome vs edge battery life laptop comparison, you probably noticed your laptop battery draining faster than expected while browsing. This is a common frustration for laptop users, and understanding why it happens can help you make your battery last significantly longer throughout the day.

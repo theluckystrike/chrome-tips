@@ -16,6 +16,7 @@ tags:
 - web-development
 author: theluckystrike
 ---
+
 If you have ever been scrolling through a webpage in Chrome and noticed the page keeps stretching or bouncing after you reach the top or bottom, you have experienced what is called overscroll behavior. Many people search for "chrome overscroll behavior css" because they want to understand why this happens and how to control it. This guide will explain what overscroll behavior is, why it can be frustrating, and what you can do about it.
 
 ## Understanding Overscroll Behavior in Chrome

@@ -10,6 +10,7 @@ categories: '[chrome, performance, troubleshooting]'
 tags: '[chrome-slow, chrome-performance, chrome-memory, fix-chrome-slow]'
 author: theluckystrike
 ---
+
 # Chrome Was Fast, Now It's Slow - What Happened?
 
 You remember when Chrome used to fly. It launched in seconds, loaded pages instantly, and your computer ran cool and quiet. Now Chrome feels like it's dragging anchor. You open a few tabs and suddenly your fan sounds like a jet engine. Your computer freezes. You have barely enough RAM to run anything. What happened?

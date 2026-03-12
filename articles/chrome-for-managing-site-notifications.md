@@ -18,6 +18,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-managing-site-notifications
 ---
+
 # Chrome for Managing Site Notifications
 
 Chrome for managing site notifications can feel like a constant battle. Websites ask for permission to send you notifications, and before you know it, your browser is flooded with popups, badges, and interruptions. Understanding how to take control of these notifications will make your browsing experience much calmer and more productive.

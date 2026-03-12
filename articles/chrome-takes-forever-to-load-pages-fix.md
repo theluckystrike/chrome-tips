@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Takes Forever to Load Pages Fix
-description: Is your Chrome browser taking forever to load pages? Discover practical solutions to speed up Chrome and fix slow loading times with these proven tips.
+description: Is your Chrome browser taking forever to load pages? Discover practical
+  solutions to speed up Chrome and fix slow loading times with these proven tips.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-takes-forever-to-load-pages-fix
@@ -80,8 +81,9 @@ Slow Chrome performance doesn't have to be a permanent problem. By removing unne
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome for Mendeley Web Importer Tips](/chrome-for-mendeley-web-importer-tips)
-* [Chrome Side Panel Extensions Worth Using](/chrome-side-panel-extensions-worth-using)
-* [Chrome Extensions For Dns Lookup](//articles/chrome-extensions-for-dns-lookup/)
+## Related Articles
+* [Chrome Takes Forever to Load Pages](/articles/chrome-takes-forever-to-load-pages/)
+* [Chrome Google Search Not Working Fix](/articles/chrome-google-search-not-working-fix/)
+* [Chrome Address Bar Not Working Fix](/articles/chrome-address-bar-not-working-fix/)

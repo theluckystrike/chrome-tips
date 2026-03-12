@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome AVIF Image Format Support
-description: "Discover how Chrome AVIF image format support delivers superior compression and quality. Learn to enable and use AVIF for faster web performance......"
+description: Discover how Chrome AVIF image format support delivers superior compression
+  and quality. Learn to enable and use AVIF for faster web performance.
 date: 2026-03-12
 categories:
 - chrome
@@ -74,8 +75,9 @@ Chrome's robust AVIF support makes this format a smart choice for modern web dev
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome reader mode how to turn on 2026](/chrome-reader-mode-how-to-turn-on-2026)
-* [Chrome DevTools Shadow DOM Inspector](/chrome-devtools-shadow-dom-inspector)
-* [Chrome Extensions for Grammar Checking](/chrome-extensions-for-grammar-checking)
+## Related Articles
+* [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure/)
+* [Chrome Total Blocking Time Explained](/articles/chrome-total-blocking-time-explained/)
+* [Understanding the Chrome Blink Rendering Engine](/articles/chrome-blink-rendering-engine-overview/)

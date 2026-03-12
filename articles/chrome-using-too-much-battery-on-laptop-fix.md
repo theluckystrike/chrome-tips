@@ -10,6 +10,7 @@ categories: '[performance, battery, chrome-tips]'
 tags: '[chrome-battery-drain, laptop-battery, chrome-performance, browser-optimization]'
 author: theluckystrike
 ---
+
 # Chrome Using Too Much Battery on Laptop? Fix It Now
 
 If your laptop battery seems to vanish faster than usual whenever you use Chrome, you are not imagining things. Google Chrome is one of the most feature-rich browsers available, but all those features come at a cost—your battery life. The good news is that there are several practical steps you can take to significantly reduce Chrome's battery consumption without sacrificing your browsing experience.

@@ -18,6 +18,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # How to Fix Chrome Notion Slow and Laggy Issues
 
 Using Notion in Chrome should be smooth and fast, but many users experience frustrating lag and slowness—especially on computers with limited RAM. If you've ever stared at a spinning wheel while typing in Notion, or watched pages take forever to load, you know how disruptive this can be to your workflow.

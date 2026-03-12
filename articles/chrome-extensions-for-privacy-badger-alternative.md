@@ -10,6 +10,7 @@ categories: '[extensions, privacy]'
 tags: '[privacy, chrome-extension, privacy-badger, tracker-blocker]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Privacy Badger Alternative
 
 If you have been searching for chrome extensions for privacy badger alternative, you might have noticed that Privacy Badger has been going through some changes. Many users are looking for other options that can provide similar tracking protection without the issues they have experienced. This guide will walk you through why people seek alternatives and what other extensions can give you the privacy protection you need.

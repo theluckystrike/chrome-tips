@@ -10,6 +10,7 @@ categories: '[reading, tips]'
 tags: '[chrome-extensions, reading, browser-tools]'
 author: theluckystrike
 ---
+
 # Chrome Extension for Reading Mode Distraction Free
 
 If you are searching for a chrome extension for reading mode distraction free, you have likely experienced the frustration of trying to read an article online while ads, popups, and cluttered layouts compete for your attention. Many Chrome users find themselves giving up on interesting articles because the reading experience is simply too distracting or uncomfortable. Fortunately, there are extensions designed specifically to solve this problem.

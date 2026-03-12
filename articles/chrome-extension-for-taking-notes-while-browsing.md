@@ -7,6 +7,7 @@ last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-taking-notes-while-browsing
 layout: post
 ---
+
 Are you looking for a chrome extension for taking notes while browsing? If you spend time researching, shopping, or working online, you have probably needed to jot down quick thoughts, save links, or remember important details without interrupting what you were doing. This is exactly what a good note-taking extension can help with, and finding the right one can make your browsing much more productive.
 
 Let me explain why note-taking extensions are useful, what features to look for, and how to make them work for you.

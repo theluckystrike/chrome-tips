@@ -10,6 +10,7 @@ categories: '[features, accessibility]'
 tags: '[voice-control, chrome-settings, accessibility, hands-free]'
 author: theluckystrike
 ---
+
 # Chrome Voice Control Navigate by Speaking
 
 If you have ever wanted to use chrome voice control navigate by speaking, you are not alone. Many Chrome users are discovering the power of voice commands to control their browser without touching the keyboard or mouse. Whether your hands are busy, you have difficulty with traditional input methods, or you simply want a faster way to browse the web, learning how to navigate Chrome by speaking can transform your browsing experience.

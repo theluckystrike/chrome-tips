@@ -17,6 +17,7 @@ tags:
 - browser-tips
 author: theluckystrike
 ---
+
 # Chrome Password Generator How to Use
 
 Chrome password generator how to use is something every Chrome user should know about. Creating strong, unique passwords for every website is one of the best ways to keep your online accounts secure, and Chrome makes this incredibly easy with its built-in password generator. Instead of struggling to come up with complex passwords on your own or using the same password across multiple sites, you can let Chrome handle this important task for you.

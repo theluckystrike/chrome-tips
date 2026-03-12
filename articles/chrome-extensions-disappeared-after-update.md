@@ -10,6 +10,7 @@ categories: '[extensions, troubleshooting]'
 tags: '[chrome-extensions, chrome-update, extension-fix, browser-troubleshooting]'
 author: theluckystrike
 ---
+
 Chrome extensions disappeared after update is a frustrating problem that many Chrome users encounter. You wake up one morning, Chrome has updated itself overnight, and when you open your browser, all your favorite extensions are gone. The toolbar that used to have your ad blocker, password manager, and productivity tools now looks empty. This is more common than you might expect, and the good news is that your extensions are usually not permanently deleted. They just need to be re-enabled or reinstalled.
 
 ## Why Extensions Disappear After Chrome Updates

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Chrome Keyboard Shortcuts for Beginners"
-description: "Learn essential Chrome keyboard shortcuts for beginners to browse faster.............................................................................."
-date: "2026-03-09"
+title: Chrome Keyboard Shortcuts for Beginners
+description: Learn essential Chrome keyboard shortcuts for beginners to browse faster..............................................................................
+date: '2026-03-09'
 last_modified_at: '2026-03-12'
-permalink: "chrome-keyboard-shortcuts-for-beginners"
+permalink: chrome-keyboard-shortcuts-for-beginners
 ---
+
 Chrome keyboard shortcuts for beginners are a great way to speed up your web browsing and get more done in less time. If you have ever found yourself clicking through menus or reaching for your mouse every time you want to open a new tab, close a window, or switch between websites, you are not alone. Many people use Chrome without knowing these handy shortcuts, and picking up just a few of them can make a big difference in your daily workflow.
 
 Let me walk you through the most useful Chrome keyboard shortcuts that every beginner should know, why they matter, and how to start using them today.

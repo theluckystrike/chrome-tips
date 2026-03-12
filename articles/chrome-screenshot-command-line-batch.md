@@ -1,10 +1,20 @@
 ---
 layout: post
-title: "Chrome Screenshot Command Line Batch: Complete Automation Guide"
-description: "Learn how to capture screenshots from the command line in Chrome using headless mode, DevTools protocol, and automation scripts. Perfect for batch operations..."
+title: 'Chrome Screenshot Command Line Batch: Complete Automation Guide'
+description: Learn how to capture screenshots from the command line in Chrome using
+  headless mode, DevTools protocol, and automation scripts.
 date: 2026-01-18
-categories: [automation, chrome, screenshots, productivity]
-tags: [chrome-screenshot, command-line, batch-screenshot, headless, automation]
+categories:
+- automation
+- chrome
+- screenshots
+- productivity
+tags:
+- chrome-screenshot
+- command-line
+- batch-screenshot
+- headless
+- automation
 author: theluckystrike
 permalink: chrome-screenshot-command-line-batch
 last_modified_at: '2026-03-12'
@@ -63,8 +73,9 @@ Developers also find these capabilities valuable for generating preview images, 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [How to Use Chrome Flags Safely](/how-to-use-chrome-flags-safely)
-* [Chrome Game Streaming Optimization Tips](/chrome-game-streaming-optimization-tips)
-* [Chrome Flags That Actually Make It Faster: A Practical Guide for Slow Computers](/chrome-flags-that-actually-make-it-faster)
+## Related Articles
+* [Chrome Print to PDF Command Line](/articles/chrome-print-to-pdf-command-line/)
+* [Chrome Built-In Screenshot Tool](/articles/chrome-built-in-screenshot-tool/)
+* [Chrome Extensions for Auto Refresh Page](/articles/chrome-extensions-for-auto-refresh-page/)

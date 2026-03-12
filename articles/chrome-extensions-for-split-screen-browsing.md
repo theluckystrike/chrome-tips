@@ -10,6 +10,7 @@ categories: null
 tags: null
 author: theluckystrike
 ---
+
 # Chrome Extensions for Split Screen Browsing
 
 If you have ever searched for chrome extensions for split screen browsing, you know how frustrating it can be to work with multiple web pages at once. Maybe you need to compare prices on different shopping sites, copy information from one document to another, or watch a video while reading instructions. Without split screen functionality, you end up constantly switching between tabs or manually resizing windows, and it slows down everything you do.

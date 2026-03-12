@@ -17,6 +17,7 @@ tags:
 - page-loading
 author: theluckystrike
 ---
+
 # Chrome Preloading Pages Setting Explained
 
 If you have ever wondered why Chrome seems to load pages even before you click on them, or why your browser sometimes feels slower than it should, the chrome preloading pages setting might be the culprit. This feature is designed to make your browsing experience faster by predicting which pages you will visit next and loading them in advance. However, for some users, this can actually have the opposite effect, causing higher memory usage, slower performance, and increased data consumption. Understanding how this setting works and knowing how to adjust it can help you get the most out of your Chrome browser.

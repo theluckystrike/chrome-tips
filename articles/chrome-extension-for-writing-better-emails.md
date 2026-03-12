@@ -11,6 +11,7 @@ categories: '[email, tips]'
 tags: '[chrome-extensions, email, productivity]'
 author: theluckystrike
 ---
+
 # Chrome Extension for Writing Better Emails
 
 If you are searching for a chrome extension for writing better emails, you probably want to improve your email communication without spending hours on each message. Many people struggle with composing clear, professional emails quickly, whether it is for work, networking, or customer inquiries. The good news is that Chrome extensions exist specifically to help you write better emails in less time.

@@ -10,6 +10,7 @@ categories: '[productivity, organization]'
 tags: '[chrome-extensions, quick-notes, sidebar, productivity]'
 author: theluckystrike
 ---
+
 If you have been looking for chrome extensions for quick notes sidebar, you probably want a simple way to capture ideas, links, or reminders while you browse without having to switch to another app or lose track of what you were doing. Whether you are researching a topic, shopping for something specific, or working on a project, having a quick notes tool right inside your browser can make a big difference in staying organized and productive.
 
 ## Why a Quick Notes Sidebar Is Useful

@@ -18,6 +18,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Extensions for Tab Grouping Automatically
 
 If you are searching for chrome extensions for tab grouping automatically, you probably know the struggle of having too many open tabs and losing track of important pages. Most people who browse extensively end up with dozens of tabs spread across multiple windows, making it difficult to find what they need when they need it. This is a common frustration that affects anyone who uses Chrome for work, research, or everyday browsing. The good news is that there are excellent extensions designed specifically to solve this problem by automatically organizing your tabs into logical groups.

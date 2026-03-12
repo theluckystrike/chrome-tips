@@ -10,6 +10,7 @@ categories: '[sales, tips]'
 tags: '[chrome-extensions, sales, prospecting]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Sales Prospecting
 
 If you are searching for chrome extensions for sales prospecting, you probably know how challenging it can be to find quality leads and convert them into customers. Sales prospecting takes up a huge amount of time, and many salespeople spend more hours on research and manual tasks than actually talking to potential clients. The good news is that Chrome extensions can significantly streamline your prospecting workflow and help you focus on what matters most, which is closing deals.

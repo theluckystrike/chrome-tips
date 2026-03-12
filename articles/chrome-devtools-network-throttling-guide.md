@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome DevTools Network Throttling Guide
-description: "Learn how to use Chrome DevTools network throttling to simulate slow connections and debug web performance issues effectively........................."
+description: Learn how to use Chrome DevTools network throttling to simulate slow
+  connections and debug web performance issues effectively.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-devtools-network-throttling-guide
@@ -99,8 +100,9 @@ Use network throttling during your regular development workflow. Test early, tes
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome for metamask setup and tips](/chrome-for-metamask-setup-and-tips)
-* [Chrome CSS Grid Debugging Guide](//chrome-css-grid-debugging/)
-* [Chrome Prerender Pages Faster Browsing: Complete Guide](/chrome-prerender-pages-faster-browsing)
+## Related Articles
+* [Chrome Network Throttling Guide](/articles/chrome-network-throttling-guide/)
+* [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug/)
+* [Chrome Application Tab DevTools Guide](/articles/chrome-application-tab-devtools-guide/)

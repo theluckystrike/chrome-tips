@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Chrome Screen Share Not Working Fix – Complete Troubleshooting Guide
-description: "Having trouble with Chrome screen sharing? This guide covers the most common causes and practical solutions to get your screen share working again...."
+title: "Chrome Screen Share Not Working Fix \u2013 Complete Troubleshooting Guide"
+description: Having trouble with Chrome screen sharing? This guide covers the most
+  common causes and practical solutions to get your screen share working again.
 date: 2026-01-15
 permalink: chrome-screen-share-not-working-fix
 categories:
@@ -110,8 +111,9 @@ With your screen sharing working again, you'll be able to collaborate effectivel
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/chrome-err-too-many-redirects-cookie-fix)
-* [Chrome Print to PDF Without Margins](/chrome-print-to-pdf-without-margins)
-* [Best Free Chrome Extensions 2026](/best-free-chrome-extensions-2026)
+## Related Articles
+* [Chrome Black Screen When Opening Fix: Complete Practical Guide](/articles/chrome-black-screen-when-opening-fix/)
+* [Chrome Fullscreen Not Working Fix](/articles/chrome-fullscreen-not-working-fix/)
+* [Chrome Bookmarks Disappeared After Update: Complete Recovery Guide](/articles/chrome-bookmarks-disappeared-after-update/)

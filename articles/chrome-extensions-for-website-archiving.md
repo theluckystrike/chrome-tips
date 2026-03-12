@@ -17,6 +17,7 @@ tags:
 - offline
 author: theluckystrike
 ---
+
 # Chrome Extensions for Website Archiving
 
 Chrome extensions for website archiving have become essential tools for anyone who wants to preserve online content. Whether you are a researcher collecting sources, a student saving articles for study, or simply someone who wants to keep important web pages accessible offline, these extensions can make a big difference. The good news is that there are several reliable options available, and setting them up is straightforward.

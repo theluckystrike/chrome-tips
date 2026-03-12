@@ -17,6 +17,7 @@ tags:
 - browser-tips
 author: theluckystrike
 ---
+
 # Chrome Copy Paste Not Working Fix
 
 Chrome copy paste not working is one of those annoying problems that can interrupt your workflow when you least expect it. You try to copy text from a webpage or paste something into a form, but nothing happens. Your fingers press the familiar keyboard shortcuts or you right-click hoping to see the menu, yet the paste option remains greyed out or simply does nothing. This happens to Chrome users more often than you might think, and the good news is that it's usually easy to fix once you understand what's causing it.

@@ -6,6 +6,7 @@ description: "Learn how CSS text-wrap balance works in Chrome to create more eve
 permalink: chrome-css-text-wrap-balance-how-it-works
 last_modified_at: '2026-03-12'
 ---
+
 Chrome CSS text-wrap balance is a powerful feature that can transform how your headlines and short text blocks look on web pages. If you have ever created a heading and noticed that one line ends up much shorter than the others, you understand the problem this CSS property solves. The text-wrap balance property gives you a simple way to achieve more polished, professional-looking text without needing complex workarounds or extra markup.
 
 Let me explain what this feature does, why it matters, and how you can start using it in your projects today.

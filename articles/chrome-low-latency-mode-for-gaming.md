@@ -17,6 +17,7 @@ tags:
 - browser-gaming
 author: theluckystrike
 ---
+
 If you are searching for chrome low latency mode for gaming, you likely want to reduce input lag and make your browser games feel more responsive. Whether you play competitive web games or casual titles, latency can turn a smooth experience into a frustrating one. The good news is that Chrome has several settings and tricks you can use to minimize delay and get closer to that low-latency feel that serious gamers appreciate.
 
 ## Understanding Latency in Browser Gaming

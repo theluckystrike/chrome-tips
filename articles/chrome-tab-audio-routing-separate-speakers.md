@@ -20,6 +20,7 @@ author: theluckystrike
 permalink: chrome-tab-audio-routing-separate-speakers
 last_modified_at: '2026-03-12'
 ---
+
 # How to Route Chrome Tab Audio to Separate Speakers
 
 Imagine you're on a video call while wanting to listen to music through your desktop speakers, or you need to watch a training video on one monitor while keeping another tab's audio playing through different headphones. For many professionals and power users, sending different Chrome tabs to different audio outputs isn't a luxury—it's a necessity.

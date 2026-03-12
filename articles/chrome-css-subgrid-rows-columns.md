@@ -8,6 +8,7 @@ keywords: chrome css subgrid rows columns
 permalink: chrome-css-subgrid-rows-columns
 last_modified_at: '2026-03-12'
 ---
+
 # Mastering CSS Subgrid: Align Rows and Columns in Chrome
 
 CSS Subgrid is one of the most powerful features introduced in CSS Grid Level 2, and Chrome has full support for it. If you've ever struggled with aligning nested grid items with their parent grid, subgrid is the solution you've been waiting for. In this article, we'll explore how to use subgrid to share rows and columns across nested grids, creating perfectly aligned layouts that were previously impossible to achieve without JavaScript.

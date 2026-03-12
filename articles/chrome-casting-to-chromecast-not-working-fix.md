@@ -18,6 +18,7 @@ tags:
 - streaming
 author: theluckystrike
 ---
+
 # Chrome Casting to Chromecast Not Working Fix
 
 Chrome casting to Chromecast not working is one of the most frustrating problems you can encounter when you just want to relax and watch something on your TV. You open Chrome on your computer or phone, click the cast button, select your Chromecast, and nothing happens. The icon spins, your TV stays blank, and you are left wondering what went wrong. This is a surprisingly common issue, and the good news is that most of the time you can fix it yourself without any technical expertise.

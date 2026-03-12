@@ -17,6 +17,7 @@ author: theluckystrike
 permalink: chrome-status-bar-where-did-it-go
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Status Bar Where Did It Go
 
 You open Chrome to check something quickly and notice that the status bar at the bottom of your browser is gone. You search for "chrome status bar where did it go" trying to figure out what happened and how to get it back. This is a confusing situation because the status bar has been a familiar part of Chrome for years, and its sudden absence can make you wonder if something is wrong with your browser.

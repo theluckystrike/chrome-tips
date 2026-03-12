@@ -8,6 +8,7 @@ date: 2025-02-19
 last_modified_at: '2026-03-12'
 permalink: chrome-devtools-shadow-dom-inspector
 ---
+
 # Chrome DevTools Shadow DOM Inspector
 
 If you are searching for chrome devtools shadow dom inspector, you probably ran into a situation where you tried to inspect a webpage element but something was missing. Maybe you right-clicked on a part of a page, selected Inspect, and the code showed up empty or grayed out. This happens because of something called Shadow DOM, and it can be confusing if you do not know how to work with it.

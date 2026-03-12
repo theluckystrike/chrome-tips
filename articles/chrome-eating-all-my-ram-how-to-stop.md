@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Eating All My RAM How to Stop
-description: "Is Chrome using too much RAM? Learn practical methods to reduce Chrome's memory usage, from built-in features to extension management, and get your computer ..."
+description: Is Chrome using too much RAM? Learn practical methods to reduce Chrome's
+  memory usage, from built-in features to extension management, and get your computer
+  ...
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-eating-all-my-ram-how-to-stop
@@ -93,8 +95,9 @@ Combining these strategies gives you the best results. Try each approach and see
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Must Have Chrome Extensions for Students](/must-have-chrome-extensions-for-students)
-* [Chrome Client Hints Explained for Beginners](/chrome-client-hints-explained-for-beginners)
-* [chrome new tab page how to customize](/chrome-new-tab-page-how-to-customize)
+## Related Articles
+* [Chrome for Discord Web App Optimization](/articles/chrome-for-discord-web-app-optimization/)
+* [Chrome Site Isolation Memory Overhead](/articles/chrome-site-isolation-memory-overhead/)
+* [Chrome Paint Holding Feature Explained – What It Means for Your Browser](/articles/chrome-paint-holding-feature-explained/)

@@ -17,6 +17,7 @@ tags:
 - web-notifications
 author: theluckystrike
 ---
+
 # Chrome Push Notifications API Explained
 
 If you have ever wondered about chrome push notifications api explained in simple terms, this guide is for you. Many people encounter this term when browsing the web but do not fully understand what it means or how it affects their browsing experience. The Chrome Push Notifications API is a powerful tool that websites use to send you alerts, and understanding it helps you control your browser experience.

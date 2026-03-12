@@ -18,6 +18,7 @@ tags:
 - touch-optimization
 author: theluckystrike
 ---
+
 # Chrome for Touchscreen Optimization Tips
 
 If you are looking for chrome for touchscreen optimization tips, you have come to the right place. Using Chrome on a touchscreen device like a tablet or a 2-in-1 laptop can feel different from using it with a mouse and keyboard. The good news is that Chrome has several settings and features designed specifically to make your touchscreen experience smoother and more enjoyable. Whether you use an iPad, an Android tablet, or a Windows touchscreen device, these tips will help you get the most out of your browser.

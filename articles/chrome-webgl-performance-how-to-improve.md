@@ -10,6 +10,7 @@ categories: '[performance, graphics]'
 tags: '[chrome-webgl, webgl-performance, chrome-graphics, browser-performance]'
 author: theluckystrike
 ---
+
 # How to Improve Chrome WebGL Performance
 
 If you are wondering how to improve Chrome WebGL performance, you are probably dealing with slow graphics, stuttering animations, or laggy games in your browser. WebGL is the technology that lets Chrome render 3D graphics and interactive content, but it can sometimes run poorly depending on your settings and computer. The good news is that there are several straightforward ways to make WebGL run faster and smoother in Chrome.

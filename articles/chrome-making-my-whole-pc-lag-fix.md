@@ -1,10 +1,17 @@
 ---
 layout: default
-title: "Chrome Making My Whole PC Lag Fix: Restore Your System's Speed"
-description: "Is Chrome slowing down your entire computer? Learn practical solutions to fix Chrome PC lag and get your system running smoothly again................"
+title: 'Chrome Making My Whole PC Lag Fix: Restore Your System''s Speed'
+description: Is Chrome slowing down your entire computer? Learn practical solutions
+  to fix Chrome PC lag and get your system running smoothly again.
 date: 2025-02-17
-categories: [performance, troubleshooting]
-tags: [chrome-slow, pc-lag, memory-usage, performance-fix]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-slow
+- pc-lag
+- memory-usage
+- performance-fix
 author: theluckystrike
 permalink: chrome-making-my-whole-pc-lag-fix
 last_modified_at: '2026-03-12'
@@ -103,8 +110,9 @@ Give these methods a try, and you'll likely see a significant improvement in you
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)
-* [chrome how to allow popups for one site](/chrome-how-to-allow-popups-for-one-site)
-* [Chrome ERR_BLOCKED_BY_CLIENT Fix](/chrome-err-blocked-by-client-fix)
+## Related Articles
+* [Chrome Freezes My Whole Computer](/articles/chrome-freezes-my-whole-computer/)
+* [Chrome Slow Only on My Computer Not Others: Why and How to Fix It](/articles/chrome-slow-only-on-my-computer-not-others/)
+* [Chrome Background Tabs Slowing Down Computer Fix](/articles/chrome-background-tabs-slowing-down-computer-fix/)

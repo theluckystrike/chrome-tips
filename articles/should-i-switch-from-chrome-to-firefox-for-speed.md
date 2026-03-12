@@ -11,6 +11,7 @@ categories: '[comparison, performance]'
 tags: '[chrome-vs-firefox, browser-switching, speed, performance]'
 author: theluckystrike
 ---
+
 # Should I Switch from Chrome to Firefox for Speed?
 
 # Should I Switch from Chrome to Firefox for Speed?

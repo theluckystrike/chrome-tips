@@ -7,6 +7,7 @@ date: 2026-03-09
 last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-figma-companion
 ---
+
 If you have been searching for chrome extensions for figma companion tools, you likely already know the challenge. Designing in Figma while keeping your browser running smoothly can feel like a constant struggle. You open reference tabs, documentation, and inspiration sites, but before you know it, Chrome is crawling and your computer is struggling to keep up. This is a common frustration for designers who rely on multiple resources while working on projects.
 
 ## Why Figma Users Face Browser Performance Issues

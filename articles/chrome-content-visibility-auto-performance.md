@@ -17,6 +17,7 @@ tags:
 - rendering
 author: theluckystrike
 ---
+
 # Chrome Content Visibility Auto Performance
 
 Chrome content visibility auto performance is one of the most powerful yet underutilized features available to web developers and users who want faster browsing experiences. The CSS content-visibility property, particularly its auto value, allows Chrome to dramatically improve page rendering performance by skipping work for content that is not currently visible on the screen. This revolutionary property can make websites feel significantly snappier, especially on pages with lots of content, long articles, or heavy scrolling interfaces.

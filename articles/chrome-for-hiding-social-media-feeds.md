@@ -16,6 +16,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-hiding-social-media-feeds
 ---
+
 # Chrome for Hiding Social Media Feeds
 
 If you are searching for chrome for hiding social media feeds, you probably know how easy it is to lose hours scrolling through Facebook, Instagram, Twitter, or TikTok. Those endless streams of content are designed to keep you engaged, but they can also derail your productivity and mental clarity. The good news is that Chrome offers several ways to take control of your browsing experience and minimize these distractions.

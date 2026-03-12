@@ -7,6 +7,7 @@ date: 2026-03-09
 last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-diigo
 ---
+
 # Chrome Extensions for Diigo
 
 If you are searching for chrome extensions for Diigo, you probably already know how useful this bookmarking service can be for saving and organizing web content. Diigo stands out from regular bookmarking because it lets you annotate pages, highlight text, and build your personal knowledge library. However, getting the most out of Diigo often requires pairing it with the right Chrome extensions to create a smooth workflow for saving, managing, and revisiting your saved content.

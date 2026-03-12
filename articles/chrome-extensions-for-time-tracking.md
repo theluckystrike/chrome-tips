@@ -16,6 +16,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Extensions for Time Tracking
 
 If you are searching for chrome extensions for time tracking, you probably want to understand where your time goes during the workday. Many people feel like their day disappears without knowing exactly how they spent their hours. The good news is that the right extensions can automatically track your browsing habits and help you make better decisions about how you use your time.

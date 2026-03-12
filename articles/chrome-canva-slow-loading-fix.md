@@ -18,6 +18,7 @@ tags:
 - browser-tips
 author: theluckystrike
 ---
+
 # Chrome Canva Slow Loading Fix
 
 If you have ever waited impatiently while Canva loads in Chrome, you are not alone. Many users experience slow loading times when using Canva in their browser, and it can be frustrating when you just want to get work done. The good news is that there are several practical steps you can take to speed things up significantly.

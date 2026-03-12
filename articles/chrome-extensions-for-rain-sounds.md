@@ -10,6 +10,7 @@ categories: '[productivity, wellness]'
 tags: '[chrome-extensions, rain-sounds, focus, relaxation, sleep]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Rain Sounds
 
 If you are searching for chrome extensions for rain sounds, you probably want an easy way to bring the soothing sounds of rain into your daily workflow without switching between different apps or websites. Many people find that rain sounds help them concentrate better, relax after a long day, or fall asleep more easily. Fortunately, Chrome extensions make it simple to enjoy these calming sounds directly in your browser.

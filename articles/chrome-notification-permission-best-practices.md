@@ -17,6 +17,7 @@ tags:
 - browser-settings
 author: theluckystrike
 ---
+
 # Chrome Notification Permission Best Practices
 
 Chrome notification permission best practices are something every Chrome user should understand. When you browse the web, websites often ask for permission to send you notifications. These notifications can be helpful, like alerting you to new messages or important updates, but they can also become annoying if not managed properly. Understanding how to control these permissions will help you have a more peaceful browsing experience while still getting the notifications you actually want.

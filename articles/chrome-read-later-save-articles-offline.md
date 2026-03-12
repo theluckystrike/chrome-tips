@@ -18,6 +18,7 @@ tags:
 - browser-tips
 author: theluckystrike
 ---
+
 # How to Use Chrome Read Later: Save Articles for Offline Reading
 
 We've all been there—you find an interesting article but don't have time to read it right now. Maybe you're on a commute with spotty internet, heading to a location with no WiFi, or simply want to read without distractions. Whatever the reason, knowing how to save articles for offline reading in Chrome is a game-changer.

@@ -10,6 +10,7 @@ categories: '[productivity, performance, privacy]'
 tags: '[chrome-extensions, noscript, privacy, script-blocking, browser-security]'
 author: theluckystrike
 ---
+
 If you have been searching for chrome extensions for noscript alternative, you probably want more control over what runs in your browser. The NoScript extension has been a popular choice for years, but many users find it too complex or are looking for simpler alternatives that still provide good control over web scripts.
 
 ## Why You Might Need a Noscript Alternative

@@ -17,6 +17,7 @@ tags:
 - page-loading
 author: theluckystrike
 ---
+
 # Chrome Prerender Pages Faster Browsing: Complete Guide
 
 If you have been searching for chrome prerender pages faster browsing solutions, you likely want to understand how to make Chrome load websites more quickly. Chrome includes several built-in features that can dramatically improve your browsing speed, and understanding how prerendering works is the first step to optimizing your experience.

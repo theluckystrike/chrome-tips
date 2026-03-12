@@ -6,6 +6,7 @@ date: 2026-03-09
 last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-font-changing
 ---
+
 # Chrome Extensions for Font Changing
 
 If you have ever searched for chrome extensions for font changing, you probably know how frustrating it can be when websites use fonts that are hard to read. Maybe a website uses a script font that looks decorative but strains your eyes, or perhaps the text is too small to read comfortably. This is a common problem that many Chrome users face, and the good news is that there are extensions designed specifically to help you change fonts on any website you visit.

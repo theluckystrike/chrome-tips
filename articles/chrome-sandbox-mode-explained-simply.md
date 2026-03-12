@@ -17,6 +17,7 @@ tags:
 - browser-safety
 author: theluckystrike
 ---
+
 # Chrome Sandbox Mode Explained Simply
 
 If you have ever wondered what chrome sandbox mode is and why you keep hearing about it, you are in the right place. Chrome sandbox mode explained simply is something every browser user should understand, because it is one of the key reasons your browsing experience stays safe and secure. Let me break down what this feature does, why it matters for you, and how it fits into the bigger picture of online safety.

@@ -11,6 +11,7 @@ categories: '[performance, privacy]'
 tags: '[incognito-mode, chrome-speed, browser-performance, chrome-myths]'
 author: theluckystrike
 ---
+
 # Does Incognito Mode Make Chrome Faster?
 
 You might have heard that browsing in Incognito mode can make Chrome faster. There's a kernel of truth here, but the full picture is more nuanced. Let's break it down.

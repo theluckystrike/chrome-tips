@@ -18,6 +18,7 @@ tags:
 - web-apps
 author: theluckystrike
 ---
+
 # Chrome Instant Apps on Android Explained
 
 Chrome instant apps on android explained is a topic that confuses many smartphone users. You have probably heard about mobile apps, and you likely know about web apps, but what exactly are instant apps and how do they fit into your browsing experience? This guide will walk you through everything you need to know about this Google feature.

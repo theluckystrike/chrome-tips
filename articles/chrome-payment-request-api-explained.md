@@ -18,6 +18,7 @@ tags:
 - api
 author: theluckystrike
 ---
+
 # Chrome Payment Request API Explained
 
 If you are searching for chrome payment request api explained, you likely want to understand what this browser feature is and how it can improve the online shopping experience. The Payment Request API is a powerful tool built into Chrome that makes buying things online faster and more secure for everyone involved.

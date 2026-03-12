@@ -20,6 +20,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-animation-performance
 ---
+
 # Chrome Animation Performance Guide
 
 Web animation has become an essential part of modern user interfaces. From subtle hover effects to complex interactive experiences, animations help make the web feel alive and responsive. However, poorly optimized animations can have the opposite effect, making your website feel sluggish and frustrating users. This guide will walk you through the fundamentals of Chrome animation performance, helping you create smooth, buttery-smooth animations that delight users rather than annoy them.

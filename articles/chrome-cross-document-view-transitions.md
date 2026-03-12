@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Chrome Cross-Document View Transitions: A Complete Guide"
-description: "Learn how Chrome's cross-document view transitions work and how to implement smooth page transitions in your web apps................................."
+title: 'Chrome Cross-Document View Transitions: A Complete Guide'
+description: Learn how Chrome's cross-document view transitions work and how to implement
+  smooth page transitions in your web apps.
 date: 2026-01-16
-categories: [chrome, web-development, view-transitions]
-tags: [chrome-view-transitions, web-api, css, animation, browser]
+categories:
+- chrome
+- web-development
+- view-transitions
+tags:
+- chrome-view-transitions
+- web-api
+- css
+- animation
+- browser
 author: theluckystrike
 permalink: chrome-cross-document-view-transitions
 last_modified_at: '2026-03-12'
@@ -71,8 +80,9 @@ While you are exploring Chrome's modern features, consider using extensions that
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome First Meaningful Paint Deprecated Why](/chrome-first-meaningful-paint-deprecated-why)
-* [Chrome Download Manager Best Extension](/chrome-download-manager-best-extension)
-* [Chrome Recorder and DevTools: A Guide to Test Automation](/chrome-recorder-devtools-test-automation)
+## Related Articles
+* [Chrome CSS Nesting Ampersand Syntax](/articles/chrome-css-nesting-ampersand-syntax/)
+* [Chrome View Transition API: Smooth Animations Within a Single Page](/articles/chrome-view-transition-same-document/)
+* [Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover Placement](/articles/chrome-anchor-positioning-css/)

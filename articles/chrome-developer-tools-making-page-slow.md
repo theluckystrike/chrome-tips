@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-developer-tools-making-page-slow
 ---
+
 # Chrome Developer Tools Making Page Slow: What You Need to Know
 
 If you are searching for chrome developer tools making page slow, you probably opened Chrome's developer tools and noticed your browser suddenly feels sluggish. You are not imagining it. Having DevTools open does consume system resources, and on a computer with limited RAM, this can make a noticeable difference in how fast pages load and how smoothly you can browse.

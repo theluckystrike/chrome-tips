@@ -17,6 +17,7 @@ author: theluckystrike
 permalink: chrome-remote-desktop-how-to-use
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Remote Desktop How to Use
 
 If you are wondering how to use Chrome Remote Desktop, you have come to the right place. Many people need to access their home or work computer while away, whether it is to grab an important file, help a family member with their computer, or just check on something you left running at home. Chrome Remote Desktop is a free tool from Google that lets you do exactly that, and you do not need to be a tech expert to use it.

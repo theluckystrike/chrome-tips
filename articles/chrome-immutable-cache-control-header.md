@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Immutable Cache-Control Header Explained
-description: "Learn how the immutable Cache-Control header works in Chrome to improve page load times and reduce unnecessary network requests for static assets....."
+description: Learn how the immutable Cache-Control header works in Chrome to improve
+  page load times and reduce unnecessary network requests for static assets.
 date: '2025-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-immutable-cache-control-header
@@ -79,8 +80,9 @@ Understanding and implementing the chrome immutable cache control header is one 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Extensions For Email Tracking](//articles/chrome-extensions-for-email-tracking/)
-* [Chrome Individual Transform Properties CSS – A Complete Guide](/chrome-individual-transform-properties-css)
-* [Chrome Sidebar Bookmarks How to Enable](/chrome-sidebar-bookmarks-how-to-enable)
+## Related Articles
+* [Chrome Cache First vs Network First Strategy](/articles/chrome-cache-first-vs-network-first-strategy/)
+* [Chrome requestanimationframe Explained: What It Means for Your Browser](/articles/chrome-requestanimationframe-explained/)
+* [How to Increase Chrome Cache Size](/articles/chrome-cache-size-how-to-increase/)

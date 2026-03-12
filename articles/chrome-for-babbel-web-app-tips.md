@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-babbel-web-app-tips
 ---
+
 # Chrome for Babbel Web App Tips
 
 Using Chrome for Babbel web app can make your language learning sessions more productive and enjoyable. Whether you are new to Babbel or have been using it for a while, there are several Chrome settings and features that can help you get better results from your practice time. Here are some practical tips to improve your experience.

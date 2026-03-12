@@ -11,6 +11,7 @@ categories: '[productivity, wellness]'
 tags: '[chrome-extensions, binaural-beats, focus, relaxation, meditation]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Binaural Beats
 
 If you are searching for chrome extensions for binaural beats, you likely want an easy way to use sound therapy for better focus, relaxation, or sleep without installing extra software. Binaural beats are a fascinating phenomenon where listening to two slightly different frequencies in each ear creates a third perceived tone that can influence your brainwaves. Chrome extensions make this technology accessible directly in your browser, so you can enjoy the benefits while working, studying, or browsing.

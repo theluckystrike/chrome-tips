@@ -17,6 +17,7 @@ tags:
 - fix
 author: theluckystrike
 ---
+
 # Chrome Fullscreen Not Working Fix
 
 If chrome fullscreen not working is what you are searching for right now, you are probably frustrated because pressing F11 or trying to go fullscreen on a website is not giving you the experience you expect. Maybe the screen only partially fills, or the fullscreen button does nothing, or Chrome keeps exiting fullscreen unexpectedly. This happens more often than you might think, and the good news is that there are several straightforward ways to fix it.

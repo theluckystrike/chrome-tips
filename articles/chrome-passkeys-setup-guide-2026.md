@@ -19,6 +19,7 @@ tags:
 - chrome-2026
 author: theluckystrike
 ---
+
 # Chrome Passkeys Setup Guide 2026
 
 Passwords have been the standard for online authentication for decades, but 2026 marks a turning point where passkeys are becoming the norm rather than the exception. This comprehensive setup guide will walk you through everything you need to know to configure passkeys in Chrome, from initial setup to advanced management options.

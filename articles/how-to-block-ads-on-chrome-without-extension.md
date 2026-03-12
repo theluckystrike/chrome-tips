@@ -11,6 +11,7 @@ categories: '[productivity, privacy]'
 tags: '[ad-blocking, chrome, browser, privacy]'
 author: theluckystrike
 ---
+
 # How to Block Ads on Chrome Without Extension
 
 If you are searching for how to block ads on chrome without extension, you might be looking for a way to reduce annoying advertisements without installing extra software or granting additional permissions to your browser. Maybe you are tired of pop-ups interrupting your reading, video ads before the content you want to watch, or banner ads cluttering the pages you visit. Whatever your reason, there are several approaches you can take to minimize ads in Chrome without adding an extension, and I will walk you through each one.

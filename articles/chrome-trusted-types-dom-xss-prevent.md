@@ -11,6 +11,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 # Chrome Trusted Types: Your Defense Against DOM XSS Attacks
 
 Cross-site scripting (XSS) remains one of the most dangerous security vulnerabilities affecting web applications today. Among its various forms, DOM-based XSS is particularly insidious because it happens entirely on the client side, making traditional server-side defenses ineffective. Fortunately, Chrome Trusted Types provides a powerful mechanism to prevent DOM XSS attacks by giving developers control over how the browser handles potentially dangerous DOM operations.

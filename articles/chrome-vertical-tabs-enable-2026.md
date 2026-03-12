@@ -10,6 +10,7 @@ categories: '[features, productivity]'
 tags: '[vertical-tabs, tab-organization, chrome-features, chrome-2026]'
 author: theluckystrike
 ---
+
 # Chrome Vertical Tabs Enable 2026
 
 If you have been searching for how to enable Chrome vertical tabs in 2026, you have probably already realized that the traditional horizontal tab bar at the top of your browser can become a real headache when you have many tabs open. Each tab gets squeezed smaller and smaller until you can barely see the titles or favicons. This makes it incredibly difficult to find the specific tab you need, especially when you are working on multiple projects or researching several topics at once. The good news is that Chrome has made it easier than ever to enable vertical tabs, and in this guide, we will walk you through the complete process for 2026.

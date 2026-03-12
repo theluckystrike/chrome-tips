@@ -11,6 +11,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 If you are searching for chrome extension for coupon codes automatic, you probably want to know how to automatically find and apply coupon codes while shopping online without doing all the manual work yourself. This is a very common search because let us face it, nobody enjoys spending time hunting for discount codes only to have them fail at checkout. You might have tried searching for codes manually before and found it frustrating, or maybe you are just looking for a better way to save money on your online purchases.
 
 ## The Problem with Manual Coupon Hunting

@@ -17,6 +17,7 @@ tags:
 - browser-tips
 author: theluckystrike
 ---
+
 # Chrome Reading Mode AI Summary Feature
 
 If you have ever wished you could get the main points of a long article without reading the entire thing, you will be happy to know that Chrome now offers an AI-powered feature that does exactly that. The chrome reading mode ai summary feature combines the clean, distraction-free experience of Reading Mode with artificial intelligence to give you quick summaries of web content. This is a game-changer for anyone who wants to stay informed without spending hours reading every article they come across.

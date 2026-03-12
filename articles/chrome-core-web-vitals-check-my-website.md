@@ -8,6 +8,7 @@ last_modified_at: '2026-03-12'
 permalink: chrome-core-web-vitals-check-my-website
 layout: post
 ---
+
 Chrome core web vitals check my website is a search more and more people are making when they want to understand how their website performs. Whether you own a blog, run an online store, or manage a business website, knowing how your site loads and behaves in Chrome is essential. Core Web Vitals are Google's way of measuring user experience, and checking them regularly helps you stay ahead of problems that could hurt your rankings or drive visitors away.
 
 ## What Are Core Web Vitals

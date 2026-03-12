@@ -7,6 +7,7 @@ last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-google-sheets
 layout: post
 ---
+
 Chrome extensions for Google Sheets can genuinely transform how you work with spreadsheets. If you find yourself juggling dozens of sheet tabs, struggling to keep track of important data, or wasting time on repetitive tasks, the right extension can make a real difference. Let me walk you through some common problems people face and the extensions that can help solve them.
 
 ## The Problem with Too Many Sheet Tabs

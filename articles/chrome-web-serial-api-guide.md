@@ -11,6 +11,7 @@ tags: '[chrome-web-serial-api, arduino, microcontroller, serial-port, baudrate, 
   hardware]'
 author: theluckystrike
 ---
+
 # Chrome Web Serial API Guide
 
 The web browser has evolved far beyond a simple tool for viewing documents and watching videos. Modern web APIs have unlocked incredible capabilities that were once exclusive to native applications, and among the most exciting is the Chrome Web Serial API. This powerful feature enables web applications to communicate directly with serial devices, opening up a world of possibilities for developers, hobbyists, and anyone interested in bridging the gap between web technologies and physical hardware. Whether you want to program an Arduino, interact with a microcontroller, read data from industrial sensors, or control custom electronics, the Web Serial API provides a straightforward way to establish this connection directly from Chrome.

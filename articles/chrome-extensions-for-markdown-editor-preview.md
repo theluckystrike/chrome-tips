@@ -10,6 +10,7 @@ categories: '[markdown, writing, productivity, tips]'
 tags: '[chrome-extensions, markdown, preview, writing-tools]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Markdown Editor Preview
 
 If you are searching for chrome extensions for markdown editor preview, you probably write in Markdown and want to see how your content will look in real time. Many people who work with Markdown, whether for documentation, blogging, or note-taking, find it frustrating to constantly switch between their editor and a preview window to check how their formatting looks.

@@ -18,6 +18,7 @@ tags:
 - security
 author: theluckystrike
 ---
+
 # Chrome Incognito Mode: Actually Private or Just a False Sense of Security?
 
 You've probably used Chrome's Incognito mode at some point. Maybe you wanted to browse without leaving traces on your computer, or perhaps you wanted to log into a second account without logging out of the first. But here's the question that matters: **Is Incognito mode actually private?**

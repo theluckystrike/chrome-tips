@@ -16,6 +16,7 @@ author: theluckystrike
 permalink: chrome-screenshot-full-page-without-extension
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Screenshot Full Page Without Extension
 
 Have you ever needed to capture an entire webpage but only got the visible part of your screen? You are not alone. Many Chrome users search for ways to take full page screenshots without extension tools. The good news is that Chrome has built-in features that can help you capture complete webpages without installing anything extra.

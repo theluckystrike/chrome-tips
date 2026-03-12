@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Data Saver Settings for Limited Data Plan
-description: "Learn how to configure Chrome data saver settings to reduce bandwidth usage on limited data plans. Optimize your browser and save mobile data with these prac..."
+description: Learn how to configure Chrome data saver settings to reduce bandwidth
+  usage on limited data plans.
 date: 2025-01-15
 categories:
 - performance
@@ -79,8 +80,9 @@ With these settings configured properly, you can browse comfortably without cons
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome for Zotero Web Connector Setup](/chrome-for-zotero-web-connector-setup)
-* [Is the Chrome Beta Channel Worth Using](/chrome-beta-channel-worth-using)
-* [Chrome for eBay Selling Best Extensions](/chrome-for-ebay-selling-best-extensions)
+## Related Articles
+* [Chrome Best Settings for Online Meetings](/articles/chrome-best-settings-for-online-meetings/)
+* [Best Settings to Speed Up Chrome 2026](/articles/best-settings-to-speed-up-chrome-2026/)
+* [Chrome for Zoom in Browser Best Settings](/articles/chrome-for-zoom-in-browser-best-settings/)

@@ -10,6 +10,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 # Chrome Extensions for Highlighting Text on Web
 
 If you are searching for chrome extensions for highlighting text on web, you probably know the struggle of trying to mark important information while browsing. Whether you are researching for a project, reading long articles, or gathering sources for work, you have likely wished you could permanently highlight text on a webpage the way you would in a PDF or a physical book. By default, Chrome does not offer this capability, which can make it frustrating to keep track of key information across multiple pages and sessions.

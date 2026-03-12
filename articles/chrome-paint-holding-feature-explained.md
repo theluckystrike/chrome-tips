@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Chrome Paint Holding Feature Explained – What It Means for Your Browser
-description: "Learn how Chrome's paint holding feature reduces memory usage and improves performance when switching between tabs. Discover why this matters for your browsi..."
+title: "Chrome Paint Holding Feature Explained \u2013 What It Means for Your Browser"
+description: Learn how Chrome's paint holding feature reduces memory usage and improves
+  performance when switching between tabs.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-paint-holding-feature-explained
@@ -70,8 +71,9 @@ Understanding these features helps you make informed decisions about your browsi
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome lighthouse performance score explained simply](/chrome-lighthouse-performance-score-explained-simply)
-* [Chrome for Jira Best Extensions](/chrome-for-jira-best-extensions)
-* [Chrome Web Store Extensions Not Installing: Fixes That Actually Work](/chrome-web-store-extensions-not-installing)
+## Related Articles
+* [What Is Chrome Paint Holding and How It Speeds Up Page Load](/articles/chrome-paint-holding-page-load/)
+* [Chrome Eating All My RAM How to Stop](/articles/chrome-eating-all-my-ram-how-to-stop/)
+* [Chrome Compositor Thread Explained - What It Means for Your Browser](/articles/chrome-compositor-thread-explained/)

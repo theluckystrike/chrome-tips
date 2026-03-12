@@ -11,6 +11,7 @@ categories: '[troubleshooting, security]'
 tags: '[chrome-ssl-error, chrome-fix, ssl-error, browser-security]'
 author: theluckystrike
 ---
+
 # Chrome ERR_SSL_PROTOCOL_ERROR Fix
 
 You are browsing the web in Chrome and suddenly see a scary warning at the top of your screen. It says ERR_SSL_PROTOCOL_ERROR and you cannot load the website you wanted to visit. This can be alarming, especially if you are trying to access your bank account, email, or other important sites. Let me help you understand what is happening and how to fix it.

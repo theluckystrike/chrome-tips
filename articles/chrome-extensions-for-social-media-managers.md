@@ -10,6 +10,7 @@ categories: '[productivity, social-media]'
 tags: '[chrome-extensions, social-media, social-media-manager, marketing, productivity]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Social Media Managers
 
 If you are searching for chrome extensions for social media managers, you likely understand how demanding it can be to manage multiple platforms, create engaging content, track analytics, and stay on top of conversations—all from your browser. As a social media manager, your Chrome browser becomes the command center for your entire operation. When it becomes cluttered with tabs or lacks the right tools, your productivity suffers and opportunities slip away.

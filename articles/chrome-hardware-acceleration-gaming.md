@@ -19,6 +19,7 @@ tags:
 - performance
 author: theluckystrike
 ---
+
 # Chrome Hardware Acceleration Gaming
 
 Browser gaming has evolved dramatically in recent years, with titles that rival traditional desktop applications in complexity and visual fidelity. If you are serious about getting the best experience from chrome hardware acceleration gaming, understanding how to properly configure your browser is essential. This guide walks you through everything you need to know to optimize Chrome for gaming performance.

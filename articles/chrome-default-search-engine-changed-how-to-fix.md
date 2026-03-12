@@ -16,6 +16,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-default-search-engine-changed-how-to-fix
 ---
+
 # Chrome Default Search Engine Changed How to Fix
 
 It is frustrating when your Chrome default search engine changed without your permission. You open a new tab to search something, and suddenly you are redirected to a search engine you never chose. This is a common problem that happens more often than you might think, and it usually occurs because of extensions, software changes, or settings that get modified behind the scenes.

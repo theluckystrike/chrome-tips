@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Application Tab DevTools Guide
-description: Learn how to use Chrome Application Tab in DevTools to inspect storage, service workers, and frames. A practical guide for debugging web applications.
+description: Learn how to use Chrome Application Tab in DevTools to inspect storage,
+  service workers, and frames. A practical guide for debugging web applications.
 keywords: chrome application tab devtools guide
 categories:
 - chrome
@@ -70,8 +71,9 @@ The Application tab in Chrome DevTools provides powerful capabilities for inspec
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Web Animations API Keyframes Guide](/chrome-web-animations-api-keyframes)
-* [Chrome Streams API for Large Files](/chrome-streams-api-for-large-files)
-* [Chrome Using Too Much Disk Space Fix](/chrome-using-too-much-disk-space-fix)
+## Related Articles
+* [Chrome Overriding CSS in DevTools: A Practical Tutorial](/articles/chrome-overriding-css-in-devtools-tutorial/)
+* [Chrome DevTools Responsive Design Mode Guide](/articles/chrome-devtools-responsive-design-mode-guide/)
+* [Chrome Network Tab: How to Use and Debug Network Requests](/articles/chrome-network-tab-how-to-use-debug/)

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Measure Input Delay Using Chrome Event Timing API
-description: Learn how to measure input delay in Chrome using the Event Timing API. A practical guide for developers who want to improve their website's responsiveness.
+description: Learn how to measure input delay in Chrome using the Event Timing API.
+  A practical guide for developers who want to improve their website's responsiveness.
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-event-timing-api-measure-input-delay
@@ -129,8 +130,9 @@ By understanding how to measure input delay and taking steps to minimize it, you
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Geolocation Permission Settings](/chrome-geolocation-permission-settings)
-* [Chrome Lighthouse Treemap Explained](/chrome-lighthouse-treemap-explained)
-* [Chrome Extensions for Asana](/chrome-extensions-for-asana)
+## Related Articles
+* [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained/)
+* [Chrome Performance Observer API Guide](/articles/chrome-performance-observer-api-guide/)
+* [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api-explained/)

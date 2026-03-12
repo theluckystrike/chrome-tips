@@ -17,6 +17,7 @@ tags:
 - browser-fix
 author: theluckystrike
 ---
+
 Chrome keeps logging me out of websites fix is something many Chrome users search for when they face this annoying problem. You sign into your bank, social media, or email, close the browser, come back a few minutes later, and boom, you are logged out again. It happens on websites you use every single day, and having to type your password over and over gets old fast. The good news is this is almost always fixable, and you can do it yourself without any technical knowledge.
 
 ## Why Chrome Keeps Logging You Out

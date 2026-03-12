@@ -18,6 +18,7 @@ tags:
 - casting-guide
 author: theluckystrike
 ---
+
 # Chrome Casting to TV How to Setup
 
 If you are looking for chrome casting to TV how to setup, you have found the right guide. Many people want to share what they see in their Chrome browser on a bigger screen, and Chrome makes this surprisingly easy to do. Whether you want to watch a video, share photos with family, or show a presentation at work, chrome casting to TV is a useful skill that takes just a few minutes to learn.

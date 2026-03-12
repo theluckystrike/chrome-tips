@@ -11,6 +11,7 @@ categories: '[shopping, tips]'
 tags: '[chrome-extensions, amazon, price-tracking, shopping, deals]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Price Tracking Amazon
 
 If you are searching for chrome extensions for price tracking Amazon, you probably want to make sure you are getting the best deal when shopping online. Amazon prices change frequently, sometimes multiple times in a single day. Without the right tools, it is easy to overpay without even realizing it. Fortunately, there are Chrome extensions specifically designed to track Amazon prices and alert you when it is the right time to buy.

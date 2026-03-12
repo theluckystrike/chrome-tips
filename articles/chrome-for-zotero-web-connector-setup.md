@@ -17,6 +17,7 @@ tags:
 - web-connector
 author: theluckystrike
 ---
+
 # Chrome for Zotero Web Connector Setup
 
 Setting up chrome for zotero web connector is a straightforward process that lets you save web pages directly to your Zotero research library with just a click. Whether you are gathering sources for a paper, building a bibliography, or collecting articles for a project, the Web Connector makes the process much faster and more organized.

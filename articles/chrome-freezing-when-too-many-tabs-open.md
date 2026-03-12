@@ -1,10 +1,17 @@
 ---
 layout: default
-title: "Chrome Freezing When Too Many Tabs Open: Solutions That Work"
-description: "Is Chrome freezing when too many tabs open? This guide covers why it happens and provides practical fixes to get your browser responsive again........"
+title: 'Chrome Freezing When Too Many Tabs Open: Solutions That Work'
+description: Is Chrome freezing when too many tabs open? This guide covers why it
+  happens and provides practical fixes to get your browser responsive again.
 date: 2026-01-15
-categories: [performance, troubleshooting]
-tags: [chrome-freezing, chrome-tabs, browser-performance, chrome-not-responding]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-freezing
+- chrome-tabs
+- browser-performance
+- chrome-not-responding
 author: theluckystrike
 permalink: chrome-freezing-when-too-many-tabs-open
 last_modified_at: '2026-03-12'
@@ -88,8 +95,9 @@ Alternatively, consider using Chrome more conservatively by keeping fewer tabs o
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [How to Disable Chrome Notifications Permanently](/how-to-disable-chrome-notifications-permanently)
-* [Chrome Password Autofill Stopped Working: Fix It Now](/chrome-password-autofill-stopped-working)
-* [Best Chrome Extensions for Sales Teams](/best-chrome-extensions-for-sales-teams)
+## Related Articles
+* [Chrome Keeps Freezing Every Few Minutes: Causes and Fixes](/articles/chrome-keeps-freezing-every-few-minutes/)
+* [Chrome Not Responding Windows 10 Fix](/articles/chrome-not-responding-windows-10-fix/)
+* [Chrome Background Tabs Slowing Down Computer Fix](/articles/chrome-background-tabs-slowing-down-computer-fix/)

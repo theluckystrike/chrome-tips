@@ -10,6 +10,7 @@ categories: '[performance, browsers, troubleshooting]'
 tags: '[chrome-slow, chrome-tabs, chrome-performance, chrome-memory, tab-management]'
 author: theluckystrike
 ---
+
 # Why Does Chrome Get Slower With More Tabs?
 
 If you have ever wondered "**why does Chrome get slower with more tabs**", you are not alone. This is one of the most common complaints from computer users, especially those with older machines or limited RAM. The good news is that there are clear reasons why this happens and practical steps you can take to fix it.

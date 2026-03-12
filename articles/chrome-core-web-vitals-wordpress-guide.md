@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Core Web Vitals WordPress Guide
-description: Learn how to improve your WordPress site performance with Chrome Core Web Vitals. This practical guide covers LCP, FID, and CLS optimization strategies.
+description: Learn how to improve your WordPress site performance with Chrome Core
+  Web Vitals. This practical guide covers LCP, FID, and CLS optimization strategies.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-core-web-vitals-wordpress-guide
@@ -84,8 +85,9 @@ Good Core Web Vitals scores do not just improve search rankings—they create a 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Clients Claim Take Control: What It Means for Your Browser](/chrome-clients-claim-take-control)
-* [Chrome Extensions for Grammarly Alternative Free](/chrome-extensions-for-grammarly-alternative-free)
-* [Chrome Mouse Cursor Lagging Fix](/chrome-mouse-cursor-lagging)
+## Related Articles
+* [Chrome Web Vitals Optimization Guide](/articles/chrome-web-vitals-optimization/)
+* [Chrome Web Vitals Explained Simply](/articles/chrome-web-vitals-explained-simply/)
+* [Largest Contentful Paint Chrome Fix](/articles/largest-contentful-paint-chrome-fix/)

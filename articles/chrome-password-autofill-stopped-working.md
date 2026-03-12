@@ -16,6 +16,7 @@ tags:
 - browser-troubleshooting
 author: theluckystrike
 ---
+
 # Chrome Password Autofill Stopped Working: Fix It Now
 
 You're trying to log into your favorite website, but Chrome's password autofill isn't filling in your credentials. Frustrating, right? Don't worry — this is a common issue, and there are several proven ways to fix it. In this guide, I'll walk you through practical solutions to get Chrome's password autofill working again.

@@ -18,6 +18,7 @@ tags:
 - tv-streaming
 author: theluckystrike
 ---
+
 # Chrome Cast Tab to TV Not Working Fix
 
 Chrome cast tab to TV not working is one of those problems that pops up at the worst possible moment. You are ready to watch a video or show something on the big screen, you click the cast icon in Chrome, select your TV or Chromecast, and nothing happens. The spinning wheel goes nowhere and you are left staring at a blank TV wondering what went wrong. This happens more often than you might think, and the good news is that most of the time you can fix it yourself without needing any technical help.

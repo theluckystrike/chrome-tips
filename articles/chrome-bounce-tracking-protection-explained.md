@@ -18,6 +18,7 @@ tags:
 - tracking-protection
 author: theluckystrike
 ---
+
 # Chrome Bounce Tracking Protection Explained: What It Is and How to Enable It
 
 If you have ever shopped for something online, looked at a product, and then noticed that product following you around the internet on completely unrelated websites, you have experienced cross-site tracking. One of the most sneaky methods advertisers use to follow you is called "bounce tracking," and Chrome has a powerful defense built right into the browser called Bounce Tracking Protection. This guide explains what bounce tracking is, how Chrome protects you from it, and how you can take control of your privacy.

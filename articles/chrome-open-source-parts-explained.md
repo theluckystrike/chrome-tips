@@ -16,6 +16,7 @@ tags:
 - browser-engine
 author: theluckystrike
 ---
+
 # Chrome Open Source Parts Explained
 
 When you open Chrome and browse the web, you're interacting with one of the most sophisticated pieces of software ever built. But here's something that surprises many users: Chrome is built almost entirely on open-source technology. Understanding these open-source components not only satisfies curiosity but also helps you make better decisions about browser customization, extensions, and privacy.

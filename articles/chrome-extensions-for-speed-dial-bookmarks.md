@@ -17,6 +17,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Extensions for Speed Dial Bookmarks
 
 If you have ever searched for chrome extensions for speed dial bookmarks, you probably already know the frustration of losing track of your favorite websites. Many Chrome users accumulate hundreds of bookmarks over time, but finding the exact one you need when you need it can become a real challenge. The standard bookmark manager works, but it is not exactly fast or visually appealing. This is where speed dial bookmarks extensions come in handy.

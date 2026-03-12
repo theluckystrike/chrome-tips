@@ -19,6 +19,7 @@ tags:
 - web-performance
 author: theluckystrike
 ---
+
 # Chrome Coverage Tool: Find Unused CSS and Supercharge Your Website Performance
 
 Every web developer has experienced this frustration: you have optimized your images, minified your code, and enabled compression, yet your website still feels sluggish. The culprit might be hiding in plain sight—unused CSS and JavaScript that your browser downloads but never actually uses. Fortunately, Chrome provides a powerful built-in tool to identify this hidden bloat. The Chrome Coverage Tool helps you find unused CSS and JavaScript, giving you concrete data to streamline your code and dramatically improve page load times.

@@ -10,6 +10,7 @@ categories: '[tutorials, windows]'
 tags: '[chrome, default-browser, windows-11, setting-up-chrome]'
 author: theluckystrike
 ---
+
 # How to Set Chrome as Default Browser Windows 11
 
 If you are wondering how to set Chrome as default browser Windows 11, you have come to the right place. Making Chrome your default browser means every time you click a link in an email, a document, or any app, it will open in Chrome instead of another browser. This simple change can save you time and keep your browsing experience consistent across everything you do on your computer.

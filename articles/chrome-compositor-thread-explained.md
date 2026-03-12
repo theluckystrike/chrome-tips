@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Compositor Thread Explained - What It Means for Your Browser
-description: "Learn how Chrome's compositor thread works and why it matters for your browsing experience, especially on computers with limited resources............"
+description: Learn how Chrome's compositor thread works and why it matters for your
+  browsing experience, especially on computers with limited resources.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-compositor-thread-explained
@@ -70,8 +71,9 @@ The compositor thread is one of the key reasons Chrome can deliver a responsive 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Extensions for Amazon FBA Sellers](/chrome-extensions-for-amazon-fba-sellers)
-* [Chrome Subgrid Layout Examples: A Complete Guide](/chrome-subgrid-layout-examples)
-* [Chrome Screen Capture API Guide](/chrome-screen-capture-api)
+## Related Articles
+* [Chrome Content Visibility Auto Performance](/articles/chrome-content-visibility-auto-performance/)
+* [Chrome Paint Holding Feature Explained – What It Means for Your Browser](/articles/chrome-paint-holding-feature-explained/)
+* [Chrome Back Forward Cache Explained](/articles/chrome-back-forward-cache-explained/)

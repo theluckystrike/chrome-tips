@@ -10,6 +10,7 @@ categories: '[performance, cpu]'
 tags: '[chrome-cpu, chrome-slow, browser-performance, computer-slow]'
 author: theluckystrike
 ---
+
 # Why Does Chrome Use So Much CPU
 
 Chrome running your computer's fan at full speed or making everything feel sluggish? You open a few tabs and suddenly your processor is working overtime. If you're wondering why does Chrome use so much CPU, you're not imagining it, and there are real reasons and real fixes for this problem.

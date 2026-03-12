@@ -15,6 +15,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Extensions for Speed Reading
 
 If you are looking for chrome extensions for speed reading, you probably feel like there are not enough hours in the day to get through all the articles, reports, and online content you need to consume. Whether you are a student researching for a paper, a professional staying up to date with industry news, or just someone who wants to read more books and articles, speed reading can transform how much you accomplish.

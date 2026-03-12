@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Tab Discarding vs Tab Suspending Difference
-description: "Learn the key differences between Chrome's tab discarding and tab suspending features. Understand how each works and which method best saves memory for your ..."
+description: Learn the key differences between Chrome's tab discarding and tab suspending
+  features.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-tab-discarding-vs-tab-suspending-difference
@@ -58,8 +59,9 @@ Both methods share a common goal: keeping your browser running smoothly even whe
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome for tiktok web best settings](/chrome-for-tiktok-web-best-settings)
-* [chrome extensions for web clipping](/chrome-extensions-for-web-clipping)
-* [Chrome Location Access for One Site How to Allow](/chrome-location-access-for-one-site-how-to-allow)
+## Related Articles
+* [Chrome Memory Saver Mode How to Enable](/articles/chrome-memory-saver-mode-how-to-enable/)
+* [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/articles/i-have-100-tabs-open-chrome-is-dying/)
+* [Chrome Tabs Using Too Much Memory Which One](/articles/chrome-tabs-using-too-much-memory-which-one/)

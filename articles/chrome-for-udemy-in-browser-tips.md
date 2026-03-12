@@ -16,6 +16,7 @@ tags:
 - online-learning
 author: theluckystrike
 ---
+
 # Chrome for Udemy in Browser Tips
 
 If you are searching for chrome for udemy in browser tips, you probably spend a lot of time watching courses on Udemy and want to make your browsing experience smoother and more productive. Whether you are taking one course or juggling several at once, Chrome has plenty of features and tricks that can help you learn better without getting distracted or bogged down by a slow browser.

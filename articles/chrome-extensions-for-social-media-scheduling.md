@@ -18,6 +18,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Extensions for Social Media Scheduling
 
 If you are searching for chrome extensions for social media scheduling, you likely spend too much time manually posting content across multiple platforms. Managing social media for your business or personal brand can feel like a full-time job when you are logging into each platform separately, waiting for the right moment to post, and repeating the same tasks every single day. This guide will help you understand how the right extensions can automate your posting workflow and free up hours each week.

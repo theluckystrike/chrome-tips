@@ -17,6 +17,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 If you have been searching for chrome extensions for url shortener tools, you probably know the frustration. Long, messy URLs clutter your messages, social media posts, and emails. They are hard to read, prone to breaking across text messages, and often contain tracking parameters that feel invasive. This is a common problem for anyone who shares links regularly, whether you are a social media manager, content creator, or just someone who likes to share articles with friends.
 
 ## Why Long URLs Are a Problem

@@ -2,8 +2,7 @@
 layout: default
 title: Chrome Too Many Tabs Crashing Fix
 description: Is Chrome crashing because you have too many tabs open? Discover practical
-  solutions to prevent tab-related crashes and keep your browser running smoothly
-  now.
+  solutions to prevent tab-related crashes and keep your browser running smoothly.
 date: 2025-02-20
 categories:
 - performance
@@ -84,8 +83,9 @@ Chrome is an exceptionally powerful browser, but its strength becomes a weakness
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/chrome-err-cert-authority-invalid-fix)
-* [Chrome Multiple Windows vs Tabs Which Is Better](/chrome-multiple-windows-vs-tabs-which-is-better)
-* [Chrome for Calendar Management Extensions](/chrome-for-calendar-management-extensions)
+## Related Articles
+* [Why Does Chrome Get Slower With More Tabs? A Practical Guide](/articles/why-does-chrome-get-slower-with-more-tabs/)
+* [Chrome Tabs Keep Reloading When I Switch Back](/articles/chrome-tabs-keep-reloading-when-i-switch-back/)
+* [Why Is My Chrome Tab Using 1GB of Memory? Here's Why and How to Fix It](/articles/chrome-tab-using-1gb-memory-why/)

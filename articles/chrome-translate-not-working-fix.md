@@ -10,6 +10,7 @@ categories: '[troubleshooting, features]'
 tags: '[chrome-translate, translation-fix, language-settings, google-translate]'
 author: theluckystrike
 ---
+
 # Chrome Translate Not Working? Here's How to Fix It
 
 Chrome's built-in translation is one of those features you don't think about until it stops working. You visit a page in another language and... nothing happens. No translation bar, no prompt, just a page you can't read. Here's how to fix it.

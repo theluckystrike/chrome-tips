@@ -17,6 +17,7 @@ tags:
 - browser-comparison
 author: theluckystrike
 ---
+
 # Chrome vs Chromium: What's the Difference and Which Should You Use?
 
 If you've ever downloaded a browser and noticed two options—Google Chrome and Chromium—you might have wondered what sets them apart. At first glance, they look nearly identical. Both have the same blue, green, red, and yellow logo colors. Both feel fast and responsive. So what's the actual difference, and more importantly, which one should you choose?

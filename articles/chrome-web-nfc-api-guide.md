@@ -11,6 +11,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 # Chrome Web NFC API Guide
 
 The Chrome Web NFC API represents a significant advancement in web capabilities, allowing web developers to interact with Near Field Communication (NFC) tags directly from a browser. This technology opens up exciting possibilities for web applications, from inventory management systems to interactive marketing campaigns. In this comprehensive guide, we will explore everything you need to know about implementing NFC functionality in your web projects using Chrome's Web NFC API.

@@ -18,6 +18,7 @@ tags:
 - chrome-extensions
 author: theluckystrike
 ---
+
 # Chrome Extensions for Video Playback Speed Control
 
 If you have ever wanted to watch a video faster or slower than its original speed, you are not alone. Many people search for chrome extensions for video playback speed control because they want more control over their viewing experience. Whether you are trying to save time on long tutorials, slow down complex demonstrations, or speed through content you have seen before, the right extension can make a big difference.

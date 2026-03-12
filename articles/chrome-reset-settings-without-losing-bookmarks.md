@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to Reset Chrome Settings Without Losing Bookmarks
-description: "Need to reset Chrome to default settings? Learn how to restore Chrome without losing your bookmarks, passwords, and extensions........................"
+description: Need to reset Chrome to default settings? Learn how to restore Chrome
+  without losing your bookmarks, passwords, and extensions.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-reset-settings-without-losing-bookmarks
@@ -92,8 +93,9 @@ With your settings restored to defaults and your bookmarks safe, Chrome should f
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Window Size Not Saving Fix](/chrome-window-size-not-saving-fix)
-* [Chrome Extensions for Grammar Check Free Alternative](/chrome-extensions-for-grammar-check-free-alternative)
-* [Chrome Installer Failed to Start Fix](/chrome-installer-failed-to-start-fix)
+## Related Articles
+* [How to Clear Cache for Specific Site Only in Chrome](/articles/chrome-clear-cache-specific-site-only/)
+* [Chrome for YouTube 4K Playback Settings](/articles/chrome-for-youtube-4k-playback-settings/)
+* [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/articles/chrome-autofill-wrong-address-keeps-appearing/)

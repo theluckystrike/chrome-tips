@@ -19,6 +19,7 @@ author: theluckystrike
 permalink: chrome-resource-timing-api-explained
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Resource Timing API Explained
 
 Chrome resource timing api explained is a topic that matters to anyone who wants their websites to load faster and run more smoothly. The Resource Timing API is a powerful tool built into Chrome that lets you see exactly how long each element on a webpage takes to load, from images and scripts to fonts and stylesheets. Understanding this API can help you identify what is slowing down your site and what you can do about it.

@@ -18,6 +18,7 @@ author: theluckystrike
 permalink: chrome-css-is-where-pseudo-class
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome CSS :is() and :where() Pseudo-Class Explained
 
 If you have been writing CSS for any amount of time, you probably know how tedious it can be to write long, repetitive selectors. Imagine you need to style all your headings to have the same color, but they are spread across different sections of your page. You might find yourself writing something like this: section h1, section h2, section h3, article h1, article h2, article h3, and so on. It gets exhausting quickly, and your stylesheet becomes hard to read and maintain.

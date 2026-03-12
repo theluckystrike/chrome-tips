@@ -11,6 +11,7 @@ categories: '[productivity, privacy]'
 tags: '[ad-blocking, chrome-android, mobile-browser, privacy]'
 author: theluckystrike
 ---
+
 # How to Block Ads on Chrome Android
 
 If you are searching for how to block ads on chrome android, you probably feel frustrated by the constant pop-ups, video ads, and banner advertisements that interrupt your browsing experience. Those intrusive ads not only slow down your phone but can also be annoying when you are trying to read an article or watch a video. The good news is that you have several options to block ads on Chrome Android, and I will walk you through each one step by step.

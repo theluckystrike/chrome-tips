@@ -18,6 +18,7 @@ tags:
 - screen-capture
 author: theluckystrike
 ---
+
 # Chrome Built-In Screenshot Tool
 
 When you need to capture what's on your screen, you might immediately think of third-party screenshot tools or browser extensions. However, Google Chrome comes equipped with a powerful set of built-in screenshot capabilities that can handle most situations without installing anything extra. Whether you need to capture an entire webpage, a specific section, or even individual elements from a page, Chrome has you covered.

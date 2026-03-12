@@ -84,8 +84,9 @@ By following these practices, you can confidently install extensions that enhanc
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Best Chrome Extensions for Language Learning](/best-chrome-extensions-for-language-learning)
-* [chrome trusted types dom xss prevent](/chrome-trusted-types-dom-xss-prevent)
-* [What Is Chrome Paint Holding and How It Speeds Up Page Load](/chrome-paint-holding-page-load)
+## Related Articles
+* [Are Chrome Extensions Safe to Use](/articles/are-chrome-extensions-safe-to-use/)
+* [how to enable chrome enhanced safe browsing](/articles/how-to-enable-chrome-enhanced-safe-browsing/)
+* [How to Check If Chrome Is Up to Date](/articles/how-to-check-if-chrome-is-up-to-date/)

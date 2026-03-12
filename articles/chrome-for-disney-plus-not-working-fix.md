@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-disney-plus-not-working-fix
 ---
+
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 # Chrome for Disney Plus Not Working Fix

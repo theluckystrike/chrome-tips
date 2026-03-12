@@ -18,6 +18,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-discord-web-app-optimization
 ---
+
 # Chrome for Discord Web App Optimization
 
 If you are looking for chrome for discord web app optimization, you probably use Discord in your browser instead of the desktop app. The web version is convenient, but it can sometimes feel sluggish, especially when you have many tabs open or a computer with limited resources. The good news is that there are several ways to make Discord run smoother in Chrome without sacrificing the features you love.

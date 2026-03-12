@@ -17,6 +17,7 @@ tags:
 - captions
 author: theluckystrike
 ---
+
 # Chrome Live Captions Feature Guide
 
 In an increasingly digital world, accessibility features in web browsers have become essential for millions of users. Whether you're someone who is deaf or hard of hearing, prefer learning through reading, or find yourself in a noisy environment where you can't play audio, Chrome's Live Captions feature offers a powerful solution. This comprehensive guide will walk you through everything you need to know about enabling, using, and getting the most out of Chrome Live Captions.

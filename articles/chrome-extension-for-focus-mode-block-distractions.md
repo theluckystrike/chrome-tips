@@ -8,6 +8,7 @@ last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-focus-mode-block-distractions
 layout: post
 ---
+
 Do you ever find yourself scrolling through social media when you should be working? You are not alone. Many people search for a chrome extension for focus mode block distractions because they want to stay productive without constantly fighting the urge to check notifications or visit time-wasting websites. Whether you are trying to meet a deadline, study for an exam, or simply get work done, distractions can derail your focus in seconds.
 
 ## Why Distractions Are So Hard to Resist

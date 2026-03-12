@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Settings Reset Completely Fresh Start
-description: Learn how to reset Chrome settings completely for a fresh start. Step-by-step guide to clear cache, reset preferences, and restore Chrome to default state.
+description: Learn how to reset Chrome settings completely for a fresh start. Step-by-step
+  guide to clear cache, reset preferences, and restore Chrome to default state.
 date: 2025-12-01
 categories:
 - chrome-settings
@@ -78,8 +79,9 @@ A chrome settings reset completely fresh start solves most browser problems quic
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [How to Capture Full Page Screenshots in Chrome Using DevTools](/chrome-screenshot-capture-devtools-full-page)
-* [Chrome Android Flags Best Settings 2026](/chrome-android-flags-best-settings-2026)
-* [Chrome for Cold Turkey Blocker Setup](/chrome-for-cold-turkey-blocker-setup)
+## Related Articles
+* [Chrome Reset vs Reinstall: Which Is Better?](/articles/chrome-reset-vs-reinstall-which-is-better/)
+* [How to Reset Chrome Settings Without Losing Bookmarks](/articles/chrome-reset-settings-without-losing-bookmarks/)
+* [Chrome Pop Ups How to Block All](/articles/chrome-pop-ups-how-to-block-all/)

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Web Page Test Advanced Guide
-description: "Master the art of testing web pages in Chrome with advanced techniques for performance, functionality, and user experience optimization..............."
+description: Master the art of testing web pages in Chrome with advanced techniques
+  for performance, functionality, and user experience optimization.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-web-page-test-advanced-guide
@@ -74,8 +75,9 @@ Testing web pages effectively in Chrome combines understanding the browser's bui
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Browser Management for IT Admins](/chrome-browser-management-for-it-admins)
-* [Chrome for Hiding Social Media Feeds](/chrome-for-hiding-social-media-feeds)
-* [Chrome for Removing YouTube Recommendations](/chrome-for-removing-youtube-recommendations)
+## Related Articles
+* [Chrome Web GPU API Explained](/articles/chrome-web-gpu-api-explained/)
+* [Chrome User Timing API Explained](/articles/chrome-user-timing-api-explained/)
+* [Chrome Event Timing API Explained](/articles/chrome-event-timing-api-explained/)

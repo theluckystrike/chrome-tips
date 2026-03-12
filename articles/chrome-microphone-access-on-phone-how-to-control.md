@@ -18,6 +18,7 @@ tags:
 - microphone-access
 author: theluckystrike
 ---
+
 # Chrome Microphone Access on Phone How to Control
 
 Chrome microphone access on phone how to control is something many people search for when they want to use voice features in their mobile browser. Whether you are making voice calls through a web app, using voice search, recording audio notes, or transcribing speech to text, understanding how to manage microphone permissions in Chrome on your phone gives you better control over your privacy. This guide will walk you through the simple steps to control which websites can use your microphone and help you keep your conversations private.

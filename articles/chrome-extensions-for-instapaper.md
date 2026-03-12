@@ -10,6 +10,7 @@ categories: '[saving, tips]'
 tags: '[chrome-extensions, instapaper, reading]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Instapaper
 
 If you are looking for chrome extensions for Instapaper, you probably want a better way to save articles and read them later without distractions. Many people discover Instapaper after accumulating too many open tabs or struggling to find saved articles when they need them. This guide will help you understand what Instapaper does, why it matters, and which Chrome extensions can make it work better for you.

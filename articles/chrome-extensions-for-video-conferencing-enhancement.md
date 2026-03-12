@@ -19,6 +19,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Extensions for Video Conferencing Enhancement
 
 Chrome extensions for video conferencing enhancement are becoming essential tools for anyone who spends significant time in virtual meetings. Whether you use Zoom, Google Meet, Microsoft Teams, or another platform, you have probably experienced some common frustrations during video calls. The good news is that there are practical solutions available right in your browser that can make your virtual meetings run more smoothly.

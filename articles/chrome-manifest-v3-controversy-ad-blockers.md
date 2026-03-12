@@ -18,6 +18,7 @@ tags:
 - browser
 author: theluckystrike
 ---
+
 # Chrome Manifest V3 Controversy Ad Blockers
 
 The Chrome browser has long been the dominant force in web browsing, but recent changes to its extension platform have sparked significant controversy. Understanding the **chrome manifest v3 controversy ad blockers** debate is essential for anyone who relies on extensions to customize their browsing experience, block intrusive advertisements, or protect their privacy online.

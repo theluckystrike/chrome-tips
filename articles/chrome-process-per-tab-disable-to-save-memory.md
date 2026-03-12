@@ -19,6 +19,7 @@ tags:
 - save-ram
 author: theluckystrike
 ---
+
 # Chrome Process Per Tab: How to Disable It to Save Memory
 
 If you have ever wondered why Chrome uses so much memory on your computer, you are not alone. Many users with older machines or limited RAM notice that Chrome can quickly become a resource hog, slowing down everything else they try to do. One reason for this is Chrome's "process per tab" design, where each tab runs as its own separate process. While this approach has benefits for stability and security, it can also consume significant amounts of memory, especially when you have many tabs open.

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome WebTransport API Explained
-description: Learn how the Chrome WebTransport API enables low-latency bidirectional communication, its use cases, browser support, and how it compares to WebSockets.
+description: Learn how the Chrome WebTransport API enables low-latency bidirectional
+  communication, its use cases, browser support, and how it compares to WebSockets.
 date: 2025-02-20
 categories:
 - web-development
@@ -88,8 +89,9 @@ The Chrome WebTransport API represents a meaningful step forward for real-time w
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Navigation Timing API Explained](/chrome-navigation-timing-api-explained)
-* [Best Chrome Themes 2026](/best-chrome-themes-2026)
-* [Chrome Mailto Link Not Working Fix](/chrome-mailto-link-not-working-fix)
+## Related Articles
+* [Chrome Keyboard Lock API: Building Immersive Fullscreen Games](/articles/chrome-keyboard-lock-api-fullscreen-games/)
+* [Chrome NFC API: Web NFC Explained](/articles/chrome-nfc-api-web-nfc-explained/)
+* [Chrome File Handling API PWA Guide](/articles/chrome-file-handling-api-pwa-guide/)

@@ -2,7 +2,7 @@
 layout: default
 title: Chrome Service Worker Caching Explained
 description: Learn how Chrome service worker caching works, how to implement it in
-  your web projects, and how it improves performance for Progressive Web Apps effectively.
+  your web projects, and how it improves performance for Progressive Web Apps.
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-service-worker-caching-explained
@@ -84,8 +84,9 @@ Chrome service worker caching represents a fundamental shift in how web applicat
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome for education classroom management](/chrome-for-education-classroom-management)
-* [Chrome for Private Browsing Tips Beyond Incognito](/chrome-for-private-browsing-tips-beyond-incognito)
-* [How to Put Chrome Portable Version on a USB Drive](/chrome-portable-version-usb-drive-how)
+## Related Articles
+* [Chrome Speculative Parsing Explained](/articles/chrome-speculative-parsing-explained/)
+* [Page Speed Insights vs Lighthouse - Which Tool Should You Use](/articles/chrome-page-speed-insights-vs-lighthouse/)
+* [How to Improve Your Chrome Lighthouse Performance Score](/articles/chrome-lighthouse-performance-score-improve/)

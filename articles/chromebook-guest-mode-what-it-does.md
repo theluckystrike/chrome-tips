@@ -11,6 +11,7 @@ categories: '[chromebook, privacy, features]'
 tags: '[chromebook, guest-mode, chromebook-privacy]'
 author: theluckystrike
 ---
+
 # Chromebook Guest Mode What It Does
 
 If you have ever handed your Chromebook to someone else and wondered whether they could see your personal files, emails, or browsing history, you will be happy to know that chromebook guest mode what it does is a question many people ask when looking for a safe way to share their device. Chromebook Guest mode is a feature built into ChromeOS that lets other people use your device without accessing your personal data. It creates a temporary session where nothing gets saved to your account, making it perfect for lending your Chromebook to a friend, family member, or colleague.

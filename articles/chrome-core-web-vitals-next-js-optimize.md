@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "How to Optimize Chrome Core Web Vitals for Next.js Applications"
-description: "Learn practical strategies to improve your Next.js website's Core Web Vitals metrics and deliver faster user experiences in Chrome."
+title: How to Optimize Chrome Core Web Vitals for Next.js Applications
+description: Learn practical strategies to improve your Next.js website's Core Web
+  Vitals metrics and deliver faster user experiences in Chrome.
 permalink: chrome-core-web-vitals-next-js-optimize
 last_modified_at: '2026-03-12'
 ---
@@ -198,8 +199,9 @@ Set up regular audits using Lighthouse CI in your continuous integration pipelin
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Network Waterfall How to Read](/chrome-network-waterfall-how-to-read)
-* [Why Is Chrome Still the Most Popular Browser in 2026?](/why-is-chrome-still-most-popular-browser)
-* [Chrome Text Size on Phone How to Change](/chrome-text-size-on-phone-how-to-change)
+## Related Articles
+* [Chrome Core Web Vitals WordPress Guide](/articles/chrome-core-web-vitals-wordpress-guide/)
+* [Chrome Core Web Vitals Check My Website](/articles/chrome-core-web-vitals-check-my-website/)
+* [Chrome Web Vitals What They Mean](/articles/chrome-web-vitals-what-they-mean/)

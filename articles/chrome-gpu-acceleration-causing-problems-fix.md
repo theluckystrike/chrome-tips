@@ -16,6 +16,7 @@ tags:
 - browser-fixes
 author: theluckystrike
 ---
+
 # Chrome GPU Acceleration Causing Problems Fix
 
 If you are dealing with chrome gpu acceleration causing problems, you are not alone. Many Chrome users experience visual glitches, crashes, freezing, and slow performance when GPU acceleration is enabled. The good news is that you can usually fix these issues by adjusting a few settings in your browser.

@@ -17,6 +17,7 @@ tags:
 - malware-removal
 author: theluckystrike
 ---
+
 # How to Fix Chrome Hijacked Homepage (Complete Guide)
 
 Have you ever opened Chrome only to discover that your homepage has changed without your permission? You're not alone. Browser hijacking is one of the most common issues Chrome users face, and it can be incredibly frustrating. One moment you're setting up your perfect browsing environment, and the next, you're stuck with some weird search engine you never wanted and a homepage you definitely didn't choose.

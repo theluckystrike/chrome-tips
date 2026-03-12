@@ -11,6 +11,7 @@ categories: '[tips, chrome]'
 tags: '[chrome, shortcuts, desktop, browser]'
 author: theluckystrike
 ---
+
 # How to Add Chrome Shortcut to Desktop
 
 If you are wondering how to add Chrome shortcut to desktop, you have come to the right place. Adding a Chrome shortcut to your desktop is one of the easiest ways to open your browser quickly without having to search for it in your start menu or dock. Whether you use Windows or Mac, this guide will walk you through the simple steps to get a Chrome shortcut on your desktop in just a few minutes.

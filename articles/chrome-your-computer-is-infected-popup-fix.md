@@ -11,6 +11,7 @@ categories: '[chrome, security, malware, popup-fix]'
 tags: '[chrome-popup, fake-alert, malware-removal, browser-security, scam]'
 author: theluckystrike
 ---
+
 # How to Fix the "Your Computer Is Infected" Fake Popup in Chrome
 
 If you're browsing the web in Chrome and suddenly see a scary popup warning that "Your computer is infected" with urgent instructions to call a number or download software—stop right there. This is one of the most common browser scams floating around the internet today, and falling for it can lead to real malware infections, stolen personal information, or even identity theft.

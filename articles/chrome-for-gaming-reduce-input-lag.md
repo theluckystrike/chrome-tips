@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-gaming-reduce-input-lag
 ---
+
 If you are searching for chrome for gaming reduce input lag, you have likely experienced that frustrating delay between pressing a key or moving your mouse and seeing the action happen on screen. Input lag can turn an exciting game into a disappointing experience, especially in fast-paced browser games where every millisecond counts. The good news is that Chrome has several settings you can adjust to minimize this delay and get your games feeling more responsive.
 
 ## What Causes Input Lag in Chrome

@@ -17,6 +17,7 @@ author: theluckystrike
 permalink: chrome-extension-match-patterns-explained
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Extension Match Patterns Explained
 
 If you have ever installed a Chrome extension and wondered how it knows which websites it can access, the answer lies in match patterns. These powerful little strings are the gatekeepers that determine which pages your extension can read and modify. Understanding match patterns is essential whether you are building your own extension or trying to troubleshoot why a particular website is not working with your favorite tools.

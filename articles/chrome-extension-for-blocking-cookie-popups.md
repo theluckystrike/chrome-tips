@@ -11,6 +11,7 @@ categories: '[privacy, security]'
 tags: '[chrome-extensions, cookie-popups, privacy, blocking]'
 author: theluckystrike
 ---
+
 # Chrome Extension for Blocking Cookie Popups
 
 Chrome extension for blocking cookie popups is something many Chrome users wish they had. You visit a website to read an article, shop for something, or check your email, and the moment the page loads, a popup appears covering half the screen. It asks you to accept cookies, manage preferences, or make choices about data collection. You click whatever gets it out of your way so you can finally see the actual content. This happens over and over again, multiple times per day, on almost every website you visit. It is frustrating, time-consuming, and it interrupts your browsing experience. Fortunately, there are ways to deal with these popups more efficiently.

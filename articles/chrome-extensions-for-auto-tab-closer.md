@@ -10,6 +10,7 @@ categories: '[productivity, tips]'
 tags: '[chrome-extensions, tabs, productivity]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Auto Tab Closer
 
 If you are searching for chrome extensions for auto tab closer, you probably know the frustration of having too many open tabs in your browser. You open a link to read later, then another, and another, until suddenly you have 50 tabs and your computer starts crawling. This is a common problem that many people face, especially when researching topics or working on projects that require multiple sources.

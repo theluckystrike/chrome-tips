@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Chrome Microphone Not Working Fix"
-description: "Is your Chrome microphone not working? Try these simple solutions to.................................................................................."
-date: "2026-03-09"
+title: Chrome Microphone Not Working Fix
+description: Is your Chrome microphone not working? Try these simple solutions to..................................................................................
+date: '2026-03-09'
 last_modified_at: '2026-03-12'
-permalink: "chrome-microphone-not-working-fix"
+permalink: chrome-microphone-not-working-fix
 ---
+
 Is your Chrome microphone not working? This is a frustrating problem that can pop up right when you need it most, whether you are jumping on a video call, recording a voice memo, or using a voice-activated web app. The good news is that most of the time the fix is straightforward and you can get your microphone working again without any technical expertise.
 
 Let me walk you through why this happens and what you can do to fix it.

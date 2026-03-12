@@ -16,6 +16,7 @@ tags:
 - video-calls
 author: theluckystrike
 ---
+
 # Chrome Google Meet Integration in Browser
 
 If you are looking for chrome google meet integration in browser, you probably want to make your video calls run more smoothly and get more done during meetings. Google Meet works directly in Chrome, which is convenient, but it can sometimes cause browser slowdown or make it harder to manage your workflow. This guide will help you understand how to get the most out of Google Meet while keeping your browser performing well.

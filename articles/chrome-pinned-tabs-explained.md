@@ -17,6 +17,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 ---
+
 # Chrome Pinned Tabs Explained
 
 If you have ever wondered what chrome pinned tabs are and whether they could help you stay more organized, you are not alone. Chrome pinned tabs explained simply are a way to keep your most important websites always accessible at the left edge of your browser, without worrying about accidentally closing them or losing them in a sea of other tabs.

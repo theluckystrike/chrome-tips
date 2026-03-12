@@ -11,6 +11,7 @@ categories: '[troubleshooting, tips]'
 tags: '[chrome-webgl, webgl-not-supported, chrome-fix, browser-tips, webgl-fix]'
 author: theluckystrike
 ---
+
 # Chrome WebGL Not Supported Fix
 
 Chrome WebGL not supported fix is exactly what you need when Chrome suddenly refuses to run 3D content on websites. You might be trying to play an online game, view an interactive map, or use a design tool that requires 3D graphics, and instead of the content loading, you get an error saying WebGL is not supported. This can be frustrating, especially when it worked fine before. The good news is that this is usually a solvable problem, and we're going to walk you through everything you need to know to get things working again.

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Chrome Serial API and USB Device Access — Complete Guide
-description: "Learn how Chrome Serial API enables direct communication with USB devices through your browser. Discover practical use cases, security considerations, and ho..."
+title: "Chrome Serial API and USB Device Access \u2014 Complete Guide"
+description: Learn how Chrome Serial API enables direct communication with USB devices
+  through your browser.
 date: '2026-01-15'
 categories:
 - development
@@ -70,8 +71,9 @@ The Chrome Serial API transforms what was once the exclusive domain of desktop a
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome right to left language support](/chrome-right-to-left-language-support)
-* [Chrome Layer Cascade CSS: A Complete Guide to Modern Style Management](/chrome-layer-cascade-css)
-* [Chrome Err Connection Timed Out Fix](/chrome-err-connection-timed-out-fix)
+## Related Articles
+* [Chrome Web Serial API Guide](/articles/chrome-web-serial-api-guide/)
+* [Chrome Web USB API Guide](/articles/chrome-web-usb-api-guide/)
+* [Chrome Badging API Explained](/articles/chrome-badging-api-explained/)

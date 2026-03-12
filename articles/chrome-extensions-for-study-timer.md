@@ -17,6 +17,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Extensions for Study Timer
 
 If you are looking for chrome extensions for study timer, you probably struggle with staying focused during long study sessions or find it hard to manage your time effectively while preparing for exams. Students everywhere face the same challenge: how to study for extended periods without losing concentration or burning out. The right study timer extensions can transform your browser into a powerful productivity tool that helps you structure your learning sessions and track your progress.

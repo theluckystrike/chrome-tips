@@ -17,6 +17,7 @@ tags:
 - memory-issues
 author: theluckystrike
 ---
+
 # Chrome Lagging on 4GB RAM Computer
 
 If your Chrome browser is lagging on a 4GB RAM computer, you are not alone. This is one of the most common complaints from users with limited memory, and the good news is that there are several practical solutions you can try right now to speed things up.

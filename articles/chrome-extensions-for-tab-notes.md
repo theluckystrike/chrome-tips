@@ -16,6 +16,7 @@ tags:
 - organization
 author: theluckystrike
 ---
+
 If you have been searching for chrome extensions for tab notes, you likely know the frustration of keeping track of important information scattered across dozens of open tabs. You open a tab to check something, find a useful piece of information, and then open another tab for a different task. Before you know it, you have twenty or thirty tabs open and no easy way to remember what each one contains. This is a common problem that Chrome users face every day, and there are extensions designed specifically to help you solve it.
 
 ## Why Keeping Track of Tab Information Is Difficult

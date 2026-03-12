@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Manage and Disable Chrome Push Notifications
-description: Learn how to manage and disable Chrome push notifications on desktop and mobile. Take control of your browser alerts with simple settings adjustments.
+description: Learn how to manage and disable Chrome push notifications on desktop
+  and mobile. Take control of your browser alerts with simple settings adjustments.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-push-notifications-manage-disable
@@ -85,8 +86,9 @@ The key is to periodically review your permissions and adjust them as your brows
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Session Restore Not Working Fix](/chrome-session-restore-not-working-fix)
-* [Chrome Scrolling is Choppy and Laggy](/chrome-scrolling-is-choppy-and-laggy)
-* [Chrome Memory Leak Detection Guide](/chrome-memory-leak-detection)
+## Related Articles
+* [Chrome Push Notifications Web Apps: Complete Guide](/articles/chrome-push-notifications-web-apps/)
+* [Chrome Notifications Won't Stop Popping Up? Here's How to Fix It](/articles/chrome-notifications-wont-stop-popping-up/)
+* [chrome site notifications stop all](/articles/chrome-site-notifications-stop-all/)

@@ -10,6 +10,7 @@ categories: '[privacy, advertising, chrome-api]'
 tags: '[chrome-topics-api, privacy-sandbox, interest-based-ads, publishers,-floc]'
 author: theluckystrike
 ---
+
 # Chrome Topics API Guide: Understanding Interest-Based Advertising in Chrome
 
 The Chrome Topics API represents one of the most significant changes to digital advertising in recent years. As browsers increasingly prioritize user privacy, Google developed this API as part of the Privacy Sandbox initiative to provide advertisers with a way to deliver relevant ads without relying on invasive tracking methods. If you are a publisher, developer, or advertiser looking to understand how this technology works and how to integrate it into your platforms, this comprehensive guide will walk you through everything you need to know.

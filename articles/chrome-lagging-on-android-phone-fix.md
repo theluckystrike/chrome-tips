@@ -18,6 +18,7 @@ tags:
 - speed
 author: theluckystrike
 ---
+
 # Chrome Lagging on Android Phone Fix
 
 Chrome lagging on Android phone fix is something many Android users search for when their browser starts feeling slow and unresponsive. If you are experiencing this issue, you are definitely not alone, and the good news is there are several things you can do to get Chrome running smoothly again on your phone.

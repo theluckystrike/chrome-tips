@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Lite Mode Discontinued Alternatives
-description: Google Chrome Lite Mode has been discontinued. Discover the best alternatives to reduce memory usage, save bandwidth, and keep your browser running smoothly.
+description: Google Chrome Lite Mode has been discontinued. Discover the best alternatives
+  to reduce memory usage, save bandwidth, and keep your browser running smoothly.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-lite-mode-discontinued-alternatives
@@ -81,8 +82,9 @@ Take some time to experiment with these alternatives. Most of them are free to t
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome for rosetta stone web tips](/chrome-for-rosetta-stone-web-tips)
-* [How to Disable Chrome Background Sync to Save Battery](/chrome-background-sync-disable-save-battery)
-* [Chrome Web Vitals Optimization Guide](/chrome-web-vitals-optimization)
+## Related Articles
+* [Chrome Lite Mode on Android: What Happened](/articles/chrome-lite-mode-on-android-what-happened/)
+* [Chrome Lite Mode Replacement for Slow Internet](/articles/chrome-lite-mode-replacement-for-slow-internet/)
+* [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead/)

@@ -11,6 +11,7 @@ categories: '[productivity, project-management, tips]'
 tags: '[chrome-extensions, asana, productivity, browser-tools]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Asana
 
 If you are searching for chrome extensions for Asana, you probably already use Asana to manage your projects and tasks, but feel like there must be a better way to integrate it into your daily workflow. Many teams rely on Asana for tracking work, but the browser tab alone does not always give you the quick access or extra features you need to stay productive throughout the day. The good news is that the right Chrome extensions can make your Asana experience much smoother and help you get more done.

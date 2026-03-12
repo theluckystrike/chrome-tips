@@ -11,6 +11,7 @@ categories: '[performance, startup]'
 tags: '[chrome-startup, speed, browser-performance]'
 author: theluckystrike
 ---
+
 # How to Reduce Chrome Startup Time
 
 If you are wondering how to reduce Chrome startup time, you have come to the right place. Waiting for Chrome to open can be frustrating, especially when you are in a hurry to get something done. The good news is that there are several things you can do to make Chrome open faster.

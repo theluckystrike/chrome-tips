@@ -11,6 +11,7 @@ categories: '[extensions, productivity]'
 tags: '[screenshot, annotate, chrome-extension, capture, productivity]'
 author: theluckystrike
 ---
+
 # Chrome Extension for Screenshot and Annotate
 
 If you have ever needed to capture something on your screen and then add notes, arrows, or highlights to it, you have probably looked for a chrome extension for screenshot and annotate tools. Whether you are creating documentation for work, sharing feedback with a team, or simply trying to explain something visual to a friend, being able to mark up your screenshots makes communication much clearer. This guide will help you understand why annotation matters and how to find the right extension for your needs.

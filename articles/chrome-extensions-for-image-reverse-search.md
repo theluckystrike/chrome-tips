@@ -10,6 +10,7 @@ categories: '[extensions, image-tools]'
 tags: '[image-search, reverse-image, chrome-extension, image-lookup]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Image Reverse Search
 
 If you have ever seen a photo online and wondered where it came from, wanted to find the original source of an image, or needed to identify something in a picture, you have probably searched for chrome extensions for image reverse search. Finding information about an image when you only have the picture itself can be frustrating. This guide explains how reverse image search works, why it is useful, and which Chrome extensions can help you track down images quickly.

@@ -18,6 +18,7 @@ tags:
 - iphone
 author: theluckystrike
 ---
+
 # Chrome Incognito on Phone How to Open
 
 If you are wondering how to open chrome incognito on phone, you are not alone. Many people want to use private browsing on their mobile devices but cannot find the option right away. The good news is that opening an incognito tab on your phone is straightforward once you know where to look, and this guide will walk you through it step by step.

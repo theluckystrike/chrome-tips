@@ -19,6 +19,7 @@ tags:
 - tracking
 author: theluckystrike
 ---
+
 If you have ever searched for chrome fenced frames privacy explained, you might have found yourself overwhelmed by technical documentation that assumes you already understand how web tracking works. This guide will break down Fenced Frames in simple terms so you can understand what they are, why they matter, and how they affect your browsing experience.
 
 ## What Are Fenced Frames

@@ -19,6 +19,7 @@ tags:
 - debugging
 author: theluckystrike
 ---
+
 # Chrome Overriding CSS in DevTools: A Practical Tutorial
 
 Have you ever wanted to change how a website looks but didn't want to edit the actual source code? Maybe you're testing a new design, debugging a layout issue, or just curious how a certain style would look. Chrome DevTools makes this incredibly easy—you can override any CSS property in real-time without touching a single line of your site's code.

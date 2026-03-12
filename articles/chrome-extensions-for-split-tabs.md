@@ -16,6 +16,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Extensions for Split Tabs
 
 If you have ever searched for chrome extensions for split tabs, you probably found yourself constantly switching back and forth between two pages in your browser. Maybe you were comparing products while shopping, following along with a tutorial while working on a project, or referencing a document while writing an email. This back-and-forth clicking gets exhausting quickly, and it breaks your concentration every time you switch.

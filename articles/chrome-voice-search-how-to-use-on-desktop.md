@@ -10,6 +10,7 @@ categories: '[features, accessibility]'
 tags: '[voice-search, chrome-settings, accessibility, hands-free]'
 author: theluckystrike
 ---
+
 # Chrome Voice Search How to Use on Desktop
 
 If you have ever wondered chrome voice search how to use on desktop, you are in the right place. Many people know that voice search works great on their phones but feel confused about how to use it on their computer. This guide will show you exactly how to enable and use voice search in Chrome on your desktop or laptop.

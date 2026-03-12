@@ -7,6 +7,7 @@ date: '2026-03-10'
 last_modified_at: '2026-03-12'
 permalink: chrome-passkeys-explained-for-beginners
 ---
+
 Chrome passkeys explained for beginners is a topic that more people are curious about as Google pushes this new way to log in. If you have heard about passkeys but are not sure what they are or why they matter, this guide will walk you through everything in plain terms.
 
 ## What Problem Are Passkeys Trying to Solve

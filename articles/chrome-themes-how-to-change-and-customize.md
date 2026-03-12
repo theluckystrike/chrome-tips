@@ -11,6 +11,7 @@ categories: '[features, customization]'
 tags: '[themes, chrome-settings, appearance, customization]'
 author: theluckystrike
 ---
+
 # Chrome Themes How to Change and Customize
 
 If you have ever searched for chrome themes how to change and customize, you are looking for ways to make your browser feel more personal. Chrome offers many ways to change its appearance beyond the default look. This guide will walk you through every method to customize your Chrome browser with themes, colors, and other visual options.

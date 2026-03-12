@@ -10,6 +10,7 @@ categories: '[features, connectivity]'
 tags: '[bluetooth, web-bluetooth, chrome-features, wireless]'
 author: theluckystrike
 ---
+
 # Chrome Web Bluetooth How to Use
 
 If you have ever searched for chrome web bluetooth how to use, you probably wanted to connect your browser directly to Bluetooth devices like headphones, speakers, fitness trackers, or smart home gadgets. This feature opens up a convenient way to interact with wireless devices without needing to install extra software. Let me walk you through everything you need to know about using Web Bluetooth in Chrome.

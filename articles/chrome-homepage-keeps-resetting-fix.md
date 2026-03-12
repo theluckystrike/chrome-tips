@@ -17,6 +17,7 @@ tags:
 - settings
 author: theluckystrike
 ---
+
 # Chrome Homepage Keeps Resetting Fix
 
 Does your Chrome homepage keep resetting no matter how many times you change it? This is a frustrating issue that many Chrome users encounter. You set your preferred homepage, go about your browsing, and then suddenly Chrome opens to a different page than the one you chose. It can feel like something is fighting against you, but the good news is there are clear reasons this happens and straightforward ways to fix it.

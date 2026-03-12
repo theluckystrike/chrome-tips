@@ -19,6 +19,7 @@ tags:
 - styling
 author: theluckystrike
 ---
+
 # How to Use the Chrome Color Mix Function in CSS
 
 If you have ever searched for chrome color mix function css, you might have been looking for a way to blend colors together without using complicated color codes or external tools. The good news is that modern browsers like Chrome now support a powerful CSS feature called color-mix that lets you combine two colors directly in your stylesheet. This opens up new possibilities for web designers and anyone who wants more flexibility when working with colors on their websites.

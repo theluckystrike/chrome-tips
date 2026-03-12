@@ -10,6 +10,7 @@ categories: '[extensions, image-tools]'
 tags: '[image-search, reverse-image, chrome-extension, find-images]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Similar Image Finder
 
 If you have ever tried searching for a product, trying to identify a photo you found online, or wanted to find higher quality versions of an image, you have probably searched for chrome extensions for similar image finder. Finding images that match or resemble one you already have can be surprisingly difficult without the right tools. This guide explains how reverse image search works, why it matters, and which Chrome extensions can help you find similar images quickly and easily.

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "chrome how to block specific website notifications"
-description: "Stop annoying alerts from specific sites in Chrome. Learn the simple.................................................................................."
-date: "2026-03-09"
+title: chrome how to block specific website notifications
+description: Stop annoying alerts from specific sites in Chrome. Learn the simple..................................................................................
+date: '2026-03-09'
 last_modified_at: '2026-03-12'
-permalink: "chrome-how-to-block-specific-website-notifications"
+permalink: chrome-how-to-block-specific-website-notifications
 ---
+
 Chrome how to block specific website notifications is something every Chrome user should know how to do. Those popup requests asking to "Allow notifications" seem harmless enough when you first encounter them, but over time you might find yourself buried under alerts from dozens of websites you barely remember visiting. Maybe that news site you checked once is constantly interrupting your workday with breaking news you never asked for, or that online store you purchased from once keeps sending you deals you do not want. The good news is that Chrome gives you full control to block notifications from any website without turning off all alerts completely.
 
 ## Why Websites Send You Notifications

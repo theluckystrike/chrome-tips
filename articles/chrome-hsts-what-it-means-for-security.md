@@ -8,6 +8,7 @@ date: '2026-03-10'
 last_modified_at: '2026-03-12'
 permalink: chrome-hsts-what-it-means-for-security
 ---
+
 If you have ever seen a message in Chrome about a site not being secure due to HSTS, you might wonder what this means and whether your data is safe. Chrome HSTS what it means for security is actually a good thing for your protection, even though it can be confusing when you encounter it.
 
 ## What Exactly Is HSTS

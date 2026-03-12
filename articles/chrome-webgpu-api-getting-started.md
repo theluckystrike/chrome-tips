@@ -11,6 +11,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 # Chrome WebGPU API Getting Started Guide
 
 The web development landscape has evolved dramatically in recent years, and one of the most exciting advancements is the WebGPU API. This powerful technology brings GPU acceleration directly to web applications, enabling developers to create stunning graphics, run complex simulations, and process massive datasets with unprecedented performance. If you have been curious about WebGPU but did not know where to start, this guide will walk you through the fundamentals and help you build your first WebGPU application in Chrome.

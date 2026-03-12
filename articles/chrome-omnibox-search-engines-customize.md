@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Omnibox Search Engines Customize
-description: Learn how to customize search engines in Chrome omnibox to boost your productivity. Add, edit, and organize custom search shortcuts for faster browsing.
+description: Learn how to customize search engines in Chrome omnibox to boost your
+  productivity. Add, edit, and organize custom search shortcuts for faster browsing.
 keywords: chrome omnibox search engines customize
 date: 2025-01-15
 last_modified_at: '2026-03-12'
@@ -86,8 +87,9 @@ Start with your top five most-visited sites, add their search engines with memor
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Video Playback Stuttering Fix: A Practical Guide for Slow Computers](/chrome-video-playback-stuttering-fix)
-* [Chrome Multiple Profiles How to Switch Fast](/chrome-multiple-profiles-how-to-switch-fast)
-* [chrome offline google docs how to enable](/chrome-offline-google-docs-how-to-enable)
+## Related Articles
+* [Chrome Omnibox Hidden Features](/articles/chrome-omnibox-hidden-features/)
+* [Chrome for Managing Saved Addresses](/articles/chrome-for-managing-saved-addresses/)
+* [chrome tab groups advanced tips](/articles/chrome-tab-groups-advanced-tips/)

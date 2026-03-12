@@ -18,6 +18,7 @@ tags:
 - browser-themes
 author: theluckystrike
 ---
+
 # Chrome Material You Design on Desktop
 
 If you have ever searched for chrome material you design on desktop, you probably want to bring the modern Material You look to your desktop browser. Google has been rolling out its Material You design language across its products, and Chrome on desktop is no exception. This guide will help you understand how to get that fresh, colorful Material You aesthetic on your desktop Chrome experience.

@@ -11,6 +11,7 @@ categories: '[performance, troubleshooting]'
 tags: '[chrome-slow, browser-speed, computer-performance, chrome-fixes]'
 author: theluckystrike
 ---
+
 # Why Is Chrome So Slow on My Computer?
 
 Chrome running slowly can ruin your browsing experience. Whether pages take forever to load, scrolling is choppy, or your computer feels sluggish when Chrome is open, there are usually clear reasons and solutions.

@@ -19,6 +19,7 @@ tags:
 - progressive-web-apps
 author: theluckystrike
 ---
+
 # Chrome Offline First App Design Explained
 
 If you are searching for chrome offline first app design explained, you probably want to understand why some applications keep working even when your internet connection disappears. This is a common question as more people rely on web applications for work and daily tasks. In this guide, I will walk you through what offline first design means, how Chrome supports it, and why it can make your browsing experience much better.

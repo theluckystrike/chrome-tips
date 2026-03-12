@@ -11,6 +11,7 @@ categories: '[encoding, web-development]'
 tags: '[encoding, text-encoder, text-decoder, chrome-api, web-api]'
 author: theluckystrike
 ---
+
 # Chrome Encoding API Text Encoder Decoder
 
 If you have ever wondered how web browsers handle the text you type and read online, the Chrome Encoding API Text Encoder and TextDecoder tools are working behind the scenes to make it happen. The chrome encoding api text encoder decoder is a set of built-in tools that help websites process and convert text between different formats. While this might sound like something only developers would care about, understanding these tools can help you appreciate how smoothly your browser handles text in everyday browsing.

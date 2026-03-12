@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Storage Partitioning Explained
-description: Learn how Chrome storage partitioning works and what it means for your browsing privacy. A clear guide to understanding this important browser feature.
+description: Learn how Chrome storage partitioning works and what it means for your
+  browsing privacy. A clear guide to understanding this important browser feature.
 date: 2026-03-12
 categories:
 - privacy
@@ -79,8 +80,9 @@ Understanding these changes helps you navigate the modern web more effectively. 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Err Connection Timed Out Fix](/chrome-err-connection-timed-out-fix)
-* [Chrome Extensions for Regex Tester](/chrome-extensions-for-regex-tester)
-* [chrome for mailchimp web app tips](/chrome-for-mailchimp-web-app-tips)
+## Related Articles
+* [Chrome Storage Partitioning: What Changed and Why It Matters](/articles/chrome-storage-partitioning-what-changed/)
+* [Chrome Tracking Prevention Explained Simply](/articles/chrome-tracking-prevention-explained-simply/)
+* [Chrome Shared Storage and Cross-Site Data Explained](/articles/chrome-shared-storage-cross-site-data/)

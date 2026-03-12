@@ -10,6 +10,7 @@ categories: '[development, mobile, chrome, web-api]'
 tags: '[chrome-vibration-api, mobile-web, haptic-feedback, web-development, javascript]'
 author: theluckystrike
 ---
+
 # Chrome Vibration API: A Complete Guide for Mobile Web Developers
 
 Have you ever wanted to add haptic feedback to your mobile web application? Perhaps you want to give users a tactile confirmation when they tap a button, or create a more immersive experience in a game. The **Chrome Vibration API** makes this possible directly from the browser, without requiring any native apps or plugins.

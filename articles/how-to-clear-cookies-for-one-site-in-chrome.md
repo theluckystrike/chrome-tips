@@ -11,6 +11,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 # How to Clear Cookies for One Site in Chrome
 
 If you are searching for how to clear cookies for one site in Chrome, you probably have a specific website that is not behaving properly. Maybe you cannot log in, the page looks broken, or the site keeps showing old information. You do not need to clear all your browser data just to fix one website. Chrome lets you target individual sites and remove only their cookies, which is exactly what you need when one page is causing problems but everything else works fine.

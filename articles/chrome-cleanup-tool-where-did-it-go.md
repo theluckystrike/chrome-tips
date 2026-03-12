@@ -18,6 +18,7 @@ tags:
 - memory-optimization
 author: theluckystrike
 ---
+
 # Chrome Cleanup Tool: Where Did It Go?
 
 If you have searched for the **chrome cleanup tool where did it go**, you are not alone. Many Chrome users have been looking for this feature wondering why it suddenly disappeared from their browser. The good news is that Chrome still offers ways to clean up your browser, and there are even better tools available now, especially if you are dealing with a slow computer or limited RAM.

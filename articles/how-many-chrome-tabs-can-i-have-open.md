@@ -11,6 +11,7 @@ categories: '[troubleshooting, tips]'
 tags: '[chrome-tabs, tab-limit, browser-performance, chrome-tips]'
 author: theluckystrike
 ---
+
 # How Many Chrome Tabs Can I Have Open
 
 If you are wondering how many Chrome tabs you can have open at once without slowing down your computer, you are not alone. This is one of the most common questions Chrome users ask, especially those who like to keep multiple pages handy for work or research. The answer is not as straightforward as you might expect, because Chrome itself does not set a hard limit on tabs, but your computer definitely does.

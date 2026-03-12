@@ -17,6 +17,7 @@ tags:
 - progressive-web-app
 author: theluckystrike
 ---
+
 Chrome notification badge on PWA how to enable is a common question from users who have installed web apps and want to see alerts on their desktop. When you install a PWA, or progressive web app, in Chrome, you might expect it to work just like a regular app on your computer. However, getting notification badges to appear requires a few specific steps that are not always obvious at first.
 
 Notification badges are those small numbers or dots that appear on app icons to tell you something needs attention. You see them on your phone apps all the time, and now you can have the same experience with web apps installed in Chrome. The good news is that Chrome does support this feature, but you need to make sure both the website and your browser are set up correctly.

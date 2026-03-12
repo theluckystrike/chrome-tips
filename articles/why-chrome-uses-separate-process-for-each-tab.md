@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Why Chrome Uses Separate Process for Each Tab"
-description: "Discover the engineering decisions behind Chrome's multi-process architecture and how it improves stability, security, and performance."
+title: Why Chrome Uses Separate Process for Each Tab
+description: Discover the engineering decisions behind Chrome's multi-process architecture
+  and how it improves stability, security, and performance.
 permalink: why-chrome-uses-separate-process-for-each-tab
 last_modified_at: '2026-03-12'
 ---
@@ -57,8 +58,9 @@ Understanding this architecture helps explain why Chrome often uses more memory 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Webstore Best Hidden Gems 2026](/chrome-webstore-best-hidden-gems-2026)
-* [Chrome User Data Folder Where Is It](/chrome-user-data-folder-where-is-it)
-* [Chrome VPN Extension Free Unlimited Best](/chrome-vpn-extension-free-unlimited-best)
+## Related Articles
+* [Chrome Process Per Tab Why and How to Change](/articles/chrome-process-per-tab-why-and-how-to-change/)
+* [Why Does Each Chrome Tab Use So Much Memory](/articles/why-does-each-chrome-tab-use-so-much-memory/)
+* [Chrome Tab Management Tips for Productivity](/articles/chrome-tab-management-tips-for-productivity/)

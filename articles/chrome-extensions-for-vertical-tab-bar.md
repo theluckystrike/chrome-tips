@@ -16,6 +16,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Extensions for Vertical Tab Bar
 
 If you have ever searched for chrome extensions for vertical tab bar, you probably know the frustration of running out of horizontal space in your browser. When you have many tabs open, the tab bar becomes cramped and difficult to navigate. You squint at tiny tab previews, lose track of which tab is which, and sometimes accidentally click the wrong one. This is a common problem for anyone who works with multiple pages at once, and there are practical ways to solve it.

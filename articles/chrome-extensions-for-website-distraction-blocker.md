@@ -16,6 +16,7 @@ tags:
 - focus
 author: theluckystrike
 ---
+
 # Chrome Extensions for Website Distraction Blocker
 
 If you find yourself constantly checking social media, getting lost in endless YouTube recommendations, or struggling to finish tasks because of website interruptions, you have likely searched for chrome extensions for website distraction blocker. The internet is designed to capture and hold your attention, making it harder than ever to stay focused on what matters. This guide will help you understand why digital distractions have become such a challenge and what you can do about it.

@@ -10,6 +10,7 @@ categories: '[extensions, productivity]'
 tags: '[chrome-extensions, new-tab, dashboard]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for New Tab Dashboard
 
 If you are searching for chrome extensions for new tab dashboard, you likely want to make the page you see every time you open a new tab more useful. Most people open dozens of new tabs throughout the day, and that first moment when a new tab appears is a perfect opportunity to set yourself up for success. By default, Chrome shows you a basic search bar and maybe your most visited sites, but you can do so much more with the right extensions.

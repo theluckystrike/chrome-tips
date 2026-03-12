@@ -10,6 +10,7 @@ categories: '[features, connectivity]'
 tags: '[web-serial, serial-api, chrome-features, hardware]'
 author: theluckystrike
 ---
+
 # Chrome Web Serial API Explained
 
 If you have ever searched for chrome web serial api explained, you are probably curious about how your browser can connect to hardware devices like Arduino boards, microcontrollers, or other serial equipment. This powerful feature opens up exciting possibilities for web developers and hobbyists alike. Let me break down everything you need to know about the Web Serial API in Chrome.

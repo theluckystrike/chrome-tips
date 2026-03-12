@@ -10,6 +10,7 @@ categories: '[browser, settings, privacy]'
 tags: '[chrome-cookies, chrome-settings, browser-cookies, site-permissions]'
 author: theluckystrike
 ---
+
 # Chrome Enable Cookies for One Site How to
 
 If you have been searching for chrome enable cookies for one site how to, you probably encountered a website that will not work properly because Chrome is blocking its cookies. This is a frustrating situation because you want to use that specific site, but you do not necessarily want to enable cookies for every website you visit. Fortunately, Chrome gives you the ability to allow cookies for individual sites while keeping your browser settings restrictive for everything else. This guide will walk you through exactly how to do that.

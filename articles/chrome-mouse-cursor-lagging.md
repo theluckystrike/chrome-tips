@@ -18,6 +18,7 @@ tags:
 - browser-speed
 author: theluckystrike
 ---
+
 # Chrome Mouse Cursor Lagging Fix
 
 That annoying moment when you move your mouse and the cursor on screen feels like it's dragging through mud—it skips, stutters, or just refuses to keep up with your hand. If you're using Chrome on a computer with limited RAM or an older processor, this cursor lag can turn simple tasks into frustration. The good news? You don't need a new computer to fix this. Let's walk through practical solutions that actually work.

@@ -19,6 +19,7 @@ tags:
 - tracking
 author: theluckystrike
 ---
+
 If you have ever searched for chrome protected audience api explained, you probably found yourself confused by a lot of technical terms that did not make much sense. This guide will break it down in plain language so you can understand exactly what the Protected Audience API is, why it exists, and what it means for your browsing experience.
 
 ## What Is the Protected Audience API

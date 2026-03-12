@@ -10,6 +10,7 @@ categories: '[browser-tips, web-development]'
 tags: '[developer-tools, chrome, beginners, troubleshooting]'
 author: theluckystrike
 ---
+
 # How to Use Chrome DevTools for Beginners
 
 If you are searching for how to use Chrome DevTools for beginners, you might have heard that Chrome has some hidden superpowers but feel unsure where to start. Chrome Developer Tools, often called DevTools, is a powerful set of tools built directly into your browser that can help you understand how websites work, fix display problems, and troubleshoot issues without any coding knowledge.

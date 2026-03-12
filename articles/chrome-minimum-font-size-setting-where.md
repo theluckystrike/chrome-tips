@@ -4,7 +4,7 @@ title: Chrome Minimum Font Size Setting Where to Find It
 description: "Learn where to find and configure the chrome minimum font size setting................................................................................"
   in your browser to improve readability.
 date: 2026-03-12
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-minimum-font-size-setting-where
 categories:
 - settings
@@ -17,6 +17,7 @@ tags:
 - readability
 author: theluckystrike
 ---
+
 # Chrome Minimum Font Size Setting Where to Find It
 
 If you've ever struggled to read tiny text on websites or found yourself squinting at small fonts while browsing, the **chrome minimum font size setting** is exactly what you need. This handy feature allows you to set a minimum text size that Chrome will use when rendering web pages, ensuring that no matter what font size a website tries to display, you'll never see text smaller than your chosen threshold. In this guide, I'll show you exactly where to find this setting and how to configure it to make your browsing experience more comfortable.

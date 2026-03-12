@@ -10,6 +10,7 @@ categories: '[troubleshooting, media]'
 tags: '[chrome-web-codec, video-processing, browser-media, chrome-fix]'
 author: theluckystrike
 ---
+
 # Chrome Web Codec API Video Processing
 
 If you have ever tried to process videos directly in your browser and encountered errors or slow performance, you might have run into issues related to Chrome Web Codec API video processing. This powerful browser feature enables websites to encode, decode, and transform video and audio files without needing external software, but it can sometimes cause frustration when things do not work as expected.

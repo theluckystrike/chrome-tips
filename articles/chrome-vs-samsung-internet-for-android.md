@@ -11,6 +11,7 @@ categories: '[comparison, mobile]'
 tags: '[chrome-android, samsung-internet, mobile-browsers, android-tips]'
 author: theluckystrike
 ---
+
 # Chrome vs Samsung Internet for Android
 
 # Chrome vs Samsung Internet for Android

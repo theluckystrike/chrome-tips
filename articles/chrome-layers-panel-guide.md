@@ -19,6 +19,7 @@ tags:
 - compositing
 author: theluckystrike
 ---
+
 # Chrome Layers Panel Guide
 
 If you have ever wondered why your web page feels sluggish or why certain animations are not running as smoothly as you expected, the Chrome Layers Panel in DevTools might be exactly what you need to diagnose the problem. This powerful but often overlooked tool gives you a window into how Chrome renders your page, showing you the compositing layers, paint operations, and GPU memory usage that affect performance. Understanding how to use the Layers Panel can help you create faster, more responsive web experiences, and it is a skill that every web developer should have in their toolkit.

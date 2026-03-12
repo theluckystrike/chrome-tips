@@ -10,6 +10,7 @@ categories: '[extensions, development]'
 tags: '[chrome-extension, rejection, developer, guidelines]'
 author: theluckystrike
 ---
+
 # Chrome Extension Rejected Common Reasons Fix
 
 Having your Chrome extension rejected can be frustrating, especially when you have invested significant time and effort into development. Understanding why Chrome extensions get rejected and knowing how to fix these issues is essential for any extension developer. This guide covers the most common reasons for rejection and provides practical solutions to help you get your extension approved.

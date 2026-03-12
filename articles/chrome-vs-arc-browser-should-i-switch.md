@@ -11,6 +11,7 @@ categories: '[browsers, chrome, arc]'
 tags: '[chrome, arc-browser, browser-comparison, browser-switch, browser]'
 author: theluckystrike
 ---
+
 # Chrome vs Arc Browser: Should I Switch?
 
 If you have been using Google Chrome for years, you might have heard about Arc Browser and wondered: **Chrome vs Arc Browser — should I switch?** This is a question many power users are asking as Arc gains popularity for its fresh take on web browsing. Let us break down what each browser offers, where they differ, and help you figure out which one makes sense for your workflow.

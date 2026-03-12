@@ -18,6 +18,7 @@ tags:
 - browser-productivity
 author: theluckystrike
 ---
+
 # Chrome Custom Search Engines Guide
 
 If you use Chrome as your primary browser, you are sitting on a powerful productivity tool that most people never fully utilize. Custom search engines in Chrome allow you to search any website directly from your address bar, create quick shortcuts for frequently visited sites, and streamline your workflow in ways that can save you hours every week. This comprehensive guide will walk you through everything you need to know about Chrome custom search engines, from basic setup to advanced techniques that will transform how you browse the internet.

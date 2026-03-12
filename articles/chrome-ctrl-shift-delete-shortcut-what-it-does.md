@@ -16,6 +16,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-ctrl-shift-delete-shortcut-what-it-does
 ---
+
 # Chrome Ctrl Shift Delete Shortcut What It Does
 
 If you are searching for chrome ctrl shift delete shortcut what it does, you have probably heard about this handy keyboard shortcut but are not quite sure what it does or how to use it. Let me explain everything you need to know.

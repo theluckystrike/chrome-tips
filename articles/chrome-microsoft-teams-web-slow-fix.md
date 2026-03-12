@@ -18,6 +18,7 @@ tags:
 - performance
 author: theluckystrike
 ---
+
 # Chrome Microsoft Teams Web Slow Fix
 
 Using Microsoft Teams through Chrome should be seamless, but many users experience frustrating slowdowns, lag, and freezing. If Teams feels sluggish in your browser, there are several practical steps you can take to restore smooth performance.

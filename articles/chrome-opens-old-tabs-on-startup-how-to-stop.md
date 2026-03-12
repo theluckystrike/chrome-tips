@@ -17,6 +17,7 @@ tags:
 - tab-management
 author: theluckystrike
 ---
+
 # Chrome Opens Old Tabs on Startup How to Stop
 
 Chrome opens old tabs on startup how to stop is a question that many Chrome users find themselves asking after an update or a change in their browser settings. You might expect Chrome to open with a clean new tab, but instead you are greeted by a dozen tabs from your last browsing session. This can be frustrating, especially when you want to start fresh or when those old tabs slow down your browser. The good news is that this behavior is controlled by a simple setting, and you can change it in just a few clicks.

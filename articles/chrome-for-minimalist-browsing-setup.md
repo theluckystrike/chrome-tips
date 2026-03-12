@@ -17,6 +17,7 @@ tags:
 - clean-browsing
 author: theluckystrike
 ---
+
 # Chrome for Minimalist Browsing Setup
 
 Setting up Chrome for minimalist browsing is about removing distractions and keeping only what serves you. If you are searching for chrome for minimalist browsing setup, this guide will walk you through creating a cleaner, faster browser that helps you focus on what matters.

@@ -10,6 +10,7 @@ categories: '[productivity, profiles]'
 tags: '[chrome-profiles, work-profile, personal-profile, chrome-tips]'
 author: theluckystrike
 ---
+
 # Chrome Work Profile vs Personal Profile Tips
 
 If you have ever searched for chrome work profile vs personal profile tips, you probably have a good reason. Maybe you have accidentally sent a personal link to a work chat, or you have trouble finding your bookmarks because they are mixed with work-related ones. Or perhaps your browser feels cluttered because everything is piled into one place. You are not alone, and the good news is that Chrome has a built-in solution that is easier to set up than you might think.

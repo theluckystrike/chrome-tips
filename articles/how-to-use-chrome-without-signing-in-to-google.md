@@ -11,6 +11,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 # How to Use Chrome Without Signing In to Google
 
 How to use Chrome without signing in to Google is a question many people are asking as concerns about online privacy continue to grow. Whether you want to keep your browsing separate from your Google account, avoid targeted ads, or simply prefer a more private experience, you have options. The good news is that you can use Chrome comfortably without ever signing in, and in this guide I will walk you through why you might want to do this and exactly how to do it.

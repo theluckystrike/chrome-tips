@@ -16,6 +16,7 @@ tags:
 - browser-tools
 author: theluckystrike
 ---
+
 # Chrome Extensions for Web Annotation
 
 If you are searching for chrome extensions for web annotation, you likely need a way to mark up and organize information from websites. Whether you are researching for a project, studying for an exam, or collecting ideas for work, being able to annotate web pages makes the process much easier. Chrome extensions for web annotation let you highlight text, add notes, and save your thoughts directly on the pages you visit.

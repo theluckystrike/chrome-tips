@@ -18,6 +18,7 @@ tags:
 - troubleshooting
 author: theluckystrike
 ---
+
 # Chrome Google Search Not Working Fix
 
 If you are wondering why Chrome Google search is not working, you are not alone. Many Chrome users experience this issue where the search bar either fails to load results, shows an error, or simply does not respond when you type a query. The good news is that this problem is usually easy to fix, and in most cases you can get your search working again within a few minutes.

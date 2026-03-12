@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Autofill Slow Fix
-description: "Chrome autofill slow can be frustrating. Learn the common causes and proven solutions to speed up autofill in your browser. Optimize Chrome today....."
+description: Chrome autofill slow can be frustrating. Learn the common causes and
+  proven solutions to speed up autofill in your browser. Optimize Chrome today.
 date: 2025-03-12
 categories:
 - troubleshooting
@@ -73,8 +74,9 @@ Slow Chrome autofill doesn't have to be a permanent frustration. By understandin
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome for Xero Accounting Web Tips](/chrome-for-xero-accounting-web-tips)
-* [how to make chrome look aesthetic](/how-to-make-chrome-look-aesthetic)
-* [Chrome Extensions For Citation Generator](//articles/chrome-extensions-for-citation-generator/)
+## Related Articles
+* [Chrome Autofill Not Working Fix](/articles/chrome-autofill-not-working-fix/)
+* [Chrome Autofill Wrong Address How to Fix](/articles/chrome-autofill-wrong-address-how-to-fix/)
+* [Chrome Copy Paste Not Working Fix](/articles/chrome-copy-paste-not-working-fix/)

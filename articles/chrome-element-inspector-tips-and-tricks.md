@@ -11,6 +11,7 @@ categories: '[tutorials, development, tools]'
 tags: '[chrome, browser, developer-tools, web-development]'
 author: theluckystrike
 ---
+
 # Chrome Element Inspector Tips and Tricks
 
 Chrome element inspector tips and tricks are something every web user should know about, whether you are a developer or just curious about how websites work. The Element Inspector is a powerful tool built into Chrome that lets you peek behind the curtain of any web page. You can see how pages are structured, test changes without affecting the actual site, and debug problems when something looks wrong.

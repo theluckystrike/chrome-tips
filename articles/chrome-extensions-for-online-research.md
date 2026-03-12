@@ -11,6 +11,7 @@ categories: '[productivity, tips]'
 tags: '[chrome-extensions, research, browser-tools]'
 author: theluckystrike
 ---
+
 # Best Chrome Extensions for Online Research
 
 If you spend any time researching topics online—whether for work, school, or personal projects—you know how quickly things can get overwhelming. You open dozens of tabs, bookmark interesting articles, forget where you found that crucial fact, and end up with a mess of disorganized information. The good news is that the right Chrome extensions can transform your research workflow from chaotic to streamlined.

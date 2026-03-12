@@ -10,6 +10,7 @@ categories: '[extensions, productivity]'
 tags: '[screen-recording, chrome-extension, free, video]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Screen Recording Free
 
 If you have ever needed to record your screen in Chrome, you have probably searched for chrome extensions for screen recording free options. Whether it is for creating tutorials, saving online meetings, capturing gameplay, or documenting bugs, screen recording has become an essential tool for many people. This guide will help you find the best free solutions that work directly in your browser.

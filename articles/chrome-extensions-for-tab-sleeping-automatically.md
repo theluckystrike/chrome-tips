@@ -17,6 +17,7 @@ tags:
 - browser-performance
 author: theluckystrike
 ---
+
 If you have been searching for chrome extensions for tab sleeping automatically, you likely already know the frustration. Your Chrome browser has become sluggish, your computer feels slower than it should be, and opening new tabs seems to take forever. The root cause is almost always too many tabs running in the background, consuming your computer's memory and processing power without you realizing it.
 
 This is an incredibly common problem. Modern web browsing often involves keeping dozens of tabs open for reference, research, or simply because you have not gotten around to reading something yet. Each of those tabs continues running even when you are not looking at them, slowly draining your system resources.

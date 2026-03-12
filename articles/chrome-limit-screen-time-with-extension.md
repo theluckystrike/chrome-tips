@@ -17,6 +17,7 @@ tags:
 - focus
 author: theluckystrike
 ---
+
 # How to Limit Screen Time in Chrome with Extensions
 
 If you find yourself spending too much time browsing the web or getting distracted by social media, you are not alone. Many people struggle with managing their screen time, especially when using Google Chrome for both work and personal tasks. The good news is that Chrome extensions can help you take control of your browsing habits and limit the time you spend online.

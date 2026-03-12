@@ -7,6 +7,7 @@ date: '2026-03-09'
 last_modified_at: '2026-03-12'
 permalink: chrome-64-bit-vs-32-bit-how-to-check
 ---
+
 Chrome comes in 64-bit and 32-bit builds. The 64-bit version can address more than 4 GB of RAM per process, handles security features like ASLR more effectively, and runs roughly 25% faster on JavaScript benchmarks according to Google's own testing when they shipped 64-bit Chrome in 2014. If you are on a computer made after 2010, you almost certainly have a 64-bit CPU and should be running the 64-bit build.
 
 ## How to Check Your Chrome Version (30 Seconds)

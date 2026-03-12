@@ -10,6 +10,7 @@ categories: '[performance, extensions, troubleshooting]'
 tags: '[chrome-extensions, memory-usage, chrome-performance, fix-slow-chrome]'
 author: theluckystrike
 ---
+
 # Chrome Extension Using Too Much Memory? Here's How to Find the Culprit
 
 If you have ever wondered "why is my chrome extension using too much memory," you are not alone. Many Chrome users experience slow browser performance without realizing that extensions are often the real cause. The good news is that Chrome makes it relatively easy to find out which extension is using too much memory, and once you identify the problem, you can take steps to fix it.

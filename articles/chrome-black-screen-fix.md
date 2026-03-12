@@ -16,6 +16,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-black-screen-fix
 ---
+
 # Chrome Black Screen Fix
 
 Opening Chrome only to see a black screen can be frustrating. You might see nothing at all, or maybe just a black rectangle where your tabs should be. This happens to many Chrome users, and the good news is that it's usually fixable. Let me walk you through what causes this and how you can get Chrome working again.

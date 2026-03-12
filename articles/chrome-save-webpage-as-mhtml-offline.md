@@ -19,6 +19,7 @@ author: theluckystrike
 permalink: chrome-save-webpage-as-mhtml-offline
 last_modified_at: '2026-03-12'
 ---
+
 # How to Save Webpages as MHTML Files in Chrome for Offline Viewing
 
 Have you ever needed to save a webpage to view it later without an internet connection? Maybe you're preparing for a flight, heading to an area with poor connectivity, or want to archive important information for reference. MHTML (MIME HTML) format is the perfect solution for this—it packages a webpage and all its resources (images, stylesheets, scripts) into a single file that you can open anywhere, anytime.

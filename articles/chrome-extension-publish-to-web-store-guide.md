@@ -11,6 +11,7 @@ categories: '[chrome-extensions, developer-tools]'
 tags: '[chrome-extension, publish, chrome-web-store, extension-development]'
 author: theluckystrike
 ---
+
 # Chrome Extension Publish to Web Store Guide
 
 Publishing your Chrome extension to the Web Store is an exciting milestone that puts your creation in front of millions of users. Whether you have built a productivity tool like Tab Suspender Pro or a creative extension, the process requires careful preparation and attention to detail. This guide walks you through every step, from setting up your developer account to launching your extension successfully.

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome User Data Directory Explained
-description: "Understand what the Chrome user data directory is, where it is located, and why it matters for your browsing experience, extensions, and settings....."
+description: Understand what the Chrome user data directory is, where it is located,
+  and why it matters for your browsing experience, extensions, and settings.
 date: 2025-02-21
 categories:
 - chrome
@@ -71,8 +72,9 @@ Whether you need to back up your data, resolve performance issues, or manage mul
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
-* [Chrome for Coursera Web App Optimization](/chrome-for-coursera-web-app-optimization)
-* [Chrome Notifications How to Stop Them](/chrome-notifications-how-to-stop-them)
+## Related Articles
+* [Chrome Attribution Reporting API Explained](/articles/chrome-attribution-reporting-api-explained/)
+* [Chrome Default Apps Settings: A Complete Guide](/articles/chrome-default-apps-settings/)
+* [Chrome Android Desktop Mode How to Enable](/articles/chrome-android-desktop-mode-how-to-enable/)

@@ -19,6 +19,7 @@ author: theluckystrike
 permalink: chrome-site-isolation-enable-extra-security
 last_modified_at: '2026-03-12'
 ---
+
 # How to Enable Chrome Site Isolation for Extra Security
 
 If you use Chrome for browsing, you have likely heard about Site Isolation, but you might not be sure what it does or how to enable it. This feature is one of Chrome's most important security protections, yet many users never turn it on. In this guide, I'll explain what Site Isolation does, why it matters for your online safety, and exactly how to enable it.

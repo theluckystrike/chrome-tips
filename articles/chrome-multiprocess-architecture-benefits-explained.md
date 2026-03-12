@@ -1,10 +1,21 @@
 ---
 layout: default
-title: "Chrome Multiprocess Architecture Benefits Explained"
-description: "Discover the key benefits of Chrome's multiprocess architecture, including improved stability, enhanced security, better performance, and how it affects your..."
+title: Chrome Multiprocess Architecture Benefits Explained
+description: Discover the key benefits of Chrome's multiprocess architecture, including
+  improved stability, enhanced security, better performance, and how it affects your...
 date: 2026-03-12
-categories: [chrome, processes, architecture, performance]
-tags: [chrome, multiprocess, architecture, benefits, stability, security]
+categories:
+- chrome
+- processes
+- architecture
+- performance
+tags:
+- chrome
+- multiprocess
+- architecture
+- benefits
+- stability
+- security
 author: theluckystrike
 permalink: chrome-multiprocess-architecture-benefits-explained
 last_modified_at: '2026-03-12'
@@ -59,8 +70,9 @@ Understanding how Chrome manages processes helps you use the browser more effect
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome for Zen Mode Extensions](/chrome-for-zen-mode-extensions)
-* [How to Fix Chrome ERR_NAME_NOT_RESOLVED Error](/chrome-err-name-not-resolved-fix)
-* [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+## Related Articles
+* [chrome multiprocess architecture explained](/articles/chrome-multiprocess-architecture-explained/)
+* [chrome browser process vs tab process explained](/articles/chrome-browser-process-vs-tab-process-explained/)
+* [Chrome Encrypted DNS Explained for Beginners](/articles/chrome-encrypted-dns-explained-for-beginners/)

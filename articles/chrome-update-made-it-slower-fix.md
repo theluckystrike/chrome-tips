@@ -10,6 +10,7 @@ categories: '[performance, troubleshooting]'
 tags: '[chrome-update, performance-regression, browser-fix, chrome-slow-after-update]'
 author: theluckystrike
 ---
+
 # Chrome Update Made It Slower? Here's How to Fix It
 
 You didn't change anything. Chrome updated itself, and now everything feels slower. This happens more often than Google would like to admit, and it's understandably frustrating. Let's fix it.

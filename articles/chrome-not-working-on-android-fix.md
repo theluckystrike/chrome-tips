@@ -17,6 +17,7 @@ tags:
 - chrome-fix
 author: theluckystrike
 ---
+
 # Chrome Not Working on Android Fix
 
 If Chrome is not working on your Android phone, you are not alone. Many Android users experience issues where Chrome crashes, freezes, or simply refuses to load pages. This can be frustrating, especially when you need to browse the web urgently. The good news is that most of these problems have simple solutions that you can try right now.

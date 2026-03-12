@@ -17,6 +17,7 @@ tags:
 - performance
 author: theluckystrike
 ---
+
 # Why the Grammarly Extension is Slowing Down Your Chrome Browser
 
 If your Chrome browser has been feeling sluggish lately and you use Grammarly, there's a good chance the writing assistant you rely on is the culprit. Many users are surprised to learn that Grammarly, despite being incredibly useful for catching typos and improving writing, can significantly impact browser performance. The good news is that you do not have to choose between a fast browser and good grammar. Understanding why this happens and how to fix it will help you get the best of both worlds.

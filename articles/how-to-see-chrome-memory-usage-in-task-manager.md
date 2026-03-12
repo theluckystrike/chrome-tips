@@ -1,10 +1,17 @@
 ---
 layout: default
-title: "How to See Chrome Memory Usage in Task Manager"
-description: "Learn how to access and interpret Chrome Task Manager to see exactly how much memory each tab and extension is using. A complete guide for identifying memory..."
+title: How to See Chrome Memory Usage in Task Manager
+description: Learn how to access and interpret Chrome Task Manager to see exactly
+  how much memory each tab and extension is using.
 date: 2026-01-15
-categories: [performance, troubleshooting]
-tags: [chrome-task-manager, memory-usage, browser-tools, chrome-tips]
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-task-manager
+- memory-usage
+- browser-tools
+- chrome-tips
 author: theluckystrike
 permalink: how-to-see-chrome-memory-usage-in-task-manager
 last_modified_at: '2026-03-12'
@@ -74,8 +81,9 @@ By understanding how to see chrome memory usage in task manager and taking proac
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Toolbar Customization Tips](/chrome-toolbar-customization-tips)
-* [Chrome for NFT Browsing Extensions](/chrome-for-nft-browsing-extensions)
-* [Chrome for Clearing Browsing Data Automatically](/chrome-for-clearing-browsing-data-automatically)
+## Related Articles
+* [Chrome Service Workers List How to View](/articles/chrome-service-workers-list-how-to-view/)
+* [Chrome Layers Panel 3D View Explained](/articles/chrome-layers-panel-3d-view-explained/)
+* [Chrome Performance Panel for Regular Users](/articles/chrome-performance-panel-for-regular-users/)

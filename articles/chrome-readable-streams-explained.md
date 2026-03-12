@@ -18,6 +18,7 @@ tags:
 - web-development
 author: theluckystrike
 ---
+
 # Chrome Readable Streams Explained
 
 If you have ever worked with large amounts of data in a web application, you have probably faced the challenge of handling that data efficiently without freezing the browser or running out of memory. **Chrome Readable Streams** are a powerful feature that can help you solve this problem. In this guide, we will explain what Readable Streams are, how they work in Chrome, and when you should consider using them in your projects.

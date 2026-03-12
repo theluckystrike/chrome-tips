@@ -17,6 +17,7 @@ tags:
 - troubleshooting
 author: theluckystrike
 ---
+
 # Chrome Content Encoding Error Fix
 
 Chrome content encoding error fix is something many browser users encounter when web pages fail to load properly. This error can be frustrating because it stops you from accessing the content you need. The good news is that most content encoding errors are fixable with some simple troubleshooting steps. Let me walk you through what causes this problem and how you can resolve it on your own.

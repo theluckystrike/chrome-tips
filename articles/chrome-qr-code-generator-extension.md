@@ -17,6 +17,7 @@ tags:
 - qr-generator
 author: theluckystrike
 ---
+
 # Chrome QR Code Generator Extension
 
 # Chrome QR Code Generator Extension

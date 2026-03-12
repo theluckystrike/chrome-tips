@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Chrome WebGPU Not Available – How to Check and Enable It
-description: "Learn how to check if WebGPU is available in Chrome and enable it if it is not. Step-by-step guide to troubleshoot WebGPU issues and get started with next-ge..."
+title: "Chrome WebGPU Not Available \u2013 How to Check and Enable It"
+description: Learn how to check if WebGPU is available in Chrome and enable it if
+  it is not.
 date: 2025-02-20
 categories:
 - webgpu
@@ -122,8 +123,9 @@ As a final troubleshooting step, try creating a new Chrome profile and testing W
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome for PDF Editing Best Extensions](/chrome-for-pdf-editing-best-extensions)
-* [How to Enable Chrome Parallel Downloading](/how-to-enable-chrome-parallel-downloading)
-* [Chrome Developer Tools for Non Developers](//chrome-developer-tools-for-non-developers/)
+## Related Articles
+* [Chrome WebGPU vs WebGL Comparison](/articles/chrome-webgpu-vs-webgl/)
+* [How to Enable Parallel Downloading in Chrome for Faster Downloads](/articles/chrome-parallel-downloading-enable-how/)
+* [Chrome Android Desktop Mode How to Enable](/articles/chrome-android-desktop-mode-how-to-enable/)

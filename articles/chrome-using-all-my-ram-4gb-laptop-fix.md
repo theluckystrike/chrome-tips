@@ -1,10 +1,17 @@
 ---
 layout: post
-title: "Chrome Using All My RAM 4GB Laptop Fix"
-description: "Is Chrome consuming all your RAM on a 4GB laptop? Discover practical solutions to reduce memory usage and get your browser running smoothly again....."
+title: Chrome Using All My RAM 4GB Laptop Fix
+description: Is Chrome consuming all your RAM on a 4GB laptop? Discover practical
+  solutions to reduce memory usage and get your browser running smoothly again.
 date: 2026-01-15
-categories: [performance, browsers]
-tags: [chrome-memory, 4gb-ram, laptop-fix, chrome-slow]
+categories:
+- performance
+- browsers
+tags:
+- chrome-memory
+- 4gb-ram
+- laptop-fix
+- chrome-slow
 author: theluckystrike
 permalink: chrome-using-all-my-ram-4gb-laptop-fix
 last_modified_at: '2026-03-12'
@@ -73,8 +80,9 @@ Chrome using all your RAM on a 4GB laptop is a common problem, but it is also a 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome extensions for tab suspender auto](/chrome-extensions-for-tab-suspender-auto)
-* [Best Chrome Extensions for Saving Money Online](/best-chrome-extensions-for-saving-money-online)
-* [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
+## Related Articles
+* [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/articles/chrome-makes-my-old-laptop-unusable/)
+* [4GB RAM Laptop Best Browser Settings](/articles/4gb-ram-laptop-best-browser-settings/)
+* [Chrome Background Tabs Slowing Down Computer Fix](/articles/chrome-background-tabs-slowing-down-computer-fix/)

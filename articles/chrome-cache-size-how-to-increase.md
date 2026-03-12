@@ -15,6 +15,7 @@ tags:
 - storage
 author: theluckystrike
 ---
+
 # How to Increase Chrome Cache Size
 
 If you are searching for how to increase chrome cache size, you probably noticed that Chrome seems to reload pages frequently or that websites take longer to load than they should. This happens because Chrome's default cache settings might be too restrictive for your browsing habits, and adjusting them can make a noticeable difference in how fast websites load.

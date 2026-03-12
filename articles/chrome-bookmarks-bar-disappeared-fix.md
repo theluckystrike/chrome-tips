@@ -16,6 +16,7 @@ tags:
 - browser-problem
 author: theluckystrike
 ---
+
 # Chrome Bookmarks Bar Disappeared Fix
 
 You open Chrome to quickly access your favorite websites through the bookmarks bar, but it is nowhere to be found. You type "chrome bookmarks bar disappeared fix" into Google, hoping someone else has dealt with this annoying issue. Well, you are in the right place. The bookmarks bar disappearing is a common problem, and it is usually easy to fix once you know what causes it.

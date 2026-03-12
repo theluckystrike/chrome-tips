@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Chrome vs Edge Which Uses Less Memory"
-description: "A practical look at which browser uses less memory. Compare Chrome and Edge memory consumption and learn how to reduce browser RAM usage."
+title: Chrome vs Edge Which Uses Less Memory
+description: A practical look at which browser uses less memory. Compare Chrome and
+  Edge memory consumption and learn how to reduce browser RAM usage.
 permalink: chrome-vs-edge-which-uses-less-memory
 last_modified_at: '2026-03-12'
 ---
@@ -53,8 +54,9 @@ Try using both browsers for a week each and pay attention to how your computer f
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Lighthouse Treemap Explained](/chrome-lighthouse-treemap-explained)
-* [Is Microsoft Edge Better Than Chrome Now](/is-microsoft-edge-better-than-chrome-now)
-* [Best Extensions for Tab Management Chrome](/best-extensions-for-tab-management-chrome)
+## Related Articles
+* [Chrome vs Edge Memory Usage Comparison](/articles/chrome-vs-edge-memory-usage-comparison/)
+* [Chrome Browser vs App Which Uses More Data](/articles/chrome-browser-vs-app-which-uses-more-data/)
+* [Chrome vs Brave Browser Which Is Better](/articles/chrome-vs-brave-browser-which-is-better/)

@@ -11,6 +11,7 @@ categories: '[privacy, security]'
 tags: '[chrome-privacy, tracking-prevention, browser-privacy, online-privacy]'
 author: theluckystrike
 ---
+
 If you have ever searched for something online, only to see ads for that exact product appear on other websites moments later, you have experienced Chrome tracking in action. Many people ask themselves how to stop Chrome from tracking me, and the answer is simpler than you might think.
 
 Chrome tracks your activity for several reasons. The most obvious is advertising. By collecting data about what you search for, what sites you visit, and how long you stay on certain pages, Google can show you targeted ads that are more likely to convert. This is how Chrome stays free while generating massive revenue. Beyond ads, Chrome also tracks your browsing habits to improve its own services, sync your data across devices, and build a profile of your interests and behaviors.

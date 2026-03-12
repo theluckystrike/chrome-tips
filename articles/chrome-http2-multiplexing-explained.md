@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome HTTP2 Multiplexing Explained
-description: "Learn how HTTP/2 multiplexing works in Chrome and why it significantly speeds up web page loading. A clear explanation of this modern web technology.."
+description: Learn how HTTP/2 multiplexing works in Chrome and why it significantly
+  speeds up web page loading. A clear explanation of this modern web technology.
 keywords: chrome http2 multiplexing explained
 categories:
 - chrome
@@ -69,8 +70,9 @@ Understanding these technologies helps you appreciate why modern web browsing fe
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome for github best extensions](/chrome-for-github-best-extensions)
-* [Chrome Extensions for Reverse Video Search](/chrome-extensions-for-reverse-video-search)
-* [Chrome Extension Settings Sync Across Devices](/chrome-extension-settings-sync-across-devices)
+## Related Articles
+* [Chrome Preconnect and Preload Explained](/articles/chrome-preconnect-preload-explained/)
+* [Chrome Service Worker Caching Explained](/articles/chrome-service-worker-caching-explained/)
+* [Chrome Resource Timing API Explained](/articles/chrome-resource-timing-api-explained/)

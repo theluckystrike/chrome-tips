@@ -8,6 +8,7 @@ date: '2026-01-01'
 last_modified_at: '2026-03-12'
 permalink: chrome-user-agent-string-what-it-is
 ---
+
 If you have ever searched for "chrome user agent string what it is," you might have encountered some technical explanations that were hard to follow. Let me break down what this term means in plain English and why it matters for your everyday browsing.
 
 Every time you open a website in Chrome, your browser sends a small piece of text called a user agent string to the website. This string is like a brief introduction that tells the website about your browser and computer. It happens automatically behind the scenes, so you do not normally see it, but it affects how websites display content to you.

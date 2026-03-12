@@ -18,6 +18,7 @@ tags:
 - browser
 author: theluckystrike
 ---
+
 # Chrome Media Session API for Music Players
 
 If you use music players that run directly in your browser, you have probably noticed something convenient happening. When you play a song, the track name and artist appear in various places around Chrome, and you can sometimes control playback using buttons on your keyboard or headphones without switching to the browser window. This is made possible by a feature called the Media Session API, and it is changing how we interact with web-based music.

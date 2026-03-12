@@ -11,6 +11,7 @@ categories: '[comparison, performance, battery]'
 tags: '[chrome, edge, battery-life, laptop]'
 author: theluckystrike
 ---
+
 If you have ever wondered whether chrome vs edge for battery life laptop makes a real difference, you are not alone. Many laptop users notice their battery draining faster than expected and blame their browser without knowing the full picture. The truth is that both browsers can affect your battery life, but the differences between them matter more than you might think.
 
 Choosing the right browser can add meaningful time to your laptop battery. This guide explains what actually affects battery consumption, how Chrome and Edge differ, and what you can do to browse longer between charges.

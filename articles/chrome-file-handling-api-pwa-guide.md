@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome File Handling API PWA Guide
-description: "Learn how to use the Chrome File Handling API to turn your Progressive Web App into a full-fledged file handler. This comprehensive guide covers implementati..."
+description: Learn how to use the Chrome File Handling API to turn your Progressive
+  Web App into a full-fledged file handler.
 keywords: chrome file handling api pwa guide
 categories:
 - chrome
@@ -125,8 +126,9 @@ Building file handling into your PWA represents a significant step toward truly 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Extensions for Time Tracking](/chrome-extensions-for-time-tracking)
-* [Chrome Document Policy: The New Security Feature You Need to Know](/chrome-document-policy-new-security-feature)
-* [Best Privacy Chrome Extensions 2026](/best-privacy-chrome-extensions-2026)
+## Related Articles
+* [Chrome Periodic Background Sync API: Complete Guide](/articles/chrome-periodic-background-sync-api/)
+* [Chrome PWA Update Mechanism How It Works](/articles/chrome-pwa-update-mechanism-how-it-works/)
+* [Chrome WebTransport API Explained](/articles/chrome-webtransport-api-explained/)

@@ -10,6 +10,7 @@ categories: '[privacy, security, tracking]'
 tags: '[privacy, tracking, chrome-settings, security, cookies]'
 author: theluckystrike
 ---
+
 # Chrome Enhanced Tracking Protection Setup
 
 If you have been searching for chrome enhanced tracking protection setup, you probably want to stop websites from following you around the internet. Many people are surprised to learn how much information websites collect about their browsing habits. Setting up Chrome's built-in tracking protection is a straightforward way to take back some control over your privacy.

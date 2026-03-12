@@ -17,6 +17,7 @@ tags:
 - personalization
 author: theluckystrike
 ---
+
 # Chrome Profile Picture How to Change
 
 If you have ever searched for chrome profile picture how to change, you probably want to personalize your browser experience. Your Chrome profile picture appears in various places throughout the browser, including the top right corner of the window, in sync settings, and when you switch between profiles. Changing it is simpler than you might think, and this guide will walk you through every step.

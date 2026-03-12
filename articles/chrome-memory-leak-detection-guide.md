@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Memory Leak Detection Guide
-description: A practical guide to detecting memory leaks in Chrome browser using DevTools. Learn heap snapshots, allocation timeline, and proven troubleshooting techniques.
+description: A practical guide to detecting memory leaks in Chrome browser using DevTools.
+  Learn heap snapshots, allocation timeline, and proven troubleshooting techniques.
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-memory-leak-detection-guide
@@ -82,8 +83,9 @@ By following this chrome memory leak detection guide, you can identify and resol
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome reopen accidentally closed tab how](/chrome-reopen-accidentally-closed-tab-how)
-* [Chrome Lazy Loading Images Explained](/chrome-lazy-loading-images-explained)
-* [Chrome Tab Discarding What It Means](/chrome-tab-discarding-what-it-means)
+## Related Articles
+* [Chrome Memory Leak Detection Guide](/articles/chrome-memory-leak-detection/)
+* [Chrome Rendering Panel Guide](/articles/chrome-rendering-panel-guide/)
+* [Chrome Network Process Using Too Much Memory](/articles/chrome-network-process-using-too-much-memory/)

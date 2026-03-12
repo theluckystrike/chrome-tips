@@ -17,6 +17,7 @@ tags:
 - browser-settings
 author: theluckystrike
 ---
+
 # Chrome Notification Permission Block All: Complete Guide
 
 Have you ever felt overwhelmed by the constant stream of notifications popping up while browsing Chrome? You are not alone. Many Chrome users find themselves buried under dozens of unwanted notifications from websites they visited once and never intended to hear from again. The good news is that Chrome provides powerful options to block all notification permissions, giving you back control of your browsing experience.

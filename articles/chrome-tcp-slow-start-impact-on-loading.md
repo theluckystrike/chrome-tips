@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome TCP Slow Start Impact on Loading
-description: "Learn how TCP slow start affects Chrome page loading times and what you can do to optimize your browsing experience..................................."
+description: Learn how TCP slow start affects Chrome page loading times and what you
+  can do to optimize your browsing experience.
 date: 2025-02-20
 categories:
 - performance
@@ -73,8 +74,9 @@ By recognizing how TCP slow start impacts loading times, you can better apprecia
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Enterprise Features for Business: A Complete Guide](/chrome-enterprise-features-for-business)
-* [Chrome Extensions for Pomodoro Timer](/chrome-extensions-for-pomodoro-timer)
-* [Chrome Best Settings for Gaming](/chrome-best-settings-for-gaming)
+## Related Articles
+* [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup/)
+* [Why Chrome Is Slow on Battery But Fast When Plugged In](/articles/chrome-slow-on-battery-but-fast-plugged-in/)
+* [How to Fix Chrome Notion Slow and Laggy Issues](/articles/chrome-notion-slow-and-laggy-fix/)

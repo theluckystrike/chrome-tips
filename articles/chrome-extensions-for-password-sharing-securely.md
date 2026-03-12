@@ -10,6 +10,7 @@ categories: '[security, productivity]'
 tags: '[password-sharing, chrome-extension, security, password-manager]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Password Sharing Securely
 
 If you are searching for chrome extensions for password sharing securely, you probably need to share login credentials with family members, roommates, or work colleagues without writing passwords on sticky notes or sending them through text messages. Sharing passwords securely is a common need, and Chrome extensions can make this process much safer and easier than older methods.

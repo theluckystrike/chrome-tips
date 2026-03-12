@@ -18,6 +18,7 @@ tags:
 - web-development
 author: theluckystrike
 ---
+
 # Chrome Origin Trials What They Are
 
 If you have ever wondered what chrome origin trials are and why you might want to participate in them, this guide will walk you through everything you need to know. Chrome origin trials are a way for Google to test new features in Chrome before making them available to everyone. They give web developers and curious users a chance to try experimental features and provide feedback that helps shape the future of the browser.

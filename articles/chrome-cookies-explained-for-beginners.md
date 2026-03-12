@@ -17,6 +17,7 @@ tags:
 - cookie-management
 author: theluckystrike
 ---
+
 # Chrome Cookies Explained for Beginners
 
 Chrome cookies explained for beginners is a topic that comes up a lot when people start wondering why they stay logged into websites or why certain ads follow them around the internet. If you have ever closed Chrome, come back later, and found yourself still signed into a website, or if you have ever seen ads for something you just searched for, you have seen cookies in action. Understanding what cookies are and how they work will help you make better decisions about your privacy and browsing experience.

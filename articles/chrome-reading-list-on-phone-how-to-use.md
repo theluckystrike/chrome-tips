@@ -19,6 +19,7 @@ tags:
 - iphone
 author: theluckystrike
 ---
+
 # Chrome Reading List on Phone How to Use
 
 Chrome reading list on phone how to use is something many people wonder about when they find an interesting article but do not have time to read it right away. The good news is that Chrome on your phone has a built-in reading list feature that makes it easy to save pages for later. This guide will walk you through everything you need to know about using the reading list on your mobile device.

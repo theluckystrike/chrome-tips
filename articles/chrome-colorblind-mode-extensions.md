@@ -18,6 +18,7 @@ tags:
 - vision
 author: theluckystrike
 ---
+
 # Chrome Colorblind Mode Extensions
 
 If you have been searching for chrome colorblind mode extensions, you know how challenging it can be to find tools that actually help make websites easier to see. Color blindness affects millions of people, and many websites are designed with color combinations that can be difficult or impossible to distinguish for those with red-green, blue-yellow, or complete color blindness. The good news is that there are extensions specifically designed to address these challenges and make your browsing experience much more comfortable.

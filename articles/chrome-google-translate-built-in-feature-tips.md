@@ -16,6 +16,7 @@ tags:
 - language
 author: theluckystrike
 ---
+
 # Chrome Google Translate Built in Feature Tips
 
 Chrome google translate built in feature tips are something every browser user should know about. Whether you occasionally browse foreign websites or work with multilingual content daily, Chrome's translation tool can save you a lot of time and frustration.

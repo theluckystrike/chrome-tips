@@ -11,6 +11,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 # Chrome WebRTC Leak What It Is and How to Fix
 
 If you have ever searched for chrome webrtc leak what it is and how to fix, you probably came across a confusing topic that sounds technical and scary. The good news is that WebRTC leaks are a privacy issue you can understand and fix, even if you are not tech-savvy. This guide will walk you through what WebRTC leaks are, why they happen, and the simple steps you can take to protect yourself.

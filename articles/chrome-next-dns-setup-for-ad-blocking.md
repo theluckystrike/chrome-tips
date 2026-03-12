@@ -17,6 +17,7 @@ tags:
 - chrome
 author: theluckystrike
 ---
+
 # Chrome Next DNS Setup for Ad Blocking
 
 If you have been searching for chrome next dns setup for ad blocking, you probably want to block ads across your entire browser without relying on extensions. Setting up NextDNS is one of the most effective ways to achieve network-level ad blocking, and it works directly within Chrome without any additional software.

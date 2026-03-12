@@ -2,7 +2,7 @@
 layout: default
 title: Chrome Slow on 10 Year Old Laptop Fix
 description: Is Chrome running slow on your 10-year-old laptop? Discover practical
-  solutions to speed up your browser and extend the life of your older computer effectively.
+  solutions to speed up your browser and extend the life of your older computer.
 date: 2025-02-17
 categories:
 - performance
@@ -88,8 +88,9 @@ Using tools like Tab Suspender Pro can automate tab management and significantly
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Extensions for Therapists and Counselors](/chrome-extensions-for-therapists-and-counselors)
-* [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)
-* [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/i-have-100-tabs-open-chrome-is-dying)
+## Related Articles
+* [Chrome Slow on Windows 10 Old Laptop Fix](/articles/chrome-slow-on-windows-10-old-laptop-fix/)
+* [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/articles/chrome-makes-my-old-laptop-unusable/)
+* [Chrome Uses Too Much Memory on Old Laptop](/articles/chrome-uses-too-much-memory-on-old-laptop/)

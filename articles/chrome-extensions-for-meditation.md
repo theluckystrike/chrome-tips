@@ -10,6 +10,7 @@ categories: '[productivity, wellness]'
 tags: '[chrome-extensions, meditation, mindfulness, stress-relief, focus]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Meditation
 
 If you are searching for chrome extensions for meditation, you probably feel overwhelmed by the constant demands of daily life and need simple tools to bring more calm into your browser. Meditation has been practiced for thousands of years, and modern technology makes it easier than ever to incorporate mindfulness into your daily routine directly from Chrome.

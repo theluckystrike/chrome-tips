@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Chrome Mouse Keys Keyboard Cursor Control"
-description: "Learn how to use Chrome mouse keys to control your cursor with the keyboard. Perfect for accessibility, productivity, and situations where a mouse is unavail..."
+title: Chrome Mouse Keys Keyboard Cursor Control
+description: Learn how to use Chrome mouse keys to control your cursor with the keyboard.
 date: 2026-03-12
-categories: [accessibility, browser, productivity]
-tags: [chrome, mouse-keys, keyboard, accessibility, cursor, navigation]
+categories:
+- accessibility
+- browser
+- productivity
+tags:
+- chrome
+- mouse-keys
+- keyboard
+- accessibility
+- cursor
+- navigation
 author: theluckystrike
 permalink: chrome-mouse-keys-keyboard-cursor-control
 last_modified_at: '2026-03-12'
@@ -91,8 +100,9 @@ Chrome's accessibility features extend beyond mouse keys. You can also enable sc
 
 Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Print to PDF Without Margins](/chrome-print-to-pdf-without-margins)
-* [Chrome Fenced Frames Explained](/chrome-fenced-frames-guide)
-* [Chrome Screen Share Not Working Fix – Complete Troubleshooting Guide](/chrome-screen-share-not-working-fix)
+## Related Articles
+* [Chrome Voice Control How to Use](/articles/chrome-voice-control-how-to-use/)
+* [Chrome Mouse Cursor Lagging Fix](/articles/chrome-mouse-cursor-lagging/)
+* [chrome caret browsing navigate with keyboard](/articles/chrome-caret-browsing-navigate-with-keyboard/)

@@ -18,6 +18,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-back-forward-cache-explained
 ---
+
 # Chrome Back Forward Cache Explained
 
 Chrome back forward cache explained is something many Chrome users wonder about when they notice their browser seems to hold onto pages even after navigating away. If you have ever clicked the back button and seen a page load instantly, or if you have noticed that leaving many tabs open seems to consume more memory than expected, then you have experienced the effects of back forward cache in action.

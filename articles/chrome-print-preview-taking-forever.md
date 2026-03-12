@@ -18,6 +18,7 @@ tags:
 - print-issues
 author: theluckystrike
 ---
+
 # Chrome Print Preview Taking Forever: Practical Solutions
 
 If **Chrome print preview taking forever** has become your daily frustration, you are not alone. This is one of the most common complaints from users with older computers or limited RAM. The good news is that there are several practical solutions you can try, and you do not need advanced technical skills to fix it.

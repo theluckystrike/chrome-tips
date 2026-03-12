@@ -18,6 +18,7 @@ tags:
 - security
 author: theluckystrike
 ---
+
 # Chrome for VPN Extensions Comparison
 
 If you have been searching for chrome for vpn extensions comparison, you probably want to understand what options are available and which one might work best for your needs. Many Chrome users are looking for a simple way to protect their browsing privacy, access geo-restricted content, or add an extra layer of security when using public WiFi. This guide will walk you through the key things to consider when choosing a VPN extension for Chrome.

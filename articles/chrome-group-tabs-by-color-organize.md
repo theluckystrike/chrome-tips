@@ -18,6 +18,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # How to Group Tabs by Color in Chrome: A Complete Guide
 
 If you often find yourself drowning in dozens of open Chrome tabs, you're not alone. Many users struggle with tab overload, especially when working on multiple projects or researching different topics simultaneously. The good news is that Chrome offers a built-in feature that lets you group tabs by color, making it incredibly easy to visually organize your browser and find what you need without clicking through countless tabs.

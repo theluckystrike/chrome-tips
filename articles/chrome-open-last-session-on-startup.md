@@ -17,6 +17,7 @@ tags:
 - chrome-settings
 author: theluckystrike
 ---
+
 # Chrome Open Last Session on Startup
 
 Chrome open last session on startup is a feature that many users rely on to pick up exactly where they left off. Instead of staring at a blank new tab page when you launch Chrome, you want your previously open tabs to appear automatically. This is one of those settings that you don't think about until it stops working, and then suddenly you realize how much you depend on it.

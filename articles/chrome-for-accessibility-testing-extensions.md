@@ -18,6 +18,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-accessibility-testing-extensions
 ---
+
 # Chrome for Accessibility Testing Extensions
 
 Chrome for accessibility testing extensions has become an essential topic for anyone who builds or manages websites. Whether you are a web developer, a designer, or someone responsible for a business website, making sure your site is accessible to people with disabilities is not just good practice, it is often required by law. The good news is that Chrome offers a wide variety of extensions that can help you identify accessibility issues and fix them quickly.

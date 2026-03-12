@@ -18,6 +18,7 @@ tags:
 - mobile
 author: theluckystrike
 ---
+
 # Chrome iPhone Widgets How to Set Up
 
 Chrome iPhone widgets how to set up is a question many iPhone users are asking as Apple continues to expand what widgets can do on the home screen. If you use Chrome on your iPhone and want quick access to your favorite websites, recent browsing history, or even a quick search bar right from your home screen, setting up Chrome widgets can make a real difference in your daily workflow. Let me walk you through how to get this working on your device.

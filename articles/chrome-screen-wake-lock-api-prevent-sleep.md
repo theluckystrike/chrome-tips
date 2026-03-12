@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Keep Your Screen Awake Using Chrome Screen Wake Lock API
-description: Learn how to use the Chrome Screen Wake Lock API to prevent your screen from sleeping during important tasks. A practical guide for developers and users.
+description: Learn how to use the Chrome Screen Wake Lock API to prevent your screen
+  from sleeping during important tasks. A practical guide for developers and users.
 permalink: chrome-screen-wake-lock-api-prevent-sleep
 categories:
 - chrome
@@ -103,8 +104,9 @@ The Chrome Screen Wake Lock API provides a powerful way to prevent your screen f
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [How to Change Chrome Language Settings](/how-to-change-chrome-language-settings)
-* [Chrome Password Manager Not Suggesting? Here's the Fix](/chrome-password-manager-not-suggesting-fix)
-* [chrome for protonmail in chrome setup](/chrome-for-protonmail-in-chrome-setup)
+## Related Articles
+* [Chrome NFC API: Web NFC Explained](/articles/chrome-nfc-api-web-nfc-explained/)
+* [Chrome Vibration API: A Complete Guide for Mobile Web Developers](/articles/chrome-vibration-api-mobile-web/)
+* [Chrome MediaRecorder API Guide](/articles/chrome-mediarecorder-api-guide/)

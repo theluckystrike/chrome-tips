@@ -18,6 +18,7 @@ tags:
 - user-privacy
 author: theluckystrike
 ---
+
 If you have ever searched for chrome privacy sandbox explained for users, you probably felt overwhelmed by all the technical talk. This guide will walk you through what the Privacy Sandbox actually means for you as someone who uses Chrome every day. By the end, you will understand why this change happened and how it affects the websites you visit.
 
 ## What the Privacy Sandbox Means for Your Browsing

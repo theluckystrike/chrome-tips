@@ -18,6 +18,7 @@ tags:
 - website-speed
 author: theluckystrike
 ---
+
 # Chrome Lazy Loading Images Native: How It Works and Why You Should Use It
 
 If you have ever visited a website that felt sluggish, the culprit was often images that loaded before they were needed. Images are typically the heaviest elements on any webpage, and loading them all at once can dramatically slow down page rendering. Fortunately, Chrome lazy loading images native support offers an elegant solution to this common problem.

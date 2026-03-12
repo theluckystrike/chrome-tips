@@ -11,6 +11,7 @@ categories: '[productivity, extensions]'
 tags: '[chrome-extensions, focus, productivity, ambient-sounds]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Ambient Sounds Focus
 
 Finding it hard to concentrate while working in your browser? You are not alone. Many people struggle to stay focused when background noise, notifications, and the temptation of other tabs pull their attention away. Chrome extensions for ambient sounds focus can help create a more conducive work environment right in your browser, making it easier to get things done.

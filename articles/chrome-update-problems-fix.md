@@ -11,6 +11,7 @@ categories: '[troubleshooting, chrome]'
 tags: '[chrome-update, chrome-problems, browser-fix]'
 author: theluckystrike
 ---
+
 Chrome update problems are frustrating, especially when your browser stops working properly right after Google pushes a new version. If you are dealing with Chrome crashing, running slowly, or acting strange after an automatic update, this guide will help you understand why it happens and what you can do to fix it.
 
 ## Why Chrome Updates Cause Problems

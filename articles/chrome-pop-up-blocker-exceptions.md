@@ -17,6 +17,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 ---
+
 # How to Set Up Chrome Pop Up Blocker Exceptions
 
 Chrome's built-in pop up blocker is one of the most useful features for maintaining a clean browsing experience. It automatically blocks those annoying windows that try to open without your permission, whether they are advertisements, promotional offers, or potentially malicious sites. However, there are legitimate situations where you need certain websites to open popups. Maybe your banking website needs to open a new window for transactions, or a productivity tool requires a popup for its main interface. This is where **chrome pop up blocker exceptions** come in handy.

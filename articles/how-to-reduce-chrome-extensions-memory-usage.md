@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Reduce Chrome Extensions Memory Usage
-description: "Is Chrome running slow due to too many extensions? Learn practical methods to reduce memory usage from Chrome extensions and speed up your browser...."
+description: Is Chrome running slow due to too many extensions? Learn practical methods
+  to reduce memory usage from Chrome extensions and speed up your browser.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: how-to-reduce-chrome-extensions-memory-usage
@@ -95,8 +96,9 @@ Reducing Chrome extensions memory usage doesn't require technical expertise or e
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome on raspberry pi how to install](/chrome-on-raspberry-pi-how-to-install)
-* [How to Improve Your Chrome Lighthouse Performance Score](/chrome-lighthouse-performance-score-improve)
-* [Chrome Time to First Byte Explained](/chrome-time-to-first-byte-explained)
+## Related Articles
+* [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage/)
+* [chrome tab memory usage how to check](/articles/chrome-tab-memory-usage-how-to-check/)
+* [How to Limit Chrome Memory Usage on Windows](/articles/how-to-limit-chrome-memory-usage-windows/)

@@ -17,6 +17,7 @@ tags:
 - chrome-loading
 author: theluckystrike
 ---
+
 # Chrome Critical Rendering Path Explained
 
 If you have ever wondered why some websites load instantly while others take forever to appear on your screen, the answer often lies in something called the critical rendering path. Understanding the chrome critical rendering path explained in simple terms can help you grasp why your browser behaves the way it does and what you can do to improve your browsing experience.

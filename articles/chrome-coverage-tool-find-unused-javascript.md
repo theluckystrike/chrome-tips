@@ -19,6 +19,7 @@ tags:
 - devtools
 author: theluckystrike
 ---
+
 # Chrome Coverage Tool: How to Find and Fix Unused JavaScript
 
 Modern web applications often ship far more JavaScript than they actually need. This unused code bloat can significantly slow down your website, frustrate users, and hurt your search rankings. The good news is that Chrome DevTools includes a powerful built-in tool that helps you identify exactly which parts of your JavaScript are actually being used and which are just dead weight. In this article, we will explore how to use the Chrome Coverage Tool to find unused JavaScript and optimize your applications for better performance.

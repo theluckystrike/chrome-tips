@@ -10,6 +10,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 # Chrome Extensions for Site Permissions Manager
 
 If you have ever searched for chrome extensions for site permissions manager tools, you already know the challenge. You visit a website and suddenly it asks for permission to access your location, camera, microphone, or notifications. Some sites need these permissions to function properly, but others are simply asking for more access than they actually need. Managing these permissions across dozens or hundreds of websites becomes overwhelming, and that is where specialized extensions can make a real difference.

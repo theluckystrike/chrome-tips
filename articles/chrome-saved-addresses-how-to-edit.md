@@ -17,6 +17,7 @@ author: theluckystrike
 permalink: chrome-saved-addresses-how-to-edit
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Saved Addresses How to Edit
 
 Knowing how to edit saved addresses in Chrome is something many people need to figure out when they move, get a new address, or notice a typo in their saved information. Chrome's address autofill feature stores your shipping and billing addresses so you don't have to type them every time you buy something online or fill out a form. This is incredibly convenient, but it can become confusing when you need to change an old address or update incorrect information. The good news is that Chrome makes it relatively easy to find and edit your saved addresses, though the process isn't always obvious at first glance.

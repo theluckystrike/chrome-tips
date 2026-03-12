@@ -19,6 +19,7 @@ tags:
 - driver
 author: theluckystrike
 ---
+
 If you are looking for chrome for uber web app setup, you have come to the right place. Whether you are a driver partner who uses Uber Partner Central, a rider who prefers the web version, or someone who manages Uber Eats orders, setting up Chrome properly can make your experience much smoother. This guide walks you through practical ways to get the most out of Uber's web applications using Google Chrome.
 
 ## Why Your Browser Setup Matters for Uber Web Apps

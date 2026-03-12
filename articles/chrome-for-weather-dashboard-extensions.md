@@ -17,6 +17,7 @@ tags:
 - browser-tools
 author: theluckystrike
 ---
+
 # Chrome for Weather Dashboard Extensions
 
 If you are looking for chrome for weather dashboard extensions, you likely want a way to keep weather information visible while you work in your browser. Many people need constant access to weather updates but find it inconvenient to open separate weather websites or apps. A weather dashboard extension solves this by displaying forecast information directly in your Chrome browser, where you can see it at a glance without switching contexts.

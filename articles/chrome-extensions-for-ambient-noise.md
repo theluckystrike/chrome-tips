@@ -11,6 +11,7 @@ categories: '[productivity, wellness]'
 tags: '[chrome-extensions, ambient-noise, focus, productivity, concentration]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Ambient Noise
 
 If you are searching for chrome extensions for ambient noise, you probably work in a noisy environment and need ways to block out distractions while staying productive. Ambient noise has a powerful effect on our ability to concentrate, and many people find that certain background sounds help them focus better than complete silence.

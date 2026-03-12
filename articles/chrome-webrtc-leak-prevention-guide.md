@@ -11,6 +11,7 @@ categories: '[privacy, security, chrome]'
 tags: '[webrtc, ip-leak, browser-fingerprinting, vpn, privacy]'
 author: theluckystrike
 ---
+
 # Chrome WebRTC Leak Prevention Guide
 
 If you use Chrome and care about your online privacy, there is a good chance you have heard about WebRTC but may not fully understand what it is or why it matters. WebRTC, which stands for Web Real-Time Communication, is a technology built into modern browsers that enables direct peer-to-peer communication between users. While this technology powers useful features like video calls, voice chat, and file sharing directly within web pages, it also creates significant privacy risks that many users are unaware of. One of the most concerning issues is that WebRTC can leak your real IP address even when you are using a VPN or other privacy tools. This guide will walk you through everything you need to know about WebRTC leaks, how they work, and most importantly, how to prevent them.

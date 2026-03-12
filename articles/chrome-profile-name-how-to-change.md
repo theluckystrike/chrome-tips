@@ -15,6 +15,7 @@ tags:
 - personalization
 author: theluckystrike
 ---
+
 # Chrome Profile Name How to Change
 
 If you have ever wondered chrome profile name how to change, you are not alone. Many Chrome users want to rename their profiles to keep things organized, especially when they use multiple accounts for work, personal browsing, or different projects. Changing your Chrome profile name is straightforward, and this guide will walk you through exactly how to do it.

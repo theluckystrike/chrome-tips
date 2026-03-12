@@ -15,6 +15,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-music-discovery-extensions
 ---
+
 # Chrome for Music Discovery Extensions
 
 If you are searching for chrome for music discovery extensions, you probably love exploring new music but find it time-consuming to hunt down fresh artists and songs. Discovering music should be exciting, not frustrating, and the right browser extensions can make a huge difference in how you find and enjoy new sounds.

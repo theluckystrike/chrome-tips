@@ -10,6 +10,7 @@ categories: '[productivity, tips]'
 tags: '[chrome-extensions, microsoft-teams, collaboration, meetings]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Microsoft Teams
 
 If you are searching for chrome extensions for microsoft teams, you probably spend a significant portion of your workday in Teams and want to make your experience more efficient. Whether you handle multiple projects, attend numerous meetings, or communicate with dozens of colleagues daily, the right extensions can help you work smarter rather than harder.

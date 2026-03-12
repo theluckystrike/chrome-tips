@@ -17,6 +17,7 @@ tags:
 - keyboard-shortcut
 author: theluckystrike
 ---
+
 Chrome open link in new tab shortcut is something many people search for when they want to browse more efficiently. Whether you are researching topics, comparing products, or managing multiple sources, being able to open links without leaving your current page saves time and keeps your workflow smooth. This guide will show you the different ways to do this in Chrome.
 
 ## Why Opening Links in New Tabs Matters

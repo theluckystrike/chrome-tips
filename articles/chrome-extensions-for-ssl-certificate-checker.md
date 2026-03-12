@@ -17,6 +17,7 @@ tags:
 - certificate
 author: theluckystrike
 ---
+
 # Chrome Extensions for SSL Certificate Checker
 
 Chrome extensions for SSL certificate checker are helpful tools that let you quickly verify whether a website has a valid security certificate. If you have ever seen a warning message saying "Your connection is not private" or "Certificate error" when browsing, you already know how unsettling these messages can be. SSL certificates are what keep your connection to websites encrypted and safe from prying eyes, and checking them does not have to be complicated.

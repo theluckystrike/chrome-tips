@@ -16,6 +16,7 @@ tags:
 - google
 author: theluckystrike
 ---
+
 # Chrome for Voice Search How to Enable
 
 Chrome for voice search how to enable is a question many people are asking as they look for faster ways to browse the web without typing. Whether your hands are busy, you find typing cumbersome, or you simply prefer speaking to your browser, voice search in Chrome is a useful feature that is built right into the browser. In this guide, I will walk you through how to turn on voice search in Chrome on your computer and on mobile devices, and share some tips to make the most of it.

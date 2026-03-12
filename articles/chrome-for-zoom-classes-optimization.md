@@ -17,6 +17,7 @@ tags:
 - browser-optimization
 author: theluckystrike
 ---
+
 If you have been searching for chrome for zoom classes optimization, you probably know the frustration of frozen video, lagging audio, or a browser that slows down right when you need it most. Online learning has become a big part of education, and having Chrome run smoothly during your Zoom classes can make a real difference in how much you learn and how comfortable the experience feels. The good news is that a few browser adjustments can help your classes run more smoothly without requiring technical expertise.
 
 ## Why Your Browser Matters for Online Classes

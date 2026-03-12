@@ -19,6 +19,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-accessibility-on-phone-settings-guide
 ---
+
 # Chrome Accessibility on Phone Settings Guide
 
 Chrome accessibility on phone settings is something many people overlook until they need it. Whether you have vision difficulties, motor impairments, or just want to make Chrome easier to use on a smaller screen, adjusting these settings can make a real difference. This guide walks you through what accessibility settings are available in Chrome for Android and iPhone, why they matter, and how to turn them on step by step.

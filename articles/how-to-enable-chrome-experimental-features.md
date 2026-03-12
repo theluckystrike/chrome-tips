@@ -10,6 +10,7 @@ categories: '[features, customization]'
 tags: '[chrome-flags, experimental-features, chrome-settings, advanced]'
 author: theluckystrike
 ---
+
 # How to Enable Chrome Experimental Features
 
 If you have ever wondered how to enable chrome experimental features, you are in the right place. Many Chrome users hear about exciting hidden features that are not yet available to everyone but want to try them out safely. This guide will explain what experimental features are, why Chrome hides them, and exactly how to enable them on your browser.

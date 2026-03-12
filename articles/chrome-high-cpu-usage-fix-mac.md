@@ -1,7 +1,9 @@
 ---
 layout: default
 title: How to Fix High CPU Usage in Chrome on Mac
-description: Is Chrome eating up your Mac's CPU? Learn practical solutions to reduce Chrome high CPU usage on Mac, from closing heavy tabs to managing extensions and optimizing settings.
+description: Is Chrome eating up your Mac's CPU? Learn practical solutions to reduce
+  Chrome high CPU usage on Mac, from closing heavy tabs to managing extensions and
+  opti...
 permalink: chrome-high-cpu-usage-fix-mac
 last_modified_at: '2026-03-12'
 ---
@@ -80,8 +82,9 @@ For long-term improvement, using tools like **Tab Suspender Pro** to automatical
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome iPhone Widgets How to Set Up](/chrome-iphone-widgets-how-to-set-up)
-* [Chrome Extensions for Freelancers](/chrome-extensions-for-freelancers)
-* [Chrome Extensions for Website Blocker](/chrome-extensions-for-website-blocker)
+## Related Articles
+* [How to Fix Chrome High CPU Usage When Gaming](/articles/how-to-fix-chrome-high-cpu-usage-gaming/)
+* [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix/)
+* [Chrome Helper Renderer High CPU Mac Fix](/articles/chrome-helper-renderer-high-cpu-mac-fix/)

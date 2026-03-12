@@ -10,6 +10,7 @@ categories: '[performance, web-development]'
 tags: '[chrome-performance, browser-tools, chrome-tips]'
 author: theluckystrike
 ---
+
 # Chrome Event Timing API Explained
 
 If you are searching for chrome event timing api explained in simple terms, you have come to the right place. Many people use Chrome every day without knowing about the useful tools that help measure how responsive websites are to your clicks and interactions. The Event Timing API is one of those powerful features that works behind the scenes to show developers exactly how quickly a website responds when you do something like click a button or scroll down a page.

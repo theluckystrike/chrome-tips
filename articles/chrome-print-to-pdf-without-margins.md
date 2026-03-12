@@ -16,6 +16,7 @@ tags:
 - clean-print
 author: theluckystrike
 ---
+
 # Chrome Print to PDF Without Margins
 
 If you are searching for chrome print to pdf without margins, you likely want to save a webpage as a PDF that uses the full page space without those annoying white borders around the edges. Chrome has a built-in feature that lets you print to PDF, but by default, it adds margins that can make your PDF look smaller than the original webpage. Getting rid of those margins is easier than you might think, and this guide will walk you through the process step by step.

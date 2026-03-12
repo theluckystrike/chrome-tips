@@ -2,7 +2,7 @@
 layout: post
 title: Chrome Scroll-Driven Animation Examples You Need to See
 description: Discover how Chrome scroll-driven animations work and explore practical
-  examples to transform your web experience. Perfect for developers and curious users.
+  examples that can transform your web experience.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-scroll-driven-animation-examples
@@ -115,8 +115,9 @@ As web technologies continue to evolve, we can expect to see even more innovativ
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Safe Search How to Lock](/chrome-safe-search-how-to-lock)
-* [Chrome Coverage Tool: Find Unused JavaScript](/chrome-coverage-tool-find-unused-javascript)
-* [Chrome Canary vs Stable Difference Explained](/chrome-canary-vs-stable-difference-explained)
+## Related Articles
+* [Chrome NFC API: Web NFC Explained](/articles/chrome-nfc-api-web-nfc-explained/)
+* [Chrome View Transition API: Smooth Animations Within a Single Page](/articles/chrome-view-transition-same-document/)
+* [Chrome Vibration API: A Complete Guide for Mobile Web Developers](/articles/chrome-vibration-api-mobile-web/)

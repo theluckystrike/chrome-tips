@@ -15,6 +15,7 @@ tags:
 - messaging
 author: theluckystrike
 ---
+
 # Chrome for WhatsApp Web Tips and Tricks
 
 If you are looking for chrome for WhatsApp Web tips and tricks, you have come to the right place. Using WhatsApp Web through Chrome can be even more powerful when you know a few clever tricks and built-in features. Whether you want to work faster, stay organized, or simply get more out of your messaging experience, these tips will help you make the most of WhatsApp Web.

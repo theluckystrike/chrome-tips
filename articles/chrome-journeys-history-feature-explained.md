@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Journeys History Feature Explained
-description: "Discover how Chrome's Journeys feature organizes your browsing history into helpful timelines, making it easier to find previously visited pages and resume r..."
+description: Discover how Chrome's Journeys feature organizes your browsing history
+  into helpful timelines, making it easier to find previously visited pages and resume
+  r...
 date: 2025-01-20
 categories:
 - chrome
@@ -68,8 +70,9 @@ Whether you are planning a vacation, researching a major purchase, learning a ne
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Web Animations API Keyframes Guide](/chrome-web-animations-api-keyframes)
-* [Chrome Local Font Access for Web Design](/chrome-local-font-access-web-design)
-* [Chrome Safe Browsing: What It Does and How It Protects You](/chrome-safe-browsing-what-it-does)
+## Related Articles
+* [Chrome Split Screen Two Tabs Side by Side](/articles/chrome-split-screen-two-tabs-side-by-side/)
+* [Chrome Journeys Feature in History Explained](/articles/chrome-journeys-feature-in-history-explained/)
+* [Chrome Reading Mode AI Summary Feature](/articles/chrome-reading-mode-ai-summary-feature/)

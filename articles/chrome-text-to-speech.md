@@ -11,6 +11,7 @@ categories: '[tutorials, accessibility, extensions]'
 tags: '[chrome, text-to-speech, tts, accessibility, browser]'
 author: theluckystrike
 ---
+
 # Chrome Text to Speech: Complete Guide for 2026
 
 Text to speech technology has come a long way, and Chrome offers more options than ever for turning written content into spoken words. Whether you need **chrome text to speech** for accessibility, productivity, or simply want to listen to articles while multitasking, this guide covers everything you need to know.

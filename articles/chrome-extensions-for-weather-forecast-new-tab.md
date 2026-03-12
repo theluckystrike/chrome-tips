@@ -16,6 +16,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Extensions for Weather Forecast New Tab
 
 If you are searching for chrome extensions for weather forecast new tab, you probably want a faster way to check the weather without opening a separate app or website. Many people find themselves constantly checking the weather to plan their day, whether it is deciding what to wear, planning outdoor activities, or deciding whether to bring an umbrella. The good news is that Chrome extensions can put weather information right on your new tab, making it instantly accessible every time you open a browser window.

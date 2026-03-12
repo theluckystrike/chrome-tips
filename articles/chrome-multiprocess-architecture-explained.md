@@ -21,6 +21,7 @@ tags:
 - security
 author: theluckystrike
 ---
+
 # Chrome Multiprocess Architecture Explained
 
 If you have ever wondered why Chrome seems to use more memory than other browsers or why one crashing tab does not take down your entire browser, you have encountered Chrome's multiprocess architecture. This design choice, implemented since Chrome's early days, fundamentally changed how web browsers work and influenced virtually every modern browser today. Understanding chrome multiprocess architecture explained will help you appreciate why Chrome behaves the way it does and how to optimize your browsing experience.

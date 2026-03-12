@@ -11,6 +11,7 @@ categories: '[performance]'
 tags: '[chrome-cache, browser-optimization, storage]'
 author: theluckystrike
 ---
+
 # How to Clear Chrome Cache Properly
 
 If you are searching for how to clear chrome cache properly, you are probably dealing with a slow browser, storage issues, or websites that are showing outdated content. Clearing the cache is one of the most effective ways to fix these problems, and in this guide I will walk you through exactly how to do it step by step.

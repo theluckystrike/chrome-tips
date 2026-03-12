@@ -21,6 +21,7 @@ tags:
 - frontend
 author: theluckystrike
 ---
+
 # Chrome Breakpoints and Conditional Debugging Guide
 
 Debugging JavaScript effectively is one of the most valuable skills for any web developer. While console.log() has its place, Chrome DevTools offers a powerful suite of breakpoint features that can dramatically accelerate your debugging workflow. This comprehensive guide will walk you through the various types of breakpoints available in Chrome, with a special focus on conditional breakpoints that let you pause execution only when specific conditions are met.

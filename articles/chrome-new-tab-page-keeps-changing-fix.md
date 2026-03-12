@@ -15,6 +15,7 @@ tags:
 - chrome-fix
 author: theluckystrike
 ---
+
 # Chrome New Tab Page Keeps Changing Fix
 
 Chrome new tab page keeps changing is a frustrating problem that many Chrome users encounter. You set up your preferred homepage or new tab page exactly how you like it, only to find that it has been replaced by something else the next time you open Chrome. This can happen because of extensions, software changes on your computer, or settings that got modified without you realizing it. The good news is that you can fix this issue and take back control of your browsing experience.

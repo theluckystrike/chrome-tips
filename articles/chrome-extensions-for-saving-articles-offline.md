@@ -10,6 +10,7 @@ categories: '[saving, tips]'
 tags: '[chrome-extensions, offline, saving-articles]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Saving Articles Offline
 
 If you are looking for chrome extensions for saving articles offline, you probably know the feeling of finding a great article only to lose access to it later. Maybe you need to read something on a flight, or you want to save research for when you do not have internet access. The good news is that Chrome extensions can solve this problem completely.

@@ -11,6 +11,7 @@ categories: '[performance, cpu, troubleshooting]'
 tags: '[chrome-using-100-percent-cpu, chrome-cpu-fix, windows-chrome-slow]'
 author: theluckystrike
 ---
+
 # Chrome Using 100 Percent CPU Fix Windows
 
 If your computer slows to a crawl and you see Chrome using 100 percent CPU fix windows becomes your top priority. This is a frustrating situation that many Windows users face, especially when they have multiple tabs open or several extensions installed. The good news is you can get Chrome running smoothly again without being a tech expert.

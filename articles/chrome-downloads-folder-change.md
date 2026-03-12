@@ -7,6 +7,7 @@ date: 2026-03-11
 last_modified_at: '2026-03-12'
 permalink: chrome-downloads-folder-change
 ---
+
 # How to Change Your Chrome Downloads Folder
 
 If you have been wondering how to change your Chrome downloads folder, you are not alone. Many Chrome users find that the default Downloads folder on their computer quickly becomes cluttered with files from their browser. Changing where Chrome saves your downloads can help you stay organized, find files faster, and keep your downloads separate from other files on your computer.

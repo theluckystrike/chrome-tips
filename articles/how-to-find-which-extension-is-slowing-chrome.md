@@ -11,6 +11,7 @@ categories: '[performance, chrome-extensions]'
 tags: '[chrome-extensions, slow-chrome, fix-slow-chrome, extension-manager, improve-chrome-performance]'
 author: theluckystrike
 ---
+
 # How to Find Which Extension is Slowing Chrome
 
 If your Chrome browser has become sluggish, takes forever to load pages, or makes your whole computer feel slow, the culprit might not be your hardware—it could be one or more of your extensions. Learning how to find which extension is slowing Chrome is one of the most effective ways to restore speed without spending money on a new computer.

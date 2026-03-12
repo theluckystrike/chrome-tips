@@ -17,6 +17,7 @@ tags:
 - browser-performance
 author: theluckystrike
 ---
+
 # Chrome Process Per Tab Why and How to Change
 
 If you have ever looked at your task manager while using Chrome, you might have noticed something surprising. Each open tab seems to have its own process, and this can add up to a lot of running programs on your computer. If you are wondering about chrome process per tab and how to change this behavior, you are not alone. Many users find this confusing and want to understand why it happens and what they can do about it.

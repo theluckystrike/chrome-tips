@@ -10,6 +10,7 @@ categories: '[productivity, tips]'
 tags: '[chrome-extensions, productivity, dashboard, browser-tools]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Productivity Dashboard
 
 If you are searching for chrome extensions for productivity dashboard, you likely spend a lot of time switching between different apps and tabs while trying to stay organized. Many Chrome users feel overwhelmed by scattered information, endless tab clutter, and the challenge of keeping track of multiple projects at once. The good news is that the right extensions can bring all your productivity tools together in one place.

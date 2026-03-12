@@ -11,6 +11,7 @@ categories: '[accessibility, tips]'
 tags: '[chrome-extensions, text-to-speech, accessibility, browser-tools]'
 author: theluckystrike
 ---
+
 # Chrome Text to Speech Extension Best
 
 If you are searching for chrome text to speech extension best options, you probably want a tool that can read articles, emails, or web pages aloud for you. Many people find themselves needing this kind of help when their eyes get tired, when they are multitasking, or when they simply prefer listening to reading. The good news is that Chrome has excellent text to speech extensions that can turn any web content into spoken words.

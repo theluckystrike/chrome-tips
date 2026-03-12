@@ -19,6 +19,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Gemini Integration How to Use: A Complete Guide
 
 Google's AI assistant Gemini is now directly integrated into Chrome, bringing powerful artificial intelligence capabilities right to your browser. If you're wondering how to use this feature and what it can do for you, this guide will walk you through everything you need to know about **chrome gemini integration how to use** it effectively.

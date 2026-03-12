@@ -11,6 +11,7 @@ categories: '[chrome, tips, productivity]'
 tags: '[chrome, tabs, browser-tips, hover-preview]'
 author: theluckystrike
 ---
+
 # How to Enable Chrome Tab Hover Previews
 
 How to enable Chrome tab hover previews is something many Chrome users wonder about when they have many tabs open at once. If you have ever found yourself with dozens of tabs and could not remember which one was which, tab hover previews can be a real help. When you move your mouse over a tab, a small preview shows you what that page looks like, making it much easier to find the right tab without clicking through them one by one.

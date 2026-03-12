@@ -8,6 +8,7 @@ date: '2026-01-01'
 last_modified_at: '2026-03-12'
 permalink: how-to-check-if-chrome-extension-is-spying-on-me
 ---
+
 How to check if Chrome extension is spying on me is a question that concerns many people who use browser extensions. With Chrome being the most popular browser worldwide, millions of users have installed various extensions to enhance their browsing experience. However, not all extensions are what they seem. Some may be quietly collecting your data, tracking your browsing habits, or even accessing sensitive information without your knowledge. The good news is that you can take several steps to find out if any of your extensions are spying on you.
 
 Let me walk you through how to identify suspicious extensions and what you can do about it.

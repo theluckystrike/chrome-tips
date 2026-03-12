@@ -17,6 +17,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 ---
+
 # Chrome Multiple Profiles Setup: Complete Guide for 2026
 
 If you use Chrome for both work and personal browsing, or if you share your computer with family members, setting up multiple profiles can transform your browsing experience. A **Chrome multiple profiles setup** lets you keep your bookmarks, extensions, browsing history, and settings completely separate for different purposes. This guide walks you through everything you need to know about creating, managing, and optimizing multiple profiles in Chrome.

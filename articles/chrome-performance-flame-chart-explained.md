@@ -16,6 +16,7 @@ tags:
 - browser-tools
 author: theluckystrike
 ---
+
 # Chrome Performance Flame Chart Explained
 
 If you are searching for chrome performance flame chart explained, you likely want to understand what this colorful chart in Chrome DevTools actually shows you and whether it can help you figure out why your browser feels slow. The flame chart is one of the most useful tools in Chrome for understanding exactly what your browser is doing at any given moment.

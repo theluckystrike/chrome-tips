@@ -16,6 +16,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-mdn-web-docs-extension
 ---
+
 # Chrome for MDN Web Docs Extension
 
 If you are searching for a chrome for mdn web docs extension, you probably spend a lot of time on MDN Web Docs learning new web technologies or looking up reference information. Whether you are a beginner learning HTML, CSS, and JavaScript or an experienced developer building complex web applications, MDN is an invaluable resource. The good news is that several Chrome extensions can make your time on MDN even more productive and enjoyable.

@@ -11,6 +11,7 @@ categories: '[chrome-extensions, image-download, productivity, tips]'
 tags: '[chrome-extensions, batch-download, image-download, browser-tools]'
 author: theluckystrike
 ---
+
 # Chrome Extension for Batch Downloading Images
 
 If you are searching for a chrome extension for batch downloading images, you probably need to save numerous photos from websites without clicking each one individually. Whether you are putting together a mood board for a creative project, collecting product photos for an online store, or saving reference images for research, downloading images one at a time can feel like a never ending task. This guide explains how Chrome extensions can automate this process and save you significant time.

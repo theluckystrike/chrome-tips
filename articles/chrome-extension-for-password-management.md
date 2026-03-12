@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Extension for Password Management
-description: Learn how a chrome extension for password management can secure your online accounts, streamline your login process, and protect your digital identity from threats.
+description: Learn how a chrome extension for password management can secure your
+  online accounts, streamline your login process, and protect your digital identity
+  from t...
 permalink: chrome-extension-for-password-management
 last_modified_at: '2026-03-12'
 ---
@@ -64,8 +66,9 @@ The best time to start using a password manager was yesterday. The second best t
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Block Inappropriate Content for Kids](/chrome-block-inappropriate-content-for-kids)
-* [Chrome Homepage Keeps Resetting Fix](/chrome-homepage-keeps-resetting-fix)
-* [chrome web share api how it works](/chrome-web-share-api-how-it-works)
+## Related Articles
+* [Chrome Extension for Tab Management Best 2024](/articles/chrome-extension-for-tab-management-best-2024/)
+* [Chrome Tab Management Tips for Productivity](/articles/chrome-tab-management-tips-for-productivity/)
+* [Chrome Extension for QR Code Generator](/articles/chrome-extension-for-qr-code-generator/)

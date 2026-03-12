@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Navigation Preload Service Worker
-description: "Learn how Chrome navigation preload works with service workers to speed up page loads and improve your browsing experience............................"
+description: Learn how Chrome navigation preload works with service workers to speed
+  up page loads and improve your browsing experience.
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-navigation-preload-service-worker
@@ -54,8 +55,9 @@ The next time you click a link on a website that works offline or sends you noti
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Slow on Your Old MacBook? Here's How to Fix It](/chrome-slow-on-old-macbook-fix)
-* [chrome for kayak price alerts extension](/chrome-for-kayak-price-alerts-extension)
-* [Chrome Gesture Navigation Complete Guide](/chrome-gesture-navigation)
+## Related Articles
+* [Chrome Service Worker Caching Strategies](/articles/chrome-service-worker-caching-strategies/)
+* [Chrome Service Worker High CPU Fix](/articles/chrome-service-worker-high-cpu-fix/)
+* [Chrome Service Worker Caching Explained](/articles/chrome-service-worker-caching-explained/)

@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Chrome Supervised Profile for Kids Setup - Complete Guide
-description: Learn how to set up a Chrome supervised profile for kids to create a safer browsing experience. Step-by-step instructions for parental controls.
+description: Learn how to set up a Chrome supervised profile for kids to create a
+  safer browsing experience. Step-by-step instructions for parental controls.
 date: 2026-01-15
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-supervised-profile-for-kids-setup
 categories:
 - chrome
@@ -16,7 +17,6 @@ tags:
 - family-safety
 author: theluckystrike
 ---
-
 # Chrome Supervised Profile for Kids Setup
 
 As a parent, you want to ensure your children have a safe online experience while using Google Chrome. One of the most effective ways to achieve this is by setting up a supervised profile for kids. This feature allows you to monitor browsing activity, block inappropriate websites, and manage extensions—all while giving your children some independence to explore the web. In this guide, I'll walk you through the complete setup process and explain how to make the most of these parental controls.
@@ -106,3 +106,10 @@ Setting up a Chrome supervised profile for kids provides a solid foundation for 
 With the supervised profile in place, you can feel confident that your children have a safer browsing environment while still having the freedom to explore and learn online. Regularly review and adjust these settings as your children grow, and you'll create a healthy balance between supervision and independence.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [How to Lock Safe Search in Chrome for Children](/articles/chrome-safe-search-lock-for-children/)
+* [Chrome Supervised Profiles for Kids](/articles/chrome-supervised-user-profile-for-kids/)
+* [Chrome Content Filtering for Families](/articles/chrome-content-filtering-for-families/)

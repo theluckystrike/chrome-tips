@@ -11,6 +11,7 @@ categories: '[performance, browsers, mac]'
 tags: '[chrome-memory, macbook-air, memory-usage, browser-performance]'
 author: theluckystrike
 ---
+
 # Chrome Using Too Much Memory on MacBook Air
 
 If you are searching for chrome using too much memory on MacBook Air, you are probably dealing with a slow, unresponsive browser that makes it hard to get work done. This is a very common issue, especially on MacBook Air models which have less RAM than Pro models. The good news is there are several things you can do to bring Chrome back to life and make your browsing experience much smoother.

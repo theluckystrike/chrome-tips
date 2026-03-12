@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Cross-Origin Isolation Explained
-description: "Learn what cross-origin isolation means in Chrome, why it matters for your browser security, and how to manage it for optimal performance............."
+description: Learn what cross-origin isolation means in Chrome, why it matters for
+  your browser security, and how to manage it for optimal performance.
 permalink: chrome-cross-origin-isolation-explained
 categories:
 - chrome
@@ -69,8 +70,9 @@ Understanding these security features helps you appreciate the complexity behind
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Extensions for Regex Tester](/chrome-extensions-for-regex-tester)
-* [Chrome Service Worker High CPU Fix](/chrome-service-worker-high-cpu-fix)
-* [chromebook file manager tips and tricks](/chromebook-file-manager-tips-and-tricks)
+## Related Articles
+* [Chrome Site Isolation Explained](/articles/chrome-site-isolation-explained/)
+* [Chrome Site Isolation Memory Overhead](/articles/chrome-site-isolation-memory-overhead/)
+* [chrome site isolation what it does](/articles/chrome-site-isolation-what-it-does/)

@@ -16,6 +16,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Best Chrome Extensions for Researchers
 
 If you are searching for the best chrome extensions for researchers, you have probably experienced the frustration of having too many tabs open, losing track of important sources, and watching your browser slow down after just a few hours of research. Whether you are a graduate student working on your thesis, a professional conducting market research, or anyone who regularly gathers information online, these challenges probably sound familiar. The good news is that Chrome extensions exist specifically to solve these problems and make your research workflow much more efficient.

@@ -19,6 +19,7 @@ author: theluckystrike
 permalink: chrome-slow-on-macbook-pro-m1
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Slow on MacBook Pro M1? Here's How to Fix It
 
 Your MacBook Pro M1 is a powerful machine — but even the fastest hardware can feel sluggish when Chrome isn't running efficiently. The good news is that most Chrome performance issues on M1 Macs are solvable with a few targeted adjustments.

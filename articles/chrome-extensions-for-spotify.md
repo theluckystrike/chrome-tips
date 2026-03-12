@@ -16,6 +16,7 @@ tags:
 - music
 author: theluckystrike
 ---
+
 # Chrome Extensions for Spotify
 
 If you are searching for chrome extensions for Spotify, you probably want to get more out of your music streaming experience. Spotify is already one of the most popular music platforms in the world, but the right extensions can make it even better by adding features that are not available in the standard app. Whether you want better playlist management, enhanced audio controls, or easier music discovery, there are extensions that can help.

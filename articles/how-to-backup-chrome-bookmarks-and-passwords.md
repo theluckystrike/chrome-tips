@@ -8,6 +8,7 @@ date: '2026-01-01'
 last_modified_at: '2026-03-12'
 permalink: how-to-backup-chrome-bookmarks-and-passwords
 ---
+
 How to backup chrome bookmarks and passwords is something every Chrome user should know how to do. Your bookmarks represent hours of curation, research, and favorite websites you have collected over time. Your saved passwords contain access to your email, banking, social media, and countless other accounts. Losing either one would be a major inconvenience. Let me show you how to back up both, why it matters, and what to do with those backups.
 
 ## Why Backing Up Your Chrome Data Matters

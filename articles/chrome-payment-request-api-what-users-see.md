@@ -18,6 +18,7 @@ tags:
 - privacy
 author: theluckystrike
 ---
+
 # Chrome Payment Request API What Users See
 
 If you have ever wondered chrome payment request api what users see during online checkout, this guide will walk you through exactly what happens when a website uses this feature. The Payment Request API is a built-in Chrome feature that makes online payments faster and more convenient, but it helps to understand what information is displayed and how you control it.

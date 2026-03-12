@@ -17,6 +17,7 @@ tags:
 - browser-zoom
 author: theluckystrike
 ---
+
 # Chrome for Zoom in Browser Best Settings
 
 If you are searching for chrome for zoom in browser best settings, you have probably dealt with frozen video, audio that cuts out, or meetings that keep dropping. These problems are frustrating, but Chrome has settings you can adjust that will make your Zoom experience much smoother. You do not need to buy new hardware or switch to a different app.

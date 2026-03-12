@@ -17,6 +17,7 @@ tags:
 - reference-tools
 author: theluckystrike
 ---
+
 # Chrome for W3Schools Quick Reference Extension
 
 If you are searching for a chrome for w3schools quick reference extension, you likely spend a lot of time jumping between W3Schools tutorials and your own code projects. Many web developers and students find themselves constantly opening new tabs to look up HTML tags, CSS properties, or JavaScript functions, which breaks their workflow and slows down their learning. The good news is that there are useful extensions and browser features that can make accessing W3Schools much faster and more convenient.

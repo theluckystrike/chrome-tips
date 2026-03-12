@@ -16,6 +16,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Reading Mode vs Reader View Extensions
 
 If you are wondering about chrome reading mode vs reader view extensions, you are not alone. Many Chrome users want a cleaner way to read articles online, but they are confused about whether to use Chrome's built-in feature or install an extension. This guide will help you understand the differences and choose what works best for your needs.

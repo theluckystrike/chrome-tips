@@ -11,6 +11,7 @@ categories: '[troubleshooting, extensions]'
 tags: '[chrome-extensions, crashes, troubleshooting, performance]'
 author: theluckystrike
 ---
+
 # Chrome Extension Conflict: Identifying and Fixing Crashes
 
 Chrome is one of the most popular browsers in the world, and its extensibility is a big reason why. With thousands of extensions available, users can customize their browsing experience in countless ways. However, this flexibility comes with a downside: sometimes extensions conflict with each other, causing Chrome to crash, freeze, or behave erratically. If you have ever experienced sudden crashes or browser instability, an extension conflict might be the culprit.

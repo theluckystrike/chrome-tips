@@ -17,6 +17,7 @@ tags:
 - browser-camera
 author: theluckystrike
 ---
+
 # Chrome Camera Not Working Fix
 
 You settle in for an important video call, open Chrome, click on the meeting link, and then nothing happens. Your camera is not showing up, the other participants cannot see you, and you get that frustrating error message saying the camera is not available. If you have been searching for a chrome camera not working fix, you are definitely not alone. This is one of the most common problems Chrome users face, and the good news is that it is usually fixable with some simple steps.

@@ -17,6 +17,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # How to Find a Tab by Name in Chrome: Complete Guide
 
 Ever opened 20+ tabs while researching something, then lost track of that one important page? You know it's there somewhere, but scrolling through dozens of tab thumbnails feels impossible. If you have a slower computer, having that many tabs open can also make your browser sluggish. This guide shows you exactly how to find tabs by name in Chrome—using built-in features and helpful extensions.

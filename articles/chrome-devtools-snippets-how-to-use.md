@@ -8,6 +8,7 @@ date: 2025-02-19
 last_modified_at: '2026-03-12'
 permalink: chrome-devtools-snippets-how-to-use
 ---
+
 # Chrome Devtools Snippets How to Use
 
 If you are searching for chrome devtools snippets how to use, you probably want to automate repetitive tasks in your browser or save bits of code that you can run on any webpage. Chrome DevTools Snippets is a built-in feature that lets you do exactly that, without needing to install anything or know how to code.

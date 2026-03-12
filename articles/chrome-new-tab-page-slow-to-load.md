@@ -16,6 +16,7 @@ tags:
 - chrome-fix
 author: theluckystrike
 ---
+
 # Chrome New Tab Page Slow to Load
 
 You open Chrome, click the plus button for a new tab, and wait. And wait. The blank page seems to take forever before you can type in your search or visit a website. If your Chrome new tab page loads slowly, it disrupts your entire browsing experience. The good news is this is usually fixable, and often with simple solutions.

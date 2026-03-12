@@ -10,6 +10,7 @@ categories: '[extensions, browser]'
 tags: '[chrome, firefox, extensions, browser-comparison, add-ons]'
 author: theluckystrike
 ---
+
 # Chrome vs Firefox Extensions Comparison
 
 If you are researching chrome vs firefox extensions comparison, you probably want to know which browser gives you better tools to enhance your browsing experience. Many people search for chrome vs firefox extensions comparison because they want to understand the strengths and weaknesses of each ecosystem before committing to one browser. This guide explains what you need to know about extensions on both platforms.

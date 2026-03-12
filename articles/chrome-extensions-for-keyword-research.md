@@ -10,6 +10,7 @@ categories: '[keyword-research, tips]'
 tags: '[chrome-extensions, keyword-research, seo-tools]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Keyword Research
 
 If you are searching for chrome extensions for keyword research, you probably want to find the right words and phrases that people type into search engines when looking for products, services, or information like yours. Understanding which keywords to target is fundamental to getting your content found online, but doing keyword research manually can feel overwhelming and time-consuming. Fortunately, there are Chrome extensions designed specifically to make this process easier and more efficient.

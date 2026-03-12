@@ -11,6 +11,7 @@ categories: '[extensions, troubleshooting]'
 tags: '[chrome-extensions, extension-conflict, browser-fix, extension-troubleshooting]'
 author: theluckystrike
 ---
+
 Chrome extensions conflict with each other fix is something many Chrome users eventually need to deal with. You install a new extension to help with productivity, and suddenly your browser starts acting strange. Pages load slowly, buttons stop working, or your other extensions behave differently. This is more common than you might think, and understanding why it happens can save you a lot of frustration.
 
 ## Why Chrome Extensions Conflict With Each Other

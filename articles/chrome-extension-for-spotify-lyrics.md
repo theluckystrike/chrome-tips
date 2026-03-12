@@ -11,6 +11,7 @@ categories: '[entertainment, tips]'
 tags: '[chrome-extensions, spotify, lyrics, music]'
 author: theluckystrike
 ---
+
 # Chrome Extension for Spotify Lyrics
 
 If you are searching for a chrome extension for Spotify lyrics, you probably want to see the words to your favorite songs while listening on Spotify. Many music lovers enjoy singing along or just want to understand the lyrics better, but finding them can be frustrating. Let me walk you through why this is a problem and what you can do about it.

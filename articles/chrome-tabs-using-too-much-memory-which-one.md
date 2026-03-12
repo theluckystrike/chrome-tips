@@ -11,6 +11,7 @@ categories: '[performance, memory]'
 tags: '[chrome-tabs, memory-usage, browser-performance, chrome-tips]'
 author: theluckystrike
 ---
+
 If you find yourself asking chrome tabs using too much memory which one is causing the problem, you are dealing with one of the most frustrating issues Chrome users face. Having multiple tabs open is practical for multitasking, but it can quickly turn your smooth browsing experience into a sluggish mess. The good news is that you can identify the culprits and take steps to reclaim your computer's performance.
 
 ## Why Chrome Tabs Consume So Much Memory

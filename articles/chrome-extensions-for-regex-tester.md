@@ -10,6 +10,7 @@ categories: '[productivity, regex, tips]'
 tags: '[chrome-extensions, regex, browser-tools]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Regex Tester
 
 If you are searching for chrome extensions for regex tester, you probably work with regular expressions regularly and want a smoother way to test and debug them. Whether you are a developer, data analyst, or anyone who uses regex in their work, finding the right tools can save you hours of frustration and help you get your patterns right the first time.

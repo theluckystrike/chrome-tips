@@ -11,6 +11,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 # Chromebook File Manager Tips and Tricks
 
 If you are looking for chromebook file manager tips and tricks, you have come to the right place. The Files app on your Chromebook is a powerful tool that many users never fully explore. Whether you are new to Chromebooks or have been using one for years, these tips will help you work more efficiently and keep your files organized.

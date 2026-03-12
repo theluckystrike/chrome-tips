@@ -18,6 +18,7 @@ tags:
 - chrome-extensions
 author: theluckystrike
 ---
+
 # Chrome Periodic Background Sync Explained
 
 Chrome periodic background sync is a feature that allows websites and extensions to update their content in the background, even when you are not actively visiting those sites. If you have ever wondered why some websites seem to have fresh content ready the moment you open them, this feature is likely playing a part behind the scenes.

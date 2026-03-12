@@ -10,6 +10,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 # Chrome Extensions for News Aggregator
 
 If you are searching for chrome extensions for news aggregator tools, you probably spend too much time jumping between different news websites each morning. Many people find themselves opening dozens of tabs to check their favorite news sources, only to realize they have lost precious time and still missed some important stories. The good news is that Chrome extensions can transform how you consume news, bringing all your favorite sources together in one place and helping you stay organized.

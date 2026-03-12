@@ -7,6 +7,7 @@ date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-web-animations-api-keyframes
 ---
+
 If you have searched for "chrome web animations api keyframes," you are likely looking to understand how to create precise, controlled animations using one of the most powerful tools built into modern browsers. The Web Animations API in Chrome provides developers with incredible control over animated elements, and keyframes are the foundation that makes this possible.
 
 ## Understanding Keyframes in the Web Animations API

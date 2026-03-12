@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-anki-web-flashcards-setup
 ---
+
 # Chrome for Anki Web Flashcards Setup
 
 If you are looking for chrome for anki web flashcards setup, you have probably discovered that using Anki's web interface can transform how you study. Anki is a powerful flashcard application that uses spaced repetition to help you remember information long-term, and the web version gives you access to your decks from any computer with a browser. Setting things up properly can make your study sessions much more productive and enjoyable.

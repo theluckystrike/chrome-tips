@@ -19,6 +19,7 @@ tags:
 - chrome-settings
 author: theluckystrike
 ---
+
 # CHIPS: Cookies Having Independent Partitioned State in Chrome
 
 As web privacy continues to evolve, browsers are implementing new technologies to balance user privacy with web functionality. One such innovation is CHIPS (Cookies Having Independent Partitioned State), a feature in Google Chrome that allows cookies to maintain independent state across different top-level sites. This technology represents a significant step forward in protecting user privacy while still enabling the embedded content that makes the modern web functional.

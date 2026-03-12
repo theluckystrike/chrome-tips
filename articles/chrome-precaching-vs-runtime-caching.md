@@ -17,6 +17,7 @@ tags:
 - performance
 author: theluckystrike
 ---
+
 # Chrome Precaching vs Runtime Caching
 
 Chrome precaching vs runtime caching is a topic that comes up when users want to understand why their browser feels fast or slow. Both techniques help Chrome load pages more quickly, but they work in very different ways and serve different purposes. Understanding how each one works can help you troubleshoot browsing issues, manage storage space, and get the most out of your browser.

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chrome Speculative Parsing Explained
-description: "Learn how Chrome speculative parsing works to speed up web page loading. Understand the browser's predictive techniques and how they improve your browsing ex..."
+description: Learn how Chrome speculative parsing works to speed up web page loading.
 date: 2025-03-12
 categories:
 - performance
@@ -76,8 +76,9 @@ Understanding how speculative parsing works helps you appreciate the complex opt
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Service Worker Debugging Guide](/chrome-service-worker-debugging)
-* [Chrome Keyboard Shortcuts for Beginners](/chrome-keyboard-shortcuts-for-beginners)
-* [chrome topics api privacy sandbox explained](/chrome-topics-api-privacy-sandbox-explained)
+## Related Articles
+* [Chrome Loading Priority Hints and Fetchpriority: A Complete Guide](/articles/chrome-loading-priority-hints-fetchpriority/)
+* [Chrome Memory Saver Mode 2026 Guide](/articles/chrome-memory-saver-mode-2026/)
+* [Chrome Site Isolation Memory Overhead](/articles/chrome-site-isolation-memory-overhead/)

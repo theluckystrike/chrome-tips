@@ -19,6 +19,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-canva-web-app-optimization
 ---
+
 # Chrome for Canva Web App Optimization
 
 If you are searching for chrome for canva web app optimization, you probably use Canva regularly and have noticed it can feel sluggish or slow in your browser. Running a powerful design tool like Canva in Chrome while also having multiple tabs open can really strain your computer's resources. The good news is that there are several practical steps you can take to make Canva run faster and more smoothly in Chrome without needing any technical expertise.

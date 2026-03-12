@@ -11,6 +11,7 @@ categories: '[business, security, enterprise]'
 tags: '[chrome-enterprise, business-browser, chrome-for-business]'
 author: theluckystrike
 ---
+
 # Chrome Enterprise Features for Business: A Complete Guide
 
 If you are looking for chrome enterprise features for business, you have plenty of options. Google Chrome offers a robust set of built-in tools designed specifically for organizations that need to manage dozens or hundreds of devices while keeping data secure and employees productive.

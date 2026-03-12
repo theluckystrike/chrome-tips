@@ -18,6 +18,7 @@ tags:
 - browser
 author: theluckystrike
 ---
+
 # Chrome Extensions for Tab Suspender Auto
 
 If you have ever found your Chrome browser running sluggishly with dozens of open tabs, you are not alone. Many users keep numerous tabs open for reference, research, or convenience, only to discover that their browser has become unresponsive and their computer has slowed down significantly. This is where tab suspender auto extensions become invaluable tools for Chrome users.

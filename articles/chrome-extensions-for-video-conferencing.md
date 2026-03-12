@@ -17,6 +17,7 @@ tags:
 - teams
 author: theluckystrike
 ---
+
 # Chrome Extensions for Video Conferencing
 
 If you are searching for chrome extensions for video conferencing, you likely spend a significant portion of your workday in virtual meetings and want to make them run more smoothly. Whether you use Zoom, Microsoft Teams, Google Meet, or another platform, the right extensions can transform your video calling experience from stressful to seamless.

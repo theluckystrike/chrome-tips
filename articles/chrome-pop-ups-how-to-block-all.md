@@ -16,6 +16,7 @@ tags:
 - blocking-ads
 author: theluckystrike
 ---
+
 # Chrome Pop Ups How to Block All
 
 If you are looking for chrome pop ups how to block all, you have probably been frustrated by those sudden windows that appear while you are trying to browse. Pop ups can be disruptive, they can hide malicious links, and they can make using Chrome a frustrating experience. The good news is that Chrome has built-in tools to help you block these interruptions, and there are additional steps you can take to ensure a pop up free experience.

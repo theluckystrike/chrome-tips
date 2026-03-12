@@ -11,6 +11,7 @@ categories: '[troubleshooting, browser-fix]'
 tags: '[chrome-webgl, webgl-crashing, chrome-crash, browser-fix, chrome-fix]'
 author: theluckystrike
 ---
+
 # Chrome WebGL Crashing Fix
 
 Chrome WebGL crashing is one of the most annoying problems you can encounter while browsing. You might be playing an online game, working on a graphic design project, or just trying to view a website with interactive graphics, and suddenly Chrome freezes, closes, or shows an error. If you are searching for chrome webgl crashing fix, you have come to the right place. This guide will walk you through why Chrome crashes related to WebGL happen and what you can do to stop them.

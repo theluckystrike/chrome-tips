@@ -17,6 +17,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Recently Closed Tabs Shortcut
 
 If you have ever accidentally closed a tab in Chrome and wished you could get it back, you are not alone. The chrome recently closed tabs shortcut is a handy feature that can save you time and frustration whenever you need to recover a tab you closed by mistake. Learning how to use this feature will make your browsing experience much smoother and help you avoid the stress of losing important pages.

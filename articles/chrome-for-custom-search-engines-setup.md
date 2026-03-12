@@ -18,6 +18,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-custom-search-engines-setup
 ---
+
 # Chrome for Custom Search Engines Setup
 
 If you are looking for chrome for custom search engines setup, you have come to the right place. Chrome allows you to add your own search shortcuts so you can search any website directly from the address bar without visiting the site first. This guide walks you through the complete setup process in plain language, with no technical jargon or terminal commands required.

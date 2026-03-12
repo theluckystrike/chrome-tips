@@ -11,6 +11,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 When you see the chrome update failed error 12 message, it can be frustrating because your browser simply will not update to the latest version. This error typically means there is a problem with the update process that prevents Chrome from downloading or installing new versions. The good news is that this is usually fixable with some simple steps.
 
 ## What Causes Error 12 in Chrome

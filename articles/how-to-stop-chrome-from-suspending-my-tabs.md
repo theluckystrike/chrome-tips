@@ -11,6 +11,7 @@ categories: '[performance, tab-management]'
 tags: '[chrome-tabs, tab-suspension, chrome-freezing, slow-computer, low-ram]'
 author: theluckystrike
 ---
+
 # How to Stop Chrome from Suspending My Tabs
 
 You're in the middle of reading an article, filling out a form, or watching a video, and suddenly Chrome reloads the page. You've lost your place, your progress, or worse—your data. If this keeps happening, Chrome is likely suspending your tabs to save memory. While this feature helps on very low-end computers, it can be incredibly frustrating when it interrupts your work. Here's how to stop Chrome from suspending your tabs.

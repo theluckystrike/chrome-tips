@@ -20,6 +20,7 @@ tags:
 - browser-api
 author: theluckystrike
 ---
+
 # Chrome MediaRecorder API Guide
 
 The **MediaRecorder API** is one of the most powerful features available in modern web browsers, particularly Chrome. This API enables web developers to capture media streams directly from the browser, opening up possibilities for recording audio, video, and even entire screen content without requiring external plugins or native applications. Whether you are building a video conferencing tool, a podcast recording application, or a screen capture utility, understanding the MediaRecorder API is essential for creating rich, media-centric web experiences.

@@ -16,6 +16,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-address-bar-not-showing-full-url-fix
 ---
+
 # Chrome Address Bar Not Showing Full URL Fix
 
 Chrome hides parts of the URL by default. If you visit `https://www.example.com/products/item?id=12345`, Chrome may only display `example.com/products/item` in the address bar — stripping the scheme (`https://`), the `www.` subdomain, and query parameters. Here is why it does this and how to get the full URL back.

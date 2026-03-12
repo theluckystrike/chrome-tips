@@ -17,6 +17,7 @@ tags:
 - privacy
 author: theluckystrike
 ---
+
 # Chrome Cookies Explained Simply
 
 Chrome cookies explained simply is something that comes up whenever someone wonders why they stay signed into their favorite websites or why ads seem to follow them around the internet. If you have ever closed Chrome, opened it again later, and found yourself still logged into Facebook or your email, you have seen cookies at work. Understanding what cookies are and how they function will help you take control of your browsing experience.

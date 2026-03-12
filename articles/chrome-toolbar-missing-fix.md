@@ -11,6 +11,7 @@ categories: '[troubleshooting, interface]'
 tags: '[chrome-toolbar, chrome-fix, browser-problem, chrome-interface]'
 author: theluckystrike
 ---
+
 # Chrome Toolbar Missing Fix
 
 You open Chrome expecting to see your toolbar with all the buttons and options you normally use, but instead, the screen looks different and the toolbar is nowhere to be found. You frantically search for "chrome toolbar missing fix" hoping to find a way to get things back to normal. This is a more common problem than you might think, and the good news is that it is usually easy to solve.

@@ -10,6 +10,7 @@ categories: '[productivity, tabs]'
 tags: '[tab-management, chrome-tips, chrome-windows]'
 author: theluckystrike
 ---
+
 # How to Move Chrome Tabs Between Windows Easily
 
 If you have ever wondered how to move Chrome tabs between windows easily, you are not alone. Many people find themselves working across multiple Chrome windows and need to reorganize their tabs efficiently. Whether you are trying to declutter a messy browser or need to group related tabs together, moving tabs between windows is a skill that saves time and reduces frustration.

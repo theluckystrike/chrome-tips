@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to Put Chrome Portable Version on a USB Drive
-description: "Learn how to install and run Chrome from a USB drive. Carry your browser with all your bookmarks, extensions, and settings on any computer using a portable v..."
+description: Learn how to install and run Chrome from a USB drive.
 date: 2026-03-12
 categories:
 - chrome
@@ -97,8 +97,9 @@ Start with a quality USB drive, download a trusted portable version, and within 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Lighthouse Audit Complete Guide](/chrome-lighthouse-audit-guide)
-* [Chrome Multiple Users Same Computer Setup](/chrome-multiple-users-same-computer-setup)
-* [chrome print page shortcut](/chrome-print-page-shortcut)
+## Related Articles
+* [chrome portable version run from usb](/articles/chrome-portable-version-run-from-usb/)
+* [chrome portable version how to get](/articles/chrome-portable-version-how-to-get/)
+* [How to Enable Parallel Downloading in Chrome for Faster Downloads](/articles/chrome-parallel-downloading-enable-how/)

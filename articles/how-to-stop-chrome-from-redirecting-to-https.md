@@ -11,6 +11,7 @@ categories: '[privacy, security, settings]'
 tags: '[chrome-https, https-redirect, browser-settings, chrome-security]'
 author: theluckystrike
 ---
+
 If you type a website address into Chrome and find yourself automatically redirected to a secure version, you might be wondering how to stop Chrome from redirecting to HTTPS. This behavior is built into Chrome for security reasons, but there are situations where you might need more control over when these redirects happen.
 
 Chrome redirects to HTTPS because of a feature called HTTPS-First Mode or because websites enforce secure connections. While this is generally a good thing for your security, it can cause problems in certain situations. Perhaps you are testing a website that does not have an SSL certificate yet, or you need to access an older site that only works over HTTP. Whatever your reason, there are several ways to gain more control over this behavior.

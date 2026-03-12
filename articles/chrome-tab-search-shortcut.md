@@ -11,6 +11,7 @@ categories: '[productivity, tips]'
 tags: '[chrome, browser, tabs, shortcuts, productivity]'
 author: theluckystrike
 ---
+
 # Chrome Tab Search Shortcut: Find Any Open Tab Instantly
 
 If you frequently work with many open tabs in Google Chrome, you know how frustrating it can be to locate a specific page among dozens of others. The chrome tab search shortcut solves this problem by letting you instantly find and switch to any open tab using a simple keyboard combination. This feature is one of the most underrated productivity tools in Chrome, yet many users are unaware it exists.

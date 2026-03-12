@@ -16,6 +16,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-blurry-text-fix-windows
 ---
+
 # Chrome Blurry Text Fix Windows
 
 If you have been searching for chrome blurry text fix windows solutions, you are not alone. Many Windows users open Chrome one day and notice that text on web pages looks fuzzy, fuzzy around the edges, or just not as sharp as it used to be. This can make reading frustrating and strain your eyes. The good news is that blurry text in Chrome on Windows is usually fixable, and in most cases you can get crisp, clear text back without much trouble.

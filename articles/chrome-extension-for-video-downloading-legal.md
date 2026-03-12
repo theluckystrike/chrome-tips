@@ -11,6 +11,7 @@ categories: '[legal, extensions]'
 tags: '[chrome-extensions, video, downloading, legal, copyright]'
 author: theluckystrike
 ---
+
 # Chrome Extension for Video Downloading: What is Legal
 
 The question of whether using a Chrome extension for video downloading is legal comes up frequently. People want to save videos for offline viewing, but they also want to stay on the right side of the law. The answer is not straightforward, because it depends on several factors including where you live, what you are downloading, and how you intend to use the content.

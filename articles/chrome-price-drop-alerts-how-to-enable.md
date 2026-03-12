@@ -17,6 +17,7 @@ tags:
 - extensions
 author: theluckystrike
 ---
+
 # Chrome Price Drop Alerts How to Enable
 
 If you have ever searched for chrome price drop alerts how to enable, you probably know the frustration of missing a good deal. Prices for products you want can change at any moment, and it is impossible to check every item manually every day. Fortunately, there are ways to set up automatic notifications that tell you when something you want becomes cheaper. This guide will show you the different methods available for enabling price drop alerts in Chrome.

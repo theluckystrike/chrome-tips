@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Chrome Guest Mode What Gets Saved"
-description: "Wondering what data Chrome Guest mode keeps after you close the session?.............................................................................."
-date: "2025-03-09"
+title: Chrome Guest Mode What Gets Saved
+description: Wondering what data Chrome Guest mode keeps after you close the session?..............................................................................
+date: '2025-03-09'
 last_modified_at: '2026-03-12'
-permalink: "chrome-guest-mode-what-gets-saved"
-categories: 
-tags: 
+permalink: chrome-guest-mode-what-gets-saved
+categories: null
+tags: null
 author: theluckystrike
 ---
+
 # Chrome Guest Mode What Gets Saved
 
 If you have ever let someone borrow your computer and switched to Chrome Guest mode, you might have wondered exactly what happens to their browsing activity after they are done. Does Chrome save their history? What about the websites they visited or the files they downloaded? Many people assume Guest mode works like a complete reset, but the reality is a bit more nuanced. Understanding what Chrome Guest mode actually saves will help you decide when it is the right choice and when you might need something more.

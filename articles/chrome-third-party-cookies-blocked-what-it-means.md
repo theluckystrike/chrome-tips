@@ -7,6 +7,7 @@ date: '2026-01-01'
 last_modified_at: '2026-03-12'
 permalink: chrome-third-party-cookies-blocked-what-it-means
 ---
+
 If you have noticed a message about chrome third party cookies blocked what it means, you are probably seeing a notification from Google Chrome telling you that certain cookies have been blocked. This is actually a privacy feature that Chrome has been rolling out gradually, and it can affect how some websites work. Let me explain what is happening and what you can do about it.
 
 ## What Are Third-Party Cookies

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome DNS Prefetch Enable Faster Browsing
-description: "Learn how to enable DNS prefetch in Chrome to speed up your browsing experience and reduce page load times with this simple guide....................."
+description: Learn how to enable DNS prefetch in Chrome to speed up your browsing
+  experience and reduce page load times with this simple guide.
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-dns-prefetch-enable-faster-browsing
@@ -75,8 +76,9 @@ However, for most users browsing typical websites, enabling DNS prefetch deliver
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome topics api privacy sandbox explained](/chrome-topics-api-privacy-sandbox-explained)
-* [Chrome Extensions Keep Disabling Themselves Fix](/chrome-extensions-keep-disabling-themselves-fix)
-* [Chrome for Multiple Search Engines Switching](/chrome-for-multiple-search-engines-switching)
+## Related Articles
+* [chrome prefetch dns how to enable](/articles/chrome-prefetch-dns-how-to-enable/)
+* [Chrome DNS Over HTTPS How to Enable](/articles/chrome-dns-over-https-how-to-enable/)
+* [Chrome Prerender Pages Faster Browsing: Complete Guide](/articles/chrome-prerender-pages-faster-browsing/)

@@ -16,6 +16,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 ---
+
 # Chrome Keeps Freezing Every Few Minutes: Causes and Fixes
 
 Few things are more frustrating than using Chrome and having it freeze every few minutes. You are in the middle of reading an article, filling out a form, or watching a video, and suddenly everything locks up. The browser becomes unresponsive, tabs stop reacting, and you might even see the dreaded "page not responding" message. If this keeps happening repeatedly, it disrupts your workflow and makes browsing feel unreliable.

@@ -11,6 +11,7 @@ categories: '[features, performance]'
 tags: '[downloading, chrome-flags, speed, performance]'
 author: theluckystrike
 ---
+
 # How to Enable Chrome Parallel Downloading
 
 If you have ever searched for how to enable chrome parallel downloading, you know how frustrating it can be to watch one download finish before the next one starts. When you need to grab multiple files for work, school, or a personal project, waiting for each download to complete one by one can feel like watching paint dry. Fortunately, Chrome offers a way to download multiple files simultaneously, and getting it set up is easier than you might think.

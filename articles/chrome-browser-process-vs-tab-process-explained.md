@@ -19,6 +19,7 @@ tags:
 - performance
 author: theluckystrike
 ---
+
 # Chrome Browser Process vs Tab Process Explained
 
 If you have ever opened Chrome Task Manager and wondered why there are so many processes running, you have probably searched for chrome browser process vs tab process explained. Understanding the difference between these processes can help you make sense of why Chrome uses so much memory and how to manage it effectively. This guide breaks down everything you need to know about browser processes and tab processes in simple terms.

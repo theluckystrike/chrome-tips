@@ -16,6 +16,7 @@ tags:
 - tracking
 author: theluckystrike
 ---
+
 # Chrome Location Services How to Turn Off
 
 If you have been searching for chrome location services how to turn off, you might have noticed that many websites ask for your location or that Chrome itself seems to know where you are. This is because Chrome has built-in location services that can be useful for things like finding nearby restaurants or getting directions, but many users prefer to turn this off for privacy reasons. The good news is that you have full control over whether Chrome and websites can access your location.

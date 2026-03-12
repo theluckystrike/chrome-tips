@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Chrome Microphone Permission for One Site How to Set"
-description: "Learn how to set microphone permission for a specific site in Chrome.................................................................................."
-date: "2026-03-09"
+title: Chrome Microphone Permission for One Site How to Set
+description: Learn how to set microphone permission for a specific site in Chrome..................................................................................
+date: '2026-03-09'
 last_modified_at: '2026-03-12'
-permalink: "chrome-microphone-permission-for-one-site-how-to-set"
-categories: 
-tags: 
+permalink: chrome-microphone-permission-for-one-site-how-to-set
+categories: null
+tags: null
 author: theluckystrike
 ---
+
 # Chrome Microphone Permission for One Site How to Set
 
 You want to use your microphone for a voice call or recording on one specific website in Chrome, but you are not sure how to give just that one site permission without affecting others. If you have been searching for chrome microphone permission for one site how to set, this guide will walk you through exactly what you need to do. Chrome makes it pretty straightforward to control microphone access for individual websites, and you will be able to set it up in just a few minutes.

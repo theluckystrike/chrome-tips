@@ -11,6 +11,7 @@ categories: '[entertainment, tips]'
 tags: '[chrome-web-store, free-games, browser-games]'
 author: theluckystrike
 ---
+
 # Chrome Web Store Best Free Games
 
 If you are searching for chrome web store best free games, you are probably looking for a quick way to have fun without spending money or cluttering your computer with downloads. Many people want to play games during breaks but do not want to deal with the hassle of installing software or paying for subscriptions. The good news is that the Chrome Web Store offers a surprising variety of free games that you can start playing immediately.

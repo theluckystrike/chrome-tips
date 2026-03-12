@@ -11,6 +11,7 @@ categories: '[troubleshooting, connectivity]'
 tags: '[chrome-error, too-many-redirects, cookie-fix, browser-problem]'
 author: theluckystrike
 ---
+
 # Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix
 
 You are browsing along in Chrome, click a link or try to log into a website, and suddenly your screen fills with an error that says ERR_TOO_MANY_REDIRECTS. This is a frustrating issue that can leave you stuck, unable to reach the page you want. The good news is that this error is very often caused by problems with cookies, and there are several straightforward fixes you can try. In this guide, I will explain what causes the ERR_TOO_MANY_REDIRECTS error, why cookies play a role, and exactly what you can do to resolve it.

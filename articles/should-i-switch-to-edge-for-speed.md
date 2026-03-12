@@ -11,6 +11,7 @@ categories: '[performance, browsers, microsoft-edge]'
 tags: '[edge vs chrome, browser-speed, switch-browser, edge-performance, low-ram]'
 author: theluckystrike
 ---
+
 # Should I Switch to Edge for Speed? A Practical Guide for Slow Computers
 
 If you have been wondering "should i switch to edge for speed," you are not alone. Many people with older or budget computers are looking for ways to make their browsing experience faster without buying new hardware. Microsoft Edge has been improving rapidly, and the question of whether it is worth switching from Chrome is more relevant than ever.

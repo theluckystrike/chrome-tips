@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Lite Mode Replacement for Slow Internet
-description: Looking for Chrome lite mode replacement for slow internet? Discover extensions and browser settings that reduce data usage and speed up your connection.
+description: Looking for Chrome lite mode replacement for slow internet? Discover
+  extensions and browser settings that reduce data usage and speed up your connection.
 date: 2025-01-15
 permalink: chrome-lite-mode-replacement-for-slow-internet
 categories:
@@ -73,8 +74,9 @@ Remember that the goal is not necessarily to use the fewest resources possible, 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Google Account Privacy Settings Guide](/chrome-google-account-privacy-settings-guide)
-* [Chrome Taking 5 Minutes to Load: Fixes for Slow Computers](/chrome-taking-5-minutes-to-load)
-* [Chrome Extensions for Website Testing](/chrome-extensions-for-website-testing)
+## Related Articles
+* [Chrome Lite Mode Discontinued Alternatives](/articles/chrome-lite-mode-discontinued-alternatives/)
+* [Is 8GB RAM Enough for Chrome with Many Tabs?](/articles/is-8gb-ram-enough-for-chrome-with-many-tabs/)
+* [chrome for rumble web player settings](/articles/chrome-for-rumble-web-player-settings/)

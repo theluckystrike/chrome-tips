@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome DevTools Responsive Design Mode Guide
-description: "Master Chrome DevTools Responsive Design Mode to test and optimize your websites across all screen sizes. This comprehensive guide covers everything you need..."
+description: Master Chrome DevTools Responsive Design Mode to test and optimize your
+  websites across all screen sizes.
 date: 2025-02-20
 categories:
 - devtools
@@ -116,8 +117,9 @@ Chrome DevTools Responsive Design Mode is an essential tool for any web develope
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Best Lightweight Browsers for Chromebook](/best-lightweight-browsers-for-chromebook)
-* [chrome for codesandbox optimization](/chrome-for-codesandbox-optimization)
-* [Chrome Related Website Sets Explained](/chrome-related-website-sets-explained)
+## Related Articles
+* [Chrome Overriding CSS in DevTools: A Practical Tutorial](/articles/chrome-overriding-css-in-devtools-tutorial/)
+* [Chrome Flexbox Debugging Guide](/articles/chrome-flexbox-debugging/)
+* [Chrome Inspect Element Tutorial for Beginners](/articles/chrome-inspect-element-tutorial-for-beginners/)

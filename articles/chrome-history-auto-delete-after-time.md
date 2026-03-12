@@ -19,6 +19,7 @@ tags:
 - data-cleanup
 author: theluckystrike
 ---
+
 # How to Auto Delete Chrome History After Time: Complete Guide
 
 Your browsing history contains a detailed record of every website you've visited, every search you've made, and every link you've clicked. While this can be convenient for finding previously visited pages, it also raises serious privacy concerns. Whether you're sharing a computer with family members, working in a public space, or simply value your digital privacy, knowing how to automatically delete Chrome history after a set time period is an essential skill.

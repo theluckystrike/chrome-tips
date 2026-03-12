@@ -17,6 +17,7 @@ tags:
 - deals
 author: theluckystrike
 ---
+
 # Chrome Coupons in Address Bar Feature
 
 If you have ever shopped online and manually copied coupon codes from deal websites, only to find them expired or not working, you have probably searched for chrome coupons in address bar feature. This is a convenient way to automatically find and apply discount codes without the hassle of searching through multiple websites. In this guide, we will explain how this feature works and what options are available to make your online shopping more affordable.

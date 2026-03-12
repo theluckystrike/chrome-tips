@@ -18,6 +18,7 @@ tags:
 - browser
 author: theluckystrike
 ---
+
 # Chrome for Twitch Buffering Fix
 
 If you are searching for chrome for twitch buffering fix, you are probably frustrated with streams that keep pausing at the worst possible moments. Whether you are watching your favorite streamer play games or catching up on a live event, buffering can completely ruin the experience. The good news is that there are several things you can try to get your Twitch streams running smoothly again.

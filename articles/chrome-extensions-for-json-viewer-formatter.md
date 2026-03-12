@@ -11,6 +11,7 @@ categories: '[tools, extensions]'
 tags: '[chrome-extensions, json, developer-tools, browser]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for JSON Viewer Formatter
 
 Chrome extensions for JSON viewer formatter are lifesavers when you work with data from APIs, test web applications, or debug software. If you have ever opened a file or response that looks like a scrambled wall of text with curly braces and quotes everywhere, you already know how frustrating it can be to read raw JSON. That messy appearance is not the fault of the data itself. JSON, which stands for JavaScript Object Notation, is designed to be machine-readable rather than human-friendly. The compact format saves space and processes quickly, but it becomes nearly impossible to understand when you are trying to review it by eye.

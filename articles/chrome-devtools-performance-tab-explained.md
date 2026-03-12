@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome DevTools Performance Tab Explained
-description: "Learn how to use the Chrome DevTools Performance tab to analyze and improve your website's loading speed and runtime performance......................"
+description: Learn how to use the Chrome DevTools Performance tab to analyze and improve
+  your website's loading speed and runtime performance.
 date: 2026-03-12
 categories:
 - browser-tips
@@ -73,8 +74,9 @@ The Chrome DevTools Performance tab is an invaluable tool for anyone building or
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome floating video window how to use](/chrome-floating-video-window-how-to-use)
-* [Chrome OS vs Windows for Everyday Use](/chrome-os-vs-windows-for-everyday-use)
-* [Chrome Version How to Check Which Version](/chrome-version-how-to-check-which-version)
+## Related Articles
+* [Chrome Local Storage View Edit: How to Inspect and Modify Website Data](/articles/chrome-local-storage-view-edit/)
+* [Chrome DevTools Network Throttling Guide](/articles/chrome-devtools-network-throttling-guide/)
+* [Chrome DevTools Responsive Design Mode Guide](/articles/chrome-devtools-responsive-design-mode-guide/)

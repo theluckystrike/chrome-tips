@@ -11,6 +11,7 @@ categories: '[browsing-tips]'
 tags: '[chrome-links, tab-management, browser-settings]'
 author: theluckystrike
 ---
+
 # How to Make Chrome Open Links in a New Tab
 
 If you are searching for how to make Chrome open links in a new tab, you probably find it frustrating when clicking a link replaces the page you are reading. Whether you are researching a topic, shopping for products, or following multiple articles, being able to open links in new tabs keeps your place while you explore additional content. There are several simple ways to make this happen in Chrome, and we will walk through each one.

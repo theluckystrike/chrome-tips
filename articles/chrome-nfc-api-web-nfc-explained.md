@@ -1,10 +1,19 @@
 ---
 layout: default
-title: "Chrome NFC API: Web NFC Explained"
-description: "Discover how the Chrome NFC API enables web applications to read and write NFC tags directly from the browser........................................."
+title: 'Chrome NFC API: Web NFC Explained'
+description: Discover how the Chrome NFC API enables web applications to read and
+  write NFC tags directly from the browser.
 date: 2026-01-15
-categories: [api, web-development, chrome]
-tags: [chrome-nfc, web-nfc, nfc-api, browser-api, javascript]
+categories:
+- api
+- web-development
+- chrome
+tags:
+- chrome-nfc
+- web-nfc
+- nfc-api
+- browser-api
+- javascript
 author: theluckystrike
 permalink: chrome-nfc-api-web-nfc-explained
 last_modified_at: '2026-03-12'
@@ -69,8 +78,9 @@ The Web NFC API represents a significant step forward in bringing physical and d
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Not Responding Windows 10 Fix](/chrome-not-responding-windows-10-fix)
-* [chrome protected audience api explained](/chrome-protected-audience-api-explained)
-* [Chrome Tab Color Coding How to Use](/chrome-tab-color-coding-how-to-use)
+## Related Articles
+* [How to Keep Your Screen Awake Using Chrome Screen Wake Lock API](/articles/chrome-screen-wake-lock-api-prevent-sleep/)
+* [Chrome Vibration API: A Complete Guide for Mobile Web Developers](/articles/chrome-vibration-api-mobile-web/)
+* [Chrome WebTransport API Explained](/articles/chrome-webtransport-api-explained/)

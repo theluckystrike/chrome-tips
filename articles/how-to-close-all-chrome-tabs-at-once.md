@@ -11,6 +11,7 @@ categories: '[productivity, tips]'
 tags: '[tabs, chrome-tips, browser-management]'
 author: theluckystrike
 ---
+
 # How to Close All Chrome Tabs at Once
 
 If you have ever wondered how to close all Chrome tabs at once, you are probably dealing with the frustration of having way too many tabs open and not wanting to close them one by one. This is an incredibly common situation that happens to almost everyone who uses Chrome regularly, and it can feel overwhelming when you are staring at dozens of tabs and thinking about how long it will take to close them all manually.

@@ -17,6 +17,7 @@ tags:
 - browser
 author: theluckystrike
 ---
+
 # Chrome Built-In PDF Editor Guide
 
 Adobe Acrobat and other dedicated PDF software have dominated the document editing landscape for decades. But did you know that Google Chrome comes with a powerful built-in PDF editor that can handle most everyday PDF tasks without requiring any additional software? Whether you need to fill out forms, sign contracts, add annotations, or make quick edits, Chrome's PDF capabilities have you covered. This comprehensive guide walks you through everything you need to know about using Chrome's built-in PDF editor effectively.

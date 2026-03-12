@@ -11,6 +11,7 @@ categories: '[extensions, accessibility]'
 tags: '[chrome-extension, accessibility, browser, assistive-technology]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Accessibility Needs
 
 The web should be accessible to everyone, but let's be honest—many websites make browsing frustrating for people with different abilities. Whether you have visual impairments, motor difficulties, or reading challenges, the right Chrome extensions can transform your browsing experience from struggles to smooth sailing.

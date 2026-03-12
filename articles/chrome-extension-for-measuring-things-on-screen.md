@@ -10,6 +10,7 @@ categories: '[extensions, productivity]'
 tags: '[measurement, screen-measurement, chrome-extension, tools]'
 author: theluckystrike
 ---
+
 # Chrome Extension for Measuring Things on Screen
 
 Have you ever needed to know exactly how big something is on your computer screen? If you have searched for a chrome extension for measuring things on screen, you know there are plenty of options out there. Whether you are working on a design project, comparing product sizes from different websites, or just curious about dimensions, measuring on screen can be surprisingly useful. This guide will help you understand what these extensions do, why they come in handy, and how to choose the right one for your situation.

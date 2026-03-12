@@ -18,6 +18,7 @@ author: theluckystrike
 permalink: chrome-shared-array-buffer-usage
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Shared Array Buffer Usage
 
 SharedArrayBuffer is a powerful JavaScript feature that enables true multithreading in web applications. Unlike regular arrays, SharedArrayBuffer allows multiple threads to access the same memory location simultaneously, making it ideal for high-performance computing tasks in the browser. In this guide, we will explore how to use SharedArrayBuffer in Chrome, its requirements, and practical applications.

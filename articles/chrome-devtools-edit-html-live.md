@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-devtools-edit-html-live
 ---
+
 # Chrome Devtools Edit HTML Live
 
 If you are searching for chrome devtools edit html live, you probably want to make quick changes to a webpage and see the results immediately without dealing with code files or refreshing the page. This is a common need for anyone testing website changes, fixing layout problems, or just exploring how web pages work. Chrome DevTools makes this possible directly in your browser.

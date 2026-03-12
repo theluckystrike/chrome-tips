@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Not Responding Windows 10 Fix
-description: "Is Chrome not responding on Windows 10? Discover proven solutions to fix Chrome freezing, crashing, and hanging issues with these practical troubleshooting s..."
+description: Is Chrome not responding on Windows 10? Discover proven solutions to
+  fix Chrome freezing, crashing, and hanging issues with these practical troubleshooting
+  s...
 date: 2025-12-11
 categories:
 - performance
@@ -90,8 +92,9 @@ Chrome not responding on Windows 10 is frustrating, but with these troubleshooti
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Bookmarks Bar Show Hide Shortcut](/chrome-bookmarks-bar-show-hide-shortcut)
-* [chrome google photos integration tips](/chrome-google-photos-integration-tips)
-* [How to Use Chrome on Two Monitors](/how-to-use-chrome-on-two-monitors)
+## Related Articles
+* [Chrome Tab Crashed He Dead Fix](/articles/chrome-tab-crashed-he-dead-fix/)
+* [Chrome Crashing on Low Memory Computer](/articles/chrome-crashing-on-low-memory-computer/)
+* [Chrome Freezing When Too Many Tabs Open: Solutions That Work](/articles/chrome-freezing-when-too-many-tabs-open/)

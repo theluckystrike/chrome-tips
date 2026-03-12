@@ -11,6 +11,7 @@ categories: '[performance, chrome-extensions]'
 tags: '[chrome-extensions, lag-fix, slow-browser, chrome-performance, extension-troubleshooting]'
 author: theluckystrike
 ---
+
 # Chrome Extensions Causing Lag: Which One Is Slowing You Down?
 
 If your Chrome browser has been feeling sluggish lately, you are not alone. Many users wonder why their once-speedy browser now takes forever to load pages or respond to clicks. The answer is often simpler than you think: **chrome extensions causing lag** is a common problem, especially on computers with limited RAM. The good news is that you can identify the culprit and fix it yourself in just a few minutes.

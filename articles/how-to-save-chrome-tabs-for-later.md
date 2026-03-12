@@ -11,6 +11,7 @@ categories: '[productivity, tabs]'
 tags: '[save-tabs, tab-management, chrome-tips, bookmarks]'
 author: theluckystrike
 ---
+
 # How to Save Chrome Tabs for Later
 
 We've all been there. You open dozens of tabs while researching something, then need to close Chrome or your computer runs out of memory. Or you find an interesting article but aren't ready to read it now. Then somehow those tabs disappear and you can never find them again. If you need to know how to save Chrome tabs for later, this guide will help you.

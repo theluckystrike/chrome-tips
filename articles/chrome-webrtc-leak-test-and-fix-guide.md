@@ -11,6 +11,7 @@ categories: '[privacy, security, chrome]'
 tags: '[webrtc, privacy, chrome, security, browser]'
 author: theluckystrike
 ---
+
 # Chrome WebRTC Leak Test and Fix Guide
 
 If you use Chrome for sensitive browsing—whether for work, banking, or just valuing your privacy—you've probably heard of WebRTC. This real-time communication technology lets browsers do amazing things like video calls and peer-to-peer sharing. But there's a catch: WebRTC can accidentally reveal your real IP address, even when you're using a VPN. This is called a **WebRTC leak**, and it can compromise your privacy without you knowing.

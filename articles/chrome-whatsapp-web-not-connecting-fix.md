@@ -10,6 +10,7 @@ categories: '[chrome, whatsapp, troubleshooting]'
 tags: '[whatsapp-web, chrome-fixes, browser-tips, messaging]'
 author: theluckystrike
 ---
+
 # Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide
 
 You're trying to use WhatsApp Web in Chrome, but it just won't connect. The QR code loads, you scan it with your phone, and nothing happens. Or perhaps you're stuck on the "connecting" spinner that never ends. This is a surprisingly common issue, and the good news is—it's usually easy to fix.

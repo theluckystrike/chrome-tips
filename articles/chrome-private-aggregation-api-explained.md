@@ -19,6 +19,7 @@ tags:
 - web-development
 author: theluckystrike
 ---
+
 # Chrome Private Aggregation API Explained
 
 If you've been following developments in web privacy, you may have heard about the **Chrome Private Aggregation API**. This relatively new browser API is designed to help developers measure aggregate user behavior while still protecting individual privacy. In this guide, I'll explain what the Private Aggregation API is, how it works, and why it matters for the future of web privacy.

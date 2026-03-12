@@ -8,6 +8,7 @@ date: 2025-03-09
 last_modified_at: '2026-03-12'
 permalink: chrome-devtools-flexbox-debugger
 ---
+
 # Chrome DevTools Flexbox Debugger
 
 If you have ever searched for "chrome devtools flexbox debugger" because your website layout was not behaving the way you expected, you are in the right place. Flexbox is one of the most powerful CSS layout systems, but it can also be one of the most confusing. When your elements are not aligning, spacing, or sizing the way you intended, it can feel like trying to solve a puzzle without all the pieces. Fortunately, Chrome DevTools includes a built-in flexbox debugger that makes debugging flex layouts much easier.

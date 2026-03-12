@@ -8,6 +8,7 @@ date: '2026-03-09'
 last_modified_at: '2026-03-12'
 permalink: chrome-subgrid-css-explained
 ---
+
 Chrome subgrid CSS explained is a topic that many web designers and developers have been curious about since Chrome added support for this feature. If you have heard about subgrid and wonder what it does or how it can help you create better websites, this guide will walk you through everything you need to know in simple terms.
 
 ## What Subgrid Actually Is

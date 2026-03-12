@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-anchor-positioning-api-explained
 ---
+
 # Chrome Anchor Positioning API Explained
 
 Chrome anchor positioning API explained is something many people search for when they notice improvements in how certain web elements behave in their browser. If you have used Chrome recently and noticed that tooltips, pop-up menus, or dropdown boxes now appear more smoothly and stay where they should, the anchor positioning API is likely behind that improvement.

@@ -16,6 +16,7 @@ tags:
 - browser-customization
 author: theluckystrike
 ---
+
 # Chrome Extensions for Website Dark Mode Forced
 
 Chrome extensions for website dark mode forced are a practical solution for anyone who spends time browsing the web and finds bright white backgrounds hard on the eyes. Whether you prefer a darker interface for aesthetic reasons, have light sensitivity, or simply want to reduce eye strain during late-night browsing sessions, forcing dark mode on websites that do not offer it natively can make a big difference in your daily experience.

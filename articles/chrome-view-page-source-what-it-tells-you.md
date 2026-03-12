@@ -10,6 +10,7 @@ categories: '[browsers, chrome, developer-tools]'
 tags: '[chrome, page-source, html, developer-tools, debugging]'
 author: theluckystrike
 ---
+
 # Chrome View Page Source: What It Tells You
 
 Have you ever wondered what makes up the webpage you are viewing in Chrome? The visible content you see is only part of the story. Behind every website is a collection of code that tells your browser exactly how to display everything. **Chrome's View Page Source** feature lets you peek behind the curtain and see this underlying code. This tool can be surprisingly useful for learning, troubleshooting, and understanding how the web works.

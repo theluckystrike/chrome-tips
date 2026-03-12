@@ -11,6 +11,7 @@ categories: '[privacy, security]'
 tags: '[chrome, privacy, usage-statistics, data-sharing]'
 author: theluckystrike
 ---
+
 # Chrome Usage Statistics Sharing Should I Opt Out
 
 Chrome usage statistics sharing should i opt out is a question that comes up when you notice a prompt or setting in Chrome asking you to share usage and crash data with Google. If you have ever seen a message pop up in Chrome asking whether you want to help improve Chrome by sending usage statistics, you might have wondered what exactly this means and whether you should say yes or no. This is a reasonable thing to wonder about, since it involves sharing information about how you use your browser.

@@ -10,6 +10,7 @@ categories: '[accessibility, text, low-vision]'
 tags: '[chrome, text-scaling, low-vision, accessibility, browser]'
 author: theluckystrike
 ---
+
 # Chrome Text Scaling for Low Vision Users
 
 If you have been searching for chrome text scaling for low vision users, you likely know how frustrating it can be when websites display text that is too small to read comfortably. Whether you are dealing with age-related vision changes, a visual impairment, or simply find that modern websites use increasingly tiny fonts, there are practical solutions available. This guide will walk you through the different ways you can adjust text size in Chrome to create a browsing experience that works for your eyes.

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Chrome Extensions Slowing Down Browser – What You Need to Know
-description: "Chrome extensions can significantly impact your browser's performance. Discover why your browser feels sluggish and how to restore its speed.........."
+title: "Chrome Extensions Slowing Down Browser \u2013 What You Need to Know"
+description: Chrome extensions can significantly impact your browser's performance.
+  Discover why your browser feels sluggish and how to restore its speed.
 date: 2026-03-12
 permalink: chrome-extensions-slowing-down-browser
 categories:
@@ -58,8 +59,9 @@ Chrome extensions slowing down browser performance is a common issue that often 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Web Page Test Advanced Guide](/chrome-web-page-test-advanced-guide)
-* [Chrome vs Firefox Battery Life: Which Browser Saves More Power](/chrome-vs-firefox-battery-life)
-* [Best Browser for Low RAM Computer 2026](/best-browser-for-low-ram-computer-2026)
+## Related Articles
+* [Chrome Extensions for Tab Sleeping Automatically](/articles/chrome-extensions-for-tab-sleeping-automatically/)
+* [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/articles/chrome-grammarly-extension-slowing-browser/)
+* [Chrome Takes Forever to Load Pages Fix](/articles/chrome-takes-forever-to-load-pages-fix/)

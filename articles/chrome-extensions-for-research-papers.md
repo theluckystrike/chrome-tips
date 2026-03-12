@@ -10,6 +10,7 @@ categories: '[research, tips]'
 tags: '[chrome-extensions, research-papers, academic]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Research Papers
 
 If you are searching for chrome extensions for research papers, you likely spend a significant amount of time reading, organizing, and managing academic content. Many researchers and students struggle with keeping track of dozens of open papers, dealing with slow browsers due to too many tabs, and finding ways to read academic content more efficiently. The good news is that Chrome offers powerful extensions specifically designed to make your research workflow much smoother.

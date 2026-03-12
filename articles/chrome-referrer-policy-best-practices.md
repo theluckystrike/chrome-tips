@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Referrer Policy Best Practices
-description: Learn how to configure Chrome referrer policy for better privacy and security. Discover the different policy options and when to use each one.
+description: Learn how to configure Chrome referrer policy for better privacy and
+  security. Discover the different policy options and when to use each one.
 permalink: chrome-referrer-policy-best-practices
 last_modified_at: '2026-03-12'
 ---
@@ -79,8 +80,9 @@ Take a moment to review your current configuration. Small adjustments to your re
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Tabs on Top vs Bottom: How to Change](/chrome-tabs-on-top-vs-bottom-how-to-change)
-* [Chrome for Deepl Translator Extension](/chrome-for-deepl-translator-extension)
-* [Chrome Default Search Engine Changed How to Fix](//chrome-default-search-engine-changed-how-to-fix/)
+## Related Articles
+* [Chrome Web Notifications Best Practices](/articles/chrome-web-notifications-best-practices/)
+* [Chrome for Password Security Best Practices](/articles/chrome-for-password-security-best-practices/)
+* [Chrome Notification Permission Best Practices](/articles/chrome-notification-permission-best-practices/)

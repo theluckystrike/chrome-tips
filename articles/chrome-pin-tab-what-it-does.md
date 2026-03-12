@@ -16,6 +16,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 ---
+
 # Chrome Pin Tab What It Does
 
 Chrome pin tab what it does is a question that comes up often for browser users who want to keep their most important websites within easy reach. If you have ever accidentally closed a tab you needed or struggled to find a specific website among dozens of open tabs, pinning that tab could make a big difference in your daily browsing experience.

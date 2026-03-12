@@ -11,6 +11,7 @@ categories: '[developer-tools, debugging, tips]'
 tags: '[chrome-devtools, websocket, debugging, web-development]'
 author: theluckystrike
 ---
+
 # How to Inspect and Debug WebSocket Connections in Chrome
 
 WebSocket connections are the backbone of real-time web applications, enabling双向 communication between browsers and servers without the overhead of repeated HTTP requests. Whether you are building a live chat application, a collaborative editing tool, or a real-time dashboard, understanding how to inspect and debug WebSocket connections in Chrome is essential for maintaining healthy, performant applications.

@@ -18,6 +18,7 @@ tags:
 - browser-optimization
 author: theluckystrike
 ---
+
 # Chrome Hardware Acceleration Guide
 
 Hardware acceleration is one of the most powerful yet often overlooked features in Google Chrome. When properly configured, it can transform your browsing experience by offloading intensive tasks from your CPU to your graphics card. This guide will walk you through everything you need to know about hardware acceleration in Chrome, including when to enable it, how GPU compositing works, common troubleshooting steps, and how it specifically improves video playback.

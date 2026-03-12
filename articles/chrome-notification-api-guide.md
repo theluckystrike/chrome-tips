@@ -18,6 +18,7 @@ tags:
 - browser-api
 author: theluckystrike
 ---
+
 # Chrome Notification API Guide
 
 The Chrome Notification API is a powerful tool that enables developers to engage users even when they are not actively using your website or extension. Whether you need to deliver real-time updates, remind users about important events, or simply enhance user engagement, understanding how to properly implement notifications in Chrome is essential for modern web and extension development.

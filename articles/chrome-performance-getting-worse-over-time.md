@@ -15,6 +15,7 @@ tags:
 - chrome-speed
 author: theluckystrike
 ---
+
 # Chrome Performance Getting Worse Over Time
 
 If you have noticed chrome performance getting worse over time, you are not imagining things. Many Chrome users experience this gradual slowdown, and it can be frustrating when your browser that once felt fast now takes forever to load pages or responds slowly to your clicks. Understanding why this happens and what you can do about it can help restore your browser to its former speed.

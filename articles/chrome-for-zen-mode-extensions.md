@@ -17,6 +17,7 @@ tags:
 - mindfulness
 author: theluckystrike
 ---
+
 # Chrome for Zen Mode Extensions
 
 If you are searching for chrome for zen mode extensions, you likely want to transform your browser into a peaceful workspace that supports calm, focused work. Many people feel overwhelmed by the constant noise, notifications, and visual clutter that comes with modern web browsing. The good news is that the right extensions can help you create a more serene digital environment.

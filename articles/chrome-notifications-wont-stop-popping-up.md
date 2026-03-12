@@ -18,6 +18,7 @@ tags:
 - pop-ups
 author: theluckystrike
 ---
+
 # Chrome Notifications Won't Stop Popping Up? Here's How to Fix It
 
 We've all been there. You're trying to focus on work or browse peacefully, and suddenly Chrome notifications start bombarding you. That little bell icon keeps lighting up, and those pop-ups interrupt your workflow every few minutes. If you're thinking "Chrome notifications won't stop popping up," you're not alone—this is one of the most common frustrations Chrome users face.

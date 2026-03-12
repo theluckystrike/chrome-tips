@@ -18,6 +18,7 @@ tags:
 - progressive-web-app
 author: theluckystrike
 ---
+
 # Chrome PWA Update Mechanism How It Works
 
 Chrome pwa update mechanism how it works is something every PWA developer and user should understand. When you install a progressive web app from Chrome, you expect it to stay current with the latest features and bug fixes. But what actually happens when a PWA gets updated? Let me walk you through the entire process so you know what to expect.

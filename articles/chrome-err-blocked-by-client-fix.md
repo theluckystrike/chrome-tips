@@ -11,6 +11,7 @@ categories: '[troubleshooting, browsing]'
 tags: '[chrome-err-blocked, chrome-fix, browser-error, err-blocked-by-client]'
 author: theluckystrike
 ---
+
 # Chrome ERR_BLOCKED_BY_CLIENT Fix
 
 You are browsing along in Chrome, clicking links and reading articles, when suddenly a page will not load. At the top you see an error message that says ERR_BLOCKED_BY_CLIENT. It can be confusing and frustrating, especially when you know the website should be working. Let me explain what this error means and how you can get things working again.

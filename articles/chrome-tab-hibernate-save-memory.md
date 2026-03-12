@@ -18,6 +18,7 @@ author: theluckystrike
 permalink: chrome-tab-hibernate-save-memory
 last_modified_at: '2026-03-12'
 ---
+
 If you have ever found your Chrome browser sluggish despite having plenty of tabs open, you are dealing with a common issue that affects millions of users. Each open tab consumes memory and CPU resources, and when you accumulate dozens of tabs, your browser can become a significant drain on your system's performance. Fortunately, Chrome offers tab hibernate functionality that can help you reclaim memory and keep your browser running smoothly.
 
 ## Understanding Chrome Tab Hibernate

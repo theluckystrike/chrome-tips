@@ -17,6 +17,7 @@ author: theluckystrike
 permalink: chrome-slow-on-android-fix
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Slow on Android Fix
 
 If your Chrome browser has become sluggish on your Android phone, you are not alone. Many people search for "chrome slow on android fix" because Chrome can slow down over time due to various reasons. The good news is that you can restore your browser to its full speed with a few simple steps. Let us walk you through what causes this slowdown and how you can fix it.

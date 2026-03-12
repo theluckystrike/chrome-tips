@@ -11,6 +11,7 @@ categories: '[performance, battery]'
 tags: '[chrome-battery, browser-performance, tab-management]'
 author: theluckystrike
 ---
+
 # How to Tell Which Chrome Tab Is Draining Battery
 
 If you are wondering how to tell which Chrome tab is draining battery, you have probably noticed your laptop battery running out faster than usual or your computer fans spinning loudly while you browse. This is a common frustration, especially when you have multiple tabs open and cannot figure out which one is causing the problem. The good news is that Chrome has built-in tools that help you identify which tabs are using the most power, and this guide will show you exactly how to find and fix them.

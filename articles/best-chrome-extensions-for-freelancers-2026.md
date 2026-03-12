@@ -16,9 +16,8 @@ tags:
 - remote-work
 - 2026
 author: theluckystrike
-last_modified_at: '2026-03-12'
-permalink: best-chrome-extensions-for-freelancers-2026
 ---
+
 # Best Chrome Extensions for Freelancers 2026
 
 # Best Chrome Extensions for Freelancers 2026

@@ -11,6 +11,7 @@ categories: '[browser-tips, web-development]'
 tags: '[website-technology, web-tools, browser-features]'
 author: theluckystrike
 ---
+
 # Chrome What Technology Is Website Using
 
 If you are searching for chrome what technology is website using, you probably visited a website and wondered how it was built or what tools powers it. Maybe you saw something cool on a site and wanted to know how they did it, or perhaps you are comparing platforms for your own project. The good news is that Chrome offers several ways to discover what technology a website is using, and you do not need any technical background to do it.

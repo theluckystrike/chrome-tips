@@ -1,10 +1,17 @@
 ---
 layout: default
-title: "Chrome Client Hints Explained for Beginners"
-description: "Learn what Chrome client hints are, how they work, and why they matter for your browsing experience. A clear guide for everyday users................."
+title: Chrome Client Hints Explained for Beginners
+description: Learn what Chrome client hints are, how they work, and why they matter
+  for your browsing experience. A clear guide for everyday users.
 date: 2025-03-12
-categories: [beginners, chrome-tips]
-tags: [chrome-client-hints, browser-headers, privacy, beginners-guide]
+categories:
+- beginners
+- chrome-tips
+tags:
+- chrome-client-hints
+- browser-headers
+- privacy
+- beginners-guide
 author: theluckystrike
 permalink: chrome-client-hints-explained-for-beginners
 last_modified_at: '2026-03-12'
@@ -89,8 +96,9 @@ The next time you visit a website that looks perfectly suited to your device, yo
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome User Agent Reduction What Changed](/chrome-user-agent-reduction-what-changed)
-* [Chrome Redirect Virus How to Remove](/chrome-redirect-virus-how-to-remove)
-* [How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)](/how-to-downgrade-chrome-to-older-version)
+## Related Articles
+* [Chrome Client Hints Instead of User Agent: What Changed](/articles/chrome-client-hints-instead-of-user-agent/)
+* [Chrome Cookies Explained for Beginners](/articles/chrome-cookies-explained-for-beginners/)
+* [Chrome Encrypted DNS Explained for Beginners](/articles/chrome-encrypted-dns-explained-for-beginners/)

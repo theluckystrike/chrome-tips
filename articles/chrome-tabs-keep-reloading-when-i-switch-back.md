@@ -11,6 +11,7 @@ categories: '[performance, chrome, troubleshooting]'
 tags: '[chrome-tabs, tab-reloading, chrome-performance, memory-saver, chrome-tips]'
 author: theluckystrike
 ---
+
 # Chrome Tabs Keep Reloading When I Switch Back
 
 If you are wondering "why do my Chrome tabs keep reloading when I switch back," you are not alone. This is one of the most common complaints from Chrome users, especially those with older computers or limited RAM. The good news is that there are practical solutions you can try right now to fix this issue.

@@ -17,6 +17,7 @@ tags:
 - page-loading
 author: theluckystrike
 ---
+
 # Chrome Preloading Pages Should I Enable It
 
 If you have been asking yourself "chrome preloading pages should i enable it", you are not alone. This is a common question among Chrome users who want to get the best performance from their browser. Chrome preloading is a feature that can either help or hurt your browsing experience depending on your specific situation, and understanding how it works will help you make the right choice for your needs.

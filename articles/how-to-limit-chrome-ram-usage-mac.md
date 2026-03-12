@@ -11,6 +11,7 @@ categories: '[performance, chrome, mac]'
 tags: '[chrome-ram, mac-performance, chrome-optimization, memory-management]'
 author: theluckystrike
 ---
+
 # How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers
 
 If your Mac runs slowly when you have Chrome open, you're not alone. Many Mac users with limited RAM—particularly those on older machines with 4GB or 8GB of memory—experience significant slowdowns when Chrome consumes too many system resources. The good news is that there are practical steps you can take to limit Chrome RAM usage on your Mac without giving up the browser you love.

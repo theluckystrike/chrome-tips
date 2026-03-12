@@ -18,6 +18,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-data-saver-mode-is-it-still-available
 ---
+
 If you are searching for chrome data saver mode is it still available, you might be wondering where this feature went and what you can use instead. Many users who relied on Data Saver to reduce their data usage have noticed it is no longer where they remember it being. This guide explains what happened to Data Saver mode, why it was removed, and what alternatives you can use to keep saving data while browsing.
 
 ## What Happened to Chrome Data Saver Mode

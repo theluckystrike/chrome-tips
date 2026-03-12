@@ -17,6 +17,8 @@ tags:
 - organization
 author: theluckystrike
 ---
+
+
 # Chrome Reading List vs Bookmarks — What's the Difference and When to Use Each
 
 If you use Chrome, you've probably noticed two similar-looking features sitting side by side in your bookmarks bar: the Bookmarks folder and the Reading List. At first glance, they seem to do the same thing—save pages for later. But understanding when to use each one can actually transform how you organize your web browsing and consume content.

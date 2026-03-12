@@ -10,6 +10,7 @@ categories: '[tips]'
 tags: '[chrome-extensions, session-management, tabs]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Session Saver Restore
 
 If you are searching for chrome extensions for session saver restore, you likely know the frustration of accidentally closing a window full of important tabs. Whether you were researching for work, planning a trip, or in the middle of shopping, losing those tabs can set you back significantly. The good news is that Chrome offers several extensions that can automatically save your session and restore it whenever you need.

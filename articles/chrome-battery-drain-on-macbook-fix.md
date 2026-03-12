@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Fix Chrome Battery Drain on MacBook
-description: "Discover proven methods to reduce Chrome browser battery usage on your MacBook and extend your battery life throughout the day........................"
+description: Discover proven methods to reduce Chrome browser battery usage on your
+  MacBook and extend your battery life throughout the day.
 date: 2024-01-15
 categories:
 - Chrome Tips
@@ -69,8 +70,9 @@ Start with the simplest changes first—closing unused tabs and disabling extens
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome trusted types dom xss prevent](/chrome-trusted-types-dom-xss-prevent)
-* [Chrome PDF Not Downloading Just Opening Fix](/chrome-pdf-not-downloading-just-opening-fix)
-* [Chrome Extensions for Watermark Remover](/chrome-extensions-for-watermark-remover)
+## Related Articles
+* [Chrome Using Too Much Battery on Laptop? Fix It Now](/articles/chrome-using-too-much-battery-on-laptop-fix/)
+* [How to Make Chrome Use Less Battery on MacBook](/articles/how-to-make-chrome-use-less-battery-macbook/)
+* [Chrome Energy Saver Mode Guide](/articles/chrome-energy-saver-mode-guide/)

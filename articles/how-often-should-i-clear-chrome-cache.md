@@ -11,6 +11,7 @@ categories: '[performance, troubleshooting]'
 tags: '[chrome-cache, browser-cache, chrome-performance, cache-cleaning]'
 author: theluckystrike
 ---
+
 # How Often Should I Clear Chrome Cache
 
 If you have ever wondered how often should i clear chrome cache, you are not alone. Many Chrome users find themselves asking this question when their browser starts feeling sluggish or when websites do not seem to be loading correctly. The short answer is that most users should clear their Chrome cache every few weeks or whenever they notice performance issues. However, the exact frequency depends on how you use your browser and what kind of problems you are experiencing.

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Chrome Loading Priority Hints and Fetchpriority: A Complete Guide"
-description: "Learn how Chrome loading priority hints and fetchpriority attribute can dramatically improve your browser's page load performance and user experience."
+title: 'Chrome Loading Priority Hints and Fetchpriority: A Complete Guide'
+description: Learn how Chrome loading priority hints and fetchpriority attribute can
+  dramatically improve your browser's page load performance and user experience.
 date: 2026-01-15
 permalink: chrome-loading-priority-hints-fetchpriority
 categories:
@@ -76,8 +77,9 @@ Compare performance before and after implementing fetchpriority to understand th
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Gap Property CSS Flexbox Grid](/chrome-gap-property-css-flexbox-grid)
-* [Chrome Mouse Cursor Extension Customize](/chrome-mouse-cursor-extension-customize)
-* [Chrome Element Inspector Tips and Tricks](/chrome-element-inspector-tips-and-tricks)
+## Related Articles
+* [Chrome Speculative Parsing Explained](/articles/chrome-speculative-parsing-explained/)
+* [Chrome Critical Rendering Path Explained](/articles/chrome-critical-rendering-path-explained/)
+* [Chrome Memory Saver Mode 2026 Guide](/articles/chrome-memory-saver-mode-2026/)

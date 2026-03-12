@@ -7,6 +7,7 @@ date: '2026-03-10'
 last_modified_at: '2026-03-12'
 permalink: chrome-webauthn-explained-for-regular-users
 ---
+
 Chrome webauthn explained for regular users is something that more people are coming across as websites introduce easier and safer ways to log in. If you have seen WebAuthn mentioned in Chrome settings or on websites but are not sure what it means, this guide will help you understand it in plain language.
 
 ## What WebAuthn Actually Is

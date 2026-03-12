@@ -8,6 +8,7 @@ permalink: chrome-slow-after-hibernation-fix
 date: '2026-03-10'
 last_modified_at: '2026-03-12'
 ---
+
 Does Chrome run slow after hibernation? If your browser feels sluggish, takes forever to load pages, or freezes after your computer wakes from hibernation, you are not alone. This is a common issue that affects many Chrome users, and the good news is that there are several straightforward fixes you can try.
 
 Let me walk you through why this happens and what you can do to get Chrome running smoothly again.

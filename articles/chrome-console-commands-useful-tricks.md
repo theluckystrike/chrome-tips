@@ -19,6 +19,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Console Commands: Useful Tricks Every User Should Know
 
 The Chrome developer console is one of the most powerful tools built into your browser, yet most users never explore beyond the basics. Whether you're debugging a website, testing JavaScript snippets, or just curious about how browsers work, the console offers a wealth of capabilities that can save you time and effort. Let me walk you through some of the most useful console commands and tricks that can elevate your browsing experience.

@@ -17,6 +17,7 @@ tags:
 - personalization
 author: theluckystrike
 ---
+
 # How to Change Your Chrome New Tab Background to a Custom Image
 
 If you have ever opened a new tab in Chrome and wished you could replace the default blank white page with something more personalized, you are not alone. The new tab page is what you see dozens of times every day, and having a custom background image can make your browsing experience feel more inviting and tailored to your preferences. Whether you want to display your favorite photo, a motivational quote, or a calming nature scene, changing your Chrome new tab background to a custom image is easier than you might think.

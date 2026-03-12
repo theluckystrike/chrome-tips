@@ -18,6 +18,7 @@ tags:
 - web-development
 author: theluckystrike
 ---
+
 # Chrome Client Hints Instead of User Agent: What Changed
 
 If you have been working with web development for any length of time, you are probably familiar with the User-Agent header. For decades, websites have relied on this simple string to identify which browser a visitor is using, what operating system they run, and other details about their device. However, Google Chrome has been gradually replacing this older approach with something called Client Hints. Understanding why this change is happening and how it affects your websites is essential for any modern web developer.

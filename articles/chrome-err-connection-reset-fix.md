@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Chrome ERR_CONNECTION_RESET Fix – Complete Troubleshooting Guide
-description: "Stuck with ERR_CONNECTION_RESET in Chrome? This guide covers practical solutions to fix connection reset errors and get your browser working again...."
+title: "Chrome ERR_CONNECTION_RESET Fix \u2013 Complete Troubleshooting Guide"
+description: Stuck with ERR_CONNECTION_RESET in Chrome? This guide covers practical
+  solutions to fix connection reset errors and get your browser working again.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-err-connection-reset-fix
@@ -79,8 +80,9 @@ The ERR_CONNECTION_RESET error in Chrome can be frustrating, but most cases are 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome for Social Media Management Extensions](/chrome-for-social-media-management-extensions)
-* [Chrome Reset All Settings: What Gets Deleted](/chrome-reset-all-settings-what-gets-deleted)
-* [Chrome Core Web Vitals Check My Website](/chrome-core-web-vitals-check-my-website)
+## Related Articles
+* [How to Fix Chrome Search Bar Not Working](/articles/chrome-search-bar-not-working-fix/)
+* [How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost](/articles/chrome-err-connection-refused-localhost-fix/)
+* [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix/)

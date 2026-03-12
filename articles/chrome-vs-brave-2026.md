@@ -10,6 +10,7 @@ categories: '[browsers, privacy, comparison]'
 tags: '[chrome, brave, browser-comparison, ad-blocking, privacy, crypto]'
 author: theluckystrike
 ---
+
 # Chrome vs Brave 2026 Comparison: Which Browser is Right for You?
 
 # Chrome vs Brave 2026 Comparison: Which Browser is Right for You?

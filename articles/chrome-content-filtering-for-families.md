@@ -17,6 +17,7 @@ tags:
 - chrome-for-families
 author: theluckystrike
 ---
+
 # Chrome Content Filtering for Families
 
 Chrome content filtering for families is something many parents worry about when their kids start using the internet. Whether you have a curious elementary schooler or a teenager with their own devices, keeping them safe online is a top priority. The good news is that Chrome offers several built-in tools and there are helpful extensions that make family browsing safer without being overly complicated.

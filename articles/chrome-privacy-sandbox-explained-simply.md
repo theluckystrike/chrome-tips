@@ -16,6 +16,7 @@ tags:
 - tracking
 author: theluckystrike
 ---
+
 If you have ever searched for chrome privacy sandbox explained simply, you probably found a lot of technical jargon that made your head spin. Do not worry, because this guide will break it down in plain language that anyone can understand. By the end, you will know exactly what the Privacy Sandbox is, why it matters to you, and what you can do about it.
 
 ## What Exactly Is the Privacy Sandbox

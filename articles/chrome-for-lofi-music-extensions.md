@@ -20,6 +20,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-lofi-music-extensions
 ---
+
 # Chrome for Lofi Music Extensions
 
 If you are looking for chrome for lofi music extensions, you likely want to enhance your focus while studying, working, or simply relaxing. Lofi music has taken the internet by storm, offering gentle beats that help people concentrate without being intrusive. Using Chrome extensions makes accessing this music effortless and keeps it readily available whenever you need it.

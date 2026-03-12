@@ -11,6 +11,7 @@ categories: '[troubleshooting, installation]'
 tags: '[chrome-wont-install, chrome-mac-fix, browser-installation, mac-chrome-problems]'
 author: theluckystrike
 ---
+
 # Chrome Wont Install on Mac Fix
 
 Trying to get Chrome installed on your Mac but running into problems? You are not alone. Many Mac users find that Chrome wont install on Mac, and it can be frustrating when you just want to browse the web. The good news is that most installation issues have simple causes and straightforward solutions. Let me walk you through what might be happening and how you can fix it.

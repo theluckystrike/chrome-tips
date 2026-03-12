@@ -10,6 +10,7 @@ categories: '[marketing, extensions]'
 tags: '[chrome-extensions, marketing, growth, user-acquisition]'
 author: theluckystrike
 ---
+
 # Chrome Extension Marketing Tips to Grow Your User Base
 
 You've built a great Chrome extension, but now comes the hard part: getting people to actually use it. With thousands of extensions competing for attention in the Chrome Web Store, standing out requires more than just a solid product. You need a smart marketing strategy. The good news is that many of the most effective tactics are free to implement and don't require a massive budget.

@@ -16,6 +16,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-figma-best-settings
 ---
+
 # Chrome for Figma Best Settings
 
 If you use chrome for figma best settings, you might have noticed occasional lag, slow loading times, or stuttering when working on complex designs. The good news is that Chrome has several built-in settings you can adjust to make your Figma experience much smoother. You do not need any technical expertise to make these changes.

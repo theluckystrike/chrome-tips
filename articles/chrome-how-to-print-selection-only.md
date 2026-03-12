@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Chrome How to Print Selection Only"
-description: "Learn how to print only what you need in Chrome. This guide shows simple.............................................................................."
-date: "2026-01-15"
+title: Chrome How to Print Selection Only
+description: Learn how to print only what you need in Chrome. This guide shows simple..............................................................................
+date: '2026-01-15'
 last_modified_at: '2026-03-12'
-permalink: "chrome-how-to-print-selection-only"
-categories: 
-tags: 
+permalink: chrome-how-to-print-selection-only
+categories: null
+tags: null
 author: theluckystrike
 ---
+
 # Chrome How to Print Selection Only
 
 Have you ever needed to print just a small part of a webpage instead of the entire page? Maybe you only need a recipe from a food blog, a specific section from an article, or a small piece of information from a longer document. You search "chrome how to print selection only" and you have come to the right place. Chrome gives you several ways to print just what you need, and this guide will walk you through each one.

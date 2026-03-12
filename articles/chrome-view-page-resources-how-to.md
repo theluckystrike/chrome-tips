@@ -10,6 +10,7 @@ categories: '[browser-tips, web-development]'
 tags: '[page-resources, developer-tools, troubleshooting]'
 author: theluckystrike
 ---
+
 # Chrome View Page Resources How to
 
 If you are searching for chrome view page resources how to, you might be trying to understand what makes a website work or perhaps you need to find a specific file embedded in a webpage. Maybe you saw an image on a site and wanted to know where it came from, or you are troubleshooting why a page looks or behaves strangely. Whatever your reason, Chrome provides a simple way to see every resource that makes up any webpage.

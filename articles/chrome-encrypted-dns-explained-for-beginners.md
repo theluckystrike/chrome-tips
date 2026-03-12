@@ -11,6 +11,7 @@ categories: '[privacy, security, chrome]'
 tags: '[chrome-encrypted-dns, privacy, security, browser-settings]'
 author: theluckystrike
 ---
+
 # Chrome Encrypted DNS Explained for Beginners
 
 Chrome encrypted DNS explained for beginners is something many people search for when they want to understand how to browse more privately. If you have ever wondered what encrypted DNS is and why it matters for your browsing experience, this guide will walk you through everything you need to know in plain English.

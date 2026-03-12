@@ -19,6 +19,7 @@ tags:
 - mobile-browser
 author: theluckystrike
 ---
+
 # Chrome Mobile Tabs Too Many How to Manage
 
 Have you ever opened Chrome on your phone, looked at your tab bar, and thought "chrome mobile tabs too many how to manage"? If so, you are dealing with one of the most common frustrations that mobile browser users face today. It happens to the best of us, and it can quickly turn your browsing experience from enjoyable to overwhelming.

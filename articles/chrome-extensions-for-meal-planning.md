@@ -10,6 +10,7 @@ categories: '[productivity, lifestyle]'
 tags: '[chrome-extensions, meal-planning, cooking]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Meal Planning
 
 If you are searching for chrome extensions for meal planning, you have likely experienced the frustration of staring at the refrigerator every evening wondering what to cook. Many people struggle with meal planning because it requires organization, recipe hunting, and grocery list management across multiple websites and apps. The good news is that Chrome extensions can streamline this entire process and make meal planning feel less like a chore.

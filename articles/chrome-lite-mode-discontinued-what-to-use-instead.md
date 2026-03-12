@@ -16,6 +16,7 @@ tags:
 - data-saving
 author: theluckystrike
 ---
+
 # Chrome Lite Mode Discontinued What to Use Instead
 
 If you have been wondering about chrome lite mode discontinued what to use instead, you are not alone. Many Chrome users have noticed that this handy feature is no longer available and are looking for alternatives. Let me walk you through what happened and what options you have now.

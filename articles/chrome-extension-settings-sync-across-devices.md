@@ -11,6 +11,7 @@ categories: '[troubleshooting, tips]'
 tags: '[chrome-extensions, settings-sync, browser-sync, chrome-tips]'
 author: theluckystrike
 ---
+
 # Chrome Extension Settings Sync Across Devices
 
 Chrome extension settings sync across devices is something many people expect to work automatically, but it often does not. You spend time configuring your favorite extensions exactly the way you like them on your work computer, then you come home, open Chrome on your personal laptop, and find everything has reset to default. Your carefully tuned ad blocker preferences, your password manager configurations, your productivity tool settings, all gone. This is a surprisingly common frustration, and understanding why it happens is the first step to fixing it.

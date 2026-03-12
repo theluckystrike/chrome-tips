@@ -10,6 +10,7 @@ categories: '[performance, chrome, memory]'
 tags: '[chrome-memory, chrome-tabs, ram-usage, chrome-optimization, memory-fix]'
 author: theluckystrike
 ---
+
 # Why Is My Chrome Tab Using 1GB of Memory? Here's Why and How to Fix It
 
 If you have ever opened Chrome Task Manager and noticed a single tab using 1GB of memory or more, you are not alone. This is one of the most common complaints from Chrome users, especially those with older computers or limited RAM. Understanding why this happens and knowing how to fix it can dramatically improve your browsing experience.

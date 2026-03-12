@@ -11,6 +11,7 @@ categories: '[productivity, podcasting]'
 tags: '[chrome-extensions, podcasters, browser-tools]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Podcasters
 
 If you are searching for chrome extensions for podcasters, you have probably noticed that running a podcast involves much more than just recording and editing audio. Between researching topics, finding guests, writing show notes, managing social media, and keeping your audience engaged, there never seems to be enough hours in the day. The good news is that Chrome extensions can help you work smarter, not harder, by automating repetitive tasks and organizing your research in ways that make sense.

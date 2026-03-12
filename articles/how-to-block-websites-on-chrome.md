@@ -11,6 +11,7 @@ categories: '[productivity]'
 tags: '[website-blocking, parental-controls, chrome-settings]'
 author: theluckystrike
 ---
+
 # How to Block Websites on Chrome
 
 If you are searching for how to block websites on chrome, you probably want to stop yourself from visiting certain sites or help someone else avoid distractions online. Whether you are trying to focus on work, protect your children from inappropriate content, or break a bad browsing habit, blocking websites is a practical solution that anyone can set up. In this guide, I will walk you through the different ways you can block websites on Chrome, from simple browser settings to helpful extensions.

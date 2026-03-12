@@ -18,6 +18,7 @@ tags:
 - business
 author: theluckystrike
 ---
+
 # Chrome Managed Bookmarks for Employees
 
 Chrome managed bookmarks for employees are a way for businesses to provide their team with a consistent set of bookmarks that appear automatically in every employee's browser. Instead of relying on each person to save the same important links or dig through their own messy bookmark collections, managed bookmarks let you push out a curated list of resources that everyone can access from the moment they log into their work computer.

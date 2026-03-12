@@ -17,6 +17,7 @@ tags:
 - web-development
 author: theluckystrike
 ---
+
 # Chrome Local Storage View Edit: How to Inspect and Modify Website Data
 
 If you are searching for chrome local storage view edit, you likely need to inspect or modify the data that websites store in your browser. Local storage is a powerful feature that allows websites to save information locally on your computer, but sometimes you need to see what data is being stored, debug issues, or even manually change those values. Chrome provides built-in tools that make this process straightforward, and this guide will walk you through everything you need to know.

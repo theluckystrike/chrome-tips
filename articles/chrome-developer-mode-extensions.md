@@ -10,6 +10,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-developer-mode-extensions
 ---
+
 # Chrome Developer Mode Extensions Guide
 
 Chrome developer mode is a powerful feature that allows you to load, test, and debug extensions that are not published in the Chrome Web Store. Whether you're building your own extension, testing a work-in-progress version, or evaluating third-party tools, understanding how to use developer mode effectively is essential for any Chrome power user or extension developer.

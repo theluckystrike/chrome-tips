@@ -19,6 +19,7 @@ tags:
 - chrome-performance
 author: theluckystrike
 ---
+
 If you are searching for chrome game streaming optimization tips, you probably want to make your browser-based gaming sessions run more smoothly. Whether you stream games through cloud gaming services, play browser games, or watch game streams on platforms like Twitch or YouTube, Chrome can sometimes feel sluggish. The good news is that a few simple adjustments can make a noticeable difference in performance.
 
 ## Why Chrome Can Struggle with Game Streaming

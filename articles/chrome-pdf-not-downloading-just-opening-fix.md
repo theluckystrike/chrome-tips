@@ -8,6 +8,7 @@ date: '2026-03-10'
 last_modified_at: '2026-03-12'
 permalink: chrome-pdf-not-downloading-just-opening-fix
 ---
+
 Chrome PDF not downloading just opening fix is something many Chrome users have struggled with. You click a link to download a PDF file, but instead of saving it to your computer, Chrome opens it in a new tab. This can be frustrating, especially when you need to keep the file for offline use or want to attach it to an email. The good news is this behavior is usually caused by a simple setting, and you can fix it in just a few clicks.
 
 Let me explain why Chrome does this, what settings control this behavior, and how you can change them to get Chrome to download PDFs like it should.

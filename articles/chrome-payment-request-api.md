@@ -20,6 +20,7 @@ tags:
 - web-payments
 author: theluckystrike
 ---
+
 # Chrome Payment Request API Guide
 
 The way people pay for goods and services online has changed dramatically over the past decade. Consumers now expect seamless, fast, and secure checkout experiences that remember their payment information and shipping preferences. For developers building e-commerce websites and web applications, implementing these expectations can be challenging. The Chrome Payment Request API provides a standardized solution that allows websites to interact with payment apps and digital wallets directly through the browser, eliminating the need for users to manually enter payment details for every purchase.

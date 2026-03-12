@@ -10,6 +10,7 @@ categories: '[browser, security, privacy]'
 tags: '[chrome, safe-browsing, security, privacy, browser-settings]'
 author: theluckystrike
 ---
+
 # How to Enable Chrome Enhanced Safe Browsing
 
 If you are searching for how to enable chrome enhanced safe browsing, you probably want better protection when browsing the internet. Chrome's enhanced safe browsing mode offers the strongest security features available in the browser, helping to protect you from dangerous websites, malicious downloads, and phishing attempts before they can cause any harm. This guide will walk you through the simple steps to enable this powerful security feature.

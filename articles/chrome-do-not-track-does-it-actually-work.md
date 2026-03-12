@@ -7,6 +7,7 @@ date: 2026-03-09
 last_modified_at: '2026-03-12'
 permalink: chrome-do-not-track-does-it-actually-work
 ---
+
 If you have ever wondered whether Chrome do not track does it actually work, you are not alone. This is a question that comes up frequently among Chrome users who care about their privacy. The short answer is more complicated than you might expect, and understanding how this feature works will help you make better decisions about your online privacy.
 
 ## What Chrome Do Not Track Actually Does

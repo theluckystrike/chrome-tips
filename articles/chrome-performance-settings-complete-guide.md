@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Performance Settings Complete Guide
-description: "Learn how to master chrome performance settings complete guide to speed up your browser, reduce memory usage, and get the most out of Chrome.........."
+description: Learn how to master chrome performance settings complete guide to speed
+  up your browser, reduce memory usage, and get the most out of Chrome.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-performance-settings-complete-guide
@@ -75,8 +76,9 @@ Remember that the optimal configuration depends on how you use Chrome. If you ty
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Custom Properties CSS Variables](//chrome-custom-properties-css-variables/)
-* [chrome for pocket extension setup](/chrome-for-pocket-extension-setup)
-* [Chrome Badging API Explained](/chrome-badging-api-explained)
+## Related Articles
+* [Chrome Best Settings For Slow Internet](/articles/chrome-best-settings-for-slow-internet/)
+* [Chrome Performance Settings Explained 2026](/articles/chrome-performance-settings-explained-2026/)
+* [Chrome Performance Settings Best Configuration](/articles/chrome-performance-settings-best-configuration/)

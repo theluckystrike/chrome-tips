@@ -11,6 +11,7 @@ categories: '[troubleshooting, browser-fix]'
 tags: '[chrome-webgl, webgl-crashing, chrome-crash, browser-fix, chrome-fix, low-ram]'
 author: theluckystrike
 ---
+
 # Chrome WebGL Crashing My Browser
 
 If you are typing "chrome webgl crashing my browser" into Google, you are probably frustrated. Your Chrome browser keeps freezing, closing unexpectedly, or giving you error messages whenever you visit a website with 3D graphics, games, or interactive visualizations. You might even feel like your computer is hopeless. Take a breath — this is a common problem, especially on computers with slower processors and limited RAM, and it is usually fixable.

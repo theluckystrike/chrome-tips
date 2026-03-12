@@ -80,8 +80,9 @@ While these tools help you measure website performance, remember that browser re
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Flexbox Debugging Guide](/chrome-flexbox-debugging)
-* [Chrome Passkeys Setup Guide 2026](/chrome-passkeys-setup-guide-2026)
-* [Chrome for Quick Commands Feature](/chrome-for-quick-commands-feature)
+## Related Articles
+* [Chrome Lighthouse Audit for Website Speed: Complete Guide](/articles/chrome-lighthouse-audit-website-speed/)
+* [How to Improve Your Chrome Lighthouse Performance Score](/articles/chrome-lighthouse-performance-score-improve/)
+* [Chrome Lighthouse Audit Complete Guide](/articles/chrome-lighthouse-audit-guide/)

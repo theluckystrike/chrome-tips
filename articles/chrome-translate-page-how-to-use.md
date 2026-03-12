@@ -10,6 +10,7 @@ categories: '[features, getting-started]'
 tags: '[chrome-translate, translation, language, how-to]'
 author: theluckystrike
 ---
+
 # How to Use Chrome Translate Page
 
 If you have ever landed on a website in a language you do not understand, you might have wondered how to use chrome translate page features. Chrome has a built-in translation tool that can automatically convert foreign language pages into your preferred language, making the web accessible regardless of the original language.

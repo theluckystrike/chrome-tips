@@ -11,6 +11,7 @@ categories: '[chrome, browser, productivity]'
 tags: '[chrome-window-management, browser-api, chrome-extensions, productivity]'
 author: theluckystrike
 ---
+
 # Chrome Window Management API Explained
 
 Chrome window management api explained is a topic that doesn't get as much attention as it should, especially for anyone who spends significant time working in a browser. If you have ever wished you could automatically arrange your browser windows in a specific layout, or automatically close certain windows after a period of inactivity, you are already thinking about window management, even if you did not know there was an API behind it.

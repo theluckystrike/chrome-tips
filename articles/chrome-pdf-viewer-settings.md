@@ -17,6 +17,7 @@ tags:
 - chrome
 author: theluckystrike
 ---
+
 # Chrome PDF Viewer Settings: Complete Customization Guide
 
 Google Chrome comes with a built-in PDF viewer that opens PDF files directly in your browser without requiring any additional software. This convenient feature handles most common PDF tasks, but many users are unaware of the various settings available to customize their viewing experience. Whether you need to adjust zoom levels, change page layouts, enable dark mode, or configure printing options, Chrome's PDF viewer offers numerous customization options worth exploring.

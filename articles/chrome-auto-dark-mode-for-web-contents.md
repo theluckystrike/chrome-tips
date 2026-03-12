@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-auto-dark-mode-for-web-contents
 ---
+
 Chrome auto dark mode for web contents is something many users have been looking for as they spend more time browsing in the evening or late at night. If you have ever found yourself squinting at a bright white website late at night, you know how uncomfortable it can be. Fortunately, there are ways to make Chrome automatically show websites in dark mode, and this guide will walk you through the options.
 
 ## Why Dark Mode Matters for Web Browsing

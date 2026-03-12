@@ -11,6 +11,7 @@ categories: '[tutorial, iphone, mobile]'
 tags: '[chrome-iphone, update-chrome, browser-update, mobile-chrome]'
 author: theluckystrike
 ---
+
 # How to Update Chrome on iPhone
 
 If you are wondering how to update Chrome on iPhone, you are in the right place. Keeping your Chrome browser updated is important for security, performance, and accessing the newest features. The good news is that updating Chrome on your iPhone is straightforward and usually happens automatically. Let me walk you through everything you need to know.

@@ -17,6 +17,7 @@ tags:
 - weak-passwords
 author: theluckystrike
 ---
+
 # Chrome Password Checkup Tool Guide
 
 In an era where data breaches are becoming increasingly common, protecting your online accounts has never been more critical. One of the most effective ways to safeguard your digital presence is by ensuring that your passwords are strong, unique, and secure. Google Chrome offers a powerful, built-in tool called **Password Checkup** that can help you identify compromised passwords, weak credentials, and instances of password reuse across your accounts. This comprehensive guide will walk you through everything you need to know about this essential security feature.

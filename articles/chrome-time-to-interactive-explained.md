@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Time to Interactive Explained
-description: "Learn what time to interactive means in Chrome, how it affects your browsing experience, and what you can do to improve page responsiveness..........."
+description: Learn what time to interactive means in Chrome, how it affects your browsing
+  experience, and what you can do to improve page responsiveness.
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-time-to-interactive-explained
@@ -60,8 +61,9 @@ Finally, clearing your browser cache periodically removes accumulated temporary 
 
 Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [How to Check If Chrome Extension Is Spying on Me](/how-to-check-if-chrome-extension-is-spying-on-me)
-* [Chrome Developer Tools Making Page Slow: What You Need to Know](//chrome-developer-tools-making-page-slow/)
-* [Chrome Download Files on Phone Where to Find](/chrome-download-files-on-phone-where-to-find)
+## Related Articles
+* [Chrome Time to First Byte Explained](/articles/chrome-time-to-first-byte-explained/)
+* [Chrome Page Source How to View Explained](/articles/chrome-page-source-how-to-view-explained/)
+* [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure/)

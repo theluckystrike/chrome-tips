@@ -7,6 +7,7 @@ date: 2026-03-09
 last_modified_at: '2026-03-12'
 permalink: chrome-dns-probe-finished-nxdomain-fix
 ---
+
 # Chrome DNS Probe Finished Nxdomain Fix
 
 Chrome dns probe finished nxdomain is one of the most frustrating errors you can encounter while browsing the web. You type in a website address, hit enter, and instead of loading the page you want, Chrome shows you an error that makes no sense. You might wonder what you did wrong or if your browser is broken. The good news is that this error is usually fixable, and you do not need to be a tech expert to solve it.

@@ -17,6 +17,7 @@ tags:
 - browser-testing
 author: theluckystrike
 ---
+
 # Chrome Recorder and DevTools: A Guide to Test Automation
 
 Testing web applications can feel like a never-ending chore. You build a feature, test it manually, fix bugs, test again, and repeat. But what if you could record your interactions once and replay them automatically whenever needed? That's exactly what **Chrome Recorder** offers—and when combined with Chrome DevTools, it becomes a powerful test automation solution that anyone can use.

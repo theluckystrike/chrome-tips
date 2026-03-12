@@ -11,6 +11,7 @@ categories: '[features, customization]'
 tags: '[chrome-flags, experimental-features, chrome-settings, 2026]'
 author: theluckystrike
 ---
+
 # Chrome Experimental Features List 2026
 
 If you have been searching for a chrome experimental features list 2026, you probably want to know what hidden tools are available in Chrome that are not shown in the regular settings. This guide gives you a complete overview of the experimental features you can enable in Chrome right now, with clear explanations of what each one does and which ones are worth trying.

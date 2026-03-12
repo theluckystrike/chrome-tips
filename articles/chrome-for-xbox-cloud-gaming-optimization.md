@@ -16,6 +16,7 @@ tags:
 - streaming
 author: theluckystrike
 ---
+
 # Chrome for Xbox Cloud Gaming Optimization
 
 If you are looking for chrome for xbox cloud gaming optimization, you have probably experienced some frustration with lag, stuttering, or unexpected disconnects while trying to play your favorite Xbox games through Chrome. Xbox Cloud Gaming, formerly known as xCloud, lets you stream games directly from Microsoft's servers to your browser, but getting the best experience requires a bit of tweaking. This guide will walk you through practical ways to make your Chrome browser work better with Xbox Cloud Gaming.

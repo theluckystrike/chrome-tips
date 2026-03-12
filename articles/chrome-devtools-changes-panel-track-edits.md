@@ -8,6 +8,7 @@ date: '2026-05-24'
 last_modified_at: '2026-03-12'
 permalink: chrome-devtools-changes-panel-track-edits
 ---
+
 How do you track edits in Chrome DevTools when making changes to your web pages? If you have ever tweaked some CSS in the inspector, reloaded the page, and then could not remember what you changed, you are not alone. This is a common frustration for web developers and designers. The good news is that Chrome DevTools has a built-in feature called the Changes panel that can help you keep track of every modification you make during a debugging session.
 
 Let me explain what this panel does, why it is useful, and how you can use it to stay organized while working on your projects.

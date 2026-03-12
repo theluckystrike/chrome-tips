@@ -10,6 +10,7 @@ categories: '[performance, browsers]'
 tags: '[8gb-ram, chrome, memory, tab-management]'
 author: theluckystrike
 ---
+
 # Is 8GB RAM Enough for Chrome with Many Tabs?
 
 If you have ever wondered "is 8gb ram enough for chrome with many tabs", you are not alone. This is one of the most common questions from users who want to browse the web without their computer grinding to a halt. The honest answer is: it depends on how you use Chrome and what other programs you have running. Let us break down exactly what you can expect and, more importantly, what you can do about it.

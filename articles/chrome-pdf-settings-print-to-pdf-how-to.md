@@ -18,6 +18,7 @@ tags:
 - chrome-settings
 author: theluckystrike
 ---
+
 # Chrome PDF Settings Print to PDF How to
 
 If you are searching for chrome pdf settings print to pdf how to, you probably want to save a webpage as a PDF document but are not sure where to start or what options are available. Chrome has a powerful built-in feature that lets you convert any webpage into a PDF file without needing any extra software. Whether you need to save an article for offline reading, preserve an invoice, or keep a copy of an important webpage, Chrome makes this process simple and free.

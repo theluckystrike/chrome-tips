@@ -10,6 +10,7 @@ categories: '[extensions, productivity]'
 tags: '[pdf, chrome-extension, editing, free, productivity]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for PDF Editing Free
 
 If you have ever needed to make a quick change to a PDF file, you probably searched for chrome extensions for pdf editing free. Maybe you wanted to fill out a form, add your signature, highlight important text, or correct a typo in a document someone sent you. Opening a separate application feels like overkill for small changes, and paying for software seems unfair when you just need to do something simple. This guide will help you find free Chrome extensions that let you edit PDFs right in your browser without spending a dime.

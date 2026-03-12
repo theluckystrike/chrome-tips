@@ -19,6 +19,7 @@ tags:
 - chrome-extension
 author: theluckystrike
 ---
+
 # Chrome Noise Cancellation for Meetings
 
 Nothing disrupts a productive video meeting quite like unexpected background noise. Whether it is a barking dog, a loud neighbor, or the hum of your air conditioner, these sounds can distract participants and make communication difficult. Fortunately, Chrome offers several ways to reduce or eliminate background noise during video calls. In this guide, we will explore the built-in noise cancellation features available in Chrome and Google Meet, as well as third-party extensions that can further improve your audio quality.

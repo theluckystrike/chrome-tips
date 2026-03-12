@@ -18,6 +18,7 @@ tags:
 - performance
 author: theluckystrike
 ---
+
 # Chrome Recorder Panel Guide
 
 If you have ever needed to document how users interact with your website, automate repetitive testing tasks, or share a specific user journey with your team, the Chrome Recorder Panel is a tool you should know about. Built directly into Chrome DevTools, this powerful feature lets you record, replay, analyze, and export user interactions without writing a single line of code. Whether you are a developer debugging a complex workflow, a QA engineer creating test cases, or a product manager documenting user behavior, the Recorder Panel can streamline your workflow and save you hours of manual work.

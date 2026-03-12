@@ -11,6 +11,7 @@ categories: '[performance, web-development]'
 tags: '[chrome-performance, browser-tools, chrome-tips]'
 author: theluckystrike
 ---
+
 # Chrome User Timing API Explained
 
 If you are looking for chrome user timing api explained in simple terms, you have come to the right place. Many people use Chrome every day without knowing about the useful tools that help make websites faster and more responsive. The User Timing API is one of those powerful features that works behind the scenes to measure exactly how long different parts of a website take to load and respond.

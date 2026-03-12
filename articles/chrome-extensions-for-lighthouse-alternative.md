@@ -11,6 +11,7 @@ tags: '[chrome-extensions, lighthouse, website-audit, performance, seo]'
 author: theluckystrike
 canonical: 'true'
 ---
+
 # Chrome Extensions for Lighthouse Alternative
 
 If you are searching for chrome extensions for lighthouse alternative, you probably want an easier way to check your website performance, SEO, and accessibility without opening Chrome DevTools. Lighthouse is a powerful tool built into Chrome, but it requires navigating through multiple menus and can feel cumbersome for quick audits. The good news is that several Chrome extensions offer similar functionality with a more user-friendly experience.

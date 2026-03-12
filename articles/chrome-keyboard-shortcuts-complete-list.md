@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Chrome Keyboard Shortcuts Complete List"
-description: "Discover the complete list of Chrome keyboard shortcuts. Boost your productivity with these essential shortcuts for tabs, windows, navigation, and more."
+title: Chrome Keyboard Shortcuts Complete List
+description: Discover the complete list of Chrome keyboard shortcuts. Boost your productivity
+  with these essential shortcuts for tabs, windows, navigation, and more.
 date: 2025-12-01
 categories:
 - productivity
@@ -98,8 +99,9 @@ Learning the chrome keyboard shortcuts complete list takes some time, but the pr
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Hardware Acceleration Causing Problems: Troubleshooting Guide](/chrome-hardware-acceleration-causing-problems)
-* [How to Disable Chrome Notifications Permanently](/how-to-disable-chrome-notifications-permanently)
-* [chrome web share target api explained](/chrome-web-share-target-api-explained)
+## Related Articles
+* [chrome keyboard shortcuts complete list 2026](/articles/chrome-keyboard-shortcuts-complete-list-2026/)
+* [chrome tab groups keyboard shortcuts](/articles/chrome-tab-groups-keyboard-shortcuts/)
+* [Chrome Extensions for Reddit](/articles/chrome-extensions-for-reddit/)

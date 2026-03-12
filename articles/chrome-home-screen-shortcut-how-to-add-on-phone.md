@@ -17,6 +17,7 @@ tags:
 - mobile-tips
 author: theluckystrike
 ---
+
 # Chrome Home Screen Shortcut How to Add on Phone
 
 If you have ever searched for chrome home screen shortcut how to add on phone, you probably wanted a faster way to open your favorite websites without typing the address every time or digging through your browser history. Adding a Chrome shortcut to your phone home screen works exactly like adding an app icon, but it opens a website instead. This guide will walk you through exactly how to do it on both Android and iPhone, and explain why this simple trick can save you time throughout the day.

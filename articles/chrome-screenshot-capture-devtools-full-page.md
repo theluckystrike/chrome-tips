@@ -17,6 +17,7 @@ author: theluckystrike
 permalink: chrome-screenshot-capture-devtools-full-page
 last_modified_at: '2026-03-12'
 ---
+
 # How to Capture Full Page Screenshots in Chrome Using DevTools
 
 Sometimes you need to capture an entire webpage—not just what you see on your screen, but the full length of the page, including all the content that requires scrolling. Whether you're saving an article for offline reading, documenting a website bug, or creating a visual archive, Chrome's built-in Developer Tools make this surprisingly easy. Best of all, you don't need any extra software.

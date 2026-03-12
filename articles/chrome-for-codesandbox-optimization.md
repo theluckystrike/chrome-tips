@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-codesandbox-optimization
 ---
+
 # Chrome for CodeSandbox Optimization
 
 If you are looking for chrome for CodeSandbox optimization, you have probably noticed that running CodeSandbox in your browser can sometimes feel sluggish or consume more memory than you would like. CodeSandbox is an incredible tool that lets you develop full applications directly in your browser, but like any powerful web-based development environment, it can put a strain on your system resources. The good news is that there are several ways to make Chrome work better with CodeSandbox, and you do not need to be a technical expert to see improvements.

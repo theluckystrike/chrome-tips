@@ -8,6 +8,7 @@ last_modified_at: '2026-03-12'
 permalink: chrome-element-internals-custom-elements
 layout: post
 ---
+
 If you have ever explored the Chrome DevTools and wondered how the browser manages custom web components behind the scenes, you are diving into the fascinating world of Chrome element internals and custom elements. These two technologies work together to enable modern web development, and understanding them can help you build better websites or troubleshoot issues more effectively.
 
 ## Understanding Chrome Element Internals

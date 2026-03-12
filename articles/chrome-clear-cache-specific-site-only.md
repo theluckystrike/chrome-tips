@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Clear Cache for Specific Site Only in Chrome
-description: "Learn how to clear Chrome cache for a specific website without affecting your other browsing data. Simple methods to refresh individual site content.."
+description: Learn how to clear Chrome cache for a specific website without affecting
+  your other browsing data. Simple methods to refresh individual site content.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-clear-cache-specific-site-only
@@ -103,8 +104,9 @@ These methods apply whether you're a regular user resolving display issues or a 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [How to Stop Chrome from Eating Your RAM](/how-to-stop-chrome-from-eating-ram)
-* [4GB RAM Laptop Best Browser Settings](/4gb-ram-laptop-best-browser-settings)
-* [Chrome Lazy Loading Images How It Works](/chrome-lazy-loading-images-how-it-works)
+## Related Articles
+* [How to Fix Chrome Cache Too Large and Slow Performance](/articles/chrome-cache-too-large-slow-fix/)
+* [How to Reset Chrome Settings Without Losing Bookmarks](/articles/chrome-reset-settings-without-losing-bookmarks/)
+* [Chrome for Managing Site Notifications](/articles/chrome-for-managing-site-notifications/)

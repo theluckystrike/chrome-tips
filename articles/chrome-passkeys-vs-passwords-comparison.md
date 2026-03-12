@@ -7,6 +7,7 @@ date: '2026-03-10'
 last_modified_at: '2026-03-12'
 permalink: chrome-passkeys-vs-passwords-comparison
 ---
+
 Chrome passkeys vs passwords comparison is becoming an important topic as more websites start offering passwordless login options. If you have been using passwords for years and wonder whether switching to passkeys makes sense, this guide will help you understand the key differences.
 
 ## Understanding the Basics

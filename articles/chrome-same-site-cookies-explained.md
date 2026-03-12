@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Same Site Cookies Explained
-description: "Learn how Chrome same site cookies work and why they matter for your browsing security and website functionality......................................"
+description: Learn how Chrome same site cookies work and why they matter for your
+  browsing security and website functionality.
 date: 2026-03-12
 last_modified_at: '2026-03-12'
 permalink: chrome-same-site-cookies-explained
@@ -102,8 +103,9 @@ Whether you're debugging a website issue or simply curious about how your browse
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Idle Detection API Explained: What It Means for Your Browser](/chrome-idle-detection-api-explained)
-* [chrome zoom default change](/chrome-zoom-default-change)
-* [Chrome Navigate to Next Search Result Shortcut](/chrome-navigate-to-next-search-result-shortcut)
+## Related Articles
+* [Chrome Private Aggregation API Explained](/articles/chrome-private-aggregation-api-explained/)
+* [Chrome Font Fingerprinting Explained and Fix](/articles/chrome-font-fingerprinting-explained-and-fix/)
+* [Chrome Private State Tokens Explained: What They Are and How They Work](/articles/chrome-private-state-tokens-explained/)

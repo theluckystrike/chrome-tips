@@ -18,6 +18,7 @@ tags:
 - browser-settings
 author: theluckystrike
 ---
+
 # Chrome Location History in Browser How to Check
 
 Chrome location history in browser how to check is something many users wonder about when they become more aware of their digital privacy. If you have ever used Google Maps, searched for local businesses, or allowed a website to access your location, Chrome may have stored some information about where you have been and what you have searched for. Understanding what location data Chrome keeps and how to view it gives you better control over your privacy and helps you decide what you want to keep or delete.

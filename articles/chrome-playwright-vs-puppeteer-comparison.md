@@ -18,6 +18,7 @@ tags:
 - web-scraping
 author: theluckystrike
 ---
+
 # Chrome Playwright vs Puppeteer Comparison
 
 When it comes to browser automation in the Chrome ecosystem, two tools stand out from the crowd: Playwright and Puppeteer. Both allow developers to control Chrome programmatically, but they have distinct differences that can significantly impact your project. This comprehensive comparison will help you decide which tool is right for your needs.

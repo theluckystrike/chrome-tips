@@ -16,6 +16,7 @@ tags:
 - remote-work
 author: theluckystrike
 ---
+
 # Chrome Extensions for Virtual Whiteboard
 
 If you are searching for chrome extensions for virtual whiteboard, you have probably experienced the frustration of trying to collaborate visually with your team when everyone is working remotely. Whether you are brainstorming ideas, planning projects, teaching classes, or running workshops, having the right tools can make all the difference in how effectively you communicate and create together.

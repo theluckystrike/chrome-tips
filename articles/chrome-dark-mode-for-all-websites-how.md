@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Enable Dark Mode for All Websites in Chrome
-description: "Tired of bright websites hurting your eyes? Learn how to force dark mode for all websites in Chrome using built-in settings and extensions............"
+description: Tired of bright websites hurting your eyes? Learn how to force dark mode
+  for all websites in Chrome using built-in settings and extensions.
 date: 2026-01-20
 last_modified_at: '2026-03-12'
 permalink: chrome-dark-mode-for-all-websites-how
@@ -104,8 +105,9 @@ Experiment with these options to find the combination that works best for your e
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Password Generator How to Use](/chrome-password-generator-how-to-use)
-* [Chrome vs Firefox 2026 Comparison](/chrome-vs-firefox-2026)
-* [Chrome Camera Microphone Permission Manage: Complete Guide](/chrome-camera-microphone-permission-manage)
+## Related Articles
+* [How to Force Dark Mode on All Websites in Chrome](/articles/chrome-dark-mode-force-all-websites/)
+* [Why Chrome Makes Your Laptop Hot and Slow](/articles/chrome-making-laptop-hot-and-slow/)
+* [Chrome for Reducing Eye Strain Extensions](/articles/chrome-for-reducing-eye-strain-extensions/)

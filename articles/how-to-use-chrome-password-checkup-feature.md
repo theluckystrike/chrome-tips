@@ -10,6 +10,7 @@ categories: '[security, privacy, password]'
 tags: '[chrome-password, security, privacy, browser]'
 author: theluckystrike
 ---
+
 # How to Use Chrome Password Checkup Feature
 
 If you have ever wondered how to use chrome password checkup feature to improve your online security, you are not alone. Many people use the same password across multiple sites or rely on simple passwords that are easy to remember, and this puts their accounts at risk. Chrome offers a free built-in tool called Password Checkup that can help you identify weak, reused, and compromised passwords in just a few clicks. This guide will walk you through everything you need to know about this useful security feature.

@@ -18,6 +18,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-managing-saved-addresses
 ---
+
 # Chrome for Managing Saved Addresses
 
 Chrome for managing saved addresses is something many people need but do not realize they have options beyond the browser's default behavior. If you shop online frequently, fill out forms often, or need to manage multiple shipping addresses, Chrome offers several ways to help you stay organized.

@@ -17,6 +17,7 @@ tags:
 - web-development
 author: theluckystrike
 ---
+
 # Chrome Inspect Element Tutorial for Beginners
 
 If you've ever wanted to see what's behind a webpage, change how a site looks temporarily, or figure out why something isn't working on a website, Chrome's Inspect Element tool is exactly what you need. This powerful feature is built right into your browser, and once you learn how to use it, you'll wonder how you ever got by without it.

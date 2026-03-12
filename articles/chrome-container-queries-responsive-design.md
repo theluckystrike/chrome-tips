@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Container Queries for Responsive Design
-description: Learn how Chrome container queries transform responsive design by letting components respond to their parent container size instead of the viewport.
+description: Learn how Chrome container queries transform responsive design by letting
+  components respond to their parent container size instead of the viewport.
 permalink: chrome-container-queries-responsive-design
 last_modified_at: '2026-03-12'
 ---
@@ -85,8 +86,9 @@ Chrome container queries represent a significant advancement in responsive web d
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome 64 bit vs 32 bit How to Check](/chrome-64-bit-vs-32-bit-how-to-check)
-* [chrome for vpn extensions comparison](/chrome-for-vpn-extensions-comparison)
-* [Chrome Cookie Consent Popups How to Auto Accept](/chrome-cookie-consent-popups-how-to-auto-accept)
+## Related Articles
+* [Chrome Responsive Design Mode: How to Use It Effectively](/articles/chrome-responsive-design-mode-how-to-use/)
+* [Chrome DevTools Responsive Design Mode Guide](/articles/chrome-devtools-responsive-design-mode-guide/)
+* [chrome css container style queries](/articles/chrome-css-container-style-queries/)

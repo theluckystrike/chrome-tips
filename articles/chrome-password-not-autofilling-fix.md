@@ -17,6 +17,7 @@ tags:
 - browser-tips
 author: theluckystrike
 ---
+
 # Chrome Password Not Autofilling Fix
 
 Chrome password not autofilling is one of the most frustrating issues you can run into while browsing the web. You visit a website you've logged into hundreds of times, and instead of Chrome automatically filling in your credentials, you're left staring at a blank password field. This problem can slow down your workflow, make it harder to access your accounts, and even lead to password fatigue where you end up using the same password everywhere because you can't remember which one goes where. The good news is that this issue is almost always fixable, and you don't need to be a technical expert to solve it.

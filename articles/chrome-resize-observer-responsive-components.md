@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Resize Observer for Responsive Components
-description: "Learn how to use Chrome Resize Observer API to build truly responsive web components that adapt to any container size dynamically....................."
+description: Learn how to use Chrome Resize Observer API to build truly responsive
+  web components that adapt to any container size dynamically.
 keywords: chrome resize observer responsive components
 categories:
 - chrome
@@ -99,8 +100,9 @@ Whether you're building complex dashboards, media-rich applications, or simple r
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Tab From Other Device Not Showing Fix](/chrome-tab-from-other-device-not-showing-fix)
-* [chrome data saver mode is it still available](//chrome-data-saver-mode-is-it-still-available/)
-* [Chrome Status Code 403 Forbidden Explained](/chrome-status-code-403-forbidden-explained)
+## Related Articles
+* [Chrome DevTools Responsive Design Mode Guide](/articles/chrome-devtools-responsive-design-mode-guide/)
+* [Chrome Inspect Element Tutorial for Beginners](/articles/chrome-inspect-element-tutorial-for-beginners/)
+* [chrome css container type inline size](/articles/chrome-css-container-type-inline-size/)

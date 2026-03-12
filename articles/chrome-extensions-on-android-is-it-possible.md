@@ -17,6 +17,7 @@ tags:
 - chrome-flags
 author: theluckystrike
 ---
+
 # Chrome Extensions on Android Is It Possible
 
 Chrome extensions on Android is it possible? This is one of the most common questions people ask when they try to bring their desktop browser experience to their phone. The short answer is that the official Chrome browser on Android does not support extensions in the same way the desktop version does. But there are workarounds and alternatives that can give you many of the same benefits. Let me walk you through what is going on, why it works this way, and what you can actually do about it.

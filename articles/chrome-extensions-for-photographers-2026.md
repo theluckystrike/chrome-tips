@@ -10,6 +10,7 @@ categories: '[productivity, extensions, photography]'
 tags: '[chrome-extensions, photography, browser, productivity, 2026]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Photographers 2026
 
 If you are searching for chrome extensions for photographers 2026, you likely want to know which browser tools can help you work faster and more efficiently this year. Photography involves a lot of browser-based work, from researching equipment and browsing portfolio sites to managing client communications and marketing your services. Having the right extensions installed can make a noticeable difference in how quickly you get things done.

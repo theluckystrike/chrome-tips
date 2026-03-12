@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-css-custom-properties-explained
 ---
+
 # Chrome CSS Custom Properties Explained
 
 If you have ever wondered what chrome css custom properties are and how they can make your life easier when building websites, this guide is for you. Chrome css custom properties explained is a topic that comes up often for people who want to understand how modern websites manage their colors, fonts, and spacing in a way that is easy to maintain and update.

@@ -11,6 +11,7 @@ categories: '[productivity, design]'
 tags: '[chrome-extensions, adobe, design-tools, productivity]'
 author: theluckystrike
 ---
+
 If you have been searching for chrome extensions for adobe companion tools, you probably want to make your design and editing workflow smoother and more efficient. Adobe creative software is incredibly powerful, but many users do not realize that certain browser extensions can significantly enhance their experience by adding extra features, improving organization, and speeding up common tasks.
 
 ## Why You Need Companion Tools for Adobe

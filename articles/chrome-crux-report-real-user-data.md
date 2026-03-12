@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "How to Use Chrome CrUX Report for Real User Data"
-description: "Learn how to leverage Google's Chrome User Experience Report to understand how real users experience your website in Chrome."
+title: How to Use Chrome CrUX Report for Real User Data
+description: Learn how to leverage Google's Chrome User Experience Report to understand
+  how real users experience your website in Chrome.
 permalink: chrome-crux-report-real-user-data
 last_modified_at: '2026-03-12'
 ---
@@ -55,8 +56,9 @@ The Chrome CrUX report transforms how you understand your website. Instead of gu
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Side Panel Extensions Best Ones](/chrome-side-panel-extensions-best-ones)
-* [How to Allow Pop Ups for One Site in Chrome](/how-to-allow-pop-ups-for-one-site-in-chrome)
-* [Chrome Saved Addresses How to Edit](/chrome-saved-addresses-how-to-edit)
+## Related Articles
+* [Chrome User Data Folder Where Is It](/articles/chrome-user-data-folder-where-is-it/)
+* [Chrome User Data Directory: What Each File Does](/articles/chrome-user-data-directory-what-each-file-does/)
+* [Chrome User Data Directory Explained](/articles/chrome-user-data-directory-explained/)

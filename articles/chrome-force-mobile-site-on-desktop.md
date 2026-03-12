@@ -17,6 +17,7 @@ tags:
 - responsive-design
 author: theluckystrike
 ---
+
 # Chrome Force Mobile Site on Desktop
 
 Chrome force mobile site on desktop is something many people need to do at some point. Maybe you are a web developer testing how a site looks on mobile, or you want to see how a competitor's mobile experience works. Perhaps a website is showing you its desktop version when you prefer the simpler mobile layout. Whatever the reason, you can force Chrome to display mobile versions of websites on your computer without any technical knowledge.

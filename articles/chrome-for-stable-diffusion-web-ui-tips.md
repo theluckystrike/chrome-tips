@@ -18,6 +18,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-stable-diffusion-web-ui-tips
 ---
+
 # Chrome for Stable Diffusion Web UI Tips
 
 Chrome for Stable Diffusion Web UI tips can really improve your image generation experience. Whether you are just starting out with AI image creation or have been generating images for a while, using Chrome effectively with Stable Diffusion Web UI can save you time, improve performance, and make the whole process more enjoyable.

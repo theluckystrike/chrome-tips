@@ -10,6 +10,7 @@ categories: '[productivity, calendar, tips]'
 tags: '[chrome-extensions, google-calendar, productivity, browser-tools]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Google Calendar
 
 If you are searching for chrome extensions for Google Calendar, you probably use Google Calendar every day to manage your schedule, but feel like something is missing. Many people rely on Google Calendar for work meetings, personal appointments, and family events, but the basic version does not always make it easy to stay on top of everything. The good news is that the right Chrome extensions can transform your calendar experience and help you become more organized.

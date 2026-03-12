@@ -17,6 +17,7 @@ tags:
 - web-development
 author: theluckystrike
 ---
+
 # Best Chrome Color Picker Extension
 
 If you have ever searched for the best chrome color picker extension, you know how frustrating it can be to find colors on the web. Whether you are a designer creating a new project, a developer matching colors to an existing website, or just someone who wants to save a color they see online, having the right tool makes a huge difference. This guide will help you understand what to look for and which extensions are worth your time.

@@ -20,6 +20,7 @@ tags:
 - api
 author: theluckystrike
 ---
+
 # Chrome Credential Management API: Complete Guide for Developers
 
 If you are building a web application that requires user authentication, understanding the Chrome Credential Management API is essential for creating a seamless login experience. This powerful browser API allows websites to interact with Chrome's built-in password manager, enabling features like automatic login, password generation, and secure credential storage. In this comprehensive guide, we will explore everything you need to know about implementing the chrome credential management api in your projects.

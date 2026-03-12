@@ -11,6 +11,7 @@ categories: '[performance, troubleshooting]'
 tags: '[chrome-task-manager, browser-tools, chrome-tips]'
 author: theluckystrike
 ---
+
 # Chrome Task Manager How to Use
 
 Chrome task manager how to use is a question many browser users ask when their browser starts running slowly. The Chrome Task Manager is a built-in tool that shows you exactly what each tab, extension, and process is doing behind the scenes. It is one of the most useful troubleshooting tools Chrome offers, yet most people never discover it.

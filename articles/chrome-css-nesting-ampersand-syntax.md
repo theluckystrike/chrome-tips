@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome CSS Nesting Ampersand Syntax
-description: Master CSS nesting in Chrome with the ampersand syntax. Learn how to write cleaner, more maintainable stylesheets using this powerful modern CSS feature.
+description: Master CSS nesting in Chrome with the ampersand syntax. Learn how to
+  write cleaner, more maintainable stylesheets using this powerful modern CSS feature.
 date: 2026-03-12
 last_modified_at: '2026-03-12'
 permalink: chrome-css-nesting-ampersand-syntax
@@ -256,8 +257,9 @@ CSS nesting with the ampersand syntax is a game-changer for web developers. It b
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [How to Fix High CPU Usage in Chrome on Mac](/chrome-high-cpu-usage-fix-mac)
-* [Chrome VPN Extension Best Free Options 2026](/chrome-vpn-extension-best-free-options-2026)
-* [Chrome vs Samsung Internet for Android](/chrome-vs-samsung-internet-for-android)
+## Related Articles
+* [Chrome Scroll Snap CSS Practical Guide](/articles/chrome-scroll-snap-css-practical-guide/)
+* [Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover Placement](/articles/chrome-anchor-positioning-css/)
+* [Chrome CSS :is() and :where() Pseudo-Class Explained](/articles/chrome-css-is-where-pseudo-class/)

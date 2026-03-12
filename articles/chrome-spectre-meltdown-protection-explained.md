@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Chrome Spectre Meltdown Protection Explained — What You Need to Know
-description: Understand how Chrome protects you from Spectre and Meltdown vulnerabilities
-  through site isolation and advanced security features to keep your data safe.
+title: "Chrome Spectre Meltdown Protection Explained \u2014 What You Need to Know"
+description: Understand how Chrome protects you from Spectre and Meltdown vulnerabilities.
 date: 2026-03-12
 categories:
 - security
@@ -80,8 +79,9 @@ For most users, the default security settings in Chrome provide ample protection
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
-* [Chrome Freezes My Whole Computer](/chrome-freezes-my-whole-computer)
-* [How Often Should I Clear Chrome Cache](/how-often-should-i-clear-chrome-cache)
+## Related Articles
+* [Chrome Spectre Attack Protection in Browser](/articles/chrome-spectre-attack-protection-in-browser/)
+* [Chrome Safe Browsing Protection Levels Explained](/articles/chrome-safe-browsing-protection-levels-explained/)
+* [Chrome Sandbox Mode Explained Simply](/articles/chrome-sandbox-mode-explained-simply/)

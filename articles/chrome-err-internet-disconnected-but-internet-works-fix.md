@@ -11,6 +11,7 @@ categories: '[troubleshooting, connectivity]'
 tags: '[chrome-error, internet-disconnected, chrome-fix, browser-problem]'
 author: theluckystrike
 ---
+
 # Chrome ERR_INTERNET_DISCONNECTED But Internet Works Fix
 
 You are sitting at your computer, browsing the web without any apparent problems. Everything seems fine. You open a new tab in Chrome and try to visit a website, but instead of loading, you get an error message that says ERR_INTERNET_DISCONNECTED. The strange thing is your internet connection is clearly working because you were just using it moments ago. This confusing situation happens to many Chrome users, and it can be quite frustrating. The error tells you that Chrome cannot connect to the internet, but your actual internet connection is working perfectly fine. Let me explain why this happens and what you can do to fix it.

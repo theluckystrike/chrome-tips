@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Shared Workers vs Service Workers
-description: "Understanding the differences between Shared Workers and Service Workers in Chrome. Learn when to use each and how they impact browser performance and backgr..."
+description: Understanding the differences between Shared Workers and Service Workers
+  in Chrome.
 date: 2025-03-12
 categories:
 - chrome
@@ -73,8 +74,9 @@ Shared Workers and Service Workers address different needs in Chrome development
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome for Facebook Best Extensions](/chrome-for-facebook-best-extensions)
-* [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
-* [Chrome Workspaces: Link DevTools to Files for Seamless Development](/chrome-workspaces-link-devtools-to-files)
+## Related Articles
+* [Chrome Animation Performance Guide](/articles/chrome-animation-performance/)
+* [Chrome Task Manager vs Windows Task Manager: What's the Difference?](/articles/chrome-task-manager-vs-windows-task-manager/)
+* [chrome browser process vs tab process explained](/articles/chrome-browser-process-vs-tab-process-explained/)

@@ -7,6 +7,7 @@ date: 2026-03-09
 last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-focus-and-productivity
 ---
+
 # Chrome Extensions for Focus and Productivity
 
 If you are searching for chrome extensions for focus and productivity, you are not alone. Millions of people struggle to stay focused while browsing the web, and the constant distractions of notifications, social media, and endless tabs can derail even the best intentions. The good news is that the right Chrome extensions can help you reclaim your attention and get more done.

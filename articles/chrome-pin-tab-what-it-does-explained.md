@@ -17,6 +17,7 @@ tags:
 - chrome-feature
 author: theluckystrike
 ---
+
 # Chrome Pin Tab What It Does Explained
 
 If you have ever wondered what pinning a tab in Chrome does, you are not alone. This feature is one of Chrome's most useful yet underutilized tools for managing your browser. In this guide, we will explain exactly what chrome pin tab what it does, how to use it, and how it can improve your browsing experience.

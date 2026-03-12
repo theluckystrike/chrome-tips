@@ -18,6 +18,7 @@ author: theluckystrike
 permalink: chrome-payment-handler-api-guide
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Payment Handler API Guide
 
 If you have ever wanted to build a smoother payment experience for your web applications, the Chrome Payment Handler API might be exactly what you need. This powerful feature allows websites to handle payments directly within the browser, eliminating the need for redirecting users to external payment processors or relying on browser-native payment dialogs that offer limited customization.

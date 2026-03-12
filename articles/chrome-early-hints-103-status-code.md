@@ -8,6 +8,7 @@ date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-early-hints-103-status-code
 ---
+
 # Chrome Early Hints 103 Status Code: A Complete Guide
 
 If you have ever waited for a website to load and wondered why it takes so long, the answer often lies in how the browser receives information from the server. The Chrome early hints 103 status code is a powerful tool that can dramatically reduce wait times by allowing browsers to start preparing page resources before the full response arrives. This guide explains what Early Hints are, how they work, and why they matter for your browsing experience.

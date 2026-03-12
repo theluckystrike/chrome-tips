@@ -1,10 +1,20 @@
 ---
 layout: default
-title: "Chrome Periodic Background Sync API: Complete Guide"
-description: "Learn how the Chrome Periodic Background Sync API enables web apps to sync data in the background, even when the browser is closed. Discover practical use ca..."
+title: 'Chrome Periodic Background Sync API: Complete Guide'
+description: Learn how the Chrome Periodic Background Sync API enables web apps to
+  sync data in the background, even when the browser is closed.
 date: 2026-03-12
-categories: [chrome, web-development, background-sync, pwa]
-tags: [chrome, periodic-background-sync, api, progressive-web-app, offline]
+categories:
+- chrome
+- web-development
+- background-sync
+- pwa
+tags:
+- chrome
+- periodic-background-sync
+- api
+- progressive-web-app
+- offline
 author: theluckystrike
 permalink: chrome-periodic-background-sync-api
 last_modified_at: '2026-03-12'
@@ -102,8 +112,9 @@ For developers, understanding these APIs opens possibilities for creating more e
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Multiple Profiles Setup: Complete Guide for 2026](/chrome-multiple-profiles-setup)
-* [Chrome Bookmarks Disappeared — How to Recover Your Lost Bookmarks](/chrome-bookmarks-disappeared-how-to-recover)
-* [Chromebook for Seniors Setup Guide](/chromebook-for-seniors-setup-guide)
+## Related Articles
+* [Chrome PWA Update Mechanism How It Works](/articles/chrome-pwa-update-mechanism-how-it-works/)
+* [Chrome PWA Install Prompt Not Showing Fix](/articles/chrome-pwa-install-prompt-not-showing-fix/)
+* [Chrome File Handling API PWA Guide](/articles/chrome-file-handling-api-pwa-guide/)

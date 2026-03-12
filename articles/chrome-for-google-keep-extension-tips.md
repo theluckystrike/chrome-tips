@@ -8,6 +8,7 @@ categories: [productivity, chrome, tools]
 tags: [google-keep, chrome-extensions, note-taking, productivity-tips]
 author: theluckystrike
 ---
+
 # Chrome for Google Keep Extension Tips
 
 # Chrome for Google Keep Extension Tips

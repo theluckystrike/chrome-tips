@@ -17,6 +17,7 @@ tags:
 - blocking-ads
 author: theluckystrike
 ---
+
 # Chrome Pop Ups on Phone How to Block
 
 If you are searching for chrome pop ups on phone how to block, you have probably been frustrated by those sudden windows that interrupt your browsing at the worst possible moments. Pop-ups on mobile browsers work differently than on desktop, and the solutions are not always obvious. The good news is that you have several effective ways to reduce and block pop-ups in Chrome on your phone, and I will walk you through each one.

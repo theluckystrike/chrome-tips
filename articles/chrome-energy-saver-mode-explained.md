@@ -11,6 +11,7 @@ categories: '[performance, battery]'
 tags: '[chrome-energy, energy-saver, browser-battery]'
 author: theluckystrike
 ---
+
 # Chrome Energy Saver Mode Explained
 
 If you have been looking for chrome energy saver mode explained, you likely noticed your laptop battery draining faster than expected while browsing. This is a common issue, and Chrome offers a helpful feature called Energy Saver that can extend your battery life significantly.

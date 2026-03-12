@@ -11,6 +11,7 @@ categories: '[extensions, media, productivity]'
 tags: '[chrome-extension, video-speed, chrome-extensions, playback-control]'
 author: theluckystrike
 ---
+
 # Chrome Extension for Video Speed Controller
 
 Have you ever been stuck watching an online video that moves too slowly and wished you could speed it up? Maybe you are trying to get through a lengthy training video for work, or you want to watch a lecture more quickly to save time. A chrome extension for video speed controller lets you adjust how fast videos play directly in your browser, making your viewing experience much more efficient.

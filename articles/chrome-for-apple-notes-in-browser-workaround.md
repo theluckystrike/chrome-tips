@@ -18,6 +18,7 @@ tags:
 - notes
 author: theluckystrike
 ---
+
 # Chrome for Apple Notes in Browser Workaround
 
 If you are searching for chrome for apple notes in browser workaround, you probably want to access your Apple Notes without switching away from Chrome. Many Apple users love the Notes app but find themselves working primarily in Chrome for other tasks, and having to constantly jump between browsers or apps can be frustrating. The good news is that there are several ways to work around this limitation and keep your notes accessible while staying in Chrome.

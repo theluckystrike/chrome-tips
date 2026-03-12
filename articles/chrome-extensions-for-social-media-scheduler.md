@@ -10,6 +10,7 @@ categories: '[social-media, productivity, tips]'
 tags: '[chrome-extensions, social-media, scheduler, automation]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Social Media Scheduler
 
 If you are looking for chrome extensions for social media scheduler tools, you probably spend too much time manually posting content across multiple platforms. Whether you run a small business, manage a brand's social presence, or just want to maintain consistency on your personal accounts, scheduling posts manually takes away time you could spend creating content or engaging with your audience. This guide explains how social media scheduler extensions work and which ones can help you automate your posting routine.

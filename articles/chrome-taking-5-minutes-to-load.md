@@ -10,6 +10,7 @@ categories: '[performance, troubleshooting]'
 tags: '[chrome-slow, chrome-loading, chrome-startup, chrome-memory, browser-performance]'
 author: theluckystrike
 ---
+
 # Chrome Taking 5 Minutes to Load: Fixes for Slow Computers
 
 Waiting five minutes for Chrome to load is frustrating, especially when you need to get work done. If Chrome is taking 5 minutes to load on your computer, you are not alone. This is a common problem that affects users with slower computers and limited RAM. The good news is that you can fix it.

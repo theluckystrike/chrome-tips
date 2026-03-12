@@ -18,6 +18,7 @@ tags:
 - mobile-browser
 author: theluckystrike
 ---
+
 # Chrome Keeps Stopping on Android Fix
 
 If you are searching for chrome keeps stopping on android fix, you are probably dealing with a frustrating situation where your browser keeps closing unexpectedly on your phone. This is a common issue that many Android users face, and the good news is that there are several practical solutions you can try to get Chrome running smoothly again.

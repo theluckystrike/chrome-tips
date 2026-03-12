@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Manage Chrome Camera and Microphone Permissions
-description: Learn how to control which websites can access your camera and microphone in Google Chrome for better privacy and security.
+description: Learn how to control which websites can access your camera and microphone
+  in Google Chrome for better privacy and security.
 permalink: chrome-permissions-camera-microphone-manage
 last_modified_at: '2026-03-12'
 ---
@@ -65,8 +66,9 @@ Your camera and microphone are personal devices that connect you to the digital 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome for distraction free reading mode](/chrome-for-distraction-free-reading-mode)
-* [How to Auto Delete Chrome History After Time: Complete Guide](/chrome-history-auto-delete-after-time)
-* [Chrome Navigation Preload Service Worker](/chrome-navigation-preload-service-worker)
+## Related Articles
+* [Chrome Permissions API for Camera and Microphone](/articles/chrome-permissions-api-camera-microphone/)
+* [Chrome Camera Microphone Permission Manage: Complete Guide](/articles/chrome-camera-microphone-permission-manage/)
+* [Chrome Camera Access on Phone How to Manage](/articles/chrome-camera-access-on-phone-how-to-manage/)

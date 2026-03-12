@@ -11,6 +11,7 @@ categories: '[troubleshooting, extensions]'
 tags: '[chrome-extensions, webstore, troubleshooting, fix]'
 author: theluckystrike
 ---
+
 # Chrome WebStore Extensions Not Installing Fix
 
 Chrome WebStore extensions not installing is a frustrating problem that many Chrome users encounter. You find an extension that looks perfect for your needs, click install, and nothing happens. Or maybe you see an error message that leaves you confused about what went wrong. The good news is that this issue is usually fixable with a few simple steps. Let me walk you through why this happens and what you can do about it.

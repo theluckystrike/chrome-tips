@@ -17,6 +17,7 @@ tags:
 - progressive-web-apps
 author: theluckystrike
 ---
+
 # Chrome PWA Offline Capability How It Works
 
 If you are searching for chrome pwa offline capability how it works, you might have heard about Progressive Web Apps and wondered what makes them special. Perhaps you want to know why some web apps work even when your internet connection drops, or you are curious about how you can use certain websites offline. This guide will walk you through everything you need to know about this useful browser feature.

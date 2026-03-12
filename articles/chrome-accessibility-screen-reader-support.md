@@ -18,6 +18,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-accessibility-screen-reader-support
 ---
+
 # Chrome Accessibility Screen Reader Support
 
 Chrome works with 4 major screen readers: JAWS and NVDA on Windows, VoiceOver on macOS and iOS, and ChromeVox on Chrome OS. Each reader interacts with Chrome differently, and most problems come down to version mismatches, missing settings, or poorly coded websites. Here is how to get each one working properly.

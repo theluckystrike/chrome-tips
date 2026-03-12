@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Site Data How Much Storage Used
-description: "Learn how to check and manage chrome site data storage to free up space and improve browser performance..............................................."
+description: Learn how to check and manage chrome site data storage to free up space
+  and improve browser performance.
 date: 2025-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-site-data-how-much-storage-used
@@ -71,8 +72,9 @@ For users with limited disk space, limiting the number of websites that can stor
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome vs Brave Privacy Comparison](/chrome-vs-brave-privacy-comparison)
-* [Chrome Running Slow on New Laptop? Here's Why and How to Fix It](/chrome-running-slow-on-new-laptop-why)
-* [Chrome for Etsy Seller Best Extensions](/chrome-for-etsy-seller-best-extensions)
+## Related Articles
+* [Why Is Chrome So Much Slower Than It Used to Be](/articles/why-is-chrome-so-much-slower-than-it-used-to-be/)
+* [Chrome Using Too Much Battery on Laptop? Fix It Now](/articles/chrome-using-too-much-battery-on-laptop-fix/)
+* [How to Improve Chrome WebGL Performance](/articles/chrome-webgl-performance-how-to-improve/)

@@ -11,6 +11,7 @@ categories: '[security, extensions]'
 tags: '[chrome-extensions, permissions, privacy, browser, best-practices]'
 author: theluckystrike
 ---
+
 # Chrome Extension Permissions Best Practices
 
 Chrome extension permissions are one of the most important yet overlooked aspects of browser security. When you install an extension, you're essentially granting it access to certain parts of your browsing experience. Understanding **chrome extension permissions best practices** helps you protect your data while still enjoying the benefits these tools provide.

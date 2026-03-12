@@ -8,6 +8,7 @@ date: '2026-01-01'
 last_modified_at: '2026-03-12'
 permalink: chrome-clean-install-what-to-backup-first
 ---
+
 Thinking about doing a chrome clean install what to backup first is the most important question you can ask before wiping your browser. Whether you are dealing with performance issues, browser crashes, or just want a fresh start, a clean install can solve many problems. But jumping in without backing up first means losing months or even years of saved data. Let me walk you through exactly what you need to save before you reinstall Chrome.
 
 ## Why Backup Before a Clean Install

@@ -18,6 +18,7 @@ tags:
 - chrome-extension
 author: theluckystrike
 ---
+
 # Chrome Extensions for Target Circle Deals
 
 If you are looking for chrome extensions for target circle deals, you have probably noticed that finding the best discounts and deals while shopping at Target can be time-consuming. Between checking multiple websites, comparing prices, and remembering to apply coupons before checkout, the process of saving money can become its own kind of workload. This guide will walk you through how browser extensions can automate much of this process and help you get the best possible prices at Target.

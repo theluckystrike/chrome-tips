@@ -10,6 +10,7 @@ categories: '[tabs, productivity]'
 tags: '[tab-memory, session-restore, chrome-tabs, chrome-settings]'
 author: theluckystrike
 ---
+
 # How to Make Chrome Remember Tabs After Closing
 
 We've all experienced that frustrating moment when we close Chrome and realize we've lost dozens of tabs we were working with. If you need to know how to make Chrome remember tabs after closing, this guide covers everything you need to know to keep your tabs safe.

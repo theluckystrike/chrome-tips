@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chrome Preconnect and Preload Explained
-description: "Learn how Chrome preconnect and preload directives speed up your browser. A practical guide to optimizing page load times and improving your browsing experie..."
+description: Learn how Chrome preconnect and preload directives speed up your browser.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-preconnect-preload-explained
@@ -100,8 +100,9 @@ The key is to use these directives sparingly and only for resources that truly m
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [chrome how to allow popups for one site](/chrome-how-to-allow-popups-for-one-site)
-* [Chrome for Website Monitoring Extensions](/chrome-for-website-monitoring-extensions)
-* [chrome high contrast mode how to enable](/chrome-high-contrast-mode-how-to-enable)
+## Related Articles
+* [Chrome HTTP2 Multiplexing Explained](/articles/chrome-http2-multiplexing-explained/)
+* [First Input Delay Chrome Optimize](/articles/first-input-delay-chrome-optimize/)
+* [Chrome Service Worker Caching Explained](/articles/chrome-service-worker-caching-explained/)

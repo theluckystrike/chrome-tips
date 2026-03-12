@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-color-picker-extensions
 ---
+
 # Chrome for Color Picker Extensions
 
 If you are looking for chrome for color picker extensions, you have probably spent too much time trying to figure out how to save a color you saw on a website. Maybe you were designing something and needed to match a color from a website, or you found the perfect shade for a project and wanted to keep it. This happens to everyone, and the good news is that Chrome has plenty of extensions that make picking colors from any webpage incredibly easy.

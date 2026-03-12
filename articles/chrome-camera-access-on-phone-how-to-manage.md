@@ -18,6 +18,7 @@ tags:
 - camera-access
 author: theluckystrike
 ---
+
 # Chrome Camera Access on Phone How to Manage
 
 Chrome camera access on phone how to manage is something many people wonder about when they start using video calls, scanning QR codes, or taking photos directly from websites in their mobile browser. Whether you want to allow camera access for a specific website or block it completely, understanding how to manage these permissions in Chrome on your phone gives you better control over your privacy and helps you use your camera only when you intend to.

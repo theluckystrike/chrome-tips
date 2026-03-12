@@ -16,6 +16,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 ---
+
 # Chrome Performance Panel for Regular Users
 
 If you are looking for chrome performance panel for regular users, you might be frustrated with a slow browser and not sure where to start. The good news is that Chrome has a built-in tool called the Performance panel that can help you see exactly what is happening inside your browser. This tool is not just for developers or tech experts. Regular users can use it too, and it makes finding the cause of slowdowns much easier.

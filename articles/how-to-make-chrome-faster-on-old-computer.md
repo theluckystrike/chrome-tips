@@ -11,6 +11,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 # How to Make Chrome Faster on an Old Computer
 
 If you are wondering how to make Chrome faster on an old computer, you are not alone. Many people experience this frustration, especially those using machines that are several years old. The good news is that there are several things you can do to significantly improve Chrome's performance without buying new hardware.

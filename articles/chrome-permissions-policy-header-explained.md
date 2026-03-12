@@ -19,6 +19,7 @@ tags:
 - web-development
 author: theluckystrike
 ---
+
 # Chrome Permissions Policy Header Explained
 
 If you manage a website or build web applications, you have probably heard about the Permissions-Policy HTTP header. This powerful tool gives you fine-grained control over which browser features and APIs your website can use. In this article, we will break down what the Permissions-Policy header does, why it matters, and how you can use it effectively in Chrome and other modern browsers.

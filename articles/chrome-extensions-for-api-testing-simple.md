@@ -10,6 +10,7 @@ categories: '[productivity, development-tools]'
 tags: '[chrome-extensions, api-testing, browser-tools, web-development]'
 author: theluckystrike
 ---
+
 If you have been searching for chrome extensions for API testing simple solutions, you might be feeling overwhelmed by the options available. Testing APIs does not need to be complicated, and the right extensions can make this task much easier without requiring you to install complex software or write scripts. Whether you are a developer building applications or someone who needs to check how an API responds to different requests, browser extensions offer a straightforward way to get the job done.
 
 ## Why API Testing Matters

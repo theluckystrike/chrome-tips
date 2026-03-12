@@ -11,6 +11,7 @@ categories: '[productivity, tips]'
 tags: '[chrome-extensions, time-tracking, productivity]'
 author: theluckystrike
 ---
+
 # Chrome Extension for Tracking Time Spent on Websites
 
 If you are looking for a chrome extension for tracking time spent on websites, you probably have a feeling that too much of your day vanishes into browser tabs without your awareness. You are not imagining it. The modern web is designed to be addictive, and most of us spend hours each day jumping between sites without any clear sense of where the time goes. This article will help you understand why this happens and show you practical ways to take control of your browsing time.

@@ -10,6 +10,7 @@ categories: '[extensions, tips]'
 tags: '[chrome-extensions, link-checker, broken-links]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Link Checker Broken Links
 
 If you are looking for chrome extensions for link checker broken links, you probably experienced the frustration of clicking a link and getting nowhere. Broken links are one of the most annoying problems when browsing the web, and they happen more often than you might think. Whether you are researching for work, shopping online, or just browsing your favorite websites, running into dead links wastes your time and can even make you question the reliability of a site. The good news is that Chrome extensions exist specifically to help you identify and fix broken links before they become a problem.

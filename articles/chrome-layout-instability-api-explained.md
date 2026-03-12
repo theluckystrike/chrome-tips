@@ -17,6 +17,7 @@ tags:
 - performance
 author: theluckystrike
 ---
+
 # Chrome Layout Instability API Explained
 
 Chrome layout instability API explained is a topic that comes up when people notice their browser window jumping around or elements shifting unexpectedly while they are trying to read or interact with websites. If you have ever been reading an article online and suddenly the text moves because an image or advertisement loaded at the top of the page, you have experienced layout instability firsthand.

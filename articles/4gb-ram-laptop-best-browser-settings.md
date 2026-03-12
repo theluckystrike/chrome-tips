@@ -1,7 +1,9 @@
 ---
 layout: default
 title: 4GB RAM Laptop Best Browser Settings
-description: Optimize your browser for laptops with 4GB of RAM. Discover the best settings to reduce memory usage, improve speed, and get the most out of limited hardware.
+description: Optimize your browser for laptops with 4GB of RAM. Discover the best
+  settings to reduce memory usage, improve speed, and get the most out of limited
+  hardware.
 date: 2025-02-20
 categories:
 - performance
@@ -97,8 +99,9 @@ These adjustments may seem small individually, but together they can make a sign
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Reader View How to Enable on Any Site](/chrome-reader-view-how-to-enable-on-any-site)
-* [Chrome Mailto Link Not Working Fix](/chrome-mailto-link-not-working-fix)
-* [Chrome Layer CSS Cascade Layers Explained](/chrome-layer-css-cascade-layers-explained)
+## Related Articles
+* [Best Browser for 2GB RAM Laptop 2026](/articles/best-browser-for-2gb-ram-laptop-2026/)
+* [Chrome Uses Too Much Memory on Old Laptop](/articles/chrome-uses-too-much-memory-on-old-laptop/)
+* [Chrome Using All My RAM 4GB Laptop Fix](/articles/chrome-using-all-my-ram-4gb-laptop-fix/)

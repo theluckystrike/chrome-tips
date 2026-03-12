@@ -10,6 +10,7 @@ categories: '[performance, troubleshooting]'
 tags: '[chrome-memory, ram-usage, chrome-update, memory-management]'
 author: theluckystrike
 ---
+
 # Chrome Using More Memory After an Update? Here's What to Do
 
 You checked your task manager and Chrome is eating up way more RAM than it used to. If this started after a Chrome update, you're not crazy — it's a real thing that happens.

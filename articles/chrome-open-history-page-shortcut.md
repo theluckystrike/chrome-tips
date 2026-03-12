@@ -17,6 +17,7 @@ tags:
 - keyboard-shortcut
 author: theluckystrike
 ---
+
 If you have been searching for chrome open history page shortcut, you probably want to find a quick way to access your browsing history without clicking through multiple menus. Whether you need to revisit a website you forgot to bookmark or find something you visited days ago, knowing the fastest way to open history in Chrome can save you time and frustration.
 
 ## Why Accessing History Quickly Matters

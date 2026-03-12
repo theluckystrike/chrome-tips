@@ -17,6 +17,7 @@ tags:
 - browser-comparison
 author: theluckystrike
 ---
+
 # Chrome Canary vs Stable Difference Explained
 
 If you have ever searched for chrome canary vs stable difference explained, you are not alone. Many users wonder what these different Chrome versions mean and which one they should use. This guide will walk you through everything you need to know about Chrome's release channels, why they exist, and how to choose the right one for your situation.

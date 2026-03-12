@@ -11,6 +11,7 @@ categories: '[healthcare, productivity]'
 tags: '[chrome-extensions, nurses, healthcare]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Nurses Healthcare
 
 If you are searching for chrome extensions for nurses healthcare, you are probably looking for ways to make your workday more efficient. Healthcare environments are fast-paced, and nurses often need to juggle multiple tabs, patient records, research articles, and communication tools all at once. The good news is that Chrome extensions can help streamline many of these tasks and make your browser work harder for you.

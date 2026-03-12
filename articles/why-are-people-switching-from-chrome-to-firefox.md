@@ -11,6 +11,7 @@ categories: '[comparison, performance]'
 tags: '[chrome-vs-firefox, browser-switching, privacy, memory]'
 author: theluckystrike
 ---
+
 Why are people switching from chrome to firefox? If you've noticed more friends, colleagues, or online discussions mentioning this shift, you're not imagining it. There's a real trend happening, and it comes down to a few key concerns that have grown louder over time.
 
 ## The Privacy Question

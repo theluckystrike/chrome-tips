@@ -10,6 +10,7 @@ categories: '[productivity, extensions]'
 tags: '[chrome-extensions, habit-tracker, productivity, browser]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Habit Tracker
 
 Chrome extensions for habit tracker tools have become incredibly popular for people looking to build better routines and stay focused on their goals. Whether you want to exercise more, read daily, meditate regularly, or cut down on time-wasting websites, the right extension can make a real difference in your consistency and motivation.

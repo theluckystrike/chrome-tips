@@ -17,6 +17,7 @@ tags:
 - performance
 author: theluckystrike
 ---
+
 # Chrome vs Firefox Memory Usage Comparison 2024
 
 Choosing between Chrome and Firefox often comes down to how each browser handles your system's resources. If you have ever wondered which browser uses less memory, you are not alone. This comparison breaks down how Chrome and Firefox behave when it comes to memory usage in 2024.

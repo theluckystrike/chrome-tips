@@ -17,6 +17,7 @@ tags:
 - design-tools
 author: theluckystrike
 ---
+
 # Chrome Eye Dropper API: Pick Colors From Anywhere
 
 Have you ever been browsing the web and seen a color you loved, but had no way to capture it? Perhaps you wanted to match a color from a photograph, a competitor's website, or a design inspiration. Historically, this required installing browser extensions or using external tools. Now, Chrome offers a built-in solution through the Eye Dropper API, a powerful web API that lets users pick colors from anywhere on their screen directly within web applications.

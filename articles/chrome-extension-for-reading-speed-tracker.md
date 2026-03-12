@@ -11,6 +11,7 @@ categories: '[reading, productivity, tips]'
 tags: '[chrome-extensions, reading-speed, productivity]'
 author: theluckystrike
 ---
+
 # Chrome Extension for Reading Speed Tracker
 
 If you are searching for a chrome extension for reading speed tracker, you probably want to understand how fast you read and find ways to become a faster reader. Many people who consume a lot of online content wonder whether they could read more efficiently if they knew their reading speed. This is where reading speed trackers come in handy.

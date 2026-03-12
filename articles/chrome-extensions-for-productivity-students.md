@@ -11,6 +11,7 @@ categories: '[productivity, students, tips]'
 tags: '[chrome-extensions, productivity, students, browser-tools]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Productivity Students
 
 If you are searching for chrome extensions for productivity students, you likely juggle multiple courses, assignments, and deadlines while trying to maintain some balance in your life. As a student, your browser is probably your most used application—for research, assignments, communication, and entertainment. The right Chrome extensions can transform your browser from a distraction machine into a powerful study tool.

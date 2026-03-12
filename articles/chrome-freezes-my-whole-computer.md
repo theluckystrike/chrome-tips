@@ -17,6 +17,7 @@ tags:
 - browser-performance
 author: theluckystrike
 ---
+
 # Chrome Freezes My Whole Computer
 
 You are working on something important in Chrome, and suddenly your whole computer locks up. The mouse stops moving, the keyboard does nothing, and you wait helplessly as your fan spins louder and louder. If Chrome freezes my whole computer is your reality, you are not alone—and there are practical solutions that can help.

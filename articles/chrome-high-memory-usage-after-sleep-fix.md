@@ -18,6 +18,7 @@ tags:
 - browser
 author: theluckystrike
 ---
+
 # Chrome High Memory Usage After Sleep Fix
 
 If your Chrome browser starts using excessive memory after your computer wakes from sleep, you are not alone. Many users search for chrome high memory usage after sleep fix because they notice their browser becomes sluggish and their fans start spinning loudly right after their computer resumes from sleep mode. This frustrating problem can turn a quick break into a productivity-killing experience. Let me explain why this happens and what you can do about it.

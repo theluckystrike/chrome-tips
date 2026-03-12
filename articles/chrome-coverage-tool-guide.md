@@ -19,6 +19,7 @@ tags:
 - web-performance
 author: theluckystrike
 ---
+
 # Chrome Coverage Tool Guide: Optimize Your Code for Better Performance
 
 If you have ever wondered why your website loads slowly despite your best efforts to optimize images and minimize server response times, the problem might be hiding in your code. Modern web applications often ship far more JavaScript and CSS than they actually need. This hidden bloat can significantly impact your page load times, especially on mobile devices with slower connections. The Chrome Coverage Tool, built directly into Chrome DevTools, helps you discover exactly how much of your code is actually being used and how much is just dead weight dragging down your performance.

@@ -17,6 +17,7 @@ tags:
 - chrome-freeze
 author: theluckystrike
 ---
+
 # Chrome Not Responding How to Force Close Safely
 
 When Chrome not responding becomes a regular problem, it can interrupt your work and make you worry about losing important information. If you find yourself searching for "chrome not responding how to force close safely," you are not alone. This happens to millions of users every day, and the good news is that you can usually fix it without losing your tabs or damaging your browser data.

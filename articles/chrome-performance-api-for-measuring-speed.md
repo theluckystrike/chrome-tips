@@ -18,6 +18,7 @@ tags:
 - web-development
 author: theluckystrike
 ---
+
 # Chrome Performance API for Measuring Speed
 
 If you have ever wondered how to use the chrome performance api for measuring speed, you are not alone. Many browser users and web developers are discovering that Chrome offers powerful built-in tools to analyze how fast pages load and how smoothly they run. Understanding these tools can help you make informed decisions about your browsing habits and even improve the websites you visit.

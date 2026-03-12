@@ -11,6 +11,7 @@ categories: '[privacy, security, browser]'
 tags: '[chrome-tracking, privacy, browser-security, tracking-prevention]'
 author: theluckystrike
 ---
+
 # Chrome Tracking Prevention Explained Simply
 
 Chrome tracking prevention explained simply is something many people want but struggle to find. If you have ever wondered why the ads you see seem to know exactly what you were just looking at, or why certain websites remember you even after you close the browser, this guide is for you. Understanding how Chrome tracks you and what you can do about it does not require technical expertise. It just takes a little awareness and a few simple steps.

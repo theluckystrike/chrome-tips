@@ -10,6 +10,7 @@ categories: '[troubleshooting, connectivity]'
 tags: '[chrome-error, connection-refused, chrome-fix, browser-problem]'
 author: theluckystrike
 ---
+
 # Chrome ERR_CONNECTION_REFUSED Fix
 
 You open Chrome, type in a website address, and instead of loading the page you want, you see an error that says ERR_CONNECTION_REFUSED. This is one of the more common errors Chrome users encounter, and it can be confusing because it does not immediately tell you what went wrong. The good news is that this error is usually fixable with some straightforward steps, and I will walk you through everything you need to know.

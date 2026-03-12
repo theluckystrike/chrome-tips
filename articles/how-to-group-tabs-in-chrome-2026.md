@@ -11,6 +11,7 @@ categories: '[chrome, tabs, productivity]'
 tags: '[chrome-tabs, tab-groups, browser-tips, productivity, chrome-2026]'
 author: theluckystrike
 ---
+
 # How to Group Tabs in Chrome 2026
 
 <<<<<<< HEAD

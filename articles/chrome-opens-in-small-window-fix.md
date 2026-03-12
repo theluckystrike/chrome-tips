@@ -17,6 +17,7 @@ tags:
 - resize-problem
 author: theluckystrike
 ---
+
 # Chrome Opens in Small Window Fix
 
 Dealing with Chrome opening in a small window is one of those annoying issues that can really slow down your day. You click the Chrome icon hoping to get straight to work, but instead you are stuck with a tiny browser window that you have to resize every single time. If this sounds familiar, you are not alone. Many Chrome users experience this problem, and the good news is that it is usually easy to fix.

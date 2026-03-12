@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Disable Chrome Preloading Pages to Save RAM
-description: Learn how to disable Chrome's preloading feature to reduce memory usage and improve browser performance on your device.
+description: Learn how to disable Chrome's preloading feature to reduce memory usage
+  and improve browser performance on your device.
 permalink: chrome-preloading-pages-disable-to-save-ram
 last_modified_at: '2026-03-12'
 ---
@@ -60,8 +61,9 @@ The good news is that Chrome provides enough flexibility for you to customize yo
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Laptop Freezing When Opening Chrome: Practical Solutions That Actually Work](/laptop-freezing-when-opening-chrome)
-* [Best Password Manager Chrome Extension](/best-password-manager-chrome-extension)
-* [chrome logpoints debug without console log](/chrome-logpoints-debug-without-console-log)
+## Related Articles
+* [chrome offline pages on phone how to save](/articles/chrome-offline-pages-on-phone-how-to-save/)
+* [Chrome Process Per Tab: How to Disable It to Save Memory](/articles/chrome-process-per-tab-disable-to-save-memory/)
+* [Chrome Startup Pages How to Set](/articles/chrome-startup-pages-how-to-set/)

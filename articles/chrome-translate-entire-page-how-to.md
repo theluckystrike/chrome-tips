@@ -7,11 +7,12 @@ description: "Learn how to translate entire web pages in Chrome with built-in to
 date: '2026-03-09'
 last_modified_at: '2026-03-12'
 permalink: chrome-translate-entire-page-how-to
-Built by theluckystrike — More tips at [zovo.one](https: //zovo.one)
+"Built by theluckystrike \u2014 More tips at [zovo.one](https": //zovo.one)
 categories: '[browsers, tips]'
 tags: '[chrome, translation, browser-tips, language]'
 author: theluckystrike
 ---
+
 ## Related Articles
 * [Chrome AW Snap Page Crash Fix](/articles/chrome-aw-snap-page-crash-fix/)
 * [Chrome Subgrid Layout Examples: A Complete Guide](/articles/chrome-subgrid-layout-examples/)

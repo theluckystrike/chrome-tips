@@ -11,6 +11,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 # Chrome Energy Saver Mode What Does It Do
 
 If you have been searching for chrome energy saver mode what does it do, you probably noticed your laptop battery draining quickly while using Chrome. This is a helpful feature that can make a real difference in how long your battery lasts throughout the day.

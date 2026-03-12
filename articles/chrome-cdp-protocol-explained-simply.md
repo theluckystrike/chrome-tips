@@ -20,6 +20,7 @@ tags:
 - protocol
 author: theluckystrike
 ---
+
 # Chrome CDP Protocol Explained Simply
 
 If you have ever used Chrome DevTools to inspect a webpage, debug JavaScript, or monitor network requests, you have already interacted with the Chrome DevTools Protocol (CDP) without even knowing it. CDP is the underlying technology that powers these powerful developer tools, and understanding it can open up new possibilities for automation, testing, and debugging.

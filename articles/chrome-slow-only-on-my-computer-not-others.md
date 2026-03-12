@@ -17,6 +17,7 @@ author: theluckystrike
 permalink: chrome-slow-only-on-my-computer-not-others
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Slow Only on My Computer Not Others: Why and How to Fix It
 
 You're sitting at your computer, watching Chrome struggle to load a simple webpage, while your friend with a similar setup browses effortlessly. Or maybe you work from home on your older laptop while your colleagues at the office have no issues. This is one of the most frustrating situations because it clearly points to something specific about your machine — but what?

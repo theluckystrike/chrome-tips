@@ -18,6 +18,7 @@ tags:
 - performance
 author: theluckystrike
 ---
+
 When chrome not responding on Windows 11 laptop becomes your reality, you are stuck staring at a frozen browser and wondering what went wrong. This happens to many Windows 11 users, and it can be particularly annoying when you are in the middle of important work or just trying to browse the web. The good news is that there are several ways to fix this issue and get Chrome running smoothly again.
 
 Chrome not responding on Windows 11 laptops usually happens because the browser is using too much memory or your system resources are stretched too thin. Windows 11 is a relatively new operating system, and some users have found that Chrome can be more demanding on this platform compared to older versions of Windows. Understanding why this happens is the first step toward fixing it.

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome About Memory Page Explained
-description: "Learn how to use Chrome's internal memory pages to monitor and optimize your browser's RAM usage. Discover which tabs are using the most memory and how to re..."
+description: Learn how to use Chrome's internal memory pages to monitor and optimize
+  your browser's RAM usage.
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-about-memory-page-explained
@@ -62,8 +63,9 @@ By understanding how Chrome manages memory through these internal pages and feat
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Network Speed in Developer Tools](/chrome-network-speed-in-developer-tools)
-* [Chrome Cookies Explained Simply](/chrome-cookies-explained-simply)
-* [Chrome for Amazon Fresh Web Ordering](/chrome-for-amazon-fresh-web-ordering)
+## Related Articles
+* [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained/)
+* [Chrome Page Source How to View Explained](/articles/chrome-page-source-how-to-view-explained/)
+* [Chrome Not Enough Memory to Open Page Fix](/articles/chrome-not-enough-memory-to-open-page/)

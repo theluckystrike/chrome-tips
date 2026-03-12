@@ -17,6 +17,7 @@ tags:
 - chrome-autofill
 author: theluckystrike
 ---
+
 # Chrome Payment Methods How to Remove
 
 Chrome payment methods how to remove is something many users wonder about when they want to clean up their browser or protect their financial privacy. Whether you have an old card stored that expired, you are switching to a new payment method, or you simply want to keep your Chrome profile tidy, removing saved payment methods is a useful skill to have. Chrome stores your payment information to make online shopping faster, but you have full control over what gets saved and when it gets deleted.

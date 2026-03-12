@@ -17,6 +17,7 @@ tags:
 - site-permissions
 author: theluckystrike
 ---
+
 # Chrome Camera Permission for One Site How to Set
 
 You want to use your camera for a video call on one specific website in Chrome, but you are not sure how to give just that one site permission without affecting others. If you have been searching for chrome camera permission for one site how to set, this guide will walk you through exactly what you need to do. Chrome makes it pretty straightforward to control camera access for individual websites, and you will be able to set it up in just a few minutes.

@@ -16,6 +16,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-default-browser-how-to-set-on-windows
 ---
+
 # Chrome Default Browser How to Set on Windows
 
 If you have ever searched for chrome default browser how to set on windows, you are definitely not alone. Many Windows users install Google Chrome but find that links from their email, documents, or other apps still open in Microsoft Edge or whatever browser came with their computer. This can be annoying when you prefer Chrome for its speed, extensions, and sync features across your devices. Setting Chrome as your default browser on Windows is a straightforward process, and this guide will walk you through it step by step.

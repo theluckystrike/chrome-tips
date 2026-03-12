@@ -17,6 +17,7 @@ tags:
 - chrome-memory
 author: theluckystrike
 ---
+
 # Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work
 
 If you're typing "chrome makes my old laptop unusable" into Google, you're probably frustrated. Your laptop fans are spinning loud, everything feels sluggish, and Chrome seems to be eating up all your computer's resources. I've been there, and the good news is there are practical solutions you can try right now.

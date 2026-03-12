@@ -8,6 +8,7 @@ date: '2026-03-10'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-waze-web-tips
 ---
+
 If you use Chrome for Waze web, you might be looking for ways to make your navigation experience smoother and more reliable. Many drivers appreciate having Waze accessible directly in their browser without needing to install the mobile app or desktop software. Let me share some helpful tips to optimize Chrome for Waze so you can navigate with confidence.
 
 ## Why Waze Web Works Well in Chrome

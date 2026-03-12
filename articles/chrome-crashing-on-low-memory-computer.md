@@ -17,6 +17,7 @@ tags:
 - browser-troubleshooting
 author: theluckystrike
 ---
+
 # Chrome Crashing on Low Memory Computer
 
 If your **Chrome crashing on low memory computer** keeps happening, you know how frustrating it is when your browser suddenly closes without warning. The good news is that there are practical steps you can take to stop these crashes and get Chrome running smoothly again.

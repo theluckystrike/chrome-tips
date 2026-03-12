@@ -17,6 +17,7 @@ tags:
 - internet-connection
 author: theluckystrike
 ---
+
 # Chrome Not Loading Pages But Internet Works: Complete Fix Guide
 
 You're in the middle of something important, and suddenly Chrome refuses to load any pages. You check your Wi-Fi—it's working fine. You open another browser, and everything loads perfectly. But Chrome? Stuck on a blank page or spinning indefinitely. If this sounds familiar, you're dealing with one of the most frustrating browser issues out there.

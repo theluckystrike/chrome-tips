@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Protected Audiences API Guide
-description: A practical guide to Chrome Protected Audiences API, formerly known as FLEDGE. Learn how this privacy-focused advertising technology works and how to manage it.
+description: A practical guide to Chrome Protected Audiences API, formerly known as
+  FLEDGE. Learn how this privacy-focused advertising technology works and how to manage
+  it.
 date: 2026-03-12
 categories:
 - privacy
@@ -70,8 +72,9 @@ The balance between useful advertising and privacy protection remains an ongoing
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Mobile Tips Save Data Usage](/chrome-mobile-tips-save-data-usage)
-* [Chrome Extensions for Price Tracking Amazon](/chrome-extensions-for-price-tracking-amazon)
-* [How to Cast Chrome Tab to TV](/how-to-cast-chrome-tab-to-tv)
+## Related Articles
+* [chrome protected audience api explained](/articles/chrome-protected-audience-api-explained/)
+* [Chrome Topics API Guide](/articles/chrome-topics-api-guide/)
+* [chrome shared storage api privacy ads](/articles/chrome-shared-storage-api-privacy-ads/)

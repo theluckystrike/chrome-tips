@@ -16,6 +16,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 ---
+
 # Chrome Lite Mode Does It Still Exist
 
 If you have been searching for "chrome lite mode does it still exist," you are probably looking for a way to make Chrome run faster on your computer or use less data. Let me give you a clear answer and practical solutions you can use right now.

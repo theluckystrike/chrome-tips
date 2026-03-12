@@ -11,6 +11,7 @@ categories: '[features, api, sharing]'
 tags: '[web-share-target-api, sharing, browser-features]'
 author: theluckystrike
 ---
+
 # Chrome Web Share Target API Explained
 
 If you have ever searched for chrome web share target api explained, you probably wanted to understand how websites can receive shared content from your browser. This feature is part of a broader system that lets your Chrome browser act as a sharing destination, similar to how apps on your phone can receive links and files from each other. In this guide, I will walk you through what the Web Share Target API does, why it matters, and how to make the most of it.

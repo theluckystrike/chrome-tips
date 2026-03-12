@@ -11,6 +11,7 @@ categories: '[comparison, browser]'
 tags: '[microsoft-edge, chrome-browser, browser-comparison, edge-vs-chrome]'
 author: theluckystrike
 ---
+
 # Is Microsoft Edge Better Than Chrome Now
 
 If you have ever asked yourself is microsoft edge better than chrome now, you are not alone. This is a question that many people are asking as Chrome continues to dominate the browser market while Edge has undergone massive improvements. The answer is not straightforward, and it depends on what matters most to you in a browser. Let us break down the key differences to help you decide.

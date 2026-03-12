@@ -17,6 +17,7 @@ author: theluckystrike
 permalink: chrome-select-all-tabs-shortcut
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Select All Tabs Shortcut
 
 If you have ever searched for "chrome select all tabs shortcut" because you needed to move, close, or organize all your open tabs at once, you are not alone. Many Chrome users find themselves with dozens of tabs open and wish there was a simple way to select them all together. While Chrome does not offer a single built-in shortcut that selects every tab in your window, there are several practical methods you can use to achieve the same result quickly and easily.

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Find Unused CSS and JS Using Chrome Coverage Tab
-description: "Learn how to use Chrome DevTools Coverage tab to identify and remove unused CSS and JavaScript, improving your website performance and load times....."
+description: Learn how to use Chrome DevTools Coverage tab to identify and remove
+  unused CSS and JavaScript, improving your website performance and load times.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-coverage-tab-find-unused-css-js
@@ -75,8 +76,9 @@ The Chrome Coverage tab is an essential tool for any developer serious about web
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Web and App Activity How to Delete](/chrome-web-and-app-activity-how-to-delete)
-* [Chrome Extensions Using Too Much Memory](/chrome-extensions-using-too-much-memory)
-* [Chrome Extension Marketing Tips to Grow Your User Base](/chrome-extension-marketing-tips-grow-users)
+## Related Articles
+* [How to Improve Your Chrome Lighthouse Performance Score](/articles/chrome-lighthouse-performance-score-improve/)
+* [Chrome DevTools Coverage Tool Explained](/articles/chrome-devtools-coverage-tool-explained/)
+* [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/articles/chrome-coverage-tool-find-unused-css/)

@@ -10,6 +10,7 @@ categories: '[features, web-development]'
 tags: '[chrome-api, web-share, sharing, javascript]'
 author: theluckystrike
 ---
+
 # Chrome Web Share API Explained
 
 Chrome web share api explained is a topic that has become increasingly relevant as more websites and web applications adopt this powerful technology. If you have used Chrome on your phone or desktop and noticed that websites can now share content directly to your favorite apps and services, the Web Share API is what makes that possible.

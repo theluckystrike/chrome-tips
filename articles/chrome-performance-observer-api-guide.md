@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Performance Observer API Guide
-description: "A practical guide to the Chrome Performance Observer API, covering how to implement it, what metrics to track, and how to use the data to improve your websit..."
+description: A practical guide to the Chrome Performance Observer API, covering how
+  to implement it, what metrics to track, and how to use the data to improve your
+  websit...
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-performance-observer-api-guide
@@ -117,8 +119,9 @@ Remember that performance is an ongoing concern, not a one-time fix. Continuous 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome Screenshot Command Line Batch: Complete Automation Guide](/chrome-screenshot-command-line-batch)
-* [Chrome Crashing on Samsung Galaxy Phone](/chrome-crashing-on-samsung-galaxy-phone)
-* [Chrome for Research Workflow Best Setup](/chrome-for-research-workflow-best-setup)
+## Related Articles
+* [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api-explained/)
+* [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained/)
+* [Chrome Performance Panel for Regular Users](/articles/chrome-performance-panel-for-regular-users/)

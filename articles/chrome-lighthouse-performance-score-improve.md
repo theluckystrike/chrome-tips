@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Improve Your Chrome Lighthouse Performance Score
-description: "Learn practical strategies to boost your Chrome Lighthouse performance score. Optimize images, reduce JavaScript bloat, and speed up your site today.."
+description: Learn practical strategies to boost your Chrome Lighthouse performance
+  score. Optimize images, reduce JavaScript bloat, and speed up your site today.
 date: 2026-03-12
 permalink: chrome-lighthouse-performance-score-improve
 categories:
@@ -83,8 +84,9 @@ Remember, Lighthouse is not just a score. It is a reflection of how fast and rel
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
-## Related Articles
+---
 
-* [Chrome for Gesture Navigation Desktop](/chrome-for-gesture-navigation-desktop)
-* [Chrome Cleanup Tool Removed: What to Use Instead](/chrome-cleanup-tool-removed-what-to-use-instead)
-* [Chrome Password Autofill Stopped Working: Fix It Now](/chrome-password-autofill-stopped-working)
+## Related Articles
+* [Page Speed Insights vs Lighthouse - Which Tool Should You Use](/articles/chrome-page-speed-insights-vs-lighthouse/)
+* [Chrome Lighthouse Audit for Website Speed: Complete Guide](/articles/chrome-lighthouse-audit-website-speed/)
+* [How to Find Unused CSS and JS Using Chrome Coverage Tab](/articles/chrome-coverage-tab-find-unused-css-js/)

@@ -16,6 +16,7 @@ author: theluckystrike
 permalink: chrome-raster-thread-high-cpu-fix
 last_modified_at: '2026-03-12'
 ---
+
 # How to Fix Chrome Raster Thread High CPU Usage
 
 If you have ever opened Chrome Task Manager and noticed the **raster thread** using an unusually high amount of CPU, you are not alone. This is a common issue that can slow down your computer, drain your battery, and make your browsing experience frustrating. Understanding what the raster thread does and how to address high CPU usage can help you get Chrome running smoothly again.

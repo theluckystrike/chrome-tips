@@ -16,6 +16,7 @@ tags:
 - browser-tools
 author: theluckystrike
 ---
+
 # Chrome Extensions for Website Testing
 
 If you are searching for chrome extensions for website testing, you likely need reliable tools to check how your website performs across different conditions. Testing a website thoroughly takes time and the right set of tools. The good news is that Chrome offers a wide range of extensions designed to make website testing easier and more comprehensive.

@@ -10,6 +10,7 @@ categories: '[troubleshooting, tips]'
 tags: '[chrome-startup, chrome-settings, browser-startup, windows-startup, mac-startup]'
 author: theluckystrike
 ---
+
 # How to Stop Chrome from Opening on Startup
 
 How to stop Chrome from opening on startup is a question that pops up when you find your browser launching automatically every time you turn on your computer. Maybe you closed Chrome properly last night, only to discover it popped open the moment you restarted. Perhaps you share a computer with family members and do not want your tabs appearing when someone else logs in. Whatever the reason, Chrome launching on startup can feel intrusive, especially if you prefer to open your browser only when you need it. The good news is that you have full control over this behavior, and you can stop Chrome from opening on startup with just a few simple changes.

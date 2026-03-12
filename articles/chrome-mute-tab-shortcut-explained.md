@@ -16,6 +16,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome Mute Tab Shortcut Explained
 
 Chrome mute tab shortcut explained simply means learning how to control audio playback in your browser tabs without reaching for the mouse. Whether you are dealing with auto-playing videos, noisy websites, or need to quickly silence a tab while keeping others playing, Chrome provides built-in keyboard shortcuts that make this effortless. This guide covers everything you need to know about muting tabs in Chrome, from the essential shortcuts to practical scenarios where they save you time.

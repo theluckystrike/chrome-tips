@@ -17,6 +17,7 @@ tags:
 - video
 author: theluckystrike
 ---
+
 # Chrome for Blocking Autoplay Videos
 
 If you are searching for chrome for blocking autoplay videos, you have likely experienced the frustration of opening a webpage only to have a video start playing loudly and unexpectedly. You settle in to read an article, and suddenly music or dialogue begins blaring from your speakers. This annoying behavior is called autoplay, and it is one of the most common complaints people have about browsing the web. The good news is that you have several options to stop videos from autoplaying in Chrome, and we will walk you through them in this guide.

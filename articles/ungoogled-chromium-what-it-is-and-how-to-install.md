@@ -10,6 +10,7 @@ categories: '[browsers, privacy]'
 tags: '[chromium, privacy, browser, ungoogled]'
 author: theluckystrike
 ---
+
 # Ungoogled Chromium What It Is and How to Install
 
 If you have been searching for "ungoogled chromium what it is and how to install," you probably want a browser that gives you the speed and familiarity of Chrome but without Google's tracking and services. That is exactly what ungoogled chromium offers. It is a modified version of the Chromium browser, which is the open-source foundation that Chrome is built on, but with all the Google-specific code and integrations removed. The result is a browser that works and feels like Chrome but respects your privacy far more.

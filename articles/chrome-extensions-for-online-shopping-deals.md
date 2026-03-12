@@ -10,6 +10,7 @@ categories: '[shopping, tips]'
 tags: '[chrome-extensions, shopping, deals, savings]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Online Shopping Deals
 
 If you are searching for chrome extensions for online shopping deals, you probably want to save money while shopping on the internet. Many shoppers spend hours manually comparing prices across different websites, clipping coupons, and waiting for sales. This can be exhausting and time-consuming. The good news is that the right Chrome extensions can automate much of this work for you, helping you find the best deals without all the effort.

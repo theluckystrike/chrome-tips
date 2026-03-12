@@ -17,6 +17,7 @@ tags:
 - browser-tips
 author: theluckystrike
 ---
+
 # Chrome for Wikipedia Enhanced Reading
 
 If you are looking for chrome for wikipedia enhanced reading, you have probably experienced the frustration of navigating through cluttered Wikipedia pages or struggling to focus on long articles. Wikipedia is an incredible resource with millions of articles, but the default layout is not always optimized for comfortable reading. Fortunately, Chrome provides several ways to improve your experience and make researching more enjoyable.

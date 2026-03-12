@@ -11,6 +11,7 @@ categories: '[productivity, tools]'
 tags: '[chrome-extensions, reverse-search, video-tools, content-discovery]'
 author: theluckystrike
 ---
+
 If you have been searching for chrome extensions for reverse video search, you probably know the frustration. You come across an interesting video online, but you have no idea where it came from, who created it, or how to find more like it. Perhaps you saw a clip on social media and want to track down the original source, or you found a video that would be perfect for your own project but you need to verify its origins first. This is a common problem for anyone who spends time online, and the good news is that there are Chrome extensions designed specifically to help you find the source of any video.
 
 ## Why Reverse Video Search Is Useful

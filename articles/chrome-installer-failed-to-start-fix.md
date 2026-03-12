@@ -17,6 +17,7 @@ tags:
 - chrome-fix
 author: theluckystrike
 ---
+
 # Chrome Installer Failed to Start Fix
 
 Downloading Chrome should be a simple task, but sometimes the chrome installer failed to start fix becomes necessary. If you have ever double-clicked the Chrome installer only to see nothing happen, or gotten an error message saying the installer could not start, you know how frustrating this can be. The good news is that most of these problems have clear causes and even clearer solutions. Let me walk you through what might be going wrong and how you can get Chrome installed and working.

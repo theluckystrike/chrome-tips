@@ -21,6 +21,7 @@ tags:
 - browser-security
 author: theluckystrike
 ---
+
 # Chrome Permissions Manager Guide
 
 Modern web browsers have become incredibly powerful platforms that can access your device's hardware and sensitive information. While this enables rich web experiences—from video calls to location-aware applications—it also raises important questions about privacy and security. Chrome's Permissions Manager is your central hub for controlling what websites can access, giving you granular control over your digital privacy.

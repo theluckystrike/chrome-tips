@@ -15,6 +15,7 @@ tags:
 - browsing-tips
 author: theluckystrike
 ---
+
 # Chrome Reader View How to Enable on Any Site
 
 If you are searching for chrome reader view how to enable on any site, you have probably encountered websites that make reading difficult. Many websites are cluttered with advertisements, popups, navigation menus, and other distracting elements that get in the way of the content you actually want to read. Chrome has a built-in reader view feature that can help, but it does not work on every website automatically.

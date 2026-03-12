@@ -19,6 +19,7 @@ tags:
 - chrome-devtools
 author: theluckystrike
 ---
+
 # Chrome Memory Leak Detection Guide
 
 Memory leaks are one of the most frustrating issues that can affect your browsing experience and web applications. They creep in slowly, gradually consuming more and more of your available RAM until your browser starts to feel sluggish, tabs begin to crash, or your entire system slows to a crawl. Understanding how to detect and diagnose memory leaks in Chrome is an essential skill whether you are a web developer building complex applications or a power user who keeps dozens of tabs open throughout the day.

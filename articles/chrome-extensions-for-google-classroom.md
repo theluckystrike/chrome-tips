@@ -10,6 +10,7 @@ categories: '[productivity, tips]'
 tags: '[chrome-extensions, google-classroom, education, students, teachers]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Google Classroom
 
 If you are searching for chrome extensions for google classroom, you probably use this platform daily for managing coursework, assignments, and communication between teachers and students. Whether you are a teacher juggling multiple classes or a student keeping track of deadlines, Google Classroom can feel overwhelming at times. The good news is that the right extensions can make your experience much smoother and help you stay organized.

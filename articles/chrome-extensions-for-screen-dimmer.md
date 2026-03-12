@@ -10,6 +10,7 @@ categories: '[extensions, browsing]'
 tags: '[screen-dimmer, chrome-extension, eye-strain, productivity]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Screen Dimmer
 
 If you have ever searched for chrome extensions for screen dimmer to make your browsing experience more comfortable, you are not alone. Many people spend hours in front of their computers every day, and sometimes the screen brightness can be overwhelming, especially in low-light environments. This guide will help you understand why screen dimming matters and how to find the right extension for your needs.

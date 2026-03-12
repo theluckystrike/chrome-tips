@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Chrome Extensions for Lorem Ipsum Generator"
-description: "Discover the best Chrome extensions for Lorem Ipsum generator tools to speed up your design workflow and placeholder text creation."
-date: 2026-03-10
-categories: [productivity, design]
-tags: [chrome-extensions, lorem-ipsum, design-tools, placeholder-text]
-author: theluckystrike
+description: "Discover the best Chrome extensions for Lorem Ipsum generator tools to speed up your design workflow and placeholder text creation. Check out our expert..."
+date: "2026-03-10"
+last_modified_at: "2026-03-10"
+permalink: "chrome-extensions-for-lorem-ipsum-generator"
+layout: "post"
+categories: "[productivity, design]"
+tags: "[chrome-extensions, lorem-ipsum, design-tools, placeholder-text]"
+author: "theluckystrike"
 ---
 
 If you are looking for chrome extensions for lorem ipsum generator tools, you have probably experienced the frustration of spending too much time creating placeholder text for your designs. Whether you are building a website, designing a mockup, or creating a presentation, finding the right placeholder text quickly can save you hours of work.

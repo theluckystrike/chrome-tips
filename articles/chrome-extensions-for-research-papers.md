@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Chrome Extensions for Research Papers"
-description: "Discover the best Chrome extensions for research papers that can help you find, organize, and read academic content more efficiently."
-date: 2026-03-09
-categories: [research, tips]
-tags: [chrome-extensions, research-papers, academic]
-author: theluckystrike
+description: "Discover the best Chrome extensions for research papers that can help you find, organize, and read academic content more efficiently. Check out our expert..."
+date: "2026-03-09"
+last_modified_at: "2026-03-10"
+permalink: "chrome-extensions-for-research-papers"
+layout: "post"
+categories: "[research, tips]"
+tags: "[chrome-extensions, research-papers, academic]"
+author: "theluckystrike"
 ---
 
 # Chrome Extensions for Research Papers

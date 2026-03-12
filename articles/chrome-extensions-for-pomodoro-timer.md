@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Chrome Extensions for Pomodoro Timer"
-description: "Find the best chrome extensions for pomodoro timer to boost focus, manage work sessions, and beat procrastination with proven time management."
-date: 2026-03-09
-categories: [productivity, tips]
-tags: [chrome-extensions, pomodoro, time-management, focus, productivity]
-author: theluckystrike
+description: "Find the best chrome extensions for pomodoro timer to boost focus, manage work sessions, and beat procrastination with proven time management. Check out our..."
+date: "2026-03-09"
+last_modified_at: "2026-03-09"
+permalink: "chrome-extensions-for-pomodoro-timer"
+layout: "post"
+categories: "[productivity, tips]"
+tags: "[chrome-extensions, pomodoro, time-management, focus, productivity]"
+author: "theluckystrike"
 ---
 
 # Chrome Extensions for Pomodoro Timer

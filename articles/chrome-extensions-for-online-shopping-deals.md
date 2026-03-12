@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Chrome Extensions for Online Shopping Deals"
 description: "Discover how Chrome extensions for online shopping deals can help you save money, compare prices instantly, and find the best bargains while you browse."
-date: 2026-03-09
-categories: [shopping, tips]
-tags: [chrome-extensions, shopping, deals, savings]
-author: theluckystrike
+date: "2026-03-09"
+last_modified_at: "2026-03-09"
+permalink: "chrome-extensions-for-online-shopping-deals"
+layout: "post"
+categories: "[shopping, tips]"
+tags: "[chrome-extensions, shopping, deals, savings]"
+author: "theluckystrike"
 ---
 
 # Chrome Extensions for Online Shopping Deals

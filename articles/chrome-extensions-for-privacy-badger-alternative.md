@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "chrome extensions for privacy badger alternative"
-description: "Looking for chrome extensions for privacy badger alternative? Discover the best options to protect your privacy while browsing."
-date: 2026-01-15
-categories: [extensions, privacy]
-tags: [privacy, chrome-extension, privacy-badger, tracker-blocker]
-author: theluckystrike
+description: "Looking for chrome extensions for privacy badger alternative? Discover the best options to protect your privacy while browsing. Check out our expert..."
+date: "2026-01-15"
+last_modified_at: "2026-03-09"
+permalink: "chrome-extensions-for-privacy-badger-alternative"
+layout: "post"
+categories: "[extensions, privacy]"
+tags: "[privacy, chrome-extension, privacy-badger, tracker-blocker]"
+author: "theluckystrike"
 ---
 
 # Chrome Extensions for Privacy Badger Alternative

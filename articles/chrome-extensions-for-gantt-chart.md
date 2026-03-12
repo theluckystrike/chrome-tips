@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Chrome Extensions for Gantt Chart"
-description: "Find the best Chrome extensions for Gantt chart creation and project timeline management to streamline your workflow."
-date: 2026-03-09
-categories: [productivity, project-management, tips]
-tags: [chrome-extensions, gantt-chart, project-management, browser-tools]
-author: theluckystrike
+description: "Find the best Chrome extensions for Gantt chart creation and project timeline management to streamline your workflow. Check out our expert recommendations..."
+date: "2026-03-09"
+last_modified_at: "2026-03-09"
+permalink: "chrome-extensions-for-gantt-chart"
+layout: "post"
+categories: "[productivity, project-management, tips]"
+tags: "[chrome-extensions, gantt-chart, project-management, browser-tools]"
+author: "theluckystrike"
 ---
 
 # Chrome Extensions for Gantt Chart

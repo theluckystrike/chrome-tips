@@ -1,7 +1,10 @@
 ---
-layout: post
 title: "chrome extensions for graphic designers"
-description: "Discover the best Chrome extensions for graphic designers to boost productivity, organize files, and streamline your design workflow."
+description: "Discover the best Chrome extensions for graphic designers to boost productivity, organize files, and streamline your design workflow. Check out our expert..."
+date: "2026-01-01"
+last_modified_at: "2026-03-09"
+permalink: "chrome-extensions-for-graphic-designers"
+layout: "post"
 ---
 
 If you spend your days creating visuals, logos, and marketing materials, you probably know how quickly your browser can become a second workspace. Designers often juggle multiple tabs for inspiration, color pickers, font previews, and file management. Chrome extensions for graphic designers can transform your browser from a simple browsing tool into a powerful design command center.

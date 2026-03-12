@@ -14,10 +14,9 @@ tags:
 - page-crash-fix
 - browser-error
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-12
 permalink: chrome-aw-snap-page-crash-fix
 ---
-
 # Chrome AW Snap Page Crash Fix
 
 Seeing the "AW Snap" error in Chrome when a page crashes can be really frustrating. You might be in the middle of reading an article, shopping online, or working on something important when suddenly Chrome shows this unhelpful error message and the page goes blank. If you're searching for a chrome aw snap page crash fix, you're in the right place. Let me explain what causes this and how you can get back to browsing quickly.

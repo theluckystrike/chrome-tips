@@ -16,10 +16,9 @@ tags:
 - keyboard-shortcuts
 - browsing
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-accessibility-shortcuts-for-screen-reader
 ---
-
 # Chrome Accessibility Shortcuts for Screen Reader
 
 If you are looking for chrome accessibility shortcuts for screen reader users, you have come to the right place. Many people rely on screen readers to navigate the web, and knowing the right keyboard shortcuts can dramatically improve your browsing experience and make you more productive online.

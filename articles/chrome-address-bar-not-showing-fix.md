@@ -14,10 +14,9 @@ tags:
 - browser-problem
 - omnibox
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-not-showing-fix
 ---
-
 # Chrome Address Bar Not Showing Fix
 
 The Chrome address bar disappears for exactly 4 reasons. Here they are in order of likelihood, with the fix for each.

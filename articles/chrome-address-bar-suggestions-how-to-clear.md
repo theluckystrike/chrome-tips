@@ -13,10 +13,9 @@ tags:
 - suggestions
 - privacy
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-suggestions-how-to-clear
 ---
-
 # Chrome Address Bar Suggestions How to Clear
 
 Chrome's address bar (the Omnibox) shows up to 8 suggestions in the dropdown as you type. These are designed to help you navigate faster, but they can also feel intrusive or display outdated information. These suggestions come from several different sources—some local to your computer and some from Google's servers. Here is a breakdown of how to identify and clear each type of suggestion.

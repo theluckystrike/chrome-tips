@@ -13,10 +13,9 @@ tags:
 - chrome-features
 - notifications
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-badging-api-explained
 ---
-
 Chrome badging API explained is a topic that comes up when users notice small numbers or dots appearing on their browser toolbar icons. If you have ever seen a red badge showing how many unread messages you have, or a small dot indicating something new on a website, you have encountered what the Badging API enables.
 
 ## What the Chrome Badging API Actually Is

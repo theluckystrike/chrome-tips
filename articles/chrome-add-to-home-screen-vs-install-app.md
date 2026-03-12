@@ -15,10 +15,9 @@ tags:
 - pwa
 - mobile-apps
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-add-to-home-screen-vs-install-app
 ---
-
 # Chrome Add to Home Screen vs Install App
 
 When you browse the web on your phone, you might have noticed that some websites offer you the option to add them to your home screen. This is different from downloading and installing an app from the App Store or Google Play Store. Understanding the difference between these two options can help you decide which approach works better for your needs.

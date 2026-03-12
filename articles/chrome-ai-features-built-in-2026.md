@@ -16,10 +16,9 @@ tags:
 - browser-features
 - 2026
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-features-built-in-2026
 ---
-
 # Chrome AI Features Built in 2026
 
 If you have been wondering what chrome ai features built in 2026 are available, you might be surprised to learn just how much artificial intelligence is now directly integrated into your browser. Google has been steadily adding AI capabilities to Chrome, and 2026 marks a significant milestone where many AI-powered features are available right out of the box without needing any extensions or additional installations.

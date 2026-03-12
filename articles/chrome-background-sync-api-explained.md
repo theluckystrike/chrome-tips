@@ -12,10 +12,9 @@ tags:
 - chrome-sync
 - browser-background-tasks
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-12
 permalink: chrome-background-sync-api-explained
 ---
-
 # Chrome Background Sync API Explained
 
 If you have ever wondered why some web apps seem to work smoothly even when you are not actively using them, you might have encountered chrome background sync api in action. This feature is built into Chrome and helps websites keep your data up to date without you needing to keep the page open. Understanding how it works can help you make better choices about your browser settings and improve your overall browsing experience.

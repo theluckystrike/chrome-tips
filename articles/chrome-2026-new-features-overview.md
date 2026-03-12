@@ -12,10 +12,9 @@ tags:
 - new-features
 - browser-update
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-2026-new-features-overview
 ---
-
 # Chrome 2026 New Features Overview
 
 Chrome releases a new stable version roughly every 4 weeks. In 2025 alone, Chrome shipped versions 132 through 143, each introducing incremental changes that added up to a significantly different browser by year's end. Here is what the latest Chrome versions bring to the table and how to use the new features.

@@ -14,10 +14,9 @@ tags:
 - performance-optimization
 - browser-speed
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: best-chrome-settings-for-slow-computer
 ---
-
 # Best Chrome Settings for a Slow Computer
 
 If your computer is on the slower side, Chrome's default settings aren't doing you any favors. The good news is there are several built-in settings you can adjust to make Chrome more comfortable on modest hardware. No technical expertise needed — just follow along.

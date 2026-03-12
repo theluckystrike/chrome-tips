@@ -14,10 +14,9 @@ tags:
 - browser-fix
 - troubleshooting
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-not-working-fix
 ---
-
 # Chrome Address Bar Not Working Fix
 
 If your Chrome address bar is not working, you are not alone. Many Chrome users experience issues where the Omnibox, which is what Google calls the address bar at the top of the browser, stops responding, does not accept typed text, or fails to load pages when you press Enter. This can be frustrating, especially when you need to quickly look something up or visit a favorite website. The good news is that this problem is usually fixable with some simple steps you can try at home.

@@ -14,10 +14,9 @@ tags:
 - speed-up-chrome
 - chrome-memory
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: best-settings-to-speed-up-chrome-2026
 ---
-
 # Best Settings to Speed Up Chrome 2026
 
 If Chrome feels sluggish on your computer, you are not alone. Many users with older machines or limited RAM struggle with slow browsing speeds. The good news is that Chrome includes several built-in settings that can significantly improve performance. This guide covers the best settings to speed up Chrome 2026, with practical steps you can follow right now.

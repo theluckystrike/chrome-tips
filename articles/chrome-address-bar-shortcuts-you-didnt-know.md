@@ -15,10 +15,9 @@ tags:
 - browser-shortcuts
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-shortcuts-you-didnt-know
 ---
-
 # Chrome Address Bar Shortcuts You Didn't Know
 
 The Chrome address bar—also called the Omnibox—is far more powerful than most people realize. While most users type a URL or Google search and call it a day, this humble bar can handle complex searches, quick calculations, bookmarks, and even browser commands. Mastering these Chrome address bar shortcuts can genuinely transform how you browse, saving you clicks, time, and mental effort.

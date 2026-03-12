@@ -14,10 +14,9 @@ tags:
 - chrome-sign-in
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-auto-sign-in-to-websites-how-to-control
 ---
-
 # Chrome Auto Sign In to Websites How to Control
 
 Chrome auto sign in to websites is a feature that can feel incredibly convenient or surprisingly annoying depending on your perspective. You open your browser and find yourself already logged into your email, social media, and favorite shopping sites without lifting a finger. While this seamless experience saves time for many people, others prefer having more control over when and how they sign into their accounts. The good news is that Chrome gives you several ways to manage this behavior, and understanding your options helps you create the browsing experience that works best for you.

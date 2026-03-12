@@ -16,10 +16,9 @@ tags:
 - pwa
 - chrome-tips
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-application-tab-inspect-service-workers
 ---
-
 # Chrome Application Tab Inspect Service Workers
 
 Service workers have become an essential part of modern web development, enabling powerful features like offline support, background synchronization, and push notifications. If you're building Progressive Web Apps or optimizing web application performance, understanding how to inspect and debug service workers is crucial. Chrome's Application tab provides comprehensive tools for this purpose, and this guide will walk you through everything you need to know.

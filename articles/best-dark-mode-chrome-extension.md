@@ -13,10 +13,9 @@ tags:
 - eye-strain
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: best-dark-mode-chrome-extension
 ---
-
 # Best Dark Mode Chrome Extension
 
 If you have ever found yourself browsing the web late at night or working in a dimly lit room, you have probably searched for the best dark mode chrome extension to make your experience more comfortable. The bright white backgrounds of most websites can be harsh on your eyes and even drain your laptop battery faster. This guide will help you understand why dark mode matters and how to find the right extension for your needs.

@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Web Push Notifications Setup Guide"
-description: "Learn how to set up chrome web push notifications for your website. A simple guide for beginners."
+title: Chrome Web Push Notifications Setup Guide
+description: Learn how to set up chrome web push notifications for your website. A
+  simple guide for beginners. Learn how to optimize your browser today for better
+  perform...
 date: 2026-01-20
-categories: [tutorials, notifications]
-tags: [chrome, web-push, notifications, browser]
+categories:
+- tutorials
+- notifications
+tags:
+- chrome
+- web-push
+- notifications
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-web-push-notifications-setup-guide
 ---
-
 # Chrome Web Push Notifications Setup Guide
 
 Chrome web push notifications have become an essential tool for websites that want to keep their visitors engaged and informed. If you have been wondering how to set up chrome web push notifications for your own website, this guide will walk you through the process in plain language without any technical jargon getting in the way.

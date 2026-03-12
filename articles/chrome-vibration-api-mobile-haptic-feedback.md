@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chrome Vibration API: Mobile Haptic Feedback Guide"
 description: "Learn how to use the Chrome Vibration API to create immersive mobile web experiences with haptic feedback. Step-by-step tutorial with code examples."
 date: 2026-03-12
@@ -173,6 +173,6 @@ Aim for purposeful, meaningful vibrations that enhance the user experience rathe
 
 The Chrome Vibration API offers a straightforward way to add tactile dimension to your mobile web applications. By following the implementation best practices outlined in this guide, you can create more engaging, accessible, and professional web experiences that work seamlessly across supported devices.
 
-For Chrome extension developers looking to enhance their productivity tools, similar attention to user feedback mechanisms can significantly improve user satisfaction. Just as haptic feedback creates more responsive mobile experiences, thoughtful UI design in browser extensions creates more enjoyable daily workflows.
+For Chrome extension developers looking to enhance their productivity tools, similar attention to user feedback mechanisms can significantly improve user satisfaction. Just as haptic feedback creates more responsive mobile experiences, thoughtful UI design in browser extensions creates more enjoyable daily workflows. Extensions like Tab Suspender Pro demonstrate how attention to user experience details can make browser usage more efficient and pleasant.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

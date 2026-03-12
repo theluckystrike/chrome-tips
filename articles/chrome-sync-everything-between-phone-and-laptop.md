@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "How to Sync Everything Between Your Phone and Laptop with Chrome"
-description: "Learn how to sync bookmarks, history, passwords, and open tabs across your phone and laptop using Chrome. Practical step-by-step guide for seamless browsing."
+title: How to Sync Everything Between Your Phone and Laptop with Chrome
+description: Learn how to sync bookmarks, history, passwords, and open tabs across
+  your phone and laptop using Chrome. Practical step-by-step guide for seamless browsing.
 date: 2026-03-11
-categories: [chrome, sync, mobile]
-tags: [chrome-sync, cross-device, browser-tips, productivity]
+categories:
+- chrome
+- sync
+- mobile
+tags:
+- chrome-sync
+- cross-device
+- browser-tips
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-sync-everything-between-phone-and-laptop
 ---
-
 # How to Sync Everything Between Your Phone and Laptop with Chrome
 
 Imagine starting a research project on your laptop, then continuing it on your phone during your commute, and finishing it back on your computer at home—all without missing a beat. With Chrome's sync feature, this seamless experience is exactly what you get. Let's walk through how to set this up and make the most of it.

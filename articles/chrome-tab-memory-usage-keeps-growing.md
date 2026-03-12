@@ -1,13 +1,25 @@
 ---
 layout: post
-title: "chrome tab memory usage keeps growing"
-description: "Is your Chrome browser using more and more memory over time? Learn why chrome tab memory usage keeps growing and practical fixes to reclaim your RAM."
+title: Chrome Tab Memory Usage Keeps Growing
+description: Is your Chrome browser using more and more memory over time? Learn why
+  chrome tab memory usage keeps growing and practical fixes to reclaim your RAM. Learn
+  h...
 date: 2026-03-11
-categories: [tabs, performance, memory]
-tags: [chrome, memory, tabs, performance, slow computer, ram]
+categories:
+- tabs
+- performance
+- memory
+tags:
+- chrome
+- memory
+- tabs
+- performance
+- slow computer
+- ram
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-tab-memory-usage-keeps-growing
 ---
-
 # Chrome Tab Memory Usage Keeps Growing
 
 If your Chrome browser seems to get slower the longer you keep it open, you are not imagining things. Many users search for "chrome tab memory usage keeps growing" because they have noticed their browser gradually becomes more sluggish, especially on computers with limited RAM. This guide explains why this happens and provides practical solutions you can start using today.

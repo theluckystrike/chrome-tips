@@ -79,7 +79,7 @@ Give it a try with a site you visit often. Set up the bookmark or keyword, run a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Address Bar Shortcuts Tips](/chrome-for-address-bar-shortcuts-tips)
-- [Best Chrome Extensions For Working From Home](/best-chrome-extensions-for-working-from-home)
-- [Chrome Address Bar Autocomplete Disable](/chrome-address-bar-autocomplete-disable)
+## Related Articles
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
+- [chrome coupons in address bar feature](/chrome-coupons-in-address-bar-feature)

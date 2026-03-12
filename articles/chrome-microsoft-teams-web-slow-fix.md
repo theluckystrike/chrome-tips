@@ -138,9 +138,9 @@ By keeping your browser lean, managing resources wisely, and adjusting Teams set
 
 
 
-### Related Articles
-- [Chrome For Microsoft Teams Web Optimization](/chrome-for-microsoft-teams-web-optimization)
-- [Chrome Slack Web App Slow Fix](/chrome-slack-web-app-slow-fix)
-- [Chrome Android App Running Slow Fix](/chrome-android-app-running-slow-fix)
+## Related Articles
+- [How to Fix Slow Slack Web App in Chrome](/chrome-slack-web-app-slow-fix)
+- [Chrome for Microsoft Teams Web Optimization](/chrome-for-microsoft-teams-web-optimization)
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

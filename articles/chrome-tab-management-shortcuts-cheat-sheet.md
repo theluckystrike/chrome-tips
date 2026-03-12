@@ -75,9 +75,9 @@ The extension handles everything in the background, so you do not need to manual
 
 
 
-### Related Articles
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-- [Chrome For Dual Monitor Tab Management](/chrome-for-dual-monitor-tab-management)
-- [Chrome Tab Groups Keyboard Shortcuts](/chrome-tab-groups-keyboard-shortcuts)
+## Related Articles
+- [chrome for dual monitor tab management](/chrome-for-dual-monitor-tab-management)
+- [chrome tab groups keyboard shortcuts](/chrome-tab-groups-keyboard-shortcuts)
+- [Best Extensions for Tab Management Chrome](/best-extensions-for-tab-management-chrome)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

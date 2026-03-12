@@ -70,9 +70,9 @@ Over time, you will find that having a way to capture thoughts directly within y
 
 
 
-### Related Articles
-- [Chrome Extension For Checking Grammar While Typing](/chrome-extension-for-checking-grammar-while-typing)
-- [Chrome Best Note Taking Extension 2026](/chrome-best-note-taking-extension-2026)
-- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
+## Related Articles
+- [Chrome Extension for Checking Grammar While Typing](/chrome-extension-for-checking-grammar-while-typing)
+- [chrome best note taking extension 2026](/chrome-best-note-taking-extension-2026)
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

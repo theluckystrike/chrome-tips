@@ -15,7 +15,7 @@ tags:
 - privacy
 - advertising
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-attribution-reporting
 ---
 # Chrome Attribution Reporting Guide
@@ -212,9 +212,9 @@ Advertisers and publishers who adopt attribution reporting early will be better 
 
 *
 
-### Related Articles
-- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)
-- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
-- [Chrome Reporting Api Errors Monitor](/chrome-reporting-api-errors-monitor)
+## Related Articles
+- [Chrome Attribution Reporting What It Means for Users](/chrome-attribution-reporting-what-it-means-for-users)
+- [Chrome Attribution Reporting API Explained](/chrome-attribution-reporting-api-explained)
+- [Chrome Reporting API Errors Monitor: Complete Guide](/chrome-reporting-api-errors-monitor)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

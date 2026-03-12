@@ -13,7 +13,7 @@ tags:
 - productivity
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-12
 permalink: chrome-bookmark-bar-tips-and-tricks
 ---
 # Chrome Bookmark Bar Tips and Tricks
@@ -89,7 +89,7 @@ The bookmark bar is one of Chrome's most convenient features, but it requires so
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Address Bar Tips And Tricks](/chrome-address-bar-tips-and-tricks)
-- [Chrome Android Tips And Tricks 2026](/chrome-android-tips-and-tricks-2026)
-- [Chrome Element Inspector Tips And Tricks](/chrome-element-inspector-tips-and-tricks)
+## Related Articles
+- [Chrome Address Bar Tips and Tricks](/chrome-address-bar-tips-and-tricks)
+- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
+- [Chrome for Address Bar Shortcuts Tips](/chrome-for-address-bar-shortcuts-tips)

@@ -64,7 +64,7 @@ If your computer consistently struggles with video processing, you might need to
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Vibration Api Mobile Web](/chrome-vibration-api-mobile-web)
-- [Chrome Web Animation Api Explained](/chrome-web-animation-api-explained)
-- [Chrome Web Bluetooth Api Guide](/chrome-web-bluetooth-api-guide)
+## Related Articles
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)

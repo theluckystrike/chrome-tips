@@ -73,9 +73,9 @@ Remember that the most useful tool is one you actually use. An extension with ev
 
 
 
-### Related Articles
-- [Chrome Extension For Highlighting Text On Websites](/chrome-extension-for-highlighting-text-on-websites)
-- [Chrome Extension For Tracking Time Spent On Websites](/chrome-extension-for-tracking-time-spent-on-websites)
-- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
+## Related Articles
+- [How to Limit Screen Time in Chrome with Extensions](/chrome-limit-screen-time-with-extension)
+- [Chrome Split Screen Without Extension](/chrome-split-screen-without-extension)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

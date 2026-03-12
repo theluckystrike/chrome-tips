@@ -73,7 +73,7 @@ Remember that Chrome shows this warning to protect you. By understanding the iss
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome Privacy Error Your Connection Is Not Private Fix](/chrome-privacy-error-your-connection-is-not-private-fix)
 - [Chrome This Connection Is Not Private Bypass](/chrome-this-connection-is-not-private-bypass)
 - [Chrome Connection Not Private Bypass Safely](/chrome-connection-not-private-bypass-safely)

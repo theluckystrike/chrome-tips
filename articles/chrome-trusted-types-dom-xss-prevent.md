@@ -104,9 +104,9 @@ Finally, test thoroughly in staging before deploying to production. Use CSP repo
 
 
 
-### Related Articles
-- [Chrome Devtools Shadow Dom Inspector](/chrome-devtools-shadow-dom-inspector)
-- [Chrome Dom Content Loaded Vs Load Event](/chrome-dom-content-loaded-vs-load-event)
-- [Chrome How To Add Trusted Sites](/chrome-how-to-add-trusted-sites)
+## Related Articles
+- [Chrome Shadow DOM What It Is](/chrome-shadow-dom-what-it-is)
+- [Chrome DevTools Shadow DOM Inspector](/chrome-devtools-shadow-dom-inspector)
+- [Chrome DOMContentLoaded vs Load Event](/chrome-dom-content-loaded-vs-load-event)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

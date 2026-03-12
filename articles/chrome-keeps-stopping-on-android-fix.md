@@ -92,7 +92,7 @@ If you continue to experience problems after trying all these solutions, conside
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Lagging On Android Phone Fix](/chrome-lagging-on-android-phone-fix)
-- [Chrome Not Working On Android Fix](/chrome-not-working-on-android-fix)
-- [Chrome Slow On Android Fix](/chrome-slow-on-android-fix)
+## Related Articles
+- [Chrome Not Working on Android Fix](/chrome-not-working-on-android-fix)
+- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
+- [Chrome Keeps Logging Me Out of Websites Fix](/chrome-keeps-logging-me-out-of-websites-fix)

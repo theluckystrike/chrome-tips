@@ -143,7 +143,7 @@ Working efficiently with Stripe is largely about knowing the right techniques an
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Classroom Integration Tips For Teachers](/chrome-classroom-integration-tips-for-teachers)
-- [Chrome Extensions For Fitness Tracking Dashboard](/chrome-extensions-for-fitness-tracking-dashboard)
-- [Chrome Extensions For New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)
+## Related Articles
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
+- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)

@@ -121,9 +121,9 @@ The key is to choose one or two methods and stick with them consistently. This w
 
 
 
-### Related Articles
-- [Chrome For Saving Articles To Read Later](/chrome-for-saving-articles-to-read-later)
-- [Chrome Extension For Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
-- [Chrome Extensions For Saving Articles Offline](/chrome-extensions-for-saving-articles-offline)
+## Related Articles
+- [Chrome for Saving Articles to Read Later](/chrome-for-saving-articles-to-read-later)
+- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+- [How to Save Chrome Tabs for Later](/how-to-save-chrome-tabs-for-later)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

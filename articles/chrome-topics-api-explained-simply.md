@@ -73,9 +73,9 @@ The important thing is that you understand what is happening with your data. Bro
 
 
 
-### Related Articles
-- [Chrome Topics Api Privacy Sandbox Explained](/chrome-topics-api-privacy-sandbox-explained)
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
-- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)
+## Related Articles
+- [chrome topics api privacy sandbox explained](/chrome-topics-api-privacy-sandbox-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

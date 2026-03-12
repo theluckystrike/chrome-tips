@@ -73,7 +73,7 @@ If you want to optimize Chrome further, exploring Chrome's performance settings 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Enrollment For Schools How It Works](/chrome-enrollment-for-schools-how-it-works)
+## Related Articles
+- [Chrome Lazy Loading Images Native: How It Works and Why You Should Use It](/chrome-lazy-loading-images-native)
 - [Chrome Lazy Loading Images Explained](/chrome-lazy-loading-images-explained)
-- [Chrome Lazy Loading Images Native](/chrome-lazy-loading-images-native)
+- [Chrome Images Not Loading Fix](/chrome-images-not-loading-fix)

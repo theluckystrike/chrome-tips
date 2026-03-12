@@ -60,9 +60,9 @@ Chrome using swap memory is a solvable problem. By understanding why it happens 
 
 
 
-### Related Articles
-- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
-- [Chrome Extension Using Too Much Memory Find](/chrome-extension-using-too-much-memory-find)
-- [Chrome Extensions Using Too Much Memory](/chrome-extensions-using-too-much-memory)
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Using 100 Percent CPU Fix Windows](/chrome-using-100-percent-cpu-fix-windows)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -16,6 +16,8 @@ tags:
 - productivity
 - file-management
 author: theluckystrike
+last_modified_at: 2026-03-12
+permalink: best-chrome-extensions-for-google-drive
 ---
 # Best Chrome Extensions for Google Drive
 
@@ -93,9 +95,9 @@ By combining Google Drive's native capabilities with thoughtful extension choice
 
 
 
-### Related Articles
-- [Chrome Extensions For Google Drive](/chrome-extensions-for-google-drive)
-- [Chrome For Google Maps Best Extensions](/chrome-for-google-maps-best-extensions)
-- [Chrome For Google Scholar Best Extensions](/chrome-for-google-scholar-best-extensions)
+## Related Articles
+- [Chrome Extensions for Google Drive](/chrome-extensions-for-google-drive)
+- [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)
+- [Chrome Extensions for Google Forms](/chrome-extensions-for-google-forms)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

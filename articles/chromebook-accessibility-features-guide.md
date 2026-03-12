@@ -75,7 +75,7 @@ Chromebooks are designed to be accessible to everyone, and the built-in tools ma
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
-- [Chrome Accessibility Features You Didnt Know About](/chrome-accessibility-features-you-didnt-know-about)
-- [Chrome Accessibility On Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)
+## Related Articles
+- [Chrome Accessibility Features Guide: Everything You Need to Know](/chrome-accessibility-features-guide)
+- [Chrome Accessibility Features You Didn't Know About](/chrome-accessibility-features-you-didnt-know-about)
+- [Chromebook for Seniors Setup Guide](/chromebook-for-seniors-setup-guide)

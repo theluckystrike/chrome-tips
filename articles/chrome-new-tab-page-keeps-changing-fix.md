@@ -83,7 +83,7 @@ Having your Chrome new tab page keeps changing can be annoying, but it is a prob
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)
-- [Chrome Freezes When Opening New Tab Fix](/chrome-freezes-when-opening-new-tab-fix)
-- [Chrome Homepage Keeps Changing Fix](/chrome-homepage-keeps-changing-fix)
+## Related Articles
+- [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)
+- [chrome new tab page how to customize](/chrome-new-tab-page-how-to-customize)
+- [chrome for custom new tab page extensions](/chrome-for-custom-new-tab-page-extensions)

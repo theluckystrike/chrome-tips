@@ -76,7 +76,7 @@ If you frequently find yourself overwhelmed by too many open tabs, it is worth t
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Ai Tab Organization Feature](/chrome-ai-tab-organization-feature)
-- [Chrome Ai Tab Organizer Feature](/chrome-ai-tab-organizer-feature)
-- [Chrome Ai Generated Summaries Explained](/chrome-ai-generated-summaries-explained)
+## Related Articles
+- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [chrome pin tab what it does explained](/chrome-pin-tab-what-it-does-explained)

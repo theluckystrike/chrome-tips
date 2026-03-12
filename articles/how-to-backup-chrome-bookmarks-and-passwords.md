@@ -77,7 +77,7 @@ With your data backed up, you can browse with confidence knowing that your impor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Beta Channel How To Join And Leave](/chrome-beta-channel-how-to-join-and-leave)
-- [Chrome Bookmarks Disappeared How To Recover](/chrome-bookmarks-disappeared-how-to-recover)
-- [Chrome Passkeys How To Set Up And Use](/chrome-passkeys-how-to-set-up-and-use)
+## Related Articles
+- [Chrome Bookmarks File Location and Backup Guide](/chrome-bookmarks-file-location-backup)
+- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
+- [Chrome Profile Backup How to Save](/chrome-profile-backup-how-to-save)

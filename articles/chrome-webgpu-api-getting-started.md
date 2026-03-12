@@ -129,11 +129,10 @@ Remember that the key to success with WebGPU is practice. Start with simple proj
 
 ---
 
-*
+*Built by theluckystrike — More tips at https://zovo.one*
 
-### Related Articles
-- [Chrome Wasm Webassembly Getting Started](/chrome-wasm-webassembly-getting-started)
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
-- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)
 
-Built by theluckystrike — More tips at https://zovo.one*
+## Related Articles
+- [Chrome WASM WebAssembly Getting Started: A Complete Beginner''s Guide](/chrome-wasm-webassembly-getting-started)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)

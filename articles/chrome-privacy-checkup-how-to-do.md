@@ -89,9 +89,9 @@ Take a few minutes today to run through your privacy checkup. Your future self w
 
 
 
-### Related Articles
-- [Chrome Built In Password Checkup How To Use](/chrome-built-in-password-checkup-how-to-use)
-- [Chrome Dns Settings How To Change For Privacy](/chrome-dns-settings-how-to-change-for-privacy)
-- [Chrome Security Checkup How To Run](/chrome-security-checkup-how-to-run)
+## Related Articles
+- [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)
+- [chrome privacy sandbox what regular users should know](/chrome-privacy-sandbox-what-regular-users-should-know)
+- [Chrome Security Checkup How to Run](/chrome-security-checkup-how-to-run)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

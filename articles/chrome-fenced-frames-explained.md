@@ -57,7 +57,7 @@ Understanding what fenced frames are and how they work helps you make informed d
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Fenced Frames Privacy Explained](/chrome-fenced-frames-privacy-explained)
-- [Chrome Fenced Frames Guide](/chrome-fenced-frames-guide)
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
+## Related Articles
+- [chrome fenced frames privacy explained](/chrome-fenced-frames-privacy-explained)
+- [Chrome Fenced Frames Explained](/chrome-fenced-frames-guide)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)

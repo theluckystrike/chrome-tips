@@ -82,7 +82,7 @@ If you switch internet service providers or change your network setup, remember 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Best Chrome Setup For Elderly Parents](/best-chrome-setup-for-elderly-parents)
-- [Best Chrome Setup For Graphic Designers](/best-chrome-setup-for-graphic-designers)
-- [Chrome Dns Over Https Setup](/chrome-dns-over-https-setup)
+## Related Articles
+- [chrome dns over https setup](/chrome-dns-over-https-setup)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)

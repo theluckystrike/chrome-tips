@@ -62,9 +62,9 @@ If you find that Chrome is using more resources than you would like, consider us
 
 
 
-### Related Articles
-- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
-- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)
-- [Chrome Headless Mode What It Is](/chrome-headless-mode-what-it-is)
+## Related Articles
+- [Chrome Utility Process Explained](/chrome-utility-process-explained)
+- [Chrome GPU Process High CPU Fix](/chrome-gpu-process-high-cpu-fix)
+- [Chrome GPU Process High Memory Fix](/chrome-gpu-process-high-memory-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

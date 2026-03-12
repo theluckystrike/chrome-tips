@@ -80,7 +80,7 @@ The investment of time to set these tools up pays off quickly, especially if you
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Extensions For Video Conferencing](/chrome-extensions-for-video-conferencing)
-- [Best Chrome Extensions For Amazon Prime Video](/best-chrome-extensions-for-amazon-prime-video)
-- [Best Chrome Extensions For Video Editors](/best-chrome-extensions-for-video-editors)
+## Related Articles
+- [Chrome Extensions for Video Conferencing](/chrome-extensions-for-video-conferencing)
+- [Chrome Extensions for Reverse Video Search](/chrome-extensions-for-reverse-video-search)
+- [Best Chrome Extensions for Video Editors](/best-chrome-extensions-for-video-editors)

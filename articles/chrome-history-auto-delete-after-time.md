@@ -115,9 +115,9 @@ The best approach depends on your technical comfort level and specific privacy n
 
 
 
-### Related Articles
-- [Chrome Extensions For Cookie Auto Delete](/chrome-extensions-for-cookie-auto-delete)
-- [Chrome Ai Powered History Search](/chrome-ai-powered-history-search)
-- [Chrome Auto Dark Mode For Web Contents](/chrome-auto-dark-mode-for-web-contents)
+## Related Articles
+- [Chrome Extensions for Cookie Auto Delete](/chrome-extensions-for-cookie-auto-delete)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

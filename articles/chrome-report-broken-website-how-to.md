@@ -73,9 +73,9 @@ The next time you search for "chrome report broken website how to" and find this
 
 
 
-### Related Articles
-- [Chrome Report Malware Website How To](/chrome-report-malware-website-how-to)
-- [Chrome How To Block Specific Website Notifications](/chrome-how-to-block-specific-website-notifications)
-- [How To Check Website Speed In Chrome](/how-to-check-website-speed-in-chrome)
+## Related Articles
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

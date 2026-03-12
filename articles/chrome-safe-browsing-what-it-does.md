@@ -84,9 +84,9 @@ Combining built-in protections like **Chrome Safe Browsing** with thoughtful bro
 
 
 
-### Related Articles
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
-- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
-- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+## Related Articles
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
+- [Chrome Enhanced Safe Browsing Guide](/chrome-enhanced-safe-browsing)
+- [how to enable chrome enhanced safe browsing](/how-to-enable-chrome-enhanced-safe-browsing)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

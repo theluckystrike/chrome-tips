@@ -105,7 +105,7 @@ Remember that most YouTube playback problems have simple solutions. Start with t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome Not Playing Videos Fix](/chrome-not-playing-videos-fix)
-- [Chrome Amazon Prime Video Not Playing Fix](/chrome-amazon-prime-video-not-playing-fix)
-- [Chrome Youtube Comments Not Showing Fix](/chrome-youtube-comments-not-showing-fix)
+- [chrome youtube comments not showing fix](/chrome-youtube-comments-not-showing-fix)
+- [Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide](/chrome-amazon-prime-video-not-playing-fix)

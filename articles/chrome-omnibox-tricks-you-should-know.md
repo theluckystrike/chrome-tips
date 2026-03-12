@@ -83,9 +83,9 @@ The omnibox is one of the most powerful features in Chrome, yet most people only
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
 - [Chrome Omnibox Search Tricks Most People Dont Know](/chrome-omnibox-search-tricks-most-people-dont-know)
-- [Chrome Accessibility Features You Didnt Know About](/chrome-accessibility-features-you-didnt-know-about)
+- [chrome privacy sandbox what regular users should know](/chrome-privacy-sandbox-what-regular-users-should-know)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -60,7 +60,7 @@ If you are curious about what Google is building next for Chrome, downloading Ca
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
-- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
-- [Chrome For Tor Browsing Is It Possible](/chrome-for-tor-browsing-is-it-possible)
+## Related Articles
+- [Chrome Canary vs Stable Difference Explained](/chrome-canary-vs-stable-difference-explained)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

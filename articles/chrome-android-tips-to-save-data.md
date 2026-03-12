@@ -15,7 +15,7 @@ tags:
 - mobile-tips
 - android-browser
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-android-tips-to-save-data
 ---
 # Chrome Android Tips to Save Data
@@ -86,9 +86,9 @@ Chrome also shows data saved through Data Saver in the settings menu. Checking t
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Mobile Tips Save Data Usage](/chrome-mobile-tips-save-data-usage)
-- [How To Save Webpage Offline Chrome Android](/how-to-save-webpage-offline-chrome-android)
-- [Best Chrome Android Flags To Enable](/best-chrome-android-flags-to-enable)
+- [Chrome Android Tips and Tricks 2026](/chrome-android-tips-and-tricks-2026)
+- [Chrome on Android — Tips and Tricks for 2026](/chrome-on-android-tips-and-tricks-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

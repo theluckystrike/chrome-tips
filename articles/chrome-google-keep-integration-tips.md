@@ -71,7 +71,7 @@ Remember, the goal is to let your tools support you, not slow you down. With a f
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Google Keep Extension Tips](/chrome-for-google-keep-extension-tips)
+## Related Articles
+- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
 - [Chrome Google Drive Integration Tips](/chrome-google-drive-integration-tips)
-- [Chrome Google Photos Integration Tips](/chrome-google-photos-integration-tips)
+- [chrome google photos integration tips](/chrome-google-photos-integration-tips)

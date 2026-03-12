@@ -79,7 +79,7 @@ By taking these steps, you can enjoy the benefits that extensions provide while 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
-- [How To Check If Chrome Is Up To Date](/how-to-check-if-chrome-is-up-to-date)
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+## Related Articles
+- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)

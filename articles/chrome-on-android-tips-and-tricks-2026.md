@@ -111,9 +111,9 @@ Long-press the Chrome icon on your home screen. A shortcut to **"New Incognito t
 
 
 
-### Related Articles
-- [Chrome Android Tips And Tricks 2026](/chrome-android-tips-and-tricks-2026)
-- [Chrome On Iphone Tips And Tricks 2026](/chrome-on-iphone-tips-and-tricks-2026)
-- [Chrome Ios Tips And Tricks 2026](/chrome-ios-tips-and-tricks-2026)
+## Related Articles
+- [Chrome Android Tips and Tricks 2026](/chrome-android-tips-and-tricks-2026)
+- [Chrome on iPhone — Tips and Tricks for 2026](/chrome-on-iphone-tips-and-tricks-2026)
+- [Chrome iOS Tips and Tricks for 2026](/chrome-ios-tips-and-tricks-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -70,7 +70,7 @@ Try using the F12 or Ctrl+Shift+I shortcut today. It takes only a moment to lear
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Developer Tools For Non Developers](/chrome-developer-tools-for-non-developers)
-- [Chrome Developer Tools Making Page Slow](/chrome-developer-tools-making-page-slow)
-- [Chrome Network Speed In Developer Tools](/chrome-network-speed-in-developer-tools)
+## Related Articles
+- [Chrome Network Speed in Developer Tools](/chrome-network-speed-in-developer-tools)
+- [Chrome Developer Tools for Non Developers](/chrome-developer-tools-for-non-developers)
+- [Chrome Developer Tools Making Page Slow: What You Need to Know](/chrome-developer-tools-making-page-slow)

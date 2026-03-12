@@ -56,7 +56,7 @@ Chrome is designed to handle many tabs, and these shortcuts are built right in t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Find A Specific Tab In Chrome](/how-to-find-a-specific-tab-in-chrome)
-- [Chrome Cast Tab To Tv Not Working Fix](/chrome-cast-tab-to-tv-not-working-fix)
-- [Chrome Duplicate Tab Shortcut Trick](/chrome-duplicate-tab-shortcut-trick)
+## Related Articles
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [chrome reopen closed tab shortcut](/chrome-reopen-closed-tab-shortcut)
+- [Chrome Tab Search Shortcut: Find Any Open Tab Instantly](/chrome-tab-search-shortcut)

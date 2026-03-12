@@ -14,7 +14,7 @@ tags:
 - browser-tips
 - history-search
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-powered-history-search
 ---
 # Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past
@@ -77,9 +77,9 @@ The key is understanding that standard Chrome search has limits. By recognizing 
 
 
 
-### Related Articles
-- [Chrome Ai Powered Search Suggestions](/chrome-ai-powered-search-suggestions)
-- [Chrome Ai Search Suggestions Explained](/chrome-ai-search-suggestions-explained)
-- [Chrome History Search Tips And Tricks](/chrome-history-search-tips-and-tricks)
+## Related Articles
+- [Chrome AI Powered Search Suggestions](/chrome-ai-powered-search-suggestions)
+- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

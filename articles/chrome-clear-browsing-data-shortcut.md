@@ -81,7 +81,7 @@ The shortcut works instantly and is the fastest way to access this useful featur
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Clear Data For One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
-- [Chrome For Clearing Browsing Data Automatically](/chrome-for-clearing-browsing-data-automatically)
-- [Chrome Guest Browsing What Data Is Saved](/chrome-guest-browsing-what-data-is-saved)
+## Related Articles
+- [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
+- [Chrome How to Clear Individual Site Data](/chrome-how-to-clear-individual-site-data)
+- [Chrome for Clearing Browsing Data Automatically](/chrome-for-clearing-browsing-data-automatically)

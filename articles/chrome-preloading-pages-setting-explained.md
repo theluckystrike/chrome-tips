@@ -85,9 +85,9 @@ By taking the time to understand and adjust the chrome preloading pages setting,
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Preload Pages Setting Explained](/chrome-preload-pages-setting-explained)
 - [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
-- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
+- [Chrome Preloading Pages Should I Enable It](/chrome-preloading-pages-should-i-enable-it)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

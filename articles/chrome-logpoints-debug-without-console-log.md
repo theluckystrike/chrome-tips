@@ -67,9 +67,9 @@ Open Chrome DevTools, find a file you're working on, and add your first Logpoint
 
 
 
-### Related Articles
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Blackbox Script Skip Library Code Debug](/chrome-blackbox-script-skip-library-code-debug)
-- [Chrome Clear Data For One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
+## Related Articles
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/chrome-blackbox-script-skip-library-code-debug)
+- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+- [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

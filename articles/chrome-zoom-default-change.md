@@ -85,9 +85,9 @@ The beauty of Chrome is that these settings travel with your profile. Once you c
 
 
 
-### Related Articles
-- [Chrome Default Download Location How To Change](/chrome-default-download-location-how-to-change)
-- [Chrome File Handling How To Change Default App](/chrome-file-handling-how-to-change-default-app)
-- [Chrome Zoom Level How To Set Default](/chrome-zoom-level-how-to-set-default)
+## Related Articles
+- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
+- [How to Change Default Download Location Chrome](/how-to-change-default-download-location-chrome)
+- [Chrome Zoom Level How to Set Default](/chrome-zoom-level-how-to-set-default)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -67,9 +67,9 @@ Finding which chrome extension is using too much memory does not require technic
 
 
 
-### Related Articles
-- [Chrome Extensions Using Too Much Memory](/chrome-extensions-using-too-much-memory)
-- [Chrome Network Process Using Too Much Memory](/chrome-network-process-using-too-much-memory)
+## Related Articles
 - [Chrome Tabs Using Too Much Memory Which One](/chrome-tabs-using-too-much-memory-which-one)
+- [Chrome Using Too Much Memory on MacBook Air](/chrome-using-too-much-memory-on-macbook-air)
+- [Chrome Extensions Using Too Much Memory](/chrome-extensions-using-too-much-memory)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

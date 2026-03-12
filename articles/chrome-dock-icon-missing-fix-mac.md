@@ -73,7 +73,7 @@ You can also check if there is a system-wide issue by seeing if other apps are h
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome Taskbar Icon Missing Fix Windows](/chrome-taskbar-icon-missing-fix-windows)
-- [Chrome Helper Renderer High Cpu Mac Fix](/chrome-helper-renderer-high-cpu-mac-fix)
-- [Chrome High Memory Usage Mac Fix](/chrome-high-memory-usage-mac-fix)
+- [Chrome Toolbar Missing Fix](/chrome-toolbar-missing-fix)
+- [Chrome Wont Install on Mac Fix](/chrome-wont-install-on-mac-fix)

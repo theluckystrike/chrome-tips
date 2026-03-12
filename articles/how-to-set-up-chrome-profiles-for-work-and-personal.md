@@ -70,7 +70,7 @@ Give it a try and see how much easier your browsing becomes when everything has 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Passkeys How To Set Up And Use](/chrome-passkeys-how-to-set-up-and-use)
-- [Chrome Sync Phone And Computer How To Set Up](/chrome-sync-phone-and-computer-how-to-set-up)
-- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)
+## Related Articles
+- [Chrome for Work vs Personal — How to Use Separate Profiles](/chrome-for-work-vs-personal-separate-profiles)
+- [chrome work profile vs personal profile tips](/chrome-work-profile-vs-personal-profile-tips)
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)

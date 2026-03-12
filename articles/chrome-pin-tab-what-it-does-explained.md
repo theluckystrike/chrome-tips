@@ -130,9 +130,9 @@ Give it a try with one or two websites you access multiple times daily. You migh
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Pin Tab What It Does](/chrome-pin-tab-what-it-does)
-- [Chrome Service Worker What It Does Explained](/chrome-service-worker-what-it-does-explained)
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [Chrome Tab Organize AI Feature Explained](/chrome-tab-organize-ai-feature-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

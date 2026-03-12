@@ -65,7 +65,7 @@ The difference in data usage between Chrome and apps is real but manageable. By 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Vs Brave Browser Which Is Better](/chrome-vs-brave-browser-which-is-better)
-- [Chrome Vs Vivaldi Which Is More Customizable](/chrome-vs-vivaldi-which-is-more-customizable)
-- [Chrome Add To Home Screen Vs Install App](/chrome-add-to-home-screen-vs-install-app)
+## Related Articles
+- [Chrome vs Brave Browser Which Is Better](/chrome-vs-brave-browser-which-is-better)
+- [Chrome vs Vivaldi: Which Is More Customizable](/chrome-vs-vivaldi-which-is-more-customizable)
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)

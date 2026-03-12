@@ -74,7 +74,7 @@ Once you have adjusted these settings to your liking, you can always change them
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Turn Off Chrome Notifications Android](/how-to-turn-off-chrome-notifications-android)
-- [Chrome Ad Personalization How To Turn Off](/chrome-ad-personalization-how-to-turn-off)
-- [Chrome How To Turn Off Autocomplete](/chrome-how-to-turn-off-autocomplete)
+## Related Articles
+- [How to Turn Off Chrome Notifications on Android](/how-to-turn-off-chrome-notifications-android)
+- [How to Disable Chrome Notifications Permanently](/how-to-disable-chrome-notifications-permanently)
+- [How to Turn Off Autocomplete in Chrome](/chrome-how-to-turn-off-autocomplete)

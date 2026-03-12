@@ -56,7 +56,7 @@ Regularly clearing your browser cache, keeping Chrome updated, and managing your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Clear Chrome Cache Fast](/how-to-clear-chrome-cache-fast)
-- [How To Clear Chrome Cache Properly](/how-to-clear-chrome-cache-properly)
-- [Chrome Address Bar Autocomplete How To Clear](/chrome-address-bar-autocomplete-how-to-clear)
+## Related Articles
+- [How to Use Chrome Net Internals to Clear DNS Cache](/chrome-net-internals-dns-clear-cache)
+- [How Often Should I Clear Chrome Cache](/how-often-should-i-clear-chrome-cache)
+- [How to Clear Chrome Cache Fast](/how-to-clear-chrome-cache-fast)

@@ -70,7 +70,7 @@ Next time a specific site will not load properly or keeps asking you to sign in,
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Enable Cookies For One Site How To](/chrome-enable-cookies-for-one-site-how-to)
-- [Chrome Local Storage How To Clear For One Site](/chrome-local-storage-how-to-clear-for-one-site)
-- [How To Allow Pop Ups For One Site In Chrome](/how-to-allow-pop-ups-for-one-site-in-chrome)
+## Related Articles
+- [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
+- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
+- [Chrome Local Storage How to Clear for One Site](/chrome-local-storage-how-to-clear-for-one-site)

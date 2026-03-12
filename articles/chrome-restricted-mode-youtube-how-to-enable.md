@@ -86,7 +86,7 @@ Give Restricted Mode a try and adjust your settings as needed to find the right 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
-- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)
-- [Chrome Compact Mode How To Enable](/chrome-compact-mode-how-to-enable)
+## Related Articles
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Reader Mode on Phone: How to Enable](/chrome-reader-mode-on-phone-how-to-enable)
+- [Chrome HTTPS Only Mode How to Enable](/chrome-https-only-mode-how-to-enable)

@@ -75,7 +75,7 @@ With these tools at your disposal, adding personality and expression to your onl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Ai Theme Generator How To Use](/chrome-ai-theme-generator-how-to-use)
-- [Chrome Airplay Support How To Use](/chrome-airplay-support-how-to-use)
+## Related Articles
+- [Chrome Switching Profiles Keyboard Shortcut](/chrome-switching-profiles-keyboard-shortcut)
+- [Chrome for Keyboard Shortcut Customization](/chrome-for-keyboard-shortcut-customization)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)

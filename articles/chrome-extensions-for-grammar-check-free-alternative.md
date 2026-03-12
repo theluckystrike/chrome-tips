@@ -64,7 +64,7 @@ One helpful tool for managing browser performance is Tab Suspender Pro. It suspe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Grammarly Alternative Free](/chrome-extensions-for-grammarly-alternative-free)
-- [Chrome Extensions For Grammar Checking](/chrome-extensions-for-grammar-checking)
-- [Chrome Extensions For Imacros Alternative](/chrome-extensions-for-imacros-alternative)
+## Related Articles
+- [Chrome Extensions for Grammarly Alternative Free](/chrome-extensions-for-grammarly-alternative-free)
+- [Chrome Extensions for Pocket Alternative](/chrome-extensions-for-pocket-alternative)
+- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative)

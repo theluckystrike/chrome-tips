@@ -56,7 +56,7 @@ For more advanced features like annotation tools or easier access, exploring ext
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Built In Password Checkup How To Use](/chrome-built-in-password-checkup-how-to-use)
-- [Chrome Virus Scan Built In How To Use](/chrome-virus-scan-built-in-how-to-use)
-- [Chrome Built In Screenshot Tool](/chrome-built-in-screenshot-tool)
+## Related Articles
+- [Chrome Built-In Screenshot Tool](/chrome-built-in-screenshot-tool)
+- [Chrome Virus Scan Built in How to Use](/chrome-virus-scan-built-in-how-to-use)
+- [Chrome Built in Password Checkup How to Use](/chrome-built-in-password-checkup-how-to-use)

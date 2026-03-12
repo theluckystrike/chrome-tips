@@ -119,9 +119,9 @@ Remember that your MacBook Air was designed to handle everyday browsing tasks. W
 
 
 
-### Related Articles
-- [Chrome Using Too Much Memory On Macbook Air](/chrome-using-too-much-memory-on-macbook-air)
-- [Chrome Black Screen When Opening Fix](/chrome-black-screen-when-opening-fix)
-- [Chrome Core Web Vitals Check My Website](/chrome-core-web-vitals-check-my-website)
+## Related Articles
+- [Chrome Using Too Much Memory on MacBook Air](/chrome-using-too-much-memory-on-macbook-air)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Computer Fan Goes Crazy When Chrome Opens - Fix It Fast](/computer-fan-goes-crazy-when-chrome-opens)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

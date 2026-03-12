@@ -67,9 +67,9 @@ For parents, having open conversations with children about internet safety is ju
 
 
 
-### Related Articles
-- [Chrome Safe Search How To Force Enable](/chrome-safe-search-how-to-force-enable)
-- [Chrome Custom Search Engines How To Add](/chrome-custom-search-engines-how-to-add)
-- [Chrome Default Search Engine Changed How To Fix](/chrome-default-search-engine-changed-how-to-fix)
+## Related Articles
+- [How to Lock Safe Search in Chrome for Children](/chrome-safe-search-lock-for-children)
+- [chrome safe search how to force enable](/chrome-safe-search-how-to-force-enable)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

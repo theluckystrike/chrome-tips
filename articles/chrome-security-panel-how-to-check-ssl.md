@@ -84,10 +84,10 @@ Using **Tab Suspender Pro** is a great way to keep your environment fast. It aut
 
 
 
-### Related Articles
-- [Chrome Security Check How To Run](/chrome-security-check-how-to-run)
-- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
-- [Chrome Browser Fingerprint How To Check Yours](/chrome-browser-fingerprint-how-to-check-yours)
+## Related Articles
+- [chrome security check how to run](/chrome-security-check-how-to-run)
+- [Chrome Devtools Security Panel Explained](/chrome-devtools-security-panel-explained)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

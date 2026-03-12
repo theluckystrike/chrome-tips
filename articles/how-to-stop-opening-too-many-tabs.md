@@ -72,7 +72,7 @@ Breaking the habit of opening too many tabs takes some effort, but it is absolut
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
-- [Chrome Mobile Tabs Too Many How To Manage](/chrome-mobile-tabs-too-many-how-to-manage)
-- [Chrome Notifications On Phone Too Many How To Stop](/chrome-notifications-on-phone-too-many-how-to-stop)
+## Related Articles
+- [Chrome Mobile Tabs Too Many How to Manage](/chrome-mobile-tabs-too-many-how-to-manage)
+- [Chrome Notifications on Phone Too Many How to Stop](/chrome-notifications-on-phone-too-many-how-to-stop)
+- [Chrome Android Tabs Too Many How to Manage](/chrome-android-tabs-too-many-how-to-manage)

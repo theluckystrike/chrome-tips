@@ -51,9 +51,9 @@ If you find that your browser still struggles despite these efforts, give Tab Su
 
 
 
-### Related Articles
-- [Chrome Time To First Byte Explained](/chrome-time-to-first-byte-explained)
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
-- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
+## Related Articles
+- [Chrome Time to First Byte Explained](/chrome-time-to-first-byte-explained)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -17,7 +17,7 @@ tags:
 - web-development
 - accessibility-audit
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-accessibility-tree-guide
 ---
 # Chrome Accessibility Tree Guide
@@ -116,9 +116,9 @@ Start exploring the Accessibility Tree today on your own projects. Identify area
 
 
 
-### Related Articles
-- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
-- [Chrome Accessibility On Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome Accessibility Features Guide: Everything You Need to Know](/chrome-accessibility-features-guide)
+- [Chrome Accessibility on Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

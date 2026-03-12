@@ -81,9 +81,9 @@ Try Arc as your secondary browser first. Use it for a specific workflow — mayb
 
 
 
-### Related Articles
-- [Chrome Vs Arc Browser 2026](/chrome-vs-arc-browser-2026)
-- [Chrome Vs Arc Browser Comparison 2026](/chrome-vs-arc-browser-comparison-2026)
-- [Should I Switch From Chrome To Firefox For Speed](/should-i-switch-from-chrome-to-firefox-for-speed)
+## Related Articles
+- [Chrome vs Arc Browser 2026](/chrome-vs-arc-browser-2026)
+- [Chrome vs Arc Browser Comparison 2026](/chrome-vs-arc-browser-comparison-2026)
+- [Should I Switch from Chrome to Firefox for Speed?](/should-i-switch-from-chrome-to-firefox-for-speed)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

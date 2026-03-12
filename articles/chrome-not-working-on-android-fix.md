@@ -106,7 +106,7 @@ Keeping Chrome updated and managing your open tabs can prevent most issues from 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
-- [Chrome Right Click Not Working On Some Sites Fix](/chrome-right-click-not-working-on-some-sites-fix)
-- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+## Related Articles
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)

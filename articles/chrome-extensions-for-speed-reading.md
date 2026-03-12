@@ -90,7 +90,7 @@ Speed reading is a skill that improves with practice. The extensions mentioned h
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Speed Reading Extensions](/chrome-for-speed-reading-extensions)
-- [Best Chrome Extensions For Reading Articles](/best-chrome-extensions-for-reading-articles)
-- [Chrome Extension For Reading Speed Tracker](/chrome-extension-for-reading-speed-tracker)
+## Related Articles
+- [Chrome for Speed Reading Extensions](/chrome-for-speed-reading-extensions)
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
+- [Chrome for Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)

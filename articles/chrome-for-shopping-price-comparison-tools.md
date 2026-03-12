@@ -67,7 +67,7 @@ The key is to find the right combination of tools that fit your shopping style. 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Developer Tools For Non Developers](/chrome-developer-tools-for-non-developers)
-- [Chrome Extensions For Amazon Price History](/chrome-extensions-for-amazon-price-history)
-- [Chrome Extensions For Cashback Shopping](/chrome-extensions-for-cashback-shopping)
+## Related Articles
+- [chrome extensions for elderly users simple tools](/chrome-extensions-for-elderly-users-simple-tools)
+- [Chrome vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison)
+- [Chrome Reader Mode vs Safari Reader Comparison](/chrome-reader-mode-vs-safari-reader-comparison)

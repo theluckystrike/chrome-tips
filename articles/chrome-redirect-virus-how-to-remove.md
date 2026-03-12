@@ -68,9 +68,9 @@ One helpful tool for managing your browser and avoiding unwanted redirects is Ta
 
 
 
-### Related Articles
-- [Chrome Autofill Credit Card How To Remove](/chrome-autofill-credit-card-how-to-remove)
-- [Chrome Most Visited Sites How To Remove](/chrome-most-visited-sites-how-to-remove)
-- [Chrome Payment Methods How To Remove](/chrome-payment-methods-how-to-remove)
+## Related Articles
+- [How to Remove Chrome Malware](/how-to-remove-chrome-malware)
+- [Chrome Payment Methods How to Remove](/chrome-payment-methods-how-to-remove)
+- [chrome payment methods remove](/chrome-payment-methods-remove)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -79,7 +79,7 @@ Try both approaches and see what works best for you. Every computer setup is dif
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Hardware Acceleration Should I Turn On Or Off](/chrome-hardware-acceleration-should-i-turn-on-or-off)
-- [Chrome Preloading Pages Should I Enable It](/chrome-preloading-pages-should-i-enable-it)
-- [Chrome Safe Browsing Should I Turn On](/chrome-safe-browsing-should-i-turn-on)
+## Related Articles
+- [Chrome Hardware Acceleration Should I Turn On or Off](/chrome-hardware-acceleration-should-i-turn-on-or-off)
+- [Chrome Hardware Acceleration Causes Problems](/chrome-hardware-acceleration-causes-problems)
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)

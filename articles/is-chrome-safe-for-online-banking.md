@@ -63,7 +63,7 @@ Remember that no browser is completely immune to threats, but by staying vigilan
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Banking Online Security Tips](/chrome-for-banking-online-security-tips)
-- [Best Chrome Extensions For Online Sellers](/best-chrome-extensions-for-online-sellers)
-- [Best Chrome Extensions For Saving Money Online](/best-chrome-extensions-for-saving-money-online)
+## Related Articles
+- [chrome for banking online security tips](/chrome-for-banking-online-security-tips)
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
+- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)

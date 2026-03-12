@@ -74,7 +74,7 @@ Getting into the habit of closing unused tabs, adjusting image settings when you
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
-- [Chrome Memory Saver Mode How To Use](/chrome-memory-saver-mode-how-to-use)
-- [How To Reduce Chrome Memory Usage](/how-to-reduce-chrome-memory-usage)
+## Related Articles
+- [chrome data usage on phone how to reduce](/chrome-data-usage-on-phone-how-to-reduce)
+- [chrome reduce data usage mobile](/chrome-reduce-data-usage-mobile)
+- [chrome data saver mode is it still available](/chrome-data-saver-mode-is-it-still-available)

@@ -52,7 +52,7 @@ Being aware of the websites you visit and the permissions you grant to extension
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Webrtc Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
-- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
+## Related Articles
+- [Chrome WebRTC Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
+- [chrome webrtc leak what it is and how to fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
+- [Chrome WebRTC Leak Test and Fix Guide](/chrome-webrtc-leak-test-and-fix-guide)

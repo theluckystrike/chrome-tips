@@ -123,9 +123,9 @@ Remember that browser performance is not just about your hardware. It is also ab
 
 
 
-### Related Articles
-- [Chrome Slow On 4Gb Ram Laptop](/chrome-slow-on-4gb-ram-laptop)
-- [Chrome Slow On Ipad Why](/chrome-slow-on-ipad-why)
-- [Chrome Slow On School Laptop How To Fix](/chrome-slow-on-school-laptop-how-to-fix)
+## Related Articles
+- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
+- [Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps](/chrome-slow-on-4gb-ram-laptop)
+- [Chrome Android App Running Slow Fix: Practical Solutions That Actually Work](/chrome-android-app-running-slow-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

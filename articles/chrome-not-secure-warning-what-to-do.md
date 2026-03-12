@@ -55,7 +55,7 @@ Seeing the Chrome not secure warning does not have to be confusing or frightenin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Secure Dns What It Is And How To Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)
-- [Chrome Cast Tab To Tv Not Working Fix](/chrome-cast-tab-to-tv-not-working-fix)
-- [Chrome Casting To Chromecast Not Working Fix](/chrome-casting-to-chromecast-not-working-fix)
+## Related Articles
+- [Chrome Says Not Secure But Site Is Safe](/chrome-says-not-secure-but-site-is-safe)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)

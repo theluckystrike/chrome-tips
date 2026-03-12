@@ -71,9 +71,9 @@ Review your startup programs and scheduled tasks every few months. Over time, yo
 
 
 
-### Related Articles
-- [Chrome Homepage Changed By Itself Fix](/chrome-homepage-changed-by-itself-fix)
-- [Chrome Search Engine Changed By Itself Fix](/chrome-search-engine-changed-by-itself-fix)
-- [Chrome Err Blocked By Client Fix](/chrome-err-blocked-by-client-fix)
+## Related Articles
+- [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)
+- [Chrome Search Engine Changed by Itself Fix](/chrome-search-engine-changed-by-itself-fix)
+- [Chrome Homepage Changed by Itself Fix](/chrome-homepage-changed-by-itself-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -76,7 +76,7 @@ If you find yourself frequently adjusting settings for different websites or wan
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [How To Allow Pop Ups For One Site In Chrome](/how-to-allow-pop-ups-for-one-site-in-chrome)
-- [Chrome Allow Popups For One Site How To](/chrome-allow-popups-for-one-site-how-to)
-- [Chrome How To Allow Popups For One Site](/chrome-how-to-allow-popups-for-one-site)
+## Related Articles
+- [How to Allow Pop Ups for One Site in Chrome](/how-to-allow-pop-ups-for-one-site-in-chrome)
+- [Chrome Location Access for One Site How to Allow](/chrome-location-access-for-one-site-how-to-allow)
+- [Chrome Allow Popups for One Site How To](/chrome-allow-popups-for-one-site-how-to)

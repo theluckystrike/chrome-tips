@@ -72,9 +72,9 @@ Understanding where Chrome keeps your information is a useful skill that helps y
 
 
 
-### Related Articles
-- [Chrome Default Folder Location Where Is It](/chrome-default-folder-location-where-is-it)
-- [Chrome Profile Data Where It Is Stored](/chrome-profile-data-where-it-is-stored)
-- [Chrome Data Saver Mode Is It Still Available](/chrome-data-saver-mode-is-it-still-available)
+## Related Articles
+- [Chrome User Data Directory: What Each File Does](/chrome-user-data-directory-what-each-file-does)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

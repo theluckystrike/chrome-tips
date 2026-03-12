@@ -88,7 +88,7 @@ Remember that keeping Chrome updated, using fewer extensions, and not opening to
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Android Slow Fix 2026](/chrome-android-slow-fix-2026)
+## Related Articles
+- [Chrome Crashing on iPhone Fix](/chrome-crashing-on-iphone-fix)
 - [Chrome Cookies Keep Getting Deleted Fix](/chrome-cookies-keep-getting-deleted-fix)
-- [Chrome Crashing On Iphone Fix](/chrome-crashing-on-iphone-fix)
+- [Chrome Extensions Keep Disabling Themselves Fix](/chrome-extensions-keep-disabling-themselves-fix)

@@ -74,7 +74,7 @@ If you find that Chrome opening at startup continues to be an issue despite maki
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Opens Old Tabs On Startup How To Stop](/chrome-opens-old-tabs-on-startup-how-to-stop)
-- [Chrome Opens On Startup Windows How To Stop](/chrome-opens-on-startup-windows-how-to-stop)
-- [Chrome Notifications On Phone Too Many How To Stop](/chrome-notifications-on-phone-too-many-how-to-stop)
+## Related Articles
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
+- [How to Stop Chrome from Tracking Me](/how-to-stop-chrome-from-tracking-me)
+- [Chrome Opens on Startup Windows: How to Stop](/chrome-opens-on-startup-windows-how-to-stop)

@@ -73,9 +73,9 @@ Chrome's WebSocket inspection tools are continually improving, with new features
 
 
 
-### Related Articles
-- [Chrome Indexeddb Inspect Debug](/chrome-indexeddb-inspect-debug)
-- [Chrome Animations Panel Inspect Transitions](/chrome-animations-panel-inspect-transitions)
-- [Chrome Application Tab Inspect Service Workers](/chrome-application-tab-inspect-service-workers)
+## Related Articles
+- [How to Inspect and Debug IndexedDB in Chrome: A Complete Guide](/chrome-indexeddb-inspect-debug)
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/chrome-blackbox-script-skip-library-code-debug)
+- [Chrome Inspect Element Tutorial for Beginners](/chrome-inspect-element-tutorial-for-beginners)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

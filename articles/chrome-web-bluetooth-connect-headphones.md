@@ -68,7 +68,7 @@ If you run into a website that does not support Web Bluetooth, do not worry. Thi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Web Bluetooth Api Guide](/chrome-web-bluetooth-api-guide)
-- [Chrome Web Bluetooth How To Use](/chrome-web-bluetooth-how-to-use)
-- [Best Chrome Extensions For Web Developers 2026](/best-chrome-extensions-for-web-developers-2026)
+## Related Articles
+- [chrome web bluetooth how to use](/chrome-web-bluetooth-how-to-use)
+- [Chrome Web Bluetooth API Guide](/chrome-web-bluetooth-api-guide)
+- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)

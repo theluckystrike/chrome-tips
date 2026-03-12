@@ -56,7 +56,7 @@ For those who want even more control over their browser experience, there are ex
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Add To Home Screen Vs Install App](/chrome-add-to-home-screen-vs-install-app)
-- [Chrome File Handling How To Change Default App](/chrome-file-handling-how-to-change-default-app)
-- [Chrome Notification Badge On Pwa How To Enable](/chrome-notification-badge-on-pwa-how-to-enable)
+## Related Articles
+- [Chrome PWA Install Prompt Not Showing Fix](/chrome-pwa-install-prompt-not-showing-fix)
+- [chrome pwa vs electron app comparison](/chrome-pwa-vs-electron-app-comparison)
+- [Chrome Add to Home Screen vs Install App](/chrome-add-to-home-screen-vs-install-app)

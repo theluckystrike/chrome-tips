@@ -121,9 +121,9 @@ Start with Memory Saver and Tab Suspender Pro, as these two changes typically ha
 
 
 
-### Related Articles
-- [Chrome Slow On 4Gb Ram Laptop](/chrome-slow-on-4gb-ram-laptop)
-- [Chrome Crashing On Low Memory Computer](/chrome-crashing-on-low-memory-computer)
-- [Chrome Lagging On Android Phone Fix](/chrome-lagging-on-android-phone-fix)
+## Related Articles
+- [Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps](/chrome-slow-on-4gb-ram-laptop)
+- [Is 4GB RAM Enough for Chrome in 2026?](/is-4gb-ram-enough-for-chrome-in-2026)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

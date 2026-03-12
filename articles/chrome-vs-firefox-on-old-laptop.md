@@ -92,9 +92,9 @@ No matter which path you take, remember that your browser is only part of the eq
 
 
 
-### Related Articles
-- [Chrome Slow On Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
-- [Chrome Makes My Old Laptop Unusable](/chrome-makes-my-old-laptop-unusable)
-- [Chrome Not Responding On Windows 11 Laptop](/chrome-not-responding-on-windows-11-laptop)
+## Related Articles
+- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
+- [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/chrome-makes-my-old-laptop-unusable)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

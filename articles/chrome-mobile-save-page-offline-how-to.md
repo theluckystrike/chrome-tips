@@ -90,7 +90,7 @@ Finally, check your phone storage periodically. Saved articles, especially those
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Offline Pages On Phone How To Save](/chrome-offline-pages-on-phone-how-to-save)
-- [How To Save Webpage Offline Chrome Android](/how-to-save-webpage-offline-chrome-android)
-- [Chrome Audit Page Seo How To](/chrome-audit-page-seo-how-to)
+## Related Articles
+- [Chrome Mobile Tips Save Data Usage](/chrome-mobile-tips-save-data-usage)
+- [chrome mobile translate page automatically](/chrome-mobile-translate-page-automatically)
+- [chrome offline pages on phone how to save](/chrome-offline-pages-on-phone-how-to-save)

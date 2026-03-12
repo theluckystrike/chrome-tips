@@ -64,7 +64,7 @@ Remember that chrome for zen mode extensions are tools to help you, not rules to
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
-- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
+## Related Articles
+- [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/chrome-extensions-developer-mode)
+- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
+- [Chrome Developer Mode Extensions Guide](/chrome-developer-mode-extensions)

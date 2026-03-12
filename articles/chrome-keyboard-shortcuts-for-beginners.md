@@ -95,7 +95,7 @@ Tab Suspender Pro is an extension that automatically suspends tabs you have not 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Keyboard Shortcuts For Power Users](/chrome-keyboard-shortcuts-for-power-users)
-- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
-- [Chrome Blink Engine Explained For Beginners](/chrome-blink-engine-explained-for-beginners)
+## Related Articles
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)

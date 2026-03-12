@@ -80,7 +80,7 @@ Finally, revisit your keyword research regularly. Search trends change over time
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Keyword Research](/chrome-extensions-for-keyword-research)
-- [Chrome For Seo Keyword Research Extensions](/chrome-for-seo-keyword-research-extensions)
-- [Chrome Extensions For Grammar Check Free Alternative](/chrome-extensions-for-grammar-check-free-alternative)
+## Related Articles
+- [Chrome for SEO Keyword Research Extensions](/chrome-for-seo-keyword-research-extensions)
+- [Chrome Extensions for Keyword Research](/chrome-extensions-for-keyword-research)
+- [Chrome Extensions for Web Automation Free](/chrome-extensions-for-web-automation-free)

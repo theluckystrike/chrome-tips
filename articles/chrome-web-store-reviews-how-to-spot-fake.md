@@ -67,7 +67,7 @@ If you are looking for extensions that have stood the test of time and earned ge
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Web Store How To Find Safe Extensions](/chrome-web-store-how-to-find-safe-extensions)
-- [Chrome Web Store How To Leave Review](/chrome-web-store-how-to-leave-review)
-- [Chrome Extension Publish To Web Store Guide](/chrome-extension-publish-to-web-store-guide)
+## Related Articles
+- [Chrome Web Store Best Free Games](/chrome-web-store-best-free-games)
+- [Chrome Web Store How to Leave Review](/chrome-web-store-how-to-leave-review)
+- [Chrome Web Store Extensions Not Installing: Fixes That Actually Work](/chrome-web-store-extensions-not-installing)

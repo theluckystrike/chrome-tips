@@ -70,9 +70,9 @@ Auto scroll extensions represent a small but meaningful improvement to how we in
 
 
 
-### Related Articles
-- [Chrome Extension For Auto Fill Forms Faster](/chrome-extension-for-auto-fill-forms-faster)
-- [Chrome Auto Dark Mode For Web Contents](/chrome-auto-dark-mode-for-web-contents)
-- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
+## Related Articles
+- [Chrome Extension for Auto Fill Forms Faster](/chrome-extension-for-auto-fill-forms-faster)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -70,7 +70,7 @@ Take time to set up your reference manager with your preferred citation style be
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Citation Generator](/chrome-extensions-for-citation-generator)
-- [Chrome Extensions For Focus And Productivity](/chrome-extensions-for-focus-and-productivity)
-- [Chrome Extensions For Keyword Research Free](/chrome-extensions-for-keyword-research-free)
+## Related Articles
+- [Chrome Extensions for Citation Generator](/chrome-extensions-for-citation-generator)
+- [Chrome for SEO Keyword Research Extensions](/chrome-for-seo-keyword-research-extensions)
+- [Chrome Extensions for Organizing Research](/chrome-extensions-for-organizing-research)

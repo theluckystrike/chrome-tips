@@ -55,9 +55,9 @@ Keep in mind that changing your user agent might affect how some websites functi
 
 
 
-### Related Articles
-- [Chrome Extensions For User Agent Randomizer](/chrome-extensions-for-user-agent-randomizer)
-- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
-- [Chrome Client Hints Instead Of User Agent](/chrome-client-hints-instead-of-user-agent)
+## Related Articles
+- [Chrome Client Hints Instead of User Agent: What Changed](/chrome-client-hints-instead-of-user-agent)
+- [Chrome User Agent String: What It Is and How It Works](/chrome-user-agent-string-what-it-is)
+- [Chrome Extensions for User Agent Randomizer](/chrome-extensions-for-user-agent-randomizer)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

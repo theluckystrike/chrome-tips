@@ -72,7 +72,7 @@ Start small, be patient with yourself as you learn new tools, and remember that 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Classroom Integration Tips For Teachers](/chrome-classroom-integration-tips-for-teachers)
-- [Best Chrome Extensions For Teachers Online](/best-chrome-extensions-for-teachers-online)
-- [Chrome Extension For Auto Fill Forms Faster](/chrome-extension-for-auto-fill-forms-faster)
+## Related Articles
+- [chrome classroom integration tips for teachers](/chrome-classroom-integration-tips-for-teachers)
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)

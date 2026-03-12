@@ -90,9 +90,9 @@ Whether you are building a new single page app or improving an existing one, the
 
 
 
-### Related Articles
-- [Chrome Navigation Timing Api Explained](/chrome-navigation-timing-api-explained)
-- [Chrome About Blank Page What It Means](/chrome-about-blank-page-what-it-means)
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
+## Related Articles
+- [Chrome Navigation Timing API Explained](/chrome-navigation-timing-api-explained)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

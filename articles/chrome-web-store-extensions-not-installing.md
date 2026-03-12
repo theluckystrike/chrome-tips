@@ -105,9 +105,9 @@ If you've tried all these steps and still can't install extensions, the issue mi
 
 
 
-### Related Articles
-- [Chrome Web Store How To Find Safe Extensions](/chrome-web-store-how-to-find-safe-extensions)
-- [Chrome Web Store Not Loading Fix](/chrome-web-store-not-loading-fix)
-- [Chrome Webstore Extensions Not Installing Fix](/chrome-webstore-extensions-not-installing-fix)
+## Related Articles
+- [Chrome WebStore Extensions Not Installing Fix](/chrome-webstore-extensions-not-installing-fix)
+- [chrome web store not loading fix](/chrome-web-store-not-loading-fix)
+- [Chrome Web Store How to Find Safe Extensions](/chrome-web-store-how-to-find-safe-extensions)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

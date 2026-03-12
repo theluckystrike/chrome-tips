@@ -63,9 +63,9 @@ The Layers Panel is also useful for web developers who want to optimize their ow
 
 
 
-### Related Articles
-- [Chrome Devtools Layers Panel 3D View](/chrome-devtools-layers-panel-3d-view)
+## Related Articles
 - [Chrome Layers Panel Explained](/chrome-layers-panel-explained)
-- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
+- [Chrome DevTools Layers Panel 3D View](/chrome-devtools-layers-panel-3d-view)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

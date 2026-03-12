@@ -67,9 +67,9 @@ Having a well-organized set of profiles can really improve your browsing experie
 
 
 
-### Related Articles
-- [Chrome Profile Name How To Change](/chrome-profile-name-how-to-change)
-- [Chrome Custom Fonts How To Change](/chrome-custom-fonts-how-to-change)
-- [Chrome Default Download Location How To Change](/chrome-default-download-location-how-to-change)
+## Related Articles
+- [chrome profile name how to change](/chrome-profile-name-how-to-change)
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

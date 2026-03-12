@@ -82,7 +82,7 @@ Remember that touchscreen issues are common and often fixable. Do not give up ho
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
+- [chromebook bluetooth not working fix](/chromebook-bluetooth-not-working-fix)
 - [Chromebook Android Apps Not Working Fix](/chromebook-android-apps-not-working-fix)
-- [Chromebook Bluetooth Not Working Fix](/chromebook-bluetooth-not-working-fix)
-- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)

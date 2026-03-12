@@ -66,7 +66,7 @@ Chrome source maps explained simply is really about understanding how modern web
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Cdp Protocol Explained Simply](/chrome-cdp-protocol-explained-simply)
-- [Chrome Certificate Transparency Explained Simply](/chrome-certificate-transparency-explained-simply)
-- [Chrome Cookies Explained Simply](/chrome-cookies-explained-simply)
+## Related Articles
+- [Chrome Sandbox Mode Explained Simply](/chrome-sandbox-mode-explained-simply)
+- [Chrome Open Source Parts Explained](/chrome-open-source-parts-explained)
+- [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)

@@ -87,9 +87,9 @@ The main caveat is that downloaded files persist after the session, so checking 
 
 
 
-### Related Articles
-- [Chrome Guest Mode What Gets Saved](/chrome-guest-mode-what-gets-saved)
+## Related Articles
+- [Chrome for Clearing Browsing Data Automatically](/chrome-for-clearing-browsing-data-automatically)
+- [Chrome Clear Browsing Data Shortcut](/chrome-clear-browsing-data-shortcut)
 - [Chrome Safe Browsing Data What Google Sees](/chrome-safe-browsing-data-what-google-sees)
-- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

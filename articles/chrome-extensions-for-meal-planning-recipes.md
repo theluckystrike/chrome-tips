@@ -70,7 +70,7 @@ The best approach is to keep it simple at first. You do not need every feature i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome Extensions For Meal Planning](/chrome-extensions-for-meal-planning)
-- [Chrome For Travel Planning Best Extensions](/chrome-for-travel-planning-best-extensions)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+- [Chrome for Travel Planning: Best Extensions](/chrome-for-travel-planning-best-extensions)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

@@ -136,9 +136,9 @@ Stay vigilant, keep your browser updated, and never trust a popup that demands y
 
 
 
-### Related Articles
+## Related Articles
+- [Chrome Background Tabs Slowing Down Computer Fix](/chrome-background-tabs-slowing-down-computer-fix)
 - [Chrome Privacy Error Your Connection Is Not Private Fix](/chrome-privacy-error-your-connection-is-not-private-fix)
-- [Chrome Your Connection Is Not Private Fix](/chrome-your-connection-is-not-private-fix)
-- [My Computer Is So Slow How To Fix Chrome](/my-computer-is-so-slow-how-to-fix-chrome)
+- [Chrome Tech Support Scam Popup Fix](/chrome-tech-support-scam-popup-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

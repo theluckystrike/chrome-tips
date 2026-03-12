@@ -73,9 +73,9 @@ The most important thing is to stay informed about the evolving privacy landscap
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Fenced Frames Explained](/chrome-fenced-frames-explained)
-- [Chrome Fenced Frames Guide](/chrome-fenced-frames-guide)
-- [Chrome Privacy Sandbox Explained For Users](/chrome-privacy-sandbox-explained-for-users)
+- [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)
+- [chrome privacy sandbox explained for users](/chrome-privacy-sandbox-explained-for-users)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

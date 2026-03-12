@@ -125,9 +125,9 @@ Reducing data usage on Chrome mobile is not about giving up the features you lov
 
 
 
-### Related Articles
-- [Chrome Reduce Data Usage On Mobile](/chrome-reduce-data-usage-on-mobile)
-- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
-- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
+## Related Articles
+- [chrome reduce data usage on mobile](/chrome-reduce-data-usage-on-mobile)
+- [chrome data usage on phone how to reduce](/chrome-data-usage-on-phone-how-to-reduce)
+- [Chrome Mobile Tips Save Data Usage](/chrome-mobile-tips-save-data-usage)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

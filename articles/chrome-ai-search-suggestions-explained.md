@@ -14,7 +14,7 @@ tags:
 - chrome-settings
 - suggestions
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-search-suggestions-explained
 ---
 # Chrome AI Search Suggestions Explained
@@ -85,9 +85,9 @@ Take some time to review your Chrome settings, clear any data you are uncomforta
 
 
 
-### Related Articles
-- [Chrome Ai Powered Search Suggestions](/chrome-ai-powered-search-suggestions)
-- [Chrome Ai Generated Summaries Explained](/chrome-ai-generated-summaries-explained)
-- [Chrome Ai Powered History Search](/chrome-ai-powered-history-search)
+## Related Articles
+- [Chrome AI Powered Search Suggestions](/chrome-ai-powered-search-suggestions)
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

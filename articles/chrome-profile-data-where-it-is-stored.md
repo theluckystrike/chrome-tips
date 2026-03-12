@@ -72,9 +72,9 @@ For serious issues, you might need to reset Chrome completely. This process remo
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome User Data Folder Where Is It](/chrome-user-data-folder-where-is-it)
-- [Chrome Data Saver Mode Is It Still Available](/chrome-data-saver-mode-is-it-still-available)
-- [Chrome Default Folder Location Where Is It](/chrome-default-folder-location-where-is-it)
+- [Chrome Supervised Profiles for Kids](/chrome-supervised-user-profile-for-kids)
+- [chrome data usage on phone how to reduce](/chrome-data-usage-on-phone-how-to-reduce)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

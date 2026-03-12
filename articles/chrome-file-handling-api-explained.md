@@ -82,7 +82,7 @@ As web applications continue to evolve, features like file handling are making t
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Blob And File Api Explained](/chrome-blob-and-file-api-explained)
-- [Chrome File System Access Api Explained](/chrome-file-system-access-api-explained)
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
+## Related Articles
+- [chrome file system access api explained](/chrome-file-system-access-api-explained)
+- [chrome blob and file api explained](/chrome-blob-and-file-api-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)

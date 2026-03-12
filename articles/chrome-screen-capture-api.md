@@ -473,9 +473,9 @@ With this knowledge, you're well-equipped to implement screen capture functional
 
 *
 
-### Related Articles
-- [Chrome Screen Wake Lock Api Explained](/chrome-screen-wake-lock-api-explained)
-- [Chrome Accessibility Screen Reader Support](/chrome-accessibility-screen-reader-support)
-- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
+## Related Articles
+- [Chrome Screen Wake Lock API Explained](/chrome-screen-wake-lock-api-explained)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

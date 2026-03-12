@@ -87,7 +87,7 @@ Consider using a combination of the methods described above. For example, you mi
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Force Dark Mode On All Websites](/chrome-force-dark-mode-on-all-websites)
-- [Chrome Dark Mode Force All Websites](/chrome-dark-mode-force-all-websites)
-- [Chrome Dark Mode On Phone How To Enable](/chrome-dark-mode-on-phone-how-to-enable)
+## Related Articles
+- [How to Force Dark Mode on All Websites in Chrome](/chrome-dark-mode-force-all-websites)
+- [chrome force dark mode on all websites](/chrome-force-dark-mode-on-all-websites)
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)

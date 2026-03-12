@@ -92,7 +92,7 @@ Once the message is gone, you can enjoy using Chrome with full control over your
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Err Blocked By Client Fix](/chrome-err-blocked-by-client-fix)
-- [Chrome Extensions Disabled By Administrator Fix](/chrome-extensions-disabled-by-administrator-fix)
-- [Chrome Homepage Changed By Itself Fix](/chrome-homepage-changed-by-itself-fix)
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)

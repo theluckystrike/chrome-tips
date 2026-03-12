@@ -88,7 +88,7 @@ These small changes can make a big difference in how responsive your Chromebook 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Speed Up Chrome On 2Gb Ram Laptop](/how-to-speed-up-chrome-on-2gb-ram-laptop)
-- [Best Settings To Speed Up Chrome 2026](/best-settings-to-speed-up-chrome-2026)
-- [Chrome Reader Mode How To Turn On 2026](/chrome-reader-mode-how-to-turn-on-2026)
+## Related Articles
+- [Chrome vs Edge Speed Test 2026](/chrome-vs-edge-speed-test-2026)
+- [Best Settings to Speed Up Chrome 2026](/best-settings-to-speed-up-chrome-2026)
+- [Best Chrome Extensions for Writers 2026](/best-chrome-extensions-for-writers-2026)

@@ -77,9 +77,9 @@ The internet will always have some level of tracking. It is how many free servic
 
 
 
-### Related Articles
-- [Chrome Bounce Tracking Protection Explained](/chrome-bounce-tracking-protection-explained)
-- [Chrome Cdp Protocol Explained Simply](/chrome-cdp-protocol-explained-simply)
+## Related Articles
+- [Chrome Sandbox Mode Explained Simply](/chrome-sandbox-mode-explained-simply)
+- [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)
 - [Chrome Certificate Transparency Explained Simply](/chrome-certificate-transparency-explained-simply)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

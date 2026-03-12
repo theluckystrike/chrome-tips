@@ -122,9 +122,9 @@ Remember that tools like Tab Suspender Pro can significantly reduce memory usage
 
 
 
-### Related Articles
-- [Chrome Amazon Prime Video Not Playing Fix](/chrome-amazon-prime-video-not-playing-fix)
-- [Chrome Extensions For Video Playback Speed Control](/chrome-extensions-for-video-playback-speed-control)
-- [Chrome Smooth Scroll Stuttering Fix](/chrome-smooth-scroll-stuttering-fix)
+## Related Articles
+- [Chrome Streaming Video Buffering Fix](/chrome-streaming-video-buffering-fix)
+- [Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide](/chrome-amazon-prime-video-not-playing-fix)
+- [Chrome Extensions for Video Playback Speed Control](/chrome-extensions-for-video-playback-speed-control)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

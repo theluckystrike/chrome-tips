@@ -71,7 +71,7 @@ Instead of just opening Skyscanner in a regular tab, you can install it as a web
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Asana Web App Tips](/chrome-for-asana-web-app-tips)
-- [Chrome For Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
-- [Chrome For Coinbase Web App Tips](/chrome-for-coinbase-web-app-tips)
+## Related Articles
+- [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
+- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)
+- [chrome for asana web app tips](/chrome-for-asana-web-app-tips)

@@ -69,9 +69,9 @@ Whatever approach you choose, the act of taking intentional control over your br
 
 
 
-### Related Articles
-- [Chrome For Distraction Blocking Extensions](/chrome-for-distraction-blocking-extensions)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
-- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
+## Related Articles
+- [chrome for distraction blocking extensions](/chrome-for-distraction-blocking-extensions)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

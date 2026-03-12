@@ -104,17 +104,9 @@ Restart Chrome once a day instead of leaving it running for weeks. Close tabs be
 <<<<<<< HEAD
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
-=======
-While Chrome's built-in **Memory Saver** is a good start, it often isn't enough for an **older MacBook**. If you need more granular control over your **system resources**, consider using **Tab Suspender Pro**. 
-
-This extension takes **tab management** much further by allowing you to set custom **idle timers** for when a tab should "hibernate." It also lets you see exactly how much **RAM** is being saved in real-time. For users on aging hardware, **Tab Suspender Pro** is an essential tool because it prevents background tabs from ever reaching the point where they force your Mac into using slow **disk swap**. By keeping your **memory usage** lean, you ensure that Chrome remains responsive even during heavy research sessions.
 
 
-
-### Related Articles
-- [Chrome Slow On Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
-- [Chrome Slow On Android Fix](/chrome-slow-on-android-fix)
-- [Chrome Slow On Chromebook Fix](/chrome-slow-on-chromebook-fix)
-
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
->>>>>>> qa/loop-3
+## Related Articles
+- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)

@@ -91,9 +91,9 @@ Once you start using the keyboard shortcut, you will wonder how you ever managed
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
-- [Chrome Bookmark Current Page Shortcut](/chrome-bookmark-current-page-shortcut)
-- [Chrome Find On Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+- [Chrome Scroll to Top of Page Shortcut](/chrome-scroll-to-top-of-page-shortcut)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

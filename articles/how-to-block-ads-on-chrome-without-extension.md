@@ -78,7 +78,7 @@ If you find that these approaches are not enough, you might eventually want to e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [How To Block Ads On Chrome Android](/how-to-block-ads-on-chrome-android)
-- [Chrome Pop Ups On Phone How To Block](/chrome-pop-ups-on-phone-how-to-block)
+## Related Articles
+- [Chrome Ads on Phone How to Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+- [How to Block Ads on Chrome Android](/how-to-block-ads-on-chrome-android)
+- [Chrome Parental Controls Without Extension](/chrome-parental-controls-without-extension)

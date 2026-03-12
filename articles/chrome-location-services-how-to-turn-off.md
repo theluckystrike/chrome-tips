@@ -86,7 +86,7 @@ The steps outlined above give you the tools to manage chrome location services h
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Ad Personalization How To Turn Off](/chrome-ad-personalization-how-to-turn-off)
-- [Chrome How To Turn Off Autocomplete](/chrome-how-to-turn-off-autocomplete)
-- [Chrome Predictive Loading How To Turn Off](/chrome-predictive-loading-how-to-turn-off)
+## Related Articles
+- [How to Turn Off Autocomplete in Chrome](/chrome-how-to-turn-off-autocomplete)
+- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
+- [How to Turn Off Chrome Notifications on Android](/how-to-turn-off-chrome-notifications-android)

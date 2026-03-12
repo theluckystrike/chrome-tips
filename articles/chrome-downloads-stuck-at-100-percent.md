@@ -150,9 +150,9 @@ With these solutions in hand, you should be able to get your files downloaded an
 
 
 
-### Related Articles
-- [Chrome Using 100 Percent Cpu Fix Windows](/chrome-using-100-percent-cpu-fix-windows)
-- [Chrome Downloads Folder Change](/chrome-downloads-folder-change)
-- [Chrome Downloads Folder How To Change Location](/chrome-downloads-folder-how-to-change-location)
+## Related Articles
+- [Chrome Using 100 Percent CPU Fix Windows](/chrome-using-100-percent-cpu-fix-windows)
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+- [Chrome Downloads Folder How to Change](/chrome-downloads-folder-how-to-change)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

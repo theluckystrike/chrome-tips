@@ -58,10 +58,10 @@ Consider using additional tools like **Tab Suspender Pro** to manage your browse
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
-- [Chrome Enrollment For Schools How It Works](/chrome-enrollment-for-schools-how-it-works)
-- [Chrome Lazy Loading Images How It Works](/chrome-lazy-loading-images-how-it-works)
+- [Chrome Continue Where You Left Off Not Working](/chrome-continue-where-you-left-off-not-working)
+- [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

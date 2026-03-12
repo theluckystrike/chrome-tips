@@ -86,9 +86,9 @@ Experiment with these options to find the combination that works best for your b
 
 
 
-### Related Articles
-- [Chrome Force Dark Mode On All Websites](/chrome-force-dark-mode-on-all-websites)
-- [Chrome Mobile Dark Mode Force On All Sites](/chrome-mobile-dark-mode-force-on-all-sites)
-- [Best Dark Mode Chrome Extension](/best-dark-mode-chrome-extension)
+## Related Articles
+- [chrome force dark mode on all websites](/chrome-force-dark-mode-on-all-websites)
+- [Chrome Mobile Dark Mode Force on All Sites](/chrome-mobile-dark-mode-force-on-all-sites)
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

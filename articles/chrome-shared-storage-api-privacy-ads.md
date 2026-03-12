@@ -73,9 +73,9 @@ For browser users, these developments mean a more private browsing experience wi
 
 
 
-### Related Articles
-- [Chrome Shared Storage Api Privacy Impact](/chrome-shared-storage-api-privacy-impact)
-- [Chrome Shared Storage Api Explained](/chrome-shared-storage-api-explained)
-- [Chrome Topics Api Privacy Sandbox Explained](/chrome-topics-api-privacy-sandbox-explained)
+## Related Articles
+- [Chrome Shared Storage API Privacy Impact](/chrome-shared-storage-api-privacy-impact)
+- [Chrome Shared Storage API Explained](/chrome-shared-storage-api-explained)
+- [chrome topics api privacy sandbox explained](/chrome-topics-api-privacy-sandbox-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

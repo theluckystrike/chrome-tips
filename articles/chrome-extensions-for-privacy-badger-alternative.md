@@ -80,7 +80,7 @@ Stay informed about privacy issues and new tools. The digital landscape changes 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Extensions For Grammar Check Free Alternative](/chrome-extensions-for-grammar-check-free-alternative)
-- [Chrome Extensions For Grammarly Alternative Free](/chrome-extensions-for-grammarly-alternative-free)
-- [Chrome Extensions For Imacros Alternative](/chrome-extensions-for-imacros-alternative)
+## Related Articles
+- [Chrome Extensions for Pocket Alternative](/chrome-extensions-for-pocket-alternative)
+- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative)
+- [chrome privacy badger vs ublock origin comparison](/chrome-privacy-badger-vs-ublock-origin-comparison)

@@ -64,7 +64,7 @@ Remember that browser technology and Runway ML itself continue to evolve. What w
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Anydo Web App Setup](/chrome-for-anydo-web-app-setup)
-- [Chrome For Asana Web App Tips](/chrome-for-asana-web-app-tips)
-- [Chrome For Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
+## Related Articles
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)
+- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)

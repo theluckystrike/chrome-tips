@@ -86,7 +86,7 @@ Some families choose to remove supervision entirely once children reach high sch
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Parental Controls How To Set Up](/chrome-parental-controls-how-to-set-up)
-- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)
-- [Chrome Cast To Tv How To Set Up](/chrome-cast-to-tv-how-to-set-up)
+## Related Articles
+- [Chrome Parental Controls — How to Set Up for Your Kids](/chrome-parental-controls-how-to-set-up)
+- [How to Set Up Parental Controls on Your Chromebook](/chromebook-parental-controls-setup)
+- [Chrome Parental Controls Without Extension](/chrome-parental-controls-without-extension)

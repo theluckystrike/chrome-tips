@@ -73,7 +73,7 @@ Your browsing privacy matters, and taking a few minutes to understand and adjust
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Accessibility Features You Didnt Know About](/chrome-accessibility-features-you-didnt-know-about)
+## Related Articles
+- [Chrome Accessibility Features You Didn't Know About](/chrome-accessibility-features-you-didnt-know-about)
 - [Chrome Android Gestures You Didnt Know About](/chrome-android-gestures-you-didnt-know-about)
-- [Chrome About Blank Page What It Means](/chrome-about-blank-page-what-it-means)
+- [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)

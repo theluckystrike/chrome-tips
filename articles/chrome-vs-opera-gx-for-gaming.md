@@ -95,9 +95,9 @@ By following the optimization tips in this guide and choosing the browser that f
 
 
 
-### Related Articles
-- [Chrome Best Settings For Gaming](/chrome-best-settings-for-gaming)
-- [Chrome For Cloud Gaming Best Settings](/chrome-for-cloud-gaming-best-settings)
-- [Chrome For Gaming Reduce Input Lag](/chrome-for-gaming-reduce-input-lag)
+## Related Articles
+- [Chrome GPU Acceleration Gaming Settings](/chrome-gpu-acceleration-gaming-settings)
+- [Chrome Low Latency Mode for Gaming](/chrome-low-latency-mode-for-gaming)
+- [Chrome vs Opera Features Comparison](/chrome-vs-opera-features-comparison)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

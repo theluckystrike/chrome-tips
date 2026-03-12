@@ -75,7 +75,7 @@ Remember that Fire tablets have different hardware limitations compared to smart
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Not Working On Android Fix](/chrome-not-working-on-android-fix)
-- [Chrome Right Click Not Working On Some Sites Fix](/chrome-right-click-not-working-on-some-sites-fix)
-- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+## Related Articles
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)

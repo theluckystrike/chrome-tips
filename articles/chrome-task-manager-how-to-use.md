@@ -61,9 +61,9 @@ Update Chrome regularly. Newer versions often include performance improvements a
 
 
 
-### Related Articles
-- [How To Use Chrome Task Manager To Find Slow Tabs](/how-to-use-chrome-task-manager-to-find-slow-tabs)
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Ai Theme Generator How To Use](/chrome-ai-theme-generator-how-to-use)
+## Related Articles
+- [How to Use Chrome Task Manager to Find Slow Tabs](/how-to-use-chrome-task-manager-to-find-slow-tabs)
+- [Chrome Task Manager Guide](/chrome-task-manager-guide)
+- [How to Use Chrome Task Manager to Find Heavy Tabs](/chrome-task-manager-find-heavy-tabs)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -74,9 +74,9 @@ If you want to get more out of your browser and manage your tabs more efficientl
 
 
 
-### Related Articles
-- [Chrome Background Sync Api Explained](/chrome-background-sync-api-explained)
-- [Chrome Background Sync Explained](/chrome-background-sync-explained)
-- [Chrome Background Fetch For Pwas Explained](/chrome-background-fetch-for-pwas-explained)
+## Related Articles
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
+- [Chrome Background Sync API Explained](/chrome-background-sync-api-explained)
+- [Chrome Background Sync for Offline Forms](/chrome-background-sync-for-offline-forms)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

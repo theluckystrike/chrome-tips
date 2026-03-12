@@ -70,7 +70,7 @@ Small changes add up over time. The more control you have over your data, the le
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.
 
 
-### Related Articles
-- [How To Stop Chrome From Eating Ram](/how-to-stop-chrome-from-eating-ram)
-- [How To Stop Chrome From Opening On Startup](/how-to-stop-chrome-from-opening-on-startup)
-- [How To Stop Chrome From Redirecting To Https](/how-to-stop-chrome-from-redirecting-to-https)
+## Related Articles
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
+- [How to Stop Chrome from Redirecting to HTTPS](/how-to-stop-chrome-from-redirecting-to-https)
+- [How to Stop Chrome from Suspending My Tabs](/how-to-stop-chrome-from-suspending-my-tabs)

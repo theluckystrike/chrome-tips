@@ -57,7 +57,7 @@ The next time your browser feels sluggish, remember that there are powerful tech
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
-- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)
-- [Chrome Data Saver Mode Is It Still Available](/chrome-data-saver-mode-is-it-still-available)
+## Related Articles
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)

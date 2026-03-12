@@ -85,7 +85,7 @@ Take some time to explore your options and find what feels right. Once you settl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)
+## Related Articles
+- [chrome for custom new tab page extensions](/chrome-for-custom-new-tab-page-extensions)
 - [Chrome New Tab Page Best Extensions](/chrome-new-tab-page-best-extensions)
-- [Chrome Extensions For New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)
+- [chrome new tab page how to customize](/chrome-new-tab-page-how-to-customize)

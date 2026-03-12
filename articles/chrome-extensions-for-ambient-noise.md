@@ -71,9 +71,9 @@ With the right chrome extensions for ambient noise, you can transform any enviro
 
 
 
-### Related Articles
-- [Chrome Extensions For Ambient Sounds Focus](/chrome-extensions-for-ambient-sounds-focus)
-- [Chrome Extensions For Noise Canceling](/chrome-extensions-for-noise-canceling)
-- [Chrome For Ambient Sound Extensions](/chrome-for-ambient-sound-extensions)
+## Related Articles
+- [Chrome for Ambient Sound Extensions](/chrome-for-ambient-sound-extensions)
+- [Chrome Extensions for Noise Canceling](/chrome-extensions-for-noise-canceling)
+- [Chrome Extensions for Ambient Sounds Focus](/chrome-extensions-for-ambient-sounds-focus)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -122,9 +122,9 @@ Start with the simplest solutions first—Memory Saver and tab management—and 
 
 
 
-### Related Articles
-- [Chrome For Dual Monitor Tab Management](/chrome-for-dual-monitor-tab-management)
-- [Chrome Multiple Users On Same Computer Setup](/chrome-multiple-users-on-same-computer-setup)
-- [Chrome Running Slow On New Laptop Why](/chrome-running-slow-on-new-laptop-why)
+## Related Articles
+- [chrome for dual monitor tab management](/chrome-for-dual-monitor-tab-management)
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

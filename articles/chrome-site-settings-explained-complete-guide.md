@@ -78,10 +78,10 @@ Using **Tab Suspender Pro** is an excellent way to handle this. It automatically
 
 
 
-### Related Articles
-- [Chrome Privacy Settings Complete Guide 2026](/chrome-privacy-settings-complete-guide-2026)
+## Related Articles
+- [chrome privacy settings complete guide 2026](/chrome-privacy-settings-complete-guide-2026)
 - [Chrome Site Settings Permissions Explained](/chrome-site-settings-permissions-explained)
-- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

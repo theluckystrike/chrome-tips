@@ -73,9 +73,9 @@ Chrome's mute tab shortcut explained simply is about giving you quick, keyboard-
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
-- [Chrome Browser Process Vs Tab Process Explained](/chrome-browser-process-vs-tab-process-explained)
-- [Chrome Devtools Rendering Tab Explained](/chrome-devtools-rendering-tab-explained)
+- [chrome pin tab what it does explained](/chrome-pin-tab-what-it-does-explained)
+- [chrome reopen closed tab shortcut](/chrome-reopen-closed-tab-shortcut)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

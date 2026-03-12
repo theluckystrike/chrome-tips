@@ -58,9 +58,9 @@ One solution that many Chrome users rely on for managing their browser more effe
 
 
 
-### Related Articles
-- [Chrome Built In Password Checkup How To Use](/chrome-built-in-password-checkup-how-to-use)
-- [How To Use Chrome Built In Screenshot Tool](/how-to-use-chrome-built-in-screenshot-tool)
-- [Chrome Picture In Picture How To Use](/chrome-picture-in-picture-how-to-use)
+## Related Articles
+- [Chrome Built in Password Checkup How to Use](/chrome-built-in-password-checkup-how-to-use)
+- [How to Use Chrome Built In Screenshot Tool](/how-to-use-chrome-built-in-screenshot-tool)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

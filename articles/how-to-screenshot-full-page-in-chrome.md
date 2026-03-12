@@ -76,7 +76,7 @@ Give it a try on your next webpage. You will be surprised at how easy it is to g
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Take Screenshot In Chrome Without Extension](/how-to-take-screenshot-in-chrome-without-extension)
-- [How To Use Chrome Built In Screenshot Tool](/how-to-use-chrome-built-in-screenshot-tool)
-- [Chrome Audit Page Seo How To](/chrome-audit-page-seo-how-to)
+## Related Articles
+- [chrome extensions for screenshot full page](/chrome-extensions-for-screenshot-full-page)
+- [Chrome Devtools Screenshot Full Page](/chrome-devtools-screenshot-full-page)
+- [How to Capture Full Page Screenshots in Chrome Using DevTools](/chrome-screenshot-capture-devtools-full-page)

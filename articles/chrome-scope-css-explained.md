@@ -50,10 +50,10 @@ Using **Tab Suspender Pro** is a smart way to balance your productivity. It auto
 
 
 
-### Related Articles
-- [Chrome Css Custom Properties Explained](/chrome-css-custom-properties-explained)
-- [Chrome Font Palette Css Explained](/chrome-font-palette-css-explained)
-- [Chrome Layer Css Cascade Layers Explained](/chrome-layer-css-cascade-layers-explained)
+## Related Articles
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)
+- [Chrome Font Palette CSS Explained](/chrome-font-palette-css-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -72,7 +72,7 @@ Remember that extensions are tools, and like any tools, they work best when used
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Productivity](/best-chrome-extensions-for-productivity)
-- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
-- [Chrome Extensions For Better Youtube Experience](/chrome-extensions-for-better-youtube-experience)
+## Related Articles
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome for Email Productivity Extensions](/chrome-for-email-productivity-extensions)
+- [best chrome extensions for youtube power users](/best-chrome-extensions-for-youtube-power-users)

@@ -74,7 +74,7 @@ By exploring Chrome built-in features and available extensions, you can find the
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Font Changer On Any Website](/chrome-extensions-for-font-changer-on-any-website)
-- [Chrome For Reader View On Any Website](/chrome-for-reader-view-on-any-website)
-- [Chrome For Text To Speech On Any Page](/chrome-for-text-to-speech-on-any-page)
+## Related Articles
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [Chrome for Reader View on Any Website](/chrome-for-reader-view-on-any-website)
+- [Chrome Live Captions Feature Guide](/chrome-live-captions-feature)

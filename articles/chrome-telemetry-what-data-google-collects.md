@@ -66,7 +66,7 @@ Remember that browser privacy is not all or nothing. Even small steps, like turn
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
+- [How to Sign Out of Google in Chrome Without Losing Your Data](/chrome-sign-out-of-google-without-losing-data)
 - [Chrome Safe Browsing Data What Google Sees](/chrome-safe-browsing-data-what-google-sees)
-- [Chrome Guest Browsing What Data Is Saved](/chrome-guest-browsing-what-data-is-saved)
-- [Chrome Sign Out Of Google Without Losing Data](/chrome-sign-out-of-google-without-losing-data)
+- [Chrome Send Feedback to Google How to](/chrome-send-feedback-to-google-how-to)

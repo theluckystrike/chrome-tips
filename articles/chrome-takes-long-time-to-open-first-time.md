@@ -58,9 +58,9 @@ If you continue to experience slow startup times despite trying these suggestion
 
 
 
-### Related Articles
-- [Chrome Taking Too Long To Open Fix](/chrome-taking-too-long-to-open-fix)
-- [Chrome Time To First Byte Explained](/chrome-time-to-first-byte-explained)
-- [Chrome Clean Install What To Backup First](/chrome-clean-install-what-to-backup-first)
+## Related Articles
+- [chrome taking too long to open fix](/chrome-taking-too-long-to-open-fix)
+- [Chrome Time to First Byte Explained](/chrome-time-to-first-byte-explained)
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

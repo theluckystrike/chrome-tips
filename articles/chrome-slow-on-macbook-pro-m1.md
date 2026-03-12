@@ -157,9 +157,9 @@ Most users see significant improvements after just a few of these changes. The M
 
 
 
-### Related Articles
-- [Chrome Slow On Old Macbook Fix](/chrome-slow-on-old-macbook-fix)
-- [Chrome Slow On Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
-- [Chrome Running Slow On New Laptop Why](/chrome-running-slow-on-new-laptop-why)
+## Related Articles
+- [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
+- [Chrome Slow on Your Old MacBook? Here's How to Fix It](/chrome-slow-on-old-macbook-fix)
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

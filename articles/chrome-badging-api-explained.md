@@ -13,7 +13,7 @@ tags:
 - chrome-features
 - notifications
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-badging-api-explained
 ---
 Chrome badging API explained is a topic that comes up when users notice small numbers or dots appearing on their browser toolbar icons. If you have ever seen a red badge showing how many unread messages you have, or a small dot indicating something new on a website, you have encountered what the Badging API enables.
@@ -73,7 +73,7 @@ Using tools like this, along with understanding how features like the Badging AP
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
-- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)
-- [Chrome Background Sync Api Explained](/chrome-background-sync-api-explained)
+## Related Articles
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Contact Picker API Explained](/chrome-contact-picker-api-explained)

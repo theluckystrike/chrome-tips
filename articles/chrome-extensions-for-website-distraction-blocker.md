@@ -84,7 +84,7 @@ Finally, be patient with yourself. Building new habits takes time, and setbacks 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Extensions For Website Blocker](/chrome-extensions-for-website-blocker)
-- [Chrome Extension For Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
-- [Chrome Extensions For Canvas Fingerprint Blocker](/chrome-extensions-for-canvas-fingerprint-blocker)
+## Related Articles
+- [Chrome Extensions for Website Blocker](/chrome-extensions-for-website-blocker)
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
+- [Chrome Extensions for Website Archiving](/chrome-extensions-for-website-archiving)

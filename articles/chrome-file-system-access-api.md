@@ -73,9 +73,9 @@ This shift has profound implications for how we think about software distributio
 
 
 
-### Related Articles
-- [Chrome File System Access Api Explained](/chrome-file-system-access-api-explained)
-- [Chrome Blob And File Api Explained](/chrome-blob-and-file-api-explained)
-- [Chrome File Handling Api Explained](/chrome-file-handling-api-explained)
+## Related Articles
+- [chrome file system access api explained](/chrome-file-system-access-api-explained)
+- [chrome file handling api explained](/chrome-file-handling-api-explained)
+- [Chrome Local Font Access API Explained](/chrome-local-font-access-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

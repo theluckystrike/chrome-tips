@@ -78,7 +78,7 @@ The best approach is to try a few different extensions and see which one fits yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Real Estate Agents](/best-chrome-extensions-for-real-estate-agents)
-- [Chrome Extensions For Time Tracking Freelancers](/chrome-extensions-for-time-tracking-freelancers)
-- [Chrome Extensions For Time Tracking](/chrome-extensions-for-time-tracking)
+## Related Articles
+- [Best Chrome Extensions for Real Estate Agents](/best-chrome-extensions-for-real-estate-agents)
+- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
+- [Chrome for Translation On Hover Extensions](/chrome-for-translation-on-hover-extensions)

@@ -81,9 +81,9 @@ With these steps, you can enjoy a faster browsing experience and stop wondering 
 
 
 
-### Related Articles
+## Related Articles
 - [Does Having Many Chrome Extensions Slow Down Browser](/does-having-many-chrome-extensions-slow-down-browser)
-- [Chrome Running Slow On New Laptop Why](/chrome-running-slow-on-new-laptop-why)
-- [Chrome Slow On Ipad Why](/chrome-slow-on-ipad-why)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [How to Find Chrome Extensions That Slow Down Browser](/how-to-find-chrome-extensions-that-slow-down-browser)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

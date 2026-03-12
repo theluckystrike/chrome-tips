@@ -75,7 +75,7 @@ Give it a try if you have not already. Once everyone has their own profile, you 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Multiple Users On Same Computer Setup](/chrome-multiple-users-on-same-computer-setup)
-- [Chrome Multiple Profiles Setup](/chrome-multiple-profiles-setup)
-- [Best Chrome Extensions For Reddit Users](/best-chrome-extensions-for-reddit-users)
+## Related Articles
+- [Chrome Multiple Users on Same Computer Setup](/chrome-multiple-users-on-same-computer-setup)
+- [Chrome Multiple Profiles Setup: Complete Guide for 2026](/chrome-multiple-profiles-setup)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)

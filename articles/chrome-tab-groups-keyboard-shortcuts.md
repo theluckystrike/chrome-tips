@@ -105,9 +105,9 @@ Remember to combine your organized tab groups with Tab Suspender Pro for optimal
 
 
 
-### Related Articles
-- [Chrome Gmail Keyboard Shortcuts](/chrome-gmail-keyboard-shortcuts)
-- [Chrome Google Docs Keyboard Shortcuts](/chrome-google-docs-keyboard-shortcuts)
+## Related Articles
 - [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

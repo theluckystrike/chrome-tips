@@ -112,7 +112,7 @@ Remember that most video playback problems have simple solutions. Start with the
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Not Playing Youtube Videos Fix](/chrome-not-playing-youtube-videos-fix)
-- [Chrome Amazon Prime Video Not Playing Fix](/chrome-amazon-prime-video-not-playing-fix)
-- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+## Related Articles
+- [chrome not playing youtube videos fix](/chrome-not-playing-youtube-videos-fix)
+- [Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide](/chrome-amazon-prime-video-not-playing-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)

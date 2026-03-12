@@ -134,9 +134,9 @@ Remember: keeping Chrome updated and your system running smoothly goes a long wa
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Images Not Loading Fix](/chrome-images-not-loading-fix)
-- [Chrome Web Store Not Loading Fix](/chrome-web-store-not-loading-fix)
-- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+- [chrome web store not loading fix](/chrome-web-store-not-loading-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

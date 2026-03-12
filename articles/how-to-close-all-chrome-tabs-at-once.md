@@ -72,7 +72,7 @@ If you find yourself needing to close all your tabs frequently, consider trying 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Save Open Tabs As Bookmarks All At Once](/chrome-save-open-tabs-as-bookmarks-all-at-once)
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
-- [Chrome Download All Images From Page How To](/chrome-download-all-images-from-page-how-to)
+## Related Articles
+- [Chrome Save Open Tabs as Bookmarks All at Once](/chrome-save-open-tabs-as-bookmarks-all-at-once)
+- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+- [Chrome Close Other Tabs Shortcut](/chrome-close-other-tabs-shortcut)

@@ -14,7 +14,7 @@ tags:
 - browser-features
 - performance
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-background-sync-explained
 ---
 # Chrome Background Sync Explained: How It Works and Why It Matters
@@ -73,9 +73,9 @@ Whether you are a casual browser or someone who relies heavily on Chrome for wor
 
 
 
-### Related Articles
-- [Chrome Background Sync Api Explained](/chrome-background-sync-api-explained)
+## Related Articles
+- [Chrome Background Sync API Explained](/chrome-background-sync-api-explained)
 - [Chrome Periodic Background Sync Explained](/chrome-periodic-background-sync-explained)
-- [Chrome Background Fetch For Pwas Explained](/chrome-background-fetch-for-pwas-explained)
+- [Chrome Background Sync for Offline Forms](/chrome-background-sync-for-offline-forms)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

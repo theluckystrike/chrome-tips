@@ -61,9 +61,9 @@ Third, do not forget about cashback programs. Many credit cards and apps offer c
 
 
 
-### Related Articles
-- [Chrome Extensions For Coupon Codes Automatically](/chrome-extensions-for-coupon-codes-automatically)
-- [Chrome Extensions For Coupon Finder Automatic](/chrome-extensions-for-coupon-finder-automatic)
-- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
+## Related Articles
+- [Chrome Extensions for Coupon Codes Automatically](/chrome-extensions-for-coupon-codes-automatically)
+- [Chrome Extensions for Coupon Finder Automatic](/chrome-extensions-for-coupon-finder-automatic)
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

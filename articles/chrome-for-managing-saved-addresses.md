@@ -75,7 +75,7 @@ Whether you stick with Chrome's native tools, try an extension like Tab Suspende
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extension For Managing Multiple Email Accounts](/chrome-extension-for-managing-multiple-email-accounts)
-- [Chrome Extensions For Managing Multiple Social Accounts](/chrome-extensions-for-managing-multiple-social-accounts)
-- [Chrome For Managing Site Notifications](/chrome-for-managing-site-notifications)
+## Related Articles
+- [Chrome Saved Addresses How to Edit](/chrome-saved-addresses-how-to-edit)
+- [Chrome for Managing Site Notifications](/chrome-for-managing-site-notifications)
+- [Chrome Saved Payment Methods How to Edit](/chrome-saved-payment-methods-how-to-edit)

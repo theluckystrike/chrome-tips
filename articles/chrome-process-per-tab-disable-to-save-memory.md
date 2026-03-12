@@ -101,9 +101,9 @@ The goal is not to eliminate all memory usage, but rather to bring Chrome's reso
 
 
 
-### Related Articles
-- [Chrome Process Per Tab Why And How To Change](/chrome-process-per-tab-why-and-how-to-change)
-- [Best Tab Suspender To Save Memory 2026](/best-tab-suspender-to-save-memory-2026)
-- [Chrome Tab Hibernate Save Memory](/chrome-tab-hibernate-save-memory)
+## Related Articles
+- [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/chrome-tab-hibernate-save-memory)
+- [Chrome Process Per Tab Why and How to Change](/chrome-process-per-tab-why-and-how-to-change)
+- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

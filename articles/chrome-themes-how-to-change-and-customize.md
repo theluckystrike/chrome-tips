@@ -79,9 +79,9 @@ Take your time browsing through the options. The Chrome Web Store has many free 
 
 
 
-### Related Articles
-- [Chrome Process Per Tab Why And How To Change](/chrome-process-per-tab-why-and-how-to-change)
-- [Chrome Beta Channel How To Join And Leave](/chrome-beta-channel-how-to-join-and-leave)
-- [Chrome Custom Fonts How To Change](/chrome-custom-fonts-how-to-change)
+## Related Articles
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

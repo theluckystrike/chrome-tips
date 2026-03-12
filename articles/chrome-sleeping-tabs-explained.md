@@ -73,9 +73,9 @@ Chrome sleeping tabs are no longer an "experimental" feature; they are a fundame
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Pinned Tabs Explained](/chrome-pinned-tabs-explained)
-- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
-- [Best Way To Organize Chrome Tabs](/best-way-to-organize-chrome-tabs)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

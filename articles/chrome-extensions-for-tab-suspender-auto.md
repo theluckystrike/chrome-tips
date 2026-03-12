@@ -68,7 +68,7 @@ You might also want to periodically review your open tabs and close any that you
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Extensions For Auto Tab Closer](/chrome-extensions-for-auto-tab-closer)
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-- [Chrome Extensions For Auto Page Refresh](/chrome-extensions-for-auto-page-refresh)
+## Related Articles
+- [Chrome Extensions for Auto Tab Closer](/chrome-extensions-for-auto-tab-closer)
+- [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
+- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)

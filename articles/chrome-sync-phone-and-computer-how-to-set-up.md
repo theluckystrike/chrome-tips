@@ -89,7 +89,7 @@ Remember that sync is automatic once enabled, so you do not need to think about 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Passkeys How To Set Up And Use](/chrome-passkeys-how-to-set-up-and-use)
-- [How To Set Up Chrome Profiles For Work And Personal](/how-to-set-up-chrome-profiles-for-work-and-personal)
-- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)
+## Related Articles
+- [How to Sync Chrome Bookmarks Between Phone and Computer](/chrome-bookmark-sync-between-phone-and-computer)
+- [How to Sync Everything Between Your Phone and Laptop with Chrome](/chrome-sync-everything-between-phone-and-laptop)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)

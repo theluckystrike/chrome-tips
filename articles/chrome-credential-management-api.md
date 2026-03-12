@@ -134,9 +134,9 @@ Remember to always prioritize security, provide appropriate fallbacks for unsupp
 
 
 
-### Related Articles
-- [Chrome Window Management Api Explained](/chrome-window-management-api-explained)
-- [Best Chrome Extensions For Email Management](/best-chrome-extensions-for-email-management)
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
+## Related Articles
+- [Chrome Window Management API Explained](/chrome-window-management-api-explained)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

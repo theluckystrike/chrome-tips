@@ -13,7 +13,7 @@ tags:
 - tab-management
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-tab-organization-feature
 ---
 # Chrome AI Tab Organization Feature
@@ -72,9 +72,9 @@ Chrome AI tab organization feature is a useful addition to the browser that addr
 
 
 
-### Related Articles
-- [Chrome Ai Tab Organizer Feature](/chrome-ai-tab-organizer-feature)
-- [Chrome Tab Organize Ai Feature Explained](/chrome-tab-organize-ai-feature-explained)
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
+## Related Articles
+- [Chrome Tab Organize AI Feature Explained](/chrome-tab-organize-ai-feature-explained)
+- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
+- [Chrome for Tab Organization Workflow](/chrome-for-tab-organization-workflow)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -80,7 +80,7 @@ Either way, think about your specific classes and what your school recommends. S
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chromebook Extensions For Students](/best-chromebook-extensions-for-students)
-- [Chromebook Vs Macbook For College](/chromebook-vs-macbook-for-college)
-- [Chromebook Vs Windows Laptop For Browsing](/chromebook-vs-windows-laptop-for-browsing)
+## Related Articles
+- [Best Chromebook Extensions for Students](/best-chromebook-extensions-for-students)
+- [chromebook file manager tips and tricks](/chromebook-file-manager-tips-and-tricks)
+- [Chrome vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison)

@@ -69,7 +69,7 @@ If you want to learn more about optimizing Chrome, consider exploring the browse
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
+- [Chrome Lazy Loading Images Native: How It Works and Why You Should Use It](/chrome-lazy-loading-images-native)
 - [Chrome Lazy Loading Images How It Works](/chrome-lazy-loading-images-how-it-works)
-- [Chrome Lazy Loading Images Native](/chrome-lazy-loading-images-native)
 - [Chrome Images Not Loading Fix](/chrome-images-not-loading-fix)

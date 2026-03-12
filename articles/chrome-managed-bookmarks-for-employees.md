@@ -78,7 +78,7 @@ This separation is actually one of the strengths of the managed bookmarks approa
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Speed Dial Bookmarks](/chrome-extensions-for-speed-dial-bookmarks)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
-- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
+## Related Articles
+- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+- [Chrome Bookmarks Bar Disappeared Fix](/chrome-bookmarks-bar-disappeared-fix)
+- [Chrome Sidebar Bookmarks How to Enable](/chrome-sidebar-bookmarks-how-to-enable)

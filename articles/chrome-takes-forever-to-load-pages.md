@@ -97,9 +97,9 @@ Chrome taking forever to load pages is frustrating, but it's usually fixable. St
 
 
 
-### Related Articles
-- [Chrome Tabs Taking Forever To Load](/chrome-tabs-taking-forever-to-load)
-- [Chrome New Tab Page Slow To Load](/chrome-new-tab-page-slow-to-load)
-- [Chrome Offline Pages On Phone How To Save](/chrome-offline-pages-on-phone-how-to-save)
+## Related Articles
+- [Chrome Tabs Taking Forever to Load? Here's What to Do](/chrome-tabs-taking-forever-to-load)
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
+- [Chrome Print Preview Taking Forever: Practical Solutions](/chrome-print-preview-taking-forever)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

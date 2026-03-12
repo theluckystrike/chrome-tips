@@ -71,7 +71,7 @@ Tab Suspender Pro also provides visual indicators that make it easier to see whi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome Close Other Tabs Shortcut](/chrome-close-other-tabs-shortcut)
-- [Chrome Recently Closed Tabs Shortcut](/chrome-recently-closed-tabs-shortcut)
+- [chrome recently closed tabs shortcut](/chrome-recently-closed-tabs-shortcut)
 - [Chrome Select All Tabs Shortcut](/chrome-select-all-tabs-shortcut)

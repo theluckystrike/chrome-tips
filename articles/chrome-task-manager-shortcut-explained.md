@@ -55,9 +55,9 @@ The Shift+Esc shortcut puts this powerful tool at your fingertips whenever you n
 
 
 
-### Related Articles
-- [Chrome Credential Manager Autofill Explained](/chrome-credential-manager-autofill-explained)
-- [Chrome Mute Tab Shortcut Explained](/chrome-mute-tab-shortcut-explained)
+## Related Articles
 - [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [Chrome Task Manager Guide](/chrome-task-manager-guide)
+- [Chrome Credential Manager Autofill Explained](/chrome-credential-manager-autofill-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

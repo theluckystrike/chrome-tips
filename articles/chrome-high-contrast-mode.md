@@ -87,9 +87,9 @@ Start by enabling high contrast mode in your browser today, and adjust the setti
 
 
 
-### Related Articles
-- [Chrome High Contrast Mode How To Enable](/chrome-high-contrast-mode-how-to-enable)
-- [Best Dark Mode Chrome Extension](/best-dark-mode-chrome-extension)
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
+## Related Articles
+- [chrome high contrast mode how to enable](/chrome-high-contrast-mode-how-to-enable)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

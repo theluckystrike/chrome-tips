@@ -71,9 +71,9 @@ Start by trying one extension and learning how to read its price charts. Once yo
 
 
 
-### Related Articles
-- [Chrome Extensions For Price Tracking Amazon](/chrome-extensions-for-price-tracking-amazon)
-- [Best Chrome Extensions For Amazon Prime Video](/best-chrome-extensions-for-amazon-prime-video)
-- [Chrome Extensions For Amazon Fba Sellers](/chrome-extensions-for-amazon-fba-sellers)
+## Related Articles
+- [Chrome Extensions for Price Tracking Amazon](/chrome-extensions-for-price-tracking-amazon)
+- [Chrome Extensions for Flight Price Alerts](/chrome-extensions-for-flight-price-alerts)
+- [Chrome Extensions for Amazon FBA Sellers](/chrome-extensions-for-amazon-fba-sellers)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

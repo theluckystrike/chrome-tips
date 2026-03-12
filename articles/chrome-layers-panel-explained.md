@@ -58,7 +58,7 @@ The Chrome Layers panel is one of those tools that seems complex at first but be
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome Layers Panel 3D View Explained](/chrome-layers-panel-3d-view-explained)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
 - [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
-- [Chrome Devtools Issues Panel Explained](/chrome-devtools-issues-panel-explained)

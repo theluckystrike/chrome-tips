@@ -96,9 +96,9 @@ For users who must use Chrome, combining multiple solutions typically works best
 
 
 
-### Related Articles
+## Related Articles
+- [chrome tab memory usage how to check](/chrome-tab-memory-usage-how-to-check)
 - [Chrome Memory Usage Keeps Going Up Over Time Fix](/chrome-memory-usage-keeps-going-up-over-time-fix)
-- [Chrome Tab Memory Usage How To Check](/chrome-tab-memory-usage-how-to-check)
-- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

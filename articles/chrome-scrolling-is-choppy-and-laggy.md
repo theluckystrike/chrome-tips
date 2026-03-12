@@ -150,9 +150,9 @@ The "chrome scrolling is choppy and laggy" problem is usually fixable with the s
 
 
 
-### Related Articles
-- [Chrome Google Maps Slow And Laggy Fix](/chrome-google-maps-slow-and-laggy-fix)
-- [Chrome Notion Slow And Laggy Fix](/chrome-notion-slow-and-laggy-fix)
-- [Chrome Secure Dns What It Is And How To Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)
+## Related Articles
+- [How to Fix Chrome Notion Slow and Laggy Issues](/chrome-notion-slow-and-laggy-fix)
+- [How to Enable Chrome Smooth Scrolling](/how-to-enable-chrome-smooth-scrolling)
+- [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/chrome-smooth-scrolling-enable)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

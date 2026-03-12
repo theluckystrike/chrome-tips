@@ -84,7 +84,7 @@ Give it a try next time you come across an interesting image. With just a right 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Image Search By Url How To](/chrome-image-search-by-url-how-to)
-- [Chrome Custom Search Engines How To Add](/chrome-custom-search-engines-how-to-add)
-- [Chrome Default Search Engine Changed How To Fix](/chrome-default-search-engine-changed-how-to-fix)
+## Related Articles
+- [Chrome Right Click Not Working on Some Sites Fix](/chrome-right-click-not-working-on-some-sites-fix)
+- [chrome image search by url how to](/chrome-image-search-by-url-how-to)
+- [chrome extensions for image reverse search](/chrome-extensions-for-image-reverse-search)

@@ -80,9 +80,9 @@ Finally, remember that technology should support your teaching goals rather than
 
 
 
-### Related Articles
-- [Chrome Device Management For Education](/chrome-device-management-for-education)
-- [Best Chrome Extensions For Email Management](/best-chrome-extensions-for-email-management)
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
+## Related Articles
+- [chrome device management for education](/chrome-device-management-for-education)
+- [Chrome for Bibliography Management Extensions](/chrome-for-bibliography-management-extensions)
+- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

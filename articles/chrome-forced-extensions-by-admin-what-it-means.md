@@ -73,7 +73,7 @@ If you are a regular user at home and suddenly see forced extensions you did not
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome About Blank Page What It Means](/chrome-about-blank-page-what-it-means)
-- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
-- [Chrome Benchmark Score What It Means](/chrome-benchmark-score-what-it-means)
+## Related Articles
+- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

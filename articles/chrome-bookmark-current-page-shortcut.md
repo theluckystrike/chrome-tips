@@ -14,7 +14,7 @@ tags:
 - keyboard-shortcuts
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-12
 permalink: chrome-bookmark-current-page-shortcut
 ---
 # Chrome Bookmark Current Page Shortcut
@@ -80,7 +80,7 @@ Also take time occasionally to clean up old bookmarks. Go through your collectio
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Find On Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
-- [Chrome Open Downloads Page Shortcut](/chrome-open-downloads-page-shortcut)
+## Related Articles
 - [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+- [Chrome Scroll to Top of Page Shortcut](/chrome-scroll-to-top-of-page-shortcut)

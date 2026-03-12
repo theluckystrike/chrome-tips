@@ -58,7 +58,7 @@ Browser updates often include new privacy features, so keep Chrome updated to ta
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Cookie Consent Popups How To Handle](/chrome-cookie-consent-popups-how-to-handle)
-- [Chrome Text To Speech Extension Best](/chrome-text-to-speech-extension-best)
-- [Best Ad Blocker Chrome Extension 2026](/best-ad-blocker-chrome-extension-2026)
+## Related Articles
+- [Chrome Extension for Blocking Cookie Popups](/chrome-extension-for-blocking-cookie-popups)
+- [Chrome Extension GDPR Compliance Guide](/chrome-extension-gdpr-compliance-guide)
+- [Chrome Cookie Consent Popups How to Handle](/chrome-cookie-consent-popups-how-to-handle)

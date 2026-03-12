@@ -86,7 +86,7 @@ Give Web Bluetooth a try with your compatible devices. You might find that it si
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Web Vitals Extension How To Use](/chrome-web-vitals-extension-how-to-use)
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Ai Theme Generator How To Use](/chrome-ai-theme-generator-how-to-use)
+## Related Articles
+- [chrome web bluetooth connect headphones](/chrome-web-bluetooth-connect-headphones)
+- [Chrome Web Vitals Extension How to Use](/chrome-web-vitals-extension-how-to-use)
+- [Chrome Web Bluetooth API Guide](/chrome-web-bluetooth-api-guide)

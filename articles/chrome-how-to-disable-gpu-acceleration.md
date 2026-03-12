@@ -70,7 +70,7 @@ Some users find that disabling GPU acceleration is all they need to do to get Ch
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Javascript Disable For One Site How To](/chrome-javascript-disable-for-one-site-how-to)
-- [How To Disable Chrome Notifications Permanently](/how-to-disable-chrome-notifications-permanently)
-- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
+## Related Articles
+- [Chrome GPU Acceleration Gaming Settings](/chrome-gpu-acceleration-gaming-settings)
+- [Chrome GPU Acceleration Causing Problems Fix](/chrome-gpu-acceleration-causing-problems-fix)
+- [Chrome Hardware Acceleration Causes Problems](/chrome-hardware-acceleration-causes-problems)

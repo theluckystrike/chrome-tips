@@ -58,7 +58,7 @@ The next time you use a website that feels incredibly responsive and polished, t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Css Custom Properties Explained](/chrome-css-custom-properties-explained)
-- [Chrome Element Internals Custom Elements](/chrome-element-internals-custom-elements)
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
+## Related Articles
+- [Chrome Element Internals and Custom Elements: A Complete Guide](/chrome-element-internals-custom-elements)
+- [Chrome CSS Custom Properties Explained](/chrome-css-custom-properties-explained)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)

@@ -62,7 +62,7 @@ Most of these extensions offer free versions with basic features, so you can tes
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-- [Chrome Extensions For Auto Tab Closer](/chrome-extensions-for-auto-tab-closer)
-- [Chrome Extensions For Duplicate Tab Finder](/chrome-extensions-for-duplicate-tab-finder)
+## Related Articles
+- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
+- [Chrome for Translation On Hover Extensions](/chrome-for-translation-on-hover-extensions)
+- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)

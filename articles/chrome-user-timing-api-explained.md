@@ -73,9 +73,9 @@ This approach complements the work that developers do with tools like the User T
 
 
 
-### Related Articles
-- [Chrome Event Timing Api Explained](/chrome-event-timing-api-explained)
-- [Chrome Navigation Timing Api Explained](/chrome-navigation-timing-api-explained)
-- [Chrome Resource Timing Api Explained](/chrome-resource-timing-api-explained)
+## Related Articles
+- [Chrome Navigation Timing API Explained](/chrome-navigation-timing-api-explained)
+- [Chrome Event Timing API Explained](/chrome-event-timing-api-explained)
+- [Chrome Resource Timing API Explained](/chrome-resource-timing-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -89,9 +89,9 @@ The Performance tab in DevTools provides detailed timelines of how your page loa
 
 
 
-### Related Articles
-- [Chrome Network Throttling How To Simulate Slow Connection](/chrome-network-throttling-how-to-simulate-slow-connection)
+## Related Articles
+- [How to Simulate Slow Connection in Chrome](/chrome-network-throttling-how-to-simulate-slow-connection)
 - [Chrome Network Throttling Guide](/chrome-network-throttling-guide)
-- [Chrome Simulate Slow Connection For Testing](/chrome-simulate-slow-connection-for-testing)
+- [How to Simulate Slow Connection in Chrome for Testing](/chrome-simulate-slow-connection-for-testing)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

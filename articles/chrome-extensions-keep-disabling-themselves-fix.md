@@ -82,7 +82,7 @@ You can also reach out to the extension developer for support. They may be aware
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
+## Related Articles
+- [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
+- [Chrome Extensions Disabled by Administrator Fix](/chrome-extensions-disabled-by-administrator-fix)
 - [Chrome Cookies Keep Getting Deleted Fix](/chrome-cookies-keep-getting-deleted-fix)
-- [Chrome Extensions Conflict With Each Other Fix](/chrome-extensions-conflict-with-each-other-fix)
-- [Chrome Extensions Disabled By Administrator Fix](/chrome-extensions-disabled-by-administrator-fix)

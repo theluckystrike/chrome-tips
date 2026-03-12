@@ -62,7 +62,7 @@ Give yourself time to adjust to the experience. Like any new skill, speed readin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Speed Reading](/chrome-extensions-for-speed-reading)
-- [Best Chrome Extensions For Reading Articles](/best-chrome-extensions-for-reading-articles)
-- [Chrome Extension For Reading Speed Tracker](/chrome-extension-for-reading-speed-tracker)
+## Related Articles
+- [Chrome Extensions for Speed Reading](/chrome-extensions-for-speed-reading)
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
+- [Chrome for Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)

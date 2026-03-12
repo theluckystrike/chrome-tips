@@ -81,7 +81,7 @@ Stay updated. Keep Chrome updated, and make sure your operating system is curren
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Android App Running Slow Fix](/chrome-android-app-running-slow-fix)
-- [Chrome Android Slow Fix 2026](/chrome-android-slow-fix-2026)
+## Related Articles
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
 - [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)

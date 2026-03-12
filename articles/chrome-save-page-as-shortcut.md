@@ -74,10 +74,10 @@ Instead of closing a site and relying on a **shortcut** to reopen it later, you 
 
 
 
-### Related Articles
-- [Chrome Bookmark Current Page Shortcut](/chrome-bookmark-current-page-shortcut)
-- [Chrome Find On Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
-- [Chrome Mobile Save Page Offline How To](/chrome-mobile-save-page-offline-how-to)
+## Related Articles
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+- [Chrome Scroll to Top of Page Shortcut](/chrome-scroll-to-top-of-page-shortcut)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

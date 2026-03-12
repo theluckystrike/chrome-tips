@@ -82,9 +82,9 @@ We can expect to see more websites adopt early hints as CDN support improves and
 
 
 
-### Related Articles
+## Related Articles
+- [Chrome Status Code 502 Bad Gateway Fix](/chrome-status-code-502-bad-gateway-fix)
 - [Chrome Status Code 403 Forbidden Explained](/chrome-status-code-403-forbidden-explained)
-- [Chrome Status Code 404 Not Found Explained](/chrome-status-code-404-not-found-explained)
 - [Chrome Status Code 500 Server Error Explained](/chrome-status-code-500-server-error-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

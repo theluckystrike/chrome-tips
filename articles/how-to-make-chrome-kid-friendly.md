@@ -91,7 +91,7 @@ Making Chrome kid-friendly is a journey, not a destination. As your child grows 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Custom Theme How To Make Your Own](/chrome-custom-theme-how-to-make-your-own)
-- [How To Make Chrome Default Browser Mac](/how-to-make-chrome-default-browser-mac)
-- [How To Make Chrome Default Browser Windows 11](/how-to-make-chrome-default-browser-windows-11)
+## Related Articles
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [how to make chrome default browser mac](/how-to-make-chrome-default-browser-mac)
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)

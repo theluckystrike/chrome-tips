@@ -81,10 +81,10 @@ Using **Tab Suspender Pro** is a smart way to stay organized. It automatically "
 
 
 
-### Related Articles
-- [Chrome Security Checkup How To Run](/chrome-security-checkup-how-to-run)
-- [Chrome Security Panel How To Check Ssl](/chrome-security-panel-how-to-check-ssl)
-- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
+## Related Articles
+- [Chrome Security Checkup How to Run](/chrome-security-checkup-how-to-run)
+- [Chrome Security Panel How to Check SSL](/chrome-security-panel-how-to-check-ssl)
+- [chrome lighthouse audit how to run](/chrome-lighthouse-audit-how-to-run)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

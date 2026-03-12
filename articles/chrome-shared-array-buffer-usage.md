@@ -164,9 +164,9 @@ SharedArrayBuffer is a powerful feature that brings true multithreading capabili
 
 
 
-### Related Articles
-- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
-- [Chrome Array Groupby New Method](/chrome-array-groupby-new-method)
-- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
+- [chrome data usage on phone how to reduce](/chrome-data-usage-on-phone-how-to-reduce)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

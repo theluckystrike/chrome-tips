@@ -76,7 +76,7 @@ If you also want to reduce the number of open tabs in your browser, consider try
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Reading Articles](/best-chrome-extensions-for-reading-articles)
-- [Chrome Extensions For Bookmark Manager](/chrome-extensions-for-bookmark-manager)
-- [Chrome Extensions For Clipboard Manager](/chrome-extensions-for-clipboard-manager)
+## Related Articles
+- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
+- [Chrome Extensions for Cookie Editor Manager](/chrome-extensions-for-cookie-editor-manager)
+- [How to Enable Chrome Reading List](/how-to-enable-chrome-reading-list)

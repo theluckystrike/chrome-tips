@@ -162,9 +162,9 @@ Tools like Tab Suspender Pro can also help by automatically managing tab resourc
 
 
 
-### Related Articles
-- [Chrome Running Slow On New Laptop Why](/chrome-running-slow-on-new-laptop-why)
-- [Chrome Slow On Ipad Fix 2026](/chrome-slow-on-ipad-fix-2026)
-- [Why Is Chrome So Slow On My Computer](/why-is-chrome-so-slow-on-my-computer)
+## Related Articles
+- [Chrome Slow on iPad Fix 2026](/chrome-slow-on-ipad-fix-2026)
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

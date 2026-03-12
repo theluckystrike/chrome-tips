@@ -68,9 +68,9 @@ By keeping your browser updated, managing extensions wisely, and understanding h
 
 
 
-### Related Articles
-- [Chrome Interaction To Next Paint Explained](/chrome-interaction-to-next-paint-explained)
+## Related Articles
+- [Chrome Interaction to Next Paint Explained: What It Means for You](/chrome-interaction-to-next-paint-explained)
 - [Chrome Largest Contentful Paint Improve Tips](/chrome-largest-contentful-paint-improve-tips)
-- [Chrome Inert Attribute Disable Interaction](/chrome-inert-attribute-disable-interaction)
+- [How to Use the Chrome Inert Attribute to Disable Interaction](/chrome-inert-attribute-disable-interaction)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

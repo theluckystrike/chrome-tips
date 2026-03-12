@@ -91,9 +91,9 @@ Remember that most extension conflicts can be resolved with some patience and tr
 
 
 
-### Related Articles
-- [Chrome Extensions Disabled By Administrator Fix](/chrome-extensions-disabled-by-administrator-fix)
+## Related Articles
 - [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
-- [Chrome Extensions Keep Disabling Themselves Fix](/chrome-extensions-keep-disabling-themselves-fix)
+- [Chrome Extensions Disabled by Administrator Fix](/chrome-extensions-disabled-by-administrator-fix)
+- [Chrome YouTube Slow But Other Sites Fine Fix](/chrome-youtube-slow-but-other-sites-fine-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

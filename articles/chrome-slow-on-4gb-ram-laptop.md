@@ -87,10 +87,10 @@ This extension takes **tab management** much further by allowing you to set cust
 
 
 
-### Related Articles
-- [Chrome Lagging On 4Gb Ram Computer](/chrome-lagging-on-4gb-ram-computer)
-- [Chrome Running Slow On New Laptop Why](/chrome-running-slow-on-new-laptop-why)
-- [Chrome Slow On School Laptop How To Fix](/chrome-slow-on-school-laptop-how-to-fix)
+## Related Articles
+- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
+- [How to Speed Up Chrome on 2GB RAM Laptop](/how-to-speed-up-chrome-on-2gb-ram-laptop)
+- [Chrome Slow on School Laptop? Here's How to Fix It](/chrome-slow-on-school-laptop-how-to-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

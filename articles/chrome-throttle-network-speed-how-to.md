@@ -85,9 +85,9 @@ For students or anyone working on older computers, reducing network demands can 
 
 
 
-### Related Articles
+## Related Articles
+- [Chrome Network Speed in Developer Tools](/chrome-network-speed-in-developer-tools)
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
 - [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
-- [Chrome Network Tab How To Use Debug](/chrome-network-tab-how-to-use-debug)
-- [Chrome Network Throttling How To Simulate Slow Connection](/chrome-network-throttling-how-to-simulate-slow-connection)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

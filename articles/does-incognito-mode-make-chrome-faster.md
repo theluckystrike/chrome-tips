@@ -68,7 +68,7 @@ Incognito mode is a powerful tool for privacy and testing, but it's not a perfor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Incognito Mode What It Actually Does](/chrome-incognito-mode-what-it-actually-does)
+## Related Articles
+- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
 - [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
-- [Chrome Flags That Actually Make It Faster](/chrome-flags-that-actually-make-it-faster)

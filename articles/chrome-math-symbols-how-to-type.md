@@ -71,7 +71,7 @@ Typing math symbols in Chrome does not have to be a headache. Whether you prefer
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Unicode Symbols How To Insert](/chrome-unicode-symbols-how-to-insert)
-- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
-- [Chrome Ad Personalization How To Turn Off](/chrome-ad-personalization-how-to-turn-off)
+## Related Articles
+- [Chrome Unicode Symbols How to Insert](/chrome-unicode-symbols-how-to-insert)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

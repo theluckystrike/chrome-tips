@@ -70,10 +70,10 @@ Using **Tab Suspender Pro** is a smart way to maintain a stable testing environm
 
 
 
-### Related Articles
-- [Chrome Network Throttling How To Simulate Slow Connection](/chrome-network-throttling-how-to-simulate-slow-connection)
-- [Best Chrome Settings For Slow Computer](/best-chrome-settings-for-slow-computer)
-- [Chrome Best Settings For Slow Internet](/chrome-best-settings-for-slow-internet)
+## Related Articles
+- [How to Simulate Slow Connection in Chrome](/chrome-network-throttling-how-to-simulate-slow-connection)
+- [chrome network throttling test slow connection](/chrome-network-throttling-test-slow-connection)
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -81,9 +81,9 @@ Either choice is valid, and you can always change your mind later if your circum
 
 
 
-### Related Articles
-- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
-- [Chrome Hardware Acceleration Should I Turn On Or Off](/chrome-hardware-acceleration-should-i-turn-on-or-off)
-- [Chrome Preloading Pages Should I Enable It](/chrome-preloading-pages-should-i-enable-it)
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

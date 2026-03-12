@@ -123,9 +123,9 @@ For teenagers, the conversation becomes more important than the technical contro
 
 
 
-### Related Articles
-- [Chrome Supervised User Profile For Kids](/chrome-supervised-user-profile-for-kids)
-- [Chrome Block Inappropriate Content For Kids](/chrome-block-inappropriate-content-for-kids)
-- [Chrome For Work Vs Personal Separate Profiles](/chrome-for-work-vs-personal-separate-profiles)
+## Related Articles
+- [Chrome Supervised Profiles for Kids](/chrome-supervised-user-profile-for-kids)
+- [Chrome Multiple Profiles Setup: Complete Guide for 2026](/chrome-multiple-profiles-setup)
+- [How to Use Chrome Profiles Properly — The Complete Guide](/how-to-use-chrome-profiles-properly)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

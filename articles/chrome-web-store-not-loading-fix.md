@@ -79,9 +79,9 @@ Remember that most Chrome Web Store loading issues can be resolved with the trou
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Images Not Loading Fix](/chrome-images-not-loading-fix)
+- [How to Fix Chrome Not Loading Images on Webpages](/chrome-webpage-not-loading-images-fix)
 - [Chrome Spotify Web Player Not Working Fix](/chrome-spotify-web-player-not-working-fix)
-- [Chrome Web Store Extensions Not Installing](/chrome-web-store-extensions-not-installing)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

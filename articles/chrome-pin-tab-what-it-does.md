@@ -81,9 +81,9 @@ Pinned tabs are one of Chrome's simplest but most useful features. They help you
 
 
 
-### Related Articles
-- [Chrome Pin Tab What It Does Explained](/chrome-pin-tab-what-it-does-explained)
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
-- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
+## Related Articles
+- [chrome pin tab what it does explained](/chrome-pin-tab-what-it-does-explained)
+- [Why Does Each Chrome Tab Use So Much Memory](/why-does-each-chrome-tab-use-so-much-memory)
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

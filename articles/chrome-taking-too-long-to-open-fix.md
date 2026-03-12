@@ -69,9 +69,9 @@ Finally, consider resetting Chrome to its default settings if nothing else works
 
 
 
-### Related Articles
-- [Chrome Takes Long Time To Open First Time](/chrome-takes-long-time-to-open-first-time)
-- [Chrome Zoom Too Big How To Fix](/chrome-zoom-too-big-how-to-fix)
-- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
+## Related Articles
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Font Too Small on Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
+- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/chrome-err-too-many-redirects-cookie-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -81,9 +81,9 @@ Testing is the best way to know the real impact on your specific laptop. Try usi
 
 
 
-### Related Articles
-- [Chrome Vs Edge Battery Life Laptop Comparison](/chrome-vs-edge-battery-life-laptop-comparison)
-- [Chrome Vs Firefox Battery Life](/chrome-vs-firefox-battery-life)
-- [Chrome For Tab Sleeping Vs Tab Suspending Difference](/chrome-for-tab-sleeping-vs-tab-suspending-difference)
+## Related Articles
+- [Chrome vs Edge Battery Life Laptop Comparison](/chrome-vs-edge-battery-life-laptop-comparison)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome vs Firefox Battery Life: Which Browser Saves More Power](/chrome-vs-firefox-battery-life)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

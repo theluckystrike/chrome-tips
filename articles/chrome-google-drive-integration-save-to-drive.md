@@ -72,7 +72,7 @@ The best approach is the one that fits naturally into how you already use Chrome
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
+## Related Articles
+- [chrome google photos integration save images](/chrome-google-photos-integration-save-images)
 - [Chrome Google Drive Integration Tips](/chrome-google-drive-integration-tips)
-- [Chrome Google Lens Integration How To Use](/chrome-google-lens-integration-how-to-use)
-- [Chrome Google Photos Integration Save Images](/chrome-google-photos-integration-save-images)
+- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)

@@ -84,7 +84,7 @@ Finally, take action on what you learn. The extensions can identify problems, bu
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Seo Analysis Extensions](/chrome-for-seo-analysis-extensions)
-- [Chrome Extensions For Grammar Check Free Alternative](/chrome-extensions-for-grammar-check-free-alternative)
-- [Chrome Extensions For Grammarly Alternative Free](/chrome-extensions-for-grammarly-alternative-free)
+## Related Articles
+- [Chrome for SEO Analysis Extensions](/chrome-for-seo-analysis-extensions)
+- [Chrome Extensions for Web Automation Free](/chrome-extensions-for-web-automation-free)
+- [Chrome for SEO Keyword Research Extensions](/chrome-for-seo-keyword-research-extensions)

@@ -66,7 +66,7 @@ Take some time to experiment with different arrangements and find what works bes
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Desktop Mode On Phone How To Use](/chrome-desktop-mode-on-phone-how-to-use)
-- [Chrome Family Link How To Use On Desktop](/chrome-family-link-how-to-use-on-desktop)
-- [Chrome Reading List On Phone How To Use](/chrome-reading-list-on-phone-how-to-use)
+## Related Articles
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
+- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)

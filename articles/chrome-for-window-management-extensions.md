@@ -35,7 +35,7 @@ If you have been struggling with browser clutter or find yourself constantly los
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Email Management](/best-chrome-extensions-for-email-management)
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-- [Chrome Extensions For Bibliography Management](/chrome-extensions-for-bibliography-management)
+## Related Articles
+- [Chrome for Bibliography Management Extensions](/chrome-for-bibliography-management-extensions)
+- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
+- [Chrome Extensions for Bibliography Management](/chrome-extensions-for-bibliography-management)

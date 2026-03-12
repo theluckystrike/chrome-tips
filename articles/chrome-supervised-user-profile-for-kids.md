@@ -123,9 +123,9 @@ For teenagers, the conversation becomes more important than the technical contro
 
 
 
-### Related Articles
-- [Chrome Supervised Profiles For Kids](/chrome-supervised-profiles-for-kids)
-- [Chrome Block Inappropriate Content For Kids](/chrome-block-inappropriate-content-for-kids)
-- [Chrome Extension For Changing User Agent](/chrome-extension-for-changing-user-agent)
+## Related Articles
+- [Chrome Supervised Profiles for Kids](/chrome-supervised-profiles-for-kids)
+- [Chrome User Data Folder Where Is It](/chrome-user-data-folder-where-is-it)
+- [Chrome Profile Backup How to Save](/chrome-profile-backup-how-to-save)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

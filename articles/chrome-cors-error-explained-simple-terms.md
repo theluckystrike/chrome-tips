@@ -158,9 +158,9 @@ When you're debugging CORS errors or working with multiple Chrome windows during
 
 
 
-### Related Articles
-- [Chrome Cors Error For Regular Users](/chrome-cors-error-for-regular-users)
+## Related Articles
+- [Chrome CORS Error for Regular Users](/chrome-cors-error-for-regular-users)
 - [Chrome Status Code 500 Server Error Explained](/chrome-status-code-500-server-error-explained)
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

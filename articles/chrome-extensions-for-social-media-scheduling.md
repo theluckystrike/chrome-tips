@@ -86,7 +86,7 @@ Finally, do not forget to engage with your audience after posting. Scheduling to
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Best Chrome Extensions For Social Media](/best-chrome-extensions-for-social-media)
-- [Chrome Extensions For Social Media Managers](/chrome-extensions-for-social-media-managers)
-- [Chrome Extensions For Social Media Scheduler](/chrome-extensions-for-social-media-scheduler)
+## Related Articles
+- [Chrome Extensions for Social Media Managers](/chrome-extensions-for-social-media-managers)
+- [Chrome for Social Media Management Extensions](/chrome-for-social-media-management-extensions)
+- [Chrome Extensions for Social Media Scheduler](/chrome-extensions-for-social-media-scheduler)

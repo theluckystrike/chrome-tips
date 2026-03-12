@@ -73,7 +73,7 @@ Give it a try on your next project and see how much easier it makes testing and 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Workspaces Link Devtools To Files](/chrome-workspaces-link-devtools-to-files)
-- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
-- [Chrome Devtools Changes Panel Track Edits](/chrome-devtools-changes-panel-track-edits)
+## Related Articles
+- [Chrome Workspaces: Link DevTools to Files for Seamless Development](/chrome-workspaces-link-devtools-to-files)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)

@@ -71,7 +71,7 @@ Once you find the combination that works for you, the days of manually zooming i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Using Too Much Battery On Laptop Fix](/chrome-using-too-much-battery-on-laptop-fix)
+## Related Articles
 - [Chrome Window Too Small Cant Resize Fix](/chrome-window-too-small-cant-resize-fix)
-- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/chrome-err-too-many-redirects-cookie-fix)

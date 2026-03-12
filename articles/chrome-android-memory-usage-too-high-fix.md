@@ -14,7 +14,7 @@ tags:
 - chrome-fix
 - memory-usage
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-android-memory-usage-too-high-fix
 ---
 # Chrome Android Memory Usage Too High Fix
@@ -89,9 +89,9 @@ High memory usage on Chrome for Android is a common problem, but it is one you c
 
 
 
-### Related Articles
-- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
 - [Chrome High Memory Usage Mac Fix](/chrome-high-memory-usage-mac-fix)
-- [Chrome Gpu Process High Memory Fix](/chrome-gpu-process-high-memory-fix)
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -83,10 +83,10 @@ Using **Tab Suspender Pro** helps by automatically "hibernating" background tabs
 
 
 
-### Related Articles
-- [Chrome Saved Payment Methods How To Edit](/chrome-saved-payment-methods-how-to-edit)
-- [Chrome Saved Passwords How To See Them](/chrome-saved-passwords-how-to-see-them)
-- [Chrome Saved Passwords How To View](/chrome-saved-passwords-how-to-view)
+## Related Articles
+- [Chrome Saved Payment Methods How to Edit](/chrome-saved-payment-methods-how-to-edit)
+- [Chrome for Managing Saved Addresses](/chrome-for-managing-saved-addresses)
+- [Chrome Devtools Edit HTML Live](/chrome-devtools-edit-html-live)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -84,7 +84,7 @@ Memory Saver handles the heavy lifting so you can focus on your work without wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
-- [Chrome Desktop Mode On Phone How To Use](/chrome-desktop-mode-on-phone-how-to-use)
-- [Chrome Devtools Responsive Mode How To Use](/chrome-devtools-responsive-mode-how-to-use)
+## Related Articles
+- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
+- [Chrome Memory Saver Mode 2026 Guide](/chrome-memory-saver-mode-2026)
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)

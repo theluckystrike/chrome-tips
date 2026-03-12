@@ -83,9 +83,9 @@ For users with slow computers and limited RAM, the most important thing is not j
 
 
 
-### Related Articles
-- [Chrome Iphone Vs Safari Which Is Better](/chrome-iphone-vs-safari-which-is-better)
-- [Chrome Multiple Windows Vs Tabs Which Is Better](/chrome-multiple-windows-vs-tabs-which-is-better)
-- [Chrome Vs Brave Browser Which Is Better](/chrome-vs-brave-browser-which-is-better)
+## Related Articles
+- [Chrome vs Brave Browser Which Is Better](/chrome-vs-brave-browser-which-is-better)
+- [Chrome iPhone vs Safari Which is Better](/chrome-iphone-vs-safari-which-is-better)
+- [Chrome Multiple Windows vs Tabs Which Is Better](/chrome-multiple-windows-vs-tabs-which-is-better)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

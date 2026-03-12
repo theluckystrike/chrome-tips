@@ -80,7 +80,7 @@ Once you find the right combination of extensions, you will notice improvements 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Reading Articles](/best-chrome-extensions-for-reading-articles)
-- [Chrome Extensions For Reading List Manager](/chrome-extensions-for-reading-list-manager)
-- [Chrome Extensions For Speed Reading](/chrome-extensions-for-speed-reading)
+## Related Articles
+- [Chrome for Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)
+- [Chrome Extensions for Speed Reading](/chrome-extensions-for-speed-reading)
+- [Chrome Reading Mode vs Reader View Extensions](/chrome-reading-mode-vs-reader-view-extensions)

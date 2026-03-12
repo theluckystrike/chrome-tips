@@ -88,7 +88,7 @@ You do not need to be technical to do any of this. Everything mentioned can be d
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.*
 
 
-### Related Articles
-- [Chrome Opens Old Tabs On Startup How To Stop](/chrome-opens-old-tabs-on-startup-how-to-stop)
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Autofill On Phone How To Manage](/chrome-autofill-on-phone-how-to-manage)
+## Related Articles
+- [Chrome Flags That Actually Make It Faster: A Practical Guide for Slow Computers](/chrome-flags-that-actually-make-it-faster)
+- [Does Incognito Mode Make Chrome Faster?](/does-incognito-mode-make-chrome-faster)
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)

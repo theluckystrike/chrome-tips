@@ -60,9 +60,9 @@ One helpful solution for managing tabs is to use Tab Suspender Pro, which is a C
 
 
 
-### Related Articles
-- [Chrome Bookmark Bar Disappeared How To Get Back](/chrome-bookmark-bar-disappeared-how-to-get-back)
-- [Chrome Version How To Check Which Version](/chrome-version-how-to-check-which-version)
-- [How To Downgrade Chrome To Older Version](/how-to-downgrade-chrome-to-older-version)
+## Related Articles
+- [chrome portable version run from usb](/chrome-portable-version-run-from-usb)
+- [Chrome Version How to Check Which Version](/chrome-version-how-to-check-which-version)
+- [How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)](/how-to-downgrade-chrome-to-older-version)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

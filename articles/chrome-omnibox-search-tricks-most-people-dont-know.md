@@ -89,9 +89,9 @@ Once you start using these omnibox search tricks regularly, you will find yourse
 
 
 
-### Related Articles
-- [Chrome For Omnibox Search Tricks](/chrome-for-omnibox-search-tricks)
+## Related Articles
 - [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)
-- [Chrome History Search Tips And Tricks](/chrome-history-search-tips-and-tricks)
+- [Chrome for Omnibox Search Tricks](/chrome-for-omnibox-search-tricks)
+- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

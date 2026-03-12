@@ -61,10 +61,10 @@ When you're running multiple extensions to tweak your UI, it's important to keep
 
 
 
-### Related Articles
-- [Chrome Anchor Positioning Css](/chrome-anchor-positioning-css)
-- [Chrome Aspect Ratio Css Property](/chrome-aspect-ratio-css-property)
-- [Chrome Color Mix Function Css](/chrome-color-mix-function-css)
+## Related Articles
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)
+- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

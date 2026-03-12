@@ -71,9 +71,9 @@ Remember that while SSL errors can be frustrating, they are actually a good sign
 
 
 
-### Related Articles
-- [Chrome Err Quic Protocol Error Fix](/chrome-err-quic-protocol-error-fix)
-- [Chrome Clock Behind Error Fix](/chrome-clock-behind-error-fix)
-- [Chrome Content Encoding Error Fix](/chrome-content-encoding-error-fix)
+## Related Articles
+- [Chrome ERR_QUIC_PROTOCOL_ERROR Fix](/chrome-err-quic-protocol-error-fix)
+- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
+- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/chrome-err-too-many-redirects-cookie-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

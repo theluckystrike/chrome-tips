@@ -78,7 +78,7 @@ Transitioning to a multi-profile workflow takes about five minutes to set up, bu
 *Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
 
 
-### Related Articles
-- [How To Set Up Chrome Profiles For Work And Personal](/how-to-set-up-chrome-profiles-for-work-and-personal)
-- [Chrome Work Profile Vs Personal Profile Tips](/chrome-work-profile-vs-personal-profile-tips)
-- [Chrome Extension For Blocking Social Media During Work](/chrome-extension-for-blocking-social-media-during-work)
+## Related Articles
+- [How to Set Up Chrome Profiles for Work and Personal](/how-to-set-up-chrome-profiles-for-work-and-personal)
+- [chrome work profile vs personal profile tips](/chrome-work-profile-vs-personal-profile-tips)
+- [Chrome Do Not Track: Does It Actually Work](/chrome-do-not-track-does-it-actually-work)

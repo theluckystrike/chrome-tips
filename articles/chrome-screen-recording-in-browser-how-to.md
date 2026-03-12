@@ -88,7 +88,7 @@ Screen recording in Chrome is a useful skill that becomes easier once you unders
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Screen Sharing In Browser How To](/chrome-screen-sharing-in-browser-how-to)
-- [Chrome Location History In Browser How To Check](/chrome-location-history-in-browser-how-to-check)
-- [Chrome Auto Sign In To Websites How To Control](/chrome-auto-sign-in-to-websites-how-to-control)
+## Related Articles
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [chrome extensions for screen recording free](/chrome-extensions-for-screen-recording-free)
+- [Chrome Screen Sharing in Browser How To](/chrome-screen-sharing-in-browser-how-to)

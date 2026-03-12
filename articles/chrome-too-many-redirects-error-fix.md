@@ -70,9 +70,9 @@ This is a more drastic step, so try the other solutions first. However, if you h
 
 
 
-### Related Articles
-- [Chrome Err Too Many Redirects Cookie Fix](/chrome-err-too-many-redirects-cookie-fix)
-- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
+## Related Articles
+- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/chrome-err-too-many-redirects-cookie-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

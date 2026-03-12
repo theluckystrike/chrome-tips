@@ -74,7 +74,7 @@ Running out of storage on your Chromebook does not mean you need a new device. B
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Full Screen Mode How To Exit Stuck](/chrome-full-screen-mode-how-to-exit-stuck)
-- [Chrome Local Storage How To Clear For One Site](/chrome-local-storage-how-to-clear-for-one-site)
-- [Chrome Pwa Storage Quota How Much Space](/chrome-pwa-storage-quota-how-much-space)
+## Related Articles
+- [chrome pwa storage quota how much space](/chrome-pwa-storage-quota-how-much-space)
+- [Best Chromebook Extensions for Students](/best-chromebook-extensions-for-students)
+- [chromebook file manager tips and tricks](/chromebook-file-manager-tips-and-tricks)

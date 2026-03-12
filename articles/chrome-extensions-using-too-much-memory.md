@@ -58,7 +58,7 @@ For users who need many extensions and want to minimize memory usage, trying a d
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extension Using Too Much Memory Find](/chrome-extension-using-too-much-memory-find)
-- [Chrome Network Process Using Too Much Memory](/chrome-network-process-using-too-much-memory)
+## Related Articles
 - [Chrome Tabs Using Too Much Memory Which One](/chrome-tabs-using-too-much-memory-which-one)
+- [Chrome Using Too Much Memory on MacBook Air](/chrome-using-too-much-memory-on-macbook-air)
+- [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/chrome-extension-using-too-much-memory-find)

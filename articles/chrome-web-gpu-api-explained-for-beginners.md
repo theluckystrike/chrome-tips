@@ -56,7 +56,7 @@ The good news is that Chrome is already supporting this technology, and you do n
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Web Gpu Api Explained](/chrome-web-gpu-api-explained)
-- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)
-- [Chrome Blink Engine Explained For Beginners](/chrome-blink-engine-explained-for-beginners)
+## Related Articles
+- [Chrome Web GPU API Explained](/chrome-web-gpu-api-explained)
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
+- [chrome web serial api for beginners](/chrome-web-serial-api-for-beginners)

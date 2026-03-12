@@ -232,7 +232,7 @@ The key is to make sure you're signed into the same Google account on both compu
 Remember to keep a manual backup of your bookmarks even when using sync, and you'll never have to worry about losing your Chrome data again.
 
 
-### Related Articles
-- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
-- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
-- [Chrome How To Clear Individual Site Data](/chrome-how-to-clear-individual-site-data)
+## Related Articles
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
+- [Chrome User Data Folder Where Is It](/chrome-user-data-folder-where-is-it)

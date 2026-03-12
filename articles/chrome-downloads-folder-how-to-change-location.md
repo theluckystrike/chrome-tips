@@ -71,7 +71,7 @@ The key is finding a system that works for you and sticking with it. Whether you
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Downloads Folder How To Change](/chrome-downloads-folder-how-to-change)
-- [Chrome Default Download Location How To Change](/chrome-default-download-location-how-to-change)
-- [How To Change Default Download Location Chrome](/how-to-change-default-download-location-chrome)
+## Related Articles
+- [Chrome Downloads Folder How to Change](/chrome-downloads-folder-how-to-change)
+- [How to Change Your Chrome Downloads Folder](/chrome-downloads-folder-change)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

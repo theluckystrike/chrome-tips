@@ -73,9 +73,9 @@ The best translation extension is the one that fits seamlessly into your workflo
 
 
 
-### Related Articles
-- [Chrome Extension For Highlighting Text On Websites](/chrome-extension-for-highlighting-text-on-websites)
-- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
-- [Chrome Extension For Auto Fill Forms Faster](/chrome-extension-for-auto-fill-forms-faster)
+## Related Articles
+- [Chrome Text to Speech Extension Best](/chrome-text-to-speech-extension-best)
+- [Chrome Extension for Highlighting Text on Websites](/chrome-extension-for-highlighting-text-on-websites)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

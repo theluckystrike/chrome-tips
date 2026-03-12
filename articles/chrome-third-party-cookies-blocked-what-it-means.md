@@ -74,9 +74,9 @@ You do not need to do anything if you are comfortable with the changes. Chrome i
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Third Party Cookies What Happens When Blocked](/chrome-third-party-cookies-what-happens-when-blocked)
-- [Chrome About Blank Page What It Means](/chrome-about-blank-page-what-it-means)
-- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
+- [chrome first party vs third party cookies](/chrome-first-party-vs-third-party-cookies)
+- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

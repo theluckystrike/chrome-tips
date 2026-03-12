@@ -78,7 +78,7 @@ Chrome popup settings are designed to give you control while still protecting yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Allow Popups For One Site How To](/chrome-allow-popups-for-one-site-how-to)
-- [Chrome Location Access For One Site How To Allow](/chrome-location-access-for-one-site-how-to-allow)
-- [How To Allow Pop Ups For One Site In Chrome](/how-to-allow-pop-ups-for-one-site-in-chrome)
+## Related Articles
+- [Chrome Allow Popups for One Site How To](/chrome-allow-popups-for-one-site-how-to)
+- [Chrome Location Access for One Site How to Allow](/chrome-location-access-for-one-site-how-to-allow)
+- [How to Allow Pop Ups on One Site Chrome](/how-to-allow-pop-ups-on-one-site-chrome)

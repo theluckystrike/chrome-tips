@@ -96,9 +96,9 @@ For managing browser resources while working with date-intensive applications, c
 
 
 
-### Related Articles
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
-- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)
-- [Chrome Background Sync Api Explained](/chrome-background-sync-api-explained)
+## Related Articles
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

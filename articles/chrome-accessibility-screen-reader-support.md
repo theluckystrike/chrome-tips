@@ -15,7 +15,7 @@ tags:
 - screen-reader
 - support
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-accessibility-screen-reader-support
 ---
 # Chrome Accessibility Screen Reader Support
@@ -109,9 +109,9 @@ If these sites read correctly, your setup is working. Issues on other sites are 
 
 
 
-### Related Articles
-- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
-- [Chrome Screen Reader Support](/chrome-screen-reader-support)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [chrome accessibility shortcuts for screen reader](/chrome-accessibility-shortcuts-for-screen-reader)
+- [chrome screen reader support](/chrome-screen-reader-support)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

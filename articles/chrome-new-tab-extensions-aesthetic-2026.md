@@ -74,7 +74,7 @@ Finding the right chrome new tab extension aesthetic for 2026 is all about under
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Best New Tab Extension 2026](/chrome-best-new-tab-extension-2026)
-- [Chrome Extensions For New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)
-- [Chrome Extensions For Weather Forecast New Tab](/chrome-extensions-for-weather-forecast-new-tab)
+## Related Articles
+- [chrome for custom new tab page extensions](/chrome-for-custom-new-tab-page-extensions)
+- [Chrome New Tab Page Minimalist Extensions](/chrome-new-tab-page-minimalist-extensions)
+- [Chrome Extensions for New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)

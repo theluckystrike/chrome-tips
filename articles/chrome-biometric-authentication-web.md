@@ -16,7 +16,7 @@ tags:
 - security
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-biometric-authentication-web
 ---
 # Chrome Biometric Authentication for the Web
@@ -81,9 +81,9 @@ Whether you are a user looking for a more convenient way to log in or a develope
 
 
 
-### Related Articles
-- [Best Chrome Extensions For Web Developers 2026](/best-chrome-extensions-for-web-developers-2026)
-- [Chrome Auto Dark Mode For Web Contents](/chrome-auto-dark-mode-for-web-contents)
-- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)
+## Related Articles
+- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

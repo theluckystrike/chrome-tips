@@ -78,7 +78,7 @@ Remember that good performance leads to better user experience, higher search ra
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Audit Page Seo How To](/chrome-audit-page-seo-how-to)
-- [Chrome Security Check How To Run](/chrome-security-check-how-to-run)
-- [Chrome Security Checkup How To Run](/chrome-security-checkup-how-to-run)
+## Related Articles
+- [Chrome Lighthouse Audit for Website Speed: Complete Guide](/chrome-lighthouse-audit-website-speed)
+- [Chrome Lighthouse Audit Complete Guide](/chrome-lighthouse-audit-guide)
+- [Chrome Security Checkup How to Run](/chrome-security-checkup-how-to-run)

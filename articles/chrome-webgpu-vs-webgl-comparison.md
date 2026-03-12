@@ -101,9 +101,9 @@ As Chrome continues leading the charge with WebGPU support, now is an excellent 
 
 
 
-### Related Articles
-- [Chrome Webgpu Vs Webgl](/chrome-webgpu-vs-webgl)
-- [Chrome Bitwarden Vs Lastpass Comparison 2026](/chrome-bitwarden-vs-lastpass-comparison-2026)
-- [Chrome Dashlane Vs Onepassword Comparison](/chrome-dashlane-vs-onepassword-comparison)
+## Related Articles
+- [Chrome WebGPU vs WebGL Comparison](/chrome-webgpu-vs-webgl)
+- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+- [Chrome vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

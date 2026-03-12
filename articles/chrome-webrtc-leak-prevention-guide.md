@@ -131,9 +131,9 @@ By staying informed and proactive about your privacy, you can enjoy the benefits
 
 *
 
-### Related Articles
-- [Chrome Extensions For Webrtc Leak Prevention](/chrome-extensions-for-webrtc-leak-prevention)
-- [Chrome Webrtc Leak Test And Fix Guide](/chrome-webrtc-leak-test-and-fix-guide)
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
+## Related Articles
+- [Chrome Extensions for WebRTC Leak Prevention](/chrome-extensions-for-webrtc-leak-prevention)
+- [Chrome WebRTC Leak Test and Fix Guide](/chrome-webrtc-leak-test-and-fix-guide)
+- [chrome webrtc leak what it is and how to fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

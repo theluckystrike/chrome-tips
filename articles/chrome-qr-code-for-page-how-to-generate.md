@@ -66,9 +66,9 @@ Take a moment to try out a QR code generator extension. Once you have it install
 
 
 
-### Related Articles
-- [Chrome Allow Popups For One Site How To](/chrome-allow-popups-for-one-site-how-to)
-- [Chrome Audit Page Seo How To](/chrome-audit-page-seo-how-to)
-- [Chrome Camera Permission For One Site How To Set](/chrome-camera-permission-for-one-site-how-to-set)
+## Related Articles
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/chrome-blackbox-script-skip-library-code-debug)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

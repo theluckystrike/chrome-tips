@@ -64,7 +64,7 @@ Some users find it helpful to set a personal rule, such as closing all tabs at t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
-- [Chrome Custom Search Engines How To Add](/chrome-custom-search-engines-how-to-add)
-- [Chrome Default Search Engine Changed How To Fix](/chrome-default-search-engine-changed-how-to-fix)
+## Related Articles
+- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
+- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+- [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/i-have-100-tabs-open-chrome-is-dying)

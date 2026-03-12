@@ -67,7 +67,7 @@ Taking a few minutes to review your notification permissions now can save you fr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Allow Popups For One Site How To](/chrome-allow-popups-for-one-site-how-to)
-- [Chrome Camera Permission For One Site How To Set](/chrome-camera-permission-for-one-site-how-to-set)
-- [Chrome Enable Cookies For One Site How To](/chrome-enable-cookies-for-one-site-how-to)
+## Related Articles
+- [Chrome Site Keeps Asking for Notifications? Here's How to Stop It](/chrome-site-keeps-asking-for-notifications-stop)
+- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
+- [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)

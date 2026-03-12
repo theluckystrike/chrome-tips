@@ -13,7 +13,7 @@ tags:
 - suggestions
 - privacy
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-12
 permalink: chrome-autofill-suggestions-how-to-delete-one
 ---
 # Chrome Autofill Suggestions How to Delete One
@@ -83,7 +83,7 @@ Regularly reviewing and cleaning up your autofill data helps ensure that Chrome 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Address Autofill How To Manage](/chrome-address-autofill-how-to-manage)
-- [Chrome Address Bar Suggestions How To Clear](/chrome-address-bar-suggestions-how-to-clear)
-- [Chrome Allow Popups For One Site How To](/chrome-allow-popups-for-one-site-how-to)
+## Related Articles
+- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
+- [chrome web otp autofill sms](/chrome-web-otp-autofill-sms)
+- [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/chrome-autofill-wrong-address-keeps-appearing)

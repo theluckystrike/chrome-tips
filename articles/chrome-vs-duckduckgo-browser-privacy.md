@@ -67,9 +67,9 @@ Understanding how your browser handles your data is the first step toward taking
 
 
 
-### Related Articles
-- [Chrome Browser Process Vs Tab Process Explained](/chrome-browser-process-vs-tab-process-explained)
-- [Chrome Browser Vs App Which Uses More Data](/chrome-browser-vs-app-which-uses-more-data)
-- [Chrome Pi Hole Vs Browser Ad Blocker Comparison](/chrome-pi-hole-vs-browser-ad-blocker-comparison)
+## Related Articles
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [how to make chrome default browser mac](/how-to-make-chrome-default-browser-mac)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

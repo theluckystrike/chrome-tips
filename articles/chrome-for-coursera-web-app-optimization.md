@@ -53,7 +53,7 @@ Remember that small adjustments add up. You do not need to implement everything 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Canva Web App Optimization](/chrome-for-canva-web-app-optimization)
-- [Chrome For Descript Web App Optimization](/chrome-for-descript-web-app-optimization)
-- [Chrome For Discord Web App Optimization](/chrome-for-discord-web-app-optimization)
+## Related Articles
+- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)
+- [Chrome for Salesforce Web App Optimization](/chrome-for-salesforce-web-app-optimization)
+- [Chrome for Descript Web App Optimization](/chrome-for-descript-web-app-optimization)

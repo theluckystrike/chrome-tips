@@ -107,9 +107,9 @@ These tools require no setup, work across any website, and can be used immediate
 
 
 
-### Related Articles
-- [Chrome Devtools Console Errors Meaning Guide](/chrome-devtools-console-errors-meaning-guide)
-- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
-- [Chrome Accessibility On Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)
+## Related Articles
+- [Chrome DevTools Console Errors Meaning: A Practical Guide](/chrome-devtools-console-errors-meaning-guide)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

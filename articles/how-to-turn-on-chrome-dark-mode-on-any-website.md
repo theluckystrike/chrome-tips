@@ -62,7 +62,7 @@ Think about which websites you visit most often and make sure your dark mode sol
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Dark Mode On Phone How To Enable](/chrome-dark-mode-on-phone-how-to-enable)
-- [Chrome Reader Mode How To Turn On 2026](/chrome-reader-mode-how-to-turn-on-2026)
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
+## Related Articles
+- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Mobile Dark Mode Force on All Sites](/chrome-mobile-dark-mode-force-on-all-sites)

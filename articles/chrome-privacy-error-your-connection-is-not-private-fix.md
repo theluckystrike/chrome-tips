@@ -64,7 +64,7 @@ Keeping your browser updated, maintaining accurate system time, and being cautio
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Your Connection Is Not Private Fix](/chrome-your-connection-is-not-private-fix)
 - [Chrome This Connection Is Not Private Bypass](/chrome-this-connection-is-not-private-bypass)
 - [Chrome Connection Not Private Bypass Safely](/chrome-connection-not-private-bypass-safely)

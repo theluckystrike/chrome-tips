@@ -15,7 +15,7 @@ tags:
 - progressive-web-apps
 - chrome-background-tasks
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-background-fetch-for-pwas-explained
 ---
 # Chrome Background Fetch for PWAs Explained
@@ -83,7 +83,7 @@ Regular maintenance helps too. Periodically check which PWAs you have installed 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Background Sync Api Explained](/chrome-background-sync-api-explained)
-- [Chrome Background Sync Explained](/chrome-background-sync-explained)
-- [Chrome Background Sync For Offline Forms](/chrome-background-sync-for-offline-forms)
+## Related Articles
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
+- [Chrome Background Sync API Explained](/chrome-background-sync-api-explained)
+- [Chrome Periodic Background Sync Explained](/chrome-periodic-background-sync-explained)

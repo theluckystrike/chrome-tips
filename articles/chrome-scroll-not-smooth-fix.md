@@ -55,7 +55,7 @@ Chrome scroll not smooth issues are annoying, but they are usually fixable with 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome Mouse Scroll Not Working Fix](/chrome-mouse-scroll-not-working-fix)
 - [Chrome Smooth Scroll Stuttering Fix](/chrome-smooth-scroll-stuttering-fix)
-- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)

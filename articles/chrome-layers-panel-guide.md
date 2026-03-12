@@ -101,9 +101,9 @@ With the knowledge from this guide, you are well-equipped to start using the Lay
 
 
 
-### Related Articles
+## Related Articles
+- [Chrome Recorder Panel Guide](/chrome-recorder-panel-guide)
 - [Chrome Application Panel Guide](/chrome-application-panel-guide)
-- [Chrome Devtools Layers Panel 3D View](/chrome-devtools-layers-panel-3d-view)
-- [Chrome Layers Panel 3D View Explained](/chrome-layers-panel-3d-view-explained)
+- [Chrome Side Panel Features Guide](/chrome-side-panel-features-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

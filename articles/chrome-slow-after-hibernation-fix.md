@@ -73,7 +73,7 @@ As a last resort, you might want to check if there are any background processes 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Slow After Update Fix](/chrome-slow-after-update-fix)
+## Related Articles
+- [Chrome Slow After Update Fix: Complete Troubleshooting Guide](/chrome-slow-after-update-fix)
 - [Chrome Slow After Windows Update Fix](/chrome-slow-after-windows-update-fix)
-- [Chrome Android App Running Slow Fix](/chrome-android-app-running-slow-fix)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)

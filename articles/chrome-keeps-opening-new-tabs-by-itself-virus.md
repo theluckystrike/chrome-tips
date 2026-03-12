@@ -43,7 +43,7 @@ Remember, while the phrase "chrome keeps opening new tabs by itself virus" sugge
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
+- [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
+- [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/chrome-slows-down-after-opening-20-tabs)
 - [Chrome Freezes When Opening New Tab Fix](/chrome-freezes-when-opening-new-tab-fix)
-- [Chrome Group Tabs By Color Organize](/chrome-group-tabs-by-color-organize)
-- [Chrome Homepage Changed By Itself Fix](/chrome-homepage-changed-by-itself-fix)

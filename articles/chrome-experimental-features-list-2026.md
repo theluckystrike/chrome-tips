@@ -97,9 +97,9 @@ Start with the features that address your biggest frustrations with Chrome. If y
 
 
 
-### Related Articles
-- [Chrome Experimental Features Worth Trying 2026](/chrome-experimental-features-worth-trying-2026)
-- [Chrome 2026 New Features Overview](/chrome-2026-new-features-overview)
-- [Chrome Ai Features Built In 2026](/chrome-ai-features-built-in-2026)
+## Related Articles
+- [chrome experimental features worth trying 2026](/chrome-experimental-features-worth-trying-2026)
+- [how to enable chrome experimental features](/how-to-enable-chrome-experimental-features)
+- [chrome upcoming features roadmap 2026](/chrome-upcoming-features-roadmap-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

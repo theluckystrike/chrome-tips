@@ -105,9 +105,9 @@ Understanding how Site Isolation works helps you appreciate the complex security
 
 
 
-### Related Articles
-- [Chrome Site Isolation Explained For Users](/chrome-site-isolation-explained-for-users)
+## Related Articles
 - [Chrome Site Isolation Explained Simply](/chrome-site-isolation-explained-simply)
-- [Chrome Cross Origin Isolation Explained](/chrome-cross-origin-isolation-explained)
+- [Chrome Site Isolation Explained for Users](/chrome-site-isolation-explained-for-users)
+- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

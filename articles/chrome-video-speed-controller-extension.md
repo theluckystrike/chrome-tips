@@ -73,9 +73,9 @@ The best extension for you depends on your specific needs, but having some form 
 
 
 
-### Related Articles
-- [Chrome Extension For Video Speed Controller](/chrome-extension-for-video-speed-controller)
-- [Chrome Extension For Reading Speed Tracker](/chrome-extension-for-reading-speed-tracker)
-- [Chrome Extension For Video Downloading Legal](/chrome-extension-for-video-downloading-legal)
+## Related Articles
+- [Chrome Extension for Video Speed Controller](/chrome-extension-for-video-speed-controller)
+- [Chrome Extension for Video Downloading: What is Legal](/chrome-extension-for-video-downloading-legal)
+- [Chrome Extension for Reading Speed Tracker](/chrome-extension-for-reading-speed-tracker)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -131,9 +131,9 @@ The Chrome cache folder is an essential part of how Chrome works, storing tempor
 
 
 
-### Related Articles
-- [Chrome Cache Size How To Increase](/chrome-cache-size-how-to-increase)
-- [Chrome Default Folder Location Where Is It](/chrome-default-folder-location-where-is-it)
-- [Chrome Downloads Folder How To Change Location](/chrome-downloads-folder-how-to-change-location)
+## Related Articles
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+- [How to Increase Chrome Cache Size](/chrome-cache-size-how-to-increase)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

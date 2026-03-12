@@ -73,9 +73,9 @@ Remember that these tools are helpers, not replacements for thinking about what 
 
 
 
-### Related Articles
-- [Chrome Extension For Taking Notes While Browsing](/chrome-extension-for-taking-notes-while-browsing)
-- [Chrome Extensions For Grammar Checking](/chrome-extensions-for-grammar-checking)
-- [Chrome For Grammar Checking Extensions](/chrome-for-grammar-checking-extensions)
+## Related Articles
+- [Chrome Extensions for Grammar Checking](/chrome-extensions-for-grammar-checking)
+- [Chrome Extension for Taking Notes While Browsing](/chrome-extension-for-taking-notes-while-browsing)
+- [Chrome for Grammar Checking Extensions](/chrome-for-grammar-checking-extensions)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

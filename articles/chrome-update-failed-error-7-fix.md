@@ -65,9 +65,9 @@ Chrome update failed error 7 is usually fixable with a few simple steps. Start w
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
 - [Chrome Update Failed Error 3 Fix](/chrome-update-failed-error-3-fix)
-- [Chrome Clock Behind Error Fix](/chrome-clock-behind-error-fix)
+- [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/chrome-err-ssl-protocol-error-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -50,9 +50,9 @@ However, if you find yourself regularly needing to flush socket pools to keep Ch
 
 
 
-### Related Articles
-- [Chrome Net Internals Dns Clear Cache](/chrome-net-internals-dns-clear-cache)
-- [Chrome Net Internals How To Use](/chrome-net-internals-how-to-use)
-- [Chrome Devtools Layers Panel 3D View](/chrome-devtools-layers-panel-3d-view)
+## Related Articles
+- [Chrome Net Internals How to Use](/chrome-net-internals-how-to-use)
+- [How to Use Chrome Net Internals to Clear DNS Cache](/chrome-net-internals-dns-clear-cache)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

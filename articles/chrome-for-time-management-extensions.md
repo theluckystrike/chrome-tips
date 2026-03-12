@@ -65,7 +65,7 @@ As you become comfortable with your initial tools, you can gradually add more ex
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Email Management](/best-chrome-extensions-for-email-management)
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-- [Chrome Extensions For Bibliography Management](/chrome-extensions-for-bibliography-management)
+## Related Articles
+- [Chrome for Bibliography Management Extensions](/chrome-for-bibliography-management-extensions)
+- [Chrome Extensions for Time Tracking](/chrome-extensions-for-time-tracking)
+- [Chrome Extensions for Translation Real Time](/chrome-extensions-for-translation-real-time)

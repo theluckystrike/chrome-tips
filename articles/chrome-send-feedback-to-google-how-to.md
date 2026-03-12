@@ -77,7 +77,7 @@ You can check for updates by going to the Chrome menu, clicking on "Help", and s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Google Lens Integration How To Use](/chrome-google-lens-integration-how-to-use)
-- [Chrome Offline Google Docs How To Enable](/chrome-offline-google-docs-how-to-enable)
-- [Chrome Send To Device Feature How To Use](/chrome-send-to-device-feature-how-to-use)
+## Related Articles
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
+- [Chrome Offline Google Calendar](/chrome-offline-google-calendar)

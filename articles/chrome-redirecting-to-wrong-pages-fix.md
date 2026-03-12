@@ -80,9 +80,9 @@ Consider using an extension that helps manage your tabs and browser behavior. Ta
 
 
 
-### Related Articles
-- [Chrome Autocomplete Wrong Suggestions How To Fix](/chrome-autocomplete-wrong-suggestions-how-to-fix)
-- [Chrome Autofill Wrong Address How To Fix](/chrome-autofill-wrong-address-how-to-fix)
-- [Chrome Bookmark Bar Disappeared How To Fix](/chrome-bookmark-bar-disappeared-how-to-fix)
+## Related Articles
+- [Chrome Spell Check Wrong Language Fix](/chrome-spell-check-wrong-language-fix)
+- [Chrome Autofill Wrong Address How to Fix](/chrome-autofill-wrong-address-how-to-fix)
+- [Chrome Autocomplete Wrong Suggestions How to Fix](/chrome-autocomplete-wrong-suggestions-how-to-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

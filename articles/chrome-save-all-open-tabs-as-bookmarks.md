@@ -80,9 +80,9 @@ Finally, take time periodically to clean up old bookmark folders. Go through you
 
 
 
-### Related Articles
-- [Chrome Save Open Tabs As Bookmarks All At Once](/chrome-save-open-tabs-as-bookmarks-all-at-once)
-- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
-- [Chrome Lost All My Tabs Update Fix](/chrome-lost-all-my-tabs-update-fix)
+## Related Articles
+- [Chrome Save Open Tabs as Bookmarks All at Once](/chrome-save-open-tabs-as-bookmarks-all-at-once)
+- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
+- [How to Save Chrome Tabs for Later](/how-to-save-chrome-tabs-for-later)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

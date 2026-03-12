@@ -115,9 +115,9 @@ In 2026, passkey support has reached the point where most users can realisticall
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Passkeys Setup Guide 2026](/chrome-passkeys-setup-guide-2026)
-- [Chrome Privacy Settings Complete Guide 2026](/chrome-privacy-settings-complete-guide-2026)
-- [Best Ad Blocker Chrome Extension 2026](/best-ad-blocker-chrome-extension-2026)
+- [chrome privacy settings complete guide 2026](/chrome-privacy-settings-complete-guide-2026)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

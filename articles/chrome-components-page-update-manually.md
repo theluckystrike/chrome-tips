@@ -68,7 +68,7 @@ Keeping your Chrome components updated is a simple maintenance task that can pre
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome About Blank Page What It Means](/chrome-about-blank-page-what-it-means)
-- [Chrome Audit Page Seo How To](/chrome-audit-page-seo-how-to)
-- [Chrome Auto Update Disable Windows Guide](/chrome-auto-update-disable-windows-guide)
+## Related Articles
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)

@@ -66,7 +66,7 @@ Making Chrome your default browser on Windows 11 is a straightforward process th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Set Chrome As Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
-- [Chrome Default Browser How To Set On Windows](/chrome-default-browser-how-to-set-on-windows)
-- [Chrome Default Browser How To Set Windows Mac](/chrome-default-browser-how-to-set-windows-mac)
+## Related Articles
+- [how to make chrome default browser mac](/how-to-make-chrome-default-browser-mac)
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
+- [chrome default browser how to set on windows](/chrome-default-browser-how-to-set-on-windows)

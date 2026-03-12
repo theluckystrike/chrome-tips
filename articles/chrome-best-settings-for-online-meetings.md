@@ -14,7 +14,7 @@ tags:
 - chrome-settings
 - bandwidth
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-best-settings-for-online-meetings
 ---
 # Chrome Best Settings for Online Meetings
@@ -74,7 +74,7 @@ Most meeting problems stem from Chrome using too many resources or competing for
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome For Online Exams Best Settings](/chrome-for-online-exams-best-settings)
-- [Chrome For Quickbooks Online Best Settings](/chrome-for-quickbooks-online-best-settings)
-- [Best Chrome Extensions For Online Sellers](/best-chrome-extensions-for-online-sellers)
+## Related Articles
+- [Chrome for Online Exams Best Settings](/chrome-for-online-exams-best-settings)
+- [Chrome for QuickBooks Online Best Settings](/chrome-for-quickbooks-online-best-settings)
+- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)

@@ -164,9 +164,9 @@ If you've tried everything and ChatGPT is still slow, the issue might be on Open
 
 
 
-### Related Articles
-- [Chrome Android App Running Slow Fix](/chrome-android-app-running-slow-fix)
-- [Chrome Android Slow Fix 2026](/chrome-android-slow-fix-2026)
+## Related Articles
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
 - [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

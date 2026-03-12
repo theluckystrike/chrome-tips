@@ -93,9 +93,9 @@ Whether you stick with the built-in Memory Saver Mode or enhance it with tools l
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
-- [Chrome Memory Saver Mode How To Use](/chrome-memory-saver-mode-how-to-use)
-- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
+- [Chrome Memory Saver Mode How to Use](/chrome-memory-saver-mode-how-to-use)
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

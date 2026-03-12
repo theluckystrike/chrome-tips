@@ -15,7 +15,7 @@ tags:
 - high-contrast
 - keyboard-navigation
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-accessibility-features-you-didnt-know-about
 ---
 # Chrome Accessibility Features You Didn't Know About
@@ -102,7 +102,7 @@ By taking advantage of these built-in features, you can tailor your browsing exp
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
+## Related Articles
 - [Chrome Android Gestures You Didnt Know About](/chrome-android-gestures-you-didnt-know-about)
-- [Chrome Address Bar Commands You Didnt Know](/chrome-address-bar-commands-you-didnt-know)
-- [Chrome Address Bar Shortcuts You Didnt Know](/chrome-address-bar-shortcuts-you-didnt-know)
+- [chrome fledge api what advertisers know about you](/chrome-fledge-api-what-advertisers-know-about-you)
+- [Chrome Address Bar Shortcuts You Didn't Know](/chrome-address-bar-shortcuts-you-didnt-know)

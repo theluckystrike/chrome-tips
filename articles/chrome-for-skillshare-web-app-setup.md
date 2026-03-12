@@ -105,7 +105,7 @@ By following these tips, you can enjoy your Skillshare classes with fewer interr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Anydo Web App Setup](/chrome-for-anydo-web-app-setup)
-- [Chrome For Uber Web App Setup](/chrome-for-uber-web-app-setup)
-- [Chrome For Anki Web Flashcards Setup](/chrome-for-anki-web-flashcards-setup)
+## Related Articles
+- [chrome for any.do web app setup](/chrome-for-anydo-web-app-setup)
+- [chrome for uber web app setup](/chrome-for-uber-web-app-setup)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)

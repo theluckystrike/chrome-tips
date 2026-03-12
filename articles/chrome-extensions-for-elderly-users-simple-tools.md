@@ -82,7 +82,7 @@ Everyone deserves to use the internet comfortably, regardless of age or technica
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Reddit Users](/best-chrome-extensions-for-reddit-users)
-- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
-- [Chrome Extensions For Api Testing Simple](/chrome-extensions-for-api-testing-simple)
+## Related Articles
+- [Best Chrome Extensions for Reddit Users](/best-chrome-extensions-for-reddit-users)
+- [best chrome extensions for youtube power users](/best-chrome-extensions-for-youtube-power-users)
+- [Chrome Extensions for Web Development Tools](/chrome-extensions-for-web-development-tools)

@@ -96,7 +96,7 @@ With these simple habits, you can keep your Chromebook running smoothly for year
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Slow On School Laptop How To Fix](/chrome-slow-on-school-laptop-how-to-fix)
-- [My Computer Is So Slow How To Fix Chrome](/my-computer-is-so-slow-how-to-fix-chrome)
-- [Chrome Android App Running Slow Fix](/chrome-android-app-running-slow-fix)
+## Related Articles
+- [Chrome Android App Running Slow Fix: Practical Solutions That Actually Work](/chrome-android-app-running-slow-fix)
+- [Chrome Slow on Chromebook? Here's How to Fix It](/chrome-slow-on-chromebook-fix)
+- [Chrome Figma Running Slow Fix: A Practical Guide](/chrome-figma-running-slow-fix)

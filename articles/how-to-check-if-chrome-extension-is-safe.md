@@ -89,7 +89,7 @@ Taking a thoughtful approach to the extensions you use does not mean you have to
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Check If Chrome Extension Is Spying On Me](/how-to-check-if-chrome-extension-is-spying-on-me)
-- [How To Check If Chrome Is Up To Date](/how-to-check-if-chrome-is-up-to-date)
-- [Chrome Safe Browsing On Phone How To Check](/chrome-safe-browsing-on-phone-how-to-check)
+## Related Articles
+- [How to Check If Chrome Extension Is Spying on Me](/how-to-check-if-chrome-extension-is-spying-on-me)
+- [Chrome Safe Browsing on Phone How to Check](/chrome-safe-browsing-on-phone-how-to-check)
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)

@@ -71,9 +71,9 @@ By understanding what causes Chrome to use excessive CPU and taking these steps,
 
 
 
-### Related Articles
-- [Chrome Blurry Text Fix Windows](/chrome-blurry-text-fix-windows)
-- [Chrome Downloads Stuck At 100 Percent](/chrome-downloads-stuck-at-100-percent)
-- [Chrome Gpu Process High Cpu Fix](/chrome-gpu-process-high-cpu-fix)
+## Related Articles
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
+- [Chrome Service Worker High CPU Fix](/chrome-service-worker-high-cpu-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

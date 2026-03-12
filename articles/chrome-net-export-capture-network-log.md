@@ -92,9 +92,9 @@ For ongoing browser optimization, remember that managing your tabs efficiently c
 
 
 
-### Related Articles
-- [Chrome Cache First Vs Network First Strategy](/chrome-cache-first-vs-network-first-strategy)
-- [Chrome Err Network Changed Fix](/chrome-err-network-changed-fix)
-- [Chrome Logpoints Debug Without Console Log](/chrome-logpoints-debug-without-console-log)
+## Related Articles
+- [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
+- [chrome network throttling test slow connection](/chrome-network-throttling-test-slow-connection)
+- [Chrome ERR_NETWORK_CHANGED Fix](/chrome-err-network-changed-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

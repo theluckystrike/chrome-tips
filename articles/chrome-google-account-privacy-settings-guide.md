@@ -71,9 +71,9 @@ By regularly reviewing and adjusting these settings, you can enjoy Chrome's powe
 
 
 
-### Related Articles
-- [Chrome Privacy Settings Complete Guide 2026](/chrome-privacy-settings-complete-guide-2026)
-- [Best Privacy Settings For Chrome 2026](/best-privacy-settings-for-chrome-2026)
-- [Chrome Accessibility On Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)
+## Related Articles
+- [chrome privacy settings complete guide 2026](/chrome-privacy-settings-complete-guide-2026)
+- [Chrome DNS Settings How to Change for Privacy](/chrome-dns-settings-how-to-change-for-privacy)
+- [Chrome Proxy Settings Guide](/chrome-proxy-settings-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

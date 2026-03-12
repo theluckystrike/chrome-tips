@@ -131,9 +131,9 @@ Try implementing these changes one at a time to see what works best for your spe
 
 
 
-### Related Articles
-- [Chrome Data Saver Mode Is It Still Available](/chrome-data-saver-mode-is-it-still-available)
+## Related Articles
 - [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
-- [Chrome Incognito Mode What It Actually Does](/chrome-incognito-mode-what-it-actually-does)
+- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
+- [chrome data saver mode is it still available](/chrome-data-saver-mode-is-it-still-available)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

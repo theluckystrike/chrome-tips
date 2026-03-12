@@ -95,9 +95,9 @@ Most of the time, these solutions will get your tabs loading quickly again witho
 
 
 
-### Related Articles
-- [Chrome Takes Forever To Load Pages](/chrome-takes-forever-to-load-pages)
-- [Chrome Taking 5 Minutes To Load](/chrome-taking-5-minutes-to-load)
-- [Best Way To Organize Chrome Tabs](/best-way-to-organize-chrome-tabs)
+## Related Articles
+- [Chrome Print Preview Taking Forever: Practical Solutions](/chrome-print-preview-taking-forever)
+- [Chrome Takes Forever to Load Pages](/chrome-takes-forever-to-load-pages)
+- [Chrome Taking 5 Minutes to Load: Fixes for Slow Computers](/chrome-taking-5-minutes-to-load)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

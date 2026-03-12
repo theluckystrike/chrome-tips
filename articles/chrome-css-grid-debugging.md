@@ -107,9 +107,9 @@ Remember that effective debugging is not just about finding problems but also un
 
 
 
-### Related Articles
-- [Chrome Css Grid Layout Complete Guide](/chrome-css-grid-layout-complete-guide)
-- [Chrome Gap Property Css Flexbox Grid](/chrome-gap-property-css-flexbox-grid)
-- [Chrome Anchor Positioning Css](/chrome-anchor-positioning-css)
+## Related Articles
+- [Chrome CSS Grid Layout Complete Guide](/chrome-css-grid-layout-complete-guide)
+- [Chrome Gap Property CSS Flexbox Grid](/chrome-gap-property-css-flexbox-grid)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

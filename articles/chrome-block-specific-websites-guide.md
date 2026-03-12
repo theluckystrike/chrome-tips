@@ -12,7 +12,7 @@ tags:
 - chrome-settings
 - focus
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-block-specific-websites-guide
 ---
 # Chrome Block Specific Websites Guide
@@ -140,9 +140,9 @@ Take a few minutes to set up your preferred method, and enjoy the freedom of a m
 
 
 
-### Related Articles
-- [Chrome How To Block Specific Website Notifications](/chrome-how-to-block-specific-website-notifications)
-- [How To Block Websites On Chrome](/how-to-block-websites-on-chrome)
-- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
+## Related Articles
+- [How to Block Websites on Chrome](/how-to-block-websites-on-chrome)
+- [chrome how to block specific website notifications](/chrome-how-to-block-specific-website-notifications)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

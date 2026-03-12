@@ -86,7 +86,7 @@ Understanding what Chrome Safe Browsing sends to Google empowers you to make cho
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Guest Browsing What Data Is Saved](/chrome-guest-browsing-what-data-is-saved)
-- [Chrome Safe Browsing What It Does](/chrome-safe-browsing-what-it-does)
-- [Chrome Telemetry What Data Google Collects](/chrome-telemetry-what-data-google-collects)
+## Related Articles
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
+- [How to Sign Out of Google in Chrome Without Losing Your Data](/chrome-sign-out-of-google-without-losing-data)
+- [Chrome for Clearing Browsing Data Automatically](/chrome-for-clearing-browsing-data-automatically)

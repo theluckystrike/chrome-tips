@@ -68,10 +68,10 @@ This is where **Tab Suspender Pro** becomes an essential tool. It automatically 
 
 
 
-### Related Articles
-- [Chrome Site Permissions How To Manage](/chrome-site-permissions-how-to-manage)
-- [Chrome Notifications For One Site How To Manage](/chrome-notifications-for-one-site-how-to-manage)
-- [Chrome Permissions On Android How To Manage](/chrome-permissions-on-android-how-to-manage)
+## Related Articles
+- [Chrome Site Permissions How to Manage](/chrome-site-permissions-how-to-manage)
+- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
+- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

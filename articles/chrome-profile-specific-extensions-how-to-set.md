@@ -58,9 +58,9 @@ Finally, remember that your needs might change over time. What works for you now
 
 
 
-### Related Articles
-- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)
-- [Chrome Camera Permission For One Site How To Set](/chrome-camera-permission-for-one-site-how-to-set)
-- [Chrome Cast To Tv How To Set Up](/chrome-cast-to-tv-how-to-set-up)
+## Related Articles
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

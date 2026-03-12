@@ -85,7 +85,7 @@ Give these tips a try and see which ones work best for your situation. Everyone'
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Classroom Integration Tips For Teachers](/chrome-classroom-integration-tips-for-teachers)
-- [Chrome Extensions For Google Classroom](/chrome-extensions-for-google-classroom)
-- [Chrome For Google Ads Management Tips](/chrome-for-google-ads-management-tips)
+## Related Articles
+- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
+- [chrome for google translate extension tips](/chrome-for-google-translate-extension-tips)
+- [chrome classroom integration tips for teachers](/chrome-classroom-integration-tips-for-teachers)

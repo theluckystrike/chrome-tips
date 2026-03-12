@@ -75,7 +75,7 @@ Also, remember that Gemini can work across different websites and services. You 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Google Lens Integration How To Use](/chrome-google-lens-integration-how-to-use)
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Ai Theme Generator How To Use](/chrome-ai-theme-generator-how-to-use)
+## Related Articles
+- [chrome google lens integration how to use](/chrome-google-lens-integration-how-to-use)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)

@@ -64,7 +64,7 @@ Modern Chrome is pretty good at making these decisions automatically. The browse
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Cookies Vs Cache Difference Explained](/chrome-cookies-vs-cache-difference-explained)
-- [Chrome First Party Vs Third Party Cookies](/chrome-first-party-vs-third-party-cookies)
-- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
+## Related Articles
+- [Chrome HTTPS First Mode Guide](/chrome-https-first-mode)
+- [How to Increase Chrome Cache Size](/chrome-cache-size-how-to-increase)
+- [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)

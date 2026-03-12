@@ -57,7 +57,7 @@ Start by creating a few folders that match your browsing habits, move your exist
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Bookmarks Disappeared How To Recover](/chrome-bookmarks-disappeared-how-to-recover)
-- [Chrome Sidebar Bookmarks How To Enable](/chrome-sidebar-bookmarks-how-to-enable)
-- [How To Backup Chrome Bookmarks And Passwords](/how-to-backup-chrome-bookmarks-and-passwords)
+## Related Articles
+- [chrome bookmarks organize best system](/chrome-bookmarks-organize-best-system)
+- [chrome extensions for one click bookmark folders](/chrome-extensions-for-one-click-bookmark-folders)
+- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)

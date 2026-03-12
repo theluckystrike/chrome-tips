@@ -163,9 +163,9 @@ For the best browsing experience, combine hardware acceleration with smart tab m
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Hardware Acceleration Causes Problems](/chrome-hardware-acceleration-causes-problems)
-- [Chrome Hardware Acceleration Gaming](/chrome-hardware-acceleration-gaming)
 - [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
+- [Chrome Hardware Acceleration Should I Turn On or Off](/chrome-hardware-acceleration-should-i-turn-on-or-off)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

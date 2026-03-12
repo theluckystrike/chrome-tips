@@ -75,9 +75,9 @@ These small changes can make a big difference in how your MacBook Air performs. 
 
 
 
-### Related Articles
-- [Chrome Extension Using Too Much Memory Find](/chrome-extension-using-too-much-memory-find)
+## Related Articles
+- [Chrome Tabs Using Too Much Memory Which One](/chrome-tabs-using-too-much-memory-which-one)
+- [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/chrome-extension-using-too-much-memory-find)
 - [Chrome Extensions Using Too Much Memory](/chrome-extensions-using-too-much-memory)
-- [Chrome Network Process Using Too Much Memory](/chrome-network-process-using-too-much-memory)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

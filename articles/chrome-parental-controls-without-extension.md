@@ -71,9 +71,9 @@ No single solution is perfect, and every family needs to find the right balance 
 
 
 
-### Related Articles
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Extension For Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
-- [Chrome Parental Controls How To Set Up](/chrome-parental-controls-how-to-set-up)
+## Related Articles
+- [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
+- [Chrome Parental Controls — How to Set Up for Your Kids](/chrome-parental-controls-how-to-set-up)
+- [How to Take Screenshot in Chrome Without Extension](/how-to-take-screenshot-in-chrome-without-extension)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

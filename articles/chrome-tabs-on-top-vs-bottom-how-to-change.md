@@ -59,9 +59,9 @@ If you find that you genuinely cannot live with the current layout and the exper
 
 
 
-### Related Articles
-- [Chrome Opens Old Tabs On Startup How To Stop](/chrome-opens-old-tabs-on-startup-how-to-stop)
-- [Chrome Text Size On Phone How To Change](/chrome-text-size-on-phone-how-to-change)
-- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
+## Related Articles
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

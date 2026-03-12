@@ -13,7 +13,7 @@ tags:
 - content-filtering
 - chrome-for-families
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-block-inappropriate-content-for-kids
 ---
 # Chrome Block Inappropriate Content for Kids
@@ -87,7 +87,7 @@ Remember that no filter is 100 percent effective. The best protection comes from
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Best Chrome Extensions For Content Creators](/best-chrome-extensions-for-content-creators)
-- [Chrome Content Filtering For Families](/chrome-content-filtering-for-families)
-- [Chrome Extension For Focus Mode Block Distractions](/chrome-extension-for-focus-mode-block-distractions)
+## Related Articles
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+- [Chrome Supervised Profiles for Kids](/chrome-supervised-user-profile-for-kids)
+- [How to Fix Chrome Mixed Content Warning](/chrome-mixed-content-warning-fix)

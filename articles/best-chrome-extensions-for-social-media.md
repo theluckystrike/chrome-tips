@@ -14,7 +14,7 @@ tags:
 - productivity
 - browser-tools
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: best-chrome-extensions-for-social-media
 ---
 # Best Chrome Extensions for Social Media
@@ -91,9 +91,9 @@ You do not need to install every extension mentioned here. Start with one or two
 
 
 
-### Related Articles
-- [Chrome Extensions For Social Media Managers](/chrome-extensions-for-social-media-managers)
-- [Chrome Extensions For Social Media Scheduler](/chrome-extensions-for-social-media-scheduler)
-- [Chrome Extensions For Social Media Scheduling](/chrome-extensions-for-social-media-scheduling)
+## Related Articles
+- [Chrome Extensions for Social Media Managers](/chrome-extensions-for-social-media-managers)
+- [Chrome Extensions for Social Media Scheduling](/chrome-extensions-for-social-media-scheduling)
+- [Chrome for Social Media Management Extensions](/chrome-for-social-media-management-extensions)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

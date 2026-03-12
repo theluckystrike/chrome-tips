@@ -54,7 +54,7 @@ Regardless of which extension you choose, keeping too many saved pages and activ
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Grammar Check Free Alternative](/chrome-extensions-for-grammar-check-free-alternative)
-- [Chrome Extensions For Grammarly Alternative Free](/chrome-extensions-for-grammarly-alternative-free)
-- [Chrome Extensions For Imacros Alternative](/chrome-extensions-for-imacros-alternative)
+## Related Articles
+- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative)
+- [chrome extensions for whatfont alternative](/chrome-extensions-for-whatfont-alternative)
+- [chrome extensions for privacy badger alternative](/chrome-extensions-for-privacy-badger-alternative)

@@ -56,7 +56,7 @@ Small adjustments to how you use Chrome can make a big difference in how your co
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Why Does Chrome Use So Much Cpu](/why-does-chrome-use-so-much-cpu)
-- [Why Is Chrome Using So Much Memory](/why-is-chrome-using-so-much-memory)
-- [Chrome Tab Using 1Gb Memory Why](/chrome-tab-using-1gb-memory-why)
+## Related Articles
+- [Why Does Chrome Use So Much CPU](/why-does-chrome-use-so-much-cpu)
+- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
+- [Chrome Memory Inspector How to Use](/chrome-memory-inspector-how-to-use)

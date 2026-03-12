@@ -58,7 +58,7 @@ Extensions like Tab Suspender Pro and others in the Chrome Web Store make this p
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-- [Chrome Extensions For Auto Tab Closer](/chrome-extensions-for-auto-tab-closer)
-- [Chrome Extensions For Coupon Finder Automatic](/chrome-extensions-for-coupon-finder-automatic)
+## Related Articles
+- [Chrome Extensions for Hotel Deal Finder](/chrome-extensions-for-hotel-deal-finder)
+- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
+- [Chrome Extensions for Workona Tab Manager](/chrome-extensions-for-workona-tab-manager)

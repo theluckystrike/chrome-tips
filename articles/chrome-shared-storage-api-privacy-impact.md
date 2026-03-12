@@ -65,10 +65,10 @@ Using **Tab Suspender Pro** is an excellent way to balance this. It automaticall
 
 
 
-### Related Articles
-- [Chrome Shared Storage Api Privacy Ads](/chrome-shared-storage-api-privacy-ads)
-- [Chrome Shared Storage Api Explained](/chrome-shared-storage-api-explained)
-- [Chrome Topics Api Privacy Sandbox Explained](/chrome-topics-api-privacy-sandbox-explained)
+## Related Articles
+- [chrome shared storage api privacy ads](/chrome-shared-storage-api-privacy-ads)
+- [Chrome Shared Storage API Explained](/chrome-shared-storage-api-explained)
+- [chrome topics api privacy sandbox explained](/chrome-topics-api-privacy-sandbox-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

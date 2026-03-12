@@ -58,7 +58,7 @@ Once you install an extension, make a habit of adding a note whenever you open a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-- [Chrome Extensions For Auto Tab Closer](/chrome-extensions-for-auto-tab-closer)
-- [Chrome Extensions For Duplicate Tab Finder](/chrome-extensions-for-duplicate-tab-finder)
+## Related Articles
+- [Chrome Extensions for Meeting Notes](/chrome-extensions-for-meeting-notes)
+- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
+- [Chrome Extensions for Workona Tab Manager](/chrome-extensions-for-workona-tab-manager)

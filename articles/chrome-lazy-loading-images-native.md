@@ -88,7 +88,7 @@ Whether you are a website owner looking to improve your search rankings or a dev
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Lazy Loading Images Explained](/chrome-lazy-loading-images-explained)
 - [Chrome Lazy Loading Images How It Works](/chrome-lazy-loading-images-how-it-works)
 - [Chrome Images Not Loading Fix](/chrome-images-not-loading-fix)

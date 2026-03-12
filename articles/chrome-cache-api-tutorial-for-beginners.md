@@ -70,7 +70,7 @@ Next time a page loads quickly, you will know it is thanks to the Chrome Cache A
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Inspect Element Tutorial For Beginners](/chrome-inspect-element-tutorial-for-beginners)
-- [Chrome Web Gpu Api Explained For Beginners](/chrome-web-gpu-api-explained-for-beginners)
-- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)
+## Related Articles
+- [Chrome Inspect Element Tutorial for Beginners](/chrome-inspect-element-tutorial-for-beginners)
+- [chrome web serial api for beginners](/chrome-web-serial-api-for-beginners)
+- [Chrome Web GPU API Explained for Beginners](/chrome-web-gpu-api-explained-for-beginners)

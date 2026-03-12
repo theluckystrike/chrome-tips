@@ -83,9 +83,9 @@ If an extension is causing problems, try disabling it temporarily. Some extensio
 
 
 
-### Related Articles
-- [Chrome Circle To Search On Desktop](/chrome-circle-to-search-on-desktop)
-- [Chrome Voice Search How To Use On Desktop](/chrome-voice-search-how-to-use-on-desktop)
-- [Chrome Desktop Mode On Phone How To Use](/chrome-desktop-mode-on-phone-how-to-use)
+## Related Articles
+- [chrome circle to search on desktop](/chrome-circle-to-search-on-desktop)
+- [chrome voice search how to use on desktop](/chrome-voice-search-how-to-use-on-desktop)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

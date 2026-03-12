@@ -99,9 +99,9 @@ Remember that your computer's limited RAM does not mean you cannot have a good b
 
 
 
-### Related Articles
-- [Chrome Command Line Flags For Low Memory](/chrome-command-line-flags-for-low-memory)
-- [Chrome Crashing On Iphone Fix](/chrome-crashing-on-iphone-fix)
-- [Chrome Crashing On Samsung Galaxy Phone](/chrome-crashing-on-samsung-galaxy-phone)
+## Related Articles
+- [Chrome Command Line Flags for Low Memory: A Practical Guide](/chrome-command-line-flags-for-low-memory)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

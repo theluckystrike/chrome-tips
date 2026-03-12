@@ -67,9 +67,9 @@ Understanding the root cause of your chrome extensions disabled by administrator
 
 
 
-### Related Articles
-- [Chrome Err Blocked By Client Fix](/chrome-err-blocked-by-client-fix)
-- [Chrome Extensions Conflict With Each Other Fix](/chrome-extensions-conflict-with-each-other-fix)
+## Related Articles
 - [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
+- [Chrome Extensions Keep Disabling Themselves Fix](/chrome-extensions-keep-disabling-themselves-fix)
+- [Chrome WebStore Extensions Not Installing Fix](/chrome-webstore-extensions-not-installing-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

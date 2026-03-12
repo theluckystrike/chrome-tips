@@ -67,9 +67,9 @@ For most people, the best approach is to start with what is already there, optim
 
 
 
-### Related Articles
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Autofill On Phone How To Manage](/chrome-autofill-on-phone-how-to-manage)
-- [Chrome Camera Access On Phone How To Manage](/chrome-camera-access-on-phone-how-to-manage)
+## Related Articles
+- [chrome install as app pwa how to](/chrome-install-as-app-pwa-how-to)
+- [Chrome Wont Install on Windows 11 Fix](/chrome-wont-install-on-windows-11-fix)
+- [Chrome PWA Install Prompt Not Showing Fix](/chrome-pwa-install-prompt-not-showing-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

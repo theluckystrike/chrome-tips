@@ -175,9 +175,9 @@ Start experimenting with your own side panel extension today, and remember to te
 
 
 
-### Related Articles
-- [Chrome Extension Popup Page Tutorial](/chrome-extension-popup-page-tutorial)
-- [Chrome Side Panel Customization](/chrome-side-panel-customization)
+## Related Articles
+- [chrome side panel features you missed](/chrome-side-panel-features-you-missed)
+- [Chrome Side Panel Extensions Worth Using](/chrome-side-panel-extensions-worth-using)
 - [Chrome Side Panel Extensions Best Ones](/chrome-side-panel-extensions-best-ones)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

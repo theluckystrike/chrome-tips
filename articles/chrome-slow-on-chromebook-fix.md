@@ -89,10 +89,10 @@ It works by "hibernating" tabs you haven't looked at in a while, effectively fre
 
 
 
-### Related Articles
-- [Chrome Slow On Android Fix](/chrome-slow-on-android-fix)
-- [Chrome Slow On Ipad Fix 2026](/chrome-slow-on-ipad-fix-2026)
-- [Chrome Slow On Old Macbook Fix](/chrome-slow-on-old-macbook-fix)
+## Related Articles
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

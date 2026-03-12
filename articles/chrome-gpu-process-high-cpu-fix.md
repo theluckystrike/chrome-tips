@@ -63,9 +63,9 @@ The chrome gpu process high cpu fix requires patience and systematic troubleshoo
 
 
 
-### Related Articles
-- [Chrome Gpu Process High Memory Fix](/chrome-gpu-process-high-memory-fix)
-- [Chrome Network Process High Cpu Fix](/chrome-network-process-high-cpu-fix)
-- [Chrome Helper Renderer High Cpu Mac Fix](/chrome-helper-renderer-high-cpu-mac-fix)
+## Related Articles
+- [Chrome GPU Process High Memory Fix](/chrome-gpu-process-high-memory-fix)
+- [Chrome Network Process High CPU Fix](/chrome-network-process-high-cpu-fix)
+- [Chrome Service Worker High CPU Fix](/chrome-service-worker-high-cpu-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

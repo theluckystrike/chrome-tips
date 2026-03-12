@@ -67,7 +67,7 @@ Start with the simpler fixes like closing tabs and updating drivers, then move o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome Benchmark Score What It Means](/chrome-benchmark-score-what-it-means)
-- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
-- [Are Chrome Extensions Safe To Use](/are-chrome-extensions-safe-to-use)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

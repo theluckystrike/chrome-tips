@@ -59,7 +59,7 @@ The important thing to remember is that Chrome zoom too big how to fix is usuall
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
-- [Chrome Autocomplete Wrong Suggestions How To Fix](/chrome-autocomplete-wrong-suggestions-how-to-fix)
-- [Chrome Autofill Wrong Address How To Fix](/chrome-autofill-wrong-address-how-to-fix)
+## Related Articles
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Font Too Small on Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
+- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/chrome-err-too-many-redirects-cookie-fix)

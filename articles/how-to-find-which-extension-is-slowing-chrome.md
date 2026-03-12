@@ -103,9 +103,9 @@ Take a few minutes to review your extensions today. Remove the ones you do not n
 
 
 
-### Related Articles
-- [Chrome Which Tab Is Using Most Cpu How To Find](/chrome-which-tab-is-using-most-cpu-how-to-find)
-- [How To Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
-- [How To Check If Chrome Extension Is Spying On Me](/how-to-check-if-chrome-extension-is-spying-on-me)
+## Related Articles
+- [Chrome Which Tab Is Using Most CPU How to Find](/chrome-which-tab-is-using-most-cpu-how-to-find)
+- [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/chrome-extension-using-too-much-memory-find)
+- [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/chrome-grammarly-extension-slowing-browser)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

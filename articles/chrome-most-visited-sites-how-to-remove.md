@@ -76,7 +76,7 @@ Remember that you do not have to accept Chrome's default behavior. With a few tw
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Autofill Credit Card How To Remove](/chrome-autofill-credit-card-how-to-remove)
-- [Chrome How To Add Trusted Sites](/chrome-how-to-add-trusted-sites)
-- [Chrome Payment Methods How To Remove](/chrome-payment-methods-how-to-remove)
+## Related Articles
+- [Chrome Mobile Dark Mode Force on All Sites](/chrome-mobile-dark-mode-force-on-all-sites)
+- [Why Is Chrome Still the Most Popular Browser in 2026?](/why-is-chrome-still-most-popular-browser)
+- [How to Remove Chrome Malware](/how-to-remove-chrome-malware)

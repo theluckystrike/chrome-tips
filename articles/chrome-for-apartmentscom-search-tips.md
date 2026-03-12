@@ -35,7 +35,7 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Classroom Integration Tips For Teachers](/chrome-classroom-integration-tips-for-teachers)
-- [Chrome Extensions For Image Reverse Search](/chrome-extensions-for-image-reverse-search)
-- [Chrome Extensions For Reverse Video Search](/chrome-extensions-for-reverse-video-search)
+## Related Articles
+- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)

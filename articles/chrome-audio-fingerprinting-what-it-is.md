@@ -14,7 +14,7 @@ tags:
 - privacy
 - browser-security
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-audio-fingerprinting-what-it-is
 ---
 # Chrome Audio Fingerprinting What It Is
@@ -80,7 +80,7 @@ Taking small, consistent steps to protect your privacy adds up over time. Using 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)
-- [Chrome Headless Mode What It Is](/chrome-headless-mode-what-it-is)
-- [Chrome Secure Dns What It Is And How To Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)
+## Related Articles
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+- [chrome fingerprinting protection explained](/chrome-fingerprinting-protection-explained)
+- [Chrome Audio Equalizer Extension](/chrome-audio-equalizer-extension)

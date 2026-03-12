@@ -67,7 +67,7 @@ Many people do not realize how much data accumulates until they check. Going thr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Autofill Suggestions How To Delete One](/chrome-autofill-suggestions-how-to-delete-one)
-- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
-- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
+## Related Articles
+- [Chrome for Clearing Browsing Data Automatically](/chrome-for-clearing-browsing-data-automatically)
+- [Chrome Guest Browsing: What Data Is Saved](/chrome-guest-browsing-what-data-is-saved)
+- [Chrome Clear Browsing Data Shortcut](/chrome-clear-browsing-data-shortcut)

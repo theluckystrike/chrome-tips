@@ -74,7 +74,7 @@ Pinning websites to your taskbar is a small change that can make a big differenc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Check Website Speed In Chrome](/how-to-check-website-speed-in-chrome)
-- [How To Find A Specific Tab In Chrome](/how-to-find-a-specific-tab-in-chrome)
-- [Chrome Auto Sign In To Websites How To Control](/chrome-auto-sign-in-to-websites-how-to-control)
+## Related Articles
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)

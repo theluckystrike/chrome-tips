@@ -72,7 +72,7 @@ Medium has a wealth of great articles waiting to be read. With the right Chrome 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Reading Articles](/best-chrome-extensions-for-reading-articles)
-- [Chrome For Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome for Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)
+- [Chrome Extensions for Speed Reading](/chrome-extensions-for-speed-reading)
+- [Chrome Reading Mode vs Reader View Extensions](/chrome-reading-mode-vs-reader-view-extensions)

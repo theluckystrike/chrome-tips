@@ -81,9 +81,9 @@ Your privacy is worth the small amount of time it takes to understand these sett
 
 
 
-### Related Articles
-- [Chrome Privacy Sandbox Explained For Users](/chrome-privacy-sandbox-explained-for-users)
+## Related Articles
 - [Chrome Sandbox Mode Explained Simply](/chrome-sandbox-mode-explained-simply)
-- [Chrome Topics Api Privacy Sandbox Explained](/chrome-topics-api-privacy-sandbox-explained)
+- [chrome privacy sandbox explained for users](/chrome-privacy-sandbox-explained-for-users)
+- [chrome topics api privacy sandbox explained](/chrome-topics-api-privacy-sandbox-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

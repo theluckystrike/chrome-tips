@@ -16,6 +16,8 @@ tags:
 - browser
 - assistive-technology
 author: theluckystrike
+last_modified_at: 2026-03-12
+permalink: best-chrome-extensions-for-accessibility-needs
 ---
 # Best Chrome Extensions for Accessibility Needs
 
@@ -75,9 +77,9 @@ Accessibility is not a one-size-fits-all solution. What works perfectly for one 
 
 
 
-### Related Articles
-- [Chrome Extensions For Accessibility Needs](/chrome-extensions-for-accessibility-needs)
-- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
-- [Best Chrome Extensions For Amazon Prime Video](/best-chrome-extensions-for-amazon-prime-video)
+## Related Articles
+- [chrome extensions for accessibility needs](/chrome-extensions-for-accessibility-needs)
+- [Chrome for Accessibility Testing Extensions](/chrome-for-accessibility-testing-extensions)
+- [chrome accessibility extensions best 2026](/chrome-accessibility-extensions-best-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

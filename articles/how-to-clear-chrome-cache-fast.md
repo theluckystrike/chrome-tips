@@ -144,9 +144,9 @@ With these techniques in your toolkit, you can keep your Chrome browser running 
 
 
 
-### Related Articles
-- [Chrome How To Clear Dns Cache](/chrome-how-to-clear-dns-cache)
-- [How To Clear Chrome Cache Properly](/how-to-clear-chrome-cache-properly)
-- [Chrome Address Bar Autocomplete How To Clear](/chrome-address-bar-autocomplete-how-to-clear)
+## Related Articles
+- [How Often Should I Clear Chrome Cache](/how-often-should-i-clear-chrome-cache)
+- [Chrome How to Clear DNS Cache](/chrome-how-to-clear-dns-cache)
+- [How to Use Chrome Net Internals to Clear DNS Cache](/chrome-net-internals-dns-clear-cache)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

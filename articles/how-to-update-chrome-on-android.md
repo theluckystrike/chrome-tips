@@ -78,7 +78,7 @@ Make it a habit to check for updates regularly, or let your phone handle it auto
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Permissions On Android How To Manage](/chrome-permissions-on-android-how-to-manage)
-- [How To Block Ads On Chrome Android](/how-to-block-ads-on-chrome-android)
-- [How To Update Chrome On Iphone](/how-to-update-chrome-on-iphone)
+## Related Articles
+- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
+- [Chrome PWA Update Mechanism How It Works](/chrome-pwa-update-mechanism-how-it-works)
+- [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)

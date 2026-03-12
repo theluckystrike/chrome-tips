@@ -79,9 +79,9 @@ Voice search is a powerful, underutilized tool that can change how you interact 
 
 
 
-### Related Articles
-- [Chrome Voice Search How To Use On Desktop](/chrome-voice-search-how-to-use-on-desktop)
-- [Chrome For Voice Search How To Enable](/chrome-for-voice-search-how-to-enable)
-- [Chrome Tab Search Feature How To Use](/chrome-tab-search-feature-how-to-use)
+## Related Articles
+- [chrome voice search how to use on desktop](/chrome-voice-search-how-to-use-on-desktop)
+- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
+- [chrome voice search enable](/chrome-voice-search-enable)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -111,9 +111,9 @@ Consider using a lighter weight browser if Chrome continues to cause problems on
 
 
 
-### Related Articles
-- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
-- [Best Way To Organize Chrome Tabs](/best-way-to-organize-chrome-tabs)
-- [Chrome Address Bar Tips And Tricks](/chrome-address-bar-tips-and-tricks)
+## Related Articles
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

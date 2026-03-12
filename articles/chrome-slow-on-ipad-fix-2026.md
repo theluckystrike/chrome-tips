@@ -92,7 +92,7 @@ If you find yourself frequently dealing with slow browser performance, consider 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome Android Slow Fix 2026](/chrome-android-slow-fix-2026)
-- [Chrome Slow On Android Fix](/chrome-slow-on-android-fix)
-- [Chrome Slow On Chromebook Fix](/chrome-slow-on-chromebook-fix)
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)

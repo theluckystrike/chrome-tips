@@ -67,7 +67,7 @@ Try incorporating a few of these shortcuts into your routine at first, then grad
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Spotify Web Player Enhancement](/chrome-extensions-for-spotify-web-player-enhancement)
-- [Chrome For Spotify Web Player Optimization](/chrome-for-spotify-web-player-optimization)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
+## Related Articles
+- [Chrome for Spotify Web Player Optimization](/chrome-for-spotify-web-player-optimization)
+- [Chrome Spotify Web Player Not Working Fix](/chrome-spotify-web-player-not-working-fix)
+- [Chrome Extensions for Spotify Web Player Enhancement](/chrome-extensions-for-spotify-web-player-enhancement)

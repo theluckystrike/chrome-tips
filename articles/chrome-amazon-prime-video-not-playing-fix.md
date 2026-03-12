@@ -14,7 +14,7 @@ tags:
 - streaming-issues
 - browser-troubleshooting
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-amazon-prime-video-not-playing-fix
 ---
 # Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide
@@ -141,9 +141,9 @@ By keeping your browser and system updated and being mindful of how extensions a
 
 
 
-### Related Articles
-- [Best Chrome Extensions For Amazon Prime Video](/best-chrome-extensions-for-amazon-prime-video)
-- [Chrome For Amazon Prime Video Quality Settings](/chrome-for-amazon-prime-video-quality-settings)
+## Related Articles
 - [Chrome Not Playing Videos Fix](/chrome-not-playing-videos-fix)
+- [Chrome for Amazon Prime Video Quality Settings](/chrome-for-amazon-prime-video-quality-settings)
+- [chrome not playing youtube videos fix](/chrome-not-playing-youtube-videos-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

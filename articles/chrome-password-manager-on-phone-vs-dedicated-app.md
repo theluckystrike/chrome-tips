@@ -62,9 +62,9 @@ The most important thing is that you are using some form of password management 
 
 
 
-### Related Articles
-- [Chrome Bitwarden Vs Chrome Password Manager](/chrome-bitwarden-vs-chrome-password-manager)
-- [Chrome Password Manager Vs Bitwarden](/chrome-password-manager-vs-bitwarden)
+## Related Articles
 - [Best Password Manager Chrome Extension](/best-password-manager-chrome-extension)
+- [Chrome Password Manager Is It Safe Enough](/chrome-password-manager-is-it-safe-enough)
+- [Chrome Password Manager vs Bitwarden: Which One Should You Use?](/chrome-password-manager-vs-bitwarden)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

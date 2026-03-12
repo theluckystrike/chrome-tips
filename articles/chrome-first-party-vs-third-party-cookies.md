@@ -78,7 +78,7 @@ Understanding the difference between chrome first party vs third party cookies e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Third Party Cookies Blocked What It Means](/chrome-third-party-cookies-blocked-what-it-means)
+## Related Articles
 - [Chrome Third Party Cookies What Happens When Blocked](/chrome-third-party-cookies-what-happens-when-blocked)
-- [Chrome Cache First Vs Network First Strategy](/chrome-cache-first-vs-network-first-strategy)
+- [Chrome Third Party Cookies Blocked What It Means](/chrome-third-party-cookies-blocked-what-it-means)
+- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)

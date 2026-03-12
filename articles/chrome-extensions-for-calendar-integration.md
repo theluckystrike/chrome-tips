@@ -77,9 +77,9 @@ With the right chrome extensions for calendar integration, you can spend less ti
 
 
 
-### Related Articles
-- [Chrome Extensions For Google Calendar](/chrome-extensions-for-google-calendar)
-- [Chrome For Calendar Management Extensions](/chrome-for-calendar-management-extensions)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)
+- [Chrome for Calendar Management Extensions](/chrome-for-calendar-management-extensions)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

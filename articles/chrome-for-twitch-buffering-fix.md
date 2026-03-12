@@ -88,7 +88,7 @@ Most people find that one or two of these changes make a big difference. Good lu
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Twitch Streamers](/best-chrome-extensions-for-twitch-streamers)
-- [Chrome Extensions For Twitch Streamers](/chrome-extensions-for-twitch-streamers)
-- [Chrome For Disney Plus Not Working Fix](/chrome-for-disney-plus-not-working-fix)
+## Related Articles
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Chrome Streaming Video Buffering Fix](/chrome-streaming-video-buffering-fix)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)

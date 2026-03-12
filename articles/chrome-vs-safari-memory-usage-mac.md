@@ -75,9 +75,9 @@ Many Mac users find that using both browsers strategically works best. Use Safar
 
 
 
-### Related Articles
+## Related Articles
+- [How to Limit Chrome Memory Usage Mac](/how-to-limit-chrome-memory-usage-mac)
 - [Chrome High Memory Usage Mac Fix](/chrome-high-memory-usage-mac-fix)
-- [Chrome Vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison)
-- [Chrome Vs Firefox Memory Usage 2026 Actual Test](/chrome-vs-firefox-memory-usage-2026-actual-test)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

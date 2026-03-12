@@ -72,10 +72,10 @@ Using **Tab Suspender Pro** is an excellent way to manage this. It automatically
 
 
 
-### Related Articles
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Android Reading List How To Use](/chrome-android-reading-list-how-to-use)
-- [Chrome Mobile Reading List How To Use](/chrome-mobile-reading-list-how-to-use)
+## Related Articles
+- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)
+- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

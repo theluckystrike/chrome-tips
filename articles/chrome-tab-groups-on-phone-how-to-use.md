@@ -51,7 +51,7 @@ Chrome tab groups on phone how to use is something every mobile browser should k
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Desktop Mode On Phone How To Use](/chrome-desktop-mode-on-phone-how-to-use)
-- [Chrome Reading List On Phone How To Use](/chrome-reading-list-on-phone-how-to-use)
-- [Chrome Translate On Phone How To Use](/chrome-translate-on-phone-how-to-use)
+## Related Articles
+- [How to Use Chrome Tab Groups Effectively](/how-to-use-chrome-tab-groups-effectively)
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)
+- [chrome translate on phone how to use](/chrome-translate-on-phone-how-to-use)

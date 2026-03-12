@@ -116,7 +116,7 @@ If the memory stays stable in incognito mode, one of your extensions is likely c
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [How To Stop Chrome From Opening On Startup](/how-to-stop-chrome-from-opening-on-startup)
-- [How To Stop Chrome From Redirecting To Https](/how-to-stop-chrome-from-redirecting-to-https)
-- [How To Stop Chrome From Running In Background](/how-to-stop-chrome-from-running-in-background)
+## Related Articles
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
+- [How to Stop Chrome from Tracking Me](/how-to-stop-chrome-from-tracking-me)
+- [How to Stop Chrome from Redirecting to HTTPS](/how-to-stop-chrome-from-redirecting-to-https)

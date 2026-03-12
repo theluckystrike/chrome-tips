@@ -69,7 +69,7 @@ The flexbox debugger in Chrome DevTools is one of those tools that becomes indis
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Devtools Media Queries Debugger](/chrome-devtools-media-queries-debugger)
+## Related Articles
 - [Chrome Devtools Webauthn Debugger](/chrome-devtools-webauthn-debugger)
-- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
+- [Chrome Devtools Media Queries Debugger](/chrome-devtools-media-queries-debugger)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)

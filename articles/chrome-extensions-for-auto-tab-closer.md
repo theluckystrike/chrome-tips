@@ -77,9 +77,9 @@ Remember that managing tabs is about more than just performance. It is also abou
 
 
 
-### Related Articles
-- [Chrome Extensions For Tab Suspender Auto](/chrome-extensions-for-tab-suspender-auto)
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-- [Chrome Extensions For Auto Page Refresh](/chrome-extensions-for-auto-page-refresh)
+## Related Articles
+- [chrome extensions for tab suspender auto](/chrome-extensions-for-tab-suspender-auto)
+- [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
+- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

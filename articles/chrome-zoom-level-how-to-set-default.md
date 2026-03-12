@@ -71,7 +71,7 @@ Start with the built-in settings and see if they meet your needs. If you find yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Zoom Level Per Site How To Set](/chrome-zoom-level-per-site-how-to-set)
-- [Chrome Default Browser How To Set On Mac](/chrome-default-browser-how-to-set-on-mac)
-- [Chrome Default Browser How To Set On Windows](/chrome-default-browser-how-to-set-on-windows)
+## Related Articles
+- [Chrome Zoom Level Per Site How to Set](/chrome-zoom-level-per-site-how-to-set)
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
+- [chrome default browser how to set on mac](/chrome-default-browser-how-to-set-on-mac)

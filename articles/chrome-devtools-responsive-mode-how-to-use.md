@@ -85,7 +85,7 @@ By taking the time to test your site in responsive mode, you can ensure that all
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Responsive Design Mode How To Use](/chrome-responsive-design-mode-how-to-use)
-- [Chrome Desktop Mode On Phone How To Use](/chrome-desktop-mode-on-phone-how-to-use)
-- [Chrome Devtools Color Picker How To Use](/chrome-devtools-color-picker-how-to-use)
+## Related Articles
+- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
+- [Chrome Lite Mode Discontinued What to Use Instead](/chrome-lite-mode-discontinued-what-to-use-instead)
+- [Chrome Devtools Snippets How to Use](/chrome-devtools-snippets-how-to-use)

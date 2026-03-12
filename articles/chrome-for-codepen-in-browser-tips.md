@@ -78,7 +78,7 @@ With these tips, you can focus more on building and less on dealing with browser
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Habitica In Browser Tips](/chrome-for-habitica-in-browser-tips)
-- [Chrome For Microsoft Teams In Browser Tips](/chrome-for-microsoft-teams-in-browser-tips)
-- [Chrome For Replit In Browser Tips](/chrome-for-replit-in-browser-tips)
+## Related Articles
+- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
+- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)
+- [Chrome Browser Games Performance Tips](/chrome-browser-games-performance-tips)

@@ -69,7 +69,7 @@ The beauty of having chrome for text to speech on any page is that it transforms
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extension For Highlighting Text On Websites](/chrome-extension-for-highlighting-text-on-websites)
-- [Chrome Extensions For Font Changer On Any Website](/chrome-extensions-for-font-changer-on-any-website)
-- [Chrome Extensions For Highlighting Text On Web](/chrome-extensions-for-highlighting-text-on-web)
+## Related Articles
+- [Chrome Text to Speech Extension Best](/chrome-text-to-speech-extension-best)
+- [Chrome Text to Speech Built In Feature](/chrome-text-to-speech-built-in-feature)
+- [Chrome Text to Speech Built In Features](/chrome-text-to-speech-built-in-features)

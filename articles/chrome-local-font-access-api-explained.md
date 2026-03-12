@@ -59,7 +59,7 @@ As web capabilities continue to expand, staying informed about what permissions 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome File System Access Api Explained](/chrome-file-system-access-api-explained)
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
-- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)
+## Related Articles
+- [chrome file system access api explained](/chrome-file-system-access-api-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)

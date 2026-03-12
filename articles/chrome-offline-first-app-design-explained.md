@@ -80,7 +80,7 @@ The ideas behind offline first design are also influencing how browsers and oper
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Time To First Byte Explained](/chrome-time-to-first-byte-explained)
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
-- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
+## Related Articles
+- [Chrome Time to First Byte Explained](/chrome-time-to-first-byte-explained)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)

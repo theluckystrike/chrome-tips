@@ -139,9 +139,9 @@ Most users find the issue is resolved by step 3 or 4. Try these solutions in ord
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Autofill Not Working Fix](/chrome-autofill-not-working-fix)
-- [Best Chrome Extensions For Working From Home](/best-chrome-extensions-for-working-from-home)
-- [Best Password Manager Chrome Extension](/best-password-manager-chrome-extension)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

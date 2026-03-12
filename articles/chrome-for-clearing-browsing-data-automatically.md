@@ -67,7 +67,7 @@ Whatever method you choose, setting something up is better than doing nothing. E
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Clear Data For One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
-- [How To Delete Chrome Browsing Data Automatically](/how-to-delete-chrome-browsing-data-automatically)
-- [Best Chrome Extensions For Data Analysts](/best-chrome-extensions-for-data-analysts)
+## Related Articles
+- [how to delete chrome browsing data automatically](/how-to-delete-chrome-browsing-data-automatically)
+- [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
+- [Chrome Guest Browsing: What Data Is Saved](/chrome-guest-browsing-what-data-is-saved)

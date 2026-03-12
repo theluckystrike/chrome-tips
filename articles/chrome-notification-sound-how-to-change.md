@@ -51,7 +51,7 @@ Taking a few minutes to clean up your notification permissions can make a big di
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Custom Fonts How To Change](/chrome-custom-fonts-how-to-change)
-- [Chrome Default Download Location How To Change](/chrome-default-download-location-how-to-change)
-- [Chrome Dns Settings How To Change For Privacy](/chrome-dns-settings-how-to-change-for-privacy)
+## Related Articles
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+- [Chrome for Ambient Sound Extensions](/chrome-for-ambient-sound-extensions)

@@ -65,7 +65,7 @@ Explore the privacy settings Chrome offers, install effective blocking tools, an
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
-- [Chrome Incognito Mode What It Actually Does](/chrome-incognito-mode-what-it-actually-does)
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
+## Related Articles
+- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
+- [Chrome Incognito Mode: Actually Private or Just a False Sense of Security?](/chrome-incognito-mode-actually-private-or-not)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)

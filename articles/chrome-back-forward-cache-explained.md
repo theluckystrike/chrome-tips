@@ -15,7 +15,7 @@ tags:
 - browser-performance
 - memory
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-back-forward-cache-explained
 ---
 # Chrome Back Forward Cache Explained
@@ -75,7 +75,7 @@ If you find that Chrome is using more memory than you would like, or if your bro
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Back Forward Cache How To Test](/chrome-back-forward-cache-how-to-test)
-- [Chrome Cookies Vs Cache Difference Explained](/chrome-cookies-vs-cache-difference-explained)
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
+## Related Articles
+- [Chrome Back Forward Cache How to Test](/chrome-back-forward-cache-how-to-test)
+- [Chrome Cookies vs Cache Difference Explained](/chrome-cookies-vs-cache-difference-explained)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)

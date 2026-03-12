@@ -13,7 +13,7 @@ tags:
 - performance-optimization
 - browser-speed
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: best-chrome-settings-for-slow-computer
 ---
 # Best Chrome Settings for a Slow Computer
@@ -119,9 +119,9 @@ The combination of Memory Saver plus disabled preloading plus fresh startup is t
 
 
 
-### Related Articles
-- [Chrome Best Settings For Slow Internet](/chrome-best-settings-for-slow-internet)
-- [Best Chrome Settings For Chromebook](/best-chrome-settings-for-chromebook)
-- [Best Privacy Settings For Chrome 2026](/best-privacy-settings-for-chrome-2026)
+## Related Articles
+- [Chrome Slow Only on My Computer Not Others: Why and How to Fix It](/chrome-slow-only-on-my-computer-not-others)
+- [chrome best settings for slow internet](/chrome-best-settings-for-slow-internet)
+- [My Computer Is So Slow How to Fix Chrome](/my-computer-is-so-slow-how-to-fix-chrome)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -72,9 +72,9 @@ Finally, always preview your PDF before finalizing the save. The **print preview
 
 
 
-### Related Articles
-- [Chrome Print To Pdf How To Save Webpage](/chrome-print-to-pdf-how-to-save-webpage)
-- [Chrome Dns Settings How To Change For Privacy](/chrome-dns-settings-how-to-change-for-privacy)
-- [Chrome Emulate Print Media How To](/chrome-emulate-print-media-how-to)
+## Related Articles
+- [Chrome PDF Viewer Settings: Complete Customization Guide](/chrome-pdf-viewer-settings)
+- [Chrome Print to PDF Without Margins](/chrome-print-to-pdf-without-margins)
+- [Chrome Print to PDF How to Save Webpage](/chrome-print-to-pdf-how-to-save-webpage)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

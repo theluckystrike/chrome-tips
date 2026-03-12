@@ -66,7 +66,7 @@ Most extension installation problems are temporary and fixable. With patience an
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Web Store Extensions Not Installing](/chrome-web-store-extensions-not-installing)
-- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
-- [Chrome Address Bar Not Showing Full Url Fix](/chrome-address-bar-not-showing-full-url-fix)
+## Related Articles
+- [Chrome Web Store Extensions Not Installing: Fixes That Actually Work](/chrome-web-store-extensions-not-installing)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)

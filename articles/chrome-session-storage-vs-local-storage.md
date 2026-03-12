@@ -106,9 +106,9 @@ Understanding when to use each type helps you build better web applications and 
 
 
 
-### Related Articles
-- [Chrome Local Storage How To Clear For One Site](/chrome-local-storage-how-to-clear-for-one-site)
-- [Chrome Local Storage View Edit](/chrome-local-storage-view-edit)
-- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
+## Related Articles
+- [Chrome Local Storage View Edit: How to Inspect and Modify Website Data](/chrome-local-storage-view-edit)
+- [Chrome Local Storage How to Clear for One Site](/chrome-local-storage-how-to-clear-for-one-site)
+- [Chrome Open Last Session on Startup](/chrome-open-last-session-on-startup)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -14,7 +14,7 @@ tags:
 - browser-fix
 - troubleshooting
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-not-working-fix
 ---
 # Chrome Address Bar Not Working Fix
@@ -79,9 +79,9 @@ Finally, make sure your computer has adequate free storage space and your operat
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
-- [Chrome Address Bar Not Showing Full Url Fix](/chrome-address-bar-not-showing-full-url-fix)
-- [Chrome Search Bar Not Working Fix](/chrome-search-bar-not-working-fix)
+- [How to Fix Chrome Search Bar Not Working](/chrome-search-bar-not-working-fix)
+- [Chrome Address Bar Not Showing Full URL Fix](/chrome-address-bar-not-showing-full-url-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

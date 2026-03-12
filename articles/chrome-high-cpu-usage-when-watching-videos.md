@@ -95,9 +95,9 @@ If you have tried all these solutions and still experience issues, your computer
 
 
 
-### Related Articles
-- [Chrome High Cpu Usage Nothing Open](/chrome-high-cpu-usage-nothing-open)
-- [How To Fix Chrome High Cpu Usage Gaming](/how-to-fix-chrome-high-cpu-usage-gaming)
-- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
+## Related Articles
+- [Chrome High CPU Usage Nothing Open](/chrome-high-cpu-usage-nothing-open)
+- [How to Fix Chrome High CPU Usage When Gaming](/how-to-fix-chrome-high-cpu-usage-gaming)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

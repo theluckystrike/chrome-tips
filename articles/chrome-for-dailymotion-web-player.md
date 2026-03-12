@@ -85,7 +85,7 @@ Video streaming should be enjoyable, and with a little optimization, Chrome can 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Spotify Web Player Enhancement](/chrome-extensions-for-spotify-web-player-enhancement)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
-- [Chrome For Audible Web Player Tips](/chrome-for-audible-web-player-tips)
+## Related Articles
+- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
+- [chrome for odysee web player tips](/chrome-for-odysee-web-player-tips)
+- [chrome for rumble web player settings](/chrome-for-rumble-web-player-settings)

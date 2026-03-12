@@ -15,7 +15,7 @@ tags:
 - password-manager
 - tips
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-autofill-on-phone-how-to-manage
 ---
 # Chrome Autofill on Phone How to Manage
@@ -85,7 +85,7 @@ Using a combination of good autofill habits and productivity tools creates a bet
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Camera Access On Phone How To Manage](/chrome-camera-access-on-phone-how-to-manage)
-- [Chrome Address Autofill How To Manage](/chrome-address-autofill-how-to-manage)
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+## Related Articles
+- [Chrome Address Autofill How to Manage](/chrome-address-autofill-how-to-manage)
+- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
+- [Chrome Payment Autofill How to Manage Cards](/chrome-payment-autofill-how-to-manage-cards)

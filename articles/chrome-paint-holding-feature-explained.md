@@ -67,9 +67,9 @@ Extensions like **Tab Suspender Pro** can help you manage open tabs more effecti
 
 
 
-### Related Articles
-- [Chrome Help Me Write Feature Explained](/chrome-help-me-write-feature-explained)
-- [Chrome Interaction To Next Paint Explained](/chrome-interaction-to-next-paint-explained)
-- [Chrome Ip Protection Feature Explained](/chrome-ip-protection-feature-explained)
+## Related Articles
+- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
+- [Chrome Tab Organize AI Feature Explained](/chrome-tab-organize-ai-feature-explained)
+- [Chrome Largest Contentful Paint Explained](/chrome-largest-contentful-paint-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

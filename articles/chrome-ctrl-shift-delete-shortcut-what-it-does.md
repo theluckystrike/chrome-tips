@@ -87,7 +87,7 @@ For additional browser optimization, consider exploring extensions like Tab Susp
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
+## Related Articles
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
 - [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
-- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)

@@ -81,9 +81,9 @@ These extensions work by suspending tabs that you have not used recently, freein
 
 *
 
-### Related Articles
-- [Chrome Extension For Viewing Page Load Time](/chrome-extension-for-viewing-page-load-time)
-- [Chrome For Page Load Speed Testing](/chrome-for-page-load-speed-testing)
-- [Chrome New Tab Page Slow To Load](/chrome-new-tab-page-slow-to-load)
+## Related Articles
+- [Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering](/chrome-paint-holding-feature-explained)
+- [Chrome for Page Load Speed Testing](/chrome-for-page-load-speed-testing)
+- [Chrome New Tab Page Slow to Load: Complete Fix Guide](/chrome-new-tab-page-slow-to-load)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

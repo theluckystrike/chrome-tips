@@ -79,7 +79,7 @@ The process does not have to be overwhelming. Start by enabling the checkup, rev
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Virus Scan Built In How To Use](/chrome-virus-scan-built-in-how-to-use)
-- [How To Use Chrome Built In Screenshot Tool](/how-to-use-chrome-built-in-screenshot-tool)
-- [How To Use Chrome Password Checkup Feature](/how-to-use-chrome-password-checkup-feature)
+## Related Articles
+- [how to use chrome password checkup feature](/how-to-use-chrome-password-checkup-feature)
+- [Chrome Virus Scan Built in How to Use](/chrome-virus-scan-built-in-how-to-use)
+- [Chrome Password Checkup Tool Guide](/chrome-password-checkup-tool)

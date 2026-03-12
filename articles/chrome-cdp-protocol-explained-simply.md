@@ -105,9 +105,9 @@ As web applications become more complex and the demand for automated testing gro
 
 
 
-### Related Articles
+## Related Articles
+- [Chrome Sandbox Mode Explained Simply](/chrome-sandbox-mode-explained-simply)
+- [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)
 - [Chrome Certificate Transparency Explained Simply](/chrome-certificate-transparency-explained-simply)
-- [Chrome Cookies Explained Simply](/chrome-cookies-explained-simply)
-- [Chrome Extensions Permissions Explained Simply](/chrome-extensions-permissions-explained-simply)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

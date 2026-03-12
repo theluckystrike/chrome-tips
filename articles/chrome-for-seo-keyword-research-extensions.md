@@ -68,7 +68,7 @@ Keyword research is an ongoing process, and the best results come from regularly
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Keyword Research Free](/chrome-extensions-for-keyword-research-free)
-- [Chrome Extensions For Keyword Research](/chrome-extensions-for-keyword-research)
-- [Chrome Extensions For Lawyers Legal Research](/chrome-extensions-for-lawyers-legal-research)
+## Related Articles
+- [Chrome Extensions for Keyword Research Free](/chrome-extensions-for-keyword-research-free)
+- [Chrome Extensions for Keyword Research](/chrome-extensions-for-keyword-research)
+- [Chrome for SEO Analysis Extensions](/chrome-for-seo-analysis-extensions)

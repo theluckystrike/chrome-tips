@@ -75,7 +75,7 @@ Remember that keeping Chrome updated ensures you have access to all theme option
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
-- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
-- [Chrome Dark Mode On Phone How To Enable](/chrome-dark-mode-on-phone-how-to-enable)
+## Related Articles
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Android Dark Mode How to Enable](/chrome-android-dark-mode-how-to-enable)
+- [Chrome Dark Mode on Phone How to Enable](/chrome-dark-mode-on-phone-how-to-enable)

@@ -64,9 +64,9 @@ Try browsing the way you normally do after enabling this feature. You may find t
 
 
 
-### Related Articles
-- [Chrome Dns Over Https How To Enable](/chrome-dns-over-https-how-to-enable)
-- [Chrome Secure Dns What It Is And How To Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
+## Related Articles
+- [Chrome DNS Over HTTPS How to Enable](/chrome-dns-over-https-how-to-enable)
+- [Chrome Secure DNS: What It Is and How to Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)
+- [chrome dns prefetch what it does](/chrome-dns-prefetch-what-it-does)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

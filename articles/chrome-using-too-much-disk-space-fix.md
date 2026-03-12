@@ -74,9 +74,9 @@ Give these approaches a try and see how much space you can reclaim. Your browser
 
 
 
-### Related Articles
-- [Chrome Using Too Much Disk Space](/chrome-using-too-much-disk-space)
-- [Chrome Using Too Much Battery On Laptop Fix](/chrome-using-too-much-battery-on-laptop-fix)
-- [Chrome Extension Using Too Much Memory Find](/chrome-extension-using-too-much-memory-find)
+## Related Articles
+- [Chrome Using Too Much Disk Space: A Complete Guide](/chrome-using-too-much-disk-space)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Tabs Using Too Much Memory Which One](/chrome-tabs-using-too-much-memory-which-one)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

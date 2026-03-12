@@ -80,7 +80,7 @@ Start by trying the Chrome Flags method first, since it requires no installation
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Dark Mode Force All Websites](/chrome-dark-mode-force-all-websites)
-- [Chrome Mobile Dark Mode Force On All Sites](/chrome-mobile-dark-mode-force-on-all-sites)
-- [Chrome Dark Mode On Phone How To Enable](/chrome-dark-mode-on-phone-how-to-enable)
+## Related Articles
+- [How to Force Dark Mode on All Websites in Chrome](/chrome-dark-mode-force-all-websites)
+- [Chrome Mobile Dark Mode Force on All Sites](/chrome-mobile-dark-mode-force-on-all-sites)
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)

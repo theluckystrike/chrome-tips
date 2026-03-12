@@ -85,7 +85,7 @@ Consider trying a few different options before settling on your final setup. Man
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Focus And Productivity](/chrome-extensions-for-focus-and-productivity)
-- [Chrome Extensions For Ambient Sounds Focus](/chrome-extensions-for-ambient-sounds-focus)
-- [Chrome Extensions For Meditation](/chrome-extensions-for-meditation)
+## Related Articles
+- [Chrome Extensions for Meditation](/chrome-extensions-for-meditation)
+- [Chrome Extensions for Focus and Productivity](/chrome-extensions-for-focus-and-productivity)
+- [Chrome for Focus Music Playlists Extensions](/chrome-for-focus-music-playlists-extensions)

@@ -89,9 +89,9 @@ It is also important to prioritize based on your specific goals. If you are prim
 
 
 
-### Related Articles
-- [Chrome Lighthouse Audit How To Run](/chrome-lighthouse-audit-how-to-run)
-- [Chrome Lighthouse Audit Website Speed](/chrome-lighthouse-audit-website-speed)
-- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
+## Related Articles
+- [chrome lighthouse audit how to run](/chrome-lighthouse-audit-how-to-run)
+- [Chrome Lighthouse Audit for Website Speed: Complete Guide](/chrome-lighthouse-audit-website-speed)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

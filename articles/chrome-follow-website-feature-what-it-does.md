@@ -59,7 +59,7 @@ Think about how you actually browse and what will fit into your routine. The mos
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
-- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
+## Related Articles
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
 - [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)

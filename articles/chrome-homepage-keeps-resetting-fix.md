@@ -72,7 +72,7 @@ Take a few minutes to go through these steps, and you should be able to browse w
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
+## Related Articles
+- [Chrome Homepage Keeps Changing to Yahoo Fix](/chrome-homepage-keeps-changing-to-yahoo-fix)
 - [Chrome Homepage Keeps Changing Fix](/chrome-homepage-keeps-changing-fix)
-- [Chrome Homepage Keeps Changing To Yahoo Fix](/chrome-homepage-keeps-changing-to-yahoo-fix)
-- [Chrome Hijacked Homepage Fix Guide](/chrome-hijacked-homepage-fix-guide)
+- [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)

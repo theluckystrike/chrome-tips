@@ -53,7 +53,7 @@ Whether you are building a website or just browsing the internet, knowing about 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Css Custom Properties Explained](/chrome-css-custom-properties-explained)
-- [Chrome Font Editor In Devtools Explained](/chrome-font-editor-in-devtools-explained)
-- [Chrome Font Fingerprinting Explained And Fix](/chrome-font-fingerprinting-explained-and-fix)
+## Related Articles
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)
+- [Chrome Font Fingerprinting Explained and Fix](/chrome-font-fingerprinting-explained-and-fix)

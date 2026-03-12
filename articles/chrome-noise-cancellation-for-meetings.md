@@ -136,9 +136,9 @@ Take a few minutes to configure your noise cancellation settings today. Your col
 
 
 
-### Related Articles
-- [Chrome Best Settings For Online Meetings](/chrome-best-settings-for-online-meetings)
-- [Chrome Extensions For Ambient Noise](/chrome-extensions-for-ambient-noise)
-- [Chrome Extensions For Noise Canceling](/chrome-extensions-for-noise-canceling)
+## Related Articles
+- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
+- [Chrome Extensions for Ambient Noise](/chrome-extensions-for-ambient-noise)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

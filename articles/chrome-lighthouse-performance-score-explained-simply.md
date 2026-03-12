@@ -82,7 +82,7 @@ Improving a performance score does not always require expensive tools or expert 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Cdp Protocol Explained Simply](/chrome-cdp-protocol-explained-simply)
+## Related Articles
+- [Chrome Sandbox Mode Explained Simply](/chrome-sandbox-mode-explained-simply)
+- [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)
 - [Chrome Certificate Transparency Explained Simply](/chrome-certificate-transparency-explained-simply)
-- [Chrome Cookies Explained Simply](/chrome-cookies-explained-simply)

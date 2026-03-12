@@ -94,9 +94,9 @@ Avoid installing too many extensions. Review your installed extensions periodica
 
 
 
-### Related Articles
+## Related Articles
+- [Chrome Performance Settings Explained 2026](/chrome-performance-settings-explained-2026)
 - [Chrome Flags Best Performance Settings](/chrome-flags-best-performance-settings)
-- [Best Chrome Settings For Chromebook](/best-chrome-settings-for-chromebook)
-- [Best Chrome Settings For Slow Computer](/best-chrome-settings-for-slow-computer)
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

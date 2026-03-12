@@ -68,7 +68,7 @@ For desktop users, extensions like Tab Suspender Pro offer useful solutions for 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Custom Tabs On Android What They Are](/chrome-custom-tabs-on-android-what-they-are)
-- [Chrome Extensions On Android Is It Possible](/chrome-extensions-on-android-is-it-possible)
-- [Chrome Flags On Android Best To Enable](/chrome-flags-on-android-best-to-enable)
+## Related Articles
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)

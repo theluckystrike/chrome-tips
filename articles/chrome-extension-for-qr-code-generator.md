@@ -76,9 +76,9 @@ When choosing an extension, focus on ease of use, reliability, and the specific 
 
 
 
-### Related Articles
-- [Chrome Qr Code Generator Extension](/chrome-qr-code-generator-extension)
-- [Chrome Qr Code For Page How To Generate](/chrome-qr-code-for-page-how-to-generate)
-- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
+## Related Articles
+- [Chrome QR Code Generator Extension](/chrome-qr-code-generator-extension)
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/chrome-blackbox-script-skip-library-code-debug)
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

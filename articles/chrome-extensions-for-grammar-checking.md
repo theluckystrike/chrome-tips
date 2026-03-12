@@ -82,7 +82,7 @@ Remember that these extensions are meant to help, not replace careful reading. T
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Grammar Checking Extensions](/chrome-for-grammar-checking-extensions)
-- [Chrome Extension For Checking Grammar While Typing](/chrome-extension-for-checking-grammar-while-typing)
-- [Chrome Extensions For Grammar Check Free Alternative](/chrome-extensions-for-grammar-check-free-alternative)
+## Related Articles
+- [Chrome for Grammar Checking Extensions](/chrome-for-grammar-checking-extensions)
+- [Chrome Extension for Checking Grammar While Typing](/chrome-extension-for-checking-grammar-while-typing)
+- [Chrome Extensions for Grammar Check Free Alternative](/chrome-extensions-for-grammar-check-free-alternative)

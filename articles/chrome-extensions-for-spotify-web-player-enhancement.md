@@ -62,7 +62,7 @@ Remember that extensions are developed by third parties, so they may occasionall
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Soundcloud Web Player Extensions](/chrome-for-soundcloud-web-player-extensions)
-- [Chrome For Spotify Web Player Optimization](/chrome-for-spotify-web-player-optimization)
-- [Chrome For Spotify Web Player Shortcuts](/chrome-for-spotify-web-player-shortcuts)
+## Related Articles
+- [Chrome for Spotify Web Player Optimization](/chrome-for-spotify-web-player-optimization)
+- [Chrome Spotify Web Player Not Working Fix](/chrome-spotify-web-player-not-working-fix)
+- [Chrome for Spotify Web Player Shortcuts](/chrome-for-spotify-web-player-shortcuts)

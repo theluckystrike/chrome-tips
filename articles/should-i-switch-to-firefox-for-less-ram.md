@@ -83,9 +83,9 @@ The bottom line is this: don't be afraid to try something new. Firefox can make 
 
 
 
-### Related Articles
-- [Should I Switch From Chrome To Firefox For Speed](/should-i-switch-from-chrome-to-firefox-for-speed)
-- [Should I Switch To Edge For Speed](/should-i-switch-to-edge-for-speed)
-- [Chrome Vs Arc Browser Should I Switch](/chrome-vs-arc-browser-should-i-switch)
+## Related Articles
+- [Should I Switch from Chrome to Firefox for Speed?](/should-i-switch-from-chrome-to-firefox-for-speed)
+- [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/should-i-switch-to-edge-for-speed)
+- [Chrome vs Arc Browser: Should I Switch?](/chrome-vs-arc-browser-should-i-switch)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

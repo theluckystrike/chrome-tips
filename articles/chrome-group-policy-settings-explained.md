@@ -64,7 +64,7 @@ If you have any questions about specific policies you are seeing, your best reso
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
-- [Chrome Content Security Policy Explained](/chrome-content-security-policy-explained)
-- [Chrome Performance Settings Explained 2026](/chrome-performance-settings-explained-2026)
+## Related Articles
+- [Chrome Content Security Policy Explained: A Complete Guide](/chrome-content-security-policy-explained)
+- [Chrome Site Settings Explained Complete Guide](/chrome-site-settings-explained-complete-guide)
+- [Chrome Permissions Policy Header Explained](/chrome-permissions-policy-header-explained)

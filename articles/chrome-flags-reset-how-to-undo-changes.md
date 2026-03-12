@@ -67,7 +67,7 @@ Remember that you do not need to avoid Chrome flags entirely. Just be thoughtful
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Reset Flags To Default How To](/chrome-reset-flags-to-default-how-to)
+## Related Articles
+- [Chrome Reset Flags to Default How To](/chrome-reset-flags-to-default-how-to)
+- [How to Reset Chrome to Default Settings](/how-to-reset-chrome-to-default-settings)
 - [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
-- [How To Reset Chrome To Default Settings](/how-to-reset-chrome-to-default-settings)

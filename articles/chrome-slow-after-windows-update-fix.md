@@ -77,10 +77,10 @@ By using **Tab Suspender Pro**, you ensure that background tabs aren't competing
 
 
 
-### Related Articles
-- [Chrome Slow After Update Fix](/chrome-slow-after-update-fix)
-- [Chrome Slow On Windows 11 After Update](/chrome-slow-on-windows-11-after-update)
+## Related Articles
 - [Chrome Slower After Windows Update Fix](/chrome-slower-after-windows-update-fix)
+- [Chrome Slow on Windows 11 After Update: Practical Fixes](/chrome-slow-on-windows-11-after-update)
+- [Chrome Slow After Update Fix: Complete Troubleshooting Guide](/chrome-slow-after-update-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

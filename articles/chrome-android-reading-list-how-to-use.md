@@ -14,7 +14,7 @@ tags:
 - offline-reading
 - android-tips
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-android-reading-list-how-to-use
 ---
 # Chrome Android Reading List How to Use
@@ -93,9 +93,9 @@ Give it a try with a few articles today. Once you get comfortable with how chrom
 
 
 
-### Related Articles
-- [Chrome Mobile Reading List How To Use](/chrome-mobile-reading-list-how-to-use)
-- [Chrome Reading List How To Use](/chrome-reading-list-how-to-use)
-- [Chrome Reading List On Phone How To Use](/chrome-reading-list-on-phone-how-to-use)
+## Related Articles
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)
+- [Chrome Mobile Reading List How to Use](/chrome-mobile-reading-list-how-to-use)
+- [Chrome Reading List How to Use](/chrome-reading-list-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

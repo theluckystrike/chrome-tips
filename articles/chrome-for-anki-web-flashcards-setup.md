@@ -89,7 +89,7 @@ Remember that the best setup is one you will actually use consistently. Start wi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Anydo Web App Setup](/chrome-for-anydo-web-app-setup)
-- [Chrome For Github Copilot Web Setup](/chrome-for-github-copilot-web-setup)
-- [Chrome For Notion Web Clipper Setup](/chrome-for-notion-web-clipper-setup)
+## Related Articles
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome for Skillshare Web App Setup](/chrome-for-skillshare-web-app-setup)
+- [chrome for onenote web clipper setup](/chrome-for-onenote-web-clipper-setup)

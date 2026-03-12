@@ -83,9 +83,9 @@ With these steps, you should be able to resolve ERR_NETWORK_CHANGED and get back
 
 
 
-### Related Articles
-- [Chrome Default Search Engine Changed How To Fix](/chrome-default-search-engine-changed-how-to-fix)
-- [Chrome Err Blocked By Client Fix](/chrome-err-blocked-by-client-fix)
-- [Chrome Err Cache Miss Fix](/chrome-err-cache-miss-fix)
+## Related Articles
+- [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/chrome-err-ssl-protocol-error-fix)
+- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/chrome-err-too-many-redirects-cookie-fix)
+- [Chrome Search Engine Changed by Itself Fix](/chrome-search-engine-changed-by-itself-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

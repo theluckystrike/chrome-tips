@@ -80,7 +80,7 @@ Other helpful extensions include note-taking tools that integrate with your work
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
-- [Chrome For Coinbase Web App Tips](/chrome-for-coinbase-web-app-tips)
-- [Chrome For Mailchimp Web App Tips](/chrome-for-mailchimp-web-app-tips)
+## Related Articles
+- [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
+- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)
+- [chrome for coinbase web app tips](/chrome-for-coinbase-web-app-tips)

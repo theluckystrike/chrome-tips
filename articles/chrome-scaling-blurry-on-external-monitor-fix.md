@@ -85,10 +85,10 @@ Using **Tab Suspender Pro** helps by automatically "pausing" tabs you aren't act
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Blurry Text Fix Windows](/chrome-blurry-text-fix-windows)
-- [Chrome Crashing On Iphone Fix](/chrome-crashing-on-iphone-fix)
-- [Chrome Font Too Small On Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

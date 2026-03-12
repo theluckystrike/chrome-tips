@@ -64,10 +64,10 @@ Heavy memory usage can also cause the browser to crash right when you're trying 
 
 
 
-### Related Articles
-- [Chrome Enhanced Safe Browsing](/chrome-enhanced-safe-browsing)
-- [How To Enable Chrome Enhanced Safe Browsing](/how-to-enable-chrome-enhanced-safe-browsing)
-- [Chrome Safe Browsing Data What Google Sees](/chrome-safe-browsing-data-what-google-sees)
+## Related Articles
+- [Chrome Enhanced Safe Browsing Guide](/chrome-enhanced-safe-browsing)
+- [how to enable chrome enhanced safe browsing](/how-to-enable-chrome-enhanced-safe-browsing)
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -77,9 +77,9 @@ Ultimately, because both are built on Chromium, you can't really make a "wrong" 
 
 
 
-### Related Articles
-- [Chrome Not Responding On Windows 11 Laptop](/chrome-not-responding-on-windows-11-laptop)
-- [Chrome Slow On Windows 11 After Update](/chrome-slow-on-windows-11-after-update)
-- [Chrome Wont Install On Windows 11 Fix](/chrome-wont-install-on-windows-11-fix)
+## Related Articles
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
+- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)
+- [Chrome vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

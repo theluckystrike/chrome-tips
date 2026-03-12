@@ -90,7 +90,7 @@ The Network Inspector is one of those features that seems technical at first but
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Blink Engine Explained For Beginners](/chrome-blink-engine-explained-for-beginners)
-- [Chrome Cache Api Tutorial For Beginners](/chrome-cache-api-tutorial-for-beginners)
-- [Chrome Cookies Explained For Beginners](/chrome-cookies-explained-for-beginners)
+## Related Articles
+- [Chrome Inspect Element Tutorial for Beginners](/chrome-inspect-element-tutorial-for-beginners)
+- [chrome blink engine explained for beginners](/chrome-blink-engine-explained-for-beginners)
+- [Chrome Memory Inspector How to Use](/chrome-memory-inspector-how-to-use)

@@ -76,7 +76,7 @@ The hidden chrome extensions you should install are the ones that solve real pro
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
+- [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)
 - [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
 - [Chrome Extensions That Save You Time](/chrome-extensions-that-save-you-time)
-- [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)

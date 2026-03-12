@@ -98,9 +98,9 @@ List the things you need your computer to do. Check whether the programs you nee
 
 
 
-### Related Articles
-- [Chrome Os Vs Windows For Basic Use](/chrome-os-vs-windows-for-basic-use)
-- [Chrome Follow Button For Websites How To Use](/chrome-follow-button-for-websites-how-to-use)
-- [Chrome For Tab Sleeping Vs Tab Suspending Difference](/chrome-for-tab-sleeping-vs-tab-suspending-difference)
+## Related Articles
+- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

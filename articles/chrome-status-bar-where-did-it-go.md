@@ -67,9 +67,9 @@ Finally, make sure your Chrome is up to date. Click the three dots, go to Help, 
 
 
 
-### Related Articles
-- [Chrome Cleanup Tool Where Did It Go](/chrome-cleanup-tool-where-did-it-go)
-- [Chrome Default Folder Location Where Is It](/chrome-default-folder-location-where-is-it)
-- [Chrome Profile Data Where It Is Stored](/chrome-profile-data-where-it-is-stored)
+## Related Articles
+- [Chrome Status Code 502 Bad Gateway Fix](/chrome-status-code-502-bad-gateway-fix)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+- [Chrome Status Code 403 Forbidden Explained](/chrome-status-code-403-forbidden-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

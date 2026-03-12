@@ -64,9 +64,9 @@ The most important thing is to be aware of the trade-offs and take basic precaut
 
 
 
-### Related Articles
+## Related Articles
 - [Best Password Manager Chrome Extension](/best-password-manager-chrome-extension)
-- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
-- [Chrome Bitwarden Vs Chrome Password Manager](/chrome-bitwarden-vs-chrome-password-manager)
+- [Chrome Password Manager on Phone vs Dedicated App](/chrome-password-manager-on-phone-vs-dedicated-app)
+- [Chrome Password Manager vs Bitwarden: Which One Should You Use?](/chrome-password-manager-vs-bitwarden)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

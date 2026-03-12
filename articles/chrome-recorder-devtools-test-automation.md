@@ -107,9 +107,9 @@ Whether you are testing a simple contact form or a complex checkout flow, these 
 
 
 
-### Related Articles
-- [Chrome Devtools Recorder Panel How To Use](/chrome-devtools-recorder-panel-how-to-use)
-- [Chrome Back Forward Cache How To Test](/chrome-back-forward-cache-how-to-test)
-- [Chrome Device Emulation Test Mobile Website](/chrome-device-emulation-test-mobile-website)
+## Related Articles
+- [chrome devtools recorder panel how to use](/chrome-devtools-recorder-panel-how-to-use)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

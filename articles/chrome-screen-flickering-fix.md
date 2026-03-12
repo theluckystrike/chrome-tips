@@ -77,10 +77,10 @@ Using **Tab Suspender Pro** is a highly effective way to mitigate this. It autom
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Black Screen Fix](/chrome-black-screen-fix)
-- [Chrome Black Screen When Opening Fix](/chrome-black-screen-when-opening-fix)
-- [Chrome Accessibility Screen Reader Support](/chrome-accessibility-screen-reader-support)
+- [Chrome Black Screen When Opening Fix: Complete Practical Guide](/chrome-black-screen-when-opening-fix)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

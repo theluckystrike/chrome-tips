@@ -82,7 +82,7 @@ Remember to keep your browser running smoothly by managing your extensions and t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Stayfocusd Extension Guide](/chrome-for-stayfocusd-extension-guide)
-- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
-- [Chrome Extension For Auto Fill Forms Faster](/chrome-extension-for-auto-fill-forms-faster)
+## Related Articles
+- [Chrome Extension GDPR Compliance Guide](/chrome-extension-gdpr-compliance-guide)
+- [Chrome Extension Publish to Web Store Guide](/chrome-extension-publish-to-web-store-guide)
+- [Chrome for StayFocusd Extension Guide](/chrome-for-stayfocusd-extension-guide)

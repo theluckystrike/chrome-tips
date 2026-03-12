@@ -67,9 +67,9 @@ Some users also find that switching to a lighter-weight browser helps, particula
 
 
 
-### Related Articles
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
-- [Chrome Err Too Many Redirects Cookie Fix](/chrome-err-too-many-redirects-cookie-fix)
+## Related Articles
 - [Chrome Extension Permissions Too Many Warning](/chrome-extension-permissions-too-many-warning)
+- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/chrome-err-too-many-redirects-cookie-fix)
+- [Chrome Mobile Tabs Too Many How to Manage](/chrome-mobile-tabs-too-many-how-to-manage)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

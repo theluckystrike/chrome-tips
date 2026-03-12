@@ -78,9 +78,9 @@ Most users never need to worry about utility processes. However, when performanc
 
 
 
-### Related Articles
-- [Chrome Browser Process Vs Tab Process Explained](/chrome-browser-process-vs-tab-process-explained)
+## Related Articles
 - [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
+- [chrome browser process vs tab process explained](/chrome-browser-process-vs-tab-process-explained)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

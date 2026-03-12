@@ -86,7 +86,7 @@ Everyone's setup is different, so you might need to experiment with a few of the
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Amazon Prime Video](/best-chrome-extensions-for-amazon-prime-video)
-- [Chrome Amazon Prime Video Not Playing Fix](/chrome-amazon-prime-video-not-playing-fix)
-- [Chrome Best Settings For Streaming Video](/chrome-best-settings-for-streaming-video)
+## Related Articles
+- [Best Chrome Extensions for Amazon Prime Video](/best-chrome-extensions-for-amazon-prime-video)
+- [Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide](/chrome-amazon-prime-video-not-playing-fix)
+- [Chrome for Netflix Best Quality Settings](/chrome-for-netflix-best-quality-settings)

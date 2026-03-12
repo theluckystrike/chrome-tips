@@ -56,9 +56,9 @@ Using **Tab Suspender Pro** is an excellent way to balance **security** and **pe
 
 
 
-### Related Articles
-- [Chrome Site Isolation Explained For Users](/chrome-site-isolation-explained-for-users)
+## Related Articles
 - [Chrome Site Isolation Explained](/chrome-site-isolation-explained)
-- [Chrome Cdp Protocol Explained Simply](/chrome-cdp-protocol-explained-simply)
+- [Chrome Site Isolation Explained for Users](/chrome-site-isolation-explained-for-users)
+- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

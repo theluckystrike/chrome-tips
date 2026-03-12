@@ -71,9 +71,9 @@ With the chrome tab search shortcut and a few organizational strategies, you can
 
 
 
-### Related Articles
+## Related Articles
+- [Chrome Tab Search Shortcut: Find Any Open Tab Instantly](/chrome-tab-search-shortcut)
 - [Chrome Mute Tab Shortcut Explained](/chrome-mute-tab-shortcut-explained)
-- [Chrome Tab Search Shortcut](/chrome-tab-search-shortcut)
-- [Chrome Ai Search Suggestions Explained](/chrome-ai-search-suggestions-explained)
+- [chrome pin tab what it does explained](/chrome-pin-tab-what-it-does-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

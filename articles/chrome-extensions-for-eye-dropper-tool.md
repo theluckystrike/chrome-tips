@@ -54,7 +54,7 @@ While color picker extensions help you capture colors efficiently, managing many
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Eye Strain Protection](/chrome-extensions-for-eye-strain-protection)
-- [Chrome Extensions For Text Comparison Diff Tool](/chrome-extensions-for-text-comparison-diff-tool)
-- [Chrome For Reducing Eye Strain Extensions](/chrome-for-reducing-eye-strain-extensions)
+## Related Articles
+- [Chrome for Reducing Eye Strain Extensions](/chrome-for-reducing-eye-strain-extensions)
+- [Chrome Extensions for Text Comparison Diff Tool](/chrome-extensions-for-text-comparison-diff-tool)
+- [chrome eye dropper api pick color anywhere](/chrome-eye-dropper-api-pick-color-anywhere)

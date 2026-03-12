@@ -72,7 +72,7 @@ Setting Chrome as your default browser is a small change that can significantly 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Default Browser How To Set On Mac](/chrome-default-browser-how-to-set-on-mac)
-- [Chrome Default Browser How To Set Windows Mac](/chrome-default-browser-how-to-set-windows-mac)
-- [How To Make Chrome Default Browser Windows 11](/how-to-make-chrome-default-browser-windows-11)
+## Related Articles
+- [how to make chrome default browser windows 11](/how-to-make-chrome-default-browser-windows-11)
+- [chrome default browser how to set on mac](/chrome-default-browser-how-to-set-on-mac)
+- [chrome default browser how to set windows mac](/chrome-default-browser-how-to-set-windows-mac)

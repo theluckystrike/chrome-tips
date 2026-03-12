@@ -16,7 +16,7 @@ tags:
 - javascript
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-blackbox-script-skip-library-code-debug
 ---
 # How to Blackbox Scripts in Chrome to Skip Library Code During Debugging
@@ -117,9 +117,9 @@ Take some time to set up blackbox patterns for the libraries you use most freque
 
 
 
-### Related Articles
-- [Chrome Source Maps Debug Minified Code](/chrome-source-maps-debug-minified-code)
-- [Chrome Early Hints 103 Status Code](/chrome-early-hints-103-status-code)
-- [Chrome Extension For Qr Code Generator](/chrome-extension-for-qr-code-generator)
+## Related Articles
+- [chrome source maps debug minified code](/chrome-source-maps-debug-minified-code)
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
+- [Chrome Status Code 502 Bad Gateway Fix](/chrome-status-code-502-bad-gateway-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

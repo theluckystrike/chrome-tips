@@ -70,9 +70,9 @@ The next time you encounter a cluttered website that makes reading difficult, tr
 
 
 
-### Related Articles
-- [Chrome Reader Mode On Phone How To Enable](/chrome-reader-mode-on-phone-how-to-enable)
-- [Chrome Dark Mode On Phone How To Enable](/chrome-dark-mode-on-phone-how-to-enable)
-- [Chrome Enable Cookies For One Site How To](/chrome-enable-cookies-for-one-site-how-to)
+## Related Articles
+- [Chrome for Reader View on Any Website](/chrome-for-reader-view-on-any-website)
+- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
+- [Chrome Reader Mode on Phone: How to Enable](/chrome-reader-mode-on-phone-how-to-enable)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -70,7 +70,7 @@ Bookmarks are another useful tool. Instead of keeping a tab open indefinitely, b
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
+## Related Articles
 - [What Happens When Chrome Extension Is Removed From Store](/what-happens-when-chrome-extension-is-removed-from-store)
-- [Best Chrome Extensions For Working From Home](/best-chrome-extensions-for-working-from-home)
-- [Chrome Cleanup Tool Removed What To Use Instead](/chrome-cleanup-tool-removed-what-to-use-instead)
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)

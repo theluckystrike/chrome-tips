@@ -13,7 +13,7 @@ tags:
 - nurses
 - healthcare-tools
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: best-chrome-extensions-for-nurses
 ---
 # Best Chrome Extensions for Nurses
@@ -78,9 +78,9 @@ Remember that the goal is to make your digital work easier, not to add more thin
 
 
 
-### Related Articles
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
-- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
-- [Best Chrome Extensions For Amazon Prime Video](/best-chrome-extensions-for-amazon-prime-video)
+## Related Articles
+- [Chrome Extensions for Nurses Healthcare](/chrome-extensions-for-nurses-healthcare)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -89,9 +89,9 @@ Remember that your phone is a tool meant to make your life easier, not a device 
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
-- [How To Reduce Chrome Memory Usage](/how-to-reduce-chrome-memory-usage)
-- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
+- [How to Reduce Chrome Memory Usage](/how-to-reduce-chrome-memory-usage)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

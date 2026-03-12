@@ -75,7 +75,7 @@ Whether you are troubleshooting a slow website or just curious about how browser
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Event Timing Api Explained](/chrome-event-timing-api-explained)
-- [Chrome Resource Timing Api Explained](/chrome-resource-timing-api-explained)
-- [Chrome User Timing Api Explained](/chrome-user-timing-api-explained)
+## Related Articles
+- [Chrome User Timing API Explained](/chrome-user-timing-api-explained)
+- [Chrome Event Timing API Explained](/chrome-event-timing-api-explained)
+- [Chrome Resource Timing API Explained](/chrome-resource-timing-api-explained)

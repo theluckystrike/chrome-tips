@@ -90,7 +90,7 @@ Video calling on Chromebooks has come a long way, and with the right settings an
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Slow On Chromebook Fix](/chrome-slow-on-chromebook-fix)
-- [How To Speed Up Chrome On Chromebook 2026](/how-to-speed-up-chrome-on-chromebook-2026)
-- [Best Chrome Settings For Chromebook](/best-chrome-settings-for-chromebook)
+## Related Articles
+- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)

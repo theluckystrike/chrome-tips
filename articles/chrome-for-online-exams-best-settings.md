@@ -109,7 +109,7 @@ Following these steps will help you walk into your online exam with confidence, 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Best Settings For Online Meetings](/chrome-best-settings-for-online-meetings)
-- [Chrome For Quickbooks Online Best Settings](/chrome-for-quickbooks-online-best-settings)
-- [Best Chrome Extensions For Online Sellers](/best-chrome-extensions-for-online-sellers)
+## Related Articles
+- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
+- [Chrome for QuickBooks Online Best Settings](/chrome-for-quickbooks-online-best-settings)
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)

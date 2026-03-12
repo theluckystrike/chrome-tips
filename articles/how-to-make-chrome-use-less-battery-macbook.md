@@ -76,7 +76,7 @@ With these changes, you should notice a meaningful improvement in how long your 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Ai Theme Generator How To Use](/chrome-ai-theme-generator-how-to-use)
-- [Chrome Airplay Support How To Use](/chrome-airplay-support-how-to-use)
+## Related Articles
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)

@@ -104,9 +104,9 @@ Remember to periodically review which extensions you have in your side panel. Ov
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Extension Side Panel Tutorial](/chrome-extension-side-panel-tutorial)
-- [Chrome Side Panel Extensions Best Ones](/chrome-side-panel-extensions-best-ones)
+- [chrome side panel features you missed](/chrome-side-panel-features-you-missed)
 - [Chrome Side Panel Extensions Worth Using](/chrome-side-panel-extensions-worth-using)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

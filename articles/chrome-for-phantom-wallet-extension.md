@@ -86,7 +86,7 @@ Remember to keep your recovery phrase safe, review transaction requests carefull
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
-- [Chrome Extension For Auto Fill Forms Faster](/chrome-extension-for-auto-fill-forms-faster)
-- [Chrome Extension For Auto Scroll Pages](/chrome-extension-for-auto-scroll-pages)
+## Related Articles
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
+- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)

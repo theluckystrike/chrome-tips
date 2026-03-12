@@ -68,7 +68,7 @@ Taking a minute to export your bookmarks now can save you a lot of frustration l
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [How To Import Bookmarks From Firefox To Chrome](/how-to-import-bookmarks-from-firefox-to-chrome)
-- [Chrome Bookmarks Disappeared How To Recover](/chrome-bookmarks-disappeared-how-to-recover)
-- [Chrome Download All Images From Page How To](/chrome-download-all-images-from-page-how-to)
+## Related Articles
+- [How to Import Bookmarks from Firefox to Chrome](/how-to-import-bookmarks-from-firefox-to-chrome)
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)

@@ -73,9 +73,9 @@ You should also pay attention to whether an extension continues to work properly
 
 
 
-### Related Articles
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
-- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)
-- [Chrome Compact Mode How To Enable](/chrome-compact-mode-how-to-enable)
+## Related Articles
+- [chrome for kayak price alerts extension](/chrome-for-kayak-price-alerts-extension)
+- [Chrome Extensions for Flight Price Alerts](/chrome-extensions-for-flight-price-alerts)
+- [chrome for price drop alert extensions](/chrome-for-price-drop-alert-extensions)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

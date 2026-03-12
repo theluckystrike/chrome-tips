@@ -104,9 +104,9 @@ Picture in Picture is one of those Chrome features that becomes indispensable on
 
 
 
-### Related Articles
-- [Chrome Built In Password Checkup How To Use](/chrome-built-in-password-checkup-how-to-use)
-- [Chrome Virus Scan Built In How To Use](/chrome-virus-scan-built-in-how-to-use)
-- [How To Use Chrome Built In Screenshot Tool](/how-to-use-chrome-built-in-screenshot-tool)
+## Related Articles
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

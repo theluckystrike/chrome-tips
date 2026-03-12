@@ -66,7 +66,7 @@ Whether you are making a permanent switch or just need access to your bookmarks 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Export Bookmarks From Chrome](/how-to-export-bookmarks-from-chrome)
-- [How To Import Bookmarks To Chrome](/how-to-import-bookmarks-to-chrome)
-- [Chrome Bookmarks Disappeared How To Recover](/chrome-bookmarks-disappeared-how-to-recover)
+## Related Articles
+- [Chrome Profile Import From Another Computer](/chrome-profile-import-from-another-computer)
+- [Why Are People Switching from Chrome to Firefox](/why-are-people-switching-from-chrome-to-firefox)
+- [Should I Switch from Chrome to Firefox for Speed?](/should-i-switch-from-chrome-to-firefox-for-speed)

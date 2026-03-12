@@ -74,7 +74,7 @@ Give yourself time to learn each new extension properly. Most take just a few mi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Real Estate Agents](/best-chrome-extensions-for-real-estate-agents)
-- [Chrome Extensions For Faster Browsing](/chrome-extensions-for-faster-browsing)
-- [Chrome Extensions For Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+## Related Articles
+- [Best Chrome Extensions for Real Estate Agents](/best-chrome-extensions-for-real-estate-agents)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [Chrome Extensions for Translation Real Time](/chrome-extensions-for-translation-real-time)

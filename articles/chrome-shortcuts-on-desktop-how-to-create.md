@@ -55,10 +55,10 @@ Using **Tab Suspender Pro** is the perfect companion to a **shortcut-heavy workf
 
 
 
-### Related Articles
-- [Chrome Desktop Shortcuts How To Create](/chrome-desktop-shortcuts-how-to-create)
-- [Chrome Desktop Mode On Phone How To Use](/chrome-desktop-mode-on-phone-how-to-use)
-- [Chrome Family Link How To Use On Desktop](/chrome-family-link-how-to-use-on-desktop)
+## Related Articles
+- [chrome desktop shortcuts how to create](/chrome-desktop-shortcuts-how-to-create)
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

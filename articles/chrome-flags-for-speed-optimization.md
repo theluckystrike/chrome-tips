@@ -95,9 +95,9 @@ By combining these Chrome flags with smart tab management using tools like Tab S
 
 
 
-### Related Articles
-- [Chrome Flags For Speed](/chrome-flags-for-speed)
-- [Chrome Flags To Enable For Speed](/chrome-flags-to-enable-for-speed)
-- [Chrome Command Line Flags For Low Memory](/chrome-command-line-flags-for-low-memory)
+## Related Articles
+- [Chrome Flags for Speed Optimization](/chrome-flags-for-speed)
+- [Chrome Flags to Enable for Speed](/chrome-flags-to-enable-for-speed)
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

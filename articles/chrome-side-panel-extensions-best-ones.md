@@ -62,10 +62,10 @@ Using **Tab Suspender Pro** allows you to view a list of all active and "hiberna
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Side Panel Extensions Worth Using](/chrome-side-panel-extensions-worth-using)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
-- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
+- [Chrome Extension Side Panel Tutorial](/chrome-extension-side-panel-tutorial)
+- [chrome side panel features you missed](/chrome-side-panel-features-you-missed)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

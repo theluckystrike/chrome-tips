@@ -13,7 +13,7 @@ tags:
 - productivity
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-best-new-tab-extension-2026
 ---
 # Chrome Best New Tab Extension 2026
@@ -84,9 +84,9 @@ Take time to try a few different options. Most are free to use with optional pre
 
 
 
-### Related Articles
-- [Best Ad Blocker Chrome Extension 2026](/best-ad-blocker-chrome-extension-2026)
-- [Chrome Best Note Taking Extension 2026](/chrome-best-note-taking-extension-2026)
-- [Chrome Best Screenshot Extension 2026](/chrome-best-screenshot-extension-2026)
+## Related Articles
+- [Chrome New Tab Extensions Aesthetic 2026](/chrome-new-tab-extensions-aesthetic-2026)
+- [Chrome VPN Extension Best Free Options 2026](/chrome-vpn-extension-best-free-options-2026)
+- [chrome proxy extension free best 2026](/chrome-proxy-extension-free-best-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

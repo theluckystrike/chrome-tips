@@ -78,9 +78,9 @@ As more websites adopt these performance measurement practices, the overall qual
 
 
 
-### Related Articles
-- [Chrome Intersection Observer Api Explained](/chrome-intersection-observer-api-explained)
-- [Chrome Mutation Observer Api Explained](/chrome-mutation-observer-api-explained)
-- [Chrome Performance Observer Api](/chrome-performance-observer-api)
+## Related Articles
+- [chrome mutation observer api explained](/chrome-mutation-observer-api-explained)
+- [Chrome Resize Observer API Explained](/chrome-resize-observer-api-explained)
+- [Chrome Performance Observer API Explained](/chrome-performance-observer-api)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

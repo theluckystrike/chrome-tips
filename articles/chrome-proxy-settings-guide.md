@@ -218,9 +218,9 @@ With this knowledge, you are now equipped to configure Chrome proxy settings eff
 
 
 
-### Related Articles
-- [Chrome Accessibility On Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)
-- [Chrome For Proxy Settings How To Configure](/chrome-for-proxy-settings-how-to-configure)
-- [Chrome Google Account Privacy Settings Guide](/chrome-google-account-privacy-settings-guide)
+## Related Articles
+- [Chrome for Proxy Settings How to Configure](/chrome-for-proxy-settings-how-to-configure)
+- [Chrome Site Settings Explained Complete Guide](/chrome-site-settings-explained-complete-guide)
+- [chrome privacy settings complete guide 2026](/chrome-privacy-settings-complete-guide-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

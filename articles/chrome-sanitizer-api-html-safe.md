@@ -102,9 +102,9 @@ Finally, keep your browsers updated to ensure you have the latest security impro
 
 
 
-### Related Articles
-- [Are Chrome Extensions Safe To Use](/are-chrome-extensions-safe-to-use)
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
-- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)
+## Related Articles
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

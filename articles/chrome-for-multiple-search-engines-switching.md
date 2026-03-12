@@ -75,7 +75,7 @@ Chrome is built to be flexible, and using it for multiple search engines switchi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Custom Search Engines Setup](/chrome-for-custom-search-engines-setup)
-- [Chrome Custom Search Engines How To Add](/chrome-custom-search-engines-how-to-add)
-- [Chrome Extension For Managing Multiple Email Accounts](/chrome-extension-for-managing-multiple-email-accounts)
+## Related Articles
+- [Chrome Custom Search Engines Guide](/chrome-search-engines-custom)
+- [Chrome for Custom Search Engines Setup](/chrome-for-custom-search-engines-setup)
+- [Chrome Custom Search Engines How to Add](/chrome-custom-search-engines-how-to-add)

@@ -91,9 +91,9 @@ Whenever possible, let Chrome close normally. Force-quitting through **Task Mana
 
 
 
-### Related Articles
-- [Chrome Incognito On Phone How To Open](/chrome-incognito-on-phone-how-to-open)
-- [Chrome Opens Old Tabs On Startup How To Stop](/chrome-opens-old-tabs-on-startup-how-to-stop)
-- [Chrome Opens On Startup Windows How To Stop](/chrome-opens-on-startup-windows-how-to-stop)
+## Related Articles
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Permissions on Startup How to Configure](/chrome-permissions-on-startup-how-to-configure)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

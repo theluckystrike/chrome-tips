@@ -69,9 +69,9 @@ Taking control of your browser settings, using privacy tools, and being thoughtf
 
 
 
-### Related Articles
-- [Chrome Custom Tabs On Android What They Are](/chrome-custom-tabs-on-android-what-they-are)
+## Related Articles
+- [Chrome Custom Tabs on Android What They Are](/chrome-custom-tabs-on-android-what-they-are)
 - [Chrome Origin Trials What They Are](/chrome-origin-trials-what-they-are)
-- [Chrome Activity Controls What They Track](/chrome-activity-controls-what-they-track)
+- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

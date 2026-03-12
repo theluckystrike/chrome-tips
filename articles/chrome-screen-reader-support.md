@@ -110,9 +110,9 @@ Remember that your needs may change over time, so periodically review your setup
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Accessibility Screen Reader Support](/chrome-accessibility-screen-reader-support)
-- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
-- [Chrome Add To Home Screen Vs Install App](/chrome-add-to-home-screen-vs-install-app)
+- [chrome accessibility shortcuts for screen reader](/chrome-accessibility-shortcuts-for-screen-reader)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

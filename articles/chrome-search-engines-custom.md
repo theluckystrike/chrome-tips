@@ -122,9 +122,9 @@ The key is to start small: add search engines for just your top three or four mo
 
 
 
-### Related Articles
-- [Chrome Custom Search Engines How To Add](/chrome-custom-search-engines-how-to-add)
-- [Chrome For Custom Search Engines Setup](/chrome-for-custom-search-engines-setup)
-- [Chrome For Multiple Search Engines Switching](/chrome-for-multiple-search-engines-switching)
+## Related Articles
+- [Chrome for Custom Search Engines Setup](/chrome-for-custom-search-engines-setup)
+- [Chrome Custom Search Engines How to Add](/chrome-custom-search-engines-how-to-add)
+- [Chrome for Multiple Search Engines Switching](/chrome-for-multiple-search-engines-switching)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

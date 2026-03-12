@@ -74,7 +74,7 @@ A good Chrome JetStream score is typically 150 or higher, with scores above 200 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
+## Related Articles
+- [chrome lighthouse performance score explained simply](/chrome-lighthouse-performance-score-explained-simply)
+- [Chrome Octane Score Explained](/chrome-octane-score-explained)
 - [Chrome Benchmark Score What It Means](/chrome-benchmark-score-what-it-means)
-- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)

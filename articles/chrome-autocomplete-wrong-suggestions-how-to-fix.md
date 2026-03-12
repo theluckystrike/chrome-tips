@@ -14,7 +14,7 @@ tags:
 - address-bar
 - suggestions
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-autocomplete-wrong-suggestions-how-to-fix
 ---
 # Chrome Autocomplete Wrong Suggestions How to Fix
@@ -104,7 +104,7 @@ Check your sync settings periodically to make sure suggestions are not coming fr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Autofill Wrong Address How To Fix](/chrome-autofill-wrong-address-how-to-fix)
-- [Chrome Address Bar Autocomplete How To Clear](/chrome-address-bar-autocomplete-how-to-clear)
-- [Chrome Address Bar Suggestions How To Clear](/chrome-address-bar-suggestions-how-to-clear)
+## Related Articles
+- [Chrome Spell Check Wrong Language Fix](/chrome-spell-check-wrong-language-fix)
+- [Chrome Autofill Wrong Address How to Fix](/chrome-autofill-wrong-address-how-to-fix)
+- [Chrome Redirecting to Wrong Pages Fix](/chrome-redirecting-to-wrong-pages-fix)

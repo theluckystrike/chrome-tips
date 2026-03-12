@@ -75,7 +75,7 @@ Using Audible in Chrome is a convenient way to enjoy your audiobooks without ins
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
-- [Chrome For Odysee Web Player Tips](/chrome-for-odysee-web-player-tips)
-- [Chrome Extensions For Spotify Web Player Enhancement](/chrome-extensions-for-spotify-web-player-enhancement)
+## Related Articles
+- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
+- [chrome for odysee web player tips](/chrome-for-odysee-web-player-tips)
+- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)

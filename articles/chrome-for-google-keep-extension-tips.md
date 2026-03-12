@@ -87,7 +87,7 @@ Remember to archive your notes once they are no longer needed. A cluttered Keep 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
-- [Chrome For Google Ads Management Tips](/chrome-for-google-ads-management-tips)
-- [Chrome For Google Classroom Tips](/chrome-for-google-classroom-tips)
+## Related Articles
+- [chrome for google translate extension tips](/chrome-for-google-translate-extension-tips)
+- [Chrome Google Keep Integration Tips](/chrome-google-keep-integration-tips)
+- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)

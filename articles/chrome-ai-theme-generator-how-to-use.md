@@ -14,7 +14,7 @@ tags:
 - appearance
 - personalization
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-theme-generator-how-to-use
 ---
 # Chrome AI Theme Generator How to Use
@@ -87,9 +87,9 @@ For those interested in deeper customization, Chrome Web Store offers numerous t
 
 
 
-### Related Articles
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Password Generator How To Use](/chrome-password-generator-how-to-use)
-- [Chrome Airplay Support How To Use](/chrome-airplay-support-how-to-use)
+## Related Articles
+- [Chrome Password Generator How to Use](/chrome-password-generator-how-to-use)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

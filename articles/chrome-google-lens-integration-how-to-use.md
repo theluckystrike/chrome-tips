@@ -74,7 +74,7 @@ Keeping your browser configured for your specific needs makes all the built-in f
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Gemini Integration How To Use](/chrome-gemini-integration-how-to-use)
-- [How To Use Chrome Without Google Account](/how-to-use-chrome-without-google-account)
-- [How To Use Chrome Without Signing In To Google](/how-to-use-chrome-without-signing-in-to-google)
+## Related Articles
+- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
+- [chrome google photos integration save images](/chrome-google-photos-integration-save-images)

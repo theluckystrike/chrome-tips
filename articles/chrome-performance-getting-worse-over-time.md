@@ -90,9 +90,9 @@ By taking these steps, you can restore Chrome to its responsive best and enjoy a
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Memory Usage Keeps Going Up Over Time Fix](/chrome-memory-usage-keeps-going-up-over-time-fix)
-- [Chrome Animation Performance](/chrome-animation-performance)
-- [Chrome Browser Games Performance Tips](/chrome-browser-games-performance-tips)
+- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

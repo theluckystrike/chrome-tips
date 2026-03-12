@@ -96,9 +96,9 @@ Take a few minutes to review your saved payment methods today and remove any tha
 
 
 
-### Related Articles
-- [Chrome Payment Methods How To Remove](/chrome-payment-methods-how-to-remove)
-- [Chrome Saved Payment Methods How To Edit](/chrome-saved-payment-methods-how-to-edit)
-- [Chrome Autofill Credit Card How To Remove](/chrome-autofill-credit-card-how-to-remove)
+## Related Articles
+- [Chrome Payment Methods How to Remove](/chrome-payment-methods-how-to-remove)
+- [Chrome Saved Payment Methods How to Edit](/chrome-saved-payment-methods-how-to-edit)
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

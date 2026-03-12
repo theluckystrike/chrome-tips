@@ -14,7 +14,7 @@ tags:
 - eye-strain
 - chrome-features
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-auto-dark-mode-for-web-contents
 ---
 Chrome auto dark mode for web contents is something many users have been looking for as they spend more time browsing in the evening or late at night. If you have ever found yourself squinting at a bright white website late at night, you know how uncomfortable it can be. Fortunately, there are ways to make Chrome automatically show websites in dark mode, and this guide will walk you through the options.
@@ -70,7 +70,7 @@ You can also try manually enabling dark mode on individual websites that offer i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
-- [Best Chrome Extensions For Web Developers 2026](/best-chrome-extensions-for-web-developers-2026)
-- [Best Dark Mode Chrome Extension](/best-dark-mode-chrome-extension)
+## Related Articles
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Mobile Dark Mode Force on All Sites](/chrome-mobile-dark-mode-force-on-all-sites)
+- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)

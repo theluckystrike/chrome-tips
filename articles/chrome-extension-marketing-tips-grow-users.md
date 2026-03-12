@@ -81,9 +81,9 @@ Growing your Chrome extension user base takes time and effort, but with the righ
 
 
 
-### Related Articles
-- [Chrome Extension Manifest V3 What Users Need To Know](/chrome-extension-manifest-v3-what-users-need-to-know)
-- [Chrome For Google Keep Extension Tips](/chrome-for-google-keep-extension-tips)
-- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
+## Related Articles
+- [chrome for google translate extension tips](/chrome-for-google-translate-extension-tips)
+- [Chrome Extension Manifest V3 What Users Need to Know](/chrome-extension-manifest-v3-what-users-need-to-know)
+- [Chrome for Google Keep Extension Tips](/chrome-for-google-keep-extension-tips)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

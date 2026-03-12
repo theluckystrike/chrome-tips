@@ -2,10 +2,10 @@
 layout: post
 title: Chrome About Blank Page What It Means
 description: Seeing a blank page in Chrome? Learn what about:blank actually is, why
-  it appears, and when it signals a real problem. Learn how to optimize your browser
-  tod...
-date: '2026-01-15'
-last_modified_at: '2026-03-12'
+  it appears, and when it signals a real problem. Discover essential insights and
+  practi...
+date: '2026-03-09'
+last_modified_at: 2026-03-12
 permalink: chrome-about-blank-page-what-it-means
 ---
 `about:blank` is a built-in browser page that displays literally nothing — no HTML, no scripts, no network requests. Every browser supports it (Chrome, Firefox, Safari, Edge), and it is defined in the URL standard (RFC 6694). It is not an error. It is a valid, intentionally empty page.
@@ -75,7 +75,7 @@ Ultimately, `about:blank` is a tool for efficiency and minimalism. If you find t
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
-- [Chrome Benchmark Score What It Means](/chrome-benchmark-score-what-it-means)
-- [Chrome Cross Origin Error What It Means](/chrome-cross-origin-error-what-it-means)
+## Related Articles
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)

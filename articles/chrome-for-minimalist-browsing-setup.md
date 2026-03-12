@@ -80,7 +80,7 @@ Over time, you will find that a lighter browser helps you focus better and work 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Setup For Elderly Parents](/best-chrome-setup-for-elderly-parents)
-- [Best Chrome Setup For Graphic Designers](/best-chrome-setup-for-graphic-designers)
-- [Chrome Extension For Taking Notes While Browsing](/chrome-extension-for-taking-notes-while-browsing)
+## Related Articles
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)

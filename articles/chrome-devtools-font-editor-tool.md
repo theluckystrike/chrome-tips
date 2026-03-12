@@ -73,7 +73,7 @@ The chrome devtools font editor tool is a powerful feature that many users do no
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Font Editor In Devtools Explained](/chrome-font-editor-in-devtools-explained)
-- [Chrome Devtools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
-- [Chrome Built In Screenshot Tool](/chrome-built-in-screenshot-tool)
+## Related Articles
+- [Chrome Font Editor in DevTools Explained](/chrome-font-editor-in-devtools-explained)
+- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)

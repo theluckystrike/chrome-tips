@@ -81,7 +81,7 @@ Many people also report feeling less overwhelmed after eliminating news feeds fr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For News Reading Best Setup](/chrome-for-news-reading-best-setup)
-- [Best Chrome Setup For Elderly Parents](/best-chrome-setup-for-elderly-parents)
-- [Best Chrome Setup For Graphic Designers](/best-chrome-setup-for-graphic-designers)
+## Related Articles
+- [Chrome for News Reading Best Setup](/chrome-for-news-reading-best-setup)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome Extensions for News Aggregator](/chrome-extensions-for-news-aggregator)

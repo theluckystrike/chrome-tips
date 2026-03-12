@@ -14,7 +14,7 @@ tags:
 - chrome-fix
 - troubleshooting
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-black-screen-when-opening-fix
 ---
 # Chrome Black Screen When Opening Fix: Complete Practical Guide
@@ -173,9 +173,9 @@ If you've tried all these fixes and still see a black screen, the issue might be
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Black Screen Fix](/chrome-black-screen-fix)
 - [Chrome Freezes When Opening New Tab Fix](/chrome-freezes-when-opening-new-tab-fix)
-- [Chrome Pdf Not Downloading Just Opening Fix](/chrome-pdf-not-downloading-just-opening-fix)
+- [Chrome PDF Not Opening Fix](/chrome-pdf-not-opening-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

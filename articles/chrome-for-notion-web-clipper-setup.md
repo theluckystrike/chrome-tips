@@ -84,7 +84,7 @@ While the Notion Web Clipper is excellent for saving web content, you might also
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)
-- [Chrome For Onenote Web Clipper Setup](/chrome-for-onenote-web-clipper-setup)
-- [Chrome For Anki Web Flashcards Setup](/chrome-for-anki-web-flashcards-setup)
+## Related Articles
+- [chrome for onenote web clipper setup](/chrome-for-onenote-web-clipper-setup)
+- [Chrome for Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)

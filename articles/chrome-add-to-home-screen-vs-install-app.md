@@ -15,7 +15,7 @@ tags:
 - pwa
 - mobile-apps
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-add-to-home-screen-vs-install-app
 ---
 # Chrome Add to Home Screen vs Install App
@@ -74,9 +74,9 @@ By thinking about how you use different services on your phone, you can make sma
 
 
 
-### Related Articles
-- [Chrome Home Screen Shortcut How To Add On Phone](/chrome-home-screen-shortcut-how-to-add-on-phone)
-- [Chrome Install As App Pwa How To](/chrome-install-as-app-pwa-how-to)
-- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
+## Related Articles
+- [chrome home screen shortcut how to add on phone](/chrome-home-screen-shortcut-how-to-add-on-phone)
+- [chrome install as app pwa how to](/chrome-install-as-app-pwa-how-to)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

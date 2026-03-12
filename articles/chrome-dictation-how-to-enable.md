@@ -79,7 +79,7 @@ Give it a try on your next email or document. You might find that speaking your 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
-- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)
-- [Chrome Compact Mode How To Enable](/chrome-compact-mode-how-to-enable)
+## Related Articles
+- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)

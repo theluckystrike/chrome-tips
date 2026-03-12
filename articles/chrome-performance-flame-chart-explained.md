@@ -80,9 +80,9 @@ The flame chart demystifies what happens inside your browser. Instead of guessin
 
 
 
-### Related Articles
-- [Chrome Devtools Performance Panel Explained](/chrome-devtools-performance-panel-explained)
-- [Chrome Lighthouse Performance Score Explained Simply](/chrome-lighthouse-performance-score-explained-simply)
-- [Chrome Performance Observer Api Explained](/chrome-performance-observer-api-explained)
+## Related Articles
+- [chrome lighthouse performance score explained simply](/chrome-lighthouse-performance-score-explained-simply)
+- [Chrome Performance Settings Explained 2026](/chrome-performance-settings-explained-2026)
+- [Chrome Performance Observer API Explained](/chrome-performance-observer-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

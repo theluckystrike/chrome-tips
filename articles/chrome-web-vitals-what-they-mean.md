@@ -75,7 +75,7 @@ As a user, you benefit from this focus on web vitals because it pushes websites 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Activity Controls What They Track](/chrome-activity-controls-what-they-track)
+## Related Articles
+- [Chrome Web Vitals Extension How to Use](/chrome-web-vitals-extension-how-to-use)
 - [Chrome Core Web Vitals Check My Website](/chrome-core-web-vitals-check-my-website)
-- [Chrome Custom Tabs On Android What They Are](/chrome-custom-tabs-on-android-what-they-are)
+- [Chrome Web Vitals Optimization Guide](/chrome-web-vitals-optimization)

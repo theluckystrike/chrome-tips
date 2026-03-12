@@ -69,7 +69,7 @@ If you need stronger protection, consider combining IP protection with other pri
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Bounce Tracking Protection Explained](/chrome-bounce-tracking-protection-explained)
-- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)
-- [Chrome Help Me Write Feature Explained](/chrome-help-me-write-feature-explained)
+## Related Articles
+- [chrome fingerprinting protection explained](/chrome-fingerprinting-protection-explained)
+- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
+- [Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering](/chrome-paint-holding-feature-explained)

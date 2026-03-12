@@ -487,9 +487,9 @@ For additional privacy features in your extension workflow, consider exploring t
 
 *
 
-### Related Articles
-- [Chrome Extension Publish To Web Store Guide](/chrome-extension-publish-to-web-store-guide)
-- [Chrome For Screencastify Extension Guide](/chrome-for-screencastify-extension-guide)
-- [Chrome For Stayfocusd Extension Guide](/chrome-for-stayfocusd-extension-guide)
+## Related Articles
+- [Chrome for Screencastify Extension Guide](/chrome-for-screencastify-extension-guide)
+- [Chrome GDPR Cookie Banners Best Extension to Handle](/chrome-gdpr-cookie-banners-best-extension-to-handle)
+- [Chrome Extension Publish to Web Store Guide](/chrome-extension-publish-to-web-store-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

@@ -107,9 +107,9 @@ Experiencing chrome typing lag in text boxes does not mean you need a new comput
 
 
 
-### Related Articles
-- [Chrome Text To Speech Built In Feature](/chrome-text-to-speech-built-in-feature)
-- [Chrome Text To Speech Built In Features](/chrome-text-to-speech-built-in-features)
-- [Chrome Voice Typing In Google Docs](/chrome-voice-typing-in-google-docs)
+## Related Articles
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+- [Chrome Text to Speech Extension Best](/chrome-text-to-speech-extension-best)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

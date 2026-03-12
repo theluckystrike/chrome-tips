@@ -219,7 +219,7 @@ Learning to use Task Manager effectively takes some time, but the payoff is sign
 
 The next time your browser seems sluggish or your system resources are being strained, remember that `Shift + Esc` opens the gateway to understanding and resolving the issue. Chrome Task Manager puts you in control of your browsing experience.
 
-### Related Articles
-- [Chrome Permissions Manager Guide](/chrome-permissions-manager-guide)
-- [Chrome Task Manager Find Heavy Tabs](/chrome-task-manager-find-heavy-tabs)
-- [Chrome Task Manager How To Use](/chrome-task-manager-how-to-use)
+## Related Articles
+- [How to Use Chrome Task Manager to Find Heavy Tabs](/chrome-task-manager-find-heavy-tabs)
+- [Chrome Task Manager Shortcut Explained](/chrome-task-manager-shortcut-explained)
+- [How to Use Chrome Task Manager to Find Slow Tabs](/how-to-use-chrome-task-manager-to-find-slow-tabs)

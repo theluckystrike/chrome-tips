@@ -138,9 +138,9 @@ As payment technology continues to evolve, the Payment Request API will undoubte
 
 
 
-### Related Articles
-- [Chrome Payment Request Api Explained](/chrome-payment-request-api-explained)
-- [Chrome Payment Request Api What Users See](/chrome-payment-request-api-what-users-see)
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
+## Related Articles
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
+- [chrome payment request api what users see](/chrome-payment-request-api-what-users-see)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

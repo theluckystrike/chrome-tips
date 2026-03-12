@@ -70,9 +70,9 @@ A slower browser after an update is frustrating, but it's rarely a permanent pro
 
 
 
-### Related Articles
-- [Chrome Slower After Macos Update Fix](/chrome-slower-after-macos-update-fix)
+## Related Articles
+- [Chrome Slower After macOS Update Fix](/chrome-slower-after-macos-update-fix)
 - [Chrome Slower After Windows Update Fix](/chrome-slower-after-windows-update-fix)
-- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
+- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

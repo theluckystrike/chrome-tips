@@ -78,7 +78,7 @@ Remember that what works today might need adjustment tomorrow. Some subjects mig
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extension For Checking Grammar While Typing](/chrome-extension-for-checking-grammar-while-typing)
-- [Chrome Extension For Taking Notes While Browsing](/chrome-extension-for-taking-notes-while-browsing)
-- [Chrome Extensions For Ambient Sounds Focus](/chrome-extensions-for-ambient-sounds-focus)
+## Related Articles
+- [Chrome for White Noise While Working](/chrome-for-white-noise-while-working)
+- [Chrome Extension for Checking Grammar While Typing](/chrome-extension-for-checking-grammar-while-typing)
+- [Chrome Extension for Taking Notes While Browsing](/chrome-extension-for-taking-notes-while-browsing)

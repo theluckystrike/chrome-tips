@@ -73,9 +73,9 @@ Chrome tab crashes do not have to be a regular occurrence. By keeping your brows
 
 
 
-### Related Articles
-- [Chrome Cast Tab To Tv Not Working Fix](/chrome-cast-tab-to-tv-not-working-fix)
+## Related Articles
+- [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)
+- [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
 - [Chrome Cross Device Tab Sync Not Working Fix](/chrome-cross-device-tab-sync-not-working-fix)
-- [Chrome Freezes When Opening New Tab Fix](/chrome-freezes-when-opening-new-tab-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

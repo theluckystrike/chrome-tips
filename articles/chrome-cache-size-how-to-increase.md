@@ -69,7 +69,7 @@ Pairing these adjustments with good tab management habits creates a better overa
 
 
 
-### Related Articles
-- [Chrome Text Size How To Increase Permanently](/chrome-text-size-how-to-increase-permanently)
-- [Chrome Back Forward Cache How To Test](/chrome-back-forward-cache-how-to-test)
-- [Chrome Font Size How To Change Permanently](/chrome-font-size-how-to-change-permanently)
+## Related Articles
+- [Chrome Text Size How to Increase Permanently](/chrome-text-size-how-to-increase-permanently)
+- [Chrome Cache Folder Size and Location: Complete Guide](/chrome-cache-folder-size-and-location)
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)

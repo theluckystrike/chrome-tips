@@ -70,9 +70,9 @@ Finally, always respect user preferences. Make it easy for users to manage their
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Web Push Notifications Setup Guide](/chrome-web-push-notifications-setup-guide)
-- [Chrome For Fitness Tracking Web Apps](/chrome-for-fitness-tracking-web-apps)
-- [Chrome Push Notifications Api Explained](/chrome-push-notifications-api-explained)
+- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)
+- [chrome web apps how to install](/chrome-web-apps-how-to-install)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

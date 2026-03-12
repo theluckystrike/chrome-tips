@@ -63,7 +63,7 @@ The good news is that Chrome keeps improving this feature, and the performance i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Preloading Pages Should I Enable It](/chrome-preloading-pages-should-i-enable-it)
-- [Chrome Site Isolation Enable Extra Security](/chrome-site-isolation-enable-extra-security)
-- [Chrome Enable Cookies For One Site How To](/chrome-enable-cookies-for-one-site-how-to)
+## Related Articles
+- [How to Enable Chrome Site Isolation for Extra Security](/chrome-site-isolation-enable-extra-security)
+- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
+- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)

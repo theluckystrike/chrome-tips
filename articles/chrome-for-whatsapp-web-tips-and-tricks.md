@@ -74,7 +74,7 @@ These chrome for WhatsApp Web tips and tricks can transform how you use the mess
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Google Flights Tips And Tricks](/chrome-for-google-flights-tips-and-tricks)
-- [Chrome For Google Sheets Tips And Tricks](/chrome-for-google-sheets-tips-and-tricks)
-- [Chrome For Ipad Tips And Tricks](/chrome-for-ipad-tips-and-tricks)
+## Related Articles
+- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
+- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
+- [chrome for odysee web player tips](/chrome-for-odysee-web-player-tips)

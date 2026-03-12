@@ -107,9 +107,9 @@ With WebGL properly configured, you will enjoy smooth graphics rendering, faster
 
 
 
-### Related Articles
-- [Chrome Webgl Not Working Fix](/chrome-webgl-not-working-fix)
-- [How To Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
-- [How To Check If Chrome Extension Is Spying On Me](/how-to-check-if-chrome-extension-is-spying-on-me)
+## Related Articles
+- [Chrome WebGL Not Working Fix](/chrome-webgl-not-working-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

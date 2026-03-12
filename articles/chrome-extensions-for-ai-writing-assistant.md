@@ -79,9 +79,9 @@ Remember that these tools are meant to assist you, not replace your own voice an
 
 
 
-### Related Articles
-- [Chrome Extensions For Cover Letter Writing](/chrome-extensions-for-cover-letter-writing)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
-- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
+## Related Articles
+- [Chrome Extensions for Cover Letter Writing](/chrome-extensions-for-cover-letter-writing)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

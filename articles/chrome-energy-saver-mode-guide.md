@@ -109,9 +109,9 @@ By combining Chrome's built-in Energy Saver Mode with smart browsing habits and 
 
 
 
-### Related Articles
-- [Chrome Energy Saver Mode Explained](/chrome-energy-saver-mode-explained)
+## Related Articles
 - [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
-- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
+- [Chrome Energy Saver Mode Explained](/chrome-energy-saver-mode-explained)
+- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

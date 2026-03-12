@@ -16,7 +16,7 @@ tags:
 - mobile
 - browser-settings
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-accessibility-on-phone-settings-guide
 ---
 # Chrome Accessibility on Phone Settings Guide
@@ -93,9 +93,9 @@ For users with significant visual impairments, dedicated screen reader apps and 
 
 
 
-### Related Articles
-- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
-- [Chrome Accessibility Tree Guide](/chrome-accessibility-tree-guide)
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+## Related Articles
+- [Chrome Proxy Settings Guide](/chrome-proxy-settings-guide)
+- [Chrome Accessibility Features Guide: Everything You Need to Know](/chrome-accessibility-features-guide)
+- [Chrome Site Settings Explained Complete Guide](/chrome-site-settings-explained-complete-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

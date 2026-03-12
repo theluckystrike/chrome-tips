@@ -88,7 +88,7 @@ By understanding why clipboard permission is requested, being thoughtful about w
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome Persistent Storage Permission Explained](/chrome-persistent-storage-permission-explained)
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
-- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)

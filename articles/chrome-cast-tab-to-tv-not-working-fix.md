@@ -86,7 +86,7 @@ Casting from Chrome to your TV is incredibly useful when it works, and most of t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Casting To Chromecast Not Working Fix](/chrome-casting-to-chromecast-not-working-fix)
+## Related Articles
 - [Chrome Cross Device Tab Sync Not Working Fix](/chrome-cross-device-tab-sync-not-working-fix)
-- [How To Cast Chrome Tab To Tv](/how-to-cast-chrome-tab-to-tv)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)

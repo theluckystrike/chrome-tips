@@ -67,7 +67,7 @@ By keeping your extension list lean, choosing well-maintained extensions, and us
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
-- [Chrome Extensions Disappeared After Update](/chrome-extensions-disappeared-after-update)
 - [Chrome Extensions Permissions Explained Simply](/chrome-extensions-permissions-explained-simply)
+- [Chrome Extensions Disappeared After Update](/chrome-extensions-disappeared-after-update)

@@ -68,7 +68,7 @@ For those who want a smoother browsing experience with less manual management, b
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Enable Cookies For One Site How To](/chrome-enable-cookies-for-one-site-how-to)
-- [Chrome How To Enable Cookies](/chrome-how-to-enable-cookies)
-- [How To Clear Cookies For One Site In Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
+## Related Articles
+- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
+- [chrome how to enable cookies](/chrome-how-to-enable-cookies)
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)

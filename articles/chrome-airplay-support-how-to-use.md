@@ -14,7 +14,7 @@ tags:
 - streaming
 - mac-tips
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-airplay-support-how-to-use
 ---
 # Chrome AirPlay Support How to Use
@@ -67,9 +67,9 @@ If AirPlay is essential for your daily workflow, using Safari on a Mac or invest
 
 
 
-### Related Articles
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Ai Theme Generator How To Use](/chrome-ai-theme-generator-how-to-use)
-- [Chrome Android Reading List How To Use](/chrome-android-reading-list-how-to-use)
+## Related Articles
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
+- [Chrome OS vs Windows for Basic Use](/chrome-os-vs-windows-for-basic-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

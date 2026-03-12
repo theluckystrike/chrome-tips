@@ -88,9 +88,9 @@ By understanding how site isolation works, you can better appreciate the protect
 
 
 
-### Related Articles
-- [Chrome Site Isolation What It Means](/chrome-site-isolation-what-it-means)
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
-- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
+## Related Articles
+- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
+- [Chrome Site Isolation Explained Simply](/chrome-site-isolation-explained-simply)
+- [Chrome Strict Site Isolation: Should I Enable](/chrome-strict-site-isolation-should-i-enable)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

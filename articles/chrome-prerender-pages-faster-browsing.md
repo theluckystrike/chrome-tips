@@ -93,9 +93,9 @@ For users who want even more control over tab management and performance, combin
 
 
 
-### Related Articles
-- [Chrome Extensions For Faster Browsing](/chrome-extensions-for-faster-browsing)
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
-- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
+## Related Articles
+- [Chrome Extensions for Faster Browsing](/chrome-extensions-for-faster-browsing)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

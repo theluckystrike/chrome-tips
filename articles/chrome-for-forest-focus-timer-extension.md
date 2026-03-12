@@ -62,7 +62,7 @@ Give yourself permission to experiment with different extensions and settings un
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extension For Focus Mode Block Distractions](/chrome-extension-for-focus-mode-block-distractions)
-- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
-- [Chrome Extension For Auto Fill Forms Faster](/chrome-extension-for-auto-fill-forms-faster)
+## Related Articles
+- [Chrome Extension for Focus Mode Block Distractions](/chrome-extension-for-focus-mode-block-distractions)
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)

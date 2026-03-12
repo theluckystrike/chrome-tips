@@ -148,9 +148,9 @@ For long-term stability, keep Chrome updated and consider managing your tabs mor
 
 
 
-### Related Articles
-- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+## Related Articles
 - [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
-- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+- [chrome address bar not working fix](/chrome-address-bar-not-working-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

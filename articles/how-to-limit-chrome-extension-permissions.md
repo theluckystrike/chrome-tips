@@ -97,7 +97,7 @@ Most extensions are safe and useful when you choose them carefully. By taking co
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Permissions On Android How To Manage](/chrome-permissions-on-android-how-to-manage)
-- [Chrome Permissions On Startup How To Configure](/chrome-permissions-on-startup-how-to-configure)
+## Related Articles
+- [Chrome Extension Permissions Too Many Warning](/chrome-extension-permissions-too-many-warning)
+- [How to Limit Screen Time in Chrome with Extensions](/chrome-limit-screen-time-with-extension)
+- [Chrome Extension Permissions Best Practices](/chrome-extension-permissions-best-practices)

@@ -89,9 +89,9 @@ Keeping your Android operating system and Chrome app updated is also important, 
 
 
 
-### Related Articles
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
-- [Chrome Autofill On Phone How To Manage](/chrome-autofill-on-phone-how-to-manage)
-- [Chrome Camera Access On Phone How To Manage](/chrome-camera-access-on-phone-how-to-manage)
+## Related Articles
+- [Chrome Site Permissions How to Manage](/chrome-site-permissions-how-to-manage)
+- [Chrome Site Permissions How to Manage All](/chrome-site-permissions-how-to-manage-all)
+- [Chrome Android Tabs Too Many How to Manage](/chrome-android-tabs-too-many-how-to-manage)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

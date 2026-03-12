@@ -95,9 +95,9 @@ The combination of efficient tab management with powerful workspace editing crea
 
 
 
-### Related Articles
-- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
-- [Chrome Accessibility On Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)
-- [Chrome Accessibility Tree Guide](/chrome-accessibility-tree-guide)
+## Related Articles
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

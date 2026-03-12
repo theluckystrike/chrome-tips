@@ -54,9 +54,9 @@ Regardless of which browser you choose, keeping track of many open tabs can beco
 
 
 
-### Related Articles
-- [Chrome Vs Samsung Internet For Android](/chrome-vs-samsung-internet-for-android)
-- [Chrome Crashing On Samsung Galaxy Phone](/chrome-crashing-on-samsung-galaxy-phone)
-- [Chrome Custom Tabs On Android What They Are](/chrome-custom-tabs-on-android-what-they-are)
+## Related Articles
+- [Chrome vs Samsung Internet for Android](/chrome-vs-samsung-internet-for-android)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+- [Chrome Crashing on Samsung Galaxy Phone](/chrome-crashing-on-samsung-galaxy-phone)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

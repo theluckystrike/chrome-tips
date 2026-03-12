@@ -62,9 +62,9 @@ Within a few days of practice, these shortcuts will become automatic. You will w
 
 
 
-### Related Articles
-- [Chrome Drag Drop Tabs Between Windows](/chrome-drag-drop-tabs-between-windows)
-- [How To Move Chrome Tabs Between Windows Easily](/how-to-move-chrome-tabs-between-windows-easily)
-- [Chrome Address Bar Focus Shortcut](/chrome-address-bar-focus-shortcut)
+## Related Articles
+- [How to Drag and Drop Tabs Between Windows in Chrome: A Complete Guide](/chrome-drag-drop-tabs-between-windows)
+- [How to Move Chrome Tabs Between Windows Easily](/how-to-move-chrome-tabs-between-windows-easily)
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -85,9 +85,9 @@ Chrome using too much battery on laptop is a common problem, but it is one you c
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Using Too Much Disk Space Fix](/chrome-using-too-much-disk-space-fix)
-- [Chrome Using Too Much Memory On Macbook Air](/chrome-using-too-much-memory-on-macbook-air)
-- [Chrome Extension Using Too Much Memory Find](/chrome-extension-using-too-much-memory-find)
+- [Chrome Tabs Using Too Much Memory Which One](/chrome-tabs-using-too-much-memory-which-one)
+- [Chrome Using Too Much Memory on MacBook Air](/chrome-using-too-much-memory-on-macbook-air)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

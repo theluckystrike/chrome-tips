@@ -78,7 +78,7 @@ By paying attention to how you use your browser and making a few intentional adj
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Canva Web App Optimization](/chrome-for-canva-web-app-optimization)
-- [Chrome For Coursera Web App Optimization](/chrome-for-coursera-web-app-optimization)
-- [Chrome For Descript Web App Optimization](/chrome-for-descript-web-app-optimization)
+## Related Articles
+- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)
+- [Chrome for Coursera Web App Optimization](/chrome-for-coursera-web-app-optimization)
+- [Chrome for Descript Web App Optimization](/chrome-for-descript-web-app-optimization)

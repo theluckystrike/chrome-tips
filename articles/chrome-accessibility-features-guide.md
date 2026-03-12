@@ -15,7 +15,7 @@ tags:
 - browser-accessibility
 - assistive-technology
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-accessibility-features-guide
 ---
 # Chrome Accessibility Features Guide: Everything You Need to Know
@@ -92,9 +92,9 @@ Chrome accessibility features represent significant progress in making the web a
 
 
 
-### Related Articles
-- [Chrome Accessibility Features You Didnt Know About](/chrome-accessibility-features-you-didnt-know-about)
-- [Chrome Accessibility On Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)
-- [Chrome Accessibility Tree Guide](/chrome-accessibility-tree-guide)
+## Related Articles
+- [Chrome Accessibility Features You Didn't Know About](/chrome-accessibility-features-you-didnt-know-about)
+- [Chromebook Accessibility Features Guide](/chromebook-accessibility-features-guide)
+- [Chrome Side Panel Features Guide](/chrome-side-panel-features-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

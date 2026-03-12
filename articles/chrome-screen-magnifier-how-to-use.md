@@ -54,10 +54,10 @@ To keep your browsing smooth, consider using **Tab Suspender Pro**. This extensi
 
 
 
-### Related Articles
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Ai Theme Generator How To Use](/chrome-ai-theme-generator-how-to-use)
-- [Chrome Airplay Support How To Use](/chrome-airplay-support-how-to-use)
+## Related Articles
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

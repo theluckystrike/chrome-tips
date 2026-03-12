@@ -82,9 +82,9 @@ For the most comprehensive solution, disable notifications at the browser level,
 
 
 
-### Related Articles
-- [Chrome Site Keeps Asking For Notifications Stop](/chrome-site-keeps-asking-for-notifications-stop)
-- [Chrome Clear Data For One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
-- [Chrome For Managing Site Notifications](/chrome-for-managing-site-notifications)
+## Related Articles
+- [Chrome Site Keeps Asking for Notifications? Here's How to Stop It](/chrome-site-keeps-asking-for-notifications-stop)
+- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
+- [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

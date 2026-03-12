@@ -77,7 +77,7 @@ The best part is that you do not need to learn all of them at once. Start with t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Gmail Keyboard Shortcuts](/chrome-gmail-keyboard-shortcuts)
-- [Chrome Google Docs Keyboard Shortcuts](/chrome-google-docs-keyboard-shortcuts)
+## Related Articles
 - [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)

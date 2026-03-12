@@ -89,7 +89,7 @@ Taking time to understand and adjust the chrome preload pages setting lets you c
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Preloading Pages Setting Explained](/chrome-preloading-pages-setting-explained)
 - [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
 - [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)

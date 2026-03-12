@@ -107,9 +107,9 @@ As you navigate this changing environment, remember that user trust is paramount
 
 
 
-### Related Articles
-- [Chrome Fetch Api Complete Guide](/chrome-fetch-api-complete-guide)
-- [Chrome Mediarecorder Api Guide](/chrome-mediarecorder-api-guide)
-- [Chrome Notification Api Guide](/chrome-notification-api-guide)
+## Related Articles
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

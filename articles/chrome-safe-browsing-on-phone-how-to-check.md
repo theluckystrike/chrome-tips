@@ -73,7 +73,7 @@ Remember to check periodically that it has not been accidentally turned off, esp
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Autofill On Phone How To Manage](/chrome-autofill-on-phone-how-to-manage)
-- [Chrome Camera Access On Phone How To Manage](/chrome-camera-access-on-phone-how-to-manage)
+## Related Articles
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
+- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
+- [Chrome Enhanced Safe Browsing Guide](/chrome-enhanced-safe-browsing)

@@ -88,7 +88,7 @@ Make sure your computer meets the minimum requirements for the WebXR content you
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Virtual Keyboard Api Explained](/chrome-virtual-keyboard-api-explained)
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
-- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)
+## Related Articles
+- [Chrome Virtual Keyboard API Explained](/chrome-virtual-keyboard-api-explained)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)

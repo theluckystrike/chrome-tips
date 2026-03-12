@@ -111,9 +111,9 @@ As web technologies continue to evolve, the line between native applications and
 
 
 
-### Related Articles
-- [Chrome Web Bluetooth Api Guide](/chrome-web-bluetooth-api-guide)
-- [Chrome Web Nfc Api Guide](/chrome-web-nfc-api-guide)
-- [Chrome Web Serial Api Guide](/chrome-web-serial-api-guide)
+## Related Articles
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
+- [Chrome Web USB API Explained](/chrome-web-usb-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

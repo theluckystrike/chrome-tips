@@ -57,9 +57,9 @@ Whatever you choose, the ability to permanently highlight text on websites chang
 
 
 
-### Related Articles
-- [Chrome Extension For Tracking Time Spent On Websites](/chrome-extension-for-tracking-time-spent-on-websites)
-- [Chrome Extensions For Highlighting Text On Web](/chrome-extensions-for-highlighting-text-on-web)
-- [Chrome Extension For Measuring Things On Screen](/chrome-extension-for-measuring-things-on-screen)
+## Related Articles
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Text to Speech Extension Best](/chrome-text-to-speech-extension-best)
+- [Chrome Extension for Translating Selected Text](/chrome-extension-for-translating-selected-text)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -73,9 +73,9 @@ Chrome's View Page Source feature is a powerful tool that reveals the hidden wor
 
 
 
-### Related Articles
-- [Chrome About Blank Page What It Means](/chrome-about-blank-page-what-it-means)
-- [Chrome Page Source How To View Explained](/chrome-page-source-how-to-view-explained)
-- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
+## Related Articles
+- [Chrome Page Source How to View Explained](/chrome-page-source-how-to-view-explained)
+- [Chrome View Source Shortcut](/chrome-view-source-shortcut)
+- [Chrome View Page Resources How to](/chrome-view-page-resources-how-to)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -125,9 +125,9 @@ Whether you are working with webpack, debugging minified code, or setting up err
 
 
 
-### Related Articles
-- [Chrome Source Maps Debug Minified Code](/chrome-source-maps-debug-minified-code)
+## Related Articles
 - [Chrome Source Maps Explained Simply](/chrome-source-maps-explained-simply)
-- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
+- [chrome source maps debug minified code](/chrome-source-maps-debug-minified-code)
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

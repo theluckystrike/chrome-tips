@@ -75,9 +75,9 @@ Finally, remember that pinned tabs are not the only tool available for managing 
 
 
 
-### Related Articles
-- [Chrome Sleeping Tabs Explained](/chrome-sleeping-tabs-explained)
-- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
-- [Best Way To Organize Chrome Tabs](/best-way-to-organize-chrome-tabs)
+## Related Articles
+- [Chrome Sleeping Tabs Explained: What They Are and How to Use Them](/chrome-sleeping-tabs-explained)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -127,9 +127,9 @@ If you're looking to optimize Chrome further, give Tab Suspender Pro a try. It's
 
 
 
-### Related Articles
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chrome Webrtc Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
-- [Chrome Drag And Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
+## Related Articles
+- [chrome webrtc leak what it is and how to fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
+- [Chrome WebRTC Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
+- [Chrome Extensions for WebRTC Leak Prevention](/chrome-extensions-for-webrtc-leak-prevention)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

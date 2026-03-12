@@ -62,7 +62,7 @@ A thoughtful approach to cloud management helps you enjoy the convenience of syn
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Browser Management For It Admins](/chrome-browser-management-for-it-admins)
-- [Chrome Browser Process Vs Tab Process Explained](/chrome-browser-process-vs-tab-process-explained)
-- [Chrome Window Management Api Explained](/chrome-window-management-api-explained)
+## Related Articles
+- [Chrome Window Management API Explained](/chrome-window-management-api-explained)
+- [Chrome Browser Management for IT Admins](/chrome-browser-management-for-it-admins)
+- [chrome browser process vs tab process explained](/chrome-browser-process-vs-tab-process-explained)

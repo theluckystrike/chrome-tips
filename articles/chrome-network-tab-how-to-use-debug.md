@@ -166,9 +166,9 @@ Whether you're debugging a production issue, optimizing your own website, or jus
 
 
 
-### Related Articles
-- [Chrome Tab Color Coding How To Use](/chrome-tab-color-coding-how-to-use)
-- [Chrome Tab Groups On Phone How To Use](/chrome-tab-groups-on-phone-how-to-use)
-- [Chrome Tab Search Feature How To Use](/chrome-tab-search-feature-how-to-use)
+## Related Articles
+- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
+- [Why Does Each Chrome Tab Use So Much Memory](/why-does-each-chrome-tab-use-so-much-memory)
+- [Chrome Tab Color Coding How to Use](/chrome-tab-color-coding-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -74,9 +74,9 @@ By understanding how these features work and incorporating them into your daily 
 
 
 
-### Related Articles
-- [Chrome Process Per Tab Disable To Save Memory](/chrome-process-per-tab-disable-to-save-memory)
-- [Best Tab Suspender To Save Memory 2026](/best-tab-suspender-to-save-memory-2026)
-- [Chrome Tab Memory Usage How To Check](/chrome-tab-memory-usage-how-to-check)
+## Related Articles
+- [Chrome Process Per Tab: How to Disable It to Save Memory](/chrome-process-per-tab-disable-to-save-memory)
+- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
+- [Best Tab Suspender to Save Memory 2026](/best-tab-suspender-to-save-memory-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -62,10 +62,10 @@ This extension automatically "hibernates" inactive tabs, freeing up **RAM** so t
 
 
 
-### Related Articles
-- [Chrome Saved Passwords How To View](/chrome-saved-passwords-how-to-view)
-- [How To View Saved Passwords In Chrome 2026](/how-to-view-saved-passwords-in-chrome-2026)
-- [Chrome Notifications How To Stop Them](/chrome-notifications-how-to-stop-them)
+## Related Articles
+- [How to View Saved Passwords in Chrome 2026](/how-to-view-saved-passwords-in-chrome-2026)
+- [Chrome Saved Passwords How to View](/chrome-saved-passwords-how-to-view)
+- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

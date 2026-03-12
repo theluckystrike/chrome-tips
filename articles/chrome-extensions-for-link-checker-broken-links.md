@@ -52,7 +52,7 @@ The next time you encounter a dead end while browsing, remember that help is jus
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Color Accessibility Checker](/chrome-extensions-for-color-accessibility-checker)
-- [Chrome Extensions For Robots Txt Checker](/chrome-extensions-for-robots-txt-checker)
-- [Chrome Extensions For Ssl Certificate Checker](/chrome-extensions-for-ssl-certificate-checker)
+## Related Articles
+- [Chrome Extensions for Robots Txt Checker](/chrome-extensions-for-robots-txt-checker)
+- [Chrome Extensions for Color Accessibility Checker](/chrome-extensions-for-color-accessibility-checker)
+- [Chrome Extensions for SSL Certificate Checker](/chrome-extensions-for-ssl-certificate-checker)

@@ -82,9 +82,9 @@ Understanding your browser and keeping it updated is a simple but effective way 
 
 
 
-### Related Articles
-- [How To Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
-- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
-- [Chrome Browser Fingerprint How To Check Yours](/chrome-browser-fingerprint-how-to-check-yours)
+## Related Articles
+- [How to Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
+- [Chrome vs Brave Browser Which Is Better](/chrome-vs-brave-browser-which-is-better)
+- [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

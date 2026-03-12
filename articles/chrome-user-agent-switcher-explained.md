@@ -76,9 +76,9 @@ Remember that changing your user agent is not a privacy solution and websites ca
 
 
 
-### Related Articles
-- [Chrome Client Hints Instead Of User Agent](/chrome-client-hints-instead-of-user-agent)
-- [Chrome Extension For Changing User Agent](/chrome-extension-for-changing-user-agent)
-- [Chrome Extensions For User Agent Randomizer](/chrome-extensions-for-user-agent-randomizer)
+## Related Articles
+- [Chrome Client Hints Instead of User Agent: What Changed](/chrome-client-hints-instead-of-user-agent)
+- [Chrome Extension for Changing User Agent](/chrome-extension-for-changing-user-agent)
+- [Chrome User Timing API Explained](/chrome-user-timing-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

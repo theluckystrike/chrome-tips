@@ -14,7 +14,7 @@ tags:
 - activity-controls
 - google
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-activity-controls-what-they-track
 ---
 # Chrome Activity Controls What They Track
@@ -79,9 +79,9 @@ Taking a few minutes to review your Activity Controls and adjust them to your co
 
 
 
-### Related Articles
-- [Chrome Custom Tabs On Android What They Are](/chrome-custom-tabs-on-android-what-they-are)
-- [Chrome Origin Trials What They Are](/chrome-origin-trials-what-they-are)
-- [Chrome Super Cookies What Are They](/chrome-super-cookies-what-are-they)
+## Related Articles
+- [Chrome Do Not Track: Does It Actually Work](/chrome-do-not-track-does-it-actually-work)
+- [Chrome Web Vitals What They Mean](/chrome-web-vitals-what-they-mean)
+- [Chrome Parental Controls — How to Set Up for Your Kids](/chrome-parental-controls-how-to-set-up)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

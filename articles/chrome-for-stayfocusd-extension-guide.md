@@ -82,7 +82,7 @@ With your browser configured to support your focus, you will find it easier to a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Screencastify Extension Guide](/chrome-for-screencastify-extension-guide)
-- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
-- [Chrome Extension For Auto Fill Forms Faster](/chrome-extension-for-auto-fill-forms-faster)
+## Related Articles
+- [Chrome for Screencastify Extension Guide](/chrome-for-screencastify-extension-guide)
+- [Chrome Extension GDPR Compliance Guide](/chrome-extension-gdpr-compliance-guide)
+- [Chrome Extension Publish to Web Store Guide](/chrome-extension-publish-to-web-store-guide)

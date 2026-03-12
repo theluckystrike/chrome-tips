@@ -13,7 +13,7 @@ tags:
 - summarize
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-summarize-feature-how-to-use
 ---
 # Chrome AI Summarize Feature How to Use
@@ -82,9 +82,9 @@ Remember that AI summarization is a tool to enhance your reading, not replace it
 
 
 
-### Related Articles
-- [Chrome Ai Theme Generator How To Use](/chrome-ai-theme-generator-how-to-use)
-- [Chrome Send To Device Feature How To Use](/chrome-send-to-device-feature-how-to-use)
-- [Chrome Shopping List Feature How To Use](/chrome-shopping-list-feature-how-to-use)
+## Related Articles
+- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
+- [Chrome Send to Device Feature How to Use](/chrome-send-to-device-feature-how-to-use)
+- [Chrome Tab to Search Feature How to Use](/chrome-tab-to-search-feature-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

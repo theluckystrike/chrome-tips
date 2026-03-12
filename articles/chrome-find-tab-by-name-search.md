@@ -105,9 +105,9 @@ Next time you have 20 tabs open and can't find that one important page, try thes
 
 
 
-### Related Articles
-- [Chrome Image Search By Url How To](/chrome-image-search-by-url-how-to)
-- [Chrome Search By Image Right Click How To](/chrome-search-by-image-right-click-how-to)
-- [Chrome Search Engine Changed By Itself Fix](/chrome-search-engine-changed-by-itself-fix)
+## Related Articles
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [Chrome Tab Search Shortcut: Find Any Open Tab Instantly](/chrome-tab-search-shortcut)
+- [Chrome Which Tab Is Using Most CPU How to Find](/chrome-which-tab-is-using-most-cpu-how-to-find)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -86,9 +86,9 @@ Chrome's translation feature is incredibly useful for navigating the multilingua
 
 
 
-### Related Articles
-- [Chrome Translate Page Not Working Fix](/chrome-translate-page-not-working-fix)
-- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
-- [Chrome Autofill Not Working Fix](/chrome-autofill-not-working-fix)
+## Related Articles
+- [Chrome Translate Page Not Working Fix: Practical Solutions That Actually Work](/chrome-translate-page-not-working-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

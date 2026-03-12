@@ -75,9 +75,9 @@ That said, Chrome's built-in settings are usually sufficient for most users who 
 
 
 
-### Related Articles
-- [Chrome Saved Payment Methods How To Edit](/chrome-saved-payment-methods-how-to-edit)
-- [Chrome Autofill Credit Card How To Remove](/chrome-autofill-credit-card-how-to-remove)
-- [Chrome Most Visited Sites How To Remove](/chrome-most-visited-sites-how-to-remove)
+## Related Articles
+- [chrome payment methods remove](/chrome-payment-methods-remove)
+- [Chrome Saved Payment Methods How to Edit](/chrome-saved-payment-methods-how-to-edit)
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

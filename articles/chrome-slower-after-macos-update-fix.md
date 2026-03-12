@@ -101,9 +101,9 @@ Remember, if you tend to keep many tabs open, Tab Suspender Pro can be a valuabl
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Slower After Windows Update Fix](/chrome-slower-after-windows-update-fix)
-- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
 - [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
+- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

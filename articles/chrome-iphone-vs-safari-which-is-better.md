@@ -70,7 +70,7 @@ The good news is that you can experiment with both and see which one feels bette
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Vs Safari For Iphone Which Is Better](/chrome-vs-safari-for-iphone-which-is-better)
-- [Chrome Multiple Windows Vs Tabs Which Is Better](/chrome-multiple-windows-vs-tabs-which-is-better)
-- [Chrome Reset Vs Reinstall Which Is Better](/chrome-reset-vs-reinstall-which-is-better)
+## Related Articles
+- [Chrome vs Safari for iPhone Which is Better](/chrome-vs-safari-for-iphone-which-is-better)
+- [Chrome vs Brave Browser Which Is Better](/chrome-vs-brave-browser-which-is-better)
+- [Chrome Reset vs Reinstall: Which Is Better?](/chrome-reset-vs-reinstall-which-is-better)

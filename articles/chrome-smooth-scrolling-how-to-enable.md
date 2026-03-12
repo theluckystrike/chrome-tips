@@ -65,7 +65,7 @@ Give it a try for a few days. You might find that those gentle glides make readi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Enable Chrome Smooth Scrolling](/how-to-enable-chrome-smooth-scrolling)
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
-- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)
+## Related Articles
+- [How to Enable Chrome Smooth Scrolling](/how-to-enable-chrome-smooth-scrolling)
+- [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/chrome-smooth-scrolling-enable)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)

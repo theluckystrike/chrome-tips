@@ -82,9 +82,9 @@ Remember that Core Web Vitals are just one part of overall website performance. 
 
 
 
-### Related Articles
-- [Chrome Web Vitals Extension How To Use](/chrome-web-vitals-extension-how-to-use)
-- [Chrome Web Vitals Optimization](/chrome-web-vitals-optimization)
+## Related Articles
 - [Chrome Web Vitals What They Mean](/chrome-web-vitals-what-they-mean)
+- [How to Check Website Speed in Chrome](/how-to-check-website-speed-in-chrome)
+- [Chrome Web Vitals Extension How to Use](/chrome-web-vitals-extension-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -75,9 +75,9 @@ Chrome layer cascade CSS gives you precise control over how styles interact, mak
 
 
 
-### Related Articles
-- [Chrome Layer Css Cascade Layers Explained](/chrome-layer-css-cascade-layers-explained)
-- [Chrome Anchor Positioning Css](/chrome-anchor-positioning-css)
-- [Chrome Aspect Ratio Css Property](/chrome-aspect-ratio-css-property)
+## Related Articles
+- [Chrome Layer CSS Cascade Layers Explained](/chrome-layer-css-cascade-layers-explained)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

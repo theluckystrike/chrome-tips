@@ -35,7 +35,7 @@ The right combination of Chrome extensions for graphic designers depends on your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Graphic Designers](/best-chrome-extensions-for-graphic-designers)
-- [Best Chrome Extensions For Ux Designers](/best-chrome-extensions-for-ux-designers)
-- [Best Chrome Setup For Graphic Designers](/best-chrome-setup-for-graphic-designers)
+## Related Articles
+- [Best Chrome Extensions for Graphic Designers](/best-chrome-extensions-for-graphic-designers)
+- [Best Chrome Extensions for UX Designers](/best-chrome-extensions-for-ux-designers)
+- [best chrome setup for graphic designers](/best-chrome-setup-for-graphic-designers)

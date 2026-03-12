@@ -97,9 +97,9 @@ Try both browsers for a week and see which one feels faster on your specific com
 
 
 
-### Related Articles
-- [Should I Switch From Chrome To Firefox For Speed](/should-i-switch-from-chrome-to-firefox-for-speed)
-- [Should I Switch To Firefox For Less Ram](/should-i-switch-to-firefox-for-less-ram)
-- [Chrome Flags To Enable For Speed](/chrome-flags-to-enable-for-speed)
+## Related Articles
+- [Should I Switch from Chrome to Firefox for Speed?](/should-i-switch-from-chrome-to-firefox-for-speed)
+- [Chrome vs Edge Speed Test 2026](/chrome-vs-edge-speed-test-2026)
+- [Should I Use Chrome or Edge in 2026?](/should-i-use-chrome-or-edge-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

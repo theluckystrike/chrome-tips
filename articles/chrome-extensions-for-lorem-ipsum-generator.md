@@ -56,7 +56,7 @@ Taking a moment to organize your extension collection and ensure your browser is
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Citation Generator](/chrome-extensions-for-citation-generator)
-- [Chrome Extensions For Color Palette Generator](/chrome-extensions-for-color-palette-generator)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome Extensions for Citation Generator](/chrome-extensions-for-citation-generator)
+- [Chrome Extensions for Color Palette Generator](/chrome-extensions-for-color-palette-generator)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

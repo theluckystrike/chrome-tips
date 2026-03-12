@@ -93,9 +93,9 @@ If Chrome Developer Tools is making your page slow, remember these key points: c
 
 *
 
-### Related Articles
-- [Chrome Developer Tools For Non Developers](/chrome-developer-tools-for-non-developers)
-- [Chrome Developer Tools Shortcut](/chrome-developer-tools-shortcut)
-- [Chrome Network Speed In Developer Tools](/chrome-network-speed-in-developer-tools)
+## Related Articles
+- [Chrome Network Speed in Developer Tools](/chrome-network-speed-in-developer-tools)
+- [Chrome New Tab Page Slow to Load: Complete Fix Guide](/chrome-new-tab-page-slow-to-load)
+- [One Chrome Tab Making Everything Slow: What to Do About It](/one-chrome-tab-making-everything-slow)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

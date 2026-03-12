@@ -153,9 +153,9 @@ Creating a Chrome extension popup page is a straightforward process once you und
 
 
 
-### Related Articles
-- [Chrome Extension For Viewing Page Load Time](/chrome-extension-for-viewing-page-load-time)
+## Related Articles
 - [Chrome Extension Side Panel Tutorial](/chrome-extension-side-panel-tutorial)
+- [Chrome Extension for Viewing Page Load Time](/chrome-extension-for-viewing-page-load-time)
 - [Chrome Screenshot Full Page Without Extension](/chrome-screenshot-full-page-without-extension)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

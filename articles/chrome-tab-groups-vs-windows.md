@@ -130,9 +130,9 @@ Experiment with both methods to find what works best for you. With the right org
 
 
 
-### Related Articles
-- [Chrome Tab Groups Vs Bookmarks](/chrome-tab-groups-vs-bookmarks)
-- [Chrome Browser Process Vs Tab Process Explained](/chrome-browser-process-vs-tab-process-explained)
-- [Chrome For Tab Sleeping Vs Tab Suspending Difference](/chrome-for-tab-sleeping-vs-tab-suspending-difference)
+## Related Articles
+- [chrome tab groups advanced tips](/chrome-tab-groups-advanced-tips)
+- [chrome tab groups auto create how to set up](/chrome-tab-groups-auto-create-how-to-set-up)
+- [chrome tab groups keyboard shortcuts](/chrome-tab-groups-keyboard-shortcuts)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -88,7 +88,7 @@ Give these tips a try and see which ones work best for your specific device and 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Classroom Integration Tips For Teachers](/chrome-classroom-integration-tips-for-teachers)
-- [Chrome Flags For Speed Optimization](/chrome-flags-for-speed-optimization)
-- [Chrome For Address Bar Shortcuts Tips](/chrome-for-address-bar-shortcuts-tips)
+## Related Articles
+- [Chrome Game Streaming Optimization Tips](/chrome-game-streaming-optimization-tips)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)

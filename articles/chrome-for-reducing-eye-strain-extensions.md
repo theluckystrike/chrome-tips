@@ -74,7 +74,7 @@ Chrome for reducing eye strain extensions offers practical solutions for anyone 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Eye Strain Protection](/chrome-extensions-for-eye-strain-protection)
-- [Chrome Extensions For Eye Dropper Tool](/chrome-extensions-for-eye-dropper-tool)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [chrome extensions for eye strain protection](/chrome-extensions-for-eye-strain-protection)
+- [Chrome Extensions for Eye Dropper Tool](/chrome-extensions-for-eye-dropper-tool)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

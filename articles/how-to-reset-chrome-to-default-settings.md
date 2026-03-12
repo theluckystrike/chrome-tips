@@ -79,7 +79,7 @@ With a little attention to what you install and how you use your browser, you ca
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
 - [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
-- [Chrome Reset Flags To Default How To](/chrome-reset-flags-to-default-how-to)
-- [Chrome Default Browser How To Set On Mac](/chrome-default-browser-how-to-set-on-mac)
+- [Chrome Reset All Settings: What Gets Deleted](/chrome-reset-all-settings-what-gets-deleted)

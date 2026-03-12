@@ -56,7 +56,7 @@ Understanding chrome which tab is using most cpu how to find is the key to maint
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
-- [How To Find Which Extension Is Slowing Chrome](/how-to-find-which-extension-is-slowing-chrome)
-- [How To Tell Which Chrome Tab Is Draining Battery](/how-to-tell-which-chrome-tab-is-draining-battery)
+## Related Articles
+- [How to Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
+- [Chrome Using 100 Percent CPU Fix Windows](/chrome-using-100-percent-cpu-fix-windows)
+- [Chrome Tabs Using Too Much Memory Which One](/chrome-tabs-using-too-much-memory-which-one)

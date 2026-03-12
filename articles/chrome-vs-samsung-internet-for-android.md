@@ -60,9 +60,9 @@ No matter which one you choose, remember that mobile browsers are resource-hungr
 
 
 
-### Related Articles
-- [Chrome Vs Samsung Internet On Android](/chrome-vs-samsung-internet-on-android)
-- [Chrome Best Settings For Slow Internet](/chrome-best-settings-for-slow-internet)
-- [Chrome For Android Tablet Optimization](/chrome-for-android-tablet-optimization)
+## Related Articles
+- [Chrome vs Samsung Internet on Android](/chrome-vs-samsung-internet-on-android)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+- [Chrome Crashing on Samsung Galaxy Phone](/chrome-crashing-on-samsung-galaxy-phone)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

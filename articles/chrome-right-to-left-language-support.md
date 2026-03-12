@@ -92,10 +92,10 @@ With these steps, you should be able to read and write in Arabic, Hebrew, Persia
 
 
 
-### Related Articles
-- [Chrome Airplay Support How To Use](/chrome-airplay-support-how-to-use)
-- [Chrome Multi Language Setup How To](/chrome-multi-language-setup-how-to)
-- [Chrome Search By Image Right Click How To](/chrome-search-by-image-right-click-how-to)
+## Related Articles
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)
+- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

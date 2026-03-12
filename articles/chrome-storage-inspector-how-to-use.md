@@ -79,9 +79,9 @@ The Storage Inspector is a powerful but underused tool that every Chrome user sh
 
 
 
-### Related Articles
-- [Chrome Flexbox Inspector How To Use](/chrome-flexbox-inspector-how-to-use)
-- [Chrome Memory Inspector How To Use](/chrome-memory-inspector-how-to-use)
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
+## Related Articles
+- [Chrome Memory Inspector How to Use](/chrome-memory-inspector-how-to-use)
+- [Chrome Flexbox Inspector How to Use](/chrome-flexbox-inspector-how-to-use)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

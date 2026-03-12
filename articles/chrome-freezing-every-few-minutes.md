@@ -123,7 +123,7 @@ If you've tried all these steps and Chrome still freezes regularly, consider:
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Keeps Freezing Every Few Minutes](/chrome-keeps-freezing-every-few-minutes)
-- [Chrome Freezing On Chromebook During Zoom](/chrome-freezing-on-chromebook-during-zoom)
+## Related Articles
+- [Chrome Keeps Freezing Every Few Minutes: Causes and Fixes](/chrome-keeps-freezing-every-few-minutes)
 - [Chrome Tab Freezing What It Means](/chrome-tab-freezing-what-it-means)
+- [Chrome Freezing on Chromebook During Zoom? Try These Fixes](/chrome-freezing-on-chromebook-during-zoom)

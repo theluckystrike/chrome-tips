@@ -125,9 +125,9 @@ Remember that technology alone isn't enough—pair these tools with open communi
 
 
 
-### Related Articles
-- [Chrome Safe Search How To Lock](/chrome-safe-search-how-to-lock)
-- [Chrome Extensions For Image Reverse Search](/chrome-extensions-for-image-reverse-search)
-- [Chrome Extensions For Reverse Video Search](/chrome-extensions-for-reverse-video-search)
+## Related Articles
+- [Chrome Safe Search How to Lock](/chrome-safe-search-how-to-lock)
+- [chrome safe search how to force enable](/chrome-safe-search-how-to-force-enable)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

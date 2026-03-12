@@ -66,7 +66,7 @@ Remember, while the Chrome connection not private bypass safely methods in this 
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome This Connection Is Not Private Bypass](/chrome-this-connection-is-not-private-bypass)
 - [Chrome Privacy Error Your Connection Is Not Private Fix](/chrome-privacy-error-your-connection-is-not-private-fix)
 - [Chrome Your Connection Is Not Private Fix](/chrome-your-connection-is-not-private-fix)

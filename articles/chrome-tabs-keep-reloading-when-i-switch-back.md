@@ -103,9 +103,9 @@ Remember that some tab reloading is normal and actually helps your computer run 
 
 
 
-### Related Articles
-- [Chrome Vs Arc Browser Should I Switch](/chrome-vs-arc-browser-should-i-switch)
+## Related Articles
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
 - [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
-- [I Have 100 Tabs Open Chrome Is Dying](/i-have-100-tabs-open-chrome-is-dying)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

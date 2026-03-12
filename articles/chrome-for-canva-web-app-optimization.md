@@ -80,7 +80,7 @@ By implementing these practices, you can create a more efficient Chrome setup th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Coursera Web App Optimization](/chrome-for-coursera-web-app-optimization)
-- [Chrome For Descript Web App Optimization](/chrome-for-descript-web-app-optimization)
-- [Chrome For Discord Web App Optimization](/chrome-for-discord-web-app-optimization)
+## Related Articles
+- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)
+- [Chrome for Salesforce Web App Optimization](/chrome-for-salesforce-web-app-optimization)
+- [Chrome for Coursera Web App Optimization](/chrome-for-coursera-web-app-optimization)

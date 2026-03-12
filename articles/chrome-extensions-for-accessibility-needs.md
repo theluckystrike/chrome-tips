@@ -89,9 +89,9 @@ Remember: accessibility isn't about finding a single solution—it's about build
 
 
 
-### Related Articles
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
-- [Chrome Extensions For Color Accessibility Checker](/chrome-extensions-for-color-accessibility-checker)
-- [Chrome For Accessibility Testing Extensions](/chrome-for-accessibility-testing-extensions)
+## Related Articles
+- [best chrome extensions for accessibility needs](/best-chrome-extensions-for-accessibility-needs)
+- [Chrome for Accessibility Testing Extensions](/chrome-for-accessibility-testing-extensions)
+- [chrome accessibility extensions best 2026](/chrome-accessibility-extensions-best-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

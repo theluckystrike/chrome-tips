@@ -75,9 +75,9 @@ The next time you wonder what is going on behind the scenes of a webpage, rememb
 
 
 
-### Related Articles
-- [Chrome View Page Resources How To](/chrome-view-page-resources-how-to)
-- [Chrome Audit Page Seo How To](/chrome-audit-page-seo-how-to)
-- [Chrome Download All Images From Page How To](/chrome-download-all-images-from-page-how-to)
+## Related Articles
+- [Chrome View Page Source: What It Tells You](/chrome-view-page-source-what-it-tells-you)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Open Source Parts Explained](/chrome-open-source-parts-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

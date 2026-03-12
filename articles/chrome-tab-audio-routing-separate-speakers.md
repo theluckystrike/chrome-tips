@@ -141,9 +141,9 @@ Experiment with the extension options that work for your operating system, and d
 
 
 
-### Related Articles
-- [Chrome Tab Audio How To Mute](/chrome-tab-audio-how-to-mute)
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-- [Chrome Ai Tab Organization Feature](/chrome-ai-tab-organization-feature)
+## Related Articles
+- [Chrome Tab Audio How to Mute](/chrome-tab-audio-how-to-mute)
+- [Chrome Audio Equalizer Extension](/chrome-audio-equalizer-extension)
+- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

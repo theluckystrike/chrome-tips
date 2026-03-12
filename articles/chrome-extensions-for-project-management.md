@@ -70,7 +70,7 @@ Remember that the goal is to simplify your work, not complicate it. Choose exten
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Email Management](/best-chrome-extensions-for-email-management)
-- [Best Chrome Extensions For Project Managers](/best-chrome-extensions-for-project-managers)
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
+## Related Articles
+- [Chrome for Bibliography Management Extensions](/chrome-for-bibliography-management-extensions)
+- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
+- [Chrome Extensions for Bibliography Management](/chrome-extensions-for-bibliography-management)

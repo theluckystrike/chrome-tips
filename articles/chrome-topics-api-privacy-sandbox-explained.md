@@ -67,9 +67,9 @@ By understanding what the Chrome Topics API is and how it works, you are already
 
 
 
-### Related Articles
-- [Chrome Privacy Sandbox Explained For Users](/chrome-privacy-sandbox-explained-for-users)
-- [Chrome Privacy Sandbox Explained Simply](/chrome-privacy-sandbox-explained-simply)
-- [Chrome Topics Api Explained Simply](/chrome-topics-api-explained-simply)
+## Related Articles
+- [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)
+- [chrome privacy sandbox explained for users](/chrome-privacy-sandbox-explained-for-users)
+- [chrome topics api explained simply](/chrome-topics-api-explained-simply)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

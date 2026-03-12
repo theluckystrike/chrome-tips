@@ -168,9 +168,9 @@ Start experimenting with the Vibration API today, and discover how tactile feedb
 
 
 
-### Related Articles
-- [Chrome Web Animation Api Explained](/chrome-web-animation-api-explained)
-- [Chrome Web Bluetooth Api Guide](/chrome-web-bluetooth-api-guide)
-- [Chrome Web Codec Api Video Processing](/chrome-web-codec-api-video-processing)
+## Related Articles
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

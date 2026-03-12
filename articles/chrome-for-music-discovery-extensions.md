@@ -75,7 +75,7 @@ Take some time to try different extensions and see which ones fit your listening
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Lo Fi Music](/chrome-extensions-for-lo-fi-music)
-- [Chrome For Focus Music Playlists Extensions](/chrome-for-focus-music-playlists-extensions)
-- [Chrome For Lofi Music Extensions](/chrome-for-lofi-music-extensions)
+## Related Articles
+- [Chrome Extensions for Lo Fi Music](/chrome-extensions-for-lo-fi-music)
+- [Chrome for Focus Music Playlists Extensions](/chrome-for-focus-music-playlists-extensions)
+- [Chrome for Lofi Music Extensions](/chrome-for-lofi-music-extensions)

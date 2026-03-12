@@ -65,9 +65,9 @@ If you notice Chrome running slowly, checking how many tabs you have open is oft
 
 
 
-### Related Articles
-- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
-- [Chrome Hsts What It Means For Security](/chrome-hsts-what-it-means-for-security)
-- [Chrome About Blank Page What It Means](/chrome-about-blank-page-what-it-means)
+## Related Articles
+- [Chrome Attribution Reporting What It Means for Users](/chrome-attribution-reporting-what-it-means-for-users)
+- [chrome extensions for elderly users simple tools](/chrome-extensions-for-elderly-users-simple-tools)
+- [Chrome WebAuthn Explained for Regular Users](/chrome-webauthn-explained-for-regular-users)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -67,7 +67,7 @@ The next time you need to show something during a video call, remember that you 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Group Tabs In Chrome 2026](/how-to-group-tabs-in-chrome-2026)
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
-- [Chrome Auto Sign In To Websites How To Control](/chrome-auto-sign-in-to-websites-how-to-control)
+## Related Articles
+- [Chrome Sharing Screen in Video Calls](/chrome-sharing-screen-in-video-calls)
+- [Chrome Closed Captions on Any Video](/chrome-closed-captions-on-any-video)
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)

@@ -62,9 +62,9 @@ Most of the time, the ERR_NAME_NOT_RESOLVED error is nothing serious. It is usua
 
 
 
-### Related Articles
-- [Chrome Net Err Cert Common Name Invalid Fix](/chrome-net-err-cert-common-name-invalid-fix)
-- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
-- [Chrome Address Bar Not Showing Full Url Fix](/chrome-address-bar-not-showing-full-url-fix)
+## Related Articles
+- [chrome net err cert common name invalid fix](/chrome-net-err-cert-common-name-invalid-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

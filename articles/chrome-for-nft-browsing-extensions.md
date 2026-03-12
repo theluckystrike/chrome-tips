@@ -67,7 +67,7 @@ Finding the right chrome for NFT browsing extensions comes down to understanding
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Faster Browsing](/chrome-extensions-for-faster-browsing)
-- [Chrome Extensions For Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
-- [Chrome For Airbnb Browsing Best Extensions](/chrome-for-airbnb-browsing-best-extensions)
+## Related Articles
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [Chrome for Real Estate Browsing Extensions](/chrome-for-real-estate-browsing-extensions)
+- [Chrome Extensions for Faster Browsing](/chrome-extensions-for-faster-browsing)

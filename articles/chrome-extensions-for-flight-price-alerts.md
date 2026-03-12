@@ -56,7 +56,7 @@ Finally, consider combining these extensions with other travel tools. Some exten
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Amazon Price History](/chrome-extensions-for-amazon-price-history)
-- [Chrome Extensions For Price Tracking Amazon](/chrome-extensions-for-price-tracking-amazon)
-- [Chrome For Kayak Price Alerts Extension](/chrome-for-kayak-price-alerts-extension)
+## Related Articles
+- [chrome for kayak price alerts extension](/chrome-for-kayak-price-alerts-extension)
+- [chrome for price drop alert extensions](/chrome-for-price-drop-alert-extensions)
+- [Chrome Extensions for Amazon Price History](/chrome-extensions-for-amazon-price-history)

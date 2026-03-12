@@ -84,7 +84,7 @@ To reset Chrome, go to Settings, click on "Reset settings" on the left side, and
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Black Screen When Opening Fix](/chrome-black-screen-when-opening-fix)
-- [Chrome New Tab Opens Instead Of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)
+## Related Articles
+- [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)
 - [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
+- [Chrome Black Screen When Opening Fix: Complete Practical Guide](/chrome-black-screen-when-opening-fix)

@@ -70,7 +70,7 @@ Give it a try for simple queries at first, like checking the weather, finding a 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Enable Cookies For One Site How To](/chrome-enable-cookies-for-one-site-how-to)
-- [Chrome Safe Search How To Force Enable](/chrome-safe-search-how-to-force-enable)
-- [Chrome Voice Search How To Use On Desktop](/chrome-voice-search-how-to-use-on-desktop)
+## Related Articles
+- [chrome voice search enable](/chrome-voice-search-enable)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [chrome safe search how to force enable](/chrome-safe-search-how-to-force-enable)

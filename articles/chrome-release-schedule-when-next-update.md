@@ -75,9 +75,9 @@ Remember to restart Chrome when updates are available, enable automatic updates 
 
 
 
-### Related Articles
-- [Chrome Release Schedule How Often Does It Update](/chrome-release-schedule-how-often-does-it-update)
-- [Chrome Auto Update Disable Windows Guide](/chrome-auto-update-disable-windows-guide)
-- [Chrome Auto Update How To Stop](/chrome-auto-update-how-to-stop)
+## Related Articles
+- [Chrome Release Schedule: How Often Does It Update](/chrome-release-schedule-how-often-does-it-update)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

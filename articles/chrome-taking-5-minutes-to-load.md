@@ -95,9 +95,9 @@ Consider trying browsers designed for low-resource computers. They offer similar
 
 *
 
-### Related Articles
-- [Chrome Tabs Taking Forever To Load](/chrome-tabs-taking-forever-to-load)
-- [How To Speed Up Chrome In 5 Minutes](/how-to-speed-up-chrome-in-5-minutes)
-- [Chrome New Tab Page Slow To Load](/chrome-new-tab-page-slow-to-load)
+## Related Articles
+- [Chrome Tabs Taking Forever to Load? Here's What to Do](/chrome-tabs-taking-forever-to-load)
+- [Chrome for Note Taking in Browser Extensions](/chrome-for-note-taking-in-browser-extensions)
+- [Chrome Print Preview Taking Forever: Practical Solutions](/chrome-print-preview-taking-forever)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

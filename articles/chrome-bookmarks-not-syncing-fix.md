@@ -105,9 +105,9 @@ With these steps, your Chrome bookmarks should stay synchronized across all your
 
 
 
-### Related Articles
-- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
-- [Chrome Address Bar Not Showing Full Url Fix](/chrome-address-bar-not-showing-full-url-fix)
-- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+## Related Articles
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

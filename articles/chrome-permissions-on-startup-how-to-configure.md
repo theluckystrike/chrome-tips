@@ -81,9 +81,9 @@ The key is to be proactive rather than reactive. Instead of just clicking "allow
 
 
 
-### Related Articles
-- [Chrome Opens Old Tabs On Startup How To Stop](/chrome-opens-old-tabs-on-startup-how-to-stop)
-- [Chrome Opens On Startup Windows How To Stop](/chrome-opens-on-startup-windows-how-to-stop)
-- [Chrome Permissions On Android How To Manage](/chrome-permissions-on-android-how-to-manage)
+## Related Articles
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
+- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
+- [Chrome Extension Permissions Too Many Warning](/chrome-extension-permissions-too-many-warning)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -14,7 +14,7 @@ tags:
 - tab-management
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-tab-organizer-feature
 ---
 # Chrome AI Tab Organizer Feature: A Complete Guide
@@ -69,9 +69,9 @@ If you frequently find yourself overwhelmed by too many open tabs, it is worth t
 
 *
 
-### Related Articles
-- [Chrome Ai Tab Organization Feature](/chrome-ai-tab-organization-feature)
-- [Chrome Tab Organize Ai Feature Explained](/chrome-tab-organize-ai-feature-explained)
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
+## Related Articles
+- [Chrome Tab Organize AI Feature Explained](/chrome-tab-organize-ai-feature-explained)
+- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
+- [Chrome AI Tab Organization Feature](/chrome-ai-tab-organization-feature)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

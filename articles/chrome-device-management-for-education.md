@@ -80,7 +80,7 @@ Finally, communicate with parents about your device management practices. Let th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Education Classroom Management](/chrome-for-education-classroom-management)
-- [Best Chrome Extensions For Email Management](/best-chrome-extensions-for-email-management)
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
+## Related Articles
+- [chrome for education classroom management](/chrome-for-education-classroom-management)
+- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
+- [Chrome for Bibliography Management Extensions](/chrome-for-bibliography-management-extensions)

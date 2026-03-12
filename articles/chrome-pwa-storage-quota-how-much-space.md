@@ -82,9 +82,9 @@ As PWAs continue to evolve and become more sophisticated, storage management wil
 
 
 
-### Related Articles
-- [Chrome Install As App Pwa How To](/chrome-install-as-app-pwa-how-to)
-- [Chrome Local Storage How To Clear For One Site](/chrome-local-storage-how-to-clear-for-one-site)
-- [Chrome Notification Badge On Pwa How To Enable](/chrome-notification-badge-on-pwa-how-to-enable)
+## Related Articles
+- [Chrome Using Too Much Disk Space Fix](/chrome-using-too-much-disk-space-fix)
+- [Chrome Using Too Much Disk Space: A Complete Guide](/chrome-using-too-much-disk-space)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -84,7 +84,7 @@ Start with two profiles, customize them with the right extensions and bookmarks,
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Work Vs Personal Separate Profiles](/chrome-for-work-vs-personal-separate-profiles)
-- [How To Set Up Chrome Profiles For Work And Personal](/how-to-set-up-chrome-profiles-for-work-and-personal)
-- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
+## Related Articles
+- [How to Set Up Chrome Profiles for Work and Personal](/how-to-set-up-chrome-profiles-for-work-and-personal)
+- [Chrome for Work vs Personal — How to Use Separate Profiles](/chrome-for-work-vs-personal-separate-profiles)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)

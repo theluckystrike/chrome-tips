@@ -96,9 +96,9 @@ By adjusting these settings, you can enjoy a fresh start every time you open Chr
 
 
 
-### Related Articles
-- [Chrome Opens On Startup Windows How To Stop](/chrome-opens-on-startup-windows-how-to-stop)
-- [How To Stop Chrome From Opening On Startup](/how-to-stop-chrome-from-opening-on-startup)
-- [Chrome Notifications On Phone Too Many How To Stop](/chrome-notifications-on-phone-too-many-how-to-stop)
+## Related Articles
+- [Chrome Opens on Startup Windows: How to Stop](/chrome-opens-on-startup-windows-how-to-stop)
+- [How to Stop Chrome from Suspending My Tabs](/how-to-stop-chrome-from-suspending-my-tabs)
+- [How to Stop Chrome from Opening on Startup](/how-to-stop-chrome-from-opening-on-startup)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

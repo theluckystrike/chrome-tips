@@ -79,9 +79,9 @@ Remember that Chrome's tab discarding is designed to help, not hurt. It keeps yo
 
 
 
-### Related Articles
-- [Chrome Tab Discarding What It Means](/chrome-tab-discarding-what-it-means)
+## Related Articles
 - [Chrome Tab Freezing What It Means](/chrome-tab-freezing-what-it-means)
-- [Chrome About Blank Page What It Means](/chrome-about-blank-page-what-it-means)
+- [Chrome Tab Discarding What It Means](/chrome-tab-discarding-what-it-means)
+- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

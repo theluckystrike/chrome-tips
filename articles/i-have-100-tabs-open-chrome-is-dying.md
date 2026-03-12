@@ -122,9 +122,9 @@ Your browser should work for you, not against you. Try these steps today, and yo
 
 
 
-### Related Articles
+## Related Articles
 - [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
-- [Chrome Multiple Windows Vs Tabs Which Is Better](/chrome-multiple-windows-vs-tabs-which-is-better)
-- [Chrome Save All Open Tabs As Bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+- [Chrome Save Open Tabs as Bookmarks All at Once](/chrome-save-open-tabs-as-bookmarks-all-at-once)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

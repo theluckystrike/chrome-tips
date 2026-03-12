@@ -67,9 +67,9 @@ The most important thing is to actually use the tools consistently rather than l
 
 
 
-### Related Articles
-- [Chrome Network Tab How To Use Debug](/chrome-network-tab-how-to-use-debug)
-- [Chrome Tab Color Coding How To Use](/chrome-tab-color-coding-how-to-use)
-- [Chrome Tab Groups On Phone How To Use](/chrome-tab-groups-on-phone-how-to-use)
+## Related Articles
+- [Chrome Network Tab: How to Use and Debug Network Requests](/chrome-network-tab-how-to-use-debug)
+- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
+- [Why Does Each Chrome Tab Use So Much Memory](/why-does-each-chrome-tab-use-so-much-memory)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

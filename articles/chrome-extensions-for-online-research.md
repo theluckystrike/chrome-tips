@@ -65,9 +65,9 @@ The key is to start with one or two extensions that match your biggest challenge
 
 
 
-### Related Articles
-- [Best Chrome Extensions For Online Sellers](/best-chrome-extensions-for-online-sellers)
-- [Best Chrome Extensions For Saving Money Online](/best-chrome-extensions-for-saving-money-online)
-- [Best Chrome Extensions For Teachers Online](/best-chrome-extensions-for-teachers-online)
+## Related Articles
+- [best chrome extensions for teachers online](/best-chrome-extensions-for-teachers-online)
+- [Chrome for SEO Keyword Research Extensions](/chrome-for-seo-keyword-research-extensions)
+- [Chrome for Citation and Research Extensions](/chrome-for-citation-and-research-extensions)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -85,9 +85,9 @@ Start with a simple setup and adjust as needed. You can always add more restrict
 
 
 
-### Related Articles
-- [Chrome Extension For Youtube Ad Blocker](/chrome-extension-for-youtube-ad-blocker)
-- [Chrome Extensions For Website Blocker](/chrome-extensions-for-website-blocker)
-- [Chrome Extensions For Website Distraction Blocker](/chrome-extensions-for-website-distraction-blocker)
+## Related Articles
+- [Chrome Parental Controls Without Extension](/chrome-parental-controls-without-extension)
+- [chrome extensions for website distraction blocker](/chrome-extensions-for-website-distraction-blocker)
+- [Chrome Extensions for Website Blocker](/chrome-extensions-for-website-blocker)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -84,9 +84,9 @@ The key is to be proactive rather than reactive. Check which tabs are using the 
 
 
 
-### Related Articles
-- [Chrome Developer Tools Making Page Slow](/chrome-developer-tools-making-page-slow)
-- [Chrome New Tab Page Slow To Load](/chrome-new-tab-page-slow-to-load)
+## Related Articles
 - [Why Does Opening Chrome Slow Down Everything](/why-does-opening-chrome-slow-down-everything)
+- [Chrome New Tab Page Slow to Load: Complete Fix Guide](/chrome-new-tab-page-slow-to-load)
+- [Chrome Developer Tools Making Page Slow: What You Need to Know](/chrome-developer-tools-making-page-slow)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

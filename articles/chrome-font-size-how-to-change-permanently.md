@@ -65,7 +65,7 @@ Once you find the combination that works for you, the days of manually zooming i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Font Size Permanently Change](/chrome-font-size-permanently-change)
-- [Chrome Text Size How To Increase Permanently](/chrome-text-size-how-to-increase-permanently)
-- [Chrome Text Size On Phone How To Change](/chrome-text-size-on-phone-how-to-change)
+## Related Articles
+- [How to Change Chrome Font Size Permanently](/chrome-font-size-permanently-change)
+- [Chrome Text Size on Phone How to Change](/chrome-text-size-on-phone-how-to-change)
+- [Chrome Text Size How to Increase Permanently](/chrome-text-size-how-to-increase-permanently)

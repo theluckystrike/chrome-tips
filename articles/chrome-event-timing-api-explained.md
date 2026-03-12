@@ -67,9 +67,9 @@ Keeping your tabs organized and managing how many you have open is a simple way 
 
 
 
-### Related Articles
-- [Chrome Navigation Timing Api Explained](/chrome-navigation-timing-api-explained)
-- [Chrome Resource Timing Api Explained](/chrome-resource-timing-api-explained)
-- [Chrome User Timing Api Explained](/chrome-user-timing-api-explained)
+## Related Articles
+- [Chrome Navigation Timing API Explained](/chrome-navigation-timing-api-explained)
+- [Chrome User Timing API Explained](/chrome-user-timing-api-explained)
+- [Chrome Resource Timing API Explained](/chrome-resource-timing-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

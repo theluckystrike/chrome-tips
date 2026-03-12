@@ -83,7 +83,7 @@ You do not need to be a technical expert to benefit from this information. A bas
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Developer Tools For Non Developers](/chrome-developer-tools-for-non-developers)
-- [Chrome Developer Tools Making Page Slow](/chrome-developer-tools-making-page-slow)
+## Related Articles
+- [How to Throttle Network Speed in Chrome](/chrome-throttle-network-speed-how-to)
 - [Chrome Developer Tools Shortcut](/chrome-developer-tools-shortcut)
+- [Chrome Developer Tools for Non Developers](/chrome-developer-tools-for-non-developers)

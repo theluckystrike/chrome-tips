@@ -81,7 +81,7 @@ Remember that everyone has different needs when it comes to text size and readab
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Casting To Tv How To Setup](/chrome-casting-to-tv-how-to-setup)
-- [Chrome Font Size How To Change Permanently](/chrome-font-size-how-to-change-permanently)
-- [Chrome For Saving Articles To Read Later](/chrome-for-saving-articles-to-read-later)
+## Related Articles
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [chrome extensions for font changing](/chrome-extensions-for-font-changing)

@@ -60,10 +60,10 @@ Using **Tab Suspender Pro** is an excellent way to keep your browser snappy. It 
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Address Bar Focus Shortcut](/chrome-address-bar-focus-shortcut)
-- [Chrome Address Bar Autocomplete Disable](/chrome-address-bar-autocomplete-disable)
-- [Chrome Address Bar Autocomplete How To Clear](/chrome-address-bar-autocomplete-how-to-clear)
+- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
+- [chrome coupons in address bar feature](/chrome-coupons-in-address-bar-feature)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

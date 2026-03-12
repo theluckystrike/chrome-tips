@@ -79,9 +79,9 @@ Remember that everyone is searching for chrome touchscreen mode how to enable be
 
 
 
-### Related Articles
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
-- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)
-- [Chrome Compact Mode How To Enable](/chrome-compact-mode-how-to-enable)
+## Related Articles
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Reader Mode on Phone: How to Enable](/chrome-reader-mode-on-phone-how-to-enable)
+- [Chrome HTTPS Only Mode How to Enable](/chrome-https-only-mode-how-to-enable)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

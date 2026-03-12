@@ -71,7 +71,7 @@ Review your saved articles regularly and delete anything no longer relevant. Thi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Bear Notes Web Clipper](/chrome-for-bear-notes-web-clipper)
-- [Chrome For Evernote Web Clipper Tips](/chrome-for-evernote-web-clipper-tips)
-- [Chrome For Notion Web Clipper Setup](/chrome-for-notion-web-clipper-setup)
+## Related Articles
+- [chrome for onenote web clipper setup](/chrome-for-onenote-web-clipper-setup)
+- [Chrome for Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)
+- [Chrome for Evernote Web Clipper Tips](/chrome-for-evernote-web-clipper-tips)

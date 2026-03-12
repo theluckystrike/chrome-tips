@@ -85,7 +85,7 @@ Chrome site isolation is one of those features that works quietly in the backgro
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Sandboxing How It Protects You](/chrome-sandboxing-how-it-protects-you)
-- [Chrome Site Isolation What It Does](/chrome-site-isolation-what-it-does)
-- [Chrome Site Isolation What It Means](/chrome-site-isolation-what-it-means)
+## Related Articles
+- [Chrome Site Isolation Explained Simply](/chrome-site-isolation-explained-simply)
+- [Chrome Strict Site Isolation: Should I Enable](/chrome-strict-site-isolation-should-i-enable)
+- [Chrome Site Isolation Explained](/chrome-site-isolation-explained)

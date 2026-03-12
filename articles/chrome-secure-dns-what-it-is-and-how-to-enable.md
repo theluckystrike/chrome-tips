@@ -81,7 +81,7 @@ Chrome Secure DNS is a simple but effective way to add a layer of privacy and se
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Ungoogled Chromium What It Is And How To Install](/ungoogled-chromium-what-it-is-and-how-to-install)
-- [Chrome Dns Over Https How To Enable](/chrome-dns-over-https-how-to-enable)
+## Related Articles
+- [Chrome DNS Over HTTPS How to Enable](/chrome-dns-over-https-how-to-enable)
+- [chrome prefetch dns how to enable](/chrome-prefetch-dns-how-to-enable)
+- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)

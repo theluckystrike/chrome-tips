@@ -77,9 +77,9 @@ Chrome continues to integrate these improvements directly into the browser, maki
 
 
 
-### Related Articles
-- [Chrome For Text To Speech On Any Page](/chrome-for-text-to-speech-on-any-page)
-- [Chrome Text To Speech Built In Feature](/chrome-text-to-speech-built-in-feature)
-- [Chrome Text To Speech Built In Features](/chrome-text-to-speech-built-in-features)
+## Related Articles
+- [Chrome Text to Speech Extension Best](/chrome-text-to-speech-extension-best)
+- [Chrome Text to Speech Built In Feature](/chrome-text-to-speech-built-in-feature)
+- [Chrome Text to Speech Built In Features](/chrome-text-to-speech-built-in-features)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

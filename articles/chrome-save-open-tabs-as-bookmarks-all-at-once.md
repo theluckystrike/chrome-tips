@@ -75,10 +75,10 @@ This extension creates a local **session backup** automatically. If Chrome crash
 
 
 
-### Related Articles
-- [Chrome Save All Open Tabs As Bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
-- [How To Close All Chrome Tabs At Once](/how-to-close-all-chrome-tabs-at-once)
-- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
+## Related Articles
+- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+- [How to Close All Chrome Tabs at Once](/how-to-close-all-chrome-tabs-at-once)
+- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -95,9 +95,9 @@ These steps work together to reduce the strain on your computer when Chrome laun
 
 
 
-### Related Articles
-- [Chrome Black Screen When Opening Fix](/chrome-black-screen-when-opening-fix)
+## Related Articles
 - [Chrome Freezes When Opening New Tab Fix](/chrome-freezes-when-opening-new-tab-fix)
-- [Chrome Freezing Every Few Minutes](/chrome-freezing-every-few-minutes)
+- [Chrome Black Screen When Opening Fix: Complete Practical Guide](/chrome-black-screen-when-opening-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

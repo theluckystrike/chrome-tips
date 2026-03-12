@@ -87,9 +87,9 @@ Take the time to explore the Family Link app and customize the settings to match
 
 
 
-### Related Articles
-- [Chromebook Parental Controls How To Set Up](/chromebook-parental-controls-how-to-set-up)
-- [Chrome Parental Controls How To Set Up](/chrome-parental-controls-how-to-set-up)
+## Related Articles
+- [Chromebook Parental Controls How to Set Up](/chromebook-parental-controls-how-to-set-up)
+- [Chrome Parental Controls — How to Set Up for Your Kids](/chrome-parental-controls-how-to-set-up)
 - [Chrome Parental Controls Without Extension](/chrome-parental-controls-without-extension)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

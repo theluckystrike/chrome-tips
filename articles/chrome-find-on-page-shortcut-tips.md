@@ -77,7 +77,7 @@ Give these tips a try next time you need to find something on the web. You will 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Bookmark Current Page Shortcut](/chrome-bookmark-current-page-shortcut)
-- [Chrome Download Files On Phone Where To Find](/chrome-download-files-on-phone-where-to-find)
-- [Chrome For Text To Speech On Any Page](/chrome-for-text-to-speech-on-any-page)
+## Related Articles
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Scroll to Top of Page Shortcut](/chrome-scroll-to-top-of-page-shortcut)
+- [chrome bookmark current page shortcut](/chrome-bookmark-current-page-shortcut)

@@ -15,7 +15,7 @@ tags:
 - privacy
 - browser-settings
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-attribution-reporting-api-explained
 ---
 # Chrome Attribution Reporting API Explained
@@ -65,7 +65,7 @@ Whether you decide to leave the Attribution Reporting API enabled or turn it off
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
-- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
-- [Chrome Attribution Reporting](/chrome-attribution-reporting)
+## Related Articles
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Attribution Reporting Guide](/chrome-attribution-reporting)

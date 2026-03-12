@@ -84,7 +84,7 @@ If you continue to have issues after trying these steps, you might want to consi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Autocomplete Wrong Suggestions How To Fix](/chrome-autocomplete-wrong-suggestions-how-to-fix)
-- [Chrome Autofill Wrong Address How To Fix](/chrome-autofill-wrong-address-how-to-fix)
-- [Chrome Redirecting To Wrong Pages Fix](/chrome-redirecting-to-wrong-pages-fix)
+## Related Articles
+- [Chrome Autofill Wrong Address How to Fix](/chrome-autofill-wrong-address-how-to-fix)
+- [Chrome Spell Check Adding Custom Words](/chrome-spell-check-adding-custom-words)
+- [Chrome Redirecting to Wrong Pages Fix](/chrome-redirecting-to-wrong-pages-fix)

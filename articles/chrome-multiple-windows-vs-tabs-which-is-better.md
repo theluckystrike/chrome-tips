@@ -87,7 +87,7 @@ Experiment with both methods and pay attention to when your browser feels slow o
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Iphone Vs Safari Which Is Better](/chrome-iphone-vs-safari-which-is-better)
-- [Chrome Reset Vs Reinstall Which Is Better](/chrome-reset-vs-reinstall-which-is-better)
-- [Chrome Vs Brave Browser Which Is Better](/chrome-vs-brave-browser-which-is-better)
+## Related Articles
+- [Chrome vs Brave Browser Which Is Better](/chrome-vs-brave-browser-which-is-better)
+- [How to Drag and Drop Tabs Between Windows in Chrome: A Complete Guide](/chrome-drag-drop-tabs-between-windows)
+- [Chrome iPhone vs Safari Which is Better](/chrome-iphone-vs-safari-which-is-better)

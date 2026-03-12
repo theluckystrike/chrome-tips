@@ -75,9 +75,9 @@ This combination becomes especially valuable when working on larger applications
 
 
 
-### Related Articles
-- [Chrome Devtools Color Picker How To Use](/chrome-devtools-color-picker-how-to-use)
-- [Chrome Devtools Dark Theme How To Enable](/chrome-devtools-dark-theme-how-to-enable)
-- [Chrome Devtools Override Files Locally](/chrome-devtools-override-files-locally)
+## Related Articles
+- [Chrome DevTools Override Files Locally](/chrome-devtools-override-files-locally)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

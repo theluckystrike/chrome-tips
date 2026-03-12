@@ -62,9 +62,9 @@ A chrome extension for email tracking notification offers a practical way to gai
 
 
 
-### Related Articles
-- [Chrome Extension For Managing Multiple Email Accounts](/chrome-extension-for-managing-multiple-email-accounts)
-- [Chrome Extension For Tracking Time Spent On Websites](/chrome-extension-for-tracking-time-spent-on-websites)
-- [Chrome Extensions For Email Tracking Read Receipts](/chrome-extensions-for-email-tracking-read-receipts)
+## Related Articles
+- [Chrome Extensions for Email Tracking](/chrome-extensions-for-email-tracking)
+- [Chrome Extensions for Email Tracking Read Receipts](/chrome-extensions-for-email-tracking-read-receipts)
+- [Chrome Extension for Tracking Time Spent on Websites](/chrome-extension-for-tracking-time-spent-on-websites)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

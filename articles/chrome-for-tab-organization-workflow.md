@@ -70,7 +70,7 @@ Start small by trying one or two of these suggestions. See how they feel, and ad
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-- [Chrome Ai Tab Organization Feature](/chrome-ai-tab-organization-feature)
-- [Chrome Extensions For Auto Tab Closer](/chrome-extensions-for-auto-tab-closer)
+## Related Articles
+- [Chrome AI Tab Organization Feature](/chrome-ai-tab-organization-feature)
+- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)

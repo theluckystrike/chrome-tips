@@ -66,7 +66,7 @@ Review your browser settings to disable any features you do not need. Things lik
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Secure Dns What It Is And How To Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
-- [Chromium Browser Is It Safe To Use](/chromium-browser-is-it-safe-to-use)
+## Related Articles
+- [chrome install as app pwa how to](/chrome-install-as-app-pwa-how-to)
+- [chromebook linux apps how to install](/chromebook-linux-apps-how-to-install)
+- [Chrome Wont Install on Windows 11 Fix](/chrome-wont-install-on-windows-11-fix)

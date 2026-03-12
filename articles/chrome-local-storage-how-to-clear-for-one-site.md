@@ -78,7 +78,7 @@ Make it a habit to clear local storage for websites that are acting up, and your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Clear Cookies For One Site In Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
-- [Chrome Allow Popups For One Site How To](/chrome-allow-popups-for-one-site-how-to)
-- [Chrome Camera Permission For One Site How To Set](/chrome-camera-permission-for-one-site-how-to-set)
+## Related Articles
+- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)
+- [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
+- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)

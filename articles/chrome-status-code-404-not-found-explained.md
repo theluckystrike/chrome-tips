@@ -70,9 +70,9 @@ By checking the URL, refreshing the page, clearing caches, and trying a search, 
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Status Code 403 Forbidden Explained](/chrome-status-code-403-forbidden-explained)
 - [Chrome Status Code 500 Server Error Explained](/chrome-status-code-500-server-error-explained)
-- [Chrome Early Hints 103 Status Code](/chrome-early-hints-103-status-code)
+- [Chrome Status Code 502 Bad Gateway Fix](/chrome-status-code-502-bad-gateway-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

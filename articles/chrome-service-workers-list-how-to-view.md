@@ -66,10 +66,10 @@ Using **Tab Suspender Pro** is a highly effective way to handle this. It automat
 
 
 
-### Related Articles
-- [Chrome Android Reading List How To Use](/chrome-android-reading-list-how-to-use)
-- [Chrome Mobile Reading List How To Use](/chrome-mobile-reading-list-how-to-use)
-- [Chrome Mobile View On Desktop How To](/chrome-mobile-view-on-desktop-how-to)
+## Related Articles
+- [Chrome Workbox Library for Service Workers](/chrome-workbox-library-for-service-workers)
+- [Chrome Application Tab Inspect Service Workers](/chrome-application-tab-inspect-service-workers)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

@@ -109,9 +109,9 @@ However, if you need Chrome for work or school, the solutions in this article sh
 
 
 
-### Related Articles
-- [Chrome Extensions For One Click Bookmark Folders](/chrome-extensions-for-one-click-bookmark-folders)
+## Related Articles
+- [chrome extensions for one click bookmark folders](/chrome-extensions-for-one-click-bookmark-folders)
 - [Chrome Tabs Using Too Much Memory Which One](/chrome-tabs-using-too-much-memory-which-one)
-- [Are Chrome Extensions Safe To Use](/are-chrome-extensions-safe-to-use)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

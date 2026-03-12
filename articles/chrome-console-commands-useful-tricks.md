@@ -117,9 +117,9 @@ This is where **Tab Suspender Pro** comes in useful. This extension automaticall
 
 
 
-### Related Articles
-- [Chrome Address Bar Commands You Didnt Know](/chrome-address-bar-commands-you-didnt-know)
-- [Chrome Address Bar Tips And Tricks](/chrome-address-bar-tips-and-tricks)
-- [Chrome Android Tips And Tricks 2026](/chrome-android-tips-and-tricks-2026)
+## Related Articles
+- [Chrome Console Utilities Reference](/chrome-console-utilities-guide)
+- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
+- [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

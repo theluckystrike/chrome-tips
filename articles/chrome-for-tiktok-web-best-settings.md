@@ -78,7 +78,7 @@ Finally, consider how many other programs you have running while watching TikTok
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Edx Web App Best Settings](/chrome-for-edx-web-app-best-settings)
-- [Chrome For Instacart Web App Best Settings](/chrome-for-instacart-web-app-best-settings)
-- [Chrome For Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)
+## Related Articles
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [chrome for rumble web player settings](/chrome-for-rumble-web-player-settings)
+- [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)

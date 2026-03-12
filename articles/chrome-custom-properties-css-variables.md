@@ -103,7 +103,7 @@ Take some time to identify the values you repeat most often in your CSS and star
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Css Custom Properties Explained](/chrome-css-custom-properties-explained)
-- [Chrome Anchor Positioning Css](/chrome-anchor-positioning-css)
-- [Chrome Aspect Ratio Css Property](/chrome-aspect-ratio-css-property)
+## Related Articles
+- [Chrome CSS Custom Properties Explained](/chrome-css-custom-properties-explained)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)

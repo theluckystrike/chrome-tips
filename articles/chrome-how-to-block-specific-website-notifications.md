@@ -61,7 +61,7 @@ By following these steps and checking in on your settings regularly, you can enj
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Canvas Fingerprinting How To Block](/chrome-canvas-fingerprinting-how-to-block)
-- [Chrome Media Autoplay How To Block](/chrome-media-autoplay-how-to-block)
+## Related Articles
+- [Chrome Block Specific Websites Guide](/chrome-block-specific-websites-guide)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)

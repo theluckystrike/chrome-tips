@@ -89,9 +89,9 @@ Remember to check your language settings, customize caption appearance to your l
 
 
 
-### Related Articles
-- [Chrome Live Captions Feature](/chrome-live-captions-feature)
-- [Chrome Live Captions How To Enable](/chrome-live-captions-how-to-enable)
-- [Chrome Live Captions How To Turn On](/chrome-live-captions-how-to-turn-on)
+## Related Articles
+- [Chrome Live Captions Feature Guide](/chrome-live-captions-feature)
+- [Chrome Live Captions How to Turn On](/chrome-live-captions-how-to-turn-on)
+- [Chrome Live Captions How to Enable](/chrome-live-captions-how-to-enable)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

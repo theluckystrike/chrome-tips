@@ -90,7 +90,7 @@ Remember that keeping your apps updated, managing your open tabs, and maintainin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Crashing On Low Memory Computer](/chrome-crashing-on-low-memory-computer)
-- [Chrome Crashing On Samsung Galaxy Phone](/chrome-crashing-on-samsung-galaxy-phone)
-- [Chrome Font Too Small On Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
+## Related Articles
+- [Chrome Keep Crashing Fix 2026](/chrome-keep-crashing-fix-2026)
+- [Chrome WebGL Crashing Fix](/chrome-webgl-crashing-fix)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)

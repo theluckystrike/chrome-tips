@@ -65,7 +65,7 @@ Remember that you do not have to use every feature at once. Start with the zoom 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
-- [Chrome Extensions For Zoom Meetings](/chrome-extensions-for-zoom-meetings)
-- [Chrome For Zoom Classes Optimization](/chrome-for-zoom-classes-optimization)
+## Related Articles
+- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [chrome zoom meeting not working fix](/chrome-zoom-meeting-not-working-fix)

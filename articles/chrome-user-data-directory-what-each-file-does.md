@@ -109,9 +109,9 @@ Whether you're recovering from a crash, clearing out accumulated cache, or just 
 
 
 
-### Related Articles
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
-- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
-- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+## Related Articles
+- [Chrome User Data Folder Where Is It](/chrome-user-data-folder-where-is-it)
+- [Why Does Each Chrome Tab Use So Much Memory](/why-does-each-chrome-tab-use-so-much-memory)
+- [Chrome Supervised Profiles for Kids](/chrome-supervised-user-profile-for-kids)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

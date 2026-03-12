@@ -109,9 +109,9 @@ Learning how to drag and drop tabs between windows in Chrome is a simple but pow
 
 
 
-### Related Articles
-- [How To Move Chrome Tabs Between Windows Easily](/how-to-move-chrome-tabs-between-windows-easily)
-- [Chrome Drag And Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
+## Related Articles
+- [How to Move Chrome Tabs Between Windows Easily](/how-to-move-chrome-tabs-between-windows-easily)
+- [Chrome Drag and Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
 - [Chrome Move Tabs Between Profiles](/chrome-move-tabs-between-profiles)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

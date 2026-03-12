@@ -75,10 +75,10 @@ Using **Tab Suspender Pro** is an excellent way to maintain a fast workflow. It 
 
 
 
-### Related Articles
-- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)
-- [Chrome Camera Permission For One Site How To Set](/chrome-camera-permission-for-one-site-how-to-set)
-- [Chrome Cast To Tv How To Set Up](/chrome-cast-to-tv-how-to-set-up)
+## Related Articles
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [chrome for site search from address bar](/chrome-for-site-search-from-address-bar)
+- [Chrome Tab Search Shortcut: Find Any Open Tab Instantly](/chrome-tab-search-shortcut)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

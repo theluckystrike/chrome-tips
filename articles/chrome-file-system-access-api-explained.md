@@ -80,7 +80,7 @@ The chrome file system access api explained feature is a powerful tool that make
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome File System Access Api](/chrome-file-system-access-api)
-- [Chrome Blob And File Api Explained](/chrome-blob-and-file-api-explained)
-- [Chrome File Handling Api Explained](/chrome-file-handling-api-explained)
+## Related Articles
+- [Chrome File System Access API: A Complete Guide](/chrome-file-system-access-api)
+- [chrome file handling api explained](/chrome-file-handling-api-explained)
+- [Chrome Local Font Access API Explained](/chrome-local-font-access-api-explained)

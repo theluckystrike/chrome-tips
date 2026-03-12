@@ -81,9 +81,9 @@ Start with the simplest option, which is making sure Chrome's pop-up blocker is 
 
 
 
-### Related Articles
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Pop Ups How To Block All](/chrome-pop-ups-how-to-block-all)
-- [How To Allow Pop Ups On One Site Chrome](/how-to-allow-pop-ups-on-one-site-chrome)
+## Related Articles
+- [Chrome Pop Ups How to Block All](/chrome-pop-ups-how-to-block-all)
+- [Chrome Ads on Phone How to Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+- [How to Allow Pop Ups on One Site Chrome](/how-to-allow-pop-ups-on-one-site-chrome)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

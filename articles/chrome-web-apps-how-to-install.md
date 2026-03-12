@@ -82,7 +82,7 @@ Web apps may also sometimes lose their connection or stop working if the website
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Install As App Pwa How To](/chrome-install-as-app-pwa-how-to)
-- [Chrome On Raspberry Pi How To Install](/chrome-on-raspberry-pi-how-to-install)
-- [Chrome Web And App Activity How To Delete](/chrome-web-and-app-activity-how-to-delete)
+## Related Articles
+- [Chrome Push Notifications Web Apps: Complete Guide](/chrome-push-notifications-web-apps)
+- [Chrome for Fitness Tracking Web Apps](/chrome-for-fitness-tracking-web-apps)
+- [Chrome Web Apps vs Native Apps Comparison](/chrome-web-apps-vs-native-apps-comparison)

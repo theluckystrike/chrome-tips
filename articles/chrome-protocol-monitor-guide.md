@@ -126,9 +126,9 @@ Remember to pair your Chrome development workflow with Tab Suspender Pro for opt
 
 
 
-### Related Articles
-- [Chrome Devtools Protocol Monitor](/chrome-devtools-protocol-monitor)
-- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
-- [Chrome Accessibility On Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)
+## Related Articles
+- [Chrome DevTools Protocol Monitor](/chrome-devtools-protocol-monitor)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

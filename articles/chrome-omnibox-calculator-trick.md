@@ -110,9 +110,9 @@ Next time you need to do quick math while browsing, skip the calculator app—ju
 
 
 
-### Related Articles
-- [Chrome Duplicate Tab Shortcut Trick](/chrome-duplicate-tab-shortcut-trick)
-- [Chrome For Omnibox Search Tricks](/chrome-for-omnibox-search-tricks)
-- [Chrome Omnibox Hidden Features](/chrome-omnibox-hidden-features)
+## Related Articles
+- [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)
+- [Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab](/chrome-duplicate-tab-shortcut-trick)
+- [Chrome Omnibox Search Tricks Most People Dont Know](/chrome-omnibox-search-tricks-most-people-dont-know)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

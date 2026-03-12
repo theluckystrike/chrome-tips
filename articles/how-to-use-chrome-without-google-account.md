@@ -64,7 +64,7 @@ The important thing is that you have the choice. Chrome does not force you to si
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Use Chrome Without Signing In To Google](/how-to-use-chrome-without-signing-in-to-google)
-- [Chrome Google Lens Integration How To Use](/chrome-google-lens-integration-how-to-use)
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+## Related Articles
+- [How to Use Chrome Without Signing In to Google](/how-to-use-chrome-without-signing-in-to-google)
+- [How to Sign Out of Google in Chrome Without Losing Your Data](/chrome-sign-out-of-google-without-losing-data)
+- [chrome google lens integration how to use](/chrome-google-lens-integration-how-to-use)

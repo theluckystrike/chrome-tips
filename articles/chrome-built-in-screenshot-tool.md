@@ -139,9 +139,9 @@ Next time you need to capture something from a webpage, try Chrome's built-in to
 
 
 
-### Related Articles
-- [How To Use Chrome Built In Screenshot Tool](/how-to-use-chrome-built-in-screenshot-tool)
-- [Chrome Ai Features Built In 2026](/chrome-ai-features-built-in-2026)
-- [Chrome Built In Password Checkup How To Use](/chrome-built-in-password-checkup-how-to-use)
+## Related Articles
+- [How to Use Chrome Built In Screenshot Tool](/how-to-use-chrome-built-in-screenshot-tool)
+- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
+- [Chrome Built-In PDF Editor Guide](/chrome-pdf-editor-built-in)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

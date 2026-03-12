@@ -69,9 +69,9 @@ For the best results, try using both browsers for a few days and monitor your ac
 
 
 
-### Related Articles
-- [Chrome Vs Edge Battery Life Laptop Comparison](/chrome-vs-edge-battery-life-laptop-comparison)
-- [Chrome Vs Edge For Battery Life Laptop](/chrome-vs-edge-for-battery-life-laptop)
-- [Firefox Vs Chrome Battery](/firefox-vs-chrome-battery)
+## Related Articles
+- [Chrome vs Edge Battery Life Laptop Comparison](/chrome-vs-edge-battery-life-laptop-comparison)
+- [firefox vs chrome battery](/firefox-vs-chrome-battery)
+- [Chrome vs Edge for Battery Life Laptop](/chrome-vs-edge-for-battery-life-laptop)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

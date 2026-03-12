@@ -64,7 +64,7 @@ If you use WebGL frequently and your computer struggles, consider upgrading your
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
-- [Chrome Ad Personalization How To Turn Off](/chrome-ad-personalization-how-to-turn-off)
-- [Chrome Address Autofill How To Manage](/chrome-address-autofill-how-to-manage)
+## Related Articles
+- [Chrome WebGL Crashing My Browser](/chrome-webgl-crashing-my-browser)
+- [Chrome Interaction to Next Paint Improve: Complete Guide](/chrome-interaction-next-paint-improve)
+- [Chrome WebGPU vs WebGL Comparison](/chrome-webgpu-vs-webgl)

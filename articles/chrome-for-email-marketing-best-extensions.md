@@ -84,7 +84,7 @@ Remember that the goal of these tools is not to replace the personal touch that 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Email Management](/best-chrome-extensions-for-email-management)
-- [Best Chrome Extensions For Marketing Professionals](/best-chrome-extensions-for-marketing-professionals)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome for Email Productivity Extensions](/chrome-for-email-productivity-extensions)
+- [Chrome for Affiliate Marketing Extensions](/chrome-for-affiliate-marketing-extensions)

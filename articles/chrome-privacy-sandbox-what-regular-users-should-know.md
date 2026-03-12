@@ -77,9 +77,9 @@ Your privacy is worth the small amount of time it takes to understand these sett
 
 
 
-### Related Articles
-- [Chrome Extension Manifest V3 What Users Need To Know](/chrome-extension-manifest-v3-what-users-need-to-know)
-- [Chrome Privacy Sandbox Explained For Users](/chrome-privacy-sandbox-explained-for-users)
-- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
+## Related Articles
+- [chrome privacy sandbox explained for users](/chrome-privacy-sandbox-explained-for-users)
+- [Chrome WebAuthn Explained for Regular Users](/chrome-webauthn-explained-for-regular-users)
+- [Chrome CORS Error for Regular Users](/chrome-cors-error-for-regular-users)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

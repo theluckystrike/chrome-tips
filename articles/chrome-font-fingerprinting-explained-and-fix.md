@@ -69,7 +69,7 @@ Your online identity belongs to you, and you have the right to control who can a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Blob And File Api Explained](/chrome-blob-and-file-api-explained)
-- [Chrome Drag And Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
-- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)
+## Related Articles
+- [chrome fingerprinting protection explained](/chrome-fingerprinting-protection-explained)
+- [Chrome Font Too Small on Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
+- [Chrome Font Palette CSS Explained](/chrome-font-palette-css-explained)

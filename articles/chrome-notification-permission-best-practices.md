@@ -83,7 +83,7 @@ A well-managed notification system keeps you informed without cluttering your sc
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Extension Permissions Best Practices](/chrome-extension-permissions-best-practices)
-- [Chrome For Password Security Best Practices](/chrome-for-password-security-best-practices)
-- [Chrome Notification Permission Block All](/chrome-notification-permission-block-all)
+## Related Articles
+- [Chrome Notification Permission Block All: Complete Guide](/chrome-notification-permission-block-all)
+- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)
+- [chrome geolocation permission manage](/chrome-geolocation-permission-manage)

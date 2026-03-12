@@ -55,7 +55,7 @@ Combining the fun of discovering hidden easter eggs with good browser maintenanc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Easter Eggs Complete List 2026](/chrome-easter-eggs-complete-list-2026)
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
-- [Chrome Android Reading List How To Use](/chrome-android-reading-list-how-to-use)
+## Related Articles
+- [chrome easter eggs complete list 2026](/chrome-easter-eggs-complete-list-2026)
+- [Chrome Service Workers List How to View](/chrome-service-workers-list-how-to-view)
+- [How to Enable Chrome Reading List](/how-to-enable-chrome-reading-list)

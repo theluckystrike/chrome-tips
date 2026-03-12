@@ -86,7 +86,7 @@ Whether you are tracking a small personal blog or a large commercial website, th
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Apple Notes In Browser Workaround](/chrome-for-apple-notes-in-browser-workaround)
-- [Chrome For Codecademy In Browser Optimization](/chrome-for-codecademy-in-browser-optimization)
-- [Chrome For Codepen In Browser Tips](/chrome-for-codepen-in-browser-tips)
+## Related Articles
+- [Chrome Google Chat Integration in Browser](/chrome-google-chat-integration-in-browser)
+- [Chrome Google Meet Integration in Browser](/chrome-google-meet-integration-in-browser)
+- [Chrome Google Calendar Quick Add from Browser](/chrome-google-calendar-quick-add-from-browser)

@@ -75,9 +75,9 @@ If you are looking for additional ways to manage Chrome tabs and improve browser
 
 
 
-### Related Articles
-- [Chrome Ad Personalization How To Turn Off](/chrome-ad-personalization-how-to-turn-off)
-- [Chrome How To Turn Off Autocomplete](/chrome-how-to-turn-off-autocomplete)
-- [Chrome Location Services How To Turn Off](/chrome-location-services-how-to-turn-off)
+## Related Articles
+- [How to Turn Off Autocomplete in Chrome](/chrome-how-to-turn-off-autocomplete)
+- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
+- [How to Turn Off Chrome Notifications on Android](/how-to-turn-off-chrome-notifications-android)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

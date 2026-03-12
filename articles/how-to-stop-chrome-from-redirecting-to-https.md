@@ -78,7 +78,7 @@ Taking a moment to understand these settings gives you more flexibility while ke
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.
 
 
-### Related Articles
-- [How To Stop Chrome From Eating Ram](/how-to-stop-chrome-from-eating-ram)
-- [How To Stop Chrome From Opening On Startup](/how-to-stop-chrome-from-opening-on-startup)
-- [How To Stop Chrome From Running In Background](/how-to-stop-chrome-from-running-in-background)
+## Related Articles
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
+- [How to Stop Chrome from Tracking Me](/how-to-stop-chrome-from-tracking-me)
+- [How to Stop Chrome from Suspending My Tabs](/how-to-stop-chrome-from-suspending-my-tabs)

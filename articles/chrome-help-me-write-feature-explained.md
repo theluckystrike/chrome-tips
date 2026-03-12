@@ -78,7 +78,7 @@ For users who want to maintain smooth browser performance while using AI feature
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Ai Writing Help Feature](/chrome-ai-writing-help-feature)
-- [Chrome Ip Protection Feature Explained](/chrome-ip-protection-feature-explained)
-- [Chrome Journeys Feature In History Explained](/chrome-journeys-feature-in-history-explained)
+## Related Articles
+- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
+- [Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering](/chrome-paint-holding-feature-explained)
+- [Chrome Tab Organize AI Feature Explained](/chrome-tab-organize-ai-feature-explained)

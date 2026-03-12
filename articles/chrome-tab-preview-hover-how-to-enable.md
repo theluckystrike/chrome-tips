@@ -77,9 +77,9 @@ Take a moment to try a few different extensions to see which interface feels mos
 
 
 
-### Related Articles
-- [How To Enable Chrome Tab Hover Previews](/how-to-enable-chrome-tab-hover-previews)
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
-- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)
+## Related Articles
+- [How to Enable Chrome Tab Hover Previews](/how-to-enable-chrome-tab-hover-previews)
+- [Chrome Extensions for Tab Previewer Hover](/chrome-extensions-for-tab-previewer-hover)
+- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

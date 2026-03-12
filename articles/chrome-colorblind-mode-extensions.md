@@ -80,7 +80,7 @@ Accessibility is personal, and what works wonderfully for one person may not wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Developer Mode Extensions Warning How To Dismiss](/chrome-developer-mode-extensions-warning-how-to-dismiss)
-- [Chrome Developer Mode Extensions](/chrome-developer-mode-extensions)
-- [Chrome Extensions Developer Mode](/chrome-extensions-developer-mode)
+## Related Articles
+- [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/chrome-extensions-developer-mode)
+- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)
+- [Chrome Developer Mode Extensions Guide](/chrome-developer-mode-extensions)

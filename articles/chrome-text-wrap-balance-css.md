@@ -64,9 +64,9 @@ For those who want to explore more ways to improve their browser experience and 
 
 
 
-### Related Articles
-- [Chrome Anchor Positioning Css](/chrome-anchor-positioning-css)
-- [Chrome Aspect Ratio Css Property](/chrome-aspect-ratio-css-property)
-- [Chrome Blurry Text Fix Windows](/chrome-blurry-text-fix-windows)
+## Related Articles
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

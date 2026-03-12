@@ -125,9 +125,9 @@ Chrome on iOS is a capable browser with deep Google integration. By setting it a
 
 
 
-### Related Articles
-- [Chrome Android Tips And Tricks 2026](/chrome-android-tips-and-tricks-2026)
-- [Chrome On Android Tips And Tricks 2026](/chrome-on-android-tips-and-tricks-2026)
-- [Chrome On Iphone Tips And Tricks 2026](/chrome-on-iphone-tips-and-tricks-2026)
+## Related Articles
+- [Chrome Android Tips and Tricks 2026](/chrome-android-tips-and-tricks-2026)
+- [Chrome on Android — Tips and Tricks for 2026](/chrome-on-android-tips-and-tricks-2026)
+- [Chrome on iPhone — Tips and Tricks for 2026](/chrome-on-iphone-tips-and-tricks-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

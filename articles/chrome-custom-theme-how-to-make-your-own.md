@@ -77,9 +77,9 @@ Remember to periodically update your theme to keep things fresh. Just as our tas
 
 
 
-### Related Articles
-- [Chrome Ai Theme Generator How To Use](/chrome-ai-theme-generator-how-to-use)
-- [Chrome Custom Fonts How To Change](/chrome-custom-fonts-how-to-change)
-- [Chrome Custom Search Engines How To Add](/chrome-custom-search-engines-how-to-add)
+## Related Articles
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -98,9 +98,9 @@ Make it a point to run the security checkup regularly and address any issues it 
 
 
 
-### Related Articles
-- [Chrome Security Check How To Run](/chrome-security-check-how-to-run)
-- [Chrome Built In Password Checkup How To Use](/chrome-built-in-password-checkup-how-to-use)
-- [Chrome Lighthouse Audit How To Run](/chrome-lighthouse-audit-how-to-run)
+## Related Articles
+- [chrome security check how to run](/chrome-security-check-how-to-run)
+- [chrome lighthouse audit how to run](/chrome-lighthouse-audit-how-to-run)
+- [Chrome for Password Security Best Practices](/chrome-for-password-security-best-practices)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

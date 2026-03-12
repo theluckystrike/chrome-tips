@@ -156,9 +156,9 @@ For most users, clearing the cache and disabling problematic extensions does the
 
 
 
-### Related Articles
-- [Chrome Err Internet Disconnected But Internet Works Fix](/chrome-err-internet-disconnected-but-internet-works-fix)
+## Related Articles
+- [Chrome ERR_INTERNET_DISCONNECTED But Internet Works Fix](/chrome-err-internet-disconnected-but-internet-works-fix)
 - [Chrome Images Not Loading Fix](/chrome-images-not-loading-fix)
-- [Chrome Lazy Loading Images How It Works](/chrome-lazy-loading-images-how-it-works)
+- [Chrome Says Not Secure But Site Is Safe](/chrome-says-not-secure-but-site-is-safe)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

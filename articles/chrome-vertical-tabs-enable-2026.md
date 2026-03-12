@@ -71,9 +71,9 @@ Take a few minutes to enable vertical tabs using either the Settings method or t
 
 
 
-### Related Articles
-- [Chrome Vertical Tabs How To Enable](/chrome-vertical-tabs-how-to-enable)
-- [Chrome Extensions For Vertical Tabs Sidebar](/chrome-extensions-for-vertical-tabs-sidebar)
-- [How To Group Tabs In Chrome 2026](/how-to-group-tabs-in-chrome-2026)
+## Related Articles
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+- [How to Group Tabs in Chrome 2026](/how-to-group-tabs-in-chrome-2026)
+- [Chrome Extensions for Vertical Tabs Sidebar](/chrome-extensions-for-vertical-tabs-sidebar)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

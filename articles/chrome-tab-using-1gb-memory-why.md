@@ -93,9 +93,9 @@ The key is to be proactive. Check Chrome Task Manager regularly, close unused ta
 
 
 
-### Related Articles
-- [How To Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
-- [Why Does Each Chrome Tab Use So Much Memory](/why-does-each-chrome-tab-use-so-much-memory)
-- [Why Is Chrome Using So Much Memory](/why-is-chrome-using-so-much-memory)
+## Related Articles
+- [How to Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
+- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
+- [Chrome Using Swap Memory Fix](/chrome-using-swap-memory-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

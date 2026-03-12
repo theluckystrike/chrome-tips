@@ -74,7 +74,7 @@ Chrome casting to TV opens up many possibilities for sharing content with others
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Cast To Tv How To Set Up](/chrome-cast-to-tv-how-to-set-up)
-- [Chrome Mirroring Screen To Tv How To](/chrome-mirroring-screen-to-tv-how-to)
-- [Chrome Multi Language Setup How To](/chrome-multi-language-setup-how-to)
+## Related Articles
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)

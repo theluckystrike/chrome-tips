@@ -72,7 +72,7 @@ The next time you install a new PWA, pay attention to what shortcuts are availab
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Auto Sign In To Websites How To Control](/chrome-auto-sign-in-to-websites-how-to-control)
-- [Chrome Built In Password Checkup How To Use](/chrome-built-in-password-checkup-how-to-use)
-- [Chrome Desktop Shortcuts How To Create](/chrome-desktop-shortcuts-how-to-create)
+## Related Articles
+- [chrome desktop shortcuts how to create](/chrome-desktop-shortcuts-how-to-create)
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)

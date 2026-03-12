@@ -107,9 +107,9 @@ Experiment with these extensions, find the combination that works best for your 
 
 
 
-### Related Articles
-- [Chrome Extensions For Productivity Students](/chrome-extensions-for-productivity-students)
-- [Must Have Chrome Extensions For Students](/must-have-chrome-extensions-for-students)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome Extensions for Productivity Students](/chrome-extensions-for-productivity-students)
+- [Must Have Chrome Extensions for Students](/must-have-chrome-extensions-for-students)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

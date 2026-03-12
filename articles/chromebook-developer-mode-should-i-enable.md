@@ -96,7 +96,7 @@ Whatever you decide, your Chromebook will still be a capable machine. The choice
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Preloading Pages Should I Enable It](/chrome-preloading-pages-should-i-enable-it)
-- [Chrome Strict Site Isolation Should I Enable](/chrome-strict-site-isolation-should-i-enable)
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
+## Related Articles
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/chrome-extensions-developer-mode)
+- [Chrome Developer Mode Extensions Guide](/chrome-developer-mode-extensions)

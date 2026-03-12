@@ -71,9 +71,9 @@ Bounce tracking is a subtle but powerful way that advertisers follow you across 
 
 
 
-### Related Articles
-- [Chrome Enhanced Tracking Protection Setup](/chrome-enhanced-tracking-protection-setup)
-- [Chrome Fingerprinting Protection Explained](/chrome-fingerprinting-protection-explained)
-- [Chrome Ip Protection Feature Explained](/chrome-ip-protection-feature-explained)
+## Related Articles
+- [chrome fingerprinting protection explained](/chrome-fingerprinting-protection-explained)
+- [chrome enhanced tracking protection setup](/chrome-enhanced-tracking-protection-setup)
+- [Chrome Safe Browsing Protection Levels Explained](/chrome-safe-browsing-protection-levels-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

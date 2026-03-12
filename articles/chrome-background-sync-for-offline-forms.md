@@ -14,7 +14,7 @@ tags:
 - offline-forms
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-background-sync-for-offline-forms
 ---
 # Chrome Background Sync for Offline Forms
@@ -60,7 +60,7 @@ The internet will never be perfect, and connection drops will happen. But with t
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Background Fetch For Pwas Explained](/chrome-background-fetch-for-pwas-explained)
-- [Chrome Background Sync Api Explained](/chrome-background-sync-api-explained)
-- [Chrome Background Sync Explained](/chrome-background-sync-explained)
+## Related Articles
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
+- [Chrome Background Sync API Explained](/chrome-background-sync-api-explained)
+- [Chrome Periodic Background Sync Explained](/chrome-periodic-background-sync-explained)

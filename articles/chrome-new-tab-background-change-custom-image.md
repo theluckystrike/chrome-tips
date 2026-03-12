@@ -72,9 +72,9 @@ By taking a few minutes to set up a custom background that resonates with you, y
 
 
 
-### Related Articles
-- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)
-- [Chrome Best New Tab Extension 2026](/chrome-best-new-tab-extension-2026)
-- [Chrome Custom Fonts How To Change](/chrome-custom-fonts-how-to-change)
+## Related Articles
+- [chrome for custom new tab page extensions](/chrome-for-custom-new-tab-page-extensions)
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
+- [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

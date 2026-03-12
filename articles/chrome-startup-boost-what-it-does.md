@@ -72,9 +72,9 @@ The most important thing is that you understand what the feature does and how it
 
 
 
-### Related Articles
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
-- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
+## Related Articles
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
 - [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome Permissions on Startup How to Configure](/chrome-permissions-on-startup-how-to-configure)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

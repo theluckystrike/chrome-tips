@@ -140,9 +140,9 @@ This removes all extensions, clears custom settings, and gives you a fresh, clea
 
 
 
-### Related Articles
-- [Chrome Slow Only On My Computer Not Others](/chrome-slow-only-on-my-computer-not-others)
-- [My Computer Is So Slow How To Fix Chrome](/my-computer-is-so-slow-how-to-fix-chrome)
-- [Why Is Chrome So Slow On My Computer](/why-is-chrome-so-slow-on-my-computer)
+## Related Articles
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
+- [Chrome Slow Only on My Computer Not Others: Why and How to Fix It](/chrome-slow-only-on-my-computer-not-others)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

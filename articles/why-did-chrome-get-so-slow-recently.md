@@ -88,7 +88,7 @@ A slow browser is a major productivity killer, but it's rarely a permanent probl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Why Is Chrome So Slow On My Computer](/why-is-chrome-so-slow-on-my-computer)
-- [Chrome Running Slow On New Laptop Why](/chrome-running-slow-on-new-laptop-why)
-- [Chrome Slow On Ipad Why](/chrome-slow-on-ipad-why)
+## Related Articles
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [Chrome Cleanup Tool: Where Did It Go?](/chrome-cleanup-tool-where-did-it-go)

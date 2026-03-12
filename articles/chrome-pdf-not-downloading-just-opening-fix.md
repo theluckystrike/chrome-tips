@@ -76,9 +76,9 @@ To check for updates, open Chrome and look for the three dots menu in the top ri
 
 
 
-### Related Articles
-- [Chrome Pdf Not Opening Fix](/chrome-pdf-not-opening-fix)
-- [Chrome Pdf Not Opening In Browser Fix](/chrome-pdf-not-opening-in-browser-fix)
-- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+## Related Articles
+- [Chrome PDF Not Opening Fix](/chrome-pdf-not-opening-fix)
+- [Chrome PDF Not Opening in Browser Fix](/chrome-pdf-not-opening-in-browser-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

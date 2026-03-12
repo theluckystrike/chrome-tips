@@ -98,9 +98,9 @@ You can find **Tab Suspender Pro** in the Chrome Web Store and set it up to help
 
 
 
-### Related Articles
-- [Chrome Pdf Not Downloading Just Opening Fix](/chrome-pdf-not-downloading-just-opening-fix)
-- [Chrome Pdf Not Opening In Browser Fix](/chrome-pdf-not-opening-in-browser-fix)
-- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+## Related Articles
+- [Chrome PDF Not Opening in Browser Fix](/chrome-pdf-not-opening-in-browser-fix)
+- [Chrome PDF Not Downloading Just Opening Fix](/chrome-pdf-not-downloading-just-opening-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

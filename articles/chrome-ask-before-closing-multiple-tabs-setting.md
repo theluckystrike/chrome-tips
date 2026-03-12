@@ -13,7 +13,7 @@ tags:
 - chrome-settings
 - browser-management
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ask-before-closing-multiple-tabs-setting
 ---
 # Chrome Ask Before Closing Multiple Tabs Setting
@@ -83,7 +83,7 @@ The most important thing is finding a system that works for you and gives you pe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Multiple Windows Vs Tabs Which Is Better](/chrome-multiple-windows-vs-tabs-which-is-better)
-- [How To Make Chrome Remember Tabs After Closing](/how-to-make-chrome-remember-tabs-after-closing)
-- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
+## Related Articles
+- [How to Make Chrome Remember Tabs After Closing](/how-to-make-chrome-remember-tabs-after-closing)
+- [Chrome Multiple Windows vs Tabs Which Is Better](/chrome-multiple-windows-vs-tabs-which-is-better)
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)

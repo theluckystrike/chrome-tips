@@ -62,9 +62,9 @@ Using tools like this, combined with regular attention to your browser settings,
 
 
 
-### Related Articles
-- [Chrome Autocomplete Wrong Suggestions How To Fix](/chrome-autocomplete-wrong-suggestions-how-to-fix)
-- [Chrome Autofill Wrong Address How To Fix](/chrome-autofill-wrong-address-how-to-fix)
-- [Chrome Bookmark Bar Disappeared How To Fix](/chrome-bookmark-bar-disappeared-how-to-fix)
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

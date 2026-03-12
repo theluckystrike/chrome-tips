@@ -55,9 +55,9 @@ Finally, check if there is a known issue with the extension. Visit the extension
 
 
 
-### Related Articles
-- [Chrome Restore Tabs Not Working After Update](/chrome-restore-tabs-not-working-after-update)
-- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
-- [Chrome Autofill Not Working Fix](/chrome-autofill-not-working-fix)
+## Related Articles
+- [Chrome Restore Tabs Not Working After Update: Practical Fixes](/chrome-restore-tabs-not-working-after-update)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -102,9 +102,9 @@ Remember: your changes are temporary and only visible to you, so feel free to ex
 
 
 
-### Related Articles
-- [Chrome How To Inspect Element Beginners](/chrome-how-to-inspect-element-beginners)
-- [Chrome Inspect Element For Beginners](/chrome-inspect-element-for-beginners)
-- [Chrome Inspect Element Tutorial For Beginners](/chrome-inspect-element-tutorial-for-beginners)
+## Related Articles
+- [Chrome Inspect Element Tutorial for Beginners](/chrome-inspect-element-tutorial-for-beginners)
+- [Chrome How to Inspect Element Beginners](/chrome-how-to-inspect-element-beginners)
+- [Chrome Inspect Element for Beginners](/chrome-inspect-element-for-beginners)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

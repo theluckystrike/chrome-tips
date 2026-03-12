@@ -129,9 +129,9 @@ By understanding when to use each tool, you can quickly identify and resolve per
 
 
 
-### Related Articles
-- [Chrome Bitwarden Vs Chrome Password Manager](/chrome-bitwarden-vs-chrome-password-manager)
-- [Chrome Multiple Windows Vs Tabs Which Is Better](/chrome-multiple-windows-vs-tabs-which-is-better)
-- [Chrome Os Vs Windows For Basic Use](/chrome-os-vs-windows-for-basic-use)
+## Related Articles
+- [Chrome Task Manager Guide](/chrome-task-manager-guide)
+- [How to Use Chrome Task Manager to Find Heavy Tabs](/chrome-task-manager-find-heavy-tabs)
+- [Chrome Task Manager Shortcut Explained](/chrome-task-manager-shortcut-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

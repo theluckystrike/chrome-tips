@@ -59,9 +59,9 @@ Remember that citation generators are helpful tools, but it is still important t
 
 
 
-### Related Articles
-- [Chrome Extensions For Color Palette Generator](/chrome-extensions-for-color-palette-generator)
-- [Chrome Extensions For Lorem Ipsum Generator](/chrome-extensions-for-lorem-ipsum-generator)
-- [Chrome For Citation And Research Extensions](/chrome-for-citation-and-research-extensions)
+## Related Articles
+- [Chrome for Citation and Research Extensions](/chrome-for-citation-and-research-extensions)
+- [Chrome for Citation Manager Extensions](/chrome-for-citation-manager-extensions)
+- [Chrome Extensions for Lorem Ipsum Generator](/chrome-extensions-for-lorem-ipsum-generator)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

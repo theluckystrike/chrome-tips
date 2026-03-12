@@ -60,7 +60,7 @@ Flushing socket pools is a simple yet powerful troubleshooting step that should 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
-- [Chrome Ad Personalization How To Turn Off](/chrome-ad-personalization-how-to-turn-off)
-- [Chrome Address Autofill How To Manage](/chrome-address-autofill-how-to-manage)
+## Related Articles
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)

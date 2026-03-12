@@ -127,9 +127,9 @@ Remember that smooth, responsive web experiences depend on efficient rendering p
 
 
 
-### Related Articles
-- [Chrome Application Panel Guide](/chrome-application-panel-guide)
-- [Chrome Layers Panel Guide](/chrome-layers-panel-guide)
+## Related Articles
 - [Chrome Recorder Panel Guide](/chrome-recorder-panel-guide)
+- [Chrome Application Panel Guide](/chrome-application-panel-guide)
+- [Chrome Side Panel Features Guide](/chrome-side-panel-features-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

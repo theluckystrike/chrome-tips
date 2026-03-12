@@ -91,9 +91,9 @@ Chrome sync is incredibly useful when it works, and most of the time it does wor
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Cross Device Tab Sync Not Working Fix](/chrome-cross-device-tab-sync-not-working-fix)
 - [Chrome Sync Between Devices Not Working Fix](/chrome-sync-between-devices-not-working-fix)
-- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

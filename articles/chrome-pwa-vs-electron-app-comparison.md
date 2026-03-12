@@ -76,9 +76,9 @@ Both PWAs and Electron apps represent the evolution of how we think about softwa
 
 
 
-### Related Articles
-- [Chrome Web App Vs Native App Battery Comparison](/chrome-web-app-vs-native-app-battery-comparison)
-- [Chrome Add To Home Screen Vs Install App](/chrome-add-to-home-screen-vs-install-app)
-- [Chrome Bitwarden Vs Lastpass Comparison 2026](/chrome-bitwarden-vs-lastpass-comparison-2026)
+## Related Articles
+- [chrome install as app pwa how to](/chrome-install-as-app-pwa-how-to)
+- [Chrome Web App vs Native App Battery Comparison](/chrome-web-app-vs-native-app-battery-comparison)
+- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

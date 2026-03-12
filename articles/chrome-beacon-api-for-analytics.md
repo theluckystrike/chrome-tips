@@ -13,7 +13,7 @@ tags:
 - web-analytics
 - browser-data
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-beacon-api-for-analytics
 ---
 # Chrome Beacon API for Analytics
@@ -65,7 +65,7 @@ For users who are concerned about privacy, there are steps you can take to limit
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Cache Api Tutorial For Beginners](/chrome-cache-api-tutorial-for-beginners)
-- [Chrome Extensions For Api Testing Simple](/chrome-extensions-for-api-testing-simple)
-- [Chrome For Google Analytics In Browser](/chrome-for-google-analytics-in-browser)
+## Related Articles
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)

@@ -16,7 +16,7 @@ tags:
 - keyboard-shortcuts
 - browsing
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-accessibility-shortcuts-for-screen-reader
 ---
 # Chrome Accessibility Shortcuts for Screen Reader
@@ -79,9 +79,9 @@ Finally, be patient with yourself. Learning new keyboard shortcuts takes time, a
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Accessibility Screen Reader Support](/chrome-accessibility-screen-reader-support)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
-- [Chrome Extension For Measuring Things On Screen](/chrome-extension-for-measuring-things-on-screen)
+- [chrome screen reader support](/chrome-screen-reader-support)
+- [chrome desktop shortcuts how to create](/chrome-desktop-shortcuts-how-to-create)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

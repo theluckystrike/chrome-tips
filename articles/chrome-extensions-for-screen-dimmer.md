@@ -68,7 +68,7 @@ Remember that screen dimming is just one part of maintaining eye comfort while u
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Screen Recording Free](/chrome-extensions-for-screen-recording-free)
-- [Chrome Extensions For Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [chrome extensions for screen recording free](/chrome-extensions-for-screen-recording-free)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

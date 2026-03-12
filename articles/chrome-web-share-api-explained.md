@@ -69,9 +69,9 @@ Tab Suspender Pro can help with this by automatically suspending tabs you are no
 
 
 
-### Related Articles
-- [Chrome Web Share Target Api Explained](/chrome-web-share-target-api-explained)
-- [Chrome Web Animation Api Explained](/chrome-web-animation-api-explained)
-- [Chrome Web Codecs Api Explained](/chrome-web-codecs-api-explained)
+## Related Articles
+- [chrome web share target api explained](/chrome-web-share-target-api-explained)
+- [Chrome Web Codecs API Explained](/chrome-web-codecs-api-explained)
+- [chrome web serial api explained](/chrome-web-serial-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

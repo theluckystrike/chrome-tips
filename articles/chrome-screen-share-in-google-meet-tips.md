@@ -77,10 +77,10 @@ Using **Tab Suspender Pro** is an excellent way to handle this. It automatically
 
 
 
-### Related Articles
-- [Chrome Google Meet Integration In Browser](/chrome-google-meet-integration-in-browser)
-- [Chrome Google Translate Built In Feature Tips](/chrome-google-translate-built-in-feature-tips)
-- [Chrome Extensions For Google Meet](/chrome-extensions-for-google-meet)
+## Related Articles
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
+- [chrome for google translate extension tips](/chrome-for-google-translate-extension-tips)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

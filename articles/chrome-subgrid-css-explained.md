@@ -68,9 +68,9 @@ If you are exploring Chrome features like subgrid or working on web design proje
 
 
 
-### Related Articles
-- [Chrome Css Custom Properties Explained](/chrome-css-custom-properties-explained)
-- [Chrome Font Palette Css Explained](/chrome-font-palette-css-explained)
-- [Chrome Layer Css Cascade Layers Explained](/chrome-layer-css-cascade-layers-explained)
+## Related Articles
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Font Palette CSS Explained](/chrome-font-palette-css-explained)
+- [Chrome Nesting CSS Explained](/chrome-nesting-css-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

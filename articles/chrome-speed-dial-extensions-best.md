@@ -69,7 +69,7 @@ Most of these extensions offer free versions with basic features, so you can try
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Speed Dial Bookmarks](/chrome-extensions-for-speed-dial-bookmarks)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
-- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
+## Related Articles
+- [Chrome Extensions for Speed Dial Bookmarks](/chrome-extensions-for-speed-dial-bookmarks)
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
+- [Chrome Extensions for Speed Reading](/chrome-extensions-for-speed-reading)

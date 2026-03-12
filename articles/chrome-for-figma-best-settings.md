@@ -92,7 +92,7 @@ Every computer is different, so you might need to experiment with a few settings
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Settings For Chromebook](/best-chrome-settings-for-chromebook)
-- [Best Chrome Settings For Slow Computer](/best-chrome-settings-for-slow-computer)
-- [Best Privacy Settings For Chrome 2026](/best-privacy-settings-for-chrome-2026)
+## Related Articles
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
+- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)

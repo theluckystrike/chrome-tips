@@ -88,9 +88,9 @@ Chrome device emulation is an essential tool for anyone building mobile websites
 
 
 
-### Related Articles
-- [Chrome Device Emulation Advanced](/chrome-device-emulation-advanced)
-- [Chrome Extensions For Website Speed Test](/chrome-extensions-for-website-speed-test)
-- [Chrome Back Forward Cache How To Test](/chrome-back-forward-cache-how-to-test)
+## Related Articles
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
+- [Chrome Device Emulation Advanced Guide](/chrome-device-emulation-advanced)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

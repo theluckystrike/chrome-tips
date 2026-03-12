@@ -87,9 +87,9 @@ Whether you're a developer implementing CSP on your own websites or a user curio
 
 
 
-### Related Articles
+## Related Articles
+- [Chrome Zero Trust Security Model Explained](/chrome-zero-trust-security-model-explained)
+- [Chrome Permissions Policy Header Explained](/chrome-permissions-policy-header-explained)
 - [Chrome Devtools Security Panel Explained](/chrome-devtools-security-panel-explained)
-- [Chrome Document Policy New Security Feature](/chrome-document-policy-new-security-feature)
-- [Chrome Group Policy Settings Explained](/chrome-group-policy-settings-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

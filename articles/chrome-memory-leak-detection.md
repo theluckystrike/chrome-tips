@@ -83,9 +83,9 @@ Whether you are a developer debugging a web application or a power user looking 
 
 *
 
-### Related Articles
-- [Chrome Memory Leak Fix 2026](/chrome-memory-leak-fix-2026)
-- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
-- [Chrome Command Line Flags For Low Memory](/chrome-command-line-flags-for-low-memory)
+## Related Articles
+- [Chrome Memory Leak Fix for 2026](/chrome-memory-leak-fix-2026)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

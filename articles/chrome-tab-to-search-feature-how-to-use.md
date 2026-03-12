@@ -68,9 +68,9 @@ The beauty of Tab to Search is that it fits naturally into how you already use C
 
 
 
-### Related Articles
-- [Chrome Tab Search Feature How To Use](/chrome-tab-search-feature-how-to-use)
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Network Tab How To Use Debug](/chrome-network-tab-how-to-use-debug)
+## Related Articles
+- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

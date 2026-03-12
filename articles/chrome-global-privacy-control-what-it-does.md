@@ -68,7 +68,7 @@ If you find that managing tab clutter is taking up too much of your time and you
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
-- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
+## Related Articles
 - [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+- [Chrome Do Not Track: Does It Actually Work](/chrome-do-not-track-does-it-actually-work)

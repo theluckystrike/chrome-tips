@@ -60,9 +60,9 @@ Setting multiple startup pages is one of those simple tweaks that makes your dai
 
 
 
-### Related Articles
-- [Chrome Startup Pages How To Set](/chrome-startup-pages-how-to-set)
-- [Chrome Startup Page How To Set](/chrome-startup-page-how-to-set)
-- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)
+## Related Articles
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
+- [Chrome Startup Pages Configuration](/chrome-startup-pages-config)
+- [Chrome Startup Page How to Set](/chrome-startup-page-how-to-set)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

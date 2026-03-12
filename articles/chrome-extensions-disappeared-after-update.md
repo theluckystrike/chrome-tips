@@ -51,9 +51,9 @@ If all else fails, you may need to reset Chrome to its default settings. This re
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
-- [Chrome Bookmarks Disappeared After Update](/chrome-bookmarks-disappeared-after-update)
+- [Chrome Bookmarks Disappeared After Update: Complete Recovery Guide](/chrome-bookmarks-disappeared-after-update)
 - [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

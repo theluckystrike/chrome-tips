@@ -119,9 +119,9 @@ The next time a website refuses to load or you notice unusual network behavior, 
 
 
 
-### Related Articles
-- [Chrome How To Clear Dns Cache](/chrome-how-to-clear-dns-cache)
-- [Chrome Net Internals How To Use](/chrome-net-internals-how-to-use)
-- [Chrome Net Internals Sockets View Connections](/chrome-net-internals-sockets-view-connections)
+## Related Articles
+- [Chrome How to Clear DNS Cache](/chrome-how-to-clear-dns-cache)
+- [How Often Should I Clear Chrome Cache](/how-often-should-i-clear-chrome-cache)
+- [Chrome Net Internals How to Use](/chrome-net-internals-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

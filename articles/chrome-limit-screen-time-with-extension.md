@@ -101,9 +101,9 @@ Remember that setbacks are normal. If you have a day where you spend too much ti
 
 
 
-### Related Articles
-- [Chrome Extension For Measuring Things On Screen](/chrome-extension-for-measuring-things-on-screen)
-- [Chrome Extension For Tracking Time Spent On Websites](/chrome-extension-for-tracking-time-spent-on-websites)
-- [Chrome Extension For Viewing Page Load Time](/chrome-extension-for-viewing-page-load-time)
+## Related Articles
+- [chrome extension for measuring things on screen](/chrome-extension-for-measuring-things-on-screen)
+- [Chrome Extension for Tracking Time Spent on Websites](/chrome-extension-for-tracking-time-spent-on-websites)
+- [Chrome Extension for Viewing Page Load Time](/chrome-extension-for-viewing-page-load-time)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

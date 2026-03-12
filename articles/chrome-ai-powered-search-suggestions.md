@@ -14,7 +14,7 @@ tags:
 - chrome-settings
 - suggestions
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-powered-search-suggestions
 ---
 # Chrome AI Powered Search Suggestions
@@ -73,9 +73,9 @@ Remember that you can always adjust these settings later as your needs or prefer
 
 
 
-### Related Articles
-- [Chrome Ai Powered History Search](/chrome-ai-powered-history-search)
-- [Chrome Ai Search Suggestions Explained](/chrome-ai-search-suggestions-explained)
-- [Chrome Address Bar Suggestions How To Clear](/chrome-address-bar-suggestions-how-to-clear)
+## Related Articles
+- [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/chrome-ai-powered-history-search)
+- [Chrome AI Search Suggestions Explained](/chrome-ai-search-suggestions-explained)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

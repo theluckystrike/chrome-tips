@@ -62,7 +62,7 @@ Regularly review which extensions have access to your wallet addresses and revok
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Fitness Tracking Dashboard](/chrome-extensions-for-fitness-tracking-dashboard)
-- [Chrome Extensions For New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)
-- [Chrome Extensions For Productivity Dashboard](/chrome-extensions-for-productivity-dashboard)
+## Related Articles
+- [Chrome Extensions for Fitness Tracking Dashboard](/chrome-extensions-for-fitness-tracking-dashboard)
+- [Chrome Extensions for New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)
+- [Chrome Extensions for Productivity Dashboard](/chrome-extensions-for-productivity-dashboard)

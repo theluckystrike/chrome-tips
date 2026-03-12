@@ -92,7 +92,7 @@ You can find Tab Suspender Pro in the Chrome Web Store. It is a useful extension
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Wont Install On Windows 11 Fix](/chrome-wont-install-on-windows-11-fix)
-- [Chrome Crashing On Iphone Fix](/chrome-crashing-on-iphone-fix)
-- [Chrome Default Browser How To Set On Mac](/chrome-default-browser-how-to-set-on-mac)
+## Related Articles
+- [Chrome Wont Install on Windows 11 Fix](/chrome-wont-install-on-windows-11-fix)
+- [Chrome PWA Install Prompt Not Showing Fix](/chrome-pwa-install-prompt-not-showing-fix)
+- [Chrome Dock Icon Missing Fix Mac](/chrome-dock-icon-missing-fix-mac)

@@ -69,10 +69,10 @@ Using **Tab Suspender Pro** helps manage this by automatically "parking" inactiv
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Sandbox Mode Explained Simply](/chrome-sandbox-mode-explained-simply)
-- [Chrome Energy Saver Mode Explained](/chrome-energy-saver-mode-explained)
-- [Chrome Guest Mode Explained](/chrome-guest-mode-explained)
+- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
+- [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

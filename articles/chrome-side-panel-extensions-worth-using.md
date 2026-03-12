@@ -165,9 +165,9 @@ The extensions listed above are all genuinely useful and worth your time. They e
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Side Panel Extensions Best Ones](/chrome-side-panel-extensions-best-ones)
 - [Chrome Extension Side Panel Tutorial](/chrome-extension-side-panel-tutorial)
-- [Chrome Extensions Using Too Much Memory](/chrome-extensions-using-too-much-memory)
+- [chrome side panel features you missed](/chrome-side-panel-features-you-missed)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

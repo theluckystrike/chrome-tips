@@ -86,7 +86,7 @@ With these tips, you should have a much better video calling experience. Take a 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Google Meet](/chrome-extensions-for-google-meet)
-- [Best Chrome Extensions For Google Drive](/best-chrome-extensions-for-google-drive)
-- [Best Chrome Settings For Chromebook](/best-chrome-settings-for-chromebook)
+## Related Articles
+- [Chrome Google Meet Integration in Browser](/chrome-google-meet-integration-in-browser)
+- [Chrome Extensions for Google Meet](/chrome-extensions-for-google-meet)
+- [Chrome Google Account Privacy Settings Guide](/chrome-google-account-privacy-settings-guide)

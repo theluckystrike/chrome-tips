@@ -83,9 +83,9 @@ The most important thing is to understand what is happening in your browser. Now
 
 
 
-### Related Articles
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
-- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)
-- [Chrome Background Sync Api Explained](/chrome-background-sync-api-explained)
+## Related Articles
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Badging API Explained](/chrome-badging-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

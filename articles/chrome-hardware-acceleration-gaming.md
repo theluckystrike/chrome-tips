@@ -81,9 +81,9 @@ Remember to use tools like Tab Suspender Pro to manage inactive tabs efficiently
 
 
 
-### Related Articles
-- [Chrome Gpu Acceleration Gaming Settings](/chrome-gpu-acceleration-gaming-settings)
+## Related Articles
 - [Chrome Hardware Acceleration Causes Problems](/chrome-hardware-acceleration-causes-problems)
-- [Chrome Hardware Acceleration Guide](/chrome-hardware-acceleration-guide)
+- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
+- [Chrome GPU Acceleration Gaming Settings](/chrome-gpu-acceleration-gaming-settings)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

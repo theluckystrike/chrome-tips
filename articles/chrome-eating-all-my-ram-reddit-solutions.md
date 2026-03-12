@@ -69,7 +69,7 @@ Make it a habit to close tabs you don't need and update Chrome regularly. These 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Lost All My Tabs Update Fix](/chrome-lost-all-my-tabs-update-fix)
-- [How To Stop Chrome From Eating Ram](/how-to-stop-chrome-from-eating-ram)
-- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
+## Related Articles
+- [How to Stop Chrome from Eating Your RAM](/how-to-stop-chrome-from-eating-ram)
+- [Best Chrome Extensions for Reddit Users](/best-chrome-extensions-for-reddit-users)
+- [Chrome Clear Data for One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)

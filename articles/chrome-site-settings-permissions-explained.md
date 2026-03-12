@@ -78,10 +78,10 @@ Extensions can also help you manage your browsing experience. For instance, **Ta
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Site Settings Explained Complete Guide](/chrome-site-settings-explained-complete-guide)
-- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
-- [Chrome Extensions For Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
+- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
+- [Chrome Extensions Permissions Explained Simply](/chrome-extensions-permissions-explained-simply)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

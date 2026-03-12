@@ -78,7 +78,7 @@ Finally, keep an eye on how many programs you have running in the background. Ot
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
-- [Chrome Autocomplete Wrong Suggestions How To Fix](/chrome-autocomplete-wrong-suggestions-how-to-fix)
-- [Chrome Autofill Wrong Address How To Fix](/chrome-autofill-wrong-address-how-to-fix)
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
+- [Chrome Service Worker High CPU Fix](/chrome-service-worker-high-cpu-fix)

@@ -77,10 +77,10 @@ Using **Tab Suspender Pro** is an excellent way to keep your browser responsive.
 
 
 
-### Related Articles
-- [Chrome Idle Detection Api Explained](/chrome-idle-detection-api-explained)
-- [Chrome Shape Detection Api Face Detection](/chrome-shape-detection-api-face-detection)
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
+## Related Articles
+- [Chrome Shape Detection API Face Detection](/chrome-shape-detection-api-face-detection)
+- [Chrome Idle Detection API Explained: What It Means for Your Browser](/chrome-idle-detection-api-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

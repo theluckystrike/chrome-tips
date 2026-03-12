@@ -159,7 +159,7 @@ These settings work together to create a browser that supports your business ins
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Small Business Owners](/best-chrome-extensions-for-small-business-owners)
-- [Best Chrome Settings For Chromebook](/best-chrome-settings-for-chromebook)
-- [Best Chrome Settings For Slow Computer](/best-chrome-settings-for-slow-computer)
+## Related Articles
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
+- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)
+- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)

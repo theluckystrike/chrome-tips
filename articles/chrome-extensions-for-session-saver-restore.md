@@ -68,7 +68,7 @@ The best extension is one that fits seamlessly into your workflow without adding
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Session Buddy](/chrome-extensions-for-session-buddy)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
-- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
+## Related Articles
+- [Chrome Restore Previous Session After Crash](/chrome-restore-previous-session-after-crash)
+- [Chrome Extensions for Session Buddy](/chrome-extensions-for-session-buddy)
+- [Chrome Session Restore Not Working Fix](/chrome-session-restore-not-working-fix)

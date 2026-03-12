@@ -71,7 +71,7 @@ For more tips on optimizing your browser for both performance and security, the 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)
-- [Chrome Extensions On Android Is It Possible](/chrome-extensions-on-android-is-it-possible)
-- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
+## Related Articles
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)

@@ -60,7 +60,7 @@ If you frequently download very large files, you might eventually want to look i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
-- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)
-- [Chrome Compact Mode How To Enable](/chrome-compact-mode-how-to-enable)
+## Related Articles
+- [How to Enable Parallel Downloading in Chrome for Faster Downloads](/chrome-parallel-downloading-enable-speed-up)
+- [chrome enable parallel downloading](/chrome-enable-parallel-downloading)
+- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)

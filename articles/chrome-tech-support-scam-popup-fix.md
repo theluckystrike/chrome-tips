@@ -119,9 +119,9 @@ Stay vigilant, and remember: if something looks like a panic-inducing popup dema
 
 
 
-### Related Articles
-- [Chrome Your Computer Is Infected Popup Fix](/chrome-your-computer-is-infected-popup-fix)
-- [Chrome Accessibility Screen Reader Support](/chrome-accessibility-screen-reader-support)
-- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+## Related Articles
+- [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/chrome-your-computer-is-infected-popup-fix)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -86,7 +86,7 @@ Remember that a smooth recording experience starts with a well-managed browser. 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Screen Recording Free](/chrome-extensions-for-screen-recording-free)
-- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
-- [Chrome Classroom Integration Tips For Teachers](/chrome-classroom-integration-tips-for-teachers)
+## Related Articles
+- [Chrome Screen Recording in Browser How To](/chrome-screen-recording-in-browser-how-to)
+- [chrome extensions for screen recording free](/chrome-extensions-for-screen-recording-free)
+- [Chrome Screen Share in Google Meet Tips](/chrome-screen-share-in-google-meet-tips)

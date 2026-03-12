@@ -85,9 +85,9 @@ Knowing where Chrome stores extension files gives you more control over your bro
 
 
 
-### Related Articles
-- [Chrome Cache Folder Size And Location](/chrome-cache-folder-size-and-location)
+## Related Articles
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
 - [Chrome Default Folder Location Where Is It](/chrome-default-folder-location-where-is-it)
-- [Chrome Downloads Folder How To Change Location](/chrome-downloads-folder-how-to-change-location)
+- [Chrome Cache Folder Size and Location: Complete Guide](/chrome-cache-folder-size-and-location)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

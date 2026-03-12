@@ -201,9 +201,9 @@ With these fixes, you should notice a significant improvement in Notion's respon
 
 
 
-### Related Articles
-- [Chrome Google Maps Slow And Laggy Fix](/chrome-google-maps-slow-and-laggy-fix)
-- [Chrome Android App Running Slow Fix](/chrome-android-app-running-slow-fix)
-- [Chrome Android Slow Fix 2026](/chrome-android-slow-fix-2026)
+## Related Articles
+- [Chrome Google Maps Slow and Laggy Fix](/chrome-google-maps-slow-and-laggy-fix)
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -71,9 +71,9 @@ Learning how to reopen recently closed tabs in Chrome is a valuable skill that c
 
 
 
-### Related Articles
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
-- [Chrome Mobile Tabs Too Many How To Manage](/chrome-mobile-tabs-too-many-how-to-manage)
-- [Chrome Opens Old Tabs On Startup How To Stop](/chrome-opens-old-tabs-on-startup-how-to-stop)
+## Related Articles
+- [chrome recently closed tabs shortcut](/chrome-recently-closed-tabs-shortcut)
+- [chrome reopen closed tab shortcut](/chrome-reopen-closed-tab-shortcut)
+- [How to Restore Closed Tabs in Chrome](/chrome-restore-closed-tabs-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

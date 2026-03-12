@@ -82,7 +82,7 @@ The goal is not to remove YouTube from your life entirely, but to use it on your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
-- [Chrome Extension For Youtube Ad Blocker](/chrome-extension-for-youtube-ad-blocker)
-- [Chrome Extensions For Better Youtube Experience](/chrome-extensions-for-better-youtube-experience)
+## Related Articles
+- [best chrome extensions for youtube power users](/best-chrome-extensions-for-youtube-power-users)
+- [Chrome Extensions for YouTube Thumbnail Preview](/chrome-extensions-for-youtube-thumbnail-preview)
+- [Chrome YouTube Slow But Other Sites Fine Fix](/chrome-youtube-slow-but-other-sites-fine-fix)

@@ -72,7 +72,7 @@ Your browser is your gateway to the internet, and taking a few simple steps to p
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Apple Notes In Browser Workaround](/chrome-for-apple-notes-in-browser-workaround)
-- [Chrome For Codecademy In Browser Optimization](/chrome-for-codecademy-in-browser-optimization)
-- [Chrome For Codepen In Browser Tips](/chrome-for-codepen-in-browser-tips)
+## Related Articles
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [chrome fingerprinting protection explained](/chrome-fingerprinting-protection-explained)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)

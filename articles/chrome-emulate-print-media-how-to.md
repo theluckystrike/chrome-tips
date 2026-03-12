@@ -73,7 +73,7 @@ Web developers also find print emulation valuable for testing. Rather than print
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome How To Print Selection Only](/chrome-how-to-print-selection-only)
-- [Chrome How To Print Without Headers Footers](/chrome-how-to-print-without-headers-footers)
-- [Chrome Media Autoplay How To Block](/chrome-media-autoplay-how-to-block)
+## Related Articles
+- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)
+- [Chrome Print Preview Taking Forever: Practical Solutions](/chrome-print-preview-taking-forever)
+- [Chrome Extensions for Social Media Managers](/chrome-extensions-for-social-media-managers)

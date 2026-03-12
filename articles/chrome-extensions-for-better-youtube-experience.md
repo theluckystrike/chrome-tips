@@ -71,9 +71,9 @@ Remember that fewer, well-chosen extensions will serve you better than installin
 
 
 
-### Related Articles
-- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
-- [Chrome Extensions For Youtube Productivity](/chrome-extensions-for-youtube-productivity)
-- [Chrome Extensions For Youtube Thumbnail Preview](/chrome-extensions-for-youtube-thumbnail-preview)
+## Related Articles
+- [best chrome extensions for youtube power users](/best-chrome-extensions-for-youtube-power-users)
+- [Chrome Extensions for YouTube Thumbnail Preview](/chrome-extensions-for-youtube-thumbnail-preview)
+- [Free Chrome Extensions Better Than Paid Apps](/free-chrome-extensions-better-than-paid-apps)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

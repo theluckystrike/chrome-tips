@@ -55,9 +55,9 @@ Remember that while these extensions make browsing more pleasant, they do not el
 
 
 
-### Related Articles
-- [Chrome For Blocking Cookie Consent Popups](/chrome-for-blocking-cookie-consent-popups)
-- [Chrome Extension For Blocking Social Media During Work](/chrome-extension-for-blocking-social-media-during-work)
-- [Chrome Allow Popups For One Site How To](/chrome-allow-popups-for-one-site-how-to)
+## Related Articles
+- [Chrome for Blocking Cookie Consent Popups](/chrome-for-blocking-cookie-consent-popups)
+- [Chrome GDPR Cookie Banners Best Extension to Handle](/chrome-gdpr-cookie-banners-best-extension-to-handle)
+- [Chrome Extension for Blocking Social Media During Work](/chrome-extension-for-blocking-social-media-during-work)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

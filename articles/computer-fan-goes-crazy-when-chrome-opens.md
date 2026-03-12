@@ -110,9 +110,9 @@ A loud fan when Chrome opens is frustrating, but it is usually fixable. Chrome's
 
 
 
-### Related Articles
-- [Best Chrome Settings For Slow Computer](/best-chrome-settings-for-slow-computer)
-- [Chrome Background Tabs Slowing Down Computer Fix](/chrome-background-tabs-slowing-down-computer-fix)
-- [Chrome Black Screen When Opening Fix](/chrome-black-screen-when-opening-fix)
+## Related Articles
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
+- [Chrome Slow Only on My Computer Not Others: Why and How to Fix It](/chrome-slow-only-on-my-computer-not-others)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

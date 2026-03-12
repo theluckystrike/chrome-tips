@@ -217,9 +217,9 @@ For developers building browser-based games, pairing keyboard lock with extensio
 
 
 
-### Related Articles
-- [Chrome Screen Wake Lock Api Explained](/chrome-screen-wake-lock-api-explained)
-- [Chrome Virtual Keyboard Api Explained](/chrome-virtual-keyboard-api-explained)
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
+## Related Articles
+- [Chrome Screen Wake Lock API Explained](/chrome-screen-wake-lock-api-explained)
+- [Chrome Virtual Keyboard API Explained](/chrome-virtual-keyboard-api-explained)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

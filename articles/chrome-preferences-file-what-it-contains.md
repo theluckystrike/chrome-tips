@@ -66,9 +66,9 @@ Using a tool like this, combined with regular attention to your browser settings
 
 
 
-### Related Articles
-- [Chrome About Blank Page What It Means](/chrome-about-blank-page-what-it-means)
-- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
-- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
+## Related Articles
+- [chrome file handling api explained](/chrome-file-handling-api-explained)
+- [Chrome File System Access API: A Complete Guide](/chrome-file-system-access-api)
+- [Chrome User Data Directory: What Each File Does](/chrome-user-data-directory-what-each-file-does)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

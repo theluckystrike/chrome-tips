@@ -66,9 +66,9 @@ Once you find the combination that works for you, the days of squinting at tiny 
 
 
 
-### Related Articles
-- [Chrome Cache Size How To Increase](/chrome-cache-size-how-to-increase)
-- [Chrome Font Size How To Change Permanently](/chrome-font-size-how-to-change-permanently)
-- [Chrome Text Size On Phone How To Change](/chrome-text-size-on-phone-how-to-change)
+## Related Articles
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+- [How to Increase Chrome Cache Size](/chrome-cache-size-how-to-increase)
+- [How to Change Chrome Font Size Permanently](/chrome-font-size-permanently-change)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

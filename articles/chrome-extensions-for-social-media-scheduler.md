@@ -82,7 +82,7 @@ Remember that consistency matters more than perfection. Starting with a simple s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Social Media](/best-chrome-extensions-for-social-media)
-- [Chrome Extensions For Social Media Managers](/chrome-extensions-for-social-media-managers)
-- [Chrome Extensions For Social Media Scheduling](/chrome-extensions-for-social-media-scheduling)
+## Related Articles
+- [Chrome Extensions for Social Media Managers](/chrome-extensions-for-social-media-managers)
+- [Chrome Extensions for Social Media Scheduling](/chrome-extensions-for-social-media-scheduling)
+- [Chrome for Social Media Management Extensions](/chrome-for-social-media-management-extensions)

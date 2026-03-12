@@ -65,7 +65,7 @@ Whether you are managing a handful of tabs or dozens at a time, Chrome's built-i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Tab To Search Feature How To Use](/chrome-tab-to-search-feature-how-to-use)
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Network Tab How To Use Debug](/chrome-network-tab-how-to-use-debug)
+## Related Articles
+- [Chrome Tab to Search Feature How to Use](/chrome-tab-to-search-feature-how-to-use)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)

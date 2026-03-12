@@ -101,9 +101,9 @@ Remember that Guest Mode is best for short-term, casual use. For ongoing privacy
 
 
 
-### Related Articles
-- [Chrome Energy Saver Mode Explained](/chrome-energy-saver-mode-explained)
-- [Chrome Guest Mode Vs Incognito Difference](/chrome-guest-mode-vs-incognito-difference)
-- [Chrome Guest Mode What Gets Saved](/chrome-guest-mode-what-gets-saved)
+## Related Articles
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
+- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
+- [Chrome Sandbox Mode Explained Simply](/chrome-sandbox-mode-explained-simply)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -111,9 +111,9 @@ Enable memory-saving features, keep your extensions in check, and consider tools
 
 
 
-### Related Articles
-- [Chrome Vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison)
-- [Chrome Bitwarden Vs Lastpass Comparison 2026](/chrome-bitwarden-vs-lastpass-comparison-2026)
-- [Chrome Vs Arc Browser Comparison 2026](/chrome-vs-arc-browser-comparison-2026)
+## Related Articles
+- [Chrome vs Edge Memory Usage Comparison](/chrome-vs-edge-memory-usage-comparison)
+- [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)
+- [chrome vs firefox privacy comparison 2026](/chrome-vs-firefox-privacy-comparison-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

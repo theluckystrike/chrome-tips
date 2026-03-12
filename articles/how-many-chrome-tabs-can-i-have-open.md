@@ -56,7 +56,7 @@ Try turning on Memory Saver if you have not already. Review which tabs you actua
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [I Have 100 Tabs Open Chrome Is Dying](/i-have-100-tabs-open-chrome-is-dying)
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
-- [Chrome Mobile Tabs Too Many How To Manage](/chrome-mobile-tabs-too-many-how-to-manage)
+## Related Articles
+- [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/i-have-100-tabs-open-chrome-is-dying)
+- [Chrome Slow With Many Tabs Open? Here's How to Fix It](/chrome-slow-with-many-tabs-open)
+- [Chrome Mobile Tabs Too Many How to Manage](/chrome-mobile-tabs-too-many-how-to-manage)

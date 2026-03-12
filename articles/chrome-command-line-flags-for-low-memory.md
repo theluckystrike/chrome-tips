@@ -165,9 +165,9 @@ Start with the renderer process limit flag, test it, and gradually add more flag
 
 
 
-### Related Articles
-- [Chrome Crashing On Low Memory Computer](/chrome-crashing-on-low-memory-computer)
-- [Chrome Flags Explained For Beginners](/chrome-flags-explained-for-beginners)
-- [Chrome Flags For Speed Optimization](/chrome-flags-for-speed-optimization)
+## Related Articles
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

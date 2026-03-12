@@ -56,7 +56,7 @@ Most people find that a mix of both works well. Keep native apps for the service
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Web Apps Vs Native Apps Comparison](/chrome-web-apps-vs-native-apps-comparison)
-- [Chrome Pwa Vs Electron App Comparison](/chrome-pwa-vs-electron-app-comparison)
-- [Chrome Vs Edge Battery Life Laptop Comparison](/chrome-vs-edge-battery-life-laptop-comparison)
+## Related Articles
+- [Chrome Web Apps vs Native Apps Comparison](/chrome-web-apps-vs-native-apps-comparison)
+- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)

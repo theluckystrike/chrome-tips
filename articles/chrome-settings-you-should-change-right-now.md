@@ -63,10 +63,10 @@ You can set custom "auto-suspend" timers, whitelist specific domains, and even v
 
 
 
-### Related Articles
-- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
-- [Chrome Dns Settings How To Change For Privacy](/chrome-dns-settings-how-to-change-for-privacy)
-- [Chrome For Geforce Now Best Settings](/chrome-for-geforce-now-best-settings)
+## Related Articles
+- [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)
+- [Chrome DNS Settings How to Change for Privacy](/chrome-dns-settings-how-to-change-for-privacy)
+- [Hidden Chrome Extensions You Should Install](/hidden-chrome-extensions-you-should-install)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

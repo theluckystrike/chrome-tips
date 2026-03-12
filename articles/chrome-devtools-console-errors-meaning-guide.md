@@ -134,9 +134,9 @@ The next time you see a red error message in Chrome, don't panic. Use this guide
 
 
 
-### Related Articles
-- [Chrome Console Utilities Guide](/chrome-console-utilities-guide)
-- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
-- [Chrome Accessibility On Phone Settings Guide](/chrome-accessibility-on-phone-settings-guide)
+## Related Articles
+- [Chrome Console Utilities Reference](/chrome-console-utilities-guide)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

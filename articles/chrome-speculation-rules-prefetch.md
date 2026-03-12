@@ -96,9 +96,9 @@ For regular users, there's nothing specific you need to do to benefit from specu
 
 
 
-### Related Articles
-- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
-- [Chrome Prefetch And Preconnect Explained](/chrome-prefetch-and-preconnect-explained)
-- [Chrome Prefetch Dns How To Enable](/chrome-prefetch-dns-how-to-enable)
+## Related Articles
+- [chrome prefetch dns how to enable](/chrome-prefetch-dns-how-to-enable)
+- [chrome prefetch and preconnect explained](/chrome-prefetch-and-preconnect-explained)
+- [chrome dns prefetch what it does](/chrome-dns-prefetch-what-it-does)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

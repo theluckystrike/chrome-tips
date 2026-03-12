@@ -72,7 +72,7 @@ Once you have fixed the scrolling lag, maintain the performance by auditing your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
-- [Chrome Address Bar Not Showing Full Url Fix](/chrome-address-bar-not-showing-full-url-fix)
-- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)

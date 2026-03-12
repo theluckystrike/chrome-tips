@@ -79,9 +79,9 @@ Try different methods to see which fits your lifestyle. Whether you want to save
 
 
 
-### Related Articles
-- [Chrome Https Only Mode How To Enable](/chrome-https-only-mode-how-to-enable)
-- [Chrome Offline Mode How To Browse Without Internet](/chrome-offline-mode-how-to-browse-without-internet)
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
+## Related Articles
+- [Chrome HTTPS Only Mode How to Enable](/chrome-https-only-mode-how-to-enable)
+- [chrome offline mode how to browse without internet](/chrome-offline-mode-how-to-browse-without-internet)
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

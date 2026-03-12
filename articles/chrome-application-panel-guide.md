@@ -17,7 +17,7 @@ tags:
 - pwa
 - web-development
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-application-panel-guide
 ---
 # Chrome Application Panel Guide
@@ -174,9 +174,9 @@ Take time to explore each section of the Application panel in your own projects.
 
 
 
-### Related Articles
-- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
-- [Chrome Layers Panel Guide](/chrome-layers-panel-guide)
+## Related Articles
 - [Chrome Recorder Panel Guide](/chrome-recorder-panel-guide)
+- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
+- [Chrome Side Panel Features Guide](/chrome-side-panel-features-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

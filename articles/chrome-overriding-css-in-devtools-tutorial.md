@@ -189,9 +189,9 @@ Start with simple changes—modify a color or adjust a margin—and gradually ex
 
 
 
-### Related Articles
-- [Chrome Devtools Css Overview Panel](/chrome-devtools-css-overview-panel)
-- [Chrome Font Editor In Devtools Explained](/chrome-font-editor-in-devtools-explained)
-- [Chrome Ai Features Built In 2026](/chrome-ai-features-built-in-2026)
+## Related Articles
+- [Chrome DevTools CSS Overview Panel](/chrome-devtools-css-overview-panel)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

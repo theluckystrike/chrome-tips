@@ -2,10 +2,9 @@
 layout: post
 title: Chrome About Settings All Pages Explained
 description: A walkthrough of every section in Chrome's Settings page, what each option
-  controls, and which defaults you should consider changing. Learn how to optimize
-  y...
-date: '2026-01-15'
-last_modified_at: '2026-03-12'
+  controls, and which defaults you should consider changing. Discover essential insi...
+date: '2026-03-09'
+last_modified_at: 2026-03-12
 permalink: chrome-about-settings-all-pages-explained
 ---
 Chrome's Settings page (`chrome://settings`) has grown from a single page to a multi-section interface with over 100 individual options. This guide walks through every section, highlights the settings most users should check, and explains what the non-obvious options actually do.
@@ -118,7 +117,7 @@ Chrome can translate pages automatically. The **Offer to translate pages** toggl
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
-- [Chrome Group Policy Settings Explained](/chrome-group-policy-settings-explained)
-- [Chrome Performance Settings Explained 2026](/chrome-performance-settings-explained-2026)
+- [Chrome Preload Pages Setting Explained](/chrome-preload-pages-setting-explained)
+- [Chrome Site Settings Explained Complete Guide](/chrome-site-settings-explained-complete-guide)

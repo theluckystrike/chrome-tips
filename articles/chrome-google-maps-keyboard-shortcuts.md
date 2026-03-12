@@ -75,7 +75,7 @@ With a little practice, you will find that using keyboard shortcuts makes your G
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Google Docs Keyboard Shortcuts](/chrome-google-docs-keyboard-shortcuts)
+## Related Articles
 - [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)
-- [Chrome For Google Maps Best Extensions](/chrome-for-google-maps-best-extensions)
+- [chrome google docs keyboard shortcuts](/chrome-google-docs-keyboard-shortcuts)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)

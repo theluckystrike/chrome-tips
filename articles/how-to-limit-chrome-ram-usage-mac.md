@@ -114,9 +114,9 @@ Remember: the goal isn't to stop using Chrome—it's to use it smarter. With the
 
 
 
-### Related Articles
-- [How To Limit Chrome Memory Usage Mac](/how-to-limit-chrome-memory-usage-mac)
-- [How To Limit Chrome Ram Usage Windows](/how-to-limit-chrome-ram-usage-windows)
-- [How To Limit Chrome Memory Usage Windows](/how-to-limit-chrome-memory-usage-windows)
+## Related Articles
+- [How to Limit Chrome RAM Usage on Windows](/how-to-limit-chrome-ram-usage-windows)
+- [How to Limit Chrome Memory Usage Mac](/how-to-limit-chrome-memory-usage-mac)
+- [Chrome vs Edge RAM Usage Comparison 2026](/chrome-vs-edge-ram-usage-comparison-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -71,9 +71,9 @@ You can also explore Chrome's settings to manage your privacy, configure startup
 
 
 
-### Related Articles
-- [Chrome Default Browser How To Set On Mac](/chrome-default-browser-how-to-set-on-mac)
-- [Chrome Default Browser How To Set On Windows](/chrome-default-browser-how-to-set-on-windows)
-- [How To Set Chrome As Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
+## Related Articles
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)
+- [chrome default browser how to set on mac](/chrome-default-browser-how-to-set-on-mac)
+- [chrome default browser how to set on windows](/chrome-default-browser-how-to-set-on-windows)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

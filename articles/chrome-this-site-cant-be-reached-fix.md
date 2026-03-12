@@ -86,14 +86,8 @@ If you have tried all these steps and still cannot reach certain websites, there
 <<<<<<< HEAD
 
 
-### Related Articles
-- [Chrome This Site Cant Provide A Secure Connection Fix](/chrome-this-site-cant-provide-a-secure-connection-fix)
-- [Chrome Deceptive Site Ahead Warning Fix](/chrome-deceptive-site-ahead-warning-fix)
+
+## Related Articles
+- [Chrome This Site Cant Provide a Secure Connection Fix](/chrome-this-site-cant-provide-a-secure-connection-fix)
 - [Chrome Window Too Small Cant Resize Fix](/chrome-window-too-small-cant-resize-fix)
-
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-=======
----
-
-Built by theluckystroller — More tips at [zovo.one](https://zovo.one)
->>>>>>> qa/loop-5
+- [chrome deceptive site ahead warning fix](/chrome-deceptive-site-ahead-warning-fix)

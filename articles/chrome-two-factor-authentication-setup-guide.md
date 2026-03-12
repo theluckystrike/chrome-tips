@@ -75,9 +75,9 @@ Finally, review your security settings periodically. Many services show you a li
 
 
 
-### Related Articles
-- [Chrome For Two Factor Authentication Setup](/chrome-for-two-factor-authentication-setup)
+## Related Articles
+- [Chrome for Two Factor Authentication Setup](/chrome-for-two-factor-authentication-setup)
 - [Chrome Two Factor Authentication Setup](/chrome-two-factor-authentication-setup)
-- [Chrome Extensions For Ublock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

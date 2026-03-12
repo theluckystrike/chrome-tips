@@ -117,9 +117,9 @@ By following these steps, you can significantly improve Chrome's performance on 
 
 
 
-### Related Articles
-- [Why Is Chrome So Slow On My Computer](/why-is-chrome-so-slow-on-my-computer)
-- [Chrome Slow On School Laptop How To Fix](/chrome-slow-on-school-laptop-how-to-fix)
-- [Chrome Webrtc Leak What It Is And How To Fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
+## Related Articles
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

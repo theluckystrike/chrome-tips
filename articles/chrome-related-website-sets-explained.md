@@ -90,9 +90,9 @@ While the feature works automatically, understanding how it functions allows you
 
 
 
-### Related Articles
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
-- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
-- [Chrome Ai Generated Summaries Explained](/chrome-ai-generated-summaries-explained)
+## Related Articles
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

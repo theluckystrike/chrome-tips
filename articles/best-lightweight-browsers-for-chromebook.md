@@ -14,7 +14,7 @@ tags:
 - best-browser
 - chromebook-tips
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: best-lightweight-browsers-for-chromebook
 ---
 # Best Lightweight Browsers for Chromebook
@@ -81,9 +81,9 @@ Try installing a few different browsers and see which one feels fastest on your 
 
 
 
-### Related Articles
-- [Best Chrome Settings For Chromebook](/best-chrome-settings-for-chromebook)
-- [Best Chromebook Extensions For Students](/best-chromebook-extensions-for-students)
-- [Best Browser For 2Gb Ram Laptop 2026](/best-browser-for-2gb-ram-laptop-2026)
+## Related Articles
+- [Best Chromebook Extensions for Students](/best-chromebook-extensions-for-students)
+- [chromebook file manager tips and tricks](/chromebook-file-manager-tips-and-tricks)
+- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -72,7 +72,7 @@ By leveraging Chrome's built-in features and the right set of extensions, you ca
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extension For Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
-- [Chrome Extensions For Saving Articles Offline](/chrome-extensions-for-saving-articles-offline)
-- [Chrome Read Later Save Articles Offline](/chrome-read-later-save-articles-offline)
+## Related Articles
+- [How to Use Chrome Read Later: Save Articles for Offline Reading](/chrome-read-later-save-articles-offline)
+- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+- [Chrome Extensions for Saving Articles Offline](/chrome-extensions-for-saving-articles-offline)

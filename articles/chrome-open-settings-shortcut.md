@@ -91,9 +91,9 @@ Once in settings, you can customize nearly every aspect of your Chrome browsing 
 
 
 
-### Related Articles
-- [Chrome Open Downloads Page Shortcut](/chrome-open-downloads-page-shortcut)
+## Related Articles
 - [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
-- [Chrome Open Link In New Tab Shortcut](/chrome-open-link-in-new-tab-shortcut)
+- [Chrome Open Link in New Tab Shortcut](/chrome-open-link-in-new-tab-shortcut)
+- [Chrome Open Downloads Page Shortcut](/chrome-open-downloads-page-shortcut)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

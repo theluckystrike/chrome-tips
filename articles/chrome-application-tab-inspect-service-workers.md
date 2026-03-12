@@ -17,7 +17,7 @@ tags:
 - pwa
 - chrome-tips
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-application-tab-inspect-service-workers
 ---
 # Chrome Application Tab Inspect Service Workers
@@ -178,9 +178,9 @@ The ability to simulate push notifications, test background sync, and inspect ca
 
 
 
-### Related Articles
-- [Chrome Service Workers List How To View](/chrome-service-workers-list-how-to-view)
-- [Chrome Workbox Library For Service Workers](/chrome-workbox-library-for-service-workers)
-- [Best Chrome Extensions For Remote Workers 2026](/best-chrome-extensions-for-remote-workers-2026)
+## Related Articles
+- [Chrome Service Workers List How to View](/chrome-service-workers-list-how-to-view)
+- [Chrome Workbox Library for Service Workers](/chrome-workbox-library-for-service-workers)
+- [Chrome Service Worker Caching Strategies](/chrome-service-worker-caching-strategies)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

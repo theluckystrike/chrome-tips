@@ -84,9 +84,9 @@ You do not need to organize everything perfectly right away. Even small improvem
 
 
 
-### Related Articles
-- [Chrome Tab Groups Vs Windows](/chrome-tab-groups-vs-windows)
-- [Chrome Browser Process Vs Tab Process Explained](/chrome-browser-process-vs-tab-process-explained)
-- [Chrome For Tab Sleeping Vs Tab Suspending Difference](/chrome-for-tab-sleeping-vs-tab-suspending-difference)
+## Related Articles
+- [chrome tab groups advanced tips](/chrome-tab-groups-advanced-tips)
+- [Chrome Tab Groups vs Multiple Windows](/chrome-tab-groups-vs-windows)
+- [chrome tab groups auto create how to set up](/chrome-tab-groups-auto-create-how-to-set-up)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

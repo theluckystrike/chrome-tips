@@ -67,9 +67,9 @@ Managing tab audio in Chrome does not have to be a daily frustration. With these
 
 
 
-### Related Articles
-- [Chrome Network Tab How To Use Debug](/chrome-network-tab-how-to-use-debug)
-- [Chrome New Tab Page How To Customize](/chrome-new-tab-page-how-to-customize)
-- [Chrome Process Per Tab Why And How To Change](/chrome-process-per-tab-why-and-how-to-change)
+## Related Articles
+- [How to Route Chrome Tab Audio to Separate Speakers](/chrome-tab-audio-routing-separate-speakers)
+- [Chrome Mute Tab Shortcut Explained](/chrome-mute-tab-shortcut-explained)
+- [Chrome Audio Equalizer Extension](/chrome-audio-equalizer-extension)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

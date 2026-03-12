@@ -13,7 +13,7 @@ tags:
 - language-learning
 - education
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: best-chrome-extensions-for-language-learning
 ---
 # Best Chrome Extensions for Language Learning
@@ -62,10 +62,9 @@ Regularly review your extension list and disable or remove any you have not used
 
 
 
-### Related Articles
-- [Chrome Extensions For Language Learning](/chrome-extensions-for-language-learning)
-- [Chrome For Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Extensions for Language Learning](/chrome-extensions-for-language-learning)
+- [Chrome for Language Translation Extensions Comparison](/chrome-for-language-translation-extensions-comparison)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-

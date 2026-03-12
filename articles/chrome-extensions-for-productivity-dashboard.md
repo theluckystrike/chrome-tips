@@ -88,7 +88,7 @@ Once you have your dashboard set up, you will find it easier to stay focused, pr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Productivity](/best-chrome-extensions-for-productivity)
-- [Chrome Extensions For Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions For Fitness Tracking Dashboard](/chrome-extensions-for-fitness-tracking-dashboard)
+## Related Articles
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome for Email Productivity Extensions](/chrome-for-email-productivity-extensions)
+- [Chrome for Productivity Dashboard New Tab](/chrome-for-productivity-dashboard-new-tab)

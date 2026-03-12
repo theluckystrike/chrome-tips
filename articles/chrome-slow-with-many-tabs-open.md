@@ -93,9 +93,9 @@ You might also want to try lighter browsers for everyday tasks and reserve Chrom
 
 
 
-### Related Articles
+## Related Articles
 - [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
-- [Is 8Gb Ram Enough For Chrome With Many Tabs](/is-8gb-ram-enough-for-chrome-with-many-tabs)
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
+- [Chrome Mobile Tabs Too Many How to Manage](/chrome-mobile-tabs-too-many-how-to-manage)
+- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

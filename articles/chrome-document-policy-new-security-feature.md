@@ -58,9 +58,9 @@ Whether you are building a simple blog or a complex enterprise application, taki
 
 
 
-### Related Articles
-- [Chrome Content Security Policy Explained](/chrome-content-security-policy-explained)
-- [Chrome Site Isolation Security Feature](/chrome-site-isolation-security-feature)
-- [Chrome 2026 New Features Overview](/chrome-2026-new-features-overview)
+## Related Articles
+- [Chrome Content Security Policy Explained: A Complete Guide](/chrome-content-security-policy-explained)
+- [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/chrome-site-isolation-security-feature)
+- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

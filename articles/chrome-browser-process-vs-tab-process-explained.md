@@ -78,7 +78,7 @@ The exact number of processes you see depends on how many tabs you have open, wh
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Browser Cloud Management Explained](/chrome-browser-cloud-management-explained)
-- [Chrome Browser Vs App Which Uses More Data](/chrome-browser-vs-app-which-uses-more-data)
-- [Chrome Canary Vs Stable Difference Explained](/chrome-canary-vs-stable-difference-explained)
+## Related Articles
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [chrome pin tab what it does explained](/chrome-pin-tab-what-it-does-explained)
+- [Chrome Utility Process Explained](/chrome-utility-process-explained)

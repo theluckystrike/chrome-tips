@@ -145,9 +145,9 @@ Start with the quick fixes first, and you'll likely see immediate improvements. 
 
 
 
-### Related Articles
-- [Chrome Slow On Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
-- [How To Speed Up Chrome On 2Gb Ram Laptop](/how-to-speed-up-chrome-on-2gb-ram-laptop)
-- [My Computer Is So Slow How To Fix Chrome](/my-computer-is-so-slow-how-to-fix-chrome)
+## Related Articles
+- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

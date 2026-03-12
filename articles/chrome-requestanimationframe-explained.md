@@ -88,9 +88,9 @@ Understanding these underlying technologies helps you become a more informed int
 
 
 
-### Related Articles
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
-- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
-- [Chrome Ai Generated Summaries Explained](/chrome-ai-generated-summaries-explained)
+## Related Articles
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

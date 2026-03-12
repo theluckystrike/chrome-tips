@@ -16,7 +16,7 @@ tags:
 - payment-methods
 - address-book
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-autofill-settings-complete
 ---
 # Chrome Autofill Settings Complete Guide
@@ -135,9 +135,9 @@ Remember that autofill is designed to work for you, not the other way around. Ta
 
 
 
-### Related Articles
-- [Chrome Privacy Settings Complete Guide 2026](/chrome-privacy-settings-complete-guide-2026)
+## Related Articles
 - [Chrome Site Settings Explained Complete Guide](/chrome-site-settings-explained-complete-guide)
-- [Best Chrome Settings For Chromebook](/best-chrome-settings-for-chromebook)
+- [chrome privacy settings complete guide 2026](/chrome-privacy-settings-complete-guide-2026)
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

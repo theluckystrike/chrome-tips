@@ -63,7 +63,7 @@ While you are working on improving accessibility, you might also find that manag
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Devtools Emulate Color Schemes](/chrome-devtools-emulate-color-schemes)
-- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
-- [Chrome Devtools Changes Panel Track Edits](/chrome-devtools-changes-panel-track-edits)
+## Related Articles
+- [Chrome DevTools Emulate Color Schemes](/chrome-devtools-emulate-color-schemes)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)

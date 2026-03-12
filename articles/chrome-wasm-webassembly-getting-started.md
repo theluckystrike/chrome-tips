@@ -136,9 +136,9 @@ WebAssembly represents the future of web development, and learning it now positi
 
 
 
-### Related Articles
-- [Chrome Webgpu Api Getting Started](/chrome-webgpu-api-getting-started)
-- [Chrome Cookies Keep Getting Deleted Fix](/chrome-cookies-keep-getting-deleted-fix)
-- [Chrome Performance Getting Worse Over Time](/chrome-performance-getting-worse-over-time)
+## Related Articles
+- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+- [Chrome WebAssembly Debugging Guide](/chrome-wasm-debugging-guide)
+- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/chrome-wasm-run-desktop-apps-in-browser)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -83,7 +83,7 @@ Using Chrome for Google Finance does not have to be complicated. By keeping your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Google Ads Management Tips](/chrome-for-google-ads-management-tips)
-- [Chrome For Google Classroom Tips](/chrome-for-google-classroom-tips)
-- [Chrome For Google Flights Tips And Tricks](/chrome-for-google-flights-tips-and-tricks)
+## Related Articles
+- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
+- [chrome for google translate extension tips](/chrome-for-google-translate-extension-tips)
+- [chrome for google ads management tips](/chrome-for-google-ads-management-tips)

@@ -141,9 +141,9 @@ The best defense is a good offense: enable Chrome Sync, export your bookmarks pe
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
 - [Chrome Extensions Disappeared After Update](/chrome-extensions-disappeared-after-update)
-- [Chrome Bookmarks Bar Disappeared Fix](/chrome-bookmarks-bar-disappeared-fix)
+- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

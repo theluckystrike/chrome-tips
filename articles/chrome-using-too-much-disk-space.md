@@ -72,9 +72,9 @@ Start with the simplest solutions like clearing your cache and removing unused e
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Using Too Much Disk Space Fix](/chrome-using-too-much-disk-space-fix)
-- [Chrome Extension Using Too Much Memory Find](/chrome-extension-using-too-much-memory-find)
-- [Chrome Extensions Using Too Much Memory](/chrome-extensions-using-too-much-memory)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Tabs Using Too Much Memory Which One](/chrome-tabs-using-too-much-memory-which-one)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -71,9 +71,9 @@ Whatever browser you choose, being mindful of how many tabs you keep open and us
 
 
 
-### Related Articles
-- [Chrome Vs Edge Ram Usage Comparison 2026](/chrome-vs-edge-ram-usage-comparison-2026)
-- [Chrome Vs Edge Battery Life Laptop Comparison](/chrome-vs-edge-battery-life-laptop-comparison)
-- [Chrome Vs Firefox Memory Usage 2026 Actual Test](/chrome-vs-firefox-memory-usage-2026-actual-test)
+## Related Articles
+- [Chrome vs Edge RAM Usage Comparison 2026](/chrome-vs-edge-ram-usage-comparison-2026)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

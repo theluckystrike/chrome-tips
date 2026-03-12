@@ -73,9 +73,9 @@ Seeing your RAM usage spike after a Chrome update can be alarming, but it's usua
 
 
 
-### Related Articles
-- [Chrome Bookmarks Disappeared After Update](/chrome-bookmarks-disappeared-after-update)
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
 - [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
-- [Chrome Extension Using Too Much Memory Find](/chrome-extension-using-too-much-memory-find)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

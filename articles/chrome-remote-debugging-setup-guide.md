@@ -93,9 +93,9 @@ Remote debugging transforms how you approach cross-device development. Instead o
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Remote Desktop Setup Guide](/chrome-remote-desktop-setup-guide)
-- [Chrome Breakpoints Conditional Debugging Guide](/chrome-breakpoints-conditional-debugging-guide)
-- [Chrome Extensions For Ublock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome WebAssembly Debugging Guide](/chrome-wasm-debugging-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

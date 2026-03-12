@@ -64,9 +64,9 @@ Start with your most important accounts, like your Google account and your prima
 
 
 
-### Related Articles
-- [Chrome For Two Factor Authentication Setup](/chrome-for-two-factor-authentication-setup)
+## Related Articles
+- [Chrome for Two Factor Authentication Setup](/chrome-for-two-factor-authentication-setup)
 - [Chrome Two Factor Authentication Setup Guide](/chrome-two-factor-authentication-setup-guide)
-- [Best Chrome Setup For Elderly Parents](/best-chrome-setup-for-elderly-parents)
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

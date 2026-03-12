@@ -13,7 +13,7 @@ tags:
 - reading
 - browser-tools
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: best-chrome-extensions-for-reading-articles
 ---
 # Best Chrome Extensions for Reading Articles
@@ -82,9 +82,9 @@ Once you have the right extensions in place, you will be surprised at how much m
 
 
 
-### Related Articles
-- [Chrome For Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)
-- [Chrome For Medium Best Reading Extensions](/chrome-for-medium-best-reading-extensions)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome for Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)
+- [Chrome Extensions for Speed Reading](/chrome-extensions-for-speed-reading)
+- [Chrome Extensions for Saving Articles Offline](/chrome-extensions-for-saving-articles-offline)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

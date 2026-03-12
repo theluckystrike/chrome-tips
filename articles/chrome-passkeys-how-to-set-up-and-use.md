@@ -72,9 +72,9 @@ Extensions like **Tab Suspender Pro** can help you manage your browser tabs more
 
 
 
-### Related Articles
-- [Chrome Sync Phone And Computer How To Set Up](/chrome-sync-phone-and-computer-how-to-set-up)
-- [How To Set Up Chrome Profiles For Work And Personal](/how-to-set-up-chrome-profiles-for-work-and-personal)
-- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)
+## Related Articles
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

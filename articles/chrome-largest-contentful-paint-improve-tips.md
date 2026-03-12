@@ -78,9 +78,9 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 
-### Related Articles
+## Related Articles
+- [Chrome Largest Contentful Paint Optimize: A Complete Guide](/chrome-largest-contentful-paint-optimize)
 - [Chrome Largest Contentful Paint Explained](/chrome-largest-contentful-paint-explained)
-- [Chrome Largest Contentful Paint Optimize](/chrome-largest-contentful-paint-optimize)
-- [Chrome Interaction Next Paint Improve](/chrome-interaction-next-paint-improve)
+- [Chrome Interaction to Next Paint Improve: Complete Guide](/chrome-interaction-next-paint-improve)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

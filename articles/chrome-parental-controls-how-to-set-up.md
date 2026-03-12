@@ -111,10 +111,10 @@ While **Family Link** handles the safety and content filtering, you might also w
 
 
 
-### Related Articles
-- [Chromebook Parental Controls How To Set Up](/chromebook-parental-controls-how-to-set-up)
-- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)
-- [Chrome Cast To Tv How To Set Up](/chrome-cast-to-tv-how-to-set-up)
+## Related Articles
+- [Chrome Parental Controls Without Extension](/chrome-parental-controls-without-extension)
+- [Chromebook Parental Controls How to Set Up](/chromebook-parental-controls-how-to-set-up)
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

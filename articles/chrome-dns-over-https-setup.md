@@ -56,9 +56,9 @@ If you find that Chrome is running slower with many open tabs, consider using Ta
 
 
 
-### Related Articles
-- [Chrome Dns Over Https How To Enable](/chrome-dns-over-https-how-to-enable)
-- [Chrome Next Dns Setup For Ad Blocking](/chrome-next-dns-setup-for-ad-blocking)
-- [Best Chrome Setup For Elderly Parents](/best-chrome-setup-for-elderly-parents)
+## Related Articles
+- [Chrome DNS Over HTTPS How to Enable](/chrome-dns-over-https-how-to-enable)
+- [chrome next dns setup for ad blocking](/chrome-next-dns-setup-for-ad-blocking)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -87,9 +87,9 @@ Using a tool like **Tab Suspender Pro** can actually help Chrome run better by a
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Window Too Small Cant Resize Fix](/chrome-window-too-small-cant-resize-fix)
-- [Chrome Font Too Small On Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
-- [Chrome New Tab Opens Instead Of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)
+- [Chrome Font Too Small on Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
+- [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -116,9 +116,9 @@ With these troubleshooting steps, you should be able to get back to reading and 
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
-- [Chrome Address Bar Not Showing Full Url Fix](/chrome-address-bar-not-showing-full-url-fix)
-- [Chrome Not Playing Youtube Videos Fix](/chrome-not-playing-youtube-videos-fix)
+- [Chrome PWA Install Prompt Not Showing Fix](/chrome-pwa-install-prompt-not-showing-fix)
+- [chrome not playing youtube videos fix](/chrome-not-playing-youtube-videos-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

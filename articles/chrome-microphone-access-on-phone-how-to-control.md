@@ -69,7 +69,7 @@ Finally, remember that revoking microphone permission is always reversible. If y
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Location Access On Phone How To Control](/chrome-location-access-on-phone-how-to-control)
-- [Chrome Camera Access On Phone How To Manage](/chrome-camera-access-on-phone-how-to-manage)
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+## Related Articles
+- [Chrome Location Access on Phone How to Control](/chrome-location-access-on-phone-how-to-control)
+- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
+- [chrome data usage on phone how to reduce](/chrome-data-usage-on-phone-how-to-reduce)

@@ -84,7 +84,7 @@ Start with the built-in Memory Saver feature, which requires no additional insta
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [How To Limit Chrome Memory Usage Windows](/how-to-limit-chrome-memory-usage-windows)
-- [How To Limit Chrome Ram Usage Mac](/how-to-limit-chrome-ram-usage-mac)
-- [Chrome Tab Memory Usage How To Check](/chrome-tab-memory-usage-how-to-check)
+## Related Articles
+- [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)
+- [Chrome vs Safari Memory Usage Mac](/chrome-vs-safari-memory-usage-mac)
+- [How to Limit Chrome Memory Usage on Windows](/how-to-limit-chrome-memory-usage-windows)

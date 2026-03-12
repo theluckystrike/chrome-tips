@@ -58,9 +58,9 @@ If you find that Chrome is running slowly or using too much memory due to many o
 
 
 
-### Related Articles
-- [Chrome Css Custom Properties Explained](/chrome-css-custom-properties-explained)
-- [Chrome Font Palette Css Explained](/chrome-font-palette-css-explained)
-- [Chrome Layer Css Cascade Layers Explained](/chrome-layer-css-cascade-layers-explained)
+## Related Articles
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)
+- [Chrome Font Palette CSS Explained](/chrome-font-palette-css-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -86,4 +86,11 @@ When websites are slow, it helps to know whether the problem is on your end or t
 - [Chrome Clean Install What To Backup First](/chrome-clean-install-what-to-backup-first)
 - [Chrome Interaction To Next Paint Explained](/chrome-interaction-to-next-paint-explained)
 
+
+
+## Related Articles
+- [Chrome Total Blocking Time Explained](/chrome-total-blocking-time-explained)
+- [Chrome Takes Long Time to Open First Time](/chrome-takes-long-time-to-open-first-time)
+- [chrome offline first app design explained](/chrome-offline-first-app-design-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

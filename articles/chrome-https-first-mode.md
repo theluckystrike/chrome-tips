@@ -135,9 +135,9 @@ Browser manufacturers and web standards organizations are working together to ma
 
 
 
-### Related Articles
-- [Chrome Https Only Mode How To Enable](/chrome-https-only-mode-how-to-enable)
-- [Best Dark Mode Chrome Extension](/best-dark-mode-chrome-extension)
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
+## Related Articles
+- [Chrome HTTPS Only Mode How to Enable](/chrome-https-only-mode-how-to-enable)
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

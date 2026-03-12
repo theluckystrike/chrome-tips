@@ -14,7 +14,7 @@ tags:
 - css
 - web-standards
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-anchor-positioning-api-explained
 ---
 # Chrome Anchor Positioning API Explained
@@ -71,9 +71,9 @@ Tab Suspender Pro can help with this by automatically suspending tabs you are no
 
 
 
-### Related Articles
-- [Chrome Anchor Positioning Css](/chrome-anchor-positioning-css)
-- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)
-- [Chrome Background Sync Api Explained](/chrome-background-sync-api-explained)
+## Related Articles
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Badging API Explained](/chrome-badging-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

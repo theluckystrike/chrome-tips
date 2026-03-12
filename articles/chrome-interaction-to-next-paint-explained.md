@@ -58,9 +58,9 @@ Chrome interaction to next paint explained ultimately comes down to this: it mea
 
 
 
-### Related Articles
-- [Chrome Interaction Next Paint Improve](/chrome-interaction-next-paint-improve)
+## Related Articles
+- [Chrome Interaction to Next Paint Improve: Complete Guide](/chrome-interaction-next-paint-improve)
+- [Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering](/chrome-paint-holding-feature-explained)
 - [Chrome Largest Contentful Paint Explained](/chrome-largest-contentful-paint-explained)
-- [Chrome Navigate To Next Search Result Shortcut](/chrome-navigate-to-next-search-result-shortcut)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

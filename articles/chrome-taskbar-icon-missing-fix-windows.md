@@ -68,9 +68,9 @@ Using **Tab Suspender Pro** is an excellent way to keep your browser running smo
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Dock Icon Missing Fix Mac](/chrome-dock-icon-missing-fix-mac)
-- [Chrome Blurry Text Fix Windows](/chrome-blurry-text-fix-windows)
 - [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
+- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

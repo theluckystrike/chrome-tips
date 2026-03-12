@@ -83,7 +83,7 @@ Start by checking the reviews and update history before installing anything. Mak
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Web Store How To Leave Review](/chrome-web-store-how-to-leave-review)
-- [Chrome Web Store Reviews How To Spot Fake](/chrome-web-store-reviews-how-to-spot-fake)
-- [How To Find Chrome Extensions That Slow Down Browser](/how-to-find-chrome-extensions-that-slow-down-browser)
+## Related Articles
+- [Chrome Web Store Extensions Not Installing: Fixes That Actually Work](/chrome-web-store-extensions-not-installing)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Are Chrome Extensions Safe to Use](/are-chrome-extensions-safe-to-use)

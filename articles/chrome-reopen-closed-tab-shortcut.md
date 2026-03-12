@@ -75,9 +75,9 @@ The chrome reopen closed tab shortcut is a simple but powerful tool that every C
 
 
 
-### Related Articles
-- [Chrome Reopen Accidentally Closed Tab How](/chrome-reopen-accidentally-closed-tab-how)
-- [Chrome Duplicate Tab Shortcut Trick](/chrome-duplicate-tab-shortcut-trick)
-- [Chrome Jump To Specific Tab Number Shortcut](/chrome-jump-to-specific-tab-number-shortcut)
+## Related Articles
+- [chrome reopen accidentally closed tab how](/chrome-reopen-accidentally-closed-tab-how)
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [Chrome Tab Search Shortcut: Find Any Open Tab Instantly](/chrome-tab-search-shortcut)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -149,9 +149,9 @@ For developers looking to optimize their Chrome extension performance, understan
 
 
 
-### Related Articles
-- [Chrome Clipboard Api Copy Paste](/chrome-clipboard-api-copy-paste)
+## Related Articles
+- [Chrome Clipboard API: Copy and Paste in Modern Web Apps](/chrome-clipboard-api-copy-paste)
 - [Chrome Copy Paste Not Working Fix](/chrome-copy-paste-not-working-fix)
-- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -78,9 +78,9 @@ For developers managing multiple Chrome tabs during debugging sessions, keeping 
 
 
 
-### Related Articles
-- [Chrome Blackbox Script Skip Library Code Debug](/chrome-blackbox-script-skip-library-code-debug)
+## Related Articles
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/chrome-blackbox-script-skip-library-code-debug)
+- [Chrome Source Maps Configuration Guide](/chrome-source-maps-guide)
 - [Chrome Source Maps Explained Simply](/chrome-source-maps-explained-simply)
-- [Chrome Source Maps Guide](/chrome-source-maps-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

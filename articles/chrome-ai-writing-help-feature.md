@@ -13,7 +13,7 @@ tags:
 - writing
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-writing-help-feature
 ---
 # Chrome AI Writing Help Feature
@@ -80,9 +80,9 @@ Remember that these tools are designed to support you, not to do all the work fo
 
 
 
-### Related Articles
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Ai Tab Organization Feature](/chrome-ai-tab-organization-feature)
-- [Chrome Ai Tab Organizer Feature](/chrome-ai-tab-organizer-feature)
+## Related Articles
+- [chrome help me write feature explained](/chrome-help-me-write-feature-explained)
+- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
+- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

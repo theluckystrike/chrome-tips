@@ -70,7 +70,7 @@ Now that you know how to enable Chrome reading list, you can start using this co
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Android Reading List How To Use](/chrome-android-reading-list-how-to-use)
-- [Chrome Mobile Reading List How To Use](/chrome-mobile-reading-list-how-to-use)
-- [Chrome Reading List How To Use](/chrome-reading-list-how-to-use)
+## Related Articles
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)
+- [Chrome Reading List vs Bookmarks Difference](/chrome-reading-list-vs-bookmarks-difference)
+- [Chrome Extensions for Reading List Manager](/chrome-extensions-for-reading-list-manager)

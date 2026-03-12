@@ -90,7 +90,7 @@ Finally, pay attention to how your browser behaves. If you notice new slowdowns 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Gpu Process High Cpu Fix](/chrome-gpu-process-high-cpu-fix)
-- [Chrome Gpu Process High Memory Fix](/chrome-gpu-process-high-memory-fix)
-- [Chrome Helper Renderer High Cpu Mac Fix](/chrome-helper-renderer-high-cpu-mac-fix)
+## Related Articles
+- [Chrome GPU Process High CPU Fix](/chrome-gpu-process-high-cpu-fix)
+- [Chrome Service Worker High CPU Fix](/chrome-service-worker-high-cpu-fix)
+- [Chrome GPU Process High Memory Fix](/chrome-gpu-process-high-memory-fix)

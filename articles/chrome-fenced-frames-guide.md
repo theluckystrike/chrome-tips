@@ -107,9 +107,9 @@ Whether you are a web developer, a digital advertiser, or just someone intereste
 
 *
 
-### Related Articles
+## Related Articles
+- [chrome fenced frames privacy explained](/chrome-fenced-frames-privacy-explained)
 - [Chrome Fenced Frames Explained](/chrome-fenced-frames-explained)
-- [Chrome Fenced Frames Privacy Explained](/chrome-fenced-frames-privacy-explained)
-- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

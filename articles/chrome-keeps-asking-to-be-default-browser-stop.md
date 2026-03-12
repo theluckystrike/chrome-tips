@@ -58,7 +58,7 @@ The most important thing is to use the browser that works best for you and your 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Default Browser How To Set On Mac](/chrome-default-browser-how-to-set-on-mac)
-- [Chrome Default Browser How To Set On Windows](/chrome-default-browser-how-to-set-on-windows)
-- [Chrome Default Browser How To Set Windows Mac](/chrome-default-browser-how-to-set-windows-mac)
+## Related Articles
+- [Chrome Site Keeps Asking for Notifications? Here's How to Stop It](/chrome-site-keeps-asking-for-notifications-stop)
+- [how to make chrome default browser mac](/how-to-make-chrome-default-browser-mac)
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)

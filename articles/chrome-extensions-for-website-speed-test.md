@@ -78,7 +78,7 @@ The tools are there, they are easy to use, and the information they provide is v
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Extensions For Font Changer On Any Website](/chrome-extensions-for-font-changer-on-any-website)
-- [Chrome Extensions For Speed Dial Bookmarks](/chrome-extensions-for-speed-dial-bookmarks)
-- [Chrome Extensions For Speed Reading](/chrome-extensions-for-speed-reading)
+## Related Articles
+- [Chrome Extensions for Website Archiving](/chrome-extensions-for-website-archiving)
+- [Chrome Extensions for Website Testing](/chrome-extensions-for-website-testing)
+- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)

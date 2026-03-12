@@ -82,7 +82,7 @@ The more you use it, the more comfortable you will become. Before long, Inspect 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Inspect Element For Beginners](/chrome-inspect-element-for-beginners)
-- [Chrome Inspect Element Tutorial For Beginners](/chrome-inspect-element-tutorial-for-beginners)
-- [How To Use Chrome Devtools For Beginners](/how-to-use-chrome-devtools-for-beginners)
+## Related Articles
+- [Chrome Inspect Element Tutorial for Beginners](/chrome-inspect-element-tutorial-for-beginners)
+- [Chrome Inspect Element for Beginners](/chrome-inspect-element-for-beginners)
+- [How to Edit Any Webpage Text Using Inspect Element](/chrome-edit-webpage-text-inspect-element)

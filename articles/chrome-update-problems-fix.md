@@ -93,9 +93,9 @@ Most chrome update problems are fixable with the steps in this guide. Start with
 
 
 
-### Related Articles
-- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
+## Related Articles
+- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
 - [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
-- [Chrome Gpu Acceleration Causing Problems Fix](/chrome-gpu-acceleration-causing-problems-fix)
+- [Chrome Update Failed Error 7 Fix](/chrome-update-failed-error-7-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -65,7 +65,7 @@ Beyond reporting, staying vigilant about what you install and regularly reviewin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Report Broken Website How To](/chrome-report-broken-website-how-to)
-- [Chrome Report Malware Website How To](/chrome-report-malware-website-how-to)
+## Related Articles
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)

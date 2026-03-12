@@ -54,9 +54,9 @@ If you find that you have too many tabs opening at startup or that Chrome feels 
 
 
 
-### Related Articles
-- [Chrome Startup Pages How To Set Multiple](/chrome-startup-pages-how-to-set-multiple)
-- [Chrome Startup Pages How To Set](/chrome-startup-pages-how-to-set)
-- [Chrome Audit Page Seo How To](/chrome-audit-page-seo-how-to)
+## Related Articles
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
+- [Chrome Startup Pages How to Set Multiple](/chrome-startup-pages-how-to-set-multiple)
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

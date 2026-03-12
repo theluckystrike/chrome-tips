@@ -86,7 +86,7 @@ If you have tried all these steps and the problem persists, or if you want to pr
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Font Too Small On Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
-- [Chrome Opens In Small Window Fix](/chrome-opens-in-small-window-fix)
-- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
+## Related Articles
+- [Chrome Font Too Small on Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
+- [Chrome Opens in Small Window Fix](/chrome-opens-in-small-window-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)

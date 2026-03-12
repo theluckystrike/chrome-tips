@@ -12,7 +12,7 @@ tags:
 - autocomplete
 - privacy
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-autocomplete-how-to-clear
 ---
 # Chrome Address Bar Autocomplete How to Clear
@@ -84,9 +84,9 @@ By understanding where these suggestions come from, you can tailor your Chrome e
 
 
 
-### Related Articles
-- [Chrome Address Bar Suggestions How To Clear](/chrome-address-bar-suggestions-how-to-clear)
-- [Chrome Address Autofill How To Manage](/chrome-address-autofill-how-to-manage)
+## Related Articles
+- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
 - [Chrome Address Bar Autocomplete Disable](/chrome-address-bar-autocomplete-disable)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -87,9 +87,9 @@ By keeping your browser optimized, your extensions in check, and your system res
 
 
 
-### Related Articles
-- [Chrome Android App Running Slow Fix](/chrome-android-app-running-slow-fix)
-- [Chrome Android Slow Fix 2026](/chrome-android-slow-fix-2026)
-- [Chrome Canvas Rendering Slow Fix](/chrome-canvas-rendering-slow-fix)
+## Related Articles
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Chrome Images Not Loading Fix](/chrome-images-not-loading-fix)
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

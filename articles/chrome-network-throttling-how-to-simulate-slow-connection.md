@@ -75,7 +75,7 @@ Minimize the number of network requests by combining files where possible. Use C
 Finally, prioritize critical rendering path. Ensure that the content above the fold loads first, giving users something to see while the rest of the page loads. This approach improves perceived performance even on slow connections.
 
 
-### Related Articles
-- [Chrome Network Throttling Test Slow Connection](/chrome-network-throttling-test-slow-connection)
-- [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
-- [Chrome Network Tab How To Use Debug](/chrome-network-tab-how-to-use-debug)
+## Related Articles
+- [chrome network throttling test slow connection](/chrome-network-throttling-test-slow-connection)
+- [How to Simulate Slow Connection in Chrome for Testing](/chrome-simulate-slow-connection-for-testing)
+- [Chrome Network Throttling Guide](/chrome-network-throttling-guide)

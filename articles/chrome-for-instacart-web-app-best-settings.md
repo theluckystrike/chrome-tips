@@ -78,7 +78,7 @@ Start with enabling Memory Saver, then review your extensions, clear the cache i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Edx Web App Best Settings](/chrome-for-edx-web-app-best-settings)
-- [Chrome For Quizlet Web App Best Settings](/chrome-for-quizlet-web-app-best-settings)
-- [Chrome For Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+## Related Articles
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [Chrome for Quizlet Web App Best Settings](/chrome-for-quizlet-web-app-best-settings)
+- [Chrome for edX Web App Best Settings](/chrome-for-edx-web-app-best-settings)

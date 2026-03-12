@@ -103,9 +103,9 @@ Consider how you use the browser daily, what data you are comfortable sharing, a
 
 
 
-### Related Articles
-- [Chrome Vs Firefox For Privacy 2026](/chrome-vs-firefox-for-privacy-2026)
-- [Chrome Vs Firefox Memory Usage 2026 Actual Test](/chrome-vs-firefox-memory-usage-2026-actual-test)
-- [Chrome Vs Firefox Memory Usage Test 2026](/chrome-vs-firefox-memory-usage-test-2026)
+## Related Articles
+- [chrome vs firefox privacy comparison 2026](/chrome-vs-firefox-privacy-comparison-2026)
+- [chrome vs firefox for privacy 2026](/chrome-vs-firefox-for-privacy-2026)
+- [Chrome vs Firefox Memory Usage Test 2026](/chrome-vs-firefox-memory-usage-test-2026)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

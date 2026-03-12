@@ -76,7 +76,7 @@ With the right extensions, your browser becomes a powerful study tool that helps
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Productivity Students](/chrome-extensions-for-productivity-students)
-- [Chrome Extensions For Students](/chrome-extensions-for-students)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome Extensions for Productivity Students](/chrome-extensions-for-productivity-students)
+- [Best Chrome Extensions for Students 2026](/chrome-extensions-for-students)
+- [Top 10 Chrome Extensions Everyone Should Have](/top-10-chrome-extensions-everyone-should-have)

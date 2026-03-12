@@ -87,7 +87,7 @@ Remember that you can combine methods. Using system text size as a baseline and 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Autofill On Phone How To Manage](/chrome-autofill-on-phone-how-to-manage)
-- [Chrome Camera Access On Phone How To Manage](/chrome-camera-access-on-phone-how-to-manage)
+## Related Articles
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+- [How to Change Chrome Font Size Permanently](/chrome-font-size-permanently-change)
+- [Chrome Text Size How to Increase Permanently](/chrome-text-size-how-to-increase-permanently)

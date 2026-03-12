@@ -61,9 +61,9 @@ Finally, remember that browser extensions are powerful tools but they have limit
 
 
 
-### Related Articles
-- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
-- [Chrome Extensions For Website Testing](/chrome-extensions-for-website-testing)
-- [Chrome For Accessibility Testing Extensions](/chrome-for-accessibility-testing-extensions)
+## Related Articles
+- [chrome extensions for elderly users simple tools](/chrome-extensions-for-elderly-users-simple-tools)
+- [Chrome for Accessibility Testing Extensions](/chrome-for-accessibility-testing-extensions)
+- [Chrome Extensions for Website Testing](/chrome-extensions-for-website-testing)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

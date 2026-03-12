@@ -73,7 +73,7 @@ Remember to check the Downloads folder in your file manager, use Chrome's built-
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Autofill On Phone How To Manage](/chrome-autofill-on-phone-how-to-manage)
-- [Chrome Camera Access On Phone How To Manage](/chrome-camera-access-on-phone-how-to-manage)
+## Related Articles
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [chrome data usage on phone how to reduce](/chrome-data-usage-on-phone-how-to-reduce)
+- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)

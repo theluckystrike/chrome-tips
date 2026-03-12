@@ -16,7 +16,7 @@ tags:
 - programming
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-array-groupby-new-method
 ---
 # Chrome Array groupBy New Method: A Complete Guide
@@ -71,9 +71,9 @@ For developers who manage many open tabs while working on complex projects, tool
 
 
 
-### Related Articles
-- [Chrome 2026 New Features Overview](/chrome-2026-new-features-overview)
-- [Chrome Best New Tab Extension 2026](/chrome-best-new-tab-extension-2026)
-- [Chrome Document Policy New Security Feature](/chrome-document-policy-new-security-feature)
+## Related Articles
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
+- [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)
+- [Chrome for Productivity Dashboard New Tab](/chrome-for-productivity-dashboard-new-tab)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

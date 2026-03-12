@@ -58,9 +58,9 @@ With the right chrome extension for focus mode block distractions, you can take 
 
 
 
-### Related Articles
-- [Chrome Extension For Reading Mode Distraction Free](/chrome-extension-for-reading-mode-distraction-free)
-- [Chrome For Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension)
-- [Best Dark Mode Chrome Extension](/best-dark-mode-chrome-extension)
+## Related Articles
+- [Chrome for Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension)
+- [Chrome Extension for Reading Mode Distraction Free](/chrome-extension-for-reading-mode-distraction-free)
+- [Chrome Ads on Phone How to Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

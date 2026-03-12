@@ -85,9 +85,9 @@ For users who need to run Chrome alongside other memory-intensive applications, 
 
 
 
-### Related Articles
-- [Is 8Gb Ram Enough For Chrome With Many Tabs](/is-8gb-ram-enough-for-chrome-with-many-tabs)
-- [Best Browser For 2Gb Ram Laptop 2026](/best-browser-for-2gb-ram-laptop-2026)
-- [Best Browser For Low Ram Computer 2026](/best-browser-for-low-ram-computer-2026)
+## Related Articles
+- [Is 8GB RAM Enough for Chrome with Many Tabs?](/is-8gb-ram-enough-for-chrome-with-many-tabs)
+- [Chrome vs Edge RAM Usage Comparison 2026](/chrome-vs-edge-ram-usage-comparison-2026)
+- [Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps](/chrome-slow-on-4gb-ram-laptop)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

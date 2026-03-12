@@ -86,7 +86,7 @@ The good news is that most websites you visit daily have valid certificates, and
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Color Accessibility Checker](/chrome-extensions-for-color-accessibility-checker)
-- [Chrome Extensions For Link Checker Broken Links](/chrome-extensions-for-link-checker-broken-links)
-- [Chrome Extensions For Robots Txt Checker](/chrome-extensions-for-robots-txt-checker)
+## Related Articles
+- [Chrome Extensions for Robots Txt Checker](/chrome-extensions-for-robots-txt-checker)
+- [Chrome Extensions for Link Checker Broken Links](/chrome-extensions-for-link-checker-broken-links)
+- [Chrome Extensions for Color Accessibility Checker](/chrome-extensions-for-color-accessibility-checker)

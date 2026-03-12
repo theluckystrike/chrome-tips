@@ -14,7 +14,7 @@ tags:
 - privacy
 - omnibox
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-autocomplete-disable
 ---
 # Chrome Address Bar Autocomplete Disable
@@ -151,9 +151,9 @@ If you found this guide helpful, consider exploring other Chrome privacy setting
 
 
 
-### Related Articles
-- [Chrome Address Bar Autocomplete How To Clear](/chrome-address-bar-autocomplete-how-to-clear)
-- [Chrome Address Bar Commands You Didnt Know](/chrome-address-bar-commands-you-didnt-know)
-- [Chrome Address Bar Focus Shortcut](/chrome-address-bar-focus-shortcut)
+## Related Articles
+- [Chrome Address Bar Autocomplete How to Clear](/chrome-address-bar-autocomplete-how-to-clear)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

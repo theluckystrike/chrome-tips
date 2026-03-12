@@ -13,7 +13,7 @@ tags:
 - eye-strain
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: best-dark-mode-chrome-extension
 ---
 # Best Dark Mode Chrome Extension
@@ -86,9 +86,9 @@ If you use multiple browsers or devices, look for extensions that sync your sett
 
 
 
-### Related Articles
-- [Best Ad Blocker Chrome Extension 2026](/best-ad-blocker-chrome-extension-2026)
-- [Best Password Manager Chrome Extension](/best-password-manager-chrome-extension)
-- [Best Screenshot Chrome Extension](/best-screenshot-chrome-extension)
+## Related Articles
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Mobile Dark Mode Force on All Sites](/chrome-mobile-dark-mode-force-on-all-sites)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

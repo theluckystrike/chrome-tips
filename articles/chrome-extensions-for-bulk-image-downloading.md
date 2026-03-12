@@ -63,9 +63,9 @@ Give each extension a try to see which one fits your style best. They all work a
 
 
 
-### Related Articles
-- [Chrome Extensions For Image Downloader Bulk](/chrome-extensions-for-image-downloader-bulk)
-- [Chrome Extensions For Image Editor Online](/chrome-extensions-for-image-editor-online)
-- [Chrome Extensions For Image Reverse Search](/chrome-extensions-for-image-reverse-search)
+## Related Articles
+- [Chrome Extensions for Image Downloader Bulk](/chrome-extensions-for-image-downloader-bulk)
+- [chrome extensions for similar image finder](/chrome-extensions-for-similar-image-finder)
+- [chrome extensions for image editor online](/chrome-extensions-for-image-editor-online)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

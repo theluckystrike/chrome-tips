@@ -83,9 +83,9 @@ Remember that productivity tools work best when they support your natural workfl
 
 
 
-### Related Articles
-- [Best Chrome Extensions For Productivity](/best-chrome-extensions-for-productivity)
-- [Chrome Extensions For Email Productivity](/chrome-extensions-for-email-productivity)
-- [Chrome Extensions For Focus And Productivity](/chrome-extensions-for-focus-and-productivity)
+## Related Articles
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome for Email Productivity Extensions](/chrome-for-email-productivity-extensions)
+- [chrome for gmail productivity extensions](/chrome-for-gmail-productivity-extensions)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

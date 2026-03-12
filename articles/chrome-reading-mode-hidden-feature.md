@@ -82,9 +82,9 @@ Take a moment to enable it and try it out on your favorite articles. You might f
 
 
 
-### Related Articles
-- [Chrome Reading Mode Ai Summary Feature](/chrome-reading-mode-ai-summary-feature)
-- [Chrome Extension For Reading Mode Distraction Free](/chrome-extension-for-reading-mode-distraction-free)
-- [Chrome For Distraction Free Reading Mode](/chrome-for-distraction-free-reading-mode)
+## Related Articles
+- [Chrome Reading Mode AI Summary Feature](/chrome-reading-mode-ai-summary-feature)
+- [chrome for distraction free reading mode](/chrome-for-distraction-free-reading-mode)
+- [Chrome Extension for Reading Mode Distraction Free](/chrome-extension-for-reading-mode-distraction-free)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

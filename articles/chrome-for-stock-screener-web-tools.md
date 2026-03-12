@@ -81,7 +81,7 @@ Remember that no single tool does everything perfectly. Many investors use a com
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Web Development Tools](/chrome-extensions-for-web-development-tools)
-- [Chrome For Budgeting Best Web Tools](/chrome-for-budgeting-best-web-tools)
-- [Chrome For Resume Building Web Tools](/chrome-for-resume-building-web-tools)
+## Related Articles
+- [Chrome Extensions for Web Development Tools](/chrome-extensions-for-web-development-tools)
+- [Chrome for Resume Building Web Tools](/chrome-for-resume-building-web-tools)
+- [Chrome for Budgeting: Best Web Tools](/chrome-for-budgeting-best-web-tools)

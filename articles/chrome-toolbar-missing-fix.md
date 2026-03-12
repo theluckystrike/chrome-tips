@@ -65,9 +65,9 @@ If you find yourself frequently dealing with browser issues or want to improve y
 
 
 
-### Related Articles
-- [Chrome Dock Icon Missing Fix Mac](/chrome-dock-icon-missing-fix-mac)
+## Related Articles
 - [Chrome Taskbar Icon Missing Fix Windows](/chrome-taskbar-icon-missing-fix-windows)
-- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+- [Chrome Dock Icon Missing Fix Mac](/chrome-dock-icon-missing-fix-mac)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

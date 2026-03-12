@@ -14,7 +14,7 @@ tags:
 - chrome-tips
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-commands-you-didnt-know
 ---
 # Chrome Address Bar Commands You Didnt Know
@@ -96,9 +96,9 @@ By integrating these commands and shortcuts into your daily routine, you can dra
 
 
 
-### Related Articles
-- [Chrome Address Bar Shortcuts You Didnt Know](/chrome-address-bar-shortcuts-you-didnt-know)
+## Related Articles
+- [Chrome Address Bar Shortcuts You Didn't Know](/chrome-address-bar-shortcuts-you-didnt-know)
 - [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
-- [Chrome Accessibility Features You Didnt Know About](/chrome-accessibility-features-you-didnt-know-about)
+- [Chrome Accessibility Features You Didn't Know About](/chrome-accessibility-features-you-didnt-know-about)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -63,7 +63,7 @@ Finding the right approach depends on how often you switch profiles and what wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Emoji Keyboard Shortcut How To Use](/chrome-emoji-keyboard-shortcut-how-to-use)
-- [Chrome For Keyboard Shortcut Customization](/chrome-for-keyboard-shortcut-customization)
-- [Chrome Address Bar Focus Shortcut](/chrome-address-bar-focus-shortcut)
+## Related Articles
+- [Chrome Emoji Keyboard Shortcut How to Use](/chrome-emoji-keyboard-shortcut-how-to-use)
+- [Chrome for Keyboard Shortcut Customization](/chrome-for-keyboard-shortcut-customization)
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)

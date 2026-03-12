@@ -14,7 +14,7 @@ tags:
 - chrome-sign-in
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-auto-sign-in-to-websites-how-to-control
 ---
 # Chrome Auto Sign In to Websites How to Control
@@ -74,7 +74,7 @@ Take some time to explore the settings we've discussed and experiment with diffe
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Auto Update How To Stop](/chrome-auto-update-how-to-stop)
-- [Chrome Built In Password Checkup How To Use](/chrome-built-in-password-checkup-how-to-use)
-- [Chrome Cookie Consent Popups How To Auto Accept](/chrome-cookie-consent-popups-how-to-auto-accept)
+## Related Articles
+- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
+- [Chrome Font Too Small on Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
+- [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)

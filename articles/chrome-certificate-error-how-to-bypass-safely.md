@@ -75,7 +75,7 @@ Remember that Chrome shows these warnings to protect you. By understanding the i
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Invalid Certificate How To Fix Permanently](/chrome-invalid-certificate-how-to-fix-permanently)
-- [Chrome Not Responding How To Force Close Safely](/chrome-not-responding-how-to-force-close-safely)
-- [How To Share Chrome With Family Safely](/how-to-share-chrome-with-family-safely)
+## Related Articles
+- [Chrome Connection Not Private Bypass Safely](/chrome-connection-not-private-bypass-safely)
+- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
+- [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/chrome-err-ssl-protocol-error-fix)

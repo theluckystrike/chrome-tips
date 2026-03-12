@@ -6,7 +6,7 @@ description: Discover how Chrome anchor positioning CSS transforms web developme
   Learn to create tooltips, dropdowns, and popovers that position themselves relative
   to...
 date: '2026-01-15'
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-anchor-positioning-css
 categories:
 - chrome
@@ -97,7 +97,7 @@ As browser support continues to expand, learning to work with chrome anchor posi
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
-- [Chrome Aspect Ratio Css Property](/chrome-aspect-ratio-css-property)
-- [Chrome Color Mix Function Css](/chrome-color-mix-function-css)
+## Related Articles
+- [Chrome Anchor Positioning API Explained](/chrome-anchor-positioning-api-explained)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)

@@ -80,9 +80,9 @@ Whether you are a regular user who wants to try new features early or a web deve
 
 
 
-### Related Articles
-- [Chrome Custom Tabs On Android What They Are](/chrome-custom-tabs-on-android-what-they-are)
-- [Chrome Super Cookies What Are They](/chrome-super-cookies-what-are-they)
-- [Chrome Activity Controls What They Track](/chrome-activity-controls-what-they-track)
+## Related Articles
+- [Chrome Super Cookies: What Are They](/chrome-super-cookies-what-are-they)
+- [Chrome Custom Tabs on Android What They Are](/chrome-custom-tabs-on-android-what-they-are)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

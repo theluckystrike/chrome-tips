@@ -14,7 +14,7 @@ tags:
 - chrome-fix
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-12
 permalink: chrome-autofill-not-working-fix
 ---
 # Chrome Autofill Not Working Fix
@@ -94,7 +94,7 @@ Every few months, take a moment to review and update your saved autofill informa
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
-- [Chrome Back Button Not Working Fix](/chrome-back-button-not-working-fix)
-- [Chrome Camera Not Working Fix](/chrome-camera-not-working-fix)
+## Related Articles
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)

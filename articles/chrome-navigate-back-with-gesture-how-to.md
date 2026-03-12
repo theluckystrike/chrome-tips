@@ -59,7 +59,7 @@ Learning how to navigate back with gesture controls can save you time and make y
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Back Forward Cache How To Test](/chrome-back-forward-cache-how-to-test)
-- [Chrome Bookmark Bar Disappeared How To Get Back](/chrome-bookmark-bar-disappeared-how-to-get-back)
-- [Chrome Security Key How To Use With Chrome](/chrome-security-key-how-to-use-with-chrome)
+## Related Articles
+- [Chrome Tabs Keep Reloading When I Switch Back](/chrome-tabs-keep-reloading-when-i-switch-back)
+- [Chrome Gesture Navigation on Android](/chrome-gesture-navigation-on-android)
+- [Chrome Bookmark Bar Disappeared How to Get Back](/chrome-bookmark-bar-disappeared-how-to-get-back)

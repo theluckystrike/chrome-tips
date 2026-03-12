@@ -78,7 +78,7 @@ You now have the knowledge to decide whether this feature is right for you and h
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Auto Sign In To Websites How To Control](/chrome-auto-sign-in-to-websites-how-to-control)
-- [Chrome Extension For Highlighting Text On Websites](/chrome-extension-for-highlighting-text-on-websites)
-- [Chrome Extension For Tracking Time Spent On Websites](/chrome-extension-for-tracking-time-spent-on-websites)
+## Related Articles
+- [How to Sign Out of Google in Chrome Without Losing Your Data](/chrome-sign-out-of-google-without-losing-data)
+- [Chrome Auto Sign In to Websites How to Control](/chrome-auto-sign-in-to-websites-how-to-control)
+- [Google Chrome vs Chromium Difference Explained](/google-chrome-vs-chromium-difference-explained)

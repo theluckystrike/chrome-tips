@@ -80,7 +80,7 @@ These chrome for coinbase web app tips should help you create a more efficient, 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Asana Web App Tips](/chrome-for-asana-web-app-tips)
-- [Chrome For Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
-- [Chrome For Mailchimp Web App Tips](/chrome-for-mailchimp-web-app-tips)
+## Related Articles
+- [Chrome for Babbel Web App Tips](/chrome-for-babbel-web-app-tips)
+- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)
+- [chrome for asana web app tips](/chrome-for-asana-web-app-tips)

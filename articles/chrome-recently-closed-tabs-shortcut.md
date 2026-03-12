@@ -77,9 +77,9 @@ The chrome recently closed tabs shortcut is a simple but powerful tool that ever
 
 
 
-### Related Articles
-- [Chrome Recently Closed Tabs How To Reopen](/chrome-recently-closed-tabs-how-to-reopen)
-- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
+## Related Articles
+- [chrome recently closed tabs how to reopen](/chrome-recently-closed-tabs-how-to-reopen)
+- [chrome reopen closed tab shortcut](/chrome-reopen-closed-tab-shortcut)
 - [Chrome Close Other Tabs Shortcut](/chrome-close-other-tabs-shortcut)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

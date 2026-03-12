@@ -69,9 +69,9 @@ WebAssembly has transformed Chrome from a simple web browser into a platform cap
 
 
 
-### Related Articles
-- [Chrome For Apple Notes In Browser Workaround](/chrome-for-apple-notes-in-browser-workaround)
-- [Chrome For Codecademy In Browser Optimization](/chrome-for-codecademy-in-browser-optimization)
-- [Chrome For Codepen In Browser Tips](/chrome-for-codepen-in-browser-tips)
+## Related Articles
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [chrome desktop shortcuts how to create](/chrome-desktop-shortcuts-how-to-create)
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

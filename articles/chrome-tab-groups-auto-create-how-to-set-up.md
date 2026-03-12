@@ -67,9 +67,9 @@ Tab groups and automatic organization tools like Tab Suspender Pro are designed 
 
 
 
-### Related Articles
-- [Chrome Biometric Login How To Set Up](/chrome-biometric-login-how-to-set-up)
-- [Chrome Cast To Tv How To Set Up](/chrome-cast-to-tv-how-to-set-up)
-- [Chrome Iphone Widgets How To Set Up](/chrome-iphone-widgets-how-to-set-up)
+## Related Articles
+- [How to Auto Create and Organize Chrome Tab Groups](/chrome-tab-groups-auto-create-organize)
+- [chrome tab groups advanced tips](/chrome-tab-groups-advanced-tips)
+- [Chrome Tab Groups vs Multiple Windows](/chrome-tab-groups-vs-windows)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

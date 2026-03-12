@@ -133,9 +133,9 @@ Remember to keep your Chrome browser updated to enjoy the latest improvements in
 
 
 
-### Related Articles
-- [Chrome Live Captions How To Enable](/chrome-live-captions-how-to-enable)
-- [Chrome Live Captions How To Turn On](/chrome-live-captions-how-to-turn-on)
-- [Chrome Live Captions Languages](/chrome-live-captions-languages)
+## Related Articles
+- [Chrome Live Captions Languages: Complete Setup Guide](/chrome-live-captions-languages)
+- [Chrome Live Captions How to Turn On](/chrome-live-captions-how-to-turn-on)
+- [Chrome Live Captions How to Enable](/chrome-live-captions-how-to-enable)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

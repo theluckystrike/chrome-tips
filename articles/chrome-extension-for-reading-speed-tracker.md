@@ -59,9 +59,9 @@ The goal is not to rush through everything as fast as possible. The goal is to b
 
 
 
-### Related Articles
-- [Chrome Extension For Reading Mode Distraction Free](/chrome-extension-for-reading-mode-distraction-free)
-- [Chrome Extension For Video Speed Controller](/chrome-extension-for-video-speed-controller)
-- [Chrome Extensions For Speed Reading](/chrome-extensions-for-speed-reading)
+## Related Articles
+- [Chrome Extensions for Speed Reading](/chrome-extensions-for-speed-reading)
+- [Chrome Extension for Reading Mode Distraction Free](/chrome-extension-for-reading-mode-distraction-free)
+- [Chrome for Speed Reading Extensions](/chrome-for-speed-reading-extensions)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

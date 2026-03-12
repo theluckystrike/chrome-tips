@@ -78,9 +78,9 @@ Remember that you have control over the prompt through the beforeinstallprompt e
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
-- [Chrome Address Bar Not Showing Full Url Fix](/chrome-address-bar-not-showing-full-url-fix)
-- [Chrome Tab From Other Device Not Showing Fix](/chrome-tab-from-other-device-not-showing-fix)
+- [chrome youtube comments not showing fix](/chrome-youtube-comments-not-showing-fix)
+- [Chrome Address Bar Not Showing Full URL Fix](/chrome-address-bar-not-showing-full-url-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

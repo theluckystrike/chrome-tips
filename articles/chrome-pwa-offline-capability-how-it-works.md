@@ -76,9 +76,9 @@ Whether you are using a PWA for work, entertainment, or productivity, understand
 
 
 
-### Related Articles
-- [Chrome Pwa Update Mechanism How It Works](/chrome-pwa-update-mechanism-how-it-works)
-- [Chrome Enrollment For Schools How It Works](/chrome-enrollment-for-schools-how-it-works)
-- [Chrome Lazy Loading Images How It Works](/chrome-lazy-loading-images-how-it-works)
+## Related Articles
+- [Chrome PWA Update Mechanism How It Works](/chrome-pwa-update-mechanism-how-it-works)
+- [Chrome Offline Google Calendar](/chrome-offline-google-calendar)
+- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

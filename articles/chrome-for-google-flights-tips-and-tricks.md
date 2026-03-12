@@ -76,7 +76,7 @@ Using Chrome for Google Flights does not have to be complicated. By keeping your
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Google Sheets Tips And Tricks](/chrome-for-google-sheets-tips-and-tricks)
-- [Chrome For Ipad Tips And Tricks](/chrome-for-ipad-tips-and-tricks)
-- [Chrome For Whatsapp Web Tips And Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
+## Related Articles
+- [Chrome for Google Sheets Tips and Tricks](/chrome-for-google-sheets-tips-and-tricks)
+- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
+- [chrome for google translate extension tips](/chrome-for-google-translate-extension-tips)

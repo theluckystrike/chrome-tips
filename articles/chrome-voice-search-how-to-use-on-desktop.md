@@ -75,9 +75,9 @@ If you ever need help with Chrome or want to learn more about other useful featu
 
 
 
-### Related Articles
-- [Chrome Desktop Mode On Phone How To Use](/chrome-desktop-mode-on-phone-how-to-use)
-- [Chrome Family Link How To Use On Desktop](/chrome-family-link-how-to-use-on-desktop)
-- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+## Related Articles
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
+- [chrome voice search enable](/chrome-voice-search-enable)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

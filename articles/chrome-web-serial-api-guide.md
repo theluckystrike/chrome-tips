@@ -261,9 +261,9 @@ The ability to communicate with Arduino, microcontrollers, and other serial devi
 
 
 
-### Related Articles
-- [Chrome Web Bluetooth Api Guide](/chrome-web-bluetooth-api-guide)
-- [Chrome Web Nfc Api Guide](/chrome-web-nfc-api-guide)
-- [Chrome Web Serial Api Explained](/chrome-web-serial-api-explained)
+## Related Articles
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [chrome web serial api for beginners](/chrome-web-serial-api-for-beginners)
+- [chrome web serial api explained](/chrome-web-serial-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

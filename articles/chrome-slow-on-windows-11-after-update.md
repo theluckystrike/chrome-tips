@@ -120,9 +120,9 @@ Chrome running slow on Windows 11 after an update is frustrating, but it is usua
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Slow After Windows Update Fix](/chrome-slow-after-windows-update-fix)
-- [Chrome Not Responding On Windows 11 Laptop](/chrome-not-responding-on-windows-11-laptop)
-- [Chrome Slow After Update Fix](/chrome-slow-after-update-fix)
+- [Chrome Slower After Windows Update Fix](/chrome-slower-after-windows-update-fix)
+- [Chrome Slow After Update Fix: Complete Troubleshooting Guide](/chrome-slow-after-update-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

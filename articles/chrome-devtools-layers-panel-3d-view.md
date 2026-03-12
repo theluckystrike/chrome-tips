@@ -63,7 +63,7 @@ The Performance panel works well together with the Layers panel because it shows
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome Layers Panel 3D View Explained](/chrome-layers-panel-3d-view-explained)
-- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
-- [Chrome Devtools Changes Panel Track Edits](/chrome-devtools-changes-panel-track-edits)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome DevTools CSS Overview Panel](/chrome-devtools-css-overview-panel)

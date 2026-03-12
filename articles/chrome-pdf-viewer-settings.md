@@ -96,9 +96,9 @@ For power users managing multiple PDF documents, consider incorporating tab mana
 
 
 
-### Related Articles
-- [Chrome Pdf Settings Print To Pdf How To](/chrome-pdf-settings-print-to-pdf-how-to)
-- [Best Chrome Settings For Chromebook](/best-chrome-settings-for-chromebook)
-- [Best Chrome Settings For Slow Computer](/best-chrome-settings-for-slow-computer)
+## Related Articles
+- [Chrome PDF Settings Print to PDF How to](/chrome-pdf-settings-print-to-pdf-how-to)
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
+- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

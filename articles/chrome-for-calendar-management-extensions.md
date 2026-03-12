@@ -65,7 +65,7 @@ Remember that the goal is not to spend more time managing your calendar but to s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Email Management](/best-chrome-extensions-for-email-management)
-- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)
-- [Chrome Extensions For Bibliography Management](/chrome-extensions-for-bibliography-management)
+## Related Articles
+- [Chrome for Bibliography Management Extensions](/chrome-for-bibliography-management-extensions)
+- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
+- [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)

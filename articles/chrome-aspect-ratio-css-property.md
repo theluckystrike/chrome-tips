@@ -14,7 +14,7 @@ tags:
 - web-design
 - chrome-css
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-aspect-ratio-css-property
 ---
 What is the chrome aspect ratio CSS property and how does it work? If you have ever struggled with making images or videos display at the correct proportions on a webpage, this guide will help you understand how this useful CSS feature can solve common layout problems. The aspect ratio CSS property allows developers to control the proportional relationship between an element's width and height, making it easier to create responsive designs that look good on any screen size.
@@ -72,7 +72,7 @@ Whether you are building a website or simply browsing the internet, understandin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Gap Property Css Flexbox Grid](/chrome-gap-property-css-flexbox-grid)
-- [Chrome Anchor Positioning Css](/chrome-anchor-positioning-css)
-- [Chrome Color Mix Function Css](/chrome-color-mix-function-css)
+## Related Articles
+- [Chrome Gap Property CSS Flexbox Grid](/chrome-gap-property-css-flexbox-grid)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)

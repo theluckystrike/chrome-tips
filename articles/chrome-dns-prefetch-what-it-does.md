@@ -55,7 +55,7 @@ Try browsing the way you normally do and pay attention to how quickly pages star
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
+## Related Articles
+- [chrome prefetch dns how to enable](/chrome-prefetch-dns-how-to-enable)
 - [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
 - [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)

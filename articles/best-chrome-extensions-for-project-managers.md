@@ -12,7 +12,7 @@ tags:
 - project-managers
 - browser-tools
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: best-chrome-extensions-for-project-managers
 ---
 # Best Chrome Extensions for Project Managers
@@ -95,9 +95,9 @@ Start by trying a few extensions that address your biggest pain points, then gra
 
 
 
-### Related Articles
-- [Best Chrome Extensions For Product Managers](/best-chrome-extensions-for-product-managers)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
-- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
+## Related Articles
+- [Chrome Extensions for Social Media Managers](/chrome-extensions-for-social-media-managers)
+- [Best Chrome Extensions for Product Managers](/best-chrome-extensions-for-product-managers)
+- [Chrome Extensions for Project Management](/chrome-extensions-for-project-management)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

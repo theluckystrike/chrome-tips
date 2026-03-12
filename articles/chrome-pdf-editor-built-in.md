@@ -112,9 +112,9 @@ Next time you need to fill out a form, sign a contract, or add notes to a PDF, t
 
 
 
-### Related Articles
-- [Chrome Ai Features Built In 2026](/chrome-ai-features-built-in-2026)
-- [Chrome Built In Password Checkup How To Use](/chrome-built-in-password-checkup-how-to-use)
-- [Chrome Built In Screenshot Tool](/chrome-built-in-screenshot-tool)
+## Related Articles
+- [Chrome Built-In Screenshot Tool](/chrome-built-in-screenshot-tool)
+- [Chrome Extensions for Cookie Editor Manager](/chrome-extensions-for-cookie-editor-manager)
+- [Chrome PDF Not Opening Fix](/chrome-pdf-not-opening-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

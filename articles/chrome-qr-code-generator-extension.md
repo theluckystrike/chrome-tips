@@ -80,9 +80,9 @@ Whether you need a simple link-sharer or a complex marketing tool, the right **C
 
 
 
-### Related Articles
-- [Chrome Extension For Qr Code Generator](/chrome-extension-for-qr-code-generator)
-- [Chrome Qr Code For Page How To Generate](/chrome-qr-code-for-page-how-to-generate)
-- [Best Ad Blocker Chrome Extension 2026](/best-ad-blocker-chrome-extension-2026)
+## Related Articles
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/chrome-blackbox-script-skip-library-code-debug)
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

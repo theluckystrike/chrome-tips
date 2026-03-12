@@ -92,7 +92,7 @@ Once you get comfortable with fewer open tabs, you'll notice Chrome runs faster 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [How To Search Open Chrome Tabs](/how-to-search-open-chrome-tabs)
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
-- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
+## Related Articles
+- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
+- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+- [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/i-have-100-tabs-open-chrome-is-dying)

@@ -69,7 +69,7 @@ With some practice, you will be able to navigate Shadow DOM just as easily as re
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Shadow Dom What It Is](/chrome-shadow-dom-what-it-is)
-- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
-- [Chrome Devtools Changes Panel Track Edits](/chrome-devtools-changes-panel-track-edits)
+## Related Articles
+- [Chrome Shadow DOM What It Is](/chrome-shadow-dom-what-it-is)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)

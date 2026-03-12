@@ -94,7 +94,7 @@ Streaming issues in Chrome are usually fixable with some basic troubleshooting. 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Best Settings For Streaming Video](/chrome-best-settings-for-streaming-video)
-- [Chrome For Kick Streaming Web Tips](/chrome-for-kick-streaming-web-tips)
-- [Chrome For Twitch Streaming Setup In Browser](/chrome-for-twitch-streaming-setup-in-browser)
+## Related Articles
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [chrome for twitch streaming setup in browser](/chrome-for-twitch-streaming-setup-in-browser)
+- [Chrome Tracing for Performance Issues](/chrome-tracing-for-performance-issues)

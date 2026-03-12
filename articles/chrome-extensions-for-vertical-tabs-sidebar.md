@@ -73,7 +73,7 @@ Most people find that after a short adjustment period, they prefer the vertical 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Quick Notes Sidebar](/chrome-extensions-for-quick-notes-sidebar)
-- [Chrome Extensions For Split Tabs](/chrome-extensions-for-split-tabs)
-- [Chrome Extensions For Tree Style Tabs](/chrome-extensions-for-tree-style-tabs)
+## Related Articles
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
+- [Chrome Vertical Tabs Enable 2026](/chrome-vertical-tabs-enable-2026)

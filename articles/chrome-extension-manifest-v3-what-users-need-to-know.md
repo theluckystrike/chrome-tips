@@ -58,9 +58,9 @@ In the meantime, staying informed about what changes are happening and knowing h
 
 
 
-### Related Articles
-- [Chrome Privacy Sandbox What Regular Users Should Know](/chrome-privacy-sandbox-what-regular-users-should-know)
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
+## Related Articles
+- [chrome privacy sandbox what regular users should know](/chrome-privacy-sandbox-what-regular-users-should-know)
+- [Chrome Extension Marketing Tips to Grow Your User Base](/chrome-extension-marketing-tips-grow-users)
+- [chrome extensions for elderly users simple tools](/chrome-extensions-for-elderly-users-simple-tools)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

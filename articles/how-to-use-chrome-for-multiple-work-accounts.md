@@ -65,7 +65,7 @@ Getting started with multiple work profiles takes just a few minutes, and the pa
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Follow Button For Websites How To Use](/chrome-follow-button-for-websites-how-to-use)
-- [How To Set Up Chrome Profiles For Work And Personal](/how-to-set-up-chrome-profiles-for-work-and-personal)
-- [How To Use Chrome Devtools For Beginners](/how-to-use-chrome-devtools-for-beginners)
+## Related Articles
+- [Chrome Extension for Managing Multiple Email Accounts](/chrome-extension-for-managing-multiple-email-accounts)
+- [Chrome Extensions for Managing Multiple Social Accounts](/chrome-extensions-for-managing-multiple-social-accounts)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)

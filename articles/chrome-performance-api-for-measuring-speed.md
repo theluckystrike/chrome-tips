@@ -60,9 +60,9 @@ Start by paying attention to how many tabs you keep open and which extensions yo
 
 
 
-### Related Articles
-- [Chrome Beacon Api For Analytics](/chrome-beacon-api-for-analytics)
-- [Chrome Cache Api Tutorial For Beginners](/chrome-cache-api-tutorial-for-beginners)
-- [Chrome Extension For Measuring Things On Screen](/chrome-extension-for-measuring-things-on-screen)
+## Related Articles
+- [Chrome Performance Observer API Explained](/chrome-performance-observer-api)
+- [Chrome Performance Observer API Explained](/chrome-performance-observer-api-explained)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

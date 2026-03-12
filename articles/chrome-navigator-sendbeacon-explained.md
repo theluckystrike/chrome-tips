@@ -67,7 +67,7 @@ Whether you choose to actively manage these background processes or use tools to
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
-- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)
-- [Chrome Ai Generated Summaries Explained](/chrome-ai-generated-summaries-explained)
+## Related Articles
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)

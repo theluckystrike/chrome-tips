@@ -63,7 +63,7 @@ With a few simple adjustments, your MIDI keyboard, controller, or other hardware
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Web Gpu Api Explained For Beginners](/chrome-web-gpu-api-explained-for-beginners)
-- [Chrome Web Midi Api Explained](/chrome-web-midi-api-explained)
-- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)
+## Related Articles
+- [Chrome Web MIDI API Explained](/chrome-web-midi-api-explained)
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)

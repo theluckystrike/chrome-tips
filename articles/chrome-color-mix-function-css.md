@@ -59,9 +59,9 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 
 
 
-### Related Articles
-- [Chrome Anchor Positioning Css](/chrome-anchor-positioning-css)
-- [Chrome Aspect Ratio Css Property](/chrome-aspect-ratio-css-property)
-- [Chrome Color Hd Gamut Display P3](/chrome-color-hd-gamut-display-p3)
+## Related Articles
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Nesting CSS Native Support](/chrome-nesting-css-native-support)
+- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

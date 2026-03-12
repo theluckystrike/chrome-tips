@@ -15,7 +15,7 @@ tags:
 - security
 - passwords
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-biometric-login-how-to-set-up
 ---
 # Chrome Biometric Login How to Set Up
@@ -89,7 +89,7 @@ For users who want to ensure their biometric credentials are handled securely, b
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Cast To Tv How To Set Up](/chrome-cast-to-tv-how-to-set-up)
-- [Chrome Iphone Widgets How To Set Up](/chrome-iphone-widgets-how-to-set-up)
-- [Chrome Kiosk Mode How To Set Up](/chrome-kiosk-mode-how-to-set-up)
+## Related Articles
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)

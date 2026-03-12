@@ -86,7 +86,7 @@ You might also consider whether your Chrome profile itself has become corrupted.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Keeps Logging Me Out Of Websites Fix](/chrome-keeps-logging-me-out-of-websites-fix)
-- [Chrome Err Connection Timed Out Fix](/chrome-err-connection-timed-out-fix)
+## Related Articles
+- [Chrome Keeps Logging Me Out of Websites Fix](/chrome-keeps-logging-me-out-of-websites-fix)
 - [Chrome Forward Button Greyed Out Fix](/chrome-forward-button-greyed-out-fix)
+- [Chrome YouTube Slow But Other Sites Fine Fix](/chrome-youtube-slow-but-other-sites-fine-fix)

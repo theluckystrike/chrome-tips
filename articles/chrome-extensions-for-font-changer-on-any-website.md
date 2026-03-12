@@ -58,7 +58,7 @@ Take some time to explore the different options available, try a few extensions 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Reader View On Any Website](/chrome-for-reader-view-on-any-website)
-- [Chrome Extensions For Font Changing](/chrome-extensions-for-font-changing)
-- [Chrome Extensions For Highlighting Text On Web](/chrome-extensions-for-highlighting-text-on-web)
+## Related Articles
+- [chrome extensions for font changing](/chrome-extensions-for-font-changing)
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
+- [Chrome for Font Identification Extensions](/chrome-for-font-identification-extensions)

@@ -76,7 +76,7 @@ If you use multiple browsers, remember that WebRTC settings are specific to each
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Secure Dns What It Is And How To Enable](/chrome-secure-dns-what-it-is-and-how-to-enable)
-- [Ungoogled Chromium What It Is And How To Install](/ungoogled-chromium-what-it-is-and-how-to-install)
-- [Chrome Webrtc Leak Test And Fix Guide](/chrome-webrtc-leak-test-and-fix-guide)
+## Related Articles
+- [Chrome WebRTC Leak Test and Fix Guide](/chrome-webrtc-leak-test-and-fix-guide)
+- [Chrome WebRTC Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
+- [Chrome Extensions for WebRTC Leak Prevention](/chrome-extensions-for-webrtc-leak-prevention)

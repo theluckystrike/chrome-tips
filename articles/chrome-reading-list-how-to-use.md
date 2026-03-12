@@ -194,9 +194,9 @@ Start using Chrome Reading List today, and you will wonder how you ever managed 
 
 
 
-### Related Articles
-- [Chrome Android Reading List How To Use](/chrome-android-reading-list-how-to-use)
-- [Chrome Mobile Reading List How To Use](/chrome-mobile-reading-list-how-to-use)
-- [Chrome Reading List On Phone How To Use](/chrome-reading-list-on-phone-how-to-use)
+## Related Articles
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)
+- [Chrome Mobile Reading List How to Use](/chrome-mobile-reading-list-how-to-use)
+- [Chrome Android Reading List How to Use](/chrome-android-reading-list-how-to-use)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

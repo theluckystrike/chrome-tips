@@ -126,9 +126,9 @@ Start with enabling Chrome's Memory Saver, then reduce your extensions, and try 
 
 
 
-### Related Articles
-- [Chrome Not Loading Pages But Internet Works](/chrome-not-loading-pages-but-internet-works)
-- [Chrome Not Playing Youtube Videos Fix](/chrome-not-playing-youtube-videos-fix)
-- [Chrome Not Responding On Windows 11 Laptop](/chrome-not-responding-on-windows-11-laptop)
+## Related Articles
+- [Chrome Not Loading Pages But Internet Works: Complete Fix Guide](/chrome-not-loading-pages-but-internet-works)
+- [Chrome Says Not Secure But Site Is Safe](/chrome-says-not-secure-but-site-is-safe)
+- [Chrome YouTube Slow But Other Sites Fine Fix](/chrome-youtube-slow-but-other-sites-fine-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

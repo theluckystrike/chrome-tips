@@ -79,9 +79,9 @@ Using a reputable antivirus program can also help by preventing malware that mig
 
 
 
-### Related Articles
-- [Chrome Err Cert Authority Invalid Fix](/chrome-err-cert-authority-invalid-fix)
-- [Chrome Invalid Certificate How To Fix Permanently](/chrome-invalid-certificate-how-to-fix-permanently)
-- [Chrome Net Err Cert Common Name Invalid Fix](/chrome-net-err-cert-common-name-invalid-fix)
+## Related Articles
+- [Chrome Status Code 502 Bad Gateway Fix](/chrome-status-code-502-bad-gateway-fix)
+- [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/chrome-err-cert-authority-invalid-fix)
+- [Chrome NET ERR CERT DATE INVALID Fix](/chrome-net-err-cert-date-invalid-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

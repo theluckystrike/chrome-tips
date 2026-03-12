@@ -85,10 +85,10 @@ However, keeping the **Side Panel** active while browsing resource-heavy sites c
 
 
 
-### Related Articles
-- [Chrome Devtools Recorder Panel How To Use](/chrome-devtools-recorder-panel-how-to-use)
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
-- [Chrome Ai Theme Generator How To Use](/chrome-ai-theme-generator-how-to-use)
+## Related Articles
+- [Chrome Extension Side Panel Tutorial](/chrome-extension-side-panel-tutorial)
+- [chrome side panel features you missed](/chrome-side-panel-features-you-missed)
+- [Chrome Side Panel Extensions Worth Using](/chrome-side-panel-extensions-worth-using)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

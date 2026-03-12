@@ -74,7 +74,7 @@ When you reduce small inefficiencies throughout your day, those savings add up q
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Time Tracking Freelancers](/chrome-extensions-for-time-tracking-freelancers)
-- [Chrome Extensions For Time Tracking](/chrome-extensions-for-time-tracking)
-- [Chrome Extensions For Translation Real Time](/chrome-extensions-for-translation-real-time)
+## Related Articles
+- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
+- [Chrome Extensions for Time Tracking](/chrome-extensions-for-time-tracking)
+- [Chrome Extensions for Translation Real Time](/chrome-extensions-for-translation-real-time)

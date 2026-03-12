@@ -86,9 +86,9 @@ Using a tab management extension like **Tab Suspender Pro** complements the **Pa
 
 
 
-### Related Articles
-- [Chrome Payment Request Api Explained](/chrome-payment-request-api-explained)
-- [Chrome Payment Request Api](/chrome-payment-request-api)
-- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
+## Related Articles
+- [Chrome Payment Request API Explained](/chrome-payment-request-api-explained)
+- [Chrome Payment Request API Guide](/chrome-payment-request-api)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -62,7 +62,7 @@ While we are discussing browser extensions that make your life easier, it is wor
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Auto Page Refresh](/chrome-extensions-for-auto-page-refresh)
-- [Chrome Extensions For Auto Refresh Page](/chrome-extensions-for-auto-refresh-page)
-- [Chrome Extensions For Auto Tab Closer](/chrome-extensions-for-auto-tab-closer)
+## Related Articles
+- [Chrome Extensions for Cookie Auto Delete](/chrome-extensions-for-cookie-auto-delete)
+- [Chrome Extensions for Auto Tab Closer](/chrome-extensions-for-auto-tab-closer)
+- [chrome extensions for auto page refresh](/chrome-extensions-for-auto-page-refresh)

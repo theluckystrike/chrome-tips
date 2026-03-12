@@ -64,7 +64,7 @@ Take some time to try a few different extensions to find the one that works best
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Font Changer On Any Website](/chrome-extensions-for-font-changer-on-any-website)
-- [Chrome For Font Identification Extensions](/chrome-for-font-identification-extensions)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome for Font Identification Extensions](/chrome-for-font-identification-extensions)
+- [chrome extensions for font changer on any website](/chrome-extensions-for-font-changer-on-any-website)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

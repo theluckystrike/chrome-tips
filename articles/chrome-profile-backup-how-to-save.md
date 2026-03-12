@@ -90,9 +90,9 @@ A chrome profile backup is one of those things that seems unnecessary until you 
 
 
 
-### Related Articles
-- [Chrome Mobile Save Page Offline How To](/chrome-mobile-save-page-offline-how-to)
-- [Chrome Offline Pages On Phone How To Save](/chrome-offline-pages-on-phone-how-to-save)
-- [Chrome Print To Pdf How To Save Webpage](/chrome-print-to-pdf-how-to-save-webpage)
+## Related Articles
+- [Chrome Supervised Profiles for Kids](/chrome-supervised-user-profile-for-kids)
+- [How to Save Chrome Tabs for Later](/how-to-save-chrome-tabs-for-later)
+- [chrome work profile vs personal profile tips](/chrome-work-profile-vs-personal-profile-tips)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

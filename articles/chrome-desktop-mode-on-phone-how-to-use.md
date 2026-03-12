@@ -83,7 +83,7 @@ Finally, remember that desktop mode is temporary for each site. If you want to a
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Dark Mode On Phone How To Enable](/chrome-dark-mode-on-phone-how-to-enable)
-- [Chrome Family Link How To Use On Desktop](/chrome-family-link-how-to-use-on-desktop)
-- [Chrome Reader Mode On Phone How To Enable](/chrome-reader-mode-on-phone-how-to-enable)
+## Related Articles
+- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
+- [Chrome Remote Desktop How to Use](/chrome-remote-desktop-how-to-use)
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)

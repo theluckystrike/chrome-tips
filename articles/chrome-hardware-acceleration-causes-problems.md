@@ -87,9 +87,9 @@ These changes take just a few minutes to implement and can transform your browsi
 
 
 
-### Related Articles
-- [Chrome Gpu Acceleration Causing Problems Fix](/chrome-gpu-acceleration-causing-problems-fix)
-- [Chrome Hardware Acceleration Gaming](/chrome-hardware-acceleration-gaming)
-- [Chrome Hardware Acceleration Guide](/chrome-hardware-acceleration-guide)
+## Related Articles
+- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
+- [Chrome GPU Acceleration Causing Problems Fix](/chrome-gpu-acceleration-causing-problems-fix)
+- [Chrome Hardware Acceleration Should I Turn On or Off](/chrome-hardware-acceleration-should-i-turn-on-or-off)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

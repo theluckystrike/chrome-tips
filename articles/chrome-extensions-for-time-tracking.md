@@ -82,7 +82,7 @@ Remember that the best time tracking extension is the one you will actually use.
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Time Tracking Freelancers](/chrome-extensions-for-time-tracking-freelancers)
-- [Chrome Extension For Tracking Time Spent On Websites](/chrome-extension-for-tracking-time-spent-on-websites)
-- [Chrome Extensions For Email Tracking Read Receipts](/chrome-extensions-for-email-tracking-read-receipts)
+## Related Articles
+- [Chrome Extensions for Time Tracking Freelancers](/chrome-extensions-for-time-tracking-freelancers)
+- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
+- [Chrome for Stock Market Tracking Extensions](/chrome-for-stock-market-tracking-extensions)

@@ -80,7 +80,7 @@ The goal is to spend less time switching between tabs and more time getting thin
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
-- [Chrome Extensions For Tree Style Tabs](/chrome-extensions-for-tree-style-tabs)
-- [Chrome Extensions For Vertical Tabs Sidebar](/chrome-extensions-for-vertical-tabs-sidebar)
+## Related Articles
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [Chrome Extensions for Vertical Tabs Sidebar](/chrome-extensions-for-vertical-tabs-sidebar)

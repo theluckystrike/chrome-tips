@@ -105,9 +105,9 @@ The combination of built-in side panel features with thoughtful extension choice
 
 
 
-### Related Articles
-- [Chrome Side Panel Features You Missed](/chrome-side-panel-features-you-missed)
-- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
-- [Chrome Application Panel Guide](/chrome-application-panel-guide)
+## Related Articles
+- [chrome side panel features you missed](/chrome-side-panel-features-you-missed)
+- [Chrome Extension Side Panel Tutorial](/chrome-extension-side-panel-tutorial)
+- [Chrome Recorder Panel Guide](/chrome-recorder-panel-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

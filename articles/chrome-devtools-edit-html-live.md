@@ -72,7 +72,7 @@ Chrome DevTools is one of those features that becomes indispensable once you kno
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
-- [Chrome Devtools Changes Panel Track Edits](/chrome-devtools-changes-panel-track-edits)
-- [Chrome Devtools Color Picker How To Use](/chrome-devtools-color-picker-how-to-use)
+## Related Articles
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
+- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)

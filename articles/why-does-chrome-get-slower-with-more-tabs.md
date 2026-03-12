@@ -115,9 +115,9 @@ Start by enabling Memory Saver, then clean up your extensions and close tabs you
 
 
 
-### Related Articles
-- [Chrome Slow With Many Tabs Open](/chrome-slow-with-many-tabs-open)
-- [Is 8Gb Ram Enough For Chrome With Many Tabs](/is-8gb-ram-enough-for-chrome-with-many-tabs)
-- [Why Did Chrome Get So Slow Recently](/why-did-chrome-get-so-slow-recently)
+## Related Articles
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

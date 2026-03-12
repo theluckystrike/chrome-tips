@@ -154,9 +154,9 @@ Remember: you don't have to put up with constant interruptions. With a few simpl
 
 
 
-### Related Articles
-- [Chrome Notifications How To Stop Them](/chrome-notifications-how-to-stop-them)
-- [Chrome Notifications On Phone Too Many How To Stop](/chrome-notifications-on-phone-too-many-how-to-stop)
-- [Chrome Site Keeps Asking For Notifications Stop](/chrome-site-keeps-asking-for-notifications-stop)
+## Related Articles
+- [Chrome Site Keeps Asking for Notifications? Here's How to Stop It](/chrome-site-keeps-asking-for-notifications-stop)
+- [Chrome Notifications How to Stop Them](/chrome-notifications-how-to-stop-them)
+- [Chrome Notifications on Phone Too Many How to Stop](/chrome-notifications-on-phone-too-many-how-to-stop)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

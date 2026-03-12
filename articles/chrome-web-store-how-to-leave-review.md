@@ -84,7 +84,7 @@ Leaving a review on the Chrome Web Store might feel like a small thing, but it's
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Web Store How To Find Safe Extensions](/chrome-web-store-how-to-find-safe-extensions)
-- [Chrome Web Store Reviews How To Spot Fake](/chrome-web-store-reviews-how-to-spot-fake)
-- [Chrome Beta Channel How To Join And Leave](/chrome-beta-channel-how-to-join-and-leave)
+## Related Articles
+- [Chrome Web Store Best Free Games](/chrome-web-store-best-free-games)
+- [Chrome Web Store Extensions Not Installing: Fixes That Actually Work](/chrome-web-store-extensions-not-installing)
+- [chrome web store not loading fix](/chrome-web-store-not-loading-fix)

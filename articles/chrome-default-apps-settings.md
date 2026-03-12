@@ -92,9 +92,9 @@ Remember that these settings are not static. As your needs change and new applic
 
 
 
-### Related Articles
-- [How To Reset Chrome To Default Settings](/how-to-reset-chrome-to-default-settings)
-- [Best Chrome Settings For Chromebook](/best-chrome-settings-for-chromebook)
-- [Best Chrome Settings For Slow Computer](/best-chrome-settings-for-slow-computer)
+## Related Articles
+- [How to Reset Chrome to Default Settings](/how-to-reset-chrome-to-default-settings)
+- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)
+- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

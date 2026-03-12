@@ -13,7 +13,7 @@ tags:
 - extensions
 - education-tech
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: best-chromebook-extensions-for-students
 ---
 # Best Chromebook Extensions for Students
@@ -72,9 +72,9 @@ Finding the best Chromebook extensions for students is all about identifying the
 
 
 
-### Related Articles
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
-- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
-- [Best Chrome Extensions For Amazon Prime Video](/best-chrome-extensions-for-amazon-prime-video)
+## Related Articles
+- [Chromebook vs iPad for Students](/chromebook-vs-ipad-for-students-comparison)
+- [Chrome Extensions for Productivity Students](/chrome-extensions-for-productivity-students)
+- [Best Chrome Extensions for Students 2026](/chrome-extensions-for-students)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

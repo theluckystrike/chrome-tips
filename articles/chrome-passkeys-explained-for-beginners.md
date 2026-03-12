@@ -80,9 +80,9 @@ The shift to passkeys is still in its early stages, but it represents a signific
 
 
 
-### Related Articles
-- [Chrome Blink Engine Explained For Beginners](/chrome-blink-engine-explained-for-beginners)
-- [Chrome Cookies Explained For Beginners](/chrome-cookies-explained-for-beginners)
-- [Chrome Encrypted Dns Explained For Beginners](/chrome-encrypted-dns-explained-for-beginners)
+## Related Articles
+- [chrome blink engine explained for beginners](/chrome-blink-engine-explained-for-beginners)
+- [Chrome Encrypted DNS Explained for Beginners](/chrome-encrypted-dns-explained-for-beginners)
+- [Chrome Cookies Explained for Beginners](/chrome-cookies-explained-for-beginners)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

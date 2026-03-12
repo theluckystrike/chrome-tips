@@ -59,10 +59,10 @@ Using **Tab Suspender Pro** helps by automatically "hibernating" inactive tabs, 
 
 
 
-### Related Articles
-- [Chrome Homepage Keeps Changing To Yahoo Fix](/chrome-homepage-keeps-changing-to-yahoo-fix)
-- [Chrome Default Search Engine Changed How To Fix](/chrome-default-search-engine-changed-how-to-fix)
-- [Chrome Homepage Keeps Changing Fix](/chrome-homepage-keeps-changing-fix)
+## Related Articles
+- [Chrome Homepage Keeps Changing to Yahoo Fix](/chrome-homepage-keeps-changing-to-yahoo-fix)
+- [Chrome Search Engine Changed by Itself Fix](/chrome-search-engine-changed-by-itself-fix)
+- [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

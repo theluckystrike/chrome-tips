@@ -14,7 +14,7 @@ tags:
 - web-apis
 - chrome-features
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-blob-and-file-api-explained
 ---
 # Chrome Blob and File API Explained
@@ -86,7 +86,7 @@ If you find yourself with many open tabs while working with files, you might ben
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome File Handling Api Explained](/chrome-file-handling-api-explained)
-- [Chrome File System Access Api Explained](/chrome-file-system-access-api-explained)
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
+## Related Articles
+- [chrome file handling api explained](/chrome-file-handling-api-explained)
+- [chrome file system access api explained](/chrome-file-system-access-api-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)

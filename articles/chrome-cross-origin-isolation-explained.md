@@ -63,9 +63,9 @@ Chrome continues to refine and improve its security model, and cross-origin isol
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Cross Origin Error What It Means](/chrome-cross-origin-error-what-it-means)
-- [Chrome Site Isolation Explained For Users](/chrome-site-isolation-explained-for-users)
 - [Chrome Site Isolation Explained Simply](/chrome-site-isolation-explained-simply)
+- [Chrome Site Isolation Explained](/chrome-site-isolation-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

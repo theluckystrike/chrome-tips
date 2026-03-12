@@ -14,7 +14,7 @@ tags:
 - web-development
 - chrome-testing
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-12
 permalink: chrome-back-forward-cache-how-to-test
 ---
 Chrome back forward cache how to test is something web developers and website owners need to understand. When users navigate back and forth through your site, Chrome may serve pages from its back forward cache instead of loading them fresh. This can affect how your site behaves and it is worth knowing how to test for it.
@@ -72,7 +72,7 @@ Remember to test not just on Chrome but also on other browsers that support the 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome Back Forward Cache Explained](/chrome-back-forward-cache-explained)
-- [Chrome Bookmark Bar Disappeared How To Get Back](/chrome-bookmark-bar-disappeared-how-to-get-back)
-- [Chrome Cache Size How To Increase](/chrome-cache-size-how-to-increase)
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
+- [Chrome Forward Button Greyed Out Fix](/chrome-forward-button-greyed-out-fix)

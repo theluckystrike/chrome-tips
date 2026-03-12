@@ -84,9 +84,9 @@ Small changes add up quickly. If you normally use several gigabytes of data per 
 
 
 
-### Related Articles
-- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
-- [Chrome Reduce Data Usage Mobile](/chrome-reduce-data-usage-mobile)
-- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
+## Related Articles
+- [chrome reduce data usage mobile](/chrome-reduce-data-usage-mobile)
+- [chrome data usage on phone how to reduce](/chrome-data-usage-on-phone-how-to-reduce)
+- [Chrome Mobile Tips Save Data Usage](/chrome-mobile-tips-save-data-usage)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -86,9 +86,9 @@ Learning the chrome keyboard shortcuts complete list for 2026 takes some time, b
 
 
 
-### Related Articles
-- [Chrome Easter Eggs Complete List 2026](/chrome-easter-eggs-complete-list-2026)
+## Related Articles
+- [chrome easter eggs complete list 2026](/chrome-easter-eggs-complete-list-2026)
 - [Chromebook Keyboard Shortcuts Complete List](/chromebook-keyboard-shortcuts-complete-list)
-- [Chrome Experimental Features List 2026](/chrome-experimental-features-list-2026)
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

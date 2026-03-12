@@ -78,7 +78,7 @@ After your stream, take note of what worked well and what could be improved. Str
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Apple Notes In Browser Workaround](/chrome-for-apple-notes-in-browser-workaround)
-- [Chrome For Codecademy In Browser Optimization](/chrome-for-codecademy-in-browser-optimization)
-- [Chrome For Codepen In Browser Tips](/chrome-for-codepen-in-browser-tips)
+## Related Articles
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)

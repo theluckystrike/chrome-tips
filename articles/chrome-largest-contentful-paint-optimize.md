@@ -84,9 +84,9 @@ By focusing on Chrome largest contentful paint optimize strategies, you create f
 
 
 
-### Related Articles
+## Related Articles
 - [Chrome Largest Contentful Paint Explained](/chrome-largest-contentful-paint-explained)
 - [Chrome Largest Contentful Paint Improve Tips](/chrome-largest-contentful-paint-improve-tips)
-- [Chrome Interaction Next Paint Improve](/chrome-interaction-next-paint-improve)
+- [Chrome Interaction to Next Paint Improve: Complete Guide](/chrome-interaction-next-paint-improve)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

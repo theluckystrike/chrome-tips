@@ -79,7 +79,7 @@ Start by exploring what extensions are available, choose one that fits your need
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
+## Related Articles
 - [Chrome Mouse Cursor Disappears Fix](/chrome-mouse-cursor-disappears-fix)
-- [Chrome Mouse Cursor Lagging](/chrome-mouse-cursor-lagging)
-- [Best Ad Blocker Chrome Extension 2026](/best-ad-blocker-chrome-extension-2026)
+- [Chrome Mouse Cursor Lagging Fix](/chrome-mouse-cursor-lagging)
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)

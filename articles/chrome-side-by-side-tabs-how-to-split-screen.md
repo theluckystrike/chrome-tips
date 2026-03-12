@@ -70,7 +70,7 @@ Split screen is one of those features that seems small but makes a big differenc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Split Screen Two Tabs Side By Side](/chrome-split-screen-two-tabs-side-by-side)
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
-- [Chrome Full Screen Mode How To Exit Stuck](/chrome-full-screen-mode-how-to-exit-stuck)
+## Related Articles
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [Chrome Extensions for Split Tabs](/chrome-extensions-for-split-tabs)

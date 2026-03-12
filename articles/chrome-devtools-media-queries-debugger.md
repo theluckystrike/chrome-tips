@@ -75,7 +75,7 @@ Remember to check for overlapping ranges in your media queries, make sure you ar
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Devtools Flexbox Debugger](/chrome-devtools-flexbox-debugger)
+## Related Articles
+- [Chrome DevTools Flexbox Debugger](/chrome-devtools-flexbox-debugger)
 - [Chrome Devtools Webauthn Debugger](/chrome-devtools-webauthn-debugger)
-- [Best Chrome Extensions For Social Media](/best-chrome-extensions-for-social-media)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)

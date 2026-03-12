@@ -106,9 +106,9 @@ Consider making Chrome performance settings part of your routine after any Windo
 
 
 
-### Related Articles
+## Related Articles
+- [Chrome Slower After macOS Update Fix](/chrome-slower-after-macos-update-fix)
 - [Chrome Slow After Windows Update Fix](/chrome-slow-after-windows-update-fix)
-- [Chrome Slower After Macos Update Fix](/chrome-slower-after-macos-update-fix)
-- [Chrome Extension Not Working After Update Fix](/chrome-extension-not-working-after-update-fix)
+- [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

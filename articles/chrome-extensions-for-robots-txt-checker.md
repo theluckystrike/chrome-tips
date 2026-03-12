@@ -66,7 +66,7 @@ Also remember that robots.txt is just one piece of the puzzle. A page can be acc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Color Accessibility Checker](/chrome-extensions-for-color-accessibility-checker)
-- [Chrome Extensions For Link Checker Broken Links](/chrome-extensions-for-link-checker-broken-links)
-- [Chrome Extensions For Ssl Certificate Checker](/chrome-extensions-for-ssl-certificate-checker)
+## Related Articles
+- [Chrome Extensions for Link Checker Broken Links](/chrome-extensions-for-link-checker-broken-links)
+- [Chrome Extensions for Color Accessibility Checker](/chrome-extensions-for-color-accessibility-checker)
+- [Chrome Extensions for SSL Certificate Checker](/chrome-extensions-for-ssl-certificate-checker)

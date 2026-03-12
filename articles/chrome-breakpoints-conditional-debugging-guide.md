@@ -73,9 +73,9 @@ The key to effective debugging with breakpoints is practice and experimentation.
 
 
 
-### Related Articles
+## Related Articles
+- [Chrome WebAssembly Debugging Guide](/chrome-wasm-debugging-guide)
 - [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)
-- [Chrome Wasm Debugging Guide](/chrome-wasm-debugging-guide)
-- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

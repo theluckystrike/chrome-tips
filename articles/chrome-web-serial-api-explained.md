@@ -90,7 +90,7 @@ Give the Web Serial API a try with your compatible devices. You might find that 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Web Animation Api Explained](/chrome-web-animation-api-explained)
-- [Chrome Web Codecs Api Explained](/chrome-web-codecs-api-explained)
-- [Chrome Web Gpu Api Explained For Beginners](/chrome-web-gpu-api-explained-for-beginners)
+## Related Articles
+- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
+- [chrome web serial api for beginners](/chrome-web-serial-api-for-beginners)

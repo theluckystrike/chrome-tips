@@ -75,9 +75,9 @@ Extensions like Tab Suspender Pro, part of the Zovo extension suite available at
 
 
 
-### Related Articles
-- [Chrome Extension For Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
-- [Best Chrome Extensions For Saving Money Online](/best-chrome-extensions-for-saving-money-online)
-- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
+## Related Articles
+- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

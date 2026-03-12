@@ -70,7 +70,7 @@ Think about how you use weather information. If you only need a quick glance at 
 Having weather visible on your new tab removes the friction of actively seeking out this information. Over time, this small convenience adds up to meaningful time savings and ensures you are always prepared for whatever weather comes your way.
 
 
-### Related Articles
-- [Chrome Extensions For New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)
-- [Chrome Extensions For Weather Forecast](/chrome-extensions-for-weather-forecast)
-- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)
+## Related Articles
+- [Chrome New Tab Extensions Aesthetic 2026](/chrome-new-tab-extensions-aesthetic-2026)
+- [chrome for custom new tab page extensions](/chrome-for-custom-new-tab-page-extensions)
+- [Chrome New Tab Page Minimalist Extensions](/chrome-new-tab-page-minimalist-extensions)

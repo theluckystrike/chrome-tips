@@ -78,7 +78,7 @@ Creating website shortcuts is one of the simplest ways to customize your phone e
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Add To Home Screen Vs Install App](/chrome-add-to-home-screen-vs-install-app)
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome Autofill On Phone How To Manage](/chrome-autofill-on-phone-how-to-manage)
+## Related Articles
+- [Chrome Add to Home Screen vs Install App](/chrome-add-to-home-screen-vs-install-app)
+- [How to Add Chrome Shortcut to Desktop](/how-to-add-chrome-shortcut-to-desktop)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)

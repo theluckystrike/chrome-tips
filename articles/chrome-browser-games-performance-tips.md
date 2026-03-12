@@ -60,7 +60,7 @@ Making these adjustments can transform your browser gaming experience from frust
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Cross Browser Testing Tips](/chrome-cross-browser-testing-tips)
-- [Chrome Css Animations Performance Tips](/chrome-css-animations-performance-tips)
-- [Chrome For Codepen In Browser Tips](/chrome-for-codepen-in-browser-tips)
+## Related Articles
+- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
+- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)
+- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)

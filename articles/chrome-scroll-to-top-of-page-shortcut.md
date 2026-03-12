@@ -64,10 +64,10 @@ Using **Tab Suspender Pro** is an excellent way to keep your browser responsive.
 
 
 
-### Related Articles
-- [Chrome Audit Page Seo How To](/chrome-audit-page-seo-how-to)
-- [Chrome Bookmark Current Page Shortcut](/chrome-bookmark-current-page-shortcut)
-- [Chrome Download All Images From Page How To](/chrome-download-all-images-from-page-how-to)
+## Related Articles
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+- [chrome bookmark current page shortcut](/chrome-bookmark-current-page-shortcut)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

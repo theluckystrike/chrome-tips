@@ -55,7 +55,7 @@ If you find that one method does not work well, try combining it with another. F
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Smooth Scrolling How To Enable](/chrome-smooth-scrolling-how-to-enable)
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
-- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)
+## Related Articles
+- [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/chrome-smooth-scrolling-enable)
+- [Chrome Smooth Scrolling How to Enable](/chrome-smooth-scrolling-how-to-enable)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)

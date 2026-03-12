@@ -61,9 +61,9 @@ Most of these extensions offer free versions with core features, so you can try 
 
 
 
-### Related Articles
-- [Chrome Bookmark Manager Best Extensions 2026](/chrome-bookmark-manager-best-extensions-2026)
-- [Chrome Extensions For Clipboard Manager](/chrome-extensions-for-clipboard-manager)
-- [Chrome Extensions For Code Snippet Manager](/chrome-extensions-for-code-snippet-manager)
+## Related Articles
+- [chrome bookmark manager best extensions 2026](/chrome-bookmark-manager-best-extensions-2026)
+- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)
+- [Chrome Extensions for Cookie Editor Manager](/chrome-extensions-for-cookie-editor-manager)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

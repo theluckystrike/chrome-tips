@@ -67,7 +67,7 @@ Third, consider moving important downloaded files to their permanent locations a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Address Bar Tips And Tricks](/chrome-address-bar-tips-and-tricks)
-- [Chrome Android Tips And Tricks 2026](/chrome-android-tips-and-tricks-2026)
-- [Chrome Bookmark Bar Tips And Tricks](/chrome-bookmark-bar-tips-and-tricks)
+## Related Articles
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)

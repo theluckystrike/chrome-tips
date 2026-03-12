@@ -63,7 +63,7 @@ Remember to be cautious when installing new software and only add extensions fro
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Homepage Keeps Changing To Yahoo Fix](/chrome-homepage-keeps-changing-to-yahoo-fix)
-- [Chrome Homepage Keeps Resetting Fix](/chrome-homepage-keeps-resetting-fix)
+## Related Articles
+- [Chrome Homepage Keeps Changing to Yahoo Fix](/chrome-homepage-keeps-changing-to-yahoo-fix)
 - [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
+- [Chrome Homepage Keeps Resetting Fix](/chrome-homepage-keeps-resetting-fix)

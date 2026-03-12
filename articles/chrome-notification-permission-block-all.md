@@ -98,9 +98,9 @@ Remember, you always have the option to allow notifications from specific sites 
 
 *
 
-### Related Articles
+## Related Articles
+- [Chrome Pop Ups How to Block All](/chrome-pop-ups-how-to-block-all)
 - [Chrome Notification Permission Best Practices](/chrome-notification-permission-best-practices)
-- [Chrome Pop Ups How To Block All](/chrome-pop-ups-how-to-block-all)
-- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

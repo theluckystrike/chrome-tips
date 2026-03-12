@@ -90,7 +90,7 @@ Chrome cookie settings are designed to give you control while still allowing web
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Enable Cookies For One Site How To](/chrome-enable-cookies-for-one-site-how-to)
-- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
+## Related Articles
+- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)
+- [Chrome Enable Cookies for One Site How to](/chrome-enable-cookies-for-one-site-how-to)
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)

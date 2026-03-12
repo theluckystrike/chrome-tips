@@ -70,7 +70,7 @@ Remember to periodically review your installed extensions and remove any that yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Reddit Users](/best-chrome-extensions-for-reddit-users)
-- [Chrome For Reddit Best Extensions](/chrome-for-reddit-best-extensions)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Best Chrome Extensions for Reddit Users](/best-chrome-extensions-for-reddit-users)
+- [Chrome for Reddit Best Extensions](/chrome-for-reddit-best-extensions)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

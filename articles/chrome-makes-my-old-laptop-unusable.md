@@ -120,9 +120,9 @@ Give these solutions a try. Start with the easiest ones first, and you should no
 
 
 
-### Related Articles
-- [Chrome Slow On Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
-- [Chrome Vs Firefox On Old Laptop](/chrome-vs-firefox-on-old-laptop)
-- [Chrome Core Web Vitals Check My Website](/chrome-core-web-vitals-check-my-website)
+## Related Articles
+- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
+- [Chrome vs Firefox on an Old Laptop — Which Is Better?](/chrome-vs-firefox-on-old-laptop)
+- [How to Make Chrome Faster on an Old Computer](/how-to-make-chrome-faster-on-old-computer)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -81,7 +81,7 @@ In the vast majority of cases, the desire to downgrade Chrome is a reaction to a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Portable Version How To Get](/chrome-portable-version-how-to-get)
-- [Chrome Version How To Check Which Version](/chrome-version-how-to-check-which-version)
-- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
+## Related Articles
+- [Chrome Version How to Check Which Version](/chrome-version-how-to-check-which-version)
+- [Chrome Version History: Major Milestones That Shaped the Browser](/chrome-version-history-major-milestones)
+- [Chrome Version History: Major Changes You Should Know About](/chrome-version-history-major-changes)

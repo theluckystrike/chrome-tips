@@ -74,7 +74,7 @@ In rare cases, the problem might be with your computer's hardware rather than Ch
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Not Responding Force Close How](/chrome-not-responding-force-close-how)
-- [Chrome Not Responding Force Close And Recover](/chrome-not-responding-force-close-and-recover)
-- [Chrome Certificate Error How To Bypass Safely](/chrome-certificate-error-how-to-bypass-safely)
+## Related Articles
+- [Chrome Not Responding Force Close and Recover](/chrome-not-responding-force-close-and-recover)
+- [Chrome Not Responding? Force Close It This Way](/chrome-not-responding-force-close-how)
+- [Chrome Connection Not Private Bypass Safely](/chrome-connection-not-private-bypass-safely)

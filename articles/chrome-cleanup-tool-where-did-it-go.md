@@ -113,9 +113,9 @@ Take a few minutes to reset Chrome, clear unnecessary data, and enable Memory Sa
 
 
 
-### Related Articles
-- [Chrome Status Bar Where Did It Go](/chrome-status-bar-where-did-it-go)
-- [Chrome Cleanup Tool Removed What To Use Instead](/chrome-cleanup-tool-removed-what-to-use-instead)
-- [Chrome Default Folder Location Where Is It](/chrome-default-folder-location-where-is-it)
+## Related Articles
+- [Chrome Cleanup Tool Removed: What to Use Instead](/chrome-cleanup-tool-removed-what-to-use-instead)
+- [Chrome Built-In Screenshot Tool](/chrome-built-in-screenshot-tool)
+- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

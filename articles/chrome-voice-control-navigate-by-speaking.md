@@ -83,9 +83,9 @@ Once you master these tools, you will find that your hands are free for other ta
 
 
 
-### Related Articles
-- [Chrome Voice Control How To Use](/chrome-voice-control-how-to-use)
-- [Chrome Auto Sign In To Websites How To Control](/chrome-auto-sign-in-to-websites-how-to-control)
-- [Chrome Best Extensions For Parental Control](/chrome-best-extensions-for-parental-control)
+## Related Articles
+- [Chrome Voice Control How to Use](/chrome-voice-control-how-to-use)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

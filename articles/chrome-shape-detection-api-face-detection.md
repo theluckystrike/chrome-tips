@@ -73,10 +73,10 @@ Using **Tab Suspender Pro** is an excellent way to handle this. It automatically
 
 
 
-### Related Articles
-- [Chrome Shape Detection Api Explained](/chrome-shape-detection-api-explained)
-- [Chrome Idle Detection Api Explained](/chrome-idle-detection-api-explained)
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
+## Related Articles
+- [Chrome Shape Detection API Explained](/chrome-shape-detection-api-explained)
+- [Chrome Idle Detection API Explained: What It Means for Your Browser](/chrome-idle-detection-api-explained)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

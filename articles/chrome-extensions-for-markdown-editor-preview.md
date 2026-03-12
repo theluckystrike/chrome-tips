@@ -62,7 +62,7 @@ Experiment with different extensions to find the combination that works best for
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Cookie Editor Manager](/chrome-extensions-for-cookie-editor-manager)
-- [Chrome Extensions For Image Editor Online](/chrome-extensions-for-image-editor-online)
-- [Chrome Extensions For Youtube Thumbnail Preview](/chrome-extensions-for-youtube-thumbnail-preview)
+## Related Articles
+- [Chrome Extensions for Cookie Editor Manager](/chrome-extensions-for-cookie-editor-manager)
+- [Chrome Extensions for YouTube Thumbnail Preview](/chrome-extensions-for-youtube-thumbnail-preview)
+- [chrome extensions for image editor online](/chrome-extensions-for-image-editor-online)

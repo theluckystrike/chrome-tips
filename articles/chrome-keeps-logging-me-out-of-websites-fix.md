@@ -82,7 +82,7 @@ You might also consider whether your Chrome profile itself has become corrupted 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Keeps Logging Me Out Of Sites Fix](/chrome-keeps-logging-me-out-of-sites-fix)
-- [Chrome Err Connection Timed Out Fix](/chrome-err-connection-timed-out-fix)
-- [Chrome Font Too Small On Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
+## Related Articles
+- [Chrome Keeps Logging Me Out of Sites Fix](/chrome-keeps-logging-me-out-of-sites-fix)
+- [Chrome Font Too Small on Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
+- [Chrome Forward Button Greyed Out Fix](/chrome-forward-button-greyed-out-fix)

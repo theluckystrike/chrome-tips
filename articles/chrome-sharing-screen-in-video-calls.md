@@ -91,10 +91,10 @@ Using **Tab Suspender Pro** is an excellent way to handle this. It automatically
 
 
 
-### Related Articles
-- [Chrome Screen Sharing In Browser How To](/chrome-screen-sharing-in-browser-how-to)
-- [How To Share Chrome Tabs In Video Calls](/how-to-share-chrome-tabs-in-video-calls)
-- [Chrome Screen Recording In Browser How To](/chrome-screen-recording-in-browser-how-to)
+## Related Articles
+- [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/chrome-slow-when-screen-sharing-zoom)
+- [How to Share Chrome Tabs in Video Calls](/how-to-share-chrome-tabs-in-video-calls)
+- [Chrome Screen Sharing in Browser How To](/chrome-screen-sharing-in-browser-how-to)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

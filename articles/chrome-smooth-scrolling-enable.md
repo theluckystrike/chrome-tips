@@ -85,9 +85,9 @@ Give smooth scrolling a try and see how it works for you. Once you experience th
 
 
 
-### Related Articles
-- [Chrome Smooth Scrolling How To Enable](/chrome-smooth-scrolling-how-to-enable)
-- [How To Enable Chrome Smooth Scrolling](/how-to-enable-chrome-smooth-scrolling)
-- [Best Chrome Android Flags To Enable](/best-chrome-android-flags-to-enable)
+## Related Articles
+- [How to Enable Chrome Smooth Scrolling](/how-to-enable-chrome-smooth-scrolling)
+- [Chrome Smooth Scrolling How to Enable](/chrome-smooth-scrolling-how-to-enable)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

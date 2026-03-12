@@ -72,7 +72,7 @@ Your online privacy is worth protecting, and you do not need to be a tech expert
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
-- [Chrome How To Block Specific Website Notifications](/chrome-how-to-block-specific-website-notifications)
-- [Chrome Media Autoplay How To Block](/chrome-media-autoplay-how-to-block)
+## Related Articles
+- [chrome fingerprinting protection explained](/chrome-fingerprinting-protection-explained)
+- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
+- [How to Block Websites on Chrome](/how-to-block-websites-on-chrome)

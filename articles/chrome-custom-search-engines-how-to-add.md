@@ -90,7 +90,7 @@ Custom search engines are one of those Chrome features that many people do not k
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Custom Fonts How To Change](/chrome-custom-fonts-how-to-change)
-- [Chrome Custom Theme How To Make Your Own](/chrome-custom-theme-how-to-make-your-own)
-- [Chrome Default Search Engine Changed How To Fix](/chrome-default-search-engine-changed-how-to-fix)
+## Related Articles
+- [Chrome Custom Search Engines Guide](/chrome-search-engines-custom)
+- [Chrome for Custom Search Engines Setup](/chrome-for-custom-search-engines-setup)
+- [Chrome for Multiple Search Engines Switching](/chrome-for-multiple-search-engines-switching)

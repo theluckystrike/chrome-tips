@@ -63,10 +63,10 @@ Using **Tab Suspender Pro** is the most effective way to handle this. It allows 
 
 
 
-### Related Articles
-- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
+## Related Articles
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
 - [Chrome Close Other Tabs Shortcut](/chrome-close-other-tabs-shortcut)
-- [Chrome Cycle Through Tabs Shortcut](/chrome-cycle-through-tabs-shortcut)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

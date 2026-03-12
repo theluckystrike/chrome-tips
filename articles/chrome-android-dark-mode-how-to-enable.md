@@ -14,7 +14,7 @@ tags:
 - android-tips
 - theme
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-android-dark-mode-how-to-enable
 ---
 # Chrome Android Dark Mode How to Enable
@@ -89,9 +89,9 @@ Give dark mode a try for a few days to see if it works for you. You can always s
 
 
 
-### Related Articles
-- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)
-- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
-- [Chrome Dark Mode On Phone How To Enable](/chrome-dark-mode-on-phone-how-to-enable)
+## Related Articles
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Android Desktop Mode How to Enable](/chrome-android-desktop-mode-how-to-enable)
+- [Chrome Dark Mode on Phone How to Enable](/chrome-dark-mode-on-phone-how-to-enable)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

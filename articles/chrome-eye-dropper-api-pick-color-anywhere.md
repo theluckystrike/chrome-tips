@@ -95,9 +95,9 @@ The web platform continues to evolve rapidly, and APIs like the Eye Dropper demo
 
 
 
-### Related Articles
-- [Chrome Extensions For Eye Dropper Tool](/chrome-extensions-for-eye-dropper-tool)
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
-- [Chrome Attribution Reporting Api Explained](/chrome-attribution-reporting-api-explained)
+## Related Articles
+- [Chrome Extensions for Eye Dropper Tool](/chrome-extensions-for-eye-dropper-tool)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

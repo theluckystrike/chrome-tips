@@ -61,7 +61,7 @@ Give yourself a little time to adjust. The first day or two might feel unfamilia
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Split Tabs](/chrome-extensions-for-split-tabs)
-- [Chrome Extensions For Vertical Tabs Sidebar](/chrome-extensions-for-vertical-tabs-sidebar)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome Extensions for Vertical Tabs Sidebar](/chrome-extensions-for-vertical-tabs-sidebar)
+- [Chrome Extensions for Split Tabs](/chrome-extensions-for-split-tabs)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

@@ -104,10 +104,10 @@ Tab Suspender Pro is an extension that automatically suspends tabs you are not c
 
 
 
-### Related Articles
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
-- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)
-- [Chrome Compact Mode How To Enable](/chrome-compact-mode-how-to-enable)
+## Related Articles
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [How to Enable Chrome Reading List](/how-to-enable-chrome-reading-list)
+- [Chrome Reading Mode AI Summary Feature](/chrome-reading-mode-ai-summary-feature)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

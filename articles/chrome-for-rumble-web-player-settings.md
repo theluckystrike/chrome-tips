@@ -78,7 +78,7 @@ Remember that every computer is different, so you may need to experiment with a 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Spotify Web Player Enhancement](/chrome-extensions-for-spotify-web-player-enhancement)
-- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
-- [Chrome For Audible Web Player Tips](/chrome-for-audible-web-player-tips)
+## Related Articles
+- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [chrome for tiktok web best settings](/chrome-for-tiktok-web-best-settings)

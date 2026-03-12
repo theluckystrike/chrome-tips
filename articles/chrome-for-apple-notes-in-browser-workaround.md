@@ -129,7 +129,7 @@ Choose the approach that best fits your needs and start accessing your Apple Not
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Codecademy In Browser Optimization](/chrome-for-codecademy-in-browser-optimization)
-- [Chrome For Codepen In Browser Tips](/chrome-for-codepen-in-browser-tips)
-- [Chrome For Google Analytics In Browser](/chrome-for-google-analytics-in-browser)
+## Related Articles
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)

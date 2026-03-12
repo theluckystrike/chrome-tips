@@ -52,7 +52,7 @@ Finding a specific tab does not have to be frustrating. With Chrome's built-in s
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Which Tab Is Using Most Cpu How To Find](/chrome-which-tab-is-using-most-cpu-how-to-find)
-- [How To Make Chrome Open Links In New Tab](/how-to-make-chrome-open-links-in-new-tab)
-- [How To Pin A Website In Chrome Taskbar](/how-to-pin-a-website-in-chrome-taskbar)
+## Related Articles
+- [Chrome Which Tab Is Using Most CPU How to Find](/chrome-which-tab-is-using-most-cpu-how-to-find)
+- [Chrome Jump to Specific Tab Number Shortcut](/chrome-jump-to-specific-tab-number-shortcut)
+- [How to Find a Tab by Name in Chrome: Complete Guide](/chrome-find-tab-by-name-search)

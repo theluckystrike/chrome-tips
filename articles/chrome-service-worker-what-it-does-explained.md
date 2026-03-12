@@ -54,10 +54,10 @@ Using **Tab Suspender Pro** is a highly effective way to mitigate this. It autom
 
 
 
-### Related Articles
-- [Chrome Pin Tab What It Does Explained](/chrome-pin-tab-what-it-does-explained)
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
-- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
+## Related Articles
+- [Chrome Service Worker Caching Strategies](/chrome-service-worker-caching-strategies)
+- [Chrome Service Worker High CPU Fix](/chrome-service-worker-high-cpu-fix)
+- [chrome pin tab what it does explained](/chrome-pin-tab-what-it-does-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

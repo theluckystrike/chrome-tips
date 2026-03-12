@@ -81,9 +81,9 @@ Voice interaction represents the next frontier of browser usability. Whether you
 
 
 
-### Related Articles
-- [Chrome Speech Recognition Api Explained](/chrome-speech-recognition-api-explained)
-- [Chrome Speech Recognition Api](/chrome-speech-recognition-api)
-- [Chrome Vibration Api Mobile Web](/chrome-vibration-api-mobile-web)
+## Related Articles
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -66,10 +66,10 @@ Using **Tab Suspender Pro** is an excellent way to maintain performance. It auto
 
 
 
-### Related Articles
-- [Chrome Shared Storage Api Privacy Ads](/chrome-shared-storage-api-privacy-ads)
-- [Chrome Shared Storage Api Privacy Impact](/chrome-shared-storage-api-privacy-impact)
-- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
+## Related Articles
+- [chrome shared storage api privacy ads](/chrome-shared-storage-api-privacy-ads)
+- [Chrome Shared Storage API Privacy Impact](/chrome-shared-storage-api-privacy-impact)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

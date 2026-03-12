@@ -75,7 +75,7 @@ Remember that some level of GPU memory usage is normal and expected, especially 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Gpu Process High Cpu Fix](/chrome-gpu-process-high-cpu-fix)
+## Related Articles
+- [Chrome GPU Process High CPU Fix](/chrome-gpu-process-high-cpu-fix)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
 - [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
-- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)

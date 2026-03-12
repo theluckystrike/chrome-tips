@@ -75,7 +75,7 @@ Extensions like Tab Suspender Pro can help you manage many open tabs by automati
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
-- [Chrome Keyboard Shortcuts For Beginners](/chrome-keyboard-shortcuts-for-beginners)
-- [Chrome Vs Vivaldi For Power Users](/chrome-vs-vivaldi-for-power-users)
+## Related Articles
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)

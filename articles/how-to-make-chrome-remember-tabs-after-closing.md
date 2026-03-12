@@ -98,7 +98,7 @@ Combine these methods for the best results. Enable Chrome's built-in restore, in
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
-- [Chrome Custom Theme How To Make Your Own](/chrome-custom-theme-how-to-make-your-own)
-- [Chrome Mobile Tabs Too Many How To Manage](/chrome-mobile-tabs-too-many-how-to-manage)
+## Related Articles
+- [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/chrome-slows-down-after-opening-20-tabs)
+- [Chrome Ask Before Closing Multiple Tabs Setting](/chrome-ask-before-closing-multiple-tabs-setting)
+- [Chrome Restore Tabs Not Working After Update: Practical Fixes](/chrome-restore-tabs-not-working-after-update)

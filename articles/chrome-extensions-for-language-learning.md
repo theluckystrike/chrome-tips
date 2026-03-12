@@ -69,7 +69,7 @@ Start with one or two extensions that address your biggest need, use them consis
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Language Learning](/best-chrome-extensions-for-language-learning)
-- [Chrome For Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome For Language Translation Extensions Comparison](/chrome-for-language-translation-extensions-comparison)
+## Related Articles
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Best Chrome Extensions for Language Learning](/best-chrome-extensions-for-language-learning)
+- [Chrome for Language Translation Extensions Comparison](/chrome-for-language-translation-extensions-comparison)

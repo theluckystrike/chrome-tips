@@ -16,7 +16,7 @@ tags:
 - browser-features
 - 2026
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-features-built-in-2026
 ---
 # Chrome AI Features Built in 2026
@@ -79,3 +79,9 @@ The chrome ai features built in 2026 represent a significant step forward in mak
 - [Chrome Built In Password Checkup How To Use](/chrome-built-in-password-checkup-how-to-use)
 
 Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)
+
+
+## Related Articles
+- [chrome experimental features worth trying 2026](/chrome-experimental-features-worth-trying-2026)
+- [chrome upcoming features roadmap 2026](/chrome-upcoming-features-roadmap-2026)
+- [Chrome Text to Speech Built In Features](/chrome-text-to-speech-built-in-features)

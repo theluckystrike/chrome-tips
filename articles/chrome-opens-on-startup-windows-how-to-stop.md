@@ -82,9 +82,9 @@ Try the methods outlined above and restart your computer after making changes. S
 
 
 
-### Related Articles
-- [Chrome Opens Old Tabs On Startup How To Stop](/chrome-opens-old-tabs-on-startup-how-to-stop)
-- [How To Stop Chrome From Opening On Startup](/how-to-stop-chrome-from-opening-on-startup)
-- [Chrome Default Browser How To Set On Windows](/chrome-default-browser-how-to-set-on-windows)
+## Related Articles
+- [Chrome Opens Old Tabs on Startup How to Stop](/chrome-opens-old-tabs-on-startup-how-to-stop)
+- [How to Stop Chrome from Opening on Startup](/how-to-stop-chrome-from-opening-on-startup)
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

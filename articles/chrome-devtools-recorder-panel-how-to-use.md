@@ -79,7 +79,7 @@ Finally, test your recordings a few times to make sure they work consistently. W
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Devtools Color Picker How To Use](/chrome-devtools-color-picker-how-to-use)
-- [Chrome Devtools Responsive Mode How To Use](/chrome-devtools-responsive-mode-how-to-use)
-- [Chrome Devtools Snippets How To Use](/chrome-devtools-snippets-how-to-use)
+## Related Articles
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [chrome recorder panel how to record user flows](/chrome-recorder-panel-how-to-record-user-flows)
+- [Chrome Recorder Panel Guide](/chrome-recorder-panel-guide)

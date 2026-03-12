@@ -72,7 +72,7 @@ Regularly checking your camera permissions is a simple habit that goes a long wa
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Autofill On Phone How To Manage](/chrome-autofill-on-phone-how-to-manage)
-- [Chrome Location Access On Phone How To Control](/chrome-location-access-on-phone-how-to-control)
-- [Chrome Microphone Access On Phone How To Control](/chrome-microphone-access-on-phone-how-to-control)
+## Related Articles
+- [Chrome Microphone Access on Phone How to Control](/chrome-microphone-access-on-phone-how-to-control)
+- [Chrome Location Access on Phone How to Control](/chrome-location-access-on-phone-how-to-control)
+- [chrome autofill on phone how to manage](/chrome-autofill-on-phone-how-to-manage)

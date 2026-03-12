@@ -113,7 +113,7 @@ Remember that the most important part of family online safety is the conversatio
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Certificate Error How To Bypass Safely](/chrome-certificate-error-how-to-bypass-safely)
-- [Chrome Family Link How To Use On Desktop](/chrome-family-link-how-to-use-on-desktop)
-- [Chrome Navigate Back With Gesture How To](/chrome-navigate-back-with-gesture-how-to)
+## Related Articles
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
+- [Chrome Certificate Error How to Bypass Safely](/chrome-certificate-error-how-to-bypass-safely)
+- [Chrome Share Page Between Phone and Laptop: Complete Guide](/chrome-share-page-between-phone-and-laptop)

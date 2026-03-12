@@ -13,7 +13,7 @@ tags:
 - android-tips
 - browser-optimization
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-android-app-running-slow-fix
 ---
 # Chrome Android App Running Slow Fix: Practical Solutions That Actually Work
@@ -141,9 +141,9 @@ These changes together can make Chrome feel significantly faster, even on older 
 
 *
 
-### Related Articles
-- [Chrome Android Slow Fix 2026](/chrome-android-slow-fix-2026)
-- [Chrome Figma Running Slow Fix](/chrome-figma-running-slow-fix)
-- [Chrome Slack Web App Slow Fix](/chrome-slack-web-app-slow-fix)
+## Related Articles
+- [How to Fix Slow Slack Web App in Chrome](/chrome-slack-web-app-slow-fix)
+- [Chrome Slow on Android Fix](/chrome-slow-on-android-fix)
+- [Chrome Figma Running Slow Fix: A Practical Guide](/chrome-figma-running-slow-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*

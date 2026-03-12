@@ -75,7 +75,7 @@ Remember that Chrome shows these warnings to protect you. When you encounter a c
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Autocomplete Wrong Suggestions How To Fix](/chrome-autocomplete-wrong-suggestions-how-to-fix)
-- [Chrome Autofill Wrong Address How To Fix](/chrome-autofill-wrong-address-how-to-fix)
-- [Chrome Bookmark Bar Disappeared How To Fix](/chrome-bookmark-bar-disappeared-how-to-fix)
+## Related Articles
+- [Chrome Status Invalid Image Hash Fix](/chrome-status-invalid-image-hash-fix)
+- [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/chrome-err-cert-authority-invalid-fix)
+- [Chrome NET ERR CERT DATE INVALID Fix](/chrome-net-err-cert-date-invalid-fix)

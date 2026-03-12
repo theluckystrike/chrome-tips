@@ -78,9 +78,9 @@ Make it a habit to check periodically or respond right away when Chrome alerts y
 
 
 
-### Related Articles
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
-- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
-- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+## Related Articles
+- [Chrome Password Checkup Tool Guide](/chrome-password-checkup-tool)
+- [Chrome Built in Password Checkup How to Use](/chrome-built-in-password-checkup-how-to-use)
+- [how to use chrome password checkup feature](/how-to-use-chrome-password-checkup-feature)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -60,7 +60,7 @@ If you want the simplest experience with automatic updates and Google sync, stic
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Canary Vs Stable Difference Explained](/chrome-canary-vs-stable-difference-explained)
-- [Chrome Cookies Vs Cache Difference Explained](/chrome-cookies-vs-cache-difference-explained)
-- [Chrome Browser Process Vs Tab Process Explained](/chrome-browser-process-vs-tab-process-explained)
+## Related Articles
+- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
+- [Chrome Cookies vs Cache Difference Explained](/chrome-cookies-vs-cache-difference-explained)
+- [Chrome Canary vs Stable Difference Explained](/chrome-canary-vs-stable-difference-explained)

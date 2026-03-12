@@ -99,7 +99,7 @@ You should also periodically check your OneNote account to make sure your clips 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Notion Web Clipper Setup](/chrome-for-notion-web-clipper-setup)
-- [Chrome For Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)
-- [Chrome For Anki Web Flashcards Setup](/chrome-for-anki-web-flashcards-setup)
+## Related Articles
+- [Chrome for Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)
+- [Chrome for Notion Web Clipper Setup](/chrome-for-notion-web-clipper-setup)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)

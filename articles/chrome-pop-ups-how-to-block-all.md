@@ -81,9 +81,9 @@ Teaching friends and family about pop up blocking is also helpful. Many people m
 
 
 
-### Related Articles
-- [Chrome Pop Ups On Phone How To Block](/chrome-pop-ups-on-phone-how-to-block)
-- [How To Allow Pop Ups For One Site In Chrome](/how-to-allow-pop-ups-for-one-site-in-chrome)
-- [How To Allow Pop Ups On One Site Chrome](/how-to-allow-pop-ups-on-one-site-chrome)
+## Related Articles
+- [Chrome Pop Ups on Phone How to Block](/chrome-pop-ups-on-phone-how-to-block)
+- [How to Allow Pop Ups on One Site Chrome](/how-to-allow-pop-ups-on-one-site-chrome)
+- [How to Allow Pop Ups for One Site in Chrome](/how-to-allow-pop-ups-for-one-site-in-chrome)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

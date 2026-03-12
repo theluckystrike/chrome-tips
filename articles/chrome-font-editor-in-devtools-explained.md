@@ -75,7 +75,7 @@ The more you use the Font Editor, the more comfortable you will become with DevT
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Devtools Font Editor Tool](/chrome-devtools-font-editor-tool)
-- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
-- [Chrome Devtools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
+## Related Articles
+- [chrome devtools font editor tool](/chrome-devtools-font-editor-tool)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)

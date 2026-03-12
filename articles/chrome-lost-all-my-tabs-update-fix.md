@@ -54,7 +54,7 @@ Losing tabs after an update is annoying, but with the right habits and tools, yo
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
-- [Chrome Background Tabs Slowing Down Computer Fix](/chrome-background-tabs-slowing-down-computer-fix)
-- [Chrome Eating All My Ram Reddit Solutions](/chrome-eating-all-my-ram-reddit-solutions)
+## Related Articles
+- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
+- [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)
+- [Chrome Update Failed Error 7 Fix](/chrome-update-failed-error-7-fix)

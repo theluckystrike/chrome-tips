@@ -79,9 +79,9 @@ For users who want additional location privacy, several extensions offer enhance
 
 
 
-### Related Articles
-- [Chrome Camera Microphone Permission Manage](/chrome-camera-microphone-permission-manage)
+## Related Articles
 - [Chrome Geolocation Permission Settings](/chrome-geolocation-permission-settings)
-- [Chrome Address Autofill How To Manage](/chrome-address-autofill-how-to-manage)
+- [Chrome Camera Microphone Permission Manage: Complete Guide](/chrome-camera-microphone-permission-manage)
+- [Chrome Notifications for One Site How to Manage](/chrome-notifications-for-one-site-how-to-manage)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

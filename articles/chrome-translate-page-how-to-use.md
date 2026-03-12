@@ -79,9 +79,9 @@ Some extensions might interfere with translation. If translation suddenly stops 
 
 
 
-### Related Articles
-- [Chrome Translate Entire Page How To](/chrome-translate-entire-page-how-to)
-- [Chrome Translate On Phone How To Use](/chrome-translate-on-phone-how-to-use)
-- [Chrome Ai Summarize Feature How To Use](/chrome-ai-summarize-feature-how-to-use)
+## Related Articles
+- [chrome translate on phone how to use](/chrome-translate-on-phone-how-to-use)
+- [chrome mobile translate page automatically](/chrome-mobile-translate-page-automatically)
+- [Chrome Translate Page Not Working Fix: Practical Solutions That Actually Work](/chrome-translate-page-not-working-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -80,7 +80,7 @@ With these simple steps, you can enjoy a faster Chrome startup and a better brow
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Startup Time How To Measure](/chrome-startup-time-how-to-measure)
-- [Chrome Data Saver Mode How To Reduce Data Usage](/chrome-data-saver-mode-how-to-reduce-data-usage)
-- [Chrome Data Usage On Phone How To Reduce](/chrome-data-usage-on-phone-how-to-reduce)
+## Related Articles
+- [Chrome Startup Time How to Measure](/chrome-startup-time-how-to-measure)
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
+- [chrome data usage on phone how to reduce](/chrome-data-usage-on-phone-how-to-reduce)

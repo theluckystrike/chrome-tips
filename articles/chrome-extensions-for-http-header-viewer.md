@@ -70,7 +70,7 @@ By using one of these extensions, you can troubleshoot issues more effectively, 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Extensions For Json Viewer Formatter](/chrome-extensions-for-json-viewer-formatter)
-- [Chrome Extensions For Json Viewer](/chrome-extensions-for-json-viewer)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome Extensions for JSON Viewer Formatter](/chrome-extensions-for-json-viewer-formatter)
+- [chrome extensions for json viewer](/chrome-extensions-for-json-viewer)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

@@ -72,10 +72,10 @@ If you want to further improve your browsing experience, consider using extensio
 
 
 
-### Related Articles
-- [Chrome Ctrl Shift Delete Shortcut What It Does](/chrome-ctrl-shift-delete-shortcut-what-it-does)
-- [Chrome Dns Prefetch What It Does](/chrome-dns-prefetch-what-it-does)
+## Related Articles
 - [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+- [Chrome Do Not Track: Does It Actually Work](/chrome-do-not-track-does-it-actually-work)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

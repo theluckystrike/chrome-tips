@@ -64,7 +64,7 @@ You might also want to print out a cheat sheet of Chrome shortcuts and keep it n
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Site Search Shortcut How To Set Up](/chrome-site-search-shortcut-how-to-set-up)
-- [Chrome Circle To Search On Desktop](/chrome-circle-to-search-on-desktop)
-- [Chrome Custom Search Engines How To Add](/chrome-custom-search-engines-how-to-add)
+## Related Articles
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [Chrome Tab Search Shortcut: Find Any Open Tab Instantly](/chrome-tab-search-shortcut)
+- [chrome site search shortcut how to set up](/chrome-site-search-shortcut-how-to-set-up)

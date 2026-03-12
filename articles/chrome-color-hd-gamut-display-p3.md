@@ -65,9 +65,9 @@ Finally, keep Chrome updated. Google continuously refines color management, and 
 
 
 
-### Related Articles
-- [Chrome Color Mix Function Css](/chrome-color-mix-function-css)
-- [Chrome Color Picker Extension Best](/chrome-color-picker-extension-best)
-- [Chrome Devtools Color Picker How To Use](/chrome-devtools-color-picker-how-to-use)
+## Related Articles
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [chrome color picker extension best](/chrome-color-picker-extension-best)
+- [Chrome DevTools Emulate Color Schemes](/chrome-devtools-emulate-color-schemes)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -140,9 +140,9 @@ Remember, an extension like **Tab Suspender Pro** can be a long-term solution if
 
 
 
-### Related Articles
-- [Chrome Freezing Every Few Minutes](/chrome-freezing-every-few-minutes)
-- [Chrome Autofill Wrong Address Keeps Appearing](/chrome-autofill-wrong-address-keeps-appearing)
-- [Chrome Freezing On Chromebook During Zoom](/chrome-freezing-on-chromebook-during-zoom)
+## Related Articles
+- [Chrome Freezing Every Few Minutes? Here's What to Do](/chrome-freezing-every-few-minutes)
+- [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/chrome-autofill-wrong-address-keeps-appearing)
+- [Chrome Site Keeps Asking for Notifications? Here's How to Stop It](/chrome-site-keeps-asking-for-notifications-stop)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

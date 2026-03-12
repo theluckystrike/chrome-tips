@@ -74,7 +74,7 @@ Give these extensions a try and see how they improve your Airbnb experience. Sma
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
-- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)
-- [Best Chrome Extensions For Amazon Prime Video](/best-chrome-extensions-for-amazon-prime-video)
+## Related Articles
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [Chrome for Real Estate Browsing Extensions](/chrome-for-real-estate-browsing-extensions)
+- [Chrome Extensions for Faster Browsing](/chrome-extensions-for-faster-browsing)

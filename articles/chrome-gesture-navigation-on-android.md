@@ -100,7 +100,7 @@ If you frequently have many tabs open and notice performance issues, consider us
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Custom Tabs On Android What They Are](/chrome-custom-tabs-on-android-what-they-are)
-- [Chrome Extensions On Android Is It Possible](/chrome-extensions-on-android-is-it-possible)
-- [Chrome Flags On Android Best To Enable](/chrome-flags-on-android-best-to-enable)
+## Related Articles
+- [Chrome Gesture Navigation Complete Guide](/chrome-gesture-navigation)
+- [Chrome for Gesture Navigation Desktop](/chrome-for-gesture-navigation-desktop)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)

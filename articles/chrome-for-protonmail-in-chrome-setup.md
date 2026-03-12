@@ -83,7 +83,7 @@ Remember to log out of ProtonMail when using shared or public computers. Chrome 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome For Twitch Streaming Setup In Browser](/chrome-for-twitch-streaming-setup-in-browser)
-- [Best Chrome Setup For Elderly Parents](/best-chrome-setup-for-elderly-parents)
-- [Best Chrome Setup For Graphic Designers](/best-chrome-setup-for-graphic-designers)
+## Related Articles
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)

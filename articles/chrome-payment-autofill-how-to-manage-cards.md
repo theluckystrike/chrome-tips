@@ -70,10 +70,10 @@ The next time you shop online, notice how much faster checkout goes when Chrome 
 
 
 
-### Related Articles
-- [Chrome Address Autofill How To Manage](/chrome-address-autofill-how-to-manage)
-- [Chrome Autofill On Phone How To Manage](/chrome-autofill-on-phone-how-to-manage)
-- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
+## Related Articles
+- [Chrome Address Autofill How to Manage](/chrome-address-autofill-how-to-manage)
+- [How to Manage Addresses in Chrome Autofill](/chrome-autofill-manage-addresses)
+- [chrome autofill on phone how to manage](/chrome-autofill-on-phone-how-to-manage)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

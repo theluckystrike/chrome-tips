@@ -59,9 +59,9 @@ Consider upgrading to a faster internet plan if you frequently find yourself wai
 
 
 
-### Related Articles
-- [Chrome Extension For Tracking Time Spent On Websites](/chrome-extension-for-tracking-time-spent-on-websites)
-- [Chrome For Page Load Speed Testing](/chrome-for-page-load-speed-testing)
-- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
+## Related Articles
+- [What Is Chrome Paint Holding and How It Speeds Up Page Load](/chrome-paint-holding-page-load)
+- [Chrome Extension Popup Page Tutorial](/chrome-extension-popup-page-tutorial)
+- [Chrome for Page Load Speed Testing](/chrome-for-page-load-speed-testing)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

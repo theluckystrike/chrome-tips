@@ -81,9 +81,9 @@ Combined with good tab management habits, these shortcuts help you navigate the 
 
 
 
-### Related Articles
-- [How To Make Chrome Open Links In New Tab](/how-to-make-chrome-open-links-in-new-tab)
-- [Chrome Best New Tab Extension 2026](/chrome-best-new-tab-extension-2026)
-- [Chrome Duplicate Tab Shortcut Trick](/chrome-duplicate-tab-shortcut-trick)
+## Related Articles
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

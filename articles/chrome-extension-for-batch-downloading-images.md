@@ -63,9 +63,9 @@ Start with one extension to see if it fits your workflow, and try different ones
 
 
 
-### Related Articles
-- [Chrome Extension For Video Downloading Legal](/chrome-extension-for-video-downloading-legal)
-- [Chrome Classroom Extension For Teachers](/chrome-classroom-extension-for-teachers)
-- [Chrome Extension For Auto Fill Forms Faster](/chrome-extension-for-auto-fill-forms-faster)
+## Related Articles
+- [Chrome Extension for Video Downloading: What is Legal](/chrome-extension-for-video-downloading-legal)
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

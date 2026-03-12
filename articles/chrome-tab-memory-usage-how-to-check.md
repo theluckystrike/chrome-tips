@@ -82,9 +82,9 @@ By learning how to check chrome tab memory usage and taking steps to manage it e
 
 
 
-### Related Articles
-- [How To Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
-- [How To Limit Chrome Memory Usage Mac](/how-to-limit-chrome-memory-usage-mac)
-- [How To Limit Chrome Memory Usage Windows](/how-to-limit-chrome-memory-usage-windows)
+## Related Articles
+- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
+- [How to Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

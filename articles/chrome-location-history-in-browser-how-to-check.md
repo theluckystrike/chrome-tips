@@ -64,7 +64,7 @@ Extensions designed for tab management can help you maintain this organization w
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Browser Fingerprint How To Check Yours](/chrome-browser-fingerprint-how-to-check-yours)
-- [Chrome Screen Recording In Browser How To](/chrome-screen-recording-in-browser-how-to)
-- [Chrome Screen Sharing In Browser How To](/chrome-screen-sharing-in-browser-how-to)
+## Related Articles
+- [chrome browser fingerprint how to check yours](/chrome-browser-fingerprint-how-to-check-yours)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)

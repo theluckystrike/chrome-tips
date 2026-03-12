@@ -81,7 +81,7 @@ Remember to refresh your pages after changing the override, verify that the webs
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 
-### Related Articles
-- [Chrome Back Forward Cache How To Test](/chrome-back-forward-cache-how-to-test)
-- [Chrome Speed Comparison Test How To Run](/chrome-speed-comparison-test-how-to-run)
-- [Chrome 64 Bit Vs 32 Bit How To Check](/chrome-64-bit-vs-32-bit-how-to-check)
+## Related Articles
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
+- [chrome geolocation permission manage](/chrome-geolocation-permission-manage)
+- [Chrome vs Edge Speed Test 2026](/chrome-vs-edge-speed-test-2026)

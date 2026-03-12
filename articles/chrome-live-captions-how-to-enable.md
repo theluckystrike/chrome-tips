@@ -74,7 +74,7 @@ Keep the feature enabled. Once you turn Live Captions on, there is no harm in le
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Live Captions How To Turn On](/chrome-live-captions-how-to-turn-on)
-- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)
-- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)
+## Related Articles
+- [Chrome Live Captions Feature Guide](/chrome-live-captions-feature)
+- [Chrome Live Captions Languages: Complete Setup Guide](/chrome-live-captions-languages)
+- [Chrome Live Captions How to Turn On](/chrome-live-captions-how-to-turn-on)

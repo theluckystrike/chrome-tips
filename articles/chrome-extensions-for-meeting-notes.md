@@ -92,7 +92,7 @@ Start with one or two extensions that address your biggest pain point. You can a
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Quick Notes Sidebar](/chrome-extensions-for-quick-notes-sidebar)
-- [Chrome Extensions For Tab Notes](/chrome-extensions-for-tab-notes)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome Extensions for Tab Notes](/chrome-extensions-for-tab-notes)
+- [Chrome Extensions for Quick Notes Sidebar](/chrome-extensions-for-quick-notes-sidebar)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

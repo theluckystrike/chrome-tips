@@ -59,9 +59,9 @@ The bottom line is that while Chrome does not enforce a hard limit on tab count,
 
 
 
-### Related Articles
-- [Chrome Which Tab Is Using Most Cpu How To Find](/chrome-which-tab-is-using-most-cpu-how-to-find)
-- [How To Check Which Chrome Tab Is Using Most Memory](/how-to-check-which-chrome-tab-is-using-most-memory)
-- [How To Find A Specific Tab In Chrome](/how-to-find-a-specific-tab-in-chrome)
+## Related Articles
+- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -77,7 +77,7 @@ Once you have the right tools in place, you will notice a smoother research proc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Best Chrome Extensions For Google Drive](/best-chrome-extensions-for-google-drive)
-- [Chrome For Google Maps Best Extensions](/chrome-for-google-maps-best-extensions)
-- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+## Related Articles
+- [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)
+- [Chrome Extensions for Google Drive](/chrome-extensions-for-google-drive)
+- [Chrome Extensions for Google Forms](/chrome-extensions-for-google-forms)

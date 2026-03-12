@@ -82,9 +82,9 @@ Try setting up a split screen today. Pick two pages you need to use together, ar
 
 
 
-### Related Articles
-- [Chrome Side By Side Tabs How To Split Screen](/chrome-side-by-side-tabs-how-to-split-screen)
-- [Chrome Extensions For Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
-- [Chrome Extensions For Split Tabs](/chrome-extensions-for-split-tabs)
+## Related Articles
+- [Chrome Side by Side Tabs How to Split Screen](/chrome-side-by-side-tabs-how-to-split-screen)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [Chrome Extensions for Split Tabs](/chrome-extensions-for-split-tabs)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

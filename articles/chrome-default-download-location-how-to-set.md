@@ -92,7 +92,7 @@ Taking a few minutes to set up your download location and organize your files ca
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Default Download Location How To Change](/chrome-default-download-location-how-to-change)
-- [How To Change Default Download Location Chrome](/how-to-change-default-download-location-chrome)
-- [Chrome Default Browser How To Set On Mac](/chrome-default-browser-how-to-set-on-mac)
+## Related Articles
+- [Chrome Default Download Location How to Change](/chrome-default-download-location-how-to-change)
+- [How to Change Default Download Location Chrome](/how-to-change-default-download-location-chrome)
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)

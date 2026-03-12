@@ -91,9 +91,9 @@ Once you get comfortable with the basic reader mode, explore whether extensions 
 
 
 
-### Related Articles
-- [Chrome Dark Mode On Phone How To Enable](/chrome-dark-mode-on-phone-how-to-enable)
-- [Chrome Desktop Mode On Phone How To Use](/chrome-desktop-mode-on-phone-how-to-use)
-- [Chrome Reader Mode How To Turn On 2026](/chrome-reader-mode-how-to-turn-on-2026)
+## Related Articles
+- [Chrome Dark Mode on Phone How to Enable](/chrome-dark-mode-on-phone-how-to-enable)
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Reader Mode vs Safari Reader Comparison](/chrome-reader-mode-vs-safari-reader-comparison)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

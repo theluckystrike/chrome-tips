@@ -97,9 +97,9 @@ By understanding the strengths of each browser and utilizing the right optimizat
 
 
 
-### Related Articles
-- [Chrome Vs Safari Memory Usage Mac](/chrome-vs-safari-memory-usage-mac)
-- [Chrome Default Browser How To Set On Mac](/chrome-default-browser-how-to-set-on-mac)
-- [Chrome Iphone Vs Safari Which Is Better](/chrome-iphone-vs-safari-which-is-better)
+## Related Articles
+- [Chrome vs Safari Memory Usage Mac](/chrome-vs-safari-memory-usage-mac)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome vs Firefox Battery Life: Which Browser Saves More Power](/chrome-vs-firefox-battery-life)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

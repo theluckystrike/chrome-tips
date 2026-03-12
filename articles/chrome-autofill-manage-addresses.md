@@ -14,7 +14,7 @@ tags:
 - chrome-settings
 - form-filling
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-autofill-manage-addresses
 ---
 # How to Manage Addresses in Chrome Autofill
@@ -103,9 +103,9 @@ Take a few minutes to review your current saved addresses, remove anything outda
 
 
 
-### Related Articles
-- [Chrome Address Autofill How To Manage](/chrome-address-autofill-how-to-manage)
-- [Chrome Autofill On Phone How To Manage](/chrome-autofill-on-phone-how-to-manage)
-- [Chrome Payment Autofill How To Manage Cards](/chrome-payment-autofill-how-to-manage-cards)
+## Related Articles
+- [Chrome Address Autofill How to Manage](/chrome-address-autofill-how-to-manage)
+- [Chrome Payment Autofill How to Manage Cards](/chrome-payment-autofill-how-to-manage-cards)
+- [chrome autofill on phone how to manage](/chrome-autofill-on-phone-how-to-manage)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

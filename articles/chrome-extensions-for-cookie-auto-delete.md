@@ -60,7 +60,7 @@ The key is finding the right balance between convenience and privacy. Whitelisti
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Extensions For Auto Page Refresh](/chrome-extensions-for-auto-page-refresh)
-- [Chrome Extensions For Auto Refresh Page](/chrome-extensions-for-auto-refresh-page)
-- [Chrome Extensions For Auto Tab Closer](/chrome-extensions-for-auto-tab-closer)
+## Related Articles
+- [Chrome Extensions for Cookie Editor Manager](/chrome-extensions-for-cookie-editor-manager)
+- [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
+- [Chrome Extensions for Auto Tab Closer](/chrome-extensions-for-auto-tab-closer)

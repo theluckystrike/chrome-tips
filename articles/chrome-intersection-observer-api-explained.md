@@ -59,7 +59,7 @@ Using tools like this, along with keeping your browser updated, can help you get
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 
-### Related Articles
-- [Chrome Mutation Observer Api Explained](/chrome-mutation-observer-api-explained)
-- [Chrome Performance Observer Api Explained](/chrome-performance-observer-api-explained)
-- [Chrome Resize Observer Api Explained](/chrome-resize-observer-api-explained)
+## Related Articles
+- [chrome mutation observer api explained](/chrome-mutation-observer-api-explained)
+- [Chrome Resize Observer API Explained](/chrome-resize-observer-api-explained)
+- [Chrome Performance Observer API Explained](/chrome-performance-observer-api-explained)

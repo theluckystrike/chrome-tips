@@ -93,7 +93,7 @@ Setting up multiple profiles in Chrome is one of the best ways to organize your 
 More tips and guides available at [zovo.one](https://zovo.one).
 
 
-### Related Articles
-- [Chrome Multiple Profiles How To Switch Fast](/chrome-multiple-profiles-how-to-switch-fast)
-- [Chrome Multiple Profiles How To Switch Quickly](/chrome-multiple-profiles-how-to-switch-quickly)
-- [Chrome Multiple Users On Same Computer Setup](/chrome-multiple-users-on-same-computer-setup)
+## Related Articles
+- [Chrome Multiple Profiles How to Switch Quickly](/chrome-multiple-profiles-how-to-switch-quickly)
+- [Chrome Multiple Users Same Computer Setup](/chrome-multiple-users-same-computer-setup)
+- [Chrome Multiple Users on Same Computer Setup](/chrome-multiple-users-on-same-computer-setup)

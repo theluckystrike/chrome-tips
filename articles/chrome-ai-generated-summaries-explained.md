@@ -14,7 +14,7 @@ tags:
 - summaries
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-ai-generated-summaries-explained
 ---
 # Chrome AI Generated Summaries Explained
@@ -79,9 +79,9 @@ As Chrome continues to develop its AI capabilities, expect to see more features 
 
 
 
-### Related Articles
-- [Chrome Ai Search Suggestions Explained](/chrome-ai-search-suggestions-explained)
-- [Chrome Tab Organize Ai Feature Explained](/chrome-tab-organize-ai-feature-explained)
-- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
+## Related Articles
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

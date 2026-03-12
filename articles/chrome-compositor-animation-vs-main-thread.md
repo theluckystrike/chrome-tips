@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Chrome Compositor Animation vs Main Thread - What You Need to Know
 description: Understanding the difference between compositor-only animations and main thread animations in Chrome can help you build smoother web experiences and reduce CPU strain on your browser.
 date: 2026-01-15

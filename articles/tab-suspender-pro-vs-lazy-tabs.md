@@ -12,7 +12,39 @@ target_keyword: "tab suspender pro vs lazy tabs"
 target_extension: "tab-suspender-pro"
 word_count: 1054
 reading_time: 5
----
+competitive_data:
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: ---
 
 # Tab Suspender Pro vs Lazy Tabs: Complete 2026 Comparison
 

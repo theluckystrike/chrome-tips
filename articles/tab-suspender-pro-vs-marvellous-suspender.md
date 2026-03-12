@@ -1,6 +1,11 @@
+[2026-03-12 17:30:23] [m15]   Title too long: 67 chars (max 60)
+[2026-03-12 17:30:38] [m15]   Title shortened: "Tab Suspender Pro vs Marvellous Suspender: 2026 Comparison" (58 chars)
+[2026-03-12 17:30:38] [m15]   Description too short: 133 chars (target 150-160)
+[2026-03-12 17:30:54] [m15]   WARNING: Could not generate valid description (got 127 chars).
+[2026-03-12 17:30:54] [m15]   WARNING: Thin keyword usage: 2 occurrences (target 3-7)
 ---
 layout: default
-title: "Tab Suspender Pro vs Marvellous Suspender: Complete 2026 Comparison"
+title: "Tab Suspender Pro vs Marvellous Suspender: 2026 Comparison"
 description: "Tab Suspender Pro vs Marvellous Suspender compared on RAM savings, restore speed, and features. See which tab suspender wins in 2026."
 date: 2026-03-12
 last_modified_at: 2026-03-12

@@ -12,7 +12,7 @@ tags:
 - browser-performance
 - chrome-speed
 author: theluckystrike
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: why-is-chrome-so-much-slower-than-it-used-to-be
 ---
 

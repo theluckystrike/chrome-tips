@@ -13,7 +13,7 @@ tags:
 - computer-performance
 - chrome-fixes
 author: theluckystrike
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: why-is-chrome-so-slow-on-my-computer
 ---
 

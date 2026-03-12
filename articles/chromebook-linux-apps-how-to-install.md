@@ -15,7 +15,7 @@ tags:
 - installation
 - tutorial
 author: theluckystrike
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chromebook-linux-apps-how-to-install
 ---
 

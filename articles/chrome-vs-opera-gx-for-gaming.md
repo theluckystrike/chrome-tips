@@ -14,7 +14,7 @@ tags:
 - browser-gaming
 - opera-gx
 author: theluckystrike
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-vs-opera-gx-for-gaming
 ---
 

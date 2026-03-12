@@ -11,7 +11,7 @@ tags:
 - browser-optimization
 - storage
 author: theluckystrike
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-clear-chrome-cache-properly
 ---
 

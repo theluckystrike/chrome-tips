@@ -13,7 +13,7 @@ tags:
 - browser-fix
 - chrome-slow-after-update
 author: theluckystrike
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-update-made-it-slower-fix
 ---
 

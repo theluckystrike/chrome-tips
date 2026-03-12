@@ -11,7 +11,7 @@ tags:
 - low-ram
 - laptop-optimization
 author: theluckystrike
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: how-to-speed-up-chrome-on-2gb-ram-laptop
 ---
 

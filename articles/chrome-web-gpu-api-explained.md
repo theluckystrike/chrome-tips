@@ -14,7 +14,7 @@ tags:
 - browser-graphics
 - chrome-performance
 author: theluckystrike
-last_modified_at: "%Y->-"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-web-gpu-api-explained
 ---
 

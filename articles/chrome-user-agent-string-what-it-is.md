@@ -3,7 +3,7 @@ layout: post
 title: 'Chrome User Agent String: What It Is and How It Works'
 description: Learn what a Chrome user agent string is, what information it contains,
   and why it matters for your browsing experience.
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3)"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-user-agent-string-what-it-is
 ---
 

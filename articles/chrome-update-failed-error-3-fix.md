@@ -3,7 +3,7 @@ layout: post
 title: Chrome Update Failed Error 3 Fix
 description: Stuck on Chrome update failed error 3? Here is what causes it and how
   to fix it with simple steps anyone can try.
-last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3)"
+last_modified_at: "%Y->- (HEAD -> qa/round3-batch-3, origin/qa/round3-batch-3)"
 permalink: chrome-update-failed-error-3-fix
 ---
 

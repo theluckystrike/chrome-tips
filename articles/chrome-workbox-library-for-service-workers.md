@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Chrome Workbox Library for Service Workers"
-description: "Learn how Chrome Workbox simplifies service worker creation for faster, offline-capable websites and extensions."
+title: Chrome Workbox Library for Service Workers
+description: Learn how Chrome Workbox simplifies service worker creation for faster,
+  offline-capable websites and extensions.
+last_modified_at: "%Y->-"
+permalink: chrome-workbox-library-for-service-workers
 ---
 
 If you have ever searched for chrome workbox library for service workers, you might have been looking for a way to make your websites load faster, work offline, or deliver a better experience to your visitors. The Workbox library is Google's answer to making service workers easier to build and manage, and it has become an essential tool for anyone creating modern web experiences.

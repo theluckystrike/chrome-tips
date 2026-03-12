@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Chrome vs Samsung Internet on Android"
-description: "A practical comparison of Chrome and Samsung Internet browsers on Android to help you choose the best one for your needs."
+title: Chrome vs Samsung Internet on Android
+description: A practical comparison of Chrome and Samsung Internet browsers on Android
+  to help you choose the best one for your needs.
+last_modified_at: "%Y->-"
+permalink: chrome-vs-samsung-internet-on-android
 ---
 
 If you are trying to decide between Chrome vs Samsung Internet on Android, you have probably wondered which browser will give you the best experience on your phone. Both browsers have their strengths and weaknesses, and the right choice depends on what matters most to you. Let us break down the key differences in a way that helps you make an informed decision.

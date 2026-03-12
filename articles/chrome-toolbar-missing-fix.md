@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Toolbar Missing Fix"
-description: "Your Chrome toolbar disappeared? Learn why it happens and how to bring it back with these simple solutions anyone can try."
+title: Chrome Toolbar Missing Fix
+description: Your Chrome toolbar disappeared? Learn why it happens and how to bring
+  it back with these simple solutions anyone can try.
 date: 2026-01-15
-categories: [troubleshooting, interface]
-tags: [chrome-toolbar, chrome-fix, browser-problem, chrome-interface]
+categories:
+- troubleshooting
+- interface
+tags:
+- chrome-toolbar
+- chrome-fix
+- browser-problem
+- chrome-interface
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-toolbar-missing-fix
 ---
 
 # Chrome Toolbar Missing Fix

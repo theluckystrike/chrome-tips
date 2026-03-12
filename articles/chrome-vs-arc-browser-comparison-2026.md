@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Chrome vs Arc Browser Comparison 2026"
-description: "A practical comparison of Chrome and Arc browsers in 2026, helping you decide which fits your workflow better."
+title: Chrome vs Arc Browser Comparison 2026
+description: A practical comparison of Chrome and Arc browsers in 2026, helping you
+  decide which fits your workflow better.
+last_modified_at: "%Y->-"
+permalink: chrome-vs-arc-browser-comparison-2026
 ---
 
 If you are looking for a chrome vs arc browser comparison 2026, you might be wondering whether to stick with the familiar Chrome or try something new with Arc. Both browsers have their strengths, and understanding the differences can help you make the right choice for your needs.

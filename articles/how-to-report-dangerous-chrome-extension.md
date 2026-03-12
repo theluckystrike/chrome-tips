@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "How to Report Dangerous Chrome Extension"
-description: "Learn how to identify and report dangerous Chrome extensions to protect yourself and others from malicious browser extensions."
+title: How to Report Dangerous Chrome Extension
+description: Learn how to identify and report dangerous Chrome extensions to protect
+  yourself and others from malicious browser extensions.
+last_modified_at: "%Y->-"
+permalink: how-to-report-dangerous-chrome-extension
 ---
 
 How to report dangerous Chrome extension is something every Chrome user should know. Browser extensions have become a big part of how we use the web, helping us block ads, manage tabs, save passwords, and much more. But not all extensions are trustworthy. Some may track your browsing, steal personal information, inject unwanted ads, or even contain malware. The good news is that you can do something about it. Google provides ways to report extensions that behave suspiciously or cause harm, and your report can help protect millions of other users.

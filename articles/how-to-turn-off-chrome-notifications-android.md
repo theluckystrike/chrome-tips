@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "How to Turn Off Chrome Notifications on Android"
-description: "Learn how to stop unwanted Chrome notifications on your Android phone with simple steps."
+title: How to Turn Off Chrome Notifications on Android
+description: Learn how to stop unwanted Chrome notifications on your Android phone
+  with simple steps.
+last_modified_at: "%Y->-"
+permalink: how-to-turn-off-chrome-notifications-android
 ---
 
 If you are wondering how to turn off chrome notifications android, you are not alone. Many Android users find themselves constantly interrupted by push notifications from websites they visited once and never wanted to hear from again. These notifications can be annoying, distracting, and sometimes even concerning when they pop up at unexpected times. The good news is that you have full control over what notifications appear on your Android device, and turning them off is straightforward once you know where to look.

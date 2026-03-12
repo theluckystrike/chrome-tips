@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Chrome Web OTP API Explained"
-description: "Learn how Chrome Web OTP API works, why it makes verifying your phone number easier, and what it means for your browsing."
+title: Chrome Web OTP API Explained
+description: Learn how Chrome Web OTP API works, why it makes verifying your phone
+  number easier, and what it means for your browsing.
+last_modified_at: "%Y->-"
+permalink: chrome-web-otp-api-explained
 ---
 
 Chrome web otp api explained is a topic that comes up when people try to verify their phone number on websites and wonder why sometimes the code just appears automatically while other times they have to copy and paste it manually. If you have noticed this difference and wanted to understand what is happening behind the scenes, this guide will walk you through everything you need to know.

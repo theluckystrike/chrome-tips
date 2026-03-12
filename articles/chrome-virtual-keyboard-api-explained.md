@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Chrome Virtual Keyboard API Explained"
-description: "Learn what the Chrome virtual keyboard API is, how it works, and how it improves your web experience on tablets and mobile devices."
+title: Chrome Virtual Keyboard API Explained
+description: Learn what the Chrome virtual keyboard API is, how it works, and how
+  it improves your web experience on tablets and mobile devices.
+last_modified_at: "%Y->-"
+permalink: chrome-virtual-keyboard-api-explained
 ---
 
 Chrome virtual keyboard api explained is something many people search for when they notice their screen behaving strangely on their tablet or touchscreen laptop. If you have ever been typing in a text field on a website and noticed that the content you were typing got pushed off the screen, or you could not see what you were writing because the keyboard was covering it, then you have experienced the problem that the virtual keyboard API was designed to solve.

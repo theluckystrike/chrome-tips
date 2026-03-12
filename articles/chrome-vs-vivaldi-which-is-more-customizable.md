@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Chrome vs Vivaldi: Which Is More Customizable"
-description: "A practical comparison of Chrome and Vivaldi customization options to help you choose the browser that fits your needs."
+title: 'Chrome vs Vivaldi: Which Is More Customizable'
+description: A practical comparison of Chrome and Vivaldi customization options to
+  help you choose the browser that fits your needs.
+last_modified_at: "%Y->-"
+permalink: chrome-vs-vivaldi-which-is-more-customizable
 ---
 
 If you are researching chrome vs vivaldi which is more customizable, you have likely hit a wall trying to make your browser feel truly yours. Both browsers offer powerful features, but they approach customization in very different ways. Understanding these differences can help you decide which browser will give you the freedom you want.

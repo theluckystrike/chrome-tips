@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome topics api explained simply"
-description: "Learn what Chrome Topics API is, why it matters for your privacy, and how it affects the ads you see online."
+title: chrome topics api explained simply
+description: Learn what Chrome Topics API is, why it matters for your privacy, and
+  how it affects the ads you see online.
 date: 2026-01-15
-categories: [privacy, browser, advertising]
-tags: [chrome-topics-api, privacy, advertising, browser]
+categories:
+- privacy
+- browser
+- advertising
+tags:
+- chrome-topics-api
+- privacy
+- advertising
+- browser
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-topics-api-explained-simply
 ---
 
 # Chrome Topics API Explained Simply

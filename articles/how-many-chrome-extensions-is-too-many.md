@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "How Many Chrome Extensions Is Too Many"
-description: "Wondering how many Chrome extensions is too many? Here is a practical guide to finding the right balance for your browser."
+title: How Many Chrome Extensions Is Too Many
+description: Wondering how many Chrome extensions is too many? Here is a practical
+  guide to finding the right balance for your browser.
+last_modified_at: "%Y->-"
+permalink: how-many-chrome-extensions-is-too-many
 ---
 
 How many Chrome extensions is too many? This is a question many Chrome users find themselves asking, especially when their browser starts feeling slower than usual. If you have been adding extensions to Chrome over time without really thinking about whether you need them all, you are not alone. Many people accumulate dozens of extensions without realizing the impact they can have on browser performance.

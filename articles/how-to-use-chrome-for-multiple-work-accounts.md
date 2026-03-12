@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "How to Use Chrome for Multiple Work Accounts"
-description: "Learn how to manage multiple work accounts in Chrome using profiles. Keep your professional identities separate and organized."
+title: How to Use Chrome for Multiple Work Accounts
+description: Learn how to manage multiple work accounts in Chrome using profiles.
+  Keep your professional identities separate and organized.
+last_modified_at: "%Y->-"
+permalink: how-to-use-chrome-for-multiple-work-accounts
 ---
 
 If you have ever wondered how to use Chrome for multiple work accounts, you are not alone. Many people today work for more than one company, manage freelance clients on the side, or handle different business roles within the same organization. Trying to juggle all of these accounts in a single browser window leads to constant logging out and logging back in, accidentally posting to the wrong account, and a general sense of chaos. Fortunately, Chrome offers a built-in feature called profiles that makes handling multiple work accounts surprisingly simple.

@@ -13,8 +13,8 @@ tags:
 - browser-fix
 - connection-error
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /chrome-this-site-cant-be-reached-fix/
+last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+permalink: chrome-this-site-cant-be-reached-fix
 ---
 
 # Chrome This Site Cant Be Reached Fix

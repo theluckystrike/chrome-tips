@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Chrome Web Vitals What They Mean"
-description: "Chrome web vitals are metrics that measure user experience. Learn what they mean and how to improve your site's performance."
+title: Chrome Web Vitals What They Mean
+description: Chrome web vitals are metrics that measure user experience. Learn what
+  they mean and how to improve your site's performance.
+last_modified_at: "%Y->-"
+permalink: chrome-web-vitals-what-they-mean
 ---
 
 Chrome web vitals what they mean is a question that comes up a lot, especially if you have ever wondered why certain websites feel slow or sluggish while others load instantly. Google created web vitals as a way to measure how good the user experience is on any given website. These metrics matter because they affect not only how quickly pages load but also how smoothly you can interact with them.

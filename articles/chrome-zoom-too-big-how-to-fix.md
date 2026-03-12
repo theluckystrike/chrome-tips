@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Chrome Zoom Too Big How to Fix"
-description: "Is Chrome zoom too big? Learn how to reset Chrome zoom settings and fix oversized web pages."
+title: Chrome Zoom Too Big How to Fix
+description: Is Chrome zoom too big? Learn how to reset Chrome zoom settings and fix
+  oversized web pages.
+last_modified_at: "%Y->-"
+permalink: chrome-zoom-too-big-how-to-fix
 ---
 
 Is your Chrome zoom stuck at a magnification level that makes websites look huge and hard to navigate? Chrome zoom too big how to fix is a common question, and the good news is that resetting your zoom is simple once you know where to look. This happens to everyone, whether it is from an accidental keyboard shortcut, a browser update that changed your settings, or someone else using your computer and leaving the zoom at an unusual level.

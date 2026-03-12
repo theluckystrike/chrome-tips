@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "How to Reset Chrome to Default Settings"
-description: "Learn how to reset Chrome to default settings to fix browser issues, remove unwanted changes, and start fresh."
+title: How to Reset Chrome to Default Settings
+description: Learn how to reset Chrome to default settings to fix browser issues,
+  remove unwanted changes, and start fresh.
+last_modified_at: "%Y->-"
+permalink: how-to-reset-chrome-to-default-settings
 ---
 
 How to reset Chrome to default settings is a question that comes up when your browser starts acting up. Maybe pages are loading slowly, extensions are causing problems, or your settings feel cluttered and messy. Whatever the reason, resetting Chrome can give you a clean slate and often fixes issues that seem impossible to solve otherwise.

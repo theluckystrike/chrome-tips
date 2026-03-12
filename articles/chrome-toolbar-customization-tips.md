@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Toolbar Customization Tips"
-description: "Learn how to customize your Chrome toolbar for a more productive browsing experience with these simple tips."
+title: Chrome Toolbar Customization Tips
+description: Learn how to customize your Chrome toolbar for a more productive browsing
+  experience with these simple tips.
 date: 2026-01-15
-categories: [tips, chrome]
-tags: [chrome, browser, toolbar, customization, productivity]
+categories:
+- tips
+- chrome
+tags:
+- chrome
+- browser
+- toolbar
+- customization
+- productivity
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-toolbar-customization-tips
 ---
 
 # Chrome Toolbar Customization Tips

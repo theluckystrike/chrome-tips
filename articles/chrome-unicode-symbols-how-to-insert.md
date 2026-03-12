@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Chrome Unicode Symbols How to Insert
-description: Learn how to insert Unicode symbols in Chrome using character maps, keyboard shortcuts, copy-paste methods, and extensions.
+description: Learn how to insert Unicode symbols in Chrome using character maps, keyboard
+  shortcuts, copy-paste methods, and extensions.
+last_modified_at: "%Y->-"
+permalink: chrome-unicode-symbols-how-to-insert
 ---
 
 If you have ever needed to insert special characters, emojis, or symbols while browsing in Chrome, you might have wondered how to do it easily. Whether you want to add a heart symbol, a foreign language character, an arrow, or a mathematical sign, finding the right way to insert Unicode symbols in Chrome can feel confusing at first. The good news is that there are several simple methods you can use right away, and none of them require any technical knowledge.

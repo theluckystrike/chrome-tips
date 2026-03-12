@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "chrome topics api privacy sandbox explained"
-description: "Understand Chrome Topics API and Privacy Sandbox. Learn what they mean for your browsing privacy and how to control them."
+title: chrome topics api privacy sandbox explained
+description: Understand Chrome Topics API and Privacy Sandbox. Learn what they mean
+  for your browsing privacy and how to control them.
 date: 2026-01-20
-categories: [privacy, chrome]
-tags: [chrome-topics-api, privacy-sandbox, chrome-privacy, tracking]
+categories:
+- privacy
+- chrome
+tags:
+- chrome-topics-api
+- privacy-sandbox
+- chrome-privacy
+- tracking
 author: theluckystrike
+last_modified_at: "%Y->-"
+permalink: chrome-topics-api-privacy-sandbox-explained
 ---
 
 If you have ever searched for chrome topics api privacy sandbox explained, you are not alone. Many Chrome users are confused about what these terms mean and how they affect their browsing privacy. This guide will break down what the Chrome Topics API is, why Google created it, what the Privacy Sandbox means for you, and most importantly, what you can do about it.

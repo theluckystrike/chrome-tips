@@ -1,13 +1,24 @@
 ---
 layout: post
-title: "chrome accessibility shortcuts for screen reader"
-description: "Learn essential Chrome accessibility shortcuts for screen reader users to navigate faster and browse more efficiently."
+title: Chrome Accessibility Shortcuts For Screen Reader
+description: Learn essential Chrome accessibility shortcuts for screen reader users
+  to navigate faster and browse more efficiently. Learn how to optimize your browser
+  tod...
 date: 2026-01-15
-categories: [accessibility, chrome, screen-reader]
-tags: [accessibility, chrome, screen-reader, keyboard-shortcuts, browsing]
+categories:
+- accessibility
+- chrome
+- screen-reader
+tags:
+- accessibility
+- chrome
+- screen-reader
+- keyboard-shortcuts
+- browsing
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-accessibility-shortcuts-for-screen-reader
 ---
-
 # Chrome Accessibility Shortcuts for Screen Reader
 
 If you are looking for chrome accessibility shortcuts for screen reader users, you have come to the right place. Many people rely on screen readers to navigate the web, and knowing the right keyboard shortcuts can dramatically improve your browsing experience and make you more productive online.

@@ -1,24 +1,14 @@
 ---
 layout: post
-title: How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost
-description: Getting ERR_CONNECTION_REFUSED when accessing localhost in Chrome? Learn
-  practical solutions to fix this common development error, from checking server statu...
+title: "How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost"
+description: "Getting ERR_CONNECTION_REFUSED when accessing localhost in Chrome? Learn practical solutions to fix this common development error, from checking server statu..."
 date: 2026-01-15
-categories:
-- chrome
-- localhost
-- development
-- troubleshooting
-tags:
-- chrome-error
-- localhost-fix
-- web-development
-- browser-troubleshooting
-author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-11
 permalink: chrome-err-connection-refused-localhost-fix
+categories: [chrome, localhost, development, troubleshooting]
+tags: [chrome-error, localhost-fix, web-development, browser-troubleshooting]
+author: theluckystrike
 ---
-
 # How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost
 
 If you're a web developer, you've probably seen this error at some point: **ERR_CONNECTION_REFUSED** appearing in your Chrome browser when trying to access localhost. It can be frustrating, especially when you're sure your development server should be running. The good news is this error is usually straightforward to fix, and in this guide, I'll walk you through every practical solution.

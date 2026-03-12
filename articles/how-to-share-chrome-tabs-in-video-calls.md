@@ -1,14 +1,11 @@
 ---
 layout: post
-title: How to Share Chrome Tabs in Video Calls
-description: Learn the easy methods to share specific Chrome tabs during video calls
-  with colleagues, friends, or family. This guide on How to Share Chrome Tabs in Video
-  ...
-last_modified_at: '2026-03-12'
+title: "How to Share Chrome Tabs in Video Calls"
+description: "Learn the easy methods to share specific Chrome tabs during video calls with colleagues, friends, or family. Check out our complete 2026 guide for more detai..."
+date: 2026-03-12
+last_modified_at: 2026-03-12
 permalink: how-to-share-chrome-tabs-in-video-calls
-date: '2026-03-12'
 ---
-
 How to share Chrome tabs in video calls is a common question for anyone who has tried to show something to others during a virtual meeting. Whether you want to share a webpage, demonstrate a website, or walk someone through an online resource, knowing how to share just one tab instead of your entire screen makes a big difference. It keeps your other tabs private and lets you focus on exactly what you want to show.
 
 Let me walk you through why this can be tricky, what your options are, and how to make tab sharing work smoothly.

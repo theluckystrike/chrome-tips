@@ -1,24 +1,14 @@
 ---
 layout: post
-title: chromebook not connecting to wifi fix
-description: Your Chromebook won't connect to WiFi? Try these practical solutions
-  to get back online. From simple restarts to network resets, we cover what works.
-  This gu...
+title: "chromebook not connecting to wifi fix"
+description: "Your Chromebook won't connect to WiFi? Try these practical solutions to get back online. From simple restarts to network resets, we cover what works. Check o..."
 date: 2026-03-10
-categories:
-- troubleshooting
-- chromebook
-tags:
-- chromebook
-- wifi
-- fix
-- troubleshooting
-- network
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chromebook-not-connecting-to-wifi-fix
+categories: [troubleshooting, chromebook]
+tags: [chromebook, wifi, fix, troubleshooting, network]
+author: theluckystrike
 ---
-
 # Chromebook Not Connecting to WiFi Fix
 
 If you have been searching for chromebook not connecting to wifi fix, you know how annoying it is when your Chromebook refuses to join your wireless network. You might be trying to finish some work, watch a video, or just browse the internet, but without WiFi, your Chromebook is basically a fancy paperweight. The good news is that this is usually something you can fix yourself, and we will walk you through the most effective solutions.

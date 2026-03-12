@@ -1,24 +1,14 @@
 ---
-layout: default
-title: Chrome Custom Search Engines Guide
-description: Master Chrome custom search engines to boost productivity. Learn how
-  to add search engines, create keyword shortcuts, set up site-specific search, and
-  change...
-date: '2025-12-15'
-last_modified_at: '2026-03-11'
+layout: post
+title: "Chrome Custom Search Engines Guide"
+description: "Master Chrome custom search engines to boost productivity. Learn how Check out our complete 2026 guide for more details and professional advice on managing y..."
+date: 2025-12-15
+last_modified_at: 2026-03-12
 permalink: chrome-search-engines-custom
-categories:
-- productivity
-- browser-tips
-tags:
-- chrome-search-engines
-- custom-search
-- keyword-shortcuts
-- site-search
-- browser-productivity
+categories: 
+tags: 
 author: theluckystrike
 ---
-
 # Chrome Custom Search Engines Guide
 
 If you use Chrome as your primary browser, you are sitting on a powerful productivity tool that most people never fully utilize. Custom search engines in Chrome allow you to search any website directly from your address bar, create quick shortcuts for frequently visited sites, and streamline your workflow in ways that can save you hours every week. This comprehensive guide will walk you through everything you need to know about Chrome custom search engines, from basic setup to advanced techniques that will transform how you browse the internet.

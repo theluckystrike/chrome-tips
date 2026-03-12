@@ -1,24 +1,14 @@
 ---
 layout: post
-title: Chrome DevTools Workspaces Guide
-description: Master Chrome DevTools Workspaces for folder mapping, live editing, persistence,
-  and file system access. Optimize your development workflow today. This guide...
+title: "Chrome DevTools Workspaces Guide"
+description: "Master Chrome DevTools Workspaces for folder mapping, live editing, persistence, and file system access. Optimize your development workflow today. Check out ..."
 date: 2026-03-10
-categories:
-- development
-- chrome-devtools
-- productivity
-tags:
-- chrome-devtools
-- workspaces
-- web-development
-- debugging
-- live-editing
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-workspaces-guide
+categories: [development, chrome-devtools, productivity]
+tags: [chrome-devtools, workspaces, web-development, debugging, live-editing]
+author: theluckystrike
 ---
-
 # Chrome DevTools Workspaces Guide
 
 Chrome DevTools Workspaces is one of the most powerful yet underutilized features in Chrome's developer toolkit. If you find yourself constantly switching between your code editor and browser, manually refreshing pages, and losing changes when you do, Workspaces might be exactly what you need to streamline your workflow. This guide will walk you through everything you need to know about setting up and using Chrome DevTools Workspaces effectively.

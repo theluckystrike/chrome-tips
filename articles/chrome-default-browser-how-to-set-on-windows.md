@@ -1,23 +1,14 @@
 ---
 layout: post
-title: chrome default browser how to set on windows
-description: Learn how to set Chrome as your default browser on Windows. Simple steps
-  to make Chrome open links automatically in Windows 10 and 11. Discover essential
-  ins...
+title: "chrome default browser how to set on windows"
+description: "Learn how to set Chrome as your default browser on Windows. Simple steps to make Chrome open links automatically in Windows 10 and 11. Check out our complete..."
 date: 2026-03-09
-categories:
-- settings
-- getting-started
-tags:
-- default-browser
-- windows-settings
-- chrome-setup
-- browser-configuration
-author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-09
 permalink: chrome-default-browser-how-to-set-on-windows
+categories: [settings, getting-started]
+tags: [default-browser, windows-settings, chrome-setup, browser-configuration]
+author: theluckystrike
 ---
-
 # Chrome Default Browser How to Set on Windows
 
 If you have ever searched for chrome default browser how to set on windows, you are definitely not alone. Many Windows users install Google Chrome but find that links from their email, documents, or other apps still open in Microsoft Edge or whatever browser came with their computer. This can be annoying when you prefer Chrome for its speed, extensions, and sync features across your devices. Setting Chrome as your default browser on Windows is a straightforward process, and this guide will walk you through it step by step.

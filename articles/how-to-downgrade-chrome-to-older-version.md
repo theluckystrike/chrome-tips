@@ -1,22 +1,14 @@
 ---
-layout: default
-title: How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)
-description: Can you roll back Chrome to a previous version? The honest answer about
-  downgrading Chrome, the risks involved, and better alternatives. This guide on How
-  to...
+layout: post
+title: "How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)"
+description: "Can you roll back Chrome to a previous version? The honest answer about downgrading Chrome, the risks involved, and better alternatives. Check out our comple..."
 date: 2025-03-01
-categories:
-- troubleshooting
-tags:
-- chrome-downgrade
-- older-chrome-version
-- chrome-rollback
-- browser-version
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: how-to-downgrade-chrome-to-older-version
+categories: [troubleshooting]
+tags: [chrome-downgrade, older-chrome-version, chrome-rollback, browser-version]
+author: theluckystrike
 ---
-
 # How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)
 
 A Chrome update broke something and you want to go back to the version that worked. It's a natural instinct. Let's talk about whether you can, whether you should, and what your better options are.

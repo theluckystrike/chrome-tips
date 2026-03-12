@@ -1,23 +1,14 @@
 ---
 layout: post
-title: Chrome Text to Speech Built In Features
-description: Discover Chrome's built-in text to speech features that can read web
-  pages aloud. Learn how to use them without extensions. This guide on Chrome Text
-  to Spee...
+title: "Chrome Text to Speech Built In Features"
+description: "Discover Chrome's built-in text to speech features that can read web pages aloud. Learn how to use them without extensions. Check out our complete 2026 guide..."
 date: 2026-03-10
-categories:
-- accessibility
-- tips
-tags:
-- chrome
-- text-to-speech
-- accessibility
-- built-in-feature
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-text-to-speech-built-in-features
+categories: [accessibility, tips]
+tags: [chrome, text-to-speech, accessibility, built-in-feature]
+author: theluckystrike
 ---
-
 # Chrome Text to Speech Built In Features
 
 If you are searching for chrome text to speech built in features, you might be surprised to learn that Chrome offers several ways to have text read aloud without installing any additional software. Many people assume they need to download extensions to get this functionality, but the browser already includes features that can help.

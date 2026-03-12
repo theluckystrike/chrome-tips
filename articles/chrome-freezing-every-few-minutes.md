@@ -1,22 +1,14 @@
 ---
-layout: default
-title: Chrome Freezing Every Few Minutes? Here's What to Do
-description: Is Chrome freezing every few minutes? This guide walks you through the
-  most common causes and proven solutions to get your browser running smoothly again.
+layout: post
+title: "Chrome Freezing Every Few Minutes? Here's What to Do"
+description: "Is Chrome freezing every few minutes? This guide walks you through the most common causes and proven solutions to get your browser running smoothly again."
 date: 2026-01-15
-categories:
-- performance
-- troubleshooting
-tags:
-- chrome-freezing
-- browser-freeze
-- chrome-slow
-- computer-performance
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-freezing-every-few-minutes
+categories: [performance, troubleshooting]
+tags: [chrome-freezing, browser-freeze, chrome-slow, computer-performance]
+author: theluckystrike
 ---
-
 # Chrome Freezing Every Few Minutes? Here's What to Do
 
 Nothing is more frustrating than being in the middle of something important when your browser suddenly freezes. If Chrome keeps freezing every few minutes, you don't have to live with it. There are clear causes and straightforward fixes you can try right now.

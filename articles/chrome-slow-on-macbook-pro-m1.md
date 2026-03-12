@@ -1,24 +1,14 @@
 ---
-layout: default
-title: Chrome Slow on MacBook Pro M1? Here's How to Fix It
-description: Is Chrome running slow on your MacBook Pro M1? Practical fixes for lag,
-  high memory usage, and performance issues on Apple Silicon. Discover essential insigh...
+layout: post
+title: "Chrome Slow on MacBook Pro M1? Here's How to Fix It"
+description: "Is Chrome running slow on your MacBook Pro M1? Practical fixes for lag, high memory usage, and performance issues on Apple Silicon. Check out our complete 20..."
 date: 2025-02-18
-categories:
-- performance
-- mac
-- m1
-tags:
-- chrome-slow
-- macbook-pro
-- m1
-- apple-silicon
-- browser-speed
-author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-slow-on-macbook-pro-m1
+categories: [performance, mac, m1]
+tags: [chrome-slow, macbook-pro, m1, apple-silicon, browser-speed]
+author: theluckystrike
 ---
-
 # Chrome Slow on MacBook Pro M1? Here's How to Fix It
 
 Your MacBook Pro M1 is a powerful machine — but even the fastest hardware can feel sluggish when Chrome isn't running efficiently. The good news is that most Chrome performance issues on M1 Macs are solvable with a few targeted adjustments.

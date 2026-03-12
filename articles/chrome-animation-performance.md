@@ -1,26 +1,14 @@
 ---
-layout: default
-title: Chrome Animation Performance Guide
-description: Master Chrome animation performance with this comprehensive guide covering
-  requestAnimationFrame, will-change, composite layers, and jank prevention techniques.
+layout: post
+title: "Chrome Animation Performance Guide"
+description: "Master Chrome animation performance with this comprehensive guide covering Check out our complete 2026 guide for more details and professional advice on mana..."
 date: 2026-01-20
-categories:
-- performance
-- chrome
-- web-development
-tags:
-- chrome
-- animation-performance
-- requestAnimationFrame
-- will-change
-- composite-layers
-- jank
-- browser-optimization
-author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-animation-performance
+categories: 
+tags: 
+author: theluckystrike
 ---
-
 # Chrome Animation Performance Guide
 
 Web animation has become an essential part of modern user interfaces. From subtle hover effects to complex interactive experiences, animations help make the web feel alive and responsive. However, poorly optimized animations can have the opposite effect, making your website feel sluggish and frustrating users. This guide will walk you through the fundamentals of Chrome animation performance, helping you create smooth, buttery-smooth animations that delight users rather than annoy them.

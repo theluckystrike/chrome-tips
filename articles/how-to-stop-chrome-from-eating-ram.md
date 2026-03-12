@@ -1,23 +1,14 @@
 ---
-layout: default
-title: How to Stop Chrome from Eating Your RAM
-description: Chrome using too much memory? Learn practical tips to reduce Chrome's
-  RAM usage and make your computer feel faster and more responsive. This guide on
-  How to ...
+layout: post
+title: "How to Stop Chrome from Eating Your RAM"
+description: "Chrome using too much memory? Learn practical tips to reduce Chrome's RAM usage and make your computer feel faster and more responsive. Check out our complet..."
 date: 2026-01-15
-categories:
-- performance
-- memory
-tags:
-- chrome-ram
-- chrome-memory
-- ram-usage
-- computer-slow
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: how-to-stop-chrome-from-eating-ram
+categories: [performance, memory]
+tags: [chrome-ram, chrome-memory, ram-usage, computer-slow]
+author: theluckystrike
 ---
-
 # How to Stop Chrome from Eating Your RAM
 
 Chrome is notorious for using a lot of memory. If you've ever looked at your task manager and seen Chrome using several gigabytes of RAM, you're not alone. Here's how to take control of Chrome's memory usage.

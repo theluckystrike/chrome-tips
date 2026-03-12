@@ -1,25 +1,14 @@
 ---
 layout: post
-title: Chrome DNS Over HTTPS How to Enable
-description: Learn how to enable DNS over HTTPS in Chrome to improve your privacy
-  and security while browsing. Simple steps anyone can follow. Discover essential
-  insights...
+title: "Chrome DNS Over HTTPS How to Enable"
+description: "Learn how to enable DNS over HTTPS in Chrome to improve your privacy and security while browsing. Simple steps anyone can follow. Check out our complete 2026..."
 date: 2026-03-09
-categories:
-- privacy
-- security
-- network
-tags:
-- dns-over-https
-- chrome-privacy
-- secure-browsing
-- https-dns
-- browser-security
-author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-09
 permalink: chrome-dns-over-https-how-to-enable
+categories: [privacy, security, network]
+tags: [dns-over-https, chrome-privacy, secure-browsing, https-dns, browser-security]
+author: theluckystrike
 ---
-
 # Chrome DNS Over HTTPS How to Enable
 
 If you have ever searched for "chrome dns over https how to enable," you probably want to make your browsing more private and secure. Many people are concerned about their internet service providers being able to see every website they visit. DNS over HTTPS, sometimes called DoH, is a technology that helps keep your browsing more private by encrypting the requests your browser makes to find websites.

@@ -1,24 +1,14 @@
 ---
 layout: post
-title: How to Limit Chrome Memory Usage on Windows
-description: Learn practical ways to reduce Chrome memory usage on Windows and keep
-  your browser running smoothly without upgrading your PC. This guide on How to Limit
-  Ch...
+title: "How to Limit Chrome Memory Usage on Windows"
+description: "Learn practical ways to reduce Chrome memory usage on Windows and keep your browser running smoothly without upgrading your PC. Check out our complete 2026 g..."
 date: 2025-02-19
-categories:
-- performance
-- memory
-- windows
-tags:
-- chrome-memory
-- windows-memory
-- browser-performance
-- ram-usage
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: how-to-limit-chrome-memory-usage-windows
+categories: [performance, memory, windows]
+tags: [chrome-memory, windows-memory, browser-performance, ram-usage]
+author: theluckystrike
 ---
-
 # How to Limit Chrome Memory Usage on Windows
 
 If Chrome is eating up your Windows computer's memory and making everything else run slowly, you are not alone. This is one of the most common complaints Windows users have with Chrome, and the good news is there are several things you can do about it. You do not need to be tech-savvy to fix this. Let me walk you through what causes the problem and how you can limit Chrome memory usage on Windows.

@@ -1,22 +1,14 @@
 ---
 layout: post
-title: Chromebook Storage Full How to Free Space
-description: Running out of room on your Chromebook? This guide shows simple ways
-  to free up storage space and get your device running smoothly again. This guide
-  on Chrom...
+title: "Chromebook Storage Full How to Free Space"
+description: "Running out of room on your Chromebook? This guide shows simple ways to free up storage space and get your device running smoothly again. Check out our compl..."
 date: 2025-02-20
-categories:
-- chromebook
-- troubleshooting
-tags:
-- chromebook-storage
-- chromebook-free-space
-- chrome-os
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chromebook-storage-full-how-to-free-space
+categories: [chromebook, troubleshooting]
+tags: [chromebook-storage, chromebook-free-space, chrome-os]
+author: theluckystrike
 ---
-
 # Chromebook Storage Full How to Free Space
 
 If you have been searching for "chromebook storage full how to free space," you are probably frustrated with that annoying message popping up or your device slowing down when you try to download something new. I understand how annoying it can be when you need to finish a project or download an important file but your Chromebook keeps telling you there is no room left. Let me walk you through some practical ways to free up space on your Chromebook.

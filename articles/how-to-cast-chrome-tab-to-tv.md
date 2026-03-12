@@ -1,22 +1,14 @@
 ---
 layout: post
-title: How to Cast Chrome Tab to TV
-description: Learn how to cast Chrome tab to TV with this easy guide. Cast your browser
-  window to any television and enjoy your favorite content on a bigger screen.
+title: "How to Cast Chrome Tab to TV"
+description: "Learn how to cast Chrome tab to TV with this easy guide. Cast your browser window to any television and enjoy your favorite content on a bigger screen."
 date: 2026-01-15
-categories:
-- casting
-- streaming
-- tv
-tags:
-- chrome-cast
-- screen-mirroring
-- tv-streaming
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: how-to-cast-chrome-tab-to-tv
+categories: [casting, streaming, tv]
+tags: [chrome-cast, screen-mirroring, tv-streaming]
+author: theluckystrike
 ---
-
 # How to Cast Chrome Tab to TV
 
 If you have ever wanted to know how to cast Chrome tab to TV, you are not alone. Many people want to share what they are watching, browsing, or working on from their computer onto a bigger television screen. Whether you want to show photos to family, watch a video with friends, or give a presentation, casting your Chrome tab to a TV is a useful skill that anyone can learn.

@@ -1,22 +1,14 @@
 ---
 layout: post
-title: How to Reduce Chrome Memory Usage
-description: Is Chrome using too much memory? This guide shows you practical ways
-  to reduce Chrome memory usage and make your browser run smoother. This guide on
-  How to R...
+title: "How to Reduce Chrome Memory Usage"
+description: "Is Chrome using too much memory? This guide shows you practical ways to reduce Chrome memory usage and make your browser run smoother. Check out our complete..."
 date: 2026-01-15
-categories:
-- performance
-- memory
-tags:
-- chrome-memory
-- reduce-ram
-- browser-performance
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: how-to-reduce-chrome-memory-usage
+categories: [performance, memory]
+tags: [chrome-memory, reduce-ram, browser-performance]
+author: theluckystrike
 ---
-
 # How to Reduce Chrome Memory Usage
 
 If you have ever wondered how to reduce Chrome memory usage, you are not alone. Chrome is one of the most popular browsers in the world, but it has a reputation for eating up your computer's RAM. Whether you are working on an older laptop or just want your browser to run faster, understanding how to reduce Chrome memory usage can make a big difference in your daily computer experience.

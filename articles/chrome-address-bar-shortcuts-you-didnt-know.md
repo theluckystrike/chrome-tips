@@ -1,24 +1,14 @@
 ---
 layout: post
-title: Chrome Address Bar Shortcuts You Didn't Know
-description: Discover hidden Chrome address bar shortcuts that can speed up your browsing.
-  Learn how to search smarter, navigate faster, and boost productivity with these...
+title: "Chrome Address Bar Shortcuts You Didn't Know"
+description: "Discover hidden Chrome address bar shortcuts that can speed up your browsing. Learn how to search smarter, navigate faster, and boost productivity with these..."
 date: 2026-01-15
-categories:
-- chrome
-- address-bar
-- shortcuts
-- productivity
-tags:
-- chrome-tips
-- address-bar
-- browser-shortcuts
-- productivity
-author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-address-bar-shortcuts-you-didnt-know
+categories: [chrome, address-bar, shortcuts, productivity]
+tags: [chrome-tips, address-bar, browser-shortcuts, productivity]
+author: theluckystrike
 ---
-
 # Chrome Address Bar Shortcuts You Didn't Know
 
 The Chrome address bar—also called the Omnibox—is far more powerful than most people realize. While most users type a URL or Google search and call it a day, this humble bar can handle complex searches, quick calculations, bookmarks, and even browser commands. Mastering these Chrome address bar shortcuts can genuinely transform how you browse, saving you clicks, time, and mental effort.

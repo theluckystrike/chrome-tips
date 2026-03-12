@@ -1,23 +1,14 @@
 ---
 layout: post
-title: Chrome Devtools Media Queries Debugger
-description: Learn how to use Chrome DevTools to find and debug media queries. Fix
-  responsive design issues quickly. Discover essential insights and practical advice
-  to o...
+title: "Chrome Devtools Media Queries Debugger"
+description: "Learn how to use Chrome DevTools to find and debug media queries. Fix responsive design issues quickly. Check out our complete 2026 guide for more details an..."
 date: 2025-02-19
-categories:
-- browser-tips
-- web-development
-tags:
-- media-queries
-- responsive-design
-- developer-tools
-- debugging
-author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-09
 permalink: chrome-devtools-media-queries-debugger
+categories: [browser-tips, web-development]
+tags: [media-queries, responsive-design, developer-tools, debugging]
+author: theluckystrike
 ---
-
 # Chrome Devtools Media Queries Debugger
 
 If you are searching for chrome devtools media queries debugger, you probably want to understand how websites adapt to different screen sizes. Maybe your site looks perfect on desktop but breaks on mobile, or you are having trouble finding where those responsive styles are defined. Chrome DevTools has built-in features that make debugging media queries much easier than you might think.

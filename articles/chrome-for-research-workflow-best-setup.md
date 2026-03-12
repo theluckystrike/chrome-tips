@@ -1,23 +1,14 @@
 ---
 layout: post
-title: Chrome for Research Workflow Best Setup
-description: Learn how to set up Chrome for research with tab management, organization
-  tools, and performance optimizations to handle long sessions efficiently. Discover
-  ...
+title: "Chrome for Research Workflow Best Setup"
+description: "Learn how to set up Chrome for research with tab management, organization tools, and performance optimizations to handle long sessions efficiently. Check out..."
 date: 2026-03-10
-categories:
-- research
-- tips
-tags:
-- chrome
-- research
-- workflow
-- productivity
-author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-for-research-workflow-best-setup
+categories: [research, tips]
+tags: [chrome, research, workflow, productivity]
+author: theluckystrike
 ---
-
 # Chrome for Research Workflow Best Setup
 
 If you are looking for chrome for research workflow best setup, you have probably found that managing dozens of research tabs becomes overwhelming quickly. Academic papers, source articles, reference pages, and search results pile up until Chrome slows to a crawl and you spend more time searching for tabs than actually reading them. Setting up Chrome properly for research work can transform your productivity and make long research sessions much more manageable.

@@ -1,23 +1,14 @@
 ---
-layout: default
-title: Chrome Side Panel — How to Use It Effectively
-description: Master Chrome's Side Panel feature. Bookmarks, reading list, search,
-  and extensions all accessible without leaving your current page. This guide on Chrome
-  Si...
+layout: post
+title: "Chrome Side Panel — How to Use It Effectively"
+description: "Master Chrome's Side Panel feature. Bookmarks, reading list, search, and extensions all accessible without leaving your current page. Check out our complete ..."
 date: 2025-03-13
-categories:
-- features
-- productivity
-tags:
-- side-panel
-- chrome-features
-- productivity
-- multitasking
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-side-panel-how-to-use
+categories: [features, productivity]
+tags: [side-panel, chrome-features, productivity, multitasking]
+author: theluckystrike
 ---
-
 # Chrome Side Panel — How to Use It Effectively
 
 Chrome's Side Panel is one of those features that can genuinely change how you browse once you understand what it does. It opens a panel on the right side of your browser window where you can access tools, bookmarks, and reading content without leaving the page you're on.

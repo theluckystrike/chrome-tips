@@ -1,24 +1,14 @@
 ---
 layout: post
-title: 'Chrome Side Panel Customization: Complete Guide for 2026'
-description: Master chrome side panel customization with our comprehensive guide.
-  Learn how to personalize your browsing experience with extensions, layouts, and
-  settings.
+title: "Chrome Side Panel Customization: Complete Guide for 2026"
+description: "Master chrome side panel customization with our comprehensive guide. Learn how to personalize your browsing experience with extensions, layouts, and settings."
 date: 2026-01-15
-categories:
-- chrome
-- customization
-- productivity
-tags:
-- chrome-side-panel
-- browser-customization
-- chrome-tips
-- productivity
-author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-side-panel-customization
+categories: [chrome, customization, productivity]
+tags: [chrome-side-panel, browser-customization, chrome-tips, productivity]
+author: theluckystrike
 ---
-
 # Chrome Side Panel Customization: Complete Guide for 2026
 
 The **Chrome side panel** has become one of the most valuable features for power users who want to maximize their browsing efficiency. Whether you're managing bookmarks, checking your reading list, or using productivity extensions, the side panel offers a convenient way to access tools without leaving your current tab. In this guide, we'll explore everything you need to know about **chrome side panel customization** and how to make the most of this powerful feature.

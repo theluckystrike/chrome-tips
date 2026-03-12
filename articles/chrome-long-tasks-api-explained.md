@@ -1,21 +1,14 @@
 ---
 layout: post
-title: Chrome Long Tasks API Explained
-description: Learn what the Chrome Long Tasks API is, how it works, and how it helps
-  identify performance issues in your browser. Discover essential insights and practica...
+title: "Chrome Long Tasks API Explained"
+description: "Learn what the Chrome Long Tasks API is, how it works, and how it helps identify performance issues in your browser. Check out our complete 2026 guide for mo..."
 date: 2026-03-10
-categories:
-- performance
-- web-development
-tags:
-- chrome-performance
-- browser-tools
-- chrome-tips
-author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-long-tasks-api-explained
+categories: [performance, web-development]
+tags: [chrome-performance, browser-tools, chrome-tips]
+author: theluckystrike
 ---
-
 # Chrome Long Tasks API Explained
 
 If you are looking for chrome long tasks api explained in simple terms, you have come to the right place. Many people use Chrome every day without knowing about the powerful tools that help measure how well their browser is performing. The Long Tasks API is one of those tools that helps identify when your browser is struggling to keep up with the demands of the websites you visit.

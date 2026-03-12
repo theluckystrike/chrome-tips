@@ -1,24 +1,14 @@
 ---
 layout: post
-title: chromebook bluetooth not working fix
-description: Bluetooth not working on your Chromebook? Try these simple solutions
-  to get your wireless connections working again. We cover common fixes. This guide
-  on chr...
+title: "chromebook bluetooth not working fix"
+description: "Bluetooth not working on your Chromebook? Try these simple solutions to get your wireless connections working again. We cover common fixes. Check out our com..."
 date: 2026-03-10
-categories:
-- troubleshooting
-- chromebook
-tags:
-- chromebook
-- bluetooth
-- fix
-- troubleshooting
-- wireless
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chromebook-bluetooth-not-working-fix
+categories: [troubleshooting, chromebook]
+tags: [chromebook, bluetooth, fix, troubleshooting, wireless]
+author: theluckystrike
 ---
-
 # Chromebook Bluetooth Not Working Fix
 
 If you have been searching for chromebook bluetooth not working fix, you are not alone. Many Chromebook users run into Bluetooth problems at some point, whether their headphones will not connect, their wireless mouse is unresponsive, or they cannot pair their phone to transfer files. The good news is that most Bluetooth issues on a Chromebook can be resolved with some simple troubleshooting steps.

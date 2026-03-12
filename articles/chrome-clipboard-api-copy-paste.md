@@ -1,22 +1,14 @@
 ---
 layout: post
-title: 'Chrome Clipboard API: Copy and Paste in Modern Web Apps'
-description: Learn how to use the Chrome Clipboard API for copy and paste operations
-  in your web applications. Complete guide with code examples and best practices.
+title: "Chrome Clipboard API: Copy and Paste in Modern Web Apps"
+description: "Learn how to use the Chrome Clipboard API for copy and paste operations in your web applications. Complete guide with code examples and best practices."
 date: 2026-03-11
-categories:
-- development
-- tips
-tags:
-- chrome-clipboard-api
-- copy-paste
-- web-development
-- javascript
-author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-11
 permalink: chrome-clipboard-api-copy-paste
+categories: [development, tips]
+tags: [chrome-clipboard-api, copy-paste, web-development, javascript]
+author: theluckystrike
 ---
-
 # Chrome Clipboard API: Copy and Paste in Modern Web Apps
 
 If you've been searching for how to implement **chrome clipboard api copy paste** functionality in your web application, you've come to the right place. The Clipboard API has become the standard way to interact with the system clipboard in modern browsers, and understanding how to use it properly can significantly enhance your users' experience.

@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Can Chrome Extensions Steal Your Data
-description: Chrome extensions can access your data. Learn how they do it, real examples
-  of data theft, and what steps you can take to protect yourself. Discover essentia...
-date: '2026-03-09'
-last_modified_at: '2026-03-10'
+title: "Can Chrome Extensions Steal Your Data"
+description: "Chrome extensions can access your data. Learn how they do it, real examples of data theft, and what steps you can take to protect yourself. Check out our expert"
+date: 2026-01-01
+last_modified_at: 2026-03-12
 permalink: can-chrome-extensions-steal-your-data
 ---
-
 Can Chrome extensions steal your data? Yes. In 2020, researchers at Awake Security discovered 111 malicious Chrome extensions that had been downloaded 32 million times. These extensions captured screenshots, harvested credentials, and logged keystrokes — all while posing as legitimate productivity tools. This was not an isolated case. Understanding how extension-based data theft works and what real incidents have looked like helps you make smarter decisions about what you install.
 
 ## How Extensions Get Access to Your Data

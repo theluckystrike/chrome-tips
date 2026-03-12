@@ -1,22 +1,14 @@
 ---
 layout: post
-title: Chrome for Omnibox Search Tricks
-description: Learn powerful Chrome omnibox search tricks to browse faster. Discover
-  hidden features that turn your address bar into a productivity tool. Discover essentia...
+title: "Chrome for Omnibox Search Tricks"
+description: "Learn powerful Chrome omnibox search tricks to browse faster. Discover hidden features that turn your address bar into a productivity tool. Check out our com..."
 date: 2025-02-20
-categories:
-- productivity
-- tips
-tags:
-- chrome-omnibox
-- chrome-tips
-- browser-tips
-- productivity
-author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-for-omnibox-search-tricks
+categories: [productivity, tips]
+tags: [chrome-omnibox, chrome-tips, browser-tips, productivity]
+author: theluckystrike
 ---
-
 # Chrome for Omnibox Search Tricks
 
 If you have ever searched for chrome for omnibox search tricks, you probably wanted to get more out of your browser's address bar. The truth is that Chrome's omnibox is one of the most powerful tools hiding in plain sight on your computer. Most people only use it to type website addresses, but it can do so much more. With a few simple tricks, you can turn that address bar into a calculator, converter, dictionary, and search powerhouse that will save you time every day.

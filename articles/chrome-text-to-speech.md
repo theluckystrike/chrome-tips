@@ -1,25 +1,14 @@
 ---
 layout: post
-title: 'Chrome Text to Speech: Complete Guide for 2026'
-description: Learn how to use Chrome text to speech features, the best extensions,
-  and how to make your browser read content aloud. Discover essential insights and
-  practi...
+title: "Chrome Text to Speech: Complete Guide for 2026"
+description: "Learn how to use Chrome text to speech features, the best extensions, and how to make your browser read content aloud. Check out our complete 2026 guide for ..."
 date: 2026-01-15
-categories:
-- tutorials
-- accessibility
-- extensions
-tags:
-- chrome
-- text-to-speech
-- tts
-- accessibility
-- browser
-author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-text-to-speech
+categories: [tutorials, accessibility, extensions]
+tags: [chrome, text-to-speech, tts, accessibility, browser]
+author: theluckystrike
 ---
-
 # Chrome Text to Speech: Complete Guide for 2026
 
 Text to speech technology has come a long way, and Chrome offers more options than ever for turning written content into spoken words. Whether you need **chrome text to speech** for accessibility, productivity, or simply want to listen to articles while multitasking, this guide covers everything you need to know.

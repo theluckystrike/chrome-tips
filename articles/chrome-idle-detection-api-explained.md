@@ -1,22 +1,14 @@
 ---
 layout: post
-title: 'Chrome Idle Detection API Explained: What It Means for Your Browser'
-description: Learn what the Chrome Idle Detection API does, why websites use it, and
-  how it affects your browsing experience and privacy. This guide on Chrome Idle Detect...
+title: "Chrome Idle Detection API Explained: What It Means for Your Browser"
+description: "Learn what the Chrome Idle Detection API does, why websites use it, and how it affects your browsing experience and privacy. Check out our complete 2026 guid..."
 date: 2026-03-09
-categories:
-- privacy
-- features
-tags:
-- chrome-idle-detection
-- browser-privacy
-- chrome-api
-- user-tracking
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-idle-detection-api-explained
+categories: [privacy, features]
+tags: [chrome-idle-detection, browser-privacy, chrome-api, user-tracking]
+author: theluckystrike
 ---
-
 # Chrome Idle Detection API Explained: What It Means for Your Browser
 
 If you have ever wondered how websites know when you step away from your computer, the chrome idle detection api explained in this guide will give you the answer. Chrome includes a feature called the Idle Detection API that allows websites to detect when you are not actively using your device. This article will walk you through what this API does, why it exists, how websites use it, and what you can do about it.

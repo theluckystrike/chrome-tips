@@ -1,24 +1,14 @@
 ---
 layout: post
-title: Chrome Location Access for One Site How to Allow
-description: Learn how to allow location access for specific websites in Chrome. Simple
-  steps to enable location permissions for just one site. This guide on Chrome Locat...
+title: "Chrome Location Access for One Site How to Allow"
+description: "Learn how to allow location access for specific websites in Chrome. Simple steps to enable location permissions for just one site. Check out our complete 202..."
 date: 2026-01-20
-categories:
-- privacy
-- browser
-- settings
-tags:
-- chrome
-- location
-- permissions
-- privacy
-- browser-settings
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-location-access-for-one-site-how-to-allow
+categories: [privacy, browser, settings]
+tags: [chrome, location, permissions, privacy, browser-settings]
+author: theluckystrike
 ---
-
 # Chrome Location Access for One Site How to Allow
 
 Chrome location access for one site how to allow is a question that comes up often when you visit a website that needs to know where you are. Maybe you are trying to order food from a local restaurant, get directions to a nearby store, or check the weather for your area. These websites often ask for permission to use your location, and sometimes Chrome blocks them or you accidentally deny the permission and do not know how to turn it back on. This article will walk you through exactly how to allow location access for just one specific site in Chrome, without affecting your settings for other websites.

@@ -1,23 +1,14 @@
 ---
 layout: post
-title: How to Dictate Text in Chrome
-description: Learn how to dictate text in Chrome using built-in voice typing. Easy
-  steps for hands-free typing on desktop and mobile. This guide on How to Dictate
-  Text in...
+title: "How to Dictate Text in Chrome"
+description: "Learn how to dictate text in Chrome using built-in voice typing. Easy steps for hands-free typing on desktop and mobile. Check out our complete 2026 guide fo..."
 date: 2025-03-12
-categories:
-- features
-- accessibility
-tags:
-- dictation
-- voice-typing
-- hands-free
-- chrome-features
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: how-to-dictate-text-in-chrome
+categories: [features, accessibility]
+tags: [dictation, voice-typing, hands-free, chrome-features]
+author: theluckystrike
 ---
-
 # How to Dictate Text in Chrome
 
 If you have ever searched for "how to dictate text in chrome," you probably wanted a hands-free way to type without using your keyboard. Maybe your hands were tired, you had an injury, or you simply wanted to type faster by speaking. Whatever your reason, Chrome has built-in voice input features that make dictating text simple and convenient.

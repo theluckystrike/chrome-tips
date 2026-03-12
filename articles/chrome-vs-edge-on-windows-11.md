@@ -1,22 +1,14 @@
 ---
-layout: default
-title: Chrome vs Edge on Windows 11 — Which Is Actually Faster?
-description: Real-world comparison of Chrome and Edge on Windows 11. Speed tests,
-  memory usage, battery life, and which browser integrates better with your system.
+layout: post
+title: "Chrome vs Edge on Windows 11 — Which Is Actually Faster?"
+description: "Real-world comparison of Chrome and Edge on Windows 11. Speed tests, memory usage, battery life, and which browser integrates better with your system."
 date: 2025-02-22
-categories:
-- comparison
-- windows
-tags:
-- chrome-vs-edge
-- windows-11
-- browser-speed
-- browser-comparison
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-vs-edge-on-windows-11
+categories: [comparison, windows]
+tags: [chrome-vs-edge, windows-11, browser-speed, browser-comparison]
+author: theluckystrike
 ---
-
 # Chrome vs Edge on Windows 11 — Which Is Actually Faster?
 
 Here's the irony: Chrome and Edge are now built on the same foundation (Chromium), so comparing them is more like comparing two flavors of the same ice cream than comparing two completely different desserts. But there are real, meaningful differences — especially on Windows 11.

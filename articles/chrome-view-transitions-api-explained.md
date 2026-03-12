@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Chrome View Transitions API Explained
-description: Learn what Chrome View Transitions API is, how it works, and how it improves
-  your browsing experience with smooth page transitions. This guide on Chrome View...
-date: '2026-03-09'
-last_modified_at: '2026-03-12'
+title: "Chrome View Transitions API Explained"
+description: "Learn what Chrome View Transitions API is, how it works, and how it improves Check out our complete 2026 guide for more details and professional advice on ma..."
+date: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-view-transitions-api-explained
 ---
-
 If you have ever searched for "chrome view transitions api explained," you might have wondered what this feature actually does and whether it affects how you use Chrome. The View Transitions API is a relatively new feature in Chrome that makes browsing feel smoother and more modern, and understanding it can help you get more out of your browser.
 
 ## What the View Transitions API Actually Is

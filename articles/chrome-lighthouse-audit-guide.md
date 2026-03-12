@@ -1,26 +1,14 @@
 ---
-layout: default
-title: Chrome Lighthouse Audit Complete Guide
-description: Master Chrome Lighthouse audits with this comprehensive guide covering
-  performance scores, accessibility, SEO, and PWA validation for faster, more accessible...
+layout: post
+title: "Chrome Lighthouse Audit Complete Guide"
+description: "Master Chrome Lighthouse audits with this comprehensive guide covering performance scores, accessibility, SEO, and PWA validation for faster, more accessible..."
 date: 2026-01-20
-categories:
-- web-development
-- performance
-- chrome
-tags:
-- lighthouse
-- chrome-devtools
-- performance
-- accessibility
-- seo
-- pwa
-- web-audit
-author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-lighthouse-audit-guide
+categories: [web-development, performance, chrome]
+tags: [lighthouse, chrome-devtools, performance, accessibility, seo, pwa, web-audit]
+author: theluckystrike
 ---
-
 # Chrome Lighthouse Audit Complete Guide
 
 If you have ever wondered how your website performs in the eyes of Google, or if you have wanted to understand why certain pages load slowly or fail to rank well in search results, Chrome Lighthouse is the tool you need. Lighthouse is a powerful, free tool built directly into Google Chrome that analyzes web pages across multiple dimensions including performance, accessibility, best practices, and search engine optimization. This complete guide will walk you through everything you need to know about running a Lighthouse audit, interpreting the results, and using those insights to improve your website. Whether you are a web developer, a digital marketer, or a website owner, understanding Lighthouse will help you create faster, more accessible, and better-optimized web experiences.

@@ -1,23 +1,14 @@
 ---
 layout: post
-title: How to Export Bookmarks from Chrome
-description: Learn how to export bookmarks from Chrome to back them up or transfer
-  them to another browser. Simple steps included. This guide on How to Export Bookmarks
-  f...
+title: "How to Export Bookmarks from Chrome"
+description: "Learn how to export bookmarks from Chrome to back them up or transfer them to another browser. Simple steps included. Check out our complete 2026 guide for m..."
 date: 2026-01-15
-categories:
-- tips
-- bookmarks
-tags:
-- chrome
-- bookmarks
-- backup
-- browser
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: how-to-export-bookmarks-from-chrome
+categories: [tips, bookmarks]
+tags: [chrome, bookmarks, backup, browser]
+author: theluckystrike
 ---
-
 # How to Export Bookmarks from Chrome
 
 How to export bookmarks from Chrome is a question that comes up more often than you might think. Whether you are setting up a new computer, switching to a different browser, or simply want to keep a backup of your saved pages, knowing how to export your Chrome bookmarks is a useful skill. The good news is that Chrome makes this process straightforward, and you can do it in just a few clicks.

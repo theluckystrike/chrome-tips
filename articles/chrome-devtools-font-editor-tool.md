@@ -1,23 +1,14 @@
 ---
 layout: post
-title: chrome devtools font editor tool
-description: Learn how to use Chrome DevTools font editor tool to customize and preview
-  fonts on any website directly in your browser. Discover essential insights and pra...
+title: "chrome devtools font editor tool"
+description: "Learn how to use Chrome DevTools font editor tool to customize and preview fonts on any website directly in your browser. Check out our complete 2026 guide f..."
 date: 2026-03-09
-categories:
-- devtools
-- fonts
-- customization
-tags:
-- chrome-devtools
-- fonts
-- web-development
-- debugging
-author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-09
 permalink: chrome-devtools-font-editor-tool
+categories: [devtools, fonts, customization]
+tags: [chrome-devtools, fonts, web-development, debugging]
+author: theluckystrike
 ---
-
 # Chrome DevTools Font Editor Tool
 
 If you have ever searched for a chrome devtools font editor tool, you might have been trying to figure out how to change or preview fonts on a website you were visiting. Maybe you wanted to see how a different font would look on a page, or you were curious about what font a website was using. Chrome DevTools includes a powerful feature that lets you do exactly this, and you might not even know it exists.

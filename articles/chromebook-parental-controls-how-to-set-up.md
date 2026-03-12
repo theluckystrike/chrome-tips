@@ -1,23 +1,14 @@
 ---
 layout: post
-title: Chromebook Parental Controls How to Set Up
-description: Learn how to set up parental controls on Chromebooks. A simple guide
-  to screen time limits, content filtering, and keeping your kids safe online. This
-  guide ...
+title: "Chromebook Parental Controls How to Set Up"
+description: "Learn how to set up parental controls on Chromebooks. A simple guide to screen time limits, content filtering, and keeping your kids safe online. Check out o..."
 date: 2025-03-10
-categories:
-- family
-- safety
-tags:
-- chromebook
-- parental-controls
-- family-safety
-- kids
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chromebook-parental-controls-how-to-set-up
+categories: [family, safety]
+tags: [chromebook, parental-controls, family-safety, kids]
+author: theluckystrike
 ---
-
 # Chromebook Parental Controls How to Set Up
 
 Setting up chromebook parental controls how to set up is one of the most important things you can do when your child starts using a computer. Whether your kids use a Chromebook for schoolwork or browsing at home, having proper controls in place helps keep them safe while still allowing them to explore and learn. The good news is that Chromebooks come with built-in tools that make this process straightforward, and you don't need to be tech-savvy to get everything working.

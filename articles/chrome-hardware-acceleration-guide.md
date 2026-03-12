@@ -1,24 +1,14 @@
 ---
-layout: default
-title: Chrome Hardware Acceleration Guide
-description: Learn how to enable and optimize hardware acceleration in Chrome for
-  better GPU performance, smoother video playback, and improved overall browsing experience.
+layout: post
+title: "Chrome Hardware Acceleration Guide"
+description: "Learn how to enable and optimize hardware acceleration in Chrome for better GPU performance, smoother video playback, and improved overall browsing experience."
 date: 2026-01-15
-categories:
-- performance
-- chrome
-- hardware
-tags:
-- hardware-acceleration
-- gpu
-- chrome-performance
-- video-playback
-- browser-optimization
-author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-hardware-acceleration-guide
+categories: [performance, chrome, hardware]
+tags: [hardware-acceleration, gpu, chrome-performance, video-playback, browser-optimization]
+author: theluckystrike
 ---
-
 # Chrome Hardware Acceleration Guide
 
 Hardware acceleration is one of the most powerful yet often overlooked features in Google Chrome. When properly configured, it can transform your browsing experience by offloading intensive tasks from your CPU to your graphics card. This guide will walk you through everything you need to know about hardware acceleration in Chrome, including when to enable it, how GPU compositing works, common troubleshooting steps, and how it specifically improves video playback.

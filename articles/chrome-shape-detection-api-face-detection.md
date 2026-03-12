@@ -1,23 +1,14 @@
 ---
 layout: post
-title: Chrome Shape Detection API Face Detection
-description: Learn how Chrome's Shape Detection API enables face detection in your
-  browser, what it means for your privacy, and how to manage your security settings
-  today.
+title: "Chrome Shape Detection API Face Detection"
+description: "Learn how Chrome's Shape Detection API enables face detection in your browser, what it means for your privacy, and how to manage it. Check out our complete 2..."
 date: 2026-01-15
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-shape-detection-api-face-detection
-categories:
-- privacy
-- features
-tags:
-- chrome-shape-detection
-- face-detection
-- browser-privacy
-- shape-detection-api
+categories: [privacy, features]
+tags: [chrome-shape-detection, face-detection, browser-privacy, shape-detection-api]
 author: theluckystrike
 ---
-
 # Chrome Shape Detection API Face Detection
 
 If you have ever wondered how some websites can automatically detect faces in your photos or enable face unlock features directly in Chrome, the answer lies in something called the Shape Detection API. This built-in Chrome feature allows websites to detect faces, barcodes, and text within images using the Shape Detection API face detection capability. Understanding what this API does, how it works, and what it means for your privacy can help you make informed decisions about your browsing experience.

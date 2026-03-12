@@ -1,23 +1,14 @@
 ---
 layout: post
-title: 'Chrome Slow on Windows 11 After Update: Practical Fixes'
-description: Is Chrome running slow on Windows 11 after an update? Here are practical,
-  step-by-step solutions designed for computers with limited RAM and older hardware.
+title: "Chrome Slow on Windows 11 After Update: Practical Fixes"
+description: "Is Chrome running slow on Windows 11 after an update? Here are practical, step-by-step solutions designed for computers with limited RAM and older hardware."
 date: 2025-02-16
-categories:
-- performance
-- windows
-tags:
-- chrome-slow
-- windows-11
-- browser-performance
-- speed-up
-- low-ram
-author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-slow-on-windows-11-after-update
+categories: [performance, windows]
+tags: [chrome-slow, windows-11, browser-performance, speed-up, low-ram]
+author: theluckystrike
 ---
-
 If Chrome is running slow on your Windows 11 computer after a recent update, you are not alone. This is one of the most frustrating issues you can face, especially when you are trying to get work done and your browser feels like it is dragging through sand. The problem is particularly common on computers with limited RAM, where every megabyte of memory counts.
 
 The good news is that you can fix this without being a tech expert. Let me walk you through practical solutions that actually work, starting with the easiest fixes and moving to more advanced options if needed.

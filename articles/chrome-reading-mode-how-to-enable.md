@@ -1,22 +1,14 @@
 ---
-layout: default
-title: Chrome Reading Mode — How to Enable and Use It
-description: Enable and customize Chrome's Reading Mode for distraction-free reading.
-  Remove ads, sidebars, and clutter from any article with one click. Discover essentia...
+layout: post
+title: "Chrome Reading Mode — How to Enable and Use It"
+description: "Enable and customize Chrome's Reading Mode for distraction-free reading. Remove ads, sidebars, and clutter from any article with one click. Check out our com..."
 date: 2025-03-12
-categories:
-- features
-- productivity
-tags:
-- reading-mode
-- reader-view
-- distraction-free
-- chrome-features
-author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-reading-mode-how-to-enable
+categories: [features, productivity]
+tags: [reading-mode, reader-view, distraction-free, chrome-features]
+author: theluckystrike
 ---
-
 # Chrome Reading Mode — How to Enable and Use It
 
 Reading articles online shouldn't feel like fighting through a jungle of ads, pop-ups, and sidebars. Chrome's Reading Mode strips all of that away, giving you clean, distraction-free text. Here's how to set it up and get the most out of it.

@@ -1,25 +1,14 @@
 ---
 layout: post
-title: 'Chrome WASM WebAssembly Getting Started: A Complete Beginner''s Guide'
-description: Learn chrome wasm webassembly getting started with this comprehensive
-  guide. Discover how to enable WebAssembly, debug WASM modules, and optimize performance...
+title: "Chrome WASM WebAssembly Getting Started: A Complete Beginner's Guide"
+description: "Learn chrome wasm webassembly getting started with this comprehensive guide. Discover how to enable WebAssembly, debug WASM modules, and optimize performance..."
 date: 2026-03-11
-categories:
-- development
-- web-technology
-- chrome
-tags:
-- webassembly
-- wasm
-- chrome-wasm
-- programming
-- chrome-development
-- browser
-author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-wasm-webassembly-getting-started
+categories: [development, web-technology, chrome]
+tags: [webassembly, wasm, chrome-wasm, programming, chrome-development, browser]
+author: theluckystrike
 ---
-
 # Chrome WASM WebAssembly Getting Started: A Complete Beginner's Guide
 
 WebAssembly, often abbreviated as WASM, represents one of the most significant advancements in web development history. If you are looking to understand chrome wasm webassembly getting started, this guide will walk you through everything you need to know to begin using this powerful technology in Google Chrome.

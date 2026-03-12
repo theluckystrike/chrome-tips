@@ -1,14 +1,11 @@
 ---
 layout: post
-title: Chrome Extension Manifest V3 What Users Need to Know
-description: Chrome Manifest V3 changes how extensions work. Find out what this means
-  for your browser and how to adapt. Discover essential insights and practical advice
-  ...
-date: '2026-03-09'
-last_modified_at: '2026-03-10'
+title: "Chrome Extension Manifest V3 What Users Need to Know"
+description: "Chrome Manifest V3 changes how extensions work. Find out what this means for your browser and how to adapt. Check out our complete 2026 guide for more detail..."
+date: 2026-03-12
+last_modified_at: 2026-03-10
 permalink: chrome-extension-manifest-v3-what-users-need-to-know
 ---
-
 If you have ever searched for "chrome extension manifest v3 what users need to know," you are probably wondering why some of your favorite Chrome extensions stopped working or behave differently than they used to. This change has affected millions of users, and understanding what is happening can help you make the most of your browser.
 
 Google introduced Manifest V3, also called MV3, as a new set of rules for how Chrome extensions function. This update replaced the older Manifest V2 system, and it brought significant changes to what extensions can do. While the update aimed to improve security and privacy, it also meant that many extensions had to be rebuilt, and some lost features that users relied on.

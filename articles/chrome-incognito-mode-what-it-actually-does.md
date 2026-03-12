@@ -1,23 +1,14 @@
 ---
-layout: default
-title: Chrome Incognito Mode — What It Actually Does (And What It Doesn't)
-description: The truth about Chrome's Incognito mode. What it hides, what it doesn't,
-  and when you should actually use it. Common misconceptions cleared up. This guide
-  on...
+layout: post
+title: "Chrome Incognito Mode — What It Actually Does (And What It Doesn't)"
+description: "The truth about Chrome's Incognito mode. What it hides, what it doesn't, and when you should actually use it. Common misconceptions cleared up. Check out our..."
 date: 2025-03-04
-categories:
-- privacy
-- features
-tags:
-- incognito-mode
-- chrome-privacy
-- private-browsing
-- browser-privacy
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-incognito-mode-what-it-actually-does
+categories: [privacy, features]
+tags: [incognito-mode, chrome-privacy, private-browsing, browser-privacy]
+author: theluckystrike
 ---
-
 # Chrome Incognito Mode — What It Actually Does (And What It Doesn't)
 
 Incognito mode is one of Chrome's most used and most misunderstood features. Many people think it makes them invisible online. It doesn't. Let's clear up exactly what Incognito does, what it doesn't do, and when it's actually useful.

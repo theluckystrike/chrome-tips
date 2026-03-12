@@ -1,22 +1,14 @@
 ---
 layout: post
-title: chrome lighthouse performance score explained simply
-description: Understand what Chrome Lighthouse performance scores mean, why they matter,
-  and how to improve your score with practical steps. This guide on chrome lighthou...
+title: "chrome lighthouse performance score explained simply"
+description: "Understand what Chrome Lighthouse performance scores mean, why they matter, and how to improve your score with practical steps. Check out our complete 2026 g..."
 date: 2026-03-09
-categories:
-- tools
-- performance
-tags:
-- lighthouse
-- performance
-- score
-- website-speed
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-lighthouse-performance-score-explained-simply
+categories: [tools, performance]
+tags: [lighthouse, performance, score, website-speed]
+author: theluckystrike
 ---
-
 # Chrome Lighthouse Performance Score Explained Simply
 
 If you have ever searched for chrome lighthouse performance score explained simply, you are not alone. Many website owners and regular users want to understand what those numbers really mean and why they should care. This guide will break down everything in plain language without technical jargon.

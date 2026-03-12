@@ -1,22 +1,14 @@
 ---
 layout: post
-title: Chrome Sync Across Devices How It Works
-description: Learn how Chrome sync across devices works, why it sometimes fails, and
-  simple steps to get your browsing data flowing between your computers and phone.
+title: "Chrome Sync Across Devices How It Works"
+description: "Learn how Chrome sync across devices works, why it sometimes fails, and simple steps to get your browsing data flowing between your computers and phone."
 date: 2025-03-09
-categories:
-- troubleshooting
-- tips
-tags:
-- chrome-sync
-- sync-across-devices
-- browser-sync
-- chrome-tips
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-sync-across-devices-how-it-works
+categories: [troubleshooting, tips]
+tags: [chrome-sync, sync-across-devices, browser-sync, chrome-tips]
+author: theluckystrike
 ---
-
 # Chrome Sync Across Devices How It Works
 
 Chrome sync across devices how it works is a question many people ask when they switch between their computer, phone, or tablet and expect their bookmarks, passwords, and browsing history to be waiting for them. If you have ever wondered exactly how Chrome manages to keep your data the same on every device you use, this guide will walk you through the whole process in plain terms.

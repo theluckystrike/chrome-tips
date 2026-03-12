@@ -1,13 +1,11 @@
 ---
-title: 'How to Inspect and Debug IndexedDB in Chrome: A Complete Guide'
-description: Learn how to inspect, query, and debug IndexedDB databases in Chrome
-  DevTools with practical tips for developers. Discover essential insights and practical
-  a...
-date: '2026-03-11'
-last_modified_at: '2026-03-11'
+layout: post
+title: "How to Inspect and Debug IndexedDB in Chrome: A Complete Guide"
+description: "Learn how to inspect, query, and debug IndexedDB databases in Chrome DevTools with practical tips for developers. Check out our complete 2026 guide for more ..."
+date: 2026-03-12
+last_modified_at: 2026-03-12
 permalink: chrome-indexeddb-inspect-debug
 ---
-
 # How to Inspect and Debug IndexedDB in Chrome: A Complete Guide
 
 IndexedDB is one of the most powerful browser storage APIs available today, yet it remains surprisingly underutilized by many web developers. If you're building web applications that need to store significant amounts of structured data on the client side, IndexedDB is likely your best option. The challenge, however, is that debugging IndexedDB hasn't always been straightforward. Fortunately, Chrome provides robust built-in tools that make inspecting and debugging your databases much easier than you might expect.

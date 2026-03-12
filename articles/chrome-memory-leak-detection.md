@@ -1,25 +1,14 @@
 ---
-layout: default
-title: Chrome Memory Leak Detection Guide
-description: Learn how to detect and fix memory leaks in Chrome using heap snapshots,
-  allocation timeline, detached DOM analysis, and performance monitor. Complete guide
-  ...
+layout: post
+title: "Chrome Memory Leak Detection Guide"
+description: "Learn how to detect and fix memory leaks in Chrome using heap snapshots, allocation timeline, detached DOM analysis, and performance monitor. Complete guide ..."
 date: 2026-01-20
-categories:
-- performance
-- development
-- chrome
-tags:
-- chrome-memory-leak
-- heap-snapshots
-- performance
-- debugging
-- chrome-devtools
-author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-memory-leak-detection
+categories: [performance, development, chrome]
+tags: [chrome-memory-leak, heap-snapshots, performance, debugging, chrome-devtools]
+author: theluckystrike
 ---
-
 # Chrome Memory Leak Detection Guide
 
 Memory leaks are one of the most frustrating issues that can affect your browsing experience and web applications. They creep in slowly, gradually consuming more and more of your available RAM until your browser starts to feel sluggish, tabs begin to crash, or your entire system slows to a crawl. Understanding how to detect and diagnose memory leaks in Chrome is an essential skill whether you are a web developer building complex applications or a power user who keeps dozens of tabs open throughout the day.

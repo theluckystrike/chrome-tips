@@ -1,23 +1,14 @@
 ---
 layout: post
-title: Chrome for Speed Reading Extensions
-description: Discover Chrome extensions that help you read faster. Learn about speed
-  reading tools, how they work, and which ones might work for you. Discover essential
-  i...
+title: "Chrome for Speed Reading Extensions"
+description: "Discover Chrome extensions that help you read faster. Learn about speed reading tools, how they work, and which ones might work for you. Check out our comple..."
 date: 2026-01-20
-categories:
-- productivity
-- extensions
-tags:
-- chrome-extensions
-- speed-reading
-- productivity
-- browser
-author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-12
 permalink: chrome-for-speed-reading-extensions
+categories: [productivity, extensions]
+tags: [chrome-extensions, speed-reading, productivity, browser]
+author: theluckystrike
 ---
-
 # Chrome for Speed Reading Extensions
 
 Chrome for speed reading extensions are tools that help you read faster by presenting text in ways that reduce eye movement and increase focus. If you have ever felt overwhelmed by long articles, dense documents, or endless web pages, these extensions might be exactly what you need. They work by displaying text one word at a time, highlighting key phrases, or removing distractions so you can absorb information more quickly.

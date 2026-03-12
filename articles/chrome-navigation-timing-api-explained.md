@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Chrome Navigation Timing API Explained
-description: Learn what the Chrome Navigation Timing API is, how it works, and why
-  it helps measure website loading performance. Discover essential insights and practical...
-date: '2026-03-10'
-last_modified_at: '2026-03-10'
+title: "Chrome Navigation Timing API Explained"
+description: "Learn what the Chrome Navigation Timing API is, how it works, and why it helps measure website loading performance. Check out our complete 2026 guide for mor..."
+date: 2026-03-12
+last_modified_at: 2026-03-12
 permalink: chrome-navigation-timing-api-explained
 ---
-
 Chrome navigation timing api explained is something that becomes relevant when you want to understand why some websites load faster than others. If you have ever wondered how browsers measure exactly how long a webpage takes to load, the Navigation Timing API is the tool behind that capability. It provides detailed timing information about every stage of page loading, from the moment you click a link until the page is fully displayed.
 
 ## What the Navigation Timing API Actually Does

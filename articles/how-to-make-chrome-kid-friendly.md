@@ -1,23 +1,14 @@
 ---
-layout: default
-title: How to Make Chrome Kid-Friendly
-description: Make Chrome safe and appropriate for children. Simple setup steps for
-  filtering, safe search, and creating a browsing environment designed for kids. This
-  gui...
+layout: post
+title: "How to Make Chrome Kid-Friendly"
+description: "Make Chrome safe and appropriate for children. Simple setup steps for filtering, safe search, and creating a browsing environment designed for kids. Check ou..."
 date: 2025-03-09
-categories:
-- family
-- safety
-tags:
-- kid-friendly
-- child-safety
-- safe-browsing
-- chrome-for-kids
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: how-to-make-chrome-kid-friendly
+categories: [family, safety]
+tags: [kid-friendly, child-safety, safe-browsing, chrome-for-kids]
+author: theluckystrike
 ---
-
 # How to Make Chrome Kid-Friendly
 
 You don't need to be a tech expert to make Chrome safe for your kids. A few straightforward changes will create a browsing environment where your children can explore, learn, and have fun without stumbling into things they shouldn't see.

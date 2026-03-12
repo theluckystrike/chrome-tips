@@ -1,25 +1,14 @@
 ---
 layout: post
-title: 'Chrome Process Per Tab: How to Disable It to Save Memory'
-description: Learn how to disable Chrome's per-tab process feature to save memory
-  on slow computers with limited RAM. Step-by-step solutions included. Discover essential
-  ...
+title: "Chrome Process Per Tab: How to Disable It to Save Memory"
+description: "Learn how to disable Chrome's per-tab process feature to save memory on slow computers with limited RAM. Step-by-step solutions included. Check out our compl..."
 date: 2026-01-20
-categories:
-- performance
-- browsers
-- chrome-tips
-tags:
-- chrome-memory
-- chrome-process
-- chrome-performance
-- tab-management
-- save-ram
-author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-process-per-tab-disable-to-save-memory
+categories: [performance, browsers, chrome-tips]
+tags: [chrome-memory, chrome-process, chrome-performance, tab-management, save-ram]
+author: theluckystrike
 ---
-
 # Chrome Process Per Tab: How to Disable It to Save Memory
 
 If you have ever wondered why Chrome uses so much memory on your computer, you are not alone. Many users with older machines or limited RAM notice that Chrome can quickly become a resource hog, slowing down everything else they try to do. One reason for this is Chrome's "process per tab" design, where each tab runs as its own separate process. While this approach has benefits for stability and security, it can also consume significant amounts of memory, especially when you have many tabs open.

@@ -1,27 +1,14 @@
 ---
-layout: default
-title: Chrome Web NFC API Guide
-description: Learn how to use the Chrome Web NFC API for reading and writing NFC tags
-  directly from your browser. Complete guide covering NDEF messages, tag operations,
-  a...
-date: '2026-01-15'
-last_modified_at: '2026-03-12'
+layout: post
+title: "Chrome Web NFC API Guide"
+description: "Learn how to use the Chrome Web NFC API for reading and writing NFC tags Check out our complete 2026 guide for more details and professional advice on managi..."
+date: 2026-01-15
+last_modified_at: 2026-03-12
 permalink: chrome-web-nfc-api-guide
-categories:
-- web-development
-- nfc
-- chrome-api
-tags:
-- web-nfc
-- nfc-api
-- chrome-nfc
-- ndef
-- tag-reading
-- tag-writing
-- mobile-nfc
+categories: 
+tags: 
 author: theluckystrike
 ---
-
 # Chrome Web NFC API Guide
 
 The Web NFC API is one of the most exciting additions to modern web browsers, allowing websites to read and write NFC tags directly from the browser without needing a native app. If you have ever wanted to build a web application that can interact with physical NFC tags, whether for inventory management, contactless payments, or interactive experiences, the Chrome Web NFC API makes this possible. This guide will walk you through everything you need to know to get started with NFC in Chrome, from understanding how NDEF messages work to implementing both reading and writing functionality.

@@ -1,24 +1,14 @@
 ---
 layout: post
-title: 'Chrome PDF Viewer Settings: Complete Customization Guide'
-description: Learn how to customize Chrome's built-in PDF viewer settings for better
-  reading, printing, and viewing experience. Discover essential insights and practical
-  ...
+title: "Chrome PDF Viewer Settings: Complete Customization Guide"
+description: "Learn how to customize Chrome's built-in PDF viewer settings for better reading, printing, and viewing experience. Check out our complete 2026 guide for more..."
 date: 2026-01-15
-categories:
-- productivity
-- pdf
-- chrome-settings
-tags:
-- chrome-pdf-viewer-settings
-- pdf
-- browser-settings
-- chrome
-author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: 2026-03-12
 permalink: chrome-pdf-viewer-settings
+categories: [productivity, pdf, chrome-settings]
+tags: [chrome-pdf-viewer-settings, pdf, browser-settings, chrome]
+author: theluckystrike
 ---
-
 # Chrome PDF Viewer Settings: Complete Customization Guide
 
 Google Chrome comes with a built-in PDF viewer that opens PDF files directly in your browser without requiring any additional software. This convenient feature handles most common PDF tasks, but many users are unaware of the various settings available to customize their viewing experience. Whether you need to adjust zoom levels, change page layouts, enable dark mode, or configure printing options, Chrome's PDF viewer offers numerous customization options worth exploring.

@@ -1,25 +1,14 @@
 ---
 layout: post
-title: How to Import Bookmarks from Firefox to Chrome
-description: Moving your Firefox bookmarks to Chrome is simple. Follow these steps
-  to transfer all your saved links quickly and easily. This guide on How to Import
-  Bookma...
+title: "How to Import Bookmarks from Firefox to Chrome"
+description: "Moving your Firefox bookmarks to Chrome is simple. Follow these steps to transfer all your saved links quickly and easily. Check out our complete 2026 guide ..."
 date: 2026-01-15
-categories:
-- browser
-- bookmarks
-- chrome
-- firefox
-tags:
-- chrome-bookmarks
-- firefox-bookmarks
-- browser-tips
-- chrome-tips
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: how-to-import-bookmarks-from-firefox-to-chrome
+categories: [browser, bookmarks, chrome, firefox]
+tags: [chrome-bookmarks, firefox-bookmarks, browser-tips, chrome-tips]
+author: theluckystrike
 ---
-
 # How to Import Bookmarks from Firefox to Chrome
 
 How to import bookmarks from Firefox to Chrome is a question that comes up whenever someone decides to switch browsers or simply wants to keep their favorite links accessible in both. Whether you have been using Firefox for years and are now curious about Chrome, or you need to work on a machine that only has Chrome installed, moving your bookmarks does not have to be a headache. The good news is that both browsers make this process fairly straightforward, and you can have all your saved pages ready to go in just a few minutes.

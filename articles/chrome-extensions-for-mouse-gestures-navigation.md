@@ -1,22 +1,14 @@
 ---
 layout: post
-title: Chrome Extensions for Mouse Gestures Navigation
-description: Learn how Chrome extensions for mouse gestures navigation can speed up
-  your browsing and reduce keyboard reliance. Discover essential insights and practical
-  ...
+title: "Chrome Extensions for Mouse Gestures Navigation"
+description: "Learn how Chrome extensions for mouse gestures navigation can speed up your browsing and reduce keyboard reliance. Check out our complete 2026 guide for more..."
 date: 2026-03-10
-categories:
-- browsing
-- tips
-tags:
-- chrome-extensions
-- mouse-gestures
-- navigation
-author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-10
 permalink: chrome-extensions-for-mouse-gestures-navigation
+categories: [browsing, tips]
+tags: [chrome-extensions, mouse-gestures, navigation]
+author: theluckystrike
 ---
-
 # Chrome Extensions for Mouse Gestures Navigation
 
 If you are searching for chrome extensions for mouse gestures navigation, you likely want a faster way to move around your browser without reaching for keyboard shortcuts or clicking tiny buttons. Many Chrome users find themselves constantly moving their hand between the mouse and keyboard, which breaks focus and slows down their workflow. Mouse gesture extensions offer a simple solution by letting you control your browser with intuitive hand movements.

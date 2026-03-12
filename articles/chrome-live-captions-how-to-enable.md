@@ -1,23 +1,14 @@
 ---
 layout: post
-title: Chrome Live Captions How to Enable
-description: Learn how to enable Chrome Live Captions for automatic subtitles on any
-  video or audio in your browser. Simple step-by-step guide. This guide on Chrome
-  Live ...
+title: "Chrome Live Captions How to Enable"
+description: "Learn how to enable Chrome Live Captions for automatic subtitles on any video or audio in your browser. Simple step-by-step guide. Check out our complete 202..."
 date: 2025-03-12
-categories:
-- features
-- accessibility
-tags:
-- live-captions
-- accessibility
-- chrome-features
-- subtitles
-author: theluckystrike
-last_modified_at: '2026-03-12'
+last_modified_at: 2026-03-12
 permalink: chrome-live-captions-how-to-enable
+categories: [features, accessibility]
+tags: [live-captions, accessibility, chrome-features, subtitles]
+author: theluckystrike
 ---
-
 # Chrome Live Captions How to Enable
 
 Chrome Live Captions is a feature that automatically generates subtitles for any audio or video playing in your Chrome browser. If you have ever struggled to hear what someone is saying in a YouTube video, wanted to watch a muted video in a public place, or need accessibility support for hearing content, this feature can transform your browsing experience. Here is how to enable Chrome Live Captions and get the most out of it.

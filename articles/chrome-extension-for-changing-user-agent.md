@@ -1,21 +1,14 @@
 ---
 layout: post
-title: Chrome Extension for Changing User Agent
-description: Learn how to use a Chrome extension for changing user agent to fix websites
-  that block or limit access based on your browser identity. Discover essential ins...
+title: "Chrome Extension for Changing User Agent"
+description: "Learn how to use a Chrome extension for changing user agent to fix websites that block or limit access based on your browser identity. Check out our complete..."
 date: 2026-03-09
-categories:
-- extensions
-- tips
-tags:
-- chrome-extensions
-- user-agent
-- browser-tools
-author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-10
 permalink: chrome-extension-for-changing-user-agent
+categories: [extensions, tips]
+tags: [chrome-extensions, user-agent, browser-tools]
+author: theluckystrike
 ---
-
 # Chrome Extension for Changing User Agent
 
 If you are searching for a chrome extension for changing user agent, you have probably run into a website that either blocked your access, showed you a different version than expected, or refused to load properly because of your browser identity. This is a frustrating problem that many Chrome users face, and the good news is there are straightforward solutions available.

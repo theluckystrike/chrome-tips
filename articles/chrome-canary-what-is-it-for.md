@@ -1,22 +1,14 @@
 ---
 layout: post
-title: Chrome Canary What Is It For
-description: Chrome Canary is Google's experimental browser version with early features.
-  Learn what it does, who should use it, and if it is right for you. Discover essen...
+title: "Chrome Canary What Is It For"
+description: "Chrome Canary is Google's experimental browser version with early features. Learn what it does, who should use it, and if it is right for you. Check out our ..."
 date: 2026-03-10
-categories:
-- features
-- browser-setup
-tags:
-- chrome-canary
-- chrome-beta
-- chrome-dev
-- browser-channels
-author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: 2026-03-10
 permalink: chrome-canary-what-is-it-for
+categories: [features, browser-setup]
+tags: [chrome-canary, chrome-beta, chrome-dev, browser-channels]
+author: theluckystrike
 ---
-
 # Chrome Canary What Is It For
 
 If you have ever wondered chrome canary what is it for, you are not alone. Many people see this blue bird icon in their app store and have no idea what it does or why they might want it. Chrome Canary is actually one of the most interesting options Google offers for anyone who wants to see the future of their browser before everyone else.

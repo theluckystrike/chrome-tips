@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "chrome eye dropper api pick color anywhere"
-description: "Learn how to use the Chrome Eye Dropper API to pick colors from anywhere on your screen. A complete guide for developers and designers."
+description: "Learn how to use the Chrome Eye Dropper API to pick colors from anywhere on your screen. A complete guide for developers and designers. Check out our complet..."
 date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: chrome-eye-dropper-api-pick-color-anywhere
 categories: [extensions, developer-tools]
 tags: [chrome-api, eye-dropper, color-picker, web-development, design-tools]
 author: theluckystrike
 ---
-
 # Chrome Eye Dropper API: Pick Colors From Anywhere
 
 Have you ever been browsing the web and seen a color you loved, but had no way to capture it? Perhaps you wanted to match a color from a photograph, a competitor's website, or a design inspiration. Historically, this required installing browser extensions or using external tools. Now, Chrome offers a built-in solution through the Eye Dropper API, a powerful web API that lets users pick colors from anywhere on their screen directly within web applications.

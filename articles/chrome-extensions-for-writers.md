@@ -1,21 +1,14 @@
 ---
 layout: post
-<<<<<<< HEAD
-title: "Best Chrome Extensions for Writers 2026"
-description: "Discover the best Chrome extensions for writers in 2026 to improve your writing quality, stay focused, and boost productivity. Includes ProWritingAid, Hemingway, Focus Mode, Marinara Timer, and Tab Suspender Pro."
-date: 2026-01-15
-categories: [extensions, productivity, writing]
-tags: [chrome-extensions, writing, productivity, writers, prowritingaid, hemingway, focus-mode, marinara-timer, tab-suspender]
-=======
 title: "best chrome extensions for writers 2026"
-description: "Discover the best chrome extensions for writers in 2026 to improve your writing workflow, boost productivity, and create better content with tools like ProWritingAid, Hemingway, and more."
+description: "Discover the best chrome extensions for writers in 2026 to improve your writing workflow, boost productivity, and create better content with tools like ProWr..."
 date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: chrome-extensions-for-writers
 categories: [extensions, productivity, writing]
 tags: [chrome-extension, writing-tools, productivity, writers, writing-apps]
->>>>>>> consumer/a62-chrome-extensions-for-writers
 author: theluckystrike
 ---
-
 # Best Chrome Extensions for Writers 2026
 
 <<<<<<< HEAD

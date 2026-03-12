@@ -80,3 +80,9 @@ If you use many tabs in Chrome and want to keep your browser running smoothly wh
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Closed Captions on Any Video](/articles/chrome-closed-captions-on-any-video)
+- [Chrome Service Worker High CPU Fix](/articles/chrome-service-worker-high-cpu-fix)
+- [How to Inspect and Debug IndexedDB in Chrome: A Complete Guide](/articles/chrome-indexeddb-inspect-debug)

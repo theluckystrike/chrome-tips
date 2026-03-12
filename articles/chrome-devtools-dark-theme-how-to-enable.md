@@ -73,3 +73,9 @@ Remember that keeping Chrome updated ensures you have access to all theme option
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead)
+- [Chrome Web GPU API Explained](/articles/chrome-web-gpu-api-explained)
+- [Chrome Extension Monetization Strategies That Actually Work](/articles/chrome-extension-monetization-strategies)

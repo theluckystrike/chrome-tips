@@ -86,3 +86,9 @@ Now that you understand how to enable and customize chrome high contrast mode, y
 Start by enabling high contrast mode in your browser today, and adjust the settings until you find the perfect configuration for your needs. With chrome high contrast mode, the web becomes more accessible and easier to navigate, regardless of your visual requirements.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Viewing Page Load Time](/articles/chrome-extension-for-viewing-page-load-time)
+- [Chrome PDF Not Downloading Just Opening Fix](/articles/chrome-pdf-not-downloading-just-opening-fix)
+- [Chrome IP Protection: How to Hide Your IP Address in Chrome](/articles/chrome-ip-protection-hide-ip-address)

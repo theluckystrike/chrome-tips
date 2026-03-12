@@ -64,3 +64,9 @@ If you have tried all these solutions and Chrome still will not update, the issu
 Chrome update failed error 7 is usually fixable with a few simple steps. Start with the easiest solutions and work your way up to reinstalling Chrome if needed. Most users find that running Chrome as administrator or clearing the update folder solves the problem quickly.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Cold Turkey Blocker Setup](/articles/chrome-for-cold-turkey-blocker-setup)
+- [Chrome for Khan Academy Best Settings](/articles/chrome-for-khan-academy-best-settings)
+- [Chrome for Google Meet Camera Settings](/articles/chrome-for-google-meet-camera-settings)

@@ -58,3 +58,9 @@ Finding the right chrome extensions for citation generator depends on your speci
 Remember that citation generators are helpful tools, but it is still important to review the citations they produce. No tool is perfect, and you should always check that your citations are accurate and complete before submitting your work. With the right extensions on your side, you can spend less time formatting references and more time on the actual research and writing that matters.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome classroom extension for teachers](/articles/chrome-classroom-extension-for-teachers)
+- [How to Stop Chrome from Running in Background](/articles/how-to-stop-chrome-from-running-in-background)
+- [Chrome vs DuckDuckGo Browser Privacy](/articles/chrome-vs-duckduckgo-browser-privacy)

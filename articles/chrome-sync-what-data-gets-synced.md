@@ -86,3 +86,9 @@ Managing your tabs well goes hand in hand with sync, because fewer tabs mean les
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Sign in With Google on Websites Explained](/articles/chrome-sign-in-with-google-on-websites-explained)
+- [Chrome Flags Best Performance Settings](/articles/chrome-flags-best-performance-settings)
+- [Chrome AW Snap Page Crash Fix](/articles/chrome-aw-snap-page-crash-fix)

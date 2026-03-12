@@ -133,3 +133,9 @@ Implementing the chrome credential management api is straightforward and well-do
 Remember to always prioritize security, provide appropriate fallbacks for unsupported browsers, and respect user preferences regarding credential storage. With proper implementation, the chrome credential management api can become a valuable part of your authentication strategy.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Follow Button for Websites How to Use](/articles/chrome-follow-button-for-websites-how-to-use)
+- [How to Check If Chrome Extension Is Safe](/articles/how-to-check-if-chrome-extension-is-safe)
+- [Chrome Extensions For Citation Generator](/articles//articles/chrome-extensions-for-citation-generator/)

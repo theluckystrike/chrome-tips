@@ -47,3 +47,9 @@ Also, make sure you have enough physical RAM in your computer. If you are workin
 The combination of Workona for organization and a tab suspension extension for performance gives you the best of both worlds. You can keep your projects organized and accessible while maintaining a fast, responsive browser.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out)
+- [chrome vs firefox for mac which is faster](/articles/chrome-vs-firefox-for-mac-which-is-faster)
+- [Chrome for Evernote Web Clipper Tips](/articles/chrome-for-evernote-web-clipper-tips)

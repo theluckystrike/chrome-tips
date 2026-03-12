@@ -72,3 +72,9 @@ Remember that while decorators are powerful, they are not always the right solut
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Force Mobile Site on Desktop](/articles/chrome-force-mobile-site-on-desktop)
+- [Chrome PDF Not Downloading Just Opening Fix](/articles/chrome-pdf-not-downloading-just-opening-fix)
+- [Chrome Autofill Wrong Address How to Fix](/articles/chrome-autofill-wrong-address-how-to-fix)

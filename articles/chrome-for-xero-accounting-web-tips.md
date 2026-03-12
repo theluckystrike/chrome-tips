@@ -70,3 +70,9 @@ You do not need to do this every week, but if Xero starts behaving strangely or 
 Getting the most out of Chrome for Xero accounting web tips comes down to keeping your browser organized, using built-in features like bookmarks and password management, and being thoughtful about extensions and performance. Small adjustments to how you manage your tabs and windows can make a noticeable difference in your daily workflow, giving you more time to focus on your business rather than wrestling with your browser.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Update Problems Fix](/articles/chrome-update-problems-fix)
+- [Chrome Homepage Changed by Itself Fix](/articles/chrome-homepage-changed-by-itself-fix)
+- [Chrome Developer Tools Making Page Slow: What You Need to Know](/articles//chrome-developer-tools-making-page-slow/)

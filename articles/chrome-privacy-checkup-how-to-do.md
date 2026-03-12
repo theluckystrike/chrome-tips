@@ -88,3 +88,9 @@ Chrome makes it straightforward to take control of your privacy. The built-in pr
 Take a few minutes today to run through your privacy checkup. Your future self will thank you for taking the time to protect your information now.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Slow on Windows 10 Old Laptop Fix](/articles/chrome-slow-on-windows-10-old-laptop-fix)
+- [chrome surfshark extension review 2026](/articles/chrome-surfshark-extension-review-2026)
+- [Chrome Scrolling is Choppy and Laggy](/articles/chrome-scrolling-is-choppy-and-laggy)

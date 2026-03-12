@@ -68,3 +68,9 @@ Finally, keep your extensions updated. Developers regularly release updates that
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Memory Leak Detection Guide](/articles/chrome-memory-leak-detection)
+- [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow)
+- [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching)

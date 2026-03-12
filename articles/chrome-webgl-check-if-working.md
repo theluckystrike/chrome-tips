@@ -106,3 +106,9 @@ Learning how to chrome webgl check if working is essential for anyone who relies
 With WebGL properly configured, you will enjoy smooth graphics rendering, faster performance, and full access to the innovative web applications that rely on this powerful technology.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome web share target api explained](/articles/chrome-web-share-target-api-explained)
+- [chrome force dark mode on all websites](/articles/chrome-force-dark-mode-on-all-websites)
+- [Chrome AI Summarize Feature How to Use](/articles/chrome-ai-summarize-feature-how-to-use)

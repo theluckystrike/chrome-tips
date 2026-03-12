@@ -103,3 +103,9 @@ Picture in Picture is one of those Chrome features that becomes indispensable on
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking/)
+- [Chrome Taskbar Icon Missing Fix Windows](/articles/chrome-taskbar-icon-missing-fix-windows)
+- [Chrome Tab Groups on Phone How to Use](/articles/chrome-tab-groups-on-phone-how-to-use)

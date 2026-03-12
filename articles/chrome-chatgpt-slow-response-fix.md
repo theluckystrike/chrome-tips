@@ -163,3 +163,9 @@ If you've tried everything and ChatGPT is still slow, the issue might be on Open
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for geforce now best settings](/articles/chrome-for-geforce-now-best-settings)
+- [Chrome Tracing for Performance Issues](/articles/chrome-tracing-for-performance-issues)
+- [Chrome Auto Dark Mode for Web Contents](/articles/chrome-auto-dark-mode-for-web-contents)

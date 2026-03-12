@@ -132,3 +132,9 @@ Remember to keep your Chrome browser updated to enjoy the latest improvements in
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Keyboard Shortcut Customization](/articles/chrome-for-keyboard-shortcut-customization)
+- [Chrome About Settings All Pages Explained](/articles/chrome-about-settings-all-pages-explained)
+- [chrome for soundcloud web player extensions](/articles/chrome-for-soundcloud-web-player-extensions)

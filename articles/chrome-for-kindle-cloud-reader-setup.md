@@ -81,3 +81,9 @@ Setting up Chrome for Kindle Cloud Reader is mostly about ensuring proper permis
 Give these adjustments a try, and enjoy your Kindle library from the convenience of your browser. Happy reading.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Reset Chrome to Default Settings](/articles/how-to-reset-chrome-to-default-settings)
+- [Chrome for Zoom Classes Optimization](/articles/chrome-for-zoom-classes-optimization)
+- [How to Set Up Parental Controls on Your Chromebook](/articles/chromebook-parental-controls-setup)

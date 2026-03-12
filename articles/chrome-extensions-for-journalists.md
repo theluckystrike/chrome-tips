@@ -82,3 +82,9 @@ Chrome extensions can genuinely help journalists work more efficiently, stay org
 Take some time to try a few of these suggestions and see which ones make the biggest difference in your daily work. Even small improvements in your workflow can free up time for what matters most: investigating stories and telling them well.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Best Chrome Extensions for Twitter X](/articles/best-chrome-extensions-for-twitter-x)
+- [Chrome Downloads Tips Organize and Manage](/articles/chrome-downloads-tips-organize-and-manage)
+- [Chrome for YouTube 4K Playback Settings](/articles/chrome-for-youtube-4k-playback-settings)

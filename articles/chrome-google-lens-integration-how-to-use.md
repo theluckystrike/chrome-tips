@@ -72,3 +72,9 @@ For example, if you are doing product research and opening multiple Lens results
 Keeping your browser configured for your specific needs makes all the built-in features work better. Chrome offers many settings and extensions that can be customized to fit how you browse.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Forest Focus Timer Extension](/articles/chrome-for-forest-focus-timer-extension)
+- [Chrome Spell Check Adding Custom Words](/articles/chrome-spell-check-adding-custom-words)
+- [Best Privacy Settings For Chrome 2026](/articles/best-privacy-settings-for-chrome-2026)

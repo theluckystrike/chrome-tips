@@ -64,3 +64,9 @@ Start with small changes, like moving your most-used extension to a more accessi
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Mouse Cursor Extension Customize](/articles/chrome-mouse-cursor-extension-customize)
+- [Chrome Ai Theme Generator How To Use](/articles/chrome-ai-theme-generator-how-to-use)
+- [Chrome IP Protection: How to Hide Your IP Address in Chrome](/articles/chrome-ip-protection-hide-ip-address)

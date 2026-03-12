@@ -76,3 +76,9 @@ If you find that these approaches are not enough, you might eventually want to e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome: The Most Used Browser in the World — Why?](/articles/chrome-most-used-browser-in-the-world-why)
+- [Chrome Extension Review Process: How Long Does It Take](/articles/chrome-extension-review-process-how-long)
+- [How to Turn Off Chrome Notifications on Android](/articles/how-to-turn-off-chrome-notifications-android)

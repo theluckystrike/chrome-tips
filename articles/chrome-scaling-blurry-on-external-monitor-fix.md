@@ -85,3 +85,9 @@ Using **Tab Suspender Pro** helps by automatically "pausing" tabs you aren't act
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome for SEO Keyword Research Extensions](/articles/chrome-for-seo-keyword-research-extensions)
+- [Chrome Extensions For Figma Companion](/articles//articles/chrome-extensions-for-figma-companion/)
+- [Chrome Parental Controls Without Extension](/articles/chrome-parental-controls-without-extension)

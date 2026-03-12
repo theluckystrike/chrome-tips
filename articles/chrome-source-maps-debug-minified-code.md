@@ -77,3 +77,9 @@ Chrome source maps are an essential tool for any web developer working with mini
 For developers managing multiple Chrome tabs during debugging sessions, keeping track of open tabs can become overwhelming. Tab Suspender Pro helps by automatically suspending inactive tabs, which reduces memory usage and keeps your browser responsive while you focus on tracking down bugs.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Preloading Pages Setting Explained](/articles/chrome-preloading-pages-setting-explained)
+- [Why Does Each Chrome Tab Use So Much Memory](/articles/why-does-each-chrome-tab-use-so-much-memory)
+- [Chrome DevTools Coverage Tool Explained](/articles//chrome-devtools-coverage-tool-explained/)

@@ -97,3 +97,9 @@ A student writing papers and browsing research online might love a Chromebook. A
 List the things you need your computer to do. Check whether the programs you need run on each platform. Think about where you will use it and how. Then choose the operating system that checks the most boxes for you.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Most Visited Sites How to Remove](/articles/chrome-most-visited-sites-how-to-remove)
+- [chrome vs firefox extensions comparison](/articles/chrome-vs-firefox-extensions-comparison)
+- [chrome for instacart web app best settings](/articles/chrome-for-instacart-web-app-best-settings)

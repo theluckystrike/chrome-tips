@@ -74,3 +74,9 @@ Developing good habits around tab management can also help. Try organizing tabs 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Fullscreen Mode Shortcut](/articles/chrome-fullscreen-mode-shortcut)
+- [Chrome Extension Settings Sync Across Devices](/articles/chrome-extension-settings-sync-across-devices)
+- [Chrome Extensions for Form Auto Filler](/articles/chrome-extensions-for-form-auto-filler)

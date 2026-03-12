@@ -85,3 +85,9 @@ Consider using a password manager to generate and store unique, strong passwords
 Finally, keep an eye on your accounts in the following weeks. Attackers sometimes wait before using stolen information, so stay vigilant for unusual activity.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Use Chrome Task Manager to Find Heavy Tabs](/articles/chrome-task-manager-find-heavy-tabs)
+- [Chrome Freezing on Chromebook During Zoom? Try These Fixes](/articles/chrome-freezing-on-chromebook-during-zoom)
+- [Chrome Address Bar Not Working Fix](/articles/chrome-address-bar-not-working-fix)

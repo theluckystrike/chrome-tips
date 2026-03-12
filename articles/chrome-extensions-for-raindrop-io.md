@@ -76,3 +76,9 @@ You do not need to install every extension mentioned here. Experiment with one o
 The right combination of extensions turns Chrome into a powerful companion for your Raindrop IO work. You will spend less time on friction and more time actually using your saved content to learn, research, and organize the web resources that matter to you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Performance Settings Best Configuration](/articles/chrome-performance-settings-best-configuration)
+- [Chrome Tabs on Top vs Bottom: How to Change](/articles/chrome-tabs-on-top-vs-bottom-how-to-change)
+- [Chrome Page Source How to View Explained](/articles/chrome-page-source-how-to-view-explained)

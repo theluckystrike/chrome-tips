@@ -80,3 +80,9 @@ Remember to start slow, test thoroughly, and always respect your users' preferen
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Custom Properties CSS Variables](/articles//chrome-custom-properties-css-variables/)
+- [chrome default browser how to set on windows](/articles//chrome-default-browser-how-to-set-on-windows/)
+- [My MacBook Air Gets Hot When Using Chrome: Practical Solutions](/articles/my-macbook-air-gets-hot-when-using-chrome)

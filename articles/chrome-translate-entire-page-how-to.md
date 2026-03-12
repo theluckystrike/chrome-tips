@@ -85,3 +85,9 @@ Start by using Chrome built-in translation for its simplicity and privacy. Explo
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Saved Payment Methods How to Edit](/articles/chrome-saved-payment-methods-how-to-edit)
+- [Chrome Responsive Design Mode: How to Use It Effectively](/articles/chrome-responsive-design-mode-how-to-use)
+- [Chrome Extensions For Canvas Fingerprint Blocker](/articles//articles/chrome-extensions-for-canvas-fingerprint-blocker/)

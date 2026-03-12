@@ -70,3 +70,9 @@ Keep your software updated. Chrome updates regularly include bug fixes and secur
 Review your startup programs and scheduled tasks every few months. Over time, you may install new applications that add themselves to these lists without you realizing it. A quick check now and then can catch any unwanted additions early.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome CORS Error for Regular Users](/articles/chrome-cors-error-for-regular-users)
+- [Chrome WebXR API Virtual Reality](/articles/chrome-webxr-api-virtual-reality)
+- [How to Check If Chrome Extension Is Spying on Me](/articles/how-to-check-if-chrome-extension-is-spying-on-me)

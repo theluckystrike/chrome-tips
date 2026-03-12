@@ -85,3 +85,9 @@ Regular maintenance also helps. Clearing cache and cookies periodically, or usin
 Resetting Chrome is a useful reset button when you need it, but with good habits, you might find you need it less often.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Gesture Navigation on Android](/articles/chrome-gesture-navigation-on-android)
+- [Chrome Network Tab: How to Use and Debug Network Requests](/articles/chrome-network-tab-how-to-use-debug)
+- [Chrome Release Schedule: When Is the Next Update?](/articles/chrome-release-schedule-when-next-update)

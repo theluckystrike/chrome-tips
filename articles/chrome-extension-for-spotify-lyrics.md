@@ -68,3 +68,9 @@ If you find that your browser is running slower than usual, remember that Tab Su
 Having lyrics available while listening to Spotify can transform how you experience music. Whether you are learning the words to a new song, singing along to an old favorite, or just curious about what an artist is saying, the right extension makes it easy. Explore your options, find what works for you, and enjoy a richer listening experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use)
+- [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/articles/chrome-grammarly-extension-slowing-browser)
+- [Chrome for Coupon Finding Best Extensions](/articles/chrome-for-coupon-finding-best-extensions)

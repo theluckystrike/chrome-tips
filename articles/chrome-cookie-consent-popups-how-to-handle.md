@@ -58,3 +58,9 @@ Keep in mind that cookie consent popups are unlikely to disappear anytime soon. 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Intersection Observer API Explained](/articles/chrome-intersection-observer-api-explained)
+- [Chrome Clipboard API: Copy and Paste in Modern Web Apps](/articles/chrome-clipboard-api-copy-paste)
+- [Chrome Extensions for Highlighting Text on Web](/articles/chrome-extensions-for-highlighting-text-on-web)

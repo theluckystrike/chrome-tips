@@ -70,3 +70,9 @@ The best approach is to start with one or two extensions and build from there. N
 Remember that extensions are helpers, not replacements for good work habits. Stay organized with your messages, keep your files properly named and stored, and develop routines that work for your specific workflow. The right chrome extensions for microsoft teams simply make it easier to do these things well.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Turn Off Chrome Notifications Permanently](/articles/how-to-turn-off-chrome-notifications-permanently)
+- [Chrome Shape Detection API – Barcode, Face & Text Recognition Directly in Your Browser](/articles/chrome-shape-detection-barcode-face-text)
+- [Chrome YouTube Slow But Other Sites Fine Fix](/articles/chrome-youtube-slow-but-other-sites-fine-fix)

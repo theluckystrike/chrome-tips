@@ -82,3 +82,9 @@ The Chrome reading list is a simple but powerful tool for anyone who wants to sa
 Give it a try today and see how much easier it is to stay organized with your reading.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Stop Chrome from Suspending My Tabs](/articles/how-to-stop-chrome-from-suspending-my-tabs)
+- [Chrome Extensions Conflict With Each Other Fix](/articles/chrome-extensions-conflict-with-each-other-fix)
+- [How to Update Chrome on Android](/articles/how-to-update-chrome-on-android)

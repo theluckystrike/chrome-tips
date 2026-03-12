@@ -76,3 +76,9 @@ Start with your most important sources. Archive the web pages you reference most
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome vs Safari 2026 Comparison](/articles/chrome-vs-safari-2026)
+- [chrome multiprocess architecture explained](/articles/chrome-multiprocess-architecture-explained)
+- [Best Lightweight Browsers for Chromebook](/articles/best-lightweight-browsers-for-chromebook)

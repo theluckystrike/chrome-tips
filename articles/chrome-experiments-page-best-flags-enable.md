@@ -145,3 +145,9 @@ Start by enabling the flags that match your priorities, and do not be afraid to 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for instacart web app best settings](/articles/chrome-for-instacart-web-app-best-settings)
+- [Chrome Web Animation API Explained](/articles/chrome-web-animation-api-explained)
+- [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to)

@@ -103,3 +103,9 @@ Each one shaves seconds off tasks you perform many times a day. Over a week, tha
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Best Chrome Extensions for Content Creators](/articles/best-chrome-extensions-for-content-creators)
+- [How to Close All Chrome Tabs at Once](/articles/how-to-close-all-chrome-tabs-at-once)
+- [Chrome Web App vs Native App Battery Comparison](/articles/chrome-web-app-vs-native-app-battery-comparison)

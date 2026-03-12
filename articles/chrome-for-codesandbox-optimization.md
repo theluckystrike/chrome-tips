@@ -62,3 +62,9 @@ Optimization is about finding the right balance for your workflow. Some develope
 The tips in this guide are meant to be practical and easy to implement. You do not need to change everything at once. Start with the simplest changes, like closing unused tabs, and see how it affects your experience. You might find that small adjustments make a big difference, leaving you free to focus on what matters most: writing great code.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Import Bookmarks from Firefox to Chrome](/articles/how-to-import-bookmarks-from-firefox-to-chrome)
+- [Chrome Payment Request API Guide](/articles/chrome-payment-request-api)
+- [How to Use Chrome Net Internals to Clear DNS Cache](/articles/chrome-net-internals-dns-clear-cache)

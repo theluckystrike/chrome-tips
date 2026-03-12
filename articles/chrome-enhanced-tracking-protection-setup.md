@@ -74,3 +74,9 @@ Keeping your browser updated is one of the simplest ways to maintain strong prot
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Push Notifications vs Email Comparison](/articles/chrome-push-notifications-vs-email-comparison)
+- [Chrome for Udemy in Browser Tips](/articles/chrome-for-udemy-in-browser-tips)
+- [Chrome for Facebook Ads Manager Tips](/articles/chrome-for-facebook-ads-manager-tips)

@@ -72,3 +72,9 @@ Start with the quick fixes, enable the built-in performance features, and consid
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/articles/chrome-makes-my-old-laptop-unusable)
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug)
+- [Chrome Using Too Much Disk Space Fix](/articles/chrome-using-too-much-disk-space-fix)

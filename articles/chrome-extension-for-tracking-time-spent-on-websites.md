@@ -62,3 +62,9 @@ Finally, share what you learn with others if it helps. Discussing your findings 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Mouse Scroll Not Working Fix](/articles/chrome-mouse-scroll-not-working-fix)
+- [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage/)
+- [Chrome DevTools Flexbox Debugger](/articles/chrome-devtools-flexbox-debugger)

@@ -77,3 +77,9 @@ Make a habit of restarting Chrome periodically, especially if you have been usin
 Finally, keep your system clean by running regular disk cleanup and making sure you have enough free storage space. A full hard drive can slow down all applications, including Chrome.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome source maps debug minified code](/articles/chrome-source-maps-debug-minified-code)
+- [Chrome Extensions for Google Sheets](/articles/chrome-extensions-for-google-sheets)
+- [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix)

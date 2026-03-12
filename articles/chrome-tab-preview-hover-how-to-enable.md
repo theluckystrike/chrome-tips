@@ -76,3 +76,9 @@ Getting tab previews enabled in Chrome is a straightforward process thanks to ex
 Take a moment to try a few different extensions to see which interface feels most natural. The right extension, combined with good tab management habits, transforms Chrome from a tab-heavy struggle into a productive workspace where you can find anything in seconds.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Background Tabs Slowing Down Computer Fix](/articles/chrome-background-tabs-slowing-down-computer-fix)
+- [Chrome Add to Home Screen vs Install App](/articles/chrome-add-to-home-screen-vs-install-app)
+- [Chrome Remote Desktop How to Use](/articles/chrome-remote-desktop-how-to-use)

@@ -80,3 +80,9 @@ Learning to open links in new tabs is a fundamental skill that makes Chrome brow
 Combined with good tab management habits, these shortcuts help you navigate the web more smoothly and keep your research or browsing organized. Give these methods a try and see which ones work best for your workflow.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Google Sheets](/articles/chrome-extensions-for-google-sheets)
+- [Chrome Extensions for YouTube Productivity](/articles/chrome-extensions-for-youtube-productivity)
+- [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization)

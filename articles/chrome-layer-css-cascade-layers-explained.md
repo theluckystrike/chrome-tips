@@ -65,3 +65,9 @@ Tab Suspender Pro can automatically suspend tabs you are not using, which frees 
 By keeping your browser running smoothly, you can focus on your work without dealing with slowdowns or memory issues. Combined with good CSS practices like cascade layers, you can have a more productive browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Cold Turkey Blocker Setup](/articles/chrome-for-cold-turkey-blocker-setup)
+- [Chrome Service Worker What It Does Explained](/articles/chrome-service-worker-what-it-does-explained)
+- [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer)

@@ -60,3 +60,9 @@ Finally, remember that the goal is to download videos for legitimate personal us
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Custom Elements Explained](/articles//chrome-custom-elements-explained/)
+- [How to Customize Chrome Toolbar](/articles/how-to-customize-chrome-toolbar)
+- [Chrome Android Memory Usage Too High Fix](/articles/chrome-android-memory-usage-too-high-fix)

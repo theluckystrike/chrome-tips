@@ -64,3 +64,9 @@ Finally, think about which other extensions might help your specific workflow. W
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Cookies vs Cache Difference Explained](/articles/chrome-cookies-vs-cache-difference-explained)
+- [chrome web share target api explained](/articles/chrome-web-share-target-api-explained)
+- [Chrome Gesture Navigation on Android](/articles/chrome-gesture-navigation-on-android)

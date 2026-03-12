@@ -55,3 +55,9 @@ If you find yourself with dozens of tabs open and your computer slowing down, co
 The next time your browser feels sluggish, remember that there are powerful technologies working to make your experience better, even when you cannot see them in action.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Energy Saver Mode Explained](/articles/chrome-energy-saver-mode-explained)
+- [chrome material you design on desktop](/articles/chrome-material-you-design-on-desktop)
+- [Chrome for Midjourney Web Tips](/articles/chrome-for-midjourney-web-tips)

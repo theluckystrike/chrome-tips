@@ -62,3 +62,9 @@ When you find a page full of images you want, click the extension icon to see wh
 Give each extension a try to see which one fits your style best. They all work a little differently, and the right choice depends on what kind of image downloading you do most often.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome touchscreen mode how to enable](/articles/chrome-touchscreen-mode-how-to-enable)
+- [Chrome Camera Access on Phone How to Manage](/articles/chrome-camera-access-on-phone-how-to-manage)
+- [Chrome Offline Google Calendar](/articles/chrome-offline-google-calendar)

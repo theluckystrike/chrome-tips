@@ -55,3 +55,9 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome for Hiding Social Media Feeds](/articles/chrome-for-hiding-social-media-feeds)
+- [Chrome Android Slow Fix 2026](/articles/chrome-android-slow-fix-2026)
+- [Chrome Accessibility on Phone Settings Guide](/articles/chrome-accessibility-on-phone-settings-guide)

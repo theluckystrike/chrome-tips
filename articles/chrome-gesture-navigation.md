@@ -60,3 +60,9 @@ For power users who manage many tabs, chrome gesture navigation combined with ta
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Why Is Chrome So Slow on My Computer?](/articles/why-is-chrome-so-slow-on-my-computer)
+- [Chrome for Grammar Checking Extensions](/articles/chrome-for-grammar-checking-extensions)
+- [chrome tab groups advanced tips](/articles/chrome-tab-groups-advanced-tips)

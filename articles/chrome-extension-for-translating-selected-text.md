@@ -72,3 +72,9 @@ Start by trying one of the extensions mentioned above. Most offer free versions 
 The best translation extension is the one that fits seamlessly into your workflow without adding friction. When translation becomes effortless, the language barrier fades away, and you can focus on the content itself.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Shape Detection API Face Detection](/articles/chrome-shape-detection-api-face-detection)
+- [Chrome Cookies Explained for Beginners](/articles/chrome-cookies-explained-for-beginners)
+- [Chrome Screenshot Full Page Without Extension](/articles/chrome-screenshot-full-page-without-extension)

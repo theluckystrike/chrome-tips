@@ -251,3 +251,9 @@ The examples above are starting points you can adapt to your specific needs. As 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Dailymotion Web Player](/articles/chrome-for-dailymotion-web-player)
+- [Chrome Notification Permission Block All: Complete Guide](/articles/chrome-notification-permission-block-all)
+- [chrome right to left language support](/articles/chrome-right-to-left-language-support)

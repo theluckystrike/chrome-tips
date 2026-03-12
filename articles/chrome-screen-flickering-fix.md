@@ -77,3 +77,9 @@ Using **Tab Suspender Pro** is a highly effective way to mitigate this. It autom
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug)
+- [Chrome Camera Microphone Permission Manage: Complete Guide](/articles/chrome-camera-microphone-permission-manage)
+- [Chrome Credential Manager Autofill Explained](/articles/chrome-credential-manager-autofill-explained)

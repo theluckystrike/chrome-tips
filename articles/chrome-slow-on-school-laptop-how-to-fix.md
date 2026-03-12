@@ -144,3 +144,9 @@ You don't need the latest hardware to have a smooth Chrome experience. By managi
 Start with the quick fixes first, and you'll likely see immediate improvements. Your grades (and your patience) will thank you.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Utility Process Explained](/articles/chrome-utility-process-explained)
+- [Chrome WebRTC Leak Test and Fix Guide](/articles/chrome-webrtc-leak-test-and-fix-guide)
+- [Best Chrome Extensions for Students 2026](/articles/chrome-extensions-for-students)

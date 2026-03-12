@@ -78,3 +78,9 @@ Restarting Chrome regularly also helps maintain good performance. Over time, bro
 By implementing these practices, you can create a more efficient Chrome setup that makes Canva run faster and more reliably. Small adjustments add up to a noticeably better design experience, allowing you to focus on creating without fighting your browser.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Compute Pressure API Explained: What It Means for Your Browser](/articles/chrome-compute-pressure-api-explained)
+- [Chrome for Facebook Best Extensions](/articles/chrome-for-facebook-best-extensions)
+- [Chrome Not Enough Memory Error](/articles/chrome-not-enough-memory-error)

@@ -86,3 +86,9 @@ Whether you're a developer implementing CSP on your own websites or a user curio
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for dual monitor tab management](/articles/chrome-for-dual-monitor-tab-management)
+- [Chrome Eating All My RAM? Reddit Users Share Their Solutions](/articles/chrome-eating-all-my-ram-reddit-solutions)
+- [Chrome for Email Productivity Extensions](/articles/chrome-for-email-productivity-extensions)

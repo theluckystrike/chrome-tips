@@ -77,3 +77,9 @@ If you often have many tabs open and worry about performance or accidental camer
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+
+- [Chrome Extensions For Dns Lookup](/articles//articles/chrome-extensions-for-dns-lookup/)
+- [chrome global privacy control what it does](/articles/chrome-global-privacy-control-what-it-does)
+- [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization)

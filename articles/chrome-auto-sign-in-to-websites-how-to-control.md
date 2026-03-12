@@ -72,3 +72,9 @@ Take some time to explore the settings we've discussed and experiment with diffe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome privacy badger vs ublock origin comparison](/articles/chrome-privacy-badger-vs-ublock-origin-comparison)
+- [How to Edit Any Webpage Text Using Inspect Element](/articles/chrome-edit-webpage-text-inspect-element)
+- [Chrome vs Edge for Battery Life Laptop](/articles/chrome-vs-edge-for-battery-life-laptop)

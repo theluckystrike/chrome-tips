@@ -63,3 +63,9 @@ For those who want to explore more ways to improve their browser experience and 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Forced Extensions by Admin What It Means](/articles/chrome-forced-extensions-by-admin-what-it-means)
+- [Chrome Shopping List Feature How to Use](/articles/chrome-shopping-list-feature-how-to-use)
+- [Chrome for Obsidian Web Clipper Setup](/articles/chrome-for-obsidian-web-clipper-setup)

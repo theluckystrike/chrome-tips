@@ -78,3 +78,9 @@ Managing your browser effectively involves more than just handling pop ups. If y
 Having many extensions and permitted sites can sometimes slow down your browser over time. Regularly reviewing what you have allowed and removing anything you no longer need will help maintain optimal performance.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow)
+- [chrome fingerprint protection 2026](/articles/chrome-fingerprint-protection-2026)
+- [Chrome Address Bar Shortcuts You Didn't Know](/articles/chrome-address-bar-shortcuts-you-didnt-know)

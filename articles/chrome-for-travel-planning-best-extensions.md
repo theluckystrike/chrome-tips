@@ -66,3 +66,9 @@ Remember that not every extension will be useful for every trip. A quick weekend
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Dictation How to Enable](/articles/chrome-dictation-how-to-enable)
+- [Chrome Spellcheck Not Working? Here's How to Fix It](/articles/chrome-spellcheck-not-working-fix)
+- [Chrome for Jira Best Extensions](/articles/chrome-for-jira-best-extensions)

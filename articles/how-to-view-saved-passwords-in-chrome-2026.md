@@ -71,3 +71,9 @@ Viewing your saved passwords in Chrome is a simple process once you know where t
 With your passwords easily accessible, you can log into your accounts quickly and get back to what you were doing without the frustration of forgotten credentials.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Lorem Ipsum Generator](/articles/chrome-extensions-for-lorem-ipsum-generator)
+- [chrome for mouse gestures extensions](/articles/chrome-for-mouse-gestures-extensions)
+- [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-guide)

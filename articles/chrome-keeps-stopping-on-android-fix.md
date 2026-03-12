@@ -90,3 +90,9 @@ Chrome keeps stopping on Android is a frustrating problem, but it is usually fix
 If you continue to experience problems after trying all these solutions, consider reaching out to Google support for more specialized help. They may be able to identify specific issues related to your device or account.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome protected audience api explained](/articles/chrome-protected-audience-api-explained)
+- [Chrome ERR_CERT_AUTHORITY_INVALID Fix](/articles/chrome-err-cert-authority-invalid-fix)
+- [Chrome Memory Inspector How to Use](/articles/chrome-memory-inspector-how-to-use)

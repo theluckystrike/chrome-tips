@@ -82,3 +82,9 @@ Keeping Chrome updated ensures you have the latest improvements and security fix
 Getting the most out of Chrome for Babbel web app does not require technical expertise. Simple habits like managing your tabs, enabling shortcuts, clearing cache when needed, and minimizing distractions can dramatically improve your language learning experience. Small optimizations add up over time, helping you build consistency in your practice.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome not working on fire tablet fix](/articles/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Extensions for Instapaper](/articles/chrome-extensions-for-instapaper)
+- [How to Tell Which Chrome Tab Is Draining Battery](/articles/how-to-tell-which-chrome-tab-is-draining-battery)

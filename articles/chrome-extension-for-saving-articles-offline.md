@@ -57,3 +57,9 @@ Give it a try today. Install an extension, save a few articles, and see how much
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Cast to TV How to Set Up](/articles/chrome-cast-to-tv-how-to-set-up)
+- [Chrome PWA Update Mechanism How It Works](/articles/chrome-pwa-update-mechanism-how-it-works)
+- [Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM](/articles/chrome-slow-on-work-computer-vpn)

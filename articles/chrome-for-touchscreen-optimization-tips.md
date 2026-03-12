@@ -86,3 +86,9 @@ Give these tips a try and see which ones work best for your specific device and 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Ungoogled Chromium What It Is and How to Install](/articles/ungoogled-chromium-what-it-is-and-how-to-install)
+- [Chrome Two Factor Authentication Setup Guide](/articles/chrome-two-factor-authentication-setup-guide)
+- [Chrome Extensions for Website Testing](/articles/chrome-extensions-for-website-testing)

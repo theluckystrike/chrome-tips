@@ -62,3 +62,9 @@ Once installed, visit a website with images you want to save. Click the extensio
 Start with one extension to see if it fits your workflow, and try different ones if you find their approaches differ. The best extension for you depends on the types of websites you visit and how you prefer to organize your downloads.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser](/articles/chrome-web-bluetooth-api-guide)
+- [Chrome for Todoist Web App Best Settings](/articles/chrome-for-todoist-web-app-best-settings)
+- [Chrome Extensions For Blue Light Filter](/articles//articles/chrome-extensions-for-blue-light-filter/)

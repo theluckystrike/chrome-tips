@@ -64,3 +64,9 @@ Importing bookmarks from Firefox to Chrome does not have to be complicated. The 
 Whether you are making a permanent switch or just need access to your bookmarks in Chrome for a specific task, these steps should get you there quickly. Your saved links are valuable, and with just a few clicks, you can have them ready to use in your browser of choice.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Not Responding How to Force Close Safely](/articles/chrome-not-responding-how-to-force-close-safely)
+- [Chrome Extensions That Save You Time](/articles/chrome-extensions-that-save-you-time)
+- [Chrome Extensions for Podcasters](/articles/chrome-extensions-for-podcasters)

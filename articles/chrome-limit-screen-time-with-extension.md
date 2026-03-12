@@ -100,3 +100,9 @@ Think about why you want to limit your screen time. Is it to be more productive 
 Remember that setbacks are normal. If you have a day where you spend too much time online, do not give up. Review what happened, adjust your settings if needed, and try again tomorrow.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for uber web app setup](/articles/chrome-for-uber-web-app-setup)
+- [Chrome Extensions for Nurses Healthcare](/articles/chrome-extensions-for-nurses-healthcare)
+- [Chrome Do Not Track: Does It Actually Work](/articles/chrome-do-not-track-does-it-actually-work)

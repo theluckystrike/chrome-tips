@@ -68,3 +68,9 @@ Some users benefit most from better tab management, while others need help with 
 Remember that extensions are helpers, not replacements for good meeting habits. Come prepared with whatever materials you need, test your setup ahead of time, and stay engaged throughout the call. The right integration tools simply make it easier to do these things well.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Image Downloader Bulk](/articles/chrome-extensions-for-image-downloader-bulk)
+- [Chrome GPU Acceleration Causing Problems Fix](/articles/chrome-gpu-acceleration-causing-problems-fix)
+- [Chrome for HBO Max Streaming Issues](/articles/chrome-for-hbo-max-streaming-issues)

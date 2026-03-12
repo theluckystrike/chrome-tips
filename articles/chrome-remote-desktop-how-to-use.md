@@ -80,3 +80,9 @@ Keeping your browser organized and efficient is especially important when you ar
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome PWA Install Prompt Not Showing Fix](/articles/chrome-pwa-install-prompt-not-showing-fix)
+- [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location)
+- [Chrome Private Aggregation API Explained](/articles/chrome-private-aggregation-api-explained)

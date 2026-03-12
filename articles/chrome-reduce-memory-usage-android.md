@@ -88,3 +88,9 @@ Reducing Chrome's memory usage on Android is not a one-time fix but an ongoing p
 Remember that your phone is a tool meant to make your life easier, not a device that should constantly frustrate you with slow performance. By taking a little time to optimize Chrome, you can enjoy a smoother, faster, and more enjoyable mobile browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Built-In PDF Editor Guide](/articles/chrome-pdf-editor-built-in)
+- [Chrome Local Storage View Edit: How to Inspect and Modify Website Data](/articles/chrome-local-storage-view-edit)
+- [chrome save all open tabs as bookmarks](/articles/chrome-save-all-open-tabs-as-bookmarks)

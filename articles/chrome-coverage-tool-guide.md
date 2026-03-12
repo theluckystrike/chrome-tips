@@ -98,3 +98,9 @@ Finally, combine coverage analysis with other performance tools in Chrome DevToo
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+
+- [Chrome for MasterClass Web Tips](/articles/chrome-for-masterclass-web-tips)
+- [Chrome for Redfin Web App Tips](/articles/chrome-for-redfin-web-app-tips)
+- [Chrome Service Worker Debugging Guide](/articles/chrome-service-worker-debugging)

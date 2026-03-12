@@ -72,3 +72,9 @@ Finally, regularly review the extensions you have installed and remove any that 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Blocked Download How to Unblock](/articles/chrome-blocked-download-how-to-unblock)
+- [Chrome Canva Slow Loading Fix](/articles/chrome-canva-slow-loading-fix)
+- [Chrome for Airbnb Browsing Best Extensions](/articles/chrome-for-airbnb-browsing-best-extensions)

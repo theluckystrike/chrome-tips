@@ -66,3 +66,9 @@ Finding the right chrome extensions for whatfont alternative can significantly i
 Take some time to try a few different extensions to find the one that works best for your needs. With the right tool installed, you can identify fonts on any website quickly and easily, opening up a world of typography knowledge at your fingertips.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/articles/chrome-err-ssl-protocol-error-fix)
+- [Chrome Network Tab: How to Use and Debug Network Requests](/articles/chrome-network-tab-how-to-use-debug)
+- [Chrome DevTools Protocol Monitor](/articles/chrome-devtools-protocol-monitor)

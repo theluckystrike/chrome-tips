@@ -66,3 +66,9 @@ Remember that user agent switching is not a complete privacy solution. Websites 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy)
+- [Chrome Lighthouse Treemap Explained](/articles/chrome-lighthouse-treemap-explained)
+- [Best Chrome Extensions for Nurses](/articles/best-chrome-extensions-for-nurses)

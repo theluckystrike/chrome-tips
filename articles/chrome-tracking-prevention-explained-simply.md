@@ -76,3 +76,9 @@ Chrome tracking prevention explained simply comes down to this: you have more co
 The internet will always have some level of tracking. It is how many free services stay in business, and some level of data collection makes websites work better. But within that reality, you get to decide how much you share and what you are comfortable with. Start with the steps that feel manageable, and build from there. Your browsing experience will be more private and often more enjoyable for it.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Ask Before Closing Multiple Tabs Setting](/articles/chrome-ask-before-closing-multiple-tabs-setting)
+- [Chrome Cookies vs Cache Difference Explained](/articles/chrome-cookies-vs-cache-difference-explained)
+- [Chrome Extensions for Sales Prospecting](/articles/chrome-extensions-for-sales-prospecting)

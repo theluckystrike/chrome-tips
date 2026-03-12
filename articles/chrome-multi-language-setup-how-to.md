@@ -102,3 +102,9 @@ Take some time to explore all the language settings in Chrome. The browser is mo
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [How to Fix Chrome ERR_NAME_NOT_RESOLVED Error](/articles/chrome-err-name-not-resolved-fix)
+- [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord/)
+- [Chrome Largest Contentful Paint Improve Tips](/articles/chrome-largest-contentful-paint-improve-tips)

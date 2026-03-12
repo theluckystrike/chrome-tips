@@ -80,3 +80,9 @@ Sometimes the simplest maintenance task can prevent many problems. Closing Chrom
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Taskbar Icon Missing Fix Windows](/articles/chrome-taskbar-icon-missing-fix-windows)
+- [Chrome for Window Management Extensions](/articles/chrome-for-window-management-extensions)
+- [Chrome Application Tab Inspect Service Workers](/articles/chrome-application-tab-inspect-service-workers)

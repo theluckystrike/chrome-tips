@@ -72,3 +72,9 @@ Most users don't need Chrome's background features, so turning them off is a sim
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)](/articles/how-to-downgrade-chrome-to-older-version)
+- [Chrome CDP Protocol Explained Simply](/articles/chrome-cdp-protocol-explained-simply)
+- [Chrome for Deepl Translator Extension](/articles/chrome-for-deepl-translator-extension)

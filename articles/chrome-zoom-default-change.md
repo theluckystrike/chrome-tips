@@ -84,3 +84,9 @@ Remember that your needs may change over time. If you get a new monitor or notic
 The beauty of Chrome is that these settings travel with your profile. Once you configure your ideal zoom default, it transfers across sessions and, if you use sync, across your devices.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Saved Payment Methods How to Edit](/articles/chrome-saved-payment-methods-how-to-edit)
+- [Chrome Web Store Extensions Not Installing: Fixes That Actually Work](/articles/chrome-web-store-extensions-not-installing)
+- [Chrome Permissions API for Camera and Microphone](/articles/chrome-permissions-api-camera-microphone)

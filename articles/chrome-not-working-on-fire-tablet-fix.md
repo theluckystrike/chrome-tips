@@ -73,3 +73,9 @@ Dealing with Chrome not working on your Fire tablet can be annoying, but most is
 Remember that Fire tablets have different hardware limitations compared to smartphones, so some patience and experimentation may be needed to get the best browsing experience. With these fixes, you should be able to get Chrome working smoothly on your Fire tablet again.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Best Settings for Streaming Video](/articles/chrome-best-settings-for-streaming-video)
+- [Chrome Takes Forever to Load Pages](/articles/chrome-takes-forever-to-load-pages)
+- [chrome extensions for screen dimmer](/articles/chrome-extensions-for-screen-dimmer)

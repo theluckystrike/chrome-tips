@@ -70,3 +70,9 @@ After you have fixed the immediate problem, a few ongoing habits can help you av
 By understanding what causes Chrome to use excessive CPU and taking these steps, you can enjoy a faster, more responsive browsing experience on Windows without constantly battling high resource usage.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Cast to TV How to Set Up](/articles/chrome-cast-to-tv-how-to-set-up)
+- [Chrome Extensions for Tree Style Tabs](/articles/chrome-extensions-for-tree-style-tabs)
+- [Chrome DevTools Command Menu Shortcuts](/articles//chrome-devtools-command-menu-shortcuts/)

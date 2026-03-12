@@ -72,3 +72,9 @@ Setting up chrome casting to TV is a simple process that anyone can do. You do n
 Chrome casting to TV opens up many possibilities for sharing content with others, whether you are watching videos together, sharing photos, or giving a presentation. Once you try it, you will find it becomes a handy feature that you use often.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome web nfc how it works](/articles/chrome-web-nfc-how-it-works)
+- [How to Stop Chrome from Opening on Startup](/articles/how-to-stop-chrome-from-opening-on-startup)
+- [Best Dark Mode Chrome Extension](/articles/best-dark-mode-chrome-extension)

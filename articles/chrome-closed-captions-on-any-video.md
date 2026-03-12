@@ -72,3 +72,9 @@ By exploring Chrome built-in features and available extensions, you can find the
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome View Page Resources How to](/articles/chrome-view-page-resources-how-to)
+- [Chrome Extensions For Bulk Image Downloading](/articles//articles/chrome-extensions-for-bulk-image-downloading/)
+- [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix)

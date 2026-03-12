@@ -70,3 +70,9 @@ Chrome Task Manager is an underutilized tool that can help you take control of y
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Best Dark Mode Chrome Extension](/articles/best-dark-mode-chrome-extension)
+- [Chrome Parental Controls Without Extension](/articles/chrome-parental-controls-without-extension)
+- [Chrome Address Bar Autocomplete How to Clear](/articles/chrome-address-bar-autocomplete-how-to-clear)

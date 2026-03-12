@@ -62,3 +62,9 @@ Certain browser extensions might also interfere with Memory Saver's ability to p
 Memory Saver is a powerful tool that handles most of the heavy lifting for you automatically. Combined with good browsing habits like closing unused tabs, using bookmarks for things you want to save, and restarting Chrome periodically, you can enjoy a much smoother and faster browsing experience without constantly worrying about managing your tabs manually.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-guide)
+- [Chrome Switch Between Windows Shortcut](/articles/chrome-switch-between-windows-shortcut)
+- [chrome site isolation what it does](/articles/chrome-site-isolation-what-it-does)

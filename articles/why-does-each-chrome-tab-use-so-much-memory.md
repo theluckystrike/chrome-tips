@@ -54,3 +54,9 @@ Small adjustments to how you use Chrome can make a big difference in how your co
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Tabs Keep Reloading When I Switch Back](/articles/chrome-tabs-keep-reloading-when-i-switch-back)
+- [Chrome Extensions for Meal Planning Recipes](/articles/chrome-extensions-for-meal-planning-recipes)
+- [Chrome Google Search Not Working Fix](/articles/chrome-google-search-not-working-fix)

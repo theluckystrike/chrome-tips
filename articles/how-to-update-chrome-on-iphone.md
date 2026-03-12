@@ -62,3 +62,9 @@ Keeping Chrome updated takes just a few minutes but provides important benefits.
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix)
+- [chrome recently closed tabs how to reopen](/articles/chrome-recently-closed-tabs-how-to-reopen)
+- [Chrome Extensions for Pocket Alternative](/articles/chrome-extensions-for-pocket-alternative)

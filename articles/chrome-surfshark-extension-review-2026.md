@@ -80,3 +80,9 @@ For users with more advanced requirements, such as protection for all applicatio
 Managing multiple browser extensions can sometimes slow down Chrome itself. If you find your browser running slowly with many extensions installed, consider using Tab Suspender Pro to reduce memory usage by automatically suspending tabs you are not actively using.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Organizing Research](/articles/chrome-extensions-for-organizing-research)
+- [How to Group Tabs by Color in Chrome: A Complete Guide](/articles/chrome-group-tabs-by-color-organize)
+- [Chrome Slow on Windows 11 After Update: Practical Fixes](/articles/chrome-slow-on-windows-11-after-update)

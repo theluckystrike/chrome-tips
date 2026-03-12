@@ -84,3 +84,8 @@ The Chrome Coverage Tool is an essential part of any web performance optimizatio
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+## Related Articles
+
+- [Chrome Tabs Taking Forever to Load? Here's What to Do](/articles/chrome-tabs-taking-forever-to-load)
+- [Chrome Crashing on Low Memory Computer](/articles/chrome-crashing-on-low-memory-computer)
+- [Chrome Video Speed Controller Extension](/articles/chrome-video-speed-controller-extension)

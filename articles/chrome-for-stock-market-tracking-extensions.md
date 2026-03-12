@@ -62,3 +62,9 @@ The key is finding a balance that works for you. Stock tracking extensions are m
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix)
+- [Why Is Chrome Slower Than Firefox?](/articles/why-is-chrome-slower-than-firefox)
+- [chrome javascript disable for one site how to](/articles/chrome-javascript-disable-for-one-site-how-to)

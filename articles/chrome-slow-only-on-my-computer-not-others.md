@@ -156,3 +156,9 @@ Consider:
 Chrome slow only on your computer not others is frustrating, but it's almost always fixable. Start with Memory Saver and reducing your open tabs, and you'll likely see immediate improvements. The tips above work whether you have 4GB, 8GB, or even 16GB of RAM — it's about using what you have wisely.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome DevTools Command Menu Shortcuts](/articles//chrome-devtools-command-menu-shortcuts/)
+- [Chrome Version History: Major Milestones That Shaped the Browser](/articles/chrome-version-history-major-milestones)
+- [Chrome Omnibox Search Tricks Most People Dont Know](/articles/chrome-omnibox-search-tricks-most-people-dont-know)

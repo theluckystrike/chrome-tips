@@ -90,3 +90,9 @@ If you want more control over your sessions, consider using a dedicated extensio
 Whenever possible, let Chrome close normally. Force-quitting through **Task Manager** or **Activity Monitor** can leave session data in an incomplete state, which Chrome might not be able to recover from.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Navigation Timing API Explained](/articles/chrome-navigation-timing-api-explained)
+- [Chrome Extensions for Weather Forecast New Tab](/articles/chrome-extensions-for-weather-forecast-new-tab)
+- [Why Is Chrome Using So Much Memory](/articles/why-is-chrome-using-so-much-memory)

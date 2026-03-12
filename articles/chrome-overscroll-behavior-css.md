@@ -64,3 +64,9 @@ Some developers combine **overscroll-behavior** with JavaScript to create entire
 If you are looking for a solution that works across websites without needing to modify code, browser extensions can help. **Tab Suspender Pro** is one option that can help manage how tabs behave, including some aspects of scrolling performance. This extension is part of the Zovo extension suite designed to improve your browsing experience. While it may not directly control CSS overscroll behavior on every website, it can help with overall tab management and performance.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/articles/chrome-tab-hibernate-save-memory)
+- [Chrome Helper Renderer High CPU Mac Fix](/articles/chrome-helper-renderer-high-cpu-mac-fix)
+- [Chrome Freezing on Chromebook During Zoom? Try These Fixes](/articles/chrome-freezing-on-chromebook-during-zoom)

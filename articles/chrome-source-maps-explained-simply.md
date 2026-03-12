@@ -64,3 +64,9 @@ Keeping your browser organized and managing your tabs effectively can make a not
 Chrome source maps explained simply is really about understanding how modern web development works behind the scenes. These files help developers do their jobs more effectively, which ultimately benefits anyone who uses the web. The next time you notice a website bug getting fixed quickly or an error message that actually makes sense, there is a good chance that source maps helped the developers identify and resolve the problem efficiently.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Location Access for One Site How to Allow](/articles/chrome-location-access-for-one-site-how-to-allow)
+- [Chrome Custom Tabs on Android What They Are](/articles//chrome-custom-tabs-on-android-what-they-are/)
+- [Chrome Canvas Fingerprinting How to Block](/articles/chrome-canvas-fingerprinting-how-to-block)

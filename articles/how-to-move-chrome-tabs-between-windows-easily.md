@@ -72,3 +72,9 @@ Finally, consider using bookmarks for pages you want to save long-term. Moving t
 Moving tabs between windows does not have to be complicated. With drag and drop, keyboard shortcuts, tab groups, and helpful extensions like Tab Suspender Pro, you can organize your browser exactly the way you want.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Navigator Sendbeacon Explained](/articles/chrome-navigator-sendbeacon-explained)
+- [Chrome for Duolingo Web App Optimization](/articles/chrome-for-duolingo-web-app-optimization)
+- [Chrome DevTools Rendering Tab Explained](/articles/chrome-devtools-rendering-tab-explained)

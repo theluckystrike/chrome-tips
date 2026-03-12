@@ -83,3 +83,9 @@ Start with the simplest steps first, like clearing your cache and closing unnece
 Video streaming should be enjoyable, and with a little optimization, Chrome can deliver a much better Dailymotion experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chromebook Accessibility Features Guide](/articles/chromebook-accessibility-features-guide)
+- [Chrome Cast Tab to TV Not Working Fix](/articles/chrome-cast-tab-to-tv-not-working-fix)
+- [Chrome Extensions for WebRTC Leak Prevention](/articles/chrome-extensions-for-webrtc-leak-prevention)

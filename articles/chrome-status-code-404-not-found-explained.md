@@ -69,3 +69,9 @@ A 404 error in Chrome is rarely serious. It is simply the server telling you tha
 By checking the URL, refreshing the page, clearing caches, and trying a search, you can usually find what you are looking for or confirm that the page is simply no longer available. Keep your browser updated and your extensions in check, and you will see fewer of these errors overall.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Clipboard Manager](/articles//articles/chrome-extensions-for-clipboard-manager/)
+- [chrome stale while revalidate strategy explained](/articles/chrome-stale-while-revalidate-strategy-explained)
+- [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord/)

@@ -81,3 +81,9 @@ Learning to use Chrome Inspect Element is one of those things that seems technic
 Give it a try on your next browsing session. Pick one small thing you want to understand or fix, and see what Inspect Element can show you. You might be surprised at how much you discover.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome youtube comments not showing fix](/articles/chrome-youtube-comments-not-showing-fix)
+- [chrome circle to search on desktop](/articles/chrome-circle-to-search-on-desktop)
+- [Chrome Extensions for Todoist](/articles/chrome-extensions-for-todoist)

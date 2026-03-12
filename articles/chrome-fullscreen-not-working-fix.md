@@ -96,3 +96,9 @@ As a last resort, completely uninstall Chrome and reinstall it. This ensures you
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Not Responding How to Force Close Safely](/articles/chrome-not-responding-how-to-force-close-safely)
+- [Chrome Extension Marketing Tips to Grow Your User Base](/articles/chrome-extension-marketing-tips-grow-users)
+- [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure)

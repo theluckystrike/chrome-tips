@@ -72,3 +72,9 @@ Most meeting problems stem from Chrome using too many resources or competing for
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Closed Captions on Any Video](/articles/chrome-closed-captions-on-any-video)
+- [Chrome Not Responding? Force Close It This Way](/articles/chrome-not-responding-force-close-how)
+- [Chrome Extensions for Noscript Alternative](/articles/chrome-extensions-for-noscript-alternative)

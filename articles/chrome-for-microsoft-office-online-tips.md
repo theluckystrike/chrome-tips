@@ -78,3 +78,9 @@ Making Chrome work better with Microsoft Office online does not require technica
 These small optimizations can make a big difference in your daily workflow, especially if you spend significant time working on documents online.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Meal Planning Recipes](/articles/chrome-extensions-for-meal-planning-recipes)
+- [Chrome for SEO Keyword Research Extensions](/articles/chrome-for-seo-keyword-research-extensions)
+- [Chrome Extensions for Language Learning](/articles/chrome-extensions-for-language-learning)

@@ -72,3 +72,9 @@ Be selective about how many extensions you install. Each extension adds to Chrom
 Remember that your browser is your primary workspace as a social media manager. Keeping it organized, fast, and equipped with the right tools directly impacts your ability to deliver great results for your clients or brand.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Coupon Codes Automatic](/articles/chrome-extension-for-coupon-codes-automatic)
+- [Chrome Memory Saver Feature Explained](/articles/chrome-memory-saver-feature-explained)
+- [Chrome WebXR API Virtual Reality](/articles/chrome-webxr-api-virtual-reality)

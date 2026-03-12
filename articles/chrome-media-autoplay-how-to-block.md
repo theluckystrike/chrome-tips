@@ -66,3 +66,9 @@ The web should work for you, not against you. Autoplay exists because it benefit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for QuickBooks Online Best Settings](/articles/chrome-for-quickbooks-online-best-settings)
+- [Chrome Figma Running Slow Fix: A Practical Guide](/articles/chrome-figma-running-slow-fix)
+- [Chrome Media Session API: Mastering Music Controls in Your Browser](/articles/chrome-media-session-api-music-controls)

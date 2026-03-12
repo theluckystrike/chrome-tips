@@ -74,3 +74,9 @@ The choice is yours, and now you have the information to make the decision that 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Hidden Chrome Extensions You Should Install](/articles/hidden-chrome-extensions-you-should-install)
+- [Chrome Extension for Email Tracking Notification](/articles/chrome-extension-for-email-tracking-notification)
+- [Chrome Built-In Screenshot Tool](/articles/chrome-built-in-screenshot-tool)

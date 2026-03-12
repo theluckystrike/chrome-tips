@@ -68,3 +68,9 @@ For most users, the steps above will significantly reduce Chrome's memory usage 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Spell Check Adding Custom Words](/articles/chrome-spell-check-adding-custom-words)
+- [Chrome Passkeys Explained for Beginners](/articles/chrome-passkeys-explained-for-beginners)
+- [Chrome Extensions For Diigo](/articles//articles/chrome-extensions-for-diigo/)

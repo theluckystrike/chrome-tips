@@ -78,3 +78,9 @@ Using **Tab Suspender Pro** is an excellent way to handle this. It automatically
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Web Vitals Extension How to Use](/articles/chrome-web-vitals-extension-how-to-use)
+- [Chrome GDPR Cookie Banners Best Extension to Handle](/articles/chrome-gdpr-cookie-banners-best-extension-to-handle)
+- [Chrome DNS Over HTTPS How to Enable](/articles/chrome-dns-over-https-how-to-enable)

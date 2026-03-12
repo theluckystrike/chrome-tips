@@ -65,3 +65,9 @@ Managing tabs is an ongoing process, not a one-time fix. The more attention you 
 Your phone is supposed to make your life easier, not add another thing to worry about. By taking a few simple steps to manage your tabs, you can enjoy a faster, cleaner, and less stressful browsing experience on Chrome for Android.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chromebook touchscreen not working fix](/articles/chromebook-touchscreen-not-working-fix)
+- [Chrome Font Fingerprinting Explained and Fix](/articles/chrome-font-fingerprinting-explained-and-fix)
+- [Chrome Extensions for Google Sheets](/articles/chrome-extensions-for-google-sheets)

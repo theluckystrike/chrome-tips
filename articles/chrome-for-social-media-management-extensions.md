@@ -74,3 +74,9 @@ With the right set of extensions, Chrome can become a powerful command center fo
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Migrate Chrome Data to a New Computer](/articles/how-to-migrate-chrome-data-to-new-computer)
+- [Chrome Microphone Not Working Fix](/articles/chrome-microphone-not-working-fix)
+- [Chrome for Managing Site Notifications](/articles/chrome-for-managing-site-notifications)

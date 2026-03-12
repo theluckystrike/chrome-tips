@@ -69,3 +69,9 @@ The decision between Chrome and Firefox ultimately depends on your specific need
 Test both browsers with your typical workflow to see which one performs better for you. Memory usage is important, but overall browsing experience matters too. The browser that helps you get work done most effectively is likely the right choice, even if it uses slightly more memory.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/articles/chrome-slows-down-after-opening-20-tabs)
+- [Chrome for Zotero Web Connector Setup](/articles/chrome-for-zotero-web-connector-setup)
+- [chrome upcoming features roadmap 2026](/articles/chrome-upcoming-features-roadmap-2026)

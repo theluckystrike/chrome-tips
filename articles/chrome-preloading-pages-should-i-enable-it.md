@@ -76,3 +76,9 @@ Remember that you can always change your mind. Chrome settings are not permanent
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome material you design on desktop](/articles/chrome-material-you-design-on-desktop)
+- [Chrome Extensions for Better YouTube Experience](/articles/chrome-extensions-for-better-youtube-experience)
+- [Best Chrome Extensions for Students 2026](/articles/chrome-extensions-for-students)

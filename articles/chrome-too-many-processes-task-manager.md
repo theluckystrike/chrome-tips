@@ -66,3 +66,9 @@ Some users also find that switching to a lighter-weight browser helps, particula
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome shared storage api privacy impact](/articles/chrome-shared-storage-api-privacy-impact)
+- [Chrome Web Store Best Free Games](/articles/chrome-web-store-best-free-games)
+- [Chrome View Transitions API Explained](/articles/chrome-view-transitions-api-explained)

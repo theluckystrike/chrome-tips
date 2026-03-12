@@ -83,3 +83,9 @@ You do not need to be technical to get more out of Chrome on Android. Start with
 If you have been feeling held back by Chrome on your Android phone, try these suggestions and see the difference for yourself. A faster, more capable browser means less waiting and more enjoying the web, whether you are checking email, reading news, or browsing social media.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Release Schedule: How Often Does It Update](/articles/chrome-release-schedule-how-often-does-it-update)
+- [Chrome Safe Browsing: What It Does and How It Protects You](/articles/chrome-safe-browsing-what-it-does)
+- [chrome home screen shortcut how to add on phone](/articles/chrome-home-screen-shortcut-how-to-add-on-phone)

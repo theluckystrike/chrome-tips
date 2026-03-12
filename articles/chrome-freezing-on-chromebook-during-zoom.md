@@ -88,3 +88,9 @@ Video calling on Chromebooks has come a long way, and with the right settings an
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/articles/chrome-save-webpage-as-mhtml-offline)
+- [Best Chrome Extensions for Researchers](/articles/best-chrome-extensions-for-researchers)
+- [chrome safe browsing should i turn on](/articles/chrome-safe-browsing-should-i-turn-on)

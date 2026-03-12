@@ -92,3 +92,9 @@ Facebook is a powerful platform, but it does not always work the way we want it 
 Remember that extensions use some of your browser resources, so it is a good idea to keep an eye on how many you have installed. Using something like Tab Suspender Pro can help keep your browser running smoothly even with several extensions active.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions Conflict With Each Other Fix](/articles/chrome-extensions-conflict-with-each-other-fix)
+- [Chrome for PeerTube Web Setup](/articles/chrome-for-peertube-web-setup)
+- [Chrome Taking 5 Minutes to Load: Fixes for Slow Computers](/articles/chrome-taking-5-minutes-to-load)

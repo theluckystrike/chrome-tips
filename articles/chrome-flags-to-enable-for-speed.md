@@ -57,3 +57,9 @@ Getting the most out of Chrome for speed does not require you to become a techni
 If you have been struggling with a slow Chrome browser, try these suggestions and see the difference for yourself. A faster browser means less waiting and more doing, whether you are working, browsing for fun, or anything in between.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for shopping price comparison tools](/articles/chrome-for-shopping-price-comparison-tools)
+- [Chrome Extensions for Microsoft Teams](/articles/chrome-extensions-for-microsoft-teams)
+- [Chrome for Mendeley Web Importer Tips](/articles/chrome-for-mendeley-web-importer-tips)

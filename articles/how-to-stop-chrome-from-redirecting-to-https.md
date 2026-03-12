@@ -76,3 +76,9 @@ Remember that you can always type an HTTP address directly into the address bar 
 Taking a moment to understand these settings gives you more flexibility while keeping your everyday browsing secure. The web is moving toward HTTPS by default, and for good reason, but that does not mean you should be locked out of older content when you genuinely need access.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.
+
+## Related Articles
+
+- [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/articles/chrome-extensions-developer-mode)
+- [Chrome Extensions for Google Calendar](/articles/chrome-extensions-for-google-calendar)
+- [Chrome for Babbel Web App Tips](/articles/chrome-for-babbel-web-app-tips)

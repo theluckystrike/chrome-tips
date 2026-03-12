@@ -78,3 +78,9 @@ Whether you choose Honey, Capital One Shopping, Rakuten, Giveaway, or another ex
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Blink Engine Explained For Beginners](/articles/chrome-blink-engine-explained-for-beginners)
+- [Chrome Extensions for Research Papers](/articles/chrome-extensions-for-research-papers)
+- [Chrome How to Disable GPU Acceleration](/articles/chrome-how-to-disable-gpu-acceleration)

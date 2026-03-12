@@ -58,3 +58,9 @@ Most extensions mentioned here are available through the Chrome Web Store and ca
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Resume Failed Download in Chrome](/articles/how-to-resume-failed-download-in-chrome)
+- [Chrome for Job Searching Best Extensions](/articles/chrome-for-job-searching-best-extensions)
+- [how to make chrome default browser mac](/articles/how-to-make-chrome-default-browser-mac)

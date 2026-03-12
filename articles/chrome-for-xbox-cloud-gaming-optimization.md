@@ -80,3 +80,9 @@ Remember that small things add up. That extension you forgot was running in the 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Startup Too Slow Diagnosis Guide](/articles/chrome-startup-too-slow-diagnosis-guide)
+- [Chrome Canary vs Stable Difference Explained](/articles/chrome-canary-vs-stable-difference-explained)
+- [chrome for video downloading legal methods](/articles/chrome-for-video-downloading-legal-methods)

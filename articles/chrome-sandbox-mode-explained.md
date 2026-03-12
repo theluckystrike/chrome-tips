@@ -69,3 +69,9 @@ Using **Tab Suspender Pro** helps manage this by automatically "parking" inactiv
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Attribution Reporting Guide](/articles/chrome-attribution-reporting)
+- [Chrome Incognito What Can My Employer See](/articles/chrome-incognito-what-can-my-employer-see)
+- [Chrome Web and App Activity How to Delete](/articles/chrome-web-and-app-activity-how-to-delete)

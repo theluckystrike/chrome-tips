@@ -80,3 +80,9 @@ Testing is the best way to know the real impact on your specific laptop. Try usi
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome trusted types dom xss prevent](/articles/chrome-trusted-types-dom-xss-prevent)
+- [Chrome Toggle Fullscreen Shortcut](/articles/chrome-toggle-fullscreen-shortcut)
+- [Chrome Cookies Explained for Beginners](/articles/chrome-cookies-explained-for-beginners)

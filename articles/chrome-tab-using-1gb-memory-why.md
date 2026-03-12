@@ -92,3 +92,9 @@ A Chrome tab using 1GB of memory is not unusual for modern websites, but it does
 The key is to be proactive. Check Chrome Task Manager regularly, close unused tabs, and keep your extensions lean. With these practices, even computers with limited RAM can enjoy a smooth browsing experience without constant slowdowns.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chromebook not connecting to wifi fix](/articles/chromebook-not-connecting-to-wifi-fix)
+- [Chrome for Google Classroom Tips](/articles/chrome-for-google-classroom-tips)
+- [Chrome for Quizlet Web App Best Settings](/articles/chrome-for-quizlet-web-app-best-settings)

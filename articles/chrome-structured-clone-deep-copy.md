@@ -148,3 +148,9 @@ For developers looking to optimize their Chrome extension performance, understan
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome CSS Animations Performance Tips](/articles//chrome-css-animations-performance-tips/)
+- [Chrome DevTools Performance Panel Explained](/articles/chrome-devtools-performance-panel-explained)
+- [Chrome Mobile Tabs Too Many How to Manage](/articles/chrome-mobile-tabs-too-many-how-to-manage)

@@ -72,3 +72,9 @@ You might find that the simple addition of quick access to bookmarks and your re
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Built-In PDF Editor Guide](/articles/chrome-pdf-editor-built-in)
+- [Chrome Default Apps Settings: A Complete Guide](/articles//chrome-default-apps-settings/)
+- [Best Screenshot Chrome Extension](/articles/best-screenshot-chrome-extension)

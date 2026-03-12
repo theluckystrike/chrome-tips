@@ -65,3 +65,9 @@ The best chrome bookmark manager extension is the one that fits seamlessly into 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Set Homepage on Chrome](/articles/how-to-set-homepage-on-chrome)
+- [Best Chrome Extensions for Podcasters](/articles/best-chrome-extensions-for-podcasters)
+- [Best Chrome Extensions For Lawyers](/articles/best-chrome-extensions-for-lawyers)

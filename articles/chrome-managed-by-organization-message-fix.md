@@ -90,3 +90,9 @@ Once the message is gone, you can enjoy using Chrome with full control over your
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [chrome offline first app design explained](/articles/chrome-offline-first-app-design-explained)
+- [Chrome Picture in Picture How to Use](/articles/chrome-picture-in-picture-how-to-use)
+- [Chrome vs Safari Memory Usage Mac](/articles/chrome-vs-safari-memory-usage-mac)

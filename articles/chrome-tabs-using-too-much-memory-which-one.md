@@ -56,3 +56,9 @@ Update Chrome regularly. Newer versions often include performance improvements a
 Avoid keeping tabs with auto-refreshing content open in the background. News sites, stock tickers, and social media feeds constantly refresh, which keeps them active and consuming memory. If you need to check something periodically, close the tab and reopen it when needed.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage)
+- [Chrome Keyboard Lock API: Building Immersive Fullscreen Games](/articles/chrome-keyboard-lock-api-fullscreen-games)
+- [How to Group Tabs by Color in Chrome: A Complete Guide](/articles/chrome-group-tabs-by-color-organize)

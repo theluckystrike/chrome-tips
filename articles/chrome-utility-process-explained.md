@@ -77,3 +77,9 @@ Chrome utility processes are a fundamental part of how the browser functions, ha
 Most users never need to worry about utility processes. However, when performance issues arise, knowing how to monitor and manage these processes gives you valuable control over your browser. Combined with good extension management, thoughtful tab handling, and tools like Tab Suspender Pro, you can maintain excellent browser performance without sacrificing the features that make Chrome powerful.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does)
+- [Chrome Regex Lookbehind Support: What You Need to Know](/articles/chrome-regex-lookbehind-support)
+- [Chrome Overriding CSS in DevTools: A Practical Tutorial](/articles/chrome-overriding-css-in-devtools-tutorial)

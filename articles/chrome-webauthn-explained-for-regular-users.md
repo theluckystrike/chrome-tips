@@ -61,3 +61,9 @@ WebAuthn represents an important step forward in how we log into websites. It ma
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Best Privacy Settings For Chrome 2026](/articles/best-privacy-settings-for-chrome-2026)
+- [Chrome for Google Keep Extension Tips](/articles/chrome-for-google-keep-extension-tips)
+- [Chrome Octane Score Explained](/articles/chrome-octane-score-explained)

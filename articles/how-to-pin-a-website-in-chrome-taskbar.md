@@ -72,3 +72,9 @@ If you ever want to remove a pinned site, simply right-click on it in your taskb
 Pinning websites to your taskbar is a small change that can make a big difference in your daily browsing. It takes just a few seconds to set up, and once you have your most-used sites pinned, you will wonder how you ever managed without it. Give it a try with a few of your favorite websites and see how much faster your workflow becomes.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extension Manifest V3 What Users Need to Know](/articles/chrome-extension-manifest-v3-what-users-need-to-know)
+- [How to Check Website Speed in Chrome](/articles/how-to-check-website-speed-in-chrome)
+- [Chrome for Citation and Research Extensions](/articles/chrome-for-citation-and-research-extensions)

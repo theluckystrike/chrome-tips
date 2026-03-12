@@ -104,3 +104,9 @@ Keeping Chrome updated and managing your open tabs can prevent most issues from 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome for Trello Power Ups in Browser](/articles/chrome-for-trello-power-ups-in-browser)
+- [Chrome AW Snap Page Crash Fix](/articles/chrome-aw-snap-page-crash-fix)
+- [Chrome vs DuckDuckGo Browser Privacy](/articles/chrome-vs-duckduckgo-browser-privacy)

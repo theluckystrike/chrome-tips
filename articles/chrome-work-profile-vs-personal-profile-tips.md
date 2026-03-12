@@ -82,3 +82,9 @@ Setting up separate Chrome profiles for work and personal use is one of the simp
 Start with two profiles, customize them with the right extensions and bookmarks, and notice how much easier it is to find what you need when you need it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Mouse Scroll Not Working Fix](/articles/chrome-mouse-scroll-not-working-fix)
+- [Chrome Font Fingerprinting Explained and Fix](/articles/chrome-font-fingerprinting-explained-and-fix)
+- [Chrome Extensions for Reverse Video Search](/articles/chrome-extensions-for-reverse-video-search)

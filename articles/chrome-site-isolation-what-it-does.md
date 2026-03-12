@@ -87,3 +87,9 @@ Chrome site isolation what it does is protect you by keeping websites separate i
 By understanding how site isolation works, you can better appreciate the protections built into your browser and make informed decisions about your browsing habits. Keeping your browser updated ensures you continue to benefit from the latest security improvements, including refinements to site isolation that address new threats as they emerge.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Text Size on Phone How to Change](/articles/chrome-text-size-on-phone-how-to-change)
+- [Chrome Default Download Location How to Change](/articles//chrome-default-download-location-how-to-change/)
+- [chrome new tab page how to customize](/articles/chrome-new-tab-page-how-to-customize)

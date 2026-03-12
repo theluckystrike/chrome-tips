@@ -74,3 +74,9 @@ If you find that Chrome becomes slow or resource-heavy with all the Family Link 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Profile Import From Another Computer](/articles/chrome-profile-import-from-another-computer)
+- [chrome extensions for one click bookmark folders](/articles/chrome-extensions-for-one-click-bookmark-folders)
+- [Chrome View Page Source: What It Tells You](/articles/chrome-view-page-source-what-it-tells-you)

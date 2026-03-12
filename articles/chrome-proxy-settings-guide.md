@@ -217,3 +217,9 @@ With this knowledge, you are now equipped to configure Chrome proxy settings eff
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Group Tabs by Color in Chrome: A Complete Guide](/articles/chrome-group-tabs-by-color-organize)
+- [Chrome Camera Not Working Fix](/articles/chrome-camera-not-working-fix)
+- [Chrome Extensions for Text Comparison Diff Tool](/articles/chrome-extensions-for-text-comparison-diff-tool)

@@ -77,3 +77,9 @@ Make it a routine to review your extensions, stay informed about what permission
 By taking these steps, you can enjoy the benefits that extensions provide while keeping your browsing private and secure.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Performance Getting Worse Over Time](/articles/chrome-performance-getting-worse-over-time)
+- [Chrome Extensions For Figma Companion](/articles//articles/chrome-extensions-for-figma-companion/)
+- [Best Chrome Extensions for Small Business Owners](/articles/best-chrome-extensions-for-small-business-owners)

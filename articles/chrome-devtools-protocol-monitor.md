@@ -63,3 +63,9 @@ As you become more familiar with the tool, you will find it easier to spot patte
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome on raspberry pi how to install](/articles/chrome-on-raspberry-pi-how-to-install)
+- [Chrome for QuickBooks Online Best Settings](/articles/chrome-for-quickbooks-online-best-settings)
+- [How to Set Up Chrome Profiles for Work and Personal](/articles/how-to-set-up-chrome-profiles-for-work-and-personal)

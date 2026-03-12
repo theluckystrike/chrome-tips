@@ -80,3 +80,9 @@ The key is to manage your tabs well and keep your browser updated properly. By f
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome color mix function css](/articles/chrome-color-mix-function-css)
+- [Chrome for Grammar Checking Extensions](/articles/chrome-for-grammar-checking-extensions)
+- [Chrome Shape Detection API Explained](/articles/chrome-shape-detection-api-explained)

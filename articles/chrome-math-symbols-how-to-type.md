@@ -69,3 +69,9 @@ Third, practice makes perfect. The more you use these methods, the faster they w
 Typing math symbols in Chrome does not have to be a headache. Whether you prefer using Unicode codes, keyboard shortcuts, copy and paste, or extensions, there is a method that will work for your situation. Explore these options and find the approach that fits your workflow best.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Password Not Autofilling Fix](/articles/chrome-password-not-autofilling-fix)
+- [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs)
+- [Chrome Extensions for Website Blocker](/articles/chrome-extensions-for-website-blocker)

@@ -98,3 +98,9 @@ Chrome crashing on low memory computer is a frustrating problem, but it is one y
 Remember that your computer's limited RAM does not mean you cannot have a good browsing experience. With the right settings and a few adjustments, Chrome can run reliably even on older hardware. Try these solutions one at a time to see which ones make the biggest difference for you.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome extensions for journalists](/articles/chrome-extensions-for-journalists)
+- [Chrome IP Protection Feature Explained](/articles/chrome-ip-protection-feature-explained)
+- [Chrome Jump to Specific Tab Number Shortcut](/articles/chrome-jump-to-specific-tab-number-shortcut)

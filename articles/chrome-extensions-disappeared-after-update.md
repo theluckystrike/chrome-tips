@@ -50,3 +50,9 @@ You can also try clearing your browser cache and cookies. Sometimes cached data 
 If all else fails, you may need to reset Chrome to its default settings. This removes all your extensions, settings, and data, so make sure to back up anything important first. After the reset, you can reinstall your extensions from the Chrome Web Store.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Keeps Stopping on Android Fix](/articles/chrome-keeps-stopping-on-android-fix)
+- [chrome reopen closed tab shortcut](/articles/chrome-reopen-closed-tab-shortcut)
+- [Chrome for Babbel Web App Tips](/articles/chrome-for-babbel-web-app-tips)

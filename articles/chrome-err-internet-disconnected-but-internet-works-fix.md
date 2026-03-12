@@ -80,3 +80,9 @@ By following these troubleshooting steps, you should be able to get Chrome worki
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome web share api how it works](/articles/chrome-web-share-api-how-it-works)
+- [How to Limit Chrome Extension Permissions](/articles/how-to-limit-chrome-extension-permissions)
+- [Chrome for News Reading Best Setup](/articles/chrome-for-news-reading-best-setup)

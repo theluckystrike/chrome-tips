@@ -71,3 +71,9 @@ You could also try creating a new user profile in Chrome. Sometimes a corrupted 
 As a last resort, you might want to check if there are any background processes or malware on your computer that could be affecting performance. Sometimes other programs running in the background can compete with Chrome for resources, especially after your computer wakes from hibernation.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Hijacked Homepage Fix](/articles/chrome-hijacked-homepage-fix)
+- [Best Chrome Extensions For Journalists](/articles/best-chrome-extensions-for-journalists)
+- [Chrome WebRTC Leak Test and Fix Guide](/articles/chrome-webrtc-leak-test-and-fix-guide)

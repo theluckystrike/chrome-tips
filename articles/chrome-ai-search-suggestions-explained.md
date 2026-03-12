@@ -84,3 +84,9 @@ The best approach is to experiment with different settings and find what works f
 Take some time to review your Chrome settings, clear any data you are uncomfortable with, and adjust the autocomplete options to match your needs. A few minutes of configuration can make your browsing experience feel much more personalized and private.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Built in Password Checkup How to Use](/articles/chrome-built-in-password-checkup-how-to-use)
+- [How to Recover Accidentally Closed Chrome Tabs](/articles/accidentally-closed-all-chrome-tabs-recovery)
+- [Do Chrome Extensions Slow Down Your Browser](/articles/do-chrome-extensions-slow-down-your-browser)

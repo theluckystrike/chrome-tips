@@ -95,3 +95,9 @@ Chrome sync between devices is incredibly useful when it works, and most of the 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord/)
+- [Best Chrome Extensions for Online Sellers](/articles/best-chrome-extensions-for-online-sellers)
+- [Chrome Extensions for News Aggregator](/articles/chrome-extensions-for-news-aggregator)

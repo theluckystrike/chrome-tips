@@ -66,3 +66,9 @@ The chrome view source shortcut is one of those simple but powerful features tha
 Next time you are curious about how a website is built, want to troubleshoot an issue, or are learning web development, remember this handy shortcut. It opens up a world of understanding about the websites you visit every day.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Salesforce Web App Optimization](/articles/chrome-for-salesforce-web-app-optimization)
+- [Chrome Background Sync API Explained](/articles/chrome-background-sync-api-explained)
+- [chrome themes best dark themes 2026](/articles/chrome-themes-best-dark-themes-2026)

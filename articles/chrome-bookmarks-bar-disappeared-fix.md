@@ -92,3 +92,9 @@ Once your bookmarks bar is working again, take a moment to make sure your import
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser)
+- [Chrome Freezing on Chromebook During Zoom? Try These Fixes](/articles/chrome-freezing-on-chromebook-during-zoom)
+- [Chrome Sync What Data Gets Synced](/articles/chrome-sync-what-data-gets-synced)

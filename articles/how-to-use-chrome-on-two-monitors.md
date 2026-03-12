@@ -64,3 +64,9 @@ Take some time to experiment with different arrangements and find what works bes
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Navigation API for Single Page Apps: A Complete Guide](/articles/chrome-navigation-api-single-page-apps)
+- [Chrome for Disney Plus Not Working Fix](/articles/chrome-for-disney-plus-not-working-fix)
+- [Chrome Safety Check What It Does](/articles/chrome-safety-check-what-it-does)

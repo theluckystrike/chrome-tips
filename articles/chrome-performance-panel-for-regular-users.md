@@ -79,3 +79,9 @@ Regular maintenance helps prevent performance problems from building up. Clear y
 Using tools like the **Performance panel** and **Memory Saver**, you do not need technical expertise to keep your browser running well. A few simple habits and the right tools can make a big difference in how fast and responsive Chrome feels day to day.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome DevTools Override Files Locally](/articles/chrome-devtools-override-files-locally)
+- [chrome performance monitor fps counter](/articles/chrome-performance-monitor-fps-counter)
+- [Chrome Push Notifications Web Apps: Complete Guide](/articles/chrome-push-notifications-web-apps)

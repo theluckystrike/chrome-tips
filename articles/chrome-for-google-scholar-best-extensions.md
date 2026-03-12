@@ -75,3 +75,9 @@ If tab management is your main challenge, Tab Suspender Pro can help. If citatio
 Once you have the right tools in place, you will notice a smoother research process that lets you focus on what matters most: reading, analyzing, and contributing to your field. Small improvements in your research tools can lead to significant productivity gains over time.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api)
+- [chrome extensions for website distraction blocker](/articles/chrome-extensions-for-website-distraction-blocker)
+- [Chrome Settings You Should Change Right Now](/articles/chrome-settings-you-should-change-right-now)

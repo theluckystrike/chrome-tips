@@ -78,3 +78,9 @@ If you have been feeling limited by Chrome on your Android phone, try these sugg
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [chrome extensions for graphic designers](/articles/chrome-extensions-for-graphic-designers)
+- [Chrome Trust Tokens Explained](/articles/chrome-trust-tokens-guide)
+- [Best Chrome Extensions for Content Creators](/articles/best-chrome-extensions-for-content-creators)

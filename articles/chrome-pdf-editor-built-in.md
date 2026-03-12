@@ -111,3 +111,9 @@ The key advantages are clear: no additional software installation required, seam
 Next time you need to fill out a form, sign a contract, or add notes to a PDF, try Chrome's built-in editor first. You might find it handles everything you need without ever needing to reach for additional tools. Combined with smart tab management practices, Chrome can serve as your go-to solution for efficient PDF handling.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Biometric Authentication for the Web](/articles/chrome-biometric-authentication-web)
+- [Chrome Autofill Settings Complete Guide](/articles/chrome-autofill-settings-complete)
+- [Chrome Memory Leak Fix for 2026](/articles/chrome-memory-leak-fix-2026)

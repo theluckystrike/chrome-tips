@@ -70,3 +70,9 @@ If you find yourself frequently losing track of open tabs and needing to revisit
 The extension works automatically in the background, so you do not need to manually manage which tabs are active. When you return to a suspended tab, it reloads instantly so you can continue exactly where you left off. This is just one tool among many that can help improve your Chrome experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Sign in With Google on Websites Explained](/articles/chrome-sign-in-with-google-on-websites-explained)
+- [How to Find Chrome Extensions That Slow Down Browser](/articles/how-to-find-chrome-extensions-that-slow-down-browser)
+- [Chrome: The Most Used Browser in the World — Why?](/articles/chrome-most-used-browser-in-the-world-why)

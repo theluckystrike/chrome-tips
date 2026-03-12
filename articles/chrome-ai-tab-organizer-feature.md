@@ -68,3 +68,9 @@ If you frequently find yourself overwhelmed by too many open tabs, it is worth t
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+
+- [Chrome Add to Home Screen vs Install App](/articles/chrome-add-to-home-screen-vs-install-app)
+- [chrome classroom integration tips for teachers](/articles/chrome-classroom-integration-tips-for-teachers)
+- [Chrome Site Settings Permissions Explained](/articles/chrome-site-settings-permissions-explained)

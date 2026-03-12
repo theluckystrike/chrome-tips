@@ -72,3 +72,9 @@ Remember that the most important thing is having a tool you actually use. An ext
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Extensions for Page Zoom Per Site](/articles/chrome-extensions-for-page-zoom-per-site)
+- [Chrome vs Edge Extensions Compatibility](/articles/chrome-vs-edge-extensions-compatibility)
+- [Chrome Says Not Secure But Site Is Safe](/articles/chrome-says-not-secure-but-site-is-safe)

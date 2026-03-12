@@ -76,3 +76,9 @@ Remember that what works today might need adjustment tomorrow. Some subjects mig
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for google translate extension tips](/articles/chrome-for-google-translate-extension-tips)
+- [Chrome Safety Check What It Does](/articles/chrome-safety-check-what-it-does)
+- [Chrome Keeps Asking to Be Default Browser Stop](/articles/chrome-keeps-asking-to-be-default-browser-stop)

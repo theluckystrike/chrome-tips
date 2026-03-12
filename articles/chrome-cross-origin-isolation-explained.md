@@ -62,3 +62,9 @@ Understanding these concepts helps you become a more informed internet user. Whe
 Chrome continues to refine and improve its security model, and cross-origin isolation will likely play an even greater role in future web standards. By staying aware of these developments, you can better understand how modern browsers work to keep you safe online.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs)
+- [chrome extension for screenshot and annotate](/articles/chrome-extension-for-screenshot-and-annotate)
+- [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/articles/chrome-smooth-scrolling-enable)

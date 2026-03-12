@@ -49,3 +49,9 @@ However, if you prefer a more automated approach and want to prevent many common
 Regardless of which approach you choose, knowing that these tools exist gives you more control over your browsing experience. The next time a website refuses to load or your browser feels sluggish, you have options beyond simply closing and reopening Chrome.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Lazy Loading Images Native: How It Works and Why You Should Use It](/articles/chrome-lazy-loading-images-native)
+- [Chrome Downloads Folder How to Change Location](/articles/chrome-downloads-folder-how-to-change-location)
+- [Chrome Navigation Timing API Explained](/articles/chrome-navigation-timing-api-explained)

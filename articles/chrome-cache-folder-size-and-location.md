@@ -130,3 +130,9 @@ For users with limited disk space, consider limiting Chrome's cache size using s
 The Chrome cache folder is an essential part of how Chrome works, storing temporary files that speed up your web browsing. Whether you are on Windows, Mac, or Linux, the cache is stored in predictable locations that you can access and manage. By understanding what is in the cache, checking its size regularly, and clearing it when necessary, you can keep Chrome running smoothly and free up valuable disk space.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Mailto Link Not Working Fix](/articles/chrome-mailto-link-not-working-fix)
+- [How to Enable Chrome Reading List](/articles/how-to-enable-chrome-reading-list)
+- [chrome extensions for screen dimmer](/articles/chrome-extensions-for-screen-dimmer)

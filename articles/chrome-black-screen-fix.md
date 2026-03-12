@@ -93,3 +93,9 @@ If you continue having issues after trying all these steps, it might be worth ch
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/articles/best-chrome-settings-for-chromebook)
+- [chrome lighthouse audit how to run](/articles/chrome-lighthouse-audit-how-to-run)
+- [chrome tab memory usage how to check](/articles/chrome-tab-memory-usage-how-to-check)

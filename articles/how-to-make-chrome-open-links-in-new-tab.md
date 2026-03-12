@@ -82,3 +82,9 @@ The keyboard shortcut (Ctrl-click or Command-click) is the fastest once you reme
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Video Conferencing Enhancement](/articles/chrome-extensions-for-video-conferencing-enhancement)
+- [Chrome vs Samsung Internet on Android](/articles/chrome-vs-samsung-internet-on-android)
+- [Chrome New Tab Extensions Aesthetic 2026](/articles/chrome-new-tab-extensions-aesthetic-2026)

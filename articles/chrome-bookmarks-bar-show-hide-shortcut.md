@@ -82,3 +82,9 @@ Take a moment to practice the shortcut a few times. Within a day or two, it will
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+
+- [Best Way to Organize Chrome Tabs](/articles/best-way-to-organize-chrome-tabs)
+- [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/articles/chrome-makes-my-old-laptop-unusable)
+- [Chrome Custom Search Engines Guide](/articles/chrome-search-engines-custom)

@@ -84,3 +84,9 @@ Getting a bookmarks sidebar in Chrome requires a small setup step, but the conve
 Give a bookmark sidebar extension a try for a week and see how it changes your browsing workflow. You might find that it becomes one of your most-used browser features.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes)
+- [Chrome Custom Fonts How to Change](/articles//chrome-custom-fonts-how-to-change/)
+- [Chrome Devtools Screenshot Full Page](/articles/chrome-devtools-screenshot-full-page)

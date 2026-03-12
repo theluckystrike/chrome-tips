@@ -62,3 +62,9 @@ If you use WebGL frequently and your computer struggles, consider upgrading your
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Using Swap Memory Fix](/articles/chrome-using-swap-memory-fix)
+- [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips)
+- [Chrome Remote Debugging for Beginners](/articles/chrome-remote-debugging-for-beginners)

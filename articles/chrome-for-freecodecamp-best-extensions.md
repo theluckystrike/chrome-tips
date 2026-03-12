@@ -77,3 +77,9 @@ Finding the right Chrome extensions for your FreeCodeCamp journey is about under
 The key is to keep your browser organized so you can focus on what matters most: learning to code and building projects. With the right extensions in place, Chrome becomes a powerful learning environment that supports rather than hinders your progress.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome voice control navigate by speaking](/articles/chrome-voice-control-navigate-by-speaking)
+- [Chrome Font Palette Customization: Complete Guide for 2026](/articles/chrome-font-palette-customization)
+- [Chrome for Autofill Credit Card Safety](/articles/chrome-for-autofill-credit-card-safety)

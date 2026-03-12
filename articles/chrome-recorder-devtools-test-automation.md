@@ -106,3 +106,9 @@ Chrome Recorder and DevTools make test automation accessible to everyone, from d
 Whether you are testing a simple contact form or a complex checkout flow, these tools can dramatically reduce manual testing effort and give you confidence in your application's functionality. Start small, record a few key user journeys, and gradually build out your test suite. The time you invest now will pay off with every automated test run.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Marketing Professionals](/articles/best-chrome-extensions-for-marketing-professionals)
+- [Chrome Address Bar Tips and Tricks](/articles/chrome-address-bar-tips-and-tricks)
+- [Chrome Extensions For Citation Generator](/articles//articles/chrome-extensions-for-citation-generator/)

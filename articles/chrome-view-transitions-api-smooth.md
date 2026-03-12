@@ -55,3 +55,9 @@ Developers are exploring increasingly sophisticated uses of the View Transitions
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Reducing Eye Strain Extensions](/articles/chrome-for-reducing-eye-strain-extensions)
+- [chrome for recipe browsing without ads](/articles/chrome-for-recipe-browsing-without-ads)
+- [Chrome Extensions for API Testing Simple](/articles/chrome-extensions-for-api-testing-simple)

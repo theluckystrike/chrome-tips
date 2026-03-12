@@ -76,3 +76,9 @@ To create a new profile, click your profile icon in the top right of Chrome and 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Target Web App Best Extensions](/articles/chrome-for-target-web-app-best-extensions)
+- [Chrome Education Account What It Includes](/articles/chrome-education-account-what-it-includes)
+- [Chrome Google Drive Integration Save to Drive](/articles/chrome-google-drive-integration-save-to-drive)

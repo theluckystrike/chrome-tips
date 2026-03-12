@@ -74,3 +74,9 @@ The Chrome release schedule provides a predictable rhythm of updates that keeps 
 Remember to restart Chrome when updates are available, enable automatic updates if possible, and keep an eye on the official Chrome release calendar for advanced notice of upcoming changes. Staying current with Chrome updates is one of the simplest ways to maintain a secure and smooth browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Mirroring Screen to TV How To](/articles/chrome-mirroring-screen-to-tv-how-to)
+- [Chrome for Proxy Settings How to Configure](/articles/chrome-for-proxy-settings-how-to-configure)
+- [Best Chrome Extensions for Instagram](/articles/best-chrome-extensions-for-instagram)

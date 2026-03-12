@@ -81,3 +81,9 @@ For users, this means browsers will become more responsive to real-world conditi
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome protected audience api explained](/articles/chrome-protected-audience-api-explained)
+- [Chrome for Habitica In Browser Tips](/articles/chrome-for-habitica-in-browser-tips)
+- [Chrome Memory Leak Detection Guide](/articles/chrome-memory-leak-detection)

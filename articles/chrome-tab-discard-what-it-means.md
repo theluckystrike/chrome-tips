@@ -78,3 +78,9 @@ If you frequently have dozens of tabs open and notice constant reloading, consid
 Remember that Chrome's tab discarding is designed to help, not hurt. It keeps your browser from crashing and your computer from slowing down too much. By understanding how it works and taking steps to manage it, you can enjoy a better browsing experience without constantly losing your place in important tabs.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome save all open tabs as bookmarks](/articles/chrome-save-all-open-tabs-as-bookmarks)
+- [Best Chrome Extensions for Writers 2026](/articles/chrome-extensions-for-writers-2026)
+- [How to Throttle Network Speed in Chrome](/articles/chrome-throttle-network-speed-how-to)

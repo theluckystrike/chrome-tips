@@ -65,3 +65,9 @@ Second, create subfolders within your downloads folder to categorize files by ty
 Third, consider moving important downloaded files to their permanent locations as soon as possible. Leaving files in the downloads folder indefinitely can lead to clutter. By moving them to appropriate folders right away, you maintain a cleaner downloads folder and keep your files better organized overall.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome keyboard shortcuts complete list 2026](/articles/chrome-keyboard-shortcuts-complete-list-2026)
+- [Chrome New Tab Opens Instead of Homepage Fix](/articles/chrome-new-tab-opens-instead-of-homepage-fix)
+- [How to Turn Off Chrome Notifications Permanently](/articles/how-to-turn-off-chrome-notifications-permanently)

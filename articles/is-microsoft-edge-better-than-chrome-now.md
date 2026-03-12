@@ -64,3 +64,9 @@ Regardless of which browser you choose, managing your tabs effectively will impr
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Extensions for Shopify](/articles/chrome-extensions-for-shopify)
+- [How to Check Which Chrome Tab Is Using Most Memory](/articles/how-to-check-which-chrome-tab-is-using-most-memory)
+- [Chrome Super Cookies: What Are They](/articles/chrome-super-cookies-what-are-they)

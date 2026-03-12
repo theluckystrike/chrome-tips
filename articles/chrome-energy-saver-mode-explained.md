@@ -82,3 +82,9 @@ Combined with good browsing habits like closing unused tabs and managing your ex
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome vs firefox memory usage 2026 actual test](/articles/chrome-vs-firefox-memory-usage-2026-actual-test)
+- [Chrome Saved Passwords How to View](/articles/chrome-saved-passwords-how-to-view)
+- [Chrome Family Link Integration Explained](/articles/chrome-family-link-integration-explained)

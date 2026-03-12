@@ -80,3 +80,9 @@ As web standards mature and more applications adopt WebAuthn, users can expect b
 Whether you are a user looking for a more convenient way to log in or a developer building the next generation of web applications, understanding and leveraging Chrome's biometric authentication capabilities will serve you well in the years ahead.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Google Keep Integration Tips](/articles/chrome-google-keep-integration-tips)
+- [Chrome View Page Resources How to](/articles/chrome-view-page-resources-how-to)
+- [Chrome Layers Panel Explained](/articles/chrome-layers-panel-explained)

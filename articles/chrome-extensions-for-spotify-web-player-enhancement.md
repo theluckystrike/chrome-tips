@@ -60,3 +60,9 @@ Remember that extensions are developed by third parties, so they may occasionall
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out)
+- [Chromebook vs iPad for Students](/articles/chromebook-vs-ipad-for-students-comparison)
+- [Chrome Extensions for WebRTC Leak Prevention](/articles/chrome-extensions-for-webrtc-leak-prevention)

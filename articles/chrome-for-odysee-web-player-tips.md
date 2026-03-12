@@ -69,3 +69,9 @@ Making sure JavaScript is enabled is also important since Odysee relies on it fo
 Getting the most out of Odysee in Chrome does not require technical expertise. By keeping your browser updated, managing your tabs and extensions, ensuring a stable internet connection, and adjusting video quality to match your setup, you can enjoy smooth playback without frustration. Small optimizations can make a big difference in your overall viewing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome)
+- [Chrome Navigate Back With Gesture How to](/articles/chrome-navigate-back-with-gesture-how-to)
+- [Chrome Extensions for Website Archiving](/articles/chrome-extensions-for-website-archiving)

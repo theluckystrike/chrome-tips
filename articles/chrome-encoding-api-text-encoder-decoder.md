@@ -64,3 +64,9 @@ The Chrome Encoding API TextEncoder and TextDecoder might be invisible to most u
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome IndexedDB Storage Explained](/articles/chrome-indexeddb-storage-explained)
+- [chrome vs firefox for privacy 2026](/articles/chrome-vs-firefox-for-privacy-2026)
+- [chrome clipboard permission explained](/articles/chrome-clipboard-permission-explained)

@@ -90,3 +90,9 @@ If typing while listening is difficult, try a transcription tool like Otter.ai. 
 Start with one or two extensions that address your biggest pain point. You can always add more tools as you discover other needs. The goal is to find a system that lets you stay engaged in meetings while still capturing the information you need.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Multiple Windows vs Tabs Which Is Better](/articles/chrome-multiple-windows-vs-tabs-which-is-better)
+- [Chrome Slower After macOS Update Fix](/articles/chrome-slower-after-macos-update-fix)
+- [Chrome Extension for Website Blocker Parental](/articles/chrome-extension-for-website-blocker-parental)

@@ -472,3 +472,9 @@ Remember to consider how your screen capture features interact with other browse
 With this knowledge, you're well-equipped to implement screen capture functionality that meets your users' needs while maintaining the security and privacy standards that Chrome users expect.
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+
+- [How to Uninstall Chrome Completely and Reinstall](/articles/how-to-uninstall-chrome-completely-and-reinstall)
+- [Chrome OS vs Windows for Everyday Use](/articles/chrome-os-vs-windows-for-everyday-use)
+- [chrome for screenshot and annotation tools](/articles/chrome-for-screenshot-and-annotation-tools)

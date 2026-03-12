@@ -71,3 +71,9 @@ Take some time to review your Chrome settings and decide what level of tracking 
 Your browsing privacy matters, and taking a few minutes to understand and adjust these settings can make a significant difference in how much information advertisers can access about you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Slow on Windows 11 After Update: Practical Fixes](/articles/chrome-slow-on-windows-11-after-update)
+- [chrome not playing youtube videos fix](/articles/chrome-not-playing-youtube-videos-fix)
+- [Chrome Local Storage How to Clear for One Site](/articles/chrome-local-storage-how-to-clear-for-one-site)

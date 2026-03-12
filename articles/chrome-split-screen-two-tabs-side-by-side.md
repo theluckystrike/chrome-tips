@@ -81,3 +81,9 @@ Chrome split screen two tabs side by side is one of those features that once you
 Try setting up a split screen today. Pick two pages you need to use together, arrange them side by side, and see how much easier your work becomes. You might find that this simple change transforms the way you use Chrome entirely.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Sales Prospecting](/articles/chrome-extensions-for-sales-prospecting)
+- [Chrome Preload Pages Setting Explained](/articles/chrome-preload-pages-setting-explained)
+- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser)

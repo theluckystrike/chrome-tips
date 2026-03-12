@@ -64,3 +64,9 @@ For those who want to manage their tabs more effectively while trying out new fe
 Switching between Chrome channels is easier than you might think, and now you know exactly how to do it. Whether you want to explore new features or return to the reliability of Stable, the choice is yours. Just remember to back up your data, stay patient with occasional bugs, and enjoy the journey of discovering what Chrome has to offer.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome How to Clear Individual Site Data](/articles/chrome-how-to-clear-individual-site-data)
+- [Chrome Octane Score Explained](/articles/chrome-octane-score-explained)
+- [chrome extensions for screenshot full page](/articles/chrome-extensions-for-screenshot-full-page)

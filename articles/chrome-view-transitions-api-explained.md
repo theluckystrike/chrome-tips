@@ -57,3 +57,9 @@ Looking ahead, expect to see even more sophisticated uses of this API. Developer
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Productivity Dashboard](/articles/chrome-extensions-for-productivity-dashboard)
+- [Chrome Extensions for Lawyers Legal Research](/articles/chrome-extensions-for-lawyers-legal-research)
+- [Chrome Attribution Reporting API Explained](/articles/chrome-attribution-reporting-api-explained)

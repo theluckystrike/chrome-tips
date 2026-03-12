@@ -62,3 +62,9 @@ Some users find it helpful to set a personal rule, such as closing all tabs at t
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome how to allow popups for one site](/articles/chrome-how-to-allow-popups-for-one-site)
+- [Chrome WebGPU vs WebGL Comparison: Which Graphics API Should You Use?](/articles/chrome-webgpu-vs-webgl-comparison)
+- [chrome for tradingview best extensions](/articles/chrome-for-tradingview-best-extensions)

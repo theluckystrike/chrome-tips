@@ -94,3 +94,9 @@ Sometimes hardware issues can cause browser problems. If your computer is runnin
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Mouse Gestures Navigation](/articles/chrome-extensions-for-mouse-gestures-navigation)
+- [Chrome Preloading Pages Setting Explained](/articles/chrome-preloading-pages-setting-explained)
+- [Chrome Extensions for Job Hunting 2026](/articles/chrome-extensions-for-job-hunting-2026)

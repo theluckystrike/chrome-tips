@@ -105,3 +105,9 @@ Monitor your system resources using Task Manager periodically. If you notice Chr
 Consider making Chrome performance settings part of your routine after any Windows update. Unfortunately, Windows updates can reset browser settings, so checking these after each update can prevent performance degradation.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome WebGL Not Supported Fix](/articles/chrome-webgl-not-supported-fix)
+- [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage)
+- [Chrome Microsoft Teams Web Slow Fix](/articles/chrome-microsoft-teams-web-slow-fix)

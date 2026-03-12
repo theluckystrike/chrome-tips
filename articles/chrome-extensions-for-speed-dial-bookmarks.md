@@ -58,3 +58,9 @@ Once you install your chosen extension, spend a few minutes adding your most-vis
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Keyword Research](/articles/chrome-extensions-for-keyword-research)
+- [Chrome Back Button Not Working Fix](/articles/chrome-back-button-not-working-fix)
+- [Chrome Performance Flame Chart Explained](/articles/chrome-performance-flame-chart-explained)

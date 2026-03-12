@@ -64,3 +64,9 @@ Another helpful habit is to close tabs you are not actively using. It sounds sim
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows)
+- [Chrome Precaching vs Runtime Caching](/articles/chrome-precaching-vs-runtime-caching)
+- [chrome scrollbar styling css](/articles/chrome-scrollbar-styling-css)

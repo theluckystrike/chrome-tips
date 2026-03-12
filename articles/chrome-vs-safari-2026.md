@@ -138,3 +138,9 @@ Many users find value in keeping both browsers installed, using Safari for every
 Regardless of which browser you choose, remember that browser habits matter as much as the browser itself. Keeping your tab count reasonable, managing extensions carefully, and using tools like Tab Suspender Pro can help you get the best performance from whichever browser you prefer.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Web3 Browsing Extensions](/articles/chrome-for-web3-browsing-extensions)
+- [Chrome Performance Getting Worse Over Time](/articles/chrome-performance-getting-worse-over-time)
+- [Chrome Makes My Old Laptop Unusable: Practical Solutions That Actually Work](/articles/chrome-makes-my-old-laptop-unusable)

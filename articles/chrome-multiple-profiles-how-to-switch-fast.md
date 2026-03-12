@@ -63,3 +63,9 @@ The best method for switching between chrome multiple profiles quickly depends o
 Try a few different approaches and see which one fits your routine. The goal is to make switching profiles feel effortless so you can focus on what you are doing instead of fighting with your browser.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Open Downloads Page Shortcut](/articles/chrome-open-downloads-page-shortcut)
+- [How to Use Chrome Without Signing In to Google](/articles/how-to-use-chrome-without-signing-in-to-google)
+- [How to Reduce Number of Open Tabs](/articles/how-to-reduce-number-of-open-tabs)

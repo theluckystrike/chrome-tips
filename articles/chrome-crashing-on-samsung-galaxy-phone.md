@@ -70,3 +70,9 @@ Chrome crashing on your Samsung Galaxy phone is annoying, but it is usually fixa
 Keeping your apps updated, managing your open tabs, and maintaining free storage space on your Samsung Galaxy go a long way in preventing future crashes. With these fixes, you should be able to get Chrome running smoothly again and browse the web without interruptions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chromebook Developer Mode: Should I Enable It?](/articles/chromebook-developer-mode-should-i-enable)
+- [Chrome Using Too Much Memory on MacBook Air](/articles/chrome-using-too-much-memory-on-macbook-air)
+- [Chrome Forced Extensions by Admin What It Means](/articles/chrome-forced-extensions-by-admin-what-it-means)

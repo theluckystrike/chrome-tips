@@ -85,3 +85,9 @@ Using Chrome effectively with Stable Diffusion Web UI is all about creating the 
 A few small adjustments to how you use Chrome can make a noticeable difference in your workflow. Give these tips a try and see which ones work best for your setup.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/articles/chrome-extensions-folder-location-files)
+- [Chrome Accessibility Features Guide: Everything You Need to Know](/articles/chrome-accessibility-features-guide)
+- [Chrome Ai Theme Generator How To Use](/articles/chrome-ai-theme-generator-how-to-use)

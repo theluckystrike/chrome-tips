@@ -76,3 +76,9 @@ Creating a chrome custom theme how to make your own is a fun and rewarding proce
 Remember to periodically update your theme to keep things fresh. Just as our tastes change over time, your perfect theme today might be different from what you'll want next month. The beauty of Chrome's theme system is that switching between themes is effortless, so don't be afraid to experiment.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome pwa storage quota how much space](/articles/chrome-pwa-storage-quota-how-much-space)
+- [Why Is Chrome Using So Much Memory](/articles/why-is-chrome-using-so-much-memory)
+- [Chrome for TickTick in Browser Tips](/articles/chrome-for-ticktick-in-browser-tips)

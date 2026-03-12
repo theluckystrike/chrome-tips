@@ -96,3 +96,9 @@ The Reading List icon appears in your bookmarks bar once you add your first item
 Making these adjustments takes about ten minutes but pays off every time you open Chrome for coursework. Your browser becomes a tool that supports your academic goals rather than working against them.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Layout Instability API Explained](/articles/chrome-layout-instability-api-explained)
+- [Chrome Default Search Engine Changed How to Fix](/articles//chrome-default-search-engine-changed-how-to-fix/)
+- [Chrome Preloading Pages Should I Enable It](/articles/chrome-preloading-pages-should-i-enable-it)

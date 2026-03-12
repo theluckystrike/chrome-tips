@@ -86,3 +86,9 @@ Mastering **chrome extension permissions best practices** doesn't require techni
 The key is to be mindful rather than paranoid. Most extensions are created by legitimate developers who want to provide useful tools. By following these practices, you can distinguish between trustworthy extensions and those that warrant suspicion, ultimately creating a safer browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Parental Controls Without Extension](/articles/chrome-parental-controls-without-extension)
+- [How to Search Open Chrome Tabs](/articles/how-to-search-open-chrome-tabs)
+- [Chrome for Medium Best Reading Extensions](/articles/chrome-for-medium-best-reading-extensions)

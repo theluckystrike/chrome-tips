@@ -82,3 +82,9 @@ If you find yourself frequently managing many open tabs in Chrome alongside your
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/articles/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome for Jira Best Extensions](/articles/chrome-for-jira-best-extensions)
+- [Chrome Startup Pages Configuration](/articles/chrome-startup-pages-config)

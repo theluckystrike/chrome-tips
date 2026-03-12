@@ -77,3 +77,9 @@ So now you know how to reset Chrome to default settings. It is a straightforward
 With a little attention to what you install and how you use your browser, you can keep Chrome running smoothly and avoid needing to reset it again anytime soon.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for YouTube 4K Playback Settings](/articles/chrome-for-youtube-4k-playback-settings)
+- [Chrome Energy Saver Mode What Does It Do](/articles/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome for Proxy Settings How to Configure](/articles/chrome-for-proxy-settings-how-to-configure)

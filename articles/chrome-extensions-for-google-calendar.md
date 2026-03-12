@@ -70,3 +70,9 @@ The best approach to improving your Google Calendar experience is to start with 
 You do not need to install every extension you come across. In fact, having too many can create new problems. Start simple, see what makes a difference in your daily workflow, and add more only as needed. With the right chrome extensions for Google Calendar, you can build a system that works for you rather than against you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Block Ads on Chrome Android](/articles/how-to-block-ads-on-chrome-android)
+- [Chrome Crashing on Samsung Galaxy Phone](/articles/chrome-crashing-on-samsung-galaxy-phone)
+- [Chrome Extensions For Email Tracking](/articles//articles/chrome-extensions-for-email-tracking/)

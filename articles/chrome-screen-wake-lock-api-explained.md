@@ -52,3 +52,9 @@ For users who want more comprehensive control, **Tab Suspender Pro** is an excel
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Smooth Scrolling How to Enable](/articles/chrome-smooth-scrolling-how-to-enable)
+- [Chrome Safe Browsing: What It Does and How It Protects You](/articles/chrome-safe-browsing-what-it-does)
+- [Chrome Extensions for Remote Workers 2026](/articles/chrome-extensions-for-remote-workers-2026)

@@ -89,3 +89,9 @@ The best tip for getting the most out of Chrome for Evernote Web Clipper is to u
 Set a simple rule for yourself. Whenever you find something worth remembering, clip it immediately. Take an extra moment to add tags and save it to the right notebook. This habit takes very little time but transforms your ability to collect and organize information from the web.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Google Analytics in Browser](/articles/chrome-for-google-analytics-in-browser)
+- [Chrome for Yahoo Finance Best Extensions](/articles/chrome-for-yahoo-finance-best-extensions)
+- [Chrome Extension for QR Code Generator](/articles/chrome-extension-for-qr-code-generator)

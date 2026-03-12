@@ -74,3 +74,9 @@ Many Mac users find that using both browsers strategically works best. Use Safar
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome vs Arc Browser Comparison 2026](/articles/chrome-vs-arc-browser-comparison-2026)
+- [Chrome for Resume Building Web Tools](/articles/chrome-for-resume-building-web-tools)
+- [How to Check If Chrome Extension Is Safe](/articles/how-to-check-if-chrome-extension-is-safe)

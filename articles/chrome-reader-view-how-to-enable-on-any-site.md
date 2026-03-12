@@ -69,3 +69,9 @@ Remember that Tab Suspender Pro can help keep your browser running smoothly, whi
 The next time you encounter a cluttered website that makes reading difficult, try one of these solutions. You might be surprised at how much more you can read and how much less tired your eyes feel when the distractions are removed.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Flexbox Debugging Guide](/articles/chrome-flexbox-debugging)
+- [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable)
+- [chrome for custom new tab page extensions](/articles/chrome-for-custom-new-tab-page-extensions)

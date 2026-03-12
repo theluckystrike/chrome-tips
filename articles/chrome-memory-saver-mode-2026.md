@@ -92,3 +92,9 @@ Chrome Memory Saver Mode is a powerful feature that can transform your browsing 
 Whether you stick with the built-in Memory Saver Mode or enhance it with tools like Tab Suspender Pro, taking control of your tab management is one of the best things you can do for your productivity and computer performance. Give Memory Saver Mode a try today and discover how much smoother your browsing can be.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome material you design on desktop](/articles/chrome-material-you-design-on-desktop)
+- [How to Do a Reverse Image Search in Chrome Without an Extension](/articles/chrome-reverse-image-search-without-extension)
+- [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup)

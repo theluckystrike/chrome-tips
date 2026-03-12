@@ -70,3 +70,9 @@ Your online privacy is worth protecting, and you do not need to be a tech expert
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [How to Throttle Network Speed in Chrome](/articles/chrome-throttle-network-speed-how-to)
+- [chrome web bluetooth how to use](/articles/chrome-web-bluetooth-how-to-use)
+- [chrome for odysee web player tips](/articles/chrome-for-odysee-web-player-tips)

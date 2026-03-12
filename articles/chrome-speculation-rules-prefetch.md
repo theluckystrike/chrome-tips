@@ -95,3 +95,9 @@ For regular users, there's nothing specific you need to do to benefit from specu
 **Chrome speculation rules prefetch** represents a significant step forward in browser performance technology. By letting websites tell browsers about likely navigations in advance, it enables near-instant page loads without any user intervention. Whether you're a web developer looking to optimize your site or a user wanting faster browsing, understanding how this feature works can help you make the most of modern web performance capabilities.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Save Chrome Tabs for Later](/articles/how-to-save-chrome-tabs-for-later)
+- [Chrome Built-In PDF Editor Guide](/articles/chrome-pdf-editor-built-in)
+- [How to Do a Reverse Image Search in Chrome Without an Extension](/articles/chrome-reverse-image-search-without-extension)

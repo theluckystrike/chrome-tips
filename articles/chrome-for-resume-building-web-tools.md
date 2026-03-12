@@ -78,3 +78,9 @@ Finally, always double-check your exported PDF before submitting. Open it in Chr
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Service Worker High CPU Fix](/articles/chrome-service-worker-high-cpu-fix)
+- [Chrome vs Edge on Windows 11 — Which Is Actually Faster?](/articles/chrome-vs-edge-on-windows-11)
+- [Chrome Extensions for Raindrop IO](/articles/chrome-extensions-for-raindrop-io)

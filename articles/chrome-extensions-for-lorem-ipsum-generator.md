@@ -54,3 +54,9 @@ When working with clients, consider using placeholder text that gives them a bet
 Taking a moment to organize your extension collection and ensure your browser is running efficiently will pay dividends over time. A fast, organized browser helps you stay focused on your creative work rather than fighting with your tools.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Find Chrome Extensions That Slow Down Browser](/articles/how-to-find-chrome-extensions-that-slow-down-browser)
+- [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained)
+- [Best Chrome Settings for a Slow Computer](/articles/best-chrome-settings-for-slow-computer)

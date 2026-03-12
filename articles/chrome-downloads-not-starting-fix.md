@@ -73,3 +73,9 @@ Remember that keeping Chrome updated, managing your extensions, and occasionally
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Lazy Loading Images How It Works](/articles/chrome-lazy-loading-images-how-it-works)
+- [chrome for gmail productivity extensions](/articles/chrome-for-gmail-productivity-extensions)
+- [Chrome Extensions For Blocking Distracting Websites](/articles//articles/chrome-extensions-for-blocking-distracting-websites/)

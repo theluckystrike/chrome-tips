@@ -112,3 +112,9 @@ Remember that technology can be unpredictable, and sometimes a simple restart of
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome GPU Process High CPU Fix](/articles/chrome-gpu-process-high-cpu-fix)
+- [Chrome Toggle Fullscreen Shortcut](/articles/chrome-toggle-fullscreen-shortcut)
+- [Chrome Passkeys Setup Guide 2026](/articles/chrome-passkeys-setup-guide-2026)

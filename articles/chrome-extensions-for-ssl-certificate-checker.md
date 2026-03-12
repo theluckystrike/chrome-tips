@@ -84,3 +84,9 @@ Regularly checking certificates on sites you visit becomes second nature once yo
 The good news is that most websites you visit daily have valid certificates, and browsers do much of the heavy lifting to protect you. SSL checker extensions simply give you extra visibility and peace of mind when you need it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for audible web player tips](/articles/chrome-for-audible-web-player-tips)
+- [Chrome Keeps Freezing Every Few Minutes: Causes and Fixes](/articles/chrome-keeps-freezing-every-few-minutes)
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/articles/google-docs-slow-in-chrome-fix)

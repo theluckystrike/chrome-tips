@@ -94,3 +94,9 @@ Start by adding a color picker button to your application and wiring it up to th
 The web platform continues to evolve rapidly, and APIs like the Eye Dropper demonstrate how browser capabilities are expanding to meet the needs of designers and developers. Embrace these new tools to create better web experiences for your users.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for uber web app setup](/articles/chrome-for-uber-web-app-setup)
+- [Chrome Notification API Guide](/articles/chrome-notification-api-guide)
+- [chrome geolocation permission manage](/articles/chrome-geolocation-permission-manage)

@@ -74,3 +74,9 @@ Remember that the goal is to make reading online as pleasant as reading a physic
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Google Sheets Keyboard Shortcuts](/articles/chrome-google-sheets-keyboard-shortcuts)
+- [Best Chrome Extensions for Writers 2026](/articles/chrome-extensions-for-writers-2026)
+- [chrome web store not loading fix](/articles/chrome-web-store-not-loading-fix)

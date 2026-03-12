@@ -74,3 +74,9 @@ Managing a reading list does not have to be frustrating. With the right Chrome e
 If you also want to reduce the number of open tabs in your browser, consider trying Tab Suspender Pro as part of your workflow. It helps keep your browser running smoothly while you build your reading list.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Flexbox Inspector How to Use](/articles/chrome-flexbox-inspector-how-to-use)
+- [Google Chrome vs Chromium Difference Explained](/articles/google-chrome-vs-chromium-difference-explained)
+- [Chrome Google Search Not Working Fix](/articles/chrome-google-search-not-working-fix)

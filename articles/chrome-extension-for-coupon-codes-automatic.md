@@ -60,3 +60,9 @@ Third, do not forget about cashback programs. Many credit cards and apps offer c
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Import Bookmarks from Firefox to Chrome](/articles/how-to-import-bookmarks-from-firefox-to-chrome)
+- [Chrome Extensions for Todoist](/articles/chrome-extensions-for-todoist)
+- [Chrome for Duolingo Web App Optimization](/articles/chrome-for-duolingo-web-app-optimization)

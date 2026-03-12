@@ -72,3 +72,9 @@ Cookies and cache serve different purposes in Chrome, and understanding the diff
 Remember that clearing cookies will log you out of websites, while clearing cache will just make pages take longer to load the first time. Use these tools wisely and your browsing experience will be smoother.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions For Flight Price Alerts](/articles//articles/chrome-extensions-for-flight-price-alerts/)
+- [Chrome Energy Saver Mode Guide](/articles/chrome-energy-saver-mode-guide)
+- [Chrome DevTools Layers Panel 3D View](/articles/chrome-devtools-layers-panel-3d-view)

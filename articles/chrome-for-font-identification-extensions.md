@@ -97,3 +97,9 @@ The next time you see a font that catches your eye, try one of these extensions.
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners)
+- [Chrome Extensions for Session Buddy](/articles/chrome-extensions-for-session-buddy)
+- [Chrome IP Protection Feature Explained](/articles/chrome-ip-protection-feature-explained)

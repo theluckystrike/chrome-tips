@@ -57,3 +57,9 @@ It is also a good idea to occasionally check that your extensions are still work
 Finally, remember that your needs might change over time. What works for you now might not fit your workflow a year from now. Be willing to adjust how you have organized your profiles and extensions as your situation changes.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Screen Capture API Guide](/articles/chrome-screen-capture-api)
+- [Chrome AI Writing Help Feature](/articles/chrome-ai-writing-help-feature)
+- [Chrome Extension Side Panel Tutorial](/articles/chrome-extension-side-panel-tutorial)

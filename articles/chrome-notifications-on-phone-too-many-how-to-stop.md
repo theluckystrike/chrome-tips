@@ -81,3 +81,9 @@ Start by checking which sites have permission to notify you. Remove the ones you
 Remember that you can always adjust these settings later if your needs change. The key is to take back control of your phone so that notifications only come from the sources that actually matter to you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Preloading Pages Setting Explained](/articles/chrome-preloading-pages-setting-explained)
+- [Chrome Extensions for New Tab Dashboard](/articles/chrome-extensions-for-new-tab-dashboard)
+- [Chrome How to Clear Individual Site Data](/articles/chrome-how-to-clear-individual-site-data)

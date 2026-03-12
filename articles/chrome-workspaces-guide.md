@@ -94,3 +94,9 @@ The combination of efficient tab management with powerful workspace editing crea
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome devtools dark theme how to enable](/articles//chrome-devtools-dark-theme-how-to-enable/)
+- [Why Is Chrome Using So Much Memory](/articles/why-is-chrome-using-so-much-memory)
+- [Best Chrome Extensions for HR Professionals](/articles/best-chrome-extensions-for-hr-professionals)

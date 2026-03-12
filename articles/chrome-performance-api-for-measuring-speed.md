@@ -59,3 +59,9 @@ The **Chrome performance API** for measuring speed gives you valuable insights i
 Start by paying attention to how many tabs you keep open and which extensions you have installed. Consider using **Tab Suspender Pro** to automatically manage idle tabs and keep your browser running smoothly. With these simple adjustments and the power of Chrome built-in performance tools, you can enjoy a faster, more responsive browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Check If Chrome Extension Is Safe](/articles/how-to-check-if-chrome-extension-is-safe)
+- [Chrome Extensions for Google Calendar](/articles/chrome-extensions-for-google-calendar)
+- [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows)

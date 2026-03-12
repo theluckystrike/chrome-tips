@@ -77,3 +77,9 @@ Getting the most out of Claude in Chrome does not require dramatic changes to yo
 These chrome for claude ai web tips should help you create a more productive setup for working with AI. Try implementing a few of these suggestions and notice how they change your experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/articles/chrome-site-isolation-security-feature)
+- [Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser](/articles/chrome-sanitizer-api-html-safe)
+- [Chrome Extension Monetization Strategies That Actually Work](/articles/chrome-extension-monetization-strategies)

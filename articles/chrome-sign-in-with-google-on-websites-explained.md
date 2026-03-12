@@ -76,3 +76,9 @@ Signing in with Google on websites is a useful feature that makes online life mo
 You now have the knowledge to decide whether this feature is right for you and how to adjust it to match your comfort level. Whether you use it everywhere or prefer to create separate accounts the traditional way, the choice is yours.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome View Source Shortcut](/articles/chrome-view-source-shortcut)
+- [Chrome Extensions for Managing Multiple Social Accounts](/articles/chrome-extensions-for-managing-multiple-social-accounts)
+- [Why Is Chrome Slower Than Firefox?](/articles/why-is-chrome-slower-than-firefox)

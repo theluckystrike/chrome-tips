@@ -76,3 +76,9 @@ Chrome popup settings are designed to give you control while still protecting yo
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome OS vs Windows for Everyday Use](/articles/chrome-os-vs-windows-for-everyday-use)
+- [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop)
+- [Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab](/articles/chrome-duplicate-tab-shortcut-trick)

@@ -86,3 +86,9 @@ Use the chrome extensions for website testing that match your specific needs. No
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Speed Comparison Test How to Run](/articles/chrome-speed-comparison-test-how-to-run)
+- [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained)
+- [Chrome History Search Tips and Tricks](/articles/chrome-history-search-tips-and-tricks)

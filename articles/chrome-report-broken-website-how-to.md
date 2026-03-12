@@ -72,3 +72,9 @@ Finding a broken website is never fun, but knowing how to report it can turn a f
 The next time you search for "chrome report broken website how to" and find this guide, you will know exactly what to do. Taking a moment to report problems helps create a better internet for everyone, and you might just save another user from the same frustration you experienced.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome lighthouse performance score explained simply](/articles/chrome-lighthouse-performance-score-explained-simply)
+- [Chrome DevTools Performance Panel Explained](/articles/chrome-devtools-performance-panel-explained)
+- [Chrome Google Maps Keyboard Shortcuts](/articles/chrome-google-maps-keyboard-shortcuts)

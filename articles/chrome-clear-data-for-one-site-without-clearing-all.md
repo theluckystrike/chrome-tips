@@ -69,3 +69,9 @@ If a particular website continues to cause issues even after clearing its data, 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for education classroom management](/articles/chrome-for-education-classroom-management)
+- [chrome mutation observer api explained](/articles/chrome-mutation-observer-api-explained)
+- [Chrome for iPad Tips and Tricks](/articles/chrome-for-ipad-tips-and-tricks)

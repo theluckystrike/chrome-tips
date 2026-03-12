@@ -118,3 +118,9 @@ Chrome Net Internals is a powerful but underutilized tool that can resolve many 
 The next time a website refuses to load or you notice unusual network behavior, remember: type `chrome://net-internals`, click "Clear host cache," and you might be back to browsing in seconds. It's a simple fix that works more often than you might expect.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Developer Mode Extensions Guide](/articles//chrome-developer-mode-extensions/)
+- [Chrome PWA Update Mechanism How It Works](/articles/chrome-pwa-update-mechanism-how-it-works)
+- [Chrome Supervised Profiles for Kids](/articles/chrome-supervised-user-profile-for-kids)

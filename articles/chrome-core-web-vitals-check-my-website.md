@@ -81,3 +81,9 @@ For website owners who manage multiple tabs and browsers, consider using tools l
 Remember that Core Web Vitals are just one part of overall website performance. A site that loads quickly but has poor content will not retain visitors either. Focus on providing value, and make sure your site loads fast enough to deliver that value without delays.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Select Address Bar Text Shortcut](/articles/chrome-select-address-bar-text-shortcut)
+- [chrome web nfc how it works](/articles/chrome-web-nfc-how-it-works)
+- [Chrome ERR_QUIC_PROTOCOL_ERROR Fix](/articles/chrome-err-quic-protocol-error-fix)

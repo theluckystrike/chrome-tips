@@ -76,3 +76,9 @@ Transitioning to a multi-profile workflow takes about five minutes to set up, bu
 ---
 
 *Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
+
+## Related Articles
+
+- [Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab](/articles/chrome-duplicate-tab-shortcut-trick)
+- [Chrome Payment Methods How to Remove](/articles/chrome-payment-methods-how-to-remove)
+- [Chrome Bookmarks File Location and Backup Guide](/articles/chrome-bookmarks-file-location-backup)

@@ -77,3 +77,9 @@ Whatever browser you choose, remember that you can improve your experience by ma
 Chrome's position as the most used browser in the world reflects its ability to deliver a solid, all-around experience. Whether you are a casual user or a power user, Chrome has the features and flexibility to meet your needs. Try it out and see if it works for you.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Adobe Companion](/articles/chrome-extensions-for-adobe-companion)
+- [chrome manifest v3 controversy ad blockers](/articles/chrome-manifest-v3-controversy-ad-blockers)
+- [Chrome Dashlane vs 1Password Comparison](/articles//chrome-dashlane-vs-onepassword-comparison/)

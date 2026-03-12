@@ -135,3 +135,9 @@ The "Your computer is infected" popup is terrifying but ultimately harmless—as
 Stay vigilant, keep your browser updated, and never trust a popup that demands you take immediate action or calls a number. Chrome isn't trying to scare you—the scammers are.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Navigate Back With Gesture How to](/articles/chrome-navigate-back-with-gesture-how-to)
+- [Chrome Passkeys Setup Guide 2026](/articles/chrome-passkeys-setup-guide-2026)
+- [How to Fix Chrome Autofill Wrong Address Keeps Appearing](/articles/chrome-autofill-wrong-address-keeps-appearing)

@@ -52,3 +52,9 @@ Browser settings themselves may offer limited refresh capabilities in certain co
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome mobile translate page automatically](/articles/chrome-mobile-translate-page-automatically)
+- [Chrome Extensions For Faster Browsing](/articles//articles/chrome-extensions-for-faster-browsing/)
+- [Chrome Zero Trust Security Model Explained](/articles/chrome-zero-trust-security-model-explained)

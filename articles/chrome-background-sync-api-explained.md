@@ -76,3 +76,9 @@ Finally, pay attention to how your computer behaves. If you notice slowdowns, wa
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Devtools Edit HTML Live](/articles//chrome-devtools-edit-html-live/)
+- [Chrome Jump to Specific Tab Number Shortcut](/articles/chrome-jump-to-specific-tab-number-shortcut)
+- [Chrome for News Aggregator Extensions](/articles/chrome-for-news-aggregator-extensions)

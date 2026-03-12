@@ -71,3 +71,9 @@ Changing your Chrome new tab background to a custom image is a simple yet effect
 By taking a few minutes to set up a custom background that resonates with you, you can transform an ordinary part of your daily workflow into something more enjoyable. The new tab page does not have to be a bland, forgettable space—make it your own and enjoy a more personalized Chrome experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for QuickBooks Online Best Settings](/articles/chrome-for-quickbooks-online-best-settings)
+- [How to Recover Accidentally Closed Chrome Tabs](/articles/accidentally-closed-all-chrome-tabs-recovery)
+- [chrome recorder panel how to record user flows](/articles/chrome-recorder-panel-how-to-record-user-flows)

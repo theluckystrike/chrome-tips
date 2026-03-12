@@ -56,3 +56,9 @@ Once you install an extension, make a habit of adding a note whenever you open a
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [how to turn on chrome dark mode on any website](/articles/how-to-turn-on-chrome-dark-mode-on-any-website)
+- [Best Chrome Extensions for Cybersecurity Professionals](/articles/best-chrome-extensions-for-cybersecurity-professionals)
+- [Chrome Extensions for Video Conferencing Enhancement](/articles/chrome-extensions-for-video-conferencing-enhancement)

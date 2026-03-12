@@ -100,3 +100,9 @@ Chrome slowing down after a macOS update is a common problem, but it is one you 
 Remember, if you tend to keep many tabs open, Tab Suspender Pro can be a valuable tool for managing your tabs efficiently and freeing up memory. Combined with the steps above, these solutions can make a real difference, especially on Macs with limited RAM.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Background Fetch for PWAs Explained](/articles/chrome-background-fetch-for-pwas-explained)
+- [Chrome Extensions For Email Finder](/articles//articles/chrome-extensions-for-email-finder/)
+- [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips)

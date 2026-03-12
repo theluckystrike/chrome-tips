@@ -153,3 +153,9 @@ If Chrome notifications won't stop popping up, you have several options to regai
 Remember: you don't have to put up with constant interruptions. With a few simple adjustments, you can enjoy a quieter, more focused browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Service Workers List How to View](/articles/chrome-service-workers-list-how-to-view)
+- [chrome source maps debug minified code](/articles/chrome-source-maps-debug-minified-code)
+- [chrome home screen shortcut how to add on phone](/articles/chrome-home-screen-shortcut-how-to-add-on-phone)

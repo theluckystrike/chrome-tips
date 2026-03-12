@@ -104,3 +104,9 @@ Mastering chrome tab groups keyboard shortcuts dramatically improves your browse
 Remember to combine your organized tab groups with Tab Suspender Pro for optimal browser performance, especially when you work with many open tabs across multiple projects. With these tools and techniques, you will have a faster, more efficient browsing experience that supports your workflow rather than hindering it.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Multiple Users Same Computer Setup](/articles/chrome-multiple-users-same-computer-setup)
+- [Chrome High CPU Usage Nothing Open](/articles/chrome-high-cpu-usage-nothing-open)
+- [Chrome Streams API for Large Files](/articles/chrome-streams-api-for-large-files)

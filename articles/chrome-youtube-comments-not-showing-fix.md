@@ -115,3 +115,9 @@ If you've tried all these steps and comments still won't load, consider trying a
 With these troubleshooting steps, you should be able to get back to reading and participating in discussions under your favorite YouTube videos.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome New Tab Page Minimalist Extensions](/articles/chrome-new-tab-page-minimalist-extensions)
+- [Chrome Password Not Autofilling Fix](/articles/chrome-password-not-autofilling-fix)
+- [chrome google docs keyboard shortcuts](/articles/chrome-google-docs-keyboard-shortcuts)

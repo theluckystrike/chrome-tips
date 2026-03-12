@@ -126,3 +126,9 @@ The Chrome Rendering Panel is an incredibly powerful tool that provides unpreced
 Remember that smooth, responsive web experiences depend on efficient rendering practices. The tools described in this guide help identify problems, but solving them often requires attention to code quality, resource management, and thoughtful use of browser features like tab suspension. By combining the insights from the Rendering Panel with good browser habits and appropriate tools, you can significantly improve your Chrome browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome extension rejected common reasons fix](/articles/chrome-extension-rejected-common-reasons-fix)
+- [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization)
+- [Chrome Payment Autofill How to Manage Cards](/articles/chrome-payment-autofill-how-to-manage-cards)

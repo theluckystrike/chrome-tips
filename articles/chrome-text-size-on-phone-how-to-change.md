@@ -85,3 +85,9 @@ Start with Chrome built-in settings to see if they meet your needs. If not, try 
 Remember that you can combine methods. Using system text size as a baseline and then adjusting specific sites gives you the most control. It might take a little time to find your perfect setup, but once you do, reading on your phone becomes much more enjoyable.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for podcast web players best setup](/articles/chrome-for-podcast-web-players-best-setup)
+- [Chrome Extensions For Code Snippet Manager](/articles//articles/chrome-extensions-for-code-snippet-manager/)
+- [chrome deceptive site ahead warning fix](/articles//chrome-deceptive-site-ahead-warning-fix/)

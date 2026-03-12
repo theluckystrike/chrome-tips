@@ -94,3 +94,9 @@ By using Chrome's built-in tools effectively, testing on real browsers for criti
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Print to PDF How to Save Webpage](/articles/chrome-print-to-pdf-how-to-save-webpage)
+- [Chrome Font Fingerprinting Explained and Fix](/articles/chrome-font-fingerprinting-explained-and-fix)
+- [How to Enable Chrome Smooth Scrolling](/articles/how-to-enable-chrome-smooth-scrolling)

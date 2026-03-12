@@ -80,3 +80,9 @@ Review your extensions occasionally to make sure you still need all of them. Som
 Teaching friends and family about pop up blocking is also helpful. Many people might not know how to protect themselves from malicious pop ups. Sharing what you have learned about how to block all pop ups in Chrome can help others browse more safely.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Reset Chrome to Default Settings](/articles/how-to-reset-chrome-to-default-settings)
+- [Chrome vs Vivaldi: Which Is More Customizable](/articles/chrome-vs-vivaldi-which-is-more-customizable)
+- [Best Lightweight Browsers for Chromebook](/articles/best-lightweight-browsers-for-chromebook)

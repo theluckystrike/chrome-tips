@@ -66,3 +66,9 @@ Finally, remember that extensions are tools, not magic solutions. They work best
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Emoji Keyboard Shortcut How to Use](/articles/chrome-emoji-keyboard-shortcut-how-to-use)
+- [Chrome Extensions For Etsy Sellers](/articles//articles/chrome-extensions-for-etsy-sellers/)
+- [chrome zoom default change](/articles/chrome-zoom-default-change)

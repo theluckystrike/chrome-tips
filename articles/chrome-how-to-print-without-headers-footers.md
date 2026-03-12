@@ -56,3 +56,9 @@ In office environments, headers and footers can also serve as a form of document
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Notification Sound How to Change](/articles/chrome-notification-sound-how-to-change)
+- [chrome how to allow popups for one site](/articles/chrome-how-to-allow-popups-for-one-site)
+- [chrome colorblind mode extensions](/articles/chrome-colorblind-mode-extensions)

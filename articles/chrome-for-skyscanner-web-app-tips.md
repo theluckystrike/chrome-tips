@@ -69,3 +69,9 @@ Instead of just opening Skyscanner in a regular tab, you can install it as a web
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy)
+- [Chrome Tab Organize AI Feature Explained](/articles/chrome-tab-organize-ai-feature-explained)
+- [Chrome Most Visited Sites How to Remove](/articles/chrome-most-visited-sites-how-to-remove)

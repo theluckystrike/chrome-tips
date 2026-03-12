@@ -82,3 +82,9 @@ Whether you are a developer debugging a web application or a power user looking 
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+
+- [Chrome Omnibox Search Tricks Most People Dont Know](/articles/chrome-omnibox-search-tricks-most-people-dont-know)
+- [Chrome Not Responding How to Force Close Safely](/articles/chrome-not-responding-how-to-force-close-safely)
+- [Chrome Biometric Login How To Set Up](/articles/chrome-biometric-login-how-to-set-up)

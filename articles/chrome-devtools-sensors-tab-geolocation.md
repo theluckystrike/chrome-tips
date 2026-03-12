@@ -63,3 +63,9 @@ Chrome devtools sensors tab geolocation is just one of many helpful features bui
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Search Engine Keeps Changing to Yahoo Fix](/articles/chrome-search-engine-keeps-changing-to-yahoo-fix)
+- [Chrome Canva Slow Loading Fix](/articles/chrome-canva-slow-loading-fix)
+- [How to Enable Parallel Downloading in Chrome for Faster Downloads](/articles/chrome-parallel-downloading-enable-speed-up)

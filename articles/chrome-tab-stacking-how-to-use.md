@@ -66,3 +66,9 @@ Learning how to use tab stacking in Chrome is about finding a system that fits y
 The most important thing is to actually use the tools consistently rather than letting your tabs spiral out of control. Even small improvements, like grouping related tabs together or closing ones you no longer need, can make a big difference in how much easier your browsing feels. Give these approaches a try and see which combination works best for you.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome vs Edge Speed Test 2026](/articles/chrome-vs-edge-speed-test-2026)
+- [Chrome LastPass Extension Slow Fix](/articles/chrome-lastpass-extension-slow-fix)
+- [How to Inspect and Debug WebSocket Connections in Chrome](/articles/chrome-websocket-inspect-debug)

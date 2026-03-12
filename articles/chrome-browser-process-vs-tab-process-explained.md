@@ -76,3 +76,9 @@ The exact number of processes you see depends on how many tabs you have open, wh
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions For Faster Browsing](/articles//articles/chrome-extensions-for-faster-browsing/)
+- [Chrome Extensions for Workona Tab Manager](/articles/chrome-extensions-for-workona-tab-manager)
+- [How to Route Chrome Tab Audio to Separate Speakers](/articles/chrome-tab-audio-routing-separate-speakers)

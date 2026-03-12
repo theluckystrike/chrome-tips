@@ -82,3 +82,9 @@ Once it becomes muscle memory, you'll wonder how you ever lived without it. And 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for YouTube 4K Playback Settings](/articles/chrome-for-youtube-4k-playback-settings)
+- [Chrome Extensions for Video Conferencing](/articles/chrome-extensions-for-video-conferencing)
+- [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix)

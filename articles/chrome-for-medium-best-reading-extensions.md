@@ -70,3 +70,9 @@ Remember that the goal is to enjoy reading more, not to spend time managing your
 Medium has a wealth of great articles waiting to be read. With the right Chrome extensions, you can create a reading experience that is comfortable, distraction-free, and tailored exactly to your preferences.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change)
+- [Best Chrome Extensions for UX Designers](/articles/best-chrome-extensions-for-ux-designers)
+- [Chrome Address Bar Commands You Didnt Know](/articles/chrome-address-bar-commands-you-didnt-know)

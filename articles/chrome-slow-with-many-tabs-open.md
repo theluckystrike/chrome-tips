@@ -92,3 +92,9 @@ Consider whether your computer meets Chrome's recommended requirements. On compu
 You might also want to try lighter browsers for everyday tasks and reserve Chrome for when you need its specific features. Some browsers use less memory but lack some of Chrome's capabilities.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome WebGPU API Getting Started Guide](/articles/chrome-webgpu-api-getting-started)
+- [Chrome Reader View How to Enable on Any Site](/articles/chrome-reader-view-how-to-enable-on-any-site)
+- [Chrome Find on Page Shortcut Tips](/articles/chrome-find-on-page-shortcut-tips)

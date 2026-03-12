@@ -116,3 +116,9 @@ If you use Chrome on your iPhone to sync with your Mac or PC, you likely keep ma
 Since both use the same WebKit engine, browsing speed is identical. Choose Chrome for Google ecosystem sync and choose Safari for Apple ecosystem integration. Many people use both — Chrome for work (syncing with their work computer) and Safari for personal browsing (syncing with their Mac and iPad).
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Why the Grammarly Extension is Slowing Down Your Chrome Browser](/articles/chrome-grammarly-extension-slowing-browser)
+- [Chrome for Language Learning Extensions](/articles/chrome-for-language-learning-extensions)
+- [Chrome Bitwarden vs Chrome Password Manager: Which Should You Use?](/articles/chrome-bitwarden-vs-chrome-password-manager)

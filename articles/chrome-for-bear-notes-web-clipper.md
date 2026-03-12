@@ -76,3 +76,9 @@ Chrome for Bear Notes web clipper may not be a single click away, but with a lit
 By taking the time to set up a method that works for you and following the tips above, you can build a powerful system for capturing and organizing inspiration from across the web.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Share Chrome Bookmarks Between Devices](/articles/how-to-share-chrome-bookmarks-between-devices)
+- [chrome for github copilot web setup](/articles/chrome-for-github-copilot-web-setup)
+- [Chromebook for Seniors Setup Guide](/articles/chromebook-for-seniors-setup-guide)

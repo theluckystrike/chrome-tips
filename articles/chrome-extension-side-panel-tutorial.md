@@ -174,3 +174,9 @@ Extensions like Tab Suspender Pro demonstrate how side panels can deliver signif
 Start experimenting with your own side panel extension today, and remember to test thoroughly before publishing to the Chrome Web Store.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Canva Companion](/articles//articles/chrome-extensions-for-canva-companion/)
+- [How to Use Chrome DevTools Device Orientation Emulator](/articles//chrome-devtools-device-orientation-emulator/)
+- [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure)

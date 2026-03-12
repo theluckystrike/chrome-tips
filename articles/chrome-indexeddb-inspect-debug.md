@@ -96,3 +96,9 @@ Whether you're building offline-capable PWAs, managing complex client-side state
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Slow on Surface Pro Fix](/articles/chrome-slow-on-surface-pro-fix)
+- [How to Safely Work with Chromebook School Restrictions](/articles/chromebook-school-restrictions-bypass-safely)
+- [Chrome for iPad Tips and Tricks](/articles/chrome-for-ipad-tips-and-tricks)

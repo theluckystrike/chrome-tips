@@ -66,3 +66,9 @@ If you've been relying on console.log for debugging, give Logpoints a try. The l
 Open Chrome DevTools, find a file you're working on, and add your first Logpoint. You'll quickly discover why many developers consider Logpoints an essential part of their debugging toolkit. Once you experience the freedom of non-invasive logging, you'll wonder how you ever managed without it.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Beta Channel How to Join and Leave](/articles/chrome-beta-channel-how-to-join-and-leave)
+- [Chrome ERR_CACHE_MISS Fix](/articles/chrome-err-cache-miss-fix)
+- [Chrome Accessibility Shortcuts For Screen Reader](/articles/chrome-accessibility-shortcuts-for-screen-reader)

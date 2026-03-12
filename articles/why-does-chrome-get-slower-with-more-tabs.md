@@ -114,3 +114,9 @@ The answer to "why does Chrome get slower with more tabs" comes down to memory m
 Start by enabling Memory Saver, then clean up your extensions and close tabs you do not need. Install Tab Suspender Pro for automatic tab management, and make a habit of clearing your cache regularly. These steps will help you get your Chrome browser running smoothly again, even on a computer with limited RAM.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension GDPR Compliance Guide](/articles/chrome-extension-gdpr-compliance-guide)
+- [Chrome Developer Mode Extensions Guide](/articles//chrome-developer-mode-extensions/)
+- [chrome right to left language support](/articles/chrome-right-to-left-language-support)

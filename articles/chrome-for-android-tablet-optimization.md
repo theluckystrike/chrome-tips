@@ -73,3 +73,9 @@ Tablet optimization is not a one-time fix. Every few weeks, take a moment to clo
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Multiple Users Same Computer Setup](/articles/chrome-multiple-users-same-computer-setup)
+- [Chrome Google Chat Integration in Browser](/articles/chrome-google-chat-integration-in-browser)
+- [Chrome Google Drive Integration Save to Drive](/articles/chrome-google-drive-integration-save-to-drive)

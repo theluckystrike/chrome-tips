@@ -53,3 +53,9 @@ If the problem persists, consider reaching out to a professional or using a spec
 A hijacked homepage is annoying but usually not dangerous if you address it quickly. By being careful about what you install and staying alert to changes in your browser, you can keep your Chrome experience smooth and secure.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for JSON Viewer Formatter](/articles/chrome-extensions-for-json-viewer-formatter)
+- [Chrome Uses All CPU When Idle Fix](/articles/chrome-uses-all-cpu-when-idle-fix)
+- [Best Chrome Setup For Graphic Designers](/articles/best-chrome-setup-for-graphic-designers)

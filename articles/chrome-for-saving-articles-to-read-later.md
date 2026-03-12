@@ -70,3 +70,9 @@ By leveraging Chrome's built-in features and the right set of extensions, you ca
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Password Generator How to Use](/articles/chrome-password-generator-how-to-use)
+- [chrome extension for screenshot and annotate](/articles/chrome-extension-for-screenshot-and-annotate)
+- [Chrome vs DuckDuckGo Browser Privacy](/articles/chrome-vs-duckduckgo-browser-privacy)

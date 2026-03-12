@@ -90,3 +90,9 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 Built by theluckystroller — More tips at [zovo.one](https://zovo.one)
 >>>>>>> qa/loop-5
+
+## Related Articles
+
+- [chrome how to add trusted sites](/articles/chrome-how-to-add-trusted-sites)
+- [Chrome Wappalyzer Alternative Built In](/articles/chrome-wappalyzer-alternative-built-in)
+- [How to Make Chrome Faster on an Old Computer](/articles/how-to-make-chrome-faster-on-old-computer)

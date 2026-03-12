@@ -63,3 +63,9 @@ Setting up chrome two factor authentication is not as complicated as it might so
 Start with your most important accounts, like your Google account and your primary email, then gradually enable 2FA on other services. Over time, this simple habit will become second nature, and you will have much better protection against unauthorized access to your personal information.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Spotify Lyrics](/articles/chrome-extension-for-spotify-lyrics)
+- [Chrome Using Too Much Disk Space: A Complete Guide](/articles/chrome-using-too-much-disk-space)
+- [Chrome Google Account Privacy Settings Guide](/articles/chrome-google-account-privacy-settings-guide)

@@ -73,3 +73,9 @@ Getting Chrome to run smoothly on an older Windows 10 laptop takes some effort, 
 Remember that keeping fewer tabs open makes the biggest difference for most people. Using tools like Tab Suspender Pro can help automate this process if you find it difficult to manually manage your tabs. With a little attention and some practical changes, you can extend the life of your older laptop and enjoy a faster browsing experience without having to buy new hardware.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome high memory usage after sleep fix](/articles/chrome-high-memory-usage-after-sleep-fix)
+- [chrome web bluetooth connect headphones](/articles/chrome-web-bluetooth-connect-headphones)
+- [Chrome Downloads Folder How to Change](/articles/chrome-downloads-folder-how-to-change)

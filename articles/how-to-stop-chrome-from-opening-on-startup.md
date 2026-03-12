@@ -72,3 +72,9 @@ Stopping Chrome from opening on startup is entirely possible with the right sett
 If you find that Chrome opening at startup continues to be an issue despite making these changes, try restarting your computer after adjusting the settings. Sometimes the changes take effect immediately, but a restart can ensure everything is working as expected.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Content Security Policy Explained: A Complete Guide](/articles/chrome-content-security-policy-explained)
+- [Chrome Notification Badge on PWA How to Enable](/articles/chrome-notification-badge-on-pwa-how-to-enable)
+- [Chrome Save Page as Shortcut](/articles/chrome-save-page-as-shortcut)

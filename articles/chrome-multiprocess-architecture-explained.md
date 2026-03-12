@@ -77,3 +77,9 @@ Understanding how this architecture works helps you make informed decisions abou
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome LastPass Extension Slow Fix](/articles/chrome-lastpass-extension-slow-fix)
+- [How to Reduce Chrome Startup Time](/articles/how-to-reduce-chrome-startup-time)
+- [Chrome Not Secure Warning What to Do](/articles/chrome-not-secure-warning-what-to-do)

@@ -76,3 +76,9 @@ During your stream, keep an eye on Chrome's performance. If you notice lag or fr
 After your stream, take note of what worked well and what could be improved. Streaming from a browser is a skill that improves with practice, and each broadcast gives you valuable experience to refine your setup.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Google Chat Integration in Browser](/articles/chrome-google-chat-integration-in-browser)
+- [Chrome for Weather Dashboard Extensions](/articles/chrome-for-weather-dashboard-extensions)
+- [chrome for anki web flashcards setup](/articles/chrome-for-anki-web-flashcards-setup)

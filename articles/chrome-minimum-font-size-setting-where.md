@@ -75,3 +75,9 @@ The chrome minimum font size setting is a valuable but often overlooked feature 
 Give it a try—you might be surprised at how much more enjoyable browsing becomes when all the text is consistently readable. Once you've found your ideal setting, you'll wonder how you ever browsed without it.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Clear Chrome Cache Properly](/articles/how-to-clear-chrome-cache-properly)
+- [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/articles/chrome-ai-powered-history-search)
+- [Chrome Trust Tokens Explained](/articles/chrome-trust-tokens-guide)

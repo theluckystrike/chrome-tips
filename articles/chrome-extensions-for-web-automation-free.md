@@ -76,3 +76,9 @@ Be respectful when automating tasks on websites. Avoid running automations too f
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Using More Memory After an Update? Here's What to Do](/articles/chrome-using-more-memory-after-update)
+- [Chrome Reading Mode — How to Enable and Use It](/articles/chrome-reading-mode-how-to-enable)
+- [Chrome Tab From Other Device Not Showing Fix](/articles/chrome-tab-from-other-device-not-showing-fix)

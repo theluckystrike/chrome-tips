@@ -76,3 +76,9 @@ For users who frequently need to recover closed tabs, consider enabling Chrome's
 The chrome recently closed tabs shortcut is a simple but powerful tool that every Chrome user should know. Whether you prefer using Ctrl+Shift+T on Windows or Cmd+Shift+T on Mac, or you prefer using the right click menu or history, there are multiple ways to access your recently closed tabs. By understanding these methods and incorporating good tab management habits into your browsing routine, you can work more efficiently and avoid the stress of losing important pages.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Descript Web App Optimization](/articles/chrome-for-descript-web-app-optimization)
+- [chrome how to block specific website notifications](/articles/chrome-how-to-block-specific-website-notifications)
+- [how to make chrome default browser windows 11](/articles/how-to-make-chrome-default-browser-windows-11)

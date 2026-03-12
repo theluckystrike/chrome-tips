@@ -79,3 +79,9 @@ Using Google Translate in Chrome effectively is about finding the workflow that 
 Give these tips a try and experiment with different settings. You might be surprised at how much foreign-language content you can now enjoy effortlessly. Happy translating.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Quick Notes Sidebar](/articles/chrome-extensions-for-quick-notes-sidebar)
+- [Chrome Fenced Frames Explained](/articles/chrome-fenced-frames-explained)
+- [How to Export Chrome Passwords](/articles/how-to-export-chrome-passwords)

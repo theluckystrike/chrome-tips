@@ -105,3 +105,9 @@ Understanding when to use each type helps you build better web applications and 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Obsidian Web Clipper Setup](/articles/chrome-for-obsidian-web-clipper-setup)
+- [Chrome for Snapchat Web Tips](/articles/chrome-for-snapchat-web-tips)
+- [Chrome IndexedDB Storage Explained](/articles/chrome-indexeddb-storage-explained)

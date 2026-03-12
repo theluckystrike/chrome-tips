@@ -109,3 +109,9 @@ The best approach combines several tools and features that work together to addr
 Remember that your needs may change over time, so periodically review your setup and make adjustments as necessary. Chrome continues to add new accessibility features, so staying informed about updates will help you take advantage of improvements to chrome screen reader support.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Live Caption How It Works](/articles/chrome-live-caption-how-it-works)
+- [Chrome Content Security Policy Explained: A Complete Guide](/articles/chrome-content-security-policy-explained)
+- [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management)

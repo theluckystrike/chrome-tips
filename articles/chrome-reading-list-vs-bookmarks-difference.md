@@ -91,3 +91,9 @@ Try implementing both features in your daily routine. Save frequently visited si
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Workona Tab Manager](/articles/chrome-extensions-for-workona-tab-manager)
+- [chrome high contrast mode enable guide](/articles//chrome-high-contrast-mode-enable-guide/)
+- [Chrome Preloading Pages Should I Enable It](/articles/chrome-preloading-pages-should-i-enable-it)

@@ -78,3 +78,9 @@ Start with one extension and give it a fair trial before trying others. Building
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Block Ads on Chrome Without Extension](/articles/how-to-block-ads-on-chrome-without-extension)
+- [Chrome Enable Cookies for One Site How to](/articles/chrome-enable-cookies-for-one-site-how-to)
+- [Chrome CORS Error Explained in Simple Terms](/articles/chrome-cors-error-explained-simple-terms)

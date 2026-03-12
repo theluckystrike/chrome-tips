@@ -77,3 +77,9 @@ If your Chrome PWA install prompt is not showing, go through the checklist above
 Remember that you have control over the prompt through the beforeinstallprompt event. Taking manual control of the install experience often provides a better user experience anyway. Your users will appreciate a clear, well-timed install button rather than a prompt that appears at unpredictable times.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome topics api explained simply](/articles/chrome-topics-api-explained-simply)
+- [Chrome Extensions For Blocking Distracting Websites](/articles//articles/chrome-extensions-for-blocking-distracting-websites/)
+- [How to Turn Off Chrome Notifications on Android](/articles/how-to-turn-off-chrome-notifications-android)

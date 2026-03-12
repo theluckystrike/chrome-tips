@@ -79,3 +79,9 @@ You might also want to review the permissions that websites have and clear your 
 Chrome Secure DNS is a simple but effective way to add a layer of privacy and security to your browsing. By encrypting your DNS requests, you make it harder for others to see which websites you visit. Enabling it takes just a few minutes and can provide peace of mind, especially when browsing on networks you do not control. Give it a try and see the difference it makes for yourself.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for LinkedIn Best Extensions](/articles/chrome-for-linkedin-best-extensions)
+- [Chrome for Web3 Browsing Extensions](/articles/chrome-for-web3-browsing-extensions)
+- [Chrome Tab Management Shortcuts Cheat Sheet](/articles/chrome-tab-management-shortcuts-cheat-sheet)

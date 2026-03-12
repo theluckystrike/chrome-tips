@@ -79,3 +79,9 @@ Clear your cache regularly. You do not need to do this every day, but doing it o
 Stay updated. Keep Chrome updated, and make sure your operating system is current as well. Updates often include performance improvements and bug fixes that can help with video playback.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Amazon Price History](/articles/chrome-extensions-for-amazon-price-history)
+- [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained)
+- [Chrome for ChatGPT Web App Best Extensions](/articles/chrome-for-chatgpt-web-app-best-extensions)

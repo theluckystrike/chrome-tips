@@ -133,3 +133,9 @@ Chrome DevTools console errors might look intimidating at first, but once you un
 The next time you see a red error message in Chrome, don't panic. Use this guide to identify the problem, try the suggested fixes, and get back to browsing. If you're a developer, use the console as your debugging companion—it's one of the most powerful tools available for building better websites.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Bookmark Current Page Shortcut](/articles/chrome-bookmark-current-page-shortcut)
+- [Chrome CORS Error for Regular Users](/articles/chrome-cors-error-for-regular-users)
+- [Chrome Memory Saver Mode How to Use](/articles/chrome-memory-saver-mode-how-to-use)

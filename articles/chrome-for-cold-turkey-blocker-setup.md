@@ -67,3 +67,9 @@ Finally, be patient with yourself. Changing browsing habits takes time, and ther
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Fix Chrome Mixed Content Warning](/articles/chrome-mixed-content-warning-fix)
+- [Chrome vs Opera Features Comparison](/articles/chrome-vs-opera-features-comparison)
+- [Chrome Reading Mode How to Activate](/articles/chrome-reading-mode-how-to-activate)

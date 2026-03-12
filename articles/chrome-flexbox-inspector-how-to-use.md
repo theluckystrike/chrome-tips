@@ -84,3 +84,9 @@ If you are building a website and find yourself constantly fixing flexbox issues
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Cleanup Tool: Where Did It Go?](/articles/chrome-cleanup-tool-where-did-it-go)
+- [Chrome Instant Apps on Android Explained](/articles/chrome-instant-apps-on-android-explained)
+- [Chrome Layer CSS Cascade Layers Explained](/articles/chrome-layer-css-cascade-layers-explained)

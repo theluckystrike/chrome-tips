@@ -84,3 +84,9 @@ Chrome for phantom wallet extension provides a convenient way to manage your Sol
 Remember to keep your recovery phrase safe, review transaction requests carefully, and stay vigilant against phishing attempts. With these precautions in place, Phantom can be a secure and efficient tool for managing your cryptocurrency activities.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Enable Chrome Smooth Scrolling](/articles/how-to-enable-chrome-smooth-scrolling)
+- [Chrome Audio Equalizer Extension](/articles/chrome-audio-equalizer-extension)
+- [Chrome Not Responding? Force Close It This Way](/articles/chrome-not-responding-force-close-how)

@@ -76,3 +76,9 @@ The tools are there, they are easy to use, and the information they provide is v
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Best Chrome Extensions for Working From Home](/articles/best-chrome-extensions-for-working-from-home)
+- [Chrome Extensions For Cover Letter Writing](/articles//articles/chrome-extensions-for-cover-letter-writing/)
+- [Chrome chrome.alarms API for Scheduled Tasks](/articles//articles/chrome-chrome.alarms-scheduled-tasks/)

@@ -114,3 +114,9 @@ Both Incognito and Guest Mode are valuable tools in Chrome's privacy toolkit—y
 Understanding these differences helps you protect your privacy, keep your browser organized, and use Chrome more effectively—no matter what you're working on.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Reset vs Reinstall: Which Is Better?](/articles/chrome-reset-vs-reinstall-which-is-better)
+- [chrome for dual monitor tab management](/articles/chrome-for-dual-monitor-tab-management)
+- [Chrome Site Settings Permissions Explained](/articles/chrome-site-settings-permissions-explained)

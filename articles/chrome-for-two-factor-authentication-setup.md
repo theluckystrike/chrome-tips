@@ -81,3 +81,9 @@ Setting up two factor authentication in Chrome is one of the best things you can
 Start with your most important accounts, like your Google account and your primary email. Then gradually enable 2FA on other platforms. Use authentication apps instead of text messages when you can, and keep your backup codes in a safe place.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Tab Grouping Automatically](/articles/chrome-extensions-for-tab-grouping-automatically)
+- [Chrome Slow on School Laptop? Here's How to Fix It](/articles/chrome-slow-on-school-laptop-how-to-fix)
+- [Chrome Web GPU API Explained](/articles/chrome-web-gpu-api-explained)

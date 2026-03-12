@@ -78,3 +78,9 @@ Now that you know the chrome toggle fullscreen shortcut, go ahead and give it a 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Mockup Creator](/articles/chrome-extensions-for-mockup-creator)
+- [How to Use Chrome Task Manager to Find Slow Tabs](/articles/how-to-use-chrome-task-manager-to-find-slow-tabs)
+- [Chrome Speculation Rules Prefetch: A Complete Guide](/articles/chrome-speculation-rules-prefetch)

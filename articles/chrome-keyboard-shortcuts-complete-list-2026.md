@@ -85,3 +85,9 @@ Here is a condensed version of the most essential shortcuts for quick reference:
 Learning the chrome keyboard shortcuts complete list for 2026 takes some time, but the productivity gains are well worth the investment. Start with the shortcuts you use most frequently—new tab, close tab, switch tabs—and gradually add more to your workflow. Within a few weeks, these shortcuts will become second nature, and you will wonder how you ever browsed without them.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for google flights tips and tricks](/articles/chrome-for-google-flights-tips-and-tricks)
+- [Chrome Nesting CSS Native Support](/articles/chrome-nesting-css-native-support)
+- [Chrome Extensions For Font Changing](/articles//articles/chrome-extensions-for-font-changing/)

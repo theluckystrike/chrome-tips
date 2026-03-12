@@ -100,3 +100,9 @@ Whatever you choose, being aware of the security implications helps you make inf
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for online learning best setup](/articles/chrome-for-online-learning-best-setup)
+- [Chrome Workbox Library for Service Workers](/articles/chrome-workbox-library-for-service-workers)
+- [chrome extension for measuring things on screen](/articles/chrome-extension-for-measuring-things-on-screen)

@@ -88,3 +88,9 @@ Chrome cookie settings are designed to give you control while still allowing web
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Console Utilities Reference](/articles/chrome-console-utilities-guide)
+- [Chrome Passkeys Explained for Beginners](/articles/chrome-passkeys-explained-for-beginners)
+- [chrome extensions for one click bookmark folders](/articles/chrome-extensions-for-one-click-bookmark-folders)

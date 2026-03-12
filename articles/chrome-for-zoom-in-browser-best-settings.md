@@ -68,3 +68,9 @@ Most Zoom problems in Chrome stem from the browser using too many resources or c
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for vpn extensions comparison](/articles/chrome-for-vpn-extensions-comparison)
+- [Chrome Popover API Explained](/articles/chrome-popover-api-explained)
+- [Chrome for Amazon Seller Central Tips](/articles/chrome-for-amazon-seller-central-tips)

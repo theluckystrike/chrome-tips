@@ -69,3 +69,9 @@ Getting Google Keep to work smoothly with Chrome is easier than it seems. Start 
 Remember, the goal is to let your tools support you, not slow you down. With a few small adjustments, Google Keep becomes a natural part of your browsing routine.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extension for Focus Mode Block Distractions](/articles/chrome-extension-for-focus-mode-block-distractions)
+- [chrome default browser how to set on mac](/articles//chrome-default-browser-how-to-set-on-mac/)
+- [Chrome Extensions for IP Address Lookup](/articles/chrome-extensions-for-ip-address-lookup)

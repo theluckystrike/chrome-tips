@@ -76,3 +76,9 @@ Consider how you naturally categorize information and access websites. Your syst
 Start implementing these strategies today, and you'll be amazed at how much time and frustration a well-organized bookmark system can save. What once seemed like a insurmountable collection of chaotic links will transform into a powerful personal knowledge library that serves you well for years to come.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Spell Check Wrong Language Fix](/articles/chrome-spell-check-wrong-language-fix)
+- [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/articles/chrome-site-isolation-security-feature)
+- [Chrome Core Web Vitals Check My Website](/articles/chrome-core-web-vitals-check-my-website)

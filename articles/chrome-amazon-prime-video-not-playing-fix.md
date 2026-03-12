@@ -140,3 +140,9 @@ Playback issues with Amazon Prime Video in Chrome are frustrating, but they're u
 By keeping your browser and system updated and being mindful of how extensions and settings affect playback, you can enjoy seamless streaming without interruptions.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Music Discovery Extensions](/articles/chrome-for-music-discovery-extensions)
+- [How to Inspect CSS Animations and Transitions in Chrome DevTools](/articles/chrome-animations-panel-inspect-transitions)
+- [Chrome Best Settings For Slow Internet](/articles/chrome-best-settings-for-slow-internet)

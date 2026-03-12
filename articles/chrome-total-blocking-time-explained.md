@@ -50,3 +50,9 @@ If you find that your browser still struggles despite these efforts, give Tab Su
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome High Memory Usage Windows 11](/articles/chrome-high-memory-usage-windows-11)
+- [Chrome Lagging on 4GB RAM Computer](/articles/chrome-lagging-on-4gb-ram-computer)
+- [Chrome Game Streaming Optimization Tips](/articles/chrome-game-streaming-optimization-tips)

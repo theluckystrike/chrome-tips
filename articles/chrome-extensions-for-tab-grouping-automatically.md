@@ -58,3 +58,9 @@ The best chrome extensions for tab grouping automatically depend on your specifi
 Start by trying one extension that matches your primary need. You might find that a single solution is enough to dramatically improve your browsing experience. The key is to choose a tool that you will actually use consistently, rather than installing multiple extensions that create their own complexity.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Duolingo Web App Optimization](/articles/chrome-for-duolingo-web-app-optimization)
+- [Chrome Scrolling Lag Fix](/articles/chrome-scrolling-lag-fix)
+- [Chrome Media Session API: Mastering Music Controls in Your Browser](/articles/chrome-media-session-api-music-controls)

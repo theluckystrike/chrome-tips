@@ -72,3 +72,9 @@ If you have not yet updated your websites to support Client Hints, now is the ti
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Web Annotation](/articles/chrome-extensions-for-web-annotation)
+- [Chrome Starting Style CSS Explained](/articles/chrome-starting-style-css-explained)
+- [Chrome Overriding CSS in DevTools: A Practical Tutorial](/articles/chrome-overriding-css-in-devtools-tutorial)

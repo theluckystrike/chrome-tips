@@ -260,3 +260,9 @@ Whether you are a web developer looking to explore hardware projects or a hardwa
 The ability to communicate with Arduino, microcontrollers, and other serial devices directly from Chrome transforms the browser from a window into the digital world into a gateway to the physical world. This capability is limited only by your imagination and the devices you choose to connect.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Redirecting to Wrong Pages Fix](/articles/chrome-redirecting-to-wrong-pages-fix)
+- [chrome for coinbase web app tips](/articles/chrome-for-coinbase-web-app-tips)
+- [Chrome Extension for Changing User Agent](/articles/chrome-extension-for-changing-user-agent)

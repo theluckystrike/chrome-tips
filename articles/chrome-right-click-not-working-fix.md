@@ -88,3 +88,9 @@ Consider using a tab management tool to keep your browser running smoothly. One 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Add Chrome Shortcut to Desktop](/articles/how-to-add-chrome-shortcut-to-desktop)
+- [Chrome Web Serial API Guide](/articles/chrome-web-serial-api-guide)
+- [Chrome Web OTP API Explained](/articles/chrome-web-otp-api-explained)

@@ -70,3 +70,9 @@ Take a few minutes to go through these steps, and you should be able to browse w
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser)
+- [Chrome for StackOverflow Best Extensions](/articles/chrome-for-stackoverflow-best-extensions)
+- [Chrome Taking 5 Minutes to Load: Fixes for Slow Computers](/articles/chrome-taking-5-minutes-to-load)

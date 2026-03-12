@@ -70,3 +70,9 @@ Small improvements in your browsing setup can make a significant difference in h
 Give these tools a try and see which ones work best for your specific needs. Everyone reads differently, and the right combination of extensions will depend on how you use Wikipedia and what challenges you face most often.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome default browser how to set windows mac](/articles//chrome-default-browser-how-to-set-windows-mac/)
+- [Chrome Homepage Keeps Changing to Yahoo Fix](/articles/chrome-homepage-keeps-changing-to-yahoo-fix)
+- [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to)

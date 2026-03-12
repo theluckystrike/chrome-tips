@@ -58,3 +58,9 @@ While you are at it, restart your computer occasionally to keep everything runni
 Improving your chrome webrtc video call quality does not have to be complicated. By checking your internet connection, closing unnecessary tabs and applications, adjusting Chrome settings, choosing the right video options, and keeping your browser updated, you can enjoy much clearer and more reliable video calls. Try these tips one at a time to see which ones make the biggest difference for you, and you will be well on your way to better video calling experiences.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Developer Tools Shortcut](/articles//chrome-developer-tools-shortcut/)
+- [Chrome Extensions for Saving Articles Offline](/articles/chrome-extensions-for-saving-articles-offline)
+- [Chrome Sync Phone and Computer How to Set Up](/articles/chrome-sync-phone-and-computer-how-to-set-up)

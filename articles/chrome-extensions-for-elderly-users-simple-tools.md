@@ -80,3 +80,9 @@ The right tools make a enormous difference in how older adults experience the in
 Everyone deserves to use the internet comfortably, regardless of age or technical experience. With just a few helpful extensions, you can give the older adults in your life the gift of easier, safer, and more enjoyable browsing.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead)
+- [Best Chrome Extensions for Small Business Owners](/articles/best-chrome-extensions-for-small-business-owners)
+- [Chrome vs Edge Battery Life Laptop Comparison](/articles/chrome-vs-edge-battery-life-laptop-comparison)

@@ -63,3 +63,9 @@ You can check if Chrome is up to date by clicking the three dots in the upper ri
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Should I Switch to Firefox for Less RAM? A Practical Guide](/articles/should-i-switch-to-firefox-for-less-ram)
+- [Chrome Devtools Security Panel Explained](/articles/chrome-devtools-security-panel-explained)
+- [Chrome Extensions for Reading List Manager](/articles/chrome-extensions-for-reading-list-manager)

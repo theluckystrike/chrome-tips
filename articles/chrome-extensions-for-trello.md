@@ -68,3 +68,9 @@ Do not feel pressured to install every extension you come across. More extension
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Content Visibility Auto Performance](/articles/chrome-content-visibility-auto-performance)
+- [Chrome Extensions for Text Comparison Diff Tool](/articles/chrome-extensions-for-text-comparison-diff-tool)
+- [Chrome Tab From Other Device Not Showing Fix](/articles/chrome-tab-from-other-device-not-showing-fix)

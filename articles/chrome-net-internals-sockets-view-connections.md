@@ -49,3 +49,9 @@ The Sockets view in Chrome Net Internals is best used when you encounter specifi
 However, if you find yourself regularly needing to flush socket pools to keep Chrome running smoothly, consider whether an extension might reduce the frequency of these issues. Prevention combined with the knowledge of how to diagnose problems when they arise gives you the best of both worlds.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Blurry Text Fix Windows](/articles/chrome-blurry-text-fix-windows)
+- [Chrome New Tab Page Best Extensions](/articles/chrome-new-tab-page-best-extensions)
+- [Chrome Extensions for Tree Style Tabs](/articles/chrome-extensions-for-tree-style-tabs)

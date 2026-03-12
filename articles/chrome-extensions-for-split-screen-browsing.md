@@ -66,3 +66,9 @@ Split screen browsing might feel unfamiliar at first, but most users find that t
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for YouTube Thumbnail Preview](/articles/chrome-extensions-for-youtube-thumbnail-preview)
+- [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix)
+- [Chrome About Settings All Pages Explained](/articles/chrome-about-settings-all-pages-explained)

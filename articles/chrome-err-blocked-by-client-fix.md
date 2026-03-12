@@ -94,3 +94,9 @@ Remember that some blocking is there to protect you. Only disable blockers on si
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Mailto Link Not Working Fix](/articles/chrome-mailto-link-not-working-fix)
+- [Chrome Web Push Notifications Setup Guide](/articles/chrome-web-push-notifications-setup-guide)
+- [Chrome Mobile View on Desktop How to](/articles/chrome-mobile-view-on-desktop-how-to)

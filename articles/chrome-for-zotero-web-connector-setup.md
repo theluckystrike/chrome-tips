@@ -74,3 +74,9 @@ Setting up chrome for zotero web connector takes only a few minutes, and the tim
 Whether you are a student working on your first major paper or a researcher managing large projects, the Web Connector helps you stay organized and capture sources efficiently. Give it a try on your next research session and see how much easier it makes collecting and managing your materials.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome HTTPS First Mode Guide](/articles/chrome-https-first-mode)
+- [Chrome for Google Scholar Best Extensions](/articles/chrome-for-google-scholar-best-extensions)
+- [Chrome for Arxiv Paper Reader Extensions](/articles/chrome-for-arxiv-paper-reader-extensions)

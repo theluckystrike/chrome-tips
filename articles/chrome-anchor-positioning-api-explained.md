@@ -70,3 +70,9 @@ Features like the anchor positioning API work best when Chrome is not struggling
 Tab Suspender Pro can help with this by automatically suspending tabs you are not actively using, freeing up memory so Chrome can run smoothly. When your browser has resources to spare, you get the full benefit of improvements like the anchor positioning API — snappy menus, responsive tooltips, and an overall better browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Biometric Authentication for the Web](/articles/chrome-biometric-authentication-web)
+- [Chrome for LinkedIn Best Extensions](/articles/chrome-for-linkedin-best-extensions)
+- [Chrome Android Reading List How to Use](/articles/chrome-android-reading-list-how-to-use)

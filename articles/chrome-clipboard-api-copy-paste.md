@@ -139,3 +139,9 @@ Remember to handle errors gracefully, provide clear user feedback, and always re
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome enhanced tracking protection setup](/articles/chrome-enhanced-tracking-protection-setup)
+- [Chrome vs Safari for iPhone Which is Better](/articles/chrome-vs-safari-for-iphone-which-is-better)
+- [Chrome Biometric Login How To Set Up](/articles/chrome-biometric-login-how-to-set-up)

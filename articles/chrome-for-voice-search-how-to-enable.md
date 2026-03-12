@@ -68,3 +68,9 @@ Enabling voice search in Chrome is one of those simple features that can genuine
 Give it a try for simple queries at first, like checking the weather, finding a recipe, or looking up a quick fact. Once you get comfortable, you will likely find yourself using it for more complex searches too. Voice search is one of those tools that feels like a small convenience at first but quickly becomes something you miss when it is not available.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome file system access api explained](/articles/chrome-file-system-access-api-explained)
+- [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome)
+- [Chrome Reading Mode AI Summary Feature](/articles/chrome-reading-mode-ai-summary-feature)

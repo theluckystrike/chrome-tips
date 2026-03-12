@@ -67,3 +67,9 @@ Remember that clicking on the small arrows to expand shadow roots is the key to 
 With some practice, you will be able to navigate Shadow DOM just as easily as regular page elements. This skill opens up a deeper understanding of how modern websites are built and gives you more power to troubleshoot issues when they arise.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Web Vitals Extension How to Use](/articles/chrome-web-vitals-extension-how-to-use)
+- [How to Set Homepage on Chrome](/articles/how-to-set-homepage-on-chrome)
+- [Chrome Google Translate Built in Feature Tips](/articles/chrome-google-translate-built-in-feature-tips)

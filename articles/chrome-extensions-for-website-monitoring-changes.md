@@ -89,3 +89,9 @@ Give these extensions a try with just a page or two, see how they work for your 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Extensions for SSL Certificate Checker](/articles/chrome-extensions-for-ssl-certificate-checker)
+- [Chrome Tech Support Scam Popup Fix](/articles/chrome-tech-support-scam-popup-fix)
+- [Best Chrome Extensions for Recruiters](/articles/best-chrome-extensions-for-recruiters)

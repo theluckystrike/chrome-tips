@@ -56,3 +56,9 @@ The ability to change fonts on any website is one of those features that you mig
 Take some time to explore the different options available, try a few extensions to see which interface you prefer, and enjoy a more comfortable browsing experience. Your eyes will thank you for it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome how to add trusted sites](/articles/chrome-how-to-add-trusted-sites)
+- [Chrome Window Size Not Saving Fix](/articles/chrome-window-size-not-saving-fix)
+- [Chrome DOMContentLoaded vs Load Event](/articles/chrome-dom-content-loaded-vs-load-event)

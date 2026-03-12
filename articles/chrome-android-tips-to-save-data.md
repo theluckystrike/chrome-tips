@@ -85,3 +85,9 @@ Finally, keep an eye on how much data Chrome is actually using. Your Android pho
 Chrome also shows data saved through Data Saver in the settings menu. Checking this occasionally helps you understand the impact of the changes you have made and motivates you to keep up the good habits.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching)
+- [Chrome Dns Prefetch What It Does](/articles/chrome-dns-prefetch-what-it-does)
+- [Chrome Shape Detection API Explained](/articles/chrome-shape-detection-api-explained)

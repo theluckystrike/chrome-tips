@@ -80,3 +80,9 @@ These extensions work by suspending tabs that you have not used recently, freein
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+
+- [chrome for color picker extensions](/articles/chrome-for-color-picker-extensions)
+- [How to Use Chrome Device Emulation to Test Your Mobile Website](/articles//chrome-device-emulation-test-mobile-website/)
+- [Chrome for Replit in Browser Tips](/articles/chrome-for-replit-in-browser-tips)

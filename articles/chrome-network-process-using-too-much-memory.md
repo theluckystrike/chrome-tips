@@ -71,3 +71,9 @@ High memory usage from the Chrome Network process is annoying, but it is usually
 Give these tips a try and see how much of a difference they make. Your computer will thank you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Recover Deleted Bookmarks Chrome](/articles/how-to-recover-deleted-bookmarks-chrome)
+- [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings)
+- [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup)

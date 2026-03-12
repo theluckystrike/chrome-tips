@@ -111,3 +111,9 @@ Try enabling sync if you have not already, as it provides the most seamless expe
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+
+- [Chrome Default Download Location How to Set](/articles//chrome-default-download-location-how-to-set/)
+- [Chrome for Quick Commands Feature](/articles/chrome-for-quick-commands-feature)
+- [chrome extensions for one click bookmark folders](/articles/chrome-extensions-for-one-click-bookmark-folders)

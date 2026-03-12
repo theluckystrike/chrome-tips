@@ -68,3 +68,9 @@ Chrome compact mode how to enable does not have a single, straightforward answer
 The best approach is the one that fits your specific needs and workflow. What works for one person may not work for another, so do not be afraid to try different combinations of settings and tools until you find what makes Chrome feel just right for you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Capture Network Logs in Chrome Using Net Export](/articles/chrome-net-export-capture-network-log)
+- [Chromebook vs iPad for Students](/articles/chromebook-vs-ipad-for-students-comparison)
+- [Chrome for Cold Turkey Blocker Setup](/articles/chrome-for-cold-turkey-blocker-setup)

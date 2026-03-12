@@ -62,3 +62,9 @@ Chrome extensions for highlighting text on web fill a genuine gap in the browser
 The best way to find what works for you is to try a highlighting extension and use it consistently for a week or two. Pay attention to how the extension fits into your workflow and whether its features match your needs. With the right extension in place, you will find that the web becomes a much more manageable place to read, research, and collect information.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome vs Safari Memory Usage Mac](/articles/chrome-vs-safari-memory-usage-mac)
+- [chrome javascript disable for one site how to](/articles/chrome-javascript-disable-for-one-site-how-to)
+- [Chrome Camera Not Working Fix](/articles/chrome-camera-not-working-fix)

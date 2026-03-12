@@ -82,3 +82,9 @@ Casting from Chrome to Chromecast is incredibly useful when it works, and most o
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for StackOverflow Best Extensions](/articles/chrome-for-stackoverflow-best-extensions)
+- [Chrome Payment Autofill How to Manage Cards](/articles/chrome-payment-autofill-how-to-manage-cards)
+- [How to Stop Chrome from Suspending My Tabs](/articles/how-to-stop-chrome-from-suspending-my-tabs)

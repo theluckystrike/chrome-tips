@@ -33,3 +33,9 @@ Finding the right apartment takes time, but using Chrome smartly can make the pr
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Google Slides Presentation Tips](/articles/chrome-for-google-slides-presentation-tips)
+- [Chrome PDF Viewer Settings: Complete Customization Guide](/articles/chrome-pdf-viewer-settings)
+- [Chrome Startup Pages How to Set](/articles/chrome-startup-pages-how-to-set)

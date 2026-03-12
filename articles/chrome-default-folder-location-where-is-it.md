@@ -62,3 +62,9 @@ Chrome saves your downloads to the Downloads folder by default on all major oper
 Keeping track of where Chrome stores your files makes it easier to find things, free up space, and manage your browser effectively. Whether you need to locate a downloaded document, back up your bookmarks, or simply understand how Chrome works, knowing these locations gives you more control over your browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome right to left language support](/articles/chrome-right-to-left-language-support)
+- [Chrome for DeFi Dashboard Extensions](/articles/chrome-for-defi-dashboard-extensions)
+- [How to Increase Chrome Cache Size](/articles/chrome-cache-size-how-to-increase)

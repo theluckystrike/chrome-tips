@@ -64,3 +64,9 @@ Finally, keep Chrome updated. Google continuously refines color management, and 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for HTTP Header Viewer](/articles/chrome-extensions-for-http-header-viewer)
+- [Chrome Payment Methods How to Remove](/articles/chrome-payment-methods-how-to-remove)
+- [chrome for github copilot web setup](/articles/chrome-for-github-copilot-web-setup)

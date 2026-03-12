@@ -54,3 +54,9 @@ Start with the most common options if you are not sure what to choose. The defau
 Keep in mind that changing your user agent might affect how some websites function. You might see different content, different layouts, or lose access to features that are specific to your actual browser. Most of the time this is temporary and only affects the site you are testing, but it is worth being aware of.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for instacart web app best settings](/articles/chrome-for-instacart-web-app-best-settings)
+- [Chrome Extensions for Todoist](/articles/chrome-extensions-for-todoist)
+- [Chrome Spellcheck Not Working? Here's How to Fix It](/articles/chrome-spellcheck-not-working-fix)

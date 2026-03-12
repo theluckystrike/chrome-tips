@@ -68,3 +68,9 @@ Finally, let the other participants know when you are about to start sharing you
 ## Footer
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Making Your Laptop Fan Loud? Here's How to Fix It](/articles/chrome-making-laptop-fan-loud)
+- [How to Inspect and Debug WebSocket Connections in Chrome](/articles/chrome-websocket-inspect-debug)
+- [Chrome Extensions for Online Shopping Deals](/articles/chrome-extensions-for-online-shopping-deals)

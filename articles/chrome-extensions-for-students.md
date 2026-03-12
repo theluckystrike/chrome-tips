@@ -106,3 +106,9 @@ The right Chrome extensions can transform your academic experience, helping you 
 Experiment with these extensions, find the combination that works best for your specific needs, and watch as your productivity and academic performance improve. With the right tools at your disposal, you will be better equipped to handle the demands of modern education.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Capture Full Page Screenshots in Chrome Using DevTools](/articles/chrome-screenshot-capture-devtools-full-page)
+- [Chrome Extensions for Pomodoro Timer](/articles/chrome-extensions-for-pomodoro-timer)
+- [Chrome Extension for Reading Mode Distraction Free](/articles/chrome-extension-for-reading-mode-distraction-free)

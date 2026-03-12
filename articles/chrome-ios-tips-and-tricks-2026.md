@@ -124,3 +124,9 @@ Apple forces all browsers to use WebKit, but Chrome adds its own features on top
 Chrome on iOS is a capable browser with deep Google integration. By setting it as your default, mastering tab management, and using features like voice search and tab sync, you can make your mobile browsing more productive. Pair it with Tab Suspender Pro on your desktop for a seamless experience across all your devices.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Auto Fill Forms Faster](/articles/chrome-extension-for-auto-fill-forms-faster)
+- [chrome google photos integration tips](/articles/chrome-google-photos-integration-tips)
+- [Chrome for Dailymotion Web Player](/articles/chrome-for-dailymotion-web-player)

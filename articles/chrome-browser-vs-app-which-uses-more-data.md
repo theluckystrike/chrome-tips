@@ -63,3 +63,9 @@ For people with limited data plans, a combination approach works well. Use apps 
 The difference in data usage between Chrome and apps is real but manageable. By understanding how each option works and applying a few simple habits, you can browse the web without worrying about exceeding your data limit.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Weather Forecast New Tab](/articles/chrome-extensions-for-weather-forecast-new-tab)
+- [How to Find a Tab by Name in Chrome: Complete Guide](/articles/chrome-find-tab-by-name-search)
+- [chrome network throttling test slow connection](/articles/chrome-network-throttling-test-slow-connection)

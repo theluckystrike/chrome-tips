@@ -76,3 +76,9 @@ Understanding the difference between chrome first party vs third party cookies e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/articles/chrome-err-ssl-protocol-error-fix)
+- [chrome floating video window how to use](/articles/chrome-floating-video-window-how-to-use)
+- [chrome device management for education](/articles//chrome-device-management-for-education/)

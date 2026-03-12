@@ -68,3 +68,9 @@ Start by running a Lighthouse audit on your own website or any page you visit fr
 Remember, website performance is not a one-time fix. As you add new content and features, it is worth checking the treemap periodically to make sure you are not accidentally adding new weight to your pages. Regular audits help you catch problems early and keep your site running smoothly for everyone who visits.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Tab to Search Feature How to Use](/articles/chrome-tab-to-search-feature-how-to-use)
+- [chrome location services how to turn off](/articles/chrome-location-services-how-to-turn-off)
+- [Chrome for Travel Planning: Best Extensions](/articles/chrome-for-travel-planning-best-extensions)

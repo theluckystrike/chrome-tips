@@ -193,3 +193,9 @@ The key to getting the most from Reading List is consistency. Make it a habit to
 Start using Chrome Reading List today, and you will wonder how you ever managed without it. Whether you are a researcher, student, or casual browser, this feature has something to offer everyone who wants to save and organize web content for later reading.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Back Forward Cache Explained](/articles/chrome-back-forward-cache-explained)
+- [Chrome High Memory Usage Windows 11](/articles/chrome-high-memory-usage-windows-11)
+- [Chrome IndexedDB vs LocalStorage Comparison](/articles/chrome-indexeddb-vs-localstorage-comparison)

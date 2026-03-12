@@ -73,3 +73,9 @@ Chrome periodic background sync explained simply is a way for websites and exten
 If you want to get more out of your browser and manage your tabs more efficiently, tools like Tab Suspender Pro leverage this technology to help you browse smarter. It is just one example of how periodic background sync is being used to improve the Chrome experience for everyone.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Utility Process Explained](/articles/chrome-utility-process-explained)
+- [Chrome Sandbox Mode Explained Simply](/articles/chrome-sandbox-mode-explained-simply)
+- [Chrome Clean Install: What to Backup First](/articles/chrome-clean-install-what-to-backup-first)

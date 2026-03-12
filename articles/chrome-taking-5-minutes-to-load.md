@@ -94,3 +94,9 @@ Consider trying browsers designed for low-resource computers. They offer similar
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+
+- [chrome themes how to change and customize](/articles/chrome-themes-how-to-change-and-customize)
+- [Chrome Performance Settings Explained 2026](/articles/chrome-performance-settings-explained-2026)
+- [chrome pi hole vs browser ad blocker comparison](/articles/chrome-pi-hole-vs-browser-ad-blocker-comparison)

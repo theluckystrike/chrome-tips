@@ -92,3 +92,9 @@ Remember that free VPN extensions typically will not match the performance and f
 The most important thing is to actually use a VPN when browsing on public networks. Even a basic free extension is better than nothing when it comes to protecting your personal information from prying eyes.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Passkeys Guide 2026](/articles/chrome-passkeys-guide-2026)
+- [Chrome Devtools Edit HTML Live](/articles//chrome-devtools-edit-html-live/)
+- [My Computer Is So Slow How to Fix Chrome](/articles/my-computer-is-so-slow-how-to-fix-chrome)

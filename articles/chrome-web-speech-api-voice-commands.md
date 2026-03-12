@@ -80,3 +80,9 @@ Voice interaction represents the next frontier of browser usability. Whether you
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome User Agent String: What It Is and How It Works](/articles/chrome-user-agent-string-what-it-is)
+- [chrome voice search enable](/articles/chrome-voice-search-enable)
+- [Chrome CORS Error Explained in Simple Terms](/articles/chrome-cors-error-explained-simple-terms)

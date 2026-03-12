@@ -154,3 +154,9 @@ The Omnibox continues to evolve as Google adds new features and improvements. Ke
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Budgeting: Best Web Tools](/articles/chrome-for-budgeting-best-web-tools)
+- [Chrome Takes Long Time to Open First Time](/articles/chrome-takes-long-time-to-open-first-time)
+- [Chrome IP Protection: How to Hide Your IP Address in Chrome](/articles/chrome-ip-protection-hide-ip-address)

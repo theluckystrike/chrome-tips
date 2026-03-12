@@ -92,3 +92,9 @@ The Chrome Android Reading List is a powerful but underused feature that can sig
 Give it a try with a few articles today. Once you get comfortable with how chrome android reading list how to use works, you will wonder how you ever browsed without it.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does)
+- [Chrome Extensions For Bookmark Manager](/articles//articles/chrome-extensions-for-bookmark-manager/)
+- [Why Is Chrome Slower Than Firefox?](/articles/why-is-chrome-slower-than-firefox)

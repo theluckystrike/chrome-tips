@@ -76,3 +76,9 @@ Also, remember that CORS errors are usually not your fault. They typically happe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Subgrid Layout Examples: A Complete Guide](/articles/chrome-subgrid-layout-examples)
+- [Chrome Web Store How to Find Safe Extensions](/articles/chrome-web-store-how-to-find-safe-extensions)
+- [chrome shortcuts in pwa how to define](/articles/chrome-shortcuts-in-pwa-how-to-define)

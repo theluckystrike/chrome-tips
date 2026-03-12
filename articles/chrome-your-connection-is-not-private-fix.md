@@ -71,3 +71,9 @@ Encountering the "Your connection is not private" error does not have to be frus
 Remember that Chrome shows this warning to protect you. By understanding the issue and following these steps, you can browse with confidence while keeping your personal information secure.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Auto Tab Closer](/articles/chrome-extensions-for-auto-tab-closer)
+- [chrome text only mode how to browse](/articles/chrome-text-only-mode-how-to-browse)
+- [Chrome Reset vs Reinstall: Which Is Better?](/articles/chrome-reset-vs-reinstall-which-is-better)

@@ -82,3 +82,9 @@ Remember that browser performance is not just about the browser itself. Your ove
 If you continue to experience persistent issues despite trying these recommendations, consider exploring alternative browsers that are specifically optimized for Linux, such as **Firefox** or **Brave**, which may offer better performance on your particular system. However, for most Linux users, Chrome with the right settings and practices provides an excellent browsing experience that meets everyday needs.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome high contrast mode how to enable](/articles/chrome-high-contrast-mode-how-to-enable)
+- [Chrome Push Notifications API Explained](/articles/chrome-push-notifications-api-explained)
+- [Chrome Extension Permissions Best Practices](/articles/chrome-extension-permissions-best-practices)

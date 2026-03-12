@@ -72,3 +72,9 @@ The beauty of these extensions is that they work quietly in the background, read
 Give yourself the gift of more time and less repetitive typing. Your fingers will thank you, and you will be able to focus on work that actually matters.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)](/articles/how-to-downgrade-chrome-to-older-version)
+- [Chrome Sync Phone and Computer How to Set Up](/articles/chrome-sync-phone-and-computer-how-to-set-up)
+- [Chrome JetStream Score What Is Good](/articles/chrome-jetstream-score-what-is-good)

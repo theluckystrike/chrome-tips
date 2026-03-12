@@ -64,3 +64,9 @@ Tab Suspender Pro can help with this by automatically suspending tabs you are no
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Extensions For Elderly Users Simple Tools](/articles//articles/chrome-extensions-for-elderly-users-simple-tools/)
+- [Chrome Mouse Scroll Not Working Fix](/articles/chrome-mouse-scroll-not-working-fix)
+- [Chrome Making Your Laptop Fan Loud? Here's How to Fix It](/articles/chrome-making-laptop-fan-loud)

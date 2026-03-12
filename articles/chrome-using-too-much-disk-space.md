@@ -71,3 +71,9 @@ Chrome using too much disk space does not have to be a permanent problem. By und
 Start with the simplest solutions like clearing your cache and removing unused extensions, then build more comprehensive habits over time. Your computer's storage capacity will thank you.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Reddit Users](/articles/best-chrome-extensions-for-reddit-users)
+- [Chrome Extensions for Meta Tag Analyzer](/articles/chrome-extensions-for-meta-tag-analyzer)
+- [How to Fix Chrome Downloads Stuck at 100 Percent](/articles/chrome-downloads-stuck-at-100-percent)

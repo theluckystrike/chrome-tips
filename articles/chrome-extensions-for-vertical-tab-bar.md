@@ -79,3 +79,9 @@ Most extensions will import your existing tabs automatically, so you do not need
 You might find that you prefer having your vertical tab bar on the left side, or you might move it to the right. You can adjust the width, choose which information is displayed for each tab, and set up keyboard shortcuts for faster navigation. Small adjustments like these can make a big difference in how comfortable your setup feels.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Accessibility Features Guide: Everything You Need to Know](/articles/chrome-accessibility-features-guide)
+- [Chrome Multiple Profiles How to Switch Quickly](/articles/chrome-multiple-profiles-how-to-switch-quickly)
+- [Chrome Privacy Error Your Connection Is Not Private Fix](/articles/chrome-privacy-error-your-connection-is-not-private-fix)

@@ -73,3 +73,9 @@ Chrome tab hibernate functionality provides an effective solution for managing b
 By understanding how these features work and incorporating them into your daily workflow, you can enjoy the best of both worlds: all your tabs available when you need them, with the performance you deserve when you are working on other tasks. Give tab hibernate a try and discover how much smoother your browsing can be.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome How to Clear DNS Cache](/articles/chrome-how-to-clear-dns-cache)
+- [How to Fix Chrome ERR_CONNECTION_REFUSED on Localhost](/articles/chrome-err-connection-refused-localhost-fix)
+- [Chrome Open Source Parts Explained](/articles/chrome-open-source-parts-explained)

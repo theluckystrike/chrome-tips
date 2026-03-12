@@ -97,3 +97,9 @@ Remember, you always have the option to allow notifications from specific sites 
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+
+- [Chrome Starting Style CSS Explained](/articles/chrome-starting-style-css-explained)
+- [Chrome Extensions For Color Accessibility Checker](/articles//articles/chrome-extensions-for-color-accessibility-checker/)
+- [Best Chrome Extensions for Online Shopping](/articles/chrome-extensions-for-online-shopping)

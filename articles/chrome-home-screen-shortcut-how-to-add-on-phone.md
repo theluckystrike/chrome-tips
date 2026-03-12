@@ -76,3 +76,9 @@ Creating website shortcuts is one of the simplest ways to customize your phone e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chromebook touchscreen not working fix](/articles/chromebook-touchscreen-not-working-fix)
+- [Chrome Extensions for Spotify Web Player Enhancement](/articles/chrome-extensions-for-spotify-web-player-enhancement)
+- [chrome global privacy control what it does](/articles/chrome-global-privacy-control-what-it-does)

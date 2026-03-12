@@ -72,3 +72,9 @@ The key is to start with the simple settings first, then build better habits aro
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome text only mode how to browse](/articles/chrome-text-only-mode-how-to-browse)
+- [chrome high contrast mode how to enable](/articles/chrome-high-contrast-mode-how-to-enable)
+- [Chrome Custom Search Engines Guide](/articles/chrome-search-engines-custom)

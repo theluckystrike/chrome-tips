@@ -114,3 +114,9 @@ If the memory stays stable in incognito mode, one of your extensions is likely c
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Lazy Loading Images How It Works](/articles/chrome-lazy-loading-images-how-it-works)
+- [Best Chrome Extensions for Podcasters](/articles/best-chrome-extensions-for-podcasters)
+- [Chrome DevTools Emulate Vision Deficiencies](/articles/chrome-devtools-emulate-vision-deficiencies)

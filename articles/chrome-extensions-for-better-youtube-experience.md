@@ -70,3 +70,9 @@ The beauty of Chrome extensions is that you can mix and match different tools to
 Remember that fewer, well-chosen extensions will serve you better than installing dozens that you rarely use. Take some time to configure each extension to your preferences, and enjoy the transformed YouTube experience that awaits you.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome first party vs third party cookies](/articles/chrome-first-party-vs-third-party-cookies)
+- [Chrome for Canvas LMS Best Extensions](/articles/chrome-for-canvas-lms-best-extensions)
+- [chrome prefetch dns how to enable](/articles/chrome-prefetch-dns-how-to-enable)

@@ -74,3 +74,9 @@ Viewing page source in Chrome is a straightforward process that anyone can do. W
 The next time you wonder what is going on behind the scenes of a webpage, remember these simple methods and take a look for yourself. You might be surprised at how much you can learn just by spending a few minutes exploring the code.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Text to Speech on Any Page](/articles/chrome-for-text-to-speech-on-any-page)
+- [Chrome Extension for Blocking Cookie Popups](/articles/chrome-extension-for-blocking-cookie-popups)
+- [How to Limit Chrome RAM Usage on Windows](/articles/how-to-limit-chrome-ram-usage-windows)

@@ -85,3 +85,9 @@ Remember that Tab Suspender Pro and similar tools combine dark mode functionalit
 Experiment with these options to find the combination that works best for your browsing habits. Once you establish your preferred setup, you will enjoy consistent dark mode across the entire web, reducing eye strain and creating a more comfortable browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome AI Search Suggestions Explained](/articles/chrome-ai-search-suggestions-explained)
+- [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained)
+- [How to Limit Chrome RAM Usage on Windows](/articles/how-to-limit-chrome-ram-usage-windows)

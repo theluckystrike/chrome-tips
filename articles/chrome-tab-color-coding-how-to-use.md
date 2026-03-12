@@ -65,3 +65,9 @@ This kind of organization becomes even more valuable as you accumulate more tabs
 Give it a try. Spend a few minutes setting up tab groups with colors that make sense to you. You might be surprised at how much easier it is to get things done when your browser is organized the way you want it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Iterator Helpers Explained](/articles/chrome-iterator-helpers-explained)
+- [Chrome Data Usage On Phone How To Reduce](/articles//chrome-data-usage-on-phone-how-to-reduce/)
+- [Chrome Ad Personalization How To Turn Off](/articles/chrome-ad-personalization-how-to-turn-off)

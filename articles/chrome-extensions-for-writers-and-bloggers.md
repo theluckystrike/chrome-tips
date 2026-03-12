@@ -80,3 +80,9 @@ If distractions are your main problem, StayFocusd and Momentum are good starting
 Once you find the right combination of extensions, you will notice a significant improvement in your ability to focus, organize, and produce quality content. Small improvements in your daily workflow add up to big gains in productivity over time.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Set Up Chrome Profiles for Work and Personal](/articles/how-to-set-up-chrome-profiles-for-work-and-personal)
+- [Chrome Extensions Permissions Explained Simply](/articles/chrome-extensions-permissions-explained-simply)
+- [Why Is Chrome Using So Much Memory](/articles/why-is-chrome-using-so-much-memory)

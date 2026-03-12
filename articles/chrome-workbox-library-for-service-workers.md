@@ -63,3 +63,9 @@ Workbox represents a shift in how developers think about web performance and use
 By handling the complexity of service workers, Workbox lets developers focus on creating great websites and extensions. The library does the heavy lifting so you can spend more time on features that matter to your users and less time debugging caching issues.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Devtools Snippets How to Use](/articles/chrome-devtools-snippets-how-to-use)
+- [Chrome Notifications on Phone Too Many How to Stop](/articles/chrome-notifications-on-phone-too-many-how-to-stop)
+- [chrome kiosk mode how to set up](/articles/chrome-kiosk-mode-how-to-set-up)

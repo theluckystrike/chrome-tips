@@ -60,3 +60,9 @@ If you read a lot of online content and want to save time, a speed reading exten
 Give yourself time to adjust to the experience. Like any new skill, speed reading takes practice. Start slow, be patient, and you may find that you can read faster than ever before while still enjoying the content.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Flags to Enable for Speed](/articles/chrome-flags-to-enable-for-speed)
+- [Chrome Extensions for Website Monitoring Changes](/articles/chrome-extensions-for-website-monitoring-changes)
+- [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching)

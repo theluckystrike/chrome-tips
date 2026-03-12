@@ -74,3 +74,9 @@ While these built-in shortcuts cover most everyday needs, Chrome users who want 
 The extension handles everything in the background, so you do not need to manually manage which tabs should be active. You can customize how long to wait before suspending tabs and which sites should never be suspended. This automation takes the burden off remembering to close unused tabs while still keeping them available for quick access.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead)
+- [Best Browser for Old MacBook 2026](/articles/best-browser-for-old-macbook-2026)
+- [Chrome for Google Meet Camera Settings](/articles/chrome-for-google-meet-camera-settings)

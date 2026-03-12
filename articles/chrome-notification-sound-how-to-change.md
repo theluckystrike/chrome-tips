@@ -49,3 +49,9 @@ The key to dealing with Chrome notification sounds is understanding where each t
 Taking a few minutes to clean up your notification permissions can make a big difference in your daily browsing experience. Review which sites have permission to send you notifications, remove those you no longer need, and adjust your system sound settings if you want a different alert tone. These small changes can help you stay focused and avoid the distraction of unwanted sounds.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Time to First Byte Explained](/articles/chrome-time-to-first-byte-explained)
+- [Chrome vs Samsung Internet for Android](/articles/chrome-vs-samsung-internet-for-android)
+- [chrome for custom new tab page extensions](/articles/chrome-for-custom-new-tab-page-extensions)

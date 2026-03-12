@@ -100,3 +100,9 @@ Extensions like this work alongside your installed apps to make your Chromebook 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Minimum Font Size Setting Where to Find It](/articles//chrome-minimum-font-size-setting-where/)
+- [Chrome Zoom Level How to Set Default](/articles/chrome-zoom-level-how-to-set-default)
+- [Best Chrome Extensions for Reddit Users](/articles/best-chrome-extensions-for-reddit-users)

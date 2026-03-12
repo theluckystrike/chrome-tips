@@ -51,3 +51,9 @@ The right combination of extensions can genuinely improve your Google Sheets exp
 Take some time to think about where you are spending the most effort. Is it finding the right tab? Waiting for your browser to respond? Manually moving data between sheets? Identifying your biggest frustration will help you choose the extension that will make the most difference.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions For Email Finder](/articles//articles/chrome-extensions-for-email-finder/)
+- [Chrome Autofill Suggestions How to Delete One](/articles/chrome-autofill-suggestions-how-to-delete-one)
+- [Chrome Web Share API Explained](/articles/chrome-web-share-api-explained)

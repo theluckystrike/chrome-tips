@@ -300,3 +300,9 @@ Remember that snippets are persistent, portable, and powerful. Your collection o
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome YouTube Keyboard Shortcuts](/articles/chrome-youtube-keyboard-shortcuts)
+- [Chrome Process Per Tab Why and How to Change](/articles/chrome-process-per-tab-why-and-how-to-change)
+- [Chrome Default Search Engine Changed How to Fix](/articles//chrome-default-search-engine-changed-how-to-fix/)

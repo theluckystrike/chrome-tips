@@ -50,3 +50,9 @@ It is also a good habit to save your sessions regularly, especially before closi
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Migrate Chrome Data to a New Computer](/articles/how-to-migrate-chrome-data-to-new-computer)
+- [Chrome for Travel Planning: Best Extensions](/articles/chrome-for-travel-planning-best-extensions)
+- [Chrome Scroll-Driven Animations: Complete Guide for 2026](/articles/chrome-scroll-driven-animations)

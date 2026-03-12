@@ -200,3 +200,9 @@ For long-term improvement, **Tab Suspender Pro** remains one of the best investm
 With these fixes, you should notice a significant improvement in Notion's responsiveness—especially on computers with limited resources.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Lagging on Android Phone Fix](/articles/chrome-lagging-on-android-phone-fix)
+- [Chrome Extensions for WebRTC Leak Prevention](/articles/chrome-extensions-for-webrtc-leak-prevention)
+- [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api)

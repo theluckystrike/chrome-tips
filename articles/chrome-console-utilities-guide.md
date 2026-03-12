@@ -106,3 +106,9 @@ Chrome DevTools console utilities are indispensable for any web developer or QA 
 These tools require no setup, work across any website, and can be used immediately in the console. Take time to experiment with each utility in your next debugging session, and you will find yourself reaching for them increasingly often. The Chrome console is not just for logging messages; it is a comprehensive development environment that can streamline your workflow and make complex debugging tasks manageable.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome AI Powered Search Suggestions](/articles/chrome-ai-powered-search-suggestions)
+- [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android)
+- [chrome extensions for screen recording free](/articles/chrome-extensions-for-screen-recording-free)

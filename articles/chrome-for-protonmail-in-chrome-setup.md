@@ -81,3 +81,9 @@ When composing sensitive messages, take advantage of ProtonMail's encryption fea
 Remember to log out of ProtonMail when using shared or public computers. Chrome can remember your login, but for sensitive accounts, logging out provides an extra layer of protection against unauthorized access.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature)
+- [Chrome Extensions for Gantt Chart](/articles/chrome-extensions-for-gantt-chart)
+- [Chrome Total Blocking Time Explained](/articles/chrome-total-blocking-time-explained)

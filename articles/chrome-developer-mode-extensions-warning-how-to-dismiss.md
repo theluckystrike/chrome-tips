@@ -67,3 +67,9 @@ The developer mode warning, while annoying, is ultimately there to help you make
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Hidden Chrome Extensions You Should Install](/articles/hidden-chrome-extensions-you-should-install)
+- [Best Chrome Extensions for Real Estate Agents](/articles/best-chrome-extensions-for-real-estate-agents)
+- [Chrome Extension for Translating Selected Text](/articles/chrome-extension-for-translating-selected-text)

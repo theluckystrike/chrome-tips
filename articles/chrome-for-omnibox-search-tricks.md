@@ -84,3 +84,9 @@ Tab Suspender Pro automatically pauses tabs you are not using, which saves memor
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Speed Up Chrome on 2GB RAM Laptop](/articles/how-to-speed-up-chrome-on-2gb-ram-laptop)
+- [Chrome requestanimationframe Explained: What It Means for Your Browser](/articles/chrome-requestanimationframe-explained)
+- [Chrome OS vs Windows for Everyday Use](/articles/chrome-os-vs-windows-for-everyday-use)

@@ -59,3 +59,9 @@ While Tab Suspender Pro does not directly control virtual keyboard behavior, it 
 Using tools like this, along with keeping your browser updated, can help you get the most out of the improvements that features like the virtual keyboard API bring to your web browsing on tablets and other touchscreen devices.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Periodic Background Sync Explained](/articles/chrome-periodic-background-sync-explained)
+- [Chrome Restore Tabs Not Working After Update: Practical Fixes](/articles/chrome-restore-tabs-not-working-after-update)
+- [chrome google photos integration tips](/articles/chrome-google-photos-integration-tips)

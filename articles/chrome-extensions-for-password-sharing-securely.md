@@ -58,3 +58,9 @@ Take some time to explore the settings and features. Understanding how access re
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Side Panel Features Guide](/articles/chrome-side-panel-features-guide)
+- [Chrome Opens in Small Window Fix](/articles/chrome-opens-in-small-window-fix)
+- [How to Use Chrome Profiles Properly — The Complete Guide](/articles/how-to-use-chrome-profiles-properly)

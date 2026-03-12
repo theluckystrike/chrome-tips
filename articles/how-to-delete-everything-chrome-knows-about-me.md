@@ -76,3 +76,9 @@ For ongoing privacy, consider making a habit of clearing your data regularly or 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.*
+
+## Related Articles
+
+- [Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover Placement](/articles/chrome-anchor-positioning-css)
+- [Chrome Default Apps Settings: A Complete Guide](/articles//chrome-default-apps-settings/)
+- [chrome mobile save page offline how to](/articles/chrome-mobile-save-page-offline-how-to)

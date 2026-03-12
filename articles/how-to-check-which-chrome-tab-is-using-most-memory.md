@@ -58,3 +58,9 @@ Check your extensions periodically to make sure you only have ones you actually 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Find Which Extension is Slowing Chrome](/articles/how-to-find-which-extension-is-slowing-chrome)
+- [Chrome for Tab Organization Workflow](/articles/chrome-for-tab-organization-workflow)
+- [Chrome Address Bar Shortcuts You Should Know](/articles/chrome-address-bar-shortcuts-you-should-know)

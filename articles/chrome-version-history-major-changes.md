@@ -76,3 +76,9 @@ Staying aware of major changes, keeping your extensions updated, and using tools
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Website Dark Mode Forced](/articles/chrome-extensions-for-website-dark-mode-forced)
+- [Chrome Layer CSS Cascade Layers Explained](/articles/chrome-layer-css-cascade-layers-explained)
+- [Best Chrome Extensions for Students 2026](/articles/chrome-extensions-for-students)

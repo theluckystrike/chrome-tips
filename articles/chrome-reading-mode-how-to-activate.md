@@ -79,3 +79,9 @@ Try using Reading Mode whenever you plan to read through an article carefully. I
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Remove Unwanted Toolbars in Chrome: Complete Guide](/articles/chrome-unwanted-toolbar-remove-guide)
+- [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching)
+- [Chrome for Stock Market Tracking Extensions](/articles/chrome-for-stock-market-tracking-extensions)

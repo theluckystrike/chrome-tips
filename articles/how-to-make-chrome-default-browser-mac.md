@@ -70,3 +70,9 @@ Setting Chrome as your default browser is a small change that can significantly 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions For Code Snippet Manager](/articles//articles/chrome-extensions-for-code-snippet-manager/)
+- [Chrome Extensions for Hotel Deal Finder](/articles/chrome-extensions-for-hotel-deal-finder)
+- [Chrome vs Vivaldi for Power Users](/articles/chrome-vs-vivaldi-for-power-users)

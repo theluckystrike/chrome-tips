@@ -102,3 +102,9 @@ Reinstalling Chrome removes all browser data, so everything will be fresh after 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Best Extensions for Parental Control](/articles/chrome-best-extensions-for-parental-control)
+- [Best Chrome Extensions for Sales Teams](/articles/best-chrome-extensions-for-sales-teams)
+- [Chrome Text Size on Phone How to Change](/articles/chrome-text-size-on-phone-how-to-change)

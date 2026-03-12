@@ -81,3 +81,9 @@ When a website asks for notification permission, take a quick moment to decide w
 By following these practices and checking in on your settings regularly, you can enjoy the useful notifications while keeping the annoying ones at bay. Your browser should work for you, not against you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup)
+- [chrome for google flights tips and tricks](/articles/chrome-for-google-flights-tips-and-tricks)
+- [how to use chrome password checkup feature](/articles/how-to-use-chrome-password-checkup-feature)

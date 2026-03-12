@@ -87,3 +87,9 @@ The key to getting the most from this setup is to be intentional about what you 
 With a little practice, this workflow becomes second nature. You will find yourself building a valuable collection of knowledge that you can reference and learn from for years to come.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for tiktok web best settings](/articles/chrome-for-tiktok-web-best-settings)
+- [Chrome Mouse Scroll Not Working Fix](/articles/chrome-mouse-scroll-not-working-fix)
+- [Chrome for Quizlet Web App Best Settings](/articles/chrome-for-quizlet-web-app-best-settings)

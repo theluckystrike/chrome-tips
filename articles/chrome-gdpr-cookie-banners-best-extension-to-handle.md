@@ -56,3 +56,9 @@ Browser updates often include new privacy features, so keep Chrome updated to ta
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Image Downloader Bulk](/articles/chrome-extensions-for-image-downloader-bulk)
+- [Chrome for Lofi Music Extensions](/articles/chrome-for-lofi-music-extensions)
+- [Chrome Extensions For Bookmark Manager](/articles//articles/chrome-extensions-for-bookmark-manager/)

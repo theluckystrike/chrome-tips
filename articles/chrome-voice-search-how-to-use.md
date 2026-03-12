@@ -78,3 +78,9 @@ When you use voice search, Google processes your audio to understand what you're
 Voice search is a powerful, underutilized tool that can change how you interact with the web. By following these steps, you can save time and enjoy a more modern, hands-free browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome color mix function css](/articles/chrome-color-mix-function-css)
+- [Chrome MotionMark Graphics Benchmark](/articles/chrome-motionmark-graphics-benchmark)
+- [how to make chrome default browser windows 11](/articles/how-to-make-chrome-default-browser-windows-11)

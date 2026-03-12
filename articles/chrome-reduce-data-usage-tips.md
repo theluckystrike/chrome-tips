@@ -83,3 +83,9 @@ Checking these stats occasionally helps you understand the impact of the changes
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome DevTools Rendering Tab Explained](/articles/chrome-devtools-rendering-tab-explained)
+- [Chrome Window Too Small Cant Resize Fix](/articles/chrome-window-too-small-cant-resize-fix)
+- [Best Chrome Extensions For Lawyers](/articles/best-chrome-extensions-for-lawyers)

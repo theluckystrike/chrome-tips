@@ -60,3 +60,9 @@ A MacBook is worth the investment if you can afford it, your field of study requ
 Either way, take some time to think about your actual needs rather than just going with what seems popular. Talk to upperclassmen in your intended major about what equipment they use. Check with your college about any required software. The best laptop for college is the one that fits your specific situation and helps you succeed in your studies.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Tab Freezing What It Means](/articles/chrome-tab-freezing-what-it-means)
+- [Chrome for Removing YouTube Recommendations](/articles/chrome-for-removing-youtube-recommendations)
+- [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization)

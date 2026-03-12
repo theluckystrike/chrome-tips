@@ -85,3 +85,9 @@ Consider using a combination of the methods described above. For example, you mi
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Hardware Acceleration Should I Turn On or Off](/articles/chrome-hardware-acceleration-should-i-turn-on-or-off)
+- [Chrome for Google Sheets Tips and Tricks](/articles/chrome-for-google-sheets-tips-and-tricks)
+- [Chrome for Runway ML Web App](/articles/chrome-for-runway-ml-web-app)

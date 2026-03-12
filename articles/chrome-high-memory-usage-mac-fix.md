@@ -80,3 +80,9 @@ These small changes can make a big difference in how your Mac performs. Chrome i
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Text to Speech Extension Best](/articles/chrome-text-to-speech-extension-best)
+- [Chrome Restore Tabs Not Working After Update: Practical Fixes](/articles/chrome-restore-tabs-not-working-after-update)
+- [How to Make Chrome Kid-Friendly](/articles/how-to-make-chrome-kid-friendly)

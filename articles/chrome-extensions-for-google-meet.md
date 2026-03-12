@@ -70,3 +70,9 @@ The best approach is to start with one or two extensions and add more as you nee
 Remember that extensions are helpers, not replacements for good meeting habits. Come prepared with whatever materials you need, stay engaged throughout the call, and follow up promptly with any action items. The right chrome extensions for google meet simply make it easier to do these things well.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Check If Chrome Is Up to Date](/articles/how-to-check-if-chrome-is-up-to-date)
+- [Chrome for edX Web App Best Settings](/articles/chrome-for-edx-web-app-best-settings)
+- [chrome for distraction free reading mode](/articles/chrome-for-distraction-free-reading-mode)

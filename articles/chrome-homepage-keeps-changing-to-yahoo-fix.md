@@ -56,3 +56,9 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome for Costco Web Shopping Tips](/articles/chrome-for-costco-web-shopping-tips)
+- [Chrome for Address Bar Shortcuts Tips](/articles/chrome-for-address-bar-shortcuts-tips)
+- [How to Fix Chrome ERR_NAME_NOT_RESOLVED Error](/articles/chrome-err-name-not-resolved-fix)

@@ -119,3 +119,9 @@ The key insight is that Chrome makes your old laptop unusable primarily because 
 Give these solutions a try. Start with the easiest ones first, and you should notice a significant improvement in your laptop's responsiveness. Your older machine still has life in it you just need to give Chrome a helping hand in managing its resources wisely.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Devtools Media Queries Debugger](/articles/chrome-devtools-media-queries-debugger)
+- [Chrome Invalid Certificate How to Fix Permanently](/articles/chrome-invalid-certificate-how-to-fix-permanently)
+- [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track)

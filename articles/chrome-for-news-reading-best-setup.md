@@ -97,3 +97,9 @@ Newer versions of Chrome include performance improvements and security fixes tha
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Toolbar Missing Fix](/articles/chrome-toolbar-missing-fix)
+- [Chrome Extensions for Regex Tester](/articles/chrome-extensions-for-regex-tester)
+- [Chrome Iterator Helpers Explained](/articles/chrome-iterator-helpers-explained)

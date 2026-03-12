@@ -92,3 +92,9 @@ Take a few minutes to adjust your settings, and you will likely see an immediate
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension)
+- [Chrome GPU Acceleration Causing Problems Fix](/articles/chrome-gpu-acceleration-causing-problems-fix)
+- [Chrome Password Autofill Stopped Working: Fix It Now](/articles/chrome-password-autofill-stopped-working)

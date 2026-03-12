@@ -68,3 +68,9 @@ Your digital workspace should support your goals, and adding the right music ext
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Canvas LMS Best Extensions](/articles/chrome-for-canvas-lms-best-extensions)
+- [Chrome Memory Saver Mode How to Use](/articles/chrome-memory-saver-mode-how-to-use)
+- [Chrome Extension for Email Tracking Notification](/articles/chrome-extension-for-email-tracking-notification)

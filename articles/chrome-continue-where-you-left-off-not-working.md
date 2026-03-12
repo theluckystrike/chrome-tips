@@ -88,3 +88,9 @@ Chrome continue where you left off not working is frustrating, but it is usually
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Lite Mode Replacement 2026](/articles/chrome-lite-mode-replacement-2026)
+- [Chrome Flags That Actually Make It Faster: A Practical Guide for Slow Computers](/articles/chrome-flags-that-actually-make-it-faster)
+- [chrome for mouse gestures extensions](/articles/chrome-for-mouse-gestures-extensions)

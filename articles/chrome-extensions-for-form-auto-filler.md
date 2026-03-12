@@ -60,3 +60,9 @@ Give yourself a few days to adjust to using the extension. At first, you might s
 While we are discussing browser extensions that make your life easier, it is worth mentioning other tools that can improve your Chrome experience. For example, Tab Suspender Pro helps manage your open tabs more efficiently, which can speed up your browser and reduce memory usage. The team behind Tab Suspender Pro also creates the Zovo extension suite at zovo.one, offering various tools designed to enhance your browsing productivity.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome how to add trusted sites](/articles/chrome-how-to-add-trusted-sites)
+- [Chrome Extensions for Site Permissions Manager](/articles/chrome-extensions-for-site-permissions-manager)
+- [Chrome Local Storage How to Clear for One Site](/articles/chrome-local-storage-how-to-clear-for-one-site)

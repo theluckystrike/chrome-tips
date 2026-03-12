@@ -64,3 +64,9 @@ Once you have fixed the cookie issue, remember to periodically check your Chrome
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [chrome circle to search on desktop](/articles/chrome-circle-to-search-on-desktop)
+- [Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps](/articles/chrome-slow-on-4gb-ram-laptop)
+- [Chrome for Gaming: How to Reduce Input Lag](/articles/chrome-for-gaming-reduce-input-lag)

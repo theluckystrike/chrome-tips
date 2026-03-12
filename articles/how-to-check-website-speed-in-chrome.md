@@ -68,3 +68,9 @@ Finally, consider your internet connection. If you are on a slow connection, web
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Zoom in Browser Best Settings](/articles/chrome-for-zoom-in-browser-best-settings)
+- [chrome reduce data usage on mobile](/articles/chrome-reduce-data-usage-on-mobile)
+- [chrome mutation observer api explained](/articles/chrome-mutation-observer-api-explained)

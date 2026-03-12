@@ -79,3 +79,9 @@ Remember that passkeys are optional, and you can always fall back to your passwo
 The shift to passkeys is still in its early stages, but it represents a significant step forward in making our online lives more secure while also more convenient. By understanding how passkeys work, you can make informed decisions about when and how to use them.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [how to use chrome password checkup feature](/articles/how-to-use-chrome-password-checkup-feature)
+- [Chrome Reading Mode AI Summary Feature](/articles/chrome-reading-mode-ai-summary-feature)
+- [Chrome Update Failed Error 7 Fix](/articles/chrome-update-failed-error-7-fix)

@@ -77,3 +77,9 @@ By using **Tab Suspender Pro**, you ensure that background tabs aren't competing
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome for Calendar Management Extensions](/articles/chrome-for-calendar-management-extensions)
+- [Chrome Popover API Explained](/articles/chrome-popover-api-explained)
+- [Chrome Reset Flags to Default How To](/articles/chrome-reset-flags-to-default-how-to)

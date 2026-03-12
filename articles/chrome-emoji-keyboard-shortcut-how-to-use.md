@@ -73,3 +73,9 @@ Remember that the Windows method involves pressing Windows and period, while Mac
 With these tools at your disposal, adding personality and expression to your online communication is only a few keystrokes away.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Live Caption How It Works](/articles/chrome-live-caption-how-it-works)
+- [Chrome Web Store How to Find Safe Extensions](/articles/chrome-web-store-how-to-find-safe-extensions)
+- [Chrome Site Permissions How to Manage](/articles/chrome-site-permissions-how-to-manage)

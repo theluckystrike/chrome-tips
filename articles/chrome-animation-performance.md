@@ -144,3 +144,9 @@ Remember that optimization is a process. Start with the fundamentals, measure yo
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions)
+- [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)
+- [chrome for codesandbox optimization](/articles/chrome-for-codesandbox-optimization)

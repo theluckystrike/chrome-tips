@@ -66,3 +66,9 @@ You might also want to periodically review your open tabs and close any that you
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [how to enable cookies in chrome](/articles/how-to-enable-cookies-in-chrome)
+- [Chrome Layers Panel Guide](/articles/chrome-layers-panel-guide)
+- [Chrome Related Website Sets Explained](/articles/chrome-related-website-sets-explained)

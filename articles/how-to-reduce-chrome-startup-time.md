@@ -78,3 +78,9 @@ If you want to reduce Chrome startup time, start by disabling unnecessary extens
 With these simple steps, you can enjoy a faster Chrome startup and a better browsing experience overall.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Web OTP API Explained](/articles/chrome-web-otp-api-explained)
+- [Chrome Extensions For Blocking Distracting Websites](/articles//articles/chrome-extensions-for-blocking-distracting-websites/)
+- [Chrome Tabs Flickering and Glitching Fix](/articles/chrome-tabs-flickering-and-glitching)

@@ -87,3 +87,9 @@ Also, periodically clear your browser cache and cookies to prevent data buildup 
 
 >>>>>>> qa/loop-5
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for SSL Certificate Checker](/articles/chrome-extensions-for-ssl-certificate-checker)
+- [Chrome for Reducing Eye Strain Extensions](/articles/chrome-for-reducing-eye-strain-extensions)
+- [Chrome Continue Where You Left Off Not Working](/articles/chrome-continue-where-you-left-off-not-working)

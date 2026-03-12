@@ -114,3 +114,8 @@ In 2026, passkey support has reached the point where most users can realisticall
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+
+- [chrome extensions for screen dimmer](/articles/chrome-extensions-for-screen-dimmer)
+- [Chrome for FreeCodeCamp Best Extensions](/articles/chrome-for-freecodecamp-best-extensions)
+- [Chrome Extensions For Color Accessibility Checker](/articles//articles/chrome-extensions-for-color-accessibility-checker/)

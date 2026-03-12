@@ -72,3 +72,9 @@ This adaptation presents challenges but also opportunities. Companies that embra
 For browser users, these developments mean a more private browsing experience without sacrificing the content and services that ad-supported websites provide. The balance between useful advertising and user privacy is always evolving, and APIs like Shared Storage represent important steps toward finding that equilibrium.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Academic Paper Reading Extensions](/articles/chrome-for-academic-paper-reading-extensions)
+- [Chrome View Source Shortcut](/articles/chrome-view-source-shortcut)
+- [chrome default browser how to set windows mac](/articles//chrome-default-browser-how-to-set-windows-mac/)

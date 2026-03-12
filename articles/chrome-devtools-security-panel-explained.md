@@ -73,3 +73,9 @@ Pay attention to what the panel tells you. Most reputable websites will show sec
 The Security panel is one of those tools that is easy to overlook but incredibly useful once you understand it. It gives you transparency into something that happens behind the scenes when you browse the web, and that transparency helps you stay safer online.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Not Responding Force Close and Recover](/articles/chrome-not-responding-force-close-and-recover)
+- [Chrome Extensions for Language Learning](/articles/chrome-extensions-for-language-learning)
+- [How to Clear Cookies for One Site in Chrome](/articles/how-to-clear-cookies-for-one-site-in-chrome)

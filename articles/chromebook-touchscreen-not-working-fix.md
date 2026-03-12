@@ -80,3 +80,9 @@ Remember that touchscreen issues are common and often fixable. Do not give up ho
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome extensions for privacy badger alternative](/articles/chrome-extensions-for-privacy-badger-alternative)
+- [Chrome for Proxy Settings How to Configure](/articles/chrome-for-proxy-settings-how-to-configure)
+- [How to Clear Cookies for One Site in Chrome](/articles/how-to-clear-cookies-for-one-site-in-chrome)

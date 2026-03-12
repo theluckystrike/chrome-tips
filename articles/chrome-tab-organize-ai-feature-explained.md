@@ -74,3 +74,9 @@ If you frequently find yourself overwhelmed by too many open tabs, it is worth t
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Freezing on Chromebook During Zoom? Try These Fixes](/articles/chrome-freezing-on-chromebook-during-zoom)
+- [How to Share Chrome Tabs in Video Calls](/articles/how-to-share-chrome-tabs-in-video-calls)
+- [Chrome CDP Protocol Explained Simply](/articles/chrome-cdp-protocol-explained-simply)

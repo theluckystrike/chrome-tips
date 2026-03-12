@@ -66,3 +66,9 @@ Understanding how your browser handles your data is the first step toward taking
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [how to enable chrome enhanced safe browsing](/articles/how-to-enable-chrome-enhanced-safe-browsing)
+- [Chrome Extensions for Auto Tab Closer](/articles/chrome-extensions-for-auto-tab-closer)
+- [chrome for metamask setup and tips](/articles/chrome-for-metamask-setup-and-tips)

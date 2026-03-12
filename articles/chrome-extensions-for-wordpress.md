@@ -70,3 +70,9 @@ Remember that less is often more when it comes to browser extensions. Having too
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Startup Time How to Measure](/articles/chrome-startup-time-how-to-measure)
+- [How to Fix Chrome Search Bar Not Working](/articles/chrome-search-bar-not-working-fix)
+- [Chrome CSS Grid Debugging Guide](/articles//chrome-css-grid-debugging/)

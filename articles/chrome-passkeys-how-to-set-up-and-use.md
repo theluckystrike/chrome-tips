@@ -71,3 +71,9 @@ If you use multiple browsers, remember that passkeys created in Chrome will not 
 Extensions like **Tab Suspender Pro** can help you manage your browser tabs more efficiently while you explore passkeys and other Chrome features. This kind of extension helps keep your browser running smoothly so you can enjoy all the benefits of modern web features without slowdown.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Math Symbols How to Type](/articles/chrome-math-symbols-how-to-type)
+- [Chrome Sandboxing How It Protects You](/articles/chrome-sandboxing-how-it-protects-you)
+- [Chrome Shape Detection API Face Detection](/articles/chrome-shape-detection-api-face-detection)

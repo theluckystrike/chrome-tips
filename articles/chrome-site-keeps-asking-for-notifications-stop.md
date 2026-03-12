@@ -120,3 +120,9 @@ Try the solution that fits your situation, and enjoy a less interrupted browsing
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Stop Chrome from Redirecting to HTTPS](/articles/how-to-stop-chrome-from-redirecting-to-https)
+- [Chrome Web USB API Explained](/articles/chrome-web-usb-api-explained)
+- [Chrome User Agent String: What It Is and How It Works](/articles/chrome-user-agent-string-what-it-is)

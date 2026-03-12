@@ -68,3 +68,9 @@ Take some time to try a few different extensions and see which interface works b
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Homework Help Best Extensions](/articles/chrome-for-homework-help-best-extensions)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/articles/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Privacy Error Your Connection Is Not Private Fix](/articles/chrome-privacy-error-your-connection-is-not-private-fix)

@@ -75,3 +75,9 @@ Either way, remember that you can improve your experience by managing your tabs 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Site Settings Permissions Explained](/articles/chrome-site-settings-permissions-explained)
+- [Chrome Camera Not Working Fix](/articles/chrome-camera-not-working-fix)
+- [How to Set Homepage on Chrome](/articles/how-to-set-homepage-on-chrome)

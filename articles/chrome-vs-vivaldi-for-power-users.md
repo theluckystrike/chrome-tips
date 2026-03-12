@@ -65,3 +65,9 @@ Consider trying each browser for a week to see which one feels more natural for 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Default Download Location How to Set](/articles//chrome-default-download-location-how-to-set/)
+- [Chrome Extensions for Weather Forecast](/articles/chrome-extensions-for-weather-forecast)
+- [Chrome Web Codec API Video Processing](/articles/chrome-web-codec-api-video-processing)

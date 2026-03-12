@@ -54,3 +54,9 @@ Using **Tab Suspender Pro** is a highly effective way to mitigate this. It autom
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Education Account What It Includes](/articles/chrome-education-account-what-it-includes)
+- [Chrome Geolocation Override How to Test](/articles/chrome-geolocation-override-how-to-test)
+- [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension)

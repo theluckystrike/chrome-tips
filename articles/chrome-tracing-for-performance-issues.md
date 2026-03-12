@@ -79,3 +79,9 @@ If you use many extensions, tracing can reveal which ones are consuming resource
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Coupon Finding Best Extensions](/articles/chrome-for-coupon-finding-best-extensions)
+- [Chrome Takes Long Time to Open First Time](/articles/chrome-takes-long-time-to-open-first-time)
+- [Chrome Private Aggregation API Explained](/articles/chrome-private-aggregation-api-explained)

@@ -88,3 +88,9 @@ If you believe a website is misusing a permission you granted, consider clearing
 Keeping your Android operating system and Chrome app updated is also important, as updates often include security patches and improved privacy controls.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Productivity Dashboard New Tab](/articles/chrome-for-productivity-dashboard-new-tab)
+- [chrome high contrast mode how to enable](/articles/chrome-high-contrast-mode-how-to-enable)
+- [How to Allow Pop Ups on One Site Chrome](/articles/how-to-allow-pop-ups-on-one-site-chrome)

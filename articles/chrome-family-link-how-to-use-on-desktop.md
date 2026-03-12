@@ -94,3 +94,9 @@ Finally, lead by example. Show your children how you use technology responsibly 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Eating All My RAM? Reddit Users Share Their Solutions](/articles/chrome-eating-all-my-ram-reddit-solutions)
+- [Best Chrome Extensions for Project Managers](/articles/best-chrome-extensions-for-project-managers)
+- [Chrome Open Source Parts Explained](/articles/chrome-open-source-parts-explained)

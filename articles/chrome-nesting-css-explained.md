@@ -53,3 +53,9 @@ While CSS nesting is primarily a developer concern, managing browser performance
 Keeping your browser organized and your extensions minimal also contributes to smoother browsing. Too many extensions running simultaneously can consume memory and processing power, which might cause Chrome to struggle with complex CSS rendering tasks. Regularly reviewing which extensions you actually need and removing the rest can make a noticeable difference.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome WebAuthn Debugging Guide](/articles/chrome-webauthn-debugging)
+- [Chrome for Figma Best Settings](/articles/chrome-for-figma-best-settings)
+- [Chrome Taskbar Icon Missing Fix Windows](/articles/chrome-taskbar-icon-missing-fix-windows)

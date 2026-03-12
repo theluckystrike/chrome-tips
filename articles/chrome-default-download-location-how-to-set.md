@@ -90,3 +90,9 @@ Consider setting up automatic cleanup using your operating system or a utility p
 Taking a few minutes to set up your download location and organize your files can save you hours of frustration trying to find important documents later.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Follow Button for Websites How to Use](/articles/chrome-follow-button-for-websites-how-to-use)
+- [Chrome Side by Side Tabs How to Split Screen](/articles/chrome-side-by-side-tabs-how-to-split-screen)
+- [Chrome DevTools Performance Panel Explained](/articles/chrome-devtools-performance-panel-explained)

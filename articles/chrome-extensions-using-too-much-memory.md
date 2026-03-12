@@ -56,3 +56,9 @@ For users who need many extensions and want to minimize memory usage, trying a d
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Screen Sharing in Browser How To](/articles/chrome-screen-sharing-in-browser-how-to)
+- [Best Chrome Extensions For Teachers Online](/articles/best-chrome-extensions-for-teachers-online)
+- [Chrome User Timing API Explained](/articles/chrome-user-timing-api-explained)

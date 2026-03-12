@@ -84,3 +84,9 @@ Once you get casting working again, a few habits will help keep it stable. Try t
 Casting from Chrome to your TV is incredibly useful when it works, and most of the time it does work without any hassle. When it breaks, it is usually one of the simple issues we covered here, and now you have the steps to fix it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Take Screenshot in Chrome Without Extension](/articles/how-to-take-screenshot-in-chrome-without-extension)
+- [Chrome Extension for Video Speed Controller](/articles/chrome-extension-for-video-speed-controller)
+- [Chrome Location Access on Phone How to Control](/articles/chrome-location-access-on-phone-how-to-control)

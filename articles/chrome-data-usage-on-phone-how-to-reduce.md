@@ -88,3 +88,9 @@ The combination of these settings can help you get the most out of your monthly 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome for QuickBooks Online Best Settings](/articles/chrome-for-quickbooks-online-best-settings)
+- [Chrome Rendering Panel Guide](/articles/chrome-rendering-panel-guide)
+- [Chrome Extensions for Resume Building](/articles/chrome-extensions-for-resume-building)

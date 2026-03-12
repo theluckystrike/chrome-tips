@@ -145,3 +145,9 @@ If you've tried these methods and your bookmarks still haven't appeared:
 Losing bookmarks is stressful, but Chrome's sync and backup features make recovery possible in most situations. The key is to act quickly — check sync settings first, then look for local backup files. Once your bookmarks are restored, enable automatic sync and consider periodic exports as insurance against future loss.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Canary What Is It For](/articles/chrome-canary-what-is-it-for)
+- [Chrome Web Store How to Leave Review](/articles/chrome-web-store-how-to-leave-review)
+- [chrome safe search how to force enable](/articles/chrome-safe-search-how-to-force-enable)

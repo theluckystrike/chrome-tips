@@ -68,3 +68,9 @@ Dealing with chrome slow on surface pro issues does not have to be frustrating. 
 Remember that small changes can add up to big improvements. Try one or two of these solutions at a time to see what works best for your specific situation, and enjoy a faster, more responsive browsing experience on your Surface Pro.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions For Elderly Users Simple Tools](/articles//articles/chrome-extensions-for-elderly-users-simple-tools/)
+- [Chrome Navigation API for Single Page Apps: A Complete Guide](/articles/chrome-navigation-api-single-page-apps)
+- [Chrome Casting to TV How to Setup](/articles/chrome-casting-to-tv-how-to-setup)

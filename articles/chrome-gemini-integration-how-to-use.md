@@ -73,3 +73,9 @@ Also, remember that Gemini can work across different websites and services. You 
 ---
 
 **Built by theluckystrike** — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome IP Protection Feature Explained](/articles/chrome-ip-protection-feature-explained)
+- [Chrome Text to Speech Built In Features](/articles/chrome-text-to-speech-built-in-features)
+- [Chrome Find on Page Shortcut Tips](/articles/chrome-find-on-page-shortcut-tips)

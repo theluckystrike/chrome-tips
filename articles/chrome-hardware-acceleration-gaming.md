@@ -80,3 +80,9 @@ Optimizing chrome hardware acceleration gaming requires a combination of proper 
 Remember to use tools like Tab Suspender Pro to manage inactive tabs efficiently, and monitor your system resources during gaming sessions. With these optimizations in place, you will enjoy smoother gameplay, reduced input lag, and better overall performance in your favorite browser-based games.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome text only mode how to browse](/articles/chrome-text-only-mode-how-to-browse)
+- [Chromebook Accessibility Features Guide](/articles/chromebook-accessibility-features-guide)
+- [Chrome Android Desktop Mode How to Enable](/articles/chrome-android-desktop-mode-how-to-enable)

@@ -94,3 +94,9 @@ Sometimes browser problems can be related to malware or unwanted programs on you
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Overscroll Behavior CSS](/articles/chrome-overscroll-behavior-css)
+- [Why Is Chrome So Much Slower Than It Used to Be](/articles/why-is-chrome-so-much-slower-than-it-used-to-be)
+- [Chrome Extensions for Video Playback Speed Control](/articles/chrome-extensions-for-video-playback-speed-control)

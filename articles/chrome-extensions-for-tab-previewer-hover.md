@@ -60,3 +60,9 @@ The right tab preview extension depends on how you use Chrome and how many tabs 
 Most of these extensions offer free versions with basic features, so you can test a few to see which interface feels most natural to you. The goal is to spend less time searching for tabs and more time actually getting work done.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply)
+- [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome)
+- [Chrome Workspaces: Link DevTools to Files for Seamless Development](/articles/chrome-workspaces-link-devtools-to-files)

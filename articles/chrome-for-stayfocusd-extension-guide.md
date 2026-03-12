@@ -80,3 +80,9 @@ Remember that StayFocusd is a tool to support your goals, not a punishment. The 
 With your browser configured to support your focus, you will find it easier to accomplish your work and still enjoy your favorite sites during appropriate times. The initial setup effort pays off quickly as you reclaim hours that would otherwise be lost to endless scrolling.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome 2026 New Features Overview](/articles/chrome-2026-new-features-overview)
+- [chrome topics api privacy sandbox explained](/articles/chrome-topics-api-privacy-sandbox-explained)
+- [Chrome Address Bar Shortcuts You Didn't Know](/articles/chrome-address-bar-shortcuts-you-didnt-know)

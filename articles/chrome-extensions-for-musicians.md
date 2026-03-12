@@ -54,3 +54,9 @@ Regularly reviewing which extensions you actually use is also a good practice. O
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Binaural Beats](/articles/chrome-extensions-for-binaural-beats)
+- [Chrome Extensions Disappeared After Update](/articles/chrome-extensions-disappeared-after-update)
+- [Chrome Extensions for Reddit](/articles/chrome-extensions-for-reddit)

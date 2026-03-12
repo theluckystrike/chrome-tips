@@ -96,3 +96,9 @@ Video conferencing does not have to be frustrating. With the right combination o
 The key is to approach extension selection thoughtfully. Choose tools that address your specific pain points, keep your extension list manageable, and regularly evaluate whether the extensions you have installed are still serving you well.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for distraction free reading mode](/articles/chrome-for-distraction-free-reading-mode)
+- [Chrome Extensions for Microsoft Teams](/articles/chrome-extensions-for-microsoft-teams)
+- [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does)

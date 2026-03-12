@@ -81,3 +81,9 @@ Both features are valuable, and Chrome provides them both because they serve dif
 The best approach is to experiment with both features and see which fits your workflow better. Many users find that they naturally gravitate toward one or the other for different types of content, and that is exactly how these features are designed to work together.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Set Homepage on Chrome](/articles/how-to-set-homepage-on-chrome)
+- [Chrome Noise Cancellation for Meetings](/articles/chrome-noise-cancellation-for-meetings)
+- [Chrome User Timing API Explained](/articles/chrome-user-timing-api-explained)

@@ -78,3 +78,9 @@ Take a few minutes to review your current cookie settings and make the adjustmen
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Screenshot Chrome Extension](/articles/best-screenshot-chrome-extension)
+- [chrome help me write feature explained](/articles/chrome-help-me-write-feature-explained)
+- [Chrome Starting Style CSS Explained](/articles/chrome-starting-style-css-explained)

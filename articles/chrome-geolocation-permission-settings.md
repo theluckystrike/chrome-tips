@@ -73,3 +73,9 @@ Remember that you always have the final say. If a website asks for your location
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [chrome restricted mode youtube how to enable](/articles/chrome-restricted-mode-youtube-how-to-enable)
+- [How to Make Chrome Kid-Friendly](/articles/how-to-make-chrome-kid-friendly)
+- [Chrome Live Caption How It Works](/articles/chrome-live-caption-how-it-works)

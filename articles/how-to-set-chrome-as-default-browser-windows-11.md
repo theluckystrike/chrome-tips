@@ -80,3 +80,9 @@ Give it a try and see how it improves your browsing. Once Chrome is set as your 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome DevTools Shadow DOM Inspector](/articles/chrome-devtools-shadow-dom-inspector)
+- [chrome site notifications stop all](/articles/chrome-site-notifications-stop-all)
+- [Best Chrome Extensions for Podcasters](/articles/best-chrome-extensions-for-podcasters)

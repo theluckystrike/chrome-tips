@@ -78,3 +78,9 @@ The good news is that both browsers continue to improve their efficiency. Whatev
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extension Monetization Strategies That Actually Work](/articles/chrome-extension-monetization-strategies)
+- [Chrome Autofill Wrong Address How to Fix](/articles/chrome-autofill-wrong-address-how-to-fix)
+- [Chrome Screen Wake Lock API Explained](/articles/chrome-screen-wake-lock-api-explained)

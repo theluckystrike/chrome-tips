@@ -66,3 +66,9 @@ Getting Chrome to work smoothly as an OBS browser source requires some tweaking 
 Remember that every streaming setup is different, so you might need to experiment with these chrome for obs browser source tips to find what works best for your particular hardware and workflow. Take your time to test each adjustment and pay attention to how your stream performs. Over time, you will discover the perfect balance that gives you professional-looking overlays without sacrificing system performance.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/articles/chrome-coverage-tool-find-unused-css)
+- [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing)
+- [Chrome Extensions For Eye Strain Protection](/articles//articles/chrome-extensions-for-eye-strain-protection/)

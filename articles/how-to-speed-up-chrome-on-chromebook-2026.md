@@ -86,3 +86,9 @@ These small changes can make a big difference in how responsive your Chromebook 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome MotionMark Graphics Benchmark](/articles/chrome-motionmark-graphics-benchmark)
+- [Chrome Extensions for Gantt Chart](/articles/chrome-extensions-for-gantt-chart)
+- [Chrome Not Loading Pages But Internet Works: Complete Fix Guide](/articles/chrome-not-loading-pages-but-internet-works)

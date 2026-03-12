@@ -95,3 +95,9 @@ You can choose what data to sync in Settings, under Sync and Google Services. If
 Making these adjustments takes about ten minutes but pays off every time you open Chrome for edX courses. Your browser becomes a tool that supports your learning goals rather than working against them.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Habit Tracker](/articles/chrome-extensions-for-habit-tracker)
+- [Chrome Bookmarks File Location and Backup Guide](/articles/chrome-bookmarks-file-location-backup)
+- [Chrome Spotify Web Player Not Working Fix](/articles/chrome-spotify-web-player-not-working-fix)

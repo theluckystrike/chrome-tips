@@ -54,3 +54,9 @@ For more advanced features like annotation tools or easier access, exploring ext
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Extensions for Tab Grouping Automatically](/articles/chrome-extensions-for-tab-grouping-automatically)
+- [Chrome Best Settings for Gaming](/articles/chrome-best-settings-for-gaming)
+- [Chrome for Xero Accounting Web Tips](/articles/chrome-for-xero-accounting-web-tips)

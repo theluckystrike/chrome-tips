@@ -64,3 +64,9 @@ Give Web NFC a try with compatible tags and see how quickly you can access infor
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Extension Permissions Best Practices](/articles/chrome-extension-permissions-best-practices)
+- [Chrome Permissions on Android How to Manage](/articles/chrome-permissions-on-android-how-to-manage)
+- [Chrome for Screencastify Extension Guide](/articles/chrome-for-screencastify-extension-guide)

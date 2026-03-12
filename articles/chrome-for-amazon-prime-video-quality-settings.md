@@ -84,3 +84,9 @@ Getting the best quality from Amazon Prime Video in Chrome is a combination of c
 Everyone's setup is different, so you might need to experiment with a few of these recommendations to find what works best for your situation. The good news is that with a little attention to these details, you can significantly improve your Prime Video streaming experience in Chrome.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix)
+- [Chrome Mobile Dark Mode Force on All Sites](/articles/chrome-mobile-dark-mode-force-on-all-sites)
+- [Chrome Default Download Location How to Change](/articles//chrome-default-download-location-how-to-change/)

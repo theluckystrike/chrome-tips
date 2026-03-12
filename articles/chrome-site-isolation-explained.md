@@ -104,3 +104,9 @@ The security benefits of Site Isolation come with increased memory usage compare
 Understanding how Site Isolation works helps you appreciate the complex security systems protecting your browsing experience. As web threats continue to evolve, features like Site Isolation represent the ongoing effort to keep your data safe while providing the rich, interactive web experiences we have come to expect.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome chrome.alarms API for Scheduled Tasks](/articles//articles/chrome-chrome.alarms-scheduled-tasks/)
+- [How to Use Chrome DevTools for Beginners](/articles/how-to-use-chrome-devtools-for-beginners)
+- [Chrome WASM WebAssembly Getting Started: A Complete Beginner's Guide](/articles/chrome-wasm-webassembly-getting-started)

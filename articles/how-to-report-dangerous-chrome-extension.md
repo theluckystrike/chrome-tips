@@ -63,3 +63,9 @@ Knowing how to report dangerous Chrome extension behavior is an essential skill 
 Beyond reporting, staying vigilant about what you install and regularly reviewing the extensions you already have goes a long way toward maintaining a secure browsing experience. The Chrome Web Store has improved its security over the years, but it still relies on users like you to help identify problems. By doing your part, you contribute to a safer web for everyone.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Edit Any Webpage Text Using Inspect Element](/articles/chrome-edit-webpage-text-inspect-element)
+- [Chrome for Wikipedia Enhanced Reading](/articles/chrome-for-wikipedia-enhanced-reading)
+- [Chrome Extensions for Session Buddy](/articles/chrome-extensions-for-session-buddy)

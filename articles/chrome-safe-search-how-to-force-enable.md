@@ -69,3 +69,9 @@ Enabling Chrome Safe Search is one of the easiest ways to create a safer browsin
 Remember that no single solution is foolproof. Combining technical tools like Safe Search with open communication and supervision is the best approach to keeping everyone safe online.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Translate Not Working? Here's How to Fix It](/articles/chrome-translate-not-working-fix)
+- [Chrome WebGL Not Working Fix](/articles/chrome-webgl-not-working-fix)
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/articles/google-docs-slow-in-chrome-fix)

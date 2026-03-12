@@ -82,3 +82,9 @@ Once you have everything set up correctly, you should see accurate red squiggly 
 If you continue to have issues after trying these steps, you might want to consider using a dedicated spell check extension or reaching out to Chrome support for more specific help with your situation.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [My Computer Is So Slow How to Fix Chrome](/articles/my-computer-is-so-slow-how-to-fix-chrome)
+- [Chrome Device Emulation Advanced Guide](/articles//chrome-device-emulation-advanced/)
+- [Chrome Supervised Profiles for Kids](/articles/chrome-supervised-user-profile-for-kids)

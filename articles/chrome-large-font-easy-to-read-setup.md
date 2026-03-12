@@ -79,3 +79,9 @@ Making Chrome display large, easy-to-read text is straightforward once you know 
 Remember that everyone has different needs when it comes to text size and readability. Do not be afraid to experiment with the settings until you find what works best for you. Your eyes will thank you for taking the time to set things up correctly.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Free Chrome Extensions Better Than Paid Apps](/articles/free-chrome-extensions-better-than-paid-apps)
+- [Chrome Overscroll Behavior CSS](/articles/chrome-overscroll-behavior-css)
+- [Best Chrome Setup For Graphic Designers](/articles/best-chrome-setup-for-graphic-designers)

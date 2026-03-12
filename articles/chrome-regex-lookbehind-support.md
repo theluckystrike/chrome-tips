@@ -112,3 +112,9 @@ Whether you are extracting data from text, validating input, or transforming str
 Start experimenting with lookbehind assertions in Chrome today, and you will likely find many opportunities to simplify your text processing code.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Running Slow on New Laptop? Here's Why and How to Fix It](/articles/chrome-running-slow-on-new-laptop-why)
+- [Chrome Remote Desktop How to Use](/articles/chrome-remote-desktop-how-to-use)
+- [Chrome Storage Inspector How to Use](/articles/chrome-storage-inspector-how-to-use)

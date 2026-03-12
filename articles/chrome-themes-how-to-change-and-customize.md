@@ -78,3 +78,9 @@ Take your time browsing through the options. The Chrome Web Store has many free 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Form Auto Filler](/articles/chrome-extensions-for-form-auto-filler)
+- [Chrome Starting Style CSS Explained](/articles/chrome-starting-style-css-explained)
+- [chrome portable version run from usb](/articles/chrome-portable-version-run-from-usb)

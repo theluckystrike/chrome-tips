@@ -162,3 +162,9 @@ The decision ultimately comes down to what matters most to you. Both browsers ar
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chromebook file manager tips and tricks](/articles/chromebook-file-manager-tips-and-tricks)
+- [Chrome Extension for Viewing Page Load Time](/articles/chrome-extension-for-viewing-page-load-time)
+- [Chrome Array Groupby New Method](/articles/chrome-array-groupby-new-method)

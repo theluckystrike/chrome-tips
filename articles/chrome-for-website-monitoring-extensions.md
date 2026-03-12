@@ -88,3 +88,9 @@ Give these extensions a try with just a page or two, see how they work for your 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Snap Scroll CSS Explained](/articles/chrome-snap-scroll-css-explained)
+- [Chrome Clear Data for One Site Without Clearing All](/articles/chrome-clear-data-for-one-site-without-clearing-all)
+- [How to Customize Chrome Toolbar](/articles/how-to-customize-chrome-toolbar)

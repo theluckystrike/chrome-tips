@@ -80,3 +80,9 @@ If you find yourself relying on WebGL-enabled websites frequently and want addit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Email Marketing Best Extensions](/articles/chrome-for-email-marketing-best-extensions)
+- [Why Is My Chrome Tab Using 1GB of Memory? Here's Why and How to Fix It](/articles/chrome-tab-using-1gb-memory-why)
+- [Chrome Invalid Certificate How to Fix Permanently](/articles/chrome-invalid-certificate-how-to-fix-permanently)

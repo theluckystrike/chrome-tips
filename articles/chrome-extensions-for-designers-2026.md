@@ -118,3 +118,9 @@ Remember that extensions do have an impact on browser performance, so it is wort
 Finally, keep an eye on new extensions that continue to be developed. The Chrome extension ecosystem is constantly evolving, and new tools are being released that may serve your needs better than existing options. Stay curious and keep experimenting with new tools while maintaining the core extensions that have proven invaluable to your work.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome PWA Install Prompt Not Showing Fix](/articles/chrome-pwa-install-prompt-not-showing-fix)
+- [Chrome Extensions for Tree Style Tabs](/articles/chrome-extensions-for-tree-style-tabs)
+- [Chrome Preloading Pages Setting Explained](/articles/chrome-preloading-pages-setting-explained)

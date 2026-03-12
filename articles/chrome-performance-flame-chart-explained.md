@@ -79,3 +79,9 @@ Regular checks also help identify when extension updates or website changes star
 The flame chart demystifies what happens inside your browser. Instead of guessing why things feel slow, you gain actual insight into where time goes. This knowledge empowers you to take targeted actions rather than trying random fixes that may not address the real problem.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Online Research](/articles/chrome-extensions-for-online-research)
+- [Chrome Saved Passwords How to View](/articles/chrome-saved-passwords-how-to-view)
+- [Chrome Mobile Tabs Too Many How to Manage](/articles/chrome-mobile-tabs-too-many-how-to-manage)

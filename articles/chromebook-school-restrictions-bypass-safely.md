@@ -111,3 +111,9 @@ Stay productive, stay focused, and make the most of the resources available to y
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Notifications for One Site How to Manage](/articles/chrome-notifications-for-one-site-how-to-manage)
+- [chrome text only mode how to browse](/articles/chrome-text-only-mode-how-to-browse)
+- [Chrome Tab Groups vs Bookmarks](/articles/chrome-tab-groups-vs-bookmarks)

@@ -68,3 +68,9 @@ Bookmarks are another useful tool. Instead of keeping a tab open indefinitely, b
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome CSS Custom Properties Explained](/articles//chrome-css-custom-properties-explained/)
+- [Chrome Emulate Print Media How To](/articles/chrome-emulate-print-media-how-to)
+- [Chrome for Text to Speech on Any Page](/articles/chrome-for-text-to-speech-on-any-page)

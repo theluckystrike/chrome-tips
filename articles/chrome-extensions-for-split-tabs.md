@@ -78,3 +78,9 @@ Most split tab extensions are free to try, so you can experiment with a few to s
 The goal is to spend less time switching between tabs and more time getting things done. With the right split tab extension, you can keep the information you need visible at all times without the frustration of constant tab switching.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Block Inappropriate Content for Kids](/articles/chrome-block-inappropriate-content-for-kids)
+- [Chrome Scrolling Lag Fix](/articles/chrome-scrolling-lag-fix)
+- [Chrome Extensions for Microsoft Teams](/articles/chrome-extensions-for-microsoft-teams)

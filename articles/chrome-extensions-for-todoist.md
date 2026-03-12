@@ -63,3 +63,9 @@ If you are ready to try Chrome extensions for Todoist, start by visiting the Chr
 The goal is not to overwhelm yourself with tools but to find the ones that genuinely make your workflow easier. With the right extensions, Todoist becomes even more powerful, and you spend less time managing tasks and more time actually getting things done.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome WebGPU vs WebGL Comparison](/articles/chrome-webgpu-vs-webgl)
+- [Chrome Compact Mode How to Enable](/articles/chrome-compact-mode-how-to-enable)
+- [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage)

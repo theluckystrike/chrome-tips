@@ -76,3 +76,9 @@ You can see your current version by clicking the three dots in the top right cor
 A smoother Codecademy experience is within reach. Close unnecessary tabs, trim down your extensions, enable Memory Saver, and consider using Tab Suspender Pro for extra control. These small changes add up to faster loading times and a more responsive coding environment, letting you focus on learning instead of waiting for your browser to catch up.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Must Have Chrome Extensions for Students](/articles/must-have-chrome-extensions-for-students)
+- [Chrome DNS Probe Finished Nxdomain Fix](/articles/chrome-dns-probe-finished-nxdomain-fix)
+- [chrome for onenote web clipper setup](/articles/chrome-for-onenote-web-clipper-setup)

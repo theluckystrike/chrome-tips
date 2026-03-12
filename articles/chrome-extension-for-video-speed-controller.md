@@ -74,3 +74,9 @@ Pay attention to which websites you use most often for video content. If an exte
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Managing Site Notifications](/articles/chrome-for-managing-site-notifications)
+- [Chromebook Keyboard Shortcuts Complete List](/articles/chromebook-keyboard-shortcuts-complete-list)
+- [Chrome Spectre Attack Protection in Browser](/articles/chrome-spectre-attack-protection-in-browser)

@@ -70,3 +70,9 @@ For additional performance improvements, consider using extensions like Tab Susp
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+
+- [Chrome Gesture Navigation on Android](/articles/chrome-gesture-navigation-on-android)
+- [chrome right to left language support](/articles/chrome-right-to-left-language-support)
+- [Chrome Best Ad Blocker 2026](/articles/chrome-best-ad-blocker-2026)

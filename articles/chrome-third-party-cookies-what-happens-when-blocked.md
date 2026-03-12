@@ -62,3 +62,9 @@ If you have many tabs open and want to improve your browser performance overall,
 
 >>>>>>> qa/loop-5
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Minimalist Browsing Setup](/articles/chrome-for-minimalist-browsing-setup)
+- [Chrome for Page Load Speed Testing](/articles/chrome-for-page-load-speed-testing)
+- [chrome webgpu gaming in browser future](/articles/chrome-webgpu-gaming-in-browser-future)

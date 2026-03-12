@@ -72,3 +72,9 @@ You can also enhance your browsing experience while managing files. Extensions l
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM](/articles/chrome-slow-on-dual-monitor-setup)
+- [Chrome Autocomplete Wrong Suggestions How to Fix](/articles/chrome-autocomplete-wrong-suggestions-how-to-fix)
+- [Chrome QR Code Generator Extension](/articles/chrome-qr-code-generator-extension)

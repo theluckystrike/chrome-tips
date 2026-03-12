@@ -60,3 +60,9 @@ You do not need to install multiple extensions unless you want to. Often, one we
 The internet contains countless valuable articles and resources, but the clutter that surrounds them has made reading online a chore for many people. With the right extension in place, you can reclaim your reading time and actually enjoy the content you find online without fighting for your attention.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Duplicate Tab Finder](/articles//articles/chrome-extensions-for-duplicate-tab-finder/)
+- [Chrome for StayFocusd Extension Guide](/articles/chrome-for-stayfocusd-extension-guide)
+- [Chrome Array Groupby New Method](/articles/chrome-array-groupby-new-method)

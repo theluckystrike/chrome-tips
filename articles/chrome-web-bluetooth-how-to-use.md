@@ -84,3 +84,9 @@ Give Web Bluetooth a try with your compatible devices. You might find that it si
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Autofill On Phone How To Manage](/articles/chrome-autofill-on-phone-how-to-manage)
+- [chrome text only mode how to browse](/articles/chrome-text-only-mode-how-to-browse)
+- [Chrome for Google Maps Best Extensions](/articles/chrome-for-google-maps-best-extensions)

@@ -66,3 +66,9 @@ Understanding the root cause of your chrome extensions disabled by administrator
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome vs Opera GX for Gaming](/articles/chrome-vs-opera-gx-for-gaming)
+- [Chrome Early Hints 103 Status Code: A Complete Guide](/articles/chrome-early-hints-103-status-code)
+- [Chrome Slow on Android Fix](/articles/chrome-slow-on-android-fix)

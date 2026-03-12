@@ -70,3 +70,9 @@ A well-performing website should load most of its content within a few seconds. 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Session Restore Not Working Fix](/articles/chrome-session-restore-not-working-fix)
+- [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization)
+- [Chrome Slow on Work Computer VPN: Practical Solutions for Limited RAM](/articles/chrome-slow-on-work-computer-vpn)

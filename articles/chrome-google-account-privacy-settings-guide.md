@@ -70,3 +70,9 @@ By regularly reviewing and adjusting these settings, you can enjoy Chrome's powe
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Online Exams Best Settings](/articles/chrome-for-online-exams-best-settings)
+- [Chrome for Coursera Web App Optimization](/articles/chrome-for-coursera-web-app-optimization)
+- [Chrome for Travel Itinerary Extensions](/articles/chrome-for-travel-itinerary-extensions)

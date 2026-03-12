@@ -66,3 +66,9 @@ Remember that the best solution depends on your specific situation. If you have 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome YouTube Slow But Other Sites Fine Fix](/articles/chrome-youtube-slow-but-other-sites-fine-fix)
+- [chrome pi hole vs browser ad blocker comparison](/articles/chrome-pi-hole-vs-browser-ad-blocker-comparison)
+- [Chrome Dns Prefetch What It Does](/articles/chrome-dns-prefetch-what-it-does)

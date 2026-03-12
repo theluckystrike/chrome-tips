@@ -66,3 +66,9 @@ The solution is to be mindful of how many tabs you keep open, manage your extens
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Customize Chrome Toolbar](/articles/how-to-customize-chrome-toolbar)
+- [Chrome Block Specific Websites Guide](/articles/chrome-block-specific-websites-guide)
+- [Best Chrome Extensions for Social Media](/articles/best-chrome-extensions-for-social-media)

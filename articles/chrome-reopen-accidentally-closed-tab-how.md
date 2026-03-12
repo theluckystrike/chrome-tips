@@ -72,3 +72,9 @@ As a last resort, you can try searching for the page directly using Google. If y
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering](/articles/chrome-paint-holding-feature-explained)
+- [Chrome for Research Workflow Best Setup](/articles/chrome-for-research-workflow-best-setup)
+- [Chrome Continue Where You Left Off Not Working](/articles/chrome-continue-where-you-left-off-not-working)

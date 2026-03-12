@@ -81,3 +81,9 @@ If you find that Chrome feels slow or you have many tabs open, consider using to
 Understanding your browser and keeping it updated is a simple but effective way to have a better browsing experience. Take a moment to check your Chrome version today, and make sure you are running the latest version available.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Manage Addresses in Chrome Autofill](/articles/chrome-autofill-manage-addresses)
+- [Best Chrome Extensions For Teachers Online](/articles/best-chrome-extensions-for-teachers-online)
+- [chrome google lens integration how to use](/articles/chrome-google-lens-integration-how-to-use)

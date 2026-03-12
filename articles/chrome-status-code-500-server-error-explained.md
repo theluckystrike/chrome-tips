@@ -73,3 +73,9 @@ Server errors like the 500 status code are a normal part of the web. They happen
 Most 500 errors resolve themselves within minutes or hours as website administrators fix the underlying issues. If you encounter one, try the simple steps outlined above, and remember that the problem is almost never on your end. With a little patience, you will usually be able to access the site you need without any lasting issues.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome classroom extension for teachers](/articles/chrome-classroom-extension-for-teachers)
+- [Chrome Slow on Your Old MacBook? Here's How to Fix It](/articles/chrome-slow-on-old-macbook-fix)
+- [Chrome Android Desktop Mode How to Enable](/articles/chrome-android-desktop-mode-how-to-enable)

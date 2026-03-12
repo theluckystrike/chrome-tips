@@ -97,3 +97,9 @@ Running Chrome's security checkup is one of the simplest ways to maintain good b
 Make it a point to run the security checkup regularly and address any issues it finds promptly. A few minutes of attention now can prevent much bigger problems down the road.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings)
+- [How to Find a Specific Tab in Chrome](/articles/how-to-find-a-specific-tab-in-chrome)
+- [chrome for apple music web player tips](/articles/chrome-for-apple-music-web-player-tips)

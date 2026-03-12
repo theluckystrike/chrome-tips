@@ -75,3 +75,9 @@ Creating smooth, performant CSS animations in Chrome is not as difficult as it m
 Remember that the goal of animation is to enhance your website, not distract from its performance. With these tips in mind, you are well on your way to building animations that look great and run smoothly on every device.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Address Bar Tips and Tricks](/articles/chrome-address-bar-tips-and-tricks)
+- [Chrome Extensions for Lorem Ipsum Generator](/articles/chrome-extensions-for-lorem-ipsum-generator)
+- [Chrome Images Not Loading Fix](/articles/chrome-images-not-loading-fix)

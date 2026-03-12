@@ -80,3 +80,9 @@ Start by checking your startup tabs, disabling unnecessary extensions, and enabl
 With these steps, you can enjoy a faster browsing experience and stop wondering why opening Chrome slows down everything.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Attribution Reporting Guide](/articles/chrome-attribution-reporting)
+- [Chrome Lighthouse Audit for Website Speed: Complete Guide](/articles/chrome-lighthouse-audit-website-speed)
+- [Chrome JetStream Score What Is Good](/articles/chrome-jetstream-score-what-is-good)

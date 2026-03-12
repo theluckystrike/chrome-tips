@@ -70,3 +70,9 @@ Chrome receives updates fairly often, and each update can bring improvements to 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for API Testing Simple](/articles/chrome-extensions-for-api-testing-simple)
+- [Chrome Cookies Explained for Beginners](/articles/chrome-cookies-explained-for-beginners)
+- [Chrome for Skyscanner Web App Tips](/articles/chrome-for-skyscanner-web-app-tips)

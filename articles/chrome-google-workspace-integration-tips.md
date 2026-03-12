@@ -97,3 +97,9 @@ Getting Chrome and Google Workspace to work together smoothly does not require t
 These chrome google workspace integration tips help you build a productive setup that saves time and reduces frustration. With your browser and workspace tools working in harmony, you can focus on your work instead of fighting with your tools.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Performance Getting Worse Over Time](/articles/chrome-performance-getting-worse-over-time)
+- [Chrome Extension Conflict: Identifying and Fixing Crashes](/articles/chrome-extension-conflict-causing-crashes)
+- [Chrome WebGPU vs WebGL Comparison: Which Graphics API Should You Use?](/articles/chrome-webgpu-vs-webgl-comparison)

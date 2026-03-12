@@ -70,3 +70,9 @@ Remember that while achieving a perfect 100 score is impressive, it is not alway
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Ads on Phone How to Block Without Extension](/articles/chrome-ads-on-phone-how-to-block-without-extension)
+- [Chrome Periodic Background Sync Explained](/articles/chrome-periodic-background-sync-explained)
+- [Chrome for Codecademy: In-Browser Optimization](/articles/chrome-for-codecademy-in-browser-optimization)

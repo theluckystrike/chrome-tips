@@ -100,3 +100,9 @@ You might also want to create a separate Chrome profile for family members inste
 Remember that Guest Mode is best for short-term, casual use. For ongoing privacy needs or anonymous browsing, you should consider combining it with other tools and practices. But for the everyday scenario of letting someone check their email or browse a few websites on your machine, Guest Mode is exactly what you need.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome location services how to turn off](/articles/chrome-location-services-how-to-turn-off)
+- [How to Capture Network Logs in Chrome Using Net Export](/articles/chrome-net-export-capture-network-log)
+- [Chrome Compute Pressure API Explained: What It Means for Your Browser](/articles/chrome-compute-pressure-api-explained)

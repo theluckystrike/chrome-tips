@@ -66,3 +66,9 @@ For those who want a smoother browsing experience with less manual management, b
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix)
+- [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track)
+- [How to Use Chrome Read Later: Save Articles for Offline Reading](/articles/chrome-read-later-save-articles-offline)

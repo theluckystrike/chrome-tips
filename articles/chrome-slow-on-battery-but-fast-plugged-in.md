@@ -89,3 +89,9 @@ Start by adjusting your power profile to a balanced setting, disabling unnecessa
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Unicode Symbols How to Insert](/articles/chrome-unicode-symbols-how-to-insert)
+- [Chrome Service Workers List How to View](/articles/chrome-service-workers-list-how-to-view)
+- [Chrome Dns Over Https Setup](/articles/chrome-dns-over-https-setup)

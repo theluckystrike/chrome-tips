@@ -95,3 +95,9 @@ Take time to explore the toolbar options and keyboard shortcuts to find what wor
 For power users managing multiple PDF documents, consider incorporating tab management tools to maintain performance while keeping reference materials accessible. The combination of Chrome's native capabilities and thoughtful browser extensions creates a productive PDF workflow that serves both casual and professional needs.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Restore Closed Tabs in Chrome](/articles/chrome-restore-closed-tabs-guide)
+- [Chrome for Research Workflow Best Setup](/articles/chrome-for-research-workflow-best-setup)
+- [Chrome for Multiple Search Engines Switching](/articles/chrome-for-multiple-search-engines-switching)

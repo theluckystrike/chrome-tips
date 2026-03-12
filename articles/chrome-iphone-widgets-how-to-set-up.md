@@ -56,3 +56,9 @@ Some users create different widget configurations for different contexts. You mi
 Chrome iPhone widgets how to set up does not have to be complicated. With just a few minutes of setup, you can have quick access to the sites that matter most right from your home screen. Give it a try and see how much time it can save you throughout the day.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Workspaces: Link DevTools to Files for Seamless Development](/articles/chrome-workspaces-link-devtools-to-files)
+- [Chrome Password Manager on Phone vs Dedicated App](/articles/chrome-password-manager-on-phone-vs-dedicated-app)
+- [Chrome Console Commands: Useful Tricks Every User Should Know](/articles/chrome-console-commands-useful-tricks)

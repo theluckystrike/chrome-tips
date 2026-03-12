@@ -66,3 +66,9 @@ One solution worth considering is Tab Suspender Pro, which automatically pauses 
 Keeping your tabs organized and managing how many you have open is a simple way to ensure a better browsing experience. Combined with the improvements that developers make using tools like the Event Timing API, you can enjoy a faster, more responsive web.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Android Gestures You Didnt Know About](/articles/chrome-android-gestures-you-didnt-know-about)
+- [Chrome Math Symbols How to Type](/articles/chrome-math-symbols-how-to-type)
+- [Chrome Address Bar Suggestions How to Clear](/articles/chrome-address-bar-suggestions-how-to-clear)

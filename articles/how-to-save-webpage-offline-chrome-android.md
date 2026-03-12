@@ -86,3 +86,9 @@ The best method depends on your needs. For quick, one-time offline reads, Chrome
 Try a few of these methods and see which fits your lifestyle best. Once you have a reliable system for saving pages offline, you'll never be stuck without something good to read.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Phantom Wallet Extension](/articles/chrome-for-phantom-wallet-extension)
+- [Chrome Extensions for uBlock Origin Setup Guide](/articles/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome for Forest Focus Timer Extension](/articles/chrome-for-forest-focus-timer-extension)

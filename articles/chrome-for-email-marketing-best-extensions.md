@@ -82,3 +82,9 @@ Start with the essentials that address your biggest time drains. For many email 
 Remember that the goal of these tools is not to replace the personal touch that makes email marketing effective, but to automate the tedious parts so you can focus on strategy and creativity. The right extensions amplify your efforts, helping you reach more people in less time while maintaining the quality that drives engagement.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Event Timing API Explained](/articles/chrome-event-timing-api-explained)
+- [How to Import Bookmarks from Firefox to Chrome](/articles/how-to-import-bookmarks-from-firefox-to-chrome)
+- [Chrome Extensions for Mockup Creator](/articles/chrome-extensions-for-mockup-creator)

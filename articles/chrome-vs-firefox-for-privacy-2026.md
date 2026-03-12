@@ -74,3 +74,9 @@ The good news is that both browsers have improved their privacy features, and wh
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Color Palette Picker](/articles//articles/chrome-extensions-for-color-palette-picker/)
+- [Chrome Devtools Edit HTML Live](/articles//chrome-devtools-edit-html-live/)
+- [Chrome Extensions for Grammar Check Free Alternative](/articles/chrome-extensions-for-grammar-check-free-alternative)

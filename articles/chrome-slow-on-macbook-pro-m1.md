@@ -156,3 +156,9 @@ Most users see significant improvements after just a few of these changes. The M
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Diigo](/articles//articles/chrome-extensions-for-diigo/)
+- [Chrome Extensions for Tab Sleeping Automatically](/articles/chrome-extensions-for-tab-sleeping-automatically)
+- [Chrome CORS Error for Regular Users](/articles/chrome-cors-error-for-regular-users)

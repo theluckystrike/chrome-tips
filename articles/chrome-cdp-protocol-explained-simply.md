@@ -104,3 +104,9 @@ What makes CDP particularly valuable is that it is not some obscure internal tec
 As web applications become more complex and the demand for automated testing grows, understanding CDP becomes increasingly valuable for web developers. It demystifies how browser automation tools work and gives you the knowledge to build more robust, reliable, and automated workflows.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Devtools Application Panel Explained](/articles//chrome-devtools-application-panel-explained/)
+- [chrome data saver mode is it still available](/articles//chrome-data-saver-mode-is-it-still-available/)
+- [Chrome Headless Mode What It Is](/articles/chrome-headless-mode-what-it-is)

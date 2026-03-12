@@ -84,3 +84,9 @@ Enabling chrome smooth scrolling is a simple change that can make a significant 
 Give smooth scrolling a try and see how it works for you. Once you experience the difference, you may wonder how you ever browsed without it.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions Permissions Explained Simply](/articles/chrome-extensions-permissions-explained-simply)
+- [Chrome Enterprise Features for Business: A Complete Guide](/articles/chrome-enterprise-features-for-business)
+- [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix)

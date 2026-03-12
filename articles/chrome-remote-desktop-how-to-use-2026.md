@@ -61,3 +61,9 @@ Give it a try with your own machines first. Set up remote access between your de
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Why Does Each Chrome Tab Use So Much Memory](/articles/why-does-each-chrome-tab-use-so-much-memory)
+- [Chrome Precaching vs Runtime Caching](/articles/chrome-precaching-vs-runtime-caching)
+- [Best Way to Organize Chrome Tabs](/articles/best-way-to-organize-chrome-tabs)

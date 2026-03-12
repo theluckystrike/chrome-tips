@@ -72,3 +72,9 @@ Getting into the habit of closing unused tabs, adjusting image settings when you
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome vs Arc Browser: Should I Switch?](/articles/chrome-vs-arc-browser-should-i-switch)
+- [Chrome for HubSpot CRM in Browser](/articles/chrome-for-hubspot-crm-in-browser)
+- [Chrome Text to Speech Built In Features](/articles/chrome-text-to-speech-built-in-features)

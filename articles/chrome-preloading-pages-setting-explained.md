@@ -84,3 +84,9 @@ By taking the time to understand and adjust the chrome preloading pages setting,
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome device management for education](/articles//chrome-device-management-for-education/)
+- [chrome shared array buffer usage](/articles/chrome-shared-array-buffer-usage)
+- [How to Download All Images from a Web Page in Chrome](/articles/chrome-download-all-images-from-page-how-to)

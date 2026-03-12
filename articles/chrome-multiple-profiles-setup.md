@@ -91,3 +91,9 @@ Setting up multiple profiles in Chrome is one of the best ways to organize your 
 ---
 
 More tips and guides available at [zovo.one](https://zovo.one).
+
+## Related Articles
+
+- [Chrome CSS Anchor Positioning Tether - The Future of Floating Elements](/articles/chrome-css-anchor-positioning-tether)
+- [Chrome Tab Groups on Phone How to Use](/articles/chrome-tab-groups-on-phone-how-to-use)
+- [Best Chrome Extensions for Real Estate Agents](/articles/best-chrome-extensions-for-real-estate-agents)

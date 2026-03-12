@@ -74,3 +74,9 @@ That said, Chrome's built-in settings are usually sufficient for most users who 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Site Isolation: What It Is and Why It Matters for Your Security](/articles/chrome-site-isolation-security-feature)
+- [Chrome Service Workers List How to View](/articles/chrome-service-workers-list-how-to-view)
+- [Chrome What Technology Is Website Using](/articles/chrome-what-technology-is-website-using)

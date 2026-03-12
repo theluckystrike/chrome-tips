@@ -57,3 +57,9 @@ The transition to Manifest V3 has been challenging for many users, but it is ult
 In the meantime, staying informed about what changes are happening and knowing how to adapt your setup will help you maintain a productive and enjoyable experience with Chrome.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome: The Most Used Browser in the World — Why?](/articles/chrome-most-used-browser-in-the-world-why)
+- [Chrome Live Captions How to Turn On](/articles/chrome-live-captions-how-to-turn-on)
+- [Chrome Password Checkup Tool Guide](/articles/chrome-password-checkup-tool)

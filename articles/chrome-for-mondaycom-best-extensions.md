@@ -92,3 +92,9 @@ Start with one or two extensions that address your most pressing needs, whether 
 With the right set of extensions, you can make Monday.com work better for your specific situation. The goal is not to add complexity for its own sake, but to remove friction and help you focus on the work that matters.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web)
+- [Chrome Sharing Screen in Video Calls](/articles/chrome-sharing-screen-in-video-calls)
+- [Chrome Safe Browsing on Phone How to Check](/articles/chrome-safe-browsing-on-phone-how-to-check)

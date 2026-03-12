@@ -66,3 +66,9 @@ Using **Tab Suspender Pro** is an excellent way to maintain performance. It auto
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Using Swap Memory Fix](/articles/chrome-using-swap-memory-fix)
+- [Chrome Google Account Privacy Settings Guide](/articles/chrome-google-account-privacy-settings-guide)
+- [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes)

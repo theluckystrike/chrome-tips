@@ -64,3 +64,9 @@ The best Chrome extensions for your counseling practice will depend on your spec
 Remember that extensions are meant to support your work, not complicate it. If an extension is causing more problems than it solves, it is perfectly fine to remove it and try a different approach. The goal is to spend less time managing your technology and more time focusing on your clients.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome site isolation what it does](/articles/chrome-site-isolation-what-it-does)
+- [Chrome for Email Marketing Best Extensions](/articles/chrome-for-email-marketing-best-extensions)
+- [Best Chrome Setup For Graphic Designers](/articles/best-chrome-setup-for-graphic-designers)

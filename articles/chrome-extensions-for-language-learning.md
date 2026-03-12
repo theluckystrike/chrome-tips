@@ -67,3 +67,9 @@ Chrome extensions for language learning are not a replacement for dedicated stud
 Start with one or two extensions that address your biggest need, use them consistently, and add more only when you feel ready. Over time, you will find that these small tools have helped you build vocabulary, improve comprehension, and make progress toward fluency. The key is to keep your browsing active and intentional, and let the extensions support your goals.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Startup Pages How to Set Multiple](/articles/chrome-startup-pages-how-to-set-multiple)
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug)
+- [Chrome Continue Where You Left Off Not Working](/articles/chrome-continue-where-you-left-off-not-working)

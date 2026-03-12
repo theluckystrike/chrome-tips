@@ -58,3 +58,9 @@ Consider upgrading to a faster internet plan if you frequently find yourself wai
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Secure DNS: What It Is and How to Enable](/articles/chrome-secure-dns-what-it-is-and-how-to-enable)
+- [Chrome Reading List vs Bookmarks Difference](/articles/chrome-reading-list-vs-bookmarks-difference)
+- [Chrome Safety Check What It Does](/articles/chrome-safety-check-what-it-does)

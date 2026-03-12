@@ -90,3 +90,9 @@ If you do not see the icon, try visiting a few different article websites. Not a
 Once you get comfortable with the basic reader mode, explore whether extensions or reading apps might give you the additional features you want. The goal is to make reading on your phone as comfortable and distraction-free as possible.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Trello](/articles/chrome-extensions-for-trello)
+- [Chrome About Settings All Pages Explained](/articles/chrome-about-settings-all-pages-explained)
+- [How to Import Bookmarks from Firefox to Chrome](/articles/how-to-import-bookmarks-from-firefox-to-chrome)

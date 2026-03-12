@@ -75,3 +75,9 @@ Spotify web player issues in Chrome are annoying but usually fixable. Start with
 Remember that tools like Tab Suspender Pro can help keep your browser running smoothly, which indirectly helps web-based applications like Spotify work better too. Keeping your browser updated and your system maintained goes a long way toward preventing these issues in the first place.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix)
+- [Chrome for Obsidian Web Clipper Setup](/articles/chrome-for-obsidian-web-clipper-setup)
+- [chrome security check how to run](/articles/chrome-security-check-how-to-run)

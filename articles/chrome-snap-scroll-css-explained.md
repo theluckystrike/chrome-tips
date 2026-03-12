@@ -71,3 +71,9 @@ Remember that your browsing experience should work for you, not against you. Whi
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Structured Clone and Deep Copy: A Complete Guide](/articles/chrome-structured-clone-deep-copy)
+- [chrome playwright vs puppeteer comparison](/articles/chrome-playwright-vs-puppeteer-comparison)
+- [Chrome Geolocation Permission Settings](/articles/chrome-geolocation-permission-settings)

@@ -64,3 +64,9 @@ Review your browser settings to disable any features you do not need. Things lik
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Split Screen Without Extension](/articles/chrome-split-screen-without-extension)
+- [chrome how to block specific website notifications](/articles/chrome-how-to-block-specific-website-notifications)
+- [Chrome Extensions for Pocket Alternative](/articles/chrome-extensions-for-pocket-alternative)

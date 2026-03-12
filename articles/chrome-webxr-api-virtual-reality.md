@@ -86,3 +86,9 @@ Make sure your computer meets the minimum requirements for the WebXR content you
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome dark reader extension worth it](/articles//chrome-dark-reader-extension-worth-it/)
+- [Chrome Extensions For Calendar Integration](/articles//articles/chrome-extensions-for-calendar-integration/)
+- [How to Dictate Text in Chrome](/articles/how-to-dictate-text-in-chrome)

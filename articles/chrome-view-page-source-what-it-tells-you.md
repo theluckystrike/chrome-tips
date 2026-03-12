@@ -72,3 +72,9 @@ Managing many open tabs can slow down your browser significantly. Tools like **T
 Chrome's View Page Source feature is a powerful tool that reveals the hidden world behind every webpage. Whether you are curious about how websites work, learning to code, debugging an issue, or simply satisfying your curiosity, exploring page source opens up a wealth of information. The next time you visit a website, right-click and choose View page source to discover what lies beneath the surface.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix)
+- [Chrome History Search Tips and Tricks](/articles/chrome-history-search-tips-and-tricks)
+- [How to Enable Chrome Tab Preview on Hover](/articles/chrome-tab-preview-hover-how-to-enable)

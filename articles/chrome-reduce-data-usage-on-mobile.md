@@ -83,3 +83,9 @@ Reducing Chrome's data usage on your phone does not require technical knowledge 
 Small changes add up quickly. If you normally use several gigabytes of data per month on Chrome alone, implementing these tips could cut that usage in half or more. That means more data for other activities, fewer overage charges, and a more efficient browsing experience overall.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions Disappeared After Update Fix](/articles/chrome-extensions-disappeared-after-update-fix)
+- [chrome safe search how to force enable](/articles/chrome-safe-search-how-to-force-enable)
+- [Chrome Lazy Loading Images Native: How It Works and Why You Should Use It](/articles/chrome-lazy-loading-images-native)

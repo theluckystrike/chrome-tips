@@ -70,3 +70,9 @@ Remember that these extensions are just tools to help you enjoy TikTok content o
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Network Speed in Developer Tools](/articles/chrome-network-speed-in-developer-tools)
+- [Chrome Download Files on Phone Where to Find](/articles/chrome-download-files-on-phone-where-to-find)
+- [chrome for metamask setup and tips](/articles/chrome-for-metamask-setup-and-tips)

@@ -87,3 +87,9 @@ requestAnimationFrame represents how modern browsers have evolved to provide bet
 Understanding these underlying technologies helps you become a more informed internet user. Whether you are just curious about how your browser works or you are troubleshooting performance issues, knowing about requestAnimationFrame gives you insight into the complex systems that make the web work.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Two Factor Authentication Setup Guide](/articles/chrome-two-factor-authentication-setup-guide)
+- [Chrome About Blank Page What It Means](/articles/chrome-about-blank-page-what-it-means)
+- [Chrome Update Failed Error 12 Fix](/articles/chrome-update-failed-error-12-fix)

@@ -53,3 +53,9 @@ Finding the right chrome dyslexia friendly extensions is a personal journey. Wha
 Remember that these tools are meant to help, not to replace good browsing habits. Taking regular breaks, ensuring good lighting when you read, and using tools that reduce eye strain all contribute to a better experience. With the right extensions and a few simple adjustments, the web can become a much more accessible place for reading.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained)
+- [Chrome Tabs Taking Forever to Load? Here's What to Do](/articles/chrome-tabs-taking-forever-to-load)
+- [Chrome Large Font Easy to Read Setup](/articles/chrome-large-font-easy-to-read-setup)

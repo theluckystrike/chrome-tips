@@ -70,3 +70,9 @@ If you encounter issues or have questions, the MetaMask website offers comprehen
 Remember that taking time to learn about your tools pays off in the long run. Understanding how MetaMask works with Chrome helps you use it more effectively and keeps your digital assets secure.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions For Coupon Codes Automatically](/articles//articles/chrome-extensions-for-coupon-codes-automatically/)
+- [chrome zoom default change](/articles/chrome-zoom-default-change)
+- [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users)

@@ -78,3 +78,9 @@ Using **Tab Suspender Pro** is an excellent way to keep your environment snappy.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [how to enable cookies in chrome](/articles/how-to-enable-cookies-in-chrome)
+- [Best Chrome Extensions for Twitch Streamers](/articles/best-chrome-extensions-for-twitch-streamers)
+- [chrome on raspberry pi how to install](/articles/chrome-on-raspberry-pi-how-to-install)

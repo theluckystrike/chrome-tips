@@ -68,3 +68,9 @@ Experiment with the different methods described here to find what works best for
 Split screen is one of those features that seems small but makes a big difference in your daily browsing experience. Give it a try and see how much easier it makes your online tasks.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chromebook vs iPad for Students](/articles/chromebook-vs-ipad-for-students-comparison)
+- [Chrome Extension Publish to Web Store Guide](/articles/chrome-extension-publish-to-web-store-guide)
+- [chrome reader mode how to turn on 2026](/articles/chrome-reader-mode-how-to-turn-on-2026)

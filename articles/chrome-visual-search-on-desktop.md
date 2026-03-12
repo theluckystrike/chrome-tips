@@ -82,3 +82,9 @@ If an extension is causing problems, try disabling it temporarily. Some extensio
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Accessibility Features Guide: Everything You Need to Know](/articles/chrome-accessibility-features-guide)
+- [Chrome Site Settings Explained Complete Guide](/articles/chrome-site-settings-explained-complete-guide)
+- [Best Chrome Extensions for Netflix](/articles/best-chrome-extensions-for-netflix)

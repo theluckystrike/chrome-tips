@@ -50,3 +50,9 @@ While using a WebRTC leak prevention extension is an important step, it is just 
 Being aware of the websites you visit and the permissions you grant to extensions and websites also goes a long way. Take a moment to review what information you are sharing whenever you install a new extension or allow a website to access certain features. Small awareness like this can make a big difference in maintaining your online privacy.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Set Up Chrome Profiles for Work and Personal](/articles/how-to-set-up-chrome-profiles-for-work-and-personal)
+- [Chrome Private State Tokens Explained: What They Are and How They Work](/articles/chrome-private-state-tokens-explained)
+- [Chrome Extension Side Panel Tutorial](/articles/chrome-extension-side-panel-tutorial)

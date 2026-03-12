@@ -57,3 +57,9 @@ Whether you are building a simple blog or a complex enterprise application, taki
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained)
+- [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/articles/chrome-whatsapp-web-not-connecting-fix)
+- [Chrome Extension for Focus Mode Block Distractions](/articles/chrome-extension-for-focus-mode-block-distractions)

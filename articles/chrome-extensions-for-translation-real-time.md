@@ -76,3 +76,9 @@ Chrome extensions for translation real time have come a long way in recent years
 The best approach is to try a few different extensions and see which one fits your workflow. Everyone has different language needs and preferences, so what works perfectly for one person might not be the right choice for another. With the right extension installed, those foreign language barriers will become a thing of the past.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome WebGL Not Supported Fix](/articles/chrome-webgl-not-supported-fix)
+- [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage)
+- [One Chrome Tab Making Everything Slow: What to Do About It](/articles/one-chrome-tab-making-everything-slow)

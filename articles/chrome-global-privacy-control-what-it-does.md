@@ -66,3 +66,9 @@ If you find that managing tab clutter is taking up too much of your time and you
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Helper Renderer Using Too Much CPU](/articles/chrome-helper-renderer-using-too-much-cpu)
+- [Chrome Sync Paused How to Fix](/articles/chrome-sync-paused-how-to-fix)
+- [Chrome Extensions for Shopify](/articles/chrome-extensions-for-shopify)

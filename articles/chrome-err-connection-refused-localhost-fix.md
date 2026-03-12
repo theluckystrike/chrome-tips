@@ -144,3 +144,9 @@ ERR_CONNECTION_REFUSED on localhost is usually a simple fix. In most cases, it's
 Remember: always double-check that your development server is running and note the correct port from the terminal output. Most of the time, that's all it takes to get past this error.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions That Save You Time](/articles/chrome-extensions-that-save-you-time)
+- [Chrome Group Policy Settings Explained](/articles/chrome-group-policy-settings-explained)
+- [Chrome Hardware Acceleration Causes Problems](/articles/chrome-hardware-acceleration-causes-problems)

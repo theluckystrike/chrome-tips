@@ -92,3 +92,9 @@ Take a moment to check your Chrome settings today. Making sure Safe Browsing is 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome for Medium Best Reading Extensions](/articles/chrome-for-medium-best-reading-extensions)
+- [chrome for google finance tips](/articles/chrome-for-google-finance-tips)
+- [Chrome Passkeys How to Set Up and Use](/articles/chrome-passkeys-how-to-set-up-and-use)

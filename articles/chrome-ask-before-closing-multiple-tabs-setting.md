@@ -81,3 +81,9 @@ The most important thing is finding a system that works for you and gives you pe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Slower After Windows Update Fix](/articles/chrome-slower-after-windows-update-fix)
+- [firefox vs chrome battery](/articles/firefox-vs-chrome-battery)
+- [Chrome for Medium Best Reading Extensions](/articles/chrome-for-medium-best-reading-extensions)

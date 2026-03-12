@@ -116,3 +116,9 @@ Chrome's blackbox script feature is an essential tool for any web developer who 
 Take some time to set up blackbox patterns for the libraries you use most frequently. You'll be surprised how much more productive your debugging sessions become when you can focus on your code alone.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Streaming Video Buffering Fix](/articles/chrome-streaming-video-buffering-fix)
+- [Best Extensions for Tab Management Chrome](/articles/best-extensions-for-tab-management-chrome)
+- [Best Chrome Extensions for Working From Home](/articles/best-chrome-extensions-for-working-from-home)

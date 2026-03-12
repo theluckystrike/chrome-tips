@@ -73,3 +73,9 @@ Tab Suspender Pro helps by automatically putting inactive tabs to sleep to save 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Remote Debugging for Beginners](/articles/chrome-remote-debugging-for-beginners)
+- [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does)
+- [Chrome Third Party Cookies Blocked What It Means](/articles/chrome-third-party-cookies-blocked-what-it-means)

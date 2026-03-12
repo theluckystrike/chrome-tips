@@ -95,3 +95,9 @@ Start with the option that matches your current browser. Try it for a week and s
 The goal is to make your reading comfortable and distraction-free without adding unnecessary complexity to your browsing routine.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Beacon API for Analytics](/articles/chrome-beacon-api-for-analytics)
+- [Chrome vs Firefox 2026 Comparison](/articles/chrome-vs-firefox-2026)
+- [How to Use Chrome Flags Safely](/articles/how-to-use-chrome-flags-safely)

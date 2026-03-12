@@ -70,3 +70,9 @@ Remember that becoming comfortable with regex takes practice, and having the rig
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [chrome experimental features worth trying 2026](/articles/chrome-experimental-features-worth-trying-2026)
+- [Chrome Keyboard Navigation Tips](/articles/chrome-keyboard-navigation-tips)
+- [Chrome Split Screen Without Extension](/articles/chrome-split-screen-without-extension)

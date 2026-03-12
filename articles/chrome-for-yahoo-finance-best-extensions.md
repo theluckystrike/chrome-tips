@@ -58,3 +58,9 @@ Remember that extensions work best when they complement rather than complicate y
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Google Maps Keyboard Shortcuts](/articles/chrome-google-maps-keyboard-shortcuts)
+- [chrome pin tab what it does explained](/articles/chrome-pin-tab-what-it-does-explained)
+- [Chrome Open Source Parts Explained](/articles/chrome-open-source-parts-explained)

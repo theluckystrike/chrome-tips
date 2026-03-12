@@ -80,3 +80,9 @@ If you want comprehensive checking and are willing to pay for premium features, 
 Remember that these extensions are meant to help, not replace careful reading. They are excellent tools, but they are not perfect. Always review your important writing yourself before hitting send or publish.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Organize Chrome Bookmarks Into Folders](/articles/how-to-organize-chrome-bookmarks-into-folders)
+- [chromebook file manager tips and tricks](/articles/chromebook-file-manager-tips-and-tricks)
+- [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization)

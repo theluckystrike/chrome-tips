@@ -81,3 +81,9 @@ To install any Chrome extension, visit the Chrome Web Store and search for the n
 Try installing one or two extensions at a time so you can learn how each one works before adding more. This approach helps you get comfortable with each tool and decide whether it is actually useful for your workflow.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Google Calendar Quick Add from Browser](/articles/chrome-google-calendar-quick-add-from-browser)
+- [Chrome Extensions for Mouse Gestures Navigation](/articles/chrome-extensions-for-mouse-gestures-navigation)
+- [Chrome Extension Alternative to Grammarly Free](/articles/chrome-extension-alternative-to-grammarly-free)

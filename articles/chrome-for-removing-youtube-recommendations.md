@@ -80,3 +80,9 @@ Start with the easiest changes, like clearing your history or trying an incognit
 The goal is not to remove YouTube from your life entirely, but to use it on your own terms rather than letting the algorithm decide for you. A few small changes can make a big difference in how much control you feel you have over your browsing time.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Notifications on Phone Too Many How to Stop](/articles/chrome-notifications-on-phone-too-many-how-to-stop)
+- [Chrome: The Most Used Browser in the World — Why?](/articles/chrome-most-used-browser-in-the-world-why)
+- [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension)

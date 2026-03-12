@@ -81,3 +81,9 @@ A well-managed notification system keeps you informed without cluttering your sc
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome This Connection Is Not Private Bypass](/articles/chrome-this-connection-is-not-private-bypass)
+- [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users)
+- [Chrome Smooth Scrolling How to Enable](/articles/chrome-smooth-scrolling-how-to-enable)

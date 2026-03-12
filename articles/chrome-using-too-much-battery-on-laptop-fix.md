@@ -84,3 +84,9 @@ After making these changes, pay attention to how long your battery lasts. You mi
 Chrome using too much battery on laptop is a common problem, but it is one you can solve. With a few tweaks to your settings and habits, you can enjoy all the features Chrome offers without watching your battery icon drain in front of your eyes.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Amazon Price History](/articles/chrome-extensions-for-amazon-price-history)
+- [Chrome Extension for Saving Passwords Securely](/articles/chrome-extension-for-saving-passwords-securely)
+- [Chrome Content Visibility Auto Performance](/articles/chrome-content-visibility-auto-performance)

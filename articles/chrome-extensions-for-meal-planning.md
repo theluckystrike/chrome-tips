@@ -74,3 +74,9 @@ Start with one or two extensions and get comfortable using them before adding mo
 The goal is to make meal planning simple enough that you actually do it consistently. When the process is smooth and organized, you will be more likely to plan your meals in advance, eat healthier, save money, and reduce food waste. That is a lot of benefit from a few small browser extensions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Job Searching Best Extensions](/articles/chrome-for-job-searching-best-extensions)
+- [Chrome DevTools Memory Panel Explained](/articles/chrome-devtools-memory-panel-explained)
+- [Chrome Trust Tokens Explained](/articles/chrome-trust-tokens-guide)

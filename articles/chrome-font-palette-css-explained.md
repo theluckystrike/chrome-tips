@@ -51,3 +51,9 @@ The chrome font palette CSS system might seem complicated at first, but it is bu
 Whether you are building a website or just browsing the internet, knowing about font palettes and CSS gives you insight into why websites look the way they do. For developers, sticking to reliable font stacks and testing across devices ensures that your content reaches everyone in the best possible form.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Work vs Personal — How to Use Separate Profiles](/articles/chrome-for-work-vs-personal-separate-profiles)
+- [chrome for shopify store management tips](/articles/chrome-for-shopify-store-management-tips)
+- [Chrome Geolocation Override How to Test](/articles/chrome-geolocation-override-how-to-test)

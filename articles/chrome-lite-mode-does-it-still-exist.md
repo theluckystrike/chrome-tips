@@ -130,3 +130,9 @@ While "chrome lite mode does it still exist" is a question with a disappointing 
 Try implementing these changes one at a time to see what works best for your specific situation. If your computer still feels slow after trying these tips, consider upgrading your RAM or switching to a lighter browser designed for older hardware.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Accessibility on Phone Settings Guide](/articles/chrome-accessibility-on-phone-settings-guide)
+- [Chrome Enable Cookies for One Site How to](/articles/chrome-enable-cookies-for-one-site-how-to)
+- [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out)

@@ -94,3 +94,9 @@ By combining these Chrome flags with smart tab management using tools like Tab S
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Roam Research Web Tips](/articles/chrome-for-roam-research-web-tips)
+- [chrome enhanced tracking protection setup](/articles/chrome-enhanced-tracking-protection-setup)
+- [chrome text only mode how to browse](/articles/chrome-text-only-mode-how-to-browse)

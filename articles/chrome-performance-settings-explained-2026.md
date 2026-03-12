@@ -92,3 +92,9 @@ Chrome performance settings explained for 2026 boil down to a few key areas: ena
 Take a few minutes to explore the Performance section in Chrome settings and enable the features that make sense for your usage patterns. Small adjustments can lead to noticeable improvements in speed and responsiveness.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Security Panel How to Check SSL](/articles/chrome-security-panel-how-to-check-ssl)
+- [Chrome Virus Scan Built in How to Use](/articles/chrome-virus-scan-built-in-how-to-use)
+- [How to Add Chrome Shortcut to Desktop](/articles/how-to-add-chrome-shortcut-to-desktop)

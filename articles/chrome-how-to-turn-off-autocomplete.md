@@ -72,3 +72,9 @@ If you decide later that you want to turn autocomplete back on, the process is e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Restore Tabs Not Working After Update: Practical Fixes](/articles/chrome-restore-tabs-not-working-after-update)
+- [chrome lighthouse performance score explained simply](/articles/chrome-lighthouse-performance-score-explained-simply)
+- [Chrome for eBay Selling Best Extensions](/articles/chrome-for-ebay-selling-best-extensions)

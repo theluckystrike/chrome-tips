@@ -61,3 +61,9 @@ Both **Chrome's built-in password manager** and dedicated apps have their place.
 The most important thing is that you are using some form of password management rather than reusing the same password across multiple accounts. Whether that solution is Chrome's built-in tool or a dedicated app, taking this step makes you much safer online.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Binaural Beats](/articles/chrome-extensions-for-binaural-beats)
+- [Chrome Omnibox Hidden Features](/articles/chrome-omnibox-hidden-features)
+- [Chrome Cross-Origin Isolation Explained](/articles/chrome-cross-origin-isolation-explained)

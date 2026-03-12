@@ -77,3 +77,9 @@ Finally, remember that the lowest price is not always the best value. Consider f
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome offline first app design explained](/articles/chrome-offline-first-app-design-explained)
+- [How to Use Chrome Device Emulation to Test Your Mobile Website](/articles//chrome-device-emulation-test-mobile-website/)
+- [Chrome Close Other Tabs Shortcut](/articles/chrome-close-other-tabs-shortcut)

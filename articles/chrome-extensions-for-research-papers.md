@@ -64,3 +64,9 @@ Experiment with different extensions to see what fits your workflow best. The go
 With the right extensions handling the technical details, you can devote more mental energy to what truly matters: engaging with the research itself and producing quality academic work.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Free Chrome Extensions Better Than Paid Apps](/articles/free-chrome-extensions-better-than-paid-apps)
+- [Chrome Google Maps Slow and Laggy Fix](/articles/chrome-google-maps-slow-and-laggy-fix)
+- [Chrome for Yahoo Finance Best Extensions](/articles/chrome-for-yahoo-finance-best-extensions)

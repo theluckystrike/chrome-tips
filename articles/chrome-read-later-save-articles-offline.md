@@ -120,3 +120,9 @@ Saving articles for offline reading in Chrome is straightforward once you know y
 The key is to choose one or two methods and stick with them consistently. This way, you'll always know where to find your saved articles when you're ready to read—whether you're on a plane, in a coffee shop with no WiFi, or just want to read without distractions.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Freezes My Whole Computer](/articles/chrome-freezes-my-whole-computer)
+- [Chrome CSS Grid Layout Complete Guide](/articles//chrome-css-grid-layout-complete-guide/)
+- [chrome for vpn extensions comparison](/articles/chrome-for-vpn-extensions-comparison)

@@ -54,3 +54,9 @@ Site permissions are not something you should set and forget. Just like you peri
 By understanding what permissions you have granted and staying proactive about managing them, you maintain better control over your privacy and security while still enjoying the functionality that legitimate websites provide.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Social Media Scheduling](/articles/chrome-extensions-for-social-media-scheduling)
+- [Chrome Not Loading Pages But Internet Works: Complete Fix Guide](/articles/chrome-not-loading-pages-but-internet-works)
+- [Chrome Tab From Other Device Not Showing Fix](/articles/chrome-tab-from-other-device-not-showing-fix)

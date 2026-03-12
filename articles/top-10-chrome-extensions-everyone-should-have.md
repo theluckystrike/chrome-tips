@@ -82,3 +82,9 @@ Pocket also removes ads and distractions from saved articles so you can focus on
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Can Chrome Extensions Steal Your Data](/articles/can-chrome-extensions-steal-your-data)
+- [Chrome Google Drive Integration Tips](/articles/chrome-google-drive-integration-tips)
+- [Chrome DevTools Coverage Tool Explained](/articles//chrome-devtools-coverage-tool-explained/)

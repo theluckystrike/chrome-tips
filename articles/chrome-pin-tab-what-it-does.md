@@ -80,3 +80,9 @@ Another approach is to regularly review your open tabs and save anything importa
 Pinned tabs are one of Chrome's simplest but most useful features. They help you keep important websites accessible, reduce visual clutter, and prevent accidental closures. Whether you use them for work, school, or personal browsing, pinned tabs can make your time in Chrome more organized and efficient.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Fix Chrome High CPU Usage When Gaming](/articles/how-to-fix-chrome-high-cpu-usage-gaming)
+- [Best Chrome Extensions for Researchers](/articles/best-chrome-extensions-for-researchers)
+- [How to Lock Safe Search in Chrome for Children](/articles/chrome-safe-search-lock-for-children)

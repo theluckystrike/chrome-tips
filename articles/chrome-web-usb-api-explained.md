@@ -59,3 +59,9 @@ While the Web USB API is a powerful feature, managing all the ways websites can 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extension for Reading Mode Distraction Free](/articles/chrome-extension-for-reading-mode-distraction-free)
+- [Chrome Extensions for HTTP Header Viewer](/articles/chrome-extensions-for-http-header-viewer)
+- [Chrome Trust Tokens Explained](/articles/chrome-trust-tokens-guide)

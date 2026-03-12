@@ -74,3 +74,9 @@ These small changes can make a big difference in how your MacBook Air performs. 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/articles/chrome-extensions-folder-location-files)
+- [Chrome Extensions for New Tab Dashboard](/articles/chrome-extensions-for-new-tab-dashboard)
+- [Chrome Reader View How to Enable on Any Site](/articles/chrome-reader-view-how-to-enable-on-any-site)

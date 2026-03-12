@@ -81,3 +81,9 @@ Whether you keep it simple with just your email and calendar, or you add a handf
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Reset Chrome to Default Settings](/articles/how-to-reset-chrome-to-default-settings)
+- [chrome extensions for ruler measurement](/articles/chrome-extensions-for-ruler-measurement)
+- [Chrome vs Samsung Internet for Android](/articles/chrome-vs-samsung-internet-for-android)

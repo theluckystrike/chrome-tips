@@ -86,3 +86,9 @@ If you find your browser feeling sluggish, consider using a tab management exten
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [chrome extensions for screenshot full page](/articles/chrome-extensions-for-screenshot-full-page)
+- [Chrome Extension for Translating Selected Text](/articles/chrome-extension-for-translating-selected-text)
+- [chrome extensions for ruler measurement](/articles/chrome-extensions-for-ruler-measurement)

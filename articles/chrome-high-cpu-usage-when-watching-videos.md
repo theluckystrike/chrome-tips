@@ -94,3 +94,9 @@ For most users, these changes provide a significant improvement in video playbac
 If you have tried all these solutions and still experience issues, your computer may simply lack the processing power for high-definition video streaming. In that case, lowering video quality or using a dedicated video player for local files may be your best options.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for custom new tab page extensions](/articles/chrome-for-custom-new-tab-page-extensions)
+- [chrome extensions for screenshot full page](/articles/chrome-extensions-for-screenshot-full-page)
+- [How to Clear Cookies for One Site in Chrome](/articles/how-to-clear-cookies-for-one-site-in-chrome)

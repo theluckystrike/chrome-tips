@@ -69,3 +69,9 @@ However, passwords are not going away overnight. Many websites still do not supp
 As more websites add passkey support and as you become more comfortable with the technology, you may find yourself using passwords less and less. The transition is happening gradually, and there is no pressure to switch everything at once. The important thing is to understand the benefits and start using passkeys where you can.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Blocking Social Media During Work](/articles/chrome-extension-for-blocking-social-media-during-work)
+- [Chrome Live Captions Feature Guide](/articles/chrome-live-captions-feature)
+- [chrome pwa offline capability how it works](/articles/chrome-pwa-offline-capability-how-it-works)

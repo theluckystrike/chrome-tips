@@ -65,3 +65,9 @@ Regularly restarting your computer can also help clear memory and refresh system
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome web serial api explained](/articles/chrome-web-serial-api-explained)
+- [Chrome Extensions for Note Taking in Meetings](/articles/chrome-extensions-for-note-taking-in-meetings)
+- [Chrome vs Brave Privacy Comparison](/articles/chrome-vs-brave-privacy-comparison)

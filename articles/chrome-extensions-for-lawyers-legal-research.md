@@ -64,3 +64,9 @@ Experiment with different extensions to see what fits your workflow best. The go
 With the right extensions handling the technical details, you can devote more mental energy to what truly matters: providing excellent legal representation for your clients.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extension GDPR Compliance Guide](/articles/chrome-extension-gdpr-compliance-guide)
+- [Chrome Video Playback Stuttering Fix: A Practical Guide for Slow Computers](/articles/chrome-video-playback-stuttering-fix)
+- [Chrome Screen Wake Lock API Explained](/articles/chrome-screen-wake-lock-api-explained)

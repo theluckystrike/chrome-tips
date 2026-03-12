@@ -68,3 +68,9 @@ The best choice depends on what matters most to you. If you want something that 
 Remember that these extensions are meant to help, not replace careful reading. They are excellent tools, but they are not perfect. Always review your important writing yourself before hitting send or publish.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Nurses Healthcare](/articles/chrome-extensions-for-nurses-healthcare)
+- [Chrome Full Screen Mode How to Exit Stuck](/articles/chrome-full-screen-mode-how-to-exit-stuck)
+- [Chrome About Settings All Pages Explained](/articles/chrome-about-settings-all-pages-explained)

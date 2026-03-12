@@ -98,3 +98,9 @@ Whether you are trying to hide a specific site or simply want to clean up a clut
 
 ---
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Best Extensions for Parental Control](/articles/chrome-best-extensions-for-parental-control)
+- [chrome high contrast mode](/articles/chrome-high-contrast-mode)
+- [Chrome for Cryptocurrency Tracking Extensions](/articles/chrome-for-cryptocurrency-tracking-extensions)

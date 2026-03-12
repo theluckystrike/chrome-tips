@@ -68,3 +68,9 @@ By using one of these extensions, you can troubleshoot issues more effectively, 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Mobile Dark Mode Force on All Sites](/articles/chrome-mobile-dark-mode-force-on-all-sites)
+- [Chrome Memory Leak Detection Guide](/articles/chrome-memory-leak-detection)
+- [chrome extension for screenshot and annotate](/articles/chrome-extension-for-screenshot-and-annotate)

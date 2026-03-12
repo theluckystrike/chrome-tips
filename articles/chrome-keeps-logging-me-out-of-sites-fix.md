@@ -84,3 +84,9 @@ If you have tried all of these steps and Chrome still keeps logging you out, the
 You might also consider whether your Chrome profile itself has become corrupted. Creating a brand new Chrome profile is a bit of work since you will need to set up your bookmarks and extensions again, but it often resolves persistent issues that cannot be fixed through regular troubleshooting.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Sync Phone and Computer How to Set Up](/articles/chrome-sync-phone-and-computer-how-to-set-up)
+- [chrome for kayak price alerts extension](/articles/chrome-for-kayak-price-alerts-extension)
+- [chrome reading list vs bookmarks](/articles/chrome-reading-list-vs-bookmarks)

@@ -68,3 +68,9 @@ Remember that while tracking extensions are convenient, you should still practic
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Encoding API Text Encoder Decoder](/articles/chrome-encoding-api-text-encoder-decoder)
+- [Chrome Taking 5 Minutes to Load: Fixes for Slow Computers](/articles/chrome-taking-5-minutes-to-load)
+- [chrome extensions for similar image finder](/articles/chrome-extensions-for-similar-image-finder)

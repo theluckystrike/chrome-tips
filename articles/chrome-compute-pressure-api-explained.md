@@ -88,3 +88,9 @@ As web applications become more sophisticated, features like the Compute Pressur
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome vs Safari Memory Usage Mac](/articles/chrome-vs-safari-memory-usage-mac)
+- [Chrome Scroll to Top of Page Shortcut](/articles/chrome-scroll-to-top-of-page-shortcut)
+- [Chrome Profile Specific Extensions How to Set](/articles/chrome-profile-specific-extensions-how-to-set)

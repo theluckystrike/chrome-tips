@@ -58,3 +58,9 @@ You should notice a difference fairly quickly. Your browser should feel more res
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Keeps Stopping on Android Fix](/articles/chrome-keeps-stopping-on-android-fix)
+- [Chrome for Blocking Autoplay Videos](/articles/chrome-for-blocking-autoplay-videos)
+- [Chrome Slow After Windows Update Fix](/articles/chrome-slow-after-windows-update-fix)

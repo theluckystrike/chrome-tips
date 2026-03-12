@@ -76,3 +76,9 @@ In the meantime, the extensions and approaches described here give you powerful 
 The key is understanding that standard Chrome search has limits. By recognizing this problem and seeking solutions, you gain back time that would otherwise be lost to fruitless searching.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Google Keep Extension Tips](/articles/chrome-for-google-keep-extension-tips)
+- [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom)
+- [Chrome Accessibility Extensions Best 2026](/articles/chrome-accessibility-extensions-best-2026)

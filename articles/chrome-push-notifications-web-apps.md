@@ -69,3 +69,9 @@ Make sure your notifications include relevant information and actionable content
 Finally, always respect user preferences. Make it easy for users to manage their notification settings directly from your website, and honor any opt-out requests immediately. Providing a clear and accessible unsubscribe option in every notification is not just good etiquette—it is often required by law in many jurisdictions.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Cookie Settings 2026 Guide](/articles/chrome-cookie-settings-2026)
+- [Chrome for Costco Web Shopping Tips](/articles/chrome-for-costco-web-shopping-tips)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/articles/chrome-using-too-much-battery-on-laptop-fix)

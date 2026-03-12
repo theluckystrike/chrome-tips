@@ -68,3 +68,9 @@ The technology behind live caption continues to improve as Google refines its sp
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for asana web app tips](/articles/chrome-for-asana-web-app-tips)
+- [Chrome Best Settings For Slow Internet](/articles/chrome-best-settings-for-slow-internet)
+- [Chrome Permissions API for Camera and Microphone](/articles/chrome-permissions-api-camera-microphone)

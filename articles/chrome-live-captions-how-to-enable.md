@@ -72,3 +72,9 @@ Keep the feature enabled. Once you turn Live Captions on, there is no harm in le
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Snap Scroll CSS Explained](/articles/chrome-snap-scroll-css-explained)
+- [Chrome Translate Page Not Working Fix: Practical Solutions That Actually Work](/articles/chrome-translate-page-not-working-fix)
+- [How to Increase Chrome Cache Size](/articles/chrome-cache-size-how-to-increase)

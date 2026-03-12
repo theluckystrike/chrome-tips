@@ -113,3 +113,9 @@ Remember: the goal isn't to stop using Chrome—it's to use it smarter. With the
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Close Other Tabs Shortcut](/articles/chrome-close-other-tabs-shortcut)
+- [Chrome Extensions For Email Tracking Read Receipts](/articles//articles/chrome-extensions-for-email-tracking-read-receipts/)
+- [Chrome for Perplexity AI Best Settings](/articles/chrome-for-perplexity-ai-best-settings)

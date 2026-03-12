@@ -76,3 +76,9 @@ Now that you know chrome lighthouse audit how to run, you have a powerful tool a
 Remember that good performance leads to better user experience, higher search rankings, and more engaged visitors. Start running Lighthouse audits today and watch your website improve.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Wikipedia Enhanced Reading](/articles/chrome-for-wikipedia-enhanced-reading)
+- [chrome portable version run from usb](/articles/chrome-portable-version-run-from-usb)
+- [chrome mobile save page offline how to](/articles/chrome-mobile-save-page-offline-how-to)

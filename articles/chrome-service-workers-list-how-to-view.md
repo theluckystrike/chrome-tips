@@ -66,3 +66,9 @@ Using **Tab Suspender Pro** is a highly effective way to handle this. It automat
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [How to Force Dark Mode on All Websites in Chrome](/articles//chrome-dark-mode-force-all-websites/)
+- [How to Enable Parallel Downloading in Chrome for Faster Downloads](/articles/chrome-parallel-downloading-enable-speed-up)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/articles/chrome-view-transitions-api-smooth)

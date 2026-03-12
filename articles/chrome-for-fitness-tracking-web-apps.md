@@ -67,3 +67,9 @@ Using Chrome effectively for fitness tracking means finding the right balance be
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Airbnb Browsing Best Extensions](/articles/chrome-for-airbnb-browsing-best-extensions)
+- [Chrome NET ERR CERT DATE INVALID Fix](/articles/chrome-net-err-cert-date-invalid-fix)
+- [Chrome Tracing for Performance Issues](/articles/chrome-tracing-for-performance-issues)

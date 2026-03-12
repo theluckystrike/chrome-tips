@@ -81,3 +81,9 @@ Take time to explore each extension settings and customization options. Most ext
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Periodic Background Sync Explained](/articles/chrome-periodic-background-sync-explained)
+- [Computer Fan Goes Crazy When Chrome Opens - Fix It Fast](/articles/computer-fan-goes-crazy-when-chrome-opens)
+- [Chrome Extensions for Site Permissions Manager](/articles/chrome-extensions-for-site-permissions-manager)

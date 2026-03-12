@@ -71,3 +71,9 @@ Finding a chrome streaming video buffering fix does not have to be complicated. 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Task Manager How to Use](/articles/chrome-task-manager-how-to-use)
+- [Chrome Sleeping Tabs Explained: What They Are and How to Use Them](/articles/chrome-sleeping-tabs-explained)
+- [Chrome Extension for Taking Notes While Browsing](/articles/chrome-extension-for-taking-notes-while-browsing)

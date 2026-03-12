@@ -72,3 +72,9 @@ In rare cases, the problem might be with your computer's hardware rather than Ch
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Proxy Settings How to Configure](/articles/chrome-for-proxy-settings-how-to-configure)
+- [Chrome for Substack Reading Tips](/articles/chrome-for-substack-reading-tips)
+- [Chrome JetStream Score What Is Good](/articles/chrome-jetstream-score-what-is-good)

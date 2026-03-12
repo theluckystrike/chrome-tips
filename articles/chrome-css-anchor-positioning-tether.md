@@ -115,3 +115,9 @@ CSS anchor positioning is part of a broader movement toward more powerful, decla
 Whether you are a seasoned developer or just getting started with web development, exploring CSS anchor positioning is well worth your time. It represents the future of how floating elements will be built on the web, and it is available in Chrome right now.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Using 100 Percent CPU Fix Windows](/articles/chrome-using-100-percent-cpu-fix-windows)
+- [Chrome Extensions for Sales Prospecting](/articles/chrome-extensions-for-sales-prospecting)
+- [Chrome for Google Keep Extension Tips](/articles/chrome-for-google-keep-extension-tips)

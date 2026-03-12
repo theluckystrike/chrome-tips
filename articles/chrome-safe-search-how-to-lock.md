@@ -66,3 +66,9 @@ Beyond locking safe search, there are other steps you can take to create a safer
 For parents, having open conversations with children about internet safety is just as important as technical controls. Explain why certain content is filtered and teach them how to make good decisions online. Technical tools work best when combined with education and open communication about browsing habits.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Multiple Profiles How to Switch Fast](/articles/chrome-multiple-profiles-how-to-switch-fast)
+- [chrome for rosetta stone web tips](/articles/chrome-for-rosetta-stone-web-tips)
+- [Chrome User Data Folder Where Is It](/articles/chrome-user-data-folder-where-is-it)

@@ -107,3 +107,9 @@ Start by converting your most important accounts—email, banking, and shopping 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Use Chrome Profiles Properly — The Complete Guide](/articles/how-to-use-chrome-profiles-properly)
+- [Chrome Tab Stacking How to Use](/articles/chrome-tab-stacking-how-to-use)
+- [Chrome Blurry Text Fix Windows](/articles/chrome-blurry-text-fix-windows)

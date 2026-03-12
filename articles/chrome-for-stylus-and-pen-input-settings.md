@@ -80,3 +80,9 @@ Finally, consider the lighting in your workspace. Some styluses and tablets use 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [chrome for price drop alert extensions](/articles/chrome-for-price-drop-alert-extensions)
+- [Chrome vs Edge for Battery Life Laptop](/articles/chrome-vs-edge-for-battery-life-laptop)
+- [Chrome Workspaces: Link DevTools to Files for Seamless Development](/articles/chrome-workspaces-link-devtools-to-files)

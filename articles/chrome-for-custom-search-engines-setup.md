@@ -83,3 +83,9 @@ If you find yourself with too many tabs open while setting up custom search engi
 Custom search engines are one of Chrome's most powerful features for boosting productivity, and now you have everything you need to set them up and use them effectively. Give it a try with a few of your favorite websites, and you will quickly see how much time this feature can save.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Best Chrome Extensions for Online Shopping](/articles/chrome-extensions-for-online-shopping)
+- [chrome for gmail productivity extensions](/articles/chrome-for-gmail-productivity-extensions)
+- [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix)

@@ -138,3 +138,9 @@ The key is knowing which method to use for each situation. For entire webpages, 
 Next time you need to capture something from a webpage, try Chrome's built-in tools first—you might find they handle everything you need without ever needing to install another extension.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Coupon Finder Built In Feature](/articles/chrome-coupon-finder-built-in-feature)
+- [Chrome vs Firefox Memory Usage Test 2026](/articles/chrome-vs-firefox-memory-usage-test-2026)
+- [chrome proxy settings how to configure](/articles/chrome-proxy-settings-how-to-configure)

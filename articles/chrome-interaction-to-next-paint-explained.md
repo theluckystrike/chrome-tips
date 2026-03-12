@@ -57,3 +57,9 @@ In these situations, you have limited options. You can try using a different bro
 Chrome interaction to next paint explained ultimately comes down to this: it measures how quickly websites respond to you, and while you can optimize your browser settings, the real improvement comes from website developers optimizing their code. By understanding this metric, you can better diagnose browsing issues and make informed decisions about how you use Chrome.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Accessibility Features You Didn't Know About](/articles/chrome-accessibility-features-you-didnt-know-about)
+- [Chrome Cookies vs Cache Difference Explained](/articles/chrome-cookies-vs-cache-difference-explained)
+- [Chromebook Parental Controls How to Set Up](/articles/chromebook-parental-controls-how-to-set-up)

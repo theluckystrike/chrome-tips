@@ -64,3 +64,9 @@ Using **Tab Suspender Pro** is an excellent way to keep your browser responsive.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome DevTools Changes Panel to Track Edits](/articles//chrome-devtools-changes-panel-track-edits/)
+- [Chrome Flags That Actually Help Performance](/articles/chrome-flags-that-actually-help-performance)
+- [Chrome Third Party Cookies What Happens When Blocked](/articles/chrome-third-party-cookies-what-happens-when-blocked)

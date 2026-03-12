@@ -74,3 +74,9 @@ The best chrome extensions for musicians and producers are the ones that address
 Start with one or two extensions that address your biggest pain points. Once you see how they help, you can add more over time. The goal is to make your browser work for you rather than against you, so you can focus on what matters most: creating music.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Slow on Android Fix](/articles/chrome-slow-on-android-fix)
+- [chrome logpoints debug without console log](/articles/chrome-logpoints-debug-without-console-log)
+- [Chrome Guest Mode Explained](/articles/chrome-guest-mode-explained)

@@ -70,3 +70,9 @@ As you find systems that work for you, gradually add more tools to address other
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Mouse Gestures Navigation](/articles/chrome-extensions-for-mouse-gestures-navigation)
+- [Chrome Lazy Loading Images Explained](/articles/chrome-lazy-loading-images-explained)
+- [How to Restore Closed Tabs in Chrome](/articles/chrome-restore-closed-tabs-guide)

@@ -108,3 +108,9 @@ For casual writing (comments, messages, quick emails), Chrome's basic spellcheck
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
+
+## Related Articles
+
+- [Chrome for Runway ML Web App](/articles/chrome-for-runway-ml-web-app)
+- [Chrome Extensions For Color Accessibility Checker](/articles//articles/chrome-extensions-for-color-accessibility-checker/)
+- [Chrome Was Fast, Now It's Slow - What Happened?](/articles/chrome-was-fast-now-its-slow-what-happened)

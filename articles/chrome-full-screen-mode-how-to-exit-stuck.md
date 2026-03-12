@@ -60,3 +60,9 @@ If you continue to experience issues with fullscreen or other browser behavior, 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome PDF Viewer Settings: Complete Customization Guide](/articles/chrome-pdf-viewer-settings)
+- [Chrome for Clearing Browsing Data Automatically](/articles/chrome-for-clearing-browsing-data-automatically)
+- [Best Privacy Chrome Extensions 2026](/articles/best-privacy-chrome-extensions-2026)

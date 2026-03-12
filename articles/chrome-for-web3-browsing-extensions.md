@@ -64,3 +64,9 @@ The Web3 space evolves quickly, and new extensions appear regularly. Keep an eye
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Move Tabs Between Profiles](/articles/chrome-move-tabs-between-profiles)
+- [Chrome Safe Browsing Data What Google Sees](/articles/chrome-safe-browsing-data-what-google-sees)
+- [Chrome Extensions For Brainstorming](/articles//articles/chrome-extensions-for-brainstorming/)

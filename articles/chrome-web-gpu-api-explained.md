@@ -66,3 +66,9 @@ The combination of powerful new web technologies like Web GPU and smart resource
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained)
+- [Chrome Extension for Translating Selected Text](/articles/chrome-extension-for-translating-selected-text)
+- [Chrome Attribution Reporting What It Means for Users](/articles/chrome-attribution-reporting-what-it-means-for-users)

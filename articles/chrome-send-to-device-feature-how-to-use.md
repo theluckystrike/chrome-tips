@@ -79,3 +79,9 @@ If you find yourself frequently sending tabs between devices, you might also ben
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome for Redfin Web App Tips](/articles/chrome-for-redfin-web-app-tips)
+- [Chrome for Resume Building Web Tools](/articles/chrome-for-resume-building-web-tools)
+- [Best Chrome Extensions For Journalists](/articles/best-chrome-extensions-for-journalists)

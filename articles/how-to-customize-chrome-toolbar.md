@@ -74,3 +74,9 @@ Remember that your needs may change over time. Periodically review your toolbar 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [chrome topics api explained simply](/articles/chrome-topics-api-explained-simply)
+- [How to Set Up Chrome Profiles for Work and Personal](/articles/how-to-set-up-chrome-profiles-for-work-and-personal)
+- [chrome coupons in address bar feature](/articles/chrome-coupons-in-address-bar-feature)

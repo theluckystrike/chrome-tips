@@ -71,3 +71,9 @@ One more tip that helps with browser extensions overall: keeping too many tabs o
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Shape Detection API – Barcode, Face & Text Recognition Directly in Your Browser](/articles/chrome-shape-detection-barcode-face-text)
+- [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop)
+- [Chrome Popover API Explained](/articles/chrome-popover-api-explained)

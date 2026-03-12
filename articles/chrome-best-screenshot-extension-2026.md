@@ -80,3 +80,9 @@ To get the most out of your screenshot extension, consider these practical tips.
 **Organize regularly**: If you take many screenshots, set aside time periodically to organize and clean up your collection. Delete what you no longer need and properly archive important captures.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for API Testing Simple](/articles/chrome-extensions-for-api-testing-simple)
+- [How to See Chrome Tabs From Other Devices](/articles/chrome-tabs-from-other-devices-how-to-see)
+- [Chrome Beacon API for Analytics](/articles/chrome-beacon-api-for-analytics)

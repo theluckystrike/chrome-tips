@@ -66,3 +66,9 @@ The Chrome Topics API and Privacy Sandbox represent ongoing changes to how your 
 By understanding what the Chrome Topics API is and how it works, you are already ahead of most users. Take a few minutes to review your settings, decide what level of tracking you are comfortable with, and make the changes that work best for you. Your browsing privacy is worth the effort.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Web Codec API Video Processing](/articles/chrome-web-codec-api-video-processing)
+- [Chrome for Web3 Browsing Extensions](/articles/chrome-for-web3-browsing-extensions)
+- [Chrome Status Invalid Image Hash Fix](/articles/chrome-status-invalid-image-hash-fix)

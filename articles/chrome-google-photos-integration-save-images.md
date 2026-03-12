@@ -70,3 +70,9 @@ The key is to pick one method and stick with it until it becomes automatic. Do n
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix)
+- [chrome data saver mode is it still available](/articles//chrome-data-saver-mode-is-it-still-available/)
+- [firefox vs chrome battery](/articles/firefox-vs-chrome-battery)

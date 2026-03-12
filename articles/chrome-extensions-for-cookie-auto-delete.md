@@ -58,3 +58,9 @@ The key is finding the right balance between convenience and privacy. Whitelisti
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Fix Chrome Downloads Stuck at 100 Percent](/articles/chrome-downloads-stuck-at-100-percent)
+- [Chrome Extension Manifest V3 What Users Need to Know](/articles/chrome-extension-manifest-v3-what-users-need-to-know)
+- [Chrome Safety Check What It Does](/articles/chrome-safety-check-what-it-does)

@@ -77,3 +77,9 @@ Keep your cables organized and consider getting a monitor stand if desk space is
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Compute Pressure API Explained: What It Means for Your Browser](/articles/chrome-compute-pressure-api-explained)
+- [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/articles/should-i-switch-to-edge-for-speed)
+- [Chrome for Kindle Cloud Reader Setup - A Complete Guide](/articles/chrome-for-kindle-cloud-reader-setup)

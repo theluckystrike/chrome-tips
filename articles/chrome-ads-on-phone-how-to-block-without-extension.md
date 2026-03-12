@@ -76,3 +76,9 @@ It is important to set realistic expectations. Even with all these methods in pl
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Slow on MacBook Pro M1? Here's How to Fix It](/articles/chrome-slow-on-macbook-pro-m1)
+- [Chrome Network Settings Reset How To](/articles/chrome-network-settings-reset-how-to)
+- [Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps](/articles/chrome-slow-on-4gb-ram-laptop)

@@ -65,3 +65,9 @@ To create a new profile, click the person icon in the upper right corner of Chro
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Eyedropper API Explained](/articles/chrome-eyedropper-api-explained)
+- [Chrome Custom Search Engines How to Add](/articles//chrome-custom-search-engines-how-to-add/)
+- [Chrome Related Website Sets Explained](/articles/chrome-related-website-sets-explained)

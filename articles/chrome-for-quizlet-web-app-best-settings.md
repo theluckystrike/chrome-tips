@@ -85,3 +85,9 @@ Getting the best performance from Chrome for Quizlet does not require technical 
 Remember to check Chrome's task manager if you notice slow performance, and close any tabs or extensions that are using too much memory. With these simple adjustments, your Quizlet study sessions will feel smoother, load faster, and help you focus on what matters most, learning your material.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Open Source Parts Explained](/articles/chrome-open-source-parts-explained)
+- [Chrome Passkeys vs Passwords Comparison](/articles/chrome-passkeys-vs-passwords-comparison)
+- [Chrome Default Apps Settings: A Complete Guide](/articles//chrome-default-apps-settings/)

@@ -82,3 +82,9 @@ To reset Chrome, go to Settings, click on "Reset settings" on the left side, and
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Takes Forever to Load Pages](/articles/chrome-takes-forever-to-load-pages)
+- [Chrome Extensions for Speed Reading](/articles/chrome-extensions-for-speed-reading)
+- [Chrome Malware Removal Without Antivirus](/articles/chrome-malware-removal-without-antivirus)

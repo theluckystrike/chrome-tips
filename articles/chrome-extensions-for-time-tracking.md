@@ -80,3 +80,9 @@ If you bill clients for your time, look for an extension that generates detailed
 Remember that the best time tracking extension is the one you will actually use. Start with a simple option that fits naturally into your workflow, and you will be more likely to stick with it over time.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for xbox cloud gaming optimization](/articles/chrome-for-xbox-cloud-gaming-optimization)
+- [Chrome DevTools Emulate Color Schemes](/articles/chrome-devtools-emulate-color-schemes)
+- [Chrome for Saving Articles to Read Later](/articles/chrome-for-saving-articles-to-read-later)

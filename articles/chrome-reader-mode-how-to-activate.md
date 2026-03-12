@@ -97,3 +97,8 @@ Activating chrome reader mode is easier than many users expect. Whether you use 
 Take a few minutes to install a reader mode extension from the Chrome Web Store. Once it is set up, you will wonder how you ever managed without it. Distraction-free reading is just a click away, and your eyes will thank you for it.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+
+- [Chrome Extensions for Photographers 2026](/articles/chrome-extensions-for-photographers-2026)
+- [Chrome Canary vs Stable Difference Explained](/articles/chrome-canary-vs-stable-difference-explained)
+- [Best Chrome Extensions for GitHub](/articles/best-chrome-extensions-for-github)

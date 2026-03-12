@@ -124,3 +124,9 @@ For most users, the benefits far outweigh the drawbacks. The ability to carry yo
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for instacart web app best settings](/articles/chrome-for-instacart-web-app-best-settings)
+- [Chrome Flags Best Performance Settings](/articles/chrome-flags-best-performance-settings)
+- [Chrome for Language Learning Extensions](/articles/chrome-for-language-learning-extensions)

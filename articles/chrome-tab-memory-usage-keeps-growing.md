@@ -95,3 +95,9 @@ Upgrading your computer's RAM, if possible, provides the most direct solution. E
 For users who must use Chrome, combining multiple solutions typically works best. Enable Memory Saver, use Tab Suspender Pro, keep extensions to a minimum, and develop good tab management habits. This multi-layered approach addresses the various factors that cause chrome tab memory usage keeps growing.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Binance Web Trading Tips](/articles/chrome-for-binance-web-trading-tips)
+- [chrome extensions for ruler measurement](/articles/chrome-extensions-for-ruler-measurement)
+- [How to Inspect and Debug WebSocket Connections in Chrome](/articles/chrome-websocket-inspect-debug)

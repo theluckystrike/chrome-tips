@@ -74,3 +74,9 @@ Finding similar images has become much easier thanks to these dedicated Chrome e
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Shadow DOM What It Is](/articles/chrome-shadow-dom-what-it-is)
+- [chrome shared storage api privacy ads](/articles/chrome-shared-storage-api-privacy-ads)
+- [Chrome Payment Methods How to Remove](/articles/chrome-payment-methods-how-to-remove)

@@ -58,3 +58,9 @@ Remember that browser-based tools continue improving as developers add new featu
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome browser process vs tab process explained](/articles/chrome-browser-process-vs-tab-process-explained)
+- [Chrome Hardware Acceleration Should I Turn On or Off](/articles/chrome-hardware-acceleration-should-i-turn-on-or-off)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/articles/chrome-using-too-much-battery-on-laptop-fix)

@@ -139,3 +139,9 @@ Start with the method that matches your technical comfort level. If you want som
 Take a few minutes to set up your preferred method, and enjoy the freedom of a more focused browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Guest Browsing for Shared Computers](/articles/chrome-guest-browsing-for-shared-computers)
+- [chrome wallpaper extensions best](/articles/chrome-wallpaper-extensions-best)
+- [chrome for price drop alert extensions](/articles/chrome-for-price-drop-alert-extensions)

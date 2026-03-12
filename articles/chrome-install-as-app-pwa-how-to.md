@@ -54,3 +54,9 @@ For those who want even more control over their browser experience, there are ex
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Clean Install: What to Backup First](/articles/chrome-clean-install-what-to-backup-first)
+- [Chrome Sync Across Devices How It Works](/articles/chrome-sync-across-devices-how-it-works)
+- [chrome text scaling for low vision users](/articles/chrome-text-scaling-for-low-vision-users)

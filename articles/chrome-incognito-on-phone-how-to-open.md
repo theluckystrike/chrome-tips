@@ -72,3 +72,9 @@ Incognito mode is a helpful feature for anyone who wants to browse privately, te
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Best Chrome Extensions for Instagram](/articles/best-chrome-extensions-for-instagram)
+- [Chrome for Zoom in Browser Best Settings](/articles/chrome-for-zoom-in-browser-best-settings)
+- [chrome location services how to turn off](/articles/chrome-location-services-how-to-turn-off)

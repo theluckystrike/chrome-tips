@@ -121,3 +121,9 @@ If you've tried all these steps and Chrome still freezes regularly, consider:
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome for Rain Sounds Background](/articles/chrome-for-rain-sounds-background)
+- [Chrome Media Autoplay How to Block](/articles/chrome-media-autoplay-how-to-block)
+- [Chrome Vibration API: A Complete Guide for Mobile Web Developers](/articles/chrome-vibration-api-mobile-web)

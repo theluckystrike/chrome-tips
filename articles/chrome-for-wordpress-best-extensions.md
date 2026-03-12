@@ -70,3 +70,9 @@ Managing a WordPress site involves juggling many tasks, and the right Chrome ext
 Remember that each extension you add uses some browser resources, so it is worth periodically reviewing which ones you actually use. The goal is to build a streamlined toolkit that helps you work smarter, not one that slows you down.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Slow on Windows 11 After Update: Practical Fixes](/articles/chrome-slow-on-windows-11-after-update)
+- [Chrome DNS Probe Finished Nxdomain Fix](/articles/chrome-dns-probe-finished-nxdomain-fix)
+- [Chrome Shopping List Feature How to Use](/articles/chrome-shopping-list-feature-how-to-use)

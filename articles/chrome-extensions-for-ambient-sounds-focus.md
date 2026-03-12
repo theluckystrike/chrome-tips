@@ -68,3 +68,9 @@ Take some time to experiment with different sounds and see what works for you. E
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Translation On Hover Extensions](/articles/chrome-for-translation-on-hover-extensions)
+- [Chrome Block Inappropriate Content for Kids](/articles/chrome-block-inappropriate-content-for-kids)
+- [Why Does Chrome Use So Much CPU](/articles/why-does-chrome-use-so-much-cpu)

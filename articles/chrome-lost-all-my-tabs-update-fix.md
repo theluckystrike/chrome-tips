@@ -52,3 +52,9 @@ In the future, consider building a habit of bookmarking important pages or using
 Losing tabs after an update is annoying, but with the right habits and tools, you can minimize the risk and recover more easily when it happens.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools)
+- [Chrome Extensions For Canvas Fingerprint Blocker](/articles//articles/chrome-extensions-for-canvas-fingerprint-blocker/)
+- [Chrome Extensions for News Aggregator](/articles/chrome-extensions-for-news-aggregator)

@@ -74,3 +74,9 @@ Text to speech technology has made it easier than ever to consume web content in
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Status Invalid Image Hash Fix](/articles/chrome-status-invalid-image-hash-fix)
+- [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs)
+- [chrome for monday.com best extensions](/articles/chrome-for-mondaycom-best-extensions)

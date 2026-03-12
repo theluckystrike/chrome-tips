@@ -93,3 +93,9 @@ If you want to get even more out of Chrome, consider installing extensions that 
 Setting your default browser is one of those small changes that makes a big difference in your daily computer use. It takes just a few minutes to set up, and the time savings add up every single day.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Address Bar Tips and Tricks](/articles/chrome-address-bar-tips-and-tricks)
+- [Chrome Reading Mode — How to Enable and Use It](/articles/chrome-reading-mode-how-to-enable)
+- [Chrome Making Your Laptop Fan Loud? Here's How to Fix It](/articles/chrome-making-laptop-fan-loud)

@@ -113,3 +113,9 @@ Saving webpages as MHTML files in Chrome is a straightforward process that opens
 Give it a try with a few of your favorite sites—you'll be surprised how convenient it is to have a personal offline library at your fingertips.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Flags Best Performance Settings](/articles/chrome-flags-best-performance-settings)
+- [Chrome YouTube Keyboard Shortcuts](/articles/chrome-youtube-keyboard-shortcuts)
+- [Best Chrome Extensions For Journalists](/articles/best-chrome-extensions-for-journalists)

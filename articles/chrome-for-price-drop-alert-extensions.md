@@ -78,3 +78,9 @@ It is also a good idea to occasionally check that your extensions are still work
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Stop Chrome from Redirecting to HTTPS](/articles/how-to-stop-chrome-from-redirecting-to-https)
+- [Chrome GPU Process High CPU Fix](/articles/chrome-gpu-process-high-cpu-fix)
+- [Chrome Network Speed in Developer Tools](/articles/chrome-network-speed-in-developer-tools)

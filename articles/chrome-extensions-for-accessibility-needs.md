@@ -88,3 +88,9 @@ Your needs may change over time. An extension that seems unnecessary today might
 Remember: accessibility isn't about finding a single solution—it's about building a personal toolkit that makes the web work for you.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for stylus and pen input settings](/articles/chrome-for-stylus-and-pen-input-settings)
+- [Chrome Blocked Download How to Unblock](/articles/chrome-blocked-download-how-to-unblock)
+- [Chrome JetStream Score What Is Good](/articles/chrome-jetstream-score-what-is-good)

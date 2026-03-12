@@ -118,3 +118,9 @@ While you're optimizing your animations, consider your overall browser performan
 Master the Animations panel, and you'll ship more polished, professional web experiences—all while spending less time troubleshooting animation issues.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome 64 bit vs 32 bit How to Check](/articles/chrome-64-bit-vs-32-bit-how-to-check)
+- [Chrome Keyboard Shortcuts for Power Users](/articles/chrome-keyboard-shortcuts-for-power-users)
+- [Chrome Lazy Loading Images Native: How It Works and Why You Should Use It](/articles/chrome-lazy-loading-images-native)

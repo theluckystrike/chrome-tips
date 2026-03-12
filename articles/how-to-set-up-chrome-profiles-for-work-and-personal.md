@@ -68,3 +68,9 @@ Chrome profiles are a powerful feature that can transform how you use your brows
 Give it a try and see how much easier your browsing becomes when everything has its proper place.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Turn Off Chrome Notifications on Android](/articles/how-to-turn-off-chrome-notifications-android)
+- [Chrome CDP Protocol Explained Simply](/articles/chrome-cdp-protocol-explained-simply)
+- [Chrome Dns Over Https Setup](/articles/chrome-dns-over-https-setup)

@@ -88,3 +88,9 @@ Cookies do not have to be confusing or mysterious. They are simply small files t
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome High Memory Usage Windows 11](/articles/chrome-high-memory-usage-windows-11)
+- [chrome web apps how to install](/articles/chrome-web-apps-how-to-install)
+- [Chrome Accessibility Tree Guide](/articles/chrome-accessibility-tree-guide)

@@ -73,3 +73,9 @@ Everyone's workflow is different, so feel free to adapt these suggestions to fit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for rosetta stone web tips](/articles/chrome-for-rosetta-stone-web-tips)
+- [How to Sync Everything Between Your Phone and Laptop with Chrome](/articles/chrome-sync-everything-between-phone-and-laptop)
+- [Chrome Extensions for Text Comparison Diff Tool](/articles/chrome-extensions-for-text-comparison-diff-tool)

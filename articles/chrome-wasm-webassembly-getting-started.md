@@ -135,3 +135,9 @@ The key is to start simple, experiment with the examples provided in this guide,
 WebAssembly represents the future of web development, and learning it now positions you to build faster, more capable web applications. Start experimenting today, and you will see the benefits in your projects sooner than you think.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Email Productivity](/articles//articles/chrome-extensions-for-email-productivity/)
+- [chrome new tab page how to customize](/articles/chrome-new-tab-page-how-to-customize)
+- [Chrome Devtools Color Picker How to Use](/articles//chrome-devtools-color-picker-how-to-use/)

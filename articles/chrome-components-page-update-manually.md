@@ -66,3 +66,9 @@ Keeping your Chrome components updated is a simple maintenance task that can pre
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Err Connection Timed Out Fix](/articles/chrome-err-connection-timed-out-fix)
+- [chrome for twitch streaming setup in browser](/articles/chrome-for-twitch-streaming-setup-in-browser)
+- [Must Have Chrome Extensions for Students](/articles/must-have-chrome-extensions-for-students)

@@ -90,3 +90,9 @@ You can also type **chrome://downloads** in the address bar or click the **Downl
 Once you start using the keyboard shortcut, you will wonder how you ever managed without it. It is one of those small time-savers that makes using Chrome much more convenient.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Android Dark Mode How to Enable](/articles/chrome-android-dark-mode-how-to-enable)
+- [How to Fix Slow Slack Web App in Chrome](/articles/chrome-slack-web-app-slow-fix)
+- [Chrome for Real Estate Browsing Extensions](/articles/chrome-for-real-estate-browsing-extensions)

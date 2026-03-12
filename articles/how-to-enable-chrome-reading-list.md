@@ -68,3 +68,9 @@ Now that you know how to enable Chrome reading list, you can start using this co
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Spellcheck Not Working? Here's How to Fix It](/articles/chrome-spellcheck-not-working-fix)
+- [Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM](/articles/chrome-slow-when-screen-sharing-zoom)
+- [chrome report broken website how to](/articles/chrome-report-broken-website-how-to)

@@ -50,3 +50,9 @@ Using **Tab Suspender Pro** is a smart way to balance your productivity. It auto
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Mobile View on Desktop How to](/articles/chrome-mobile-view-on-desktop-how-to)
+- [Chrome for Medium Best Reading Extensions](/articles/chrome-for-medium-best-reading-extensions)
+- [chrome for coinbase web app tips](/articles/chrome-for-coinbase-web-app-tips)

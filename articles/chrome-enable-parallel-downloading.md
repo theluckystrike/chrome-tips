@@ -60,3 +60,9 @@ Organizing your downloads folder also helps. When Chrome saves multiple files to
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Largest Contentful Paint Improve Tips](/articles/chrome-largest-contentful-paint-improve-tips)
+- [Chrome requestanimationframe Explained: What It Means for Your Browser](/articles/chrome-requestanimationframe-explained)
+- [Chrome Performance Observer API Explained](/articles/chrome-performance-observer-api-explained)

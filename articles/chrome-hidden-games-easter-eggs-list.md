@@ -53,3 +53,9 @@ While hidden games are fun, keeping your browser running smoothly is important f
 Combining the fun of discovering hidden easter eggs with good browser maintenance habits will give you the best of both worlds entertainment and performance.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Netflix Best Quality Settings](/articles/chrome-for-netflix-best-quality-settings)
+- [Chrome Keeps Opening New Tabs By Itself Virus](/articles/chrome-keeps-opening-new-tabs-by-itself-virus)
+- [Chrome Tab Discard What It Means](/articles/chrome-tab-discard-what-it-means)

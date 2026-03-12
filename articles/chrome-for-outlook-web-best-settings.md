@@ -72,3 +72,9 @@ If you use Chrome for both personal and work purposes, consider creating a separ
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Open Source Parts Explained](/articles/chrome-open-source-parts-explained)
+- [Chrome Open Link in New Tab Shortcut](/articles/chrome-open-link-in-new-tab-shortcut)
+- [Chrome Tabs Flickering and Glitching Fix](/articles/chrome-tabs-flickering-and-glitching)

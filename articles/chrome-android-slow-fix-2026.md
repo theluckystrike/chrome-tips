@@ -89,3 +89,9 @@ When you tap on a suspended tab, it reloads right away, so you never lose access
 Finally, make sure your Android operating system is up to date. System updates often include performance improvements that can help Chrome and other apps run better. Go to your phone's Settings, look for System Updates, and install any available updates.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser)
+- [chrome privacy sandbox explained for users](/articles/chrome-privacy-sandbox-explained-for-users)
+- [Chrome Extensions For College Professors](/articles//articles/chrome-extensions-for-college-professors/)

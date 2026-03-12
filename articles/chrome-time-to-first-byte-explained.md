@@ -80,3 +80,9 @@ When websites are slow, it helps to know whether the problem is on your end or t
 
 >>>>>>> qa/loop-5
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Academic Paper Reading Extensions](/articles/chrome-for-academic-paper-reading-extensions)
+- [Chrome Set Methods: Union and Intersection Made Simple](/articles/chrome-set-methods-union-intersection)
+- [Chrome Extensions for Meta Tag Analyzer](/articles/chrome-extensions-for-meta-tag-analyzer)

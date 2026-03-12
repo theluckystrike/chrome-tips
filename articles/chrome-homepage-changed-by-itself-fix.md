@@ -54,3 +54,9 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome for Bibliography Management Extensions](/articles/chrome-for-bibliography-management-extensions)
+- [How to Stop Chrome from Suspending My Tabs](/articles/how-to-stop-chrome-from-suspending-my-tabs)
+- [Chrome Pop Ups on Phone How to Block](/articles/chrome-pop-ups-on-phone-how-to-block)

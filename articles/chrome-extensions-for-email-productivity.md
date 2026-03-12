@@ -74,3 +74,9 @@ Remember that more extensions is not always better. Each extension adds some ove
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Substack Reading Tips](/articles/chrome-for-substack-reading-tips)
+- [Chrome DevTools Layers Panel 3D View](/articles/chrome-devtools-layers-panel-3d-view)
+- [Chrome Extensions for Website Speed Test](/articles/chrome-extensions-for-website-speed-test)

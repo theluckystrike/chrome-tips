@@ -70,3 +70,9 @@ Now you know exactly how to allow location access for one site in Chrome. Whethe
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Why Does Chrome Open So Many Processes](/articles/why-does-chrome-open-so-many-processes)
+- [Chrome for LinkedIn Best Extensions](/articles/chrome-for-linkedin-best-extensions)
+- [chrome privacy sandbox explained for users](/articles/chrome-privacy-sandbox-explained-for-users)

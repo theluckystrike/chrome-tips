@@ -80,3 +80,9 @@ Many users find that after making the switch, they rarely miss the paid features
 The bottom line is that you have options. Before signing up for another monthly subscription, spend a few minutes exploring what free Chrome extensions can do. You might be surprised by how much you can accomplish without paying anything at all.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Canvas LMS Best Extensions](/articles/chrome-for-canvas-lms-best-extensions)
+- [Chrome Spell Check Adding Custom Words](/articles/chrome-spell-check-adding-custom-words)
+- [Chrome Web Vitals What They Mean](/articles/chrome-web-vitals-what-they-mean)

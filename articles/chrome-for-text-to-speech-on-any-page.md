@@ -67,3 +67,9 @@ The beauty of having chrome for text to speech on any page is that it transforms
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Web Annotation](/articles/chrome-extensions-for-web-annotation)
+- [Chrome Extensions For Code Snippet Manager](/articles//articles/chrome-extensions-for-code-snippet-manager/)
+- [Chrome Extensions Disabled by Administrator Fix](/articles/chrome-extensions-disabled-by-administrator-fix)

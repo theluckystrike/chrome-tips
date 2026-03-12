@@ -68,3 +68,9 @@ Take a moment to explore the options in the Chrome Web Store, install a reader v
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Scaling Blurry on External Monitor Fix](/articles/chrome-scaling-blurry-on-external-monitor-fix)
+- [chrome privacy sandbox what regular users should know](/articles/chrome-privacy-sandbox-what-regular-users-should-know)
+- [chrome color mix function css](/articles/chrome-color-mix-function-css)

@@ -76,3 +76,9 @@ The key is finding an extension that matches your workflow. Most of these tools 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome for Facebook Best Extensions](/articles/chrome-for-facebook-best-extensions)
+- [How to Improve Chrome WebGL Performance](/articles/chrome-webgl-performance-how-to-improve)
+- [Chrome Extensions for Raindrop IO](/articles/chrome-extensions-for-raindrop-io)

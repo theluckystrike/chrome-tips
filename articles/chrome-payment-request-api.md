@@ -137,3 +137,8 @@ The security features built into the API, including tokenization, explicit user 
 As payment technology continues to evolve, the Payment Request API will undoubtedly play an increasingly important role in how we complete online purchases. Whether you're a user looking to understand how your browser handles payments or a developer building the next generation of e-commerce experiences, understanding this API provides valuable insight into the future of web-based commerce.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+
+- [Laptop Freezing When Opening Chrome: Practical Solutions That Actually Work](/articles/laptop-freezing-when-opening-chrome)
+- [Chrome Extensions For Eye Strain Protection](/articles//articles/chrome-extensions-for-eye-strain-protection/)
+- [Chrome Extensions for Mockup Creator](/articles/chrome-extensions-for-mockup-creator)

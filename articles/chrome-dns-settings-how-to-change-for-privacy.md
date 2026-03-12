@@ -63,3 +63,9 @@ Remember that DNS settings are just one piece of the privacy puzzle. Your intern
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Check Website Speed in Chrome](/articles/how-to-check-website-speed-in-chrome)
+- [Chrome Extensions for Microsoft Teams](/articles/chrome-extensions-for-microsoft-teams)
+- [Chrome for White Noise While Working](/articles/chrome-for-white-noise-while-working)

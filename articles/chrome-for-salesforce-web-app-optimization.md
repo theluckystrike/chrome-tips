@@ -76,3 +76,9 @@ Using a tool like Tab Suspender Pro can help you maintain these habits automatic
 By paying attention to how you use your browser and making a few intentional adjustments, you can get the most out of Salesforce without dealing with frustration from slow performance.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Secure DNS: What It Is and How to Enable](/articles/chrome-secure-dns-what-it-is-and-how-to-enable)
+- [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/articles/i-have-100-tabs-open-chrome-is-dying)
+- [How to Manage Addresses in Chrome Autofill](/articles/chrome-autofill-manage-addresses)

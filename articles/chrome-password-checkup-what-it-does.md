@@ -77,3 +77,9 @@ If you find that managing many tabs helps you stay productive, consider using to
 Make it a habit to check periodically or respond right away when Chrome alerts you. Your online safety is worth those few minutes of effort.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord/)
+- [Chrome Emoji Keyboard Shortcut How to Use](/articles/chrome-emoji-keyboard-shortcut-how-to-use)
+- [Chrome Reading Mode — How to Enable and Use It](/articles/chrome-reading-mode-how-to-enable)

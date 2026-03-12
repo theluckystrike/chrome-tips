@@ -85,3 +85,9 @@ Remember that no browser settings can make you completely invisible online, but 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Cybersecurity Professionals](/articles/best-chrome-extensions-for-cybersecurity-professionals)
+- [chrome extensions for graphic designers](/articles/chrome-extensions-for-graphic-designers)
+- [Chrome Audio Fingerprinting What It Is](/articles/chrome-audio-fingerprinting-what-it-is)

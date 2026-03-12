@@ -62,3 +62,9 @@ Certain extensions might also prevent tabs from being paused properly. If you no
 Memory Saver handles the heavy lifting so you can focus on your work without worrying about managing tabs manually. Combined with good browsing habits like closing unused tabs and restarting Chrome periodically, you will have a much smoother browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Address Bar Autocomplete Disable](/articles/chrome-address-bar-autocomplete-disable)
+- [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management)
+- [Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps](/articles/chrome-slow-on-4gb-ram-laptop)

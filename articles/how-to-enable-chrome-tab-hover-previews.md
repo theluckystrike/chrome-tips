@@ -58,3 +58,9 @@ Give yourself a little time to get used to the new feature. At first, you might 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained)
+- [Chrome Bookmark Manager Best Extensions 2026](/articles/chrome-bookmark-manager-best-extensions-2026)
+- [Chrome for Deepl Translator Extension](/articles/chrome-for-deepl-translator-extension)

@@ -62,3 +62,9 @@ Tab Suspender Pro is another useful Chrome extension that helps manage your brow
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Font Size How to Change Permanently](/articles/chrome-font-size-how-to-change-permanently)
+- [chrome for price drop alert extensions](/articles/chrome-for-price-drop-alert-extensions)
+- [Best Chrome Extensions for Marketing Professionals](/articles/best-chrome-extensions-for-marketing-professionals)

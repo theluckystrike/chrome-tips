@@ -76,3 +76,9 @@ Finally, keep an eye on how many programs you have running in the background. Ot
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Web MIDI API Explained](/articles/chrome-web-midi-api-explained)
+- [Chrome for PDF Editing Best Extensions](/articles/chrome-for-pdf-editing-best-extensions)
+- [Chrome Extensions for Grammar Checking](/articles/chrome-extensions-for-grammar-checking)

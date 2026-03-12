@@ -78,3 +78,9 @@ Learning chrome text only mode how to browse is about finding what works best fo
 Try different methods to see which fits your lifestyle. Whether you want to save data, speed up your browser, or simply enjoy a cleaner reading experience, there is a solution that can help. Text only browsing might just change how you use the web.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome on raspberry pi how to install](/articles/chrome-on-raspberry-pi-how-to-install)
+- [Chrome Flags to Enable for Speed](/articles/chrome-flags-to-enable-for-speed)
+- [Chrome File Handling How to Change Default App](/articles/chrome-file-handling-how-to-change-default-app)

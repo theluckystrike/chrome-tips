@@ -138,3 +138,9 @@ Here's what to try, in order:
 Most users find the issue is resolved by step 3 or 4. Try these solutions in order, and you should have your password autofill working again in no time.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Arxiv Paper Reader Extensions](/articles/chrome-for-arxiv-paper-reader-extensions)
+- [Chrome High CPU Usage When Watching Videos: Practical Fixes](/articles/chrome-high-cpu-usage-when-watching-videos)
+- [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension)

@@ -78,3 +78,9 @@ Managing multiple email accounts in Chrome doesn't have to be frustrating. Built
 Give these methods a try and see which ones work best for how you use email. With the right tools and habits, managing multiple accounts becomes much easier.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Devtools Security Panel Explained](/articles/chrome-devtools-security-panel-explained)
+- [Chrome Extensions for Mouse Gestures Navigation](/articles/chrome-extensions-for-mouse-gestures-navigation)
+- [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix)

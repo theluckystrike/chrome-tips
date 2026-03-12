@@ -74,3 +74,9 @@ For users who frequently need to recover closed tabs, consider enabling Chrome's
 The chrome reopen closed tab shortcut is a simple but powerful tool that every Chrome user should know. Whether you prefer using Ctrl+Shift+T on Windows or Cmd+Shift+T on Mac, or you prefer using the right click menu or history, there are multiple ways to recover a closed tab. By understanding these methods and incorporating good tab management habits into your browsing routine, you can work more efficiently and avoid the stress of losing important pages.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Changing User Agent](/articles/chrome-extension-for-changing-user-agent)
+- [Chrome Zoom Too Big How to Fix](/articles/chrome-zoom-too-big-how-to-fix)
+- [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners)

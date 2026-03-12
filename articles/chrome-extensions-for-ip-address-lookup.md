@@ -60,3 +60,9 @@ Remember that using a VPN will change your visible IP address to one associated 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Lite Mode Data Saver Replacement](/articles/chrome-lite-mode-data-saver-replacement)
+- [Chrome Layers Panel Explained](/articles/chrome-layers-panel-explained)
+- [Chrome High Memory Usage Windows 11](/articles/chrome-high-memory-usage-windows-11)

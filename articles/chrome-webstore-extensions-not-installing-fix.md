@@ -64,3 +64,9 @@ Installing extensions from the official Chrome WebStore remains the safest appro
 Most extension installation problems are temporary and fixable. With patience and the right troubleshooting steps, you can get back to customizing your browser with the tools you need.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Address Bar Not Showing Full URL Fix](/articles/chrome-address-bar-not-showing-full-url-fix)
+- [Chrome Pop Ups How to Block All](/articles/chrome-pop-ups-how-to-block-all)
+- [Chrome Ai Theme Generator How To Use](/articles/chrome-ai-theme-generator-how-to-use)

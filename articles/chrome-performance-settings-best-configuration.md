@@ -93,3 +93,9 @@ Beyond the main settings, a few additional habits can keep Chrome running smooth
 Avoid installing too many extensions. Review your installed extensions periodically and remove any that you no longer use. Each extension adds overhead, and even disabled extensions can sometimes run background processes.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Web Codec API Video Processing](/articles/chrome-web-codec-api-video-processing)
+- [chrome on linux best version 2026](/articles/chrome-on-linux-best-version-2026)
+- [Chrome for Stable Diffusion Web UI Tips](/articles/chrome-for-stable-diffusion-web-ui-tips)

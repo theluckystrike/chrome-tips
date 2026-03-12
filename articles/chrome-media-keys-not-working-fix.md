@@ -66,3 +66,9 @@ Some users also find success by resetting Chrome to its default settings. Go to 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Download Files on Phone Where to Find](/articles/chrome-download-files-on-phone-where-to-find)
+- [Chrome Mobile View on Desktop How to](/articles/chrome-mobile-view-on-desktop-how-to)
+- [chrome for site search from address bar](/articles/chrome-for-site-search-from-address-bar)

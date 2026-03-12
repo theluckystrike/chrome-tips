@@ -140,3 +140,9 @@ Having your bookmarks disappear after a Chrome update is alarming, but the solut
 The best defense is a good offense: enable Chrome Sync, export your bookmarks periodically, and keep a backup file in a safe location. That way, even if an update causes issues, you're only a few clicks away from getting everything back.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Speed Reading Extensions](/articles/chrome-for-speed-reading-extensions)
+- [chrome global privacy control what it does](/articles/chrome-global-privacy-control-what-it-does)
+- [Chrome DevTools Protocol Monitor](/articles/chrome-protocol-monitor-guide)

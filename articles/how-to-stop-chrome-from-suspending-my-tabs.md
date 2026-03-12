@@ -120,3 +120,9 @@ Remember, Chrome's tab suspension is trying to help you, but it doesn't always k
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Decorators JavaScript Proposal: What You Need to Know](/articles//chrome-decorators-javascript-proposal/)
+- [chrome multi language setup how to](/articles/chrome-multi-language-setup-how-to)
+- [Chrome Cache First vs Network First Strategy](/articles/chrome-cache-first-vs-network-first-strategy)

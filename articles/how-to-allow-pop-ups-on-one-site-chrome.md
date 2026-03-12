@@ -74,3 +74,9 @@ If you find yourself frequently adjusting settings for different websites or wan
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Shared Storage and Cross-Site Data Explained](/articles/chrome-shared-storage-cross-site-data)
+- [How to Downgrade Chrome to an Older Version (And Why You Probably Shouldn't)](/articles/how-to-downgrade-chrome-to-older-version)
+- [Chrome for Fitness Tracking Web Apps](/articles/chrome-for-fitness-tracking-web-apps)

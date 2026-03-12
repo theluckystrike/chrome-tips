@@ -60,3 +60,9 @@ If you find that your browser is still running slowly despite keeping a reasonab
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome for Spotify Web Player Optimization](/articles/chrome-for-spotify-web-player-optimization)
+- [How to Use Chrome Device Emulation to Test Your Mobile Website](/articles//chrome-device-emulation-test-mobile-website/)
+- [Chrome Autocomplete Wrong Suggestions How to Fix](/articles/chrome-autocomplete-wrong-suggestions-how-to-fix)

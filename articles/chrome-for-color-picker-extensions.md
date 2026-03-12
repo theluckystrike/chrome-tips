@@ -75,3 +75,9 @@ Once you have the right color picker extension installed, you will wonder how yo
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome zoom meeting not working fix](/articles/chrome-zoom-meeting-not-working-fix)
+- [Chrome Startup Pages How to Set Multiple](/articles/chrome-startup-pages-how-to-set-multiple)
+- [How Many Chrome Extensions Is Too Many](/articles/how-many-chrome-extensions-is-too-many)

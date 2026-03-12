@@ -132,3 +132,9 @@ For users who want to optimize their browser performance alongside security, too
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Best Settings for College Students](/articles/chrome-best-settings-for-college-students)
+- [Chrome Private Aggregation API Explained](/articles/chrome-private-aggregation-api-explained)
+- [Chrome Beacon API for Analytics](/articles/chrome-beacon-api-for-analytics)

@@ -86,3 +86,9 @@ Tools like **Tab Suspender Pro** can help you maintain a cleaner, more focused b
 Give these tips a try and see which ones work best for your workflow. A few small adjustments can make a big difference in how effectively you use Habitica to build the life you want.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome requestanimationframe Explained: What It Means for Your Browser](/articles/chrome-requestanimationframe-explained)
+- [How to Stop Chrome from Opening on Startup](/articles/how-to-stop-chrome-from-opening-on-startup)
+- [chrome vs firefox privacy comparison 2026](/articles/chrome-vs-firefox-privacy-comparison-2026)

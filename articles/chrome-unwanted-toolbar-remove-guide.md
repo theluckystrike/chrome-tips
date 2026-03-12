@@ -106,3 +106,9 @@ Removing unwanted toolbars from Chrome is usually straightforward once you know 
 Remember: the best defense is prevention. Be mindful of what you install, and your Chrome browser will stay clean and fast.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for WebRTC Leak Prevention](/articles/chrome-extensions-for-webrtc-leak-prevention)
+- [Chrome Permission Denied How to Fix](/articles/chrome-permission-denied-how-to-fix)
+- [Chrome Mobile Tips Save Data Usage](/articles/chrome-mobile-tips-save-data-usage)

@@ -78,3 +78,9 @@ Keep in mind that after this reset, you'll need to save your current address aga
 Dealing with chrome autofill wrong address can be frustrating, but it's usually a straightforward fix. Start by checking your saved addresses and removing or editing the ones that are causing problems. With just a few minutes of cleanup in your Chrome settings, you can get autofill working the way it should and save yourself time on every form you fill out going forward.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for apple notes in browser workaround](/articles/chrome-for-apple-notes-in-browser-workaround)
+- [Chrome Keeps Logging Me Out of Websites Fix](/articles/chrome-keeps-logging-me-out-of-websites-fix)
+- [Chrome Cross Origin Error: What It Means and How to Fix It](/articles/chrome-cross-origin-error-what-it-means)

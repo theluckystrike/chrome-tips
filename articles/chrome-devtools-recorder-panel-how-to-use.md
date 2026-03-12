@@ -77,3 +77,9 @@ Finally, test your recordings a few times to make sure they work consistently. W
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management)
+- [Chrome Right Click Not Working on Some Sites Fix](/articles/chrome-right-click-not-working-on-some-sites-fix)
+- [Chrome Layer Cascade CSS: A Complete Guide to Modern Style Management](/articles/chrome-layer-cascade-css)

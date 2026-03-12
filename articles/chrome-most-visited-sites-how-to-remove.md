@@ -74,3 +74,9 @@ Remember that you do not have to accept Chrome's default behavior. With a few tw
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extension for Saving Passwords Securely](/articles/chrome-extension-for-saving-passwords-securely)
+- [Chrome for QuickBooks Online Best Settings](/articles/chrome-for-quickbooks-online-best-settings)
+- [Chrome Biometric Authentication for the Web](/articles/chrome-biometric-authentication-web)

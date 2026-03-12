@@ -70,3 +70,9 @@ To install a Chrome extension, visit the Chrome Web Store and search for the nam
 Once you have installed a few extensions, take some time to explore their settings. Many extensions offer customization options that let you tailor them to your specific needs. Spending a few minutes configuring an extension when you first install it can make a big difference in how useful it becomes.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome New Tab Page Minimalist Extensions](/articles/chrome-new-tab-page-minimalist-extensions)
+- [Chrome Private State Tokens Explained: What They Are and How They Work](/articles/chrome-private-state-tokens-explained)
+- [Chrome Scrolling is Choppy and Laggy](/articles/chrome-scrolling-is-choppy-and-laggy)

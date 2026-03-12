@@ -66,3 +66,9 @@ Remember that a little CPU usage from Chrome is normal and expected. The goal is
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Is Chrome Safe for Online Banking](/articles/is-chrome-safe-for-online-banking)
+- [Chrome Mirroring Screen to TV How To](/articles/chrome-mirroring-screen-to-tv-how-to)
+- [chromebook touchscreen not working fix](/articles/chromebook-touchscreen-not-working-fix)

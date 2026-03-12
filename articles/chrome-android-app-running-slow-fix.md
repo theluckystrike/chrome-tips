@@ -140,3 +140,9 @@ These changes together can make Chrome feel significantly faster, even on older 
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*
+
+## Related Articles
+
+- [Chrome Version History: Major Milestones That Shaped the Browser](/articles/chrome-version-history-major-milestones)
+- [What Does Chromebook Powerwash Do](/articles/chromebook-powerwash-what-it-does)
+- [Best Chrome Extensions for Accessibility Needs](/articles/best-chrome-extensions-for-accessibility-needs)

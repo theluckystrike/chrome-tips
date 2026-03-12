@@ -74,3 +74,9 @@ Using Chrome for Wave accounting gives you flexibility and power, but getting th
 Take some time to set up your Chrome profile, pin your Wave tab, and explore which extensions work best for your needs. A few minutes of preparation can save you time and frustration every time you sit down to do your accounting. Whether you are sending invoices, tracking expenses, or running reports, Chrome provides a solid foundation for getting the job done efficiently.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Change Your Chrome Downloads Folder](/articles/chrome-downloads-folder-change)
+- [chrome themes how to change and customize](/articles/chrome-themes-how-to-change-and-customize)
+- [Chrome for Deepl Translator Extension](/articles/chrome-for-deepl-translator-extension)

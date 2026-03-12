@@ -62,3 +62,9 @@ Having Chrome just a double-click away on your desktop is one of those small con
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome offline first app design explained](/articles/chrome-offline-first-app-design-explained)
+- [Chrome Gesture Navigation Complete Guide](/articles/chrome-gesture-navigation)
+- [chrome pwa storage quota how much space](/articles/chrome-pwa-storage-quota-how-much-space)

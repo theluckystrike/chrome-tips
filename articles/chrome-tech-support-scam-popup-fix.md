@@ -118,3 +118,9 @@ Tech support scam popups in Chrome are frightening but preventable. The key step
 Stay vigilant, and remember: if something looks like a panic-inducing popup demanding immediate action, it is almost certainly a scam.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Canary What Is It For](/articles/chrome-canary-what-is-it-for)
+- [Chrome Reading Mode — How to Enable and Use It](/articles/chrome-reading-mode-how-to-enable)
+- [Chrome for Canva Web App Optimization](/articles/chrome-for-canva-web-app-optimization)

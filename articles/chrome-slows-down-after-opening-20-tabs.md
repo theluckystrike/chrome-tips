@@ -93,3 +93,9 @@ You do not need to be technically inclined to make these changes. Everything can
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*
+
+## Related Articles
+
+- [Chrome Ask Before Closing Multiple Tabs Setting](/articles/chrome-ask-before-closing-multiple-tabs-setting)
+- [Chrome Camera Not Working Fix](/articles/chrome-camera-not-working-fix)
+- [How to Group Tabs in Chrome 2026](/articles/how-to-group-tabs-in-chrome-2026)

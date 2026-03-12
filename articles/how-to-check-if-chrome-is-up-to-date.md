@@ -60,3 +60,9 @@ If you find that you often have many tabs open and Chrome is getting slow, consi
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Custom Search Engines How to Add](/articles//chrome-custom-search-engines-how-to-add/)
+- [Chrome Devtools Security Panel Explained](/articles/chrome-devtools-security-panel-explained)
+- [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable)

@@ -95,3 +95,9 @@ Understanding chrome extensions permissions explained simply puts you in control
 The next time you see a permission popup, do not just click through automatically. Read what it says, think about whether it makes sense, and only proceed if you feel comfortable. Your data and your privacy are worth those few extra seconds of attention.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix)
+- [Chrome Extension GDPR Compliance Guide](/articles/chrome-extension-gdpr-compliance-guide)
+- [Chrome for Autofill Credit Card Safety](/articles/chrome-for-autofill-credit-card-safety)

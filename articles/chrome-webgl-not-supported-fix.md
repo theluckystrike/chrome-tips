@@ -82,3 +82,9 @@ If you find yourself relying on WebGL-enabled websites frequently and want addit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Free Chrome Extensions Better Than Paid Apps](/articles/free-chrome-extensions-better-than-paid-apps)
+- [Chrome Address Autofill How to Manage](/articles/chrome-address-autofill-how-to-manage)
+- [chrome tab memory usage how to check](/articles/chrome-tab-memory-usage-how-to-check)

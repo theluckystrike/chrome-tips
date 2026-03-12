@@ -67,3 +67,9 @@ The good news is that browser technology continues to improve. Chrome regularly 
 By keeping your browser updated, managing extensions wisely, and understanding how your browsing habits affect performance, you can achieve better INP scores and enjoy faster, more responsive web browsing.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chromebook vs Windows Laptop for Browsing](/articles/chromebook-vs-windows-laptop-for-browsing)
+- [Chrome Print to PDF How to Save Webpage](/articles/chrome-print-to-pdf-how-to-save-webpage)
+- [Best Chrome Extensions for GitHub](/articles/best-chrome-extensions-for-github)

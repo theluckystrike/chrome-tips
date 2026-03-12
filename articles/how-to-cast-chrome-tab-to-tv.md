@@ -80,3 +80,9 @@ Casting your Chrome tab to your TV is a convenient way to share content with oth
 If you run into issues, check your network connection, make sure your TV is compatible, and keep Chrome updated. Managing your open tabs with tools like Tab Suspender Pro can also help keep Chrome running smoothly while you cast. With a little practice, casting will become second nature, and you will be able to share anything from your browser to your TV effortlessly.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Weather Forecast](/articles/chrome-extensions-for-weather-forecast)
+- [Chrome Send to Device Feature How to Use](/articles/chrome-send-to-device-feature-how-to-use)
+- [Chrome for Voice Search How to Enable](/articles/chrome-for-voice-search-how-to-enable)

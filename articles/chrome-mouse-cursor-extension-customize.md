@@ -77,3 +77,9 @@ Customizing your mouse cursor in Chrome with extensions is a straightforward pro
 Start by exploring what extensions are available, choose one that fits your needs, and take time to configure it properly. With a little effort, you can make your cursor work for you instead of the other way around.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Website Dark Mode Forced](/articles/chrome-extensions-for-website-dark-mode-forced)
+- [Chrome Permissions on Startup How to Configure](/articles/chrome-permissions-on-startup-how-to-configure)
+- [Chrome for Xero Accounting Web Tips](/articles/chrome-for-xero-accounting-web-tips)

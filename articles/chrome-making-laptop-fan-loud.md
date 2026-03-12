@@ -124,3 +124,9 @@ If you've tried all the software fixes and your fan is still very loud, consider
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Document Policy: The New Security Feature You Need to Know](/articles/chrome-document-policy-new-security-feature)
+- [Chrome Speech Recognition API Guide](/articles/chrome-speech-recognition-api)
+- [chrome for color picker extensions](/articles/chrome-for-color-picker-extensions)

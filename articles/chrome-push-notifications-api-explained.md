@@ -84,3 +84,9 @@ If you find that Chrome is running slowly and you have many notification permiss
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions For Citation Generator](/articles//articles/chrome-extensions-for-citation-generator/)
+- [How to Stop Chrome from Redirecting to HTTPS](/articles/how-to-stop-chrome-from-redirecting-to-https)
+- [Chrome Structured Clone and Deep Copy: A Complete Guide](/articles/chrome-structured-clone-deep-copy)

@@ -79,3 +79,9 @@ Remember, you can always change the location again later if your needs change. C
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome pwa vs electron app comparison](/articles/chrome-pwa-vs-electron-app-comparison)
+- [Chrome Incognito Mode: Actually Private or Just a False Sense of Security?](/articles/chrome-incognito-mode-actually-private-or-not)
+- [Chrome Energy Saver Mode Guide](/articles/chrome-energy-saver-mode-guide)

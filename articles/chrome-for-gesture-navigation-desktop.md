@@ -61,3 +61,9 @@ As you become more comfortable with gesture navigation, you will likely find you
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome This Site Cant Provide a Secure Connection Fix](/articles/chrome-this-site-cant-provide-a-secure-connection-fix)
+- [Chrome for Tor Browsing Is It Possible](/articles/chrome-for-tor-browsing-is-it-possible)
+- [Chrome Extensions for Page Zoom Per Site](/articles/chrome-extensions-for-page-zoom-per-site)

@@ -111,3 +111,9 @@ Sharing a computer doesn't have to be a source of frustration or a security risk
 Remember that the most important part of family online safety is the conversation you have with your children. Technology provides the guardrails, but your guidance helps them become responsible digital citizens. With a little bit of setup and ongoing attention, your family can enjoy the best of the web while keeping everyone's data separate, secure, and running fast.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Reddit](/articles/chrome-extensions-for-reddit)
+- [chrome mutation observer api explained](/articles/chrome-mutation-observer-api-explained)
+- [How to Stop Chrome Auto Update](/articles/chrome-auto-update-how-to-stop)

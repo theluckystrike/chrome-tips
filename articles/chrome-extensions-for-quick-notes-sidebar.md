@@ -74,3 +74,9 @@ It also helps to organize your notes regularly. Set aside a few minutes at the e
 Finally, consider how your notes fit into your broader productivity system. If you use a task manager or note-taking app, look for ways to transfer important information from your browser sidebar to those tools. This ensures that your ideas and research do not get lost in the flow of daily browsing.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Markdown Editor Preview](/articles/chrome-extensions-for-markdown-editor-preview)
+- [Chrome Time to First Byte Explained](/articles/chrome-time-to-first-byte-explained)
+- [chrome classroom extension for teachers](/articles/chrome-classroom-extension-for-teachers)

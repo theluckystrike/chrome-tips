@@ -78,3 +78,9 @@ Other helpful extensions include note-taking tools that integrate with your work
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome deceptive site ahead warning fix](/articles//chrome-deceptive-site-ahead-warning-fix/)
+- [Chrome Has Selector Explained](/articles/chrome-has-selector-explained)
+- [Chrome for Notion Web Clipper Setup](/articles/chrome-for-notion-web-clipper-setup)

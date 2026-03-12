@@ -110,3 +110,9 @@ Restart Chrome regularly, especially if you notice it slowing down. A fresh brow
 Consider using a lighter weight browser if Chrome continues to cause problems on your limited RAM computer. However, Chrome with proper tab management through Tab Suspender Pro and Memory Saver often works well even on older machines.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Stock Market Tracking Extensions](/articles/chrome-for-stock-market-tracking-extensions)
+- [The Chrome Omnibox Calculator Trick: Quick Math Without Leaving Your Browser](/articles/chrome-omnibox-calculator-trick)
+- [Chrome Google Account Privacy Settings Guide](/articles/chrome-google-account-privacy-settings-guide)

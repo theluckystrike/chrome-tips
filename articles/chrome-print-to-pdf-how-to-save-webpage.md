@@ -97,3 +97,9 @@ Remember that PDFs keep your text searchable and selectable, making them more us
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Price Tracking Amazon](/articles/chrome-extensions-for-price-tracking-amazon)
+- [Must Have Chrome Extensions for Students](/articles/must-have-chrome-extensions-for-students)
+- [Chrome Lazy Loading Images Explained](/articles/chrome-lazy-loading-images-explained)

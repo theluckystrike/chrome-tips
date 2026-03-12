@@ -86,3 +86,9 @@ Chrome keep crashing issues can be frustrating, but they are usually fixable. St
 Remember that keeping Chrome updated, using fewer extensions, and not opening too many tabs at once can prevent many crashing issues from happening in the first place. With these steps, you should be able to get Chrome running smoothly again.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Omnibox Hidden Features](/articles/chrome-omnibox-hidden-features)
+- [Chrome for Notion Web Clipper Setup](/articles/chrome-for-notion-web-clipper-setup)
+- [Chrome Permissions API for Camera and Microphone](/articles/chrome-permissions-api-camera-microphone)

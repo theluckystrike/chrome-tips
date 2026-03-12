@@ -108,3 +108,9 @@ Remember to enable flags gradually and monitor for any issues. Not all experimen
 Start with the flags we have recommended in this guide and experiment with others to find the perfect setup for your needs.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Cross-Origin Isolation Explained](/articles/chrome-cross-origin-isolation-explained)
+- [Chrome Default Download Location How to Set](/articles//chrome-default-download-location-how-to-set/)
+- [Chrome Developer Mode Extensions Warning: How to Dismiss](/articles//chrome-developer-mode-extensions-warning-how-to-dismiss/)

@@ -167,3 +167,9 @@ The Vibration API offers a simple yet effective way to add haptic feedback to yo
 Start experimenting with the Vibration API today, and discover how tactile feedback can transform your mobile web applications.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Trello Power Ups in Browser](/articles/chrome-for-trello-power-ups-in-browser)
+- [chrome multiprocess architecture explained](/articles/chrome-multiprocess-architecture-explained)
+- [chrome high contrast mode](/articles/chrome-high-contrast-mode)

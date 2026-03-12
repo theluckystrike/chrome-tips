@@ -68,3 +68,9 @@ The Chrome Cache API is just one piece of how Chrome makes your browsing experie
 Next time a page loads quickly, you will know it is thanks to the Chrome Cache API working behind the scenes to deliver files from local storage instead of waiting for them to come over the network. It is one of those invisible technologies that makes the modern web feel so responsive.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions For Blue Light Filter](/articles//articles/chrome-extensions-for-blue-light-filter/)
+- [Chrome Running Slow on New Laptop? Here's Why and How to Fix It](/articles/chrome-running-slow-on-new-laptop-why)
+- [chrome fenced frames privacy explained](/articles/chrome-fenced-frames-privacy-explained)

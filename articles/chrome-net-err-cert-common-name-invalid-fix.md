@@ -101,3 +101,9 @@ Be cautious about the websites you visit and the links you click. Stick to well-
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Content Blocker vs Ad Blocker Difference](/articles/chrome-content-blocker-vs-ad-blocker-difference)
+- [chrome portable version how to get](/articles/chrome-portable-version-how-to-get)
+- [Chrome for Obsidian Web Clipper Setup](/articles/chrome-for-obsidian-web-clipper-setup)

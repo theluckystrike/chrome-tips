@@ -77,3 +77,9 @@ The chrome status code 502 bad gateway fix is usually straightforward once you u
 Most 502 errors are temporary and resolve themselves within minutes. If you continue seeing this error on the same website for hours or days, the problem is likely on their end, and you might want to check if the website has announced any maintenance or issues on their social media.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for WhatsApp Web](/articles/chrome-extensions-for-whatsapp-web)
+- [chrome data saver mode how to reduce data usage](/articles//chrome-data-saver-mode-how-to-reduce-data-usage/)
+- [Chrome Managed Bookmarks for Employees](/articles/chrome-managed-bookmarks-for-employees)

@@ -72,3 +72,9 @@ The good news is that Chrome does not force you to accept AI suggestions. You ha
 Remember that you can always adjust these settings later as your needs or preferences change. What feels right today might not feel right next year, and Chrome's settings are designed to be flexible.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome AI Tab Organizer Feature: A Complete Guide](/articles/chrome-ai-tab-organizer-feature)
+- [Chrome Content Visibility Auto Performance](/articles/chrome-content-visibility-auto-performance)
+- [chrome extensions for target circle deals](/articles/chrome-extensions-for-target-circle-deals)

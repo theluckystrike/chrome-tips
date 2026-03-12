@@ -67,3 +67,9 @@ Remember that fewer, well-chosen extensions will serve you better than dozens of
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions That Save You Time](/articles/chrome-extensions-that-save-you-time)
+- [Chrome for Airbnb Browsing Best Extensions](/articles/chrome-for-airbnb-browsing-best-extensions)
+- [Do Chrome Extensions Slow Down Your Browser](/articles/do-chrome-extensions-slow-down-your-browser)

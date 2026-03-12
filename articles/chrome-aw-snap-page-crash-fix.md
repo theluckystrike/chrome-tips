@@ -76,3 +76,9 @@ The chrome aw snap page crash fix doesn't have to be complicated. Most of the ti
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome PDF Not Opening Fix](/articles/chrome-pdf-not-opening-fix)
+- [Chrome Live Captions Feature Guide](/articles/chrome-live-captions-feature)
+- [Chrome for Focus Music Playlists Extensions](/articles/chrome-for-focus-music-playlists-extensions)

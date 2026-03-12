@@ -88,3 +88,9 @@ Finally, check your phone storage periodically. Saved articles, especially those
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chromebook not connecting to wifi fix](/articles/chromebook-not-connecting-to-wifi-fix)
+- [Chrome Usage Statistics Sharing Should I Opt Out](/articles/chrome-usage-statistics-sharing-should-i-opt-out)
+- [Chrome Zoom Too Big How to Fix](/articles/chrome-zoom-too-big-how-to-fix)

@@ -67,3 +67,9 @@ Many users find that once they start using a blue light filter extension, they c
 Protecting your eyes from blue light does not mean you have to stop using your computer at night. With the right extension and a few simple habits, you can continue your late-night browsing while keeping your eyes comfortable and healthy.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Enterprise Features for Business: A Complete Guide](/articles/chrome-enterprise-features-for-business)
+- [how to use chrome password checkup feature](/articles/how-to-use-chrome-password-checkup-feature)
+- [Chrome Extensions for HTTP Header Viewer](/articles/chrome-extensions-for-http-header-viewer)

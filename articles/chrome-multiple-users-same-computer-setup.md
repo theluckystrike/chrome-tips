@@ -73,3 +73,9 @@ The process only takes a few minutes to set up, and the benefits last as long as
 Give it a try if you have not already. Once everyone has their own profile, you will wonder how you ever managed without it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Research Papers](/articles/chrome-extensions-for-research-papers)
+- [Chrome Regex Lookbehind Support: What You Need to Know](/articles/chrome-regex-lookbehind-support)
+- [Chrome Web USB API Guide](/articles/chrome-web-usb-api-guide)

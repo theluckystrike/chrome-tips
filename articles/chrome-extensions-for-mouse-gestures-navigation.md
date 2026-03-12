@@ -68,3 +68,9 @@ Switching to mouse gesture navigation requires a small investment of time to lea
 Give yourself permission to be clumsy at first. You will likely trigger the wrong actions occasionally or forget to use gestures in situations where they would help. That is normal and part of the learning process. Keep at it, and soon gesture navigation will become second nature.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chromebook Guest Mode What It Does](/articles/chromebook-guest-mode-what-it-does)
+- [Chrome Screen Share in Google Meet Tips](/articles/chrome-screen-share-in-google-meet-tips)
+- [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/articles/chrome-tab-hibernate-save-memory)

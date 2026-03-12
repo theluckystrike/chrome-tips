@@ -72,3 +72,9 @@ Remember that the most useful tool is one you actually use. An extension with ev
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Coupon Finder Built In Feature](/articles/chrome-coupon-finder-built-in-feature)
+- [Chrome Cookies Explained for Beginners](/articles/chrome-cookies-explained-for-beginners)
+- [How to Run Desktop Apps in Your Browser Using Chrome WASM](/articles/chrome-wasm-run-desktop-apps-in-browser)

@@ -73,3 +73,9 @@ The more you use the Font Editor, the more comfortable you will become with DevT
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Snapchat Web Tips](/articles/chrome-for-snapchat-web-tips)
+- [Chrome Extensions for Noscript Alternative](/articles/chrome-extensions-for-noscript-alternative)
+- [Chrome for Pomodoro Timer Extensions](/articles/chrome-for-pomodoro-timer-extensions)

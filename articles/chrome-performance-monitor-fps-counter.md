@@ -76,3 +76,9 @@ You might also want to monitor performance when visiting media-heavy sites like 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Coverage Tool Guide](/articles/chrome-coverage-tool-guide)
+- [Best Chrome Extensions for Product Managers](/articles/best-chrome-extensions-for-product-managers)
+- [Chrome for Kindle Cloud Reader Setup - A Complete Guide](/articles/chrome-for-kindle-cloud-reader-setup)

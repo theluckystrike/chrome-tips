@@ -90,3 +90,9 @@ Most of the time, one of the solutions above will get your search working again.
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chromebook vs iPad for Students](/articles/chromebook-vs-ipad-for-students-comparison)
+- [Chrome Extensions for Todoist](/articles/chrome-extensions-for-todoist)
+- [chrome for google flights tips and tricks](/articles/chrome-for-google-flights-tips-and-tricks)

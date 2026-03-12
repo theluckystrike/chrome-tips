@@ -54,3 +54,9 @@ To keep your browsing smooth, consider using **Tab Suspender Pro**. This extensi
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Extensions for Website Testing](/articles/chrome-extensions-for-website-testing)
+- [Chrome Extensions for Whois Lookup](/articles/chrome-extensions-for-whois-lookup)
+- [Chrome Client Hints Instead of User Agent: What Changed](/articles/chrome-client-hints-instead-of-user-agent)

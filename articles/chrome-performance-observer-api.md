@@ -73,3 +73,9 @@ Whether you are a developer building performance-conscious applications or a use
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome text scaling for low vision users](/articles/chrome-text-scaling-for-low-vision-users)
+- [chrome for stylus and pen input settings](/articles/chrome-for-stylus-and-pen-input-settings)
+- [Chrome Extensions for Video Conferencing](/articles/chrome-extensions-for-video-conferencing)

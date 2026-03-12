@@ -94,3 +94,9 @@ By following the optimization tips in this guide and choosing the browser that f
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Overscroll Behavior CSS](/articles/chrome-overscroll-behavior-css)
+- [chrome topics api explained simply](/articles/chrome-topics-api-explained-simply)
+- [Chrome for Calendar Management Extensions](/articles/chrome-for-calendar-management-extensions)

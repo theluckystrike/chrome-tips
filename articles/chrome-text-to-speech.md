@@ -76,3 +76,9 @@ The future looks bright for chrome text to speech technology. Advances in artifi
 Chrome continues to integrate these improvements directly into the browser, making it easier for developers to implement text to speech in their applications and for users to access these capabilities without additional software. Whether you're using chrome text to speech for accessibility, productivity, or convenience, the technology is more accessible and capable than ever before.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Highlighting Text on Websites](/articles/chrome-extension-for-highlighting-text-on-websites)
+- [Chrome Version How to Check Which Version](/articles/chrome-version-how-to-check-which-version)
+- [Chrome Tabs Keep Reloading When I Switch Back](/articles/chrome-tabs-keep-reloading-when-i-switch-back)

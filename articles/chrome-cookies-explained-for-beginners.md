@@ -92,3 +92,9 @@ Chrome cookies do not have to be mysterious or confusing. They are simply small 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Settings You Should Change Right Now](/articles/chrome-settings-you-should-change-right-now)
+- [Chrome Extensions for Auto Tab Closer](/articles/chrome-extensions-for-auto-tab-closer)
+- [Chrome Source Maps Configuration Guide](/articles/chrome-source-maps-guide)

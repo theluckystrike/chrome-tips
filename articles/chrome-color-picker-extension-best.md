@@ -89,3 +89,9 @@ Remember that the best extension is the one you actually use consistently. An ex
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome ERR_CACHE_MISS Fix](/articles/chrome-err-cache-miss-fix)
+- [Why Is Chrome So Slow on My Computer?](/articles/why-is-chrome-so-slow-on-my-computer)
+- [Chrome Reset Flags to Default How To](/articles/chrome-reset-flags-to-default-how-to)

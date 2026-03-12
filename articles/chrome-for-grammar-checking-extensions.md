@@ -67,3 +67,9 @@ Remember that these are tools to assist you, not replace your own judgment. They
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Amazon Prime Video Quality Settings](/articles/chrome-for-amazon-prime-video-quality-settings)
+- [How to Fix Chrome ERR_NAME_NOT_RESOLVED Error](/articles/chrome-err-name-not-resolved-fix)
+- [Chrome Scaling Blurry on External Monitor Fix](/articles/chrome-scaling-blurry-on-external-monitor-fix)

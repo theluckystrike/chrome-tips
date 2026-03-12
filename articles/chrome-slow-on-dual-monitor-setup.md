@@ -121,3 +121,9 @@ Chrome slow on dual monitor setup is a common frustration, especially for users 
 Start with the simplest solutions first—Memory Saver and tab management—and see how much improvement you notice. Most users find that these changes make a significant difference without any cost or hardware changes.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Spell Check Wrong Language Fix](/articles/chrome-spell-check-wrong-language-fix)
+- [Chrome Slow After Hibernation Fix](/articles/chrome-slow-after-hibernation-fix)
+- [chrome extensions for graphic designers](/articles/chrome-extensions-for-graphic-designers)

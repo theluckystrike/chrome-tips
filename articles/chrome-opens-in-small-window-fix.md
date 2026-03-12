@@ -86,3 +86,9 @@ Once you have fixed the small window problem, there are a few things you can do 
 Using a tool like **Tab Suspender Pro** can actually help Chrome run better by automatically suspending tabs you have not used in a while. This saves memory and can prevent all kinds of issues. Just make sure any extension you use is configured the way you want it to be.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Workspaces: Link DevTools to Files for Seamless Development](/articles/chrome-workspaces-link-devtools-to-files)
+- [chrome extensions for pdf editing free](/articles/chrome-extensions-for-pdf-editing-free)
+- [How to Change Default Download Location Chrome](/articles/how-to-change-default-download-location-chrome)

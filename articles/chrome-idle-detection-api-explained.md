@@ -86,3 +86,9 @@ For users who want additional control over tab management and resource usage, ex
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Auto Refresh Page](/articles/chrome-extensions-for-auto-refresh-page)
+- [Chrome for Focus Music Playlists Extensions](/articles/chrome-for-focus-music-playlists-extensions)
+- [Chrome for Window Management Extensions](/articles/chrome-for-window-management-extensions)

@@ -85,3 +85,9 @@ Chrome iterator helpers are a powerful addition to the JavaScript language that 
 Whether you are building a simple tab manager or a complex productivity suite, these methods will help you write cleaner, more efficient code. As you continue developing Chrome extensions, make these iterator helpers a part of your standard toolkit.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Clear Chrome Cache Properly](/articles/how-to-clear-chrome-cache-properly)
+- [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix)
+- [chrome material you design on desktop](/articles/chrome-material-you-design-on-desktop)

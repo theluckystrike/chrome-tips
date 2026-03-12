@@ -70,3 +70,9 @@ Knowing how to close all Chrome tabs at once is one of those skills that seems s
 If you find yourself needing to close all your tabs frequently, consider trying Tab Suspender Pro. It can help you avoid the situation altogether by keeping your tabs organized and your browser running smoothly, so you spend less time managing tabs and more time getting things done.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome dark reader extension worth it](/articles//chrome-dark-reader-extension-worth-it/)
+- [Chrome Anti Fingerprinting Extensions Best](/articles/chrome-anti-fingerprinting-extensions-best)
+- [Chrome for Google Classroom Tips](/articles/chrome-for-google-classroom-tips)

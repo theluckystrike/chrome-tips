@@ -64,3 +64,9 @@ The important thing is that you understand what is being collected and have the 
 Remember that browser privacy is not all or nothing. Even small steps, like turning off telemetry or using an extension like Tab Suspender Pro, can make a meaningful difference in reducing your digital footprint. The key is to be aware and intentional about the choices you make when using any browser, especially one as widely used as Chrome.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Import Bookmarks to Chrome](/articles/how-to-import-bookmarks-to-chrome)
+- [Chrome for Canvas LMS Best Extensions](/articles/chrome-for-canvas-lms-best-extensions)
+- [Chrome Using 8GB RAM Fix](/articles/chrome-using-8gb-ram-fix)

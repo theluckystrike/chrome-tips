@@ -71,3 +71,9 @@ The bookmark method is the most reliable fallback if you ever encounter issues w
 Moving tabs between Chrome profiles takes a bit of extra effort since Chrome does not natively support this feature. But with these methods, you can transfer tabs quickly and continue your work without losing important pages.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Accessibility Screen Reader Support](/articles/chrome-accessibility-screen-reader-support)
+- [Chrome for Adobe Creative Cloud Web Tips](/articles/chrome-for-adobe-creative-cloud-web-tips)
+- [Chrome for Proxy Settings How to Configure](/articles/chrome-for-proxy-settings-how-to-configure)

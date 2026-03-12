@@ -104,3 +104,9 @@ Tab Suspender Pro is an extension that automatically suspends tabs you are not c
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Spotify Web Player Not Working Fix](/articles/chrome-spotify-web-player-not-working-fix)
+- [Chrome Cookie Settings for Best Privacy](/articles/chrome-cookie-settings-best-privacy)
+- [Chrome Cast Tab to TV Not Working Fix](/articles/chrome-cast-tab-to-tv-not-working-fix)

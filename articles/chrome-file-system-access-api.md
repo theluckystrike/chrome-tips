@@ -72,3 +72,9 @@ This shift has profound implications for how we think about software distributio
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Jump to Specific Tab Number Shortcut](/articles/chrome-jump-to-specific-tab-number-shortcut)
+- [Chrome Media Keys Not Working Fix](/articles/chrome-media-keys-not-working-fix)
+- [Chrome Memory Usage Keeps Going Up Over Time Fix](/articles/chrome-memory-usage-keeps-going-up-over-time-fix)

@@ -90,3 +90,9 @@ Once you get Chrome installed, you will want to keep it running well. One helpfu
 You can find Tab Suspender Pro in the Chrome Web Store. It is a useful extension that helps manage your tabs without you having to manually close and reopen them.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Best Chrome Setup for Elderly Parents](/articles/best-chrome-setup-for-elderly-parents)
+- [Chrome User Agent String: What It Is and How It Works](/articles/chrome-user-agent-string-what-it-is)
+- [chrome profile name how to change](/articles/chrome-profile-name-how-to-change)

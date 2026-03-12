@@ -88,3 +88,9 @@ Now you have several ways to discover what technology any website is using. Star
 Understanding what technology a site uses can satisfy your curiosity, help you make better choices about the sites you visit, and even inspire your own web projects. The tools are already in your browser, waiting for you to explore.
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [How to Cast Chrome Tab to TV](/articles/how-to-cast-chrome-tab-to-tv)
+- [Chrome Extensions for Online Shopping Deals](/articles/chrome-extensions-for-online-shopping-deals)
+- [Chrome iOS Tips and Tricks for 2026](/articles/chrome-ios-tips-and-tricks-2026)

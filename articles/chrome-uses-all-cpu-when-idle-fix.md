@@ -66,3 +66,9 @@ Finally, if the problem persists despite trying these steps, try creating a new 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome for tiktok web best settings](/articles/chrome-for-tiktok-web-best-settings)
+- [Chrome for Travel Itinerary Extensions](/articles/chrome-for-travel-itinerary-extensions)
+- [chrome side panel features you missed](/articles/chrome-side-panel-features-you-missed)

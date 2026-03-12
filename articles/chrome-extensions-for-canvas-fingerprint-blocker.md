@@ -58,3 +58,9 @@ Taking these steps does not require technical expertise. By installing a reliabl
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Profile Backup How to Save](/articles/chrome-profile-backup-how-to-save)
+- [Chrome for Figma Best Settings](/articles/chrome-for-figma-best-settings)
+- [chrome tab groups keyboard shortcuts](/articles/chrome-tab-groups-keyboard-shortcuts)

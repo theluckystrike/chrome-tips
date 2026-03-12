@@ -56,3 +56,9 @@ It is worth noting that too many extensions can sometimes have the opposite effe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Switching Profiles Keyboard Shortcut](/articles/chrome-switching-profiles-keyboard-shortcut)
+- [My MacBook Air Gets Hot When Using Chrome: Practical Solutions](/articles/my-macbook-air-gets-hot-when-using-chrome)
+- [Chrome Lite Mode Data Saver Replacement](/articles/chrome-lite-mode-data-saver-replacement)

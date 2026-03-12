@@ -85,3 +85,9 @@ Turn it off if you experience video playback problems, visual glitches on websit
 The best approach is to try both and see what works better for your specific setup. Every computer is different, and the right choice is whatever gives you the most reliable, enjoyable browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Devtools Edit HTML Live](/articles//chrome-devtools-edit-html-live/)
+- [chrome for banking online security tips](/articles/chrome-for-banking-online-security-tips)
+- [Why Does Opening Chrome Slow Down Everything](/articles/why-does-opening-chrome-slow-down-everything)

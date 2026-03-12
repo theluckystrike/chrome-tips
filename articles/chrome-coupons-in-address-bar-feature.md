@@ -76,3 +76,9 @@ Additionally, coupon codes found through browser extensions may not always be th
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [chrome side panel features you missed](/articles/chrome-side-panel-features-you-missed)
+- [Chrome Audit Page Seo How To](/articles/chrome-audit-page-seo-how-to)
+- [How to Reset Chrome to Default Settings](/articles/how-to-reset-chrome-to-default-settings)

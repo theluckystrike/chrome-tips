@@ -73,3 +73,9 @@ As more websites adopt this API and more users come to expect automatic verifica
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extension for Checking Grammar While Typing](/articles/chrome-extension-for-checking-grammar-while-typing)
+- [Chrome Offscreen Canvas Performance: A Complete Guide](/articles/chrome-offscreen-canvas-performance)
+- [Chrome Extensions for Website Archiving](/articles/chrome-extensions-for-website-archiving)

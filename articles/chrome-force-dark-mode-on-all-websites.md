@@ -78,3 +78,9 @@ Start by trying the Chrome Flags method first, since it requires no installation
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [chrome browser process vs tab process explained](/articles/chrome-browser-process-vs-tab-process-explained)
+- [How to Set Chrome as Default Browser Windows 11](/articles/how-to-set-chrome-as-default-browser-windows-11)
+- [Chrome Update Failed Error 12 Fix](/articles/chrome-update-failed-error-12-fix)

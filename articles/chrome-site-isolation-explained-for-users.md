@@ -61,3 +61,9 @@ By keeping your browser updated, using extensions like Tab Suspender Pro to mana
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Inspect CSS Animations and Transitions in Chrome DevTools](/articles/chrome-animations-panel-inspect-transitions)
+- [chrome voice control navigate by speaking](/articles/chrome-voice-control-navigate-by-speaking)
+- [Chrome Invalid Certificate How to Fix Permanently](/articles/chrome-invalid-certificate-how-to-fix-permanently)

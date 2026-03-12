@@ -58,3 +58,9 @@ If you find yourself frequently losing track of tabs across devices, developing 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Cookie Consent Popups How to Auto Reject](/articles/chrome-cookie-consent-popups-how-to-auto-reject)
+- [Chrome Largest Contentful Paint Improve Tips](/articles/chrome-largest-contentful-paint-improve-tips)
+- [Chrome Extension Manifest V3 What Users Need to Know](/articles/chrome-extension-manifest-v3-what-users-need-to-know)

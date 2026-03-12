@@ -66,3 +66,9 @@ Setting up the Pocket extension in Chrome opens up a world of possibilities for 
 The key is to start using it regularly so it becomes a natural part of your browsing routine. The more you use Pocket, the more valuable it becomes as a centralized place for all the interesting things you find on the web.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Safe Browsing Protection Levels Explained](/articles/chrome-safe-browsing-protection-levels-explained)
+- [Chrome Hardware Acceleration Causes Problems](/articles/chrome-hardware-acceleration-causes-problems)
+- [Chrome for WhatsApp Web Tips and Tricks](/articles/chrome-for-whatsapp-web-tips-and-tricks)

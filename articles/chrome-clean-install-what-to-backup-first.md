@@ -71,3 +71,9 @@ With these steps completed, you can proceed with your clean install confidently,
 A clean install gives you a fresh, fast browser. And with proper backup, you get to keep everything that makes Chrome feel like home.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management)
+- [chrome offline google docs how to enable](/articles/chrome-offline-google-docs-how-to-enable)
+- [Chrome Uses All CPU When Idle Fix](/articles/chrome-uses-all-cpu-when-idle-fix)

@@ -70,3 +70,9 @@ The next time you shop online, notice how much faster checkout goes when Chrome 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Best Settings For Slow Internet](/articles/chrome-best-settings-for-slow-internet)
+- [chrome pwa storage quota how much space](/articles/chrome-pwa-storage-quota-how-much-space)
+- [How to Allow Pop Ups for One Site in Chrome](/articles/how-to-allow-pop-ups-for-one-site-in-chrome)

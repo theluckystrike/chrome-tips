@@ -157,3 +157,9 @@ When you're debugging CORS errors or working with multiple Chrome windows during
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Startup Pages Configuration](/articles/chrome-startup-pages-config)
+- [Chrome Extensions for Project Management](/articles/chrome-extensions-for-project-management)
+- [How to Use Chrome DevTools Sensors Tab for Geolocation Testing](/articles/chrome-devtools-sensors-tab-geolocation)

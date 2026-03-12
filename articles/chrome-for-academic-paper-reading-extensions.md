@@ -78,3 +78,9 @@ If browser slowness slows you down, start with Tab Suspender Pro. If organizatio
 Once you find the right combination of extensions, you will notice improvements in both your browser performance and your overall reading efficiency. Small enhancements to your daily workflow accumulate over time, helping you become a more effective and efficient academic reader.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Screen Capture API Guide](/articles/chrome-screen-capture-api)
+- [Chrome High CPU Usage When Watching Videos: Practical Fixes](/articles/chrome-high-cpu-usage-when-watching-videos)
+- [chrome restricted mode youtube how to enable](/articles/chrome-restricted-mode-youtube-how-to-enable)

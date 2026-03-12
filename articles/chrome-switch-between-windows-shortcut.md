@@ -61,3 +61,9 @@ Now that you know the Chrome switch between windows shortcut options, the best t
 Within a few days of practice, these shortcuts will become automatic. You will wonder how you ever managed to switch between windows any other way. The time you save might seem small on any individual switch, but over weeks and months, those seconds add up to a meaningful amount of time that you can redirect toward actually getting work done.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Devtools Application Panel Explained](/articles//chrome-devtools-application-panel-explained/)
+- [Chrome Custom Fonts How to Change](/articles//chrome-custom-fonts-how-to-change/)
+- [Chrome Extensions For Cookie Auto Delete](/articles//articles/chrome-extensions-for-cookie-auto-delete/)

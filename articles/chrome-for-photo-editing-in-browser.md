@@ -76,3 +76,9 @@ For occasional users, however, the convenience of browser-based tools usually ou
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Tab Sleeping Automatically](/articles/chrome-extensions-for-tab-sleeping-automatically)
+- [Chrome for Streamlabs Web Dashboard](/articles/chrome-for-streamlabs-web-dashboard)
+- [how to turn on chrome dark mode on any website](/articles/how-to-turn-on-chrome-dark-mode-on-any-website)

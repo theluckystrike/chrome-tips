@@ -56,3 +56,9 @@ Consider what matters most for your workflow. If you do light research occasiona
 Whatever you choose, the ability to permanently highlight text on websites changes the way you interact with online content. You no longer have to choose between marking important information and losing it. Instead, you can build a personal archive of insights that grows with your curiosity and serves your work over time.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Bibliography Management Extensions](/articles/chrome-for-bibliography-management-extensions)
+- [Chrome Extensions for Sales Prospecting](/articles/chrome-extensions-for-sales-prospecting)
+- [Chrome Extensions For Figma Companion](/articles//articles/chrome-extensions-for-figma-companion/)

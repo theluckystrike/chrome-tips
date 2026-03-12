@@ -88,3 +88,9 @@ A slow LastPass extension is frustrating, especially when you need to log in qui
 Start with the simplest solutions first: update Chrome and LastPass, clear the cache, and remove unnecessary extensions. If the problem persists, move on to managing your vault, checking for conflicting software, and using tools like Tab Suspender Pro to reduce memory usage. In most cases, you will see a noticeable improvement without having to reinstall anything.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Uninstall Chrome Completely and Reinstall](/articles/how-to-uninstall-chrome-completely-and-reinstall)
+- [Chrome Subresource Integrity Explained](/articles/chrome-subresource-integrity-explained)
+- [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy)

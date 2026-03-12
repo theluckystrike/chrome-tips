@@ -66,3 +66,9 @@ You can also try restarting your computer. While this might seem like an extreme
 Finally, make sure your Chrome is up to date. Click the three dots, go to Help, and click "About Google Chrome." Chrome will check for updates and install them if any are available. An outdated version of Chrome might have bugs or display issues that have been fixed in newer versions.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for SEO Keyword Research Extensions](/articles/chrome-for-seo-keyword-research-extensions)
+- [Chrome Data Usage On Phone How To Reduce](/articles//chrome-data-usage-on-phone-how-to-reduce/)
+- [Chrome CSS Anchor Positioning Tether - The Future of Floating Elements](/articles/chrome-css-anchor-positioning-tether)

@@ -72,3 +72,9 @@ Whether you want a simple layout with a few quick links or a full-featured dashb
 Your new tab page does not have to be an afterthought. With a little effort, it can become a powerful tool that helps you start each browsing session focused and organized.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Two Factor Authentication Setup](/articles/chrome-for-two-factor-authentication-setup)
+- [Chrome AI Summarize Feature How to Use](/articles/chrome-ai-summarize-feature-how-to-use)
+- [chrome protected audience api explained](/articles/chrome-protected-audience-api-explained)

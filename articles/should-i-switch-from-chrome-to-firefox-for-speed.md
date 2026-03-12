@@ -75,3 +75,9 @@ If you are frustrated with Chrome, download Firefox and give it a try for one we
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Reduce Chrome Memory Usage](/articles/how-to-reduce-chrome-memory-usage)
+- [How to Export Chrome Passwords](/articles/how-to-export-chrome-passwords)
+- [chrome touchscreen mode how to enable](/articles/chrome-touchscreen-mode-how-to-enable)

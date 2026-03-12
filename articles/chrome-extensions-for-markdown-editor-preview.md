@@ -60,3 +60,9 @@ If you are new to Markdown, take some time to learn the basic syntax. Start with
 Experiment with different extensions to find the combination that works best for your workflow. Everyone has different preferences when it comes to writing tools, and the right extension for someone else might not be the best choice for you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Mobile Tips Save Data Usage](/articles/chrome-mobile-tips-save-data-usage)
+- [Chrome Autofill Wrong Address How to Fix](/articles/chrome-autofill-wrong-address-how-to-fix)
+- [Chrome Content Blocker vs Ad Blocker Difference](/articles/chrome-content-blocker-vs-ad-blocker-difference)

@@ -68,3 +68,9 @@ In the meantime, being aware of how tracking works is the first step to protecti
 Taking control of your browser settings, using privacy tools, and being thoughtful about which websites you trust with your information are all practical steps that can help. You do not need to become a technical expert to improve your privacy, but it does help to understand that there is more to tracking than meets the eye.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Pin Tab What It Does](/articles/chrome-pin-tab-what-it-does)
+- [Chrome Extensions for YouTube Productivity](/articles/chrome-extensions-for-youtube-productivity)
+- [Chrome Remote Desktop How to Use](/articles/chrome-remote-desktop-how-to-use)

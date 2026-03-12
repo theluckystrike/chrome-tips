@@ -66,3 +66,9 @@ Travel itinerary extensions can transform how you prepare for and experience tri
 Take some time to explore different extensions and find the one that fits your travel style. Whether you are planning a quick weekend getaway or an extended international adventure, having your itinerary at your fingertips can make a meaningful difference. The right extension becomes a valuable travel companion, helping you stay organized from the moment you book until you return home.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for mouse gestures extensions](/articles/chrome-for-mouse-gestures-extensions)
+- [Chrome DevTools Memory Panel Explained](/articles/chrome-devtools-memory-panel-explained)
+- [chrome safe browsing should i turn on](/articles/chrome-safe-browsing-should-i-turn-on)

@@ -124,3 +124,9 @@ Protecting your children online requires a multi-layered approach, and locking S
 Remember that technology alone isn't enough—pair these tools with open communication about internet use, set clear expectations, and stay engaged with what your children are doing online. With the right combination of tools and conversations, you can create a safer browsing environment for your family.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Event Timing API Explained](/articles/chrome-event-timing-api-explained)
+- [chrome pi hole vs browser ad blocker comparison](/articles/chrome-pi-hole-vs-browser-ad-blocker-comparison)
+- [Chrome Android Tips and Tricks 2026](/articles/chrome-android-tips-and-tricks-2026)

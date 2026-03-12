@@ -118,3 +118,9 @@ The key is to find the right balance for your needs. Whether you prefer maximum 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Console Utilities Reference](/articles/chrome-console-utilities-guide)
+- [Chrome Custom Elements Explained](/articles//chrome-custom-elements-explained/)
+- [Chrome Extensions For Figma Companion](/articles//articles/chrome-extensions-for-figma-companion/)

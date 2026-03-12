@@ -61,3 +61,9 @@ If you find that managing your browser and dealing with permission issues feels 
 Using tools like this, combined with regular attention to your browser settings, can give you a smoother and more controlled browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Reader View How to Enable on Any Site](/articles/chrome-reader-view-how-to-enable-on-any-site)
+- [Chrome for Tab Sleeping vs Tab Suspending Difference](/articles/chrome-for-tab-sleeping-vs-tab-suspending-difference)
+- [Chrome Keep Crashing Fix 2026](/articles/chrome-keep-crashing-fix-2026)

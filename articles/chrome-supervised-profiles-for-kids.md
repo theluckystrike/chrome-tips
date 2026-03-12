@@ -122,3 +122,9 @@ For children ages 9 to 12, the mature sites filter is usually a good fit. They n
 For teenagers, the conversation becomes more important than the technical controls. Have open discussions about online safety, the reasons behind your rules, and trust them to make good decisions while maintaining oversight.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome webgpu gaming in browser future](/articles/chrome-webgpu-gaming-in-browser-future)
+- [Chrome Extension for Blocking Cookie Popups](/articles/chrome-extension-for-blocking-cookie-popups)
+- [Chrome Multiple Windows vs Tabs Which Is Better](/articles/chrome-multiple-windows-vs-tabs-which-is-better)

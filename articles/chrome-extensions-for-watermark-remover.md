@@ -75,3 +75,9 @@ Take some time to assess what you are working with before committing to a partic
 Remember that the goal is to achieve a result that looks natural and professional, whether you are preparing content for a business project, cleaning up personal photos, or working on creative endeavors.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Split Screen Without Extension](/articles/chrome-split-screen-without-extension)
+- [Chrome Live Caption How It Works](/articles/chrome-live-caption-how-it-works)
+- [Chrome for Email Marketing Best Extensions](/articles/chrome-for-email-marketing-best-extensions)

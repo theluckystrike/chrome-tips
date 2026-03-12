@@ -65,3 +65,9 @@ The best approach usually combines a few of these methods. Start with Chrome's d
 Once you find the combination that works for you, the days of squinting at tiny text or manually zooming in on every website will be over. Your eyes will thank you, and you will enjoy a much more comfortable browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Local Font Access API Explained](/articles/chrome-local-font-access-api-explained)
+- [How to Do a Reverse Image Search in Chrome Without an Extension](/articles/chrome-reverse-image-search-without-extension)
+- [Chrome vs Safari 2026 Comparison](/articles/chrome-vs-safari-2026)

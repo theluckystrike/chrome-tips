@@ -105,3 +105,9 @@ For most users, the simplest method (Method 1) is perfectly safe and keeps all y
 Whatever method you choose, you can now sign out of your Google account confidently, knowing that your bookmarks, passwords, and browsing data are protected.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Use Chrome Without Signing In to Google](/articles/how-to-use-chrome-without-signing-in-to-google)
+- [How to Make Chrome Open Links in a New Tab](/articles/how-to-make-chrome-open-links-in-new-tab)
+- [Chrome Cache API Tutorial for Beginners](/articles/chrome-cache-api-tutorial-for-beginners)

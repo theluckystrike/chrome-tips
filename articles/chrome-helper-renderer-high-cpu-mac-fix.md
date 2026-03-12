@@ -52,3 +52,9 @@ Remember that some CPU usage from Chrome is completely normal, especially when y
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Best Chrome Extensions for Data Analysts](/articles/best-chrome-extensions-for-data-analysts)
+- [Chrome Bookmark Bar Disappeared How to Get Back](/articles/chrome-bookmark-bar-disappeared-how-to-get-back)
+- [Chrome Split Screen Without Extension](/articles/chrome-split-screen-without-extension)

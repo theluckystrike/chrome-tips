@@ -82,3 +82,9 @@ Now that you know the chrome fullscreen mode shortcut, go ahead and try it. Pres
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome for Skyscanner Web App Tips](/articles/chrome-for-skyscanner-web-app-tips)
+- [Chrome Text to Speech Built In Features](/articles/chrome-text-to-speech-built-in-features)
+- [Chrome for Costco Web Shopping Tips](/articles/chrome-for-costco-web-shopping-tips)

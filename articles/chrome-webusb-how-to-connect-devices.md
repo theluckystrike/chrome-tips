@@ -73,3 +73,9 @@ While learning how to connect USB devices in Chrome is useful, managing your bro
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Reverse Video Search](/articles/chrome-extensions-for-reverse-video-search)
+- [Chrome for Google Sheets Tips and Tricks](/articles/chrome-for-google-sheets-tips-and-tricks)
+- [How to Stop Chrome from Eating Your RAM](/articles/how-to-stop-chrome-from-eating-ram)

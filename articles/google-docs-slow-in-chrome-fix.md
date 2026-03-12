@@ -120,3 +120,9 @@ The goal is to free up as much memory as possible for Google Docs to use. With f
 Give these fixes a try. Your patience (and your computer) will thank you.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Forward Button Greyed Out Fix](/articles/chrome-forward-button-greyed-out-fix)
+- [Chrome Was Fast, Now It's Slow - What Happened?](/articles/chrome-was-fast-now-its-slow-what-happened)
+- [chrome right to left language support](/articles/chrome-right-to-left-language-support)

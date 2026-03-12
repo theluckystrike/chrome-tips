@@ -98,3 +98,9 @@ Remember that Chrome is just one option for browsing the web. If installation co
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Reader View How to Enable on Any Site](/articles/chrome-reader-view-how-to-enable-on-any-site)
+- [Chrome Extensions for Writers and Bloggers](/articles/chrome-extensions-for-writers-and-bloggers)
+- [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/articles/chrome-your-computer-is-infected-popup-fix)

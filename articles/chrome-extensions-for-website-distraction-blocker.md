@@ -82,3 +82,9 @@ Finally, be patient with yourself. Building new habits takes time, and setbacks 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Long Tasks API Explained](/articles/chrome-long-tasks-api-explained)
+- [Chrome Opens Old Tabs on Startup How to Stop](/articles/chrome-opens-old-tabs-on-startup-how-to-stop)
+- [Chrome Extensions for Bibliography Management](/articles/chrome-extensions-for-bibliography-management)

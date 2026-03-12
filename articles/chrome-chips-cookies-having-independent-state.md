@@ -80,3 +80,9 @@ As web standards continue to evolve, partitioned cookies will likely become an e
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome tab memory usage keeps growing](/articles/chrome-tab-memory-usage-keeps-growing)
+- [chrome report broken website how to](/articles/chrome-report-broken-website-how-to)
+- [chrome for site search from address bar](/articles/chrome-for-site-search-from-address-bar)

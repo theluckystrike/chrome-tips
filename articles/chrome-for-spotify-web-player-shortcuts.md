@@ -65,3 +65,9 @@ Learning these shortcuts takes only a few minutes but can significantly improve 
 Try incorporating a few of these shortcuts into your routine at first, then gradually add more as they become natural. You will find that controlling your music becomes second nature, leaving you more time to enjoy the actual music itself.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Sync What Data Gets Synced](/articles/chrome-sync-what-data-gets-synced)
+- [Chrome Disable Javascript For Testing](/articles/chrome-disable-javascript-for-testing)
+- [Chrome Extensions For Email Tracking Read Receipts](/articles//articles/chrome-extensions-for-email-tracking-read-receipts/)

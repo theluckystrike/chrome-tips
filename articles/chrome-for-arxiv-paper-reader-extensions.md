@@ -54,3 +54,9 @@ Everyone reads and processes information differently, so the best combination of
 The key is to start with one or two extensions that address your biggest frustration with reading Arxiv papers, see how they work for you, and then add more tools only if needed. This approach prevents overwhelm and helps you build a setup that truly enhances your research reading experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome google lens integration how to use](/articles/chrome-google-lens-integration-how-to-use)
+- [chrome browser fingerprint how to check yours](/articles/chrome-browser-fingerprint-how-to-check-yours)
+- [Chrome Best Settings For Privacy](/articles/chrome-best-settings-for-privacy)

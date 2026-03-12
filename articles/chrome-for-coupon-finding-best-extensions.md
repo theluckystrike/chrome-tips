@@ -73,3 +73,9 @@ Some extensions let you customize how they work. You might be able to choose whe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Gemini Integration How to Use](/articles/chrome-gemini-integration-how-to-use)
+- [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/articles/chrome-smooth-scrolling-enable)
+- [chrome extensions for graphic designers](/articles/chrome-extensions-for-graphic-designers)

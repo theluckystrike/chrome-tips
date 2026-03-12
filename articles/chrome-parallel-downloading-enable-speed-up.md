@@ -128,3 +128,9 @@ Remember that the actual speed improvement depends on various factors, including
 Give it a try on your next large download and see the difference for yourself!
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/articles/chrome-tab-hibernate-save-memory)
+- [Chrome Helper Renderer High CPU Mac Fix](/articles/chrome-helper-renderer-high-cpu-mac-fix)
+- [Chrome Extensions for Ambient Sounds Focus](/articles/chrome-extensions-for-ambient-sounds-focus)

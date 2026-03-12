@@ -114,3 +114,9 @@ Automatically deleting Chrome history after a set time period is an excellent wa
 The best approach depends on your technical comfort level and specific privacy needs. Start with a simple extension solution if you want quick results, or explore more advanced options if you need granular control. Either way, you'll enjoy knowing that your browsing history doesn't persist indefinitely on your device.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chromebook for Seniors Setup Guide](/articles/chromebook-for-seniors-setup-guide)
+- [Chrome PDF Not Opening Fix](/articles/chrome-pdf-not-opening-fix)
+- [Chrome Extensions for Todoist](/articles/chrome-extensions-for-todoist)

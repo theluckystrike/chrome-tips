@@ -86,3 +86,9 @@ Buffering is one of the most frustrating things about watching streams online, b
 Most people find that one or two of these changes make a big difference. Good luck, and enjoy your streams without the interruptions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Eating All My RAM? Reddit Users Share Their Solutions](/articles/chrome-eating-all-my-ram-reddit-solutions)
+- [Chrome for Accessibility Testing Extensions](/articles/chrome-for-accessibility-testing-extensions)
+- [Chrome Typing Lag in Text Boxes: Practical Solutions](/articles/chrome-typing-lag-in-text-boxes)

@@ -66,3 +66,9 @@ You can also subscribe to channels and create playlists to organize videos you w
 Taking these steps to configure Chrome for PeerTube will give you a much better experience. Your videos will play more smoothly, your browser will use less memory, and you will be able to browse without the frustration of slow loading times or interruptions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome google lens integration how to use](/articles/chrome-google-lens-integration-how-to-use)
+- [Chrome Decorators JavaScript Proposal: What You Need to Know](/articles//chrome-decorators-javascript-proposal/)
+- [Chrome Web Vitals What They Mean](/articles/chrome-web-vitals-what-they-mean)

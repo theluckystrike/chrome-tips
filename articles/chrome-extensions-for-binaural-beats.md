@@ -56,3 +56,9 @@ Be patient with yourself as you develop this new habit. Like any skill, using bi
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for Focus Mode Block Distractions](/articles/chrome-extension-for-focus-mode-block-distractions)
+- [Chrome Extensions For Email Productivity](/articles//articles/chrome-extensions-for-email-productivity/)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/articles/chrome-background-sync-explained)

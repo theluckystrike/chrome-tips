@@ -86,3 +86,9 @@ Whether you are building simple hover effects or complex interactive interfaces,
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Has Selector Explained](/articles/chrome-has-selector-explained)
+- [Chrome Reading Mode How to Activate](/articles/chrome-reading-mode-how-to-activate)
+- [Chrome Cache Folder Size and Location: Complete Guide](/articles/chrome-cache-folder-size-and-location)

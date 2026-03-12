@@ -70,3 +70,9 @@ Chrome shortcuts in PWAs represent one of those features that not many people kn
 The next time you install a new PWA, pay attention to what shortcuts are available. You might discover quick paths to features you use all the time but never realized were just a right-click away. And if you are involved in building PWAs yourself, consider adding well-thought-out shortcuts to improve the user experience for everyone who installs your app.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome extensions for target circle deals](/articles/chrome-extensions-for-target-circle-deals)
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug)
+- [Chrome High Memory Usage Mac Fix](/articles/chrome-high-memory-usage-mac-fix)

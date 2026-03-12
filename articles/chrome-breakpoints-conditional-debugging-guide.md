@@ -72,3 +72,9 @@ The key to effective debugging with breakpoints is practice and experimentation.
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Zoom Level Per Site How to Set](/articles/chrome-zoom-level-per-site-how-to-set)
+- [Chrome Err Connection Timed Out Fix](/articles/chrome-err-connection-timed-out-fix)
+- [Chrome Web Bluetooth API Guide — Connect Devices Directly in Your Browser](/articles/chrome-web-bluetooth-api-guide)

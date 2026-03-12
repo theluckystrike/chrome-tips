@@ -69,3 +69,9 @@ While Chrome's built-in shortcuts are powerful on their own, extensions can enha
 Tab Suspender Pro also provides visual indicators that make it easier to see which tabs are active and which are suspended, helping you understand exactly what is happening in your browser. Combined with Chrome's native cycling shortcuts, this extension can help you maintain a productive workflow even when working with many open tabs.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Password Generator How to Use](/articles/chrome-password-generator-how-to-use)
+- [chrome fingerprinting protection explained](/articles/chrome-fingerprinting-protection-explained)
+- [Chrome Virtual Keyboard API Explained](/articles/chrome-virtual-keyboard-api-explained)

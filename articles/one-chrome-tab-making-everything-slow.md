@@ -83,3 +83,9 @@ When one Chrome tab makes everything slow, it's usually because that tab is usin
 The key is to be proactive rather than reactive. Check which tabs are using the most memory regularly, and develop habits that prevent memory overload before it happens. Your computer (and your sanity) will thank you.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android)
+- [Chrome CSS Grid Layout Complete Guide](/articles//chrome-css-grid-layout-complete-guide/)
+- [How to Force Dark Mode on All Websites in Chrome](/articles//chrome-dark-mode-force-all-websites/)

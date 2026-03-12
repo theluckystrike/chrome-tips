@@ -143,3 +143,9 @@ You can also try using a different browser temporarily (Firefox, Edge, or Brave)
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Privacy Error Your Connection Is Not Private Fix](/articles/chrome-privacy-error-your-connection-is-not-private-fix)
+- [chrome extension rejected common reasons fix](/articles/chrome-extension-rejected-common-reasons-fix)
+- [Chrome Clock Behind Error Fix](/articles/chrome-clock-behind-error-fix)

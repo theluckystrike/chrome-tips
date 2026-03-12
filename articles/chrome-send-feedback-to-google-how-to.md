@@ -75,3 +75,9 @@ You can check for updates by going to the Chrome menu, clicking on "Help", and s
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Web and App Activity How to Delete](/articles/chrome-web-and-app-activity-how-to-delete)
+- [Chrome HSTS What It Means for Security](/articles/chrome-hsts-what-it-means-for-security)
+- [Chrome for Zen Mode Extensions](/articles/chrome-for-zen-mode-extensions)

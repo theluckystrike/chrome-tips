@@ -80,3 +80,9 @@ Start with the basics, SafeSearch and supervised profiles, and then add more too
 Remember that no filter is perfect. Even the best content filtering tools can occasionally miss something or block something that is actually harmless. Stay involved in your children's online lives, keep the lines of communication open, and trust your instincts as a parent. With the right combination of tools and conversation, you can create a browsing environment where your family can explore and learn safely.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Fix the 'Your Computer Is Infected' Fake Popup in Chrome](/articles/chrome-your-computer-is-infected-popup-fix)
+- [How to Save Webpage Offline Chrome Android](/articles/how-to-save-webpage-offline-chrome-android)
+- [Chrome Open Settings Shortcut](/articles/chrome-open-settings-shortcut)

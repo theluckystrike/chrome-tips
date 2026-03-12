@@ -109,3 +109,9 @@ Chrome's Media Session API transforms your browser into a capable media control 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Octane Score Explained](/articles/chrome-octane-score-explained)
+- [chrome for banking online security tips](/articles/chrome-for-banking-online-security-tips)
+- [Chrome Scrolling Lag Fix](/articles/chrome-scrolling-lag-fix)

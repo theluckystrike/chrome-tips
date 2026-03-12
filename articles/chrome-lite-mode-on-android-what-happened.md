@@ -68,3 +68,9 @@ If you have been missing Lite Mode, try exploring the alternatives mentioned her
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Extensions for Website Testing](/articles/chrome-extensions-for-website-testing)
+- [Chrome Accessibility Tree Guide](/articles/chrome-accessibility-tree-guide)
+- [Chrome Extension Not Working After Update Fix](/articles/chrome-extension-not-working-after-update-fix)

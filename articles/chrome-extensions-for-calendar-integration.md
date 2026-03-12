@@ -76,3 +76,9 @@ Start by trying a few different extensions to see which ones feel comfortable. M
 With the right chrome extensions for calendar integration, you can spend less time managing your schedule and more time actually getting things done.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Managing Saved Addresses](/articles/chrome-for-managing-saved-addresses)
+- [Chrome Extensions for Spotify Web Player Enhancement](/articles/chrome-extensions-for-spotify-web-player-enhancement)
+- [Best Chrome Extensions for Netflix](/articles/best-chrome-extensions-for-netflix)

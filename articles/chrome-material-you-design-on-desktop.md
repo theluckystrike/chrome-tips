@@ -52,3 +52,9 @@ The Material You design also creates a more unified experience if you use multip
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Lighthouse Audit Complete Guide](/articles/chrome-lighthouse-audit-guide)
+- [How to View Saved Passwords in Chrome 2026](/articles/how-to-view-saved-passwords-in-chrome-2026)
+- [chrome extensions for pdf editing free](/articles/chrome-extensions-for-pdf-editing-free)

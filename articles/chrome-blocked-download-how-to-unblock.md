@@ -94,3 +94,9 @@ Finally, contact the website where the download is hosted. They might be aware o
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [CHIPS: Cookies Having Independent Partitioned State in Chrome](/articles/chrome-chips-cookies-having-independent-state)
+- [Chrome for News Aggregator Extensions](/articles/chrome-for-news-aggregator-extensions)
+- [Chrome Extension Permissions Best Practices](/articles/chrome-extension-permissions-best-practices)

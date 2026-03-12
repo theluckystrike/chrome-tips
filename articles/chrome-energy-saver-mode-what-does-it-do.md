@@ -74,3 +74,9 @@ Try turning it on and see how it works for you. You might be surprised at how mu
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Note Taking in Meetings](/articles/chrome-extensions-for-note-taking-in-meetings)
+- [How to Inspect and Debug IndexedDB in Chrome: A Complete Guide](/articles/chrome-indexeddb-inspect-debug)
+- [Chrome Extensions for Notion](/articles/chrome-extensions-for-notion)

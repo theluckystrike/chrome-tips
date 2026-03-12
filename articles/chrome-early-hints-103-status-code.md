@@ -81,3 +81,9 @@ We can expect to see more websites adopt early hints as CDN support improves and
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Print to PDF Without Margins](/articles/chrome-print-to-pdf-without-margins)
+- [Chrome for eBay Selling Best Extensions](/articles/chrome-for-ebay-selling-best-extensions)
+- [Chrome for Website Blocking During Work](/articles/chrome-for-website-blocking-during-work)

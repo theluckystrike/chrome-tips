@@ -96,3 +96,9 @@ The choice between Chrome and Safari on a Mac often comes down to a trade-off be
 By understanding the strengths of each browser and utilizing the right optimization tools, you can enjoy a fast, productive browsing experience on your Mac without constantly worrying about where the nearest power outlet is.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Tab Hibernate: How to Save Memory and Speed Up Your Browser](/articles/chrome-tab-hibernate-save-memory)
+- [Chrome DevTools Snippets for Productivity](/articles/chrome-snippets-productivity)
+- [Chrome WebGPU vs WebGL Comparison: Which Graphics API Should You Use?](/articles/chrome-webgpu-vs-webgl-comparison)

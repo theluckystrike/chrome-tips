@@ -55,3 +55,9 @@ While enabling DNS over HTTPS significantly improves your privacy, it is just on
 If you find that Chrome is running slower with many open tabs, consider using Tab Suspender Pro to automatically suspend tabs you are not actively using. This frees up system resources and can improve overall browser performance, especially when combined with privacy extensions that may add some overhead to page loading.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Web Vitals What They Mean](/articles/chrome-web-vitals-what-they-mean)
+- [Chrome How to Print Selection Only](/articles/chrome-how-to-print-selection-only)
+- [Chrome Two Factor Authentication Setup Guide](/articles/chrome-two-factor-authentication-setup-guide)

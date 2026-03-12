@@ -80,3 +80,9 @@ Everyone has different needs when it comes to browsing on their phone. Some peop
 Start with the simplest option, which is making sure Chrome's pop-up blocker is turned on. If that is not enough, try DNS-level blocking or switch to a browser with better built-in tools. You do not need to implement every suggestion here. Just pick the ones that fit your lifestyle and your comfort level with technology.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome offline pages on phone how to save](/articles/chrome-offline-pages-on-phone-how-to-save)
+- [Chrome Freezes When Opening New Tab Fix](/articles/chrome-freezes-when-opening-new-tab-fix)
+- [Chrome Predictive Loading How to Turn Off](/articles/chrome-predictive-loading-how-to-turn-off)

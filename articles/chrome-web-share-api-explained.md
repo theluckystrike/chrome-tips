@@ -68,3 +68,9 @@ Features like the Chrome Web Share API work best when Chrome is performing optim
 Tab Suspender Pro can help with this by automatically suspending tabs you are not actively using, freeing up memory so Chrome can run smoothly. When your browser has resources to spare, you get the full benefit of modern web features like the Web Share API — fast, responsive, and capable of handling all your sharing needs.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome AI Writing Help Feature](/articles/chrome-ai-writing-help-feature)
+- [Chrome Ai Features Built In 2026](/articles/chrome-ai-features-built-in-2026)
+- [Chrome Open Link in New Tab Shortcut](/articles/chrome-open-link-in-new-tab-shortcut)

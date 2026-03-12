@@ -59,3 +59,9 @@ You might also find that having multiple tabs open at startup leads to more tabs
 Setting multiple startup pages is one of those simple tweaks that makes your daily browsing routine just a little bit smoother. Once you have your essential sites loading automatically, you will wonder how you ever managed without it.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extension for QR Code Generator](/articles/chrome-extension-for-qr-code-generator)
+- [Chrome Task Manager Guide](/articles/chrome-task-manager-guide)
+- [Chrome WASM WebAssembly Getting Started: A Complete Beginner's Guide](/articles/chrome-wasm-webassembly-getting-started)

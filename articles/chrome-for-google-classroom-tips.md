@@ -83,3 +83,9 @@ Using Chrome for Google Classroom does not have to be frustrating. By managing y
 Give these tips a try and see which ones work best for your situation. Everyone's workflow is different, so experiment with these suggestions to find the combination that helps you succeed with Google Classroom.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Reading List on Phone How to Use](/articles/chrome-reading-list-on-phone-how-to-use)
+- [Chrome How to Clear DNS Cache](/articles/chrome-how-to-clear-dns-cache)
+- [Chrome Spell Check Adding Custom Words](/articles/chrome-spell-check-adding-custom-words)

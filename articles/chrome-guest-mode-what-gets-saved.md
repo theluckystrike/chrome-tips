@@ -78,3 +78,9 @@ For casual sharing of your computer with family members or guests, Guest mode wo
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Web Vitals Extension How to Use](/articles/chrome-web-vitals-extension-how-to-use)
+- [chrome themes how to change and customize](/articles/chrome-themes-how-to-change-and-customize)
+- [chrome privacy checkup how to do](/articles/chrome-privacy-checkup-how-to-do)

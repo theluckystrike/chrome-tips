@@ -66,3 +66,9 @@ Chrome airplay support how to use is a common question because the answer is not
 If AirPlay is essential for your daily workflow, using Safari on a Mac or investing in a Chromecast might save you time and frustration. However, with a little setup, you can make Chrome work well enough for most streaming needs.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Tab Color Coding How to Use](/articles/chrome-tab-color-coding-how-to-use)
+- [Chrome ERR_QUIC_PROTOCOL_ERROR Fix](/articles/chrome-err-quic-protocol-error-fix)
+- [chrome playwright vs puppeteer comparison](/articles/chrome-playwright-vs-puppeteer-comparison)

@@ -82,3 +82,9 @@ A chrome not enough memory error doesn't mean your computer is broken. It just m
 If you find yourself constantly running into memory limits, consider adding Tab Suspender Pro to your toolkit for better control over your tabs. And if all else fails, a computer restart or even a modest RAM upgrade can make a world of difference.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Musicians](/articles/chrome-extensions-for-musicians)
+- [Chrome Hardware Acceleration Should I Turn On or Off](/articles/chrome-hardware-acceleration-should-i-turn-on-or-off)
+- [How to Remove Chrome Malware](/articles/how-to-remove-chrome-malware)

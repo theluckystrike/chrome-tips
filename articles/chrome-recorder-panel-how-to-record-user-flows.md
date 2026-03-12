@@ -82,3 +82,9 @@ Running repeated recordings or keeping many tabs open while testing can sometime
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Profile Data Where It Is Stored](/articles/chrome-profile-data-where-it-is-stored)
+- [Chrome JetStream Score What Is Good](/articles/chrome-jetstream-score-what-is-good)
+- [Chrome Passkeys Setup Guide 2026](/articles/chrome-passkeys-setup-guide-2026)

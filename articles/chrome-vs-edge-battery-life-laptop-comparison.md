@@ -84,3 +84,9 @@ Being mindful of your tab habits and using tools to manage them can make any bro
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome About Settings All Pages Explained](/articles/chrome-about-settings-all-pages-explained)
+- [Why Does Chrome Use So Much CPU](/articles/why-does-chrome-use-so-much-cpu)
+- [Chromebook Accessibility Features Guide](/articles/chromebook-accessibility-features-guide)

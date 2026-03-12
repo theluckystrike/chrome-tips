@@ -100,3 +100,9 @@ Using a tool like Tab Suspender Pro can serve as an extra layer of protection. I
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Resize Observer API Explained](/articles/chrome-resize-observer-api-explained)
+- [Chrome Extensions for Web Annotation](/articles/chrome-extensions-for-web-annotation)
+- [Chrome Bookmarks Bar Show Hide Shortcut](/articles/chrome-bookmarks-bar-show-hide-shortcut)

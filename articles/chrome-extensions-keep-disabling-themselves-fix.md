@@ -80,3 +80,9 @@ You can also reach out to the extension developer for support. They may be aware
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Developer Tools for Non Developers](/articles//chrome-developer-tools-for-non-developers/)
+- [Chrome Time to First Byte Explained](/articles/chrome-time-to-first-byte-explained)
+- [Chrome Update Failed Error 3 Fix](/articles/chrome-update-failed-error-3-fix)

@@ -85,3 +85,9 @@ For users who want additional control over their browsing environment, tools lik
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Reading List Manager](/articles/chrome-extensions-for-reading-list-manager)
+- [Chrome Magnifier Zoom for Visually Impaired](/articles/chrome-magnifier-zoom-for-visually-impaired)
+- [Chrome Built-In Screenshot Tool](/articles/chrome-built-in-screenshot-tool)

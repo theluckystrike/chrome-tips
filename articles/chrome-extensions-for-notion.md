@@ -70,3 +70,9 @@ You do not need to install every extension mentioned here. Experiment with one o
 The right combination of extensions turns Chrome into a powerful companion for your Notion work. You will spend less time on friction and more time actually using your notes, databases, and projects to get things done.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for apartments.com search tips](/articles/chrome-for-apartmentscom-search-tips)
+- [chrome tab groups keyboard shortcuts](/articles/chrome-tab-groups-keyboard-shortcuts)
+- [Chrome for Meditation and Focus Extensions](/articles/chrome-for-meditation-and-focus-extensions)

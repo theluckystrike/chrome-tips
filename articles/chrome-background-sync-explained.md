@@ -72,3 +72,9 @@ Chrome background sync explained is about understanding how your browser quietly
 Whether you are a casual browser or someone who relies heavily on Chrome for work, background sync ensures that your data follows you wherever you go. Take some time to review your sync settings and customize them to match your needs and preferences.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome AI Writing Help Feature](/articles/chrome-ai-writing-help-feature)
+- [Chrome Saved Passwords How to View](/articles/chrome-saved-passwords-how-to-view)
+- [Chrome Extensions for Tab Grouping Automatically](/articles/chrome-extensions-for-tab-grouping-automatically)

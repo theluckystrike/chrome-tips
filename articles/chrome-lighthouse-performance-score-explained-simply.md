@@ -80,3 +80,9 @@ Now that chrome lighthouse performance score explained simply is clear to you, y
 Improving a performance score does not always require expensive tools or expert help. Many improvements are simple changes that make a big difference. Start with the biggest problems first, test your changes, and celebrate each improvement along the way.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Google Classroom Tips](/articles/chrome-for-google-classroom-tips)
+- [chrome device management for education](/articles//chrome-device-management-for-education/)
+- [Chrome Helper Renderer High CPU Mac Fix](/articles/chrome-helper-renderer-high-cpu-mac-fix)

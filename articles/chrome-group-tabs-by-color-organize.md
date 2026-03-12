@@ -90,3 +90,9 @@ Start small—create a few groups for your most common workflows and see how muc
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome GPU Acceleration Gaming Settings](/articles/chrome-gpu-acceleration-gaming-settings)
+- [chrome recently closed tabs shortcut](/articles/chrome-recently-closed-tabs-shortcut)
+- [Chrome Service Worker Caching Strategies](/articles/chrome-service-worker-caching-strategies)

@@ -84,3 +84,9 @@ Celebrate small victories. Every new skill they master is an achievement worth a
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Extensions For Cookie Auto Delete](/articles//articles/chrome-extensions-for-cookie-auto-delete/)
+- [chrome dark reader extension worth it](/articles//chrome-dark-reader-extension-worth-it/)
+- [Chrome for Mendeley Web Importer Tips](/articles/chrome-for-mendeley-web-importer-tips)

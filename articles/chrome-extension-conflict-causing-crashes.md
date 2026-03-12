@@ -94,3 +94,9 @@ Chrome extension conflicts can be frustrating, but they are usually solvable wit
 Remember to keep your extension list manageable and your extensions updated. With these habits, you can enjoy a stable and productive Chrome browsing experience without the headache of unexpected crashes.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Paint Holding Feature Explained: What It Is and How to Fix Flickering](/articles/chrome-paint-holding-feature-explained)
+- [Chrome DevTools Shadow DOM Inspector](/articles/chrome-devtools-shadow-dom-inspector)
+- [Chrome New Tab Page Keeps Changing Fix](/articles/chrome-new-tab-page-keeps-changing-fix)

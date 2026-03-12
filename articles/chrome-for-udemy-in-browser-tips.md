@@ -70,3 +70,9 @@ Chrome also allows you to control autoplay behavior. If you find videos automati
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Social Media Scheduler](/articles/chrome-extensions-for-social-media-scheduler)
+- [Chrome Bookmarks Bar Show Hide Shortcut](/articles/chrome-bookmarks-bar-show-hide-shortcut)
+- [Chrome Android Tabs Too Many How to Manage](/articles/chrome-android-tabs-too-many-how-to-manage)

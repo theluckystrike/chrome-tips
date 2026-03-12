@@ -85,3 +85,9 @@ However, keeping the **Side Panel** active while browsing resource-heavy sites c
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [chrome for kick streaming web tips](/articles/chrome-for-kick-streaming-web-tips)
+- [How to Use Chrome Without Signing In to Google](/articles/how-to-use-chrome-without-signing-in-to-google)
+- [Chrome for Speed Reading Extensions](/articles/chrome-for-speed-reading-extensions)

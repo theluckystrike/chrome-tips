@@ -127,3 +127,9 @@ Tools like IFTTT can help you set up this workflow. Once your notes are in Googl
 Choose the approach that best fits your needs and start accessing your Apple Notes in Chrome today.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Screen Wake Lock API Explained](/articles/chrome-screen-wake-lock-api-explained)
+- [Chrome Android App Running Slow Fix: Practical Solutions That Actually Work](/articles/chrome-android-app-running-slow-fix)
+- [chrome portable version run from usb](/articles/chrome-portable-version-run-from-usb)

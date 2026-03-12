@@ -70,3 +70,9 @@ If you continue to experience severe memory issues despite trying these solution
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Autofill Settings Complete Guide](/articles/chrome-autofill-settings-complete)
+- [Chrome Temporal API Date Time: A Complete Guide to Modern Date Handling](/articles/chrome-temporal-api-date-time)
+- [Chrome Audio Fingerprinting What It Is](/articles/chrome-audio-fingerprinting-what-it-is)

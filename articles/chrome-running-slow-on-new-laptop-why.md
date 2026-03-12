@@ -122,3 +122,9 @@ Chrome running slow on a new laptop is a common issue, but it is usually fixable
 Remember that browser performance is not just about your hardware. It is also about how you use the browser and what settings you have configured. With a few adjustments, your new laptop can provide the fast Chrome experience you expect.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Report Dangerous Chrome Extension](/articles/how-to-report-dangerous-chrome-extension)
+- [Chrome for CodePen in Browser Tips](/articles/chrome-for-codepen-in-browser-tips)
+- [Chrome for Todoist Web App Best Settings](/articles/chrome-for-todoist-web-app-best-settings)

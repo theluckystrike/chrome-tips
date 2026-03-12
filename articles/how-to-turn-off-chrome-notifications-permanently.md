@@ -72,3 +72,9 @@ Once you have adjusted these settings to your liking, you can always change them
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Bookmarks Not Syncing Fix](/articles/chrome-bookmarks-not-syncing-fix)
+- [Chrome Network Throttling Guide](/articles/chrome-network-throttling-guide)
+- [chrome extensions for web clipping](/articles/chrome-extensions-for-web-clipping)

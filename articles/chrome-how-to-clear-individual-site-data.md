@@ -68,3 +68,9 @@ Clearing individual site data is one of those browser maintenance tasks that is 
 Make it a habit to clear data for websites that are acting up, and your browsing experience will be much smoother. Combined with good tab management practices, you can keep Chrome running fast and reliably for all your daily web activities.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome for twitch buffering fix](/articles/chrome-for-twitch-buffering-fix)
+- [chrome privacy checkup how to do](/articles/chrome-privacy-checkup-how-to-do)
+- [How to Enable Parallel Downloading in Chrome for Faster Downloads](/articles/chrome-parallel-downloading-enable-speed-up)

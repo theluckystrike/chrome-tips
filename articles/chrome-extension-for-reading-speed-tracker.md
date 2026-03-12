@@ -58,3 +58,9 @@ The goal is not to rush through everything as fast as possible. The goal is to b
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Timeline Recording Explained](/articles/chrome-timeline-recording-explained)
+- [Chrome Magnifier Zoom for Visually Impaired](/articles/chrome-magnifier-zoom-for-visually-impaired)
+- [Chrome Slow on Surface Pro Fix](/articles/chrome-slow-on-surface-pro-fix)

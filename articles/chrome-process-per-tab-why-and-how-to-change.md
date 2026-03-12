@@ -74,3 +74,9 @@ The chrome process per tab feature exists for good reasons, and you do not need 
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Readable Streams Explained](/articles/chrome-readable-streams-explained)
+- [Does Incognito Mode Make Chrome Faster?](/articles/does-incognito-mode-make-chrome-faster)
+- [Chrome Extensions for Meditation](/articles/chrome-extensions-for-meditation)

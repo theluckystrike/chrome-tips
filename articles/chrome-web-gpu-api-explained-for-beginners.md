@@ -54,3 +54,9 @@ Web GPU represents a significant step forward in what is possible in a web brows
 The good news is that Chrome is already supporting this technology, and you do not need to be a tech expert to benefit from it. By keeping your browser updated and understanding how these features work, you can enjoy a faster and more capable web experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Extensions for Virtual Whiteboard](/articles/chrome-extensions-for-virtual-whiteboard)
+- [Chrome Memory Saver Mode Explained](/articles/chrome-memory-saver-mode-explained)
+- [Chrome Dark Mode on Phone How to Enable](/articles//chrome-dark-mode-on-phone-how-to-enable/)

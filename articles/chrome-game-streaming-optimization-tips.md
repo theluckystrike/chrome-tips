@@ -74,3 +74,9 @@ Look for a settings gear icon on whatever platform you are using and experiment 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome for Google Maps Best Extensions](/articles/chrome-for-google-maps-best-extensions)
+- [Chrome Extensions Disappeared After Update Fix](/articles/chrome-extensions-disappeared-after-update-fix)
+- [Chrome Mobile Dark Mode Force on All Sites](/articles/chrome-mobile-dark-mode-force-on-all-sites)

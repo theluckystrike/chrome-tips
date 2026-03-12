@@ -64,3 +64,9 @@ Understanding what Chrome WebView does helps demystify one of the quieter compon
 
 ---
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome for Coupon Finding Best Extensions](/articles/chrome-for-coupon-finding-best-extensions)
+- [Chrome Follow Button for Websites How to Use](/articles/chrome-follow-button-for-websites-how-to-use)
+- [chrome google photos integration save images](/articles/chrome-google-photos-integration-save-images)

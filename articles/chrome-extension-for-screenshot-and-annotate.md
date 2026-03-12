@@ -84,3 +84,9 @@ As you use your chosen extension, you will discover which annotation features yo
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [chrome extensions for graphic designers](/articles/chrome-extensions-for-graphic-designers)
+- [Chrome for Speed Reading Extensions](/articles/chrome-for-speed-reading-extensions)
+- [Chrome Sync Between Devices Not Working Fix](/articles/chrome-sync-between-devices-not-working-fix)

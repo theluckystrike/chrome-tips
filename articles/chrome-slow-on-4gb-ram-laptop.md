@@ -87,3 +87,9 @@ This extension takes **tab management** much further by allowing you to set cust
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+## Related Articles
+
+- [Chrome Extension Conflict: Identifying and Fixing Crashes](/articles/chrome-extension-conflict-causing-crashes)
+- [Chrome Coupon Finder Built In Feature](/articles/chrome-coupon-finder-built-in-feature)
+- [Best Chrome Extensions for Podcasters](/articles/best-chrome-extensions-for-podcasters)

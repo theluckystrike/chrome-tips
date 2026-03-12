@@ -74,3 +74,9 @@ If you ever need help with Chrome or want to learn more about other useful featu
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Autofill On Phone How To Manage](/articles/chrome-autofill-on-phone-how-to-manage)
+- [Chrome for Target Web App Best Extensions](/articles/chrome-for-target-web-app-best-extensions)
+- [Chrome Lazy Loading Images Explained](/articles/chrome-lazy-loading-images-explained)

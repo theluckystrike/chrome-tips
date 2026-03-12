@@ -112,3 +112,9 @@ Remember that sometimes a simple restart of your computer or router can fix stre
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [How to Sync Everything Between Your Phone and Laptop with Chrome](/articles/chrome-sync-everything-between-phone-and-laptop)
+- [Top 10 Chrome Extensions Everyone Should Have](/articles/top-10-chrome-extensions-everyone-should-have)
+- [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners)

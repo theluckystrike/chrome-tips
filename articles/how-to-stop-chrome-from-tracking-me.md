@@ -68,3 +68,9 @@ Stopping Chrome from tracking you completely is nearly impossible in today's con
 Small changes add up over time. The more control you have over your data, the less vulnerable you are to invasive tracking and unwanted targeted advertising.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.
+
+## Related Articles
+
+- [Chrome Homepage Keeps Resetting Fix](/articles/chrome-homepage-keeps-resetting-fix)
+- [chrome voice typing in google docs](/articles/chrome-voice-typing-in-google-docs)
+- [Chrome Hardware Acceleration Gaming: Complete Optimization Guide](/articles/chrome-hardware-acceleration-gaming)

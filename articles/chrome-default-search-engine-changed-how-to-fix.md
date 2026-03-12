@@ -69,3 +69,9 @@ Tab Suspender Pro is part of the Zovo extension suite, which focuses on giving u
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [chrome for github copilot web setup](/articles/chrome-for-github-copilot-web-setup)
+- [chrome topics api privacy sandbox explained](/articles/chrome-topics-api-privacy-sandbox-explained)
+- [Chrome Helper Renderer Using Too Much CPU](/articles/chrome-helper-renderer-using-too-much-cpu)

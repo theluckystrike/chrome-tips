@@ -73,3 +73,9 @@ You do not need to do anything if you are comfortable with the changes. Chrome i
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Limit Screen Time in Chrome with Extensions](/articles/chrome-limit-screen-time-with-extension)
+- [Chrome for Stadia Alternatives 2026](/articles/chrome-for-stadia-alternatives-2026)
+- [Chrome Extensions for Web Scraping Without Code](/articles/chrome-extensions-for-web-scraping-without-code)

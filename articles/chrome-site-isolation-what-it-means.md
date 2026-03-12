@@ -63,3 +63,9 @@ By keeping your browser updated, using extensions like Tab Suspender Pro to mana
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome Background Tabs Slowing Down Computer Fix](/articles/chrome-background-tabs-slowing-down-computer-fix)
+- [How to Turn Off Chrome Notifications Permanently](/articles/how-to-turn-off-chrome-notifications-permanently)
+- [Why Is Chrome Using So Much Memory](/articles/why-is-chrome-using-so-much-memory)

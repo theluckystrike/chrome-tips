@@ -78,3 +78,9 @@ Tab Suspender Pro is one option that can automatically pause tabs you are not us
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Is 8GB RAM Enough for Chrome with Many Tabs?](/articles/is-8gb-ram-enough-for-chrome-with-many-tabs)
+- [Best Chrome Extensions for Content Creators](/articles/best-chrome-extensions-for-content-creators)
+- [How to Use Chrome Translate Page](/articles/chrome-translate-page-how-to-use)

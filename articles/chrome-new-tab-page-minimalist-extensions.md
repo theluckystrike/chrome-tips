@@ -83,3 +83,9 @@ Whether you choose a simple clock, a productivity-focused extension, or a combin
 Take some time to explore your options and find what feels right. Once you settle on a setup that works for you, you may wonder how you ever browsed any other way.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [chrome screen reader support](/articles/chrome-screen-reader-support)
+- [Chrome Auto Sign In to Websites How to Control](/articles/chrome-auto-sign-in-to-websites-how-to-control)
+- [How to Clear Chrome Cache Properly](/articles/how-to-clear-chrome-cache-properly)

@@ -77,3 +77,9 @@ Finally, remember to periodically check that your offline settings remain enable
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [How to Use Chrome on Two Monitors](/articles/how-to-use-chrome-on-two-monitors)
+- [Chrome Slow With Many Tabs Open? Here's How to Fix It](/articles/chrome-slow-with-many-tabs-open)
+- [How to Report a Malware Website in Chrome](/articles/chrome-report-malware-website-how-to)

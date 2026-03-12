@@ -88,3 +88,9 @@ Give the Web Serial API a try with your compatible devices. You might find that 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+- [Chrome Extensions For Discord](/articles//articles/chrome-extensions-for-discord/)
+- [Chrome Extensions for Lorem Ipsum Generator](/articles/chrome-extensions-for-lorem-ipsum-generator)
+- [Chrome Crashing on Low Memory Computer](/articles/chrome-crashing-on-low-memory-computer)

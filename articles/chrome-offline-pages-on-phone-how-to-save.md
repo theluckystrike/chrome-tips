@@ -88,3 +88,9 @@ Finally, check how much storage space you have available on your phone before sa
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+- [Chrome New Tab Page Slow to Load: Complete Fix Guide](/articles/chrome-new-tab-page-slow-to-load)
+- [Chrome Pop Ups How to Block All](/articles/chrome-pop-ups-how-to-block-all)
+- [Chrome Site Settings Explained Complete Guide](/articles/chrome-site-settings-explained-complete-guide)

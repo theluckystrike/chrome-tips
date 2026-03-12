@@ -104,6 +104,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Opens In Small Window Fix](/chrome-opens-in-small-window-fix)
-* [Chrome Mute Tab Shortcut Explained](/chrome-mute-tab-shortcut-explained)
-* [How To Check If Chrome Extension Is Spying On Me](/how-to-check-if-chrome-extension-is-spying-on-me)
+- [Chrome Virtual Keyboard API for Mobile - Complete Guide](/chrome-tips/chrome-virtual-keyboard-api-mobile/)
+- [Chrome Extensions for Freelancers](/chrome-tips/chrome-extensions-for-freelancers/)
+- [Chrome CSS Masonry Layout Proposal - What You Need to Know](/chrome-tips/chrome-css-masonry-layout-proposal/)

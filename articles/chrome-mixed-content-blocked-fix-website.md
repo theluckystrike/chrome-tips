@@ -90,6 +90,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions For News Aggregator](/chrome-extensions-for-news-aggregator)
-* [Chrome Slower After Windows Update Fix](/chrome-slower-after-windows-update-fix)
-* [Chrome Tab Color Coding How To Use](/chrome-tab-color-coding-how-to-use)
+- [Chrome HTTPS Only Mode How to Enable](/chrome-tips/chrome-https-only-mode-how-to-enable/)
+- [Chrome Extensions for Pocket Alternative](/chrome-tips/chrome-extensions-for-pocket-alternative/)
+- [How to Use Chrome Net Internals to Clear DNS Cache](/chrome-tips/chrome-net-internals-dns-clear-cache/)

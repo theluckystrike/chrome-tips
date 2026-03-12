@@ -82,6 +82,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Slow On School Laptop How To Fix](/chrome-slow-on-school-laptop-how-to-fix)
-* [Chrome Speech Recognition Api Explained](/chrome-speech-recognition-api-explained)
-* [Chrome Extensions For Freelancers](/chrome-extensions-for-freelancers)
+- [Chrome for Nature Sounds While Studying](/chrome-tips/chrome-for-nature-sounds-while-studying/)
+- [Chrome Background Sync API Explained](/chrome-tips/chrome-background-sync-api-explained/)
+- [Chrome Reading Mode — How to Enable and Use It](/chrome-tips/chrome-reading-mode-how-to-enable/)

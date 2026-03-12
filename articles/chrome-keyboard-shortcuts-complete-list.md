@@ -100,6 +100,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Font Palette Css Explained](/chrome-font-palette-css-explained)
-* [Chrome Iterator Helpers Explained](/chrome-iterator-helpers-explained)
-* [Chrome Gmail Keyboard Shortcuts](/chrome-gmail-keyboard-shortcuts)
+- [Chrome for Quick Commands Feature](/chrome-tips/chrome-for-quick-commands-feature/)
+- [Chrome Extensions for Better YouTube Experience](/chrome-tips/chrome-extensions-for-better-youtube-experience/)
+- [Chrome Side Panel Extensions Best Ones](/chrome-tips/chrome-side-panel-extensions-best-ones/)

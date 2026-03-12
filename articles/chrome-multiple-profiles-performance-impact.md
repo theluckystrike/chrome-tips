@@ -58,6 +58,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Cashback Extensions Comparison](/chrome-for-cashback-extensions-comparison)
-* [Best Browser For Low Ram Computer 2026](/best-browser-for-low-ram-computer-2026)
-* [Chrome Voice Search How To Use On Desktop](/chrome-voice-search-how-to-use-on-desktop)
+- [Chrome for Gaming: How to Reduce Input Lag](/chrome-tips/chrome-for-gaming-reduce-input-lag/)
+- [Chrome Startup Pages How to Set](/chrome-tips/chrome-startup-pages-how-to-set/)
+- [Chrome Settings Reset Completely Fresh Start](/chrome-tips/chrome-settings-reset-completely-fresh-start/)

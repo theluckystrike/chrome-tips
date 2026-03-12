@@ -75,6 +75,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Default Browser How To Set On Windows](/chrome-default-browser-how-to-set-on-windows)
-* [Chrome Webgpu Vs Webgl Comparison](/chrome-webgpu-vs-webgl-comparison)
-* [Chrome For Google Scholar Best Extensions](/chrome-for-google-scholar-best-extensions)
+- [Chrome Helper Renderer High CPU Mac Fix](/chrome-tips/chrome-helper-renderer-high-cpu-mac-fix/)
+- [Chrome Extensions for Language Learning](/chrome-tips/chrome-extensions-for-language-learning/)
+- [Chrome Mobile View on Desktop How to](/chrome-tips/chrome-mobile-view-on-desktop-how-to/)

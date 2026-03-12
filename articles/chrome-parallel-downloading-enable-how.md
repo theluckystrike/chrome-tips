@@ -82,6 +82,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Bitchute Web Player](/chrome-for-bitchute-web-player)
-* [Chrome Err Name Not Resolved Fix](/chrome-err-name-not-resolved-fix)
-* [Chrome Clear Data For One Site Without Clearing All](/chrome-clear-data-for-one-site-without-clearing-all)
+- [Chrome Biometric Login How To Set Up](/chrome-tips/chrome-biometric-login-how-to-set-up/)
+- [chrome kiosk mode how to set up](/chrome-tips/chrome-kiosk-mode-how-to-set-up/)
+- [How to Group Tabs by Color in Chrome: A Complete Guide](/chrome-tips/chrome-group-tabs-by-color-organize/)

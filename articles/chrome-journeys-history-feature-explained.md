@@ -70,6 +70,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Reset Vs Reinstall Which Is Better](/chrome-reset-vs-reinstall-which-is-better)
-* [Chrome Webgpu Api Getting Started](/chrome-webgpu-api-getting-started)
-* [Chrome For Audible Web Player Tips](/chrome-for-audible-web-player-tips)
+- [Best Chrome Extensions for Real Estate Agents](/chrome-tips/best-chrome-extensions-for-real-estate-agents/)
+- [Chrome Extensions For Dropbox](/chrome-tips//articles/chrome-extensions-for-dropbox//)
+- [Chrome Shape Detection API – Barcode, Face & Text Recognition Directly in Your](/chrome-tips/chrome-shape-detection-barcode-face-text/)

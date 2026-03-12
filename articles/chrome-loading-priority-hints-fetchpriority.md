@@ -78,6 +78,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How To Check Website Speed In Chrome](/how-to-check-website-speed-in-chrome)
-* [Chrome Live Captions Languages](/chrome-live-captions-languages)
-* [Chrome Extension For Video Downloading Legal](/chrome-extension-for-video-downloading-legal)
+- [chrome mobile save page offline how to](/chrome-tips/chrome-mobile-save-page-offline-how-to/)
+- [Chrome: The Most Used Browser in the World — Why?](/chrome-tips/chrome-most-used-browser-in-the-world-why/)
+- [Chrome Shadow DOM What It Is](/chrome-tips/chrome-shadow-dom-what-it-is/)

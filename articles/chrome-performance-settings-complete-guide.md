@@ -77,6 +77,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Extensions For Screenshot Full Page](/chrome-extensions-for-screenshot-full-page)
-* [Chrome Whatsapp Web Not Connecting Fix](/chrome-whatsapp-web-not-connecting-fix)
-* [Chrome Extension Conflict Causing Crashes](/chrome-extension-conflict-causing-crashes)
+- [Chrome Extensions for Meal Planning](/chrome-tips/chrome-extensions-for-meal-planning/)
+- [Chrome Devtools Recorder Panel How To Use](/chrome-tips/chrome-devtools-recorder-panel-how-to-use/)
+- [Chrome Family Link How to Use on Desktop](/chrome-tips/chrome-family-link-how-to-use-on-desktop/)

@@ -71,6 +71,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [How To See Chrome Memory Usage In Task Manager](/how-to-see-chrome-memory-usage-in-task-manager)
-* [Chrome Extension For Spotify Lyrics](/chrome-extension-for-spotify-lyrics)
-* [Chrome Whatsapp Web Not Connecting Fix](/chrome-whatsapp-web-not-connecting-fix)
+- [Chrome Activity Controls What They Track](/chrome-tips/chrome-activity-controls-what-they-track/)
+- [Chrome Managed Bookmarks for Employees](/chrome-tips/chrome-managed-bookmarks-for-employees/)
+- [Chrome Utility Process What Is It](/chrome-tips/chrome-utility-process-what-is-it/)

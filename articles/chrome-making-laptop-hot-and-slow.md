@@ -90,6 +90,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
-* [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
-* [Chrome For Kayak Price Alerts Extension](/chrome-for-kayak-price-alerts-extension)
+- [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/chrome-tips/chrome-smooth-scrolling-enable/)
+- [Chrome Extension for YouTube Ad Blocker](/chrome-tips/chrome-extension-for-youtube-ad-blocker/)
+- [Chrome Network Settings Reset How To](/chrome-tips/chrome-network-settings-reset-how-to/)

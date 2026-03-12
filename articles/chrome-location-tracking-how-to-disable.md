@@ -76,6 +76,6 @@ By taking these steps, you can significantly reduce the amount of location data 
 
 ## Related Articles
 
-* [Chrome For Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)
-* [Chrome Web Store Reviews How To Spot Fake](/chrome-web-store-reviews-how-to-spot-fake)
-* [Chrome Wappalyzer Alternative Built In](/chrome-wappalyzer-alternative-built-in)
+- [Chrome Extensions for Website Blocker](/chrome-tips/chrome-extensions-for-website-blocker/)
+- [Chrome Update Failed Error 7 Fix](/chrome-tips/chrome-update-failed-error-7-fix/)
+- [Chrome This Site Cant Be Reached Fix](/chrome-tips/chrome-this-site-cant-be-reached-fix/)

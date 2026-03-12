@@ -84,6 +84,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Requestanimationframe Explained](/chrome-requestanimationframe-explained)
-* [Chrome Cache First Vs Network First Strategy](/chrome-cache-first-vs-network-first-strategy)
-* [Chrome Preloading Pages Setting Explained](/chrome-preloading-pages-setting-explained)
+- [Chrome Hardware Acceleration Causes Problems](/chrome-tips/chrome-hardware-acceleration-causes-problems/)
+- [Chrome Related Website Sets Explained](/chrome-tips/chrome-related-website-sets-explained/)
+- [Chrome Encoding API Text Encoder Decoder](/chrome-tips/chrome-encoding-api-text-encoder-decoder/)

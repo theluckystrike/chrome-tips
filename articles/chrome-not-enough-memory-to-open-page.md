@@ -89,6 +89,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Network Process High Cpu Fix](/chrome-network-process-high-cpu-fix)
-* [Chrome Two Factor Authentication Setup](/chrome-two-factor-authentication-setup)
-* [Chrome Extensions For Google Sheets](/chrome-extensions-for-google-sheets)
+- [Chrome Extensions for Amazon FBA Sellers](/chrome-tips/chrome-extensions-for-amazon-fba-sellers/)
+- [How to Put Chrome Portable Version on a USB Drive](/chrome-tips/chrome-portable-version-usb-drive-how/)
+- [Chrome Extension for Highlighting Text on Websites](/chrome-tips/chrome-extension-for-highlighting-text-on-websites/)

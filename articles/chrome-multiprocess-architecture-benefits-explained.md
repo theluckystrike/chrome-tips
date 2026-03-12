@@ -61,6 +61,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome For Tor Browsing Is It Possible](/chrome-for-tor-browsing-is-it-possible)
-* [Chrome Extensions For Weather Forecast New Tab](/chrome-extensions-for-weather-forecast-new-tab)
-* [Chrome Lite Mode Data Saver Replacement](/chrome-lite-mode-data-saver-replacement)
+- [Chrome Popover API: Modal vs Non-Modal Popovers Explained](/chrome-tips/chrome-popover-api-modal-vs-non-modal/)
+- [Chrome Security Key How to Use With Chrome](/chrome-tips/chrome-security-key-how-to-use-with-chrome/)
+- [Chrome DevTools Rendering Tab Explained](/chrome-tips/chrome-devtools-rendering-tab-explained/)

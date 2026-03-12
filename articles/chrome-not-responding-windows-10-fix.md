@@ -92,6 +92,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Keyboard Shortcuts Complete List 2026](/chrome-keyboard-shortcuts-complete-list-2026)
-* [Chrome Err Cache Miss Fix](/chrome-err-cache-miss-fix)
-* [Chrome Extensions For Gantt Chart](/chrome-extensions-for-gantt-chart)
+- [How to Update Chrome on iPhone](/chrome-tips/how-to-update-chrome-on-iphone/)
+- [Chrome Cookie Consent Popups How to Handle](/chrome-tips/chrome-cookie-consent-popups-how-to-handle/)
+- [Chrome Startup Time How to Measure](/chrome-tips/chrome-startup-time-how-to-measure/)

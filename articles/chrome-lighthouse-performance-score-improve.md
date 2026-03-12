@@ -85,6 +85,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Font Too Small On Certain Websites Fix](/chrome-font-too-small-on-certain-websites-fix)
-* [How To Make Chrome Kid Friendly](/how-to-make-chrome-kid-friendly)
-* [Chrome Notification Permission Best Practices](/chrome-notification-permission-best-practices)
+- [Chrome Slow on 10 Year Old Laptop Fix](/chrome-tips/chrome-slow-on-10-year-old-laptop-fix/)
+- [chrome for geforce now best settings](/chrome-tips/chrome-for-geforce-now-best-settings/)
+- [Chrome Remote Desktop Setup Guide](/chrome-tips/chrome-remote-desktop-setup-guide/)

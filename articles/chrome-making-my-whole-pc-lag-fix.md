@@ -105,6 +105,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Site Isolation What It Means](/chrome-site-isolation-what-it-means)
-* [Chrome Text To Speech Built In Features](/chrome-text-to-speech-built-in-features)
-* [Chrome Tab Discard What It Means](/chrome-tab-discard-what-it-means)
+- [How to Use Chrome Task Manager to Find Heavy Tabs](/chrome-tips/chrome-task-manager-find-heavy-tabs/)
+- [Chrome Serial API and USB Device Access — Complete Guide](/chrome-tips/chrome-serial-api-usb-device-access/)
+- [Chrome Trust Tokens Explained](/chrome-tips/chrome-trust-tokens-guide/)

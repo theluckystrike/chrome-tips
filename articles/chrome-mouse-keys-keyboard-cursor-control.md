@@ -93,6 +93,6 @@ Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome View Transition Same Document](/chrome-view-transition-same-document)
-* [Chrome For Jira Best Extensions](/chrome-for-jira-best-extensions)
-* [Best Chrome Extensions For Twitter X](/best-chrome-extensions-for-twitter-x)
+- [Chrome for BitChute Web Player](/chrome-tips/chrome-for-bitchute-web-player/)
+- [Chrome Extensions for Website Dark Mode Forced](/chrome-tips/chrome-extensions-for-website-dark-mode-forced/)
+- [Chrome Aspect Ratio CSS Property](/chrome-tips/chrome-aspect-ratio-css-property/)

@@ -56,6 +56,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Accessibility Tree Guide](/chrome-accessibility-tree-guide)
-* [Chrome Extensions For Resume Building](/chrome-extensions-for-resume-building)
-* [Chrome For Two Factor Authentication Setup](/chrome-for-two-factor-authentication-setup)
+- [Chrome Startup Too Slow Diagnosis Guide](/chrome-tips/chrome-startup-too-slow-diagnosis-guide/)
+- [Chrome for Music Discovery Extensions](/chrome-tips/chrome-for-music-discovery-extensions/)
+- [chrome for monday.com best extensions](/chrome-tips/chrome-for-mondaycom-best-extensions/)

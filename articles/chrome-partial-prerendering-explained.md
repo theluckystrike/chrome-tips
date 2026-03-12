@@ -64,6 +64,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Best Password Manager Chrome Extension](/best-password-manager-chrome-extension)
-* [Chrome For Tradingview Best Extensions](/chrome-for-tradingview-best-extensions)
-* [Chrome Upcoming Features Roadmap 2026](/chrome-upcoming-features-roadmap-2026)
+- [chrome for metamask setup and tips](/chrome-tips/chrome-for-metamask-setup-and-tips/)
+- [chrome for crypto portfolio tracking web](/chrome-tips/chrome-for-crypto-portfolio-tracking-web/)
+- [chrome for shopping price comparison tools](/chrome-tips/chrome-for-shopping-price-comparison-tools/)

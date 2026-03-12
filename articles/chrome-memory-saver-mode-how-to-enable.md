@@ -97,6 +97,6 @@ Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles
 
-* [Chrome Offline Google Docs How To Enable](/chrome-offline-google-docs-how-to-enable)
-* [Chrome Extensions For Study Timer](/chrome-extensions-for-study-timer)
-* [One Chrome Tab Making Everything Slow](/one-chrome-tab-making-everything-slow)
+- [chrome reopen accidentally closed tab how](/chrome-tips/chrome-reopen-accidentally-closed-tab-how/)
+- [Chrome Best Screenshot Extension 2026](/chrome-tips/chrome-best-screenshot-extension-2026/)
+- [Chrome Extensions for Google Forms](/chrome-tips/chrome-extensions-for-google-forms/)

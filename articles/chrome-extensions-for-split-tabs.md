@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Split Tabs"
-description: "Need chrome extensions for split tabs? Learn how to view two tabs side by side and organize your browser window for better productivity."
+title: Chrome Extensions for Split Tabs
+description: Need chrome extensions for split tabs? Learn how to view two tabs side
+  by side and organize your browser window for better productivity. Learn how to optimiz...
 date: 2026-03-09
-categories: [productivity, tips]
-tags: [tabs, split-screen, chrome-extensions, productivity]
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- split-screen
+- chrome-extensions
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-split-tabs
 ---
-
 # Chrome Extensions for Split Tabs
 
 If you have ever searched for chrome extensions for split tabs, you probably found yourself constantly switching back and forth between two pages in your browser. Maybe you were comparing products while shopping, following along with a tutorial while working on a project, or referencing a document while writing an email. This back-and-forth clicking gets exhausting quickly, and it breaks your concentration every time you switch.

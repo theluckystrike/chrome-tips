@@ -2,12 +2,12 @@
 layout: post
 title: Chrome Extensions for Page Zoom Per Site
 description: Discover Chrome extensions that let you set different zoom levels for
-  each website automatically, so you never have to adjust manually again.
+  each website automatically, so you never have to adjust manually again. Learn how
+  to op...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
-permalink: /chrome-extensions-for-page-zoom-per-site/
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-page-zoom-per-site
 ---
-
 Chrome extensions for page zoom per site are tools that solve a common frustration. If you have ever opened one website that looks perfect and then visited another where the text is either too small or awkwardly large, you know the feeling. You zoom in on one tab, then zoom out on another, and this dance repeats every time you browse. The good news is that you do not have to keep doing this. There are extensions and methods that can remember your zoom preferences for each individual website, so everything looks right automatically.
 
 ## Why Chrome Does Not Remember Your Zoom Settings

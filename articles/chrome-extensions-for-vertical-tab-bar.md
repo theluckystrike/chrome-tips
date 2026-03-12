@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Vertical Tab Bar"
-description: "Looking for chrome extensions for vertical tab bar? Discover extensions that move your tabs to the side for better organization and more screen space."
+title: Chrome Extensions for Vertical Tab Bar
+description: Looking for chrome extensions for vertical tab bar? Discover extensions
+  that move your tabs to the side for better organization and more screen space.
 date: 2026-03-09
-categories: [productivity, tips]
-tags: [tabs, vertical-tabs, chrome-extensions, productivity]
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- vertical-tabs
+- chrome-extensions
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-vertical-tab-bar
 ---
-
 # Chrome Extensions for Vertical Tab Bar
 
 If you have ever searched for chrome extensions for vertical tab bar, you probably know the frustration of running out of horizontal space in your browser. When you have many tabs open, the tab bar becomes cramped and difficult to navigate. You squint at tiny tab previews, lose track of which tab is which, and sometimes accidentally click the wrong one. This is a common problem for anyone who works with multiple pages at once, and there are practical ways to solve it.

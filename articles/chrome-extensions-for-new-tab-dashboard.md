@@ -13,7 +13,7 @@ tags:
 - new-tab
 - dashboard
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-new-tab-dashboard
 ---
 # Chrome Extensions for New Tab Dashboard

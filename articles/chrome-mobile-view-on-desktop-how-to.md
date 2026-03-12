@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Mobile View on Desktop How to"
-description: "Learn how to view mobile versions of websites in Chrome on your desktop computer. Simple tricks to test responsive designs and mobile layouts."
+title: Chrome Mobile View on Desktop How to
+description: Learn how to view mobile versions of websites in Chrome on your desktop
+  computer. Simple tricks to test responsive designs and mobile layouts. Learn how
+  to o...
 date: 2025-02-19
-categories: [browser-tips, troubleshooting]
-tags: [mobile-view, responsive-design, developer-tools, testing]
+categories:
+- browser-tips
+- troubleshooting
+tags:
+- mobile-view
+- responsive-design
+- developer-tools
+- testing
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-mobile-view-on-desktop-how-to
 ---
-
 # Chrome Mobile View on Desktop How to
 
 If you are searching for chrome mobile view on desktop how to, you probably want to see how a website looks on a phone without actually pulling out your smartphone. Maybe you are a web designer checking if your work looks good on mobile, or maybe a friend asked you to test something on their site and you only have a computer available. Whatever the reason, Chrome has built-in tools that let you preview any website as it would appear on a mobile device, and you do not need any technical skills to use them.

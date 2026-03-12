@@ -1,13 +1,25 @@
 ---
 layout: post
-title: "Chrome MediaRecorder API Guide"
-description: "Learn how to use the Chrome MediaRecorder API for audio, video, and screen recording in web applications. Complete guide covering MediaStream handling, encoding options, and best practices."
+title: Chrome MediaRecorder API Guide
+description: Learn how to use the Chrome MediaRecorder API for audio, video, and screen
+  recording in web applications. Complete guide covering MediaStream handling, encod...
 date: 2026-01-20
-categories: [development, chrome, api, media]
-tags: [mediarecorder, chrome-api, audio-recording, video-recording, screen-recording, browser-api]
+categories:
+- development
+- chrome
+- api
+- media
+tags:
+- mediarecorder
+- chrome-api
+- audio-recording
+- video-recording
+- screen-recording
+- browser-api
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-mediarecorder-api-guide
 ---
-
 # Chrome MediaRecorder API Guide
 
 The **MediaRecorder API** is one of the most powerful features available in modern web browsers, particularly Chrome. This API enables web developers to capture media streams directly from the browser, opening up possibilities for recording audio, video, and even entire screen content without requiring external plugins or native applications. Whether you are building a video conferencing tool, a podcast recording application, or a screen capture utility, understanding the MediaRecorder API is essential for creating rich, media-centric web experiences.

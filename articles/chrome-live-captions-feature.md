@@ -1,13 +1,22 @@
 ---
 layout: default
-title: "Chrome Live Captions Feature Guide"
-description: "Learn how to enable and use Chrome Live Captions for accessibility. Complete guide covering supported languages, caption accuracy, and accessibility features in Google Chrome."
+title: Chrome Live Captions Feature Guide
+description: Learn how to enable and use Chrome Live Captions for accessibility. Complete
+  guide covering supported languages, caption accuracy, and accessibility features...
 date: 2026-01-20
-categories: [accessibility, chrome-features, browser-tips]
-tags: [chrome-live-captions, accessibility-features, browser-accessibility, captions]
+categories:
+- accessibility
+- chrome-features
+- browser-tips
+tags:
+- chrome-live-captions
+- accessibility-features
+- browser-accessibility
+- captions
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-live-captions-feature
 ---
-
 # Chrome Live Captions Feature Guide
 
 In an increasingly digital world, accessibility features in web browsers have become essential for millions of users. Whether you're someone who is deaf or hard of hearing, prefer learning through reading, or find yourself in a noisy environment where you can't play audio, Chrome's Live Captions feature offers a powerful solution. This comprehensive guide will walk you through everything you need to know about enabling, using, and getting the most out of Chrome Live Captions.

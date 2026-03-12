@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "Chrome Media Session API: Mastering Music Controls in Your Browser"
-description: "Learn how Chrome's Media Session API lets you control music playback directly from your browser. Full keyboard shortcuts, notification controls, and integration tips."
+title: 'Chrome Media Session API: Mastering Music Controls in Your Browser'
+description: Learn how Chrome's Media Session API lets you control music playback
+  directly from your browser. Full keyboard shortcuts, notification controls, and
+  integrat...
 date: 2026-01-15
-categories: [chrome, media, productivity]
-tags: [chrome-media, media-session-api, music-controls, browser-tips]
+categories:
+- chrome
+- media
+- productivity
+tags:
+- chrome-media
+- media-session-api
+- music-controls
+- browser-tips
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-media-session-api-music-controls
 ---
-
 # Chrome Media Session API: Mastering Music Controls in Your Browser
 
 Imagine you're working on a project with dozens of Chrome tabs open, and you want to skip a song or pause your music without switching away from your current task. Thanks to Chrome's Media Session API, this is not only possible but incredibly convenient. This powerful feature integrates media controls directly into your browser, giving you keyboard shortcuts, notification controls, and system-level integration that makes managing audio playback seamless.

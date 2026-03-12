@@ -1,13 +1,25 @@
 ---
 layout: default
-title: "Chrome Lighthouse Audit for Website Speed: Complete Guide"
-description: "Learn how to use Chrome Lighthouse audit to measure and improve your website speed with detailed performance analysis and optimization tips."
+title: 'Chrome Lighthouse Audit for Website Speed: Complete Guide'
+description: Learn how to use Chrome Lighthouse audit to measure and improve your
+  website speed with detailed performance analysis and optimization tips. Learn how
+  to opt...
 date: 2026-01-20
-categories: [web-development, performance, chrome]
-tags: [lighthouse, chrome-devtools, performance, website-speed, page-load, optimization]
+categories:
+- web-development
+- performance
+- chrome
+tags:
+- lighthouse
+- chrome-devtools
+- performance
+- website-speed
+- page-load
+- optimization
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-lighthouse-audit-website-speed
 ---
-
 # Chrome Lighthouse Audit for Website Speed: Complete Guide
 
 Website speed has become one of the most critical factors for online success. Whether you run a personal blog, an e-commerce store, or a corporate website, the speed at which your pages load directly impacts user experience, search engine rankings, and conversion rates. Google Chrome provides a powerful, free tool called Lighthouse that helps you measure and improve your website speed. In this guide, we will walk you through running a Chrome Lighthouse audit specifically focused on website speed optimization.

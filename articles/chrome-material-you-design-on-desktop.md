@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "chrome material you design on desktop"
-description: "Learn how to customize Chrome with Material You design on desktop. A simple guide to bringing Google Material You aesthetics to your browser."
+title: Chrome Material You Design On Desktop
+description: Learn how to customize Chrome with Material You design on desktop. A
+  simple guide to bringing Google Material You aesthetics to your browser. Learn how
+  to op...
 date: 2026-03-09
-categories: [features, customization]
-tags: [material-you, chrome-design, desktop-customization, google-material, browser-themes]
+categories:
+- features
+- customization
+tags:
+- material-you
+- chrome-design
+- desktop-customization
+- google-material
+- browser-themes
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-material-you-design-on-desktop
 ---
-
 # Chrome Material You Design on Desktop
 
 If you have ever searched for chrome material you design on desktop, you probably want to bring the modern Material You look to your desktop browser. Google has been rolling out its Material You design language across its products, and Chrome on desktop is no exception. This guide will help you understand how to get that fresh, colorful Material You aesthetic on your desktop Chrome experience.

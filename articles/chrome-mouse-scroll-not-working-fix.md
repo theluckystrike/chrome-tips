@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "Chrome Mouse Scroll Not Working Fix"
-description: "Is your Chrome mouse scroll not working? Try these simple solutions to get smooth scrolling back in your browser."
+title: Chrome Mouse Scroll Not Working Fix
+description: Is your Chrome mouse scroll not working? Try these simple solutions to
+  get smooth scrolling back in your browser. Learn how to optimize your browser today
+  fo...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-mouse-scroll-not-working-fix
 ---
-
 Is your Chrome mouse scroll not working? This is one of those frustrating problems that can suddenly make browsing the web feel like a chore. One moment you are scrolling through a page smoothly, and the next your mouse wheel seems completely dead. The good news is that this is usually fixable, and you can often get things working again with just a few simple steps.
 
 Let me walk you through why this happens and what you can do to fix it.

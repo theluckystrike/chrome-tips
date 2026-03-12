@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Lighthouse Treemap Explained"
-description: "Learn what the Chrome Lighthouse treemap shows, why it matters for your website performance, and how to use it effectively."
+title: Chrome Lighthouse Treemap Explained
+description: Learn what the Chrome Lighthouse treemap shows, why it matters for your
+  website performance, and how to use it effectively. Learn how to optimize your browse...
 date: 2026-01-15
-categories: [performance, development, tools]
-tags: [chrome-lighthouse, performance, web-development, browser-tools]
+categories:
+- performance
+- development
+- tools
+tags:
+- chrome-lighthouse
+- performance
+- web-development
+- browser-tools
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-lighthouse-treemap-explained
 ---
-
 # Chrome Lighthouse Treemap Explained
 
 If you have ever run a Lighthouse audit in Chrome and wondered what that colorful treemap is telling you, you are not alone. The Chrome Lighthouse treemap explained simply is a visual breakdown of all the resources that make up a web page, showing you exactly how big each file is and what role it plays in your page load. Understanding this tool can help you make smarter decisions about how to speed up your website and improve the experience for your visitors.

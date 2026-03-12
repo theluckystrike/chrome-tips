@@ -1,11 +1,22 @@
 ---
 layout: post
-title: "Chrome Android Slow Fix 2026"
-description: "Is Chrome running slow on your Android phone? Here are practical fixes to speed up Chrome on Android in 2026."
-date: 2026-01-20
-categories: [mobile, performance, troubleshooting]
-tags: [chrome-android, android-browser, chrome-slow, mobile-browser]
+title: Chrome Android Slow Fix 2026
+description: Is Chrome running slow on your Android phone? Here are practical fixes
+  to speed up Chrome on Android in 2026. Read our comprehensive guide to learn more
+  abou...
+date: '2026-01-20'
+categories:
+- mobile
+- performance
+- troubleshooting
+tags:
+- chrome-android
+- android-browser
+- chrome-slow
+- mobile-browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-android-slow-fix-2026
 ---
 
 # Chrome Android Slow Fix 2026

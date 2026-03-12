@@ -1,11 +1,20 @@
 ---
 layout: post
-title: "Chrome Ask Before Closing Multiple Tabs Setting"
-description: "Learn how to enable Chrome's confirmation dialog when closing multiple tabs to prevent accidentally losing important pages."
-date: 2025-03-10
-categories: [productivity, tips]
-tags: [tabs, chrome-settings, browser-management]
+title: Chrome Ask Before Closing Multiple Tabs Setting
+description: Learn how to enable Chrome's confirmation dialog when closing multiple
+  tabs to prevent accidentally losing important pages. Read our comprehensive guide
+  to l...
+date: '2025-03-10'
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- chrome-settings
+- browser-management
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-ask-before-closing-multiple-tabs-setting
 ---
 
 # Chrome Ask Before Closing Multiple Tabs Setting

@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome AI Summarize Feature How to Use"
-description: "Learn how to use Chrome AI summarize feature to quickly get the key points from any article or webpage. Simple steps inside."
-date: 2026-03-09
-categories: [browsing, tips]
-tags: [chrome, ai, summarize, productivity]
+title: Chrome AI Summarize Feature How to Use
+description: Learn how to use Chrome AI summarize feature to quickly get the key points
+  from any article or webpage. Simple steps inside. Read our comprehensive guide to
+  ...
+date: '2026-03-09'
+categories:
+- browsing
+- tips
+tags:
+- chrome
+- ai
+- summarize
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-ai-summarize-feature-how-to-use
 ---
 
 # Chrome AI Summarize Feature How to Use

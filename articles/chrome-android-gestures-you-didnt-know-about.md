@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Android Gestures You Didnt Know About"
-description: "Discover hidden Chrome Android gestures that can speed up your mobile browsing. Learn swipe shortcuts and touch tricks most users miss."
-date: 2026-01-20
-categories: [mobile, android, tips]
-tags: [chrome-android, gestures, mobile-browsing, tips-tricks]
+title: Chrome Android Gestures You Didnt Know About
+description: Discover hidden Chrome Android gestures that can speed up your mobile
+  browsing. Learn swipe shortcuts and touch tricks most users miss. Read our comprehensiv...
+date: '2026-01-20'
+categories:
+- mobile
+- android
+- tips
+tags:
+- chrome-android
+- gestures
+- mobile-browsing
+- tips-tricks
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-android-gestures-you-didnt-know-about
 ---
 
 # Chrome Android Gestures You Didnt Know About

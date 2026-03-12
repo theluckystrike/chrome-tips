@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome AI Search Suggestions Explained"
-description: "Understand Chrome AI search suggestions, why they appear, and how to manage them for better privacy and browsing."
-date: 2026-03-09
-categories: [chrome, privacy]
-tags: [ai, search, chrome-settings, suggestions]
+title: Chrome AI Search Suggestions Explained
+description: Understand Chrome AI search suggestions, why they appear, and how to
+  manage them for better privacy and browsing. Read our comprehensive guide to learn
+  more ...
+date: '2026-03-09'
+categories:
+- chrome
+- privacy
+tags:
+- ai
+- search
+- chrome-settings
+- suggestions
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-ai-search-suggestions-explained
 ---
 
 # Chrome AI Search Suggestions Explained

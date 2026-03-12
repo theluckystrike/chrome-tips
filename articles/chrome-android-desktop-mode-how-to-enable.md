@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "Chrome Android Desktop Mode How to Enable"
-description: "Learn how to enable desktop mode in Chrome for Android to view full website versions on your phone."
-date: 2026-01-15
-categories: [android, chrome, tips]
-tags: [chrome-android, desktop-mode, mobile-browser, browser-settings]
+title: Chrome Android Desktop Mode How to Enable
+description: Learn how to enable desktop mode in Chrome for Android to view full website
+  versions on your phone. Read our comprehensive guide to learn more about this Chr...
+date: '2026-01-15'
+categories:
+- android
+- chrome
+- tips
+tags:
+- chrome-android
+- desktop-mode
+- mobile-browser
+- browser-settings
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-android-desktop-mode-how-to-enable
 ---
 
 # Chrome Android Desktop Mode How to Enable

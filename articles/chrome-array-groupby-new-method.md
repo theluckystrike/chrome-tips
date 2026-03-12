@@ -1,11 +1,23 @@
 ---
 layout: post
-title: "chrome array groupby new method"
-description: "Learn about the new Array.groupBy() method in Chrome and JavaScript. Discover how to group array elements efficiently with this powerful browser feature."
-date: 2025-01-15
-categories: [javascript, programming, chrome]
-tags: [javascript, array, groupby, chrome, programming, browser]
+title: Chrome Array Groupby New Method
+description: Learn about the new Array.groupBy() method in Chrome and JavaScript.
+  Discover how to group array elements efficiently with this powerful browser feature.
+date: '2025-01-15'
+categories:
+- javascript
+- programming
+- chrome
+tags:
+- javascript
+- array
+- groupby
+- chrome
+- programming
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-array-groupby-new-method
 ---
 
 # Chrome Array groupBy New Method: A Complete Guide

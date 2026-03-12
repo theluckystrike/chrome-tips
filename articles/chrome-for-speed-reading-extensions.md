@@ -3,12 +3,13 @@ layout: post
 title: "Chrome for Speed Reading Extensions"
 description: "Discover Chrome extensions that help you read faster. Learn about speed reading tools, how they work, and which ones might work for you. Read more to optimize y"
 date: 2026-01-20
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-speed-reading-extensions
 categories: [productivity, extensions]
 tags: [chrome-extensions, speed-reading, productivity, browser]
 author: theluckystrike
 ---
+
 
 
 # Chrome for Speed Reading Extensions

@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Lazy Loading Images Native: How It Works and Why You Should Use It"
 description: "Learn about Chrome's built-in lazy loading for images. Discover how native lazy loading improves page speed, saves bandwidth, and enhances user experience."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-lazy-loading-images-native
 categories: [performance, optimization, web-development]
 tags: [chrome, lazy-loading, images, performance, website-speed]
 author: theluckystrike
 ---
+
 
 
 # Chrome Lazy Loading Images Native: How It Works and Why You Should Use It

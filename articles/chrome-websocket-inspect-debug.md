@@ -3,12 +3,13 @@ layout: post
 title: "How to Inspect and Debug WebSocket Connections in Chrome"
 description: "Learn how to inspect and debug WebSocket connections in Chrome using built-in developer tools. Master the Network tab, view messages, and troubleshoot real-t..."
 date: 2026-03-11
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-websocket-inspect-debug
 categories: [developer-tools, debugging, tips]
 tags: [chrome-devtools, websocket, debugging, web-development]
 author: theluckystrike
 ---
+
 
 
 # How to Inspect and Debug WebSocket Connections in Chrome

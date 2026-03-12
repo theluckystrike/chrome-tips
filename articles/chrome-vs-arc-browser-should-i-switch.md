@@ -3,12 +3,13 @@ layout: post
 title: "Chrome vs Arc Browser: Should I Switch?"
 description: "Considering switching from Chrome to Arc? We compare these browsers on speed, features, privacy, and workflow to help you decide. Read more to optimize your exp"
 date: 2026-01-20
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-vs-arc-browser-should-i-switch
 categories: [browsers, chrome, arc]
 tags: [chrome, arc-browser, browser-comparison, browser-switch, browser]
 author: theluckystrike
 ---
+
 
 
 # Chrome vs Arc Browser: Should I Switch?

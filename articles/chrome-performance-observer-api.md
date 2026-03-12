@@ -3,9 +3,10 @@ layout: post
 title: "Chrome Performance Observer API Explained"
 description: "Learn how the Chrome Performance Observer API works, why it matters for web performance, and how to use it to monitor your browser's performance metrics."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-performance-observer-api
 ---
+
 
 
 The Chrome Performance Observer API is a powerful tool that allows developers and advanced users to measure and monitor real-time performance metrics in the browser. If you have ever wondered how websites know exactly how long it takes for a page to load or how they track user interactions, the Performance Observer API is one of the key technologies making that possible.

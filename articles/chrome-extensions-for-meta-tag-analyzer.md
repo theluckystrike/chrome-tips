@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Extensions for Meta Tag Analyzer"
 description: "Learn how Chrome extensions for meta tag analyzer help you check and optimize website metadata for better search rankings. Read more to optimize your experience"
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-meta-tag-analyzer
 categories: [seo, tips]
 tags: [chrome-extensions, meta-tags, seo-tools]
 author: theluckystrike
 ---
+
 
 
 # Chrome Extensions for Meta Tag Analyzer

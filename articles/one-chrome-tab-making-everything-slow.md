@@ -3,12 +3,13 @@ layout: post
 title: "One Chrome Tab Making Everything Slow: What to Do About It"
 description: "Is one Chrome tab making everything slow? Learn practical solutions to free up RAM and get your computer running smoothly again. Read more to optimize your expe"
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: one-chrome-tab-making-everything-slow
 categories: [performance, chrome, troubleshooting]
 tags: [chrome-slow, one-tab-slow, ram-issues, chrome-performance, browser-troubleshooting]
 author: theluckystrike
 ---
+
 
 
 # One Chrome Tab Making Everything Slow: What to Do About It

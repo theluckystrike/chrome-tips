@@ -3,12 +3,13 @@ layout: post
 title: "How to Fix Chrome Search Bar Not Working"
 description: "Chrome search bar not responding? Learn practical solutions to fix your address bar, from clearing cache to resetting settings. Get Chrome working again."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-search-bar-not-working-fix
 categories: [chrome, troubleshooting, search]
 tags: [chrome-search, address-bar, browser-fix, troubleshooting]
 author: theluckystrike
 ---
+
 
 
 # How to Fix Chrome Search Bar Not Working

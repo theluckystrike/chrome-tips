@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Open History Page Shortcut"
 description: "Learn how to quickly open Chrome history using keyboard shortcuts and Read more to optimize your experience. Discover essential tips for 2026. Read more to opti"
 date: 2026-01-18
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-open-history-page-shortcut
 categories: 
 tags: 
 author: theluckystrike
 ---
+
 
 
 

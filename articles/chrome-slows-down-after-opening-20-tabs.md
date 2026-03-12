@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Slows Down After Opening 20 Tabs: What You Can Do"
 description: "Is Chrome dragging after you open 20 tabs? Learn practical fixes to restore speed without closing your tabs or upgrading your computer. Read more to optimize yo"
 date: 2025-02-19
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-slows-down-after-opening-20-tabs
 categories: [performance]
 tags: [chrome-speed, tabs, memory, chrome-slow]
 author: theluckystrike
 ---
+
 
 
 # Chrome Slows Down After Opening 20 Tabs: What You Can Do

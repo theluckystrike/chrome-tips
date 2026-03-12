@@ -3,12 +3,13 @@ layout: post
 title: "chrome high contrast mode"
 description: "Learn how to enable and use Chrome high contrast mode for better accessibility. Read more to optimize your experience. Discover essential tips for 2026."
 date: 2026-03-11
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-high-contrast-mode
 categories: 
 tags: 
 author: theluckystrike
 ---
+
 
 
 # How to Enable and Use Chrome High Contrast Mode

@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Window Management API Explained"
 description: "Learn what the Chrome Window Management API does, why it matters for your browser experience, and how to use it effectively. Read more to optimize your experien"
 date: 2026-01-20
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-window-management-api-explained
 categories: [chrome, browser, productivity]
 tags: [chrome-window-management, browser-api, chrome-extensions, productivity]
 author: theluckystrike
 ---
+
 
 
 # Chrome Window Management API Explained

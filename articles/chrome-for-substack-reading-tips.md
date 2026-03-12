@@ -3,12 +3,13 @@ layout: post
 title: "Chrome for Substack Reading Tips"
 description: "Make the most of Substack in Chrome with these simple tips. Speed up your reading, reduce distractions, and organize your subscriptions easily. Read more to opt"
 date: 2025-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-substack-reading-tips
 categories: [productivity, reading]
 tags: [substack, reading, chrome-setup, extensions, browser-settings]
 author: theluckystrike
 ---
+
 
 
 # Chrome for Substack Reading Tips

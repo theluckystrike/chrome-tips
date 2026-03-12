@@ -3,12 +3,13 @@ layout: post
 title: "How to Set Up Chrome Pop Up Blocker Exceptions"
 description: "Learn how to configure Chrome pop up blocker exceptions for specific websites that need to display popups. Step-by-step guide for desktop and mobile. Read more "
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-pop-up-blocker-exceptions
 categories: [browsers, chrome, settings]
 tags: [chrome-pop-up-blocker, browser-settings, chrome-tips]
 author: theluckystrike
 ---
+
 
 
 # How to Set Up Chrome Pop Up Blocker Exceptions

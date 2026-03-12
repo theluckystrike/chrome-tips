@@ -3,12 +3,13 @@ layout: post
 title: "Chrome for Social Media Management Extensions"
 description: "Find the best Chrome extensions for social media management to streamline your workflow and handle multiple accounts easily. Read more to optimize your experien"
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-social-media-management-extensions
 categories: [social-media, productivity, tips]
 tags: [chrome-extensions, social-media-management, browser-tools]
 author: theluckystrike
 ---
+
 
 
 # Chrome for Social Media Management Extensions

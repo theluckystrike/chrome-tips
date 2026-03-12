@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Supervised Profiles for Kids"
 description: "Learn how to set up Chrome supervised profiles for kids to keep them safe online with content filtering and parental controls. Read more to optimize your experi"
 date: 2026-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-supervised-profiles-for-kids
 categories: [family, safety]
 tags: [supervised-profiles, kids-safety, chrome-profiles, parental-controls]
 author: theluckystrike
 ---
+
 
 
 # Chrome Supervised Profiles for Kids

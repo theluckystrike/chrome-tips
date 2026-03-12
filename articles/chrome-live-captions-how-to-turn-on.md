@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Live Captions How to Turn On"
 description: "Learn how to turn on Chrome Live Captions to see automatic subtitles on any video or audio in your browser. Simple guide. Read more to optimize your experience."
 date: 2025-03-12
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-live-captions-how-to-turn-on
 categories: [features, accessibility]
 tags: [live-captions, accessibility, chrome-features, subtitles]
 author: theluckystrike
 ---
+
 
 
 # Chrome Live Captions How to Turn On

@@ -3,9 +3,10 @@ layout: post
 title: "Chrome High Disk Usage Fix Windows"
 description: "Chrome running slow on Windows? Learn why Chrome uses high disk space Read more to optimize your experience. Discover essential tips for 2026. Read more to opti"
 date: 2026-03-09
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-high-disk-usage-fix-windows
 ---
+
 
 
 

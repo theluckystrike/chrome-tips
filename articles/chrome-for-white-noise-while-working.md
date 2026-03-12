@@ -3,12 +3,13 @@ layout: post
 title: "Chrome for White Noise While Working"
 description: "Learn how to use Chrome for white noise while working to block distractions and improve focus during your workday. Read more to optimize your experience."
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-white-noise-while-working
 categories: [productivity, wellness]
 tags: [chrome, white-noise, focus, productivity, concentration, work]
 author: theluckystrike
 ---
+
 
 
 # Chrome for White Noise While Working

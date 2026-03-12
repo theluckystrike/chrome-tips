@@ -3,12 +3,13 @@ layout: post
 title: "chrome extensions for whatfont alternative"
 description: "Looking for chrome extensions for whatfont alternative? Discover tools that identify fonts on any website easily. Read more to optimize your experience."
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-whatfont-alternative
 categories: [extensions, fonts]
 tags: [fonts, whatfont, font-identification, chrome-extensions]
 author: theluckystrike
 ---
+
 
 
 # Chrome Extensions for WhatFont Alternative

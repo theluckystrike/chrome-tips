@@ -3,12 +3,13 @@ layout: default
 title: "Chrome Custom Search Engines Guide"
 description: "Master Chrome custom search engines to boost productivity. Learn how Read more to optimize your experience. Discover essential tips for 2026. Read more to optim"
 date: 2025-12-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-search-engines-custom
 categories: 
 tags: 
 author: theluckystrike
 ---
+
 
 
 

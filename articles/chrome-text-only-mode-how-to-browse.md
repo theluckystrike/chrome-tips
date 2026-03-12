@@ -3,12 +3,13 @@ layout: post
 title: "chrome text only mode how to browse"
 description: "Learn how to browse in text-only mode in Chrome to speed up loading and reduce data usage. Simple steps for faster, lighter web browsing. Read more to optimize "
 date: 2026-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-text-only-mode-how-to-browse
 categories: [features, performance]
 tags: [text-only-mode, browsing, performance, speed]
 author: theluckystrike
 ---
+
 
 
 # Chrome Text Only Mode How to Browse

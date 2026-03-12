@@ -3,12 +3,13 @@ layout: post
 title: "Chrome ERR_BLOCKED_BY_CLIENT Fix"
 description: "Getting ERR_BLOCKED_BY_CLIENT in Chrome? Learn what causes it and how to fix it with simple solutions anyone can try. Read more to optimize your experience."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-err-blocked-by-client-fix
 categories: [troubleshooting, browsing]
 tags: [chrome-err-blocked, chrome-fix, browser-error, err-blocked-by-client]
 author: theluckystrike
 ---
+
 
 
 # Chrome ERR_BLOCKED_BY_CLIENT Fix

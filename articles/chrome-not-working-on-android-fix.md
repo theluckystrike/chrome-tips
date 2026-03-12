@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Not Working on Android Fix"
 description: "Is Chrome not working on your Android phone? Here are practical solutions to fix Chrome when it crashes, freezes, or wont load on Android. Read more to optimize"
 date: 2026-01-20
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-not-working-on-android-fix
 categories: [mobile, troubleshooting]
 tags: [chrome-android, android-browser, chrome-not-working, chrome-fix]
 author: theluckystrike
 ---
+
 
 
 # Chrome Not Working on Android Fix

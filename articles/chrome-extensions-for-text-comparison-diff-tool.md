@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Extensions for Text Comparison Diff Tool"
 description: "Find the best Chrome extensions for text comparison and diff tools to compare documents, code, and content easily. Read more to optimize your experience."
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-text-comparison-diff-tool
 categories: [text-comparison, tips]
 tags: [chrome-extensions, text-comparison, diff-tool]
 author: theluckystrike
 ---
+
 
 
 # Chrome Extensions for Text Comparison Diff Tool

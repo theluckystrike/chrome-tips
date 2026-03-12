@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Opens on Startup Windows: How to Stop"
 description: "Chrome launching automatically on Windows startup? Learn easy methods to prevent Chrome from opening when Windows starts. Read more to optimize your experience."
 date: 2025-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-opens-on-startup-windows-how-to-stop
 categories: [troubleshooting, tips]
 tags: [chrome-startup, chrome-settings, windows-startup, windows-11, windows-10]
 author: theluckystrike
 ---
+
 
 
 # Chrome Opens on Startup Windows: How to Stop

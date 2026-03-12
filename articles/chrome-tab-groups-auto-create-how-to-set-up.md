@@ -3,12 +3,13 @@ layout: post
 title: "chrome tab groups auto create how to set up"
 description: "Learn how to set up automatic tab groups in Chrome to organize your browsing and keep things tidy. Read more to optimize your experience. Discover essential tip"
 date: 2026-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-tab-groups-auto-create-how-to-set-up
 categories: [tabs, productivity]
 tags: [tab-groups, chrome, productivity, browser]
 author: theluckystrike
 ---
+
 
 
 # Chrome Tab Groups Auto Create How to Set Up

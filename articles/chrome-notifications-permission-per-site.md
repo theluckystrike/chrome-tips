@@ -3,9 +3,10 @@ layout: post
 title: "Chrome Notifications Permission Per Site"
 description: "Learn how to manage Chrome notifications permission per site and control which websites can send you alerts. Read more to optimize your experience. Discover ess"
 date: 2026-01-15
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-notifications-permission-per-site
 ---
+
 
 
 Chrome notifications permission per site is something many users want to understand better. When websites ask for permission to send you notifications, it can feel overwhelming if you have already allowed dozens of sites and now want to take back control. The good news is that Chrome makes it easy to manage notifications for each website individually, giving you precise control over which sites can send you alerts.

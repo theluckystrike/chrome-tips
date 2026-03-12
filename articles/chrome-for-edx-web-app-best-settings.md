@@ -3,12 +3,13 @@ layout: post
 title: "Chrome for edX Web App Best Settings"
 description: "Optimize Chrome for edX web app with the best settings for smooth learning. Save memory, reduce distractions, and improve performance. Read more to optimize you"
 date: 2025-02-20
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-edx-web-app-best-settings
 categories: [productivity, education, online-learning]
 tags: [chrome-edx, chrome-settings, edx-optimization, online-course]
 author: theluckystrike
 ---
+
 
 
 # Chrome for edX Web App Best Settings

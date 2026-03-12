@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Extensions for Web Development Tools"
 description: "Discover the best Chrome extensions for web development tools that can boost your productivity and simplify your workflow. Read more to optimize your experience"
 date: 2026-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-web-development-tools
 categories: [productivity, web-development, tips]
 tags: [chrome-extensions, web-development, browser-tools]
 author: theluckystrike
 ---
+
 
 
 # Chrome Extensions for Web Development Tools

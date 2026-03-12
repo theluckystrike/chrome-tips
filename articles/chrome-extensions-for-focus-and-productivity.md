@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Extensions for Focus and Productivity"
 description: "Discover how chrome extensions for focus and productivity can help you work smarter, reduce distractions, and accomplish more in your day. Read more to optimize"
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-focus-and-productivity
 categories: [productivity, tips]
 tags: [chrome-extensions, focus, productivity, browser-tools]
 author: theluckystrike
 ---
+
 
 
 # Chrome Extensions for Focus and Productivity

@@ -3,12 +3,13 @@ layout: post
 title: "How to Group Tabs by Color in Chrome: A Complete Guide"
 description: "Learn how to organize your Chrome tabs using color groups. This practical guide shows step-by-step methods to color-code tabs for better productivity and eas..."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-group-tabs-by-color-organize
 categories: [chrome, tabs, productivity]
 tags: [chrome-tabs, tab-groups, browser-tips, productivity]
 author: theluckystrike
 ---
+
 
 
 # How to Group Tabs by Color in Chrome: A Complete Guide

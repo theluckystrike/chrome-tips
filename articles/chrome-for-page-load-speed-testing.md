@@ -3,12 +3,13 @@ layout: post
 title: "Chrome for Page Load Speed Testing"
 description: "Learn how to use Chrome to test and measure website page load speed. Simple methods to check if your favorite sites are performing well. Read more to optimize y"
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-page-load-speed-testing
 categories: [performance, browser-tools]
 tags: [page-load-speed, browser-testing, website-performance, chrome-tools]
 author: theluckystrike
 ---
+
 
 
 # Chrome for Page Load Speed Testing

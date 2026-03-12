@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Extensions for Productivity Dashboard"
 description: "Discover Chrome extensions for productivity dashboard to organize your workflow and get more done. Read more to optimize your experience. Discover essential tip"
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-productivity-dashboard
 categories: [productivity, tips]
 tags: [chrome-extensions, productivity, dashboard, browser-tools]
 author: theluckystrike
 ---
+
 
 
 # Chrome Extensions for Productivity Dashboard

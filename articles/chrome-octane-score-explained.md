@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Octane Score Explained"
 description: "Understand Chrome Octane score and how it affects browser performance. Learn what it means and how to improve your browser speed. Read more to optimize your exp"
 date: 2026-01-15
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-octane-score-explained
 categories: [performance, browser-speed]
 tags: [chrome-octane, browser-benchmark, chrome-performance]
 author: theluckystrike
 ---
+
 
 
 # Chrome Octane Score Explained

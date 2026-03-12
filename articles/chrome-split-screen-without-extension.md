@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Split Screen Without Extension"
 description: "Learn how to use split screen in Chrome without installing extensions. Easy built-in methods for side by side viewing. Read more to optimize your experience."
 date: 2025-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-split-screen-without-extension
 categories: [features, productivity]
 tags: [split-screen, chrome, how-to, no-extension]
 author: theluckystrike
 ---
+
 
 
 # Chrome Split Screen Without Extension

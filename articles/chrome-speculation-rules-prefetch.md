@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Speculation Rules Prefetch: A Complete Guide"
 description: "Learn how Chrome speculation rules prefetch works, how to implement it, and why it can significantly speed up your web browsing experience. Read more to optimiz"
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-speculation-rules-prefetch
 categories: [performance, web-development, chrome]
 tags: [chrome-speculation-rules-prefetch, performance, prefetch, browser-optimization]
 author: theluckystrike
 ---
+
 
 
 # Chrome Speculation Rules Prefetch: A Complete Guide

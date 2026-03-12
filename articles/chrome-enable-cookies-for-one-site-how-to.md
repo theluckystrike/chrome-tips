@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Enable Cookies for One Site How to"
 description: "Learn how to enable cookies for one specific site in Chrome without turning on cookies for all websites. Simple step-by-step guide. Read more to optimize your e"
 date: 2026-01-15
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-enable-cookies-for-one-site-how-to
 categories: [browser, settings, privacy]
 tags: [chrome-cookies, chrome-settings, browser-cookies, site-permissions]
 author: theluckystrike
 ---
+
 
 
 # Chrome Enable Cookies for One Site How to

@@ -3,12 +3,13 @@ layout: post
 title: "Computer Fan Goes Crazy When Chrome Opens - Fix It Fast"
 description: "Your computer fan speeds up every time you open Chrome? Here are practical solutions to fix high CPU usage and keep your computer running cool. Read more to opt"
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: computer-fan-goes-crazy-when-chrome-opens
 categories: [performance, troubleshooting]
 tags: [chrome-slow, computer-fan, high-cpu, chrome-performance, fix-chrome]
 author: theluckystrike
 ---
+
 
 
 # Computer Fan Goes Crazy When Chrome Opens - Fix It Fast

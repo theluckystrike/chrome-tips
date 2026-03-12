@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Security Checkup How to Run"
 description: "Learn how to run Chrome's built-in security checkup to ensure your browser is protected. Step-by-step guide to check passwords, safe browsing, and extensions."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-security-checkup-how-to-run
 categories: [security, chrome]
 tags: [chrome-security, security-checkup, chrome-passwords, safe-browsing, chrome-privacy]
 author: theluckystrike
 ---
+
 
 
 # Chrome Security Checkup How to Run

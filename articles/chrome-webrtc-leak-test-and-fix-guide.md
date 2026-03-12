@@ -3,12 +3,13 @@ layout: post
 title: "Chrome WebRTC Leak Test and Fix Guide"
 description: "Learn how to test for WebRTC leaks in Chrome and fix them to protect your privacy. Step-by-step solutions for real users. Read more to optimize your experience."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-webrtc-leak-test-and-fix-guide
 categories: [privacy, security, chrome]
 tags: [webrtc, privacy, chrome, security, browser]
 author: theluckystrike
 ---
+
 
 
 # Chrome WebRTC Leak Test and Fix Guide

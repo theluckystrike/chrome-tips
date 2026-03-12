@@ -3,12 +3,13 @@ layout: post
 title: "How to Change Chrome Font Size Permanently"
 description: "Learn how to permanently change the default font size in Google Chrome across all websites and the browser interface. Read more to optimize your experience."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-font-size-permanently-change
 categories: [customization, accessibility]
 tags: [chrome-font-size, browser-settings, chrome-customization, accessibility]
 author: theluckystrike
 ---
+
 
 
 # How to Change Chrome Font Size Permanently

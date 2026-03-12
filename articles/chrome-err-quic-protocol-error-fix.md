@@ -3,12 +3,13 @@ layout: post
 title: "Chrome ERR_QUIC_PROTOCOL_ERROR Fix"
 description: "Getting ERR_QUIC_PROTOCOL_ERROR in Chrome? Here is what causes this issue and how to fix it with simple steps. Read more to optimize your experience. Discover e"
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-err-quic-protocol-error-fix
 categories: [troubleshooting, connectivity]
 tags: [chrome-error, quic-protocol, chrome-fix, browser-problem]
 author: theluckystrike
 ---
+
 
 
 # Chrome ERR_QUIC_PROTOCOL_ERROR Fix

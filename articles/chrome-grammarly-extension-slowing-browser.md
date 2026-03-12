@@ -3,12 +3,13 @@ layout: post
 title: "Why the Grammarly Extension is Slowing Down Your Chrome Browser"
 description: "Is Grammarly making Chrome slow? Learn the common causes and step-by-step solutions to fix browser lag caused by the Grammarly extension. Read more to optimize "
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-grammarly-extension-slowing-browser
 categories: [extensions, performance, troubleshooting]
 tags: [grammarly, chrome-extensions, browser-slow, performance]
 author: theluckystrike
 ---
+
 
 
 # Why the Grammarly Extension is Slowing Down Your Chrome Browser

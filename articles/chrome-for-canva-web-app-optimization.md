@@ -3,12 +3,13 @@ layout: post
 title: "Chrome for Canva Web App Optimization"
 description: "Learn how to optimize Chrome for running Canva smoothly. Practical tips to reduce lag and improve performance when using the Canva web app. Read more to optimiz"
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-canva-web-app-optimization
 categories: [performance, productivity, chrome-tips]
 tags: [chrome, canva, web-app, optimization, performance]
 author: theluckystrike
 ---
+
 
 
 # Chrome for Canva Web App Optimization

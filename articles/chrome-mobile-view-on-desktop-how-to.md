@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Mobile View on Desktop How to"
 description: "Learn how to view mobile versions of websites in Chrome on your desktop computer. Simple tricks to test responsive designs and mobile layouts. Read more to opti"
 date: 2025-02-19
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-mobile-view-on-desktop-how-to
 categories: [browser-tips, troubleshooting]
 tags: [mobile-view, responsive-design, developer-tools, testing]
 author: theluckystrike
 ---
+
 
 
 # Chrome Mobile View on Desktop How to

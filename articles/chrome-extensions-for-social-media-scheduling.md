@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Extensions for Social Media Scheduling"
 description: "Learn how chrome extensions for social media scheduling can save time and streamline your workflow. Read more to optimize your experience. Discover essential ti"
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-social-media-scheduling
 categories: [social-media, productivity, tips]
 tags: [chrome-extensions, social-media, scheduling, productivity]
 author: theluckystrike
 ---
+
 
 
 # Chrome Extensions for Social Media Scheduling

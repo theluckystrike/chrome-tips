@@ -3,9 +3,10 @@ layout: post
 title: "Chrome Service Worker Caching Strategies"
 description: "Learn how Chrome service worker caching strategies work and how to use Read more to optimize your experience. Discover essential tips for 2026. Read more to opt"
 date: 2026-03-10
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-service-worker-caching-strategies
 ---
+
 
 
 

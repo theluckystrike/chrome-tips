@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Extensions for Keyword Research"
 description: "Find the best Chrome extensions for keyword research to discover search terms, analyze competition, and improve your content strategy. Read more to optimize you"
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-keyword-research
 categories: [keyword-research, tips]
 tags: [chrome-extensions, keyword-research, seo-tools]
 author: theluckystrike
 ---
+
 
 
 # Chrome Extensions for Keyword Research

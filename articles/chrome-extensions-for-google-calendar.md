@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Extensions for Google Calendar"
 description: "Discover the best Chrome extensions for Google Calendar that can help you manage your schedule, boost productivity, and never miss an important event."
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-google-calendar
 categories: [productivity, calendar, tips]
 tags: [chrome-extensions, google-calendar, productivity, browser-tools]
 author: theluckystrike
 ---
+
 
 
 # Chrome Extensions for Google Calendar

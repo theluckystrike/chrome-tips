@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Extensions for Time Tracking"
 description: "Discover how Chrome extensions for time tracking can help you understand where your time goes and boost your productivity. Read more to optimize your experience"
 date: 2026-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-time-tracking
 categories: [productivity, tips]
 tags: [chrome-extensions, time-tracking, productivity]
 author: theluckystrike
 ---
+
 
 
 # Chrome Extensions for Time Tracking

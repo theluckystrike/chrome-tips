@@ -3,12 +3,13 @@ layout: post
 title: "Chrome for Google Classroom Tips"
 description: "Discover helpful Chrome tips for Google Classroom to boost productivity, manage tabs, and improve your teaching or learning experience. Read more to optimize yo"
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-google-classroom-tips
 categories: [tips, productivity]
 tags: [chrome, google-classroom, tips, students, teachers]
 author: theluckystrike
 ---
+
 
 
 # Chrome for Google Classroom Tips

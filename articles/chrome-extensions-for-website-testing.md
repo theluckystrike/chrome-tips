@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Extensions for Website Testing"
 description: "Learn about Chrome extensions for website testing that help you check performance, accessibility, and functionality across different scenarios. Read more to opt"
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-website-testing
 categories: [testing, tips]
 tags: [chrome-extensions, website-testing, browser-tools]
 author: theluckystrike
 ---
+
 
 
 # Chrome Extensions for Website Testing

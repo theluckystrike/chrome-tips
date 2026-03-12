@@ -3,9 +3,10 @@ layout: post
 title: "Chrome Notifications for One Site How to Manage"
 description: "Getting annoying notifications from just one website? Learn how to manage Read more to optimize your experience. Discover essential tips for 2026. Read more to "
 date: 2026-03-09
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-notifications-for-one-site-how-to-manage
 ---
+
 
 
 

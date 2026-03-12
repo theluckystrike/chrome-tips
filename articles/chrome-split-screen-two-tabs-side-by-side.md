@@ -3,12 +3,13 @@ layout: default
 title: "Chrome Split Screen Two Tabs Side by Side"
 description: "Learn how to view two Chrome tabs side by side. Use built-in features Read more to optimize your experience. Discover essential tips for 2026. Read more to opti"
 date: 2025-03-09
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-split-screen-two-tabs-side-by-side
 categories: 
 tags: 
 author: theluckystrike
 ---
+
 
 
 

@@ -3,12 +3,13 @@ layout: post
 title: "How to Fix Chrome Notion Slow and Laggy Issues"
 description: "Is Chrome running slow with Notion? Learn practical solutions to speed up your browser when using Notion, from clearing cache to optimizing extensions."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-notion-slow-and-laggy-fix
 categories: [chrome, notion, performance, browser-tips]
 tags: [chrome-performance, notion-slow, browser-tips, productivity]
 author: theluckystrike
 ---
+
 
 
 # How to Fix Chrome Notion Slow and Laggy Issues

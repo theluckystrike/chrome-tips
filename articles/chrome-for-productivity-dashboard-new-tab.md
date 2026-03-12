@@ -3,12 +3,13 @@ layout: post
 title: "Chrome for Productivity Dashboard New Tab"
 description: "Learn how to set up Chrome for productivity dashboard on new tab. Discover extensions and tips to transform your browsing experience. Read more to optimize your"
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-productivity-dashboard-new-tab
 categories: [productivity, chrome, tips]
 tags: [chrome, productivity, new-tab, dashboard, browser]
 author: theluckystrike
 ---
+
 
 
 # Chrome for Productivity Dashboard New Tab

@@ -3,12 +3,13 @@ layout: post
 title: "chrome high memory usage after sleep fix"
 description: "Is Chrome using too much memory after sleep? Learn why this happens and Read more to optimize your experience. Discover essential tips for 2026. Read more to op"
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-high-memory-usage-after-sleep-fix
 categories: 
 tags: 
 author: theluckystrike
 ---
+
 
 
 

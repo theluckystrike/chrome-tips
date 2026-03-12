@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Storage Partitioning: What Changed and Why It Matters"
 description: "Chrome's storage partitioning fundamentally changes how websites store data. Learn what changed, why it matters for your privacy, and how it affects your bro..."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-storage-partitioning-what-changed
 categories: [privacy, chrome, security]
 tags: [chrome-storage, privacy, browser, tracking]
 author: theluckystrike
 ---
+
 
 
 # Chrome Storage Partitioning: What Changed and Why It Matters

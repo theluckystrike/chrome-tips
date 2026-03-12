@@ -3,9 +3,10 @@ layout: post
 title: "Chrome Font Too Small on Certain Websites Fix"
 description: "Is text too small on some websites in Chrome? Learn why this happens Read more to optimize your experience. Discover essential tips for 2026. Read more to optim"
 date: 2026-03-09
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-font-too-small-on-certain-websites-fix
 ---
+
 
 
 

@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Devtools Media Queries Debugger"
 description: "Learn how to use Chrome DevTools to find and debug media queries. Fix responsive design issues quickly. Read more to optimize your experience. Discover essentia"
 date: 2025-02-19
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-devtools-media-queries-debugger
 categories: [browser-tips, web-development]
 tags: [media-queries, responsive-design, developer-tools, debugging]
 author: theluckystrike
 ---
+
 
 
 # Chrome Devtools Media Queries Debugger

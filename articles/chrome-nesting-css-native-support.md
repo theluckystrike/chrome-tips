@@ -3,9 +3,10 @@ layout: post
 title: "Chrome Nesting CSS Native Support"
 description: "Discover how Chrome's native CSS nesting support works, which versions Read more to optimize your experience. Discover essential tips for 2026. Read more to opt"
 date: 2026-03-11
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-nesting-css-native-support
 ---
+
 
 
 

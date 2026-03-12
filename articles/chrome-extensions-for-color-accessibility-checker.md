@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Extensions for Color Accessibility Checker"
 description: "Looking for chrome extensions for color accessibility checker? Find tools to test if your designs are accessible to people with color vision deficiencies."
 date: 2026-03-09
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-color-accessibility-checker
 categories: [productivity, accessibility]
 tags: [chrome-extensions, accessibility, color-blindness, web-design]
 author: theluckystrike
 ---
+
 
 
 If you have been searching for chrome extensions for color accessibility checker tools, you probably already know how important it is to make sure your websites and designs can be enjoyed by everyone. Maybe you have created something that looks beautiful to you, but then learned that some people cannot actually see or distinguish the colors you used. This is a more common problem than you might think, and it affects millions of people around the world who have some form of color vision deficiency.

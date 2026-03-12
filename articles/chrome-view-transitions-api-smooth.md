@@ -3,9 +3,10 @@ layout: post
 title: "Chrome View Transitions API: Smooth Browsing Experience Guide"
 description: "Discover how Chrome View Transitions API creates smooth, fluid animations Read more to optimize your experience. Discover essential tips for 2026. Read more to "
 date: 2026-03-11
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-view-transitions-api-smooth
 ---
+
 
 
 

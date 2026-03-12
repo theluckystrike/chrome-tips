@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Extensions for Microsoft Teams"
 description: "Discover the best chrome extensions for microsoft teams to boost productivity, streamline communication, and improve your daily workflow. Read more to optimize "
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-microsoft-teams
 categories: [productivity, tips]
 tags: [chrome-extensions, microsoft-teams, collaboration, meetings]
 author: theluckystrike
 ---
+
 
 
 # Chrome Extensions for Microsoft Teams

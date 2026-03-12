@@ -3,12 +3,13 @@ layout: post
 title: "Chrome for Stable Diffusion Web UI Tips"
 description: "Get the most out of Stable Diffusion Web UI with these Chrome browser tips for better performance and easier image generation. Read more to optimize your experi"
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-stable-diffusion-web-ui-tips
 categories: [browsers, stable-diffusion, tips]
 tags: [chrome, stable-diffusion-web-ui, browser-tips, image-generation]
 author: theluckystrike
 ---
+
 
 
 # Chrome for Stable Diffusion Web UI Tips

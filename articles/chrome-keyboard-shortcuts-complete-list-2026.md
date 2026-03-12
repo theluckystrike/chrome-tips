@@ -3,12 +3,13 @@ layout: post
 title: "chrome keyboard shortcuts complete list 2026"
 description: "Discover the complete list of Chrome keyboard shortcuts for 2026. Boost productivity with these essential shortcuts for tabs, windows, navigation, and more."
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: 2026-03-12
 permalink: chrome-keyboard-shortcuts-complete-list-2026
 categories: [productivity, tips]
 tags: [keyboard-shortcuts, chrome, productivity, browser]
 author: theluckystrike
 ---
+
 
 
 # Chrome Keyboard Shortcuts Complete List 2026

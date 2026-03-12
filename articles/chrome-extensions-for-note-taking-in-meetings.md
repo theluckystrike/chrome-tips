@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Extensions for Note Taking in Meetings"
 description: "Discover the best Chrome extensions for note taking in meetings to stay organized and capture every important point. Read more to optimize your experience."
 date: 2026-03-09
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-note-taking-in-meetings
 categories: [productivity, tips]
 tags: [chrome-extensions, meetings, note-taking]
 author: theluckystrike
 ---
+
 
 
 # Chrome Extensions for Note Taking in Meetings

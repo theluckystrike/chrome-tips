@@ -3,12 +3,13 @@ layout: post
 title: "Chrome for Google Meet Camera Settings"
 description: "Learn how to adjust Chrome for Google Meet camera settings to get better video quality and fix common camera problems. Read more to optimize your experience."
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-for-google-meet-camera-settings
 categories: [video-calls, troubleshooting]
 tags: [chrome-for-google-meet, google-meet-camera, video-call-settings, chrome-camera]
 author: theluckystrike
 ---
+
 
 
 # Chrome for Google Meet Camera Settings

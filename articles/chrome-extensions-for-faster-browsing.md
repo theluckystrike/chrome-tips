@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Extensions for Faster Browsing"
 description: "Speed up your Chrome browser with these extensions that reduce memory usage, block ads, and manage tabs efficiently. Read more to optimize your experience."
 date: 2025-02-20
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-extensions-for-faster-browsing
 categories: [extensions, performance]
 tags: [chrome-extensions, browser-speed, faster-browsing, performance]
 author: theluckystrike
 ---
+
 
 
 # Chrome Extensions for Faster Browsing

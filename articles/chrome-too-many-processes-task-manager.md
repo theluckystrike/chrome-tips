@@ -3,12 +3,13 @@ layout: post
 title: "Chrome Too Many Processes Task Manager"
 description: "Learn how to use Chrome Task Manager to identify and kill processes slowing down your browser when Chrome has too many processes open. Read more to optimize you"
 date: 2026-01-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-too-many-processes-task-manager
 categories: [performance, troubleshooting]
 tags: [chrome-task-manager, chrome-processes, browser-tools, chrome-tips]
 author: theluckystrike
 ---
+
 
 
 # Chrome Too Many Processes Task Manager

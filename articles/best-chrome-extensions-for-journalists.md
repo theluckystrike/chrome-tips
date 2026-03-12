@@ -81,3 +81,10 @@ You do not need to install every extension at once. Start with one or two that a
 Remember that the best extensions are the ones you actually use consistently. Rather than overwhelming yourself with too many tools at once, focus on building habits with a few key extensions that make a real difference in your daily workflow.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions for College Professors](/chrome-tips/chrome-extensions-for-college-professors)
+- [Chrome for Udemy in Browser Tips](/chrome-tips/chrome-for-udemy-in-browser-tips)
+- ['Chrome Regex Lookbehind Support: What You Need to Know'](/chrome-tips/chrome-regex-lookbehind-support)

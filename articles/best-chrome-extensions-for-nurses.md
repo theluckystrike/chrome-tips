@@ -77,3 +77,10 @@ The best chrome extensions for nurses are ones that address your specific challe
 Remember that the goal is to make your digital work easier, not to add more things to manage. The right extensions should feel like helpful tools that support your patient care, not additional tasks that require constant attention.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions for Coupon Codes Automatically](/chrome-tips/chrome-extensions-for-coupon-codes-automatically)
+- [Chrome for Wave Accounting in Browser](/chrome-tips/chrome-for-wave-accounting-in-browser)
+- [Chrome Remote Desktop How to Use](/chrome-tips/chrome-remote-desktop-how-to-use)

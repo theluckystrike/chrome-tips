@@ -82,3 +82,10 @@ Getting more out of Chrome on Android does not require you to become a technical
 If you have been feeling limited by Chrome on your Android phone, try these suggestions and see the difference for yourself. A faster, more feature-rich browser means less waiting and more enjoying the web, whether you are checking email, reading news, or browsing social media.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions for Bibliography Management](/chrome-tips/chrome-extensions-for-bibliography-management)
+- [Chrome For Tiktok Web Best Settings](/chrome-tips/chrome-for-tiktok-web-best-settings)
+- [Chrome Reading Mode Hidden Feature](/chrome-tips/chrome-reading-mode-hidden-feature)

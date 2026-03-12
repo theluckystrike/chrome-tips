@@ -83,3 +83,10 @@ The best approach is to start with one or two extensions that address your bigge
 As you get more comfortable, you can add more tools to your workflow. The goal is to spend less time managing your research and more time actually doing it.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions For Elderly Users Simple Tools](/chrome-tips/chrome-extensions-for-elderly-users-simple-tools)
+- [Chrome For Xbox Cloud Gaming Optimization](/chrome-tips/chrome-for-xbox-cloud-gaming-optimization)
+- [Chrome Reset Flags to Default How To](/chrome-tips/chrome-reset-flags-to-default-how-to)

@@ -91,3 +91,10 @@ If you struggle with timing and follow-ups, Boomerang is a great starting point.
 Small improvements in your email workflow add up to significant time savings over the long run. The right combination of extensions can transform email from a time drain into a manageable and even efficient part of your workday.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions for Calendar Integration](/chrome-tips/chrome-extensions-for-calendar-integration)
+- [Chrome for Travel Itinerary Extensions](/chrome-tips/chrome-for-travel-itinerary-extensions)
+- [Chrome Recorder Panel Guide](/chrome-tips/chrome-recorder-panel-guide)

@@ -81,3 +81,10 @@ You do not need to install every extension mentioned here. Start with one or two
 Once you have the right extensions in place, you will be surprised at how much more you can read and how much less tired your eyes feel. The internet is full of great articles, and with these tools, you can finally enjoy them without frustration.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions for Discord](/chrome-tips/chrome-extensions-for-discord)
+- [Chrome for White Noise While Working](/chrome-tips/chrome-for-white-noise-while-working)
+- [How to Report a Malware Website in Chrome](/chrome-tips/chrome-report-malware-website-how-to)

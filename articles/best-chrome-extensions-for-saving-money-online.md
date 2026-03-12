@@ -88,3 +88,10 @@ Start by installing one or two extensions and using them consistently. Pay atten
 Remember that these extensions are designed to work together. Using multiple extensions that serve different purposes can give you the best overall savings. For example, you might use Capital One Shopping for price comparison, Honey for coupon codes, Rakuten for cashback, and Keepa for Amazon price history.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions for Email Templates](/chrome-tips/chrome-extensions-for-email-templates)
+- [Chrome For Yahoo Mail Best Extensions](/chrome-tips/chrome-for-yahoo-mail-best-extensions)
+- [Chrome Resource Timing API Explained](/chrome-tips/chrome-resource-timing-api-explained)

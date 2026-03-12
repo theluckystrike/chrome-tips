@@ -90,3 +90,10 @@ The best chrome extensions for social media are the ones that address your speci
 You do not need to install every extension mentioned here. Start with one or two that address your biggest needs, then add more as you identify other areas for improvement. The right combination of extensions can dramatically reduce the time you spend on social media management while helping you achieve better results.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions for Email Tracking](/chrome-tips/chrome-extensions-for-email-tracking)
+- [Chrome For Youtube Music Web Tips](/chrome-tips/chrome-for-youtube-music-web-tips)
+- [How to Restore Closed Tabs in Chrome](/chrome-tips/chrome-restore-closed-tabs-guide)

@@ -97,3 +97,10 @@ Remember that browser choice is only part of the solution. Managing your tabs, l
 With the right browser and a few good habits, your old MacBook can remain productive for years to come.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions for Better YouTube Experience](/chrome-tips/chrome-extensions-for-better-youtube-experience)
+- [Chrome for TickTick in Browser Tips](/chrome-tips/chrome-for-ticktick-in-browser-tips)
+- [Chrome Reading Mode AI Summary Feature](/chrome-tips/chrome-reading-mode-ai-summary-feature)

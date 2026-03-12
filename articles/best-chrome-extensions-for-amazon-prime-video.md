@@ -74,3 +74,10 @@ The beauty of these extensions is that they are easy to install and remove if th
 Once you start using these extensions, you will wonder how you ever watched Prime Video without them. Whether it is better subtitles, easier downloads, or a faster browser, there is an extension that can help. Take some time to explore these options and customize your Prime Video experience to suit your preferences.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions for Blue Light Filter](/chrome-tips/chrome-extensions-for-blue-light-filter)
+- [Chrome for Tor Browsing Is It Possible](/chrome-tips/chrome-for-tor-browsing-is-it-possible)
+- [Chrome Reading Mode vs Reader View Extensions](/chrome-tips/chrome-reading-mode-vs-reader-view-extensions)

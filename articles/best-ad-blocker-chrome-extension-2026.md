@@ -85,3 +85,10 @@ Consider combining your ad blocker with other privacy tools. A VPN can add an ex
 Finally, remember that ad blockers support websites through acceptable ad programs. If you want to support your favorite sites while still reducing annoying ads, look for options that include acceptable ads features.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions for Auto Refresh Page](/chrome-tips/chrome-extensions-for-auto-refresh-page)
+- [Chrome for Target Web App Best Extensions](/chrome-tips/chrome-for-target-web-app-best-extensions)
+- [Chrome Reading List on Phone How to Use](/chrome-tips/chrome-reading-list-on-phone-how-to-use)

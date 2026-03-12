@@ -82,3 +82,10 @@ If finding candidate contact information is your main challenge, try Hunter or S
 
 Once you build your ideal extension toolkit, you will wonder how you ever recruited without them. Small improvements in your daily workflow add up to significant time savings and better candidate experiences over time.
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions for Dropbox](/chrome-tips/chrome-extensions-for-dropbox)
+- ["Chrome for Window Management Extensions"](/chrome-tips/chrome-for-window-management-extensions)
+- ['Chrome requestanimationframe Explained: What It Means for Your Browser'](/chrome-tips/chrome-requestanimationframe-explained)

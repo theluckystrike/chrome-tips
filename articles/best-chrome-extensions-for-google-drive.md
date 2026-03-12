@@ -92,3 +92,10 @@ Remember that your needs may change over time. What works best for you today mig
 By combining Google Drive's native capabilities with thoughtful extension choices, you can create a productivity setup that feels tailored to your exact needs. The right combination of tools makes file management smoother, collaboration easier, and ultimately helps you accomplish more with less effort.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions for Citation Generator](/chrome-tips/chrome-extensions-for-citation-generator)
+- [Chrome For Twitch Streaming Setup In Browser](/chrome-tips/chrome-for-twitch-streaming-setup-in-browser)
+- [Chrome Reduce Data Usage Mobile](/chrome-tips/chrome-reduce-data-usage-mobile)

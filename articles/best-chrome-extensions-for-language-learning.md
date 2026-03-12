@@ -62,3 +62,10 @@ Regularly review your extension list and disable or remove any you have not used
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
+
+
+## Related Articles
+
+- [Chrome Extensions for Color Accessibility Checker](/chrome-tips/chrome-extensions-for-color-accessibility-checker)
+- [Chrome For Video Downloading Legal Methods](/chrome-tips/chrome-for-video-downloading-legal-methods)
+- [Chrome Related Website Sets Explained](/chrome-tips/chrome-related-website-sets-explained)

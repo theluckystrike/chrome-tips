@@ -109,3 +109,10 @@ The best approach is not to install everything at once. Start with a few extensi
 A thoughtfully curated set of extensions can genuinely improve your workflow. They handle the small tasks that add up, give you quick access to the information you need, and help you stay focused on what matters most: designing great user experiences.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+- [Chrome Extensions for Faster Browsing](/chrome-tips/chrome-extensions-for-faster-browsing)
+- [Chrome for Zoom in Browser Best Settings](/chrome-tips/chrome-for-zoom-in-browser-best-settings)
+- [How to Do a Reverse Image Search in Chrome Without an Extension](/chrome-tips/chrome-reverse-image-search-without-extension)

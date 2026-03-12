@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps"
-description: "Fix Chrome performance on laptops with only 4GB of RAM. Practical tips................................................................................"
-date: "2025-02-17"
+title: Chrome Slow on a 4gb RAM Laptop? Here's What Actually Helps
+description: Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps Running Chrome on a laptop with 4GB of RAM can feel like trying to fit a week's worth of grocer
+date: '2025-02-17'
 last_modified_at: '2026-03-12'
-permalink: "chrome-slow-on-4gb-ram-laptop"
-categories: 
-tags: 
+permalink: chrome-slow-on-4gb-ram-laptop
+categories: null
+tags: null
 author: theluckystrike
 ---
 # Chrome Slow on a 4GB RAM Laptop? Here's What Actually Helps

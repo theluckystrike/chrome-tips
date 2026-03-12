@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Chrome Shape Detection API Face Detection"
-description: "Learn how Chrome's Shape Detection API enables face detection in your................................................................................."
-date: "2026-01-15"
+title: Chrome Shape Detection API Face Detection
+description: Chrome Shape Detection API Face Detection If you have ever wondered how some websites can automatically detect faces in your photos or enable face unlock f
+date: '2026-01-15'
 last_modified_at: '2026-03-12'
-permalink: "chrome-shape-detection-api-face-detection"
-categories: 
-tags: 
+permalink: chrome-shape-detection-api-face-detection
+categories: null
+tags: null
 author: theluckystrike
 ---
 # Chrome Shape Detection API Face Detection

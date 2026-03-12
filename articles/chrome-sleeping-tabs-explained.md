@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Chrome Sleeping Tabs Explained: What They Are and How to Use Them"
-description: "Learn what sleeping tabs in Chrome are, why they matter, and how to..................................................................................."
-date: "2026-03-09"
+title: 'Chrome Sleeping Tabs Explained: What They Are and How to Use Them'
+description: 'Chrome Sleeping Tabs Explained: What They Are and How to Use Them If you have ever noticed Chrome running slower than usual, or seen a small message saying'
+date: '2026-03-09'
 last_modified_at: '2026-03-12'
-permalink: "chrome-sleeping-tabs-explained"
-categories: 
-tags: 
+permalink: chrome-sleeping-tabs-explained
+categories: null
+tags: null
 author: theluckystrike
 ---
 # Chrome Sleeping Tabs Explained: What They Are and How to Use Them

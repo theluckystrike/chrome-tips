@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Chrome Spell Check Wrong Language Fix"
-description: "Is Chrome spell check using the wrong language? Here is how to fix it................................................................................."
-date: "2025-03-15"
+title: Chrome Spell Check Wrong Language Fix
+description: Chrome Spell Check Wrong Language Fix You are typing an email or filling out a form in Chrome and the red squiggly lines are showing up under words that ar
+date: '2025-03-15'
 last_modified_at: '2026-03-12'
-permalink: "chrome-spell-check-wrong-language-fix"
-categories: 
-tags: 
+permalink: chrome-spell-check-wrong-language-fix
+categories: null
+tags: null
 author: theluckystrike
 ---
 # Chrome Spell Check Wrong Language Fix

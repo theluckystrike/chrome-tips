@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "chrome site search shortcut how to set up"
-description: "Learn how to set up site search shortcuts in Chrome for faster browsing..............................................................................."
-date: "2026-03-09"
+title: Chrome Site Search Shortcut How to Set Up
+description: Chrome Site Search Shortcut How to Set Up If you have ever typed "chrome site search shortcut how to set up" into Google, you probably wanted a faster way Disco
+date: '2026-03-09'
 last_modified_at: '2026-03-12'
-permalink: "chrome-site-search-shortcut-how-to-set-up"
-categories: 
-tags: 
+permalink: chrome-site-search-shortcut-how-to-set-up
+categories: null
+tags: null
 author: theluckystrike
 ---
 # Chrome Site Search Shortcut How to Set Up

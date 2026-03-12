@@ -119,6 +119,11 @@ Consider how your application handles files from different origins. When users o
 
 Building file handling into your PWA represents a significant step toward truly native-like web applications. As browser capabilities continue expanding, web apps can increasingly replace traditional software for many use cases. Implementing file handling today prepares your application for this future while providing immediate value to users who want seamless file integration.
 
+## Related Articles
+- [Chrome Web NFC API Guide](/chrome-tips/chrome-web-nfc-api-guide/)
+- [Chrome Performance Observer API Guide](/chrome-tips/chrome-performance-observer-api-guide/)
+- [Chrome Web Serial API Guide](/chrome-tips/chrome-web-serial-api-guide/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles

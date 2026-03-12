@@ -82,10 +82,9 @@ Adding more RAM to your computer is the most effective long-term solution for br
 Alternatively, consider using Chrome more conservatively by keeping fewer tabs open at once. Develop a habit of closing tabs you no longer need or using bookmarks to save pages for later rather than leaving them open.
 
 ## Related Articles
-
-- [I Have 100 Tabs Open and Chrome Is Dying: What to Do](/chrome-tips/i-have-100-tabs-open-chrome-is-dying/)
-- [Best Tab Suspender to Save Memory 2026](/chrome-tips/best-tab-suspender-to-save-memory-2026/)
+- [Laptop Freezing When Opening Chrome: Practical Solutions That Actually Work](/chrome-tips/laptop-freezing-when-opening-chrome/)
 - [Chrome Too Many Tabs Crashing Fix](/chrome-tips/chrome-too-many-tabs-crashing-fix/)
+- [Chrome ERR_TOO_MANY_REDIRECTS Cookie Fix](/chrome-tips/chrome-err-too-many-redirects-cookie-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

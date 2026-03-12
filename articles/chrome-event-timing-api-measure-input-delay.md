@@ -122,6 +122,11 @@ By understanding how to measure input delay and taking steps to minimize it, you
 
 ---
 
+## Related Articles
+- [Chrome Event Timing API Explained](/chrome-tips/chrome-event-timing-api-explained/)
+- [Chrome Navigation Timing API Explained](/chrome-tips/chrome-navigation-timing-api-explained/)
+- [Chrome User Timing API Explained](/chrome-tips/chrome-user-timing-api-explained/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles

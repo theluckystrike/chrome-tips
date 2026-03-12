@@ -75,10 +75,9 @@ High CPU usage in Chrome on Mac is a solvable problem. By identifying resource-h
 For long-term improvement, using tools like **Tab Suspender Pro** to automatically manage inactive tabs makes a noticeable difference. Your Mac will run cooler, your battery will last longer, and you will have a more responsive browser overall.
 
 ## Related Articles
-
-- [Chrome Helper Renderer High CPU Mac Fix](/chrome-tips/chrome-helper-renderer-high-cpu-mac-fix/)
-- [Chrome High CPU Usage Nothing Open](/chrome-tips/chrome-high-cpu-usage-nothing-open/)
 - [How to Fix Chrome High CPU Usage When Gaming](/chrome-tips/how-to-fix-chrome-high-cpu-usage-gaming/)
+- [Chrome Helper Renderer High CPU Mac Fix](/chrome-tips/chrome-helper-renderer-high-cpu-mac-fix/)
+- [Chrome Service Worker High CPU Fix](/chrome-tips/chrome-service-worker-high-cpu-fix/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

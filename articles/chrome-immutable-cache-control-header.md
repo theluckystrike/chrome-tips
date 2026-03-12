@@ -72,6 +72,11 @@ Modern build tools and web frameworks often handle immutable caching automatical
 
 Understanding and implementing the chrome immutable cache control header is one of the simpler ways to improve web performance. By telling Chrome explicitly which resources will not change, you enable faster page loads, reduced bandwidth usage, and a smoother browsing experience for everyone.
 
+## Related Articles
+- [How to Increase Chrome Cache Size](/chrome-tips/chrome-cache-size-how-to-increase/)
+- [How Often Should I Clear Chrome Cache](/chrome-tips/how-often-should-i-clear-chrome-cache/)
+- [Chrome How to Clear DNS Cache](/chrome-tips/chrome-how-to-clear-dns-cache/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles

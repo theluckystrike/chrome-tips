@@ -66,6 +66,11 @@ For those who work with many open tabs, browser performance matters too. Tab Sus
 
 The Chrome DevTools Performance tab is an invaluable tool for anyone building or maintaining websites. By recording and analyzing performance profiles, you can pinpoint exactly where time is being spent and identify opportunities for improvement. Whether you are dealing with slow load times, laggy interactions, or memory issues, the Performance tab gives you the insights you need to make your web applications faster and more responsive.
 
+## Related Articles
+- [Chrome DevTools Performance Panel Explained](/chrome-tips/chrome-devtools-performance-panel-explained/)
+- [Chrome Performance Observer API Guide](/chrome-tips/chrome-performance-observer-api-guide/)
+- [Chrome DevTools Network Throttling Guide](/chrome-tips/chrome-devtools-network-throttling-guide/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles

@@ -68,6 +68,11 @@ Some specialized websites with unique server configurations may also see reduced
 
 However, for most users browsing typical websites, enabling DNS prefetch delivers noticeable improvements with no downside. The feature uses minimal additional resources while saving time on every page navigation.
 
+## Related Articles
+- [chrome prefetch dns how to enable](/chrome-tips/chrome-prefetch-dns-how-to-enable/)
+- [Chrome Dns Prefetch What It Does](/chrome-tips/chrome-dns-prefetch-what-it-does/)
+- [How to Enable Parallel Downloading in Chrome for Faster Downloads](/chrome-tips/chrome-parallel-downloading-enable-how/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles

@@ -71,10 +71,9 @@ Once you experience the benefits of dark mode across all websites, you will like
 ---
 
 ## Related Articles
-
-- [Best Dark Mode Chrome Extension](/chrome-tips/best-dark-mode-chrome-extension/)
-- [Chrome Auto Dark Mode for Web Contents](/chrome-tips/chrome-auto-dark-mode-for-web-contents/)
-- [how to turn on chrome dark mode on any website](/chrome-tips/how-to-turn-on-chrome-dark-mode-on-any-website/)
+- [How to Force Dark Mode on All Websites in Chrome](/chrome-tips/chrome-dark-mode-force-all-websites/)
+- [chrome force dark mode on all websites](/chrome-tips/chrome-force-dark-mode-on-all-websites/)
+- [Chrome Mobile Dark Mode Force on All Sites](/chrome-tips/chrome-mobile-dark-mode-force-on-all-sites/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

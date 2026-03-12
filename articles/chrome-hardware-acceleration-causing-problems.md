@@ -66,10 +66,9 @@ Chrome hardware acceleration causing problems can stem from multiple sources inc
 Remember to use tools like Tab Suspender Pro to maintain manageable tab counts and reduce system strain. With proper troubleshooting, you can restore hardware acceleration functionality and enjoy smooth, efficient web browsing without the frustration of acceleration-related issues.
 
 ## Related Articles
-
-- [Chrome Hardware Acceleration Guide](/chrome-tips/chrome-hardware-acceleration-guide/)
-- [Chrome GPU Process High CPU Fix](/chrome-tips/chrome-gpu-process-high-cpu-fix/)
-- [Chrome Video Playback Stuttering Fix: A Practical Guide for Slow Computers](/chrome-tips/chrome-video-playback-stuttering-fix/)
+- [Chrome Hardware Acceleration Causes Problems](/chrome-tips/chrome-hardware-acceleration-causes-problems/)
+- [Chrome GPU Acceleration Causing Problems Fix](/chrome-tips/chrome-gpu-acceleration-causing-problems-fix/)
+- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-tips/chrome-hardware-acceleration-should-i-turn-it-off/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

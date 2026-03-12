@@ -92,6 +92,11 @@ Chrome DevTools network throttling is an essential tool for any web developer wh
 
 Use network throttling during your regular development workflow. Test early, test often, and make sure your websites provide a good experience regardless of how fast or slow the user's connection might be.
 
+## Related Articles
+- [Chrome Network Throttling Guide](/chrome-tips/chrome-network-throttling-guide/)
+- [Chrome Performance Observer API Guide](/chrome-tips/chrome-performance-observer-api-guide/)
+- [Chrome Core Web Vitals WordPress Guide](/chrome-tips/chrome-core-web-vitals-wordpress-guide/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles

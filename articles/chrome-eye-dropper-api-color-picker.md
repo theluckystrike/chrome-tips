@@ -113,10 +113,9 @@ The Chrome Eye Dropper API provides an elegant solution for adding screen-wide c
 
 As browser technologies continue to evolve, APIs like this one demonstrate how web platforms can match capabilities previously available only through native applications. Whether you're building design tools, productivity applications, or creative platforms, color picking functionality becomes simple to implement and seamless for users.
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
 ## Related Articles
+- [chrome eye dropper api pick color anywhere](/chrome-tips/chrome-eye-dropper-api-pick-color-anywhere/)
+- [Chrome Eyedropper API Explained](/chrome-tips/chrome-eyedropper-api-explained/)
+- [Chrome Contact Picker API Explained](/chrome-tips/chrome-contact-picker-api-explained/)
 
-* [Chrome Extension Review Process How Long](/chrome-extension-review-process-how-long)
-* [Chrome Shopping List Feature How To Use](/chrome-shopping-list-feature-how-to-use)
-* [Chrome For News Feed Eradicator Setup](/chrome-for-news-feed-eradicator-setup)
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

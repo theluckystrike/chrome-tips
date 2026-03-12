@@ -61,6 +61,11 @@ Label your files with the export date to make it easy to identify which backup i
 
 Remember that your exported HTML file is a snapshot of your bookmarks at the moment of export. Any bookmarks you add or organize after that point will not be included until you export again. Making export a regular habit ensures your backup always reflects your current bookmark collection.
 
+## Related Articles
+- [How to Export Bookmarks from Chrome](/chrome-tips/how-to-export-bookmarks-from-chrome/)
+- [Chrome Devtools Edit HTML Live](/chrome-tips/chrome-devtools-edit-html-live/)
+- [Chrome Profile Backup How to Save](/chrome-tips/chrome-profile-backup-how-to-save/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 ## Related Articles

@@ -95,6 +95,6 @@ Finally, consider the privacy implications. The API reveals information about th
 
 ## Conclusion
 
-The Chrome Media Capabilities API empowers developers to deliver optimal media experiences across the vast landscape of devices accessing the web. By intelligently detecting what each user's browser can actually handle, you can serve the right quality of video and audio, prevent playback failures, and create more responsive media applications. As web media continues to grow in importance, this API becomes an essential tool in every developer's toolkit.
+The Chrome Media Capabilities API empowers developers to deliver optimal media experiences across the vast range of devices accessing the web. By intelligently detecting what each user's browser can actually handle, you can serve the right quality of video and audio, prevent playback failures, and create more responsive media applications. As web media continues to grow in importance, this API becomes an essential tool in every developer's toolkit.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

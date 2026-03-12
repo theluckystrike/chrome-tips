@@ -69,3 +69,8 @@ Remember that citation management is about more than just creating bibliographie
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Citation Generator](/chrome-extensions-for-citation-generator)
+- [Chrome Extensions for Code Snippet Manager](/chrome-extensions-for-code-snippet-manager)
+- [Chrome Extensions for Site Permissions Manager](/chrome-extensions-for-site-permissions-manager)

@@ -82,3 +82,8 @@ Your digital workspace should support your goals, and adding the right music ext
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+- [Chrome Extensions for Lo Fi Music](/chrome-extensions-for-lo-fi-music)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)

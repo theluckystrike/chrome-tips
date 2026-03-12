@@ -81,3 +81,8 @@ Finally, consider the lighting in your workspace. Some styluses and tablets use 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [Chrome for Netflix Best Quality Settings](/chrome-for-netflix-best-quality-settings)
+- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)

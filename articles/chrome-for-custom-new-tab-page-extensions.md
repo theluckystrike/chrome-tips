@@ -70,3 +70,8 @@ While custom new tab page extensions are generally safe and useful, it is import
 If you notice performance issues after installing a new tab extension, try disabling it temporarily to see if the problem goes away. You might also consider alternatives that are known for being lightweight. Keeping your extensions updated is also important, as developers frequently release performance improvements and bug fixes.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Custom Cursor Extensions](/chrome-for-custom-cursor-extensions)
+- [Chrome New Tab Page How To Customize](/chrome-new-tab-page-how-to-customize)
+- [Chrome Extensions for New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)

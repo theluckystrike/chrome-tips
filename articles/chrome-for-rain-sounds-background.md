@@ -67,3 +67,8 @@ Whatever approach you choose, the key is consistency. Give your setup time to wo
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Chrome Extensions for Ambient Sounds Focus](/chrome-extensions-for-ambient-sounds-focus)
+- [Chrome Background Sync for Offline Forms](/chrome-background-sync-for-offline-forms)

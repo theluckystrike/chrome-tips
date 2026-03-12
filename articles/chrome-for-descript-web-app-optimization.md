@@ -81,3 +81,8 @@ Restarting Chrome regularly also helps maintain good performance. Over time, bro
 By implementing these practices, you can create a more efficient Chrome setup that makes Descript run faster and more reliably. Small adjustments add up to a noticeably better editing experience, allowing you to focus on creating your content without fighting your browser.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome For Any.Do Web App Setup](/chrome-for-anydo-web-app-setup)
+- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
+- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)

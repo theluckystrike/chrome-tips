@@ -75,3 +75,8 @@ The right chrome for news aggregator extensions setup transforms how you consume
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+- [Chrome Extensions for News Aggregator](/chrome-extensions-for-news-aggregator)

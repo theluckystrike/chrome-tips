@@ -66,3 +66,8 @@ Finally, think about which other extensions might help your specific workflow. W
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Note Taking in Browser Extensions](/chrome-for-note-taking-in-browser-extensions)
+- [Chrome for Trello Power Ups in Browser](/chrome-for-trello-power-ups-in-browser)
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)

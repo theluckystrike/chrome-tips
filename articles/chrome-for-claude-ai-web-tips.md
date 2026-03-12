@@ -79,3 +79,8 @@ Getting the most out of Claude in Chrome does not require dramatic changes to yo
 These chrome for claude ai web tips should help you create a more productive setup for working with AI. Try implementing a few of these suggestions and notice how they change your experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome For Rosetta Stone Web Tips](/chrome-for-rosetta-stone-web-tips)
+- [Chrome for Costco Web Shopping Tips](/chrome-for-costco-web-shopping-tips)
+- [Chrome For Walmart Grocery Web Tips](/chrome-for-walmart-grocery-web-tips)

@@ -67,3 +67,8 @@ Chrome for shopping price comparison tools can transform the way you shop online
 The key is to find the right combination of tools that fit your shopping style. With a price comparison extension handling the research and a tool like Tab Suspender Pro keeping your browser performing well, you will be well equipped to find great deals on everything you buy.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Text Comparison Diff Tool](/chrome-extensions-for-text-comparison-diff-tool)
+- [Chrome for Costco Web Shopping Tips](/chrome-for-costco-web-shopping-tips)
+- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)

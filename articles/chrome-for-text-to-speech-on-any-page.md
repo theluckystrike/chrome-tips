@@ -69,3 +69,8 @@ The beauty of having chrome for text to speech on any page is that it transforms
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Text to Speech Built In Feature](/chrome-text-to-speech-built-in-feature)
+- [Chrome Text to Speech Extension Best](/chrome-text-to-speech-extension-best)
+- [Chrome Extension for Highlighting Text on Websites](/chrome-extension-for-highlighting-text-on-websites)

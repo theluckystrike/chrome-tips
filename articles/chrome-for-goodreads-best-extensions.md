@@ -75,3 +75,8 @@ The right set of Chrome extensions can turn Goodreads into an even more powerful
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Coupon Finding Best Extensions](/chrome-for-coupon-finding-best-extensions)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+- [Chrome for LinkedIn Best Extensions](/chrome-for-linkedin-best-extensions)

@@ -98,3 +98,8 @@ Newer versions of Chrome include performance improvements and security fixes tha
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+- [Chrome for Medium Best Reading Extensions](/chrome-for-medium-best-reading-extensions)
+- [Best Chrome Setup For Graphic Designers](/best-chrome-setup-for-graphic-designers)

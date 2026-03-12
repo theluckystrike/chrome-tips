@@ -76,3 +76,8 @@ Remember that the goal is to make reading online as pleasant as reading a physic
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extension for Reading Mode Distraction Free](/chrome-extension-for-reading-mode-distraction-free)
+- [Chrome for Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)
+- [Chrome Auto Dark Mode for Web Contents](/chrome-auto-dark-mode-for-web-contents)

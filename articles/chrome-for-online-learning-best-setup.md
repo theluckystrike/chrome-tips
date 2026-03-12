@@ -92,3 +92,8 @@ Remember that your browser is a tool to support your learning goals. The perfect
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome for Online Exams Best Settings](/chrome-for-online-exams-best-settings)
+- [Best Chrome Extensions for Saving Money Online](/best-chrome-extensions-for-saving-money-online)
+- [Best Chrome Extensions for Language Learning](/best-chrome-extensions-for-language-learning)

@@ -67,3 +67,8 @@ The best approach to automatic data clearing is the one you will actually use co
 Whatever method you choose, setting something up is better than doing nothing. Even a simple schedule of clearing data once a week can make a meaningful difference in your privacy and the amount of data sitting on your computer. Take a few minutes to explore your options, configure what works for your situation, and enjoy the peace of mind that comes with keeping your browsing data under control.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)
+- [Chrome Extensions for Faster Browsing](/chrome-extensions-for-faster-browsing)

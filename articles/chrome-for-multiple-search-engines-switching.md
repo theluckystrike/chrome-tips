@@ -75,3 +75,8 @@ Finally, remember that you can always change your defaults if your needs change.
 Chrome is built to be flexible, and using it for multiple search engines switching is a simple way to get more out of your browser. Whether you care about privacy, need specialized results, or just want the best tool for each job, these tips should help you set up Chrome exactly the way you want it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Custom Search Engines Setup](/chrome-for-custom-search-engines-setup)
+- [Chrome Extensions for Reverse Video Search](/chrome-extensions-for-reverse-video-search)
+- [Chrome For Site Search From Address Bar](/chrome-for-site-search-from-address-bar)

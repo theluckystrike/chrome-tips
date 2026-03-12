@@ -69,3 +69,8 @@ Remember that while tracking extensions are convenient, you should still practic
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Extensions for Time Tracking Freelancers](/chrome-extensions-for-time-tracking-freelancers)
+- [Chrome Extensions for Email Tracking](/chrome-extensions-for-email-tracking)
+- [Chrome Extensions for Time Tracking](/chrome-extensions-for-time-tracking)

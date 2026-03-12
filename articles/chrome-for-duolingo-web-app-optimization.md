@@ -72,3 +72,8 @@ Once you have optimized Chrome for Duolingo, you will find that language practic
 Take a few minutes to implement the tips above before your next Duolingo session. You might be surprised at how much of a difference a few simple changes can make. Whether you are learning Spanish, French, Japanese, or any of the other languages Duolingo offers, a faster browser helps you stay in the flow of learning.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Canva Web App Optimization](/chrome-for-canva-web-app-optimization)
+- [Chrome for Salesforce Web App Optimization](/chrome-for-salesforce-web-app-optimization)
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)

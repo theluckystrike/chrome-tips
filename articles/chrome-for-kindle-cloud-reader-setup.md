@@ -83,3 +83,8 @@ Setting up Chrome for Kindle Cloud Reader is mostly about ensuring proper permis
 Give these adjustments a try, and enjoy your Kindle library from the convenience of your browser. Happy reading.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome For Onenote Web Clipper Setup](/chrome-for-onenote-web-clipper-setup)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome for Skillshare Web App Setup](/chrome-for-skillshare-web-app-setup)

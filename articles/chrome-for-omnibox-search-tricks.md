@@ -86,3 +86,8 @@ Tab Suspender Pro automatically pauses tabs you are not using, which saves memor
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
+- [Chrome For Apartments.Com Search Tips](/chrome-for-apartmentscom-search-tips)
+- [Chrome For Site Search From Address Bar](/chrome-for-site-search-from-address-bar)

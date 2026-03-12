@@ -70,3 +70,8 @@ Everyone works differently, and the best tab organization workflow is the one yo
 Start small by trying one or two of these suggestions. See how they feel, and adjust as needed. Over time, you will develop a workflow that fits your style and keeps your browser running smoothly.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome For Dual Monitor Tab Management](/chrome-for-dual-monitor-tab-management)
+- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
+- [Chrome Extensions for Workona Tab Manager](/chrome-extensions-for-workona-tab-manager)

@@ -55,3 +55,8 @@ Chrome allows you to create multiple profiles, each with its own settings and ex
 To create a new profile, click the profile icon in the top right of Chrome and select Add. Give your study profile a name and choose a color. Once created, you can customize the settings specifically for Khan Academy without cluttering your main profile.
 
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Netflix Best Quality Settings](/chrome-for-netflix-best-quality-settings)
+- [Chrome for Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)
+- [Chrome Best Settings For Slow Internet](/chrome-best-settings-for-slow-internet)

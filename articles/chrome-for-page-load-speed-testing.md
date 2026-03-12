@@ -66,3 +66,8 @@ Restarting Chrome periodically also helps. Over time, Chrome can accumulate cach
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Speed Reading Extensions](/chrome-for-speed-reading-extensions)
+- [Chrome Extensions for Website Testing](/chrome-extensions-for-website-testing)
+- [Chrome Extensions For Screenshot Full Page](/chrome-extensions-for-screenshot-full-page)

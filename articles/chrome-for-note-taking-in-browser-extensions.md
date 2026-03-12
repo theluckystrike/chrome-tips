@@ -62,3 +62,8 @@ Give a note-taking extension a try if you have not already. You might find that 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)
+- [Chrome for HubSpot CRM in Browser](/chrome-for-hubspot-crm-in-browser)
+- [Chrome Extensions for Note Taking in Meetings](/chrome-extensions-for-note-taking-in-meetings)

@@ -79,3 +79,8 @@ Chrome for site search from address bar is one of those features that is easy to
 Give it a try with a site you visit often. Set up the bookmark or keyword, run a test search, and see how it feels. You might find that a small change in how you browse makes a big difference in your daily workflow.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for IP Address Lookup](/chrome-extensions-for-ip-address-lookup)
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [How to Clear Cookies for One Site in Chrome](/how-to-clear-cookies-for-one-site-in-chrome)

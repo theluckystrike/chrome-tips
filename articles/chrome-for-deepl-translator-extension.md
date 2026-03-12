@@ -66,3 +66,8 @@ Remember that translation extensions are tools to help you, and they get better 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extension For Measuring Things On Screen](/chrome-extension-for-measuring-things-on-screen)
+- [Chrome for Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension)
+- [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)

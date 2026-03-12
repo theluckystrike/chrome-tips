@@ -79,3 +79,8 @@ Finally, remember that the lowest price is not always the best value. Consider f
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [Chrome for Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension)
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)

@@ -105,3 +105,8 @@ Remember that tools designed to manage browser resources can help if you frequen
 By following these tips, you can enjoy your Skillshare classes with fewer interruptions and better overall performance.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
+- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)

@@ -87,3 +87,8 @@ Using Chrome effectively with Stable Diffusion Web UI is all about creating the 
 A few small adjustments to how you use Chrome can make a noticeable difference in your workflow. Give these tips a try and see which ones work best for your setup.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome For Rosetta Stone Web Tips](/chrome-for-rosetta-stone-web-tips)
+- [Chrome for Evernote Web Clipper Tips](/chrome-for-evernote-web-clipper-tips)
+- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)

@@ -160,3 +160,8 @@ These settings work together to create a browser that supports your business ins
 >>>>>>> consumer/a42-chrome-for-paypal-business-best-settings
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Netflix Best Quality Settings](/chrome-for-netflix-best-quality-settings)
+- [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/best-chrome-settings-for-chromebook)
+- [Chrome Best Settings For Slow Internet](/chrome-best-settings-for-slow-internet)

@@ -71,3 +71,8 @@ Building a solid reading system with Chrome and Instapaper comes down to consist
 Review your saved articles regularly and delete anything no longer relevant. This keeps your list manageable and ensures you focus on the content that matters most to you. A curated reading list is far more useful than a massive collection of articles you will never open.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome For Apple Music Web Player Tips](/chrome-for-apple-music-web-player-tips)
+- [Chrome for Notion Web Clipper Setup](/chrome-for-notion-web-clipper-setup)
+- [Chrome For Onenote Web Clipper Setup](/chrome-for-onenote-web-clipper-setup)

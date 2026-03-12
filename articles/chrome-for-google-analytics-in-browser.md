@@ -86,3 +86,8 @@ Whether you are tracking a small personal blog or a large commercial website, th
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)
+- [Chrome for Note Taking in Browser Extensions](/chrome-for-note-taking-in-browser-extensions)
+- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)

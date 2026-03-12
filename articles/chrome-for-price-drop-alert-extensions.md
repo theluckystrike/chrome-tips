@@ -80,3 +80,8 @@ It is also a good idea to occasionally check that your extensions are still work
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+- [Chrome Extensions for Amazon Price History](/chrome-extensions-for-amazon-price-history)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)

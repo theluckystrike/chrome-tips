@@ -67,3 +67,8 @@ To create a new profile, click the person icon in the upper right corner of Chro
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Xero Accounting Web Tips](/chrome-for-xero-accounting-web-tips)
+- [Chrome For Odysee Web Player Tips](/chrome-for-odysee-web-player-tips)
+- [Chrome for Redfin Web App Tips](/chrome-for-redfin-web-app-tips)

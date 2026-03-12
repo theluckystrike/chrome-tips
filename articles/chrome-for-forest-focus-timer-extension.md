@@ -62,3 +62,8 @@ Many people find that the visual reward of completing focus sessions, whether it
 Give yourself permission to experiment with different extensions and settings until you find what feels right. What works perfectly for one person might not be the best fit for another, and that is perfectly normal. The important thing is that you are taking steps to improve your focus and productivity, and using a Chrome focus timer extension is a simple but effective way to do that.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extension For Measuring Things On Screen](/chrome-extension-for-measuring-things-on-screen)
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
+- [Chrome Extension for Changing User Agent](/chrome-extension-for-changing-user-agent)

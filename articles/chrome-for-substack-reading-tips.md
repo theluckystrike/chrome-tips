@@ -79,3 +79,8 @@ Consider creating a bookmark folder in Chrome specifically for Substack. Save li
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [Chrome for Private Browsing Tips Beyond Incognito](/chrome-for-private-browsing-tips-beyond-incognito)
+- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)

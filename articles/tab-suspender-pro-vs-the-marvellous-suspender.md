@@ -1,8 +1,3 @@
-[2026-03-12 17:31:12] [m15]   Title too long: 71 chars (max 60)
-[2026-03-12 17:31:22] [m15]   Title shortened: "Tab Suspender Pro vs The Marvellous Suspender: 2026" (51 chars)
-[2026-03-12 17:31:22] [m15]   Description too short: 135 chars (target 150-160)
-[2026-03-12 17:31:35] [m15]   WARNING: Could not generate valid description (got 123 chars).
-[2026-03-12 17:31:35] [m15]   WARNING: Thin keyword usage: 2 occurrences (target 3-7)
 ---
 layout: default
 title: "Tab Suspender Pro vs The Marvellous Suspender: 2026"
@@ -99,6 +94,22 @@ That said, The Marvellous Suspender is a genuinely solid extension. If keyboard 
 
 **[Try Tab Suspender Pro Free](https://zovo.one)**
 
----
+competitive_data:
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: 
+  - name: ""
+    users: ""
+    rating: ""
+    num_ratings: ""
+    version: ""
+    size: ""
+    last_updated: ""
+    available: ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

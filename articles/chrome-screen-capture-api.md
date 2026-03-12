@@ -1,36 +1,26 @@
 ---
 layout: default
 title: "Chrome Screen Capture API Guide"
-
-=======
 description: "Master Chrome Screen Capture API with this comprehensive guide covering screen sharing, window capture, tab capture, constraints, and best practices for Chrome extensions."
 date: 2026-01-15
 categories: [extensions, developer, api]
 tags: [chrome-screen-capture, screen-sharing, chrome-extension, tab-capture, getdisplaymedia]
-
 author: theluckystrike
 ---
 
 # Chrome Screen Capture API Guide
-
-
 
 ```javascript
 const stream = await navigator.mediaDevices.getDisplayMedia({
   video: {
     width: { ideal: 1920 },
     height: { ideal: 1080 },
-
   },
   audio: true
 });
 ```
 
-
-
 Consider the storage and processing implications of screen capture in your application design. Video streams can generate significant amounts of data, and managing this data efficiently becomes important as capture duration increases. Implement appropriate buffering, compression, and storage management to handle long capture sessions.
-
-
 
 For most use cases, 1080p at 30 frames per second provides a good balance between quality and performance. However, if you're creating high-quality tutorials or recording content for later editing, you might want to increase this to 60 frames per second or higher resolutions.
 
@@ -195,7 +185,6 @@ If you need to support multiple browsers, test thoroughly and be prepared to imp
 The Chrome Screen Capture API provides a powerful foundation for building screen capture functionality into your extensions and web applications. By understanding the different capture modes, leveraging media constraints, and following best practices, you can create reliable and user-friendly screen capture experiences.
 
 Whether you're recording tutorials, enabling remote support, building collaboration tools, or creating content for education, the Screen Capture API offers the flexibility and capabilities you need. The key is to start with the basics—capturing screen, window, or tab content—and then progressively add features that enhance your application's functionality.
-
 
 Remember to consider how your screen capture features interact with other browser functionality, such as tab management and performance features. Extensions like Tab Suspender Pro demonstrate how thoughtful design can improve the overall browsing experience, and similar considerations should inform your approach to screen capture development.
 

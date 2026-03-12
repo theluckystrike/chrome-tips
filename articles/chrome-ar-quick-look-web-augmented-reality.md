@@ -62,7 +62,7 @@ If the camera fails to start or shows a black screen, check that Chrome has came
 
 Objects appearing floating or not anchoring properly usually indicates poor surface detection. Try moving your device slowly to let Chrome identify surfaces. Good lighting helps the AR system recognize your environment more accurately.
 
-Performance issues like lag or stuttering may occur on older devices. Closing other apps and tabs can free up resources for smoother AR experiences. If problems persist, your device may simply lack the processing power for complex AR experiences.
+Performance issues like lag or stuttering may occur on older devices. Closing other apps and tabs can free up resources for smoother AR experiences. If problems persist, your device may simply lack the processing power for complex AR experiences. For users who frequently keep many tabs open while using AR features, extension management becomes crucial. Tab Suspender Pro helps optimize browser performance by managing background tabs efficiently, ensuring your AR experiences run smoothly without memory conflicts.
 
 ## The Future of Web AR
 

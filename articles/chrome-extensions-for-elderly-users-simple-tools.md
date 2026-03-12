@@ -3,9 +3,7 @@ layout: post
 title: chrome extensions for elderly users simple tools
 description: Simple chrome extensions for elderly users that make browsing easier,
   safer, and more enjoyable. Learn which tools help.
-date: '2026-01-15'
-last_modified_at: '2026-03-09'
-permalink: /chrome-extensions-for-elderly-users-simple-tools/
+date: 2026-01-15
 categories:
 - extensions
 - accessibility
@@ -17,6 +15,8 @@ tags:
 - accessibility
 - simple-tools
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: /chrome-extensions-for-elderly-users-simple-tools/
 ---
 
 # Chrome Extensions for Elderly Users Simple Tools

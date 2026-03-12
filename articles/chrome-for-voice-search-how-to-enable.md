@@ -3,9 +3,7 @@ layout: post
 title: Chrome for Voice Search How to Enable
 description: Learn how to enable and use voice search in Chrome. Simple steps to activate
   voice input for hands-free browsing.
-date: '2026-01-20'
-last_modified_at: '2026-03-10'
-permalink: /chrome-for-voice-search-how-to-enable/
+date: 2026-01-20
 categories:
 - browsers
 - tips
@@ -15,6 +13,8 @@ tags:
 - browser-tips
 - google
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: /chrome-for-voice-search-how-to-enable/
 ---
 
 # Chrome for Voice Search How to Enable

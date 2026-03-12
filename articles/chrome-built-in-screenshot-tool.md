@@ -4,9 +4,7 @@ title: Chrome Built-In Screenshot Tool
 description: Master Chrome's built-in screenshot tool with full page capture, area
   selection, node screenshots via DevTools, and more. Learn all the methods Chrome
   offers.
-date: '2026-01-20'
-last_modified_at: '2026-03-11'
-permalink: /chrome-built-in-screenshot-tool/
+date: 2026-01-20
 categories:
 - tips
 - chrome
@@ -17,6 +15,8 @@ tags:
 - devtools
 - screen-capture
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: /chrome-built-in-screenshot-tool/
 ---
 
 # Chrome Built-In Screenshot Tool

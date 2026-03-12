@@ -3,9 +3,7 @@ layout: post
 title: chrome web otp autofill sms
 description: Learn how chrome web otp autofill sms works, enabling automatic SMS code
   detection for seamless two-factor authentication in your browser.
-date: '2026-01-15'
-last_modified_at: '2026-03-11'
-permalink: /chrome-web-otp-autofill-sms/
+date: 2026-01-15
 categories:
 - extensions
 - security
@@ -17,6 +15,8 @@ tags:
 - two-factor-authentication
 - chrome
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: /chrome-web-otp-autofill-sms/
 ---
 
 # Chrome Web OTP Autofill SMS: Complete Guide

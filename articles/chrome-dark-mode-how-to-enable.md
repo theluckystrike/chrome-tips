@@ -3,9 +3,7 @@ layout: post
 title: chrome dark mode how to enable
 description: Learn how to enable dark mode in Chrome on desktop and mobile. Step-by-step
   guide to turn on Chrome dark theme for easier nighttime browsing.
-date: '2026-03-09'
-last_modified_at: '2026-03-09'
-permalink: /chrome-dark-mode-how-to-enable/
+date: 2026-03-09
 categories:
 - features
 - customization
@@ -15,6 +13,8 @@ tags:
 - theme
 - appearance
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: /chrome-dark-mode-how-to-enable/
 ---
 
 # Chrome Dark Mode How to Enable

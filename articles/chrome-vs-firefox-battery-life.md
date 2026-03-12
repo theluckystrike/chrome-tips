@@ -3,9 +3,7 @@ layout: post
 title: 'Chrome vs Firefox Battery Life: Which Browser Saves More Power'
 description: Compare Chrome vs Firefox battery life to find which browser uses less
   power. Learn which browser is better for laptops and extends your battery runtime.
-date: '2026-01-15'
-last_modified_at: '2026-03-11'
-permalink: /chrome-vs-firefox-battery-life/
+date: 2026-01-15
 categories:
 - browsers
 - performance
@@ -15,6 +13,8 @@ tags:
 - battery-life
 - browser-comparison
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: /chrome-vs-firefox-battery-life/
 ---
 
 # Chrome vs Firefox Battery Life: Which Browser Saves More Power

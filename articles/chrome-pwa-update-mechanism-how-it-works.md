@@ -3,9 +3,7 @@ layout: post
 title: Chrome PWA Update Mechanism How It Works
 description: Learn how Chrome handles PWA updates, what happens behind the scenes,
   and how to ensure your progressive web app stays up to date.
-date: '2026-01-15'
-last_modified_at: '2026-03-10'
-permalink: /chrome-pwa-update-mechanism-how-it-works/
+date: 2026-01-15
 categories:
 - pwa
 - chrome
@@ -16,6 +14,8 @@ tags:
 - update-mechanism
 - progressive-web-app
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: /chrome-pwa-update-mechanism-how-it-works/
 ---
 
 # Chrome PWA Update Mechanism How It Works

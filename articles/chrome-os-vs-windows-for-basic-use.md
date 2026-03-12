@@ -3,9 +3,7 @@ layout: post
 title: Chrome OS vs Windows for Basic Use
 description: A practical guide comparing Chrome OS and Windows for everyday tasks.
   Learn which operating system fits your needs better.
-date: '2026-01-20'
-last_modified_at: '2026-03-10'
-permalink: /chrome-os-vs-windows-for-basic-use/
+date: 2026-01-20
 categories:
 - comparison
 - operating-systems
@@ -16,6 +14,8 @@ tags:
 - basic-use
 - operating-system-comparison
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: /chrome-os-vs-windows-for-basic-use/
 ---
 
 # Chrome OS vs Windows for Basic Use

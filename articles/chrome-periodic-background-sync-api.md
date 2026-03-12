@@ -100,3 +100,9 @@ The Periodic Background Sync API demonstrates how web capabilities continue appr
 For developers, understanding these APIs opens possibilities for creating more engaging and responsive web experiences. The key lies in applying them thoughtfully, balancing automatic updates against resource conservation and user control.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Virtual Keyboard API for Mobile - Complete Guide](/chrome-tips/chrome-virtual-keyboard-api-mobile/)
+- [Chrome Extensions for Freelancers](/chrome-tips/chrome-extensions-for-freelancers/)
+- [Chrome CSS Masonry Layout Proposal - What You Need to Know](/chrome-tips/chrome-css-masonry-layout-proposal/)

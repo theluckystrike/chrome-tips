@@ -57,3 +57,9 @@ Chrome's multiprocess architecture set a new standard that other browsers eventu
 Understanding how Chrome manages processes helps you use the browser more effectively. You can monitor resource usage, close problematic tabs before they impact your system, and take advantage of memory-saving features. The architecture that started as an innovation has become an essential part of how modern web browsing works.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Popover API: Modal vs Non-Modal Popovers Explained](/chrome-tips/chrome-popover-api-modal-vs-non-modal/)
+- [Chrome Security Key How to Use With Chrome](/chrome-tips/chrome-security-key-how-to-use-with-chrome/)
+- [Chrome DevTools Rendering Tab Explained](/chrome-tips/chrome-devtools-rendering-tab-explained/)

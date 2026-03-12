@@ -84,3 +84,9 @@ The "chrome not enough memory to open page" error doesn't mean you need to aband
 With these tools and techniques, you can enjoy a smoother browsing experience even on machines with limited RAM. The key is being mindful of how many tabs you keep open and leveraging Chrome's built-in features to help manage memory automatically.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Amazon FBA Sellers](/chrome-tips/chrome-extensions-for-amazon-fba-sellers/)
+- [How to Put Chrome Portable Version on a USB Drive](/chrome-tips/chrome-portable-version-usb-drive-how/)
+- [Chrome Extension for Highlighting Text on Websites](/chrome-tips/chrome-extension-for-highlighting-text-on-websites/)

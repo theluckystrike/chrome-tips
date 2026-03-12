@@ -89,3 +89,9 @@ The feature is particularly valuable for users with repetitive strain injuries (
 Chrome's accessibility features extend beyond mouse keys. You can also enable screen reader support, high contrast mode, and focus highlighting to make web browsing more accessible. These features work together to create a more inclusive browsing experience.
 
 Built by theluckystrike — More tips at [https://zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for BitChute Web Player](/chrome-tips/chrome-for-bitchute-web-player/)
+- [Chrome Extensions for Website Dark Mode Forced](/chrome-tips/chrome-extensions-for-website-dark-mode-forced/)
+- [Chrome Aspect Ratio CSS Property](/chrome-tips/chrome-aspect-ratio-css-property/)

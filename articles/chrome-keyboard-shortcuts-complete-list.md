@@ -91,3 +91,9 @@ Here is a condensed version of the most essential shortcuts for quick reference:
 Learning the chrome keyboard shortcuts complete list takes some time, but the productivity gains are well worth the investment. Start with the shortcuts you use most frequently—new tab, close tab, switch tabs—and gradually add more to your workflow. Within a few weeks, these shortcuts will become second nature, and you will wonder how you ever browsed without them.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome for Quick Commands Feature](/chrome-tips/chrome-for-quick-commands-feature/)
+- [Chrome Extensions for Better YouTube Experience](/chrome-tips/chrome-extensions-for-better-youtube-experience/)
+- [Chrome Side Panel Extensions Best Ones](/chrome-tips/chrome-side-panel-extensions-best-ones/)

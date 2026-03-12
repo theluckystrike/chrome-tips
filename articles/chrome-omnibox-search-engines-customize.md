@@ -86,3 +86,9 @@ Customizing search engines in the Chrome omnibox is a straightforward process th
 Start with your top five most-visited sites, add their search engines with memorable keywords, and expand from there. Within a week, you'll wonder how you ever browsed without this capability.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Extensions for Video Playback Speed Control](/chrome-tips/chrome-extensions-for-video-playback-speed-control/)
+- [Best Chrome Extensions for Writers 2026](/chrome-tips/best-chrome-extensions-for-writers-2026/)
+- [Chrome Side Panel — How to Use It Effectively](/chrome-tips/chrome-side-panel-how-to-use/)

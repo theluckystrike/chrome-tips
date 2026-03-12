@@ -72,3 +72,9 @@ Finding the right Chrome lite mode replacement for slow internet ultimately come
 Remember that the goal is not necessarily to use the fewest resources possible, but to create a balance that works for your specific situation. With some experimentation, you can significantly improve your browsing experience without having to switch browsers or upgrade your internet connection.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Helper Renderer High CPU Mac Fix](/chrome-tips/chrome-helper-renderer-high-cpu-mac-fix/)
+- [Chrome Extensions for Language Learning](/chrome-tips/chrome-extensions-for-language-learning/)
+- [Chrome Mobile View on Desktop How to](/chrome-tips/chrome-mobile-view-on-desktop-how-to/)

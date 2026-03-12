@@ -76,3 +76,9 @@ Improving your Chrome Lighthouse performance score is a straightforward process 
 Remember, Lighthouse is not just a score. It is a reflection of how fast and reliable your website truly is. By investing time in performance today, you are setting your site up for better engagement, higher conversions, and improved search visibility tomorrow.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Slow on 10 Year Old Laptop Fix](/chrome-tips/chrome-slow-on-10-year-old-laptop-fix/)
+- [chrome for geforce now best settings](/chrome-tips/chrome-for-geforce-now-best-settings/)
+- [Chrome Remote Desktop Setup Guide](/chrome-tips/chrome-remote-desktop-setup-guide/)

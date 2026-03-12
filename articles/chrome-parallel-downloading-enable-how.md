@@ -80,3 +80,9 @@ Enabling parallel downloading in Chrome is a straightforward process that can de
 Give the feature a try with your next large download and see the difference for yourself. Combined with good browsing habits and proper tab management, parallel downloading helps make Chrome an even more efficient tool for getting things done online.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Biometric Login How To Set Up](/chrome-tips/chrome-biometric-login-how-to-set-up/)
+- [chrome kiosk mode how to set up](/chrome-tips/chrome-kiosk-mode-how-to-set-up/)
+- [How to Group Tabs by Color in Chrome: A Complete Guide](/chrome-tips/chrome-group-tabs-by-color-organize/)

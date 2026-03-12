@@ -62,3 +62,9 @@ Chrome Journeys represents a significant step forward in how browsers help users
 Whether you are planning a vacation, researching a major purchase, learning a new skill, or simply trying to find that article you read last week, Journeys makes the process much more intuitive. By understanding this feature and incorporating it into your browsing routine, you can save time and reduce the frustration of lost web pages.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Best Chrome Extensions for Real Estate Agents](/chrome-tips/best-chrome-extensions-for-real-estate-agents/)
+- [Chrome Extensions For Dropbox](/chrome-tips//articles/chrome-extensions-for-dropbox//)
+- [Chrome Shape Detection API – Barcode, Face & Text Recognition Directly in Your](/chrome-tips/chrome-shape-detection-barcode-face-text/)

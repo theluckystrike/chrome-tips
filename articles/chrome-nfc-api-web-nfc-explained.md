@@ -67,3 +67,9 @@ If you manage many tabs and want to improve your overall browser efficiency whil
 The Web NFC API represents a significant step forward in bringing physical and digital worlds closer together. As browser support expands and more developers adopt the technology, we can expect to see innovative uses that we have not yet imagined. From smart homes to interactive marketing, the possibilities are extensive.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [Chrome Activity Controls What They Track](/chrome-tips/chrome-activity-controls-what-they-track/)
+- [Chrome Managed Bookmarks for Employees](/chrome-tips/chrome-managed-bookmarks-for-employees/)
+- [Chrome Utility Process What Is It](/chrome-tips/chrome-utility-process-what-is-it/)

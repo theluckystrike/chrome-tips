@@ -101,3 +101,9 @@ Most users find that closing excess tabs and enabling Memory Saver provides imme
 Give these methods a try, and you'll likely see a significant improvement in your system's responsiveness.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+- [How to Use Chrome Task Manager to Find Heavy Tabs](/chrome-tips/chrome-task-manager-find-heavy-tabs/)
+- [Chrome Serial API and USB Device Access — Complete Guide](/chrome-tips/chrome-serial-api-usb-device-access/)
+- [Chrome Trust Tokens Explained](/chrome-tips/chrome-trust-tokens-guide/)

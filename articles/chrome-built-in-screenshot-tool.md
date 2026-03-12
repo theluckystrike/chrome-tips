@@ -1,21 +1,10 @@
 ---
 layout: post
-title: Chrome Built-In Screenshot Tool
-description: Master Chrome's built-in screenshot tool with full page capture, area
-  selection, node screenshots via DevTools, and more. Learn all the methods Chrome
-  offers.
-date: '2026-01-20'
-last_modified_at: '2026-03-11'
-permalink: chrome-built-in-screenshot-tool
-categories:
-- tips
-- chrome
-- screenshots
-tags:
-- chrome-screenshot
-- browser-tools
-- devtools
-- screen-capture
+title: "Chrome Built-In Screenshot Tool"
+description: "Master Chrome's built-in screenshot tool with full page capture, area selection, node screenshots via DevTools, and more. Learn all the methods Chrome offers."
+date: 2026-01-20
+categories: [tips, chrome, screenshots]
+tags: [chrome-screenshot, browser-tools, devtools, screen-capture]
 author: theluckystrike
 ---
 # Chrome Built-In Screenshot Tool
@@ -145,11 +134,6 @@ Chrome's built-in screenshot tool offers a surprisingly robust set of features t
 The key is knowing which method to use for each situation. For entire webpages, use the "Capture full size screenshot" command. For quick visible-area captures, use "Capture screenshot." For specific elements, use the node screenshot feature in Developer Tools. And for precise control, combine screenshot commands with DevTools docking and browser window resizing.
 
 Next time you need to capture something from a webpage, try Chrome's built-in tools first—you might find they handle everything you need without ever needing to install another extension.
-
-## Related Articles
-* [Chrome for Zotero Web Connector Setup](/articles/chrome-for-zotero-web-connector-setup/)
-* [How to Set Chrome as Default Browser Windows 11](/articles/how-to-set-chrome-as-default-browser-windows-11/)
-* [Chrome for LinkedIn Best Extensions](/articles/chrome-for-linkedin-best-extensions/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

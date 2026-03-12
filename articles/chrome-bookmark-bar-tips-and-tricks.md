@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "chrome bookmark bar tips and tricks"
-description: "Discover helpful chrome bookmark bar tips and tricks to organize your favorite sites, find bookmarks quickly, and get more from Chrome."
-date: 2026-01-15
+description: "Discover helpful chrome bookmark bar tips and tricks to organize your favorite sites, find bookmarks quickly, and get more from Chrome. Learn more about optimiz"
+date: "2026-01-15"
+last_modified_at: "2026-03-09"
+permalink: "chrome-bookmark-bar-tips-and-tricks"
 categories: [tips, bookmarks]
 tags: [chrome, bookmark-bar, productivity, browser-tips]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Bookmark Bar Tips and Tricks

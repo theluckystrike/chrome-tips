@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Background Fetch for PWAs Explained"
-description: "Learn what Chrome Background Fetch is, how it works with Progressive Web Apps, and what it means for your browsing experience."
-date: 2026-01-15
+description: "Learn what Chrome Background Fetch is, how it works with Progressive Web Apps, and what it means for your browsing experience. Learn more about optimizing your "
+date: "2026-01-15"
+last_modified_at: "2026-03-10"
+permalink: "chrome-background-fetch-for-pwas-explained"
 categories: [chrome-features, pwa, web-apps]
 tags: [chrome-background-fetch, pwa, progressive-web-apps, chrome-background-tasks]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Background Fetch for PWAs Explained

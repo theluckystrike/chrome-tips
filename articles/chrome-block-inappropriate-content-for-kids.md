@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Block Inappropriate Content for Kids"
-description: "Learn how to block inappropriate content in Chrome for kids using built-in tools, extensions, and parental control solutions."
-date: 2025-03-10
+description: "Learn how to block inappropriate content in Chrome for kids using built-in tools, extensions, and parental control solutions. Learn more about optimizing your C"
+date: "2025-03-10"
+last_modified_at: "2026-03-10"
+permalink: "chrome-block-inappropriate-content-for-kids"
 categories: [family, safety]
 tags: [parental-controls, kids-safety, content-filtering, chrome-for-families]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Block Inappropriate Content for Kids

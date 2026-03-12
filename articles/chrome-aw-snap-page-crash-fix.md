@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome AW Snap Page Crash Fix"
-description: "Chrome AW Snap error causing page crashes? Learn what it means and how to fix it with simple solutions anyone can try."
-date: 2026-01-15
+description: "Chrome AW Snap error causing page crashes? Learn what it means and how to fix it with simple solutions anyone can try. Learn more about optimizing your Chrome e"
+date: "2026-01-15"
+last_modified_at: "2026-03-09"
+permalink: "chrome-aw-snap-page-crash-fix"
 categories: [troubleshooting, performance]
 tags: [chrome-aw-snap, chrome-crash, page-crash-fix, browser-error]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome AW Snap Page Crash Fix

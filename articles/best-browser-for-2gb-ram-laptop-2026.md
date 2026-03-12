@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Best Browser for 2GB RAM Laptop 2026"
-description: "Finding a browser that runs smoothly on a laptop with only 2GB RAM. We compare lightweight options and share practical tips."
+description: "Finding a browser that runs smoothly on a laptop with only 2GB RAM. We compare top lightweight options and share practical tips to speed up your older machine."
 date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: best-browser-for-2gb-ram-laptop-2026
 categories: [performance, browsers]
 tags: [best-browser, 2gb-ram, laptop, lightweight-browser]
 author: theluckystrike

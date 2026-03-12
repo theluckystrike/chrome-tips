@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "best chrome extensions for accessibility needs"
-description: "Find the best chrome extensions for accessibility needs to make browsing easier for everyone. Discover tools that help with reading, navigation, and more."
+title: "Best Chrome Extensions for Accessibility Needs"
+description: "Find the best Chrome extensions for accessibility needs to make browsing easier. Discover tools that help with reading, navigation, and more for everyone today."
 date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: best-chrome-extensions-for-accessibility-needs
 categories: [extensions, accessibility]
 tags: [chrome-extension, accessibility, browser, assistive-technology]
 author: theluckystrike

@@ -91,3 +91,9 @@ Blurry text in Chrome on Windows is annoying, but it is usually fixable. Start w
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
+* [Chrome Certificate Error How to Bypass Safely](/chrome-certificate-error-how-to-bypass-safely)
+* [Chrome View Transition API: Smooth Animations Within a Single Page](/chrome-view-transition-same-document)

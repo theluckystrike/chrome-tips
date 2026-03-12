@@ -92,3 +92,9 @@ Every few months, take a moment to review and update your saved autofill informa
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [Chrome for Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)
+* [Chrome Developer Tools Shortcut](//chrome-developer-tools-shortcut/)
+* [Chrome Shopping List Feature How to Use](/chrome-shopping-list-feature-how-to-use)

@@ -71,3 +71,9 @@ One more tip that helps with browser extensions overall: keeping too many tabs o
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [Chrome Coupon Finder Built In Feature](/chrome-coupon-finder-built-in-feature)
+* [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)
+* [chrome for monday.com best extensions](/chrome-for-mondaycom-best-extensions)

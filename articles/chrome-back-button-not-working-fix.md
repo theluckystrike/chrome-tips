@@ -94,3 +94,9 @@ Sometimes hardware issues can cause browser problems. If your computer is runnin
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [chrome default browser how to set windows mac](//chrome-default-browser-how-to-set-windows-mac/)
+* [chrome portable version run from usb](/chrome-portable-version-run-from-usb)
+* [Chrome Drag and Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)

@@ -81,3 +81,9 @@ Now that you know how to delete individual autofill suggestions in Chrome, you c
 Regularly reviewing and cleaning up your autofill data helps ensure that Chrome only suggests information you actually want to use. This reduces the chance of accidentally using an old address, sharing information with the wrong autocomplete suggestion, or dealing with cluttered suggestion menus.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [chrome offline google docs how to enable](/chrome-offline-google-docs-how-to-enable)
+* [Chrome Local Font Access API Explained](/chrome-local-font-access-api-explained)
+* [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)

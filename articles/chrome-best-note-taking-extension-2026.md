@@ -90,3 +90,9 @@ The combination of effective note-taking and smart tab management creates a brow
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Extension for Email Tracking Notification](/chrome-extension-for-email-tracking-notification)
+* [Chrome for Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension)
+* [chrome data saver mode is it still available](//chrome-data-saver-mode-is-it-still-available/)

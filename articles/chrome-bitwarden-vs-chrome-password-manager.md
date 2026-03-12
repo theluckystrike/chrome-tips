@@ -82,3 +82,9 @@ Choose Bitwarden if you use multiple browsers or devices, you need advanced feat
 For many users, the best approach is to start with whatever feels easiest and switch if your needs change. Both options are significantly better than using the same password everywhere or writing passwords on sticky notes. Whichever you choose, make sure to enable two-factor authentication on your most important accounts for an extra layer of security.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [How to Backup Chrome Bookmarks and Passwords](/how-to-backup-chrome-bookmarks-and-passwords)
+* [Chrome Bookmarks Not Syncing Fix](/chrome-bookmarks-not-syncing-fix)
+* [How to Export Chrome Passwords](/how-to-export-chrome-passwords)

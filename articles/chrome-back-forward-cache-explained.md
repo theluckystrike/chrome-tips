@@ -73,3 +73,9 @@ If you find that Chrome is using more memory than you would like, or if your bro
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+* [Chrome vs Firefox Memory Usage Test 2026](/chrome-vs-firefox-memory-usage-test-2026)
+* [chrome privacy checkup how to do](/chrome-privacy-checkup-how-to-do)
+* [Chrome Shape Detection API Explained](/chrome-shape-detection-api-explained)

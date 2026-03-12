@@ -71,3 +71,9 @@ You do not need to change every setting at once. Start with the easiest ones, li
 Streaming should be enjoyable, not frustrating. With a few tweaks to Chrome's settings, you can reduce buffering, improve video quality, and get back to enjoying your favorite content without interruptions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [Chrome Scroll Not Smooth Fix](/chrome-scroll-not-smooth-fix)
+* [Chrome Navigator Sendbeacon Explained](/chrome-navigator-sendbeacon-explained)
+* [Chrome Reset vs Reinstall: Which Is Better?](/chrome-reset-vs-reinstall-which-is-better)

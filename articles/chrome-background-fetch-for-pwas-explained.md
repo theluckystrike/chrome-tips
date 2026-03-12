@@ -81,3 +81,9 @@ Regular maintenance helps too. Periodically check which PWAs you have installed 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [Chrome Restore Tabs Not Working After Update: Practical Fixes](/chrome-restore-tabs-not-working-after-update)
+* [How to See Chrome Tabs From Other Devices](/chrome-tabs-from-other-devices-how-to-see)
+* [Chrome for Salesforce Web App Optimization](/chrome-for-salesforce-web-app-optimization)

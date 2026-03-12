@@ -103,3 +103,9 @@ Being thoughtful about the information you share online and the permissions you 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+* [Chrome Back Forward Cache How to Test](/chrome-back-forward-cache-how-to-test)
+* [Chrome Flexbox Debugging Guide](/chrome-flexbox-debugging)
+* [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)

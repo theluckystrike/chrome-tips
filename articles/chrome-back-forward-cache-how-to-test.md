@@ -70,3 +70,9 @@ The back forward cache is a valuable feature for users, and most websites work f
 Remember to test not just on Chrome but also on other browsers that support the back forward cache, as behavior can vary slightly between browsers. Keep testing as you make changes to your site, since new features or updates might introduce unexpected interactions with caching behavior.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [Chrome Extensions for Web Development Tools](/chrome-extensions-for-web-development-tools)
+* [One Chrome Tab Making Everything Slow: What to Do About It](/one-chrome-tab-making-everything-slow)
+* [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)

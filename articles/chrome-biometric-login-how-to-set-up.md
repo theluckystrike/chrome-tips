@@ -87,3 +87,9 @@ While Chrome handles biometric login natively for many websites, you can enhance
 For users who want to ensure their biometric credentials are handled securely, browser extensions that manage WebAuthn credentials can be helpful. These tools let you view and manage which websites have access to your biometric data, giving you more control over your authentication methods.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [Chrome Send to Device Feature How to Use](/chrome-send-to-device-feature-how-to-use)
+* [Best Chrome Extensions for Marketing Professionals](/best-chrome-extensions-for-marketing-professionals)
+* [Chrome Opens in Small Window Fix](/chrome-opens-in-small-window-fix)

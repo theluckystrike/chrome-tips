@@ -72,3 +72,9 @@ Most meeting problems stem from Chrome using too many resources or competing for
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+* [Chrome Hardware Acceleration Guide](/chrome-hardware-acceleration-guide)
+* [Chrome Background Fetch for PWAs Explained](/chrome-background-fetch-for-pwas-explained)
+* [Chrome Voice Control How to Use](/chrome-voice-control-how-to-use)

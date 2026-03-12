@@ -80,3 +80,9 @@ To get the most out of your screenshot extension, consider these practical tips.
 **Organize regularly**: If you take many screenshots, set aside time periodically to organize and clean up your collection. Delete what you no longer need and properly archive important captures.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Guest Browsing: What Data Is Saved](/chrome-guest-browsing-what-data-is-saved)
+* [Chrome Large Font Easy to Read Setup](/chrome-large-font-easy-to-read-setup)
+* [How to Import Bookmarks from Firefox to Chrome](/how-to-import-bookmarks-from-firefox-to-chrome)

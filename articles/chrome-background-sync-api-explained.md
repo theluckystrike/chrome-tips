@@ -76,3 +76,9 @@ Finally, pay attention to how your computer behaves. If you notice slowdowns, wa
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [chrome logpoints debug without console log](/chrome-logpoints-debug-without-console-log)
+* [Chrome Extensions for Tab Sleeping Automatically](/chrome-extensions-for-tab-sleeping-automatically)
+* [Chrome Navigate Back With Gesture How to](/chrome-navigate-back-with-gesture-how-to)

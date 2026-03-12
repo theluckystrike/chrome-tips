@@ -88,3 +88,9 @@ You might also want to try lighter browsers for everyday tasks and reserve Chrom
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+* [Chrome 64 bit vs 32 bit How to Check](/chrome-64-bit-vs-32-bit-how-to-check)
+* [Chrome Extensions for Podcasters](/chrome-extensions-for-podcasters)
+* [Chrome for Etsy Seller Best Extensions](/chrome-for-etsy-seller-best-extensions)

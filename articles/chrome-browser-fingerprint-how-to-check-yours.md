@@ -14,7 +14,7 @@ tags:
 - check-fingerprint
 - online-privacy
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-browser-fingerprint-how-to-check-yours
 ---
 # Chrome Browser Fingerprint How to Check Yours

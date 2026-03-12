@@ -15,7 +15,7 @@ tags:
 - browser-tips
 - data-recovery
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-bookmarks-disappeared-how-to-recover
 ---
 # Chrome Bookmarks Disappeared: How to Recover Them

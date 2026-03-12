@@ -1,13 +1,24 @@
 ---
 layout: post
-title: "CHIPS: Cookies Having Independent Partitioned State in Chrome"
-description: "Learn how Chrome's CHIPS feature provides independent partitioned state for cookies, enhancing privacy while allowing third-party embeds to function properly."
+title: 'CHIPS: Cookies Having Independent Partitioned State in Chrome'
+description: Learn how Chrome's CHIPS feature provides independent partitioned state
+  for cookies, enhancing privacy while allowing third-party embeds to function properly.
 date: 2026-01-16
-categories: [privacy, security, chrome]
-tags: [chips, cookies, partitioned-cookies, privacy-sandbox, third-party-cookies, chrome-settings]
+categories:
+- privacy
+- security
+- chrome
+tags:
+- chips
+- cookies
+- partitioned-cookies
+- privacy-sandbox
+- third-party-cookies
+- chrome-settings
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-chips-cookies-having-independent-state
 ---
-
 # CHIPS: Cookies Having Independent Partitioned State in Chrome
 
 As web privacy continues to evolve, browsers are implementing new technologies to balance user privacy with web functionality. One such innovation is CHIPS (Cookies Having Independent Partitioned State), a feature in Google Chrome that allows cookies to maintain independent state across different top-level sites. This technology represents a significant step forward in protecting user privacy while still enabling the embedded content that makes the modern web functional.

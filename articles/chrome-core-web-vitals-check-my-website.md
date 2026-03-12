@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "Chrome Core Web Vitals Check My Website"
-description: "Learn how to check your website's Core Web Vitals in Chrome. Step-by-step guide to measure LCP, FID, and CLS using built-in tools and extensions."
+title: Chrome Core Web Vitals Check My Website
+description: Learn how to check your website's Core Web Vitals in Chrome. Step-by-step
+  guide to measure LCP, FID, and CLS using built-in tools and extensions. Learn how
+  t...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-core-web-vitals-check-my-website
 ---
-
 Chrome core web vitals check my website is a search more and more people are making when they want to understand how their website performs. Whether you own a blog, run an online store, or manage a business website, knowing how your site loads and behaves in Chrome is essential. Core Web Vitals are Google's way of measuring user experience, and checking them regularly helps you stay ahead of problems that could hurt your rankings or drive visitors away.
 
 ## What Are Core Web Vitals

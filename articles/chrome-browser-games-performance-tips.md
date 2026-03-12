@@ -14,7 +14,7 @@ tags:
 - chrome-performance
 - gaming-tips
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-browser-games-performance-tips
 ---
 If you are looking for chrome browser games performance tips, you have probably experienced lag, stuttering, or slow loading times while playing your favorite web-based games. Chrome is a powerful browser, but its default settings are not optimized for gaming. A few simple adjustments can make a world of difference in how smoothly your games run.

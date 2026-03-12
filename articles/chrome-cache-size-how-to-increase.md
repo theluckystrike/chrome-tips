@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "How to Increase Chrome Cache Size"
-description: "Learn how to increase Chrome cache size to speed up browsing. Simple steps to manage cache settings and improve performance."
+title: How to Increase Chrome Cache Size
+description: Learn how to increase Chrome cache size to speed up browsing. Simple
+  steps to manage cache settings and improve performance. Learn how to optimize your
+  brows...
 date: 2025-02-19
-categories: [performance]
-tags: [chrome-cache, browser-optimization, storage]
+categories:
+- performance
+tags:
+- chrome-cache
+- browser-optimization
+- storage
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-cache-size-how-to-increase
 ---
-
 # How to Increase Chrome Cache Size
 
 If you are searching for how to increase chrome cache size, you probably noticed that Chrome seems to reload pages frequently or that websites take longer to load than they should. This happens because Chrome's default cache settings might be too restrictive for your browsing habits, and adjusting them can make a noticeable difference in how fast websites load.

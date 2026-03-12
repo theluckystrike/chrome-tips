@@ -14,7 +14,7 @@ tags:
 - enterprise
 - management
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-browser-management-for-it-admins
 ---
 # Chrome Browser Management for IT Admins

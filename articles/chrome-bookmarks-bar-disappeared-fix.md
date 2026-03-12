@@ -14,7 +14,7 @@ tags:
 - chrome-fix
 - browser-problem
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-bookmarks-bar-disappeared-fix
 ---
 # Chrome Bookmarks Bar Disappeared Fix

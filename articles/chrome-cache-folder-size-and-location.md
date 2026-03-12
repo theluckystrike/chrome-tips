@@ -14,7 +14,7 @@ tags:
 - chrome-cache-size
 - browser-cache
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-cache-folder-size-and-location
 ---
 # Chrome Cache Folder Size and Location: Complete Guide

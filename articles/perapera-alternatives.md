@@ -12,6 +12,7 @@ target_keyword: "perapera alternatives"
 target_extension: "belikenative"
 word_count: 1089
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/perapera-alternatives/
 ---
 
 Perapera's discontinued development left thousands of Japanese learners scrambling for translation alternatives when popup dictionaries stopped working with modern Chrome updates. After testing 12 browser-based translation tools, I found 6 viable perapera alternatives that actually deliver accurate Japanese-to-English translations without breaking your workflow.

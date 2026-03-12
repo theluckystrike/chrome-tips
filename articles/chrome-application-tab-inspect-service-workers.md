@@ -177,3 +177,9 @@ Chrome's Application tab provides comprehensive tools for inspecting, debugging,
 The ability to simulate push notifications, test background sync, and inspect cache storage makes the Application tab an essential tool for any web developer working with service workers or Progressive Web Apps.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Extensions for Tab Sleeping Automatically](/chrome-extensions-for-tab-sleeping-automatically)
+* [Chrome Dashlane vs 1Password Comparison](//chrome-dashlane-vs-onepassword-comparison/)
+* [Chrome Speech Recognition API Explained](/chrome-speech-recognition-api-explained)

@@ -102,3 +102,9 @@ Check your sync settings periodically to make sure suggestions are not coming fr
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [Chrome Screen Flickering Fix](/chrome-screen-flickering-fix)
+* [Chrome Permissions API for Camera and Microphone](/chrome-permissions-api-camera-microphone)
+* [Chrome for Evernote Web Clipper Tips](/chrome-for-evernote-web-clipper-tips)

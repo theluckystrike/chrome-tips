@@ -70,3 +70,9 @@ Now that you know how to enable desktop mode in Chrome for Android, you can star
 Give it a try on a few of your favorite websites and see what differences you notice. You might find that some sites work much better in desktop mode, while others are perfectly fine in their mobile version. Having the option to choose puts you in control of your browsing experience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [chrome for shopify store management tips](/chrome-for-shopify-store-management-tips)
+* [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
+* [How to Allow Pop Ups on One Site Chrome](/how-to-allow-pop-ups-on-one-site-chrome)

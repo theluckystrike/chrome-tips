@@ -118,3 +118,9 @@ While you're optimizing your animations, consider your overall browser performan
 Master the Animations panel, and you'll ship more polished, professional web experiences—all while spending less time troubleshooting animation issues.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Extensions for Quick Notes Sidebar](/chrome-extensions-for-quick-notes-sidebar)
+* [Chrome Service Worker Caching Strategies](/chrome-service-worker-caching-strategies)
+* [chrome extensions for privacy badger alternative](/chrome-extensions-for-privacy-badger-alternative)

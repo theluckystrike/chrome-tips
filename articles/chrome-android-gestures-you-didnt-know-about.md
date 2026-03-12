@@ -78,3 +78,9 @@ If you find these chrome android gestures you didnt know about helpful and want 
 Chrome is constantly adding new features and gestures, so it is worth checking the settings menu occasionally to see what is new. The browser has come a long way from its early days, and the team keeps improving how you can interact with web content on your phone. These chrome android gestures you didnt know about are just the beginning of what is possible when you start exploring your browser capabilities.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [chrome how to enable cookies](/chrome-how-to-enable-cookies)
+* [Chrome DevTools Console Errors Meaning: A Practical Guide](//chrome-devtools-console-errors-meaning-guide/)
+* [Chrome Open Source Parts Explained](/chrome-open-source-parts-explained)

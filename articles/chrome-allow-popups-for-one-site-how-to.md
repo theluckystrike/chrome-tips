@@ -70,3 +70,9 @@ It is a good idea to periodically review which sites you have allowed to open po
 Learning how to allow popups for one site in Chrome is a useful skill that gives you fine-grained control over your browsing experience. Instead of turning off your popup blocker entirely and exposing yourself to unwanted windows, you can whitelist the specific sites that need this capability while keeping everything else protected. Whether you use the Settings menu or the quick option in the address bar, managing popup permissions takes just a few seconds and can save you a lot of frustration when you need a trusted website to open a new window.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Extension for Managing Multiple Email Accounts](/chrome-extension-for-managing-multiple-email-accounts)
+* [how to enable chrome experimental features](/how-to-enable-chrome-experimental-features)
+* [Chrome DevTools CSS Overview Panel](//chrome-devtools-css-overview-panel/)

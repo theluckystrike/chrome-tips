@@ -74,3 +74,9 @@ That said, Chrome's built-in settings are usually sufficient for most users who 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [chromebook file manager tips and tricks](/chromebook-file-manager-tips-and-tricks)
+* [How to Use Chrome for Multiple Work Accounts](/how-to-use-chrome-for-multiple-work-accounts)
+* [Chrome Extensions for Table Data Extractor](/chrome-extensions-for-table-data-extractor)

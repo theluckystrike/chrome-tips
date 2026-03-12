@@ -84,3 +84,9 @@ The best approach is to experiment with different settings and find what works f
 Take some time to review your Chrome settings, clear any data you are uncomfortable with, and adjust the autocomplete options to match your needs. A few minutes of configuration can make your browsing experience feel much more personalized and private.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)
+* [chrome extensions for image reverse search](/chrome-extensions-for-image-reverse-search)
+* [Chrome Net Internals How to Use](/chrome-net-internals-how-to-use)

@@ -173,3 +173,9 @@ Take time to explore each section of the Application panel in your own projects.
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Android Tips To Save Data](/chrome-android-tips-to-save-data)
+* [Chrome Spellcheck Not Working? Here's How to Fix It](/chrome-spellcheck-not-working-fix)
+* [Chrome Saved Addresses How to Edit](/chrome-saved-addresses-how-to-edit)

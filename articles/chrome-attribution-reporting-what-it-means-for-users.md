@@ -76,3 +76,9 @@ Managing your tabs efficiently can contribute to better privacy as well. Keeping
 Staying informed about the privacy features in your browser helps you make choices that align with your preferences. Chrome continues to evolve its approach to tracking, so periodically reviewing your settings ensures you remain in control of your data.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [Chrome Extensions For Blue Light Filter](//articles/chrome-extensions-for-blue-light-filter/)
+* [Chrome Open Source Parts Explained](/chrome-open-source-parts-explained)
+* [Chrome Regex Lookbehind Support: What You Need to Know](/chrome-regex-lookbehind-support)

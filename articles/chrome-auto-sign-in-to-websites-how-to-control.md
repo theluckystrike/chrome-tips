@@ -72,3 +72,9 @@ Take some time to explore the settings we've discussed and experiment with diffe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+
+* [Chrome Bookmarks File Location and Backup Guide](/chrome-bookmarks-file-location-backup)
+* [Chrome Extensions for Link Checker Broken Links](/chrome-extensions-for-link-checker-broken-links)
+* [chrome how to add trusted sites](/chrome-how-to-add-trusted-sites)

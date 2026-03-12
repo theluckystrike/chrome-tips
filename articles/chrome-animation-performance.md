@@ -144,3 +144,9 @@ Remember that optimization is a process. Start with the fundamentals, measure yo
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [How to Enable Parallel Downloading in Chrome for Faster Downloads](/chrome-parallel-downloading-enable-speed-up)
+* [Chrome Slow After Hibernation Fix](/chrome-slow-after-hibernation-fix)
+* [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)

@@ -89,3 +89,9 @@ When you tap on a suspended tab, it reloads right away, so you never lose access
 Finally, make sure your Android operating system is up to date. System updates often include performance improvements that can help Chrome and other apps run better. Go to your phone's Settings, look for System Updates, and install any available updates.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Bookmarks File Location and Backup Guide](/chrome-bookmarks-file-location-backup)
+* [chrome kiosk mode how to set up](/chrome-kiosk-mode-how-to-set-up)
+* [Chrome Encoding API Text Encoder Decoder](/chrome-encoding-api-text-encoder-decoder)

@@ -81,3 +81,9 @@ These chrome address bar tips and tricks take just a few minutes to learn but ca
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+
+* [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
+* [How to Use Chrome for Multiple Work Accounts](/how-to-use-chrome-for-multiple-work-accounts)
+* [Chrome Application Panel Guide](/chrome-application-panel-guide)

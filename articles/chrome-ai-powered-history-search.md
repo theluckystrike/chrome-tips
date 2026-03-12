@@ -76,3 +76,9 @@ In the meantime, the extensions and approaches described here give you powerful 
 The key is understanding that standard Chrome search has limits. By recognizing this problem and seeking solutions, you gain back time that would otherwise be lost to fruitless searching.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome Extensions For Cookie Editor Manager](//articles/chrome-extensions-for-cookie-editor-manager/)
+* [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/chrome-extension-using-too-much-memory-find)
+* [chrome pwa offline capability how it works](/chrome-pwa-offline-capability-how-it-works)

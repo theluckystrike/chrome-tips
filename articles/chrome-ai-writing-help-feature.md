@@ -79,3 +79,9 @@ Start with small tasks and gradually expand how you use the tools. For example, 
 Remember that these tools are designed to support you, not to do all the work for you. Your unique voice and perspective are what make your writing special. AI can help you express yourself more clearly and efficiently, but the final output should always reflect your own thoughts and ideas.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [How to Find Chrome Extensions That Slow Down Browser](/how-to-find-chrome-extensions-that-slow-down-browser)
+* [Chrome Live Captions How to Enable](/chrome-live-captions-how-to-enable)
+* [chrome upcoming features roadmap 2026](/chrome-upcoming-features-roadmap-2026)

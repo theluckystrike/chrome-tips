@@ -83,3 +83,9 @@ You do not need to be technical to get more out of Chrome on Android. Start with
 If you have been feeling held back by Chrome on your Android phone, try these suggestions and see the difference for yourself. A faster, more capable browser means less waiting and more enjoying the web, whether you are checking email, reading news, or browsing social media.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+
+* [Chrome for Amazon Seller Central Tips](/chrome-for-amazon-seller-central-tips)
+* [Chrome Tab Color Coding How to Use](/chrome-tab-color-coding-how-to-use)
+* [Chrome Address Bar Autocomplete Disable](/chrome-address-bar-autocomplete-disable)

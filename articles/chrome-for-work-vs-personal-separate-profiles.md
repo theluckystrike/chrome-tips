@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chrome for Work vs Personal — How to Use Separate Profiles"
-description: "Keep your work and personal browsing separate in Chrome using profiles................................................................................"
+description: "Mixing work and personal browsing in the same Chrome window is like keeping your work papers and personal mail in the same pile on your desk. It works until ..."
 date: "2025-03-02"
 last_modified_at: '2026-03-12'
 permalink: "chrome-for-work-vs-personal-separate-profiles"
@@ -78,6 +78,8 @@ Transitioning to a multi-profile workflow takes about five minutes to set up, bu
 *Part of [Chrome Tips](https://theluckystrike.github.io/chrome-tips/) by theluckystrike. More browser guides at [zovo.one](https://zovo.one).*
 
 ## Related Articles
-* [Chrome Extensions for Musicians and Producers](/articles/chrome-extensions-for-musicians-and-producers/)
-* [Chrome Not Enough Memory Error](/articles/chrome-not-enough-memory-error/)
-* [Chrome How to Flush Socket Pools](/articles/chrome-how-to-flush-socket-pools/)
+* [Chrome Password Manager Not Suggesting? Heres the Fix](/articles/chrome-password-manager-not-suggesting-fix/)
+* [Chrome Cleanup Tool: Where Did It Go?](/articles/chrome-cleanup-tool-where-did-it-go/)
+* [Chrome Best Settings For Slow Internet](/articles/chrome-best-settings-for-slow-internet/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

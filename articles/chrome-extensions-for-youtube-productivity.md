@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chrome Extensions for YouTube Productivity"
-description: "Discover how chrome extensions for youtube productivity can transform................................................................................."
+description: "If you are searching for chrome extensions for youtube productivity, you probably spend a lot of time on YouTube and feel like you could be using the platfor..."
 date: "2026-03-09"
 last_modified_at: '2026-03-12'
 permalink: "chrome-extensions-for-youtube-productivity"
@@ -70,6 +70,8 @@ Remember that extensions are tools, and like any tools, they work best when used
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [How to Stop Chrome from Running in Background](/articles/how-to-stop-chrome-from-running-in-background/)
-* [Chrome Command Line Flags for Low Memory: A Practical Guide](/articles/chrome-command-line-flags-for-low-memory/)
-* [Chrome Font Size How to Change Permanently](/articles/chrome-font-size-how-to-change-permanently/)
+* [Chrome Security Checkup How to Run](/articles/chrome-security-checkup-how-to-run/)
+* [Chrome for TickTick in Browser Tips](/articles/chrome-for-ticktick-in-browser-tips/)
+* [Chrome DevTools Workspaces Guide](/articles/chrome-workspaces-guide/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

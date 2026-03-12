@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chrome Omnibox Search Tricks Most People Dont Know"
-description: "Discover hidden Chrome omnibox search tricks that can transform how you..............................................................................."
+description: "If you have ever searched for chrome omnibox search tricks most people dont know, you might be wondering what hidden features Chrome has that could make your..."
 date: "2026-03-10"
 last_modified_at: '2026-03-12'
 permalink: "chrome-omnibox-search-tricks-most-people-dont-know"
@@ -80,14 +80,8 @@ The Chrome omnibox is one of the most powerful tools in your browser, yet most p
 Once you start using these omnibox search tricks regularly, you will find yourself switching between tasks more quickly and getting things done in less time. The best part is that all of these features work immediately without any setup or installation. Give them a try and see how much easier Chrome can become.
 
 ## Related Articles
-* [Chrome Extensions For Code Snippet Manager](/articles//articles/chrome-extensions-for-code-snippet-manager//)
-* [Chrome Homepage Keeps Resetting Fix](/articles/chrome-homepage-keeps-resetting-fix/)
-* [Chrome Was Fast, Now It's Slow - What Happened?](/articles/chrome-was-fast-now-its-slow-what-happened/)
+* [How to Capture Network Logs in Chrome Using Net Export](/articles/chrome-net-export-capture-network-log/)
+* [Chrome WebAuthn Passwordless Login](/articles/chrome-webauthn-passwordless-login/)
+* [chrome offline first app design explained](/articles/chrome-offline-first-app-design-explained/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
-## Related Articles
-
-- [Chrome Keyboard Shortcuts for Beginners](/articles/chrome-keyboard-shortcuts-for-beginners)
-- [Chrome Slow on Windows 10 Old Laptop Fix](/articles/chrome-slow-on-windows-10-old-laptop-fix)
-- [Chrome for Loom Screen Recording Tips](/articles/chrome-for-loom-screen-recording-tips)

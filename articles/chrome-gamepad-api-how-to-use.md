@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "chrome gamepad api how to use"
-description: "Learn how to use the Chrome Gamepad API to connect game controllers to................................................................................"
+description: "If you have ever searched for chrome gamepad api how to use, you probably want to play web games using a game controller instead of a keyboard and mouse. Chr..."
 date: "2026-03-09"
 last_modified_at: '2026-03-12'
 permalink: "chrome-gamepad-api-how-to-use"
@@ -70,6 +70,8 @@ Using the Gamepad API in Chrome is a great way to enjoy web games with a control
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Cookies Explained Simply](/articles/chrome-cookies-explained-simply/)
-* [Chrome for Photo Editing in Browser](/articles/chrome-for-photo-editing-in-browser/)
-* [Chrome for Outlook Web Best Settings](/articles/chrome-for-outlook-web-best-settings/)
+* [Chrome Extensions for Sales Prospecting](/articles/chrome-extensions-for-sales-prospecting/)
+* [Chrome Event Timing API Explained](/articles/chrome-event-timing-api-explained/)
+* [Chrome Extensions for Video Playback Speed Control](/articles/chrome-extensions-for-video-playback-speed-control/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

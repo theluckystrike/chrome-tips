@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chrome Omnibox Tricks You Should Know"
-description: "Learn powerful Chrome omnibox tricks to search faster, navigate quickly,.............................................................................."
+description: "If you have ever searched for chrome omnibox tricks you should know, you might be surprised to learn just how much power is hiding in that simple address bar..."
 date: "2026-03-10"
 last_modified_at: '2026-03-12'
 permalink: "chrome-omnibox-tricks-you-should-know"
@@ -74,14 +74,8 @@ You can open an incognito window quickly by pressing **Ctrl+Shift+N** on Windows
 The omnibox is one of the most powerful features in Chrome, yet most people only use it to type website addresses. These tricks can significantly speed up your browsing and make you more productive. Start with the ones that apply to your daily workflow and add more as you get comfortable. Once you start using these omnibox tricks regularly, you will wonder how you ever browsed without them.
 
 ## Related Articles
-* [Chrome Cache First vs Network First Strategy](/articles/chrome-cache-first-vs-network-first-strategy/)
-* [Chrome Extension Using Too Much Memory? Here's How to Find the Culprit](/articles/chrome-extension-using-too-much-memory-find/)
-* [Chrome Devtools Security Panel Explained](/articles/chrome-devtools-security-panel-explained/)
+* [How to Fix Chrome Downloads Stuck at 100 Percent](/articles/chrome-downloads-stuck-at-100-percent/)
+* [How to Enable Chrome Tab Preview on Hover](/articles/chrome-tab-preview-hover-how-to-enable/)
+* [How to Capture Network Logs in Chrome Using Net Export](/articles/chrome-net-export-capture-network-log/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
-
-## Related Articles
-
-- [Chrome Hidden Games Easter Eggs List](/articles/chrome-hidden-games-easter-eggs-list)
-- [Chrome Safe Search How to Lock](/articles/chrome-safe-search-how-to-lock)
-- [Chrome Password Not Autofilling Fix](/articles/chrome-password-not-autofilling-fix)

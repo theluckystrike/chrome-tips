@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chrome Microphone Permission for One Site How to Set"
-description: "Learn how to set microphone permission for a specific site in Chrome.................................................................................."
+description: "You want to use your microphone for a voice call or recording on one specific website in Chrome, but you are not sure how to give just that one site permissi..."
 date: "2026-03-09"
 last_modified_at: '2026-03-12'
 permalink: "chrome-microphone-permission-for-one-site-how-to-set"
@@ -74,6 +74,8 @@ If you use many tabs in Chrome and want to keep your browser running smoothly wh
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome DevTools Layers Panel 3D View](/articles/chrome-devtools-layers-panel-3d-view/)
-* [Chrome Extension for Auto Fill Forms Faster](/articles/chrome-extension-for-auto-fill-forms-faster/)
-* [Chrome for Web3 Browsing Extensions](/articles/chrome-for-web3-browsing-extensions/)
+* [Chrome for Figma Best Settings](/articles/chrome-for-figma-best-settings/)
+* [Chrome Extensions Update Frequency Explained](/articles/chrome-extensions-update-frequency-explained/)
+* [Chrome Lite Mode Discontinued What to Use Instead](/articles/chrome-lite-mode-discontinued-what-to-use-instead/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

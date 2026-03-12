@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chrome Fullscreen Mode Shortcut"
-description: "Learn the keyboard shortcuts to enter and exit fullscreen mode in Chrome.............................................................................."
+description: "If you are looking for the chrome fullscreen mode shortcut, you are probably trying to get rid of the toolbars and borders around your browser so you can foc..."
 date: "2025-03-14"
 last_modified_at: '2026-03-12'
 permalink: "chrome-fullscreen-mode-shortcut"
@@ -84,6 +84,8 @@ Now that you know the chrome fullscreen mode shortcut, go ahead and try it. Pres
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Notification API Guide](/articles/chrome-notification-api-guide/)
-* [Chrome Send Feedback to Google How to](/articles/chrome-send-feedback-to-google-how-to/)
-* [chrome right to left language support](/articles/chrome-right-to-left-language-support/)
+* [Chrome for Email Marketing Best Extensions](/articles/chrome-for-email-marketing-best-extensions/)
+* [Chrome About Blank Page What It Means](/articles/chrome-about-blank-page-what-it-means/)
+* [Chrome Pop Ups on Phone How to Block](/articles/chrome-pop-ups-on-phone-how-to-block/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

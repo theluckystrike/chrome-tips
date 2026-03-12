@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "chrome how to block specific website notifications"
-description: "Stop annoying alerts from specific sites in Chrome. Learn the simple.................................................................................."
+description: "Chrome how to block specific website notifications is something every Chrome user should know how to do. Those popup requests asking to "Allow notifications"..."
 date: "2026-03-09"
 last_modified_at: '2026-03-12'
 permalink: "chrome-how-to-block-specific-website-notifications"
+categories: 
+tags: 
+author: theluckystrike
 ---
 Chrome how to block specific website notifications is something every Chrome user should know how to do. Those popup requests asking to "Allow notifications" seem harmless enough when you first encounter them, but over time you might find yourself buried under alerts from dozens of websites you barely remember visiting. Maybe that news site you checked once is constantly interrupting your workday with breaking news you never asked for, or that online store you purchased from once keeps sending you deals you do not want. The good news is that Chrome gives you full control to block notifications from any website without turning off all alerts completely.
 
@@ -61,6 +64,8 @@ By following these steps and checking in on your settings regularly, you can enj
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Safe Search How to Lock](/articles/chrome-safe-search-how-to-lock/)
-* [Chrome Gap Property CSS Flexbox Grid](/articles/chrome-gap-property-css-flexbox-grid/)
-* [Chrome Sandbox Mode Explained Simply](/articles/chrome-sandbox-mode-explained-simply/)
+* [Chrome for Email Marketing Best Extensions](/articles/chrome-for-email-marketing-best-extensions/)
+* [Chrome for Removing YouTube Recommendations](/articles/chrome-for-removing-youtube-recommendations/)
+* [Chrome for Trello Power Ups in Browser](/articles/chrome-for-trello-power-ups-in-browser/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chrome Navigate to Next Search Result Shortcut"
-description: "Learn how to navigate through Google search results faster using keyboard............................................................................."
+description: "If you are searching for the chrome navigate to next search result shortcut, you probably find yourself clicking through search results manually and wish the..."
 date: "2026-03-09"
 last_modified_at: '2026-03-12'
 permalink: "chrome-navigate-to-next-search-result-shortcut"
@@ -56,6 +56,8 @@ You might also want to print out a cheat sheet of Chrome shortcuts and keep it n
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome vs Samsung Internet for Android](/articles/chrome-vs-samsung-internet-for-android/)
-* [Chrome Tab Discarding What It Means](/articles/chrome-tab-discarding-what-it-means/)
-* [Chrome Best Screenshot Extension 2026](/articles/chrome-best-screenshot-extension-2026/)
+* [Chrome Status Code 404 Not Found Explained](/articles/chrome-status-code-404-not-found-explained/)
+* [Chrome PDF Not Opening Fix](/articles/chrome-pdf-not-opening-fix/)
+* [Best Chrome Extensions for Working From Home](/articles/best-chrome-extensions-for-working-from-home/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

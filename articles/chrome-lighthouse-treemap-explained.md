@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chrome Lighthouse Treemap Explained"
-description: "Learn what the Chrome Lighthouse treemap shows, why it matters for your..............................................................................."
+description: "If you have ever run a Lighthouse audit in Chrome and wondered what that colorful treemap is telling you, you are not alone. The Chrome Lighthouse treemap ex..."
 date: "2026-01-15"
 last_modified_at: '2026-03-12'
 permalink: "chrome-lighthouse-treemap-explained"
@@ -70,6 +70,8 @@ Remember, website performance is not a one-time fix. As you add new content and 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome vs Edge 2026 Comparison](/articles/chrome-vs-edge-2026/)
-* [Chrome Activity Controls What They Track](/articles/chrome-activity-controls-what-they-track/)
-* [Chrome Task Manager How to Use](/articles/chrome-task-manager-how-to-use/)
+* [Chrome for Tor Browsing Is It Possible](/articles/chrome-for-tor-browsing-is-it-possible/)
+* [Chrome Startup Pages How to Set](/articles/chrome-startup-pages-how-to-set/)
+* [Chrome Scroll Not Smooth Fix](/articles/chrome-scroll-not-smooth-fix/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "chrome force dark mode on all websites"
-description: "Learn how to force dark mode on every website in Chrome. Easy methods................................................................................."
+description: "If you have ever searched for chrome force dark mode on all websites, you probably know the frustration of visiting a bright white website late at night. Man..."
 date: "2026-03-09"
 last_modified_at: '2026-03-12'
 permalink: "chrome-force-dark-mode-on-all-websites"
@@ -80,6 +80,8 @@ Start by trying the Chrome Flags method first, since it requires no installation
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
 
 ## Related Articles
-* [Chrome Temporal API Date Time: A Complete Guide to Modern Date Handling](/articles/chrome-temporal-api-date-time/)
-* [Chrome Eating All My RAM? Reddit Users Share Their Solutions](/articles/chrome-eating-all-my-ram-reddit-solutions/)
-* [chrome sandbox mode explained](/articles/chrome-sandbox-mode-explained/)
+* [Chrome Extension Settings Sync Across Devices](/articles/chrome-extension-settings-sync-across-devices/)
+* [Chrome Safe Browsing Protection Levels Explained](/articles/chrome-safe-browsing-protection-levels-explained/)
+* [Chrome Extensions for Noise Canceling](/articles/chrome-extensions-for-noise-canceling/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

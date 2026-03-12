@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "Chrome Hidden Games Easter Eggs List"
-description: "Discover the hidden games and secret easter eggs buried in Chrome. Find..............................................................................."
+description: "Chrome hidden games easter eggs list is something that many users search for when they want to discover the fun surprises Google has tucked away inside their..."
 date: "2026-03-09"
 last_modified_at: '2026-03-12'
 permalink: "chrome-hidden-games-easter-eggs-list"
+categories: 
+tags: 
+author: theluckystrike
 ---
 Chrome hidden games easter eggs list is something that many users search for when they want to discover the fun surprises Google has tucked away inside their browser. Chrome is not just a way to browse the internet, it also contains several hidden games and playful features that the developers added for users to discover. These easter eggs have become a beloved part of the Chrome experience, and knowing about them can make your browsing time a little more enjoyable.
 
@@ -55,6 +58,8 @@ Combining the fun of discovering hidden easter eggs with good browser maintenanc
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Bookmarks Not Syncing Fix](/articles/chrome-bookmarks-not-syncing-fix/)
-* [Chrome Minimum Font Size Setting Where to Find It](/articles//chrome-minimum-font-size-setting-where//)
-* [Chrome Largest Contentful Paint Explained](/articles/chrome-largest-contentful-paint-explained/)
+* [Chrome Tabs Flickering and Glitching Fix](/articles/chrome-tabs-flickering-and-glitching/)
+* [Chrome Screen Magnifier How to Use](/articles/chrome-screen-magnifier-how-to-use/)
+* [chrome force dark mode on all websites](/articles/chrome-force-dark-mode-on-all-websites/)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

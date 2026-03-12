@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Chrome for Pomodoro Timer Extensions
-description: Discover the best Chrome for pomodoro timer extensions to enhance focus,
-  manage work sessions, and improve productivity with browser-based time tracking.
+description: Discover the best Chrome for pomodoro timer extensions to enhance focus, manage work sessions, and improve productivity with browser-based time tracking
 date: 2026-03-10
 categories:
 - productivity
@@ -15,7 +14,7 @@ tags:
 - time-management
 - focus
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-pomodoro-timer-extensions
 ---
 # Chrome for Pomodoro Timer Extensions

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome for StayFocusd Extension Guide
-description: Learn how to use StayFocusd extension in Chrome to block distracting
-  websites and boost your productivity. Discover more tips and tricks to optimize
-  your bro...
+description: Learn how to use StayFocusd extension in Chrome to block distracting websites and boost your productivity. Discover more tips and tricks to optimize your bro
 date: 2026-03-10
 categories:
 - productivity
@@ -14,7 +12,7 @@ tags:
 - focus
 - distraction-blocking
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-stayfocusd-extension-guide
 ---
 # Chrome for StayFocusd Extension Guide

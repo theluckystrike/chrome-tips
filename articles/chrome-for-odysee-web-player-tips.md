@@ -1,9 +1,7 @@
 ---
 layout: post
 title: chrome for odysee web player tips
-description: Get the most out of Odysee video playback in Chrome with these practical
-  tips for smoother streaming and better performance. Discover more tips and tricks
-  to...
+description: Get the most out of Odysee video playback in Chrome with these practical tips for smoother streaming and better performance. Discover more tips and tricks to
 date: 2025-01-15
 categories:
 - browsers
@@ -15,7 +13,7 @@ tags:
 - video-player
 - streaming
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-odysee-web-player-tips
 ---
 # Chrome for Odysee Web Player Tips

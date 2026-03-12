@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome for Roam Research Web Tips
-description: Discover Chrome tips for Roam Research users to enhance web research,
-  organize tabs, and boost productivity while browsing. Discover more tips and tricks
-  to ...
+description: 'Discover Chrome tips for Roam Research users to enhance web research, organize tabs, and boost productivity while browsing. Discover more tips and tricks to '
 date: 2026-01-15
 categories:
 - productivity
@@ -14,7 +12,7 @@ tags:
 - research-tools
 - productivity-tools
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-roam-research-web-tips
 ---
 # Chrome for Roam Research Web Tips

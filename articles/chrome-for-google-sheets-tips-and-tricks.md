@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Chrome for Google Sheets Tips and Tricks
-description: Learn how to get more out of Google Sheets in Chrome with practical tips
-  for faster workflows and better productivity. Discover more tips and tricks to optim...
+description: Learn how to get more out of Google Sheets in Chrome with practical tips for faster workflows and better productivity. Discover more tips and tricks to optim
 date: 2026-01-15
 categories:
 - google-sheets
@@ -14,7 +13,7 @@ tags:
 - spreadsheet-tips
 - productivity-hacks
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-google-sheets-tips-and-tricks
 ---
 # Chrome for Google Sheets Tips and Tricks

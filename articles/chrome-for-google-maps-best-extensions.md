@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Chrome for Google Maps Best Extensions
-description: Explore the best Chrome extensions for Google Maps that enhance navigation,
-  save locations, and improve your mapping experience. Discover more tips and trick...
+description: Explore the best Chrome extensions for Google Maps that enhance navigation, save locations, and improve your mapping experience. Discover more tips and trick
 date: 2026-03-10
 categories:
 - extensions
@@ -14,7 +13,7 @@ tags:
 - navigation
 - travel
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-google-maps-best-extensions
 ---
 # Chrome for Google Maps Best Extensions

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome for Text to Speech on Any Page
-description: Learn how to use Chrome for text to speech on any page with extensions
-  and built-in tools that read content aloud. Discover more tips and tricks to optimize
-  ...
+description: 'Learn how to use Chrome for text to speech on any page with extensions and built-in tools that read content aloud. Discover more tips and tricks to optimize '
 date: 2026-03-10
 categories:
 - accessibility
@@ -15,7 +13,7 @@ tags:
 - read-aloud
 - extensions
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-text-to-speech-on-any-page
 ---
 # Chrome for Text to Speech on Any Page

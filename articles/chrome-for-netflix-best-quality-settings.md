@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome for Netflix Best Quality Settings
-description: Learn how to get the best quality settings in Chrome for Netflix streaming.
-  Optimize your viewing experience with these simple tips. Discover more tips and
-  t...
+description: Learn how to get the best quality settings in Chrome for Netflix streaming. Optimize your viewing experience with these simple tips. Discover more tips and t
 date: 2026-03-10
 categories:
 - entertainment
@@ -14,7 +12,7 @@ tags:
 - streaming
 - video-quality
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-netflix-best-quality-settings
 ---
 # Chrome for Netflix Best Quality Settings

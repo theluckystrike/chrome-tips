@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome for HBO Max Streaming Issues
-description: Having trouble streaming HBO Max in Chrome? Here are practical fixes
-  for buffering, playback errors, and performance problems. Discover more tips and
-  tricks ...
+description: 'Having trouble streaming HBO Max in Chrome? Here are practical fixes for buffering, playback errors, and performance problems. Discover more tips and tricks '
 date: 2026-01-15
 categories:
 - streaming
@@ -14,7 +12,7 @@ tags:
 - streaming
 - video-playback
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-hbo-max-streaming-issues
 ---
 # Chrome for HBO Max Streaming Issues

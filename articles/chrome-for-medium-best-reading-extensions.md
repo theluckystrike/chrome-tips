@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Chrome for Medium Best Reading Extensions
-description: Discover the best Chrome extensions for reading Medium articles comfortably,
-  reducing eye strain and improving your reading experience. Discover more tips an...
+description: Discover the best Chrome extensions for reading Medium articles comfortably, reducing eye strain and improving your reading experience. Discover more tips an
 date: 2026-03-10
 categories:
 - productivity
@@ -13,7 +12,7 @@ tags:
 - reading
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-medium-best-reading-extensions
 ---
 If you are looking for chrome for medium best reading extensions, you probably spend a lot of time reading articles on Medium and want to make that experience more comfortable. Medium has become one of the most popular platforms for long-form content, but reading for extended periods on any screen can strain your eyes, distract you with clutter, or make it hard to focus on what matters.

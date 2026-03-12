@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome for Obsidian Web Clipper Setup
-description: Learn how to set up Chrome for Obsidian Web Clipper to save articles
-  and notes directly to your knowledge base. Discover more tips and tricks to optimize
-  you...
+description: Learn how to set up Chrome for Obsidian Web Clipper to save articles and notes directly to your knowledge base. Discover more tips and tricks to optimize you
 date: 2026-01-15
 categories:
 - productivity
@@ -15,7 +13,7 @@ tags:
 - web-clipper
 - note-taking
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-obsidian-web-clipper-setup
 ---
 # Chrome for Obsidian Web Clipper Setup

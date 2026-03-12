@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Chrome for LinkedIn Best Extensions
-description: Discover the best Chrome extensions for LinkedIn to boost productivity,
-  manage connections, and streamline your professional networking workflow. Discover
-  mo...
+description: Discover the best Chrome extensions for LinkedIn to boost productivity, manage connections, and streamline your professional networking workflow. Discover mo
 date: 2026-03-10
 categories:
 - productivity
@@ -13,7 +11,7 @@ tags:
 - linkedin
 - networking
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-linkedin-best-extensions
 ---
 # Chrome for LinkedIn Best Extensions

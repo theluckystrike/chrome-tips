@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "chrome shared array buffer usage"
-description: "Learn how to use SharedArrayBuffer in Chrome for high-performance web applications, including setup requirements, practical examples, and common use cases for multithreaded JavaScript."
+title: Chrome Shared Array Buffer Usage
+description: Learn how to use SharedArrayBuffer in Chrome for high-performance web
+  applications, including setup requirements, practical examples, and common use cases
+  fo...
 date: 2026-01-24
-categories: [chrome, development, web-apis]
-tags: [sharedarraybuffer, javascript, web-workers, performance]
+categories:
+- chrome
+- development
+- web-apis
+tags:
+- sharedarraybuffer
+- javascript
+- web-workers
+- performance
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-shared-array-buffer-usage
 ---
-
 # Chrome Shared Array Buffer Usage
 
 SharedArrayBuffer is a powerful JavaScript feature that enables true multithreading in web applications. Unlike regular arrays, SharedArrayBuffer allows multiple threads to access the same memory location simultaneously, making it ideal for high-performance computing tasks in the browser. In this guide, we will explore how to use SharedArrayBuffer in Chrome, its requirements, and practical applications.

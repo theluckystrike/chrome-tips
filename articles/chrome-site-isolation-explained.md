@@ -1,13 +1,24 @@
 ---
 layout: post
-title: "Chrome Site Isolation Explained"
-description: "Learn how Chrome Site Isolation works, its role in Spectre protection, and the memory trade-offs involved in this critical browser security feature."
+title: Chrome Site Isolation Explained
+description: Learn how Chrome Site Isolation works, its role in Spectre protection,
+  and the memory trade-offs involved in this critical browser security feature. Learn
+  ho...
 date: 2026-01-20
-categories: [security, chrome, performance]
-tags: [site-isolation, chrome-security, spectre, browser-memory, process-isolation]
+categories:
+- security
+- chrome
+- performance
+tags:
+- site-isolation
+- chrome-security
+- spectre
+- browser-memory
+- process-isolation
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-site-isolation-explained
 ---
-
 # Chrome Site Isolation Explained
 
 If you use Google Chrome as your primary browser, you have likely benefited from a security feature called Site Isolation without even knowing it. This technology, developed by Google in response to serious security vulnerabilities, fundamentally changes how Chrome handles web pages and protects your data. Understanding Site Isolation helps you appreciate the security measures built into your browser and make informed decisions about your browsing habits and extensions.

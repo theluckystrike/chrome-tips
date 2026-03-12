@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Chrome Web NFC API Guide"
-description: "Learn how to use the Chrome Web NFC API for reading and writing NFC tags Read more to optimize your experience. Discover essential tips for 2026."
+description: "Learn how to use the Chrome Web NFC API for reading and writing NFC tags Read more to optimize your experience. Discover essential tips for 2026. Read more to o"
 date: 2026-01-15
 last_modified_at: 2026-03-11
 permalink: chrome-web-nfc-api-guide
@@ -9,6 +9,7 @@ categories:
 tags: 
 author: theluckystrike
 ---
+
 
 
 # Chrome Web NFC API Guide

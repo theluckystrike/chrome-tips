@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome for Reducing Eye Strain Extensions"
-description: "Discover Chrome extensions that help reduce eye strain. Learn about blue light filters, dark mode tools, and more ways to protect your eyes."
+description: "Discover Chrome extensions that help reduce eye strain. Learn about blue light filters, dark mode tools, and more ways to protect your eyes. Check out our co..."
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-for-reducing-eye-strain-extensions
 categories: [productivity, extensions]
 tags: [chrome-extensions, eye-strain, productivity, health]
 author: theluckystrike
 ---
-
 # Chrome for Reducing Eye Strain Extensions
 
 Chrome for reducing eye strain extensions has become an essential search for anyone who spends hours in front of a computer screen. Whether you work a full-time desk job, study online, or simply browse the web in the evenings, your eyes can suffer from the constant exposure to blue light and bright screens. The good news is that Chrome offers a variety of extensions designed specifically to help reduce eye strain and make your browsing experience more comfortable.

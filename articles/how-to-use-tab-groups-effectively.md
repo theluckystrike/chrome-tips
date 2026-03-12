@@ -12,6 +12,7 @@ target_keyword: "how to use tab groups effectively chrome"
 target_extension: "tab-suspender-pro"
 word_count: 1087
 reading_time: 5
+canonical_url: https://theluckystrike.github.io/chrome-tips/how-to-use-tab-groups-effectively/
 ---
 
 Learning how to use tab groups effectively chrome starts with creating organized clusters of related tabs and combining them with automatic suspension to prevent memory overload. This approach can reduce your browser's memory consumption by up to 95% while keeping your workflow organized across dozens of active projects.

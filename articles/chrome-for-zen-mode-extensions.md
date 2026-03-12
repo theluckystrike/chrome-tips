@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "Chrome for Zen Mode Extensions"
-description: "Discover Chrome extensions that help create a calm, distraction-free browsing experience for focused work and relaxation."
+title: Chrome for Zen Mode Extensions
+description: Discover Chrome extensions that help create a calm, distraction-free
+  browsing experience for focused work and relaxation. Learn how to optimize your
+  browser ...
 date: 2026-03-09
-categories: [productivity, zen, focus]
-tags: [chrome-extensions, zen-mode, distraction-free, mindfulness]
+categories:
+- productivity
+- zen
+- focus
+tags:
+- chrome-extensions
+- zen-mode
+- distraction-free
+- mindfulness
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-for-zen-mode-extensions
 ---
-
 # Chrome for Zen Mode Extensions
 
 If you are searching for chrome for zen mode extensions, you likely want to transform your browser into a peaceful workspace that supports calm, focused work. Many people feel overwhelmed by the constant noise, notifications, and visual clutter that comes with modern web browsing. The good news is that the right extensions can help you create a more serene digital environment.

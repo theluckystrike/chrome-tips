@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome Freezes When Opening New Tab Fix"
-description: "Is Chrome freezing when you open a new tab? Learn the common causes and easy fixes to get your browser working smoothly again."
+title: Chrome Freezes When Opening New Tab Fix
+description: Is Chrome freezing when you open a new tab? Learn the common causes and
+  easy fixes to get your browser working smoothly again. Learn how to optimize your
+  bro...
 date: 2026-01-15
-categories: [troubleshooting, performance]
-tags: [chrome-freezes, new-tab-freeze, browser-freeze, chrome-fix]
+categories:
+- troubleshooting
+- performance
+tags:
+- chrome-freezes
+- new-tab-freeze
+- browser-freeze
+- chrome-fix
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-freezes-when-opening-new-tab-fix
 ---
-
 # Chrome Freezes When Opening New Tab Fix
 
 You click the plus button to open a new tab in Chrome, and everything comes to a standstill. The browser freezes, the spinner spins endlessly, and you wait precious seconds before anything happens. If Chrome freezes when opening new tab, it does not have to be this way. This is a surprisingly common problem with several straightforward solutions.

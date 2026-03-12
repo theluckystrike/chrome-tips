@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome google docs keyboard shortcuts"
-description: "Master chrome google docs keyboard shortcuts to speed up your workflow. Learn essential shortcuts for formatting, editing, and navigation in this guide."
+title: Chrome Google Docs Keyboard Shortcuts
+description: Master chrome google docs keyboard shortcuts to speed up your workflow.
+  Learn essential shortcuts for formatting, editing, and navigation in this guide.
 date: 2026-03-09
-categories: [features, productivity]
-tags: [keyboard-shortcuts, google-docs, productivity, chrome-tips]
+categories:
+- features
+- productivity
+tags:
+- keyboard-shortcuts
+- google-docs
+- productivity
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-google-docs-keyboard-shortcuts
 ---
-
 # Chrome Google Docs Keyboard Shortcuts
 
 If you are searching for chrome google docs keyboard shortcuts, you have found the right guide. Many Chrome users rely on Google Docs for writing, collaboration, and document creation, but they do not realize how much time they are losing by doing everything with mouse clicks and menus. Learning keyboard shortcuts for Google Docs in Chrome can dramatically speed up your writing, editing, and formatting work.

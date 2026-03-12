@@ -15,7 +15,7 @@ tags:
 - tablet-browser
 - touch-optimization
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-touchscreen-optimization-tips
 ---
 # Chrome for Touchscreen Optimization Tips

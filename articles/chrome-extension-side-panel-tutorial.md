@@ -184,4 +184,11 @@ Extensions like Tab Suspender Pro demonstrate how side panels can deliver signif
 
 Start experimenting with your own side panel extension today, and remember to test thoroughly before publishing to the Chrome Web Store.
 
+
+
+## Related Articles
+- [chrome side panel features you missed](/chrome-side-panel-features-you-missed)
+- [Chrome Side Panel Extensions Worth Using](/chrome-side-panel-extensions-worth-using)
+- [Chrome Side Panel Extensions Best Ones](/chrome-side-panel-extensions-best-ones)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

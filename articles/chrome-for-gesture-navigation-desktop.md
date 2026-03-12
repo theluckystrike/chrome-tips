@@ -63,3 +63,9 @@ As you become more comfortable with gesture navigation, you will likely find you
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Gesture Navigation on Android](/chrome-gesture-navigation-on-android)
+- [Chrome Gesture Navigation Complete Guide](/chrome-gesture-navigation)
+- [chrome desktop shortcuts how to create](/chrome-desktop-shortcuts-how-to-create)

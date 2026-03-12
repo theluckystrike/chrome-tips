@@ -79,3 +79,9 @@ The best approach to improving your Google Calendar experience is to start with 
 You do not need to install every extension you come across. In fact, having too many can create new problems. Start simple, see what makes a difference in your daily workflow, and add more only as needed. With the right chrome extensions for Google Calendar, you can build a system that works for you rather than against you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Offline Google Calendar](/chrome-offline-google-calendar)
+- [Chrome Extensions for Google Drive](/chrome-extensions-for-google-drive)
+- [Chrome Extensions for Google Forms](/chrome-extensions-for-google-forms)

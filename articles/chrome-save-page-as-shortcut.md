@@ -74,5 +74,12 @@ If you find yourself creating many **desktop shortcuts** because you're overwhel
 
 Instead of closing a site and relying on a **shortcut** to reopen it later, you can keep the tab open without it draining your **RAM**. This keeps your computer fast while ensuring your most important pages are always just a click away in your browser, rather than cluttering your **desktop icons**.
 
+
+
+## Related Articles
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+- [Chrome Scroll to Top of Page Shortcut](/chrome-scroll-to-top-of-page-shortcut)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

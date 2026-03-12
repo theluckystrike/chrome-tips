@@ -80,3 +80,9 @@ If you consistently run out of space, you might want to invest in more Google Dr
 Running out of storage on your Chromebook does not mean you need a new device. By regularly cleaning out your Downloads folder, clearing browser cache, removing unused apps and extensions, and managing offline files, you can keep your device running smoothly. Set a reminder to do a quick storage check once a month, and you will avoid those frustrating "storage full" messages in the future.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome pwa storage quota how much space](/chrome-pwa-storage-quota-how-much-space)
+- [Best Chromebook Extensions for Students](/best-chromebook-extensions-for-students)
+- [chromebook file manager tips and tricks](/chromebook-file-manager-tips-and-tricks)

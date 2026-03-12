@@ -72,3 +72,9 @@ You do not need to change every setting at once. Start with the easiest ones, li
 Streaming should be enjoyable, not frustrating. With a few tweaks to Chrome's settings, you can reduce buffering, improve video quality, and get back to enjoying your favorite content without interruptions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for Amazon Prime Video Quality Settings](/chrome-for-amazon-prime-video-quality-settings)
+- [Chrome Streaming Video Buffering Fix](/chrome-streaming-video-buffering-fix)
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)

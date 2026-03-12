@@ -76,3 +76,9 @@ Remember that these shortcuts work specifically within Google Maps when it is op
 With a little practice, you will find that using keyboard shortcuts makes your Google Maps experience faster, more efficient, and more enjoyable. Whether you are planning a quick errand or an elaborate vacation, these tools are here to help you get where you are going with minimal hassle.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)
+- [chrome google docs keyboard shortcuts](/chrome-google-docs-keyboard-shortcuts)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)

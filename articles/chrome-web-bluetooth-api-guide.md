@@ -155,4 +155,11 @@ Note that Web Bluetooth only supports BLE devices (not classic Bluetooth) and ca
 
 The Chrome Web Bluetooth API opens up tremendous possibilities for web developers to interact with the physical world. By prioritizing user security and handling errors gracefully, you can build robust Bluetooth-enabled applications directly in the browser.
 
+
+
+## Related Articles
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
+- [Chrome Web USB API Guide](/chrome-web-usb-api-guide)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

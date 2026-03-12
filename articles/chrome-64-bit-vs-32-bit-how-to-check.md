@@ -65,3 +65,9 @@ If your computer supports it (and 99% of modern machines do), running 64-bit Chr
 
 ---
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)
+- [Chrome Version How to Check Which Version](/chrome-version-how-to-check-which-version)
+- [Chrome Spell Check Wrong Language Fix](/chrome-spell-check-wrong-language-fix)

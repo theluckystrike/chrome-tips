@@ -72,3 +72,9 @@ Finding the right chrome for mdn web docs extension really comes down to underst
 Remember that extensions are meant to enhance your browsing experience, not complicate it. Take some time to try different options and see what feels natural for your workflow. With the right tools, your time spent on MDN Web Docs can become even more productive and enjoyable.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Web Vitals Extension How to Use](/chrome-web-vitals-extension-how-to-use)
+- [Chrome Extension Publish to Web Store Guide](/chrome-extension-publish-to-web-store-guide)
+- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)

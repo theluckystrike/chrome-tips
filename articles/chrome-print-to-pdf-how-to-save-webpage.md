@@ -97,4 +97,11 @@ Remember that PDFs keep your text searchable and selectable, making them more us
 
 ---
 
+
+
+## Related Articles
+- [Chrome PDF Settings Print to PDF How to](/chrome-pdf-settings-print-to-pdf-how-to)
+- [Chrome Print to PDF Without Margins](/chrome-print-to-pdf-without-margins)
+- [How to Save Webpages as MHTML Files in Chrome for Offline Viewing](/chrome-save-webpage-as-mhtml-offline)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

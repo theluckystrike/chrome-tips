@@ -159,4 +159,11 @@ For users who frequently download large files, keeping your browser organized ca
 
 With these solutions in hand, you should be able to get your files downloaded and moving again.
 
+
+
+## Related Articles
+- [Chrome Using 100 Percent CPU Fix Windows](/chrome-using-100-percent-cpu-fix-windows)
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+- [Chrome Downloads Folder How to Change](/chrome-downloads-folder-how-to-change)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

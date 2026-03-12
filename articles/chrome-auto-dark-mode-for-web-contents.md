@@ -69,3 +69,9 @@ If you only need dark mode occasionally and do not want to install an extension,
 You can also try manually enabling dark mode on individual websites that offer it. Many popular sites, including YouTube, Twitter, and Reddit, have dark mode options in their settings. If you use these sites frequently, enabling their built-in dark mode along with a browser extension for other sites can give you a consistent experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Mobile Dark Mode Force on All Sites](/chrome-mobile-dark-mode-force-on-all-sites)
+- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)

@@ -76,4 +76,11 @@ If freezing continues despite trying these solutions, your computer might have a
 
 ---
 
+
+
+## Related Articles
+- [Chrome Tab Discard What It Means](/chrome-tab-discard-what-it-means)
+- [Chrome Tab Discarding What It Means](/chrome-tab-discarding-what-it-means)
+- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

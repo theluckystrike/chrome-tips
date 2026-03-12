@@ -100,4 +100,11 @@ Tab Suspender Pro is one tool that can automatically suspend tabs you are not cu
 
 ---
 
+
+
+## Related Articles
+- [Chrome for Proxy Settings How to Configure](/chrome-for-proxy-settings-how-to-configure)
+- [Chrome Proxy Settings Guide](/chrome-proxy-settings-guide)
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

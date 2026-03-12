@@ -82,3 +82,9 @@ Try using web app versions first for tasks where they work well. Many popular se
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Web App vs Native App Battery Comparison](/chrome-web-app-vs-native-app-battery-comparison)
+- [Chrome Push Notifications Web Apps: Complete Guide](/chrome-push-notifications-web-apps)
+- [chrome web apps how to install](/chrome-web-apps-how-to-install)

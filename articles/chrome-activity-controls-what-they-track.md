@@ -78,4 +78,11 @@ Chrome activity controls what they track is an important question for anyone who
 
 Taking a few minutes to review your Activity Controls and adjust them to your comfort level is a worthwhile step. You do not have to stop using Chrome to enjoy better privacy. Small changes in how you use the browser and manage your account settings can make a meaningful difference.
 
+
+
+## Related Articles
+- [Chrome Do Not Track: Does It Actually Work](/chrome-do-not-track-does-it-actually-work)
+- [Chrome Web Vitals What They Mean](/chrome-web-vitals-what-they-mean)
+- [Chrome Parental Controls — How to Set Up for Your Kids](/chrome-parental-controls-how-to-set-up)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -77,3 +77,9 @@ For most users, the steps above will significantly reduce Chrome's memory usage 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
+- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)

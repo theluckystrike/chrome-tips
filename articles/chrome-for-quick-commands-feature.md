@@ -86,3 +86,9 @@ The chrome for quick commands feature is one of those things that is easy to ove
 Give it a try for a few days. Pick one or two commands that match what you actually do in your browser, practice them until they feel natural, and then expand from there. You might find that these small shortcuts make Chrome feel like a completely different browser, one that responds to what you want almost before you finish typing.
 
 ---
+
+
+## Related Articles
+- [Chrome Journeys Feature in History Explained](/chrome-journeys-feature-in-history-explained)
+- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)

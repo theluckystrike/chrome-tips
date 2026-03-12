@@ -138,4 +138,11 @@ Start with the method that matches your technical comfort level. If you want som
 
 Take a few minutes to set up your preferred method, and enjoy the freedom of a more focused browsing experience.
 
+
+
+## Related Articles
+- [How to Block Websites on Chrome](/how-to-block-websites-on-chrome)
+- [chrome how to block specific website notifications](/chrome-how-to-block-specific-website-notifications)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

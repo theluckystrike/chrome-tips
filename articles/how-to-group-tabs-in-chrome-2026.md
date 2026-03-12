@@ -14,4 +14,11 @@ date: '2026-03-12'
 
 
 
+
+
+## Related Articles
+- [Chrome Vertical Tabs Enable 2026](/chrome-vertical-tabs-enable-2026)
+- [How to Group Tabs by Color in Chrome: A Complete Guide](/chrome-group-tabs-by-color-organize)
+- [Best Chrome Extensions for Writers 2026](/best-chrome-extensions-for-writers-2026)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

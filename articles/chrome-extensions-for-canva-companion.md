@@ -80,4 +80,11 @@ Remember that not every extension will be useful for every workflow. Start with 
 
 ---
 
+
+
+## Related Articles
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+- [Chrome Extensions for Adobe Companion](/chrome-extensions-for-adobe-companion)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

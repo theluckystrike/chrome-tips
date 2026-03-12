@@ -64,3 +64,9 @@ If a specific website is causing memory problems, try refreshing the page occasi
 Another helpful step is to restart Chrome periodically. Over time, memory can become fragmented and efficiency decreases. A fresh start clears everything and typically provides better performance. If Chrome is using an unusually high amount of memory, the Memory Panel can help you identify whether the problem is a specific website, an extension, or just having too many tabs open.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
+- [Chrome Devtools Security Panel Explained](/chrome-devtools-security-panel-explained)

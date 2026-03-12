@@ -97,4 +97,11 @@ Open Chrome, go to Google Docs, and give voice typing a try. With a little pract
 
 ---
 
+
+
+## Related Articles
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)
+- [chrome offline google docs how to enable](/chrome-offline-google-docs-how-to-enable)
+- [chrome google docs keyboard shortcuts](/chrome-google-docs-keyboard-shortcuts)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

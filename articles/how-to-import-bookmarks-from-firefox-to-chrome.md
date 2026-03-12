@@ -75,3 +75,9 @@ Importing bookmarks from Firefox to Chrome does not have to be complicated. The 
 Whether you are making a permanent switch or just need access to your bookmarks in Chrome for a specific task, these steps should get you there quickly. Your saved links are valuable, and with just a few clicks, you can have them ready to use in your browser of choice.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Profile Import From Another Computer](/chrome-profile-import-from-another-computer)
+- [Why Are People Switching from Chrome to Firefox](/why-are-people-switching-from-chrome-to-firefox)
+- [Should I Switch from Chrome to Firefox for Speed?](/should-i-switch-from-chrome-to-firefox-for-speed)

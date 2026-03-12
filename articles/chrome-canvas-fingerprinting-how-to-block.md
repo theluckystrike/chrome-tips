@@ -78,3 +78,9 @@ Your online privacy is worth protecting, and you do not need to be a tech expert
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [chrome fingerprinting protection explained](/chrome-fingerprinting-protection-explained)
+- [Chrome Audio Fingerprinting What It Is](/chrome-audio-fingerprinting-what-it-is)
+- [How to Block Websites on Chrome](/how-to-block-websites-on-chrome)

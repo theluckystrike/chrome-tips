@@ -97,3 +97,9 @@ Performance matters, and now you have a powerful tool to understand and improve 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Navigation Timing API Explained](/chrome-navigation-timing-api-explained)
+- [Chrome User Timing API Explained](/chrome-user-timing-api-explained)
+- [Chrome Event Timing API Explained](/chrome-event-timing-api-explained)

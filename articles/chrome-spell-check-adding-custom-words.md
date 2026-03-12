@@ -90,3 +90,9 @@ Adding custom words to Chrome is one of those small tweaks that makes a big diff
 Take a moment to add those words that constantly get flagged. Your name, your workplace, your city, and any other terms you use regularly. Once they are in Chrome's dictionary, you will notice how much smoother typing becomes when you are not constantly ignoring false warnings.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Spell Check Wrong Language Fix](/chrome-spell-check-wrong-language-fix)
+- [Chrome Custom Search Engines Guide](/chrome-search-engines-custom)
+- [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)

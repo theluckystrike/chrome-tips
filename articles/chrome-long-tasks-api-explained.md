@@ -85,3 +85,9 @@ The Long Tasks API is part of a broader movement toward better web performance. 
 As more websites adopt these performance measurement tools, the overall quality of web browsing should continue to improve. You might not directly interact with the Long Tasks API, but it works behind the scenes to make your browsing experience better.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Badging API Explained](/chrome-badging-api-explained)

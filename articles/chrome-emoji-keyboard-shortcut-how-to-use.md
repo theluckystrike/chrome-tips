@@ -76,3 +76,9 @@ Remember that the Windows method involves pressing Windows and period, while Mac
 With these tools at your disposal, adding personality and expression to your online communication is only a few keystrokes away.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Switching Profiles Keyboard Shortcut](/chrome-switching-profiles-keyboard-shortcut)
+- [Chrome for Keyboard Shortcut Customization](/chrome-for-keyboard-shortcut-customization)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)

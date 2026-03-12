@@ -90,4 +90,11 @@ For now, learning to navigate Chrome by speaking is a valuable skill that makes 
 
 Once you master these tools, you will find that your hands are free for other tasks while still maintaining full control over your browser. This is especially useful in our increasingly multi-tasking world where being able to browse hands-free can save time and reduce frustration.
 
+
+
+## Related Articles
+- [Chrome Voice Control How to Use](/chrome-voice-control-how-to-use)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

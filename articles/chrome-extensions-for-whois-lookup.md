@@ -76,3 +76,9 @@ For the most complete picture of a website, consider combining whois lookups wit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for IP Address Lookup](/chrome-extensions-for-ip-address-lookup)
+- [Chrome Extensions for DNS Lookup](/chrome-extensions-for-dns-lookup)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

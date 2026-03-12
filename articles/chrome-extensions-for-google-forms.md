@@ -55,3 +55,9 @@ The right combination of extensions can genuinely improve your Google Forms expe
 Take some time to think about where you are spending the most effort. Is it finding the right form? Waiting for your browser to respond? Manually formatting each new form? Identifying your biggest frustration will help you choose the extension that will make the most difference.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)
+- [Chrome Extensions for Google Drive](/chrome-extensions-for-google-drive)
+- [Chrome Extensions for Google Slides](/chrome-extensions-for-google-slides)

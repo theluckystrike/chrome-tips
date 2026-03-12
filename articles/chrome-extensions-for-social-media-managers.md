@@ -81,4 +81,11 @@ Be selective about how many extensions you install. Each extension adds to Chrom
 
 Remember that your browser is your primary workspace as a social media manager. Keeping it organized, fast, and equipped with the right tools directly impacts your ability to deliver great results for your clients or brand.
 
+
+
+## Related Articles
+- [Chrome Extensions for Social Media Scheduling](/chrome-extensions-for-social-media-scheduling)
+- [Chrome for Social Media Management Extensions](/chrome-for-social-media-management-extensions)
+- [Chrome Extensions for Social Media Scheduler](/chrome-extensions-for-social-media-scheduler)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

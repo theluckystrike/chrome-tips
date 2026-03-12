@@ -80,4 +80,11 @@ If you use many extensions, tracing can reveal which ones are consuming resource
 
 ---
 
+
+
+## Related Articles
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome for HBO Max Streaming Issues](/chrome-for-hbo-max-streaming-issues)
+- [How to Improve Chrome WebGL Performance](/chrome-webgl-performance-how-to-improve)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

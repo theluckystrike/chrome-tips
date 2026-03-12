@@ -95,3 +95,9 @@ Take a moment to check your Chrome settings today. Making sure Safe Browsing is 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [chrome fingerprinting protection explained](/chrome-fingerprinting-protection-explained)
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
+- [Chrome Enhanced Safe Browsing Guide](/chrome-enhanced-safe-browsing)

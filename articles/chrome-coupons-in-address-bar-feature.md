@@ -83,3 +83,9 @@ Additionally, coupon codes found through browser extensions may not always be th
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)

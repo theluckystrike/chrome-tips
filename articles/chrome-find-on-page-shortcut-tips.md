@@ -77,3 +77,9 @@ Chrome find on page shortcut tips are about making your browsing faster and more
 Give these tips a try next time you need to find something on the web. You will be surprised how much smoother and faster your browsing becomes.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Scroll to Top of Page Shortcut](/chrome-scroll-to-top-of-page-shortcut)
+- [chrome bookmark current page shortcut](/chrome-bookmark-current-page-shortcut)

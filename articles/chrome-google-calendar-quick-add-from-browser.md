@@ -68,3 +68,9 @@ For recurring events, you can type "every Monday" or "weekly" and Calendar will 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Offline Google Calendar](/chrome-offline-google-calendar)
+- [Chrome for Google Analytics in Browser](/chrome-for-google-analytics-in-browser)
+- [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)

@@ -72,4 +72,11 @@ You should also pay attention to whether an extension continues to work properly
 
 ---
 
+
+
+## Related Articles
+- [chrome for kayak price alerts extension](/chrome-for-kayak-price-alerts-extension)
+- [Chrome Extensions for Flight Price Alerts](/chrome-extensions-for-flight-price-alerts)
+- [chrome for price drop alert extensions](/chrome-for-price-drop-alert-extensions)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

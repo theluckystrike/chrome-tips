@@ -129,4 +129,11 @@ Remember, Chrome's tab suspension is trying to help you, but it doesn't always k
 
 ---
 
+
+
+## Related Articles
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)
+- [How to Stop Chrome from Tracking Me](/how-to-stop-chrome-from-tracking-me)
+- [How to See Chrome Tabs From Other Devices](/chrome-tabs-from-other-devices-how-to-see)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

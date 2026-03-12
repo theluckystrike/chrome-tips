@@ -82,3 +82,9 @@ If you find that Chrome becomes slow or resource-heavy with all the Family Link 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Family Link How to Use on Desktop](/chrome-family-link-how-to-use-on-desktop)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)

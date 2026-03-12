@@ -79,3 +79,9 @@ Finally, take a few minutes each day to review and update your task list. Integr
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
+- [Chrome Google Keep Integration Tips](/chrome-google-keep-integration-tips)
+- [Chrome Google Drive Integration Tips](/chrome-google-drive-integration-tips)

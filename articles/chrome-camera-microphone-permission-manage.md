@@ -84,4 +84,11 @@ If you often have many tabs open and worry about performance or accidental camer
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*
+
+## Related Articles
+- [Chrome Camera Access on Phone How to Manage](/chrome-camera-access-on-phone-how-to-manage)
+- [chrome geolocation permission manage](/chrome-geolocation-permission-manage)
+- [Chrome Camera Permission for One Site How to Set](/chrome-camera-permission-for-one-site-how-to-set)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

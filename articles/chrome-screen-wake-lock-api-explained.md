@@ -53,5 +53,12 @@ If you want more control over which sites can keep your screen awake, you have s
 
 For users who want more comprehensive control, **Tab Suspender Pro** is an excellent companion. While it primarily manages **RAM usage**, it can also "hibernate" background tabs that are holding active **Screen Wake Locks**. This ensures that a random tab you forgot about doesn't keep your laptop screen on all night, draining your **battery**. It’s a great way to balance the convenience of the **Wake Lock API** with the need for **power efficiency**.
 
+
+
+## Related Articles
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Badging API Explained](/chrome-badging-api-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

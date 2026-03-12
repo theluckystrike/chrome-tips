@@ -89,3 +89,9 @@ Take some time to experiment with different setups, pay attention to what works 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [chrome google lens integration how to use](/chrome-google-lens-integration-how-to-use)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+- [Chrome Picture in Picture How to Use](/chrome-picture-in-picture-how-to-use)

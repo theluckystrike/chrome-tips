@@ -56,3 +56,9 @@ Everyone reads and processes information differently, so the best combination of
 The key is to start with one or two extensions that address your biggest frustration with reading Arxiv papers, see how they work for you, and then add more tools only if needed. This approach prevents overwhelm and helps you build a setup that truly enhances your research reading experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Reading Mode vs Reader View Extensions](/chrome-reading-mode-vs-reader-view-extensions)
+- [Chrome for Academic Paper Reading Extensions](/chrome-for-academic-paper-reading-extensions)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

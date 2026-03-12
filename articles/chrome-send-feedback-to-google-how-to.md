@@ -78,3 +78,9 @@ You can check for updates by going to the Chrome menu, clicking on "Help", and s
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
+- [Chrome Offline Google Calendar](/chrome-offline-google-calendar)

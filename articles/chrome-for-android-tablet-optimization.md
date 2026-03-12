@@ -75,3 +75,9 @@ Tablet optimization is not a one-time fix. Every few weeks, take a moment to clo
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)

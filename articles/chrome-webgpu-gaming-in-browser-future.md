@@ -73,4 +73,11 @@ Chrome WebGPU represents a pivotal moment in browser technology. What was once a
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*
+
+## Related Articles
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

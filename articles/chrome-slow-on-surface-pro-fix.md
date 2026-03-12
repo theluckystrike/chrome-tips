@@ -71,3 +71,9 @@ Dealing with chrome slow on surface pro issues does not have to be frustrating. 
 Remember that small changes can add up to big improvements. Try one or two of these solutions at a time to see what works best for your specific situation, and enjoy a faster, more responsive browsing experience on your Surface Pro.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)

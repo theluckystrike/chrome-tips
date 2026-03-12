@@ -81,3 +81,9 @@ Finally, regularly review the extensions you have installed and remove any that 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Great Suspender Removed From Chrome Store: Replacement Options](/great-suspender-removed-from-chrome-store-replacement)
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [Chrome Third Party Cookies What Happens When Blocked](/chrome-third-party-cookies-what-happens-when-blocked)

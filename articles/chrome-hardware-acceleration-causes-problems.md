@@ -94,4 +94,11 @@ Chrome hardware acceleration causes problems on many older and budget computers.
 
 These changes take just a few minutes to implement and can transform your browsing experience from frustrating to functional. Give them a try and see the difference for yourself.
 
+
+
+## Related Articles
+- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
+- [Chrome GPU Acceleration Causing Problems Fix](/chrome-gpu-acceleration-causing-problems-fix)
+- [Chrome Hardware Acceleration Should I Turn On or Off](/chrome-hardware-acceleration-should-i-turn-on-or-off)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

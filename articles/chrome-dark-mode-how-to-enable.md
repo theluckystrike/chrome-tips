@@ -100,3 +100,9 @@ Give dark mode a try, especially during evening hours. You might find that it ma
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Android Dark Mode How to Enable](/chrome-android-dark-mode-how-to-enable)
+- [Chrome Dark Mode on Phone How to Enable](/chrome-dark-mode-on-phone-how-to-enable)
+- [Chrome Mobile Dark Mode Force on All Sites](/chrome-mobile-dark-mode-force-on-all-sites)

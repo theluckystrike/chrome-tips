@@ -77,4 +77,11 @@ A Chrome extension for QR code generator can be a valuable tool whether you need
 
 When choosing an extension, focus on ease of use, reliability, and the specific features you need. Test your QR codes before distributing them, and keep customization reasonable to ensure scannability. With the right extension and a bit of attention to design, you can create QR codes that work well across all scanning devices.
 
+
+
+## Related Articles
+- [Chrome QR Code Generator Extension](/chrome-qr-code-generator-extension)
+- [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/chrome-blackbox-script-skip-library-code-debug)
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

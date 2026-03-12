@@ -78,3 +78,9 @@ Using a tool like Tab Suspender Pro can help you maintain these habits automatic
 By paying attention to how you use your browser and making a few intentional adjustments, you can get the most out of Salesforce without dealing with frustration from slow performance.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for Duolingo Web App Optimization](/chrome-for-duolingo-web-app-optimization)
+- [Chrome for Coursera Web App Optimization](/chrome-for-coursera-web-app-optimization)
+- [Chrome for Descript Web App Optimization](/chrome-for-descript-web-app-optimization)

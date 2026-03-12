@@ -89,3 +89,9 @@ Give it a try on your next email or document. You might find that speaking your 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)

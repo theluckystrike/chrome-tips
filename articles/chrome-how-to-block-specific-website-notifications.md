@@ -62,3 +62,9 @@ When a website asks for notification permission, take a quick moment to decide w
 By following these steps and checking in on your settings regularly, you can enjoy the useful notifications while keeping the annoying ones at bay. Your browser should work for you, not against you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Block Specific Websites Guide](/chrome-block-specific-websites-guide)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)

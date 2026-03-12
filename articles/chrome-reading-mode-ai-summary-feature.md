@@ -86,4 +86,11 @@ For now, the AI summary feature in Chrome's Reading Mode is a valuable tool that
 
 ---
 
+
+
+## Related Articles
+- [Chrome Reading Mode Hidden Feature](/chrome-reading-mode-hidden-feature)
+- [chrome for distraction free reading mode](/chrome-for-distraction-free-reading-mode)
+- [Chrome Extension for Reading Mode Distraction Free](/chrome-extension-for-reading-mode-distraction-free)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

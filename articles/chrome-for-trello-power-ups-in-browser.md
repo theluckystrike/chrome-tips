@@ -70,3 +70,9 @@ Finally, remember that extensions are just one part of an effective Trello setup
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [how to make chrome default browser mac](/how-to-make-chrome-default-browser-mac)

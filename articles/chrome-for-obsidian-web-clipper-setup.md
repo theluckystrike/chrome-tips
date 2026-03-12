@@ -90,3 +90,9 @@ The key to getting the most from this setup is to be intentional about what you 
 With a little practice, this workflow becomes second nature. You will find yourself building a valuable collection of knowledge that you can reference and learn from for years to come.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome for onenote web clipper setup](/chrome-for-onenote-web-clipper-setup)
+- [Chrome for Notion Web Clipper Setup](/chrome-for-notion-web-clipper-setup)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)

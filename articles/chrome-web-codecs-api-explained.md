@@ -72,3 +72,9 @@ You can also check the Chrome version you are using and compare it with the mini
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
+- [chrome web serial api explained](/chrome-web-serial-api-explained)
+- [Chrome Web OTP API Explained](/chrome-web-otp-api-explained)

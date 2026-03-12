@@ -81,3 +81,9 @@ If browser slowness slows you down, start with Tab Suspender Pro. If organizatio
 Once you find the right combination of extensions, you will notice improvements in both your browser performance and your overall reading efficiency. Small enhancements to your daily workflow accumulate over time, helping you become a more effective and efficient academic reader.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for Ebook Reading Best Extensions](/chrome-for-ebook-reading-best-extensions)
+- [Chrome Extensions for Speed Reading](/chrome-extensions-for-speed-reading)
+- [Chrome Reading Mode vs Reader View Extensions](/chrome-reading-mode-vs-reader-view-extensions)

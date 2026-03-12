@@ -88,3 +88,9 @@ Now that chrome lighthouse performance score explained simply is clear to you, y
 Improving a performance score does not always require expensive tools or expert help. Many improvements are simple changes that make a big difference. Start with the biggest problems first, test your changes, and celebrate each improvement along the way.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Sandbox Mode Explained Simply](/chrome-sandbox-mode-explained-simply)
+- [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)
+- [Chrome Certificate Transparency Explained Simply](/chrome-certificate-transparency-explained-simply)

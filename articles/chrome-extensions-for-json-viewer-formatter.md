@@ -77,3 +77,9 @@ Take some time to try a few different extensions and see which interface works b
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome extensions for json viewer](/chrome-extensions-for-json-viewer)
+- [Chrome Extensions for HTTP Header Viewer](/chrome-extensions-for-http-header-viewer)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

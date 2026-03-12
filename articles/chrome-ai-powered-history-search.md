@@ -76,4 +76,11 @@ In the meantime, the extensions and approaches described here give you powerful 
 
 The key is understanding that standard Chrome search has limits. By recognizing this problem and seeking solutions, you gain back time that would otherwise be lost to fruitless searching.
 
+
+
+## Related Articles
+- [Chrome AI Powered Search Suggestions](/chrome-ai-powered-search-suggestions)
+- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

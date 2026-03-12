@@ -69,3 +69,9 @@ For even better performance, consider pairing regular cache clearing with Tab Su
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.*
+
+
+## Related Articles
+- [How Often Should I Clear Chrome Cache](/how-often-should-i-clear-chrome-cache)
+- [Chrome How to Clear DNS Cache](/chrome-how-to-clear-dns-cache)
+- [How to Use Chrome Net Internals to Clear DNS Cache](/chrome-net-internals-dns-clear-cache)

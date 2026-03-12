@@ -78,4 +78,11 @@ It is also a good idea to occasionally clear your cache and cookies, even when y
 
 Finally, make sure your computer has adequate free storage space and your operating system is updated. Sometimes underlying system issues can manifest as browser problems.
 
+
+
+## Related Articles
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+- [How to Fix Chrome Search Bar Not Working](/chrome-search-bar-not-working-fix)
+- [Chrome Address Bar Not Showing Full URL Fix](/chrome-address-bar-not-showing-full-url-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

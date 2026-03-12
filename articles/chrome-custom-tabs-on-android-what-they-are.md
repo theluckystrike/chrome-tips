@@ -73,3 +73,9 @@ As an Android user, you encounter this feature dozens of times per day without e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Super Cookies: What Are They](/chrome-super-cookies-what-are-they)
+- [Chrome Origin Trials What They Are](/chrome-origin-trials-what-they-are)
+- [Chrome Android Tabs Too Many How to Manage](/chrome-android-tabs-too-many-how-to-manage)

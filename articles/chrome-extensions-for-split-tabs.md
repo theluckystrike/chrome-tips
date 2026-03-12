@@ -85,3 +85,9 @@ Most split tab extensions are free to try, so you can experiment with a few to s
 The goal is to spend less time switching between tabs and more time getting things done. With the right split tab extension, you can keep the information you need visible at all times without the frustration of constant tab switching.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+- [Chrome Extensions for Vertical Tabs Sidebar](/chrome-extensions-for-vertical-tabs-sidebar)

@@ -140,4 +140,11 @@ For additional Chrome optimization, consider pairing your font customization wit
 
 ---
 
+
+
+## Related Articles
+- [Chrome Font Palette CSS Explained](/chrome-font-palette-css-explained)
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+- [chrome extensions for font changing](/chrome-extensions-for-font-changing)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

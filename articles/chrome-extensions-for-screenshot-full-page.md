@@ -86,3 +86,9 @@ The key is finding an extension that matches your workflow. Most of these tools 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [how to screenshot full page in chrome](/how-to-screenshot-full-page-in-chrome)
+- [Chrome Devtools Screenshot Full Page](/chrome-devtools-screenshot-full-page)
+- [How to Capture Full Page Screenshots in Chrome Using DevTools](/chrome-screenshot-capture-devtools-full-page)

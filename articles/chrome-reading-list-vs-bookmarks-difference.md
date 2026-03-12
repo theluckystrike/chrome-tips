@@ -90,4 +90,11 @@ Try implementing both features in your daily routine. Save frequently visited si
 
 ---
 
+
+
+## Related Articles
+- [chrome reading list vs bookmarks](/chrome-reading-list-vs-bookmarks)
+- [How to Enable Chrome Reading List](/how-to-enable-chrome-reading-list)
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -79,3 +79,9 @@ If you continue to experience severe memory issues despite trying these solution
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)
+- [Chrome High Memory Usage Mac Fix](/chrome-high-memory-usage-mac-fix)
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)

@@ -66,4 +66,11 @@ If you find that managing your browser settings and extensions feels overwhelmin
 
 Using a tool like this, combined with regular attention to your browser settings, can give you a smoother and more controlled browsing experience.
 
+
+
+## Related Articles
+- [chrome file handling api explained](/chrome-file-handling-api-explained)
+- [Chrome File System Access API: A Complete Guide](/chrome-file-system-access-api)
+- [Chrome User Data Directory: What Each File Does](/chrome-user-data-directory-what-each-file-does)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

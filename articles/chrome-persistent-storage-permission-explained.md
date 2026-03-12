@@ -71,4 +71,11 @@ If you find that Chrome is running slowly and you suspect storage might be the i
 
 ---
 
+
+
+## Related Articles
+- [Chrome Shared Storage API Explained](/chrome-shared-storage-api-explained)
+- [chrome clipboard permission explained](/chrome-clipboard-permission-explained)
+- [Chrome Web Storage Limits Explained](/chrome-web-storage-limits-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

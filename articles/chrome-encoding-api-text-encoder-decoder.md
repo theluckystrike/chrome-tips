@@ -73,4 +73,11 @@ The Chrome Encoding API TextEncoder and TextDecoder might be invisible to most u
 
 ---
 
+
+
+## Related Articles
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

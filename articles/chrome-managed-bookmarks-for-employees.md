@@ -86,3 +86,9 @@ This separation is actually one of the strengths of the managed bookmarks approa
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+- [Chrome Bookmarks Bar Disappeared Fix](/chrome-bookmarks-bar-disappeared-fix)
+- [Chrome Sidebar Bookmarks How to Enable](/chrome-sidebar-bookmarks-how-to-enable)

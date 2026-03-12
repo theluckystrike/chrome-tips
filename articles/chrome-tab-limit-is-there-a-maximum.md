@@ -60,4 +60,11 @@ Try turning on Memory Saver if you have not already. Consider which tabs you act
 
 The bottom line is that while Chrome does not enforce a hard limit on tab count, your computer will let you know when you have pushed too far. By understanding how tabs use your resources and using the tools available to manage them, you can keep your browser running smoothly no matter how many things you are working on.
 
+
+
+## Related Articles
+- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [How to Limit Chrome RAM Usage Mac: Practical Solutions for Slow Computers](/how-to-limit-chrome-ram-usage-mac)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

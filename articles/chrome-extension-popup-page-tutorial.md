@@ -161,4 +161,11 @@ Building a popup is often one of the first steps in extension development becaus
 
 Creating a Chrome extension popup page is a straightforward process once you understand the file structure and manifest configuration. By combining HTML for structure, CSS for styling, and JavaScript for interactivity, you can build popups that are both functional and visually appealing. Start with this basic tutorial, experiment with your own ideas, and you will be on your way to building powerful Chrome extensions in no time.
 
+
+
+## Related Articles
+- [Chrome Extension Side Panel Tutorial](/chrome-extension-side-panel-tutorial)
+- [Chrome Extension for Viewing Page Load Time](/chrome-extension-for-viewing-page-load-time)
+- [Chrome Screenshot Full Page Without Extension](/chrome-screenshot-full-page-without-extension)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

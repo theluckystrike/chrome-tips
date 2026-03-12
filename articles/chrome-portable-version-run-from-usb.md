@@ -123,4 +123,11 @@ For most users, the benefits far outweigh the drawbacks. The ability to carry yo
 
 ---
 
+
+
+## Related Articles
+- [chrome portable version how to get](/chrome-portable-version-how-to-get)
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

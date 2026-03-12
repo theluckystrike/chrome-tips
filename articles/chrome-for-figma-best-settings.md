@@ -93,3 +93,9 @@ Making these adjustments to Chrome can significantly improve your experience whe
 Every computer is different, so you might need to experiment with a few settings to find what works best for your specific setup. Start with the changes listed here and adjust as needed based on how your design work feels.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
+- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)

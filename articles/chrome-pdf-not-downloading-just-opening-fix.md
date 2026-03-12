@@ -77,4 +77,11 @@ Finally, make sure you are running the latest version of Chrome. Google regularl
 
 To check for updates, open Chrome and look for the three dots menu in the top right corner. Click on it, then go to **Help**, and select **About Google Chrome**. Chrome will check for updates and install them if any are available. Restart the browser after updating to make sure the changes take effect.
 
+
+
+## Related Articles
+- [Chrome PDF Not Opening Fix](/chrome-pdf-not-opening-fix)
+- [Chrome PDF Not Opening in Browser Fix](/chrome-pdf-not-opening-in-browser-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

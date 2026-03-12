@@ -138,4 +138,11 @@ The key is finding a system that works for your specific workflow and sticking w
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*
+
+## Related Articles
+- [chrome tab groups auto create how to set up](/chrome-tab-groups-auto-create-how-to-set-up)
+- [chrome tab groups advanced tips](/chrome-tab-groups-advanced-tips)
+- [Chrome Tab Groups vs Multiple Windows](/chrome-tab-groups-vs-windows)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

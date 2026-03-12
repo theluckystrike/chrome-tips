@@ -85,3 +85,9 @@ The chrome blob and file api explained technologies continue to evolve. Google i
 If you find yourself with many open tabs while working with files, you might benefit from extensions like Tab Suspender Pro, which helps manage your open tabs and keeps your browser running smoothly. This is particularly useful when you are juggling multiple web-based tools that work with files.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome file handling api explained](/chrome-file-handling-api-explained)
+- [chrome file system access api explained](/chrome-file-system-access-api-explained)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)

@@ -67,4 +67,11 @@ The best approach usually combines a few of these methods. Start with Chrome's d
 
 Once you find the combination that works for you, the days of squinting at tiny text or manually zooming in on every website will be over. Your eyes will thank you, and you will enjoy a much more comfortable browsing experience.
 
+
+
+## Related Articles
+- [Chrome Font Size How to Change Permanently](/chrome-font-size-how-to-change-permanently)
+- [How to Increase Chrome Cache Size](/chrome-cache-size-how-to-increase)
+- [How to Change Chrome Font Size Permanently](/chrome-font-size-permanently-change)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -98,3 +98,9 @@ While you are troubleshooting your WiFi issues, it is worth noting that Chrome e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chromebook bluetooth not working fix](/chromebook-bluetooth-not-working-fix)
+- [Chrome WhatsApp Web Not Connecting Fix: Complete Troubleshooting Guide](/chrome-whatsapp-web-not-connecting-fix)
+- [chromebook touchscreen not working fix](/chromebook-touchscreen-not-working-fix)

@@ -101,4 +101,11 @@ Take a few minutes to adjust your settings, and you will likely see an immediate
 
 ---
 
+
+
+## Related Articles
+- [Chrome Extension Alternative to Grammarly Free](/chrome-extension-alternative-to-grammarly-free)
+- [How to Find Which Extension is Slowing Chrome](/how-to-find-which-extension-is-slowing-chrome)
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

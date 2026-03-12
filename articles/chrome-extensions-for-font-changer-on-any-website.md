@@ -68,3 +68,9 @@ The ability to change fonts on any website is one of those features that you mig
 Take some time to explore the different options available, try a few extensions to see which interface you prefer, and enjoy a more comfortable browsing experience. Your eyes will thank you for it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome extensions for font changing](/chrome-extensions-for-font-changing)
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
+- [Chrome for Font Identification Extensions](/chrome-for-font-identification-extensions)

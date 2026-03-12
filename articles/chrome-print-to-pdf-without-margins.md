@@ -61,4 +61,11 @@ Some documents look better with a little breathing room around the edges. White 
 
 ---
 
+
+
+## Related Articles
+- [Chrome PDF Settings Print to PDF How to](/chrome-pdf-settings-print-to-pdf-how-to)
+- [Chrome How to Print Without Headers Footers](/chrome-how-to-print-without-headers-footers)
+- [Chrome Print to PDF How to Save Webpage](/chrome-print-to-pdf-how-to-save-webpage)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

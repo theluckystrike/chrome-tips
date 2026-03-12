@@ -99,3 +99,9 @@ Once you get Chrome installed, you will want to keep it running well. One helpfu
 You can find Tab Suspender Pro in the Chrome Web Store. It is a useful extension that helps manage your tabs without you having to manually close and reopen them.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Wont Install on Windows 11 Fix](/chrome-wont-install-on-windows-11-fix)
+- [Chrome PWA Install Prompt Not Showing Fix](/chrome-pwa-install-prompt-not-showing-fix)
+- [Chrome Dock Icon Missing Fix Mac](/chrome-dock-icon-missing-fix-mac)

@@ -89,3 +89,9 @@ The bookmark bar is one of Chrome's most convenient features, but it requires so
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Address Bar Tips and Tricks](/chrome-address-bar-tips-and-tricks)
+- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
+- [Chrome for Address Bar Shortcuts Tips](/chrome-for-address-bar-shortcuts-tips)

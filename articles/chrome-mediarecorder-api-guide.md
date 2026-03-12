@@ -109,4 +109,11 @@ Finally, consider the end-to-end workflow for your recorded content. The MediaRe
 
 ---
 
+
+
+## Related Articles
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome Web Serial API Guide](/chrome-web-serial-api-guide)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

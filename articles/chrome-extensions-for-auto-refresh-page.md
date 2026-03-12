@@ -59,4 +59,11 @@ Browser settings themselves may offer limited refresh capabilities in certain co
 
 ---
 
+
+
+## Related Articles
+- [chrome extensions for auto page refresh](/chrome-extensions-for-auto-page-refresh)
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

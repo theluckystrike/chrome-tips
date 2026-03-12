@@ -86,3 +86,9 @@ NVIDIA also updates GeForce Now periodically, and these updates can sometimes ch
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Settings You Should Change Right Now](/chrome-settings-you-should-change-right-now)
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
+- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)

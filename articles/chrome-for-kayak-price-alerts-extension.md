@@ -80,3 +80,9 @@ Finally, remember that the lowest price is not always the best value. Consider f
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for Flight Price Alerts](/chrome-extensions-for-flight-price-alerts)
+- [chrome price drop alerts how to enable](/chrome-price-drop-alerts-how-to-enable)
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)

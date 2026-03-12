@@ -102,3 +102,9 @@ Check your sync settings periodically to make sure suggestions are not coming fr
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Spell Check Wrong Language Fix](/chrome-spell-check-wrong-language-fix)
+- [Chrome Autofill Wrong Address How to Fix](/chrome-autofill-wrong-address-how-to-fix)
+- [Chrome Redirecting to Wrong Pages Fix](/chrome-redirecting-to-wrong-pages-fix)

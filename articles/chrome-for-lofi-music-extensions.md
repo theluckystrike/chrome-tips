@@ -83,3 +83,9 @@ Your digital workspace should support your goals, and adding the right music ext
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for Music Discovery Extensions](/chrome-for-music-discovery-extensions)
+- [Chrome Extensions for Lo Fi Music](/chrome-extensions-for-lo-fi-music)
+- [Chrome for Focus Music Playlists Extensions](/chrome-for-focus-music-playlists-extensions)

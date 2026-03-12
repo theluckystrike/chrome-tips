@@ -124,4 +124,11 @@ If you've tried all these steps and comments still won't load, consider trying a
 
 With these troubleshooting steps, you should be able to get back to reading and participating in discussions under your favorite YouTube videos.
 
+
+
+## Related Articles
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)
+- [Chrome PWA Install Prompt Not Showing Fix](/chrome-pwa-install-prompt-not-showing-fix)
+- [chrome not playing youtube videos fix](/chrome-not-playing-youtube-videos-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

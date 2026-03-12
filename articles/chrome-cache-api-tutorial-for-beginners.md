@@ -78,3 +78,9 @@ The Chrome Cache API is just one piece of how Chrome makes your browsing experie
 Next time a page loads quickly, you will know it is thanks to the Chrome Cache API working behind the scenes to deliver files from local storage instead of waiting for them to come over the network. It is one of those invisible technologies that makes the modern web feel so responsive.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Inspect Element Tutorial for Beginners](/chrome-inspect-element-tutorial-for-beginners)
+- [chrome web serial api for beginners](/chrome-web-serial-api-for-beginners)
+- [Chrome Web GPU API Explained for Beginners](/chrome-web-gpu-api-explained-for-beginners)

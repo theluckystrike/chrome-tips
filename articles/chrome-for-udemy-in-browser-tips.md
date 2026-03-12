@@ -78,3 +78,9 @@ Chrome also allows you to control autoplay behavior. If you find videos automati
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
+- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)
+- [Chrome Browser Games Performance Tips](/chrome-browser-games-performance-tips)

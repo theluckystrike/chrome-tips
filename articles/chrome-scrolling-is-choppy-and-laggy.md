@@ -151,4 +151,11 @@ If you've tried all these fixes and Chrome still scrolls choppy, your computer m
 
 The "chrome scrolling is choppy and laggy" problem is usually fixable with the steps above. Start with closing tabs and enabling Memory Saver—you might be surprised how big a difference these simple changes make.
 
+
+
+## Related Articles
+- [How to Fix Chrome Notion Slow and Laggy Issues](/chrome-notion-slow-and-laggy-fix)
+- [How to Enable Chrome Smooth Scrolling](/how-to-enable-chrome-smooth-scrolling)
+- [How to Enable Chrome Smooth Scrolling for a Better Browsing Experience](/chrome-smooth-scrolling-enable)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

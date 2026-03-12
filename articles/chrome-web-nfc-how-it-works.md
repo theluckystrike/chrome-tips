@@ -73,3 +73,9 @@ Give Web NFC a try with compatible tags and see how quickly you can access infor
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [chrome web share api how it works](/chrome-web-share-api-how-it-works)
+- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)

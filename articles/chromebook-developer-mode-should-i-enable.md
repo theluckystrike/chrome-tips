@@ -101,3 +101,9 @@ Whatever you decide, your Chromebook will still be a capable machine. The choice
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Extensions Developer Mode: A Complete Beginner''s Guide](/chrome-extensions-developer-mode)
+- [Chrome Developer Mode Extensions Guide](/chrome-developer-mode-extensions)

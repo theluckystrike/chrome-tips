@@ -95,3 +95,9 @@ The goal is to create a system where you can see everything that matters for you
 Once you have your dashboard set up, you will find it easier to stay focused, prioritize effectively, and maintain control over your workload. Small improvements in how you organize your browser can lead to significant gains in your overall productivity.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome for Email Productivity Extensions](/chrome-for-email-productivity-extensions)
+- [Chrome for Productivity Dashboard New Tab](/chrome-for-productivity-dashboard-new-tab)

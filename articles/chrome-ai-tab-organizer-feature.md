@@ -68,4 +68,11 @@ If you frequently find yourself overwhelmed by too many open tabs, it is worth t
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*
+
+## Related Articles
+- [Chrome Tab Organize AI Feature Explained](/chrome-tab-organize-ai-feature-explained)
+- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
+- [Chrome AI Tab Organization Feature](/chrome-ai-tab-organization-feature)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

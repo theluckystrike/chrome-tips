@@ -80,3 +80,9 @@ Chrome for site search from address bar is one of those features that is easy to
 Give it a try with a site you visit often. Set up the bookmark or keyword, run a test search, and see how it feels. You might find that a small change in how you browse makes a big difference in your daily workflow.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+- [Chrome Address Bar Suggestions How to Clear](/chrome-address-bar-suggestions-how-to-clear)
+- [chrome coupons in address bar feature](/chrome-coupons-in-address-bar-feature)

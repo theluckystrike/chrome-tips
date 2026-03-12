@@ -80,4 +80,11 @@ Start with the quick fixes, enable the built-in performance features, and consid
 
 ---
 
+
+
+## Related Articles
+- [Why Chrome Is Slow on Battery But Fast When Plugged In](/chrome-slow-on-battery-but-fast-plugged-in)
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

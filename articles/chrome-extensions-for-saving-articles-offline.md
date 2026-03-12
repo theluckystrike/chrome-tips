@@ -86,3 +86,9 @@ Try a few different extensions to see which one fits your workflow. Most of them
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+- [Chrome for Saving Articles to Read Later](/chrome-for-saving-articles-to-read-later)
+- [Best Chrome Extensions for Saving Money Online](/best-chrome-extensions-for-saving-money-online)

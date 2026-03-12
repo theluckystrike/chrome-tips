@@ -74,3 +74,9 @@ When testing reveals performance issues, consider several optimization strategie
 Minimize the number of network requests by combining files where possible. Use CSS instead of images when appropriate, and consider using a content delivery network to serve files from locations closer to users.
 
 Finally, prioritize critical rendering path. Ensure that the content above the fold loads first, giving users something to see while the rest of the page loads. This approach improves perceived performance even on slow connections.
+
+
+## Related Articles
+- [chrome network throttling test slow connection](/chrome-network-throttling-test-slow-connection)
+- [How to Simulate Slow Connection in Chrome for Testing](/chrome-simulate-slow-connection-for-testing)
+- [Chrome Network Throttling Guide](/chrome-network-throttling-guide)

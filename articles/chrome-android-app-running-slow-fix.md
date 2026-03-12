@@ -140,4 +140,11 @@ These changes together can make Chrome feel significantly faster, even on older 
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*
+*
+
+## Related Articles
+- [How to Fix Slow Slack Web App in Chrome](/chrome-slack-web-app-slow-fix)
+- [Chrome Slow on Android Fix](/chrome-slow-on-android-fix)
+- [Chrome Figma Running Slow Fix: A Practical Guide](/chrome-figma-running-slow-fix)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one).*

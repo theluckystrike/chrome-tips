@@ -67,3 +67,9 @@ The next time you see one of these error messages, remember that Chrome is doing
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Cross-Origin Isolation Explained](/chrome-cross-origin-isolation-explained)
+- [Chrome Update Failed Error 12 Fix](/chrome-update-failed-error-12-fix)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)

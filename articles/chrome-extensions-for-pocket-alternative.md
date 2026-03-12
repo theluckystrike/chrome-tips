@@ -60,3 +60,9 @@ Regardless of which extension you choose, keeping too many saved pages and activ
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative)
+- [chrome extensions for whatfont alternative](/chrome-extensions-for-whatfont-alternative)
+- [chrome extensions for privacy badger alternative](/chrome-extensions-for-privacy-badger-alternative)

@@ -89,3 +89,9 @@ Reducing latency in Chrome for gaming is mostly about removing unnecessary work 
 These changes do not require technical expertise. They take just a few minutes to configure, and you will feel the difference in responsiveness the next time you play. Lower latency means tighter controls, faster reactions, and a more enjoyable gaming experience overall.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)

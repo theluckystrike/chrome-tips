@@ -83,3 +83,9 @@ It is also a good idea to periodically check that your proxy is actually working
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome proxy settings how to configure](/chrome-proxy-settings-how-to-configure)
+- [Chrome Proxy Settings Guide](/chrome-proxy-settings-guide)
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)

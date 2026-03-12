@@ -96,3 +96,9 @@ The combination of developer mode for extension testing and Tab Suspender Pro fo
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Developer Mode Extensions Guide](/chrome-developer-mode-extensions)
+- [Chrome Developer Mode Extensions Warning: How to Dismiss](/chrome-developer-mode-extensions-warning-how-to-dismiss)
+- [Chrome Extensions for Website Dark Mode Forced](/chrome-extensions-for-website-dark-mode-forced)

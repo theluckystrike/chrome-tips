@@ -165,4 +165,11 @@ The extensions listed above are all genuinely useful and worth your time. They e
 
 ---
 
+
+
+## Related Articles
+- [Chrome Side Panel Extensions Best Ones](/chrome-side-panel-extensions-best-ones)
+- [Chrome Extension Side Panel Tutorial](/chrome-extension-side-panel-tutorial)
+- [chrome side panel features you missed](/chrome-side-panel-features-you-missed)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

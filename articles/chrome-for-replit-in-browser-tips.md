@@ -67,3 +67,9 @@ Another helpful habit is to close tabs you are not actively using. It sounds sim
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)
+- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)
+- [Chrome Browser Games Performance Tips](/chrome-browser-games-performance-tips)

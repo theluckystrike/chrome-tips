@@ -85,3 +85,9 @@ If you are watching content in a foreign language, keep in mind that Live Captio
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Live Captions Feature Guide](/chrome-live-captions-feature)
+- [Chrome Live Captions Languages: Complete Setup Guide](/chrome-live-captions-languages)
+- [Chrome Live Captions How to Enable](/chrome-live-captions-how-to-enable)

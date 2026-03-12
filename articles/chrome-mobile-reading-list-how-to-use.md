@@ -94,3 +94,9 @@ Give it a try with a few pages you have been meaning to read. You might find it 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Reading List on Phone How to Use](/chrome-reading-list-on-phone-how-to-use)
+- [Chrome Reading List How to Use](/chrome-reading-list-how-to-use)
+- [Chrome Android Reading List How to Use](/chrome-android-reading-list-how-to-use)

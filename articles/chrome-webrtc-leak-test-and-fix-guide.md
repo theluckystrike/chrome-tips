@@ -136,4 +136,11 @@ If you're looking to optimize Chrome further, give Tab Suspender Pro a try. It's
 
 ---
 
+
+
+## Related Articles
+- [chrome webrtc leak what it is and how to fix](/chrome-webrtc-leak-what-it-is-and-how-to-fix)
+- [Chrome WebRTC Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
+- [Chrome Extensions for WebRTC Leak Prevention](/chrome-extensions-for-webrtc-leak-prevention)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

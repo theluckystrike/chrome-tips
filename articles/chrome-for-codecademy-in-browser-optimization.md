@@ -78,3 +78,9 @@ You can see your current version by clicking the three dots in the top right cor
 A smoother Codecademy experience is within reach. Close unnecessary tabs, trim down your extensions, enable Memory Saver, and consider using Tab Suspender Pro for extra control. These small changes add up to faster loading times and a more responsive coding environment, letting you focus on learning instead of waiting for your browser to catch up.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [how to make chrome default browser mac](/how-to-make-chrome-default-browser-mac)

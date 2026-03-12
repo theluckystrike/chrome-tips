@@ -106,4 +106,11 @@ Finally, combine coverage analysis with other performance tools in Chrome DevToo
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*
+
+## Related Articles
+- [Chrome DevTools Coverage Tool Explained](/chrome-devtools-coverage-tool-explained)
+- [Chrome Coverage Tool: Find Unused JavaScript](/chrome-coverage-tool-find-unused-javascript)
+- [Chrome Coverage Tool: Find Unused CSS and Boost Your Site Speed](/chrome-coverage-tool-find-unused-css)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

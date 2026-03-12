@@ -92,3 +92,9 @@ One common problem iPad users face is Chrome running slowly when too many tabs a
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
+- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)
+- [chrome bookmark bar tips and tricks](/chrome-bookmark-bar-tips-and-tricks)

@@ -17,3 +17,9 @@ permalink: chrome-for-blocking-autoplay-videos
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Chrome for Website Blocking During Work](/chrome-for-website-blocking-during-work)
+- [Chrome Not Playing Videos Fix](/chrome-not-playing-videos-fix)

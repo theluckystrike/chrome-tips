@@ -72,4 +72,11 @@ If you find yourself frequently dealing with browser issues or want to improve y
 
 ---
 
+
+
+## Related Articles
+- [Chrome Taskbar Icon Missing Fix Windows](/chrome-taskbar-icon-missing-fix-windows)
+- [Chrome Dock Icon Missing Fix Mac](/chrome-dock-icon-missing-fix-mac)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

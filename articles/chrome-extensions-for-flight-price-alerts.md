@@ -67,3 +67,9 @@ Finally, consider combining these extensions with other travel tools. Some exten
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome for kayak price alerts extension](/chrome-for-kayak-price-alerts-extension)
+- [chrome for price drop alert extensions](/chrome-for-price-drop-alert-extensions)
+- [Chrome Extensions for Amazon Price History](/chrome-extensions-for-amazon-price-history)

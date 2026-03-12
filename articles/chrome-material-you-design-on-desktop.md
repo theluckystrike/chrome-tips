@@ -62,3 +62,9 @@ The Material You design also creates a more unified experience if you use multip
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome desktop shortcuts how to create](/chrome-desktop-shortcuts-how-to-create)
+- [Chrome Responsive Design Mode: How to Use It Effectively](/chrome-responsive-design-mode-how-to-use)
+- [Chrome Remote Desktop How to Use](/chrome-remote-desktop-how-to-use)

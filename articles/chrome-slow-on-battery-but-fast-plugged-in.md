@@ -91,4 +91,11 @@ Start by adjusting your power profile to a balanced setting, disabling unnecessa
 
 ---
 
+
+
+## Related Articles
+- [Chrome YouTube Slow But Other Sites Fine Fix](/chrome-youtube-slow-but-other-sites-fine-fix)
+- [Chrome Was Fast, Now It's Slow - What Happened?](/chrome-was-fast-now-its-slow-what-happened)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

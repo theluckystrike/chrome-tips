@@ -98,4 +98,11 @@ Whether you are managing a complex research project, juggling multiple work stre
 
 Start using the chrome tab search shortcut today, and you will wonder how you ever managed without it.
 
+
+
+## Related Articles
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [chrome reopen closed tab shortcut](/chrome-reopen-closed-tab-shortcut)
+- [Chrome Jump to Specific Tab Number Shortcut](/chrome-jump-to-specific-tab-number-shortcut)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

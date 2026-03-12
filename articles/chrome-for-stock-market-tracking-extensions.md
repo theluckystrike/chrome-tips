@@ -65,3 +65,9 @@ The key is finding a balance that works for you. Stock tracking extensions are m
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for Time Tracking](/chrome-extensions-for-time-tracking)
+- [Chrome for Cryptocurrency Tracking Extensions](/chrome-for-cryptocurrency-tracking-extensions)
+- [Chrome Extensions for Time Tracking Freelancers](/chrome-extensions-for-time-tracking-freelancers)

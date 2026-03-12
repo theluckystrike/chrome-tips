@@ -71,3 +71,9 @@ The Mutation Observer API is just one of many tools that make modern web browsin
 The next time you see smooth animations, instant content updates, or responsive forms on a website, there is a good chance the Mutation Observer API is playing a part in making that happen. It is one of the many features that makes Chrome capable of handling complex web applications while still being efficient with your computer resources.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Resize Observer API Explained](/chrome-resize-observer-api-explained)
+- [Chrome Performance Observer API Explained](/chrome-performance-observer-api-explained)
+- [Chrome Intersection Observer API Explained](/chrome-intersection-observer-api-explained)

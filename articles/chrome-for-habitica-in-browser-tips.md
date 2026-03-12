@@ -89,3 +89,9 @@ Tools like **Tab Suspender Pro** can help you maintain a cleaner, more focused b
 Give these tips a try and see which ones work best for your workflow. A few small adjustments can make a big difference in how effectively you use Habitica to build the life you want.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for Replit in Browser Tips](/chrome-for-replit-in-browser-tips)
+- [Chrome for CodePen in Browser Tips](/chrome-for-codepen-in-browser-tips)
+- [Chrome for Udemy in Browser Tips](/chrome-for-udemy-in-browser-tips)

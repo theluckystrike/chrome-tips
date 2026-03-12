@@ -75,3 +75,9 @@ As you become more familiar with the tool, you will find it easier to spot patte
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome DevTools Protocol Monitor](/chrome-protocol-monitor-guide)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)

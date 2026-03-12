@@ -137,4 +137,11 @@ Microsoft Teams running slow in Chrome is a common problem with several potentia
 
 By keeping your browser lean, managing resources wisely, and adjusting Teams settings to match your needs, you can enjoy a much smoother Teams experience without switching to the desktop app.
 
+
+
+## Related Articles
+- [How to Fix Slow Slack Web App in Chrome](/chrome-slack-web-app-slow-fix)
+- [Chrome for Microsoft Teams Web Optimization](/chrome-for-microsoft-teams-web-optimization)
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

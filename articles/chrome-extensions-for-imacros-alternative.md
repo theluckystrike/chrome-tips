@@ -64,3 +64,9 @@ The transition from iMacros might feel inconvenient at first, but the ecosystem 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for Pocket Alternative](/chrome-extensions-for-pocket-alternative)
+- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative)
+- [chrome extensions for whatfont alternative](/chrome-extensions-for-whatfont-alternative)

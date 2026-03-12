@@ -71,3 +71,9 @@ A well-performing website should load most of its content within a few seconds. 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Large Font Easy to Read Setup](/chrome-large-font-easy-to-read-setup)
+- [Chrome Network Settings Reset How To](/chrome-network-settings-reset-how-to)
+- [chrome network throttling test slow connection](/chrome-network-throttling-test-slow-connection)

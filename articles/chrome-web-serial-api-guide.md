@@ -271,4 +271,11 @@ Whether you are a web developer looking to explore hardware projects or a hardwa
 
 The ability to communicate with Arduino, microcontrollers, and other serial devices directly from Chrome transforms the browser from a window into the digital world into a gateway to the physical world. This capability is limited only by your imagination and the devices you choose to connect.
 
+
+
+## Related Articles
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [chrome web serial api for beginners](/chrome-web-serial-api-for-beginners)
+- [chrome web serial api explained](/chrome-web-serial-api-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -80,4 +80,11 @@ Remember that the most useful tool is one you actually use. An extension with ev
 
 ---
 
+
+
+## Related Articles
+- [How to Limit Screen Time in Chrome with Extensions](/chrome-limit-screen-time-with-extension)
+- [Chrome Split Screen Without Extension](/chrome-split-screen-without-extension)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

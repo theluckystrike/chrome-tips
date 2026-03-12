@@ -77,4 +77,11 @@ The **Performance Observer API** represents a shift toward more transparent and 
 
 As more websites adopt these performance measurement practices, the overall quality of web browsing should continue to improve. You may not directly interact with the **Performance Observer API**, but it works behind the scenes to make the web a better place for everyone.
 
+
+
+## Related Articles
+- [chrome mutation observer api explained](/chrome-mutation-observer-api-explained)
+- [Chrome Resize Observer API Explained](/chrome-resize-observer-api-explained)
+- [Chrome Performance Observer API Explained](/chrome-performance-observer-api)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

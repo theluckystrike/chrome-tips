@@ -63,3 +63,9 @@ The key to making these shortcuts part of your daily workflow is practice. Start
 You might also want to print out a cheat sheet of Chrome shortcuts and keep it near your desk until you have memorized them. The investment of a few minutes learning these shortcuts will pay dividends in time saved over the months and years ahead. Every second you save by not using the mouse adds up, giving you more time for the things that matter.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [Chrome Tab Search Shortcut: Find Any Open Tab Instantly](/chrome-tab-search-shortcut)
+- [chrome site search shortcut how to set up](/chrome-site-search-shortcut-how-to-set-up)

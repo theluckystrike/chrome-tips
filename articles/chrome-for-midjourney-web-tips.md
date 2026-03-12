@@ -63,3 +63,9 @@ Using Midjourney web in Chrome is already a great experience, but these small op
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
+- [chrome for odysee web player tips](/chrome-for-odysee-web-player-tips)
+- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)

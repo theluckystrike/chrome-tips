@@ -131,4 +131,11 @@ Combine that with disabling unused extensions, limiting background processes, an
 
 Your browser should work for you, not against you. Try these steps today, and you might be surprised at how snappy Chrome can feel—even with 100 tabs.
 
+
+
+## Related Articles
+- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
+- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+- [Chrome Save Open Tabs as Bookmarks All at Once](/chrome-save-open-tabs-as-bookmarks-all-at-once)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

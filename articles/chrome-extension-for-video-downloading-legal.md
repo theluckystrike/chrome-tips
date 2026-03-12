@@ -79,4 +79,11 @@ By understanding the basics of copyright law and following the practical tips ou
 
 ---
 
+
+
+## Related Articles
+- [chrome for video downloading legal methods](/chrome-for-video-downloading-legal-methods)
+- [Chrome Extension for Batch Downloading Images](/chrome-extension-for-batch-downloading-images)
+- [Chrome Extension for Video Speed Controller](/chrome-extension-for-video-speed-controller)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

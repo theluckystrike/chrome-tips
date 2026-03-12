@@ -86,3 +86,9 @@ Consider how important offline access is to you, how many notes you need to mana
 Whatever approach you choose, you do not have to give up access to your notes just because you prefer Chrome. With these workarounds, you can stay productive and keep everything you need within reach.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)

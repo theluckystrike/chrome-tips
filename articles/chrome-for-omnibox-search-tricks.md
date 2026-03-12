@@ -86,3 +86,9 @@ Tab Suspender Pro automatically pauses tabs you are not using, which saves memor
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Omnibox Search Tricks Most People Dont Know](/chrome-omnibox-search-tricks-most-people-dont-know)
+- [Chrome History Search Tips and Tricks](/chrome-history-search-tips-and-tricks)
+- [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)

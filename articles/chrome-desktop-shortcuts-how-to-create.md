@@ -67,3 +67,9 @@ Desktop shortcuts are great, but they are just one part of an efficient Chrome s
 You might also want to explore Chrome profiles if you use both work and personal accounts. Each profile can have its own set of shortcuts, bookmarks, and settings, keeping everything separate and organized.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome shortcuts on desktop how to create](/chrome-shortcuts-on-desktop-how-to-create)
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)

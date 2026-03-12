@@ -142,4 +142,11 @@ Implementing the chrome credential management api is straightforward and well-do
 
 Remember to always prioritize security, provide appropriate fallbacks for unsupported browsers, and respect user preferences regarding credential storage. With proper implementation, the chrome credential management api can become a valuable part of your authentication strategy.
 
+
+
+## Related Articles
+- [Chrome Window Management API Explained](/chrome-window-management-api-explained)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

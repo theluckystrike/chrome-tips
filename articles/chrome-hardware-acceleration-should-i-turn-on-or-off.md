@@ -87,3 +87,9 @@ Turn it off if you experience video playback problems, visual glitches on websit
 The best approach is to try both and see what works better for your specific setup. Every computer is different, and the right choice is whatever gives you the most reliable, enjoyable browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off)
+- [Chrome Hardware Acceleration Causes Problems](/chrome-hardware-acceleration-causes-problems)
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)

@@ -81,3 +81,9 @@ After accounts are set up, students and teachers can start using their new Chrom
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome device management for education](/chrome-device-management-for-education)
+- [Chrome Google Account Privacy Settings Guide](/chrome-google-account-privacy-settings-guide)
+- [chrome for education classroom management](/chrome-for-education-classroom-management)

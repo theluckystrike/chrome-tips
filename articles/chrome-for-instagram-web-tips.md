@@ -75,3 +75,9 @@ To create a new profile, click on the profile icon in the upper right corner of 
 Having a dedicated profile means you can keep your work-related tabs and extensions separate from your social media browsing, which can help with organization and performance.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
+- [chrome for odysee web player tips](/chrome-for-odysee-web-player-tips)
+- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)

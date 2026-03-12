@@ -12,3 +12,9 @@ permalink: chrome-snippets-productivity
 # Chrome DevTools Snippets for Productivity
 
 
+
+
+## Related Articles
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome for Email Productivity Extensions](/chrome-for-email-productivity-extensions)
+- [Chrome for Productivity Dashboard New Tab](/chrome-for-productivity-dashboard-new-tab)

@@ -69,4 +69,11 @@ Remember that you have options when a site performs poorly. You can look for alt
 
 ---
 
+
+
+## Related Articles
+- [Chrome Web Vitals What They Mean](/chrome-web-vitals-what-they-mean)
+- [Chrome for MDN Web Docs Extension](/chrome-for-mdn-web-docs-extension)
+- [chrome web bluetooth how to use](/chrome-web-bluetooth-how-to-use)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

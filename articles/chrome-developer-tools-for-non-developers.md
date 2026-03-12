@@ -101,3 +101,9 @@ Tab Suspender Pro works in the background and lets you keep more tabs open witho
 DevTools is a powerful resource that is available to everyone using Chrome. Even without programming knowledge, you can use it to troubleshoot issues, learn about how websites work, and solve common problems. The key is to start with the simpler panels like Elements and Console, and gradually explore more features as you become comfortable.
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Network Speed in Developer Tools](/chrome-network-speed-in-developer-tools)
+- [Chrome Developer Tools Shortcut](/chrome-developer-tools-shortcut)
+- [Chrome Developer Tools Making Page Slow: What You Need to Know](/chrome-developer-tools-making-page-slow)

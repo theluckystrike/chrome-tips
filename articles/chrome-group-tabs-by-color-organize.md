@@ -99,4 +99,11 @@ Start small—create a few groups for your most common workflows and see how muc
 
 ---
 
+
+
+## Related Articles
+- [How to Group Tabs in Chrome 2026](/how-to-group-tabs-in-chrome-2026)
+- [Best Way to Organize Chrome Tabs](/best-way-to-organize-chrome-tabs)
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

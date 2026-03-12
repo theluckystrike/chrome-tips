@@ -107,3 +107,9 @@ If you frequently have many tabs open and notice performance issues, consider us
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Gesture Navigation Complete Guide](/chrome-gesture-navigation)
+- [Chrome for Gesture Navigation Desktop](/chrome-for-gesture-navigation-desktop)
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)

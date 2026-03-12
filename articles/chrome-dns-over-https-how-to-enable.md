@@ -99,3 +99,9 @@ Remember that DNS over HTTPS is just one piece of the privacy puzzle. Your inter
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome dns over https setup](/chrome-dns-over-https-setup)
+- [Chrome HTTPS Only Mode How to Enable](/chrome-https-only-mode-how-to-enable)
+- [chrome prefetch dns how to enable](/chrome-prefetch-dns-how-to-enable)

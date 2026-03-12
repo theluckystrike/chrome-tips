@@ -78,3 +78,9 @@ Backing up your Chrome bookmarks and passwords is a quick process that takes jus
 With your data backed up, you can browse with confidence knowing that your important information is protected, no matter what happens to your browser or computer.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Bookmarks File Location and Backup Guide](/chrome-bookmarks-file-location-backup)
+- [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
+- [Chrome Profile Backup How to Save](/chrome-profile-backup-how-to-save)

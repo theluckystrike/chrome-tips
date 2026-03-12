@@ -63,5 +63,12 @@ If you find that Chrome's built-in **Memory Saver** is too aggressive or not pow
 
 You can set custom "auto-suspend" timers, whitelist specific domains, and even view how much memory you've saved across your entire session. It’s an essential tool for "tab hoarders" who need to maintain a fast, responsive browser without losing their place in complex research projects. By keeping your **system resources** lean, you ensure that Chrome's other security and performance features have the power they need to function correctly.
 
+
+
+## Related Articles
+- [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)
+- [Chrome DNS Settings How to Change for Privacy](/chrome-dns-settings-how-to-change-for-privacy)
+- [Hidden Chrome Extensions You Should Install](/hidden-chrome-extensions-you-should-install)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 

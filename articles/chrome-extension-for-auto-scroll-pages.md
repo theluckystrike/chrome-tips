@@ -70,4 +70,11 @@ Once installed, try using it while reading a long article or blog post. Notice h
 
 Auto scroll extensions represent a small but meaningful improvement to how we interact with web content. By letting the browser handle the scrolling, we can focus more on what actually matters, the information we are reading.
 
+
+
+## Related Articles
+- [Chrome Extension for Auto Fill Forms Faster](/chrome-extension-for-auto-fill-forms-faster)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -84,3 +84,9 @@ Setting up Chrome for Kindle Cloud Reader is mostly about ensuring proper permis
 Give these adjustments a try, and enjoy your Kindle library from the convenience of your browser. Happy reading.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)

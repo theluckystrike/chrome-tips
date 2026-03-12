@@ -76,3 +76,9 @@ Finally, consider your internet connection. If you are on a slow connection, web
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
+- [Chrome Lighthouse Audit for Website Speed: Complete Guide](/chrome-lighthouse-audit-website-speed)
+- [Chrome Core Web Vitals Check My Website](/chrome-core-web-vitals-check-my-website)

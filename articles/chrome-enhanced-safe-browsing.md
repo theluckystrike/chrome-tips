@@ -144,4 +144,11 @@ For users who want to optimize their browser performance alongside security, too
 
 ---
 
+
+
+## Related Articles
+- [how to enable chrome enhanced safe browsing](/how-to-enable-chrome-enhanced-safe-browsing)
+- [chrome safe browsing enhanced vs standard](/chrome-safe-browsing-enhanced-vs-standard)
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

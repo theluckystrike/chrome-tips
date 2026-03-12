@@ -86,3 +86,9 @@ Using Chrome for Google Classroom does not have to be frustrating. By managing y
 Give these tips a try and see which ones work best for your situation. Everyone's workflow is different, so experiment with these suggestions to find the combination that helps you succeed with Google Classroom.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Google Workspace Integration Tips](/chrome-google-workspace-integration-tips)
+- [chrome for google translate extension tips](/chrome-for-google-translate-extension-tips)
+- [chrome classroom integration tips for teachers](/chrome-classroom-integration-tips-for-teachers)

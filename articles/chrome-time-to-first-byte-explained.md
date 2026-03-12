@@ -78,4 +78,11 @@ You can improve your experience by keeping Chrome updated, managing your tabs an
 When websites are slow, it helps to know whether the problem is on your end or theirs. Checking TTFB in Developer Tools gives you real data to work with, and understanding what affects this metric helps you make informed decisions about your browsing habits.
 
 
+
+
+## Related Articles
+- [Chrome Total Blocking Time Explained](/chrome-total-blocking-time-explained)
+- [Chrome Takes Long Time to Open First Time](/chrome-takes-long-time-to-open-first-time)
+- [chrome offline first app design explained](/chrome-offline-first-app-design-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

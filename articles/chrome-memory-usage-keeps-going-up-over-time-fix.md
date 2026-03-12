@@ -87,3 +87,9 @@ Monitor memory usage using Chrome Task Manager. Press Shift+Escape to open it an
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [chrome tab memory usage keeps growing](/chrome-tab-memory-usage-keeps-growing)
+- [Chrome Android Memory Usage Too High Fix](/chrome-android-memory-usage-too-high-fix)

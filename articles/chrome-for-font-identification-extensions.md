@@ -100,3 +100,9 @@ The next time you see a font that catches your eye, try one of these extensions.
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [chrome extensions for font changing](/chrome-extensions-for-font-changing)
+- [chrome extensions for font changer on any website](/chrome-extensions-for-font-changer-on-any-website)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)

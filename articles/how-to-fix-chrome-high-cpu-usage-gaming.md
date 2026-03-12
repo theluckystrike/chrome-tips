@@ -86,3 +86,9 @@ Finally, keep an eye on how many programs you have running in the background. Ot
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
+- [Chrome Service Worker High CPU Fix](/chrome-service-worker-high-cpu-fix)

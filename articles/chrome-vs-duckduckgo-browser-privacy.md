@@ -73,4 +73,11 @@ Understanding how your browser handles your data is the first step toward taking
 
 ---
 
+
+
+## Related Articles
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [how to make chrome default browser mac](/how-to-make-chrome-default-browser-mac)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

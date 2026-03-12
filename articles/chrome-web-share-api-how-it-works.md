@@ -70,3 +70,9 @@ Chrome continues to lead in implementing web APIs that make browsing more capabl
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
+- [chrome web share target api explained](/chrome-web-share-target-api-explained)
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)

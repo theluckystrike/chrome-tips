@@ -80,3 +80,9 @@ Making Chrome work better with Microsoft Office online does not require technica
 These small optimizations can make a big difference in your daily workflow, especially if you spend significant time working on documents online.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for Microsoft Teams in Browser Tips](/chrome-for-microsoft-teams-in-browser-tips)
+- [chrome for banking online security tips](/chrome-for-banking-online-security-tips)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)

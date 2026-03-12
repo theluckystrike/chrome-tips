@@ -114,4 +114,11 @@ Editing webpage text with Inspect Element is a fun and useful skill that anyone 
 
 Remember: your changes are temporary and only visible to you, so feel free to experiment. The worst thing that can happen is you refresh the page and start over!
 
+
+
+## Related Articles
+- [Chrome Inspect Element Tutorial for Beginners](/chrome-inspect-element-tutorial-for-beginners)
+- [Chrome How to Inspect Element Beginners](/chrome-how-to-inspect-element-beginners)
+- [Chrome Inspect Element for Beginners](/chrome-inspect-element-for-beginners)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

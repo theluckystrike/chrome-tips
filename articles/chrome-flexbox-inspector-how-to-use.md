@@ -87,3 +87,9 @@ If you are building a website and find yourself constantly fixing flexbox issues
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Memory Inspector How to Use](/chrome-memory-inspector-how-to-use)
+- [Chrome Storage Inspector How to Use](/chrome-storage-inspector-how-to-use)
+- [chrome voice search how to use](/chrome-voice-search-how-to-use)

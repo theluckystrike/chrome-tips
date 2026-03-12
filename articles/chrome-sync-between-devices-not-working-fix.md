@@ -97,3 +97,9 @@ Chrome sync between devices is incredibly useful when it works, and most of the 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Sync Not Working Fix](/chrome-sync-not-working-fix)
+- [Chrome Cross Device Tab Sync Not Working Fix](/chrome-cross-device-tab-sync-not-working-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)

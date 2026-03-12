@@ -68,4 +68,11 @@ You can also try restarting your computer. While this might seem like an extreme
 
 Finally, make sure your Chrome is up to date. Click the three dots, go to Help, and click "About Google Chrome." Chrome will check for updates and install them if any are available. An outdated version of Chrome might have bugs or display issues that have been fixed in newer versions.
 
+
+
+## Related Articles
+- [Chrome Status Code 502 Bad Gateway Fix](/chrome-status-code-502-bad-gateway-fix)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+- [Chrome Status Code 403 Forbidden Explained](/chrome-status-code-403-forbidden-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

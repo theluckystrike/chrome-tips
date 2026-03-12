@@ -61,4 +61,11 @@ You can also try resetting Chrome to its default settings. This removes all exte
 
 Finally, check if there is a known issue with the extension. Visit the extension's page in the Chrome Web Store and read the reviews. Other users may be experiencing the same problem and the developer may have posted a workaround or an estimated time for a fix.
 
+
+
+## Related Articles
+- [Chrome Restore Tabs Not Working After Update: Practical Fixes](/chrome-restore-tabs-not-working-after-update)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

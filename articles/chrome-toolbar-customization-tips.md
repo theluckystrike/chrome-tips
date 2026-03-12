@@ -73,4 +73,11 @@ Start with small changes, like moving your most-used extension to a more accessi
 
 ---
 
+
+
+## Related Articles
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)
+- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
+- [Chrome Find on Page Shortcut Tips](/chrome-find-on-page-shortcut-tips)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

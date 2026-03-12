@@ -81,3 +81,9 @@ Remember, the goal is not to eliminate all browsing but to create boundaries tha
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Extension for Blocking Social Media During Work](/chrome-extension-for-blocking-social-media-during-work)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)

@@ -62,3 +62,9 @@ While per-site zoom is useful, you might also want to set a baseline zoom level 
 The default zoom is useful if you generally prefer browsing at a higher or lower magnification than the standard 100%. Many users find that 110% or 120% feels more comfortable for everyday browsing, and setting this as your default means you only need to adjust zoom manually for sites that need something different.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [Chrome Zoom Level How to Set Default](/chrome-zoom-level-how-to-set-default)
+- [Chrome Camera Permission for One Site How to Set](/chrome-camera-permission-for-one-site-how-to-set)

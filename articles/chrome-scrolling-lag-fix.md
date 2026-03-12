@@ -73,3 +73,9 @@ Sometimes the lag isn't in Chrome at all, but in how your computer communicates 
 Once you have fixed the scrolling lag, maintain the performance by auditing your extensions every few months and keeping your browser clean. Scrolling should be an invisible part of the web experience; when it's working right, you don't even think about it. By applying these fixes, you can return to a web that feels fast, responsive, and truly fluid.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)

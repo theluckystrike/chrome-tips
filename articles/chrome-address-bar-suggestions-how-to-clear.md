@@ -99,3 +99,9 @@ Whether you are trying to hide a specific site or simply want to clean up a clut
 
 ---
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Address Bar Autocomplete How to Clear](/chrome-address-bar-autocomplete-how-to-clear)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+- [chrome coupons in address bar feature](/chrome-coupons-in-address-bar-feature)

@@ -107,3 +107,9 @@ Finally, avoid keeping too many tabs open at once. Having dozens of open tabs ca
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)

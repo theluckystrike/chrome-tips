@@ -58,4 +58,11 @@ Looking ahead, expect to see even more sophisticated uses of this API. Developer
 
 ---
 
+
+
+## Related Articles
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Badging API Explained](/chrome-badging-api-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -76,3 +76,9 @@ Start with one or two of these tips and practice them until they become automati
 The goal is not to memorize every shortcut, but to find the ones that match how you use Chrome. Once they become muscle memory, you will wonder how you ever browsed without them.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Address Bar Shortcuts You Should Know](/chrome-address-bar-shortcuts-you-should-know)
+- [Chrome Address Bar Tips and Tricks](/chrome-address-bar-tips-and-tricks)
+- [Chrome Address Bar Shortcuts You Didn't Know](/chrome-address-bar-shortcuts-you-didnt-know)

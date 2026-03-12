@@ -94,4 +94,11 @@ Now that you understand how to enable and customize chrome high contrast mode, y
 
 Start by enabling high contrast mode in your browser today, and adjust the settings until you find the perfect configuration for your needs. With chrome high contrast mode, the web becomes more accessible and easier to navigate, regardless of your visual requirements.
 
+
+
+## Related Articles
+- [chrome high contrast mode how to enable](/chrome-high-contrast-mode-how-to-enable)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

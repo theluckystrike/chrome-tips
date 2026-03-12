@@ -88,4 +88,11 @@ Chrome makes it straightforward to take control of your privacy. The built-in pr
 
 Take a few minutes today to run through your privacy checkup. Your future self will thank you for taking the time to protect your information now.
 
+
+
+## Related Articles
+- [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)
+- [chrome privacy sandbox what regular users should know](/chrome-privacy-sandbox-what-regular-users-should-know)
+- [Chrome Security Checkup How to Run](/chrome-security-checkup-how-to-run)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

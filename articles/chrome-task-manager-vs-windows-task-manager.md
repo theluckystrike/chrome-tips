@@ -138,4 +138,11 @@ Both tools have their place in your troubleshooting arsenal. Chrome Task Manager
 
 By understanding when to use each tool, you can quickly identify and resolve performance issues—whether they're confined to your browser or affecting your entire system.
 
+
+
+## Related Articles
+- [Chrome Task Manager Guide](/chrome-task-manager-guide)
+- [How to Use Chrome Task Manager to Find Heavy Tabs](/chrome-task-manager-find-heavy-tabs)
+- [Chrome Task Manager Shortcut Explained](/chrome-task-manager-shortcut-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

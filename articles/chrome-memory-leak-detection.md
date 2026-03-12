@@ -92,4 +92,11 @@ Whether you are a developer debugging a web application or a power user looking 
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*
+
+## Related Articles
+- [Chrome Memory Leak Fix for 2026](/chrome-memory-leak-fix-2026)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

@@ -78,3 +78,9 @@ Take a moment to think about which website you visit most often when you open yo
 Remember, you can always change your homepage later if your needs change. Chrome makes it easy to update your settings, so do not be afraid to experiment until you find what works best for you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Startup Pages How to Set](/chrome-startup-pages-how-to-set)
+- [Chrome Passkeys How to Set Up and Use](/chrome-passkeys-how-to-set-up-and-use)
+- [How to Set Chrome as Default Browser Windows 11](/how-to-set-chrome-as-default-browser-windows-11)

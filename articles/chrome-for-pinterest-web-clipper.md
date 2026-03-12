@@ -65,3 +65,9 @@ Finding the right chrome for pinterest web clipper really comes down to how you 
 The key is to start simple and add complexity only as you need it. Most people find that one or two well-chosen extensions handle everything they need for collecting and organizing Pinterest content.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome for onenote web clipper setup](/chrome-for-onenote-web-clipper-setup)
+- [Chrome for Instapaper Web Clipper](/chrome-for-instapaper-web-clipper)
+- [Chrome for Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)

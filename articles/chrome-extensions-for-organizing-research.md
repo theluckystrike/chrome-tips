@@ -89,3 +89,9 @@ Small improvements in how you organize research add up to significant time savin
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome for SEO Keyword Research Extensions](/chrome-for-seo-keyword-research-extensions)
+- [Chrome for Citation and Research Extensions](/chrome-for-citation-and-research-extensions)
+- [Chrome Extensions for Lawyers Legal Research](/chrome-extensions-for-lawyers-legal-research)

@@ -92,3 +92,9 @@ Remember that your browser is a tool to support your learning goals. The perfect
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome Best Settings for Online Meetings](/chrome-best-settings-for-online-meetings)

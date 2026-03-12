@@ -105,4 +105,11 @@ Take time to experiment with different extensions and configurations. What works
 
 Remember to periodically review which extensions you have in your side panel. Over time, we tend to accumulate extensions we no longer use, which can slow down your browser. Tools like **Tab Suspender Pro** can help you maintain awareness of your browser's overall performance and keep your setup lean.
 
+
+
+## Related Articles
+- [Chrome Extension Side Panel Tutorial](/chrome-extension-side-panel-tutorial)
+- [chrome side panel features you missed](/chrome-side-panel-features-you-missed)
+- [Chrome Side Panel Extensions Worth Using](/chrome-side-panel-extensions-worth-using)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

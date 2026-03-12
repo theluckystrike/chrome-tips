@@ -77,3 +77,9 @@ Managing your tabs efficiently can contribute to better privacy as well. Keeping
 Staying informed about the privacy features in your browser helps you make choices that align with your preferences. Chrome continues to evolve its approach to tracking, so periodically reviewing your settings ensures you remain in control of your data.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Attribution Reporting Guide](/chrome-attribution-reporting)
+- [Chrome V8 Engine What It Means for Users](/chrome-v8-engine-what-it-means-for-users)
+- [Chrome Attribution Reporting API Explained](/chrome-attribution-reporting-api-explained)

@@ -62,3 +62,9 @@ Never enter your private keys or seed phrases into a browser extension. Legitima
 Regularly review which extensions have access to your wallet addresses and revoke access for any extensions you no longer use. This is good security practice that minimizes your exposure in case an extension is ever compromised.
 
 ## Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for Fitness Tracking Dashboard](/chrome-extensions-for-fitness-tracking-dashboard)
+- [Chrome Extensions for New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)
+- [Chrome Extensions for Productivity Dashboard](/chrome-extensions-for-productivity-dashboard)

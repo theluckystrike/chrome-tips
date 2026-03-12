@@ -83,3 +83,9 @@ These chrome address bar tips and tricks take just a few minutes to learn but ca
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome for Address Bar Shortcuts Tips](/chrome-for-address-bar-shortcuts-tips)
+- [chrome bookmark bar tips and tricks](/chrome-bookmark-bar-tips-and-tricks)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)

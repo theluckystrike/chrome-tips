@@ -78,3 +78,9 @@ Knowing how to close all Chrome tabs at once is one of those skills that seems s
 If you find yourself needing to close all your tabs frequently, consider trying Tab Suspender Pro. It can help you avoid the situation altogether by keeping your tabs organized and your browser running smoothly, so you spend less time managing tabs and more time getting things done.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Save Open Tabs as Bookmarks All at Once](/chrome-save-open-tabs-as-bookmarks-all-at-once)
+- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+- [Chrome Close Other Tabs Shortcut](/chrome-close-other-tabs-shortcut)

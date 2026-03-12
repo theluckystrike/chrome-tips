@@ -176,4 +176,11 @@ Chrome's Application tab provides comprehensive tools for inspecting, debugging,
 
 The ability to simulate push notifications, test background sync, and inspect cache storage makes the Application tab an essential tool for any web developer working with service workers or Progressive Web Apps.
 
+
+
+## Related Articles
+- [Chrome Service Workers List How to View](/chrome-service-workers-list-how-to-view)
+- [Chrome Workbox Library for Service Workers](/chrome-workbox-library-for-service-workers)
+- [Chrome Service Worker Caching Strategies](/chrome-service-worker-caching-strategies)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -174,4 +174,11 @@ Take time to explore each section of the Application panel in your own projects.
 
 ---
 
+
+
+## Related Articles
+- [Chrome Recorder Panel Guide](/chrome-recorder-panel-guide)
+- [Chrome Devtools Application Panel Explained](/chrome-devtools-application-panel-explained)
+- [Chrome Side Panel Features Guide](/chrome-side-panel-features-guide)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

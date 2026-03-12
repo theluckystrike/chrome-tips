@@ -97,3 +97,9 @@ If you find yourself printing selections often, try the "Print What You Like" ex
 Give these methods a try on your next printing task. You might be surprised how much easier it is to print just what you need instead of dealing with entire pages full of stuff you never wanted in the first place.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chromebook Print From Chrome How To](/chromebook-print-from-chrome-how-to)
+- [Chrome Slow Only on My Computer Not Others: Why and How to Fix It](/chrome-slow-only-on-my-computer-not-others)
+- [Chrome Print Preview Taking Forever: Practical Solutions](/chrome-print-preview-taking-forever)

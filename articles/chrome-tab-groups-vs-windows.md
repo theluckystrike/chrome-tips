@@ -131,4 +131,11 @@ Your choice between these approaches should depend on your specific workflow and
 
 Experiment with both methods to find what works best for you. With the right organization strategy, you can take control of your tabs and make Chrome work more effectively for your needs.
 
+
+
+## Related Articles
+- [chrome tab groups advanced tips](/chrome-tab-groups-advanced-tips)
+- [chrome tab groups auto create how to set up](/chrome-tab-groups-auto-create-how-to-set-up)
+- [chrome tab groups keyboard shortcuts](/chrome-tab-groups-keyboard-shortcuts)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

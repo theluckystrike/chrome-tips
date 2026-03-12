@@ -99,3 +99,9 @@ Newer versions of Chrome include performance improvements and security fixes tha
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for News Feed Eradicator Setup](/chrome-for-news-feed-eradicator-setup)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome Extensions for News Aggregator](/chrome-extensions-for-news-aggregator)

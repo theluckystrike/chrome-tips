@@ -84,4 +84,11 @@ If you find that Chrome is running slowly and you have many notification permiss
 
 ---
 
+
+
+## Related Articles
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Badging API Explained](/chrome-badging-api-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

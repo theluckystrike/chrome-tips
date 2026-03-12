@@ -105,4 +105,11 @@ Remember to reinstall your essential extensions one at a time after resetting, s
 
 ---
 
+
+
+## Related Articles
+- [chrome new tab page how to customize](/chrome-new-tab-page-how-to-customize)
+- [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
+- [chrome for custom new tab page extensions](/chrome-for-custom-new-tab-page-extensions)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

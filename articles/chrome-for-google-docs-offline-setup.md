@@ -74,3 +74,9 @@ Setting up Chrome for Google Docs offline use is straightforward and can save yo
 Remember to review your offline documents periodically, keep your browser updated, and give yourself time to sync your work when you are back online. With these steps in place, you will be ready to work on your Google Docs even when the internet is not available.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome offline google docs how to enable](/chrome-offline-google-docs-how-to-enable)
+- [Chrome Offline Google Calendar](/chrome-offline-google-calendar)
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)

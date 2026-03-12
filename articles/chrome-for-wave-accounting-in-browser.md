@@ -83,3 +83,9 @@ Using Chrome for Wave accounting gives you flexibility and power, but getting th
 Take some time to set up your Chrome profile, pin your Wave tab, and explore which extensions work best for your needs. A few minutes of preparation can save you time and frustration every time you sit down to do your accounting. Whether you are sending invoices, tracking expenses, or running reports, Chrome provides a solid foundation for getting the job done efficiently.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [how to make chrome default browser mac](/how-to-make-chrome-default-browser-mac)
+- [Chrome vs Brave Browser Which Is Better](/chrome-vs-brave-browser-which-is-better)

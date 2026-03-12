@@ -75,4 +75,11 @@ Understanding the difference between precaching and runtime caching helps you be
 
 ---
 
+
+
+## Related Articles
+- [Chrome Service Worker Caching Strategies](/chrome-service-worker-caching-strategies)
+- [Where Are Chrome Extensions Stored? A Complete Guide to Finding Extension Files](/chrome-extensions-folder-location-files)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

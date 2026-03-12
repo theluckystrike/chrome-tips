@@ -77,3 +77,9 @@ If you have tried these steps and your browser still feels slow, consider whethe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)
+- [Does Having Many Chrome Extensions Slow Down Browser](/does-having-many-chrome-extensions-slow-down-browser)
+- [Chrome for Note Taking in Browser Extensions](/chrome-for-note-taking-in-browser-extensions)

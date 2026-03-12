@@ -83,3 +83,9 @@ Be respectful when automating tasks on websites. Avoid running automations too f
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Web Store Best Free Games](/chrome-web-store-best-free-games)
+- [Chrome for Target Web App Best Extensions](/chrome-for-target-web-app-best-extensions)

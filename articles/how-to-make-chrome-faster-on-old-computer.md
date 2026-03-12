@@ -93,3 +93,9 @@ You do not need to be technical to do any of this. Everything mentioned can be d
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one.*
+
+
+## Related Articles
+- [Chrome Flags That Actually Make It Faster: A Practical Guide for Slow Computers](/chrome-flags-that-actually-make-it-faster)
+- [Does Incognito Mode Make Chrome Faster?](/does-incognito-mode-make-chrome-faster)
+- [Chrome Crashing on Low Memory Computer](/chrome-crashing-on-low-memory-computer)

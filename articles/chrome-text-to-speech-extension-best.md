@@ -82,4 +82,11 @@ Text to speech technology has made it easier than ever to consume web content in
 
 ---
 
+
+
+## Related Articles
+- [Chrome Text to Speech Built In Feature](/chrome-text-to-speech-built-in-feature)
+- [Chrome Extension for Translating Selected Text](/chrome-extension-for-translating-selected-text)
+- [Chrome Text to Speech Built In Features](/chrome-text-to-speech-built-in-features)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

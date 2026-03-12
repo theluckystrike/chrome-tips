@@ -82,3 +82,9 @@ Chrome css custom properties explained is really about helping you work smarter,
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Custom Properties CSS Variables](/chrome-custom-properties-css-variables)
+- [Chrome Snap Scroll CSS Explained](/chrome-snap-scroll-css-explained)
+- [Chrome Subgrid CSS Explained](/chrome-subgrid-css-explained)

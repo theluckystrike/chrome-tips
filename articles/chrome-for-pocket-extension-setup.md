@@ -69,3 +69,9 @@ Setting up the Pocket extension in Chrome opens up a world of possibilities for 
 The key is to start using it regularly so it becomes a natural part of your browsing routine. The more you use Pocket, the more valuable it becomes as a centralized place for all the interesting things you find on the web.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome dark reader extension worth it](/chrome-dark-reader-extension-worth-it)
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)

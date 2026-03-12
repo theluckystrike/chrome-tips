@@ -87,3 +87,9 @@ You do not need to understand every detail of web development to use Inspect Ele
 The more you use it, the more comfortable you will become. Before long, Inspect Element will feel like a natural part of your browsing toolkit.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Inspect Element Tutorial for Beginners](/chrome-inspect-element-tutorial-for-beginners)
+- [Chrome Inspect Element for Beginners](/chrome-inspect-element-for-beginners)
+- [How to Edit Any Webpage Text Using Inspect Element](/chrome-edit-webpage-text-inspect-element)

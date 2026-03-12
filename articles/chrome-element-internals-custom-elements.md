@@ -59,4 +59,11 @@ Whether you are building your own custom elements or simply using websites that 
 
 ---
 
+
+
+## Related Articles
+- [Chrome Custom Elements Explained](/chrome-custom-elements-explained)
+- [Chrome Custom Search Engines Guide](/chrome-search-engines-custom)
+- [Chrome Inspect Element Tutorial for Beginners](/chrome-inspect-element-tutorial-for-beginners)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

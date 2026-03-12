@@ -90,4 +90,11 @@ To open Chrome settings quickly, remember these methods. Type **chrome://setting
 
 Once in settings, you can customize nearly every aspect of your Chrome browsing experience. From privacy controls to appearance preferences, the settings page puts you in control. The **chrome://settings** shortcut is the fastest way to get there whenever you need to make changes.
 
+
+
+## Related Articles
+- [Chrome Open History Page Shortcut](/chrome-open-history-page-shortcut)
+- [Chrome Open Link in New Tab Shortcut](/chrome-open-link-in-new-tab-shortcut)
+- [Chrome Open Downloads Page Shortcut](/chrome-open-downloads-page-shortcut)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

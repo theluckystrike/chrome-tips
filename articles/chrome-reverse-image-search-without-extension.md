@@ -54,3 +54,9 @@ Finally, keep in mind that finding no results does not necessarily mean the imag
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome extensions for image reverse search](/chrome-extensions-for-image-reverse-search)
+- [Chrome Extensions for Reverse Video Search](/chrome-extensions-for-reverse-video-search)
+- [Chrome Parental Controls Without Extension](/chrome-parental-controls-without-extension)

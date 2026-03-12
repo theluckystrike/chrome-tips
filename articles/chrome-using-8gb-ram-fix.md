@@ -100,4 +100,11 @@ If your computer consistently runs out of memory with Chrome open, you might wan
 
 ---
 
+
+
+## Related Articles
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Is 8GB RAM Enough for Chrome with Many Tabs?](/is-8gb-ram-enough-for-chrome-with-many-tabs)
+- [Chrome Using Swap Memory Fix](/chrome-using-swap-memory-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

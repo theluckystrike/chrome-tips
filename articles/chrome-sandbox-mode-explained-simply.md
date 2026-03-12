@@ -80,3 +80,9 @@ Tab Suspender Pro is one option that can automatically pause tabs you are not us
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
+- [chrome privacy sandbox explained simply](/chrome-privacy-sandbox-explained-simply)
+- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)

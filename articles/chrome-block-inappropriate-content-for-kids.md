@@ -86,3 +86,9 @@ Remember that no filter is 100 percent effective. The best protection comes from
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+- [Chrome Supervised Profiles for Kids](/chrome-supervised-user-profile-for-kids)
+- [How to Fix Chrome Mixed Content Warning](/chrome-mixed-content-warning-fix)

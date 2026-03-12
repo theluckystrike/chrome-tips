@@ -73,3 +73,9 @@ Chrome shortcuts in PWAs represent one of those features that not many people kn
 The next time you install a new PWA, pay attention to what shortcuts are available. You might discover quick paths to features you use all the time but never realized were just a right-click away. And if you are involved in building PWAs yourself, consider adding well-thought-out shortcuts to improve the user experience for everyone who installs your app.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome desktop shortcuts how to create](/chrome-desktop-shortcuts-how-to-create)
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)

@@ -74,3 +74,9 @@ Split screen browsing might feel unfamiliar at first, but most users find that t
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome for Real Estate Browsing Extensions](/chrome-for-real-estate-browsing-extensions)
+- [chrome extensions for screen recording free](/chrome-extensions-for-screen-recording-free)

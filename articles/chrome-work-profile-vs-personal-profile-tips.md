@@ -91,3 +91,9 @@ Setting up separate Chrome profiles for work and personal use is one of the simp
 Start with two profiles, customize them with the right extensions and bookmarks, and notice how much easier it is to find what you need when you need it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [How to Set Up Chrome Profiles for Work and Personal](/how-to-set-up-chrome-profiles-for-work-and-personal)
+- [Chrome for Work vs Personal — How to Use Separate Profiles](/chrome-for-work-vs-personal-separate-profiles)
+- [Chrome for Loom Screen Recording Tips](/chrome-for-loom-screen-recording-tips)

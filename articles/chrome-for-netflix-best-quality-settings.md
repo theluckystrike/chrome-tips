@@ -90,3 +90,9 @@ Getting the best quality from Netflix in Chrome is a combination of checking the
 Remember, you do not need to be a tech expert to get great streaming quality. Just a few simple adjustments to your settings can make a big difference in how sharp and clear your favorite shows and movies look.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for Amazon Prime Video Quality Settings](/chrome-for-amazon-prime-video-quality-settings)
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
+- [Chrome for JSFiddle Best Settings](/chrome-for-jsfiddle-best-settings)

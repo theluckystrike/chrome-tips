@@ -77,3 +77,9 @@ The chrome aw snap page crash fix doesn't have to be complicated. Most of the ti
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Translate Page Not Working Fix: Practical Solutions That Actually Work](/chrome-translate-page-not-working-fix)
+- [Chrome New Tab Page Keeps Changing Fix](/chrome-new-tab-page-keeps-changing-fix)
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)

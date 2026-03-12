@@ -76,4 +76,11 @@ This extension is particularly useful when you are shopping online because it ke
 
 By keeping your browser running smoothly, **Tab Suspender Pro** helps ensure that payment requests and other interactive elements respond quickly. This makes the checkout process less frustrating and helps you complete purchases without delays.
 
+
+
+## Related Articles
+- [chrome payment request api what users see](/chrome-payment-request-api-what-users-see)
+- [Chrome Payment Request API Guide](/chrome-payment-request-api)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

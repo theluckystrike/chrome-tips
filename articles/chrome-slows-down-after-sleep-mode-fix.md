@@ -74,3 +74,9 @@ You could also try creating a new user profile in Chrome. Sometimes a corrupted 
 As a last resort, you might want to check if there are any background processes or malware on your computer that could be affecting performance. Sometimes other programs running in the background can compete with Chrome for resources, especially after your computer wakes from sleep.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Slows Down After Opening 20 Tabs: What You Can Do](/chrome-slows-down-after-opening-20-tabs)
+- [Chrome Extensions Disappeared After Update Fix](/chrome-extensions-disappeared-after-update-fix)

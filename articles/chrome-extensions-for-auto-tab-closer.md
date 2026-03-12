@@ -82,4 +82,11 @@ Remember that managing tabs is about more than just performance. It is also abou
 
 ---
 
+
+
+## Related Articles
+- [chrome extensions for tab suspender auto](/chrome-extensions-for-tab-suspender-auto)
+- [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
+- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

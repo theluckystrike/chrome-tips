@@ -83,4 +83,11 @@ To summarize, if you are experiencing Chrome slow on work computer VPN, start by
 
 ---
 
+
+
+## Related Articles
+- [Chrome Slow Only on My Computer Not Others: Why and How to Fix It](/chrome-slow-only-on-my-computer-not-others)
+- [Best Chrome Settings for a Slow Computer](/best-chrome-settings-for-slow-computer)
+- [My Computer Is So Slow How to Fix Chrome](/my-computer-is-so-slow-how-to-fix-chrome)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

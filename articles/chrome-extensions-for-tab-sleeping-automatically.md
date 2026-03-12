@@ -65,3 +65,9 @@ You should notice a difference fairly quickly. Your browser should feel more res
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for Tab Grouping Automatically](/chrome-extensions-for-tab-grouping-automatically)
+- [Chrome Extensions for Coupon Codes Automatically](/chrome-extensions-for-coupon-codes-automatically)
+- [Chrome Extensions for Vertical Tab Bar](/chrome-extensions-for-vertical-tab-bar)

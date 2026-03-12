@@ -104,3 +104,9 @@ Being thoughtful about the information you share online and the permissions you 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [Chrome DNS Settings How to Change for Privacy](/chrome-dns-settings-how-to-change-for-privacy)
+- [chrome privacy settings complete guide 2026](/chrome-privacy-settings-complete-guide-2026)
+- [Chrome Cookie Settings for Best Privacy](/chrome-cookie-settings-best-privacy)

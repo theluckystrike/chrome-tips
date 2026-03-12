@@ -83,3 +83,9 @@ Getting started with Screencastify in Chrome is simple and rewarding. Whether yo
 Remember to keep your browser running smoothly by managing your extensions and tabs effectively. Tools that help maintain browser performance can make a noticeable difference in your recording quality and overall experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extension GDPR Compliance Guide](/chrome-extension-gdpr-compliance-guide)
+- [Chrome Extension Publish to Web Store Guide](/chrome-extension-publish-to-web-store-guide)
+- [Chrome for StayFocusd Extension Guide](/chrome-for-stayfocusd-extension-guide)

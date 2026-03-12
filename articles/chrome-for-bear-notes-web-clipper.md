@@ -79,3 +79,9 @@ Chrome for Bear Notes web clipper may not be a single click away, but with a lit
 By taking the time to set up a method that works for you and following the tips above, you can build a powerful system for capturing and organizing inspiration from across the web.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome for onenote web clipper setup](/chrome-for-onenote-web-clipper-setup)
+- [Chrome for Instapaper Web Clipper](/chrome-for-instapaper-web-clipper)
+- [Chrome for Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)

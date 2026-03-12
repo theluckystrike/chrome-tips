@@ -82,4 +82,11 @@ If you are comfortable with seeing ads that are somewhat relevant to your intere
 
 The most important thing is to understand what is happening in your browser. Now that you know more about the Protected Audience API, you can make informed decisions about whether to keep it enabled or turn it off.
 
+
+
+## Related Articles
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome Badging API Explained](/chrome-badging-api-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

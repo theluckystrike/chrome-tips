@@ -88,4 +88,11 @@ If you believe a website is misusing a permission you granted, consider clearing
 
 Keeping your Android operating system and Chrome app updated is also important, as updates often include security patches and improved privacy controls.
 
+
+
+## Related Articles
+- [Chrome Site Permissions How to Manage](/chrome-site-permissions-how-to-manage)
+- [Chrome Site Permissions How to Manage All](/chrome-site-permissions-how-to-manage-all)
+- [Chrome Android Tabs Too Many How to Manage](/chrome-android-tabs-too-many-how-to-manage)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

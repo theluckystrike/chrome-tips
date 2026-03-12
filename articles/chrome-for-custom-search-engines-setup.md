@@ -85,3 +85,9 @@ If you find yourself with too many tabs open while setting up custom search engi
 Custom search engines are one of Chrome's most powerful features for boosting productivity, and now you have everything you need to set them up and use them effectively. Give it a try with a few of your favorite websites, and you will quickly see how much time this feature can save.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Custom Search Engines Guide](/chrome-search-engines-custom)
+- [Chrome Custom Search Engines How to Add](/chrome-custom-search-engines-how-to-add)
+- [Chrome for Multiple Search Engines Switching](/chrome-for-multiple-search-engines-switching)

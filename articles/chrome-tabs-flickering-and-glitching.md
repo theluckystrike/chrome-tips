@@ -117,4 +117,11 @@ Restart Chrome regularly, especially if you notice it slowing down. A fresh brow
 
 Consider using a lighter weight browser if Chrome continues to cause problems on your limited RAM computer. However, Chrome with proper tab management through Tab Suspender Pro and Memory Saver often works well even on older machines.
 
+
+
+## Related Articles
+- [Chrome Split Screen Two Tabs Side by Side](/chrome-split-screen-two-tabs-side-by-side)
+- [Chrome Vertical Tabs How to Enable](/chrome-vertical-tabs-how-to-enable)
+- [How Many Chrome Tabs Can I Have Open](/how-many-chrome-tabs-can-i-have-open)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

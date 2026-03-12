@@ -73,3 +73,9 @@ By keeping Chrome updated, understanding the protections that are already in pla
 Your browser is your gateway to the internet, and taking a few simple steps to protect it goes a long way toward keeping your personal information safe.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [chrome fingerprinting protection explained](/chrome-fingerprinting-protection-explained)
+- [Do Chrome Extensions Slow Down Your Browser](/do-chrome-extensions-slow-down-your-browser)

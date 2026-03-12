@@ -80,4 +80,11 @@ Everyone has different needs when it comes to browsing on their phone. Some peop
 
 Start with the simplest option, which is making sure Chrome's pop-up blocker is turned on. If that is not enough, try DNS-level blocking or switch to a browser with better built-in tools. You do not need to implement every suggestion here. Just pick the ones that fit your lifestyle and your comfort level with technology.
 
+
+
+## Related Articles
+- [Chrome Pop Ups How to Block All](/chrome-pop-ups-how-to-block-all)
+- [Chrome Ads on Phone How to Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+- [How to Allow Pop Ups on One Site Chrome](/how-to-allow-pop-ups-on-one-site-chrome)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

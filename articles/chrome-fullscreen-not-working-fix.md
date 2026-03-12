@@ -105,3 +105,9 @@ As a last resort, completely uninstall Chrome and reinstall it. This ensures you
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome not working on fire tablet fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)

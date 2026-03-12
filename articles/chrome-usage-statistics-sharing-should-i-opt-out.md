@@ -88,4 +88,11 @@ Either choice is valid, and you can always change your mind later if your circum
 
 ---
 
+
+
+## Related Articles
+- [chrome high memory usage after sleep fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
+- [chrome safe browsing should i turn on](/chrome-safe-browsing-should-i-turn-on)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

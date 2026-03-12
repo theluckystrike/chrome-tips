@@ -74,4 +74,11 @@ Learning how to use tab stacking in Chrome is about finding a system that fits y
 
 The most important thing is to actually use the tools consistently rather than letting your tabs spiral out of control. Even small improvements, like grouping related tabs together or closing ones you no longer need, can make a big difference in how much easier your browsing feels. Give these approaches a try and see which combination works best for you.
 
+
+
+## Related Articles
+- [Chrome Network Tab: How to Use and Debug Network Requests](/chrome-network-tab-how-to-use-debug)
+- [Chrome Tab Search Feature How to Use](/chrome-tab-search-feature-how-to-use)
+- [Why Does Each Chrome Tab Use So Much Memory](/why-does-each-chrome-tab-use-so-much-memory)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

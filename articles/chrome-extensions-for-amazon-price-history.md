@@ -79,4 +79,11 @@ Start by trying one extension and learning how to read its price charts. Once yo
 
 ---
 
+
+
+## Related Articles
+- [Chrome Extensions for Price Tracking Amazon](/chrome-extensions-for-price-tracking-amazon)
+- [Chrome Extensions for Flight Price Alerts](/chrome-extensions-for-flight-price-alerts)
+- [Chrome Extensions for Amazon FBA Sellers](/chrome-extensions-for-amazon-fba-sellers)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

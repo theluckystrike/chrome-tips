@@ -70,4 +70,11 @@ Also consider the file size of your PDF. High-resolution images make for better-
 
 Finally, always preview your PDF before finalizing the save. The **print preview** shows you exactly what will be included, allowing you to catch any issues before creating the file. Spending an extra minute on preview can save you from having to recreate the PDF later.
 
+
+
+## Related Articles
+- [Chrome PDF Viewer Settings: Complete Customization Guide](/chrome-pdf-viewer-settings)
+- [Chrome Print to PDF Without Margins](/chrome-print-to-pdf-without-margins)
+- [Chrome Print to PDF How to Save Webpage](/chrome-print-to-pdf-how-to-save-webpage)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

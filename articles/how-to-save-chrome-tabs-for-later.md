@@ -95,3 +95,9 @@ The best approach often combines these methods. Use bookmarks for things you wan
 Try a few of these methods and see what works best for your workflow. Once you have a system for saving tabs, you'll never lose an important page again.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome save all open tabs as bookmarks](/chrome-save-all-open-tabs-as-bookmarks)
+- [Chrome Save Open Tabs as Bookmarks All at Once](/chrome-save-open-tabs-as-bookmarks-all-at-once)
+- [How to Use Chrome Read Later: Save Articles for Offline Reading](/chrome-read-later-save-articles-offline)

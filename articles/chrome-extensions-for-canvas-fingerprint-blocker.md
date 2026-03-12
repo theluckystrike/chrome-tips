@@ -69,4 +69,11 @@ Taking these steps does not require technical expertise. By installing a reliabl
 
 ---
 
+
+
+## Related Articles
+- [Chrome for Canvas LMS Best Extensions](/chrome-for-canvas-lms-best-extensions)
+- [chrome extensions for website distraction blocker](/chrome-extensions-for-website-distraction-blocker)
+- [Chrome Extensions for Website Blocker](/chrome-extensions-for-website-blocker)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

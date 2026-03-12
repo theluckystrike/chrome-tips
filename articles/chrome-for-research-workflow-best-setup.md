@@ -79,3 +79,9 @@ Taking notes directly while researching, rather than waiting until later, improv
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome for podcast web players best setup](/chrome-for-podcast-web-players-best-setup)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome for Minimalist Browsing Setup](/chrome-for-minimalist-browsing-setup)

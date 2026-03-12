@@ -129,4 +129,11 @@ The goal is to free up as much memory as possible for Google Docs to use. With f
 
 Give these fixes a try. Your patience (and your computer) will thank you.
 
+
+
+## Related Articles
+- [Chrome Google Maps Slow and Laggy Fix](/chrome-google-maps-slow-and-laggy-fix)
+- [chrome videos buffering slow fix](/chrome-videos-buffering-slow-fix)
+- [Chrome Google Search Not Working Fix](/chrome-google-search-not-working-fix)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

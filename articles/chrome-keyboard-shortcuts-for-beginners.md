@@ -95,3 +95,9 @@ As you start using more shortcuts and opening more tabs, you might notice your b
 Tab Suspender Pro is an extension that automatically suspends tabs you have not used recently, which saves memory and can speed up your browser. While it is not required for using keyboard shortcuts, it is a useful tool for keeping Chrome running smoothly when you have many tabs open. It works in the background and wakes tabs back up when you click on them, so you do not lose access to your saved pages.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Google Maps Keyboard Shortcuts](/chrome-google-maps-keyboard-shortcuts)
+- [Chrome Google Sheets Keyboard Shortcuts](/chrome-google-sheets-keyboard-shortcuts)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)

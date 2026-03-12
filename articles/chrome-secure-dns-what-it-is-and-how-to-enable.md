@@ -82,3 +82,9 @@ You might also want to review the permissions that websites have and clear your 
 Chrome Secure DNS is a simple but effective way to add a layer of privacy and security to your browsing. By encrypting your DNS requests, you make it harder for others to see which websites you visit. Enabling it takes just a few minutes and can provide peace of mind, especially when browsing on networks you do not control. Give it a try and see the difference it makes for yourself.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome DNS Over HTTPS How to Enable](/chrome-dns-over-https-how-to-enable)
+- [chrome prefetch dns how to enable](/chrome-prefetch-dns-how-to-enable)
+- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)

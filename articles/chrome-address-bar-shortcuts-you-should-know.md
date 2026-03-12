@@ -104,3 +104,9 @@ Each one shaves seconds off tasks you perform many times a day. Over a week, tha
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Address Bar Shortcuts You Didn't Know](/chrome-address-bar-shortcuts-you-didnt-know)
+- [Chrome Address Bar Commands You Didnt Know](/chrome-address-bar-commands-you-didnt-know)
+- [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)

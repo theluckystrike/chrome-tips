@@ -96,3 +96,9 @@ Now you have several ways to discover what technology any website is using. Star
 Understanding what technology a site uses can satisfy your curiosity, help you make better choices about the sites you visit, and even inspire your own web projects. The tools are already in your browser, waiting for you to explore.
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Using Too Much Battery on Laptop? Fix It Now](/chrome-using-too-much-battery-on-laptop-fix)
+- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)

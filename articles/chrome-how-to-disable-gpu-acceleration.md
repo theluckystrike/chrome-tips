@@ -78,3 +78,9 @@ Some users find that disabling GPU acceleration is all they need to do to get Ch
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome GPU Acceleration Gaming Settings](/chrome-gpu-acceleration-gaming-settings)
+- [Chrome GPU Acceleration Causing Problems Fix](/chrome-gpu-acceleration-causing-problems-fix)
+- [Chrome Hardware Acceleration Causes Problems](/chrome-hardware-acceleration-causes-problems)

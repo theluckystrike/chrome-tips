@@ -72,3 +72,9 @@ Experiment with different extensions to see what fits your workflow best. The go
 With the right extensions handling the technical details, you can devote more mental energy to what truly matters: engaging with the research itself and producing quality academic work.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for SEO Keyword Research Extensions](/chrome-for-seo-keyword-research-extensions)
+- [Chrome for Citation and Research Extensions](/chrome-for-citation-and-research-extensions)
+- [Chrome Extensions for Organizing Research](/chrome-extensions-for-organizing-research)

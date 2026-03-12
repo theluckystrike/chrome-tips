@@ -68,4 +68,11 @@ The best extension for tab management depends on your specific needs and how you
 
 Most of these extensions offer free versions with basic features, so you can try several to see which one fits your workflow best. Once you find the right tool, you will wonder how you ever managed without it.
 
+
+
+## Related Articles
+- [Chrome for Bibliography Management Extensions](/chrome-for-bibliography-management-extensions)
+- [Chrome for Time Management Extensions](/chrome-for-time-management-extensions)
+- [chrome for dual monitor tab management](/chrome-for-dual-monitor-tab-management)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

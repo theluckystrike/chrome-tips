@@ -71,3 +71,9 @@ Take a moment to explore the options in the Chrome Web Store, install a reader v
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Reader View How to Enable on Any Site](/chrome-reader-view-how-to-enable-on-any-site)
+- [Chrome Reading Mode vs Reader View Extensions](/chrome-reading-mode-vs-reader-view-extensions)
+- [chrome extensions for font changer on any website](/chrome-extensions-for-font-changer-on-any-website)

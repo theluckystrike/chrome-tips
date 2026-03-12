@@ -74,3 +74,9 @@ With these steps completed, you can proceed with your clean install confidently,
 A clean install gives you a fresh, fast browser. And with proper backup, you get to keep everything that makes Chrome feel like home.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome install as app pwa how to](/chrome-install-as-app-pwa-how-to)
+- [Chrome Profile Backup How to Save](/chrome-profile-backup-how-to-save)
+- [Chrome HTTPS First Mode Guide](/chrome-https-first-mode)

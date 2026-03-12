@@ -71,3 +71,9 @@ Chrome extensions for Google Drive can genuinely improve your experience with cl
 Remember to keep your extension list lean, only adding what you will actually use, and you will find that these small tools make a big difference in your daily productivity.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [best chrome extensions for google drive](/best-chrome-extensions-for-google-drive)
+- [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)
+- [Chrome Extensions for Google Forms](/chrome-extensions-for-google-forms)

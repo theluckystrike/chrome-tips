@@ -79,4 +79,11 @@ Regular maintenance helps prevent performance problems from building up. Clear y
 
 Using tools like the **Performance panel** and **Memory Saver**, you do not need technical expertise to keep your browser running well. A few simple habits and the right tools can make a big difference in how fast and responsive Chrome feels day to day.
 
+
+
+## Related Articles
+- [Chrome WebAuthn Explained for Regular Users](/chrome-webauthn-explained-for-regular-users)
+- [Chrome CORS Error for Regular Users](/chrome-cors-error-for-regular-users)
+- [chrome privacy sandbox what regular users should know](/chrome-privacy-sandbox-what-regular-users-should-know)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

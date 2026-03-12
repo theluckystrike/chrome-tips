@@ -79,3 +79,9 @@ Blocking ads on Chrome Android is entirely possible with the right combination o
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Ads on Phone How to Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+- [How to Block Ads on Chrome Without Extension](/how-to-block-ads-on-chrome-without-extension)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)

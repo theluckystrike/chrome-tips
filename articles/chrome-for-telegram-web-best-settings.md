@@ -84,3 +84,9 @@ If you find that Telegram Web is still using more resources than you would like 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for Slack Web App Best Settings](/chrome-for-slack-web-app-best-settings)
+- [chrome for tiktok web best settings](/chrome-for-tiktok-web-best-settings)
+- [chrome for rumble web player settings](/chrome-for-rumble-web-player-settings)

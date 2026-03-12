@@ -78,4 +78,11 @@ If you find that managing many tabs helps you stay productive, consider using to
 
 Make it a habit to check periodically or respond right away when Chrome alerts you. Your online safety is worth those few minutes of effort.
 
+
+
+## Related Articles
+- [Chrome Password Checkup Tool Guide](/chrome-password-checkup-tool)
+- [Chrome Built in Password Checkup How to Use](/chrome-built-in-password-checkup-how-to-use)
+- [how to use chrome password checkup feature](/how-to-use-chrome-password-checkup-feature)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

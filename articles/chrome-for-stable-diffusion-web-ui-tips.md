@@ -88,3 +88,9 @@ Using Chrome effectively with Stable Diffusion Web UI is all about creating the 
 A few small adjustments to how you use Chrome can make a noticeable difference in your workflow. Give these tips a try and see which ones work best for your setup.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [chrome for apple music web player tips](/chrome-for-apple-music-web-player-tips)
+- [chrome for odysee web player tips](/chrome-for-odysee-web-player-tips)
+- [Chrome for WhatsApp Web Tips and Tricks](/chrome-for-whatsapp-web-tips-and-tricks)

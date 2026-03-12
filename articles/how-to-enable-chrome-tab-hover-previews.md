@@ -68,3 +68,9 @@ Give yourself a little time to get used to the new feature. At first, you might 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
+- [Chrome Extensions for Tab Previewer Hover](/chrome-extensions-for-tab-previewer-hover)
+- [how to enable cookies in chrome](/how-to-enable-cookies-in-chrome)

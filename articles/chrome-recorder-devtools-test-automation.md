@@ -106,4 +106,11 @@ Chrome Recorder and DevTools make test automation accessible to everyone, from d
 
 Whether you are testing a simple contact form or a complex checkout flow, these tools can dramatically reduce manual testing effort and give you confidence in your application's functionality. Start small, record a few key user journeys, and gradually build out your test suite. The time you invest now will pay off with every automated test run.
 
+
+
+## Related Articles
+- [chrome devtools recorder panel how to use](/chrome-devtools-recorder-panel-how-to-use)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [How to Use Chrome DevTools Device Orientation Emulator](/chrome-devtools-device-orientation-emulator)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

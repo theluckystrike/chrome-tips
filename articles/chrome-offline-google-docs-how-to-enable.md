@@ -78,3 +78,9 @@ Finally, remember to periodically check that your offline settings remain enable
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome for Google Docs Offline Setup](/chrome-for-google-docs-offline-setup)
+- [Chrome Offline Google Calendar](/chrome-offline-google-calendar)
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)

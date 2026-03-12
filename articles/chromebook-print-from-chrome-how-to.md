@@ -76,3 +76,9 @@ Tab Suspender Pro helps by automatically putting inactive tabs to sleep to save 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [Best Chrome Settings for Chromebook — Maximize Speed and Battery](/best-chrome-settings-for-chromebook)
+- [How to Stop Chrome from Running in Background](/how-to-stop-chrome-from-running-in-background)

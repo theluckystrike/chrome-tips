@@ -78,3 +78,9 @@ Once you have the right color picker extension installed, you will wonder how yo
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for Color Palette Picker](/chrome-extensions-for-color-palette-picker)
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [chrome color picker extension best](/chrome-color-picker-extension-best)

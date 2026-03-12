@@ -71,3 +71,9 @@ While Chrome's built-in shortcuts are powerful on their own, extensions can enha
 Tab Suspender Pro also provides visual indicators that make it easier to see which tabs are active and which are suspended, helping you understand exactly what is happening in your browser. Combined with Chrome's native cycling shortcuts, this extension can help you maintain a productive workflow even when working with many open tabs.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Close Other Tabs Shortcut](/chrome-close-other-tabs-shortcut)
+- [chrome recently closed tabs shortcut](/chrome-recently-closed-tabs-shortcut)
+- [Chrome Select All Tabs Shortcut](/chrome-select-all-tabs-shortcut)

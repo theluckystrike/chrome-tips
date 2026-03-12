@@ -144,4 +144,11 @@ Remember that optimization is a process. Start with the fundamentals, measure yo
 
 ---
 
+
+
+## Related Articles
+- [How to Improve Chrome WebGL Performance](/chrome-webgl-performance-how-to-improve)
+- [Chrome Tracing for Performance Issues](/chrome-tracing-for-performance-issues)
+- [Chrome Browser Games Performance Tips](/chrome-browser-games-performance-tips)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

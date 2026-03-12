@@ -65,3 +65,9 @@ Once you install your chosen extension, spend a few minutes adding your most-vis
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Speed Dial Extensions Best](/chrome-speed-dial-extensions-best)
+- [Chrome Extensions for Website Speed Test](/chrome-extensions-for-website-speed-test)
+- [Chrome Extensions for Speed Reading](/chrome-extensions-for-speed-reading)

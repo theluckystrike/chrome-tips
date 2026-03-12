@@ -128,4 +128,11 @@ Give it a two-week trial period. If you find certain sites problematic, use the 
 
 ---
 
+
+
+## Related Articles
+- [best dark mode chrome extension](/best-dark-mode-chrome-extension)
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
+- [chrome dark mode how to enable](/chrome-dark-mode-how-to-enable)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -137,4 +137,11 @@ While "chrome lite mode does it still exist" is a question with a disappointing 
 
 Try implementing these changes one at a time to see what works best for your specific situation. If your computer still feels slow after trying these tips, consider upgrading your RAM or switching to a lighter browser designed for older hardware.
 
+
+
+## Related Articles
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
+- [chrome data saver mode is it still available](/chrome-data-saver-mode-is-it-still-available)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

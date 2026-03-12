@@ -92,3 +92,9 @@ Blurry text in Chrome on Windows is annoying, but it is usually fixable. Start w
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome High Disk Usage Fix Windows](/chrome-high-disk-usage-fix-windows)
+- [Chrome Slow on Windows 10 Old Laptop Fix](/chrome-slow-on-windows-10-old-laptop-fix)
+- [Chrome Wont Install on Windows 11 Fix](/chrome-wont-install-on-windows-11-fix)

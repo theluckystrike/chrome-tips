@@ -74,3 +74,9 @@ Whether you want a simple layout with a few quick links or a full-featured dashb
 Your new tab page does not have to be an afterthought. With a little effort, it can become a powerful tool that helps you start each browsing session focused and organized.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome Extensions for New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
+- [Chrome New Tab Opens Instead of Homepage Fix](/chrome-new-tab-opens-instead-of-homepage-fix)

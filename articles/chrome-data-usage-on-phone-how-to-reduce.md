@@ -89,3 +89,9 @@ The combination of these settings can help you get the most out of your monthly 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+## Related Articles
+- [chrome reduce data usage mobile](/chrome-reduce-data-usage-mobile)
+- [chrome reduce data usage tips](/chrome-reduce-data-usage-tips)
+- [chrome reduce data usage on mobile](/chrome-reduce-data-usage-on-mobile)

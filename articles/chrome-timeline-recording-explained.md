@@ -74,4 +74,11 @@ It also helps when Chrome has been gradually getting slower over time. By record
 
 ---
 
+
+
+## Related Articles
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Background Sync Explained: How It Works and Why It Matters](/chrome-background-sync-explained)
+- [chrome sandbox mode explained](/chrome-sandbox-mode-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

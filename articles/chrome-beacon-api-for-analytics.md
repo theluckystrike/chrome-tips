@@ -64,3 +64,9 @@ For users who are concerned about privacy, there are steps you can take to limit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+## Related Articles
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)

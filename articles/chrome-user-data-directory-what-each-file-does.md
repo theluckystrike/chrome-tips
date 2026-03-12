@@ -116,4 +116,10 @@ The Chrome User Data Directory is the backbone of your browsing experience. Each
 
 Whether you're recovering from a crash, clearing out accumulated cache, or just curious about how Chrome works, knowing your way around this directory is a valuable skill for any Chrome user.
 
+## Related Articles
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+- [Chrome Safety Check What It Does](/chrome-safety-check-what-it-does)
+- [Chrome User Agent String: What It Is and How It Works](/chrome-user-agent-string-what-it-is)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -102,4 +102,10 @@ The combination of efficient tab management with powerful workspace editing crea
 
 ---
 
+## Related Articles
+- [Chrome Recorder Panel Guide](/chrome-recorder-panel-guide)
+- [Chrome Remote Debugging Setup Guide](/chrome-remote-debugging-setup-guide)
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

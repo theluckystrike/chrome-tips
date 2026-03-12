@@ -79,4 +79,10 @@ Start with the quick fixes, enable the built-in performance features, and consid
 
 ---
 
+## Related Articles
+- [Chrome Web Vitals What They Mean](/chrome-web-vitals-what-they-mean)
+- [Chrome Incognito Mode — What It Actually Does (And What It Doesn't)](/chrome-incognito-mode-what-it-actually-does)
+- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

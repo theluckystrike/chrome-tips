@@ -109,4 +109,10 @@ Finally, consider trying a different browser to see if the problem is specific t
 
 ---
 
+## Related Articles
+- [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
+- [Chrome Not Playing Videos Fix](/chrome-not-playing-videos-fix)
+- [Chrome Slow on Surface Pro Fix](/chrome-slow-on-surface-pro-fix)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

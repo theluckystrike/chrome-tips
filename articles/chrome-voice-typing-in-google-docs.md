@@ -96,4 +96,10 @@ Open Chrome, go to Google Docs, and give voice typing a try. With a little pract
 
 ---
 
+## Related Articles
+- [Chrome Google Docs Keyboard Shortcuts](/chrome-google-docs-keyboard-shortcuts)
+- [Chrome Sign in With Google on Websites Explained](/chrome-sign-in-with-google-on-websites-explained)
+- [Chrome Google Meet Integration in Browser](/chrome-google-meet-integration-in-browser)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

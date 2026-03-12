@@ -87,3 +87,8 @@ Web apps may also sometimes lose their connection or stop working if the website
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chromebook Linux Apps How To Install](/chromebook-linux-apps-how-to-install)
+- [Chrome Web and App Activity How to Delete](/chrome-web-and-app-activity-how-to-delete)
+- [Chrome Install As App Pwa How To](/chrome-install-as-app-pwa-how-to)

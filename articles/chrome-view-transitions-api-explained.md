@@ -57,4 +57,10 @@ Looking ahead, expect to see even more sophisticated uses of this API. Developer
 
 ---
 
+## Related Articles
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Background Sync API Explained](/chrome-background-sync-api-explained)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

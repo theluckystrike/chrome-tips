@@ -69,3 +69,8 @@ The Web Serial API represents a bigger trend in web development where browsers a
 Whether you are a hobbyist looking to build your first project or someone who is simply curious about what the chrome web serial api for beginners search term reveals, there has never been a better time to explore the intersection of web technology and physical hardware. The tools are becoming more accessible, the documentation is improving, and the community is growing.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Runway ML Web App](/chrome-for-runway-ml-web-app)
+- [Chrome Web MIDI API for Musicians](/chrome-web-midi-api-for-musicians)
+- [Chrome Cache API Tutorial for Beginners](/chrome-cache-api-tutorial-for-beginners)

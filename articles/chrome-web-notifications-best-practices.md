@@ -82,3 +82,8 @@ When a website asks for notification permission, take a quick moment to decide w
 By following these practices and checking in on your settings regularly, you can enjoy the useful notifications while keeping the annoying ones at bay. Your browser should work for you, not against you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Web Push Notifications Setup Guide](/chrome-web-push-notifications-setup-guide)
+- [Chrome Web Store Best Free Games](/chrome-web-store-best-free-games)
+- [Chrome For Tiktok Web Best Settings](/chrome-for-tiktok-web-best-settings)

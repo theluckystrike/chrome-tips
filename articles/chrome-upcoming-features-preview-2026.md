@@ -67,4 +67,10 @@ The address bar, also called the omnibox, is getting smarter too. It will better
 
 ---
 
+## Related Articles
+- [Chrome Upcoming Features Roadmap 2026](/chrome-upcoming-features-roadmap-2026)
+- [Chrome Experimental Features Worth Trying 2026](/chrome-experimental-features-worth-trying-2026)
+- [Chrome Ai Features Built In 2026](/chrome-ai-features-built-in-2026)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

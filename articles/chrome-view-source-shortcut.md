@@ -73,4 +73,10 @@ The chrome view source shortcut is one of those simple but powerful features tha
 
 Next time you are curious about how a website is built, want to troubleshoot an issue, or are learning web development, remember this handy shortcut. It opens up a world of understanding about the websites you visit every day.
 
+## Related Articles
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Scroll to Top of Page Shortcut](/chrome-scroll-to-top-of-page-shortcut)
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

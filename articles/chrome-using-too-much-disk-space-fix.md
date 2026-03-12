@@ -73,4 +73,10 @@ Chrome using too much disk space is a common issue, but it is one you can solve 
 
 Give these approaches a try and see how much space you can reclaim. Your browser and your computer will thank you.
 
+## Related Articles
+- [Chrome Helper Renderer Using Too Much CPU](/chrome-helper-renderer-using-too-much-cpu)
+- [Chrome Using Too Much Disk Space: A Complete Guide](/chrome-using-too-much-disk-space)
+- [Chrome Network Process Using Too Much Memory](/chrome-network-process-using-too-much-memory)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

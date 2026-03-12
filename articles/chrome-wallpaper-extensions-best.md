@@ -76,3 +76,8 @@ If you use Tab Suspender Pro or other productivity extensions from the Zovo exte
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Best Chrome Extensions for Researchers](/best-chrome-extensions-for-researchers)
+- [Best Chrome Extensions For Youtube Power Users](/best-chrome-extensions-for-youtube-power-users)
+- [Best Chrome Extensions for Real Estate Agents](/best-chrome-extensions-for-real-estate-agents)

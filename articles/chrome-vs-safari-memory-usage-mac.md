@@ -82,4 +82,10 @@ Many Mac users find that using both browsers strategically works best. Use Safar
 
 ---
 
+## Related Articles
+- [Chrome High Memory Usage Mac Fix](/chrome-high-memory-usage-mac-fix)
+- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
+- [Chrome Reader Mode vs Safari Reader Comparison](/chrome-reader-mode-vs-safari-reader-comparison)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

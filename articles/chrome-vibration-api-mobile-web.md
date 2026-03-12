@@ -176,4 +176,10 @@ The Vibration API offers a simple yet effective way to add haptic feedback to yo
 
 Start experimenting with the Vibration API today, and discover how tactile feedback can transform your mobile web applications.
 
+## Related Articles
+- [Chrome Web Share API Explained](/chrome-web-share-api-explained)
+- [Chrome Web NFC API Guide](/chrome-web-nfc-api-guide)
+- [Chrome Web Serial Api Explained](/chrome-web-serial-api-explained)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

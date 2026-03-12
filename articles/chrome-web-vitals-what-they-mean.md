@@ -75,3 +75,8 @@ Web vitals are part of a larger effort to make the web a better place for everyo
 As a user, you benefit from this focus on web vitals because it pushes websites to improve. Over time, you should notice that more sites load faster and feel more responsive. In the meantime, using tools like Tab Suspender Pro and keeping your browser running lean can help you have a smoother experience on the web today.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Core Web Vitals Check My Website](/chrome-core-web-vitals-check-my-website)
+- [Chrome Web Vitals Optimization Guide](/chrome-web-vitals-optimization)
+- [Chrome Web Notifications Best Practices](/chrome-web-notifications-best-practices)

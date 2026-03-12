@@ -81,3 +81,8 @@ Clear your cache regularly. You do not need to do this every day, but doing it o
 Stay updated. Keep Chrome updated, and make sure your operating system is current as well. Updates often include performance improvements and bug fixes that can help with video playback.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Right Click Not Working on Some Sites Fix](/chrome-right-click-not-working-on-some-sites-fix)
+- [Chrome Slow After Hibernation Fix](/chrome-slow-after-hibernation-fix)
+- [Google Docs Slow in Chrome Fix: Practical Solutions for Slow Computers](/google-docs-slow-in-chrome-fix)

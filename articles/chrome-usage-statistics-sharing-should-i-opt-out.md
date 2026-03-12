@@ -87,4 +87,10 @@ Either choice is valid, and you can always change your mind later if your circum
 
 ---
 
+## Related Articles
+- [How Often Should I Clear Chrome Cache](/how-often-should-i-clear-chrome-cache)
+- [Chrome Hardware Acceleration Should I Turn On or Off](/chrome-hardware-acceleration-should-i-turn-on-or-off)
+- [Chrome High Memory Usage After Sleep Fix](/chrome-high-memory-usage-after-sleep-fix)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

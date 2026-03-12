@@ -85,4 +85,10 @@ Some extensions might interfere with translation. If translation suddenly stops 
 
 ---
 
+## Related Articles
+- [Chrome AirPlay Support How to Use](/chrome-airplay-support-how-to-use)
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+- [Chrome AI Summarize Feature How to Use](/chrome-ai-summarize-feature-how-to-use)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

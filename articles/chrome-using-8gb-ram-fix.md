@@ -99,4 +99,10 @@ If your computer consistently runs out of memory with Chrome open, you might wan
 
 ---
 
+## Related Articles
+- [Chrome This Site Cant Be Reached Fix](/chrome-this-site-cant-be-reached-fix)
+- [Chrome Using Swap Memory Fix](/chrome-using-swap-memory-fix)
+- [Chrome Using 100 Percent CPU Fix Windows](/chrome-using-100-percent-cpu-fix-windows)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

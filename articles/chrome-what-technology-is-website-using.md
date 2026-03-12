@@ -95,3 +95,8 @@ Now you have several ways to discover what technology any website is using. Star
 Understanding what technology a site uses can satisfy your curiosity, help you make better choices about the sites you visit, and even inspire your own web projects. The tools are already in your browser, waiting for you to explore.
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Shadow DOM What It Is](/chrome-shadow-dom-what-it-is)
+- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for)
+- [Chrome Utility Process What Is It](/chrome-utility-process-what-is-it)

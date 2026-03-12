@@ -71,4 +71,10 @@ Third, practice with a few common symbols until the methods become natural. The 
 
 ---
 
+## Related Articles
+- [Chrome Downloads Folder How to Change Location](/chrome-downloads-folder-how-to-change-location)
+- [Chrome Send Feedback to Google How to](/chrome-send-feedback-to-google-how-to)
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

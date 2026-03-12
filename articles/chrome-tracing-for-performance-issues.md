@@ -80,4 +80,10 @@ If you use many extensions, tracing can reveal which ones are consuming resource
 
 ---
 
+## Related Articles
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+- [Chrome Performance Api For Measuring Speed](/chrome-performance-api-for-measuring-speed)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

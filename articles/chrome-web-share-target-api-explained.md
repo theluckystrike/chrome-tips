@@ -74,3 +74,8 @@ Chrome continues to add features that make the web feel more connected to your d
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Web Codecs API Explained](/chrome-web-codecs-api-explained)
+- [Chrome Web MIDI API Explained](/chrome-web-midi-api-explained)
+- [Chrome Web Serial Api Explained](/chrome-web-serial-api-explained)

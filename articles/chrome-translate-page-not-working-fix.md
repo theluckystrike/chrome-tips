@@ -129,4 +129,10 @@ Most "chrome translate page not working" issues come down to a few common causes
 
 Start by checking your translation settings, then refresh the page and clear the cache. If that doesn't work, check for extension conflicts and make sure Chrome is up to date. With these steps, you'll get Chrome's translation feature working again and be able to understand foreign language pages without hassle.
 
+## Related Articles
+- [Chrome Drag and Drop Not Working Fix](/chrome-drag-and-drop-not-working-fix)
+- [Chrome Keyboard Shortcuts Not Working Fix](/chrome-keyboard-shortcuts-not-working-fix)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

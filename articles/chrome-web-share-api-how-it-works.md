@@ -69,3 +69,8 @@ Chrome continues to lead in implementing web APIs that make browsing more capabl
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome PWA Update Mechanism How It Works](/chrome-pwa-update-mechanism-how-it-works)
+- [Chrome Web Nfc How It Works](/chrome-web-nfc-how-it-works)
+- [Chrome Live Caption How It Works](/chrome-live-caption-how-it-works)

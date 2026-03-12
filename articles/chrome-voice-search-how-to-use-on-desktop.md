@@ -80,4 +80,10 @@ If you ever need help with Chrome or want to learn more about other useful featu
 
 ---
 
+## Related Articles
+- [Chrome Family Link How to Use on Desktop](/chrome-family-link-how-to-use-on-desktop)
+- [Chrome Mobile View on Desktop How to](/chrome-mobile-view-on-desktop-how-to)
+- [Chrome Desktop Mode on Phone How to Use](/chrome-desktop-mode-on-phone-how-to-use)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

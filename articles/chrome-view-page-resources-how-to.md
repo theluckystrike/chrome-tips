@@ -66,4 +66,10 @@ Tab Suspender Pro is one option that automatically suspends inactive tabs, meani
 
 ---
 
+## Related Articles
+- [How to Use Chrome Translate Page](/chrome-translate-page-how-to-use)
+- [Chrome Reader View How to Enable on Any Site](/chrome-reader-view-how-to-enable-on-any-site)
+- [Chrome New Tab Page How To Customize](/chrome-new-tab-page-how-to-customize)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

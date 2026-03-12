@@ -82,4 +82,10 @@ Staying aware of major changes, keeping your extensions updated, and using tools
 
 ---
 
+## Related Articles
+- [Chrome AI Powered History Search: Smarter Ways to Find Your Browsing Past](/chrome-ai-powered-history-search)
+- [Chrome Flags Reset How to Undo Changes](/chrome-flags-reset-how-to-undo-changes)
+- [Chrome Portable Version How To Get](/chrome-portable-version-how-to-get)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

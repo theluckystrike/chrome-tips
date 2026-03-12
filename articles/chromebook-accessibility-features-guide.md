@@ -75,3 +75,8 @@ The best approach to Chromebook accessibility is to explore the features that ma
 Chromebooks are designed to be accessible to everyone, and the built-in tools make this possible without any additional cost. Take advantage of these features to get the most out of your device.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chromebook File Manager Tips And Tricks](/chromebook-file-manager-tips-and-tricks)
+- [Chrome Side Panel Features Guide](/chrome-side-panel-features-guide)
+- [Chrome Accessibility Features You Didn't Know About](/chrome-accessibility-features-you-didnt-know-about)

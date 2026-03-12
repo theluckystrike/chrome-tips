@@ -77,3 +77,8 @@ Chrome youtube keyboard shortcuts are a simple but powerful way to improve your 
 The best part is that you do not need to learn all of them at once. Start with the basics, gradually add more to your repertoire, and consider extensions like Tab Suspender Pro to help manage your open tabs. Your future self will thank you for the smoother, more efficient YouTube sessions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Google Docs Keyboard Shortcuts](/chrome-google-docs-keyboard-shortcuts)
+- [Chrome Tab Groups Keyboard Shortcuts](/chrome-tab-groups-keyboard-shortcuts)
+- [Chrome Keyboard Shortcuts for Power Users](/chrome-keyboard-shortcuts-for-power-users)

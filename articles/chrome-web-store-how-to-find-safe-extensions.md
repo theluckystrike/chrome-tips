@@ -82,3 +82,8 @@ Finding safe extensions in the Chrome Web Store does not require technical knowl
 Start by checking the reviews and update history before installing anything. Make sure the permissions make sense for what the extension claims to do. Keep only the extensions you really need, and stay aware of how they are behaving. These small steps add up to a much safer browsing experience.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Check If Chrome Extension Is Safe](/how-to-check-if-chrome-extension-is-safe)
+- [How to Find Chrome Extensions That Slow Down Browser](/how-to-find-chrome-extensions-that-slow-down-browser)
+- [How To Enable Chrome Enhanced Safe Browsing](/how-to-enable-chrome-enhanced-safe-browsing)

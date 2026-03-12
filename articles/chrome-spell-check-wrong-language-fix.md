@@ -1,9 +1,9 @@
----
+--- 
 layout: post
 title: "Chrome Spell Check Wrong Language Fix"
-description: "You are typing an email or filling out a form in Chrome and the red squiggly lines are showing up under words that are actually spelled correctly. Or maybe y..."
+description: "You are typing an email or filling out a form in Chrome and the red squiggly lines are showing up under words that are actually spelled correctly. Or maybe"
 date: "2025-03-15"
-last_modified_at: "2026-03-12"
+last_modified_at: '2026-03-12'
 permalink: "chrome-spell-check-wrong-language-fix"
 categories: 
 tags: 
@@ -78,6 +78,6 @@ If you continue to have issues after trying these steps, you might want to consi
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
 
 ## Related Articles
-* [Chrome Multiple Users on Same Computer Setup](/articles/chrome-multiple-users-on-same-computer-setup/)
-* [Chrome Extensions for iMacros Alternative](/articles/chrome-extensions-for-imacros-alternative/)
-* [Chrome WebAssembly Debugging Guide](/articles/chrome-wasm-debugging-guide/)
+* [Chrome Address Bar Not Working Fix](/articles/chrome-address-bar-not-working-fix/)
+* [Chrome for Google Analytics in Browser](/articles/chrome-for-google-analytics-in-browser/)
+* [Chrome Save Page as Shortcut](/articles/chrome-save-page-as-shortcut/)

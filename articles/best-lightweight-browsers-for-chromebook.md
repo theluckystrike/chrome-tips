@@ -14,7 +14,7 @@ tags:
 - best-browser
 - chromebook-tips
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: best-lightweight-browsers-for-chromebook
 ---
 # Best Lightweight Browsers for Chromebook

@@ -13,7 +13,7 @@ tags:
 - chrome-fix
 - browser-settings
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-address-bar-not-showing-full-url-fix
 ---
 # Chrome Address Bar Not Showing Full URL Fix

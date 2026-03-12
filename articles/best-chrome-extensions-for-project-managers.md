@@ -12,7 +12,7 @@ tags:
 - project-managers
 - browser-tools
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-project-managers
 ---
 # Best Chrome Extensions for Project Managers

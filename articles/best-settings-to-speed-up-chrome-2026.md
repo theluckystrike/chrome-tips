@@ -15,7 +15,7 @@ tags:
 - speed-up-chrome
 - chrome-memory
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: best-settings-to-speed-up-chrome-2026
 ---
 # Best Settings to Speed Up Chrome 2026

@@ -15,7 +15,7 @@ tags:
 - chrome-extension
 - browser-performance
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: best-tab-suspender-to-save-memory-2026
 ---
 # Best Tab Suspender to Save Memory 2026

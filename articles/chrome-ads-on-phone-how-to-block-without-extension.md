@@ -14,7 +14,7 @@ tags:
 - phone-browser
 - privacy
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-ads-on-phone-how-to-block-without-extension
 ---
 # Chrome Ads on Phone How to Block Without Extension

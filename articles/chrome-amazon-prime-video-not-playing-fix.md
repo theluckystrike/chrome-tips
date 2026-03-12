@@ -14,7 +14,7 @@ tags:
 - streaming-issues
 - browser-troubleshooting
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-amazon-prime-video-not-playing-fix
 ---
 # Chrome Amazon Prime Video Not Playing Fix: Complete Troubleshooting Guide

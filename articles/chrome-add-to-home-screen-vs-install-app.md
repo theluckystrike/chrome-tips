@@ -15,7 +15,7 @@ tags:
 - pwa
 - mobile-apps
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-add-to-home-screen-vs-install-app
 ---
 # Chrome Add to Home Screen vs Install App

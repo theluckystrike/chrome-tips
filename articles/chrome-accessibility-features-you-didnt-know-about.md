@@ -15,7 +15,7 @@ tags:
 - high-contrast
 - keyboard-navigation
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-accessibility-features-you-didnt-know-about
 ---
 # Chrome Accessibility Features You Didn't Know About

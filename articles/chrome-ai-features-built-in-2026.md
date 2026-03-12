@@ -16,7 +16,7 @@ tags:
 - browser-features
 - 2026
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-ai-features-built-in-2026
 ---
 # Chrome AI Features Built in 2026

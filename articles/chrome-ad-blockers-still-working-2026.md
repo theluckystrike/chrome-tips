@@ -14,7 +14,7 @@ tags:
 - browser
 - 2026
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-ad-blockers-still-working-2026
 ---
 # Chrome Ad Blockers Still Working 2026

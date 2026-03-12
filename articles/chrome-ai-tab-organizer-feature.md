@@ -14,7 +14,7 @@ tags:
 - tab-management
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-ai-tab-organizer-feature
 ---
 # Chrome AI Tab Organizer Feature: A Complete Guide

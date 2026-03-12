@@ -16,7 +16,7 @@ tags:
 - productivity
 - streaming
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-youtube-power-users
 ---
 # Best Chrome Extensions for YouTube Power Users

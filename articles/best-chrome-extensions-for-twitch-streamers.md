@@ -14,7 +14,7 @@ tags:
 - streamers
 - browser-tools
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-twitch-streamers
 ---
 # Best Chrome Extensions for Twitch Streamers

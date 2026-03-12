@@ -14,7 +14,7 @@ tags:
 - privacy
 - tracking
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-ad-personalization-how-to-turn-off
 ---
 # Chrome Ad Personalization How to Turn Off

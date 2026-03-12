@@ -14,7 +14,7 @@ tags:
 - security
 - tracker-blocker
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: best-privacy-chrome-extensions-2026
 ---
 # Best Privacy Chrome Extensions 2026

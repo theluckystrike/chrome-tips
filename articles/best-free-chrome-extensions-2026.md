@@ -13,7 +13,7 @@ tags:
 - productivity
 - browser-tools
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: best-free-chrome-extensions-2026
 ---
 # Best Free Chrome Extensions 2026

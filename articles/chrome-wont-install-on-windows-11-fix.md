@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Wont Install on Windows 11 Fix"
-description: "Chrome wont install on Windows 11? Learn why this happens and simple solutions to get Chrome working on your PC."
+description: "Chrome wont install on Windows 11? Learn why this happens and simple solutions to get Chrome working on your PC. Read more to optimize your experience."
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-wont-install-on-windows-11-fix
 categories: [troubleshooting, installation]
 tags: [chrome-wont-install, chrome-windows-11-fix, browser-installation, windows-11-chrome-problems]
 author: theluckystrike
 ---
+
 
 # Chrome Wont Install on Windows 11 Fix
 

@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Tab Search Shortcut Explained"
-description: "Discover how to quickly find any open tab in Chrome using built-in shortcuts and simple techniques to manage your browser more efficiently."
+description: "Discover how to quickly find any open tab in Chrome using built-in shortcuts and simple techniques to manage your browser more efficiently. Read more to optimiz"
 date: 2025-03-09
+last_modified_at: 2026-03-10
+permalink: chrome-tab-search-shortcut-explained
 categories: [productivity, tips]
 tags: [tabs, chrome-tips, browser-management, shortcuts]
 author: theluckystrike
 ---
+
 
 # Chrome Tab Search Shortcut Explained
 

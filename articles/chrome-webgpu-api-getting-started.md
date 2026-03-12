@@ -1,25 +1,15 @@
 ---
 layout: default
-title: Chrome WebGPU API Getting Started Guide
-description: Learn how to get started with Chrome WebGPU API for high-performance
-  graphics and compute. Covering GPU compute, shader modules, render pipelines, and
-  canvas rendering.
+title: "Chrome WebGPU API Getting Started Guide"
+description: "Learn how to get started with Chrome WebGPU API for high-performance Read more to optimize your experience. Discover essential tips for 2026."
 date: 2026-01-20
-categories:
-- development
-- webgpu
-- graphics
-tags:
-- webgpu
-- chrome
-- graphics
-- gpu
-- compute-shader
-- web-development
+last_modified_at: 2026-03-11
+permalink: chrome-webgpu-api-getting-started
+categories: 
+tags: 
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /chrome-webgpu-api-getting-started/
 ---
+
 
 # Chrome WebGPU API Getting Started Guide
 

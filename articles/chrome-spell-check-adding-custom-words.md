@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Spell Check Adding Custom Words"
-description: "Learn how to add custom words to Chrome spell check so it stops marking them as misspelled. Simple steps for everyday users."
+description: "Learn how to add custom words to Chrome spell check so it stops marking them as misspelled. Simple steps for everyday users. Read more to optimize your experien"
 date: 2025-03-15
+last_modified_at: 2026-03-10
+permalink: chrome-spell-check-adding-custom-words
 categories: [features, troubleshooting]
 tags: [spellcheck, customization, chrome-tips]
 author: theluckystrike
 ---
+
 
 # Chrome Spell Check Adding Custom Words
 

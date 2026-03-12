@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome Telemetry What Data Google Collects"
-description: "Discover what data Google collects through Chrome telemetry and how to manage these privacy settings."
+description: "Discover what data Google collects through Chrome telemetry and how to manage these privacy settings. Read more to optimize your experience. Discover essential "
 date: 2026-01-15
+last_modified_at: 2026-03-10
+permalink: chrome-telemetry-what-data-google-collects
 categories: [privacy, security]
 tags: [chrome, telemetry, privacy, google, data-collection]
 author: theluckystrike
 ---
+
 
 # Chrome Telemetry What Data Google Collects
 

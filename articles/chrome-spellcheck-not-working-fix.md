@@ -3,12 +3,13 @@ layout: default
 title: "Chrome Spellcheck Not Working? Here's How to Fix It"
 description: "Fix Chrome's spellcheck when it stops underlining misspelled words. Troubleshoot language settings, enhanced spellcheck, and extension conflicts. Read more to o"
 date: 2025-03-15
-last_modified_at: 2026-03-10
+last_modified_at: 2026-03-12
 permalink: chrome-spellcheck-not-working-fix
 categories: [troubleshooting, features]
 tags: [spellcheck, chrome-fix, spelling, writing-tools]
 author: theluckystrike
 ---
+
 
 
 # Chrome Spellcheck Not Working? Here's How to Fix It

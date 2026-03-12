@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Chrome View Page Source: What It Tells You"
-description: "Discover what viewing page source in Chrome reveals about websites, including HTML, metadata, hidden comments, and debugging secrets."
+description: "Discover what viewing page source in Chrome reveals about websites, including HTML, metadata, hidden comments, and debugging secrets. Read more to optimize your"
 date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: chrome-view-page-source-what-it-tells-you
 categories: [browsers, chrome, developer-tools]
 tags: [chrome, page-source, html, developer-tools, debugging]
 author: theluckystrike
 ---
+
 
 # Chrome View Page Source: What It Tells You
 

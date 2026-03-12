@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "How to Set Up Parental Controls on Your Chromebook"
-description: "A complete guide to setting up parental controls on Chromebooks. Learn how to create supervised accounts, set screen time limits, and filter content."
+description: "A complete guide to setting up parental controls on Chromebooks. Learn how to create supervised accounts, set screen time limits, and filter content. Read more "
 date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: chromebook-parental-controls-setup
 categories: [chromebook, security, tutorials]
 tags: [chromebook, parental-controls, family, safety, google-family-link]
 author: theluckystrike
 ---
+
 
 # How to Set Up Parental Controls on Your Chromebook
 

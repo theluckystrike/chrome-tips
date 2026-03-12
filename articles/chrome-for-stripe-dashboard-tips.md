@@ -140,3 +140,9 @@ Working efficiently with Stripe is largely about knowing the right techniques an
 >>>>>>> consumer/a52-chrome-for-stripe-dashboard-tips
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Classroom Integration Tips For Teachers](/chrome-classroom-integration-tips-for-teachers)
+- [Chrome Extensions For Fitness Tracking Dashboard](/chrome-extensions-for-fitness-tracking-dashboard)
+- [Chrome Extensions For New Tab Dashboard](/chrome-extensions-for-new-tab-dashboard)

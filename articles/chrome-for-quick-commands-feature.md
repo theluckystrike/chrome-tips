@@ -79,3 +79,9 @@ The chrome for quick commands feature is one of those things that is easy to ove
 Give it a try for a few days. Pick one or two commands that match what you actually do in your browser, practice them until they feel natural, and then expand from there. You might find that these small shortcuts make Chrome feel like a completely different browser, one that responds to what you want almost before you finish typing.
 
 ---
+
+
+### Related Articles
+- [Chrome Extensions For Quick Notes Sidebar](/chrome-extensions-for-quick-notes-sidebar)
+- [Chrome For W3Schools Quick Reference Extension](/chrome-for-w3schools-quick-reference-extension)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)

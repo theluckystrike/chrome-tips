@@ -77,3 +77,9 @@ Chrome for mouse gestures extensions is a great way to boost your browsing speed
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Extensions For Mouse Gestures Navigation](/chrome-extensions-for-mouse-gestures-navigation)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+- [Best Chrome Extensions For Accountants](/best-chrome-extensions-for-accountants)

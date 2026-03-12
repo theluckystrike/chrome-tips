@@ -93,3 +93,9 @@ To check for updates, open the extensions management page in Chrome and look for
 You should also periodically check your OneNote account to make sure your clips are syncing properly. If you notice any sync issues, try signing out of the extension and signing back in to refresh the connection.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Notion Web Clipper Setup](/chrome-for-notion-web-clipper-setup)
+- [Chrome For Obsidian Web Clipper Setup](/chrome-for-obsidian-web-clipper-setup)
+- [Chrome For Anki Web Flashcards Setup](/chrome-for-anki-web-flashcards-setup)

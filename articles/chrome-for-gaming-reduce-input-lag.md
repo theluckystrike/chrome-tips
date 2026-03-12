@@ -53,3 +53,9 @@ An outdated version of Chrome may have performance issues that contribute to inp
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Best Settings For Gaming](/chrome-best-settings-for-gaming)
+- [Chrome For Cloud Gaming Best Settings](/chrome-for-cloud-gaming-best-settings)
+- [Chrome For Stylus And Pen Input Settings](/chrome-for-stylus-and-pen-input-settings)

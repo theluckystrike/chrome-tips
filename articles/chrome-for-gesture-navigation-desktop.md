@@ -57,3 +57,9 @@ As you become more comfortable with gesture navigation, you will likely find you
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Extensions For Mouse Gestures Navigation](/chrome-extensions-for-mouse-gestures-navigation)
+- [Chrome Gesture Navigation On Android](/chrome-gesture-navigation-on-android)
+- [Chrome Gesture Navigation](/chrome-gesture-navigation)

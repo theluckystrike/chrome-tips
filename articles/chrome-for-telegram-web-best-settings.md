@@ -79,3 +79,9 @@ If you find that Telegram Web is still using more resources than you would like 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Edx Web App Best Settings](/chrome-for-edx-web-app-best-settings)
+- [Chrome For Instacart Web App Best Settings](/chrome-for-instacart-web-app-best-settings)
+- [Chrome For Outlook Web Best Settings](/chrome-for-outlook-web-best-settings)

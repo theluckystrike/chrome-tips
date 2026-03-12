@@ -67,3 +67,9 @@ If you use Chrome for both personal and work purposes, consider creating a separ
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Edx Web App Best Settings](/chrome-for-edx-web-app-best-settings)
+- [Chrome For Instacart Web App Best Settings](/chrome-for-instacart-web-app-best-settings)
+- [Chrome For Quizlet Web App Best Settings](/chrome-for-quizlet-web-app-best-settings)

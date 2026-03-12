@@ -73,3 +73,9 @@ Start with one extension and give it a fair trial before trying others. Building
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Extensions For Pomodoro Timer](/chrome-extensions-for-pomodoro-timer)
+- [Chrome Extensions For Study Timer](/chrome-extensions-for-study-timer)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)

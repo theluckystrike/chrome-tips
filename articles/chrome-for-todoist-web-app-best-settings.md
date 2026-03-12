@@ -81,3 +81,9 @@ Go to Settings and click Sync and Google services. Make sure "Sync" is turned on
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Edx Web App Best Settings](/chrome-for-edx-web-app-best-settings)
+- [Chrome For Instacart Web App Best Settings](/chrome-for-instacart-web-app-best-settings)
+- [Chrome For Quizlet Web App Best Settings](/chrome-for-quizlet-web-app-best-settings)

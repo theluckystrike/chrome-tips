@@ -71,3 +71,9 @@ Remember that translation is a tool, not a replacement for learning a language. 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Best Chrome Extensions For Language Learning](/best-chrome-extensions-for-language-learning)
+- [Chrome Extensions For Language Learning](/chrome-extensions-for-language-learning)
+- [Chrome Extensions For Text Comparison Diff Tool](/chrome-extensions-for-text-comparison-diff-tool)

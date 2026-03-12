@@ -1,6 +1,9 @@
+[2026-03-12 22:07:03] [m15]   Title too long: 61 chars (max 60)
+[2026-03-12 22:07:18] [m15]   Title shortened: "Best Tab Hibernation Extensions: Save Resources" (47 chars)
+[2026-03-12 22:07:18] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "Best Tab Hibernation Extensions: Save Resources Automatically"
+title: "Best Tab Hibernation Extensions: Save Resources"
 description: "Discover the top 5 alternatives to Chrome's Memory Saver. Tab Suspender Pro leads with advanced automation and 4.9★ rating for seamless tab hibernation."
 date: 2026-03-12
 last_modified_at: 2026-03-12

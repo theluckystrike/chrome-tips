@@ -73,4 +73,10 @@ The key is to find the combination of tools and habits that works best for your 
 
 Take some time to experiment with these alternatives. Most of them are free to try, and you can easily switch between them until you find the setup that feels right. The disappearance of Lite Mode was unfortunate, but the alternatives that have emerged provide more control and customization than ever before.
 
+## Related Articles
+
+- [Chrome Android Tips To Save Data](/chrome-tips/chrome-android-tips-to-save-data/)
+- [How to Reduce Chrome Data Usage on Slow Connection](/chrome-tips/reduce-chrome-data-usage-on-slow-connection/)
+- [chrome data saver mode how to reduce data usage](/chrome-tips/chrome-data-saver-mode-how-to-reduce-data-usage/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -75,4 +75,10 @@ Improving your Chrome Lighthouse performance score is a straightforward process 
 
 Remember, Lighthouse is not just a score. It is a reflection of how fast and reliable your website truly is. By investing time in performance today, you are setting your site up for better engagement, higher conversions, and improved search visibility tomorrow.
 
+## Related Articles
+
+- [chrome web vitals explained simply](/chrome-tips/chrome-web-vitals-explained-simply/)
+- [How to Check Website Speed in Chrome](/chrome-tips/how-to-check-website-speed-in-chrome/)
+- [Chrome Lighthouse Audit Complete Guide](/chrome-tips/chrome-lighthouse-audit-guide/)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

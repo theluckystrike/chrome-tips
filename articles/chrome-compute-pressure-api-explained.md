@@ -1,13 +1,14 @@
 ---
-layout: post
 title: "Chrome Compute Pressure API Explained: What It Means for Your Browser"
-description: "Learn what Chrome Compute Pressure API does, how it affects your browsing, and what you can do about this feature."
-date: 2026-03-09
-categories: [features, performance]
-tags: [chrome-compute-pressure, browser-performance, chrome-api, resource-management]
+description: "Learn what Chrome Compute Pressure API does, how it affects your browsing, and what you can do about this feature. Read our full guide to master your Chrome bro"
+date: "2026-03-09"
+last_modified_at: "%Y->-"
+permalink: "chrome-compute-pressure-api-explained"
+layout: post
+categories: ['features', 'performance']
+tags: ['chrome-compute-pressure', 'browser-performance', 'chrome-api', 'resource-management']
 author: theluckystrike
 ---
-
 # Chrome Compute Pressure API Explained: What It Means for Your Browser
 
 If you have ever noticed your browser running slower when you have many tabs open, the chrome compute pressure api explained in this guide will help you understand why this happens. Google Chrome includes a feature called the Compute Pressure API that allows websites to detect how hard your computer is working. This article will walk you through what this API does, why it exists, how websites use it, and what you can do about it.

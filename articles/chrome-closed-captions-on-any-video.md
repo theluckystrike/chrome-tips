@@ -1,23 +1,14 @@
 ---
+title: "Chrome Closed Captions on Any Video"
+description: "Learn how to enable closed captions on any video in Chrome. Simple methods to add subtitles to videos that do not have them built in. Read our full guide to mas"
+date: "2025-03-12"
+last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
+permalink: "chrome-closed-captions-on-any-video"
 layout: post
-title: Chrome Closed Captions on Any Video
-description: Learn how to enable closed captions on any video in Chrome. Simple methods
-  to add subtitles to videos that do not have them built in.
-date: 2025-03-12
-categories:
-- features
-- accessibility
-tags:
-- closed-captions
-- subtitles
-- accessibility
-- video
-- chrome-features
+categories: ['features', 'accessibility']
+tags: ['closed-captions', 'subtitles', 'accessibility', 'video', 'chrome-features']
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: /chrome-closed-captions-on-any-video/
 ---
-
 # Chrome Closed Captions on Any Video
 
 If you have ever been watching a video in Chrome and wished you could turn on subtitles but found that the video did not have any captions available, chrome closed captions on any video is a skill worth learning. While many video platforms like YouTube and Netflix include their own caption options, many other websites and video players do not offer this feature. Fortunately, there are several ways to add captions to videos in Chrome, even when the video itself does not support them.

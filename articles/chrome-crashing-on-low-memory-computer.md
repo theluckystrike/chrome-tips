@@ -1,13 +1,14 @@
 ---
-layout: post
 title: "Chrome Crashing on Low Memory Computer"
-description: "Is Chrome constantly crashing on your computer with limited RAM? Learn practical solutions to fix Chrome crashes caused by low memory and get your browser working again."
-date: 2026-01-15
-categories: [performance, troubleshooting]
-tags: [chrome-crash, low-memory, chrome-fix, browser-troubleshooting]
+description: "Is Chrome constantly crashing on your computer with limited RAM? Learn practical solutions to fix Chrome crashes caused by low memory and get your browser wo..."
+date: "2026-01-15"
+last_modified_at: "%Y->-"
+permalink: "chrome-crashing-on-low-memory-computer"
+layout: post
+categories: ['performance', 'troubleshooting']
+tags: ['chrome-crash', 'low-memory', 'chrome-fix', 'browser-troubleshooting']
 author: theluckystrike
 ---
-
 # Chrome Crashing on Low Memory Computer
 
 If your **Chrome crashing on low memory computer** keeps happening, you know how frustrating it is when your browser suddenly closes without warning. The good news is that there are practical steps you can take to stop these crashes and get Chrome running smoothly again.

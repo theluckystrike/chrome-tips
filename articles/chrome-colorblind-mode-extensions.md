@@ -1,13 +1,14 @@
 ---
-layout: post
 title: "chrome colorblind mode extensions"
 description: "Find the best chrome colorblind mode extensions to make websites more visible. Learn about color filters, contrast tools, and accessibility extensions."
-date: 2026-01-15
-categories: [extensions, accessibility, colorblind]
-tags: [chrome-extension, colorblind, accessibility, color-filter, vision]
+date: "2026-01-15"
+last_modified_at: "%Y->-"
+permalink: "chrome-colorblind-mode-extensions"
+layout: post
+categories: ['extensions', 'accessibility', 'colorblind']
+tags: ['chrome-extension', 'colorblind', 'accessibility', 'color-filter', 'vision']
 author: theluckystrike
 ---
-
 # Chrome Colorblind Mode Extensions
 
 If you have been searching for chrome colorblind mode extensions, you know how challenging it can be to find tools that actually help make websites easier to see. Color blindness affects millions of people, and many websites are designed with color combinations that can be difficult or impossible to distinguish for those with red-green, blue-yellow, or complete color blindness. The good news is that there are extensions specifically designed to address these challenges and make your browsing experience much more comfortable.

@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "chrome devtools dark theme how to enable"
-description: "Learn how to enable dark theme in Chrome DevTools. Simple steps to switch your developer tools to a comfortable dark mode."
+title: Chrome Devtools Dark Theme How To Enable
+description: Learn how to enable dark theme in Chrome DevTools. Simple steps to switch
+  your developer tools to a comfortable dark mode. Learn how to optimize your browser...
 date: 2026-03-09
-categories: [features, devtools, customization]
-tags: [devtools, dark-theme, chrome-settings, developer-tools, theme]
+categories:
+- features
+- devtools
+- customization
+tags:
+- devtools
+- dark-theme
+- chrome-settings
+- developer-tools
+- theme
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-devtools-dark-theme-how-to-enable
 ---
-
 # Chrome DevTools Dark Theme How to Enable
 
 If you have been searching for chrome devtools dark theme how to enable, you probably spend time working with Chrome's developer tools and find the bright default appearance hard on your eyes. This is a common issue that many developers and web designers face. The good news is that switching Chrome DevTools to a dark theme is simple and only takes a few seconds.

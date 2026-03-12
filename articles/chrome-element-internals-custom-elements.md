@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "Chrome Element Internals and Custom Elements: A Complete Guide"
-description: "Discover how Chrome element internals work with custom elements to create powerful, encapsulated web components."
+title: 'Chrome Element Internals and Custom Elements: A Complete Guide'
+description: Discover how Chrome element internals work with custom elements to create
+  powerful, encapsulated web components. Learn how to optimize your browser today
+  for...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-element-internals-custom-elements
 ---
-
 If you have ever explored the Chrome DevTools and wondered how the browser manages custom web components behind the scenes, you are diving into the fascinating world of Chrome element internals and custom elements. These two technologies work together to enable modern web development, and understanding them can help you build better websites or troubleshoot issues more effectively.
 
 ## Understanding Chrome Element Internals

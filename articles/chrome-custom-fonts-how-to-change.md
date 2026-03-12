@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Chrome Custom Fonts How to Change"
-description: "Learn how to change custom fonts in Chrome with simple settings and extensions for a personalized browsing experience."
+title: Chrome Custom Fonts How to Change
+description: Learn how to change custom fonts in Chrome with simple settings and extensions
+  for a personalized browsing experience. Learn how to optimize your browser tod...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-custom-fonts-how-to-change
 ---
-
 Chrome custom fonts how to change is something many people want to know when they want to personalize how text looks in their browser. Whether you find the default font hard to read or simply want a more personalized browsing experience, there are several ways to customize the fonts Chrome uses to display text on websites.
 
 ## Understanding Chrome Font Settings

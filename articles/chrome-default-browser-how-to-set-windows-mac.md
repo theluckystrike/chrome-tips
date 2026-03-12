@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "chrome default browser how to set windows mac"
-description: "Learn how to set Chrome as your default browser on Windows and Mac with step-by-step instructions for each operating system."
+title: Chrome Default Browser How To Set Windows Mac
+description: Learn how to set Chrome as your default browser on Windows and Mac with
+  step-by-step instructions for each operating system. Learn how to optimize your
+  brows...
 date: 2026-01-15
-categories: [browser, tutorial]
-tags: [chrome, default-browser, windows, mac, tutorial]
+categories:
+- browser
+- tutorial
+tags:
+- chrome
+- default-browser
+- windows
+- mac
+- tutorial
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-default-browser-how-to-set-windows-mac
 ---
-
 # Chrome Default Browser How to Set Windows Mac
 
 Setting Chrome as your default browser is one of the first things most people do after installing Google's popular browser. Whether you are using Windows or Mac, having your preferred browser set as the default ensures that all links open in Chrome automatically, whether you click them in an email, a document, or another application. This guide will walk you through the process for both Windows and Mac operating systems, making it easy to configure Chrome as your default browser.

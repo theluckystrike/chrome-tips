@@ -2,7 +2,8 @@
 layout: post
 title: 'Chrome Default Apps Settings: A Complete Guide'
 description: Learn how to manage Chrome default apps settings, configure how Chrome
-  handles different file types and links, and optimize your browser experience.
+  handles different file types and links, and optimize your browser experience. Learn
+  ho...
 date: 2026-01-15
 categories:
 - chrome
@@ -14,9 +15,8 @@ tags:
 - chrome-configuration
 author: theluckystrike
 last_modified_at: '2026-03-11'
-permalink: /chrome-default-apps-settings/
+permalink: chrome-default-apps-settings
 ---
-
 # Chrome Default Apps Settings: A Complete Guide
 
 Chrome default apps settings control how your browser handles various types of content, from email links to calendar appointments. Understanding and configuring these settings can significantly improve your browsing efficiency and ensure that links open in your preferred applications. Whether you want PDF files to open in a specific reader or links to open in apps other than Chrome, this guide will walk you through everything you need to know.

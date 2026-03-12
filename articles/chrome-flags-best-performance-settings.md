@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Chrome Flags Best Performance Settings
 description: Discover the best Chrome flags for performance settings to make your
   browser faster and more efficient. Learn how to optimize your browser today for
@@ -62,4 +62,4 @@ If you find yourself with too many open tabs, consider installing an extension l
 
 Give these suggestions a try and see how much difference they can make. A faster browser means less waiting and more doing, whether you are working on important projects or just browsing for fun.
 
-Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -5,7 +5,7 @@ description: Discover Chrome extensions that help organize travel itineraries, b
   and trip plans all in one place. Check out our expert recommendations and tips to
   e
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-travel-itinerary-extensions
 categories:
 - travel
@@ -17,6 +17,7 @@ tags:
 - browser
 author: theluckystrike
 ---
+
 # Chrome for Travel Itinerary Extensions
 
 If you are planning a trip and looking for chrome for travel itinerary extensions, you have plenty of options to choose from. Managing flight confirmations, hotel bookings, activity schedules, and travel documents can quickly become overwhelming, but the right browser extensions can help you keep everything organized and easily accessible.

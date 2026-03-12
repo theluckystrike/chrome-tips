@@ -4,9 +4,10 @@ title: 'Chrome Interaction to Next Paint Explained: What It Means for You'
 description: Learn what chrome interaction to next paint (INP) means, why it affects
   your browsing experience, and how to optimize Chrome for better responsiveness.
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-interaction-to-next-paint-explained
 ---
+
 Chrome interaction to next paint explained simply means understanding how quickly your browser responds when you click, type, or scroll on any website. This metric, known as INP (Interaction to Next Paint), directly impacts how fast and responsive Chrome feels during your everyday browsing. Whether you are filling out forms, clicking buttons, or navigating through web apps, INP determines the delay between your action and what you see on screen.
 
 ## What Exactly Is Interaction to Next Paint

@@ -13,9 +13,10 @@ tags:
 - theme
 - appearance
 author: theluckystrike
-last_modified_at: '%Y->- (origin/fix/lastmod-batch-4)'
-permalink: /chrome-dark-mode-how-to-enable/
+last_modified_at: '2026-03-12'
+permalink: chrome-dark-mode-how-to-enable
 ---
+
 # Chrome Dark Mode How to Enable
 
 If you have ever found yourself searching for chrome dark mode how to enable, you are not alone. Many Chrome users want to switch to a darker appearance but are not sure where to find the setting or how it works. This guide will walk you through every way to enable dark mode in Chrome, whether you are using it on a computer, Mac, or mobile device.

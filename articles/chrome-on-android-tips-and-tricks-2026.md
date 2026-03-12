@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Chrome on Android — Tips and Tricks for 2026"
-description: "Get more from Chrome on Android. Speed tricks, hidden features, gesture..............................................................................."
-date: "2026-03-10"
+title: "Chrome on Android \u2014 Tips and Tricks for 2026"
+description: Get more from Chrome on Android. Speed tricks, hidden features, gesture...............................................................................
+date: '2026-03-10'
 last_modified_at: '2026-03-12'
-permalink: "chrome-on-android-tips-and-tricks-2026"
-categories: 
-tags: 
+permalink: chrome-on-android-tips-and-tricks-2026
+categories: null
+tags: null
 author: theluckystrike
 ---
+
 # Chrome on Android — Tips and Tricks for 2026
 
 Chrome on Android has a lot more going on than most people realize. Beyond basic browsing, there are gesture shortcuts, hidden settings, and features that can transform your mobile browsing experience. Here are the best tips for 2026.

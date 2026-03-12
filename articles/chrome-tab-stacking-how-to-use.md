@@ -11,6 +11,7 @@ categories: '[productivity, tips]'
 tags: '[tabs, tab-management, chrome-tips, browser-organization]'
 author: theluckystrike
 ---
+
 # Chrome Tab Stacking How to Use
 
 If you are wondering how to use tab stacking in Chrome to get your browser under control, you have come to the right place. Many Chrome users struggle with having too many tabs open at once, and the good news is that there are practical ways to organize them effectively. Tab stacking is one approach that can help you group related tabs together so they are easier to manage and find when you need them.

@@ -11,6 +11,7 @@ categories: '[features, productivity]'
 tags: '[fullscreen, shortcuts, toggle, keyboard, chrome-features]'
 author: theluckystrike
 ---
+
 # Chrome Toggle Fullscreen Shortcut
 
 If you are searching for the chrome toggle fullscreen shortcut, you probably want a quick way to switch between fullscreen and normal view in your browser. Whether you are watching videos, giving a presentation, or just want more screen space, knowing how to toggle fullscreen in Chrome is a useful skill that takes just a moment to learn.

@@ -5,7 +5,7 @@ description: Master Chrome's built-in screenshot tool with full page capture, ar
   selection, node screenshots via DevTools, and more. Learn all the methods Chrome
   offers.
 date: '2026-01-20'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-built-in-screenshot-tool
 categories:
 - tips
@@ -18,6 +18,7 @@ tags:
 - screen-capture
 author: theluckystrike
 ---
+
 # Chrome Built-In Screenshot Tool
 
 When you need to capture what's on your screen, you might immediately think of third-party screenshot tools or browser extensions. However, Google Chrome comes equipped with a powerful set of built-in screenshot capabilities that can handle most situations without installing anything extra. Whether you need to capture an entire webpage, a specific section, or even individual elements from a page, Chrome has you covered.

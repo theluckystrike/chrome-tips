@@ -15,8 +15,9 @@ tags:
 - sync
 author: theluckystrike
 permalink: chrome-sign-out-of-google-without-losing-data
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # How to Sign Out of Google in Chrome Without Losing Your Data
 
 Many Chrome users find themselves in a tricky situation: they need to sign out of their Google account in the browser, but they're worried about losing important data like bookmarks, saved passwords, browsing history, or extensions. Whether you're handing your computer to someone else, using a shared device, or simply want to keep your personal account separate from work, this guide will walk you through the process safely.

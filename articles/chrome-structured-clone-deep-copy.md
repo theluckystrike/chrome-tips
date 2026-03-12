@@ -5,9 +5,10 @@ description: Learn how Chrome's structured clone algorithm works and how to perf
   gu
 permalink: chrome-structured-clone-deep-copy
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 layout: post
 ---
+
 If you've ever tried to copy a complex JavaScript object only to find that changes to the copy unexpectedly modify the original, you've encountered the difference between shallow and deep copying. Chrome's structured clone algorithm provides a powerful solution for creating true deep copies of data, and understanding how it works can save you from countless debugging headaches.
 
 ## What Is Structured Clone?

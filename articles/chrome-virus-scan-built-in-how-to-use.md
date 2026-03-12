@@ -8,6 +8,7 @@ date: '2026-01-01'
 last_modified_at: '2026-03-12'
 permalink: chrome-virus-scan-built-in-how-to-use
 ---
+
 Chrome virus scan built in how to use is something many Chrome users wonder about. You have probably downloaded a file from the internet and wondered whether Chrome can check it for viruses before you open it. The good news is that Chrome has built-in protection features that help keep you safe from malicious files, and understanding how these work can give you peace of mind while browsing.
 
 Google Chrome includes several security features that run automatically in the background. These features are designed to protect you from downloading harmful files, visiting dangerous websites, and encountering phishing attempts. While Chrome is not a full antivirus program, it does provide a valuable first layer of defense against many common threats you might encounter while browsing the internet.

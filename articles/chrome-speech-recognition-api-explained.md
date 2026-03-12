@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Chrome Speech Recognition API Explained"
-description: "Learn what the Chrome Speech Recognition API is, how it works, and how................................................................................"
-date: "2025-03-12"
+title: Chrome Speech Recognition API Explained
+description: Learn what the Chrome Speech Recognition API is, how it works, and how................................................................................
+date: '2025-03-12'
 last_modified_at: '2026-03-12'
-permalink: "chrome-speech-recognition-api-explained"
-categories: 
-tags: 
+permalink: chrome-speech-recognition-api-explained
+categories: null
+tags: null
 author: theluckystrike
 ---
+
 # Chrome Speech Recognition API Explained
 
 If you have ever searched for "chrome speech recognition api explained," you might have been curious about how Chrome can understand what you say or convert your voice into text. This feature is more relevant to your daily browsing than you might realize, and understanding how it works can help you make the most of voice features in Chrome.

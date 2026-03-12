@@ -6,8 +6,9 @@ description: Explore practical Chrome subgrid layout examples that demonstrate h
   CSS s...
 permalink: chrome-subgrid-layout-examples
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Subgrid Layout Examples
 
 CSS Subgrid is one of the most powerful layout features to arrive in modern browsers, and Chrome has full support for it. If you have been struggling with nested grid alignments or want to create complex layouts where child elements inherit parent grid tracks, subgrid is the solution you need. This guide walks through practical Chrome subgrid layout examples that you can use in your projects today.

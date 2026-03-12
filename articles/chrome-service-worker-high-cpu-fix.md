@@ -14,8 +14,9 @@ tags:
 - chrome-fix
 author: theluckystrike
 permalink: chrome-service-worker-high-cpu-fix
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
+
 If you are searching for a chrome service worker high cpu fix, you probably noticed your browser is running slower than usual, your computer fan is working overtime, or your battery is draining fast. Service workers are background scripts that help websites load faster and work offline, but when they malfunction, they can cause exactly these problems. The good news is that you can identify and fix service worker-related CPU issues without being a technical expert.
 
 ## What Is a Service Worker

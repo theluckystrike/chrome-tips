@@ -15,8 +15,9 @@ tags:
 - browser-tips
 author: theluckystrike
 permalink: chrome-right-click-not-working-on-some-sites-fix
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Right Click Not Working on Some Sites Fix
 
 Chrome right click not working on some sites fix is a common issue that many Chrome users encounter. You might notice that right-click works perfectly fine in most websites, but on certain pages, the context menu simply won't appear. This selective behavior can be particularly frustrating, especially when you need to copy text, open links in new tabs, or access other options. Understanding why this happens on some sites but not others is key to finding the right solution.

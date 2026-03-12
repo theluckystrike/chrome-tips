@@ -11,6 +11,7 @@ categories: '[productivity, tips]'
 tags: '[tabs, tab-overload, productivity, chrome-tips]'
 author: theluckystrike
 ---
+
 # How to Stop Opening Too Many Tabs
 
 If you keep asking yourself how to stop opening too many tabs, you are dealing with one of the most common browser habits that frustrates millions of people every day. You are not alone in this struggle, and the good news is that there are practical ways to break the pattern and regain control of your browsing experience.

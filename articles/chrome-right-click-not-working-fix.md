@@ -15,8 +15,9 @@ tags:
 - browser-tips
 author: theluckystrike
 permalink: chrome-right-click-not-working-fix
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Right Click Not Working Fix
 
 Chrome right click not working is one of those annoying problems that can really slow down your workflow. You try to open a link in a new tab, copy some text, or access browser options, but nothing happens when you right-click. This issue can occur for various reasons, and understanding what causes it is the first step toward getting your right-click functionality back. Let's explore why this happens and what you can do to fix it.

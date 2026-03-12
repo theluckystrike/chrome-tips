@@ -5,9 +5,10 @@ description: Learn how to set up DNS over HTTPS in Chrome to encrypt your browsi
   queries, improve privacy, and speed up your web experience. Explore our comprehensive
   ...
 date: 2026-01-15
-last_modified_at: 2026-03-11
+last_modified_at: '2026-03-12'
 permalink: chrome-dns-over-https-setup
 ---
+
 # Chrome DNS Over HTTPS Setup
 
 If you have ever typed a website address into your browser and wondered exactly how your computer finds that website, you have encountered the Domain Name System, or DNS. This system acts like the internet's phone book, translating human-readable website names into numerical IP addresses that computers use to communicate. Traditionally, these DNS queries have been sent in plain text, meaning anyone between your computer and the DNS server could potentially see which websites you are visiting. Setting up chrome dns over https encrypts these queries, adding a layer of privacy and security to your browsing. This guide will walk you through the entire process of enabling DNS over HTTPS in Google Chrome.

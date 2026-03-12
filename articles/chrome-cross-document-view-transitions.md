@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "Chrome Cross-Document View Transitions: A Complete Guide"
-description: "Learn how Chrome's cross-document view transitions work and how to implement smooth page transitions in your web apps."
+title: 'Chrome Cross-Document View Transitions: A Complete Guide'
+description: Learn how Chrome's cross-document view transitions work and how to implement
+  smooth page transitions in your web apps.
 date: 2026-01-16
-categories: [chrome, web-development, view-transitions]
-tags: [chrome-view-transitions, web-api, css, animation, browser]
+categories:
+- chrome
+- web-development
+- view-transitions
+tags:
+- chrome-view-transitions
+- web-api
+- css
+- animation
+- browser
 author: theluckystrike
+permalink: chrome-cross-document-view-transitions
+last_modified_at: '2026-03-12'
 ---
-
 # Chrome Cross-Document View Transitions: A Complete Guide
 
 Chrome's cross-document view transitions represent one of the most exciting advancements in modern web development. This feature allows developers to create smooth, animated transitions between different pages of a website, something that was previously only possible with heavy JavaScript libraries or single-page application frameworks. If you have ever wanted your website to feel more like a native app with seamless page changes, view transitions might be exactly what you need.
@@ -69,3 +79,10 @@ Third, test on real devices, not just emulators. Animation performance can vary 
 While you are exploring Chrome's modern features, consider using extensions that can improve your browsing workflow. **Tab Suspender Pro** is a tool that automatically suspends tabs you are not using, reducing memory usage and keeping your browser running smoothly. It pairs well with modern Chrome features and helps you get the most out of your browser.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [Chrome CSS Nesting Ampersand Syntax](/articles/chrome-css-nesting-ampersand-syntax/)
+* [Chrome View Transition API: Smooth Animations Within a Single Page](/articles/chrome-view-transition-same-document/)
+* [Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover Placement](/articles/chrome-anchor-positioning-css/)

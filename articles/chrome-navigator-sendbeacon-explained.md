@@ -5,9 +5,10 @@ description: Learn what navigator.sendBeacon does in Chrome, how it works, and w
   it matters for your browsing experience. Learn effective tips and tricks to optimize
   yo...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-navigator-sendbeacon-explained
 ---
+
 Chrome navigator sendbeacon explained is a topic that comes up when people notice unusual network activity in their browser or when developers are trying to understand how websites track user behavior. If you have ever looked at your browser's network activity and seen requests being sent to servers even when you are not actively clicking on anything, you might have encountered sendBeacon in action. This feature is more common than you might think, and understanding it can help you make sense of what happens behind the scenes when you browse the web.
 
 ## What Navigator SendBeacon Actually Does

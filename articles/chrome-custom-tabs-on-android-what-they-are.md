@@ -12,9 +12,10 @@ tags:
 - custom-tabs
 - mobile-browser
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-custom-tabs-on-android-what-they-are/
+last_modified_at: '2026-03-12'
+permalink: chrome-custom-tabs-on-android-what-they-are
 ---
+
 # Chrome Custom Tabs on Android What They Are
 
 If you have ever clicked a link in an app on your Android phone and noticed that it opens in a special browser window that looks almost like the regular Chrome browser but is clearly part of something else, then you have encountered Chrome Custom Tabs. This feature is more common than you might think, and understanding what they are can help you become a more informed mobile browser user.

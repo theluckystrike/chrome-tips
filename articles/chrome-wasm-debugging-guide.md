@@ -5,12 +5,13 @@ description: Master WebAssembly debugging in Chrome with DWARF info, source maps
   memory inspector, and Emscripten. Practical tips for developers. Read our comprehensive
   ...
 date: '2026-01-20'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-wasm-debugging-guide
 categories: '[development, webassembly, debugging]'
 tags: '[webassembly, debugging, chrome-devtools, wasm, emscripten, dwarf]'
 author: theluckystrike
 ---
+
 # Chrome WebAssembly Debugging Guide
 
 WebAssembly has transformed web development by enabling near-native performance for complex applications. Whether you are building computationally intensive graphics applications, games, or porting existing C and C++ code to the web, WebAssembly (Wasm) provides the speed and reliability that JavaScript alone cannot always deliver. However, debugging WebAssembly code has traditionally been challenging, leaving many developers struggling to diagnose issues in their compiled binaries. Chrome has made significant strides in this area, offering a powerful suite of debugging tools that can make your development workflow much smoother.

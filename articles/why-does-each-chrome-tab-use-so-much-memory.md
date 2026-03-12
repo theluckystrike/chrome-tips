@@ -11,6 +11,7 @@ categories: '[performance, memory]'
 tags: '[chrome-memory, browser-performance, tab-management]'
 author: theluckystrike
 ---
+
 # Why Does Each Chrome Tab Use So Much Memory
 
 If you have ever wondered why does each Chrome tab use so much memory, you are not alone. This is one of the most common complaints from Chrome users, and the answer lies in how Chrome was designed to keep your browsing experience stable and secure.

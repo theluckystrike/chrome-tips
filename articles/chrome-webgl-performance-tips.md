@@ -1,14 +1,22 @@
 ---
 layout: default
 title: Chrome WebGL Performance Tips for Smoother Graphics
-description: Learn practical Chrome WebGL performance tips to optimize your browser's graphics rendering, reduce lag, and get the most out of WebGL applications.
+description: Learn practical Chrome WebGL performance tips to optimize your browser's
+  graphics rendering, reduce lag, and get the most out of WebGL applications.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-webgl-performance-tips
-categories: [performance, graphics]
-tags: [chrome-webgl, webgl-performance, graphics-rendering, browser-graphics]
+categories:
+- performance
+- graphics
+tags:
+- chrome-webgl
+- webgl-performance
+- graphics-rendering
+- browser-graphics
 author: theluckystrike
 ---
+
 
 # Chrome WebGL Performance Tips for Smoother Graphics
 

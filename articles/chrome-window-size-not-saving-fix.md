@@ -11,6 +11,7 @@ categories: '[troubleshooting, interface]'
 tags: '[chrome-window, window-size, browser-settings, resize-problem]'
 author: theluckystrike
 ---
+
 # Chrome Window Size Not Saving Fix
 
 If you are searching for a chrome window size not saving fix, you probably feel frustrated that Chrome keeps forgetting your preferred window size every time you reopen the browser. You set up your browser window perfectly, close it, and then next time you open Chrome, it has reverted to a different size or position. This is a surprisingly common problem that can happen for several reasons, and the good news is that it is usually fixable.

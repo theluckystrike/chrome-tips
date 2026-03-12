@@ -13,9 +13,10 @@ tags:
 - content-filtering
 - chrome-for-families
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-block-inappropriate-content-for-kids
 ---
+
 # Chrome Block Inappropriate Content for Kids
 
 If you are wondering how to chrome block inappropriate content for kids, you are not alone. Many parents want to create a safer browsing experience for their children when they use Google Chrome. The good news is that there are several effective ways to filter out content you do not want your kids to see, ranging from built-in Google tools to helpful browser extensions.

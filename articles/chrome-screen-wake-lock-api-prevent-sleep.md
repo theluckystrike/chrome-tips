@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Keep Your Screen Awake Using Chrome Screen Wake Lock API
-description: Learn how to use the Chrome Screen Wake Lock API to prevent your screen from sleeping during important tasks. A practical guide for developers and users.
+description: Learn how to use the Chrome Screen Wake Lock API to prevent your screen
+  from sleeping during important tasks. A practical guide for developers and users.
 permalink: chrome-screen-wake-lock-api-prevent-sleep
 categories:
 - chrome
@@ -14,8 +15,8 @@ tags:
 - browser-api
 - javascript
 author: theluckystrike
+last_modified_at: '2026-03-12'
 ---
-
 # How to Keep Your Screen Awake Using Chrome Screen Wake Lock API
 
 There are moments when you need your computer screen to stay on no matter what. Maybe you're following a long recipe while cooking, giving a presentation without a projector, or monitoring a process that takes hours to complete. Whatever the reason, watching your screen suddenly go dark in the middle of something important is frustrating. Fortunately, Chrome offers a built-in solution called the Screen Wake Lock API that keeps your display awake programmatically.
@@ -102,3 +103,10 @@ Also, test your implementation across different devices and operating systems. W
 The Chrome Screen Wake Lock API provides a powerful way to prevent your screen from sleeping during important tasks. Whether you're building a web application or just want to keep your display on while working, this API offers a straightforward solution that works across modern browsers. By following the implementation patterns outlined here, you can create more reliable and user-friendly experiences for anyone who needs their screen to stay awake.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [Chrome NFC API: Web NFC Explained](/articles/chrome-nfc-api-web-nfc-explained/)
+* [Chrome Vibration API: A Complete Guide for Mobile Web Developers](/articles/chrome-vibration-api-mobile-web/)
+* [Chrome MediaRecorder API Guide](/articles/chrome-mediarecorder-api-guide/)

@@ -19,6 +19,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-anydo-web-app-setup
 ---
+
 If you are looking for chrome for any.do web app setup, you probably want to get the most out of using Any.do in your browser. Any.do is a popular task management tool that helps people organize their daily activities, and setting it up properly in Chrome can make a real difference in how productive you are. This guide walks you through everything you need to know to optimize Chrome for using Any.do effectively.
 
 ## Why Use Any.do in Chrome

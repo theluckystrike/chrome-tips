@@ -10,6 +10,7 @@ categories: '[performance, cpu]'
 tags: '[chrome-cpu, browser-performance, tab-management]'
 author: theluckystrike
 ---
+
 # Chrome Which Tab Is Using Most CPU How to Find
 
 If you are wondering chrome which tab is using most cpu how to find, you have likely experienced a slowdown in your browser or noticed your computer fan spinning loudly. This happens when certain tabs consume more processing power than others, and identifying these resource-hungry tabs is the first step to getting your browser running smoothly again.

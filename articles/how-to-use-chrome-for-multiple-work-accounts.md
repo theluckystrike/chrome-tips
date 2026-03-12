@@ -8,6 +8,7 @@ date: '2026-01-01'
 last_modified_at: '2026-03-12'
 permalink: how-to-use-chrome-for-multiple-work-accounts
 ---
+
 If you have ever wondered how to use Chrome for multiple work accounts, you are not alone. Many people today work for more than one company, manage freelance clients on the side, or handle different business roles within the same organization. Trying to juggle all of these accounts in a single browser window leads to constant logging out and logging back in, accidentally posting to the wrong account, and a general sense of chaos. Fortunately, Chrome offers a built-in feature called profiles that makes handling multiple work accounts surprisingly simple.
 
 The problem is that Chrome, by default, treats all your browsing as coming from one place. When you log into your Gmail for Company A and then need to check your Gmail for Company B, you either have to log out of one and log into the other, or you end up using incognito windows that do not remember your preferences. Neither approach is efficient, and both create friction in your workday.

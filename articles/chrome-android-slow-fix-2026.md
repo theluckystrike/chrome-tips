@@ -15,9 +15,10 @@ tags:
 - chrome-slow
 - mobile-browser
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-android-slow-fix-2026
 ---
+
 # Chrome Android Slow Fix 2026
 
 If Chrome on your Android phone feels sluggish, loads pages slowly, or keeps crashing, you are not alone. Many Android users are experiencing the same issue in 2026, and there are several reasons why this happens. The good news is that most of these problems have straightforward solutions that you can try right now.

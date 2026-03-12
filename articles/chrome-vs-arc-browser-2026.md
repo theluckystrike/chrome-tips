@@ -5,12 +5,13 @@ description: 'Compare Chrome vs Arc Browser in 2026: discover differences in Spa
   split view, sidebar, and productivity features. Find which browser best suits your
   wor...'
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-arc-browser-2026
 categories: '[browser, productivity, comparison]'
 tags: '[chrome, arc-browser, browser-comparison, spaces, split-view, productivity]'
 author: theluckystrike
 ---
+
 # Chrome vs Arc Browser 2026
 
 The browser landscape has evolved dramatically in recent years, and 2026 marks a pivotal moment for users deciding between the established giant Google Chrome and the innovative challenger Arc Browser. While Chrome continues to dominate the market with its familiar interface and extensive extension ecosystem, Arc Browser has emerged as a compelling alternative for users seeking a more organized, productivity-focused browsing experience. This comprehensive comparison examines the key differences between Chrome vs Arc Browser 2026, focusing on Spaces, split view capabilities, sidebar functionality, and productivity features that can transform how you work online.

@@ -16,6 +16,7 @@ tags:
 - browser-tools
 author: theluckystrike
 ---
+
 # Chrome Service Workers List How to View
 
 Chrome service workers list how to view is a question that comes up for many users who notice their browser running slower than expected or who want to understand what is happening behind the scenes. Service workers are small programs that run in the background of your browser, helping websites load faster, send notifications, and work offline. While they serve useful purposes, having too many active service workers can sometimes cause unexpected behavior or use up your computer's resources.

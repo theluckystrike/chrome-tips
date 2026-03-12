@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome V8 JavaScript Engine Explained
-description: What is Chrome V8 JavaScript engine and how does it work? Learn how this powerful engine powers your browsing experience and affects performance.
+description: What is Chrome V8 JavaScript engine and how does it work? Learn how this
+  powerful engine powers your browsing experience and affects performance.
 date: 2026-03-12
 categories:
 - browser-basics
@@ -15,6 +16,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-v8-javascript-engine-explained
 ---
+
 
 # Chrome V8 JavaScript Engine Explained
 

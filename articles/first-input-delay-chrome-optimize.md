@@ -1,7 +1,8 @@
 ---
 layout: default
 title: First Input Delay Chrome Optimize
-description: Learn what First Input Delay is, why it affects your Chrome experience, and practical steps to reduce it for a faster, more responsive browser.
+description: Learn what First Input Delay is, why it affects your Chrome experience,
+  and practical steps to reduce it for a faster, more responsive browser.
 date: 2025-03-12
 last_modified_at: '2026-03-12'
 permalink: first-input-delay-chrome-optimize
@@ -16,6 +17,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 ---
+
 
 # First Input Delay Chrome Optimize
 

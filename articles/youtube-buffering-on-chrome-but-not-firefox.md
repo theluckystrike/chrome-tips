@@ -5,12 +5,13 @@ description: Is YouTube buffering on Chrome but playing smoothly in Firefox? Thi
   guide explains why this happens and provides practical solutions for computers with
   limi...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: youtube-buffering-on-chrome-but-not-firefox
 categories: '[performance, troubleshooting]'
 tags: '[youtube, buffering, chrome, firefox, slow-computer, low-ram]'
 author: theluckystrike
 ---
+
 # YouTube Buffering on Chrome But Not Firefox: Why and How to Fix It
 
 You're watching YouTube in Firefox and everything works fine. But when you switch to Chrome, the same video keeps buffering every few seconds. This is a common problem, especially on computers with limited RAM or slower processors. The good news is that there are clear reasons this happens and practical steps you can take to fix it.

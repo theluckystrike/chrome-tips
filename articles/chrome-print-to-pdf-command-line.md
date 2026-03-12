@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Print to PDF Command Line
-description: Learn how to use Chrome print to PDF from command line for automated web-to-PDF conversion. Complete guide with examples and practical use cases.
+description: Learn how to use Chrome print to PDF from command line for automated
+  web-to-PDF conversion. Complete guide with examples and practical use cases.
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-print-to-pdf-command-line
@@ -18,7 +19,6 @@ tags:
 - headless
 author: theluckystrike
 ---
-
 # Chrome Print to PDF Command Line
 
 If you need to convert web pages to PDF files automatically, Chrome offers powerful command-line options that can handle this without opening the browser window. The chrome print to PDF command line feature lets you script web-to-PDF conversions, making it useful for developers, content managers, and anyone who regularly needs to save web pages as formatted documents.
@@ -150,3 +150,10 @@ To begin using chrome print to PDF from command line, start with the basic comma
 The learning curve is gentle, and the payoff comes quickly. Even a simple script that saves three or four important pages automatically each week can save significant time over months of manual work.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [Chrome Screenshot Command Line Batch: Complete Automation Guide](/articles/chrome-screenshot-command-line-batch/)
+* [Chrome PDF Settings Print to PDF How to](/articles/chrome-pdf-settings-print-to-pdf-how-to/)
+* [Chrome Print to PDF How to Save Webpage](/articles/chrome-print-to-pdf-how-to-save-webpage/)

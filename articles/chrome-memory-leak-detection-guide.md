@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Memory Leak Detection Guide
-description: A practical guide to detecting memory leaks in Chrome browser using DevTools. Learn heap snapshots, allocation timeline, and proven troubleshooting techniques.
+description: A practical guide to detecting memory leaks in Chrome browser using DevTools.
+  Learn heap snapshots, allocation timeline, and proven troubleshooting techniques.
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-memory-leak-detection-guide
@@ -16,7 +17,6 @@ tags:
 - browser-performance
 author: theluckystrike
 ---
-
 # Chrome Memory Leak Detection Guide
 
 Memory leaks in Chrome can silently degrade your browsing experience, causing tabs to become unresponsive, websites to load slowly, and your entire system to feel sluggish. Learning how to identify and fix these leaks is essential for anyone who wants to keep their browser running smoothly. This guide walks you through practical methods to detect memory leaks using Chrome's built-in developer tools.
@@ -82,3 +82,10 @@ When you suspect a memory leak, work through these steps systematically. First, 
 By following this chrome memory leak detection guide, you can identify and resolve memory issues before they become serious problems. Regular monitoring and quick action keep your browser responsive and your system running smoothly.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [Chrome Memory Leak Detection Guide](/articles/chrome-memory-leak-detection/)
+* [Chrome Rendering Panel Guide](/articles/chrome-rendering-panel-guide/)
+* [Chrome Network Process Using Too Much Memory](/articles/chrome-network-process-using-too-much-memory/)

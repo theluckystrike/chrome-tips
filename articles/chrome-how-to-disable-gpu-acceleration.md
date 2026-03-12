@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Chrome How to Disable GPU Acceleration"
-description: "Learn how to disable GPU acceleration in Chrome to fix display issues,................................................................................"
-date: "2025-02-19"
+title: Chrome How to Disable GPU Acceleration
+description: Learn how to disable GPU acceleration in Chrome to fix display issues,................................................................................
+date: '2025-02-19'
 last_modified_at: '2026-03-12'
-permalink: "chrome-how-to-disable-gpu-acceleration"
-categories: 
-tags: 
+permalink: chrome-how-to-disable-gpu-acceleration
+categories: null
+tags: null
 author: theluckystrike
 ---
+
 # Chrome How to Disable GPU Acceleration
 
 If you are searching for chrome how to disable gpu acceleration, you might be experiencing some frustrating issues with your browser. Perhaps Chrome is crashing unexpectedly, certain websites look wrong with strange colors or artifacts, videos are not playing smoothly, or your computer fan is spinning loudly even when you only have a few tabs open. These problems can all stem from GPU acceleration, a feature that uses your graphics card to speed up web browsing but does not always work well on every system.

@@ -11,6 +11,7 @@ categories: '[performance, gaming, chrome-tips]'
 tags: '[chrome-cpu, gaming-performance, browser-optimization, chrome-slow]'
 author: theluckystrike
 ---
+
 # How to Fix Chrome High CPU Usage When Gaming
 
 If you have ever tried to game while Chrome is running in the background, you have probably noticed your frames dropping, your game stuttering, or your computer fan spinning like crazy. Chrome high CPU usage when gaming is a common problem, and it can really ruin your experience. The good news is that there are several things you can do to fix it.

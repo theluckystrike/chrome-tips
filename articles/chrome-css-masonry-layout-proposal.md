@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome CSS Masonry Layout Proposal - What You Need to Know
-description: Discover how Chrome's proposed CSS Masonry layout could transform web design. Learn about this new CSS feature that enables Pinterest-style layouts without JavaScript.
+description: Discover how Chrome's proposed CSS Masonry layout could transform web
+  design.
 date: 2026-01-20
 last_modified_at: '2026-03-12'
 permalink: chrome-css-masonry-layout-proposal
@@ -108,3 +109,10 @@ If you're working on optimizing your Chrome experience while waiting for these n
 The CSS Masonry proposal shows promise in making web layouts more capable and performant. Stay tuned for updates as the specification evolves and browser support expands.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [Chrome CSS :is() and :where() Pseudo-Class Explained](/articles/chrome-css-is-where-pseudo-class/)
+* [Chrome CSS Animations Performance Tips](/articles/chrome-css-animations-performance-tips/)
+* [chrome color mix function css](/articles/chrome-color-mix-function-css/)

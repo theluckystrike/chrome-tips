@@ -4,7 +4,7 @@ title: Chrome Google Maps Slow and Laggy Fix
 description: Is Google Maps running slow in Chrome? Discover practical fixes to speed
   up Google Maps, from disabling hardware acceleration to managing tabs and extensions.
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-google-maps-slow-and-laggy-fix
 categories:
 - chrome
@@ -17,6 +17,7 @@ tags:
 - speed-up
 author: theluckystrike
 ---
+
 # Chrome Google Maps Slow and Laggy Fix
 
 Google Maps is one of the most useful web applications we rely on daily for navigation, exploring new places, and planning trips. But when it runs slowly in Chrome, it can turn a simple task into a frustrating experience. If you've noticed Google Maps lagging, freezing, or consuming excessive resources in your Chrome browser, you're not alone. This guide will walk you through practical solutions to fix Chrome Google Maps slow and laggy issues.

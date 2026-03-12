@@ -17,8 +17,9 @@ tags:
 - browser-tips
 author: theluckystrike
 permalink: chrome-tab-groups-keyboard-shortcuts
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Tab Groups Keyboard Shortcuts: Your Complete Guide to Faster Browser Navigation
 
 If you are searching for chrome tab groups keyboard shortcuts, you likely spend significant time managing multiple tabs and want to streamline your workflow. Chrome's tab groups feature combined with keyboard shortcuts can transform how you navigate your browser, saving you clicks and keeping your workspace organized. This guide covers every essential keyboard shortcut you need to master tab groups effectively.

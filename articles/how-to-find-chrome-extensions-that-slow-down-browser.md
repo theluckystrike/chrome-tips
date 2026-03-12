@@ -11,6 +11,7 @@ categories: '[performance, extensions]'
 tags: '[chrome-extensions, browser-performance, chrome-slow, chrome-tips]'
 author: theluckystrike
 ---
+
 If you are searching for how to find Chrome extensions that slow down browser performance, you have probably noticed your browser feeling sluggish lately. This is a common issue that many Chrome users face, and the good news is that you can identify and fix the problem with a few straightforward steps.
 
 Chrome extensions are incredibly useful tools that add functionality to your browser. However, they come with a cost that not everyone realizes until their browser starts running slower than usual. Understanding which extensions are causing the slowdown and what you can do about it will help you get your browser back to running smoothly.

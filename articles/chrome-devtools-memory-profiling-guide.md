@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome DevTools Memory Profiling Guide
-description: Master memory profiling in Chrome DevTools. Learn to identify memory leaks, analyze heap snapshots, and optimize your web applications for better performance.
+description: Master memory profiling in Chrome DevTools. Learn to identify memory
+  leaks, analyze heap snapshots, and optimize your web applications for better performance.
 date: 2025-02-20
 categories:
 - performance
@@ -15,9 +16,8 @@ tags:
 - javascript
 author: theluckystrike
 permalink: chrome-devtools-memory-profiling-guide
-last_modified_at: '2025-02-20'
+last_modified_at: '2026-03-12'
 ---
-
 # Chrome DevTools Memory Profiling Guide
 
 Memory issues can silently degrade your web application's performance, causing slowdowns, crashes, and frustrated users. Chrome DevTools provides powerful memory profiling capabilities that help developers identify and resolve memory leaks, excessive garbage collection, and inefficient memory usage. This guide walks you through the essential tools and techniques for effective memory profiling in Chrome.
@@ -73,3 +73,10 @@ Memory profiling is not just for development. If users report performance issues
 Remember that memory issues often manifest differently depending on user behavior and device capabilities. A memory leak that is negligible on a desktop computer with 16GB of RAM might cause serious problems on a mobile device with limited memory. Test your application across different devices and usage patterns to ensure memory usage remains acceptable in all scenarios.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [Chrome Network Throttling Guide](/articles/chrome-network-throttling-guide/)
+* [How to Blackbox Scripts in Chrome to Skip Library Code During Debugging](/articles/chrome-blackbox-script-skip-library-code-debug/)
+* [Chrome Console Utilities Reference](/articles/chrome-console-utilities-guide/)

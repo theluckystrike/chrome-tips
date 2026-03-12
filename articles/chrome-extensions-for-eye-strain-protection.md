@@ -4,9 +4,10 @@ description: Discover how Chrome Extensions For Eye Strain Protection can transf
   your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
   set...
 date: 2026-01-15
-last_modified_at: 2026-03-09
-permalink: /articles/chrome-extensions-for-eye-strain-protection/
+last_modified_at: '2026-03-12'
+permalink: chrome-extensions-for-eye-strain-protection
 ---
+
 # Chrome Extensions for Eye Strain Protection
 
 If you have ever found yourself searching for chrome extensions for eye strain protection, you are not alone. Millions of people spend hours staring at computer screens every day, and many experience uncomfortable symptoms like dry eyes, headaches, and fatigue. The good news is that there are practical tools available to help protect your eyes while you browse the web.

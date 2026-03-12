@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Scroll Snap CSS Practical Guide
-description: Master scroll snap in Chrome with this practical CSS guide. Learn how to create smooth scrolling experiences with snap points for better user interaction.
+description: Master scroll snap in Chrome with this practical CSS guide. Learn how
+  to create smooth scrolling experiences with snap points for better user interaction.
 date: 2026-03-12
 categories:
 - css
@@ -18,7 +19,6 @@ author: theluckystrike
 permalink: chrome-scroll-snap-css-practical-guide
 last_modified_at: '2026-03-12'
 ---
-
 # Chrome Scroll Snap CSS Practical Guide
 
 Scroll snap has become one of the most useful CSS features for creating engaging web experiences. If you have ever used a mobile app where swiping feels natural and stops at exactly the right place, you have experienced scroll snap in action. Now you can bring that same smooth feeling to your websites using only CSS.
@@ -135,3 +135,10 @@ Scroll snap is a powerful CSS feature that adds polish and professionalism to yo
 Start with simple implementations and gradually add complexity as you become more comfortable with the properties. The examples in this guide provide a solid foundation that you can adapt and expand for any project you encounter.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [Chrome CSS Nesting Ampersand Syntax](/articles/chrome-css-nesting-ampersand-syntax/)
+* [Chrome Anchor Positioning CSS: A Complete Guide to Modern Tooltip and Popover Placement](/articles/chrome-anchor-positioning-css/)
+* [Chrome CSS :is() and :where() Pseudo-Class Explained](/articles/chrome-css-is-where-pseudo-class/)

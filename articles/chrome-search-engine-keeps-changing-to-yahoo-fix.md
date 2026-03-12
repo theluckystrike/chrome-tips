@@ -16,6 +16,7 @@ author: theluckystrike
 permalink: chrome-search-engine-keeps-changing-to-yahoo-fix
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Search Engine Keeps Changing to Yahoo Fix
 
 It is frustrating when you notice that your Chrome search engine keeps changing to Yahoo. You set up Google or your preferred search engine, but somehow Yahoo keeps reappearing as your default. This happens to many Chrome users, and it can feel like an uphill battle trying to keep your search engine choice where you want it. The good news is that this problem has clear causes and solutions that you can apply yourself.

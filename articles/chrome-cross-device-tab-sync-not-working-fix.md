@@ -4,7 +4,7 @@ description: Chrome cross device tab sync not working can be frustrating. Learn 
   tabs do not sync across your devices and how to fix it. Read our full guide to master
   you
 date: '2025-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-cross-device-tab-sync-not-working-fix
 layout: post
 categories:
@@ -17,6 +17,7 @@ tags:
 - chrome-fix
 author: theluckystrike
 ---
+
 # Chrome Cross Device Tab Sync Not Working Fix
 
 Chrome cross device tab sync not working is one of the most annoying problems you can run into when using Chrome across multiple devices. You open a tab on your work computer, head to a meeting, and want to pull it up on your personal laptop. But when you check your other device, that tab is nowhere to be found. Your whole workflow gets disrupted because Chrome is not syncing tabs the way you expect it to. This is a surprisingly common issue, and there are several reasons it can happen.

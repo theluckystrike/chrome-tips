@@ -14,9 +14,10 @@ tags:
 - chrome-setup
 - browser-configuration
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-default-browser-how-to-set-on-mac/
+last_modified_at: '2026-03-12'
+permalink: chrome-default-browser-how-to-set-on-mac
 ---
+
 # Chrome Default Browser How to Set on Mac
 
 If you have ever wondered chrome default browser how to set on mac, you are in the right place. Many Mac users prefer Chrome over Safari but find that links still open in Safari by default. This can be frustrating when you have to manually copy URLs or right-click to open them in Chrome. Setting Chrome as your default browser on Mac is actually quite simple once you know where to look, and this guide will walk you through every step.

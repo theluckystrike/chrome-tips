@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Chrome Immutable Cache-Control Header Explained
-description: Learn how the immutable Cache-Control header works in Chrome to improve page load times and reduce unnecessary network requests for static assets.
+description: Learn how the immutable Cache-Control header works in Chrome to improve
+  page load times and reduce unnecessary network requests for static assets.
 date: '2025-03-12'
-last_modified_at: '2025-03-12'
+last_modified_at: '2026-03-12'
 permalink: chrome-immutable-cache-control-header
 categories:
 - tips
@@ -16,7 +17,6 @@ tags:
 - http-headers
 author: theluckystrike
 ---
-
 # Chrome Immutable Cache-Control Header Explained
 
 The chrome immutable cache control header is a powerful HTTP header that tells browsers to treat certain resources as unchanging. When configured correctly, this header can significantly speed up your browsing experience by allowing Chrome to serve cached versions of static files without even checking with the server. Understanding how this header works helps web developers optimize their sites and gives users insight into why some pages load faster than others.
@@ -74,3 +74,10 @@ Modern build tools and web frameworks often handle immutable caching automatical
 Understanding and implementing the chrome immutable cache control header is one of the simpler ways to improve web performance. By telling Chrome explicitly which resources will not change, you enable faster page loads, reduced bandwidth usage, and a smoother browsing experience for everyone.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [Chrome Cache First vs Network First Strategy](/articles/chrome-cache-first-vs-network-first-strategy/)
+* [Chrome requestanimationframe Explained: What It Means for Your Browser](/articles/chrome-requestanimationframe-explained/)
+* [How to Increase Chrome Cache Size](/articles/chrome-cache-size-how-to-increase/)

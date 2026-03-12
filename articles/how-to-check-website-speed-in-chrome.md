@@ -10,6 +10,7 @@ categories: '[performance, troubleshooting]'
 tags: '[website-speed, chrome-tools, page-loading, browser-performance]'
 author: theluckystrike
 ---
+
 # How to Check Website Speed in Chrome
 
 If you have ever wondered how to check website speed in Chrome, you are not alone. Many users notice that some websites load quickly while others take forever, and they want to understand why this happens. Checking website speed in Chrome is actually quite simple once you know where to look, and doing so can help you identify problems and improve your overall browsing experience.

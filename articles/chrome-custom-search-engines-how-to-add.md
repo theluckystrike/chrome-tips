@@ -14,9 +14,10 @@ tags:
 - shortcuts
 - productivity
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-custom-search-engines-how-to-add/
+last_modified_at: '2026-03-12'
+permalink: chrome-custom-search-engines-how-to-add
 ---
+
 # Chrome Custom Search Engines How to Add
 
 If you have ever found yourself typing the same search queries over and over in Chrome, you might be wondering about chrome custom search engines how to add. This feature lets you create shortcuts that search specific websites directly from the address bar, saving you time and clicks. Whether you want to quickly search GitHub, Wikipedia, or your favorite shopping site, custom search engines make browsing much faster.

@@ -16,9 +16,9 @@ tags:
 - browser-tips
 - productivity
 author: theluckystrike
-last_modified_at: 2026-03-12
-permalink: accidentally-closed-all-chrome-tabs-recovery
 ---
+
+
 # How to Recover Accidentally Closed Chrome Tabs
 
 We've all been there. You accidentally close Chrome—or your computer crashes—and suddenly all your tabs are gone. That research article you spent hours finding, that recipe you bookmarked, those support pages you needed for work—vanished in an instant. If you have a slower computer with limited RAM, this is especially frustrating because reopening everything can make your browser crawl.

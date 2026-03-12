@@ -18,6 +18,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-quick-commands-feature
 ---
+
 # Chrome for Quick Commands Feature
 
 Chrome for quick commands feature is something many users do not even know exists, but it can genuinely change how you use your browser. If you have ever wished you could open a bookmark, switch to a specific tab, or trigger an extension without clicking through menus, quick commands might be exactly what you need. This built-in Chrome capability lets you type simple commands to perform common tasks almost instantly, and once you get used to it, you will wonder how you ever browsed without it.

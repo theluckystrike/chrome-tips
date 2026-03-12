@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Smooth Scrolling Laggy Disable Fix
-description: Is Chrome smooth scrolling causing lag and performance issues? Learn how to disable smooth scrolling to restore fast, responsive browsing on any computer.
+description: Is Chrome smooth scrolling causing lag and performance issues? Learn
+  how to disable smooth scrolling to restore fast, responsive browsing on any computer.
 date: 2026-01-20
 categories:
 - performance
@@ -15,8 +16,9 @@ tags:
 - scroll-performance
 author: theluckystrike
 permalink: chrome-smooth-scrolling-laggy-disable-fix
-last_modified_at: '2026-01-20'
+last_modified_at: '2026-03-12'
 ---
+
 
 # Chrome Smooth Scrolling Laggy Disable Fix
 

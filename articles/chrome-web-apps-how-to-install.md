@@ -10,6 +10,7 @@ categories: '[productivity, tips]'
 tags: '[web-apps, pwa, install-app, chrome-settings]'
 author: theluckystrike
 ---
+
 # Chrome Web Apps How to Install
 
 If you have ever searched for chrome web apps how to install, you probably wanted to add your favorite websites as separate applications on your computer. Maybe you use certain web tools so often that opening a new tab every time feels tedious, or you want your desktop to look more organized with dedicated icons for the services you use most. This guide will walk you through the complete process of installing web apps in Chrome, explain what makes them different from regular browser tabs, and show you how they can simplify your daily workflow.

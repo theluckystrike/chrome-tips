@@ -11,6 +11,7 @@ categories: '[performance, browser-basics]'
 tags: '[chrome-v8, javascript-engine, browser-performance, chrome-engine]'
 author: theluckystrike
 ---
+
 # Chrome V8 Engine What It Means for Users
 
 Chrome V8 engine what it means for users is a question that comes up when people want to understand why their browser behaves the way it does. The V8 engine is the heart of Chrome, and knowing what it does can help you get more out of your browsing experience. This guide breaks down everything in simple terms so you can understand how this important piece of technology affects your daily web use.

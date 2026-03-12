@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Chrome Referrer Policy Best Practices
-description: Learn how to configure Chrome referrer policy for better privacy and security. Discover the different policy options and when to use each one.
+description: Learn how to configure Chrome referrer policy for better privacy and
+  security. Discover the different policy options and when to use each one.
+permalink: chrome-referrer-policy-best-practices
+last_modified_at: '2026-03-12'
 ---
-
 # Chrome Referrer Policy Best Practices
 
 When you click a link in Chrome, the browser sends information to the destination website about where you came from. This is called the referrer, and it helps website owners understand their traffic sources. However, this behavior can also expose more information than you might want to share. Understanding and configuring Chrome's referrer policy helps you balance functionality with privacy.
@@ -77,3 +79,10 @@ Chrome's referrer policy gives you control over how much information you share w
 Take a moment to review your current configuration. Small adjustments to your referrer policy can significantly improve your browsing privacy without sacrificing too much convenience.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [Chrome Web Notifications Best Practices](/articles/chrome-web-notifications-best-practices/)
+* [Chrome for Password Security Best Practices](/articles/chrome-for-password-security-best-practices/)
+* [Chrome Notification Permission Best Practices](/articles/chrome-notification-permission-best-practices/)

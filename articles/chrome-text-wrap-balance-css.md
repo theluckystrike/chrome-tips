@@ -8,6 +8,7 @@ date: '2026-01-01'
 last_modified_at: '2026-03-12'
 permalink: chrome-text-wrap-balance-css
 ---
+
 Chrome text wrap balance CSS is a feature that many web designers and developers have been waiting for. If you have ever created a headline or a short block of text and noticed that the lines look uneven, with one line much shorter than the others, then you understand the problem that this CSS property solves. Chrome text wrap balance gives you a simple way to make your text look more polished and professional without extra markup or complex workarounds.
 
 Let me explain what this feature does, why it matters, and how you can start using it in your projects.

@@ -16,9 +16,10 @@ tags:
 - chrome-devtools
 - responsive-design
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-device-emulation-test-mobile-website/
+last_modified_at: '2026-03-12'
+permalink: chrome-device-emulation-test-mobile-website
 ---
+
 # How to Use Chrome Device Emulation to Test Your Mobile Website
 
 Testing how your website looks and functions on mobile devices is essential in today's mobile-first world. While you could grab a physical phone or tablet, Chrome's built-in device emulation tools let you test responsive designs directly in your desktop browser. This saves time and helps you catch mobile-specific issues before launching. In this guide, I'll walk you through how to use Chrome device emulation to test your mobile website effectively.

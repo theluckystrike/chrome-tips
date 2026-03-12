@@ -11,6 +11,7 @@ categories: '[extensions, troubleshooting]'
 tags: '[chrome-extension, chrome-web-store, extension-removed, chrome-fix]'
 author: theluckystrike
 ---
+
 # What Happens When Chrome Extension Is Removed From Store
 
 If you have ever searched for what happens when chrome extension is removed from store, you might be one of the many users who discovered their favorite extension suddenly disappeared from the Chrome Web Store. This situation is more common than you might think, and it can have significant consequences for your browsing experience and online security.

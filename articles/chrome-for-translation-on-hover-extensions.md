@@ -5,7 +5,7 @@ description: Discover Chrome extensions that translate text on hover, making for
   language browsing seamless and effortless. Check out our expert recommendations
   and tip
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-translation-on-hover-extensions
 categories:
 - translation
@@ -17,6 +17,7 @@ tags:
 - browser-tools
 author: theluckystrike
 ---
+
 # Chrome for Translation On Hover Extensions
 
 If you are looking for chrome for translation on hover extensions, you probably want a way to understand foreign text on websites without clicking anything. Instead of copying and pasting text into a translator or clicking menus, you simply hover your mouse over words you do not understand and see the translation instantly. This hands-free approach makes reading foreign language content feel natural, like reading in your own language.

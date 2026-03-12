@@ -11,6 +11,7 @@ categories: '[browser-tips, how-to]'
 tags: '[screenshot, chrome, capture, full-page]'
 author: theluckystrike
 ---
+
 # How to Screenshot Full Page in Chrome
 
 If you are looking for how to screenshot full page in chrome, you have probably run into the frustration of trying to capture an entire webpage only to get that annoying partial screenshot that cuts off the bottom of the page. This is a common problem that happens because regular screenshot tools only capture what you can see on your screen at that moment. When you need to save a long article, capture an entire conversation, preserve a webpage before it changes, or keep important information for later reference, the basic screenshot method just does not cut it. Fortunately, there are several ways to solve this problem in Chrome, and you do not need any special technical skills to do it.

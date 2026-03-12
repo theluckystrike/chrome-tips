@@ -10,6 +10,7 @@ categories: '[chromebook, education, productivity]'
 tags: '[chromebook, school, restrictions, education, productivity]'
 author: theluckystrike
 ---
+
 # How to Safely Work with Chromebook School Restrictions
 
 If you're a student using a school-issued Chromebook, you've probably encountered various restrictions that can feel limiting. Whether it's blocked websites, restricted app installations, or limited customization options, these controls are put in place to maintain security and focus in educational environments. This guide will help you understand these restrictions and explore legitimate ways to work more effectively within them.

@@ -14,9 +14,10 @@ tags:
 - css
 - developer-tools
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-devtools-css-overview-panel/
+last_modified_at: '2026-03-12'
+permalink: chrome-devtools-css-overview-panel
 ---
+
 # Chrome DevTools CSS Overview Panel
 
 If you have ever searched for "chrome devtools css overview panel" to find a better way to analyze and fix CSS problems on your websites, you have landed in the right place. The CSS Overview panel is one of Chrome DevTools most useful yet often overlooked features, and it can completely change how you debug and optimize your website's styling.

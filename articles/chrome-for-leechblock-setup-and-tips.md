@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-leechblock-setup-and-tips
 ---
+
 # Chrome for LeechBlock Setup and Tips
 
 If you have ever found yourself scrolling through social media when you should be working, chrome for leechblock setup and tips might be exactly what you need. LeechBlock is a free Chrome extension that helps you block distracting websites during work hours, and getting it set up takes just a few minutes. This guide walks you through everything you need to know.

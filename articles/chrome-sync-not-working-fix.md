@@ -17,6 +17,7 @@ author: theluckystrike
 permalink: chrome-sync-not-working-fix
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Sync Not Working Fix
 
 Chrome sync not working is one of those problems that sneaks up on you when you least expect it. You set up your Google account, you see the sync icon in your toolbar, you assume everything is working smoothly. Then you switch to your phone or another computer and realize your bookmarks, passwords, and saved passwords are nowhere to be found. The sync icon was lying to you the whole time. This happens to plenty of people, and the good news is that it is usually fixable with a few simple steps.

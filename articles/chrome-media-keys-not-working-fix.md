@@ -5,7 +5,7 @@ description: Your media keys stopped working in Chrome? Learn the common causes 
   simple fixes to get your play, pause, and volume controls back. Check out our expert
   rec
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-media-keys-not-working-fix
 categories:
 - troubleshooting
@@ -17,6 +17,7 @@ tags:
 - keyboard-shortcuts
 author: theluckystrike
 ---
+
 # Chrome Media Keys Not Working Fix
 
 You are listening to music on YouTube or Spotify in Chrome, and you want to skip to the next song or pause the track. You reach for the media keys on your keyboard, but nothing happens. The play button, the volume slider, and the skip buttons on your keyboard just sit there doing nothing. If you have been searching for a chrome media keys not working fix, you have come to the right place. This is a surprisingly common problem, and there are several reasons it can happen.

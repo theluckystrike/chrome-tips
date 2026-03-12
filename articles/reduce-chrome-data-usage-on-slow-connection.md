@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Reduce Chrome Data Usage on Slow Connection
-description: Learn practical methods to cut down Chrome's data consumption when you're dealing with a slow or limited internet connection. Discover built-in features and extensions that help.
+description: Learn practical methods to cut down Chrome's data consumption when you're
+  dealing with a slow or limited internet connection.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: reduce-chrome-data-usage-on-slow-connection
@@ -15,6 +16,7 @@ tags:
 - bandwidth
 author: theluckystrike
 ---
+
 
 # How to Reduce Chrome Data Usage on Slow Connection
 

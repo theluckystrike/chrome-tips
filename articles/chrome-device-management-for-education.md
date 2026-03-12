@@ -14,9 +14,10 @@ tags:
 - chromebooks
 - school-it
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-device-management-for-education/
+last_modified_at: '2026-03-12'
+permalink: chrome-device-management-for-education
 ---
+
 # Chrome Device Management for Education
 
 If you are searching for chrome device management for education, you have come to the right place. Managing a fleet of Chromebooks in a school setting can feel overwhelming, especially when you are responsible for hundreds of devices used by students and teachers every day. The good news is that Google provides powerful tools designed specifically for educational institutions that make this task much more manageable.

@@ -17,8 +17,9 @@ tags:
 - reduce-data
 author: theluckystrike
 permalink: chrome-reduce-data-usage-mobile
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # How to Reduce Data Usage on Chrome Mobile
 
 If you have ever run out of mobile data before the end of the month, you know how frustrating it can be. Chrome on your phone is likely one of the biggest culprits behind your data consumption. Modern websites are designed to be visually rich and interactive, but that comes with a cost: every page load pulls down images, videos, scripts, and trackers that quickly eat through your data plan. The good news is that Chrome has several built-in features and settings that can help you reduce data usage without sacrificing your browsing experience. In this guide, we will walk you through practical, step-by-step solutions to cut down your mobile data usage in Chrome.

@@ -11,6 +11,7 @@ categories: '[performance, troubleshooting]'
 tags: '[chrome-devtools, performance, timeline, browser-tools]'
 author: theluckystrike
 ---
+
 # Chrome Timeline Recording Explained
 
 If you are searching for chrome timeline recording explained, you probably want to understand how to see what exactly happens when a webpage loads in your browser. Chrome's timeline recording feature is a powerful tool built right into the browser that shows you a detailed breakdown of every action Chrome takes while loading and running a website. This guide will walk you through what it does, why it matters, and how you can use it to solve common browser problems.

@@ -11,6 +11,7 @@ categories: '[privacy, features]'
 tags: '[chrome-without-google, privacy, no-account, chrome-setup]'
 author: theluckystrike
 ---
+
 # How to Use Chrome Without a Google Account
 
 Many people wonder how to use Chrome without a Google account because they value their privacy, want to avoid having their browsing data synced across devices, or simply prefer not to create yet another online account. The good news is that Chrome works perfectly fine without requiring you to sign in. You can download Chrome, install it, and use it immediately without ever connecting it to a Google account. This opens up a more private browsing experience where your history, bookmarks, and extensions stay local to your device rather than being uploaded to Google's servers.

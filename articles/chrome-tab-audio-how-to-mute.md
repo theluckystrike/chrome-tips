@@ -17,6 +17,7 @@ author: theluckystrike
 permalink: chrome-tab-audio-how-to-mute
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Tab Audio How to Mute
 
 If you are searching for chrome tab audio how to mute, you likely have multiple tabs open and one of them is playing sound when you do not want it to. This is a frustrating situation that happens to everyone, and fortunately Chrome provides several ways to handle it.

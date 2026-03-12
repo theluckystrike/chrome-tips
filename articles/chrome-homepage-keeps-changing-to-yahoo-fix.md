@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Chrome Homepage Keeps Changing to Yahoo Fix"
-description: "Your Chrome homepage keeps changing to Yahoo? Here is how to fix it yourself.........................................................................."
-date: "2026-01-15"
+title: Chrome Homepage Keeps Changing to Yahoo Fix
+description: Your Chrome homepage keeps changing to Yahoo? Here is how to fix it yourself..........................................................................
+date: '2026-01-15'
 last_modified_at: '2026-03-12'
-permalink: "chrome-homepage-keeps-changing-to-yahoo-fix"
-categories: 
-tags: 
+permalink: chrome-homepage-keeps-changing-to-yahoo-fix
+categories: null
+tags: null
 author: theluckystrike
 ---
+
 # Chrome Homepage Keeps Changing to Yahoo Fix
 
 It is annoying when your Chrome homepage keeps changing to Yahoo despite your best efforts to set a different page. You keep changing it back to your preferred site, but somehow Yahoo keeps reappearing every time you restart your browser. This is a problem that many Chrome users deal with, and it usually happens because of browser extensions, unwanted software, or settings that get modified behind your back.

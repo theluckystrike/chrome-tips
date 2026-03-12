@@ -5,12 +5,13 @@ description: Learn how to use Chrome Task Manager to identify and manage heavy t
   that are consuming excessive memory and CPU resources. Read our comprehensive guide
   to...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-task-manager-find-heavy-tabs
 categories: '[chrome, performance, tips]'
 tags: '[chrome-task-manager, browser-performance, memory, cpu, tabs]'
 author: theluckystrike
 ---
+
 # How to Use Chrome Task Manager to Find Heavy Tabs
 
 If your Chrome browser has been running slowly lately, the culprit might be hiding in plain sight. You probably have dozens of tabs open, and some of them could be consuming far more resources than others. The good news is that Chrome includes a built-in tool called Task Manager that can help you identify exactly which tabs are causing problems. Learning how to use this tool effectively can dramatically improve your browsing experience and make your computer run smoother.

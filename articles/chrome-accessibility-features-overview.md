@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Accessibility Features Overview
-description: Learn about Chrome accessibility features that make browsing easier for everyone. Discover built-in tools for screen readers, keyboard navigation, and more.
+description: Learn about Chrome accessibility features that make browsing easier for
+  everyone. Discover built-in tools for screen readers, keyboard navigation, and more.
 date: 2026-03-12
 permalink: chrome-accessibility-features-overview
 categories:
@@ -13,8 +14,9 @@ tags:
 - browser-features
 - assistive-technology
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Accessibility Features Overview
 
 Google Chrome includes a powerful set of accessibility features designed to make web browsing more inclusive for users with disabilities. These tools help people with visual impairments, motor difficulties, and other challenges navigate the internet more effectively. Understanding what Chrome offers can transform your browsing experience whether you need these features yourself or want to recommend them to others.

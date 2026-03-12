@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-forest-focus-timer-extension
 ---
+
 # Chrome for Forest Focus Timer Extension
 
 Chrome for Forest focus timer extension is a popular search among people who want to use the famous Forest app's technique directly in their web browser. If you have been looking for ways to stay focused while working on your computer, you might have come across the Forest app for smartphones. It uses a simple but effective idea: you plant a virtual tree, and if you leave the app to check social media or other distractions, your tree dies. This gamified approach to focus has helped millions of people put down their phones and get work done. The good news is that you can bring this same approach to your Chrome browser with focus timer extensions.

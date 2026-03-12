@@ -11,6 +11,7 @@ categories: '[mac, battery]'
 tags: '[chrome-battery, macbook-battery, chrome-performance]'
 author: theluckystrike
 ---
+
 # How to Make Chrome Use Less Battery on MacBook
 
 If you are wondering how to make Chrome use less battery on your MacBook, you are not alone. Many MacBook users notice that Chrome drains battery significantly faster than other browsers, and it can be frustrating when you need your laptop to last through a long workday or a flight. The good news is there are several practical steps you can take to reduce Chrome's battery consumption and get more time out of each charge.

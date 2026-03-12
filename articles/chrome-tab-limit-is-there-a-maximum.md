@@ -17,6 +17,7 @@ author: theluckystrike
 permalink: chrome-tab-limit-is-there-a-maximum
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Tab Limit: Is There a Maximum?
 
 If you have ever wondered whether there is a chrome tab limit and what happens when you reach it, you are asking a question that many Chrome users eventually face. The short answer is that Chrome does not have a hardcoded maximum number of tabs that you can open. In theory, you could keep opening tabs until your computer runs out of memory or the browser crashes. However, in practice, there are very real limits that you will encounter, and understanding what causes them can save you a lot of frustration.

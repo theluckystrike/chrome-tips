@@ -15,9 +15,10 @@ tags:
 - security
 - passwords
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-biometric-login-how-to-set-up
 ---
+
 # Chrome Biometric Login How to Set Up
 
 If you have ever typed a password into a website and wished there was an easier way, you are going to love biometric login. Many Chrome users are now searching for chrome biometric login how to set up because they want to skip typing passwords and use their fingerprint or face instead. This guide will show you exactly how to enable and use biometric authentication in Chrome.

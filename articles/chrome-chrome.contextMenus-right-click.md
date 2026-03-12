@@ -14,7 +14,9 @@ tags:
 - developer
 author: theluckystrike
 permalink: chrome-chrome.contextMenus-right-click
+last_modified_at: '2026-03-12'
 ---
+
 # How to Create Custom Right-Click Context Menus in Chrome Extensions
 
 If you're building a Chrome extension, adding custom right-click context menus can significantly enhance your users' experience. The **chrome chrome.contextMenus right click** API allows developers to create personalized menu options that appear when users right-click on pages, links, or images. This powerful feature enables quick access to extension functionality directly from the browser's context menu.

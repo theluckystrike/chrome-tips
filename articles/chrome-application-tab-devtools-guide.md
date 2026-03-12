@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Application Tab DevTools Guide
-description: Learn how to use Chrome Application Tab in DevTools to inspect storage, service workers, and frames. A practical guide for debugging web applications.
+description: Learn how to use Chrome Application Tab in DevTools to inspect storage,
+  service workers, and frames. A practical guide for debugging web applications.
 keywords: chrome application tab devtools guide
 categories:
 - chrome
@@ -13,8 +14,9 @@ tags:
 - browser-tools
 - debugging
 author: theluckystrike
+permalink: chrome-application-tab-devtools-guide
+last_modified_at: '2026-03-12'
 ---
-
 # Chrome Application Tab DevTools Guide
 
 Chrome DevTools is an essential toolkit for web developers, and the Application tab stands out as a powerful section for inspecting how your web applications actually work under the hood. This Chrome application tab DevTools guide walks you through its key features and shows you how to use them effectively for debugging and optimization.
@@ -68,3 +70,10 @@ For teams building extensions or complex web applications, Tab Suspender Pro dem
 The Application tab in Chrome DevTools provides powerful capabilities for inspecting and managing your web application's resources. From examining local storage and cookies to debugging service workers and verifying manifest configurations, this tool covers essential aspects of modern web development. Making yourself familiar with these features will save you countless hours when debugging storage issues, optimizing offline capabilities, or troubleshooting service worker behavior.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [Chrome Overriding CSS in DevTools: A Practical Tutorial](/articles/chrome-overriding-css-in-devtools-tutorial/)
+* [Chrome DevTools Responsive Design Mode Guide](/articles/chrome-devtools-responsive-design-mode-guide/)
+* [Chrome Network Tab: How to Use and Debug Network Requests](/articles/chrome-network-tab-how-to-use-debug/)

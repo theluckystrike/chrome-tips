@@ -15,8 +15,9 @@ tags:
 - troubleshooting
 author: theluckystrike
 permalink: chrome-search-bar-not-working-fix
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # How to Fix Chrome Search Bar Not Working
 
 Your Chrome search bar—also called the address bar or omnibox—suddenly stopped working? Don't worry, you're not alone. This is one of the most common Chrome issues, and the good news is it's usually fixable. Let me walk you through the solutions, starting with the quickest fixes.

@@ -10,6 +10,7 @@ categories: '[features, performance]'
 tags: '[text-only-mode, browsing, performance, speed]'
 author: theluckystrike
 ---
+
 # Chrome Text Only Mode How to Browse
 
 If you have ever searched for chrome text only mode how to browse, you probably wanted a faster, simpler way to read web pages without all the distractions. Many Chrome users feel overwhelmed by heavy images, videos, and complex layouts that slow down their browsing experience. This guide will show you how to browse in text-only mode and explain why it can make your web time much more enjoyable.

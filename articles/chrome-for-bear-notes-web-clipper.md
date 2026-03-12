@@ -19,6 +19,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-bear-notes-web-clipper
 ---
+
 # Chrome for Bear Notes Web Clipper
 
 Chrome for Bear Notes web clipper is a handy way to save content from the internet directly into your Bear Notes app. If you use Bear Notes on your Mac or iOS device and want to capture articles, research, or inspiration from websites, there are several approaches you can take to make this work seamlessly.

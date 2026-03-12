@@ -15,8 +15,9 @@ tags:
 - content-filter
 author: theluckystrike
 permalink: chrome-restricted-mode-youtube-how-to-enable
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Restricted Mode YouTube How to Enable
 
 If you have been searching for chrome restricted mode youtube how to enable, you have come to the right place. Many Chrome users want to set up restricted mode on YouTube to filter out mature content, whether for parental control purposes, creating a safer browsing environment, or simply preferring more family-friendly content. This guide will walk you through exactly how to enable restricted mode on YouTube while using the Chrome browser.

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Largest Contentful Paint Chrome Fix
-description: Learn how to fix Largest Contentful Paint issues in Chrome with practical solutions that improve your browser's loading performance.
+description: Learn how to fix Largest Contentful Paint issues in Chrome with practical
+  solutions that improve your browser's loading performance.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: largest-contentful-paint-chrome-fix
@@ -16,6 +17,7 @@ tags:
 - lcp
 author: theluckystrike
 ---
+
 
 # Largest Contentful Paint Chrome Fix
 

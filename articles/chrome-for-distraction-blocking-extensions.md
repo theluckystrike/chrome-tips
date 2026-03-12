@@ -16,6 +16,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-distraction-blocking-extensions
 ---
+
 # Chrome for Distraction Blocking Extensions
 
 If you are looking for chrome for distraction blocking extensions, you probably know how easy it is to lose hours to social media, news sites, and endless tab switching. The modern web is designed to capture and hold your attention, which is great for websites trying to build an audience but not so great for anyone trying to get actual work done. Fortunately, Chrome offers a variety of extensions specifically designed to help you stay focused and block the distractions that steal your time.

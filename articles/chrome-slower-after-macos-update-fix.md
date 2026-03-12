@@ -16,8 +16,9 @@ tags:
 - low-ram
 author: theluckystrike
 permalink: chrome-slower-after-macos-update-fix
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Slower After macOS Update Fix
 
 If Chrome feels slower after updating macOS, you are not imagining it. Many Mac users experience this frustrating issue, especially those with older machines or limited RAM. The good news is that there are practical steps you can take to restore Chrome's speed and get back to browsing smoothly.

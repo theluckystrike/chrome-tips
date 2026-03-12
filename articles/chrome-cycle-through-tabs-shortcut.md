@@ -13,9 +13,10 @@ tags:
 - browser-management
 - shortcuts
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-cycle-through-tabs-shortcut/
+last_modified_at: '2026-03-12'
+permalink: chrome-cycle-through-tabs-shortcut
 ---
+
 # Chrome Cycle Through Tabs Shortcut
 
 If you have ever searched for "chrome cycle through tabs shortcut" because you wanted a faster way to move between your open tabs, you are not alone. Many Chrome users find themselves with dozens of tabs open and need an efficient way to switch between them without clicking on each tab individually. This guide will show you the built-in shortcuts that Chrome provides for cycling through tabs, explain why these shortcuts matter, and help you use them effectively in your daily browsing.

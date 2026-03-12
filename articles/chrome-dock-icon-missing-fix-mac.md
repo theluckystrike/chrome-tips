@@ -5,9 +5,10 @@ description: Your Chrome icon vanished from the Mac dock? Learn why it happens a
   how to get it back with simple fixes anyone can try. Explore our comprehensive guide
   t...
 date: 2026-01-15
-last_modified_at: 2026-03-09
+last_modified_at: '2026-03-12'
 permalink: chrome-dock-icon-missing-fix-mac
 ---
+
 # Chrome Dock Icon Missing Fix Mac
 
 You open your Mac looking for Chrome in the dock, but the familiar colorful wheel icon is nowhere to be found. You search everywhere, check every folder, and even open Chrome from the Applications folder, but the app still does not appear in your dock. If you are looking for a "chrome dock icon missing fix mac" solution, you are not alone. This is a surprisingly common issue that Mac users run into, and there are several reasons why it happens.

@@ -8,6 +8,7 @@ permalink: chrome-saved-passwords-how-to-see-them
 date: '2026-03-10'
 last_modified_at: '2026-03-12'
 ---
+
 "How to see saved passwords in Chrome" is a question that comes up for many users. Maybe you have been logging into websites for months or years and never paid attention to the passwords Chrome has been saving for you. Now you need to check one of those passwords, perhaps because you forgot it or you are setting up a new device. Whatever the reason, Chrome makes it fairly easy to see your saved passwords, though you need to know where to look. This guide explains how to do this, why Chrome saves passwords in the first place, and some tips for managing them safely.
 
 ## Why Chrome Saves Your Passwords

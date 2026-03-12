@@ -5,12 +5,13 @@ description: Is your computer slow when using Chrome? Learn practical, step-by-s
   solutions to fix Chrome performance issues on computers with limited RAM. Read our
   com...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: my-computer-is-so-slow-how-to-fix-chrome
 categories: '[performance, chrome, troubleshooting]'
 tags: '[chrome-slow, computer-slow, fix-chrome, low-ram, browser-performance]'
 author: theluckystrike
 ---
+
 # My Computer Is So Slow How to Fix Chrome
 
 If you are searching for "my computer is so slow how to fix Chrome," you are likely frustrated by a browser that makes your already-limited computer feel even slower. The good news is that you do not need to buy a new computer or switch browsers to get a smoother experience. There are several practical steps you can take to fix Chrome when it is dragging down your system.

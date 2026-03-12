@@ -4,7 +4,7 @@ title: chrome multiprocess architecture explained
 description: Learn how Chrome's multiprocess architecture works, why it uses multiple
   processes, and how it improves stability, security, and performance in your browsing...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-multiprocess-architecture-explained
 categories:
 - chrome
@@ -21,6 +21,7 @@ tags:
 - security
 author: theluckystrike
 ---
+
 # Chrome Multiprocess Architecture Explained
 
 If you have ever wondered why Chrome seems to use more memory than other browsers or why one crashing tab does not take down your entire browser, you have encountered Chrome's multiprocess architecture. This design choice, implemented since Chrome's early days, fundamentally changed how web browsers work and influenced virtually every modern browser today. Understanding chrome multiprocess architecture explained will help you appreciate why Chrome behaves the way it does and how to optimize your browsing experience.

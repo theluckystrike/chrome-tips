@@ -11,6 +11,7 @@ categories: '[features, connectivity]'
 tags: '[web-serial, serial-api, chrome-features, hardware, beginners]'
 author: theluckystrike
 ---
+
 # Chrome Web Serial API for Beginners
 
 If you have ever searched for chrome web serial api for beginners, you might be wondering what this feature actually does and why it matters for regular users. The Chrome Web Serial API is a powerful tool that lets your browser talk to hardware devices connected to your computer, and this guide will walk you through everything you need to know as a beginner.

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome WebTransport API Explained
-description: Learn how the Chrome WebTransport API enables low-latency bidirectional communication, its use cases, browser support, and how it compares to WebSockets.
+description: Learn how the Chrome WebTransport API enables low-latency bidirectional
+  communication, its use cases, browser support, and how it compares to WebSockets.
 date: 2025-02-20
 categories:
 - web-development
@@ -15,9 +16,8 @@ tags:
 - http3
 author: theluckystrike
 permalink: chrome-webtransport-api-explained
-last_modified_at: '2025-02-20'
+last_modified_at: '2026-03-12'
 ---
-
 # Chrome WebTransport API Explained
 
 If you have ever built a real-time application in the browser, you likely encountered challenges with latency, connection reliability, or the ability to send data in both directions efficiently. The Chrome WebTransport API offers a modern solution to these problems by providing a versatile protocol built on top of HTTP/3 and QUIC. This article breaks down what WebTransport is, how it works, and when you should consider using it in your projects.
@@ -88,3 +88,10 @@ For Chrome users managing many tabs, extensions like Tab Suspender Pro can help 
 The Chrome WebTransport API represents a meaningful step forward for real-time web communication. Its foundation on HTTP/3 and QUIC provides lower latency, better handling of packet loss, and support for multiple independent streams. Whether you are building games, collaboration tools, or IoT dashboards, WebTransport offers capabilities that were difficult to achieve with WebSockets alone. As browser support expands and server infrastructure matures, WebTransport is poised to become a standard tool for developers who need fast, flexible bidirectional communication in their web applications.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [Chrome Keyboard Lock API: Building Immersive Fullscreen Games](/articles/chrome-keyboard-lock-api-fullscreen-games/)
+* [Chrome NFC API: Web NFC Explained](/articles/chrome-nfc-api-web-nfc-explained/)
+* [Chrome File Handling API PWA Guide](/articles/chrome-file-handling-api-pwa-guide/)

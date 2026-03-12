@@ -17,8 +17,9 @@ tags:
 - process-isolation
 author: theluckystrike
 permalink: chrome-site-isolation-explained
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Site Isolation Explained
 
 If you use Google Chrome as your primary browser, you have likely benefited from a security feature called Site Isolation without even knowing it. This technology, developed by Google in response to serious security vulnerabilities, fundamentally changes how Chrome handles web pages and protects your data. Understanding Site Isolation helps you appreciate the security measures built into your browser and make informed decisions about your browsing habits and extensions.

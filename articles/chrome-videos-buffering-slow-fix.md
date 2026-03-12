@@ -11,6 +11,7 @@ categories: ''
 tags: ''
 author: theluckystrike
 ---
+
 # Chrome Videos Buffering Slow Fix
 
 Nothing is more frustrating than settling in to watch a video only to deal with constant buffering. If you are looking for a chrome videos buffering slow fix, you have come to the right place. When Chrome videos buffer slowly, it can turn a relaxing viewing session into a stressful wait.

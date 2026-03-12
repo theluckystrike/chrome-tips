@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "How to Turn Off Autocomplete in Chrome"
-description: "Learn how to disable Chrome autocomplete for forms and address fields................................................................................."
-date: "2025-03-09"
+title: How to Turn Off Autocomplete in Chrome
+description: Learn how to disable Chrome autocomplete for forms and address fields.................................................................................
+date: '2025-03-09'
 last_modified_at: '2026-03-12'
-permalink: "chrome-how-to-turn-off-autocomplete"
-categories: 
-tags: 
+permalink: chrome-how-to-turn-off-autocomplete
+categories: null
+tags: null
 author: theluckystrike
 ---
+
 # How to Turn Off Autocomplete in Chrome
 
 If you're searching for how to turn off autocomplete in Chrome, you're probably tired of seeing suggestions pop up when you're trying to fill out forms or type in the address bar. Chrome's autocomplete feature is designed to save you time by remembering your past entries, but sometimes it gets in the way. Maybe you share your computer with others, you're concerned about privacy, or you just find the suggestions distracting. Whatever your reason, turning off autocomplete in Chrome is straightforward once you know where to look.

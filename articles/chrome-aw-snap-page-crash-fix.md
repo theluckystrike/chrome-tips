@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Aw Snap Page Crash Fix
-description: Encountering the "Aw, Snap" error in Chrome? This guide covers practical solutions to fix page crashes, from clearing cache to adjusting browser settings and using extension helpers.
+description: Encountering the "Aw, Snap" error in Chrome? This guide covers practical
+  solutions to fix page crashes, from clearing cache to adjusting browser settings
+  and...
 date: 2026-03-12
 last_modified_at: '2026-03-12'
 permalink: chrome-aw-snap-page-crash-fix
@@ -14,9 +16,8 @@ tags:
 - page-crash
 - chrome-troubleshooting
 author: theluckystrike
-last_modified_at: 2026-03-12
-permalink: chrome-aw-snap-page-crash-fix
 ---
+
 # Chrome AW Snap Page Crash Fix
 
 The "Aw, Snap" error is one of the most frustrating issues Chrome users encounter. When a page suddenly crashes and displays this cryptic message, your browsing comes to a halt. Understanding why this happens and how to fix it can save you time and keep your browser running smoothly.

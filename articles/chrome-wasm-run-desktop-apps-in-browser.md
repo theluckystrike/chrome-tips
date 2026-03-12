@@ -5,12 +5,13 @@ description: Discover how WebAssembly (WASM) technology allows you to run full d
   applications directly in Chrome without installing anything. From image editors
   to ...
 date: '2026-01-20'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-wasm-run-desktop-apps-in-browser
 categories: '[technology, chrome-features, web-development]'
 tags: '[webassembly, wasm, chrome, browser-apps, desktop-apps]'
 author: theluckystrike
 ---
+
 # How to Run Desktop Apps in Your Browser Using Chrome WASM
 
 Imagine opening your browser and using Photoshop, running a full video editor, or playing a graphics-intensive game without installing any software. This is not science fiction anymore. Thanks to WebAssembly (WASM), Chrome can now run powerful desktop applications directly in your browser, and this technology is changing how we think about web browsing.

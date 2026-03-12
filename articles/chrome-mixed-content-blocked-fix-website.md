@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Mixed Content Blocked Fix for Your Website
-description: Learn how to fix the mixed content blocked error in Chrome and ensure your website loads securely. Simple solutions for website owners and visitors.
+description: Learn how to fix the mixed content blocked error in Chrome and ensure
+  your website loads securely. Simple solutions for website owners and visitors.
 date: 2026-01-15
 categories:
 - troubleshooting
@@ -13,7 +14,7 @@ tags:
 - security
 - ssl
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-mixed-content-blocked-fix-website
 ---
 # Chrome Mixed Content Blocked Fix for Your Website
@@ -87,3 +88,10 @@ By taking proactive steps to prevent mixed content and knowing how to fix it whe
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [Chrome ERR_SSL_PROTOCOL_ERROR Fix](/articles/chrome-err-ssl-protocol-error-fix/)
+* [Chrome Extensions for SSL Certificate Checker](/articles/chrome-extensions-for-ssl-certificate-checker/)
+* [Chrome Content Encoding Error Fix](/articles/chrome-content-encoding-error-fix/)

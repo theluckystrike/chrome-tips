@@ -17,6 +17,7 @@ author: theluckystrike
 permalink: chrome-shape-detection-api-explained
 last_modified_at: '2026-03-12'
 ---
+
 # Chrome Shape Detection API Explained
 
 If you are searching for chrome shape detection api explained, you probably want to understand what this Chrome feature does and how it affects your browsing experience. The Shape Detection API is one of those behind-the-scenes technologies that makes certain website features possible, and understanding it can help you make better decisions about your browser settings and privacy.

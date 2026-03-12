@@ -11,6 +11,7 @@ categories: '[performance, chrome, browser]'
 tags: '[chrome, performance, browser, total-blocking-time]'
 author: theluckystrike
 ---
+
 # Chrome Total Blocking Time Explained
 
 Chrome total blocking time explained is a term that shows up when you open Chrome's performance tools, and it can leave many users wondering what it actually means and whether they should care about it. If you have ever noticed your browser feeling sluggish, tabs freezing, or your computer slowing down while browsing, this metric might be at the heart of the problem. Understanding what total blocking time measures and how to reduce it can make a real difference in your browsing experience.

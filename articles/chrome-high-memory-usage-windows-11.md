@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Chrome High Memory Usage Windows 11"
-description: "Chrome using too much RAM on Windows 11? Learn why it happens and practical..........................................................................."
-date: "2026-01-20"
+title: Chrome High Memory Usage Windows 11
+description: Chrome using too much RAM on Windows 11? Learn why it happens and practical...........................................................................
+date: '2026-01-20'
 last_modified_at: '2026-03-12'
-permalink: "chrome-high-memory-usage-windows-11"
-categories: 
-tags: 
+permalink: chrome-high-memory-usage-windows-11
+categories: null
+tags: null
 author: theluckystrike
 ---
+
 # Chrome High Memory Usage Windows 11
 
 If you are using Chrome on Windows 11 and noticing that your computer is running slower than usual, you might be dealing with chrome high memory usage on Windows 11. This is one of the most common complaints from Windows 11 users who browse the web with Chrome. The good news is that there are clear reasons this happens and simple steps you can take to bring your browser's memory consumption back under control.

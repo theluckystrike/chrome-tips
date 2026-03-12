@@ -15,9 +15,10 @@ tags:
 - high-contrast
 - keyboard-navigation
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-accessibility-features-you-didnt-know-about
 ---
+
 # Chrome Accessibility Features You Didn't Know About
 
 Chrome has a surprising number of accessibility features built in, and most people don't know they exist. Whether you have a visual impairment, motor difficulties, hearing challenges, or just want a more comfortable browsing experience, there's probably a feature here that can help. Beyond just making the web usable for everyone, these tools often provide productivity benefits for all users.

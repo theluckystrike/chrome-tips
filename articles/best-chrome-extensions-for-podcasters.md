@@ -13,9 +13,10 @@ tags:
 - podcasters
 - browser-tools
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chrome-extensions-for-podcasters
 ---
+
 # Best Chrome Extensions for Podcasters
 
 Searching for the **best chrome extensions for podcasters** is a great way to manage the many moving parts of audio production, from guest research and scripting to social media promotion. With a never-ending to-do list, the right browser tools can automate repetitive tasks and help you focus on creating great content for your listeners.

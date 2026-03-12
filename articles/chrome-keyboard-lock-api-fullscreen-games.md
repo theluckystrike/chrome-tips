@@ -5,7 +5,7 @@ description: Learn how to use the Chrome Keyboard Lock API to capture keyboard i
   for immersive fullscreen web games. Step-by-step guide with code examples. Check
   out ou
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-keyboard-lock-api-fullscreen-games
 categories:
 - chrome
@@ -22,6 +22,7 @@ tags:
 - game-development
 author: theluckystrike
 ---
+
 # Chrome Keyboard Lock API: Building Immersive Fullscreen Games
 
 When building web-based games that require fullscreen immersion, one of the most frustrating issues developers face is unexpected browser keyboard shortcuts interrupting gameplay. Pressing Alt+Tab to switch windows, Ctrl+W to close tabs, or Escape to exit fullscreen can instantly break the gaming experience. This is where the Chrome Keyboard Lock API comes in—a powerful feature that allows web applications to capture keyboard input exclusively for immersive fullscreen experiences.

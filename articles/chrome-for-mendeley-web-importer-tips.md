@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-mendeley-web-importer-tips
 ---
+
 # Chrome for Mendeley Web Importer Tips
 
 If you are searching for chrome for mendeley web importer tips, you likely use Mendeley to manage your research papers and want to get the most out of the Chrome extension. Mendeley Web Importer is a handy tool that helps you save papers, websites, and other research materials directly to your Mendeley library with just a few clicks. However, like any browser extension, it works best when you know how to use it properly and understand some tricks that can make your workflow smoother.

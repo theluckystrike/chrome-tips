@@ -5,7 +5,7 @@ description: Discover what makes Chrome tick. A deep dive into Chromium, V8, Bli
   and other open-source components that power the world's most popular browser. Learn
   ef...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-open-source-parts-explained
 categories:
 - features
@@ -16,6 +16,7 @@ tags:
 - browser-engine
 author: theluckystrike
 ---
+
 # Chrome Open Source Parts Explained
 
 When you open Chrome and browse the web, you're interacting with one of the most sophisticated pieces of software ever built. But here's something that surprises many users: Chrome is built almost entirely on open-source technology. Understanding these open-source components not only satisfies curiosity but also helps you make better decisions about browser customization, extensions, and privacy.

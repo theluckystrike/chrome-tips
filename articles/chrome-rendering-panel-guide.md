@@ -19,8 +19,9 @@ tags:
 - scrolling
 author: theluckystrike
 permalink: chrome-rendering-panel-guide
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Rendering Panel Guide
 
 The Chrome Rendering Panel is one of the most powerful yet underutilized tools available in Chrome Developer Tools. Whether you are a web developer trying to optimize your websites or a regular user experiencing sluggish browsing performance, understanding how to use the Rendering Panel can help you diagnose and resolve a wide range of visual performance issues. This comprehensive guide will walk you through every aspect of the Rendering Panel, from basic concepts to advanced techniques for identifying and fixing performance bottlenecks.

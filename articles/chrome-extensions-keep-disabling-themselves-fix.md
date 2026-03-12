@@ -5,7 +5,7 @@ description: Discover why your Chrome extensions keep disabling themselves and l
   practical solutions to keep them running reliably. Read our comprehensive guide
   to le...
 date: 2026-01-20
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-keep-disabling-themselves-fix
 categories:
 - troubleshooting
@@ -16,6 +16,7 @@ tags:
 - browser-issues
 author: theluckystrike
 ---
+
 # Chrome Extensions Keep Disabling Themselves Fix
 
 Chrome extensions keep disabling themselves and it is frustrating when you need them the most. You install an extension, it works fine for a while, and then suddenly it turns off without any warning. This happens to many Chrome users and there are several reasons why it occurs. The good news is that once you understand what causes it, you can take steps to prevent it from happening again.

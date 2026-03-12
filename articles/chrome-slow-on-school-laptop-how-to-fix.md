@@ -15,8 +15,9 @@ tags:
 - students
 author: theluckystrike
 permalink: chrome-slow-on-school-laptop-how-to-fix
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Slow on School Laptop? Here's How to Fix It
 
 School laptops are typically designed to be budget-friendly, which means they're usually equipped with modest hardware. When you try to run Chrome — one of the most memory-intensive browsers — on a laptop with 4GB or less of RAM, things can get painfully slow. If you're a student trying to research, write papers, or join a Zoom class, a sluggish browser is the last thing you need.

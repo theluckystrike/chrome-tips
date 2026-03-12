@@ -4,7 +4,7 @@ description: Master the Chrome Speech Recognition API for voice input, transcrip
   accuracy, continuous recognition, and language support. Build powerful voice-enabled
   web...
 date: 2026-01-15
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-speech-recognition-api
 layout: post
 categories:
@@ -19,6 +19,7 @@ tags:
 - accessibility
 author: theluckystrike
 ---
+
 # Chrome Speech Recognition API Guide
 
 The Chrome Speech Recognition API represents one of the most powerful yet underutilized features available to web developers today. This browser-based voice recognition technology enables websites to convert spoken language into written text in real-time, opening doors to accessibility improvements, hands-free navigation, voice-powered applications, and innovative user experiences. Whether you are building a voice note-taking application, creating an accessible form interface, or developing a hands-free documentation system, understanding this API will give you a significant advantage in modern web development.

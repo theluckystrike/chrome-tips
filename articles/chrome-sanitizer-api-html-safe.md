@@ -18,8 +18,9 @@ tags:
 - web-security
 author: theluckystrike
 permalink: chrome-sanitizer-api-html-safe
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Sanitizer API: The Safe Way to Handle HTML in Your Browser
 
 Web security remains one of the most critical concerns for developers and users alike. When web applications need to display user-generated HTML content, the risk of cross-site scripting (XSS) attacks becomes a significant threat. The Chrome Sanitizer API provides a robust solution for safely handling HTML content in modern browsers, offering developers a built-in way to sanitize potentially dangerous markup without relying on external libraries.

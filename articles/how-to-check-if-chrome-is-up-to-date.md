@@ -11,6 +11,7 @@ categories: '[browser, security, updates]'
 tags: '[chrome-update, browser-security, chrome-settings]'
 author: theluckystrike
 ---
+
 # How to Check If Chrome Is Up to Date
 
 If you are searching for how to check if Chrome is up to date, you probably want to make sure your browser has the latest features and, more importantly, the latest security fixes. Keeping Chrome updated is one of the simplest ways to protect yourself online, and this guide will show you exactly how to do it.

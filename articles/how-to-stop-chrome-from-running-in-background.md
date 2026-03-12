@@ -10,6 +10,7 @@ categories: '[performance, background]'
 tags: '[chrome-background, chrome-running, battery-drain, chrome-settings]'
 author: theluckystrike
 ---
+
 # How to Stop Chrome from Running in Background
 
 If you ever notice your computer fan running or battery draining faster than expected even after you closed Chrome, Chrome might still be running in the background. This is a common issue that many users don't notice until they see unexpected resource usage. Here's how to stop Chrome from running in background and reclaim your system resources.

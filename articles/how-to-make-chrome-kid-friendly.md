@@ -11,6 +11,7 @@ categories: '[family, safety]'
 tags: '[kid-friendly, child-safety, safe-browsing, chrome-for-kids]'
 author: theluckystrike
 ---
+
 # How to Make Chrome Kid-Friendly
 
 You don't need to be a tech expert to make Chrome safe for your kids. A few straightforward changes will create a browsing environment where your children can explore, learn, and have fun without stumbling into things they shouldn't see.

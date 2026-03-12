@@ -8,6 +8,7 @@ date: '2026-01-01'
 last_modified_at: '2026-03-12'
 permalink: chrome-third-party-cookies-what-happens-when-blocked
 ---
+
 If you have ever searched for chrome third party cookies what happens when blocked, you might have noticed some websites behaving differently lately. Maybe you got logged out unexpectedly, or a video stopped loading, or the ads you see seem different. This guide will walk you through exactly what is going on and how to handle it.
 
 ## Why Third Party Cookies Get Blocked

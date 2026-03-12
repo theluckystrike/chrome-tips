@@ -5,7 +5,7 @@ description: Hardware acceleration in Chrome can cause issues on older computers
   Learn how to disable it and fix common problems with this practical guide. Check
   out our e
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-hardware-acceleration-causes-problems
 categories:
 - performance
@@ -17,6 +17,7 @@ tags:
 - browser-issues
 author: theluckystrike
 ---
+
 # Chrome Hardware Acceleration Causes Problems
 
 If Chrome has been running slowly, crashing frequently, or displaying graphics incorrectly on your computer, hardware acceleration might be the culprit. This feature is designed to improve performance by using your computer's GPU, but on older or budget machines with limited RAM, it often causes more problems than it solves. The good news is that you can fix these issues by adjusting a few settings.

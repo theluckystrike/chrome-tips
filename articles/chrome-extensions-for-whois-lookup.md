@@ -5,7 +5,7 @@ description: Looking for chrome extensions for whois lookup? Find the best tools
   check domain registration details directly in your browser. Read our comprehensive
   gui...
 date: 2026-03-10
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-whois-lookup
 categories:
 - productivity
@@ -17,6 +17,7 @@ tags:
 - browser-tools
 author: theluckystrike
 ---
+
 If you have been searching for chrome extensions for whois lookup, you probably need a quick way to find out who owns a website domain without leaving your browser. Whether you are investigating a suspicious email, checking if a website is legitimate before making a purchase, or just curious about when a domain was registered, whois lookup extensions can save you a lot of time. Let me walk you through how these extensions work and what options are available.
 
 ## Why You Might Need a Whois Lookup Extension

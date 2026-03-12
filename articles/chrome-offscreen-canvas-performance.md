@@ -4,7 +4,7 @@ title: 'Chrome Offscreen Canvas Performance: A Complete Guide'
 description: Learn how Chrome's Offscreen Canvas API can dramatically improve performance
   for graphics-intensive web applications and background processing. Learn effecti...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-offscreen-canvas-performance
 categories:
 - performance
@@ -17,6 +17,7 @@ tags:
 - graphics
 author: theluckystrike
 ---
+
 # Chrome Offscreen Canvas Performance
 
 If you have ever built a web application that involves animations, games, or intensive graphics, you have probably dealt with the Canvas API. Rendering complex visuals can quickly bring a browser to its knees, especially when multiple tabs are open or when the main thread gets bogged down with other tasks. This is where Chrome's Offscreen Canvas comes in, offering a powerful solution for improving chrome offscreen canvas performance.

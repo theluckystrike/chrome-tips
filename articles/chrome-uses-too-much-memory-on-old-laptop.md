@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Uses Too Much Memory on Old Laptop
-description: Is Chrome using too much memory on your old laptop? Learn practical solutions to reduce memory consumption and breathe new life into your aging hardware.
+description: Is Chrome using too much memory on your old laptop? Learn practical solutions
+  to reduce memory consumption and breathe new life into your aging hardware.
 date: 2025-12-11
 categories:
 - performance
@@ -15,8 +16,9 @@ tags:
 - chrome-settings
 author: theluckystrike
 permalink: chrome-uses-too-much-memory-on-old-laptop
-last_modified_at: '2025-12-11'
+last_modified_at: '2026-03-12'
 ---
+
 
 # Chrome Uses Too Much Memory on Old Laptop
 

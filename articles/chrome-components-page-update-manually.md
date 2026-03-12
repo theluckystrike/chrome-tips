@@ -4,7 +4,7 @@ description: Learn how to manually update Chrome components using the components
   Simple steps to keep your browser running smoothly. Read our full guide to master
   your
 date: '2026-01-15'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-components-page-update-manually
 layout: post
 categories:
@@ -17,6 +17,7 @@ tags:
 - chrome-settings
 author: theluckystrike
 ---
+
 # Chrome Components Page Update Manually
 
 Chrome components page update manually is something many users search for when their browser seems to be acting up or not performing as well as it should. The Chrome components page is a hidden tool that shows you all the different parts and modules that make Chrome work, and sometimes these pieces need a manual refresh to stay current.

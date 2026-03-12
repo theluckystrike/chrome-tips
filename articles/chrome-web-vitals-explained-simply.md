@@ -1,14 +1,23 @@
 ---
 layout: post
-title: "Chrome Web Vitals Explained Simply"
-description: "Learn what Chrome Web Vitals are and why they matter for your website. This simple guide covers LCP, FID, and CLS with practical tips to improve your site performance."
+title: Chrome Web Vitals Explained Simply
+description: Learn what Chrome Web Vitals are and why they matter for your website.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-web-vitals-explained-simply
-categories: [web-development, performance, seo]
-tags: [chrome-web-vitals, core-web-vitals, page-speed, website-performance, web-development]
+categories:
+- web-development
+- performance
+- seo
+tags:
+- chrome-web-vitals
+- core-web-vitals
+- page-speed
+- website-performance
+- web-development
 author: theluckystrike
 ---
+
 
 # Chrome Web Vitals Explained Simply
 

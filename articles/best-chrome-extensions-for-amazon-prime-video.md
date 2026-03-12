@@ -14,9 +14,8 @@ tags:
 - amazon-prime-video
 - streaming
 author: theluckystrike
-last_modified_at: 2026-03-12
-permalink: best-chrome-extensions-for-amazon-prime-video
 ---
+
 # Best Chrome Extensions for Amazon Prime Video
 
 If you're looking for the **best chrome extensions for amazon prime video**, you probably want to unlock more features from your streaming subscription. While Prime Video has a massive library, these tools can add essential functions like custom subtitles, watch parties, and better playback controls to improve your viewing experience.

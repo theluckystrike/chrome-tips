@@ -15,8 +15,9 @@ tags:
 - chrome-features
 author: theluckystrike
 permalink: chrome-screen-reader-support
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Screen Reader Support: A Complete Guide
 
 If you have been searching for information about chrome screen reader support, you have come to the right place. Google Chrome offers robust accessibility features designed to make web browsing accessible for users with visual impairments, reading difficulties, or other accessibility needs. This guide will walk you through everything you need to know about using screen readers with Chrome and maximizing your browsing experience.

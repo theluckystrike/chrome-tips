@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-google-docs-offline-setup
 ---
+
 # Chrome for Google Docs Offline Setup
 
 Chrome for Google Docs offline setup is something many people need when they have spotty internet or want to work on the go. Whether you are traveling, dealing with unreliable WiFi, or just want to ensure you can access your documents during an outage, setting up offline access is a game changer.

@@ -10,6 +10,7 @@ categories: '[chrome, data-migration, sync, backup]'
 tags: '[chrome-sync, data-transfer, browser-migration, bookmarks, passwords]'
 author: theluckystrike
 ---
+
 # How to Migrate Chrome Data to a New Computer
 
 Getting a new computer is exciting, but the thought of losing your carefully curated Chrome bookmarks, saved passwords, and browsing history can be stressful. The good news is that Google Chrome makes it remarkably easy to transfer all your data to a new machine using its built-in sync feature. Whether you're moving from Windows to Mac, upgrading to a new PC, or switching between operating systems, your Chrome data can follow you seamlessly.

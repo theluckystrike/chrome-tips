@@ -17,8 +17,9 @@ tags:
 - progressive-web-apps
 author: theluckystrike
 permalink: chrome-shortcuts-in-pwa-how-to-define
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Shortcuts in PWA How to Define
 
 If you have searched for chrome shortcuts in pwa how to define, you might be wondering what these shortcuts actually are and how you can add them to your web apps. This guide will explain everything in plain language so you can understand how to define shortcuts in Progressive Web Apps and make your web experience more convenient.

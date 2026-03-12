@@ -14,9 +14,10 @@ tags:
 - keyboard-shortcuts
 - productivity
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-bookmark-current-page-shortcut
 ---
+
 # Chrome Bookmark Current Page Shortcut
 
 If you are looking for a chrome bookmark current page shortcut, you probably want a faster way to save websites without clicking through menus. Bookmarking pages you visit frequently can save you time, but the traditional method of finding the star icon and clicking it gets tedious when you do it many times a day. The good news is that Chrome provides several quick ways to bookmark the page you are currently viewing, and this guide will walk you through each one.

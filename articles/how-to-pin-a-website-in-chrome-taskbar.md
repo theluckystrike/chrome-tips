@@ -5,12 +5,13 @@ description: Learn how to pin a website to your Windows or Mac taskbar for quick
   with just one click. Read our comprehensive guide to learn more and optimize your
   ...
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: how-to-pin-a-website-in-chrome-taskbar
 categories: '[productivity, chrome]'
 tags: '[chrome, taskbar, pinned-websites, productivity]'
 author: theluckystrike
 ---
+
 # How to Pin a Website in Chrome Taskbar
 
 How to pin a website in Chrome taskbar is something many Chrome users wonder about. Whether you use Chrome on Windows or Mac, having your favorite websites appear in your taskbar can save time and make your workflow smoother. Instead of opening Chrome and typing a URL or searching for a bookmark, you can simply click an icon right from your desktop. Let me walk you through the different ways to do this.

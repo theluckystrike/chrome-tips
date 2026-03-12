@@ -8,6 +8,7 @@ date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-skyscanner-web-app-tips
 ---
+
 If you use Chrome for Skyscanner web app, you might be looking for ways to make your flight searches faster and smoother. Skyscanner is a fantastic tool for finding cheap flights, but running it in Chrome can sometimes feel slower than it should be. Let me share some helpful tips to optimize your experience when using Chrome for the Skyscanner web app.
 
 ## Why Skyscanner Can Feel Slow in Chrome

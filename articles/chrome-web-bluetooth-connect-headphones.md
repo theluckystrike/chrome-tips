@@ -11,6 +11,7 @@ categories: '[features, connectivity]'
 tags: '[bluetooth, headphones, chrome-features, wireless, troubleshooting]'
 author: theluckystrike
 ---
+
 # Chrome Web Bluetooth Connect Headphones
 
 If you have searched for chrome web bluetooth connect headphones, you probably ran into some frustration trying to get your wireless headphones to work with Chrome. Maybe a website asked you to connect your headphones, but the browser could not find them, or perhaps the connection kept dropping at the worst possible moment. This is a common problem, and the good news is that it usually has simple solutions.

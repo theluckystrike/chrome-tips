@@ -5,9 +5,10 @@ description: Learn how to use Chrome extensions for web scraping without code. E
   data from websites easily without programming skills. Read our comprehensive guide
   ...
 date: 2026-03-10
-last_modified_at: 2026-03-10
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-web-scraping-without-code
 ---
+
 Chrome extensions for web scraping without code make it possible to gather data from websites without writing any scripts. If you have ever needed to collect information from the web but felt stuck because you do not know how to program, this guide is for you.
 
 ## Why Web Scraping Feels Impossible Without Code

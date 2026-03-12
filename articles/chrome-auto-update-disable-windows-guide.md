@@ -14,9 +14,10 @@ tags:
 - windows-tutorial
 - chrome-settings
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-auto-update-disable-windows-guide
 ---
+
 # How to Disable Chrome Auto Update on Windows
 
 Google Chrome automatically updates itself to ensure you have the latest security patches, performance improvements, and feature additions. While this is generally beneficial for most users, there are valid reasons why you might want to control when Chrome updates. Perhaps you need to maintain compatibility with specific extensions, prefer to test updates in a controlled environment, or manage updates across multiple workstations in an organization. This guide will walk you through several methods to disable or control Chrome auto-update on Windows.

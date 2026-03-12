@@ -5,7 +5,7 @@ description: Learn how Chrome Streams API handles large files efficiently, what 
   means for your browsing, and practical tips for everyday users. Read our comprehensive
   gui
 date: '2025-03-10'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-streams-api-for-large-files
 categories:
 - tips
@@ -18,6 +18,7 @@ tags:
 - performance
 author: theluckystrike
 ---
+
 # Chrome Streams API for Large Files
 
 Chrome streams API for large files is something that comes up when you download big documents, videos, or datasets directly in your browser. If you have ever tried to download a large file only to see your browser freeze or the download fail partway through, understanding how the Streams API works can help you avoid these frustrations and get a smoother experience.

@@ -4,13 +4,14 @@ description: Learn how a chrome extension for blocking social media during work 
   help you stay focused and get more done. Check out our expert recommendations and
   step-by
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extension-for-blocking-social-media-during-work
 layout: post
 categories: '[productivity, tips]'
 tags: '[chrome-extensions, productivity, focus, social-media]'
 author: theluckystrike
 ---
+
 # Chrome Extension for Blocking Social Media During Work
 
 If you are looking for a chrome extension for blocking social media during work, you are not alone. Millions of people struggle with the constant temptation to check Facebook, Twitter, Instagram, or TikTok while trying to focus on important tasks. This article will help you understand why this happens and what you can do about it.

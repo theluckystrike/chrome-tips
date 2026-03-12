@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Understanding the Chrome Blink Rendering Engine
-description: A clear overview of how Chrome's Blink rendering engine works, its history, and why it matters for your browsing experience.
+description: A clear overview of how Chrome's Blink rendering engine works, its history,
+  and why it matters for your browsing experience.
 date: 2026-03-12
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-blink-rendering-engine-overview
 categories:
 - technology
@@ -17,6 +18,7 @@ tags:
 - browser-engine
 author: theluckystrike
 ---
+
 # Understanding the Chrome Blink Rendering Engine
 
 If you use Google Chrome as your web browser, you interact with the Blink rendering engine every single day, often without knowing it exists. This powerful piece of technology determines how web pages appear on your screen, how quickly they load, and how smoothly animations and interactions play out. Understanding what Blink does can help you appreciate the complex machinery behind your browsing experience and make better decisions about how you use your browser.

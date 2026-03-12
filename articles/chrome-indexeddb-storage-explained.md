@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Chrome IndexedDB Storage Explained"
-description: "Learn what Chrome IndexedDB storage is, how it works, and how to manage..............................................................................."
-date: "2026-03-09"
+title: Chrome IndexedDB Storage Explained
+description: Learn what Chrome IndexedDB storage is, how it works, and how to manage...............................................................................
+date: '2026-03-09'
 last_modified_at: '2026-03-12'
-permalink: "chrome-indexeddb-storage-explained"
+permalink: chrome-indexeddb-storage-explained
 ---
+
 Chrome indexeddb storage explained is something many Chrome users wonder about when they notice their browser using more space than expected. If you have ever checked how much storage Chrome is using or wondered why certain websites remember your data even after you close the browser, IndexedDB is likely behind it. Understanding what this storage system does and how to manage it can help you take control of your browser and free up valuable disk space.
 
 ## What IndexedDB Actually Is

@@ -4,7 +4,7 @@ description: Running Chrome on a slow computer with limited RAM? Learn the best 
   line flags to reduce memory usage and speed up your browser. Read our full guide
   to m
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-command-line-flags-for-low-memory
 layout: post
 categories:
@@ -18,6 +18,7 @@ tags:
 - command-line
 author: theluckystrike
 ---
+
 # Chrome Command Line Flags for Low Memory: A Practical Guide
 
 If your computer has limited RAM and Chrome feels sluggish, you are not alone. Many users with older machines or budget laptops experience slow browsing because Chrome is designed to use available memory for speed. The good news is that Chrome includes hidden settings called "command line flags" that can significantly reduce memory usage. In this guide, we will show you practical flags you can enable to make Chrome run faster on low memory systems.

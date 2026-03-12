@@ -11,6 +11,7 @@ categories: '[features, accessibility]'
 tags: '[dictation, voice-typing, hands-free, chrome-features]'
 author: theluckystrike
 ---
+
 # How to Dictate Text in Chrome
 
 If you have ever searched for "how to dictate text in chrome," you probably wanted a hands-free way to type without using your keyboard. Maybe your hands were tired, you had an injury, or you simply wanted to type faster by speaking. Whatever your reason, Chrome has built-in voice input features that make dictating text simple and convenient.

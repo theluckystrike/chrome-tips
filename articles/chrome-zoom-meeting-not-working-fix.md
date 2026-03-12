@@ -10,6 +10,7 @@ categories: '[browsers, troubleshooting]'
 tags: '[zoom, chrome, meeting, troubleshooting, video-call]'
 author: theluckystrike
 ---
+
 # Chrome Zoom Meeting Not Working Fix
 
 If your chrome zoom meeting not working fix is what you are searching for right now, you are not alone. Thousands of people face issues with Zoom meetings not loading or functioning properly in Google Chrome every day. This problem can be frustrating, especially when you have an important meeting to attend and nothing seems to work. The good news is that most of these issues have simple solutions that you can try right away. In this guide, I will walk you through why these problems happen and exactly what you can do to get your Zoom meetings working again in Chrome.

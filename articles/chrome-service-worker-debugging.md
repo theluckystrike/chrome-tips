@@ -18,8 +18,9 @@ tags:
 - offline
 author: theluckystrike
 permalink: chrome-service-worker-debugging
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Service Worker Debugging Guide
 
 Service workers have become an essential part of modern web development, enabling features like offline capabilities, push notifications, and background sync. However, debugging service workers can feel like navigating uncharted waters for many developers. The good news is that Chrome provides powerful built-in tools that make this process much more manageable when you know how to use them effectively.

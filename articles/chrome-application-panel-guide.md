@@ -17,9 +17,10 @@ tags:
 - pwa
 - web-development
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-application-panel-guide
 ---
+
 # Chrome Application Panel Guide
 
 The Chrome Application Panel is one of the most powerful yet underutilized tools in Chrome DevTools. Whether you are building Progressive Web Apps (PWAs), debugging storage issues, or optimizing your web application's performance, the Application panel provides a unified interface to inspect and manage all the moving parts that make modern web applications work. This comprehensive guide will walk you through everything you need to know about the Chrome Application Panel, from understanding its various sections to using it effectively for debugging common issues.

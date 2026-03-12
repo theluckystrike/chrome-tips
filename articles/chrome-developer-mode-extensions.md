@@ -15,9 +15,10 @@ tags:
 - extension-debugging
 - chrome-extensions
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-developer-mode-extensions/
+last_modified_at: '2026-03-12'
+permalink: chrome-developer-mode-extensions
 ---
+
 # Chrome Developer Mode Extensions Guide
 
 Chrome Developer Mode is a powerful feature that allows you to load, test, and debug extensions directly from your local development environment. Whether you are building your own extension or testing a modified version of an existing one, understanding how to use Developer Mode effectively is essential for any Chrome extension developer or power user. This comprehensive guide will walk you through everything you need to know about using Chrome Developer Mode extensions, from loading unpacked extensions to debugging techniques that will help you build more reliable extensions.

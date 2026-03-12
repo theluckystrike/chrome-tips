@@ -16,6 +16,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-multiple-search-engines-switching
 ---
+
 # Chrome for Multiple Search Engines Switching
 
 If you have ever wanted to use Chrome for multiple search engines switching, you are not alone. Many people find themselves needing different search engines for different tasks. Maybe you use Google for everyday searches but switch to DuckDuckGo when you want more privacy, or perhaps you need Bing for work-related research and Google for personal stuff. Whatever your reason, Chrome makes it pretty straightforward to set up and use multiple search engines, and I am going to walk you through how to do it.

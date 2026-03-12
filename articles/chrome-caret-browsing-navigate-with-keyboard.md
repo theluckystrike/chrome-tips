@@ -15,7 +15,9 @@ tags:
 - productivity
 author: theluckystrike
 permalink: chrome-caret-browsing-navigate-with-keyboard
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Caret Browsing: Navigate with Keyboard
 
 Chrome caret browsing is one of the most powerful yet underutilized features in Google's browser. This feature turns your web page into a text editor where you can move around using keyboard shortcuts, select text, and navigate without ever touching your mouse. If you want to boost your browsing productivity significantly, learning **chrome caret browsing navigate with keyboard** techniques is essential.

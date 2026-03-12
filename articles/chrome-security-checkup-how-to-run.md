@@ -15,8 +15,9 @@ tags:
 - chrome-privacy
 author: theluckystrike
 permalink: chrome-security-checkup-how-to-run
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Security Checkup How to Run
 
 Your browser is the gateway to your digital life, handling everything from online banking to social media. Running regular security checkups on Chrome helps keep your data safe and your browsing experience secure. This guide shows you exactly how to run Chrome's built-in security checkup and what to do with the results.

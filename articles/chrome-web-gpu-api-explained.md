@@ -11,6 +11,7 @@ categories: '[performance, gpu, web-development]'
 tags: '[chrome-web-gpu, web-gpu-api, browser-graphics, chrome-performance]'
 author: theluckystrike
 ---
+
 # Chrome Web GPU API Explained
 
 If you have heard about Chrome Web GPU API and wondered what it actually means, you are in the right place. This technology is changing how web browsers handle graphics and heavy visual tasks, and understanding it can help you get more from your browsing experience.

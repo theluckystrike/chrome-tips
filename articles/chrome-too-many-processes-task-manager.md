@@ -10,6 +10,7 @@ categories: '[performance, troubleshooting]'
 tags: '[chrome-task-manager, chrome-processes, browser-tools, chrome-tips]'
 author: theluckystrike
 ---
+
 # Chrome Too Many Processes Task Manager
 
 Chrome too many processes task manager is a common search for users who notice their browser spawning dozens of separate processes and want to understand what is happening and how to regain control.

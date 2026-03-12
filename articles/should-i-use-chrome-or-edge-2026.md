@@ -10,6 +10,7 @@ categories: '[comparison]'
 tags: '[chrome-vs-edge, browser-choice-2026, browser-comparison, best-browser]'
 author: theluckystrike
 ---
+
 # Should I Use Chrome or Edge in 2026?
 
 This is one of those questions where the honest answer is "it depends," but let's dig into what it actually depends on so you can make a real decision.

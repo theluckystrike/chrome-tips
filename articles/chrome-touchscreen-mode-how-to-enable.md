@@ -11,6 +11,7 @@ categories: '[features, accessibility]'
 tags: '[touchscreen, chrome-settings, accessibility, touch-mode]'
 author: theluckystrike
 ---
+
 # Chrome Touchscreen Mode How to Enable
 
 If you have ever searched for chrome touchscreen mode how to enable, you likely own a touchscreen laptop or tablet and want Chrome to respond better to your finger taps and swipes. Many modern laptops come with touchscreens, but Chrome does not always automatically adjust its interface to be more finger-friendly. This guide will explain why this happens and show you exactly how to enable touchscreen mode in Chrome.

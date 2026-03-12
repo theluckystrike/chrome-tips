@@ -1,9 +1,11 @@
 ---
 layout: default
 title: How to Force Dark Mode on All Websites in Chrome
-description: Learn how to force dark mode on all websites in Chrome with simple methods. Make every site dark and easy on your eyes.
+description: Learn how to force dark mode on all websites in Chrome with simple methods.
+  Make every site dark and easy on your eyes.
+permalink: chrome-force-dark-mode-all-websites
+last_modified_at: '2026-03-12'
 ---
-
 # Chrome Force Dark Mode All Websites
 
 If you have ever searched for "chrome force dark mode all websites," you know how frustrating it can be to visit bright, white websites at night. Many websites still default to light backgrounds, which can strain your eyes during evening browsing sessions. This guide covers several ways to force dark mode on every website you visit in Chrome, creating a consistent dark experience across the web.
@@ -69,3 +71,10 @@ Once you experience the benefits of dark mode across all websites, you will like
 ---
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [How to Force Dark Mode on All Websites in Chrome](/articles/chrome-dark-mode-force-all-websites/)
+* [chrome force dark mode on all websites](/articles/chrome-force-dark-mode-on-all-websites/)
+* [Chrome Mobile Dark Mode Force on All Sites](/articles/chrome-mobile-dark-mode-force-on-all-sites/)

@@ -4,7 +4,7 @@ description: 'Learn how to enable compact mode in Chrome to reduce browser clutt
   and save screen space. Simple steps for a cleaner browsing experience. Read our
   full guide '
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-compact-mode-how-to-enable
 layout: post
 categories:
@@ -16,6 +16,7 @@ tags:
 - interface
 author: theluckystrike
 ---
+
 # Chrome Compact Mode How to Enable
 
 Chrome compact mode how to enable is a question many Chrome users are asking as they look for ways to make their browser take up less screen space. Whether you are working on a smaller laptop screen, trying to fit more windows side by side, or simply prefer a tidier interface, compact mode can help you achieve that. This guide walks you through what compact mode is, how to enable it, and what alternatives exist if Chrome does not offer exactly what you are looking for.

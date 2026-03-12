@@ -11,6 +11,7 @@ categories: '[comparison, performance]'
 tags: '[chrome-vs-firefox, browser-switching, speed, performance]'
 author: theluckystrike
 ---
+
 # Should I Switch from Chrome to Firefox for Speed?
 
 Should i switch from chrome to firefox for speed? This is one of the most common questions I hear from people frustrated with a sluggish browser. With Chrome's reputation for being a "memory hog" and Firefox's "Quantum" engine updates, the choice isn't as simple as it once was. Let me walk you through what's actually happening under the hood and whether making the switch will truly give you the performance boost you're looking for.

@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-distraction-free-reading-mode
 ---
+
 # Chrome for Distraction Free Reading Mode
 
 If you are searching for chrome for distraction free reading mode, you probably want to enjoy your favorite articles and content without the noise of advertisements, pop-ups, and cluttered layouts. This guide will show you how to transform Chrome into a reading-focused browser that lets you focus on what matters most.

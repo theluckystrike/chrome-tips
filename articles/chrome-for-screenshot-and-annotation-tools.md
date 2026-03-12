@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-screenshot-and-annotation-tools
 ---
+
 # Chrome for Screenshot and Annotation Tools
 
 If you are looking for chrome for screenshot and annotation tools, you have probably found that Chrome itself does not have built-in screenshot features. You need to add extensions to get this functionality. The good news is that Chrome supports a wide range of screenshot and annotation tools that can make capturing and marking up your screen simple and fast.

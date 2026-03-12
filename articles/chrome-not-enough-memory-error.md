@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Chrome Not Enough Memory Error"
-description: "Getting a chrome not enough memory error? Learn why this happens and.................................................................................."
-date: "2026-03-09"
+title: Chrome Not Enough Memory Error
+description: Getting a chrome not enough memory error? Learn why this happens and..................................................................................
+date: '2026-03-09'
 last_modified_at: '2026-03-12'
-permalink: "chrome-not-enough-memory-error"
-categories: 
-tags: 
+permalink: chrome-not-enough-memory-error
+categories: null
+tags: null
 author: theluckystrike
 ---
+
 # Chrome Not Enough Memory Error
 
 Seeing a chrome not enough memory error pop up while you're trying to work is frustrating. Your browser freezes, tabs stop responding, and suddenly you can't do anything. This error happens when Chrome tries to use more memory than your computer can provide, and it's become increasingly common as we keep more tabs open than ever before.

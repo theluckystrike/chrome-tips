@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-compute-pressure-thermal-cpu
 ---
+
 # Chrome Compute Pressure: How Thermal and CPU Throttling Affect Your Browser
 
 If you have ever wondered why Chrome suddenly feels slower during intensive tasks, the answer might lie in compute pressure combined with thermal and CPU throttling. Understanding how these systems work together can help you optimize your browsing experience and keep your browser running smoothly even under challenging conditions.

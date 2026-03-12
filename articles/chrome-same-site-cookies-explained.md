@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Chrome Same Site Cookies Explained
-description: Learn how Chrome same site cookies work and why they matter for your browsing security and website functionality.
+description: Learn how Chrome same site cookies work and why they matter for your
+  browsing security and website functionality.
 date: 2026-03-12
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-same-site-cookies-explained
 categories:
 - chrome
@@ -17,7 +18,6 @@ tags:
 - web-development
 author: theluckystrike
 ---
-
 # Chrome Same Site Cookies Explained
 
 If you've ever wondered why certain websites log you out unexpectedly or why some features break after Chrome updates, the answer often lies in how cookies handle cross-site requests. Same site cookies are a browser security feature that controls when cookies get sent with requests, and understanding them helps you troubleshoot common issues while keeping your browsing more secure.
@@ -102,3 +102,10 @@ SameSite cookies are a fundamental part of modern web security. They protect use
 Whether you're debugging a website issue or simply curious about how your browser protects you, understanding SameSite=Lax, Strict, and None settings gives you insight into the complex ecosystem of web privacy and security.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+---
+
+## Related Articles
+* [Chrome Private Aggregation API Explained](/articles/chrome-private-aggregation-api-explained/)
+* [Chrome Font Fingerprinting Explained and Fix](/articles/chrome-font-fingerprinting-explained-and-fix/)
+* [Chrome Private State Tokens Explained: What They Are and How They Work](/articles/chrome-private-state-tokens-explained/)

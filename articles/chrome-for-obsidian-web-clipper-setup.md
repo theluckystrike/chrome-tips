@@ -18,6 +18,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-obsidian-web-clipper-setup
 ---
+
 # Chrome for Obsidian Web Clipper Setup
 
 Chrome for Obsidian Web Clipper setup is a powerful way to save web content directly into your personal knowledge base. If you use Obsidian to organize your notes and ideas, setting up this connection can transform how you collect information from the internet.

@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "chrome not playing youtube videos fix"
-description: "Is Chrome not playing YouTube videos? This guide covers simple solutions.............................................................................."
-date: "2026-03-09"
+title: chrome not playing youtube videos fix
+description: Is Chrome not playing YouTube videos? This guide covers simple solutions..............................................................................
+date: '2026-03-09'
 last_modified_at: '2026-03-12'
-permalink: "chrome-not-playing-youtube-videos-fix"
-categories: 
-tags: 
+permalink: chrome-not-playing-youtube-videos-fix
+categories: null
+tags: null
 author: theluckystrike
 ---
+
 # Chrome Not Playing YouTube Videos Fix
 
 Nothing is more frustrating than opening YouTube in Chrome only to find the videos are not playing. You might see a black screen, a spinning loader that never finishes, or an error message saying the video cannot be loaded. The good news is that most of the time, Chrome not playing YouTube videos is something you can fix yourself without technical help.

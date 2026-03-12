@@ -16,9 +16,10 @@ tags:
 - form-filling
 - browser-tips
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-autofill-wrong-address-keeps-appearing
 ---
+
 # How to Fix Chrome Autofill Wrong Address Keeps Appearing
 
 You're filling out a shipping form, and as you start typing your address, Chrome suggests the wrong one—again. Maybe it's an old address you moved away from years ago, or perhaps it's your neighbor's place from when you used to live there. No matter how many times you delete it, that wrong address keeps popping up. Sound familiar?

@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Chrome Keeps Logging Me Out of Sites Fix"
-description: "Chrome keeps logging you out of sites? Learn why this happens and how................................................................................."
-date: "2025-03-09"
+title: Chrome Keeps Logging Me Out of Sites Fix
+description: Chrome keeps logging you out of sites? Learn why this happens and how.................................................................................
+date: '2025-03-09'
 last_modified_at: '2026-03-12'
-permalink: "chrome-keeps-logging-me-out-of-sites-fix"
-categories: 
-tags: 
+permalink: chrome-keeps-logging-me-out-of-sites-fix
+categories: null
+tags: null
 author: theluckystrike
 ---
+
 # Chrome Keeps Logging Me Out of Sites Fix
 
 Chrome keeps logging me out of sites is a complaint you will hear from plenty of Chrome users. You sign into your favorite website, close the tab, reopen it a few minutes later, and suddenly you are logged out again. It is frustrating, especially when you use those sites daily and have to type your password over and over. This issue is usually not your fault and it is definitely fixable. Let us walk through why this happens and what you can do about it.

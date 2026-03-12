@@ -4,7 +4,7 @@ title: 'Chrome Not Loading Pages But Internet Works: Complete Fix Guide'
 description: Chrome won't load pages despite internet working? This guide provides
   step-by-step solutions to fix Chrome loading issues on Windows, Mac, and Android.
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-not-loading-pages-but-internet-works
 categories:
 - chrome
@@ -17,6 +17,7 @@ tags:
 - internet-connection
 author: theluckystrike
 ---
+
 # Chrome Not Loading Pages But Internet Works: Complete Fix Guide
 
 You're in the middle of something important, and suddenly Chrome refuses to load any pages. You check your Wi-Fi—it's working fine. You open another browser, and everything loads perfectly. But Chrome? Stuck on a blank page or spinning indefinitely. If this sounds familiar, you're dealing with one of the most frustrating browser issues out there.

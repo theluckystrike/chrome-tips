@@ -1,7 +1,8 @@
 ---
 layout: default
 title: How to Make Chrome Faster on Chromebook
-description: Learn practical tips and proven methods to speed up Chrome on your Chromebook. Optimize performance with simple settings changes and extension recommendations.
+description: Learn practical tips and proven methods to speed up Chrome on your Chromebook.
+  Optimize performance with simple settings changes and extension recommendations.
 date: 2025-01-15
 last_modified_at: '2026-03-12'
 permalink: how-to-make-chrome-faster-on-chromebook
@@ -16,6 +17,7 @@ tags:
 - browser performance
 author: theluckystrike
 ---
+
 
 # How to Make Chrome Faster on Chromebook
 

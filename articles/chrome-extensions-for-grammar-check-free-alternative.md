@@ -3,13 +3,14 @@ title: Chrome Extensions for Grammar Check Free Alternative
 description: Looking for chrome extensions for grammar check free alternative? Discover
   the best free tools to fix spelling and grammar mistakes in your browser. Check...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-grammar-check-free-alternative
 layout: post
 categories: '[writing, tips]'
 tags: '[chrome-extensions, grammar, spelling, writing, productivity, free]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Grammar Check Free Alternative
 
 If you are searching for chrome extensions for grammar check free alternative, you likely need a way to catch spelling and grammar mistakes without paying for expensive software. Many popular grammar checkers require monthly subscriptions, which adds up over time. The good news is that Chrome offers several free extensions that can help you write better without spending a dime.

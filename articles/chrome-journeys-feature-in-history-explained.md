@@ -5,7 +5,7 @@ description: Learn about Chrome Journeys, the AI-powered feature that groups you
   browsing history into meaningful timelines. Find past pages easily. Check out our
   expert r
 date: '2025-03-10'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-journeys-feature-in-history-explained
 categories:
 - features
@@ -16,6 +16,7 @@ tags:
 - ai-features
 author: theluckystrike
 ---
+
 # Chrome Journeys Feature in History Explained
 
 If you have ever searched for "chrome journeys feature in history explained" because you could not remember a specific website you visited recently, Chrome has a feature that might help you. Chrome Journeys is an intelligent history feature that uses artificial intelligence to organize your browsing history into connected timelines, making it much easier to find pages you visited days or weeks ago.

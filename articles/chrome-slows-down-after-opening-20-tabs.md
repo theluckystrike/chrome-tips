@@ -14,8 +14,9 @@ tags:
 - chrome-slow
 author: theluckystrike
 permalink: chrome-slows-down-after-opening-20-tabs
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Slows Down After Opening 20 Tabs: What You Can Do
 
 You open Chrome to research a topic, and before you know it, you have 20 tabs open. Then it happens—Chrome starts lagging, pages take forever to load, and your computer fan starts whirring like it's about to take off. If this sounds familiar, you are dealing with one of the most common Chrome performance problems out there. The good news is that you do not need to close your tabs or buy a new computer to fix it.

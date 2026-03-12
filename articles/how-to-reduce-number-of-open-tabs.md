@@ -11,6 +11,7 @@ categories: '[productivity, tabs]'
 tags: '[tab-management, reduce-tabs, chrome-tips, browser-tips]'
 author: theluckystrike
 ---
+
 # How to Reduce Number of Open Tabs
 
 We've all been there. You open a new tab to check something, then another, then another. Before you know it, you have 40 tabs open and Chrome is running slowly. If you need to learn how to reduce number of open tabs, this guide will help you get your browser under control.

@@ -15,9 +15,10 @@ tags:
 - performance
 - web-design
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-css-animations-performance-tips/
+last_modified_at: '2026-03-12'
+permalink: chrome-css-animations-performance-tips
 ---
+
 # Chrome CSS Animations Performance Tips
 
 Chrome CSS animations performance tips are something every web designer and developer should know about. Whether you are building a simple website or a complex web application, animations can make your interface feel more alive and interactive. But if they are not optimized properly, they can also make your site feel sluggish and unresponsive. The good news is that with a few smart techniques, you can create beautiful animations that run smoothly without draining your users' batteries or slowing down their browsers.

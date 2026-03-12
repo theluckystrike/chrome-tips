@@ -14,9 +14,10 @@ tags:
 - appearance
 - personalization
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-ai-theme-generator-how-to-use
 ---
+
 # Chrome AI Theme Generator How to Use
 
 If you have ever searched for chrome ai theme generator how to use, you likely want to personalize your browser with unique colors and styles but are not sure where to start. Chrome has introduced AI-powered theme creation that makes customizing your browser appearance easier than ever. This guide will walk you through the entire process of using Chrome's built-in theme generator to create a browser that reflects your personal style.

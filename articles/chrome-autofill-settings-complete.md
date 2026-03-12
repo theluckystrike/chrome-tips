@@ -16,9 +16,10 @@ tags:
 - payment-methods
 - address-book
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-autofill-settings-complete
 ---
+
 # Chrome Autofill Settings Complete Guide
 
 Chrome's autofill functionality is one of the most convenient features in modern web browsing. It saves you time by automatically filling in your personal information, payment details, and passwords whenever you encounter a form. However, understanding how to manage these settings effectively is crucial for both convenience and security. This complete guide walks you through every aspect of Chrome autofill settings, helping you optimize your browsing experience while keeping your data secure.

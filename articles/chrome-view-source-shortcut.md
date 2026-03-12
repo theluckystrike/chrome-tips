@@ -11,6 +11,7 @@ categories: '[browser-tips, web-development]'
 tags: '[view-source, keyboard-shortcuts, productivity, debugging]'
 author: theluckystrike
 ---
+
 # Chrome View Source Shortcut
 
 If you are searching for chrome view source shortcut, you probably want a quick way to see the raw HTML and code behind any webpage you are viewing. Whether you are curious about how a website is built, trying to understand why something looks wrong, or just want to learn by looking at other websites, knowing this shortcut will save you a lot of time.

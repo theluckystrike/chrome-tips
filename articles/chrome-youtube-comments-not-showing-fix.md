@@ -4,12 +4,13 @@ title: chrome youtube comments not showing fix
 description: Struggling with YouTube comments not loading in Chrome? Discover proven
   fixes to get comments showing again, from simple refreshes to advanced troubleshooting.
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-youtube-comments-not-showing-fix
 categories: '[troubleshooting, chrome, youtube]'
 tags: '[youtube, chrome, comments, troubleshooting, browser]'
 author: theluckystrike
 ---
+
 # Chrome YouTube Comments Not Showing Fix
 
 You're trying to read the discussion below a YouTube video, but the comments section just won't load. You've refreshed the page, waited patiently, and nothing happens. This is a frustrating issue that happens to Chrome users more often than you'd think. The good news is that most of the time, you can fix this yourself with a few simple steps.

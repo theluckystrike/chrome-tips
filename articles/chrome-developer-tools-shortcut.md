@@ -12,9 +12,10 @@ tags:
 - keyboard-shortcuts
 - productivity
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-developer-tools-shortcut/
+last_modified_at: '2026-03-12'
+permalink: chrome-developer-tools-shortcut
 ---
+
 # Chrome Developer Tools Shortcut
 
 If you are searching for chrome developer tools shortcut, you probably want a faster way to access the built-in developer tools in Google Chrome. Opening these tools through menus takes several clicks, but there is a much quicker method that can save you time every day.

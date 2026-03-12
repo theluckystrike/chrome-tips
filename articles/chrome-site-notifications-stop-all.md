@@ -15,8 +15,9 @@ tags:
 - privacy
 author: theluckystrike
 permalink: chrome-site-notifications-stop-all
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # How to Chrome Site Notifications Stop All
 
 If you have ever been bombarded with unwanted pop-ups asking for permission to send you notifications, you are not alone. Website notifications can quickly go from helpful to overwhelming, interrupting your work, distracting you while reading, and even posing privacy risks. The good news is that you can chrome site notifications stop all with just a few simple steps. This guide will walk you through every option available for taking control of notifications in Google Chrome.

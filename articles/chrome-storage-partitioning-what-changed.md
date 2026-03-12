@@ -16,8 +16,9 @@ tags:
 - tracking
 author: theluckystrike
 permalink: chrome-storage-partitioning-what-changed
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Storage Partitioning: What Changed and Why It Matters
 
 If you have been using Chrome for a while, you might have noticed that some things work differently now. Websites load faster in some cases, but others might not remember you as well as they used to. This is largely due to a significant change in how Chrome handles storage: **storage partitioning**. This feature represents one of the most substantial privacy updates in Chrome's history, and understanding what changed can help you navigate the modern web more effectively.

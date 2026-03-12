@@ -3,13 +3,14 @@ title: Chrome Extensions for Noise Canceling
 description: Discover chrome extensions for noise canceling that block unwanted sounds,
   autoplay videos, and create a quieter browsing experience. Check out our expert...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-extensions-for-noise-canceling
 layout: post
 categories: '[productivity, wellness]'
 tags: '[chrome-extensions, noise-canceling, focus, productivity, concentration]'
 author: theluckystrike
 ---
+
 # Chrome Extensions for Noise Canceling
 
 If you are searching for chrome extensions for noise canceling, you have likely experienced the frustration of unexpected sounds interrupting your workflow. Whether it is a video automatically playing with sound, an advertisement that blasts audio, or a website that refuses to stay quiet, unwanted browser noise can derail your concentration and make focused work extremely difficult. Fortunately, there are extensions designed specifically to give you control over what you hear while browsing.

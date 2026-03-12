@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-slack-web-app-best-settings
 ---
+
 # Chrome for Slack Web App Best Settings
 
 If you use Chrome for Slack web app, a few tweaks can make your messaging experience much better. Whether you are part of a fast-paced team or just rely on Slack for everyday communication, optimizing Chrome will help pages load faster, reduce browser memory usage, and keep your conversations running smoothly.

@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-text-to-speech-on-any-page
 ---
+
 # Chrome for Text to Speech on Any Page
 
 If you are looking for chrome for text to speech on any page, you have come to the right place. Many people want their browser to read web content aloud so they can listen to articles, blog posts, or online documents while doing other things. Whether your eyes need a break, you are learning a new language, or you simply prefer hearing information rather than reading it, there are several ways to get Chrome to speak text from any webpage.

@@ -11,6 +11,7 @@ categories: '[chrome, browser-guides]'
 tags: '[chrome-version, chrome-update, browser-history]'
 author: theluckystrike
 ---
+
 # Chrome Version History: Major Changes You Should Know About
 
 If you have ever wondered what changed between Chrome versions and why your browser feels different after an update, you are not alone. Chrome version history is full of major changes that have reshaped how we browse the web, sometimes in ways that are not immediately obvious. Understanding these changes helps you stay in control of your browsing experience and troubleshoot problems when they arise.

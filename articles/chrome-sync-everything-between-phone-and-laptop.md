@@ -15,8 +15,9 @@ tags:
 - productivity
 author: theluckystrike
 permalink: chrome-sync-everything-between-phone-and-laptop
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # How to Sync Everything Between Your Phone and Laptop with Chrome
 
 Imagine starting a research project on your laptop, then continuing it on your phone during your commute, and finishing it back on your computer at home—all without missing a beat. With Chrome's sync feature, this seamless experience is exactly what you get. Let's walk through how to set this up and make the most of it.

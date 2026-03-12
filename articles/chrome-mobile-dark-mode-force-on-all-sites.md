@@ -5,7 +5,7 @@ description: Learn how to force dark mode on every website in Chrome mobile. Eas
   methods to make all sites dark, even ones without native dark themes. Learn effective
   ti...
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-mobile-dark-mode-force-on-all-sites
 categories:
 - mobile
@@ -18,6 +18,7 @@ tags:
 - force-dark-mode
 author: theluckystrike
 ---
+
 # Chrome Mobile Dark Mode Force on All Sites
 
 If you are searching for "chrome mobile dark mode force on all sites," you probably want every website you visit to display in dark mode, regardless of whether the site itself offers a dark theme. Many people prefer browsing with dark interfaces because they are easier on the eyes, especially in low-light conditions, and they can help save battery on phones with OLED displays. This guide will show you several ways to force dark mode on all websites in Chrome on your mobile device.

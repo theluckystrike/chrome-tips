@@ -5,7 +5,7 @@ description: Learn how to save any webpage as a PDF using Chrome's built-in prin
   feature. Easy steps for offline reading and archiving. Learn effective tips and
   tricks t...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-print-to-pdf-how-to-save-webpage
 categories:
 - browser-tips
@@ -18,6 +18,7 @@ tags:
 - webpage
 author: theluckystrike
 ---
+
 # Chrome Print to PDF How to Save Webpage
 
 If you are searching for chrome print to pdf how to save webpage, you probably want to keep a copy of something you found online but are not sure how to do it. Maybe you found an article you want to read later, or you need to save an important document for work. Whatever the reason, Chrome has a free built-in feature that turns any webpage into a PDF file in just a few clicks. You do not need to install any extra programs or pay for anything.

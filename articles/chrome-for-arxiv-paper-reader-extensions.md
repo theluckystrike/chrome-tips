@@ -16,6 +16,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-arxiv-paper-reader-extensions
 ---
+
 # Chrome for Arxiv Paper Reader Extensions
 
 If you are searching for chrome for arxiv paper reader extensions, you are probably tired of squinting at dense academic PDFs, losing your place in long papers, and wishing there was a better way to read and organize research from Arxiv. Many researchers, graduate students, and curious learners face the same frustrations when trying to digest academic papers directly in their browser.

@@ -14,9 +14,10 @@ tags:
 - privacy
 - tracking
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-ad-personalization-how-to-turn-off
 ---
+
 # Chrome Ad Personalization How to Turn Off
 
 If you have been searching for chrome ad personalization how to turn off, you probably feel uneasy about seeing ads that seem to know too much about you. You are not alone. Many Chrome users are surprised to discover how much information Google collects about their browsing habits to show personalized advertisements. The good news is that you have control over this, and turning off ad personalization is simpler than you might think.

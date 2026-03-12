@@ -5,7 +5,7 @@ description: Learn where Chrome stores its cache folder on different operating s
   how to check its size, and ways to manage it effectively. Simple instructions for
   ...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-cache-folder-size-and-location
 categories:
 - troubleshooting
@@ -17,6 +17,7 @@ tags:
 - browser-cache
 author: theluckystrike
 ---
+
 # Chrome Cache Folder Size and Location: Complete Guide
 
 Chrome's cache folder is where the browser stores temporary files to speed up your browsing experience. These files include images, scripts, stylesheets, and other web content that Chrome downloads to avoid re-fetching them every time you visit a website. Understanding where Chrome stores its cache folder and how to manage it can help you troubleshoot performance issues, free up disk space, and optimize your browser's behavior.

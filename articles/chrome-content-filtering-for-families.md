@@ -4,7 +4,7 @@ description: Learn how to set up content filtering in Chrome to protect your fam
   from harmful websites and age-inappropriate content. Read our full guide to master
   your C
 date: '2025-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-content-filtering-for-families
 layout: post
 categories:
@@ -17,6 +17,7 @@ tags:
 - chrome-for-families
 author: theluckystrike
 ---
+
 # Chrome Content Filtering for Families
 
 Chrome content filtering for families is something many parents worry about when their kids start using the internet. Whether you have a curious elementary schooler or a teenager with their own devices, keeping them safe online is a top priority. The good news is that Chrome offers several built-in tools and there are helpful extensions that make family browsing safer without being overly complicated.

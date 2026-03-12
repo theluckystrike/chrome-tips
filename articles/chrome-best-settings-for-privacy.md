@@ -15,9 +15,10 @@ tags:
 - tracking
 - cookies
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-best-settings-for-privacy
 ---
+
 # Chrome Best Settings for Privacy
 
 If you have been searching for chrome best settings for privacy, you likely want to know which Chrome configurations actually protect your personal data. Many users do not realize that their browser is collecting and sharing more information than they would like. The good news is that adjusting a handful of settings can significantly improve your privacy without sacrificing the browsing experience you are used to.

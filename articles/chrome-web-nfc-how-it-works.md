@@ -11,6 +11,7 @@ categories: '[features, connectivity]'
 tags: '[nfc, web-nfc, chrome-features, wireless]'
 author: theluckystrike
 ---
+
 # Chrome Web NFC How It Works
 
 If you have ever searched for chrome web nfc how it works, you probably wanted to understand how your browser can interact with NFC tags and stickers. This is a relatively new feature that lets websites communicate with NFC devices directly through Chrome, without needing to install any special apps. Let me explain everything you need to know about how this technology works.

@@ -8,6 +8,7 @@ date: '2026-01-01'
 last_modified_at: '2026-03-12'
 permalink: chrome-text-size-how-to-increase-permanently
 ---
+
 Chrome text size how to increase permanently is a question that comes up a lot, especially as we spend more time browsing the web. Whether you find yourself squinting at small text on certain websites or just prefer a larger, more comfortable reading experience, making text bigger in Chrome does not have to be a daily hassle. In this guide, I will walk you through several ways to increase text size in Chrome so that it stays that way, saving you time and eye strain.
 
 Let me start by explaining why this issue happens in the first place, and then give you clear steps to fix it.

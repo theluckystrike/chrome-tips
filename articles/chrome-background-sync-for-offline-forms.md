@@ -14,9 +14,10 @@ tags:
 - offline-forms
 - productivity
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-background-sync-for-offline-forms
 ---
+
 # Chrome Background Sync for Offline Forms
 
 Chrome background sync for offline forms is a feature that many people do not know about, but it can make a huge difference in your daily workflow. If you have ever filled out a long form only to lose everything when your internet connection dropped, you understand how frustrating it can be. Fortunately, Chrome has built-in technology that can help prevent this problem, and there are also browser extensions that take this capability even further.

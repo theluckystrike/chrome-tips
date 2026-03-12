@@ -17,7 +17,9 @@ tags:
 - api
 author: theluckystrike
 permalink: chrome-requestStorageAccess-explained
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome requestStorageAccess Explained
 
 If you have ever encountered a message about storage access being blocked in Chrome, you might have wondered what that means for your browsing experience. The requestStorageAccess API is a feature that allows websites to access certain browser storage capabilities, but it comes with important privacy implications. Let me explain what this API is, why it exists, and what it means for you as a Chrome user.

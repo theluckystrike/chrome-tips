@@ -11,6 +11,7 @@ categories: '[performance, troubleshooting]'
 tags: '[chrome-cpu, chrome-idle, chrome-performance, high-cpu-usage]'
 author: theluckystrike
 ---
+
 If you have ever noticed Chrome consuming massive amounts of CPU even when you are not actively using the browser, you are dealing with a frustrating but common issue. Chrome uses all CPU when idle fix is a problem that many users search for because it can make their computer run hot, drain the battery quickly, and make other programs feel sluggish. The good news is that there are clear reasons this happens and several practical steps you can take to get Chrome running calmly in the background.
 
 ## Why Chrome Uses CPU When Idle

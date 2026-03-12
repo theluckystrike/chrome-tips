@@ -15,9 +15,10 @@ tags:
 - browser
 - api
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-shared-storage-cross-site-data
 ---
+
 # Chrome Shared Storage and Cross-Site Data Explained
 
 If you have ever searched for "chrome shared storage cross site data," you likely encountered confusing technical documentation that assumes prior knowledge of web APIs. This article breaks down how Chrome's Shared Storage API enables cross-site data sharing in a privacy-conscious way, what it means for your browsing experience, and how you can manage these settings.

@@ -11,6 +11,7 @@ categories: '[privacy, browser, advertising]'
 tags: '[chrome-topics-api, privacy, advertising, browser]'
 author: theluckystrike
 ---
+
 # Chrome Topics API Explained Simply
 
 If you have searched for chrome topics api explained simply, you are probably curious about how Google Chrome tracks your interests and uses that information to show you relevant ads. This is a feature that has been rolling out gradually, and it represents a significant change in how online advertising works. Let me break down what this means for you, why it matters, and what you can do about it.

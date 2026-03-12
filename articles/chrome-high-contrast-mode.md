@@ -4,7 +4,7 @@ title: chrome high contrast mode
 description: Learn how to enable and use Chrome high contrast mode for better accessibility.
   Step-by-step guide to improve visibility and readability in Google Chrome.
 date: '2026-03-11'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-high-contrast-mode
 categories:
 - features
@@ -17,6 +17,7 @@ tags:
 - readability
 author: theluckystrike
 ---
+
 # How to Enable and Use Chrome High Contrast Mode
 
 If you are looking to improve visibility and readability in your browser, enabling chrome high contrast mode can transform your web browsing experience. High contrast mode is an accessibility feature that makes text and UI elements stand out more dramatically against their backgrounds, making Chrome easier to use for people with visual impairments, light sensitivity, or those who simply prefer a more defined visual appearance.

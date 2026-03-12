@@ -13,9 +13,10 @@ tags:
 - summarize
 - productivity
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-ai-summarize-feature-how-to-use
 ---
+
 # Chrome AI Summarize Feature How to Use
 
 If you are searching for chrome ai summarize feature how to use, you probably want to save time when reading long articles or web pages. We have all been there, stumbling upon an interesting article but feeling overwhelmed by its length. The good news is that Chrome now offers ways to get quick summaries directly in your browser, and this guide will show you exactly how to use them.

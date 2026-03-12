@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-todoist-web-app-best-settings
 ---
+
 # Chrome for Todoist Web App Best Settings
 
 If you are looking for chrome for todoist web app best settings, a few simple tweaks can transform how you manage your tasks. The Todoist web app runs beautifully in Chrome when you optimize the right settings, giving you faster access to your projects, fewer interruptions, and a more responsive experience throughout your workday.

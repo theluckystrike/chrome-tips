@@ -11,6 +11,7 @@ categories: '[privacy]'
 tags: '[chrome-privacy, browser-data, privacy-settings]'
 author: theluckystrike
 ---
+
 # How to Delete Everything Chrome Knows About Me
 
 If you are searching for how to delete everything chrome knows about me, you are not alone. Many people are becoming more aware of just how much information their browser collects and store about their online activities. Whether you are concerned about privacy, preparing to sell your computer, or just want a fresh start, this guide will walk you through deleting all the data Chrome has accumulated about you.

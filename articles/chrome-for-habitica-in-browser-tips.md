@@ -19,6 +19,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-habitica-in-browser-tips
 ---
+
 # Chrome for Habitica In Browser Tips
 
 Chrome for Habitica in browser tips can really level up your productivity game. If you use Habitica to build better habits and stay motivated, Chrome has some handy features and extensions that can make your experience even smoother. Let me share some practical tips that can help you get more out of Habitica without adding complexity to your routine.

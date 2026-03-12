@@ -10,6 +10,7 @@ categories: '[family, privacy]'
 tags: '[family-sharing, chrome-profiles, parental-controls, shared-computer]'
 author: theluckystrike
 ---
+
 # How to Share Chrome with Family Safely
 
 When multiple family members share a computer, Chrome can quickly become a mess. Dad's work tabs get mixed with the kids' homework. Mom's saved passwords are accessible to everyone. Nobody can find their own bookmarks.

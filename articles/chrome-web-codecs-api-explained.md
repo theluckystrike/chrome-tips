@@ -11,6 +11,7 @@ categories: '[technology, browser, media]'
 tags: '[chrome-web-codecs, browser-api, video-audio, chrome-features]'
 author: theluckystrike
 ---
+
 # Chrome Web Codecs API Explained
 
 If you have searched for chrome web codecs api explained, you might have encountered this term while troubleshooting video playback issues or reading about new browser features. This technology is becoming increasingly important as web applications take on more complex media tasks. Let me break down what Chrome Web Codecs API actually is and how it affects your browsing experience.

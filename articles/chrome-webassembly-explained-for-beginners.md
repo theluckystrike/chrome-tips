@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 'Chrome WebAssembly Explained for Beginners: What It Is and How It Works'
-description: Learn what Chrome WebAssembly is and how it makes your browser faster. A simple guide for beginners who want to understand this powerful technology.
+description: Learn what Chrome WebAssembly is and how it makes your browser faster.
+  A simple guide for beginners who want to understand this powerful technology.
 date: 2026-03-12
 last_modified_at: '2026-03-12'
 permalink: chrome-webassembly-explained-for-beginners
@@ -17,6 +18,7 @@ tags:
 - browser
 author: theluckystrike
 ---
+
 
 # Chrome WebAssembly Explained for Beginners: What It Is and How It Works
 

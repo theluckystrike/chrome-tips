@@ -11,6 +11,7 @@ categories: '[privacy, chrome]'
 tags: '[chrome-topics-api, privacy-sandbox, chrome-privacy, tracking]'
 author: theluckystrike
 ---
+
 If you have ever searched for chrome topics api privacy sandbox explained, you are not alone. Many Chrome users are confused about what these terms mean and how they affect their browsing privacy. This guide will break down what the Chrome Topics API is, why Google created it, what the Privacy Sandbox means for you, and most importantly, what you can do about it.
 
 ## What Is the Chrome Topics API

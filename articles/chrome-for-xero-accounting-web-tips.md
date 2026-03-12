@@ -5,7 +5,7 @@ description: Get the most out of Xero accounting in Chrome with these practical 
   tips for better workflow and performance. Check out our expert recommendations and
   t
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-xero-accounting-web-tips
 categories:
 - productivity
@@ -19,6 +19,7 @@ tags:
 - productivity
 author: theluckystrike
 ---
+
 # Chrome for Xero Accounting Web Tips
 
 Using Chrome for Xero accounting web tips can genuinely transform how you handle your business finances. If you spend significant time in Xero managing invoices, reconciling accounts, or running reports, a few smart browser adjustments can save you hours each week and make the whole experience much smoother.

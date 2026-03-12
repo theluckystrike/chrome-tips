@@ -14,9 +14,10 @@ tags:
 - chrome-fix
 - browser-tips
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: chrome-back-button-not-working-fix
 ---
+
 # Chrome Back Button Not Working Fix
 
 Chrome back button not working is one of those frustrating issues that can interrupt your browsing flow. You click the back arrow expecting to return to the previous page, but nothing happens. Maybe the page reloads the same content, or perhaps you get stuck on the current page with no way to go back. This problem can occur for several reasons, and the good news is that most of them have simple solutions. Let's walk through why this happens and how you can get your back button working again.

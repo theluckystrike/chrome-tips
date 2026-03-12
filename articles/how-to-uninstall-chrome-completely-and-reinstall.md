@@ -4,12 +4,13 @@ title: How to Uninstall Chrome Completely and Reinstall
 description: Step-by-step guide to fully remove Chrome from your computer and reinstall
   a fresh copy. Fix persistent browser issues. Read our comprehensive guide to learn...
 date: '2025-02-19'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: how-to-uninstall-chrome-completely-and-reinstall
 categories: '[troubleshooting]'
 tags: '[chrome-uninstall, browser-reset, reinstall-chrome]'
 author: theluckystrike
 ---
+
 # How to Uninstall Chrome Completely and Reinstall
 
 If you are searching for how to uninstall chrome completely and reinstall, you are probably dealing with a frustrating browser that keeps crashing, running slowly, or behaving oddly despite your best efforts to fix it. Sometimes the best solution is a fresh start, and in this guide I will walk you through the complete process of removing Chrome entirely and installing it again from scratch.

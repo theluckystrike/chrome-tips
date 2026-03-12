@@ -13,9 +13,10 @@ tags:
 - extensions
 - education-tech
 author: theluckystrike
-last_modified_at: 2026-03-12
+last_modified_at: '2026-03-12'
 permalink: best-chromebook-extensions-for-students
 ---
+
 # Best Chromebook Extensions for Students
 
 If you are searching for the best Chromebook extensions for students, you have come to the right place. Using the right browser extensions can completely change how you study, helping you stay focused, organized, and efficient throughout the semester. Whether you are managing research papers, keeping track of assignments, or just trying to keep your browser from slowing down, there is an extension out there that can help.

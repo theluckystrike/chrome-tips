@@ -18,9 +18,10 @@ tags:
 - web-design
 - frontend
 author: theluckystrike
-last_modified_at: '%Y->-'
-permalink: /chrome-css-grid-debugging/
+last_modified_at: '2026-03-12'
+permalink: chrome-css-grid-debugging
 ---
+
 # Chrome CSS Grid Debugging Guide
 
 CSS Grid has revolutionized how web developers create complex, two-dimensional layouts. However, even the most experienced developers sometimes struggle with unexpected grid behavior, misaligned items, or gaps that do not quite match their intentions. Fortunately, Chrome DevTools provides a powerful suite of debugging tools specifically designed to help you visualize, inspect, and fix CSS Grid layouts. This comprehensive guide will walk you through everything you need to know about debugging CSS Grid in Chrome, from basic overlay features to advanced inspection techniques.

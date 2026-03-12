@@ -5,9 +5,10 @@ description: The Chrome Popover API makes showing popovers easier than ever. Lea
   how it works and what it means for your browsing experience. Learn effective tips
   and t...
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-popover-api-explained
 ---
+
 If you have ever searched for "chrome popover api explained," you might have encountered confusing technical jargon that made it hard to understand what this feature actually does. The Chrome Popover API is a relatively new addition to Chrome that simplifies how websites show small windows of content, and it affects how you experience the web.
 
 ## What Is a Popover Anyway

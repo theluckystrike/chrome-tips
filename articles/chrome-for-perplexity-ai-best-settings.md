@@ -17,6 +17,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-perplexity-ai-best-settings
 ---
+
 # Chrome for Perplexity AI Best Settings
 
 If you use Perplexity AI for research, homework, or just satisfying your curiosity, getting Chrome configured properly can make a noticeable difference in how smoothly the experience works. Whether you're running multiple searches at once, keeping reference tabs open while you work, or just want faster response times, a few simple adjustments go a long way. Let me walk you through the settings that will help you get the best experience.

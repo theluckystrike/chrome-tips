@@ -4,7 +4,7 @@ title: chrome logpoints debug without console log
 description: Learn how to use Chrome Logpoints to debug JavaScript without polluting
   your code with console.log statements. A cleaner approach to browser debugging.
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-logpoints-debug-without-console-log
 categories:
 - debugging
@@ -18,6 +18,7 @@ tags:
 - javascript
 author: theluckystrike
 ---
+
 # Chrome Logpoints: Debug Without console.log
 
 Every JavaScript developer knows the frustration of scattered console.log statements littering their codebase. You add one to check a variable, then another to verify a function call, and before you know it, your code is filled with debugging statements that need to be removed before production. Fortunately, Chrome DevTools offers a powerful alternative: Logpoints. This feature lets you log messages to the console without modifying your source code at all.

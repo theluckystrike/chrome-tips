@@ -2,8 +2,7 @@
 layout: post
 title: Chrome Virtual Keyboard API for Mobile - Complete Guide
 description: Learn how to use the Chrome Virtual Keyboard API to detect and respond
-  to virtual keyboard visibility changes on mobile devices. Improve your mobile web
-  app UX today.
+  to virtual keyboard visibility changes on mobile devices.
 date: 2026-01-15
 last_modified_at: '2026-03-12'
 permalink: chrome-virtual-keyboard-api-mobile
@@ -19,6 +18,7 @@ tags:
 - web-api
 author: theluckystrike
 ---
+
 # Chrome Virtual Keyboard API for Mobile - Complete Guide
 
 If you've ever built a mobile web form or chat application, you've probably encountered the frustrating issue of the virtual keyboard covering important content. Users hate scrolling endlessly to find the send button or watching their input field disappear behind the keyboard. This is exactly the problem the Chrome Virtual Keyboard API solves, and it's transforming how developers create mobile-friendly web experiences.

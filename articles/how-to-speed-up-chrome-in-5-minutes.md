@@ -11,6 +11,7 @@ categories: '[performance]'
 tags: '[chrome-speed, quick-fix, browser-optimization]'
 author: theluckystrike
 ---
+
 # How to Speed Up Chrome in 5 Minutes
 
 If you are searching for how to speed up Chrome in 5 minutes, you probably have a browser that feels sluggish and you want results fast. The good news is that Chrome often runs slowly for predictable reasons, and most of them have quick fixes. You do not need to be technical or spend hours tweaking settings. Here is exactly what you can do in just a few minutes to make Chrome feel much faster.

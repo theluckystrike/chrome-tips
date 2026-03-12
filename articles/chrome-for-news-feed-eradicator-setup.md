@@ -18,6 +18,7 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: chrome-for-news-feed-eradicator-setup
 ---
+
 # Chrome for News Feed Eradicator Setup
 
 If you are looking for chrome for news feed eradic ator setup, you probably want to take back control of your browsing time. Those endless scrolls through social media feeds, news recommendations, and suggested articles can eat up hours of your day without you even realizing it. Setting up Chrome to eradicate these distractions is simpler than you might think, and this guide will walk you through everything you need to know.

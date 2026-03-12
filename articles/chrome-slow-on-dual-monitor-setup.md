@@ -17,8 +17,9 @@ tags:
 - browser-tips
 author: theluckystrike
 permalink: chrome-slow-on-dual-monitor-setup
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 ---
+
 # Chrome Slow on Dual Monitor Setup
 
 Using two monitors with Chrome can significantly boost your productivity, but it can also strain your computer's resources—especially if you're working with limited RAM. If you've noticed Chrome running sluggishly when both monitors are active, you're not alone. Many users with dual monitor setups experience this issue, and the problem often comes down to how Chrome manages memory across multiple displays.

@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Chrome New Tab Page Best Extensions"
-description: "Discover the best Chrome new tab page extensions to transform your browsing..........................................................................."
-date: "2026-03-09"
+title: Chrome New Tab Page Best Extensions
+description: Discover the best Chrome new tab page extensions to transform your browsing...........................................................................
+date: '2026-03-09'
 last_modified_at: '2026-03-12'
-permalink: "chrome-new-tab-page-best-extensions"
-categories: 
-tags: 
+permalink: chrome-new-tab-page-best-extensions
+categories: null
+tags: null
 author: theluckystrike
 ---
+
 # Chrome New Tab Page Best Extensions
 
 If you are looking for chrome new tab page best extensions, you probably spend a lot of time staring at that blank or cluttered page that appears every time you open a new tab. Many Chrome users find their default new tab experience uninspiring and unproductive, and they do not realize that a few simple extensions can completely change how they start each browsing session.

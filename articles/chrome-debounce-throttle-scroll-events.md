@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Chrome Debounce Throttle Scroll Events
 description: Learn how to optimize Chrome performance by implementing debounce and throttle techniques for scroll events. Reduce lag and improve user experience.
 date: 2026-01-15

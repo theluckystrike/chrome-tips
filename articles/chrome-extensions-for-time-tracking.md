@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Chrome Extensions for Time Tracking"
-description: "Discover how Chrome extensions for time tracking can help you understand where your time goes and boost your productivity."
+description: "Discover how Chrome extensions for time tracking can help you understand where your time goes and boost your productivity. Read our comprehensive guide to le..."
 date: 2026-03-09
+last_modified_at: 2026-03-10
+permalink: chrome-extensions-for-time-tracking
 categories: [productivity, tips]
 tags: [chrome-extensions, time-tracking, productivity]
 author: theluckystrike
 ---
-
 # Chrome Extensions for Time Tracking
 
 If you are searching for chrome extensions for time tracking, you probably want to understand where your time goes during the workday. Many people feel like their day disappears without knowing exactly how they spent their hours. The good news is that the right extensions can automatically track your browsing habits and help you make better decisions about how you use your time.

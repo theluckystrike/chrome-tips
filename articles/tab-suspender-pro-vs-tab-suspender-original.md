@@ -1,6 +1,9 @@
+[2026-03-12 17:30:57] [m15]   Title too long: 69 chars (max 60)
+[2026-03-12 17:31:09] [m15]   Title shortened: "Tab Suspender Pro vs Tab Suspender Original - 2026" (50 chars)
+[2026-03-12 17:31:09] [m15]   WARNING: Thin keyword usage: 2 occurrences (target 3-7)
 ---
 layout: default
-title: "Tab Suspender Pro vs Tab Suspender Original: Complete 2026 Comparison"
+title: "Tab Suspender Pro vs Tab Suspender Original - 2026"
 description: "Tab Suspender Pro vs Tab Suspender Original compared on speed, RAM savings, and features. See which Chrome tab suspender wins in our 2026 benchmark test."
 date: 2026-03-12
 last_modified_at: 2026-03-12

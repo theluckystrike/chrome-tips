@@ -14,7 +14,7 @@ tags:
 - keyboard-shortcuts
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: 2026-03-12
 permalink: chrome-bookmark-current-page-shortcut
 ---
 # Chrome Bookmark Current Page Shortcut
@@ -78,3 +78,8 @@ Now that you know the chrome bookmark current page shortcut, try to make it part
 Also take time occasionally to clean up old bookmarks. Go through your collection and remove links that no longer work or pages you will never visit again. A tidy bookmark list is easier to browse and saves you time when you are looking for something specific.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Storage Partitioning: What Changed and Why It Matters](/chrome-storage-partitioning-what-changed/)
+- [Chrome Extensions for Productivity Students](/chrome-extensions-for-productivity-students/)
+- [Chrome Figma Running Slow Fix: A Practical Guide](/chrome-figma-running-slow-fix/)

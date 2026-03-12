@@ -3,7 +3,7 @@ layout: "post"
 title: "Chrome Canva Slow Loading Fix"
 description: "Is Canva running slow in Chrome? Learn practical solutions to fix slow loading times and improve your design workflow. Check out our expert guide for step-by-st"
 date: "2026-01-15"
-last_modified_at: "2026-03-11"
+last_modified_at: 2026-03-12
 permalink: "chrome-canva-slow-loading-fix"
 categories: [productivity, browser, troubleshooting]
 tags: [chrome, canva, slow-loading, performance, browser-tips]
@@ -86,3 +86,8 @@ Slow loading times in Canva can be frustrating, but with a systematic approach, 
 By keeping your browser optimized, your extensions in check, and your system resources managed, you can create a faster, more responsive environment for designing in Canva. The time you invest in these optimizations will pay off with a smoother, more productive design workflow.
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+## Related Articles
+- [how to screenshot full page in chrome](/how-to-screenshot-full-page-in-chrome/)
+- [Chrome for Citation Manager Extensions](/chrome-for-citation-manager-extensions/)
+- [Chrome for Figma Best Settings](/chrome-for-figma-best-settings/)

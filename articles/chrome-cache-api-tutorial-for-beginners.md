@@ -3,7 +3,7 @@ layout: "post"
 title: "Chrome Cache API Tutorial for Beginners"
 description: "Learn what the Chrome Cache API is, how to use it, and why it matters for faster web browsing. A simple guide for everyone. Check out our expert guide for step-"
 date: "2025-03-10"
-last_modified_at: "2026-03-10"
+last_modified_at: 2026-03-12
 permalink: "chrome-cache-api-tutorial-for-beginners"
 categories: [beginners, tips, web-development]
 tags: [chrome-cache-api, browser-cache, web-storage, performance]
@@ -68,3 +68,8 @@ The Chrome Cache API is just one piece of how Chrome makes your browsing experie
 Next time a page loads quickly, you will know it is thanks to the Chrome Cache API working behind the scenes to deliver files from local storage instead of waiting for them to come over the network. It is one of those invisible technologies that makes the modern web feel so responsive.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for MDN Web Docs Extension](/chrome-for-mdn-web-docs-extension/)
+- [Chrome Hardware Acceleration Should I Turn It Off](/chrome-hardware-acceleration-should-i-turn-it-off/)
+- [Chrome Canary What Is It For](/chrome-canary-what-is-it-for/)

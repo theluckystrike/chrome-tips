@@ -88,3 +88,8 @@ Even if you do not plan to become a developer, learning to use this tool gives y
 The Network Inspector is one of those features that seems technical at first but becomes simple once you try it a few times. The next time a website is acting up, open it up and take a look. You might be surprised at what you discover.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Blink Engine Explained For Beginners](/chrome-blink-engine-explained-for-beginners)
+- [Chrome Web Serial Api For Beginners](/chrome-web-serial-api-for-beginners)
+- [Chrome Encrypted DNS Explained for Beginners](/chrome-encrypted-dns-explained-for-beginners)

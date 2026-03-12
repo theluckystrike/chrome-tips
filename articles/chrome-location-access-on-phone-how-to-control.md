@@ -81,3 +81,8 @@ Now you have a clear understanding of how to control Chrome location access on y
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Pop Ups on Phone How to Block](/chrome-pop-ups-on-phone-how-to-block)
+- [Chrome Translate On Phone How To Use](/chrome-translate-on-phone-how-to-use)
+- [Chrome Text Size on Phone How to Change](/chrome-text-size-on-phone-how-to-change)

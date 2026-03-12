@@ -74,3 +74,8 @@ The web should work for you, not against you. Autoplay exists because it benefit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Pop Ups How to Block All](/chrome-pop-ups-how-to-block-all)
+- [Chrome Emulate Print Media How To](/chrome-emulate-print-media-how-to)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)

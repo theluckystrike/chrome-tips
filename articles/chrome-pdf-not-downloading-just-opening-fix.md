@@ -76,4 +76,10 @@ Finally, make sure you are running the latest version of Chrome. Google regularl
 
 To check for updates, open Chrome and look for the three dots menu in the top right corner. Click on it, then go to **Help**, and select **About Google Chrome**. Chrome will check for updates and install them if any are available. Restart the browser after updating to make sure the changes take effect.
 
+## Related Articles
+- [Chrome Images Not Loading Fix](/chrome-images-not-loading-fix)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome PDF Not Opening in Browser Fix](/chrome-pdf-not-opening-in-browser-fix)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

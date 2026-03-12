@@ -71,4 +71,10 @@ Remember that the mute indicator in the tab bar is your friend. Get in the habit
 
 Chrome's mute tab shortcut explained simply is about giving you quick, keyboard-driven control over your browser's audio. Whether you are dealing with intrusive auto-play videos, managing multiple audio sources, or just need quick silence, these shortcuts provide the control you need without interrupting your workflow.
 
+## Related Articles
+- [Chrome Tab Search Shortcut Explained](/chrome-tab-search-shortcut-explained)
+- [Chrome Pin Tab What It Does Explained](/chrome-pin-tab-what-it-does-explained)
+- [Chrome Reopen Closed Tab Shortcut](/chrome-reopen-closed-tab-shortcut)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

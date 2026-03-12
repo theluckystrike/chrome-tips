@@ -59,3 +59,8 @@ Tab Suspender Pro makes gesture navigation especially convenient because it comb
 Learning how to navigate back with gesture controls can save you time and make your browsing experience more enjoyable. Whether you are on a desktop with a trackpad or using Chrome on your phone, gestures offer a quick alternative to clicking buttons. Give it a try, and you might find that you never want to go back to the old way.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Update Chrome on Android](/how-to-update-chrome-on-android)
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)

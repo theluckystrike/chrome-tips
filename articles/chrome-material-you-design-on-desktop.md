@@ -61,3 +61,8 @@ The Material You design also creates a more unified experience if you use multip
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Family Link How to Use on Desktop](/chrome-family-link-how-to-use-on-desktop)
+- [Chrome Shortcuts On Desktop How To Create](/chrome-shortcuts-on-desktop-how-to-create)
+- [Chrome Visual Search on Desktop: A Complete Guide](/chrome-visual-search-on-desktop)

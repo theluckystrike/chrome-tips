@@ -76,3 +76,8 @@ Start by running a Lighthouse audit on your own website or any page you visit fr
 Remember, website performance is not a one-time fix. As you add new content and features, it is worth checking the treemap periodically to make sure you are not accidentally adding new weight to your pages. Regular audits help you catch problems early and keep your site running smoothly for everyone who visits.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome View Transitions API Explained](/chrome-view-transitions-api-explained)
+- [Chrome Memory Saver Mode Explained](/chrome-memory-saver-mode-explained)
+- [Chrome Lighthouse Performance Score Explained Simply](/chrome-lighthouse-performance-score-explained-simply)

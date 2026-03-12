@@ -83,3 +83,8 @@ Chrome network speed in developer tools is a powerful feature that anyone can us
 You do not need to be a technical expert to benefit from this information. A basic understanding of what the columns mean and what to look for can go a long way. And remember, tools like Tab Suspender Pro exist to help you manage your browser more effectively, so you have options when performance becomes an issue.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Throttle Network Speed in Chrome](/chrome-throttle-network-speed-how-to)
+- [Chrome Developer Tools for Non Developers](/chrome-developer-tools-for-non-developers)
+- [Chrome Built-In Screenshot Tool](/chrome-built-in-screenshot-tool)

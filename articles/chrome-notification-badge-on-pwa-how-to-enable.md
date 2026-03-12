@@ -72,3 +72,8 @@ Finally, if you find that badges are distracting or overwhelming, most apps allo
 Getting Chrome notification badge on PWA working is definitely possible with the right settings in place. Once you have everything configured, you will be able to see at a glance which of your web apps need attention without having to open each one individually.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Dark Mode on Phone How to Enable](/chrome-dark-mode-on-phone-how-to-enable)
+- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
+- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)

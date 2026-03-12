@@ -108,4 +108,10 @@ Next time you need to do quick math while browsing, skip the calculator app—ju
 
 ---
 
+## Related Articles
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome DevTools Issues Panel Explained](/chrome-devtools-issues-panel-explained)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

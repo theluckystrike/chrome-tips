@@ -70,3 +70,8 @@ Mirroring your Chrome browser to your TV opens up a lot of possibilities for wor
 If you run into any issues, the troubleshooting tips above should help you get back on track. With a little bit of setup, you can enjoy everything Chrome has to offer on a much larger display, making everything from movie nights to work presentations more comfortable and enjoyable.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Screen Recording in Browser How To](/chrome-screen-recording-in-browser-how-to)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)
+- [Chrome Cast to TV How to Set Up](/chrome-cast-to-tv-how-to-set-up)

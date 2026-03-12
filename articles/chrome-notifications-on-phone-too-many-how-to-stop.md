@@ -83,3 +83,8 @@ Start by checking which sites have permission to notify you. Remove the ones you
 Remember that you can always adjust these settings later if your needs change. The key is to take back control of your phone so that notifications only come from the sources that actually matter to you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Opens on Startup Windows: How to Stop](/chrome-opens-on-startup-windows-how-to-stop)
+- [Chrome Mobile Tabs Too Many How to Manage](/chrome-mobile-tabs-too-many-how-to-manage)
+- [Chrome Reader Mode on Phone: How to Enable](/chrome-reader-mode-on-phone-how-to-enable)

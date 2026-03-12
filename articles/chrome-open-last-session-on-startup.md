@@ -89,4 +89,10 @@ If you want more control over your sessions, consider using a dedicated extensio
 
 Whenever possible, let Chrome close normally. Force-quitting through **Task Manager** or **Activity Monitor** can leave session data in an incomplete state, which Chrome might not be able to recover from.
 
+## Related Articles
+- [Chrome Permissions on Startup How to Configure](/chrome-permissions-on-startup-how-to-configure)
+- [Chrome Opens Old Tabs on Startup How to Stop](/chrome-opens-old-tabs-on-startup-how-to-stop)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

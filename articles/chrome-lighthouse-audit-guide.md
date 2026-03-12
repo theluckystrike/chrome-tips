@@ -98,4 +98,10 @@ It is also important to prioritize based on your specific goals. If you are prim
 
 ---
 
+## Related Articles
+- [Chrome Lighthouse Audit for Website Speed: Complete Guide](/chrome-lighthouse-audit-website-speed)
+- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative)
+- [Chrome WebRTC Leak Prevention Guide](/chrome-webrtc-leak-prevention-guide)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

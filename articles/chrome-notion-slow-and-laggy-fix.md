@@ -198,4 +198,10 @@ For long-term improvement, **Tab Suspender Pro** remains one of the best investm
 
 With these fixes, you should notice a significant improvement in Notion's responsiveness—especially on computers with limited resources.
 
+## Related Articles
+- [Chrome Slow After Hibernation Fix](/chrome-slow-after-hibernation-fix)
+- [Chrome Canva Slow Loading Fix](/chrome-canva-slow-loading-fix)
+- [Chrome Videos Buffering Slow Fix](/chrome-videos-buffering-slow-fix)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

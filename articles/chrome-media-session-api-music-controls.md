@@ -117,4 +117,10 @@ Chrome's Media Session API transforms your browser into a capable media control 
 
 ---
 
+## Related Articles
+- [Chrome Badging API Explained](/chrome-badging-api-explained)
+- [Chrome Contact Picker API Explained](/chrome-contact-picker-api-explained)
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

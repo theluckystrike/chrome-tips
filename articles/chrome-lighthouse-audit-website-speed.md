@@ -80,4 +80,10 @@ Remember that while achieving a perfect 100 score is impressive, it is not alway
 
 ---
 
+## Related Articles
+- [Chrome Follow Website Feature What It Does](/chrome-follow-website-feature-what-it-does)
+- [Chrome Lighthouse Audit How To Run](/chrome-lighthouse-audit-how-to-run)
+- [Chrome for Reader View on Any Website](/chrome-for-reader-view-on-any-website)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

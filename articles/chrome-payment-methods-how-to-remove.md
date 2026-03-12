@@ -73,4 +73,10 @@ If you find Chrome running slowly while you navigate through settings pages to m
 
 That said, Chrome's built-in settings are usually sufficient for most users who just need to remove saved payment methods. The native solution is straightforward and does not require any additional software.
 
+## Related Articles
+- [Chrome Saved Payment Methods How to Edit](/chrome-saved-payment-methods-how-to-edit)
+- [Chrome Payment Autofill How to Manage Cards](/chrome-payment-autofill-how-to-manage-cards)
+- [Chrome Most Visited Sites How to Remove](/chrome-most-visited-sites-how-to-remove)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

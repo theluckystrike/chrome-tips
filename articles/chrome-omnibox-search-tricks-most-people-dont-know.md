@@ -87,4 +87,10 @@ The Chrome omnibox is one of the most powerful tools in your browser, yet most p
 
 Once you start using these omnibox search tricks regularly, you will find yourself switching between tasks more quickly and getting things done in less time. The best part is that all of these features work immediately without any setup or installation. Give them a try and see how much easier Chrome can become.
 
+## Related Articles
+- [Chrome Voice Search Enable](/chrome-voice-search-enable)
+- [Chrome for Omnibox Search Tricks](/chrome-for-omnibox-search-tricks)
+- [Chrome Omnibox Tricks You Should Know](/chrome-omnibox-tricks-you-should-know)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

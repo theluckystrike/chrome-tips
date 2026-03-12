@@ -62,3 +62,8 @@ The key to making these shortcuts part of your daily workflow is practice. Start
 You might also want to print out a cheat sheet of Chrome shortcuts and keep it near your desk until you have memorized them. The investment of a few minutes learning these shortcuts will pay dividends in time saved over the months and years ahead. Every second you save by not using the mouse adds up, giving you more time for the things that matter.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Voice Search How to Enable](/chrome-for-voice-search-how-to-enable)
+- [Chrome Voice Search How To Use](/chrome-voice-search-how-to-use)
+- [Chrome Jump to Specific Tab Number Shortcut](/chrome-jump-to-specific-tab-number-shortcut)

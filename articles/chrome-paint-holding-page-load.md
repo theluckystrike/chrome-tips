@@ -80,3 +80,8 @@ These extensions work by suspending tabs that you have not used recently, freein
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+- [Chrome Extension for Viewing Page Load Time](/chrome-extension-for-viewing-page-load-time)
+- [Chrome for Page Load Speed Testing](/chrome-for-page-load-speed-testing)
+- [Chrome New Tab Page Slow to Load: Complete Fix Guide](/chrome-new-tab-page-slow-to-load)

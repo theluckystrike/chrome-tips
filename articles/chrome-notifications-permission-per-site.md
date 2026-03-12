@@ -81,3 +81,8 @@ Managing chrome notifications permission per site is not complicated once you kn
 The most important thing is to regularly check who has permission to notify you. Over time, these permissions accumulate, and a periodic review keeps your browser working the way you want it to. Take a few minutes to review your settings today, and enjoy a more peaceful browsing experience without unwanted interruptions.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [Chrome Zoom Level Per Site How to Set](/chrome-zoom-level-per-site-how-to-set)
+- [Chrome Microphone Permission for One Site How to Set](/chrome-microphone-permission-for-one-site-how-to-set)

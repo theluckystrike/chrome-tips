@@ -53,3 +53,8 @@ Remember that your needs may change over time. Revisit your new tab page setup e
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [How to Make Chrome Open Links in a New Tab](/how-to-make-chrome-open-links-in-new-tab)
+- [Chrome Startup Page How to Set](/chrome-startup-page-how-to-set)
+- [How to Use Chrome Translate Page](/chrome-translate-page-how-to-use)

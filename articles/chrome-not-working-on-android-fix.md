@@ -103,3 +103,8 @@ Keeping Chrome updated and managing your open tabs can prevent most issues from 
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+## Related Articles
+- [Chrome Translate Not Working? Here's How to Fix It](/chrome-translate-not-working-fix)
+- [Chrome Not Working On Fire Tablet Fix](/chrome-not-working-on-fire-tablet-fix)
+- [Chrome Zoom Meeting Not Working Fix](/chrome-zoom-meeting-not-working-fix)

@@ -90,4 +90,10 @@ The web platform is constantly evolving, and the Navigation API is part of this 
 
 Whether you are building a new single page app or improving an existing one, the Chrome Navigation API provides the foundation for reliable, performant navigation that users expect from modern web applications.
 
+## Related Articles
+- [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+- [Chrome Default Apps Settings: A Complete Guide](/chrome-default-apps-settings)
+- [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

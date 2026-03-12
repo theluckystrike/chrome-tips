@@ -72,3 +72,8 @@ In rare cases, the problem might be with your computer's hardware rather than Ch
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Canvas Fingerprinting How to Block](/chrome-canvas-fingerprinting-how-to-block)
+- [Chrome Certificate Error How to Bypass Safely](/chrome-certificate-error-how-to-bypass-safely)
+- [How to Report a Malware Website in Chrome](/chrome-report-malware-website-how-to)

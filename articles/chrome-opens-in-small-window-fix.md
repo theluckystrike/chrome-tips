@@ -85,4 +85,10 @@ Once you have fixed the small window problem, there are a few things you can do 
 
 Using a tool like **Tab Suspender Pro** can actually help Chrome run better by automatically suspending tabs you have not used in a while. This saves memory and can prevent all kinds of issues. Just make sure any extension you use is configured the way you want it to be.
 
+## Related Articles
+- [Chrome for Wave Accounting in Browser](/chrome-for-wave-accounting-in-browser)
+- [Chrome Fullscreen Not Working Fix](/chrome-fullscreen-not-working-fix)
+- [Chrome Window Size Not Saving Fix](/chrome-window-size-not-saving-fix)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

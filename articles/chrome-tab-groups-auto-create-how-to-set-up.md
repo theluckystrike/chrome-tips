@@ -15,7 +15,7 @@ tags:
 - browser
 author: theluckystrike
 permalink: chrome-tab-groups-auto-create-how-to-set-up
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Tab Groups Auto Create How to Set Up
 

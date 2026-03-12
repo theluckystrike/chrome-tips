@@ -1,21 +1,12 @@
 ---
 layout: post
-title: Chrome Location Access for One Site How to Allow
-description: Learn how to allow location access for specific websites in Chrome. Simple
-  steps to enable location permissions for just one site. Check out our expert recomme
-date: '2026-01-20'
-last_modified_at: '2026-03-09'
-permalink: chrome-location-access-for-one-site-how-to-allow
-categories:
-- privacy
-- browser
-- settings
-tags:
-- chrome
-- location
-- permissions
-- privacy
-- browser-settings
+title: "Chrome Location Access for One Site How to Allow"
+description: "Learn how to allow location access for specific websites in Chrome. Simple............................................................................"
+date: "2026-01-20"
+last_modified_at: '2026-03-12'
+permalink: "chrome-location-access-for-one-site-how-to-allow"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Location Access for One Site How to Allow
@@ -84,4 +75,3 @@ Now you know exactly how to allow location access for one site in Chrome. Whethe
 * [How to Restore Closed Tabs in Chrome](/articles/chrome-restore-closed-tabs-guide/)
 * [Chrome Devtools Application Panel Explained](/articles//chrome-devtools-application-panel-explained//)
 * [Chrome MediaRecorder API Guide](/articles/chrome-mediarecorder-api-guide/)
-

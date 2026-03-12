@@ -5,7 +5,7 @@ description: Learn how to use tab stacking in Chrome to organize your browser, r
   clutter, and work more efficiently with multiple open tabs. Read our comprehensive
   g...
 date: '2025-03-13'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-tab-stacking-how-to-use
 categories: '[productivity, tips]'
 tags: '[tabs, tab-management, chrome-tips, browser-organization]'

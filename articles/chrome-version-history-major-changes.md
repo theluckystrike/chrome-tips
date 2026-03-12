@@ -5,7 +5,7 @@ description: A guide to Chrome version history and major changes that affect you
   browsing. Learn what changed and how to adapt. Read our comprehensive guide to learn
   mor...
 date: '2025-02-17'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-version-history-major-changes
 categories: '[chrome, browser-guides]'
 tags: '[chrome-version, chrome-update, browser-history]'

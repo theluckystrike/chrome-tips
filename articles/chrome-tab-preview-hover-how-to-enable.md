@@ -15,7 +15,7 @@ tags:
 - productivity
 author: theluckystrike
 permalink: chrome-tab-preview-hover-how-to-enable
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # How to Enable Chrome Tab Preview on Hover
 

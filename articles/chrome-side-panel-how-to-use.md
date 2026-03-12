@@ -1,21 +1,13 @@
 ---
-layout: default
-title: Chrome Side Panel — How to Use It Effectively
-description: Master Chrome's Side Panel feature. Bookmarks, reading list, search,
-  and extensions all accessible without leaving your current page. Read our comprehensive
-  gui
-date: 2025-03-13
-categories:
-- features
-- productivity
-tags:
-- side-panel
-- chrome-features
-- productivity
-- multitasking
+layout: post
+title: "Chrome Side Panel — How to Use It Effectively"
+description: "Master Chrome's Side Panel feature. Bookmarks, reading list, search,.................................................................................."
+date: "2025-03-13"
+last_modified_at: '2026-03-12'
+permalink: "chrome-side-panel-how-to-use"
+categories: 
+tags: 
 author: theluckystrike
-permalink: chrome-side-panel-how-to-use
-last_modified_at: '2026-03-10'
 ---
 # Chrome Side Panel — How to Use It Effectively
 

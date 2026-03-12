@@ -15,7 +15,7 @@ tags:
 - tab-management
 author: theluckystrike
 permalink: chrome-tab-freezing-what-it-means
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Tab Freezing What It Means
 

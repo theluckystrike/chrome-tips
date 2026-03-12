@@ -4,7 +4,7 @@ title: Chrome vs Opera GX for Gaming
 description: Which browser is better for gaming? A practical comparison of Chrome
   and Opera GX gaming performance with tips to improve your experience. Read our comprehen...
 date: '2026-02-01'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-opera-gx-for-gaming
 categories: '[comparison, gaming, performance]'
 tags: '[chrome-vs-opera-gx, gaming-browser, browser-gaming, opera-gx]'

@@ -5,7 +5,7 @@ description: Discover hidden Chrome extensions you should install to enhance you
   browsing experience and boost productivity. Read our comprehensive guide to learn
   more a...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: hidden-chrome-extensions-you-should-install
 categories: '[productivity, tips]'
 tags: '[chrome-extensions, hidden-gems, browser-tools]'

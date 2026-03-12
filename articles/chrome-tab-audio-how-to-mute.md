@@ -15,7 +15,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 permalink: chrome-tab-audio-how-to-mute
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Tab Audio How to Mute
 

@@ -5,7 +5,7 @@ description: Having trouble with Chrome touchpad gestures not working? Learn sim
   solutions to get your gestures back. Read our comprehensive guide to learn more
   and op...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-touchpad-gestures-not-working-fix
 categories: '[troubleshooting, chrome, tips]'
 tags: '[chrome, touchpad, gestures, browser-fix]'

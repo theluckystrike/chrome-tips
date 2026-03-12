@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Chrome Smooth Scrolling How to Enable
-description: Want to enable smooth scrolling in Chrome? Learn how to turn it on and
-  make your web browsing feel more fluid and comfortable. Read our comprehensive guide
-  to l
-permalink: chrome-smooth-scrolling-how-to-enable
-date: '2026-03-10'
-last_modified_at: '2026-03-10'
+title: "Chrome Smooth Scrolling How to Enable"
+description: "Want to enable smooth scrolling in Chrome? Learn how to turn it on and................................................................................"
+date: "2026-03-10"
+last_modified_at: '2026-03-12'
+permalink: "chrome-smooth-scrolling-how-to-enable"
 ---
 If you are wondering how to enable smooth scrolling in Chrome, you have come to the right place. Smooth scrolling is a feature that makes the way you move up and down web pages feel more fluid and less jerky. Instead of the abrupt jumps that happen with default scrolling, smooth scrolling adds a gentle glide that can make reading and navigating websites much more comfortable. Let me walk you through exactly how to turn this feature on.
 
@@ -70,4 +68,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome Device Emulation Advanced Guide](/articles//chrome-device-emulation-advanced//)
 * [Should I Switch to Edge for Speed? A Practical Guide for Slow Computers](/articles/should-i-switch-to-edge-for-speed/)
 * [chrome high contrast mode](/articles/chrome-high-contrast-mode/)
-

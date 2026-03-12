@@ -4,7 +4,7 @@ title: Chrome Which Tab Is Using Most CPU How to Find
 description: Discover how to find which Chrome tab is using the most CPU. Simple methods
   to identify and manage resource-heavy tabs. Read our comprehensive guide to learn...
 date: '2025-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-which-tab-is-using-most-cpu-how-to-find
 categories: '[performance, cpu]'
 tags: '[chrome-cpu, browser-performance, tab-management]'

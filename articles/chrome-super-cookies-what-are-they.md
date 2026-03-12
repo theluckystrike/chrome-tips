@@ -15,7 +15,7 @@ tags:
 - cookie-management
 author: theluckystrike
 permalink: chrome-super-cookies-what-are-they
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Super Cookies: What Are They
 

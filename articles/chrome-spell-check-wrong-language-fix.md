@@ -1,21 +1,13 @@
 ---
 layout: post
-title: Chrome Spell Check Wrong Language Fix
-description: Is Chrome spell check using the wrong language? Here is how to fix it
-  and get accurate spelling suggestions in your preferred language. Read our comprehensive
-  g
-date: 2025-03-15
-categories:
-- troubleshooting
-- features
-tags:
-- spellcheck
-- chrome-fix
-- language
-- spelling
+title: "Chrome Spell Check Wrong Language Fix"
+description: "Is Chrome spell check using the wrong language? Here is how to fix it................................................................................."
+date: "2025-03-15"
+last_modified_at: '2026-03-12'
+permalink: "chrome-spell-check-wrong-language-fix"
+categories: 
+tags: 
 author: theluckystrike
-permalink: chrome-spell-check-wrong-language-fix
-last_modified_at: '2026-03-10'
 ---
 # Chrome Spell Check Wrong Language Fix
 
@@ -89,4 +81,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome Multiple Users on Same Computer Setup](/articles/chrome-multiple-users-on-same-computer-setup/)
 * [Chrome Extensions for iMacros Alternative](/articles/chrome-extensions-for-imacros-alternative/)
 * [Chrome WebAssembly Debugging Guide](/articles/chrome-wasm-debugging-guide/)
-

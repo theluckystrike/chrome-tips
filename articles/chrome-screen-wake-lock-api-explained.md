@@ -6,7 +6,7 @@ description: 'Learn how Chrome''s screen wake lock keeps your display on, why it
   more '
 permalink: chrome-screen-wake-lock-api-explained
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 Chrome screen wake lock API explained is something many people search for when they find their browser unexpectedly keeping their screen awake. If you have noticed your laptop screen staying on when it should have gone to sleep, or your phone screen not dimming while you are reading an article, the wake lock API in Chrome might be the reason.
 

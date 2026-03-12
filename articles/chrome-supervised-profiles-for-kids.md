@@ -15,7 +15,7 @@ tags:
 - parental-controls
 author: theluckystrike
 permalink: chrome-supervised-profiles-for-kids
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Supervised Profiles for Kids
 

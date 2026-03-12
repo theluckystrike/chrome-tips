@@ -5,7 +5,7 @@ description: Detailed comparison of Chrome and Safari battery usage on Mac. Real
   battery impact, energy usage, and when to use each browser. Read our comprehensive
   ...
 date: '2025-02-23'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-safari-on-mac-battery
 categories: '[comparison, mac]'
 tags: '[chrome-vs-safari, mac-battery, battery-life, browser-comparison]'

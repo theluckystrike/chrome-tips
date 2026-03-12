@@ -5,7 +5,7 @@ description: Learn how to find out what technology a website uses in Chrome. Sim
   methods to identify frameworks, libraries, and tools. Read our comprehensive guide
   to ...
 date: '2025-02-19'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-what-technology-is-website-using
 categories: '[browser-tips, web-development]'
 tags: '[website-technology, web-tools, browser-features]'

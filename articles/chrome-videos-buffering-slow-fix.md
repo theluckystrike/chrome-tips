@@ -5,7 +5,7 @@ description: Fix Chrome video buffering with these proven solutions. Learn why v
   Read our comprehensive guide to learn more and optimize your browser experience
   with...
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-videos-buffering-slow-fix
 categories: ''
 tags: ''

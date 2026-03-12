@@ -1,20 +1,12 @@
 ---
 layout: post
-title: chrome google lens integration how to use
-description: Learn how to use Google Lens integration in Chrome to search images,
-  translate text, and identify objects directly from your browser. Check out our expert
-  reco
-date: '2026-03-09'
-last_modified_at: '2026-03-09'
-permalink: chrome-google-lens-integration-how-to-use
-categories:
-- features
-- integration
-tags:
-- google-lens
-- image-search
-- chrome-features
-- visual-search
+title: "chrome google lens integration how to use"
+description: "Learn how to use Google Lens integration in Chrome to search images,.................................................................................."
+date: "2026-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-google-lens-integration-how-to-use"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Google Lens Integration How to Use
@@ -85,4 +77,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome Text to Speech Built In Feature](/articles/chrome-text-to-speech-built-in-feature/)
 * [Chrome for Microsoft Teams Web Optimization](/articles/chrome-for-microsoft-teams-web-optimization/)
 * [Chrome OS vs Windows for Everyday Use](/articles/chrome-os-vs-windows-for-everyday-use/)
-

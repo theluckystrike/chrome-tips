@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Chrome Microphone Permission for One Site How to Set
-description: Learn how to set microphone permission for a specific site in Chrome.
-  Simple steps to control which websites can use your mic. Learn effective tips and
-  trick...
-date: '2026-03-09'
-last_modified_at: '2026-03-09'
-permalink: chrome-microphone-permission-for-one-site-how-to-set
-categories:
-- privacy
-- troubleshooting
-tags:
-- chrome-microphone-permission
-- chrome-settings
-- microphone-access
-- site-permissions
+title: "Chrome Microphone Permission for One Site How to Set"
+description: "Learn how to set microphone permission for a specific site in Chrome.................................................................................."
+date: "2026-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-microphone-permission-for-one-site-how-to-set"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Microphone Permission for One Site How to Set
@@ -85,4 +77,3 @@ If you use many tabs in Chrome and want to keep your browser running smoothly wh
 * [Chrome DevTools Layers Panel 3D View](/articles/chrome-devtools-layers-panel-3d-view/)
 * [Chrome Extension for Auto Fill Forms Faster](/articles/chrome-extension-for-auto-fill-forms-faster/)
 * [Chrome for Web3 Browsing Extensions](/articles/chrome-for-web3-browsing-extensions/)
-

@@ -14,7 +14,7 @@ tags:
 - chrome-settings
 author: theluckystrike
 permalink: chrome-scrollbar-styling-css
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Scrollbar Styling CSS
 

@@ -6,7 +6,7 @@ description: Learn how to save a webpage as a shortcut in Chrome and access your
   an
 permalink: chrome-save-page-as-shortcut
 date: '2026-03-10'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 Chrome save page as shortcut is something many people search for when they want to create quick access to their favorite websites without cluttering their bookmarks bar. Whether you frequently visit a specific site for work, need fast access to a tool you use daily, or simply want to keep your desktop organized, creating shortcuts in Chrome can make your browsing experience much smoother.
 

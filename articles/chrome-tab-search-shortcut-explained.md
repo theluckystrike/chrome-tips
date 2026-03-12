@@ -14,7 +14,7 @@ tags:
 - shortcuts
 author: theluckystrike
 permalink: chrome-tab-search-shortcut-explained
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Tab Search Shortcut Explained
 

@@ -4,7 +4,7 @@ title: Why Does Chrome Open So Many Processes
 description: Chrome opening too many processes? Learn why Chrome runs separate processes
   for tabs and extensions, and what you can do about it. Read our comprehensive gui...
 date: '2026-01-15'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: why-does-chrome-open-so-many-processes
 categories: '[performance, processes]'
 tags: '[chrome-processes, chrome-memory, browser-performance, chrome-tabs]'

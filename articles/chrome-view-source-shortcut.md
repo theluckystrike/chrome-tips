@@ -5,7 +5,7 @@ description: Learn the keyboard shortcut to view page source in Chrome and disco
   easier ways to see how websites are built. Read our comprehensive guide to learn
   more ...
 date: '2025-02-19'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-view-source-shortcut
 categories: '[browser-tips, web-development]'
 tags: '[view-source, keyboard-shortcuts, productivity, debugging]'

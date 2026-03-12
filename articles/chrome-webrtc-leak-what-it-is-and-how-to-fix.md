@@ -5,7 +5,7 @@ description: Learn what a Chrome WebRTC leak is, why it happens, and how to fix 
   Read our comprehensive guide to learn more and optimize your browser experience
   with th...
 date: '2026-01-15'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-webrtc-leak-what-it-is-and-how-to-fix
 categories: ''
 tags: ''

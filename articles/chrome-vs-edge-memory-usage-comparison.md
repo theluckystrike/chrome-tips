@@ -5,7 +5,7 @@ description: Which browser uses less memory? A practical comparison of Chrome an
   Read our comprehensive guide to learn more and optimize your browser experience
   with the...
 date: '2026-01-20'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-edge-memory-usage-comparison
 categories: ''
 tags: ''

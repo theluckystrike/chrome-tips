@@ -15,7 +15,7 @@ tags:
 - shortcuts
 author: theluckystrike
 permalink: chrome-select-all-tabs-shortcut
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Select All Tabs Shortcut
 

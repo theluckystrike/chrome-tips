@@ -15,7 +15,7 @@ tags:
 - display-issues
 author: theluckystrike
 permalink: chrome-scaling-blurry-on-external-monitor-fix
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Scaling Blurry on External Monitor Fix
 

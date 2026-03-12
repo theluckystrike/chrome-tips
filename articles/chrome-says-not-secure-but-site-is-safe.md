@@ -14,7 +14,7 @@ tags:
 - chrome-warning
 author: theluckystrike
 permalink: chrome-says-not-secure-but-site-is-safe
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Says Not Secure But Site Is Safe
 

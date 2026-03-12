@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Chrome How to Clear Individual Site Data
-description: Learn how to clear data for specific websites in Chrome without affecting
-  your entire browser. Fix site issues quickly. Check out our expert recommendations
-  an
-date: '2025-02-19'
-last_modified_at: '2026-03-09'
-permalink: chrome-how-to-clear-individual-site-data
-categories:
-- privacy
-- browser-tips
-tags:
-- site-data
-- cookies
-- storage
-- privacy
+title: "Chrome How to Clear Individual Site Data"
+description: "Learn how to clear data for specific websites in Chrome without affecting............................................................................."
+date: "2025-02-19"
+last_modified_at: '2026-03-12'
+permalink: "chrome-how-to-clear-individual-site-data"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome How to Clear Individual Site Data
@@ -81,4 +73,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome for Canvas LMS Best Extensions](/articles/chrome-for-canvas-lms-best-extensions/)
 * [Chrome Extension for Auto Scroll Pages](/articles/chrome-extension-for-auto-scroll-pages/)
 * [Chrome Utility Process What Is It](/articles/chrome-utility-process-what-is-it/)
-

@@ -1,20 +1,12 @@
 ---
 layout: post
-title: chrome how to allow popups for one site
-description: Learn how to allow popups for one site in Chrome without disabling your
-  popup blocker completely. Simple steps inside. Check out our expert recommendations
-  and
-date: '2026-01-15'
-last_modified_at: '2026-03-09'
-permalink: chrome-how-to-allow-popups-for-one-site
-categories:
-- browser
-- settings
-tags:
-- chrome
-- popups
-- browser-settings
-- permissions
+title: "chrome how to allow popups for one site"
+description: "Learn how to allow popups for one site in Chrome without disabling your..............................................................................."
+date: "2026-01-15"
+last_modified_at: '2026-03-12'
+permalink: "chrome-how-to-allow-popups-for-one-site"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome How to Allow Popups for One Site
@@ -89,4 +81,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome Making Your Laptop Fan Loud? Here's How to Fix It](/articles/chrome-making-laptop-fan-loud/)
 * [chrome for telegram web best settings](/articles/chrome-for-telegram-web-best-settings/)
 * [How to Organize Chrome Bookmarks Into Folders](/articles/how-to-organize-chrome-bookmarks-into-folders/)
-

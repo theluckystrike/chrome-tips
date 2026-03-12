@@ -4,7 +4,7 @@ title: How to Use Chrome Translate Page
 description: Learn how to use Chrome's built-in translation feature to read any webpage
   in your language. Easy steps for automatic and manual translation. Read our compre...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-translate-page-how-to-use
 categories: '[features, getting-started]'
 tags: '[chrome-translate, translation, language, how-to]'

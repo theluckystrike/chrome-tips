@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Chrome How to Flush Socket Pools
-description: Learn how to flush socket pools in Chrome to fix connection issues and
-  improve browser performance. Check out our expert recommendations and tips to enhance
-  yo
-date: '2025-02-19'
-last_modified_at: '2026-03-09'
-permalink: chrome-how-to-flush-socket-pools
-categories:
-- browser-tips
-- troubleshooting
-tags:
-- socket-pools
-- connections
-- network
-- performance
+title: "Chrome How to Flush Socket Pools"
+description: "Learn how to flush socket pools in Chrome to fix connection issues and................................................................................"
+date: "2025-02-19"
+last_modified_at: '2026-03-12'
+permalink: "chrome-how-to-flush-socket-pools"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome How to Flush Socket Pools
@@ -71,4 +63,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [chrome for xbox cloud gaming optimization](/articles/chrome-for-xbox-cloud-gaming-optimization/)
 * [Chrome for Private Browsing Tips Beyond Incognito](/articles/chrome-for-private-browsing-tips-beyond-incognito/)
 * [Chrome for Babbel Web App Tips](/articles/chrome-for-babbel-web-app-tips/)
-

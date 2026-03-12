@@ -16,7 +16,7 @@ tags:
 - emulation
 author: theluckystrike
 permalink: chrome-sensors-emulation-how-to-use
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Sensors Emulation How to Use
 

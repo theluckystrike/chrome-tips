@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Chrome Site Permissions How to Manage All
-description: Learn how to manage all Chrome site permissions in one place to control
-  what websites can access. Read our comprehensive guide to learn more and improve
-  your br
-permalink: chrome-site-permissions-how-to-manage-all
-date: '2026-03-10'
-last_modified_at: '2026-03-10'
+title: "Chrome Site Permissions How to Manage All"
+description: "Learn how to manage all Chrome site permissions in one place to control..............................................................................."
+date: "2026-03-10"
+last_modified_at: '2026-03-12'
+permalink: "chrome-site-permissions-how-to-manage-all"
 ---
 Chrome site permissions how to manage all is a question that comes up when people feel overwhelmed by the number of websites that seem to have access to their camera, microphone, location, or notifications. You are not alone in feeling this way. Over time, you may have accidentally allowed dozens of sites to access features you never intended to share, and finding a way to take back control can feel confusing.
 

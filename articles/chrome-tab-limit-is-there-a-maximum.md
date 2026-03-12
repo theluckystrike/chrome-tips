@@ -15,7 +15,7 @@ tags:
 - chrome-tips
 author: theluckystrike
 permalink: chrome-tab-limit-is-there-a-maximum
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Tab Limit: Is There a Maximum?
 

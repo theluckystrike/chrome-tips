@@ -5,7 +5,7 @@ description: Learn how the Chrome Web Share API enables websites to share conten
   like native apps. Discover browser support, requirements, and how to use it. Read
   our co...
 date: '2026-03-09'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-web-share-api-how-it-works
 categories: '[features, api, web-development]'
 tags: '[web-share-api, sharing, browser-features, javascript]'

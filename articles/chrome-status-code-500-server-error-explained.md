@@ -16,7 +16,7 @@ tags:
 - browser-problem
 author: theluckystrike
 permalink: chrome-status-code-500-server-error-explained
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Status Code 500 Server Error Explained
 

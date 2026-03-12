@@ -5,7 +5,7 @@ description: Learn how to use Chrome's timeline recording feature to understand 
   happens when pages load and find performance issues. Read our comprehensive guide
   to ...
 date: '2026-03-09'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-timeline-recording-explained
 categories: '[performance, troubleshooting]'
 tags: '[chrome-devtools, performance, timeline, browser-tools]'

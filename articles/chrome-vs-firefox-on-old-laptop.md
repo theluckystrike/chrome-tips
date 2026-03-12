@@ -5,7 +5,7 @@ description: Honest comparison of Chrome and Firefox on older laptops. Memory us
   speed, battery life, and which browser works better on limited hardware. Read our
   com...
 date: '2025-02-21'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-firefox-on-old-laptop
 categories: '[comparison, performance]'
 tags: '[chrome-vs-firefox, old-laptop, browser-comparison, memory-usage]'

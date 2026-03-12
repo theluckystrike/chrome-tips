@@ -15,7 +15,7 @@ tags:
 - chrome-interface
 author: theluckystrike
 permalink: chrome-status-bar-where-did-it-go
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 ---
 # Chrome Status Bar Where Did It Go
 

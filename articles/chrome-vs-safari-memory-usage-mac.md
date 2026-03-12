@@ -5,7 +5,7 @@ description: Compare Chrome vs Safari memory usage on Mac. Find out which browse
   is more efficient with RAM and how to reduce memory consumption. Read our comprehensive
   ...
 date: '2026-01-15'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-vs-safari-memory-usage-mac
 categories: '[comparison, mac, performance]'
 tags: '[chrome-vs-safari, memory-usage, mac-ram, browser-comparison]'

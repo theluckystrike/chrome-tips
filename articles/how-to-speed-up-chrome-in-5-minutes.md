@@ -5,7 +5,7 @@ description: Fast ways to make Chrome run better right now. Simple tweaks that t
   minutes and immediately improve your browsing experience. Read our comprehensive
   guide...
 date: '2025-02-19'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: how-to-speed-up-chrome-in-5-minutes
 categories: '[performance]'
 tags: '[chrome-speed, quick-fix, browser-optimization]'

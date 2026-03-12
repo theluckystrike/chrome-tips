@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Chrome Eyedropper API Explained
-description: Learn how the Chrome Eyedropper API works and how it enables color picking
-  directly in your browser for web development and design. Read our comprehensive
-  gu...
-date: 2026-03-09
-last_modified_at: '2026-03-09'
-permalink: chrome-eyedropper-api-explained
-categories:
-- chrome
-- development
-- api
-tags:
-- chrome-eyedropper
-- browser-api
-- color-picker
+title: "Chrome Eyedropper API Explained"
+description: "Learn how the Chrome Eyedropper API works and how it enables color picking............................................................................"
+date: "2026-03-09"
+last_modified_at: '2026-03-12'
+permalink: "chrome-eyedropper-api-explained"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Eyedropper API Explained
@@ -63,4 +55,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome Slow on Android Fix](/articles/chrome-slow-on-android-fix/)
 * [Chrome Extensions for Mockup Creator](/articles/chrome-extensions-for-mockup-creator/)
 * [Chrome Command Line Flags for Low Memory: A Practical Guide](/articles/chrome-command-line-flags-for-low-memory/)
-

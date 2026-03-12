@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Chrome Gesture Navigation on Android
-description: Learn how to use and fix Chrome gesture navigation on Android for a smoother
-  browsing experience. Check out our expert recommendations and tips to enhance your
-date: '2026-01-20'
-last_modified_at: '2026-03-09'
-permalink: chrome-gesture-navigation-on-android
-categories:
-- mobile
-- android
-- navigation
-tags:
-- chrome-android
-- gesture-navigation
-- android-browser
-- mobile-browsing
+title: "Chrome Gesture Navigation on Android"
+description: "Learn how to use and fix Chrome gesture navigation on Android for a smoother.........................................................................."
+date: "2026-01-20"
+last_modified_at: '2026-03-12'
+permalink: "chrome-gesture-navigation-on-android"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome Gesture Navigation on Android
@@ -111,4 +103,3 @@ If you frequently have many tabs open and notice performance issues, consider us
 * [Chrome Hardware Acceleration Guide](/articles/chrome-hardware-acceleration-guide/)
 * [Chrome Regex Lookbehind Support: What You Need to Know](/articles/chrome-regex-lookbehind-support/)
 * [Chrome Extensions for Grammarly Alternative Free](/articles/chrome-extensions-for-grammarly-alternative-free/)
-

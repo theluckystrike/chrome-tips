@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Chrome How to Print Selection Only
-description: Learn how to print only what you need in Chrome. This guide shows simple
-  methods to print selected text or specific parts of a webpage. Check out our expert
-  re
-date: '2026-01-15'
-last_modified_at: '2026-03-09'
-permalink: chrome-how-to-print-selection-only
-categories:
-- how-to
-- printing
-tags:
-- chrome-print
-- print-selection
-- browser-printing
-- printing-tips
+title: "Chrome How to Print Selection Only"
+description: "Learn how to print only what you need in Chrome. This guide shows simple.............................................................................."
+date: "2026-01-15"
+last_modified_at: '2026-03-12'
+permalink: "chrome-how-to-print-selection-only"
+categories: 
+tags: 
 author: theluckystrike
 ---
 # Chrome How to Print Selection Only
@@ -101,4 +93,3 @@ Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo
 * [Chrome for Tor Browsing Is It Possible](/articles/chrome-for-tor-browsing-is-it-possible/)
 * [Chrome Extensions for Binaural Beats](/articles/chrome-extensions-for-binaural-beats/)
 * [Chrome Extensions For Code Snippet Manager](/articles//articles/chrome-extensions-for-code-snippet-manager//)
-

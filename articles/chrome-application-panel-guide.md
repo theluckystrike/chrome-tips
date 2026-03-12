@@ -1,13 +1,25 @@
 ---
 layout: post
-title: "Chrome Application Panel Guide"
-description: "Master the Chrome Application Panel to debug storage, service workers, manifest files, cache storage, and IndexedDB for PWA development."
+title: Chrome Application Panel Guide
+description: Master the Chrome Application Panel to debug storage, service workers,
+  manifest files, cache storage, and IndexedDB for PWA development. Learn how to optimiz...
 date: 2026-01-20
-categories: [development, chrome-devtools, pwa]
-tags: [chrome-devtools, application-panel, service-workers, indexeddb, cache-storage, pwa, web-development]
+categories:
+- development
+- chrome-devtools
+- pwa
+tags:
+- chrome-devtools
+- application-panel
+- service-workers
+- indexeddb
+- cache-storage
+- pwa
+- web-development
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-application-panel-guide
 ---
-
 # Chrome Application Panel Guide
 
 The Chrome Application Panel is one of the most powerful yet underutilized tools in Chrome DevTools. Whether you are building Progressive Web Apps (PWAs), debugging storage issues, or optimizing your web application's performance, the Application panel provides a unified interface to inspect and manage all the moving parts that make modern web applications work. This comprehensive guide will walk you through everything you need to know about the Chrome Application Panel, from understanding its various sections to using it effectively for debugging common issues.

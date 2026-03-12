@@ -1,13 +1,25 @@
 ---
 layout: post
-title: "Chrome Application Tab Inspect Service Workers"
-description: "Learn how to use Chrome's Application tab to inspect, debug, and manage service workers for better PWA performance and offline capabilities."
+title: Chrome Application Tab Inspect Service Workers
+description: Learn how to use Chrome's Application tab to inspect, debug, and manage
+  service workers for better PWA performance and offline capabilities. Learn how to
+  opt...
 date: 2026-01-25
-categories: [development, chrome-devtools, pwa]
-tags: [chrome-devtools, application-tab, service-workers, debugging, pwa, chrome-tips]
+categories:
+- development
+- chrome-devtools
+- pwa
+tags:
+- chrome-devtools
+- application-tab
+- service-workers
+- debugging
+- pwa
+- chrome-tips
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-application-tab-inspect-service-workers
 ---
-
 # Chrome Application Tab Inspect Service Workers
 
 Service workers have become an essential part of modern web development, enabling powerful features like offline support, background synchronization, and push notifications. If you're building Progressive Web Apps or optimizing web application performance, understanding how to inspect and debug service workers is crucial. Chrome's Application tab provides comprehensive tools for this purpose, and this guide will walk you through everything you need to know.

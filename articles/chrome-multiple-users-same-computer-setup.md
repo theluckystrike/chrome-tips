@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Multiple Users Same Computer Setup
-description: Learn how to set up Chrome for multiple users on one computer with separate profiles, bookmarks, and personalized settings. Learn effective tips and tricks t...
+description: Learn how to set up Chrome for multiple users on one computer with separate
+  profiles, bookmarks, and personalized settings. Learn effective tips and tricks
+  t...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-multiple-users-same-computer-setup

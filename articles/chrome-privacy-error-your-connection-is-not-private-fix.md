@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Privacy Error Your Connection Is Not Private Fix
-description: Learn how to fix the Chrome privacy error Your Connection Is Not Private with simple solutions anyone can try. Learn effective tips and tricks to optimize yo...
+description: Learn how to fix the Chrome privacy error Your Connection Is Not Private
+  with simple solutions anyone can try. Learn effective tips and tricks to optimize
+  yo...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-privacy-error-your-connection-is-not-private-fix

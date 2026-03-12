@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Writers and Bloggers"
-description: "Discover the best chrome extensions for writers and bloggers to streamline your workflow and boost productivity. Read our comprehensive guide to learn more a..."
+title: Chrome Extensions for Writers and Bloggers
+description: Discover the best chrome extensions for writers and bloggers to streamline
+  your workflow and boost productivity. Read our comprehensive guide to learn more
+  a...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-writers-and-bloggers
-categories: [writing, tips]
-tags: [chrome-extensions, writing, bloggers, productivity]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-writers-and-bloggers
+categories:
+- writing
+- tips
+tags:
+- chrome-extensions
+- writing
+- bloggers
+- productivity
+author: theluckystrike
 ---
 # Chrome Extensions for Writers and Bloggers
 

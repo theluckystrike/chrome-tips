@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Performance Flame Chart Explained
-description: Understand what a flame chart is in Chrome DevTools and how it helps identify what makes your browser slow. Learn effective tips and tricks to optimize your ...
+description: Understand what a flame chart is in Chrome DevTools and how it helps
+  identify what makes your browser slow. Learn effective tips and tricks to optimize
+  your ...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-performance-flame-chart-explained
@@ -13,8 +15,6 @@ tags:
 - performance
 - browser-tools
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-performance-flame-chart-explained
 ---
 # Chrome Performance Flame Chart Explained
 

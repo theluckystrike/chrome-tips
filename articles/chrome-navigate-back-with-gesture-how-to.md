@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Navigate Back With Gesture How to
-description: Learn how to navigate back in Chrome using gesture controls on desktop and mobile. Easy steps to enable swipe navigation. Learn effective tips and tricks to ...
+description: Learn how to navigate back in Chrome using gesture controls on desktop
+  and mobile. Easy steps to enable swipe navigation. Learn effective tips and tricks
+  to ...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-navigate-back-with-gesture-how-to

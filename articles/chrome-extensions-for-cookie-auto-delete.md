@@ -1,6 +1,7 @@
 ---
-title: "Chrome Extensions For Cookie Auto Delete"
-description: "Discover how Chrome Extensions For Cookie Auto Delete can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settin..."
+title: Chrome Extensions For Cookie Auto Delete
+description: Discover how Chrome Extensions For Cookie Auto Delete can transform your
+  browsing. This comprehensive 2026 guide covers the best Chrome extensions and settin...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: /articles/chrome-extensions-for-cookie-auto-delete/

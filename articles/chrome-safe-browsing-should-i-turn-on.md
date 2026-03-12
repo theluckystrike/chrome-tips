@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome safe browsing should i turn on
-description: Wondering if you should turn on Chrome Safe Browsing? Learn the benefits, privacy implications, and how it protects you from online threats. Read our comprehens
+description: Wondering if you should turn on Chrome Safe Browsing? Learn the benefits,
+  privacy implications, and how it protects you from online threats. Read our comprehens
 date: '2026-03-10'
 last_modified_at: '2026-03-11'
 permalink: chrome-safe-browsing-should-i-turn-on

@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Custom Search Engines Guide
-description: Master Chrome custom search engines to boost productivity. Learn how to add search engines, create keyword shortcuts, set up site-specific search, and change...
+description: Master Chrome custom search engines to boost productivity. Learn how
+  to add search engines, create keyword shortcuts, set up site-specific search, and
+  change...
 date: '2025-12-15'
 last_modified_at: '2026-03-11'
 permalink: chrome-search-engines-custom

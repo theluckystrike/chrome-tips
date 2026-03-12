@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Service Worker High CPU Fix
-description: 'Is your Chrome browser running slow due to service workers? Learn practical solutions to fix high CPU usage from Chrome service workers. Read our comprehensive '
+description: 'Is your Chrome browser running slow due to service workers? Learn practical
+  solutions to fix high CPU usage from Chrome service workers. Read our comprehensive '
 date: 2025-12-14
 categories:
 - performance

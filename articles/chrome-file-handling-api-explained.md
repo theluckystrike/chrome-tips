@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "chrome file handling api explained"
-description: "Learn what the Chrome File Handling API is, how it works, and why it matters for your browsing experience. Read our comprehensive guide to learn more and boo..."
+title: chrome file handling api explained
+description: Learn what the Chrome File Handling API is, how it works, and why it
+  matters for your browsing experience. Read our comprehensive guide to learn more
+  and boo...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-file-handling-api-explained
-categories: [features, extensions]
-tags: [file-handling, api, chrome-features]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-file-handling-api-explained
+categories:
+- features
+- extensions
+tags:
+- file-handling
+- api
+- chrome-features
+author: theluckystrike
 ---
 # Chrome File Handling API Explained
 

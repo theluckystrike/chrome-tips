@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome shared storage api privacy impact
-description: Learn about Chrome's Shared Storage API privacy impact and what it means for your browsing data and online privacy. Read our comprehensive guide to learn more a
+description: Learn about Chrome's Shared Storage API privacy impact and what it means
+  for your browsing data and online privacy. Read our comprehensive guide to learn
+  more a
 date: 2026-01-15
 categories:
 - privacy

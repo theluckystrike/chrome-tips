@@ -1,11 +1,12 @@
 ---
-title: "Mastering CSS Subgrid: Align Rows and Columns in Chrome"
+title: 'Mastering CSS Subgrid: Align Rows and Columns in Chrome'
 date: 2024-01-15
 layout: post
-description: Learn how to use CSS Subgrid to create perfectly aligned layouts with shared rows and columns across nested grids in Chrome.
+description: Learn how to use CSS Subgrid to create perfectly aligned layouts with
+  shared rows and columns across nested grids in Chrome.
 keywords: chrome css subgrid rows columns
+permalink: chrome-css-subgrid-rows-columns
 ---
-
 # Mastering CSS Subgrid: Align Rows and Columns in Chrome
 
 CSS Subgrid is one of the most powerful features introduced in CSS Grid Level 2, and Chrome has full support for it. If you've ever struggled with aligning nested grid items with their parent grid, subgrid is the solution you've been waiting for. In this article, we'll explore how to use subgrid to share rows and columns across nested grids, creating perfectly aligned layouts that were previously impossible to achieve without JavaScript.
@@ -180,5 +181,11 @@ Whether you're building product listings, card layouts, or complex dashboard int
 For Chrome users who want to optimize their browser experience while working on web projects, consider trying Tab Suspender Pro—a Chrome extension that helps manage open tabs and improves browser performance.
 
 ---
+
+
+## Related Articles
+* [Chrome Web GPU API Explained](/articles/chrome-web-gpu-api-explained/)
+* [How to Enable Chrome Tab Hover Previews](/articles/how-to-enable-chrome-tab-hover-previews/)
+* [Chrome chrome.alarms API for Scheduled Tasks](/articles//articles/chrome-chrome.alarms-scheduled-tasks//)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

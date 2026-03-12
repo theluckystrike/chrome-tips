@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Lo Fi Music"
-description: "Discover the best chrome extensions for lo fi music to enhance your focus, block distractions, and create the perfect ambient atmosphere. Check out our..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-lo-fi-music"
-layout: "post"
-categories: "[productivity, music]"
-tags: "[chrome-extensions, lofi, lo-fi, music, focus, ambient, productivity, concentration]"
-author: "theluckystrike"
+title: Chrome Extensions for Lo Fi Music
+description: Discover the best chrome extensions for lo fi music to enhance your focus,
+  block distractions, and create the perfect ambient atmosphere. Check out our...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-lo-fi-music
+layout: post
+categories: '[productivity, music]'
+tags: '[chrome-extensions, lofi, lo-fi, music, focus, ambient, productivity, concentration]'
+author: theluckystrike
 ---
 # Chrome Extensions for Lo Fi Music
 

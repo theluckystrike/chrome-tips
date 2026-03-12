@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Startup Too Slow Diagnosis Guide
-description: Is Chrome taking forever to start? This guide helps you find and fix the causes of slow Chrome startup times. Read our comprehensive guide to learn more and imp
+description: Is Chrome taking forever to start? This guide helps you find and fix
+  the causes of slow Chrome startup times. Read our comprehensive guide to learn more
+  and imp
 permalink: chrome-startup-too-slow-diagnosis-guide
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

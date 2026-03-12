@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Dinosaur Game Hidden Features"
-description: "Discover hidden features in Chrome's dinosaur game that can make your offline gaming experience more fun and rewarding. Explore our comprehensive guide to m..."
+title: Chrome Dinosaur Game Hidden Features
+description: Discover hidden features in Chrome's dinosaur game that can make your
+  offline gaming experience more fun and rewarding. Explore our comprehensive guide
+  to m...
 date: 2026-01-15
 last_modified_at: 2026-03-09
 permalink: chrome-dinosaur-game-hidden-features

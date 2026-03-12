@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Reader Mode How to Activate
-description: Learn exactly how to activate reader mode in Chrome with simple step-by-step methods. Discover extensions and built-in options for distraction-free reading.
+description: Learn exactly how to activate reader mode in Chrome with simple step-by-step
+  methods. Discover extensions and built-in options for distraction-free reading.
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-reader-mode-how-to-activate
@@ -15,8 +16,6 @@ tags:
 - chrome-tips
 - how-to
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-reader-mode-how-to-activate
 ---
 # Chrome Reader Mode How to Activate
 

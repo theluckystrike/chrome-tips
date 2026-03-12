@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome for Zotero Web Connector Setup"
-description: "Learn how to set up Zotero Web Connector in Chrome to save web pages directly to your research library. Check out our expert recommendations and tips to enhanc"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-zotero-web-connector-setup"
-categories: [extensions, research]
-tags: [zotero, chrome-extensions, research-tools, web-connector]
-author: "theluckystrike"
+layout: post
+title: Chrome for Zotero Web Connector Setup
+description: Learn how to set up Zotero Web Connector in Chrome to save web pages
+  directly to your research library. Check out our expert recommendations and tips
+  to enhanc
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-zotero-web-connector-setup
+categories:
+- extensions
+- research
+tags:
+- zotero
+- chrome-extensions
+- research-tools
+- web-connector
+author: theluckystrike
 ---
 # Chrome for Zotero Web Connector Setup
 

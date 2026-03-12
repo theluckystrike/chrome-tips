@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome CSS Anchor Positioning Tether - The Future of Floating Elements
-description: Learn how to use CSS anchor positioning in Chrome to create floating tooltips, dropdowns, and menus that intelligently tether to their trigger elements without JavaScript.
+description: Learn how to use CSS anchor positioning in Chrome to create floating
+  tooltips, dropdowns, and menus that intelligently tether to their trigger elements
+  without JavaScript.
 date: 2026-03-12
 last_modified_at: '2026-03-12'
 permalink: chrome-css-anchor-positioning-tether

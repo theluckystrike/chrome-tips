@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Meditation and Focus Extensions
-description: Find calm and concentration with the best chrome meditation and focus extensions to transform your browsing habits. Discover more tips and tricks to optimize
+description: Find calm and concentration with the best chrome meditation and focus
+  extensions to transform your browsing habits. Discover more tips and tricks to optimize
 date: 2026-03-10
 categories:
 - productivity

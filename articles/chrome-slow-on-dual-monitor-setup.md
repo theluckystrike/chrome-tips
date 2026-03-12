@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 'Chrome Slow on Dual Monitor Setup: Practical Solutions for Limited RAM'
-description: Is Chrome running slow on your dual monitor setup? Discover proven fixes for computers with limited RAM that actually work. Read our comprehensive guide to lear
+description: Is Chrome running slow on your dual monitor setup? Discover proven fixes
+  for computers with limited RAM that actually work. Read our comprehensive guide
+  to lear
 date: 2026-01-15
 categories:
 - performance

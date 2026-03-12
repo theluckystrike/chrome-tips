@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Scrolling Lag Fix
-description: Is your Chrome browser running slow when you scroll? Learn simple fixes to make scrolling smooth again. Read our comprehensive guide to learn more and improve y
+description: Is your Chrome browser running slow when you scroll? Learn simple fixes
+  to make scrolling smooth again. Read our comprehensive guide to learn more and improve
+  y
 date: 2026-03-10
 categories:
 - performance

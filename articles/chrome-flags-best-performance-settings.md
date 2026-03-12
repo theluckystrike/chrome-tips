@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Flags Best Performance Settings"
-description: "Discover the best Chrome flags for performance settings to make your browser faster and more efficient. Read our comprehensive guide to learn more and boost ..."
+title: Chrome Flags Best Performance Settings
+description: Discover the best Chrome flags for performance settings to make your
+  browser faster and more efficient. Read our comprehensive guide to learn more and
+  boost ...
 date: 2026-03-10
 last_modified_at: 2026-03-09
 permalink: chrome-flags-best-performance-settings

@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Side Panel Features Guide
-description: Master Chrome side panel features including reading list, bookmarks panel, search companion, and extensions. Learn how to use Chrome side panel for enhanced ...
+description: Master Chrome side panel features including reading list, bookmarks panel,
+  search companion, and extensions. Learn how to use Chrome side panel for enhanced
+  ...
 date: 2026-03-11
 categories:
 - chrome

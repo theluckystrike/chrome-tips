@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Slow When Screen Sharing Zoom: Practical Fixes for Limited RAM'
-description: Is Chrome running slow during Zoom screen sharing? Discover step-by-step solutions to free up RAM and restore performance on older computers. Read our comprehen
+description: Is Chrome running slow during Zoom screen sharing? Discover step-by-step
+  solutions to free up RAM and restore performance on older computers. Read our comprehen
 date: 2026-01-15
 categories:
 - performance

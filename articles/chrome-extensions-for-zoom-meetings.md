@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Chrome Extensions for Zoom Meetings"
-description: "Discover the best chrome extensions for zoom meetings to improve your Check out these essential tools and tips to streamline your browsing workflow now."
+title: Chrome Extensions for Zoom Meetings
+description: Discover the best chrome extensions for zoom meetings to improve your
+  Check out these essential tools and tips to streamline your browsing workflow now.
 date: 2026-03-09
 last_modified_at: 2026-03-11
 permalink: chrome-extensions-for-zoom-meetings
-categories: 
-tags: 
+categories: null
+tags: null
 author: theluckystrike
 ---
 # Chrome Extensions for Zoom Meetings

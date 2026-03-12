@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for any.do web app setup
-description: Learn how to set up chrome for any.do web app with practical tips to boost your productivity and manage tasks smoothly in your browser. Find out more tips on...
+description: Learn how to set up chrome for any.do web app with practical tips to
+  boost your productivity and manage tasks smoothly in your browser. Find out more
+  tips on...
 date: 2026-01-15
 categories:
 - productivity

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "How to Change Your Chrome Downloads Folder"
-description: "Learn how to change your Chrome downloads folder with step-by-step instructions. Customize where your files are saved for better organization. Explore our c..."
+title: How to Change Your Chrome Downloads Folder
+description: Learn how to change your Chrome downloads folder with step-by-step instructions.
+  Customize where your files are saved for better organization. Explore our c...
 date: 2026-03-11
 last_modified_at: 2026-03-11
 permalink: chrome-downloads-folder-change

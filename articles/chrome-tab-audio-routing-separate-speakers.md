@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Route Chrome Tab Audio to Separate Speakers
-description: Learn how to send different Chrome tab audio to different speakers or headphones. Perfect for multitasking with music and video calls. Read our comprehensive gu
+description: Learn how to send different Chrome tab audio to different speakers or
+  headphones. Perfect for multitasking with music and video calls. Read our comprehensive
+  gu
 date: 2026-01-15
 categories:
 - chrome

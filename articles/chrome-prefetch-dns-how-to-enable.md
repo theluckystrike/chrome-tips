@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome prefetch dns how to enable
-description: Learn how to enable DNS prefetching in Chrome to speed up page loads and reduce waiting time when visiting websites. Learn effective tips and tricks to optim...
+description: Learn how to enable DNS prefetching in Chrome to speed up page loads
+  and reduce waiting time when visiting websites. Learn effective tips and tricks
+  to optim...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-prefetch-dns-how-to-enable

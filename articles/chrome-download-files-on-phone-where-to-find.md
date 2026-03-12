@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Download Files on Phone Where to Find"
-description: "Learn where to find files you downloaded with Chrome on your Android or iPhone. Simple steps to locate your downloads. Explore our comprehensive guide to ma..."
+title: Chrome Download Files on Phone Where to Find
+description: Learn where to find files you downloaded with Chrome on your Android
+  or iPhone. Simple steps to locate your downloads. Explore our comprehensive guide
+  to ma...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: chrome-download-files-on-phone-where-to-find

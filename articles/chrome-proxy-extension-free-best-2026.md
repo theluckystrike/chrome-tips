@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome proxy extension free best 2026
-description: Looking for the best free chrome proxy extension in 2026? Here is a practical guide to finding reliable, no-cost proxy solutions for your browser. Learn effe...
+description: Looking for the best free chrome proxy extension in 2026? Here is a practical
+  guide to finding reliable, no-cost proxy solutions for your browser. Learn effe...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-proxy-extension-free-best-2026

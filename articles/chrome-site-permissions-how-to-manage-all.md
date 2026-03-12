@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Site Permissions How to Manage All
-description: Learn how to manage all Chrome site permissions in one place to control what websites can access. Read our comprehensive guide to learn more and improve your br
+description: Learn how to manage all Chrome site permissions in one place to control
+  what websites can access. Read our comprehensive guide to learn more and improve
+  your br
 permalink: chrome-site-permissions-how-to-manage-all
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

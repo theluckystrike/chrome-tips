@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Safe Browsing Protection Levels Explained
-description: Learn about Chrome's Safe Browsing protection levels and how to choose the right one for your security needs. Read our comprehensive guide to learn more and imp
+description: Learn about Chrome's Safe Browsing protection levels and how to choose
+  the right one for your security needs. Read our comprehensive guide to learn more
+  and imp
 date: 2026-01-15
 categories:
 - security

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Not Secure Warning What to Do
-description: Seeing the Chrome not secure warning? Learn why it appears and what steps you can take to fix it or protect yourself. Learn effective tips and tricks to opti...
+description: Seeing the Chrome not secure warning? Learn why it appears and what steps
+  you can take to fix it or protect yourself. Learn effective tips and tricks to opti...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-not-secure-warning-what-to-do

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Share Page Between Phone and Laptop: Complete Guide'
-description: Learn how to instantly share pages between your phone and laptop using Chrome. Multiple methods explained with step-by-step instructions. Read our comprehensive
+description: Learn how to instantly share pages between your phone and laptop using
+  Chrome. Multiple methods explained with step-by-step instructions. Read our comprehensive
 date: 2026-01-15
 categories:
 - chrome

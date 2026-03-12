@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Extensions for Web Scraping Without Code"
-description: "Learn how to use Chrome extensions for web scraping without code. Extract data from websites easily without programming skills. Read our comprehensive guide ..."
+title: Chrome Extensions for Web Scraping Without Code
+description: Learn how to use Chrome extensions for web scraping without code. Extract
+  data from websites easily without programming skills. Read our comprehensive guide
+  ...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: chrome-extensions-for-web-scraping-without-code

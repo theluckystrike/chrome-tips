@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for News Reading Best Setup
-description: Configure Chrome for comfortable news reading. Reduce clutter, save memory, block distractions, and improve your daily news habit. Discover more tips and tri
+description: Configure Chrome for comfortable news reading. Reduce clutter, save memory,
+  block distractions, and improve your daily news habit. Discover more tips and tri
 date: 2025-03-10
 categories:
 - productivity

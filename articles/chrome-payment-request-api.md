@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Payment Request API Guide
-description: Learn how Chrome Payment Request API enables seamless digital wallet payments, Google Pay integration, shipping options, and secure payment methods in modern...
+description: Learn how Chrome Payment Request API enables seamless digital wallet
+  payments, Google Pay integration, shipping options, and secure payment methods in
+  modern...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-payment-request-api
@@ -17,8 +19,6 @@ tags:
 - payment-api
 - web-payments
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-payment-request-api
 ---
 # Chrome Payment Request API Guide
 

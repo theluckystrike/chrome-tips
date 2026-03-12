@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Chrome Popover API: Modal vs Non-Modal Popovers Explained"
-description: "Understanding the difference between modal and non-modal popovers in the Chrome Popover API and how they affect your browsing experience."
+title: 'Chrome Popover API: Modal vs Non-Modal Popovers Explained'
+description: Understanding the difference between modal and non-modal popovers in
+  the Chrome Popover API and how they affect your browsing experience.
+permalink: chrome-popover-api-modal-vs-non-modal
 ---
-
 If you have been exploring Chrome is newest web features, you might have come across the Popover API and wondered what the difference is between modal and non-modal popovers. This distinction matters because it affects how you interact with websites, how popovers behave on your screen, and what happens when you try to close them. Let break down what these terms mean and why they matter for your browsing experience.
 
 ## What Is the Popover API
@@ -65,5 +66,11 @@ The Popover API represents a significant step forward in web development. By pro
 As more websites adopt this API, you will notice improvements in how popovers behave. They will appear more reliably, close more predictably, and work better on mobile devices. Both modal and non-modal popovers will feel more polished and professional.
 
 If you manage many tabs and want to optimize your browser performance while exploring these new web features, you might benefit from extensions that help manage your open tabs efficiently. For example, Tab Suspender Pro can automatically suspend tabs you are not actively using, reducing memory usage and helping your browser run smoother overall.
+
+
+## Related Articles
+* [Chrome Extensions for Text Expander](/articles/chrome-extensions-for-text-expander/)
+* [how to use chrome password checkup feature](/articles/how-to-use-chrome-password-checkup-feature/)
+* [chrome for google flights tips and tricks](/articles/chrome-for-google-flights-tips-and-tricks/)
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

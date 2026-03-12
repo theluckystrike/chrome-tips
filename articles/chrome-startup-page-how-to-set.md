@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Startup Page How to Set
-description: Learn how to set your Chrome startup page to open specific sites or continue where you left off. Read our comprehensive guide to learn more and improve your bro
+description: Learn how to set your Chrome startup page to open specific sites or continue
+  where you left off. Read our comprehensive guide to learn more and improve your
+  bro
 permalink: chrome-startup-page-how-to-set
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

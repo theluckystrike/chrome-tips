@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Send Feedback to Google How to
-description: Learn how to send feedback to Google about Chrome browser issues, bugs, or feature suggestions. Simple steps to help improve Chrome. Read our comprehensive guid
+description: Learn how to send feedback to Google about Chrome browser issues, bugs,
+  or feature suggestions. Simple steps to help improve Chrome. Read our comprehensive
+  guid
 date: 2025-02-19
 categories:
 - browser-tips

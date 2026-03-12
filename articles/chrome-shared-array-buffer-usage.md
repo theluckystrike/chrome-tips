@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome shared array buffer usage
-description: Learn how to use SharedArrayBuffer in Chrome for high-performance web applications, including setup requirements, practical examples, and common use cases fo...
+description: Learn how to use SharedArrayBuffer in Chrome for high-performance web
+  applications, including setup requirements, practical examples, and common use cases
+  fo...
 date: 2026-01-24
 categories:
 - chrome

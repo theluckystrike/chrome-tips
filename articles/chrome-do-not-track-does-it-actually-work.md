@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome Do Not Track: Does It Actually Work"
-description: "Chrome's Do Not Track feature promises privacy, but many users wonder if it actually stops tracking. Here is what you need to know. Explore our comprehensiv..."
+title: 'Chrome Do Not Track: Does It Actually Work'
+description: Chrome's Do Not Track feature promises privacy, but many users wonder
+  if it actually stops tracking. Here is what you need to know. Explore our comprehensiv...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-do-not-track-does-it-actually-work

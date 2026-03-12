@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "Chrome Bookmarks Bar Disappeared Fix"
-description: "Your Chrome bookmarks bar vanished? Learn why it happens and how to bring it back with simple fixes anyone can try. Check out our expert guide for step-by-step "
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-bookmarks-bar-disappeared-fix"
-categories: [troubleshooting, bookmarks]
-tags: [chrome-bookmarks, bookmarks-bar, chrome-fix, browser-problem]
-author: "theluckystrike"
+layout: post
+title: Chrome Bookmarks Bar Disappeared Fix
+description: 'Your Chrome bookmarks bar vanished? Learn why it happens and how to
+  bring it back with simple fixes anyone can try. Check out our expert guide for step-by-step '
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-bookmarks-bar-disappeared-fix
+categories:
+- troubleshooting
+- bookmarks
+tags:
+- chrome-bookmarks
+- bookmarks-bar
+- chrome-fix
+- browser-problem
+author: theluckystrike
 ---
 # Chrome Bookmarks Bar Disappeared Fix
 

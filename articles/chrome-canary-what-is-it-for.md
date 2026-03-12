@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Canary What Is It For"
-description: "Chrome Canary is Google's experimental browser version with early features. Learn what it does, who should use it, and if it is right for you. Check out our exp"
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-canary-what-is-it-for"
-categories: [features, browser-setup]
-tags: [chrome-canary, chrome-beta, chrome-dev, browser-channels]
-author: "theluckystrike"
+layout: post
+title: Chrome Canary What Is It For
+description: Chrome Canary is Google's experimental browser version with early features.
+  Learn what it does, who should use it, and if it is right for you. Check out our
+  exp
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-canary-what-is-it-for
+categories:
+- features
+- browser-setup
+tags:
+- chrome-canary
+- chrome-beta
+- chrome-dev
+- browser-channels
+author: theluckystrike
 ---
 # Chrome Canary What Is It For
 

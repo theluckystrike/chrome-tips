@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Jump to Specific Tab Number Shortcut"
-description: "Learn how to instantly jump to any tab in Chrome using number keys. Save time with this simple keyboard shortcut for tab management. Check out our expert recom"
-date: "2025-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-jump-to-specific-tab-number-shortcut"
-categories: [productivity, tips]
-tags: [tabs, chrome-tips, browser-management, shortcuts]
-author: "theluckystrike"
+layout: post
+title: Chrome Jump to Specific Tab Number Shortcut
+description: Learn how to instantly jump to any tab in Chrome using number keys. Save
+  time with this simple keyboard shortcut for tab management. Check out our expert
+  recom
+date: '2025-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-jump-to-specific-tab-number-shortcut
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- chrome-tips
+- browser-management
+- shortcuts
+author: theluckystrike
 ---
 # Chrome Jump to Specific Tab Number Shortcut
 

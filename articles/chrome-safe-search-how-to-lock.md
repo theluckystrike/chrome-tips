@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Safe Search How to Lock
-description: Learn how to lock safe search in Chrome to filter explicit content and protect your browsing experience from unwanted results. Read our comprehensive guide to l
+description: Learn how to lock safe search in Chrome to filter explicit content and
+  protect your browsing experience from unwanted results. Read our comprehensive guide
+  to l
 date: 2026-01-20
 categories:
 - privacy

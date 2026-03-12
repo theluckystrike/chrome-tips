@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome safe search how to force enable
-description: Learn how to force enable Chrome Safe Search to filter explicit content and protect your browsing experience on desktop and mobile. Read our comprehensive guide
+description: Learn how to force enable Chrome Safe Search to filter explicit content
+  and protect your browsing experience on desktop and mobile. Read our comprehensive
+  guide
 permalink: chrome-safe-search-how-to-force-enable
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

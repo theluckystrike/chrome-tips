@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome DevTools Emulate Vision Deficiencies"
-description: "Learn how to use Chrome DevTools to emulate vision deficiencies and test your website for accessibility. Explore our comprehensive guide to mastering Chrome..."
+title: Chrome DevTools Emulate Vision Deficiencies
+description: Learn how to use Chrome DevTools to emulate vision deficiencies and test
+  your website for accessibility. Explore our comprehensive guide to mastering Chrome...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-emulate-vision-deficiencies

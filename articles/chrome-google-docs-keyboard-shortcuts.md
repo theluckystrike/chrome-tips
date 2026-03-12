@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "chrome google docs keyboard shortcuts"
-description: "Master chrome google docs keyboard shortcuts to speed up your workflow. Learn essential shortcuts for formatting, editing, and navigation in this guide."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-google-docs-keyboard-shortcuts"
-categories: [features, productivity]
-tags: [keyboard-shortcuts, google-docs, productivity, chrome-tips]
-author: "theluckystrike"
+layout: post
+title: chrome google docs keyboard shortcuts
+description: Master chrome google docs keyboard shortcuts to speed up your workflow.
+  Learn essential shortcuts for formatting, editing, and navigation in this guide.
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-google-docs-keyboard-shortcuts
+categories:
+- features
+- productivity
+tags:
+- keyboard-shortcuts
+- google-docs
+- productivity
+- chrome-tips
+author: theluckystrike
 ---
 # Chrome Google Docs Keyboard Shortcuts
 

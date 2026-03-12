@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome side panel features you missed
-description: Discover hidden Chrome side panel features that can boost your productivity and streamline how you browse the web. Read our comprehensive guide to learn more an
+description: Discover hidden Chrome side panel features that can boost your productivity
+  and streamline how you browse the web. Read our comprehensive guide to learn more
+  an
 date: 2026-01-15
 categories:
 - productivity

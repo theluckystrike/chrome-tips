@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Facebook Best Extensions
-description: Discover the best Chrome extensions for Facebook to enhance your experience, boost productivity, and manage your account more effectively. Find out more tips...
+description: Discover the best Chrome extensions for Facebook to enhance your experience,
+  boost productivity, and manage your account more effectively. Find out more tips...
 date: 2026-03-10
 categories:
 - facebook

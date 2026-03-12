@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Enable Chrome Tab Preview on Hover
-description: Learn how to enable tab preview on hover in Chrome to quickly see what's in each tab without clicking. Simple steps inside. Read our comprehensive guide to lear
+description: Learn how to enable tab preview on hover in Chrome to quickly see what's
+  in each tab without clicking. Simple steps inside. Read our comprehensive guide
+  to lear
 date: 2026-03-09
 categories:
 - productivity

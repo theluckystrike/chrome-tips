@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Settings You Should Change Right Now
-description: 'Discover the Chrome settings you should change right now to improve speed, reduce memory usage, and protect your privacy while browsing. Read our comprehensive '
+description: 'Discover the Chrome settings you should change right now to improve
+  speed, reduce memory usage, and protect your privacy while browsing. Read our comprehensive '
 date: 2025-02-20
 categories:
 - performance

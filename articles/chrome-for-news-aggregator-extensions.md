@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for News Aggregator Extensions
-description: Discover the best Chrome extensions for news aggregation. Curate your own news feed, save articles, and organize content from multiple sources. Discover more
+description: Discover the best Chrome extensions for news aggregation. Curate your
+  own news feed, save articles, and organize content from multiple sources. Discover
+  more
 date: 2025-03-10
 categories:
 - productivity

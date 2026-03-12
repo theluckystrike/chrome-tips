@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Tab From Other Device Not Showing Fix
-description: 'Discover why Chrome tabs from other devices are not showing up and learn simple steps to fix the sync issue quickly. Read our comprehensive guide to learn more '
+description: 'Discover why Chrome tabs from other devices are not showing up and learn
+  simple steps to fix the sync issue quickly. Read our comprehensive guide to learn
+  more '
 date: 2025-03-13
 categories:
 - productivity

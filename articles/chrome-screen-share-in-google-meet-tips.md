@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Screen Share in Google Meet Tips
-description: Having trouble sharing your screen in Google Meet on Chrome? Learn why it happens and simple fixes to get screen sharing working again. Read our comprehensive g
+description: Having trouble sharing your screen in Google Meet on Chrome? Learn why
+  it happens and simple fixes to get screen sharing working again. Read our comprehensive
+  g
 date: 2026-01-20
 categories:
 - troubleshooting

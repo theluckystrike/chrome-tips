@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Site Settings Explained Complete Guide
-description: Learn what Chrome site settings are, why they matter, and how to configure them for better privacy and control. Read our comprehensive guide to learn more and i
+description: Learn what Chrome site settings are, why they matter, and how to configure
+  them for better privacy and control. Read our comprehensive guide to learn more
+  and i
 permalink: chrome-site-settings-explained-complete-guide
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

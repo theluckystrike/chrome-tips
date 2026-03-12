@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for price drop alert extensions
-description: Find the best Chrome extensions for price drop alerts to track product prices and save money on online shopping. Discover more tips and tricks to optimize yo
+description: Find the best Chrome extensions for price drop alerts to track product
+  prices and save money on online shopping. Discover more tips and tricks to optimize
+  yo
 date: 2026-03-10
 categories:
 - extensions

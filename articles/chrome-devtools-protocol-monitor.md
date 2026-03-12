@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome DevTools Protocol Monitor"
-description: "Chrome DevTools Protocol Monitor helps debug network issues and track. Explore our comprehensive guide to mastering Chrome DevTools Protocol Monitor and lea..."
+title: Chrome DevTools Protocol Monitor
+description: Chrome DevTools Protocol Monitor helps debug network issues and track.
+  Explore our comprehensive guide to mastering Chrome DevTools Protocol Monitor and
+  lea...
 date: 2026-03-11
 last_modified_at: 2026-03-11
 permalink: chrome-devtools-protocol-monitor

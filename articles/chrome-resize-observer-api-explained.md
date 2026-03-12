@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Resize Observer API Explained
-description: Learn what the Chrome Resize Observer API is, how it works, and why it makes your browsing experience smoother. Read our comprehensive guide to learn more and i
+description: Learn what the Chrome Resize Observer API is, how it works, and why it
+  makes your browsing experience smoother. Read our comprehensive guide to learn more
+  and i
 permalink: chrome-resize-observer-api-explained
 date: '2026-03-09'
 last_modified_at: '2026-03-09'

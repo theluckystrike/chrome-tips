@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "how to enable chrome enhanced safe browsing"
-description: "Learn how to enable Chrome enhanced safe browsing with simple steps to protect yourself from malware, phishing, and dangerous websites. Read our comprehensiv..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "how-to-enable-chrome-enhanced-safe-browsing"
-categories: "[browser, security, privacy]"
-tags: "[chrome, safe-browsing, security, privacy, browser-settings]"
-author: "theluckystrike"
+layout: post
+title: how to enable chrome enhanced safe browsing
+description: Learn how to enable Chrome enhanced safe browsing with simple steps to
+  protect yourself from malware, phishing, and dangerous websites. Read our comprehensiv...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: how-to-enable-chrome-enhanced-safe-browsing
+categories: '[browser, security, privacy]'
+tags: '[chrome, safe-browsing, security, privacy, browser-settings]'
+author: theluckystrike
 ---
 # How to Enable Chrome Enhanced Safe Browsing
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome reduce data usage mobile
-description: Learn how to reduce data usage on Chrome mobile with practical settings, tips, and extensions. Save your mobile data with step-by-step solutions. Read our compr
+description: Learn how to reduce data usage on Chrome mobile with practical settings,
+  tips, and extensions. Save your mobile data with step-by-step solutions. Read our
+  compr
 date: 2025-03-16
 categories:
 - mobile

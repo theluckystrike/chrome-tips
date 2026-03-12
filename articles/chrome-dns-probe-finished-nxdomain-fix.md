@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome DNS Probe Finished Nxdomain Fix"
-description: "Getting the DNS probe finished nxdomain error in Chrome? Learn what causes it and how to fix it with simple solutions anyone can try. Explore our comprehens..."
+title: Chrome DNS Probe Finished Nxdomain Fix
+description: Getting the DNS probe finished nxdomain error in Chrome? Learn what causes
+  it and how to fix it with simple solutions anyone can try. Explore our comprehens...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-dns-probe-finished-nxdomain-fix

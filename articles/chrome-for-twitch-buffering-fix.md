@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "chrome for twitch buffering fix"
-description: "Twitch buffering in Chrome? Learn simple fixes to stop choppy streams and enjoy smooth viewing. Check out our expert recommendations and tips to enhance your b"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-twitch-buffering-fix"
-categories: [streaming, troubleshooting]
-tags: [twitch, streaming, chrome, buffering, browser]
-author: "theluckystrike"
+layout: post
+title: chrome for twitch buffering fix
+description: Twitch buffering in Chrome? Learn simple fixes to stop choppy streams
+  and enjoy smooth viewing. Check out our expert recommendations and tips to enhance
+  your b
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-twitch-buffering-fix
+categories:
+- streaming
+- troubleshooting
+tags:
+- twitch
+- streaming
+- chrome
+- buffering
+- browser
+author: theluckystrike
 ---
 # Chrome for Twitch Buffering Fix
 

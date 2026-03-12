@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome report broken website how to
-description: Learn how to report a broken website in Chrome and help improve the browsing experience for everyone. Read our comprehensive guide to learn more and improve you
+description: Learn how to report a broken website in Chrome and help improve the browsing
+  experience for everyone. Read our comprehensive guide to learn more and improve
+  you
 date: 2026-01-15
 categories:
 - browser

@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome What Technology Is Website Using"
-description: "Learn how to find out what technology a website uses in Chrome. Simple methods to identify frameworks, libraries, and tools. Read our comprehensive guide to ..."
-date: "2025-02-19"
-last_modified_at: "2026-03-09"
-permalink: "chrome-what-technology-is-website-using"
-categories: "[browser-tips, web-development]"
-tags: "[website-technology, web-tools, browser-features]"
-author: "theluckystrike"
+layout: post
+title: Chrome What Technology Is Website Using
+description: Learn how to find out what technology a website uses in Chrome. Simple
+  methods to identify frameworks, libraries, and tools. Read our comprehensive guide
+  to ...
+date: '2025-02-19'
+last_modified_at: '2026-03-09'
+permalink: chrome-what-technology-is-website-using
+categories: '[browser-tips, web-development]'
+tags: '[website-technology, web-tools, browser-features]'
+author: theluckystrike
 ---
 # Chrome What Technology Is Website Using
 

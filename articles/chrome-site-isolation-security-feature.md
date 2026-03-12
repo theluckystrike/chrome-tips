@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Site Isolation: What It Is and Why It Matters for Your Security'
-description: Learn how Chrome's Site Isolation feature protects your browsing data from malicious attacks and why you should understand this important security mechanism.
+description: Learn how Chrome's Site Isolation feature protects your browsing data
+  from malicious attacks and why you should understand this important security mechanism.
 date: 2026-01-20
 categories:
 - security

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome DevTools Emulate Color Schemes"
-description: "Learn how to use Chrome DevTools to test your website with different color schemes and ensure it works for all users. Explore our comprehensive guide to mas..."
+title: Chrome DevTools Emulate Color Schemes
+description: Learn how to use Chrome DevTools to test your website with different
+  color schemes and ensure it works for all users. Explore our comprehensive guide
+  to mas...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-emulate-color-schemes

@@ -1,13 +1,15 @@
 ---
-title: "chrome experimental features worth trying 2026"
-description: "Discover the best Chrome experimental features worth trying in 2026. Check out our expert recommendations and step-by-step instructions to get the most out of y"
-date: "2026-03-09"
-last_modified_at: "2026-03-11"
-permalink: "chrome-experimental-features-worth-trying-2026"
-layout: "post"
-categories: ""
-tags: ""
-author: "theluckystrike"
+title: chrome experimental features worth trying 2026
+description: Discover the best Chrome experimental features worth trying in 2026.
+  Check out our expert recommendations and step-by-step instructions to get the most
+  out of y
+date: '2026-03-09'
+last_modified_at: '2026-03-11'
+permalink: chrome-experimental-features-worth-trying-2026
+layout: post
+categories: ''
+tags: ''
+author: theluckystrike
 ---
 # Chrome Experimental Features Worth Trying in 2026
 

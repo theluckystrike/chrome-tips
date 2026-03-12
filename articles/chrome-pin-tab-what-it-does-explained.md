@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome pin tab what it does explained
-description: Learn what pinning tabs in Chrome does, how it works, and practical tips to keep your important websites always accessible. Learn effective tips and tricks t...
+description: Learn what pinning tabs in Chrome does, how it works, and practical tips
+  to keep your important websites always accessible. Learn effective tips and tricks
+  t...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-pin-tab-what-it-does-explained
@@ -14,8 +16,6 @@ tags:
 - productivity
 - chrome-feature
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-pin-tab-what-it-does-explained
 ---
 # Chrome Pin Tab What It Does Explained
 

@@ -1,6 +1,7 @@
 ---
-title: "Chrome Extensions For Color Accessibility Checker"
-description: "Discover how Chrome Extensions For Color Accessibility Checker can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions a..."
+title: Chrome Extensions For Color Accessibility Checker
+description: Discover how Chrome Extensions For Color Accessibility Checker can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions a...
 date: 2026-03-09
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-color-accessibility-checker/

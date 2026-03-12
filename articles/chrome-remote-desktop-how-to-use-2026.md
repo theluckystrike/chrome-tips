@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome remote desktop how to use 2026
-description: Learn how to use Chrome Remote Desktop in 2026 to access your computer from anywhere. Simple setup guide for beginners. Read our comprehensive guide to learn mo
+description: Learn how to use Chrome Remote Desktop in 2026 to access your computer
+  from anywhere. Simple setup guide for beginners. Read our comprehensive guide to
+  learn mo
 permalink: chrome-remote-desktop-how-to-use-2026
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

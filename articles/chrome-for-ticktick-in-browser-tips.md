@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for TickTick in Browser Tips
-description: 'Learn how to use Chrome with TickTick for better task management. Tips to streamline your workflow directly in the browser. Discover more tips and tricks to '
+description: 'Learn how to use Chrome with TickTick for better task management. Tips
+  to streamline your workflow directly in the browser. Discover more tips and tricks
+  to '
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-ticktick-in-browser-tips

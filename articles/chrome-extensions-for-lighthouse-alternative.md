@@ -1,14 +1,15 @@
 ---
-title: "Chrome Extensions for Lighthouse Alternative"
-description: "Looking for chrome extensions for lighthouse alternative? Discover the best tools to audit and improve your website performance without using Lighthouse."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-lighthouse-alternative"
-layout: "post"
-categories: "[web-development, tools]"
-tags: "[chrome-extensions, lighthouse, website-audit, performance, seo]"
-author: "theluckystrike"
-canonical: "true"
+title: Chrome Extensions for Lighthouse Alternative
+description: Looking for chrome extensions for lighthouse alternative? Discover the
+  best tools to audit and improve your website performance without using Lighthouse.
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-lighthouse-alternative
+layout: post
+categories: '[web-development, tools]'
+tags: '[chrome-extensions, lighthouse, website-audit, performance, seo]'
+author: theluckystrike
+canonical: 'true'
 ---
 # Chrome Extensions for Lighthouse Alternative
 

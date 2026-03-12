@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Spellcheck Not Working? Here's How to Fix It
-description: Fix Chrome's spellcheck when it stops underlining misspelled words. Troubleshoot language settings, enhanced spellcheck, and extension conflicts. Read our compr
+description: Fix Chrome's spellcheck when it stops underlining misspelled words. Troubleshoot
+  language settings, enhanced spellcheck, and extension conflicts. Read our compr
 date: 2025-03-15
 categories:
 - troubleshooting

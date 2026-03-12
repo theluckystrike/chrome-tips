@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Network Settings Reset How To
-description: Learn how to reset Chrome network settings when browser connectivity problems occur. Simple steps to fix network issues. Learn effective tips and tricks to o...
+description: Learn how to reset Chrome network settings when browser connectivity
+  problems occur. Simple steps to fix network issues. Learn effective tips and tricks
+  to o...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-network-settings-reset-how-to
@@ -14,8 +16,6 @@ tags:
 - chrome-not-working
 - network-reset
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-network-settings-reset-how-to
 ---
 # Chrome Network Settings Reset How To
 

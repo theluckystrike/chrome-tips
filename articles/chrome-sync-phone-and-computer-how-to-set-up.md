@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Sync Phone and Computer How to Set Up
-description: Learn how to set up Chrome sync between your phone and computer. Keep bookmarks, passwords, and tabs in sync across all your devices. Read our comprehensive gui
+description: Learn how to set up Chrome sync between your phone and computer. Keep
+  bookmarks, passwords, and tabs in sync across all your devices. Read our comprehensive
+  gui
 date: 2025-03-10
 categories:
 - tutorials

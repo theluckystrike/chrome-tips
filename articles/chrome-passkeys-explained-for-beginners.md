@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Passkeys Explained for Beginners
-description: What are Chrome passkeys and how do they work? A simple guide to understanding passkeys in Google Chrome for beginners. Learn effective tips and tricks to op...
+description: What are Chrome passkeys and how do they work? A simple guide to understanding
+  passkeys in Google Chrome for beginners. Learn effective tips and tricks to op...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-passkeys-explained-for-beginners

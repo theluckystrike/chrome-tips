@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Chrome on Android \u2014 Tips and Tricks for 2026"
-description: Get more from Chrome on Android. Speed tricks, hidden features, gesture shortcuts, and privacy settings for the best mobile browsing experience. Learn effect...
+title: Chrome on Android — Tips and Tricks for 2026
+description: Get more from Chrome on Android. Speed tricks, hidden features, gesture
+  shortcuts, and privacy settings for the best mobile browsing experience. Learn effect...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-on-android-tips-and-tricks-2026
@@ -14,8 +15,6 @@ tags:
 - android-browser
 - chrome-tricks
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-on-android-tips-and-tricks-2026
 ---
 # Chrome on Android — Tips and Tricks for 2026
 

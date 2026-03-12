@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Duplicate Tab Finder"
-description: "Discover how Chrome Extensions For Duplicate Tab Finder can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and sett..."
+title: Chrome Extensions For Duplicate Tab Finder
+description: Discover how Chrome Extensions For Duplicate Tab Finder can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
+  sett...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-duplicate-tab-finder/

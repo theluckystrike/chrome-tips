@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Time Management Extensions
-description: Learn how Chrome time management extensions can help you stay focused, organized, and make the most of your workday. Discover more tips and tricks to optimiz
+description: Learn how Chrome time management extensions can help you stay focused,
+  organized, and make the most of your workday. Discover more tips and tricks to optimiz
 date: 2026-03-10
 categories:
 - productivity

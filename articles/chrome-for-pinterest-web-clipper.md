@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for pinterest web clipper
-description: Find the best Chrome extension for saving Pinterest content. Learn how to clip pins, boards, and images easily. Discover more tips and tricks to optimize you
+description: Find the best Chrome extension for saving Pinterest content. Learn how
+  to clip pins, boards, and images easily. Discover more tips and tricks to optimize
+  you
 date: 2026-01-15
 categories:
 - extensions

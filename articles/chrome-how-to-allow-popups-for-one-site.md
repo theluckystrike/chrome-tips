@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "chrome how to allow popups for one site"
-description: "Learn how to allow popups for one site in Chrome without disabling your popup blocker completely. Simple steps inside. Check out our expert recommendations and"
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-how-to-allow-popups-for-one-site"
-categories: [browser, settings]
-tags: [chrome, popups, browser-settings, permissions]
-author: "theluckystrike"
+layout: post
+title: chrome how to allow popups for one site
+description: Learn how to allow popups for one site in Chrome without disabling your
+  popup blocker completely. Simple steps inside. Check out our expert recommendations
+  and
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-how-to-allow-popups-for-one-site
+categories:
+- browser
+- settings
+tags:
+- chrome
+- popups
+- browser-settings
+- permissions
+author: theluckystrike
 ---
 # Chrome How to Allow Popups for One Site
 

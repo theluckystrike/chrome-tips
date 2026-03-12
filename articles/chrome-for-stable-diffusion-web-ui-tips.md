@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Stable Diffusion Web UI Tips
-description: 'Get the most out of Stable Diffusion Web UI with these Chrome browser tips for better performance and easier image generation. Discover more tips and tricks '
+description: 'Get the most out of Stable Diffusion Web UI with these Chrome browser
+  tips for better performance and easier image generation. Discover more tips and
+  tricks '
 date: 2026-01-15
 categories:
 - browsers

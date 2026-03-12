@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome network inspector for beginners
-description: Learn how to use Chrome Network Inspector to debug slow websites, find loading issues, and optimize page performance. Learn effective tips and tricks to opti...
+description: Learn how to use Chrome Network Inspector to debug slow websites, find
+  loading issues, and optimize page performance. Learn effective tips and tricks to
+  opti...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-network-inspector-for-beginners
@@ -14,8 +16,6 @@ tags:
 - debugging
 - performance
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-network-inspector-for-beginners
 ---
 # Chrome Network Inspector for Beginners
 

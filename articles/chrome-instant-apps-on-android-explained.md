@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome Instant Apps on Android Explained"
-description: "Learn what Chrome Instant Apps are, how they work on Android, and how to use them for faster, app-like experiences without installation. Check out our expert r"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-instant-apps-on-android-explained"
-categories: [android, chrome, apps]
-tags: [chrome-instant-apps, android, mobile-browsing, web-apps]
-author: "theluckystrike"
+layout: post
+title: Chrome Instant Apps on Android Explained
+description: Learn what Chrome Instant Apps are, how they work on Android, and how
+  to use them for faster, app-like experiences without installation. Check out our
+  expert r
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-instant-apps-on-android-explained
+categories:
+- android
+- chrome
+- apps
+tags:
+- chrome-instant-apps
+- android
+- mobile-browsing
+- web-apps
+author: theluckystrike
 ---
 # Chrome Instant Apps on Android Explained
 

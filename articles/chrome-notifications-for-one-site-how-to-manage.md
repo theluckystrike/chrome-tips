@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Notifications for One Site How to Manage
-description: Getting annoying notifications from just one website? Learn how to manage Chrome notifications for specific sites and regain control. Learn effective tips an...
+description: Getting annoying notifications from just one website? Learn how to manage
+  Chrome notifications for specific sites and regain control. Learn effective tips
+  an...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-notifications-for-one-site-how-to-manage

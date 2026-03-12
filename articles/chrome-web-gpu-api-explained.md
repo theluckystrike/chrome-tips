@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome Web GPU API Explained"
-description: "What is Chrome Web GPU API and how to use it for better browser graphics performance. A simple guide for everyone. Read our comprehensive guide to learn more..."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-web-gpu-api-explained"
-categories: "[performance, gpu, web-development]"
-tags: "[chrome-web-gpu, web-gpu-api, browser-graphics, chrome-performance]"
-author: "theluckystrike"
+layout: post
+title: Chrome Web GPU API Explained
+description: What is Chrome Web GPU API and how to use it for better browser graphics
+  performance. A simple guide for everyone. Read our comprehensive guide to learn
+  more...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-web-gpu-api-explained
+categories: '[performance, gpu, web-development]'
+tags: '[chrome-web-gpu, web-gpu-api, browser-graphics, chrome-performance]'
+author: theluckystrike
 ---
 # Chrome Web GPU API Explained
 

@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Layers Panel Explained"
-description: "Learn what Chrome Layers panel does, why your page may be slow, and how to fix layer-related performance issues in your browser. Check out our expert recommend"
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-layers-panel-explained"
-categories: [chrome, devtools, performance]
-tags: [chrome-layers-panel, chrome-devtools, browser-performance, web-development]
-author: "theluckystrike"
+layout: post
+title: Chrome Layers Panel Explained
+description: Learn what Chrome Layers panel does, why your page may be slow, and how
+  to fix layer-related performance issues in your browser. Check out our expert recommend
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-layers-panel-explained
+categories:
+- chrome
+- devtools
+- performance
+tags:
+- chrome-layers-panel
+- chrome-devtools
+- browser-performance
+- web-development
+author: theluckystrike
 ---
 # Chrome Layers Panel Explained
 

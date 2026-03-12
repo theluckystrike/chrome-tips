@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Kindle Cloud Reader Setup - A Complete Guide
-description: Learn how to set up and optimize Chrome for the best Kindle Cloud Reader experience. Tips for performance, extensions, and more. Discover more tips and trick
+description: Learn how to set up and optimize Chrome for the best Kindle Cloud Reader
+  experience. Tips for performance, extensions, and more. Discover more tips and trick
 date: 2025-02-20
 categories:
 - reading

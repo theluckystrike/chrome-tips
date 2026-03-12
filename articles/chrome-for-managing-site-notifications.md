@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Managing Site Notifications
-description: 'Learn how to manage site notifications in Chrome to reduce distractions and improve your browsing experience. Discover more tips and tricks to optimize your '
+description: 'Learn how to manage site notifications in Chrome to reduce distractions
+  and improve your browsing experience. Discover more tips and tricks to optimize
+  your '
 date: 2026-01-15
 categories:
 - chrome

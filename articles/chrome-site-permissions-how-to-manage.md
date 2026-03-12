@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Site Permissions How to Manage
-description: A friendly guide to finding and controlling what websites can access in your Chrome browser. Read our comprehensive guide to learn more and improve your browsin
+description: A friendly guide to finding and controlling what websites can access
+  in your Chrome browser. Read our comprehensive guide to learn more and improve your
+  browsin
 permalink: chrome-site-permissions-how-to-manage
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

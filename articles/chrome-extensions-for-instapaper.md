@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Instapaper"
-description: "Find the best Chrome extensions for Instapaper to save articles for later reading and improve your browser experience. Check out our expert recommendations..."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-instapaper"
-layout: "post"
-categories: "[saving, tips]"
-tags: "[chrome-extensions, instapaper, reading]"
-author: "theluckystrike"
+title: Chrome Extensions for Instapaper
+description: Find the best Chrome extensions for Instapaper to save articles for later
+  reading and improve your browser experience. Check out our expert recommendations...
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-instapaper
+layout: post
+categories: '[saving, tips]'
+tags: '[chrome-extensions, instapaper, reading]'
+author: theluckystrike
 ---
 # Chrome Extensions for Instapaper
 

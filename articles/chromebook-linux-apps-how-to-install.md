@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "chromebook linux apps how to install"
-description: "Learn how to install Linux apps on your Chromebook with this simple guide. Unlock more software options on your device. Read our comprehensive guide to learn..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chromebook-linux-apps-how-to-install"
-categories: "[chromebook, linux, tutorials]"
-tags: "[chromebook, linux, apps, installation, tutorial]"
-author: "theluckystrike"
+layout: post
+title: chromebook linux apps how to install
+description: Learn how to install Linux apps on your Chromebook with this simple guide.
+  Unlock more software options on your device. Read our comprehensive guide to learn...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chromebook-linux-apps-how-to-install
+categories: '[chromebook, linux, tutorials]'
+tags: '[chromebook, linux, apps, installation, tutorial]'
+author: theluckystrike
 ---
 # Chromebook Linux Apps How to Install
 

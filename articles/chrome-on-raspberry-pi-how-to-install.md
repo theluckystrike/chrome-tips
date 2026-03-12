@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome on raspberry pi how to install
-description: Learn how to install Chrome on Raspberry Pi with simple steps. Get a full-featured browser on your Pi for better browsing. Learn effective tips and tricks to...
+description: Learn how to install Chrome on Raspberry Pi with simple steps. Get a
+  full-featured browser on your Pi for better browsing. Learn effective tips and tricks
+  to...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-on-raspberry-pi-how-to-install
@@ -14,8 +16,6 @@ tags:
 - install
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-on-raspberry-pi-how-to-install
 ---
 If you have been searching for chrome on raspberry pi how to install, you probably already know that getting a proper web browser on this tiny computer can be surprisingly tricky. The Raspberry Pi comes with a browser called Chromium, which is related to Chrome, but many people want the full Chrome experience with all the features they are used to from their main computer. This guide will walk you through why this is challenging and what you can do about it.
 

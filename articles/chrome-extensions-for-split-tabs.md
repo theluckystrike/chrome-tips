@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Split Tabs"
-description: "Need chrome extensions for split tabs? Learn how to view two tabs side by side and organize your browser window for better productivity. Read our comprehensi..."
+title: Chrome Extensions for Split Tabs
+description: Need chrome extensions for split tabs? Learn how to view two tabs side
+  by side and organize your browser window for better productivity. Read our comprehensi...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-split-tabs
-categories: [productivity, tips]
-tags: [tabs, split-screen, chrome-extensions, productivity]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-split-tabs
+categories:
+- productivity
+- tips
+tags:
+- tabs
+- split-screen
+- chrome-extensions
+- productivity
+author: theluckystrike
 ---
 # Chrome Extensions for Split Tabs
 

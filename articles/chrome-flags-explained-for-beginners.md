@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Flags Explained for Beginners"
-description: "Learn what Chrome flags are and how to use them safely. A simple guide for everyday browser users. Read our comprehensive guide to learn more and boost your ..."
+title: Chrome Flags Explained for Beginners
+description: Learn what Chrome flags are and how to use them safely. A simple guide
+  for everyday browser users. Read our comprehensive guide to learn more and boost
+  your ...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: chrome-flags-explained-for-beginners

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Extensions for Todoist"
-description: "Discover how Chrome extensions for Todoist can streamline your workflow and help you stay organized. Read our comprehensive guide to learn more and boost you..."
+title: Chrome Extensions for Todoist
+description: Discover how Chrome extensions for Todoist can streamline your workflow
+  and help you stay organized. Read our comprehensive guide to learn more and boost
+  you...
 date: 2026-03-10
 last_modified_at: 2026-03-09
 permalink: chrome-extensions-for-todoist

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Flags That Actually Help Performance
-description: Learn which Chrome flags genuinely improve performance and make your browser faster with practical tips. Find out more tips on how to optimize your Chrome br...
+description: Learn which Chrome flags genuinely improve performance and make your
+  browser faster with practical tips. Find out more tips on how to optimize your Chrome
+  br...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-flags-that-actually-help-performance

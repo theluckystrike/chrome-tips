@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Reddit Best Extensions
-description: Find the best Chrome extensions for Reddit to enhance your browsing, boost productivity, and get more from the platform. Discover more tips and tricks to opt
+description: Find the best Chrome extensions for Reddit to enhance your browsing,
+  boost productivity, and get more from the platform. Discover more tips and tricks
+  to opt
 date: 2026-03-10
 categories:
 - reddit

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Focus Music Playlists Extensions
-description: Discover Chrome extensions that help you create and enjoy focus music playlists for better concentration and productivity. Find out more tips on how to optim...
+description: Discover Chrome extensions that help you create and enjoy focus music
+  playlists for better concentration and productivity. Find out more tips on how to
+  optim...
 date: 2026-03-10
 categories:
 - productivity

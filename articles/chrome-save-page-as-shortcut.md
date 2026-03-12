@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Save Page as Shortcut
-description: Learn how to save a webpage as a shortcut in Chrome and access your favorite sites quickly with this simple guide. Read our comprehensive guide to learn more an
+description: Learn how to save a webpage as a shortcut in Chrome and access your favorite
+  sites quickly with this simple guide. Read our comprehensive guide to learn more
+  an
 permalink: chrome-save-page-as-shortcut
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

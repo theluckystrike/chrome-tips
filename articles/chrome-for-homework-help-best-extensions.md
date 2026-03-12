@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Homework Help Best Extensions
-description: Looking for chrome for homework help best extensions? Here are the top tools to make homework easier and faster. Discover more tips and tricks to optimize yo
+description: Looking for chrome for homework help best extensions? Here are the top
+  tools to make homework easier and faster. Discover more tips and tricks to optimize
+  yo
 date: 2026-03-10
 categories:
 - productivity

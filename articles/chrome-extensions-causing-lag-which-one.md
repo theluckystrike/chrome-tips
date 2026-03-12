@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions Causing Lag: Which One Is Slowing You Down?"
-description: "Is your Chrome browser running slow? Learn which extensions are causing lag and how to fix them with practical step-by-step solutions for computers with limi..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-extensions-causing-lag-which-one"
-layout: "post"
-categories: "[performance, chrome-extensions]"
-tags: "[chrome-extensions, lag-fix, slow-browser, chrome-performance, extension-troubleshooting]"
-author: "theluckystrike"
+title: 'Chrome Extensions Causing Lag: Which One Is Slowing You Down?'
+description: Is your Chrome browser running slow? Learn which extensions are causing
+  lag and how to fix them with practical step-by-step solutions for computers with
+  limi...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-causing-lag-which-one
+layout: post
+categories: '[performance, chrome-extensions]'
+tags: '[chrome-extensions, lag-fix, slow-browser, chrome-performance, extension-troubleshooting]'
+author: theluckystrike
 ---
 # Chrome Extensions Causing Lag: Which One Is Slowing You Down?
 

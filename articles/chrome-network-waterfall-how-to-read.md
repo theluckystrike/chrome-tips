@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Network Waterfall How to Read
-description: Learn how to read the Chrome network waterfall to identify performance issues and speed up your browser. Learn effective tips and tricks to optimize your Chr...
+description: Learn how to read the Chrome network waterfall to identify performance
+  issues and speed up your browser. Learn effective tips and tricks to optimize your
+  Chr...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-network-waterfall-how-to-read
@@ -14,8 +16,6 @@ tags:
 - waterfall
 - performance
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-network-waterfall-how-to-read
 ---
 # Chrome Network Waterfall How to Read
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Substack Reading Tips
-description: Make the most of Substack in Chrome with these simple tips. Speed up your reading, reduce distractions, and organize your subscriptions easily. Discover more
+description: Make the most of Substack in Chrome with these simple tips. Speed up
+  your reading, reduce distractions, and organize your subscriptions easily. Discover
+  more
 date: 2025-03-10
 categories:
 - productivity

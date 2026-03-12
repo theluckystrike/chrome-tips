@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Shadow DOM What It Is
-description: Learn what Shadow DOM is in Chrome, how it works, and why it matters for web developers and everyday users alike. Read our comprehensive guide to learn more and
+description: Learn what Shadow DOM is in Chrome, how it works, and why it matters
+  for web developers and everyday users alike. Read our comprehensive guide to learn
+  more and
 permalink: chrome-shadow-dom-what-it-is
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

@@ -1,6 +1,8 @@
 ---
 title: 'Chrome Flags That Actually Make It Faster: A Practical Guide for Slow Computers'
-description: Discover Chrome flags that can genuinely speed up your browser on older hardware. Simple step-by-step solutions for computers with limited RAM. Find out more...
+description: Discover Chrome flags that can genuinely speed up your browser on older
+  hardware. Simple step-by-step solutions for computers with limited RAM. Find out
+  more...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-flags-that-actually-make-it-faster

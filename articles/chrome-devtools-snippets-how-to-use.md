@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Devtools Snippets How to Use"
-description: "Learn how to use Chrome DevTools Snippets to save and run code on any webpage. A simple guide for beginners. Explore our comprehensive guide to mastering Ch..."
+title: Chrome Devtools Snippets How to Use
+description: Learn how to use Chrome DevTools Snippets to save and run code on any
+  webpage. A simple guide for beginners. Explore our comprehensive guide to mastering
+  Ch...
 date: 2025-02-19
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-snippets-how-to-use

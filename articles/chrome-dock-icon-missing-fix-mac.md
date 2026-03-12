@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Dock Icon Missing Fix Mac"
-description: "Your Chrome icon vanished from the Mac dock? Learn why it happens and how to get it back with simple fixes anyone can try. Explore our comprehensive guide t..."
+title: Chrome Dock Icon Missing Fix Mac
+description: Your Chrome icon vanished from the Mac dock? Learn why it happens and
+  how to get it back with simple fixes anyone can try. Explore our comprehensive guide
+  t...
 date: 2026-01-15
 last_modified_at: 2026-03-09
 permalink: chrome-dock-icon-missing-fix-mac

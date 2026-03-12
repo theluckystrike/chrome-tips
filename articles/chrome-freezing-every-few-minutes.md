@@ -1,13 +1,20 @@
 ---
-layout: "default"
-title: "Chrome Freezing Every Few Minutes? Here's What to Do"
-description: "Is Chrome freezing every few minutes? This guide walks you through the most common causes and proven solutions to get your browser running smoothly again."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-freezing-every-few-minutes"
-categories: [performance, troubleshooting]
-tags: [chrome-freezing, browser-freeze, chrome-slow, computer-performance]
-author: "theluckystrike"
+layout: default
+title: Chrome Freezing Every Few Minutes? Here's What to Do
+description: Is Chrome freezing every few minutes? This guide walks you through the
+  most common causes and proven solutions to get your browser running smoothly again.
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-freezing-every-few-minutes
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-freezing
+- browser-freeze
+- chrome-slow
+- computer-performance
+author: theluckystrike
 ---
 # Chrome Freezing Every Few Minutes? Here's What to Do
 

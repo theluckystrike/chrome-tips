@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Proxy Settings How to Configure
-description: Learn how to configure proxy settings in Chrome for better privacy, bypass restrictions, and optimize your browsing experience. Discover more tips and tricks
+description: Learn how to configure proxy settings in Chrome for better privacy, bypass
+  restrictions, and optimize your browsing experience. Discover more tips and tricks
 date: 2026-01-20
 categories:
 - privacy

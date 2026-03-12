@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome DevTools Layers Panel 3D View"
-description: "Learn how to use Chrome DevTools Layers panel 3D view to diagnose rendering issues and fix slow page performance. Explore our comprehensive guide to masteri..."
+title: Chrome DevTools Layers Panel 3D View
+description: Learn how to use Chrome DevTools Layers panel 3D view to diagnose rendering
+  issues and fix slow page performance. Explore our comprehensive guide to masteri...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-layers-panel-3d-view

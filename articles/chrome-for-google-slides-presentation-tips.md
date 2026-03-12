@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Google Slides Presentation Tips
-description: Practical Chrome tips for smoother Google Slides presentations. Speed up your browser and work more efficiently. Discover more tips and tricks to optimize yo
+description: Practical Chrome tips for smoother Google Slides presentations. Speed
+  up your browser and work more efficiently. Discover more tips and tricks to optimize
+  yo
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-google-slides-presentation-tips

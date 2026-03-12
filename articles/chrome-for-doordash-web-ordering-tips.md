@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for DoorDash Web Ordering Tips
-description: Learn how to make the most of DoorDash web ordering with Chrome. Discover tips to speed up ordering, find deals, and manage your food delivery experience.
+description: Learn how to make the most of DoorDash web ordering with Chrome. Discover
+  tips to speed up ordering, find deals, and manage your food delivery experience.
 date: 2026-03-10
 categories:
 - food

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome Extensions for uBlock Origin Setup Guide"
-description: "Learn how to set up uBlock Origin and discover helpful Chrome extensions Read our comprehensive guide to learn more and boost your productivity today."
+title: Chrome Extensions for uBlock Origin Setup Guide
+description: Learn how to set up uBlock Origin and discover helpful Chrome extensions
+  Read our comprehensive guide to learn more and boost your productivity today.
 date: '2026-03-09'
 last_modified_at: 2026-03-11
 permalink: chrome-extensions-for-ublock-origin-setup-guide

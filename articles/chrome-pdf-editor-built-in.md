@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Built-In PDF Editor Guide
-description: Learn how to use Chrome's built-in PDF editor to fill forms, sign documents, add text, and save edits directly in your browser. Learn effective tips and tric...
+description: Learn how to use Chrome's built-in PDF editor to fill forms, sign documents,
+  add text, and save edits directly in your browser. Learn effective tips and tric...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-pdf-editor-built-in

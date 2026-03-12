@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Spell Check Wrong Language Fix
-description: Is Chrome spell check using the wrong language? Here is how to fix it and get accurate spelling suggestions in your preferred language. Read our comprehensive g
+description: Is Chrome spell check using the wrong language? Here is how to fix it
+  and get accurate spelling suggestions in your preferred language. Read our comprehensive
+  g
 date: 2025-03-15
 categories:
 - troubleshooting

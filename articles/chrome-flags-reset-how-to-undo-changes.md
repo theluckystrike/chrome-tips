@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Flags Reset How to Undo Changes"
-description: "Learn how to reset Chrome flags and undo changes. Simple steps to restore your browser to normal. Read our comprehensive guide to learn more and boost your p..."
+title: Chrome Flags Reset How to Undo Changes
+description: Learn how to reset Chrome flags and undo changes. Simple steps to restore
+  your browser to normal. Read our comprehensive guide to learn more and boost your
+  p...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: chrome-flags-reset-how-to-undo-changes

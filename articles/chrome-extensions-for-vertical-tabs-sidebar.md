@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Extensions for Vertical Tabs Sidebar"
-description: "Searching for chrome extensions for vertical tabs sidebar? Discover tools that move your tabs to a side panel for easier management. Read our comprehensive g..."
+title: Chrome Extensions for Vertical Tabs Sidebar
+description: Searching for chrome extensions for vertical tabs sidebar? Discover tools
+  that move your tabs to a side panel for easier management. Read our comprehensive
+  g...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: chrome-extensions-for-vertical-tabs-sidebar

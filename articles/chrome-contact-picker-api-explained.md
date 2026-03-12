@@ -1,12 +1,20 @@
 ---
-title: "Chrome Contact Picker API Explained"
-description: "Learn what Chrome Contact Picker API is, how websites use it, and how to manage contact access permissions in your browser for better privacy. Read our full gui"
-date: "2026-03-09"
-last_modified_at: "%Y->- (origin/fix/lastmod-batch-4)"
-permalink: "chrome-contact-picker-api-explained"
+title: Chrome Contact Picker API Explained
+description: Learn what Chrome Contact Picker API is, how websites use it, and how
+  to manage contact access permissions in your browser for better privacy. Read our
+  full gui
+date: '2026-03-09'
+last_modified_at: '%Y->- (origin/fix/lastmod-batch-4)'
+permalink: chrome-contact-picker-api-explained
 layout: post
-categories: ['features', 'privacy']
-tags: ['contacts', 'contact-picker', 'chrome-features', 'privacy']
+categories:
+- features
+- privacy
+tags:
+- contacts
+- contact-picker
+- chrome-features
+- privacy
 author: theluckystrike
 ---
 # Chrome Contact Picker API Explained

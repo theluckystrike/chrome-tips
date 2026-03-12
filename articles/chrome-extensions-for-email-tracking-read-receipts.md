@@ -1,6 +1,7 @@
 ---
-title: "Chrome Extensions For Email Tracking Read Receipts"
-description: "Discover how Chrome Extensions For Email Tracking Read Receipts can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions ..."
+title: Chrome Extensions For Email Tracking Read Receipts
+description: Discover how Chrome Extensions For Email Tracking Read Receipts can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions ...
 date: 2026-03-12
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-email-tracking-read-receipts/

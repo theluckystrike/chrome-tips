@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome New Tab Page Best Extensions
-description: Discover the best Chrome new tab page extensions to transform your browsing experience and boost daily productivity. Learn effective tips and tricks to optim...
+description: Discover the best Chrome new tab page extensions to transform your browsing
+  experience and boost daily productivity. Learn effective tips and tricks to optim...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-new-tab-page-best-extensions
@@ -13,8 +14,6 @@ tags:
 - new-tab
 - browser-tools
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-new-tab-page-best-extensions
 ---
 # Chrome New Tab Page Best Extensions
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Shopping List Feature How to Use
-description: Learn how to use Chrome's built-in shopping list feature to save products for later. Step-by-step guide with tips for organizing your purchases. Read our compre
+description: Learn how to use Chrome's built-in shopping list feature to save products
+  for later. Step-by-step guide with tips for organizing your purchases. Read our
+  compre
 date: 2025-03-18
 categories:
 - features

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Remote Desktop How to Use
-description: Learn how to use Chrome Remote Desktop to access your computer from anywhere. A beginner-friendly guide with simple setup steps. Read our comprehensive guide to
+description: Learn how to use Chrome Remote Desktop to access your computer from anywhere.
+  A beginner-friendly guide with simple setup steps. Read our comprehensive guide
+  to
 date: 2026-01-15
 categories:
 - remote-access

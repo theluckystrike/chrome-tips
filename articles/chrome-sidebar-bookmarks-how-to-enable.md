@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Sidebar Bookmarks How to Enable
-description: Want to enable sidebar bookmarks in Chrome? Learn the built-in options and extensions that give you a convenient bookmarks sidebar. Read our comprehensive guide
+description: Want to enable sidebar bookmarks in Chrome? Learn the built-in options
+  and extensions that give you a convenient bookmarks sidebar. Read our comprehensive
+  guide
 date: 2026-01-15
 categories:
 - how-to

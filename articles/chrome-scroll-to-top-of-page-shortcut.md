@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Scroll to Top of Page Shortcut
-description: Learn the fastest ways to scroll to the top of any webpage in Chrome using simple keyboard shortcuts. Read our comprehensive guide to learn more and improve you
+description: Learn the fastest ways to scroll to the top of any webpage in Chrome
+  using simple keyboard shortcuts. Read our comprehensive guide to learn more and
+  improve you
 permalink: chrome-scroll-to-top-of-page-shortcut
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

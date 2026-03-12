@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Network Tab: How to Use and Debug Network Requests'
-description: Master Chrome's Network tab to debug HTTP requests, analyze loading performance, and troubleshoot website issues. Practical step-by-step guide for real users.
+description: Master Chrome's Network tab to debug HTTP requests, analyze loading performance,
+  and troubleshoot website issues. Practical step-by-step guide for real users.
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-network-tab-how-to-use-debug
@@ -17,8 +18,6 @@ tags:
 - debugging
 - web-development
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-network-tab-how-to-use-debug
 ---
 # Chrome Network Tab: How to Use and Debug Network Requests
 

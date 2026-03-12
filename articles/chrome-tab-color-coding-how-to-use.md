@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Tab Color Coding How to Use
-description: Learn how to color code your Chrome tabs for better organization. Simple tips to visually organize your browser and find tabs faster. Read our comprehensive gui
+description: Learn how to color code your Chrome tabs for better organization. Simple
+  tips to visually organize your browser and find tabs faster. Read our comprehensive
+  gui
 date: 2026-01-15
 categories:
 - productivity

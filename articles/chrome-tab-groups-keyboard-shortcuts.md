@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome tab groups keyboard shortcuts
-description: Master chrome tab groups keyboard shortcuts to organize your browser tabs efficiently. Learn essential keyboard shortcuts for creating, managing, and navigat...
+description: Master chrome tab groups keyboard shortcuts to organize your browser
+  tabs efficiently. Learn essential keyboard shortcuts for creating, managing, and
+  navigat...
 date: 2026-03-11
 categories:
 - productivity

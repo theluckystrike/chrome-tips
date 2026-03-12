@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extensions for Bibliography Management"
-description: "Discover the best Chrome extensions for bibliography management that help researchers, students, and writers organize citations effortlessly. Discover how th..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-bibliography-management"
-layout: "post"
-categories: "[bibliography, tips]"
-tags: "[chrome-extensions, citations, research, writing]"
-author: "theluckystrike"
+title: Chrome Extensions for Bibliography Management
+description: Discover the best Chrome extensions for bibliography management that
+  help researchers, students, and writers organize citations effortlessly. Discover
+  how th...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-bibliography-management
+layout: post
+categories: '[bibliography, tips]'
+tags: '[chrome-extensions, citations, research, writing]'
+author: theluckystrike
 ---
 # Chrome Extensions for Bibliography Management
 

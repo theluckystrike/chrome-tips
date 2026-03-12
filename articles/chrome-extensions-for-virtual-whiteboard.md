@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Virtual Whiteboard"
-description: "Discover the best Chrome extensions for virtual whiteboard that can transform your remote collaboration and visual brainstorming sessions. Read our comprehen..."
+title: Chrome Extensions for Virtual Whiteboard
+description: Discover the best Chrome extensions for virtual whiteboard that can transform
+  your remote collaboration and visual brainstorming sessions. Read our comprehen...
 date: 2026-03-09
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-virtual-whiteboard
-categories: [productivity, collaboration]
-tags: [chrome-extensions, virtual-whiteboard, collaboration, remote-work]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-virtual-whiteboard
+categories:
+- productivity
+- collaboration
+tags:
+- chrome-extensions
+- virtual-whiteboard
+- collaboration
+- remote-work
+author: theluckystrike
 ---
 # Chrome Extensions for Virtual Whiteboard
 

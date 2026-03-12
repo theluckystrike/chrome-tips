@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Speed Comparison Test How to Run
-description: Learn how to run a chrome speed comparison test to find out which browser is fastest for your needs. Read our comprehensive guide to learn more and improve your
+description: Learn how to run a chrome speed comparison test to find out which browser
+  is fastest for your needs. Read our comprehensive guide to learn more and improve
+  your
 date: 2026-03-09
 categories:
 - performance

@@ -1,10 +1,11 @@
 ---
-layout: "post"
-title: "Chrome Built in Password Checkup How to Use"
-description: "Learn how to use Chrome's built-in password checkup feature to find compromised passwords and improve your online security. Check out our expert guide for step-"
-date: "2026-01-01"
-last_modified_at: "2026-03-09"
-permalink: "chrome-built-in-password-checkup-how-to-use"
+layout: post
+title: Chrome Built in Password Checkup How to Use
+description: Learn how to use Chrome's built-in password checkup feature to find compromised
+  passwords and improve your online security. Check out our expert guide for step-
+date: '2026-01-01'
+last_modified_at: '2026-03-09'
+permalink: chrome-built-in-password-checkup-how-to-use
 ---
 Chrome built in password checkup how to use? If you have ever wondered whether any of your saved passwords have been leaked in data breaches, Chrome has a free tool that can help you find out. This feature checks your saved passwords against known data breaches and alerts you if any of them have been compromised. Let me explain how it works and how you can use it to keep your accounts safer.
 

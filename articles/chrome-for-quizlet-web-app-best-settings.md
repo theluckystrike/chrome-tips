@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Quizlet Web App Best Settings
-description: Optimize Chrome for Quizlet with these simple settings. Speed up study sessions, reduce memory usage, and improve focus. Discover more tips and tricks to opt
+description: Optimize Chrome for Quizlet with these simple settings. Speed up study
+  sessions, reduce memory usage, and improve focus. Discover more tips and tricks
+  to opt
 date: 2026-01-15
 categories:
 - chrome

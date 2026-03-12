@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Fenced Frames Explained"
-description: "Learn what Chrome fenced frames are, why they matter for your privacy, and how they affect your browsing experience. Read our comprehensive guide to learn mo..."
+title: Chrome Fenced Frames Explained
+description: Learn what Chrome fenced frames are, why they matter for your privacy,
+  and how they affect your browsing experience. Read our comprehensive guide to learn
+  mo...
 date: 2026-03-10
 last_modified_at: 2026-03-09
 permalink: chrome-fenced-frames-explained

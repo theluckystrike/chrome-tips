@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Cashback Extensions Comparison
-description: Compare the best cashback browser extensions for Chrome. Find out which ones save you money and which are worth your time. Find out more tips on how to optim...
+description: Compare the best cashback browser extensions for Chrome. Find out which
+  ones save you money and which are worth your time. Find out more tips on how to
+  optim...
 date: 2026-01-15
 categories:
 - shopping

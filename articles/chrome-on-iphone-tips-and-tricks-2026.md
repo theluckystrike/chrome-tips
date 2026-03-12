@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Chrome on iPhone \u2014 Tips and Tricks for 2026"
-description: Make the most of Chrome on your iPhone. Gesture shortcuts, widgets, password management, and hidden features for better mobile browsing. Learn effective tips...
+title: Chrome on iPhone — Tips and Tricks for 2026
+description: Make the most of Chrome on your iPhone. Gesture shortcuts, widgets, password
+  management, and hidden features for better mobile browsing. Learn effective tips...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-on-iphone-tips-and-tricks-2026
@@ -14,8 +15,6 @@ tags:
 - mobile-browser
 - chrome-tricks
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-on-iphone-tips-and-tricks-2026
 ---
 # Chrome on iPhone — Tips and Tricks for 2026
 

@@ -1,13 +1,15 @@
 ---
-layout: "default"
-title: "Does Incognito Mode Make Chrome Faster?"
-description: "Can browsing in Incognito mode speed up Chrome? The truth about Incognito performance, plus what actually makes Chrome faster. Read our comprehensive guide t..."
-date: "2025-03-05"
-last_modified_at: "2026-03-10"
-permalink: "does-incognito-mode-make-chrome-faster"
-categories: "[performance, privacy]"
-tags: "[incognito-mode, chrome-speed, browser-performance, chrome-myths]"
-author: "theluckystrike"
+layout: default
+title: Does Incognito Mode Make Chrome Faster?
+description: Can browsing in Incognito mode speed up Chrome? The truth about Incognito
+  performance, plus what actually makes Chrome faster. Read our comprehensive guide
+  t...
+date: '2025-03-05'
+last_modified_at: '2026-03-10'
+permalink: does-incognito-mode-make-chrome-faster
+categories: '[performance, privacy]'
+tags: '[incognito-mode, chrome-speed, browser-performance, chrome-myths]'
+author: theluckystrike
 ---
 # Does Incognito Mode Make Chrome Faster?
 

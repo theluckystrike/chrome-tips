@@ -1,13 +1,20 @@
 ---
-layout: "post"
-title: "Chrome Layers Panel 3D View Explained"
-description: "A comprehensive guide to understanding and using Chrome DevTools Layers Panel 3D View for diagnosing rendering performance issues. Check out our expert recomme"
-date: "2026-03-09"
-last_modified_at: "2026-03-11"
-permalink: "chrome-layers-panel-3d-view-explained"
-categories: [performance, troubleshooting]
-tags: [chrome-devtools, browser-tools, chrome-tips]
-author: "theluckystrike"
+layout: post
+title: Chrome Layers Panel 3D View Explained
+description: A comprehensive guide to understanding and using Chrome DevTools Layers
+  Panel 3D View for diagnosing rendering performance issues. Check out our expert
+  recomme
+date: '2026-03-09'
+last_modified_at: '2026-03-11'
+permalink: chrome-layers-panel-3d-view-explained
+categories:
+- performance
+- troubleshooting
+tags:
+- chrome-devtools
+- browser-tools
+- chrome-tips
+author: theluckystrike
 ---
 # Chrome Layers Panel 3D View Explained
 

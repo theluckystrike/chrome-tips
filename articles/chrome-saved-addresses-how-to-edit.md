@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Saved Addresses How to Edit
-description: Learn how to edit saved addresses in Chrome, fix common issues, and manage your address autofill settings easily. Read our comprehensive guide to learn more and
+description: Learn how to edit saved addresses in Chrome, fix common issues, and manage
+  your address autofill settings easily. Read our comprehensive guide to learn more
+  and
 date: 2025-03-09
 categories:
 - tips

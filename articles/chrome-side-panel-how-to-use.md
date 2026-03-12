@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Side Panel — How to Use It Effectively
-description: Master Chrome's Side Panel feature. Bookmarks, reading list, search, and extensions all accessible without leaving your current page. Read our comprehensive gui
+description: Master Chrome's Side Panel feature. Bookmarks, reading list, search,
+  and extensions all accessible without leaving your current page. Read our comprehensive
+  gui
 date: 2025-03-13
 categories:
 - features

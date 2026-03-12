@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for MasterClass Web Tips
-description: Improve your MasterClass experience in Chrome. Memory-saving tips, tab management, and productivity tricks for online learning. Discover more tips and tricks
+description: Improve your MasterClass experience in Chrome. Memory-saving tips, tab
+  management, and productivity tricks for online learning. Discover more tips and
+  tricks
 date: 2026-01-15
 categories:
 - productivity

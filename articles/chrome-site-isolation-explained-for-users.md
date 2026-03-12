@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Site Isolation Explained for Users
-description: Discover what chrome site isolation explained for users means, how it protects you, and why it matters for your online security. Read our comprehensive guide to
+description: Discover what chrome site isolation explained for users means, how it
+  protects you, and why it matters for your online security. Read our comprehensive
+  guide to
 permalink: chrome-site-isolation-explained-for-users
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

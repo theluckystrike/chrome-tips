@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Profile Data Where It Is Stored
-description: Find out exactly where Chrome stores your profile data on Windows and Mac, and why it matters for your browsing experience. Learn effective tips and tricks t...
+description: Find out exactly where Chrome stores your profile data on Windows and
+  Mac, and why it matters for your browsing experience. Learn effective tips and tricks
+  t...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-profile-data-where-it-is-stored

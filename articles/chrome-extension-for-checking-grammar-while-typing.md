@@ -1,13 +1,15 @@
 ---
-title: "Chrome Extension for Checking Grammar While Typing"
-description: "Discover chrome extensions that check grammar as you type. Fix mistakes instantly and improve your writing speed without re-reading. Check out our expert recomm"
-date: "2026-03-09"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extension-for-checking-grammar-while-typing"
-layout: "post"
-categories: "[writing, tips]"
-tags: "[chrome-extensions, grammar, typing, productivity]"
-author: "theluckystrike"
+title: Chrome Extension for Checking Grammar While Typing
+description: Discover chrome extensions that check grammar as you type. Fix mistakes
+  instantly and improve your writing speed without re-reading. Check out our expert
+  recomm
+date: '2026-03-09'
+last_modified_at: '2026-03-10'
+permalink: chrome-extension-for-checking-grammar-while-typing
+layout: post
+categories: '[writing, tips]'
+tags: '[chrome-extensions, grammar, typing, productivity]'
+author: theluckystrike
 ---
 # Chrome Extension for Checking Grammar While Typing
 

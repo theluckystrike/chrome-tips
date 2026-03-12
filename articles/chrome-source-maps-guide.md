@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Source Maps Configuration Guide
-description: 'Master Chrome source maps configuration: learn about inline source maps, external source maps, webpack source maps setup, and how to debug minified JavaScrip...'
+description: 'Master Chrome source maps configuration: learn about inline source maps,
+  external source maps, webpack source maps setup, and how to debug minified JavaScrip...'
 date: 2025-03-12
 categories:
 - features

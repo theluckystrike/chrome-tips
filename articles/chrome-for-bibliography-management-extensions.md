@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Bibliography Management Extensions
-description: Find the best Chrome for bibliography management extensions to streamline your research and citation workflow. Find out more tips on how to optimize your Chr...
+description: Find the best Chrome for bibliography management extensions to streamline
+  your research and citation workflow. Find out more tips on how to optimize your
+  Chr...
 date: 2026-03-10
 categories:
 - bibliography

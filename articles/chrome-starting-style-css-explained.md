@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Starting Style CSS Explained
-description: 'Learn what starting style means in CSS and how Chrome handles these initial element styles in web pages. Read our comprehensive guide to learn more and improve '
+description: 'Learn what starting style means in CSS and how Chrome handles these
+  initial element styles in web pages. Read our comprehensive guide to learn more
+  and improve '
 permalink: chrome-starting-style-css-explained
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

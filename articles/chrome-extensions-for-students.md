@@ -1,15 +1,22 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Students 2026"
-description: "Discover the best Chrome extensions for students in 2026 to boost productivity, improve studying, manage tabs, and excel academically. Includes Grammarly, To..."
+title: Best Chrome Extensions for Students 2026
+description: Discover the best Chrome extensions for students in 2026 to boost productivity,
+  improve studying, manage tabs, and excel academically. Includes Grammarly, To...
 date: 2026-03-11
-last_modified_at: 2026-03-11
-permalink: chrome-extensions-for-students
-categories: [education, productivity]
-tags: [chrome-extensions, students, productivity, study-tools, academic, 2026]
-author: theluckystrike
 last_modified_at: '2026-03-11'
 permalink: chrome-extensions-for-students
+categories:
+- education
+- productivity
+tags:
+- chrome-extensions
+- students
+- productivity
+- study-tools
+- academic
+- 2026
+author: theluckystrike
 ---
 # Best Chrome Extensions for Students 2026
 

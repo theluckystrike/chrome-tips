@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for rosetta stone web tips
-description: Discover helpful Chrome tips for using Rosetta Stone Web. Learn browser optimization tricks to make your language learning experience smoother. Discover more
+description: Discover helpful Chrome tips for using Rosetta Stone Web. Learn browser
+  optimization tricks to make your language learning experience smoother. Discover
+  more
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-rosetta-stone-web-tips

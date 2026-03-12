@@ -1,6 +1,7 @@
 ---
 title: 'Chrome Session Storage vs Local Storage: What''s the Difference?'
-description: 'Learn the key differences between Chrome session storage and local storage to choose the right one for your web development needs. Read our comprehensive guide '
+description: 'Learn the key differences between Chrome session storage and local storage
+  to choose the right one for your web development needs. Read our comprehensive guide '
 permalink: chrome-session-storage-vs-local-storage
 date: '2026-03-11'
 last_modified_at: '2026-03-11'

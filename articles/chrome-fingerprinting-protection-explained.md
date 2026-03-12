@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "chrome fingerprinting protection explained"
-description: "Learn what fingerprinting is, why it tracks you secretly, and how to Check out these essential tools and tips to streamline your browsing workflow now."
+title: chrome fingerprinting protection explained
+description: Learn what fingerprinting is, why it tracks you secretly, and how to
+  Check out these essential tools and tips to streamline your browsing workflow now.
 date: 2026-01-20
 last_modified_at: 2026-03-11
 permalink: chrome-fingerprinting-protection-explained
-categories: 
-tags: 
+categories: null
+tags: null
 author: theluckystrike
 ---
 # Chrome Fingerprinting Protection Explained

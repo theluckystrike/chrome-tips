@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Password Manager Is It Safe Enough
-description: Wondering if Chrome's built-in password manager is secure? Here's what you need to know about its safety and how to improve it. Learn effective tips and tric...
+description: Wondering if Chrome's built-in password manager is secure? Here's what
+  you need to know about its safety and how to improve it. Learn effective tips and
+  tric...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-password-manager-is-it-safe-enough

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Resource Timing API Explained
-description: Learn how Chrome's Resource Timing API helps you measure and optimize how long web resources take to load. Read our comprehensive guide to learn more and improv
+description: Learn how Chrome's Resource Timing API helps you measure and optimize
+  how long web resources take to load. Read our comprehensive guide to learn more
+  and improv
 date: 2026-01-15
 categories:
 - performance

@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Vertical Tabs Enable 2026"
-description: "Learn how to enable Chrome vertical tabs in 2026. Step-by-step guide to activate this feature and organize your browser tabs efficiently. Read our comprehens..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-vertical-tabs-enable-2026"
-categories: "[features, productivity]"
-tags: "[vertical-tabs, tab-organization, chrome-features, chrome-2026]"
-author: "theluckystrike"
+layout: post
+title: Chrome Vertical Tabs Enable 2026
+description: Learn how to enable Chrome vertical tabs in 2026. Step-by-step guide
+  to activate this feature and organize your browser tabs efficiently. Read our comprehens...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-vertical-tabs-enable-2026
+categories: '[features, productivity]'
+tags: '[vertical-tabs, tab-organization, chrome-features, chrome-2026]'
+author: theluckystrike
 ---
 # Chrome Vertical Tabs Enable 2026
 

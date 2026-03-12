@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for SEO Keyword Research Extensions
-description: Discover Chrome extensions that help with SEO keyword research. Find the best tools to improve your search rankings. Discover more tips and tricks to optimiz
+description: Discover Chrome extensions that help with SEO keyword research. Find
+  the best tools to improve your search rankings. Discover more tips and tricks to
+  optimiz
 date: 2026-03-10
 categories:
 - seo

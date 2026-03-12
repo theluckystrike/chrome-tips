@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome surfshark extension review 2026
-description: 'A complete review of Surfshark''s Chrome extension for 2026, covering features, performance, privacy, and whether it is worth installing. Read our comprehensive '
+description: 'A complete review of Surfshark''s Chrome extension for 2026, covering
+  features, performance, privacy, and whether it is worth installing. Read our comprehensive '
 date: 2026-01-15
 categories:
 - extensions

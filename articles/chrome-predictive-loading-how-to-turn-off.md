@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Predictive Loading How to Turn Off
-description: Learn how to disable Chrome predictive loading to reduce memory usage, save data, and improve browser performance. Learn effective tips and tricks to optimiz...
+description: Learn how to disable Chrome predictive loading to reduce memory usage,
+  save data, and improve browser performance. Learn effective tips and tricks to optimiz...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-predictive-loading-how-to-turn-off
@@ -14,8 +15,6 @@ tags:
 - browser-speed
 - memory-usage
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-predictive-loading-how-to-turn-off
 ---
 # Chrome Predictive Loading How to Turn Off
 

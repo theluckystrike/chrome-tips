@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Change Chrome Font Size Permanently
-description: Learn how to permanently change the default font size in Google Chrome across all websites and the browser interface. Find out more tips on how to optimize y...
+description: Learn how to permanently change the default font size in Google Chrome
+  across all websites and the browser interface. Find out more tips on how to optimize
+  y...
 date: 2026-01-15
 categories:
 - customization

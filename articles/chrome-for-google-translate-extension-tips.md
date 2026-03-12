@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome for google translate extension tips
-description: Learn helpful tips for using Google Translate extension in Chrome. Discover how to translate web pages easily and improve your multilingual browsing experience
+description: Learn helpful tips for using Google Translate extension in Chrome. Discover
+  how to translate web pages easily and improve your multilingual browsing experience
 date: 2026-01-15
 categories:
 - extensions

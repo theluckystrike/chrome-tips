@@ -1,13 +1,15 @@
 ---
-title: "chrome extensions for one click bookmark folders"
-description: "Learn how chrome extensions for one click bookmark folders can save you time and simplify your browsing workflow instantly. Check out our expert... Learn more a"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-extensions-for-one-click-bookmark-folders"
-layout: "post"
-categories: "[extensions, productivity]"
-tags: "[bookmarks, one-click, chrome-extension, productivity, organization]"
-author: "theluckystrike"
+title: chrome extensions for one click bookmark folders
+description: Learn how chrome extensions for one click bookmark folders can save you
+  time and simplify your browsing workflow instantly. Check out our expert... Learn
+  more a
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-one-click-bookmark-folders
+layout: post
+categories: '[extensions, productivity]'
+tags: '[bookmarks, one-click, chrome-extension, productivity, organization]'
+author: theluckystrike
 ---
 # Chrome Extensions for One Click Bookmark Folders
 

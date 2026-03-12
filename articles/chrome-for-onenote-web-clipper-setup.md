@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for onenote web clipper setup
-description: Learn how to set up Chrome for OneNote Web Clipper to save articles, recipes, and web content directly to your notes. Discover more tips and tricks to optimi
+description: Learn how to set up Chrome for OneNote Web Clipper to save articles,
+  recipes, and web content directly to your notes. Discover more tips and tricks to
+  optimi
 date: 2026-01-15
 categories:
 - extensions

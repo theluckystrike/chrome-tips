@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Side Panel Extensions Worth Using
-description: Discover the most useful Chrome side panel extensions that actually improve your workflow. Practical tips and step-by-step setup guide included. Read our compre
+description: Discover the most useful Chrome side panel extensions that actually improve
+  your workflow. Practical tips and step-by-step setup guide included. Read our compre
 date: 2026-01-15
 categories:
 - extensions

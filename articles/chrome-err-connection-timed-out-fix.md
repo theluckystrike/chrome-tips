@@ -1,10 +1,12 @@
 ---
-title: "Chrome Err Connection Timed Out Fix"
-description: "Learn how to fix the Chrome err connection timed out error with simple troubleshooting steps that anyone can follow. Check out our expert recommendations and st"
-date: "2026-01-01"
-last_modified_at: "2026-03-10"
-permalink: "chrome-err-connection-timed-out-fix"
-layout: "post"
+title: Chrome Err Connection Timed Out Fix
+description: Learn how to fix the Chrome err connection timed out error with simple
+  troubleshooting steps that anyone can follow. Check out our expert recommendations
+  and st
+date: '2026-01-01'
+last_modified_at: '2026-03-10'
+permalink: chrome-err-connection-timed-out-fix
+layout: post
 ---
 If you are seeing the "chrome err connection timed out" error message when trying to load a website in Google Chrome, you are not alone. This is one of the most common errors that Chrome users encounter, and it can be frustrating when you just want to browse the web. The good news is that this error is usually fixable with some straightforward troubleshooting steps that anyone can try.
 

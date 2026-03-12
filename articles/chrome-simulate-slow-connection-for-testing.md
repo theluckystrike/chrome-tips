@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Simulate Slow Connection in Chrome for Testing
-description: Learn how to simulate slow internet connections in Chrome to test how websites perform on slower networks. Read our comprehensive guide to learn more and improv
+description: Learn how to simulate slow internet connections in Chrome to test how
+  websites perform on slower networks. Read our comprehensive guide to learn more
+  and improv
 date: 2026-01-15
 categories:
 - testing

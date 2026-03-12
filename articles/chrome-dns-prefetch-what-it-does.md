@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome Dns Prefetch What It Does"
-description: "Learn what DNS prefetching in Chrome does and how it speeds up your web browsing experience. Explore our comprehensive guide to mastering Chrome Dns Prefetc..."
+title: Chrome Dns Prefetch What It Does
+description: Learn what DNS prefetching in Chrome does and how it speeds up your web
+  browsing experience. Explore our comprehensive guide to mastering Chrome Dns Prefetc...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: chrome-dns-prefetch-what-it-does

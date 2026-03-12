@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Custom Cursor Extensions
-description: Discover the best Chrome extensions for custom cursors. Learn how to personalize your mouse cursor with fun designs and accessibility options. Find out more ...
+description: Discover the best Chrome extensions for custom cursors. Learn how to
+  personalize your mouse cursor with fun designs and accessibility options. Find out
+  more ...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-custom-cursor-extensions

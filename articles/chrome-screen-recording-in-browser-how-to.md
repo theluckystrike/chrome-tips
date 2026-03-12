@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Screen Recording in Browser How To
-description: Learn how to record your screen in Chrome browser with built-in tools and extensions. Simple steps for beginners. Read our comprehensive guide to learn more and
+description: Learn how to record your screen in Chrome browser with built-in tools
+  and extensions. Simple steps for beginners. Read our comprehensive guide to learn
+  more and
 date: 2026-01-20
 categories:
 - tutorials

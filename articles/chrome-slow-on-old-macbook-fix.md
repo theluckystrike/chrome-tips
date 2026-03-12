@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Slow on Your Old MacBook? Here's How to Fix It
-description: Speed up Chrome on older MacBooks. Practical fixes for lag, high CPU usage, and excessive memory consumption on aging Apple hardware. Read our comprehensive gui
+description: Speed up Chrome on older MacBooks. Practical fixes for lag, high CPU
+  usage, and excessive memory consumption on aging Apple hardware. Read our comprehensive
+  gui
 date: 2025-02-18
 categories:
 - performance

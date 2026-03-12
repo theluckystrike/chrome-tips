@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome for mouse gestures extensions
-description: Discover chrome for mouse gestures extensions that let you navigate faster by drawing simple shapes with your cursor. Discover more tips and tricks to optimi
+description: Discover chrome for mouse gestures extensions that let you navigate faster
+  by drawing simple shapes with your cursor. Discover more tips and tricks to optimi
 date: 2026-01-15
 categories:
 - extensions

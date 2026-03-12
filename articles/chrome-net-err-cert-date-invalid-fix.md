@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome NET ERR CERT DATE INVALID Fix
-description: Getting NET ERR CERT DATE INVALID in Chrome? Learn what causes this certificate date error and how to fix it with simple steps. Learn effective tips and tric...
+description: Getting NET ERR CERT DATE INVALID in Chrome? Learn what causes this certificate
+  date error and how to fix it with simple steps. Learn effective tips and tric...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-net-err-cert-date-invalid-fix

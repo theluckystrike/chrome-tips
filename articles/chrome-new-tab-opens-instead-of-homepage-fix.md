@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome New Tab Opens Instead of Homepage Fix
-description: Is Chrome opening a new tab instead of your homepage? Learn why this happens and how to fix it with simple steps. Learn effective tips and tricks to optimize...
+description: Is Chrome opening a new tab instead of your homepage? Learn why this
+  happens and how to fix it with simple steps. Learn effective tips and tricks to
+  optimize...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-new-tab-opens-instead-of-homepage-fix
@@ -14,8 +16,6 @@ tags:
 - browser-settings
 - chrome-settings
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-new-tab-opens-instead-of-homepage-fix
 ---
 Chrome new tab opens instead of homepage fix is something many people search for when their browser stops behaving the way they expect. You set up your homepage exactly how you want it, but every time you click the home button or open Chrome, you get a blank new tab page instead. This is annoying, especially when you want to quickly access your favorite websites. The good news is that this problem usually has a simple cause and an even simpler fix. Let me explain what is going on and how you can get Chrome behaving the way you want.
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Scroll Not Smooth Fix
-description: Is your Chrome scroll feeling rough and jerky? Learn why Chrome scroll not smooth happens and how to fix it with simple steps. Read our comprehensive guide to l
+description: Is your Chrome scroll feeling rough and jerky? Learn why Chrome scroll
+  not smooth happens and how to fix it with simple steps. Read our comprehensive guide
+  to l
 permalink: chrome-scroll-not-smooth-fix
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

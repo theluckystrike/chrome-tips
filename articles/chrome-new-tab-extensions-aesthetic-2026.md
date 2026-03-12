@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome New Tab Extensions Aesthetic 2026
-description: Discover beautiful Chrome new tab extensions that improve your browsing aesthetics and productivity in 2026. Learn effective tips and tricks to optimize your...
+description: Discover beautiful Chrome new tab extensions that improve your browsing
+  aesthetics and productivity in 2026. Learn effective tips and tricks to optimize
+  your...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-new-tab-extensions-aesthetic-2026
@@ -14,8 +16,6 @@ tags:
 - aesthetic
 - browser-customization
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-new-tab-extensions-aesthetic-2026
 ---
 # Chrome New Tab Extensions Aesthetic 2026
 

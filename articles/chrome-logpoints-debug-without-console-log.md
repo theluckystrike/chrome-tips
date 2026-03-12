@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "chrome logpoints debug without console log"
-description: "Learn how to use Chrome Logpoints to debug JavaScript without polluting your code with console.log statements. A cleaner approach to browser debugging."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-logpoints-debug-without-console-log"
-categories: [debugging, chrome-devtools, development]
-tags: [chrome, debug, logpoints, developer-tools, javascript]
-author: "theluckystrike"
+layout: post
+title: chrome logpoints debug without console log
+description: Learn how to use Chrome Logpoints to debug JavaScript without polluting
+  your code with console.log statements. A cleaner approach to browser debugging.
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-logpoints-debug-without-console-log
+categories:
+- debugging
+- chrome-devtools
+- development
+tags:
+- chrome
+- debug
+- logpoints
+- developer-tools
+- javascript
+author: theluckystrike
 ---
 # Chrome Logpoints: Debug Without console.log
 

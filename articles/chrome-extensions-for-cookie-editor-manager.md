@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Cookie Editor Manager"
-description: "Discover how Chrome Extensions For Cookie Editor Manager can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and set..."
+title: Chrome Extensions For Cookie Editor Manager
+description: Discover how Chrome Extensions For Cookie Editor Manager can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
+  set...
 date: 2026-03-10
 last_modified_at: 2026-03-11
 permalink: /articles/chrome-extensions-for-cookie-editor-manager/

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Extensions for Workona Tab Manager"
-description: "Discover Chrome extensions that enhance Workona tab manager. Learn how to reduce memory usage and boost productivity. Read our comprehensive guide to learn m..."
+title: Chrome Extensions for Workona Tab Manager
+description: Discover Chrome extensions that enhance Workona tab manager. Learn how
+  to reduce memory usage and boost productivity. Read our comprehensive guide to learn
+  m...
 date: 2026-03-10
 last_modified_at: 2026-03-09
 permalink: chrome-extensions-for-workona-tab-manager

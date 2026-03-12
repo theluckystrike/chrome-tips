@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "Chrome Iterator Helpers Explained"
-description: "Learn about Chrome's iterator helpers - powerful built-in methods that make working with arrays and iterables easier than ever. Check out our expert recommenda"
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "chrome-iterator-helpers-explained"
-categories: [chrome, javascript, extensions, development]
-tags: [chrome-extensions, javascript, iterators, programming]
-author: "theluckystrike"
+layout: post
+title: Chrome Iterator Helpers Explained
+description: Learn about Chrome's iterator helpers - powerful built-in methods that
+  make working with arrays and iterables easier than ever. Check out our expert recommenda
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-iterator-helpers-explained
+categories:
+- chrome
+- javascript
+- extensions
+- development
+tags:
+- chrome-extensions
+- javascript
+- iterators
+- programming
+author: theluckystrike
 ---
 # Chrome Iterator Helpers Explained
 

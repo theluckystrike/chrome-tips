@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Safe Browsing on Phone How to Check
-description: Learn how to check if Chrome Safe Browsing is enabled on your phone to protect yourself from dangerous websites and downloads. Read our comprehensive guide to l
+description: Learn how to check if Chrome Safe Browsing is enabled on your phone to
+  protect yourself from dangerous websites and downloads. Read our comprehensive guide
+  to l
 permalink: chrome-safe-browsing-on-phone-how-to-check
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

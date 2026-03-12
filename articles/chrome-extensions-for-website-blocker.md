@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Chrome Extensions for Website Blocker"
-description: "Discover the best Chrome extensions for website blocker tools to help you focus, protect your family, and manage distractions. Read our comprehensive guide t..."
+title: Chrome Extensions for Website Blocker
+description: Discover the best Chrome extensions for website blocker tools to help
+  you focus, protect your family, and manage distractions. Read our comprehensive
+  guide t...
 date: 2026-03-09
-last_modified_at: 2026-03-09
-permalink: chrome-extensions-for-website-blocker
-categories: [productivity]
-tags: [website-blocking, chrome-extensions, focus, parental-controls]
-author: theluckystrike
 last_modified_at: '2026-03-09'
 permalink: chrome-extensions-for-website-blocker
+categories:
+- productivity
+tags:
+- website-blocking
+- chrome-extensions
+- focus
+- parental-controls
+author: theluckystrike
 ---
 # Chrome Extensions for Website Blocker
 

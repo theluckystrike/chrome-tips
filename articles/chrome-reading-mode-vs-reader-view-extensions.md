@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Reading Mode vs Reader View Extensions
-description: Compare Chrome's built-in reading mode with popular reader view extensions. Find the best solution for distraction-free reading. Learn effective tips and tri...
+description: Compare Chrome's built-in reading mode with popular reader view extensions.
+  Find the best solution for distraction-free reading. Learn effective tips and tri...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-reading-mode-vs-reader-view-extensions
@@ -14,8 +15,6 @@ tags:
 - chrome-extensions
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-reading-mode-vs-reader-view-extensions
 ---
 # Chrome Reading Mode vs Reader View Extensions
 

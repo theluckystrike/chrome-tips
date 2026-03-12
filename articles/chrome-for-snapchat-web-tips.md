@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Snapchat Web Tips
-description: Get the most out of Snapchat in Chrome with these practical tips for better performance and a smoother desktop experience. Discover more tips and tricks to o
+description: Get the most out of Snapchat in Chrome with these practical tips for
+  better performance and a smoother desktop experience. Discover more tips and tricks
+  to o
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-snapchat-web-tips

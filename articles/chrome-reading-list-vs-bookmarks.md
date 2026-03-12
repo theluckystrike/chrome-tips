@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome reading list vs bookmarks
-description: Learn the difference between Chrome reading list vs bookmarks and discover which feature best suits your browsing needs for saving and organizing web content.
+description: Learn the difference between Chrome reading list vs bookmarks and discover
+  which feature best suits your browsing needs for saving and organizing web content.
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-reading-list-vs-bookmarks
@@ -15,8 +16,6 @@ tags:
 - browser-features
 - productivity
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-reading-list-vs-bookmarks
 ---
 # Chrome Reading List vs Bookmarks: What's the Difference and When to Use Each
 

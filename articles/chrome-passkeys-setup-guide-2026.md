@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chrome Passkeys Setup Guide 2026
-description: Learn how to set up and configure passkeys in Chrome with this comprehensive 2026 guide. Step-by-step instructions for enabling, managing, and troubleshootin...
+description: Learn how to set up and configure passkeys in Chrome with this comprehensive
+  2026 guide. Step-by-step instructions for enabling, managing, and troubleshootin...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-passkeys-setup-guide-2026
@@ -17,8 +18,6 @@ tags:
 - web-authentication
 - chrome-2026
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-passkeys-setup-guide-2026
 ---
 # Chrome Passkeys Setup Guide 2026
 

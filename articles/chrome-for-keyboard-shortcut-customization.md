@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Keyboard Shortcut Customization
-description: Learn how to customize keyboard shortcuts in Chrome for a faster, personalized browsing experience. Discover more tips and tricks to optimize your browser ex
+description: Learn how to customize keyboard shortcuts in Chrome for a faster, personalized
+  browsing experience. Discover more tips and tricks to optimize your browser ex
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-keyboard-shortcut-customization

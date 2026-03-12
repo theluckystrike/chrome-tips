@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome File Handling How to Change Default App"
-description: "Learn how to change the default app for handling files in Chrome. Simple steps to set your preferred application for opening different file types. Read our c..."
+title: Chrome File Handling How to Change Default App
+description: Learn how to change the default app for handling files in Chrome. Simple
+  steps to set your preferred application for opening different file types. Read our
+  c...
 date: 2026-03-10
 last_modified_at: 2026-03-09
 permalink: chrome-file-handling-how-to-change-default-app

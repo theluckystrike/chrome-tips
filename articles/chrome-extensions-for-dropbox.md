@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Dropbox"
-description: "Discover how Chrome Extensions For Dropbox can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings to boost..."
+title: Chrome Extensions For Dropbox
+description: Discover how Chrome Extensions For Dropbox can transform your browsing.
+  This comprehensive 2026 guide covers the best Chrome extensions and settings to
+  boost...
 date: 2026-03-12
 last_modified_at: 2026-03-09
 permalink: /articles/chrome-extensions-for-dropbox/

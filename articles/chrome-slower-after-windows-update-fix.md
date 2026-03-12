@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Slower After Windows Update Fix
-description: Is Chrome slower after a Windows update? Discover practical solutions to fix Chrome performance issues after Windows updates, especially for computers with l...
+description: Is Chrome slower after a Windows update? Discover practical solutions
+  to fix Chrome performance issues after Windows updates, especially for computers
+  with l...
 date: 2026-01-15
 categories:
 - performance

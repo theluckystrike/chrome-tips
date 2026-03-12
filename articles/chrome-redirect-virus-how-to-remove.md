@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Redirect Virus How to Remove
-description: Discover how to remove chrome redirect virus with simple steps. Fix unwanted redirects and protect your browser from malicious extensions. Read our comprehensiv
+description: Discover how to remove chrome redirect virus with simple steps. Fix unwanted
+  redirects and protect your browser from malicious extensions. Read our comprehensiv
 permalink: chrome-redirect-virus-how-to-remove
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome for gmail productivity extensions
-description: Boost your Gmail efficiency with the best Chrome extensions for productivity. Discover tools to manage emails faster and work smarter. Discover more tips and
+description: Boost your Gmail efficiency with the best Chrome extensions for productivity.
+  Discover tools to manage emails faster and work smarter. Discover more tips and
 date: 2026-01-15
 categories:
 - extensions

@@ -1,13 +1,14 @@
 ---
-layout: "default"
-title: "Chrome Translate Not Working? Here's How to Fix It"
-description: "Fix Chrome's built-in translation feature when it stops working. Troubleshoot missing translate bar, incorrect translations, and language detection issues."
-date: "2025-03-14"
-last_modified_at: "2026-03-10"
-permalink: "chrome-translate-not-working-fix"
-categories: "[troubleshooting, features]"
-tags: "[chrome-translate, translation-fix, language-settings, google-translate]"
-author: "theluckystrike"
+layout: default
+title: Chrome Translate Not Working? Here's How to Fix It
+description: Fix Chrome's built-in translation feature when it stops working. Troubleshoot
+  missing translate bar, incorrect translations, and language detection issues.
+date: '2025-03-14'
+last_modified_at: '2026-03-10'
+permalink: chrome-translate-not-working-fix
+categories: '[troubleshooting, features]'
+tags: '[chrome-translate, translation-fix, language-settings, google-translate]'
+author: theluckystrike
 ---
 # Chrome Translate Not Working? Here's How to Fix It
 

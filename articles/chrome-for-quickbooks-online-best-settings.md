@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for QuickBooks Online Best Settings
-description: Optimize Chrome for QuickBooks Online with these proven settings that improve speed, reduce lag, and make your accounting work smoother. Discover more tips a
+description: Optimize Chrome for QuickBooks Online with these proven settings that
+  improve speed, reduce lag, and make your accounting work smoother. Discover more
+  tips a
 date: 2026-01-15
 categories:
 - productivity

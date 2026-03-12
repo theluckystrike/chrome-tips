@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Password Manager on Phone vs Dedicated App
-description: Comparing Chrome's built-in password manager with dedicated apps. Learn which option works better for securing your passwords on mobile. Learn effective tips...
+description: Comparing Chrome's built-in password manager with dedicated apps. Learn
+  which option works better for securing your passwords on mobile. Learn effective
+  tips...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-password-manager-on-phone-vs-dedicated-app

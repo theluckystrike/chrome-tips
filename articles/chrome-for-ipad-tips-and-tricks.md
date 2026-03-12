@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for iPad Tips and Tricks
-description: Master Chrome on your iPad with these hidden tips, speed tricks, and productivity features for the best browsing experience. Discover more tips and tricks to
+description: Master Chrome on your iPad with these hidden tips, speed tricks, and
+  productivity features for the best browsing experience. Discover more tips and tricks
+  to
 date: 2025-03-16
 categories:
 - mobile

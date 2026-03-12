@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome search by image right click how to
-description: Learn how to search by image using right click in Chrome. Find similar images, identify products, and discover image sources easily. Read our comprehensive guid
+description: Learn how to search by image using right click in Chrome. Find similar
+  images, identify products, and discover image sources easily. Read our comprehensive
+  guid
 date: 2026-03-10
 categories:
 - features

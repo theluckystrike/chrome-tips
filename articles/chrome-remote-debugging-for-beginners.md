@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Remote Debugging for Beginners
-description: Learn what chrome remote debugging is and how it helps developers fix issues on remote devices. A simple guide for beginners. Read our comprehensive guide to le
+description: Learn what chrome remote debugging is and how it helps developers fix
+  issues on remote devices. A simple guide for beginners. Read our comprehensive guide
+  to le
 date: 2026-01-15
 categories:
 - web-development

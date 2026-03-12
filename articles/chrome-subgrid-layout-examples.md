@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 'Chrome Subgrid Layout Examples: A Complete Guide'
-description: Explore practical Chrome subgrid layout examples that demonstrate how to create nested grids, align nested elements, and build complex web layouts with CSS s...
+description: Explore practical Chrome subgrid layout examples that demonstrate how
+  to create nested grids, align nested elements, and build complex web layouts with
+  CSS s...
 permalink: chrome-subgrid-layout-examples
 date: '2026-03-11'
 last_modified_at: '2026-03-11'

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome net err cert common name invalid fix
-description: Struggling with the chrome net err cert common name invalid error? Learn what causes this SSL certificate error and how to fix it easily. Learn effective tip...
+description: Struggling with the chrome net err cert common name invalid error? Learn
+  what causes this SSL certificate error and how to fix it easily. Learn effective
+  tip...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-net-err-cert-common-name-invalid-fix
@@ -15,8 +17,6 @@ tags:
 - error-fix
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-net-err-cert-common-name-invalid-fix
 ---
 # Chrome Net Err Cert Common Name Invalid Fix
 

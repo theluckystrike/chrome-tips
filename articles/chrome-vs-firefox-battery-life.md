@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Chrome vs Firefox Battery Life: Which Browser Saves More Power"
-description: "Compare Chrome vs Firefox battery life to find which browser uses less Read our comprehensive guide to learn more and optimize your browser experience with t..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-vs-firefox-battery-life"
-categories: ""
-tags: ""
-author: "theluckystrike"
+layout: post
+title: 'Chrome vs Firefox Battery Life: Which Browser Saves More Power'
+description: Compare Chrome vs Firefox battery life to find which browser uses less
+  Read our comprehensive guide to learn more and optimize your browser experience
+  with t...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-vs-firefox-battery-life
+categories: ''
+tags: ''
+author: theluckystrike
 ---
 # Chrome vs Firefox Battery Life: Which Browser Saves More Power
 

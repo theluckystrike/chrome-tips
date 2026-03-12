@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "Chrome User Agent String: What It Is and How It Works"
-description: "Learn what a Chrome user agent string is, what information it contains, and why it matters for your browsing experience. Read our comprehensive guide to lear..."
-date: "2026-01-01"
-last_modified_at: "2026-03-10"
-permalink: "chrome-user-agent-string-what-it-is"
+layout: post
+title: 'Chrome User Agent String: What It Is and How It Works'
+description: Learn what a Chrome user agent string is, what information it contains,
+  and why it matters for your browsing experience. Read our comprehensive guide to
+  lear...
+date: '2026-01-01'
+last_modified_at: '2026-03-10'
+permalink: chrome-user-agent-string-what-it-is
 ---
 If you have ever searched for "chrome user agent string what it is," you might have encountered some technical explanations that were hard to follow. Let me break down what this term means in plain English and why it matters for your everyday browsing.
 

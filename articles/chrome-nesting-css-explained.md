@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Nesting CSS Explained
-description: Learn what CSS nesting is in Chrome, why it matters for web browsing, and how to fix common issues. Learn effective tips and tricks to optimize your Chrome b...
+description: Learn what CSS nesting is in Chrome, why it matters for web browsing,
+  and how to fix common issues. Learn effective tips and tricks to optimize your Chrome
+  b...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-nesting-css-explained

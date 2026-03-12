@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "How to Download All Images from a Web Page in Chrome"
-description: "Learn how to download every image from a webpage using Chrome. Simple methods to save multiple images at once. Explore our comprehensive guide to mastering ..."
+title: How to Download All Images from a Web Page in Chrome
+description: Learn how to download every image from a webpage using Chrome. Simple
+  methods to save multiple images at once. Explore our comprehensive guide to mastering
+  ...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-download-all-images-from-page-how-to

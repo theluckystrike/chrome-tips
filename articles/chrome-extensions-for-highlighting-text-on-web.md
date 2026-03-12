@@ -1,13 +1,14 @@
 ---
-title: "Chrome Extensions for Highlighting Text on Web"
-description: "Learn how Chrome extensions for highlighting text on web can help you Check out our expert recommendations and tips to enhance your browsing experience..."
-date: "2026-03-09"
-last_modified_at: "2026-03-11"
-permalink: "chrome-extensions-for-highlighting-text-on-web"
-layout: "post"
-categories: ""
-tags: ""
-author: "theluckystrike"
+title: Chrome Extensions for Highlighting Text on Web
+description: Learn how Chrome extensions for highlighting text on web can help you
+  Check out our expert recommendations and tips to enhance your browsing experience...
+date: '2026-03-09'
+last_modified_at: '2026-03-11'
+permalink: chrome-extensions-for-highlighting-text-on-web
+layout: post
+categories: ''
+tags: ''
+author: theluckystrike
 ---
 # Chrome Extensions for Highlighting Text on Web
 

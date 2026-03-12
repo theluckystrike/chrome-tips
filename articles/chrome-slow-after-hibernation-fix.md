@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Slow After Hibernation Fix
-description: 'Chrome running slow after hibernation? Learn why it happens and how to get your browser fast again. Read our comprehensive guide to learn more and improve your '
+description: 'Chrome running slow after hibernation? Learn why it happens and how
+  to get your browser fast again. Read our comprehensive guide to learn more and improve
+  your '
 permalink: chrome-slow-after-hibernation-fix
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

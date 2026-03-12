@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Shared Storage and Cross-Site Data Explained
-description: Understand how Chrome's Shared Storage API enables cross-site data sharing while protecting user privacy. Learn the mechanics and privacy implications.
+description: Understand how Chrome's Shared Storage API enables cross-site data sharing
+  while protecting user privacy. Learn the mechanics and privacy implications.
 date: 2026-01-15
 categories:
 - privacy

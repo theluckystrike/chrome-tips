@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Extensions for Table Data Extractor"
-description: "Need to pull data from tables on websites? Learn which Chrome extensions help extract table data quickly and easily. Read our comprehensive guide to learn mo..."
+title: Chrome Extensions for Table Data Extractor
+description: Need to pull data from tables on websites? Learn which Chrome extensions
+  help extract table data quickly and easily. Read our comprehensive guide to learn
+  mo...
 date: 2026-03-10
 last_modified_at: 2026-03-09
 permalink: chrome-extensions-for-table-data-extractor

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome offline mode how to browse without internet
-description: Learn how to browse in Chrome offline mode without internet. Simple tips and tricks to keep browsing even when your connection drops. Learn effective tips an...
+description: Learn how to browse in Chrome offline mode without internet. Simple tips
+  and tricks to keep browsing even when your connection drops. Learn effective tips
+  an...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-offline-mode-how-to-browse-without-internet
@@ -15,8 +17,6 @@ tags:
 - no-internet
 - browsing
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-offline-mode-how-to-browse-without-internet
 ---
 # Chrome Offline Mode How to Browse Without Internet
 

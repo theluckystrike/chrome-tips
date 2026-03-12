@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Select All Tabs Shortcut
-description: Learn how to select and manage all tabs at once in Chrome using built-in shortcuts and simple workarounds for better tab organization. Read our comprehensive gu
+description: Learn how to select and manage all tabs at once in Chrome using built-in
+  shortcuts and simple workarounds for better tab organization. Read our comprehensive
+  gu
 date: 2025-03-09
 categories:
 - productivity

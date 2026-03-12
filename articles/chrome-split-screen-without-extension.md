@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Split Screen Without Extension
-description: Learn how to use split screen in Chrome without installing extensions. Easy built-in methods for side by side viewing. Read our comprehensive guide to learn mor
+description: Learn how to use split screen in Chrome without installing extensions.
+  Easy built-in methods for side by side viewing. Read our comprehensive guide to
+  learn mor
 date: 2025-03-10
 categories:
 - features

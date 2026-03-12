@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Site Settings Permissions Explained
-description: Learn how to manage Chrome site settings and permissions to control what websites can access on your browser. Read our comprehensive guide to learn more and imp
+description: Learn how to manage Chrome site settings and permissions to control what
+  websites can access on your browser. Read our comprehensive guide to learn more
+  and imp
 permalink: chrome-site-settings-permissions-explained
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

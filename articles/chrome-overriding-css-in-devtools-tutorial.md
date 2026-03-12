@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Overriding CSS in DevTools: A Practical Tutorial'
-description: Learn how to override CSS in Chrome DevTools to test style changes instantly. This step-by-step guide covers quick edits, permanent changes, and real-world d...
+description: Learn how to override CSS in Chrome DevTools to test style changes instantly.
+  This step-by-step guide covers quick edits, permanent changes, and real-world d...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-overriding-css-in-devtools-tutorial
@@ -17,8 +18,6 @@ tags:
 - browser-tools
 - debugging
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-overriding-css-in-devtools-tutorial
 ---
 # Chrome Overriding CSS in DevTools: A Practical Tutorial
 

@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "chrome web bluetooth how to use"
-description: "Learn how to use Web Bluetooth in Chrome to connect your browser to wireless devices. A step-by-step guide for connecting Bluetooth gadgets through Chrome."
-date: "2026-03-09"
-last_modified_at: "2026-03-09"
-permalink: "chrome-web-bluetooth-how-to-use"
-categories: "[features, connectivity]"
-tags: "[bluetooth, web-bluetooth, chrome-features, wireless]"
-author: "theluckystrike"
+layout: post
+title: chrome web bluetooth how to use
+description: Learn how to use Web Bluetooth in Chrome to connect your browser to wireless
+  devices. A step-by-step guide for connecting Bluetooth gadgets through Chrome.
+date: '2026-03-09'
+last_modified_at: '2026-03-09'
+permalink: chrome-web-bluetooth-how-to-use
+categories: '[features, connectivity]'
+tags: '[bluetooth, web-bluetooth, chrome-features, wireless]'
+author: theluckystrike
 ---
 # Chrome Web Bluetooth How to Use
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for metamask setup and tips
-description: 'Learn how to set up and use MetaMask with Chrome. Get practical tips to enhance your crypto wallet experience and stay secure. Discover more tips and tricks '
+description: 'Learn how to set up and use MetaMask with Chrome. Get practical tips
+  to enhance your crypto wallet experience and stay secure. Discover more tips and
+  tricks '
 date: 2026-01-15
 categories:
 - cryptocurrency

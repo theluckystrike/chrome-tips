@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Speculation Rules Prefetch: A Complete Guide'
-description: Learn how Chrome speculation rules prefetch works, how to implement it, and why it can significantly speed up your web browsing experience. Read our comprehensi
+description: Learn how Chrome speculation rules prefetch works, how to implement it,
+  and why it can significantly speed up your web browsing experience. Read our comprehensi
 date: 2026-01-15
 categories:
 - performance

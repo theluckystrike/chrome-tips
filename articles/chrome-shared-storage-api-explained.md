@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Shared Storage API Explained
-description: 'Learn what Chrome''s Shared Storage API is, why it was created, and how it affects your browsing privacy. Read our comprehensive guide to learn more and improve '
+description: 'Learn what Chrome''s Shared Storage API is, why it was created, and
+  how it affects your browsing privacy. Read our comprehensive guide to learn more
+  and improve '
 date: 2026-01-15
 categories:
 - privacy

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome prefetch and preconnect explained
-description: Learn what chrome prefetch and preconnect do, how they speed up your browsing, and how to manage these features for faster page loads. Learn effective tips a...
+description: Learn what chrome prefetch and preconnect do, how they speed up your
+  browsing, and how to manage these features for faster page loads. Learn effective
+  tips a...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-prefetch-and-preconnect-explained

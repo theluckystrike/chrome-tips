@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Status Code 404 Not Found Explained
-description: Learn what a 404 error means in Chrome, why it happens, and how to fix it with simple steps. Read our comprehensive guide to learn more and improve your browsin
+description: Learn what a 404 error means in Chrome, why it happens, and how to fix
+  it with simple steps. Read our comprehensive guide to learn more and improve your
+  browsin
 permalink: chrome-status-code-404-not-found-explained
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

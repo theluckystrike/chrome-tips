@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Chrome Fetch API Complete Guide"
-description: "Learn how the Chrome Fetch API works, its features, and how to use it Check out these essential tools and tips to streamline your browsing workflow now."
+title: Chrome Fetch API Complete Guide
+description: Learn how the Chrome Fetch API works, its features, and how to use it
+  Check out these essential tools and tips to streamline your browsing workflow now.
 date: 2025-03-10
 last_modified_at: 2026-03-11
 permalink: chrome-fetch-api-complete-guide
-categories: 
-tags: 
+categories: null
+tags: null
 author: theluckystrike
 ---
 # Chrome Fetch API Complete Guide

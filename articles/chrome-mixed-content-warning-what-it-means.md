@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Mixed Content Warning What It Means
-description: See what a Chrome mixed content warning means, why it appears, and how to handle it for safer browsing. Learn effective tips and tricks to optimize your Chro...
+description: See what a Chrome mixed content warning means, why it appears, and how
+  to handle it for safer browsing. Learn effective tips and tricks to optimize your
+  Chro...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-mixed-content-warning-what-it-means

@@ -1,13 +1,14 @@
 ---
-title: "Chrome Experiments Page Best Flags to Enable: Complete Guide"
-description: "Learn how to access the Chrome experiments page and enable the best flags for improved performance, better privacy, and enhanced productivity in your browser."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "chrome-experiments-page-best-flags-enable"
-layout: "post"
-categories: "[tips, chrome-flags]"
-tags: "[chrome-experiments, chrome-flags, browser-tips, chrome-settings, chrome-tips]"
-author: "theluckystrike"
+title: 'Chrome Experiments Page Best Flags to Enable: Complete Guide'
+description: Learn how to access the Chrome experiments page and enable the best flags
+  for improved performance, better privacy, and enhanced productivity in your browser.
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: chrome-experiments-page-best-flags-enable
+layout: post
+categories: '[tips, chrome-flags]'
+tags: '[chrome-experiments, chrome-flags, browser-tips, chrome-settings, chrome-tips]'
+author: theluckystrike
 ---
 # Chrome Experiments Page Best Flags to Enable: Complete Guide
 

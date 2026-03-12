@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab"
-description: "Learn the keyboard shortcut to duplicate tabs in Chrome instantly. Plus discover how to manage multiple tab clones efficiently without slowing down your brow..."
+title: 'Chrome Duplicate Tab Shortcut Trick: The Fast Way to Clone Any Tab'
+description: Learn the keyboard shortcut to duplicate tabs in Chrome instantly. Plus
+  discover how to manage multiple tab clones efficiently without slowing down your
+  brow...
 date: 2026-01-15
 last_modified_at: 2026-03-11
 permalink: chrome-duplicate-tab-shortcut-trick

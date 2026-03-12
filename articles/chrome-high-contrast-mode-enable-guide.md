@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome high contrast mode enable guide
-description: A comprehensive step-by-step guide to enabling high contrast mode in Google Chrome. Improve visibility and accessibility with this detailed tutorial.
+description: A comprehensive step-by-step guide to enabling high contrast mode in
+  Google Chrome. Improve visibility and accessibility with this detailed tutorial.
 date: 2026-03-12
 categories:
 - features
@@ -17,7 +18,6 @@ author: theluckystrike
 last_modified_at: '2026-03-12'
 permalink: /chrome-high-contrast-mode-enable-guide/
 ---
-
 # Chrome High Contrast Mode Enable Guide: A Complete Tutorial
 
 Have you ever struggled to read text on websites or found yourself squinting at your Chrome browser? Whether you have visual impairments, light sensitivity, or simply prefer a more defined visual appearance, enabling high contrast mode in Chrome can dramatically improve your browsing experience. This comprehensive guide will walk you through every step of activating chrome high contrast mode enable features, helping you create a more accessible and comfortable viewing environment.

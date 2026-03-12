@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Popover API Explained
-description: The Chrome Popover API makes showing popovers easier than ever. Learn how it works and what it means for your browsing experience. Learn effective tips and t...
+description: The Chrome Popover API makes showing popovers easier than ever. Learn
+  how it works and what it means for your browsing experience. Learn effective tips
+  and t...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-popover-api-explained

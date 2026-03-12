@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Omnibox Search Tricks
-description: Learn powerful Chrome omnibox search tricks to browse faster. Discover hidden features that turn your address bar into a productivity tool. Discover more tip
+description: Learn powerful Chrome omnibox search tricks to browse faster. Discover
+  hidden features that turn your address bar into a productivity tool. Discover more
+  tip
 date: 2025-02-20
 categories:
 - productivity

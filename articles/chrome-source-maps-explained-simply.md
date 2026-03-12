@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Source Maps Explained Simply
-description: 'Learn what source maps are in Chrome, why websites use them, and how they make debugging easier for developers and users. Read our comprehensive guide to learn '
+description: 'Learn what source maps are in Chrome, why websites use them, and how
+  they make debugging easier for developers and users. Read our comprehensive guide
+  to learn '
 date: 2025-03-12
 categories:
 - features

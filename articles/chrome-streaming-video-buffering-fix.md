@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Streaming Video Buffering Fix
-description: Struggling with video buffering in Chrome? Try these practical solutions to enjoy smoother streaming without interruptions. Read our comprehensive guide to lear
+description: Struggling with video buffering in Chrome? Try these practical solutions
+  to enjoy smoother streaming without interruptions. Read our comprehensive guide
+  to lear
 date: 2026-01-15
 categories:
 - performance

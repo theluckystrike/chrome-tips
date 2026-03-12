@@ -1,6 +1,7 @@
 ---
-title: "Chrome Extensions For Comparing Prices Across Stores"
-description: "Discover how Chrome Extensions For Comparing Prices Across Stores can transform your browsing. This comprehensive 2026 guide covers the best Chrome extension..."
+title: Chrome Extensions For Comparing Prices Across Stores
+description: Discover how Chrome Extensions For Comparing Prices Across Stores can
+  transform your browsing. This comprehensive 2026 guide covers the best Chrome extension...
 date: 2026-01-15
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-comparing-prices-across-stores/

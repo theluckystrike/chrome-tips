@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Simulate Slow Connection in Chrome
-description: Learn how to simulate slow network connections in Chrome to test your website performance on different network conditions. Learn effective tips and tricks to...
+description: Learn how to simulate slow network connections in Chrome to test your
+  website performance on different network conditions. Learn effective tips and tricks
+  to...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-network-throttling-how-to-simulate-slow-connection
@@ -15,8 +17,6 @@ tags:
 - network-simulation
 - chrome-developer-tools
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-network-throttling-how-to-simulate-slow-connection
 ---
 # How to Simulate Slow Connection in Chrome
 

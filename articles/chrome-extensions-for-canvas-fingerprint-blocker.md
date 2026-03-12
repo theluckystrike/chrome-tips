@@ -1,6 +1,7 @@
 ---
-title: "Chrome Extensions For Canvas Fingerprint Blocker"
-description: "Discover how Chrome Extensions For Canvas Fingerprint Blocker can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions an..."
+title: Chrome Extensions For Canvas Fingerprint Blocker
+description: Discover how Chrome Extensions For Canvas Fingerprint Blocker can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions an...
 date: 2026-01-15
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-canvas-fingerprint-blocker/

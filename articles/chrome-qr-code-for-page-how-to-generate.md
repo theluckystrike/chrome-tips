@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome QR Code for Page How to Generate
-description: Learn how to generate a QR code for any webpage in Chrome. Easy methods using extensions and built-in tools. Learn effective tips and tricks to optimize your...
+description: Learn how to generate a QR code for any webpage in Chrome. Easy methods
+  using extensions and built-in tools. Learn effective tips and tricks to optimize
+  your...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-qr-code-for-page-how-to-generate

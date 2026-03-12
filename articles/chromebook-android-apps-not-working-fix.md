@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chromebook Android Apps Not Working Fix"
-description: "Android apps not working on your Chromebook? Try these practical fixes to get your apps running again. Read our comprehensive guide to learn more and optimiz..."
-date: "2026-01-20"
-last_modified_at: "2026-03-10"
-permalink: "chromebook-android-apps-not-working-fix"
-categories: "[chromebook, android, troubleshooting]"
-tags: "[chromebook-android, android-apps, chromebook-fix, app-issues]"
-author: "theluckystrike"
+layout: post
+title: Chromebook Android Apps Not Working Fix
+description: Android apps not working on your Chromebook? Try these practical fixes
+  to get your apps running again. Read our comprehensive guide to learn more and optimiz...
+date: '2026-01-20'
+last_modified_at: '2026-03-10'
+permalink: chromebook-android-apps-not-working-fix
+categories: '[chromebook, android, troubleshooting]'
+tags: '[chromebook-android, android-apps, chromebook-fix, app-issues]'
+author: theluckystrike
 ---
 # Chromebook Android Apps Not Working Fix
 

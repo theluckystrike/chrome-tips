@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Email Templates"
-description: "Discover how Chrome Extensions For Email Templates can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings ..."
+title: Chrome Extensions For Email Templates
+description: Discover how Chrome Extensions For Email Templates can transform your
+  browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings
+  ...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-email-templates/

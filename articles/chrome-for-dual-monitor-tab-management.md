@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome for dual monitor tab management
-description: Learn how to manage tabs across dual monitors in Chrome. Discover extensions and built-in features that make working with multiple displays effortless.
+description: Learn how to manage tabs across dual monitors in Chrome. Discover extensions
+  and built-in features that make working with multiple displays effortless.
 date: 2026-01-15
 categories:
 - extensions

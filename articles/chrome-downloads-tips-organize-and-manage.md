@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome Downloads Tips Organize and Manage"
-description: "Learn practical tips to organize and manage your Chrome downloads efficiently. Explore our comprehensive guide to mastering Chrome Downloads Tips Organize a..."
+title: Chrome Downloads Tips Organize and Manage
+description: Learn practical tips to organize and manage your Chrome downloads efficiently.
+  Explore our comprehensive guide to mastering Chrome Downloads Tips Organize a...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-downloads-tips-organize-and-manage

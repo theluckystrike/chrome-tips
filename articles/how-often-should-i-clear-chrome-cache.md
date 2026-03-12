@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "How Often Should I Clear Chrome Cache"
-description: "Wondering how often should i clear chrome cache? This guide explains when and how to clear cache for optimal Chrome performance. Read our comprehensive guide..."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "how-often-should-i-clear-chrome-cache"
-categories: "[performance, troubleshooting]"
-tags: "[chrome-cache, browser-cache, chrome-performance, cache-cleaning]"
-author: "theluckystrike"
+layout: post
+title: How Often Should I Clear Chrome Cache
+description: Wondering how often should i clear chrome cache? This guide explains
+  when and how to clear cache for optimal Chrome performance. Read our comprehensive
+  guide...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: how-often-should-i-clear-chrome-cache
+categories: '[performance, troubleshooting]'
+tags: '[chrome-cache, browser-cache, chrome-performance, cache-cleaning]'
+author: theluckystrike
 ---
 # How Often Should I Clear Chrome Cache
 

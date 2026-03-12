@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Nesting CSS Native Support
-description: Discover how Chrome's native CSS nesting support works, which versions enable it, and why it matters for modern web development and browsing. Learn effective...
+description: Discover how Chrome's native CSS nesting support works, which versions
+  enable it, and why it matters for modern web development and browsing. Learn effective...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-nesting-css-native-support

@@ -1,13 +1,22 @@
 ---
-layout: "post"
-title: "chrome for twitch streaming setup in browser"
-description: "Learn how to set up Chrome for Twitch streaming directly in your browser. Optimize performance, manage tabs, and enhance your streaming experience. Check out o"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-for-twitch-streaming-setup-in-browser"
-categories: [streaming, browser, twitch]
-tags: [chrome, twitch, streaming, browser-streaming]
-author: "theluckystrike"
+layout: post
+title: chrome for twitch streaming setup in browser
+description: Learn how to set up Chrome for Twitch streaming directly in your browser.
+  Optimize performance, manage tabs, and enhance your streaming experience. Check
+  out o
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-for-twitch-streaming-setup-in-browser
+categories:
+- streaming
+- browser
+- twitch
+tags:
+- chrome
+- twitch
+- streaming
+- browser-streaming
+author: theluckystrike
 ---
 # Chrome for Twitch Streaming Setup in Browser
 

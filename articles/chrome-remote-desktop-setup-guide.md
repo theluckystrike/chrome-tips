@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Remote Desktop Setup Guide
-description: A complete step-by-step guide to setting up Chrome Remote Desktop. Learn how to configure remote access between computers for free. Read our comprehensive guide
+description: A complete step-by-step guide to setting up Chrome Remote Desktop. Learn
+  how to configure remote access between computers for free. Read our comprehensive
+  guide
 date: 2026-01-15
 categories:
 - remote-access

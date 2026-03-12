@@ -1,13 +1,14 @@
 ---
-layout: "default"
-title: "How to Clear Chrome Cache Fast"
-description: "Learn the fastest ways to clear Chrome cache for a specific site or entirely. Includes keyboard shortcuts, settings methods, and DevTools techniques. Read ou..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "how-to-clear-chrome-cache-fast"
-categories: "[chrome, tutorials, performance]"
-tags: "[chrome, cache, browser-cache, chrome-settings, chrome-shortcuts]"
-author: "theluckystrike"
+layout: default
+title: How to Clear Chrome Cache Fast
+description: Learn the fastest ways to clear Chrome cache for a specific site or entirely.
+  Includes keyboard shortcuts, settings methods, and DevTools techniques. Read ou...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: how-to-clear-chrome-cache-fast
+categories: '[chrome, tutorials, performance]'
+tags: '[chrome, cache, browser-cache, chrome-settings, chrome-shortcuts]'
+author: theluckystrike
 ---
 # How to Clear Chrome Cache Fast
 

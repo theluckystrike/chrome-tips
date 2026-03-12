@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Dailymotion Web Player
-description: Learn how to improve your Dailymotion viewing experience with Chrome browser settings and extensions. Find out more tips on how to optimize your Chrome brows...
+description: Learn how to improve your Dailymotion viewing experience with Chrome
+  browser settings and extensions. Find out more tips on how to optimize your Chrome
+  brows...
 date: 2026-01-15
 categories:
 - browsers

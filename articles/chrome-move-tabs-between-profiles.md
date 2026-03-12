@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Move Tabs Between Profiles
-description: Learn how to move tabs between Chrome profiles with simple step-by-step methods. Transfer tabs quickly between work and personal profiles. Learn effective ti...
+description: Learn how to move tabs between Chrome profiles with simple step-by-step
+  methods. Transfer tabs quickly between work and personal profiles. Learn effective
+  ti...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-move-tabs-between-profiles

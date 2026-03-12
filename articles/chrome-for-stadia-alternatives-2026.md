@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Stadia Alternatives 2026
-description: 'Looking for Chrome for Stadia alternatives in 2026? Here are the best cloud gaming options that work great in your browser. Discover more tips and tricks to '
+description: 'Looking for Chrome for Stadia alternatives in 2026? Here are the best
+  cloud gaming options that work great in your browser. Discover more tips and tricks
+  to '
 date: 2026-03-10
 categories:
 - gaming

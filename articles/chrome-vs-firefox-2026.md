@@ -1,13 +1,15 @@
 ---
-layout: "default"
-title: "Chrome vs Firefox 2026 Comparison"
-description: "A comprehensive Chrome vs Firefox 2026 comparison covering performance, privacy, extensions, customization, and sync features to help you choose the best bro..."
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "chrome-vs-firefox-2026"
-categories: "[browsers, comparison, technology]"
-tags: "[chrome, firefox, browser-comparison, 2026, privacy, performance]"
-author: "theluckystrike"
+layout: default
+title: Chrome vs Firefox 2026 Comparison
+description: A comprehensive Chrome vs Firefox 2026 comparison covering performance,
+  privacy, extensions, customization, and sync features to help you choose the best
+  bro...
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-vs-firefox-2026
+categories: '[browsers, comparison, technology]'
+tags: '[chrome, firefox, browser-comparison, 2026, privacy, performance]'
+author: theluckystrike
 ---
 # Chrome vs Firefox 2026 Comparison
 

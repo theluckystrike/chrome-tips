@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Permissions Policy Header Explained
-description: Learn how the Permissions-Policy HTTP header works in Chrome and how to control browser features on your website. Learn effective tips and tricks to optimize...
+description: Learn how the Permissions-Policy HTTP header works in Chrome and how
+  to control browser features on your website. Learn effective tips and tricks to
+  optimize...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-permissions-policy-header-explained
@@ -16,8 +18,6 @@ tags:
 - security
 - web-development
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-permissions-policy-header-explained
 ---
 # Chrome Permissions Policy Header Explained
 

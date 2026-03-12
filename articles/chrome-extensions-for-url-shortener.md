@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for URL Shortener"
-description: "Looking for chrome extensions for url shortener? Find the best tools to create short, clean links easily. Read our comprehensive guide to learn more and boos..."
+title: Chrome Extensions for URL Shortener
+description: Looking for chrome extensions for url shortener? Find the best tools
+  to create short, clean links easily. Read our comprehensive guide to learn more
+  and boos...
 date: 2026-03-09
-last_modified_at: 2026-03-10
-permalink: chrome-extensions-for-url-shortener
-categories: [productivity, tools]
-tags: [chrome-extensions, url-shortener, link-management, productivity]
-author: theluckystrike
 last_modified_at: '2026-03-10'
 permalink: chrome-extensions-for-url-shortener
+categories:
+- productivity
+- tools
+tags:
+- chrome-extensions
+- url-shortener
+- link-management
+- productivity
+author: theluckystrike
 ---
 If you have been searching for chrome extensions for url shortener tools, you probably know the frustration. Long, messy URLs clutter your messages, social media posts, and emails. They are hard to read, prone to breaking across text messages, and often contain tracking parameters that feel invasive. This is a common problem for anyone who shares links regularly, whether you are a social media manager, content creator, or just someone who likes to share articles with friends.
 

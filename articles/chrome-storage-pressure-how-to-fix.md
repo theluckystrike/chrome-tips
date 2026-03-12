@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Storage Pressure How to Fix
-description: 'Running out of storage in Chrome? Learn why Chrome storage pressure happens and how to fix it with simple steps. Read our comprehensive guide to learn more and '
+description: 'Running out of storage in Chrome? Learn why Chrome storage pressure
+  happens and how to fix it with simple steps. Read our comprehensive guide to learn
+  more and '
 permalink: chrome-storage-pressure-how-to-fix
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

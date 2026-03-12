@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 'Chrome Slow After Update Fix: Complete Troubleshooting Guide'
-description: Is Chrome slow after update? Learn proven fixes to restore your browser's speed, including extensions, settings adjustments, and maintenance tips. Read our comp
+description: Is Chrome slow after update? Learn proven fixes to restore your browser's
+  speed, including extensions, settings adjustments, and maintenance tips. Read our
+  comp
 date: 2026-01-15
 categories:
 - performance

@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "YouTube Buffering on Chrome But Not Firefox: Why and How to Fix It"
-description: "Is YouTube buffering on Chrome but playing smoothly in Firefox? This guide explains why this happens and provides practical solutions for computers with limi..."
-date: "2026-01-15"
-last_modified_at: "2026-03-11"
-permalink: "youtube-buffering-on-chrome-but-not-firefox"
-categories: "[performance, troubleshooting]"
-tags: "[youtube, buffering, chrome, firefox, slow-computer, low-ram]"
-author: "theluckystrike"
+layout: post
+title: 'YouTube Buffering on Chrome But Not Firefox: Why and How to Fix It'
+description: Is YouTube buffering on Chrome but playing smoothly in Firefox? This
+  guide explains why this happens and provides practical solutions for computers with
+  limi...
+date: '2026-01-15'
+last_modified_at: '2026-03-11'
+permalink: youtube-buffering-on-chrome-but-not-firefox
+categories: '[performance, troubleshooting]'
+tags: '[youtube, buffering, chrome, firefox, slow-computer, low-ram]'
+author: theluckystrike
 ---
 # YouTube Buffering on Chrome But Not Firefox: Why and How to Fix It
 

@@ -1,6 +1,8 @@
 ---
 title: Chrome Site Keeps Asking for Notifications? Here's How to Stop It
-description: Tired of websites constantly asking for permission to send notifications? Learn practical solutions to stop notification requests in Chrome for good. Read our c
+description: Tired of websites constantly asking for permission to send notifications?
+  Learn practical solutions to stop notification requests in Chrome for good. Read
+  our c
 permalink: chrome-site-keeps-asking-for-notifications-stop
 date: '2026-03-11'
 last_modified_at: '2026-03-11'

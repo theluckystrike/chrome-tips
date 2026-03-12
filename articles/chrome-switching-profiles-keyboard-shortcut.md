@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Switching Profiles Keyboard Shortcut
-description: Discover the fastest ways to switch between Chrome profiles using keyboard shortcuts and other efficient methods. Read our comprehensive guide to learn more and
+description: Discover the fastest ways to switch between Chrome profiles using keyboard
+  shortcuts and other efficient methods. Read our comprehensive guide to learn more
+  and
 permalink: chrome-switching-profiles-keyboard-shortcut
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

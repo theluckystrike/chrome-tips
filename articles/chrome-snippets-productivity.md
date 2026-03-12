@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome DevTools Snippets for Productivity
-description: Master Chrome DevTools Snippets for productivity automation. Learn how to create saved scripts, code snippets, and automate repetitive browser tasks with the...
+description: Master Chrome DevTools Snippets for productivity automation. Learn how
+  to create saved scripts, code snippets, and automate repetitive browser tasks with
+  the...
 date: 2026-03-10
 categories:
 - browser-tips

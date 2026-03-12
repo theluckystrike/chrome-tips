@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Fix Slow Slack Web App in Chrome
-description: Is Slack running slowly in Chrome? Learn practical solutions to speed up Slack in your browser, from clearing cache to optimizing Chrome settings. Get your w...
+description: Is Slack running slowly in Chrome? Learn practical solutions to speed
+  up Slack in your browser, from clearing cache to optimizing Chrome settings. Get
+  your w...
 date: 2026-01-15
 categories:
 - chrome

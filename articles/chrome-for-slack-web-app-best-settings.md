@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Slack Web App Best Settings
-description: Optimize Chrome for the Slack web app with these settings for better speed, fewer interruptions, and smoother messaging. Discover more tips and tricks to opt
+description: Optimize Chrome for the Slack web app with these settings for better
+  speed, fewer interruptions, and smoother messaging. Discover more tips and tricks
+  to opt
 date: 2025-03-10
 categories:
 - productivity

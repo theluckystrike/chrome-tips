@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Passkeys vs Passwords Comparison
-description: A clear comparison of Chrome passkeys and passwords to help you understand the differences and decide which is better for your online security. Learn effecti...
+description: A clear comparison of Chrome passkeys and passwords to help you understand
+  the differences and decide which is better for your online security. Learn effecti...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-passkeys-vs-passwords-comparison

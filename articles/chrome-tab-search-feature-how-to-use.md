@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Tab Search Feature How to Use
-description: Learn how to use Chrome's built-in tab search feature to quickly find any open tab across all your windows. Read our comprehensive guide to learn more and impro
+description: Learn how to use Chrome's built-in tab search feature to quickly find
+  any open tab across all your windows. Read our comprehensive guide to learn more
+  and impro
 date: 2025-03-10
 categories:
 - productivity

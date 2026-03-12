@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Site Isolation Explained Simply
-description: Learn what Chrome site isolation does, why it matters for your privacy, and how to manage it for better browser performance. Read our comprehensive guide to lea
+description: Learn what Chrome site isolation does, why it matters for your privacy,
+  and how to manage it for better browser performance. Read our comprehensive guide
+  to lea
 permalink: chrome-site-isolation-explained-simply
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

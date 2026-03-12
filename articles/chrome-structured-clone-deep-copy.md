@@ -1,6 +1,8 @@
 ---
 title: 'Chrome Structured Clone and Deep Copy: A Complete Guide'
-description: Learn how Chrome's structured clone algorithm works and how to perform deep copy operations in JavaScript for efficient data handling. Read our comprehensive gu
+description: Learn how Chrome's structured clone algorithm works and how to perform
+  deep copy operations in JavaScript for efficient data handling. Read our comprehensive
+  gu
 permalink: chrome-structured-clone-deep-copy
 date: '2026-03-11'
 last_modified_at: '2026-03-11'

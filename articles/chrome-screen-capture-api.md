@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Screen Capture API Guide
-description: Master the Chrome Screen Capture API for web development. Learn screen sharing, window capture, tab capture, browser capture, display media constraints, and ...
+description: Master the Chrome Screen Capture API for web development. Learn screen
+  sharing, window capture, tab capture, browser capture, display media constraints,
+  and ...
 date: 2026-01-15
 categories:
 - chrome-api

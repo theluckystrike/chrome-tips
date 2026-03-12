@@ -1,13 +1,14 @@
 ---
-title: "chrome extensions for screen dimmer"
-description: "Find chrome extensions for screen dimmer to reduce eye strain and control brightness. Learn how to dim your screen and work more comfortably. Check out our..."
-date: "2026-01-15"
-last_modified_at: "2026-03-09"
-permalink: "chrome-extensions-for-screen-dimmer"
-layout: "post"
-categories: "[extensions, browsing]"
-tags: "[screen-dimmer, chrome-extension, eye-strain, productivity]"
-author: "theluckystrike"
+title: chrome extensions for screen dimmer
+description: Find chrome extensions for screen dimmer to reduce eye strain and control
+  brightness. Learn how to dim your screen and work more comfortably. Check out our...
+date: '2026-01-15'
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-screen-dimmer
+layout: post
+categories: '[extensions, browsing]'
+tags: '[screen-dimmer, chrome-extension, eye-strain, productivity]'
+author: theluckystrike
 ---
 # Chrome Extensions for Screen Dimmer
 

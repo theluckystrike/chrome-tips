@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome PDF Not Opening Fix
-description: PDF files won't open in Chrome. Learn simple fixes to get your PDFs displaying properly again in the browser. Learn effective tips and tricks to optimize you...
+description: PDF files won't open in Chrome. Learn simple fixes to get your PDFs displaying
+  properly again in the browser. Learn effective tips and tricks to optimize you...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-pdf-not-opening-fix

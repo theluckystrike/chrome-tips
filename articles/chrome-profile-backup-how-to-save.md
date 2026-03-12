@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Profile Backup How to Save
-description: Learn how to backup and save your Chrome profile to keep bookmarks, extensions, and settings safe. Simple guide for all users. Learn effective tips and trick...
+description: Learn how to backup and save your Chrome profile to keep bookmarks, extensions,
+  and settings safe. Simple guide for all users. Learn effective tips and trick...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-profile-backup-how-to-save

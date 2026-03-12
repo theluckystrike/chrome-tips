@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Microphone Permission for One Site How to Set
-description: Learn how to set microphone permission for a specific site in Chrome. Simple steps to control which websites can use your mic. Learn effective tips and trick...
+description: Learn how to set microphone permission for a specific site in Chrome.
+  Simple steps to control which websites can use your mic. Learn effective tips and
+  trick...
 date: '2026-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-microphone-permission-for-one-site-how-to-set
@@ -14,8 +16,6 @@ tags:
 - microphone-access
 - site-permissions
 author: theluckystrike
-last_modified_at: '2026-03-09'
-permalink: chrome-microphone-permission-for-one-site-how-to-set
 ---
 # Chrome Microphone Permission for One Site How to Set
 

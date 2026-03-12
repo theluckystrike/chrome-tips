@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "chrome extensions for wireframe design"
-description: "Discover the best Chrome extensions for wireframe design to speed up your workflow, organize prototypes, and collaborate with your team. Read our comprehensi..."
+title: chrome extensions for wireframe design
+description: Discover the best Chrome extensions for wireframe design to speed up
+  your workflow, organize prototypes, and collaborate with your team. Read our comprehensi...
 date: 2026-03-10
 last_modified_at: 2026-03-09
 permalink: chrome-extensions-for-wireframe-design

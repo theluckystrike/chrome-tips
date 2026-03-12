@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Grammar Checking Extensions
-description: Find the best Chrome extensions for grammar checking to improve your writing. Compare top picks and find the right tool. Discover more tips and tricks to opt
+description: Find the best Chrome extensions for grammar checking to improve your
+  writing. Compare top picks and find the right tool. Discover more tips and tricks
+  to opt
 date: 2026-01-15
 categories:
 - writing

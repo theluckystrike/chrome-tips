@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome Version History: Major Milestones That Shaped the Browser"
-description: "Explore the key milestones in Chrome's version history—from its launch in 2008 to the modern AI-powered browser of 2026. Learn how Chrome evolved to dominate..."
-date: "2026-01-20"
-last_modified_at: "2026-03-11"
-permalink: "chrome-version-history-major-milestones"
-categories: "[chrome, browser-history, web-development, technology]"
-tags: "[chrome-version, browser-history, google-chrome, chrome-milestones, chromium]"
-author: "theluckystrike"
+layout: post
+title: 'Chrome Version History: Major Milestones That Shaped the Browser'
+description: Explore the key milestones in Chrome's version history—from its launch
+  in 2008 to the modern AI-powered browser of 2026. Learn how Chrome evolved to dominate...
+date: '2026-01-20'
+last_modified_at: '2026-03-11'
+permalink: chrome-version-history-major-milestones
+categories: '[chrome, browser-history, web-development, technology]'
+tags: '[chrome-version, browser-history, google-chrome, chrome-milestones, chromium]'
+author: theluckystrike
 ---
 # Chrome Version History: Major Milestones That Shaped the Browser
 

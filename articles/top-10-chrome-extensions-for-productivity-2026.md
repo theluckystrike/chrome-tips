@@ -1,13 +1,15 @@
 ---
-layout: "post"
-title: "Top 10 Chrome Extensions for Productivity 2026"
-description: "Discover the top 10 Chrome extensions for productivity in 2026. Boost your workflow with these powerful browser tools. Read our comprehensive guide to learn ..."
-date: "2026-03-10"
-last_modified_at: "2026-03-10"
-permalink: "top-10-chrome-extensions-for-productivity-2026"
-categories: "[productivity, tips]"
-tags: "[chrome-extensions, productivity, browser-tools]"
-author: "theluckystrike"
+layout: post
+title: Top 10 Chrome Extensions for Productivity 2026
+description: Discover the top 10 Chrome extensions for productivity in 2026. Boost
+  your workflow with these powerful browser tools. Read our comprehensive guide to
+  learn ...
+date: '2026-03-10'
+last_modified_at: '2026-03-10'
+permalink: top-10-chrome-extensions-for-productivity-2026
+categories: '[productivity, tips]'
+tags: '[chrome-extensions, productivity, browser-tools]'
+author: theluckystrike
 ---
 # Top 10 Chrome Extensions for Productivity 2026
 

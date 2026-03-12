@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Sign in With Google on Websites Explained
-description: Learn how signing in with Google works on websites, the benefits it offers, and how to manage your sign-in options safely. Read our comprehensive guide to learn
+description: Learn how signing in with Google works on websites, the benefits it offers,
+  and how to manage your sign-in options safely. Read our comprehensive guide to learn
 date: 2026-01-15
 categories:
 - sign-in

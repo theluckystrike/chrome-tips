@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 'Chrome Super Cookies: What Are They'
-description: 'Learn about Chrome super cookies, how they differ from regular cookies, and what you can do to protect your privacy. Read our comprehensive guide to learn more '
+description: 'Learn about Chrome super cookies, how they differ from regular cookies,
+  and what you can do to protect your privacy. Read our comprehensive guide to learn
+  more '
 date: 2025-03-09
 categories:
 - privacy

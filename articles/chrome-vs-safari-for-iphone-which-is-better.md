@@ -1,13 +1,14 @@
 ---
-layout: "post"
-title: "Chrome vs Safari for iPhone Which is Better"
-description: "A practical guide comparing Chrome vs Safari for iPhone to help you decide which browser is better for speed, battery life, and features. Read our comprehens..."
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-vs-safari-for-iphone-which-is-better"
-categories: "[comparison, iphone, mobile]"
-tags: "[chrome-iphone, safari-iphone, browser-comparison, mobile-browser]"
-author: "theluckystrike"
+layout: post
+title: Chrome vs Safari for iPhone Which is Better
+description: A practical guide comparing Chrome vs Safari for iPhone to help you decide
+  which browser is better for speed, battery life, and features. Read our comprehens...
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-vs-safari-for-iphone-which-is-better
+categories: '[comparison, iphone, mobile]'
+tags: '[chrome-iphone, safari-iphone, browser-comparison, mobile-browser]'
+author: theluckystrike
 ---
 # Chrome vs Safari for iPhone Which is Better
 

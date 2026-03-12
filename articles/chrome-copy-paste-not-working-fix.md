@@ -1,15 +1,21 @@
 ---
-title: "Chrome Copy Paste Not Working Fix"
-description: "Chrome copy paste not working can be frustrating. Learn why it happens and simple fixes to get copy and paste working again. Read our full guide to master your "
-date: "2025-03-09"
-last_modified_at: "%Y->-"
-permalink: "chrome-copy-paste-not-working-fix"
-layout: post
-categories: ['troubleshooting', 'tips']
-tags: ['chrome-copy-paste', 'copy-paste-not-working', 'chrome-fix', 'browser-tips']
-author: theluckystrike
+title: Chrome Copy Paste Not Working Fix
+description: 'Chrome copy paste not working can be frustrating. Learn why it happens
+  and simple fixes to get copy and paste working again. Read our full guide to master
+  your '
+date: '2025-03-09'
 last_modified_at: '2026-03-09'
 permalink: chrome-copy-paste-not-working-fix
+layout: post
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-copy-paste
+- copy-paste-not-working
+- chrome-fix
+- browser-tips
+author: theluckystrike
 ---
 # Chrome Copy Paste Not Working Fix
 

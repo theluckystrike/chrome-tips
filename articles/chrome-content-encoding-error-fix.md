@@ -1,15 +1,21 @@
 ---
-title: "Chrome Content Encoding Error Fix"
-description: "Learn how to resolve the content encoding error in Chrome and get back to browsing smoothly. Read our full guide to master your Chrome browser experience today."
-date: "2026-01-15"
-last_modified_at: "%Y->-"
-permalink: "chrome-content-encoding-error-fix"
-layout: post
-categories: ['troubleshooting', 'tips']
-tags: ['chrome-error', 'content-encoding', 'browser-fix', 'troubleshooting']
-author: theluckystrike
+title: Chrome Content Encoding Error Fix
+description: Learn how to resolve the content encoding error in Chrome and get back
+  to browsing smoothly. Read our full guide to master your Chrome browser experience
+  today.
+date: '2026-01-15'
 last_modified_at: '2026-03-09'
 permalink: chrome-content-encoding-error-fix
+layout: post
+categories:
+- troubleshooting
+- tips
+tags:
+- chrome-error
+- content-encoding
+- browser-fix
+- troubleshooting
+author: theluckystrike
 ---
 # Chrome Content Encoding Error Fix
 

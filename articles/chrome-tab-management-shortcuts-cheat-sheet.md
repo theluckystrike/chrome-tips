@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Tab Management Shortcuts Cheat Sheet
-description: Master Chrome tab management shortcuts to work faster, find tabs instantly, and reduce browser clutter without extensions. Read our comprehensive guide to learn
+description: Master Chrome tab management shortcuts to work faster, find tabs instantly,
+  and reduce browser clutter without extensions. Read our comprehensive guide to learn
 date: 2025-03-09
 categories:
 - productivity

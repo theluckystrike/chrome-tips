@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to Use Chrome Net Internals to Clear DNS Cache
-description: Learn how to use Chrome Net Internals to clear DNS cache and troubleshoot website loading issues. Simple guide for all users. Learn effective tips and tricks...
+description: Learn how to use Chrome Net Internals to clear DNS cache and troubleshoot
+  website loading issues. Simple guide for all users. Learn effective tips and tricks...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-net-internals-dns-clear-cache
@@ -16,8 +17,6 @@ tags:
 - browser-troubleshooting
 - network-issues
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-net-internals-dns-clear-cache
 ---
 # How to Use Chrome Net Internals to Clear DNS Cache
 

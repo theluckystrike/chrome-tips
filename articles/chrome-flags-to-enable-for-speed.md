@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Flags to Enable for Speed
-description: Learn which Chrome flags can speed up your browser and improve performance. Find out more tips on how to optimize your Chrome browser experience and improve ...
+description: Learn which Chrome flags can speed up your browser and improve performance.
+  Find out more tips on how to optimize your Chrome browser experience and improve
+  ...
 date: '2026-01-15'
 last_modified_at: '2026-03-12'
 permalink: chrome-flags-to-enable-for-speed

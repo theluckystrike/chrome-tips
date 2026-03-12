@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Password Generator How to Use
-description: Learn how to use Chrome's built-in password generator to create strong, unique passwords for all your accounts. Learn effective tips and tricks to optimize y...
+description: Learn how to use Chrome's built-in password generator to create strong,
+  unique passwords for all your accounts. Learn effective tips and tricks to optimize
+  y...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-password-generator-how-to-use
@@ -14,8 +16,6 @@ tags:
 - chrome-security
 - browser-tips
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-password-generator-how-to-use
 ---
 # Chrome Password Generator How to Use
 

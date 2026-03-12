@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome requestanimationframe Explained: What It Means for Your Browser'
-description: Learn what requestAnimationFrame does in Chrome, how it affects browser performance, and why it matters for your web browsing experience. Read our comprehensive
+description: Learn what requestAnimationFrame does in Chrome, how it affects browser
+  performance, and why it matters for your web browsing experience. Read our comprehensive
 date: 2026-03-10
 categories:
 - performance

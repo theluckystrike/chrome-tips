@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Chrome Local Font Access for Web Design
-description: Discover how Chrome Local Font Access API transforms web design workflows. Learn to leverage local fonts in browser-based design tools for better creative results.
+description: Discover how Chrome Local Font Access API transforms web design workflows.
+  Learn to leverage local fonts in browser-based design tools for better creative
+  results.
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-local-font-access-web-design
 ---
-
 The world of web design is evolving rapidly, and Chrome's Local Font Access API stands at the forefront of this transformation. If you are a web designer, developer, or creative professional, understanding this powerful feature can significantly enhance your workflow and open new possibilities for browser-based design tools.
 
 ## What is Local Font Access in Chrome?

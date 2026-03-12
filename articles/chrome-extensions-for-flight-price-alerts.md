@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Flight Price Alerts"
-description: "Discover how Chrome Extensions For Flight Price Alerts can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and setti..."
+title: Chrome Extensions For Flight Price Alerts
+description: Discover how Chrome Extensions For Flight Price Alerts can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
+  setti...
 date: 2026-03-09
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-flight-price-alerts/

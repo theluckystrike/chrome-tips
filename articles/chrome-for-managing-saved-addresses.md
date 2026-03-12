@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Managing Saved Addresses
-description: Learn how to use Chrome's built-in tools and extensions to organize and manage your saved addresses efficiently. Discover more tips and tricks to optimize yo
+description: Learn how to use Chrome's built-in tools and extensions to organize and
+  manage your saved addresses efficiently. Discover more tips and tricks to optimize
+  yo
 date: 2026-01-15
 categories:
 - chrome

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Chrome DOMContentLoaded vs Load Event"
-description: "Understand the difference between DOMContentLoaded and load events in Chrome. Learn which one fires first and when your page is actually ready. Explore our ..."
+title: Chrome DOMContentLoaded vs Load Event
+description: Understand the difference between DOMContentLoaded and load events in
+  Chrome. Learn which one fires first and when your page is actually ready. Explore
+  our ...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-dom-content-loaded-vs-load-event

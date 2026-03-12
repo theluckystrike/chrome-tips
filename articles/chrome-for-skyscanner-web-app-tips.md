@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Skyscanner Web App Tips
-description: Get the most out of Skyscanner in Chrome with these practical tips. Speed up flight searches and save time. Discover more tips and tricks to optimize your br
+description: Get the most out of Skyscanner in Chrome with these practical tips. Speed
+  up flight searches and save time. Discover more tips and tricks to optimize your
+  br
 date: '2026-03-12'
 last_modified_at: '2026-03-12'
 permalink: chrome-for-skyscanner-web-app-tips

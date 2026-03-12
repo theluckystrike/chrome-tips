@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Flexbox Layout Complete Guide
-description: Learn how to use flexbox in Chrome for responsive web layouts. This complete guide covers everything from basics to advanced techniques. Find out more tips o...
+description: Learn how to use flexbox in Chrome for responsive web layouts. This complete
+  guide covers everything from basics to advanced techniques. Find out more tips o...
 date: 2025-03-10
 categories:
 - web-design

@@ -1,10 +1,12 @@
 ---
-layout: "post"
-title: "chrome translate on phone how to use"
-description: "Learn how to use Chrome translate on your phone to read foreign language websites instantly with this easy guide. Read our comprehensive guide to learn more ..."
-date: "2026-01-01"
-last_modified_at: "2026-03-10"
-permalink: "chrome-translate-on-phone-how-to-use"
+layout: post
+title: chrome translate on phone how to use
+description: Learn how to use Chrome translate on your phone to read foreign language
+  websites instantly with this easy guide. Read our comprehensive guide to learn more
+  ...
+date: '2026-01-01'
+last_modified_at: '2026-03-10'
+permalink: chrome-translate-on-phone-how-to-use
 ---
 Have you ever landed on a website in a language you do not understand and wondered how to translate it quickly on your phone? You are not alone. Many people struggle with reading foreign language content on their mobile devices, whether they are traveling, researching, or just browsing the web. Chrome translate on phone how to use is a common question, and the good news is that Google Chrome makes it surprisingly easy to translate any webpage into your preferred language right from your smartphone.
 

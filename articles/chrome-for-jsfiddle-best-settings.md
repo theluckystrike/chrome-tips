@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for JSFiddle Best Settings
-description: Optimize Chrome for JSFiddle with these browser settings. Get faster code execution, smoother debugging, and better performance. Discover more tips and trick
+description: Optimize Chrome for JSFiddle with these browser settings. Get faster
+  code execution, smoother debugging, and better performance. Discover more tips and
+  trick
 date: 2026-01-15
 categories:
 - productivity

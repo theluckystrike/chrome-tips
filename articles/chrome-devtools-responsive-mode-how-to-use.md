@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome Devtools Responsive Mode How to Use"
-description: "Learn how to use Chrome DevTools responsive mode to test your website on different screen sizes and improve mobile responsiveness. Explore our comprehensive..."
+title: Chrome Devtools Responsive Mode How to Use
+description: Learn how to use Chrome DevTools responsive mode to test your website
+  on different screen sizes and improve mobile responsiveness. Explore our comprehensive...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: chrome-devtools-responsive-mode-how-to-use

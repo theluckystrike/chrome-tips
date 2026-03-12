@@ -1,13 +1,23 @@
 ---
-layout: "post"
-title: "Chrome Hardware Acceleration Gaming: Complete Optimization Guide"
-description: "Master chrome hardware acceleration gaming with our comprehensive guide. Learn to enable GPU acceleration, optimize Chrome flags, and reduce latency for smoo..."
-date: "2026-03-11"
-last_modified_at: "2026-03-11"
-permalink: "chrome-hardware-acceleration-gaming"
-categories: [performance, gaming, chrome]
-tags: [chrome-hardware-acceleration, gaming, browser-gaming, chrome-flags, performance]
-author: "theluckystrike"
+layout: post
+title: 'Chrome Hardware Acceleration Gaming: Complete Optimization Guide'
+description: Master chrome hardware acceleration gaming with our comprehensive guide.
+  Learn to enable GPU acceleration, optimize Chrome flags, and reduce latency for
+  smoo...
+date: '2026-03-11'
+last_modified_at: '2026-03-11'
+permalink: chrome-hardware-acceleration-gaming
+categories:
+- performance
+- gaming
+- chrome
+tags:
+- chrome-hardware-acceleration
+- gaming
+- browser-gaming
+- chrome-flags
+- performance
+author: theluckystrike
 ---
 # Chrome Hardware Acceleration Gaming
 

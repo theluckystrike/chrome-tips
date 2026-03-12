@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Language Translation Extensions Comparison
-description: A friendly guide comparing the best Chrome language translation extensions to help you find the right one for your needs. Discover more tips and tricks to op
+description: A friendly guide comparing the best Chrome language translation extensions
+  to help you find the right one for your needs. Discover more tips and tricks to
+  op
 date: 2026-03-10
 categories:
 - browsing

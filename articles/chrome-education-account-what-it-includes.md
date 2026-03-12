@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Chrome Education Account What It Includes"
-description: "Discover what features and tools are included in a Chrome education account for schools and students. Explore our comprehensive guide to mastering Chrome Ed..."
+title: Chrome Education Account What It Includes
+description: Discover what features and tools are included in a Chrome education account
+  for schools and students. Explore our comprehensive guide to mastering Chrome Ed...
 date: 2026-01-15
 last_modified_at: 2026-03-10
 permalink: chrome-education-account-what-it-includes

@@ -1,13 +1,21 @@
 ---
-layout: "post"
-title: "Chrome Layout Instability API Explained"
-description: "Learn what Chrome layout instability API is, how it works, and why it matters for your browsing experience. Check out our expert recommendations and tips to en"
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-layout-instability-api-explained"
-categories: [features, web-development]
-tags: [chrome-api, layout-instability, web-vitals, performance]
-author: "theluckystrike"
+layout: post
+title: Chrome Layout Instability API Explained
+description: Learn what Chrome layout instability API is, how it works, and why it
+  matters for your browsing experience. Check out our expert recommendations and tips
+  to en
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-layout-instability-api-explained
+categories:
+- features
+- web-development
+tags:
+- chrome-api
+- layout-instability
+- web-vitals
+- performance
+author: theluckystrike
 ---
 # Chrome Layout Instability API Explained
 

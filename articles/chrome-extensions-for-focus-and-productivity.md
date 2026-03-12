@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Focus And Productivity"
-description: "Discover how Chrome Extensions For Focus And Productivity can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and se..."
+title: Chrome Extensions For Focus And Productivity
+description: Discover how Chrome Extensions For Focus And Productivity can transform
+  your browsing. This comprehensive 2026 guide covers the best Chrome extensions and
+  se...
 date: 2026-03-09
 last_modified_at: 2026-03-09
 permalink: /articles/chrome-extensions-for-focus-and-productivity/

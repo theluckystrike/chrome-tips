@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Security Key How to Use With Chrome
-description: Learn how to set up and use a security key with Google Chrome for stronger account protection. Simple steps for beginners. Read our comprehensive guide to learn
+description: Learn how to set up and use a security key with Google Chrome for stronger
+  account protection. Simple steps for beginners. Read our comprehensive guide to
+  learn
 permalink: chrome-security-key-how-to-use-with-chrome
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Slow on iPad Fix 2026
-description: 'Is Chrome running slow on your iPad? Here are practical solutions to speed up your browser and improve your experience in 2026. Read our comprehensive guide to '
+description: 'Is Chrome running slow on your iPad? Here are practical solutions to
+  speed up your browser and improve your experience in 2026. Read our comprehensive
+  guide to '
 date: 2026-01-15
 categories:
 - browser

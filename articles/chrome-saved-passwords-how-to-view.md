@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Saved Passwords How to View
-description: Learn how to view saved passwords in Chrome. Simple steps to access and manage your stored login credentials. Read our comprehensive guide to learn more and imp
+description: Learn how to view saved passwords in Chrome. Simple steps to access and
+  manage your stored login credentials. Read our comprehensive guide to learn more
+  and imp
 permalink: chrome-saved-passwords-how-to-view
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

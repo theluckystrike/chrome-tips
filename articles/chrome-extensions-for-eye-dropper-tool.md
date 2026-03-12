@@ -1,6 +1,7 @@
 ---
-title: "Chrome Extensions For Eye Dropper Tool"
-description: "Discover how Chrome Extensions For Eye Dropper Tool can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings..."
+title: Chrome Extensions For Eye Dropper Tool
+description: Discover how Chrome Extensions For Eye Dropper Tool can transform your
+  browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings...
 date: 2026-03-12
 last_modified_at: 2026-03-09
 permalink: /articles/chrome-extensions-for-eye-dropper-tool/

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Side Panel Extensions Best Ones
-description: Find the best chrome side panel extensions to organize your browser, boost productivity, and streamline your workflow. Read our comprehensive guide to learn mor
+description: Find the best chrome side panel extensions to organize your browser,
+  boost productivity, and streamline your workflow. Read our comprehensive guide to
+  learn mor
 date: 2026-03-09
 categories:
 - extensions

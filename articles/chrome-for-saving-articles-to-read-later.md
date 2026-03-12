@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Saving Articles to Read Later
-description: Discover the best Chrome extensions and built-in features for saving articles to read later without cluttering your browser. Discover more tips and tricks to
+description: Discover the best Chrome extensions and built-in features for saving
+  articles to read later without cluttering your browser. Discover more tips and tricks
+  to
 date: 2026-01-15
 categories:
 - productivity

@@ -1,13 +1,14 @@
 ---
-title: "Chrome ERR_CONNECTION_REFUSED Fix"
-description: "Getting ERR_CONNECTION_REFUSED in Chrome? Learn what causes this error and how to fix it with simple steps anyone can try. Check out our expert recommendations "
-date: "2026-01-15"
-last_modified_at: "2026-03-10"
-permalink: "chrome-err-connection-refused-fix"
-layout: "post"
-categories: "[troubleshooting, connectivity]"
-tags: "[chrome-error, connection-refused, chrome-fix, browser-problem]"
-author: "theluckystrike"
+title: Chrome ERR_CONNECTION_REFUSED Fix
+description: 'Getting ERR_CONNECTION_REFUSED in Chrome? Learn what causes this error
+  and how to fix it with simple steps anyone can try. Check out our expert recommendations '
+date: '2026-01-15'
+last_modified_at: '2026-03-10'
+permalink: chrome-err-connection-refused-fix
+layout: post
+categories: '[troubleshooting, connectivity]'
+tags: '[chrome-error, connection-refused, chrome-fix, browser-problem]'
+author: theluckystrike
 ---
 # Chrome ERR_CONNECTION_REFUSED Fix
 

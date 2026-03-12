@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Chrome Slow With Many Tabs Open? Here's How to Fix It
-description: Is Chrome slow with many tabs open? This guide explains why it happens and provides practical solutions to speed up your browser. Read our comprehensive guide t
+description: Is Chrome slow with many tabs open? This guide explains why it happens
+  and provides practical solutions to speed up your browser. Read our comprehensive
+  guide t
 date: 2026-01-15
 categories:
 - performance

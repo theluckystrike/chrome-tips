@@ -1,15 +1,23 @@
 ---
 layout: post
-title: "Best Chrome Extensions for Writers 2026"
-description: "Discover the best Chrome extensions for writers in 2026 to improve your writing productivity, grammar, style, and focus. Includes ProWritingAid, Hemingway, F..."
+title: Best Chrome Extensions for Writers 2026
+description: Discover the best Chrome extensions for writers in 2026 to improve your
+  writing productivity, grammar, style, and focus. Includes ProWritingAid, Hemingway,
+  F...
 date: 2026-01-15
-last_modified_at: 2026-03-11
-permalink: chrome-extensions-for-writers-2026
-categories: [extensions, productivity, writing]
-tags: [chrome-extension, writing-tools, productivity, grammar-checker, writer-tools]
-author: theluckystrike
 last_modified_at: '2026-03-11'
 permalink: chrome-extensions-for-writers-2026
+categories:
+- extensions
+- productivity
+- writing
+tags:
+- chrome-extension
+- writing-tools
+- productivity
+- grammar-checker
+- writer-tools
+author: theluckystrike
 ---
 # Best Chrome Extensions for Writers 2026
 

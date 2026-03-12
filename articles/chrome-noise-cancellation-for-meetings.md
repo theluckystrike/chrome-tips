@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Noise Cancellation for Meetings
-description: Discover how to enable and use noise cancellation in Chrome for clearer video meetings. Learn built-in features and extensions to eliminate background noise ...
+description: Discover how to enable and use noise cancellation in Chrome for clearer
+  video meetings. Learn built-in features and extensions to eliminate background noise
+  ...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-noise-cancellation-for-meetings
@@ -16,8 +18,6 @@ tags:
 - google-meet
 - chrome-extension
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-noise-cancellation-for-meetings
 ---
 # Chrome Noise Cancellation for Meetings
 

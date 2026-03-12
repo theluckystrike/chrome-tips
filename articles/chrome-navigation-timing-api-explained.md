@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Navigation Timing API Explained
-description: Learn what the Chrome Navigation Timing API is, how it works, and why it helps measure website loading performance. Learn effective tips and tricks to optimi...
+description: Learn what the Chrome Navigation Timing API is, how it works, and why
+  it helps measure website loading performance. Learn effective tips and tricks to
+  optimi...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-navigation-timing-api-explained

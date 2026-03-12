@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome for Tab Sleeping vs Tab Suspending Difference
-description: Learn the difference between tab sleeping and tab suspending in Chrome, and how each affects your browser performance and memory usage. Discover more tips an
+description: Learn the difference between tab sleeping and tab suspending in Chrome,
+  and how each affects your browser performance and memory usage. Discover more tips
+  an
 date: 2026-01-15
 categories:
 - chrome

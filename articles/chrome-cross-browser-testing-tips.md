@@ -1,15 +1,23 @@
 ---
-title: "Chrome Cross Browser Testing Tips"
-description: "Learn practical tips for testing websites across different browsers using Chrome's built-in tools. Read our full guide to master your Chrome browser experience "
-date: "2026-01-15"
-last_modified_at: "%Y->-"
-permalink: "chrome-cross-browser-testing-tips"
-layout: post
-categories: ['browsers', 'testing', 'web-development']
-tags: ['chrome', 'cross-browser', 'testing', 'web-development', 'browser-tools']
-author: theluckystrike
+title: Chrome Cross Browser Testing Tips
+description: 'Learn practical tips for testing websites across different browsers
+  using Chrome''s built-in tools. Read our full guide to master your Chrome browser
+  experience '
+date: '2026-01-15'
 last_modified_at: '2026-03-10'
 permalink: chrome-cross-browser-testing-tips
+layout: post
+categories:
+- browsers
+- testing
+- web-development
+tags:
+- chrome
+- cross-browser
+- testing
+- web-development
+- browser-tools
+author: theluckystrike
 ---
 # Chrome Cross Browser Testing Tips
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Chrome Recorder and DevTools: A Guide to Test Automation'
-description: Learn how to use Chrome Recorder and DevTools for powerful test automation without writing complex code. Learn effective tips and tricks to optimize your Chr...
+description: Learn how to use Chrome Recorder and DevTools for powerful test automation
+  without writing complex code. Learn effective tips and tricks to optimize your Chr...
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-recorder-devtools-test-automation
@@ -15,8 +16,6 @@ tags:
 - test-automation
 - browser-testing
 author: theluckystrike
-last_modified_at: '2026-03-11'
-permalink: chrome-recorder-devtools-test-automation
 ---
 # Chrome Recorder and DevTools: A Guide to Test Automation
 

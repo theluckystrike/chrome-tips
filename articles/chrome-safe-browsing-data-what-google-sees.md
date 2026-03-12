@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Safe Browsing Data What Google Sees
-description: 'Learn what data Chrome Safe Browsing sends to Google, why it happens, and how to protect your privacy while staying safe. Read our comprehensive guide to learn '
+description: 'Learn what data Chrome Safe Browsing sends to Google, why it happens,
+  and how to protect your privacy while staying safe. Read our comprehensive guide
+  to learn '
 date: 2026-01-15
 categories:
 - privacy

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome scrollbar styling css
-description: 'Learn how to customize Chrome scrollbar appearance using CSS. Simple methods to change scrollbar color, size, and style in your browser. Read our comprehensive '
+description: 'Learn how to customize Chrome scrollbar appearance using CSS. Simple
+  methods to change scrollbar color, size, and style in your browser. Read our comprehensive '
 date: 2026-03-09
 categories:
 - features

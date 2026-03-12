@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Tab Groups on Phone How to Use
-description: Learn how to organize and use tab groups in Chrome on your phone to keep your browsing tidy and efficient. Read our comprehensive guide to learn more and improv
+description: Learn how to organize and use tab groups in Chrome on your phone to keep
+  your browsing tidy and efficient. Read our comprehensive guide to learn more and
+  improv
 permalink: chrome-tab-groups-on-phone-how-to-use
 date: '2026-03-10'
 last_modified_at: '2026-03-10'

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Navigator Sendbeacon Explained
-description: Learn what navigator.sendBeacon does in Chrome, how it works, and why it matters for your browsing experience. Learn effective tips and tricks to optimize yo...
+description: Learn what navigator.sendBeacon does in Chrome, how it works, and why
+  it matters for your browsing experience. Learn effective tips and tricks to optimize
+  yo...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-navigator-sendbeacon-explained

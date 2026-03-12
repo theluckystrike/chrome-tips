@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome Performance Observer API Explained
-description: Learn how the Chrome Performance Observer API works, why it matters for web performance, and how to use it to monitor your browser's performance metrics.
+description: Learn how the Chrome Performance Observer API works, why it matters for
+  web performance, and how to use it to monitor your browser's performance metrics.
 date: '2026-03-11'
 last_modified_at: '2026-03-11'
 permalink: chrome-performance-observer-api

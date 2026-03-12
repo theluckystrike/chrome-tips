@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chrome for Lofi Music Extensions
-description: 'Find the best chrome for lofi music extensions to create your perfect study or work atmosphere with ambient beats. Discover more tips and tricks to optimize '
+description: 'Find the best chrome for lofi music extensions to create your perfect
+  study or work atmosphere with ambient beats. Discover more tips and tricks to optimize '
 date: 2026-03-10
 categories:
 - productivity

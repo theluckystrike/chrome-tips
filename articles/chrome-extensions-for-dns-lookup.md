@@ -1,6 +1,8 @@
 ---
-title: "Chrome Extensions For Dns Lookup"
-description: "Discover how Chrome Extensions For Dns Lookup can transform your browsing. This comprehensive 2026 guide covers the best Chrome extensions and settings to bo..."
+title: Chrome Extensions For Dns Lookup
+description: Discover how Chrome Extensions For Dns Lookup can transform your browsing.
+  This comprehensive 2026 guide covers the best Chrome extensions and settings to
+  bo...
 date: 2026-03-10
 last_modified_at: 2026-03-10
 permalink: /articles/chrome-extensions-for-dns-lookup/

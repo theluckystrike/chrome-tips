@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome for apple music web player tips
-description: Get the most out of Apple Music in Chrome with these practical tips for better performance, organization, and listening experience. Find out more tips on how...
+description: Get the most out of Apple Music in Chrome with these practical tips for
+  better performance, organization, and listening experience. Find out more tips on
+  how...
 date: 2025-01-15
 categories:
 - music

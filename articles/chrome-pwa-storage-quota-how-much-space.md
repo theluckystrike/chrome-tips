@@ -1,7 +1,8 @@
 ---
 layout: post
 title: chrome pwa storage quota how much space
-description: Learn how much storage space your Chrome PWA gets, what affects the limit, and how to manage it effectively. Learn effective tips and tricks to optimize your...
+description: Learn how much storage space your Chrome PWA gets, what affects the limit,
+  and how to manage it effectively. Learn effective tips and tricks to optimize your...
 date: '2026-03-10'
 last_modified_at: '2026-03-10'
 permalink: chrome-pwa-storage-quota-how-much-space
@@ -15,8 +16,6 @@ tags:
 - chrome
 - progressive-web-app
 author: theluckystrike
-last_modified_at: '2026-03-10'
-permalink: chrome-pwa-storage-quota-how-much-space
 ---
 # Chrome PWA Storage Quota How Much Space
 

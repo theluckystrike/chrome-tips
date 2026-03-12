@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chrome Right Click Not Working on Some Sites Fix
-description: Chrome right click not working on some sites fix. Learn why it happens on certain websites and how to resolve it. Read our comprehensive guide to learn more and
+description: Chrome right click not working on some sites fix. Learn why it happens
+  on certain websites and how to resolve it. Read our comprehensive guide to learn
+  more and
 date: 2025-03-09
 categories:
 - troubleshooting

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: chrome fledge api what advertisers know about you
-description: Learn how Chrome FLEDGE API works and what advertisers can learn about you. Find steps to control this feature and protect your privacy. Find out more tips o...
+description: Learn how Chrome FLEDGE API works and what advertisers can learn about
+  you. Find steps to control this feature and protect your privacy. Find out more
+  tips o...
 date: 2026-01-20
 categories:
 - privacy

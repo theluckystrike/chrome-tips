@@ -1,6 +1,9 @@
+[2026-03-12 17:29:21] [m15]   Title too long: 63 chars (max 60)
+[2026-03-12 17:29:26] [m15]   Title shortened: "Tab Suspender Pro vs Auto Tab Discard: 2026 Comparison" (54 chars)
+[2026-03-12 17:29:26] [m15]   WARNING: Thin keyword usage: 2 occurrences (target 3-7)
 ---
 layout: default
-title: "Tab Suspender Pro vs Auto Tab Discard: Complete 2026 Comparison"
+title: "Tab Suspender Pro vs Auto Tab Discard: 2026 Comparison"
 description: "Tab Suspender Pro vs Auto Tab Discard compared on speed, RAM savings, and features. See benchmark results and find the best tab suspender for Chrome in 2026."
 date: 2026-03-12
 last_modified_at: 2026-03-12

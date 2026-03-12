@@ -1,6 +1,11 @@
+[2026-03-12 17:28:46] [m15]   Title too long: 66 chars (max 60)
+[2026-03-12 17:28:55] [m15]   Title shortened: "Tab Suspender Pro vs Great Suspender: 2026 Comparison" (53 chars)
+[2026-03-12 17:28:55] [m15]   Description too short: 130 chars (target 150-160)
+[2026-03-12 17:29:17] [m15]   WARNING: Could not generate valid description (got 134 chars).
+[2026-03-12 17:29:17] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "Tab Suspender Pro vs The Great Suspender: Complete 2026 Comparison"
+title: "Tab Suspender Pro vs Great Suspender: 2026 Comparison"
 description: "Tab Suspender Pro vs Great Suspender compared on speed, RAM savings, security, and features. See which tab suspender wins in 2026."
 date: 2026-03-12
 last_modified_at: 2026-03-12

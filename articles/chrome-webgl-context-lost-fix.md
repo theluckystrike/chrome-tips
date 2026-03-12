@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Chrome WebGL Context Lost Fix
 description: Learn how to fix WebGL context lost errors in Chrome. This comprehensive guide covers causes, solutions, and prevention tips for 3D graphics issues.
 date: '2026-03-12'

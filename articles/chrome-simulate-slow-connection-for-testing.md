@@ -1,12 +1,12 @@
 --- 
 layout: post
 title: "How to Simulate Slow Connection in Chrome for Testing"
-description: Learn how to simulate slow internet connections in Chrome to test how If you have ever wondered how a website performs when someone views it on a slow inter
+description: "Learn how to simulate a slow connection in Chrome for testing website performance under various network conditions using the built-in DevTools throttling."
 date: "2026-01-15"
-last_modified_at: '2026-03-12'
-permalink: chrome-simulate-slow-connection-for-testing
-categories: null
-tags: null
+last_modified_at: "2026-03-12"
+permalink: "chrome-simulate-slow-connection-for-testing"
+categories: 
+tags: 
 author: theluckystrike
 ---# How to Simulate Slow Connection in Chrome for Testing
 

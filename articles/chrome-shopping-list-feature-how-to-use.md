@@ -1,12 +1,12 @@
 --- 
 layout: post
 title: "Chrome Shopping List Feature How to Use"
-description: Learn how to use Chrome's built-in shopping list feature to save products If you have been searching for how to use the chrome shopping list feature, you mi
+description: "Learn how to use the Chrome shopping list feature to save products across different sites, compare prices, and sync your favorite items between all devices."
 date: "2025-03-18"
-last_modified_at: '2026-03-12'
-permalink: chrome-shopping-list-feature-how-to-use
-categories: null
-tags: null
+last_modified_at: "2026-03-12"
+permalink: "chrome-shopping-list-feature-how-to-use"
+categories: 
+tags: 
 author: theluckystrike
 ---# Chrome Shopping List Feature How to Use
 

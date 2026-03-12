@@ -75,3 +75,8 @@ Switching to mouse gesture navigation requires a small investment of time to lea
 Give yourself permission to be clumsy at first. You will likely trigger the wrong actions occasionally or forget to use gestures in situations where they would help. That is normal and part of the learning process. Keep at it, and soon gesture navigation will become second nature.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome For Mouse Gestures Extensions](/chrome-for-mouse-gestures-extensions)
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)

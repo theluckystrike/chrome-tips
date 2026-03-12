@@ -72,4 +72,10 @@ The Chrome Encoding API TextEncoder and TextDecoder might be invisible to most u
 
 ---
 
+## Related Articles
+- [Chrome Private Aggregation API Explained](/chrome-private-aggregation-api-explained)
+- [Chrome View Transitions API: Smooth Browsing Experience Guide](/chrome-view-transitions-api-smooth)
+- [Chrome Badging API Explained](/chrome-badging-api-explained)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

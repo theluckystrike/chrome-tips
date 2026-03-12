@@ -65,4 +65,10 @@ Consider upgrading to a faster internet plan if you frequently find yourself wai
 
 ---
 
+## Related Articles
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [Chrome for Page Load Speed Testing](/chrome-for-page-load-speed-testing)
+- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

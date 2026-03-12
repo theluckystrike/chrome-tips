@@ -64,3 +64,8 @@ It is worth noting that too many extensions can sometimes have the opposite effe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
+- [Chrome Extensions For Elderly Users Simple Tools](/chrome-extensions-for-elderly-users-simple-tools)
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)

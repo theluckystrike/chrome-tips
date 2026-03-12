@@ -69,4 +69,10 @@ Tab Suspender Pro is another useful Chrome extension that helps manage your brow
 
 ---
 
+## Related Articles
+- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -57,4 +57,10 @@ Taking regular breaks from screen time is important too. If possible, step away 
 
 Finally, consider the position of your screen. Having it at eye level or slightly below, and positioned to avoid glare from windows or lights, can reduce the strain on your eyes. Small adjustments to your workstation setup can complement the benefits you get from using a blue light filter.
 
+## Related Articles
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

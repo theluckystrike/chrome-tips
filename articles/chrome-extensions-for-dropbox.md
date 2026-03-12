@@ -62,3 +62,8 @@ Chrome extensions for Dropbox are not about replacing what Dropbox does well. Ra
 Start with one or two extensions that address your biggest pain points. See how they work in your daily routine before adding more. Over time, you will develop a personal toolkit that makes using Dropbox feel effortless and even enjoyable.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)

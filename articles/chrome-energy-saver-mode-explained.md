@@ -88,4 +88,10 @@ Combined with good browsing habits like closing unused tabs and managing your ex
 
 ---
 
+## Related Articles
+- [Chrome Data Saver Mode Is It Still Available](/chrome-data-saver-mode-is-it-still-available)
+- [Chrome Memory Saver Explained: How to Reduce Browser RAM Usage](/chrome-memory-saver-explained)
+- [Chrome Energy Saver Mode What Does It Do](/chrome-energy-saver-mode-what-does-it-do)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

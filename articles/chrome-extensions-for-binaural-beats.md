@@ -63,4 +63,10 @@ Be patient with yourself as you develop this new habit. Like any skill, using bi
 
 ---
 
+## Related Articles
+- [Best Chrome Extensions for Instagram](/best-chrome-extensions-for-instagram)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Extensions for Page Zoom Per Site](/chrome-extensions-for-page-zoom-per-site)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -78,4 +78,10 @@ Start by trying one extension and learning how to read its price charts. Once yo
 
 ---
 
+## Related Articles
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+- [Chrome For Price Drop Alert Extensions](/chrome-for-price-drop-alert-extensions)
+- [Chrome Extensions for Price Tracking Amazon](/chrome-extensions-for-price-tracking-amazon)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

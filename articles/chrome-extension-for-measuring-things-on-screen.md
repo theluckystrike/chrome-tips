@@ -79,4 +79,10 @@ Remember that the most useful tool is one you actually use. An extension with ev
 
 ---
 
+## Related Articles
+- [Chrome Extension for Tracking Time Spent on Websites](/chrome-extension-for-tracking-time-spent-on-websites)
+- [Chrome Extension for Coupon Codes Automatic](/chrome-extension-for-coupon-codes-automatic)
+- [Chrome Extensions for Split Screen Browsing](/chrome-extensions-for-split-screen-browsing)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

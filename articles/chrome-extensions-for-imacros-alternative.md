@@ -64,3 +64,8 @@ The transition from iMacros might feel inconvenient at first, but the ecosystem 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Noscript Alternative](/chrome-extensions-for-noscript-alternative)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+- [Chrome Extensions for Lighthouse Alternative](/chrome-extensions-for-lighthouse-alternative)

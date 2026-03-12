@@ -75,4 +75,10 @@ If you find that your browser is running slower than usual, remember that Tab Su
 
 Having lyrics available while listening to Spotify can transform how you experience music. Whether you are learning the words to a new song, singing along to an old favorite, or just curious about what an artist is saying, the right extension makes it easy. Explore your options, find what works for you, and enjoy a richer listening experience.
 
+## Related Articles
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
+- [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
+- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

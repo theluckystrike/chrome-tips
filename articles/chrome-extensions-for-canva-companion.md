@@ -78,4 +78,10 @@ Remember that not every extension will be useful for every workflow. Start with 
 
 ---
 
+## Related Articles
+- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

@@ -91,4 +91,10 @@ Finally, remember to stop the auto refresh when you no longer need it. Leaving e
 
 ---
 
+## Related Articles
+- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)
+- [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
+- [Chrome Extensions for Cookie Auto Delete](/chrome-extensions-for-cookie-auto-delete)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

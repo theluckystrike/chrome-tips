@@ -66,3 +66,8 @@ Finally, consider combining these extensions with other travel tools. Some exten
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome for Yahoo Finance Best Extensions](/chrome-for-yahoo-finance-best-extensions)
+- [Chrome For Kayak Price Alerts Extension](/chrome-for-kayak-price-alerts-extension)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

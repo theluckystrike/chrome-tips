@@ -67,4 +67,10 @@ Organizing your downloads folder also helps. When Chrome saves multiple files to
 
 ---
 
+## Related Articles
+- [Chrome Safe Search How To Force Enable](/chrome-safe-search-how-to-force-enable)
+- [How To Enable Cookies In Chrome](/how-to-enable-cookies-in-chrome)
+- [How to Enable Chrome Tab Preview on Hover](/chrome-tab-preview-hover-how-to-enable)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

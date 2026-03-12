@@ -88,3 +88,8 @@ The best chrome extensions for ebay sniping are the ones that fit seamlessly int
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)
+- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)

@@ -85,4 +85,10 @@ Managing multiple email accounts in Chrome doesn't have to be frustrating. Built
 
 Give these methods a try and see which ones work best for how you use email. With the right tools and habits, managing multiple accounts becomes much easier.
 
+## Related Articles
+- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [Chrome Extension for Email Tracking Notification](/chrome-extension-for-email-tracking-notification)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

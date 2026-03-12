@@ -85,4 +85,10 @@ Start by trying a few different extensions to see which ones feel comfortable. M
 
 With the right chrome extensions for calendar integration, you can spend less time managing your schedule and more time actually getting things done.
 
+## Related Articles
+- [Chrome Extensions for Google Calendar](/chrome-extensions-for-google-calendar)
+- [Chrome for Calendar Management Extensions](/chrome-for-calendar-management-extensions)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

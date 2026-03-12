@@ -65,4 +65,10 @@ You do not need to install multiple extensions unless you want to. Often, one we
 
 The internet contains countless valuable articles and resources, but the clutter that surrounds them has made reading online a chore for many people. With the right extension in place, you can reclaim your reading time and actually enjoy the content you find online without fighting for your attention.
 
+## Related Articles
+- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+- [Chrome Extension for Reading Speed Tracker](/chrome-extension-for-reading-speed-tracker)
+- [Chrome Extension for QR Code Generator](/chrome-extension-for-qr-code-generator)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

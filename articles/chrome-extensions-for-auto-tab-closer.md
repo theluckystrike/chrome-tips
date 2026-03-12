@@ -82,4 +82,10 @@ Remember that managing tabs is about more than just performance. It is also abou
 
 ---
 
+## Related Articles
+- [Chrome Extensions for Cookie Auto Delete](/chrome-extensions-for-cookie-auto-delete)
+- [Chrome Extensions for Form Auto Filler](/chrome-extensions-for-form-auto-filler)
+- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

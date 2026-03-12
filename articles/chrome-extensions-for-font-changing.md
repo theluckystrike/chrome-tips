@@ -74,3 +74,8 @@ Finding the right chrome extensions for font changing can significantly improve 
 Take some time to try a few different extensions to find the one that works best for your needs. With the right tool installed, you can enjoy comfortable reading on every website, regardless of what font choices the website developers made.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+## Related Articles
+- [Chrome Extensions for eBay Sniping](/chrome-extensions-for-ebay-sniping)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Extensions for Zoom Meetings](/chrome-extensions-for-zoom-meetings)

@@ -66,4 +66,10 @@ Most extensions mentioned here are available through the Chrome Web Store and ca
 
 ---
 
+## Related Articles
+- [Chrome Extensions for Amazon Price History](/chrome-extensions-for-amazon-price-history)
+- [Chrome Extensions for Price Tracking Amazon](/chrome-extensions-for-price-tracking-amazon)
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

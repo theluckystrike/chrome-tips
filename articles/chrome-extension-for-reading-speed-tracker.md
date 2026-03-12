@@ -65,4 +65,10 @@ The goal is not to rush through everything as fast as possible. The goal is to b
 
 ---
 
+## Related Articles
+- [Chrome Extensions for Speed Reading](/chrome-extensions-for-speed-reading)
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [Chrome Extension for Coupon Codes Automatic](/chrome-extension-for-coupon-codes-automatic)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

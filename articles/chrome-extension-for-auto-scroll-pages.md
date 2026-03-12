@@ -69,4 +69,10 @@ Once installed, try using it while reading a long article or blog post. Notice h
 
 Auto scroll extensions represent a small but meaningful improvement to how we interact with web content. By letting the browser handle the scrolling, we can focus more on what actually matters, the information we are reading.
 
+## Related Articles
+- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+- [Chrome For Kayak Price Alerts Extension](/chrome-for-kayak-price-alerts-extension)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

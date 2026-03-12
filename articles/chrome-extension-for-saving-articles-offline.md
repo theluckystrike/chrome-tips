@@ -58,4 +58,10 @@ Give it a try today. Install an extension, save a few articles, and see how much
 
 ---
 
+## Related Articles
+- [Chrome Extension for Coupon Codes Automatic](/chrome-extension-for-coupon-codes-automatic)
+- [Chrome for Saving Articles to Read Later](/chrome-for-saving-articles-to-read-later)
+- [Chrome For Google Translate Extension Tips](/chrome-for-google-translate-extension-tips)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

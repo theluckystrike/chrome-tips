@@ -68,4 +68,10 @@ Finally, share what you learn with others if it helps. Discussing your findings 
 
 ---
 
+## Related Articles
+- [Chrome Extension for Highlighting Text on Websites](/chrome-extension-for-highlighting-text-on-websites)
+- [Chrome Extension for Viewing Page Load Time](/chrome-extension-for-viewing-page-load-time)
+- [Chrome Extensions for Time Tracking](/chrome-extensions-for-time-tracking)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

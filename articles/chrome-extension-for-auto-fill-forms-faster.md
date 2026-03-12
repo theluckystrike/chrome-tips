@@ -74,4 +74,10 @@ Form filling does not have to be a tedious chore. With the right chrome extensio
 
 ---
 
+## Related Articles
+- [Chrome Extension for Website Blocker Parental](/chrome-extension-for-website-blocker-parental)
+- [Chrome for Forest Focus Timer Extension](/chrome-for-forest-focus-timer-extension)
+- [Chrome Extension for Color Picker from Any Webpage](/chrome-extension-for-color-picker-from-any-webpage)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

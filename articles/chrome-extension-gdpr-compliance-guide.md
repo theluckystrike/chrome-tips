@@ -494,3 +494,8 @@ For additional privacy features in your extension workflow, consider exploring t
 ---
 
 *Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+
+## Related Articles
+- [Chrome Extensions for uBlock Origin Setup Guide](/chrome-extensions-for-ublock-origin-setup-guide)
+- [Chrome Extension for Saving Articles Offline](/chrome-extension-for-saving-articles-offline)
+- [Chrome for StayFocusd Extension Guide](/chrome-for-stayfocusd-extension-guide)

@@ -60,4 +60,10 @@ Start with the most common options if you are not sure what to choose. The defau
 
 Keep in mind that changing your user agent might affect how some websites function. You might see different content, different layouts, or lose access to features that are specific to your actual browser. Most of the time this is temporary and only affects the site you are testing, but it is worth being aware of.
 
+## Related Articles
+- [Chrome Client Hints Instead of User Agent: What Changed](/chrome-client-hints-instead-of-user-agent)
+- [Chrome Supervised Profiles for Kids](/chrome-supervised-user-profile-for-kids)
+- [Chrome Extensions for User Agent Randomizer](/chrome-extensions-for-user-agent-randomizer)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

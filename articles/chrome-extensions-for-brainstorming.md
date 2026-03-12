@@ -84,4 +84,10 @@ If you struggle with capturing ideas quickly, try Sticky Notes or a web clipper.
 
 Remember that brainstorming is a skill, and like any skill, it improves with practice and the right tools. By incorporating these extensions into your workflow, you will find it easier to generate ideas, stay organized, and develop your thoughts into something meaningful.
 
+## Related Articles
+- [Chrome Extensions for Highlighting Text on Web](/chrome-extensions-for-highlighting-text-on-web)
+- [Chrome Extensions for Figma Companion](/chrome-extensions-for-figma-companion)
+- [Chrome Extensions for Email Productivity](/chrome-extensions-for-email-productivity)
+
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

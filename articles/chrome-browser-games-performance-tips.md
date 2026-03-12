@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Browser Games Performance Tips"
-description: "Improve your Chrome browser games performance with these practical tips. Get smoother gameplay and faster loading times."
-date: 2025-02-20
+description: "Improve your Chrome browser games performance with these practical tips. Get smoother gameplay and faster loading times. Check out our expert guide for step-by-"
+date: "2025-02-20"
+last_modified_at: "2026-03-10"
+permalink: "chrome-browser-games-performance-tips"
 categories: [performance, gaming]
 tags: [chrome-gaming, browser-games, chrome-performance, gaming-tips]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 If you are looking for chrome browser games performance tips, you have probably experienced lag, stuttering, or slow loading times while playing your favorite web-based games. Chrome is a powerful browser, but its default settings are not optimized for gaming. A few simple adjustments can make a world of difference in how smoothly your games run.

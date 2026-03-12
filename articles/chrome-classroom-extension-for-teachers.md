@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "chrome classroom extension for teachers"
-description: "Learn how chrome classroom extension for teachers can transform your digital classroom management and save hours every week."
-date: 2026-01-15
+description: "Learn how chrome classroom extension for teachers can transform your digital classroom management and save hours every week. Check out our expert guide for step"
+date: "2026-01-15"
+last_modified_at: "2026-03-09"
+permalink: "chrome-classroom-extension-for-teachers"
 categories: [extensions, education, classroom]
 tags: [chrome-classroom-extension, teachers, education, classroom-management]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Classroom Extension for Teachers

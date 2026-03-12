@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Bounce Tracking Protection Explained: What It Is and How to Enable It"
-description: "Learn what bounce tracking protection in Chrome does, how it prevents invasive tracking, and how to manage this privacy feature for a more secure browsing experience."
-date: 2026-03-09
+description: "Learn what bounce tracking protection in Chrome does, how it prevents invasive tracking, and how to manage this privacy feature for a more secure browsing ex..."
+date: "2026-03-09"
+last_modified_at: "2026-03-11"
+permalink: "chrome-bounce-tracking-protection-explained"
 categories: [privacy, tips]
 tags: [chrome-bounce-tracking, chrome-privacy, browser-tracking, tracking-protection]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Bounce Tracking Protection Explained: What It Is and How to Enable It

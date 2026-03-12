@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Bookmarks Disappeared: How to Recover Them"
-description: "Your Chrome bookmarks vanished? Learn proven methods to recover lost bookmarks, from checking sync settings to restoring from backup files."
-date: 2026-01-15
+description: "Your Chrome bookmarks vanished? Learn proven methods to recover lost bookmarks, from checking sync settings to restoring from backup files. Check out our expert"
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-bookmarks-disappeared-how-to-recover"
 categories: [chrome, bookmarks, recovery]
 tags: [chrome-bookmarks, bookmark-recovery, browser-tips, data-recovery]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Bookmarks Disappeared: How to Recover Them

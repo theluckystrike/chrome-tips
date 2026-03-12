@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: "post"
 title: "Chrome Bookmarks Disappeared After Update: Complete Recovery Guide"
 description: "Your Chrome bookmarks vanished after an update? Learn practical step-by-step solutions to recover lost bookmarks and prevent future loss. Real fixes that work."
-date: 2026-01-15
+date: "2026-01-15"
+last_modified_at: "2026-03-11"
+permalink: "chrome-bookmarks-disappeared-after-update"
 categories: [chrome, bookmarks, troubleshooting]
 tags: [chrome-bookmarks, browser-issues, bookmark-recovery, chrome-update]
-author: theluckystrike
+author: "theluckystrike"
 ---
 
 # Chrome Bookmarks Disappeared After Update: Complete Recovery Guide

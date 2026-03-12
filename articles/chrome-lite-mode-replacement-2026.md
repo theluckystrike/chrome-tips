@@ -13,7 +13,7 @@ tags:
 - data-saving
 - chrome-2026
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-lite-mode-replacement-2026
 ---
 

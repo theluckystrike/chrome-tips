@@ -14,7 +14,7 @@ tags:
 - install
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-on-raspberry-pi-how-to-install
 ---
 

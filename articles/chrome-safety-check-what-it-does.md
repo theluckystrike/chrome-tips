@@ -5,7 +5,7 @@ description: Learn what Chrome Safety Check does and how it protects your browsi
   experience from security threats. This guide on Chrome Safety Check What It Does
   provid...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-safety-check-what-it-does
 ---
 

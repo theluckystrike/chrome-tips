@@ -4,7 +4,7 @@ title: Chrome Has Selector Explained
 description: Learn what the Chrome has selector is, why it matters for web browsing,
   and how it affects your browsing experience. This guide on Chrome Has Selector Explai...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-has-selector-explained
 ---
 

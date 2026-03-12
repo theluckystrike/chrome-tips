@@ -14,7 +14,7 @@ tags:
 - customization
 - most-visited
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-most-visited-sites-how-to-remove
 ---
 

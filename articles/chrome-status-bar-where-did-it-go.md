@@ -14,7 +14,7 @@ tags:
 - browser-problem
 - chrome-interface
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-status-bar-where-did-it-go
 ---
 

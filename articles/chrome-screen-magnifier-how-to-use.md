@@ -4,7 +4,7 @@ title: Chrome Screen Magnifier How to Use
 description: Learn how to use Chrome screen magnifier to enlarge text and images.
   Simple steps for better visibility while browsing. This guide on Chrome Screen Magnifier...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-screen-magnifier-how-to-use
 ---
 

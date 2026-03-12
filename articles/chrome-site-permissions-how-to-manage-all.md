@@ -5,7 +5,7 @@ description: Learn how to manage all Chrome site permissions in one place to con
   what websites can access. This guide on Chrome Site Permissions How to Manage All
   pro...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-site-permissions-how-to-manage-all
 ---
 

@@ -4,7 +4,7 @@ title: Chrome Google Workspace Integration Tips
 description: Learn how to integrate Chrome with Google Workspace for seamless productivity.
   Tips to sync, organize, and work smarter. This guide on Chrome Google Workspac...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-google-workspace-integration-tips
 ---
 

@@ -5,7 +5,7 @@ description: Learn how to manage Chrome notifications permission per site and co
   which websites can send you alerts. This guide on Chrome Notifications Permission
   Pe...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-notifications-permission-per-site
 ---
 

@@ -5,7 +5,7 @@ description: Learn how to use Chrome's Tab to Search feature to quickly find ope
   tabs across your browser. This guide on Chrome Tab to Search Feature How to Use
   provides...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-tab-to-search-feature-how-to-use
 ---
 

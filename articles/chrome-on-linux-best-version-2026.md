@@ -14,7 +14,7 @@ tags:
 - browser
 - best-version
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-on-linux-best-version-2026
 ---
 

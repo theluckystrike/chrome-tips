@@ -4,7 +4,7 @@ title: Chrome Sandboxing How It Protects You
 description: Learn how Chrome sandboxing keeps you safe online by isolating web pages
   and preventing malicious code from accessing your system. This guide on Chrome Sandb...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-sandboxing-how-it-protects-you
 ---
 

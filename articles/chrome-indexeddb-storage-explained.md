@@ -5,7 +5,7 @@ description: Learn what Chrome IndexedDB storage is, how it works, and how to ma
   it to free up space and improve browser performance. This guide on Chrome IndexedDB
   S...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-indexeddb-storage-explained
 ---
 

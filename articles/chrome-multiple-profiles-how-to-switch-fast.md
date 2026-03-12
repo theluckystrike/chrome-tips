@@ -5,7 +5,7 @@ description: Learn how to manage Chrome multiple profiles and switch between the
   quickly without the hassle. This guide on Chrome Multiple Profiles How to Switch
   Fast pr...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-multiple-profiles-how-to-switch-fast
 ---
 

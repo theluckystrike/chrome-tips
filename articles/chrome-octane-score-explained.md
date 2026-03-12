@@ -13,7 +13,7 @@ tags:
 - browser-benchmark
 - chrome-performance
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-octane-score-explained
 ---
 

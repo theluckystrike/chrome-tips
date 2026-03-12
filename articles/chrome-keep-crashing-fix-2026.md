@@ -14,7 +14,7 @@ tags:
 - browser-fix
 - chrome-not-working
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-keep-crashing-fix-2026
 ---
 

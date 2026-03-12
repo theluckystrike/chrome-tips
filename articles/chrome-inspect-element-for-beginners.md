@@ -5,7 +5,7 @@ description: Learn what Chrome Inspect Element does, why it is useful, and how t
   use it to debug issues and customize your browsing experience. This guide on Chrome
   Insp...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-inspect-element-for-beginners
 ---
 

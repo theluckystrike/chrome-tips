@@ -5,7 +5,7 @@ description: Is your Chrome mouse scroll not working? Try these simple solutions
   get smooth scrolling back in your browser. This guide on Chrome Mouse Scroll Not
   Worki...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-mouse-scroll-not-working-fix
 ---
 

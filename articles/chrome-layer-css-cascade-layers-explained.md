@@ -5,7 +5,7 @@ description: Learn how CSS cascade layers help you control style precedence in C
   and avoid messy overrides. This guide on Chrome Layer CSS Cascade Layers Explained
   p...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-layer-css-cascade-layers-explained
 ---
 

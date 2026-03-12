@@ -4,7 +4,7 @@ title: Chrome Geolocation Override How to Test
 description: Learn how to test geolocation override in Chrome using built-in developer
   tools for testing location-based features. This guide on Chrome Geolocation Overrid...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-geolocation-override-how-to-test
 ---
 

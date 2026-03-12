@@ -5,7 +5,7 @@ description: Chrome sync paused can prevent your bookmarks and settings from syn
   Here's how to get sync working again on Chrome. This guide on Chrome Sync Paused
   How...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-sync-paused-how-to-fix
 ---
 

@@ -5,7 +5,7 @@ description: Learn how to use the Chrome follow button feature to stay updated o
   your favorite websites without missing new content. This guide on Chrome Follow
   Button f...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-follow-button-for-websites-how-to-use
 ---
 

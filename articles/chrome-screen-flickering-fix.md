@@ -13,7 +13,7 @@ tags:
 - browser-problem
 - screen-flickering-fix
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-screen-flickering-fix
 ---
 

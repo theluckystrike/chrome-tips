@@ -5,7 +5,7 @@ description: Chrome slow to open first time? Learn why this happens and how to f
   it with simple steps. This guide on Chrome Takes Long Time to Open First Time provides
   ...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-takes-long-time-to-open-first-time
 ---
 

@@ -5,7 +5,7 @@ description: A simple explanation of what Chrome service workers do, why they ma
   and how to manage them for better browsing. This guide on Chrome Service Worker
   What...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-service-worker-what-it-does-explained
 ---
 

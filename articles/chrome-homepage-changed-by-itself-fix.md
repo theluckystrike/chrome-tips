@@ -14,7 +14,7 @@ tags:
 - homepage-fix
 - homepage-changed
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-homepage-changed-by-itself-fix
 ---
 

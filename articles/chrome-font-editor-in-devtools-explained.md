@@ -5,7 +5,7 @@ description: Learn what the Chrome Font Editor in DevTools does, how to access i
   and how to use it to inspect and adjust fonts on any website. This guide on Chrome
   Font...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-font-editor-in-devtools-explained
 ---
 

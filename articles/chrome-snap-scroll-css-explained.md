@@ -5,7 +5,7 @@ description: Understanding chrome snap scroll CSS and how to fix common scrollin
   issues in your browser. This guide on Chrome Snap Scroll CSS Explained provides
   the esse...
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-snap-scroll-css-explained
 ---
 

@@ -5,7 +5,7 @@ description: Learn what Chrome scope CSS is, why your styles might conflict, and
   to fix styling issues in Chrome. This guide on Chrome Scope CSS Explained provides
   th...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-scope-css-explained
 ---
 

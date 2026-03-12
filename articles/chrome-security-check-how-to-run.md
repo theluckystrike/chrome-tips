@@ -14,7 +14,7 @@ tags:
 - browser-security
 - chrome-extensions
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-security-check-how-to-run
 ---
 

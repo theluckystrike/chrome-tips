@@ -5,7 +5,7 @@ description: Learn what the Chrome Intersection Observer API is, how it works, a
   why it makes websites faster and more responsive. This guide on Chrome Intersection
   Obs...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-intersection-observer-api-explained
 ---
 

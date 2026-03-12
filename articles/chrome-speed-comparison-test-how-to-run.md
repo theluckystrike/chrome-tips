@@ -14,7 +14,7 @@ tags:
 - chrome-test
 - chrome-benchmark
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-speed-comparison-test-how-to-run
 ---
 

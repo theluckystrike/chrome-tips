@@ -14,7 +14,7 @@ tags:
 - chrome-tips
 - cross-device
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-tabs-from-other-devices-how-to-see
 ---
 

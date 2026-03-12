@@ -5,7 +5,7 @@ description: Learn how to manage Chrome geolocation permission settings to contr
   which websites can access your location. This guide on Chrome Geolocation Permission
   Se...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-geolocation-permission-settings
 ---
 

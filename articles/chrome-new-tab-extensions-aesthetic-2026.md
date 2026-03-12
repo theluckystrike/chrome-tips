@@ -13,7 +13,7 @@ tags:
 - aesthetic
 - browser-customization
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-new-tab-extensions-aesthetic-2026
 ---
 

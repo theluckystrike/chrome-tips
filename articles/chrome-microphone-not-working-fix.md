@@ -5,7 +5,7 @@ description: Is your Chrome microphone not working? Try these simple solutions t
   get your microphone working again in Chrome browser. This guide on Chrome Microphone
   Not...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-microphone-not-working-fix
 ---
 

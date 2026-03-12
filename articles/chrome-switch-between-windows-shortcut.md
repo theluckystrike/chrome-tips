@@ -5,7 +5,7 @@ description: Learn how to quickly switch between windows in Chrome using keyboar
   shortcuts. Save time and navigate faster. This guide on Chrome Switch Between Windows
   Sh...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-switch-between-windows-shortcut
 ---
 

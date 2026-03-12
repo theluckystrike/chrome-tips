@@ -5,7 +5,7 @@ description: Learn how to install any website as a standalone app in Chrome usin
   PWA technology. Simple steps to create desktop shortcuts for web apps. This guide
   on chr...
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-install-as-app-pwa-how-to
 categories:
 - productivity

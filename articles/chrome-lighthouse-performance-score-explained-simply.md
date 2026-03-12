@@ -13,7 +13,7 @@ tags:
 - score
 - website-speed
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-lighthouse-performance-score-explained-simply
 ---
 

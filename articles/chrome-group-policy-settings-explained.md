@@ -13,7 +13,7 @@ tags:
 - chrome-settings
 - browser-configuration
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-group-policy-settings-explained
 ---
 

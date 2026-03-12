@@ -15,7 +15,7 @@ tags:
 - privacy
 - browser-security
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-guest-mode-vs-incognito-difference
 ---
 

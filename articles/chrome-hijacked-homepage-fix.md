@@ -5,7 +5,7 @@ description: Learn how to fix a hijacked Chrome homepage and restore your browse
   settings with simple steps. This guide on Chrome Hijacked Homepage Fix provides
   the esse...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-hijacked-homepage-fix
 ---
 

@@ -15,7 +15,7 @@ tags:
 - chrome-fix
 - memory-usage
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-high-memory-usage-mac-fix
 ---
 

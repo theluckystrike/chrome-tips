@@ -4,7 +4,7 @@ title: Chrome IP Protection Feature Explained
 description: Learn what Chrome's IP protection does, why it matters, and how to enable
   it for safer browsing. This guide on Chrome IP Protection Feature Explained provide...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-ip-protection-feature-explained
 ---
 

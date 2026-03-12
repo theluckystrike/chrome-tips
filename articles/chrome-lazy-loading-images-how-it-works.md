@@ -5,7 +5,7 @@ description: Learn how Chrome lazy loading images works, why it matters for brow
   speed, and how to enable or disable it. This guide on Chrome Lazy Loading Images
   How I...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-lazy-loading-images-how-it-works
 ---
 

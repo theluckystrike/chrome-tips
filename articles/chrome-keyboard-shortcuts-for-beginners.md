@@ -4,7 +4,7 @@ title: Chrome Keyboard Shortcuts for Beginners
 description: Learn essential Chrome keyboard shortcuts for beginners to browse faster
   and boost productivity with these easy tips. This guide on Chrome Keyboard Shortcuts...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-keyboard-shortcuts-for-beginners
 ---
 

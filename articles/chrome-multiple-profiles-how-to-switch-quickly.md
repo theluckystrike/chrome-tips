@@ -5,7 +5,7 @@ description: Learn how to manage multiple Chrome profiles and switch between the
   quickly for work and personal browsing. This guide on Chrome Multiple Profiles How
   to Sw...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-multiple-profiles-how-to-switch-quickly
 ---
 

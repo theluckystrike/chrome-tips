@@ -5,7 +5,7 @@ description: Chrome keyboard shortcuts suddenly stop working? Learn why this hap
   and how to fix it with simple solutions. This guide on Chrome Keyboard Shortcuts
   Not ...
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-keyboard-shortcuts-not-working-fix
 ---
 

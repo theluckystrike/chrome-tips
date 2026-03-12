@@ -5,7 +5,7 @@ description: Discover powerful Chrome keyboard shortcuts that can dramatically s
   up your browsing and boost productivity. This guide on Chrome Keyboard Shortcuts
   for ...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-keyboard-shortcuts-for-power-users
 ---
 

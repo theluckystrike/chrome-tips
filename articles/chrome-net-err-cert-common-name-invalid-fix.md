@@ -14,7 +14,7 @@ tags:
 - error-fix
 - browser
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-net-err-cert-common-name-invalid-fix
 ---
 

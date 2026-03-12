@@ -5,7 +5,7 @@ description: Chrome running slow on Windows? Learn why Chrome uses high disk spa
   on Windows and how to fix it with simple steps. This guide on Chrome High Disk Usage
   Fi...
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-high-disk-usage-fix-windows
 ---
 

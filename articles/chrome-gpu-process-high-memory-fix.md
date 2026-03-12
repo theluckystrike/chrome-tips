@@ -5,7 +5,7 @@ description: Is your Chrome GPU process using too much memory? Learn why this ha
   and how to fix it with simple steps. This guide on Chrome GPU Process High Memory
   Fi...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-gpu-process-high-memory-fix
 ---
 

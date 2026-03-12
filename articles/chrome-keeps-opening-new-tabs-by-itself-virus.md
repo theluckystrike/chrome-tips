@@ -5,7 +5,7 @@ description: Is Chrome keeps opening new tabs by itself virus related? Learn why
   happens and how to fix it with simple steps. This guide on Chrome Keeps Opening
   New ...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-keeps-opening-new-tabs-by-itself-virus
 ---
 

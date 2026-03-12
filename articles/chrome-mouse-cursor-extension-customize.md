@@ -4,7 +4,7 @@ title: Chrome Mouse Cursor Extension Customize
 description: Learn how to customize your mouse cursor in Chrome with extensions. Find
   solutions for cursor visibility and customization. This guide on Chrome Mouse Cursor...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-mouse-cursor-extension-customize
 ---
 

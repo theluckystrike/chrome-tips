@@ -4,7 +4,7 @@ title: Chrome Mirroring Screen to TV How To
 description: Learn how to mirror your Chrome browser screen to your TV with easy steps.
   Connect your computer to any TV and share your display. This guide on Chrome Mirro...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-mirroring-screen-to-tv-how-to
 ---
 

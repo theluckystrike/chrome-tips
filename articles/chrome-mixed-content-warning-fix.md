@@ -14,7 +14,7 @@ tags:
 - https
 - browser-settings
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-mixed-content-warning-fix
 ---
 

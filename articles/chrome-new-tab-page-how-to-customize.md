@@ -5,7 +5,7 @@ description: Learn how to customize your Chrome new tab page with simple steps t
   improve your browsing experience and productivity. This guide on chrome new tab
   page how...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-new-tab-page-how-to-customize
 ---
 

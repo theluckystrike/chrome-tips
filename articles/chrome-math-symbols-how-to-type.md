@@ -5,7 +5,7 @@ description: Learn how to type math symbols in Chrome browser using Unicode, key
   shortcuts, copy-paste methods, and extensions. This guide on Chrome Math Symbols
   How...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-math-symbols-how-to-type
 ---
 

@@ -5,7 +5,7 @@ description: Learn how to manage Chrome site settings and permissions to control
   websites can access on your browser. This guide on Chrome Site Settings Permissions
   ...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-site-settings-permissions-explained
 ---
 

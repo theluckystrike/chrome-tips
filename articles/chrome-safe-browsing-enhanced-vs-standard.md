@@ -5,7 +5,7 @@ description: Learn the difference between Chrome's enhanced and standard Safe Br
   modes to choose the right protection level for your browsing. This guide on chrome
   ...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-safe-browsing-enhanced-vs-standard
 ---
 

@@ -5,7 +5,7 @@ description: Learn what Chrome Local Font Access API is, why it matters, and how
   affects your browser experience. This guide on Chrome Local Font Access API Explained
   ...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-local-font-access-api-explained
 ---
 

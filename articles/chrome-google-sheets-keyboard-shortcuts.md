@@ -5,7 +5,7 @@ description: Master Chrome Google Sheets keyboard shortcuts to speed up your wor
   Learn essential shortcuts for navigation, editing, and formatting. This guide on
   Ch...
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-google-sheets-keyboard-shortcuts
 ---
 

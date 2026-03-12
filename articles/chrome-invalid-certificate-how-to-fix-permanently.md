@@ -5,7 +5,7 @@ description: Getting invalid certificate errors in Chrome? Learn what causes the
   and how to fix the issue permanently with these simple solutions. This guide on
   Chrome I...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-invalid-certificate-how-to-fix-permanently
 ---
 

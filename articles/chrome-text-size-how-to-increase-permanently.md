@@ -5,7 +5,7 @@ description: Learn how to increase text size in Chrome permanently using built-i
   settings and extensions for a better reading experience. This guide on Chrome Text
   Size ...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-text-size-how-to-increase-permanently
 ---
 

@@ -4,7 +4,7 @@ title: Chrome MotionMark Graphics Benchmark
 description: Learn what the Chrome MotionMark benchmark tests, why your score matters,
   and how to improve your browser graphics performance. This guide on Chrome MotionMa...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-motionmark-graphics-benchmark
 ---
 

@@ -15,7 +15,7 @@ tags:
 - no-internet
 - browsing
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-offline-mode-how-to-browse-without-internet
 ---
 

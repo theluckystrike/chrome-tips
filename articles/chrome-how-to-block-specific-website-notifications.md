@@ -5,7 +5,7 @@ description: Stop annoying alerts from specific sites in Chrome. Learn the simpl
   settings to block website notifications while keeping ones you want. This guide
   on chrom...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-how-to-block-specific-website-notifications
 ---
 

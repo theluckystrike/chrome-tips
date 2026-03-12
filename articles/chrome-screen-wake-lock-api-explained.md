@@ -5,7 +5,7 @@ description: Learn how Chrome's screen wake lock keeps your display on, why it m
   and how to manage it for better browsing. This guide on Chrome Screen Wake Lock
   AP...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-screen-wake-lock-api-explained
 ---
 

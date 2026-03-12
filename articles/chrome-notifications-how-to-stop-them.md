@@ -5,7 +5,7 @@ description: Annoyed by Chrome notifications? Learn why they appear and how to d
   them in a few simple steps. This guide on Chrome Notifications How to Stop Them
   pro...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-notifications-how-to-stop-them
 ---
 

@@ -4,7 +4,7 @@ title: Chrome Net Internals How to Use
 description: Learn how to use Chrome Net Internals to diagnose network issues, clear
   sockets, and fix connection problems in your browser. This guide on Chrome Net Intern...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-net-internals-how-to-use
 ---
 

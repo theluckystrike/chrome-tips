@@ -5,7 +5,7 @@ description: Chrome hardware acceleration can cause display issues and high reso
   usage. Learn when and how to disable it for smoother browsing. This guide on Chrome
   H...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-hardware-acceleration-should-i-turn-it-off
 ---
 

@@ -5,7 +5,7 @@ description: Chrome Startup Boost keeps pages ready when you open the browser. L
   what it does, why it matters, and how to manage it. This guide on Chrome Startup
   Boos...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-startup-boost-what-it-does
 ---
 

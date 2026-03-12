@@ -14,7 +14,7 @@ tags:
 - high-cpu
 - browser-performance
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-network-process-high-cpu-fix
 ---
 

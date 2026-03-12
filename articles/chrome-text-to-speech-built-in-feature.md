@@ -14,7 +14,7 @@ tags:
 - accessibility
 - built-in-feature
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-text-to-speech-built-in-feature
 ---
 

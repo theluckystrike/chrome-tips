@@ -15,7 +15,7 @@ tags:
 - chrome-tips
 - organization
 author: theluckystrike
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-tab-groups-vs-bookmarks
 ---
 

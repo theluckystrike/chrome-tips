@@ -5,7 +5,7 @@ description: Learn how to change Chrome font size permanently with simple settin
   and extensions for consistent readability across all websites. This guide on Chrome
   Fon...
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-font-size-how-to-change-permanently
 ---
 

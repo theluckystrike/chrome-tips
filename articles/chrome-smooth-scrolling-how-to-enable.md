@@ -5,7 +5,7 @@ description: Want to enable smooth scrolling in Chrome? Learn how to turn it on 
   make your web browsing feel more fluid and comfortable. This guide on Chrome Smooth
   Sc...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-smooth-scrolling-how-to-enable
 ---
 

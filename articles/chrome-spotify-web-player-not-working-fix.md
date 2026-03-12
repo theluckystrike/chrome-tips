@@ -5,7 +5,7 @@ description: Is your Spotify not working in Chrome? Learn simple solutions to fi
   the Chrome Spotify web player and get back to listening. This guide on Chrome Spotify
   We...
 date: '2026-03-12'
-last_modified_at: '2026-03-10'
+last_modified_at: '2026-03-12'
 permalink: chrome-spotify-web-player-not-working-fix
 ---
 

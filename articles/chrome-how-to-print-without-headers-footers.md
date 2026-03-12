@@ -14,7 +14,7 @@ tags:
 - footers
 - clean-print
 author: theluckystrike
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-how-to-print-without-headers-footers
 ---
 

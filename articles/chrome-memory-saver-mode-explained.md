@@ -12,7 +12,7 @@ tags:
 - memory-saver
 - browser-performance
 author: theluckystrike
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-memory-saver-mode-explained
 ---
 

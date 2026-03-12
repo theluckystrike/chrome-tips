@@ -4,7 +4,7 @@ title: Chrome Select Address Bar Text Shortcut
 description: Learn how to quickly select all text in Chrome's address bar using simple
   keyboard shortcuts for faster copying and editing URLs. This guide on Chrome Select...
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-select-address-bar-text-shortcut
 ---
 

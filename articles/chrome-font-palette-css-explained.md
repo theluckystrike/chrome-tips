@@ -5,7 +5,7 @@ description: Learn what Chrome font palette CSS is, why it matters, and how to u
   it in your web projects. This guide on Chrome Font Palette CSS Explained provides
   the e...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-font-palette-css-explained
 ---
 

@@ -5,7 +5,7 @@ description: See what a Chrome mixed content warning means, why it appears, and 
   to handle it for safer browsing. This guide on Chrome Mixed Content Warning What
   It Me...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-mixed-content-warning-what-it-means
 ---
 

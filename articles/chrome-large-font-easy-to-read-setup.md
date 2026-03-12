@@ -5,7 +5,7 @@ description: Learn how to set up Chrome with large, easy-to-read fonts. Simple s
   to make browsing comfortable for everyone. This guide on Chrome Large Font Easy
   to Re...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-large-font-easy-to-read-setup
 ---
 

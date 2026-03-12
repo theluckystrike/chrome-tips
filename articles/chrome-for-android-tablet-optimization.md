@@ -4,7 +4,7 @@ title: Chrome for Android Tablet Optimization
 description: Learn how to optimize Chrome on your Android tablet for smoother performance,
   better battery life, and faster browsing. This guide on Chrome for Android Tabl...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-for-android-tablet-optimization
 ---
 

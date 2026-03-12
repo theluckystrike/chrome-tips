@@ -5,7 +5,7 @@ description: Learn what Largest Contentful Paint means in Chrome, why it matters
   your browsing speed, and how to improve it. This guide on Chrome Largest Contentful
   P...
 date: '2026-03-12'
-last_modified_at: '2026-03-09'
+last_modified_at: '2026-03-12'
 permalink: chrome-largest-contentful-paint-explained
 ---
 

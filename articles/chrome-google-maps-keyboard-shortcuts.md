@@ -5,7 +5,7 @@ description: Discover keyboard shortcuts for Google Maps in Chrome. Navigate, zo
   and explore faster without reaching for your mouse. This guide on Chrome Google
   Maps K...
 date: '2026-03-09'
-last_modified_at: '2026-03-11'
+last_modified_at: '2026-03-12'
 permalink: chrome-google-maps-keyboard-shortcuts
 ---
 

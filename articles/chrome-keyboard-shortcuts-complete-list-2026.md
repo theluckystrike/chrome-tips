@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome keyboard shortcuts complete list 2026"
-description: "Discover the complete list of Chrome keyboard shortcuts for 2026. Boost productivity with these essential shortcuts for tabs, windows, navigation, and more."
+title: Chrome Keyboard Shortcuts Complete List 2026
+description: Discover the complete list of Chrome keyboard shortcuts for 2026. Boost
+  productivity with these essential shortcuts for tabs, windows, navigation, and more.
 date: 2026-01-15
-categories: [productivity, tips]
-tags: [keyboard-shortcuts, chrome, productivity, browser]
+categories:
+- productivity
+- tips
+tags:
+- keyboard-shortcuts
+- chrome
+- productivity
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-11'
+permalink: chrome-keyboard-shortcuts-complete-list-2026
 ---
-
 # Chrome Keyboard Shortcuts Complete List 2026
 
 Mastering **chrome keyboard shortcuts complete list 2026** is one of the most effective ways to dramatically improve your browsing efficiency. Whether you are a power user managing dozens of tabs or someone who simply wants to navigate faster, these shortcuts can save you countless hours every week. This comprehensive guide covers all the essential shortcuts you need to know for Chrome in 2026.

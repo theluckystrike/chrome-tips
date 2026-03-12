@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "Chrome High Memory Usage Mac Fix"
-description: "Is Chrome using too much memory on your Mac? Learn why this happens and practical steps to reduce Chrome's memory usage on Mac."
+title: Chrome High Memory Usage Mac Fix
+description: Is Chrome using too much memory on your Mac? Learn why this happens and
+  practical steps to reduce Chrome's memory usage on Mac. Learn how to optimize your
+  br...
 date: 2026-01-15
-categories: [performance, browsers, mac]
-tags: [chrome-memory, mac-performance, chrome-fix, memory-usage]
+categories:
+- performance
+- browsers
+- mac
+tags:
+- chrome-memory
+- mac-performance
+- chrome-fix
+- memory-usage
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-high-memory-usage-mac-fix
 ---
-
 # Chrome High Memory Usage Mac Fix
 
 If you are searching for a chrome high memory usage Mac fix, you are probably frustrated with Chrome slowing down your computer. This is one of the most common complaints Mac users have about Chrome, and the good news is there are several things you can do to reduce memory usage and get your browser running smoothly again.

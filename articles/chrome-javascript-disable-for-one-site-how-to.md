@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "chrome javascript disable for one site how to"
-description: "Learn how to disable JavaScript for one specific site in Chrome without turning it off everywhere. Simple steps inside."
+title: Chrome Javascript Disable For One Site How To
+description: Learn how to disable JavaScript for one specific site in Chrome without
+  turning it off everywhere. Simple steps inside. Learn how to optimize your browser
+  to...
 date: 2026-01-15
-categories: [browser, settings]
-tags: [chrome, javascript, browser-settings, permissions]
+categories:
+- browser
+- settings
+tags:
+- chrome
+- javascript
+- browser-settings
+- permissions
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-javascript-disable-for-one-site-how-to
 ---
-
 # Chrome JavaScript Disable for One Site How To
 
 If you are searching for chrome javascript disable for one site how to, you probably want to control which websites can run JavaScript in your browser. This is a useful skill to have because JavaScript powers most of the interactive features on the web, but it can also be used to track your activity, show unwanted ads, or slow down your browser. Sometimes you might want to disable JavaScript on a specific site while keeping it enabled everywhere else. Maybe a particular website is behaving poorly, loading too slowly, or displaying content you do not want to see. Perhaps you are concerned about privacy on a specific site and want to reduce the amount of tracking. This guide will show you exactly how to disable JavaScript for just one website in Chrome without affecting your browsing experience on other sites.

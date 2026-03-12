@@ -1,13 +1,24 @@
 ---
 layout: post
-title: "Chrome HTTPS Only Mode How to Enable"
-description: "Learn how to enable HTTPS only mode in Chrome to ensure all your browsing happens over secure, encrypted connections. Simple step-by-step guide."
+title: Chrome HTTPS Only Mode How to Enable
+description: Learn how to enable HTTPS only mode in Chrome to ensure all your browsing
+  happens over secure, encrypted connections. Simple step-by-step guide. Learn how
+  to...
 date: 2026-03-10
-categories: [privacy, security, chrome-settings]
-tags: [https-only, chrome-privacy, secure-browsing, browser-security, ssl]
+categories:
+- privacy
+- security
+- chrome-settings
+tags:
+- https-only
+- chrome-privacy
+- secure-browsing
+- browser-security
+- ssl
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-https-only-mode-how-to-enable
 ---
-
 # Chrome HTTPS Only Mode How to Enable
 
 If you have ever searched for "chrome https only mode how to enable," you are probably looking for a way to make your browsing more secure. Many people want to ensure that all their web browsing happens over encrypted connections, and Chrome provides a built-in setting called HTTPS only mode that does exactly this. This guide will walk you through what HTTPS only mode does, why it matters, and how to turn it on.

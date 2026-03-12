@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "Chrome How to Clear Individual Site Data"
-description: "Learn how to clear data for specific websites in Chrome without affecting your entire browser. Fix site issues quickly."
+title: Chrome How to Clear Individual Site Data
+description: Learn how to clear data for specific websites in Chrome without affecting
+  your entire browser. Fix site issues quickly. Learn how to optimize your browser
+  to...
 date: 2025-02-19
-categories: [privacy, browser-tips]
-tags: [site-data, cookies, storage, privacy]
+categories:
+- privacy
+- browser-tips
+tags:
+- site-data
+- cookies
+- storage
+- privacy
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-how-to-clear-individual-site-data
 ---
-
 # Chrome How to Clear Individual Site Data
 
 If you are searching for chrome how to clear individual site data, you might be dealing with a specific website that is acting up. Maybe a site will not let you log in, it is showing outdated information, or it keeps crashing. The good news is that you do not have to clear your entire browser history and cache just to fix one troublesome website. Chrome lets you clear data for individual sites, which is a handy feature when you want to solve problems on specific pages without disrupting everything else.

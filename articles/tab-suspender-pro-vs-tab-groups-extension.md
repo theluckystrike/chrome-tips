@@ -1,5 +1,3 @@
-Here's the raw markdown:
-
 ---
 layout: default
 title: "Tab Suspender Pro vs Tab Groups Extension: Complete 2026 Comparison"

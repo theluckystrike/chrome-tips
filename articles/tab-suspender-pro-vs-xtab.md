@@ -1,5 +1,3 @@
-Here's the article — since the file write needs permission, I'll output the raw markdown directly:
-
 ---
 layout: default
 title: "Tab Suspender Pro vs xTab: Complete 2026 Comparison"

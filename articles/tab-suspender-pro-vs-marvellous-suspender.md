@@ -1,5 +1,3 @@
-The file write needs permission. Here's the article — I'll output it directly as raw markdown:
-
 ---
 layout: default
 title: "Tab Suspender Pro vs Marvellous Suspender: Complete 2026 Comparison"

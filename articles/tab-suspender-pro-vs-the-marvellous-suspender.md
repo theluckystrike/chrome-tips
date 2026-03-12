@@ -1,5 +1,3 @@
-The file write is being blocked. Here's the raw markdown output:
-
 ---
 layout: default
 title: "Tab Suspender Pro vs The Marvellous Suspender: Complete 2026 Comparison"

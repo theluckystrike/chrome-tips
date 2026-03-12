@@ -1,5 +1,3 @@
-It seems the write permission isn't being granted. Here's the article output directly:
-
 ---
 layout: default
 title: "Tab Suspender Pro vs Lazy Tabs: Complete 2026 Comparison"

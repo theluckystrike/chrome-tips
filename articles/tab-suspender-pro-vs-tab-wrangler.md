@@ -1,5 +1,3 @@
-
-
 ---
 layout: default
 title: "Tab Suspender Pro vs Tab Wrangler: Complete 2026 Comparison"

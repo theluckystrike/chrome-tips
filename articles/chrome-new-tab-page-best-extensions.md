@@ -87,3 +87,9 @@ You do not need to commit to one extension forever. Try a few different ones and
 Once you find the right extension for your needs, you will be surprised how such a small change can improve your daily productivity and make browsing more enjoyable.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome For Custom New Tab Page Extensions](/chrome-for-custom-new-tab-page-extensions)
+- [Chrome New Tab Page Minimalist Extensions](/chrome-new-tab-page-minimalist-extensions)
+- [Best Extensions For Tab Management Chrome](/best-extensions-for-tab-management-chrome)

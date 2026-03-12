@@ -110,4 +110,11 @@ Chrome Net Internals is a powerful but underutilized tool that can resolve many 
 
 The next time a website refuses to load or you notice unusual network behavior, remember: type `chrome://net-internals`, click "Clear host cache," and you might be back to browsing in seconds. It's a simple fix that works more often than you might expect.
 
+
+
+### Related Articles
+- [Chrome How To Clear Dns Cache](/chrome-how-to-clear-dns-cache)
+- [Chrome Net Internals How To Use](/chrome-net-internals-how-to-use)
+- [Chrome Net Internals Sockets View Connections](/chrome-net-internals-sockets-view-connections)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

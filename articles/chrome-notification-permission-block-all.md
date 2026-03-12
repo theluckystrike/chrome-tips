@@ -90,4 +90,11 @@ Remember, you always have the option to allow notifications from specific sites 
 
 ---
 
-*Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*
+*
+
+### Related Articles
+- [Chrome Notification Permission Best Practices](/chrome-notification-permission-best-practices)
+- [Chrome Pop Ups How To Block All](/chrome-pop-ups-how-to-block-all)
+- [Accidentally Closed All Chrome Tabs Recovery](/accidentally-closed-all-chrome-tabs-recovery)
+
+Built by theluckystrike — More tips at [zovo.one](https://zovo.one)*

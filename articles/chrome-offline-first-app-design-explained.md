@@ -71,3 +71,9 @@ New technologies like Background Sync allow applications to automatically upload
 The ideas behind offline first design are also influencing how browsers and operating systems handle application data. The goal is to create a seamless experience where you never have to think about whether you are online or offline, and your applications simply work regardless of your connection status.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Time To First Byte Explained](/chrome-time-to-first-byte-explained)
+- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
+- [Chrome About Settings All Pages Explained](/chrome-about-settings-all-pages-explained)

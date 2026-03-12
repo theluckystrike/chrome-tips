@@ -77,3 +77,9 @@ Managing your tabs effectively goes a long way in preventing network issues. Con
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [How To Reset Chrome To Default Settings](/how-to-reset-chrome-to-default-settings)
+- [Chrome Dns Settings How To Change For Privacy](/chrome-dns-settings-how-to-change-for-privacy)
+- [Chrome Flags Reset How To Undo Changes](/chrome-flags-reset-how-to-undo-changes)

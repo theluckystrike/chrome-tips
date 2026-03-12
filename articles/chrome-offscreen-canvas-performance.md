@@ -76,4 +76,11 @@ Chrome Offscreen Canvas performance represents a significant advancement in web 
 
 The key is to understand when and how to use this feature effectively. Not every project needs Offscreen Canvas, but for graphics-intensive applications, it can be transformative. Start with a simple implementation, measure the performance gains, and scale up as needed.
 
+
+
+### Related Articles
+- [Chrome Animation Performance](/chrome-animation-performance)
+- [Chrome Browser Games Performance Tips](/chrome-browser-games-performance-tips)
+- [Chrome Canvas Fingerprinting How To Block](/chrome-canvas-fingerprinting-how-to-block)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

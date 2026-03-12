@@ -73,3 +73,9 @@ Now you know exactly how to allow location access for one site in Chrome. Whethe
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Allow Popups For One Site How To](/chrome-allow-popups-for-one-site-how-to)
+- [Chrome How To Allow Popups For One Site](/chrome-how-to-allow-popups-for-one-site)
+- [How To Allow Pop Ups For One Site In Chrome](/how-to-allow-pop-ups-for-one-site-in-chrome)

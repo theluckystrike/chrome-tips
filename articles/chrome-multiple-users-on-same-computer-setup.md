@@ -74,3 +74,9 @@ The process only takes a few minutes to set up, and the benefits last as long as
 Give it a try if you have not already. Once everyone has their own profile, you will wonder how you ever managed without it.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Multiple Users Same Computer Setup](/chrome-multiple-users-same-computer-setup)
+- [Chrome Crashing On Low Memory Computer](/chrome-crashing-on-low-memory-computer)
+- [Chrome Lagging On 4Gb Ram Computer](/chrome-lagging-on-4gb-ram-computer)

@@ -68,3 +68,9 @@ Another common issue involves pages that use dynamic content or single-page appl
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Mobile Save Page Offline How To](/chrome-mobile-save-page-offline-how-to)
+- [Chrome Translate Entire Page How To](/chrome-translate-entire-page-how-to)
+- [Chrome Translate Page How To Use](/chrome-translate-page-how-to-use)

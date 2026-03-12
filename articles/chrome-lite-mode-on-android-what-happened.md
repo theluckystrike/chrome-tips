@@ -71,3 +71,9 @@ If you have been missing Lite Mode, try exploring the alternatives mentioned her
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Custom Tabs On Android What They Are](/chrome-custom-tabs-on-android-what-they-are)
+- [Chrome Lite Mode Discontinued What To Use Instead](/chrome-lite-mode-discontinued-what-to-use-instead)
+- [Chrome Webview On Android What It Does](/chrome-webview-on-android-what-it-does)

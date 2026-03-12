@@ -69,3 +69,9 @@ The web should work for you, not against you. Autoplay exists because it benefit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+- [Chrome Canvas Fingerprinting How To Block](/chrome-canvas-fingerprinting-how-to-block)
+- [Chrome Emulate Print Media How To](/chrome-emulate-print-media-how-to)

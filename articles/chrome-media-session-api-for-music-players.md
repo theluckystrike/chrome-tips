@@ -67,3 +67,9 @@ For now, if you have not tried using media keys with your favorite web music pla
 ---
 
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Media Session Api Music Controls](/chrome-media-session-api-music-controls)
+- [Best Chrome Extensions For Social Media](/best-chrome-extensions-for-social-media)
+- [Chrome Beacon Api For Analytics](/chrome-beacon-api-for-analytics)

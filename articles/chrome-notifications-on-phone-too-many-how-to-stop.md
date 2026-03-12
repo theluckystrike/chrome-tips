@@ -84,3 +84,9 @@ Start by checking which sites have permission to notify you. Remove the ones you
 Remember that you can always adjust these settings later if your needs change. The key is to take back control of your phone so that notifications only come from the sources that actually matter to you.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+- [Chrome Android Tabs Too Many How To Manage](/chrome-android-tabs-too-many-how-to-manage)
+- [Chrome Autofill On Phone How To Manage](/chrome-autofill-on-phone-how-to-manage)

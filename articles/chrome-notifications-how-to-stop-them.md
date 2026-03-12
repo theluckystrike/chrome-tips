@@ -74,3 +74,9 @@ Getting rid of unwanted Chrome notifications is a straightforward process once y
 Remember that you can always adjust these settings later if your needs change. The key is to check them regularly and make sure only the sites you actually want to hear from have permission to send you notifications.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Notifications On Phone Too Many How To Stop](/chrome-notifications-on-phone-too-many-how-to-stop)
+- [Chrome Auto Update How To Stop](/chrome-auto-update-how-to-stop)
+- [Chrome How To Block Specific Website Notifications](/chrome-how-to-block-specific-website-notifications)

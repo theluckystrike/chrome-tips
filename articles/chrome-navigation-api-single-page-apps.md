@@ -91,4 +91,11 @@ The web platform is constantly evolving, and the Navigation API is part of this 
 
 Whether you are building a new single page app or improving an existing one, the Chrome Navigation API provides the foundation for reliable, performant navigation that users expect from modern web applications.
 
+
+
+### Related Articles
+- [Chrome Navigation Timing Api Explained](/chrome-navigation-timing-api-explained)
+- [Chrome About Blank Page What It Means](/chrome-about-blank-page-what-it-means)
+- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

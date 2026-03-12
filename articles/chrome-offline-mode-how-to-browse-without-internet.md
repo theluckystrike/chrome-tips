@@ -77,3 +77,9 @@ Finally, keep important files and documents saved locally on your computer rathe
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Text Only Mode How To Browse](/chrome-text-only-mode-how-to-browse)
+- [Chrome Ads On Phone How To Block Without Extension](/chrome-ads-on-phone-how-to-block-without-extension)
+- [Chrome Android Dark Mode How To Enable](/chrome-android-dark-mode-how-to-enable)

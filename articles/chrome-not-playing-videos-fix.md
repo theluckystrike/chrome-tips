@@ -105,3 +105,9 @@ To reset Chrome, go to Settings, then Advanced, then Reset and clean up, and sel
 Remember that most video playback problems have simple solutions. Start with the easiest fixes like updating Chrome and clearing your cache, then work through the other steps if needed. In most cases, you will have your videos playing again without needing technical support.
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Not Playing Youtube Videos Fix](/chrome-not-playing-youtube-videos-fix)
+- [Chrome Amazon Prime Video Not Playing Fix](/chrome-amazon-prime-video-not-playing-fix)
+- [Chrome Address Bar Not Showing Fix](/chrome-address-bar-not-showing-fix)

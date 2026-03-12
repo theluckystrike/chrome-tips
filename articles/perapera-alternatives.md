@@ -1,7 +1,12 @@
+[2026-03-12 22:28:19] [m15]   Title too long: 65 chars (max 60)
+[2026-03-12 22:28:26] [m15]   Title shortened: "Perapera Alternatives: Japanese Translation for Chrome" (54 chars)
+[2026-03-12 22:28:26] [m15]   Description too short: 140 chars (target 150-160)
+[2026-03-12 22:28:39] [m15]   Description rewritten: 143 chars
+[2026-03-12 22:28:39] [m15]   WARNING: Thin keyword usage: 1 occurrences (target 3-7)
 ---
 layout: default
-title: "Perapera Alternatives: Japanese Translation Extensions for Chrome"
-description: "Top 6 Perapera alternatives for Japanese translation. BeLikeNative leads with AI-powered accuracy and 50+ language support for Chrome users."
+title: "Perapera Alternatives: Japanese Translation for Chrome"
+description: "Looking for perapera alternatives? Find the best Japanese translation extensions for Chrome. Compare features and find your perfect tool today!"
 date: 2026-03-12
 last_modified_at: 2026-03-12
 permalink: /perapera-alternatives/

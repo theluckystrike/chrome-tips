@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Chrome Encoding API Text Encoder Decoder"
-description: "Learn about the Chrome Encoding API TextEncoder and TextDecoder tools for handling text in web apps. Simple explanations for everyday users."
-date: 2025-03-11
-categories: [encoding, web-development]
-tags: [encoding, text-encoder, text-decoder, chrome-api, web-api]
-author: theluckystrike
+description: "Learn about the Chrome Encoding API TextEncoder and TextDecoder tools for handling text in web apps. Simple explanations for everyday users. Check out our exper"
+date: "2025-03-11"
+last_modified_at: "2026-03-10"
+permalink: "chrome-encoding-api-text-encoder-decoder"
+layout: "post"
+categories: "[encoding, web-development]"
+tags: "[encoding, text-encoder, text-decoder, chrome-api, web-api]"
+author: "theluckystrike"
 ---
 
 # Chrome Encoding API Text Encoder Decoder

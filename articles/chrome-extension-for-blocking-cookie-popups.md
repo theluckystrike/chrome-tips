@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Chrome Extension for Blocking Cookie Popups"
-description: "Tired of cookie popups? Learn how a chrome extension for blocking cookie popups can restore your browsing peace."
-date: 2026-03-09
-categories: [privacy, security]
-tags: [chrome-extensions, cookie-popups, privacy, blocking]
-author: theluckystrike
+description: "Tired of cookie popups? Learn how a chrome extension for blocking cookie popups can restore your browsing peace. Check out our expert recommendations and step-b"
+date: "2026-03-09"
+last_modified_at: "2026-03-10"
+permalink: "chrome-extension-for-blocking-cookie-popups"
+layout: "post"
+categories: "[privacy, security]"
+tags: "[chrome-extensions, cookie-popups, privacy, blocking]"
+author: "theluckystrike"
 ---
 
 # Chrome Extension for Blocking Cookie Popups

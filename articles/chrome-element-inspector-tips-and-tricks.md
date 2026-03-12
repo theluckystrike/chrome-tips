@@ -1,11 +1,13 @@
 ---
-layout: post
 title: "Chrome Element Inspector Tips and Tricks"
-description: "Master Chrome Element Inspector with these helpful tips. Learn how to inspect, edit, and debug web pages easily."
-date: 2026-01-15
-categories: [tutorials, development, tools]
-tags: [chrome, browser, developer-tools, web-development]
-author: theluckystrike
+description: "Master Chrome Element Inspector with these helpful tips. Learn how to inspect, edit, and debug web pages easily. Check out our expert recommendations and step-b"
+date: "2026-01-15"
+last_modified_at: "2026-03-09"
+permalink: "chrome-element-inspector-tips-and-tricks"
+layout: "post"
+categories: "[tutorials, development, tools]"
+tags: "[chrome, browser, developer-tools, web-development]"
+author: "theluckystrike"
 ---
 
 # Chrome Element Inspector Tips and Tricks

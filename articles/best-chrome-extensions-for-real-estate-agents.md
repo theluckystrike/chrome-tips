@@ -87,3 +87,10 @@ You do not need to install every extension at once. Start with one or two that a
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Can Chrome Extensions Steal Your Data](/can-chrome-extensions-steal-your-data)
+* [Chrome Extensions for Tab Notes](/chrome-extensions-for-tab-notes)
+* [Chrome Multiple Users on Same Computer Setup](/chrome-multiple-users-on-same-computer-setup)

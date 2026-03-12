@@ -87,3 +87,10 @@ Remember that more extensions are not always better. Each extension you add cons
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome for Travel Planning: Best Extensions](/chrome-for-travel-planning-best-extensions)
+* [Chrome High Memory Usage Mac Fix](/chrome-high-memory-usage-mac-fix)
+* [Chrome Strict Site Isolation: Should I Enable](/chrome-strict-site-isolation-should-i-enable)

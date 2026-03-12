@@ -90,3 +90,10 @@ If you have been feeling limited by Chrome on your Android phone, try these sugg
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [How to Make Chrome Kid-Friendly](/how-to-make-chrome-kid-friendly)
+* [How to Set Up Chrome Pop Up Blocker Exceptions](/chrome-pop-up-blocker-exceptions)
+* [Chrome WebView Android App Explained: Everything You Need to Know](/chrome-webview-android-app-explained)

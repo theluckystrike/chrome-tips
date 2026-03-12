@@ -93,3 +93,10 @@ Remember that extensions are meant to support your work, not complicate it. Take
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome Startup Pages How to Set Multiple](/chrome-startup-pages-how-to-set-multiple)
+* [Does Having Many Chrome Extensions Slow Down Browser](/does-having-many-chrome-extensions-slow-down-browser)
+* [Chrome Credential Manager Autofill Explained](/chrome-credential-manager-autofill-explained)

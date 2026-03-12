@@ -84,3 +84,10 @@ Take some time to explore each extension and configure it to match your workflow
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome Fetch API Complete Guide](/chrome-fetch-api-complete-guide)
+* [Chrome Super Cookies: What Are They](/chrome-super-cookies-what-are-they)
+* [Chrome Flags Best Performance Settings](/chrome-flags-best-performance-settings)

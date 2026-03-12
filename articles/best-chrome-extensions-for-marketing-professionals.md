@@ -85,3 +85,10 @@ Once you find the right combination of extensions, you will notice a significant
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [How to Use Chrome on Two Monitors](/how-to-use-chrome-on-two-monitors)
+* [How to Stop Chrome from Eating Your RAM](/how-to-stop-chrome-from-eating-ram)
+* [Chrome Side Panel — How to Use It Effectively](/chrome-side-panel-how-to-use)

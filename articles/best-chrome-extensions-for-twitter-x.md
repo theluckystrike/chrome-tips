@@ -100,3 +100,10 @@ You do not need to install every extension mentioned here. Start with one or two
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [How to Share Chrome Tabs in Video Calls](/how-to-share-chrome-tabs-in-video-calls)
+* [Chrome WebGPU API Getting Started Guide](/chrome-webgpu-api-getting-started)
+* [CHIPS: Cookies Having Independent Partitioned State in Chrome](/chrome-chips-cookies-having-independent-state)

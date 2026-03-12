@@ -100,3 +100,10 @@ By combining Google Drive's native capabilities with thoughtful extension choice
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome Geolocation Permission Settings](/chrome-geolocation-permission-settings)
+* [Chrome Keeps Freezing Every Few Minutes: Causes and Fixes](/chrome-keeps-freezing-every-few-minutes)
+* [Chrome For Github Copilot Web Setup](/chrome-for-github-copilot-web-setup)

@@ -100,3 +100,10 @@ Start by trying a few extensions that address your biggest pain points, then gra
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome Hidden Games Easter Eggs List](/chrome-hidden-games-easter-eggs-list)
+* [Chrome Components Page Update Manually](/chrome-components-page-update-manually)
+* [Chrome Saved Addresses How to Edit](/chrome-saved-addresses-how-to-edit)

@@ -89,3 +89,10 @@ As you get more comfortable, you can add more tools to your workflow. The goal i
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
+* [Chrome Extensions for SSL Certificate Checker](/chrome-extensions-for-ssl-certificate-checker)
+* [Why Is My Chrome Tab Using 1GB of Memory? Here's Why and How to Fix It](/chrome-tab-using-1gb-memory-why)

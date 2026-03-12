@@ -96,3 +96,10 @@ Once you find the right combination of extensions, you will notice a significant
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome Extensions for WordPress](/chrome-extensions-for-wordpress)
+* [Chrome for Budgeting: Best Web Tools](/chrome-for-budgeting-best-web-tools)
+* [Chrome Homepage Keeps Changing Fix](/chrome-homepage-keeps-changing-fix)

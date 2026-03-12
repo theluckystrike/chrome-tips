@@ -95,3 +95,10 @@ Once you build your toolkit of extensions, you will notice significant improveme
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome Memory Saver Explained: How to Reduce Browser RAM Usage](/chrome-memory-saver-explained)
+* [How to Fix Chrome Search Bar Not Working](/chrome-search-bar-not-working-fix)
+* [Chrome Saved Addresses How to Edit](/chrome-saved-addresses-how-to-edit)

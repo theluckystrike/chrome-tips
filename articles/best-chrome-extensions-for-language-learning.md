@@ -69,9 +69,9 @@ Regularly review your extension list and disable or remove any you have not used
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
 
 
-## Related Articles
-- [Chrome for Language Learning Extensions](/chrome-for-language-learning-extensions)
-- [Chrome Extensions for Language Learning](/chrome-extensions-for-language-learning)
-- [Chrome for Language Translation Extensions Comparison](/chrome-for-language-translation-extensions-comparison)
 
-Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+## Related Articles
+
+* [Chrome Site Isolation How It Protects Your Passwords](/chrome-site-isolation-how-it-protects-your-passwords)
+* [Chrome Dinosaur Game Hidden Features](/chrome-dinosaur-game-hidden-features)
+* [How to See Chrome Tabs From Other Devices](/chrome-tabs-from-other-devices-how-to-see)

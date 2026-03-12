@@ -106,3 +106,10 @@ For long-term peace of mind, enable Chrome Sync and consider using **Tab Suspend
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [How to Inspect and Debug WebSocket Connections in Chrome](/chrome-websocket-inspect-debug)
+* [Chrome vs Arc Browser: Should I Switch?](/chrome-vs-arc-browser-should-i-switch)
+* [Chrome For Twitter X Best Extensions](/chrome-for-twitter-x-best-extensions)

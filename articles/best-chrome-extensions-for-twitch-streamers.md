@@ -90,3 +90,10 @@ Once you find the right combination of extensions, you will notice a significant
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome for Reader View on Any Website](/chrome-for-reader-view-on-any-website)
+* [Chrome Extensions for Duplicate Tab Finder](/chrome-extensions-for-duplicate-tab-finder)
+* [Chrome Bookmark Bar Disappeared How to Fix](/chrome-bookmark-bar-disappeared-how-to-fix)

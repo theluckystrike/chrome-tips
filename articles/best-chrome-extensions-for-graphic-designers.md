@@ -71,3 +71,10 @@ Start with the essentials that address your biggest pain points. If you struggle
 
 
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)
+
+
+## Related Articles
+
+* [Chrome For Instacart Web App Best Settings](/chrome-for-instacart-web-app-best-settings)
+* [How to Remove Unwanted Toolbars in Chrome: Complete Guide](/chrome-unwanted-toolbar-remove-guide)
+* [Chrome Extension for Highlighting Text on Websites](/chrome-extension-for-highlighting-text-on-websites)

@@ -1,13 +1,24 @@
 ---
 layout: post
-title: "Chrome Extensions for Grammarly Alternative Free"
-description: "Looking for chrome extensions for grammarly alternative free? Find the best free grammar checkers that catch mistakes without costing anything."
+title: Chrome Extensions for Grammarly Alternative Free
+description: Looking for chrome extensions for grammarly alternative free? Find the
+  best free grammar checkers that catch mistakes without costing anything. Learn how
+  to ...
 date: 2026-03-09
-categories: [writing, tips]
-tags: [chrome-extensions, grammarly, grammar, writing, productivity, free]
+categories:
+- writing
+- tips
+tags:
+- chrome-extensions
+- grammarly
+- grammar
+- writing
+- productivity
+- free
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-grammarly-alternative-free
 ---
-
 # Chrome Extensions for Grammarly Alternative Free
 
 If you are searching for chrome extensions for grammarly alternative free, you probably want to improve your writing without paying for a subscription. Many people love Grammarly but find the price too high for their budget. The good news is that there are several quality free options available that can help you catch grammar mistakes, spelling errors, and punctuation problems without spending a cent.

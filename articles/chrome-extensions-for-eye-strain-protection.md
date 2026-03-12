@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "chrome extensions for eye strain protection"
-description: "Discover chrome extensions for eye strain protection that help reduce fatigue, block blue light, and make browsing more comfortable for your eyes."
+title: Chrome Extensions For Eye Strain Protection
+description: Discover chrome extensions for eye strain protection that help reduce
+  fatigue, block blue light, and make browsing more comfortable for your eyes. Learn
+  how ...
 date: 2026-01-15
-categories: [extensions, browsing]
-tags: [eye-strain, chrome-extension, productivity, health]
+categories:
+- extensions
+- browsing
+tags:
+- eye-strain
+- chrome-extension
+- productivity
+- health
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-eye-strain-protection
 ---
-
 # Chrome Extensions for Eye Strain Protection
 
 If you have ever found yourself searching for chrome extensions for eye strain protection, you are not alone. Millions of people spend hours staring at computer screens every day, and many experience uncomfortable symptoms like dry eyes, headaches, and fatigue. The good news is that there are practical tools available to help protect your eyes while you browse the web.

@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Meeting Notes"
-description: "Find the best Chrome extensions for meeting notes to capture key points, stay organized, and follow up effectively."
+title: Chrome Extensions for Meeting Notes
+description: Find the best Chrome extensions for meeting notes to capture key points,
+  stay organized, and follow up effectively. Learn how to optimize your browser today
+  ...
 date: 2026-03-10
-categories: [productivity, tips]
-tags: [chrome-extensions, meetings, notes]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- meetings
+- notes
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-meeting-notes
 ---
-
 # Chrome Extensions for Meeting Notes
 
 If you are looking for chrome extensions for meeting notes, you probably already know how challenging it can be to keep track of everything discussed during a busy workday. Whether you attend several video calls a day or just the occasional team meeting, finding ways to capture important information without missing the conversation itself is a common struggle.

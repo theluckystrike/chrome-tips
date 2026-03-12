@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "chrome extensions for json viewer"
-description: "Discover the best chrome extensions for json viewer. Learn how to view, format, and explore JSON data directly in your browser with these helpful tools."
+title: Chrome Extensions For Json Viewer
+description: Discover the best chrome extensions for json viewer. Learn how to view,
+  format, and explore JSON data directly in your browser with these helpful tools.
 date: 2026-01-15
-categories: [extensions, productivity]
-tags: [json, chrome-extension, developer-tools, data-viewer]
+categories:
+- extensions
+- productivity
+tags:
+- json
+- chrome-extension
+- developer-tools
+- data-viewer
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-json-viewer
 ---
-
 # Chrome Extensions for JSON Viewer
 
 If you have ever tried to read raw JSON data in your browser, you probably searched for chrome extensions for json viewer to make sense of the messy text. Working with JSON data can be frustrating when you are dealing with unformatted, hard-to-read content that seems impossible to navigate. This guide will help you understand why JSON appears the way it does in browsers and what you can do about it using simple browser extensions.

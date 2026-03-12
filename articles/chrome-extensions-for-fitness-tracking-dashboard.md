@@ -1,13 +1,23 @@
 ---
 layout: post
-title: "Chrome Extensions for Fitness Tracking Dashboard"
-description: "Discover the best Chrome extensions for fitness tracking dashboard features to monitor your workouts, nutrition, and health goals in one place."
+title: Chrome Extensions for Fitness Tracking Dashboard
+description: Discover the best Chrome extensions for fitness tracking dashboard features
+  to monitor your workouts, nutrition, and health goals in one place. Learn how to
+  ...
 date: 2026-03-10
-categories: [fitness, health, productivity]
-tags: [chrome-extensions, fitness, health-tracking, dashboard]
+categories:
+- fitness
+- health
+- productivity
+tags:
+- chrome-extensions
+- fitness
+- health-tracking
+- dashboard
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-fitness-tracking-dashboard
 ---
-
 # Chrome Extensions for Fitness Tracking Dashboard
 
 If you are searching for chrome extensions for fitness tracking dashboard, you probably want a centralized way to see all your health data without jumping between multiple apps and websites. Many people find it frustrating to check their workout logs in one place, their calorie intake in another, and their sleep data somewhere else entirely. This scattered approach makes it hard to get a complete picture of your fitness progress.

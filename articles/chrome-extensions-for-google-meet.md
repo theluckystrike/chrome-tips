@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Chrome Extensions for Google Meet"
-description: "Discover the best chrome extensions for google meet to enhance your video calls, improve productivity, and fix common frustrations with virtual meetings."
+title: Chrome Extensions for Google Meet
+description: Discover the best chrome extensions for google meet to enhance your video
+  calls, improve productivity, and fix common frustrations with virtual meetings.
 date: 2026-03-09
-categories: [productivity, tips]
-tags: [chrome-extensions, google-meet, video-calls, meetings]
+categories:
+- productivity
+- tips
+tags:
+- chrome-extensions
+- google-meet
+- video-calls
+- meetings
 author: theluckystrike
+last_modified_at: '2026-03-09'
+permalink: chrome-extensions-for-google-meet
 ---
-
 # Chrome Extensions for Google Meet
 
 If you are searching for chrome extensions for google meet, you likely use this popular video conferencing tool and want to get more out of your virtual meetings. Whether you use Google Meet for work, school, or staying connected with friends and family, the right extensions can make your experience much smoother and more productive.

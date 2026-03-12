@@ -1,13 +1,22 @@
 ---
 layout: post
-title: "chrome extensions for journalists"
-description: "Find the best chrome extensions for journalists to work smarter, stay organized, and protect your sources online."
+title: Chrome Extensions For Journalists
+description: Find the best chrome extensions for journalists to work smarter, stay
+  organized, and protect your sources online. Learn how to optimize your browser today
+  fo...
 date: 2026-01-15
-categories: [productivity, extensions]
-tags: [chrome-extensions, productivity, journalism, browser]
+categories:
+- productivity
+- extensions
+tags:
+- chrome-extensions
+- productivity
+- journalism
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-10'
+permalink: chrome-extensions-for-journalists
 ---
-
 # Chrome Extensions for Journalists
 
 If you are looking for chrome extensions for journalists, you want tools that help you work faster, stay organized, and keep your sources safe while handling the fast-paced world of news reporting. Modern journalists juggle research, interviews, writing, editing, and publishing, often switching between dozens of browser tabs throughout the day. The right extensions can take some of that pressure off by automating repetitive tasks, organizing your research, and helping you focus on what matters most: telling important stories.

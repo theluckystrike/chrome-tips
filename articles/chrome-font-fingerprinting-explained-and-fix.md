@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "Chrome Font Fingerprinting Explained and Fix"
-description: "Learn how websites track you through fonts and what you can do to prevent chrome font fingerprinting."
+title: Chrome Font Fingerprinting Explained and Fix
+description: Learn how websites track you through fonts and what you can do to prevent chrome font fingerprinting. Find out more tips on how to optimize your Chrome brows...
 date: 2026-01-15
-categories: [privacy, security]
-tags: [chrome-font-fingerprinting, privacy, browser-security]
+categories:
+- privacy
+- security
+tags:
+- chrome-font-fingerprinting
+- privacy
+- browser-security
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-font-fingerprinting-explained-and-fix
 ---
 
 # Chrome Font Fingerprinting Explained and Fix

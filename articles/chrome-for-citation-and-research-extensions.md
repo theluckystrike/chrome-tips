@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Chrome for Citation and Research Extensions"
-description: "Find the best Chrome extensions for citation and research. Save sources, generate citations, and organize your academic work easily."
+title: Chrome for Citation and Research Extensions
+description: Find the best Chrome extensions for citation and research. Save sources, generate citations, and organize your academic work easily. Find out more tips on ho...
 date: 2026-03-10
-categories: [research, citation, tips]
-tags: [chrome-extensions, citations, academic-research]
+categories:
+- research
+- citation
+- tips
+tags:
+- chrome-extensions
+- citations
+- academic-research
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-for-citation-and-research-extensions
 ---
 
 # Chrome for Citation and Research Extensions

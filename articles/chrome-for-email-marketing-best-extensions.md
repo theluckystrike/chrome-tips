@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Chrome for Email Marketing Best Extensions"
-description: "Find the best Chrome extensions for email marketing to streamline campaigns, track performance, and boost productivity."
+title: Chrome for Email Marketing Best Extensions
+description: Find the best Chrome extensions for email marketing to streamline campaigns, track performance, and boost productivity. Find out more tips on how to optimize...
 date: 2026-03-10
-categories: [email, marketing, tips]
-tags: [chrome-extensions, email-marketing, productivity]
+categories:
+- email
+- marketing
+- tips
+tags:
+- chrome-extensions
+- email-marketing
+- productivity
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-for-email-marketing-best-extensions
 ---
 
 # Chrome for Email Marketing Best Extensions

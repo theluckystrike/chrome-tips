@@ -1,11 +1,21 @@
 ---
 layout: post
-title: "chrome for crypto portfolio tracking web"
-description: "Learn how to use chrome for crypto portfolio tracking web. Discover extensions and tools to monitor your investments efficiently."
+title: chrome for crypto portfolio tracking web
+description: Learn how to use chrome for crypto portfolio tracking web. Discover extensions and tools to monitor your investments efficiently. Find out more tips on how t...
 date: 2026-01-15
-categories: [extensions, crypto, finance]
-tags: [chrome-extension, crypto, portfolio, tracking, browser]
+categories:
+- extensions
+- crypto
+- finance
+tags:
+- chrome-extension
+- crypto
+- portfolio
+- tracking
+- browser
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-for-crypto-portfolio-tracking-web
 ---
 
 # Chrome for Crypto Portfolio Tracking Web

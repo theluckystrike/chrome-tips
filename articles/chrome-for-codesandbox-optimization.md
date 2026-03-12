@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "chrome for codesandbox optimization"
-description: "Learn how to optimize Chrome for CodeSandbox to reduce memory usage and improve performance while developing in your browser."
+title: chrome for codesandbox optimization
+description: Learn how to optimize Chrome for CodeSandbox to reduce memory usage and improve performance while developing in your browser. Find out more tips on how to op...
 date: 2026-01-15
-categories: [productivity, browser]
-tags: [chrome, codesandbox, optimization, browser-performance]
+categories:
+- productivity
+- browser
+tags:
+- chrome
+- codesandbox
+- optimization
+- browser-performance
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-for-codesandbox-optimization
 ---
 
 # Chrome for CodeSandbox Optimization

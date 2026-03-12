@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Chrome for Blocking Cookie Consent Popups"
-description: "Learn how to use Chrome for blocking cookie consent popups and enjoy a smoother, less interrupted browsing experience."
+title: Chrome for Blocking Cookie Consent Popups
+description: Learn how to use Chrome for blocking cookie consent popups and enjoy a smoother, less interrupted browsing experience. Find out more tips on how to optimize ...
 date: 2026-03-10
-categories: [privacy, security]
-tags: [chrome, cookie-popups, blocking, privacy]
+categories:
+- privacy
+- security
+tags:
+- chrome
+- cookie-popups
+- blocking
+- privacy
 author: theluckystrike
+last_modified_at: '2026-03-12'
+permalink: chrome-for-blocking-cookie-consent-popups
 ---
 
 # Chrome for Blocking Cookie Consent Popups

@@ -85,4 +85,11 @@ The Chrome address bar focus shortcut is a small bridge to a much larger world o
 
 Practice using them today. Every time you find yourself reaching for the mouse to click the address bar, stop, and use the shortcut instead. Within a few days, it will be second nature, and you will be browsing faster than ever before.
 
+
+
+### Related Articles
+- [Chrome Select Address Bar Text Shortcut](/chrome-select-address-bar-text-shortcut)
+- [Chrome Address Bar Autocomplete Disable](/chrome-address-bar-autocomplete-disable)
+- [Chrome Address Bar Autocomplete How To Clear](/chrome-address-bar-autocomplete-how-to-clear)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

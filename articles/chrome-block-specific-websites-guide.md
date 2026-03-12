@@ -135,4 +135,11 @@ Start with the method that matches your technical comfort level. If you want som
 
 Take a few minutes to set up your preferred method, and enjoy the freedom of a more focused browsing experience.
 
+
+
+### Related Articles
+- [Chrome How To Block Specific Website Notifications](/chrome-how-to-block-specific-website-notifications)
+- [How To Block Websites On Chrome](/how-to-block-websites-on-chrome)
+- [Chrome Accessibility Features Guide](/chrome-accessibility-features-guide)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

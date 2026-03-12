@@ -142,4 +142,11 @@ If you found this guide helpful, consider exploring other Chrome privacy setting
 
 ---
 
+
+
+### Related Articles
+- [Chrome Address Bar Autocomplete How To Clear](/chrome-address-bar-autocomplete-how-to-clear)
+- [Chrome Address Bar Commands You Didnt Know](/chrome-address-bar-commands-you-didnt-know)
+- [Chrome Address Bar Focus Shortcut](/chrome-address-bar-focus-shortcut)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

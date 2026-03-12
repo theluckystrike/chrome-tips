@@ -73,3 +73,9 @@ Finally, pay attention to how your computer behaves. If you notice slowdowns, wa
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Background Sync Explained](/chrome-background-sync-explained)
+- [Chrome Periodic Background Sync Explained](/chrome-periodic-background-sync-explained)
+- [Chrome Anchor Positioning Api Explained](/chrome-anchor-positioning-api-explained)

@@ -89,3 +89,9 @@ Finally, contact the website where the download is hosted. They might be aware o
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Default Download Location How To Change](/chrome-default-download-location-how-to-change)
+- [Chrome Default Download Location How To Set](/chrome-default-download-location-how-to-set)
+- [Chrome Download All Images From Page How To](/chrome-download-all-images-from-page-how-to)

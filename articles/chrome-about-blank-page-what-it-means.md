@@ -72,3 +72,9 @@ Ultimately, `about:blank` is a tool for efficiency and minimalism. If you find t
 
 ---
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Attribution Reporting What It Means For Users](/chrome-attribution-reporting-what-it-means-for-users)
+- [Chrome Benchmark Score What It Means](/chrome-benchmark-score-what-it-means)
+- [Chrome Cross Origin Error What It Means](/chrome-cross-origin-error-what-it-means)

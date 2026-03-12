@@ -70,4 +70,11 @@ Chrome activity controls what they track is an important question for anyone who
 
 Taking a few minutes to review your Activity Controls and adjust them to your comfort level is a worthwhile step. You do not have to stop using Chrome to enjoy better privacy. Small changes in how you use the browser and manage your account settings can make a meaningful difference.
 
+
+
+### Related Articles
+- [Chrome Custom Tabs On Android What They Are](/chrome-custom-tabs-on-android-what-they-are)
+- [Chrome Origin Trials What They Are](/chrome-origin-trials-what-they-are)
+- [Chrome Super Cookies What Are They](/chrome-super-cookies-what-are-they)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

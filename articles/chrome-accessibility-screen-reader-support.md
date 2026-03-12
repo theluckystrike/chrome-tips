@@ -99,4 +99,11 @@ After configuring your screen reader, test on these sites to verify functionalit
 
 If these sites read correctly, your setup is working. Issues on other sites are most likely caused by poor website accessibility rather than your configuration.
 
+
+
+### Related Articles
+- [Chrome Accessibility Shortcuts For Screen Reader](/chrome-accessibility-shortcuts-for-screen-reader)
+- [Chrome Screen Reader Support](/chrome-screen-reader-support)
+- [Best Chrome Extensions For Accessibility Needs](/best-chrome-extensions-for-accessibility-needs)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

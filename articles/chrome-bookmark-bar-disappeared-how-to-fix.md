@@ -97,3 +97,9 @@ Reinstalling Chrome removes all browser data, so everything will be fresh after 
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Bookmark Bar Disappeared How To Get Back](/chrome-bookmark-bar-disappeared-how-to-get-back)
+- [Chrome Address Bar Autocomplete How To Clear](/chrome-address-bar-autocomplete-how-to-clear)
+- [Chrome Address Bar Suggestions How To Clear](/chrome-address-bar-suggestions-how-to-clear)

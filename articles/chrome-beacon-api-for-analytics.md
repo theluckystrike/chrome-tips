@@ -59,3 +59,9 @@ For users who are concerned about privacy, there are steps you can take to limit
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Cache Api Tutorial For Beginners](/chrome-cache-api-tutorial-for-beginners)
+- [Chrome Extensions For Api Testing Simple](/chrome-extensions-for-api-testing-simple)
+- [Chrome For Google Analytics In Browser](/chrome-for-google-analytics-in-browser)

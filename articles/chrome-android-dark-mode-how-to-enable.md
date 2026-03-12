@@ -82,4 +82,11 @@ Dark mode is becoming a standard feature in most apps and websites, so enabling 
 
 Give dark mode a try for a few days to see if it works for you. You can always switch back to light mode by following the same steps and selecting Light or System default from the theme settings.
 
+
+
+### Related Articles
+- [Chrome Android Desktop Mode How To Enable](/chrome-android-desktop-mode-how-to-enable)
+- [Chrome Dark Mode How To Enable](/chrome-dark-mode-how-to-enable)
+- [Chrome Dark Mode On Phone How To Enable](/chrome-dark-mode-on-phone-how-to-enable)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

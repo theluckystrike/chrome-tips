@@ -77,4 +77,11 @@ Occasionally, you might find that the **Shift+Delete** shortcut doesn't work. Th
 
 By understanding where these suggestions come from, you can tailor your Chrome experience to be as fast—or as private—as you need it to be.
 
+
+
+### Related Articles
+- [Chrome Address Bar Suggestions How To Clear](/chrome-address-bar-suggestions-how-to-clear)
+- [Chrome Address Autofill How To Manage](/chrome-address-autofill-how-to-manage)
+- [Chrome Address Bar Autocomplete Disable](/chrome-address-bar-autocomplete-disable)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

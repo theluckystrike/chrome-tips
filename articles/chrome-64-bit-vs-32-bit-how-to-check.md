@@ -64,3 +64,9 @@ If your computer supports it (and 99% of modern machines do), running 64-bit Chr
 
 ---
 *Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one*
+
+
+### Related Articles
+- [Chrome Browser Fingerprint How To Check Yours](/chrome-browser-fingerprint-how-to-check-yours)
+- [Chrome Frame Rate How To Check](/chrome-frame-rate-how-to-check)
+- [Chrome Location History In Browser How To Check](/chrome-location-history-in-browser-how-to-check)

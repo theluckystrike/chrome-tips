@@ -89,3 +89,9 @@ Sometimes hardware issues can cause browser problems. If your computer is runnin
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome Address Bar Not Working Fix](/chrome-address-bar-not-working-fix)
+- [Chrome Autofill Not Working Fix](/chrome-autofill-not-working-fix)
+- [Chrome Camera Not Working Fix](/chrome-camera-not-working-fix)

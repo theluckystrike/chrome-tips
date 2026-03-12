@@ -110,4 +110,11 @@ While you're optimizing your animations, consider your overall browser performan
 
 Master the Animations panel, and you'll ship more polished, professional web experiences—all while spending less time troubleshooting animation issues.
 
+
+
+### Related Articles
+- [Chrome Application Panel Guide](/chrome-application-panel-guide)
+- [Chrome Application Tab Inspect Service Workers](/chrome-application-tab-inspect-service-workers)
+- [Chrome Css Animations Performance Tips](/chrome-css-animations-performance-tips)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

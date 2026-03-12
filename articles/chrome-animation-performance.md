@@ -135,4 +135,11 @@ Remember that optimization is a process. Start with the fundamentals, measure yo
 
 ---
 
+
+
+### Related Articles
+- [Chrome Browser Games Performance Tips](/chrome-browser-games-performance-tips)
+- [Chrome Content Visibility Auto Performance](/chrome-content-visibility-auto-performance)
+- [Chrome Css Animations Performance Tips](/chrome-css-animations-performance-tips)
+
 Built by theluckystrike — More tips at [zovo.one](https://zovo.one)

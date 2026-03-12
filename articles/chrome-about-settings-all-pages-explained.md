@@ -115,3 +115,9 @@ Chrome can translate pages automatically. The **Offer to translate pages** toggl
 ---
 
 Tips from the team behind Tab Suspender Pro and the Zovo extension suite at zovo.one
+
+
+### Related Articles
+- [Chrome About Pages List Explained](/chrome-about-pages-list-explained)
+- [Chrome Group Policy Settings Explained](/chrome-group-policy-settings-explained)
+- [Chrome Performance Settings Explained 2026](/chrome-performance-settings-explained-2026)

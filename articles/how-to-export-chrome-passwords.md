@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "How to Export Chrome Passwords"
-description: "Learn how to export Chrome passwords to a file for backup or use in other password managers. Simple step-by-step guide."
+description: "Learn how to export Chrome passwords to a file for backup or use in other password managers. Simple step-by-step guide. Check out our complete 2026 guide for..."
+date: 2026-03-12
+last_modified_at: 2026-03-09
+permalink: how-to-export-chrome-passwords
 ---
-
 How to export chrome passwords is something many Chrome users find themselves needing to do at some point. Whether you are switching to a different browser, creating a backup of your credentials, or moving to a dedicated password manager, Chrome makes it possible to download all your saved passwords in just a few clicks. Let me walk you through how to do this, why you might want to, and some things to keep in mind along the way.
 
 ## Why You Might Want to Export Your Saved Passwords

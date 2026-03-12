@@ -1,27 +1,14 @@
 ---
-layout: default
+layout: post
 title: "Chrome Screen Capture API Guide"
-<<<<<<< HEAD
-<<<<<<< HEAD
-description: "Master the Chrome Screen Capture API for web development. Learn screen sharing, window capture, tab capture, browser capture, display media constraints, and advanced techniques for professional screen capture applications."
+description: "Master Chrome Screen Capture API with this comprehensive guide covering screen sharing, window capture, tab capture, constraints, and best practices for Chro..."
 date: 2026-01-15
-categories: [chrome-api, web-development, screen-capture]
-tags: [chrome-screen-capture-api, getdisplaymedia, screen-sharing, tab-capture, window-capture, browser-capture, webRTC]
-=======
-description: "Master Chrome's Screen Capture API for screen sharing, window capture, and tab capture. Learn constraints, best practices, and how to build powerful screen capture extensions."
-date: 2026-01-15
-categories: [extensions, developer, api]
-tags: [chrome-screen-capture, screen-sharing, tab-capture, chrome-api, getdisplaymedia]
->>>>>>> consumer/a52-chrome-screen-capture-api
-=======
-description: "Master Chrome Screen Capture API with this comprehensive guide covering screen sharing, window capture, tab capture, constraints, and best practices for Chrome extensions."
-date: 2026-01-15
+last_modified_at: 2026-03-11
+permalink: chrome-screen-capture-api
 categories: [extensions, developer, api]
 tags: [chrome-screen-capture, screen-sharing, chrome-extension, tab-capture, getdisplaymedia]
->>>>>>> consumer/a75-chrome-screen-capture-api
 author: theluckystrike
 ---
-
 # Chrome Screen Capture API Guide
 
 <<<<<<< HEAD

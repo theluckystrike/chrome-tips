@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "chrome scrollbar styling css"
-description: "Learn how to customize Chrome scrollbar appearance using CSS. Simple methods to change scrollbar color, size, and style in your browser."
+description: "Learn how to customize Chrome scrollbar appearance using CSS. Simple methods to change scrollbar color, size, and style in your browser. Check out our comple..."
 date: 2026-03-09
+last_modified_at: 2026-03-10
+permalink: chrome-scrollbar-styling-css
 categories: [features, customization]
 tags: [scrollbar, css, styling, chrome-settings]
 author: theluckystrike
 ---
-
 # Chrome Scrollbar Styling CSS
 
 If you have ever searched for chrome scrollbar styling css, you probably wanted to change how the scrollbars look in your browser. Many users find the default gray scrollbars boring or hard to see, especially when using dark mode or customized themes. This guide explains why scrollbars look the way they do in Chrome and how you can style them to match your preferences.
